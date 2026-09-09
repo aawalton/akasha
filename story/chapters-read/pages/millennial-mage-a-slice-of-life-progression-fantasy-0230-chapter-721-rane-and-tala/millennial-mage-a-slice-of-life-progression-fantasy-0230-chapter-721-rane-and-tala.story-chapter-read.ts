@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0230Chapter721RaneAndTa
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 230,
   ownLength: 2578,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3606857/chapter-721-rane-and-tala",

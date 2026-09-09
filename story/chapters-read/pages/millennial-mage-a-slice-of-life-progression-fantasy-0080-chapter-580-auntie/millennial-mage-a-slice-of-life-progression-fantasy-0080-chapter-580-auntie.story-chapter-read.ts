@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0080Chapter580Auntie = 
   position: 80,
   ownLength: 2779,
   ownProgress: 2779,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:51.473Z",
   publishedAt: "2025-06-25",
   externalLink:

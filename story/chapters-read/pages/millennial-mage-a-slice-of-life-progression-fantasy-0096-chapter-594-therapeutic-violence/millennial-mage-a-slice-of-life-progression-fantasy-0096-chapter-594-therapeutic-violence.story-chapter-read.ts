@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0096Chapter594Therapeut
   position: 96,
   ownLength: 3026,
   ownProgress: 3026,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:22.292Z",
   publishedAt: "2025-08-04",
   externalLink:

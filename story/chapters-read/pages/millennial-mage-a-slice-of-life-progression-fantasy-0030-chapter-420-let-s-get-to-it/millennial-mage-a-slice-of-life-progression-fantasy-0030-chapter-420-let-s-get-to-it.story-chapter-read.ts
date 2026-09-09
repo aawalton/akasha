@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0030Chapter420LetSGetTo
   position: 30,
   ownLength: 3089,
   ownProgress: 3089,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:15.475Z",
   publishedAt: "2024-05-13",
   externalLink:

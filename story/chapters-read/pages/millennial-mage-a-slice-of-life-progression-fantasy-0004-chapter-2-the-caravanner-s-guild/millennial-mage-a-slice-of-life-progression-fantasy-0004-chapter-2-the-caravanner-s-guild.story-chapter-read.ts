@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0004Chapter2TheCaravann
   position: 4,
   ownLength: 3774,
   ownProgress: 3774,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:25.433Z",
   publishedAt: "2021-10-28",
   externalLink:

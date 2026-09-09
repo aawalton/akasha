@@ -8,7 +8,7 @@ export const metaworldHopecore0094Chapter53KissWithAFist = {
   story: "metaworld-hopecore",
   position: 94,
   ownLength: 3071,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-01",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3475832/chapter-53-kiss-with-a-fist",

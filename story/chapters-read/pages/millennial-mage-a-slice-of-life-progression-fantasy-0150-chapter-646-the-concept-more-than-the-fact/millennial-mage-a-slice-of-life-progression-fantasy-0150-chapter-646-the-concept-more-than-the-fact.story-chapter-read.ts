@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0150Chapter646TheConcep
   position: 150,
   ownLength: 2836,
   ownProgress: 2836,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:52.351Z",
   publishedAt: "2025-12-10",
   externalLink:

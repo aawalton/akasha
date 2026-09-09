@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0042Chapter544TheStoryO
   position: 42,
   ownLength: 3004,
   ownProgress: 3004,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:38.695Z",
   publishedAt: "2025-03-26",
   externalLink:

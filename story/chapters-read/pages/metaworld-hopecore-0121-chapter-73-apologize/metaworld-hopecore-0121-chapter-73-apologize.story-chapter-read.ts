@@ -8,7 +8,7 @@ export const metaworldHopecore0121Chapter73Apologize = {
   story: "metaworld-hopecore",
   position: 121,
   ownLength: 3475,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3630972/chapter-73-apologize",

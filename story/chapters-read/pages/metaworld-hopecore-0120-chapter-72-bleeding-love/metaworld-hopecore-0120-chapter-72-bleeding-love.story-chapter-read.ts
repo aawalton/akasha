@@ -8,7 +8,7 @@ export const metaworldHopecore0120Chapter72BleedingLove = {
   story: "metaworld-hopecore",
   position: 120,
   ownLength: 4024,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3617135/chapter-72-bleeding-love",

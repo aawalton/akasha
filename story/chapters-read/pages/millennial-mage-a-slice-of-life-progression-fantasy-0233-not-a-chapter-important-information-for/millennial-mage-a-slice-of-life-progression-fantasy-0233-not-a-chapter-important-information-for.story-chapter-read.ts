@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0233NotAChapterImportan
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 233,
   ownLength: 428,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3632505/not-a-chapter-important-information-for-readers",

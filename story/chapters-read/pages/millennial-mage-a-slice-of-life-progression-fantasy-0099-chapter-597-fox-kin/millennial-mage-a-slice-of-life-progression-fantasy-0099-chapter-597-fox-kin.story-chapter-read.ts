@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0099Chapter597FoxKin = 
   position: 99,
   ownLength: 3096,
   ownProgress: 3096,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:28.198Z",
   publishedAt: "2025-08-11",
   externalLink:

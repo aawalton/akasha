@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0170Chapter664LayersUpo
   position: 170,
   ownLength: 3002,
   ownProgress: 3002,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:30.820Z",
   publishedAt: "2026-01-28",
   externalLink:

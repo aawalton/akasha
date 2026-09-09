@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0162Chapter656ShadowsAn
   position: 162,
   ownLength: 2594,
   ownProgress: 2594,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:15.116Z",
   publishedAt: "2026-01-09",
   externalLink:

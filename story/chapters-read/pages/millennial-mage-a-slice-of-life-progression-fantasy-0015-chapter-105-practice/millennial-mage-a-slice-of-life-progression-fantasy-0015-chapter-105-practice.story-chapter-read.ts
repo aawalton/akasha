@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0015Chapter105Practice 
   position: 15,
   ownLength: 3136,
   ownProgress: 3136,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:46.570Z",
   publishedAt: "2022-04-13",
   externalLink:

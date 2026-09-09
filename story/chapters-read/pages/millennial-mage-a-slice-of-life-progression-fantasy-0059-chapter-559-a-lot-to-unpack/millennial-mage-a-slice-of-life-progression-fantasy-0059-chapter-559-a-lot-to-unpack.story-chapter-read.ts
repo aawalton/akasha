@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0059Chapter559ALotToUnp
   position: 59,
   ownLength: 3031,
   ownProgress: 3031,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:11.197Z",
   publishedAt: "2025-05-07",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0109Chapter607WhatShoul
   position: 109,
   ownLength: 2622,
   ownProgress: 2622,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:47.305Z",
   publishedAt: "2025-09-03",
   externalLink:

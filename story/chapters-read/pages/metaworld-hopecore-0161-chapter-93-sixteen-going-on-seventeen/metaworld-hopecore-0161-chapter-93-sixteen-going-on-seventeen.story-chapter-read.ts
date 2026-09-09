@@ -8,7 +8,7 @@ export const metaworldHopecore0161Chapter93SixteenGoingOnSeventeen = {
   story: "metaworld-hopecore",
   position: 161,
   ownLength: 4360,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3841281/chapter-93-sixteen-going-on-seventeen",

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0085Chapter585Impossibl
   position: 85,
   ownLength: 2887,
   ownProgress: 2887,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:01.202Z",
   publishedAt: "2025-07-09",
   externalLink:

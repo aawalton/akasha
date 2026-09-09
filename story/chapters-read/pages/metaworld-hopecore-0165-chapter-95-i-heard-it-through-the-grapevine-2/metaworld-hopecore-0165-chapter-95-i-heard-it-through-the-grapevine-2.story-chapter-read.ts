@@ -8,7 +8,7 @@ export const metaworldHopecore0165Chapter95IHeardItThroughTheGrapevine2 = {
   story: "metaworld-hopecore",
   position: 165,
   ownLength: 3267,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3861283/chapter-95-i-heard-it-through-the-grapevine-2",

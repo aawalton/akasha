@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0234Chapter724ReuniteAn
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 234,
   ownLength: 2803,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-06",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3638947/chapter-724-reunite-and-re-examine",

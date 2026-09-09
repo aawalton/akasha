@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0249Chapter738TheRealit
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 249,
   ownLength: 3011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3812583/chapter-738-the-reality-of-clean-up",

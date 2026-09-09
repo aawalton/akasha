@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0053Chapter554APlannedM
   position: 53,
   ownLength: 2924,
   ownProgress: 2924,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:59.794Z",
   publishedAt: "2025-04-23",
   externalLink:

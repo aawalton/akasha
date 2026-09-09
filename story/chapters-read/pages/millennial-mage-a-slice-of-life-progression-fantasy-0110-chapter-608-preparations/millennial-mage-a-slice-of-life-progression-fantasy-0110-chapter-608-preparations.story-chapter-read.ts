@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0110Chapter608Preparati
   position: 110,
   ownLength: 2991,
   ownProgress: 2991,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:49.233Z",
   publishedAt: "2025-09-05",
   externalLink:

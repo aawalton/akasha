@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0181Chapter674CouldHave
   position: 181,
   ownLength: 2879,
   ownProgress: 2879,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:51.985Z",
   publishedAt: "2026-02-20",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0117Chapter615RightToBu
   position: 117,
   ownLength: 2622,
   ownProgress: 2622,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:02.686Z",
   publishedAt: "2025-09-22",
   externalLink:

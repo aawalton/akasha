@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0220Chapter711OtherPlac
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 220,
   ownLength: 2549,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3486889/chapter-711-other-places",

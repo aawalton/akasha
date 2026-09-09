@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0046Chapter547ASinglePl
   position: 46,
   ownLength: 3130,
   ownProgress: 3130,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:46.407Z",
   publishedAt: "2025-04-07",
   externalLink:

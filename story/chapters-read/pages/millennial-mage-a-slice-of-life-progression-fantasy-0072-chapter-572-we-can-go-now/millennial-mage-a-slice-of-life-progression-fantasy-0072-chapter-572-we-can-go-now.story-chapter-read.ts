@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0072Chapter572WeCanGoNo
   position: 72,
   ownLength: 2761,
   ownProgress: 2761,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:36.046Z",
   publishedAt: "2025-06-06",
   externalLink:

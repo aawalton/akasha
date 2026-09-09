@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0093Chapter592HonoredAc
   position: 93,
   ownLength: 3061,
   ownProgress: 3061,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:16.485Z",
   publishedAt: "2025-07-28",
   externalLink:

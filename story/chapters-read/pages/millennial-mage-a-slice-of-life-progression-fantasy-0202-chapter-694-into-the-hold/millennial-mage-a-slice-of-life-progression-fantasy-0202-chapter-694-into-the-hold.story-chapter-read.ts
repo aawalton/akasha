@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0202Chapter694IntoTheHo
   position: 202,
   ownLength: 2442,
   ownProgress: 2442,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:31.950Z",
   publishedAt: "2026-04-15",
   externalLink:

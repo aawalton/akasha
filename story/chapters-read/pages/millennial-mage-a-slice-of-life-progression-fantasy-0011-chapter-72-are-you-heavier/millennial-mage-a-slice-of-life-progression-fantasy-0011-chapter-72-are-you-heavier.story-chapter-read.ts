@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0011Chapter72AreYouHeav
   position: 11,
   ownLength: 3905,
   ownProgress: 3905,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:38.794Z",
   publishedAt: "2022-02-08",
   externalLink:

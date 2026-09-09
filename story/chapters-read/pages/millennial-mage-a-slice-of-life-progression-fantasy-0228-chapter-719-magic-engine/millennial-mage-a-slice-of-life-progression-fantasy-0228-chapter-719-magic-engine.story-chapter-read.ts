@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0228Chapter719MagicEngi
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 228,
   ownLength: 2575,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3583740/chapter-719-magic-engine",

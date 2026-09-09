@@ -8,7 +8,7 @@ export const metaworldHopecore0086Chapter48YouAreMyLife2 = {
   story: "metaworld-hopecore",
   position: 86,
   ownLength: 2000,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3442200/chapter-48-you-are-my-life-2",

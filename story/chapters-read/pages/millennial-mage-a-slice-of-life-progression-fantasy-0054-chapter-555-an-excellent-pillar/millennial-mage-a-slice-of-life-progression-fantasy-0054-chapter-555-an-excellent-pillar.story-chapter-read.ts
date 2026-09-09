@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0054Chapter555AnExcelle
   position: 54,
   ownLength: 2761,
   ownProgress: 2761,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:01.797Z",
   publishedAt: "2025-04-25",
   externalLink:

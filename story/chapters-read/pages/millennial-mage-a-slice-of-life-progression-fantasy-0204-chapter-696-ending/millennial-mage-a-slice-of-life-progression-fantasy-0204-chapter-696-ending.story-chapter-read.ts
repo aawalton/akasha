@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0204Chapter696Ending = 
   position: 204,
   ownLength: 4451,
   ownProgress: 3732,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3295952/chapter-696-ending",

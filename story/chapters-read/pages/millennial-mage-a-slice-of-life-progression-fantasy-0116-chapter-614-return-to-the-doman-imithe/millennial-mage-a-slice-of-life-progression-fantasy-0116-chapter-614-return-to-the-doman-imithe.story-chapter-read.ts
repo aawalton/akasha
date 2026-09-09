@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0116Chapter614ReturnToT
   position: 116,
   ownLength: 2786,
   ownProgress: 2786,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:00.888Z",
   publishedAt: "2025-09-19",
   externalLink:

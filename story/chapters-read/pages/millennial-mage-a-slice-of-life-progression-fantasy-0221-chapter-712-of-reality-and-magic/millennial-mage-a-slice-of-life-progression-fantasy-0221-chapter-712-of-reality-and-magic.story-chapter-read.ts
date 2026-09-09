@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0221Chapter712OfReality
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 221,
   ownLength: 3012,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-05",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3495967/chapter-712-of-reality-and-magic",

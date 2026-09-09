@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0052Chapter553TalkingAb
   position: 52,
   ownLength: 2876,
   ownProgress: 2876,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:57.880Z",
   publishedAt: "2025-04-21",
   externalLink:

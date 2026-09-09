@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0188Chapter680MuchToDis
   position: 188,
   ownLength: 2754,
   ownProgress: 2754,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:05.475Z",
   publishedAt: "2026-03-09",
   externalLink:

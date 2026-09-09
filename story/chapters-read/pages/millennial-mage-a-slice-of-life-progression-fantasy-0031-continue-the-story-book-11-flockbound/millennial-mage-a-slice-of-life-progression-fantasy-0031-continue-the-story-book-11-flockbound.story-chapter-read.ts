@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0031ContinueTheStoryBoo
   position: 31,
   ownLength: 192,
   ownProgress: 192,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:17.398Z",
   publishedAt: "2025-12-10",
   externalLink:

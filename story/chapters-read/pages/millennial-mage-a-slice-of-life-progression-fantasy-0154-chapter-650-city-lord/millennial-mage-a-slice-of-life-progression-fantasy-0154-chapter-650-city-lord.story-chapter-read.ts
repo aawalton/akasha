@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0154Chapter650CityLord 
   position: 154,
   ownLength: 3202,
   ownProgress: 3202,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:59.968Z",
   publishedAt: "2025-12-19",
   externalLink:

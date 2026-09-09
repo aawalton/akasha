@@ -8,7 +8,7 @@ export const metaworldHopecore0134Chapter79AChangeIsGonnaCome2 = {
   story: "metaworld-hopecore",
   position: 134,
   ownLength: 2102,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-21",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3704679/chapter-79-a-change-is-gonna-come-2",

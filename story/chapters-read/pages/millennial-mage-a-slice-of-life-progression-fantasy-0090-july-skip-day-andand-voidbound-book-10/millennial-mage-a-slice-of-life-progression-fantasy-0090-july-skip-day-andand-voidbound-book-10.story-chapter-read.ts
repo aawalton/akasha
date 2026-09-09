@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0090JulySkipDayAndandVo
   position: 90,
   ownLength: 20,
   ownProgress: 20,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:10.894Z",
   publishedAt: "2025-07-21",
   externalLink:

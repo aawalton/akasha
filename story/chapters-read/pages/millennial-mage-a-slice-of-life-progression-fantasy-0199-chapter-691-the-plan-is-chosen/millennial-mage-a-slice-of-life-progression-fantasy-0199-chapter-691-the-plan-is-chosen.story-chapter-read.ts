@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0199Chapter691ThePlanIs
   position: 199,
   ownLength: 3841,
   ownProgress: 3841,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:26.341Z",
   publishedAt: "2026-04-08",
   externalLink:

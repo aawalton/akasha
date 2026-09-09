@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0003Chapter1NewBeginnin
   position: 3,
   ownLength: 4000,
   ownProgress: 4000,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:23.511Z",
   publishedAt: "2021-10-27",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0075Chapter575RealityRo
   position: 75,
   ownLength: 3199,
   ownProgress: 3199,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:41.854Z",
   publishedAt: "2025-06-13",
   externalLink:

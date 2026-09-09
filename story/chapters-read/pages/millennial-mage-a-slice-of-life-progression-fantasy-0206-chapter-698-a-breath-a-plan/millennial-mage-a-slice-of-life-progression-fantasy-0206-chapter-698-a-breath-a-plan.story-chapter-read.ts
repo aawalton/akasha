@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0206Chapter698ABreathAP
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 206,
   ownLength: 3651,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3312660/chapter-698-a-breath-a-plan",

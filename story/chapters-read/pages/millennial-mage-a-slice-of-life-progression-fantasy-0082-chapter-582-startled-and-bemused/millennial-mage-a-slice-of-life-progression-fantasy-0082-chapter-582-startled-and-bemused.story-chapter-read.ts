@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0082Chapter582StartledA
   position: 82,
   ownLength: 2889,
   ownProgress: 2889,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:55.425Z",
   publishedAt: "2025-07-02",
   externalLink:

@@ -6,7 +6,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0190Chapter748WordsMade
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0190-chapter-748-words-made-real-3",
   position: 190,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3934072",
   source: "royal-road",
   title: "Chapter: 748 - Words Made Real (3)",

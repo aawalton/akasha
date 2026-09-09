@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0070Chapter570MistressX
   position: 70,
   ownLength: 2886,
   ownProgress: 2886,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:32.121Z",
   publishedAt: "2025-06-02",
   externalLink:

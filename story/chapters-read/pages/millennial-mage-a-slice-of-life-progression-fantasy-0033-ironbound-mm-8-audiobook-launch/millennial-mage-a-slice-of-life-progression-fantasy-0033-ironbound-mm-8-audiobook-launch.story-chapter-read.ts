@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0033IronboundMm8Audiobo
   position: 33,
   ownLength: 83,
   ownProgress: 83,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:21.250Z",
   publishedAt: "2024-10-07",
   externalLink:

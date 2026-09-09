@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0252Chapter741Realities
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 252,
   ownLength: 2634,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3842808/chapter-741-realities-of-the-fight",

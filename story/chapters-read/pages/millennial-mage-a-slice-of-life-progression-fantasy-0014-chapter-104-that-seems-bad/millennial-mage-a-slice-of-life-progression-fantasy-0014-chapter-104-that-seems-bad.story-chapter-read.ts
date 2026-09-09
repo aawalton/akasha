@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0014Chapter104ThatSeems
   position: 14,
   ownLength: 3891,
   ownProgress: 3891,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:44.580Z",
   publishedAt: "2022-04-11",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0191Chapter683WorldKeep
   position: 191,
   ownLength: 2622,
   ownProgress: 2622,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:11.014Z",
   publishedAt: "2026-03-16",
   externalLink:

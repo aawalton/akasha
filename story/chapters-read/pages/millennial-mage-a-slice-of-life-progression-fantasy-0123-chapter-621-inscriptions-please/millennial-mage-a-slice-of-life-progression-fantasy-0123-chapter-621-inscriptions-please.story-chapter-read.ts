@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0123Chapter621Inscripti
   position: 123,
   ownLength: 3128,
   ownProgress: 3128,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:14.229Z",
   publishedAt: "2025-10-13",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0107Chapter605Conferenc
   position: 107,
   ownLength: 2978,
   ownProgress: 2978,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:43.334Z",
   publishedAt: "2025-08-29",
   externalLink:

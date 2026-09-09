@@ -8,7 +8,7 @@ export const metaworldHopecore0102Chapter58HotaruNoHikari = {
   story: "metaworld-hopecore",
   position: 102,
   ownLength: 2348,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3503753/chapter-58-hotaru-no-hikari",

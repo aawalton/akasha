@@ -8,7 +8,7 @@ export const metaworldHopecore0131Chapter78TheLongAndWindingRoad = {
   story: "metaworld-hopecore",
   position: 131,
   ownLength: 3359,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-18",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3692017/chapter-78-the-long-and-winding-road",

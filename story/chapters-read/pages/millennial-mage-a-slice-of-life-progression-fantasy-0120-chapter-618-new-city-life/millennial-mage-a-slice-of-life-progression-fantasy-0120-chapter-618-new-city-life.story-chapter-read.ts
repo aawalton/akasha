@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0120Chapter618NewCityLi
   position: 120,
   ownLength: 2863,
   ownProgress: 2863,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:08.416Z",
   publishedAt: "2025-10-06",
   externalLink:

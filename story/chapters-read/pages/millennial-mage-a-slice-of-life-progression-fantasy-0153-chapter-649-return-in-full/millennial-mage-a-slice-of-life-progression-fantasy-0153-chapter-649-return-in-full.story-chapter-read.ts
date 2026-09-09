@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0153Chapter649ReturnInF
   position: 153,
   ownLength: 2862,
   ownProgress: 2862,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:58.112Z",
   publishedAt: "2025-12-17",
   externalLink:

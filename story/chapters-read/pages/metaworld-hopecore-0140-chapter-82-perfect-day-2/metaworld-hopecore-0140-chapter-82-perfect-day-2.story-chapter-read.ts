@@ -8,7 +8,7 @@ export const metaworldHopecore0140Chapter82PerfectDay2 = {
   story: "metaworld-hopecore",
   position: 140,
   ownLength: 2101,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-28",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3735765/chapter-82-perfect-day-2",

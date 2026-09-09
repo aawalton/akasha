@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0200Chapter692Officers 
   position: 200,
   ownLength: 2886,
   ownProgress: 2886,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:28.241Z",
   publishedAt: "2026-04-10",
   externalLink:

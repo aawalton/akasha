@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0148Chapter644Heralding
   position: 148,
   ownLength: 2796,
   ownProgress: 2796,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:48.365Z",
   publishedAt: "2025-12-05",
   externalLink:

@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0238Chapter728Stalemate
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 238,
   ownLength: 2596,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3701272/chapter-728-stalemate",

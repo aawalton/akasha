@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0002ImageGallery = {
   position: 2,
   ownLength: 37,
   ownProgress: 37,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:21.599Z",
   publishedAt: "2022-06-20",
   externalLink:

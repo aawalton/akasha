@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0113Chapter611RocAndRol
   position: 113,
   ownLength: 2676,
   ownProgress: 2676,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:54.802Z",
   publishedAt: "2025-09-12",
   externalLink:

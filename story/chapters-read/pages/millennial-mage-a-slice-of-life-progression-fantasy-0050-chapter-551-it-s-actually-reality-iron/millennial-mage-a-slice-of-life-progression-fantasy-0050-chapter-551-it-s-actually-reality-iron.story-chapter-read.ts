@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0050Chapter551ItSActual
   position: 50,
   ownLength: 2896,
   ownProgress: 2896,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:54.024Z",
   publishedAt: "2025-04-16",
   externalLink:

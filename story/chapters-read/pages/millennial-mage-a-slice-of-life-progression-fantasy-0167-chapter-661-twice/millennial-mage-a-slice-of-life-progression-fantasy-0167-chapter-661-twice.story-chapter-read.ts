@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0167Chapter661Twice = {
   position: 167,
   ownLength: 3238,
   ownProgress: 3238,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:24.615Z",
   publishedAt: "2026-01-21",
   externalLink:

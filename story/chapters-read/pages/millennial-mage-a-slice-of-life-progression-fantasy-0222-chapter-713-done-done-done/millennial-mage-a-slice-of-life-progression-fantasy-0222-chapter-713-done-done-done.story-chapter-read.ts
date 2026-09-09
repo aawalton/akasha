@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0222Chapter713DoneDoneD
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 222,
   ownLength: 3052,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-08",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3509030/chapter-713-done-done-done",

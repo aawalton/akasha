@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0083Chapter583Sweet = {
   position: 83,
   ownLength: 2910,
   ownProgress: 2910,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:57.356Z",
   publishedAt: "2025-07-04",
   externalLink:

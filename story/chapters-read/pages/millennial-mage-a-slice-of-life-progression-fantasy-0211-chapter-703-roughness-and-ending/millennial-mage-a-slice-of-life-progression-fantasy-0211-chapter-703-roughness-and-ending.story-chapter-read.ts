@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0211Chapter703Roughness
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 211,
   ownLength: 2959,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3361901/chapter-703-roughness-and-ending",

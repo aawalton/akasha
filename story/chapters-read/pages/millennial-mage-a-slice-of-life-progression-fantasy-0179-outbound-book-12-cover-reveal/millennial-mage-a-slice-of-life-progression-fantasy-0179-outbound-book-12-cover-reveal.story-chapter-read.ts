@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0179OutboundBook12Cover
   position: 179,
   ownLength: 29,
   ownProgress: 29,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:48.144Z",
   publishedAt: "2026-02-17",
   externalLink:

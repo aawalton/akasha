@@ -8,7 +8,7 @@ export const metaworldHopecore0099Chapter56Sukiyaki = {
   story: "metaworld-hopecore",
   position: 99,
   ownLength: 3918,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3491089/chapter-56-sukiyaki",

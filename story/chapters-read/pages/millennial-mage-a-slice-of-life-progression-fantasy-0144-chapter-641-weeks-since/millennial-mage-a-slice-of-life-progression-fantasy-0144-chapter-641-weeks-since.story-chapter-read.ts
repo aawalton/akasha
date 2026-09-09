@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0144Chapter641WeeksSinc
   position: 144,
   ownLength: 2699,
   ownProgress: 2699,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:40.839Z",
   publishedAt: "2025-11-28",
   externalLink:

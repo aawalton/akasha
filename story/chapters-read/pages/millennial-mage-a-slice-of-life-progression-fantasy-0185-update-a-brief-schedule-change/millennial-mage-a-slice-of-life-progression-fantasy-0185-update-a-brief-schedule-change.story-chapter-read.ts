@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0185UpdateABriefSchedul
   position: 185,
   ownLength: 163,
   ownProgress: 163,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:59.849Z",
   publishedAt: "2026-02-27",
   externalLink:

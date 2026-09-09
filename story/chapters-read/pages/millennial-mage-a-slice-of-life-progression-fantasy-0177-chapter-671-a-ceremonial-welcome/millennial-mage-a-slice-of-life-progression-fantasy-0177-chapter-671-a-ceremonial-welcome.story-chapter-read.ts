@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0177Chapter671ACeremoni
   position: 177,
   ownLength: 2513,
   ownProgress: 2513,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:44.287Z",
   publishedAt: "2026-02-13",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0092Chapter591TheEndOfT
   position: 92,
   ownLength: 2895,
   ownProgress: 2895,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:14.581Z",
   publishedAt: "2025-07-25",
   externalLink:

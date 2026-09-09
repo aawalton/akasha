@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0010Chapter71IMGoingToB
   position: 10,
   ownLength: 4031,
   ownProgress: 4031,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:36.857Z",
   publishedAt: "2022-02-07",
   externalLink:

@@ -8,7 +8,7 @@ export const metaworldHopecore0166Chapter96WayfaringStranger = {
   story: "metaworld-hopecore",
   position: 166,
   ownLength: 3591,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3871967/chapter-96-wayfaring-stranger",

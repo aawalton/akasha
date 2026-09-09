@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0216Chapter707Ties = {
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 216,
   ownLength: 3250,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3443339/chapter-707-ties",

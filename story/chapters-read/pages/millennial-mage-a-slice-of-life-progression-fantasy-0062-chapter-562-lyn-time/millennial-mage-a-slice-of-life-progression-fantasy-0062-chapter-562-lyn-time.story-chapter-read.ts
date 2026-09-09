@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0062Chapter562LynTime =
   position: 62,
   ownLength: 3165,
   ownProgress: 3165,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:16.849Z",
   publishedAt: "2025-05-14",
   externalLink:

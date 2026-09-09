@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0236Chapter726ArrivalIm
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 236,
   ownLength: 2785,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3679869/chapter-726-arrival-impartment-and-it-begins",

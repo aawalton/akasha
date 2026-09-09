@@ -8,7 +8,7 @@ export const metaworldHopecore0128Chapter76Hurt2 = {
   story: "metaworld-hopecore",
   position: 128,
   ownLength: 2845,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-11",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3664251/chapter-76-hurt-2",

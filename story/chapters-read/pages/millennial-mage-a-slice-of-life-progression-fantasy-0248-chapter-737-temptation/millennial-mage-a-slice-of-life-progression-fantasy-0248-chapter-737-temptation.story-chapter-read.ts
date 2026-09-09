@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0248Chapter737Temptatio
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 248,
   ownLength: 2575,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3803811/chapter-737-temptation",

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0125Chapter623AlwaysOne
   position: 125,
   ownLength: 2854,
   ownProgress: 2854,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:18.069Z",
   publishedAt: "2025-10-17",
   externalLink:

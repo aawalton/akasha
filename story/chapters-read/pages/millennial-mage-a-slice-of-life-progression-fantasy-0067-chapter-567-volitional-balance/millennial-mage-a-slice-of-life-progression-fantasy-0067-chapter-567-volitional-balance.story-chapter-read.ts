@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0067Chapter567Volitiona
   position: 67,
   ownLength: 3084,
   ownProgress: 3084,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:26.318Z",
   publishedAt: "2025-05-26",
   externalLink:

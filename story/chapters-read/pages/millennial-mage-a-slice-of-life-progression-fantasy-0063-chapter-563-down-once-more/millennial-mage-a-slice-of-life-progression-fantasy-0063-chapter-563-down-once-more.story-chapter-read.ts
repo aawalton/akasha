@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0063Chapter563DownOnceM
   position: 63,
   ownLength: 2905,
   ownProgress: 2905,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:18.758Z",
   publishedAt: "2025-05-16",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0100Chapter598FightView
   position: 100,
   ownLength: 2560,
   ownProgress: 2560,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:30.109Z",
   publishedAt: "2025-08-13",
   externalLink:

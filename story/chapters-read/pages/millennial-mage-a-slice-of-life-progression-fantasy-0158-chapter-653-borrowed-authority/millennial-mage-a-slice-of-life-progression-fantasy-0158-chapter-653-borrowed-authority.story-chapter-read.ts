@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0158Chapter653BorrowedA
   position: 158,
   ownLength: 2657,
   ownProgress: 2657,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:07.518Z",
   publishedAt: "2025-12-31",
   externalLink:

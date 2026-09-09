@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0091Chapter590ADozenBak
   position: 91,
   ownLength: 2890,
   ownProgress: 2890,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:12.785Z",
   publishedAt: "2025-07-23",
   externalLink:

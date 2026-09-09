@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0173Chapter667FailureIn
   position: 173,
   ownLength: 2932,
   ownProgress: 2932,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:36.507Z",
   publishedAt: "2026-02-04",
   externalLink:

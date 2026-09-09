@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0149Chapter645FinallyTi
   position: 149,
   ownLength: 2797,
   ownProgress: 2797,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:50.420Z",
   publishedAt: "2025-12-08",
   externalLink:

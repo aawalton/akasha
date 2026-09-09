@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0186Chapter678Opportuni
   position: 186,
   ownLength: 3061,
   ownProgress: 3061,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:01.757Z",
   publishedAt: "2026-03-04",
   externalLink:

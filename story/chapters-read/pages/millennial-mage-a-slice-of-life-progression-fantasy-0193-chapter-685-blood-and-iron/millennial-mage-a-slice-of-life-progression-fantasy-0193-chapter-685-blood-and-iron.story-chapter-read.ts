@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0193Chapter685BloodAndI
   position: 193,
   ownLength: 2816,
   ownProgress: 2816,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:14.749Z",
   publishedAt: "2026-03-20",
   externalLink:

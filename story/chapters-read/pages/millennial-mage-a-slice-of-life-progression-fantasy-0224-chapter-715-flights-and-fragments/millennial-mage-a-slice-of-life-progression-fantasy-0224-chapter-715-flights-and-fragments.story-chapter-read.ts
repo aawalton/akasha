@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0224Chapter715FlightsAn
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 224,
   ownLength: 2736,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3541983/chapter-715-flights-and-fragments",

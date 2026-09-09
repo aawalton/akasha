@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0225Chapter716ARealisti
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 225,
   ownLength: 2945,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3551601/chapter-716-a-realistic-response",

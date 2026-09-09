@@ -6,7 +6,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0037ContinueTheStoryBoo
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0037-continue-the-story-book-13-homebound",
   position: 37,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3932559",
   source: "royal-road",
   title: "Continue the Story [Book 13 - Homebound]",

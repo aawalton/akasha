@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0198Chapter690FirstEnco
   position: 198,
   ownLength: 3261,
   ownProgress: 3261,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:24.390Z",
   publishedAt: "2026-04-06",
   externalLink:

@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0213Chapter705TheReachO
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 213,
   ownLength: 2954,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-13",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3390046/chapter-705-the-reach-of-authority",

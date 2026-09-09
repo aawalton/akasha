@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0134Chapter631Waning = 
   position: 134,
   ownLength: 2784,
   ownProgress: 2784,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:43.413Z",
   publishedAt: "2025-11-05",
   externalLink:

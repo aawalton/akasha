@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0161Chapter655WeMustCla
   position: 161,
   ownLength: 2764,
   ownProgress: 2764,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:13.177Z",
   publishedAt: "2026-01-07",
   externalLink:

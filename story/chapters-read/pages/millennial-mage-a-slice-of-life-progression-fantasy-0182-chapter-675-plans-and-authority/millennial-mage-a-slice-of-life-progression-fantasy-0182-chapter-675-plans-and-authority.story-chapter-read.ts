@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0182Chapter675PlansAndA
   position: 182,
   ownLength: 2840,
   ownProgress: 2840,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:53.969Z",
   publishedAt: "2026-02-23",
   externalLink:

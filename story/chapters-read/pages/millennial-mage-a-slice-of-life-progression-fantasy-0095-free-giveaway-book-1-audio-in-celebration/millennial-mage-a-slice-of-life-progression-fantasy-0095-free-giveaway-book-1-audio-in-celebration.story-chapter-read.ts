@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0095FreeGiveawayBook1Au
   position: 95,
   ownLength: 192,
   ownProgress: 192,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:20.390Z",
   publishedAt: "2025-08-01",
   externalLink:

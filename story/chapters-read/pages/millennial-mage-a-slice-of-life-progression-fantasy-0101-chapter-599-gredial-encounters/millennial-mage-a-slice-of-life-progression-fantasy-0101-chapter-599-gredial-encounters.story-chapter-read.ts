@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0101Chapter599GredialEn
   position: 101,
   ownLength: 2722,
   ownProgress: 2722,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:31.879Z",
   publishedAt: "2025-08-15",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0178Chapter672WelcomeFe
   position: 178,
   ownLength: 2883,
   ownProgress: 2883,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:46.206Z",
   publishedAt: "2026-02-16",
   externalLink:

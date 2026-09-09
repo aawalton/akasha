@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0058Chapter558TheirRema
   position: 58,
   ownLength: 3010,
   ownProgress: 3010,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:09.263Z",
   publishedAt: "2025-05-05",
   externalLink:

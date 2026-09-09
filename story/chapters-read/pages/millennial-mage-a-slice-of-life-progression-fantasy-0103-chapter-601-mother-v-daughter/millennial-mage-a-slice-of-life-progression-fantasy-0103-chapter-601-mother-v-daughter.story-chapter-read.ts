@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0103Chapter601MotherVDa
   position: 103,
   ownLength: 3203,
   ownProgress: 3203,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:35.783Z",
   publishedAt: "2025-08-20",
   externalLink:

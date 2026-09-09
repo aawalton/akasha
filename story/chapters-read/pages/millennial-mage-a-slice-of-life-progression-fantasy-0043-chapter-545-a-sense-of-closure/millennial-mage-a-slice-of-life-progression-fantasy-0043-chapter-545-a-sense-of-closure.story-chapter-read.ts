@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0043Chapter545ASenseOfC
   position: 43,
   ownLength: 2969,
   ownProgress: 2969,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:40.614Z",
   publishedAt: "2025-03-28",
   externalLink:

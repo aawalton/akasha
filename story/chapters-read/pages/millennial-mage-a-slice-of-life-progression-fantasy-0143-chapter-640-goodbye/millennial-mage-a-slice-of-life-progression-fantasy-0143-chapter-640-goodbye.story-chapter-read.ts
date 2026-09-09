@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0143Chapter640Goodbye =
   position: 143,
   ownLength: 2954,
   ownProgress: 2954,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:38.906Z",
   publishedAt: "2025-11-26",
   externalLink:

@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0215UpdatePersonal = {
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 215,
   ownLength: 146,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-16",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3404240/update-personal",

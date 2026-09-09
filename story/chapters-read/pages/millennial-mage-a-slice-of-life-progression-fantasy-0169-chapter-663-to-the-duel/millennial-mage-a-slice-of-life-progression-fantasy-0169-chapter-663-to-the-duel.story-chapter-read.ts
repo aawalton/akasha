@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0169Chapter663ToTheDuel
   position: 169,
   ownLength: 2717,
   ownProgress: 2717,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:28.888Z",
   publishedAt: "2026-01-26",
   externalLink:

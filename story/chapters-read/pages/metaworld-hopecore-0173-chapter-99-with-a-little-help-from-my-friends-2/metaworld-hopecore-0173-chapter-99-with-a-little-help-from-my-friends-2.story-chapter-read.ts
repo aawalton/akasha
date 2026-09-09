@@ -7,7 +7,7 @@ export const metaworldHopecore0173Chapter99WithALittleHelpFromMyFriends2 = {
   story: "story-read/metaworld-hopecore",
   position: 173,
   publishedAt: "2026-09-05",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3914478",
   source: "royal-road",
   title: "CHAPTER 99 - With a Little Help from My Friends (2)",

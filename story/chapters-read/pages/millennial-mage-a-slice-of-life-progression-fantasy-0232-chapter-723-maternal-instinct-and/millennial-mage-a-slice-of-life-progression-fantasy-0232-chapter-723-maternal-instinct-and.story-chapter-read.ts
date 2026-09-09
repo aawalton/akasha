@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0232Chapter723MaternalI
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 232,
   ownLength: 3183,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3626208/chapter-723-maternal-instinct-and-refinement",

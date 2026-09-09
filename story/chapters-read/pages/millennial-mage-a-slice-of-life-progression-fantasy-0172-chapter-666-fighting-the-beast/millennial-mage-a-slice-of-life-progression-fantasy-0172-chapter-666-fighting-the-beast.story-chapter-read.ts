@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0172Chapter666FightingT
   position: 172,
   ownLength: 3026,
   ownProgress: 3026,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:34.541Z",
   publishedAt: "2026-02-02",
   externalLink:

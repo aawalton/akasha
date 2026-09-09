@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0214Chapter706Assumptio
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 214,
   ownLength: 3345,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3398775/chapter-706-assumptions-tested",

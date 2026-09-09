@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0141Chapter638EndureOrB
   position: 141,
   ownLength: 2283,
   ownProgress: 2283,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:35.199Z",
   publishedAt: "2025-11-21",
   externalLink:

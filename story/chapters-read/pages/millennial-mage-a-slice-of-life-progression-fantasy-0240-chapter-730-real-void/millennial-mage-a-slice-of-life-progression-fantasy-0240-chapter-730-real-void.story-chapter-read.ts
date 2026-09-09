@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0240Chapter730RealVoid 
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 240,
   ownLength: 2952,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-24",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3719131/chapter-730-real-void",

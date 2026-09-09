@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0114Chapter612Trust = {
   position: 114,
   ownLength: 2917,
   ownProgress: 2917,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:57.055Z",
   publishedAt: "2025-09-15",
   externalLink:

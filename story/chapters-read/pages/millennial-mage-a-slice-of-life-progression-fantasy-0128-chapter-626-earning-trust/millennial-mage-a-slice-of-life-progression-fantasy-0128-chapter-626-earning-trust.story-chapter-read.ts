@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0128Chapter626EarningTr
   position: 128,
   ownLength: 2694,
   ownProgress: 2694,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:23.798Z",
   publishedAt: "2025-10-24",
   externalLink:

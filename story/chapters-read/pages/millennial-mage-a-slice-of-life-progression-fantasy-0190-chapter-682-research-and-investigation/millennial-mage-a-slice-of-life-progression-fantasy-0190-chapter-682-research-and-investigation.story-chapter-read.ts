@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0190Chapter682ResearchA
   position: 190,
   ownLength: 2773,
   ownProgress: 2773,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:09.230Z",
   publishedAt: "2026-03-13",
   externalLink:

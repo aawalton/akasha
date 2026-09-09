@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0037Chapter539QuietReme
   position: 37,
   ownLength: 3024,
   ownProgress: 3024,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:29.050Z",
   publishedAt: "2025-03-14",
   externalLink:

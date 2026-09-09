@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0001NonMmSillyAndFunCha
   position: 1,
   ownLength: 2175,
   ownProgress: 2175,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:19.653Z",
   publishedAt: "2023-04-01",
   externalLink:

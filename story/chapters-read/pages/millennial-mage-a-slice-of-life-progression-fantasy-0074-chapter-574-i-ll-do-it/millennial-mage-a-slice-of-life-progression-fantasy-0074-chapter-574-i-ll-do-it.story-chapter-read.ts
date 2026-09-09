@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0074Chapter574ILlDoIt =
   position: 74,
   ownLength: 2906,
   ownProgress: 2906,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:39.927Z",
   publishedAt: "2025-06-11",
   externalLink:

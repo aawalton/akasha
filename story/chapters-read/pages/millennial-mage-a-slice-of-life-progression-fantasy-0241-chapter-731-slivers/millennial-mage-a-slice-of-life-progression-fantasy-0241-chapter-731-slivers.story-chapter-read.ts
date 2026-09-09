@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0241Chapter731Slivers =
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 241,
   ownLength: 2821,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3732070/chapter-731-slivers",

@@ -8,7 +8,7 @@ export const metaworldHopecore0138Chapter81ThatSEntertainment2 = {
   story: "metaworld-hopecore",
   position: 138,
   ownLength: 1816,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-26",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3727182/chapter-81-thats-entertainment-2",

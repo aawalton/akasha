@@ -8,7 +8,7 @@ export const metaworldHopecore0151Chapter88GoodRiddanceTimeOfYourLife2 = {
   story: "metaworld-hopecore",
   position: 151,
   ownLength: 2133,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3791027/chapter-88-good-riddance-time-of-your-life-2",

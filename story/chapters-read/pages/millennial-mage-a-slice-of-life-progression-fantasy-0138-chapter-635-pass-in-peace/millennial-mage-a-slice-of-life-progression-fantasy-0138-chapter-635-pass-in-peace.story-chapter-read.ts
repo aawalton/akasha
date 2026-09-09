@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0138Chapter635PassInPea
   position: 138,
   ownLength: 3066,
   ownProgress: 3066,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:29.310Z",
   publishedAt: "2025-11-14",
   externalLink:

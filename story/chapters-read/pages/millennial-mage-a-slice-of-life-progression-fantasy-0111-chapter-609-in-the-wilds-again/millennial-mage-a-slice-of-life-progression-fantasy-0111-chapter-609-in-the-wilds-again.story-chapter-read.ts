@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0111Chapter609InTheWild
   position: 111,
   ownLength: 2689,
   ownProgress: 2689,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:51.128Z",
   publishedAt: "2025-09-08",
   externalLink:

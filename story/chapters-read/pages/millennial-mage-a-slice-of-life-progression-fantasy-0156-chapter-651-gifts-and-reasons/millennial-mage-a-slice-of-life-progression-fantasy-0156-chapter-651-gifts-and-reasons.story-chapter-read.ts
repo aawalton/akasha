@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0156Chapter651GiftsAndR
   position: 156,
   ownLength: 2587,
   ownProgress: 2587,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:03.783Z",
   publishedAt: "2025-12-22",
   externalLink:

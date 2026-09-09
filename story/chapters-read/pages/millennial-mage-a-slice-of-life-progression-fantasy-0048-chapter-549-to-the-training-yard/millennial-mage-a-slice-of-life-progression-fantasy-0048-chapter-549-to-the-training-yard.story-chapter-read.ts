@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0048Chapter549ToTheTrai
   position: 48,
   ownLength: 3321,
   ownProgress: 3321,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:50.260Z",
   publishedAt: "2025-04-11",
   externalLink:

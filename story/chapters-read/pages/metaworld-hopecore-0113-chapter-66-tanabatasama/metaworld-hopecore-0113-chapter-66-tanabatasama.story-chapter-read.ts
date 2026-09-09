@@ -8,7 +8,7 @@ export const metaworldHopecore0113Chapter66Tanabatasama = {
   story: "metaworld-hopecore",
   position: 113,
   ownLength: 2461,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-23",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3577817/chapter-66-tanabatasama",

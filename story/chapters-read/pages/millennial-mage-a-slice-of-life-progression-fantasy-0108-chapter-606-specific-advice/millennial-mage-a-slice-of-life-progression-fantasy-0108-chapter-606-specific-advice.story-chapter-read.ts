@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0108Chapter606SpecificA
   position: 108,
   ownLength: 2887,
   ownProgress: 2887,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:45.371Z",
   publishedAt: "2025-09-01",
   externalLink:

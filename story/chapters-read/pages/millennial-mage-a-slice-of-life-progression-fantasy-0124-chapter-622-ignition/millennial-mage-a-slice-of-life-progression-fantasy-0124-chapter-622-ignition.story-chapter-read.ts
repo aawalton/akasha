@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0124Chapter622Ignition 
   position: 124,
   ownLength: 3418,
   ownProgress: 3418,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:16.192Z",
   publishedAt: "2025-10-15",
   externalLink:

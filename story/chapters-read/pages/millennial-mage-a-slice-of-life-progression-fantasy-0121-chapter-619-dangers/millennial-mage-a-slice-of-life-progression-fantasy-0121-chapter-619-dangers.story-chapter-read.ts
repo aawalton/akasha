@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0121Chapter619Dangers =
   position: 121,
   ownLength: 2932,
   ownProgress: 2932,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:10.341Z",
   publishedAt: "2025-10-08",
   externalLink:

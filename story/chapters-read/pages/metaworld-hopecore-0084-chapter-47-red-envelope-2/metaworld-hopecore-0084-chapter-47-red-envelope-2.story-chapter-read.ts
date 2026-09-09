@@ -8,7 +8,7 @@ export const metaworldHopecore0084Chapter47RedEnvelope2 = {
   story: "metaworld-hopecore",
   position: 84,
   ownLength: 2968,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3437788/chapter-47-red-envelope-2",

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0051Chapter552TheBodyIs
   position: 51,
   ownLength: 2927,
   ownProgress: 2927,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:55.963Z",
   publishedAt: "2025-04-18",
   externalLink:

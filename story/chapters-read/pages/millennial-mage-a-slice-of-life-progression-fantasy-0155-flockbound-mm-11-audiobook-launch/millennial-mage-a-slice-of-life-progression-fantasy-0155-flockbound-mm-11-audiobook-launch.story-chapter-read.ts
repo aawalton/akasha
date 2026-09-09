@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0155FlockboundMm11Audio
   position: 155,
   ownLength: 61,
   ownProgress: 61,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:01.761Z",
   publishedAt: "2025-12-20",
   externalLink:

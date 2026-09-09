@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0036Chapter538Anniversa
   position: 36,
   ownLength: 3017,
   ownProgress: 3017,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:27.132Z",
   publishedAt: "2025-03-12",
   externalLink:

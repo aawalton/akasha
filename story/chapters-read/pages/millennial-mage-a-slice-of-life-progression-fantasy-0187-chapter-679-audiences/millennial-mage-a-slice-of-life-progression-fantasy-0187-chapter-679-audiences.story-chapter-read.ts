@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0187Chapter679Audiences
   position: 187,
   ownLength: 2615,
   ownProgress: 2615,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:03.545Z",
   publishedAt: "2026-03-06",
   externalLink:

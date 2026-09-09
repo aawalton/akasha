@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0026Chapter321WelcomeTo
   position: 26,
   ownLength: 3107,
   ownProgress: 3107,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:07.976Z",
   publishedAt: "2023-09-01",
   externalLink:

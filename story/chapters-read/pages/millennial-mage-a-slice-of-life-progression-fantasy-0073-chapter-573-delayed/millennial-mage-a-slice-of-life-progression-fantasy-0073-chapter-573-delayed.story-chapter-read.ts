@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0073Chapter573Delayed =
   position: 73,
   ownLength: 2601,
   ownProgress: 2601,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:38.009Z",
   publishedAt: "2025-06-09",
   externalLink:

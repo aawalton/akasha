@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0078Chapter578APleasure
   position: 78,
   ownLength: 3372,
   ownProgress: 3372,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:47.552Z",
   publishedAt: "2025-06-20",
   externalLink:

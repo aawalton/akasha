@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0139Chapter636EnoughFor
   position: 139,
   ownLength: 3684,
   ownProgress: 3684,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:31.242Z",
   publishedAt: "2025-11-17",
   externalLink:

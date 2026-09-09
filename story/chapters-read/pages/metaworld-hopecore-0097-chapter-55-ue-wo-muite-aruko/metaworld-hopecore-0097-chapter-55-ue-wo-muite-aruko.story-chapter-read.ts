@@ -8,7 +8,7 @@ export const metaworldHopecore0097Chapter55UeWoMuiteAruko = {
   story: "metaworld-hopecore",
   position: 97,
   ownLength: 4085,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3487263/chapter-55-ue-wo-muite-aruko",

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0022Chapter202Blood = {
   position: 22,
   ownLength: 5954,
   ownProgress: 5954,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:00.269Z",
   publishedAt: "2022-11-28",
   externalLink:

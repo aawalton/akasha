@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0163Chapter657MotherDau
   position: 163,
   ownLength: 3004,
   ownProgress: 3004,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:17.063Z",
   publishedAt: "2026-01-12",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0068Chapter568TheSparkO
   position: 68,
   ownLength: 2925,
   ownProgress: 2925,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:28.255Z",
   publishedAt: "2025-05-28",
   externalLink:

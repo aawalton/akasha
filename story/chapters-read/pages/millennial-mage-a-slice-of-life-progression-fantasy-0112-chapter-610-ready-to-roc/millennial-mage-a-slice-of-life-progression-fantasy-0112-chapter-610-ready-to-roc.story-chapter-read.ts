@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0112Chapter610ReadyToRo
   position: 112,
   ownLength: 2550,
   ownProgress: 2550,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:52.930Z",
   publishedAt: "2025-09-10",
   externalLink:

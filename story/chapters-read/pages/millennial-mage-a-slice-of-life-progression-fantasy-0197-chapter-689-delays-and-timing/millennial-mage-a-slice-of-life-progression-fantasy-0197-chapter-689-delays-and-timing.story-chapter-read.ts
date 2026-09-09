@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0197Chapter689DelaysAnd
   position: 197,
   ownLength: 2493,
   ownProgress: 2493,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:22.466Z",
   publishedAt: "2026-04-03",
   externalLink:

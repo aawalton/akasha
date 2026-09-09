@@ -8,7 +8,7 @@ export const metaworldHopecore0087Chapter49BlackGirl = {
   story: "metaworld-hopecore",
   position: 87,
   ownLength: 3163,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-26",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3448494/chapter-49-black-girl",

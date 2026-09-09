@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0157Chapter652Challenge
   position: 157,
   ownLength: 3235,
   ownProgress: 3235,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:05.577Z",
   publishedAt: "2025-12-29",
   externalLink:

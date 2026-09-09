@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0066Chapter566SoonToBeM
   position: 66,
   ownLength: 2960,
   ownProgress: 2960,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:24.396Z",
   publishedAt: "2025-05-23",
   externalLink:

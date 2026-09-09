@@ -8,7 +8,7 @@ export const metaworldHopecore0125Chapter75YouCanTAlwaysGetWhatYouWant = {
   story: "metaworld-hopecore",
   position: 125,
   ownLength: 2405,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3655449/chapter-75-you-cant-always-get-what-you-want",

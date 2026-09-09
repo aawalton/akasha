@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0219Chapter710StayTheCo
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 219,
   ownLength: 2587,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-01",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3477573/chapter-710-stay-the-course",

@@ -8,7 +8,7 @@ export const metaworldHopecore0095Chapter54Liability = {
   story: "metaworld-hopecore",
   position: 95,
   ownLength: 2930,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-02",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3480795/chapter-54-liability",

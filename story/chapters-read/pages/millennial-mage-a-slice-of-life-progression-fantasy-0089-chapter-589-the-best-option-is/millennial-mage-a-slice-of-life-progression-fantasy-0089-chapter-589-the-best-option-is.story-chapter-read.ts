@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0089Chapter589TheBestOp
   position: 89,
   ownLength: 2710,
   ownProgress: 2710,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:08.987Z",
   publishedAt: "2025-07-18",
   externalLink:

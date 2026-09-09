@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0102Chapter600Socializa
   position: 102,
   ownLength: 2828,
   ownProgress: 2828,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:33.987Z",
   publishedAt: "2025-08-18",
   externalLink:

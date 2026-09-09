@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0208Chapter700ARoyalGam
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 208,
   ownLength: 2809,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-29",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3332532/chapter-700-a-royal-gambit",

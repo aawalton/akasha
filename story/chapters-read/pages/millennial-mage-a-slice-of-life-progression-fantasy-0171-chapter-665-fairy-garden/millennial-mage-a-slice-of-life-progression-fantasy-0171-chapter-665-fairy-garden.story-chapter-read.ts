@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0171Chapter665FairyGard
   position: 171,
   ownLength: 2977,
   ownProgress: 2977,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:32.612Z",
   publishedAt: "2026-01-30",
   externalLink:

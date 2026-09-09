@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0040Chapter542BuckledDo
   position: 40,
   ownLength: 3285,
   ownProgress: 3285,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:34.819Z",
   publishedAt: "2025-03-21",
   externalLink:

@@ -8,7 +8,7 @@ export const metaworldHopecore0158Chapter91QueSeraSera = {
   story: "metaworld-hopecore",
   position: 158,
   ownLength: 6501,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3816413/chapter-91-que-sera-sera",

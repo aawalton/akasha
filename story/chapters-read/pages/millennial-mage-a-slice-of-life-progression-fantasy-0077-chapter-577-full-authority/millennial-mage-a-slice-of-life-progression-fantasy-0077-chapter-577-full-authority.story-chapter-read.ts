@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0077Chapter577FullAutho
   position: 77,
   ownLength: 3199,
   ownProgress: 3199,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:45.637Z",
   publishedAt: "2025-06-18",
   externalLink:

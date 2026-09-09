@@ -8,7 +8,7 @@ export const metaworldHopecore0163Chapter94AHardRainsAGonnaFall2 = {
   story: "metaworld-hopecore",
   position: 163,
   ownLength: 2172,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3852345/chapter-94-a-hard-rains-a-gonna-fall-2",

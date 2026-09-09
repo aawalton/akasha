@@ -8,7 +8,7 @@ export const metaworldHopecore0109Chapter62TheCatCameBack2 = {
   story: "metaworld-hopecore",
   position: 109,
   ownLength: 2097,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3540975/chapter-62-the-cat-came-back-2",

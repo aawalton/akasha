@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0239Chapter729CriticalI
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 239,
   ownLength: 3084,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3710321/chapter-729-critical-information",

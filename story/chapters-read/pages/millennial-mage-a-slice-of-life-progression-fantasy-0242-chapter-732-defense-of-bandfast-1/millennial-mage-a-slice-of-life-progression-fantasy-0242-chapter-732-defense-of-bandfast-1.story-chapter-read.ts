@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0242Chapter732DefenseOf
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 242,
   ownLength: 3286,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-29",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3741151/chapter-732-defense-of-bandfast-1",

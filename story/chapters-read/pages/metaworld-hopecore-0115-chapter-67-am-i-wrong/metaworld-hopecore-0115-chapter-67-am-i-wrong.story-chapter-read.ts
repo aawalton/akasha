@@ -8,7 +8,7 @@ export const metaworldHopecore0115Chapter67AmIWrong = {
   story: "metaworld-hopecore",
   position: 115,
   ownLength: 2967,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3587122/chapter-67-am-i-wrong",

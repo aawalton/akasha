@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0212Chapter704Partings 
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 212,
   ownLength: 2793,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3381669/chapter-704-partings",

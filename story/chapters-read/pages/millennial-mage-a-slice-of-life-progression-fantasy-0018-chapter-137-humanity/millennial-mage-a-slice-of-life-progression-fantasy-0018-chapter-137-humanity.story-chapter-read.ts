@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0018Chapter137Humanity 
   position: 18,
   ownLength: 3014,
   ownProgress: 3014,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:52.216Z",
   publishedAt: "2022-06-27",
   externalLink:

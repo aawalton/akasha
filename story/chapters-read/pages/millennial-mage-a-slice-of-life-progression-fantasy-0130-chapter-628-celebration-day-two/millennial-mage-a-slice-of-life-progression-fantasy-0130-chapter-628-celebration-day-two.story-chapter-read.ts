@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0130Chapter628Celebrati
   position: 130,
   ownLength: 2748,
   ownProgress: 2748,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:35.858Z",
   publishedAt: "2025-10-29",
   externalLink:

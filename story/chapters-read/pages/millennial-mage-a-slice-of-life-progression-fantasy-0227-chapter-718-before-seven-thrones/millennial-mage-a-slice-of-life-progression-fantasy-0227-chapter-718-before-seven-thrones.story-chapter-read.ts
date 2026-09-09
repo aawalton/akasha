@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0227Chapter718BeforeSev
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 227,
   ownLength: 3113,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-22",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3574034/chapter-718-before-seven-thrones",

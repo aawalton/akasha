@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0039Chapter541WhoMightY
   position: 39,
   ownLength: 3358,
   ownProgress: 3358,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:32.892Z",
   publishedAt: "2025-03-19",
   externalLink:

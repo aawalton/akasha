@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0135Chapter632TheFoxAtM
   position: 135,
   ownLength: 3119,
   ownProgress: 3119,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:45.344Z",
   publishedAt: "2025-11-07",
   externalLink:

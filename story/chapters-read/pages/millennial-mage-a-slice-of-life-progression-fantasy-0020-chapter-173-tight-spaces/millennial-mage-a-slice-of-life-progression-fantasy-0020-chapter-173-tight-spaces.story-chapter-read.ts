@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0020Chapter173TightSpac
   position: 20,
   ownLength: 3374,
   ownProgress: 3374,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:56.085Z",
   publishedAt: "2022-09-21",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0192Chapter684TheDiscus
   position: 192,
   ownLength: 3021,
   ownProgress: 3021,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:12.952Z",
   publishedAt: "2026-03-18",
   externalLink:

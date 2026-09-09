@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0007Chapter41ToTheEndin
   position: 7,
   ownLength: 4192,
   ownProgress: 4192,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:31.077Z",
   publishedAt: "2021-12-20",
   externalLink:

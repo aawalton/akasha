@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0174Chapter668MeetingWi
   position: 174,
   ownLength: 3018,
   ownProgress: 3018,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:38.496Z",
   publishedAt: "2026-02-06",
   externalLink:

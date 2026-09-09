@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0047Chapter548JustForHe
   position: 47,
   ownLength: 2955,
   ownProgress: 2955,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:48.337Z",
   publishedAt: "2025-04-09",
   externalLink:

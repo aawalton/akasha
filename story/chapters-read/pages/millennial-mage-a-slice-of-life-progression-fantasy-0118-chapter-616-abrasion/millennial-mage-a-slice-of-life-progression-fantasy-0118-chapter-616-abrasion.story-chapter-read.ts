@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0118Chapter616Abrasion 
   position: 118,
   ownLength: 2894,
   ownProgress: 2894,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:04.587Z",
   publishedAt: "2025-09-24",
   externalLink:

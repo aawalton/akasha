@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0168Chapter662ForTheSak
   position: 168,
   ownLength: 2795,
   ownProgress: 2795,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:26.966Z",
   publishedAt: "2026-01-23",
   externalLink:

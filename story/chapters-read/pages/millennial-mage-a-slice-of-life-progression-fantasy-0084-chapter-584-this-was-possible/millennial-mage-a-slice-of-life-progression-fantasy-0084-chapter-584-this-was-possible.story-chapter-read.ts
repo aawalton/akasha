@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0084Chapter584ThisWasPo
   position: 84,
   ownLength: 2651,
   ownProgress: 2651,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:59.281Z",
   publishedAt: "2025-07-07",
   externalLink:

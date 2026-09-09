@@ -8,7 +8,7 @@ export const metaworldHopecore0118Chapter70Crazy = {
   story: "metaworld-hopecore",
   position: 118,
   ownLength: 3454,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3605093/chapter-70-crazy",

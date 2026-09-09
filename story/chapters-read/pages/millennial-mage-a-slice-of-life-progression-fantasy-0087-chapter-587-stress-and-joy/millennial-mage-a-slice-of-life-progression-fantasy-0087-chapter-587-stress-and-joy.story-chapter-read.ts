@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0087Chapter587StressAnd
   position: 87,
   ownLength: 2911,
   ownProgress: 2911,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:05.170Z",
   publishedAt: "2025-07-14",
   externalLink:

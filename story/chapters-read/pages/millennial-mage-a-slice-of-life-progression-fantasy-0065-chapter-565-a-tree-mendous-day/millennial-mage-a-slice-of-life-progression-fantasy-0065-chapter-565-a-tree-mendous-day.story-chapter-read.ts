@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0065Chapter565ATreeMend
   position: 65,
   ownLength: 2570,
   ownProgress: 2570,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:22.489Z",
   publishedAt: "2025-05-21",
   externalLink:

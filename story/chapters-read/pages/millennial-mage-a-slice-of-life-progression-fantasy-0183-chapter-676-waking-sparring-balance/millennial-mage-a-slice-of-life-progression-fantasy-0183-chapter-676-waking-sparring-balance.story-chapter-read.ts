@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0183Chapter676WakingSpa
   position: 183,
   ownLength: 3517,
   ownProgress: 3517,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:55.907Z",
   publishedAt: "2026-02-25",
   externalLink:

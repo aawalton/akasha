@@ -8,7 +8,7 @@ export const metaworldHopecore0136Chapter80TheHeartOfTheMatter2 = {
   story: "metaworld-hopecore",
   position: 136,
   ownLength: 3193,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3716857/chapter-80-the-heart-of-the-matter-2",

@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0251Chapter740Discussio
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 251,
   ownLength: 3025,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3833794/chapter-740-discussions-and-weariness",

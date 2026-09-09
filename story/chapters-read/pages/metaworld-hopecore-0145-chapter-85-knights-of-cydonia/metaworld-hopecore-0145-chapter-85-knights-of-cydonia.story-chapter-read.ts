@@ -8,7 +8,7 @@ export const metaworldHopecore0145Chapter85KnightsOfCydonia = {
   story: "metaworld-hopecore",
   position: 145,
   ownLength: 2268,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3762072/chapter-85-knights-of-cydonia",

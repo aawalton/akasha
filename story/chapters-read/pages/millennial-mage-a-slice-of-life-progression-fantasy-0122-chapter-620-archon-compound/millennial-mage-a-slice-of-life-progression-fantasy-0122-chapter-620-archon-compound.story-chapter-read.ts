@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0122Chapter620ArchonCom
   position: 122,
   ownLength: 2571,
   ownProgress: 2571,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:12.157Z",
   publishedAt: "2025-10-10",
   externalLink:

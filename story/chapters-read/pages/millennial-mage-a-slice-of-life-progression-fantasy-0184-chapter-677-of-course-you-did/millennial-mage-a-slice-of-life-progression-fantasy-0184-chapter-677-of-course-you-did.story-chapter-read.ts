@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0184Chapter677OfCourseY
   position: 184,
   ownLength: 2870,
   ownProgress: 2870,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:57.856Z",
   publishedAt: "2026-02-27",
   externalLink:

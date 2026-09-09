@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0126Chapter624LeaSFirst
   position: 126,
   ownLength: 2518,
   ownProgress: 2518,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:19.943Z",
   publishedAt: "2025-10-20",
   externalLink:

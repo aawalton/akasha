@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0079Chapter579IsThatBad
   position: 79,
   ownLength: 2704,
   ownProgress: 2704,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:49.479Z",
   publishedAt: "2025-06-23",
   externalLink:

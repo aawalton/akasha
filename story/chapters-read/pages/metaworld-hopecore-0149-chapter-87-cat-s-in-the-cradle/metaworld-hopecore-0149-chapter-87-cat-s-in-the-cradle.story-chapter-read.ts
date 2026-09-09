@@ -8,7 +8,7 @@ export const metaworldHopecore0149Chapter87CatSInTheCradle = {
   story: "metaworld-hopecore",
   position: 149,
   ownLength: 5559,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-07",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3781510/chapter-87-cats-in-the-cradle",

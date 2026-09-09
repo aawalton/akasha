@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0071Chapter571AllottedH
   position: 71,
   ownLength: 3336,
   ownProgress: 3336,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:34.061Z",
   publishedAt: "2025-06-04",
   externalLink:

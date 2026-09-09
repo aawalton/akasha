@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0159Chapter654EskauOfWa
   position: 159,
   ownLength: 3314,
   ownProgress: 3314,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:09.457Z",
   publishedAt: "2026-01-02",
   externalLink:

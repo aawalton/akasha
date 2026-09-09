@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0094Chapter593ClarityOf
   position: 94,
   ownLength: 3041,
   ownProgress: 3041,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:18.404Z",
   publishedAt: "2025-07-30",
   externalLink:

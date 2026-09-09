@@ -10,7 +10,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0061Chapter561Metaphysi
     position: 61,
     ownLength: 3041,
     ownProgress: 3041,
-    unitSlug: "words",
+    unit: "words",
     completedAt: "2026-06-29T19:37:15.068Z",
     publishedAt: "2025-05-12",
     externalLink:

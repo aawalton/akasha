@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0088Chapter588TheAssist
   position: 88,
   ownLength: 2552,
   ownProgress: 2552,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:07.079Z",
   publishedAt: "2025-07-16",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0045Chapter546Surprisin
   position: 45,
   ownLength: 3183,
   ownProgress: 3183,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:44.486Z",
   publishedAt: "2025-04-04",
   externalLink:

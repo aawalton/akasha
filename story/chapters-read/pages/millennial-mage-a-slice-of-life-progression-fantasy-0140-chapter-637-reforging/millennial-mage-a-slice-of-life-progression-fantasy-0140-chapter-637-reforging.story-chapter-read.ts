@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0140Chapter637Reforging
   position: 140,
   ownLength: 2948,
   ownProgress: 2948,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:33.296Z",
   publishedAt: "2025-11-19",
   externalLink:

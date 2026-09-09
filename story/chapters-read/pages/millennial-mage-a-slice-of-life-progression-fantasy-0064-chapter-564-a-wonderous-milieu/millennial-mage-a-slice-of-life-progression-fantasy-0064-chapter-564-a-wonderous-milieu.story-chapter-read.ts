@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0064Chapter564AWonderou
   position: 64,
   ownLength: 3072,
   ownProgress: 3072,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:20.712Z",
   publishedAt: "2025-05-19",
   externalLink:

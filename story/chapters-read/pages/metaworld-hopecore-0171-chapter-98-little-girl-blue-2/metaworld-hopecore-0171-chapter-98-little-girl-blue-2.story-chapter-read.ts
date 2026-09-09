@@ -8,7 +8,7 @@ export const metaworldHopecore0171Chapter98LittleGirlBlue2 = {
   story: "metaworld-hopecore",
   position: 171,
   ownLength: 2710,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3898462/chapter-98-little-girl-blue-2",

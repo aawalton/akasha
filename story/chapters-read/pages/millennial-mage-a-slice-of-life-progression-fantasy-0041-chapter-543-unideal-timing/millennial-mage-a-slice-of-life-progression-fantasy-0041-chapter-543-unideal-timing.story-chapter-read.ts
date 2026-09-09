@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0041Chapter543UnidealTi
   position: 41,
   ownLength: 3052,
   ownProgress: 3052,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:36.759Z",
   publishedAt: "2025-03-24",
   externalLink:

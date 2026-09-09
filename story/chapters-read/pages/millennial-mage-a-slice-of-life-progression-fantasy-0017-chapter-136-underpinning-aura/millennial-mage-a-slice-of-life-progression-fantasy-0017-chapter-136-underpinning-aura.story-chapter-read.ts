@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0017Chapter136Underpinn
   position: 17,
   ownLength: 2835,
   ownProgress: 2835,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:50.285Z",
   publishedAt: "2022-06-24",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0196Chapter688LongHidde
   position: 196,
   ownLength: 3072,
   ownProgress: 3072,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:20.527Z",
   publishedAt: "2026-03-27",
   externalLink:

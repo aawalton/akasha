@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0106Chapter604Oblivion 
   position: 106,
   ownLength: 3088,
   ownProgress: 3088,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:41.513Z",
   publishedAt: "2025-08-27",
   externalLink:

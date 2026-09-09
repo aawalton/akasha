@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0195Chapter687ReveredCi
   position: 195,
   ownLength: 3046,
   ownProgress: 3046,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:18.593Z",
   publishedAt: "2026-03-25",
   externalLink:

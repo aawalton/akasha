@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0201Chapter693MoveAndCo
   position: 201,
   ownLength: 3048,
   ownProgress: 3048,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:30.153Z",
   publishedAt: "2026-04-13",
   externalLink:

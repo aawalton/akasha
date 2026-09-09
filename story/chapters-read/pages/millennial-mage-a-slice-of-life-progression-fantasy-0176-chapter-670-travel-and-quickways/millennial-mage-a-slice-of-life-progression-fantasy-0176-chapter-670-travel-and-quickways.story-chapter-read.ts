@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0176Chapter670TravelAnd
   position: 176,
   ownLength: 2975,
   ownProgress: 2975,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:42.480Z",
   publishedAt: "2026-02-11",
   externalLink:

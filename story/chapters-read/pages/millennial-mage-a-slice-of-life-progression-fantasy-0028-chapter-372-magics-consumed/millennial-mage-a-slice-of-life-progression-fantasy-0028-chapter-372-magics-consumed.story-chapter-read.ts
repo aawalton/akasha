@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0028Chapter372MagicsCon
   position: 28,
   ownLength: 3300,
   ownProgress: 3300,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:11.797Z",
   publishedAt: "2024-01-12",
   externalLink:

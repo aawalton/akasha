@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0133Chapter630TogetherA
   position: 133,
   ownLength: 3125,
   ownProgress: 3125,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:41.465Z",
   publishedAt: "2025-11-03",
   externalLink:

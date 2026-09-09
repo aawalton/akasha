@@ -8,7 +8,7 @@ export const metaworldHopecore0089Chapter50TheWeight = {
   story: "metaworld-hopecore",
   position: 89,
   ownLength: 4326,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-28",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3458429/chapter-50-the-weight",

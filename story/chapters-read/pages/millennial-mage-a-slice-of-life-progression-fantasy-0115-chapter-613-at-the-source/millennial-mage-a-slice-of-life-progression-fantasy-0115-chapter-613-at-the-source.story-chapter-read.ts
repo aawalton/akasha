@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0115Chapter613AtTheSour
   position: 115,
   ownLength: 3334,
   ownProgress: 3334,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:58.961Z",
   publishedAt: "2025-09-17",
   externalLink:

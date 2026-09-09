@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0105Chapter603ThingsWen
   position: 105,
   ownLength: 3053,
   ownProgress: 3053,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:38:39.551Z",
   publishedAt: "2025-08-25",
   externalLink:

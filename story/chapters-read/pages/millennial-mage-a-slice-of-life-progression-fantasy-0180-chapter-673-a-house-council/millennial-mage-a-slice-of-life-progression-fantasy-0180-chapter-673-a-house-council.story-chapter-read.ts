@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0180Chapter673AHouseCou
   position: 180,
   ownLength: 2773,
   ownProgress: 2773,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:50.060Z",
   publishedAt: "2026-02-18",
   externalLink:

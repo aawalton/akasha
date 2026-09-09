@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0160NoChapterToday = {
   position: 160,
   ownLength: 107,
   ownProgress: 107,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:40:11.253Z",
   publishedAt: "2026-01-05",
   externalLink:

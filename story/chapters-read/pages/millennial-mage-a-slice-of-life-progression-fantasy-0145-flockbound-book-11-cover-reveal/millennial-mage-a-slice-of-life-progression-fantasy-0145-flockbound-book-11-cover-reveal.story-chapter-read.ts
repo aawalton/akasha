@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0145FlockboundBook11Cov
   position: 145,
   ownLength: 29,
   ownProgress: 29,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:42.874Z",
   publishedAt: "2025-11-30",
   externalLink:

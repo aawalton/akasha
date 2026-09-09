@@ -8,7 +8,7 @@ export const metaworldHopecore0116Chapter68DressYouUp = {
   story: "metaworld-hopecore",
   position: 116,
   ownLength: 3734,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3598537/chapter-68-dress-you-up",

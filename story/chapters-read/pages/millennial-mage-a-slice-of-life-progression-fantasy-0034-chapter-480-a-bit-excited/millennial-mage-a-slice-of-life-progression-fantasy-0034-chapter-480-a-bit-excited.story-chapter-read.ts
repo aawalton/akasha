@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0034Chapter480ABitExcit
   position: 34,
   ownLength: 3390,
   ownProgress: 3390,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:36:23.287Z",
   publishedAt: "2024-10-14",
   externalLink:

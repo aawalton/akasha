@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0229Chapter720LeaAndRan
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 229,
   ownLength: 2743,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3593448/chapter-720-lea-and-rane",

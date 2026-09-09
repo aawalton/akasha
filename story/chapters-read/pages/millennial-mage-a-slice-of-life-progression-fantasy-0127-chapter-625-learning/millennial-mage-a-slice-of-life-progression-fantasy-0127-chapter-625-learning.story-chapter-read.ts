@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0127Chapter625Learning 
   position: 127,
   ownLength: 3056,
   ownProgress: 3056,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:21.985Z",
   publishedAt: "2025-10-22",
   externalLink:

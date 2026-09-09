@@ -8,7 +8,7 @@ export const metaworldHopecore0119Chapter71BigGirlsDonTCry = {
   story: "metaworld-hopecore",
   position: 119,
   ownLength: 3538,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-30",
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3611839/chapter-71-big-girls-dont-cry",

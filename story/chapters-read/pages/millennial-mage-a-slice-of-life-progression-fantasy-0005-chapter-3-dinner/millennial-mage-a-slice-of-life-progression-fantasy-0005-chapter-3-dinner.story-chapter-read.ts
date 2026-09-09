@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0005Chapter3Dinner = {
   position: 5,
   ownLength: 3974,
   ownProgress: 3974,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:27.353Z",
   publishedAt: "2021-10-29",
   externalLink:

@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0203Chapter695Collapse 
   position: 203,
   ownLength: 2707,
   ownProgress: 2707,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:41:33.931Z",
   publishedAt: "2026-04-17",
   externalLink:

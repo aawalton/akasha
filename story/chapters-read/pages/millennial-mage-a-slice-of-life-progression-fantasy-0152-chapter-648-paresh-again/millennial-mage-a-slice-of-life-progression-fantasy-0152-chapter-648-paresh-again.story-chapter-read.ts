@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0152Chapter648PareshAga
   position: 152,
   ownLength: 3303,
   ownProgress: 3303,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:39:56.165Z",
   publishedAt: "2025-12-15",
   externalLink:

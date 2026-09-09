@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0081Chapter581ExcuseMe 
   position: 81,
   ownLength: 2934,
   ownProgress: 2934,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:37:53.496Z",
   publishedAt: "2025-06-27",
   externalLink:

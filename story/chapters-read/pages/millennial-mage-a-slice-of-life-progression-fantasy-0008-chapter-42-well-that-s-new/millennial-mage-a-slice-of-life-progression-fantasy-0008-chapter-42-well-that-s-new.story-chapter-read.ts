@@ -9,7 +9,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0008Chapter42WellThatSN
   position: 8,
   ownLength: 3616,
   ownProgress: 3616,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:35:33.004Z",
   publishedAt: "2021-12-21",
   externalLink:
