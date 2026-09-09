@@ -7,13 +7,13 @@ import type {
   RuleMatcherContext,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import {
-  buildDerivedContext,
-  mergeInventoryContext,
-} from "@akasha/temper-items-rules-matcher/rule-matcher-context"
-import {
   useCompletionCharacters,
   useCompletionCompanions,
 } from "@akasha/temper-player-completion-ui/use-completion"
+import {
+  buildDerivedContext,
+  mergeInventoryContext,
+} from "akasha/temper/items-rules-matcher/rule-matcher-context/rule-matcher-context.module.code.ts"
 import { useMemo } from "react"
 
 export function useRuleMatcherContext(

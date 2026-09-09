@@ -14,7 +14,7 @@ import type {
 import {
   compileWantedEquipment as compileCharacterSignatures,
   compileWantedCompanionEquipment as compileCompanionSignatures,
-} from "@akasha/temper-items-rules-matcher/rule-matcher-context-equipment"
+} from "akasha/temper/items-rules-matcher/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 
 export const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 export const COMPANION_PAGE_TYPE_SLUG = "temper-companion-progress"

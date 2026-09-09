@@ -7,7 +7,7 @@ import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/a
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { partitionUnmanagedGuildBanks } from "@akasha/temper-items-core/inventory-guild-bank-filter"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import { classifyAllInventoryItems } from "@akasha/temper-items-rules-matcher/inventory-item-classifier"
+import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/inventory-item-classifier/inventory-item-classifier.module.code.ts"
 import { Package } from "lucide-react"
 import { useMemo, useRef } from "react"
 import { useInventory } from "../hooks-inventory/hooks-inventory.module.code.ts"

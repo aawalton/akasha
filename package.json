@@ -73,7 +73,6 @@
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
     "@akasha/temper-items-rules-eval": "workspace:*",
-    "@akasha/temper-items-rules-matcher": "workspace:*",
     "@akasha/temper-items-rules-routing": "workspace:*",
     "@akasha/temper-items-rules-routing-core": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
@@ -120,7 +119,9 @@
     "@akasha/pages-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
     "@akasha/temper-characters-capture-addon": "workspace:*",
-    "@akasha/temper-player-completion-state": "workspace:*"
+    "@akasha/temper-player-completion-state": "workspace:*",
+    "@akasha/temper-build-support": "workspace:*",
+    "@akasha/temper-skill-morphs-access": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

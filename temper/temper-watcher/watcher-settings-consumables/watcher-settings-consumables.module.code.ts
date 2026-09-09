@@ -11,7 +11,7 @@ import type {
 import {
   compileConsumableStock as consumableStockOf,
   compileWantedConsumables as wantedConsumablesOf,
-} from "@akasha/temper-items-rules-matcher/rule-matcher-context-knowledge"
+} from "akasha/temper/items-rules-matcher/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"
 import type {
   ReadFiles,
   ReadPages,

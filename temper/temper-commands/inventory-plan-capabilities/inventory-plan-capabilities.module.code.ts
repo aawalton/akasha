@@ -1,6 +1,5 @@
 import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
 import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
-import { computeAllRuleAffectedItems } from "@akasha/temper-items-rules-matcher/inventory-rule-matcher"
 import { buildManagementPlan } from "@akasha/temper-items-rules-routing/inventory-management-plan"
 import {
   applyDestinationCapacityFilter,
@@ -8,6 +7,7 @@ import {
 } from "@akasha/temper-items-rules-routing/inventory-management-plan-capacity-filter"
 import { formatPlanChecklist } from "@akasha/temper-items-rules-routing/inventory-plan-checklist"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import { loadTemperCharactersFromPath } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   loadTemperInventoryConfigFromPath,

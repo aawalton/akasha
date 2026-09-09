@@ -113,7 +113,7 @@ export const temper = {
     "workspace-package/temper-items-filters-addon",
     "domain/temper-lost-treasure",
     "workspace-package/temper-items-rules-routing-core",
-    "workspace-package/temper-items-rules-matcher",
+    "domain/temper-items-rules-matcher",
     "eso-addon/temper-events-addon",
     "workspace-package/temper-items-rules-routing",
     "eso-addon/temper-trading-addon",

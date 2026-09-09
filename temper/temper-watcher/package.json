@@ -81,7 +81,6 @@
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
-    "@akasha/temper-items-rules-matcher": "workspace:*",
     "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
