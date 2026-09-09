@@ -16,7 +16,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "No `command-system` folder is there.",
       workingMemory:
-        "38 folders sit under `command-system` at c9b0029be2, down from 70, moving one commit each. Six are held back because other lanes reach them where they are: `scratching`, `fault-saying`, `rooting`, `reading`, `during-call`, `command-declaring`. `landing-throughput` is a `performance` page. `calling` and `landing` are the most entangled and go last. A manifest names a way in even where the reach is spelled as a relative path, so dropping an alias refuses every such reach.",
+        "22 folders sit under `command-system` at e024447e90, down from 70. `move-folder` follows a relative reach but is blind to `@akasha/command-system/<name>`, and every draft order deadlocks; respelling each alias reach relative to the module's current place first lets the move carry it, proved on `value-minting`. The 33 files under `checks/` reach only `scratching`, `rooting` and `fault-saying`, so no other module is held by that constraint. `calling` has 187 alias reachers and goes last.",
     },
     {
       statement: "The `commands/` folder passes `folder-matches-a-shape`.",
