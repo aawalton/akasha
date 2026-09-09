@@ -41,6 +41,7 @@ describe("accountPageText", () => {
 export const cSeven = {
   id: "01a06400-0000-7000-8000-000000000000",
   pageTypeSlug: "claude-account",
+  type: "claude-account",
   slug: "c-seven",
   email: "seven@example.com",
   aliasIndex: 7,
@@ -64,7 +65,7 @@ export const cSeven = {
     expect(text.endsWith("} as const satisfies ClaudeAccount\n")).toBe(true)
   })
 
-  test("nothing but the account's own five values is written", () => {
+  test("nothing but the account's own values is written", () => {
     const text = accountPageText({ slug: "c1", email: "a@b.co", aliasIndex: 1, id: ID })
     expect(text).not.toContain("accountUuid")
     expect(text).not.toContain("subscriptionType")

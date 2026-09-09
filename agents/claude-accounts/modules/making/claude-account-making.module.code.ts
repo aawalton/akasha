@@ -62,6 +62,7 @@ export function accountPageText(given: {
     `export const ${exportedAs(given.slug)} = {`,
     `  id: "${given.id}",`,
     `  pageTypeSlug: "${PAGE_TYPE_SLUG}",`,
+    `  type: "${PAGE_TYPE_SLUG}",`,
     `  slug: "${given.slug}",`,
     `  email: "${given.email}",`,
     `  aliasIndex: ${given.aliasIndex},`,
