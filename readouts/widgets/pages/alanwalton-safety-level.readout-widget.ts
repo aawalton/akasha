@@ -6,7 +6,7 @@ export const alanwaltonSafetyLevel = {
   slug: "alanwalton-safety-level",
   definition: "the tile on Alan's phone showing how safe things are where he is",
   app: "alanwalton",
-  componentSlug: "alanwalton-safety-level-widget",
+  component: "alanwalton-safety-level-widget",
   kind: "SafetyLevelWidget",
   families: ["small"],
   feed: "https://alanwalton.com/api/safety-level",

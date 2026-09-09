@@ -6,7 +6,7 @@ export const smilingjennySurplus = {
   slug: "smilingjenny-surplus",
   definition: "the tile on Jenny's phone showing how much of Alan's night the day has left him",
   app: "smilingjenny",
-  componentSlug: "surplus-ring",
+  component: "surplus-ring",
   kind: "SurplusWidget",
   families: ["small"],
   feed: "https://smilingjenny.me/api/surplus",

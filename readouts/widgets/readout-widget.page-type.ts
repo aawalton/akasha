@@ -4,7 +4,7 @@ import type { GroupSlugs } from "../properties/group-slugs.relation-property.ts"
 import type { Place } from "../properties/place.number-property.ts"
 import type { App } from "./properties/app.relation-property.ts"
 import type { Caption } from "./properties/caption.text-property.ts"
-import type { ComponentSlug } from "./properties/component-slug.relation-property.ts"
+import type { Component } from "./properties/component.relation-property.ts"
 import type { Families } from "./properties/families.text-property.ts"
 import type { Feed } from "./properties/feed.url-property.ts"
 import type { GalleryDescription } from "./properties/gallery-description.text-property.ts"
@@ -16,7 +16,7 @@ import type { Taps } from "./properties/taps.number-property.ts"
 
 export type ReadoutWidget = Domain & {
   app: App
-  componentSlug: ComponentSlug
+  component: Component
   kind: Kind
   families: Families
   feed: Feed
@@ -50,7 +50,7 @@ export const readoutWidget = {
     "instant-property/last-tapped-at",
     "number-property/taps",
     "relation-property/app",
-    "relation-property/component-slug",
+    "relation-property/component",
     "text-property/caption",
     "text-property/families",
     "url-property/feed",
@@ -62,7 +62,7 @@ export const readoutWidget = {
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "relation-property/app", required: true, many: false },
-    { pagePropertySlug: "relation-property/component-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/component", required: true, many: false },
     { pagePropertySlug: "text-property/kind", required: true, many: false },
     { pagePropertySlug: "text-property/families", required: true, many: true, maxCount: null },
     { pagePropertySlug: "url-property/feed", required: true, many: false },

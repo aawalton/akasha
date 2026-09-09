@@ -6,7 +6,7 @@ export const smilingjennyCategorize = {
   slug: "smilingjenny-categorize",
   definition: "the tile on Jenny's phone showing how many transactions are unreviewed",
   app: "smilingjenny",
-  componentSlug: "categorize-ring",
+  component: "categorize-ring",
   kind: "CategorizeWidget",
   families: ["small"],
   feed: "https://smilingjenny.me/api/categorization",

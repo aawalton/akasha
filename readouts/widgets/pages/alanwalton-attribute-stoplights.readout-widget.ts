@@ -6,7 +6,7 @@ export const alanwaltonAttributeStoplights = {
   slug: "alanwalton-attribute-stoplights",
   definition: "the tile on Alan's phone showing what each of his attributes earned today",
   app: "alanwalton",
-  componentSlug: "alanwalton-attribute-stoplights-widget",
+  component: "alanwalton-attribute-stoplights-widget",
   kind: "AttributeStoplightsWidget",
   families: ["small"],
   feed: "https://alanwalton.com/api/attribute-stoplights",

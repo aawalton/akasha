@@ -6,7 +6,7 @@ export const smilingjennySafetyLevel = {
   slug: "smilingjenny-safety-level",
   definition: "the tile on Jenny's phone showing how safe things are where Alan is",
   app: "smilingjenny",
-  componentSlug: "smilingjenny-safety-level-widget",
+  component: "smilingjenny-safety-level-widget",
   kind: "SafetyLevelWidget",
   families: ["small"],
   feed: "https://smilingjenny.me/api/safety-level",

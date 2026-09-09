@@ -18,7 +18,7 @@ export const widgetsUse = {
     "kind",
     "families",
     "feed",
-    "component-slug",
+    "component",
     "gallery-description",
     "group-slugs",
     "created-at",

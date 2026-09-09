@@ -6,7 +6,7 @@ export const alanwaltonClaudeUsage = {
   slug: "alanwalton-claude-usage",
   definition: "the tile on Alan's phone showing how much of the weekly Claude allowance is spent",
   app: "alanwalton",
-  componentSlug: "alanwalton-claude-usage-widget",
+  component: "alanwalton-claude-usage-widget",
   kind: "ClaudeUsageWidget",
   families: ["small", "medium"],
   feed: "https://alanwalton.com/api/claude-usage",
