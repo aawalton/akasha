@@ -82,8 +82,8 @@ test("the roster names no repository and no glob", async () => {
 
 test("what names a page is found by asking each page type in turn", async () => {
   const asked = await askNaming(
-    { key: "domainSlug", name: "workspace-package/page", pageTypes: ["finding"] },
-    answering([[{ slug: "one", domainSlug: "workspace-package/page" }]]),
+    { key: "domain", name: "workspace-package/page", pageTypes: ["finding"] },
+    answering([[{ slug: "one", domain: "workspace-package/page" }]]),
     noNap
   )
   expect(asked.ok).toBe(true)
@@ -91,15 +91,15 @@ test("what names a page is found by asking each page type in turn", async () => 
   expect(asked.naming).toEqual([
     {
       pageType: "finding",
-      key: "domainSlug",
-      rows: [{ values: { slug: "one", domainSlug: "workspace-package/page" } }],
+      key: "domain",
+      rows: [{ values: { slug: "one", domain: "workspace-package/page" } }],
     },
   ])
 })
 
 test("a page type naming nothing stands in no naming", async () => {
   const asked = await askNaming(
-    { key: "domainSlug", name: "nothing", pageTypes: ["finding"] },
+    { key: "domain", name: "nothing", pageTypes: ["finding"] },
     answering([[]]),
     noNap
   )
@@ -141,27 +141,19 @@ test("the store standing on this workstation answers a page type's shape", async
   expect(claim).toBeDefined()
   expect(claim?.type).toBe("text-property")
   expect(claim?.mayBeGone).toBe(false)
-  const domain = asked.shape.declarations.find(
-    (one) => one.key === "domain" || one.key === "domain-slug"
-  )
+  const domain = asked.shape.declarations.find((one) => one.key === "domain")
   expect(domain?.type).toBe("relation-property")
   expect(domain?.targetSlug).toBe("page-type/domain")
 })
 
 test("the store standing on this workstation answers what names a domain", async () => {
-  const asked = await underOrigin(async () => {
-    const held = await askNaming({
+  const asked = await underOrigin(() =>
+    askNaming({
       key: "domain",
       name: "workspace-package/page",
       pageTypes: ["finding"],
     })
-    if (held.ok && held.naming.length > 0) return held
-    return await askNaming({
-      key: "domainSlug",
-      name: "workspace-package/page",
-      pageTypes: ["finding"],
-    })
-  })
+  )
   expect(asked.ok).toBe(true)
   if (!asked.ok) return
   expect(asked.naming.length).toBe(1)
