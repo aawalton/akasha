@@ -20,7 +20,13 @@ export const seatLogDay = {
   pluralSlug: "seat-log-days",
   extends: ["page-type/page"],
   mortal: true,
-  parts: ["file-property/lines", "relation-property/log-source", "text-property/seat-name"],
+  parts: [
+    "module/log-day-sweeping",
+    "module/log-day-writing",
+    "file-property/lines",
+    "relation-property/log-source",
+    "text-property/seat-name",
+  ],
   properties: [
     { pageProperty: "relation-property/log-source", required: true, many: false },
     { pageProperty: "text-property/seat-name", required: true, many: false },

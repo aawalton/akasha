@@ -73,8 +73,6 @@ export const seatSystem = {
     "module/wake-armed-specs",
     "module/work-tree-drawn",
     "module/compose-seat-name",
-    "module/log-day-sweeping",
-    "module/log-day-writing",
     "module/memory-reaping",
     "module/pending-maintaining",
     "module/recipient-resolver-running",
