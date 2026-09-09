@@ -92,5 +92,5 @@ export const movePropertyOnEveryPage = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKind: "change-checked",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeAgent
