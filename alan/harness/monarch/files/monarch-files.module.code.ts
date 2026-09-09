@@ -29,7 +29,7 @@ export type TransactionLine = {
   readonly statementLine?: string
   readonly merchant?: string
   readonly accountName?: string
-  readonly accountSlug?: string
+  readonly account?: string
   readonly categorySlug?: string
   readonly categorySource?: string
   readonly categoryDecidedBy?: string

@@ -6,7 +6,7 @@ export const vmfxx = {
   slug: "vmfxx",
   title: "VMFXX",
   monarchId: "77361743318597642",
-  accountSlug: "alan-walton-roth-ira-brokerage-account-0790",
+  account: "alan-walton-roth-ira-brokerage-account-0790",
   securityName: "Vanguard Federal Money Market Fund",
   ticker: "VMFXX",
   quantity: 118.06,

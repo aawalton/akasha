@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type AccountSlug = Slug
+export type Account = Slug
 
-export const accountSlug = {
+export const account = {
   id: "01a0680a-1a00-7010-9e43-7f1d8a5b1110",
   pageTypeSlug: "relation-property",
-  slug: "account-slug",
-  propertySlug: "account-slug",
+  slug: "account",
+  propertySlug: "account",
   definition: "the account a holding or a transaction sits under",
   targetPageType: "page-type/monarch-account",
   invariants: [

@@ -94,7 +94,7 @@ export function lineOf(t: MonarchTransaction, maps: SlugMaps): TransactionLine |
     statementLine: raw(t, "plaidName"),
     merchant: t.merchant?.name ?? null,
     accountName: maps.accountNames.get(t.account.id) ?? t.account.name,
-    accountSlug,
+    account: accountSlug,
     categorySlug: t.category === null ? null : (maps.categories.get(t.category.id) ?? null),
     tags: t.tags.flatMap((tag) => {
       const slug = maps.tags.get(tag.id)
@@ -217,7 +217,7 @@ const ENTRY_KEYS = [
   "amount",
   "merchant",
   "accountName",
-  "accountSlug",
+  "account",
   "categorySlug",
   "statementLine",
   "transactionNote",

@@ -46,7 +46,6 @@ function disambiguated(base: string, monarchId: string, taken: ReadonlySet<strin
   return `${stem}-${monarchId.slice(-6)}`
 }
 
-/** The keys a page states, in the order a page states them. */
 const AHEAD = ["id", "pageTypeSlug", "slug", "title", "definition", "monarchId"]
 
 function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
@@ -54,15 +53,8 @@ function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
   return [...AHEAD.filter((key) => key in value), ...rest]
 }
 
-/**
- * A page is one TypeScript file holding one exported object named for the page's slug. This
- * composes the whole body rather than patching a line of it, because there is no frontmatter to
- * patch any more: what a page states, it states in that one object.
- */
-/** The width the formatter wraps a line at, stated once in `biome.json`. */
 const WIDTH = 100
 
-/** A value whose line runs past the width is on a line of its own, as the formatter puts it. */
 function stated(key: string, value: unknown): readonly string[] {
   const said = written(value)
   const one = `  ${key}: ${said},`
@@ -206,7 +198,7 @@ export function tagWanted(t: MonarchTag): Wanted {
 
 export function holdingWanted(accountSlug: string, h: MonarchHolding): Wanted {
   const values: Record<string, Value> = {
-    accountSlug,
+    account: accountSlug,
     securityName: h.securityName,
     quantity: h.quantity,
     costBasis: h.basis ?? 0,
@@ -222,7 +214,7 @@ export function holdingWanted(accountSlug: string, h: MonarchHolding): Wanted {
   }
 }
 
-function say(what: string, held: Landing): void {
+function say(what: string, held: Landing): undefined {
   if (held.minted.length > 0) {
     console.log(
       `  ${held.minted.length} new ${what} file(s) minted with a plain definition, which wants ` +
