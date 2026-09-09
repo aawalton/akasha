@@ -1,4 +1,7 @@
-import { asPage, type Page } from "@akasha/temper-addon-generators/addon-data-page"
+import {
+  asPage,
+  type Page,
+} from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
 
 type Values = Readonly<Record<string, unknown>>
 

@@ -1,4 +1,4 @@
-import { generateTemperMetricTree } from "@akasha/temper-addon-generators/metric-tree"
+import { generateTemperMetricTree } from "akasha/temper/addon-generators/metric-tree/metric-tree.module.code.ts"
 import { TEMPER_STATS_OUTPUT_DIR } from "../addon-data-output-dirs/addon-data-output-dirs.module.code.ts"
 import type { AddonDataPages } from "../addon-data-pages/addon-data-pages.module.code.ts"
 

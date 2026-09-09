@@ -1,7 +1,11 @@
 import { camelizeKey, kebabizeKey } from "@akasha/pages-access/file-rows"
 import { askComposed } from "@akasha/pages-query/ask"
 import { askedAsSpelled } from "@akasha/pages-query/store-spelling"
-import { asPage, type Json, type Page } from "@akasha/temper-addon-generators/addon-data-page"
+import {
+  asPage,
+  type Json,
+  type Page,
+} from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
 
 export interface PageResult {
   readonly rows: readonly Page[]

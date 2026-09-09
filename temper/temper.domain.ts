@@ -69,7 +69,7 @@ export const temper = {
     "eso-addon/temper-lib-extended-journal",
     "domain/temper-formula-framework",
     "domain/temper-saved-vars-migration",
-    "workspace-package/temper-addon-generators",
+    "domain/temper-addon-generators",
     "domain/temper-capture-host",
     "domain/temper-champion-points",
     "domain/temper-classes",

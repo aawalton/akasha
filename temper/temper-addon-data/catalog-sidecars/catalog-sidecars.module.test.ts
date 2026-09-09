@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { asPage, type Page } from "@akasha/temper-addon-generators/addon-data-page"
+import {
+  asPage,
+  type Page,
+} from "akasha/temper/addon-generators/addon-data-page/addon-data-page.module.code.ts"
 import { withSidecars } from "./catalog-sidecars.module.code.ts"
 
 function pageOf(

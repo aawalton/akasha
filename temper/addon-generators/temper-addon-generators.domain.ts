@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperAddonGenerators = {
   id: "01a06073-2499-7d6c-8220-9fb541b99067",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-addon-generators",
   definition: "the source text of every data file temper renders from its own pages",
-  manifest: "json",
   parts: [
     "module/addon-data-page",
     "module/classes",
@@ -137,4 +136,4 @@ export const temperAddonGenerators = {
         "A rendered file landing outside akasha has a line telling a reader not to edit that file.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

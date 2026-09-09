@@ -34,7 +34,6 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/talos": "workspace:*",
-        "@akasha/temper-addon-generators": "workspace:*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
@@ -933,16 +932,6 @@
         "zod": "^4.3.6",
       },
     },
-    "temper/addon-generators": {
-      "name": "@akasha/temper-addon-generators",
-      "dependencies": {
-        "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/addon-init": {
       "name": "@akasha/temper-addon-init",
       "dependencies": {
@@ -1450,8 +1439,6 @@
     "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:alan/harness/supabase-rr"],
 
     "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster/provisioning/talos"],
-
-    "@akasha/temper-addon-generators": ["@akasha/temper-addon-generators@workspace:temper/addon-generators"],
 
     "@akasha/temper-addon-init": ["@akasha/temper-addon-init@workspace:temper/addon-init"],
 

@@ -62,7 +62,6 @@
     "react-dom": "^18 || ^19",
     "@akasha/cluster-manifests": "workspace:*",
     "@akasha/talos": "workspace:*",
-    "@akasha/temper-addon-generators": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",

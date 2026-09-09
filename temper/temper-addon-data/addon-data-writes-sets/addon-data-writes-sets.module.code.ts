@@ -1,5 +1,5 @@
-import { generateTemperSet } from "@akasha/temper-addon-generators/temper-set"
-import { generateTemperSetCategory } from "@akasha/temper-addon-generators/temper-set-category"
+import { generateTemperSet } from "akasha/temper/addon-generators/temper-set/temper-set.module.code.ts"
+import { generateTemperSetCategory } from "akasha/temper/addon-generators/temper-set-category/temper-set-category.module.code.ts"
 import {
   TEMPER_EQUIPMENT_SETS_OUTPUT_DIR,
   TEMPER_INVENTORY_CORE_OUTPUT_DIR,
