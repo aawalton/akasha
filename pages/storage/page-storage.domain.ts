@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const pageStorage = {
   id: "01a06558-53dd-7ac7-8fdc-e45804c712aa",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "page-storage",
   definition: "pages kept as files in a git repository",
   invariants: [

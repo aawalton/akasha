@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const seatObservation = {
   id: "01a0658d-c92f-76f2-abb0-efb387b6515b",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "seat-observation",
   definition: "what a seat has because somebody looked",
   parts: ["domain/seat-turn", "list/idle-live-seat"],

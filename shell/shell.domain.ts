@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const shell = {
   id: "01a05d9b-277a-7000-be3d-95c4cf94638d",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "shell",
   definition: "text a POSIX shell reads as a command",
   parts: ["module/quoting"],

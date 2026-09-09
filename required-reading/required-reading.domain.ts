@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const requiredReading = {
   id: "01a04d97-c600-78b8-b3eb-faf390b009ce",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "required-reading",
   definition: "the reading an agent cannot skip",
   invariants: [

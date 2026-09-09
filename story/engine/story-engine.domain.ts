@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const storyEngine = {
   id: "01a06280-e122-7ba3-844e-c8a0f133106d",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "story-engine",
   definition: "the code a story is played through",
   parts: ["workspace-package/story-engine-core", "page-type/doctrine"],

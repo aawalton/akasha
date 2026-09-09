@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const pagesUiBlockEditor = {
   id: "01a071cf-0a63-7750-ad97-3e1dcf0312b9",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-ui-block-editor",
   definition: "a page edited as blocks",
   parts: [

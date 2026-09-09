@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const seatCapability = {
   id: "01a0658d-c92f-7b82-8a05-aaac4557d9a3",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "seat-capability",
   definition: "what a seat is able to do",
   invariants: [

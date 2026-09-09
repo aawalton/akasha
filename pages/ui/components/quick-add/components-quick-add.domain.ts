@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const componentsQuickAdd = {
   id: "01a071d3-63bd-7123-8d21-2d607ec892bb",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "components-quick-add",
   definition: "a page made from one line of text",
   parts: [

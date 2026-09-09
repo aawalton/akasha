@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const pagesUiStoreQuery = {
   id: "01a071cc-086c-740f-affb-d4471f64884e",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-ui-store-query",
   definition: "a view read as a query the store runs",
   parts: [

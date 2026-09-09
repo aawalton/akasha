@@ -3,6 +3,7 @@ import type { Domain } from "../../../../domains/domain.page-type.ts"
 export const emailAction = {
   id: "01a0675b-16e1-7884-8c3c-300e5949ac31",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "email-action",
   definition: "something done in response to a piece of mail",
   parts: [

@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const core = {
   id: "01a05bc6-fa4a-7000-bf9b-15c368be5c0a",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "core",
   definition: "the shapes a tower game's characters, floors and saved state are stored in",
   parts: [

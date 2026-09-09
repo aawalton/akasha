@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const pagesUiStoreCollection = {
   id: "01a071cd-798c-75bd-88c7-7e266f938b90",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-ui-store-collection",
   definition: "the rows a store keeps for one page type",
   parts: [

@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const pagesUiMedia = {
   id: "01a071d0-4b6a-724c-8d8b-5d9ece92248e",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-ui-media",
   definition: "the sound and picture a page carries",
   parts: [
