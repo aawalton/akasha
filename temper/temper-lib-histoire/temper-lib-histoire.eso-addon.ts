@@ -8,7 +8,7 @@ export const temperLibHistoire = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "histoire-main",
-  partSlugs: [
+  parts: [
     "module/histoire-types",
     "module/histoire-casts",
     "module/histoire-constants",

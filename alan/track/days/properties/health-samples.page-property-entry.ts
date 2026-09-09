@@ -8,7 +8,7 @@ export const healthSamples = {
   slug: "health-samples",
   propertySlug: "health-samples",
   definition: "every measurement Alan's phone took whose stretch began on a day, one to a line",
-  partSlugs: [
+  parts: [
     "instant-property/arrived-at",
     "instant-property/ended-at",
     "instant-property/started-at",

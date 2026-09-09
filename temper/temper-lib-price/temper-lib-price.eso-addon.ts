@@ -8,7 +8,7 @@ export const temperLibPrice = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "price-main",
-  partSlugs: [
+  parts: [
     "module/price-types",
     "module/price-constants",
     "module/price-casts",

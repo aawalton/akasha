@@ -18,7 +18,7 @@ export const audhdalanWeb = {
   routeTypesDirectory: true,
   declarationDirectory: true,
   bundleDirectory: true,
-  partSlugs: [
+  parts: [
     "manifest/audhdalan-web-manifests",
     "stylesheet/audhdalan-web-look",
     "module/deck-page-content",

@@ -8,7 +8,7 @@ export const temperLibShifterBox = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "shifter-main",
-  partSlugs: [
+  parts: [
     "module/shifter-types",
     "module/shifter-casts",
     "module/shifter-constants",

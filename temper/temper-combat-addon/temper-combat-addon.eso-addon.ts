@@ -9,7 +9,7 @@ export const temperCombatAddon = {
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "combat-entry",
-  partSlugs: [
+  parts: [
     "eso-interface/combat-live-report-layout",
     "eso-interface/combat-report-layout",
     "eso-interface/combat-templates-layout",

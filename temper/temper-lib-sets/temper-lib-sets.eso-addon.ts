@@ -8,7 +8,7 @@ export const temperLibSets = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "lib-sets-main",
-  partSlugs: [
+  parts: [
     "module/lib-sets-casts",
     "module/lib-sets-bool-pair",
     "eso-interface/lib-sets-copy-text-dialog",

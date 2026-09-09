@@ -8,7 +8,7 @@ export const temperLibChatMessage = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "chat-message-main",
-  partSlugs: [
+  parts: [
     "module/chat-message-types",
     "module/chat-message-casts",
     "module/chat-message-constants",

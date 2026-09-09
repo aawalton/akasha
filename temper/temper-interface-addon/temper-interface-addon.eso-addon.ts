@@ -10,7 +10,7 @@ export const temperInterfaceAddon = {
   bundleEntry: "module/interface-entry",
   bindings: "xml",
   interfaces: ["eso-interface/fcocs-virtuals"],
-  partSlugs: [
+  parts: [
     "module/assistant-collectibles",
     "module/assistant-bindings",
     "module/assistant-entry",

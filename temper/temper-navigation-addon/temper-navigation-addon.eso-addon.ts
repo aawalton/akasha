@@ -10,7 +10,7 @@ export const temperNavigationAddon = {
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "navigation-entry",
-  partSlugs: [
+  parts: [
     "eso-interface/minimap-animations",
     "module/compass-pins-casts",
     "module/compass-pins-constants",

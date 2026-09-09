@@ -8,7 +8,7 @@ export const temperLibCustomMenu = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "custom-menu-main",
-  partSlugs: [
+  parts: [
     "module/custom-menu-casts",
     "module/custom-menu-constants",
     "module/eso-menu",

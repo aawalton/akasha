@@ -22,7 +22,7 @@ export const alanWeb = {
   routeTypesDirectory: true,
   declarationDirectory: true,
   bundleDirectory: true,
-  partSlugs: [
+  parts: [
     "manifest/alanwalton-web",
     "stylesheet/alan-web-look",
     "stylesheet/idle-look",

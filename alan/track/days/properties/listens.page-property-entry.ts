@@ -8,7 +8,7 @@ export const listens = {
   slug: "listens",
   propertySlug: "listens",
   definition: "every play Alan finished on a day, one to a line",
-  partSlugs: [
+  parts: [
     "boolean-property/first-listen",
     "number-property/minutes",
     "number-property/new-music-minutes",

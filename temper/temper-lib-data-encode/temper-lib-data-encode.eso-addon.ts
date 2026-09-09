@@ -8,7 +8,7 @@ export const temperLibDataEncode = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "data-encode-entry",
-  partSlugs: [
+  parts: [
     "module/data-encode-surface",
     "module/data-encode-encoder",
     "module/data-encode-decoder",

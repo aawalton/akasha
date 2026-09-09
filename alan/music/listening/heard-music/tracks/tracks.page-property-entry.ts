@@ -8,7 +8,7 @@ export const tracks = {
   slug: "tracks",
   propertySlug: "tracks",
   definition: "every track a person has heard, one to a line",
-  partSlugs: [
+  parts: [
     "instant-property/first-heard-at",
     "text-property/artist-name",
     "text-property/heard-source",

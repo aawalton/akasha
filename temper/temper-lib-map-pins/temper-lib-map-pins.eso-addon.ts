@@ -8,7 +8,7 @@ export const temperLibMapPins = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "map-pins-main",
-  partSlugs: [
+  parts: [
     "module/map-pins-casts",
     "module/map-pins-constants",
     "module/map-pins-types",

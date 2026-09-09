@@ -8,7 +8,7 @@ export const temperLibDebugLogger = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "debug-logger-main",
-  partSlugs: [
+  parts: [
     "module/debug-logger-api",
     "module/debug-logger-callbacks",
     "module/debug-logger-casts",

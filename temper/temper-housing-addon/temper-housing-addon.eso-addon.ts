@@ -9,7 +9,7 @@ export const temperHousingAddon = {
   addonManifest: "json",
   bundleEntry: "housing-entry",
   bindings: "xml",
-  partSlugs: [
+  parts: [
     "module/housing-addon-names",
     "module/housing-build-casts",
     "module/housing-build-house-tab",

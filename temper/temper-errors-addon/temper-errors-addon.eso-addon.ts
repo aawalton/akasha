@@ -8,7 +8,7 @@ export const temperErrorsAddon = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "errors-addon-entry",
-  partSlugs: [
+  parts: [
     "module/errors-addon-limits",
     "module/errors-addon-traceback",
     "module/errors-addon-build-ids",

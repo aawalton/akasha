@@ -8,7 +8,7 @@ export const temperCaptureSalesAddon = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "sales-addon-entry",
-  partSlugs: ["module/sales-addon-entry", "module/sales-addon-name", "module/sales-capture"],
+  parts: ["module/sales-addon-entry", "module/sales-addon-name", "module/sales-capture"],
   invariants: [
     {
       invariantKind: "departure",

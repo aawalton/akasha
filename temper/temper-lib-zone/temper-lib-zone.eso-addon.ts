@@ -8,7 +8,7 @@ export const temperLibZone = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "zone-main",
-  partSlugs: [
+  parts: [
     "module/zone-constants",
     "module/zone-types",
     "module/zone-casts",

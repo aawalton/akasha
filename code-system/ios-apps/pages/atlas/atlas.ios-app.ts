@@ -24,5 +24,5 @@ export const atlas = {
     "@capgo/background-geolocation",
   ],
   webEntry: "html",
-  partSlugs: ["shell-script/atlas-capture-device-console", "shell-script/atlas-ios-seam"],
+  parts: ["shell-script/atlas-capture-device-console", "shell-script/atlas-ios-seam"],
 } as const satisfies IosApp

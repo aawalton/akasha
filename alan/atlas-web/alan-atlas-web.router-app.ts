@@ -20,7 +20,7 @@ export const alanAtlasWeb = {
   routeTypesDirectory: true,
   declarationDirectory: true,
   bundleDirectory: true,
-  partSlugs: [
+  parts: [
     "manifest/alanwalton-atlas",
     "stylesheet/alan-atlas-web-look",
     "module/atlas-answer-page-types",

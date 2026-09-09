@@ -42,7 +42,7 @@ export const alanwalton = {
   webEnvPath: "alan/web/.env.local",
   widgetBundleId: "com.alanwalton.app.widgets",
   widgetProfileName: "alanwalton widget App Store",
-  partSlugs: [
+  parts: [
     "shell-script/alanwalton-apns-forwarding",
     "shell-script/alanwalton-app-entitlements",
     "shell-script/alanwalton-app-icon",

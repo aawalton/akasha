@@ -8,7 +8,7 @@ export const temperLibAddonKeybinds = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "addon-keybinds-entry",
-  partSlugs: [
+  parts: [
     "module/addon-keybinds-bootstrap",
     "module/addon-keybinds-load",
     "module/addon-keybinds-menu-entry",

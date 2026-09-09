@@ -8,7 +8,7 @@ export const temperLibAddonMenuOrderListBox = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "module/order-list-box-entry",
-  partSlugs: [
+  parts: [
     "module/order-list-box-build",
     "module/order-list-box-casts",
     "module/order-list-box-constants",

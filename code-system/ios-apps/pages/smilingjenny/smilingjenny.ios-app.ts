@@ -33,7 +33,7 @@ export const smilingjenny = {
   webEntry: "html",
   widgetBundleId: "me.smilingjenny.app.widgets",
   widgetProfileName: "smilingjenny widget App Store",
-  partSlugs: [
+  parts: [
     "shell-script/smilingjenny-app-entitlements",
     "shell-script/smilingjenny-decode-harness-run",
     "shell-script/smilingjenny-ios-add",

@@ -9,7 +9,7 @@ export const temperHudAddon = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "hud-addon-entry",
-  partSlugs: [
+  parts: [
     "module/hud-addon-format",
     "module/hud-addon-visibility-version",
     "module/hud-addon-types",

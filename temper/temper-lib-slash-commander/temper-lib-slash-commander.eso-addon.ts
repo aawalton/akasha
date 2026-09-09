@@ -8,7 +8,7 @@ export const temperLibSlashCommander = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "slash-commander-entry",
-  partSlugs: [
+  parts: [
     "module/slash-commander-surface",
     "module/slash-command",
     "module/slash-commander-providers",

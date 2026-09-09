@@ -10,7 +10,7 @@ export const temperTradingAddon = {
   bundleEntry: "trading-entry",
   bindings: "xml",
   gitIgnore: "gitignore",
-  partSlugs: [
+  parts: [
     "module/trading-listing-facts",
     "module/trading-search-request-native",
     "module/trading-browse-engine",

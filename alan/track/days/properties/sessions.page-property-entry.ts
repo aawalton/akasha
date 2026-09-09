@@ -26,7 +26,7 @@ export const sessions = {
   slug: "sessions",
   propertySlug: "sessions",
   definition: "every stretch of time a day was spent in, one to a line",
-  partSlugs: [
+  parts: [
     "instant-property/asserted-at",
     "number-property/breathing-sets",
     "number-property/capacity-rate",

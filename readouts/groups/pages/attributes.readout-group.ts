@@ -5,7 +5,7 @@ export const attributes = {
   pageTypeSlug: "readout-group",
   slug: "attributes",
   definition: "the attributes Alan's daily upkeep habits earned on a day",
-  partSlugs: [
+  parts: [
     "readout/attribute-strength",
     "readout/attribute-endurance",
     "readout/attribute-constitution",

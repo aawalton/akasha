@@ -8,7 +8,7 @@ export const temperLibSavedVars = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "saved-vars-main",
-  partSlugs: [
+  parts: [
     "module/saved-vars-types",
     "module/saved-vars-casts",
     "module/saved-vars-constants",

@@ -8,7 +8,7 @@ export const temperLibNotification = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "notification-entry",
-  partSlugs: [
+  parts: [
     "module/notification-casts",
     "module/notification-entry",
     "module/notification-names",

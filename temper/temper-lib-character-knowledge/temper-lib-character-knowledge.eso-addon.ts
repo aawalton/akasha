@@ -8,7 +8,7 @@ export const temperLibCharacterKnowledge = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "knowledge-main",
-  partSlugs: [
+  parts: [
     "type-declaration/knowledge-string-ids",
     "module/knowledge-types",
     "module/knowledge-shape",

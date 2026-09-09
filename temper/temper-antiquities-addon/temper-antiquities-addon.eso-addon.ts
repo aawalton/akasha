@@ -9,7 +9,7 @@ export const temperAntiquitiesAddon = {
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "antiquities-addon-entry",
-  partSlugs: [
+  parts: [
     "eso-interface/leads-layout",
     "module/antiquities-addon-entry",
     "module/antiquities-addon-global",

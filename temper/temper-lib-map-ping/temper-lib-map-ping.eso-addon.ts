@@ -8,7 +8,7 @@ export const temperLibMapPing = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "map-ping-main",
-  partSlugs: [
+  parts: [
     "module/map-ping-api",
     "module/map-ping-casts",
     "module/map-ping-compatibility",

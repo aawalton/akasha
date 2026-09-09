@@ -8,7 +8,7 @@ export const processedMessages = {
   slug: "processed-messages",
   propertySlug: "processed-messages",
   definition: "every message a mailbox has been through and what was settled, one to a line",
-  partSlugs: [
+  parts: [
     "instant-property/gmail-processed-at",
     "text-property/gmail-decision",
     "text-property/gmail-message-id",

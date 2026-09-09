@@ -9,7 +9,7 @@ export const temperCraftingAddon = {
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "crafting-entry",
-  partSlugs: [
+  parts: [
     "module/craft-account-init",
     "module/craft-blueprint-furnisher",
     "module/craft-char-init",

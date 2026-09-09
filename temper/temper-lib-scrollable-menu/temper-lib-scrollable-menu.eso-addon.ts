@@ -9,7 +9,7 @@ export const temperLibScrollableMenu = {
   addonManifest: "json",
   bundleEntry: "scrollable-menu-main",
   interfaces: ["scrollable-menu-controls"],
-  partSlugs: [
+  parts: [
     "module/scrollable-menu-api-core",
     "module/scrollable-menu-api-entries",
     "module/scrollable-menu-api-refresh",

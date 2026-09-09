@@ -20,7 +20,7 @@ export const archiveOfWorldsWeb = {
   routeTypesDirectory: true,
   declarationDirectory: true,
   bundleDirectory: true,
-  partSlugs: [
+  parts: [
     "manifest/archive-of-worlds-web-manifests",
     "stylesheet/archive-of-worlds-web-look",
     "module/archive-of-worlds-app-id",

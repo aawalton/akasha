@@ -8,7 +8,7 @@ export const temperLibAlchemyStation = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "alchemy-station-entry",
-  partSlugs: [
+  parts: [
     "module/alchemy-station",
     "module/alchemy-station-entry",
     "module/alchemy-station-types",

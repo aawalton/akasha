@@ -9,7 +9,7 @@ export const temperEventsAddon = {
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "events-addon-entry",
-  partSlugs: [
+  parts: [
     "eso-interface/next-boss-layout",
     "module/events-addon-entry",
     "module/events-addon-global",

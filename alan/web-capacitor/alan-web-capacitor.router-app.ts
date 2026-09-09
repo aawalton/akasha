@@ -15,7 +15,7 @@ export const alanWebCapacitor = {
   routeTypesDirectory: true,
   declarationDirectory: true,
   bundleDirectory: true,
-  partSlugs: [
+  parts: [
     "route/alan-web-capacitor-home",
     "stylesheet/alan-web-capacitor-look",
     "route/alan-web-capacitor-page-detail",

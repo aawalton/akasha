@@ -8,7 +8,7 @@ export const temperLibGps = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "gps-main",
-  partSlugs: [
+  parts: [
     "module/gps-types",
     "module/gps-constants",
     "module/gps-casts",

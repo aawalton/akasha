@@ -8,7 +8,7 @@ export const temperLibMainMenu = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "main-menu-entry",
-  partSlugs: [
+  parts: [
     "module/main-menu-casts",
     "module/main-menu-entry",
     "module/main-menu-keyboard",

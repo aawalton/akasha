@@ -8,7 +8,7 @@ export const temperQuestsAddon = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "quests-entry",
-  partSlugs: [
+  parts: [
     "module/quests-constants",
     "module/quests-saved-variables",
     "module/quests-chatter-name-tables",

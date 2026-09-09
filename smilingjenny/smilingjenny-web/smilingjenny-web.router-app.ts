@@ -18,7 +18,7 @@ export const smilingjennyWeb = {
   routeTypesDirectory: true,
   declarationDirectory: true,
   bundleDirectory: true,
-  partSlugs: [
+  parts: [
     "manifest/smilingjenny-web-manifests",
     "stylesheet/smilingjenny-web-look",
     "module/jenny-capacitor-bridge",

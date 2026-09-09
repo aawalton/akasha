@@ -11,7 +11,7 @@ export const temperCompanionsAddon = {
   bindings: "xml",
   gitIgnore: "gitignore",
   luaModules: ["lua-module/companions-config"],
-  partSlugs: [
+  parts: [
     "module/companion-qol-types",
     "module/companion-qol-casts",
     "module/companion-qol-state",

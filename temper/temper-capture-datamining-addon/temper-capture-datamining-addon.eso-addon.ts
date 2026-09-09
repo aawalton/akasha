@@ -9,7 +9,7 @@ export const temperCaptureDataminingAddon = {
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "datamining-entry",
-  partSlugs: [
+  parts: [
     "module/datamining-constants",
     "module/datamining-saved-variables",
     "module/datamining-item-miner",

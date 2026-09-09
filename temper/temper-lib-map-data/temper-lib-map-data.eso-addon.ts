@@ -8,7 +8,7 @@ export const temperLibMapData = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "map-data-main",
-  partSlugs: [
+  parts: [
     "module/map-data-constants",
     "module/map-data-types",
     "module/map-data-casts",

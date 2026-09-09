@@ -10,7 +10,7 @@ export const temperCatalogAddon = {
   bindings: "xml",
   bundleEntry: "catalog-entry",
   luaModules: ["lua-module/catalog-config-file"],
-  partSlugs: [
+  parts: [
     "module/catalog-constants",
     "module/catalog-side-file-config",
     "module/catalog-collect-adapters",

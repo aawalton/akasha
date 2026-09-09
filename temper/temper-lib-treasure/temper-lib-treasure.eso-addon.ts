@@ -8,7 +8,7 @@ export const temperLibTreasure = {
   manifest: "json",
   addonManifest: "json",
   bundleEntry: "treasure-main",
-  partSlugs: [
+  parts: [
     "module/treasure-constants",
     "module/treasure-types",
     "module/treasure-casts",

@@ -23,7 +23,7 @@ export const temperWeb = {
   routeTypesDirectory: true,
   declarationDirectory: true,
   bundleDirectory: true,
-  partSlugs: [
+  parts: [
     "manifest/temper-web-manifests",
     "stylesheet/temper-web-look",
     "module/account-achievements-panel-card",
