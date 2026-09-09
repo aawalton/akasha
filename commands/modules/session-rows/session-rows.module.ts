@@ -23,6 +23,10 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
+      statement: "A day's first row began the day before where that day opened with a sleep.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A time naming no day of its own falls on the day `--day` names.",
     },
     {

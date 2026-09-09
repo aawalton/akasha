@@ -16,6 +16,7 @@ import {
   readDifficulty,
   readSafety,
 } from "../session-leveling/session-leveling.module.code.ts"
+import { dayBefore } from "../waking/waking.module.code.ts"
 
 export type RelationshipPage = {
   readonly id: string
@@ -364,7 +365,8 @@ export function faultsIn(rows: readonly Row[], held: Held): readonly string[] {
     const named = `row ${String(at + 1)}`
     const began = new Date(row.startTime)
     const on = Number.isNaN(began.getTime()) ? null : dayNow(began)
-    if (on !== null && on !== held.day) {
+    const opened = at === 0 && on === dayBefore(held.day)
+    if (on !== null && on !== held.day && !opened) {
       said.push(`${named} began on ${on} rather than on ${held.day}, whose page holds it`)
     }
     for (const key of Object.keys(row)) {
