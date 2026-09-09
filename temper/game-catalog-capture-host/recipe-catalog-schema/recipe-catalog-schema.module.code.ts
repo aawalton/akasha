@@ -1,5 +1,5 @@
-import type { RecipeCatalogList } from "@akasha/temper-capture-shapes/recipe-catalog"
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import type { RecipeCatalogList } from "akasha/temper/capture-shapes/recipe-catalog/recipe-catalog.module.code.ts"
 import { z } from "zod"
 
 const recipeCatalogRecipeSchema = z.object({ name: z.string() }).strict()

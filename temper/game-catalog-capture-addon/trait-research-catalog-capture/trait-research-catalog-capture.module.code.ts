@@ -4,13 +4,13 @@ import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/lua-language-extensions"
 
+import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   TraitResearchCatalogCraftType,
   TraitResearchCatalogLine,
   TraitResearchCatalogTrait,
-} from "@akasha/temper-capture-shapes/trait-research-catalog"
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+} from "akasha/temper/capture-shapes/trait-research-catalog/trait-research-catalog.module.code.ts"
 
 export const CRAFTING_TYPES = [
   CRAFTING_TYPE_BLACKSMITHING,

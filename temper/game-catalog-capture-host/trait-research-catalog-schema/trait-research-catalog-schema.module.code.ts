@@ -1,5 +1,5 @@
-import type { TraitResearchCatalogCraftType } from "@akasha/temper-capture-shapes/trait-research-catalog"
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import type { TraitResearchCatalogCraftType } from "akasha/temper/capture-shapes/trait-research-catalog/trait-research-catalog.module.code.ts"
 import { z } from "zod"
 
 const traitResearchCatalogTraitSchema = z.object({ name: z.string() }).strict()

@@ -3,13 +3,13 @@ import "@akasha/temper-eso-types/eso-enums-04"
 import "@akasha/temper-eso-types/eso-functions-04"
 import "@akasha/temper-eso-types/eso-functions-10"
 import "@akasha/temper-eso-types/eso-globals"
+import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   SkillCatalogAbility,
   SkillCatalogLine,
   SkillCatalogMorph,
-} from "@akasha/temper-capture-shapes/skill-catalog"
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+} from "akasha/temper/capture-shapes/skill-catalog/skill-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched.module.code.ts"
 
 const BATCH_SIZE = 100

@@ -2,9 +2,9 @@ import "@akasha/temper-eso-types/eso-enums-07"
 import "@akasha/temper-eso-types/eso-enums-08"
 import "@akasha/temper-eso-types/eso-enums-11"
 
-import type { CompanionEquipmentCatalogData } from "@akasha/temper-capture-shapes/companion-equipment-catalog"
 import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
 import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+import type { CompanionEquipmentCatalogData } from "akasha/temper/capture-shapes/companion-equipment-catalog/companion-equipment-catalog.module.code.ts"
 
 export function collectCompanionEquipmentCatalog(
   this: void,

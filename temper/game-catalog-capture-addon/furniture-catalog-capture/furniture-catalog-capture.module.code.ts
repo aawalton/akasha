@@ -3,12 +3,12 @@ import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/lua-language-extensions"
 
+import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   FurnitureCatalogData,
   FurnitureCatalogSubCategory,
-} from "@akasha/temper-capture-shapes/furniture-catalog"
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+} from "akasha/temper/capture-shapes/furniture-catalog/furniture-catalog.module.code.ts"
 
 export function collectFurnitureCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()

@@ -39,7 +39,6 @@
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
@@ -985,9 +984,6 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "temper/capture-shapes": {
-      "name": "@akasha/temper-capture-shapes",
-    },
     "temper/catalog-addon": {
       "name": "@akasha/temper-catalog-addon",
       "dependencies": {
@@ -1521,8 +1517,6 @@
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
 
     "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:temper/capture-sales-addon"],
-
-    "@akasha/temper-capture-shapes": ["@akasha/temper-capture-shapes@workspace:temper/capture-shapes"],
 
     "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/catalog-addon"],
 

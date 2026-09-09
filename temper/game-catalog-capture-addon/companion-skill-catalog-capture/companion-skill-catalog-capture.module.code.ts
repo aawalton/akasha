@@ -4,12 +4,12 @@ import "@akasha/temper-eso-types/eso-functions-05"
 import "@akasha/temper-eso-types/eso-functions-10"
 import "@akasha/temper-eso-types/eso-globals"
 
+import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   CompanionSkillCatalogAbility,
   CompanionSkillCatalogLine,
-} from "@akasha/temper-capture-shapes/companion-skill-catalog"
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+} from "akasha/temper/capture-shapes/companion-skill-catalog/companion-skill-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched.module.code.ts"
 
 const BATCH_SIZE = 100

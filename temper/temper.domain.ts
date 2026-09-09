@@ -39,7 +39,7 @@ export const temper = {
     "domain/temper-explain",
     "domain/temper-upstream-data",
     "domain/temper-addon-build",
-    "workspace-package/temper-capture-shapes",
+    "domain/temper-capture-shapes",
     "workspace-package/temper-eso-paths",
     "domain/temper-eso-typings",
     "eso-addon/temper-lib-table-functions",

@@ -5,7 +5,7 @@ export const twelveCaptureCorePackagesLandedAsOne = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "twelve-capture-core-packages-landed-as-one",
-  domain: "workspace-package/temper-capture-shapes",
+  domain: "domain/temper-capture-shapes",
   claim:
     "The twelve `@temper/game-*-capture-core` packages held nineteen exported interfaces between them and nothing else. They landed as one workspace package holding nineteen modules rather than as twelve siblings. Every way in keeps its old subpath name, so a repoint changes only the package half of each specifier. No capability goes. What goes is the twelve-package boundary, which was type-only and cost a manifest and a typecheck config for every two interface files.",
   evidence:

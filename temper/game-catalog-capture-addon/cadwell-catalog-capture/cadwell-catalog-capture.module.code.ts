@@ -3,13 +3,13 @@ import "@akasha/temper-eso-types/eso-functions-04"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/lua-language-extensions"
 
+import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   CadwellCatalogLevel,
   CadwellCatalogPOI,
   CadwellCatalogZone,
-} from "@akasha/temper-capture-shapes/cadwell-catalog"
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+} from "akasha/temper/capture-shapes/cadwell-catalog/cadwell-catalog.module.code.ts"
 
 export const CADWELL_LEVELS = [
   CADWELL_PROGRESSION_LEVEL_BRONZE,

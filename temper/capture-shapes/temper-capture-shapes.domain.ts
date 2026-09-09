@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCaptureShapes = {
   id: "01a0604d-23a0-70d4-9f11-7c21f7a7d1bc",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-capture-shapes",
   definition: "the shape of every catalog the addon captures out of the running game",
-  manifest: "json",
   parts: [
     "module/class-catalog",
     "module/skill-catalog",
@@ -41,4 +40,4 @@ export const temperCaptureShapes = {
       statement: "Nothing here has code that runs.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

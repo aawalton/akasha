@@ -1,5 +1,5 @@
-import type { ZoneCompletionCatalogZone } from "@akasha/temper-capture-shapes/zone-completion-catalog"
 import { assertSchemaMatchesPayload } from "akasha/temper/capture-host/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import type { ZoneCompletionCatalogZone } from "akasha/temper/capture-shapes/zone-completion-catalog/zone-completion-catalog.module.code.ts"
 import { z } from "zod"
 
 const zoneCompletionCatalogActivitySchema = z

@@ -3,13 +3,13 @@ import "@akasha/temper-eso-types/eso-functions-07"
 import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
 
+import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   ZoneCompletionCatalogActivity,
   ZoneCompletionCatalogType,
   ZoneCompletionCatalogZone,
-} from "@akasha/temper-capture-shapes/zone-completion-catalog"
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+} from "akasha/temper/capture-shapes/zone-completion-catalog/zone-completion-catalog.module.code.ts"
 
 export const ZONE_COMPLETION_TYPES = [
   ZONE_COMPLETION_TYPE_DELVES,

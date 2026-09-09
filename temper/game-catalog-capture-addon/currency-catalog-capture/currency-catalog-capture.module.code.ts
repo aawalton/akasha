@@ -2,9 +2,9 @@ import "@akasha/temper-eso-types/eso-enums-06"
 import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
 
-import type { CurrencyCatalogEntry } from "@akasha/temper-capture-shapes/currency-catalog"
 import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
 import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+import type { CurrencyCatalogEntry } from "akasha/temper/capture-shapes/currency-catalog/currency-catalog.module.code.ts"
 
 export const CURRENCY_TYPES = [
   CURT_MONEY,

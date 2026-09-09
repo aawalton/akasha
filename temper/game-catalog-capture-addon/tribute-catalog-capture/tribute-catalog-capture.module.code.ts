@@ -4,12 +4,12 @@ import "@akasha/temper-eso-types/eso-functions-10"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/lua-language-extensions"
 
+import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
+import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import type {
   TributePatronCatalogCard,
   TributePatronCatalogEntry,
-} from "@akasha/temper-capture-shapes/tribute-catalog"
-import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
-import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+} from "akasha/temper/capture-shapes/tribute-catalog/tribute-catalog.module.code.ts"
 
 export function collectTributeCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()

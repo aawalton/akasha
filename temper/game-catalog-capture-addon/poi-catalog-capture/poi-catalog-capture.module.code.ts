@@ -4,9 +4,12 @@ import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/lua-language-extensions"
 
-import type { PoiCatalogEntry, PoiCatalogZone } from "@akasha/temper-capture-shapes/poi-catalog"
 import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
 import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+import type {
+  PoiCatalogEntry,
+  PoiCatalogZone,
+} from "akasha/temper/capture-shapes/poi-catalog/poi-catalog.module.code.ts"
 
 export function collectPoiCatalog(this: void, onComplete: (this: void) => void): undefined {
   const savedVars = getSavedVariables()
