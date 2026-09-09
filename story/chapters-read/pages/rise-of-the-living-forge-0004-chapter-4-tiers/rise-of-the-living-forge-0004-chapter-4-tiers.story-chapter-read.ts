@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0004Chapter4Tiers = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0004-chapter-4-tiers",
   title: "Chapter 4: Tiers",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 4,
   ownLength: 2267,
   unitSlug: "words",

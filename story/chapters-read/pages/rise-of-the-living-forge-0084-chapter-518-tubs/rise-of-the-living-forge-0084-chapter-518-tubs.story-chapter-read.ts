@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0084Chapter518Tubs = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0084-chapter-518-tubs",
   title: "Chapter 518: Tubs",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 84,
   ownLength: 2025,
   unitSlug: "words",

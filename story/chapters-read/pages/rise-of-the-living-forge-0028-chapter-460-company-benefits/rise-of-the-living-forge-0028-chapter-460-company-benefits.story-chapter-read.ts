@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0028Chapter460CompanyBenefits = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0028-chapter-460-company-benefits",
   title: "Chapter 460: Company benefits",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 28,
   ownLength: 2011,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0169Chapter169YoNaIsNotHappy = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0169-chapter-169-yo-na-is-not-happy",
   title: "Chapter 169: Yo Na is not happy",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 169,
   ownLength: 1930,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0019Chapter17MissionSucc
   pageTypeSlug: "story-chapter-read",
   slug: "quiet-life-of-the-mute-archmage-op-archmage-academy-0019-chapter-17-mission-success",
   title: "Chapter 17: Mission Success",
-  partOfCollectionSlugs: ["quiet-life-of-the-mute-archmage-op-archmage-academy"],
+  storySlug: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 19,
   ownLength: 2080,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixHealer0001PhoenixHealerSoonComingToAmazon = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-healer-0001-phoenix-healer-soon-coming-to-amazon",
   title: "Phoenix Healer soon coming to Amazon!",
-  partOfCollectionSlugs: ["phoenix-healer"],
+  storySlug: "phoenix-healer",
   position: 1,
   ownLength: 148,
   unitSlug: "words",

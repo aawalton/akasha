@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0037Chapter470Break = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0037-chapter-470-break",
   title: "Chapter 470: Break",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 37,
   ownLength: 2604,
   unitSlug: "words",

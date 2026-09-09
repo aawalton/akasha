@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0136Chapter136UnexpectedAlly = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0136-chapter-136-unexpected-ally",
   title: "Chapter 136: Unexpected Ally?",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 136,
   ownLength: 2298,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0012Chapter270Tree = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0012-chapter-270-tree",
   title: "Chapter 270: Tree",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 12,
   ownLength: 2161,
   unitSlug: "words",

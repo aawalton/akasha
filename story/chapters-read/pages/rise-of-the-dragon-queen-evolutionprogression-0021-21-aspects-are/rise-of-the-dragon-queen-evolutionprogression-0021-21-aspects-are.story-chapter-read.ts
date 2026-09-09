@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression002121AspectsAre = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0021-21-aspects-are",
   title: "21 - Aspects Are...",
-  partOfCollectionSlugs: ["rise-of-the-dragon-queen-evolutionprogression"],
+  storySlug: "rise-of-the-dragon-queen-evolutionprogression",
   position: 21,
   ownLength: 1997,
   unitSlug: "words",

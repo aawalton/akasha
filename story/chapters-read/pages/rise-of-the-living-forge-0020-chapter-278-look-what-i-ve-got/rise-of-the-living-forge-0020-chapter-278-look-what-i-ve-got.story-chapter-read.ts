@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0020Chapter278LookWhatIVeGot = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0020-chapter-278-look-what-i-ve-got",
   title: "Chapter 278: Look what I've got.",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 20,
   ownLength: 3158,
   unitSlug: "words",

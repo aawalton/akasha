@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0041Chapter474ScarredHand = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0041-chapter-474-scarred-hand",
   title: "Chapter 474: Scarred Hand",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 41,
   ownLength: 2181,
   unitSlug: "words",

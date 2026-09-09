@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0036Chapter469BullInAChinaShop = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0036-chapter-469-bull-in-a-china-shop",
   title: "Chapter 469: Bull in a china shop",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 36,
   ownLength: 1834,
   unitSlug: "words",

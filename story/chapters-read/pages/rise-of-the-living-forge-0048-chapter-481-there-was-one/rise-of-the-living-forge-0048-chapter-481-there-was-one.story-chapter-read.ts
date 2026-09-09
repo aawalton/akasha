@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0048Chapter481ThereWasOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0048-chapter-481-there-was-one",
   title: "Chapter 481: There was one",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 48,
   ownLength: 2075,
   unitSlug: "words",
