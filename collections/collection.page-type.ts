@@ -4,7 +4,7 @@ import type { CollectionAuthor } from "./properties/collection-author.text-prope
 import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"
 import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
 import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
-import type { CollectionTypeSlug } from "./properties/collection-type-slug.relation-property.ts"
+import type { CollectionType } from "./properties/collection-type.relation-property.ts"
 import type { Following } from "./properties/following.boolean-property.ts"
 import type { OwnLength } from "./properties/own-length.number-property.ts"
 import type { OwnProgress } from "./properties/own-progress.number-property.ts"
@@ -33,7 +33,7 @@ export type Collection = Page & {
   tags?: readonly CollectionTags[]
   unitSlug?: UnitSlug
   unitWords?: UnitWords
-  collectionTypeSlug?: CollectionTypeSlug
+  collectionType?: CollectionType
 }
 
 export const collection = {
@@ -73,7 +73,7 @@ export const collection = {
     "page-type/sync-run",
     "page-type/unit",
     "rank-property/rank",
-    "relation-property/collection-type-slug",
+    "relation-property/collection-type",
     "relation-property/part-of-collection-slugs",
     "relation-property/unit-slug",
     "select-property/status",
@@ -120,7 +120,7 @@ export const collection = {
     },
     { pagePropertySlug: "relation-property/unit-slug", required: false, many: false },
     { pagePropertySlug: "computed-property/collection-completion", required: false, many: false },
-    { pagePropertySlug: "relation-property/collection-type-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/collection-type", required: false, many: false },
     { pagePropertySlug: "computed-property/own-length-in-words", required: false, many: false },
     { pagePropertySlug: "computed-property/own-progress-in-words", required: false, many: false },
     { pagePropertySlug: "computed-property/own-remaining", required: false, many: false },

@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type CollectionTypeSlug = Slug
+export type CollectionType = Slug
 
-export const collectionTypeSlug = {
+export const collectionType = {
   id: "01a06935-8628-7809-8c7e-6a0cb1b50efc",
   pageTypeSlug: "relation-property",
-  slug: "collection-type-slug",
-  propertySlug: "collection-type-slug",
+  slug: "collection-type",
+  propertySlug: "collection-type",
   definition: "the kind of thing a collection gathers",
   targetPageTypeSlug: "page-type/collection-type",
 } as const satisfies RelationProperty
