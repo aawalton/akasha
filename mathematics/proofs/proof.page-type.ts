@@ -4,11 +4,11 @@ import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Attempt } from "./properties/attempt.number-property.ts"
 import type { Derivation } from "./properties/derivation.file-property.ts"
 import type { ProofStatus } from "./properties/proof-status.select-property.ts"
-import type { ProvesSlug } from "./properties/proves-slug.relation-property.ts"
+import type { Proves } from "./properties/proves.relation-property.ts"
 
 export type Proof = Page & {
   title: Title
-  provesSlug: ProvesSlug
+  proves: Proves
   proofStatus: ProofStatus
   attempt: Attempt
   derivation?: Derivation
@@ -24,12 +24,12 @@ export const proof = {
   partSlugs: [
     "file-property/derivation",
     "number-property/attempt",
-    "relation-property/proves-slug",
+    "relation-property/proves",
     "select-property/proof-status",
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/proves-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/proves", required: true, many: false },
     { pagePropertySlug: "select-property/proof-status", required: true, many: false },
     { pagePropertySlug: "number-property/attempt", required: true, many: false },
     { pagePropertySlug: "file-property/derivation", required: false, many: false },
