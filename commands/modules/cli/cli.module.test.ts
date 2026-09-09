@@ -25,7 +25,7 @@ const ROOT_AT = scratch.rootFor("akasha-cli-")
 
 writeFileSync(join(ROOT_AT, MARKED), "")
 
-const AT = join(ROOT_AT, "command-system/cli.module.code.ts")
+const AT = join(ROOT_AT, "commands/modules/cli/cli.module.code.ts")
 
 test("a stated root wins over where the dispatcher is", () => {
   const said = outsideOf({ AKASHA_ROOT: "/elsewhere" }, AT, "/nowhere")
