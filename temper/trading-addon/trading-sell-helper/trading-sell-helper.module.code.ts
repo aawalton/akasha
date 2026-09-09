@@ -22,7 +22,10 @@ import {
   PADDING_Y,
 } from "@akasha/temper-items-filters-addon/filter-bar-controls"
 import { getItemPriceKey, suggestSellPrice } from "@akasha/temper-trading-listings/sell-pricing"
-import { createSellFlow, type SellFlow } from "@akasha/temper-trading-post/guild-store-poster"
+import {
+  createSellFlow,
+  type SellFlow,
+} from "akasha/temper/trading-post/guild-store-poster/guild-store-poster.module.code.ts"
 import { ADDON_NAME } from "../trading-constants/trading-constants.module.code.ts"
 import {
   getLastSold,

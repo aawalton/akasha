@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperTradingPost = {
   id: "01a060a9-5d59-7bb9-b2e0-af4c90fe867f",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-trading-post",
   definition: "putting an item up for sale at a guild store",
-  manifest: "json",
   parts: ["module/guild-store-poster"],
   invariants: [
     {
@@ -17,4 +16,4 @@ export const temperTradingPost = {
       statement: "An item outside the backpack is never posted.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

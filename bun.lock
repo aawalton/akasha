@@ -2018,7 +2018,6 @@
         "@akasha/temper-narrow": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-skill-morphs": "workspace:*",
-        "@akasha/temper-trading-post": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -2353,7 +2352,6 @@
         "@akasha/temper-items-filters-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
         "@akasha/temper-trading-listings": "workspace:*",
-        "@akasha/temper-trading-post": "workspace:*",
       },
     },
     "temper/trading-listings": {
@@ -2363,12 +2361,6 @@
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "temper/trading-post": {
-      "name": "@akasha/temper-trading-post",
-      "dependencies": {
-        "@akasha/temper-eso-types": "workspace:*",
       },
     },
     "temper/trading-pricing": {
@@ -2832,8 +2824,6 @@
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 
     "@akasha/temper-trading-listings": ["@akasha/temper-trading-listings@workspace:temper/trading-listings"],
-
-    "@akasha/temper-trading-post": ["@akasha/temper-trading-post@workspace:temper/trading-post"],
 
     "@akasha/temper-trading-pricing": ["@akasha/temper-trading-pricing@workspace:temper/trading-pricing"],
 

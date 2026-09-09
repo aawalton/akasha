@@ -20,7 +20,6 @@
     "@akasha/temper-narrow": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs": "workspace:*",
-    "@akasha/temper-trading-post": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }
