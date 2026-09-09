@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const emailWatch = {
   id: "01a06596-a92e-7000-b678-5d6232425a71",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "email-watch",
   definition: "what becomes of a message that arrives in Alan's inbox",
-  manifest: "json",
   parts: [
     "module/email-rule-deciding",
     "module/email-rule-reading",
@@ -33,4 +32,4 @@ export const emailWatch = {
       statement: "The rules a run reads are reached from akasha.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

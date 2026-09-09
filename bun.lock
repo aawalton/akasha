@@ -15,12 +15,16 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
+        "@akasha/google-email": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/icloud-photos": "workspace:*",
         "@akasha/imessage": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-url": "workspace:*",
+        "@akasha/rules-engine": "workspace:*",
+        "@akasha/seat-system": "workspace:*",
         "@akasha/spotify": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-client": "workspace:*",
@@ -165,16 +169,6 @@
     },
     "alan/harness/email-inbound": {
       "name": "@akasha/email-inbound",
-    },
-    "alan/harness/email-watch": {
-      "name": "@akasha/email-watch",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/google-email": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/rules-engine": "workspace:*",
-        "@akasha/seat-system": "workspace:*",
-      },
     },
     "alan/harness/errors-client": {
       "name": "@akasha/errors-client",
@@ -2805,8 +2799,6 @@
     "@akasha/editor-extension": ["@akasha/editor-extension@workspace:editor-extension"],
 
     "@akasha/email-inbound": ["@akasha/email-inbound@workspace:alan/harness/email-inbound"],
-
-    "@akasha/email-watch": ["@akasha/email-watch@workspace:alan/harness/email-watch"],
 
     "@akasha/errors-client": ["@akasha/errors-client@workspace:alan/harness/errors-client"],
 
