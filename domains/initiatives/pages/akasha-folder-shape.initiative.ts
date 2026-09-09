@@ -20,7 +20,7 @@ export const akashaFolderShape = {
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
       workingMemory:
-        "`HELD_FOLDERS` is `modules`, `pages`, `properties` and `scripts`; a parent shape skips a subfolder so named and leaves it to that folder's own shape. Both disabled shapes open with `files.length === 0`, and `pages-of-one-type` takes a folder with no page at all, so the 37 `folders-only` clears sit inside the 310 `pages-of-one-type` clears and enabling both is enabling one. 187 stay refused for holding files beside their pages. Alan holds whether a shape may take no page.\n",
+        "No shape consults `HELD_FOLDERS`; each carries its own list and they differ — `a-page-type-with-its-parts` holds five names, `a-domain-with-its-parts` only `modules` and `scripts`. Four shapes are disabled: `folders-only`, `pages-of-one-type`, `one-page-with-its-properties` and `single-entrance`; the first three open with `files.length === 0`, and `pages-of-one-type` takes a folder with no page, so enabling it and `folders-only` is enabling one. Alan holds whether a shape may take no page.\n",
     },
     {
       statement: "A check determines whether a folder should be a workspace package.",
