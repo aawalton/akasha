@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed00033Festival2390677 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0003-3-festival-2390677",
   title: "3 Festival",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 3,
   ownLength: 5219,
   unitSlug: "words",

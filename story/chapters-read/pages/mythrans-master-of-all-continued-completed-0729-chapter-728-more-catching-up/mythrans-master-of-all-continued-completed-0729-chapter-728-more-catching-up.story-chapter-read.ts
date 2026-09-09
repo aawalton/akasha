@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0729Chapter728MoreCatchingUp =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0729-chapter-728-more-catching-up",
   title: "Chapter 728 - More Catching Up",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 729,
   ownLength: 3301,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0751Chapter750PervarianProblem
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0751-chapter-750-pervarian-problem",
   title: "Chapter 750 - Pervarian Problem",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 751,
   ownLength: 3973,
   unitSlug: "words",

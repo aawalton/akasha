@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0083112ISurfaceIv = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0083-112-i-surface-iv",
   title: "112 (I) Surface [IV] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 83,
   ownLength: 0,
   unitSlug: "words",

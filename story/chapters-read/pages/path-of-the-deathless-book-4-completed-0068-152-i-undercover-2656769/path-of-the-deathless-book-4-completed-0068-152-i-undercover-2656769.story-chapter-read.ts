@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0068152IUndercover2656769 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0068-152-i-undercover-2656769",
   title: "152 (I)  Undercover",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 68,
   ownLength: 2727,
   unitSlug: "words",

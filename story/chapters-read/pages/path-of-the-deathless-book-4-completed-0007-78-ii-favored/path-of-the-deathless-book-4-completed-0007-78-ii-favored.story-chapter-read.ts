@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed000778IiFavored = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0007-78-ii-favored",
   title: "78 (II) Favored",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 7,
   ownLength: 0,
   unitSlug: "words",

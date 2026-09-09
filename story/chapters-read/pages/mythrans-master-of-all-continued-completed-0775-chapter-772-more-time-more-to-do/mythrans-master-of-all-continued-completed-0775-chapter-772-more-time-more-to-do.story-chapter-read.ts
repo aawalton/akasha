@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0775Chapter772MoreTimeMoreToDo
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0775-chapter-772-more-time-more-to-do",
   title: "Chapter 772 - More Time, More To Do",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 775,
   ownLength: 4159,
   unitSlug: "words",

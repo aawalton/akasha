@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0750Chapter749CaravanConclusio
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0750-chapter-749-caravan-conclusion",
   title: "Chapter 749 - Caravan Conclusion",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 750,
   ownLength: 3187,
   unitSlug: "words",

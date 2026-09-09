@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0772Chapter770a1FourWayLearnin
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0772-chapter-770a1-four-way-learning",
   title: "Chapter 770A1 - Four Way Learning",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 772,
   ownLength: 3448,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed003991IiDeliberate = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0039-91-ii-deliberate",
   title: "91 (II) Deliberate",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 39,
   ownLength: 0,
   unitSlug: "words",

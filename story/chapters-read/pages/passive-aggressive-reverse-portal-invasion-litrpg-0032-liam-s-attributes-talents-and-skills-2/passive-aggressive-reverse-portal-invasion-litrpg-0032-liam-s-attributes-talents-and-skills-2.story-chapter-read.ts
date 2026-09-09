@@ -5,7 +5,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0032LiamSAttributesTale
   pageTypeSlug: "story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0032-liam-s-attributes-talents-and-skills-2",
   title: "Liam’s Attributes, talents and skills 2",
-  storySlug: "passive-aggressive-reverse-portal-invasion-litrpg",
+  story: "passive-aggressive-reverse-portal-invasion-litrpg",
   position: 32,
   ownLength: 635,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0735Chapter734BundleOfTrouble 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0735-chapter-734-bundle-of-trouble",
   title: "Chapter 734 - Bundle Of Trouble",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 735,
   ownLength: 3278,
   unitSlug: "words",

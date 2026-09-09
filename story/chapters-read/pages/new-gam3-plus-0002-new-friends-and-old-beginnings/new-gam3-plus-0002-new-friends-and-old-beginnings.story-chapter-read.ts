@@ -5,7 +5,7 @@ export const newGam3Plus0002NewFriendsAndOldBeginnings = {
   pageTypeSlug: "story-chapter-read",
   slug: "new-gam3-plus-0002-new-friends-and-old-beginnings",
   title: "New Friends and Old Beginnings",
-  storySlug: "new-gam3-plus",
+  story: "new-gam3-plus",
   position: 2,
   ownLength: 4778,
   unitSlug: "words",

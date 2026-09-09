@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0762Chapter761GameTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0762-chapter-761-game-time",
   title: "Chapter 761 - Game Time",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 762,
   ownLength: 3378,
   unitSlug: "words",

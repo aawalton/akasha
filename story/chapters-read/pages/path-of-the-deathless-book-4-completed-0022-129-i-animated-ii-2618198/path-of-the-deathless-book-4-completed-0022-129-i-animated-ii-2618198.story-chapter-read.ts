@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0022129IAnimatedIi2618198 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0022-129-i-animated-ii-2618198",
   title: "129 (I)  Animated [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 22,
   ownLength: 2671,
   unitSlug: "words",

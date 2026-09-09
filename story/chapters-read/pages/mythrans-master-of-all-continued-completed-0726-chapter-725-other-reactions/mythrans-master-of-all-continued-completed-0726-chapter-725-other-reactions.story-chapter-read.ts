@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0726Chapter725OtherReactions =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0726-chapter-725-other-reactions",
   title: "Chapter 725 - Other Reactions",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 726,
   ownLength: 2887,
   unitSlug: "words",

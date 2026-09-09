@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0079155IiiTarrasque2666783 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0079-155-iii-tarrasque-2666783",
   title: "155 (III) Tarrasque",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 79,
   ownLength: 1996,
   unitSlug: "words",

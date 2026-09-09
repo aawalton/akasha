@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed005599IiPlaguefueled = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0055-99-ii-plaguefueled",
   title: "99 (II) Plaguefueled",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 55,
   ownLength: 0,
   unitSlug: "words",

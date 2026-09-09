@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0716Chapter715ThatsWhatICallAD
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0716-chapter-715-thats-what-i-call-a-date",
   title: "Chapter 715 - That's What I Call A Date",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 716,
   ownLength: 2927,
   unitSlug: "words",

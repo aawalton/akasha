@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0067151IiProvokeIi2656517 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0067-151-ii-provoke-ii-2656517",
   title: "151 (II)  Provoke [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 67,
   ownLength: 2151,
   unitSlug: "words",

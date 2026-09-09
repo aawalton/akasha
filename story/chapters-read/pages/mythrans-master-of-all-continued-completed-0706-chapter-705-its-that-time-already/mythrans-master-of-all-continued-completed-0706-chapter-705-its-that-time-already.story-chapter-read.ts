@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0706Chapter705ItsThatTimeAlrea
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0706-chapter-705-its-that-time-already",
   title: "Chapter 705 - It's That Time Already?",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 706,
   ownLength: 3062,
   unitSlug: "words",

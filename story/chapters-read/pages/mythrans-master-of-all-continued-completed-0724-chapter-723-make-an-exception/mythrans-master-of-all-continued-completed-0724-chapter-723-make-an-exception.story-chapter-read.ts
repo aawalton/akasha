@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0724Chapter723MakeAnException 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0724-chapter-723-make-an-exception",
   title: "Chapter 723 - Make An Exception",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 724,
   ownLength: 3559,
   unitSlug: "words",

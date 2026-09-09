@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0040138IRegenerate2634015 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0040-138-i-regenerate-2634015",
   title: "138 (I)  Regenerate",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 40,
   ownLength: 3261,
   unitSlug: "words",

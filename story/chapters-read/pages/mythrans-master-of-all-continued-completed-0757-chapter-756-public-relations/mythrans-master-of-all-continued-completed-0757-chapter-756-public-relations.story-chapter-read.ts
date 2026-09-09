@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0757Chapter756PublicRelations 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0757-chapter-756-public-relations",
   title: "Chapter 756 - Public Relations",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 757,
   ownLength: 3785,
   unitSlug: "words",

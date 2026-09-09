@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0719Chapter718TheLastOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0719-chapter-718-the-last-one",
   title: "Chapter 718 - The Last One",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 719,
   ownLength: 2618,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0793ChapterSevenNineT790Epilog
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0793-chapter-seven-nine-t-790-epilogue-real-life",
   title: "Chapter Seven Nine T (790) - Epilogue (Real Life)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 793,
   ownLength: 409,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0060101IiFeastI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0060-101-ii-feast-i",
   title: "101 (II) Feast [I] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 60,
   ownLength: 0,
   unitSlug: "words",

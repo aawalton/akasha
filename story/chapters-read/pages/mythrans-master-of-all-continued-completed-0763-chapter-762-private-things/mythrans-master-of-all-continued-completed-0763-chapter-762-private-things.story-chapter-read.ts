@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0763Chapter762PrivateThings = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0763-chapter-762-private-things",
   title: "Chapter 762 - Private Things",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 763,
   ownLength: 2993,
   unitSlug: "words",

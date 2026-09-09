@@ -6,7 +6,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0016InterruptingTheStor
     pageTypeSlug: "story-chapter-read",
     slug: "passive-aggressive-reverse-portal-invasion-litrpg-0016-interrupting-the-story-for-a-thank-you-note",
     title: "Interrupting the story for a thank you note!",
-    storySlug: "passive-aggressive-reverse-portal-invasion-litrpg",
+    story: "passive-aggressive-reverse-portal-invasion-litrpg",
     position: 16,
     ownLength: 179,
     unitSlug: "words",

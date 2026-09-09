@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0714Chapter713ConflictOfIntere
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0714-chapter-713-conflict-of-interest",
   title: "Chapter 713 - Conflict Of Interest",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 714,
   ownLength: 2559,
   unitSlug: "words",

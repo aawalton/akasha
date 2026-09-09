@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0709Chapter708SharingSomeTruth
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0709-chapter-708-sharing-some-truths",
   title: "Chapter 708 - Sharing Some Truths",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 709,
   ownLength: 2928,
   unitSlug: "words",

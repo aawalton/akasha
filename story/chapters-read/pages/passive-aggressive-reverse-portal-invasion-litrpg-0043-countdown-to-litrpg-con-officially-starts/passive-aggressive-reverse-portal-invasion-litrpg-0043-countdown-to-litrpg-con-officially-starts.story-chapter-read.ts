@@ -6,7 +6,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0043CountdownToLitrpgCo
     pageTypeSlug: "story-chapter-read",
     slug: "passive-aggressive-reverse-portal-invasion-litrpg-0043-countdown-to-litrpg-con-officially-starts",
     title: "Countdown to LitRPG Con officially starts / progress update.",
-    storySlug: "passive-aggressive-reverse-portal-invasion-litrpg",
+    story: "passive-aggressive-reverse-portal-invasion-litrpg",
     position: 43,
     ownLength: 208,
     unitSlug: "words",

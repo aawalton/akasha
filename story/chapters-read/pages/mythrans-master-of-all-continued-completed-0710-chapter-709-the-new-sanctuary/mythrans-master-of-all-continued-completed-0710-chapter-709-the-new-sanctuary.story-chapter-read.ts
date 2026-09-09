@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0710Chapter709TheNewSanctuary 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0710-chapter-709-the-new-sanctuary",
   title: "Chapter 709 - The New Sanctuary",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 710,
   ownLength: 3506,
   unitSlug: "words",

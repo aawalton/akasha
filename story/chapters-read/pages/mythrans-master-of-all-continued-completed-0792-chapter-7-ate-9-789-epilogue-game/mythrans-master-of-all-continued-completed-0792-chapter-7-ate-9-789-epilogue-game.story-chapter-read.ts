@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0792Chapter7Ate9789EpilogueGam
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0792-chapter-7-ate-9-789-epilogue-game",
   title: "Chapter 7 Ate 9 (789) - Epilogue (Game)",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 792,
   ownLength: 710,
   unitSlug: "words",

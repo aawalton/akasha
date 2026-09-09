@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0746Chapter745ConfoundedCarava
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0746-chapter-745-confounded-caravan",
   title: "Chapter 745 - Confounded Caravan",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 746,
   ownLength: 3392,
   unitSlug: "words",

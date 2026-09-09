@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0720Chapter719GoingBackHome = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0720-chapter-719-going-back-home",
   title: "Chapter 719 - Going Back Home",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 720,
   ownLength: 3207,
   unitSlug: "words",

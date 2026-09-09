@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0082156IiOrichalcum2669259 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0082-156-ii-orichalcum-2669259",
   title: "156 (II)  Orichalcum",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 82,
   ownLength: 2587,
   unitSlug: "words",

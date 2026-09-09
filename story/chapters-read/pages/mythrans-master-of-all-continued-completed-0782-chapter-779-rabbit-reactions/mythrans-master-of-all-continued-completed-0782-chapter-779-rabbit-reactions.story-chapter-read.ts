@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0782Chapter779RabbitReactions 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0782-chapter-779-rabbit-reactions",
   title: "Chapter 779 - Rabbit Reactions",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 782,
   ownLength: 3375,
   unitSlug: "words",

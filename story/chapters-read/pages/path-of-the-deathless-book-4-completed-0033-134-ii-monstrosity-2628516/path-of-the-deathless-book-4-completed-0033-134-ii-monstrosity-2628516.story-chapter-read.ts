@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0033134IiMonstrosity2628516 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0033-134-ii-monstrosity-2628516",
   title: "134 (II) Monstrosity",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 33,
   ownLength: 2828,
   unitSlug: "words",

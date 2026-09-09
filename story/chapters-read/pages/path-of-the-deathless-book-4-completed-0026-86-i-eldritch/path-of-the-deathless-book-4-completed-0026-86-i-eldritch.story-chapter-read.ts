@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed002686IEldritch = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0026-86-i-eldritch",
   title: "86 (I) Eldritch",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 26,
   ownLength: 0,
   unitSlug: "words",

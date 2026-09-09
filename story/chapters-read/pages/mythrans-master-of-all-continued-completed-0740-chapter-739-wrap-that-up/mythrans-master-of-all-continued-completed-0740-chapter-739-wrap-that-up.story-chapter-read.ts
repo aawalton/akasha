@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0740Chapter739WrapThatUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0740-chapter-739-wrap-that-up",
   title: "Chapter 739 - Wrap That Up",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 740,
   ownLength: 2927,
   unitSlug: "words",

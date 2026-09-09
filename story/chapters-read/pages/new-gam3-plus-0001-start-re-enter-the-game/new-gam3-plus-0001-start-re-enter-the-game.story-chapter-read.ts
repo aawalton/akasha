@@ -5,7 +5,7 @@ export const newGam3Plus0001StartReEnterTheGame = {
   pageTypeSlug: "story-chapter-read",
   slug: "new-gam3-plus-0001-start-re-enter-the-game",
   title: "Start: Re-enter The Game",
-  storySlug: "new-gam3-plus",
+  story: "new-gam3-plus",
   position: 1,
   ownLength: 1806,
   unitSlug: "words",

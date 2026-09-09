@@ -10,7 +10,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0075Book1IsDoneFuturePl
   externalId: "3933672",
   source: "royal-road",
   title: "Book 1 is done! Future plans and changes",
-  storySlug: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
+  story: "story-read/passive-aggressive-reverse-portal-invasion-litrpg",
   ownLength: 255,
   externalLink:
     "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3933672/book-1-is-done-future-plans-and-changes",

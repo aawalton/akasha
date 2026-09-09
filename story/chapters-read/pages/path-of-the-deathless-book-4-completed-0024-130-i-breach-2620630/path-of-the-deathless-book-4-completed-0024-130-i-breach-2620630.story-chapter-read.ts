@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0024130IBreach2620630 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0024-130-i-breach-2620630",
   title: "130 (I) Breach",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 24,
   ownLength: 3038,
   unitSlug: "words",

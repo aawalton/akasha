@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0783Chapter780RabbitPunches = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0783-chapter-780-rabbit-punches",
   title: "Chapter 780 - Rabbit Punches",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 783,
   ownLength: 3177,
   unitSlug: "words",

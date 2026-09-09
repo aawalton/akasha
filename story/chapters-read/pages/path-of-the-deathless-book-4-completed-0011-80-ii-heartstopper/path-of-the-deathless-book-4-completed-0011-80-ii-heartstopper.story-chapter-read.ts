@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed001180IiHeartstopper = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0011-80-ii-heartstopper",
   title: "80 (II) Heartstopper",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 11,
   ownLength: 0,
   unitSlug: "words",

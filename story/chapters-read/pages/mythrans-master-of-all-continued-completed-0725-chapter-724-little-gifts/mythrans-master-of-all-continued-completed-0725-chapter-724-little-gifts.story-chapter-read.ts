@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0725Chapter724LittleGifts = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0725-chapter-724-little-gifts",
   title: "Chapter 724 - Little Gifts",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 725,
   ownLength: 2629,
   unitSlug: "words",

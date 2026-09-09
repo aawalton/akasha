@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0780Chapter777SeparateWays = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0780-chapter-777-separate-ways",
   title: "Chapter 777 - Separate Ways",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 780,
   ownLength: 2900,
   unitSlug: "words",

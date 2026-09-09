@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0028132IRitualIi2623497 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0028-132-i-ritual-ii-2623497",
   title: "132 (I)  Ritual [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 28,
   ownLength: 2666,
   unitSlug: "words",

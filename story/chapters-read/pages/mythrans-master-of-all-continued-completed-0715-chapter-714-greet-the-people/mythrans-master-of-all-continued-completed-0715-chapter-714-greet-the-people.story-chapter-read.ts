@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0715Chapter714GreetThePeople =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0715-chapter-714-greet-the-people",
   title: "Chapter 714 - Greet The People",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 715,
   ownLength: 3082,
   unitSlug: "words",

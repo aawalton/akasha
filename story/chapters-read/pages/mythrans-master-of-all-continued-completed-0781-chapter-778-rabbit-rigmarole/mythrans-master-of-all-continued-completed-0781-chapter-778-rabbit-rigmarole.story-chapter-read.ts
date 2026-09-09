@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0781Chapter778RabbitRigmarole 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0781-chapter-778-rabbit-rigmarole",
   title: "Chapter 778 - Rabbit Rigmarole",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 781,
   ownLength: 3149,
   unitSlug: "words",

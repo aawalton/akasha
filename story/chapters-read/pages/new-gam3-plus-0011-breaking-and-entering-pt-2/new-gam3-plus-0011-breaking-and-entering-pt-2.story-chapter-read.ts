@@ -5,7 +5,7 @@ export const newGam3Plus0011BreakingAndEnteringPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "new-gam3-plus-0011-breaking-and-entering-pt-2",
   title: "Breaking and Entering, Pt. 2",
-  storySlug: "new-gam3-plus",
+  story: "new-gam3-plus",
   position: 11,
   ownLength: 2935,
   unitSlug: "words",

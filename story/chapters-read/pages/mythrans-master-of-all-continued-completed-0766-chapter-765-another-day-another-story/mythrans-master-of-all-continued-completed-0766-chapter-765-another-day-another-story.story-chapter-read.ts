@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0766Chapter765AnotherDayAnothe
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0766-chapter-765-another-day-another-story",
   title: "Chapter 765 - Another Day, Another Story",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 766,
   ownLength: 3356,
   unitSlug: "words",

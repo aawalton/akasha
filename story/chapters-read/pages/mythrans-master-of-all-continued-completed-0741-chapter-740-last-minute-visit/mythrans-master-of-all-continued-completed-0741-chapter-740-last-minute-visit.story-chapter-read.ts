@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0741Chapter740LastMinuteVisit 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0741-chapter-740-last-minute-visit",
   title: "Chapter 740 - Last Minute Visit",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 741,
   ownLength: 3378,
   unitSlug: "words",

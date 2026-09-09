@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0727Chapter726ACoupleMoreMeeti
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0727-chapter-726-a-couple-more-meetings",
   title: "Chapter 726 - A Couple More Meetings",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 727,
   ownLength: 3109,
   unitSlug: "words",

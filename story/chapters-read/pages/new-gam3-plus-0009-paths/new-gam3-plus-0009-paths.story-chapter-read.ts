@@ -5,7 +5,7 @@ export const newGam3Plus0009Paths = {
   pageTypeSlug: "story-chapter-read",
   slug: "new-gam3-plus-0009-paths",
   title: "Paths",
-  storySlug: "new-gam3-plus",
+  story: "new-gam3-plus",
   position: 9,
   ownLength: 2245,
   unitSlug: "words",

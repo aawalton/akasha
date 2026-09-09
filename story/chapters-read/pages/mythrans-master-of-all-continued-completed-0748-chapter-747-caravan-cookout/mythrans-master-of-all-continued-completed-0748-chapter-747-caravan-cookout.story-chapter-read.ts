@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0748Chapter747CaravanCookout =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0748-chapter-747-caravan-cookout",
   title: "Chapter 747 - Caravan Cookout",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 748,
   ownLength: 3696,
   unitSlug: "words",

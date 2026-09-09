@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0789Chapter786DelegateDebriefi
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0789-chapter-786-delegate-debriefing",
   title: "Chapter 786 - Delegate Debriefing",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 789,
   ownLength: 3665,
   unitSlug: "words",

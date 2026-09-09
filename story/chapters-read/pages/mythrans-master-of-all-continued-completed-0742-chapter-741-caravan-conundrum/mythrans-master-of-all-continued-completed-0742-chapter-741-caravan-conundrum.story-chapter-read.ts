@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0742Chapter741CaravanConundrum
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0742-chapter-741-caravan-conundrum",
   title: "Chapter 741 - Caravan Conundrum",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 742,
   ownLength: 3017,
   unitSlug: "words",

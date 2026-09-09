@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0790Chapter787DelegateSensibil
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0790-chapter-787-delegate-sensibilities",
   title: "Chapter 787 - Delegate Sensibilities",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 790,
   ownLength: 3077,
   unitSlug: "words",

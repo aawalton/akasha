@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0062149ITrap2651995 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0062-149-i-trap-2651995",
   title: "149 (I) Trap",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 62,
   ownLength: 3349,
   unitSlug: "words",

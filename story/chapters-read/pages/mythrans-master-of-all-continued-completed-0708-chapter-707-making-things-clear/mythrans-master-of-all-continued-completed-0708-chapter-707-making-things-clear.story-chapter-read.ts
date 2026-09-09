@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0708Chapter707MakingThingsClea
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0708-chapter-707-making-things-clear",
   title: "Chapter 707 - Making Things Clear",
-  storySlug: "mythrans-master-of-all-continued-completed",
+  story: "mythrans-master-of-all-continued-completed",
   position: 708,
   ownLength: 3038,
   unitSlug: "words",
