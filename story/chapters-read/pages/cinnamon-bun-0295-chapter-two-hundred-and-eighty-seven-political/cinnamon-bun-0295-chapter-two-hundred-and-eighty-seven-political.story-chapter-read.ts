@@ -5,7 +5,7 @@ export const cinnamonBun0295ChapterTwoHundredAndEightySevenPolitical = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0295-chapter-two-hundred-and-eighty-seven-political",
   title: "Chapter Two Hundred and Eighty-Seven - Political Ramblings and Rumblings",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 295,
   ownLength: 1957,
   unitSlug: "words",

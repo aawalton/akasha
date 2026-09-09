@@ -5,7 +5,7 @@ export const cinnamonBun0022ChapterTwentyARibbitingMeeting = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0022-chapter-twenty-a-ribbiting-meeting",
   title: "Chapter Twenty - A Ribbiting Meeting",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 22,
   ownLength: 2383,
   unitSlug: "words",

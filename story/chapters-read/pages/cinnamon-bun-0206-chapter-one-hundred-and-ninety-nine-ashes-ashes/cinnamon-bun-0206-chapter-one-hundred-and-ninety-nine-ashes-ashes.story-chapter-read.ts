@@ -5,7 +5,7 @@ export const cinnamonBun0206ChapterOneHundredAndNinetyNineAshesAshes = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0206-chapter-one-hundred-and-ninety-nine-ashes-ashes",
   title: "Chapter One Hundred and Ninety-Nine - Ashes, Ashes, They All Fall Down",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 206,
   ownLength: 1838,
   unitSlug: "words",

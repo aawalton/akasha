@@ -5,7 +5,7 @@ export const cinnamonBun0084ChapterEightyOneInCaseOfPuzzleBreakGlass = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0084-chapter-eighty-one-in-case-of-puzzle-break-glass",
   title: "Chapter Eighty-One - In Case of Puzzle, Break Glass",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 84,
   ownLength: 1886,
   unitSlug: "words",

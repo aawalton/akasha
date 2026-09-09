@@ -5,7 +5,7 @@ export const cinnamonBun0189ChapterOneHundredAndEightyTwoShoppingWith = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0189-chapter-one-hundred-and-eighty-two-shopping-with",
   title: "Chapter One Hundred and Eighty-Two - Shopping With the Fishes",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 189,
   ownLength: 2032,
   unitSlug: "words",

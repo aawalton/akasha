@@ -5,7 +5,7 @@ export const cinnamonBun0164ChapterOneHundredAndFiftyEightSmoothSailing = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0164-chapter-one-hundred-and-fifty-eight-smooth-sailing",
   title: "Chapter One Hundred and Fifty-Eight - Smooth Sailing",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 164,
   ownLength: 1877,
   unitSlug: "words",

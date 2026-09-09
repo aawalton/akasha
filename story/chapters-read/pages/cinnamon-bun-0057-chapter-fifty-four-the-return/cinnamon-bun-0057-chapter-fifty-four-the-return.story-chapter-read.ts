@@ -5,7 +5,7 @@ export const cinnamonBun0057ChapterFiftyFourTheReturn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0057-chapter-fifty-four-the-return",
   title: "Chapter Fifty-Four - The Return",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 57,
   ownLength: 2003,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0214ChapterTwoHundredAndSixHomeAgainHomeAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0214-chapter-two-hundred-and-six-home-again-home-again",
   title: "Chapter Two Hundred and Six - Home Again, Home Again",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 214,
   ownLength: 2026,
   unitSlug: "words",

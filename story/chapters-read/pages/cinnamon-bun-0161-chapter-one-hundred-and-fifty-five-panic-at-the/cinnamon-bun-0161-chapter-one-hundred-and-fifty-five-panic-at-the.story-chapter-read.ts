@@ -5,7 +5,7 @@ export const cinnamonBun0161ChapterOneHundredAndFiftyFivePanicAtThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0161-chapter-one-hundred-and-fifty-five-panic-at-the",
   title: "Chapter One Hundred and Fifty-Five - Panic at the Ball",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 161,
   ownLength: 1937,
   unitSlug: "words",

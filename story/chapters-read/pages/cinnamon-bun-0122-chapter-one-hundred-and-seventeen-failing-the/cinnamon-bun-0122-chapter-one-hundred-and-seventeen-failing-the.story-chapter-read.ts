@@ -5,7 +5,7 @@ export const cinnamonBun0122ChapterOneHundredAndSeventeenFailingThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0122-chapter-one-hundred-and-seventeen-failing-the",
   title: "Chapter One Hundred and Seventeen - Failing The Bechdel Test, but With Dragons",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 122,
   ownLength: 2084,
   unitSlug: "words",

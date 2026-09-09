@@ -5,7 +5,7 @@ export const cinnamonBun0123ChapterOneHundredAndEighteenBreakingFast = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0123-chapter-one-hundred-and-eighteen-breaking-fast",
   title: "Chapter One Hundred and Eighteen - Breaking Fast",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 123,
   ownLength: 2011,
   unitSlug: "words",

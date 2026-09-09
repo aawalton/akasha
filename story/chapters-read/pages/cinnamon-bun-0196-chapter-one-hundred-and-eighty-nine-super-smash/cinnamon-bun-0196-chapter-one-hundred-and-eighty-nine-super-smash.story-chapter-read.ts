@@ -5,7 +5,7 @@ export const cinnamonBun0196ChapterOneHundredAndEightyNineSuperSmash = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0196-chapter-one-hundred-and-eighty-nine-super-smash",
   title: "Chapter One Hundred and Eighty-Nine - Super Smash Bunnies Melee",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 196,
   ownLength: 2070,
   unitSlug: "words",

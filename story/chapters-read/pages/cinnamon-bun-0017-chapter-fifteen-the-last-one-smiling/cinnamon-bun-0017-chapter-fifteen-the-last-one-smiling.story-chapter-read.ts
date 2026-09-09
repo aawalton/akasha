@@ -5,7 +5,7 @@ export const cinnamonBun0017ChapterFifteenTheLastOneSmiling = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0017-chapter-fifteen-the-last-one-smiling",
   title: "Chapter Fifteen - The Last One Smiling",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 17,
   ownLength: 2098,
   unitSlug: "words",

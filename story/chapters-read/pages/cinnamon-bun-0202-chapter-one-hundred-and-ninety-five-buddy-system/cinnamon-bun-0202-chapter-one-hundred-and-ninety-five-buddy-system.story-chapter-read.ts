@@ -5,7 +5,7 @@ export const cinnamonBun0202ChapterOneHundredAndNinetyFiveBuddySystem = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0202-chapter-one-hundred-and-ninety-five-buddy-system",
   title: "Chapter One Hundred and Ninety-Five - Buddy System",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 202,
   ownLength: 1959,
   unitSlug: "words",

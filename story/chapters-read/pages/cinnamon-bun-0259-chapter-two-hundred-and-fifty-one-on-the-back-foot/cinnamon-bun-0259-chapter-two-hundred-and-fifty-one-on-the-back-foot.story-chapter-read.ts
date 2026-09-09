@@ -5,7 +5,7 @@ export const cinnamonBun0259ChapterTwoHundredAndFiftyOneOnTheBackFoot = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0259-chapter-two-hundred-and-fifty-one-on-the-back-foot",
   title: "Chapter Two Hundred and Fifty-One - On the Back Foot",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 259,
   ownLength: 1933,
   unitSlug: "words",

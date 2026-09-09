@@ -5,7 +5,7 @@ export const cinnamonBun0289ChapterTwoHundredAndEightyOneHowToWin = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0289-chapter-two-hundred-and-eighty-one-how-to-win",
   title: "Chapter Two Hundred and Eighty-One - How to Win Friends and Influence People",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 289,
   ownLength: 2064,
   unitSlug: "words",

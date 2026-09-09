@@ -5,7 +5,7 @@ export const cinnamonBun0124ChapterOneHundredAndNineteenMorepoles = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0124-chapter-one-hundred-and-nineteen-morepoles",
   title: "Chapter One Hundred and Nineteen - Morepoles",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 124,
   ownLength: 1956,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0089ChapterEightySixBroccoliOnIce = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0089-chapter-eighty-six-broccoli-on-ice",
   title: "Chapter Eighty-Six - Broccoli On Ice",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 89,
   ownLength: 1979,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0260ChapterTwoHundredAndFiftyTwoMoveFastAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0260-chapter-two-hundred-and-fifty-two-move-fast-and",
   title: "Chapter Two Hundred and Fifty-Two - Move Fast and Break Things",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 260,
   ownLength: 1943,
   unitSlug: "words",

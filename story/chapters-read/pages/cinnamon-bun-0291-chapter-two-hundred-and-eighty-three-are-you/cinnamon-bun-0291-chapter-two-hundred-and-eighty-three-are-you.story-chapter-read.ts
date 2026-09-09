@@ -5,7 +5,7 @@ export const cinnamonBun0291ChapterTwoHundredAndEightyThreeAreYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0291-chapter-two-hundred-and-eighty-three-are-you",
   title: "Chapter Two Hundred and Eighty-Three - Are You Trying to Get Arrested",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 291,
   ownLength: 2130,
   unitSlug: "words",

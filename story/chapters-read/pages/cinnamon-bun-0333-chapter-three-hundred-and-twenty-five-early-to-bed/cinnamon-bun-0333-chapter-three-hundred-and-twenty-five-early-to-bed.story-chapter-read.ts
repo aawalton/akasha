@@ -5,7 +5,7 @@ export const cinnamonBun0333ChapterThreeHundredAndTwentyFiveEarlyToBed = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0333-chapter-three-hundred-and-twenty-five-early-to-bed",
   title: "Chapter Three Hundred and Twenty-Five - Early to Bed and Early to Rise",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 333,
   ownLength: 1960,
   unitSlug: "words",

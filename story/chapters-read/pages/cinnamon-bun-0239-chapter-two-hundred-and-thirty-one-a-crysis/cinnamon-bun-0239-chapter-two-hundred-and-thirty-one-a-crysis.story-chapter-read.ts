@@ -5,7 +5,7 @@ export const cinnamonBun0239ChapterTwoHundredAndThirtyOneACrysis = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0239-chapter-two-hundred-and-thirty-one-a-crysis",
   title: "Chapter Two Hundred and Thirty-One - A Crysis",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 239,
   ownLength: 1959,
   unitSlug: "words",

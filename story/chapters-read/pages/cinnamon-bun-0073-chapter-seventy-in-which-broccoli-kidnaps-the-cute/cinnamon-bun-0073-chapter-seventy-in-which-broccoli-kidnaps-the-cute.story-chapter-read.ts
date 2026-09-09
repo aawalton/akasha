@@ -5,7 +5,7 @@ export const cinnamonBun0073ChapterSeventyInWhichBroccoliKidnapsTheCute = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0073-chapter-seventy-in-which-broccoli-kidnaps-the-cute",
   title: "Chapter Seventy - In Which Broccoli Kidnaps the Cute",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 73,
   ownLength: 1940,
   unitSlug: "words",

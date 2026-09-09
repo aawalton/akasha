@@ -5,7 +5,7 @@ export const cinnamonBun0054ChapterFiftyOneFetchingHelp = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0054-chapter-fifty-one-fetching-help",
   title: "Chapter Fifty-One - Fetching Help",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 54,
   ownLength: 1971,
   unitSlug: "words",

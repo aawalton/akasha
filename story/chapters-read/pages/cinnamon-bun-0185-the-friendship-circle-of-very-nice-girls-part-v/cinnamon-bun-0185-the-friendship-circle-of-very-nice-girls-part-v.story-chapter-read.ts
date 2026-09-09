@@ -5,7 +5,7 @@ export const cinnamonBun0185TheFriendshipCircleOfVeryNiceGirlsPartV = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0185-the-friendship-circle-of-very-nice-girls-part-v",
   title: "The Friendship Circle of Very Nice Girls - Part V",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 185,
   ownLength: 1697,
   unitSlug: "words",

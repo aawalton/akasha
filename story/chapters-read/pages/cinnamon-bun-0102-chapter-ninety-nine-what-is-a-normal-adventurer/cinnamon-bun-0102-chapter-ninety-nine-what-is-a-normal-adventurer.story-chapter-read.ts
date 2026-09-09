@@ -5,7 +5,7 @@ export const cinnamonBun0102ChapterNinetyNineWhatIsANormalAdventurer = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0102-chapter-ninety-nine-what-is-a-normal-adventurer",
   title: "Chapter Ninety-Nine - What is a Normal Adventurer?",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 102,
   ownLength: 1962,
   unitSlug: "words",

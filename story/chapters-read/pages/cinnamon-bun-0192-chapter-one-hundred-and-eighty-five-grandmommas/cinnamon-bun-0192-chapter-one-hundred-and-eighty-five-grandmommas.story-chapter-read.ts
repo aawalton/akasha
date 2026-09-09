@@ -5,7 +5,7 @@ export const cinnamonBun0192ChapterOneHundredAndEightyFiveGrandmommas = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0192-chapter-one-hundred-and-eighty-five-grandmommas",
   title: "Chapter One Hundred and Eighty-Five - Grandmomma's Hug",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 192,
   ownLength: 1985,
   unitSlug: "words",

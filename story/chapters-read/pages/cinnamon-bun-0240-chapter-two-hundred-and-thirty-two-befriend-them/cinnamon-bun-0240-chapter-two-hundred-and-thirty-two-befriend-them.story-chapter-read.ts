@@ -5,7 +5,7 @@ export const cinnamonBun0240ChapterTwoHundredAndThirtyTwoBefriendThem = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0240-chapter-two-hundred-and-thirty-two-befriend-them",
   title: "Chapter Two Hundred and Thirty-Two - Befriend Them with Lasers",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 240,
   ownLength: 2080,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0075ChapterSeventyTwoTheAdventurerLook = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0075-chapter-seventy-two-the-adventurer-look",
   title: "Chapter Seventy-Two - The Adventurer Look",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 75,
   ownLength: 1949,
   unitSlug: "words",

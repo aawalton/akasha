@@ -5,7 +5,7 @@ export const cinnamonBun0162ChapterOneHundredAndFiftySixPlotting = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0162-chapter-one-hundred-and-fifty-six-plotting",
   title: "Chapter One Hundred and Fifty-Six - Plotting",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 162,
   ownLength: 1901,
   unitSlug: "words",

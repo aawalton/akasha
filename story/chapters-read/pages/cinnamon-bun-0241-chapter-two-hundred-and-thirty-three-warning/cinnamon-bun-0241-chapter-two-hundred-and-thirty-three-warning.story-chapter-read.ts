@@ -5,7 +5,7 @@ export const cinnamonBun0241ChapterTwoHundredAndThirtyThreeWarning = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0241-chapter-two-hundred-and-thirty-three-warning",
   title: "Chapter Two Hundred and Thirty-Three - Warning: Rocket Launch Detected",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 241,
   ownLength: 1941,
   unitSlug: "words",

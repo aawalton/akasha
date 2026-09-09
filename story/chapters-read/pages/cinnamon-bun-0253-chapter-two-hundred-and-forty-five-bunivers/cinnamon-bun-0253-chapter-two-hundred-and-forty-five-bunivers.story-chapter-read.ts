@@ -5,7 +5,7 @@ export const cinnamonBun0253ChapterTwoHundredAndFortyFiveBunivers = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0253-chapter-two-hundred-and-forty-five-bunivers",
   title: "Chapter Two Hundred and Forty-Five - Buniver's Travels",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 253,
   ownLength: 1971,
   unitSlug: "words",

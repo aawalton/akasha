@@ -5,7 +5,7 @@ export const cinnamonBun0194ChapterOneHundredAndEightySevenCuterThanA = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0194-chapter-one-hundred-and-eighty-seven-cuter-than-a",
   title: "Chapter One Hundred and Eighty-Seven - Cuter Than a Bun's Ear",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 194,
   ownLength: 1964,
   unitSlug: "words",

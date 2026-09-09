@@ -5,7 +5,7 @@ export const cinnamonBun0016ChapterFourteenAVeryHighCinnamonBun = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0016-chapter-fourteen-a-very-high-cinnamon-bun",
   title: "Chapter Fourteen - A Very High Cinnamon Bun",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 16,
   ownLength: 2340,
   unitSlug: "words",

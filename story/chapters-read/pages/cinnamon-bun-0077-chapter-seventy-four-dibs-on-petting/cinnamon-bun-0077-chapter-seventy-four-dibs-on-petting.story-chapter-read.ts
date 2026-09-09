@@ -5,7 +5,7 @@ export const cinnamonBun0077ChapterSeventyFourDibsOnPetting = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0077-chapter-seventy-four-dibs-on-petting",
   title: "Chapter Seventy-Four - Dibs on Petting",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 77,
   ownLength: 2001,
   unitSlug: "words",

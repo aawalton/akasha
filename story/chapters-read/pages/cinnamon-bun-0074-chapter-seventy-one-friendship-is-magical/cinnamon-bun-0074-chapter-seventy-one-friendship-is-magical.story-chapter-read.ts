@@ -5,7 +5,7 @@ export const cinnamonBun0074ChapterSeventyOneFriendshipIsMagical = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0074-chapter-seventy-one-friendship-is-magical",
   title: "Chapter Seventy-One - Friendship is Magical",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 74,
   ownLength: 1937,
   unitSlug: "words",

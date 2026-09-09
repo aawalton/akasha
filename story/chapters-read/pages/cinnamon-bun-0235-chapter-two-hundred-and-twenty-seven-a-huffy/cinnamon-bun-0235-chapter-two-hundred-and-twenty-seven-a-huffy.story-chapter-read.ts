@@ -5,7 +5,7 @@ export const cinnamonBun0235ChapterTwoHundredAndTwentySevenAHuffy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0235-chapter-two-hundred-and-twenty-seven-a-huffy",
   title: "Chapter Two Hundred and Twenty-Seven - A Huffy Afternoon",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 235,
   ownLength: 1925,
   unitSlug: "words",

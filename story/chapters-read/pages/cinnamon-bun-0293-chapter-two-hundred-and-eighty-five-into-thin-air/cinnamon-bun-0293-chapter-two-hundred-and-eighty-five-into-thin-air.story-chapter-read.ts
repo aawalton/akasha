@@ -5,7 +5,7 @@ export const cinnamonBun0293ChapterTwoHundredAndEightyFiveIntoThinAir = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0293-chapter-two-hundred-and-eighty-five-into-thin-air",
   title: "Chapter Two Hundred and Eighty-Five - Into Thin Air",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 293,
   ownLength: 2058,
   unitSlug: "words",

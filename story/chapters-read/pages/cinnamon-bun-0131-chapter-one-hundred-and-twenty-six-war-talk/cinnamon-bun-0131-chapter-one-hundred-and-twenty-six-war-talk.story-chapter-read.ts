@@ -5,7 +5,7 @@ export const cinnamonBun0131ChapterOneHundredAndTwentySixWarTalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0131-chapter-one-hundred-and-twenty-six-war-talk",
   title: "Chapter One Hundred and Twenty-Six - War Talk",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 131,
   ownLength: 1948,
   unitSlug: "words",

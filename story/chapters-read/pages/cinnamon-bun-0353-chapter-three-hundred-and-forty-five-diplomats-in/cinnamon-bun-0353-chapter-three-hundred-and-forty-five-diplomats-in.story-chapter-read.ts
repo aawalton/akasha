@@ -5,7 +5,7 @@ export const cinnamonBun0353ChapterThreeHundredAndFortyFiveDiplomatsIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0353-chapter-three-hundred-and-forty-five-diplomats-in",
   title: "Chapter Three Hundred and Forty-Five - Diplomats in Distress",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 353,
   ownLength: 2037,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0272ChapterTwoHundredAndSixtyFourGameOfGroans = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0272-chapter-two-hundred-and-sixty-four-game-of-groans",
   title: "Chapter Two Hundred and Sixty-Four - Game of Groans",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 272,
   ownLength: 1989,
   unitSlug: "words",

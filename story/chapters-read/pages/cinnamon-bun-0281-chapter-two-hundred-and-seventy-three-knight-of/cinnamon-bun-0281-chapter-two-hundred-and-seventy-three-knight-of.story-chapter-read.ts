@@ -5,7 +5,7 @@ export const cinnamonBun0281ChapterTwoHundredAndSeventyThreeKnightOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0281-chapter-two-hundred-and-seventy-three-knight-of",
   title: "Chapter Two Hundred and Seventy-Three - Knight of the Feather Duster",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 281,
   ownLength: 1995,
   unitSlug: "words",

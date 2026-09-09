@@ -5,7 +5,7 @@ export const cinnamonBun0339ChapterThreeHundredAndThirtyOneFortune = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0339-chapter-three-hundred-and-thirty-one-fortune",
   title: "Chapter Three Hundred and Thirty-One - Fortune Seeker",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 339,
   ownLength: 1955,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0358ChapterThreeHundredAndFiftyTheAmazing = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0358-chapter-three-hundred-and-fifty-the-amazing",
   title: "Chapter Three Hundred and Fifty - The Amazing Spidermom",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 358,
   ownLength: 1966,
   unitSlug: "words",

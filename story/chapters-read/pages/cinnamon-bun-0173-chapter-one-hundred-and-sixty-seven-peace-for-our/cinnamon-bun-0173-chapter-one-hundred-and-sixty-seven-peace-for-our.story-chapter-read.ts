@@ -5,7 +5,7 @@ export const cinnamonBun0173ChapterOneHundredAndSixtySevenPeaceForOur = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0173-chapter-one-hundred-and-sixty-seven-peace-for-our",
   title: "Chapter One Hundred and Sixty-Seven - Peace For Our Time",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 173,
   ownLength: 1966,
   unitSlug: "words",

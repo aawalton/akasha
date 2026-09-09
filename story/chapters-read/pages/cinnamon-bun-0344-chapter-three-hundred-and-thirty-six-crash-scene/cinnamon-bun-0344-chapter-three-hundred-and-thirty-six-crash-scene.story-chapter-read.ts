@@ -5,7 +5,7 @@ export const cinnamonBun0344ChapterThreeHundredAndThirtySixCrashScene = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0344-chapter-three-hundred-and-thirty-six-crash-scene",
   title: "Chapter Three Hundred and Thirty-Six - Crash Scene Investigators",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 344,
   ownLength: 2124,
   unitSlug: "words",

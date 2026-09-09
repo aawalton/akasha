@@ -5,7 +5,7 @@ export const cinnamonBun0029ChapterTwentySevenPlantingTheSeedsOfAQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0029-chapter-twenty-seven-planting-the-seeds-of-a-quest",
   title: "Chapter Twenty-Seven - Planting the Seeds of a Quest",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 29,
   ownLength: 1959,
   unitSlug: "words",

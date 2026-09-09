@@ -5,7 +5,7 @@ export const cinnamonBun0213ChapterTwoHundredAndFiveVictorySleep = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0213-chapter-two-hundred-and-five-victory-sleep",
   title: "Chapter Two Hundred and Five - Victory Sleep",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 213,
   ownLength: 1356,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0306ChapterTwoHundredAndNinetyEightFreeAction = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0306-chapter-two-hundred-and-ninety-eight-free-action",
   title: "Chapter Two Hundred and Ninety-Eight - Free Action",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 306,
   ownLength: 1943,
   unitSlug: "words",

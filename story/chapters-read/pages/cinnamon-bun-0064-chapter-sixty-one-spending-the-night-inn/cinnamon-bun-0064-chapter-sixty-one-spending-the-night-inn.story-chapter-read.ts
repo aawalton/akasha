@@ -5,7 +5,7 @@ export const cinnamonBun0064ChapterSixtyOneSpendingTheNightInn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0064-chapter-sixty-one-spending-the-night-inn",
   title: "Chapter Sixty-One - Spending the Night Inn",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 64,
   ownLength: 2168,
   unitSlug: "words",

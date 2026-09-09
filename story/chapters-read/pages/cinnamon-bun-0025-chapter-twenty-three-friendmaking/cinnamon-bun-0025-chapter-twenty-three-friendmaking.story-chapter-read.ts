@@ -5,7 +5,7 @@ export const cinnamonBun0025ChapterTwentyThreeFriendmaking = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0025-chapter-twenty-three-friendmaking",
   title: "Chapter Twenty-Three - Friendmaking",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 25,
   ownLength: 2004,
   unitSlug: "words",

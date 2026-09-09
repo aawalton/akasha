@@ -5,7 +5,7 @@ export const cinnamonBun0070ChapterSixtySevenFairness = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0070-chapter-sixty-seven-fairness",
   title: "Chapter Sixty-Seven - Fairness",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 70,
   ownLength: 2054,
   unitSlug: "words",

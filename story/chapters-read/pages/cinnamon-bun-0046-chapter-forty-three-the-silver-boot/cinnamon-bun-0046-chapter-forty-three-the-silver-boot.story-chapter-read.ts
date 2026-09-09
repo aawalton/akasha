@@ -5,7 +5,7 @@ export const cinnamonBun0046ChapterFortyThreeTheSilverBoot = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0046-chapter-forty-three-the-silver-boot",
   title: "Chapter Forty-Three - The Silver Boot",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 46,
   ownLength: 2019,
   unitSlug: "words",

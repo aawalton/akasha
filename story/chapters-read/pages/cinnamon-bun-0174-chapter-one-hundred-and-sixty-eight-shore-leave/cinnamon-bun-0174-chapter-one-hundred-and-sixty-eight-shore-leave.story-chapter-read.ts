@@ -5,7 +5,7 @@ export const cinnamonBun0174ChapterOneHundredAndSixtyEightShoreLeave = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0174-chapter-one-hundred-and-sixty-eight-shore-leave",
   title: "Chapter One Hundred and Sixty-Eight - Shore Leave",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 174,
   ownLength: 1967,
   unitSlug: "words",

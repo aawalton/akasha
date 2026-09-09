@@ -5,7 +5,7 @@ export const cinnamonBun0278ChapterTwoHundredAndSeventyOkayAuthoritarian = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0278-chapter-two-hundred-and-seventy-okay-authoritarian",
   title: "Chapter Two Hundred and Seventy - Okay-Authoritarian",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 278,
   ownLength: 1949,
   unitSlug: "words",

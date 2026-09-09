@@ -5,7 +5,7 @@ export const cinnamonBun0288ChapterTwoHundredAndEightyJailbirds = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0288-chapter-two-hundred-and-eighty-jailbirds",
   title: "Chapter Two Hundred and Eighty - Jailbirds",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 288,
   ownLength: 1923,
   unitSlug: "words",

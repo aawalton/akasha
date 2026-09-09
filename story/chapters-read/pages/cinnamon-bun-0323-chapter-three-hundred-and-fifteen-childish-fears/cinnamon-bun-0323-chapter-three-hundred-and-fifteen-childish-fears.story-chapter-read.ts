@@ -5,7 +5,7 @@ export const cinnamonBun0323ChapterThreeHundredAndFifteenChildishFears = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0323-chapter-three-hundred-and-fifteen-childish-fears",
   title: "Chapter Three Hundred and Fifteen - Childish Fears Grow Up to become Adult Fears",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 323,
   ownLength: 2075,
   unitSlug: "words",

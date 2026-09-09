@@ -5,7 +5,7 @@ export const cinnamonBun0018ChapterSixteenReadyCheck = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0018-chapter-sixteen-ready-check",
   title: "Chapter Sixteen - Ready Check",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 18,
   ownLength: 2074,
   unitSlug: "words",

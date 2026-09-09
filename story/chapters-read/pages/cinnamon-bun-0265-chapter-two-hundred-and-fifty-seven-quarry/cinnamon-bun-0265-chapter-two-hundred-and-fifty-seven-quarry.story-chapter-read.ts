@@ -5,7 +5,7 @@ export const cinnamonBun0265ChapterTwoHundredAndFiftySevenQuarry = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0265-chapter-two-hundred-and-fifty-seven-quarry",
   title: "Chapter Two Hundred and Fifty-Seven - Quarry",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 265,
   ownLength: 2060,
   unitSlug: "words",

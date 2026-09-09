@@ -5,7 +5,7 @@ export const cinnamonBun0348ChapterThreeHundredAndFortyRedemptionArc = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0348-chapter-three-hundred-and-forty-redemption-arc",
   title: "Chapter Three Hundred and Forty - Redemption Arc",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 348,
   ownLength: 2001,
   unitSlug: "words",

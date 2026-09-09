@@ -5,7 +5,7 @@ export const cinnamonBun0166ChapterOneHundredAndSixtyYoureGroundedYoung = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0166-chapter-one-hundred-and-sixty-youre-grounded-young",
   title: "Chapter One Hundred and Sixty - You're Grounded, Young Lady",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 166,
   ownLength: 1935,
   unitSlug: "words",

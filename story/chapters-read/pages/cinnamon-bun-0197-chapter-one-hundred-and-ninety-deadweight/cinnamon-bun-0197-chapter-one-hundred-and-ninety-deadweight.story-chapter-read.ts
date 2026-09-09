@@ -5,7 +5,7 @@ export const cinnamonBun0197ChapterOneHundredAndNinetyDeadweight = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0197-chapter-one-hundred-and-ninety-deadweight",
   title: "Chapter One Hundred and Ninety - Deadweight",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 197,
   ownLength: 2047,
   unitSlug: "words",

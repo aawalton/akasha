@@ -5,7 +5,7 @@ export const cinnamonBun0114ChapterOneHundredAndNineCivility = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0114-chapter-one-hundred-and-nine-civility",
   title: "Chapter One Hundred and Nine - Civility",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 114,
   ownLength: 1990,
   unitSlug: "words",

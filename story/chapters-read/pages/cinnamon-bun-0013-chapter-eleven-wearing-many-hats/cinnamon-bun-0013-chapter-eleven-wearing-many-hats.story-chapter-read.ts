@@ -5,7 +5,7 @@ export const cinnamonBun0013ChapterElevenWearingManyHats = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0013-chapter-eleven-wearing-many-hats",
   title: "Chapter Eleven - Wearing Many Hats",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 13,
   ownLength: 2088,
   unitSlug: "words",

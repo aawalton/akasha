@@ -5,7 +5,7 @@ export const cinnamonBun0356ChapterThreeHundredAndFortyEightOntoThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0356-chapter-three-hundred-and-forty-eight-onto-the",
   title: "Chapter Three Hundred and Forty-Eight - Onto the River and Through the Woods",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 356,
   ownLength: 2107,
   unitSlug: "words",

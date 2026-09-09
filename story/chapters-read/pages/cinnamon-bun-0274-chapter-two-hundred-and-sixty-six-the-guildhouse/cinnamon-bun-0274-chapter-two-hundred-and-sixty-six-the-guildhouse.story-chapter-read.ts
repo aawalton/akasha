@@ -5,7 +5,7 @@ export const cinnamonBun0274ChapterTwoHundredAndSixtySixTheGuildhouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0274-chapter-two-hundred-and-sixty-six-the-guildhouse",
   title: "Chapter Two Hundred and Sixty-Six - The Guildhouse",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 274,
   ownLength: 1936,
   unitSlug: "words",

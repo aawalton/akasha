@@ -5,7 +5,7 @@ export const cinnamonBun0051ChapterFortyEightAGoodBoy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0051-chapter-forty-eight-a-good-boy",
   title: "Chapter Forty-Eight - A Good Boy",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 51,
   ownLength: 1974,
   unitSlug: "words",

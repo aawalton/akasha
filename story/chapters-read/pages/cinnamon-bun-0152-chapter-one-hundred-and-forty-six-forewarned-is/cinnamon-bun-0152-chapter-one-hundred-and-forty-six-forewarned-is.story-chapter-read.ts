@@ -5,7 +5,7 @@ export const cinnamonBun0152ChapterOneHundredAndFortySixForewarnedIs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0152-chapter-one-hundred-and-forty-six-forewarned-is",
   title: "Chapter One Hundred and Forty-Six - Forewarned is Foreworn",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 152,
   ownLength: 2026,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0011ChapterNineDungeonDive = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0011-chapter-nine-dungeon-dive",
   title: "Chapter Nine - Dungeon Dive",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 11,
   ownLength: 2049,
   unitSlug: "words",

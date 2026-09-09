@@ -5,7 +5,7 @@ export const cinnamonBun0041ChapterThirtyEightPortRoyal = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0041-chapter-thirty-eight-port-royal",
   title: "Chapter Thirty-Eight - Port Royal",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 41,
   ownLength: 2105,
   unitSlug: "words",

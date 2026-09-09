@@ -5,7 +5,7 @@ export const cinnamonBun0229ChapterTwoHundredAndTwentyOneTheDreadCute = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0229-chapter-two-hundred-and-twenty-one-the-dread-cute",
   title: "Chapter Two Hundred and Twenty-One - The Dread Cute-ulu",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 229,
   ownLength: 1989,
   unitSlug: "words",

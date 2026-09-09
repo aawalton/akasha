@@ -5,7 +5,7 @@ export const cinnamonBun0245ChapterTwoHundredAndThirtySevenPeopleCome = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0245-chapter-two-hundred-and-thirty-seven-people-come",
   title: "Chapter Two Hundred and Thirty-Seven - People Come Here to Be Forgotten",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 245,
   ownLength: 1945,
   unitSlug: "words",

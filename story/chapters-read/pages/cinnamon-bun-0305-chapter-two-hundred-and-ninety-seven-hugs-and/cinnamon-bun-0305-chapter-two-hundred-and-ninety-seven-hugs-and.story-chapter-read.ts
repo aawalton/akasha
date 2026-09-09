@@ -5,7 +5,7 @@ export const cinnamonBun0305ChapterTwoHundredAndNinetySevenHugsAnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0305-chapter-two-hundred-and-ninety-seven-hugs-and",
   title: "Chapter Two Hundred and Ninety-Seven - Hugs and Wishes",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 305,
   ownLength: 1953,
   unitSlug: "words",
