@@ -77,6 +77,7 @@ export const command = {
     "module/play-row",
     "module/change-costing",
     "module/apply-running",
+    "module/change-arguing",
     "module/committing",
     "module/commit-reading",
     "module/file-arguing",

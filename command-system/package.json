@@ -10,7 +10,6 @@
     "./applying": "./applying/applying.module.code.ts",
     "./argument-reading": "./argument-reading/argument-reading.module.code.ts",
     "./change-acting": "./change-acting/change-acting.module.code.ts",
-    "./change-arguing": "./change-arguing/change-arguing.module.code.ts",
     "./change-running": "./change-running/change-running.module.code.ts",
     "./gate-building": "./gate-building/gate-building.module.code.ts",
     "./seat-act-calling": "./seat-act-calling/seat-act-calling.module.code.ts",

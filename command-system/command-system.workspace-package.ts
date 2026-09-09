@@ -33,7 +33,6 @@ export const commandSystem = {
     "module/said-pathing",
     "module/change-acting",
     "module/edits-landing",
-    "module/change-arguing",
     "module/change-running",
     "module/path-moving",
     "performance/landing-throughput",
