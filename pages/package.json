@@ -20,6 +20,7 @@
     "./email-address-property": "./email-address-properties/email-address-property.page-type.ts",
     "./entry-ceiling": "./entry-ceiling/entry-ceiling.module.code.ts",
     "./file-property": "./file-properties/file-property.page-type.ts",
+    "./file-property-group": "./file-property-groups/file-property-group.page-type.ts",
     "./generator-kind": "./generator-kinds/generator-kind.page-type.ts",
     "./generator-kind/uuid-v7": "./generator-kinds/pages/uuid-v7.generator-kind.ts",
     "./index-reading": "./indexes/reading/index-reading.module.code.ts",
