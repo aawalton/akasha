@@ -4,10 +4,16 @@ import { join } from "node:path"
 import type { Judging } from "@akasha/checks/judging"
 import { said as git } from "@akasha/git/git-running"
 import { until } from "@akasha/testing-system/waiting"
-import { landing } from "../landing/landing.module.code.ts"
-import { A, ADMITS, bytes, MODULE_AT, TYPE } from "../landing/landing.module.test-fixtures.ts"
-import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
+import { landing } from "../../../command-system/landing/landing.module.code.ts"
+import {
+  A,
+  ADMITS,
+  bytes,
+  MODULE_AT,
+  TYPE,
+} from "../../../command-system/landing/landing.module.test-fixtures.ts"
+import { blobIdOf, type Reading } from "../../../command-system/reading/reading.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { commitNamed, movedOnDisk, reachedSince, unfresh } from "./change-freshness.module.code.ts"
 
 const scratch = scratchWorld()

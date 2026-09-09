@@ -71,6 +71,7 @@ export const command = {
     "module/orphaning",
     "module/holding",
     "module/body-merging",
+    "module/change-freshness",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",
