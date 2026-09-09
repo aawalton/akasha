@@ -25,7 +25,7 @@ export const akashaFolderShape = {
     {
       statement: "A check determines whether a folder should be a workspace package.",
       workingMemory:
-        "`manifest` alone makes the package: `workspace-package` extends `domain` and adds it, and the root names `workspaces` as a pattern. `unnamedIn` waives any reach whose name some manifest states, so `manifest-names-what-is-reached` never guarded a cross-package workspace import. 3525 of the 10958 files spelling an `@akasha/` import sit under no manifest, where `ownerOf` answers null and nothing judges them. The check worth having refuses a specifier no manifest states.\n",
+        "`manifest` alone makes the package: `workspace-package` extends `domain` and adds it, and the root names `workspaces` as a pattern. `unnamedIn` waives any reach whose name some manifest states, so `manifest-names-what-is-reached` guards no cross-package workspace import. 3525 of 10958 files spelling an `@akasha/` import sit under no manifest and nothing judges them. `specifier-names-a-package` is built and clean, held off every phase until Alan approves it.\n",
     },
     {
       statement: "No relation value lands that akasha cannot key to one page.",
