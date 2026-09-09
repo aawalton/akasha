@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theWanderingInn0231445 = {
   id: "01a06599-75ea-7315-8c1b-8c9cbef440ec",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-wandering-inn-0231-4-45",
   title: "4.45",
   story: "story-read/the-wandering-inn",

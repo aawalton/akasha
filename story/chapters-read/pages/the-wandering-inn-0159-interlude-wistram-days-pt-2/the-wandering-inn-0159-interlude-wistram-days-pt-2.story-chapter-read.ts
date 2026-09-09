@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theWanderingInn0159InterludeWistramDaysPt2 = {
   id: "01a0659a-1765-72c4-a772-00aed273bed6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-wandering-inn-0159-interlude-wistram-days-pt-2",
   title: "Interlude - Wistram Days (Pt. 2)",
   story: "story-read/the-wandering-inn",

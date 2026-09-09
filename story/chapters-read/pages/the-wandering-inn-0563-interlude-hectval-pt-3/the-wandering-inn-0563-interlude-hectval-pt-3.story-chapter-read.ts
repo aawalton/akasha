@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theWanderingInn0563InterludeHectvalPt3 = {
   id: "01a0659d-36ef-747a-8080-013bb17f8056",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-wandering-inn-0563-interlude-hectval-pt-3",
   title: "Interlude – Hectval (Pt. 3)",
   story: "story-read/the-wandering-inn",
