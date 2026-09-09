@@ -1,8 +1,8 @@
 import { readFileSync } from "node:fs"
 import type { InputError, UnknownFlag } from "@akasha/errors-core/exit-code"
 import { inputError } from "@akasha/errors-core/exit-code"
-import { suggestClosest } from "@akasha/temper-build-deploy-checks/suggest-closest"
 import { expandTilde } from "@akasha/utils/fs/expand-tilde"
+import { suggestClosest } from "../../../temper/build-deploy-checks/suggest-closest/suggest-closest.module.code.ts"
 import type { CommandHelp, HelpFlag } from "../declaring/command-declaring.module.code.ts"
 import {
   expandProseRoutes,

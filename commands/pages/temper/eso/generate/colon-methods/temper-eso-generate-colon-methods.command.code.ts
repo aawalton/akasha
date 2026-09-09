@@ -3,13 +3,13 @@ import { resolve } from "node:path"
 import type { SeriesSpec } from "@akasha/code/name-series"
 import { byteLength, renderSeries, stageSeries } from "@akasha/code/name-series"
 import { codeRoot } from "@akasha/pages/code-root"
-import { esoDocPathForLuaRoot } from "@akasha/temper-build-deploy-checks/eso-doc-api-version"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
 } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
+import { esoDocPathForLuaRoot } from "../../../../../../temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import { extractColonMethodNames } from "../../../../../../temper/temper-commands/eso-colon-methods/eso-colon-methods.module.code.ts"
 import {
   saidFor,
@@ -29,7 +29,7 @@ const CODE_ROOT_FLAG = "--code-root"
 
 const STAGE_FLAG = "--stage"
 
-const GENERATED_DIR_REL = "temper/temper-build-deploy-checks/generated"
+const GENERATED_DIR_REL = "temper/build-deploy-checks/generated"
 
 const STEM = "eso-colon-methods"
 

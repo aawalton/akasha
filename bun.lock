@@ -949,6 +949,15 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
+    "temper/build-deploy-checks": {
+      "name": "@akasha/temper-build-deploy-checks",
+      "dependencies": {
+        "@akasha/temper-addons-resolve": "workspace:*",
+        "@akasha/utils": "workspace:*",
+        "typescript": "^5.8.3",
+        "zod": "^4.3.6",
+      },
+    },
     "temper/capture-datamining-addon": {
       "name": "@akasha/temper-capture-datamining-addon",
       "dependencies": {
@@ -1195,15 +1204,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-build-deploy-checks": {
-      "name": "@akasha/temper-build-deploy-checks",
-      "dependencies": {
-        "@akasha/temper-addons-resolve": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "typescript": "^5.8.3",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/temper-eso-types": {
       "name": "@akasha/temper-eso-types",
     },
@@ -1421,7 +1421,7 @@
 
     "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
 
-    "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:temper/temper-build-deploy-checks"],
+    "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:temper/build-deploy-checks"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
 

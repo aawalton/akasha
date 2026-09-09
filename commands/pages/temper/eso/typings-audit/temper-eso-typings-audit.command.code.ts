@@ -2,13 +2,13 @@ import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { resolve } from "node:path"
 import { renderAuditReading, summarizeAudit } from "@akasha/checks/audit-reading"
 import { codeRoot } from "@akasha/pages/code-root"
+import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import {
   buildEsoClonePopulation,
   WALK_ROOT,
-} from "@akasha/temper-build-deploy-checks/eso-clone-artifacts"
-import type { StampedArtifact } from "@akasha/temper-build-deploy-checks/eso-doc-api-version"
-import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
-import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
+} from "../../../../../temper/build-deploy-checks/eso-clone-artifacts/eso-clone-artifacts.module.code.ts"
+import type { StampedArtifact } from "../../../../../temper/build-deploy-checks/eso-doc-api-version/eso-doc-api-version.module.code.ts"
 import {
   saidFor,
   saidShort,
