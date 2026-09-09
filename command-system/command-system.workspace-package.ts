@@ -39,7 +39,6 @@ export const commandSystem = {
     "module/mechanical-filing",
     "module/change-acting",
     "module/edits-landing",
-    "module/command-walking",
     "module/change-arguing",
     "module/change-running",
     "module/path-moving",
