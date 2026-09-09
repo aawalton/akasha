@@ -5,7 +5,7 @@ export const cinnamonBun0093ChapterNinetyCleanup = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0093-chapter-ninety-cleanup",
   title: "Chapter Ninety - Cleanup",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 93,
   ownLength: 2152,
   unitSlug: "words",

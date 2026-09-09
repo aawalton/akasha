@@ -5,7 +5,7 @@ export const chrysalis0466Chapter1812AMuchBetterPlace = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0466-chapter-1812-a-much-better-place",
   title: "Chapter 1812 - A Much Better Place",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 466,
   ownLength: 973,
   unitSlug: "words",

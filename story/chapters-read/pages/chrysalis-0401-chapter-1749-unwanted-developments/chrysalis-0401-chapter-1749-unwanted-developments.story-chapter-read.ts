@@ -5,7 +5,7 @@ export const chrysalis0401Chapter1749UnwantedDevelopments = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0401-chapter-1749-unwanted-developments",
   title: "Chapter 1749 - Unwanted Developments",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 401,
   ownLength: 950,
   unitSlug: "words",

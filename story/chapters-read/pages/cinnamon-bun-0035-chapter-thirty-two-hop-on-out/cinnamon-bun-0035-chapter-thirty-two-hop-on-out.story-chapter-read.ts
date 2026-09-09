@@ -5,7 +5,7 @@ export const cinnamonBun0035ChapterThirtyTwoHopOnOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0035-chapter-thirty-two-hop-on-out",
   title: "Chapter Thirty-Two - Hop on Out",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 35,
   ownLength: 1972,
   unitSlug: "words",

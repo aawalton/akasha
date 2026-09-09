@@ -5,7 +5,7 @@ export const cinnamonBun0021ChapterNineteenBlueSkies = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0021-chapter-nineteen-blue-skies",
   title: "Chapter Nineteen - Blue Skies",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 21,
   ownLength: 2033,
   unitSlug: "words",

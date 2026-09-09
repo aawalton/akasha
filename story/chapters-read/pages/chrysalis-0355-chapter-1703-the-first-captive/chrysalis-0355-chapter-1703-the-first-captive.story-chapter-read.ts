@@ -5,7 +5,7 @@ export const chrysalis0355Chapter1703TheFirstCaptive = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0355-chapter-1703-the-first-captive",
   title: "Chapter 1703 - The First Captive",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 355,
   ownLength: 1013,
   ownProgress: 1013,

@@ -5,7 +5,7 @@ export const chrysalis0507Chapter1852DependableDemon = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0507-chapter-1852-dependable-demon",
   title: "Chapter 1852 - Dependable Demon",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 507,
   ownLength: 1270,
   unitSlug: "words",

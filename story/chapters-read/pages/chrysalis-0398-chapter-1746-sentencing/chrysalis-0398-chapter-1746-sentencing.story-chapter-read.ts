@@ -5,7 +5,7 @@ export const chrysalis0398Chapter1746Sentencing = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0398-chapter-1746-sentencing",
   title: "Chapter 1746 - Sentencing",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 398,
   ownLength: 1167,
   ownProgress: 1167,

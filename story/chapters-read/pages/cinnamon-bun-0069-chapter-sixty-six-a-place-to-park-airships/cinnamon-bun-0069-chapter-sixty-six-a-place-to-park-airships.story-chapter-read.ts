@@ -5,7 +5,7 @@ export const cinnamonBun0069ChapterSixtySixAPlaceToParkAirships = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0069-chapter-sixty-six-a-place-to-park-airships",
   title: "Chapter Sixty-Six - A Place to Park Airships",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 69,
   ownLength: 1943,
   unitSlug: "words",

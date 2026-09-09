@@ -5,7 +5,7 @@ export const cinnamonBun0088ChapterEightyFiveFunhouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0088-chapter-eighty-five-funhouse",
   title: "Chapter Eighty-Five - Funhouse",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 88,
   ownLength: 1945,
   unitSlug: "words",

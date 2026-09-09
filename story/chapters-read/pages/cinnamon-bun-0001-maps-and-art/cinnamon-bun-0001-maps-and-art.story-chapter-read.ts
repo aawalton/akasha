@@ -5,7 +5,7 @@ export const cinnamonBun0001MapsAndArt = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0001-maps-and-art",
   title: "Maps and Art",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 1,
   ownLength: 88,
   unitSlug: "words",

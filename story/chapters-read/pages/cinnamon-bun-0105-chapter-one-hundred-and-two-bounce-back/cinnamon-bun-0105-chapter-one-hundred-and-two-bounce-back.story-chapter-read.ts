@@ -5,7 +5,7 @@ export const cinnamonBun0105ChapterOneHundredAndTwoBounceBack = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0105-chapter-one-hundred-and-two-bounce-back",
   title: "Chapter One Hundred and Two - Bounce Back",
-  partOfCollectionSlugs: ["story-read/cinnamon-bun"],
+  storySlug: "story-read/cinnamon-bun",
   position: 105,
   ownLength: 2015,
   unitSlug: "words",

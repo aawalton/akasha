@@ -5,7 +5,7 @@ export const chrysalis0370Chapter1718SweptClean = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0370-chapter-1718-swept-clean",
   title: "Chapter 1718 - Swept Clean",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 370,
   ownLength: 1019,
   ownProgress: 1019,
