@@ -178,5 +178,7 @@ export const alanWeb = {
     "route/alan-web-api-media",
     "route/alan-web-api-media-stream",
     "route/alan-web-api-health",
+    "route/alan-web-api-live-version",
+    "route/alan-web-api-catalog",
   ],
 } as const satisfies RouterApp

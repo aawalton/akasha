@@ -21,7 +21,10 @@ export default [
   route("idle", "routes/idle.ts"),
   route("api/health", "routes/alan-web-api-health/alan-web-api-health.route.code.ts"),
   route("api/pages-ready", "routes/pages-ready/pages-ready.route.code.ts"),
-  route("api/live-version", "routes/api.live-version.ts"),
+  route(
+    "api/live-version",
+    "routes/alan-web-api-live-version/alan-web-api-live-version.route.code.ts"
+  ),
   route("api/errors", "routes/api.errors.ts"),
   route("api/claude-usage", "routes/claude-usage/claude-usage.route.code.ts"),
   route("api/inbox-stoplights", "routes/inbox-stoplights/inbox-stoplights.route.code.ts"),
@@ -73,7 +76,7 @@ export default [
   route("api/media/:pageId/:medium", "routes/alan-web-api-media/alan-web-api-media.route.code.ts"),
   route("api/load", "routes/api.load.ts"),
   route("api/save", "routes/api.save.ts"),
-  route("api/catalog", "routes/api.catalog.ts"),
+  route("api/catalog", "routes/alan-web-api-catalog/alan-web-api-catalog.route.code.ts"),
   route("api/chess/analyze", "routes/api.chess.analyze.ts"),
 
   route("api/push/register", "routes/api.push.register.ts"),
