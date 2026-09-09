@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const supervising = {
   id: "01a08859-4c01-7bf5-9ebc-b39e6b3406fa",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "supervising",
   definition: "the supervisor keeping an agent alive in its seat",
   parts: [

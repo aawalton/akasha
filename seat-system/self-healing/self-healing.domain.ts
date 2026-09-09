@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const selfHealing = {
   id: "01a08865-01fe-7c5a-ad92-7c42a01e7c23",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "self-healing",
   definition: "a supervisor replaced in place by the version its files now hold",
   parts: [
