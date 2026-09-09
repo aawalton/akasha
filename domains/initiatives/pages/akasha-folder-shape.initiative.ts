@@ -21,7 +21,7 @@ export const akashaFolderShape = {
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
       workingMemory:
-        "Alan has refused enabling `pages-of-one-type`, so a folder changes rather than the check. The check runs on no phase: patch, worktree, deploy and audit are all false, so a refusal shows only when the check is called by name. Five private name registries must agree and nothing ties them: the check's `HELD_FOLDERS` and the four shapes' own lists.\n",
+        "Alan has refused enabling `pages-of-one-type`, so a folder changes rather than the check. No check runs at any phase but patch: `44ab9789be8` turned off the last audit check, so a bare audit is refused and a shape refusal shows only when asked for by name. Five private name registries must agree and nothing ties them; four answer one question, whether an enabled shape judges that name, and derive from it.\n",
     },
     {
       statement: "A check determines whether a folder should be a workspace package.",
