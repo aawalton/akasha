@@ -5,7 +5,7 @@ export const theNewWorld0223264FamilyProblems = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0223-264-family-problems",
   title: "264 Family Problems",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 223,
   ownLength: 6861,
   unitSlug: "words",

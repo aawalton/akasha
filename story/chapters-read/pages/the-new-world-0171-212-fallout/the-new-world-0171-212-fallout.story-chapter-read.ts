@@ -5,7 +5,7 @@ export const theNewWorld0171212Fallout = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0171-212-fallout",
   title: "212 Fallout",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 171,
   ownLength: 3146,
   unitSlug: "words",

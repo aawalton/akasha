@@ -5,7 +5,7 @@ export const theNewWorld0062104War = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0062-104-war",
   title: "104 War",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 62,
   ownLength: 2942,
   unitSlug: "words",

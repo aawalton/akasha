@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0096Chapter96CagedNotClaimed
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0096-chapter-96-caged-not-claimed",
   title: "Chapter 96 – Caged, Not Claimed",
-  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 96,
   ownLength: 1922,
   unitSlug: "words",

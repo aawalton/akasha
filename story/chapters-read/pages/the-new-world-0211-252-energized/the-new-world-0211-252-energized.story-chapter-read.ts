@@ -5,7 +5,7 @@ export const theNewWorld0211252Energized = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0211-252-energized",
   title: "252 Energized",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 211,
   ownLength: 2946,
   unitSlug: "words",

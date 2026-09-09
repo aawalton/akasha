@@ -5,7 +5,7 @@ export const theNewWorld0181222ToCreateAndDestroy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0181-222-to-create-and-destroy",
   title: "222 To Create and Destroy",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 181,
   ownLength: 9061,
   unitSlug: "words",

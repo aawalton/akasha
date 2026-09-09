@@ -5,7 +5,7 @@ export const theNewWorld0167208Ripples = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0167-208-ripples",
   title: "208 Ripples",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 167,
   ownLength: 3105,
   unitSlug: "words",

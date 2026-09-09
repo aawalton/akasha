@@ -5,7 +5,7 @@ export const theNewWorld000649ReapingRewards = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0006-49-reaping-rewards",
   title: "49 Reaping Rewards",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 6,
   ownLength: 3508,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0093Chapter93BloodOnFeathers
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0093-chapter-93-blood-on-feathers",
   title: "Chapter 93 – Blood on Feathers",
-  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 93,
   ownLength: 1842,
   unitSlug: "words",

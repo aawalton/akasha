@@ -5,7 +5,7 @@ export const theNewWorld0190231Havoc = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0190-231-havoc",
   title: "231 Havoc",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 190,
   ownLength: 3872,
   unitSlug: "words",

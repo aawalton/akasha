@@ -5,7 +5,7 @@ export const theNewWorld0105146AligningTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0105-146-aligning-time",
   title: "146 Aligning Time",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 105,
   ownLength: 3321,
   unitSlug: "words",

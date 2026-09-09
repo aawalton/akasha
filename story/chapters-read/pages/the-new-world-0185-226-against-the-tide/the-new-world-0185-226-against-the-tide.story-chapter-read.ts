@@ -5,7 +5,7 @@ export const theNewWorld0185226AgainstTheTide = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0185-226-against-the-tide",
   title: "226 Against the Tide",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 185,
   ownLength: 2541,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0087128FissuresForm = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0087-128-fissures-form",
   title: "128 Fissures Form",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 87,
   ownLength: 1197,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld003578NotAsItSeems = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0035-78-not-as-it-seems",
   title: "78 Not As It Seems",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 35,
   ownLength: 3137,
   unitSlug: "words",

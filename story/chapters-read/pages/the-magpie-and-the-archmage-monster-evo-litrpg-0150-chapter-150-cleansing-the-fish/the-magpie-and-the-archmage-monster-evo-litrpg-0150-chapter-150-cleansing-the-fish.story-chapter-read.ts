@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0150Chapter150CleansingTheFi
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0150-chapter-150-cleansing-the-fish",
   title: "Chapter 150 – Cleansing the Fish",
-  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 150,
   ownLength: 1954,
   unitSlug: "words",

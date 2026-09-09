@@ -5,7 +5,7 @@ export const theNewWorld0070112Confrontation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0070-112-confrontation",
   title: "112 Confrontation",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 70,
   ownLength: 5003,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0216257Rhetoric = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0216-257-rhetoric",
   title: "257 Rhetoric",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 216,
   ownLength: 3224,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0098Chapter98BeneathSeabloom
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0098-chapter-98-beneath-seabloom-island",
   title: "Chapter 98 – Beneath Seabloom Island",
-  partOfCollectionSlugs: ["the-magpie-and-the-archmage-monster-evo-litrpg"],
+  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 98,
   ownLength: 2119,
   unitSlug: "words",
