@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../scripture-passage.page-type.ts"
 
 export const scripturePassage2Kings19 = {
   id: "01a06804-11aa-700c-8b5d-c9dd99b09eb2",
