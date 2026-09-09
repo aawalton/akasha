@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperSkillPointFinder = {
   id: "01a060ec-5852-77cf-a783-9e488f2d3a19",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-skill-point-finder",
   definition: "where a character's remaining skill points are, counted per zone and per dungeon",
-  manifest: "json",
   parts: [
     "module/skill-point-sources",
     "module/skill-point-finder-constants",
@@ -45,4 +44,4 @@ export const temperSkillPointFinder = {
       statement: "The game reports a skill point only for the character being played.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

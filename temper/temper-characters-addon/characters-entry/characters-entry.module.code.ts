@@ -13,7 +13,7 @@ import {
   initializeSavedVariables,
   pruneDeletedCharacters,
 } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import { initializeSkillPointFinder } from "@akasha/temper-skill-point-finder/init"
+import { initializeSkillPointFinder } from "akasha/temper/skill-point-finder/skill-point-finder-init/skill-point-finder-init.module.code.ts"
 import { collectAchievements } from "../characters-achievements/characters-achievements.module.code.ts"
 import { collectAllianceRank } from "../characters-alliance-rank/characters-alliance-rank.module.code.ts"
 import { collectAntiquityLore } from "../characters-antiquity-lore/characters-antiquity-lore.module.code.ts"

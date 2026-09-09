@@ -1,4 +1,4 @@
-import type { PublicDungeonKey } from "@akasha/temper-skill-point-finder/sources"
+import type { PublicDungeonKey } from "akasha/temper/skill-point-finder/skill-point-sources/skill-point-sources.module.code.ts"
 import type { SkillPointDungeonSource } from "../skill-point-source-types/skill-point-source-types.module.code.ts"
 
 export const SKILL_POINT_PUBLIC_DUNGEON_SOURCES = [

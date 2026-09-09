@@ -1752,12 +1752,6 @@
         "@akasha/temper-skill-morphs": "workspace:*",
       },
     },
-    "temper/skill-point-finder": {
-      "name": "@akasha/temper-skill-point-finder",
-      "dependencies": {
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
-    },
     "temper/temper-addon-library-types": {
       "name": "@akasha/temper-addon-library-types",
     },
@@ -1839,7 +1833,6 @@
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
-        "@akasha/temper-skill-point-finder": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -2104,7 +2097,6 @@
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/temper-skill-morphs-access": "workspace:*",
-        "@akasha/temper-skill-point-finder": "workspace:*",
         "@akasha/utils": "workspace:*",
         "fast-check": "^4.5.3",
       },
@@ -2779,8 +2771,6 @@
     "@akasha/temper-skill-morphs": ["@akasha/temper-skill-morphs@workspace:temper/temper-skill-morphs"],
 
     "@akasha/temper-skill-morphs-access": ["@akasha/temper-skill-morphs-access@workspace:temper/skill-morphs-access"],
-
-    "@akasha/temper-skill-point-finder": ["@akasha/temper-skill-point-finder@workspace:temper/skill-point-finder"],
 
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 
