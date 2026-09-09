@@ -1,5 +1,6 @@
 import { basename, dirname } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
+import { reachingOf } from "@akasha/indexes/package-reaching"
 import { type Facing, generatedIn } from "@akasha/indexes/property-carrying"
 import ts from "typescript"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
@@ -11,6 +12,10 @@ const ADD_FILE_CODE = "change-mechanical/add-file-code"
 const CHANGE_FILE_CONTENT = "change-mechanical-file-content/change-file-content"
 
 const LINE = "\n"
+
+const EVERY = "*"
+
+const BESIDE = "."
 
 export type Asked = {
   readonly from: string
@@ -190,16 +195,41 @@ function landingIn(spelled: string, given: Asked): string {
   return JSON.stringify(`${spelled.slice(0, -stem.length)}${basename(given.to)}`)
 }
 
-function repointedAt(text: string, at: string, given: Asked): Passage | null {
+function rootedIn(naming: ReadonlyMap<string, string>): string | null {
+  for (const [specifier, path] of naming) {
+    if (path === EVERY && specifier.endsWith(`/${EVERY}`)) return specifier.slice(0, -EVERY.length)
+  }
+  return null
+}
+
+function landingFor(
+  spelled: string,
+  given: Asked,
+  naming: ReadonlyMap<string, string>
+): string | null {
+  if (spelled.startsWith(BESIDE)) {
+    return spelled.endsWith(basename(given.from)) ? landingIn(spelled, given) : null
+  }
+  if (naming.get(spelled) !== given.from) return null
+  const rooted = rootedIn(naming)
+  return rooted === null ? null : JSON.stringify(`${rooted}${given.to}`)
+}
+
+function repointedAt(
+  text: string,
+  at: string,
+  given: Asked,
+  naming: ReadonlyMap<string, string>
+): Passage | null {
   const source = parsedAs(at, text)
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
     const bound = namedIn(one)
     const named = one.moduleSpecifier
     if (bound === null || !ts.isStringLiteral(named)) continue
-    if (!named.text.startsWith(".") || !named.text.endsWith(basename(given.from))) continue
     if (!bound.elements.some((each) => each.name.text === given.of)) continue
-    const landing = landingIn(named.text, given)
+    const landing = landingFor(named.text, given, naming)
+    if (landing === null) continue
     return { at, old: textOfNode(text, one), new: pointedAt(text, one, bound, given, landing) }
   }
   return null
@@ -217,11 +247,12 @@ function facingIn(world: World): Facing {
 function repointedIn(world: World, given: Asked): { readonly found: readonly Passage[] } | Refused {
   const found: Passage[] = []
   const facing = facingIn(world)
+  const naming = reachingOf(world.index.manifestsBeside(world.index.fileKeysAt()), world.textOf)
   for (const at of world.index.importersOf(given.from)) {
     if (generatedIn(facing, at)) continue
     const held = world.textOf(at)
     if (held === null) return { refused: `\`${at}\` names what moved and could not be read` }
-    const one = repointedAt(held, at, given)
+    const one = repointedAt(held, at, given, naming)
     if (one !== null) found.push(one)
   }
   return { found }

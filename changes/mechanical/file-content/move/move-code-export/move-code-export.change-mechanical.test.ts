@@ -85,10 +85,34 @@ const RUNS: Reaching = (world, at, given) => {
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
 
+const NAMED_AT = "akasha/one/package.json"
+
+const NAMED = `{
+  "name": "@held/one",
+  "exports": { "./one": "./one.held.ts" }
+}
+`
+
+const ROOT_AT = "package.json"
+
+const ROOT = `{
+  "name": "tree",
+  "exports": { "./*": "./*" }
+}
+`
+
+function indexOf(importers: readonly string[]): World["index"] {
+  return {
+    importersOf: () => importers,
+    fileKeysAt: () => new Map(),
+    manifestsBeside: () => [NAMED_AT, ROOT_AT],
+  } as never
+}
+
 function worldOf(held: Readonly<Record<string, string>>, importers: readonly string[] = []): World {
   return {
     root: "/nowhere",
-    index: { importersOf: () => importers } as never,
+    index: indexOf(importers),
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
     under: () => [],
@@ -209,6 +233,8 @@ export type Uses = {
 function generating(importers: readonly string[]): World["index"] {
   return {
     importersOf: () => importers,
+    fileKeysAt: () => new Map(),
+    manifestsBeside: () => [NAMED_AT, ROOT_AT],
     kindsUnder: () => ["file-property"],
     everyOfType: () => [{ path: TYPES_AT }],
     pageByPath: (at: string) =>
@@ -227,6 +253,24 @@ test("a generated body naming that type is left to the thing that writes it", as
 
   expect(said.refused).toBeNull()
   expect(puttingAt(said, WRITTEN)).toEqual([])
+})
+
+const NAMED_USING = `import type { Kept } from "@held/one/one"
+
+export type Wraps = {
+  readonly kept: Kept
+}
+`
+
+test("a body naming that type through a package names it from the workspace root", async () => {
+  const world = worldOf({ [FROM]: HELD, [NAMED_AT]: NAMED, [ROOT_AT]: ROOT, [FAR]: NAMED_USING }, [
+    FAR,
+  ])
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "Kept" })
+
+  expect(said.refused).toBeNull()
+  expect(puttingAt(said, FAR)).toEqual([`import type { Kept } from "tree/${TO}"`])
 })
 
 test("a body written by hand is repointed though a generated one beside it is not", async () => {
