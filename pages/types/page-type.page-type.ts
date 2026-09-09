@@ -115,6 +115,7 @@ export const pageType = {
     { pageProperty: "file-property/type-generator", required: false, many: false },
     { pageProperty: "file-property/types", required: false, many: false },
   ],
+  typeGenerator: "ts",
   invariants: [
     {
       invariantKind: "upkeep",
