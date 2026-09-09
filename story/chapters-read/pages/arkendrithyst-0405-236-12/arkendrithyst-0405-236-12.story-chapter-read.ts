@@ -1,0 +1,17 @@
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+
+export const arkendrithyst040523612 = {
+  id: "01a08395-3d2d-7383-8d7c-f0c81ee3a9c5",
+  pageTypeSlug: "story-chapter-read",
+  slug: "arkendrithyst-0405-236-12",
+  partOfCollectionSlugs: ["story-read/arkendrithyst"],
+  position: 405,
+  publishedAt: "2023-05-07",
+  unitSlug: "words",
+  externalId: "1205533",
+  source: "royal-road",
+  title: "236, 1/2",
+  ownLength: 9923,
+  externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/1205533/236-12",
+  prose: "txt",
+} as const satisfies StoryChapterRead
