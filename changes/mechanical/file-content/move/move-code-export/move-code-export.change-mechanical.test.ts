@@ -168,13 +168,24 @@ test("a landing path in another folder is refused", async () => {
   expect(said.refused).toBe(`\`${ELSEWHERE}\` sits in another folder than \`${FROM}\``)
 })
 
-test("a landing path a body already sits at is refused", async () => {
+test("a landing path holding a body declaring no such type is refused", async () => {
   const world = worldOf({ [FROM]: HELD, [TO]: "export const two = 1\n" })
 
   const said = await runChange(world, { from: FROM, to: TO, of: "Kept" })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${TO}\` is a body already`)
+  expect(said.refused).toBe(`\`${TO}\` is a body declaring no exported type named \`Kept\``)
+})
+
+test("a landing path already declaring that type is left as it is", async () => {
+  const world = worldOf({ [FROM]: HELD, [TO]: LANDED, [USES]: USING }, [USES])
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "Kept" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, TO)).toBe("")
+  expect(puttingAt(said, TO)).toEqual([])
+  expect(puttingAt(said, USES)).toEqual([`import type { Kept } from "./two.held.ts"`])
 })
 
 test("a body declaring no such type is refused", async () => {

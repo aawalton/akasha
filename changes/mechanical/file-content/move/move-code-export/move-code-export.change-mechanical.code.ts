@@ -29,6 +29,7 @@ type Passage = {
 type Plan = {
   readonly taken: Passage
   readonly body: string
+  readonly adding: boolean
   readonly after: readonly Passage[]
 }
 
@@ -221,7 +222,8 @@ function planFor(
   given: Asked,
   text: string,
   declared: ts.TypeAliasDeclaration,
-  repointed: readonly Passage[]
+  repointed: readonly Passage[],
+  adding: boolean
 ): Plan {
   const passage = text.slice(declared.getFullStart(), declared.getEnd())
   const left = text.slice(0, declared.getFullStart()) + text.slice(declared.getEnd())
@@ -232,8 +234,14 @@ function planFor(
   return {
     taken: { at: given.from, old: passage, new: "" },
     body: bodyFor(carried, passage),
+    adding,
     after: [...gone, ...(back === null ? [] : [back]), ...repointed],
   }
+}
+
+function exportedIn(at: string, text: string, of: string): boolean {
+  const declared = aliasIn(parsedAs(at, text), of)
+  return declared !== null && exported(declared)
 }
 
 function planned(world: World, given: Asked): Plan | Refused {
@@ -243,7 +251,10 @@ function planned(world: World, given: Asked): Plan | Refused {
   }
   const text = world.textOf(given.from)
   if (text === null) return { refused: `\`${given.from}\` could not be read` }
-  if (world.textOf(given.to) !== null) return { refused: `\`${given.to}\` is a body already` }
+  const landed = world.textOf(given.to)
+  if (landed !== null && !exportedIn(given.to, landed, given.of)) {
+    return { refused: `\`${given.to}\` is a body declaring no exported type named \`${given.of}\`` }
+  }
   const declared = aliasIn(parsedAs(given.from, text), given.of)
   if (declared === null) {
     return { refused: `\`${given.from}\` declares no type named \`${given.of}\`` }
@@ -251,7 +262,7 @@ function planned(world: World, given: Asked): Plan | Refused {
   if (!exported(declared)) return { refused: `\`${given.of}\` is declared under no export` }
   const repointed = repointedIn(world, given)
   if ("refused" in repointed) return repointed
-  return planFor(given, text, declared, repointed.found)
+  return planFor(given, text, declared, repointed.found, landed === null)
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
@@ -259,10 +270,14 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if ("refused" in made) return refusing(made.refused)
   const taken = await reach(world, CHANGE_FILE_CONTENT, made.taken)
   if (taken.said.refused !== null) return taken.said
-  const added = await reach(taken.world, ADD_FILE_CODE, { at: given.to, body: made.body })
-  if (added.said.refused !== null) return added.said
-  const edits: FileChange[] = [...taken.said.edits, ...added.said.edits]
-  let seen = added.world
+  const edits: FileChange[] = [...taken.said.edits]
+  let seen = taken.world
+  if (made.adding) {
+    const added = await reach(seen, ADD_FILE_CODE, { at: given.to, body: made.body })
+    if (added.said.refused !== null) return added.said
+    edits.push(...added.said.edits)
+    seen = added.world
+  }
   for (const one of made.after) {
     const said = await reach(seen, CHANGE_FILE_CONTENT, one)
     if (said.said.refused !== null) return said.said

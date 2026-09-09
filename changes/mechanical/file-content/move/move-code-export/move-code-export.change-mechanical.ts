@@ -18,7 +18,20 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing path a body already sits at is refused rather than written over.",
+      statement: "A landing path holding no body is written with the declaration carried there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing path already declaring that exported type is left as it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing path holding a body declaring no such exported type is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The declaration leaves the body it came from and every importer is repointed either way.",
     },
     {
       invariantKind: "departure",
