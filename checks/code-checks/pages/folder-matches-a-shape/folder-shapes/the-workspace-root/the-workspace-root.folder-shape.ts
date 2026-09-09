@@ -3,6 +3,7 @@ import type { FolderShape } from "../folder-shape.page-type.ts"
 export const theWorkspaceRoot = {
   id: "01a08261-3b06-764b-9a0d-e073c9504692",
   pageTypeSlug: "folder-shape",
+  type: "folder-shape",
   slug: "the-workspace-root",
   definition: "the shape of the folder every other folder in the workspace sits under",
   code: "ts",

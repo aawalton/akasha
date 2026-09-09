@@ -3,6 +3,7 @@ import type { FolderShape } from "../folder-shape.page-type.ts"
 export const singleEntrance = {
   id: "01a06860-a0ef-779c-a72e-83beaacb23f1",
   pageTypeSlug: "folder-shape",
+  type: "folder-shape",
   slug: "single-entrance",
   definition: "the shape of a folder reached at one file rather than at several",
   code: "ts",

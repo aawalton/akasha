@@ -3,6 +3,7 @@ import type { FolderShape } from "../folder-shape.page-type.ts"
 export const propertiesOfTheTypeAbove = {
   id: "01a05f26-edf0-717b-9c73-edea11fb6a86",
   pageTypeSlug: "folder-shape",
+  type: "folder-shape",
   slug: "properties-of-the-type-above",
   definition:
     "the shape of a folder named properties with the properties the page type above it declares",

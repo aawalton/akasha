@@ -3,6 +3,7 @@ import type { FolderShape } from "../folder-shape.page-type.ts"
 export const modulesOnly = {
   id: "01a05f26-edf0-76fc-b2f1-9351eb172aee",
   pageTypeSlug: "folder-shape",
+  type: "folder-shape",
   slug: "modules-only",
   definition: "the shape of a folder named modules with the module folders the page above declares",
   code: "ts",

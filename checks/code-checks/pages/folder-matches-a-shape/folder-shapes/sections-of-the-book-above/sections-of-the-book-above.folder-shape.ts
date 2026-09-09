@@ -3,6 +3,7 @@ import type { FolderShape } from "../folder-shape.page-type.ts"
 export const sectionsOfTheBookAbove = {
   id: "01a06d79-1d8e-7531-86b1-1116c2aff36f",
   pageTypeSlug: "folder-shape",
+  type: "folder-shape",
   slug: "sections-of-the-book-above",
   definition: "the shape of a folder named sections with the sections of the book above it",
   code: "ts",

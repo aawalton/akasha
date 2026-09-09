@@ -3,6 +3,7 @@ import type { FolderShape } from "../folder-shape.page-type.ts"
 export const scriptsOnly = {
   id: "01a063e4-5f38-7000-a16b-d956278882ec",
   pageTypeSlug: "folder-shape",
+  type: "folder-shape",
   slug: "scripts-only",
   definition: "the shape of a folder named scripts with a folder for each script and nothing else",
   code: "ts",

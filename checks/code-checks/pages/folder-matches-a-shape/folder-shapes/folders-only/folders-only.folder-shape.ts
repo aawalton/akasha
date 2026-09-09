@@ -3,6 +3,7 @@ import type { FolderShape } from "../folder-shape.page-type.ts"
 export const foldersOnly = {
   id: "01a05ddc-a691-7000-b09f-a0f72c44e7ff",
   pageTypeSlug: "folder-shape",
+  type: "folder-shape",
   slug: "folders-only",
   definition: "the shape of a folder holding folders and no file of its own",
   code: "ts",

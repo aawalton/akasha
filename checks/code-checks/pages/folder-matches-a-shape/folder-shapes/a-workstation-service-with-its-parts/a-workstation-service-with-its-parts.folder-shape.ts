@@ -3,6 +3,7 @@ import type { FolderShape } from "../folder-shape.page-type.ts"
 export const aWorkstationServiceWithItsParts = {
   id: "01a076ab-4c17-7626-ad38-f06b550b24e2",
   pageTypeSlug: "folder-shape",
+  type: "folder-shape",
   slug: "a-workstation-service-with-its-parts",
   definition: "the shape of a folder named workstation-services with one service with its parts",
   code: "ts",
