@@ -1,7 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type TrackingCapture = Domain
 
 export const trackingCapture = {
   id: "01a06827-ec0b-7fa8-bb0a-ae697d6c6a9e",
@@ -51,4 +48,5 @@ export const trackingCapture = {
       statement: "Each capture is a page of this type.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
