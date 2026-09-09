@@ -111,7 +111,7 @@
     "@akasha/temper-items-filters-core": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
-    "@akasha/temper-capture-writer": "workspace:*"
+    "@akasha/temper-addon-init": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

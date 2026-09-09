@@ -4,11 +4,11 @@ import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
 
 import type { AchievementCatalogData } from "@akasha/temper-capture-shapes/achievement-catalog"
-import { runBatched } from "@akasha/temper-capture-writer/run-batched"
 import { BATCH_DELAY, BATCH_SIZE } from "@akasha/temper-catalog-core/batch-config"
 import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
 import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
 import { requireDefined } from "@akasha/utils/narrow/require-defined"
+import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched.module.code.ts"
 import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
 
 export interface AchievementWorkItem {

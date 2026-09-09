@@ -8,9 +8,9 @@ import type {
   CompanionSkillCatalogAbility,
   CompanionSkillCatalogLine,
 } from "@akasha/temper-capture-shapes/companion-skill-catalog"
-import { runBatched } from "@akasha/temper-capture-writer/run-batched"
 import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
 import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched.module.code.ts"
 
 const BATCH_SIZE = 100
 const BATCH_DELAY = 100

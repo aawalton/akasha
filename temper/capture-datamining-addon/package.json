@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
-    "@akasha/temper-addon-library-types": "workspace:*",
-    "@akasha/temper-capture-writer": "workspace:*"
+    "@akasha/temper-addon-library-types": "workspace:*"
   }
 }

@@ -1,7 +1,7 @@
 import "@akasha/temper-eso-types/eso-functions-01"
 
-import { defineCaptureWriter } from "@akasha/temper-capture-writer/capture-writer"
 import { SALES_CAPTURE_DESCRIPTOR } from "akasha/temper/capture-sales/sales-descriptor/sales-descriptor.module.code.ts"
+import { defineCaptureWriter } from "akasha/temper/capture-writer/capture-writer/capture-writer.module.code.ts"
 import { ADDON_NAME } from "../sales-addon-name/sales-addon-name.module.code.ts"
 import { setSalesAccessor, startSalesCapture } from "../sales-capture/sales-capture.module.code.ts"
 

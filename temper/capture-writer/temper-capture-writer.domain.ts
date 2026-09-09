@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCaptureWriter = {
   id: "01a060b5-5ba6-79b3-9194-4261a9b83de6",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-capture-writer",
   definition: "the add-on side of a capture, where the game is asked to save what was gathered",
-  manifest: "json",
   parts: ["module/capture-writer", "module/account-wide-vars", "module/run-batched"],
   invariants: [
     {
@@ -25,4 +24,4 @@ export const temperCaptureWriter = {
       statement: "Nothing here reads a saved file back.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

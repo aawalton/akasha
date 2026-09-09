@@ -8,10 +8,10 @@ import type {
   ItemSetCatalogEntry,
   ItemSetCatalogPiece,
 } from "@akasha/temper-capture-shapes/item-set-catalog"
-import { runBatched } from "@akasha/temper-capture-writer/run-batched"
 import { BATCH_DELAY, BATCH_SIZE } from "@akasha/temper-catalog-core/batch-config"
 import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
 import { getSavedVariables } from "@akasha/temper-catalog-core/saved-variables-accessor"
+import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched.module.code.ts"
 export function resolveCategoryNames(itemSetId: number): {
   categoryName?: string
   subcategoryName?: string
