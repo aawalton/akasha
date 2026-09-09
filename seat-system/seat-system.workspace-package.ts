@@ -144,7 +144,6 @@ export const seatSystem = {
     "module/seat-reading",
     "module/seat-stating",
     "module/seat-stopping",
-    "module/subagent-presence",
     "module/supervisor-account-config",
     "module/wake-comms-input",
     "module/supervisor-adopt",

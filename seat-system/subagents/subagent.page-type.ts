@@ -20,7 +20,7 @@ export const subagent = {
   pluralSlug: "subagents",
   extends: ["page-type/agent"],
   mortal: true,
-  parts: ["relation-property/subagent-kind", "text-property/agent-id"],
+  parts: ["module/subagent-presence", "relation-property/subagent-kind", "text-property/agent-id"],
   properties: [
     { pageProperty: "relation-property/principal-seat-name", required: true, many: false },
     { pageProperty: "text-property/dispatched-as", required: false, many: false },
