@@ -2,13 +2,13 @@ import type { Slug } from "@akasha/pages/page/slug"
 import type { List } from "@akasha/pages/page-property"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type ComponentSlugs = List<Slug>
+export type Components = List<Slug>
 
-export const componentSlugs = {
+export const components = {
   id: "01a05821-5723-7bc2-86dc-1b02cd1edded",
   pageTypeSlug: "relation-property",
-  slug: "component-slugs",
-  propertySlug: "component-slugs",
+  slug: "components",
+  propertySlug: "components",
   definition: "the components a program compiles",
   targetPageTypeSlug: "page-type/ios-component",
 } as const satisfies RelationProperty

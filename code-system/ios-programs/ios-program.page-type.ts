@@ -1,7 +1,7 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { BundleId } from "../ios-apps/properties/bundle-id.text-property.ts"
-import type { ComponentSlugs } from "./properties/component-slugs.relation-property.ts"
+import type { Components } from "./properties/components.relation-property.ts"
 import type { Entitlements } from "./properties/entitlements.file-property.ts"
 import type { InfoPlist } from "./properties/info-plist.file-property.ts"
 import type { Main } from "./properties/main.named-file-property.ts"
@@ -10,7 +10,7 @@ import type { TargetName } from "./properties/target-name.text-property.ts"
 
 export type IosProgram = Domain & {
   bundleId?: BundleId
-  componentSlugs?: ComponentSlugs
+  components?: Components
   profileName?: ProfileName
   targetName?: TargetName
   main?: Main
@@ -34,7 +34,7 @@ export const iosProgram = {
     "ios-program/smilingjenny-decode-harness",
     "ios-program/smilingjenny-widget",
     "named-file-property/main",
-    "relation-property/component-slugs",
+    "relation-property/components",
     "text-property/profile-name",
     "text-property/target-name",
   ],
@@ -42,7 +42,7 @@ export const iosProgram = {
   properties: [
     { pagePropertySlug: "text-property/bundle-id", required: false, many: false },
     {
-      pagePropertySlug: "relation-property/component-slugs",
+      pagePropertySlug: "relation-property/components",
       required: false,
       many: true,
       maxCount: null,

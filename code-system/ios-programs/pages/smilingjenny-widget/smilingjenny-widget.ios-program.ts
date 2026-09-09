@@ -7,7 +7,7 @@ export const smilingjennyWidget = {
   definition: "the tiles on Jenny's home screen",
   bundleId: "me.smilingjenny.app.widgets",
   infoPlist: "plist",
-  componentSlugs: [
+  components: [
     "ios-component/categorize-ring",
     "ios-component/ring",
     "ios-component/safety-ring",

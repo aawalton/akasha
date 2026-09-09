@@ -6,7 +6,7 @@ export const smilingjennyDecodeHarness = {
   slug: "smilingjenny-decode-harness",
   definition: "proof that every tile decodes the payload it is handed",
   main: "swift",
-  componentSlugs: [
+  components: [
     "ios-component/categorize-ring",
     "ios-component/ring",
     "ios-component/safety-ring",

@@ -6,7 +6,7 @@ export const alanwaltonDecodeHarness = {
   slug: "alanwalton-decode-harness",
   definition: "proof that every tile decodes the payload it is handed",
   main: "swift",
-  componentSlugs: [
+  components: [
     "ios-component/alanwalton-categorize-widget",
     "ios-component/alanwalton-claude-usage-payload",
     "ios-component/alanwalton-claude-usage-view",
