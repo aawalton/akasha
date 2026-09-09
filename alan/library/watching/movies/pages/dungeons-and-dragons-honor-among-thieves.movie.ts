@@ -9,7 +9,7 @@ export const dungeonsAndDragonsHonorAmongThieves = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-31",
   externalLink: "https://trakt.tv/movies/dungeons-dragons-honor-among-thieves-2023",

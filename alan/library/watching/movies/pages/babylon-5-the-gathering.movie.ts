@@ -9,7 +9,7 @@ export const babylon5TheGathering = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1993-02-22",
   externalId: "babylon-5-the-gathering-1993",

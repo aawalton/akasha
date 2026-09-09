@@ -9,7 +9,7 @@ export const theGuardiansOfTheGalaxyHolidaySpecial = {
   position: 40,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-25",
   externalLink: "https://trakt.tv/movies/the-guardians-of-the-galaxy-holiday-special-2022",

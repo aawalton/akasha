@@ -9,7 +9,7 @@ export const superman = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-07-11",
   externalLink: "https://trakt.tv/movies/superman-2025",

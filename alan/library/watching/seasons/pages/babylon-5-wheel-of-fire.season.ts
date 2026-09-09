@@ -9,7 +9,7 @@ export const babylon5WheelOfFire = {
   position: 5,
   ownLength: 990,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1998-01-22",
   externalId: "5",

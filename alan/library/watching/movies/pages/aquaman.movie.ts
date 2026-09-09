@@ -9,7 +9,7 @@ export const aquaman = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-21",
   externalLink: "https://trakt.tv/movies/aquaman-2018",

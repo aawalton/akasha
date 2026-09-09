@@ -9,7 +9,7 @@ export const frankHerbertSChildrenOfDuneSpecials = {
   position: 0,
   ownLength: 22.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2003-03-19",
   externalId: "trakt-season-19587",

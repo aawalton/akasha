@@ -9,7 +9,7 @@ export const capricaSeason1 = {
   position: 1,
   ownLength: 787.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2010-01-23",
   externalId: "trakt-season-2811",

@@ -9,7 +9,7 @@ export const batmanVSupermanDawnOfJustice = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-03-25",
   externalLink: "https://trakt.tv/movies/batman-v-superman-dawn-of-justice-2016",

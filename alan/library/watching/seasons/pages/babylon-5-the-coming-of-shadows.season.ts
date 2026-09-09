@@ -9,7 +9,7 @@ export const babylon5TheComingOfShadows = {
   position: 2,
   ownLength: 990,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1994-11-03",
   externalId: "2",

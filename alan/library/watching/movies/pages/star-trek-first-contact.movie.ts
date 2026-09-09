@@ -9,7 +9,7 @@ export const starTrekFirstContact = {
   position: 13,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1996-11-22",
   externalLink: "https://trakt.tv/movies/star-trek-first-contact-1996",

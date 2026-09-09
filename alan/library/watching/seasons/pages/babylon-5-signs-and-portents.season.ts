@@ -9,7 +9,7 @@ export const babylon5SignsAndPortents = {
   position: 1,
   ownLength: 990,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1994-01-27",
   externalId: "1",

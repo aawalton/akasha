@@ -9,7 +9,7 @@ export const creatureCommandosSeason1 = {
   position: 1,
   ownLength: 165,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-12-05",
   externalId: "trakt-season-315613",

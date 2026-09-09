@@ -9,7 +9,7 @@ export const miracleDay = {
   position: 4,
   ownLength: 550.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2011-07-14",
   externalId: "trakt-season-1390",

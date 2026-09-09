@@ -9,7 +9,7 @@ export const onePieceSeason3 = {
   position: 3,
   ownLength: 336,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2001-08-26",
   externalLink: "https://trakt.tv/shows/one-piece/seasons/3",

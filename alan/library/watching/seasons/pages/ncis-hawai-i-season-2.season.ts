@@ -9,7 +9,7 @@ export const ncisHawaiISeason2 = {
   position: 2,
   ownLength: 940.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-09-20",
   externalId: "trakt-season-297896",

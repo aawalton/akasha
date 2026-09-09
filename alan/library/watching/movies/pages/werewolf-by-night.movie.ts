@@ -9,7 +9,7 @@ export const werewolfByNight = {
   position: 39,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-07",
   externalLink: "https://trakt.tv/movies/werewolf-by-night-2022",

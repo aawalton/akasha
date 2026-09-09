@@ -9,7 +9,7 @@ export const stargateContinuum = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2008-07-29",
   externalLink: "https://trakt.tv/movies/stargate-continuum-2008",

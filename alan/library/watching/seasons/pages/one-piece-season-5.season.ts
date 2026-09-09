@@ -9,7 +9,7 @@ export const onePieceSeason5 = {
   position: 5,
   ownLength: 312,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2002-11-03",
   externalLink: "https://trakt.tv/shows/one-piece/seasons/5",

@@ -9,7 +9,7 @@ export const kingdomOfThePlanetOfTheApes = {
   position: 12,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-05-10",
   externalLink: "https://trakt.tv/movies/kingdom-of-the-planet-of-the-apes-2024",

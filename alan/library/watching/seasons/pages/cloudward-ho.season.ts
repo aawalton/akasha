@@ -9,7 +9,7 @@ export const cloudwardHo = {
   position: 26,
   ownLength: 2578.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-06-04",
   externalId: "trakt-season-459045",

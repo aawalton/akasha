@@ -9,7 +9,7 @@ export const marvelSThePunisherSeason1 = {
   position: 1,
   ownLength: 699,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-11-17",
   externalId: "trakt-season-151590",

@@ -9,7 +9,7 @@ export const arcaneSpecials = {
   position: 0,
   ownLength: 472,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2024-10-08",
   externalId: "0",

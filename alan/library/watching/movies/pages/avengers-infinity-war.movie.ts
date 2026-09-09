@@ -9,7 +9,7 @@ export const avengersInfinityWar = {
   position: 19,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-27",
   externalLink: "https://trakt.tv/movies/avengers-infinity-war-2018",

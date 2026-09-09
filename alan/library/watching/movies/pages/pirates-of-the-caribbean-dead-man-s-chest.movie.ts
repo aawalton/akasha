@@ -9,7 +9,7 @@ export const piratesOfTheCaribbeanDeadManSChest = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2006-07-07",
   externalLink: "https://trakt.tv/movies/pirates-of-the-caribbean-dead-man-s-chest-2006",

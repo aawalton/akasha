@@ -9,7 +9,7 @@ export const battlestarGalacticaBloodAndChrome = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-12-09",
   externalLink: "https://trakt.tv/movies/battlestar-galactica-blood-chrome-2012-12-09",

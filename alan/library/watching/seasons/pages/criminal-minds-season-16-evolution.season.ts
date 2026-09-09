@@ -9,7 +9,7 @@ export const criminalMindsSeason16Evolution = {
   position: 16,
   ownLength: 521,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-11-24",
   externalId: "16",

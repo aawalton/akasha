@@ -9,7 +9,7 @@ export const revengeOfTheSith = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-05-19",
   externalLink: "https://trakt.tv/movies/star-wars-episode-iii-revenge-of-the-sith-2005",

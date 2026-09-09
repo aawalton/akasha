@@ -9,7 +9,7 @@ export const allTheBrightPlaces = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-02-28",
   externalId: "all-the-bright-places-2020",

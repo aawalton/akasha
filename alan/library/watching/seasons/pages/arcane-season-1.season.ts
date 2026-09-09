@@ -9,7 +9,7 @@ export const arcaneSeason1 = {
   position: 1,
   ownLength: 379.2,
   ownProgress: 379.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2021-11-06",

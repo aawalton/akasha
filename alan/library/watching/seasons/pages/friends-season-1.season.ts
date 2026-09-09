@@ -9,7 +9,7 @@ export const friendsSeason1 = {
   position: 1,
   ownLength: 550.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1994-09-23",
   externalId: "trakt-season-4975",

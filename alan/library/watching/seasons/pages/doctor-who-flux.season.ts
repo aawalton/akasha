@@ -9,7 +9,7 @@ export const doctorWhoFlux = {
   position: 13,
   ownLength: 658,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-31",
   externalId: "trakt-season-243449",

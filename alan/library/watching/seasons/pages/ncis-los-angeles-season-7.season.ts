@@ -9,7 +9,7 @@ export const ncisLosAngelesSeason7 = {
   position: 7,
   ownLength: 1080,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2015-09-22",
   externalId: "trakt-season-112238",

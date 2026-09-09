@@ -9,7 +9,7 @@ export const battlestarGalacticaSeason1 = {
   position: 1,
   ownLength: 1120.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1978-09-18",
   externalId: "trakt-season-1629",

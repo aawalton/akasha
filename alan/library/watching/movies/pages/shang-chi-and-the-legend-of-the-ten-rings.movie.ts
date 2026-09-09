@@ -9,7 +9,7 @@ export const shangChiAndTheLegendOfTheTenRings = {
   position: 25,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-03",
   externalLink: "https://trakt.tv/movies/shang-chi-and-the-legend-of-the-ten-rings-2021",

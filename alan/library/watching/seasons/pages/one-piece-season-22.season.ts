@@ -9,7 +9,7 @@ export const onePieceSeason22 = {
   position: 22,
   ownLength: 1174.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-01-07",
   externalLink: "https://trakt.tv/shows/one-piece/seasons/22",

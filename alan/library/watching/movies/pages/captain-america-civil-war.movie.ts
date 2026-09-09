@@ -9,7 +9,7 @@ export const captainAmericaCivilWar = {
   position: 13,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-05-06",
   externalLink: "https://trakt.tv/movies/captain-america-civil-war-2016",

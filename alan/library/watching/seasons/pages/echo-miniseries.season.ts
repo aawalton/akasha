@@ -9,7 +9,7 @@ export const echoMiniseries = {
   position: 1,
   ownLength: 213,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-01-10",
   externalId: "trakt-season-255625",

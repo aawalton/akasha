@@ -9,7 +9,7 @@ export const captainAmericaTheFirstAvenger = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-07-22",
   externalLink: "https://trakt.tv/movies/captain-america-the-first-avenger-2011",

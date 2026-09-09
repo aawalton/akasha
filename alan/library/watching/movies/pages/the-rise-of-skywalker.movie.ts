@@ -9,7 +9,7 @@ export const theRiseOfSkywalker = {
   position: 15,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-12-20",
   externalLink: "https://trakt.tv/movies/star-wars-the-rise-of-skywalker-2019",

@@ -9,7 +9,7 @@ export const doctorWhoSeason12 = {
   position: 1,
   ownLength: 1026,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1963-11-23",
   externalId: "trakt-season-421",

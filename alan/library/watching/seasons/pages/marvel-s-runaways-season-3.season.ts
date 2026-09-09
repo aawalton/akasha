@@ -9,7 +9,7 @@ export const marvelSRunawaysSeason3 = {
   position: 3,
   ownLength: 487.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-12-13",
   externalId: "trakt-season-195764",

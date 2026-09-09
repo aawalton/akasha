@@ -9,7 +9,7 @@ export const blueBeetle = {
   position: 15,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-08-18",
   externalLink: "https://trakt.tv/movies/blue-beetle-2023",

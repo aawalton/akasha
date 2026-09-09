@@ -9,7 +9,7 @@ export const thunderbolts = {
   position: 56,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-05-02",
   externalLink: "https://trakt.tv/movies/thunderbolts-2025",

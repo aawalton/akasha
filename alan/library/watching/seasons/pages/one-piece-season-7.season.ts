@@ -9,7 +9,7 @@ export const onePieceSeason7 = {
   position: 7,
   ownLength: 792,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2004-06-20",
   externalLink: "https://trakt.tv/shows/one-piece/seasons/7",

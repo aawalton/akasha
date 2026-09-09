@@ -9,7 +9,7 @@ export const shazamFuryOfTheGods = {
   position: 13,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-17",
   externalLink: "https://trakt.tv/movies/shazam-fury-of-the-gods-2023",

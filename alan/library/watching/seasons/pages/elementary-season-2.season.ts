@@ -9,7 +9,7 @@ export const elementarySeason2 = {
   position: 2,
   ownLength: 1030.2,
   ownProgress: 1030.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-09-27",
   externalId: "trakt-season-4059",

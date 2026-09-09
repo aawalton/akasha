@@ -9,7 +9,7 @@ export const eurekaSeason2 = {
   position: 2,
   ownLength: 566,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-07-10",
   externalId: "2",

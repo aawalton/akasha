@@ -9,7 +9,7 @@ export const blackWidow = {
   position: 24,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-09",
   externalLink: "https://trakt.tv/movies/black-widow-2021",

@@ -9,7 +9,7 @@ export const harryPotterAndTheHalfBloodPrince = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2009-07-15",

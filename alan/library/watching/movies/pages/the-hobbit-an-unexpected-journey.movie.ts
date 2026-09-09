@@ -9,7 +9,7 @@ export const theHobbitAnUnexpectedJourney = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2012-12-14",

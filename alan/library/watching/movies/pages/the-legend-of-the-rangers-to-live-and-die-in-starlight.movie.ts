@@ -9,7 +9,7 @@ export const theLegendOfTheRangersToLiveAndDieInStarlight = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2002-01-19",
   externalId: "babylon-5-the-legend-of-the-rangers-to-live-and-die-in-starlight-2002",

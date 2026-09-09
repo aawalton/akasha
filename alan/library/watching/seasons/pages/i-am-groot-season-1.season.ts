@@ -9,7 +9,7 @@ export const iAmGrootSeason1 = {
   position: 1,
   ownLength: 28.2,
   ownProgress: 28.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-10",
   externalId: "trakt-season-330045",

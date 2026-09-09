@@ -9,7 +9,7 @@ export const gameOfThronesConquestAndRebellionAnAnimatedHistoryOfTheSeve = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-12-12",
   externalLink:

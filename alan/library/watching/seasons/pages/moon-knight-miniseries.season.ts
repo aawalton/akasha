@@ -9,7 +9,7 @@ export const moonKnightMiniseries = {
   position: 1,
   ownLength: 301.8,
   ownProgress: 301.8,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-30",
   externalId: "trakt-season-240814",

@@ -9,7 +9,7 @@ export const bookFourBalance = {
   position: 4,
   ownLength: 298.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-10-04",
   externalId: "trakt-season-91246",

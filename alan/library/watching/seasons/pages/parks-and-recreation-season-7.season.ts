@@ -9,7 +9,7 @@ export const parksAndRecreationSeason7 = {
   position: 7,
   ownLength: 286.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2015-01-14",
   externalId: "trakt-season-91156",

@@ -9,7 +9,7 @@ export const thor = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-05-06",
   externalLink: "https://trakt.tv/movies/thor-2011",

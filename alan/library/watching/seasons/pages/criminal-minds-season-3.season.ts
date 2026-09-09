@@ -9,7 +9,7 @@ export const criminalMindsSeason3 = {
   position: 3,
   ownLength: 827,
   ownProgress: 41.35,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "in-progress",
   publishedAt: "2007-09-26",
   externalId: "3",

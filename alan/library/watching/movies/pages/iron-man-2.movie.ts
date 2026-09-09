@@ -9,7 +9,7 @@ export const ironMan2 = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-05-07",
   externalLink: "https://trakt.tv/movies/iron-man-2-2010",

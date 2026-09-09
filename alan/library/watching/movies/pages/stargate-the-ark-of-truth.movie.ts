@@ -9,7 +9,7 @@ export const stargateTheArkOfTruth = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2008-03-11",
   externalLink: "https://trakt.tv/movies/stargate-the-ark-of-truth-2008",

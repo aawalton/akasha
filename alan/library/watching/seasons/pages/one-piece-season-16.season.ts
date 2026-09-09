@@ -9,7 +9,7 @@ export const onePieceSeason16 = {
   position: 16,
   ownLength: 1200,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-05-04",
   externalLink: "https://trakt.tv/shows/one-piece/seasons/16",

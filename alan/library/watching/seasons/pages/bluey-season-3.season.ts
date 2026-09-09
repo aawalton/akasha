@@ -9,7 +9,7 @@ export const blueySeason3 = {
   position: 3,
   ownLength: 346.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-04",
   externalId: "trakt-season-270796",

@@ -9,7 +9,7 @@ export const ncisLosAngelesSpecials = {
   position: 0,
   ownLength: 43.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2023-05-22",
   externalId: "trakt-season-29184",

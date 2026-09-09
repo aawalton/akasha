@@ -9,7 +9,7 @@ export const eternals = {
   position: 26,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-05",
   externalLink: "https://trakt.tv/movies/eternals-2021",

@@ -9,7 +9,7 @@ export const battleForThePlanetOfTheApes = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1973-06-15",
   externalLink: "https://trakt.tv/movies/battle-for-the-planet-of-the-apes-1973",

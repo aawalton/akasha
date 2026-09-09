@@ -9,7 +9,7 @@ export const oppenheimer = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-07-21",
   externalLink: "https://trakt.tv/movies/oppenheimer-2023",

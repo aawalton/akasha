@@ -9,7 +9,7 @@ export const thePhantomMenace = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1999-05-19",
   externalLink: "https://trakt.tv/movies/star-wars-episode-i-the-phantom-menace-1999",

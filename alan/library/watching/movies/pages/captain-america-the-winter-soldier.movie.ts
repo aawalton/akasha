@@ -9,7 +9,7 @@ export const captainAmericaTheWinterSoldier = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-04-04",
   externalLink: "https://trakt.tv/movies/captain-america-the-winter-soldier-2014",

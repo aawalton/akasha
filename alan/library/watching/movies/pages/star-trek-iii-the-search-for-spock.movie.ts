@@ -9,7 +9,7 @@ export const starTrekIiiTheSearchForSpock = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1984-06-01",

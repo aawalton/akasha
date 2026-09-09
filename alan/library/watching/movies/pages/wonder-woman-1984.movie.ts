@@ -9,7 +9,7 @@ export const wonderWoman1984 = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-25",
   externalLink: "https://trakt.tv/movies/wonder-woman-1984-2020",

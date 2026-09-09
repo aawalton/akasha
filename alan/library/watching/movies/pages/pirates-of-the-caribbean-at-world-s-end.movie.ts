@@ -9,7 +9,7 @@ export const piratesOfTheCaribbeanAtWorldSEnd = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-05-25",
   externalLink: "https://trakt.tv/movies/pirates-of-the-caribbean-at-world-s-end-2007",

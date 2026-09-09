@@ -9,7 +9,7 @@ export const antMan = {
   position: 12,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-07-17",
   externalLink: "https://trakt.tv/movies/ant-man-2015",

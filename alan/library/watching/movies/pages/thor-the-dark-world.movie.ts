@@ -9,7 +9,7 @@ export const thorTheDarkWorld = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-11-08",
   externalLink: "https://trakt.tv/movies/thor-the-dark-world-2013",

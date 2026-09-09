@@ -9,7 +9,7 @@ export const starTrekIiTheWrathOfKhan = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1982-06-04",

@@ -9,7 +9,7 @@ export const onePieceSeason21 = {
   position: 21,
   ownLength: 4728,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-07-07",
   externalLink: "https://trakt.tv/shows/one-piece/seasons/21",

@@ -9,7 +9,7 @@ export const dunePartTwo = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-01",
   externalLink: "https://trakt.tv/movies/dune-part-two-2024",

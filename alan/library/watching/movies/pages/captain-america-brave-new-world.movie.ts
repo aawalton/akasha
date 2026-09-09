@@ -9,7 +9,7 @@ export const captainAmericaBraveNewWorld = {
   position: 54,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-02-14",
   externalLink: "https://trakt.tv/movies/captain-america-brave-new-world-2025",

@@ -9,7 +9,7 @@ export const peacemakerSpecials = {
   position: 0,
   ownLength: 55.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2022-11-23",
   externalId: "trakt-season-313219",

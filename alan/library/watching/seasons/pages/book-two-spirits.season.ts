@@ -9,7 +9,7 @@ export const bookTwoSpirits = {
   position: 2,
   ownLength: 322.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-09-14",
   externalId: "trakt-season-45517",

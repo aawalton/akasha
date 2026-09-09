@@ -9,7 +9,7 @@ export const ncisNewOrleansSeason3 = {
   position: 3,
   ownLength: 1080,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-21",
   externalId: "trakt-season-128590",

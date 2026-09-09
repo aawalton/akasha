@@ -9,7 +9,7 @@ export const theLordOfTheRingsTheFellowshipOfTheRing = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2001-12-19",

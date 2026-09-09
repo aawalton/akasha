@@ -9,7 +9,7 @@ export const frierenBeyondJourneySEndSpecials2 = {
   position: 0,
   ownLength: 31,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2023-10-11",
   externalId: "0",

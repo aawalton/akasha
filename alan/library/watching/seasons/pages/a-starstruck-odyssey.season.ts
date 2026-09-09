@@ -9,7 +9,7 @@ export const aStarstruckOdyssey = {
   position: 13,
   ownLength: 2391,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-01-13",
   externalId: "trakt-season-284359",

@@ -9,7 +9,7 @@ export const doctorStrangeInTheMultiverseOfMadness = {
   position: 33,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-06",
   externalLink: "https://trakt.tv/movies/doctor-strange-in-the-multiverse-of-madness-2022",

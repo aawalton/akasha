@@ -9,7 +9,7 @@ export const marvelSInhumansSeason1 = {
   position: 1,
   ownLength: 354,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-09-30",
   externalId: "trakt-season-135980",

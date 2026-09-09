@@ -9,7 +9,7 @@ export const accelWorldInfiniteBurst = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2016-07-23",

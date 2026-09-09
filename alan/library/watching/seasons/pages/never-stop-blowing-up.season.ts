@@ -9,7 +9,7 @@ export const neverStopBlowingUp = {
   position: 22,
   ownLength: 1096.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-06-26",
   externalId: "trakt-season-355961",

@@ -9,7 +9,7 @@ export const theAvengers = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-05-04",
   externalLink: "https://trakt.tv/movies/the-avengers-2012",

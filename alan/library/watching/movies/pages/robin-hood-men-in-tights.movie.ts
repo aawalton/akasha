@@ -9,7 +9,7 @@ export const robinHoodMenInTights = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1993-07-28",

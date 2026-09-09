@@ -9,7 +9,7 @@ export const campaign2TheMightyNein = {
   position: 2,
   ownLength: 33973.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-01-12",
   externalId: "trakt-season-121261",

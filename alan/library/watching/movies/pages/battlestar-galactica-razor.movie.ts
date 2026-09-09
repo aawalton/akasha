@@ -9,7 +9,7 @@ export const battlestarGalacticaRazor = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-11-12",
   externalLink: "https://trakt.tv/movies/battlestar-galactica-razor-2007",

@@ -9,7 +9,7 @@ export const theSuicideSquad = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-08-05",
   externalLink: "https://trakt.tv/movies/the-suicide-squad-2021",

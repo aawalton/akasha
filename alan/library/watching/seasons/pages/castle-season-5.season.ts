@@ -9,7 +9,7 @@ export const castleSeason5 = {
   position: 5,
   ownLength: 1051.2,
   ownProgress: 1051.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-09-25",
   externalId: "trakt-season-4093",

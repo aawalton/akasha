@@ -9,7 +9,7 @@ export const suicideSquad = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-08-05",
   externalLink: "https://trakt.tv/movies/suicide-squad-2016",

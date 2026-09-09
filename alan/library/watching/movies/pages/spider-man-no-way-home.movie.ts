@@ -9,7 +9,7 @@ export const spiderManNoWayHome = {
   position: 27,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-17",
   externalLink: "https://trakt.tv/movies/spider-man-no-way-home-2021",

@@ -9,7 +9,7 @@ export const k9Season1 = {
   position: 1,
   ownLength: 702,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-10-30",
   externalId: "trakt-season-36963",

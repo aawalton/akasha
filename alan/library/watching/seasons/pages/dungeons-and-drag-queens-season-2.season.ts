@@ -9,7 +9,7 @@ export const dungeonsAndDragQueensSeason2 = {
   position: 24,
   ownLength: 876,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-01-09",
   externalId: "trakt-season-436113",

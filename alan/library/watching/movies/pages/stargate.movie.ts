@@ -9,7 +9,7 @@ export const stargate = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1994-10-28",
   externalLink: "https://trakt.tv/movies/stargate-1994",

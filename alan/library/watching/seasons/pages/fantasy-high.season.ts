@@ -9,7 +9,7 @@ export const fantasyHigh = {
   position: 1,
   ownLength: 1705.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-19",
   externalId: "trakt-season-174127",

@@ -9,7 +9,7 @@ export const theGodfather = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1972-03-24",
   externalLink: "https://trakt.tv/movies/the-godfather-1972",

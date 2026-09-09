@@ -9,7 +9,7 @@ export const starTrekInsurrection = {
   position: 14,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1998-12-11",
   externalLink: "https://trakt.tv/movies/star-trek-insurrection-1998",

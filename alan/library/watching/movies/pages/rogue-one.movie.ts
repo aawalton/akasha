@@ -9,7 +9,7 @@ export const rogueOne = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-16",
   externalLink: "https://trakt.tv/movies/rogue-one-a-star-wars-story-2016",

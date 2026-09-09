@@ -9,7 +9,7 @@ export const deadpoolAndWolverine = {
   position: 50,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-26",
   externalLink: "https://trakt.tv/movies/deadpool-wolverine-2024",

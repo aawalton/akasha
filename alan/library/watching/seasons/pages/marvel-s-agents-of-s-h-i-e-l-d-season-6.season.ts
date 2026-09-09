@@ -9,7 +9,7 @@ export const marvelSAgentsOfSHIELDSeason6 = {
   position: 6,
   ownLength: 576,
   ownProgress: 576,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-11",
   externalId: "trakt-season-168411",

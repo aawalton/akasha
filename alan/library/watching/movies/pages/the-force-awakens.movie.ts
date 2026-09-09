@@ -9,7 +9,7 @@ export const theForceAwakens = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-12-18",
   externalLink: "https://trakt.tv/movies/star-wars-the-force-awakens-2015",

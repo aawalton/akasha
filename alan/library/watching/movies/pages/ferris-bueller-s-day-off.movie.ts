@@ -9,7 +9,7 @@ export const ferrisBuellerSDayOff = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "1986-06-11",

@@ -9,7 +9,7 @@ export const misfitsAndMagic = {
   position: 10,
   ownLength: 586.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-06-30",
   externalId: "trakt-season-262218",

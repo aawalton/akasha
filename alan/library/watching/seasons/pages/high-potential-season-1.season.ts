@@ -9,7 +9,7 @@ export const highPotentialSeason1 = {
   position: 1,
   ownLength: 576,
   ownProgress: 576,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-18",
   externalId: "trakt-season-324301",

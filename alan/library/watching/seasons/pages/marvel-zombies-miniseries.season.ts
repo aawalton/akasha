@@ -9,7 +9,7 @@ export const marvelZombiesMiniseries = {
   position: 1,
   ownLength: 136.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-09-24",
   externalId: "trakt-season-279654",

@@ -9,7 +9,7 @@ export const bookThreeChange = {
   position: 3,
   ownLength: 298.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-06-28",
   externalId: "trakt-season-45518",

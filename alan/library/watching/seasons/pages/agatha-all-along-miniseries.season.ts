@@ -9,7 +9,7 @@ export const agathaAllAlongMiniseries = {
   position: 1,
   ownLength: 379.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-09-19",
   externalId: "trakt-season-279651",

@@ -9,7 +9,7 @@ export const returnOfTheJedi = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1983-05-25",
   externalLink: "https://trakt.tv/movies/return-of-the-jedi-1983",

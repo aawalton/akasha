@@ -9,7 +9,7 @@ export const planetOfTheApes2001 = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2001-07-27",
   externalLink: "https://trakt.tv/movies/planet-of-the-apes-2001",

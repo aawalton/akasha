@@ -9,7 +9,7 @@ export const ncisSydneySeason1 = {
   position: 1,
   ownLength: 348,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-10",
   externalId: "trakt-season-303855",

@@ -9,7 +9,7 @@ export const babylon5TheLostTales = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-07-31",
   externalId: "babylon-5-the-lost-tales-voices-in-the-dark-2007",

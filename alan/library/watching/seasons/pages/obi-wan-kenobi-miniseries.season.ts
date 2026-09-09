@@ -9,7 +9,7 @@ export const obiWanKenobiMiniseries = {
   position: 1,
   ownLength: 280.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-05-26",
   externalId: "trakt-season-234906",

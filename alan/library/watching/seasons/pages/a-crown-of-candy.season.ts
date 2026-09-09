@@ -9,7 +9,7 @@ export const aCrownOfCandy = {
   position: 5,
   ownLength: 2185.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-04-08",
   externalId: "trakt-season-215669",

@@ -9,7 +9,7 @@ export const blackPantherWakandaForever = {
   position: 39,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-11",
   externalLink: "https://trakt.tv/movies/black-panther-wakanda-forever-2022",

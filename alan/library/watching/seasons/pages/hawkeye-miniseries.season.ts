@@ -9,7 +9,7 @@ export const hawkeyeMiniseries = {
   position: 1,
   ownLength: 297,
   ownProgress: 297,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-24",
   externalId: "trakt-season-239912",

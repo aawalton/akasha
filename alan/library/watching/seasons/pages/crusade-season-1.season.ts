@@ -9,7 +9,7 @@ export const crusadeSeason1 = {
   position: 1,
   ownLength: 572,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1999-06-10",
   externalId: "1",

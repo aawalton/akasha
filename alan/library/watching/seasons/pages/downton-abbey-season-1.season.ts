@@ -9,7 +9,7 @@ export const downtonAbbeySeason1 = {
   position: 1,
   ownLength: 379.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2010-09-26",
   externalId: "trakt-season-45534",

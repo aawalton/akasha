@@ -9,7 +9,7 @@ export const theLastJedi = {
   position: 12,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-15",
   externalLink: "https://trakt.tv/movies/star-wars-the-last-jedi-2017",

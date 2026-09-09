@@ -9,7 +9,7 @@ export const marvelSLukeCageSeason1 = {
   position: 1,
   ownLength: 703.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-30",
   externalId: "trakt-season-104168",

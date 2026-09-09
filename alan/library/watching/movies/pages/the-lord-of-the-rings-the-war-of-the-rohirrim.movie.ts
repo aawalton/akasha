@@ -9,7 +9,7 @@ export const theLordOfTheRingsTheWarOfTheRohirrim = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-12-13",

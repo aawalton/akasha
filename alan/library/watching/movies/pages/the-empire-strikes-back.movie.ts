@@ -9,7 +9,7 @@ export const theEmpireStrikesBack = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1980-05-21",
   externalLink: "https://trakt.tv/movies/the-empire-strikes-back-1980",

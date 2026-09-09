@@ -9,7 +9,7 @@ export const starTrekBeyond = {
   position: 19,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-07-22",
   externalLink: "https://trakt.tv/movies/star-trek-beyond-2016",

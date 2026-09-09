@@ -9,7 +9,7 @@ export const girlsGutsGlorySeason1 = {
   position: 1,
   ownLength: 462,
   ownProgress: 462,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-05-04",
   externalId: "trakt-season-168247",

@@ -9,7 +9,7 @@ export const wonderWoman = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-06-02",
   externalLink: "https://trakt.tv/movies/wonder-woman-2017",

@@ -9,7 +9,7 @@ export const dunePartOne = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-21",
   externalLink: "https://trakt.tv/movies/dune-2021",

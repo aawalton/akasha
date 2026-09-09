@@ -9,7 +9,7 @@ export const battlestarGalacticaSpecials = {
   position: 0,
   ownLength: 289.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2003-11-26",
   externalId: "trakt-season-243232",

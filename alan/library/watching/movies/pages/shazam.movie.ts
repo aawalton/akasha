@@ -9,7 +9,7 @@ export const shazam = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-04-05",
   externalLink: "https://trakt.tv/movies/shazam-2019",

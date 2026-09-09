@@ -9,7 +9,7 @@ export const guardiansOfTheGalaxyVol2 = {
   position: 15,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-05-05",
   externalLink: "https://trakt.tv/movies/guardians-of-the-galaxy-vol-2-2017",

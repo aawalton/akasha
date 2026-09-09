@@ -9,7 +9,7 @@ export const book7Dark = {
   position: 7,
   ownLength: 250.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-12-19",
   externalId: "trakt-season-404938",

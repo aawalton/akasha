@@ -9,7 +9,7 @@ export const childrenOfEarth = {
   position: 3,
   ownLength: 291,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-07-06",
   externalId: "trakt-season-1389",

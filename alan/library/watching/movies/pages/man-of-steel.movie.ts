@@ -9,7 +9,7 @@ export const manOfSteel = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-06-14",
   externalLink: "https://trakt.tv/movies/man-of-steel-2013",

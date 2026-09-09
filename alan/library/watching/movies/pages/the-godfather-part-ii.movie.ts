@@ -9,7 +9,7 @@ export const theGodfatherPartIi = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1974-12-20",
   externalLink: "https://trakt.tv/movies/the-godfather-part-ii-1974",

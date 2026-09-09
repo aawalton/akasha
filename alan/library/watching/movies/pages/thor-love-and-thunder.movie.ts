@@ -9,7 +9,7 @@ export const thorLoveAndThunder = {
   position: 36,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-07",
   externalLink: "https://trakt.tv/movies/thor-love-and-thunder-2022",

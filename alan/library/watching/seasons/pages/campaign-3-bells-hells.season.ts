@@ -9,7 +9,7 @@ export const campaign3BellsHells = {
   position: 3,
   ownLength: 30499.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-22",
   externalId: "trakt-season-275051",

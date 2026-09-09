@@ -9,7 +9,7 @@ export const helstromSeason1 = {
   position: 1,
   ownLength: 516,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-16",
   externalId: "trakt-season-196072",

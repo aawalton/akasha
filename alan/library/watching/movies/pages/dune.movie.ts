@@ -9,7 +9,7 @@ export const dune = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1984-12-14",
   externalLink: "https://trakt.tv/movies/dune-1984",

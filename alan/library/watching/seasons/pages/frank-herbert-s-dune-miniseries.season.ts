@@ -9,7 +9,7 @@ export const frankHerbertSDuneMiniseries = {
   position: 1,
   ownLength: 285,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2000-12-03",
   externalId: "trakt-season-30606",

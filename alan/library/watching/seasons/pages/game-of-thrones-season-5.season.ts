@@ -9,7 +9,7 @@ export const gameOfThronesSeason5 = {
   position: 5,
   ownLength: 564,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2015-04-13",
   externalId: "trakt-season-3967",

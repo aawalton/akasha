@@ -9,7 +9,7 @@ export const soloAStarWarsStory = {
   position: 13,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-25",
   externalLink: "https://trakt.tv/movies/solo-a-star-wars-story-2018",

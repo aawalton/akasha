@@ -9,7 +9,7 @@ export const ironheartSpecials = {
   position: 0,
   ownLength: 4.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2025-06-14",
   externalId: "trakt-season-469174",

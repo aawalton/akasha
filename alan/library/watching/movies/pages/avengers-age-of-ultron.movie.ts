@@ -9,7 +9,7 @@ export const avengersAgeOfUltron = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-01",
   externalLink: "https://trakt.tv/movies/avengers-age-of-ultron-2015",

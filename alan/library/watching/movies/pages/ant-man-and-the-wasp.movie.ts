@@ -9,7 +9,7 @@ export const antManAndTheWasp = {
   position: 20,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-06",
   externalLink: "https://trakt.tv/movies/ant-man-and-the-wasp-2018",

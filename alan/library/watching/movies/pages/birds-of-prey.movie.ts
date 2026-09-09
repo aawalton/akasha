@@ -9,7 +9,7 @@ export const birdsOfPrey = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-02-07",
   externalLink: "https://trakt.tv/movies/birds-of-prey-2020",

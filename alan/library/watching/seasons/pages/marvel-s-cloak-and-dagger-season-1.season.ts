@@ -9,7 +9,7 @@ export const marvelSCloakAndDaggerSeason1 = {
   position: 1,
   ownLength: 424.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-06-08",
   externalId: "trakt-season-157728",

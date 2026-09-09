@@ -9,7 +9,7 @@ export const fantasyHighSophomoreYear = {
   position: 7,
   ownLength: 3124.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-10-16",
   externalId: "trakt-season-233897",

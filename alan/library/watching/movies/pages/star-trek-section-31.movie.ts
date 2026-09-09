@@ -9,7 +9,7 @@ export const starTrekSection31 = {
   position: 27,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-01-24",
   externalLink: "https://trakt.tv/movies/star-trek-section-31-2025",

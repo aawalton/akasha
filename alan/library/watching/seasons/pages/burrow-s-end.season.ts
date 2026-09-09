@@ -9,7 +9,7 @@ export const burrowSEnd = {
   position: 20,
   ownLength: 1198.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-10-04",
   externalId: "trakt-season-334388",

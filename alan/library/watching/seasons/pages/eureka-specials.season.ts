@@ -9,7 +9,7 @@ export const eurekaSpecials = {
   position: 0,
   ownLength: 837,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2010-07-09",
   externalId: "0",

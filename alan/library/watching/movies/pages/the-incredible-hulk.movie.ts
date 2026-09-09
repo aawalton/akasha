@@ -9,7 +9,7 @@ export const theIncredibleHulk = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-06-12",
   externalLink: "https://trakt.tv/movies/the-incredible-hulk-2008",

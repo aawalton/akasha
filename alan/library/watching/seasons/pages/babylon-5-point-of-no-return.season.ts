@@ -9,7 +9,7 @@ export const babylon5PointOfNoReturn = {
   position: 3,
   ownLength: 990,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1995-11-07",
   externalId: "3",

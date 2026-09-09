@@ -9,7 +9,7 @@ export const lokiSeason1 = {
   position: 30,
   ownLength: 301.8,
   ownProgress: 301.8,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-10",
   externalLink: "https://trakt.tv/shows/loki/seasons/1",

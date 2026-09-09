@@ -9,7 +9,7 @@ export const conquestOfThePlanetOfTheApes = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1972-06-29",
   externalLink: "https://trakt.tv/movies/conquest-of-the-planet-of-the-apes-1972",

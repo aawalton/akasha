@@ -9,7 +9,7 @@ export const starTrekNemesis = {
   position: 16,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2002-12-13",
   externalLink: "https://trakt.tv/movies/star-trek-nemesis-2002",

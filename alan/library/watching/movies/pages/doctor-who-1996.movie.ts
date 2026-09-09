@@ -9,7 +9,7 @@ export const doctorWho1996 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1996-05-14",
   externalLink: "https://trakt.tv/movies/doctor-who-1996",

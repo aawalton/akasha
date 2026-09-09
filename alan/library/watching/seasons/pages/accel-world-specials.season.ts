@@ -9,7 +9,7 @@ export const accelWorldSpecials = {
   position: 0,
   ownLength: 80,
   ownProgress: 80,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   rank: "B",
   publishedAt: "2012-07-24",

@@ -9,7 +9,7 @@ export const blackMirrorSeason1 = {
   position: 1,
   ownLength: 154.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2011-12-04",
   externalId: "trakt-season-53190",

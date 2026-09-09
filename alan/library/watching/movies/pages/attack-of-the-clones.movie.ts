@@ -9,7 +9,7 @@ export const attackOfTheClones = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-05-16",
   externalLink: "https://trakt.tv/movies/star-wars-episode-ii-attack-of-the-clones-2002",

@@ -9,7 +9,7 @@ export const theFlash = {
   position: 14,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-06-16",
   externalLink: "https://trakt.tv/movies/the-flash-2023",

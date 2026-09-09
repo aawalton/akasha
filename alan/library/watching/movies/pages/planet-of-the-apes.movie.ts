@@ -9,7 +9,7 @@ export const planetOfTheApes = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1968-02-07",
   externalLink: "https://trakt.tv/movies/planet-of-the-apes-1968",

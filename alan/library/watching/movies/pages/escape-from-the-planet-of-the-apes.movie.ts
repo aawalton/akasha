@@ -9,7 +9,7 @@ export const escapeFromThePlanetOfTheApes = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1971-05-20",
   externalLink: "https://trakt.tv/movies/escape-from-the-planet-of-the-apes-1971",

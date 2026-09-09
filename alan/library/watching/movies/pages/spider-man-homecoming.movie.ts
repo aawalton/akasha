@@ -9,7 +9,7 @@ export const spiderManHomecoming = {
   position: 16,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-07",
   externalLink: "https://trakt.tv/movies/spider-man-homecoming-2017",

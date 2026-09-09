@@ -9,7 +9,7 @@ export const crusadeSpecials = {
   position: 0,
   ownLength: 21,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "1999-09-13",
   externalId: "0",

@@ -9,7 +9,7 @@ export const battlestarGalacticaThePlan = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-10-27",
   externalLink: "https://trakt.tv/movies/battlestar-galactica-the-plan-2009",

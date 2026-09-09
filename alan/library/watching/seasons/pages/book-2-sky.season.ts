@@ -9,7 +9,7 @@ export const book2Sky = {
   position: 2,
   ownLength: 241.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-02-15",
   externalId: "trakt-season-173441",

@@ -9,7 +9,7 @@ export const theWheelOfTime2 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   rank: "B",
   lastSyncedAt: "2025-10-01",

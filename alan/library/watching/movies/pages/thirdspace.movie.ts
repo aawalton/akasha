@@ -9,7 +9,7 @@ export const thirdspace = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1998-07-19",
   externalId: "babylon-5-thirdspace-1998",

@@ -9,7 +9,7 @@ export const starTrekGenerations = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1994-11-18",
   externalLink: "https://trakt.tv/movies/star-trek-generations-1994",

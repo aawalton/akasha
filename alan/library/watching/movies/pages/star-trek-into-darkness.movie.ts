@@ -9,7 +9,7 @@ export const starTrekIntoDarkness = {
   position: 18,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-05-16",
   externalLink: "https://trakt.tv/movies/star-trek-into-darkness-2013",

@@ -9,7 +9,7 @@ export const ncisSeason1 = {
   position: 1,
   ownLength: 1009.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-09-24",
   externalId: "trakt-season-14540",

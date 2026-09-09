@@ -9,7 +9,7 @@ export const theFantasticFourFirstSteps = {
   position: 57,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-07-25",
   externalLink: "https://trakt.tv/movies/the-fantastic-4-first-steps-2025",

@@ -9,7 +9,7 @@ export const piratesOfTheCaribbeanDeadMenTellNoTales = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-05-26",
   externalLink: "https://trakt.tv/movies/pirates-of-the-caribbean-dead-men-tell-no-tales-2017",

@@ -9,7 +9,7 @@ export const starTrekTheMotionPicture = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1979-12-07",

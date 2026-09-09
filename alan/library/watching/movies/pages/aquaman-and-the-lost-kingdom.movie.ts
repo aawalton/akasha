@@ -9,7 +9,7 @@ export const aquamanAndTheLostKingdom = {
   position: 16,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-12-22",
   externalLink: "https://trakt.tv/movies/aquaman-and-the-lost-kingdom-2023",

@@ -9,7 +9,7 @@ export const dawnOfThePlanetOfTheApes = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-07-11",
   externalLink: "https://trakt.tv/movies/dawn-of-the-planet-of-the-apes-2014",

@@ -9,7 +9,7 @@ export const blackAdam = {
   position: 12,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-21",
   externalLink: "https://trakt.tv/movies/black-adam-2022",

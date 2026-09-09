@@ -9,7 +9,7 @@ export const msMarvelMiniseries = {
   position: 1,
   ownLength: 289.2,
   ownProgress: 289.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-08",
   externalId: "trakt-season-240815",

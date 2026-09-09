@@ -9,7 +9,7 @@ export const galaxyQuest = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1999-12-25",
   externalLink: "https://trakt.tv/movies/galaxy-quest-1999",

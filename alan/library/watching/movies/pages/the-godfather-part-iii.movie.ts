@@ -9,7 +9,7 @@ export const theGodfatherPartIii = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1990-12-25",
   externalLink: "https://trakt.tv/movies/the-godfather-part-iii-1990",

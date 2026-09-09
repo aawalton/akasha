@@ -9,7 +9,7 @@ export const coffinRun = {
   position: 14,
   ownLength: 618,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-06-08",
   externalId: "trakt-season-297117",

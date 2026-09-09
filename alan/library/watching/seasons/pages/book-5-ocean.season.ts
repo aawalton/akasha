@@ -9,7 +9,7 @@ export const book5Ocean = {
   position: 5,
   ownLength: 252,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-07-22",
   externalId: "trakt-season-327596",

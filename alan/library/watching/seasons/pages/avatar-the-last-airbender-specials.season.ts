@@ -9,7 +9,7 @@ export const avatarTheLastAirbenderSpecials = {
   position: 0,
   ownLength: 430.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2002-04-30",
   externalId: "trakt-season-892",

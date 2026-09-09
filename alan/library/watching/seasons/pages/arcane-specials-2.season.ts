@@ -9,7 +9,7 @@ export const arcaneSpecials2 = {
   position: 0,
   ownLength: 121.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2024-10-08",
   externalId: "trakt-season-422162",

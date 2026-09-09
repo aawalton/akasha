@@ -9,7 +9,7 @@ export const marvelSJessicaJonesSeason3 = {
   position: 3,
   ownLength: 658.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-06-14",
   externalId: "trakt-season-191499",

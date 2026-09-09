@@ -9,7 +9,7 @@ export const starTrekVTheFinalFrontier = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1989-06-09",
   externalLink: "https://trakt.tv/movies/star-trek-v-the-final-frontier-1989",

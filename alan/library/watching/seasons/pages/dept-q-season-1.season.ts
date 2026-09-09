@@ -9,7 +9,7 @@ export const deptQSeason1 = {
   position: 1,
   ownLength: 498,
   ownProgress: 498,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-29",
   externalId: "trakt-season-361813",

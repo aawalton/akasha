@@ -9,7 +9,7 @@ export const marvelSIronFistSeason1 = {
   position: 1,
   ownLength: 726,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-03-17",
   externalId: "trakt-season-133293",

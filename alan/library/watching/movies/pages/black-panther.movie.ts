@@ -9,7 +9,7 @@ export const blackPanther = {
   position: 18,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-02-16",
   externalLink: "https://trakt.tv/movies/black-panther-2018",

@@ -9,7 +9,7 @@ export const theRiverOfSouls = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1998-11-08",
   externalId: "babylon-5-the-river-of-souls-1998",

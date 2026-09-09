@@ -9,7 +9,7 @@ export const marvelSDaredevilSeason1 = {
   position: 1,
   ownLength: 712.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2015-04-10",
   externalId: "trakt-season-102670",

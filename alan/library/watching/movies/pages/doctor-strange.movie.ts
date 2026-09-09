@@ -9,7 +9,7 @@ export const doctorStrange = {
   position: 14,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-04",
   externalLink: "https://trakt.tv/movies/doctor-strange-2016",

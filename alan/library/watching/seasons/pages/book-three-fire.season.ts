@@ -9,7 +9,7 @@ export const bookThreeFire = {
   position: 3,
   ownLength: 511.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-09-21",
   externalId: "trakt-season-895",

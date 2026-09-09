@@ -9,7 +9,7 @@ export const gravityFallsSpecials = {
   position: 0,
   ownLength: 1533,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2013-10-15",
   externalId: "trakt-season-52096",

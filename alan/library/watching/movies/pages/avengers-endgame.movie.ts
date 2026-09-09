@@ -9,7 +9,7 @@ export const avengersEndgame = {
   position: 22,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-26",
   externalLink: "https://trakt.tv/movies/avengers-endgame-2019",

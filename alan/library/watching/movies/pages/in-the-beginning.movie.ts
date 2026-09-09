@@ -9,7 +9,7 @@ export const inTheBeginning = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1998-01-04",
   externalId: "babylon-5-in-the-beginning-1998",

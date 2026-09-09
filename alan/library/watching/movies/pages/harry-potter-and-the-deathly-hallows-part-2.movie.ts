@@ -9,7 +9,7 @@ export const harryPotterAndTheDeathlyHallowsPart2 = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2011-07-15",

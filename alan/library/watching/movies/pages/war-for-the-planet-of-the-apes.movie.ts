@@ -9,7 +9,7 @@ export const warForThePlanetOfTheApes = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-07-14",
   externalLink: "https://trakt.tv/movies/war-for-the-planet-of-the-apes-2017",

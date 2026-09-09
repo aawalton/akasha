@@ -9,7 +9,7 @@ export const riseOfThePlanetOfTheApes = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2011-08-05",
   externalLink: "https://trakt.tv/movies/rise-of-the-planet-of-the-apes-2011",

@@ -9,7 +9,7 @@ export const ahsokaSpecials = {
   position: 0,
   ownLength: 46.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2024-12-04",
   externalId: "trakt-season-452255",

@@ -9,7 +9,7 @@ export const miceAndMurder = {
   position: 9,
   ownLength: 1251,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-04-07",
   externalId: "trakt-season-250423",
