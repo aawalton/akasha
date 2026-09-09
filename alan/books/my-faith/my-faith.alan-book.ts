@@ -1,4 +1,4 @@
-import type { AlanBook } from "../alan-book.page-type.ts"
+import type { AlanBook } from "../alan-book.page-type.types.ts"
 
 export const myFaith = {
   id: "01a0659d-311d-7002-8e73-a2838c9cbd47",

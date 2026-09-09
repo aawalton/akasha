@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../collections/collection.page-type.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-
-export type AlanBook = Collection & {
-  title: Title
-}
 
 export const alanBook = {
   id: "01a06d23-26a9-7d50-bca7-7aa5849e1c17",
@@ -29,4 +23,5 @@ export const alanBook = {
       statement: "A book Alan writes is a collection of the chapters beneath that book.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

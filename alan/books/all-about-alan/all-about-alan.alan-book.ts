@@ -1,4 +1,4 @@
-import type { AlanBook } from "../alan-book.page-type.ts"
+import type { AlanBook } from "../alan-book.page-type.types.ts"
 
 export const allAboutAlan = {
   id: "01a0659d-311d-7000-a17a-6d9d0793818c",
