@@ -1,6 +1,6 @@
 import { NOT_WORKED_OUT } from "../../../pages/shadow/shadow.module.code.ts"
 import { refusing, replayed } from "../answer/change-answer.module.code.ts"
-import type { Answer } from "../answer/change-answer.module.types.ts"
+import type { Answer, Replayed } from "../answer/change-answer.module.types.ts"
 import { castingOn, type World } from "../shadow/change-shadow.module.code.ts"
 import type { Guard, Guarding } from "./change-guarding.module.types.ts"
 
@@ -46,14 +46,26 @@ export function judging(
   return judgingOver(given, takingIn(given.said), hanging)
 }
 
-export function holdsAfter(given: Guarding, path: string): boolean {
+type Left = Replayed | { readonly refused: string }
+
+const LEFT = new WeakMap<Guarding, Left>()
+
+function leftBy(given: Guarding): Left {
+  const found = LEFT.get(given)
+  if (found !== undefined) return found
   const held = replayed(given.said, given.before.bodyOf)
+  LEFT.set(given, held)
+  return held
+}
+
+export function holdsAfter(given: Guarding, path: string): boolean {
+  const held = leftBy(given)
   if ("refused" in held || !held.has(path)) return given.before.bodyOf(path) !== null
   return held.get(path) !== null
 }
 
 export function textAfter(given: Guarding, path: string): string | null {
-  const held = replayed(given.said, given.before.bodyOf)
+  const held = leftBy(given)
   if ("refused" in held || !held.has(path)) return given.before.textOf(path)
   const body = held.get(path)
   return typeof body === "string" ? body : null
@@ -61,7 +73,7 @@ export function textAfter(given: Guarding, path: string): string | null {
 
 export function writtenIn(given: Guarding): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
-  const held = replayed(given.said, given.before.bodyOf)
+  const held = leftBy(given)
   if ("refused" in held) return found
   for (const [path, body] of held) if (typeof body === "string") found.set(path, body)
   return found

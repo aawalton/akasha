@@ -9,7 +9,13 @@ import {
 import { importNotLeftHanging } from "../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import { refusing, stating } from "../answer/change-answer.module.code.ts"
 import { type World, worldAt, worldOver } from "../shadow/change-shadow.module.code.ts"
-import { guardedBy, takingIn, textAfter } from "./change-guarding.module.code.ts"
+import {
+  guardedBy,
+  holdsAfter,
+  takingIn,
+  textAfter,
+  writtenIn,
+} from "./change-guarding.module.code.ts"
 import type { Guard } from "./change-guarding.module.types.ts"
 
 afterAll(scratch.sweep)
@@ -100,6 +106,31 @@ test("the text a path holds after the answer is read here", () => {
   guardedBy(worldIn(root), stating([{ kind: "add", path: AT, content: "held\n" }]), [reading])
 
   expect(found).toEqual(["held\n", "export const kept = 1\n", null])
+})
+
+test("the bodies an answer leaves are replayed once for one guarding", () => {
+  const root = indexedRepo()
+  const held = textIn(root)
+  let asked = 0
+  const reading: Guard = (given) => {
+    holdsAfter(given, AT)
+    asked = 0
+    holdsAfter(given, HELD_CODE)
+    textAfter(given, AT)
+    writtenIn(given)
+    return null
+  }
+
+  guardedBy(
+    worldAt(root, (path) => {
+      asked += 1
+      return held(path)
+    }),
+    stating([{ kind: "move", pathFrom: HELD_CODE, pathTo: AT }]),
+    [reading]
+  )
+
+  expect(asked).toBe(0)
 })
 
 test("the paths an answer takes away are read here, and a path a move leaves is not one", () => {

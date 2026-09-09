@@ -79,6 +79,10 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
+      statement: "The bodies an answer leaves are replayed once for one guarding.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path holding a body that is not text holds no text.",
     },
     {
