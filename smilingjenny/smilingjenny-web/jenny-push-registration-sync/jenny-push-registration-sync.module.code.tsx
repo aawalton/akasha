@@ -4,10 +4,9 @@ import { useEffect } from "react"
 import {
   getPushNotifications,
   isNativeShell,
-  type PluginListenerHandle,
 } from "../jenny-capacitor-bridge/jenny-capacitor-bridge.module.code.ts"
 
-async function postDeviceToken(deviceToken: string): Promise<void> {
+async function postDeviceToken(deviceToken: string): Promise<undefined> {
   try {
     const res = await fetch("/api/push/register", {
       method: "POST",

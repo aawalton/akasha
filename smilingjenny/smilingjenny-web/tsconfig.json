@@ -22,6 +22,7 @@
     "*/*.module.ts",
     "*/*.module.code.ts",
     "*/*.module.code.tsx",
+    "*/*.type-declaration.d.ts",
     "*/*.stylesheet.ts",
     ".server/*/*.module.ts",
     ".server/*/*.module.code.ts",
