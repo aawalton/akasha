@@ -90,7 +90,7 @@ function listIn(row: Row, key: string): readonly string[] {
 export interface Story {
   readonly slug: string
   readonly externalId: string
-  readonly worldSlug: string | null
+  readonly world: string | null
   readonly status: string | null
   readonly tags: readonly string[]
 }
@@ -99,7 +99,7 @@ export function readStories(only: string | undefined): readonly Story[] {
   const asked = asking(ROOT, {
     pageTypeSlug: STORY_PAGE_TYPE,
     where: { source: { is: SOURCE } },
-    keys: ["slug", "externalId", "worldSlug", "publicationStatus", "externalTags"],
+    keys: ["slug", "externalId", "world", "worldSlug", "publicationStatus", "externalTags"],
   })
   if ("refused" in asked)
     throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
@@ -122,7 +122,7 @@ export function readStories(only: string | undefined): readonly Story[] {
     out.push({
       slug,
       externalId,
-      worldSlug: textIn(row, "worldSlug"),
+      world: textIn(row, "world") ?? textIn(row, "worldSlug"),
       status: textIn(row, "publicationStatus"),
       tags: listIn(row, "externalTags"),
     })
@@ -325,9 +325,9 @@ async function syncStory(
 
   const wanted = restatementFor(story, fiction.meta.status, fiction.meta.tags)
   if (wanted === null) return
-  if (story.worldSlug === null) {
+  if (story.world === null) {
     console.log(
-      `    ${STORY_PAGE_TYPE}/${story.slug} not restated: it states no worldSlug and ${SOURCE} ` +
+      `    ${STORY_PAGE_TYPE}/${story.slug} not restated: it states no world and ${SOURCE} ` +
         `answers with none. Put a world on that page by hand before it restates.`
     )
     counts.unworlded += 1
