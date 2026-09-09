@@ -13,12 +13,12 @@ export const inboxesEmail = {
   scale: "lowest-inbox-count",
   groups: ["inboxes"],
   wireKey: "email",
-  querySlug: "email-entry-lowest-inbox-count-today",
+  querySlug: "day-lowest-email-inbox-count-today",
   queryKey: "lowestEmailInboxCount",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the count the day's mail entry has.",
+      statement: "The reading is the count the day's own page has.",
     },
     {
       invariantKind: "departure",
@@ -27,11 +27,11 @@ export const inboxesEmail = {
 
     {
       invariantKind: "departure",
-      statement: "No mail entry is no reading rather than a count of zero.",
+      statement: "No day written down is no reading rather than a count of zero.",
     },
     {
       invariantKind: "departure",
-      statement: "A mail entry with no count is no reading rather than a count of zero.",
+      statement: "A day with no count is no reading rather than a count of zero.",
     },
 
     {

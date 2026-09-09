@@ -14,7 +14,16 @@ export const inboxCountWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "The email count also lands on the day's own email entry.",
+      statement: "The mail count lands on the day it was taken in rather than on the ESO day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The mail count kept is the lowest the mail reached rather than the last taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A mail count is kept only where that count is lower than the count already there.",
     },
     {
       invariantKind: "departure",

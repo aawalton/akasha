@@ -14,7 +14,7 @@ export const inboxKeys = {
     },
     {
       invariantKind: "departure",
-      statement: "An inbox with no key of its own is polled and never written to the day.",
+      statement: "An inbox with no key here is written to the day under a rule of its own.",
     },
     {
       invariantKind: "absence",

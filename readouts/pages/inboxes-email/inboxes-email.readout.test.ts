@@ -4,9 +4,9 @@ import { fetchLowestInbox, lowestIn, mailOn } from "./inboxes-email.readout.code
 
 const DAY = "2026-09-02"
 
-test("the mail entry asked for is the one the day names", () => {
+test("the page asked for is the day itself", () => {
   const asked = mailOn(DAY)
-  expect(asked.pageTypeSlug).toBe("email-entry")
+  expect(asked.pageTypeSlug).toBe("day")
   expect(asked.where).toEqual({ date: { is: DAY } })
   expect(asked.keys).toEqual(["lowestEmailInboxCount"])
   expect(asked.limit).toBe(1)
@@ -26,7 +26,7 @@ test("a count of zero is a count", () => {
   expect(lowestIn({ lowestEmailInboxCount: 0 })).toBe(0)
 })
 
-test("a mail entry carrying no count is no reading rather than a count of zero", () => {
+test("a day carrying no count is no reading rather than a count of zero", () => {
   expect(lowestIn({})).toBeNull()
   expect(lowestIn({ lowestEmailInboxCount: "" })).toBeNull()
   expect(lowestIn({ lowestEmailInboxCount: "   " })).toBeNull()
@@ -38,11 +38,11 @@ test("the count is read under the key the page states rather than the slug it is
   expect(lowestIn({ "lowest-email-inbox-count": 9 })).toBeNull()
 })
 
-test("no mail entry is no reading rather than a count of zero", async () => {
+test("no day written down is no reading rather than a count of zero", async () => {
   expect(await fetchLowestInbox(answering([]), DAY)).toBeNull()
 })
 
-test("a mail entry carrying a count answers with that count", async () => {
+test("a day carrying a count answers with that count", async () => {
   const answered = answering([{ values: { lowestEmailInboxCount: 9 } }])
   expect(await fetchLowestInbox(answered, DAY)).toBe(9)
 })

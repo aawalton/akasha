@@ -5,7 +5,7 @@ export const inboxReading = {
   pageTypeSlug: "module",
   slug: "inbox-reading",
   definition:
-    "the counts on Alan's three inboxes, taken from his day and his mail and kept on their readouts",
+    "the counts on Alan's three inboxes, taken from his day pages and kept on their readouts",
   code: "ts",
   invariants: [
     {
@@ -26,7 +26,7 @@ export const inboxReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Three inbox counts are read from two sources.",
+      statement: "Three inbox counts are taken in two reads.",
     },
     {
       invariantKind: "departure",
@@ -38,20 +38,20 @@ export const inboxReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The mail count is on an `email-entry` page of its own.",
+      statement: "The mail count is on a `day` page as the task counts are.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The mail entry is keyed by the day the inbox tracking poll writes that entry under.",
+        "The mail count is read from the day the inbox tracking poll writes that count under.",
     },
     {
       invariantKind: "departure",
-      statement: "Asking the ESO day would read the wrong mail entry on a day the two days differ.",
+      statement: "Asking the ESO day would read the wrong day on a day the two days differ.",
     },
     {
       invariantKind: "departure",
-      statement: "The mail entry is asked for with `asking` rather than with `valuesOfType`.",
+      statement: "The mail count is asked for with `asking` rather than with `valuesOfType`.",
     },
     {
       invariantKind: "departure",

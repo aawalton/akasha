@@ -1,4 +1,6 @@
+import { resolveRoots } from "@akasha/pages/checkout-roots"
 import { statedAt } from "@akasha/readouts/readout-tier"
+import { openedDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import {
   DAILY_TRACKING,
   landDayPage,
@@ -6,16 +8,17 @@ import {
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 import { resolveOrCreateDaily } from "../../../track/daily/track-resolve/track-resolve.module.code.ts"
 import {
-  INBOX_WRITER,
-  type PersistOutcome,
-  persistEmailEntry,
-} from "../email-entry-writing/email-entry-writing.module.code.ts"
-import {
   CLEARED_ATTR,
   COUNT_ATTR,
   INBOX_KEYS,
   type InboxKey,
 } from "../inbox-keys/inbox-keys.module.code.ts"
+
+export const INBOX_WRITER = "inbox-tracking"
+
+export type PersistOutcome = "created" | "patched" | "unchanged"
+
+const LOWEST_EMAIL_ATTR = "lowest-email-inbox-count"
 
 type RowBefore = Readonly<Record<string, unknown>> | undefined
 
@@ -54,13 +57,30 @@ export function alreadyThere(
   return true
 }
 
+export function keptLow(before: unknown, count: number): number | null {
+  const held = statedAt(before)
+  return held === null || count < held ? count : null
+}
+
+async function keepLowestEmail(count: number, now: Date): Promise<undefined> {
+  const day = openedDayOf(resolveRoots(), now)
+  const asked = await askDayByDate(day)
+  if (!asked.ok) throw new Error(`reading ${DAILY_TRACKING} for ${day}: ${asked.why}`)
+  const lower = keptLow(asked.rows[0]?.values[LOWEST_EMAIL_ATTR], count)
+  if (lower === null) return undefined
+  await resolveOrCreateDaily(null, day)
+  const landed = await landDayPage("patch", day, { [LOWEST_EMAIL_ATTR]: lower }, INBOX_WRITER)
+  if (!landed.ok) throw new Error(`writing ${DAILY_TRACKING} for ${day}: ${landed.why}`)
+  return undefined
+}
+
 export async function persistInboxCounts(
   counts: Partial<Record<InboxKey, number>>,
   day: string,
   now: Date
 ): Promise<PersistOutcome> {
   const email = counts.email
-  if (email !== undefined) await persistEmailEntry(email, now)
+  if (email !== undefined) await keepLowestEmail(email, now)
 
   const asked = await askDayByDate(day)
   if (!asked.ok) throw new Error(`reading ${DAILY_TRACKING} for ${day}: ${asked.why}`)

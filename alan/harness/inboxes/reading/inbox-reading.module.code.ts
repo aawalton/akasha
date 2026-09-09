@@ -63,11 +63,11 @@ async function trackedDay(day: string): Promise<Readonly<Record<string, unknown>
   return asked.rows[0]?.values ?? null
 }
 
-function mailEntry(root: string, day: string): Readonly<Record<string, unknown>> | null {
+function mailRow(root: string, day: string): Readonly<Record<string, unknown>> | null {
   const asked = asking(root, mailOn(day))
   if ("refused" in asked) {
     throw new Error(
-      `the mail entry could not be read, so the inbox is unknown rather than empty: ${asked.refused}`
+      `the day could not be read, so the mail inbox is unknown rather than empty: ${asked.refused}`
     )
   }
   return asked.rows[0] ?? null
@@ -95,7 +95,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
 
   const [day, mail] = await Promise.allSettled([
     trackedDay(esoDay),
-    (async () => mailEntry(root, mailDay))(),
+    (async () => mailRow(root, mailDay))(),
   ])
 
   if (day.status === "rejected") {
@@ -115,13 +115,9 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
   if (mail.status === "rejected") {
     wanting([emailAt], saidBy(mail.reason))
   } else if (mail.value === null) {
-    wanting([emailAt], `no mail entry is written down for ${mailDay}`)
+    wanting([emailAt], `no day is written down for ${mailDay}`)
   } else {
-    keep(
-      emailAt,
-      lowestIn(mail.value),
-      `the mail entry for ${mailDay} states no lowest inbox count`
-    )
+    keep(emailAt, lowestIn(mail.value), `the day ${mailDay} states no lowest mail count`)
   }
 
   return { kept, unread }

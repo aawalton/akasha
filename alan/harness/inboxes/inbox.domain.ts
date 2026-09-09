@@ -7,7 +7,6 @@ export const inbox = {
   definition: "the inboxes Alan keeps at empty",
   pluralSlug: "inboxes",
   parts: [
-    "module/email-entry-writing",
     "module/inbox-count-polling",
     "module/inbox-count-tick",
     "module/inbox-count-watch",
