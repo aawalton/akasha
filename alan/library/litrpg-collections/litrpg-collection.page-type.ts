@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../../collections/collection.page-type.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-
-export type LitrpgCollection = Collection & {
-  title: Title
-}
 
 export const litrpgCollection = {
   id: "01a06807-be66-700a-962a-c99e0bc93be5",
@@ -15,4 +9,5 @@ export const litrpgCollection = {
   pluralSlug: "litrpg-collections",
   extends: ["page-type/collection"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  types: "ts",
 } as const satisfies PageType
