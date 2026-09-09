@@ -3,9 +3,9 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./upscale-cluster": "./upscale-cluster/upscale-cluster.module.code.ts",
+    "./upscale-cluster": "./cluster/upscale-cluster.module.code.ts",
     "./upscale-serving-job": "./upscale-serving-job/upscale-serving-job.module.code.ts",
-    "./upscale-workstation": "./upscale-workstation/upscale-workstation.module.code.ts"
+    "./upscale-workstation": "./workstation/upscale-workstation.module.code.ts"
   },
   "dependencies": {
     "@akasha/cluster-api": "workspace:*",
