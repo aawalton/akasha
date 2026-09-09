@@ -5,6 +5,7 @@ export type Items = "jsonl"
 export const items = {
   id: "01a05fcd-f550-7cd2-9e3a-e8c18d91b7a8",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "items",
   propertySlug: "items",
   definition: "every item a sweep read out of the game, one item to a line",

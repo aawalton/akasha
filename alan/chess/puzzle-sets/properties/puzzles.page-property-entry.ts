@@ -5,6 +5,7 @@ export type Puzzles = "jsonl"
 export const puzzles = {
   id: "01a06582-bd62-7cb1-8ecf-f95e81141aa9",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "puzzles",
   propertySlug: "puzzles",
   definition: "every puzzle a set has, one to a line",

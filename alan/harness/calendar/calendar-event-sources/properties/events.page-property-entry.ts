@@ -5,6 +5,7 @@ export type Events = "jsonl"
 export const events = {
   id: "01a06868-aec4-7f27-ae51-0a56d9b397f6",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "events",
   propertySlug: "events",
   definition: "every event a source publishes, one to a line",

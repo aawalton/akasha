@@ -5,6 +5,7 @@ export type SyncRuns = "jsonl"
 export const syncRuns = {
   id: "01a06861-f664-70f9-9c72-89cac17bf56b",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "sync-runs",
   propertySlug: "sync-runs",
   definition: "every pull a sync has made, one to a line",

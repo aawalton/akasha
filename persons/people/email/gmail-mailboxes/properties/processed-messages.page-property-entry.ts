@@ -5,6 +5,7 @@ export type ProcessedMessages = "jsonl"
 export const processedMessages = {
   id: "01a06862-a0bc-72d6-b90f-dad9388f4920",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "processed-messages",
   propertySlug: "processed-messages",
   definition: "every message a mailbox has been through and what was settled, one to a line",

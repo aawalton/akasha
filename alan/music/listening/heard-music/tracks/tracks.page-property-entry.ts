@@ -5,6 +5,7 @@ export type Tracks = "jsonl"
 export const tracks = {
   id: "01a06240-340f-700b-b409-ccc0e5bff5e6",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "tracks",
   propertySlug: "tracks",
   definition: "every track a person has heard, one to a line",

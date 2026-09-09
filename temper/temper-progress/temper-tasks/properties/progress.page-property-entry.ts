@@ -5,6 +5,7 @@ export type Progress = "jsonl"
 export const progress = {
   id: "01a05fd3-435e-7d0d-8c81-036d195632f1",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "progress",
   propertySlug: "progress",
   definition: "how far a task has come, one character to a line",

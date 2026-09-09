@@ -5,6 +5,7 @@ export type Listens = "jsonl"
 export const listens = {
   id: "01a06240-340f-7001-ad7b-818302ce884a",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "listens",
   propertySlug: "listens",
   definition: "every play Alan finished on a day, one to a line",

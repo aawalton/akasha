@@ -5,6 +5,7 @@ export type Quests = "jsonl"
 export const quests = {
   id: "01a05fcd-f553-7ed3-91d3-7f2ba2527f00",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "quests",
   propertySlug: "quests",
   definition: "every quest a sweep read out of the game, one quest to a line",

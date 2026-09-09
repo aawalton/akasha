@@ -5,6 +5,7 @@ export type Snapshots = "jsonl"
 export const snapshots = {
   id: "01a06006-154e-7fe6-a4a2-35245e20fcfb",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "snapshots",
   propertySlug: "snapshots",
   definition: "what an account was worth, one reading to a line",

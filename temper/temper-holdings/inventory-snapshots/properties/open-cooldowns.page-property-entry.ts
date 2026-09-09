@@ -5,6 +5,7 @@ export type OpenCooldowns = "jsonl"
 export const openCooldowns = {
   id: "01a0675a-f185-721b-a712-f182fa1ba39b",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "open-cooldowns",
   propertySlug: "open-cooldowns",
   definition: "when each timed activity comes round again, one activity to a line",

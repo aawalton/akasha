@@ -23,6 +23,7 @@ export type WorkedSessions = readonly SessionRow[]
 export const sessions = {
   id: "01a05fd8-c30f-799b-aa06-004072744b31",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "sessions",
   propertySlug: "sessions",
   definition: "every stretch of time a day was spent in, one to a line",

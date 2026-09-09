@@ -5,6 +5,7 @@ export type Currencies = "jsonl"
 export const currencies = {
   id: "01a0675a-f185-764c-991b-b24e3698ed52",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "currencies",
   propertySlug: "currencies",
   definition: "how much of each currency is held, one purse to a line",

@@ -5,6 +5,7 @@ export type Stacks = "jsonl"
 export const stacks = {
   id: "01a06053-b382-7f4e-90f1-013329a77547",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "stacks",
   propertySlug: "stacks",
   definition: "what a reading found in every slot, one slot to a line",

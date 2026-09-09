@@ -5,6 +5,7 @@ export type PlacedFurnishings = "jsonl"
 export const placedFurnishings = {
   id: "01a0675a-f185-72b3-a56a-b5708ff6924e",
   pageTypeSlug: "page-property-entry",
+  type: "page-property-entry",
   slug: "placed-furnishings",
   propertySlug: "placed-furnishings",
   definition: "what furnishing sits in each home and what it is worth, one furnishing to a line",
