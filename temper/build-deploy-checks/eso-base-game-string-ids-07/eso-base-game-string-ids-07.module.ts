@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const esoBaseGameStringIds07 = {
   id: "01a06372-72ff-7007-a78e-30a0ffeab43c",
