@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const changeFreshness = {
   id: "01a04faa-e70a-757d-a665-8e7b7bcfd14d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "change-freshness",
   definition:
     "the rules with a change to the bodies its writer read and to the commit it was judged against",

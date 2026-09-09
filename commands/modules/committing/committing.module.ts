@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const committing = {
   id: "01a0501a-b83f-7707-afd1-d497b00b4868",
   pageTypeSlug: "module",
+  type: "module",
   slug: "committing",
   definition: "the commit a landing makes, and the proof that it carries the change",
   code: "ts",

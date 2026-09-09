@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const drafting = {
   id: "01a06315-8aa2-7993-a0d0-9ec51066ecaf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "drafting",
   definition: "the change an agent drafts into its patch rather than onto the tree",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const addressMapping = {
   id: "01a077d0-6448-771d-a561-565678d6c152",
   pageTypeSlug: "module",
+  type: "module",
   slug: "address-mapping",
   definition: "writing the type that binds each change address to that change's own arguments",
   code: "ts",

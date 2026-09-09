@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const bodyMerging = {
   id: "01a062c6-2c7a-7f20-859b-3a675a130bd0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "body-merging",
   definition:
     "three bodies merged line by line as git merges them, or the conflict that refuses a change",

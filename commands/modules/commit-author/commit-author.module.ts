@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const commitAuthor = {
   id: "01a068b1-4f80-7000-adc7-64276300358f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "commit-author",
   definition: "who a commit is authored as, read from the persona the writing seat acts under",
   code: "ts",

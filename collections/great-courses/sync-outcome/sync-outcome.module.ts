@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const syncOutcome = {
   id: "01a06580-196a-7000-9451-e53d200e3e2d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sync-outcome",
   definition:
     "an error named by kind, retried where retrying helps, and the tally a run answers with",

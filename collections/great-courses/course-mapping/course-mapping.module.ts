@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const courseMapping = {
   id: "01a06579-f3d9-7002-8c59-6aa5c1dd9e49",
   pageTypeSlug: "module",
+  type: "module",
   slug: "course-mapping",
   definition:
     "the shelves a course sits on, taken from the subjects whose listing names that course",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gateBuilding = {
   id: "01a0531c-b3ec-7f09-a560-bb87dc11609d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "gate-building",
   definition: "the checks and the index loaded by path when wanted, and the gate built from them",
   code: "ts",

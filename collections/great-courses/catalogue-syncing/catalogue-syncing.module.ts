@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const catalogueSyncing = {
   id: "01a0686a-7a57-7999-b904-b23c1ed07377",
   pageTypeSlug: "module",
+  type: "module",
   slug: "catalogue-syncing",
   definition: "the Great Courses catalogue read and a page filed for each course not already held",
   code: "ts",

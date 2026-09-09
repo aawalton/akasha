@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const valueInserting = {
   id: "01a07be9-0fe1-71dc-a802-443ecc56fe31",
   pageTypeSlug: "module",
+  type: "module",
   slug: "value-inserting",
   definition: "a value put into the object literal a body declares",
   code: "ts",

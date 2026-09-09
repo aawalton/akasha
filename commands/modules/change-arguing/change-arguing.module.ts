@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const changeArguing = {
   id: "01a08174-78c9-7fb4-91e3-ca3e56c1323c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "change-arguing",
   definition: "the words a command under `akasha change` takes on the command line",
   code: "ts",

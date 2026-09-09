@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const commandFlags = {
   id: "01a07bb2-16af-7ede-bbeb-aa80a15e03e1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "command-flags",
   definition: "the values a command line has for the flags a command takes",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const catalogue = {
   id: "01a06579-f3d9-7001-8e82-d6a75a254ea0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "catalogue",
   definition:
     "the Great Courses programme listing fetched and read into courses and subject shelves",

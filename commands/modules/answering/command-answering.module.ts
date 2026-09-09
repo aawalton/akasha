@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const commandAnswering = {
   id: "01a07c6e-41a7-7d0a-8e45-27f5fb2e74f2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "command-answering",
   definition: "the answer a command hands back, and the code that answer has",
   code: "ts",

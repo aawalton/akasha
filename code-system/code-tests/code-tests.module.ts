@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const codeTests = {
   id: "01a04eb6-9e5f-7000-9bb8-11bc82309d76",
   pageTypeSlug: "module",
+  type: "module",
   slug: "code-tests",
   definition: "the runs made over the tests a change names, and what those runs said",
   code: "ts",

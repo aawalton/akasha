@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const utf8Body = {
   id: "01a06553-a9b5-76cc-b4e6-e4e42b4a0f0d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "utf8-body",
   definition: "bytes as the text they spell, and the first of them in hex where they spell none",
   code: "ts",

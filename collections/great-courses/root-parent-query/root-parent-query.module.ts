@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const rootParentQuery = {
   id: "01a06579-f3d9-7006-8368-78fe6c117de7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "root-parent-query",
   definition:
     "the date the Great Courses collection root last synced, read as a gate and written back",

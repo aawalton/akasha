@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const asking = {
   id: "01a04df0-ecce-7c46-bec3-1461348a7d55",
   pageTypeSlug: "module",
+  type: "module",
   slug: "asking",
   definition: "the change a command asks for, gated and landed and answered for",
   code: "ts",

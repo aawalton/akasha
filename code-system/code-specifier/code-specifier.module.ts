@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const codeSpecifier = {
   id: "01a04ea7-b2ea-711c-8256-13b0697772b3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "code-specifier",
   definition:
     "the strings a body holds, the ones naming a module, and the path tied to such a name",

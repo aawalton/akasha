@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const syncRun = {
   id: "01a06580-196a-7001-8989-3755d6f4c2ed",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sync-run",
   definition: "a run of a sync, failing as a unit where any item in the run failed",
   code: "ts",
