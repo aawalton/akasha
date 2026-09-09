@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const newGam3Plus0008FriendOrFoe = {
   id: "01a06730-4dcd-7dc4-b564-337e972fa38b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "new-gam3-plus-0008-friend-or-foe",
   title: "Friend or Foe",
   story: "new-gam3-plus",

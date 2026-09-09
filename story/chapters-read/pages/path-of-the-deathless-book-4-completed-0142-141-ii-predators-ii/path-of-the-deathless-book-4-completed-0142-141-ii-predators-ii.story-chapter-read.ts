@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0142141IiPredatorsIi = {
   id: "01a06730-4e0f-7e8f-b0fa-b87f56042ad8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0142-141-ii-predators-ii",
   title: "141 (II)  Predators [II] ",
   story: "path-of-the-deathless-book-4-completed",

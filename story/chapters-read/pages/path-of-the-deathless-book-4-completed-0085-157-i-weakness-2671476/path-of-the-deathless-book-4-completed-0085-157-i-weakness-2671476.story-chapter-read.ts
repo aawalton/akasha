@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0085157IWeakness2671476 = {
   id: "01a06730-4df4-78a6-ab66-2d8e57d70c5d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0085-157-i-weakness-2671476",
   title: "157 (I)  Weakness",
   story: "path-of-the-deathless-book-4-completed",

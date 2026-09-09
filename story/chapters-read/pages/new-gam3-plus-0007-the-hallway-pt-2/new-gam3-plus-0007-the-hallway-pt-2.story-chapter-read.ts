@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const newGam3Plus0007TheHallwayPt2 = {
   id: "01a06730-4dcd-7c26-b438-94a4b2049f28",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "new-gam3-plus-0007-the-hallway-pt-2",
   title: "The Hallway, Pt. 2",
   story: "new-gam3-plus",

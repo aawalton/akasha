@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0083156IiiOrichalcum2669425 = {
   id: "01a06730-4df3-7c6b-9f3a-c9379048bd87",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0083-156-iii-orichalcum-2669425",
   title: "156 (III)  Orichalcum",
   story: "path-of-the-deathless-book-4-completed",

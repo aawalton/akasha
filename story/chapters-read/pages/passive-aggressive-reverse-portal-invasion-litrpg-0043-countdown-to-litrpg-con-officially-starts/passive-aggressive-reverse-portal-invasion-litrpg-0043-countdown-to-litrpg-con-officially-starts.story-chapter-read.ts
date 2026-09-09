@@ -4,6 +4,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0043CountdownToLitrpgCo
   {
     id: "01a06730-4dd6-7ded-a07b-9d48dc0f1449",
     pageTypeSlug: "story-chapter-read",
+    type: "story-chapter-read",
     slug: "passive-aggressive-reverse-portal-invasion-litrpg-0043-countdown-to-litrpg-con-officially-starts",
     title: "Countdown to LitRPG Con officially starts / progress update.",
     story: "passive-aggressive-reverse-portal-invasion-litrpg",

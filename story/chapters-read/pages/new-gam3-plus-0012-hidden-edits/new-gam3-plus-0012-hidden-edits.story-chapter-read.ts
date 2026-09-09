@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const newGam3Plus0012HiddenEdits = {
   id: "01a06730-4dd0-799a-b723-9842f4d2e69d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "new-gam3-plus-0012-hidden-edits",
   title: "HIdden Edits",
   story: "new-gam3-plus",

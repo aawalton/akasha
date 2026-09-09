@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const passiveAggressiveReversePortalInvasionLitrpg0052Chapter45 = {
   id: "01a06730-4dd8-71e3-8534-4b2109af5d30",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0052-chapter-45",
   title: "Chapter 45",
   story: "passive-aggressive-reverse-portal-invasion-litrpg",

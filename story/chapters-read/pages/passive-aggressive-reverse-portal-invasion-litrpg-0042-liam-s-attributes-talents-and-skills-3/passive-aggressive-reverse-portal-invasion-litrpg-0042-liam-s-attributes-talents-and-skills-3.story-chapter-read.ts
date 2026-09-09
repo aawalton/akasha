@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const passiveAggressiveReversePortalInvasionLitrpg0042LiamSAttributesTalentsAndSkills3 = {
   id: "01a06730-4dd6-7744-bfa3-6fdd5e6e114b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0042-liam-s-attributes-talents-and-skills-3",
   title: "Liam’s Attributes, talents and skills 3",
   story: "passive-aggressive-reverse-portal-invasion-litrpg",

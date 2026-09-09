@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0009122IiMinionsIi2608334 = {
   id: "01a06730-4dce-7580-9a6c-4b2dec4c656f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0009-122-ii-minions-ii-2608334",
   title: "122 (II) Minions [II]",
   story: "path-of-the-deathless-book-4-completed",
