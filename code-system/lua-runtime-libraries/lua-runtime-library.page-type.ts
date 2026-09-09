@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Lua50Config } from "./properties/lua50-config.file-property.ts"
-import type { UniversalConfig } from "./properties/universal-config.file-property.ts"
-
-export type LuaRuntimeLibrary = Domain & {
-  universalConfig: UniversalConfig
-  lua50Config: Lua50Config
-}
 
 export const luaRuntimeLibrary = {
   id: "01a06759-2aa6-7000-9523-2fbcc69fd891",
@@ -59,4 +51,5 @@ export const luaRuntimeLibrary = {
         "Flattening this tree changes which file a name reaches without any name changing.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
