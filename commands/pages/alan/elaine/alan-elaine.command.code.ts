@@ -1,9 +1,9 @@
-import { fetchHealthExport } from "@akasha/health-samples-import/export-fetching"
+import { fetchHealthExport } from "akasha/alan/harness/health-samples-import/export-fetching/export-fetching.module.code.ts"
 import {
   formatSnapshot,
   SNAPSHOT_METRICS,
   summarizeSnapshot,
-} from "@akasha/health-samples-import/health-snapshot"
+} from "akasha/alan/harness/health-samples-import/health-snapshot/health-snapshot.module.code.ts"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"

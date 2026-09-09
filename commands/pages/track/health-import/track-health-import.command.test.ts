@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
-import type { ImportOutcome, ImportRunDeps } from "@akasha/health-samples-import/health-import-run"
-import { MAX_IMPORT_BATCH, NO_LOWER_BOUND } from "@akasha/health-samples-import/health-import-run"
+import type {
+  ImportOutcome,
+  ImportRunDeps,
+} from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
+import {
+  MAX_IMPORT_BATCH,
+  NO_LOWER_BOUND,
+} from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
 import {
   healthImported,
   linesOf,

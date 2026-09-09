@@ -1,15 +1,15 @@
 import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
-import { streamExportLines } from "@akasha/health-samples-import/export-fetching"
-import { buildFetchScript } from "@akasha/health-samples-import/health-export"
-import { IMPORT_METRICS } from "@akasha/health-samples-import/health-import"
-import { importReading } from "@akasha/health-samples-import/health-import-reading"
+import { streamExportLines } from "akasha/alan/harness/health-samples-import/export-fetching/export-fetching.module.code.ts"
+import { buildFetchScript } from "akasha/alan/harness/health-samples-import/health-export/health-export.module.code.ts"
+import { IMPORT_METRICS } from "akasha/alan/harness/health-samples-import/health-import/health-import.module.code.ts"
+import { importReading } from "akasha/alan/harness/health-samples-import/health-import-reading/health-import-reading.module.code.ts"
 import {
   type ImportOutcome,
   type ImportRunDeps,
   MAX_IMPORT_BATCH,
   NO_LOWER_BOUND,
   runHealthImport,
-} from "@akasha/health-samples-import/health-import-run"
+} from "akasha/alan/harness/health-samples-import/health-import-run/health-import-run.module.code.ts"
 import type { Answer } from "../../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../../command-system/calling/calling.module.code.ts"
 import { saidBy } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"

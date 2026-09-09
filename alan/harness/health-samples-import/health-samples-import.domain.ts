@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const healthSamplesImport = {
   id: "01a05c14-b11a-7006-9c17-e67776ab45af",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "health-samples-import",
   definition: "health readings taken off a machine of Alan's and brought into the store",
-  manifest: "json",
   parts: [
     "module/verdict-reading",
     "module/health-export",
@@ -32,4 +31,4 @@ export const healthSamplesImport = {
       statement: "Nothing here decides the meaning of a reading.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

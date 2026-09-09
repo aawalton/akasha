@@ -18,7 +18,6 @@
         "@akasha/google-email": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
-        "@akasha/health-samples-import": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-pool": "workspace:*",
@@ -223,13 +222,6 @@
       "dependencies": {
         "@akasha/pages": "workspace:*",
         "@akasha/pages-service": "workspace:*",
-      },
-    },
-    "alan/harness/health-samples-import": {
-      "name": "@akasha/health-samples-import",
-      "dependencies": {
-        "@akasha/health-samples-access": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "alan/harness/idle-system": {
@@ -2073,8 +2065,6 @@
     "@akasha/google-oauth": ["@akasha/google-oauth@workspace:google/oauth"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
-
-    "@akasha/health-samples-import": ["@akasha/health-samples-import@workspace:alan/harness/health-samples-import"],
 
     "@akasha/hook-system": ["@akasha/hook-system@workspace:hook-system"],
 

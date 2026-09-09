@@ -31,7 +31,7 @@ export const alanHarness = {
     "domain/imessage",
     "workspace-package/health-samples-access",
     "domain/health-samples-day",
-    "workspace-package/health-samples-import",
+    "domain/health-samples-import",
     "workspace-package/location-traces-access",
     "domain/day",
     "domain/geo-io",
