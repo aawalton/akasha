@@ -5,7 +5,6 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
   type AskDecide,
   askLimitResume,
-  LIMIT_RESUME_DECISION,
   type LimitResumeVerdict,
 } from "@akasha/seat-system/supervisor-limit-resume-answer"
 import {
@@ -20,8 +19,6 @@ import {
 } from "@akasha/seat-system/supervisor-limit-resume-send"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
 import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
-
-export { type AskDecide, LIMIT_RESUME_DECISION }
 
 const LIMIT_RESUME_INTERVAL_MS = 30_000
 
@@ -47,7 +44,7 @@ export function startLimitResumeMonitor(opts: {
   const hasRecentNudge = opts.hasRecentNudge ?? hasRecentInboundMessage
   const injectNudge =
     opts.injectNudge ??
-    (async (agentId: string, content: string): Promise<void> => {
+    (async (agentId: string, content: string): Promise<undefined> => {
       await sendMessage({
         targetAgentId: agentId,
         userId: USER_ID,
@@ -67,7 +64,7 @@ export function startLimitResumeMonitor(opts: {
   }
   let eligibleSinceMs: number | null = null
 
-  const tick = async (): Promise<void> => {
+  const tick = async (): Promise<undefined> => {
     if (tickInFlight || stopped) return
     tickInFlight = true
     try {
