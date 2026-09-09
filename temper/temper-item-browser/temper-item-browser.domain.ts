@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperItemBrowser = {
   id: "01a06178-3724-7ee9-b831-46e112ae8a76",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-item-browser",
   definition:
     "every item set in the game, what it takes to complete one, and where its pieces drop",
-  manifest: "json",
   parts: [
     "module/item-browser-constants",
     "module/item-browser-types",
@@ -50,4 +49,4 @@ export const temperItemBrowser = {
       statement: "No program in this repository rebuilds the item table.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

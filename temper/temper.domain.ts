@@ -118,7 +118,7 @@ export const temper = {
     "workspace-package/temper-items-rules-routing",
     "eso-addon/temper-trading-addon",
     "eso-addon/temper-lib-sets",
-    "workspace-package/temper-item-browser",
+    "domain/temper-item-browser",
     "workspace-package/temper-character-skills",
     "eso-addon/temper-combat-addon",
     "eso-addon/temper-lib-histoire",
