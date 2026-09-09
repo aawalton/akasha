@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0562Chapter522TheAdamantFortress = {
   id: "01a0672c-ec42-7001-bcf8-1f11b9301bb9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0562-chapter-522-the-adamant-fortress",
   title: "Chapter 522: The Adamant Fortress",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0027Chapter12VerdantPlains = {
   id: "01a06731-add3-7000-9fb1-5d1408aeced5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0027-chapter-12-verdant-plains",
   title: "Chapter 12: Verdant Plains",
   story: "story-read/ends-of-magic",

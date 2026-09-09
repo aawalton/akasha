@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression005454HeSTankyAsHell = {
   id: "01a06731-ae0f-700c-98c4-659e707e06b5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0054-54-he-s-tanky-as-hell",
   title: "54 - He's Tanky as Hell!",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

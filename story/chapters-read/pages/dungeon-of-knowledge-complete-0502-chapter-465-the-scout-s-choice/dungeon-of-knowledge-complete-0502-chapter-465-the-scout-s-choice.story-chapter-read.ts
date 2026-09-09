@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0502Chapter465TheScoutSChoice = {
   id: "01a0672c-ec23-7000-85a6-602bb90cf455",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0502-chapter-465-the-scout-s-choice",
   title: "Chapter 465: The Scout’s Choice",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0014Book5Epilogue = {
   id: "01a06731-adc7-7000-ad0c-d9743dd28dc7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0014-book-5-epilogue",
   title: "Book 5 Epilogue",
   story: "story-read/ends-of-magic",

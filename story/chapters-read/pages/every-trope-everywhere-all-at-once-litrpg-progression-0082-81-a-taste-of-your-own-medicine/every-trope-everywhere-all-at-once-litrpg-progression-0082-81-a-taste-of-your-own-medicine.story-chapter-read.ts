@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008281ATasteOfYourOwnMedicine = {
   id: "01a06731-ae11-700b-9962-961518728bfc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0082-81-a-taste-of-your-own-medicine",
   title: "81 - A Taste Of Your Own Medicine",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

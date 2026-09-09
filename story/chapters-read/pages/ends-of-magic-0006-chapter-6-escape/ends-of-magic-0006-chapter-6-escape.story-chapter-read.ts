@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0006Chapter6Escape = {
   id: "01a06731-adc2-7000-ba72-75869944b325",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0006-chapter-6-escape",
   title: "Chapter 6 Escape?",
   story: "story-read/ends-of-magic",

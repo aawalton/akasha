@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression005353TheShackledGiant = {
   id: "01a06731-ae0f-700b-82f8-d082e1687a35",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0053-53-the-shackled-giant",
   title: "53 - The Shackled Giant",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0553Chapter513CalhedronPart2 = {
   id: "01a0672c-ec3f-7001-88f7-8be2cb6d526f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0553-chapter-513-calhedron-part-2",
   title: "Chapter 513: Calhedron (Part 2)",
   story: "dungeon-of-knowledge-complete",

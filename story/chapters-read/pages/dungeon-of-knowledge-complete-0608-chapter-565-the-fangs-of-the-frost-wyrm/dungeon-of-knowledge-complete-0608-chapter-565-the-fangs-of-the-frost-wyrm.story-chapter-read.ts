@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0608Chapter565TheFangsOfTheFrostWyrm = {
   id: "01a0672c-ec63-7001-ba79-924906bdc244",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0608-chapter-565-the-fangs-of-the-frost-wyrm",
   title: "Chapter 565: The Fangs of the Frost Wyrm",
   story: "dungeon-of-knowledge-complete",

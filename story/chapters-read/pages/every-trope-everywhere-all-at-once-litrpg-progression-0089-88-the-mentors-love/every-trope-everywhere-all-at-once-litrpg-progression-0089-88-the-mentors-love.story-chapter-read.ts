@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008988TheMentorsLove = {
   id: "01a06731-ae12-7003-9e8e-d32985f183c0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0089-88-the-mentors-love",
   title: "88 - The Mentor's Love",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

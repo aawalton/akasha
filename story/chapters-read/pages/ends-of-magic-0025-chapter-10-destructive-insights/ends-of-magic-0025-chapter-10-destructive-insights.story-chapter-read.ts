@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0025Chapter10DestructiveInsights = {
   id: "01a06731-add1-7000-b644-561fb7d87006",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0025-chapter-10-destructive-insights",
   title: "Chapter 10: Destructive Insights",
   story: "story-read/ends-of-magic",

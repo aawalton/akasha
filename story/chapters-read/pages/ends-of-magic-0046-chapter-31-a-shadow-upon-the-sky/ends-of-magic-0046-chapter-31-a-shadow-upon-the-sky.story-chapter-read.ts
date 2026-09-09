@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0046Chapter31AShadowUponTheSky = {
   id: "01a06731-ade9-7000-9ddb-ccb3a756dd1c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0046-chapter-31-a-shadow-upon-the-sky",
   title: "Chapter 31:  A Shadow Upon the Sky",
   story: "story-read/ends-of-magic",

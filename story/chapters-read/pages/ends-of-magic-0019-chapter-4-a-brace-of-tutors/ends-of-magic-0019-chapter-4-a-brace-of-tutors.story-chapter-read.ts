@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0019Chapter4ABraceOfTutors = {
   id: "01a06731-adcc-7000-8c5d-e324447de07a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0019-chapter-4-a-brace-of-tutors",
   title: "Chapter 4: A Brace of Tutors",
   story: "story-read/ends-of-magic",

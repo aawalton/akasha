@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0056Chapter41AContinentOfLegend = {
   id: "01a06731-adf1-7000-bd7b-e66be05566db",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0056-chapter-41-a-continent-of-legend",
   title: "Chapter 41: A Continent of Legend",
   story: "story-read/ends-of-magic",

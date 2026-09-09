@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0563Chapter523PokingTheHornetSNest = {
   id: "01a0672c-ec43-7000-a337-f5867cffa33d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0563-chapter-523-poking-the-hornet-s-nest",
   title: "Chapter 523: Poking the Hornet’s Nest",
   story: "dungeon-of-knowledge-complete",

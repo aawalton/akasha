@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001818WelcomeToTheSkycurrentFestival = {
   id: "01a06731-ae0d-7000-bcb8-bd1d24ffcd30",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0018-18-welcome-to-the-skycurrent-festival",
   title: "18 - Welcome to the Skycurrent Festival",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

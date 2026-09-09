@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0053Chapter38RecognitionOfHeroes = {
   id: "01a06731-adee-7000-a85c-39e815669dcc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0053-chapter-38-recognition-of-heroes",
   title: "Chapter 38: Recognition of Heroes",
   story: "story-read/ends-of-magic",

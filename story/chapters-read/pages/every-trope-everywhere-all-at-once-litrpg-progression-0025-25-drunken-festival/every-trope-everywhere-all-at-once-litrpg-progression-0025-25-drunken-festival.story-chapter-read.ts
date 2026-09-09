@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002525DrunkenFestival = {
   id: "01a06731-ae0d-7007-89b9-4f48c6488178",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0025-25-drunken-festival",
   title: "25 - Drunken Festival",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

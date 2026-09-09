@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression003838CamilleTheMaid = {
   id: "01a06731-ae0e-7007-b996-175ee31266f5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0038-38-camille-the-maid",
   title: "38 - Camille the Maid",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

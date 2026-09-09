@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0551Chapter511TheRiseOfCuddlesAndTheHolyFire = {
   id: "01a0672c-ec3e-7001-833d-21ba9c213549",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0551-chapter-511-the-rise-of-cuddles-and-the-holy-fire",
   title: "Chapter 511: The Rise of Cuddles and the Holy Fire",
   story: "dungeon-of-knowledge-complete",

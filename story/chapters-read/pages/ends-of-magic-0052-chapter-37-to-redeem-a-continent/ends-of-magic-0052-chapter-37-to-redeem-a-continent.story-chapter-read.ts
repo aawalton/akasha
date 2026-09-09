@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0052Chapter37ToRedeemAContinent = {
   id: "01a06731-aded-7001-a5db-bd10a4a15c3c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0052-chapter-37-to-redeem-a-continent",
   title: "Chapter 37: To Redeem a Continent",
   story: "story-read/ends-of-magic",

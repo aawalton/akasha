@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0455Chapter418RiftChamber = {
   id: "01a0672c-ec13-7002-842c-a1e1f6dc2932",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0455-chapter-418-rift-chamber",
   title: "Chapter 418: Rift Chamber",
   story: "dungeon-of-knowledge-complete",

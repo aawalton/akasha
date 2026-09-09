@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0010BookFourProloguePreparingForConquest = {
   id: "01a06731-adc3-7002-890c-6d900d7fedbc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0010-book-four-prologue-preparing-for-conquest",
   title: "Book Four Prologue: Preparing for Conquest",
   story: "story-read/ends-of-magic",

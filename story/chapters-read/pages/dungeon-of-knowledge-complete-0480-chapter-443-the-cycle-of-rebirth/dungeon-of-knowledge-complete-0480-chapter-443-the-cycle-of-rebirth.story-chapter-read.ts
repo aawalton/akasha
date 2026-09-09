@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0480Chapter443TheCycleOfRebirth = {
   id: "01a0672c-ec1e-7002-af5f-c347825f9916",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0480-chapter-443-the-cycle-of-rebirth",
   title: "Chapter 443: The Cycle of Rebirth",
   story: "dungeon-of-knowledge-complete",

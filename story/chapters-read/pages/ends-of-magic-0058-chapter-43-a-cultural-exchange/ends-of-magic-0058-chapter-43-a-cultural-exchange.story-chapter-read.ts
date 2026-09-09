@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0058Chapter43ACulturalExchange = {
   id: "01a06731-adf5-7000-bd2f-689cd420c838",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0058-chapter-43-a-cultural-exchange",
   title: "Chapter 43: A Cultural Exchange",
   story: "story-read/ends-of-magic",

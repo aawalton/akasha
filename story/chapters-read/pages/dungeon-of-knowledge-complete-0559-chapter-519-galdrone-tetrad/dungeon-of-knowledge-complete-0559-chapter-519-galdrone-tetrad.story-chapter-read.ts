@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0559Chapter519GaldroneTetrad = {
   id: "01a0672c-ec41-7000-af7f-e1e9185f8d26",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0559-chapter-519-galdrone-tetrad",
   title: "Chapter 519: Galdrone Tetrad",
   story: "dungeon-of-knowledge-complete",

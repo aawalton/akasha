@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002424VictorsOfTheRace = {
   id: "01a06731-ae0d-7006-bd4f-6f6f36c4d1b9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0024-24-victors-of-the-race",
   title: "24 - Victors of the Race",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

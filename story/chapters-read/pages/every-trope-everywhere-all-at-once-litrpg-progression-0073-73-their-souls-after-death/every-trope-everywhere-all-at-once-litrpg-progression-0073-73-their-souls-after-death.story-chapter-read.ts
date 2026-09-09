@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression007373TheirSoulsAfterDeath = {
   id: "01a06731-ae11-7002-9259-20ef0a3088a9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0073-73-their-souls-after-death",
   title: "73 - Their Souls After Death",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

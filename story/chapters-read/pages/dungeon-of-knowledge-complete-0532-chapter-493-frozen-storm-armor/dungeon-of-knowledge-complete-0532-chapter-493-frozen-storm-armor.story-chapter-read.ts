@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0532Chapter493FrozenStormArmor = {
   id: "01a0672c-ec33-7000-8a3f-7a57a217a063",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0532-chapter-493-frozen-storm-armor",
   title: "Chapter 493: Frozen Storm Armor",
   story: "dungeon-of-knowledge-complete",

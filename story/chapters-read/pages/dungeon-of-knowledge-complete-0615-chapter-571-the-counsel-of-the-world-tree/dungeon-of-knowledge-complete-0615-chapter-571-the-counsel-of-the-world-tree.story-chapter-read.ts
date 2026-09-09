@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0615Chapter571TheCounselOfTheWorldTree = {
   id: "01a0672c-ec66-7001-b7f7-c404d0cc1949",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0615-chapter-571-the-counsel-of-the-world-tree",
   title: "Chapter 571: The Counsel of the World Tree",
   story: "dungeon-of-knowledge-complete",

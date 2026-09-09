@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002929FivePeopleFiveChests = {
   id: "01a06731-ae0d-700b-92d0-78eabead934f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0029-29-five-people-five-chests",
   title: "29 - Five People Five Chests",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

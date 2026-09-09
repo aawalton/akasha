@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression00011UnfortunatelyIMTheProtagonist = {
   id: "01a06731-ae07-7000-9b65-e4c106c8e825",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0001-1-unfortunately-i-m-the-protagonist",
   title: "1 - Unfortunately, I'm the Protagonist",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0509Chapter472MalikaSPrayer = {
   id: "01a0672c-ec28-7000-8f1d-f5f3e1720227",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0509-chapter-472-malika-s-prayer",
   title: "Chapter 472: Malika’s Prayer",
   story: "dungeon-of-knowledge-complete",

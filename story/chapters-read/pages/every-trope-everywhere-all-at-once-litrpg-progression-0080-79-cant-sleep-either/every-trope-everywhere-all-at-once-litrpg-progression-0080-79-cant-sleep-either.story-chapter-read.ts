@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008079CantSleepEither = {
   id: "01a06731-ae11-7009-9300-0fe628122800",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0080-79-cant-sleep-either",
   title: "79 - Can't Sleep Either?",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

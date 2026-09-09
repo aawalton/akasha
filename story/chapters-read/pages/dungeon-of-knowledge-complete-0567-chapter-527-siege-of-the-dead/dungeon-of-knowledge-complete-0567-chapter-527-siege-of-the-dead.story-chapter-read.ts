@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0567Chapter527SiegeOfTheDead = {
   id: "01a0672c-ec45-7001-bc8a-9b85eda89bb3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0567-chapter-527-siege-of-the-dead",
   title: "Chapter 527: Siege of the Dead",
   story: "dungeon-of-knowledge-complete",

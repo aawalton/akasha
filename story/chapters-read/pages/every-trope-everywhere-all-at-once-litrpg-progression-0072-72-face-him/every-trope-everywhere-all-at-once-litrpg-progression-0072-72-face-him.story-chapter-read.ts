@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression007272FaceHim = {
   id: "01a06731-ae11-7001-a552-5fdeb571ed9d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0072-72-face-him",
   title: "72 - Face Him",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

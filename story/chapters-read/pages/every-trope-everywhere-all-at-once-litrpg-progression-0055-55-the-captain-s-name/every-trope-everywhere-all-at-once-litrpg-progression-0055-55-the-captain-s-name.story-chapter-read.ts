@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression005555TheCaptainSName = {
   id: "01a06731-ae0f-700d-a134-0e2c790b7c98",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0055-55-the-captain-s-name",
   title: "55 - The Captain's Name",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

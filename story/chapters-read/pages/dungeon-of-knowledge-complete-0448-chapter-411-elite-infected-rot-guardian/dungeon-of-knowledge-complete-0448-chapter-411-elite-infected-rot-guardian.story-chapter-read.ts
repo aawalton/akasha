@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0448Chapter411EliteInfectedRotGuardian = {
   id: "01a0672c-ec0d-7003-9bc0-77bac3ff125b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0448-chapter-411-elite-infected-rot-guardian",
   title: "Chapter 411: Elite Infected Rot Guardian",
   story: "dungeon-of-knowledge-complete",

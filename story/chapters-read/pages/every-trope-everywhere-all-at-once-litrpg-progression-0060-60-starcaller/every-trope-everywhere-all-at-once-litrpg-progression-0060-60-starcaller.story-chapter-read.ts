@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006060Starcaller = {
   id: "01a06731-ae10-7003-889e-5a8e703ac0d1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0060-60-starcaller",
   title: "60 - Starcaller",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

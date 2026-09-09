@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0524Chapter4855MatoStatusSheetTreeForm = {
   id: "01a0672c-ec2e-7000-8573-73cbd7a51365",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0524-chapter-485-5-mato-status-sheet-tree-form",
   title: "Chapter 485.5: Mato - Status Sheet (Tree Form)",
   story: "dungeon-of-knowledge-complete",

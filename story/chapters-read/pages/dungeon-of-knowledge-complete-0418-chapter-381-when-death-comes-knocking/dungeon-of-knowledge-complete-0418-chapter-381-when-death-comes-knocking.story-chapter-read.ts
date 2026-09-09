@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0418Chapter381WhenDeathComesKnocking = {
   id: "01a0672c-ec03-7001-8b61-025f67a093f3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0418-chapter-381-when-death-comes-knocking",
   title: "Chapter 381: When Death Comes Knocking",
   story: "dungeon-of-knowledge-complete",

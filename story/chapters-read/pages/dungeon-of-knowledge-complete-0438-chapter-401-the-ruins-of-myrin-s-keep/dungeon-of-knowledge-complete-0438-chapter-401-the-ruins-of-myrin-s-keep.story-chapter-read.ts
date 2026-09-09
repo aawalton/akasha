@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0438Chapter401TheRuinsOfMyrinSKeep = {
   id: "01a0672c-ec0a-7002-9bca-9960811a49e1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0438-chapter-401-the-ruins-of-myrin-s-keep",
   title: "Chapter 401: The Ruins of Myrin’s Keep",
   story: "dungeon-of-knowledge-complete",

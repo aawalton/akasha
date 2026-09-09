@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression004747TheSecondSun = {
   id: "01a06731-ae0f-7005-90d5-fc4ea9dab212",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0047-47-the-second-sun",
   title: "47 - The Second Sun",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0577Chapter537StaffOfTheArchmage = {
   id: "01a0672c-ec4f-7001-87de-78f202589d60",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0577-chapter-537-staff-of-the-archmage",
   title: "Chapter 537: Staff of the Archmage",
   story: "dungeon-of-knowledge-complete",

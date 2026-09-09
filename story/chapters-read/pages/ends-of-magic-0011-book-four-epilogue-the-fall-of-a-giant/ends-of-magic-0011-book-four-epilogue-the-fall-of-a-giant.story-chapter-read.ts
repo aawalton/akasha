@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0011BookFourEpilogueTheFallOfAGiant = {
   id: "01a06731-adc3-7003-a0a3-9da81e738382",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0011-book-four-epilogue-the-fall-of-a-giant",
   title: "Book Four Epilogue: The Fall of a Giant",
   story: "story-read/ends-of-magic",

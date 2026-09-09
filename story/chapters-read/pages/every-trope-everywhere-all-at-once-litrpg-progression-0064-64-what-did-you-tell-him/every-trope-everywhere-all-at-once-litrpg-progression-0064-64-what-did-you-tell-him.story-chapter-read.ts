@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006464WhatDidYouTellHim = {
   id: "01a06731-ae10-7007-a65c-25065492422b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0064-64-what-did-you-tell-him",
   title: "64 - What Did You Tell Him?",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

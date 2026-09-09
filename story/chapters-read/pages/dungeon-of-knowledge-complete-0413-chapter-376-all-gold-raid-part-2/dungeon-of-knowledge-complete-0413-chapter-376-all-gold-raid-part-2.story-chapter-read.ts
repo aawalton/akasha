@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0413Chapter376AllGoldRaidPart2 = {
   id: "01a0672c-ec01-7002-8681-1106100fb2f3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0413-chapter-376-all-gold-raid-part-2",
   title: "Chapter 376: All Gold Raid (Part 2)",
   story: "dungeon-of-knowledge-complete",

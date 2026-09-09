@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008685TentOfAThousandHands = {
   id: "01a06731-ae12-7000-b49f-befbe7ad8178",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0086-85-tent-of-a-thousand-hands",
   title: "85 - Tent of a Thousand Hands",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

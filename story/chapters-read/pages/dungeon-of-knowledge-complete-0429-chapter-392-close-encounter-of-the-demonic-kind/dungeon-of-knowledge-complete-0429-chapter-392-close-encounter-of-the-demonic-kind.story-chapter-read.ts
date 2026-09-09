@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0429Chapter392CloseEncounterOfTheDemonicKind = {
   id: "01a0672c-ec08-7002-ae7c-8d0cb7ac5ede",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0429-chapter-392-close-encounter-of-the-demonic-kind",
   title: "Chapter 392: Close Encounter of the Demonic Kind",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0527Chapter488TheDevastator = {
   id: "01a0672c-ec2f-7000-be53-97bd51054102",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0527-chapter-488-the-devastator",
   title: "Chapter 488: The Devastator",
   story: "dungeon-of-knowledge-complete",

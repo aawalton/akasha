@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0033Chapter18JoinedInBattle = {
   id: "01a06731-add9-7002-a97c-415fc6c5263b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0033-chapter-18-joined-in-battle",
   title: "Chapter 18: Joined in Battle",
   story: "story-read/ends-of-magic",

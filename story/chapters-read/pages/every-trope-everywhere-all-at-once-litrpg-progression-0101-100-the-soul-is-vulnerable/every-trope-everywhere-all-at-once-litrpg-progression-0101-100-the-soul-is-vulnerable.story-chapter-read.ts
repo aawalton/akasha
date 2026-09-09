@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression0101100TheSoulIsVulnerable = {
   id: "01a07252-32ed-72b8-a7c8-f1e5a8dce952",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0101-100-the-soul-is-vulnerable",
   story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 101,

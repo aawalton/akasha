@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008382CorrectingTheMentor = {
   id: "01a06731-ae11-700c-ba22-48892bf54dd2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0083-82-correcting-the-mentor",
   title: "82 - Correcting the Mentor",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

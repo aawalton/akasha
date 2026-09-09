@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009897Galmeth = {
   id: "01a06743-b3b0-7003-980c-bb91d5a08deb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0098-97-galmeth",
   title: "97 - Gal'Meth",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0062Chapter47UnfriendlySkies = {
   id: "01a06731-adfa-7000-99a2-3942f75392b2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0062-chapter-47-unfriendly-skies",
   title: "Chapter 47: Unfriendly Skies",
   story: "story-read/ends-of-magic",

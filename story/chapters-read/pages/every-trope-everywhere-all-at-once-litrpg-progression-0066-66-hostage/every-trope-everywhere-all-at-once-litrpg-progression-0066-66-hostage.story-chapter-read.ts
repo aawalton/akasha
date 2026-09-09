@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006666Hostage = {
   id: "01a06731-ae10-7009-a0b0-ea2a91aca4d6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0066-66-hostage",
   title: "66 - Hostage",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0479Chapter442Clone = {
   id: "01a0672c-ec1e-7001-951a-b2dc909bbc54",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0479-chapter-442-clone",
   title: "Chapter 442: Clone",
   story: "dungeon-of-knowledge-complete",

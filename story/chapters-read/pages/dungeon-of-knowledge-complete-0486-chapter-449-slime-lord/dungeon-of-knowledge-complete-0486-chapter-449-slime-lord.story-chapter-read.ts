@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0486Chapter449SlimeLord = {
   id: "01a0672c-ec20-7000-90d8-36d8ceb380c7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0486-chapter-449-slime-lord",
   title: "Chapter 449: Slime Lord",
   story: "dungeon-of-knowledge-complete",

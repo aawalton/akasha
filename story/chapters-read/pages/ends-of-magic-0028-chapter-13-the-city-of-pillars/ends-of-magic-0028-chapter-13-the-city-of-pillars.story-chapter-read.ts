@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0028Chapter13TheCityOfPillars = {
   id: "01a06731-add7-7000-a6f7-ef796e31fb12",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0028-chapter-13-the-city-of-pillars",
   title: "Chapter 13: The City of Pillars",
   story: "story-read/ends-of-magic",

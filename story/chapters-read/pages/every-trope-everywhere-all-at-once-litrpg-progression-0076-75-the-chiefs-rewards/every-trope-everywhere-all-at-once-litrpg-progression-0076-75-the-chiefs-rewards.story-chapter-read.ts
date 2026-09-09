@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression007675TheChiefsRewards = {
   id: "01a06731-ae11-7005-bc3e-a5d90795c38f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0076-75-the-chiefs-rewards",
   title: "75 - The Chief's Rewards",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

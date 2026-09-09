@@ -4,6 +4,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00088ApparentlyTeaMak
   {
     id: "01a06731-ae09-7005-9a39-5a9004c9263d",
     pageTypeSlug: "story-chapter-read",
+    type: "story-chapter-read",
     slug: "every-trope-everywhere-all-at-once-litrpg-progression-0008-8-apparently-tea-making-is-mage-training",
     title: "8 - Apparently, Tea-Making Is Mage Training",
     story: "every-trope-everywhere-all-at-once-litrpg-progression",

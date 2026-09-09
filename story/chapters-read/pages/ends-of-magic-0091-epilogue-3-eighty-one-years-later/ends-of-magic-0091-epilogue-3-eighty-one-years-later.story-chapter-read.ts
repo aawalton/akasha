@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0091Epilogue3EightyOneYearsLater = {
   id: "01a06731-ae19-7000-990b-f3a0ecfe8b72",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0091-epilogue-3-eighty-one-years-later",
   title: "Epilogue 3: Eighty-one years later",
   story: "story-read/ends-of-magic",

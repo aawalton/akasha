@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0457Chapter420TheLittlestBerserker = {
   id: "01a0672c-ec14-7001-9fc7-e3fee4acd5ed",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0457-chapter-420-the-littlest-berserker",
   title: "Chapter 420: The Littlest Berserker",
   story: "dungeon-of-knowledge-complete",

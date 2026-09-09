@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0570Chapter530NendirTheCorrupted = {
   id: "01a0672c-ec49-7000-beec-ac93972432c0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0570-chapter-530-nendir-the-corrupted",
   title: "Chapter 530: Nendir, The Corrupted",
   story: "dungeon-of-knowledge-complete",

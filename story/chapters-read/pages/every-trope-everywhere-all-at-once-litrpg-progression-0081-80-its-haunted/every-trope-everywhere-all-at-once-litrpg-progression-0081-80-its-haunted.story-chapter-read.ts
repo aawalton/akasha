@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008180ItsHaunted = {
   id: "01a06731-ae11-700a-a328-9594292f9374",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0081-80-its-haunted",
   title: "80 - It's Haunted",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0035Chapter20AHeadlessCity = {
   id: "01a06731-addb-7000-9d66-86638ffbd282",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0035-chapter-20-a-headless-city",
   title: "Chapter 20: A Headless City",
   story: "story-read/ends-of-magic",

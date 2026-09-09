@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0001Chapter1ALongTrip = {
   id: "01a06731-adc1-7000-92e3-5b72cfb965cd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0001-chapter-1-a-long-trip",
   title: "Chapter 1 A long trip",
   story: "story-read/ends-of-magic",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0583Chapter543TheCityOfLight = {
   id: "01a0672c-ec55-7000-8dc5-a304f19a487b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0583-chapter-543-the-city-of-light",
   title: "Chapter 543: The City of Light",
   story: "dungeon-of-knowledge-complete",

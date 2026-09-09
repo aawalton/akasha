@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002222TooCoolToSitDown = {
   id: "01a06731-ae0d-7004-a066-7068be0f5336",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0022-22-too-cool-to-sit-down",
   title: "22 - Too Cool to Sit Down",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

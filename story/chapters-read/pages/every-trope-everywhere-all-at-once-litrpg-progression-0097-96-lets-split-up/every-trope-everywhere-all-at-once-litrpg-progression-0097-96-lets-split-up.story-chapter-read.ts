@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009796LetsSplitUp = {
   id: "01a06743-b3b0-7002-92ef-8cad3634f4b9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0097-96-lets-split-up",
   title: "96 - Let's Split Up",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

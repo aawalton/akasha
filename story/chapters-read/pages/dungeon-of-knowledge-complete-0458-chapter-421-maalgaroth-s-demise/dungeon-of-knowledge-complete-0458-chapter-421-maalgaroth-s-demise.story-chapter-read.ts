@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0458Chapter421MaalgarothSDemise = {
   id: "01a0672c-ec15-7000-b1b1-637c88b98207",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0458-chapter-421-maalgaroth-s-demise",
   title: "Chapter 421: Maalgaroth’s Demise",
   story: "dungeon-of-knowledge-complete",

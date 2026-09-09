@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0471Chapter434MalevolentOaks = {
   id: "01a0672c-ec1c-7000-b9c0-aa11ce423491",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0471-chapter-434-malevolent-oaks",
   title: "Chapter 434: Malevolent Oaks",
   story: "dungeon-of-knowledge-complete",

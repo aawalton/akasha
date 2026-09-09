@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression004949TheDragonSMadlyInLove = {
   id: "01a06731-ae0f-7007-84cc-22309320827b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0049-49-the-dragon-s-madly-in-love",
   title: "49 - The Dragon's Madly in Love",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0061Chapter46TheForsakenPeak = {
   id: "01a06731-adf9-7000-9c22-b3ccc98bb685",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0061-chapter-46-the-forsaken-peak",
   title: "Chapter 46:  The Forsaken Peak ",
   story: "story-read/ends-of-magic",

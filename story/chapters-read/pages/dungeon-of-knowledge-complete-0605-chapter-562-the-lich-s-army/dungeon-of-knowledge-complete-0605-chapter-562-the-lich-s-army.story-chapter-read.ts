@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0605Chapter562TheLichSArmy = {
   id: "01a0672c-ec62-7000-9e4f-75766d5dfb64",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0605-chapter-562-the-lich-s-army",
   title: "Chapter 562: The Lich’s Army",
   story: "dungeon-of-knowledge-complete",

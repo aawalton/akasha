@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0075Chapter60PoliticalConfrontations = {
   id: "01a06731-ae0a-7001-bccb-c9d1f2e8eecd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0075-chapter-60-political-confrontations",
   title: "Chapter 60: Political Confrontations",
   story: "story-read/ends-of-magic",

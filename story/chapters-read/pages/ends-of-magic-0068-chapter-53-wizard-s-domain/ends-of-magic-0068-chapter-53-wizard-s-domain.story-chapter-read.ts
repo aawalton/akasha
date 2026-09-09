@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0068Chapter53WizardSDomain = {
   id: "01a06731-ae01-7000-9df1-139578e13d7b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0068-chapter-53-wizard-s-domain",
   title: "Chapter 53: Wizard’s Domain",
   story: "story-read/ends-of-magic",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006161HesAmongUs = {
   id: "01a06731-ae10-7004-b97d-5c1a0a12e552",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0061-61-hes-among-us",
   title: "61 - He's Among Us",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

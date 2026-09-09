@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0500Chapter463ShadowsAndVoid = {
   id: "01a0672c-ec22-7005-b2cc-7fc4e3df5834",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0500-chapter-463-shadows-and-void",
   title: "Chapter 463: Shadows and Void",
   story: "dungeon-of-knowledge-complete",

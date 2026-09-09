@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0599Chapter5575CalenStatusSheet = {
   id: "01a0672c-ec60-7001-85fe-b5461d0d3d2c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0599-chapter-557-5-calen-status-sheet",
   title: "Chapter 557.5 Calen – Status Sheet  ",
   story: "dungeon-of-knowledge-complete",

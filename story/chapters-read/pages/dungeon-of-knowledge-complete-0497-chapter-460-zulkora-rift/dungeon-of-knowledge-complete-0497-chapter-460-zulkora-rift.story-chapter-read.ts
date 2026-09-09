@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0497Chapter460ZulkoraRift = {
   id: "01a0672c-ec22-7002-9c39-95da71f23297",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0497-chapter-460-zulkora-rift",
   title: "Chapter 460: Zulkora Rift",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0454Chapter417WielderOfTheSacredFlame = {
   id: "01a0672c-ec13-7001-9cfe-72f91686bb6e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0454-chapter-417-wielder-of-the-sacred-flame",
   title: "Chapter 417: Wielder of the Sacred Flame",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0536Chapter496DarkAndTormentedSouls = {
   id: "01a0672c-ec35-7000-a1a5-b174caa188d9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0536-chapter-496-dark-and-tormented-souls",
   title: "Chapter 496: Dark and Tormented Souls",
   story: "dungeon-of-knowledge-complete",

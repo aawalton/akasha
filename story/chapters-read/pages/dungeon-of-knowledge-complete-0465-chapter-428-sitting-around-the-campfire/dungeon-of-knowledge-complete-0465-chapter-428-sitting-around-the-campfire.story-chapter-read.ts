@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0465Chapter428SittingAroundTheCampfire = {
   id: "01a0672c-ec18-7000-8d0d-071f659be638",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0465-chapter-428-sitting-around-the-campfire",
   title: "Chapter 428: Sitting Around the Campfire",
   story: "dungeon-of-knowledge-complete",

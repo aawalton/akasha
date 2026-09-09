@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0546Chapter506EternalReverie = {
   id: "01a0672c-ec3a-7001-9307-241e9e5ecf81",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0546-chapter-506-eternal-reverie",
   title: "Chapter 506: Eternal Reverie",
   story: "dungeon-of-knowledge-complete",

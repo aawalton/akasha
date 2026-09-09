@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002626IsThisEvenADungeon = {
   id: "01a06731-ae0d-7008-a2f4-ea77090d8e98",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0026-26-is-this-even-a-dungeon",
   title: "26 - Is this even a Dungeon?",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

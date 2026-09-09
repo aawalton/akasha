@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002828ThereSNoEndToThem = {
   id: "01a06731-ae0d-700a-9a72-95f279868d74",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0028-28-there-s-no-end-to-them",
   title: "28 - There’s No End to Them",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

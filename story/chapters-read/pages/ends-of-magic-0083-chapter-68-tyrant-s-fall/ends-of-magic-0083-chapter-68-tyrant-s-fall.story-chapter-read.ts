@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0083Chapter68TyrantSFall = {
   id: "01a06731-ae0f-7001-8648-882888e6b956",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0083-chapter-68-tyrant-s-fall",
   title: "Chapter 68: Tyrant’s Fall",
   story: "story-read/ends-of-magic",

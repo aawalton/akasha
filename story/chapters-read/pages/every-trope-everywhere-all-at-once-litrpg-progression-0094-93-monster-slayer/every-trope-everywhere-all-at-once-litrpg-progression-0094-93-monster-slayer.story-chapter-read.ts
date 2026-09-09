@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009493MonsterSlayer = {
   id: "01a06731-ae12-7008-be0e-ab2f20f78486",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0094-93-monster-slayer",
   title: "93 - Monster Slayer",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

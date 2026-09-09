@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression002727TheSuspiciouslyEmptySky = {
   id: "01a06731-ae0d-7009-8594-8ab4a982c486",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0027-27-the-suspiciously-empty-sky",
   title: "27 - The Suspiciously Empty Sky",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

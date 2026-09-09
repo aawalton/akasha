@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression008483TheHumanWithWings = {
   id: "01a06731-ae11-700d-9671-dbbe52f4264a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0084-83-the-human-with-wings",
   title: "83 - The Human With Wings",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

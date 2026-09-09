@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001919DonTLetThemKnow = {
   id: "01a06731-ae0d-7001-b69d-960620028592",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0019-19-don-t-let-them-know",
   title: "19 - Don't Let Them Know",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

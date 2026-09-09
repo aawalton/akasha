@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0034Chapter19QuestorTierCombat = {
   id: "01a06731-adda-7000-87f3-e339c702fe3e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0034-chapter-19-questor-tier-combat",
   title: "Chapter 19: Questor-Tier Combat",
   story: "story-read/ends-of-magic",

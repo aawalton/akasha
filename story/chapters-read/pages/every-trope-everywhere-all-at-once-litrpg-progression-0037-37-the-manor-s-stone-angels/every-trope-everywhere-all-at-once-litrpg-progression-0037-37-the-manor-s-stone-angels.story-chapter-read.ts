@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression003737TheManorSStoneAngels = {
   id: "01a06731-ae0e-7006-8e0d-2e2258274a82",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0037-37-the-manor-s-stone-angels",
   title: "37 - The Manor's Stone Angels",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

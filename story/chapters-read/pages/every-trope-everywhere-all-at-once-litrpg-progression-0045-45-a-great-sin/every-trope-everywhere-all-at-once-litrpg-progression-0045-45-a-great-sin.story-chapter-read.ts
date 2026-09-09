@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression004545AGreatSin = {
   id: "01a06731-ae0f-7003-bbbc-ba13c37d1316",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0045-45-a-great-sin",
   title: "45 - A Great Sin",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

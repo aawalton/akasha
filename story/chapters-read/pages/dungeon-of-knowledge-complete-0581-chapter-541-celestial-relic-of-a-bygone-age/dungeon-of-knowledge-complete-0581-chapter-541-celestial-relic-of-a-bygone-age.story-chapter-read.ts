@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0581Chapter541CelestialRelicOfABygoneAge = {
   id: "01a0672c-ec51-7001-8cc4-d8a1f45adb69",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0581-chapter-541-celestial-relic-of-a-bygone-age",
   title: "Chapter 541: Celestial Relic of a Bygone Age",
   story: "dungeon-of-knowledge-complete",

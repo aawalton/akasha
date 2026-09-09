@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0045Chapter30WingedTerrors = {
   id: "01a06731-ade8-7000-97fd-e5b5090d6de3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0045-chapter-30-winged-terrors",
   title: "Chapter 30: Winged Terrors",
   story: "story-read/ends-of-magic",

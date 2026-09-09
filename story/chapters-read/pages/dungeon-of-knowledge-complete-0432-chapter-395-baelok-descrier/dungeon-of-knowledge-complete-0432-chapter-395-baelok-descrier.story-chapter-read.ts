@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0432Chapter395BaelokDescrier = {
   id: "01a0672c-ec08-7005-8d93-f7524e28fbd4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0432-chapter-395-baelok-descrier",
   title: "Chapter 395: Baelok Descrier",
   story: "dungeon-of-knowledge-complete",

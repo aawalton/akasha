@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0569Chapter529TheInnerRing = {
   id: "01a0672c-ec48-7000-8638-739193572793",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0569-chapter-529-the-inner-ring",
   title: "Chapter 529: The Inner Ring",
   story: "dungeon-of-knowledge-complete",

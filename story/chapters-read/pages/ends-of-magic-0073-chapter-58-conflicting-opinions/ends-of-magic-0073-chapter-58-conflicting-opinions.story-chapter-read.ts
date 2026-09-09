@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0073Chapter58ConflictingOpinions = {
   id: "01a06731-ae07-7000-bdda-f500d45ff0d8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0073-chapter-58-conflicting-opinions",
   title: "Chapter 58: Conflicting Opinions ",
   story: "story-read/ends-of-magic",

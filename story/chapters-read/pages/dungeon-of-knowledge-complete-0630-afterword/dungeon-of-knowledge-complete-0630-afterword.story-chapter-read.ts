@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0630Afterword = {
   id: "01a0672c-ec6c-7000-b7ca-893f0eac2d43",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0630-afterword",
   title: "Afterword",
   story: "dungeon-of-knowledge-complete",

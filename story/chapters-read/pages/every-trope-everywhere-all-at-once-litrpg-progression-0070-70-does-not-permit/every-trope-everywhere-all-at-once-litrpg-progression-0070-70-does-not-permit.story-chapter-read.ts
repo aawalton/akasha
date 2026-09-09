@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression007070DoesNotPermit = {
   id: "01a06731-ae10-700d-8fbf-e3f731fb6ea9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0070-70-does-not-permit",
   title: "70 - Does Not Permit",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

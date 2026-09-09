@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0571Chapter531ARingForALament = {
   id: "01a0672c-ec49-7001-8c36-31625759a990",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0571-chapter-531-a-ring-for-a-lament",
   title: "Chapter 531: A Ring for a Lament",
   story: "dungeon-of-knowledge-complete",

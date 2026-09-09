@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression006969BeneathTheManor = {
   id: "01a06731-ae10-700c-996c-efb8d57da28e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0069-69-beneath-the-manor",
   title: "69 - Beneath the Manor",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

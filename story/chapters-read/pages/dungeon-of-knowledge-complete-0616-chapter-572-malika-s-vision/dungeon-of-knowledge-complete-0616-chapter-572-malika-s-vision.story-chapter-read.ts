@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0616Chapter572MalikaSVision = {
   id: "01a0672c-ec66-7002-8775-ba2c19911b64",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0616-chapter-572-malika-s-vision",
   title: "Chapter 572: Malika’s Vision",
   story: "dungeon-of-knowledge-complete",

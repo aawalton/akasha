@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0030Chapter15VaultOfAdamant = {
   id: "01a06731-add8-7001-b814-79f097af3f07",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0030-chapter-15-vault-of-adamant",
   title: "Chapter 15: Vault of Adamant",
   story: "story-read/ends-of-magic",

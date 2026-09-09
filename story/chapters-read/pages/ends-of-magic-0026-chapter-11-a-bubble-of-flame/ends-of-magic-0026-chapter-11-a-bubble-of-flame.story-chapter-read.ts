@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0026Chapter11ABubbleOfFlame = {
   id: "01a06731-add2-7000-91c0-29e5178e8a36",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0026-chapter-11-a-bubble-of-flame",
   title: "Chapter 11: A Bubble of Flame",
   story: "story-read/ends-of-magic",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0548Chapter508CatAndMouse = {
   id: "01a0672c-ec3c-7000-86f0-52d13e08a722",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0548-chapter-508-cat-and-mouse",
   title: "Chapter 508: Cat and Mouse",
   story: "dungeon-of-knowledge-complete",

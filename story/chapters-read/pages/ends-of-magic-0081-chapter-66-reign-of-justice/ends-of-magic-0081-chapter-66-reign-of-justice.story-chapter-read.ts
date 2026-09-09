@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0081Chapter66ReignOfJustice = {
   id: "01a06731-ae0e-7000-9422-f982a9b10f6c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0081-chapter-66-reign-of-justice",
   title: "Chapter 66: Reign of Justice",
   story: "story-read/ends-of-magic",

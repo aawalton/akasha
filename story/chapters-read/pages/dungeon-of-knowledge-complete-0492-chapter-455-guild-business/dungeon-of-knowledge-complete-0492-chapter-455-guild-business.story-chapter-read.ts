@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0492Chapter455GuildBusiness = {
   id: "01a0672c-ec20-7006-b18c-66ce6d57ead4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0492-chapter-455-guild-business",
   title: "Chapter 455: Guild Business",
   story: "dungeon-of-knowledge-complete",

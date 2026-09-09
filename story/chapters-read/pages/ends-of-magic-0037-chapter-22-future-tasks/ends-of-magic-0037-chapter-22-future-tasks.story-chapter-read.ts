@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0037Chapter22FutureTasks = {
   id: "01a06731-addc-7001-a64b-70e4ffd3c28c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0037-chapter-22-future-tasks",
   title: "Chapter 22: Future Tasks",
   story: "story-read/ends-of-magic",

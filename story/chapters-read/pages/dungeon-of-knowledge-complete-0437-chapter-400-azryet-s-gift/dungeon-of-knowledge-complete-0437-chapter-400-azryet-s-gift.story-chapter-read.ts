@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0437Chapter400AzryetSGift = {
   id: "01a0672c-ec0a-7001-9e0e-d0669d929e54",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0437-chapter-400-azryet-s-gift",
   title: "Chapter 400: Azryet’s Gift",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0594Chapter553TheAuthorityOfTheLiving = {
   id: "01a0672c-ec5c-7000-ba56-3019fd7ba50c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0594-chapter-553-the-authority-of-the-living",
   title: "Chapter 553: The Authority of the Living",
   story: "dungeon-of-knowledge-complete",

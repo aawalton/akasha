@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression005959MissingArm = {
   id: "01a06731-ae10-7002-b5f5-0c39363bc9af",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0059-59-missing-arm",
   title: "59 - Missing Arm",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

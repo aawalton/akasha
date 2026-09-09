@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression009998ArchaicContract = {
   id: "01a06743-b3b0-7004-8d99-fb247dc49e73",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0099-98-archaic-contract",
   title: "98 - Archaic Contract",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const everyTropeEverywhereAllAtOnceLitrpgProgression001111BouncingBallOfDeath = {
   id: "01a06731-ae0c-7000-b5a7-65a7da9ac8c1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0011-11-bouncing-ball-of-death",
   title: "11 - Bouncing Ball of Death",
   story: "every-trope-everywhere-all-at-once-litrpg-progression",

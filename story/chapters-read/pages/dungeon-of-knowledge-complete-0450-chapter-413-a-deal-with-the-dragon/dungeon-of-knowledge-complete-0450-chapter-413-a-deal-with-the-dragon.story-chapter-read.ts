@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0450Chapter413ADealWithTheDragon = {
   id: "01a0672c-ec10-7000-afdf-309431aafa01",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0450-chapter-413-a-deal-with-the-dragon",
   title: "Chapter 413: A Deal with the Dragon",
   story: "dungeon-of-knowledge-complete",

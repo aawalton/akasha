@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0498Chapter461MaalgarothVersusTheSandwyrm = {
   id: "01a0672c-ec22-7003-9518-01f4c069bfe8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0498-chapter-461-maalgaroth-versus-the-sandwyrm",
   title: "Chapter 461: Maalgaroth Versus the Sandwyrm",
   story: "dungeon-of-knowledge-complete",

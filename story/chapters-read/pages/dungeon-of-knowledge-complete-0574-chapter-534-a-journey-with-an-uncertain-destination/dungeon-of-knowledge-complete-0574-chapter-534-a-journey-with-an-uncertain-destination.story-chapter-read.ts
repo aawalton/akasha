@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0574Chapter534AJourneyWithAnUncertainDestination = {
   id: "01a0672c-ec4d-7000-9c8a-bc694225e218",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0574-chapter-534-a-journey-with-an-uncertain-destination",
   title: "Chapter 534: A Journey with an Uncertain Destination",
   story: "dungeon-of-knowledge-complete",

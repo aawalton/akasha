@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0420Chapter383FleeingThroughAnAngryForest = {
   id: "01a0672c-ec04-7000-8127-f97e29cb278f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0420-chapter-383-fleeing-through-an-angry-forest",
   title: "Chapter 383: Fleeing Through an Angry Forest",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const endsOfMagic0029Chapter14ADaylightInfiltration = {
   id: "01a06731-add8-7000-ba74-c84c154a1289",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ends-of-magic-0029-chapter-14-a-daylight-infiltration",
   title: "Chapter 14: A Daylight Infiltration",
   story: "story-read/ends-of-magic",
