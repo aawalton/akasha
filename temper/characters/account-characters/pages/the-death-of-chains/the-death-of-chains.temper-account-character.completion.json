@@ -964,7 +964,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 17,
+            "numCompleted": 18,
             "numRequired": 20
           }
         }
@@ -977,7 +977,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 17,
+            "numCompleted": 18,
             "numRequired": 30
           }
         }
@@ -13339,7 +13339,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-08"
+    "date": "2026-09-09"
   },
   "dailyWritStates": {
     "completed": {
@@ -13360,7 +13360,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-08"
+    "date": "2026-09-09"
   },
   "motifKnowledge": {
     "1": {

@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATAHD8TAAIBkyhVi0_lYtP5UMmC1iJgtQuYLUMmC1C5gtEKjtRBAqUQQKlJiTHWxEEx0sAAAHNgAAAcAAAAAAAAAAAAAAgDUUABAGAoTgAIAAQABCGCADJwAzCGVAB2ABCAwIQADJIBAjAxIwgSAQCAMAHIFgBcAAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
+  "buildHash": "ATAHD7TAAIBkyhVi0_lYtP5UMmC1iJgtQuYLUMmC1C5gtEKjtRBAqUQQKlJiTHWxEEx0sAAAHNgAAAcAAAAAAAAAAAAAAgDUUABAGAoTgAIAAQABCGCADJwAzCGVAB2ABCAwIQADJIBAjAxIwgSAQCAMAHIFgBcAAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrGytkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDEEgaw",
   "gender": 1,
   "level": 50,
   "classId": 117,
@@ -9,7 +9,7 @@
   "className": "Arcanist",
   "classIcon": "/esoui/art/icons/class/class_arcanist.dds",
   "companionRapport": {
-    "13": 752
+    "13": 763
   },
   "quests": [
     465,
@@ -1115,7 +1115,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 18,
+            "numCompleted": 19,
             "numRequired": 20
           }
         }
@@ -1128,7 +1128,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 18,
+            "numCompleted": 19,
             "numRequired": 30
           }
         }
@@ -1993,7 +1993,7 @@
           "abilityIndex": 1,
           "morph1": {
             "name": "Toxic Barrage",
-            "rank": 1
+            "rank": 2
           }
         }
       },
@@ -12948,15 +12948,15 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-08"
+    "date": "2026-09-09",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
       "1": 1,
       "2": 7,
       "3": 6,
-      "4": 2,
+      "4": 6,
       "5": 4,
       "6": 4,
       "7": 5
@@ -12970,7 +12970,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-08"
+    "date": "2026-09-09"
   },
   "motifKnowledge": {
     "4": {
