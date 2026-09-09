@@ -3,6 +3,7 @@ import type { Seat } from "../seat.page-type.ts"
 export const aranya = {
   id: "01a06cf3-4196-7000-b027-4bdf82d518a6",
   pageTypeSlug: "seat",
+  type: "seat",
   slug: "aranya",
   persona: "aranya",
   assignmentSlug: "initiative/aranya-root-folder-shape",
