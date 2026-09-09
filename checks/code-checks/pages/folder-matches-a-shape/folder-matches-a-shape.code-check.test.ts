@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { NAMING_NONE } from "@akasha/code/code-specifier"
 import type { FoldersBy } from "@akasha/indexes/entries"
 import type { Change } from "@akasha/pages/change"
-import { heldIn } from "@akasha/pages/page-file-name"
+import { type Held, heldIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import {
   answeringTo,
@@ -15,8 +15,11 @@ import {
   namingFolderOf,
   type Paged,
   pageNameOf,
+  partOfOver,
   partsOver,
 } from "./folder-matches-a-shape.code-check.code.ts"
+import { folderFrom } from "./folder-matches-a-shape.code-check.test-fixtures.ts"
+import { sectionsOfTheBookAbove } from "./folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
 import {
   ancestorsOf,
   folderOf,
@@ -259,7 +262,7 @@ const FOLDER_PROPERTIES: FoldersBy = new Map([
 ])
 
 function paging(value: Value): Paged {
-  return { pageAt: () => value }
+  return { pageByPath: () => value }
 }
 
 function claimed(value: Value): readonly string[] {
@@ -275,6 +278,68 @@ test("a page stating a folder property claims the folder that property names", (
 
 test("a page stating no folder property claims its own file and nothing beside it", () => {
   expect(claimed({ pageTypeSlug: "manifest", slug: "one-manifests" })).toEqual([MANIFEST_AT])
+})
+
+const MY_MATH_AT = "alan/books/my-math/sections/beginnings.book-section.ts"
+
+const MY_STRATEGY = "alan/books/my-strategy"
+
+const MY_STRATEGY_SECTIONS = `${MY_STRATEGY}/sections`
+
+const SECTION_TYPES = new Set<string>(["alan-book", "book-section"])
+
+const SECTION_FILES = new Set<string>(["chapter-text"])
+
+const SCOPED = new Map<string, Value>([
+  [
+    MY_MATH_AT,
+    { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: ["my-math"] },
+  ],
+  [
+    `${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`,
+    { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: ["my-strategy"] },
+  ],
+  [
+    `${MY_STRATEGY_SECTIONS}/two.book-section.ts`,
+    { pageTypeSlug: "book-section", slug: "two", partOfCollections: ["my-strategy"] },
+  ],
+])
+
+const scopedPartOf = partOfOver({ pageByPath: (at) => SCOPED.get(at) ?? null })
+
+function sectioned(at: string): Held {
+  return heldIn(at, SECTION_TYPES, SECTION_FILES)
+}
+
+test("two sections slugged alike under different books each name the book holding it", () => {
+  const strategy = sectioned(`${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`)
+  expect(scopedPartOf(sectioned(MY_MATH_AT))).toEqual(["my-math"])
+  expect(scopedPartOf(strategy)).toEqual(["my-strategy"])
+})
+
+const sectionsFolder = folderFrom({
+  folder: MY_STRATEGY_SECTIONS,
+  pageTypes: SECTION_TYPES,
+  fileProperties: SECTION_FILES,
+  extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
+  holds: (at) => (at === MY_STRATEGY ? ["alan-book/my-strategy"] : []),
+  partOf: scopedPartOf,
+})
+
+test("the sections shape takes a folder whose sections the index reaches by path", () => {
+  const said = sectionsOfTheBookAbove(
+    sectionsFolder(["beginnings.book-section.ts", "two.book-section.ts"])
+  )
+  expect(said).toEqual([])
+})
+
+test("that shape still refuses a section the index cannot reach by path", () => {
+  const said = sectionsOfTheBookAbove(
+    sectionsFolder(["beginnings.book-section.ts", "stray.book-section.ts"])
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("stray.book-section.ts")
+  expect(said[0]).toContain("`my-strategy`")
 })
 
 test("the page a claimed file sits beside is the one the index names", () => {

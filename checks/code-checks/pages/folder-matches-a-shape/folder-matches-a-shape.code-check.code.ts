@@ -331,7 +331,7 @@ export function namingOver(holds: Holds): (folder: string) => string | null {
   }
 }
 
-export type Paged = Pick<Answering, "pageAt">
+export type Paged = Pick<Answering, "pageByPath">
 
 export function partsOver(
   index: Paged,
@@ -342,17 +342,15 @@ export function partsOver(
   there: IsThere
 ): (page: Held) => readonly string[] {
   return (page) => {
-    if (page.slug === null || page.pageTypeSlug === null) return [page.path]
-    const value = index.pageAt(page.pageTypeSlug, page.slug)
+    const value = index.pageByPath(page.path)
     if (value === null) return [page.path]
     return claimsOf(value, page.path, root, stated, sidecars, there, folders)
   }
 }
 
-export function partOfOver(index: Answering): (page: Held) => readonly string[] {
+export function partOfOver(index: Paged): (page: Held) => readonly string[] {
   return (page) => {
-    if (page.slug === null || page.pageTypeSlug === null) return []
-    const value = index.pageAt(page.pageTypeSlug, page.slug)
+    const value = index.pageByPath(page.path)
     if (value === null) return []
     return textsAt(value, PART_OF_COLLECTIONS) ?? []
   }
