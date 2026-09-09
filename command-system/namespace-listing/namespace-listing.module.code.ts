@@ -2,7 +2,7 @@ const UNDER = "-"
 
 const SLASH = "/"
 
-const PART_SLUGS = "partSlugs"
+const PARTS = "parts"
 
 export type Held = {
   readonly named: string
@@ -10,7 +10,7 @@ export type Held = {
 }
 
 export function partsOf(page: Record<string, unknown> | null): readonly string[] {
-  const said = page === null ? null : page[PART_SLUGS]
+  const said = page === null ? null : page[PARTS]
   if (!Array.isArray(said)) return []
   return said.filter((one): one is string => typeof one === "string")
 }

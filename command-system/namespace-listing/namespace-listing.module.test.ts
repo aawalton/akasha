@@ -11,9 +11,9 @@ import {
 const HELP = "--help"
 
 test("the parts a page names are read off it, and anything else is not", () => {
-  expect(partsOf({ partSlugs: ["command/a", "namespace/b"] })).toEqual(["command/a", "namespace/b"])
-  expect(partsOf({ partSlugs: ["command/a", 1, null] })).toEqual(["command/a"])
-  expect(partsOf({ partSlugs: "command/a" })).toEqual([])
+  expect(partsOf({ parts: ["command/a", "namespace/b"] })).toEqual(["command/a", "namespace/b"])
+  expect(partsOf({ parts: ["command/a", 1, null] })).toEqual(["command/a"])
+  expect(partsOf({ parts: "command/a" })).toEqual([])
   expect(partsOf({})).toEqual([])
   expect(partsOf(null)).toEqual([])
 })
