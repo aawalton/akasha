@@ -8,7 +8,7 @@ export const entries = {
   slug: "entries",
   propertySlug: "entries",
   definition: "what each run of a check cost, one line appended as that run ends",
-  machineWritten: true,
+  generated: true,
   invariants: [
     {
       invariantKind: "departure",

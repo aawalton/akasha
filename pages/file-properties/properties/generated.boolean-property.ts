@@ -1,12 +1,12 @@
 import type { BooleanProperty } from "@akasha/pages/boolean-property"
 
-export type MachineWritten = boolean
+export type Generated = boolean
 
-export const machineWritten = {
+export const generated = {
   id: "01a06d4d-c32a-73c2-8814-5b8f1754297f",
   pageTypeSlug: "boolean-property",
-  slug: "machine-written",
-  propertySlug: "machine-written",
+  slug: "generated",
+  propertySlug: "generated",
   definition: "whether a machine rather than an author writes the files a property has",
   invariants: [
     {

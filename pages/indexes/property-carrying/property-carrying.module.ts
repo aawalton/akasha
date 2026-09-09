@@ -80,16 +80,16 @@ export const propertyCarrying = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a machine writes the file at a path is answered here rather than by each caller.",
+        "Whether the file at a path is generated is answered here rather than by each caller.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A property naming no file says a machine writes each file the property's section names.",
+        "A property naming no file says each file the property's section names is generated.",
     },
     {
       invariantKind: "departure",
-      statement: "An index that cannot answer that is a file no machine writes.",
+      statement: "An index that cannot answer that is a file that is not generated.",
     },
     {
       invariantKind: "absence",

@@ -8,7 +8,7 @@ export const mobileWallpaper = {
   slug: "mobile-wallpaper",
   propertySlug: "mobile-wallpaper",
   definition: "the picture a persona is shown as on Alan's phone",
-  machineWritten: true,
+  generated: true,
   runsFileLength: false,
   holdsBytes: true,
   invariants: [

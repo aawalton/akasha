@@ -8,7 +8,7 @@ export const worked = {
   slug: "worked",
   propertySlug: "worked",
   definition: "the type with a page type's calculations beside its stored keys",
-  machineWritten: true,
+  generated: true,
   runsFileLength: false,
   invariants: [
     {

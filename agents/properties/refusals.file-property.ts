@@ -9,7 +9,7 @@ export const refusals = {
   propertySlug: "refusals",
   definition: "why the landing an agent last tried was refused",
   runsFileLength: false,
-  machineWritten: true,
+  generated: true,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const edits = {
   propertySlug: "edits",
   definition: "the edits an agent has answered and not yet landed",
   runsFileLength: false,
-  machineWritten: true,
+  generated: true,
   invariants: [
     {
       invariantKind: "departure",

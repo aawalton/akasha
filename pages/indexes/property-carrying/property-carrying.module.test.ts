@@ -11,9 +11,9 @@ import {
 import {
   type Carried,
   carryingOf,
+  generatedAt,
+  generates,
   heldBeside,
-  machineWrittenAt,
-  machineWrote,
   type Naming,
 } from "./property-carrying.module.code.ts"
 
@@ -219,15 +219,15 @@ function refusing(): Carried {
 }
 
 test("a property saying a machine writes its file says so of its value", () => {
-  expect(machineWrote({ machineWritten: true })).toBe(true)
+  expect(generates({ generated: true })).toBe(true)
 })
 
 test("a property saying nothing of a machine says nothing of its value", () => {
-  expect(machineWrote({ fileName: "bun.lock" })).toBe(false)
+  expect(generates({ fileName: "bun.lock" })).toBe(false)
 })
 
 test("a property saying an author writes its file says nothing of its value", () => {
-  expect(machineWrote({ machineWritten: false })).toBe(false)
+  expect(generates({ generated: false })).toBe(false)
 })
 
 const ENTRIES = idOf("9")
@@ -248,22 +248,22 @@ const SAYS: Value = {
   propertySlug: "entries",
 }
 
-test("a property naming no file says a machine writes each file its section names", () => {
+test("a property naming no file says each file its section names is generated", () => {
   const root = rooted()
-  entriesFiled(root, { ...SAYS, machineWritten: true })
-  expect(machineWrittenAt(root, SECTIONED)).toBe(true)
+  entriesFiled(root, { ...SAYS, generated: true })
+  expect(generatedAt(root, SECTIONED)).toBe(true)
 })
 
 test("a property saying nothing of a machine says nothing of the files its section names", () => {
   const root = rooted()
   entriesFiled(root, SAYS)
-  expect(machineWrittenAt(root, SECTIONED)).toBe(false)
+  expect(generatedAt(root, SECTIONED)).toBe(false)
 })
 
 test("a file carrying no section is not the file of a property naming no file", () => {
   const root = rooted()
-  entriesFiled(root, { ...SAYS, machineWritten: true })
-  expect(machineWrittenAt(root, "akasha/one.thing.ts")).toBe(false)
+  entriesFiled(root, { ...SAYS, generated: true })
+  expect(generatedAt(root, "akasha/one.thing.ts")).toBe(false)
 })
 
 test("a file is beside a property naming it where a page carrying it sits in the file's folder", () => {

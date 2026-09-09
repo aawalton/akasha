@@ -8,7 +8,7 @@ export const state = {
   slug: "state",
   propertySlug: "state",
   definition: "what a part of the editor draws now",
-  machineWritten: true,
+  generated: true,
   runsFileLength: false,
   invariants: [
     {

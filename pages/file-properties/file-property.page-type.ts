@@ -1,13 +1,13 @@
 import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 import type { FileName } from "./properties/file-name.text-property.ts"
+import type { Generated } from "./properties/generated.boolean-property.ts"
 import type { HoldsBytes } from "./properties/holds-bytes.boolean-property.ts"
-import type { MachineWritten } from "./properties/machine-written.boolean-property.ts"
 import type { RunsFileLength } from "./properties/runs-file-length.boolean-property.ts"
 
 export type FileProperty = PageProperty & {
   fileName?: FileName
-  machineWritten?: MachineWritten
+  generated?: Generated
   runsFileLength?: RunsFileLength
   holdsBytes?: HoldsBytes
 }
@@ -20,14 +20,14 @@ export const fileProperty = {
   pluralSlug: "file-properties",
   partSlugs: [
     "boolean-property/holds-bytes",
-    "boolean-property/machine-written",
+    "boolean-property/generated",
     "boolean-property/runs-file-length",
     "text-property/file-name",
   ],
   extendsSlug: ["page-type/page-property"],
   properties: [
     { pagePropertySlug: "text-property/file-name", required: false, many: false },
-    { pagePropertySlug: "boolean-property/machine-written", required: false, many: false },
+    { pagePropertySlug: "boolean-property/generated", required: false, many: false },
     { pagePropertySlug: "boolean-property/runs-file-length", required: false, many: false },
     { pagePropertySlug: "boolean-property/holds-bytes", required: false, many: false },
   ],

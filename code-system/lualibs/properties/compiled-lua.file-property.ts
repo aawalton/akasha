@@ -8,5 +8,5 @@ export const compiledLua = {
   slug: "compiled-lua",
   propertySlug: "compiled-lua",
   definition: "the Lua a compiler wrote from a page's TypeScript",
-  machineWritten: true,
+  generated: true,
 } as const satisfies FileProperty

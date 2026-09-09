@@ -21,7 +21,7 @@ export const fileItself = {
     },
     {
       invariantKind: "departure",
-      statement: "A file a machine writes warrants nothing of itself.",
+      statement: "A generated file warrants nothing of itself.",
     },
     {
       invariantKind: "departure",

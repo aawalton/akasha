@@ -25,7 +25,7 @@ const RECORD_PROPERTY = "record-property"
 
 const FILE_NAME = "fileName"
 
-const MACHINE_WRITTEN = "machineWritten"
+const GENERATED = "generated"
 
 const FILE_PROPERTY = "file-property"
 
@@ -149,8 +149,8 @@ export function heldBeside(
   return false
 }
 
-export function machineWrote(value: Value): boolean {
-  return value[MACHINE_WRITTEN] === true
+export function generates(value: Value): boolean {
+  return value[GENERATED] === true
 }
 
 function kindedIn(given: string | Reading): Kinded {
@@ -169,10 +169,10 @@ function kindedIn(given: string | Reading): Kinded {
   }
 }
 
-export function machineWrittenAt(given: string | Reading, path: string): boolean {
+export function generatedAt(given: string | Reading, path: string): boolean {
   try {
-    if (sectionHeld(path, slugsWhere(kindedIn(given), machineWrote))) return true
-    return heldBeside(path, valuesOfType(given, FILE_PROPERTY), machineWrote, (named) =>
+    if (sectionHeld(path, slugsWhere(kindedIn(given), generates))) return true
+    return heldBeside(path, valuesOfType(given, FILE_PROPERTY), generates, (named) =>
       carryingOf(given, named)
     )
   } catch {

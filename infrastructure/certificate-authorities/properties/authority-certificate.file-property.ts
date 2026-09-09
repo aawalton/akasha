@@ -9,5 +9,5 @@ export const authorityCertificate = {
   propertySlug: "authority-certificate",
   definition: "the certificate an authority signs with, and is recognised by",
   fileName: "ca.crt",
-  machineWritten: true,
+  generated: true,
 } as const satisfies FileProperty
