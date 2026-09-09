@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { SCRATCH_AT } from "../../../command-system/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "../../../../../../command-system/scratching/scratching.module.code.ts"
 import { besideArgv, pathUnder, withSessionsDeclared } from "./day-landing.module.code.ts"
 
 const ROOT = "/var/home/walton/repos/akasha"
