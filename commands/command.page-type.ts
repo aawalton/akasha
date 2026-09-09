@@ -106,6 +106,7 @@ export const command = {
     "module/piping",
     "module/command-filling",
     "module/asking",
+    "module/applying",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

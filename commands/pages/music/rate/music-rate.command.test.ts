@@ -2,12 +2,12 @@ import { expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "@akasha/changes/mechanical-change-running"
-import type { Applied } from "@akasha/command-system/applying"
 import type { Given } from "@akasha/command-system/calling"
 import { refusingWith } from "@akasha/command-system/calling/testing"
 import type { Refused } from "@akasha/command-system/landing"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import type { Applied } from "../../../modules/applying/applying.module.code.ts"
 import {
   ARTIST,
   type Landing,

@@ -17,7 +17,6 @@ export const commandSystem = {
     "module/reading",
     "module/rooting",
     "module/scratching",
-    "module/applying",
     "performance/landing-throughput",
   ],
   invariants: [

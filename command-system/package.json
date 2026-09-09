@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./applying": "./applying/applying.module.code.ts",
     "./calling": "./calling/calling.module.code.ts",
     "./calling/testing": "./calling/calling.module.test-fixtures.ts",
     "./command-answering": "./command-answering/command-answering.module.code.ts",

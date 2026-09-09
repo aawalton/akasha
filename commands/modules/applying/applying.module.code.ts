@@ -3,36 +3,30 @@ import { MEASURING } from "@akasha/code/code-tests"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt as textIn, valueAt } from "@akasha/pages/page-value"
-import type { Given as Arguments } from "../../commands/modules/argument-reading/argument-reading.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import {
-  bypassedIn,
-  glassSaid,
-  mistaking,
-  unloadableIn,
-} from "../../commands/modules/asking/asking.module.code.ts"
-import { preparing } from "../../commands/modules/change-preparing/change-preparing.module.code.ts"
+  editsOf,
+  type FileEdit,
+  landing,
+  type Refused,
+} from "../../../command-system/landing/landing.module.code.ts"
 import {
-  type Bodies,
-  owedOf,
-  type Running,
-  rebasedHeld,
-} from "../../commands/modules/drafting/drafting.module.code.ts"
-import {
-  gateBuilt,
-  NO_GATE,
-} from "../../commands/modules/gate-building/gate-building.module.code.ts"
-import { carryLanded } from "../../commands/modules/landing-reading/landing-reading.module.code.ts"
-import {
-  defaultMessage,
-  formattedSaid,
-} from "../../commands/modules/landing-saying/landing-saying.module.code.ts"
-import { installingIn } from "../../commands/modules/manifest-locking/manifest-locking.module.code.ts"
-import type { FileMove } from "../../commands/modules/path-moving/path-moving.module.code.ts"
-import { refusalsKept } from "../../commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
-import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
-import { editsOf, type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
-import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
+  blobIdOf,
+  type Reading,
+  readingIn,
+  recordRead,
+} from "../../../command-system/reading/reading.module.code.ts"
+import type { Given as Arguments } from "../argument-reading/argument-reading.module.code.ts"
+import { bypassedIn, glassSaid, mistaking, unloadableIn } from "../asking/asking.module.code.ts"
+import { preparing } from "../change-preparing/change-preparing.module.code.ts"
+import { type Bodies, owedOf, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
+import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
+import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
+import { defaultMessage, formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
+import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
+import { refusalsKept } from "../refusals-keeping/refusals-keeping.module.code.ts"
 
 const NOTHING_HELD = "no bodies were handed in, so nothing is there to apply"
 

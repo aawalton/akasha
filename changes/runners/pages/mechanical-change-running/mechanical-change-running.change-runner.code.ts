@@ -1,5 +1,8 @@
-import { type Applied, applied } from "@akasha/command-system/applying"
 import { baseOf, type Refused } from "@akasha/command-system/landing"
+import {
+  type Applied,
+  applied,
+} from "../../../../commands/modules/applying/applying.module.code.ts"
 import type { Running } from "../../../../commands/modules/drafting/drafting.module.code.ts"
 import { bodiesFrom } from "../../../../commands/modules/edits-landing/edits-landing.module.code.ts"
 import { NO_GATE } from "../../../../commands/modules/gate-building/gate-building.module.code.ts"

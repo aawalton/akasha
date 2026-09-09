@@ -3,8 +3,8 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { put } from "@akasha/testing-system/putting"
-import { applied } from "../../../command-system/applying/applying.module.code.ts"
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+import { applied } from "../applying/applying.module.code.ts"
 import {
   AGENT,
   checking,
