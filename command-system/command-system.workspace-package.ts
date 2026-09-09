@@ -23,7 +23,6 @@ export const commandSystem = {
     "module/rooting",
     "module/scratching",
     "module/applying",
-    "module/mechanical-landing",
     "module/seat-act-calling",
     "module/edits-landing",
     "module/path-moving",

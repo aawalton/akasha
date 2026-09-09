@@ -3,7 +3,11 @@ import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
-import { landingAsked, MECHANICAL, NO_CHECKS } from "../asking/asking.module.code.ts"
+import {
+  landingAsked,
+  MECHANICAL,
+  NO_CHECKS,
+} from "../../../command-system/asking/asking.module.code.ts"
 import {
   asking,
   checking,
@@ -15,8 +19,8 @@ import {
   PROPOSED,
   repoWith,
   scratch,
-} from "../asking/asking.module.test-fixtures.ts"
-import { baseOf } from "../landing/landing.module.code.ts"
+} from "../../../command-system/asking/asking.module.test-fixtures.ts"
+import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import { landedMechanically } from "./mechanical-landing.module.code.ts"
 
 afterAll(scratch.sweep)

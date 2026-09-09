@@ -20,7 +20,6 @@
     "./landing": "./landing/landing.module.code.ts",
     "./landing/testing": "./landing/landing.module.test-fixtures.ts",
     "./path-moving": "./path-moving/path-moving.module.code.ts",
-    "./mechanical-landing": "./mechanical-landing/mechanical-landing.module.code.ts",
     "./piping": "./piping/piping.module.code.ts",
     "./piping/testing": "./piping/piping.module.test-fixtures.ts",
     "./reading": "./reading/reading.module.code.ts",

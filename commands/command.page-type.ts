@@ -97,6 +97,7 @@ export const command = {
     "module/value-minting",
     "module/drafting",
     "module/gate-building",
+    "module/mechanical-landing",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",
