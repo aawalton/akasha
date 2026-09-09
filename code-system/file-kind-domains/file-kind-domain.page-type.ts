@@ -1,7 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type FileKindDomain = Domain
 
 export const fileKindDomain = {
   id: "01a06837-0535-70c2-9917-d332b4b6a505",
@@ -27,4 +24,5 @@ export const fileKindDomain = {
         "The pattern and the bytes and the splitting a kind states have no property here yet.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
