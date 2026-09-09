@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0043ChapterFortyTwoTheGarrison = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0043-chapter-forty-two-the-garrison",
   title: "Chapter Forty-Two: The Garrison",
-  partOfCollectionSlugs: ["flesh-eater-demon-evolution-litrpg"],
+  storySlug: "flesh-eater-demon-evolution-litrpg",
   position: 43,
   ownLength: 3006,
   unitSlug: "words",

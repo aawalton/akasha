@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0027Ch27AGiftForXuHong = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0027-ch27-a-gift-for-xu-hong",
   title: "Ch27 A Gift For Xu Hong",
-  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  storySlug: "five-element-overlord-i-can-upgrade-everything",
   position: 27,
   ownLength: 1374,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const forgeOfDestiny0001PrologueSmelting = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0001-prologue-smelting",
   title: "Prologue-Smelting",
-  partOfCollectionSlugs: ["forge-of-destiny"],
+  storySlug: "forge-of-destiny",
   position: 1,
   ownLength: 2325,
   unitSlug: "words",

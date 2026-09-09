@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0017Ch17AHardLesson = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0017-ch17-a-hard-lesson",
   title: "Ch17 A Hard Lesson",
-  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  storySlug: "five-element-overlord-i-can-upgrade-everything",
   position: 17,
   ownLength: 1262,
   unitSlug: "words",

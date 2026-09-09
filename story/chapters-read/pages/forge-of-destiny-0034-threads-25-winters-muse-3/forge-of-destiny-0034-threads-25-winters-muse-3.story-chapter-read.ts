@@ -5,7 +5,7 @@ export const forgeOfDestiny0034Threads25WintersMuse3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0034-threads-25-winters-muse-3",
   title: "Threads 25 Winters Muse 3",
-  partOfCollectionSlugs: ["forge-of-destiny"],
+  storySlug: "forge-of-destiny",
   position: 34,
   ownLength: 2304,
   unitSlug: "words",

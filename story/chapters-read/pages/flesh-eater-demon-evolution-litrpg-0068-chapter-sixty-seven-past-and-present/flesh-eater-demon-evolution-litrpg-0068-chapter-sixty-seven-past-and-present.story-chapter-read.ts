@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0068ChapterSixtySevenPastAndPresent =
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0068-chapter-sixty-seven-past-and-present",
   title: "Chapter Sixty-Seven: Past and Present",
-  partOfCollectionSlugs: ["flesh-eater-demon-evolution-litrpg"],
+  storySlug: "flesh-eater-demon-evolution-litrpg",
   position: 68,
   ownLength: 3101,
   unitSlug: "words",

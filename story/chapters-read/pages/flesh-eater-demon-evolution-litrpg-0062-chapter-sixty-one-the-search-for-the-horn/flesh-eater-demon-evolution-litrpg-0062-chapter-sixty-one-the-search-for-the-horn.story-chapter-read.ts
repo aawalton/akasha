@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0062ChapterSixtyOneTheSearchForTheHor
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0062-chapter-sixty-one-the-search-for-the-horn",
   title: "Chapter Sixty-One: The Search for the Horn",
-  partOfCollectionSlugs: ["flesh-eater-demon-evolution-litrpg"],
+  storySlug: "flesh-eater-demon-evolution-litrpg",
   position: 62,
   ownLength: 3585,
   unitSlug: "words",

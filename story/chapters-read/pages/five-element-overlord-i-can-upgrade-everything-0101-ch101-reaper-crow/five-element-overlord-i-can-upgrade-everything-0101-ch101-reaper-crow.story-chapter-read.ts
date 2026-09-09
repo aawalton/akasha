@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0101Ch101ReaperCrow = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0101-ch101-reaper-crow",
   title: "Ch101 Reaper Crow",
-  partOfCollectionSlugs: ["five-element-overlord-i-can-upgrade-everything"],
+  storySlug: "five-element-overlord-i-can-upgrade-everything",
   position: 101,
   ownLength: 1248,
   unitSlug: "words",
