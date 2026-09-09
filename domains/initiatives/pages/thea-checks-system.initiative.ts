@@ -8,12 +8,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement:
-        "code-file-property extends file-property, and the index finds it by what it extends.",
-      workingMemory:
-        "besides at pages/indexes/entries/index-entries.module.code.ts:53 matches file-property and page-property-entry exactly, never reading extendsSlug, and is called at 67, 109 and 189. Unwidened, a code-file-property page stating no fileName never enters the beside-file map, so page-property-has-its-file asks for nothing and file-has-its-page reports every .code.ts as claimed by no page. The finding a-file-property-is-found-by-an-exact-page-type-slug-rather-than-by-what-it-extends is answered here.",
-    },
-    {
       statement: "Every code file property is a code-file-property.",
       workingMemory:
         "A code file property is one whose file something runs, Alan's call, against the wider reading of anything written in a programming language. Clear: code, test, test-fixtures, component-code, component-test, route-code, route-test, lua, compiled-lua, lua50-code, python, rust, swift, javascript, shell, main, server, server-entry, web-entry, manifest-code. Left plain are the ones read rather than run: types, ambient-types, styles, markup, every config and manifest. 151 file property pages in all.",
