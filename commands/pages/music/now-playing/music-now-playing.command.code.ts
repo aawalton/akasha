@@ -1,9 +1,9 @@
-import type { Answer } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import {
   getCurrentlyPlaying,
   getPlaybackState,
 } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../modules/calling/calling.module.code.ts"
 
 const INPUT = 1
 

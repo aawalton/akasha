@@ -1,7 +1,5 @@
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import type { Answer } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
@@ -16,6 +14,8 @@ import {
   namesIn,
   valuesOf,
 } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const DATA = 2
 

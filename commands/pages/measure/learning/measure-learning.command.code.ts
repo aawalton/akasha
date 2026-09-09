@@ -1,10 +1,10 @@
-import type { Answer, Given } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import {
   everyTopic,
   type Topic,
   topicTreeIn,
 } from "akasha/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../modules/calling/calling.module.code.ts"
 
 const INPUT = 1
 

@@ -1,9 +1,9 @@
 import { readFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { buildComposeInput } from "akasha/google/email/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"
 import type { ComposeInput } from "akasha/google/email/email-shapes/email-shapes.module.code.ts"
+import type { Answer, Given } from "../../../../commands/modules/calling/calling.module.code.ts"
 import type { Piping } from "../../../../commands/modules/piping/piping.module.code.ts"
 import { inputIn } from "../../../../commands/modules/piping/piping.module.code.ts"
 

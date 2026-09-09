@@ -3,8 +3,8 @@ import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import { nameOf, supervisorOf } from "@akasha/seat-system/seat-reading"
 import type { Holder } from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
 import { alive } from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
-import type { Answer, Given } from "../../../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 

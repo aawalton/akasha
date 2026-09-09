@@ -1,12 +1,8 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { besideAll } from "@akasha/pages/page-beside"
-import {
-  type Answer,
-  type Given,
-  kindNamed,
-} from "../../../command-system/calling/calling.module.code.ts"
 import { BREAK_GLASS, bytesAt, mistaking, textOf, troubling } from "../asking/asking.module.code.ts"
+import { type Answer, type Given, kindNamed } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import {
   CONTENT_FILE,

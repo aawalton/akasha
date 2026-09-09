@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
 import { MECHANICAL } from "../../../modules/asking/asking.module.code.ts"
+import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import { BODYWEIGHT, poundsIn, trackWeight } from "./track-weight.command.code.ts"
 
 const GIVEN: Given = {

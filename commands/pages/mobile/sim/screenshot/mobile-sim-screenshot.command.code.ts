@@ -1,6 +1,5 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Answer } from "@akasha/command-system/calling"
 import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { screenshot } from "@akasha/mobile-cli/appium-client"
 import {
@@ -8,6 +7,7 @@ import {
   type Reading,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   flagsAloneIn,

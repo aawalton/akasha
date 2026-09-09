@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
 import { computeItemStock } from "@akasha/temper-items-core/compute-item-stock"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
@@ -17,6 +16,7 @@ import {
   latestSnapshot,
   snapshotDatabase,
 } from "../../../../../../temper/temper-commands/inventory-snapshot-reading/inventory-snapshot-reading.module.code.ts"
+import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-buy-rule-list"
 

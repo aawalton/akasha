@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
+import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import { inferenceWan } from "./inference-wan.command.code.ts"
 import { at, readIn } from "./wan-arguing/wan-arguing.module.code.ts"
 

@@ -1,4 +1,3 @@
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { requireEnv } from "@akasha/utils/narrow/require-env"
 import {
   JSON_SAID,
@@ -11,6 +10,7 @@ import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
 } from "../../../../alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   asJson,

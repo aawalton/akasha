@@ -1,5 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import { InputError, isCliError } from "@akasha/errors-core/exit-code"
 import type {
   ResolvableTrack,
@@ -13,6 +11,8 @@ import {
 } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import { startResumePlayback } from "akasha/alan/music/spotify/player/spotify-player.module.code.ts"
 import { getTrack } from "akasha/alan/music/spotify/tracks/spotify-tracks.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../modules/calling/calling.module.code.ts"
 
 const INPUT = 1
 

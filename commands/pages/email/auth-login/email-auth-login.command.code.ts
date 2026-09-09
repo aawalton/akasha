@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { emailGoogle } from "akasha/google/email/email-operations/email-operations.module.code.ts"
 import { readGoogleOauthAppCredentials } from "akasha/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
 import { googleOauthConsentSaying } from "akasha/google/oauth/oauth-consent/oauth-consent.module.code.ts"
@@ -8,6 +7,7 @@ import {
   readTaking,
   refusing,
 } from "../../../../google/email/commands/email-command-reading/email-command-reading.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 
 const CALLBACK_URL = "--callback-url"
 

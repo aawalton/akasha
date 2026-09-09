@@ -1,11 +1,11 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, resolve } from "node:path"
-import type { Answer } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { ran } from "@akasha/utils/run/running"
 import { valuesOf } from "../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { inNameOrder } from "../../../../temper/temper-commands/name-ordering/name-ordering.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../modules/calling/calling.module.code.ts"
 
 const DATA = 2
 const FAILED = 3

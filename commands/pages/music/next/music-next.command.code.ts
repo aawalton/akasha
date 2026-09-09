@@ -1,5 +1,3 @@
-import type { Answer, Given } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import { valuesOfType } from "@akasha/indexes"
 import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
 import { valueAt } from "@akasha/pages/page-value"
@@ -12,6 +10,8 @@ import type {
 import { selectNextExploration } from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
 import type { MusicRating } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../modules/calling/calling.module.code.ts"
 
 const INPUT = 1
 

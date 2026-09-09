@@ -1,8 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import type { Given } from "@akasha/command-system/calling"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { listedFiled, pageFiled } from "@akasha/indexes/testing"
+import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   infrastructureShellInitBash,
   readIn,

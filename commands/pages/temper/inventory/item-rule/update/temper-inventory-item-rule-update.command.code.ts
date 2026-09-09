@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { narrowDestination } from "@akasha/temper-items-rules-core/inventory-destination-parse"
 import { bulkUpdateItemRules } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
@@ -23,6 +22,7 @@ import {
   wholeOf,
 } from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { narrowItemAction } from "../../../../../../temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-item-rule-update"
 

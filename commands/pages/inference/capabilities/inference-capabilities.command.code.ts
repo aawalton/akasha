@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { getHost } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import { parseMfluxTools } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
@@ -12,6 +11,7 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   refusedBy,

@@ -11,7 +11,7 @@ import {
   raiseMessages,
   sentIn,
 } from "../../../../alan/track/daily/day-messages/day-messages.module.code.ts"
-import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 const SEAT = "seat"
 

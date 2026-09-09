@@ -1,6 +1,4 @@
 import { resolve } from "node:path"
-import type { Answer, Given } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { STYLE_TO_CHAPTERS } from "@akasha/temper-items-core/motif-chapter-set"
@@ -8,6 +6,8 @@ import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,
 } from "../../../../../temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const INPUT = 1
 

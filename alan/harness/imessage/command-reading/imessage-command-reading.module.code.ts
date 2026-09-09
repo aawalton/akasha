@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import type { Answer, Given } from "../../../../commands/modules/calling/calling.module.code.ts"
 import {
   asJson,
   told,

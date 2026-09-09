@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 import { openSession } from "@akasha/mobile-cli/sim-driver"
 import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
@@ -12,6 +11,7 @@ import {
   UDID_SAID,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   refusedBy,

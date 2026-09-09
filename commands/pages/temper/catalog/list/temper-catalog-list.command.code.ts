@@ -1,5 +1,5 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 
 const JSON_FLAG = "--json"
 

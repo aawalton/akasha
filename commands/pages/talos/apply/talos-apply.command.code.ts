@@ -1,7 +1,6 @@
 import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { buildNodePatch } from "@akasha/talos/build-patch"
@@ -15,6 +14,7 @@ import { readRegistryCa } from "@akasha/talos/registry-ca"
 import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
 import { decryptToTmp } from "@akasha/talos/sops"
 import { runTalosctl } from "@akasha/talos/talosctl"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 export const NODE = "--node"
 

@@ -1,7 +1,5 @@
 import type { Asking } from "@akasha/changes/mechanical-change-running"
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
-import type { Answer, Given } from "@akasha/command-system/calling"
-import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
 import { valuesOfType } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
@@ -46,6 +44,8 @@ import {
   songNamesFrom,
   songSlugFor,
 } from "../../../../alan/music/catalog/song-slug/song-slug.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { answering, refused } from "../../../modules/calling/calling.module.code.ts"
 
 const INPUT = 1
 

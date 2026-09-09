@@ -1,10 +1,10 @@
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { extractActingAccountUserId } from "../../../../alan/harness/sms-core/acting-account/acting-account.module.code.ts"
 import {
   heldAt,
   type Reading,
   wordsIn,
 } from "../../../../alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   refusedBy,
   told,

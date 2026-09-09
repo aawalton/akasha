@@ -5,7 +5,7 @@ import {
   displayNameOf,
   personasStanding,
 } from "akasha/personas/reading/persona-reading.module.code.ts"
-import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 const CLOSENESS_LEVEL = "closeness-level"
 

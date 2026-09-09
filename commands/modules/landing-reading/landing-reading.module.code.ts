@@ -1,4 +1,4 @@
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import type { Given } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import type { Running } from "../drafting/drafting.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"

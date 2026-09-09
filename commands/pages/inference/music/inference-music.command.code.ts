@@ -1,5 +1,4 @@
 import { setTimeout as sleep } from "node:timers/promises"
-import type { Answer } from "@akasha/command-system/calling"
 import { runMusic } from "@akasha/inference-clients/ace-step-client"
 import { resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
 import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
@@ -15,6 +14,7 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   refusedBy,

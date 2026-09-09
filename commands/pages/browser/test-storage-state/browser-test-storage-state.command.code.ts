@@ -1,6 +1,5 @@
 import { chmodSync, mkdirSync } from "node:fs"
 import { dirname } from "node:path"
-import type { Answer } from "@akasha/command-system/calling"
 import { playwrightStorageStatePath } from "@akasha/seat-system/mcp-registry"
 import { isInvalidCredentialsError, signInWithPassword } from "@akasha/supabase-auth/auth"
 import { assertCredentialPathAllowed } from "@akasha/supabase-auth/protected-user"
@@ -12,6 +11,7 @@ import {
 import { readBrowserTestEnv } from "akasha/browser/test-harness/browser-test-env/browser-test-env.module.code.ts"
 import { launchAndSignIn } from "akasha/browser/test-harness/harness-launch/harness-launch.module.code.ts"
 import { wordsIn } from "../../../../browser/commands/browser-command-arguing/browser-command-arguing.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import { refusedBy } from "../../../modules/command-answering/command-answering.module.code.ts"
 
 const URL_SAID = "--url"

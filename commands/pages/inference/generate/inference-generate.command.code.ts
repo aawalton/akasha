@@ -1,5 +1,4 @@
 import { writeFile } from "node:fs/promises"
-import type { Answer } from "@akasha/command-system/calling"
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
 import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
 import {
@@ -22,6 +21,7 @@ import {
   wordsIn,
   wroteTo,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   refusedBy,

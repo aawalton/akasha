@@ -3,7 +3,7 @@ import {
   rebuildPoints,
   saidOf,
 } from "../../../../alan/harness/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"
-import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 const NOTHING_REBUILT =
   "no persona was written to on any day before today, so nothing was rebuilt. A figure Alan did " +

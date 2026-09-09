@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
 import {
   keyedLines,
@@ -6,6 +5,7 @@ import {
   UDID_SAID,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   flagsAloneIn,

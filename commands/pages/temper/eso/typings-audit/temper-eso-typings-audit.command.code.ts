@@ -1,8 +1,6 @@
 import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { resolve } from "node:path"
 import { renderAuditReading, summarizeAudit } from "@akasha/checks/audit-reading"
-import type { Answer } from "@akasha/command-system/calling"
-import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import {
   buildEsoClonePopulation,
@@ -15,6 +13,8 @@ import {
   saidFor,
   saidShort,
 } from "../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+import { answering, refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const OPERATIONAL = 3
 

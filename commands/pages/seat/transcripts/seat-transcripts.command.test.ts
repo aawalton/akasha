@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Given } from "@akasha/command-system/calling"
+import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   type Held,
   saidOf,

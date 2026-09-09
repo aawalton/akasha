@@ -1,8 +1,6 @@
 import { createHash } from "node:crypto"
 import { cpSync, existsSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import type { Answer } from "@akasha/command-system/calling"
-import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
@@ -34,6 +32,8 @@ import {
   saidFor,
   saidShort,
 } from "../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+import { answering, refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const DATA = 2
 const FAILED = 3

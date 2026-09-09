@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refusingWith } from "../../../command-system/calling/calling.module.test-fixtures.ts"
+import type { Given } from "../../modules/calling/calling.module.code.ts"
+import { refusingWith } from "../../modules/calling/calling.module.test-fixtures.ts"
 import { drive, folderOf, readIn } from "./drive.command.code.ts"
 
 function given(): Given {

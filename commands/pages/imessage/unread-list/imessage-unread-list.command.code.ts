@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import type { ImessageMessage } from "../../../../alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import { buildUnreadListSql } from "../../../../alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
@@ -23,6 +22,7 @@ import {
   fetchMessages,
   resolveContactHandleRowids,
 } from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   asJson,

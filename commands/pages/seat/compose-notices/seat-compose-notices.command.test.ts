@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join, resolve } from "node:path"
-import type { Given } from "@akasha/command-system/calling"
 import { NOTICES, notices, noticesUnder, render } from "@akasha/seat-system/compose-notices"
+import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   OUT,
   pathOf,

@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Given } from "@akasha/command-system/calling"
 import { colorIn, WORKING_PAGE } from "@akasha/seat-system/seat-turn-color/testing"
 import type { SeatTurnState } from "@akasha/seat-system/seat-turn-state"
+import type { Given } from "../../modules/calling/calling.module.code.ts"
 import {
   agentTurnColors,
   colorsOfStates,

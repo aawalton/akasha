@@ -6,9 +6,9 @@ import {
 import { planSeatResolution, resolveSeatTarget } from "@akasha/seat-system/seat-handle"
 import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
 import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
-import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../modules/calling/calling.module.code.ts"
 import { liveSeats } from "../../../modules/live-gateway-seats/live-gateway-seats.module.code.ts"
 
 export const FLEET = "--fleet"

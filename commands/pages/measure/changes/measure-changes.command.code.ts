@@ -1,4 +1,4 @@
-import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { CHANGE, costsIn } from "../../../modules/change-measuring/change-measuring.module.code.ts"
 import { linesOf, windowIn } from "../../../modules/check-measuring/check-measuring.module.code.ts"
 

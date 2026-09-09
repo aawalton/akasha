@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { HOSTS } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import { parseActualState } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
 import { runSshCapture } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
@@ -8,6 +7,7 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   refusedBy,

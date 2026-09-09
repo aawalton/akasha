@@ -1,4 +1,4 @@
-import type { Answer } from "@akasha/command-system/calling"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   type Asked,
   agentIdFor,

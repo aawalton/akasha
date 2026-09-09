@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { emailGoogle } from "akasha/google/email/email-operations/email-operations.module.code.ts"
 import {
   answeredBy,
@@ -8,6 +7,7 @@ import {
   readTaking,
   refusing,
 } from "../../../../../google/email/commands/email-command-reading/email-command-reading.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 
 const ADD = "--add"
 

@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import {
   answering,
   JSON_FLAG,
@@ -13,6 +12,7 @@ import {
   ITEM_RULE_COLUMNS,
   itemRuleRow,
 } from "../../../../../../temper/temper-commands/inventory-rule-rows/inventory-rule-rows.module.code.ts"
+import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-item-rule-list"
 

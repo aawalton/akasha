@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { longPressDrag } from "@akasha/mobile-cli/appium-client"
 import {
   countOf,
@@ -7,6 +6,7 @@ import {
   type Said,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   flagsAloneIn,

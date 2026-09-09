@@ -5,7 +5,7 @@ import {
   takeReadings,
 } from "../../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
 import { totalAttributes } from "../../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
-import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 const NOTHING_REBUILT =
   "no attribute could be added up over the days before today, so nothing was rebuilt. A figure " +

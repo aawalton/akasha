@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { bulkUpdateCategoryRules } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import {
   ACTIVE,
@@ -26,6 +25,7 @@ import {
   parseConditionsJson,
   parseDestinationChainJson,
 } from "../../../../../../temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-rule-update"
 

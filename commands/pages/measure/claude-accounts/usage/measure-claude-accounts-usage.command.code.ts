@@ -1,6 +1,6 @@
 import { linesOf, readingsIn } from "@akasha/agents/claude-account-measuring"
 import { notesOf, refreshAll } from "@akasha/agents/claude-account-refreshing"
-import type { Answer, Given } from "../../../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 
 export async function measureClaudeAccountsUsage(
   _argv: readonly string[],

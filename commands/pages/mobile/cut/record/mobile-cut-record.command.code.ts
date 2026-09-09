@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import type { CutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
 import { readLatestCutFingerprint, recordCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
 import {
@@ -8,6 +7,7 @@ import {
   type Reading,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   flagsAloneIn,

@@ -1,7 +1,5 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
-import type { Answer } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { CATALOG_DOMAIN_KEYS } from "@akasha/temper-catalog-core/domain-keys"
 import { resolveSideFilePath } from "akasha/temper/catalog-side-file/catalog-file-paths/catalog-file-paths.module.code.ts"
@@ -11,6 +9,8 @@ import {
   serializeSideFile,
 } from "akasha/temper/catalog-side-file/catalog-side-file/catalog-side-file.module.code.ts"
 import { valuesOf } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const SAID_WRONG = 1
 

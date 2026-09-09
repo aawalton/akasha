@@ -1,5 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import { addCategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-settings"
 import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
@@ -22,6 +20,8 @@ import {
   narrowStockScope,
   parseConditionsJson,
 } from "../../../../../../temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../../../modules/calling/calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-rule-create"
 

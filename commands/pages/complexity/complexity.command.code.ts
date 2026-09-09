@@ -10,8 +10,8 @@ import {
   percentile,
   resolveAnalysisInputs,
 } from "akasha/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.code.ts"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { quoted } from "../../modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 export const CYCLOMATIC = "cyclomatic"

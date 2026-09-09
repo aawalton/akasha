@@ -1,7 +1,7 @@
-import type { Answer } from "@akasha/command-system/calling"
-import { refused } from "@akasha/command-system/calling"
 import type { ParsedItemLink } from "@akasha/temper-items-core/item-link-parser"
 import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../../modules/calling/calling.module.code.ts"
 
 const DATA = 2
 

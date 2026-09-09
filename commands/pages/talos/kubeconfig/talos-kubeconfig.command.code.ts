@@ -1,11 +1,11 @@
 import { existsSync } from "node:fs"
 import { mkdir } from "node:fs/promises"
 import { dirname, resolve } from "node:path"
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { DEFAULT_CLUSTER_NAME } from "@akasha/talos/nodes"
 import { clusterKubeconfigPath, clusterTalosconfigPath } from "@akasha/talos/paths"
 import { runTalosctl } from "@akasha/talos/talosctl"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 export const IP = "--ip"
 

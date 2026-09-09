@@ -8,7 +8,7 @@ import type { World } from "@akasha/changes/change-shadow"
 import { editsIn, keptEdits } from "@akasha/changes/edits-keeping"
 import { handedPageOf } from "@akasha/changes/subagent-handed"
 import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
-import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
+import type { Answer } from "../calling/calling.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
 import { type Applying, type Chosen, changing, type Over } from "./change-running.module.code.ts"
 

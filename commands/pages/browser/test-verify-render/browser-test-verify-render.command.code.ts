@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import {
   readBrowserTestEnv,
   readRealUserOptInEnv,
@@ -31,6 +30,7 @@ import {
   planTitleSettleWait,
   planVerifyRenderSession,
 } from "../../../../browser/commands/verify-render-plan/verify-render-plan.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import { refusedBy } from "../../../modules/command-answering/command-answering.module.code.ts"
 
 const URL_SAID = "--url"

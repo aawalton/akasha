@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { addBuyRule, bulkUpdateBuyRules } from "@akasha/temper-items-rules-core/buy-rule-settings"
 import type { BuyRule, BuySource } from "@akasha/temper-items-rules-core/buy-rule-types"
 import {
@@ -19,6 +18,7 @@ import {
   wholeOf,
 } from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import { BUY_SOURCE_VALUES } from "../../../../../../temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-buy-rule-create"
 

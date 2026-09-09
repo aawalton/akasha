@@ -2,8 +2,6 @@ import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
-import type { Answer } from "@akasha/command-system/calling"
-import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import {
   esoCloneHeaderLines,
@@ -28,6 +26,8 @@ import {
   saidFor,
   saidShort,
 } from "../../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+import { answering, refused } from "../../../../../modules/calling/calling.module.code.ts"
 
 const DATA = 2
 

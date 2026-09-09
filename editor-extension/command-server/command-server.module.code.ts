@@ -33,7 +33,7 @@ Commands: ${COMMANDS_SERVED.join(", ")}
 async function commandFile(command: string): Promise<string> {
   try {
     const { akashaRoot } = await import("@akasha/pages/checkout-roots")
-    const { commandFileIn } = await import("@akasha/command-system/calling")
+    const { commandFileIn } = await import("../../commands/modules/calling/calling.module.code.ts")
     return commandFileIn(akashaRoot(), command) ?? command
   } catch {
     return command
@@ -84,7 +84,7 @@ const CALLED: ReadonlySet<string> = new Set([
 ])
 
 async function called(command: string, argv: readonly string[]): Promise<number> {
-  const { calling } = await import("@akasha/command-system/calling")
+  const { calling } = await import("../../commands/modules/calling/calling.module.code.ts")
   const { akashaRoot } = await import("@akasha/pages/checkout-roots")
   const root = akashaRoot()
   const answer = await calling([command, ...argv], {

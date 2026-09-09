@@ -1,9 +1,9 @@
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { typeSlugOf } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { aliasIndexesIn } from "../../../../agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 

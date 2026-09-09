@@ -1,8 +1,8 @@
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { colorsOf } from "@akasha/seat-system/agent-turn-drawn"
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { SEAT_TURN_STATES, type SeatTurnState } from "@akasha/seat-system/seat-turn-state"
+import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 
 export const STATE = "--state"
 

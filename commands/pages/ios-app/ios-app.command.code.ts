@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { type Plan, planFor } from "@akasha/code/app-building"
 import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { ran as running } from "@akasha/utils/run/running"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 
 export const BUILD = "build"
 

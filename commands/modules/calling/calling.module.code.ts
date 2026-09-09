@@ -3,7 +3,10 @@ import { join, resolve } from "node:path"
 import { indexNamed, indexThere, listedAt, slugsOfType, typeSlugById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
-import { costRecorded, opening } from "../../checks/modules/cost/check-cost.module.code.ts"
+import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
+import { saidBy } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { HelpNotes } from "../../properties/help-notes.text-property.ts"
+import type { Taking } from "../../properties/taking.record-property.ts"
 import {
   type Held,
   listingOf,
@@ -12,19 +15,9 @@ import {
   spaced,
   underOf,
   widest,
-} from "../../commands/modules/namespace-listing/namespace-listing.module.code.ts"
-import {
-  secondsIn,
-  watching,
-} from "../../commands/modules/stopping/command-stopping.module.code.ts"
-import {
-  type Reached,
-  saidIn,
-  walkingIn,
-} from "../../commands/modules/walking/command-walking.module.code.ts"
-import type { HelpNotes } from "../../commands/properties/help-notes.text-property.ts"
-import type { Taking } from "../../commands/properties/taking.record-property.ts"
-import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
+} from "../namespace-listing/namespace-listing.module.code.ts"
+import { secondsIn, watching } from "../stopping/command-stopping.module.code.ts"
+import { type Reached, saidIn, walkingIn } from "../walking/command-walking.module.code.ts"
 
 export type Kind = {
   readonly slug: string

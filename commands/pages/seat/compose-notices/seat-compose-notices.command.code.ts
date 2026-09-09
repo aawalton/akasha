@@ -1,8 +1,8 @@
 import { writeFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { notices } from "@akasha/seat-system/compose-notices"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 export const OUT = "--out"
 

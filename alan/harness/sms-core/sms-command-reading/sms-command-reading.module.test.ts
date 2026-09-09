@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { Given } from "@akasha/command-system/calling"
+import type { Given } from "../../../../commands/modules/calling/calling.module.code.ts"
 import { JSON_SAID, proseIn, wordsIn } from "./sms-command-reading.module.code.ts"
 
 const TEXT = { said: "--text", file: "--text-file" }

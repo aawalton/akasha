@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { reconcile } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
 import {
@@ -6,6 +5,7 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   refusedBy,

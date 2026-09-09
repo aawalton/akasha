@@ -27,9 +27,9 @@ import {
 import { resolveWorktreePath } from "@akasha/service/dev-server-worktree"
 import { errnoCodeOf } from "@akasha/utils/process/pid-signal"
 import { enforceMemoryGuard } from "@akasha/utils/system/memory-guard"
-import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { refused } from "../../../modules/calling/calling.module.code.ts"
 import { namesDrawn } from "../../../modules/name-drawing/name-drawing.module.code.ts"
 import { lastLinesOf } from "./last-lines/last-lines.module.code.ts"
 

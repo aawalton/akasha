@@ -2,8 +2,6 @@ import { readFileSync, realpathSync, statSync } from "node:fs"
 import { resolve } from "node:path"
 import type { SeriesSpec } from "@akasha/code/name-series"
 import { byteLength, renderSeries, stageSeries } from "@akasha/code/name-series"
-import type { Answer } from "@akasha/command-system/calling"
-import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
 import { esoDocPathForLuaRoot } from "@akasha/temper-build-deploy-checks/eso-doc-api-version"
 import {
@@ -21,6 +19,8 @@ import {
   saidShort,
   stagingAt,
 } from "../../../../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
+import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
+import { answering, refused } from "../../../../../modules/calling/calling.module.code.ts"
 
 const DATA = 2
 

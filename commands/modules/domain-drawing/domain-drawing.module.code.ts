@@ -2,8 +2,8 @@ import { readingIn, valuesOfType } from "@akasha/indexes"
 import { kindsUnder } from "@akasha/pages/page-type-descent"
 import { valueAt } from "@akasha/pages/page-value"
 import { textAt, type Value } from "@akasha/pages/page-value-reading"
-import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { Answer } from "../calling/calling.module.code.ts"
 
 export const DOMAINS = "domains"
 

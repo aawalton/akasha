@@ -3,8 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./calling": "./calling/calling.module.code.ts",
-    "./calling/testing": "./calling/calling.module.test-fixtures.ts",
     "./fault-saying": "./fault-saying/fault-saying.module.code.ts",
     "./rooting": "./rooting/rooting.module.code.ts",
     "./scratching": "./scratching/scratching.module.code.ts",

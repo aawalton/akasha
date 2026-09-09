@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import type { Answer, Given } from "@akasha/command-system/calling"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   declarationLines,

@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { buildInputSources } from "@akasha/mobile-cli/build-input-sources"
 import type { CurrentTreeState } from "@akasha/mobile-cli/cut-fingerprint"
 import { compareCutStatus, readLatestCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
@@ -20,6 +19,7 @@ import {
   type Reading,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   asJson,

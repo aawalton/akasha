@@ -1,4 +1,4 @@
-import type { Given } from "../../../../../command-system/calling/calling.module.code.ts"
+import type { Given } from "../../../../modules/calling/calling.module.code.ts"
 import {
   heldOnce,
   numberIn as numbered,

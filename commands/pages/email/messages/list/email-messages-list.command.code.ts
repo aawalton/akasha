@@ -1,4 +1,3 @@
-import type { Answer, Given } from "@akasha/command-system/calling"
 import { listMessages } from "akasha/google/email/email-message-fetching/email-message-fetching.module.code.ts"
 import {
   answeredBy,
@@ -11,6 +10,7 @@ import {
   readTaking,
   refusing,
 } from "../../../../../google/email/commands/email-command-reading/email-command-reading.module.code.ts"
+import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 
 const QUERY = "--query"
 

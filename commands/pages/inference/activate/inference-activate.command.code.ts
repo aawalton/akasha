@@ -1,4 +1,3 @@
-import type { Answer } from "@akasha/command-system/calling"
 import { copActivate, findCop } from "akasha/inference/pool/cop-admin/cop-admin.module.code.ts"
 import {
   aloneIn,
@@ -6,6 +5,7 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
 import {
   answering,
   refusedBy,

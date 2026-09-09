@@ -1,5 +1,5 @@
 import { changingOf, owedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
-import type { Given } from "../../../command-system/calling/calling.module.code.ts"
+import type { Given } from "../calling/calling.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 
 export function unwarrantedIn(given: Given, changes: readonly FileEdit[]): readonly string[] {
