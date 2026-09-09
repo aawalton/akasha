@@ -1911,6 +1911,14 @@
     "temper/lib-zone": {
       "name": "@akasha/temper-lib-zone",
     },
+    "temper/lorebooks": {
+      "name": "@akasha/temper-lorebooks",
+      "dependencies": {
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
+    },
     "temper/lost-treasure": {
       "name": "@akasha/temper-lost-treasure",
       "dependencies": {
@@ -2470,14 +2478,6 @@
     },
     "temper/temper-lib-treasure": {
       "name": "@akasha/temper-lib-treasure",
-    },
-    "temper/temper-lorebooks": {
-      "name": "@akasha/temper-lorebooks",
-      "dependencies": {
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
     },
     "temper/temper-navigation-addon": {
       "name": "@akasha/temper-navigation-addon",
@@ -3251,7 +3251,7 @@
 
     "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/lib-zone"],
 
-    "@akasha/temper-lorebooks": ["@akasha/temper-lorebooks@workspace:temper/temper-lorebooks"],
+    "@akasha/temper-lorebooks": ["@akasha/temper-lorebooks@workspace:temper/lorebooks"],
 
     "@akasha/temper-lost-treasure": ["@akasha/temper-lost-treasure@workspace:temper/lost-treasure"],
 
