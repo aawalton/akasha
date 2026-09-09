@@ -91,8 +91,6 @@ export function preparing(
 ): Prepared | Refused {
   const formatting = formattingIn(root, changes, already)
   const authored = foldedOver(changes, bodiedFrom(formatting.edits))
-  const unexportable = unexportableIn(authored)
-  if (unexportable.length > 0) return { refusals: unexportable }
   const stated = rowsFrom(root, base, authored)
   if ("why" in stated) return { refusals: [stated.why] }
   const moved: readonly Moving[] = moves.map((one) => ({
@@ -101,6 +99,8 @@ export function preparing(
     pathTo: one.to,
   }))
   const rows = [...moved, ...stated.rows]
+  const unexportable = unexportableIn(rows)
+  if (unexportable.length > 0) return { refusals: unexportable }
   const locking = lockingFor(root, base, rows)
   const change = changeOf(root, base, rows)
   const worked = workedFor(change)
