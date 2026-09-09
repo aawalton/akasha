@@ -26,7 +26,7 @@ export const changeMechanicalFolder = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "No rung here makes a folder, git holding no folder that is empty.",
+      statement: "No rung here makes a folder, and git has no folder that is empty.",
     },
     {
       invariantKind: "absence",
