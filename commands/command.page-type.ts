@@ -66,6 +66,7 @@ export const command = {
     "namespace/initiative",
     "namespace/alan",
     "namespace/infrastructure",
+    "command/performance",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",
