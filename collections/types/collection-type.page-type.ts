@@ -1,12 +1,12 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { UnitSlug } from "../properties/unit-slug.relation-property.ts"
+import type { CollectionUnit } from "../properties/collection-unit.relation-property.ts"
 import type { CollectionTypeStatus } from "./properties/collection-type-status.select-property.ts"
 
 export type CollectionType = Page & {
   title: Title
-  unit?: UnitSlug
+  unit?: CollectionUnit
   collectionTypeStatus: CollectionTypeStatus
 }
 
@@ -20,7 +20,7 @@ export const collectionType = {
   parts: ["select-property/collection-type-status"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/unit-slug", required: false, many: false },
+    { pageProperty: "relation-property/collection-unit", required: false, many: false },
     { pageProperty: "select-property/collection-type-status", required: true, many: false },
   ],
   invariants: [

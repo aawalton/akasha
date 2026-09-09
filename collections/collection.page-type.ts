@@ -5,6 +5,7 @@ import type { CollectionCompletedAt } from "./properties/collection-completed-at
 import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
 import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
 import type { CollectionType } from "./properties/collection-type.relation-property.ts"
+import type { CollectionUnit } from "./properties/collection-unit.relation-property.ts"
 import type { Following } from "./properties/following.boolean-property.ts"
 import type { OwnLength } from "./properties/own-length.number-property.ts"
 import type { OwnProgress } from "./properties/own-progress.number-property.ts"
@@ -14,7 +15,6 @@ import type { PartsProgressInWords } from "./properties/parts-progress-in-words.
 import type { Position } from "./properties/position.number-property.ts"
 import type { Rank } from "./properties/rank.rank-property.ts"
 import type { Status } from "./properties/status.select-property.ts"
-import type { UnitSlug } from "./properties/unit-slug.relation-property.ts"
 import type { UnitWords } from "./properties/unit-words.number-property.ts"
 
 export type Collection = Page & {
@@ -31,7 +31,7 @@ export type Collection = Page & {
   rank?: Rank
   status?: Status
   tags?: readonly CollectionTags[]
-  unit?: UnitSlug
+  unit?: CollectionUnit
   unitWords?: UnitWords
   collectionType?: CollectionType
 }
@@ -75,7 +75,7 @@ export const collection = {
     "rank-property/rank",
     "relation-property/collection-type",
     "relation-property/part-of-collections",
-    "relation-property/unit-slug",
+    "relation-property/collection-unit",
     "select-property/status",
     "text-property/collection-author",
     "text-property/collection-tags",
@@ -118,7 +118,7 @@ export const collection = {
       many: true,
       maxCount: null,
     },
-    { pageProperty: "relation-property/unit-slug", required: false, many: false },
+    { pageProperty: "relation-property/collection-unit", required: false, many: false },
     { pageProperty: "computed-property/collection-completion", required: false, many: false },
     { pageProperty: "relation-property/collection-type", required: false, many: false },
     { pageProperty: "computed-property/own-length-in-words", required: false, many: false },
