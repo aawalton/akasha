@@ -5,5 +5,5 @@ export const personaCraftDaysAll = {
   pageTypeSlug: "page-query",
   slug: "persona-craft-days-all",
   asksOfSlug: "persona-craft-day",
-  keys: ["personaSlug", "date", "valueSlug", "advanceCount", "newPersonaCount", "improvementCount"],
+  keys: ["persona", "date", "valueSlug", "advanceCount", "newPersonaCount", "improvementCount"],
 } as const satisfies PageQuery
