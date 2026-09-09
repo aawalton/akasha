@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0069Chapter149EconomyOfScale = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0069-chapter-149-economy-of-scale",
   title: "Chapter 149: Economy of Scale",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 69,
   ownLength: 6254,
   unitSlug: "words",

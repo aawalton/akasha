@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0042Chapter122RemnantsOfABygoneAge = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0042-chapter-122-remnants-of-a-bygone-age",
   title: "Chapter 122: Remnants of a bygone age.",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 42,
   ownLength: 6877,
   unitSlug: "words",

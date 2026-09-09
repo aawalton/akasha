@@ -5,7 +5,7 @@ export const theGiftOfLoot0056Chapter56AboutThoseClasses = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0056-chapter-56-about-those-classes",
   title: "Chapter 56: About Those Classes...",
-  partOfCollectionSlugs: ["the-gift-of-loot"],
+  storySlug: "the-gift-of-loot",
   position: 56,
   ownLength: 2204,
   unitSlug: "words",

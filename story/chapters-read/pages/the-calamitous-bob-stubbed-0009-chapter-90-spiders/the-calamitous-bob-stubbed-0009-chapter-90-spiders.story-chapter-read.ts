@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0009Chapter90Spiders = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0009-chapter-90-spiders",
   title: "Chapter 90: SPIDERS!",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 9,
   ownLength: 4290,
   unitSlug: "words",

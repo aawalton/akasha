@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0165Epilogue = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0165-epilogue",
   title: "Epilogue",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 165,
   ownLength: 973,
   unitSlug: "words",

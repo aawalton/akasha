@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0164NewspapersExtractsFromTheHarrakanGazette
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0164-newspapers-extracts-from-the-harrakan-gazette-127-years-afte",
   title: "Newspapers extracts from the ‘Harrakan Gazette’, 127 years after the rise of New Harrak.",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 164,
   ownLength: 908,
   unitSlug: "words",

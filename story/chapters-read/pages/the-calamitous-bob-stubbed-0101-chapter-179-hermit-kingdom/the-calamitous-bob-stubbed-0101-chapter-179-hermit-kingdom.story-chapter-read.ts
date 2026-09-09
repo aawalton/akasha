@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0101Chapter179HermitKingdom = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0101-chapter-179-hermit-kingdom",
   title: "Chapter 179: Hermit Kingdom",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 101,
   ownLength: 5730,
   unitSlug: "words",

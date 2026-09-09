@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0096Chapter174Theomachia = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0096-chapter-174-theomachia",
   title: "Chapter 174: Theomachia",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 96,
   ownLength: 5419,
   unitSlug: "words",

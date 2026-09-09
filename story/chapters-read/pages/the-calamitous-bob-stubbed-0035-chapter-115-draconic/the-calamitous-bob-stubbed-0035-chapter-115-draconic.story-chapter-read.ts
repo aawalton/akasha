@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0035Chapter115Draconic = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0035-chapter-115-draconic",
   title: "Chapter 115: Draconic",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 35,
   ownLength: 6059,
   unitSlug: "words",

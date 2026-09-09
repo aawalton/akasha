@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0037Chapter117Loyalty = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0037-chapter-117-loyalty",
   title: "Chapter 117: Loyalty",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 37,
   ownLength: 5782,
   unitSlug: "words",

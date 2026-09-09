@@ -5,7 +5,7 @@ export const theGiftOfLoot0013Chapter13GiveTheManAHand = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0013-chapter-13-give-the-man-a-hand",
   title: "Chapter 13: Give The Man A Hand",
-  partOfCollectionSlugs: ["the-gift-of-loot"],
+  storySlug: "the-gift-of-loot",
   position: 13,
   ownLength: 2229,
   unitSlug: "words",

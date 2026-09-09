@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0049Chapter129TheFindOutMoment = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0049-chapter-129-the-find-out-moment",
   title: "Chapter 129: The find out moment",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 49,
   ownLength: 4349,
   unitSlug: "words",

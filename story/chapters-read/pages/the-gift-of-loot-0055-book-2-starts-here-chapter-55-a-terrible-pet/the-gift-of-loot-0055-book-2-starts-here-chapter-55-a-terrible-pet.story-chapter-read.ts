@@ -5,7 +5,7 @@ export const theGiftOfLoot0055Book2StartsHereChapter55ATerriblePet = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0055-book-2-starts-here-chapter-55-a-terrible-pet",
   title: "(Book 2 Starts Here) Chapter 55: A Terrible Pet",
-  partOfCollectionSlugs: ["the-gift-of-loot"],
+  storySlug: "the-gift-of-loot",
   position: 55,
   ownLength: 2336,
   unitSlug: "words",

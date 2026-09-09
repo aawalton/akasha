@@ -5,7 +5,7 @@ export const theGiftOfLoot0064Chapter64TheGiftOfSenses = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0064-chapter-64-the-gift-of-senses",
   title: "Chapter 64: The Gift of Senses",
-  partOfCollectionSlugs: ["the-gift-of-loot"],
+  storySlug: "the-gift-of-loot",
   position: 64,
   ownLength: 3604,
   unitSlug: "words",

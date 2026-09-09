@@ -5,7 +5,7 @@ export const theGiftOfLoot0073Chapter73ThomasDecidesWhoLives = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0073-chapter-73-thomas-decides-who-lives",
   title: "Chapter 73: Thomas Decides Who Lives",
-  partOfCollectionSlugs: ["the-gift-of-loot"],
+  storySlug: "the-gift-of-loot",
   position: 73,
   ownLength: 2995,
   unitSlug: "words",

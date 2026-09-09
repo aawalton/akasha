@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0004Chapter85Inevitable = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0004-chapter-85-inevitable",
   title: "Chapter 85: Inevitable",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 4,
   ownLength: 5259,
   unitSlug: "words",

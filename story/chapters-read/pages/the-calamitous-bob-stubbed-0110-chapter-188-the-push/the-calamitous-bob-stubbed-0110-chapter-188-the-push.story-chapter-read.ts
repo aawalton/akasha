@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0110Chapter188ThePush = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0110-chapter-188-the-push",
   title: "Chapter 188: The Push",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 110,
   ownLength: 6326,
   unitSlug: "words",

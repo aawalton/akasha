@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0082Chapter161Fraudzilla = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0082-chapter-161-fraudzilla",
   title: "Chapter 161: Fraudzilla",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 82,
   ownLength: 5487,
   unitSlug: "words",

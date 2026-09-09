@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0153Chapter228ParamBurning = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0153-chapter-228-param-burning",
   title: "Chapter 228: Param, Burning",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 153,
   ownLength: 6665,
   unitSlug: "words",

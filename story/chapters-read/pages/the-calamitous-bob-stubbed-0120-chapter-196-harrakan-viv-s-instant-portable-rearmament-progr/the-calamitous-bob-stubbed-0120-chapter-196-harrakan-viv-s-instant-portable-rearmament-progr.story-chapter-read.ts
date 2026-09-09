@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0120Chapter196HarrakanVivSInstantPortableRea
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0120-chapter-196-harrakan-viv-s-instant-portable-rearmament-progr",
   title: "Chapter 196: Harrakan Viv’s Instant Portable Rearmament Program™",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 120,
   ownLength: 5551,
   unitSlug: "words",

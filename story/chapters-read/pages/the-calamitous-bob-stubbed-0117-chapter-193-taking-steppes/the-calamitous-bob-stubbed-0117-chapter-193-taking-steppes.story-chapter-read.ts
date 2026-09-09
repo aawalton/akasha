@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0117Chapter193TakingSteppes = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0117-chapter-193-taking-steppes",
   title: "Chapter 193: Taking Steppes",
-  partOfCollectionSlugs: ["the-calamitous-bob-stubbed"],
+  storySlug: "the-calamitous-bob-stubbed",
   position: 117,
   ownLength: 6495,
   unitSlug: "words",
