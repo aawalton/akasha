@@ -6,7 +6,7 @@ import {
   DAYS_AT,
   FOOD_ENTRIES_AT,
   outsideTracked,
-} from "../../../../alan/track/track-landing/track-landing.module.code.ts"
+} from "../../../../alan/track/landing/track-landing.module.code.ts"
 import { MECHANICAL } from "../../../../command-system/asking/asking.module.code.ts"
 import type { Given } from "../../../../command-system/calling/calling.module.code.ts"
 import { builtIn } from "../../../../command-system/file-arguing/file-arguing.module.code.ts"

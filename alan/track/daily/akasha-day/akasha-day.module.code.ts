@@ -7,7 +7,7 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import { valueAt } from "@akasha/pages/page-value"
 import { camelizeKey } from "@akasha/pages-access/file-rows"
 import { composedFor, type Put } from "@akasha/pages-service/composing"
-import { landTracking } from "../../track-landing/track-landing.module.code.ts"
+import { landTracking } from "../../landing/track-landing.module.code.ts"
 import type { Landed } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import {
   AKASHA_DAY_PAGE_TYPE,
