@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0041Chapter40AnHonorToServeY
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0041-chapter-40-an-honor-to-serve-you",
   title: "Chapter 40 - An Honor to Serve You",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 41,
   ownLength: 363,
   unitSlug: "words",

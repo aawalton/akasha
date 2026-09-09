@@ -5,7 +5,7 @@ export const theWanderingInn0012InterludeTheGreatRitual = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0012-interlude-the-great-ritual",
   title: "Interlude – The Great Ritual",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 12,
   ownLength: 2738,
   ownProgress: 2738,

@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0046Chapter45TheArrest = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0046-chapter-45-the-arrest",
   title: "Chapter 45 - The Arrest",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 46,
   ownLength: 1604,
   unitSlug: "words",

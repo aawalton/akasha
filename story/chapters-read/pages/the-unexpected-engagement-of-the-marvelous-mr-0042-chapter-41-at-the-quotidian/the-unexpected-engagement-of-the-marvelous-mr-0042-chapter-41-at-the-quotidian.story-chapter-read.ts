@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0042Chapter41AtTheQuotidian 
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0042-chapter-41-at-the-quotidian",
   title: "Chapter 41 - At the Quotidian",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 42,
   ownLength: 753,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0048Chapter47AnotherWalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0048-chapter-47-another-walk",
   title: "Chapter 47 - Another Walk",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 48,
   ownLength: 1654,
   unitSlug: "words",

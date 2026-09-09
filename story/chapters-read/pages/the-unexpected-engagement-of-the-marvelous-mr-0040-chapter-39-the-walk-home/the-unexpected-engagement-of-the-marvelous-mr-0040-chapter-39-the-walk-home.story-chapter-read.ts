@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0040Chapter39TheWalkHome = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0040-chapter-39-the-walk-home",
   title: "Chapter 39 - The Walk Home",
-  storySlug: "the-unexpected-engagement-of-the-marvelous-mr",
+  story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 40,
   ownLength: 5261,
   unitSlug: "words",
