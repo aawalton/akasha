@@ -8,6 +8,6 @@ export const theTower0003TheGalleryOfEchoes = {
   story: "story-played/the-tower",
   position: 3,
   ownLength: 9521,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

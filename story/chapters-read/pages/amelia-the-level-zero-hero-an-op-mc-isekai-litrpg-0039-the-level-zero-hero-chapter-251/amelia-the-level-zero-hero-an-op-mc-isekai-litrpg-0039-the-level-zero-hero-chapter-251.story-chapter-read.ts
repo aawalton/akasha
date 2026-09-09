@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0039TheLevelZeroHeroChapter
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 39,
   ownLength: 1474,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1772338/the-level-zero-hero-chapter-251",

@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0009Book6Ch2HiddenLibrary = {
   position: 9,
   ownLength: 1836,
   ownProgress: 1836,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-26",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2153119/book-6-ch-2-hidden-library",

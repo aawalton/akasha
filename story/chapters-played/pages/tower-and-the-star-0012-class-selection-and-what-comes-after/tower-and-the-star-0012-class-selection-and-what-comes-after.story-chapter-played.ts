@@ -8,6 +8,6 @@ export const towerAndTheStar0012ClassSelectionAndWhatComesAfter = {
   story: "tower-and-the-star",
   position: 12,
   ownLength: 4195,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

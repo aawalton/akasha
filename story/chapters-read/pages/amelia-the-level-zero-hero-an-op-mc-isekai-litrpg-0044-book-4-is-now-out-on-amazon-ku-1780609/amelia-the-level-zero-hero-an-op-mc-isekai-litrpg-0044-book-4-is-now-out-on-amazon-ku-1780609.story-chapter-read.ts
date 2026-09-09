@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0044Book4IsNowOutOnAmazonKu
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 44,
   publishedAt: "2024-08-30",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1780609",
   source: "royal-road",
   title: "Book 4 is now out on Amazon KU!",

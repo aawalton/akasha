@@ -7,7 +7,7 @@ export const alexaThymeFormerlyAlexithymia0006PreludeIv1145672 = {
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 6,
   publishedAt: "2023-03-22",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1145672",
   source: "royal-road",
   title: "Prelude IV",

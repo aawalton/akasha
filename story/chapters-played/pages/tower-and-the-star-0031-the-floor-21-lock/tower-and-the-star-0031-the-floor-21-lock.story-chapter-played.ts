@@ -8,6 +8,6 @@ export const towerAndTheStar0031TheFloor21Lock = {
   story: "tower-and-the-star",
   position: 31,
   ownLength: 3026,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

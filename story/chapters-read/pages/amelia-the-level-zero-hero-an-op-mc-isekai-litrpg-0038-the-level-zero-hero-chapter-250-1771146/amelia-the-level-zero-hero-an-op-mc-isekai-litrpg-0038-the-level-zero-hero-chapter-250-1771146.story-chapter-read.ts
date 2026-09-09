@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0038TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 38,
   publishedAt: "2024-08-23",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1771146",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 250",

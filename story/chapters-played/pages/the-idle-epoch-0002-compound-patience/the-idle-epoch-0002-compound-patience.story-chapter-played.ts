@@ -8,6 +8,6 @@ export const theIdleEpoch0002CompoundPatience = {
   story: "the-idle-epoch",
   position: 2,
   ownLength: 5215,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

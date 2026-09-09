@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0026AmeliaWebtoonPreEmptive
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 26,
   publishedAt: "2023-10-10",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1369858",
   source: "royal-road",
   title: "AMELIA WEBTOON (pre-emptive) ANNOUNCEMENT + Patreon tier updates",

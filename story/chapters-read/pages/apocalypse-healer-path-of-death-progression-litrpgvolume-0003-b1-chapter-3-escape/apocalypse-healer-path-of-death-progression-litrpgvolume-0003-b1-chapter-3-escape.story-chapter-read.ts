@@ -8,7 +8,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0003B1Chapter3Esc
   story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 3,
   ownLength: 1967,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-23",
   externalLink:
     "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1864005/b1-chapter-3-escape",

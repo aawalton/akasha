@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0026AmeliaWebtoonPreEmptive
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 26,
   ownLength: 489,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-10",
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1369858/amelia-webtoon-pre-emptive-announcement-patreon",

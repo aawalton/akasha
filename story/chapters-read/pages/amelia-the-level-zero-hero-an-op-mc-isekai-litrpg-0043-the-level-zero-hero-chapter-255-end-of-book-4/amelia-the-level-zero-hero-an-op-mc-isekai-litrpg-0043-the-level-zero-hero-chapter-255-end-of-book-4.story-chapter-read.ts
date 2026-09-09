@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0043TheLevelZeroHeroChapter
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 43,
   ownLength: 1318,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1776420/the-level-zero-hero-chapter-255-end-of-book-4",

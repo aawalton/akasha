@@ -8,6 +8,6 @@ export const towerAndTheStar0002WhatTheRestNodeKnows = {
   story: "tower-and-the-star",
   position: 2,
   ownLength: 3923,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

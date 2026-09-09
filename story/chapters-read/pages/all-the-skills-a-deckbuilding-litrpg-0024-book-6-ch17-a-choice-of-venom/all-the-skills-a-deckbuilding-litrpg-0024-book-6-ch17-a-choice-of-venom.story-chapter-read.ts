@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0024Book6Ch17AChoiceOfVenom = {
   position: 24,
   ownLength: 2591,
   ownProgress: 2591,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2387945/book-6-ch17-a-choice-of-venom",

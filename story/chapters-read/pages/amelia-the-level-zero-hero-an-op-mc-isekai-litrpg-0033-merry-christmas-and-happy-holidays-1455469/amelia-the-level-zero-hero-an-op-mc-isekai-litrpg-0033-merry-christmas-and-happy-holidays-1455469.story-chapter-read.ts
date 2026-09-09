@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0033MerryChristmasAndHappyH
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 33,
   publishedAt: "2023-12-26",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1455469",
   source: "royal-road",
   title: "Merry Christmas and Happy Holidays! + Small Update",

@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0036TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 36,
   publishedAt: "2024-01-13",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1476388",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 195",

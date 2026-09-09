@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0029TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 29,
   publishedAt: "2023-11-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1402976",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 191",

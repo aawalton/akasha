@@ -9,6 +9,6 @@ export const veryCherryGhirardelliChocolateCheesecake = {
   position: 0,
   ownLength: 3750,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
 } as const satisfies RestaurantMenuItem

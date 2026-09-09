@@ -8,6 +8,6 @@ export const theVioletHour0005Experiment5AmysTable = {
   story: "story-played/the-violet-hour",
   position: 5,
   ownLength: 898,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

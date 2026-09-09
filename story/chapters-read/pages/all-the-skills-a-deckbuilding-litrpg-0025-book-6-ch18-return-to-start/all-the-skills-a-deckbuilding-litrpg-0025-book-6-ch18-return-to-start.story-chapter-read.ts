@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0025Book6Ch18ReturnToStart = {
   position: 25,
   ownLength: 2570,
   ownProgress: 2570,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-02",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2402203/book-6-ch18-return-to-start",

@@ -8,7 +8,7 @@ export const allTheSkillsADeckbuildingLitrpg0042B6Ch35WellMet = {
   story: "all-the-skills-a-deckbuilding-litrpg",
   position: 42,
   ownLength: 2144,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-17",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3163025/b6-ch35-well-met",

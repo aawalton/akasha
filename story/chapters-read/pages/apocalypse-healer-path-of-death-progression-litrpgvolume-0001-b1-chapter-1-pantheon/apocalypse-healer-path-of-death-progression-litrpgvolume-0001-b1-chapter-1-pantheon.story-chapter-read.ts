@@ -8,7 +8,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0001B1Chapter1Pan
   story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 1,
   ownLength: 2301,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-23",
   externalLink:
     "https://www.royalroad.com/fiction/96526/apocalypse-healer-progression-litrpg-complete/chapter/1863998/b1-chapter-1-pantheon",

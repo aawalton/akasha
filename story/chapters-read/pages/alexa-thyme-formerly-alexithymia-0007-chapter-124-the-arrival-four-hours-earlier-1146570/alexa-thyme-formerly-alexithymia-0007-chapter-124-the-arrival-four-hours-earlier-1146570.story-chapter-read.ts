@@ -7,7 +7,7 @@ export const alexaThymeFormerlyAlexithymia0007Chapter124TheArrivalFourHoursEarli
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 7,
   publishedAt: "2023-03-23",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1146570",
   source: "royal-road",
   title: "Chapter 124  The Arrival (Four Hours Earlier)",

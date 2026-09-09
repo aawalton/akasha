@@ -7,7 +7,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0004B2Chapter1Ego
   story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 4,
   publishedAt: "2025-02-01",
-  unitSlug: "words",
+  unit: "words",
   externalId: "2041779",
   source: "royal-road",
   title: "B2 Chapter 1 - Egoist",

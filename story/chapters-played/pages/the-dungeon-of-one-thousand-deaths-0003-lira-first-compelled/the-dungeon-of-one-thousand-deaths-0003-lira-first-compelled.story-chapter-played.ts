@@ -8,6 +8,6 @@ export const theDungeonOfOneThousandDeaths0003LiraFirstCompelled = {
   story: "the-dungeon-of-one-thousand-deaths",
   position: 3,
   ownLength: 3917,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

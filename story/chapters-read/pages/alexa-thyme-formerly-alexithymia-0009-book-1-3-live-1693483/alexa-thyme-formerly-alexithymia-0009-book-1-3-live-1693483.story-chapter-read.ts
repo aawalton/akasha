@@ -7,7 +7,7 @@ export const alexaThymeFormerlyAlexithymia0009Book13Live1693483 = {
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 9,
   publishedAt: "2024-06-26",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1693483",
   source: "royal-road",
   title: "Book 1 - 3 Live.",

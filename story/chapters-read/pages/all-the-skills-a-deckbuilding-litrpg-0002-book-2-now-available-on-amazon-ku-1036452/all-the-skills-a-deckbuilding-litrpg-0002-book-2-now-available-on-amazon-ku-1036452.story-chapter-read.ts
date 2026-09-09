@@ -7,7 +7,7 @@ export const allTheSkillsADeckbuildingLitrpg0002Book2NowAvailableOnAmazonKu10364
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 2,
   publishedAt: "2022-11-10",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1036452",
   source: "royal-road",
   title: "Book 2 - Now Available on Amazon KU",

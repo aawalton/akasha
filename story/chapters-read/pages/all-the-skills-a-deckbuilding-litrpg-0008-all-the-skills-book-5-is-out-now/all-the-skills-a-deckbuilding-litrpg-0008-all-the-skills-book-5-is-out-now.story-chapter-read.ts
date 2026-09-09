@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0008AllTheSkillsBook5IsOutNow = {
   position: 8,
   ownLength: 177,
   ownProgress: 177,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:57.304Z",
   publishedAt: "2025-03-25",
   externalLink:

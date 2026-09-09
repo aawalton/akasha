@@ -9,6 +9,6 @@ export const freshStrawberry = {
   position: 0,
   ownLength: 3750,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "in-progress",
 } as const satisfies RestaurantMenuItem

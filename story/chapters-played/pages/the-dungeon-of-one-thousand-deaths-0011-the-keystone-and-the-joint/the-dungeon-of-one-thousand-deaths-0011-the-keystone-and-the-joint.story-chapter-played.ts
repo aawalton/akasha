@@ -8,6 +8,6 @@ export const theDungeonOfOneThousandDeaths0011TheKeystoneAndTheJoint = {
   story: "the-dungeon-of-one-thousand-deaths",
   position: 11,
   ownLength: 6450,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

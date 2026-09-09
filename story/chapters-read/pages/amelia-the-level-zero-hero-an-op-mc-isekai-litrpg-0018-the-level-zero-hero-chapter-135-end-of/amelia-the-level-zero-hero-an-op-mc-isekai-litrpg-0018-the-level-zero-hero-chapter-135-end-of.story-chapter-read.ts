@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0018TheLevelZeroHeroChapter
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 18,
   ownLength: 590,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-06-06",
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1236691/the-level-zero-hero-chapter-135-end-of-amelia",

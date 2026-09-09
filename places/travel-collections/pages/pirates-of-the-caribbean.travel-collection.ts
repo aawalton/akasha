@@ -9,6 +9,6 @@ export const piratesOfTheCaribbean = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "completed",
 } as const satisfies TravelCollection

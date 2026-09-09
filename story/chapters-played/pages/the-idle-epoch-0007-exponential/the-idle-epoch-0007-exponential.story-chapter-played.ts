@@ -8,6 +8,6 @@ export const theIdleEpoch0007Exponential = {
   story: "the-idle-epoch",
   position: 7,
   ownLength: 6346,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

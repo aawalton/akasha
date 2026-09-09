@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0011AlexaThymeBook4BlackMassAudibleDro
   story: "alexa-thyme-formerly-alexithymia",
   position: 11,
   ownLength: 91,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-19",
   externalLink:
     "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/2774445/alexa-thyme-book-4-black-mass-audible-drop",

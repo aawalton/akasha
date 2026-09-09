@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0021TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 21,
   publishedAt: "2023-06-25",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1257765",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 137",

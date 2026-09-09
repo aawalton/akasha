@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0013Book6Chapter6WildDragons = {
   position: 13,
   ownLength: 1997,
   ownProgress: 1997,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2210338/book-6-chapter-6-wild-dragons",

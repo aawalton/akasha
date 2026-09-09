@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0035B6Ch28SkillGrind4Brixaby = {
   position: 35,
   ownLength: 2561,
   ownProgress: 2561,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-19",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3072075/b6-ch28-skill-grind-4-brixaby",

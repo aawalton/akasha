@@ -8,6 +8,6 @@ export const dragonsAndDungeons0000PrologueSessionZero = {
   story: "story-played/dragons-and-dungeons",
   position: 0,
   ownLength: 1055,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

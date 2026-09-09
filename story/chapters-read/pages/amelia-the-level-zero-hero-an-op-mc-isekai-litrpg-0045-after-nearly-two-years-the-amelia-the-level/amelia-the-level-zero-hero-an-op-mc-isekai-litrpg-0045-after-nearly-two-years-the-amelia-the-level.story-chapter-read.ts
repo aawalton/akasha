@@ -9,7 +9,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0045AfterNearlyTwoYearsTheA
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 45,
   ownLength: 120,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1830575/after-nearly-two-years-the-amelia-the-level-zero",

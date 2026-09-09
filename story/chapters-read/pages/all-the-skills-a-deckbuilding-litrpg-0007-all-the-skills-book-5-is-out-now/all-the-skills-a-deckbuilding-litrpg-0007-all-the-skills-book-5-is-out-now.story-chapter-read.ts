@@ -7,7 +7,7 @@ export const allTheSkillsADeckbuildingLitrpg0007AllTheSkillsBook5IsOutNow = {
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 7,
   publishedAt: "2025-03-25",
-  unitSlug: "words",
+  unit: "words",
   externalId: "2150403",
   source: "royal-road",
   title: "All The Skills Book 5 is out now!",

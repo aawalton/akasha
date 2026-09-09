@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0029AtsB6Ch22TheTrustedFew = {
   position: 29,
   ownLength: 3031,
   ownProgress: 3031,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2550374/ats-b6-ch22-the-trusted-few",

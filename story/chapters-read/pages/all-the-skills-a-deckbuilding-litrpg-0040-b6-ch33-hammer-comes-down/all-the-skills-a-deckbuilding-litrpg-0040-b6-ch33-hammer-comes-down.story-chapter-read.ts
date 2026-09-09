@@ -8,7 +8,7 @@ export const allTheSkillsADeckbuildingLitrpg0040B6Ch33HammerComesDown = {
   story: "all-the-skills-a-deckbuilding-litrpg",
   position: 40,
   ownLength: 1883,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-10",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3137636/b6-ch33-hammer-comes-down",

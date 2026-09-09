@@ -7,7 +7,7 @@ export const allTheSkillsADeckbuildingLitrpg0005AnnouncementBook3OutNowAlso15517
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 5,
   publishedAt: "2024-03-12",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1551720",
   source: "royal-road",
   title: "Announcement! Book 3 Out Now! Also...",

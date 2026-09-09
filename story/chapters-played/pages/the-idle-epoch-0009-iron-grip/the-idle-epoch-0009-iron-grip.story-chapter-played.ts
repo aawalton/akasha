@@ -8,6 +8,6 @@ export const theIdleEpoch0009IronGrip = {
   story: "the-idle-epoch",
   position: 9,
   ownLength: 6292,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

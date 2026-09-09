@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0021Book6Ch14LotsAndLotsAndLotsOfBut
   position: 21,
   ownLength: 2274,
   ownProgress: 2274,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2365227/book-6-ch14-lots-and-lots-and-lots-of-butterflies",

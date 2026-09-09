@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0013FanfictionAndFanartCont
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 13,
   ownLength: 731,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1164345/fanfiction-and-fanart-contest-results",

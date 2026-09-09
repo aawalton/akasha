@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0014Book1PublishingAnnounce
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 14,
   publishedAt: "2023-05-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1206245",
   source: "royal-road",
   title: "Book 1 Publishing Announcement",

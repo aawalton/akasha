@@ -7,7 +7,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0003B1Chapter3Esc
   story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 3,
   publishedAt: "2024-10-23",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1864005",
   source: "royal-road",
   title: "B1 Chapter 3 - Escape",

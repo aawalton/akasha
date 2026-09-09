@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0003Book3AvailableMarch12thOnAmazon 
   position: 3,
   ownLength: 66,
   ownProgress: 66,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:48.038Z",
   publishedAt: "2024-03-10",
   externalLink:

@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0017Book6Ch10NotAUsualEruption1 = {
   position: 17,
   ownLength: 1999,
   ownProgress: 1999,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-02",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2248203/book-6-ch-10-not-a-usual-eruption-1",

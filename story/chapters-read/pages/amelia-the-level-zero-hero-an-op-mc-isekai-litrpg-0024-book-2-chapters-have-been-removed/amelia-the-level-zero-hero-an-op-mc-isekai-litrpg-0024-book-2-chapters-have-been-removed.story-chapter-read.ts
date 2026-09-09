@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0024Book2ChaptersHaveBeenRe
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 24,
   ownLength: 86,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1273183/book-2-chapters-have-been-removed",

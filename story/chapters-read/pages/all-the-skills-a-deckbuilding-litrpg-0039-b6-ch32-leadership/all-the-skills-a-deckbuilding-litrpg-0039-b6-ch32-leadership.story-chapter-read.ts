@@ -8,7 +8,7 @@ export const allTheSkillsADeckbuildingLitrpg0039B6Ch32Leadership = {
   story: "all-the-skills-a-deckbuilding-litrpg",
   position: 39,
   ownLength: 2055,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-05",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3120054/b6-ch32-leadership",

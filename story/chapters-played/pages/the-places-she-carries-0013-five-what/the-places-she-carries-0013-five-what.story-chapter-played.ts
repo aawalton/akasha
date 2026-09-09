@@ -8,6 +8,6 @@ export const thePlacesSheCarries0013FiveWhat = {
   story: "the-places-she-carries",
   position: 13,
   ownLength: 4233,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -7,7 +7,7 @@ export const alexaThymeFormerlyAlexithymia0011AlexaThymeBook4BlackMassAudibleDro
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 11,
   publishedAt: "2025-11-19",
-  unitSlug: "words",
+  unit: "words",
   externalId: "2774445",
   source: "royal-road",
   title: "Alexa Thyme Book 4  Black Mass Audible Drop",

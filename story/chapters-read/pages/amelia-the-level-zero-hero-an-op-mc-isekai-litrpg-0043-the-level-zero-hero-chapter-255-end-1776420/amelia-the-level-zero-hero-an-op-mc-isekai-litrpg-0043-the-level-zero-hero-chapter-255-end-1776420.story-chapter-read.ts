@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0043TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 43,
   publishedAt: "2024-08-27",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1776420",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 255 (End Of Book 4)",

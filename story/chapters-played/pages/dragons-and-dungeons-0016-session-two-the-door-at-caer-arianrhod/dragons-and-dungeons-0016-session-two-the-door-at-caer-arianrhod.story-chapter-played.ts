@@ -8,6 +8,6 @@ export const dragonsAndDungeons0016SessionTwoTheDoorAtCaerArianrhod = {
   story: "story-played/dragons-and-dungeons",
   position: 16,
   ownLength: 784,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

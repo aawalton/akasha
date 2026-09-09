@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0038B6Ch31HomeAgain = {
   position: 38,
   ownLength: 1728,
   ownProgress: 209,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3113038/b6-ch31-home-again",

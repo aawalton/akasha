@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0022Book6Ch15LotsAndLotsAndLotsOfFir
   position: 22,
   ownLength: 3042,
   ownProgress: 3042,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-19",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2369669/book-6-ch15-lots-and-lots-and-lots-of-fire",

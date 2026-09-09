@@ -8,6 +8,6 @@ export const towerAndTheStar0015TheDistanceToRare = {
   story: "tower-and-the-star",
   position: 15,
   ownLength: 4179,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

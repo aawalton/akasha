@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0014Book6Chapter7RetinueMeeting = {
   position: 14,
   ownLength: 1097,
   ownProgress: 1097,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-23",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2223808/book-6-chapter-7-retinue-meeting",

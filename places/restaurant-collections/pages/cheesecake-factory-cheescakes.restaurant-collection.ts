@@ -9,7 +9,7 @@ export const cheesecakeFactoryCheescakes = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "in-progress",
   rank: "B",
 } as const satisfies RestaurantCollection

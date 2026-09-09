@@ -8,7 +8,7 @@ export const allTheSkillsADeckbuildingLitrpg0049B6Ch42ADangerousHaggle = {
   story: "all-the-skills-a-deckbuilding-litrpg",
   position: 49,
   ownLength: 4432,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-09",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3253058/b6-ch42-a-dangerous-haggle",

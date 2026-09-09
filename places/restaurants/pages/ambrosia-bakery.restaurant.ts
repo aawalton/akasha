@@ -9,7 +9,7 @@ export const ambrosiaBakery = {
   position: 0,
   ownLength: 6250,
   ownProgress: 6250,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   rank: "B",
 } as const satisfies Restaurant

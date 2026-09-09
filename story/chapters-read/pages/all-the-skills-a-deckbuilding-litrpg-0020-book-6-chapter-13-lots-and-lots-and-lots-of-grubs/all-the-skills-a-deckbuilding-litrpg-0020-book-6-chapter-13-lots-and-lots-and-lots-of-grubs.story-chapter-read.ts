@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0020Book6Chapter13LotsAndLotsAndLots
   position: 20,
   ownLength: 2696,
   ownProgress: 2696,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2351770/book-6-chapter-13-lots-and-lots-and-lots-of-grubs",

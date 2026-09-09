@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0019Book6Chapter12SnowMoon = {
   position: 19,
   ownLength: 2258,
   ownProgress: 2258,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2346152/book-6-chapter-12-snow-moon",

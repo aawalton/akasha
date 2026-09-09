@@ -8,6 +8,6 @@ export const theIdleEpoch0006TheLoopCloses = {
   story: "the-idle-epoch",
   position: 6,
   ownLength: 6623,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

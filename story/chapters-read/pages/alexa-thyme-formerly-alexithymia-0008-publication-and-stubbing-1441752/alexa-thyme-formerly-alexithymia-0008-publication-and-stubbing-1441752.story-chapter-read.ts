@@ -7,7 +7,7 @@ export const alexaThymeFormerlyAlexithymia0008PublicationAndStubbing1441752 = {
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 8,
   publishedAt: "2023-12-13",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1441752",
   source: "royal-road",
   title: "Publication and Stubbing",

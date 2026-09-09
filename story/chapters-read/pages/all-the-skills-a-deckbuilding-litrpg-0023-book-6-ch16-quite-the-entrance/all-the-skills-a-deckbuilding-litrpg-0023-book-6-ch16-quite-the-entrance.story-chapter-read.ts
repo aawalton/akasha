@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0023Book6Ch16QuiteTheEntrance = {
   position: 23,
   ownLength: 3135,
   ownProgress: 3135,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2382741/book-6-ch16-quite-the-entrance",

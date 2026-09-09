@@ -8,6 +8,6 @@ export const breathOfTheWild0005TheKingSLastGift = {
   story: "breath-of-the-wild",
   position: 5,
   ownLength: 5312,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

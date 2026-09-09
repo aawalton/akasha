@@ -8,6 +8,6 @@ export const breathOfTheWild0004TheWeightOfCold = {
   story: "breath-of-the-wild",
   position: 4,
   ownLength: 4464,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

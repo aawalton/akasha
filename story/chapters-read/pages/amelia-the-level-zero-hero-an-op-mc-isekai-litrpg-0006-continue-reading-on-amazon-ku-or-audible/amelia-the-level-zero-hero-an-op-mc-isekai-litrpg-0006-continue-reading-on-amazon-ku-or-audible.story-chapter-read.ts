@@ -8,7 +8,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0006ContinueReadingOnAmazon
   story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 6,
   ownLength: 84,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-05",
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg/chapter/1056106/continue-reading-on-amazon-ku-or-audible",

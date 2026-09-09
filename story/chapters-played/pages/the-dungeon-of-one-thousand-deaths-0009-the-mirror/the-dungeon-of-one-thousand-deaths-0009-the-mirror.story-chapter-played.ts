@@ -8,6 +8,6 @@ export const theDungeonOfOneThousandDeaths0009TheMirror = {
   story: "the-dungeon-of-one-thousand-deaths",
   position: 9,
   ownLength: 3066,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

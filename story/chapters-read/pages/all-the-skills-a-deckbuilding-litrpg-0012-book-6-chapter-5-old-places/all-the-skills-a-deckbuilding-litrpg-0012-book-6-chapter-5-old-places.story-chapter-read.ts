@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0012Book6Chapter5OldPlaces = {
   position: 12,
   ownLength: 2060,
   ownProgress: 2060,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-15",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2205152/book-6-chapter-5-old-places",

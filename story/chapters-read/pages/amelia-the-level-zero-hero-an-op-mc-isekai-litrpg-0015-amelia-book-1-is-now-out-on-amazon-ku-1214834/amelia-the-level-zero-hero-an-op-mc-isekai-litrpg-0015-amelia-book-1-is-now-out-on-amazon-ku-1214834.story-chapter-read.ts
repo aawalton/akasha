@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0015AmeliaBook1IsNowOutOnAm
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 15,
   publishedAt: "2023-05-16",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1214834",
   source: "royal-road",
   title: "Amelia Book 1 is now out on Amazon KU and Audible!",

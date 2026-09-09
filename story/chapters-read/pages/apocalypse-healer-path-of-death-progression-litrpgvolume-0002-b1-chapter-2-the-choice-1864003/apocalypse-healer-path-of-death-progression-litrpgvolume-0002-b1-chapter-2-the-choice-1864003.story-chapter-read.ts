@@ -7,7 +7,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0002B1Chapter2The
   story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 2,
   publishedAt: "2024-10-23",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1864003",
   source: "royal-road",
   title: "B1 Chapter 2 - The Choice",

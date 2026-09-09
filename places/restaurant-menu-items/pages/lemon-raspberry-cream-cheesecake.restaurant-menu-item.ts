@@ -9,7 +9,7 @@ export const lemonRaspberryCreamCheesecake = {
   position: 0,
   ownLength: 3750,
   ownProgress: 3750,
-  unitSlug: "words",
+  unit: "words",
   status: "completed",
   rank: "B",
 } as const satisfies RestaurantMenuItem

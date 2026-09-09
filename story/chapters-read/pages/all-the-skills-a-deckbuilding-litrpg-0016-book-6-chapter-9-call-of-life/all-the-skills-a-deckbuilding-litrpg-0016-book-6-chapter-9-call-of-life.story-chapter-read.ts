@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0016Book6Chapter9CallOfLife = {
   position: 16,
   ownLength: 2072,
   ownProgress: 2072,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-30",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2242306/book-6-chapter-9-call-of-life",

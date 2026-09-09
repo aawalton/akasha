@@ -7,7 +7,7 @@ export const allTheSkillsADeckbuildingLitrpg0004Book4Ch1FabergeMan1548522 = {
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 4,
   publishedAt: "2024-03-10",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1548522",
   source: "royal-road",
   title: "Book 4 Ch 1: Faberge Man",

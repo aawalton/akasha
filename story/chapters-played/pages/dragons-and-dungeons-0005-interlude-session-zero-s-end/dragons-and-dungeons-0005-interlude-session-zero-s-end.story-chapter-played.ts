@@ -8,6 +8,6 @@ export const dragonsAndDungeons0005InterludeSessionZeroSEnd = {
   story: "story-played/dragons-and-dungeons",
   position: 5,
   ownLength: 750,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

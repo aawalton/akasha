@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0036B6Ch29SkillGrind5 = {
   position: 36,
   ownLength: 2532,
   ownProgress: 2532,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-24",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3088731/b6-ch29-skill-grind-5",

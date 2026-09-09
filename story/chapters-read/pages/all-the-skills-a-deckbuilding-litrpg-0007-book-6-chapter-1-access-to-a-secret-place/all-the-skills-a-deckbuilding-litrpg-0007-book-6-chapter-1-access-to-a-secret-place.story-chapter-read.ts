@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0007Book6Chapter1AccessToASecretPlac
   position: 7,
   ownLength: 2096,
   ownProgress: 2096,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2148664/book-6-chapter-1-access-to-a-secret-place",

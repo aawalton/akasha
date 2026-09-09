@@ -8,6 +8,6 @@ export const breathOfTheWild0001OpenYourEyes = {
   story: "breath-of-the-wild",
   position: 1,
   ownLength: 4943,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0007TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 7,
   publishedAt: "2023-02-18",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1117044",
   source: "royal-road",
   title: "The Level Zero [Hero] Chapter 65 (End of Book 1)",

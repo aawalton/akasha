@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0039TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 39,
   publishedAt: "2024-08-24",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1772338",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 251",

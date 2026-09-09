@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0028B6Ch21AwakeWithVenom = {
   position: 28,
   ownLength: 1538,
   ownProgress: 1538,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2536932/b6-ch21-awake-with-venom",

@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0041TheLevelZeroHerpChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 41,
   publishedAt: "2024-08-25",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1773591",
   source: "royal-road",
   title: "The Level Zero Herp Chapter 253",

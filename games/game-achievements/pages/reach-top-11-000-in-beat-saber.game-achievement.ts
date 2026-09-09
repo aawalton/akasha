@@ -9,7 +9,7 @@ export const reachTop11000InBeatSaber = {
   position: -11000,
   ownLength: 1260025,
   ownProgress: 1260025,
-  unitSlug: "words",
+  unit: "words",
   status: "completed",
   rank: "A",
 } as const satisfies GameAchievement

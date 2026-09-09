@@ -8,6 +8,6 @@ export const towerAndTheStar0018TheInstrumentCache = {
   story: "tower-and-the-star",
   position: 18,
   ownLength: 3615,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

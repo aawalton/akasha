@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0019EndOfBook2PopularityPol
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 19,
   publishedAt: "2023-06-16",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1247862",
   source: "royal-road",
   title: "End of Book 2 Popularity Poll!",

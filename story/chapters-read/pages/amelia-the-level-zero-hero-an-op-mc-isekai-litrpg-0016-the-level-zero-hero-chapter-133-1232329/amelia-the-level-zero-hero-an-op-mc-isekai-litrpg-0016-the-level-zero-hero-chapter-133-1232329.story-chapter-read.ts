@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0016TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 16,
   publishedAt: "2023-06-01",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1232329",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 133",

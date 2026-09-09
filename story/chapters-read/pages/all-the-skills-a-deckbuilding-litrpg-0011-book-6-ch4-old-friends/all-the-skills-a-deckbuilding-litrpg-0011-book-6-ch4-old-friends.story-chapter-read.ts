@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0011Book6Ch4OldFriends = {
   position: 11,
   ownLength: 3087,
   ownProgress: 3087,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2191421/book-6-ch4-old-friends",

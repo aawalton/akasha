@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0004Book4Ch1FabergeMan = {
   position: 4,
   ownLength: 2017,
   ownProgress: 2017,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:49.945Z",
   publishedAt: "2024-03-10",
   externalLink:

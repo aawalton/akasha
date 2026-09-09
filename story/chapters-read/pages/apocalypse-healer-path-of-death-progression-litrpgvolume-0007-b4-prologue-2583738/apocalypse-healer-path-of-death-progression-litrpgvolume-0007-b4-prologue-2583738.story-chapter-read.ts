@@ -7,7 +7,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0007B4Prologue258
   story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 7,
   publishedAt: "2025-09-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "2583738",
   source: "royal-road",
   title: "B4 Prologue",

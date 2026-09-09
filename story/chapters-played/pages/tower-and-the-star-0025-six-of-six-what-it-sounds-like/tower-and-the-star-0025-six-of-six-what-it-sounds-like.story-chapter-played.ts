@@ -8,6 +8,6 @@ export const towerAndTheStar0025SixOfSixWhatItSoundsLike = {
   story: "tower-and-the-star",
   position: 25,
   ownLength: 3680,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

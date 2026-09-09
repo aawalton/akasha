@@ -8,6 +8,6 @@ export const towerAndTheStar0027CartographerSTruth = {
   story: "tower-and-the-star",
   position: 27,
   ownLength: 2659,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

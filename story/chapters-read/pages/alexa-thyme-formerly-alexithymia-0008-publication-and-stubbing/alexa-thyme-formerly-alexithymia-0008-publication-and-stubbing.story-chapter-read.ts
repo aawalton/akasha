@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0008PublicationAndStubbing = {
   story: "alexa-thyme-formerly-alexithymia",
   position: 8,
   ownLength: 124,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-13",
   externalLink:
     "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1441752/publication-and-stubbing",

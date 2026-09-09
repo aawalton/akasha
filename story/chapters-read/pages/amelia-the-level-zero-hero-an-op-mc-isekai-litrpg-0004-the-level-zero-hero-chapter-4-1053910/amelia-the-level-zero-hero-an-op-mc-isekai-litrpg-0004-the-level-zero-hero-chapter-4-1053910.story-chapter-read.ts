@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0004TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 4,
   publishedAt: "2022-12-02",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1053910",
   source: "royal-road",
   title: "The Level Zero [Hero] Chapter 4",

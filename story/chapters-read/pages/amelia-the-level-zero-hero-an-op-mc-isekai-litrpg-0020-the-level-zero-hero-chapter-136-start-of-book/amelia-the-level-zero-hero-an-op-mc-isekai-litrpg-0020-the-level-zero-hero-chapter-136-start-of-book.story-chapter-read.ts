@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0020TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 20,
   publishedAt: "2023-06-25",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1257764",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 136 (Start of Book 3)",

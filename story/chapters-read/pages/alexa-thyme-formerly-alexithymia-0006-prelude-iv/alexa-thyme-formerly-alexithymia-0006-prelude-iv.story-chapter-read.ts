@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0006PreludeIv = {
   story: "alexa-thyme-formerly-alexithymia",
   position: 6,
   ownLength: 1624,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-22",
   externalLink:
     "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1145672/prelude-iv",

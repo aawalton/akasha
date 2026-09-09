@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0018TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 18,
   publishedAt: "2023-06-06",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1236691",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 135 (End of Amelia Book 2)",

@@ -8,6 +8,6 @@ export const towerAndTheStar0005HarmonizeFirstAttempt = {
   story: "tower-and-the-star",
   position: 5,
   ownLength: 5424,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

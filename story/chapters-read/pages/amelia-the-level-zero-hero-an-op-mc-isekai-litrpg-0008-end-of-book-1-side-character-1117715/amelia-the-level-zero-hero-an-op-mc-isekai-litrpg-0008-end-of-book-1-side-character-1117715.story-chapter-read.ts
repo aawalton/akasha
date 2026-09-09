@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0008EndOfBook1SideCharacter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 8,
   publishedAt: "2023-02-19",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1117715",
   source: "royal-road",
   title: "End of Book 1 Side Character Popularity Poll!",

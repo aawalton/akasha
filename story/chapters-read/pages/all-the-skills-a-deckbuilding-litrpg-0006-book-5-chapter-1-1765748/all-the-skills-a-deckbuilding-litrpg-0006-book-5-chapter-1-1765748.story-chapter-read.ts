@@ -7,7 +7,7 @@ export const allTheSkillsADeckbuildingLitrpg0006Book5Chapter11765748 = {
   story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 6,
   publishedAt: "2024-08-19",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1765748",
   source: "royal-road",
   title: "Book 5: Chapter 1",

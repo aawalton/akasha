@@ -8,6 +8,6 @@ export const towerAndTheStar0014FullChord = {
   story: "tower-and-the-star",
   position: 14,
   ownLength: 5518,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

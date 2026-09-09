@@ -7,7 +7,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0001B1Chapter1Pan
   story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 1,
   publishedAt: "2024-10-23",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1863998",
   source: "royal-road",
   title: "B1 Chapter 1 - Pantheon",

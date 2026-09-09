@@ -8,6 +8,6 @@ export const theVioletHour0002Experiment2NataliesTable = {
   story: "story-played/the-violet-hour",
   position: 2,
   ownLength: 1001,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

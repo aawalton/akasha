@@ -8,6 +8,6 @@ export const theIdleEpoch0001TheFactoryFloor = {
   story: "the-idle-epoch",
   position: 1,
   ownLength: 4388,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

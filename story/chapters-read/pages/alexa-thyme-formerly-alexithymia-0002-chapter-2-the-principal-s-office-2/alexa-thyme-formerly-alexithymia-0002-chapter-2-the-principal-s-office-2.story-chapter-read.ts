@@ -8,7 +8,7 @@ export const alexaThymeFormerlyAlexithymia0002Chapter2ThePrincipalSOffice2 = {
   story: "alexa-thyme-formerly-alexithymia",
   position: 2,
   ownLength: 2837,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-03",
   externalLink:
     "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia/chapter/1030489/chapter-2-the-principals-office-2",

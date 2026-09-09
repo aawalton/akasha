@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0015Book6Chapter8ADebtOwed = {
   position: 15,
   ownLength: 2520,
   ownProgress: 2520,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-25",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2229153/book-6-chapter-8-a-debt-owed",

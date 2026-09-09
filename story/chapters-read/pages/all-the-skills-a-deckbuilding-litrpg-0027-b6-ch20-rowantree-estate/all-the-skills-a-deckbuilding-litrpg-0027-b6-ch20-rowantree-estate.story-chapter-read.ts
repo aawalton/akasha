@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0027B6Ch20RowantreeEstate = {
   position: 27,
   ownLength: 2116,
   ownProgress: 2116,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/2531668/b6-ch20-rowantree-estate",

@@ -8,6 +8,6 @@ export const theVioletHour0003Experiment3ZadisTable = {
   story: "story-played/the-violet-hour",
   position: 3,
   ownLength: 1008,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

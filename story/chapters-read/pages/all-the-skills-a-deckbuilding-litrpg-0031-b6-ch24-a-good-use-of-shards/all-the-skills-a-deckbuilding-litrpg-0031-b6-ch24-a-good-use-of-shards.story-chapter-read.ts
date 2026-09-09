@@ -9,7 +9,7 @@ export const allTheSkillsADeckbuildingLitrpg0031B6Ch24AGoodUseOfShards = {
   position: 31,
   ownLength: 1858,
   ownProgress: 1858,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-05",
   externalLink:
     "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg/chapter/3016171/b6-ch24-a-good-use-of-shards",

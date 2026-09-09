@@ -8,6 +8,6 @@ export const theDungeonOfOneThousandDeaths0004TheMilitaryScoutingParty = {
   story: "the-dungeon-of-one-thousand-deaths",
   position: 4,
   ownLength: 6076,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

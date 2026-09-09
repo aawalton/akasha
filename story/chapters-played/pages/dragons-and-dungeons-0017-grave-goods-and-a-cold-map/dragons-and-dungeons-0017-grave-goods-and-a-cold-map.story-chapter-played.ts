@@ -8,6 +8,6 @@ export const dragonsAndDungeons0017GraveGoodsAndAColdMap = {
   story: "story-played/dragons-and-dungeons",
   position: 17,
   ownLength: 900,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterPlayed

@@ -7,7 +7,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0030TheLevelZeroHeroChapter
   story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 30,
   publishedAt: "2023-11-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "1403170",
   source: "royal-road",
   title: "The Level Zero Hero Chapter 192 (End of Book 3)",
