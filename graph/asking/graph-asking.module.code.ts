@@ -16,6 +16,8 @@ const INDEX = "index"
 
 const INDEX_NAME = "name"
 
+const ATTRIBUTES = "attributes"
+
 const ATTRIBUTE_SLUGS = "attributeSlugs"
 
 const APART = "\n"
@@ -76,7 +78,7 @@ function indexNameFor(index: Answering, named: string, asked: string): string {
 }
 
 function attributesIn(held: Value): readonly string[] {
-  const said = held[ATTRIBUTE_SLUGS]
+  const said = held[ATTRIBUTES] ?? held[ATTRIBUTE_SLUGS]
   if (!Array.isArray(said)) return []
   return said.filter((one): one is string => typeof one === "string").map(slugOf)
 }
