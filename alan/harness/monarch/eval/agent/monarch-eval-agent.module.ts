@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
 
 export const monarchEvalAgent = {
   id: "01a06867-fdff-757f-b949-c56622460db1",
