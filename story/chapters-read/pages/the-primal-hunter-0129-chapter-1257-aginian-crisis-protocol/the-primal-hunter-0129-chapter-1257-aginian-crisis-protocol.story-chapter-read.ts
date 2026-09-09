@@ -5,7 +5,7 @@ export const thePrimalHunter0129Chapter1257AginianCrisisProtocol = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0129-chapter-1257-aginian-crisis-protocol",
   title: "Chapter 1257 - Aginian Crisis Protocol",
-  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
+  storySlug: "story-read/the-primal-hunter",
   position: 129,
   ownLength: 2877,
   unitSlug: "words",

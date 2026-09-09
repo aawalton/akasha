@@ -5,7 +5,7 @@ export const thePrimalHunter0161Chapter1288RudeInterruption = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0161-chapter-1288-rude-interruption",
   title: "Chapter 1288 - Rude Interruption",
-  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
+  storySlug: "story-read/the-primal-hunter",
   position: 161,
   ownLength: 2583,
   unitSlug: "words",

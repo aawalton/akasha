@@ -5,7 +5,7 @@ export const thePrimalHunter0147Chapter1274TwoAwesomeOptions = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0147-chapter-1274-two-awesome-options",
   title: "Chapter 1274 - Two Awesome Options",
-  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
+  storySlug: "story-read/the-primal-hunter",
   position: 147,
   ownLength: 3201,
   unitSlug: "words",

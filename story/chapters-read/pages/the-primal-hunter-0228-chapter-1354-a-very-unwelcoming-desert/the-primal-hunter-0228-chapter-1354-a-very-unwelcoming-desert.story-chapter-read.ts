@@ -5,7 +5,7 @@ export const thePrimalHunter0228Chapter1354AVeryUnwelcomingDesert = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0228-chapter-1354-a-very-unwelcoming-desert",
   title: "Chapter 1354 - A Very Unwelcoming Desert",
-  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
+  storySlug: "story-read/the-primal-hunter",
   position: 228,
   ownLength: 2932,
   unitSlug: "words",

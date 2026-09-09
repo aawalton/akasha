@@ -5,7 +5,7 @@ export const thePrimalHunter0174Chapter1301ShamanisticArts = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-primal-hunter-0174-chapter-1301-shamanistic-arts",
   title: "Chapter 1301 - Shamanistic Arts",
-  partOfCollectionSlugs: ["story-read/the-primal-hunter"],
+  storySlug: "story-read/the-primal-hunter",
   position: 174,
   ownLength: 2786,
   unitSlug: "words",
