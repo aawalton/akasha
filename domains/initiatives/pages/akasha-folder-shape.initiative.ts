@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "`akasha audit --check folder-matches-a-shape` answers 961 refusals over 120410 files, and one answer holds what fits in 28000 bytes, so the list is worked lex-ordered in tranches. That narrowed run costs 1.5 GB and 12 seconds, and adding `--file-path` brings it to 0.6 GB and 3 seconds, so a fix is measured where it lands rather than batched. A whole audit is the run that costs 21 GB and eight minutes.",
+        "`akasha audit --check folder-matches-a-shape` forces a check that runs at no audit. One answer holds 28000 bytes, so gather per top-level folder into a file, splitting `alan` and `temper` a level deeper and `alan/library` and `temper/temper-catalog` two. A subagent is refused the audit, so the seat gathers and hands the files over. Refusals repeat across runs, so dedupe on the path before the dash. A folder opening with the page above it is answered before any shape is asked.",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
