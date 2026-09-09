@@ -7,7 +7,7 @@ export const alanwaltonWeb = {
   definition: "Alan's command center on the web",
   sourceDirectory: "alan/web",
   buildCommand: "bun run build",
-  clusterServiceSlugs: ["alanwalton-web"],
+  clusterServices: ["alanwalton-web"],
   hostnames: [
     "alanwalton.com",
     "webhook.alanwalton.com",

@@ -1,14 +1,14 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { BuildCommand } from "./properties/build-command.text-property.ts"
-import type { ClusterServiceSlugs } from "./properties/cluster-service-slugs.relation-property.ts"
+import type { ClusterServices } from "./properties/cluster-services.relation-property.ts"
 import type { Hostnames } from "./properties/hostnames.text-property.ts"
 import type { SourceDirectory } from "./properties/source-directory.text-property.ts"
 
 export type WebApp = Domain & {
   sourceDirectory: SourceDirectory
   buildCommand: BuildCommand
-  clusterServiceSlugs: ClusterServiceSlugs
+  clusterServices: ClusterServices
   hostnames?: readonly Hostnames[]
 }
 
@@ -20,7 +20,7 @@ export const webApp = {
   pluralSlug: "web-apps",
   extendsSlug: ["page-type/domain"],
   partSlugs: [
-    "relation-property/cluster-service-slugs",
+    "relation-property/cluster-services",
     "text-property/build-command",
     "text-property/hostnames",
     "text-property/source-directory",
@@ -35,7 +35,7 @@ export const webApp = {
     { pagePropertySlug: "text-property/source-directory", required: true, many: false },
     { pagePropertySlug: "text-property/build-command", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/cluster-service-slugs",
+      pagePropertySlug: "relation-property/cluster-services",
       required: true,
       many: true,
       maxCount: 20,

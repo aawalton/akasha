@@ -7,6 +7,6 @@ export const audhdalanWeb = {
   definition: "the site Alan's neurodiversity writing is published on",
   sourceDirectory: "products/audhdalan/audhdalan-web",
   buildCommand: "bun run build",
-  clusterServiceSlugs: ["audhdalan-web"],
+  clusterServices: ["audhdalan-web"],
   hostnames: ["audhdalan.com"],
 } as const satisfies WebApp

@@ -2,13 +2,13 @@ import type { Slug } from "@akasha/pages/page/slug"
 import type { List } from "@akasha/pages/page-property"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type ClusterServiceSlugs = List<Slug>
+export type ClusterServices = List<Slug>
 
-export const clusterServiceSlugs = {
+export const clusterServices = {
   id: "01a05b26-f8b6-7334-a5d4-d44ab19e071e",
   pageTypeSlug: "relation-property",
-  slug: "cluster-service-slugs",
-  propertySlug: "cluster-service-slugs",
+  slug: "cluster-services",
+  propertySlug: "cluster-services",
   definition: "the cluster services running a web app",
   targetPageTypeSlug: "page-type/cluster-service",
   invariants: [

@@ -65,7 +65,7 @@ function webApp(slug: string, at: number, slugs: readonly string[], whole = true
     held.sourceDirectory = "one/web"
     held.buildCommand = "bun run build"
   }
-  held.clusterServiceSlugs = slugs
+  held.clusterServices = slugs
   held.hostnames = [`${slug}.example`]
   return pageOf(slug, held)
 }
