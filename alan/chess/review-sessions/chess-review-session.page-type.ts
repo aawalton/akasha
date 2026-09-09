@@ -1,16 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { ChessGame } from "./properties/chess-game.relation-property.ts"
-import type { ChessReviewSessionNotes } from "./properties/chess-review-session-notes.file-property.ts"
-import type { ReviewedAt } from "./properties/reviewed-at.instant-property.ts"
-
-export type ChessReviewSession = Page & {
-  title: Title
-  chessGame: ChessGame
-  reviewedAt: ReviewedAt
-  notes: ChessReviewSessionNotes
-}
 
 export const chessReviewSession = {
   id: "019f1e54-024f-7c0b-9c78-d44a2a2e9f2e",
@@ -56,4 +44,5 @@ export const chessReviewSession = {
       statement: "A session names the persona who coached that session.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
