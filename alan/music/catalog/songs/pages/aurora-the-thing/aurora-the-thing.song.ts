@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraTheThing = {
   id: "019ea4a5-4912-7f87-ab0f-09fbe4e672d5",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-the-thing",
   title: "THE THING",
   artist: "aurora",

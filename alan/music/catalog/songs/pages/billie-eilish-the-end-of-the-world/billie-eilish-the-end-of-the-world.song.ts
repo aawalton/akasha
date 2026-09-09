@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishTheEndOfTheWorld = {
   id: "019ea4ab-2062-719a-a0dc-f7db0b5759a2",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-the-end-of-the-world",
   title: "The End of the World",
   artist: "billie-eilish",

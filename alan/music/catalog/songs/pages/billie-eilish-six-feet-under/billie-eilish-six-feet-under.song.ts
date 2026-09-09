@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishSixFeetUnder = {
   id: "019ea4ab-2ed8-7279-bcba-2d66ce01ccad",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-six-feet-under",
   title: "Six Feet Under",
   artist: "billie-eilish",

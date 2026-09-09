@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const imagineDragonsEmma = {
   id: "019ea49a-c015-70fe-936e-6bb0937ed584",
   pageTypeSlug: "song",
+  type: "song",
   slug: "imagine-dragons-emma",
   title: "Emma",
   artist: "imagine-dragons",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeYouLlNeverKnow = {
   id: "019ea4e8-b7a6-7042-a133-8baf16221307",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-you-ll-never-know",
   title: "You’ll Never Know",
   artist: "ariana-grande",

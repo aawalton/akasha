@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishComeOutAndPlay = {
   id: "019ea4a8-bf88-70a9-bb89-d86f5f077971",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-come-out-and-play",
   title: "come out and play",
   artist: "billie-eilish",

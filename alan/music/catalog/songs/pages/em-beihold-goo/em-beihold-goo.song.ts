@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const emBeiholdGoo = {
   id: "019ea4de-e938-7715-b3ff-ce6951baacaa",
   pageTypeSlug: "song",
+  type: "song",
   slug: "em-beihold-goo",
   title: "Goo",
   artist: "em-beihold",

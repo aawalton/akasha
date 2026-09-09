@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeLeaveMeLonely = {
   id: "019ea4e3-6824-7ad6-b139-af3111cc3aae",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-leave-me-lonely",
   title: "Leave Me Lonely",
   artist: "ariana-grande",

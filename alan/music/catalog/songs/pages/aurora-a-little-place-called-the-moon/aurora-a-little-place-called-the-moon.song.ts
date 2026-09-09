@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraALittlePlaceCalledTheMoon = {
   id: "019ea4a7-7b09-7821-b351-66539f4a423a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-a-little-place-called-the-moon",
   title: "A Little Place Called the Moon",
   artist: "aurora",

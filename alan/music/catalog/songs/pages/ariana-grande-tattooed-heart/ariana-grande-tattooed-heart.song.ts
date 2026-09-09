@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeTattooedHeart = {
   id: "019ea4e4-2835-75bb-ae9a-f393f8499d61",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-tattooed-heart",
   title: "Tattooed Heart",
   artist: "ariana-grande",

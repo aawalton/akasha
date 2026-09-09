@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeIDonTKnowWhy = {
   id: "019ea4e2-05ba-79e9-b74e-f858c515b526",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-i-don-t-know-why",
   title: "I Don’t Know Why",
   artist: "ariana-grande",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const emBeiholdNumbLittleBugPianoVersion = {
   id: "019ea4df-4855-778b-af87-e5d50df39e04",
   pageTypeSlug: "song",
+  type: "song",
   slug: "em-beihold-numb-little-bug-piano-version",
   title: "Numb Little Bug (Piano Version)",
   artist: "em-beihold",

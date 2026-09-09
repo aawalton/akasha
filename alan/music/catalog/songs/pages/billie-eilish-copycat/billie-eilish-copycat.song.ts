@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishCopycat = {
   id: "019ea4a8-df45-70b2-a966-191e360afa98",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-copycat",
   title: "COPYCAT",
   artist: "billie-eilish",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeNoTearsLeftToCry = {
   id: "019ea4e7-1343-708d-86a9-5be750f40d8f",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-no-tears-left-to-cry",
   title: "no tears left to cry",
   artist: "ariana-grande",

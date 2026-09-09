@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeAllMyLoveRemix = {
   id: "019ea4e2-17cb-742b-bb82-04a445d15679",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-all-my-love-remix",
   title: "All My Love (remix)",
   artist: "ariana-grande",

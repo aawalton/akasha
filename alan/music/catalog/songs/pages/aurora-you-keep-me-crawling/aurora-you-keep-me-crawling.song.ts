@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraYouKeepMeCrawling = {
   id: "019ea4a7-cc72-7343-83e5-58363f2bd12d",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-you-keep-me-crawling",
   title: "You Keep Me Crawling",
   artist: "aurora",

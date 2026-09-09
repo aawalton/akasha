@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishFingersCrossed = {
   id: "019ea4a9-c70c-7ede-94de-90a8f0a403e8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-fingers-crossed",
   title: "Fingers Crossed",
   artist: "billie-eilish",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const emBeiholdVanGogh = {
   id: "019ea4df-78f1-7bc4-a7d2-81bc4ccf3ce8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "em-beihold-van-gogh",
   title: "Van Gogh",
   artist: "em-beihold",

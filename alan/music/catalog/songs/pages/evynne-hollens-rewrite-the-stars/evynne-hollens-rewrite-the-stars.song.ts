@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const evynneHollensRewriteTheStars = {
   id: "019ea4cf-5bc8-775c-9c54-b753b1ee9041",
   pageTypeSlug: "song",
+  type: "song",
   slug: "evynne-hollens-rewrite-the-stars",
   title: "Rewrite the Stars",
   artist: "evynne-hollens",

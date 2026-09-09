@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeSantaCanTYouHearMe = {
   id: "019ea4b2-fafb-704d-b1d0-1313f331a8f8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-santa-can-t-you-hear-me",
   title: "Santa, Can’t You Hear Me",
   artist: "ariana-grande",

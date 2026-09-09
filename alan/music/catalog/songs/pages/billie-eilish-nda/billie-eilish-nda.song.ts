@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishNda = {
   id: "019ea4aa-b875-7160-bfc6-703216e83acf",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-nda",
   title: "NDA",
   artist: "billie-eilish",

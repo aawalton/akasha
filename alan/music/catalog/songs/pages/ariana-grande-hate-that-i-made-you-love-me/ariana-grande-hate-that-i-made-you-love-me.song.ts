@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeHateThatIMadeYouLoveMe = {
   id: "019ea4e0-5de3-7e08-9707-e2dfd4ef8920",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-hate-that-i-made-you-love-me",
   title: "hate that i made you love me",
   artist: "ariana-grande",

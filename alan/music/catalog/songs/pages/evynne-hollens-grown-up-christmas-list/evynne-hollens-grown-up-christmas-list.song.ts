@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const evynneHollensGrownUpChristmasList = {
   id: "019ea4af-76ea-7964-b5b3-e0fbdc4d5cd8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "evynne-hollens-grown-up-christmas-list",
   title: "Grown‐Up Christmas List",
   artist: "evynne-hollens",

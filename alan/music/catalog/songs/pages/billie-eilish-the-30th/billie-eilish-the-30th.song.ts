@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishThe30th = {
   id: "019ea4a9-a317-7266-b910-47ce6080ec29",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-the-30th",
   title: "The 30th",
   artist: "billie-eilish",

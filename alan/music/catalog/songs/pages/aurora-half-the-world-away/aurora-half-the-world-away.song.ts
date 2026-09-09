@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraHalfTheWorldAway = {
   id: "019ea4a7-4c57-7cf0-b863-cc2d9b04ea46",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-half-the-world-away",
   title: "Half the World Away",
   artist: "aurora",

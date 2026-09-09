@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishWatch = {
   id: "019ea4a8-7fc4-707f-844f-7b4be3f23482",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-watch",
   title: "watch",
   artist: "billie-eilish",

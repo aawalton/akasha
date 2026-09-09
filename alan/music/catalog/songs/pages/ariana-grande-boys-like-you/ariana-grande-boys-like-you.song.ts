@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeBoysLikeYou = {
   id: "019ea4e2-b640-7e8d-97e4-b73ca295abda",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-boys-like-you",
   title: "Boys Like You",
   artist: "ariana-grande",

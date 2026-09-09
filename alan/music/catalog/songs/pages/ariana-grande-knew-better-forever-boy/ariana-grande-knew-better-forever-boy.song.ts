@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeKnewBetterForeverBoy = {
   id: "019ea4e3-2a71-7e2d-9596-44b4710156ad",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-knew-better-forever-boy",
   title: "Knew Better / Forever Boy",
   artist: "ariana-grande",

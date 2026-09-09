@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const emBeiholdEggInTheBackseat = {
   id: "019ea4df-1a7a-7cb8-927d-6149d99a808e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "em-beihold-egg-in-the-backseat",
   title: "Egg in the Backseat",
   artist: "em-beihold",

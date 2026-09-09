@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishWhenThePartySOver = {
   id: "019ea4ab-8b1c-743c-971f-3a5272b3b7c7",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-when-the-party-s-over",
   title: "when the party’s over",
   artist: "billie-eilish",

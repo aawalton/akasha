@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeTheBoyIsMine = {
   id: "019ea4e6-35c0-7b41-86c8-321b11ec8f51",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-the-boy-is-mine",
   title: "The Boy Is Mine",
   artist: "ariana-grande",

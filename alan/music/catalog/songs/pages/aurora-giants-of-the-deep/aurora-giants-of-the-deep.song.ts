@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraGiantsOfTheDeep = {
   id: "019ea4a6-8a4a-754c-b005-981abdac237e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-giants-of-the-deep",
   title: "Giants of the Deep",
   artist: "aurora",

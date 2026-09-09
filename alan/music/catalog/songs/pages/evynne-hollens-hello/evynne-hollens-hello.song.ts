@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const evynneHollensHello = {
   id: "019ea4cf-3721-7534-8796-30e99f99837a",
   pageTypeSlug: "song",
+  type: "song",
   slug: "evynne-hollens-hello",
   title: "Hello",
   artist: "evynne-hollens",

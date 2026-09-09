@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeGreedyForTreasure = {
   id: "019ea4e2-ed69-707b-a53c-d3d974033ab9",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-greedy-for-treasure",
   title: "Greedy for Treasure",
   artist: "ariana-grande",

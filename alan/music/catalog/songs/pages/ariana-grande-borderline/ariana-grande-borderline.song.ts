@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeBorderline = {
   id: "019ea4e3-1e36-709e-a184-df68e807c4b0",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-borderline",
   title: "borderline",
   artist: "ariana-grande",

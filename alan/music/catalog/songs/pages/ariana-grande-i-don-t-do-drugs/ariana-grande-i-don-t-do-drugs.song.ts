@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeIDonTDoDrugs = {
   id: "019ea4e2-acad-723a-9938-d37c53f1aca8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-i-don-t-do-drugs",
   title: "I Don’t Do Drugs",
   artist: "ariana-grande",

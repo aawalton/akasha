@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraTundraAwakening = {
   id: "019ea4a7-1952-73f1-a9c1-02fdb2f9d611",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-tundra-awakening",
   title: "Tundra Awakening",
   artist: "aurora",

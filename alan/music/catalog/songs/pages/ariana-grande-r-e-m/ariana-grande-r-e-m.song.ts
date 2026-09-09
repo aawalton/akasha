@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeREM = {
   id: "019ea4e6-a62e-7116-8409-d12880fe32f5",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-r-e-m",
   title: "R.E.M",
   artist: "ariana-grande",

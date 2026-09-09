@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeWitItThisChristmas = {
   id: "019ea4e5-3f71-7cba-9d4a-f0d0d6e911e9",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-wit-it-this-christmas",
   title: "Wit It This Christmas",
   artist: "ariana-grande",

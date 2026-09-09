@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishMaybeDonTLeaveMe = {
   id: "019ea4ac-49c6-79b8-9818-7415bbec6c50",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-maybe-don-t-leave-me",
   title: "Maybe Don’t Leave Me",
   artist: "billie-eilish",

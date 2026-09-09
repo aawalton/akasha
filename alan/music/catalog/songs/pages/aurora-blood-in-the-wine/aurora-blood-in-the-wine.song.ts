@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraBloodInTheWine = {
   id: "019ea4a5-8cc9-7a02-8ee4-ea9769322aca",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-blood-in-the-wine",
   title: "Blood in the Wine",
   artist: "aurora",

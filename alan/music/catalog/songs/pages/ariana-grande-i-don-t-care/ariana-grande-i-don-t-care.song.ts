@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeIDonTCare = {
   id: "019ea4e0-d56c-7782-b3fc-a3d4970e13a0",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-i-don-t-care",
   title: "I Don't Care",
   artist: "ariana-grande",

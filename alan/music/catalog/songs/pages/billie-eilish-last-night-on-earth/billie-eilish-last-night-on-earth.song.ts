@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishLastNightOnEarth = {
   id: "019ea4ac-3bfa-7536-958d-8fdce6387a07",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-last-night-on-earth",
   title: "Last Night on Earth",
   artist: "billie-eilish",

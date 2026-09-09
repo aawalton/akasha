@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraNodKrai = {
   id: "019ea4a7-e0a2-7cbe-bba6-b3725475d5b3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-nod-krai",
   title: "挪德卡莱 Nod‐Krai",
   artist: "aurora",

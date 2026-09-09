@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandePeteDavidson = {
   id: "019ea4e7-d5a6-7ed7-a37e-89668efea557",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-pete-davidson",
   title: "pete davidson",
   artist: "ariana-grande",

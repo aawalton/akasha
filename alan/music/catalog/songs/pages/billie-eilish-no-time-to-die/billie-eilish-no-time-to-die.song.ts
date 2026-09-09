@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishNoTimeToDie = {
   id: "019ea4ab-47c2-7a34-b29c-430ecbb7541b",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-no-time-to-die",
   title: "No Time to Die",
   artist: "billie-eilish",

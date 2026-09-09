@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishTearMyselfApart = {
   id: "019ea4a8-8758-7600-ad44-99048ae68e3c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-tear-myself-apart",
   title: "Tear Myself Apart",
   artist: "billie-eilish",

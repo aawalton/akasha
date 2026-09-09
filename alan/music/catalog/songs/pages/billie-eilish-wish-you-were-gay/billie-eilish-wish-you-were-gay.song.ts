@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishWishYouWereGay = {
   id: "019ea4aa-2c18-7937-8e41-a63a52096720",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-wish-you-were-gay",
   title: "wish you were gay",
   artist: "billie-eilish",

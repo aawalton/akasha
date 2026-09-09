@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishYesterday = {
   id: "019ea4a8-6130-7e01-a52a-d766534b66d8",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-yesterday",
   title: "Yesterday",
   artist: "billie-eilish",

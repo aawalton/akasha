@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishOverheated = {
   id: "019ea4a8-58aa-7ac5-8e77-6e1e92014724",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-overheated",
   title: "OverHeated",
   artist: "billie-eilish",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraInfectionsOfADifferentKind = {
   id: "019ea4a7-47b7-7abe-bada-dc4cf62f8e87",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-infections-of-a-different-kind",
   title: "Infections of a Different Kind",
   artist: "aurora",

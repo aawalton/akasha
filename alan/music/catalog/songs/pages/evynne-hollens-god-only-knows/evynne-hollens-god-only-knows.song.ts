@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const evynneHollensGodOnlyKnows = {
   id: "019ea4cf-3f4e-7c78-95af-2c33b0c5300d",
   pageTypeSlug: "song",
+  type: "song",
   slug: "evynne-hollens-god-only-knows",
   title: "God Only Knows",
   artist: "evynne-hollens",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeWhatDoYouMean = {
   id: "019ea4e4-05f9-7fb7-b1a1-cc343ba97a30",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-what-do-you-mean",
   title: "What Do You Mean?",
   artist: "ariana-grande",

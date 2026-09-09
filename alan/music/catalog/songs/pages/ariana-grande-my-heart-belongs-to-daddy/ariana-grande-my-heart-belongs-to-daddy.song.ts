@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeMyHeartBelongsToDaddy = {
   id: "019ea4e8-96aa-73fb-a32b-731433862eb9",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-my-heart-belongs-to-daddy",
   title: "My Heart Belongs to Daddy",
   artist: "ariana-grande",

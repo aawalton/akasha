@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishWhatWasIMadeFor = {
   id: "019ea4a8-fc19-7e4e-83a9-51a5347e6c66",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-what-was-i-made-for",
   title: "What Was I Made For?",
   artist: "billie-eilish",

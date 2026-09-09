@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishGettingOlder = {
   id: "019ea4a9-870a-798d-af85-ef5955ea122e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-getting-older",
   title: "Getting Older",
   artist: "billie-eilish",

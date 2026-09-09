@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const emBeiholdScaredOfTheDark = {
   id: "019ea4df-08f7-7941-a95e-75f01dfbfaa0",
   pageTypeSlug: "song",
+  type: "song",
   slug: "em-beihold-scared-of-the-dark",
   title: "Scared of the Dark",
   artist: "em-beihold",

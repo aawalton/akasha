@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishYouShouldSeeMeInACrown = {
   id: "019ea4a9-6baf-77bc-b513-28d0701c131e",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-you-should-see-me-in-a-crown",
   title: "you should see me in a crown",
   artist: "billie-eilish",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const imagineDragonsDonTForgetMe = {
   id: "019ea498-9556-78d3-a849-474547cb0d52",
   pageTypeSlug: "song",
+  type: "song",
   slug: "imagine-dragons-don-t-forget-me",
   title: "Don’t Forget Me",
   artist: "imagine-dragons",

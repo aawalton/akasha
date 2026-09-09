@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraLittleBoyInTheGrass = {
   id: "019ea4a3-faa6-76c9-bbd3-dbeede219a50",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-little-boy-in-the-grass",
   title: "Little Boy in the Grass",
   artist: "aurora",

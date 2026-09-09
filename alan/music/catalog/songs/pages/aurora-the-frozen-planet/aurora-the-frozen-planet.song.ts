@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraTheFrozenPlanet = {
   id: "019ea4a4-84c6-72d8-abe8-4e436d4f77c9",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-the-frozen-planet",
   title: "The Frozen Planet",
   artist: "aurora",

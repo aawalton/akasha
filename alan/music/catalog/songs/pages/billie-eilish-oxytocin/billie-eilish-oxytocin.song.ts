@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishOxytocin = {
   id: "019ea4ab-3fe3-734d-a757-211ade851628",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-oxytocin",
   title: "Oxytocin",
   artist: "billie-eilish",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeYouCanTStopTheBeat = {
   id: "019ea4e7-4a13-78e6-9ca5-cb37dfdec652",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-you-can-t-stop-the-beat",
   title: "You Can’t Stop the Beat",
   artist: "ariana-grande",

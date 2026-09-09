@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeBreakFree = {
   id: "019ea4e1-f38c-7b25-9309-4f16395abde7",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-break-free",
   title: "Break Free",
   artist: "ariana-grande",

@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const billieEilishLoVasAOlvidar = {
   id: "019ea4ab-bd46-7103-991e-57900a309692",
   pageTypeSlug: "song",
+  type: "song",
   slug: "billie-eilish-lo-vas-a-olvidar",
   title: "Lo vas a olvidar",
   artist: "billie-eilish",

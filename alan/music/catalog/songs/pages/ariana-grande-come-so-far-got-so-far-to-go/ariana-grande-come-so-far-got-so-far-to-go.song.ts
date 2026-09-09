@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const arianaGrandeComeSoFarGotSoFarToGo = {
   id: "019ea4e2-3a1e-7903-be17-4c33a992a3f9",
   pageTypeSlug: "song",
+  type: "song",
   slug: "ariana-grande-come-so-far-got-so-far-to-go",
   title: "Come So Far (Got So Far to Go)",
   artist: "ariana-grande",

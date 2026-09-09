@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraIWentTooFar = {
   id: "019ea4a3-711d-78aa-a126-52d9d5524950",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-i-went-too-far",
   title: "I Went Too Far",
   artist: "aurora",

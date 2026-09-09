@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraHaveYouSeenMeDanceAlone = {
   id: "019ea4a6-4bda-7033-b68c-c15def1f06c3",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-have-you-seen-me-dance-alone",
   title: "HAVE YOU SEEN ME DANCE ALONE",
   artist: "aurora",

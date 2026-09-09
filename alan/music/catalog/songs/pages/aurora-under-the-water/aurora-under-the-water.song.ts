@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraUnderTheWater = {
   id: "019ea4a4-0aca-7217-84f8-726c6e0425bf",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-under-the-water",
   title: "Under the Water",
   artist: "aurora",

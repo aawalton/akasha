@@ -3,6 +3,7 @@ import type { Song } from "../../song.page-type.ts"
 export const auroraBelugaEscape = {
   id: "019ea4a4-4467-73bc-bac7-3c2eecf3e78c",
   pageTypeSlug: "song",
+  type: "song",
   slug: "aurora-beluga-escape",
   title: "Beluga Escape",
   artist: "aurora",
