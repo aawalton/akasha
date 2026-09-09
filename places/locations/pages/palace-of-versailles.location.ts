@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const palaceOfVersailles = {
   id: "019f1b49-5443-7e7e-b218-d4419ec726f0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "palace-of-versailles",
   title: "Palace of Versailles",
   latitude: 48.8109913,

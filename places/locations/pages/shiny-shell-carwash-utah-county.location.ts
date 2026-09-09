@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const shinyShellCarwashUtahCounty = {
   id: "019f322c-9b7e-767e-8860-92fda3a1d0cd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "shiny-shell-carwash-utah-county",
   title: "Shiny Shell Carwash (Utah County)",
   address: "Utah County, UT",

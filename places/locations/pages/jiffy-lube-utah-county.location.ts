@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jiffyLubeUtahCounty = {
   id: "019f322c-9913-7a40-b9f2-5e4c13cd8cec",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jiffy-lube-utah-county",
   title: "Jiffy Lube (Utah County)",
   address: "Utah County, UT",

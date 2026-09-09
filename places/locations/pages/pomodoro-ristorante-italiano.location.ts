@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pomodoroRistoranteItaliano = {
   id: "019f1b49-559e-720a-ba7c-ca82aef60bd0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pomodoro-ristorante-italiano",
   title: "Pomodoro Ristorante Italiano",
   latitude: 32.519783,

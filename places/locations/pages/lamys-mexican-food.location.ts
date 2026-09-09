@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const lamysMexicanFood = {
   id: "019f1b49-5604-7e4f-9561-d338ff865ff5",
   pageTypeSlug: "location",
+  type: "location",
   slug: "lamys-mexican-food",
   title: "Lamy's Mexican Food",
   latitude: 40.636782,

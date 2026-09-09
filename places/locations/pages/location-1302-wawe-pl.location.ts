@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const location1302WawePl = {
   id: "019f1b49-52b7-74ff-97c5-ee4c176c669e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "location-1302-wawe-pl",
   title: "1302 Wawe Pl",
   latitude: 21.3648843,

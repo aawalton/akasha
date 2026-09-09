@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jackJillLanesAmericanFork = {
   id: "019f322c-9724-7382-b0fb-811e52a6a5e2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jack-jill-lanes-american-fork",
   title: "Jack & Jill Lanes (American Fork)",
   address: "American Fork, UT",

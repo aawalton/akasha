@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const seaLifeParkHawaii = {
   id: "019f1b49-52c2-7c03-844c-511411973bfb",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sea-life-park-hawaii",
   title: "Sea Life Park Hawaii",
   latitude: 34.825195,

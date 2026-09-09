@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const leclairDeGenie = {
   id: "019f1aec-0dd4-7eac-bebd-a95e81dd1ecd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "leclair-de-genie",
   title: "L’Éclair de génie",
   latitude: 48.8815899,

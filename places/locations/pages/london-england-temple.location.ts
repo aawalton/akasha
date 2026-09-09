@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const londonEnglandTemple = {
   id: "019f1aec-0e78-729e-bff6-10847a8cc19e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "london-england-temple",
   title: "London England Temple",
   latitude: 51.5471732,

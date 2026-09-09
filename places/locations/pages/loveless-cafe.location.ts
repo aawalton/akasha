@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const lovelessCafe = {
   id: "019f1aec-0de8-7eba-bb09-e06a3623cac8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "loveless-cafe",
   title: "Loveless Cafe",
   latitude: 36.0353097,

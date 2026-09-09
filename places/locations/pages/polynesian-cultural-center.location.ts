@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const polynesianCulturalCenter = {
   id: "019f1b49-52dc-7aee-9957-cd197fd5b267",
   pageTypeSlug: "location",
+  type: "location",
   slug: "polynesian-cultural-center",
   title: "Polynesian Cultural Center",
   latitude: 21.639168,

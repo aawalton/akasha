@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const moesSouthwestGrill = {
   id: "019f1aec-0d2f-7c8f-a728-765de88c616b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "moes-southwest-grill",
   title: "Moe's Southwest Grill",
   latitude: 40.7527033,

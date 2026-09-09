@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const phoenixCopenhagenRecentlyViewed = {
   id: "019f1b49-5397-74d0-a2e4-22381f42a9da",
   pageTypeSlug: "location",
+  type: "location",
   slug: "phoenix-copenhagen-recently-viewed",
   title: "Phoenix Copenhagen Recently viewed",
   latitude: 33.60503,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const rohdelkkenKafe = {
   id: "019f1aec-0ee4-7d73-9c16-977b7d844e2c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "rohdelkken-kafe",
   title: "Rohdeløkken ﻿Kafé",
   latitude: 59.9140171,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const muranoMade = {
   id: "019f1b49-5508-7bdc-b551-96c615826f6f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "murano-made",
   title: "Murano made",
   latitude: 45.454119,

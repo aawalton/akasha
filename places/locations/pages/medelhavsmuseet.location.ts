@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const medelhavsmuseet = {
   id: "019f1aec-0e0d-7309-bc97-97e57fec1806",
   pageTypeSlug: "location",
+  type: "location",
   slug: "medelhavsmuseet",
   title: "Medelhavsmuseet",
   latitude: 59.3294531,

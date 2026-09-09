@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const stPetersChurch = {
   id: "019f1aec-0ef8-7cab-8d01-fdd2897ca7f2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "st-peters-church",
   title: "St. Peter's Church",
   latitude: 49.7562446,

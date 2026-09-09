@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const richardWalkersPancakeHouseA27f = {
   id: "019f1aec-0e63-7f7b-a41a-0445db97a27f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "richard-walkers-pancake-house-a27f",
   title: "Richard Walker's Pancake House",
   latitude: 32.8463997,

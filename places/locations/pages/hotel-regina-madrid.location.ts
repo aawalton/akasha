@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const hotelReginaMadrid = {
   id: "019f1aec-0d67-7de6-bd43-e113c740f65e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "hotel-regina-madrid",
   title: "Hotel Regina Madrid",
   latitude: 40.4179496,

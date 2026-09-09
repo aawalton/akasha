@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const squattersRoadhouseGrill = {
   id: "019f1b49-5715-78ac-bcb3-c639d7e9280e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "squatters-roadhouse-grill",
   title: "Squatters Roadhouse Grill",
   latitude: 40.6609322,

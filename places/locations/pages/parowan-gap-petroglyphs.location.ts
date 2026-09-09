@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const parowanGapPetroglyphs = {
   id: "019f1b49-5661-7f28-8593-c0bd1f14260d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "parowan-gap-petroglyphs",
   title: "Parowan Gap Petroglyphs",
   latitude: 37.693327,

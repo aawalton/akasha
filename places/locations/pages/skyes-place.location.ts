@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const skyesPlace = {
   id: "019f1aec-0f41-7e05-b0d6-1960494d6bf6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "skyes-place",
   title: "Skye’s place",
   address: "19829 SE 316th Pl, Kent, WA 98042, USA",

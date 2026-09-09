@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const lidl = {
   id: "019f1aec-0d64-739d-8651-d92e3db57661",
   pageTypeSlug: "location",
+  type: "location",
   slug: "lidl",
   title: "Lidl",
   latitude: 53.3731747,

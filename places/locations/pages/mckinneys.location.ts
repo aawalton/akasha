@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mckinneys = {
   id: "019f1aec-0f2a-73be-b91f-153ea64068db",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mckinneys",
   title: "McKinney’s",
   address: "1174 W 120 N, Mapleton, UT 84664, USA",

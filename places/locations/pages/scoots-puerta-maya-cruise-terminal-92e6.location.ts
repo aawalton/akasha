@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const scootsPuertaMayaCruiseTerminal92e6 = {
   id: "019f1aec-0f73-75b7-bf47-899f319692e6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "scoots-puerta-maya-cruise-terminal-92e6",
   title: "Scoots Puerta Maya Cruise Terminal",
   latitude: 20.4789537,

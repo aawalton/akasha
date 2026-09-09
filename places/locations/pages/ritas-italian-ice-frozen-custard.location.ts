@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const ritasItalianIceFrozenCustard = {
   id: "019f1b49-54d2-726e-8ab6-fab84e709714",
   pageTypeSlug: "location",
+  type: "location",
   slug: "ritas-italian-ice-frozen-custard",
   title: "Rita's Italian Ice & Frozen Custard",
   latitude: 26.3011313,

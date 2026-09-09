@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const idAirbnb = {
   id: "019f1aec-0f3f-742c-9849-068d2e970ca2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "id-airbnb",
   title: "ID Airbnb",
   address: "10956 S Dempsey Creek Rd, Lava Hot Springs, ID 83246, USA",

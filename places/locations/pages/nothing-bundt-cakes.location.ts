@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nothingBundtCakes = {
   id: "019f1aec-1033-7f22-9769-7a1b1d3fc823",
   pageTypeSlug: "location",
+  type: "location",
   slug: "nothing-bundt-cakes",
   title: "Nothing Bundt Cakes",
   address: "987 W 500 N #105, American Fork, UT 84003, United States",

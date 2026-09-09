@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const improvBroadwayUtahCounty = {
   id: "019f322c-9720-74dd-b05e-fb1c7ec4036d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "improv-broadway-utah-county",
   title: "Improv Broadway (Utah County)",
   address: "Utah County, UT",

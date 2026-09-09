@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sistineChapel = {
   id: "019f1b49-53e7-7c71-820f-99344c5cfce1",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sistine-chapel",
   title: "Sistine Chapel",
   latitude: 41.901229,

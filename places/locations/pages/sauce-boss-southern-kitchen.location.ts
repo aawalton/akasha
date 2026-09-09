@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sauceBossSouthernKitchen = {
   id: "019f1aec-0d2a-7da4-8798-36e6f3e75b05",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sauce-boss-southern-kitchen",
   title: "Sauce Boss Southern Kitchen",
   latitude: 40.5271912,

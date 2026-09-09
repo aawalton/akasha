@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const laCocinaMexicanStreetFood = {
   id: "019f1b49-5603-7567-8c5f-f535cb753003",
   pageTypeSlug: "location",
+  type: "location",
   slug: "la-cocina-mexican-street-food",
   title: "La Cocina Mexican Street Food",
   latitude: 34.139256,

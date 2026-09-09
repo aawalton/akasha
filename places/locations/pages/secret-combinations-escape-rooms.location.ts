@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const secretCombinationsEscapeRooms = {
   id: "019f1aec-0d28-766d-bca0-d6c6b3c1febf",
   pageTypeSlug: "location",
+  type: "location",
   slug: "secret-combinations-escape-rooms",
   title: "Secret Combinations Escape Rooms",
   latitude: 40.3782356,

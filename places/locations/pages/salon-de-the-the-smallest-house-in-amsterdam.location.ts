@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const salonDeTheTheSmallestHouseInAmsterdam = {
   id: "019f1b49-5520-741b-baf2-475f9c4f1098",
   pageTypeSlug: "location",
+  type: "location",
   slug: "salon-de-the-the-smallest-house-in-amsterdam",
   title: "Salon de Thé (The Smallest House in Amsterdam)",
   latitude: 52.3741006,

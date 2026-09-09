@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nationalTileMuseum = {
   id: "019f1aec-0ec2-7baa-b0c0-d7c9e094d9a8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "national-tile-museum",
   title: "National Tile Museum",
   latitude: 38.7247242,

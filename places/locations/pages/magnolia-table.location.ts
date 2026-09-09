@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const magnoliaTable = {
   id: "019f1aec-0e93-7b39-a3d1-c158d2c35595",
   pageTypeSlug: "location",
+  type: "location",
   slug: "magnolia-table",
   title: "Magnolia Table",
   latitude: 31.5247141,

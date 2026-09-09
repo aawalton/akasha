@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const madameTussaudsAmsterdam = {
   id: "019f1aec-0e32-785f-8a33-158d212beeec",
   pageTypeSlug: "location",
+  type: "location",
   slug: "madame-tussauds-amsterdam",
   title: "Madame Tussauds Amsterdam",
   latitude: 52.3725869,

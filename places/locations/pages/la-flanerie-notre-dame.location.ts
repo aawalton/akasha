@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const laFlanerieNotreDame = {
   id: "019f1b49-540c-7fd7-b7bf-f808a337ed88",
   pageTypeSlug: "location",
+  type: "location",
   slug: "la-flanerie-notre-dame",
   title: "La Flânerie Notre-Dame",
   latitude: 48.6488394,

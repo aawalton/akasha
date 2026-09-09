@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nashvilleFarmersMarket = {
   id: "019f1b49-5483-745f-8a6d-77e801287225",
   pageTypeSlug: "location",
+  type: "location",
   slug: "nashville-farmers-market",
   title: "Nashville Farmers' Market",
   latitude: 36.1622767,

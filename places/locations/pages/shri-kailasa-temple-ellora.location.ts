@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const shriKailasaTempleEllora = {
   id: "019f1b49-5198-78bb-a919-73abe6273d48",
   pageTypeSlug: "location",
+  type: "location",
   slug: "shri-kailasa-temple-ellora",
   title: "Shri Kailasa Temple, Ellora",
   latitude: 11.2008197,

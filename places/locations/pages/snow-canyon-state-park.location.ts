@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const snowCanyonStatePark = {
   id: "019f1b49-5606-76d8-9f54-b5b7eae66264",
   pageTypeSlug: "location",
+  type: "location",
   slug: "snow-canyon-state-park",
   title: "Snow Canyon State Park",
   latitude: -33.960833,

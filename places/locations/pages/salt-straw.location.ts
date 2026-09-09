@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const saltStraw = {
   id: "019f1aec-0c83-784e-9b46-d44d447e2ef7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "salt-straw",
   title: "Salt & Straw",
   latitude: 47.6682261,

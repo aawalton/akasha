@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const meltyUtahCounty = {
   id: "019f322c-9ab0-7597-82f6-ef2a16a77d57",
   pageTypeSlug: "location",
+  type: "location",
   slug: "melty-utah-county",
   title: "Melty (Utah County)",
   address: "Utah County, UT",

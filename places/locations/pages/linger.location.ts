@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const linger = {
   id: "019f1aec-0d47-7bc2-bb5a-4ce323e3c4c7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "linger",
   title: "Linger",
   latitude: 49.5648801,

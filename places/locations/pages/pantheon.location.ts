@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pantheon = {
   id: "019f1aec-0db0-744d-89f1-2b6a9091ab49",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pantheon",
   title: "Pantheon",
   latitude: 41.898616,

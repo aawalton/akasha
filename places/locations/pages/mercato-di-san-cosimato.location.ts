@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mercatoDiSanCosimato = {
   id: "019f1aec-0daa-7224-9b8a-dd3fcd8755da",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mercato-di-san-cosimato",
   title: "Mercato di San Cosimato",
   latitude: 41.88744,

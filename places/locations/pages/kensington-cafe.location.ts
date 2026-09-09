@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const kensingtonCafe = {
   id: "019f1aec-0e54-7675-afde-f98f7575dc7b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "kensington-cafe",
   title: "Kensington Cafe",
   address: "4141 Adams Ave, San Diego, CA 92116, United States",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const peggyGuggenheimCollection = {
   id: "019f1aec-0e1a-76c0-9467-6385ac46db8a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "peggy-guggenheim-collection",
   title: "Peggy Guggenheim Collection",
   latitude: 41.8534714,

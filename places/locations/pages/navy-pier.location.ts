@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const navyPier = {
   id: "019f1aec-0eb2-7dcf-8f3d-8edd5224686a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "navy-pier",
   title: "Navy Pier",
   latitude: 41.8905809,

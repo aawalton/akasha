@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const iolaniPalace = {
   id: "019f1b49-52b8-7c8f-9e38-f6a8f7ec0a0f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "iolani-palace",
   title: "Iolani Palace",
   latitude: 21.31,

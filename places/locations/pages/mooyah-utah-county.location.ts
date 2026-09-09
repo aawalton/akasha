@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mooyahUtahCounty = {
   id: "019f322c-9ac4-7cf9-87ae-d2099489b154",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mooyah-utah-county",
   title: "Mooyah (Utah County)",
   address: "Utah County, UT",

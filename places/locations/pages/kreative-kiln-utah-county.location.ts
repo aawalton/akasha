@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const kreativeKilnUtahCounty = {
   id: "019f322c-997b-7c8a-bb3c-fef9f840bbd6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "kreative-kiln-utah-county",
   title: "Kreative Kiln (Utah County)",
   address: "Utah County, UT",

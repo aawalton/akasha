@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const naperSettlement = {
   id: "019f1b49-566c-7fb0-b11a-de8e14931dba",
   pageTypeSlug: "location",
+  type: "location",
   slug: "naper-settlement",
   title: "Naper Settlement",
   latitude: 41.769076,

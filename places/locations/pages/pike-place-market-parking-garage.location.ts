@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pikePlaceMarketParkingGarage = {
   id: "019f1b49-50be-7946-8de3-fb51696963a4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pike-place-market-parking-garage",
   title: "Pike Place Market Parking Garage",
   latitude: 47.610917,

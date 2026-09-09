@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const malawisPizzaUtahCounty = {
   id: "019f322c-9a3f-7aa7-b0b4-db594c2966cc",
   pageTypeSlug: "location",
+  type: "location",
   slug: "malawis-pizza-utah-county",
   title: "Malawi's Pizza (Utah County)",
   address: "Utah County, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const shamrockFoodserviceWarehouse = {
   id: "019f1aec-0cd3-787a-bf2c-e838886192a1",
   pageTypeSlug: "location",
+  type: "location",
   slug: "shamrock-foodservice-warehouse",
   title: "Shamrock Foodservice Warehouse",
   latitude: 40.5431182,

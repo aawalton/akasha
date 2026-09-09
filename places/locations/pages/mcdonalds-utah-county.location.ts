@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mcdonaldsUtahCounty = {
   id: "019f322c-9aab-702a-bf87-0b4d72caa460",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mcdonalds-utah-county",
   title: "McDonald's (Utah County)",
   address: "Utah County, UT",

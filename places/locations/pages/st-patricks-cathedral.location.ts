@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const stPatricksCathedral = {
   id: "019f1aec-0d61-7d37-8fdd-80d89f24c2d8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "st-patricks-cathedral",
   title: "St Patrick's Cathedral",
   latitude: 53.3395644,

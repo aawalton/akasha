@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const royalPalaceAmsterdam = {
   id: "019f1aec-0e37-7565-ba60-31354db7f40e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "royal-palace-amsterdam",
   title: "Royal Palace Amsterdam",
   latitude: 52.3731449,

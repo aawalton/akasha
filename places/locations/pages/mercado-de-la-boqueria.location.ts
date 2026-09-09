@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mercadoDeLaBoqueria = {
   id: "019f1b49-55c3-7af4-b5e7-4d5869daf2d4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mercado-de-la-boqueria",
   title: "Mercado de La Boqueria",
   latitude: 39.4617322,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const paletasGourmetCreamsicles = {
   id: "019f1aec-0ccc-737c-b26d-eba2b5e282ae",
   pageTypeSlug: "location",
+  type: "location",
   slug: "paletas-gourmet-creamsicles",
   title: "Paletas gourmet creamsicles",
   latitude: 37.1093648,

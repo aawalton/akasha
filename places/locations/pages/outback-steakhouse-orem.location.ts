@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const outbackSteakhouseOrem = {
   id: "019f322c-9ae7-7de3-a866-74ec2f11c8c0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "outback-steakhouse-orem",
   title: "Outback Steakhouse (Orem)",
   address: "Orem, UT",

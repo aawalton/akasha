@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nryfjordWorldHeritagePark = {
   id: "019f1b49-5731-7188-a9af-ca5a31b02cb2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "nryfjord-world-heritage-park",
   title: "Nærøyfjord World Heritage Park",
   latitude: 60.3974121,

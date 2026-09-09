@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const lincolnCity = {
   id: "019f1aec-0cbd-72c8-9622-3ade4232dccb",
   pageTypeSlug: "location",
+  type: "location",
   slug: "lincoln-city",
   title: "Lincoln City",
   latitude: 44.9617922,

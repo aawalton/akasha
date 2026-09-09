@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const meyersDeli = {
   id: "019f1b49-5388-7592-b90b-c3cf03ea0091",
   pageTypeSlug: "location",
+  type: "location",
   slug: "meyers-deli",
   title: "Meyers Deli",
   latitude: 3.547929,

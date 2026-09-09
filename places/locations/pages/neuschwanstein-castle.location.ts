@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const neuschwansteinCastle = {
   id: "019f1aec-0efb-7549-8be0-15fdc1233558",
   pageTypeSlug: "location",
+  type: "location",
   slug: "neuschwanstein-castle",
   title: "Neuschwanstein Castle",
   latitude: 47.5575522,

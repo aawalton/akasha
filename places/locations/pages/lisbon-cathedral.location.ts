@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const lisbonCathedral = {
   id: "019f1aec-0ec6-7609-87fb-8efca5cfdc9f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "lisbon-cathedral",
   title: "Lisbon Cathedral",
   latitude: 38.7098185,

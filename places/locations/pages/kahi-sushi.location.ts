@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const kahiSushi = {
   id: "019f1aec-0eec-76cd-9e3c-eed334782b16",
   pageTypeSlug: "location",
+  type: "location",
   slug: "kahi-sushi",
   title: "Kahi Sushi",
   latitude: 40.3784897,

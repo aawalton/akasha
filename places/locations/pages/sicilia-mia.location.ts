@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const siciliaMia = {
   id: "019f1aec-0d21-7173-a0d7-d7ec83dde5ac",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sicilia-mia",
   title: "Sicilia Mia",
   latitude: 40.6726565,

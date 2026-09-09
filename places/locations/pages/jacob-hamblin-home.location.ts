@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jacobHamblinHome = {
   id: "019f1b49-5607-7fab-b7cc-26122fe3f1d7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jacob-hamblin-home",
   title: "Jacob Hamblin Home",
   latitude: 37.058119,

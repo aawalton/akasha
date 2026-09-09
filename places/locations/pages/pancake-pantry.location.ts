@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pancakePantry = {
   id: "019f1aec-0ddc-7667-9b38-e7804ed692ac",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pancake-pantry",
   title: "Pancake Pantry",
   latitude: 36.1370461,

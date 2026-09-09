@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const marsWrigleyConfectionery = {
   id: "019f1aec-0e96-745a-b155-58ca73cbff6b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mars-wrigley-confectionery",
   title: "Mars Wrigley Confectionery",
   latitude: 31.4912892,

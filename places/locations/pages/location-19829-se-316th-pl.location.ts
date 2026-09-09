@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const location19829Se316thPl = {
   id: "019f1aec-0c93-7dfb-980c-5c7265c5861a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "location-19829-se-316th-pl",
   title: "19829 SE 316th Pl",
   latitude: 47.3162679,

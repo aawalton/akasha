@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const londonHatchardsPiccadilly = {
   id: "019f1b49-55d9-7e64-8f5c-c7a3e656528f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "london-hatchards-piccadilly",
   title: "London - Hatchards - Piccadilly",
   latitude: 51.510276,

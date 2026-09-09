@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const rijksmuseum = {
   id: "019f1aec-0e3f-71a4-b8f6-f9feef400c93",
   pageTypeSlug: "location",
+  type: "location",
   slug: "rijksmuseum",
   title: "Rijksmuseum",
   latitude: 52.3598431,

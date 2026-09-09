@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sainteChapelle = {
   id: "019f1aec-0dc0-74f0-8665-72f7bfee3e18",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sainte-chapelle",
   title: "Sainte-Chapelle",
   latitude: 48.8553933,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const palaceOfGaudiAstorga = {
   id: "019f1b49-55b7-7489-ab3c-d53ef5d30081",
   pageTypeSlug: "location",
+  type: "location",
   slug: "palace-of-gaudi-astorga",
   title: "Palace of Gaudì Astorga",
   latitude: 42.455401,

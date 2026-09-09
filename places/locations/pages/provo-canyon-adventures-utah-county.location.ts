@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const provoCanyonAdventuresUtahCounty = {
   id: "019f322c-9b29-7a46-83d9-ed798af322a4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "provo-canyon-adventures-utah-county",
   title: "Provo Canyon Adventures (Utah County)",
   address: "Utah County, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const muranoGlassNativitySet = {
   id: "019f1b49-5781-76f4-846c-3c627162389a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "murano-glass-nativity-set",
   title:
     "Nativity set, Murano glass Italian complete scene, crib made in Venice, 18 \npieces of the manger set, with certificate of authenticity.",

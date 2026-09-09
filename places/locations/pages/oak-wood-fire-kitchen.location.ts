@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const oakWoodFireKitchen = {
   id: "019f1aec-0ce0-770b-862d-3bab6f7b859a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "oak-wood-fire-kitchen",
   title: "OAK Wood Fire Kitchen",
   latitude: 40.5279236,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nicksHouse = {
   id: "019f1aec-0f30-7c34-949f-5ab0e88a4227",
   pageTypeSlug: "location",
+  type: "location",
   slug: "nicks-house",
   title: "Nick’s house",
   address: "722 N 380 W, Vineyard, UT 84059, United States",

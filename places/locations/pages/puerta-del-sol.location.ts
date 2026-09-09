@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const puertaDelSol = {
   id: "019f1aec-0d6d-7e43-acdf-1c96291bf0c6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "puerta-del-sol",
   title: "Puerta del Sol",
   latitude: 40.416863,

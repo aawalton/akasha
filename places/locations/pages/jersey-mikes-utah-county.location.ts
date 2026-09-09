@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jerseyMikesUtahCounty = {
   id: "019f322c-98fc-7af8-9e1a-ed5d7407f6d9",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jersey-mikes-utah-county",
   title: "Jersey Mikes (Utah County)",
   address: "Utah County, UT",

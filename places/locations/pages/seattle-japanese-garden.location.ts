@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const seattleJapaneseGarden = {
   id: "019f1b49-50c5-74d8-b5a8-e352523a17a3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "seattle-japanese-garden",
   title: "Seattle Japanese Garden",
   latitude: 47.6095043,

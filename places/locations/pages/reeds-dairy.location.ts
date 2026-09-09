@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const reedsDairy = {
   id: "019f1aec-0f19-742b-958e-bffb00f72871",
   pageTypeSlug: "location",
+  type: "location",
   slug: "reeds-dairy",
   title: "Reed's Dairy",
   latitude: 43.4980719,

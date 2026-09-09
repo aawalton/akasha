@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pearlHarborHistoricSitesVisitorCenter = {
   id: "019f1b49-52d9-7e4e-91f6-0c196878dacd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pearl-harbor-historic-sites-visitor-center",
   title: "Pearl Harbor Historic Sites Visitor Center",
   latitude: 37.9473861,

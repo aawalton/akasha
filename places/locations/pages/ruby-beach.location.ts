@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const rubyBeach = {
   id: "019f1aec-0c9d-71bc-a8ed-19e25c064994",
   pageTypeSlug: "location",
+  type: "location",
   slug: "ruby-beach",
   title: "Ruby Beach",
   latitude: 47.7194544,

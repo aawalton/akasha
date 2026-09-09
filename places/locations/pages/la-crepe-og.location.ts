@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const laCrepeOg = {
   id: "019f1aec-0d3c-73b0-94ee-4cb4dff2bba1",
   pageTypeSlug: "location",
+  type: "location",
   slug: "la-crepe-og",
   title: "La Crepe OG",
   latitude: 41.2224755,

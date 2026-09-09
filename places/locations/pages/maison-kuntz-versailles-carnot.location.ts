@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const maisonKuntzVersaillesCarnot = {
   id: "019f1b49-540a-72c6-8489-b7946e465981",
   pageTypeSlug: "location",
+  type: "location",
   slug: "maison-kuntz-versailles-carnot",
   title: "Maison Kuntz Versailles Carnot",
   latitude: 48.82586,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const splashSummitWaterparkUtahCounty = {
   id: "019f322c-9b91-7c1c-923b-6ef59b42f248",
   pageTypeSlug: "location",
+  type: "location",
   slug: "splash-summit-waterpark-utah-county",
   title: "Splash Summit Waterpark (Utah County)",
   address: "Utah County, UT",

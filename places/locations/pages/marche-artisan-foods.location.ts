@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const marcheArtisanFoods = {
   id: "019f1aec-0de0-7315-a5a4-902d2f192d68",
   pageTypeSlug: "location",
+  type: "location",
   slug: "marche-artisan-foods",
   title: "Marché Artisan Foods",
   latitude: 36.1780436,

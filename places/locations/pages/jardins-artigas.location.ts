@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jardinsArtigas = {
   id: "019f1aec-0e67-7d3a-8828-70a20dadf17c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jardins-artigas",
   title: "Jardins Artigas",
   latitude: 42.2529837,

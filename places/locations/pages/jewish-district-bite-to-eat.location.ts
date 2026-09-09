@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jewishDistrictBiteToEat = {
   id: "019f1aec-0f27-79d0-ac13-8178d9f844d2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jewish-district-bite-to-eat",
   title: "Jewish District bite to eat",
   address: "Via del Portico d'Ottavia, 00186 Roma RM, Italy",

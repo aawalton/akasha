@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const museumGouda = {
   id: "019f1aec-0e4a-761e-8555-96d5877b3743",
   pageTypeSlug: "location",
+  type: "location",
   slug: "museum-gouda",
   title: "Museum Gouda",
   latitude: 52.0100937,

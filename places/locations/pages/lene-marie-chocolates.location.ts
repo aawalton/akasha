@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const leneMarieChocolates = {
   id: "019f1b49-5170-71c1-8b0b-fd6a6026141a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "lene-marie-chocolates",
   title: "Lene' Marie Chocolates",
   latitude: 41.39278,

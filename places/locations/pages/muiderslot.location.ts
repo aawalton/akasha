@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const muiderslot = {
   id: "019f1aec-0e49-723c-958f-f4d6480cd8b9",
   pageTypeSlug: "location",
+  type: "location",
   slug: "muiderslot",
   title: "Muiderslot",
   latitude: 52.3343768,

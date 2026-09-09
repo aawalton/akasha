@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const libertangoSteakhouse = {
   id: "019f1aec-0d1d-73ea-b858-ab469e0c137f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "libertango-steakhouse",
   title: "Libertango Steakhouse",
   latitude: 40.5625748,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const ikono = {
   id: "019f1aec-0d6b-77fc-ae13-ab6e42978261",
   pageTypeSlug: "location",
+  type: "location",
   slug: "ikono",
   title: "IKONO",
   latitude: 40.4089056,

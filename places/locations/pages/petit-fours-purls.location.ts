@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const petitFoursPurls = {
   id: "019f1aec-0ccd-7764-bd35-0f223535cba7",
   pageTypeSlug: "location",
+  type: "location",
   slug: "petit-fours-purls",
   title: "Petit Fours & Purls",
   latitude: 40.3880838,

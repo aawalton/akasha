@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const miracleBowlOrem = {
   id: "019f322c-9abc-70c8-bcec-92a59557de00",
   pageTypeSlug: "location",
+  type: "location",
   slug: "miracle-bowl-orem",
   title: "Miracle Bowl (Orem)",
   address: "Orem, UT",

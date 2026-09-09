@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const provoBakeryUtahCounty = {
   id: "019f322c-9b1e-7d18-8ffa-be5b8f719b54",
   pageTypeSlug: "location",
+  type: "location",
   slug: "provo-bakery-utah-county",
   title: "Provo Bakery (Utah County)",
   address: "Utah County, UT",

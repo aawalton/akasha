@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pierreHermeE443 = {
   id: "019f1aec-0dd1-71fa-9775-a01b80a1e443",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pierre-herme-e443",
   title: "Pierre Hermé",
   latitude: 48.8531774,

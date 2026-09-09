@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const judysDonutShop = {
   id: "019f1b49-570b-705d-aa8a-013d2033e288",
   pageTypeSlug: "location",
+  type: "location",
   slug: "judys-donut-shop",
   title: "Judy's Donut Shop",
   latitude: 39.7082325,

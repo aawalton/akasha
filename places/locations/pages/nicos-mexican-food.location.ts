@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nicosMexicanFood = {
   id: "019f1aec-0e57-708a-a5c1-89773cfd9645",
   pageTypeSlug: "location",
+  type: "location",
   slug: "nicos-mexican-food",
   title: "Nico's Mexican Food",
   latitude: 32.746147,

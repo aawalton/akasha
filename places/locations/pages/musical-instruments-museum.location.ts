@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const musicalInstrumentsMuseum = {
   id: "019f1aec-0ed8-732b-9436-99880b73eb24",
   pageTypeSlug: "location",
+  type: "location",
   slug: "musical-instruments-museum",
   title: "Musical Instruments Museum",
   latitude: 50.8428356,

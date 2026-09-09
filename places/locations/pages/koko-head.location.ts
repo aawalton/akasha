@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const kokoHead = {
   id: "019f1b49-52be-78b2-8180-a561793315f3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "koko-head",
   title: "Koko Head",
   latitude: 21.277741,

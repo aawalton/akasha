@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sagatoBakeryCafe = {
   id: "019f1aec-0d27-736f-a1e6-017584430800",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sagato-bakery-cafe",
   title: "Sagato Bakery & Cafe",
   latitude: 40.6211428,

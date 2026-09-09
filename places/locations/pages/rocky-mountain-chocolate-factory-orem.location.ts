@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const rockyMountainChocolateFactoryOrem = {
   id: "019f322c-9b50-7dd9-adb6-c39e7dbfbda6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "rocky-mountain-chocolate-factory-orem",
   title: "Rocky Mountain Chocolate Factory (Orem)",
   address: "Orem, UT",

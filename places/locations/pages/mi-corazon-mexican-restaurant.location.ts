@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const miCorazonMexicanRestaurant = {
   id: "019f1aec-0eef-7646-96c5-1c1ce27d5007",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mi-corazon-mexican-restaurant",
   title: "Mi Corazon Mexican Restaurant",
   latitude: 34.1059082,

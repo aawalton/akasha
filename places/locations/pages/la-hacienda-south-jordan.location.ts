@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const laHaciendaSouthJordan = {
   id: "019f1b49-5250-7667-8e8f-6561d8a9591f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "la-hacienda-south-jordan",
   title: "La Hacienda South Jordan",
   latitude: 40.5633579,

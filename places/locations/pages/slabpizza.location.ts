@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const slabpizza = {
   id: "019f1aec-1000-7e7f-a984-29242ad8d71a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "slabpizza",
   title: "SLABpizza",
   address: "671 E 800 N, Provo, UT 84606, United States",

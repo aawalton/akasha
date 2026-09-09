@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mcnamarasIrishPubAndRestaurant = {
   id: "019f1b49-5470-781c-9af1-d089e9a6e360",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mcnamaras-irish-pub-and-restaurant",
   title: "McNamara's Irish Pub and Restaurant",
   latitude: 36.1622767,

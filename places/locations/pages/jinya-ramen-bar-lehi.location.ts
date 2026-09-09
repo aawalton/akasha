@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jinyaRamenBarLehi = {
   id: "019f1aec-0cef-77c3-9992-ab33ca273131",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jinya-ramen-bar-lehi",
   title: "JINYA Ramen Bar - Lehi",
   latitude: 40.4333093,

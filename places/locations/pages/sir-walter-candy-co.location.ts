@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sirWalterCandyCo = {
   id: "019f1b49-516e-7ac7-b957-1455a1675299",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sir-walter-candy-co",
   title: "Sir Walter Candy Co.",
   latitude: 35.880652,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const rainbowDriveIn = {
   id: "019f1b49-52ce-7972-987d-423be6b0737b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "rainbow-drive-in",
   title: "Rainbow Drive-In",
   latitude: 21.317352,

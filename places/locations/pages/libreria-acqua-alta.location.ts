@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const libreriaAcquaAlta = {
   id: "019f1aec-0e1c-7ea1-a062-d478fa358d68",
   pageTypeSlug: "location",
+  type: "location",
   slug: "libreria-acqua-alta",
   title: "Libreria Acqua Alta",
   latitude: 45.4380556,

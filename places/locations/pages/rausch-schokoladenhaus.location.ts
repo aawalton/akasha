@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const rauschSchokoladenhaus = {
   id: "019f1aec-0d58-7cee-8985-69683d2ddd9f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "rausch-schokoladenhaus",
   title: "Rausch Schokoladenhaus",
   latitude: 52.512084,

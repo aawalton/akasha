@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const papaRe = {
   id: "019f1aec-0da2-7aaf-b8b3-5e0701f50354",
   pageTypeSlug: "location",
+  type: "location",
   slug: "papa-re",
   title: "Papa Re",
   latitude: 41.8713818,

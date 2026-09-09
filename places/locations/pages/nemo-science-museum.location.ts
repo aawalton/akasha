@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nemoScienceMuseum = {
   id: "019f1b49-5557-731c-9fb2-793ca9612aa5",
   pageTypeSlug: "location",
+  type: "location",
   slug: "nemo-science-museum",
   title: "NEMO Science Museum",
   latitude: 51.4973983,

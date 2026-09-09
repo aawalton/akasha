@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const padelisStreetGreek = {
   id: "019f1aec-0e01-7c8a-aeea-c173bb3e4407",
   pageTypeSlug: "location",
+  type: "location",
   slug: "padelis-street-greek",
   title: "Padeli's Street Greek",
   latitude: 40.4308791,

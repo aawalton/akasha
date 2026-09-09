@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nielsensFrozenCustard = {
   id: "019f1aec-0e84-7bcb-988d-39fc89c6949d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "nielsens-frozen-custard",
   title: "Nielsen's Frozen Custard",
   latitude: 37.1100679,

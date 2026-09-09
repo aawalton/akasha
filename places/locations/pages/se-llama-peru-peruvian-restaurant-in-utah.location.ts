@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const seLlamaPeruPeruvianRestaurantInUtah = {
   id: "019f1aec-1009-7b6a-94b9-b7752813aa5b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "se-llama-peru-peruvian-restaurant-in-utah",
   title: "Se Llama Perú: Peruvian Restaurant in Utah",
   address: "368 W Center St, Provo, UT 84601, United States",

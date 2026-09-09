@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const laurelBrasserieBar = {
   id: "019f1aec-0d1e-7883-bd73-dbb09558d815",
   pageTypeSlug: "location",
+  type: "location",
   slug: "laurel-brasserie-bar",
   title: "Laurel Brasserie & Bar",
   latitude: 40.7579588,

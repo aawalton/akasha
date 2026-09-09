@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const manoaFallsTrail = {
   id: "019f1b49-52a9-716d-85ce-5846706ad717",
   pageTypeSlug: "location",
+  type: "location",
   slug: "manoa-falls-trail",
   title: "Manoa Falls Trail",
   latitude: 21.337141,

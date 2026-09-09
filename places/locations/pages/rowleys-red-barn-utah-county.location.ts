@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const rowleysRedBarnUtahCounty = {
   id: "019f322c-9b66-71c3-99f8-6d510f4689c3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "rowleys-red-barn-utah-county",
   title: "Rowley's Red Barn (Utah County)",
   address: "Utah County, UT",

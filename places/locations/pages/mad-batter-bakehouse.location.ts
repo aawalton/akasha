@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const madBatterBakehouse = {
   id: "019f1aec-0ce4-745e-98d0-d8f9a541aa3e",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mad-batter-bakehouse",
   title: "Mad Batter Bakehouse",
   latitude: 48.2886247,

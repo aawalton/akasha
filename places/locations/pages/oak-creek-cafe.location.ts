@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const oakCreekCafe = {
   id: "019f1b49-556b-7310-b85a-a2294090acb4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "oak-creek-cafe",
   title: "Oak Creek Cafe",
   latitude: 30.2711286,

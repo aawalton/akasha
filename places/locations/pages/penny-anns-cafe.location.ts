@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pennyAnnsCafe = {
   id: "019f1aec-103d-7b2b-ace1-eda606d67e08",
   pageTypeSlug: "location",
+  type: "location",
   slug: "penny-anns-cafe",
   title: "Penny Ann's Cafe",
   address: "280 E 12300 S #118, Draper, UT 84020, United States",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const madPitaExpress = {
   id: "019f1aec-0dff-733a-9c11-c2f31880c86c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mad-pita-express",
   title: "Mad Pita Express",
   latitude: 37.1222065,

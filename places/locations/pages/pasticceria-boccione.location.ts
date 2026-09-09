@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pasticceriaBoccione = {
   id: "019f1b49-53c2-76d7-89dc-11f76258d666",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pasticceria-boccione",
   title: "Pasticceria Boccione",
   latitude: 41.9157862,

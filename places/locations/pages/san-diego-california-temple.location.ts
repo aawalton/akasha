@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sanDiegoCaliforniaTemple = {
   id: "019f1aec-0e55-7c80-b816-a7c400cfe036",
   pageTypeSlug: "location",
+  type: "location",
   slug: "san-diego-california-temple",
   title: "San Diego California Temple",
   latitude: 32.8663961,

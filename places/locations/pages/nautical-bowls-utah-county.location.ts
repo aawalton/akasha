@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nauticalBowlsUtahCounty = {
   id: "019f322c-9ad3-7510-a6c6-55def99901a4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "nautical-bowls-utah-county",
   title: "Nautical Bowls (Utah County)",
   address: "Utah County, UT",

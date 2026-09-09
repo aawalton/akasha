@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const peterPanMiniGolf = {
   id: "019f1aec-0e4f-762a-a448-29793926a96c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "peter-pan-mini-golf",
   title: "Peter Pan Mini-Golf",
   latitude: 30.2601017,

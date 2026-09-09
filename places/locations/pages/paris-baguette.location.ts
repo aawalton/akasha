@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const parisBaguette = {
   id: "019f1aec-0d04-7e88-afeb-106ee3171c72",
   pageTypeSlug: "location",
+  type: "location",
   slug: "paris-baguette",
   title: "Paris Baguette",
   latitude: 48.8585053,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const kohinoorCuisineOfIndiaUtahCounty = {
   id: "019f322c-9974-7541-a7fe-1a4ec946c415",
   pageTypeSlug: "location",
+  type: "location",
   slug: "kohinoor-cuisine-of-india-utah-county",
   title: "Kohinoor Cuisine of India (Utah County)",
   address: "Utah County, UT",

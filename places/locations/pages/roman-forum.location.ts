@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const romanForum = {
   id: "019f1aec-0db7-7a9b-baa6-2f175c56a3e0",
   pageTypeSlug: "location",
+  type: "location",
   slug: "roman-forum",
   title: "Roman Forum",
   latitude: 41.8916414,

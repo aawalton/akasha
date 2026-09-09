@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mixturasFusionPeruvianJapanese = {
   id: "019f1aec-0fa6-707b-8c5a-1a6e2b74ac32",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mixturas-fusion-peruvian-japanese",
   title: "MIXTURAS FUSION | Peruvian • Japanese",
   address: "845 N 100 W #103, Orem, UT 84057, United States",

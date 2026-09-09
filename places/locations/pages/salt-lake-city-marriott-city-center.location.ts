@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const saltLakeCityMarriottCityCenter = {
   id: "019f1b49-54c6-79a9-9bd1-369fe069dbfd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "salt-lake-city-marriott-city-center",
   title: "Salt Lake City Marriott City Center",
   latitude: 7.103186,

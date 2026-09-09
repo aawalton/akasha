@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const saintVincentsBeach = {
   id: "019f1aec-0cf6-7a73-ad24-e1f42ccb52fc",
   pageTypeSlug: "location",
+  type: "location",
   slug: "saint-vincents-beach",
   title: "Saint Vincent’s Beach",
   latitude: 13.0028989,

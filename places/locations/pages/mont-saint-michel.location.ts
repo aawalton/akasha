@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const montSaintMichel = {
   id: "019f1aec-0f1b-7d49-846c-fca5ff203a87",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mont-saint-michel",
   title: "Mont Saint-Michel",
   latitude: 48.6359541,

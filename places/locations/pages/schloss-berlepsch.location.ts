@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const schlossBerlepsch = {
   id: "019f1aec-0ef4-7ef8-985a-f7b86bf12511",
   pageTypeSlug: "location",
+  type: "location",
   slug: "schloss-berlepsch",
   title: "Schloss Berlepsch",
   latitude: 51.3960304,

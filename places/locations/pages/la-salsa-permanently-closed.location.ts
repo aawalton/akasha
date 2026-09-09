@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const laSalsaPermanentlyClosed = {
   id: "019f1aec-0fef-7273-85eb-f57151c57b08",
   pageTypeSlug: "location",
+  type: "location",
   slug: "la-salsa-permanently-closed",
   title: "La Salsa - Permanently Closed",
   address: "1360 Orange Ave, Coronado, CA 92118, United States",

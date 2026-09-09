@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const location5305221stAveNe = {
   id: "019f1aec-0c99-73e2-987e-91df17ee8cdd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "location-5305-221st-ave-ne",
   title: "5305 221st Ave NE",
   latitude: 47.6535762,

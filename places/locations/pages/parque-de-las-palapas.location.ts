@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const parqueDeLasPalapas = {
   id: "019f1b49-52df-7978-b665-ee36aacb324a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "parque-de-las-palapas",
   title: "Parque de las Palapas",
   latitude: 21.1527467,

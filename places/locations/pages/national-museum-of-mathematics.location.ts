@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const nationalMuseumOfMathematics = {
   id: "019f1aec-0cf0-7a7f-b538-1844be4cf9db",
   pageTypeSlug: "location",
+  type: "location",
   slug: "national-museum-of-mathematics",
   title: "National Museum of Mathematics",
   latitude: 40.7435852,

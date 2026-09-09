@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mcdonaldsPleasantGrove = {
   id: "019f322c-9aa1-72fa-ba82-6aa9d7374e11",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mcdonalds-pleasant-grove",
   title: "McDonald's (Pleasant Grove)",
   address: "Pleasant Grove, UT",

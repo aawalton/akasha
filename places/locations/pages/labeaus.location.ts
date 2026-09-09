@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const labeaus = {
   id: "019f1b49-57ac-78e1-aeeb-3c6ba39d20a5",
   pageTypeSlug: "location",
+  type: "location",
   slug: "labeaus",
   title: "LaBeau's",
   latitude: 39.297962,

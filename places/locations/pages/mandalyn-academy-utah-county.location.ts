@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mandalynAcademyUtahCounty = {
   id: "019f322c-9a44-7c1d-bd95-55bc7dea36d1",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mandalyn-academy-utah-county",
   title: "Mandalyn Academy (Utah County)",
   address: "Utah County, UT",

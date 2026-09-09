@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const museumOfIllusionsAustin = {
   id: "019f1aec-0e4e-726a-b6a0-1280d6728166",
   pageTypeSlug: "location",
+  type: "location",
   slug: "museum-of-illusions-austin",
   title: "Museum of Illusions Austin",
   latitude: 30.396365,

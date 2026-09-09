@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const knickerbockersDeli = {
   id: "019f1aec-0d08-7934-87d5-01ad3834517d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "knickerbockers-deli",
   title: "Knickerbockers Deli",
   latitude: 40.7589873,

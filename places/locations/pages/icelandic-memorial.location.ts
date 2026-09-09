@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const icelandicMemorial = {
   id: "019f1b49-51a2-79df-86b9-27f2285e4ecd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "icelandic-memorial",
   title: "Icelandic Memorial",
   latitude: 40.1046625,

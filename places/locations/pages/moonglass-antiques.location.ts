@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const moonglassAntiques = {
   id: "019f1aec-0f89-73ed-8d5b-14cf5805a483",
   pageTypeSlug: "location",
+  type: "location",
   slug: "moonglass-antiques",
   title: "Moonglass Antiques",
   address: "2015 E 3300 S, Salt Lake City, UT 84109, United States",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const mrsBackersPastryShop = {
   id: "019f1aec-0cce-7b90-9819-56b6ad75f841",
   pageTypeSlug: "location",
+  type: "location",
   slug: "mrs-backers-pastry-shop",
   title: "Mrs. Backer's Pastry Shop",
   latitude: 40.7691076,

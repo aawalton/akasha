@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const parcDatraccionsTibidabo = {
   id: "019f1aec-0e70-7a89-b4dc-54c5345279dc",
   pageTypeSlug: "location",
+  type: "location",
   slug: "parc-datraccions-tibidabo",
   title: "Parc d'atraccions Tibidabo",
   latitude: 41.4231527,

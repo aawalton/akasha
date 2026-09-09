@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sarahSwensons = {
   id: "019f1aec-0f57-7d95-babb-56ec6df7b5a2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sarah-swensons",
   title: "Sarah Swenson’s",
   address: "471 W Rolling Sage Way, Saratoga Springs, UT 84045, USA",

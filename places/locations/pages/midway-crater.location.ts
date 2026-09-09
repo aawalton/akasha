@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const midwayCrater = {
   id: "019f1b49-570d-7b85-865d-66c71cfc2fd6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "midway-crater",
   title: "Midway Crater",
   latitude: 40.500606,

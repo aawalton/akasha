@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const scratchMiniatureGolfUtahCounty = {
   id: "019f322c-9b79-760f-906d-a28cd8151da2",
   pageTypeSlug: "location",
+  type: "location",
   slug: "scratch-miniature-golf-utah-county",
   title: "Scratch Miniature Golf (Utah County)",
   address: "Utah County, UT",

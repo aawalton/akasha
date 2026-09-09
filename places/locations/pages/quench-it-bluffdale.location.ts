@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const quenchItBluffdale = {
   id: "019f322c-9b34-776f-9ecf-c80809d80c18",
   pageTypeSlug: "location",
+  type: "location",
   slug: "quench-it-bluffdale",
   title: "Quench It (Bluffdale)",
   address: "Bluffdale, UT",

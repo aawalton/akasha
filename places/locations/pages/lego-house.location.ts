@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const legoHouse = {
   id: "019f1aec-0d92-7b46-85c5-69d39be103e9",
   pageTypeSlug: "location",
+  type: "location",
   slug: "lego-house",
   title: "LEGO House",
   latitude: 55.7306692,

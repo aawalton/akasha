@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jambaJuiceProvo = {
   id: "019f322c-973c-764e-986a-9e471121cfb8",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jamba-juice-provo",
   title: "Jamba Juice (Provo)",
   address: "Provo, UT",

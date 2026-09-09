@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const museumOfGlass = {
   id: "019f1aec-0cac-7d1d-bec1-b7b2b145abd4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "museum-of-glass",
   title: "Museum of Glass",
   latitude: 47.2458241,

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jugendburgLudwigstein = {
   id: "019f1aec-0ef6-73d0-9aca-c9148a5178c5",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jugendburg-ludwigstein",
   title: "Jugendburg Ludwigstein",
   latitude: 51.3217786,

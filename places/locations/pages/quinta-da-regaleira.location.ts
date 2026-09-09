@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const quintaDaRegaleira = {
   id: "019f1aec-0ecc-7aba-a353-a8cd3c6477a3",
   pageTypeSlug: "location",
+  type: "location",
   slug: "quinta-da-regaleira",
   title: "Quinta da Regaleira",
   latitude: 38.7951123,

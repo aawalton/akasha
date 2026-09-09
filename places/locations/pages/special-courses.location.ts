@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const specialCourses = {
   id: "019f1b49-5796-7631-8a2f-3958eec63769",
   pageTypeSlug: "location",
+  type: "location",
   slug: "special-courses",
   title: "SPECIAL COURSES",
   latitude: 7.45347,

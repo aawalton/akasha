@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const stGeorgeUtahTemple = {
   id: "019f1aec-0e87-7374-9b3b-1a1363885fcf",
   pageTypeSlug: "location",
+  type: "location",
   slug: "st-george-utah-temple",
   title: "St. George Utah Temple",
   latitude: 37.1005287,

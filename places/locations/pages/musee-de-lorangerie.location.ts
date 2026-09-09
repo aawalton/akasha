@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const museeDeLorangerie = {
   id: "019f1aec-0dc4-707c-8f0c-e1ab5f1bb3bd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "musee-de-lorangerie",
   title: "Musée de l'Orangerie",
   latitude: 48.8637655,

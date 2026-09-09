@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const northShoreTacos = {
   id: "019f1aec-0fec-73b7-8625-ccb2dbf12041",
   pageTypeSlug: "location",
+  type: "location",
   slug: "north-shore-tacos",
   title: "North Shore Tacos",
   address: "54-296 Kamehameha Hwy, Hauula, HI 96717, United States",

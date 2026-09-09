@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sazonEmsBrunchCafe = {
   id: "019f1b49-5119-7807-878a-da4db1c92729",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sazon-ems-brunch-cafe",
   title: "SAZON / EM’s Brunch & Café",
   latitude: 47.084957,

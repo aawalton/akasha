@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sktPedersBageri = {
   id: "019f1b49-5372-7b4a-922b-e217ae8d46d6",
   pageTypeSlug: "location",
+  type: "location",
   slug: "skt-peders-bageri",
   title: "Skt. Peders Bageri",
   latitude: 55.2300161,

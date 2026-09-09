@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const redlineRacingUtahCounty = {
   id: "019f322c-9b44-7353-b34d-fd4ea1beb31b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "redline-racing-utah-county",
   title: "Redline Racing (Utah County)",
   address: "Utah County, UT",

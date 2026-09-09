@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const padraoDosDescobrimentos = {
   id: "019f1aec-0ecd-7f49-b7e5-f5a847a32d42",
   pageTypeSlug: "location",
+  type: "location",
   slug: "padrao-dos-descobrimentos",
   title: "Padrão dos Descobrimentos",
   latitude: 38.6936054,

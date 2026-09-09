@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pappalecco = {
   id: "019f1aec-0ff4-7b0d-ac81-fabcd1db90ed",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pappalecco",
   title: "Pappalecco",
   address: "1602 State St, San Diego, CA 92101, United States",

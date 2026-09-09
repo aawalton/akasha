@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pier49PizzaProvo = {
   id: "019f322c-9b03-73e7-b994-80747a27bd50",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pier-49-pizza-provo",
   title: "Pier 49 Pizza (Provo)",
   address: "Provo, UT",

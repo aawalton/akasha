@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pozzetto = {
   id: "019f1aec-0dd2-7622-8433-d3617793ed6c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pozzetto",
   title: "Pozzetto",
   latitude: 48.8567657,

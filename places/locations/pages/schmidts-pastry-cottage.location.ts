@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const schmidtsPastryCottage = {
   id: "019f1aec-0d0a-7f7a-81c2-d50ab50e9363",
   pageTypeSlug: "location",
+  type: "location",
   slug: "schmidts-pastry-cottage",
   title: "Schmidt's Pastry Cottage",
   latitude: 40.5612015,

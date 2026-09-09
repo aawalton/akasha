@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const revivePtCryoUtahCounty = {
   id: "019f322c-9b47-7612-87f0-cb46042bb959",
   pageTypeSlug: "location",
+  type: "location",
   slug: "revive-pt-cryo-utah-county",
   title: "Revive PT Cryo (Utah County)",
   address: "Utah County, UT",

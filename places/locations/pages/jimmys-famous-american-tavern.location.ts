@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const jimmysFamousAmericanTavern = {
   id: "019f1aec-0e53-7277-b736-b230fcc17fb4",
   pageTypeSlug: "location",
+  type: "location",
   slug: "jimmys-famous-american-tavern",
   title: "Jimmy's Famous American Tavern",
   latitude: 32.7250841,

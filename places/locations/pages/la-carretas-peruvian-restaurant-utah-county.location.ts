@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const laCarretasPeruvianRestaurantUtahCounty = {
   id: "019f322c-99c8-79cc-bc5c-01193778673c",
   pageTypeSlug: "location",
+  type: "location",
   slug: "la-carretas-peruvian-restaurant-utah-county",
   title: "La Carreta's Peruvian Restaurant (Utah County)",
   address: "Utah County, UT",

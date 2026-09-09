@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const redFuegoUtahCounty = {
   id: "019f322c-9b41-72e5-b9ab-a850fef8b772",
   pageTypeSlug: "location",
+  type: "location",
   slug: "red-fuego-utah-county",
   title: "Red Fuego (Utah County)",
   address: "Utah County, UT",

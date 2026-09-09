@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const northItalia = {
   id: "019f1aec-0ce7-7336-9a65-eadbf1bc732a",
   pageTypeSlug: "location",
+  type: "location",
   slug: "north-italia",
   title: "North Italia",
   latitude: 33.8478553,

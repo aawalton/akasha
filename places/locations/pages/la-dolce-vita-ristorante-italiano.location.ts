@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const laDolceVitaRistoranteItaliano = {
   id: "019f1aec-0fd2-7f65-bd67-b467a305a8ac",
   pageTypeSlug: "location",
+  type: "location",
   slug: "la-dolce-vita-ristorante-italiano",
   title: "La Dolce Vita Ristorante Italiano",
   address: "61 N 100 E, Provo, UT 84606, United States",

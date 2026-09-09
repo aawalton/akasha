@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const museumplein = {
   id: "019f1aec-0e2d-73a7-bdde-f4c9d47b2c16",
   pageTypeSlug: "location",
+  type: "location",
   slug: "museumplein",
   title: "Museumplein",
   latitude: 52.3572706,

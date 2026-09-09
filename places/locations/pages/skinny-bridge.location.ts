@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const skinnyBridge = {
   id: "019f1aec-0e40-75fc-a6ec-f4ab56e97570",
   pageTypeSlug: "location",
+  type: "location",
   slug: "skinny-bridge",
   title: "Skinny Bridge",
   latitude: 52.3635843,

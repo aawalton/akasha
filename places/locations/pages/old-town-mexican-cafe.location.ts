@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const oldTownMexicanCafe = {
   id: "019f1aec-0e51-7e29-8840-ff4cd77e3b0f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "old-town-mexican-cafe",
   title: "Old Town Mexican Cafe",
   latitude: 32.7524533,

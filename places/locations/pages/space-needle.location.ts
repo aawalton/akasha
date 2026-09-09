@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const spaceNeedle = {
   id: "019f1aec-0ca9-708e-a354-8a0fc9055f1f",
   pageTypeSlug: "location",
+  type: "location",
   slug: "space-needle",
   title: "Space Needle",
   latitude: 47.6205131,

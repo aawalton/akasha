@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const pepperidgeFarmThriftStore = {
   id: "019f1aec-0fe9-7680-9920-5b04fb91b1fc",
   pageTypeSlug: "location",
+  type: "location",
   slug: "pepperidge-farm-thrift-store",
   title: "Pepperidge Farm Thrift Store",
   address: "901 US-91, Richmond, UT 84333, United States",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const lanikaiBeach = {
   id: "019f1b49-52ae-7eff-ab87-c8e934e9c317",
   pageTypeSlug: "location",
+  type: "location",
   slug: "lanikai-beach",
   title: "Lanikai Beach",
   latitude: 19.050612,

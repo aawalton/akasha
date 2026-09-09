@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const littleIndiaFineDining = {
   id: "019f1aec-0e03-71ce-aa85-b76af03c54cb",
   pageTypeSlug: "location",
+  type: "location",
   slug: "little-india-fine-dining",
   title: "Little India Fine Dining",
   latitude: 40.4924009,

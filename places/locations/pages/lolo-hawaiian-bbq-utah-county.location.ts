@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const loloHawaiianBbqUtahCounty = {
   id: "019f322c-9a26-77ce-91e5-2ea643566503",
   pageTypeSlug: "location",
+  type: "location",
   slug: "lolo-hawaiian-bbq-utah-county",
   title: "LoLo Hawaiian BBQ (Utah County)",
   address: "Utah County, UT",

@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const sipNUtahCounty = {
   id: "019f322c-9b81-7a26-9258-87b7f5f60314",
   pageTypeSlug: "location",
+  type: "location",
   slug: "sip-n-utah-county",
   title: "Sip-N (Utah County)",
   address: "Utah County, UT",

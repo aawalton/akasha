@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const rhynosAxeArcheryUtahCounty = {
   id: "019f322c-9b4a-771e-aba3-3ecec39861cd",
   pageTypeSlug: "location",
+  type: "location",
   slug: "rhynos-axe-archery-utah-county",
   title: "Rhyno's Axe & Archery (Utah County)",
   address: "Utah County, UT",

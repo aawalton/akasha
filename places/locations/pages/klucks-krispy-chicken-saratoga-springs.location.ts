@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const klucksKrispyChickenSaratogaSprings = {
   id: "019f322c-9969-70cd-af1e-3fbce1fc163b",
   pageTypeSlug: "location",
+  type: "location",
   slug: "klucks-krispy-chicken-saratoga-springs",
   title: "Klucks Krispy Chicken (Saratoga Springs)",
   address: "Saratoga Springs, UT",

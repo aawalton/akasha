@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const lisbonPortugalTemple = {
   id: "019f1aec-0eba-7cde-be4d-8bd1ba52508d",
   pageTypeSlug: "location",
+  type: "location",
   slug: "lisbon-portugal-temple",
   title: "Lisbon Portugal Temple",
   latitude: 38.7797971,

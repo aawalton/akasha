@@ -3,6 +3,7 @@ import type { Location } from "../location.page-type.ts"
 export const milkshakeFactoryUtahCounty = {
   id: "019f322c-9ab8-77e3-b0a4-07d0d4399849",
   pageTypeSlug: "location",
+  type: "location",
   slug: "milkshake-factory-utah-county",
   title: "MilkShake Factory (Utah County)",
   address: "Utah County, UT",
