@@ -5,7 +5,7 @@ import {
   linesAt,
   madeBy,
   pathsIn,
-} from "../checkout-counting/checkout-counting.module.code.ts"
+} from "../../pages/measure/repo/checkout-counting/checkout-counting.module.code.ts"
 
 const TOTAL = "total"
 

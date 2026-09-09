@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { everyOfType } from "@akasha/indexes"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { uncommittedPartsOf } from "../../../../../pages/file-parts/page-file-parts.module.code.ts"
-import { columnsOf } from "../../../../modules/checkout-counting/checkout-counting.module.code.ts"
+import { columnsOf } from "../../repo/checkout-counting/checkout-counting.module.code.ts"
 
 const CHECKED = "code-check"
 
