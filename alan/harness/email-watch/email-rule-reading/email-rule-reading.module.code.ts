@@ -106,7 +106,7 @@ function ruleOf(page: Record<string, unknown>, relPath: string, kind: EmailRuleK
   const actions = page.actions
   if (actions !== undefined && !Array.isArray(actions))
     throw new Error(`\`${relPath}\` states actions that are no list`)
-  const forwardToSlug = page.forwardToSlug
+  const forwardToSlug = page.forwardTo ?? page.forwardToSlug
   if (forwardToSlug !== undefined && typeof forwardToSlug !== "string")
     throw new Error(`\`${relPath}\` forwards to something that is no slug`)
   return {
