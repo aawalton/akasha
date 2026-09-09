@@ -2,7 +2,7 @@ import { ROOT } from "../terminal-entry-points/terminal-entry-points.module.code
 
 export const ENDED_FN = "__editor_terminal_ended"
 
-export const TERMINAL_PAGES_DIR = "alan/harness/code-editor/code-editor-terminals/pages"
+export const TERMINAL_PAGES_DIR = "alan/harness/code-editor/terminals/pages"
 
 export function terminalEndedFnLines(): readonly string[] {
   return [
