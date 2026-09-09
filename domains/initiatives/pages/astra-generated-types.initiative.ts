@@ -22,7 +22,7 @@ export const astraGeneratedTypes = {
     {
       statement: "A type is written again before the checks judge the change that turned it.",
       workingMemory:
-        "`command-system/change-preparing` runs five generators between the rebase and the gate, and answers the change as no change to judge over once a generated file is added. Each generator gates itself with a hand-written `couldTurn` reading the paths the change has, because the pages an answer rests on are worked out from the code rather than recorded as the code runs.\n",
+        "`command-system/change-preparing` runs six generators between the rebase and the gate. A landing that generated a file hands the gate no prepared change, so the change is built again from the edits generation left and the checks judge those too. Each generator gates itself with a hand-written `couldTurn` reading the paths the change has, because the pages an answer rests on are worked out from the code rather than recorded as the code runs.\n",
     },
     {
       statement: "One written type has a page type's stored keys and its calculations.",
