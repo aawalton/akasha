@@ -9,6 +9,7 @@ export const astraGeneratedTypes = {
   constraints: [
     "A type moving out of a page's file is followed by every importer rather than by an alias.",
     "A mechanical change moves it, and that change is built before the types are moved.",
+    "A many-valued property's own type carries its list, so a page states that type rather than an array of it.",
   ],
   intents: [
     {
