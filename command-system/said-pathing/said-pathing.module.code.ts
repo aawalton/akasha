@@ -1,9 +1,20 @@
 import { existsSync, statSync } from "node:fs"
-import { isAbsolute, join, relative, resolve } from "node:path"
+import { isAbsolute, join, relative, resolve, sep } from "node:path"
 
 export const GIT_DIR = ".git"
 
 const PARTED_BY = "/"
+
+const UP = ".."
+
+export function outsideRoot(root: string, path: string): boolean {
+  const at = relative(root, join(root, path))
+  return at === UP || at.startsWith(`${UP}${sep}`) || isAbsolute(at)
+}
+
+export function writesOutside(path: string): string {
+  return `${path} lands outside the repository, and nothing is written outside the repository`
+}
 
 export function pathAt(root: string, said: string): string | null {
   const full = isAbsolute(said) ? resolve(said) : resolve(root, said)

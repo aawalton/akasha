@@ -271,6 +271,37 @@ test("what was written is put back when the landing throws after writing", async
   expect(existsSync(join(root, "akasha/b.domain.ts"))).toBe(false)
 })
 
+test("a path landing outside the repository is refused by name and written nowhere", async () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const was = baseOf(root)
+  const change = [{ path: "../escaped.txt", body: bytes("proposed") }]
+  const said = await landing(root, change, "held", ADMITS)
+  const why = "refusals" in said ? said.refusals.join("\n") : ""
+  expect(why).toContain("../escaped.txt")
+  expect(why).toContain("outside the repository")
+  expect(existsSync(join(root, "..", "escaped.txt"))).toBe(false)
+  expect(baseOf(root)).toBe(was)
+})
+
+test("a move landing outside the repository is refused and the path it came from remains", async () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const moves = [{ from: "one.txt", to: "../escaped.txt" }]
+  const said = await landing(root, [], "held", ADMITS, null, null, [], moves)
+  expect("refusals" in said ? said.refusals.join("\n") : "").toContain("outside the repository")
+  expect(existsSync(join(root, "..", "escaped.txt"))).toBe(false)
+  expect(readFileSync(join(root, "one.txt"), "utf8")).toBe("committed")
+})
+
+test("a name beginning with two dots and a move inside the repository both land", async () => {
+  const root = await edged({ "deep/two.txt": "committed" })
+  const change = [{ path: "..hidden.txt", body: bytes("kept") }]
+  const moves = [{ from: "deep/two.txt", to: "deep/moved.txt" }]
+  const said = await landing(root, change, "held", ADMITS, null, null, [], moves)
+  expect("refusals" in said ? said.refusals.join("\n") : "").toBe("")
+  expect(readFileSync(join(root, "..hidden.txt"), "utf8")).toBe("kept")
+  expect(readFileSync(join(root, "deep/moved.txt"), "utf8")).toBe("committed")
+})
+
 test("a path the repository ignores is written onto the tree and left out of the commit", async () => {
   const said = await splitLanded()
   expect(said.held).toBe("unsaid")

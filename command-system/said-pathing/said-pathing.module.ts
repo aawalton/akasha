@@ -39,6 +39,23 @@ export const saidPathing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A path bound for a write is weighed as joining that path onto the root leaves that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An absolute path a write joins onto the root is inside the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name opening with two dots is a name rather than a step out of the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal for a path written outside the repository is worded here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The `.git` folder is refused.",
     },
     {

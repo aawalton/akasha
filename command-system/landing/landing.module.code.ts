@@ -24,6 +24,7 @@ import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
+import { outsideRoot, writesOutside } from "../said-pathing/said-pathing.module.code.ts"
 
 export type FileEdit = {
   readonly path: string
@@ -65,6 +66,8 @@ const AGAIN_DRAFTED = "nothing was drafted — read them again against what is t
 const KEPT_AS_IT_WAS = "nothing was drafted — the edits are as the edits were"
 
 const NO_TEXT = "spells no text, so its body is edited by nothing; a move or a removal takes it"
+
+const NOTHING_OUTSIDE = "nothing landed — name every path against the repository root"
 
 const FATAL = new TextDecoder("utf-8", { fatal: true })
 
@@ -129,6 +132,9 @@ function wroteOnto(
   readonly wrote: readonly string[]
   readonly took: readonly string[]
 } {
+  for (const one of changed) {
+    if (outsideRoot(root, one.path)) throw new Error(writesOutside(one.path))
+  }
   const wrote: string[] = []
   const took: string[] = []
   for (const one of changed) {
@@ -359,6 +365,10 @@ export async function landing(
   if (changes.length === 0 && moves.length === 0) {
     return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
   }
+  const outside = [...changes.map((one) => one.path), ...moves.flatMap((one) => [one.from, one.to])]
+    .filter((one) => outsideRoot(root, one))
+    .map(writesOutside)
+  if (outside.length > 0) return { refusals: [...outside, NOTHING_OUTSIDE] }
   const named = read === null ? null : commitNamed(root, read)
   if (read !== null && named === null) {
     return {

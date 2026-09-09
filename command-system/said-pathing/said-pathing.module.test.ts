@@ -1,7 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { put } from "@akasha/testing-system/putting"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { barredIn, GIT_DIR, offRepo, pathAt } from "./said-pathing.module.code.ts"
+import {
+  barredIn,
+  GIT_DIR,
+  offRepo,
+  outsideRoot,
+  pathAt,
+  writesOutside,
+} from "./said-pathing.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -37,6 +44,32 @@ test("the repository root is no path inside the repository", () => {
 
 test("a path outside the repository is refused by name", () => {
   expect(offRepo("../one.ts")).toContain("is no path inside the repository")
+})
+
+test("a path climbing out of the root is outside the root", () => {
+  expect(outsideRoot("/repo", "../one.ts")).toBe(true)
+  expect(outsideRoot("/repo", "akasha/../../one.ts")).toBe(true)
+  expect(outsideRoot("/repo", "..")).toBe(true)
+})
+
+test("a path under the root is inside the root however it spells the way there", () => {
+  expect(outsideRoot("/repo", "akasha/one.ts")).toBe(false)
+  expect(outsideRoot("/repo", "akasha/held/../one.ts")).toBe(false)
+  expect(outsideRoot("/repo", "")).toBe(false)
+})
+
+test("a name opening with two dots is a name rather than a step out of the root", () => {
+  expect(outsideRoot("/repo", "..hidden.ts")).toBe(false)
+  expect(outsideRoot("/repo", "akasha/..hidden.ts")).toBe(false)
+})
+
+test("an absolute path is folded under the root as a write folds it", () => {
+  expect(outsideRoot("/repo", "/elsewhere/one.ts")).toBe(false)
+})
+
+test("a path written outside the repository is refused by name", () => {
+  expect(writesOutside("../one.ts")).toContain("../one.ts")
+  expect(writesOutside("../one.ts")).toContain("lands outside the repository")
 })
 
 test("the git folder holds the repository itself and is refused", () => {
