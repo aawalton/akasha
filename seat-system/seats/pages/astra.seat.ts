@@ -7,7 +7,7 @@ export const astra = {
   personaSlug: "astra",
   assignmentSlug: "initiative/astra-generated-types",
   role: "definer",
-  person: "alan",
+  personSlug: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
