@@ -17,5 +17,9 @@ export const messaging = {
     "module/messages-console-stdout-guard",
     "module/messages-delivery-witness",
     "module/messages-mcp",
+    "module/supervisor-message-claim",
+    "module/supervisor-claimed-reconcile",
+    "module/supervisor-claimed-redelivery-decide",
+    "module/supervisor-redelivery-holdoff",
   ],
 } as const satisfies Domain

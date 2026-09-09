@@ -1,14 +1,14 @@
 import { arr, bool, maybe, num, obj, oneOf, str } from "@akasha/seat-system/argument-narrowing"
-import type {
-  ClaimedCandidate,
-  ClaimedTranscriptFinding,
-} from "@akasha/seat-system/supervisor-claimed-redelivery-decide"
 import type { LimitResumeInput } from "@akasha/seat-system/supervisor-limit-resume-decide"
 import type { RcDegradedSeat } from "@akasha/seat-system/supervisor-rc-degraded-decide"
 import type { RemoteControlSeatQuestion } from "@akasha/seat-system/supervisor-remote-control-decide"
 import type { RestartNowEvent } from "@akasha/seat-system/supervisor-restart-notice-decide"
 import type { UncertainBlockSeat } from "@akasha/seat-system/supervisor-uncertain-wait-decide"
 import type { WaitResumeInput } from "@akasha/seat-system/supervisor-wait-resume-decide"
+import type {
+  ClaimedCandidate,
+  ClaimedTranscriptFinding,
+} from "../../messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
 
 export function parseUncertainWait(value: unknown, path: string): UncertainBlockSeat[] {
   return arr(value, path).map((entry, at) => {

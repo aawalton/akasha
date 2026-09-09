@@ -3,7 +3,6 @@ import { createAgent } from "@akasha/seat-system/supervisor-agent-create"
 import type { SeatResume } from "@akasha/seat-system/supervisor-args"
 import { liveChildExitRule } from "@akasha/seat-system/supervisor-child-exit-rule"
 import { spawnOrAdoptChild } from "@akasha/seat-system/supervisor-child-spawn"
-import { reconcileClaimedRedelivery } from "@akasha/seat-system/supervisor-claimed-reconcile"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
 import {
@@ -11,14 +10,9 @@ import {
   sendMessage,
   USER_SOURCE,
 } from "@akasha/seat-system/supervisor-limit-resume-send"
-import {
-  readClaimedBefore,
-  releaseMessageClaim,
-} from "@akasha/seat-system/supervisor-message-claim"
 import type { ClearRebindHooks } from "@akasha/seat-system/supervisor-rebind"
 import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
 import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
-import { redeliveryHoldoff } from "@akasha/seat-system/supervisor-redelivery-holdoff"
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,
@@ -29,6 +23,12 @@ import { processes, setRestoreConsoleHandle } from "@akasha/seat-system/supervis
 import type { AgentProcess, InheritedProc } from "@akasha/seat-system/supervisor-types"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
 import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
+import { reconcileClaimedRedelivery } from "../../messaging/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
+import {
+  readClaimedBefore,
+  releaseMessageClaim,
+} from "../../messaging/supervisor-message-claim/supervisor-message-claim.module.code.ts"
+import { redeliveryHoldoff } from "../../messaging/supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
 import { keepSeatTranscript } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import type {
   InteractiveOpts,

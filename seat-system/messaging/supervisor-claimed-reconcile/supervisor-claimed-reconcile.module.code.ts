@@ -6,8 +6,8 @@ import {
   type ClaimedRedeliveryDecision,
   decideClaimedRedelivery,
   type ClaimedCandidate as RuleCandidate,
-} from "@akasha/seat-system/supervisor-claimed-redelivery-decide"
-import { redeliveryHoldoff } from "@akasha/seat-system/supervisor-redelivery-holdoff"
+} from "../supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"
+import { redeliveryHoldoff } from "../supervisor-redelivery-holdoff/supervisor-redelivery-holdoff.module.code.ts"
 
 const LOG = "[supervisor:claimed-redelivery]"
 
