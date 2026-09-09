@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0390Epilogue1211128 = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0390-epilogue-1211128",
   title: "Epilogue",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 390,
   ownLength: 640,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0331ChapterSixteenMakingLotsOfLittlePr
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0331-chapter-sixteen-making-lots-of-little-problems",
   title: "Chapter Sixteen - Making Lots of Little Problems",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 331,
   ownLength: 1488,
   unitSlug: "words",

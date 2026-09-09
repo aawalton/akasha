@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0100ChapterEighteenGotcha = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0100-chapter-eighteen-gotcha",
   title: "Chapter Eighteen - Gotcha",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 100,
   ownLength: 1446,
   unitSlug: "words",

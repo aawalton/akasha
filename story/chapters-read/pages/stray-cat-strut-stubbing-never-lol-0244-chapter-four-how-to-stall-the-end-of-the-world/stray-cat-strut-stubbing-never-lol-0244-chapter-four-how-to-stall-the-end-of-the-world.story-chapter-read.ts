@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0244ChapterFourHowToStallTheEndOfTheWo
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0244-chapter-four-how-to-stall-the-end-of-the-world",
   title: "Chapter Four - How to Stall the End of the World",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 244,
   ownLength: 1536,
   unitSlug: "words",

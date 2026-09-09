@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0243ChapterThreeTheLittleMeet = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0243-chapter-three-the-little-meet",
   title: "Chapter Three - The Little Meet",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 243,
   ownLength: 1545,
   unitSlug: "words",

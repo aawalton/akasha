@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0174ChapterSevenKnockingOverTheBoard =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0174-chapter-seven-knocking-over-the-board",
   title: "Chapter Seven - Knocking Over the Board",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 174,
   ownLength: 1473,
   unitSlug: "words",

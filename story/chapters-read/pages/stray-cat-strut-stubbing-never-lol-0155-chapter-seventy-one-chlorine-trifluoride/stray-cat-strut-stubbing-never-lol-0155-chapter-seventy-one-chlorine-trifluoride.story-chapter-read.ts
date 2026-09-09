@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0155ChapterSeventyOneChlorineTrifluori
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0155-chapter-seventy-one-chlorine-trifluoride",
   title: "Chapter Seventy-One - Chlorine Trifluoride",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 155,
   ownLength: 1409,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0111ChapterTwentyNineSpiderCatSpiderCa
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0111-chapter-twenty-nine-spider-cat-spider-cat",
   title: "Chapter Twenty-Nine - Spider Cat ~ Spider Cat",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 111,
   ownLength: 1520,
   unitSlug: "words",

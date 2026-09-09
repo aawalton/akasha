@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0206ChapterThirtyNineMeetingusInterupt
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0206-chapter-thirty-nine-meetingus-interuptus",
   title: "Chapter Thirty-Nine - Meetingus Interuptus",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 206,
   ownLength: 1512,
   unitSlug: "words",

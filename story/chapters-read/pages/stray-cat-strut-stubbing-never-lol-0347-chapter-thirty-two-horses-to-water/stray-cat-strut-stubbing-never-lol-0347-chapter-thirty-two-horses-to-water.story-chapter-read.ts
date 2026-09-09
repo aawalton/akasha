@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0347ChapterThirtyTwoHorsesToWater = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0347-chapter-thirty-two-horses-to-water",
   title: "Chapter Thirty-Two - Horses to Water",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 347,
   ownLength: 1428,
   unitSlug: "words",

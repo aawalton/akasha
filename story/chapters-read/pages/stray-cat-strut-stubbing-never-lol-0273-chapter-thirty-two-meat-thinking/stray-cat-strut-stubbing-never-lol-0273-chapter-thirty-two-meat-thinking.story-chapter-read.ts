@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0273ChapterThirtyTwoMeatThinking = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0273-chapter-thirty-two-meat-thinking",
   title: "Chapter Thirty-Two - Meat Thinking",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 273,
   ownLength: 1497,
   unitSlug: "words",

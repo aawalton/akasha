@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0093ChapterTwelveDoorframe = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0093-chapter-twelve-doorframe",
   title: "Chapter Twelve - Doorframe",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 93,
   ownLength: 1438,
   unitSlug: "words",

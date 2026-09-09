@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0376ChapterFiftySevenTheOkayBeforeTheO
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0376-chapter-fifty-seven-the-okay-before-the-oof",
   title: "Chapter Fifty-Seven - The Okay Before the Oof",
-  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  storySlug: "stray-cat-strut-stubbing-never-lol",
   position: 376,
   ownLength: 1536,
   unitSlug: "words",
