@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theWayOfTheShamanClansWar = {
   id: "019db533-f38b-7574-a8be-ccf5c45e091e",

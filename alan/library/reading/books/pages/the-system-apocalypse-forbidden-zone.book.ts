@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theSystemApocalypseForbiddenZone = {
   id: "019db533-f391-7b74-97b2-5e4c9e66233d",

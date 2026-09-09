@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const worldTreeTrilogyWorldTreeOnline = {
   id: "019db533-f38b-75f7-b63d-3df91f16d3cb",

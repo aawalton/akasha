@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theWayOfTheShamanTheKarmadontChessSet = {
   id: "019db533-f38b-75b8-b6e5-3d889ac5d9ad",

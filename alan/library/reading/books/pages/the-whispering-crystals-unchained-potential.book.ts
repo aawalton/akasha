@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theWhisperingCrystalsUnchainedPotential = {
   id: "019db533-f38b-7584-bb90-88a8f3b478f9",

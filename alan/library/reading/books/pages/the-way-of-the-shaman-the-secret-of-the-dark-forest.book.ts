@@ -1,4 +1,4 @@
-import type { Book } from "../../book.page-type.ts"
+import type { Book } from "../book.page-type.ts"
 
 export const theWayOfTheShamanTheSecretOfTheDarkForest = {
   id: "019db533-f38b-75b0-869b-f107a9b8bd27",
