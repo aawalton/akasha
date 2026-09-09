@@ -26,7 +26,6 @@
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/command-system": "workspace:*",
-    "@akasha/google-oauth": "workspace:*",
     "@googleapis/gmail": "^17.0.0",
     "@akasha/errors-core": "workspace:*",
     "@akasha/utils": "workspace:*",

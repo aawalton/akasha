@@ -1,8 +1,8 @@
+import { requireEnv } from "@akasha/utils/narrow/require-env"
 import {
   type GoogleOauthAppCredentials,
   readGoogleOauthAppCredentials,
-} from "@akasha/google-oauth/oauth-app-credentials"
-import { requireEnv } from "@akasha/utils/narrow/require-env"
+} from "akasha/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
 import * as z from "zod"
 
 export const CALENDAR_SCOPE = "https://www.googleapis.com/auth/calendar"

@@ -1,8 +1,8 @@
+import { requireEnv } from "@akasha/utils/narrow/require-env"
 import {
   type GoogleOauthAppCredentials,
   readGoogleOauthAppCredentials,
-} from "@akasha/google-oauth/oauth-app-credentials"
-import { requireEnv } from "@akasha/utils/narrow/require-env"
+} from "akasha/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
 
 export const GMAIL_SCOPES = [
   "https://www.googleapis.com/auth/gmail.readonly",

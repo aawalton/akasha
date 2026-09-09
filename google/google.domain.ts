@@ -9,6 +9,6 @@ export const google = {
     "domain/google-calendar",
     "domain/google-drive",
     "workspace-package/google-email",
-    "workspace-package/google-oauth",
+    "domain/google-oauth",
   ],
 } as const satisfies Domain

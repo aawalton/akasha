@@ -1,6 +1,4 @@
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
-import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
-import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
 import { CALENDAR_OAUTH_SCOPE } from "akasha/google/calendar/calendar-credentials/calendar-credentials.module.code.ts"
 import type {
   EventInput,
@@ -11,6 +9,8 @@ import {
   narrowSendUpdates,
   SEND_UPDATES,
 } from "akasha/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
+import { readGoogleOauthAppCredentials } from "akasha/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
+import { googleOauthConsent } from "akasha/google/oauth/oauth-consent/oauth-consent.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { quoted } from "../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"

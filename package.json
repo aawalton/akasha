@@ -86,7 +86,6 @@
     "@akasha/temper-shopping": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
     "react-dom": "^18 || ^19",
-    "@akasha/google-oauth": "workspace:*",
     "@akasha/cluster-manifests": "workspace:*",
     "@akasha/talos": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",

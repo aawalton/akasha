@@ -1,5 +1,5 @@
-import { makeGoogleOauthClient } from "@akasha/google-oauth/oauth-client"
 import { auth } from "@googleapis/calendar"
+import { makeGoogleOauthClient } from "akasha/google/oauth/oauth-client/oauth-client.module.code.ts"
 import {
   CALENDAR_SCOPE,
   readCalendarCredentials,
