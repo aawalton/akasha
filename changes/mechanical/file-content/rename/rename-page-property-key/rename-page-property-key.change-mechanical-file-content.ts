@@ -7,7 +7,8 @@ export const renamePagePropertyKey = {
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",
   changeTargetSubtype: "change-target-subtype/file-content-page-property-key",
-  definition: "one key of a page's exported object spelled anew, keeping its place and its value",
+  definition:
+    "one key of a page's exported object, or of each record a key of it holds, spelled anew",
   code: "ts",
   test: "ts",
   invariants: [
@@ -33,11 +34,40 @@ export const renamePagePropertyKey = {
     },
     {
       invariantKind: "departure",
-      statement: "A body stating no such key is refused.",
+      statement: "A body stating no such key in the exported object is refused.",
     },
     {
       invariantKind: "departure",
       statement: "A body already stating the key asked for is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The key respelled sits in the exported object itself where no holding key is named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A holding key named respells the key in each record that key states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record stating no such key is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The same key in the exported object itself is left as it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Records sitting apart answer an edit each.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Records stating that key nowhere answer no edit rather than being refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A holding key stating no list of records answers no edit.",
     },
     {
       invariantKind: "absence",

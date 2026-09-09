@@ -22,12 +22,37 @@ export const kept = {
 } as const satisfies PageType
 `
 
-function ranOn(was: string, now: string, text: string = BODY): Answer {
-  return respelled(AT, text, was, now)
+const RECORDS = `import type { Kept } from "./kept.page-type.ts"
+
+export const held = {
+  id: "01a072c8-f35d-7ffc-afc3-75b72460b060",
+  pageTypeSlug: "kept",
+  slug: "held",
+  personaSlug: "outside",
+  personaMessages: [
+    { personaSlug: "one", sent: 3 },
+    { sent: 1 },
+    { personaSlug: "two", sent: 2 },
+  ],
+} as const satisfies Kept
+`
+
+function ranOn(
+  was: string,
+  now: string,
+  text: string = BODY,
+  within: string | null = null
+): Answer {
+  return respelled(AT, text, was, now, within)
 }
 
-function textOn(was: string, now: string, text: string = BODY): string {
-  return bodyOf(ranOn(was, now, text), (asked) => (asked === AT ? text : null))
+function textOn(
+  was: string,
+  now: string,
+  text: string = BODY,
+  within: string | null = null
+): string {
+  return bodyOf(ranOn(was, now, text, within), (asked) => (asked === AT ? text : null))
 }
 
 test("one key is spelled anew", () => {
@@ -104,4 +129,57 @@ test("the body a path holds is what the run reads", () => {
   })
 
   expect(said.refused).toBeNull()
+})
+
+test("a key inside each record is spelled anew where the key holding them is named", () => {
+  const said = textOn("personaSlug", "persona", RECORDS, "personaMessages")
+
+  expect(said).toContain(`{ persona: "one", sent: 3 },`)
+  expect(said).toContain(`{ persona: "two", sent: 2 },`)
+})
+
+test("a record stating no such key is passed over", () => {
+  expect(textOn("personaSlug", "persona", RECORDS, "personaMessages")).toContain(`{ sent: 1 },`)
+})
+
+test("the same key at the top of the object is left as it is", () => {
+  expect(textOn("personaSlug", "persona", RECORDS, "personaMessages")).toContain(
+    `personaSlug: "outside",`
+  )
+})
+
+test("records sitting apart answer an edit each", () => {
+  expect(ranOn("personaSlug", "persona", RECORDS, "personaMessages").edits).toHaveLength(2)
+})
+
+test("records stating that key nowhere answer no edit rather than being refused", () => {
+  const said = ranOn("ruleNote", "note", RECORDS, "personaMessages")
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBeNull()
+})
+
+test("a record already stating the key asked for is refused", () => {
+  const said = ranOn("sent", "personaSlug", RECORDS, "personaMessages")
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(`\`${AT}\` states \`personaSlug\` already`)
+})
+
+test("a key holding no records answers no edit", () => {
+  const said = ranOn("personaSlug", "persona", RECORDS, "slug")
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBeNull()
+})
+
+test("the key held within is what a run names it by", () => {
+  const said = runChange(worldOf({ [AT]: RECORDS }), {
+    at: AT,
+    was: "personaSlug",
+    now: "persona",
+    within: "personaMessages",
+  })
+
+  expect(said.edits).toHaveLength(2)
 })
