@@ -31,7 +31,7 @@ export const watcherSideFile = {
     {
       invariantKind: "departure",
       statement:
-        "The hash answered is of the content wanted rather than of the content the file holds.",
+        "The hash answered is of the content wanted rather than of the content the file has.",
     },
     {
       invariantKind: "departure",

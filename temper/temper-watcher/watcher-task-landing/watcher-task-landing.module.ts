@@ -38,7 +38,7 @@ export const watcherTaskLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the store holds nothing for is refused rather than made.",
+      statement: "A body the store has nothing for is refused rather than made.",
     },
     {
       invariantKind: "departure",

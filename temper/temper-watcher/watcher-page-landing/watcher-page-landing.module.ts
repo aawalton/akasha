@@ -26,7 +26,7 @@ export const watcherPageLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A jsonl path ends in the property that holds the rows.",
+      statement: "A jsonl path ends in the property that has the rows.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +70,7 @@ export const watcherPageLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A jsonl body holding no line is empty rather than one newline.",
+      statement: "A jsonl body with no line is empty rather than one newline.",
     },
     {
       invariantKind: "departure",

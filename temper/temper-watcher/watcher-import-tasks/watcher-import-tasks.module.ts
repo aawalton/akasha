@@ -27,7 +27,7 @@ export const watcherImportTasks = {
     },
     {
       invariantKind: "departure",
-      statement: "A task holding no rule is marked done and keeps its page.",
+      statement: "A task with no rule is marked done and keeps its page.",
     },
     {
       invariantKind: "departure",
@@ -92,7 +92,7 @@ export const watcherImportTasks = {
     },
     {
       invariantKind: "departure",
-      statement: "The roster a task is judged against is every character the account holds.",
+      statement: "The roster a task is judged against is every character the account has.",
     },
     {
       invariantKind: "departure",

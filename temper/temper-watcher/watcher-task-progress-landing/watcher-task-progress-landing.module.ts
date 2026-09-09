@@ -22,7 +22,7 @@ export const watcherTaskProgressLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "The completion each character holds is read from the file beside that character.",
+      statement: "The completion each character has is read from the file beside that character.",
     },
     {
       invariantKind: "departure",

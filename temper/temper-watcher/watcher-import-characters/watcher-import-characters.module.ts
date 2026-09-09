@@ -28,7 +28,7 @@ export const watcherImportCharacters = {
     {
       invariantKind: "departure",
       statement:
-        "A tree holding fewer than four slotted champion stars is filled out with its own no-star.",
+        "A tree with fewer than four slotted champion stars is filled out with its own no-star.",
     },
     {
       invariantKind: "departure",

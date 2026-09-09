@@ -18,7 +18,7 @@ export const watcherInventorySnapshotName = {
     },
     {
       invariantKind: "departure",
-      statement: "A name holds nothing finer than whole seconds.",
+      statement: "A name has nothing finer than whole seconds.",
     },
     {
       invariantKind: "departure",

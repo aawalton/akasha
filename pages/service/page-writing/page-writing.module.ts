@@ -31,7 +31,7 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A path taken away that holds no body refuses the write.",
+      statement: "A path taken away that has no body refuses the write.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const pageWriting = {
     {
       invariantKind: "departure",
       statement:
-        "A write stating a commit is refused where a path no longer holds the body that commit held.",
+        "A write stating a commit is refused where a path no longer has the body that commit held.",
     },
     {
       invariantKind: "departure",

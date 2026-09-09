@@ -50,7 +50,7 @@ export const watcherImportSales = {
     },
     {
       invariantKind: "departure",
-      statement: "A saved-variables file holding no account-wide table plans no sale write.",
+      statement: "A saved-variables file with no account-wide table plans no sale write.",
     },
     {
       invariantKind: "departure",

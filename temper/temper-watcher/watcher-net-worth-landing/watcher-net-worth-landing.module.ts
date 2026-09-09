@@ -34,7 +34,7 @@ export const watcherNetWorthLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "The hour page is written only where the store holds no hour page yet.",
+      statement: "The hour page is written only where the store has no hour page yet.",
     },
     {
       invariantKind: "departure",

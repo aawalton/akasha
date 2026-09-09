@@ -9,7 +9,7 @@ export const watcherRunning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The worker is held in the foreground.",
+      statement: "The worker is in the foreground.",
     },
     {
       invariantKind: "departure",

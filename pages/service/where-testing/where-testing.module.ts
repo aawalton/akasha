@@ -18,11 +18,11 @@ export const whereTesting = {
     },
     {
       invariantKind: "departure",
-      statement: "A value holding nothing reads as bare.",
+      statement: "A value with nothing reads as bare.",
     },
     {
       invariantKind: "departure",
-      statement: "A list holding nothing reads as bare.",
+      statement: "A list with nothing reads as bare.",
     },
     {
       invariantKind: "departure",

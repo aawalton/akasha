@@ -102,7 +102,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "The seat whose folder holds that log is named by the id the call has.",
+      statement: "The seat whose folder has that log is named by the id the call has.",
     },
     {
       invariantKind: "departure",

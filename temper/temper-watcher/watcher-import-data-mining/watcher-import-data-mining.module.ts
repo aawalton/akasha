@@ -27,11 +27,11 @@ export const watcherImportDataMining = {
     },
     {
       invariantKind: "departure",
-      statement: "A block holding an entry this build cannot read is left on disk.",
+      statement: "A block with an entry this build cannot read is left on disk.",
     },
     {
       invariantKind: "constraint",
-      statement: "The capture file is the only copy of the entries a block holds.",
+      statement: "The capture file is the only copy of the entries a block has.",
     },
     {
       invariantKind: "departure",

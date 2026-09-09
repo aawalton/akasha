@@ -28,7 +28,7 @@ export const watcherTaskRolling = {
     },
     {
       invariantKind: "departure",
-      statement: "A character the game holds no record for counts as not progressed.",
+      statement: "A character the game has no record for counts as not progressed.",
     },
     {
       invariantKind: "departure",

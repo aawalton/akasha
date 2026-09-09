@@ -18,7 +18,7 @@ export const watcherConfigFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A config file names one global and holds one table under that global.",
+      statement: "A config file names one global and has one table under that global.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const watcherConfigFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A block keyed by numbers holding nothing is written on one line.",
+      statement: "A block keyed by numbers with nothing is written on one line.",
     },
     {
       invariantKind: "departure",

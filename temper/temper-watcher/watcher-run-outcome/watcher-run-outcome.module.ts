@@ -22,8 +22,7 @@ export const watcherRunOutcome = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run counts as carried across only when every operation the run holds is synced.",
+      statement: "A run counts as carried across only when every operation the run has is synced.",
     },
     {
       invariantKind: "departure",

@@ -15,7 +15,7 @@ export const watcherExportSettings = {
     {
       invariantKind: "departure",
       statement:
-        "An account holding neither a setting of any type nor a rule page gets its content back unchanged.",
+        "An account with neither a setting of any type nor a rule page gets its content back unchanged.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const watcherExportSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "Every rule page an account holds is read in one read.",
+      statement: "Every rule page an account has is read in one read.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const watcherExportSettings = {
     {
       invariantKind: "departure",
       statement:
-        "The inventory blocks are worked out where the player set inventory settings or holds a rule page.",
+        "The inventory blocks are worked out where the player set inventory settings or has a rule page.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const watcherExportSettings = {
     {
       invariantKind: "departure",
       statement:
-        "Automation reaches the file only where automation holds a characters record and a companions record.",
+        "Automation reaches the file only where automation has a characters record and a companions record.",
     },
     {
       invariantKind: "departure",

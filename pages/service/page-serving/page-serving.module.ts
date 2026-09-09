@@ -22,7 +22,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer is a JSON object unless that answer is the bytes a file holds.",
+      statement: "An answer is a JSON object unless that answer is the bytes a file has.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A key holding a value its shape does not allow is refused.",
+      statement: "A key with a value its shape does not allow is refused.",
     },
     {
       invariantKind: "departure",
@@ -98,7 +98,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page a write carries may hand over the bodies its file properties hold.",
+      statement: "A page a write carries may hand over the bodies its file properties have.",
     },
     {
       invariantKind: "departure",

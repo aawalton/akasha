@@ -25,7 +25,7 @@ export const seatPresenceRead = {
     },
     {
       invariantKind: "departure",
-      statement: "The seat a pid holds is found by matching the pid in each seat's process key.",
+      statement: "The seat a pid has is found by matching the pid in each seat's process key.",
     },
     {
       invariantKind: "departure",

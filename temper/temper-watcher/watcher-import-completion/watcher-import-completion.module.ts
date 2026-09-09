@@ -23,7 +23,7 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "departure",
-      statement: "A completion file holds the merged completion as JSON.",
+      statement: "A completion file has the merged completion as JSON.",
     },
     {
       invariantKind: "departure",
@@ -35,11 +35,11 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "departure",
-      statement: "A completion file holding no JSON object is refused rather than merged from.",
+      statement: "A completion file with no JSON object is refused rather than merged from.",
     },
     {
       invariantKind: "departure",
-      statement: "A completion equal to the completion its file holds lands nothing.",
+      statement: "A completion equal to the completion its file has lands nothing.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +116,7 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "absence",
-      statement: "No folder holding a page is named here.",
+      statement: "No folder with a page is named here.",
     },
   ],
 } as const satisfies Module

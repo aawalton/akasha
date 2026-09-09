@@ -19,7 +19,7 @@ export const watcherImportCompanions = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry holding no build hash as text is left out.",
+      statement: "An entry with no build hash as text is left out.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const watcherImportCompanions = {
     },
     {
       invariantKind: "constraint",
-      statement: "A file holding no account-wide table is refused.",
+      statement: "A file with no account-wide table is refused.",
     },
     {
       invariantKind: "absence",
