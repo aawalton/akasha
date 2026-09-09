@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0029Chapter29TempleOfKolas = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 29,
   ownLength: 2166,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3549034/chapter-29-temple-of-kolas",

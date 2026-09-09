@@ -8,7 +8,7 @@ export const delve0069069Hangover = {
   story: "delve",
   position: 69,
   ownLength: 5447,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-12-29",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/439467/069-hangover",
   externalId: "439467",

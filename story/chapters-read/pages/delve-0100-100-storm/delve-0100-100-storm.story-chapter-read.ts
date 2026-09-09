@@ -8,7 +8,7 @@ export const delve0100100Storm = {
   story: "delve",
   position: 100,
   ownLength: 10666,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-21",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/513618/100-storm",
   externalId: "513618",

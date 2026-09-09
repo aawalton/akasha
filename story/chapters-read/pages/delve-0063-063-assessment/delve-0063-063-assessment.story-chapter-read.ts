@@ -8,7 +8,7 @@ export const delve0063063Assessment = {
   story: "delve",
   position: 63,
   ownLength: 6614,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-11-20",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/425888/063-assessment",
   externalId: "425888",

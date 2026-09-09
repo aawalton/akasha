@@ -8,7 +8,7 @@ export const delve0029029Practice = {
   story: "delve",
   position: 29,
   ownLength: 3210,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-07-28",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/386369/029-practice",
   externalId: "386369",

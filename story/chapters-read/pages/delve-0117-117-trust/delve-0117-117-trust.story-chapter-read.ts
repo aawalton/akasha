@@ -8,7 +8,7 @@ export const delve0117117Trust = {
   story: "delve",
   position: 117,
   ownLength: 4083,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-18",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/570805/117-trust",
   externalId: "570805",

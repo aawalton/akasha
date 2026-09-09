@@ -8,7 +8,7 @@ export const delve0049049Downtime = {
   story: "delve",
   position: 49,
   ownLength: 3660,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-10-04",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/409950/049-downtime",
   externalId: "409950",

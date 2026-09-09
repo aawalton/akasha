@@ -8,7 +8,7 @@ export const delve0031031Gear = {
   story: "delve",
   position: 31,
   ownLength: 3499,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-08-09",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/390594/031-gear",
   externalId: "390594",

@@ -8,7 +8,7 @@ export const delve0130130Moving = {
   story: "delve",
   position: 130,
   ownLength: 5828,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-17",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/616019/130-moving",
   externalId: "616019",

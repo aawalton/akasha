@@ -8,7 +8,7 @@ export const delve0270270Bottleneck = {
   story: "delve",
   position: 270,
   ownLength: 2748,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-10",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1949001/270-bottleneck",
   externalId: "1949001",

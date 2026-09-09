@@ -8,7 +8,7 @@ export const delve0101101Fireside = {
   story: "delve",
   position: 101,
   ownLength: 7501,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-28",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/516802/101-fireside",
   externalId: "516802",

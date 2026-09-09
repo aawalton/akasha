@@ -8,7 +8,7 @@ export const delve0094094Illusion = {
   story: "delve",
   position: 94,
   ownLength: 6541,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-10",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/494339/094-illusion",
   externalId: "494339",

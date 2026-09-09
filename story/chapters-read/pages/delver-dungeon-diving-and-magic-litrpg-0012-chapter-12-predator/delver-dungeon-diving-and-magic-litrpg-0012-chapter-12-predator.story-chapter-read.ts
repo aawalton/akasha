@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0012Chapter12Predator = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 12,
   ownLength: 2166,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-30",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3470777/chapter-12-predator",

@@ -8,7 +8,7 @@ export const delve0066066Encounter = {
   story: "delve",
   position: 66,
   ownLength: 3553,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-12-08",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/432435/066-encounter",
   externalId: "432435",

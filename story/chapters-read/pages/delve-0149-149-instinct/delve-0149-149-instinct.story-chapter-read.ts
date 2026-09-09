@@ -8,7 +8,7 @@ export const delve0149149Instinct = {
   story: "delve",
   position: 149,
   ownLength: 5268,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-06",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/694673/149-instinct",
   externalId: "694673",

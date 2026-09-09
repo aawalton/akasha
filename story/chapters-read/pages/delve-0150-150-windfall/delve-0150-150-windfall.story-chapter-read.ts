@@ -8,7 +8,7 @@ export const delve0150150Windfall = {
   story: "delve",
   position: 150,
   ownLength: 7217,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-13",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/698510/150-windfall",
   externalId: "698510",

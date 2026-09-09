@@ -8,7 +8,7 @@ export const delve0248248Breakthrough = {
   story: "delve",
   position: 248,
   ownLength: 3244,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-22",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1381938/248-breakthrough",
   externalId: "1381938",

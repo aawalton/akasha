@@ -8,7 +8,7 @@ export const defianceOfTheFall0130Chapter1449Apex = {
   story: "story-read/defiance-of-the-fall",
   position: 130,
   ownLength: 3218,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3839758/chapter-1449-apex",

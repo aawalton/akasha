@@ -8,7 +8,7 @@ export const delve0019019Succor = {
   story: "delve",
   position: 19,
   ownLength: 2677,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-13",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/371955/019-succor",
   externalId: "371955",

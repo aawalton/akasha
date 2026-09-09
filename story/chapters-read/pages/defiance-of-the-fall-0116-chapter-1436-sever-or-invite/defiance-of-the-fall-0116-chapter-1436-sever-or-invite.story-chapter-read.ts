@@ -8,7 +8,7 @@ export const defianceOfTheFall0116Chapter1436SeverOrInvite = {
   story: "story-read/defiance-of-the-fall",
   position: 116,
   ownLength: 3177,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3419298/chapter-1436-sever-or-invite",

@@ -8,7 +8,7 @@ export const defianceOfTheFall0111Chapter1431Quarantine = {
   story: "story-read/defiance-of-the-fall",
   position: 111,
   ownLength: 3295,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3367565/chapter-1431-quarantine",

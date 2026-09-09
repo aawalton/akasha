@@ -8,7 +8,7 @@ export const delve0255255Diplomacy = {
   story: "delve",
   position: 255,
   ownLength: 3940,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-24",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1453215/255-diplomacy",
   externalId: "1453215",

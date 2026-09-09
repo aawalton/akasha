@@ -8,7 +8,7 @@ export const delve0015015Mine = {
   story: "delve",
   position: 15,
   ownLength: 4495,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-08",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/370009/015-mine",
   externalId: "370009",

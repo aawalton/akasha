@@ -8,7 +8,7 @@ export const delve0261261Omen = {
   story: "delve",
   position: 261,
   ownLength: 4387,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-18",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1522724/261-omen",
   externalId: "1522724",

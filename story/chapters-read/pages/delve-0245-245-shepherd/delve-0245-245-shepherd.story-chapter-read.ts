@@ -8,7 +8,7 @@ export const delve0245245Shepherd = {
   story: "delve",
   position: 245,
   ownLength: 3435,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-24",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1352624/245-shepherd",
   externalId: "1352624",

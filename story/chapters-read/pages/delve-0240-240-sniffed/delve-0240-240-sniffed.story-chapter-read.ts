@@ -8,7 +8,7 @@ export const delve0240240Sniffed = {
   story: "delve",
   position: 240,
   ownLength: 4653,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-06",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1301442/240-sniffed",
   externalId: "1301442",

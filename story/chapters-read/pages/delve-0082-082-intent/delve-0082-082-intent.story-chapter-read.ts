@@ -8,7 +8,7 @@ export const delve0082082Intent = {
   story: "delve",
   position: 82,
   ownLength: 7216,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-02-23",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/460308/082-intent",
   externalId: "460308",

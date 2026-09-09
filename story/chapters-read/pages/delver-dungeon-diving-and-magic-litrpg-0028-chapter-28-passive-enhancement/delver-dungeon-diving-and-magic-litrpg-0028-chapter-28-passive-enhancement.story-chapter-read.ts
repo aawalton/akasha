@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0028Chapter28PassiveEnhancement = 
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 28,
   ownLength: 2112,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3544281/chapter-28-passive-enhancement",

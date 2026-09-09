@@ -8,7 +8,7 @@ export const delve0070070Skating = {
   story: "delve",
   position: 70,
   ownLength: 6699,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-01-05",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/442058/070-skating",
   externalId: "442058",

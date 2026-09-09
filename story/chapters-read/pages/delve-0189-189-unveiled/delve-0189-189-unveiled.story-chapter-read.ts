@@ -8,7 +8,7 @@ export const delve0189189Unveiled = {
   story: "delve",
   position: 189,
   ownLength: 4240,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-17",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/887887/189-unveiled",
   externalId: "887887",

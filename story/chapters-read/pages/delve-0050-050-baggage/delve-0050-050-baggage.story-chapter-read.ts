@@ -8,7 +8,7 @@ export const delve0050050Baggage = {
   story: "delve",
   position: 50,
   ownLength: 3553,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-10-06",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/410382/050-baggage",
   externalId: "410382",

@@ -8,7 +8,7 @@ export const delve0195195Stealth = {
   story: "delve",
   position: 195,
   ownLength: 5511,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-12",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/925749/195-stealth",
   externalId: "925749",

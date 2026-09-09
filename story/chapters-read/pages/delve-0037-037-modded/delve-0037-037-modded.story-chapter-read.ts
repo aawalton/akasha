@@ -8,7 +8,7 @@ export const delve0037037Modded = {
   story: "delve",
   position: 37,
   ownLength: 6521,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-08-29",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/397418/037-modded",
   externalId: "397418",

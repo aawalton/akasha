@@ -8,7 +8,7 @@ export const delve0172172Grading = {
   story: "delve",
   position: 172,
   ownLength: 4772,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-28",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/795892/172-grading",
   externalId: "795892",

@@ -8,7 +8,7 @@ export const delve0192192Swim = {
   story: "delve",
   position: 192,
   ownLength: 5343,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-05-15",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/907310/192-swim",
   externalId: "907310",

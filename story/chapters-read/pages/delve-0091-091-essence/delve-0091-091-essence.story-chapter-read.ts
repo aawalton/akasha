@@ -8,7 +8,7 @@ export const delve0091091Essence = {
   story: "delve",
   position: 91,
   ownLength: 5295,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-19",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/484471/091-essence",
   externalId: "484471",

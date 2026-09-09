@@ -8,7 +8,7 @@ export const delve0025025Clay = {
   story: "delve",
   position: 25,
   ownLength: 3298,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-07-05",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/378683/025-clay",
   externalId: "378683",

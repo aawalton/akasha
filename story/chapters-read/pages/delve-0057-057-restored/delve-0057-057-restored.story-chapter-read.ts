@@ -8,7 +8,7 @@ export const delve0057057Restored = {
   story: "delve",
   position: 57,
   ownLength: 4578,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-10-30",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/418175/057-restored",
   externalId: "418175",

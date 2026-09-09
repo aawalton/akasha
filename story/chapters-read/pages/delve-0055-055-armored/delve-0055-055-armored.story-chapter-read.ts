@@ -8,7 +8,7 @@ export const delve0055055Armored = {
   story: "delve",
   position: 55,
   ownLength: 5636,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-10-22",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/415574/055-armored",
   externalId: "415574",

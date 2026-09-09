@@ -8,7 +8,7 @@ export const delve0022022Search = {
   story: "delve",
   position: 22,
   ownLength: 2733,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-24",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/375272/022-search",
   externalId: "375272",

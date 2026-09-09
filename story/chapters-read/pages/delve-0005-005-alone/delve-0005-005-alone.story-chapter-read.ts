@@ -8,7 +8,7 @@ export const delve0005005Alone = {
   story: "delve",
   position: 5,
   ownLength: 2632,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-02",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368119/005-alone",
   externalId: "368119",

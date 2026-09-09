@@ -8,7 +8,7 @@ export const delve0126126Industry = {
   story: "delve",
   position: 126,
   ownLength: 4766,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-20",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/602530/126-industry",
   externalId: "602530",

@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0016Chapter16PromisesKept = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 16,
   ownLength: 2228,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3488961/chapter-16-promises-kept",

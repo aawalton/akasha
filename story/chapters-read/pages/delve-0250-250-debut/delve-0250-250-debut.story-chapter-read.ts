@@ -8,7 +8,7 @@ export const delve0250250Debut = {
   story: "delve",
   position: 250,
   ownLength: 2933,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-11-12",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1405978/250-debut",
   externalId: "1405978",

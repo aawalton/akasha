@@ -8,7 +8,7 @@ export const delve0083083Boon = {
   story: "delve",
   position: 83,
   ownLength: 7118,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-01",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/463202/083-boon",
   externalId: "463202",

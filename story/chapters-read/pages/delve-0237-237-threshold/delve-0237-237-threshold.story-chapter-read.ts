@@ -8,7 +8,7 @@ export const delve0237237Threshold = {
   story: "delve",
   position: 237,
   ownLength: 3527,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-07-09",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1271479/237-threshold",
   externalId: "1271479",

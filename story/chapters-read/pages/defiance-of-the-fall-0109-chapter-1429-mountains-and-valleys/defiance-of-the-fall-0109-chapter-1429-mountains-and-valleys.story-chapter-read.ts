@@ -8,7 +8,7 @@ export const defianceOfTheFall0109Chapter1429MountainsAndValleys = {
   story: "story-read/defiance-of-the-fall",
   position: 109,
   ownLength: 3053,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3350210/chapter-1429-mountains-and-valleys",

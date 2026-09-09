@@ -8,7 +8,7 @@ export const delve0107107Interface = {
   story: "delve",
   position: 107,
   ownLength: 5533,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-09",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/536374/107-interface",
   externalId: "536374",

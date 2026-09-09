@@ -8,7 +8,7 @@ export const defianceOfTheFall0120Chapter1440GatesAndLightning = {
   story: "story-read/defiance-of-the-fall",
   position: 120,
   ownLength: 3168,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-28",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3461327/chapter-1440-gates-and-lightning",

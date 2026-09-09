@@ -8,7 +8,7 @@ export const defianceOfTheFall0101Chapter1421LightningTrap = {
   story: "story-read/defiance-of-the-fall",
   position: 101,
   ownLength: 2915,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-12",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3264926/chapter-1421-lightning-trap",

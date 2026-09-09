@@ -8,7 +8,7 @@ export const delve0156156Magnet = {
   story: "delve",
   position: 156,
   ownLength: 5374,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-25",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/722537/156-magnet",
   externalId: "722537",

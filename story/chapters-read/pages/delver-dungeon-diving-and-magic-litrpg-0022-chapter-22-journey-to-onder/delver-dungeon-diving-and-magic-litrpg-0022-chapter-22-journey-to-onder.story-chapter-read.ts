@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0022Chapter22JourneyToOnder = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 22,
   ownLength: 2400,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-09",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3515854/chapter-22-journey-to-onder",

@@ -8,7 +8,7 @@ export const defianceOfTheFall0121Chapter1441ThousandVoices = {
   story: "story-read/defiance-of-the-fall",
   position: 121,
   ownLength: 2990,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3474563/chapter-1441-thousand-voices",

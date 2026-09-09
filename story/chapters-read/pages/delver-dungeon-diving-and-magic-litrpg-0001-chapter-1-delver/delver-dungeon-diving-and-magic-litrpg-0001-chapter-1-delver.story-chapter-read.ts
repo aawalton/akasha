@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0001Chapter1Delver = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 1,
   ownLength: 2284,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3434301/chapter-1-delver",

@@ -8,7 +8,7 @@ export const defianceOfTheFall0125Chapter1444InnerMountain = {
   story: "story-read/defiance-of-the-fall",
   position: 125,
   ownLength: 2857,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3792152/chapter-1444-inner-mountain",

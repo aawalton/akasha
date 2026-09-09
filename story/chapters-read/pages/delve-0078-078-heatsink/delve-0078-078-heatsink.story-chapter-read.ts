@@ -8,7 +8,7 @@ export const delve0078078Heatsink = {
   story: "delve",
   position: 78,
   ownLength: 4352,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-02-06",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/454222/078-heatsink",
   externalId: "454222",

@@ -8,7 +8,7 @@ export const delve0268268Foreigner = {
   story: "delve",
   position: 268,
   ownLength: 3233,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-22",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1814246/268-foreigner",
   externalId: "1814246",

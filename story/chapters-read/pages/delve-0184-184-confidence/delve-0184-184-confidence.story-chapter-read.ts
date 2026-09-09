@@ -8,7 +8,7 @@ export const delve0184184Confidence = {
   story: "delve",
   position: 184,
   ownLength: 4152,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-06",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/859003/184-confidence",
   externalId: "859003",

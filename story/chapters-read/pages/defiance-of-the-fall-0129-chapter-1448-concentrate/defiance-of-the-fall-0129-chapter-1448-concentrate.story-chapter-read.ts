@@ -8,7 +8,7 @@ export const defianceOfTheFall0129Chapter1448Concentrate = {
   story: "story-read/defiance-of-the-fall",
   position: 129,
   ownLength: 2335,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3831102/chapter-1448-concentrate",

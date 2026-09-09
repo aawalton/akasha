@@ -8,7 +8,7 @@ export const defianceOfTheFall0134Chapter1453Gambit = {
   story: "story-read/defiance-of-the-fall",
   position: 134,
   ownLength: 3011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3886433/chapter-1453-gambit",

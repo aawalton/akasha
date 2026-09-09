@@ -8,7 +8,7 @@ export const delve0178178Proposition = {
   story: "delve",
   position: 178,
   ownLength: 4059,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-16",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/825753/178-proposition",
   externalId: "825753",

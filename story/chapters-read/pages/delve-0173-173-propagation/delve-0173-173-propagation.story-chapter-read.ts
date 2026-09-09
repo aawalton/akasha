@@ -8,7 +8,7 @@ export const delve0173173Propagation = {
   story: "delve",
   position: 173,
   ownLength: 5129,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-05",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/800733/173-propagation",
   externalId: "800733",

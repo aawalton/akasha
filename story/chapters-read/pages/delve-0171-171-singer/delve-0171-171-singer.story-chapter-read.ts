@@ -8,7 +8,7 @@ export const delve0171171Singer = {
   story: "delve",
   position: 171,
   ownLength: 6068,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-21",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/791509/171-singer",
   externalId: "791509",

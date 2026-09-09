@@ -8,7 +8,7 @@ export const delve0210210Atrocity = {
   story: "delve",
   position: 210,
   ownLength: 6622,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-30",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1027065/210-atrocity",
   externalId: "1027065",

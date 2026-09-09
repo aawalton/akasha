@@ -8,7 +8,7 @@ export const delve0205205Flex = {
   story: "delve",
   position: 205,
   ownLength: 4218,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-09-18",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/996468/205-flex",
   externalId: "996468",

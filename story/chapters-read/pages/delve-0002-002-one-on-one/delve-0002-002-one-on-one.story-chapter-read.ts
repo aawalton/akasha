@@ -8,7 +8,7 @@ export const delve0002002OneOnOne = {
   story: "delve",
   position: 2,
   ownLength: 3452,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-02",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368033/002-one-on-one",
   externalId: "368033",

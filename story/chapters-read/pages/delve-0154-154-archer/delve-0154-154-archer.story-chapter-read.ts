@@ -8,7 +8,7 @@ export const delve0154154Archer = {
   story: "delve",
   position: 154,
   ownLength: 6316,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-11",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/714480/154-archer",
   externalId: "714480",

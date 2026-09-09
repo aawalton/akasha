@@ -8,7 +8,7 @@ export const delve0020020Outcast = {
   story: "delve",
   position: 20,
   ownLength: 3812,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-21",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/374415/020-outcast",
   externalId: "374415",

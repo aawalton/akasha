@@ -8,7 +8,7 @@ export const delve0026026Gratitude = {
   story: "delve",
   position: 26,
   ownLength: 3440,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-07-07",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/379331/026-gratitude",
   externalId: "379331",

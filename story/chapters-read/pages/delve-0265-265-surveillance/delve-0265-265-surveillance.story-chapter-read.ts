@@ -8,7 +8,7 @@ export const delve0265265Surveillance = {
   story: "delve",
   position: 265,
   ownLength: 3322,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-30",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1698720/265-surveillance",
   externalId: "1698720",

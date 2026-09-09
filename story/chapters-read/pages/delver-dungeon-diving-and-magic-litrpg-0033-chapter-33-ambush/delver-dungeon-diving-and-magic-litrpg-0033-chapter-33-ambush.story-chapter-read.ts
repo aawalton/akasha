@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0033Chapter33Ambush = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 33,
   ownLength: 2131,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3567474/chapter-33-ambush",

@@ -8,7 +8,7 @@ export const delve0092092Fracture = {
   story: "delve",
   position: 92,
   ownLength: 4211,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-26",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/487810/092-fracture",
   externalId: "487810",

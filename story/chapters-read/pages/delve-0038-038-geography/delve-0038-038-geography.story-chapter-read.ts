@@ -8,7 +8,7 @@ export const delve0038038Geography = {
   story: "delve",
   position: 38,
   ownLength: 3674,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-09-01",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/398035/038-geography",
   externalId: "398035",

@@ -8,7 +8,7 @@ export const delve0048048Crucible = {
   story: "delve",
   position: 48,
   ownLength: 3010,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-09-29",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/408177/048-crucible",
   externalId: "408177",

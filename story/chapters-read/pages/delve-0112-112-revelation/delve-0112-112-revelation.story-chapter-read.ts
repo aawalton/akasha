@@ -8,7 +8,7 @@ export const delve0112112Revelation = {
   story: "delve",
   position: 112,
   ownLength: 6237,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-13",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/553912/112-revelation",
   externalId: "553912",

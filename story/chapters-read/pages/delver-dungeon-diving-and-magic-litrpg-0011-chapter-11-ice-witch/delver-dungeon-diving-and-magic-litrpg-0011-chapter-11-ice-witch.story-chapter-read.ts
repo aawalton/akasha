@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0011Chapter11IceWitch = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 11,
   ownLength: 2235,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3466449/chapter-11-ice-witch",

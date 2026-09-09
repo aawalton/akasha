@@ -8,7 +8,7 @@ export const delve0182182Subtlety = {
   story: "delve",
   position: 182,
   ownLength: 4746,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-13",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/844611/182-subtlety",
   externalId: "844611",

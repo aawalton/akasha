@@ -8,7 +8,7 @@ export const delve0170170Daybreak = {
   story: "delve",
   position: 170,
   ownLength: 6571,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-07",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/781148/170-daybreak",
   externalId: "781148",

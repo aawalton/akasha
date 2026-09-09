@@ -8,7 +8,7 @@ export const delve0234234Unsupervised = {
   story: "delve",
   position: 234,
   ownLength: 3375,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-06-11",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1241774/234-unsupervised",
   externalId: "1241774",

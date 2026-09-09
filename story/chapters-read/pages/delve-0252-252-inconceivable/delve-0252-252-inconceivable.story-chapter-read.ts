@@ -8,7 +8,7 @@ export const delve0252252Inconceivable = {
   story: "delve",
   position: 252,
   ownLength: 4489,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-11-26",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1422531/252-inconceivable",
   externalId: "1422531",

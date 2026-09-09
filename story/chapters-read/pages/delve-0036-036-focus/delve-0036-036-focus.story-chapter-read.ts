@@ -8,7 +8,7 @@ export const delve0036036Focus = {
   story: "delve",
   position: 36,
   ownLength: 4441,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-08-25",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/396211/036-focus",
   externalId: "396211",

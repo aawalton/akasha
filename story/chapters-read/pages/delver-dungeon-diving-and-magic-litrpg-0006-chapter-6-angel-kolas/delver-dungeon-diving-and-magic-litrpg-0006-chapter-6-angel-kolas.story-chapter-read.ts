@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0006Chapter6AngelKolas = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 6,
   ownLength: 2065,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3443423/chapter-6-angel-kolas",

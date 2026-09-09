@@ -8,7 +8,7 @@ export const delve0021021Smith = {
   story: "delve",
   position: 21,
   ownLength: 5219,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-23",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/375009/021-smith",
   externalId: "375009",

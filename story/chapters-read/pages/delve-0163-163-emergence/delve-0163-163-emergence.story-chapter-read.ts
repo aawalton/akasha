@@ -8,7 +8,7 @@ export const delve0163163Emergence = {
   story: "delve",
   position: 163,
   ownLength: 4444,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-19",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/753155/163-emergence",
   externalId: "753155",

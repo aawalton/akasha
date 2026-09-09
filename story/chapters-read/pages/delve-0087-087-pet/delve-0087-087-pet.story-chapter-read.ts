@@ -8,7 +8,7 @@ export const delve0087087Pet = {
   story: "delve",
   position: 87,
   ownLength: 6750,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-22",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/471204/087-pet",
   externalId: "471204",

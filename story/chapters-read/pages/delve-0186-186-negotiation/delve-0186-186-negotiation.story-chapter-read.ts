@@ -8,7 +8,7 @@ export const delve0186186Negotiation = {
   story: "delve",
   position: 186,
   ownLength: 3934,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-20",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/867991/186-negotiation",
   externalId: "867991",

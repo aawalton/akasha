@@ -8,7 +8,7 @@ export const defianceOfTheFall0104Chapter1424Coronation = {
   story: "story-read/defiance-of-the-fall",
   position: 104,
   ownLength: 3023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-19",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3293515/chapter-1424-coronation",

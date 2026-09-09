@@ -8,7 +8,7 @@ export const delve0199199Unprecedented = {
   story: "delve",
   position: 199,
   ownLength: 3896,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-24",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/955185/199-unprecedented",
   externalId: "955185",

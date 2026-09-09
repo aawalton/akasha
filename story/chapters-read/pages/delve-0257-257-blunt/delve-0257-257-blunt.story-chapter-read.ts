@@ -8,7 +8,7 @@ export const delve0257257Blunt = {
   story: "delve",
   position: 257,
   ownLength: 3011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-14",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1476753/257-blunt",
   externalId: "1476753",

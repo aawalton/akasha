@@ -8,7 +8,7 @@ export const delve0142142Biome = {
   story: "delve",
   position: 142,
   ownLength: 4843,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-11",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/662369/142-biome",
   externalId: "662369",

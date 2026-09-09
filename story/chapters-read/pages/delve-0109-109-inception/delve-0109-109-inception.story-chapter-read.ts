@@ -8,7 +8,7 @@ export const delve0109109Inception = {
   story: "delve",
   position: 109,
   ownLength: 5858,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-23",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/543017/109-inception",
   externalId: "543017",

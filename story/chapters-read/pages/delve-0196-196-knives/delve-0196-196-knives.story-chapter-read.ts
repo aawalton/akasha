@@ -8,7 +8,7 @@ export const delve0196196Knives = {
   story: "delve",
   position: 196,
   ownLength: 4139,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-26",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/935714/196-knives",
   externalId: "935714",

@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0032Chapter32CrystalForest = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 32,
   ownLength: 2096,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-19",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3563013/chapter-32-crystal-forest",

@@ -8,7 +8,7 @@ export const delve0053053Forward = {
   story: "delve",
   position: 53,
   ownLength: 4276,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-10-15",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/413569/053-forward",
   externalId: "413569",

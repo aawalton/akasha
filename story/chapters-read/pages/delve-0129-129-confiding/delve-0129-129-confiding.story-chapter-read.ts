@@ -8,7 +8,7 @@ export const delve0129129Confiding = {
   story: "delve",
   position: 129,
   ownLength: 5539,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-10",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/612397/129-confiding",
   externalId: "612397",

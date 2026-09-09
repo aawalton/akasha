@@ -8,7 +8,7 @@ export const delve0200200Understanding = {
   story: "delve",
   position: 200,
   ownLength: 5444,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-31",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/960128/200-understanding",
   externalId: "960128",

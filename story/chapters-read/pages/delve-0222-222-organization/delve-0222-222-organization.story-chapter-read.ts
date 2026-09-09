@@ -8,7 +8,7 @@ export const delve0222222Organization = {
   story: "delve",
   position: 222,
   ownLength: 3724,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-19",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1117550/222-organization",
   externalId: "1117550",

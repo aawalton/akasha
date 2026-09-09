@@ -8,7 +8,7 @@ export const delve0175175Improbable = {
   story: "delve",
   position: 175,
   ownLength: 4748,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-19",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/809053/175-improbable",
   externalId: "809053",

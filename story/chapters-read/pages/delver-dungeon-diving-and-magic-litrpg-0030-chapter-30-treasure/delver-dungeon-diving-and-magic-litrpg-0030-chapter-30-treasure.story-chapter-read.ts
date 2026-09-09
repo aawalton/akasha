@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0030Chapter30Treasure = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 30,
   ownLength: 2202,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3553719/chapter-30-treasure",

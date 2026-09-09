@@ -8,7 +8,7 @@ export const delve0165165Shake = {
   story: "delve",
   position: 165,
   ownLength: 5894,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-03",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/760686/165-shake",
   externalId: "760686",

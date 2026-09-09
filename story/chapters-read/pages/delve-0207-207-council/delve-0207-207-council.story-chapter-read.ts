@@ -8,7 +8,7 @@ export const delve0207207Council = {
   story: "delve",
   position: 207,
   ownLength: 5228,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-02",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1006634/207-council",
   externalId: "1006634",

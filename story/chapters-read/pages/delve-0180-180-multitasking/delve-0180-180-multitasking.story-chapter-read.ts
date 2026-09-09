@@ -8,7 +8,7 @@ export const delve0180180Multitasking = {
   story: "delve",
   position: 180,
   ownLength: 5464,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-30",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/834765/180-multitasking",
   externalId: "834765",

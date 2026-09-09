@@ -8,7 +8,7 @@ export const delve0120120Choice = {
   story: "delve",
   position: 120,
   ownLength: 7320,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-08",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/581221/120-choice",
   externalId: "581221",

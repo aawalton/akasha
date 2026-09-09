@@ -8,7 +8,7 @@ export const delve0194194Vessel = {
   story: "delve",
   position: 194,
   ownLength: 4482,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-05",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/920920/194-vessel",
   externalId: "920920",

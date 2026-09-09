@@ -8,7 +8,7 @@ export const delve0215215Outing = {
   story: "delve",
   position: 215,
   ownLength: 4274,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-18",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1065817/215-outing",
   externalId: "1065817",

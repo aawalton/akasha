@@ -8,7 +8,7 @@ export const delve0024024Answers = {
   story: "delve",
   position: 24,
   ownLength: 3498,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-07-01",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/377564/024-answers",
   externalId: "377564",

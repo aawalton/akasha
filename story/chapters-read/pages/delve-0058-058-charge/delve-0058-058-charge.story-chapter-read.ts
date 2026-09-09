@@ -8,7 +8,7 @@ export const delve0058058Charge = {
   story: "delve",
   position: 58,
   ownLength: 4246,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-11-03",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/419522/058-charge",
   externalId: "419522",

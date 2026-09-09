@@ -8,7 +8,7 @@ export const defianceOfTheFall0107Chapter1427Changes = {
   story: "story-read/defiance-of-the-fall",
   position: 107,
   ownLength: 2926,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-28",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3330037/chapter-1427-changes",

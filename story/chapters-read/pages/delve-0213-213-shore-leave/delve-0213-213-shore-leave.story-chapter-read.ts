@@ -8,7 +8,7 @@ export const delve0213213ShoreLeave = {
   story: "delve",
   position: 213,
   ownLength: 3880,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-27",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1049900/213-shore-leave",
   externalId: "1049900",

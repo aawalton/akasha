@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0003Chapter3Automaton = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 3,
   ownLength: 2274,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3442836/chapter-3-automaton",

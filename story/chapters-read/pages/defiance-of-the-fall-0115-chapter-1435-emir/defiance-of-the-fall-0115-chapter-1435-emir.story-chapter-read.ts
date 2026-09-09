@@ -8,7 +8,7 @@ export const defianceOfTheFall0115Chapter1435Emir = {
   story: "story-read/defiance-of-the-fall",
   position: 115,
   ownLength: 3090,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-17",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3408334/chapter-1435-emir",

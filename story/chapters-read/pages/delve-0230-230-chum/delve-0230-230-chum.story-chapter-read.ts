@@ -8,7 +8,7 @@ export const delve0230230Chum = {
   story: "delve",
   position: 230,
   ownLength: 3562,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-07",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1205244/230-chum",
   externalId: "1205244",

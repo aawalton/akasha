@@ -8,7 +8,7 @@ export const delve0001001Woodland = {
   story: "delve",
   position: 1,
   ownLength: 3263,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-02",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368012/001-woodland",
   externalId: "368012",

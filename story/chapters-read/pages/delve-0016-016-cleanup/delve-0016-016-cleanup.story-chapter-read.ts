@@ -8,7 +8,7 @@ export const delve0016016Cleanup = {
   story: "delve",
   position: 16,
   ownLength: 2055,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-08",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/370111/016-cleanup",
   externalId: "370111",

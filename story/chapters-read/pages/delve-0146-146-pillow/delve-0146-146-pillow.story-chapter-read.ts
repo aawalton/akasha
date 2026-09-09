@@ -8,7 +8,7 @@ export const delve0146146Pillow = {
   story: "delve",
   position: 146,
   ownLength: 4363,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-16",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/683059/146-pillow",
   externalId: "683059",

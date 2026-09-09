@@ -8,7 +8,7 @@ export const delve0068068Departure = {
   story: "delve",
   position: 68,
   ownLength: 4639,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-12-22",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/437229/068-departure",
   externalId: "437229",

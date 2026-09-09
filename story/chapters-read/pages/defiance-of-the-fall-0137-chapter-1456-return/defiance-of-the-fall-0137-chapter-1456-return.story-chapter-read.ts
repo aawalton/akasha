@@ -7,7 +7,7 @@ export const defianceOfTheFall0137Chapter1456Return = {
   story: "story-read/defiance-of-the-fall",
   position: 137,
   publishedAt: "2026-09-06",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3921302",
   source: "royal-road",
   title: "Chapter 1,456 - Return",

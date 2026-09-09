@@ -8,7 +8,7 @@ export const defianceOfTheFall0108Chapter1428TakingStock = {
   story: "story-read/defiance-of-the-fall",
   position: 108,
   ownLength: 3116,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-30",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3338024/chapter-1428-taking-stock",

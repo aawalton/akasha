@@ -8,7 +8,7 @@ export const delve0086086Explosion = {
   story: "delve",
   position: 86,
   ownLength: 4711,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-15",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/468473/086-explosion",
   externalId: "468473",

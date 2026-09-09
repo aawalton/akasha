@@ -8,7 +8,7 @@ export const delve0011011Ux = {
   story: "delve",
   position: 11,
   ownLength: 3559,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-06",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/369270/011-ux",
   externalId: "369270",

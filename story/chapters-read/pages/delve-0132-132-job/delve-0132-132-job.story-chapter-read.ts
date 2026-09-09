@@ -8,7 +8,7 @@ export const delve0132132Job = {
   story: "delve",
   position: 132,
   ownLength: 7116,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-31",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/623046/132-job",
   externalId: "623046",

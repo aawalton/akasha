@@ -8,7 +8,7 @@ export const delve0114114March = {
   story: "delve",
   position: 114,
   ownLength: 6572,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-09-27",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/560624/114-march",
   externalId: "560624",

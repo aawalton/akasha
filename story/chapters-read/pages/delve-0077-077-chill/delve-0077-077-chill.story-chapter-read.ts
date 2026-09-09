@@ -8,7 +8,7 @@ export const delve0077077Chill = {
   story: "delve",
   position: 77,
   ownLength: 4554,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-02-01",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/452279/077-chill",
   externalId: "452279",

@@ -8,7 +8,7 @@ export const delve0040040Lair = {
   story: "delve",
   position: 40,
   ownLength: 5312,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-09-04",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/399191/040-lair",
   externalId: "399191",

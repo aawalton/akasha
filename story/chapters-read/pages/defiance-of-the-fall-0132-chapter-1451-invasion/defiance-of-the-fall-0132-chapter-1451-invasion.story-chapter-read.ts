@@ -8,7 +8,7 @@ export const defianceOfTheFall0132Chapter1451Invasion = {
   story: "story-read/defiance-of-the-fall",
   position: 132,
   ownLength: 3198,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3864266/chapter-1451-invasion",

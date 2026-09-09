@@ -8,7 +8,7 @@ export const delve0010010Broke = {
   story: "delve",
   position: 10,
   ownLength: 4173,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-05",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368849/010-broke",
   externalId: "368849",

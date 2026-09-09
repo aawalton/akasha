@@ -8,7 +8,7 @@ export const delve0131131Appearances = {
   story: "delve",
   position: 131,
   ownLength: 6380,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-24",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/619463/131-appearances",
   externalId: "619463",

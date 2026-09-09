@@ -8,7 +8,7 @@ export const defianceOfTheFall0133Chapter1452Siege = {
   story: "story-read/defiance-of-the-fall",
   position: 133,
   ownLength: 2812,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3873030/chapter-1452-siege",

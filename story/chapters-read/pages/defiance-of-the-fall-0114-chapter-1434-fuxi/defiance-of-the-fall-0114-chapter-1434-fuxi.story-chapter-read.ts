@@ -8,7 +8,7 @@ export const defianceOfTheFall0114Chapter1434Fuxi = {
   story: "story-read/defiance-of-the-fall",
   position: 114,
   ownLength: 3083,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-14",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3396267/chapter-1434-fuxi",

@@ -8,7 +8,7 @@ export const delve0188188Proximity = {
   story: "delve",
   position: 188,
   ownLength: 4361,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-10",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/882088/188-proximity",
   externalId: "882088",

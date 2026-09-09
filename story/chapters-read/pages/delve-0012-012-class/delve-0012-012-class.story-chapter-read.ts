@@ -8,7 +8,7 @@ export const delve0012012Class = {
   story: "delve",
   position: 12,
   ownLength: 3248,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-07",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/369623/012-class",
   externalId: "369623",

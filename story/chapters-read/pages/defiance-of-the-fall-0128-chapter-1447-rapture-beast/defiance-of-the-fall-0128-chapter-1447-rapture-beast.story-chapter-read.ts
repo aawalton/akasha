@@ -8,7 +8,7 @@ export const defianceOfTheFall0128Chapter1447RaptureBeast = {
   story: "story-read/defiance-of-the-fall",
   position: 128,
   ownLength: 3013,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-16",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3822291/chapter-1447-rapture-beast",

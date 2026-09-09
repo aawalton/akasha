@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0007Chapter7LibraryAndGardens = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 7,
   ownLength: 2319,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3445540/chapter-7-library-and-gardens",

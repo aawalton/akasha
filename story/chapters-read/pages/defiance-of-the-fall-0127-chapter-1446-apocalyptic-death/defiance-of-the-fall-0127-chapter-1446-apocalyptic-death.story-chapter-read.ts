@@ -8,7 +8,7 @@ export const defianceOfTheFall0127Chapter1446ApocalypticDeath = {
   story: "story-read/defiance-of-the-fall",
   position: 127,
   ownLength: 3134,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-13",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3809717/chapter-1446-apocalyptic-death",

@@ -8,7 +8,7 @@ export const delve0103103Illumination = {
   story: "delve",
   position: 103,
   ownLength: 7172,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-12",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/523266/103-illumination",
   externalId: "523266",

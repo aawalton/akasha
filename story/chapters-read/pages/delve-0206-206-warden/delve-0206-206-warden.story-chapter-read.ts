@@ -8,7 +8,7 @@ export const delve0206206Warden = {
   story: "delve",
   position: 206,
   ownLength: 4801,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-09-25",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1001407/206-warden",
   externalId: "1001407",

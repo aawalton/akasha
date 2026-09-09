@@ -8,7 +8,7 @@ export const delve0241241Impasse = {
   story: "delve",
   position: 241,
   ownLength: 3184,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-20",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1316118/241-impasse",
   externalId: "1316118",

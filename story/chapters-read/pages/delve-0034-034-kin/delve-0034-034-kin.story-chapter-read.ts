@@ -8,7 +8,7 @@ export const delve0034034Kin = {
   story: "delve",
   position: 34,
   ownLength: 3659,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-08-18",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/393642/034-kin",
   externalId: "393642",

@@ -8,7 +8,7 @@ export const delve0259259Impression = {
   story: "delve",
   position: 259,
   ownLength: 3705,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-04",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1505883/259-impression",
   externalId: "1505883",

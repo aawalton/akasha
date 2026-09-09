@@ -8,7 +8,7 @@ export const delve0264264Business = {
   story: "delve",
   position: 264,
   ownLength: 3822,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-27",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1652253/264-business",
   externalId: "1652253",

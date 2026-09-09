@@ -8,7 +8,7 @@ export const delve0256256Rollover = {
   story: "delve",
   position: 256,
   ownLength: 3593,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-07",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1468552/256-rollover",
   externalId: "1468552",

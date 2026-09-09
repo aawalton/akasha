@@ -8,7 +8,7 @@ export const delve0032032Well = {
   story: "delve",
   position: 32,
   ownLength: 3862,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-08-11",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/390995/032-well",
   externalId: "390995",

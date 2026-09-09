@@ -8,7 +8,7 @@ export const delve0118118Frost = {
   story: "delve",
   position: 118,
   ownLength: 5106,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-25",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/574203/118-frost",
   externalId: "574203",

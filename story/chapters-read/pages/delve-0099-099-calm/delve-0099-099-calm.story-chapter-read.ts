@@ -8,7 +8,7 @@ export const delve0099099Calm = {
   story: "delve",
   position: 99,
   ownLength: 9059,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-14",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/510359/099-calm",
   externalId: "510359",

@@ -8,7 +8,7 @@ export const delve0095095Pressure = {
   story: "delve",
   position: 95,
   ownLength: 4742,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-17",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/497449/095-pressure",
   externalId: "497449",

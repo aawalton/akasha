@@ -8,7 +8,7 @@ export const delve0043043Fall = {
   story: "delve",
   position: 43,
   ownLength: 3457,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-09-15",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/402566/043-fall",
   externalId: "402566",

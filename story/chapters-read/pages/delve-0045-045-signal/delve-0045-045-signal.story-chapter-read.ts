@@ -8,7 +8,7 @@ export const delve0045045Signal = {
   story: "delve",
   position: 45,
   ownLength: 3332,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-09-22",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/404779/045-signal",
   externalId: "404779",

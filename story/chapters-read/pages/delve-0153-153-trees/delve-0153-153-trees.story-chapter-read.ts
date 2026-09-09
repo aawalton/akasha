@@ -8,7 +8,7 @@ export const delve0153153Trees = {
   story: "delve",
   position: 153,
   ownLength: 6093,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-04",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/710392/153-trees",
   externalId: "710392",

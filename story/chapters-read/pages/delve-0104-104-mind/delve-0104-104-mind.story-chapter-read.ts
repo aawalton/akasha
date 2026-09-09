@@ -8,7 +8,7 @@ export const delve0104104Mind = {
   story: "delve",
   position: 104,
   ownLength: 9342,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-19",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/526411/104-mind",
   externalId: "526411",

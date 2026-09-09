@@ -8,7 +8,7 @@ export const delve0223223Control = {
   story: "delve",
   position: 223,
   ownLength: 4315,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-05",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1129208/223-control",
   externalId: "1129208",

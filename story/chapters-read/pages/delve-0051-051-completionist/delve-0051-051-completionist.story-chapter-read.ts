@@ -8,7 +8,7 @@ export const delve0051051Completionist = {
   story: "delve",
   position: 51,
   ownLength: 5943,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-10-07",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/410986/051-completionist",
   externalId: "410986",

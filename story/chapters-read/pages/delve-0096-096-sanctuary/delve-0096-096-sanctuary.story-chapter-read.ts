@@ -8,7 +8,7 @@ export const delve0096096Sanctuary = {
   story: "delve",
   position: 96,
   ownLength: 7132,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-24",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/500585/096-sanctuary",
   externalId: "500585",

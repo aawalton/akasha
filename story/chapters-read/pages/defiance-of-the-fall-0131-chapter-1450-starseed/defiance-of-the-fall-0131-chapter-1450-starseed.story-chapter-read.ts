@@ -8,7 +8,7 @@ export const defianceOfTheFall0131Chapter1450Starseed = {
   story: "story-read/defiance-of-the-fall",
   position: 131,
   ownLength: 2899,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3854854/chapter-1450-starseed",

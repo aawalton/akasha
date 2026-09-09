@@ -8,7 +8,7 @@ export const defianceOfTheFall0105Chapter1425EmperorOfMan = {
   story: "story-read/defiance-of-the-fall",
   position: 105,
   ownLength: 2711,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-23",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3310107/chapter-1425-emperor-of-man",

@@ -8,7 +8,7 @@ export const delve0262262Fundamentals = {
   story: "delve",
   position: 262,
   ownLength: 2816,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-03",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1539772/262-fundamentals",
   externalId: "1539772",

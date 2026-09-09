@@ -8,7 +8,7 @@ export const delve0229229Breakaway = {
   story: "delve",
   position: 229,
   ownLength: 3775,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-30",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1197396/229-breakaway",
   externalId: "1197396",

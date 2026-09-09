@@ -8,7 +8,7 @@ export const defianceOfTheFall0113Chapter1433EarthlyDome = {
   story: "story-read/defiance-of-the-fall",
   position: 113,
   ownLength: 2887,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3387310/chapter-1433-earthly-dome",

@@ -8,7 +8,7 @@ export const delve0273273Backup = {
   story: "delve",
   position: 273,
   ownLength: 4074,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-14",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/2847324/273-backup",
   externalId: "2847324",

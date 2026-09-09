@@ -8,7 +8,7 @@ export const delve0254254Observation = {
   story: "delve",
   position: 254,
   ownLength: 3087,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-17",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1445687/254-observation",
   externalId: "1445687",

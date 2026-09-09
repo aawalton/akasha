@@ -8,7 +8,7 @@ export const delve0244244Sightseeing = {
   story: "delve",
   position: 244,
   ownLength: 3880,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-17",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1345405/244-sightseeing",
   externalId: "1345405",

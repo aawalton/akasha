@@ -8,7 +8,7 @@ export const delve0072072Preemption = {
   story: "delve",
   position: 72,
   ownLength: 9827,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-01-12",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/444748/072-preemption",
   externalId: "444748",

@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0021Chapter21ThroughTheDark = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 21,
   ownLength: 2255,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-08",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3510961/chapter-21-through-the-dark",

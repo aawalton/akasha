@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0015Chapter15Corrupted = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 15,
   ownLength: 2710,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-02",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3484332/chapter-15-corrupted",

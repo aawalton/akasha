@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0014Chapter14TheBeautyOfAlchemy = 
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 14,
   ownLength: 1926,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-01",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3479839/chapter-14-the-beauty-of-alchemy",

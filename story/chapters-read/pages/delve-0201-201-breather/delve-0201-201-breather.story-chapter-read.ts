@@ -8,7 +8,7 @@ export const delve0201201Breather = {
   story: "delve",
   position: 201,
   ownLength: 5121,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-07",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/965421/201-breather",
   externalId: "965421",

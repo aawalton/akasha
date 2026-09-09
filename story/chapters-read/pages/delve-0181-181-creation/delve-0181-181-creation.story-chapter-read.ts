@@ -8,7 +8,7 @@ export const delve0181181Creation = {
   story: "delve",
   position: 181,
   ownLength: 4244,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-06",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/839677/181-creation",
   externalId: "839677",

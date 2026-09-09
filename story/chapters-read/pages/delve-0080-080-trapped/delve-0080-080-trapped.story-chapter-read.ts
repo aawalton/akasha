@@ -8,7 +8,7 @@ export const delve0080080Trapped = {
   story: "delve",
   position: 80,
   ownLength: 5558,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-02-16",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/457799/080-trapped",
   externalId: "457799",

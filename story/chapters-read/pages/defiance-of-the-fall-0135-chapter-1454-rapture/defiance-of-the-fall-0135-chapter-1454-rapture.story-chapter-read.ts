@@ -8,7 +8,7 @@ export const defianceOfTheFall0135Chapter1454Rapture = {
   story: "story-read/defiance-of-the-fall",
   position: 135,
   ownLength: 2905,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-09-01",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3896812/chapter-1454-rapture",

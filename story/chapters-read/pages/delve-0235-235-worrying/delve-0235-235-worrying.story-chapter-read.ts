@@ -8,7 +8,7 @@ export const delve0235235Worrying = {
   story: "delve",
   position: 235,
   ownLength: 3324,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-06-25",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1257097/235-worrying",
   externalId: "1257097",

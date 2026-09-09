@@ -8,7 +8,7 @@ export const delve0042042Guesswork = {
   story: "delve",
   position: 42,
   ownLength: 4514,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-09-10",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/401266/042-guesswork",
   externalId: "401266",

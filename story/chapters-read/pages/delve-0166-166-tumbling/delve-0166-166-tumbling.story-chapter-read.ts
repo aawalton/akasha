@@ -8,7 +8,7 @@ export const delve0166166Tumbling = {
   story: "delve",
   position: 166,
   ownLength: 4618,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-10",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/764413/166-tumbling",
   externalId: "764413",

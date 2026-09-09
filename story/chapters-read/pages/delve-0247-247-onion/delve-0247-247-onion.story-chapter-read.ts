@@ -8,7 +8,7 @@ export const delve0247247Onion = {
   story: "delve",
   position: 247,
   ownLength: 3741,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-15",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1374604/247-onion",
   externalId: "1374604",

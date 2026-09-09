@@ -8,7 +8,7 @@ export const delve0067067Footrace = {
   story: "delve",
   position: 67,
   ownLength: 5347,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-12-15",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/434964/067-footrace",
   externalId: "434964",

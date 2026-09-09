@@ -8,7 +8,7 @@ export const delve0134134Unbreakable = {
   story: "delve",
   position: 134,
   ownLength: 4022,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-14",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/631237/134-unbreakable",
   externalId: "631237",

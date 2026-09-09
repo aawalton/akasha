@@ -8,7 +8,7 @@ export const delve0197197Desperation = {
   story: "delve",
   position: 197,
   ownLength: 3789,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-03",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/940558/197-desperation",
   externalId: "940558",

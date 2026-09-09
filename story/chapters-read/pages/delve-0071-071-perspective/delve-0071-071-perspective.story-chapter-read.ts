@@ -8,7 +8,7 @@ export const delve0071071Perspective = {
   story: "delve",
   position: 71,
   ownLength: 4906,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-01-08",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/443407/071-perspective",
   externalId: "443407",

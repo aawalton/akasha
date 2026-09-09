@@ -8,7 +8,7 @@ export const delve0128128Finally = {
   story: "delve",
   position: 128,
   ownLength: 3777,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-03",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/608931/128-finally",
   externalId: "608931",

@@ -8,7 +8,7 @@ export const delve0169169Holdout = {
   story: "delve",
   position: 169,
   ownLength: 4838,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-31",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/775829/169-holdout",
   externalId: "775829",

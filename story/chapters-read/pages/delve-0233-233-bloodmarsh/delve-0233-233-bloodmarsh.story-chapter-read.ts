@@ -8,7 +8,7 @@ export const delve0233233Bloodmarsh = {
   story: "delve",
   position: 233,
   ownLength: 2507,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-06-04",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1234581/233-bloodmarsh",
   externalId: "1234581",

@@ -8,7 +8,7 @@ export const delve0121121Restraint = {
   story: "delve",
   position: 121,
   ownLength: 6581,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-15",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/585212/121-restraint",
   externalId: "585212",

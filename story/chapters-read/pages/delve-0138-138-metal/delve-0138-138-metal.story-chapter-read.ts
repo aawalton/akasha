@@ -8,7 +8,7 @@ export const delve0138138Metal = {
   story: "delve",
   position: 138,
   ownLength: 5388,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-14",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/646571/138-metal",
   externalId: "646571",

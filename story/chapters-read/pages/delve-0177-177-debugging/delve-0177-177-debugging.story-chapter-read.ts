@@ -8,7 +8,7 @@ export const delve0177177Debugging = {
   story: "delve",
   position: 177,
   ownLength: 5953,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-09",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/821063/177-debugging",
   externalId: "821063",

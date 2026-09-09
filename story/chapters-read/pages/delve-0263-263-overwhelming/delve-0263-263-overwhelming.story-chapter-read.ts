@@ -8,7 +8,7 @@ export const delve0263263Overwhelming = {
   story: "delve",
   position: 263,
   ownLength: 3621,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-05",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1624064/263-overwhelming",
   externalId: "1624064",

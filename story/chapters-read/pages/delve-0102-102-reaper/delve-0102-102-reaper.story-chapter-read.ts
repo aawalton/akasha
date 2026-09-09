@@ -8,7 +8,7 @@ export const delve0102102Reaper = {
   story: "delve",
   position: 102,
   ownLength: 5389,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-05",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/519908/102-reaper",
   externalId: "519908",

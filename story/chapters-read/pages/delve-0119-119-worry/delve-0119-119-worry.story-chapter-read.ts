@@ -8,7 +8,7 @@ export const delve0119119Worry = {
   story: "delve",
   position: 119,
   ownLength: 4581,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-01",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/577539/119-worry",
   externalId: "577539",

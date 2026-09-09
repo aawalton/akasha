@@ -8,7 +8,7 @@ export const delve0214214Unity = {
   story: "delve",
   position: 214,
   ownLength: 3112,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-11",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1060694/214-unity",
   externalId: "1060694",

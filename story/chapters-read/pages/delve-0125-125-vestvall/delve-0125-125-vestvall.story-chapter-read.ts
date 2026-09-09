@@ -8,7 +8,7 @@ export const delve0125125Vestvall = {
   story: "delve",
   position: 125,
   ownLength: 5147,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-13",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/599264/125-vestvall",
   externalId: "599264",

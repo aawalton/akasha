@@ -8,7 +8,7 @@ export const defianceOfTheFall0119Chapter1439DimensionalWar = {
   story: "story-read/defiance-of-the-fall",
   position: 119,
   ownLength: 3092,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-26",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3449785/chapter-1439-dimensional-war",

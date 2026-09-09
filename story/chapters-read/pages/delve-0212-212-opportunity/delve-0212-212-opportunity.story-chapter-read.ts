@@ -8,7 +8,7 @@ export const delve0212212Opportunity = {
   story: "delve",
   position: 212,
   ownLength: 3392,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-20",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1044832/212-opportunity",
   externalId: "1044832",

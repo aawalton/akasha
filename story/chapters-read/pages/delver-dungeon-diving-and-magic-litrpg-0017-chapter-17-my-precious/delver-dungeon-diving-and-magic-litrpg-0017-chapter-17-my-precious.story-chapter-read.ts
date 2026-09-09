@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0017Chapter17MyPrecious = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 17,
   ownLength: 2556,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3493373/chapter-17-my-precious",

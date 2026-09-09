@@ -8,7 +8,7 @@ export const delve0014014Math = {
   story: "delve",
   position: 14,
   ownLength: 3183,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-08",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/369965/014-math",
   externalId: "369965",

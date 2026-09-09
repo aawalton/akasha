@@ -8,7 +8,7 @@ export const delve0052052Specialization = {
   story: "delve",
   position: 52,
   ownLength: 2622,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-10-13",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/412697/052-specialization",
   externalId: "412697",

@@ -8,7 +8,7 @@ export const delve0059059King = {
   story: "delve",
   position: 59,
   ownLength: 5313,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-11-07",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/420911/059-king",
   externalId: "420911",

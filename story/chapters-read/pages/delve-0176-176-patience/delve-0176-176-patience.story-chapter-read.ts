@@ -8,7 +8,7 @@ export const delve0176176Patience = {
   story: "delve",
   position: 176,
   ownLength: 5561,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-26",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/813296/176-patience",
   externalId: "813296",

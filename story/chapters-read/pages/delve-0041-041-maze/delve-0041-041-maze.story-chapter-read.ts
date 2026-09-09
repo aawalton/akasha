@@ -8,7 +8,7 @@ export const delve0041041Maze = {
   story: "delve",
   position: 41,
   ownLength: 2719,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-09-08",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/400309/041-maze",
   externalId: "400309",

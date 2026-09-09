@@ -8,7 +8,7 @@ export const delve0157157Speculation = {
   story: "delve",
   position: 157,
   ownLength: 6180,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-08",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/730133/157-speculation",
   externalId: "730133",

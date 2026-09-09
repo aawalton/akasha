@@ -8,7 +8,7 @@ export const defianceOfTheFall0122DefianceOfTheFallSoonInABookstoreNearYou = {
   story: "story-read/defiance-of-the-fall",
   position: 122,
   ownLength: 515,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3547108/defiance-of-the-fall-soon-in-a-bookstore-near",

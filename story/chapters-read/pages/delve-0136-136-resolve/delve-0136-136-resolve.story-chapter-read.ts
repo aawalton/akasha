@@ -8,7 +8,7 @@ export const delve0136136Resolve = {
   story: "delve",
   position: 136,
   ownLength: 9121,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-02-28",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/638918/136-resolve",
   externalId: "638918",

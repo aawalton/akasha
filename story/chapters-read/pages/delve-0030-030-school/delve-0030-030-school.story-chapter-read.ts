@@ -8,7 +8,7 @@ export const delve0030030School = {
   story: "delve",
   position: 30,
   ownLength: 3502,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-08-04",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/388527/030-school",
   externalId: "388527",

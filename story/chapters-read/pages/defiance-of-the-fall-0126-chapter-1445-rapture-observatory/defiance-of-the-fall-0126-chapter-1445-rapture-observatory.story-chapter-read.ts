@@ -8,7 +8,7 @@ export const defianceOfTheFall0126Chapter1445RaptureObservatory = {
   story: "story-read/defiance-of-the-fall",
   position: 126,
   ownLength: 2943,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3800965/chapter-1445-rapture-observatory",

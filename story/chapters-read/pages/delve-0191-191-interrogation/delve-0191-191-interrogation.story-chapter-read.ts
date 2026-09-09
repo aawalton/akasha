@@ -8,7 +8,7 @@ export const delve0191191Interrogation = {
   story: "delve",
   position: 191,
   ownLength: 4770,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-05-08",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/902880/191-interrogation",
   externalId: "902880",

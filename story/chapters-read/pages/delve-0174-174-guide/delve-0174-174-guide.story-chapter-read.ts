@@ -8,7 +8,7 @@ export const delve0174174Guide = {
   story: "delve",
   position: 174,
   ownLength: 5751,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-12",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/804800/174-guide",
   externalId: "804800",

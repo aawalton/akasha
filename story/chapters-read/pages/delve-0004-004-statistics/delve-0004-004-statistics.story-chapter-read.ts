@@ -8,7 +8,7 @@ export const delve0004004Statistics = {
   story: "delve",
   position: 4,
   ownLength: 5605,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-02",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368068/004-statistics",
   externalId: "368068",

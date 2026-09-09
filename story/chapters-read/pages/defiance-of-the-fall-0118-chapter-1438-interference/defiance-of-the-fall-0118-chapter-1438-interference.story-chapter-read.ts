@@ -8,7 +8,7 @@ export const defianceOfTheFall0118Chapter1438Interference = {
   story: "story-read/defiance-of-the-fall",
   position: 118,
   ownLength: 3156,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-24",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3440541/chapter-1438-interference",

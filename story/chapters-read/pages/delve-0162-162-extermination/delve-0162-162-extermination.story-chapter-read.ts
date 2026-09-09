@@ -8,7 +8,7 @@ export const delve0162162Extermination = {
   story: "delve",
   position: 162,
   ownLength: 3755,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-12",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/749194/162-extermination",
   externalId: "749194",

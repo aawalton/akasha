@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0036Chapter36ManaAlignment = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 36,
   ownLength: 1980,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3585959/chapter-36-mana-alignment",

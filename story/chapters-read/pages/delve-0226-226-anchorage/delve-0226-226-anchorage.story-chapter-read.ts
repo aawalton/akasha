@@ -8,7 +8,7 @@ export const delve0226226Anchorage = {
   story: "delve",
   position: 226,
   ownLength: 4132,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-02",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1155401/226-anchorage",
   externalId: "1155401",

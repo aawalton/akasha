@@ -8,7 +8,7 @@ export const delve0008008Clarity = {
   story: "delve",
   position: 8,
   ownLength: 3175,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-02",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368189/008-clarity",
   externalId: "368189",

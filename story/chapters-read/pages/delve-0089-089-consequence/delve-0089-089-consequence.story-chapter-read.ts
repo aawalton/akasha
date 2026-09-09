@@ -8,7 +8,7 @@ export const delve0089089Consequence = {
   story: "delve",
   position: 89,
   ownLength: 4502,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-05",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/477660/089-consequence",
   externalId: "477660",

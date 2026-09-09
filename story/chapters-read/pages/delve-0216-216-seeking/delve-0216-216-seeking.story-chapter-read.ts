@@ -8,7 +8,7 @@ export const delve0216216Seeking = {
   story: "delve",
   position: 216,
   ownLength: 4468,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-25",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1070979/216-seeking",
   externalId: "1070979",

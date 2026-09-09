@@ -8,7 +8,7 @@ export const delve0088088Casualties = {
   story: "delve",
   position: 88,
   ownLength: 7667,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-29",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/474340/088-casualties",
   externalId: "474340",

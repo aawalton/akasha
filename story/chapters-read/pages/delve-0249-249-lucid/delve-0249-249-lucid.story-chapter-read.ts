@@ -8,7 +8,7 @@ export const delve0249249Lucid = {
   story: "delve",
   position: 249,
   ownLength: 3728,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-29",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1389020/249-lucid",
   externalId: "1389020",

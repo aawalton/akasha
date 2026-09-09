@@ -8,7 +8,7 @@ export const defianceOfTheFall0102Chapter1422AshesFertilizingSoil = {
   story: "story-read/defiance-of-the-fall",
   position: 102,
   ownLength: 2858,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-14",
   externalLink:
     "https://www.royalroad.com/fiction/24709/defiance-of-the-fall/chapter/3273641/chapter-1422-ashes-fertilizing-soil",

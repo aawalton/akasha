@@ -8,7 +8,7 @@ export const delve0159159Upgraded = {
   story: "delve",
   position: 159,
   ownLength: 8218,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-22",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/737842/159-upgraded",
   externalId: "737842",

@@ -8,7 +8,7 @@ export const delve0028028Plan = {
   story: "delve",
   position: 28,
   ownLength: 2518,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-07-21",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/384144/028-plan",
   externalId: "384144",

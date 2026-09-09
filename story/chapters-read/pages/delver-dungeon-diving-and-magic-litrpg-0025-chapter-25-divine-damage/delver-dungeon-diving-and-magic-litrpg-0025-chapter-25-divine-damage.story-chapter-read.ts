@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0025Chapter25DivineDamage = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 25,
   ownLength: 1862,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3530833/chapter-25-divine-damage",

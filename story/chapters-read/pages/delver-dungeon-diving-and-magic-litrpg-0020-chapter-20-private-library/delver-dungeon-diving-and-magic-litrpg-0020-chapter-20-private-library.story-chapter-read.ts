@@ -8,7 +8,7 @@ export const delverDungeonDivingAndMagicLitrpg0020Chapter20PrivateLibrary = {
   story: "delver-dungeon-diving-and-magic-litrpg",
   position: 20,
   ownLength: 1905,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-07",
   externalLink:
     "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg/chapter/3506574/chapter-20-private-library",

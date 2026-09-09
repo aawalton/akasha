@@ -8,7 +8,7 @@ export const delve0232232Indigestion = {
   story: "delve",
   position: 232,
   ownLength: 4713,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-28",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1227483/232-indigestion",
   externalId: "1227483",

@@ -8,7 +8,7 @@ export const delve0079079Slumber = {
   story: "delve",
   position: 79,
   ownLength: 4450,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-02-09",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/455148/079-slumber",
   externalId: "455148",

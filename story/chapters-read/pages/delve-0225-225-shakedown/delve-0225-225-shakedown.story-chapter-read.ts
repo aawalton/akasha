@@ -8,7 +8,7 @@ export const delve0225225Shakedown = {
   story: "delve",
   position: 225,
   ownLength: 3750,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-19",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1142275/225-shakedown",
   externalId: "1142275",

@@ -8,7 +8,7 @@ export const delve0152152Compression = {
   story: "delve",
   position: 152,
   ownLength: 6475,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-27",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/706444/152-compression",
   externalId: "706444",

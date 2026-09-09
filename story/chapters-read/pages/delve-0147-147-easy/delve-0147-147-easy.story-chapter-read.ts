@@ -8,7 +8,7 @@ export const delve0147147Easy = {
   story: "delve",
   position: 147,
   ownLength: 5302,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-23",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/686981/147-easy",
   externalId: "686981",

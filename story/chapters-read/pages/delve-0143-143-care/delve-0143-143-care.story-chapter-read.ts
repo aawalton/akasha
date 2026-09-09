@@ -8,7 +8,7 @@ export const delve0143143Care = {
   story: "delve",
   position: 143,
   ownLength: 7073,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-18",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/666660/143-care",
   externalId: "666660",

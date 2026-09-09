@@ -8,7 +8,7 @@ export const delve0139139Agile = {
   story: "delve",
   position: 139,
   ownLength: 6602,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-21",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/650193/139-agile",
   externalId: "650193",

@@ -8,7 +8,7 @@ export const delve0006006Skill = {
   story: "delve",
   position: 6,
   ownLength: 2953,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-06-02",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/368135/006-skill",
   externalId: "368135",

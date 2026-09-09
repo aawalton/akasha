@@ -8,7 +8,7 @@ export const delve0033033Reunion = {
   story: "delve",
   position: 33,
   ownLength: 3371,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-08-17",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/393326/033-reunion",
   externalId: "393326",

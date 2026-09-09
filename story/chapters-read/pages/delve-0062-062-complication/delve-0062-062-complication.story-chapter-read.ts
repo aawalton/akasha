@@ -8,7 +8,7 @@ export const delve0062062Complication = {
   story: "delve",
   position: 62,
   ownLength: 5129,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-11-17",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/424497/062-complication",
   externalId: "424497",

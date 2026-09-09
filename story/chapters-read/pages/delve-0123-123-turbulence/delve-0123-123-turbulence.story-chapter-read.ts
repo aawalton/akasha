@@ -8,7 +8,7 @@ export const delve0123123Turbulence = {
   story: "delve",
   position: 123,
   ownLength: 6116,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-29",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/592297/123-turbulence",
   externalId: "592297",

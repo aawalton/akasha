@@ -8,7 +8,7 @@ export const delve0236236Highway = {
   story: "delve",
   position: 236,
   ownLength: 3642,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-07-02",
   externalLink: "https://www.royalroad.com/fiction/25225/delve/chapter/1264386/236-highway",
   externalId: "1264386",
