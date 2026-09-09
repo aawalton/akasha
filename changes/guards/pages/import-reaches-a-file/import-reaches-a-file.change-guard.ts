@@ -64,6 +64,23 @@ export const importReachesAFile = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A specifier a root resolves carries no extension, and the file it names carries one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Re-rooting a landing and probing its extension are one reach rather than two.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`require-import-extension` judges a landing under the importing file's own root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The probing here carries a landing under one of the other roots.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A `tsconfig.json` that will not parse names no root.",
     },
     {
