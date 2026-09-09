@@ -1,7 +1,6 @@
 import { computeFingerprint } from "@akasha/errors-core/error-fingerprint"
 import { ErrorReportSchema } from "@akasha/errors-core/error-report"
 import { captureError, type ErrorCapturePayload } from "@akasha/pages-access/capture-error"
-import type { Route } from "./+types/api.errors"
 
 const CAPACITOR_ORIGIN = "capacitor://localhost"
 
@@ -17,7 +16,7 @@ function corsHeaders(request: Request): Record<string, string> {
     : {}
 }
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: corsHeaders(request) })
   }
@@ -27,7 +26,7 @@ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   )
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = corsHeaders(request)
   if (request.method !== "POST") {
     return Response.json({ error: "method-not-allowed" }, { status: 405, headers: cors })

@@ -11,5 +11,5 @@ export default [
   route("api/safety-level", "routes/jenny-safety-level/jenny-safety-level.route.code.ts"),
   route("api/surplus", "routes/jenny-surplus/jenny-surplus.route.code.ts"),
   route("api/push/register", "routes/api.push.register.ts"),
-  route("api/errors", "routes/api.errors.ts"),
+  route("api/errors", "routes/jenny-api-errors/jenny-api-errors.route.code.ts"),
 ] satisfies RouteConfig
