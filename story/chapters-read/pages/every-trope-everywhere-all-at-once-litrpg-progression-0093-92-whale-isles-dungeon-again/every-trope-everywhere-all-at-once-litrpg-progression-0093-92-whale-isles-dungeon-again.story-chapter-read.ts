@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression009392WhaleIslesDunge
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0093-92-whale-isles-dungeon-again",
   title: "92 - Whale Isle's Dungeon... Again",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 93,
   ownLength: 2041,
   unitSlug: "words",

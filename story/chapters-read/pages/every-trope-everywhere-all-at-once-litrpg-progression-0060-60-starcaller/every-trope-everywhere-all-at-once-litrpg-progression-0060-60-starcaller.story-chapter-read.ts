@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006060Starcaller = {
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0060-60-starcaller",
   title: "60 - Starcaller",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 60,
   ownLength: 1713,
   unitSlug: "words",

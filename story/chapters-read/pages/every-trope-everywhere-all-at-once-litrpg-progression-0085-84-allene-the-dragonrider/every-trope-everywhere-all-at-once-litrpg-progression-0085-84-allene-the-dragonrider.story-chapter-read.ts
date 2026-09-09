@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008584AlleneTheDragon
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0085-84-allene-the-dragonrider",
   title: "84 - Allene, the Dragonrider",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 85,
   ownLength: 1844,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0089InterludeTheEmperor = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0089-interlude-the-emperor",
   title: "Interlude: The Emperor",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 89,
   ownLength: 2090,
   unitSlug: "words",

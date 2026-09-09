@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0039ChapterThirtyEightPlanningAndPrep
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0039-chapter-thirty-eight-planning-and-preparations",
   title: "Chapter Thirty-Eight: Planning and Preparations",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 39,
   ownLength: 2984,
   unitSlug: "words",

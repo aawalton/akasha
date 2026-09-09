@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008079CantSleepEither
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0080-79-cant-sleep-either",
   title: "79 - Can't Sleep Either?",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 80,
   ownLength: 2032,
   unitSlug: "words",

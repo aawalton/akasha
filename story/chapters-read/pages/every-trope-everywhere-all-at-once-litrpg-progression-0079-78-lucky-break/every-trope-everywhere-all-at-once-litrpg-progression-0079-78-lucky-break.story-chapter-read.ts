@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007978LuckyBreak = {
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0079-78-lucky-break",
   title: "78 - Lucky Break",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 79,
   ownLength: 1897,
   unitSlug: "words",

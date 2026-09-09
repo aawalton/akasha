@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0027ChapterTwentySixTrailingThreads =
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0027-chapter-twenty-six-trailing-threads",
   title: "Chapter Twenty-Six: Trailing Threads",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 27,
   ownLength: 2722,
   unitSlug: "words",

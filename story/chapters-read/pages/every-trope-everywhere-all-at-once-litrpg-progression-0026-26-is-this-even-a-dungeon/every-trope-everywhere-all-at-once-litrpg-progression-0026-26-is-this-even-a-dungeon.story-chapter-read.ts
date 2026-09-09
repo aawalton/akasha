@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002626IsThisEvenADung
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0026-26-is-this-even-a-dungeon",
   title: "26 - Is this even a Dungeon?",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 26,
   ownLength: 1631,
   unitSlug: "words",

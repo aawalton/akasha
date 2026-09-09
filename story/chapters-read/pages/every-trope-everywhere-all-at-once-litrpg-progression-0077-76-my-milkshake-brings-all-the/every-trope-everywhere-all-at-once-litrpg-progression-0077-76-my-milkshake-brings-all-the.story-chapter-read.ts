@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007776MyMilkshakeBrin
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0077-76-my-milkshake-brings-all-the",
   title: "76 - My Milkshake Brings All The...",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 77,
   ownLength: 2239,
   unitSlug: "words",

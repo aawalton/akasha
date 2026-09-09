@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0115Ch115SecondEnlightenmen
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0115-ch115-second-enlightenment",
   title: "Ch115 Second Enlightenment",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 115,
   ownLength: 2071,
   unitSlug: "words",

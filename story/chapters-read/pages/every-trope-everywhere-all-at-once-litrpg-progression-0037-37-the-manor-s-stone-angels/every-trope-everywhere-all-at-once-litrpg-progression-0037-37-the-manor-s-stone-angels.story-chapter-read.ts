@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003737TheManorSStoneA
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0037-37-the-manor-s-stone-angels",
   title: "37 - The Manor's Stone Angels",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 37,
   ownLength: 1789,
   unitSlug: "words",

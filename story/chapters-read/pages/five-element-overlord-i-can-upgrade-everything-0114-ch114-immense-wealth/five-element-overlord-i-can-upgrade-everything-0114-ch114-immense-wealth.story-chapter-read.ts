@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0114Ch114ImmenseWealth = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0114-ch114-immense-wealth",
   title: "Ch114 Immense Wealth",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 114,
   ownLength: 2017,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0132Ch132IllusorySoulFox = 
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0132-ch132-illusory-soul-fox",
   title: "Ch132 Illusory Soul Fox",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 132,
   ownLength: 1312,
   unitSlug: "words",

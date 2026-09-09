@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0010Ch10MinorLottery = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0010-ch10-minor-lottery",
   title: "Ch10 Minor Lottery",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 10,
   ownLength: 1360,
   unitSlug: "words",

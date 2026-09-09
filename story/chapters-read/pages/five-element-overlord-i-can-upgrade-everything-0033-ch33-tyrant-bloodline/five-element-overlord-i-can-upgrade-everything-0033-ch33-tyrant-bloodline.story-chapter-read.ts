@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0033Ch33TyrantBloodline = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0033-ch33-tyrant-bloodline",
   title: "Ch33 Tyrant Bloodline",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 33,
   ownLength: 1610,
   unitSlug: "words",

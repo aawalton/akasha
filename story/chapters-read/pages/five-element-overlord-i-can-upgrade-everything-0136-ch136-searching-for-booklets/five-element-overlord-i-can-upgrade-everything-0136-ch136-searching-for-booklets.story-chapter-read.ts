@@ -4,7 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0136Ch136SearchingForBookle
   id: "01a07e1f-3ba5-76bd-8250-71a6daab388b",
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0136-ch136-searching-for-booklets",
-  storySlug: "story-read/five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 136,
   publishedAt: "2026-09-07",
   unitSlug: "words",

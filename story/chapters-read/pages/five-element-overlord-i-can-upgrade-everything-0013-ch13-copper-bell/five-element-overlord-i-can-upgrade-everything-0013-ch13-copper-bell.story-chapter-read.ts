@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0013Ch13CopperBell = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0013-ch13-copper-bell",
   title: "Ch13 Copper Bell",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 13,
   ownLength: 2045,
   unitSlug: "words",

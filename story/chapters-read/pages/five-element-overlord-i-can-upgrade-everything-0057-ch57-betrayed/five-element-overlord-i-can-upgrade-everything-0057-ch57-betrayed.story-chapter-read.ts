@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0057Ch57Betrayed = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0057-ch57-betrayed",
   title: "Ch57 Betrayed",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 57,
   ownLength: 1572,
   unitSlug: "words",

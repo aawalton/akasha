@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0090Ch90TheMortalSShop = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0090-ch90-the-mortal-s-shop",
   title: "Ch90 The Mortal’s Shop",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 90,
   ownLength: 1632,
   unitSlug: "words",

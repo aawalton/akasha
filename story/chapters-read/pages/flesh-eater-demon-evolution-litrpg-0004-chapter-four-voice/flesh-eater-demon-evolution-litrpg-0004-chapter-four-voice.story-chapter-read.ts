@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0004ChapterFourVoice = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0004-chapter-four-voice",
   title: "Chapter Four: Voice",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 4,
   ownLength: 3664,
   unitSlug: "words",

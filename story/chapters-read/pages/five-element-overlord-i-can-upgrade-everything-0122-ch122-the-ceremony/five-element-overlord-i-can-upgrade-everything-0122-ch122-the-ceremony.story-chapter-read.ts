@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0122Ch122TheCeremony = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0122-ch122-the-ceremony",
   title: "Ch122 The Ceremony",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 122,
   ownLength: 2072,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0014Ch14TroubleStirring = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0014-ch14-trouble-stirring",
   title: "Ch14 Trouble Stirring",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 14,
   ownLength: 801,
   unitSlug: "words",

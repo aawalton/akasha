@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0069Ch69LanXin = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0069-ch69-lan-xin",
   title: "Ch69 Lan Xin",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 69,
   ownLength: 1546,
   unitSlug: "words",

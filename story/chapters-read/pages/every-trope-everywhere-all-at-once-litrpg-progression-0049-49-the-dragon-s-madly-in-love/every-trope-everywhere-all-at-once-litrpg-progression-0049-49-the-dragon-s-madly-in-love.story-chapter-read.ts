@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004949TheDragonSMadly
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0049-49-the-dragon-s-madly-in-love",
   title: "49 - The Dragon's Madly in Love",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 49,
   ownLength: 2028,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const fiveElementOverlordICanUpgradeEverything0135Ch135ReturnToTheCity = 
   id: "01a07252-32ed-79a1-9e1f-38be9ee120d1",
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0135-ch135-return-to-the-city",
-  storySlug: "story-read/five-element-overlord-i-can-upgrade-everything",
+  story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 135,
   publishedAt: "2026-09-04",
   unitSlug: "words",

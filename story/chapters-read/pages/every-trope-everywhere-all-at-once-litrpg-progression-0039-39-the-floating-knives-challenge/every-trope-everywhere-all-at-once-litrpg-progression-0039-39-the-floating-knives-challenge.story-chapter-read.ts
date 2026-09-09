@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003939TheFloatingKniv
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0039-39-the-floating-knives-challenge",
   title: "39 - The Floating Knives' Challenge",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 39,
   ownLength: 1627,
   unitSlug: "words",

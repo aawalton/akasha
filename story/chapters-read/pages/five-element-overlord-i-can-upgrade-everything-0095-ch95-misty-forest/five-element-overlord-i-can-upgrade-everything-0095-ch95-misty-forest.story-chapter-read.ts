@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0095Ch95MistyForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0095-ch95-misty-forest",
   title: "Ch95 Misty Forest",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 95,
   ownLength: 1680,
   unitSlug: "words",

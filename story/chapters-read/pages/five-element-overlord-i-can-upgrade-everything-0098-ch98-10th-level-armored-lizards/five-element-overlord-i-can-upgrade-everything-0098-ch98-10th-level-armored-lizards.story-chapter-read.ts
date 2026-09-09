@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0098Ch9810thLevelArmoredLiz
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0098-ch98-10th-level-armored-lizards",
   title: "Ch98 10th Level Armored Lizards",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 98,
   ownLength: 1379,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0129Ch129MassDestruction = 
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0129-ch129-mass-destruction",
   title: "Ch129 Mass Destruction",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 129,
   ownLength: 2631,
   unitSlug: "words",

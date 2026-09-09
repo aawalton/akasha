@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0077ChapterSeventySixBlackLight = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0077-chapter-seventy-six-black-light",
   title: "Chapter Seventy-Six: Black Light",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 77,
   ownLength: 2437,
   unitSlug: "words",

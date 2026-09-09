@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0035Ch35BeingWatched = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0035-ch35-being-watched",
   title: "Ch35 Being Watched",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 35,
   ownLength: 1768,
   unitSlug: "words",

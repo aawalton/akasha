@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0105Ch105SoulEpiphany = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0105-ch105-soul-epiphany",
   title: "Ch105 Soul Epiphany",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 105,
   ownLength: 2234,
   unitSlug: "words",

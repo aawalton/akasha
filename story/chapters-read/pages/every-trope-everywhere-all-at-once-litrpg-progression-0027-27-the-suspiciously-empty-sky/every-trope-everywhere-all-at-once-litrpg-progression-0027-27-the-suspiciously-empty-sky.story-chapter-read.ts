@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002727TheSuspiciously
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0027-27-the-suspiciously-empty-sky",
   title: "27 - The Suspiciously Empty Sky",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 27,
   ownLength: 1995,
   unitSlug: "words",

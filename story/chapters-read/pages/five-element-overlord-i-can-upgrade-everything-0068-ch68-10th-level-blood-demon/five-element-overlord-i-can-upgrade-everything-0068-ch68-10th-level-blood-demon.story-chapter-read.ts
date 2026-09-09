@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0068Ch6810thLevelBloodDemon
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0068-ch68-10th-level-blood-demon",
   title: "Ch68 10th Level Blood Demon",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 68,
   ownLength: 1868,
   unitSlug: "words",

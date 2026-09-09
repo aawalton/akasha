@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0118Ch11812thLevelQiRefiner
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0118-ch118-12th-level-qi-refiner",
   title: "Ch118 12th Level Qi Refiner",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 118,
   ownLength: 1569,
   unitSlug: "words",

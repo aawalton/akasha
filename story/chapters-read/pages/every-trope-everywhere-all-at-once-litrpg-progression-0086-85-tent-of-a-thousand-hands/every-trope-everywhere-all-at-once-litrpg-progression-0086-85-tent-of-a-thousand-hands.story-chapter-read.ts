@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008685TentOfAThousand
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0086-85-tent-of-a-thousand-hands",
   title: "85 - Tent of a Thousand Hands",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 86,
   ownLength: 1642,
   unitSlug: "words",

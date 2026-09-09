@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0127Ch127KillingFoundationa
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0127-ch127-killing-foundational-demons",
   title: "Ch127 Killing Foundational Demons",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 127,
   ownLength: 1750,
   unitSlug: "words",

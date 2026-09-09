@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0120Ch120CultivationFamilie
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0120-ch120-cultivation-families",
   title: "Ch120 Cultivation Families",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 120,
   ownLength: 1879,
   unitSlug: "words",

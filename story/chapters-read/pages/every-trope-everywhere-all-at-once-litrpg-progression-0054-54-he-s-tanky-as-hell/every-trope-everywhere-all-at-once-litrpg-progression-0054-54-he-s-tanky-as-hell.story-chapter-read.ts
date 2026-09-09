@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005454HeSTankyAsHell 
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0054-54-he-s-tanky-as-hell",
   title: "54 - He's Tanky as Hell!",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 54,
   ownLength: 1723,
   unitSlug: "words",

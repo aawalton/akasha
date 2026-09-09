@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0006Ch6ServantLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0006-ch6-servant-life",
   title: "Ch6 Servant Life",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 6,
   ownLength: 1395,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006868AureliusTheBorr
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0068-68-aurelius-the-borrowed-one",
   title: "68 - Aurelius, the Borrowed One",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 68,
   ownLength: 1800,
   unitSlug: "words",

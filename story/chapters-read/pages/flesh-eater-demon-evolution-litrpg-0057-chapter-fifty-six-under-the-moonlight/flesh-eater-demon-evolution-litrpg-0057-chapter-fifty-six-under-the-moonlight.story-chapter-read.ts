@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0057ChapterFiftySixUnderTheMoonlight 
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0057-chapter-fifty-six-under-the-moonlight",
   title: "Chapter Fifty-Six: Under the Moonlight",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 57,
   ownLength: 2685,
   unitSlug: "words",

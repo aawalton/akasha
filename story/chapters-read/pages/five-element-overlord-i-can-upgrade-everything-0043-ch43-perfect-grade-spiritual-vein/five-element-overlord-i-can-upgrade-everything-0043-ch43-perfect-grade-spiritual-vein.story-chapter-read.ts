@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0043Ch43PerfectGradeSpiritu
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0043-ch43-perfect-grade-spiritual-vein",
   title: "Ch43 Perfect Grade Spiritual Vein",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 43,
   ownLength: 1628,
   unitSlug: "words",

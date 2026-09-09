@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0046Ch46MysteriousEgg = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0046-ch46-mysterious-egg",
   title: "Ch46 Mysterious Egg",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 46,
   ownLength: 2236,
   unitSlug: "words",

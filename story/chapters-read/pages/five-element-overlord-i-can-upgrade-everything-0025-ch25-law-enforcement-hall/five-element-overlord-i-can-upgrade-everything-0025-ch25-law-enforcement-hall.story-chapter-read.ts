@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0025Ch25LawEnforcementHall 
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0025-ch25-law-enforcement-hall",
   title: "Ch25 Law Enforcement Hall",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 25,
   ownLength: 1174,
   unitSlug: "words",

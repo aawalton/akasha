@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0020ChapterTwentyFollowTheStream = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0020-chapter-twenty-follow-the-stream",
   title: "Chapter Twenty: Follow the Stream",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 20,
   ownLength: 2661,
   unitSlug: "words",

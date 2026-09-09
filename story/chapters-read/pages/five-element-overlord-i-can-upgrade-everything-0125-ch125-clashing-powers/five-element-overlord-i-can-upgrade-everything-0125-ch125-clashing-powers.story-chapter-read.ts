@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0125Ch125ClashingPowers = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0125-ch125-clashing-powers",
   title: "Ch125 Clashing Powers",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 125,
   ownLength: 2107,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0003Ch3SpiritRoots = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0003-ch3-spirit-roots",
   title: "Ch3 Spirit Roots",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 3,
   ownLength: 1291,
   unitSlug: "words",

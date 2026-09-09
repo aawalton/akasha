@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0012Ch12TheSerpentSPlum = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0012-ch12-the-serpent-s-plum",
   title: "Ch12 The Serpent’s Plum",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 12,
   ownLength: 1160,
   unitSlug: "words",

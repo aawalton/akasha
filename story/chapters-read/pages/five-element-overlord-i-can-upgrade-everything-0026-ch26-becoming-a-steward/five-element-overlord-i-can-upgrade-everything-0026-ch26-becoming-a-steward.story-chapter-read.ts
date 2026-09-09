@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0026Ch26BecomingASteward = 
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0026-ch26-becoming-a-steward",
   title: "Ch26 Becoming a Steward",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 26,
   ownLength: 1056,
   unitSlug: "words",

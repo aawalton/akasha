@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0108Ch108PlayingWithFire = 
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0108-ch108-playing-with-fire",
   title: "Ch108 Playing With Fire",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 108,
   ownLength: 2107,
   unitSlug: "words",

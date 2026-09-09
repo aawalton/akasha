@@ -10,7 +10,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression0103102SoulsIntent = 
   externalId: "3932668",
   source: "royal-road",
   title: "102 - Soul's Intent",
-  storySlug: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   ownLength: 1662,
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3932668/102-souls-intent",

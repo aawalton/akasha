@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0044Ch449thGradeTrash = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0044-ch44-9th-grade-trash",
   title: "Ch44 9th Grade Trash",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 44,
   ownLength: 1646,
   unitSlug: "words",

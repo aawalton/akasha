@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0060Ch60LateStageDemons = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0060-ch60-late-stage-demons",
   title: "Ch60 Late Stage Demons",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 60,
   ownLength: 1780,
   unitSlug: "words",

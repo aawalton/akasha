@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003333DuelOfTheAspiri
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0033-33-duel-of-the-aspiring-magic-knights",
   title: "33 - Duel of the Aspiring Magic Knights",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 33,
   ownLength: 1840,
   unitSlug: "words",

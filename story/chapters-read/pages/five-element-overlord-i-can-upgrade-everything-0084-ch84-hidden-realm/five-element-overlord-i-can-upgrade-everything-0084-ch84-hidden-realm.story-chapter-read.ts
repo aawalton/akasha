@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0084Ch84HiddenRealm = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0084-ch84-hidden-realm",
   title: "Ch84 Hidden Realm",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 84,
   ownLength: 1984,
   unitSlug: "words",

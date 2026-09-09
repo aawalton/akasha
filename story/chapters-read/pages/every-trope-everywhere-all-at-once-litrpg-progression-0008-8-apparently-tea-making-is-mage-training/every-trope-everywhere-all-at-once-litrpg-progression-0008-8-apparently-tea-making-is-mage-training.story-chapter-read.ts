@@ -6,7 +6,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00088ApparentlyTeaMak
     pageTypeSlug: "story-chapter-read",
     slug: "every-trope-everywhere-all-at-once-litrpg-progression-0008-8-apparently-tea-making-is-mage-training",
     title: "8 - Apparently, Tea-Making Is Mage Training",
-    storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+    story: "every-trope-everywhere-all-at-once-litrpg-progression",
     position: 8,
     ownLength: 1971,
     unitSlug: "words",

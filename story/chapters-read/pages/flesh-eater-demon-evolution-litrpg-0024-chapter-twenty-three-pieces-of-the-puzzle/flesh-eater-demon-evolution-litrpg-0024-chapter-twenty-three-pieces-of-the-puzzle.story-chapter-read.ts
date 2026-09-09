@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0024ChapterTwentyThreePiecesOfThePuzz
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0024-chapter-twenty-three-pieces-of-the-puzzle",
   title: "Chapter Twenty-Three: Pieces of the Puzzle",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 24,
   ownLength: 2849,
   unitSlug: "words",

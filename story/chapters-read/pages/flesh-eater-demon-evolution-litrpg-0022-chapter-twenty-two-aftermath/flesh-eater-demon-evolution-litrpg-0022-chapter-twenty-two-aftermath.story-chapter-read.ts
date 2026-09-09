@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0022ChapterTwentyTwoAftermath = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0022-chapter-twenty-two-aftermath",
   title: "Chapter Twenty-Two: Aftermath",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 22,
   ownLength: 4010,
   unitSlug: "words",

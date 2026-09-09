@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001212TheOrdinaryWasn
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0012-12-the-ordinary-wasn-t-ordinary",
   title: "12 -  The Ordinary Wasn't Ordinary",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 12,
   ownLength: 1813,
   unitSlug: "words",

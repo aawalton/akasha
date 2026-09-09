@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00022TheBossThatShoul
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0002-2-the-boss-that-should-ve-killed-me",
   title: "2 - The Boss That Should’ve Killed Me",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 2,
   ownLength: 2609,
   unitSlug: "words",

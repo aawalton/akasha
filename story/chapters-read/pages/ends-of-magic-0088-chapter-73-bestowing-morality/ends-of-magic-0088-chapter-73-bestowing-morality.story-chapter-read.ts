@@ -5,7 +5,7 @@ export const endsOfMagic0088Chapter73BestowingMorality = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0088-chapter-73-bestowing-morality",
   title: "Chapter 73: Bestowing Morality",
-  storySlug: "story-read/ends-of-magic",
+  story: "story-read/ends-of-magic",
   position: 88,
   ownLength: 2646,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression010099ARealmOfSouls =
   id: "01a07252-32ec-7047-add3-853e744feccf",
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0100-99-a-realm-of-souls",
-  storySlug: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "story-read/every-trope-everywhere-all-at-once-litrpg-progression",
   position: 100,
   publishedAt: "2026-09-04",
   unitSlug: "words",

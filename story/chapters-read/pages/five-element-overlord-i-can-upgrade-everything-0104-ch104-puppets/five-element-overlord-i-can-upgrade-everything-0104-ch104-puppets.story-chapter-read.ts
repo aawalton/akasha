@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0104Ch104Puppets = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0104-ch104-puppets",
   title: "Ch104 Puppets",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 104,
   ownLength: 2415,
   unitSlug: "words",

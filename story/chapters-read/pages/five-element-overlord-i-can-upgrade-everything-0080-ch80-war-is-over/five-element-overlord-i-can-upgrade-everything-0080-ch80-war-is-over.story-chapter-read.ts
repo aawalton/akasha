@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0080Ch80WarIsOver = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0080-ch80-war-is-over",
   title: "Ch80 War is Over",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 80,
   ownLength: 2524,
   unitSlug: "words",

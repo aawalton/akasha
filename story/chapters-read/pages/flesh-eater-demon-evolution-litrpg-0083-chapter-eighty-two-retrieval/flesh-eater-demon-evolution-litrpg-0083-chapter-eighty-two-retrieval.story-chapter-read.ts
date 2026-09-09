@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0083ChapterEightyTwoRetrieval = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0083-chapter-eighty-two-retrieval",
   title: "Chapter Eighty-Two: Retrieval",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 83,
   ownLength: 2083,
   unitSlug: "words",

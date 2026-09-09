@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0018Ch18QiGatheringPills = 
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0018-ch18-qi-gathering-pills",
   title: "Ch18 Qi Gathering Pills",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 18,
   ownLength: 1405,
   unitSlug: "words",

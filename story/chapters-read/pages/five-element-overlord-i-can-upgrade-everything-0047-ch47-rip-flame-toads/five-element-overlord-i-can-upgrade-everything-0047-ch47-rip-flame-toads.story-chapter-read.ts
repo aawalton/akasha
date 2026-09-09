@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0047Ch47RipFlameToads = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0047-ch47-rip-flame-toads",
   title: "Ch47 RIP Flame Toads",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 47,
   ownLength: 1851,
   unitSlug: "words",

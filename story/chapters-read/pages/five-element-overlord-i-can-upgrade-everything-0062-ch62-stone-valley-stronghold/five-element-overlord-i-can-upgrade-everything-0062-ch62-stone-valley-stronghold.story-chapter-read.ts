@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0062Ch62StoneValleyStrongho
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0062-ch62-stone-valley-stronghold",
   title: "Ch62 Stone Valley Stronghold",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 62,
   ownLength: 2253,
   unitSlug: "words",

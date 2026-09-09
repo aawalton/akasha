@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0092Ch92MartialMaster = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0092-ch92-martial-master",
   title: "Ch92 Martial Master",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 92,
   ownLength: 1702,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0065Ch65BlackIronMountain =
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0065-ch65-black-iron-mountain",
   title: "Ch65 Black Iron Mountain",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 65,
   ownLength: 1757,
   unitSlug: "words",

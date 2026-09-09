@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0070Ch70PhantomLord = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0070-ch70-phantom-lord",
   title: "Ch70 Phantom Lord",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 70,
   ownLength: 1832,
   unitSlug: "words",

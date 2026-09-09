@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0071Ch71Backlash = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0071-ch71-backlash",
   title: "Ch71 Backlash",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 71,
   ownLength: 1758,
   unitSlug: "words",

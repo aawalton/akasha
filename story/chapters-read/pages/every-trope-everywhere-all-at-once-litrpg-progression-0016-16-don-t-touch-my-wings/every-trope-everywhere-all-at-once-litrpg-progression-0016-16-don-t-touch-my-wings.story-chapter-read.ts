@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001616DonTTouchMyWing
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0016-16-don-t-touch-my-wings",
   title: "16 - Don't Touch My Wings!",
-  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
+  story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 16,
   ownLength: 2432,
   unitSlug: "words",

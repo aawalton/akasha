@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg0005ChapterFiveBeyondThePit = {
   pageTypeSlug: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0005-chapter-five-beyond-the-pit",
   title: "Chapter Five: Beyond the Pit",
-  storySlug: "flesh-eater-demon-evolution-litrpg",
+  story: "flesh-eater-demon-evolution-litrpg",
   position: 5,
   ownLength: 2830,
   unitSlug: "words",

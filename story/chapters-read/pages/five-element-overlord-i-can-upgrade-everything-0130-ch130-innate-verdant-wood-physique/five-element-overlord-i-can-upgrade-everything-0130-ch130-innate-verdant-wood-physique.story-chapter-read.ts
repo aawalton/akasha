@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0130Ch130InnateVerdantWoodP
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0130-ch130-innate-verdant-wood-physique",
   title: "Ch130 Innate Verdant Wood Physique",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 130,
   ownLength: 2045,
   unitSlug: "words",

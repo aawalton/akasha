@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0077Ch77MainQuestReward = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0077-ch77-main-quest-reward",
   title: "Ch77 Main Quest Reward",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 77,
   ownLength: 1513,
   unitSlug: "words",

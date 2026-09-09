@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0074Ch74YinMoonRises = {
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0074-ch74-yin-moon-rises",
   title: "Ch74 Yin Moon Rises",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 74,
   ownLength: 2321,
   unitSlug: "words",

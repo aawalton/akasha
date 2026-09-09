@@ -5,7 +5,7 @@ export const fiveElementOverlordICanUpgradeEverything0034Ch343rdLevelQiRefiner =
   pageTypeSlug: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0034-ch34-3rd-level-qi-refiner",
   title: "Ch34 3rd Level Qi Refiner",
-  storySlug: "five-element-overlord-i-can-upgrade-everything",
+  story: "five-element-overlord-i-can-upgrade-everything",
   position: 34,
   ownLength: 1710,
   unitSlug: "words",
