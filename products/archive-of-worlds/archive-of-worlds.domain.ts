@@ -5,6 +5,5 @@ export const archiveOfWorlds = {
   pageTypeSlug: "domain",
   slug: "archive-of-worlds",
   definition: "the original fiction Alan publishes for readers to find",
-  pluralSlug: "archives-of-worlds",
   parts: ["router-app/archive-of-worlds-web"],
 } as const satisfies Domain
