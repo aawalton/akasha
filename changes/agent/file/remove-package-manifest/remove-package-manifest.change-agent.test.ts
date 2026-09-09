@@ -273,6 +273,12 @@ const LONE_MANIFEST = "akasha/lone/package.json"
 
 const NEAR_MANIFEST = "akasha/near/package.json"
 
+const NEAR_CODE = "akasha/near/near.module.code.ts"
+
+const FAR_MANIFEST = "akasha/far/package.json"
+
+const FAR_CODE = "akasha/far/far.module.code.ts"
+
 const USER_CODE = "akasha/user/user.module.code.ts"
 
 const idTo = (one: string): string => `01a0830a-0005-7000-8000-00000000000${one}`
@@ -324,9 +330,47 @@ const NEAR_BODY = `{
 const NEAR_WANTED = `{
   "name": "@probe/near",
   "dependencies": {
-    "zod": "^4.3.6"
+    "zod": "^4.3.6",
+    "probe": "workspace:*"
   }
 }
+`
+
+const NEAR_CODE_BODY = `import { two } from "${LONE}/two"
+
+export const near = two
+`
+
+const NEAR_CODE_WANTED = `import { two } from "probe/akasha/lone/two/two.ts"
+
+export const near = two
+`
+
+const FAR_BODY = `{
+  "name": "@probe/far",
+  "dependencies": {
+    "probe": "workspace:*",
+    "${LONE}": "workspace:*"
+  }
+}
+`
+
+const FAR_WANTED = `{
+  "name": "@probe/far",
+  "dependencies": {
+    "probe": "workspace:*"
+  }
+}
+`
+
+const FAR_CODE_BODY = `import { lone } from "${LONE}"
+
+export const far = lone
+`
+
+const FAR_CODE_WANTED = `import { lone } from "probe/akasha/lone/lone.ts"
+
+export const far = lone
 `
 
 const USER_BODY = `import { lone } from "${LONE}"
@@ -359,6 +403,27 @@ const ROOTED: Readonly<Record<string, string>> = {
     manifest: "json",
   }),
   [NEAR_MANIFEST]: NEAR_BODY,
+  "akasha/near/near.module.ts": pageOf({
+    id: idTo("3"),
+    pageTypeSlug: "module",
+    slug: "near",
+    code: "ts",
+  }),
+  [NEAR_CODE]: NEAR_CODE_BODY,
+  "akasha/far/far.workspace-package.ts": pageOf({
+    id: idTo("4"),
+    pageTypeSlug: "workspace-package",
+    slug: "far",
+    manifest: "json",
+  }),
+  [FAR_MANIFEST]: FAR_BODY,
+  "akasha/far/far.module.ts": pageOf({
+    id: idTo("5"),
+    pageTypeSlug: "module",
+    slug: "far",
+    code: "ts",
+  }),
+  [FAR_CODE]: FAR_CODE_BODY,
   "akasha/user/user.module.ts": pageOf({
     id: idTo("2"),
     pageTypeSlug: "module",
@@ -393,7 +458,20 @@ test("a specifier folded into the root names the file that specifier reached", (
 })
 
 test("a manifest naming a package folded into the root drops that entry", () => {
+  expect(rootFolded().get(FAR_MANIFEST)).toBe(FAR_WANTED)
+})
+
+test("a manifest holding a body this fold respells names the root instead", () => {
   expect(rootFolded().get(NEAR_MANIFEST)).toBe(NEAR_WANTED)
+})
+
+test("a manifest naming the root already is left as that manifest states it", () => {
+  expect(rootFolded().get(FAR_MANIFEST)).toBe(FAR_WANTED)
+})
+
+test("a body under another package is respelled as a body under the root is", () => {
+  expect(rootFolded().get(NEAR_CODE)).toBe(NEAR_CODE_WANTED)
+  expect(rootFolded().get(FAR_CODE)).toBe(FAR_CODE_WANTED)
 })
 
 test("the root's own manifest is refused", () => {

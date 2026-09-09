@@ -43,6 +43,8 @@ const UNFOLDED = "so no package is folded"
 
 const INDENT = "  "
 
+const WORKSPACE = "workspace:*"
+
 export type RemovePackageManifestAsked = {
   readonly at: string
 }
@@ -206,7 +208,7 @@ function aliasEdits(
   at: string,
   over: string,
   was: string,
-  to: string | null
+  to: string
 ): readonly FileChange[] {
   const found: FileChange[] = []
   for (const path of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
@@ -215,8 +217,7 @@ function aliasEdits(
     if (body === null) continue
     const named = namesIn(body)
     if (!named.has(was)) continue
-    const spots =
-      to === null || named.has(to) ? keysDropped(path, body, was) : keysRenamed(path, body, was, to)
+    const spots = named.has(to) ? keysDropped(path, body, was) : keysRenamed(path, body, was, to)
     found.push(...splicing(path, body, spots))
   }
   return found
@@ -256,6 +257,60 @@ function rootEdits(
   return splicing(over, overText, [at])
 }
 
+export function holdingIn(world: World, at: string, path: string): string | null {
+  let folder = dirname(path)
+  while (folder !== ITSELF && folder !== "" && folder !== PARTED_BY) {
+    const one = `${folder}${PARTED_BY}${MANIFEST}`
+    if (one !== at && world.textOf(one) !== null) return one
+    folder = dirname(folder)
+  }
+  return world.textOf(MANIFEST) === null ? null : MANIFEST
+}
+
+function holdersOf(world: World, at: string, was: string): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const path of world.index.everyPath()) {
+    if (!typed(path)) continue
+    const body = world.textOf(path)
+    if (body === null || !body.includes(was)) continue
+    const held = holdingIn(world, at, path)
+    if (held !== null) found.add(held)
+  }
+  return found
+}
+
+function rootManifestEdits(
+  world: World,
+  at: string,
+  over: string,
+  was: string,
+  to: string,
+  holders: ReadonlySet<string>
+): readonly FileChange[] | string {
+  const found: FileChange[] = []
+  for (const path of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
+    if (path === at || path === over) continue
+    const body = world.textOf(path)
+    if (body === null) continue
+    const named = namesIn(body)
+    const holds = holders.has(path)
+    if (!named.has(was) && !holds) continue
+    const held = objectIn(body)
+    if (held === null || Array.isArray(held)) {
+      return `\`${path}\` reads as no JSON object, ${UNFOLDED}`
+    }
+    const had = pairsIn(held, DEPENDENCIES)
+    const kept = had.filter(([one]) => one !== was)
+    const adding: Pair[] = holds && !named.has(to) ? [[to, WORKSPACE]] : []
+    if (kept.length === had.length && adding.length === 0) continue
+    const source = ts.parseJsonText(path, body)
+    const spot = objectSplice(source, DEPENDENCIES, objectPut([...kept, ...adding]))
+    if (spot === null) return `\`${path}\` states no \`${DEPENDENCIES}\` of its own, ${UNFOLDED}`
+    found.push(...splicing(path, body, [spot]))
+  }
+  return found
+}
+
 function rootedFold(world: World, at: string, given: Rooted): Said {
   const naming = namingFor(given.held, given.was, given.under, given.to)
   if (naming === null) {
@@ -264,7 +319,10 @@ function rootedFold(world: World, at: string, given: Rooted): Said {
   const first = rootEdits(given.over, given.overText, given.asked, given.was)
   if (typeof first === "string") return refusing(first)
   const edits: FileChange[] = [...first, { kind: "remove", path: at }]
-  edits.push(...aliasEdits(world, at, given.over, given.was, null))
+  const holders = holdersOf(world, at, given.was)
+  const named = rootManifestEdits(world, at, given.over, given.was, given.to, holders)
+  if (typeof named === "string") return refusing(named)
+  edits.push(...named)
   edits.push(...reachEdits(world, given.was, (p, b) => spelledByNaming(p, b, naming)))
   return stating(edits)
 }
