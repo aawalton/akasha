@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0151Chapter151SafetySharksAn
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0151-chapter-151-safety-sharks-and-shinies",
   title: "Chapter 151 – Safety, Sharks, and Shinies",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 151,
   ownLength: 2433,
   unitSlug: "words",

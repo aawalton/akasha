@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0113Chapter113TheManWithTheM
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0113-chapter-113-the-man-with-the-manic-glint",
   title: "Chapter 113 – The Man with the Manic Glint",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 113,
   ownLength: 1958,
   unitSlug: "words",

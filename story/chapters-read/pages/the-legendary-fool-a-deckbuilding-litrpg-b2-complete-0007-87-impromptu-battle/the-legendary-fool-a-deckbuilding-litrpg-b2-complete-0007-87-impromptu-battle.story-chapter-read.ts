@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000787ImpromptuBattle 
   pageTypeSlug: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0007-87-impromptu-battle",
   title: "87: Impromptu Battle",
-  storySlug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 7,
   ownLength: 1277,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0097138ProdigyOfWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0097-138-prodigy-of-war",
   title: "138 Prodigy of War",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 97,
   ownLength: 2748,
   unitSlug: "words",

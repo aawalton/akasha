@@ -5,7 +5,7 @@ export const theNewWorld0119160TheMightOfAGialgathen = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0119-160-the-might-of-a-gialgathen",
   title: "160 The Might of a Gialgathen",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 119,
   ownLength: 1430,
   unitSlug: "words",

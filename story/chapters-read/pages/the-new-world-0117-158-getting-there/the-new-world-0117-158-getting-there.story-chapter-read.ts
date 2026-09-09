@@ -5,7 +5,7 @@ export const theNewWorld0117158GettingThere = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0117-158-getting-there",
   title: "158 Getting There",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 117,
   ownLength: 3178,
   unitSlug: "words",

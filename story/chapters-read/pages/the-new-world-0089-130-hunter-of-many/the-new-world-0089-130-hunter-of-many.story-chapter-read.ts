@@ -5,7 +5,7 @@ export const theNewWorld0089130HunterOfMany = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0089-130-hunter-of-many",
   title: "130 Hunter of Many",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 89,
   ownLength: 2913,
   unitSlug: "words",

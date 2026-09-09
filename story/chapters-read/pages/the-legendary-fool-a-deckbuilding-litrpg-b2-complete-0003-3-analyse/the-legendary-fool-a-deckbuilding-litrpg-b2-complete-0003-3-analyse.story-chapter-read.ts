@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00033Analyse = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0003-3-analyse",
   title: "3: Analyse",
-  storySlug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 3,
   ownLength: 1051,
   unitSlug: "words",

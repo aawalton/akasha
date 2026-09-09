@@ -5,7 +5,7 @@ export const theNewWorld0091132Expedition = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0091-132-expedition",
   title: "132 Expedition",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 91,
   ownLength: 2919,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0120Chapter120HolyVsHorrible
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0120-chapter-120-holy-vs-horrible",
   title: "Chapter 120 – Holy vs Horrible",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 120,
   ownLength: 2195,
   unitSlug: "words",

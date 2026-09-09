@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0089Chapter89SelfSustainingD
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0089-chapter-89-self-sustaining-disaster",
   title: "Chapter 89 – Self-Sustaining Disaster",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 89,
   ownLength: 2019,
   unitSlug: "words",

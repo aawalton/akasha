@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0116Chapter116BeneathTheWave
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0116-chapter-116-beneath-the-waves",
   title: "Chapter 116 – Beneath the Waves",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 116,
   ownLength: 2042,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete000888Unravelling = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0008-88-unravelling",
   title: "88: Unravelling",
-  storySlug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 8,
   ownLength: 1528,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0103144Fortress = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0103-144-fortress",
   title: "144 Fortress",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 103,
   ownLength: 4790,
   unitSlug: "words",

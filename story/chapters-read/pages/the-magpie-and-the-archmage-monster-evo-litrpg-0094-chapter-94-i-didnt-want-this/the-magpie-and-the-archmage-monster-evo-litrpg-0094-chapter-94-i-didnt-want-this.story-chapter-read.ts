@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0094Chapter94IDidntWantThis 
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0094-chapter-94-i-didnt-want-this",
   title: "Chapter 94 – I Didn't Want This",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 94,
   ownLength: 1809,
   unitSlug: "words",

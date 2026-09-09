@@ -5,7 +5,7 @@ export const theNewWorld000447GainingTools = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0004-47-gaining-tools",
   title: "47 Gaining Tools",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 4,
   ownLength: 3837,
   unitSlug: "words",

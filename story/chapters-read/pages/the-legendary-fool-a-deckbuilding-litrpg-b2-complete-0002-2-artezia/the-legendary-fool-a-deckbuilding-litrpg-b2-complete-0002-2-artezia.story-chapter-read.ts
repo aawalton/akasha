@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00022Artezia = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0002-2-artezia",
   title: "2: Artezia",
-  storySlug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 2,
   ownLength: 1176,
   unitSlug: "words",

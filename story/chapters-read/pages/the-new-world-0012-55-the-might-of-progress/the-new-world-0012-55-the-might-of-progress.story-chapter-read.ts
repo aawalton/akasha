@@ -5,7 +5,7 @@ export const theNewWorld001255TheMightOfProgress = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0012-55-the-might-of-progress",
   title: "55 The Might of Progress",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 12,
   ownLength: 2391,
   unitSlug: "words",

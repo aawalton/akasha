@@ -5,7 +5,7 @@ export const theNewWorld003376ToMakeClean = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0033-76-to-make-clean",
   title: "76 To Make Clean",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 33,
   ownLength: 3604,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0138Chapter138PlayingWithFir
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0138-chapter-138-playing-with-fire",
   title: "Chapter 138 – Playing with Fire",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 138,
   ownLength: 2009,
   unitSlug: "words",

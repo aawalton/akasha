@@ -5,7 +5,7 @@ export const theNewWorld0143184TheHybrid = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0143-184-the-hybrid",
   title: "184 The Hybrid",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 143,
   ownLength: 3410,
   unitSlug: "words",

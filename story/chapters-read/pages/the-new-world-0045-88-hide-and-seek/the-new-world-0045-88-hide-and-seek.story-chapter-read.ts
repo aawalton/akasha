@@ -5,7 +5,7 @@ export const theNewWorld004588HideAndSeek = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0045-88-hide-and-seek",
   title: "88 Hide and Seek",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 45,
   ownLength: 2810,
   unitSlug: "words",

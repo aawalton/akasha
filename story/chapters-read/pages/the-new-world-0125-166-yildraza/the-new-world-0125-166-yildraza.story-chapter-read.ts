@@ -5,7 +5,7 @@ export const theNewWorld0125166Yildraza = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0125-166-yildraza",
   title: "166 Yildraza",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 125,
   ownLength: 2961,
   unitSlug: "words",

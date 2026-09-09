@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete00044Gambit1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0004-4-gambit-1",
   title: "4: Gambit (1)",
-  storySlug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 4,
   ownLength: 1035,
   unitSlug: "words",

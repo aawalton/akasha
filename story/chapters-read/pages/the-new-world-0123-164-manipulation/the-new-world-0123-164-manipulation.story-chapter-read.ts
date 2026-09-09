@@ -5,7 +5,7 @@ export const theNewWorld0123164Manipulation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0123-164-manipulation",
   title: "164 Manipulation",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 123,
   ownLength: 2201,
   unitSlug: "words",

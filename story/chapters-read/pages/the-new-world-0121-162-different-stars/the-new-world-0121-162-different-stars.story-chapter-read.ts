@@ -5,7 +5,7 @@ export const theNewWorld0121162DifferentStars = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0121-162-different-stars",
   title: "162 Different Stars",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 121,
   ownLength: 4064,
   unitSlug: "words",

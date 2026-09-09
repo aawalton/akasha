@@ -5,7 +5,7 @@ export const theNewWorld0093134Anticipation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0093-134-anticipation",
   title: "134 Anticipation",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 93,
   ownLength: 2258,
   unitSlug: "words",

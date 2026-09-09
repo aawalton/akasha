@@ -5,7 +5,7 @@ export const theNewWorld0141182AMaskedHistory = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0141-182-a-masked-history",
   title: "182 A Masked History",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 141,
   ownLength: 4290,
   unitSlug: "words",

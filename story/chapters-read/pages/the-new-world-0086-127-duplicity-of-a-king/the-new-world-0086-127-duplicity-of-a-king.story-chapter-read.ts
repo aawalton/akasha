@@ -5,7 +5,7 @@ export const theNewWorld0086127DuplicityOfAKing = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0086-127-duplicity-of-a-king",
   title: "127 Duplicity of a King",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 86,
   ownLength: 3661,
   unitSlug: "words",

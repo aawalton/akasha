@@ -5,7 +5,7 @@ export const theNewWorld0079121WhatLiesAroundUs = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0079-121-what-lies-around-us",
   title: "121 What Lies Around Us",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 79,
   ownLength: 3867,
   unitSlug: "words",

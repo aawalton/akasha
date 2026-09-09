@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0083Chapter83AMonsterWithMan
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0083-chapter-83-a-monster-with-many-faces",
   title: "Chapter 83 – A Monster With Many Faces",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 83,
   ownLength: 1909,
   unitSlug: "words",

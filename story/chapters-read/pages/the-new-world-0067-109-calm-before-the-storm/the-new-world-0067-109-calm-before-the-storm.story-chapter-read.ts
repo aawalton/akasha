@@ -5,7 +5,7 @@ export const theNewWorld0067109CalmBeforeTheStorm = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0067-109-calm-before-the-storm",
   title: "109 Calm Before the Storm",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 67,
   ownLength: 3410,
   unitSlug: "words",

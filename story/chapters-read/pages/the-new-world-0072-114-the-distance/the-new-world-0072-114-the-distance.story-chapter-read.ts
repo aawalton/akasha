@@ -5,7 +5,7 @@ export const theNewWorld0072114TheDistance = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0072-114-the-distance",
   title: "114 The Distance",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 72,
   ownLength: 5364,
   unitSlug: "words",

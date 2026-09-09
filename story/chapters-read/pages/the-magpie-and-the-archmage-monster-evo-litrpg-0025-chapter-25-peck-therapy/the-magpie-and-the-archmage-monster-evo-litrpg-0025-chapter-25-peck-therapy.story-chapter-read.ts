@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0025Chapter25PeckTherapy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0025-chapter-25-peck-therapy",
   title: "Chapter 25 – Peck Therapy",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 25,
   ownLength: 2088,
   unitSlug: "words",

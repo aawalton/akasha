@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0087Chapter87IslandOfCorrupt
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0087-chapter-87-island-of-corruption",
   title: "Chapter 87 – Island of Corruption",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 87,
   ownLength: 1985,
   unitSlug: "words",

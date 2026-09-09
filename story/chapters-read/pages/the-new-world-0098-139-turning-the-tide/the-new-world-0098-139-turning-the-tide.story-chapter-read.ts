@@ -5,7 +5,7 @@ export const theNewWorld0098139TurningTheTide = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0098-139-turning-the-tide",
   title: "139 Turning the Tide",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 98,
   ownLength: 3544,
   unitSlug: "words",

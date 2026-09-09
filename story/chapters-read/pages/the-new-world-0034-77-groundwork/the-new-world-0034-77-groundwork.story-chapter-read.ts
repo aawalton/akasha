@@ -5,7 +5,7 @@ export const theNewWorld003477Groundwork = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0034-77-groundwork",
   title: "77 Groundwork",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 34,
   ownLength: 5371,
   unitSlug: "words",

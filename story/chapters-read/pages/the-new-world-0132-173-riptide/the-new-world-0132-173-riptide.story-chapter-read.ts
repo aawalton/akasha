@@ -5,7 +5,7 @@ export const theNewWorld0132173Riptide = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0132-173-riptide",
   title: "173 Riptide",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 132,
   ownLength: 4560,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0051Chapter51MissingMagpie =
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0051-chapter-51-missing-magpie",
   title: "Chapter 51 – Missing Magpie",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 51,
   ownLength: 2041,
   unitSlug: "words",

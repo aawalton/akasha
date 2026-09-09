@@ -5,7 +5,7 @@ export const theNewWorld0078120EyesOfOld = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0078-120-eyes-of-old",
   title: "120 Eyes of Old",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 78,
   ownLength: 3900,
   unitSlug: "words",

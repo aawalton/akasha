@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0007Chapter7MoreThanAMagpie 
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0007-chapter-7-more-than-a-magpie",
   title: "Chapter 7 – More than a Magpie",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 7,
   ownLength: 2137,
   unitSlug: "words",

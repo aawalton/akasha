@@ -5,7 +5,7 @@ export const theNewWorld0073115Levelers = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0073-115-levelers",
   title: "115 Levelers",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 73,
   ownLength: 4549,
   unitSlug: "words",

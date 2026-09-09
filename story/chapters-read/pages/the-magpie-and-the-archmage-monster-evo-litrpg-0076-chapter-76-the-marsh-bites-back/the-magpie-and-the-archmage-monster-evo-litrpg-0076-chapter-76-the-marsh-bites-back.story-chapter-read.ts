@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0076Chapter76TheMarshBitesBa
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0076-chapter-76-the-marsh-bites-back",
   title: "Chapter 76 – The Marsh Bites Back",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 76,
   ownLength: 2056,
   unitSlug: "words",

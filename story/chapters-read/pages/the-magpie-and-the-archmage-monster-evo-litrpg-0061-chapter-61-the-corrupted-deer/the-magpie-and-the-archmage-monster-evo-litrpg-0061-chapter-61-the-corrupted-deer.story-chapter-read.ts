@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0061Chapter61TheCorruptedDee
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0061-chapter-61-the-corrupted-deer",
   title: "Chapter 61 – The Corrupted Deer",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 61,
   ownLength: 2096,
   unitSlug: "words",

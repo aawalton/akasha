@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0129Chapter129PreciousGlimme
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0129-chapter-129-precious-glimmerstones",
   title: "Chapter 129 – Precious Glimmerstones",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 129,
   ownLength: 2081,
   unitSlug: "words",

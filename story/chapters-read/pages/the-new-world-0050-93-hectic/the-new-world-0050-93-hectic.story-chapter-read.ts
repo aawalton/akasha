@@ -5,7 +5,7 @@ export const theNewWorld005093Hectic = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0050-93-hectic",
   title: "93 Hectic",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 50,
   ownLength: 2965,
   unitSlug: "words",

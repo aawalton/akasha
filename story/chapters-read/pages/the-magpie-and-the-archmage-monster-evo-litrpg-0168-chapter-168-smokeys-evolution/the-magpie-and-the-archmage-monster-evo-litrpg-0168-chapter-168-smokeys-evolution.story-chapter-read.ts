@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0168Chapter168SmokeysEvoluti
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0168-chapter-168-smokeys-evolution",
   title: "Chapter 168 – Smokey's Evolution",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 168,
   ownLength: 2291,
   unitSlug: "words",

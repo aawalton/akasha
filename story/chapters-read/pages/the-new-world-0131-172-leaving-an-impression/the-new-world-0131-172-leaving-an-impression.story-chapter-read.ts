@@ -5,7 +5,7 @@ export const theNewWorld0131172LeavingAnImpression = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0131-172-leaving-an-impression",
   title: "172 Leaving an Impression",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 131,
   ownLength: 3053,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0136Chapter136ASpidersDuty =
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0136-chapter-136-a-spiders-duty",
   title: "Chapter 136 – A Spider's Duty",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 136,
   ownLength: 2141,
   unitSlug: "words",

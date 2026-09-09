@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0126Chapter126ThePerfectDist
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0126-chapter-126-the-perfect-distraction",
   title: "Chapter 126 – The Perfect Distraction",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 126,
   ownLength: 2127,
   unitSlug: "words",

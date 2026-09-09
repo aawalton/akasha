@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0132Chapter132HisWorstMistak
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0132-chapter-132-his-worst-mistake",
   title: "Chapter 132 – His Worst Mistake",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 132,
   ownLength: 1746,
   unitSlug: "words",

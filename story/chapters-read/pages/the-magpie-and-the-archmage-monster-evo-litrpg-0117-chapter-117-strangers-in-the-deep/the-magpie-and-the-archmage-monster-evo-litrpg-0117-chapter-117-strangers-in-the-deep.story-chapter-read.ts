@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0117Chapter117StrangersInThe
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0117-chapter-117-strangers-in-the-deep",
   title: "Chapter 117 – Strangers in the Deep",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 117,
   ownLength: 1973,
   unitSlug: "words",

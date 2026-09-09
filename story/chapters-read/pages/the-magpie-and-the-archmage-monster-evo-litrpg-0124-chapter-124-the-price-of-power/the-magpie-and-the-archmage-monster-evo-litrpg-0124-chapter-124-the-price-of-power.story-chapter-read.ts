@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0124Chapter124ThePriceOfPowe
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0124-chapter-124-the-price-of-power",
   title: "Chapter 124 – The Price of Power",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 124,
   ownLength: 2103,
   unitSlug: "words",

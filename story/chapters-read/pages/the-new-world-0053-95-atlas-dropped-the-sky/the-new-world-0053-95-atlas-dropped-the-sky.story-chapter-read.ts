@@ -5,7 +5,7 @@ export const theNewWorld005395AtlasDroppedTheSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0053-95-atlas-dropped-the-sky",
   title: "95 Atlas Dropped the Sky",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 53,
   ownLength: 3800,
   unitSlug: "words",

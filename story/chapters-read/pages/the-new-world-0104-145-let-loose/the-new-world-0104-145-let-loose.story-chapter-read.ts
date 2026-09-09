@@ -5,7 +5,7 @@ export const theNewWorld0104145LetLoose = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0104-145-let-loose",
   title: "145 Let Loose",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 104,
   ownLength: 3858,
   unitSlug: "words",

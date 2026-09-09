@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0074Chapter74TheReturnOfTheS
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0074-chapter-74-the-return-of-the-spider",
   title: "Chapter 74 – The Return of The Spider",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 74,
   ownLength: 2113,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld003881RiftKeeper = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0038-81-rift-keeper",
   title: "81 Rift Keeper",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 38,
   ownLength: 5143,
   unitSlug: "words",

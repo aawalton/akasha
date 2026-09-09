@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0171Chapter171GateclawOasis 
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0171-chapter-171-gateclaw-oasis",
   title: "Chapter 171 – Gateclaw Oasis",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 171,
   ownLength: 1952,
   unitSlug: "words",

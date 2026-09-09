@@ -5,7 +5,7 @@ export const theNewWorld002568TastingDeception = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0025-68-tasting-deception",
   title: "68 Tasting Deception",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 25,
   ownLength: 3957,
   unitSlug: "words",

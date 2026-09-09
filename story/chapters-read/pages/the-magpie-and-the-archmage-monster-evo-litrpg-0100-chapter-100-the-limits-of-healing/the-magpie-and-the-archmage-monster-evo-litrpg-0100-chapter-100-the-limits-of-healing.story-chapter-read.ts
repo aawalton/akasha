@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0100Chapter100TheLimitsOfHea
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0100-chapter-100-the-limits-of-healing",
   title: "Chapter 100 – The Limits of Healing",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 100,
   ownLength: 2105,
   unitSlug: "words",

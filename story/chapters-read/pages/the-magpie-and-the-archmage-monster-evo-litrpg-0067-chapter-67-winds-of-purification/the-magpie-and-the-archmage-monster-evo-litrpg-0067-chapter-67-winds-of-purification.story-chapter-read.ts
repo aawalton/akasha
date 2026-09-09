@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0067Chapter67WindsOfPurifica
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0067-chapter-67-winds-of-purification",
   title: "Chapter 67 – Winds of Purification",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 67,
   ownLength: 2089,
   unitSlug: "words",

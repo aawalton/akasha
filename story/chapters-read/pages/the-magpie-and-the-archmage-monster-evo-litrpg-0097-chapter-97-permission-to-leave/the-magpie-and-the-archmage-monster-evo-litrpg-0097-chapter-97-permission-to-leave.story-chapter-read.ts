@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0097Chapter97PermissionToLea
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0097-chapter-97-permission-to-leave",
   title: "Chapter 97 – Permission to Leave",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 97,
   ownLength: 1893,
   unitSlug: "words",

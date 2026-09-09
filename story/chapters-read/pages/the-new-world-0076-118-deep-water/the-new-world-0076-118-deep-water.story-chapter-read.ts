@@ -5,7 +5,7 @@ export const theNewWorld0076118DeepWater = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0076-118-deep-water",
   title: "118 Deep Water",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 76,
   ownLength: 2669,
   unitSlug: "words",

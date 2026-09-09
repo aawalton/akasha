@@ -5,7 +5,7 @@ export const theNewWorld000346FightingEvil = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0003-46-fighting-evil",
   title: "46 Fighting Evil",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 3,
   ownLength: 3124,
   unitSlug: "words",

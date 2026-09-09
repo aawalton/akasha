@@ -5,7 +5,7 @@ export const theNewWorld0128169WeavingThreads = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0128-169-weaving-threads",
   title: "169 Weaving Threads",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 128,
   ownLength: 3070,
   unitSlug: "words",

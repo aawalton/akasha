@@ -5,7 +5,7 @@ export const theNewWorld004184FinalizingDetails = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0041-84-finalizing-details",
   title: "84 Finalizing Details",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 41,
   ownLength: 2822,
   unitSlug: "words",

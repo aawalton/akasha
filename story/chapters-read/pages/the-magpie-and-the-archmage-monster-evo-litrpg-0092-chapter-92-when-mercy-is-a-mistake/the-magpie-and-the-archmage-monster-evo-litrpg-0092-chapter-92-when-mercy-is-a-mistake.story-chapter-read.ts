@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0092Chapter92WhenMercyIsAMis
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0092-chapter-92-when-mercy-is-a-mistake",
   title: "Chapter 92 – When Mercy is a Mistake",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 92,
   ownLength: 1979,
   unitSlug: "words",

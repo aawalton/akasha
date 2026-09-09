@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0090Chapter90APerfectImitati
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0090-chapter-90-a-perfect-imitation",
   title: "Chapter 90 – A Perfect Imitation",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 90,
   ownLength: 2090,
   unitSlug: "words",

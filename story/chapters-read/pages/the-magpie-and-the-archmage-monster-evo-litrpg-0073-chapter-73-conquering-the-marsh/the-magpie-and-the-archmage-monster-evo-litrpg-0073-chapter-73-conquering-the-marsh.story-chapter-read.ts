@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0073Chapter73ConqueringTheMa
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0073-chapter-73-conquering-the-marsh",
   title: "Chapter 73 – Conquering the Marsh",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 73,
   ownLength: 1985,
   unitSlug: "words",

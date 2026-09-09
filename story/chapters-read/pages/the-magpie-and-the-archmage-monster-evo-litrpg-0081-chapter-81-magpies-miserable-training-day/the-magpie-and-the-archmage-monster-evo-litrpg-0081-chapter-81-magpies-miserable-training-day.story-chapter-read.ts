@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0081Chapter81MagpiesMiserabl
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0081-chapter-81-magpies-miserable-training-day",
   title: "Chapter 81 – Magpie's Miserable Training Day",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 81,
   ownLength: 2254,
   unitSlug: "words",

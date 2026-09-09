@@ -5,7 +5,7 @@ export const theNewWorld0066108NewHope = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0066-108-new-hope",
   title: "108 New Hope ",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 66,
   ownLength: 3896,
   unitSlug: "words",

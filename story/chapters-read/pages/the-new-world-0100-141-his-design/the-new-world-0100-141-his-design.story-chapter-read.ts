@@ -5,7 +5,7 @@ export const theNewWorld0100141HisDesign = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0100-141-his-design",
   title: "141 His Design",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 100,
   ownLength: 3232,
   unitSlug: "words",

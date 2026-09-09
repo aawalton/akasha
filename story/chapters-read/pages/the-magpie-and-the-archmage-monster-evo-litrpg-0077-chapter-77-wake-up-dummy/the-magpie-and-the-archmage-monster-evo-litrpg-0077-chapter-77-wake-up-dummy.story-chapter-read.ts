@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0077Chapter77WakeUpDummy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0077-chapter-77-wake-up-dummy",
   title: "Chapter 77 – Wake Up, Dummy",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 77,
   ownLength: 2044,
   unitSlug: "words",

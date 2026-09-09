@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0058Chapter58BleedingEarsBur
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0058-chapter-58-bleeding-ears-burning-wings",
   title: "Chapter 58 – Bleeding Ears, Burning Wings",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 58,
   ownLength: 2014,
   unitSlug: "words",

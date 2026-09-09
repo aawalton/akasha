@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0086Chapter86GreedGritAndThe
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0086-chapter-86-greed-grit-and-the-open-sea",
   title: "Chapter 86 – Greed, Grit, and the Open Sea",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 86,
   ownLength: 2138,
   unitSlug: "words",

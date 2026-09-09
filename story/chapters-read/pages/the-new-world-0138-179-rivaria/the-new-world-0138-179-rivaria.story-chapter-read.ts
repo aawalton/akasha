@@ -5,7 +5,7 @@ export const theNewWorld0138179Rivaria = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0138-179-rivaria",
   title: "179 Rivaria",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 138,
   ownLength: 4010,
   unitSlug: "words",

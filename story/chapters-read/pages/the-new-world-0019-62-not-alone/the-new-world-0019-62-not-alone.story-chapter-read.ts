@@ -5,7 +5,7 @@ export const theNewWorld001962NotAlone = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0019-62-not-alone",
   title: "62 Not Alone",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 19,
   ownLength: 2991,
   unitSlug: "words",

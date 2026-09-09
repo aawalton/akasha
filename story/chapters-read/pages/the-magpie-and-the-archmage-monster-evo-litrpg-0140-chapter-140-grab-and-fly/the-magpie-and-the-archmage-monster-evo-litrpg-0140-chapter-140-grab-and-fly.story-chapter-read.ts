@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0140Chapter140GrabAndFly = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0140-chapter-140-grab-and-fly",
   title: "Chapter 140 – Grab and Fly",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 140,
   ownLength: 2018,
   unitSlug: "words",

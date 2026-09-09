@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0148Chapter148MyBigFatBeak =
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0148-chapter-148-my-big-fat-beak",
   title: "Chapter 148 – My Big, Fat Beak",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 148,
   ownLength: 1907,
   unitSlug: "words",

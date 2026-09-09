@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0111Chapter111WhereTheresAWi
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0111-chapter-111-where-theres-a-will",
   title: "Chapter 111 – Where There's A Will",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 111,
   ownLength: 2174,
   unitSlug: "words",

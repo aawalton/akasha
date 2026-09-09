@@ -5,7 +5,7 @@ export const theNewWorld0001TheStorySoFarFirstEdition = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0001-the-story-so-far-first-edition",
   title: "The Story So Far: First Edition",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 1,
   ownLength: 2548,
   unitSlug: "words",

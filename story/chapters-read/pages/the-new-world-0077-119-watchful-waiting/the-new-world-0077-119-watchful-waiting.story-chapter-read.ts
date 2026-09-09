@@ -5,7 +5,7 @@ export const theNewWorld0077119WatchfulWaiting = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0077-119-watchful-waiting",
   title: "119 Watchful Waiting",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 77,
   ownLength: 2284,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld004386TheFinalPiece = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0043-86-the-final-piece",
   title: "86 The Final Piece",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 43,
   ownLength: 2119,
   unitSlug: "words",

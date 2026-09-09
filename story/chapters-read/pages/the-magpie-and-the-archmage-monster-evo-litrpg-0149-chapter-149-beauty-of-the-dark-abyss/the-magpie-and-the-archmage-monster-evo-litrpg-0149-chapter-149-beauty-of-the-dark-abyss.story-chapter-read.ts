@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0149Chapter149BeautyOfTheDar
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0149-chapter-149-beauty-of-the-dark-abyss",
   title: "Chapter 149 – Beauty of the Dark Abyss",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 149,
   ownLength: 2234,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0108Chapter108ThatsForTheBir
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0108-chapter-108-thats-for-the-birds",
   title: "Chapter 108 – That's for the Birds",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 108,
   ownLength: 2304,
   unitSlug: "words",

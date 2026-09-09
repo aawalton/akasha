@@ -5,7 +5,7 @@ export const theNewWorld005597CataclysmComes = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0055-97-cataclysm-comes",
   title: "97 Cataclysm Comes",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 55,
   ownLength: 4422,
   unitSlug: "words",

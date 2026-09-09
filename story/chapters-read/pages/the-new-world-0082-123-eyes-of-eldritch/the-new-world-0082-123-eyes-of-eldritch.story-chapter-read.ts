@@ -5,7 +5,7 @@ export const theNewWorld0082123EyesOfEldritch = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0082-123-eyes-of-eldritch",
   title: "123 Eyes of Eldritch",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 82,
   ownLength: 1551,
   unitSlug: "words",

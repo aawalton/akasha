@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0158Chapter158TheMemoriesShe
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0158-chapter-158-the-memories-she-buried",
   title: "Chapter 158 – The Memories She Buried",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 158,
   ownLength: 2200,
   unitSlug: "words",

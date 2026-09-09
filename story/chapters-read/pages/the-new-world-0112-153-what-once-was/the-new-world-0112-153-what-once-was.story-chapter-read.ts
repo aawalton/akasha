@@ -5,7 +5,7 @@ export const theNewWorld0112153WhatOnceWas = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0112-153-what-once-was",
   title: "153 What Once Was",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 112,
   ownLength: 3289,
   unitSlug: "words",

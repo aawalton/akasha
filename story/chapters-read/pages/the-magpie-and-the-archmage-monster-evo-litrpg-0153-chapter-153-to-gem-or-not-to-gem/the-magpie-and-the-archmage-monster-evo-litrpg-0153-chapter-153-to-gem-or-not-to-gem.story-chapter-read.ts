@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0153Chapter153ToGemOrNotToGe
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0153-chapter-153-to-gem-or-not-to-gem",
   title: "Chapter 153 – To Gem or Not to Gem",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 153,
   ownLength: 1907,
   unitSlug: "words",

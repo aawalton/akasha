@@ -5,7 +5,7 @@ export const theNewWorld0069111AnEnigma = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0069-111-an-enigma",
   title: "111 An Enigma",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 69,
   ownLength: 2539,
   unitSlug: "words",

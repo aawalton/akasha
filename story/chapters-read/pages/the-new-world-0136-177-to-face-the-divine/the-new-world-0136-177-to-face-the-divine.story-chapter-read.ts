@@ -5,7 +5,7 @@ export const theNewWorld0136177ToFaceTheDivine = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0136-177-to-face-the-divine",
   title: "177 To Face the Divine",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 136,
   ownLength: 2420,
   unitSlug: "words",

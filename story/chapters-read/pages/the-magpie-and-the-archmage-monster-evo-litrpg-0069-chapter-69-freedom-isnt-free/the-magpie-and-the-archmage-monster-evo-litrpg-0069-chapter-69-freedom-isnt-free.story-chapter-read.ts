@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0069Chapter69FreedomIsntFree
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0069-chapter-69-freedom-isnt-free",
   title: "Chapter 69 – Freedom Isn't Free",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 69,
   ownLength: 2099,
   unitSlug: "words",

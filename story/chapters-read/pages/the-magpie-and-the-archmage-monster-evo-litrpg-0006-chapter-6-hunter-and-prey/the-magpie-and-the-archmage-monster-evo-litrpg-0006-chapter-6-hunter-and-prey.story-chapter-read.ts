@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0006Chapter6HunterAndPrey = 
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0006-chapter-6-hunter-and-prey",
   title: "Chapter 6 – Hunter and Prey",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 6,
   ownLength: 2138,
   unitSlug: "words",

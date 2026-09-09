@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0004Chapter4BestowingAName =
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0004-chapter-4-bestowing-a-name",
   title: "Chapter 4 – Bestowing a Name",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 4,
   ownLength: 1995,
   unitSlug: "words",

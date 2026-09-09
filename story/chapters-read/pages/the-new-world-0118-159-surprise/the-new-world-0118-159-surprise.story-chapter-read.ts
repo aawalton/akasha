@@ -5,7 +5,7 @@ export const theNewWorld0118159Surprise = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0118-159-surprise",
   title: "159 Surprise",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 118,
   ownLength: 2636,
   unitSlug: "words",

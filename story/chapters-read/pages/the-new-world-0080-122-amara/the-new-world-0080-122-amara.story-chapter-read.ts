@@ -5,7 +5,7 @@ export const theNewWorld0080122Amara = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0080-122-amara",
   title: "122 Amara",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 80,
   ownLength: 1698,
   unitSlug: "words",

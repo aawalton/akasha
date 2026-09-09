@@ -5,7 +5,7 @@ export const theNewWorld0064106ItComes = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0064-106-it-comes",
   title: "106 It Comes",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 64,
   ownLength: 2798,
   unitSlug: "words",

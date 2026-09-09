@@ -5,7 +5,7 @@ export const theNewWorld0101142OneAgainstMany = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0101-142-one-against-many",
   title: "142 One Against Many",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 101,
   ownLength: 4311,
   unitSlug: "words",

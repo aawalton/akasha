@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0047Chapter47UnauthorizedQue
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0047-chapter-47-unauthorized-questing",
   title: "Chapter 47 – Unauthorized Questing",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 47,
   ownLength: 2014,
   unitSlug: "words",

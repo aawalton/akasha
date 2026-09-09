@@ -5,7 +5,7 @@ export const theNewWorld002972LastNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0029-72-last-night",
   title: "72 Last Night",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 29,
   ownLength: 5408,
   unitSlug: "words",

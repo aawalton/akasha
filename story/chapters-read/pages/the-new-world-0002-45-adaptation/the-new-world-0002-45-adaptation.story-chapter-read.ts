@@ -5,7 +5,7 @@ export const theNewWorld000245Adaptation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0002-45-adaptation",
   title: "45 Adaptation",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 2,
   ownLength: 10857,
   unitSlug: "words",

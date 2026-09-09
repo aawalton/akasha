@@ -5,7 +5,7 @@ export const theNewWorld0145186Countdown = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0145-186-countdown",
   title: "186 Countdown",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 145,
   ownLength: 4213,
   unitSlug: "words",

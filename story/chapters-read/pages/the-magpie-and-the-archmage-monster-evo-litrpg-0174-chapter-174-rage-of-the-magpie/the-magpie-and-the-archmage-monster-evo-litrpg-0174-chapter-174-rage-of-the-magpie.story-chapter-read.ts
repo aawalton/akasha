@@ -4,7 +4,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0174Chapter174RageOfTheMagpi
   id: "01a07252-32f0-7437-bab1-9a20617e8c64",
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0174-chapter-174-rage-of-the-magpie",
-  storySlug: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "story-read/the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 174,
   publishedAt: "2026-09-05",
   unitSlug: "words",

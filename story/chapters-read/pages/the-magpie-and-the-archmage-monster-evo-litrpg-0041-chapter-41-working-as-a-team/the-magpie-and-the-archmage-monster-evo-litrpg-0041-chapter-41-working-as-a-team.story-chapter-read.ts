@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0041Chapter41WorkingAsATeam 
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0041-chapter-41-working-as-a-team",
   title: "Chapter 41 – Working as a Team",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 41,
   ownLength: 1817,
   unitSlug: "words",

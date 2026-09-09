@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0109Chapter109DaintyBeasties
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0109-chapter-109-dainty-beasties",
   title: "Chapter 109 – Dainty Beasties",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 109,
   ownLength: 1908,
   unitSlug: "words",

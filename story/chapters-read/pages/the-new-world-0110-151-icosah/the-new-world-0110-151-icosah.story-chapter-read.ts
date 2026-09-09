@@ -5,7 +5,7 @@ export const theNewWorld0110151Icosah = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0110-151-icosah",
   title: "151 Icosah",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 110,
   ownLength: 3681,
   unitSlug: "words",

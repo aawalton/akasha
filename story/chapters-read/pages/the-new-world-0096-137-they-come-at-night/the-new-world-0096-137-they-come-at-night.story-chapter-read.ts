@@ -5,7 +5,7 @@ export const theNewWorld0096137TheyComeAtNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0096-137-they-come-at-night",
   title: "137 They Come at Night",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 96,
   ownLength: 2593,
   unitSlug: "words",

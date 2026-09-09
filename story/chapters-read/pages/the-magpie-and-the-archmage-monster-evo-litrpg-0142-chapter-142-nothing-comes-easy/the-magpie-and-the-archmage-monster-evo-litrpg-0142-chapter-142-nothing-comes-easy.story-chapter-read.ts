@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg0142Chapter142NothingComesEa
   pageTypeSlug: "story-chapter-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg-0142-chapter-142-nothing-comes-easy",
   title: "Chapter 142 – Nothing Comes Easy",
-  storySlug: "the-magpie-and-the-archmage-monster-evo-litrpg",
+  story: "the-magpie-and-the-archmage-monster-evo-litrpg",
   position: 142,
   ownLength: 2037,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld003275WhoGoesThere = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0032-75-who-goes-there",
   title: "75 Who Goes There",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 32,
   ownLength: 3520,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theNewWorld0137178ASteadyMarch = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0137-178-a-steady-march",
   title: "178 A Steady March",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 137,
   ownLength: 3247,
   unitSlug: "words",

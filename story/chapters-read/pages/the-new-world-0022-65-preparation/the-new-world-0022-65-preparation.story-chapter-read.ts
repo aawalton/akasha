@@ -5,7 +5,7 @@ export const theNewWorld002265Preparation = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0022-65-preparation",
   title: "65 Preparation",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 22,
   ownLength: 4146,
   unitSlug: "words",

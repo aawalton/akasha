@@ -5,7 +5,7 @@ export const theNewWorld0122163ADarkPlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0122-163-a-dark-plan",
   title: "163 A Dark Plan",
-  storySlug: "the-new-world",
+  story: "the-new-world",
   position: 122,
   ownLength: 2099,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete0012Book3FromMay1stFin
   pageTypeSlug: "story-chapter-read",
   slug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete-0012-book-3-from-may-1st-final-cover-reveal",
   title: "Book 3 from May 1st + FINAL COVER REVEAL",
-  storySlug: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
+  story: "the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   position: 12,
   ownLength: 379,
   unitSlug: "words",
