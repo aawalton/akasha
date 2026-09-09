@@ -86,6 +86,7 @@ export const codeCheck = {
     "code-check/types-file-runs-nothing",
     "code-check/hand-written-global-is-no-method",
     "code-check/repository-is-written-by-a-change",
+    "code-check/specifier-names-a-package",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/checking",
