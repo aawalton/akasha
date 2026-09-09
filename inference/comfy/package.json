@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./comfy-graph": "./comfy-graph/comfy-graph.module.code.ts"
+    "./comfy-graph": "./graph/comfy-graph.module.code.ts"
   }
 }
