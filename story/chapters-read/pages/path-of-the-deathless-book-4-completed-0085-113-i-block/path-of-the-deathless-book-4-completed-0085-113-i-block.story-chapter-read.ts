@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0085113IBlock = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0085-113-i-block",
   title: "113 (I)  Block",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 85,
   ownLength: 0,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0001Chapter1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "passive-aggressive-reverse-portal-invasion-litrpg-0001-chapter-1",
   title: "Chapter 1",
-  partOfCollectionSlugs: ["passive-aggressive-reverse-portal-invasion-litrpg"],
+  storySlug: "passive-aggressive-reverse-portal-invasion-litrpg",
   position: 1,
   ownLength: 1956,
   unitSlug: "words",

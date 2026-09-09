@@ -5,7 +5,7 @@ export const newGam3Plus0004KeepMovingForward = {
   pageTypeSlug: "story-chapter-read",
   slug: "new-gam3-plus-0004-keep-moving-forward",
   title: "Keep Moving Forward",
-  partOfCollectionSlugs: ["new-gam3-plus"],
+  storySlug: "new-gam3-plus",
   position: 4,
   ownLength: 2486,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed003389IiCompanionsIii = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0033-89-ii-companions-iii",
   title: "89 (II) Companions [III] ",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 33,
   ownLength: 0,
   unitSlug: "words",

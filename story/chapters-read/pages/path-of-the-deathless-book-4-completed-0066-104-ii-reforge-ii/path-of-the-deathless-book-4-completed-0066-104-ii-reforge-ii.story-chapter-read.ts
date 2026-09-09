@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0066104IiReforgeIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0066-104-ii-reforge-ii",
   title: "104 (II)  Reforge [II] ",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 66,
   ownLength: 0,
   unitSlug: "words",
