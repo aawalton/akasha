@@ -3,6 +3,7 @@ import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.
 export const whetherInvestingBeatsBankingElsewhere = {
   id: "01a077e4-d815-70fa-95ec-c95187ff7fa2",
   pageTypeSlug: "all-about-alan-question",
+  type: "all-about-alan-question",
   slug: "whether-investing-beats-banking-elsewhere",
   topic: "resource-bars",
   ask: "Investing beats banking for safety. Does investing beat banking for mana, stamina and stress capacity too?",
