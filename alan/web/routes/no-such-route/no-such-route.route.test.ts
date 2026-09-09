@@ -120,11 +120,13 @@ test("the api splat loses to every api route the config declares", () => {
 })
 
 test("the api splat reaches no page path, including page types beginning with api", () => {
-  expect(resolvedFile("/seat/amy")).toBe("routes/page-detail.tsx")
-  expect(resolvedFile("/seat")).toBe("routes/page-listing.tsx")
-  expect(resolvedFile("/persona/amy")).toBe("routes/page-detail.tsx")
-  expect(resolvedFile("/apix/thing")).toBe("routes/page-detail.tsx")
-  expect(resolvedFile("/apix")).toBe("routes/page-listing.tsx")
-  expect(resolvedFile("/home")).toBe("routes/home.tsx")
-  expect(resolvedFile("/")).toBe("routes/landing.tsx")
+  const detail = "routes/alan-web-page-detail/alan-web-page-detail.route.code.tsx"
+  const listing = "routes/alan-web-page-listing/alan-web-page-listing.route.code.tsx"
+  expect(resolvedFile("/seat/amy")).toBe(detail)
+  expect(resolvedFile("/seat")).toBe(listing)
+  expect(resolvedFile("/persona/amy")).toBe(detail)
+  expect(resolvedFile("/apix/thing")).toBe(detail)
+  expect(resolvedFile("/apix")).toBe(listing)
+  expect(resolvedFile("/home")).toBe("routes/alan-web-home/alan-web-home.route.code.tsx")
+  expect(resolvedFile("/")).toBe("routes/alan-web-landing/alan-web-landing.route.code.tsx")
 })
