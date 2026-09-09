@@ -11,7 +11,7 @@ export const athenaCommandsAtTheRoot = {
       statement:
         "Tooling specific to the command domain sits under `commands/`, and no other tooling does.",
       workingMemory:
-        "At 692aa4c990 all 220 command pages sit under `commands/` and none outside, under 47 namespaces, with the `command` page type at `commands/command.page-type.ts` and no package alias left reaching it. No module under `commands/modules/` is imported from outside the command domain: the only outside mentions are five findings naming paths in prose and `harness-call` naming the dispatcher by path. What is left is the modules still in `command-system/`.",
+        "At 692aa4c990 all 220 command pages sit under `commands/` and none outside, under 47 namespaces, with the `command` page type at `commands/command.page-type.ts` and no package alias left reaching it. Code outside `commands/` reaches modules under `commands/modules/`, and that breaks nothing: `commands/` is no package, so the root manifest names every file in it. What is left is the modules still in `command-system/`.",
     },
     {
       statement: "No `command-system` folder is there.",
