@@ -62,6 +62,18 @@ export const addonCompilerConfig = {
     },
     {
       invariantKind: "departure",
+      statement: "The written settings say TypeScript emits nothing and the Lua is written anyway.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach spelled from the repository root down carries the file's own extension.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No setting here rewrites an extension, because no JavaScript is written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An addon page naming no bundle entry answers that nothing can be built.",
     },
     {

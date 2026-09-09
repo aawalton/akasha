@@ -179,9 +179,8 @@ export function compilerConfigBody(asked: CompilerConfigAsked): string {
       moduleResolution: "bundler",
       lib: ["ESNext"],
       jsx: "react",
-      noEmit: false,
+      noEmit: true,
       isolatedModules: true,
-      rewriteRelativeImportExtensions: true,
       rootDir: asked.repoRoot,
       outDir: join(addonsRoot, "dist", asked.canonicalName),
       target: "ESNext",
@@ -189,6 +188,7 @@ export function compilerConfigBody(asked: CompilerConfigAsked): string {
       types: [],
     },
     luaCompiler: {
+      noEmitLua: false,
       luaTarget: "5.1",
       luaBundle: `${asked.canonicalName}.lua`,
       luaBundleEntry: asked.entryPath,

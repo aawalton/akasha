@@ -58,12 +58,13 @@ test("the written settings name the entry, the bundle and the repository root", 
     compilerOptions: {
       rootDir: "/repo",
       outDir: "/repo/temper/addons/dist/TemperTableFunctions",
-      rewriteRelativeImportExtensions: true,
+      noEmit: true,
     },
     luaCompiler: {
       luaBundle: "TemperTableFunctions.lua",
       luaBundleEntry: "/repo/temper/temper-lib-table-functions/e/e.module.code.ts",
       luaTarget: "5.1",
+      noEmitLua: false,
     },
     include: [
       "/repo/temper/temper-lib-table-functions/**/*.module.code.ts",
