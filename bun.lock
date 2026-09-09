@@ -33,6 +33,7 @@
         "@akasha/seat-system": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/spotify": "workspace:*",
+        "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-client": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
@@ -582,14 +583,6 @@
       },
       "devDependencies": {
         "@capacitor/cli": "^8.4.1",
-      },
-    },
-    "collections/royal-road": {
-      "name": "@akasha/royal-road",
-      "dependencies": {
-        "@akasha/changes": "workspace:*",
-        "@akasha/code": "workspace:*",
-        "@akasha/story-engine-core": "workspace:*",
       },
     },
     "command-system": {
@@ -2751,8 +2744,6 @@
     "@akasha/readouts": ["@akasha/readouts@workspace:readouts"],
 
     "@akasha/recurrence": ["@akasha/recurrence@workspace:alan/harness/recurrence"],
-
-    "@akasha/royal-road": ["@akasha/royal-road@workspace:collections/royal-road"],
 
     "@akasha/rules-engine": ["@akasha/rules-engine@workspace:alan/harness/rules-engine"],
 

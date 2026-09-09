@@ -83,7 +83,7 @@ export const collection = {
     "text-property/collection-author",
     "text-property/collection-tags",
     "domain/great-courses",
-    "workspace-package/royal-road",
+    "domain/royal-road",
     "page-type/recipe",
     "page-type/recipe-collection",
   ],

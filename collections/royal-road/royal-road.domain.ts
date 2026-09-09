@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const royalRoad = {
   id: "01a0657f-4492-7000-a3fc-56efd626beaa",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "royal-road",
   definition: "the pages Royal Road serves, read into fictions and chapters",
-  manifest: "json",
   parts: [
     "module/royal-road-pages",
     "module/royal-road-syncing",
@@ -25,4 +24,4 @@ export const royalRoad = {
       statement: "A chapter is fetched without the account.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -4,13 +4,13 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { asking, type Row } from "@akasha/pages-service/asking"
 import { composedFor } from "@akasha/pages-service/composing"
-import type { RawChapter } from "@akasha/royal-road/royal-road-pages"
+import type { RawChapter } from "akasha/collections/royal-road/pages/royal-road-pages.module.code.ts"
 import {
   fetchHtml,
   parseChapterProse,
   parseFictionPage,
   royalRoadUrl,
-} from "@akasha/royal-road/royal-road-pages"
+} from "akasha/collections/royal-road/pages/royal-road-pages.module.code.ts"
 
 const ROOT = akashaRoot()
 const STORY_PAGE_TYPE = "story-read"
