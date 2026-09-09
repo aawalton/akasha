@@ -4,7 +4,7 @@ import {
   namedIn,
   quoted,
   ran,
-} from "../../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
+} from "../../../modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 const RESUME = "resume"
 

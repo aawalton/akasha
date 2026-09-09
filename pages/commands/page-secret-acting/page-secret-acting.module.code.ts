@@ -5,11 +5,11 @@ import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { mistaking } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { quoted as listed } from "@akasha/command-system/seat-act-calling"
 import { secretAt } from "@akasha/pages/page-file-name"
 import { cipherFor, type Secrets } from "@akasha/pages/page-secret"
 import { propertiesOf } from "@akasha/pages/page-type-properties"
 import { textAt, valueAt } from "@akasha/pages/page-value"
+import { quoted as listed } from "../../../commands/modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 export const FILE_PATH = "--file-path"
 

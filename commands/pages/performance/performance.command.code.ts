@@ -3,7 +3,7 @@ import { listedAt, slugsOfType } from "@akasha/pages/index-reading"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
-import { quoted } from "../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
+import { quoted } from "../../modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 const PERFORMANCE = "performance"
 

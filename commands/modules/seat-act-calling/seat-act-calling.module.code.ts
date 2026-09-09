@@ -1,6 +1,6 @@
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
-import type { Answer } from "../calling/calling.module.code.ts"
-import { refused } from "../calling/calling.module.code.ts"
+import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../command-system/calling/calling.module.code.ts"
 
 export type Named = { readonly name: string }
 

@@ -100,6 +100,7 @@ export const command = {
     "module/mechanical-landing",
     "module/path-moving",
     "module/edits-landing",
+    "module/seat-act-calling",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

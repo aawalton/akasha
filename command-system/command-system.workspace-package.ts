@@ -23,7 +23,6 @@ export const commandSystem = {
     "module/rooting",
     "module/scratching",
     "module/applying",
-    "module/seat-act-calling",
     "performance/landing-throughput",
   ],
   invariants: [
