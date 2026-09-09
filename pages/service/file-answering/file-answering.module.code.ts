@@ -30,7 +30,7 @@ function listing(root: string, asked: Named): readonly { readonly path: string }
 export function filing(root: string, asked: Named): Filed {
   const carried = carriedFor(root, asked.pageTypeSlug).find((one) => one.key === asked.key)
   if (carried === undefined) {
-    return { refused: `\`${asked.pageTypeSlug}\` carries no \`${asked.key}\`` }
+    return { refused: `\`${asked.pageTypeSlug}\` has no \`${asked.key}\`` }
   }
   if (carried.pageTypeSlug !== FILE_PROPERTY) {
     return { refused: `\`${asked.key}\` names no file property, so no file beside a page holds it` }

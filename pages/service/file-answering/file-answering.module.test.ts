@@ -20,9 +20,9 @@ test("a page's file property is answered as the bytes beside that page", () => {
   expect(Array.from(said.bytes)).toEqual(Array.from(readFileSync(join(ROOT, A_PICTURE_AT))))
 })
 
-test("a key the page type carries no property for is refused", () => {
+test("a key the page type has no property for is refused", () => {
   const said = filing(ROOT, { ...A_WALLPAPER, key: "wallpaperOfTheDay" })
-  expect("refused" in said && said.refused).toContain("carries no")
+  expect("refused" in said && said.refused).toContain("has no")
 })
 
 test("a key naming a property that keeps no file is refused", () => {

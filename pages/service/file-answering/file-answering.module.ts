@@ -22,7 +22,7 @@ export const fileAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A key the page type carries no property for is refused.",
+      statement: "A key the page type has no property for is refused.",
     },
     {
       invariantKind: "departure",
