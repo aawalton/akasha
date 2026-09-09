@@ -35,6 +35,9 @@ export type Changes = {
   "change-agent/change-prose-pattern": Parameters<
     typeof import("../../../agent/prose/change-prose-pattern/change-prose-pattern.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/merge-eso-day-into-day": Parameters<
+    typeof import("../../../agent/file/merge-eso-day-into-day/merge-eso-day-into-day.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/move-folder": Parameters<
     typeof import("../../../agent/folder/move-folder/move-folder.change-agent.code.ts")["runChange"]
   >[1]
