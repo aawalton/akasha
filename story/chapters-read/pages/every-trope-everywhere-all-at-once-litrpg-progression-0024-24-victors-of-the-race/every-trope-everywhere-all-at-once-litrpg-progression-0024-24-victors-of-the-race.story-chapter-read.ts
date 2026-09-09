@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002424VictorsOfTheRac
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 24,
   ownLength: 2063,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3446120/24-victors-of-the-race",

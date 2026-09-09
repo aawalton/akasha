@@ -8,7 +8,7 @@ export const endsOfMagic0080Chapter65TheOldWonders = {
   story: "story-read/ends-of-magic",
   position: 80,
   ownLength: 2712,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-19",
   externalLink:
     "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3169036/chapter-65-the-old-wonders",

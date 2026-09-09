@@ -8,7 +8,7 @@ export const endsOfMagic0087Chapter72AFundamentalProblem = {
   story: "story-read/ends-of-magic",
   position: 87,
   ownLength: 2863,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3267703/chapter-72-a-fundamental-problem",

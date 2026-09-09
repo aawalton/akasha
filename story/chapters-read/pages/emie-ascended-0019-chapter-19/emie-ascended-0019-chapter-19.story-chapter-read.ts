@@ -8,7 +8,7 @@ export const emieAscended0019Chapter19 = {
   story: "emie-ascended",
   position: 19,
   ownLength: 2309,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-06",
   externalLink: "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3502399/chapter-19",
   externalId: "3502399",

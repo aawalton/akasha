@@ -9,7 +9,7 @@ export const endsOfMagic0036Chapter21ConversationOnTheMove = {
   position: 36,
   ownLength: 2898,
   ownProgress: 2898,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:25.505Z",
   publishedAt: "2025-09-15",
   externalLink:

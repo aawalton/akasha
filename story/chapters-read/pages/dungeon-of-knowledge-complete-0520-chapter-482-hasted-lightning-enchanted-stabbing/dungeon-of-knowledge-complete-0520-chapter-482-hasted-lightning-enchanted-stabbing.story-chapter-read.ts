@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0520Chapter482HastedLightningEnchantedSta
   position: 520,
   ownLength: 3148,
   ownProgress: 3148,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:54.155Z",
   publishedAt: "2025-12-21",
   externalLink:

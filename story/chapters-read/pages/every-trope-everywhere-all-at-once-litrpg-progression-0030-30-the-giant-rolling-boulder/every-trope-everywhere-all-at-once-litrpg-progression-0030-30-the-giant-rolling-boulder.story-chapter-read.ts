@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003030TheGiantRolling
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 30,
   ownLength: 1727,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-30",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3467787/30-the-giant-rolling-boulder",

@@ -9,7 +9,7 @@ export const endsOfMagic0022Chapter7ADutifulDeparture = {
   position: 22,
   ownLength: 2905,
   ownProgress: 2905,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:58.466Z",
   publishedAt: "2025-07-28",
   externalLink:

@@ -9,7 +9,7 @@ export const endsOfMagic0047Chapter32ThoughtsOfFlight = {
   position: 47,
   ownLength: 2688,
   ownProgress: 2688,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:46.285Z",
   publishedAt: "2025-11-20",
   externalLink:

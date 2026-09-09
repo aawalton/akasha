@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006969BeneathTheManor
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 69,
   ownLength: 1736,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3655630/69-beneath-the-manor",

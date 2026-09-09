@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0558Chapter518ManaLock = {
   position: 558,
   ownLength: 4098,
   ownProgress: 4098,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:16.469Z",
   publishedAt: "2026-01-26",
   externalLink:

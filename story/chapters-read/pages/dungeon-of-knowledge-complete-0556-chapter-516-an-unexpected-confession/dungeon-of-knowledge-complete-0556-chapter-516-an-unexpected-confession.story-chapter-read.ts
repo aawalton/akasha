@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0556Chapter516AnUnexpectedConfession = {
   position: 556,
   ownLength: 2839,
   ownProgress: 2839,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:12.394Z",
   publishedAt: "2026-01-24",
   externalLink:

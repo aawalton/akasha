@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0595Chapter554TheLichAwakens = {
   position: 595,
   ownLength: 4418,
   ownProgress: 4418,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:12.090Z",
   publishedAt: "2026-03-03",
   externalLink:

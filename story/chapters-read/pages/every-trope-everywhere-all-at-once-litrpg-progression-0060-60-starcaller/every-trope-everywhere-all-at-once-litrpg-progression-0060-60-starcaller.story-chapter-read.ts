@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006060Starcaller = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 60,
   ownLength: 1713,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3605258/60-starcaller",

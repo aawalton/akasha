@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0551Chapter511TheRiseOfCuddlesAndTheHolyF
   position: 551,
   ownLength: 3722,
   ownProgress: 3722,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:01.553Z",
   publishedAt: "2026-01-19",
   externalLink:

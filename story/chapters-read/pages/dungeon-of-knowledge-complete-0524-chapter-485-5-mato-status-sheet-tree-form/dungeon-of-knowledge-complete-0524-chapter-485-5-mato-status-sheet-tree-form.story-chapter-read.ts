@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0524Chapter4855MatoStatusSheetTreeForm = 
   position: 524,
   ownLength: 984,
   ownProgress: 984,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:02.865Z",
   publishedAt: "2025-12-24",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0516Chapter478AMightyDemonSlayer = {
   position: 516,
   ownLength: 3989,
   ownProgress: 3989,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:45.608Z",
   publishedAt: "2025-12-17",
   externalLink:

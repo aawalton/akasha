@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0625Chapter581ToKillDeath = {
   story: "dungeon-of-knowledge-complete",
   position: 625,
   ownLength: 3532,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-23",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183617/chapter-581-to-kill-death",

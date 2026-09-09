@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0610Chapter5665MalikaStatusSheet = {
   story: "dungeon-of-knowledge-complete",
   position: 610,
   ownLength: 1428,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-14",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3151191/chapter-5665-malika-status-sheet",

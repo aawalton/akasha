@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0560Chapter520ArcanePylons = {
   position: 560,
   ownLength: 3784,
   ownProgress: 3784,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:21.364Z",
   publishedAt: "2026-01-28",
   externalLink:

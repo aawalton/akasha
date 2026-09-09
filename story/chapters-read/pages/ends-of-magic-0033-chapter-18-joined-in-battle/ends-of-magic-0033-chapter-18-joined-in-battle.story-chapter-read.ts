@@ -9,7 +9,7 @@ export const endsOfMagic0033Chapter18JoinedInBattle = {
   position: 33,
   ownLength: 2890,
   ownProgress: 2890,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:19.864Z",
   publishedAt: "2025-09-04",
   externalLink:

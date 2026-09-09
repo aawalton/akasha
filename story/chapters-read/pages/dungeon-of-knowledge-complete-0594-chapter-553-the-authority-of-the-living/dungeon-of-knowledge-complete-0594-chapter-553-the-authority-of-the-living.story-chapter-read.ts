@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0594Chapter553TheAuthorityOfTheLiving = {
   position: 594,
   ownLength: 3246,
   ownProgress: 3246,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:36.795Z",
   publishedAt: "2026-03-02",
   externalLink:

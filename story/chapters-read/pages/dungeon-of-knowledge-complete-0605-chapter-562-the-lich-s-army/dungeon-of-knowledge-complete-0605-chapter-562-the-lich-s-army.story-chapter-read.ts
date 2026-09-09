@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0605Chapter562TheLichSArmy = {
   story: "dungeon-of-knowledge-complete",
   position: 605,
   ownLength: 5563,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-11",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3140145/chapter-562-the-lichs-army",

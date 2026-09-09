@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0574Chapter534AJourneyWithAnUncertainDest
   position: 574,
   ownLength: 6210,
   ownProgress: 6210,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:52.852Z",
   publishedAt: "2026-02-11",
   externalLink:

@@ -9,7 +9,7 @@ export const endsOfMagic0017Chapter2ManifestDecisions = {
   position: 17,
   ownLength: 2687,
   ownProgress: 2687,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:48.715Z",
   publishedAt: "2025-07-10",
   externalLink:

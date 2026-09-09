@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003636TheWeepingOnes 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 36,
   ownLength: 1564,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-05",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3494189/36-the-weeping-ones",

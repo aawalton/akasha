@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0588Chapter548DungeonsAndDemigods = {
   position: 588,
   ownLength: 4998,
   ownProgress: 4998,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:23.749Z",
   publishedAt: "2026-02-25",
   externalLink:

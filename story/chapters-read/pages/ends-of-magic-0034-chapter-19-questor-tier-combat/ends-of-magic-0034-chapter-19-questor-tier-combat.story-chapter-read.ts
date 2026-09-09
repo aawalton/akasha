@@ -9,7 +9,7 @@ export const endsOfMagic0034Chapter19QuestorTierCombat = {
   position: 34,
   ownLength: 2808,
   ownProgress: 2808,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:21.791Z",
   publishedAt: "2025-09-08",
   externalLink:

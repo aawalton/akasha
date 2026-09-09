@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0534Chapter4945HaverronStatusSheet = {
   position: 534,
   ownLength: 852,
   ownProgress: 852,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:24.588Z",
   publishedAt: "2026-01-02",
   externalLink:

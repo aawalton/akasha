@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0586Chapter546FruitOfTheWorldTree = {
   position: 586,
   ownLength: 4672,
   ownProgress: 4672,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:19.071Z",
   publishedAt: "2026-02-23",
   externalLink:

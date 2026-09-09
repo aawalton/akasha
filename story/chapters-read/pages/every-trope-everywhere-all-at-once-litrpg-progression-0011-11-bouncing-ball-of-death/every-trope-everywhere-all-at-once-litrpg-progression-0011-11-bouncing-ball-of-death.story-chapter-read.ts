@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001111BouncingBallOfD
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 11,
   ownLength: 1618,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3397982/11-bouncing-ball-of-death",

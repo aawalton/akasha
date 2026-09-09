@@ -9,7 +9,7 @@ export const endsOfMagic0041Chapter26ALongDistanceChase = {
   position: 41,
   ownLength: 2652,
   ownProgress: 2652,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:35.126Z",
   publishedAt: "2025-10-30",
   externalLink:

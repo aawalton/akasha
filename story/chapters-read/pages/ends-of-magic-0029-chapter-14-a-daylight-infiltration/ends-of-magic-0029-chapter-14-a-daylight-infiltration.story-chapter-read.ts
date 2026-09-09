@@ -9,7 +9,7 @@ export const endsOfMagic0029Chapter14ADaylightInfiltration = {
   position: 29,
   ownLength: 2688,
   ownProgress: 2688,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:12.065Z",
   publishedAt: "2025-08-21",
   externalLink:

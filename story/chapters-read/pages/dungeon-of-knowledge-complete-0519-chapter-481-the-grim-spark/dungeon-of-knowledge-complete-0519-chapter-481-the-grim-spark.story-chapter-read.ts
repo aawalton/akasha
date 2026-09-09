@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0519Chapter481TheGrimSpark = {
   position: 519,
   ownLength: 2537,
   ownProgress: 2537,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:51.921Z",
   publishedAt: "2025-12-20",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0565Chapter525SneakAttack = {
   position: 565,
   ownLength: 4675,
   ownProgress: 4675,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:31.531Z",
   publishedAt: "2026-02-02",
   externalLink:

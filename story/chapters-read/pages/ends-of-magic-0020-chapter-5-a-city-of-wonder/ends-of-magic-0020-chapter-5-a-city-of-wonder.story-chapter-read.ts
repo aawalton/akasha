@@ -9,7 +9,7 @@ export const endsOfMagic0020Chapter5ACityOfWonder = {
   position: 20,
   ownLength: 3088,
   ownProgress: 3088,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:54.620Z",
   publishedAt: "2025-07-21",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0517Chapter479DevastationKnight = {
   position: 517,
   ownLength: 3557,
   ownProgress: 3557,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:47.736Z",
   publishedAt: "2025-12-18",
   externalLink:

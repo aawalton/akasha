@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0557Chapter517ABoldStrategicManeuver = {
   position: 557,
   ownLength: 3442,
   ownProgress: 3442,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:14.528Z",
   publishedAt: "2026-01-25",
   externalLink:

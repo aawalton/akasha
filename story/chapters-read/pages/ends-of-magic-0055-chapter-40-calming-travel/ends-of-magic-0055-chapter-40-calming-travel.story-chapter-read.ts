@@ -9,7 +9,7 @@ export const endsOfMagic0055Chapter40CalmingTravel = {
   position: 55,
   ownLength: 2879,
   ownProgress: 2879,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:01.591Z",
   publishedAt: "2025-12-18",
   externalLink:

@@ -9,7 +9,7 @@ export const endsOfMagic0044Chapter29TerribleNight = {
   position: 44,
   ownLength: 2730,
   ownProgress: 2730,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:40.599Z",
   publishedAt: "2025-11-10",
   externalLink:

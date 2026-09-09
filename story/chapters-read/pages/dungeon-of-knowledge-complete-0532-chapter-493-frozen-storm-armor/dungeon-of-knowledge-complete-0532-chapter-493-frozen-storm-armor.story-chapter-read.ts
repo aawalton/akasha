@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0532Chapter493FrozenStormArmor = {
   position: 532,
   ownLength: 3590,
   ownProgress: 3590,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:20.162Z",
   publishedAt: "2026-01-01",
   externalLink:

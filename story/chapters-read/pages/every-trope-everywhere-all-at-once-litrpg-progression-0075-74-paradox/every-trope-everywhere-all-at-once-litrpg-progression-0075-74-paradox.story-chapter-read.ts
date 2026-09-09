@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007574Paradox = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 75,
   ownLength: 2377,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3703947/74-paradox",

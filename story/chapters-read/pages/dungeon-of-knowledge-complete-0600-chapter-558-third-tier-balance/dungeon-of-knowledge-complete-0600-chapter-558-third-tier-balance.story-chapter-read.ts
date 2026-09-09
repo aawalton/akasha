@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0600Chapter558ThirdTierBalance = {
   story: "dungeon-of-knowledge-complete",
   position: 600,
   ownLength: 2320,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-07",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3126625/chapter-558-third-tier-balance",

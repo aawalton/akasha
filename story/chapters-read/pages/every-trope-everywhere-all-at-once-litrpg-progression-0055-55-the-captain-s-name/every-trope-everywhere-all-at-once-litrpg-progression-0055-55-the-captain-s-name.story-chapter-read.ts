@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005555TheCaptainSName
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 55,
   ownLength: 1722,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3582152/55-the-captains-name",

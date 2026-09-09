@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001010MatchingHairTie
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 10,
   ownLength: 1809,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3397399/10-matching-hair-ties",

@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0629Chapter585EpiloguePart2 = {
   story: "dungeon-of-knowledge-complete",
   position: 629,
   ownLength: 2816,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3187754/chapter-585-epilogue-part-2",

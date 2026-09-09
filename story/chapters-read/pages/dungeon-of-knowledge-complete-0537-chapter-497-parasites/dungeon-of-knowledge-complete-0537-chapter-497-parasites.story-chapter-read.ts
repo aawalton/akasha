@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0537Chapter497Parasites = {
   position: 537,
   ownLength: 4387,
   ownProgress: 4387,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:30.749Z",
   publishedAt: "2026-01-05",
   externalLink:

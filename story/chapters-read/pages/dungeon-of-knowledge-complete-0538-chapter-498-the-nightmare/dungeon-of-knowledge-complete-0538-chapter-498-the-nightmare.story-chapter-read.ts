@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0538Chapter498TheNightmare = {
   position: 538,
   ownLength: 3639,
   ownProgress: 3639,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:33.123Z",
   publishedAt: "2026-01-06",
   externalLink:

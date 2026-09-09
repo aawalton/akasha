@@ -9,7 +9,7 @@ export const endsOfMagic0032Chapter17AComplicatedSituation = {
   position: 32,
   ownLength: 2830,
   ownProgress: 2830,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:17.906Z",
   publishedAt: "2025-09-01",
   externalLink:

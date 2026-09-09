@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003838CamilleTheMaid 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 38,
   ownLength: 1737,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-06",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3503180/38-camille-the-maid",

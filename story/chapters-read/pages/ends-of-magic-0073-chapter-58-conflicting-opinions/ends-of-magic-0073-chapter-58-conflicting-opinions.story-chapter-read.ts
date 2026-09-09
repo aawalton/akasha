@@ -9,7 +9,7 @@ export const endsOfMagic0073Chapter58ConflictingOpinions = {
   position: 73,
   ownLength: 2924,
   ownProgress: 2924,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:36.356Z",
   publishedAt: "2026-02-23",
   externalLink:

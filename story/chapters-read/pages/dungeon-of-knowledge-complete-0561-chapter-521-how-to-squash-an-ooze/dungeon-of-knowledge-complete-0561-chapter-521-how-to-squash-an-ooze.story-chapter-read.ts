@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0561Chapter521HowToSquashAnOoze = {
   position: 561,
   ownLength: 2610,
   ownProgress: 2610,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:23.338Z",
   publishedAt: "2026-01-29",
   externalLink:

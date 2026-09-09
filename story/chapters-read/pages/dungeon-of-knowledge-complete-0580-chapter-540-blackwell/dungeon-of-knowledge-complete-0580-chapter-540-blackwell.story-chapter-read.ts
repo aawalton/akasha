@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0580Chapter540Blackwell = {
   position: 580,
   ownLength: 4893,
   ownProgress: 4893,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:05.675Z",
   publishedAt: "2026-02-17",
   externalLink:

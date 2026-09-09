@@ -9,7 +9,7 @@ export const endsOfMagic0014Book5Epilogue = {
   position: 14,
   ownLength: 2322,
   ownProgress: 2322,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:43.100Z",
   publishedAt: "2025-01-01",
   externalLink:

@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0606Chapter563TheLairOfTheDracolich = {
   story: "dungeon-of-knowledge-complete",
   position: 606,
   ownLength: 3621,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-12",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3143659/chapter-563-the-lair-of-the-dracolich",

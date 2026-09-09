@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00033DonTTellMe = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 3,
   ownLength: 2239,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387587/3-dont-tell-me",

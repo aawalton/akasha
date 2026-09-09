@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0521Chapter483AliSDaringPlan = {
   position: 521,
   ownLength: 2298,
   ownProgress: 2298,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:56.342Z",
   publishedAt: "2025-12-22",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0527Chapter488TheDevastator = {
   position: 527,
   ownLength: 2409,
   ownProgress: 2409,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:09.430Z",
   publishedAt: "2025-12-27",
   externalLink:

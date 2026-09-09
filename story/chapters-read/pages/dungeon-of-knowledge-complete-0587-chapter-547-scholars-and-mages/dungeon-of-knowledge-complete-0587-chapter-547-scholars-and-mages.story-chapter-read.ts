@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0587Chapter547ScholarsAndMages = {
   position: 587,
   ownLength: 8065,
   ownProgress: 8065,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:21.355Z",
   publishedAt: "2026-02-24",
   externalLink:

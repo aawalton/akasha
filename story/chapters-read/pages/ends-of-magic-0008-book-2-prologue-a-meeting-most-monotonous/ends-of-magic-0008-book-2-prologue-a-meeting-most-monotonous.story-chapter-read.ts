@@ -9,7 +9,7 @@ export const endsOfMagic0008Book2PrologueAMeetingMostMonotonous = {
   position: 8,
   ownLength: 1785,
   ownProgress: 1785,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:31.379Z",
   publishedAt: "2023-01-01",
   externalLink:

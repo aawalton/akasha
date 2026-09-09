@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0559Chapter519GaldroneTetrad = {
   position: 559,
   ownLength: 3725,
   ownProgress: 3725,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:19.257Z",
   publishedAt: "2026-01-27",
   externalLink:

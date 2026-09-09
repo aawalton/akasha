@@ -9,7 +9,7 @@ export const endsOfMagic0051Chapter36HeartsOfDarkness = {
   position: 51,
   ownLength: 2764,
   ownProgress: 2764,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:53.978Z",
   publishedAt: "2025-12-04",
   externalLink:

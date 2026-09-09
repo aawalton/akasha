@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0528Chapter489ForgingAPlan = {
   position: 528,
   ownLength: 3468,
   ownProgress: 3468,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:11.577Z",
   publishedAt: "2025-12-28",
   externalLink:

@@ -9,7 +9,7 @@ export const endsOfMagic0023Chapter8CalmSeas = {
   position: 23,
   ownLength: 2770,
   ownProgress: 2770,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:00.454Z",
   publishedAt: "2025-07-31",
   externalLink:

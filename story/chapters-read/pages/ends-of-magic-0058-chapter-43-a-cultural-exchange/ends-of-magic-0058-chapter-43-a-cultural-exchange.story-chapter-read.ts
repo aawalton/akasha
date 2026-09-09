@@ -9,7 +9,7 @@ export const endsOfMagic0058Chapter43ACulturalExchange = {
   position: 58,
   ownLength: 2833,
   ownProgress: 2833,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:07.240Z",
   publishedAt: "2025-12-29",
   externalLink:

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003737TheManorSStoneA
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 37,
   ownLength: 1789,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-06",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3499133/37-the-manors-stone-angels",

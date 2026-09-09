@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0577Chapter537StaffOfTheArchmage = {
   position: 577,
   ownLength: 2967,
   ownProgress: 2967,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:59.401Z",
   publishedAt: "2026-02-14",
   externalLink:

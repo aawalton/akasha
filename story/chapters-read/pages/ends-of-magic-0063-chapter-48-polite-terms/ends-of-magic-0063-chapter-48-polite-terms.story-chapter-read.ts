@@ -9,7 +9,7 @@ export const endsOfMagic0063Chapter48PoliteTerms = {
   position: 63,
   ownLength: 2812,
   ownProgress: 2812,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:17.157Z",
   publishedAt: "2026-01-15",
   externalLink:

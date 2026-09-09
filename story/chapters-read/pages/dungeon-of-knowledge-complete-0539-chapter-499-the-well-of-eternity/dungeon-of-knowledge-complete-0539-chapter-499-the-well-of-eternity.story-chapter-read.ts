@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0539Chapter499TheWellOfEternity = {
   position: 539,
   ownLength: 4965,
   ownProgress: 4965,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:35.350Z",
   publishedAt: "2026-01-07",
   externalLink:

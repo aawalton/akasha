@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0540Chapter500HiddenChapel = {
   position: 540,
   ownLength: 2178,
   ownProgress: 2178,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:37.850Z",
   publishedAt: "2026-01-08",
   externalLink:

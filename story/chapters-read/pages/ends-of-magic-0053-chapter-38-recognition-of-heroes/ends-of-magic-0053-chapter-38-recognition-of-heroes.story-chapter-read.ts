@@ -9,7 +9,7 @@ export const endsOfMagic0053Chapter38RecognitionOfHeroes = {
   position: 53,
   ownLength: 2898,
   ownProgress: 2898,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:57.718Z",
   publishedAt: "2025-12-11",
   externalLink:

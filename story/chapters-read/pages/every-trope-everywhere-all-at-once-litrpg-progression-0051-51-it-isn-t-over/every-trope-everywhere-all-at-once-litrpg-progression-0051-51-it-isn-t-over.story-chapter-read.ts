@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005151ItIsnTOver = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 51,
   ownLength: 1664,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3563980/51-it-isnt-over",

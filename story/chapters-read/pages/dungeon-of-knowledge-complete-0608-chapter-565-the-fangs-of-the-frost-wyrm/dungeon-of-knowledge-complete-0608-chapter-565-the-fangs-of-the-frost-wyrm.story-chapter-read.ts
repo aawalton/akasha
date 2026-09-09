@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0608Chapter565TheFangsOfTheFrostWyrm = {
   story: "dungeon-of-knowledge-complete",
   position: 608,
   ownLength: 2978,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3147367/chapter-565-the-fangs-of-the-frost-wyrm",

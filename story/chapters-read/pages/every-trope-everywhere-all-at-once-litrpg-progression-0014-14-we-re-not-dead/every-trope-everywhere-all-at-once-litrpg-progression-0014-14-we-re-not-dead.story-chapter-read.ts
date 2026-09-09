@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001414WeReNotDead = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 14,
   ownLength: 1241,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3411771/14-were-not-dead",

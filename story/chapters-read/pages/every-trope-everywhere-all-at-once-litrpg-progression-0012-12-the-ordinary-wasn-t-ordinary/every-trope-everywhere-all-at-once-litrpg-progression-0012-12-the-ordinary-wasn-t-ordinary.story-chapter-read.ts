@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001212TheOrdinaryWasn
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 12,
   ownLength: 1813,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-16",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3401946/12-the-ordinary-wasnt-ordinary",

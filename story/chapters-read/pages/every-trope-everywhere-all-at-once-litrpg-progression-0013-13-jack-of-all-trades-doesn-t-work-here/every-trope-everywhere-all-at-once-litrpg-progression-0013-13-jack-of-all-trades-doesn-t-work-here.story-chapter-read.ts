@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001313JackOfAllTrades
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 13,
   ownLength: 1672,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-17",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3405824/13-jack-of-all-trades-doesnt-work-here",

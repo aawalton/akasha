@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0543Chapter503AGift = {
   position: 543,
   ownLength: 2467,
   ownProgress: 2467,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:44.126Z",
   publishedAt: "2026-01-11",
   externalLink:

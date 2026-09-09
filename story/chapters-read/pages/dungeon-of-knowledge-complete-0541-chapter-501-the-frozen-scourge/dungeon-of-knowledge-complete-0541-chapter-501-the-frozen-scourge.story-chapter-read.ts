@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0541Chapter501TheFrozenScourge = {
   position: 541,
   ownLength: 3954,
   ownProgress: 3954,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:39.870Z",
   publishedAt: "2026-01-09",
   externalLink:

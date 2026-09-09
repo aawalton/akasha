@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0597Chapter556AssemblingTheAwayTeam = {
   position: 597,
   ownLength: 5041,
   ownProgress: 5041,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:16.724Z",
   publishedAt: "2026-03-05",
   externalLink:

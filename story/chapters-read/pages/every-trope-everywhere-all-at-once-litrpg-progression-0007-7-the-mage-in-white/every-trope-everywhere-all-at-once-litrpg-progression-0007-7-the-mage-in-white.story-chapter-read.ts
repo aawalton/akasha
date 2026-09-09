@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00077TheMageInWhite =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 7,
   ownLength: 1457,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3388222/7-the-mage-in-white",

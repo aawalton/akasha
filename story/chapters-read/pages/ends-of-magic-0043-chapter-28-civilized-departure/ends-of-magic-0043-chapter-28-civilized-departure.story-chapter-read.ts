@@ -9,7 +9,7 @@ export const endsOfMagic0043Chapter28CivilizedDeparture = {
   position: 43,
   ownLength: 2912,
   ownProgress: 2912,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:38.708Z",
   publishedAt: "2025-11-06",
   externalLink:

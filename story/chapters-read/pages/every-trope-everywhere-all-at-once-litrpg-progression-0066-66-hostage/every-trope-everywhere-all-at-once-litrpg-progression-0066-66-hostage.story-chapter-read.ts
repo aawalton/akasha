@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006666Hostage = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 66,
   ownLength: 1904,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-06",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3641864/66-hostage",

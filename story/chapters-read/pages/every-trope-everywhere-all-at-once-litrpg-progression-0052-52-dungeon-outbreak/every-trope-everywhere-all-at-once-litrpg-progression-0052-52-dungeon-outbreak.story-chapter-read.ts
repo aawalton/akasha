@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005252DungeonOutbreak
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 52,
   ownLength: 1901,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3568040/52-dungeon-outbreak",

@@ -9,7 +9,7 @@ export const endsOfMagic0027Chapter12VerdantPlains = {
   position: 27,
   ownLength: 2858,
   ownProgress: 2858,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:08.299Z",
   publishedAt: "2025-08-14",
   externalLink:

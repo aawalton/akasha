@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007373TheirSoulsAfter
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 73,
   ownLength: 1609,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-16",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3683105/73-their-souls-after-death",

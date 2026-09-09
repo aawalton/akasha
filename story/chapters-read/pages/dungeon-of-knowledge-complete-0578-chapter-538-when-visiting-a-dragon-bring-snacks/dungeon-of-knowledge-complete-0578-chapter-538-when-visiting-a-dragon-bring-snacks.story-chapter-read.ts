@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0578Chapter538WhenVisitingADragonBringSna
   position: 578,
   ownLength: 3463,
   ownProgress: 3463,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:01.360Z",
   publishedAt: "2026-02-15",
   externalLink:

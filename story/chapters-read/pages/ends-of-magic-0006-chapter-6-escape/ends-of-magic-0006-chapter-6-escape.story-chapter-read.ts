@@ -9,7 +9,7 @@ export const endsOfMagic0006Chapter6Escape = {
   position: 6,
   ownLength: 2181,
   ownProgress: 2181,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:27.534Z",
   publishedAt: "2022-08-19",
   externalLink:

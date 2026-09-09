@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0536Chapter496DarkAndTormentedSouls = {
   position: 536,
   ownLength: 3684,
   ownProgress: 3684,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:28.701Z",
   publishedAt: "2026-01-04",
   externalLink:

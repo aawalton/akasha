@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0581Chapter541CelestialRelicOfABygoneAge 
   position: 581,
   ownLength: 4535,
   ownProgress: 4535,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:08.277Z",
   publishedAt: "2026-02-18",
   externalLink:

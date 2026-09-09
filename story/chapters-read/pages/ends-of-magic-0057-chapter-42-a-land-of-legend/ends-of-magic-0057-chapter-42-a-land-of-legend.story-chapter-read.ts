@@ -9,7 +9,7 @@ export const endsOfMagic0057Chapter42ALandOfLegend = {
   position: 57,
   ownLength: 2899,
   ownProgress: 2899,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:05.293Z",
   publishedAt: "2025-12-25",
   externalLink:

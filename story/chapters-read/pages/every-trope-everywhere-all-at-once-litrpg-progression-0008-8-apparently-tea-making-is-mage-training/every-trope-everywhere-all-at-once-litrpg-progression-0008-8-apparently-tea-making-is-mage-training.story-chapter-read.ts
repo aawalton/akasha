@@ -9,7 +9,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00088ApparentlyTeaMak
     story: "every-trope-everywhere-all-at-once-litrpg-progression",
     position: 8,
     ownLength: 1971,
-    unitSlug: "words",
+    unit: "words",
     publishedAt: "2026-05-12",
     externalLink:
       "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3388367/8-apparently-tea-making-is-mage-training",

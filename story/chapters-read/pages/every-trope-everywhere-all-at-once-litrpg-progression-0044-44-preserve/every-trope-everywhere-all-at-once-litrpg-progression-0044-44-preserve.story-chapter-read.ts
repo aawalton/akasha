@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004444Preserve = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 44,
   ownLength: 2043,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-13",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3531975/44-preserve",

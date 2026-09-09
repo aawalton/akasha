@@ -9,7 +9,7 @@ export const endsOfMagic0069Chapter54ClaimingGlory = {
   position: 69,
   ownLength: 2894,
   ownProgress: 2894,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:28.671Z",
   publishedAt: "2026-02-05",
   externalLink:

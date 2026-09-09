@@ -9,7 +9,7 @@ export const endsOfMagic0018Chapter3AncientInsights = {
   position: 18,
   ownLength: 2791,
   ownProgress: 2791,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:50.648Z",
   publishedAt: "2025-07-14",
   externalLink:

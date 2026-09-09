@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002727TheSuspiciously
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 27,
   ownLength: 1995,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3451451/27-the-suspiciously-empty-sky",

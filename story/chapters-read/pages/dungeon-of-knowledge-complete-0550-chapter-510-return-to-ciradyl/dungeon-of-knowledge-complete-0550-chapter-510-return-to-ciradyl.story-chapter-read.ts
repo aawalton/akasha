@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0550Chapter510ReturnToCiradyl = {
   position: 550,
   ownLength: 2883,
   ownProgress: 2883,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:59.489Z",
   publishedAt: "2026-01-18",
   externalLink:

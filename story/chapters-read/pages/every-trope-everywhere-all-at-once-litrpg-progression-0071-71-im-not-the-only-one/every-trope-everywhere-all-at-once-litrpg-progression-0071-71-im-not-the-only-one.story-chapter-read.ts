@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007171ImNotTheOnlyOne
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 71,
   ownLength: 1939,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3673609/71-im-not-the-only-one",

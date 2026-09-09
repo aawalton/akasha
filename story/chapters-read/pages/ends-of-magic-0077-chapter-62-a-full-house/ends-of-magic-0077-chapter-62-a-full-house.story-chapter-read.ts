@@ -9,7 +9,7 @@ export const endsOfMagic0077Chapter62AFullHouse = {
   position: 77,
   ownLength: 2700,
   ownProgress: 302,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-09",
   externalLink:
     "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3134265/chapter-62-a-full-house",

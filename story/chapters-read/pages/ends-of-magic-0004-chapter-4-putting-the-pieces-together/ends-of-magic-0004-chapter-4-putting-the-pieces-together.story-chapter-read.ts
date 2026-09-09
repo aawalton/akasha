@@ -9,7 +9,7 @@ export const endsOfMagic0004Chapter4PuttingThePiecesTogether = {
   position: 4,
   ownLength: 1895,
   ownProgress: 1895,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:23.781Z",
   publishedAt: "2022-08-18",
   externalLink:

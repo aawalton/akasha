@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005656SilasAndCael = 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 56,
   ownLength: 1495,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3587204/56-silas-and-cael",

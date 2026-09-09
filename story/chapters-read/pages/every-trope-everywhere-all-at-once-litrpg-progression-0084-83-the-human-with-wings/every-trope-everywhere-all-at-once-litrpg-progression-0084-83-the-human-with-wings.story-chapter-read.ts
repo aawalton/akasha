@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008483TheHumanWithWin
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 84,
   ownLength: 2111,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-06",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3779051/83-the-human-with-wings",

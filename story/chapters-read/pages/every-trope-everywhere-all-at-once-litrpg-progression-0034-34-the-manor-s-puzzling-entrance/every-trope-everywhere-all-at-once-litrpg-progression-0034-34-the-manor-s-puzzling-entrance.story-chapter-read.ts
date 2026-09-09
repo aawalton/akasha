@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003434TheManorSPuzzli
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 34,
   ownLength: 2078,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3485241/34-the-manors-puzzling-entrance",

@@ -9,7 +9,7 @@ export const endsOfMagic0002Chapter2ANewSystem = {
   position: 2,
   ownLength: 2359,
   ownProgress: 2359,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:19.991Z",
   publishedAt: "2022-08-16",
   externalLink:

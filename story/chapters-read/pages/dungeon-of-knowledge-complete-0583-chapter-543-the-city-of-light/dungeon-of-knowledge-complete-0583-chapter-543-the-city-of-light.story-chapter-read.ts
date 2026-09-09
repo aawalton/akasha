@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0583Chapter543TheCityOfLight = {
   position: 583,
   ownLength: 4267,
   ownProgress: 4267,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:12.548Z",
   publishedAt: "2026-02-20",
   externalLink:

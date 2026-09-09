@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0582Chapter542TheFlightOfTheDireBear = {
   position: 582,
   ownLength: 3997,
   ownProgress: 3997,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:10.363Z",
   publishedAt: "2026-02-19",
   externalLink:

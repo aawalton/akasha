@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0547Chapter507IntoTheDangerZone = {
   position: 547,
   ownLength: 5342,
   ownProgress: 5342,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:52.383Z",
   publishedAt: "2026-01-15",
   externalLink:

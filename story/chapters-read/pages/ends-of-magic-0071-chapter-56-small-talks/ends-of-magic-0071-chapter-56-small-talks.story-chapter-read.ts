@@ -9,7 +9,7 @@ export const endsOfMagic0071Chapter56SmallTalks = {
   position: 71,
   ownLength: 2960,
   ownProgress: 2960,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:32.601Z",
   publishedAt: "2026-02-16",
   externalLink:

@@ -9,7 +9,7 @@ export const endsOfMagic0062Chapter47UnfriendlySkies = {
   position: 62,
   ownLength: 3124,
   ownProgress: 3124,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:15.244Z",
   publishedAt: "2026-01-12",
   externalLink:

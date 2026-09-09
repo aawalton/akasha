@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0579Chapter539DalMohra = {
   position: 579,
   ownLength: 3734,
   ownProgress: 3734,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:03.487Z",
   publishedAt: "2026-02-16",
   externalLink:

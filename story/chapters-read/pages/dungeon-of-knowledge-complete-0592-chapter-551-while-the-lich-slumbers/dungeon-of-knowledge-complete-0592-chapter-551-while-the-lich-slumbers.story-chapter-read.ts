@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0592Chapter551WhileTheLichSlumbers = {
   position: 592,
   ownLength: 2096,
   ownProgress: 2096,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:32.756Z",
   publishedAt: "2026-02-28",
   externalLink:

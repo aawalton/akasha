@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0545Chapter505AShiftInDirection = {
   position: 545,
   ownLength: 3052,
   ownProgress: 3052,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:48.334Z",
   publishedAt: "2026-01-13",
   externalLink:

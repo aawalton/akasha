@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004242WhiteRocksOrSom
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 42,
   ownLength: 1650,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3522225/42-white-rocks-or-something-else",

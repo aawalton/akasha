@@ -9,7 +9,7 @@ export const endsOfMagic0024Chapter9DesolateCoasts = {
   position: 24,
   ownLength: 2792,
   ownProgress: 2792,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:02.372Z",
   publishedAt: "2025-08-04",
   externalLink:

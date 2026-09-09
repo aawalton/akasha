@@ -9,7 +9,7 @@ export const endsOfMagic0066Chapter51AMeetingOfPowers = {
   position: 66,
   ownLength: 2703,
   ownProgress: 2703,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:22.913Z",
   publishedAt: "2026-01-26",
   externalLink:

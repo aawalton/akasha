@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00099SharedWarmth = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 9,
   ownLength: 1751,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-14",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3393016/9-shared-warmth",

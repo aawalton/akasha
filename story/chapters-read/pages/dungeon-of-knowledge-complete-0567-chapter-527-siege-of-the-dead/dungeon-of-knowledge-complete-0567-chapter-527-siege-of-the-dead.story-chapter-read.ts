@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0567Chapter527SiegeOfTheDead = {
   position: 567,
   ownLength: 3781,
   ownProgress: 3781,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:36.838Z",
   publishedAt: "2026-02-04",
   externalLink:

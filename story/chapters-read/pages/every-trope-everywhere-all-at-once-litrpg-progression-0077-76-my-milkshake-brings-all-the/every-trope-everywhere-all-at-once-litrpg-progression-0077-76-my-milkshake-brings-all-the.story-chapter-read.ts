@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007776MyMilkshakeBrin
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 77,
   ownLength: 2239,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3713288/76-my-milkshake-brings-all-the",

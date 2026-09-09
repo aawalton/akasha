@@ -9,7 +9,7 @@ export const endsOfMagic0030Chapter15VaultOfAdamant = {
   position: 30,
   ownLength: 2752,
   ownProgress: 2752,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:14.002Z",
   publishedAt: "2025-08-25",
   externalLink:

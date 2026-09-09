@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0530Chapter491ABrushWithDeath = {
   position: 530,
   ownLength: 3987,
   ownProgress: 3987,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:16.059Z",
   publishedAt: "2025-12-30",
   externalLink:

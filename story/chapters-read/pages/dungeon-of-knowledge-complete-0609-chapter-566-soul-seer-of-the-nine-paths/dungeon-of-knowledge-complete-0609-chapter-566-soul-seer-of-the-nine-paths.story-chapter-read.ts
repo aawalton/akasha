@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0609Chapter566SoulSeerOfTheNinePaths = {
   story: "dungeon-of-knowledge-complete",
   position: 609,
   ownLength: 2796,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-14",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3151152/chapter-566-soul-seer-of-the-nine-paths",

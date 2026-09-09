@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007272FaceHim = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 72,
   ownLength: 1825,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3678246/72-face-him",

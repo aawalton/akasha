@@ -9,7 +9,7 @@ export const endsOfMagic0060Chapter45SmartSystems = {
   position: 60,
   ownLength: 2879,
   ownProgress: 2879,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:11.353Z",
   publishedAt: "2026-01-05",
   externalLink:

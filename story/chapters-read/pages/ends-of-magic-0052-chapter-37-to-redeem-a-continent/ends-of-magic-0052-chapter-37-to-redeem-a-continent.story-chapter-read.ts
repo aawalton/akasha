@@ -9,7 +9,7 @@ export const endsOfMagic0052Chapter37ToRedeemAContinent = {
   position: 52,
   ownLength: 2798,
   ownProgress: 2798,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:55.777Z",
   publishedAt: "2025-12-08",
   externalLink:

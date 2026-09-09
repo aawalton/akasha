@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0564Chapter524BootToTheHead = {
   position: 564,
   ownLength: 4919,
   ownProgress: 4919,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:29.497Z",
   publishedAt: "2026-02-01",
   externalLink:

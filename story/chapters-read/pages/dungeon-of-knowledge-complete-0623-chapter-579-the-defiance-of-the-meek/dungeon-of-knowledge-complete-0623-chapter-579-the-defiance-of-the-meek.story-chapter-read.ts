@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0623Chapter579TheDefianceOfTheMeek = {
   story: "dungeon-of-knowledge-complete",
   position: 623,
   ownLength: 4643,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-22",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3180064/chapter-579-the-defiance-of-the-meek",

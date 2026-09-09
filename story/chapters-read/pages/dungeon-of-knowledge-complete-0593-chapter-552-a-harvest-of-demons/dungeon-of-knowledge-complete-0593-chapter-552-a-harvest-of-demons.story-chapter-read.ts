@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0593Chapter552AHarvestOfDemons = {
   position: 593,
   ownLength: 3549,
   ownProgress: 3549,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:34.825Z",
   publishedAt: "2026-03-01",
   externalLink:

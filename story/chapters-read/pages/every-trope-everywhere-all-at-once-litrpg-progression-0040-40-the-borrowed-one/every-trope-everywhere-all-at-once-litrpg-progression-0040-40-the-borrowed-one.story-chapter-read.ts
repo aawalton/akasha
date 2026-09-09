@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004040TheBorrowedOne 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 40,
   ownLength: 1586,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-09",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3511930/40-the-borrowed-one",

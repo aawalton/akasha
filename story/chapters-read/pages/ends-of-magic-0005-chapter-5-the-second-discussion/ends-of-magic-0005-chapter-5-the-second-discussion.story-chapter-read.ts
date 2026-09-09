@@ -9,7 +9,7 @@ export const endsOfMagic0005Chapter5TheSecondDiscussion = {
   position: 5,
   ownLength: 4557,
   ownProgress: 4557,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:25.589Z",
   publishedAt: "2022-08-18",
   externalLink:

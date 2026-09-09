@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0566Chapter526JustInTime = {
   position: 566,
   ownLength: 3876,
   ownProgress: 3876,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:33.686Z",
   publishedAt: "2026-02-03",
   externalLink:

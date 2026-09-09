@@ -9,7 +9,7 @@ export const endsOfMagic0048Chapter33SkiesOfDarkness = {
   position: 48,
   ownLength: 2775,
   ownProgress: 2775,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:48.084Z",
   publishedAt: "2025-11-24",
   externalLink:

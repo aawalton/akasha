@@ -9,7 +9,7 @@ export const endsOfMagic0001Chapter1ALongTrip = {
   position: 1,
   ownLength: 2016,
   ownProgress: 2016,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:18.210Z",
   publishedAt: "2022-08-15",
   externalLink:

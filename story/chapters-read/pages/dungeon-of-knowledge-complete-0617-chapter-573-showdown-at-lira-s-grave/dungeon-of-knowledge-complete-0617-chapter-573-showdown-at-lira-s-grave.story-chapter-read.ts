@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0617Chapter573ShowdownAtLiraSGrave = {
   story: "dungeon-of-knowledge-complete",
   position: 617,
   ownLength: 4044,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-19",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3169228/chapter-573-showdown-at-liras-grave",

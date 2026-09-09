@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0596Chapter555StealthArmy = {
   position: 596,
   ownLength: 3419,
   ownProgress: 3419,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:14.402Z",
   publishedAt: "2026-03-04",
   externalLink:

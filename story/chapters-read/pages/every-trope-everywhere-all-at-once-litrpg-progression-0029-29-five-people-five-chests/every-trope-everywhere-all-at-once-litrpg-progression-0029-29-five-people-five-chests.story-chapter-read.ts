@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002929FivePeopleFiveC
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 29,
   ownLength: 2270,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3462759/29-five-people-five-chests",

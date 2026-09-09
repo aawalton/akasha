@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0604Chapter561RushingTheCrypt = {
   story: "dungeon-of-knowledge-complete",
   position: 604,
   ownLength: 3337,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-10",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3136579/chapter-561-rushing-the-crypt",

@@ -9,7 +9,7 @@ export const endsOfMagic0074Chapter59DawnSConcord = {
   position: 74,
   ownLength: 2800,
   ownProgress: 2800,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:38.260Z",
   publishedAt: "2026-02-26",
   externalLink:

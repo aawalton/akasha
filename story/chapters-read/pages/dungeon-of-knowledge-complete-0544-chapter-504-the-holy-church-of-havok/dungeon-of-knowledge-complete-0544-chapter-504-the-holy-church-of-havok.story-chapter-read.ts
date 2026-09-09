@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0544Chapter504TheHolyChurchOfHavok = {
   position: 544,
   ownLength: 4488,
   ownProgress: 4488,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:46.187Z",
   publishedAt: "2026-01-12",
   externalLink:

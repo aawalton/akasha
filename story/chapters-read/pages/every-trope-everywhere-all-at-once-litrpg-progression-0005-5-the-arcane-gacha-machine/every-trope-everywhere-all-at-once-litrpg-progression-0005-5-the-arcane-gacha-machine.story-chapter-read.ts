@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00055TheArcaneGachaMa
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 5,
   ownLength: 1822,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3387943/5-the-arcane-gacha-machine",

@@ -9,7 +9,7 @@ export const endsOfMagic0064Chapter49StagingForWar = {
   position: 64,
   ownLength: 2837,
   ownProgress: 2837,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:19.079Z",
   publishedAt: "2026-01-19",
   externalLink:

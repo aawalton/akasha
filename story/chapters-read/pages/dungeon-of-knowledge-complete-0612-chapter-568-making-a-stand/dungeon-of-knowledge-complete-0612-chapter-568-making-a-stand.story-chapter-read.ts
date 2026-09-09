@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0612Chapter568MakingAStand = {
   story: "dungeon-of-knowledge-complete",
   position: 612,
   ownLength: 6419,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-16",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3157955/chapter-568-making-a-stand",

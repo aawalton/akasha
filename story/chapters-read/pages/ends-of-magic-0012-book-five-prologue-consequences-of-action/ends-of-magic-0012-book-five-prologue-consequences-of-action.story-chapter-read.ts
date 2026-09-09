@@ -9,7 +9,7 @@ export const endsOfMagic0012BookFivePrologueConsequencesOfAction = {
   position: 12,
   ownLength: 2683,
   ownProgress: 2683,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:39.224Z",
   publishedAt: "2024-05-23",
   externalLink:

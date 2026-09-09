@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002323TheGrandSkycurr
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 23,
   ownLength: 1697,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3441752/23-the-grand-skycurrent-race",

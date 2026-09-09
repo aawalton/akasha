@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004848HowToTrainYourD
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 48,
   ownLength: 1477,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3549457/48-how-to-train-your-dragon",

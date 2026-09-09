@@ -9,7 +9,7 @@ export const endsOfMagic0037Chapter22FutureTasks = {
   position: 37,
   ownLength: 2782,
   ownProgress: 2782,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:27.289Z",
   publishedAt: "2025-10-16",
   externalLink:

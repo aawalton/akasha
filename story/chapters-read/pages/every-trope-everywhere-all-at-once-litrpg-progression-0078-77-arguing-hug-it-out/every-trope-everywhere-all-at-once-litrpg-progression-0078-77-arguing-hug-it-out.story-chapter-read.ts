@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007877ArguingHugItOut
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 78,
   ownLength: 2003,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-24",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3721920/77-arguing-hug-it-out",

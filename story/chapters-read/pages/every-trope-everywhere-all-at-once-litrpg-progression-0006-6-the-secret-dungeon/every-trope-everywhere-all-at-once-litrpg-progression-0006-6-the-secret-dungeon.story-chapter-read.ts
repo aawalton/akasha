@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00066TheSecretDungeon
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 6,
   ownLength: 1682,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3388059/6-the-secret-dungeon",

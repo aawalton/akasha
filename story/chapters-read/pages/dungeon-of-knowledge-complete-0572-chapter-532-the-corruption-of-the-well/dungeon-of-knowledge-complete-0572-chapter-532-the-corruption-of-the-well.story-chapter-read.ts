@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0572Chapter532TheCorruptionOfTheWell = {
   position: 572,
   ownLength: 4583,
   ownProgress: 4583,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:48.572Z",
   publishedAt: "2026-02-09",
   externalLink:

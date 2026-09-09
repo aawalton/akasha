@@ -9,7 +9,7 @@ export const endsOfMagic0050Chapter35ChainsOfCorruption = {
   position: 50,
   ownLength: 3021,
   ownProgress: 3021,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:52.059Z",
   publishedAt: "2025-12-01",
   externalLink:

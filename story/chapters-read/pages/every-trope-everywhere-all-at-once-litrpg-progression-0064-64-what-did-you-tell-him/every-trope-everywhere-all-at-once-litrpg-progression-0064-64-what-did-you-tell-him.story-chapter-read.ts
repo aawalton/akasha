@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006464WhatDidYouTellH
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 64,
   ownLength: 1641,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3628246/64-what-did-you-tell-him",

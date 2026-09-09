@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0553Chapter513CalhedronPart2 = {
   position: 553,
   ownLength: 2158,
   ownProgress: 2158,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:06.066Z",
   publishedAt: "2026-01-21",
   externalLink:

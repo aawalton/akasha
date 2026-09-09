@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression008584AlleneTheDragon
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 85,
   ownLength: 1844,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-07",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3783466/84-allene-the-dragonrider",

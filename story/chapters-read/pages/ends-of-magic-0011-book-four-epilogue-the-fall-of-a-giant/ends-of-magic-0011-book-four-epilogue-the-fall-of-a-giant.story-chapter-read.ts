@@ -9,7 +9,7 @@ export const endsOfMagic0011BookFourEpilogueTheFallOfAGiant = {
   position: 11,
   ownLength: 3837,
   ownProgress: 3837,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:37.137Z",
   publishedAt: "2024-03-18",
   externalLink:

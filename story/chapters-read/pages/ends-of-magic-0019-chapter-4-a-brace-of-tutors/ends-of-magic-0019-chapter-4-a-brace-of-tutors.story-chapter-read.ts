@@ -9,7 +9,7 @@ export const endsOfMagic0019Chapter4ABraceOfTutors = {
   position: 19,
   ownLength: 2799,
   ownProgress: 2799,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:52.587Z",
   publishedAt: "2025-07-17",
   externalLink:

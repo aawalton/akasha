@@ -9,7 +9,7 @@ export const endsOfMagic0065Chapter50AShowOfVanity = {
   position: 65,
   ownLength: 3347,
   ownProgress: 3347,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:20.990Z",
   publishedAt: "2026-01-22",
   externalLink:

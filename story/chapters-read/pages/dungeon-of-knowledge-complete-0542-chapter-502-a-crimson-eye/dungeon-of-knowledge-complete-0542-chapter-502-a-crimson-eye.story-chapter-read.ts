@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0542Chapter502ACrimsonEye = {
   position: 542,
   ownLength: 3423,
   ownProgress: 3423,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:42.003Z",
   publishedAt: "2026-01-10",
   externalLink:

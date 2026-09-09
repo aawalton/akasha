@@ -6,7 +6,7 @@ export const emieAscended0056Chapter55 = {
   slug: "emie-ascended-0056-chapter-55",
   position: 56,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3935889",
   source: "royal-road",
   title: "Chapter 55",

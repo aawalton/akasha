@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0573Chapter533TheArchmage = {
   position: 573,
   ownLength: 5129,
   ownProgress: 5129,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:50.592Z",
   publishedAt: "2026-02-10",
   externalLink:

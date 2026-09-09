@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0575Chapter535ToPeerIntoTheEldritchNight 
   position: 575,
   ownLength: 2549,
   ownProgress: 2549,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:55.155Z",
   publishedAt: "2026-02-12",
   externalLink:

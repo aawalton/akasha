@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006868AureliusTheBorr
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 68,
   ownLength: 1800,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3650763/68-aurelius-the-borrowed-one",

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0523Chapter485AToolForSmiting = {
   position: 523,
   ownLength: 2743,
   ownProgress: 2743,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:00.373Z",
   publishedAt: "2025-12-24",
   externalLink:

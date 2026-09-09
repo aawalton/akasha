@@ -9,7 +9,7 @@ export const endsOfMagic0046Chapter31AShadowUponTheSky = {
   position: 46,
   ownLength: 2739,
   ownProgress: 2739,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:44.389Z",
   publishedAt: "2025-11-17",
   externalLink:

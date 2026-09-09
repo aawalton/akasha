@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0531Chapter492TheFrozenApocalypseUnleashe
   position: 531,
   ownLength: 3849,
   ownProgress: 3849,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:18.058Z",
   publishedAt: "2025-12-31",
   externalLink:

@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0607Chapter564TheFearsomeRoarOfTheFrozenS
   story: "dungeon-of-knowledge-complete",
   position: 607,
   ownLength: 2718,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-12",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3143707/chapter-564-the-fearsome-roar-of-the-frozen-scourge",

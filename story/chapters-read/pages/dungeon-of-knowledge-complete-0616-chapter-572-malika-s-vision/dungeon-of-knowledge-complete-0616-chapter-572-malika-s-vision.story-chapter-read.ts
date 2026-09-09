@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0616Chapter572MalikaSVision = {
   story: "dungeon-of-knowledge-complete",
   position: 616,
   ownLength: 2406,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3165559/chapter-572-malikas-vision",

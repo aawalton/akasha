@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0613Chapter569TheThreeKings = {
   story: "dungeon-of-knowledge-complete",
   position: 613,
   ownLength: 3957,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-17",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3161907/chapter-569-the-three-kings",

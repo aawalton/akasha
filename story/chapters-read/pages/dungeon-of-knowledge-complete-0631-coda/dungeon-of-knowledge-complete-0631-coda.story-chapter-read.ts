@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0631Coda = {
   story: "dungeon-of-knowledge-complete",
   position: 631,
   ownLength: 2092,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3187790/coda",

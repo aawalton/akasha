@@ -9,7 +9,7 @@ export const endsOfMagic0049Chapter34ExcursionUntoRuin = {
   position: 49,
   ownLength: 2913,
   ownProgress: 2913,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:49.993Z",
   publishedAt: "2025-11-27",
   externalLink:

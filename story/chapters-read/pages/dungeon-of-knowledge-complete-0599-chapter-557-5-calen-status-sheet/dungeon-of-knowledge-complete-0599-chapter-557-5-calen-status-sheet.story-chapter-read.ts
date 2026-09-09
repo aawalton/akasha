@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0599Chapter5575CalenStatusSheet = {
   position: 599,
   ownLength: 1584,
   ownProgress: 460,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-06",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3123072/chapter-5575-calen-status-sheet",

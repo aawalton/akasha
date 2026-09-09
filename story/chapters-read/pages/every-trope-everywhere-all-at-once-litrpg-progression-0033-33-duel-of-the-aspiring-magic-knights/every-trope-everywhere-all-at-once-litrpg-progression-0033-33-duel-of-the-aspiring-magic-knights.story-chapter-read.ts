@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003333DuelOfTheAspiri
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 33,
   ownLength: 1840,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-02",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3480904/33-duel-of-the-aspiring-magic-knights",

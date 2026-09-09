@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0589Chapter5485AliandraStatusSheet = {
   position: 589,
   ownLength: 1943,
   ownProgress: 1943,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:32:25.979Z",
   publishedAt: "2026-02-25",
   externalLink:

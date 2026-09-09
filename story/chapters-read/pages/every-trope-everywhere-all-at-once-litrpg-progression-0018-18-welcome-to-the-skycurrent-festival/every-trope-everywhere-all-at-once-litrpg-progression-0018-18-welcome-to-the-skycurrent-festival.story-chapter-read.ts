@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001818WelcomeToTheSky
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 18,
   ownLength: 1747,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3425263/18-welcome-to-the-skycurrent-festival",

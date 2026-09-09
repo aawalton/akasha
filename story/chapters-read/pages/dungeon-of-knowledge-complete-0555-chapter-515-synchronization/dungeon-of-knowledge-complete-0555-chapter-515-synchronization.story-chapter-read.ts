@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0555Chapter515Synchronization = {
   position: 555,
   ownLength: 2841,
   ownProgress: 2841,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:10.334Z",
   publishedAt: "2026-01-23",
   externalLink:

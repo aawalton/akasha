@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0571Chapter531ARingForALament = {
   position: 571,
   ownLength: 5551,
   ownProgress: 5551,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:45.522Z",
   publishedAt: "2026-02-08",
   externalLink:

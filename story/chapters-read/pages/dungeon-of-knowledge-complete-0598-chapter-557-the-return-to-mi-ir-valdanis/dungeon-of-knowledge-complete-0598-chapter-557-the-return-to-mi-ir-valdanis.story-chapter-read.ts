@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0598Chapter557TheReturnToMiIrValdanis = {
   position: 598,
   ownLength: 3899,
   ownProgress: 3899,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:19.689Z",
   publishedAt: "2026-03-06",
   externalLink:

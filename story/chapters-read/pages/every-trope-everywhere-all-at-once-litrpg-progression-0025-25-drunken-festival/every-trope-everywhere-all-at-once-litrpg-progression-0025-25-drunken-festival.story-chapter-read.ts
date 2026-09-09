@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression002525DrunkenFestival
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 25,
   ownLength: 2000,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-26",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3446662/25-drunken-festival",

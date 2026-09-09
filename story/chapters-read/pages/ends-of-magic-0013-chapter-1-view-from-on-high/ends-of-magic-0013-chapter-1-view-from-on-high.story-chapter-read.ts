@@ -9,7 +9,7 @@ export const endsOfMagic0013Chapter1ViewFromOnHigh = {
   position: 13,
   ownLength: 2679,
   ownProgress: 2679,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:41.159Z",
   publishedAt: "2024-07-18",
   externalLink:

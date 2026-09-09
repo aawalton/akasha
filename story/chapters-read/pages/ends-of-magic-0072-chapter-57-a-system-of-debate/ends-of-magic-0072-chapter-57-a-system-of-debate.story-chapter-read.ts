@@ -9,7 +9,7 @@ export const endsOfMagic0072Chapter57ASystemOfDebate = {
   position: 72,
   ownLength: 2944,
   ownProgress: 2944,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:34.557Z",
   publishedAt: "2026-02-19",
   externalLink:

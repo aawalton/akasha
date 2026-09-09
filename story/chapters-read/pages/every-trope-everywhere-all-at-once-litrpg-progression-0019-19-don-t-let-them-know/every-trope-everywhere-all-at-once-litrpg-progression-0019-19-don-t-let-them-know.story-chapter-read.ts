@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001919DonTLetThemKnow
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 19,
   ownLength: 1524,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3429784/19-dont-let-them-know",

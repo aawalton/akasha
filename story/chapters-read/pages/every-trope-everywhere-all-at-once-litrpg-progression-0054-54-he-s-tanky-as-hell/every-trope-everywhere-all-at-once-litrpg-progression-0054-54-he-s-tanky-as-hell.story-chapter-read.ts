@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression005454HeSTankyAsHell 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 54,
   ownLength: 1723,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-23",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3577555/54-hes-tanky-as-hell",

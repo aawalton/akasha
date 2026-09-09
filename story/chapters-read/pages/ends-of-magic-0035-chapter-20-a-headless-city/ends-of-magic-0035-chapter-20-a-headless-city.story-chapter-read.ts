@@ -9,7 +9,7 @@ export const endsOfMagic0035Chapter20AHeadlessCity = {
   position: 35,
   ownLength: 2588,
   ownProgress: 2588,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:23.716Z",
   publishedAt: "2025-09-11",
   externalLink:

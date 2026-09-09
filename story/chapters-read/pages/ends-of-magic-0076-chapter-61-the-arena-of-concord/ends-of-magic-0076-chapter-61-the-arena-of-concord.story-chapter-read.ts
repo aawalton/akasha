@@ -9,7 +9,7 @@ export const endsOfMagic0076Chapter61TheArenaOfConcord = {
   position: 76,
   ownLength: 2887,
   ownProgress: 2887,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:42.251Z",
   publishedAt: "2026-03-05",
   externalLink:

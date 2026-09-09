@@ -9,7 +9,7 @@ export const endsOfMagic0021Chapter6TheTimeOfQuestors = {
   position: 21,
   ownLength: 2820,
   ownProgress: 2820,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:56.534Z",
   publishedAt: "2025-07-24",
   externalLink:

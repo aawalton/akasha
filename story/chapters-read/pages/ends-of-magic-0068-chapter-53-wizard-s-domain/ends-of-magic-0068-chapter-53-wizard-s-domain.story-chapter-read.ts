@@ -9,7 +9,7 @@ export const endsOfMagic0068Chapter53WizardSDomain = {
   position: 68,
   ownLength: 2921,
   ownProgress: 2921,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:26.744Z",
   publishedAt: "2026-02-02",
   externalLink:

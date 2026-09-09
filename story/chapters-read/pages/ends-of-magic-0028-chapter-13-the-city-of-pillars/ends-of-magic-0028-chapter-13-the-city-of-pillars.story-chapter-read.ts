@@ -9,7 +9,7 @@ export const endsOfMagic0028Chapter13TheCityOfPillars = {
   position: 28,
   ownLength: 2839,
   ownProgress: 2839,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:10.098Z",
   publishedAt: "2025-08-18",
   externalLink:

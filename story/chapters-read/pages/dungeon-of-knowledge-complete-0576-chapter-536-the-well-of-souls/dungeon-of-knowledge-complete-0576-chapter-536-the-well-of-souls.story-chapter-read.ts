@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0576Chapter536TheWellOfSouls = {
   position: 576,
   ownLength: 3110,
   ownProgress: 3110,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:57.338Z",
   publishedAt: "2026-02-13",
   externalLink:

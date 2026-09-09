@@ -9,7 +9,7 @@ export const endsOfMagic0015Book6PrologueTheAshenAccord = {
   position: 15,
   ownLength: 2039,
   ownProgress: 2039,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:44.886Z",
   publishedAt: "2025-05-29",
   externalLink:

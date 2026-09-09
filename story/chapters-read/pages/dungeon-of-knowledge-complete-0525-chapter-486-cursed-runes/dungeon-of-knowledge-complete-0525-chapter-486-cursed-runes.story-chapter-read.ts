@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0525Chapter486CursedRunes = {
   position: 525,
   ownLength: 2224,
   ownProgress: 2224,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:04.843Z",
   publishedAt: "2025-12-25",
   externalLink:

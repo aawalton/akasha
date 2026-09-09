@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0627Chapter583Vigil = {
   story: "dungeon-of-knowledge-complete",
   position: 627,
   ownLength: 1916,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-23",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3183732/chapter-583-vigil",

@@ -9,7 +9,7 @@ export const endsOfMagic0067Chapter52AShortVictoriousWar = {
   position: 67,
   ownLength: 3051,
   ownProgress: 3051,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:24.832Z",
   publishedAt: "2026-01-29",
   externalLink:

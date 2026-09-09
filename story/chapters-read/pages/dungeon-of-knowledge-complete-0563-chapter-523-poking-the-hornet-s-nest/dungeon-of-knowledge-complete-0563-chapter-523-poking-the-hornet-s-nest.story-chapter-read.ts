@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0563Chapter523PokingTheHornetSNest = {
   position: 563,
   ownLength: 3425,
   ownProgress: 3425,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:27.342Z",
   publishedAt: "2026-01-31",
   externalLink:

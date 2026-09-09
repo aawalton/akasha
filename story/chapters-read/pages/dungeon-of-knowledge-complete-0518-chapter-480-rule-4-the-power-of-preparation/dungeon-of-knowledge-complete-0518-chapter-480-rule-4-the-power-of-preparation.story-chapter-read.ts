@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0518Chapter480Rule4ThePowerOfPreparation 
   position: 518,
   ownLength: 4185,
   ownProgress: 4185,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:49.757Z",
   publishedAt: "2025-12-19",
   externalLink:

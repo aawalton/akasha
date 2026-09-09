@@ -9,7 +9,7 @@ export const endsOfMagic0010BookFourProloguePreparingForConquest = {
   position: 10,
   ownLength: 2064,
   ownProgress: 2064,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:35.206Z",
   publishedAt: "2024-05-15",
   externalLink:

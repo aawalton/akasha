@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0526Chapter487KitingDeath = {
   position: 526,
   ownLength: 2534,
   ownProgress: 2534,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:06.874Z",
   publishedAt: "2025-12-26",
   externalLink:

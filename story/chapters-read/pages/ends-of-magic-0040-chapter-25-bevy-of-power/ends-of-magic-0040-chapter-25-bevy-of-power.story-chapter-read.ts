@@ -9,7 +9,7 @@ export const endsOfMagic0040Chapter25BevyOfPower = {
   position: 40,
   ownLength: 2719,
   ownProgress: 2719,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:33.331Z",
   publishedAt: "2025-10-27",
   externalLink:

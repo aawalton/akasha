@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression006565HisSoul = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 65,
   ownLength: 1825,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3629399/65-his-soul",

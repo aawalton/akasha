@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression003535NotJustDecorati
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 35,
   ownLength: 1790,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3490099/35-not-just-decorations",

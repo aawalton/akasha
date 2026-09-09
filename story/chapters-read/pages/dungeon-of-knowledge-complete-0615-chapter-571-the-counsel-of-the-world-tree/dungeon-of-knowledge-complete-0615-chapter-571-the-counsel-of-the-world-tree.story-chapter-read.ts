@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0615Chapter571TheCounselOfTheWorldTree = 
   story: "dungeon-of-knowledge-complete",
   position: 615,
   ownLength: 2822,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3165514/chapter-571-the-counsel-of-the-world-tree",

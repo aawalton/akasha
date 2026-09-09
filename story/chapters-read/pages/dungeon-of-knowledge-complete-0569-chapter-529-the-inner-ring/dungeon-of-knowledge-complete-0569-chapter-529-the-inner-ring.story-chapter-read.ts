@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0569Chapter529TheInnerRing = {
   position: 569,
   ownLength: 4889,
   ownProgress: 4889,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:41.224Z",
   publishedAt: "2026-02-06",
   externalLink:

@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007070DoesNotPermit =
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 70,
   ownLength: 1915,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3660058/70-does-not-permit",

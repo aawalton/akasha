@@ -8,7 +8,7 @@ export const dungeonOfKnowledgeComplete0611Chapter567GodMaker = {
   story: "dungeon-of-knowledge-complete",
   position: 611,
   ownLength: 2956,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-15",
   externalLink:
     "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/3154391/chapter-567-god-maker",

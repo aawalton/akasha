@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0535Chapter495TheLichSEye = {
   position: 535,
   ownLength: 2652,
   ownProgress: 2652,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:26.629Z",
   publishedAt: "2026-01-03",
   externalLink:

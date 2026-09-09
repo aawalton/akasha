@@ -8,7 +8,7 @@ export const endsOfMagic0078Chapter63OpeningStatements = {
   story: "story-read/ends-of-magic",
   position: 78,
   ownLength: 2879,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-12",
   externalLink:
     "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3143448/chapter-63-opening-statements",

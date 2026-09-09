@@ -9,7 +9,7 @@ export const endsOfMagic0026Chapter11ABubbleOfFlame = {
   position: 26,
   ownLength: 3051,
   ownProgress: 3051,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:06.240Z",
   publishedAt: "2025-08-11",
   externalLink:

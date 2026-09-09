@@ -9,7 +9,7 @@ export const endsOfMagic0061Chapter46TheForsakenPeak = {
   position: 61,
   ownLength: 2919,
   ownProgress: 2919,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:13.299Z",
   publishedAt: "2026-01-07",
   externalLink:

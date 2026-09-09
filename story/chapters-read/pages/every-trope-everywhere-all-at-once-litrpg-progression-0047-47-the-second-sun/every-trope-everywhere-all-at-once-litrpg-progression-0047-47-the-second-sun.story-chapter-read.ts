@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004747TheSecondSun = 
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 47,
   ownLength: 1768,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3545116/47-the-second-sun",

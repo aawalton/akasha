@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression007675TheChiefsReward
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 76,
   ownLength: 1962,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-21",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3708509/75-the-chiefs-rewards",

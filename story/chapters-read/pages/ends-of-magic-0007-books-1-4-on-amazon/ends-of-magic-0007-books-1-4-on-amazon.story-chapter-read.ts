@@ -9,7 +9,7 @@ export const endsOfMagic0007Books14OnAmazon = {
   position: 7,
   ownLength: 645,
   ownProgress: 645,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:29.467Z",
   publishedAt: "2022-08-20",
   externalLink:

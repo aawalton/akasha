@@ -8,7 +8,7 @@ export const emieAscended0045Interlude2 = {
   story: "emie-ascended",
   position: 45,
   ownLength: 2580,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-28",
   externalLink:
     "https://www.royalroad.com/fiction/170179/emie-ascended/chapter/3735485/interlude-2",

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0570Chapter530NendirTheCorrupted = {
   position: 570,
   ownLength: 4041,
   ownProgress: 4041,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:43.502Z",
   publishedAt: "2026-02-07",
   externalLink:

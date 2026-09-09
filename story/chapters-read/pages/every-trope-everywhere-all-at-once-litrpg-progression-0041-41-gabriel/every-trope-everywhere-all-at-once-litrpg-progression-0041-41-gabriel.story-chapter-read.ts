@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression004141Gabriel = {
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 41,
   ownLength: 1835,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3517080/41-gabriel",

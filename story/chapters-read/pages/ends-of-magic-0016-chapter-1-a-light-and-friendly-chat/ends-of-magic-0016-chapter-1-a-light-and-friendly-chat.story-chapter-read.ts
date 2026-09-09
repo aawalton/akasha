@@ -9,7 +9,7 @@ export const endsOfMagic0016Chapter1ALightAndFriendlyChat = {
   position: 16,
   ownLength: 2813,
   ownProgress: 2813,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:46.799Z",
   publishedAt: "2025-07-07",
   externalLink:

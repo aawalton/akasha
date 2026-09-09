@@ -9,7 +9,7 @@ export const endsOfMagic0039Chapter24PlanningForPower = {
   position: 39,
   ownLength: 2788,
   ownProgress: 2788,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:31.160Z",
   publishedAt: "2025-10-23",
   externalLink:

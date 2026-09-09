@@ -9,7 +9,7 @@ export const endsOfMagic0042Chapter27BesiegedArrival = {
   position: 42,
   ownLength: 2953,
   ownProgress: 2953,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:36.922Z",
   publishedAt: "2025-11-03",
   externalLink:

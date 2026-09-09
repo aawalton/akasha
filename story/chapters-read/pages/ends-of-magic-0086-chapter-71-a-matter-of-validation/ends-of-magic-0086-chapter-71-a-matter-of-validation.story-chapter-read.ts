@@ -8,7 +8,7 @@ export const endsOfMagic0086Chapter71AMatterOfValidation = {
   story: "story-read/ends-of-magic",
   position: 86,
   ownLength: 2749,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-09",
   externalLink:
     "https://www.royalroad.com/fiction/57697/ends-of-magic/chapter/3251526/chapter-71-a-matter-of-validation",

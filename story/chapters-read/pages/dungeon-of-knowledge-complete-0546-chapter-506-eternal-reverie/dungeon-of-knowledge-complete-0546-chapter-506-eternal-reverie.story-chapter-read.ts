@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0546Chapter506EternalReverie = {
   position: 546,
   ownLength: 5883,
   ownProgress: 5883,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:50.252Z",
   publishedAt: "2026-01-14",
   externalLink:

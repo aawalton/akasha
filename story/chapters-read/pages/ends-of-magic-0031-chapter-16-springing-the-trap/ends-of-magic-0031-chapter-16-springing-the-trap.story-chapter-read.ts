@@ -9,7 +9,7 @@ export const endsOfMagic0031Chapter16SpringingTheTrap = {
   position: 31,
   ownLength: 2547,
   ownProgress: 2547,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:15.976Z",
   publishedAt: "2025-08-28",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0522Chapter484LightningLoot = {
   position: 522,
   ownLength: 2676,
   ownProgress: 2676,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:29:58.359Z",
   publishedAt: "2025-12-23",
   externalLink:

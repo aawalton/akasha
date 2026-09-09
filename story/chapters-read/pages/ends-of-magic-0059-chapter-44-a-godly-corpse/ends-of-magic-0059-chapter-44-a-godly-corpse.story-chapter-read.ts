@@ -9,7 +9,7 @@ export const endsOfMagic0059Chapter44AGodlyCorpse = {
   position: 59,
   ownLength: 2788,
   ownProgress: 2788,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:09:09.160Z",
   publishedAt: "2026-01-01",
   externalLink:

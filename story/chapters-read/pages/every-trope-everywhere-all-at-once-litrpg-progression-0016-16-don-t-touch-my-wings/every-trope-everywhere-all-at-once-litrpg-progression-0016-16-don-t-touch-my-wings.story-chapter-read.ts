@@ -8,7 +8,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression001616DonTTouchMyWing
   story: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 16,
   ownLength: 2432,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression/chapter/3419651/16-dont-touch-my-wings",

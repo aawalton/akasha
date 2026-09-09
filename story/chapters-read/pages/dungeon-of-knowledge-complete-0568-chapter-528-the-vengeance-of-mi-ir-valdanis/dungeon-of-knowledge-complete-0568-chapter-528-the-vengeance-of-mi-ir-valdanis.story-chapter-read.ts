@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0568Chapter528TheVengeanceOfMiIrValdanis 
   position: 568,
   ownLength: 5103,
   ownProgress: 5103,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:38.974Z",
   publishedAt: "2026-02-05",
   externalLink:

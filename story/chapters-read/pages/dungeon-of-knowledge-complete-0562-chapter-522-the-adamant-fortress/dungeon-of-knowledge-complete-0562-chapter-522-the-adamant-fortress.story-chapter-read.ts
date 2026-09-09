@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0562Chapter522TheAdamantFortress = {
   position: 562,
   ownLength: 2799,
   ownProgress: 2799,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:25.450Z",
   publishedAt: "2026-01-30",
   externalLink:

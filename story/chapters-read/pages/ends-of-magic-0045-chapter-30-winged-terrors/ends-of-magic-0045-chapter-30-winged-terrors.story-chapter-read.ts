@@ -9,7 +9,7 @@ export const endsOfMagic0045Chapter30WingedTerrors = {
   position: 45,
   ownLength: 2894,
   ownProgress: 2894,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:08:42.532Z",
   publishedAt: "2025-11-13",
   externalLink:

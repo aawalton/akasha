@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0533Chapter494TiersOfSkill = {
   position: 533,
   ownLength: 2944,
   ownProgress: 2944,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:22.496Z",
   publishedAt: "2026-01-02",
   externalLink:

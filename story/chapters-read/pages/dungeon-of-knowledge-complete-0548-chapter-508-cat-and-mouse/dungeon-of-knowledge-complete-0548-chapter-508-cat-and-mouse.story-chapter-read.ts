@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0548Chapter508CatAndMouse = {
   position: 548,
   ownLength: 2882,
   ownProgress: 2882,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:30:54.706Z",
   publishedAt: "2026-01-16",
   externalLink:
