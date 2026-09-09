@@ -5,7 +5,7 @@ export const stopgap = {
   pageTypeSlug: "invariant-kind",
   slug: "stopgap",
   definition: "a state kept by hand until something is built to have it",
-  invariantGroupSlug: "invariant-group/condition",
+  invariantGroup: "invariant-group/condition",
   invariants: [
     {
       invariantKind: "departure",

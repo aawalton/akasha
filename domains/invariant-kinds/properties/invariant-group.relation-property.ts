@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type InvariantGroupSlug = Slug
+export type InvariantGroup = Slug
 
-export const invariantGroupSlug = {
+export const invariantGroup = {
   id: "01a04e11-9f98-7cf1-ac25-c66b4eea07c5",
   pageTypeSlug: "relation-property",
-  slug: "invariant-group-slug",
-  propertySlug: "invariant-group-slug",
+  slug: "invariant-group",
+  propertySlug: "invariant-group",
   definition: "a slug naming an invariant group",
   targetPageTypeSlug: "page-type/invariant-group",
 } as const satisfies RelationProperty

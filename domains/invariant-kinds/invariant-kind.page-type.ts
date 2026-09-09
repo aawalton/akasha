@@ -1,9 +1,9 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Domain } from "../domain.page-type.ts"
-import type { InvariantGroupSlug } from "./properties/invariant-group-slug.relation-property.ts"
+import type { InvariantGroup } from "./properties/invariant-group.relation-property.ts"
 
 export type InvariantKind = Domain & {
-  invariantGroupSlug: InvariantGroupSlug
+  invariantGroup: InvariantGroup
 }
 
 export const invariantKind = {
@@ -19,11 +19,11 @@ export const invariantKind = {
     "invariant-kind/gap",
     "invariant-kind/stopgap",
     "invariant-kind/upkeep",
-    "relation-property/invariant-group-slug",
+    "relation-property/invariant-group",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "relation-property/invariant-group-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/invariant-group", required: true, many: false },
   ],
   invariants: [
     {

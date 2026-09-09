@@ -326,7 +326,7 @@ test("a key a type above declares is a key of the type below", () => {
   const keys = keysOf(root, "invariant-kind")
   expect(keys.has("slug")).toBe(true)
   expect(keys.has("definition")).toBe(true)
-  expect(keys.has("invariantGroupSlug")).toBe(true)
+  expect(keys.has("invariantGroup")).toBe(true)
 })
 
 test("what a query asks for is every key it names, each under where it named it", () => {
@@ -352,6 +352,6 @@ test("a property slug is titled with its words spaced and each word opening capi
 test("a declaration is titled by its own property slug rather than by the definition", () => {
   const shaped = shaping(root, "invariant-kind")
   const declarations = "shape" in shaped ? (shaped.shape?.declarations ?? []) : []
-  const found = declarations.find((one) => one.key === "invariant-group-slug")
-  expect(found?.title).toBe("Invariant Group Slug")
+  const found = declarations.find((one) => one.key === "invariant-group")
+  expect(found?.title).toBe("Invariant Group")
 })

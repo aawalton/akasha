@@ -5,5 +5,5 @@ export const upkeep = {
   pageTypeSlug: "invariant-kind",
   slug: "upkeep",
   definition: "a state kept by hand because nothing could be built to have it",
-  invariantGroupSlug: "invariant-group/condition",
+  invariantGroup: "invariant-group/condition",
 } as const satisfies InvariantKind
