@@ -1051,7 +1051,7 @@
         "criteria": {
           "1": {
             "numRequired": 20,
-            "numCompleted": 16
+            "numCompleted": 17
           }
         },
         "completedSteps": 0,
@@ -1064,7 +1064,7 @@
         "criteria": {
           "1": {
             "numRequired": 30,
-            "numCompleted": 16
+            "numCompleted": 17
           }
         },
         "completedSteps": 0,
@@ -13429,8 +13429,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-09"
+    "date": "2026-09-09",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
