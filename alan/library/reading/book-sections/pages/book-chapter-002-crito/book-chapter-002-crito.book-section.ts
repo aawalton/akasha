@@ -1,4 +1,4 @@
-import type { BookSection } from "../book-section.page-type.ts"
+import type { BookSection } from "../../book-section.page-type.ts"
 
 export const bookChapter002Crito = {
   id: "01a06594-c68f-700d-8e65-ec3f0fb13f41",
