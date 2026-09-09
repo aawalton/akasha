@@ -31,7 +31,7 @@ done
 set +a
 
 echo "[stage-app] building in-shell SPA (${spa_dir}) …"
-(cd "${spa_dir}" && npx react-router build)
+(cd "${spa_dir}" && bun run build)
 
 if [[ ! -f "${client_dir}/index.html" ]]; then
   echo "[stage-app] ERROR: expected ${client_dir}/index.html after build" >&2
