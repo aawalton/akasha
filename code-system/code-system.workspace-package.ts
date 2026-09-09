@@ -11,6 +11,7 @@ export const codeSystem = {
     "page-type/component",
     "page-type/flag",
     "page-type/module",
+    "page-type/module-property-group",
     "page-type/container-recipe",
     "page-type/python-module",
     "page-type/eso-addon",
