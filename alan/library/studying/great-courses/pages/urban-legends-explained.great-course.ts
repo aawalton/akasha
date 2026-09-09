@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const urbanLegendsExplained = {
   id: "019db533-f398-7381-b91b-99afb7abc36d",

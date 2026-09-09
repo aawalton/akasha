@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const pyramidsOfTheWorld = {
   id: "019db533-f387-7f4c-b4ab-83cf07a1415b",

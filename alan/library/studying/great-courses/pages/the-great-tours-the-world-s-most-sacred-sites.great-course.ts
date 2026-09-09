@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theGreatToursTheWorldSMostSacredSites = {
   id: "019db533-f398-7388-9274-c90e7f987b1f",

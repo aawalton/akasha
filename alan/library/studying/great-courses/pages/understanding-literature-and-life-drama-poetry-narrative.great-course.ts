@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const understandingLiteratureAndLifeDramaPoetryNarrative = {
   id: "019db533-f387-7f72-89cb-d7b31a7b8d99",

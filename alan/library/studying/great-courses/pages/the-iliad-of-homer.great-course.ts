@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theIliadOfHomer = {
   id: "019db533-f387-7f2f-bb50-aeaf129ac8ed",

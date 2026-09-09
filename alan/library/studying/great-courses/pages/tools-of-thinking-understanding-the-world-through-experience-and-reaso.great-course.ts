@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const toolsOfThinkingUnderstandingTheWorldThroughExperienceAndReaso = {
   id: "019db533-f387-7f04-9834-75cd5ba7ae1d",
