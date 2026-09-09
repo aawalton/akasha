@@ -1,10 +1,13 @@
 import { expect, test } from "bun:test"
 import { foundIn } from "./prose-pattern.module.code.ts"
 import {
+  A_BODY_IS_HOLDING_A_CONFLICT,
   A_DAY_HOLDING_ROWS_AND_DECLARING,
+  A_FLAG_HOLDING,
   A_NAME_ALREADY_HOLDING_TEXT,
   A_PERSON_HOLDS,
   A_RECORD_HOLDS_BETWEEN_ROUNDS,
+  A_TERMINAL_HOLDING_KEYS,
   A_TIMER_HOLDS_THE_PROCESS_UP,
   A_TREE_IS_HELD_TO_RELEASE,
   A_WIDGET_HOLDS_HOW_MANY_TAPS,
@@ -21,6 +24,7 @@ import {
   HOLDING_A_MODULE_TO_RUNTIME_STATES,
   IT_HELD_OR_WOULD_HOLD,
   LEDGER_HOLDS_EDITS,
+  NAMES_A_PATH_RATHER_THAN_HOLDING,
   NAMES_HOLDS_IN_OBJECTS,
   NO_PAGE_HOLDS_HAS_NO_FILE,
   NOTES_HOLD_QUEUE,
@@ -195,6 +199,22 @@ test("a fronted word joined to another word is left alone", () => {
 
 test("a word the parser gave two objects is left alone", () => {
   expect(foundIn(sentenceOf(ROW_HELD_DROPS_THE_ID), HELD)).toEqual([])
+})
+
+test("a gerund the parser hung elsewhere is found as a participle", () => {
+  expect(foundIn(sentenceOf(A_FLAG_HOLDING), HOLD).map((one) => one.frame)).toEqual(["participle"])
+})
+
+test("a participle under a form of `be` is left alone", () => {
+  expect(foundIn(sentenceOf(A_BODY_IS_HOLDING_A_CONFLICT), HOLD)).toEqual([])
+})
+
+test("a participle set against a word by `rather than` is left alone", () => {
+  expect(foundIn(sentenceOf(NAMES_A_PATH_RATHER_THAN_HOLDING), HOLD)).toEqual([])
+})
+
+test("a participle the parser joined to a thing is left alone", () => {
+  expect(foundIn(sentenceOf(A_TERMINAL_HOLDING_KEYS), HOLD)).toEqual([])
 })
 
 test("a word bound to something by a directed preposition is left alone", () => {

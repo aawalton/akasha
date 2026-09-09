@@ -110,6 +110,19 @@ const SELVES: ReadonlySet<string> = new Set([
 
 const PAST = /ed$/i
 
+const ING = /ing$/i
+
+const BEING: ReadonlySet<string> = new Set([
+  "am",
+  "is",
+  "are",
+  "was",
+  "were",
+  "be",
+  "been",
+  "being",
+])
+
 const THINGS: ReadonlySet<string> = new Set(["NOUN", "PROPN"])
 
 const RELATIVIZERS: ReadonlySet<string> = new Set(["that", "which", "who", "whom"])
@@ -266,10 +279,27 @@ function verbConjoined(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, CONJUNCT).some((one) => one.upos === VERB)
 }
 
+function beBeside(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, AUXILIARY).some((one) => BEING.has(lower(one)))
+}
+
+function setApart(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, COORDINATOR).some((one) => lower(one) === RATHER)
+}
+
+function thingConjoined(sentence: DepSentence, token: DepToken): boolean {
+  if (token.deprel !== CONJUNCT) return false
+  const above = byId(sentence, token.head)
+  return above !== undefined && THINGS.has(above.upos)
+}
+
 function participleOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (underAPreposition(sentence, token)) return null
   if (adverbBefore(sentence, token)) return null
   if (clauseBeside(sentence, token)) return null
+  if (beBeside(sentence, token)) return null
+  if (setApart(sentence, token)) return null
+  if (thingConjoined(sentence, token)) return null
   return verbConjoined(sentence, token) ? null : PARTICIPLE_FRAME
 }
 
@@ -307,7 +337,7 @@ function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
     return placedSomewhere(sentence, token) ? PLACED_FRAME : null
   }
   if (child(sentence, token.id, OBJECT) !== undefined) {
-    if (token.deprel === PARTICIPLE) return participleOf(sentence, token)
+    if (token.deprel === PARTICIPLE || ING.test(token.form)) return participleOf(sentence, token)
     return pastAfter(sentence, token) ? null : OBJECT_FRAME
   }
   if (token.deprel !== RELATIVE) return null

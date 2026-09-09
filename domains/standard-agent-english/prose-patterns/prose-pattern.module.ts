@@ -157,5 +157,21 @@ export const prosePattern = {
       invariantKind: "departure",
       statement: "A fronted word joined to another word is left alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A word spelled with a trailing `ing` is a participle, whatever it hangs on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A participle under a form of `be` names an act, so it describes no thing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A participle set against a word by `rather than` is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A participle the parser joined to a thing describes no thing.",
+    },
   ],
 } as const satisfies Module

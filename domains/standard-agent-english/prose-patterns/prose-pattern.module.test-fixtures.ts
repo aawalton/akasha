@@ -364,6 +364,49 @@ export const ROW_HELD_DROPS_THE_ID: readonly Row[] = [
   ["id", "NOUN", 4, "obj"],
 ]
 
+export const A_FLAG_HOLDING: readonly Row[] = [
+  ["A", "DET", 2, "det"],
+  ["flag", "NOUN", 3, "nsubj"],
+  ["holding", "VERB", 9, "parataxis"],
+  ["no", "DET", 6, "det"],
+  ["value", "NOUN", 6, "compound"],
+  ["names", "NOUN", 3, "obj"],
+  ["no", "DET", 9, "det"],
+  ["value", "NOUN", 9, "compound"],
+  ["label", "NOUN", 0, "root"],
+]
+
+export const A_BODY_IS_HOLDING_A_CONFLICT: readonly Row[] = [
+  ["A", "DET", 2, "det"],
+  ["body", "NOUN", 4, "nsubj"],
+  ["is", "AUX", 4, "aux"],
+  ["holding", "VERB", 0, "root"],
+  ["a", "DET", 6, "det"],
+  ["conflict", "NOUN", 4, "obj"],
+]
+
+export const NAMES_A_PATH_RATHER_THAN_HOLDING: readonly Row[] = [
+  ["A", "DET", 2, "det"],
+  ["target", "NOUN", 3, "nsubj"],
+  ["names", "VERB", 0, "root"],
+  ["a", "DET", 5, "det"],
+  ["path", "NOUN", 3, "obj"],
+  ["rather", "ADV", 8, "cc"],
+  ["than", "SCONJ", 6, "fixed"],
+  ["holding", "VERB", 3, "conj"],
+  ["a", "DET", 10, "det"],
+  ["key", "NOUN", 8, "obj"],
+]
+
+export const A_TERMINAL_HOLDING_KEYS: readonly Row[] = [
+  ["a", "DET", 2, "det"],
+  ["terminal", "NOUN", 0, "root"],
+  ["around", "ADP", 4, "case"],
+  ["supervisor", "NOUN", 2, "nmod"],
+  ["holding", "VERB", 4, "conj"],
+  ["keys", "NOUN", 5, "obj"],
+]
+
 export const A_RECORD_HOLDS_BETWEEN_ROUNDS: readonly Row[] = [
   ["a", "DET", 2, "det"],
   ["record", "NOUN", 0, "root"],
