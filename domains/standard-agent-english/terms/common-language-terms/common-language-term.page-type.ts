@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { AllowedTerm } from "../allowed-terms/allowed-term.page-type.types.ts"
-
-export type CommonLanguageTerm = AllowedTerm
 
 export const commonLanguageTerm = {
   id: "01a07c6e-d2b5-7a30-95da-e46d29cd2e27",
@@ -11,4 +8,5 @@ export const commonLanguageTerm = {
   definition: "one word or phrase with its ordinary sense",
   pluralSlug: "common-language-terms",
   extends: ["page-type/allowed-term"],
+  types: "ts",
 } as const satisfies PageType
