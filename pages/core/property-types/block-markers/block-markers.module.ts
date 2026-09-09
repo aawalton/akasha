@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const blockMarkers = {
   id: "01a05b92-a9c7-7a02-82a9-40d4c84bd971",
   pageTypeSlug: "module",
+  type: "module",
   slug: "block-markers",
   definition: "the marker prefix a list, to-do or toggle block begins with",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageDeriveShape = {
   id: "01a0686e-6807-7001-adf6-955fe0ed5e7b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-derive-shape",
   definition: "the shapes a deriver answers a page type's rows, relations and backing in",
   code: "ts",

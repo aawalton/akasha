@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const taskLifecycle = {
   id: "01a05b92-a9c7-7218-a6a2-fd22347d97b9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "task-lifecycle",
   definition: "what a task has once it is marked done",
   code: "ts",
