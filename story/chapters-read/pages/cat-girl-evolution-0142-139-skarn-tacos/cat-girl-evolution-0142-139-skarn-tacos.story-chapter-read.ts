@@ -5,7 +5,7 @@ export const catGirlEvolution0142139SkarnTacos = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0142-139-skarn-tacos",
   title: "139 - Skarn Tacos",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 142,
   ownLength: 2121,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const catGirlEvolution0157154PeopleWatcher = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0157-154-people-watcher",
   title: "154 - People-Watcher",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 157,
   ownLength: 2540,
   unitSlug: "words",

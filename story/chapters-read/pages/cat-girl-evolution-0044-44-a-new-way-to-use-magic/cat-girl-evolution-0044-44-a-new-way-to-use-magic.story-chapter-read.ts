@@ -5,7 +5,7 @@ export const catGirlEvolution004444ANewWayToUseMagic = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0044-44-a-new-way-to-use-magic",
   title: "44 - A New Way to Use Magic",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 44,
   ownLength: 2442,
   unitSlug: "words",

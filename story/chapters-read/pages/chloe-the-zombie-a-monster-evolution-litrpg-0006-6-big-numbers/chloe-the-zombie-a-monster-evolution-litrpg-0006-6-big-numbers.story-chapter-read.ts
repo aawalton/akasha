@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00066BigNumbers = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0006-6-big-numbers",
   title: "6: Big Numbers",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 6,
   ownLength: 2558,
   unitSlug: "words",

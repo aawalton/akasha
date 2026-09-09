@@ -5,7 +5,7 @@ export const catGirlEvolution0133NotAChapterScheduleUpdateOtherNews = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0133-not-a-chapter-schedule-update-other-news",
   title: "(NOT A CHAPTER) Schedule update + other news",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 133,
   ownLength: 783,
   unitSlug: "words",

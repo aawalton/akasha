@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0037171SophieInTheDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0037-171-sophie-in-the-dungeon",
   title: "171 - Sophie in the Dungeon",
-  storySlug: "story-read/bunny-girl-evolution",
+  story: "story-read/bunny-girl-evolution",
   position: 37,
   ownLength: 3419,
   ownProgress: 3419,

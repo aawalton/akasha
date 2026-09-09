@@ -5,7 +5,7 @@ export const catGirlEvolution005858DangerousRevelationsB1End = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0058-58-dangerous-revelations-b1-end",
   title: "58 - Dangerous Revelations (B1 End)",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 58,
   ownLength: 2593,
   unitSlug: "words",

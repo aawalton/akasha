@@ -5,7 +5,7 @@ export const catGirlEvolution008585GuildInvestigator = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0085-85-guild-investigator",
   title: "85 - Guild Investigator",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 85,
   ownLength: 3142,
   unitSlug: "words",

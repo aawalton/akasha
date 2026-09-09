@@ -5,7 +5,7 @@ export const breakerOfHorizons0162162BrokenBoundaries = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0162-162-broken-boundaries",
   title: "162. Broken Boundaries",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 162,
   ownLength: 2232,
   unitSlug: "words",

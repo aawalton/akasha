@@ -5,7 +5,7 @@ export const catGirlEvolution0148145WheelOfTraits = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0148-145-wheel-of-traits",
   title: "145 - Wheel of Traits!",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 148,
   ownLength: 2296,
   unitSlug: "words",

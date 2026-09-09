@@ -5,7 +5,7 @@ export const catGirlEvolution001414ExternalManaManipulation = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0014-14-external-mana-manipulation",
   title: "14 - External Mana Manipulation",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 14,
   ownLength: 2407,
   unitSlug: "words",

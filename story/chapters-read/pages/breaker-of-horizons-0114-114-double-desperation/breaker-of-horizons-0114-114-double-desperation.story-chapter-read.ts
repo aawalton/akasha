@@ -5,7 +5,7 @@ export const breakerOfHorizons0114114DoubleDesperation = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0114-114-double-desperation",
   title: "114. Double Desperation",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 114,
   ownLength: 2248,
   unitSlug: "words",

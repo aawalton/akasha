@@ -5,7 +5,7 @@ export const catGirlEvolution005959RabbitStew = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0059-59-rabbit-stew",
   title: "59 - Rabbit Stew",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 59,
   ownLength: 2104,
   unitSlug: "words",

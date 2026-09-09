@@ -5,7 +5,7 @@ export const catGirlEvolution005656ScallopTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0056-56-scallop-time",
   title: "56 - Scallop Time!",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 56,
   ownLength: 2662,
   unitSlug: "words",

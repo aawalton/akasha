@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0042175BargainOfDivineProportions = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0042-175-bargain-of-divine-proportions",
   title: "175 - Bargain of Divine Proportions",
-  storySlug: "story-read/bunny-girl-evolution",
+  story: "story-read/bunny-girl-evolution",
   position: 42,
   ownLength: 3537,
   ownProgress: 3537,

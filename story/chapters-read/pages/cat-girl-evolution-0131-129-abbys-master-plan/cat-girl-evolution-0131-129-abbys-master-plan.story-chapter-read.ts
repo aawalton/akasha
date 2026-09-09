@@ -5,7 +5,7 @@ export const catGirlEvolution0131129AbbysMasterPlan = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0131-129-abbys-master-plan",
   title: "129 - Abby's Master Plan",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 131,
   ownLength: 2034,
   unitSlug: "words",

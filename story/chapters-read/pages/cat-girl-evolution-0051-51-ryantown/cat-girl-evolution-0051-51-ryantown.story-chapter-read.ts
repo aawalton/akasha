@@ -5,7 +5,7 @@ export const catGirlEvolution005151Ryantown = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0051-51-ryantown",
   title: "51 - Ryantown",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 51,
   ownLength: 2762,
   unitSlug: "words",

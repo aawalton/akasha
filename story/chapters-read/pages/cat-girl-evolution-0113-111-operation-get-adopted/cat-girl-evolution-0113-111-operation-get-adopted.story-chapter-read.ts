@@ -5,7 +5,7 @@ export const catGirlEvolution0113111OperationGetAdopted = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0113-111-operation-get-adopted",
   title: "111 - Operation Get Adopted",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 113,
   ownLength: 2674,
   unitSlug: "words",

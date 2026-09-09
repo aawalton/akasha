@@ -5,7 +5,7 @@ export const catGirlEvolution007474TheReturnOfTheMinion = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0074-74-the-return-of-the-minion",
   title: "74 - The Return of the Minion",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 74,
   ownLength: 2178,
   unitSlug: "words",

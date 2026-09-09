@@ -5,7 +5,7 @@ export const catGirlEvolution001010AStrangeButFortuitousEncounter = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0010-10-a-strange-but-fortuitous-encounter",
   title: "10 - A Strange, but Fortuitous Encounter",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 10,
   ownLength: 2524,
   unitSlug: "words",

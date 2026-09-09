@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00088BigHaul = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0008-8-big-haul",
   title: "8: Big Haul",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 8,
   ownLength: 2190,
   unitSlug: "words",

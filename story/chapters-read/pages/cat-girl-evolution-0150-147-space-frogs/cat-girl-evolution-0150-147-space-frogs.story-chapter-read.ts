@@ -5,7 +5,7 @@ export const catGirlEvolution0150147SpaceFrogs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0150-147-space-frogs",
   title: "147 - Space Frogs",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 150,
   ownLength: 2437,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const catGirlEvolution0158155MeatPies = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0158-155-meat-pies",
   title: "155 - Meat Pies",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 158,
   ownLength: 2182,
   unitSlug: "words",

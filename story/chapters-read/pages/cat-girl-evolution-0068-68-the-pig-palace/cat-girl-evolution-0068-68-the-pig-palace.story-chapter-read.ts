@@ -5,7 +5,7 @@ export const catGirlEvolution006868ThePigPalace = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0068-68-the-pig-palace",
   title: "68 - The Pig Palace",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 68,
   ownLength: 2840,
   unitSlug: "words",

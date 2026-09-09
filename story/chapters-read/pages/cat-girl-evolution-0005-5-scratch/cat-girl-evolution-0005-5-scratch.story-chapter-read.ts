@@ -5,7 +5,7 @@ export const catGirlEvolution00055Scratch = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0005-5-scratch",
   title: "5 - Scratch",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 5,
   ownLength: 1793,
   unitSlug: "words",

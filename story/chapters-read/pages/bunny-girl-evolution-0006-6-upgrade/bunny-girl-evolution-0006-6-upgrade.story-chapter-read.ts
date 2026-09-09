@@ -5,7 +5,7 @@ export const bunnyGirlEvolution00066Upgrade = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0006-6-upgrade",
   title: "6 - Upgrade",
-  storySlug: "story-read/bunny-girl-evolution",
+  story: "story-read/bunny-girl-evolution",
   position: 6,
   ownLength: 2422,
   ownProgress: 2422,

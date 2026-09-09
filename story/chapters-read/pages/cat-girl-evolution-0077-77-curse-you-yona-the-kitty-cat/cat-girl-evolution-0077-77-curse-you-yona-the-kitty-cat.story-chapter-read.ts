@@ -5,7 +5,7 @@ export const catGirlEvolution007777CurseYouYonaTheKittyCat = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0077-77-curse-you-yona-the-kitty-cat",
   title: "77 - Curse You, Yona the Kitty Cat!",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 77,
   ownLength: 2068,
   unitSlug: "words",

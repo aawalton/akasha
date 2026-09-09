@@ -5,7 +5,7 @@ export const catGirlEvolution007070YonasFanClub = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0070-70-yonas-fan-club",
   title: "70 - Yona's Fan Club",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 70,
   ownLength: 2751,
   unitSlug: "words",

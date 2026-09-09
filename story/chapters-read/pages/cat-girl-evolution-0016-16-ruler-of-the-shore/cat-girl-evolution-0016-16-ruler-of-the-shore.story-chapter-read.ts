@@ -5,7 +5,7 @@ export const catGirlEvolution001616RulerOfTheShore = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0016-16-ruler-of-the-shore",
   title: "16 - Ruler of the Shore",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 16,
   ownLength: 2211,
   unitSlug: "words",

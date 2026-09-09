@@ -5,7 +5,7 @@ export const catGirlEvolution001717Lsml = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0017-17-lsml",
   title: "17 - L.S.M.L",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 17,
   ownLength: 2259,
   unitSlug: "words",

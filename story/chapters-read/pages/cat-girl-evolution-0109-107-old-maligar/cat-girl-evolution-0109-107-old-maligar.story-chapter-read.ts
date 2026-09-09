@@ -5,7 +5,7 @@ export const catGirlEvolution0109107OldMaligar = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0109-107-old-maligar",
   title: "107 - Old Maligar",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 109,
   ownLength: 2649,
   unitSlug: "words",

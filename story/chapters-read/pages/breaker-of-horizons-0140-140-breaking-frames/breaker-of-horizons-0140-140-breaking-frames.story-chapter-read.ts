@@ -5,7 +5,7 @@ export const breakerOfHorizons0140140BreakingFrames = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0140-140-breaking-frames",
   title: "140. Breaking Frames",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 140,
   ownLength: 2041,
   unitSlug: "words",

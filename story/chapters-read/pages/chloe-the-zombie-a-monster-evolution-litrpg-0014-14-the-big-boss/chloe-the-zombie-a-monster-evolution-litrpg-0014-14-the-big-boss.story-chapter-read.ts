@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001414TheBigBoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0014-14-the-big-boss",
   title: "14: The Big Boss",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 14,
   ownLength: 2117,
   unitSlug: "words",

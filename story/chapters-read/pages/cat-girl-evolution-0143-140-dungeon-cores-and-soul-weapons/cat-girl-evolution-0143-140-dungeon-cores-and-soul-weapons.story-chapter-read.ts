@@ -5,7 +5,7 @@ export const catGirlEvolution0143140DungeonCoresAndSoulWeapons = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0143-140-dungeon-cores-and-soul-weapons",
   title: "140 - Dungeon Cores and Soul Weapons",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 143,
   ownLength: 2984,
   unitSlug: "words",

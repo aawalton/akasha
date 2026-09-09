@@ -4,7 +4,7 @@ export const catGirlEvolution0162159TheMostBeautifulArt = {
   id: "01a07ae7-42eb-7de0-abbc-cc949ef2f4db",
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0162-159-the-most-beautiful-art",
-  storySlug: "story-read/cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 162,
   publishedAt: "2026-09-07",
   unitSlug: "words",

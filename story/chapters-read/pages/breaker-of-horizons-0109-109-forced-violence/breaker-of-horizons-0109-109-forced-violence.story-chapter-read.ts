@@ -5,7 +5,7 @@ export const breakerOfHorizons0109109ForcedViolence = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0109-109-forced-violence",
   title: "109. Forced Violence",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 109,
   ownLength: 1905,
   unitSlug: "words",

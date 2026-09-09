@@ -5,7 +5,7 @@ export const catGirlEvolution0105103TheGoddessOfFemaleDogsB2End = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0105-103-the-goddess-of-female-dogs-b2-end",
   title: "103 - The Goddess of Female Dogs (B2 end)",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 105,
   ownLength: 2520,
   unitSlug: "words",

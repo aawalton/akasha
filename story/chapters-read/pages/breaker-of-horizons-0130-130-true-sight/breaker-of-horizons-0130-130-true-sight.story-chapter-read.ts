@@ -5,7 +5,7 @@ export const breakerOfHorizons0130130TrueSight = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0130-130-true-sight",
   title: "130. True Sight",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 130,
   ownLength: 2199,
   unitSlug: "words",

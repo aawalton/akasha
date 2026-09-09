@@ -5,7 +5,7 @@ export const catGirlEvolution0144141ThePrePaparazzi = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0144-141-the-pre-paparazzi",
   title: "141 - The Pre-Paparazzi",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 144,
   ownLength: 2464,
   unitSlug: "words",

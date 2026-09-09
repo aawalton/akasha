@@ -5,7 +5,7 @@ export const breakerOfHorizons0164164UnknownVariables = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0164-164-unknown-variables",
   title: "164. Unknown Variables",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 164,
   ownLength: 2115,
   unitSlug: "words",

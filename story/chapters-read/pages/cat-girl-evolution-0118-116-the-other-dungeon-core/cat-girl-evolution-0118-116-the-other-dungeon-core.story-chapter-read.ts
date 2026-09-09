@@ -5,7 +5,7 @@ export const catGirlEvolution0118116TheOtherDungeonCore = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0118-116-the-other-dungeon-core",
   title: "116 - The Other Dungeon Core",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 118,
   ownLength: 2380,
   unitSlug: "words",

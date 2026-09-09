@@ -5,7 +5,7 @@ export const catGirlEvolution0135132BecauseImTheChosenOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0135-132-because-im-the-chosen-one",
   title: "132 - Because I'm the Chosen One",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 135,
   ownLength: 2756,
   unitSlug: "words",

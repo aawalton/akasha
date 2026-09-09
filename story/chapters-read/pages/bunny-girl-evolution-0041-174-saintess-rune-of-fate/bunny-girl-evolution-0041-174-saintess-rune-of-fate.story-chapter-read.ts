@@ -5,7 +5,7 @@ export const bunnyGirlEvolution0041174SaintessRuneOfFate = {
   pageTypeSlug: "story-chapter-read",
   slug: "bunny-girl-evolution-0041-174-saintess-rune-of-fate",
   title: "174 - Saintess' {Rune of Fate}",
-  storySlug: "story-read/bunny-girl-evolution",
+  story: "story-read/bunny-girl-evolution",
   position: 41,
   ownLength: 3538,
   ownProgress: 3538,

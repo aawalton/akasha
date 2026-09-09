@@ -5,7 +5,7 @@ export const catGirlEvolution003535PrincessYonaTheSuspiciousOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0035-35-princess-yona-the-suspicious-one",
   title: "35 - Princess Yona, the Suspicious One",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 35,
   ownLength: 2600,
   unitSlug: "words",

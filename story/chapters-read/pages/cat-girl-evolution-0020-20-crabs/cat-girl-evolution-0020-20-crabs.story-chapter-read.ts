@@ -5,7 +5,7 @@ export const catGirlEvolution002020Crabs = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0020-20-crabs",
   title: "20 - Crabs",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 20,
   ownLength: 2198,
   unitSlug: "words",

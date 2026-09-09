@@ -5,7 +5,7 @@ export const catGirlEvolution00066LevelsAndMore = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0006-6-levels-and-more",
   title: "6 - Levels and More",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 6,
   ownLength: 1924,
   unitSlug: "words",

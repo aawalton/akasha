@@ -5,7 +5,7 @@ export const catGirlEvolution0146143IVantToSuckYourBlood = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0146-143-i-vant-to-suck-your-blood",
   title: "143 - I Vant to Suck Your Blood",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 146,
   ownLength: 3135,
   unitSlug: "words",

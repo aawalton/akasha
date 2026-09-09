@@ -5,7 +5,7 @@ export const catGirlEvolution001919ClassWarfare = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0019-19-class-warfare",
   title: "19 - Class Warfare",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 19,
   ownLength: 1879,
   unitSlug: "words",

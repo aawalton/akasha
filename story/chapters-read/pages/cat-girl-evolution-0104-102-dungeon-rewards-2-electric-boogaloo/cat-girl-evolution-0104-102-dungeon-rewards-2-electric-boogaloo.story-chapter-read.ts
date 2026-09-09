@@ -5,7 +5,7 @@ export const catGirlEvolution0104102DungeonRewards2ElectricBoogaloo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0104-102-dungeon-rewards-2-electric-boogaloo",
   title: "102 - Dungeon Rewards 2: Electric Boogaloo",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 104,
   ownLength: 3249,
   unitSlug: "words",

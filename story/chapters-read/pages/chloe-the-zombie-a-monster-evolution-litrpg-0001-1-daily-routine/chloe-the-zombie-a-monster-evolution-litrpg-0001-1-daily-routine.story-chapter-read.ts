@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg00011DailyRoutine = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0001-1-daily-routine",
   title: "1: Daily Routine",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 1,
   ownLength: 3107,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons0155155MortalPeril = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0155-155-mortal-peril",
   title: "155. Mortal Peril",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 155,
   ownLength: 1898,
   unitSlug: "words",

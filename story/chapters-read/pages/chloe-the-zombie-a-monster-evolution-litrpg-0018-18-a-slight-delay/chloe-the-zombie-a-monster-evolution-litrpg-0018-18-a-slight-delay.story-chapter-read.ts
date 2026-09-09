@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001818ASlightDelay = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0018-18-a-slight-delay",
   title: "18: A Slight Delay",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 18,
   ownLength: 2356,
   unitSlug: "words",

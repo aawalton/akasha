@@ -5,7 +5,7 @@ export const breakerOfHorizons0112112DiametricPowers = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0112-112-diametric-powers",
   title: "112. Diametric Powers",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 112,
   ownLength: 2016,
   unitSlug: "words",

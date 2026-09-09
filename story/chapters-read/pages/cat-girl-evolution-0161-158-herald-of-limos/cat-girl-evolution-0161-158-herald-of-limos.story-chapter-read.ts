@@ -4,7 +4,7 @@ export const catGirlEvolution0161158HeraldOfLimos = {
   id: "01a07252-32eb-71da-aab0-8c816dbc7d47",
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0161-158-herald-of-limos",
-  storySlug: "story-read/cat-girl-evolution",
+  story: "story-read/cat-girl-evolution",
   position: 161,
   publishedAt: "2026-09-04",
   unitSlug: "words",

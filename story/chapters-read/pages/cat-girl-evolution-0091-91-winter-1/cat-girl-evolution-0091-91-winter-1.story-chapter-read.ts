@@ -5,7 +5,7 @@ export const catGirlEvolution009191Winter1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0091-91-winter-1",
   title: "91 - Winter (1)",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 91,
   ownLength: 2013,
   unitSlug: "words",

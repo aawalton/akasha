@@ -5,7 +5,7 @@ export const breakerOfHorizons0156156PreAllies = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0156-156-pre-allies",
   title: "156. Pre-Allies",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 156,
   ownLength: 1956,
   unitSlug: "words",

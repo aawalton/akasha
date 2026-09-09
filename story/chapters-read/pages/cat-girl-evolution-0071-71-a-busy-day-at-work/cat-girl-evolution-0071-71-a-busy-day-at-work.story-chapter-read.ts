@@ -5,7 +5,7 @@ export const catGirlEvolution007171ABusyDayAtWork = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0071-71-a-busy-day-at-work",
   title: "71 - A Busy Day at Work",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 71,
   ownLength: 2592,
   unitSlug: "words",

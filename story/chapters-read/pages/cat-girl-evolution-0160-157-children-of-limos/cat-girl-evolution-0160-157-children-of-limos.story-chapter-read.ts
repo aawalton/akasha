@@ -5,7 +5,7 @@ export const catGirlEvolution0160157ChildrenOfLimos = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0160-157-children-of-limos",
   title: "157 - Children of Limos",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 160,
   ownLength: 1680,
   unitSlug: "words",

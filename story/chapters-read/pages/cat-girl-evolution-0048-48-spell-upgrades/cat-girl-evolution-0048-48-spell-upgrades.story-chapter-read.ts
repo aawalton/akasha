@@ -5,7 +5,7 @@ export const catGirlEvolution004848SpellUpgrades = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0048-48-spell-upgrades",
   title: "48 - Spell Upgrades",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 48,
   ownLength: 1984,
   unitSlug: "words",

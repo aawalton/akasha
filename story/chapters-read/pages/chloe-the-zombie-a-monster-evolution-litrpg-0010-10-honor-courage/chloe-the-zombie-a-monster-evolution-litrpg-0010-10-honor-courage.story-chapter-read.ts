@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001010HonorCourage = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0010-10-honor-courage",
   title: "10: Honor & Courage",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 10,
   ownLength: 1806,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons0115115AugericAssistance = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0115-115-augeric-assistance",
   title: "115. Augeric Assistance",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 115,
   ownLength: 2000,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons0158158SecondBreakfast = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0158-158-second-breakfast",
   title: "158. Second Breakfast",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 158,
   ownLength: 1963,
   unitSlug: "words",

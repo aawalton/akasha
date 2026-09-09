@@ -5,7 +5,7 @@ export const catGirlEvolution002525NamedTendencies = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0025-25-named-tendencies",
   title: "25 - Named Tendencies",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 25,
   ownLength: 2185,
   unitSlug: "words",

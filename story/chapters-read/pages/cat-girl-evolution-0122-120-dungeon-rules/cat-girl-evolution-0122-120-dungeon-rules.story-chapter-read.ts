@@ -5,7 +5,7 @@ export const catGirlEvolution0122120DungeonRules = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0122-120-dungeon-rules",
   title: "120 - Dungeon Rules",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 122,
   ownLength: 2725,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons0169169TestingLimits = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0169-169-testing-limits",
   title: "169. Testing Limits",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 169,
   ownLength: 2213,
   unitSlug: "words",

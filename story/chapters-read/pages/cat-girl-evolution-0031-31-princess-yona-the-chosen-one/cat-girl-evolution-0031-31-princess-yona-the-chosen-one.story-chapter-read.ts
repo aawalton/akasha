@@ -5,7 +5,7 @@ export const catGirlEvolution003131PrincessYonaTheChosenOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0031-31-princess-yona-the-chosen-one",
   title: "31 - Princess Yona, the Chosen One",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 31,
   ownLength: 2414,
   unitSlug: "words",

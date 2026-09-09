@@ -5,7 +5,7 @@ export const catGirlEvolution0102100NewClass = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0102-100-new-class",
   title: "100 - New Class",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 102,
   ownLength: 2653,
   unitSlug: "words",

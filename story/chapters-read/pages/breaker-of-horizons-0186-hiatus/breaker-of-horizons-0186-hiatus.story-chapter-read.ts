@@ -5,7 +5,7 @@ export const breakerOfHorizons0186Hiatus = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0186-hiatus",
   title: "[HIATUS]",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 186,
   ownLength: 114,
   unitSlug: "words",

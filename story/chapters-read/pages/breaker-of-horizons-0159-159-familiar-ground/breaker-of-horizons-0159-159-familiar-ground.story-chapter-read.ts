@@ -5,7 +5,7 @@ export const breakerOfHorizons0159159FamiliarGround = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0159-159-familiar-ground",
   title: "159. Familiar Ground",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 159,
   ownLength: 2205,
   unitSlug: "words",

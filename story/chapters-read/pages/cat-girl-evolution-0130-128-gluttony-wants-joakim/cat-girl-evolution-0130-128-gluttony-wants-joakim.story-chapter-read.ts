@@ -5,7 +5,7 @@ export const catGirlEvolution0130128GluttonyWantsJoakim = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0130-128-gluttony-wants-joakim",
   title: "128 - Gluttony Wants Joakim",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 130,
   ownLength: 2364,
   unitSlug: "words",

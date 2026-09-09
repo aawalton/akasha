@@ -5,7 +5,7 @@ export const catGirlEvolution0156153BalloonLady = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0156-153-balloon-lady",
   title: "153 - Balloon Lady",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 156,
   ownLength: 2982,
   unitSlug: "words",

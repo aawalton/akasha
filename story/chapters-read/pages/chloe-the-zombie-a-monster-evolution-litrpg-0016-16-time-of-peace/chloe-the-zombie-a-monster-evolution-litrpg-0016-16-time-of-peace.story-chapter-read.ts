@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg001616TimeOfPeace = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0016-16-time-of-peace",
   title: "16: Time of Peace",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 16,
   ownLength: 2191,
   unitSlug: "words",

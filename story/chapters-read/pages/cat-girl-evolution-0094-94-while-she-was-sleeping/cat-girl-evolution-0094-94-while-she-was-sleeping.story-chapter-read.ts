@@ -5,7 +5,7 @@ export const catGirlEvolution009494WhileSheWasSleeping = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0094-94-while-she-was-sleeping",
   title: "94 - While She Was Sleeping",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 94,
   ownLength: 1982,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const catGirlEvolution0125123EscapingTheLabyrinth = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0125-123-escaping-the-labyrinth",
   title: "123 - Escaping the Labyrinth",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 125,
   ownLength: 2102,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const catGirlEvolution004343TheTwins = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0043-43-the-twins",
   title: "43 - The Twins",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 43,
   ownLength: 2774,
   unitSlug: "words",

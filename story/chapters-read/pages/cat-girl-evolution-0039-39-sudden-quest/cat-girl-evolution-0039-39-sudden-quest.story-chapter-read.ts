@@ -5,7 +5,7 @@ export const catGirlEvolution003939SuddenQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0039-39-sudden-quest",
   title: "39 - Sudden Quest",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 39,
   ownLength: 1925,
   unitSlug: "words",

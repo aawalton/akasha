@@ -5,7 +5,7 @@ export const breakerOfHorizons0185185MalleableTools = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0185-185-malleable-tools",
   title: "185. Malleable Tools",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 185,
   ownLength: 2066,
   unitSlug: "words",

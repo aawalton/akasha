@@ -5,7 +5,7 @@ export const breakerOfHorizons0188186ConflictGalore = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0188-186-conflict-galore",
   title: "186. Conflict Galore",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 188,
   ownLength: 7506,
   unitSlug: "words",

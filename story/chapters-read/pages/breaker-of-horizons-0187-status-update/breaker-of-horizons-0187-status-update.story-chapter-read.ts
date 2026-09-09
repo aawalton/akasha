@@ -5,7 +5,7 @@ export const breakerOfHorizons0187StatusUpdate = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0187-status-update",
   title: "[STATUS UPDATE]",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 187,
   ownLength: 336,
   unitSlug: "words",

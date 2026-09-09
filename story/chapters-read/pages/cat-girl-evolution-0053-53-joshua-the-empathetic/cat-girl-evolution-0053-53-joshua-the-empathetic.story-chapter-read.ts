@@ -5,7 +5,7 @@ export const catGirlEvolution005353JoshuaTheEmpathetic = {
   pageTypeSlug: "story-chapter-read",
   slug: "cat-girl-evolution-0053-53-joshua-the-empathetic",
   title: "53 - Joshua, the Empathetic",
-  storySlug: "cat-girl-evolution",
+  story: "cat-girl-evolution",
   position: 53,
   ownLength: 2168,
   unitSlug: "words",

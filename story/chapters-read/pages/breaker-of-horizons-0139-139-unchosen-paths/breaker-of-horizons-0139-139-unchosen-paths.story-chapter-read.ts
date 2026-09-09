@@ -5,7 +5,7 @@ export const breakerOfHorizons0139139UnchosenPaths = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0139-139-unchosen-paths",
   title: "139. Unchosen Paths",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 139,
   ownLength: 2105,
   unitSlug: "words",
