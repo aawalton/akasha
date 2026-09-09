@@ -1,12 +1,8 @@
 import type { DepSentence } from "@akasha/plain-language/dependency-graph"
 import { makeSentence } from "@akasha/plain-language/dependency-graph"
 import { loadParser } from "@akasha/plain-language/onnx-parsing"
-import { foundIn } from "../prose-patterns/prose-pattern.module.code.ts"
-import {
-  type Pattern,
-  rewritesFor,
-  rewritten,
-} from "../prose-rewrites/prose-rewrite.module.code.ts"
+import { foundIn } from "../prose-pattern/prose-pattern.module.code.ts"
+import { type Pattern, rewritesFor, rewritten } from "../prose-rewrite/prose-rewrite.module.code.ts"
 
 export type Passage = {
   readonly path: string

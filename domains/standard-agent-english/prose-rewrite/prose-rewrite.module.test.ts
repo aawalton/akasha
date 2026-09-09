@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Found } from "../prose-patterns/prose-pattern.module.code.ts"
+import type { Found } from "../prose-pattern/prose-pattern.module.code.ts"
 import {
   type Pattern,
   rewritesFor,
