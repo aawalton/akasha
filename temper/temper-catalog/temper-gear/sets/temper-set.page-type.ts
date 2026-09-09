@@ -4,7 +4,7 @@ import type { EsoSetId } from "../../../catalogs/temper-gear/properties/eso-set-
 import type { Icons } from "../../../catalogs/temper-gear/properties/icons.page-property-entry.ts"
 import type { SetClassId } from "../../../catalogs/temper-gear/properties/set-class-id.text-property.ts"
 import type { ValidPieces } from "../../../catalogs/temper-gear/properties/valid-pieces.text-property.ts"
-import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.ts"
 
 export type TemperSet = TemperCatalogThing & {
   esoSetId: EsoSetId

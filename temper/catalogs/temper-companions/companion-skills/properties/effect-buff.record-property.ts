@@ -1,6 +1,6 @@
 import type { RecordProperty } from "@akasha/pages/record-property"
-import type { EffectValue } from "../../../../temper-catalog/temper-catalog-things/properties/effect-value.number-property.ts"
-import type { ValueType } from "../../../../temper-catalog/temper-catalog-things/properties/value-type.text-property.ts"
+import type { EffectValue } from "../../../../temper-catalog/things/properties/effect-value.number-property.ts"
+import type { ValueType } from "../../../../temper-catalog/things/properties/value-type.text-property.ts"
 import type { BuffName } from "./buff-name.text-property.ts"
 import type { Duration } from "./duration.number-property.ts"
 

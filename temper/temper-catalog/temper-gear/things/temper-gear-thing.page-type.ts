@@ -5,7 +5,7 @@ import type { GlyphName } from "../../../catalogs/temper-gear/properties/glyph-n
 import type { ItemLevel } from "../../../catalogs/temper-gear/properties/item-level.text-property.ts"
 import type { PotionSeconds } from "../../../catalogs/temper-gear/properties/potion-seconds.number-property.ts"
 import type { ValidSlots } from "../../../catalogs/temper-gear/properties/valid-slots.text-property.ts"
-import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.ts"
 
 export type TemperGearThing = TemperCatalogThing & {
   glyphName?: GlyphName
