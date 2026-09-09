@@ -21,7 +21,7 @@ export function scriptsOnly(standing: Standing): readonly string[] {
   })
   if (other.length > 0) {
     said.push(
-      `${other.length} subfolders hold no \`${SHELL_SCRIPT}\` page: ${saidInside(standing.folder, other)}`
+      `${other.length} subfolders are the folder of no \`${SHELL_SCRIPT}\` page: ${saidInside(standing.folder, other)}`
     )
   }
   return said
