@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0015Chapter15IntroductionToTheStandardArrayPt5 = {
   id: "01a06731-ada6-7000-a9ca-d166bc16a086",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0015-chapter-15-introduction-to-the-standard-array-pt-5",
   title: "Chapter 15 — Introduction to the Standard Array, Pt 5",
   story: "just-add-mana",

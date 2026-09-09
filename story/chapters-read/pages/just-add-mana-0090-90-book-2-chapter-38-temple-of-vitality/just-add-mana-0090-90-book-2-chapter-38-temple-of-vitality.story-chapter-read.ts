@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana009090Book2Chapter38TempleOfVitality = {
   id: "01a06731-ae08-7000-966a-5162a8cb9284",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0090-90-book-2-chapter-38-temple-of-vitality",
   title: "90 — Book 2, Chapter 38 — Temple of Vitality",
   story: "just-add-mana",

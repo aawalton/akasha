@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0001Chapter1ManaOverload = {
   id: "01a06731-ad90-7000-9353-692938a77ebe",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0001-chapter-1-mana-overload",
   title: "Chapter 1 — Mana Overload",
   story: "just-add-mana",

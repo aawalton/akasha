@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0047Chapter47BakingBreadPt1 = {
   id: "01a06731-add4-7000-af68-255e39a8999e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0047-chapter-47-baking-bread-pt-1",
   title: "Chapter 47 — Baking Bread, Pt 1",
   story: "just-add-mana",

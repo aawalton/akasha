@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana005656Book2Chapter4SwordAndSorceryPt4 = {
   id: "01a06731-adda-7000-8c93-8a7029a46ab0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0056-56-book-2-chapter-4-sword-and-sorcery-pt-4",
   title: "56 — Book 2, Chapter 4 — Sword and Sorcery, Pt 4",
   story: "just-add-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0181Chapter854Spectators = {
   id: "01a06731-ad93-7005-a0ca-f4fdcfd2e3a4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0181-chapter-854-spectators",
   title: "Chapter 854 - Spectators",
   story: "story-read/hell-difficulty-tutorial",

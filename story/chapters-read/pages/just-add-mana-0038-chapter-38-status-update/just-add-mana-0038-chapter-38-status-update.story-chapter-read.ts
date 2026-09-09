@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0038Chapter38StatusUpdate = {
   id: "01a06731-adc7-7000-b048-6f841b50d13a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0038-chapter-38-status-update",
   title: "Chapter 38 — Status Update",
   story: "just-add-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const incrementalTortureAnIdleSystemTowerClimbing0051051Enterprise = {
   id: "01a06731-ae0b-7006-a3d2-467010246586",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0051-051-enterprise",
   title: "051: Enterprise",
   story: "incremental-torture-an-idle-system-tower-climbing",

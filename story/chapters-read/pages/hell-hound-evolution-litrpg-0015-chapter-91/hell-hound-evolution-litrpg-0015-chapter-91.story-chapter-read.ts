@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHoundEvolutionLitrpg0015Chapter91 = {
   id: "01a06731-af76-7000-ad16-8a37a7b1a927",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-hound-evolution-litrpg-0015-chapter-91",
   title: "Chapter 91",
   story: "hell-hound-evolution-litrpg",

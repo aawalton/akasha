@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHorizonHealer0030Chapter30PushingPastLimits = {
   id: "01a06731-ae7d-7008-8fd1-4c0051e7bbe5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-horizon-healer-0030-chapter-30-pushing-past-limits",
   title: "Chapter 30 - Pushing Past Limits",
   story: "hell-horizon-healer",

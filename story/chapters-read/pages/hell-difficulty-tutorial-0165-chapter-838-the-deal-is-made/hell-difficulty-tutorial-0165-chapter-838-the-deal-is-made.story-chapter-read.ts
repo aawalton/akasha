@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0165Chapter838TheDealIsMade = {
   id: "01a06731-ad8c-7002-a3b5-e139c62b82b6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0165-chapter-838-the-deal-is-made",
   title: "Chapter 838 - The deal is made",
   story: "story-read/hell-difficulty-tutorial",

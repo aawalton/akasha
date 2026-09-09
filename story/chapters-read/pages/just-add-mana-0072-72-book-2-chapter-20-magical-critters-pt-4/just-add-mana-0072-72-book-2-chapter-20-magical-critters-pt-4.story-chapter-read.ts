@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana007272Book2Chapter20MagicalCrittersPt4 = {
   id: "01a06731-aded-7001-bb96-3177c3b8c6dc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0072-72-book-2-chapter-20-magical-critters-pt-4",
   title: "72 — Book 2, Chapter 20 — Magical Critters, Pt 4",
   story: "just-add-mana",

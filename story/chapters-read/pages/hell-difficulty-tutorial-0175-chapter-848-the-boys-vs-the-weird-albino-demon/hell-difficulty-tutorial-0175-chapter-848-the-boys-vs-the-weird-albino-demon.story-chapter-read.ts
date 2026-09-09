@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0175Chapter848TheBoysVsTheWeirdAlbinoDemon = {
   id: "01a06731-ad92-7002-b4a0-60324637747b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0175-chapter-848-the-boys-vs-the-weird-albino-demon",
   title: "Chapter 848 - The boys vs the weird albino demon",
   story: "story-read/hell-difficulty-tutorial",

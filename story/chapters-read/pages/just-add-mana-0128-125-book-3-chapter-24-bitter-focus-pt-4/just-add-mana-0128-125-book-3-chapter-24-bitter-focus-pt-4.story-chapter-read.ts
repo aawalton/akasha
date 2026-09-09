@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0128125Book3Chapter24BitterFocusPt4 = {
   id: "01a06731-ae32-7000-b126-9e03a3354dc7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0128-125-book-3-chapter-24-bitter-focus-pt-4",
   title: "125 — Book 3, Chapter 24 — Bitter Focus, Pt 4",
   story: "just-add-mana",

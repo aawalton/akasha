@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0052Chapter52Epilogue4Akkau = {
   id: "01a06731-add6-7003-a02e-81f495a64ad6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0052-chapter-52-epilogue-4-akkau",
   title: "Chapter 52 — Epilogue 4 — Akkau",
   story: "just-add-mana",

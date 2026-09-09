@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHorizonHealer0007Chapter7SystemVendingMachine = {
   id: "01a06731-ae7c-7000-8e87-71e9fb57373d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-horizon-healer-0007-chapter-7-system-vending-machine",
   title: "Chapter 7 - System Vending Machine",
   story: "hell-horizon-healer",

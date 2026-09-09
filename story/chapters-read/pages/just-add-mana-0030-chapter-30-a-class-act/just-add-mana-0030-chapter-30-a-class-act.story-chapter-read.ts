@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0030Chapter30AClassAct = {
   id: "01a06731-adb8-7000-8faf-0645c3637397",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0030-chapter-30-a-class-act",
   title: "Chapter 30 — A Class Act",
   story: "just-add-mana",

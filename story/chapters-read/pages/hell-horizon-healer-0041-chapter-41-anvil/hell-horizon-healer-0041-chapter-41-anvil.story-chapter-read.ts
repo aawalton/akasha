@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHorizonHealer0041Chapter41Anvil = {
   id: "01a06731-ae7e-7007-b084-f2db35949344",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-horizon-healer-0041-chapter-41-anvil",
   title: "Chapter 41 - Anvil",
   story: "hell-horizon-healer",

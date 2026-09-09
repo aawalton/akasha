@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHorizonHealer0021Chapter21MeetingTheLandlord = {
   id: "01a06731-ae7c-700e-ab97-f83110643c1e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-horizon-healer-0021-chapter-21-meeting-the-landlord",
   title: "Chapter 21 - Meeting the Landlord",
   story: "hell-horizon-healer",

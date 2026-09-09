@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHorizonHealer0028Chapter28LifeInHellDifficulty = {
   id: "01a06731-ae7d-7006-ae99-3b38fa3387e8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-horizon-healer-0028-chapter-28-life-in-hell-difficulty",
   title: "Chapter 28 - Life in Hell Difficulty",
   story: "hell-horizon-healer",

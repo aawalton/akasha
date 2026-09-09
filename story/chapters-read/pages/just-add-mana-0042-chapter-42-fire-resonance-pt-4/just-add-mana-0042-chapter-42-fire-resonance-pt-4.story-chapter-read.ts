@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0042Chapter42FireResonancePt4 = {
   id: "01a06731-adcc-7000-a323-5848d602c61a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0042-chapter-42-fire-resonance-pt-4",
   title: "Chapter 42 — Fire Resonance, Pt 4",
   story: "just-add-mana",

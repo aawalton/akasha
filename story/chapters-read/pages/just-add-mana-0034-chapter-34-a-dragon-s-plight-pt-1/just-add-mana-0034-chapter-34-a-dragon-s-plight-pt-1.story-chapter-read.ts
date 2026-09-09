@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0034Chapter34ADragonSPlightPt1 = {
   id: "01a06731-adbd-7000-aae6-15e0d219888a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0034-chapter-34-a-dragon-s-plight-pt-1",
   title: "Chapter 34 — A Dragon's Plight, Pt 1",
   story: "just-add-mana",

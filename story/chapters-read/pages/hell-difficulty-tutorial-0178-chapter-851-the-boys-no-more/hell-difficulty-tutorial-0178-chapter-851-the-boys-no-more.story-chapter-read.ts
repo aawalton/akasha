@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0178Chapter851TheBoysNoMore = {
   id: "01a06731-ad93-7002-ad7b-82cff702e84d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0178-chapter-851-the-boys-no-more",
   title: "Chapter 851 - The Boys No More",
   story: "story-read/hell-difficulty-tutorial",

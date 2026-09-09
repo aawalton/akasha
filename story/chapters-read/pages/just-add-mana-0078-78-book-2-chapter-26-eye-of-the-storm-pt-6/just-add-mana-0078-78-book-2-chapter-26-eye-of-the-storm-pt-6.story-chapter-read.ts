@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana007878Book2Chapter26EyeOfTheStormPt6 = {
   id: "01a06731-adf3-7000-ac90-ba56e30b2d02",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0078-78-book-2-chapter-26-eye-of-the-storm-pt-6",
   title: "78 — Book 2, Chapter 26 — Eye of the Storm, Pt 6",
   story: "just-add-mana",

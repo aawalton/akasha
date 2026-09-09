@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0003Chapter3TheArtOfAttunementPt2 = {
   id: "01a06731-ad91-7001-90d8-884378138a0e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0003-chapter-3-the-art-of-attunement-pt-2",
   title: "Chapter 3 — The Art of Attunement, Pt 2",
   story: "just-add-mana",

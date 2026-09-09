@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const incrementalTortureAnIdleSystemTowerClimbing0007007SightForSoreEyes = {
   id: "01a06731-ae08-7004-9acb-484075efd25f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0007-007-sight-for-sore-eyes",
   title: "007: Sight for Sore Eyes",
   story: "incremental-torture-an-idle-system-tower-climbing",

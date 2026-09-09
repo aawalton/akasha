@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0119116Book3Chapter15NeverAgain = {
   id: "01a06731-ae27-7000-9641-d2bdc9735291",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0119-116-book-3-chapter-15-never-again",
   title: "116 — Book 3, Chapter 15 — Never Again",
   story: "just-add-mana",

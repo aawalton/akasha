@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0100100Book2Chapter48ContractualObligations = {
   id: "01a06731-ae15-7000-9ade-dc6d66b60c72",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0100-100-book-2-chapter-48-contractual-obligations",
   title: "100 — Book 2, Chapter 48 — Contractual Obligations",
   story: "just-add-mana",

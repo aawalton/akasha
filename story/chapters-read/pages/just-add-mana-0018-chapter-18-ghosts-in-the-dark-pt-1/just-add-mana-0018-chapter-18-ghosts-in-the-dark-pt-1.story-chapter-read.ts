@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0018Chapter18GhostsInTheDarkPt1 = {
   id: "01a06731-adaa-7000-9450-325bc03b7a4e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0018-chapter-18-ghosts-in-the-dark-pt-1",
   title: "Chapter 18 — Ghosts in the Dark, Pt 1",
   story: "just-add-mana",

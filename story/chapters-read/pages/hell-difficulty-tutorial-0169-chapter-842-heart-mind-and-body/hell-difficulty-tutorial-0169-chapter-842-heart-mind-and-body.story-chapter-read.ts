@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0169Chapter842HeartMindAndBody = {
   id: "01a06731-ad91-7001-95ca-394dfc5d41a4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0169-chapter-842-heart-mind-and-body",
   title: "Chapter 842 - Heart, mind, and body.",
   story: "story-read/hell-difficulty-tutorial",

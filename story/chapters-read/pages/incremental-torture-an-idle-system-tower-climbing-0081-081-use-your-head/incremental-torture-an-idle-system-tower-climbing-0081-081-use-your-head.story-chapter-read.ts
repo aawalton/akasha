@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const incrementalTortureAnIdleSystemTowerClimbing0081081UseYourHead = {
   id: "01a06731-ae0d-7009-a3e5-2cedcaf968d8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0081-081-use-your-head",
   title: "081: Use Your Head",
   story: "incremental-torture-an-idle-system-tower-climbing",

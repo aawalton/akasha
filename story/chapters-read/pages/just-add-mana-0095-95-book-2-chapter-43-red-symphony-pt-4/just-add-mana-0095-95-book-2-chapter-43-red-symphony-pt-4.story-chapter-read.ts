@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana009595Book2Chapter43RedSymphonyPt4 = {
   id: "01a06731-ae11-7000-b1e2-3ab1864f5018",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0095-95-book-2-chapter-43-red-symphony-pt-4",
   title: "95 — Book 2, Chapter 43 — Red Symphony, Pt 4",
   story: "just-add-mana",

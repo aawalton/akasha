@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0103IntermissionRealmwatcherSDiariesOldMagic = {
   id: "01a06731-ae16-7002-aa07-e52f4cd2a140",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0103-intermission-realmwatcher-s-diaries-old-magic",
   title: "INTERMISSION: Realmwatcher's Diaries — Old Magic",
   story: "just-add-mana",

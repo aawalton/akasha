@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0124121Book3Chapter20ManaCalibrationPt2 = {
   id: "01a06731-ae2c-7000-b58c-aa4225ff7fa9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0124-121-book-3-chapter-20-mana-calibration-pt-2",
   title: "121 — Book 3, Chapter 20 — Mana Calibration, Pt 2",
   story: "just-add-mana",

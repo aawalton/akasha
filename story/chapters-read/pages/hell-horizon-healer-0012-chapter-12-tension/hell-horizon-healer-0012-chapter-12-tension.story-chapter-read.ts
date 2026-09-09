@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHorizonHealer0012Chapter12Tension = {
   id: "01a06731-ae7c-7005-b90b-c76a79fd2ef3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-horizon-healer-0012-chapter-12-tension",
   title: "Chapter 12 - Tension",
   story: "hell-horizon-healer",

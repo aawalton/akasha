@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0139Chapter812ABunchOfDrunkenLosers = {
   id: "01a06731-ad88-7002-9529-5fa2960ac62b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0139-chapter-812-a-bunch-of-drunken-losers",
   title: "Chapter 812 - A bunch of drunken losers",
   story: "story-read/hell-difficulty-tutorial",

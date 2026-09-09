@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHorizonHealer0020Chapter20RentIsDue = {
   id: "01a06731-ae7c-700d-ac04-d980b4dde68a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-horizon-healer-0020-chapter-20-rent-is-due",
   title: "Chapter 20 - Rent is Due",
   story: "hell-horizon-healer",

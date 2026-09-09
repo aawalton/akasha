@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHorizonHealer0038Chapter38TwoSuns = {
   id: "01a06731-ae7e-7004-a2cd-d5a9b76ccc32",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-horizon-healer-0038-chapter-38-two-suns",
   title: "Chapter 38 - Two Suns?",
   story: "hell-horizon-healer",

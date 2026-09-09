@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const incrementalTortureAnIdleSystemTowerClimbing0053053SteakAndChips = {
   id: "01a06731-ae0b-7008-8c17-6a4d7c2753c0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0053-053-steak-and-chips",
   title: "053: Steak? and Chips",
   story: "incremental-torture-an-idle-system-tower-climbing",

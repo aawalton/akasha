@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0024Chapter24MagicalGeographyPt2 = {
   id: "01a06731-adb2-7000-b80a-aa8e95bbfd6e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0024-chapter-24-magical-geography-pt-2",
   title: "Chapter 24 — Magical Geography, Pt 2",
   story: "just-add-mana",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellHorizonHealer0019Chapter19TheCalmAfterTheStorm = {
   id: "01a06731-ae7c-700c-81f2-58beae305437",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-horizon-healer-0019-chapter-19-the-calm-after-the-storm",
   title: "Chapter 19 - The Calm after the Storm",
   story: "hell-horizon-healer",

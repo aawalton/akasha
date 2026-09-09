@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0007Chapter7AncientArtifactsPt2 = {
   id: "01a06731-ad9b-7000-a6f2-5e84ea3fa096",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0007-chapter-7-ancient-artifacts-pt-2",
   title: "Chapter 7 — Ancient Artifacts, Pt 2",
   story: "just-add-mana",

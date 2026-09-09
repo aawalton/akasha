@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana005858Book2Chapter6Alchemy101Pt1 = {
   id: "01a06731-addb-7000-ae2b-b23abfd8197f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0058-58-book-2-chapter-6-alchemy-101-pt-1",
   title: "58 — Book 2, Chapter 6 — Alchemy 101, Pt 1",
   story: "just-add-mana",

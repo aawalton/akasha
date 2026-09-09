@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana0144141Book3Chapter40BloodOfExtinction = {
   id: "01a06731-ae4f-7000-b6b3-55e986437167",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0144-141-book-3-chapter-40-blood-of-extinction",
   title: "141 — Book 3, Chapter 40 — Blood of Extinction",
   story: "just-add-mana",

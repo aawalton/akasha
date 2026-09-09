@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const hellDifficultyTutorial0138SideStoryNonCanonANyaToRemember = {
   id: "01a06731-ad88-7001-97f9-744def06f443",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0138-side-story-non-canon-a-nya-to-remember",
   title: "Side story (non-canon) - A Nya to Remember",
   story: "story-read/hell-difficulty-tutorial",

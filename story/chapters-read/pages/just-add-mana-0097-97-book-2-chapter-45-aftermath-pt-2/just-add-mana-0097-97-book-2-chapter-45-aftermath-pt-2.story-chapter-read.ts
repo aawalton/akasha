@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const justAddMana009797Book2Chapter45AftermathPt2 = {
   id: "01a06731-ae12-7000-88de-b2539fa84c0c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "just-add-mana-0097-97-book-2-chapter-45-aftermath-pt-2",
   title: "97 — Book 2, Chapter 45 — Aftermath, Pt 2",
   story: "just-add-mana",
