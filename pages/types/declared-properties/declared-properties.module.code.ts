@@ -20,6 +20,10 @@ const SAID = "pagePropertySlug"
 
 const EXTENDS = "extendsSlug"
 
+const UNIQUE_PROPERTY = "uniqueProperty"
+
+const WAS_UNIQUE_PROPERTY = "uniquePropertySlug"
+
 export type Carried = {
   readonly pagePropertySlug: string
   readonly pageTypeSlug: string
@@ -100,7 +104,8 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
     const schema = source.schemaFor(said)
     if (schema === null) continue
     const { pageTypeSlug, propertySlug } = schema
-    const scoped = slugAt(one, "uniquePropertySlug") ?? schema.uniquePropertySlug
+    const scoping = slugAt(one, UNIQUE_PROPERTY) ?? slugAt(one, WAS_UNIQUE_PROPERTY)
+    const scoped = scoping ?? schema.uniquePropertySlug
     carried.push({
       pagePropertySlug: bare,
       pageTypeSlug,
@@ -310,7 +315,7 @@ export function sourceOver(values: readonly Value[]): Source {
       pageTypeSlug,
       targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
       unique: slugAt(value, "unique"),
-      uniquePropertySlug: slugAt(value, "uniquePropertySlug"),
+      uniquePropertySlug: slugAt(value, UNIQUE_PROPERTY) ?? slugAt(value, WAS_UNIQUE_PROPERTY),
       slug,
       propertySlug,
       fileName: textAt(value, "fileName"),
