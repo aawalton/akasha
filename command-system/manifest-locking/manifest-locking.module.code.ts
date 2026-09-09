@@ -10,6 +10,8 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join, relative } from "node:path"
+import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
+import { textIn, textOf } from "@akasha/code/body-text"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
 import type { FileEdit } from "../landing/landing.module.code.ts"
@@ -118,7 +120,10 @@ export function lockedOver(
   }
 }
 
-export type Locking = { readonly edits: readonly FileEdit[]; readonly said: readonly string[] }
+export type Locking = {
+  readonly edits: readonly (Adding | Replacing)[]
+  readonly said: readonly string[]
+}
 
 export const NOTHING_LOCKED: Locking = { edits: [], said: [] }
 
@@ -146,8 +151,14 @@ export function lockingOver(
     }
   }
   if (sameBytes(made.was, made.now)) return NOTHING_LOCKED
+  const was = textOf(made.was)
+  const now = textIn(made.now)
   return {
-    edits: [{ path: LOCK, body: made.now }],
+    edits: [
+      was === null
+        ? { kind: "add", path: LOCK, content: now }
+        : { kind: "replace", path: LOCK, contentFrom: was, contentTo: now },
+    ],
     said: [
       `\`${LOCK}\` was made again beside the ${many} \`${MANIFEST}\` this change ` +
         `carries, and lands in the same commit`,

@@ -51,6 +51,15 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
+      statement: "The lockfile made is answered as a change rather than as a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A base commit tracking no lockfile is answered an addition rather than a replacement.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A lockfile that could not be made leaves the landing whole and says so.",
     },
     {

@@ -82,7 +82,7 @@ export function preparing(
   const stepped = steppedFor(change)
   const globbed = globbedFor(change)
   const added = [
-    ...locking.edits,
+    ...bodiedFrom(locking.edits),
     ...bodiedFrom(worked.edits),
     ...bodiedFrom(mapped.edits),
     ...bodiedFrom(stepped.edits),

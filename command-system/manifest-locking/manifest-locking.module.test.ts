@@ -9,6 +9,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { join } from "node:path"
+import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
 import { said as git } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
 import { baseOf } from "../landing/landing.module.code.ts"
@@ -64,6 +65,10 @@ function packageBody(name: string): string {
 
 function bytes(text: string): Uint8Array {
   return new TextEncoder().encode(text)
+}
+
+function bodyOf(one: Adding | Replacing): string {
+  return one.kind === "add" ? one.content : one.contentTo
 }
 
 function world(whole: boolean = false): string {
@@ -146,11 +151,11 @@ test("a manifest arriving takes the lockfile with it, and the tree installs afte
   for (const one of ARRIVING) {
     const at = join(root, one.path)
     mkdirSync(join(at, ".."), { recursive: true })
-    writeFileSync(at, one.body ?? new Uint8Array())
+    writeFileSync(at, one.body)
   }
   expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
   for (const one of held.edits) {
-    writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
+    writeFileSync(join(root, one.path), bodyOf(one))
   }
   expect(ran(FROZEN, { cwd: root }).code).toBe(0)
 })
@@ -171,7 +176,7 @@ test("a landing carrying a manifest points the workspace at the folder that mani
     { path: "held/moved/package.json", body: bytes(packageBody("one")) },
   ]
   const locked = lockingFor(root, baseOf(root), moving)
-  for (const one of [...moving, ...locked.edits]) {
+  for (const one of moving) {
     const at = join(root, one.path)
     if (one.body === null) {
       rmSync(join(at, ".."), { recursive: true, force: true })
@@ -179,6 +184,11 @@ test("a landing carrying a manifest points the workspace at the folder that mani
     }
     mkdirSync(join(at, ".."), { recursive: true })
     writeFileSync(at, one.body)
+  }
+  for (const one of locked.edits) {
+    const at = join(root, one.path)
+    mkdirSync(join(at, ".."), { recursive: true })
+    writeFileSync(at, bodyOf(one))
   }
   expect(existsSync(link)).toBe(false)
   const put = installingIn(root, moving)
@@ -232,8 +242,11 @@ test("an install takes away a link reaching a folder whose manifest names anothe
     { path: "held/one/package.json", body: bytes(packageBody("renamed")) },
   ]
   const locked = lockingFor(root, baseOf(root), renaming)
-  for (const one of [...renaming, ...locked.edits]) {
-    writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
+  for (const one of renaming) {
+    writeFileSync(join(root, one.path), one.body)
+  }
+  for (const one of locked.edits) {
+    writeFileSync(join(root, one.path), bodyOf(one))
   }
   const put = installingIn(root, renaming)
   expect(put.wrong).toEqual([])
@@ -299,7 +312,7 @@ test("a manifest moved to another path takes the lockfile with it", () => {
   renameSync(join(root, "held/one"), join(root, "held/moved"))
   expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
   for (const one of held.edits) {
-    writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
+    writeFileSync(join(root, one.path), bodyOf(one))
   }
   expect(ran(FROZEN, { cwd: root }).code).toBe(0)
 })
@@ -311,7 +324,7 @@ test("a landing carrying a manifest to another path points the workspace at that
   const locked = lockingFor(root, baseOf(root), [], MOVED)
   renameSync(join(root, "held/one"), join(root, "held/moved"))
   for (const one of locked.edits) {
-    writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
+    writeFileSync(join(root, one.path), bodyOf(one))
   }
   expect(existsSync(link)).toBe(false)
   const put = installingIn(root, [], MOVED)
@@ -327,7 +340,7 @@ test("a manifest going takes the lockfile with it, as one arriving does", () => 
   rmSync(join(root, "held/one"), { recursive: true, force: true })
   expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
   for (const one of held.edits) {
-    writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
+    writeFileSync(join(root, one.path), bodyOf(one))
   }
   expect(ran(FROZEN, { cwd: root }).code).toBe(0)
 })
