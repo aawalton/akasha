@@ -3,6 +3,7 @@ import type { Readout } from "../../../../readouts/readout.page-type.ts"
 export const attributeIntelligence = {
   id: "01a06838-94d9-7c36-b921-4351c8db6033",
   pageTypeSlug: "readout",
+  type: "readout",
   slug: "attribute-intelligence",
   definition: "the points Alan earned on a day for the learn-everything topics he updated",
   code: "ts",

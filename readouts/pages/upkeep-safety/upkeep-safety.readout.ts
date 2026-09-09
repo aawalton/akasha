@@ -3,6 +3,7 @@ import type { Readout } from "../../readout.page-type.ts"
 export const upkeepSafety = {
   id: "01a05f42-92f5-7004-9179-75f0f75b02e9",
   pageTypeSlug: "readout",
+  type: "readout",
   slug: "upkeep-safety",
   definition: "how safe the place Alan is in",
   code: "ts",

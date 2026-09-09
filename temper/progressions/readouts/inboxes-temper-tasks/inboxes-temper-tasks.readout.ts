@@ -3,6 +3,7 @@ import type { Readout } from "../../../../readouts/readout.page-type.ts"
 export const inboxesTemperTasks = {
   id: "01a0603b-d45a-7ff5-8a9e-03ecb545e854",
   pageTypeSlug: "readout",
+  type: "readout",
   slug: "inboxes-temper-tasks",
   definition: "how many game tasks are waiting",
   code: "ts",

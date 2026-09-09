@@ -3,6 +3,7 @@ import type { Readout } from "../../readout.page-type.ts"
 export const upkeepSurplus = {
   id: "01a05fc3-145a-78a6-902f-ea39b8165c39",
   pageTypeSlug: "readout",
+  type: "readout",
   slug: "upkeep-surplus",
   definition: "how much of Alan's night the day has left him",
   code: "ts",

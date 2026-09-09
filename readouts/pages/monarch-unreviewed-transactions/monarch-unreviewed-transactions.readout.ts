@@ -3,6 +3,7 @@ import type { Readout } from "../../readout.page-type.ts"
 export const monarchUnreviewedTransactions = {
   id: "01a053aa-fc5a-7708-b1fb-780b2ca58893",
   pageTypeSlug: "readout",
+  type: "readout",
   slug: "monarch-unreviewed-transactions",
   definition: "how many transactions are unreviewed",
   code: "ts",

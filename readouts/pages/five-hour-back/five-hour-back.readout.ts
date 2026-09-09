@@ -3,6 +3,7 @@ import type { Readout } from "../../readout.page-type.ts"
 export const fiveHourBack = {
   id: "01a063bd-a526-7d2a-b1f5-8375b86d19ff",
   pageTypeSlug: "readout",
+  type: "readout",
   slug: "five-hour-back",
   definition: "how long until a spent five-hour allowance returns",
   code: "ts",

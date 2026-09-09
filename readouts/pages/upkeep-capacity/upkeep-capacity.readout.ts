@@ -3,6 +3,7 @@ import type { Readout } from "../../readout.page-type.ts"
 export const upkeepCapacity = {
   id: "01a06230-614a-7c46-9fba-3be28e181ca4",
   pageTypeSlug: "readout",
+  type: "readout",
   slug: "upkeep-capacity",
   definition: "how much stress capacity Alan has in hand",
   code: "ts",

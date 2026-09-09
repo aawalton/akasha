@@ -3,6 +3,7 @@ import type { Readout } from "../../../../readouts/readout.page-type.ts"
 export const attributeStrength = {
   id: "01a06838-9421-7f89-932a-569d681c18a4",
   pageTypeSlug: "readout",
+  type: "readout",
   slug: "attribute-strength",
   definition: "the points Alan earned on a day for the weight he moved",
   code: "ts",
