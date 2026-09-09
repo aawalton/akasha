@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperErrorsTriage = {
   id: "01a060cd-564e-7685-8e5f-1bf87cbf4467",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-errors-triage",
   definition: "how an error the game reported is judged",
-  manifest: "json",
   parts: [
     "module/errors-saved-variables",
     "module/errors-collect",
@@ -29,4 +28,4 @@ export const temperErrorsTriage = {
       statement: "Nothing here reaches the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

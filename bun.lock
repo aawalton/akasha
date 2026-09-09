@@ -63,7 +63,6 @@
         "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-errors-triage": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
@@ -1189,15 +1188,6 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "temper/errors-triage": {
-      "name": "@akasha/temper-errors-triage",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/eso-paths": {
       "name": "@akasha/temper-eso-paths",
       "dependencies": {
@@ -2091,8 +2081,6 @@
     "@akasha/temper-equipment-kinds": ["@akasha/temper-equipment-kinds@workspace:temper/temper-equipment-kinds"],
 
     "@akasha/temper-errors-addon": ["@akasha/temper-errors-addon@workspace:temper/errors-addon"],
-
-    "@akasha/temper-errors-triage": ["@akasha/temper-errors-triage@workspace:temper/errors-triage"],
 
     "@akasha/temper-eso-paths": ["@akasha/temper-eso-paths@workspace:temper/eso-paths"],
 

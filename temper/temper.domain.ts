@@ -100,7 +100,7 @@ export const temper = {
     "workspace-package/temper-equipment-kinds",
     "workspace-package/temper-equipment",
     "domain/temper-hud-window",
-    "workspace-package/temper-errors-triage",
+    "domain/temper-errors-triage",
     "domain/temper-catalog-side-file",
     "workspace-package/temper-items-rules-core",
     "workspace-package/temper-skill-kinds",

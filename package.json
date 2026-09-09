@@ -18,7 +18,6 @@
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-dungeons": "workspace:*",
-    "@akasha/temper-errors-triage": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-lua-runner": "workspace:*",
