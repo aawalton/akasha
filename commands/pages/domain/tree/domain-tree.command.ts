@@ -32,6 +32,11 @@ export const domainTree = {
       statement: "A domain no root reaches is named in `unreached` rather than dropped in silence.",
     },
     {
+      invariantKind: "gap",
+      statement:
+        "An `unreached` emptied by reading no edge at all reads as an `unreached` with nothing in it.",
+    },
+    {
       invariantKind: "departure",
       statement: "The answer is one JSON object on stdout and nothing else.",
     },
