@@ -13,7 +13,7 @@ process.env.READING_RELAY_SECRET = RELAY_SECRET
 const READOUT_ROW = {
   slug: UNREVIEWED,
   wireKey: "unreviewed",
-  scaleSlug: "backlog-count",
+  scale: "backlog-count",
   noneLeftWords: "All reviewed!",
   noneLeftEmoji: "\u{1F389}",
 }

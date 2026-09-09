@@ -11,6 +11,6 @@ export const learn = {
   color: "green",
   place: 4,
   unit: "green day units",
-  scaleSlug: "readout-scale/green-day-units",
+  scale: "readout-scale/green-day-units",
   groups: ["readout-group/values"],
 } as const satisfies Value

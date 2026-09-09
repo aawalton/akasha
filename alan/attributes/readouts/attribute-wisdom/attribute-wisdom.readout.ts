@@ -10,7 +10,7 @@ export const attributeWisdom = {
   label: "Wisdom",
   unit: "points",
   place: 4,
-  scaleSlug: "attribute-points",
+  scale: "attribute-points",
   attribute: "wisdom",
   groups: ["attributes"],
   wireKey: "wisdom",

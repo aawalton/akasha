@@ -10,7 +10,7 @@ export const upkeepCapacity = {
   label: "Capacity",
   unit: "hours",
   place: 3,
-  scaleSlug: "capacity-hours",
+  scale: "capacity-hours",
   groups: ["upkeep"],
   wireKey: "capacity",
   invariants: [

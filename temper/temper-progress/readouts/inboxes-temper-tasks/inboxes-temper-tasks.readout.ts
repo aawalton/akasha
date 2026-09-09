@@ -10,7 +10,7 @@ export const inboxesTemperTasks = {
   label: "Temper tasks",
   unit: "tasks",
   place: 3,
-  scaleSlug: "daily-inbox",
+  scale: "daily-inbox",
   earnedKey: "inbox-temper-tasks-cleared-today",
   groups: ["inboxes"],
   wireKey: "temperTasks",

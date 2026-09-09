@@ -10,7 +10,7 @@ export const upkeepActivity = {
   label: "Activity",
   unit: "calories",
   place: 5,
-  scaleSlug: "activity-calories",
+  scale: "activity-calories",
   wireKey: "activity",
   invariants: [
     {

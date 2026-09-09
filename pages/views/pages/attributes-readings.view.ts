@@ -11,7 +11,7 @@ export const attributesReadings = {
   layout: "table",
   narrows: [{ key: "groups", comparison: "has", values: ["attributes"] }],
   viewSorts: [{ key: "place", descending: false }],
-  visibleProperties: ["label", "last-value", "unit", "last-value-at", "scale-slug"],
+  visibleProperties: ["label", "last-value", "unit", "last-value-at", "scale"],
   alwaysShowProperties: ["last-value", "last-value-at"],
   hiddenPropertiesOrder: [
     "definition",

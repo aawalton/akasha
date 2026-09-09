@@ -21,7 +21,7 @@ const READOUT_ROW = {
   label: "Surplus",
   unit: "hours",
   place: 2,
-  scaleSlug: "surplus-hours",
+  scale: "surplus-hours",
   wireKey: GROUP,
   groups: [GROUP],
 }

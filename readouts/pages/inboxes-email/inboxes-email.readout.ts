@@ -10,7 +10,7 @@ export const inboxesEmail = {
   label: "Email",
   unit: "messages",
   place: 1,
-  scaleSlug: "lowest-inbox-count",
+  scale: "lowest-inbox-count",
   groups: ["inboxes"],
   wireKey: "email",
   querySlug: "email-entry-lowest-inbox-count-today",

@@ -10,7 +10,7 @@ export const attributeEndurance = {
   label: "Endurance",
   unit: "points",
   place: 2,
-  scaleSlug: "attribute-points",
+  scale: "attribute-points",
   attribute: "endurance",
   groups: ["attributes"],
   wireKey: "endurance",

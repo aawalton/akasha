@@ -27,7 +27,7 @@ let heldOrigin: string | undefined
 const READOUT_ROW = {
   slug: READOUT,
   wireKey: WIRE_KEY,
-  scaleSlug: SCALE,
+  scale: SCALE,
   noneLeftWords: "All reviewed!",
   noneLeftEmoji: "🎉",
 }

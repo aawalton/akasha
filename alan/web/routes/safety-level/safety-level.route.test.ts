@@ -18,7 +18,7 @@ const READOUT_ROW = {
   label: "Safety",
   unit: "levels",
   place: 1,
-  scaleSlug: "safety-level",
+  scale: "safety-level",
   wireKey: GROUP,
   groups: [GROUP],
 }

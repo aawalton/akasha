@@ -11,7 +11,7 @@ export const upkeepPlants = {
   label: "Plants",
   unit: "grams",
   place: 4,
-  scaleSlug: "plant-grams",
+  scale: "plant-grams",
   wireKey: "plants",
   invariants: [
     {

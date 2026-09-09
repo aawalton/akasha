@@ -10,7 +10,7 @@ export const weeklyEnds = {
   unit: "hours",
   place: 4,
   drawnAs: "number",
-  scaleSlug: "allowance-hours",
+  scale: "allowance-hours",
   groups: ["claude-usage"],
   wireKey: "weekly-ends",
   querySlug: "claude-accounts-next-seven-day-end",

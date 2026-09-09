@@ -17,7 +17,7 @@ import type { QueryKey } from "./properties/query-key.text-property.ts"
 import type { QuerySlug } from "./properties/query-slug.text-property.ts"
 import type { ReadLiveFrom } from "./properties/read-live-from.relation-property.ts"
 import type { Enabled } from "./properties/readout-enabled.boolean-property.ts"
-import type { ScaleSlug } from "./properties/scale-slug.relation-property.ts"
+import type { Scale } from "./properties/scale.relation-property.ts"
 import type { Unit } from "./properties/unit.text-property.ts"
 import type { WireKey } from "./properties/wire-key.text-property.ts"
 
@@ -26,7 +26,7 @@ export type Readout = Module & {
   unit?: Unit
   place: Place
   drawnAs?: DrawnAs
-  scaleSlug?: ScaleSlug
+  scale?: Scale
   colorSlug?: ColorSlug
   colorFrom?: ColorFrom
   earnedKey?: EarnedKey
@@ -59,7 +59,7 @@ export const readout = {
     "relation-property/color-from",
     "relation-property/groups",
     "relation-property/read-live-from",
-    "relation-property/scale-slug",
+    "relation-property/scale",
     "text-property/color-slug",
     "text-property/drawn-as",
     "text-property/earned-key",
@@ -83,7 +83,7 @@ export const readout = {
       many: false,
       default: "stoplight",
     },
-    { pagePropertySlug: "relation-property/scale-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/scale", required: false, many: false },
     { pagePropertySlug: "text-property/color-slug", required: false, many: false },
     { pagePropertySlug: "relation-property/color-from", required: false, many: false },
     { pagePropertySlug: "text-property/earned-key", required: false, many: false },

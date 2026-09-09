@@ -10,7 +10,7 @@ export const attributeConstitution = {
   label: "Constitution",
   unit: "points",
   place: 3,
-  scaleSlug: "attribute-points",
+  scale: "attribute-points",
   attribute: "constitution",
   groups: ["attributes"],
   wireKey: "constitution",

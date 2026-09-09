@@ -11,6 +11,6 @@ export const love = {
   color: "red",
   place: 2,
   unit: "green day units",
-  scaleSlug: "readout-scale/green-day-units",
+  scale: "readout-scale/green-day-units",
   groups: ["readout-group/values"],
 } as const satisfies Value

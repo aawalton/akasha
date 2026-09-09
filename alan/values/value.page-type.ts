@@ -8,7 +8,7 @@ import type { QueryArgument } from "../../readouts/properties/query-argument.tex
 import type { QueryKey } from "../../readouts/properties/query-key.text-property.ts"
 import type { QuerySlug } from "../../readouts/properties/query-slug.text-property.ts"
 import type { Enabled } from "../../readouts/properties/readout-enabled.boolean-property.ts"
-import type { ScaleSlug } from "../../readouts/properties/scale-slug.relation-property.ts"
+import type { Scale } from "../../readouts/properties/scale.relation-property.ts"
 import type { Unit } from "../../readouts/properties/unit.text-property.ts"
 import type { ValueColor } from "./properties/value-color.relation-property.ts"
 
@@ -18,7 +18,7 @@ export type Value = Domain & {
   color?: ValueColor
   place: Place
   unit?: Unit
-  scaleSlug?: ScaleSlug
+  scale?: Scale
   groups?: Groups
   querySlug?: QuerySlug
   queryKey?: QueryKey
@@ -47,7 +47,7 @@ export const value = {
     { pagePropertySlug: "relation-property/value-color", required: false, many: false },
     { pagePropertySlug: "number-property/place", required: true, many: false },
     { pagePropertySlug: "text-property/unit", required: false, many: false },
-    { pagePropertySlug: "relation-property/scale-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/scale", required: false, many: false },
     {
       pagePropertySlug: "relation-property/groups",
       required: false,

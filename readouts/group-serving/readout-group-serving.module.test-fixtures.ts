@@ -15,7 +15,7 @@ export const READOUT_ROW = {
   label: "Safety",
   unit: "levels",
   place: 1,
-  scaleSlug: SCALE,
+  scale: SCALE,
   wireKey: "safety",
   groups: [GROUP],
 }
@@ -24,7 +24,7 @@ export const OTHER_ROW = {
   slug: OTHER,
   label: "Surplus",
   place: 2,
-  scaleSlug: SCALE,
+  scale: SCALE,
   wireKey: "surplus",
   groups: [GROUP],
 }

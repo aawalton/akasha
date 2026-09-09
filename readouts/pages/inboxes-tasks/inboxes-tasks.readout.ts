@@ -10,7 +10,7 @@ export const inboxesTasks = {
   label: "Tasks",
   unit: "tasks",
   place: 2,
-  scaleSlug: "daily-inbox",
+  scale: "daily-inbox",
   earnedKey: "inbox-tasks-cleared-today",
   groups: ["inboxes"],
   wireKey: "tasks",
