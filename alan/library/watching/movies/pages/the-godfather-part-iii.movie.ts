@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theGodfatherPartIii = {
   id: "01a06802-6d9a-700f-9701-75b291a313e1",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-godfather-part-iii",
   title: "The Godfather: Part III",
   partOfCollections: ["the-godfather-2"],

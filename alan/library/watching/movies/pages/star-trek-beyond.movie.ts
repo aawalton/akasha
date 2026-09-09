@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const starTrekBeyond = {
   id: "01a06802-6d99-703a-a4d6-706b317e2763",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "star-trek-beyond",
   title: "Star Trek Beyond",
   partOfCollections: ["star-trek-3"],

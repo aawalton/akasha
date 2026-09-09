@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const galaxyQuest = {
   id: "01a06802-6d99-7010-b9dc-96d3aaedc854",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "galaxy-quest",
   title: "Galaxy Quest",
   partOfCollections: ["science-fiction-shows"],

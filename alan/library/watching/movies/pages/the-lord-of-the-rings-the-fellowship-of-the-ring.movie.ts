@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theLordOfTheRingsTheFellowshipOfTheRing = {
   id: "01a06802-6d9a-7017-a755-69fbe41ecbc7",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-lord-of-the-rings-the-fellowship-of-the-ring",
   title: "The Lord of the Rings: The Fellowship of the Ring",
   partOfCollections: ["the-lord-of-the-rings-shows"],

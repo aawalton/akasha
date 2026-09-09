@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const revengeOfTheSith = {
   id: "01a06802-6d99-702e-b0e0-16a68e153cdf",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "revenge-of-the-sith",
   title: "Revenge of the Sith",
   partOfCollections: ["star-wars-2"],

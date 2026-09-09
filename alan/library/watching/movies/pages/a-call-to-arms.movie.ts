@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const aCallToArms = {
   id: "01a06802-6d98-7000-b9ae-02f3ef8b4c25",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "a-call-to-arms",
   title: "A Call to Arms",
   partOfCollections: ["babylon-5-2"],

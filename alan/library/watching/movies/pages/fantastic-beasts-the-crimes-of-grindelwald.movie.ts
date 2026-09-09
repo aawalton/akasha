@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const fantasticBeastsTheCrimesOfGrindelwald = {
   id: "01a06802-6d99-700d-b6f0-be8c3f0f8ecf",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "fantastic-beasts-the-crimes-of-grindelwald",
   title: "Fantastic Beasts: The Crimes of Grindelwald",
   partOfCollections: ["fantastic-beasts-movie-series"],

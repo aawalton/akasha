@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const harryPotterAndThePhilosopherSStone = {
   id: "01a06802-6d99-701b-bdb4-6f265e1776ba",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "harry-potter-and-the-philosopher-s-stone",
   title: "Harry Potter and the Philosopher's Stone",
   partOfCollections: ["harry-potter-movie-series"],

@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const harryPotterAndTheChamberOfSecrets = {
   id: "01a06802-6d99-7015-912c-433476ecfeed",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "harry-potter-and-the-chamber-of-secrets",
   title: "Harry Potter and the Chamber of Secrets",
   partOfCollections: ["harry-potter-movie-series"],

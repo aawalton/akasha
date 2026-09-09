@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const starTrekFirstContact = {
   id: "01a06802-6d99-703b-9e2d-7805a60e7a11",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "star-trek-first-contact",
   title: "Star Trek: First Contact",
   partOfCollections: ["star-trek-3"],

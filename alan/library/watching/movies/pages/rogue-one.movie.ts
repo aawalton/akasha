@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const rogueOne = {
   id: "01a06802-6d99-7031-a726-e734a5930178",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "rogue-one",
   title: "Rogue One",
   partOfCollections: ["star-wars-2"],

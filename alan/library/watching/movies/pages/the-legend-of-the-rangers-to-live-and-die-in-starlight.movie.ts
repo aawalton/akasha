@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theLegendOfTheRangersToLiveAndDieInStarlight = {
   id: "01a06802-6d9a-7016-ade6-7488670d88af",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-legend-of-the-rangers-to-live-and-die-in-starlight",
   title: "The Legend of the Rangers: To Live and Die in Starlight",
   partOfCollections: ["babylon-5-2"],

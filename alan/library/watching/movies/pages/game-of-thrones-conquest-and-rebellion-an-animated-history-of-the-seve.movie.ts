@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const gameOfThronesConquestAndRebellionAnAnimatedHistoryOfTheSeve = {
   id: "01a06802-6d99-7011-8b7a-7ca6ef3c07b4",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "game-of-thrones-conquest-and-rebellion-an-animated-history-of-the-seve",
   title: "Game of Thrones Conquest & Rebellion: An Animated History of the Seven Kingdoms",
   partOfCollections: ["game-of-thrones-2"],

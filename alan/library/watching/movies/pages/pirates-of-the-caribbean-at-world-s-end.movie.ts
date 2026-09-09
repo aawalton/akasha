@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const piratesOfTheCaribbeanAtWorldSEnd = {
   id: "01a06802-6d99-7026-8e8d-f6b083ff105e",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "pirates-of-the-caribbean-at-world-s-end",
   title: "Pirates of the Caribbean: At World's End",
   partOfCollections: ["pirates-of-the-caribbean-2"],

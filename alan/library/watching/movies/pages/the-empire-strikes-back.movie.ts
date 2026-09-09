@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theEmpireStrikesBack = {
   id: "01a06802-6d9a-7009-bb63-9e92fb5e64f7",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-empire-strikes-back",
   title: "The Empire Strikes Back",
   partOfCollections: ["star-wars-2"],

@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const wonderWoman1984 = {
   id: "01a06802-6d9a-702c-82c2-628e48df1737",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "wonder-woman-1984",
   title: "Wonder Woman 1984",
   partOfCollections: ["dc-extended-universe"],

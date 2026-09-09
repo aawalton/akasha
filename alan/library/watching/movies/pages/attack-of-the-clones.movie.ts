@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const attackOfTheClones = {
   id: "01a06802-6d98-7008-b6d6-f18e7c93f5d0",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "attack-of-the-clones",
   title: "Attack of the Clones",
   partOfCollections: ["star-wars-2"],

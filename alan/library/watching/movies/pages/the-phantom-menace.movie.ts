@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const thePhantomMenace = {
   id: "01a06802-6d9a-701c-b11d-a9128b154673",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-phantom-menace",
   title: "The Phantom Menace",
   partOfCollections: ["star-wars-2"],

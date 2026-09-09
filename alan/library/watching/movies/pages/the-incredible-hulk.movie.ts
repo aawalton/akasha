@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theIncredibleHulk = {
   id: "01a06802-6d9a-7014-b204-130db86e5202",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-incredible-hulk",
   title: "The Incredible Hulk",
   partOfCollections: ["marvel-cinematic-universe"],

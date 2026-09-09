@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const returnOfTheJedi = {
   id: "01a06802-6d99-702d-9b83-569f384394e3",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "return-of-the-jedi",
   title: "Return of the Jedi",
   partOfCollections: ["star-wars-2"],

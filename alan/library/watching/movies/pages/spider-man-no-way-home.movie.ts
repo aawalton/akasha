@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const spiderManNoWayHome = {
   id: "01a06802-6d99-7038-baa4-68d0f1d23004",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "spider-man-no-way-home",
   title: "Spider-Man: No Way Home",
   partOfCollections: ["marvel-cinematic-universe"],

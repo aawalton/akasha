@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const shazamFuryOfTheGods = {
   id: "01a06802-6d99-7034-ab73-068993bf1621",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "shazam-fury-of-the-gods",
   title: "Shazam! Fury of the Gods",
   partOfCollections: ["dc-extended-universe"],

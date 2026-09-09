@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const starWars = {
   id: "01a06802-6d99-7047-b6be-3831a5c72559",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "star-wars",
   title: "Star Wars",
   partOfCollections: ["star-wars-2"],

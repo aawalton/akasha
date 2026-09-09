@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const starTrekIiiTheSearchForSpock = {
   id: "01a06802-6d99-703e-803c-8a74b076b334",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "star-trek-iii-the-search-for-spock",
   title: "Star Trek III: The Search for Spock",
   partOfCollections: ["star-trek-3"],

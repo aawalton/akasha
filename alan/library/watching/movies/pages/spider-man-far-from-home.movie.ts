@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const spiderManFarFromHome = {
   id: "01a06802-6d99-7036-af62-3f5f6d44255b",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "spider-man-far-from-home",
   title: "Spider-Man: Far From Home",
   partOfCollections: ["marvel-cinematic-universe"],

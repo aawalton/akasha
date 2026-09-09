@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const doctorStrange = {
   id: "01a06802-6d99-7003-9f76-cf12992a5882",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "doctor-strange",
   title: "Doctor Strange",
   partOfCollections: ["marvel-cinematic-universe"],

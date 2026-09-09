@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const blackWidow = {
   id: "01a06802-6d98-701a-af5a-d8dd203e317b",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "black-widow",
   title: "Black Widow",
   partOfCollections: ["marvel-cinematic-universe"],

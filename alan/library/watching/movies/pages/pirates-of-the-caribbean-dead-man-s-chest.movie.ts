@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const piratesOfTheCaribbeanDeadManSChest = {
   id: "01a06802-6d99-7027-b732-0802d0bcec08",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "pirates-of-the-caribbean-dead-man-s-chest",
   title: "Pirates of the Caribbean: Dead Man's Chest",
   partOfCollections: ["pirates-of-the-caribbean-2"],

@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const superman = {
   id: "01a06802-6d9a-7004-85fd-141fdbb35523",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "superman",
   title: "Superman",
   partOfCollections: ["dc-universe"],

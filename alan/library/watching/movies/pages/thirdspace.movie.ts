@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const thirdspace = {
   id: "01a06802-6d9a-7022-b129-969fff370962",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "thirdspace",
   title: "Thirdspace",
   partOfCollections: ["babylon-5-2"],

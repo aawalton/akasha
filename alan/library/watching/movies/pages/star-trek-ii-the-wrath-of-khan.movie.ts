@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const starTrekIiTheWrathOfKhan = {
   id: "01a06802-6d99-703d-9683-8531becaff54",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "star-trek-ii-the-wrath-of-khan",
   title: "Star Trek II: The Wrath of Khan",
   partOfCollections: ["star-trek-3"],

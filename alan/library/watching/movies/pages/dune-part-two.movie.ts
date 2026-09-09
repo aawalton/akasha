@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const dunePartTwo = {
   id: "01a06802-6d99-7008-a782-4d9bc8eb0bea",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "dune-part-two",
   title: "Dune: Part Two",
   partOfCollections: ["dune-2"],

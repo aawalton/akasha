@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theLordOfTheRingsTheTwoTowers = {
   id: "01a06802-6d9a-7019-8a1d-2f99b19056bb",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-lord-of-the-rings-the-two-towers",
   title: "The Lord of the Rings: The Two Towers",
   partOfCollections: ["the-lord-of-the-rings-shows"],

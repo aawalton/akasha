@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const starTrekSection31 = {
   id: "01a06802-6d99-7043-ac1e-c23c0930588e",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "star-trek-section-31",
   title: "Star Trek: Section 31",
   partOfCollections: ["star-trek-3"],

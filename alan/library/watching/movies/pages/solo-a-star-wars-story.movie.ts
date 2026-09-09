@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const soloAStarWarsStory = {
   id: "01a06802-6d99-7035-815d-052f70d6fc36",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "solo-a-star-wars-story",
   title: "Solo: A Star Wars Story",
   partOfCollections: ["star-wars-2"],

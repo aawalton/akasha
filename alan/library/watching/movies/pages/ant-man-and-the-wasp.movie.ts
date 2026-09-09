@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const antManAndTheWasp = {
   id: "01a06802-6d98-7004-bae3-4d930222318a",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "ant-man-and-the-wasp",
   title: "Ant-Man and the Wasp",
   partOfCollections: ["marvel-cinematic-universe"],

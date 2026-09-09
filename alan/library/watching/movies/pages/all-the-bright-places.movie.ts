@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const allTheBrightPlaces = {
   id: "01a06802-6d98-7002-915f-2612d5fd49eb",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "all-the-bright-places",
   title: "All the Bright Places",
   partOfCollections: ["watch-with-jen"],

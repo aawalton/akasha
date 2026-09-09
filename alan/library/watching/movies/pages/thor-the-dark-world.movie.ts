@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const thorTheDarkWorld = {
   id: "01a06802-6d9a-7026-b2a3-705b52f71e00",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "thor-the-dark-world",
   title: "Thor: The Dark World",
   partOfCollections: ["marvel-cinematic-universe"],

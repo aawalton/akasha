@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const oppenheimer = {
   id: "01a06802-6d99-7025-be00-5d7226cc6135",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "oppenheimer",
   title: "Oppenheimer",
   partOfCollections: ["award-winning-movies"],

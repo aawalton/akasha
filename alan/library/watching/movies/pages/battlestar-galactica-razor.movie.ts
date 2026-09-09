@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const battlestarGalacticaRazor = {
   id: "01a06802-6d98-7013-9f31-69c9f37c1c10",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "battlestar-galactica-razor",
   title: "Battlestar Galactica: Razor",
   partOfCollections: ["battlestar-galactica"],

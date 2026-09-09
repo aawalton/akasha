@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const fantasticBeastsTheSecretsOfDumbledore = {
   id: "01a06802-6d99-700e-8d92-99782a929ec1",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "fantastic-beasts-the-secrets-of-dumbledore",
   title: "Fantastic Beasts: The Secrets of Dumbledore",
   partOfCollections: ["fantastic-beasts-movie-series"],

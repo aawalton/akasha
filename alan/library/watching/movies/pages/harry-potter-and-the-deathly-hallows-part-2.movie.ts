@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const harryPotterAndTheDeathlyHallowsPart2 = {
   id: "01a06802-6d99-7017-b277-00fdec1b9aeb",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "harry-potter-and-the-deathly-hallows-part-2",
   title: "Harry Potter and the Deathly Hallows – Part 2",
   partOfCollections: ["harry-potter-movie-series"],

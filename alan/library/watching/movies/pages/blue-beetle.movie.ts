@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const blueBeetle = {
   id: "01a06802-6d98-701b-93ae-a8fe3f83ab91",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "blue-beetle",
   title: "Blue Beetle",
   partOfCollections: ["dc-extended-universe"],

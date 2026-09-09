@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const harryPotterAndThePrisonerOfAzkaban = {
   id: "01a06802-6d99-701c-901f-964b9d13db0b",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "harry-potter-and-the-prisoner-of-azkaban",
   title: "Harry Potter and the Prisoner of Azkaban",
   partOfCollections: ["harry-potter-movie-series"],

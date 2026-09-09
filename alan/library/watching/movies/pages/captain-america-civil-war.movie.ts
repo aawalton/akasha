@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const captainAmericaCivilWar = {
   id: "01a06802-6d98-701d-a02a-5eafbb8df036",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "captain-america-civil-war",
   title: "Captain America: Civil War",
   partOfCollections: ["marvel-cinematic-universe"],

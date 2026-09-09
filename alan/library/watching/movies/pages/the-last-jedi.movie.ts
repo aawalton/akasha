@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theLastJedi = {
   id: "01a06802-6d9a-7015-995b-fd0f898496a8",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-last-jedi",
   title: "The Last Jedi",
   partOfCollections: ["star-wars-2"],

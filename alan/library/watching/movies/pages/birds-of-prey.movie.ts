@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const birdsOfPrey = {
   id: "01a06802-6d98-7016-95b1-ce42bddfa537",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "birds-of-prey",
   title: "Birds of Prey",
   partOfCollections: ["dc-extended-universe"],

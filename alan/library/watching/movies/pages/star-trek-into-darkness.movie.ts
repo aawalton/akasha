@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const starTrekIntoDarkness = {
   id: "01a06802-6d99-7040-a682-4e1eb61da267",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "star-trek-into-darkness",
   title: "Star Trek Into Darkness",
   partOfCollections: ["star-trek-3"],

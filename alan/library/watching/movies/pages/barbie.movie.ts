@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const barbie = {
   id: "01a06802-6d98-700f-9c28-4201cb5539e6",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "barbie",
   title: "Barbie",
   partOfCollections: ["award-winning-movies"],

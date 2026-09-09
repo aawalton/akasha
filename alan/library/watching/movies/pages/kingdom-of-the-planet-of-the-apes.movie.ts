@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const kingdomOfThePlanetOfTheApes = {
   id: "01a06802-6d99-7022-892b-386d304b91a6",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "kingdom-of-the-planet-of-the-apes",
   title: "Kingdom of the Planet of the Apes",
   partOfCollections: ["planet-of-the-apes-2"],

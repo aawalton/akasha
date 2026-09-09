@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const thorRagnarok = {
   id: "01a06802-6d9a-7025-8362-25495e35bd89",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "thor-ragnarok",
   title: "Thor: Ragnarok",
   partOfCollections: ["marvel-cinematic-universe"],

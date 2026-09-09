@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const starTrekViTheUndiscoveredCountry = {
   id: "01a06802-6d99-7046-b502-49ed685dc5b2",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "star-trek-vi-the-undiscovered-country",
   title: "Star Trek VI: The Undiscovered Country",
   partOfCollections: ["star-trek-3"],

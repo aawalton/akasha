@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const suicideSquad = {
   id: "01a06802-6d9a-7003-8870-7397f7db6e97",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "suicide-squad",
   title: "Suicide Squad",
   partOfCollections: ["dc-extended-universe"],

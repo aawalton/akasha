@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const babylon5TheLostTales = {
   id: "01a06802-6d98-700d-8464-ac18c5e0a070",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "babylon-5-the-lost-tales",
   title: "Babylon 5: The Lost Tales",
   partOfCollections: ["babylon-5-2"],

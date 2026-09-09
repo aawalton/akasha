@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const ironMan2 = {
   id: "01a06802-6d99-701f-9814-e6b1143443ff",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "iron-man-2",
   title: "Iron Man 2",
   partOfCollections: ["marvel-cinematic-universe"],

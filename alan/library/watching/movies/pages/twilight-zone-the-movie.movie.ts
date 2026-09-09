@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const twilightZoneTheMovie = {
   id: "01a06802-6d9a-7028-abb8-5c4b50fc7594",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "twilight-zone-the-movie",
   title: "Twilight Zone: The Movie",
   partOfCollections: ["the-twilight-zone"],

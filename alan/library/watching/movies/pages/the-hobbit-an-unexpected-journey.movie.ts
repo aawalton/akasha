@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theHobbitAnUnexpectedJourney = {
   id: "01a06802-6d9a-7011-a598-f599e1c8c450",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-hobbit-an-unexpected-journey",
   title: "The Hobbit: An Unexpected Journey",
   partOfCollections: ["the-lord-of-the-rings-shows"],

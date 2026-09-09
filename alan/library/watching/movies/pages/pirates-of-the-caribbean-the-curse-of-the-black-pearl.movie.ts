@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const piratesOfTheCaribbeanTheCurseOfTheBlackPearl = {
   id: "01a06802-6d99-702a-8aef-6b8bd8c2b97b",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "pirates-of-the-caribbean-the-curse-of-the-black-pearl",
   title: "Pirates of the Caribbean: The Curse of the Black Pearl",
   partOfCollections: ["pirates-of-the-caribbean-2"],

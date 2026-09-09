@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const manOfSteel = {
   id: "01a06802-6d99-7024-84d1-c5212876b772",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "man-of-steel",
   title: "Man of Steel",
   partOfCollections: ["dc-extended-universe"],

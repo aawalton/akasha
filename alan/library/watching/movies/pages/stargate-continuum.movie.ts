@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const stargateContinuum = {
   id: "01a06802-6d9a-7001-84b1-99481254bff9",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "stargate-continuum",
   title: "Stargate: Continuum",
   partOfCollections: ["stargate-2"],

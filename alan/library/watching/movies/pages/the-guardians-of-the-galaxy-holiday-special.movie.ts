@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theGuardiansOfTheGalaxyHolidaySpecial = {
   id: "01a06802-6d9a-7010-a71a-5d02448bde2b",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-guardians-of-the-galaxy-holiday-special",
   title: "The Guardians of the Galaxy Holiday Special",
   partOfCollections: ["marvel-cinematic-universe"],

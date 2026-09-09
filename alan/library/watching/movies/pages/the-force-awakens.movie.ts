@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theForceAwakens = {
   id: "01a06802-6d9a-700c-ad8c-b836092ac513",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-force-awakens",
   title: "The Force Awakens",
   partOfCollections: ["star-wars-2"],

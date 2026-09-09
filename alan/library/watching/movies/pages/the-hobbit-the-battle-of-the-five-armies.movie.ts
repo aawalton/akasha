@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theHobbitTheBattleOfTheFiveArmies = {
   id: "01a06802-6d9a-7012-83d5-4ff0dbb6f889",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-hobbit-the-battle-of-the-five-armies",
   title: "The Hobbit: The Battle of the Five Armies",
   partOfCollections: ["the-lord-of-the-rings-shows"],

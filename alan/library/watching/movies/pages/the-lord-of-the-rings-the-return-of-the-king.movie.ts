@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const theLordOfTheRingsTheReturnOfTheKing = {
   id: "01a06802-6d9a-7018-a452-3b8fba4d3b5b",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "the-lord-of-the-rings-the-return-of-the-king",
   title: "The Lord of the Rings: The Return of the King",
   partOfCollections: ["the-lord-of-the-rings-shows"],

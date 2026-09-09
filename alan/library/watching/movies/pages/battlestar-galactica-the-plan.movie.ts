@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const battlestarGalacticaThePlan = {
   id: "01a06802-6d98-7014-a550-dad232e29485",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "battlestar-galactica-the-plan",
   title: "Battlestar Galactica: The Plan",
   partOfCollections: ["battlestar-galactica"],

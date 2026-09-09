@@ -3,6 +3,7 @@ import type { Movie } from "../movie.page-type.ts"
 export const swordArtOnlineTheMovieProgressiveScherzoOfDeepNight2 = {
   id: "01a06802-6d9a-7007-87a9-e1874f56e3a3",
   pageTypeSlug: "movie",
+  type: "movie",
   slug: "sword-art-online-the-movie-progressive-scherzo-of-deep-night-2",
   title: "Sword Art Online the Movie -Progressive- Scherzo of Deep Night",
   partOfCollections: ["sword-art-online-shows"],
