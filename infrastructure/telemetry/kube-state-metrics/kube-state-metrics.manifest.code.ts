@@ -2,7 +2,7 @@ import {
   kubeStateMetricsDeploymentYaml,
   kubeStateMetricsRbacYaml,
   kubeStateMetricsServiceYaml,
-} from "./modules/kube-state-metrics-manifests/kube-state-metrics-manifests.module.code.ts"
+} from "./modules/manifests/kube-state-metrics-manifests.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [
