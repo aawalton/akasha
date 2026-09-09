@@ -4,7 +4,6 @@ import { join, relative, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
-import { CONSOLIDATION_MIGRATIONS } from "@akasha/temper-addon-build/consolidation-migrations"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 import {
@@ -21,6 +20,7 @@ import {
 } from "@akasha/temper-addons-resolve/folder-ownership"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { addonsDir, savedVarsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { CONSOLIDATION_MIGRATIONS } from "akasha/temper/addon-build/consolidation-migrations/consolidation-migrations.module.code.ts"
 import {
   migrateBundleMemberSavedVars,
   readDeclaredSavedVars,

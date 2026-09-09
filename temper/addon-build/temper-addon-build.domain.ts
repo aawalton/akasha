@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperAddonBuild = {
   id: "01a06038-2cc1-7116-80a1-184fa5a8f3f6",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-addon-build",
   definition: "what building temper's ESO addons out of TypeScript needs to know",
-  manifest: "json",
   parts: [
     "module/lua-build-command",
     "module/addon-load-order",
@@ -51,4 +50,4 @@ export const temperAddonBuild = {
         "Every Temper addon is exercised against a real ESO client with nobody at a keyboard.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

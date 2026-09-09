@@ -3,8 +3,8 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
-import { writeLoadOrder } from "@akasha/temper-addon-build/addon-load-order"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+import { writeLoadOrder } from "akasha/temper/addon-build/addon-load-order/addon-load-order.module.code.ts"
 import { valuesOf } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1

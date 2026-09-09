@@ -3,15 +3,15 @@ import { join, relative, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
-import {
-  type DependentSourceFile,
-  enumerateGlobalDependents,
-  type GlobalDependentReport,
-} from "@akasha/temper-addon-build/global-name-dependents"
 import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { collectGlobalWritesFromSource } from "@akasha/temper-build-deploy-checks/addon-global-ownership"
+import {
+  type DependentSourceFile,
+  enumerateGlobalDependents,
+  type GlobalDependentReport,
+} from "akasha/temper/addon-build/global-name-dependents/global-name-dependents.module.code.ts"
 import {
   namesIn,
   valuesOf,

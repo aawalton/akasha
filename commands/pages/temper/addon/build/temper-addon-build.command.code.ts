@@ -7,13 +7,13 @@ import { codeRoot } from "@akasha/pages/code-root"
 import {
   compilerConfigPathFor,
   TSCONFIG_NAME,
-} from "@akasha/temper-addon-build/addon-compiler-config"
-import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
+} from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
+import { copyAddonMetadata } from "akasha/temper/addon-build/addon-metadata-copy/addon-metadata-copy.module.code.ts"
 import {
   COMPILER_ENTRY,
   compilerCommand,
   compilerRoot,
-} from "@akasha/temper-addon-build/lua-build-command"
+} from "akasha/temper/addon-build/lua-build-command/lua-build-command.module.code.ts"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
 import { ran, shown } from "@akasha/utils/run/running"

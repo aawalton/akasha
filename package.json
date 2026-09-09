@@ -17,7 +17,6 @@
     "@akasha/pages-url": "workspace:*",
     "@akasha/spotify": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
-    "@akasha/temper-addon-build": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
     "@akasha/temper-community-addons": "workspace:*",
