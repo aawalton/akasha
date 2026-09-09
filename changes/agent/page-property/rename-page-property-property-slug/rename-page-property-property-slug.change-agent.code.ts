@@ -136,6 +136,8 @@ export async function renamePagePropertyPropertySlug(
   const types = declared.filter((one) => one.kind === PAGE_TYPE)
   const key = exportedAs(read.was)
   const now = exportedAs(given.to)
+  const most = given.most ?? null
+  const whole = !read.states && most === null
   const held = spelledIn(
     world,
     types.map((one) => one.slug),
@@ -144,7 +146,7 @@ export async function renamePagePropertyPropertySlug(
       was: read.was,
       to: given.to,
       beside: read.kind === FILE_PROPERTY,
-      most: given.most ?? null,
+      most,
     }
   )
   const answers: Answer[] = []
@@ -158,7 +160,7 @@ export async function renamePagePropertyPropertySlug(
     answers.push(said.said)
     return null
   }
-  if (!read.states) {
+  if (whole) {
     const own = await reaching(CHANGE_PAGE_PROPERTY, {
       at: given.at,
       key: PROPERTY_SLUG,
@@ -170,7 +172,7 @@ export async function renamePagePropertyPropertySlug(
     const why = await reaching(RENAME_KEY, { at: path, was: key, now })
     if (why !== null) return refusing(`\`${path}\` is refused, and ${why}`)
   }
-  for (const one of read.states ? [] : types) {
+  for (const one of whole ? types : []) {
     const of = `${typedAs(one.slug)}.${key}`
     const why = await reaching(RENAME_SIGNATURE, { at: one.path, of, to: now })
     if (why !== null) return refusing(`\`${one.path}\` is refused, and ${why}`)

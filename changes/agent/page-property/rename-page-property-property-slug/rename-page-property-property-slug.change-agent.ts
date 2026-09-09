@@ -43,6 +43,14 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       invariantKind: "departure",
+      statement: "A run handed a count states no slug on the property's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run handed a count spells no signature anew.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run handed no count spells the key anew on every page with that key.",
     },
     {

@@ -169,6 +169,18 @@ test("a count handed in holds how many pages the key is spelled anew on", async 
   ])
 })
 
+test("a run handed a count states no slug and spells no signature anew", async () => {
+  const reached: Reached[] = []
+
+  await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached), BOTH), {
+    at: CODE_AT,
+    to: "code-file",
+    most: 1,
+  })
+
+  expect(reached.map((one) => one.at)).toEqual([RENAME_KEY, MOVE_FILE_CODE])
+})
+
 test("a run handed no count spells the key anew on every page carrying that key", async () => {
   const reached: Reached[] = []
 
