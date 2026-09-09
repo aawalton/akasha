@@ -1,4 +1,3 @@
-import { basename } from "node:path"
 import { FLEX } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import { pageValuesOf } from "../seat-page-values/seat-page-values.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
@@ -18,11 +17,6 @@ export interface FlexRecord {
 
 const FLEX_IN_NAME = /(?:^|-)(flex-(?:0|[1-9]\d*))(?:-|$)/
 
-// A FLEX IS CARRIED IN A SEAT'S NAME, so what this needs is the name rather than the page. Where
-// the old page has gone the name still stands in akasha, as the slug its page file is named for.
-//
-// A subagent states no flex of its own and takes the one its seat carries, so the seat above is
-// asked for a name the same two ways.
 function nameOf(agent: string): string | null {
   const own = seatNameForAgent(agent)
   if (own !== null) return own
@@ -53,9 +47,6 @@ export function launchFrom(frontmatter: Record<string, unknown> | null): string 
   return null
 }
 
-// How a seat came to exist is read from what it states, through the funnel. `refuseFlex` turns on
-// this: a seat this answers null for is refused a flex as one nothing says how it came to exist,
-// which is what every seat whose old page had gone read as.
 export function launchOf(agent: string): string | null {
   return launchFrom(pageValuesOf(agent))
 }
