@@ -14,8 +14,6 @@ const SLUG = "slug"
 
 const UNIQUE_PROPERTY = "uniqueProperty"
 
-const WAS_UNIQUE_PROPERTY = "uniquePropertySlug"
-
 export function schemaIn(value: Value): readonly Entry[] {
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (pageTypeSlug === null) return []
@@ -27,7 +25,7 @@ export function schemaIn(value: Value): readonly Entry[] {
     pageTypeSlug,
     targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
     unique: slugAt(value, "unique"),
-    uniquePropertySlug: slugAt(value, UNIQUE_PROPERTY) ?? slugAt(value, WAS_UNIQUE_PROPERTY),
+    uniquePropertySlug: slugAt(value, UNIQUE_PROPERTY),
     slug,
     propertySlug,
     fileName: textAt(value, "fileName"),
