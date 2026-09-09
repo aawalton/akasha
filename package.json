@@ -73,7 +73,10 @@
     "@akasha/seat-system": "workspace:*",
     "@akasha/google-email": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/rules-engine": "workspace:*"
+    "@akasha/rules-engine": "workspace:*",
+    "@akasha/inference-clients": "workspace:*",
+    "@akasha/inference-pool": "workspace:*",
+    "@akasha/inference-runs": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

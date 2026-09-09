@@ -17,6 +17,9 @@
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/icloud-photos": "workspace:*",
         "@akasha/imessage": "workspace:*",
+        "@akasha/inference-clients": "workspace:*",
+        "@akasha/inference-pool": "workspace:*",
+        "@akasha/inference-runs": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -866,18 +869,6 @@
     },
     "inference/comfy": {
       "name": "@akasha/comfy",
-    },
-    "inference/commands": {
-      "name": "@akasha/inference-commands",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/inference-clients": "workspace:*",
-        "@akasha/inference-pool": "workspace:*",
-        "@akasha/inference-runs": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/upscale": "workspace:*",
-      },
     },
     "inference/generations/upscale": {
       "name": "@akasha/upscale",
@@ -2789,8 +2780,6 @@
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 
     "@akasha/inference-clients": ["@akasha/inference-clients@workspace:inference/clients"],
-
-    "@akasha/inference-commands": ["@akasha/inference-commands@workspace:inference/commands"],
 
     "@akasha/inference-pool": ["@akasha/inference-pool@workspace:inference/pool"],
 

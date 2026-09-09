@@ -9,7 +9,7 @@ export const inference = {
     "domain/generation",
     "workspace-package/comfy",
     "workspace-package/inference-clients",
-    "workspace-package/inference-commands",
+    "domain/inference-commands",
     "workspace-package/inference-pool",
     "workspace-package/inference-run",
     "workspace-package/voice-inference",
