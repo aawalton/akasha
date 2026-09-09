@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0012Chapter28OpportunityKnocks
   story: "mythrans-master-of-all-continued-completed",
   position: 12,
   ownLength: 2623,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/93360/chapter-28-opportunity-knocks",

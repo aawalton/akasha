@@ -9,7 +9,7 @@ export const motherOfLearning006464Distance = {
   position: 64,
   ownLength: 7946,
   ownProgress: 7946,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:10.695Z",
   publishedAt: "2018-12-25",
   externalLink:

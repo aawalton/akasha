@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0079Chapter95TheFirstDay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 79,
   ownLength: 3590,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-25",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104490/chapter-95-the-first-day",

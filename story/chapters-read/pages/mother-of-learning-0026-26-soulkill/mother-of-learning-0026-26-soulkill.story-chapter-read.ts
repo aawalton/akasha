@@ -9,7 +9,7 @@ export const motherOfLearning002626Soulkill = {
   position: 26,
   ownLength: 14478,
   ownProgress: 14478,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:41.119Z",
   publishedAt: "2018-11-16",
   externalLink:

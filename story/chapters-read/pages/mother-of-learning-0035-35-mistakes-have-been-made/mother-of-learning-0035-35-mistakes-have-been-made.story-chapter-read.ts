@@ -9,7 +9,7 @@ export const motherOfLearning003535MistakesHaveBeenMade = {
   position: 35,
   ownLength: 7080,
   ownProgress: 7080,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:04.876Z",
   publishedAt: "2018-11-24",
   externalLink:

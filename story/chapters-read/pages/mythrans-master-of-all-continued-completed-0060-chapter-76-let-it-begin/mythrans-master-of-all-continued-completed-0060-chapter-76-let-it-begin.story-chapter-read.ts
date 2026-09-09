@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0060Chapter76LetItBegin = {
   story: "mythrans-master-of-all-continued-completed",
   position: 60,
   ownLength: 4849,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101895/chapter-76-let-it-begin",

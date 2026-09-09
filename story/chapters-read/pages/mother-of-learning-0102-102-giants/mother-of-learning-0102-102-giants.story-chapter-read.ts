@@ -9,7 +9,7 @@ export const motherOfLearning0102102Giants = {
   position: 102,
   ownLength: 7055,
   ownProgress: 7055,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:57.962Z",
   publishedAt: "2019-09-09",
   externalLink:

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0099Chapter94Expectation
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 99,
   ownLength: 2664,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3658987/chapter-94-expectation",

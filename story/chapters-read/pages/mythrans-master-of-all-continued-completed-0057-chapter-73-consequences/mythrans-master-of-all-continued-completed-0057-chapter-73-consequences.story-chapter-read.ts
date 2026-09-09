@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0057Chapter73Consequences = {
   story: "mythrans-master-of-all-continued-completed",
   position: 57,
   ownLength: 4055,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101383/chapter-73-consequences",

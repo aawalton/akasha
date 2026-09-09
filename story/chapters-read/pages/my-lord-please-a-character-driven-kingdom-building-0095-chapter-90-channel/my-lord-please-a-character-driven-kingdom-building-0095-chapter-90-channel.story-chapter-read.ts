@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0095Chapter90Channel = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 95,
   ownLength: 2062,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3628179/chapter-90-channel",

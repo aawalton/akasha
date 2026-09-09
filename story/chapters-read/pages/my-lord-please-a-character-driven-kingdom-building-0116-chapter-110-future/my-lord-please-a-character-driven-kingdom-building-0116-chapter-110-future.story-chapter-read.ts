@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0116Chapter110Future = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 116,
   ownLength: 2114,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3792209/chapter-110-future",

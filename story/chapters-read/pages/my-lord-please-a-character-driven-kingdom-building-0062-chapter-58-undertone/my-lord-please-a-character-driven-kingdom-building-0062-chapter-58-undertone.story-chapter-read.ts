@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0062Chapter58Undertone =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 62,
   ownLength: 2270,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3383388/chapter-58-undertone",

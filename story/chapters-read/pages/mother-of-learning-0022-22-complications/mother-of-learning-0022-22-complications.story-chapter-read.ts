@@ -9,7 +9,7 @@ export const motherOfLearning002222Complications = {
   position: 22,
   ownLength: 8377,
   ownProgress: 8377,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:31.080Z",
   publishedAt: "2018-11-11",
   externalLink:

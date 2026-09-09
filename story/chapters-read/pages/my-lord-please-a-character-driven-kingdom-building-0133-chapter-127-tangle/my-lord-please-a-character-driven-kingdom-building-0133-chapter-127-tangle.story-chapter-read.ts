@@ -7,7 +7,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0133Chapter127Tangle = {
   story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 133,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3926278",
   source: "royal-road",
   title: "Chapter 127 Tangle",

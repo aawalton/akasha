@@ -9,7 +9,7 @@ export const motherOfLearning005959OneStepForward = {
   position: 59,
   ownLength: 8040,
   ownProgress: 8040,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:59.360Z",
   publishedAt: "2018-12-20",
   externalLink:

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0124Chapter118Catalyst =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 124,
   ownLength: 1938,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3854904/chapter-118-catalyst",

@@ -9,7 +9,7 @@ export const motherOfLearning0100100Sacrifice = {
   position: 100,
   ownLength: 6633,
   ownProgress: 6633,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:53.330Z",
   publishedAt: "2019-06-11",
   externalLink:

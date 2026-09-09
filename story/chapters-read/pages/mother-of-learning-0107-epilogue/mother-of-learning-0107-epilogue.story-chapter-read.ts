@@ -9,7 +9,7 @@ export const motherOfLearning0107Epilogue = {
   position: 107,
   ownLength: 12295,
   ownProgress: 12295,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:50:09.311Z",
   publishedAt: "2020-02-10",
   externalLink:

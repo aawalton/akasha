@@ -9,7 +9,7 @@ export const motherOfLearning008080Enemies = {
   position: 80,
   ownLength: 7243,
   ownProgress: 7243,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:48.384Z",
   publishedAt: "2019-01-10",
   externalLink:

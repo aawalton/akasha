@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0040Chapter56ShoppingNewArc = 
   story: "mythrans-master-of-all-continued-completed",
   position: 40,
   ownLength: 2051,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98641/chapter-56-shopping-new-arc",

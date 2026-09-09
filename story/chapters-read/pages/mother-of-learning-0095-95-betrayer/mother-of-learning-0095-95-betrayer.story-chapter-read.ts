@@ -9,7 +9,7 @@ export const motherOfLearning009595Betrayer = {
   position: 95,
   ownLength: 6733,
   ownProgress: 6733,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:42.149Z",
   publishedAt: "2019-01-28",
   externalLink:

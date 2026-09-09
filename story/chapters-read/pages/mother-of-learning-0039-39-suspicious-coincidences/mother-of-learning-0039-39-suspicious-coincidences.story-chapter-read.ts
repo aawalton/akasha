@@ -9,7 +9,7 @@ export const motherOfLearning003939SuspiciousCoincidences = {
   position: 39,
   ownLength: 8616,
   ownProgress: 8616,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:14.024Z",
   publishedAt: "2018-11-30",
   externalLink:

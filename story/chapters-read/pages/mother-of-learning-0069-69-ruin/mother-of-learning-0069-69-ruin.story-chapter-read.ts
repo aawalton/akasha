@@ -9,7 +9,7 @@ export const motherOfLearning006969Ruin = {
   position: 69,
   ownLength: 7950,
   ownProgress: 7950,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:22.275Z",
   publishedAt: "2018-12-30",
   externalLink: "https://www.royalroad.com/fiction/21220/mother-of-learning/chapter/319853/69-ruin",

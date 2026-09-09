@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0093Chapter109TradingForIdeas 
   story: "mythrans-master-of-all-continued-completed",
   position: 93,
   ownLength: 4821,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106765/chapter-109-trading-for-ideas",

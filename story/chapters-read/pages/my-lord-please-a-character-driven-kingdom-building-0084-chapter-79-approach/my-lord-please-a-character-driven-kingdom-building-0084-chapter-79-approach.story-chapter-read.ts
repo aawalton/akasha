@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0084Chapter79Approach = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 84,
   ownLength: 2114,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3543983/chapter-79-approach",

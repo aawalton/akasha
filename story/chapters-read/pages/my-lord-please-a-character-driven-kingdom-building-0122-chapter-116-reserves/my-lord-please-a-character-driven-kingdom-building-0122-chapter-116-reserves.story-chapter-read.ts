@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0122Chapter116Reserves =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 122,
   ownLength: 2126,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3835601/chapter-116-reserves",

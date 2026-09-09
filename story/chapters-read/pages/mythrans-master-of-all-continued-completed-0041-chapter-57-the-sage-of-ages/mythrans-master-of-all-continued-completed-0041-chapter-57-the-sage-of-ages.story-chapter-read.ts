@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0041Chapter57TheSageOfAges = {
   story: "mythrans-master-of-all-continued-completed",
   position: 41,
   ownLength: 2648,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98793/chapter-57-the-sage-of-ages",

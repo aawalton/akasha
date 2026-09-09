@@ -9,7 +9,7 @@ export const motherOfLearning004444AShowOfTrust = {
   position: 44,
   ownLength: 7424,
   ownProgress: 7424,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:25.456Z",
   publishedAt: "2018-12-05",
   externalLink:

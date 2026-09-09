@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0011Chapter27TheAfterParty = {
   story: "mythrans-master-of-all-continued-completed",
   position: 11,
   ownLength: 2319,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/93185/chapter-27-the-after-party",

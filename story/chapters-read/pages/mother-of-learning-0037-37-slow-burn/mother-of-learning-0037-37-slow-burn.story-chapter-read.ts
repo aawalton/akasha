@@ -9,7 +9,7 @@ export const motherOfLearning003737SlowBurn = {
   position: 37,
   ownLength: 8036,
   ownProgress: 8036,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:09.616Z",
   publishedAt: "2018-11-27",
   externalLink:

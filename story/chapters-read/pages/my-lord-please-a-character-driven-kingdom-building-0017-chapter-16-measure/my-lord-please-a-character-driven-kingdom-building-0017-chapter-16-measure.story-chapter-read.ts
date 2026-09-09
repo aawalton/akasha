@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0017Chapter16Measure = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 17,
   ownLength: 2038,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3216665/chapter-16-measure",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0059Chapter75ItsAlmostDone = {
   story: "mythrans-master-of-all-continued-completed",
   position: 59,
   ownLength: 2853,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101739/chapter-75-its-almost-done",

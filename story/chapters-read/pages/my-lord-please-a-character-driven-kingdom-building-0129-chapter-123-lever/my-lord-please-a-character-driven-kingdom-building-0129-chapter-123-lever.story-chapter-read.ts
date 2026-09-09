@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0129Chapter123Lever = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 129,
   ownLength: 2009,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3891683/chapter-123-lever",

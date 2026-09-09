@@ -9,7 +9,7 @@ export const motherOfLearning007373PloddingAhead = {
   position: 73,
   ownLength: 7691,
   ownProgress: 7691,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:32.121Z",
   publishedAt: "2019-01-03",
   externalLink:

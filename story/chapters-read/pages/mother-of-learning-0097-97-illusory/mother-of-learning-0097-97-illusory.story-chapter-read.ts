@@ -9,7 +9,7 @@ export const motherOfLearning009797Illusory = {
   position: 97,
   ownLength: 7025,
   ownProgress: 7025,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:46.664Z",
   publishedAt: "2019-03-18",
   externalLink:

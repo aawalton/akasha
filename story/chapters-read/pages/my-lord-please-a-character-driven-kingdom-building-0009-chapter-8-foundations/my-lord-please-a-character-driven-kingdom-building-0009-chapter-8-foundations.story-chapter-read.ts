@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0009Chapter8Foundations 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 9,
   ownLength: 2505,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3201077/chapter-8-foundations",

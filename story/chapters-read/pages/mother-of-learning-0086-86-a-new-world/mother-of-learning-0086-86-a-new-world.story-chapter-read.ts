@@ -9,7 +9,7 @@ export const motherOfLearning008686ANewWorld = {
   position: 86,
   ownLength: 6414,
   ownProgress: 6414,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:47:02.284Z",
   publishedAt: "2019-01-15",
   externalLink:

@@ -9,7 +9,7 @@ export const motherOfLearning005656Obscure = {
   position: 56,
   ownLength: 6740,
   ownProgress: 6740,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:52.869Z",
   publishedAt: "2018-12-17",
   externalLink:

@@ -9,7 +9,7 @@ export const motherOfLearning00022LifeSLittleProblems = {
   position: 2,
   ownLength: 7521,
   ownProgress: 7521,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:43:45.233Z",
   publishedAt: "2018-10-28",
   externalLink:

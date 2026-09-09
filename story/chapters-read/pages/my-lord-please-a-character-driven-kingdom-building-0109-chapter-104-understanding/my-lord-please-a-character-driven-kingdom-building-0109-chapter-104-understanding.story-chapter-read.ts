@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0109Chapter104Understand
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 109,
   ownLength: 2119,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3733943/chapter-104-understanding",

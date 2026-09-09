@@ -9,7 +9,7 @@ export const motherOfLearning007676CriticalBlunder = {
   position: 76,
   ownLength: 7188,
   ownProgress: 7188,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:39.326Z",
   publishedAt: "2019-01-06",
   externalLink:

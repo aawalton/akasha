@@ -9,7 +9,7 @@ export const motherOfLearning006767Convergence = {
   position: 67,
   ownLength: 7885,
   ownProgress: 7885,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:17.671Z",
   publishedAt: "2018-12-28",
   externalLink:

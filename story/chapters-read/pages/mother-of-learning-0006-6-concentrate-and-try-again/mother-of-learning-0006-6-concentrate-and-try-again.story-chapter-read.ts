@@ -9,7 +9,7 @@ export const motherOfLearning00066ConcentrateAndTryAgain = {
   position: 6,
   ownLength: 6450,
   ownProgress: 6450,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:43:53.862Z",
   publishedAt: "2018-10-28",
   externalLink:

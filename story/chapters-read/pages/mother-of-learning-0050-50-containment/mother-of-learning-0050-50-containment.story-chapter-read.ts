@@ -9,7 +9,7 @@ export const motherOfLearning005050Containment = {
   position: 50,
   ownLength: 7581,
   ownProgress: 7581,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:39.185Z",
   publishedAt: "2018-12-11",
   externalLink:

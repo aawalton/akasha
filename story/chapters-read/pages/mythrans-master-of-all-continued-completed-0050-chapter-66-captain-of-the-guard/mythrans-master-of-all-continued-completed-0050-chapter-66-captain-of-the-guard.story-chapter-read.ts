@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0050Chapter66CaptainOfTheGuard
   story: "mythrans-master-of-all-continued-completed",
   position: 50,
   ownLength: 4046,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100255/chapter-66-captain-of-the-guard",

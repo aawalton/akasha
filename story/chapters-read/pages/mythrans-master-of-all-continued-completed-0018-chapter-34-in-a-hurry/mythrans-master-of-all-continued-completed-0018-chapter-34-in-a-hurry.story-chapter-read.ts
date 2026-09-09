@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0018Chapter34InAHurry = {
   story: "mythrans-master-of-all-continued-completed",
   position: 18,
   ownLength: 2589,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94966/chapter-34-in-a-hurry",

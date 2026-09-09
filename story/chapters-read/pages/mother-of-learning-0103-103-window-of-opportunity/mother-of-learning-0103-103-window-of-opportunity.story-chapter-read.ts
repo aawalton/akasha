@@ -9,7 +9,7 @@ export const motherOfLearning0103103WindowOfOpportunity = {
   position: 103,
   ownLength: 12302,
   ownProgress: 12302,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:50:00.171Z",
   publishedAt: "2020-02-02",
   externalLink:

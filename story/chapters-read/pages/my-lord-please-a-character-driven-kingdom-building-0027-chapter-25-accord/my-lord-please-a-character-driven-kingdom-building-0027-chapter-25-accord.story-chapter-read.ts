@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0027Chapter25Accord = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 27,
   ownLength: 2683,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-09",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3252900/chapter-25-accord",

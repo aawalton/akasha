@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0031Chapter47TheSurprise = {
   story: "mythrans-master-of-all-continued-completed",
   position: 31,
   ownLength: 2521,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97066/chapter-47-the-surprise",

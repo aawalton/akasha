@@ -9,7 +9,7 @@ export const motherOfLearning009494Ghosts = {
   position: 94,
   ownLength: 5956,
   ownProgress: 5956,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:39.860Z",
   publishedAt: "2019-01-23",
   externalLink:

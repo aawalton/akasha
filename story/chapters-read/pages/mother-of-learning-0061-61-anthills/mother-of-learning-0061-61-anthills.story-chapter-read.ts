@@ -9,7 +9,7 @@ export const motherOfLearning006161Anthills = {
   position: 61,
   ownLength: 7146,
   ownProgress: 7146,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:04.035Z",
   publishedAt: "2018-12-22",
   externalLink:

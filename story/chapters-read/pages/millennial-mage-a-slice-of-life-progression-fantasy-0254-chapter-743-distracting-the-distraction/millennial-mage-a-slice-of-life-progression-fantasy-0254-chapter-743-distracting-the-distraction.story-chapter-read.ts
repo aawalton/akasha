@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0254Chapter743Distracti
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 254,
   ownLength: 2622,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3867028/chapter-743-distracting-the-distraction",

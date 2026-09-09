@@ -9,7 +9,7 @@ export const motherOfLearning009191APathPaidInBlood = {
   position: 91,
   ownLength: 13150,
   ownProgress: 13150,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:32.446Z",
   publishedAt: "2019-01-20",
   externalLink:

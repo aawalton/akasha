@@ -9,7 +9,7 @@ export const motherOfLearning009999Powderkeg = {
   position: 99,
   ownLength: 5897,
   ownProgress: 5897,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:51.251Z",
   publishedAt: "2019-05-13",
   externalLink:

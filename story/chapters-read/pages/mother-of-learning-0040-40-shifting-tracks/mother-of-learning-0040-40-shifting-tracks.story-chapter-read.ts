@@ -9,7 +9,7 @@ export const motherOfLearning004040ShiftingTracks = {
   position: 40,
   ownLength: 8872,
   ownProgress: 8872,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:16.996Z",
   publishedAt: "2018-12-01",
   externalLink:

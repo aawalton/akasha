@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0049Chapter65OreDelivery = {
   story: "mythrans-master-of-all-continued-completed",
   position: 49,
   ownLength: 2753,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100078/chapter-65-ore-delivery",

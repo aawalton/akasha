@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0020Chapter19Compression
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 20,
   ownLength: 2107,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-03",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3226796/chapter-19-compression",

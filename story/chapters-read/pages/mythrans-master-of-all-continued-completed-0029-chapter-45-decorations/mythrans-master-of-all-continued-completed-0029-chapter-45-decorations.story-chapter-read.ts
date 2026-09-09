@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0029Chapter45Decorations = {
   story: "mythrans-master-of-all-continued-completed",
   position: 29,
   ownLength: 2367,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96725/chapter-45-decorations",

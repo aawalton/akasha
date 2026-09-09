@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0106Chapter101Bearing = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 106,
   ownLength: 2197,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3712017/chapter-101-bearing",

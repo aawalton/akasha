@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0028Chapter44HardAtWork = {
   story: "mythrans-master-of-all-continued-completed",
   position: 28,
   ownLength: 2602,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96615/chapter-44-hard-at-work",

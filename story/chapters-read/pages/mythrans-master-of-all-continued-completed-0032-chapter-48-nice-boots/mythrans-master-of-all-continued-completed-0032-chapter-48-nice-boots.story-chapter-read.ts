@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0032Chapter48NiceBoots = {
   story: "mythrans-master-of-all-continued-completed",
   position: 32,
   ownLength: 2218,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/97233/chapter-48-nice-boots",

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0123Chapter117Belonging 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 123,
   ownLength: 2310,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3844617/chapter-117-belonging",

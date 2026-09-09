@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0017Chapter33ALoophole = {
   story: "mythrans-master-of-all-continued-completed",
   position: 17,
   ownLength: 2826,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-25",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94762/chapter-33-a-loophole",

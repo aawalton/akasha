@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0004Chapter20OutOfTheFryingPan
   story: "mythrans-master-of-all-continued-completed",
   position: 4,
   ownLength: 2115,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/91788/chapter-20-out-of-the-frying-pan",

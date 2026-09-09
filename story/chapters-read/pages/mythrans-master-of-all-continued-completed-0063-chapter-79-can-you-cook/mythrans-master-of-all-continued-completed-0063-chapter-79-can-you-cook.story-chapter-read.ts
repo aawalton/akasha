@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0063Chapter79CanYouCook = {
   story: "mythrans-master-of-all-continued-completed",
   position: 63,
   ownLength: 4010,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102318/chapter-79-can-you-cook",

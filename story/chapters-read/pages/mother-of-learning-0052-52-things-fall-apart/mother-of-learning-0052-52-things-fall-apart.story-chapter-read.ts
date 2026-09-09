@@ -9,7 +9,7 @@ export const motherOfLearning005252ThingsFallApart = {
   position: 52,
   ownLength: 9250,
   ownProgress: 9250,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:43.540Z",
   publishedAt: "2018-12-13",
   externalLink:

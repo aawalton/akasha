@@ -9,7 +9,7 @@ export const motherOfLearning004141MyriadClashingMotives = {
   position: 41,
   ownLength: 7081,
   ownProgress: 7081,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:19.154Z",
   publishedAt: "2018-12-02",
   externalLink:

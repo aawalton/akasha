@@ -9,7 +9,7 @@ export const motherOfLearning006868GreenHell = {
   position: 68,
   ownLength: 8418,
   ownProgress: 8418,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:19.886Z",
   publishedAt: "2018-12-29",
   externalLink:

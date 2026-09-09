@@ -9,7 +9,7 @@ export const motherOfLearning006666MarredPerfection = {
   position: 66,
   ownLength: 7571,
   ownProgress: 7571,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:15.474Z",
   publishedAt: "2018-12-27",
   externalLink:

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0119Chapter113Projection
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 119,
   ownLength: 1864,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3814359/chapter-113-projections",

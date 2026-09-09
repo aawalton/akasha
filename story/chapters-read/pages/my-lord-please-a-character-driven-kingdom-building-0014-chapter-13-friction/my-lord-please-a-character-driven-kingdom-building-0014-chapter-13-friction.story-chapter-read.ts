@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0014Chapter13Friction = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 14,
   ownLength: 2484,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-29",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3205519/chapter-13-friction",

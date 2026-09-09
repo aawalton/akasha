@@ -9,7 +9,7 @@ export const motherOfLearning005858QuestionsAndAnswers = {
   position: 58,
   ownLength: 6678,
   ownProgress: 6678,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:57.150Z",
   publishedAt: "2018-12-19",
   externalLink:

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0008Chapter24AForgottenFriend 
   story: "mythrans-master-of-all-continued-completed",
   position: 8,
   ownLength: 3003,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92646/chapter-24-a-forgotten-friend",

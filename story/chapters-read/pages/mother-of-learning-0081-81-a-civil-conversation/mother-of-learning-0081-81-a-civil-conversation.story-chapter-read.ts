@@ -9,7 +9,7 @@ export const motherOfLearning008181ACivilConversation = {
   position: 81,
   ownLength: 6383,
   ownProgress: 6383,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:50.583Z",
   publishedAt: "2019-01-11",
   externalLink:

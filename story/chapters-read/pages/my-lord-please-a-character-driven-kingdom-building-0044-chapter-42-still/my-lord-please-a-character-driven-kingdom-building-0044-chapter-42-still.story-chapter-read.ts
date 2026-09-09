@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0044Chapter42Still = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 44,
   ownLength: 2322,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-25",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3318244/chapter-42-still",

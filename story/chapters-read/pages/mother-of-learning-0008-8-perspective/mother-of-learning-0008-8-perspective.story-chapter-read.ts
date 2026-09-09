@@ -9,7 +9,7 @@ export const motherOfLearning00088Perspective = {
   position: 8,
   ownLength: 5659,
   ownProgress: 5659,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:43:58.284Z",
   publishedAt: "2018-10-28",
   externalLink:

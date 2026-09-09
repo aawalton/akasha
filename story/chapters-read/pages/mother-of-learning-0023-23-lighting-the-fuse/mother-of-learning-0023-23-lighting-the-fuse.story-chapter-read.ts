@@ -9,7 +9,7 @@ export const motherOfLearning002323LightingTheFuse = {
   position: 23,
   ownLength: 7085,
   ownProgress: 7085,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:34.095Z",
   publishedAt: "2018-11-12",
   externalLink:

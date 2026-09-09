@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0074Chapter69Refinement 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 74,
   ownLength: 2303,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3474528/chapter-69-refinement",

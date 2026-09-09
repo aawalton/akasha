@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0043Chapter41Hunt = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 43,
   ownLength: 1970,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3314250/chapter-41-hunt",

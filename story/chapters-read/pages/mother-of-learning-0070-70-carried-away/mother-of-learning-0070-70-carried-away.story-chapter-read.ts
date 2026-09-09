@@ -9,7 +9,7 @@ export const motherOfLearning007070CarriedAway = {
   position: 70,
   ownLength: 5950,
   ownProgress: 5950,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:24.768Z",
   publishedAt: "2018-12-31",
   externalLink:

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0070Chapter86AMisunderstanding
   story: "mythrans-master-of-all-continued-completed",
   position: 70,
   ownLength: 4147,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103404/chapter-86-a-misunderstanding",

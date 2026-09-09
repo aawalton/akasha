@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0081Chapter97TheCommanderKnows
   story: "mythrans-master-of-all-continued-completed",
   position: 81,
   ownLength: 3020,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104786/chapter-97-the-commander-knows-all",

@@ -9,7 +9,7 @@ export const motherOfLearning001616WeNeedToTalk = {
   position: 16,
   ownLength: 7043,
   ownProgress: 7043,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:17.501Z",
   publishedAt: "2018-11-05",
   externalLink:

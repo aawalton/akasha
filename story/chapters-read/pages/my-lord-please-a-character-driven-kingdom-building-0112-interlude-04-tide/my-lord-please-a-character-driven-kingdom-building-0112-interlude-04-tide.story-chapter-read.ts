@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0112Interlude04Tide = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 112,
   ownLength: 3041,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-02",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3760093/interlude-04-tide",

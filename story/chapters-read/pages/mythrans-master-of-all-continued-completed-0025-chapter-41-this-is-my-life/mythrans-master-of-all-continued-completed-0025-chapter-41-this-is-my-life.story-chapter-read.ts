@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0025Chapter41ThisIsMyLife = {
   story: "mythrans-master-of-all-continued-completed",
   position: 25,
   ownLength: 2422,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96037/chapter-41-this-is-my-life",

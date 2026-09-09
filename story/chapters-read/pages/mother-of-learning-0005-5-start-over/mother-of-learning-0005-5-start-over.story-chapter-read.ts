@@ -9,7 +9,7 @@ export const motherOfLearning00055StartOver = {
   position: 5,
   ownLength: 6500,
   ownProgress: 6500,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:43:51.460Z",
   publishedAt: "2018-10-28",
   externalLink:

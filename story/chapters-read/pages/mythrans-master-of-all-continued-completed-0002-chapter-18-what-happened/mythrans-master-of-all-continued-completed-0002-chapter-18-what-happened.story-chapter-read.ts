@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0002Chapter18WhatHappened = {
   story: "mythrans-master-of-all-continued-completed",
   position: 2,
   ownLength: 2034,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/91092/chapter-18-what-happened",

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0078Chapter73Disparity =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 78,
   ownLength: 1889,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-07",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3506346/chapter-73-disparity",

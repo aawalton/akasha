@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0046Maps = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 46,
   ownLength: 101,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3454628/maps",

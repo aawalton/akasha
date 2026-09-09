@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0256Chapter745APackedOp
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 256,
   ownLength: 2586,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3889531/chapter-745-a-packed-opportunity",

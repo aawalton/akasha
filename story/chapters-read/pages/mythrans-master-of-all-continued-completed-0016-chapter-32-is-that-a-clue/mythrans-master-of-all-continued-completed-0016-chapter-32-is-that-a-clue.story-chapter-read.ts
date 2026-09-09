@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0016Chapter32IsThatAClue = {
   story: "mythrans-master-of-all-continued-completed",
   position: 16,
   ownLength: 2072,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/94589/chapter-32-is-that-a-clue",

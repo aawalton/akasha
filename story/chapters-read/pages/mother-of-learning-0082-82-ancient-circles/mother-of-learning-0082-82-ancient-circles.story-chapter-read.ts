@@ -9,7 +9,7 @@ export const motherOfLearning008282AncientCircles = {
   position: 82,
   ownLength: 7506,
   ownProgress: 7506,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:52.794Z",
   publishedAt: "2019-01-12",
   externalLink:

@@ -9,7 +9,7 @@ export const motherOfLearning008888MysteriousWays = {
   position: 88,
   ownLength: 6822,
   ownProgress: 6822,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:25.682Z",
   publishedAt: "2019-01-17",
   externalLink:

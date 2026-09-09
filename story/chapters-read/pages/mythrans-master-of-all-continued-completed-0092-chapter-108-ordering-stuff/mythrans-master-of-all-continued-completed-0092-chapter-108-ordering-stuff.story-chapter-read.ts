@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0092Chapter108OrderingStuff = 
   story: "mythrans-master-of-all-continued-completed",
   position: 92,
   ownLength: 6331,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106620/chapter-108-ordering-stuff",

@@ -9,7 +9,7 @@ export const motherOfLearning004646TheOtherSide = {
   position: 46,
   ownLength: 7264,
   ownProgress: 7264,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:29.945Z",
   publishedAt: "2018-12-07",
   externalLink:

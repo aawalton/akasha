@@ -9,7 +9,7 @@ export const motherOfLearning005454TheGateIsBarred = {
   position: 54,
   ownLength: 8818,
   ownProgress: 8818,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:48.351Z",
   publishedAt: "2018-12-15",
   externalLink:

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0061Chapter77MakingFurniture =
   story: "mythrans-master-of-all-continued-completed",
   position: 61,
   ownLength: 3054,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/102018/chapter-77-making-furniture",

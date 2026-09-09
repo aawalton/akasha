@@ -9,7 +9,7 @@ export const motherOfLearning004848WellOfSouls = {
   position: 48,
   ownLength: 6484,
   ownProgress: 6484,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:34.526Z",
   publishedAt: "2018-12-09",
   externalLink:

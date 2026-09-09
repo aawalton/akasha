@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0007Chapter23TheField = {
   story: "mythrans-master-of-all-continued-completed",
   position: 7,
   ownLength: 2895,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92517/chapter-23-the-field",

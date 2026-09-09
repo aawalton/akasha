@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0024Chapter40ANormalDay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 24,
   ownLength: 2040,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95877/chapter-40-a-normal-day",

@@ -9,7 +9,7 @@ export const motherOfLearning008585CriticalMass = {
   position: 85,
   ownLength: 9172,
   ownProgress: 9172,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:59.792Z",
   publishedAt: "2019-01-14",
   externalLink:

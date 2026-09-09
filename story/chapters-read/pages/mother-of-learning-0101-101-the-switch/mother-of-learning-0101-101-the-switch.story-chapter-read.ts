@@ -9,7 +9,7 @@ export const motherOfLearning0101101TheSwitch = {
   position: 101,
   ownLength: 8422,
   ownProgress: 8422,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:55.569Z",
   publishedAt: "2019-07-30",
   externalLink:

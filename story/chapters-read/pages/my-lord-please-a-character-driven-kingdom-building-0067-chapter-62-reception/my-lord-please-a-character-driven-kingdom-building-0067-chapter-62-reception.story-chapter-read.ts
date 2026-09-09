@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0067Chapter62Reception =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 67,
   ownLength: 2010,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3415036/chapter-62-reception",

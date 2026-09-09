@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0013Chapter12Deviation =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 13,
   ownLength: 2271,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-28",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3204564/chapter-12-deviation",

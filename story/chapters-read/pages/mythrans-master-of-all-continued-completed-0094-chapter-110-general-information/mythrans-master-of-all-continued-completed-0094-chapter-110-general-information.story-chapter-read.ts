@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0094Chapter110GeneralInformati
   story: "mythrans-master-of-all-continued-completed",
   position: 94,
   ownLength: 4961,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106922/chapter-110-general-information",

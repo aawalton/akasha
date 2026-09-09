@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0072Chapter88TeachMeNathalia =
   story: "mythrans-master-of-all-continued-completed",
   position: 72,
   ownLength: 3893,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103595/chapter-88-teach-me-nathalia",

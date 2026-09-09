@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0083Chapter99HouseFaldihr = {
   story: "mythrans-master-of-all-continued-completed",
   position: 83,
   ownLength: 3436,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105127/chapter-99-house-faldihr",

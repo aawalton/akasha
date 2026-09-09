@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0059Chapter55Resonance =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 59,
   ownLength: 1818,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3371885/chapter-55-resonance",

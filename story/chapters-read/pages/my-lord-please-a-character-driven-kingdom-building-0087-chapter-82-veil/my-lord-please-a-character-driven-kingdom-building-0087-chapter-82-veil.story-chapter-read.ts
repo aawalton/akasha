@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0087Chapter82Veil = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 87,
   ownLength: 2054,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-21",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3571411/chapter-82-veil",

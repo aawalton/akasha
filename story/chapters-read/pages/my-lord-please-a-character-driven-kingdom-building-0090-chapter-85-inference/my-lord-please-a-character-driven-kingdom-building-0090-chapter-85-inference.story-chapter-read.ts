@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0090Chapter85Inference =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 90,
   ownLength: 2216,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3585668/chapter-85-inference",

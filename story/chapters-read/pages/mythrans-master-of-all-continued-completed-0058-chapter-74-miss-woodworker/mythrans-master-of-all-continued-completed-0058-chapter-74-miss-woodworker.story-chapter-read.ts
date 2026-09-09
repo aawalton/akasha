@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0058Chapter74MissWoodworker = 
   story: "mythrans-master-of-all-continued-completed",
   position: 58,
   ownLength: 4149,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/101567/chapter-74-miss-woodworker",

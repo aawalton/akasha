@@ -9,7 +9,7 @@ export const motherOfLearning009090ChangeOfPlans = {
   position: 90,
   ownLength: 8258,
   ownProgress: 8258,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:30.243Z",
   publishedAt: "2019-01-19",
   externalLink:

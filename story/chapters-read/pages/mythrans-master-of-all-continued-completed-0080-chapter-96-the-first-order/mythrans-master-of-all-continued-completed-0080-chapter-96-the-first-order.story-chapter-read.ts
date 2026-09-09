@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0080Chapter96TheFirstOrder = {
   story: "mythrans-master-of-all-continued-completed",
   position: 80,
   ownLength: 4804,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104618/chapter-96-the-first-order",

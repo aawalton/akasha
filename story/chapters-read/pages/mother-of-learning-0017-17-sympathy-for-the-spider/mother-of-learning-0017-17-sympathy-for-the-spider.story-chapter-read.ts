@@ -9,7 +9,7 @@ export const motherOfLearning001717SympathyForTheSpider = {
   position: 17,
   ownLength: 7349,
   ownProgress: 7349,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:19.840Z",
   publishedAt: "2018-11-06",
   externalLink:

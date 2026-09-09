@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0010Chapter26TheHospital = {
   story: "mythrans-master-of-all-continued-completed",
   position: 10,
   ownLength: 2866,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/92997/chapter-26-the-hospital",

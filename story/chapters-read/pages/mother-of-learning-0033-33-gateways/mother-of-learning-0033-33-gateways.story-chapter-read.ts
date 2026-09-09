@@ -9,7 +9,7 @@ export const motherOfLearning003333Gateways = {
   position: 33,
   ownLength: 7298,
   ownProgress: 7298,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:00.341Z",
   publishedAt: "2018-11-22",
   externalLink:

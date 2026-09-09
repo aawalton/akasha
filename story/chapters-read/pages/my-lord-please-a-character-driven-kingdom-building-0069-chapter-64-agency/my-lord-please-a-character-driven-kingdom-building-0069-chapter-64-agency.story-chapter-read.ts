@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0069Chapter64Agency = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 69,
   ownLength: 1989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3433004/chapter-64-agency",

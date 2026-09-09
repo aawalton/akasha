@@ -9,7 +9,7 @@ export const motherOfLearning009393ShelterInTheStorm = {
   position: 93,
   ownLength: 7264,
   ownProgress: 7264,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:37.373Z",
   publishedAt: "2019-01-22",
   externalLink:

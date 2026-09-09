@@ -9,7 +9,7 @@ export const motherOfLearning007878GrindingStone = {
   position: 78,
   ownLength: 6856,
   ownProgress: 6856,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:43.769Z",
   publishedAt: "2019-01-08",
   externalLink:

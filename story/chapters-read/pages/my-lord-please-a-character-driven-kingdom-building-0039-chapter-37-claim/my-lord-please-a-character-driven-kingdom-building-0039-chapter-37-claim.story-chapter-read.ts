@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0039Chapter37Claim = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 39,
   ownLength: 2522,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-21",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3301739/chapter-37-claim",

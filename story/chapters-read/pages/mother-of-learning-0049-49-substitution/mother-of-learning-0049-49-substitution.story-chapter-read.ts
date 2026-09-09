@@ -9,7 +9,7 @@ export const motherOfLearning004949Substitution = {
   position: 49,
   ownLength: 8335,
   ownProgress: 8335,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:36.658Z",
   publishedAt: "2018-12-10",
   externalLink:

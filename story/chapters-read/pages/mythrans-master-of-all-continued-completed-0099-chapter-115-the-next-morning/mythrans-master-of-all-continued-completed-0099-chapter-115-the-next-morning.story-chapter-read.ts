@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0099Chapter115TheNextMorning =
   story: "mythrans-master-of-all-continued-completed",
   position: 99,
   ownLength: 4798,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107698/chapter-115-the-next-morning",

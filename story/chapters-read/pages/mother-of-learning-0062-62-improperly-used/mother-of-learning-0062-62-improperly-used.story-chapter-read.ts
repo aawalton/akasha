@@ -9,7 +9,7 @@ export const motherOfLearning006262ImproperlyUsed = {
   position: 62,
   ownLength: 7943,
   ownProgress: 7943,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:06.034Z",
   publishedAt: "2018-12-23",
   externalLink:

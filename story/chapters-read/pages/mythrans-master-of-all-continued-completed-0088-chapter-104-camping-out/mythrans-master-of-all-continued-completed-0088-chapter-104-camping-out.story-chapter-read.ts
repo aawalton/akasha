@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0088Chapter104CampingOut = {
   story: "mythrans-master-of-all-continued-completed",
   position: 88,
   ownLength: 6407,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105975/chapter-104-camping-out",

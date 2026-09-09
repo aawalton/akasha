@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0026Chapter24Recognition
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 26,
   ownLength: 2422,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3248898/chapter-24-recognition",

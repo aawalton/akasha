@@ -9,7 +9,7 @@ export const motherOfLearning003838ReturnToCyoria = {
   position: 38,
   ownLength: 7077,
   ownProgress: 7077,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:11.983Z",
   publishedAt: "2018-11-28",
   externalLink:

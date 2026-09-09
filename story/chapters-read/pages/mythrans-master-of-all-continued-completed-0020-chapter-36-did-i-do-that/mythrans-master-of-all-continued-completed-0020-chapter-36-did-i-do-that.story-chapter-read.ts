@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0020Chapter36DidIDoThat = {
   story: "mythrans-master-of-all-continued-completed",
   position: 20,
   ownLength: 3173,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/95247/chapter-36-did-i-do-that",

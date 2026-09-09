@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0107Chapter102Dignity = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 107,
   ownLength: 2010,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-24",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3721056/chapter-102-dignity",

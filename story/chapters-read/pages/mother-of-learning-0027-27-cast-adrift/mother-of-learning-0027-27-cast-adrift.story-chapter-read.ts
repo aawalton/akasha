@@ -9,7 +9,7 @@ export const motherOfLearning002727CastAdrift = {
   position: 27,
   ownLength: 5784,
   ownProgress: 5784,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:43.427Z",
   publishedAt: "2018-11-16",
   externalLink:

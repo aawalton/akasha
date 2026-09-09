@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0065Chapter61Transition 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 65,
   ownLength: 2502,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3400596/chapter-61-transition",

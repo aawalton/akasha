@@ -9,7 +9,7 @@ export const motherOfLearning007575SoulStealer = {
   position: 75,
   ownLength: 9610,
   ownProgress: 9610,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:37.013Z",
   publishedAt: "2019-01-05",
   externalLink:

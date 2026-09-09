@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0027Chapter43Timber = {
   story: "mythrans-master-of-all-continued-completed",
   position: 27,
   ownLength: 3812,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/96455/chapter-43-timber",

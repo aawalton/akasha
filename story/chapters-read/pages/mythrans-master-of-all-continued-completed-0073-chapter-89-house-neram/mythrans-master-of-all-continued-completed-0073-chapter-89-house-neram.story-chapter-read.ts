@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0073Chapter89HouseNeram = {
   story: "mythrans-master-of-all-continued-completed",
   position: 73,
   ownLength: 5019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/103684/chapter-89-house-neram",

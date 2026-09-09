@@ -7,7 +7,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0257Chapter746WordsMade
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 257,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3910729",
   source: "royal-road",
   title: "Chapter: 746 - Words Made Real (1)",

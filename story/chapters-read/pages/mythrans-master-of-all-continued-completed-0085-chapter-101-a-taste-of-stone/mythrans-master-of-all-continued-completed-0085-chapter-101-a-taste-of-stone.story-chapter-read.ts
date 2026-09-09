@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0085Chapter101ATasteOfStone = 
   story: "mythrans-master-of-all-continued-completed",
   position: 85,
   ownLength: 3684,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105520/chapter-101-a-taste-of-stone",

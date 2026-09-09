@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0082Chapter98HelloRuck = {
   story: "mythrans-master-of-all-continued-completed",
   position: 82,
   ownLength: 3988,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104966/chapter-98-hello-ruck",

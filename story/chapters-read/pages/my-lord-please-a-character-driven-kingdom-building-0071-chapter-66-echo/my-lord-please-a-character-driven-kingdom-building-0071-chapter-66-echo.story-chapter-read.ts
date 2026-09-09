@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0071Chapter66Echo = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 71,
   ownLength: 2353,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3445222/chapter-66-echo",

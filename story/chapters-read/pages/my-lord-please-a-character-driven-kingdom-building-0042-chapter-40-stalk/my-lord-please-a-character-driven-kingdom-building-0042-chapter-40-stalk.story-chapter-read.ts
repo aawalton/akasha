@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0042Chapter40Stalk = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 42,
   ownLength: 1959,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-23",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3310167/chapter-40-stalk",

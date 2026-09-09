@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0041Chapter39Breach = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 41,
   ownLength: 2278,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-22",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3306040/chapter-39-breach",

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0038Chapter36Abandoned =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 38,
   ownLength: 2493,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3297713/chapter-36-abandoned",

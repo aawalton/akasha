@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0100Chapter116ABitTooMuch = {
   story: "mythrans-master-of-all-continued-completed",
   position: 100,
   ownLength: 5872,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107849/chapter-116-a-bit-too-much",

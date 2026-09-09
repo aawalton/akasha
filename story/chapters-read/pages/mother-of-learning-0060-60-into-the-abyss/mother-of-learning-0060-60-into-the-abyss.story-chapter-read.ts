@@ -9,7 +9,7 @@ export const motherOfLearning006060IntoTheAbyss = {
   position: 60,
   ownLength: 7993,
   ownProgress: 7993,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:01.771Z",
   publishedAt: "2018-12-21",
   externalLink:

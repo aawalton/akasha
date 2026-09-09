@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0101Chapter117Repercussions = 
   story: "mythrans-master-of-all-continued-completed",
   position: 101,
   ownLength: 3743,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107998/chapter-117-repercussions",

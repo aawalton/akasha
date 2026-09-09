@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0255Chapter744MomentsOf
   story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 255,
   ownLength: 2611,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3876365/chapter-744-moments-of-authority",

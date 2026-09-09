@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0013Chapter29IntoTheWild = {
   story: "mythrans-master-of-all-continued-completed",
   position: 13,
   ownLength: 2891,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/93500/chapter-29-into-the-wild",

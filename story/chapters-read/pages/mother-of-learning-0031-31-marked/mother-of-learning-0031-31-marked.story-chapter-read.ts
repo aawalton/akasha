@@ -9,7 +9,7 @@ export const motherOfLearning003131Marked = {
   position: 31,
   ownLength: 8626,
   ownProgress: 8626,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:55.967Z",
   publishedAt: "2018-11-20",
   externalLink:

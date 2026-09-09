@@ -9,7 +9,7 @@ export const motherOfLearning00033TheBitterTruth = {
   position: 3,
   ownLength: 7180,
   ownProgress: 7180,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:43:47.259Z",
   publishedAt: "2018-10-28",
   externalLink:

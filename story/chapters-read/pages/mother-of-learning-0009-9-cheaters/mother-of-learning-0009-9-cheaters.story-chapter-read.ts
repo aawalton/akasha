@@ -9,7 +9,7 @@ export const motherOfLearning00099Cheaters = {
   position: 9,
   ownLength: 8243,
   ownProgress: 8243,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:01.371Z",
   publishedAt: "2018-10-29",
   externalLink:

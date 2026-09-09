@@ -9,7 +9,7 @@ export const motherOfLearning001515BusyFriday = {
   position: 15,
   ownLength: 5589,
   ownProgress: 5589,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:15.454Z",
   publishedAt: "2018-11-04",
   externalLink:

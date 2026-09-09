@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0077Chapter93UnexpectedVisitor
   story: "mythrans-master-of-all-continued-completed",
   position: 77,
   ownLength: 3415,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-11-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/104169/chapter-93-unexpected-visitors",

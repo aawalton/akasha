@@ -9,7 +9,7 @@ export const motherOfLearning008484Powerless = {
   position: 84,
   ownLength: 6348,
   ownProgress: 6348,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:57.461Z",
   publishedAt: "2019-01-13",
   externalLink:

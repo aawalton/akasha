@@ -9,7 +9,7 @@ export const motherOfLearning005151OutOfControl = {
   position: 51,
   ownLength: 6425,
   ownProgress: 6425,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:41.265Z",
   publishedAt: "2018-12-12",
   externalLink:

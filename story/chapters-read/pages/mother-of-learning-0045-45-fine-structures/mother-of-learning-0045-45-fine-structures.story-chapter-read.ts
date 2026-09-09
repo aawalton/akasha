@@ -9,7 +9,7 @@ export const motherOfLearning004545FineStructures = {
   position: 45,
   ownLength: 7458,
   ownProgress: 7458,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:27.840Z",
   publishedAt: "2018-12-06",
   externalLink:

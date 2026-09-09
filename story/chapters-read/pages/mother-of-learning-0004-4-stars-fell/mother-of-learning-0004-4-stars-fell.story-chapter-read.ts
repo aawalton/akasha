@@ -9,7 +9,7 @@ export const motherOfLearning00044StarsFell = {
   position: 4,
   ownLength: 5937,
   ownProgress: 5937,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:43:49.322Z",
   publishedAt: "2018-10-28",
   externalLink:

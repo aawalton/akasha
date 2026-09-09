@@ -9,7 +9,7 @@ export const motherOfLearning002424SmokeAndMirrors = {
   position: 24,
   ownLength: 8240,
   ownProgress: 8240,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:36.428Z",
   publishedAt: "2018-11-13",
   externalLink:

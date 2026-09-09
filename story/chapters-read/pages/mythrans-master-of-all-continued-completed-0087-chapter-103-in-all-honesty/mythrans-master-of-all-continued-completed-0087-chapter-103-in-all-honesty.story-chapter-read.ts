@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0087Chapter103InAllHonesty = {
   story: "mythrans-master-of-all-continued-completed",
   position: 87,
   ownLength: 3437,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/105831/chapter-103-in-all-honesty",

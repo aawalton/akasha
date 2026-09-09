@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0082Chapter77Proof = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 82,
   ownLength: 2517,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3530548/chapter-77-proof",

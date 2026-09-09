@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0001Chapter17Aftermath = {
   story: "mythrans-master-of-all-continued-completed",
   position: 1,
   ownLength: 2258,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/90880/chapter-17-aftermath",

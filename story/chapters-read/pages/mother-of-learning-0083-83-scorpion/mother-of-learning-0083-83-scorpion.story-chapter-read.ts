@@ -9,7 +9,7 @@ export const motherOfLearning008383Scorpion = {
   position: 83,
   ownLength: 9878,
   ownProgress: 9878,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:55.276Z",
   publishedAt: "2019-01-13",
   externalLink:

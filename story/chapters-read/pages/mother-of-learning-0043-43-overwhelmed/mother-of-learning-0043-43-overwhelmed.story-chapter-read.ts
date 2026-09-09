@@ -9,7 +9,7 @@ export const motherOfLearning004343Overwhelmed = {
   position: 43,
   ownLength: 9043,
   ownProgress: 9043,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:23.287Z",
   publishedAt: "2018-12-04",
   externalLink:

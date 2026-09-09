@@ -9,7 +9,7 @@ export const motherOfLearning001414TheSisterEffect = {
   position: 14,
   ownLength: 5071,
   ownProgress: 5071,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:13.265Z",
   publishedAt: "2018-11-03",
   externalLink:

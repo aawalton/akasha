@@ -9,7 +9,7 @@ export const motherOfLearning004747Politics = {
   position: 47,
   ownLength: 7710,
   ownProgress: 7710,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:32.322Z",
   publishedAt: "2018-12-08",
   externalLink:

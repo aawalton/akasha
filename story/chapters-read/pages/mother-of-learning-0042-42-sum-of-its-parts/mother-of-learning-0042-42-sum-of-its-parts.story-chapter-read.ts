@@ -9,7 +9,7 @@ export const motherOfLearning004242SumOfItsParts = {
   position: 42,
   ownLength: 7346,
   ownProgress: 7346,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:21.235Z",
   publishedAt: "2018-12-03",
   externalLink:

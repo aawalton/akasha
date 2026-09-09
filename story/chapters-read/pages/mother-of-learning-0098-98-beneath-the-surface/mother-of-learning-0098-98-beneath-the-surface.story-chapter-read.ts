@@ -9,7 +9,7 @@ export const motherOfLearning009898BeneathTheSurface = {
   position: 98,
   ownLength: 7244,
   ownProgress: 7244,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:48.780Z",
   publishedAt: "2019-04-17",
   externalLink:

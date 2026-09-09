@@ -9,7 +9,7 @@ export const motherOfLearning003232Alternatives = {
   position: 32,
   ownLength: 5953,
   ownProgress: 5953,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:58.068Z",
   publishedAt: "2018-11-21",
   externalLink:

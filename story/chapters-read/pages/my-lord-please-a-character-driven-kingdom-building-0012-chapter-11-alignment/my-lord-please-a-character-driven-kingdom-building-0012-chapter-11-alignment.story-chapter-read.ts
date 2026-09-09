@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0012Chapter11Alignment =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 12,
   ownLength: 1977,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-28",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3202966/chapter-11-alignment",

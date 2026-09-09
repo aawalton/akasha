@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0044Chapter60DonansTeachings =
   story: "mythrans-master-of-all-continued-completed",
   position: 44,
   ownLength: 3941,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99279/chapter-60-donans-teachings",

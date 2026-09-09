@@ -9,7 +9,7 @@ export const motherOfLearning002121WheelOfFortune = {
   position: 21,
   ownLength: 8576,
   ownProgress: 8576,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:28.633Z",
   publishedAt: "2018-11-10",
   externalLink:

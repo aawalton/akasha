@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0033Chapter31Commitment 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 33,
   ownLength: 2422,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-15",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3278042/chapter-31-commitment",

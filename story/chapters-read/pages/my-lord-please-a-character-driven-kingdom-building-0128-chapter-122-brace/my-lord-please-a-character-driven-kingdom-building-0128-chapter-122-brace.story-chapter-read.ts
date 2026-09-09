@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0128Chapter122Brace = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 128,
   ownLength: 2109,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3886507/chapter-122-brace",

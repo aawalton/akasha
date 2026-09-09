@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0043Chapter59JustInTime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 43,
   ownLength: 2050,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/99093/chapter-59-just-in-time",

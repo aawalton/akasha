@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0095Chapter111GettingReady = {
   story: "mythrans-master-of-all-continued-completed",
   position: 95,
   ownLength: 2628,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107076/chapter-111-getting-ready",

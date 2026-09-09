@@ -9,7 +9,7 @@ export const motherOfLearning001313AnySecondNow = {
   position: 13,
   ownLength: 6152,
   ownProgress: 6152,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:10.904Z",
   publishedAt: "2018-11-02",
   externalLink:

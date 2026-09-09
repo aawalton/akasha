@@ -9,7 +9,7 @@ export const motherOfLearning005555Threshold = {
   position: 55,
   ownLength: 7068,
   ownProgress: 7068,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:50.671Z",
   publishedAt: "2018-12-16",
   externalLink:

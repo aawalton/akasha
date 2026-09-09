@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0022Chapter21Bend = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 22,
   ownLength: 3465,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-04",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3232097/chapter-21-bend",

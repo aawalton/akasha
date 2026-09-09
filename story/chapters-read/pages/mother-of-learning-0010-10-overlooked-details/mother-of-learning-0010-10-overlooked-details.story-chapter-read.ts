@@ -9,7 +9,7 @@ export const motherOfLearning001010OverlookedDetails = {
   position: 10,
   ownLength: 5174,
   ownProgress: 5174,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:03.658Z",
   publishedAt: "2018-10-30",
   externalLink:

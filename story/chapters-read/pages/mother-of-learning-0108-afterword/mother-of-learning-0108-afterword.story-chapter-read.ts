@@ -9,7 +9,7 @@ export const motherOfLearning0108Afterword = {
   position: 108,
   ownLength: 1097,
   ownProgress: 1097,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:50:11.512Z",
   publishedAt: "2020-02-10",
   externalLink:

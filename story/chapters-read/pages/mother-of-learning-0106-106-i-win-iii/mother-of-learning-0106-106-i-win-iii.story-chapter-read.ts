@@ -9,7 +9,7 @@ export const motherOfLearning0106106IWinIii = {
   position: 106,
   ownLength: 3257,
   ownProgress: 3257,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:50:06.952Z",
   publishedAt: "2020-02-02",
   externalLink:

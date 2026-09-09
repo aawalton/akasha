@@ -9,7 +9,7 @@ export const motherOfLearning002525TheUnexpected = {
   position: 25,
   ownLength: 7938,
   ownProgress: 7938,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:38.685Z",
   publishedAt: "2018-11-14",
   externalLink:

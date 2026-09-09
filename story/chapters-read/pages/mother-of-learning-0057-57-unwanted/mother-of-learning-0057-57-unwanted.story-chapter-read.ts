@@ -9,7 +9,7 @@ export const motherOfLearning005757Unwanted = {
   position: 57,
   ownLength: 6090,
   ownProgress: 6090,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:55.021Z",
   publishedAt: "2018-12-18",
   externalLink:

@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0004Chapter3Alicia = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 4,
   ownLength: 2690,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191545/chapter-3-alicia",

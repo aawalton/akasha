@@ -9,7 +9,7 @@ export const motherOfLearning001818ThePactIsSealed = {
   position: 18,
   ownLength: 5202,
   ownProgress: 5202,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:22.268Z",
   publishedAt: "2018-11-07",
   externalLink:

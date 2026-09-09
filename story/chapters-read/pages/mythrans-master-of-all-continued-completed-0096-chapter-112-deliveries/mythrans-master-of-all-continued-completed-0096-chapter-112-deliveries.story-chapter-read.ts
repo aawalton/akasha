@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0096Chapter112Deliveries = {
   story: "mythrans-master-of-all-continued-completed",
   position: 96,
   ownLength: 5780,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107222/chapter-112-deliveries",

@@ -9,7 +9,7 @@ export const motherOfLearning007979CrimeAndEvadingPunishment = {
   position: 79,
   ownLength: 6141,
   ownProgress: 6141,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:46.139Z",
   publishedAt: "2019-01-09",
   externalLink:

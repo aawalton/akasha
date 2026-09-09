@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0042Chapter58TheForge = {
   story: "mythrans-master-of-all-continued-completed",
   position: 42,
   ownLength: 3948,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98942/chapter-58-the-forge",

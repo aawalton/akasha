@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0005Chapter21IntoTheFire = {
   story: "mythrans-master-of-all-continued-completed",
   position: 5,
   ownLength: 3081,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-09-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/91960/chapter-21-into-the-fire",

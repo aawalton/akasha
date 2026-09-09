@@ -9,7 +9,7 @@ export const motherOfLearning00011GoodMorningBrother = {
   position: 1,
   ownLength: 7617,
   ownProgress: 7617,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:43:43.131Z",
   publishedAt: "2018-10-28",
   externalLink:

@@ -9,7 +9,7 @@ export const motherOfLearning006565DangerousGround = {
   position: 65,
   ownLength: 9703,
   ownProgress: 9703,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:12.792Z",
   publishedAt: "2018-12-26",
   externalLink:

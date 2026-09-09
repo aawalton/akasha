@@ -9,7 +9,7 @@ export const motherOfLearning003434UnreasonableThings = {
   position: 34,
   ownLength: 7300,
   ownProgress: 7300,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:02.470Z",
   publishedAt: "2018-11-23",
   externalLink:

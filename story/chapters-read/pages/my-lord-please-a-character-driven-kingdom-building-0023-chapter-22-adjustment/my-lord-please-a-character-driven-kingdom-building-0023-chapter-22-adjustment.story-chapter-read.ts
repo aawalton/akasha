@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0023Chapter22Adjustment 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 23,
   ownLength: 3682,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-05",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3235701/chapter-22-adjustment",

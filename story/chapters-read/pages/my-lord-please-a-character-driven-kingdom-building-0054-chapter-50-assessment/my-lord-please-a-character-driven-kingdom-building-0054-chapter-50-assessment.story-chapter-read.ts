@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0054Chapter50Assessment 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 54,
   ownLength: 2090,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3350257/chapter-50-assessment",

@@ -9,7 +9,7 @@ export const motherOfLearning006363TheMarchOfDays = {
   position: 63,
   ownLength: 11362,
   ownProgress: 11362,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:46:08.297Z",
   publishedAt: "2018-12-24",
   externalLink:

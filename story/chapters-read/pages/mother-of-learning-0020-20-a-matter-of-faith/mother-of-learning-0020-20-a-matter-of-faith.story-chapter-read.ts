@@ -9,7 +9,7 @@ export const motherOfLearning002020AMatterOfFaith = {
   position: 20,
   ownLength: 5878,
   ownProgress: 5878,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:26.668Z",
   publishedAt: "2018-11-09",
   externalLink:

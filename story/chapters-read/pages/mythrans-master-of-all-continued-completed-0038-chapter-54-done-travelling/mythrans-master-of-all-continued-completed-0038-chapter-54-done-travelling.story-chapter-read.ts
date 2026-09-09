@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0038Chapter54DoneTravelling = 
   story: "mythrans-master-of-all-continued-completed",
   position: 38,
   ownLength: 2621,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/98289/chapter-54-done-travelling",

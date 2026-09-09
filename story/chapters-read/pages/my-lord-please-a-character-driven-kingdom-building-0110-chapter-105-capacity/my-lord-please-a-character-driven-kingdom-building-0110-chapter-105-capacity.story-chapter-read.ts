@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0110Chapter105Capacity =
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 110,
   ownLength: 2092,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-29",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3742984/chapter-105-capacity",

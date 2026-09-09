@@ -9,7 +9,7 @@ export const motherOfLearning001111Limiters = {
   position: 11,
   ownLength: 6491,
   ownProgress: 6491,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:06.440Z",
   publishedAt: "2018-10-31",
   externalLink:

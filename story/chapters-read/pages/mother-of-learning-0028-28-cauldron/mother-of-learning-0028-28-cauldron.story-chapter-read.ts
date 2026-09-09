@@ -9,7 +9,7 @@ export const motherOfLearning002828Cauldron = {
   position: 28,
   ownLength: 6235,
   ownProgress: 6235,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:46.142Z",
   publishedAt: "2018-11-17",
   externalLink:

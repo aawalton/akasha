@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0005Chapter4Responsibili
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 5,
   ownLength: 2234,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3191548/chapter-4-responsibility",

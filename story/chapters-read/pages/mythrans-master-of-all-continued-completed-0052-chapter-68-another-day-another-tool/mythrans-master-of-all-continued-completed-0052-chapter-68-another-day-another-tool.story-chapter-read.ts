@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0052Chapter68AnotherDayAnother
   story: "mythrans-master-of-all-continued-completed",
   position: 52,
   ownLength: 3777,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100540/chapter-68-another-day-another-tool",

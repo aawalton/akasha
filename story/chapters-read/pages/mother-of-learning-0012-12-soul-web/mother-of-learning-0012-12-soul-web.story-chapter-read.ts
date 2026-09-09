@@ -9,7 +9,7 @@ export const motherOfLearning001212SoulWeb = {
   position: 12,
   ownLength: 6946,
   ownProgress: 6946,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:08.807Z",
   publishedAt: "2018-11-01",
   externalLink:

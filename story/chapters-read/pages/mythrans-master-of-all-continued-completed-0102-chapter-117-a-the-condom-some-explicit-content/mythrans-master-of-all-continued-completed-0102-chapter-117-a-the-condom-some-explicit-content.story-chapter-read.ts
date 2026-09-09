@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0102Chapter117ATheCondomSomeEx
   story: "mythrans-master-of-all-continued-completed",
   position: 102,
   ownLength: 1670,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/108000/chapter-117-a-the-condom-some-explicit-c",

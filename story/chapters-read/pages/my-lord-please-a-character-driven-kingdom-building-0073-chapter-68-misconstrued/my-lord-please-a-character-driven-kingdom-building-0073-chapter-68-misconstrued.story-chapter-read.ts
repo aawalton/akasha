@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0073Chapter68Misconstrue
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 73,
   ownLength: 2068,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3466149/chapter-68-misconstrued",

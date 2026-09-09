@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0008Chapter7Survival = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 8,
   ownLength: 2344,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-26",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3196989/chapter-7-survival",

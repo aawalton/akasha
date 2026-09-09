@@ -9,7 +9,7 @@ export const motherOfLearning003636ABattleOfMinds = {
   position: 36,
   ownLength: 7491,
   ownProgress: 7491,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:45:07.135Z",
   publishedAt: "2018-11-26",
   externalLink:

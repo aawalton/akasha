@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0051Chapter67AQuickEncounter =
   story: "mythrans-master-of-all-continued-completed",
   position: 51,
   ownLength: 4564,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-10-30",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/100401/chapter-67-a-quick-encounter",

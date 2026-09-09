@@ -9,7 +9,7 @@ export const motherOfLearning001919TangledWebs = {
   position: 19,
   ownLength: 6982,
   ownProgress: 6982,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:44:24.481Z",
   publishedAt: "2018-11-08",
   externalLink:

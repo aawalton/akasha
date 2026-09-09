@@ -9,7 +9,7 @@ export const motherOfLearning008989Victory = {
   position: 89,
   ownLength: 10362,
   ownProgress: 10362,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:27.881Z",
   publishedAt: "2019-01-18",
   externalLink:

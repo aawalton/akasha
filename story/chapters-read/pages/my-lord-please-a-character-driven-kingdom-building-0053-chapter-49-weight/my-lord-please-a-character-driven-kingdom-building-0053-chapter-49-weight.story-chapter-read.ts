@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0053Chapter49Weight = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 53,
   ownLength: 2050,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-02",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3346625/chapter-49-weight",

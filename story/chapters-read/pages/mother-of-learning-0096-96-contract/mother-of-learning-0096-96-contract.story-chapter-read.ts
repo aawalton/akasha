@@ -9,7 +9,7 @@ export const motherOfLearning009696Contract = {
   position: 96,
   ownLength: 10482,
   ownProgress: 10482,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:49:44.285Z",
   publishedAt: "2019-02-18",
   externalLink:

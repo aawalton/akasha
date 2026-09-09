@@ -9,7 +9,7 @@ export const motherOfLearning0109NewStoryIsOutZenithOfSorcery = {
   position: 109,
   ownLength: 154,
   ownProgress: 154,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:50:13.648Z",
   publishedAt: "2023-07-06",
   externalLink:

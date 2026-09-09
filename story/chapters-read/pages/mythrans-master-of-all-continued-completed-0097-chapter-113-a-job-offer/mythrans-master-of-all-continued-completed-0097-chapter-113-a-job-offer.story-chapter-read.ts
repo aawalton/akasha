@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0097Chapter113AJobOffer = {
   story: "mythrans-master-of-all-continued-completed",
   position: 97,
   ownLength: 5547,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/107345/chapter-113-a-job-offer",

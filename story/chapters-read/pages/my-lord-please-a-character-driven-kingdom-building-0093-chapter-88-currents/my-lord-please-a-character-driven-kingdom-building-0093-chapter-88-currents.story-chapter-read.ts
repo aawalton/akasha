@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0093Chapter88Currents = 
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 93,
   ownLength: 2108,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3608736/chapter-88-currents",

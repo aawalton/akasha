@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0090Chapter106AGoodDiscovery =
   story: "mythrans-master-of-all-continued-completed",
   position: 90,
   ownLength: 3142,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2016-12-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/106302/chapter-106-a-good-discovery",

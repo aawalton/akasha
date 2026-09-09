@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0108Chapter103Perspectiv
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 108,
   ownLength: 1981,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-26",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3729400/chapter-103-perspective",

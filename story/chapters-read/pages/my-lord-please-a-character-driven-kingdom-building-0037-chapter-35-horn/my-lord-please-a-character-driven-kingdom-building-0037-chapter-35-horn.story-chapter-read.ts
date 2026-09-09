@@ -8,7 +8,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0037Chapter35Horn = {
   story: "my-lord-please-a-character-driven-kingdom-building",
   position: 37,
   ownLength: 2623,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-19",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building/chapter/3293579/chapter-35-horn",
