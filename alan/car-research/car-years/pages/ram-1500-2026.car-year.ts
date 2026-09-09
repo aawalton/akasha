@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const ram15002026 = {
   id: "019e4af7-02e0-7e78-8598-91d59c8f42ea",

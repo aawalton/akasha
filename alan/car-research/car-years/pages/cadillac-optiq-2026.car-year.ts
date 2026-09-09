@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const cadillacOptiq2026 = {
   id: "019e4ad7-df55-786a-b33e-e838f64d18bc",

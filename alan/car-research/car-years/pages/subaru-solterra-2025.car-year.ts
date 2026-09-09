@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const subaruSolterra2025 = {
   id: "019e4af7-e191-7389-b9ec-2fdf38715cb3",

@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const mercedesBenzAmgE53Hybrid2025 = {
   id: "019e4af3-42d1-74d7-85f8-9c2f9be6edfe",

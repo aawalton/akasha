@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const kiaSportagePlugInHybrid2025 = {
   id: "019e4aeb-f196-7ae2-a75b-cd2aa78d02d7",

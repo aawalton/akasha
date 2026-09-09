@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const lucidGravity2025 = {
   id: "019e4aeb-2124-782f-9ff5-558035973ed4",

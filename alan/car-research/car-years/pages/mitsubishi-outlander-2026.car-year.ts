@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const mitsubishiOutlander2026 = {
   id: "019e4af2-f0d9-7864-8b2d-a874ae03728f",

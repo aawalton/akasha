@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const maseratiGrecaleFolgore2025 = {
   id: "019e4aee-3755-7b16-8fab-a3352a1b1ed4",

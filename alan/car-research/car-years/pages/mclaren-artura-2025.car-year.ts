@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const mclarenArtura2025 = {
   id: "019e4aec-a467-7c6f-8d86-e4355d39d773",

@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const ferrariSf90Stradale2025 = {
   id: "019e4adb-b2d4-7ef3-b4b0-80cbdac6fb99",

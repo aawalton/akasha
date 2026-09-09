@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const bentleyContinentalGtc2026 = {
   id: "019e4ad7-9e04-7cf0-9429-cf65c3a13909",

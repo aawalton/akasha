@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const landRoverRangeRoverSport2026 = {
   id: "019e4ae7-ed00-73d2-aa47-091cd06e3c89",

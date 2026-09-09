@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const bentleyBentaygaHybrid2026 = {
   id: "019e4ad7-4636-70fa-bb87-414e39997248",

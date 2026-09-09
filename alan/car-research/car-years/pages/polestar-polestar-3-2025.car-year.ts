@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const polestarPolestar32025 = {
   id: "019e4af3-4d13-74be-888e-5b083fb98e97",

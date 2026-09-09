@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Car } from "../cars/car.page-type.types.ts"
-import type { CarModel } from "./properties/car-model.relation-property.ts"
-import type { ModelYear } from "./properties/model-year.number-property.ts"
-import type { RefreshNotes } from "./properties/refresh-notes.text-property.ts"
-
-export type CarYear = Car & {
-  title: Title
-  modelYear: ModelYear
-  refreshNotes: RefreshNotes
-  carModel: CarModel
-}
 
 export const carYear = {
   id: "01a0659d-2432-715e-b4e1-2cfa27018de7",
@@ -36,4 +24,5 @@ export const carYear = {
       statement: "A year names the model above that year and never the trims below.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

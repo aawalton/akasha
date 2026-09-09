@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const gmcHummerEvSuv2025 = {
   id: "019e4adf-a068-71c1-9da4-80fb8638ec26",

@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const vinfastVf92026 = {
   id: "019e4afa-ff1a-7c6b-a485-29a5542305b0",

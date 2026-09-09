@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const jeepGrandCherokee4xe2025 = {
   id: "019e4ae6-5464-7852-80d1-ba02437b6a8c",

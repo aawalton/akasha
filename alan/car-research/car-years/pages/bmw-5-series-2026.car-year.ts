@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const bmw5Series2026 = {
   id: "019e4ae2-618b-72a2-9331-5045b9a5794c",

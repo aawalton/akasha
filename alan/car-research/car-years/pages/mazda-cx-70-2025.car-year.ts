@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const mazdaCx702025 = {
   id: "019e4aed-b82a-7514-be5c-ed0fe40024ce",

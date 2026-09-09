@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const toyotaSienna2025 = {
   id: "019e4b0d-d4e1-720b-8761-68fb60c30c8f",

@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const hyundaiTucsonHybrid2025 = {
   id: "019e4ae3-24bd-7478-b32a-09c89219bb1f",

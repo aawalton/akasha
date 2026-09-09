@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const fordF150Hybrid2025 = {
   id: "019e4ade-fc56-7e9d-8f3f-3744ba082a69",

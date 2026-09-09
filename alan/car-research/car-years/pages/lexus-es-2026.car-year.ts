@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const lexusEs2026 = {
   id: "019e4aeb-a8e9-7fa3-bb91-e8192a901557",

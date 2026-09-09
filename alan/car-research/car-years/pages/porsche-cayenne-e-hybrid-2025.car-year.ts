@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const porscheCayenneEHybrid2025 = {
   id: "019e4af8-e915-72e0-9374-1f4f16eacf1b",

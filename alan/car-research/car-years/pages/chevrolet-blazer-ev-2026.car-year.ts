@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const chevroletBlazerEv2026 = {
   id: "019e4ada-34fd-7bb2-9a76-5a13c6994679",

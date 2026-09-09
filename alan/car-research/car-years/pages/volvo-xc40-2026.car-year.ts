@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const volvoXc402026 = {
   id: "019e4afe-f6a0-7e81-9d91-e1b9664ef3c3",

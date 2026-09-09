@@ -1,4 +1,4 @@
-import type { CarYear } from "../car-year.page-type.ts"
+import type { CarYear } from "../car-year.page-type.types.ts"
 
 export const genesisGv602026 = {
   id: "019e4add-5000-73d6-bdfa-6cbc1446025b",
