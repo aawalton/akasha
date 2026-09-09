@@ -1,6 +1,6 @@
 "use client"
 
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {
   bulkUpdateAllCompanionQualities,

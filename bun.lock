@@ -39,7 +39,6 @@
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
-        "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
@@ -972,12 +971,6 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "temper/build-support": {
-      "name": "@akasha/temper-build-support",
-      "dependencies": {
-        "@akasha/pages-url": "workspace:*",
-      },
-    },
     "temper/capture-datamining-addon": {
       "name": "@akasha/temper-capture-datamining-addon",
       "dependencies": {
@@ -1289,7 +1282,6 @@
     "temper/temper-items-rules-core": {
       "name": "@akasha/temper-items-rules-core",
       "dependencies": {
-        "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
@@ -1324,7 +1316,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
@@ -1526,8 +1517,6 @@
     "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
 
     "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:temper/temper-build-deploy-checks"],
-
-    "@akasha/temper-build-support": ["@akasha/temper-build-support@workspace:temper/build-support"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
 

@@ -1,6 +1,5 @@
 "use client"
 
-import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
 import { classifyRule } from "@akasha/temper-items-rules-core/inventory-rule-classify"
 import type { ControlledRule } from "@akasha/temper-items-rules-core/inventory-rule-controlled"
@@ -11,6 +10,7 @@ import type {
   ItemRule,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { ruleFingerprint } from "@akasha/temper-items-rules-core/rule-fingerprint"
+import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import { useDeferredValue, useMemo } from "react"
 
 export interface AssembledInventoryRules {

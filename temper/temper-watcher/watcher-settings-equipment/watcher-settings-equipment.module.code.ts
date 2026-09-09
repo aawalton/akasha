@@ -1,6 +1,5 @@
 import { getPage } from "@akasha/pages-access/get"
 import { collectPages } from "@akasha/pages-access/iterate"
-import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
@@ -11,6 +10,7 @@ import type {
   CompletionCharacterInput,
   CompletionCompanionInput,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
+import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import {
   compileWantedEquipment as compileCharacterSignatures,
   compileWantedCompanionEquipment as compileCompanionSignatures,

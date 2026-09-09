@@ -2,13 +2,13 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
-import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { Badge, IconBadge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,

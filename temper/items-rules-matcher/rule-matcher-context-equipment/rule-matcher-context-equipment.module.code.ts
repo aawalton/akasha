@@ -1,8 +1,3 @@
-import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
-import {
-  resolveCharacterToggles,
-  resolveCompanionToggles,
-} from "@akasha/temper-build-support/automation-settings"
 import {
   compileWantedCompanionEquipmentForBuild,
   compileWantedEquipmentForBuild,
@@ -18,6 +13,11 @@ import type {
   CompletionCompanionInput,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
+import {
+  resolveCharacterToggles,
+  resolveCompanionToggles,
+} from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 

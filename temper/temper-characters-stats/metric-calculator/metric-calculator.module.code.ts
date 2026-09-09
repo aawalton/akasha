@@ -1,4 +1,4 @@
-import { indexBy } from "@akasha/temper-build-support/row-grouping"
+import { indexBy } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { base } from "../../character-sources/base-source/base-source.module.code.ts"
 import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"

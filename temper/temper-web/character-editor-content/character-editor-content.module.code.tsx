@@ -11,10 +11,10 @@ import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { Tabs } from "@akasha/design-patterns/tabs"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { encodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import {
   useCharacterLifecycle,

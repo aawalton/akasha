@@ -75,7 +75,6 @@
     "@akasha/pages-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
     "@akasha/temper-player-completion-state": "workspace:*",
-    "@akasha/temper-build-support": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/temper-addon-init": "workspace:*",

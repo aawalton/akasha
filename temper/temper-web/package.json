@@ -32,7 +32,6 @@
     "@akasha/pages-url": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
-    "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",

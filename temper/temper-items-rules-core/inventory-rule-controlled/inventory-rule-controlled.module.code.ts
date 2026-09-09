@@ -1,4 +1,4 @@
-import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
+import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import type {
   CategoryRule,
   InventoryRuleSettings,

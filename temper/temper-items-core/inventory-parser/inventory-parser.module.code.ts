@@ -1,7 +1,7 @@
-import { stripEsoNameSuffix } from "@akasha/temper-build-support/eso-name"
 import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils/narrow/as-record"
+import { stripEsoNameSuffix } from "akasha/temper/build-support/eso-name/eso-name.module.code.ts"
 import { parseItemLink } from "akasha/temper/temper-items-core/item-link-parser/item-link-parser.module.code.ts"
 import {
   parseCraftingLevels,

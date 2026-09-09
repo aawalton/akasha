@@ -1,4 +1,4 @@
-import { characterUrl } from "@akasha/temper-build-support/build-url"
+import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { z } from "zod"
 import {
   buildHash,

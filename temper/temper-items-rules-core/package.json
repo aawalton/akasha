@@ -102,7 +102,6 @@
     "./value-filter": "./value-filter/value-filter.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/utils": "workspace:*"
   }

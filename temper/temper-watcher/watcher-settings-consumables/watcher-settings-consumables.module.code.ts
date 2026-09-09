@@ -1,11 +1,11 @@
 import { getPages } from "@akasha/pages-access/get"
 import { readFiles, readPages } from "@akasha/pages-query"
-import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type {
   CharacterBuildInput,
   CompletionCharacterInput,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
+import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import {
   compileConsumableStock as consumableStockOf,
   compileWantedConsumables as wantedConsumablesOf,

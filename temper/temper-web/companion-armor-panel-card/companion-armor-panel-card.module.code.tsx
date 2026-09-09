@@ -10,8 +10,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   type CompanionArmorSlotId,

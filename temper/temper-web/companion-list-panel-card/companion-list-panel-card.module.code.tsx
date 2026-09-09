@@ -2,8 +2,8 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardHeader, CardTitle, CardTitleBadges } from "@akasha/design-primitives/card"
 import { Text } from "@akasha/design-primitives/text-body"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
-import { companionUrl } from "@akasha/temper-build-support/build-url"
 import { Badge, BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import {
   type CompanionBaseRoleId,
   getBaseRoleName,

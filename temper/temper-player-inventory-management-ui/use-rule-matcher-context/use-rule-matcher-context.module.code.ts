@@ -1,8 +1,8 @@
-import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import type {
   CharacterBuildInput,
   RuleMatcherContext,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
+import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import {
   buildDerivedContext,
   mergeInventoryContext,

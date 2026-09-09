@@ -5,14 +5,14 @@ import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Heading } from "@akasha/design-primitives/heading"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { Switch } from "@akasha/design-primitives/switch-control"
-import type {
-  CharacterAutomationToggles,
-  CompanionAutomationToggles,
-} from "@akasha/temper-build-support/automation-settings"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type {
+  CharacterAutomationToggles,
+  CompanionAutomationToggles,
+} from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import { useAutomationSettings } from "akasha/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { Info } from "lucide-react"
 import { useMemo } from "react"

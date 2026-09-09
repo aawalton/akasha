@@ -16,7 +16,7 @@ import {
   TableValue,
 } from "@akasha/design-primitives/table"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
-import { companionUrl } from "@akasha/temper-build-support/build-url"
+import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import {
   type ComboRankingsMap,
   displayRoleComboKey,

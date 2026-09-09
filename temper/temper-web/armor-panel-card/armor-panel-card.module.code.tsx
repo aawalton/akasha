@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { groupByCount } from "@akasha/temper-build-support/row-grouping"
+import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,

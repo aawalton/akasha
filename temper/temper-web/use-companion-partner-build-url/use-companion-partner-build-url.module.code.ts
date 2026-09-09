@@ -1,4 +1,4 @@
-import { companionUrl } from "@akasha/temper-build-support/build-url"
+import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import type { CompanionVisibility } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import type { useCompanionList } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import type { useCompletionCompanions } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
