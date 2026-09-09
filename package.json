@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@akasha/changes": "workspace:*",
-    "@akasha/comfy": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/health-samples-import": "workspace:*",
     "@akasha/music-choosing": "workspace:*",

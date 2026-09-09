@@ -8,7 +8,6 @@
         "@akasha/changes": "workspace:*",
         "@akasha/cluster-manifests": "workspace:*",
         "@akasha/code": "workspace:*",
-        "@akasha/comfy": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
@@ -706,13 +705,9 @@
       "name": "@akasha/inference-clients",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/comfy": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "zod": "^4.3.6",
       },
-    },
-    "inference/comfy": {
-      "name": "@akasha/comfy",
     },
     "inference/pool": {
       "name": "@akasha/inference-pool",
@@ -2046,8 +2041,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/code": ["@akasha/code@workspace:code-system"],
-
-    "@akasha/comfy": ["@akasha/comfy@workspace:inference/comfy"],
 
     "@akasha/command-system": ["@akasha/command-system@workspace:command-system"],
 

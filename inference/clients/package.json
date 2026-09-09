@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
-    "@akasha/comfy": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "zod": "^4.3.6"
   }

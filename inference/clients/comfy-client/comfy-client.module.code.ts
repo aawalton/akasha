@@ -1,7 +1,5 @@
-import type { ComfyGraph } from "@akasha/comfy/comfy-graph"
+import type { ComfyGraph } from "akasha/inference/comfy/graph/comfy-graph.module.code.ts"
 import { z } from "zod"
-
-export type { ComfyGraph, ComfyInputValue, ComfyLink, ComfyNode } from "@akasha/comfy/comfy-graph"
 
 const UploadSchema = z.looseObject({
   name: z.string(),

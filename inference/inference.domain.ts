@@ -7,7 +7,7 @@ export const inference = {
   definition: "the services that run models and keep a record of every run",
   parts: [
     "domain/generation",
-    "workspace-package/comfy",
+    "domain/comfy",
     "workspace-package/inference-clients",
     "domain/inference-commands",
     "workspace-package/inference-pool",
