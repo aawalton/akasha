@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperEsoTypings = {
   id: "01a0673e-3ddf-7000-a6f4-66fa0861fb9d",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-eso-typings",
   definition: "the game's own API documentation dump read as TypeScript declarations",
-  manifest: "json",
   parts: [
     "module/eso-doc-tokens",
     "module/eso-token-scope",
@@ -40,4 +39,4 @@ export const temperEsoTypings = {
       statement: "Nothing here reads the clone or writes a file.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -4,7 +4,7 @@ export const theEsoTypingsGeneratorWritesWhereNothingReads = {
   id: "01a081a9-5ff3-7673-9322-73112d9446c5",
   pageTypeSlug: "finding",
   slug: "the-eso-typings-generator-writes-where-nothing-reads",
-  domain: "workspace-package/temper-eso-typings",
+  domain: "domain/temper-eso-typings",
   claim:
     "The ESO typings generator writes into a directory that is not there, while thirty packages read a separately paged package instead.",
   evidence:

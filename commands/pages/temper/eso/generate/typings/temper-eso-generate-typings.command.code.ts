@@ -15,15 +15,15 @@ import {
   generateEventsFile,
   generateFunctionsFile,
   generateObjectsFile,
-} from "@akasha/temper-eso-typings/eso-declaration-text"
+} from "akasha/temper/eso-typings/eso-declaration-text/eso-declaration-text.module.code.ts"
 import {
   parseEnums,
   parseEvents,
   parseFunctions,
   parseObjects,
-} from "@akasha/temper-eso-typings/eso-doc-tokens"
-import { ESO_OPT_IN } from "@akasha/temper-eso-typings/eso-opt-in"
-import { selectOptIn } from "@akasha/temper-eso-typings/eso-token-scope"
+} from "akasha/temper/eso-typings/eso-doc-tokens/eso-doc-tokens.module.code.ts"
+import { ESO_OPT_IN } from "akasha/temper/eso-typings/eso-opt-in/eso-opt-in.module.code.ts"
+import { selectOptIn } from "akasha/temper/eso-typings/eso-token-scope/eso-token-scope.module.code.ts"
 import {
   saidFor,
   saidShort,
