@@ -6,4 +6,22 @@ export const seatWork = {
   slug: "seat-work",
   definition: "every initiative with the liveliest state any seat working it is in",
   code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The louder of two seats is decided by the color each is drawn in rather than by its turn state.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Two seats drawn in one color are told apart by the order the turn states are read in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat whose turn state named no color to read is quieter than every color the ranking names.",
+    },
+  ],
 } as const satisfies Module
