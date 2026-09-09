@@ -33,7 +33,7 @@ export const sessions = {
     "text-property/daily-tracking",
     "text-property/difficulty-level",
     "text-property/end-time",
-    "text-property/owner",
+    "text-property/session-owner",
     "text-property/relationships",
     "text-property/start-time",
   ],
@@ -48,7 +48,7 @@ export const sessions = {
     { pagePropertySlug: "number-property/capacity-rate", required: false, many: false },
     { pagePropertySlug: "text-property/relationships", required: false, many: false },
     { pagePropertySlug: "instant-property/asserted-at", required: false, many: false },
-    { pagePropertySlug: "text-property/owner", required: false, many: false },
+    { pagePropertySlug: "text-property/session-owner", required: false, many: false },
     { pagePropertySlug: "number-property/breathing-sets", required: false, many: false },
   ],
   invariants: [

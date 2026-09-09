@@ -1,11 +1,11 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type Owner = string
+export type SessionOwner = string
 
-export const owner = {
+export const sessionOwner = {
   id: "01a05fd8-c30f-7600-86de-1d33a70265bd",
   pageTypeSlug: "text-property",
-  slug: "owner",
+  slug: "session-owner",
   propertySlug: "owner",
   definition: "the person a record belongs to",
   maxLength: 100,
