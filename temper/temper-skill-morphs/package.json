@@ -19,7 +19,6 @@
     "./morph-suggestion-fixtures": "./morph-suggestion-fixtures/morph-suggestion-fixtures.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils": "workspace:*"
   }

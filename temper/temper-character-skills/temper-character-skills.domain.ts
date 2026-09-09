@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCharacterSkills = {
   id: "01a0617a-2c72-7654-ad18-45a07d7e27ca",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-character-skills",
   definition: "the skills an Elder Scrolls Online character learns, slots and scribes",
-  manifest: "json",
   parts: [
     "module/character-skill-activation-types",
     "module/character-skill-activations",
@@ -129,4 +128,4 @@ export const temperCharacterSkills = {
       statement: "A skill's place in the whole table is the index a build hash has.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

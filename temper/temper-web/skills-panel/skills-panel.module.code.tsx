@@ -1,12 +1,12 @@
 "use client"
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { activeSkillSlots } from "@akasha/temper-skill-kinds/skill-slots"
+import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import {
   getArmorSkillLineIds,
   getWeaponSkillLineIdsForBar,
-} from "@akasha/temper-character-skills/skill-line-queries"
-import { activeSkillSlots } from "@akasha/temper-skill-kinds/skill-slots"
-import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
+} from "akasha/temper/temper-character-skills/skill-line-queries/skill-line-queries.module.code.ts"
 import { useDeferredValue, useMemo } from "react"
 import { PassiveSkillsPanelCard } from "../passive-skills-panel-card/passive-skills-panel-card.module.code.tsx"
 import { ScribingPanelCard } from "../scribing-panel-card/scribing-panel-card.module.code.tsx"

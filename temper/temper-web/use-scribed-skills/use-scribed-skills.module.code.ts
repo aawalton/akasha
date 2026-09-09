@@ -1,9 +1,15 @@
-import type { Skill } from "@akasha/temper-character-skills/character-skills"
-import { type SkillId, skills } from "@akasha/temper-character-skills/character-skills"
-import type { ScribedSkill } from "@akasha/temper-character-skills/scribed-skill-types"
-import { getScribedSkillId } from "@akasha/temper-character-skills/scribed-skills"
-import { type GrimoireId, grimoires } from "@akasha/temper-character-skills/scribing-grimoires"
 import type { FocusScriptId } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
+import type { Skill } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+import {
+  type SkillId,
+  skills,
+} from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
+import { getScribedSkillId } from "akasha/temper/temper-character-skills/scribed-skills/scribed-skills.module.code.ts"
+import {
+  type GrimoireId,
+  grimoires,
+} from "akasha/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 import type { PendingScriptEdits } from "../skills-types/skills-types.module.code.ts"

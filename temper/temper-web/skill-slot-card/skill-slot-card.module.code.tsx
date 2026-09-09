@@ -4,7 +4,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import type { Skill } from "@akasha/temper-character-skills/character-skills"
+import type { Skill } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
 import { Plus, X } from "lucide-react"
 import { SkillCollapsibleCard } from "../skill-collapsible-card/skill-collapsible-card.module.code.tsx"
 

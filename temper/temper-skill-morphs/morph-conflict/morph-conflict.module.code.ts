@@ -1,5 +1,8 @@
-import type { Skill, SkillId } from "@akasha/temper-character-skills/character-skills"
-import { findSkillById } from "@akasha/temper-character-skills/find-skill-by-id"
+import type {
+  Skill,
+  SkillId,
+} from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+import { findSkillById } from "akasha/temper/temper-character-skills/find-skill-by-id/find-skill-by-id.module.code.ts"
 
 function getBaseNameForSkillId(
   id: SkillId,

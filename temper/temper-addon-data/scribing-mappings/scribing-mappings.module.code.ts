@@ -1,8 +1,8 @@
-import { grimoires } from "@akasha/temper-character-skills/scribing-grimoires"
 import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { grimoires } from "akasha/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
 
 interface ScribingMappingTable {
   tableName: string

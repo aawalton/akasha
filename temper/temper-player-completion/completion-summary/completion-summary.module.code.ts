@@ -1,4 +1,3 @@
-import { getRacialSkillLineIdForRace } from "@akasha/temper-character-skills/passive-queries"
 import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
 import {
   getSkillLineIdsForClass,
@@ -14,6 +13,7 @@ import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
 } from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
+import { getRacialSkillLineIdForRace } from "akasha/temper/temper-character-skills/passive-queries/passive-queries.module.code.ts"
 import type { CharacterAchievementProgressResult } from "../completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { CharacterSummaryData } from "../completion-card-registry/completion-card-registry.module.code.ts"
 import type {

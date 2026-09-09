@@ -1,4 +1,4 @@
-import { skills } from "@akasha/temper-character-skills/character-skills"
+import { skills } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
 export function generatePlayerSkillMappings(): string {
   const indexEntries: string[] = []
   const temperIdEntries: string[] = []

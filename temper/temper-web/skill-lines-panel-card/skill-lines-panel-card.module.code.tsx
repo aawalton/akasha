@@ -8,13 +8,13 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import {
-  getAvailableSkillLinesGrouped,
-  getClassForSkillLine,
-} from "@akasha/temper-character-skills/skill-line-queries"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import {
+  getAvailableSkillLinesGrouped,
+  getClassForSkillLine,
+} from "akasha/temper/temper-character-skills/skill-line-queries/skill-line-queries.module.code.ts"
 
 interface SkillLinesPanelCardProps {
   skillLineIds: readonly SkillLineId[]

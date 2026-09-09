@@ -7,19 +7,19 @@ import {
   CollapsibleTrigger,
 } from "@akasha/design-primitives/collapsible"
 import { Heading } from "@akasha/design-primitives/heading"
-import type { Skill } from "@akasha/temper-character-skills/character-skills"
-import { skills } from "@akasha/temper-character-skills/character-skills"
-import {
-  countArmorPiecesByWeight,
-  getRacialSkillLineIdForRace,
-} from "@akasha/temper-character-skills/passive-queries"
-import { getWeaponSkillLineIdsForBar } from "@akasha/temper-character-skills/skill-line-queries"
 import {
   type SkillLineCategoryId,
   skillLineCategoriesSorted,
 } from "@akasha/temper-skill-lines/skill-line-category-data"
 import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
+import type { Skill } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+import { skills } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+import {
+  countArmorPiecesByWeight,
+  getRacialSkillLineIdForRace,
+} from "akasha/temper/temper-character-skills/passive-queries/passive-queries.module.code.ts"
+import { getWeaponSkillLineIdsForBar } from "akasha/temper/temper-character-skills/skill-line-queries/skill-line-queries.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import { SkillCollapsibleCard } from "../skill-collapsible-card/skill-collapsible-card.module.code.tsx"

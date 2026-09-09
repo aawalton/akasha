@@ -13,7 +13,6 @@ import {
   applyCharacterMetadata,
   applyCompanionMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
-import { skills } from "@akasha/temper-character-skills/character-skills"
 import { createEmptyCompanion } from "@akasha/temper-companions-core/companion-factory"
 import { toVisibility } from "@akasha/temper-companions-core/companion-types"
 import {
@@ -31,6 +30,7 @@ import {
 import { createEmptyCharacter } from "akasha/temper/temper-character-build/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { toCharacterVisibility } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
+import { skills } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
 import { setsAll } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"

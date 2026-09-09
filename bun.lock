@@ -44,7 +44,6 @@
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
-        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
@@ -1195,17 +1194,6 @@
     "temper/temper-catalog-core": {
       "name": "@akasha/temper-catalog-core",
     },
-    "temper/temper-character-skills": {
-      "name": "@akasha/temper-character-skills",
-      "dependencies": {
-        "@akasha/temper-equipment": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-races": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/temper-character-sources": {
       "name": "@akasha/temper-character-sources",
       "dependencies": {
@@ -1395,7 +1383,6 @@
     "temper/temper-player-completion": {
       "name": "@akasha/temper-player-completion",
       "dependencies": {
-        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
@@ -1445,7 +1432,6 @@
     "temper/temper-skill-morphs": {
       "name": "@akasha/temper-skill-morphs",
       "dependencies": {
-        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
@@ -1473,7 +1459,6 @@
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
@@ -1702,8 +1687,6 @@
     "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/catalog-addon"],
 
     "@akasha/temper-catalog-core": ["@akasha/temper-catalog-core@workspace:temper/temper-catalog-core"],
-
-    "@akasha/temper-character-skills": ["@akasha/temper-character-skills@workspace:temper/temper-character-skills"],
 
     "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:temper/temper-character-sources"],
 

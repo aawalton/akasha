@@ -82,7 +82,6 @@
     "./skill-point-zone-sources": "./skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",

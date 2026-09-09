@@ -1,12 +1,15 @@
-import type { Skill, SkillId } from "@akasha/temper-character-skills/character-skills"
-import { findSkillById } from "@akasha/temper-character-skills/find-skill-by-id"
-import { filterSkillsForBar } from "@akasha/temper-character-skills/skill-bar-filtering"
 import { keysOf } from "@akasha/temper-formula-framework/record-parts"
 import type { SkillSlotId } from "@akasha/temper-skill-kinds/skill-slots"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { areConflictingMorphs } from "@akasha/temper-skill-morphs/morph-conflict"
 import { type CategoryData, organizeSkills } from "@akasha/temper-skill-morphs/skill-organization"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
+import type {
+  Skill,
+  SkillId,
+} from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+import { findSkillById } from "akasha/temper/temper-character-skills/find-skill-by-id/find-skill-by-id.module.code.ts"
+import { filterSkillsForBar } from "akasha/temper/temper-character-skills/skill-bar-filtering/skill-bar-filtering.module.code.ts"
 import { useMemo, useState } from "react"
 import type { BarType } from "../skills-types/skills-types.module.code.ts"
 
