@@ -70,7 +70,7 @@ function bodiesIn(change: Change): readonly Body[] {
   return found
 }
 
-function pageTypesFor(shadow: Shadow): ReadonlySet<string> {
+export function pageTypesFor(shadow: Shadow): ReadonlySet<string> {
   const found = PAGE_TYPES.get(shadow)
   if (found !== undefined) return found
   const made = shadow.index.pageTypesIn()

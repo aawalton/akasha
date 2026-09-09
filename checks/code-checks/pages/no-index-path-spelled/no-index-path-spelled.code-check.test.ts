@@ -11,11 +11,15 @@ const AT = indexNamed()
 
 const HELD = "akasha/command-system/held.module.code.ts"
 
+const PAGE = "akasha/command-system/held.module.ts"
+
+const PAGE_TYPES: ReadonlySet<string> = new Set(["module"])
+
 const INDEXES = "pages/indexes/"
 
 const OWNED = `${INDEXES}reading/index-reading.module.code.ts`
 
-const reasonsIn = reasonsOver(INDEXES)
+const reasonsIn = reasonsOver(INDEXES, PAGE_TYPES)
 
 test("a body spelling a path into the index is refused", () => {
   const said = reasonsIn(given(HELD, `const at = "${AT}/identity/check/slug"\n`))
@@ -61,6 +65,15 @@ test("a long string carrying the path is shortened where the refusal names it", 
 
 test("a file that is not TypeScript is passed over", () => {
   expect(reasonsIn(given("akasha/notes.txt", `held at ${AT}\n`))).toEqual([])
+})
+
+test("a page asks the index nothing, so a page is passed over", () => {
+  const body = `export const held = {\n  evidence: "measured at ${AT}/identity/module/slug",\n}\n`
+  expect(reasonsIn(given(PAGE, body))).toEqual([])
+})
+
+test("a file beside a page is judged, so the page alone is passed over", () => {
+  expect(reasonsIn(given(HELD, `const at = "${AT}/identity/module/slug"\n`))).toHaveLength(1)
 })
 
 test("a body that is not text refuses rather than being passed over", () => {

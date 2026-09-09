@@ -5,7 +5,7 @@ export const noIndexPathSpelled = {
   pageTypeSlug: "code-check",
   slug: "no-index-path-spelled",
   definition:
-    "the check refusing a file outside the indexes folder that spells a path into the index",
+    "the check refusing code outside the indexes folder that spells a path into the index",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -20,6 +20,14 @@ export const noIndexPathSpelled = {
     {
       invariantKind: "departure",
       statement: "A file under the indexes folder is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside a page is judged.",
     },
     {
       invariantKind: "departure",
