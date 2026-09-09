@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const itemRow = {
   id: "01a05c69-c063-7566-8a9b-689790778f2f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "item-row",
   definition: "a row representing one item in a list",
   code: "tsx",

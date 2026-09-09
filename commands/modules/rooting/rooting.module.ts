@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const rooting = {
   id: "01a04f5a-6229-7bed-be21-ddab3550449e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rooting",
   definition: "the akasha checkout a file is in, found by walking up to its domain page",
   code: "ts",

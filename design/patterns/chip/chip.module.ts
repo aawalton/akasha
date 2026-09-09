@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const chip = {
   id: "01a05c51-8283-79cf-b56f-860e9c34636b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "chip",
   definition: "a small removable token representing one value",
   code: "tsx",

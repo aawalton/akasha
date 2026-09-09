@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const faultSaying = {
   id: "01a04fea-ace5-7d39-9830-e4793edb0b2c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "fault-saying",
   definition: "what a thrown thing says, for a refusal to carry",
   code: "ts",
