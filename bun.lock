@@ -1134,6 +1134,14 @@
         "zod": "^4.3.6",
       },
     },
+    "infrastructure/commands": {
+      "name": "@akasha/infrastructure-commands",
+      "dependencies": {
+        "@akasha/cluster-manifests": "workspace:*",
+        "@akasha/command-system": "workspace:*",
+        "@akasha/talos": "workspace:*",
+      },
+    },
     "infrastructure/dockerfiles": {
       "name": "@akasha/dockerfiles",
       "dependencies": {
@@ -1156,14 +1164,6 @@
         "@akasha/k8s-types": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "infrastructure/infrastructure-commands": {
-      "name": "@akasha/infrastructure-commands",
-      "dependencies": {
-        "@akasha/cluster-manifests": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/talos": "workspace:*",
       },
     },
     "infrastructure/loki-service": {
@@ -3059,7 +3059,7 @@
 
     "@akasha/inference-runs": ["@akasha/inference-runs@workspace:inference/runs"],
 
-    "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:infrastructure/infrastructure-commands"],
+    "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:infrastructure/commands"],
 
     "@akasha/k8s-synth": ["@akasha/k8s-synth@workspace:infrastructure/cluster/k8s-synth"],
 
