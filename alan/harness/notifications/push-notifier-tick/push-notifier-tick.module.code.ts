@@ -3,7 +3,7 @@ import {
   type Notification,
   newestNotificationAt,
   readNotificationsAfter,
-} from "../../notification-feeds/notification-feed-rows/notification-feed-rows.module.code.ts"
+} from "../../notification-feeds/rows/notification-feed-rows.module.code.ts"
 import type { ApnsPayload, ApnsSender } from "../apns-sending/apns-sending.module.code.ts"
 import {
   listDeviceTokens,

@@ -4,7 +4,7 @@ import { SMILINGJENNY_PUSH_APP } from "@akasha/persons/push-apps"
 import {
   type Feed,
   NOTIFICATION_FEED_PAGE_TYPE_SLUG,
-} from "../../notification-feeds/notification-feed-rows/notification-feed-rows.module.code.ts"
+} from "../../notification-feeds/rows/notification-feed-rows.module.code.ts"
 import type { ApnsPayload } from "../apns-sending/apns-sending.module.code.ts"
 
 export const SURPLUS_FALL_KIND = "surplus-fall"

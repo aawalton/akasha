@@ -1,7 +1,4 @@
-import {
-  type NotifyInput,
-  writeNotification,
-} from "../notification-feed-rows/notification-feed-rows.module.code.ts"
+import { type NotifyInput, writeNotification } from "../rows/notification-feed-rows.module.code.ts"
 
 const NOTIFY_WRITER = "notify"
 
