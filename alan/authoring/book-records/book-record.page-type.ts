@@ -1,20 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../../domains/properties/definition.standard-agent-english-property.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { KeptBy } from "./properties/kept-by.text-property.ts"
-import type { RecordBookSlug } from "./properties/record-book-slug.text-property.ts"
-import type { RecordBrief } from "./properties/record-brief.text-property.ts"
-import type { Writing } from "./properties/writing.file-property.ts"
-
-export type BookRecord = Page & {
-  title: Title
-  definition: Definition
-  bookSlug: RecordBookSlug
-  brief?: RecordBrief
-  keptBy?: KeptBy
-  writing: Writing
-}
 
 export const bookRecord = {
   id: "01a0657d-b91d-7500-8bc9-4bbfb71443f8",
@@ -57,4 +41,5 @@ export const bookRecord = {
       statement: "A record a command generates is written whole rather than edited by hand.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

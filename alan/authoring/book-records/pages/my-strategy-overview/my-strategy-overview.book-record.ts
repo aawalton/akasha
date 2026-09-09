@@ -1,4 +1,4 @@
-import type { BookRecord } from "../../book-record.page-type.ts"
+import type { BookRecord } from "../../book-record.page-type.types.ts"
 
 export const myStrategyOverview = {
   id: "01a0657d-b91d-7800-a4d9-2f8c96c8c093",

@@ -1,4 +1,4 @@
-import type { BookRecord } from "../../book-record.page-type.ts"
+import type { BookRecord } from "../../book-record.page-type.types.ts"
 
 export const bookOfEverythingRotation = {
   id: "01a0657d-b91d-7900-bcf9-9b0cca35747a",

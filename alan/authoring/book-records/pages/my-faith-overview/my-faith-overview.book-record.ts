@@ -1,4 +1,4 @@
-import type { BookRecord } from "../../book-record.page-type.ts"
+import type { BookRecord } from "../../book-record.page-type.types.ts"
 
 export const myFaithOverview = {
   id: "01a0657d-b91d-7700-9743-d8bc7786ff26",
