@@ -10,7 +10,6 @@ import { ScrollArea } from "@akasha/design-primitives/scroll-area"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
-import { ESO_QUALITY_TEXT_CLASSES } from "@akasha/temper-characters-equipment-ui/eso-quality-text-classes"
 import type {
   InventoryLeafNode,
   InventoryNode,
@@ -20,6 +19,7 @@ import {
   buildAffectedItemNodes,
 } from "@akasha/temper-items-rules-core/affected-items-tree-builder"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import { LayoutList, List, MapPin } from "lucide-react"
 import { useMemo, useState } from "react"
 import {

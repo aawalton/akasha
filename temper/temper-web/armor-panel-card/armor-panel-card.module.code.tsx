@@ -17,10 +17,6 @@ import {
 import { mergeItemData } from "@akasha/temper-characters-equipment/merge-item-data"
 import { getMythicSlots } from "@akasha/temper-characters-equipment/mythic-set-rules"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityVariant,
-} from "@akasha/temper-characters-equipment-ui/equipment-quality-rules"
-import {
   type ArmorTraitId,
   armorTraitsBuildList,
   armorTraits as armorTraitsData,
@@ -29,6 +25,10 @@ import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weigh
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import { useMemo } from "react"
 import type { ArmorUpdateParams } from "../armor-card/armor-card.module.code.tsx"
 import { ArmorCard } from "../armor-card/armor-card.module.code.tsx"

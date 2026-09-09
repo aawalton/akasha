@@ -94,7 +94,6 @@
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-build-hash": "workspace:*",
     "@akasha/design-forms": "workspace:*",
-    "@akasha/temper-characters-equipment-ui": "workspace:*",
     "sonner": "^2.0.7"
   },
   "devDependencies": {

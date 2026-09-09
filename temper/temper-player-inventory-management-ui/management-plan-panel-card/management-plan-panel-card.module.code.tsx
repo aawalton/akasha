@@ -7,9 +7,9 @@ import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { formatGold } from "@akasha/design-primitives/format-gold"
 import { Text } from "@akasha/design-primitives/text-body"
-import { ESO_QUALITY_TEXT_CLASSES } from "@akasha/temper-characters-equipment-ui/eso-quality-text-classes"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   ActionGroup,
   CharacterSession,

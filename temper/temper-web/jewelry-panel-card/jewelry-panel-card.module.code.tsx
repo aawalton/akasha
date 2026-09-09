@@ -15,10 +15,6 @@ import {
 import { mergeItemData } from "@akasha/temper-characters-equipment/merge-item-data"
 import { getMythicSlots } from "@akasha/temper-characters-equipment/mythic-set-rules"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityVariant,
-} from "@akasha/temper-characters-equipment-ui/equipment-quality-rules"
-import {
   type JewelryTraitId,
   jewelryTraits,
   jewelryTraitsBuildList,
@@ -26,6 +22,10 @@ import {
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"

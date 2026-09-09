@@ -18,10 +18,6 @@ import {
   shouldHideWeaponSlot,
 } from "@akasha/temper-characters-equipment/weapon-slot-access"
 import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
-import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityVariant,
-} from "@akasha/temper-characters-equipment-ui/equipment-quality-rules"
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
@@ -30,6 +26,10 @@ import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import { weaponBars } from "@akasha/temper-equipment-kinds/weapon-bars"
 import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"

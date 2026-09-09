@@ -1,8 +1,8 @@
 "use client"
 
 import { convertIconPathToUrl } from "@akasha/temper-characters-equipment/get-equipment-icon"
-import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
 import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   type PotionId,
   type PotionSource,

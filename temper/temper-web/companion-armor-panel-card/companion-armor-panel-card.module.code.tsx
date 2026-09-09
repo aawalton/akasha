@@ -11,7 +11,6 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
 import {
   type CompanionArmorSlotId,
   companionArmorSlots,
@@ -28,6 +27,7 @@ import {
 import type { CompanionArmorSlotItem } from "@akasha/temper-companions-core/companion-types"
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   getQualityClassName,
   getQualityVariant,

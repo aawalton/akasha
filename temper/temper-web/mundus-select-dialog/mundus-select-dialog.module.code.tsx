@@ -6,7 +6,7 @@ import {
   type MundusSource,
   mundus,
 } from "@akasha/temper-character-sources/mundus-source"
-import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import { useMemo } from "react"
 import {
   FilterableSelectDialog,

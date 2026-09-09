@@ -19,13 +19,6 @@ import {
   jewelryEnchants,
 } from "@akasha/temper-characters-equipment/jewelry-enchants"
 import { getValidSetsForSlot } from "@akasha/temper-characters-equipment/set-pattern-matcher"
-import { EquipmentIcon } from "@akasha/temper-characters-equipment-ui/equipment-icon"
-import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityClassName,
-  getQualityLabel,
-  getQualityVariant,
-} from "@akasha/temper-characters-equipment-ui/equipment-quality-rules"
 import {
   type JewelryTraitId,
   jewelryTraits,
@@ -37,6 +30,13 @@ import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/eq
 import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityClassName,
+  getQualityLabel,
+  getQualityVariant,
+} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 
