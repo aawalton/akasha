@@ -13,6 +13,7 @@ import {
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
+import { namesDrawn } from "../../../modules/name-drawing/name-drawing.module.code.ts"
 import {
   heldOnce,
   numberIn,
@@ -21,8 +22,7 @@ import {
   type Shape,
   textIn,
   wholeIn,
-} from "../../../modules/flag-arguing/flag-arguing.module.code.ts"
-import { namesDrawn } from "../../../modules/name-drawing/name-drawing.module.code.ts"
+} from "../wan/flag-arguing/flag-arguing.module.code.ts"
 
 const GENERATE = "generate"
 
