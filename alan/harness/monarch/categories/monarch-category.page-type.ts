@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
+import type { MonarchRecord } from "../records/monarch-record.page-type.ts"
 import type { CategoryGroup } from "./properties/category-group.text-property.ts"
 import type { CategoryGroupType } from "./properties/category-group-type.select-property.ts"
 

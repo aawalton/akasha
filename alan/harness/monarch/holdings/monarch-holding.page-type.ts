@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
+import type { MonarchRecord } from "../records/monarch-record.page-type.ts"
 import type { Account } from "./properties/account.relation-property.ts"
 import type { CostBasis } from "./properties/cost-basis.number-property.ts"
 import type { HoldingValue } from "./properties/holding-value.number-property.ts"

@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { MonarchRecord } from "../monarch-records/monarch-record.page-type.ts"
+import type { MonarchRecord } from "../records/monarch-record.page-type.ts"
 import type { StartsOn } from "./properties/starts-on.calendar-date-property.ts"
 import type { Transactions } from "./properties/transactions.page-property-entry.ts"
 
