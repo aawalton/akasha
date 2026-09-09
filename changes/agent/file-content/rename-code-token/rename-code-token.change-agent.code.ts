@@ -8,6 +8,7 @@ import {
   typed,
   typingOver,
 } from "@akasha/code/code-typing"
+import { partedIn } from "@akasha/pages/page-file-name"
 import ts from "typescript"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
@@ -34,8 +35,6 @@ const TO = "to"
 const ON_LINE = "line"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
-
-const BESIDE = [".code.ts", ".code.tsx", ".test.ts", ".test.tsx", ".test-fixtures.ts"]
 
 export type RenameCodeTokenAsked = {
   readonly at: string
@@ -87,7 +86,9 @@ function pickedIn(
 }
 
 function whyNot(given: RenameCodeTokenAsked): string | null {
-  if (!BESIDE.some((one) => given.at.endsWith(one))) {
+  const said = partedIn(given.at)
+  if (said === null) return `\`${given.at}\` sits beside no page`
+  if (said.sections.length === 0) {
     return `\`${given.at}\` is a page, and a page's export is its slug`
   }
   if (!NAMED.test(given.of)) return `\`${given.of}\` is no name a body carries`

@@ -33,6 +33,12 @@ const BODY = `export function held(): number {
 
 const PAGE_BODY = `export const held = 1\n`
 
+const TYPES = "akasha/one/local.module.types.ts"
+
+const TYPES_BODY = `export type Kept = { readonly one: number }\n`
+
+const STRAY = "held.ts"
+
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, async (world, at, given) => {
     if (at === "change-mechanical-file-content/rename-export") {
@@ -66,6 +72,20 @@ test("a page is refused, since a page's export is its slug", async () => {
   const said = await renameCodeToken(world, { at: PAGE, of: "held", to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${PAGE}\` is a page, and a page's export is its slug`)
+})
+
+test("a path beside no page is refused", async () => {
+  const world = heldIn(scratch.rootFor("token-"), STRAY, PAGE_BODY)
+  const said = await renameCodeToken(world, { at: STRAY, of: "held", to: CARRIED })
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(`\`${STRAY}\` sits beside no page`)
+})
+
+test("a file beside a page holding types is read rather than refused as a page", async () => {
+  const world = heldIn(scratch.rootFor("token-"), TYPES, TYPES_BODY)
+  const said = await renameCodeToken(world, { at: TYPES, of: "Kept", to: CARRIED })
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("so none were repointed")
 })
 
 test("a name no body could carry is refused", async () => {
