@@ -3,6 +3,7 @@ import type { IdentityStatement } from "../identity-statement.page-type.ts"
 export const iAmContentWhenIAm80Full = {
   id: "019ea810-a087-7f6a-810e-b32c4e711a3e",
   pageTypeSlug: "identity-statement",
+  type: "identity-statement",
   slug: "i-am-content-when-i-am-80-full",
   title: "I am content when I am 80% full",
   about: "myself",

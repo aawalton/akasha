@@ -3,6 +3,7 @@ import type { IdentityStatement } from "../identity-statement.page-type.ts"
 export const iAmAnOmniSensoryAndEmotionalAphant = {
   id: "019ea810-a6c5-73d4-8d3f-96303ff357aa",
   pageTypeSlug: "identity-statement",
+  type: "identity-statement",
   slug: "i-am-an-omni-sensory-and-emotional-aphant",
   title: "I am an omni-sensory and emotional aphant",
   about: "myself",

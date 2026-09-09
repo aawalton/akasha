@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const terryMoore = {
   id: "019db533-f383-75f9-9a4b-856d952448ff",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "terry-moore",
   title: "Terry Moore",
   relationshipCurrentCircle: "acquaintances",

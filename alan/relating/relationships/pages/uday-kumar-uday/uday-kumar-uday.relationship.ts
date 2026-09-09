@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const udayKumarUday = {
   id: "019db533-f384-71ca-8c63-190cd37231ef",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "uday-kumar-uday",
   title: "Uday Kumar Uday",
   relationshipCurrentCircle: "acquaintances",

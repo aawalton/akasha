@@ -3,6 +3,7 @@ import type { IdentityStatement } from "../identity-statement.page-type.ts"
 export const iAmWholeFoodPlantBased = {
   id: "019ea810-a37e-7a29-b31e-004f0245a7bd",
   pageTypeSlug: "identity-statement",
+  type: "identity-statement",
   slug: "i-am-whole-food-plant-based",
   title: "I am whole food plant-based",
   about: "myself",

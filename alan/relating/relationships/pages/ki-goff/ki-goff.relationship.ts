@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const kiGoff = {
   id: "019db533-f382-78a6-bdb3-e611dc025c4d",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "ki-goff",
   title: "Ki Goff",
   relationshipAccountUserId: "395db962-77dd-4aa7-b1c2-6500025dc331",

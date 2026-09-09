@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const skyChrisEvans = {
   id: "019db533-f385-713f-8980-bac260338c5e",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "sky-chris-evans",
   title: "Sky + Chris Evans",
   relationshipCommitment: 3,

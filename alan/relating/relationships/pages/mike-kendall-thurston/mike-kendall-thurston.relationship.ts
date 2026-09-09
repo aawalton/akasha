@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const mikeKendallThurston = {
   id: "019db533-f382-761d-998b-d2b8921a0b2b",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "mike-kendall-thurston",
   title: "Mike + Kendall Thurston",
   relationshipCommitment: 3,

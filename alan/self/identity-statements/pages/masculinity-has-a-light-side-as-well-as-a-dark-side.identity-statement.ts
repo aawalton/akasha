@@ -3,6 +3,7 @@ import type { IdentityStatement } from "../identity-statement.page-type.ts"
 export const masculinityHasALightSideAsWellAsADarkSide = {
   id: "019ea810-a49b-704e-9024-30dba6c09061",
   pageTypeSlug: "identity-statement",
+  type: "identity-statement",
   slug: "masculinity-has-a-light-side-as-well-as-a-dark-side",
   title: "Masculinity has a light side as well as a dark side",
   about: "reality",

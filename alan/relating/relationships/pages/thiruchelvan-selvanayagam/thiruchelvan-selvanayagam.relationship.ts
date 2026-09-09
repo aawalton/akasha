@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const thiruchelvanSelvanayagam = {
   id: "019db533-f384-77af-8577-943afe2630d8",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "thiruchelvan-selvanayagam",
   title: "Thiruchelvan Selvanayagam",
   relationshipCurrentCircle: "affiliates",

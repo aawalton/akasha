@@ -3,6 +3,7 @@ import type { IdentityStatement } from "../identity-statement.page-type.ts"
 export const iDontLikeSugar = {
   id: "019ea810-a224-7f37-8d5d-e5866ea86264",
   pageTypeSlug: "identity-statement",
+  type: "identity-statement",
   slug: "i-dont-like-sugar",
   title: "I don’t like sugar",
   identityStatementLevel: 0,

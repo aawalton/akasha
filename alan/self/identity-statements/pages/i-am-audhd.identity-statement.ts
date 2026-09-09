@@ -3,6 +3,7 @@ import type { IdentityStatement } from "../identity-statement.page-type.ts"
 export const iAmAudhd = {
   id: "019ea810-a73a-70c4-8bb8-e4c4241dfcca",
   pageTypeSlug: "identity-statement",
+  type: "identity-statement",
   slug: "i-am-audhd",
   title: "I am AuDHD",
   about: "myself",

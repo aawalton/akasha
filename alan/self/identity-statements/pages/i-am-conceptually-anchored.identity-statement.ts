@@ -3,6 +3,7 @@ import type { IdentityStatement } from "../identity-statement.page-type.ts"
 export const iAmConceptuallyAnchored = {
   id: "019ea810-ad3c-752f-a9a1-9420bd9acbbf",
   pageTypeSlug: "identity-statement",
+  type: "identity-statement",
   slug: "i-am-conceptually-anchored",
   title: "I am conceptually anchored",
   about: "myself",

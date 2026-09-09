@@ -3,6 +3,7 @@ import type { Relationship } from "../../relationship.page-type.ts"
 export const markJeanetteIvie = {
   id: "019db533-f384-7d71-88db-325834599ae3",
   pageTypeSlug: "relationship",
+  type: "relationship",
   slug: "mark-jeanette-ivie",
   title: "Mark + Jeanette Ivie",
   relationshipCommitment: 3,
