@@ -3,6 +3,7 @@ import type { PageQuery } from "../page-query.page-type.ts"
 export const activityCaloriesOnDay = {
   id: "01a063f9-220d-70cb-88de-b2365ec2e308",
   pageTypeSlug: "page-query",
+  type: "page-query",
   slug: "activity-calories-on-day",
   asksOfSlug: "day",
   parameters: [{ name: "date", type: "calendar-date" }],

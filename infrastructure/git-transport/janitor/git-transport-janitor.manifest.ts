@@ -3,6 +3,7 @@ import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests
 export const gitTransportJanitor = {
   id: "01a07c78-54fc-794e-becc-d1343a783c8d",
   pageTypeSlug: "manifest",
+  type: "manifest",
   slug: "git-transport-janitor",
   definition: "the cron job clearing push debris out of the repositories the transport serves",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const jobFailed = {
   id: "01a06755-62fa-72bc-bd95-dd17149f5f38",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "job-failed",
   title: "Job failed",
   definition: "a job finished without succeeding",

@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const containerMemoryNearLimit = {
   id: "01a06755-62f9-7e03-bd69-9caced3fcadb",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "container-memory-near-limit",
   title: "Container memory near limit",
   definition: "a container is using close to all the memory it is allowed",

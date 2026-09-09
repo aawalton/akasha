@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const postgresWalArchivingFailing = {
   id: "01a06755-62fb-73ec-a1ab-c77b37446884",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "postgres-wal-archiving-failing",
   title: "Postgres WAL archiving failing",
   definition: "Postgres is failing to archive its write-ahead log",

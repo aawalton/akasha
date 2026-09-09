@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const macbookInferenceProbeStale = {
   id: "01a06755-62fa-7222-9915-b6b5a1364ae3",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "macbook-inference-probe-stale",
   title: "MacBook inference probe stale",
   definition:

@@ -3,6 +3,7 @@ import type { Message } from "../message.page-type.ts"
 export const message86683ef60184 = {
   id: "01a076a3-7925-7000-a03f-86683ef60184",
   pageTypeSlug: "message",
+  type: "message",
   slug: "message-86683ef60184",
   to: "athena",
   from: "supervisor",

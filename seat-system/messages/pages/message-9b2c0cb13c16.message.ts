@@ -3,6 +3,7 @@ import type { Message } from "../message.page-type.ts"
 export const message9b2c0cb13c16 = {
   id: "01a082c9-da0c-7000-a039-9b2c0cb13c16",
   pageTypeSlug: "message",
+  type: "message",
   slug: "message-9b2c0cb13c16",
   to: "ember",
   from: "service-watching",

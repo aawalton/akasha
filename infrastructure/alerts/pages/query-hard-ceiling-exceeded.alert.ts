@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const queryHardCeilingExceeded = {
   id: "01a06755-62fb-7bbd-8803-3570c74b3247",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "query-hard-ceiling-exceeded",
   title: "Query hard ceiling exceeded",
   definition: "a query has been running for longer than any query is allowed to",

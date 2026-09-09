@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const postgresBaseBackupStaleCritical = {
   id: "01a06755-62fa-7c46-8ae6-10e64dbf4ae3",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "postgres-base-backup-stale-critical",
   title: "Postgres base backup stale critical",
   definition:

@@ -3,6 +3,7 @@ import type { PageQuery } from "../page-query.page-type.ts"
 export const messagesClaimedBefore = {
   id: "01a063f9-220b-7f24-9b1b-a26feecbdd57",
   pageTypeSlug: "page-query",
+  type: "page-query",
   slug: "messages-claimed-before",
   asksOfSlug: "message",
   parameters: [

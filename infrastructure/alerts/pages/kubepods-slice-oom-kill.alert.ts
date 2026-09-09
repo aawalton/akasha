@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const kubepodsSliceOomKill = {
   id: "01a06755-62fa-7f26-8363-42cd346a47be",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "kubepods-slice-oom-kill",
   title: "Kubepods slice OOM kill",
   definition: "the kubepods cgroup slice ran out of memory and killed something inside it",

@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const gitMirrorProbeUnauthenticated = {
   id: "01a06755-62f9-72b6-a674-1f6b0f2c2099",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "git-mirror-probe-unauthenticated",
   title: "Git mirror probe unauthenticated",
   definition: "the mirror probe's credential was refused, so nothing is known about the mirrors",

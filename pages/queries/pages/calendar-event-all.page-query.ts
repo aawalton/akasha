@@ -3,6 +3,7 @@ import type { PageQuery } from "../page-query.page-type.ts"
 export const calendarEventAll = {
   id: "01a063f9-2209-7a1b-a11b-acfbf98a982e",
   pageTypeSlug: "page-query",
+  type: "page-query",
   slug: "calendar-event-all",
   asksOfSlug: "calendar-event",
   keys: [

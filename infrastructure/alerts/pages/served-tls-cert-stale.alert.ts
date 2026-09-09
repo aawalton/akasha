@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const servedTlsCertStale = {
   id: "01a087cb-1b19-7002-b28a-25d4ab8d634e",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "served-tls-cert-stale",
   title: "Served TLS cert stale",
   definition: "a listener serves a certificate older than the one cert-manager has issued",

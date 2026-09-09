@@ -3,6 +3,7 @@ import type { Alert } from "../alert.page-type.ts"
 export const supersedeCycle = {
   id: "01a06755-62fb-7f7f-a95d-62600889e3ec",
   pageTypeSlug: "alert",
+  type: "alert",
   slug: "supersede-cycle",
   title: "Supersede loop",
   definition:
