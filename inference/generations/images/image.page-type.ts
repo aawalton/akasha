@@ -1,4 +1,3 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 
 export const image = {
@@ -34,6 +33,5 @@ export const image = {
       statement: "An image catalogued from disk names no run.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
-
-export type Image = Page
