@@ -76,7 +76,7 @@ export const pageType = {
     "relation-property/extends-type",
     "relation-property/loaded-by",
     "relation-property/owner",
-    "relation-property/page-property-slug",
+    "relation-property/page-property",
     "text-property/body-property-id",
     "text-property/child-relation",
     "text-property/default-value",

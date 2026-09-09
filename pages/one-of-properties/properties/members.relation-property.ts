@@ -1,8 +1,8 @@
 import type { RelationProperty } from "../../relation-properties/relation-property.page-type.ts"
 import type { List } from "../../types/page-properties/page-property.page-type.ts"
-import type { PagePropertySlug } from "../../types/properties/page-property-slug.relation-property.ts"
+import type { PageProperty } from "../../types/properties/page-property.relation-property.ts"
 
-export type Members = List<PagePropertySlug>
+export type Members = List<PageProperty>
 
 export const members = {
   id: "01a062b2-e0c9-78a5-b56b-6dc7519eded7",

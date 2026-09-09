@@ -5,14 +5,14 @@ import type { MaxLength } from "../page-properties/properties/max-length.number-
 import type { Unique } from "../page-properties/properties/unique.relation-property.ts"
 import type { UniqueProperty } from "../page-properties/properties/unique-property.relation-property.ts"
 import type { DefaultValue } from "./default-value.text-property.ts"
-import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
+import type { PageProperty } from "./page-property.relation-property.ts"
 import type { Required } from "./required.boolean-property.ts"
 import type { Secret } from "./secret.boolean-property.ts"
 import type { Uncommitted } from "./uncommitted.boolean-property.ts"
 
 export type Declaration =
   | {
-      pageProperty: PagePropertySlug
+      pageProperty: PageProperty
       required: Required
       many: false
       default?: DefaultValue
@@ -23,7 +23,7 @@ export type Declaration =
       uniqueProperty?: UniqueProperty
     }
   | {
-      pageProperty: PagePropertySlug
+      pageProperty: PageProperty
       required: Required
       many: true
       maxCount: MaxCount | null
@@ -43,7 +43,7 @@ export const properties = {
   propertySlug: "properties",
   definition: "the properties a page type adds, and the inherited properties it narrows",
   properties: [
-    { pageProperty: "relation-property/page-property-slug", required: true, many: false },
+    { pageProperty: "relation-property/page-property", required: true, many: false },
     { pageProperty: "boolean-property/required", required: true, many: false },
     { pageProperty: "boolean-property/many", required: true, many: false },
     { pageProperty: "text-property/default-value", required: false, many: false },

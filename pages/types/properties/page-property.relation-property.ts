@@ -1,12 +1,12 @@
 import type { Slug } from "../../properties/slug.text-property.ts"
 import type { RelationProperty } from "../../relation-properties/relation-property.page-type.ts"
 
-export type PagePropertySlug = Slug
+export type PageProperty = Slug
 
-export const pagePropertySlug = {
+export const pageProperty = {
   id: "01a04df3-6847-78ba-a32d-216da05c58ee",
   pageTypeSlug: "relation-property",
-  slug: "page-property-slug",
+  slug: "page-property",
   propertySlug: "page-property",
   definition: "a slug naming a page property",
   targetPageType: "page-type/page-property",
