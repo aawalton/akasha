@@ -71,6 +71,10 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
+      statement: "A declaration fixing a value is answered with that value beside it.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page type that cannot be read is refused by name rather than answered as declaring nothing.",
     },

@@ -40,6 +40,7 @@ export type Carried = {
   readonly many: boolean
   readonly maxCount: number | null
   readonly maxLength: number | null
+  readonly fixed?: string
   readonly uncommitted: boolean
   readonly secret: boolean
 }
@@ -143,6 +144,7 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
       many: one["many"] === true,
       maxCount: numberAt(one, "maxCount"),
       maxLength: numberAt(one, "maxLength"),
+      fixed: textAt(one, "fixed") ?? undefined,
       uncommitted: one["uncommitted"] === true,
       secret: one["secret"] === true,
     })

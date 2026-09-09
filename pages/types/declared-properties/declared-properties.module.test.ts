@@ -396,6 +396,21 @@ test("the types above are read level by level, and each type's own are taken in 
   ])
 })
 
+test("a declaration fixing a value carries it, and one saying nothing carries none", () => {
+  const root = rootAt()
+  propertied(root, "file-property", "code", "code")
+  propertied(root, "text-property", "plural-slug", "plural-slug")
+  typed(root, "page-type", null, [
+    { pagePropertySlug: "code", required: true, many: false, fixed: "ts" },
+    { pagePropertySlug: "plural-slug", required: true, many: false },
+  ])
+
+  expect(carriedBy(root, "page-type").map((one) => [one.key, one.fixed])).toEqual([
+    ["code", "ts"],
+    ["pluralSlug", undefined],
+  ])
+})
+
 test("what a file property group declares is left to the pages carrying that group", () => {
   const root = rootAt()
   propertied(root, "text-property", "definition", "definition")
