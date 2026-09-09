@@ -6,24 +6,16 @@ import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { data } from "react-router"
-import type { Route } from "./+types/page-detail"
 
 const NAV_SLUG = "nav"
 
-export function meta({ data: loaderData }: Route.MetaArgs) {
-  if (loaderData?.faviconIdSuffix == null) return []
-  return [
-    {
-      tagName: "link",
-      rel: "icon",
-      href: `/api/nav-icon/${loaderData.faviconIdSuffix}`,
-      type: "image/svg+xml",
-      sizes: "any",
-    },
-  ]
-}
-
-export async function loader({ params, request }: Route.LoaderArgs) {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { pageTypeSlug: string; pageHrefParam: string }
+  request: Request
+}) {
   const { pageTypeSlug, pageHrefParam } = params
 
   const parsed = parsePageHrefParam(pageHrefParam)
@@ -86,7 +78,22 @@ export async function loader({ params, request }: Route.LoaderArgs) {
   )
 }
 
-export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
+type PageDetailLoaderData = Awaited<ReturnType<typeof loader>>["data"]
+
+export function meta({ data: loaderData }: { data: PageDetailLoaderData | undefined }) {
+  if (loaderData?.faviconIdSuffix == null) return []
+  return [
+    {
+      tagName: "link",
+      rel: "icon",
+      href: `/api/nav-icon/${loaderData.faviconIdSuffix}`,
+      type: "image/svg+xml",
+      sizes: "any",
+    },
+  ]
+}
+
+export default function PageDetailRoute({ loaderData }: { loaderData: PageDetailLoaderData }) {
   if (loaderData.kind === "nav") {
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />
   }

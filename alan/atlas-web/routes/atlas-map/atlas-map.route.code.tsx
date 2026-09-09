@@ -3,9 +3,8 @@ import { collectPages } from "@akasha/pages-access/iterate"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { data } from "react-router"
 import { z } from "zod"
-import { LocationMap } from "../location-map/location-map.module.code.tsx"
-import { toPins } from "../pins/pins.module.code.ts"
-import type { Route } from "./+types/map"
+import { LocationMap } from "../../location-map/location-map.module.code.tsx"
+import { toPins } from "../../pins/pins.module.code.ts"
 
 const BasemapUrlSchema = z.string().url()
 
@@ -13,7 +12,7 @@ export function meta() {
   return [{ title: "Map · Atlas" }]
 }
 
-export async function loader({ request }: Route.LoaderArgs) {
+export async function loader({ request }: { request: Request }) {
   const { headers } = createServerClient(request)
   const rows = await collectPages({
     pageTypeSlug: "location",
@@ -27,7 +26,9 @@ export async function loader({ request }: Route.LoaderArgs) {
   return data({ pins, basemapUrl }, { headers })
 }
 
-export default function MapRoute({ loaderData }: Route.ComponentProps) {
+type MapLoaderData = Awaited<ReturnType<typeof loader>>["data"]
+
+export default function MapRoute({ loaderData }: { loaderData: MapLoaderData }) {
   const { pins, basemapUrl } = loaderData
   return (
     <PageLayout>

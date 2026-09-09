@@ -4,9 +4,12 @@ export default [
   layout("routes/_app-layout.tsx", [
     index("routes/atlas-home/atlas-home.route.code.tsx"),
     route("search", "routes/search.tsx"),
-    route("map", "routes/map.tsx"),
+    route("map", "routes/atlas-map/atlas-map.route.code.tsx"),
     route("trip/:tripParam", "routes/trip.tsx"),
-    route(":pageTypeSlug/:pageHrefParam", "routes/page-detail.tsx"),
+    route(
+      ":pageTypeSlug/:pageHrefParam",
+      "routes/atlas-page-detail/atlas-page-detail.route.code.tsx"
+    ),
     route(":pageTypeSlug", "routes/atlas-page-listing/atlas-page-listing.route.code.tsx"),
   ]),
   route("sign-in", "routes/atlas-sign-in/atlas-sign-in.route.code.tsx"),
