@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const warriorPriestessOfGodSCloth = {
   id: "01a06586-0a72-7afc-86ca-72f15dd8aa23",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "warrior-priestess-of-god-s-cloth",
   title: "Warrior-Priestess of God’s Cloth",
   world: "the-wandering-inn",
