@@ -5,6 +5,6 @@ export const otherMeSSkillsFindMyFriend = {
   pageTypeSlug: "world-skill",
   slug: "other-me-s-skills-find-my-friend",
   title: "Other Me’s Skills – Find My Friend",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

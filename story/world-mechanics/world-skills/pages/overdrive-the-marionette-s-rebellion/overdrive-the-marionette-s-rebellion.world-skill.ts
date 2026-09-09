@@ -5,6 +5,6 @@ export const overdriveTheMarionetteSRebellion = {
   pageTypeSlug: "world-skill",
   slug: "overdrive-the-marionette-s-rebellion",
   title: "Overdrive: The Marionette’s Rebellion",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

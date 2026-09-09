@@ -5,6 +5,6 @@ export const magicFreeze = {
   pageTypeSlug: "world-skill",
   slug: "magic-freeze",
   title: "Magic, Freeze",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

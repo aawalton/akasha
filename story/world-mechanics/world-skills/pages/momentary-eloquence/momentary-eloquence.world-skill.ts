@@ -5,6 +5,6 @@ export const momentaryEloquence = {
   pageTypeSlug: "world-skill",
   slug: "momentary-eloquence",
   title: "Momentary Eloquence",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

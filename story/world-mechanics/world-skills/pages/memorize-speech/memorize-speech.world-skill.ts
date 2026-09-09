@@ -5,6 +5,6 @@ export const memorizeSpeech = {
   pageTypeSlug: "world-skill",
   slug: "memorize-speech",
   title: "Memorize Speech",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

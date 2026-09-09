@@ -5,6 +5,6 @@ export const otherMeSSkillDoomHowl = {
   pageTypeSlug: "world-skill",
   slug: "other-me-s-skill-doom-howl",
   title: "Other Me’s Skill: Doom Howl",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

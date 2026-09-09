@@ -5,6 +5,6 @@ export const nerveStrikeParalysis = {
   pageTypeSlug: "world-skill",
   slug: "nerve-strike-paralysis",
   title: "Nerve Strike: Paralysis",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

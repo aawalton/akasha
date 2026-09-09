@@ -5,6 +5,6 @@ export const mutualConditionDepravedIntellect = {
   pageTypeSlug: "world-skill",
   slug: "mutual-condition-depraved-intellect",
   title: "Mutual Condition: Depraved Intellect",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

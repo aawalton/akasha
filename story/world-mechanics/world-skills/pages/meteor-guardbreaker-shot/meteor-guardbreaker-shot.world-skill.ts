@@ -5,6 +5,6 @@ export const meteorGuardbreakerShot = {
   pageTypeSlug: "world-skill",
   slug: "meteor-guardbreaker-shot",
   title: "Meteor Guardbreaker Shot",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,7 +5,7 @@ export const markedForHell = {
   pageTypeSlug: "world-skill",
   slug: "marked-for-hell",
   title: "Marked For Hell",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Marked for Hell"],
   references: "jsonl",
 } as const satisfies WorldSkill

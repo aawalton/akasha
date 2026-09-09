@@ -5,6 +5,6 @@ export const lionformTransformation = {
   pageTypeSlug: "world-skill",
   slug: "lionform-transformation",
   title: "Lionform Transformation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

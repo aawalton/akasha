@@ -5,6 +5,6 @@ export const minorTelepathyAnts = {
   pageTypeSlug: "world-skill",
   slug: "minor-telepathy-ants",
   title: "Minor Telepathy (Ants)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

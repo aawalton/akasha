@@ -5,6 +5,6 @@ export const perfectMemoryImagination = {
   pageTypeSlug: "world-skill",
   slug: "perfect-memory-imagination",
   title: "Perfect Memory: Imagination",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

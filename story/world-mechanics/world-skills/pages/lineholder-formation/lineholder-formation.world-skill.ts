@@ -5,6 +5,6 @@ export const lineholderFormation = {
   pageTypeSlug: "world-skill",
   slug: "lineholder-formation",
   title: "Lineholder Formation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

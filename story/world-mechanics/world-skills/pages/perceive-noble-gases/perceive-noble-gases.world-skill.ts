@@ -5,6 +5,6 @@ export const perceiveNobleGases = {
   pageTypeSlug: "world-skill",
   slug: "perceive-noble-gases",
   title: "Perceive Noble Gases",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

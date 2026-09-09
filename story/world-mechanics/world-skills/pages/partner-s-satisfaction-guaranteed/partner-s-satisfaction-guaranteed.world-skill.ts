@@ -5,6 +5,6 @@ export const partnerSSatisfactionGuaranteed = {
   pageTypeSlug: "world-skill",
   slug: "partner-s-satisfaction-guaranteed",
   title: "Partner’s Satisfaction Guaranteed",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const makeupPermanentFixture = {
   pageTypeSlug: "world-skill",
   slug: "makeup-permanent-fixture",
   title: "Makeup: Permanent Fixture",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

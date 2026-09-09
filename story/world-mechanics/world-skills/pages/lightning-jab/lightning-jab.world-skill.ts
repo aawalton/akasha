@@ -5,6 +5,6 @@ export const lightningJab = {
   pageTypeSlug: "world-skill",
   slug: "lightning-jab",
   title: "Lightning Jab",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

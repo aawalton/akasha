@@ -5,6 +5,6 @@ export const malleableMetal = {
   pageTypeSlug: "world-skill",
   slug: "malleable-metal",
   title: "Malleable Metal",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

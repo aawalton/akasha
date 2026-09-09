@@ -5,5 +5,5 @@ export const localLandmarkLiscor = {
   pageTypeSlug: "world-skill",
   slug: "local-landmark-liscor",
   title: "Local Landmark: Liscor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

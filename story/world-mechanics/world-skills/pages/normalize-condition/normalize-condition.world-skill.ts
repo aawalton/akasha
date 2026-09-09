@@ -5,6 +5,6 @@ export const normalizeCondition = {
   pageTypeSlug: "world-skill",
   slug: "normalize-condition",
   title: "Normalize Condition",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

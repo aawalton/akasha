@@ -5,6 +5,6 @@ export const paintSigilSmileOfFriendship = {
   pageTypeSlug: "world-skill",
   slug: "paint-sigil-smile-of-friendship",
   title: "Paint Sigil: Smile of Friendship",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

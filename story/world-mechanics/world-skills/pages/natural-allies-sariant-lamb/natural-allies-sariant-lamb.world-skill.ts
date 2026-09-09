@@ -5,5 +5,5 @@ export const naturalAlliesSariantLamb = {
   pageTypeSlug: "world-skill",
   slug: "natural-allies-sariant-lamb",
   title: "Natural Allies: Sariant Lamb",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

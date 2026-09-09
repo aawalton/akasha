@@ -5,6 +5,6 @@ export const mentalCanvas = {
   pageTypeSlug: "world-skill",
   slug: "mental-canvas",
   title: "Mental Canvas",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

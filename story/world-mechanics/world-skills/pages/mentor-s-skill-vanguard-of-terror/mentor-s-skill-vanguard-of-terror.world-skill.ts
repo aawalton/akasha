@@ -5,6 +5,6 @@ export const mentorSSkillVanguardOfTerror = {
   pageTypeSlug: "world-skill",
   slug: "mentor-s-skill-vanguard-of-terror",
   title: "Mentor’s Skill – Vanguard of Terror",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

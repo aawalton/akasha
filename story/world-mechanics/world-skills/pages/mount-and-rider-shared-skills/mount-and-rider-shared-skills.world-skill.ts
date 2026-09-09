@@ -5,6 +5,6 @@ export const mountAndRiderSharedSkills = {
   pageTypeSlug: "world-skill",
   slug: "mount-and-rider-shared-skills",
   title: "Mount and Rider: Shared Skills",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

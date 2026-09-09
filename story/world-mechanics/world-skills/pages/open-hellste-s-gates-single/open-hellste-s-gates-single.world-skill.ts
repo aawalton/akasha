@@ -5,6 +5,6 @@ export const openHellsteSGatesSingle = {
   pageTypeSlug: "world-skill",
   slug: "open-hellste-s-gates-single",
   title: "Open Hellste’s Gates (Single)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

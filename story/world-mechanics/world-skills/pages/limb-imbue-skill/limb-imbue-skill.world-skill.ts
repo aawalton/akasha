@@ -5,6 +5,6 @@ export const limbImbueSkill = {
   pageTypeSlug: "world-skill",
   slug: "limb-imbue-skill",
   title: "Limb: Imbue Skill",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

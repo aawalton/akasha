@@ -5,5 +5,5 @@ export const lesserSpeedGolems = {
   pageTypeSlug: "world-skill",
   slug: "lesser-speed-golems",
   title: "Lesser Speed (Golems)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

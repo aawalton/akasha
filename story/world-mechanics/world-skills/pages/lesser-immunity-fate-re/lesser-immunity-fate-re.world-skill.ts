@@ -5,5 +5,5 @@ export const lesserImmunityFateRe = {
   pageTypeSlug: "world-skill",
   slug: "lesser-immunity-fate-re",
   title: "Lesser Immunity: Fate Re",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const narrativeSpotInconsistencies = {
   pageTypeSlug: "world-skill",
   slug: "narrative-spot-inconsistencies",
   title: "Narrative: Spot Inconsistencies",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

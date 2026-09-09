@@ -5,5 +5,5 @@ export const massRestoreStamina = {
   pageTypeSlug: "world-skill",
   slug: "mass-restore-stamina",
   title: "Mass Restore Stamina",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

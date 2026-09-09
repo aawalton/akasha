@@ -5,6 +5,6 @@ export const pikewallFormation = {
   pageTypeSlug: "world-skill",
   slug: "pikewall-formation",
   title: "Pikewall Formation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

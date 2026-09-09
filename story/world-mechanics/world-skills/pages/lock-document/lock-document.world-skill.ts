@@ -5,6 +5,6 @@ export const lockDocument = {
   pageTypeSlug: "world-skill",
   slug: "lock-document",
   title: "Lock Document",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

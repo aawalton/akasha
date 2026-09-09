@@ -5,6 +5,6 @@ export const momentOfMightMonkeySStrength = {
   pageTypeSlug: "world-skill",
   slug: "moment-of-might-monkey-s-strength",
   title: "Moment of Might: Monkey’s Strength",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

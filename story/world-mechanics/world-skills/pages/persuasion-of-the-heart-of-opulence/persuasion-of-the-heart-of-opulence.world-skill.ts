@@ -5,5 +5,5 @@ export const persuasionOfTheHeartOfOpulence = {
   pageTypeSlug: "world-skill",
   slug: "persuasion-of-the-heart-of-opulence",
   title: "Persuasion of the Heart of Opulence",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

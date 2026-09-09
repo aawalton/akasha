@@ -5,6 +5,6 @@ export const marchOfTheInvincible = {
   pageTypeSlug: "world-skill",
   slug: "march-of-the-invincible",
   title: "March of the Invincible",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

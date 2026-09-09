@@ -5,5 +5,5 @@ export const naturalGiftFortressBeaversFurOfTheFortressRe = {
   pageTypeSlug: "world-skill",
   slug: "natural-gift-fortress-beavers-fur-of-the-fortress-re",
   title: "Natural Gift (Fortress Beavers): Fur of the Fortress Re",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const needlingComment = {
   pageTypeSlug: "world-skill",
   slug: "needling-comment",
   title: "Needling Comment",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

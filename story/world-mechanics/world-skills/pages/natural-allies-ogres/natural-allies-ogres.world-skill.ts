@@ -5,5 +5,5 @@ export const naturalAlliesOgres = {
   pageTypeSlug: "world-skill",
   slug: "natural-allies-ogres",
   title: "Natural Allies: Ogres",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

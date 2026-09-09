@@ -5,6 +5,6 @@ export const mischiefBank = {
   pageTypeSlug: "world-skill",
   slug: "mischief-bank",
   title: "Mischief Bank",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

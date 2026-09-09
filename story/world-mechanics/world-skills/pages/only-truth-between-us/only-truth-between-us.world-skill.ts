@@ -5,6 +5,6 @@ export const onlyTruthBetweenUs = {
   pageTypeSlug: "world-skill",
   slug: "only-truth-between-us",
   title: "Only Truth Between Us",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

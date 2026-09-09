@@ -5,6 +5,6 @@ export const lieDetector = {
   pageTypeSlug: "world-skill",
   slug: "lie-detector",
   title: "Lie Detector",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

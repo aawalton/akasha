@@ -5,6 +5,6 @@ export const massedPrayerWithFlamingSwordInHand = {
   pageTypeSlug: "world-skill",
   slug: "massed-prayer-with-flaming-sword-in-hand",
   title: "Massed Prayer: With Flaming Sword In Hand",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

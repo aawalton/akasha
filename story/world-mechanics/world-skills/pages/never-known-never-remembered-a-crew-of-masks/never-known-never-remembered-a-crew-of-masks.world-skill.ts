@@ -5,6 +5,6 @@ export const neverKnownNeverRememberedACrewOfMasks = {
   pageTypeSlug: "world-skill",
   slug: "never-known-never-remembered-a-crew-of-masks",
   title: "Never Known, Never Remembered: A Crew of Masks",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

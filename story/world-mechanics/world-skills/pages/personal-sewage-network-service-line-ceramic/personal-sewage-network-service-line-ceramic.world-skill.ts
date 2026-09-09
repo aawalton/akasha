@@ -5,5 +5,5 @@ export const personalSewageNetworkServiceLineCeramic = {
   pageTypeSlug: "world-skill",
   slug: "personal-sewage-network-service-line-ceramic",
   title: "Personal Sewage Network: Service Line (Ceramic)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

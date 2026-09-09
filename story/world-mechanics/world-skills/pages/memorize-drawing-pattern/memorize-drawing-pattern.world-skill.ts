@@ -5,6 +5,6 @@ export const memorizeDrawingPattern = {
   pageTypeSlug: "world-skill",
   slug: "memorize-drawing-pattern",
   title: "Memorize Drawing Pattern",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const lightweightFrame = {
   pageTypeSlug: "world-skill",
   slug: "lightweight-frame",
   title: "Lightweight Frame",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

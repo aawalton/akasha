@@ -5,6 +5,6 @@ export const magicbreakerBlock = {
   pageTypeSlug: "world-skill",
   slug: "magicbreaker-block",
   title: "Magicbreaker Bl—",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

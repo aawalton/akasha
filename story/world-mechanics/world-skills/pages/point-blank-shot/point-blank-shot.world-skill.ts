@@ -5,6 +5,6 @@ export const pointBlankShot = {
   pageTypeSlug: "world-skill",
   slug: "point-blank-shot",
   title: "Point-Blank Shot",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

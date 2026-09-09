@@ -5,6 +5,6 @@ export const mitigateHearingDamage = {
   pageTypeSlug: "world-skill",
   slug: "mitigate-hearing-damage",
   title: "Mitigate Hearing Damage",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

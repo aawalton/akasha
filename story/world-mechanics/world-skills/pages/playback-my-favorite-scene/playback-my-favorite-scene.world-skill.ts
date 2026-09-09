@@ -5,6 +5,6 @@ export const playbackMyFavoriteScene = {
   pageTypeSlug: "world-skill",
   slug: "playback-my-favorite-scene",
   title: "Playback: My Favorite Scene",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const nurtureIntellectSlimes = {
   pageTypeSlug: "world-skill",
   slug: "nurture-intellect-slimes",
   title: "Nurture Intellect: Slimes",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

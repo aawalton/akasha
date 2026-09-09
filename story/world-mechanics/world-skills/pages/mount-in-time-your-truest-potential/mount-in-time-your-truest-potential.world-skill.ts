@@ -5,6 +5,6 @@ export const mountInTimeYourTruestPotential = {
   pageTypeSlug: "world-skill",
   slug: "mount-in-time-your-truest-potential",
   title: "Mount: In Time, Your Truest Potential",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

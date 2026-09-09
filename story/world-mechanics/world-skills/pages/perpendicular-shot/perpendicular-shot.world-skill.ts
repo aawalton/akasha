@@ -5,6 +5,6 @@ export const perpendicularShot = {
   pageTypeSlug: "world-skill",
   slug: "perpendicular-shot",
   title: "Perpendicular Shot",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

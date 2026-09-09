@@ -5,6 +5,6 @@ export const omnidirectionalSlash = {
   pageTypeSlug: "world-skill",
   slug: "omnidirectional-slash",
   title: "Omnidirectional Slash",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

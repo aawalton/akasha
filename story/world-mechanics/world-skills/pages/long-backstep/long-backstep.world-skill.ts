@@ -5,6 +5,6 @@ export const longBackstep = {
   pageTypeSlug: "world-skill",
   slug: "long-backstep",
   title: "Long Backstep",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

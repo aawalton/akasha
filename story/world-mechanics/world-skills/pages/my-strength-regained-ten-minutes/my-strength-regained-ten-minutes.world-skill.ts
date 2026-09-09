@@ -5,6 +5,6 @@ export const myStrengthRegainedTenMinutes = {
   pageTypeSlug: "world-skill",
   slug: "my-strength-regained-ten-minutes",
   title: "My Strength, Regained (Ten Minutes)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

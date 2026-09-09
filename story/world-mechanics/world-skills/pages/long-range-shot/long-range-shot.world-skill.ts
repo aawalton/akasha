@@ -5,7 +5,7 @@ export const longRangeShot = {
   pageTypeSlug: "world-skill",
   slug: "long-range-shot",
   title: "Long Range Shot",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   aliases: ["Long-Range Shot"],
   references: "jsonl",
 } as const satisfies WorldSkill

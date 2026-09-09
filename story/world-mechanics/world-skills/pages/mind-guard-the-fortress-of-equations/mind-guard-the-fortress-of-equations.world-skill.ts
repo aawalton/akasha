@@ -5,6 +5,6 @@ export const mindGuardTheFortressOfEquations = {
   pageTypeSlug: "world-skill",
   slug: "mind-guard-the-fortress-of-equations",
   title: "Mind Guard: The Fortress of Equations",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const naturalFoeTranslateLanguageLowGoblin = {
   pageTypeSlug: "world-skill",
   slug: "natural-foe-translate-language-low-goblin",
   title: "Natural Foe: Translate Language (Low Goblin)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

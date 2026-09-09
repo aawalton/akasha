@@ -5,6 +5,6 @@ export const manaPoolPure = {
   pageTypeSlug: "world-skill",
   slug: "mana-pool-pure",
   title: "Mana Pool (Pure)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

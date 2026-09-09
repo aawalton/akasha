@@ -5,6 +5,6 @@ export const naturalEnemyVampires = {
   pageTypeSlug: "world-skill",
   slug: "natural-enemy-vampires",
   title: "Natural Enemy: Vampires",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

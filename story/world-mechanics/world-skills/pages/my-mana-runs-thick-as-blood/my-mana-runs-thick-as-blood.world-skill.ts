@@ -5,6 +5,6 @@ export const myManaRunsThickAsBlood = {
   pageTypeSlug: "world-skill",
   slug: "my-mana-runs-thick-as-blood",
   title: "My Mana Runs Thick as Blood",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

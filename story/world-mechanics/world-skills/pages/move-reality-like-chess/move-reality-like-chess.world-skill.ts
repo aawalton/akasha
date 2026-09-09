@@ -5,6 +5,6 @@ export const moveRealityLikeChess = {
   pageTypeSlug: "world-skill",
   slug: "move-reality-like-chess",
   title: "Move Reality Like Chess",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

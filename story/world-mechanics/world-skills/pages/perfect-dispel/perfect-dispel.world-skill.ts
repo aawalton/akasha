@@ -5,6 +5,6 @@ export const perfectDispel = {
   pageTypeSlug: "world-skill",
   slug: "perfect-dispel",
   title: "Perfect Dispel",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

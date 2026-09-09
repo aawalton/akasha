@@ -5,6 +5,6 @@ export const pestkiller = {
   pageTypeSlug: "world-skill",
   slug: "pestkiller",
   title: "Pestkiller",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const neverLateToWorkBoundLocation = {
   pageTypeSlug: "world-skill",
   slug: "never-late-to-work-bound-location",
   title: "Never Late To Work (Bound Location)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesToSlugs: ["where-i-m-needed-i-am-6-locations"],
 } as const satisfies WorldSkill

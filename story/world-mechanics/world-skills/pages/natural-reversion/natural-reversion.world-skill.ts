@@ -5,6 +5,6 @@ export const naturalReversion = {
   pageTypeSlug: "world-skill",
   slug: "natural-reversion",
   title: "Natural Reversion",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

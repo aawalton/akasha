@@ -5,6 +5,6 @@ export const loverPerfectFitArmor = {
   pageTypeSlug: "world-skill",
   slug: "lover-perfect-fit-armor",
   title: "Lover: Perfect-fit Armor",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

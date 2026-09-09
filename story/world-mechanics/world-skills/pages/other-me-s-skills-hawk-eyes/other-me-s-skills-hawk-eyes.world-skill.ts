@@ -5,6 +5,6 @@ export const otherMeSSkillsHawkEyes = {
   pageTypeSlug: "world-skill",
   slug: "other-me-s-skills-hawk-eyes",
   title: "Other Me’s Skills — Hawk Eyes",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const masterfulHolderRune1 = {
   pageTypeSlug: "world-skill",
   slug: "masterful-holder-rune-1",
   title: "Masterful Holder Rune (1)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

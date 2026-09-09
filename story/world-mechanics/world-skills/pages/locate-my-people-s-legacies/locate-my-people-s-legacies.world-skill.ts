@@ -5,5 +5,5 @@ export const locateMyPeopleSLegacies = {
   pageTypeSlug: "world-skill",
   slug: "locate-my-people-s-legacies",
   title: "Locate My People’s Legacies",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

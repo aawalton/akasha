@@ -5,6 +5,6 @@ export const markup130Value = {
   pageTypeSlug: "world-skill",
   slug: "markup-130-value",
   title: "Markup: 130% Value",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

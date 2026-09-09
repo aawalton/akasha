@@ -5,6 +5,6 @@ export const lesserWallOfForce = {
   pageTypeSlug: "world-skill",
   slug: "lesser-wall-of-force",
   title: "Lesser Wall of Force",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const perfectRecall = {
   pageTypeSlug: "world-skill",
   slug: "perfect-recall",
   title: "Perfect Recall",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

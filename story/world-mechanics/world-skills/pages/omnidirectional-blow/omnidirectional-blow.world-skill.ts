@@ -5,6 +5,6 @@ export const omnidirectionalBlow = {
   pageTypeSlug: "world-skill",
   slug: "omnidirectional-blow",
   title: "Omnidirectional Blow",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

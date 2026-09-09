@@ -5,6 +5,6 @@ export const legendaryReputation = {
   pageTypeSlug: "world-skill",
   slug: "legendary-reputation",
   title: "Legendary Reputation",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const monitorAttributeHealth = {
   pageTypeSlug: "world-skill",
   slug: "monitor-attribute-health",
   title: "Monitor Attribute (Health)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

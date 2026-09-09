@@ -5,6 +5,6 @@ export const petBestQualityRefined = {
   pageTypeSlug: "world-skill",
   slug: "pet-best-quality-refined",
   title: "Pet: Best Quality, Refined",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

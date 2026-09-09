@@ -5,5 +5,5 @@ export const memorizeElementaryHomeworkRe = {
   pageTypeSlug: "world-skill",
   slug: "memorize-elementary-homework-re",
   title: "Memorize Elementary Homework Re",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

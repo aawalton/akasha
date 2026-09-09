@@ -5,6 +5,6 @@ export const nullifyShortFall = {
   pageTypeSlug: "world-skill",
   slug: "nullify-short-fall",
   title: "Nullify Short Fall",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,5 +5,5 @@ export const pactTheHardWorkingLambSariant = {
   pageTypeSlug: "world-skill",
   slug: "pact-the-hard-working-lamb-sariant",
   title: "Pact: The Hard-Working Lamb (Sariant)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const medicineRemoveFlawSingle = {
   pageTypeSlug: "world-skill",
   slug: "medicine-remove-flaw-single",
   title: "Medicine: Remove Flaw (Single)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

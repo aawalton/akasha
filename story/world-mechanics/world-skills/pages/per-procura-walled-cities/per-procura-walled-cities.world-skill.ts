@@ -5,5 +5,5 @@ export const perProcuraWalledCities = {
   pageTypeSlug: "world-skill",
   slug: "per-procura-walled-cities",
   title: "Per Procura (Walled Cities)",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies WorldSkill

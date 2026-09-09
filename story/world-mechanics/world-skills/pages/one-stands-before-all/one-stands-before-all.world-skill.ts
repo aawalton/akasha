@@ -5,6 +5,6 @@ export const oneStandsBeforeAll = {
   pageTypeSlug: "world-skill",
   slug: "one-stands-before-all",
   title: "One Stands Before All",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

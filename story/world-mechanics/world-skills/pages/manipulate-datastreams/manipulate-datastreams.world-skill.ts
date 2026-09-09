@@ -5,6 +5,6 @@ export const manipulateDatastreams = {
   pageTypeSlug: "world-skill",
   slug: "manipulate-datastreams",
   title: "Manipulate Datastreams",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

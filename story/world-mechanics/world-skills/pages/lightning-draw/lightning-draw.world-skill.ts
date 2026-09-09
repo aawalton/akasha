@@ -5,6 +5,6 @@ export const lightningDraw = {
   pageTypeSlug: "world-skill",
   slug: "lightning-draw",
   title: "Lightning Draw",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

@@ -5,6 +5,6 @@ export const manorEimlandOfHouseVeltras = {
   pageTypeSlug: "world-skill",
   slug: "manor-eimland-of-house-veltras",
   title: "Manor Eimland of House Veltras",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

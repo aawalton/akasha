@@ -5,6 +5,6 @@ export const naturalGiftAshfireBeesFireflightFur = {
   pageTypeSlug: "world-skill",
   slug: "natural-gift-ashfire-bees-fireflight-fur",
   title: "Natural Gift (Ashfire Bees): Fireflight Fur",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

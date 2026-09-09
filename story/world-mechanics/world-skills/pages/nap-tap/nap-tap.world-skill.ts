@@ -5,6 +5,6 @@ export const napTap = {
   pageTypeSlug: "world-skill",
   slug: "nap-tap",
   title: "Nap Tap",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

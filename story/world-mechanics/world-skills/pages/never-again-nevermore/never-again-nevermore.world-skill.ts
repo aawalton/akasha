@@ -5,6 +5,6 @@ export const neverAgainNevermore = {
   pageTypeSlug: "world-skill",
   slug: "never-again-nevermore",
   title: "Never Again, Nevermore",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill

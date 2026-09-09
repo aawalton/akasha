@@ -5,7 +5,7 @@ export const pitOfManyDeaths = {
   pageTypeSlug: "world-skill",
   slug: "pit-of-many-deaths",
   title: "Pit of Many Deaths",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   evolvesFromSlugs: ["pitfall-trap"],
   references: "jsonl",
 } as const satisfies WorldSkill

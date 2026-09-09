@@ -5,6 +5,6 @@ export const magneticPull = {
   pageTypeSlug: "world-skill",
   slug: "magnetic-pull",
   title: "Magnetic Pull",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   references: "jsonl",
 } as const satisfies WorldSkill
