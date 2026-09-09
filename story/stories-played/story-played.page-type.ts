@@ -2,11 +2,11 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Collection } from "../../collections/collection.page-type.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "./properties/prose.file-property.ts"
-import type { WorldSlug } from "./properties/world-slug.relation-property.ts"
+import type { World } from "./properties/world.relation-property.ts"
 
 export type StoryPlayed = Collection & {
   title: Title
-  worldSlug: WorldSlug
+  worldSlug: World
   prose?: Prose
 }
 
@@ -18,10 +18,10 @@ export const storyPlayed = {
   pluralSlug: "stories-played",
   extendsSlug: ["page-type/collection"],
   runsTabooCheck: false,
-  partSlugs: ["file-property/prose", "relation-property/world-slug"],
+  partSlugs: ["file-property/prose", "relation-property/world"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/world", required: true, many: false },
     { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],
   invariants: [

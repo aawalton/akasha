@@ -2,12 +2,12 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+import type { World } from "../stories-played/properties/world.relation-property.ts"
 import type { NoteSubject } from "./properties/note-subject.text-property.ts"
 
 export type StoryDesignNote = Page & {
   title: Title
-  worldSlug?: WorldSlug
+  worldSlug?: World
   subject?: NoteSubject
   prose?: Prose
 }
@@ -23,7 +23,7 @@ export const storyDesignNote = {
   partSlugs: ["text-property/note-subject"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/world", required: false, many: false },
     { pagePropertySlug: "text-property/note-subject", required: false, many: false },
     { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],

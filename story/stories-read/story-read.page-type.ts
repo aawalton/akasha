@@ -3,13 +3,13 @@ import type { CollectionExternal } from "../../collections/externals/collection-
 import type { Source } from "../../collections/externals/properties/source.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+import type { World } from "../stories-played/properties/world.relation-property.ts"
 import type { ExternalTags } from "./properties/external-tags.text-property.ts"
 import type { PublicationStatus } from "./properties/publication-status.select-property.ts"
 
 export type StoryRead = CollectionExternal & {
   title: Title
-  worldSlug: WorldSlug
+  worldSlug: World
   source: Source
   externalTags?: readonly ExternalTags[]
   publicationStatus?: PublicationStatus
@@ -38,7 +38,7 @@ export const storyRead = {
   partSlugs: ["select-property/publication-status", "text-property/external-tags"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/world", required: true, many: false },
     { pagePropertySlug: "text-property/source", required: true, many: false },
     {
       pagePropertySlug: "text-property/external-tags",

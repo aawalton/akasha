@@ -1,12 +1,12 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type WorldSlug = Slug
+export type World = Slug
 
-export const worldSlug = {
+export const world = {
   id: "01a06424-329c-7149-a41a-d7dec22745d0",
   pageTypeSlug: "relation-property",
-  slug: "world-slug",
+  slug: "world",
   propertySlug: "world-slug",
   definition: "the world something is of",
   targetPageTypeSlug: "page-type/world",

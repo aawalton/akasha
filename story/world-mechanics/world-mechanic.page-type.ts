@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+import type { World } from "../stories-played/properties/world.relation-property.ts"
 import type { Aliases } from "./properties/aliases.text-property.ts"
 import type { EvolvesFromSlugs } from "./properties/evolves-from-slugs.text-property.ts"
 import type { EvolvesToSlugs } from "./properties/evolves-to-slugs.text-property.ts"
@@ -9,7 +9,7 @@ import type { References } from "./properties/references.page-property-entry.ts"
 
 export type WorldMechanic = Page & {
   title: Title
-  worldSlug: WorldSlug
+  worldSlug: World
   aliases?: Aliases
   evolvesFromSlugs?: EvolvesFromSlugs
   evolvesToSlugs?: EvolvesToSlugs
@@ -66,7 +66,7 @@ export const worldMechanic = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/world", required: true, many: false },
     { pagePropertySlug: "text-property/aliases", required: false, many: true, maxCount: null },
     {
       pagePropertySlug: "text-property/evolves-from-slugs",

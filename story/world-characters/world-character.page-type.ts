@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+import type { World } from "../stories-played/properties/world.relation-property.ts"
 import type { EventCount } from "./properties/event-count.number-property.ts"
 import type { FirstChapter } from "./properties/first-chapter.number-property.ts"
 import type { LastChapter } from "./properties/last-chapter.number-property.ts"
@@ -9,7 +9,7 @@ import type { MaxLevel } from "./properties/max-level.number-property.ts"
 
 export type WorldCharacter = Page & {
   title: Title
-  worldSlug: WorldSlug
+  worldSlug: World
   maxLevel?: MaxLevel
   eventCount?: EventCount
   firstChapter?: FirstChapter
@@ -32,7 +32,7 @@ export const worldCharacter = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/world", required: true, many: false },
     { pagePropertySlug: "number-property/max-level", required: false, many: false },
     { pagePropertySlug: "number-property/event-count", required: false, many: false },
     { pagePropertySlug: "number-property/first-chapter", required: false, many: false },

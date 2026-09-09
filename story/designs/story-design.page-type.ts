@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+import type { World } from "../stories-played/properties/world.relation-property.ts"
 import type { ArcStructure } from "./properties/arc-structure.text-property.ts"
 import type { BookTitle } from "./properties/book-title.text-property.ts"
 import type { ChapterNumbering } from "./properties/chapter-numbering.text-property.ts"
@@ -29,7 +29,7 @@ import type { WritingPhilosophy } from "./properties/writing-philosophy.text-pro
 
 export type StoryDesign = Page & {
   title: Title
-  worldSlug?: WorldSlug
+  worldSlug?: World
   premise?: StoryPremise
   genre?: StoryGenre
   tone?: StoryTone
@@ -91,7 +91,7 @@ export const storyDesign = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/world", required: false, many: false },
     { pagePropertySlug: "text-property/story-premise", required: false, many: false },
     { pagePropertySlug: "text-property/story-genre", required: false, many: false },
     { pagePropertySlug: "text-property/story-tone", required: false, many: false },

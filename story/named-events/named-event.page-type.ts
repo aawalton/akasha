@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Seq } from "../../alan/track/days/properties/seq.number-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+import type { World } from "../stories-played/properties/world.relation-property.ts"
 import type { EventAliases } from "./properties/event-aliases.text-property.ts"
 import type { EventFirstChapter } from "./properties/event-first-chapter.number-property.ts"
 import type { EventLastChapter } from "./properties/event-last-chapter.number-property.ts"
@@ -21,7 +21,7 @@ export type NamedEvent = Page & {
   namedEventKind: NamedEventKind
   lastChapter?: EventLastChapter
   seq: Seq
-  worldSlug: WorldSlug
+  worldSlug: World
 }
 
 export const namedEvent = {
@@ -55,7 +55,7 @@ export const namedEvent = {
     { pagePropertySlug: "select-property/named-event-kind", required: true, many: false },
     { pagePropertySlug: "number-property/event-last-chapter", required: false, many: false },
     { pagePropertySlug: "number-property/seq", required: true, many: false },
-    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/world", required: true, many: false },
   ],
   invariants: [
     {
