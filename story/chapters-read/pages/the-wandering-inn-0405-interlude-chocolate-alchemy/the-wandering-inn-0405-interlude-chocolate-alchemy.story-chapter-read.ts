@@ -5,7 +5,7 @@ export const theWanderingInn0405InterludeChocolateAlchemy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0405-interlude-chocolate-alchemy",
   title: "Interlude - Chocolate Alchemy",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 405,
   ownLength: 14694,
   ownProgress: 14694,

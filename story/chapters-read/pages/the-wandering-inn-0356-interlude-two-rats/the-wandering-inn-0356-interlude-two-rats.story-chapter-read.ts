@@ -5,7 +5,7 @@ export const theWanderingInn0356InterludeTwoRats = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0356-interlude-two-rats",
   title: "Interlude - Two Rats",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 356,
   ownLength: 24057,
   ownProgress: 24071,

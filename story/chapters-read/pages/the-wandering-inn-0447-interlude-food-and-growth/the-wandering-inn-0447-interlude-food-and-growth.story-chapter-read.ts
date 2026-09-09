@@ -5,7 +5,7 @@ export const theWanderingInn0447InterludeFoodAndGrowth = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0447-interlude-food-and-growth",
   title: "Interlude - Food and Growth",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 447,
   ownLength: 6296,
   ownProgress: 6475,

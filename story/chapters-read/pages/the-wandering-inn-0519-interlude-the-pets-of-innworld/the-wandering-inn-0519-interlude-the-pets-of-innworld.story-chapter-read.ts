@@ -5,7 +5,7 @@ export const theWanderingInn0519InterludeThePetsOfInnworld = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0519-interlude-the-pets-of-innworld",
   title: "Interlude - The Pets of Innworld",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 519,
   ownLength: 16480,
   ownProgress: 16727,

@@ -5,7 +5,7 @@ export const theWanderingInn0502InterludeParadigmShiftPt2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0502-interlude-paradigm-shift-pt-2",
   title: "Interlude - Paradigm Shift (Pt. 2)",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 502,
   ownLength: 20238,
   ownProgress: 20423,
