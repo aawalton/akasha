@@ -1,7 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type CodeEditorGroup = Page
 
 export const codeEditorGroup = {
   id: "01a06826-92e5-7205-a945-38ff0c371a22",
@@ -13,4 +10,5 @@ export const codeEditorGroup = {
   extends: ["page-type/page"],
   parts: ["page-type/code-editor-group-tab"],
   mortal: true,
+  types: "ts",
 } as const satisfies PageType
