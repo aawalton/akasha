@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const splitshotArrows = {
   id: "01a0657d-02ee-7d68-b906-6d5181cf4729",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "splitshot-arrows",
   title: "Splitshot Arrows",
   world: "the-wandering-inn",

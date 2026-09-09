@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const swiftRedeployment = {
   id: "01a0657d-0303-7fce-a8ce-35fe454c9eb6",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "swift-redeployment",
   title: "Swift Redeployment",
   world: "the-wandering-inn",

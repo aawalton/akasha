@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const sightSBaneFormation = {
   id: "01a0657d-02c1-7291-a600-bd37828a7068",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "sight-s-bane-formation",
   title: "Sight’s Bane Formation",
   world: "the-wandering-inn",

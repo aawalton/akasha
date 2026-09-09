@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const surefoot = {
   id: "01a0657d-0303-7053-904e-47968ac927c1",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "surefoot",
   title: "Surefoot",
   world: "the-wandering-inn",
