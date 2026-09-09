@@ -5,7 +5,7 @@ export const aThirdOfCheckConfigSubjectsNamePathsThatDoNotExist = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-third-of-check-config-subjects-name-paths-that-do-not-exist",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "Every check-config entry names its subject by path, and 85 of 269 name a path that does not exist. All 26 code-side entries in `check-configs-codegen.ts` reach into a `packages/` directory this tree does not have, so the check that pairs a generator against the file it emits has no code subject at all, and reports green. Nine companion generators drifted under one commit with nothing noticing.",
   evidence:

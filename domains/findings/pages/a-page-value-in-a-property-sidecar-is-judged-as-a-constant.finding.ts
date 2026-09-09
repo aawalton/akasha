@@ -5,7 +5,7 @@ export const aPageValueInAPropertySidecarIsJudgedAsAConstant = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-page-value-in-a-property-sidecar-is-judged-as-a-constant",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "`identifier-matches-its-place` reads the value a property sidecar holds as a constant and requires `upper-snake-case`, so a `.uncommitted.ts` or `.declaration.ts` file is refused for the very name its own stem makes. `pageValueIn` skips a page's own value, but it answers nothing where the file name carries sections, and a sidecar always carries one. 10 tracked files are refused this way, and the uncommitted sidecars make up most of the 117 between the 392 refusals over tracked files and the 509 an audit reports. These files are machine-written, so the refusal falls on whatever next writes one rather than on an author who chose the name.",
   evidence:

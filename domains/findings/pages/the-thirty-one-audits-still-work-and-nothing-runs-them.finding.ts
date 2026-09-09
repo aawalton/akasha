@@ -5,7 +5,7 @@ export const theThirtyOneAuditsStillWorkAndNothingRunsThem = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-thirty-one-audits-still-work-and-nothing-runs-them",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "The files under `tools/audits/` cannot be run: their only runner, `tools/run-checks.ts`, went at d3eeca3646 with required reading. Called by hand they work; seven refused. Sampling every message reversed what the seven meant. Two were display ceilings, not counts, and one was deleted once read. The largest, 782, holds none of the defect it was read as; the smallest, 41, held the only bounded fixable one. An unadjudicated refusal count measures how loud a check is, not what is wrong.",
   evidence:

@@ -5,7 +5,7 @@ export const anInstallThatNeverPrunesLeavesEveryRenamedPackageResolvable = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "an-install-that-never-prunes-leaves-every-renamed-package-resolvable",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "A package rename leaves a link under the dead name, and nothing takes that link away, so a name no manifest states goes on resolving for as long as the folder it points at remains.",
   evidence:

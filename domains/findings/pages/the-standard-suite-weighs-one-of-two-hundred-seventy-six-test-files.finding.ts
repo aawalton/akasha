@@ -5,7 +5,7 @@ export const theStandardSuiteWeighsOneOfTwoHundredSeventySixTestFiles = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-standard-suite-weighs-one-of-two-hundred-seventy-six-test-files",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "The only check that runs tests reads 1 of the repository's 276 test files. `SUITE_GLOB` is a literal `tools/**/*.test.ts`, written when `tools/` held 735 of them; 274 are now under `akasha/` and the glob never followed. Repointing it alone does not repair it: the selection graph beneath is built from `tools/**/*.ts` too, so a widened suite still chooses zero while reporting a population of 275. The full repair binds every akasha test to a one second ceiling, a cost decision not a repoint.",
   evidence:

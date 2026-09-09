@@ -1,7 +1,10 @@
 import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { resolve } from "node:path"
-import { renderAuditReading, summarizeAudit } from "@akasha/checks/audit-reading"
 import { codeRoot } from "@akasha/pages/code-root"
+import {
+  renderAuditReading,
+  summarizeAudit,
+} from "akasha/checks/modules/audit-reading/audit-reading.module.code.ts"
 import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import {

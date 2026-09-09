@@ -5,7 +5,7 @@ export const fourHandKeptListsShadowedOneDerivableSetAndEachDriftedDifferently =
   pageTypeSlug: "finding",
   type: "finding",
   slug: "four-hand-kept-lists-shadowed-one-derivable-set-and-each-drifted-differently",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "A list written into code to answer a question the code around it can derive is a shadow of the thing it names, and it drifts with nothing to report the drift. Four separate lists in `folder-matches-a-shape` each answered whether a folder name is one some enabled folder shape judges. The shapes published six such names. All four lists were short, and each was short differently, holding two, four, four and five of the six, so no two of them agreed and nothing failed, because each list was the only authority its own reader consulted.",
   evidence:

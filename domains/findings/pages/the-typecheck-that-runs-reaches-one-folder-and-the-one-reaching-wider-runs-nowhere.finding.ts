@@ -5,7 +5,7 @@ export const theTypecheckThatRunsReachesOneFolderAndTheOneReachingWiderRunsNowhe
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-typecheck-that-runs-reaches-one-folder-and-the-one-reaching-wider-runs-nowhere",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "Two instruments could have compiled `tools/` and neither did. The check that runs at audit reads no tsconfig and is bounded to the akasha folder by one line, `compiled()`; widening it is a change to what a check reaches, which is Alan's. The root tsconfig's references are traversed by one command, and the service that would run it is not installed. 1392 of 10749 TypeScript files stand inside that reference graph, so 87 percent of the repository is outside it.",
   evidence:

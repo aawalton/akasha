@@ -1,13 +1,12 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const check = {
   id: "01a04bc4-7e85-704f-b87e-eac561795185",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "check",
   definition: "how a change is judged against what must be true of it",
   pluralSlug: "checks",
-  manifest: "json",
   parts: [
     "module/body-not-utf8",
     "module/refusal-text",
@@ -178,4 +177,4 @@ export const check = {
       ],
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

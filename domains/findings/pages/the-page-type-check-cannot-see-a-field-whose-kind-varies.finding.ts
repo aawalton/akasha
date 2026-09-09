@@ -5,7 +5,7 @@ export const thePageTypeCheckCannotSeeAFieldWhoseKindVaries = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-page-type-check-cannot-see-a-field-whose-kind-varies",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "What judges an entry reads the name of each field a row states and never the kind of value that field holds. A field declared as a number holding text, and a field declared as a record holding text, are both answered clean. Nothing descends into a nested object either, so a shape declares named fields and the fields inside a value are judged by nothing. An entry shape therefore asserts a kind no check ever tests.",
   evidence:

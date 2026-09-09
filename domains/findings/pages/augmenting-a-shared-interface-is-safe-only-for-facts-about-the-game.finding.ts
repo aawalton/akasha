@@ -5,7 +5,7 @@ export const augmentingASharedInterfaceIsSafeOnlyForFactsAboutTheGame = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "augmenting-a-shared-interface-is-safe-only-for-facts-about-the-game",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "A package augmenting a shared interface is safe only where the member states a fact about the game. Where the member's type is declared by the augmenting package it is that package's furniture, and it belongs on a subtype that package declares. Whose type it is decides where the member belongs; what kind of member it is decides how urgent the move is. Two seats reached the two halves separately on 2026-09-02 and neither half is sufficient alone.",
   evidence:

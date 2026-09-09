@@ -5,7 +5,7 @@ export const theaChecksSystem = {
   pageTypeSlug: "initiative",
   type: "initiative",
   slug: "thea-checks-system",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   persona: "thea",
   intents: [
     {

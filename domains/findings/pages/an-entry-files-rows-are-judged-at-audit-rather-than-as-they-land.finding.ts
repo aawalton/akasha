@@ -5,7 +5,7 @@ export const anEntryFilesRowsAreJudgedAtAuditRatherThanAsTheyLand = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "an-entry-files-rows-are-judged-at-audit-rather-than-as-they-land",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "A change carrying an entry file lands whatever the rows say. What judges a row against the fields its shape declares runs over the page beside it, and a writer learns the rows were wrong only at the next audit, which may be after many thousands of them have landed.",
   evidence:

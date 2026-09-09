@@ -1,4 +1,4 @@
-import type { Judged } from "@akasha/checks/judging"
+import type { Judged } from "akasha/checks/modules/judging/judging.module.code.ts"
 
 export type Counting = (many: number, one: string) => string
 

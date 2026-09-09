@@ -1,6 +1,5 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { notUtf8 } from "@akasha/checks/body-not-utf8"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
 import {
   AKASHA,
@@ -11,6 +10,7 @@ import {
 } from "@akasha/pages/checkout-roots"
 import type { Repo as Addressable, Repo } from "@akasha/pages/markdown-document"
 import type { Roots } from "@akasha/pages/markdown-page-at"
+import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { fail } from "../command-failing/command-failing.module.code.ts"
 
 const STANDALONE = [

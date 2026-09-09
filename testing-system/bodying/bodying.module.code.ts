@@ -1,4 +1,4 @@
-import type { Body } from "@akasha/checks/change-walking"
+import type { Body } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
 
 export function bytesOf(text: string): Uint8Array {
   return new TextEncoder().encode(text)

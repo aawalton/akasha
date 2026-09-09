@@ -5,7 +5,7 @@ export const oneChecksRemedyIsRefusedByAnotherCheck = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "one-checks-remedy-is-refused-by-another-check",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "`no-rule-in-two-files` asks that a duplicated cast helper go, which turns `export const lib: Lib = asLib({...})` into `export const lib: Lib = {...} as Lib`. `identifier-matches-its-place` then refuses that line, because a constant whose initializer is written out is held to upper snake case and a call expression is not written out. Taking one check's remedy hands you the other check's refusal. The resolution is to rename the constant, not to keep the helper.",
   evidence:

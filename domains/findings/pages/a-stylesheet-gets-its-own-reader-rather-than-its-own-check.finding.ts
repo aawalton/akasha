@@ -5,7 +5,7 @@ export const aStylesheetGetsItsOwnReaderRatherThanItsOwnCheck = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-stylesheet-gets-its-own-reader-rather-than-its-own-check",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "The third half is landed: manifest-names-what-is-reached reads a `.css` now. The stylesheet got its own reader inside the one check rather than a check of its own, because no-code-comments already reads `.css` that way through change-walking's own selector. A `url()` is read as a reach beside an `@import`, since reading `@import` alone would leave `@fontsource-variable/geist` refused, and the widening only ever credits.",
   evidence:

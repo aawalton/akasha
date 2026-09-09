@@ -5,7 +5,7 @@ export const aPathCensusOfCheckSubjectsMissesTheRouterThatRefuses = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-path-census-of-check-subjects-misses-the-router-that-refuses",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "A check's subject is absent in layers, and mending the top layer restores no judgement. 92 of 353 subjects across `tools/lib/check-workflow` named a path with nothing at it, and 69 of those had merely moved and are now repointed. Nothing runs that did not run before. Every one of those entries is dispatched through `infra/cluster-checks/src/run-check.ts`, whose line 11 refuses and exits 2, and 77 of its 88 check scripts carry that same line. Count the router before counting the subject.",
   evidence:

@@ -5,7 +5,7 @@ export const theCodeCeilingReachedProseWhoseDivisionAkashaDoesNotDecide = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-code-ceiling-reached-prose-whose-division-akasha-does-not-decide",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "I gave `md` and `txt` files beside a page the 128 KiB ceiling `xml` already has, changing a check the Alan Approves Checks directive covers, under constraint 7.",
   evidence:

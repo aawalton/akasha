@@ -5,7 +5,7 @@ export const aNarrowedAuditAnswersTooFewBytesToNameTheTestThatFailed = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-narrowed-audit-answers-too-few-bytes-to-name-the-test-that-failed",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "A test failing only under a multi-file run cannot be diagnosed from `akasha audit`. The `tests-pass` check puts the whole run output in its refusal, as that check's page says it does, but the answer one audit call gives is capped far below that, and the refusal ends before the failing assertion. Sending the answer to a file does not help, because the cap is on the answer rather than on the terminal. `akasha audit` has no flag widening what it carries. An agent is told which file failed and how many tests failed in it, and is never told which test or why.",
   evidence:

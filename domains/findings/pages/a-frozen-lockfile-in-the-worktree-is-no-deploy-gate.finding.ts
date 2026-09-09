@@ -5,7 +5,7 @@ export const aFrozenLockfileInTheWorktreeIsNoDeployGate = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-frozen-lockfile-in-the-worktree-is-no-deploy-gate",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "Running `bun install --frozen-lockfile` in this worktree says nothing about whether a deploy will start. Seven whole-scope symlinks in `node_modules` point into the source tree, so a package under one of those scopes resolves whether or not its manifest is tracked. An untracked manifest passes every local check while the install the pod runs against the tracked tree fails. The check that reads as the deploy gate is the one that cannot see the fault the deploy meets.",
   evidence:

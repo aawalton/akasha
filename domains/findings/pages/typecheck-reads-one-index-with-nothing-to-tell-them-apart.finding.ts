@@ -5,7 +5,7 @@ export const typecheckReadsOneIndexWithNothingToTellThemApart = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "typecheck-reads-one-index-with-nothing-to-tell-them-apart",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "Typecheck asks the graph for import edges alone, and for those the committed index and the shadow a change leaves provably answer alike, so the reading that `reachedBy` and `rootsOf` take is correct but unpinned: no test fails if a caller stops passing it.",
   evidence:

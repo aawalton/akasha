@@ -5,7 +5,7 @@ export const nothingTypechecksTheToolsFolderSoASignatureChangeLandsUnseen = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "nothing-typechecks-the-tools-folder-so-a-signature-change-lands-unseen",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "The root `tsconfig.json` states `files: []` and lists only references, none of which reaches `tools/`, so nothing typechecks that folder. `landInAkasha` changed its parameter order and its return shape together; two of its four callers moved with it and two did not. The two that did not handed four arguments to a three-argument function and read three fields that no longer exist. Typecheck, lint and 3687 tests all stayed green while the credential push failed on every run for 35 hours.",
   evidence:

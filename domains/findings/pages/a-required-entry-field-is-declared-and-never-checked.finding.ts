@@ -5,7 +5,7 @@ export const aRequiredEntryFieldIsDeclaredAndNeverChecked = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-required-entry-field-is-declared-and-never-checked",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "An entry shape declares which of its fields are required, and nothing ever asks. What judges an entry reads the keys a row states and asks whether the shape declares each one. Nothing reads the other way, so a row missing a field its shape requires is answered clean. Temper has just landed 20,956 entry rows against shapes declaring required fields, and no row was tested for a field left out.",
   evidence:

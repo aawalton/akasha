@@ -4,7 +4,7 @@ export const oneMapNameInFourFilesReadsAsOneRule = {
   id: "01a05cb7-586b-7000-bdc3-cd578efa2720",
   pageTypeSlug: "finding",
   type: "finding",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   slug: "one-map-name-in-four-files-reads-as-one-rule",
   claim:
     "no-rule-in-two-files reads a name a function does not bind exactly as written, so module-private state sharing a spelling across files makes distinct rules collide. Four pages-ui registries each spelled their Map `registry`, and every one-line accessor over them read alike: seven of the fifteen refusals standing tonight were functions touching four different maps. What this check counts moves with naming convention rather than with duplication alone.",

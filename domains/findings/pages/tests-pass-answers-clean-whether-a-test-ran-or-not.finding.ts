@@ -5,7 +5,7 @@ export const testsPassAnswersCleanWhetherATestRanOrNot = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "tests-pass-answers-clean-whether-a-test-ran-or-not",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "`tests-pass` answers an empty list for three states a caller cannot tell apart: the tests ran and were green, there was no test to run, and no test ran at all. The third is `if (alreadyRunning()) return []`. `alreadyRunning()` reads `AKASHA_TESTS_RUNNING`, which `code-tests` writes into the environment of every child it spawns and which nothing in the tree unsets, so every descendant of a test run inherits it for as long as that run lasts. A landing made from inside a test therefore clears `tests-pass` with no test having run, and the landing counts the check as having run.",
   evidence:

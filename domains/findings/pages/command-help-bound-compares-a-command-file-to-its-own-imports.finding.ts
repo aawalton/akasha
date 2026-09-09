@@ -5,7 +5,7 @@ export const commandHelpBoundComparesACommandFileToItsOwnImports = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "command-help-bound-compares-a-command-file-to-its-own-imports",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "`command-help-bound` compared a command file against itself plus its imports until `1273f48c45`, refusing 39 of 287 subjects with not one of them a drift. `8616175cee` pointed `codeRoot` at the akasha root when `code` was absorbed, and `parseArgs(help, argv)` makes the help object the parser spec in 277 of the 287, so the help could not part from the parser it describes. It now reads the 286 commands off the filesystem and compares only where those are two declarations.",
   evidence:

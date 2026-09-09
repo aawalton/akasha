@@ -5,7 +5,7 @@ export const theRefusalFamilyIsTwentySevenPrintedPagesAndSeventyFourThatWent = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-refusal-family-is-twenty-seven-printed-pages-and-seventy-four-that-went",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "The 101 refusal documents split 27 printed to 74 printed by nothing, and the 74 went. Each of the 27 has a literal `refusalText(` call site; each of the 74 has none, and 68 of them occur nowhere in the repository outside their own file. The 27 are now `refusal` pages under `akasha/checks/refusals/`, and `refusal/refusal.ts` reads them there rather than reading markdown.",
   evidence:

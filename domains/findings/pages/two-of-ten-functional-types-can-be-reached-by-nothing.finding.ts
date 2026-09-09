@@ -5,7 +5,7 @@ export const twoOfTenFunctionalTypesCanBeReachedByNothing = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "two-of-ten-functional-types-can-be-reached-by-nothing",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "`local-service` and `next-app` are members of `FUNCTIONAL_TYPES` that no package here can ever be. Neither has a discriminator row, and no manifest has declared either in the whole history. The only discriminator for `local-service` probes `apps.workflow.ts`, a file kind that has never existed in this repository. The one check that would report the gap refuses before it looks, and `package add` offers a divergent nine-member roster omitting `io`, which thirteen packages carry.",
   evidence:

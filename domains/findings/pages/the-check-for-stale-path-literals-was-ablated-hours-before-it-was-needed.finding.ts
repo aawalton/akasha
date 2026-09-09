@@ -5,7 +5,7 @@ export const theCheckForStalePathLiteralsWasAblatedHoursBeforeItWasNeeded = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-check-for-stale-path-literals-was-ablated-hours-before-it-was-needed",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     'Ablating a retired cluster check takes the rule out of the tree along with the file, and the census that authorises the ablation cannot see that cost, because it measures readers rather than subjects. `repo-paths` — "the check refusing a repo path written in source or a link that points at no tracked file" — was ablated at 15:00 on 2026-09-03. That is the rule for exactly the defect class the swarm produced tonight, and its scanner module `ts-path-literals` is still standing with zero readers: the instrument survives and the check that aimed it does not.',
   evidence:

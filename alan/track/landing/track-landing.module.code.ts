@@ -1,7 +1,7 @@
 import type { Asking } from "@akasha/changes/mechanical-change-running"
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
-import { notUtf8 } from "@akasha/checks/body-not-utf8"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
+import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { mistaking } from "../../../commands/modules/asking/asking.module.code.ts"
 import { type Answer, answering } from "../../../commands/modules/calling/calling.module.code.ts"
 import type { FileEdit } from "../../../commands/modules/landing/landing.module.code.ts"

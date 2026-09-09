@@ -5,7 +5,7 @@ export const aPartialMockModuleFactoryPoisonsEveryLaterTestFile = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-partial-mock-module-factory-poisons-every-later-test-file",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "Bun's `mock.module` replaces a specifier in the module registry for the whole process and is never undone between test files. A factory returning fewer exports than the real module breaks every file that later imports one of the missing names. The failure surfaces in the victim rather than in the file that mocked: a test file that is green alone fails inside a sweep with a SyntaxError naming an export nothing ever removed from its source, and the sweep names the file that broke rather than the file that broke it. Five of nineteen factories were of that kind and are repaired. A second fault is larger and no shape rule can see it: a factory naming every export still answers with the mocking test's values for every later importer, process-wide, because `mock.module` merges into the module record and a later factory cannot remove a key an earlier one installed. `media-page.module.test.ts` spreads the real namespace and still costs `alan/web` 59 tests. No check judges either at any phase.",
   evidence:

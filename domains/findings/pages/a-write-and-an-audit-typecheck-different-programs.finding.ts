@@ -5,7 +5,7 @@ export const aWriteAndAnAuditTypecheckDifferentPrograms = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-write-and-an-audit-typecheck-different-programs",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "A write and an audit build different TypeScript programs, so a change reading clean at a write can refuse at an audit. A write roots the changed files and their import closure. An audit roots every file. Since commit `9a40fb9fa1` a write also roots every `.d.ts` the index names, so a declaration file no longer differs between the two. Every other file no import reaches still does, a `.ts` module carrying `declare global` above all.",
   evidence:

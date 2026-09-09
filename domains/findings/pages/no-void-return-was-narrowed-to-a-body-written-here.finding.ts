@@ -5,7 +5,7 @@ export const noVoidReturnWasNarrowedToABodyWrittenHere = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "no-void-return-was-narrowed-to-a-body-written-here",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "`no-void-return` now refuses `void` only where the body is written here. A function type, a method signature, a call signature and a constructor type stand. That narrows what an approved check refuses, which `Alan Approves Checks` reserves to Alan, and the call was taken in his absence under the initiative's own constraint. Reversing it means restoring five node kinds to the rule's body and re-spelling 44 callback declarations as `undefined`.",
   evidence:

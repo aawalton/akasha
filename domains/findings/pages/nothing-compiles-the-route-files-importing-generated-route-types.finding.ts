@@ -5,7 +5,7 @@ export const nothingCompilesTheRouteFilesImportingGeneratedRouteTypes = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "nothing-compiles-the-route-files-importing-generated-route-types",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "59 route files import react-router's generated `+types` declarations, and nothing compiles them. `typecheck` excludes them and records a `gap` saying each app's own compile judges them, and no app compile runs anywhere: there is no CI, the root tsconfig states an empty file list and no references, per-app typecheck scripts exist that nothing invokes, and deploy builds through Vite, which strips types without checking them. Each of the seven apps holds a tsconfig, so all 59 could be compiled by hand. `typecheck` cannot take them either: react-router's route types hang off one global `Register` interface that seven apps augment incompatibly, so one program over the tree types other apps' params as an empty object or, where a route name collides, clean against the wrong app's params.",
   evidence:

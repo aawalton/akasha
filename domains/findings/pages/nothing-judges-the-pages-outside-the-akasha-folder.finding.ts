@@ -5,7 +5,7 @@ export const nothingJudgesThePagesOutsideTheAkashaFolder = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "nothing-judges-the-pages-outside-the-akasha-folder",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "The live net reaches 40 of the 57010 markdown documents the orphaned `tools/audits/` checks walked. Every one of the 41 code checks is handed `insideOf`, so the 54846 markdown pages under `pages/` are judged by nothing. Four audits are read as doublings of live checks whose names they share. They are not: what they share is the question, and what the gate does not reach is where the question was being asked.",
   evidence:

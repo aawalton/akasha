@@ -13,7 +13,6 @@
     "./subagent-handed": "./modules/subagent-handed/subagent-handed.module.code.ts"
   },
   "dependencies": {
-    "@akasha/checks": "workspace:*",
     "@akasha/code": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/git": "workspace:*",

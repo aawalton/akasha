@@ -1,9 +1,13 @@
 import { resolve } from "node:path"
-import { everythingIn } from "@akasha/checks/change-walking"
-import type { Gathered } from "@akasha/checks/checking"
-import { checksAt, checksIn, judgingBy } from "@akasha/checks/checking"
-import type { Judged, Judging } from "@akasha/checks/judging"
 import type { Change } from "@akasha/pages/change"
+import { everythingIn } from "akasha/checks/modules/change-walking/change-walking.module.code.ts"
+import type { Gathered } from "akasha/checks/modules/checking/checking.module.code.ts"
+import {
+  checksAt,
+  checksIn,
+  judgingBy,
+} from "akasha/checks/modules/checking/checking.module.code.ts"
+import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { counted } from "../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { oneLine, whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"

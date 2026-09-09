@@ -5,7 +5,7 @@ export const theGateRunsUnlandedCodeToJudgeAChange = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-gate-runs-unlanded-code-to-judge-a-change",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "`no-refused-syntax` executes the body a change carries. Where a change carries a `*.syntax-rule.code.ts` body no path on disk holds, whether the rule is new or rewritten, `rulesIn` compiles that carried text and runs it through `new Function` with a live `createRequire`, before the change has landed and while the check is deciding whether it may. Judging a change and running it are one act here.",
   evidence:

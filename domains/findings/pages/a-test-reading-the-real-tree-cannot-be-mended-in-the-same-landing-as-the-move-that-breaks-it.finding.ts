@@ -5,7 +5,7 @@ export const aTestReadingTheRealTreeCannotBeMendedInTheSameLandingAsTheMoveThatB
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-test-reading-the-real-tree-cannot-be-mended-in-the-same-landing-as-the-move-that-breaks-it",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "A test whose subject resolves paths against the real checkout cannot be mended in the same landing as the folder move that breaks it. The move alone does not run the test at all, because the landing carries no file that test stands beside, so the break is invisible and every check is green over a broken tree. Folding the path mend into the same landing makes the test run and then fail, because the checks run the code out of an overlay while the code resolves its root against the checkout, where nothing is written until the landing succeeds. Two commits in one order are the only route: the move first, which runs no test, then the constants, which pass because the checkout has already moved. That contradicts the ordinary instruction to mend a broken test in the same landing as what breaks it.",
   evidence:

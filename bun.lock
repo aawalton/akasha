@@ -329,7 +329,6 @@
     "changes": {
       "name": "@akasha/changes",
       "dependencies": {
-        "@akasha/checks": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/git": "workspace:*",
@@ -338,15 +337,6 @@
         "@akasha/testing-system": "workspace:*",
         "@akasha/utils": "workspace:*",
         "typescript": "5.9.3",
-      },
-    },
-    "checks": {
-      "name": "@akasha/checks",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "typescript": "5.9.3",
-        "typescript-7": "npm:typescript@7.1.0-dev.20260904.1",
       },
     },
     "code-system": {
@@ -403,7 +393,6 @@
       "dependencies": {
         "@akasha/agents": "workspace:*",
         "@akasha/changes": "workspace:*",
-        "@akasha/checks": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/indexes": "workspace:*",
@@ -1179,8 +1168,6 @@
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:alan/harness/calendar-sync"],
 
     "@akasha/changes": ["@akasha/changes@workspace:changes"],
-
-    "@akasha/checks": ["@akasha/checks@workspace:checks"],
 
     "@akasha/chess-core": ["@akasha/chess-core@workspace:alan/chess"],
 

@@ -5,7 +5,7 @@ export const aStalenessRuleKeyedOnWhatIsThereNowCannotSeeARenamedFolder = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-staleness-rule-keyed-on-what-is-there-now-cannot-see-a-renamed-folder",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "A check that decides what to judge by reading the structure that is there now goes blind to whatever the change took away.",
   evidence:

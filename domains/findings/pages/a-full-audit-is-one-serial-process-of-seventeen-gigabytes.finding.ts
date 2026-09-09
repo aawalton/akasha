@@ -5,7 +5,7 @@ export const aFullAuditIsOneSerialProcessOfSeventeenGigabytes = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-full-audit-is-one-serial-process-of-seventeen-gigabytes",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "`akasha audit` runs its 41 audit checks serially in one process rather than at once. One full audit peaks at 17,226 MB over 911 seconds, not 41 lots of 1.8 GB. It does not refuse redirected output; only `akasha read` does. The heaviest single check is `typecheck` at 6,090 MB rather than `page-matches-its-type` at 2,496 MB. Refusal counts from a full audit and from a per-check sweep cannot be compared on a tree the swarm is writing to.",
   evidence:

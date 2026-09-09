@@ -5,7 +5,7 @@ export const theAuditAnswersForTheWholeTreeAndTakesNoPath = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-audit-answers-for-the-whole-tree-and-takes-no-path",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "The audit runs every check over every file the index names and takes no path, so in a repository fourteen seats commit to it cannot answer whether one change broke anything. Tonight it refused 696 times and every refusal legible in its answer belongs to another domain's migration in flight. What answers per change is the gate on each write, which judged 37 checks against every path landed tonight and refused none.",
   evidence:

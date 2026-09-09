@@ -5,7 +5,7 @@ export const aNamePlaceCheckJudgesTheVendoredLuaRuntimeItsOwnPagePassesOver = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-name-place-check-judges-the-vendored-lua-runtime-its-own-page-passes-over",
-  domain: "workspace-package/check",
+  domain: "domain/check",
   claim:
     "`identifier-matches-its-place` judges the vendored TypeScriptToLua runtime under `language-design/lua-compiler/lualib/`, which its own absence invariant says it passes over. 144 of its 392 refusals over tracked files sit there, 136 of them functions named `__TS__ArrayConcat` and the like. Those names are the compiler's, which emits calls to them, so obeying a refusal breaks the emitted Lua rather than restyling it. Nothing in the check tests a boundary. The narrowing that once held was `insideOf` in `change-walking`, taken out at `782c4cb724` because the akasha folder had become the repository root, so every check now reaches the whole tree including source akasha never wrote.",
   evidence:

@@ -1,9 +1,9 @@
 import { createHash } from "node:crypto"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Phase } from "@akasha/checks/checking"
 import { idFiled, listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages/page-export-name"
+import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
 
 export const REFUSES_CODE = `export function refuses(change) {
   return change.changed.map((path) => ({ path, reason: "refused for the test" }))

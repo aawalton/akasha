@@ -1,5 +1,4 @@
 import { dirname } from "node:path"
-import { namingIn, refusalOf } from "@akasha/checks/package-reached-where-named"
 import { typed } from "@akasha/code/code-typing"
 import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
@@ -7,6 +6,10 @@ import { importingOf } from "@akasha/indexes/path-naming"
 import { matchingIn } from "@akasha/pages/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
 import type { Matching } from "@akasha/pages/name-format/name-matching"
+import {
+  namingIn,
+  refusalOf,
+} from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.code.ts"
 import ts from "typescript"
 import {
   missing,
