@@ -209,10 +209,6 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A change says whether the body the change carries moved from another path.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A change may be drafted into an agent's patch rather than written onto the tree.",
     },
     {

@@ -44,10 +44,6 @@ export const valueMinting = {
     },
     {
       invariantKind: "departure",
-      statement: "A body moved from another path is left alone.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A property the page already states is left alone.",
     },
     {
