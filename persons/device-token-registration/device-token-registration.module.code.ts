@@ -72,7 +72,7 @@ export async function deviceTokensFor(
     {
       pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
       where: { personSlug: { is: person } },
-      keys: ["token", "iosApp", "iosAppSlug"],
+      keys: ["token", "iosApp"],
     },
     fetcher,
     naps
@@ -86,7 +86,7 @@ export async function deviceTokensFor(
   const tokens: DeviceTokenReached[] = []
   for (const row of asked.rows) {
     const token = row.token
-    const app = row.iosApp ?? row.iosAppSlug
+    const app = row.iosApp
     if (typeof token !== "string" || token === "") continue
     if (typeof app !== "string" || app === "") {
       return { ok: false, why: `a token of ${person} names no app, so no push can be addressed` }
@@ -133,7 +133,7 @@ export async function registerDeviceToken(
             pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
             slug,
             personSlug: person,
-            iosAppSlug: named,
+            iosApp: named,
             token: args.deviceTokenRegistration,
             lastSeenAt: new Date().toISOString(),
           },
