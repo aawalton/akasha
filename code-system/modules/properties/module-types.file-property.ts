@@ -1,11 +1,11 @@
 import type { FileProperty } from "@akasha/pages/file-property"
 
-export type Types = "ts"
+export type ModuleTypes = "ts"
 
-export const types = {
+export const moduleTypes = {
   id: "01a0771e-597f-7d38-a6cf-073905063498",
   pageTypeSlug: "file-property",
-  slug: "types",
+  slug: "module-types",
   propertySlug: "types",
   definition: "the type declarations a module's code and its callers both state",
   invariants: [
