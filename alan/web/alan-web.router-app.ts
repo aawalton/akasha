@@ -188,5 +188,6 @@ export const alanWeb = {
     "route/alan-web-privacy",
     "route/alan-web-services",
     "route/alan-web-terms",
+    "route/alan-web-principles",
   ],
 } as const satisfies RouterApp

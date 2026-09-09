@@ -3,7 +3,7 @@ import { index, layout, type RouteConfig, route } from "@react-router/dev/routes
 export default [
   layout("routes/_app-layout.tsx", [
     route("home", "routes/home.tsx"),
-    route("principles", "routes/principles.tsx"),
+    route("principles", "routes/alan-web-principles/alan-web-principles.route.code.tsx"),
     route("design", "routes/design.tsx"),
     route(":pageTypeSlug/:pageHrefParam", "routes/page-detail.tsx"),
     route(":pageTypeSlug", "routes/page-listing.tsx"),
