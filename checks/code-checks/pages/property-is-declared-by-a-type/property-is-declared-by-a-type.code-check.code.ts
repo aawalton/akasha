@@ -8,13 +8,11 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const PAGE_PROPERTY = "page-property"
 
-const DECLARES = ["page-property-slug", "members", "member-slugs"] as const
+const DECLARES = ["page-property-slug", "members"] as const
 
 const DECLARED = "properties"
 
 const MEMBERS = "members"
-
-const WAS_MEMBERS = "memberSlugs"
 
 const SAID = "pagePropertySlug"
 
@@ -28,7 +26,7 @@ export function declaredIn(value: Value | null): readonly string[] {
       if (said !== null) found.push(said)
     }
   }
-  found.push(...(textsAt(value, MEMBERS) ?? textsAt(value, WAS_MEMBERS) ?? []))
+  found.push(...(textsAt(value, MEMBERS) ?? []))
   return found
 }
 

@@ -92,7 +92,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     pageTypeSlug: "one-of-property",
     slug: "either",
     propertySlug: "either",
-    memberSlugs: ["relation-property/domain-slug", "relation-property/note-slug"],
+    members: ["relation-property/domain-slug", "relation-property/note-slug"],
   })
   filed(
     "identity/page-type/record-property/slug/parts.jsonl",

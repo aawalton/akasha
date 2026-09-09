@@ -49,7 +49,7 @@ function body(kind: string, slug: string, id: string, declares?: readonly string
 function oneOf(slug: string, id: string, members: readonly string[]): Uint8Array {
   return new TextEncoder().encode(
     `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "one-of-property", ` +
-      `slug: ${JSON.stringify(slug)}, memberSlugs: ${JSON.stringify(members)} }\n`
+      `slug: ${JSON.stringify(slug)}, members: ${JSON.stringify(members)} }\n`
   )
 }
 
@@ -68,7 +68,7 @@ function rooted(): string {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "page-property",
   })
-  declaring(root, "member-slugs", {
+  declaring(root, "members", {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "page-property",
   })
@@ -222,7 +222,7 @@ test("a one of naming a member declares it as a page type declares a property", 
 test("a member the index says a one of already names is let through", () => {
   const root = rooted()
   filing(root, "relation-property", "held", ONE)
-  edging(root, ONE, "member-slugs", TWO, UP_AT)
+  edging(root, ONE, "members", TWO, UP_AT)
   pageFiled(root, TWO, UP_AT)
   const said = judged(
     landing(root, {
@@ -237,7 +237,7 @@ test("a one of dropping a member leaves it refused, though the member did not ch
   filing(root, "relation-property", "held", ONE)
   filing(root, "one-of-property", "over", TWO)
   pageFiled(root, ONE, pathFor("relation-property", "held"))
-  edging(root, ONE, "member-slugs", TWO, pathFor("one-of-property", "over"))
+  edging(root, ONE, "members", TWO, pathFor("one-of-property", "over"))
   const at = pathFor("one-of-property", "over")
   const said = judged(
     landing(
