@@ -4,7 +4,6 @@
   "type": "module",
   "exports": {},
   "dependencies": {
-    "@akasha/design-tokens": "workspace:*",
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",
     "@akasha/temper-capture-perf": "workspace:*",

@@ -1,8 +1,11 @@
-import { TEXT_PRIMARY, TEXT_SECONDARY } from "@akasha/design-tokens/text-color"
 import {
   createMovableWindow,
   type MovableWindowHandle,
 } from "@akasha/temper-hud-window/movable-window"
+import {
+  TEXT_PRIMARY,
+  TEXT_SECONDARY,
+} from "akasha/design/tokens/text-color/text-color.module.code.ts"
 import { getInventoryActionSummary } from "../inventory-plan/inventory-plan.module.code.ts"
 import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 

@@ -60,7 +60,6 @@
     "./work-tree-panel": "./work-tree-panel/work-tree-panel.module.code.ts"
   },
   "dependencies": {
-    "@akasha/design-tokens": "workspace:*",
     "@akasha/readouts": "workspace:*",
     "@akasha/utils": "workspace:*",
     "zod": "^4.3.6"

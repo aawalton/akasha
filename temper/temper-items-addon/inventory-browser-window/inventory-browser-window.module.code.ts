@@ -1,5 +1,5 @@
-import { TEXT_PRIMARY } from "@akasha/design-tokens/text-color"
 import { createMovableWindow } from "@akasha/temper-hud-window/movable-window"
+import { TEXT_PRIMARY } from "akasha/design/tokens/text-color/text-color.module.code.ts"
 import { quantityInView } from "../inventory-browser-locations/inventory-browser-locations.module.code.ts"
 import type {
   BrowserRow,

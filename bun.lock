@@ -798,9 +798,6 @@
         "tailwindcss": "^4.0",
       },
     },
-    "design/tokens": {
-      "name": "@akasha/design-tokens",
-    },
     "domains": {
       "name": "@akasha/domains",
     },
@@ -813,7 +810,6 @@
     "editor-extension": {
       "name": "@akasha/editor-extension",
       "dependencies": {
-        "@akasha/design-tokens": "workspace:*",
         "@akasha/readouts": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
@@ -1751,7 +1747,6 @@
     "temper/hud-addon": {
       "name": "@akasha/temper-hud-addon",
       "dependencies": {
-        "@akasha/design-tokens": "workspace:*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
@@ -2135,7 +2130,6 @@
     "temper/temper-characters-addon": {
       "name": "@akasha/temper-characters-addon",
       "dependencies": {
-        "@akasha/design-tokens": "workspace:*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-capture-perf": "workspace:*",
         "@akasha/temper-characters-capture-addon": "workspace:*",
@@ -2235,7 +2229,6 @@
     "temper/temper-companions-addon": {
       "name": "@akasha/temper-companions-addon",
       "dependencies": {
-        "@akasha/design-tokens": "workspace:*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-bit-codec": "workspace:*",
@@ -2323,7 +2316,6 @@
     "temper/temper-items-addon": {
       "name": "@akasha/temper-items-addon",
       "dependencies": {
-        "@akasha/design-tokens": "workspace:*",
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-capture-perf": "workspace:*",
@@ -2819,8 +2811,6 @@
     "@akasha/design-primitives": ["@akasha/design-primitives@workspace:design/primitives"],
 
     "@akasha/design-system": ["@akasha/design-system@workspace:design/system"],
-
-    "@akasha/design-tokens": ["@akasha/design-tokens@workspace:design/tokens"],
 
     "@akasha/dockerfiles": ["@akasha/dockerfiles@workspace:infrastructure/dockerfiles"],
 

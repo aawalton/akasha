@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const designTokens = {
   id: "01a05c97-52ff-77b0-98f7-72e4e4e986e4",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "design-tokens",
   definition: "the colors an interface is drawn in, each held as an sRGB tuple",
-  manifest: "json",
   parts: ["module/surface-color", "module/semantic-color", "module/text-color"],
   invariants: [
     {
@@ -25,4 +24,4 @@ export const designTokens = {
       statement: "Nothing here names the use of any color.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
