@@ -1,4 +1,4 @@
-import "@akasha/temper-addon-library-types/temper-addons-global"
+import "../../addon-library-types/temper-addons-global/temper-addons-global.type-declaration.d.ts"
 
 import { MAX_ADDON_LOAD_PACK_KEYBINDS } from "../selector-constants/selector-constants.module.code.ts"
 import { getSavedVariables } from "../selector-saved-variables/selector-saved-variables.module.code.ts"

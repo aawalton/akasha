@@ -1,6 +1,6 @@
 import "@akasha/temper-eso-types/eso-api-3"
 import "@akasha/temper-eso-types/eso-link-handler"
-import "@akasha/temper-addon-library-types/lib-group-broadcast"
+import "../../addon-library-types/lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts"
 
 import {
   ADDON_NAME,

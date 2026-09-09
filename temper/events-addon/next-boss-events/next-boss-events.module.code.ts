@@ -7,7 +7,7 @@ import "@akasha/temper-eso-types/eso-link-handler"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-3"
 import "@akasha/temper-eso-types/eso-lua-sandbox"
-import "@akasha/temper-addon-library-types/lib-group-broadcast"
+import "../../addon-library-types/lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts"
 
 import {
   BROADCAST_HANDLER_NAME,

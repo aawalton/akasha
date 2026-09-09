@@ -1,4 +1,4 @@
-import "@akasha/temper-addon-library-types/temper-hud-global"
+import "../../addon-library-types/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
 import {
   isHudBarReady,

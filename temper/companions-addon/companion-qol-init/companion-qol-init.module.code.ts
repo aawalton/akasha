@@ -1,4 +1,4 @@
-import "@akasha/temper-addon-library-types/lib-addon-menu"
+import "../../addon-library-types/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 import "@akasha/temper-eso-types/eso-api"
 import "@akasha/temper-eso-types/eso-api-2"
 import "@akasha/temper-eso-types/eso-enums-01"

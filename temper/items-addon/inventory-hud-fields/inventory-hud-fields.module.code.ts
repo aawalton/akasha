@@ -1,4 +1,4 @@
-import "@akasha/temper-addon-library-types/temper-hud-global"
+import "../../addon-library-types/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
 import { GREEN, RED } from "akasha/design/tokens/semantic-color/semantic-color.module.code.ts"
 import { recordNetWorthScanMs } from "../inventory-bank-trace/inventory-bank-trace.module.code.ts"

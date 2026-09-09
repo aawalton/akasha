@@ -1,4 +1,4 @@
-import "@akasha/temper-addon-library-types/temper-hud-global"
+import "../../addon-library-types/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 import "@akasha/temper-eso-types/eso-api"
 import "@akasha/temper-eso-types/eso-enums-01"
 import "@akasha/temper-eso-types/eso-enums-09"

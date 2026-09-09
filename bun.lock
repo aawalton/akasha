@@ -931,6 +931,9 @@
         "zod": "^4.3.6",
       },
     },
+    "temper/addon-library-types": {
+      "name": "@akasha/temper-addon-library-types",
+    },
     "temper/addons-resolve": {
       "name": "@akasha/temper-addons-resolve",
       "dependencies": {
@@ -1192,9 +1195,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-addon-library-types": {
-      "name": "@akasha/temper-addon-library-types",
-    },
     "temper/temper-build-deploy-checks": {
       "name": "@akasha/temper-build-deploy-checks",
       "dependencies": {
@@ -1415,7 +1415,7 @@
 
     "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster/provisioning/talos"],
 
-    "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:temper/temper-addon-library-types"],
+    "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:temper/addon-library-types"],
 
     "@akasha/temper-addons-resolve": ["@akasha/temper-addons-resolve@workspace:temper/addons-resolve"],
 

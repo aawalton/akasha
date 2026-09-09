@@ -1,4 +1,4 @@
-import "@akasha/temper-addon-library-types/temper-hud-global"
+import "../../addon-library-types/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
 import { GLOBAL_PACK_NAME } from "../selector-constants/selector-constants.module.code.ts"
 import { listPacks, loadPack } from "../selector-packs/selector-packs.module.code.ts"

@@ -1,4 +1,4 @@
-import "@akasha/temper-addon-library-types/temper-addons-global"
+import "../../addon-library-types/temper-addons-global/temper-addons-global.type-declaration.d.ts"
 import "../selector-ui-settings-menu/selector-ui-settings-menu.module.code.ts"
 
 import { reloadUI } from "../selector-addon-manager/selector-addon-manager.module.code.ts"
