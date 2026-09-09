@@ -6,7 +6,7 @@ export const aranya = {
   slug: "aranya",
   personaSlug: "aranya",
   assignmentSlug: "initiative/aranya-root-folder-shape",
-  role: "definer",
+  roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
   onCall: true,
