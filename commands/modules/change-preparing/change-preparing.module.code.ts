@@ -8,9 +8,10 @@ import type {
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
+import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import type { FileEdit, Refused } from "../landing/landing.module.code.ts"
-import { changeOf, rowsFrom } from "../landing/landing.module.code.ts"
+import { changeOf } from "../landing/landing.module.code.ts"
 import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { globbedFor } from "../source-globbing/source-globbing.module.code.ts"
@@ -28,23 +29,79 @@ function sameAs(one: Uint8Array, other: Uint8Array): boolean {
   return one.every((byte, at) => byte === other[at])
 }
 
+const BYTES = new TextEncoder()
+
+const FATAL = new TextDecoder("utf-8", { fatal: true })
+
+const NO_TEXT = "spells no text, so its body is edited by nothing; a move or a removal takes it"
+
+function textFrom(bytes: Uint8Array): string | null {
+  try {
+    return FATAL.decode(bytes)
+  } catch {
+    return null
+  }
+}
+
+function bodyIn(one: Adding | Replacing): string {
+  return one.kind === "add" ? one.content : one.contentTo
+}
+
+export type Stated = { readonly rows: readonly FileChange[] } | { readonly why: string }
+
+export function rowsOf(changes: readonly FileEdit[]): Stated {
+  const rows: FileChange[] = []
+  for (const one of changes) {
+    if (one.body === null) {
+      rows.push({ kind: "remove", path: one.path })
+      continue
+    }
+    const content = textFrom(one.body)
+    if (content === null) return { why: `${one.path} ${NO_TEXT}` }
+    rows.push({ kind: "add", path: one.path, content })
+  }
+  return { rows }
+}
+
+export function rowsFrom(root: string, base: string, changes: readonly FileChange[]): Stated {
+  const rows: FileChange[] = []
+  for (const one of changes) {
+    if (one.kind === "move" || one.kind === "remove") {
+      rows.push(one)
+      continue
+    }
+    const body = bodyIn(one)
+    const held = bodyAt(root, base, one.path)
+    if (held === null) {
+      rows.push({ kind: "add", path: one.path, content: body })
+      continue
+    }
+    const was = textFrom(held)
+    if (was === null) return { why: `${one.path} ${NO_TEXT}` }
+    if (was === body) continue
+    rows.push({ kind: "replace", path: one.path, contentFrom: was, contentTo: body })
+  }
+  return { rows }
+}
+
 export function formattingIn(
   root: string,
-  changes: readonly FileEdit[],
+  changes: readonly FileChange[],
   already: ReadonlyMap<string, Uint8Array> = new Map()
 ): Formatting {
   const edits: Replacing[] = []
   const formatted: string[] = []
   for (const one of changes) {
-    if (one.body === null) continue
+    if (one.kind === "move" || one.kind === "remove") continue
+    const body = BYTES.encode(bodyIn(one))
     const was = already.get(one.path)
-    if (was !== undefined && sameAs(was, one.body)) continue
-    const said = formattedBody(root, one.path, one.body)
+    if (was !== undefined && sameAs(was, body)) continue
+    const said = formattedBody(root, one.path, body)
     if (!said.changed) continue
     edits.push({
       kind: "replace",
       path: one.path,
-      contentFrom: textIn(one.body),
+      contentFrom: textIn(body),
       contentTo: textIn(said.body),
     })
     formatted.push(one.path)
@@ -52,26 +109,21 @@ export function formattingIn(
   return { edits, formatted }
 }
 
-const BYTES = new TextEncoder()
-
-function bodiedFrom(rows: readonly (Adding | Replacing)[]): readonly FileEdit[] {
-  return rows.map((one) => ({
-    path: one.path,
-    body: BYTES.encode(one.kind === "add" ? one.content : one.contentTo),
-  }))
+function pathIn(one: FileChange): string {
+  return one.kind === "move" ? one.pathTo : one.path
 }
 
-function foldedOver(...runs: readonly (readonly FileEdit[])[]): readonly FileEdit[] {
-  const held = new Map<string, FileEdit>()
-  for (const run of runs) for (const one of run) held.set(one.path, one)
+function foldedOver(...runs: readonly (readonly FileChange[])[]): readonly FileChange[] {
+  const held = new Map<string, FileChange>()
+  for (const run of runs) for (const one of run) held.set(pathIn(one), one)
   return [...held.values()]
 }
 
 export function sequenced(
-  edits: readonly FileEdit[],
+  changes: readonly FileChange[],
   rows: readonly (Adding | Replacing)[]
-): readonly FileEdit[] {
-  return rows.length === 0 ? edits : foldedOver(edits, bodiedFrom(rows))
+): readonly FileChange[] {
+  return rows.length === 0 ? changes : foldedOver(changes, rows)
 }
 
 export type Prepared = {
@@ -85,12 +137,12 @@ export type Prepared = {
 export function preparing(
   root: string,
   base: string,
-  changes: readonly FileEdit[],
+  changes: readonly FileChange[],
   moves: readonly FileMove[] = [],
   already: ReadonlyMap<string, Uint8Array> = new Map()
 ): Prepared | Refused {
   const formatting = formattingIn(root, changes, already)
-  const folded = foldedOver(changes, bodiedFrom(formatting.edits))
+  const folded = foldedOver(changes, formatting.edits)
   const stated = rowsFrom(root, base, folded)
   if ("why" in stated) return { refusals: [stated.why] }
   const moved: readonly Moving[] = moves.map((one) => ({

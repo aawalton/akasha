@@ -7,7 +7,7 @@ import { isMissing } from "@akasha/utils/fs/missing"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
-import { preparing, sequenced } from "../change-preparing/change-preparing.module.code.ts"
+import { preparing, rowsOf, sequenced } from "../change-preparing/change-preparing.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
@@ -255,6 +255,8 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
       `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
     ])
   }
+  const stated = rowsOf(asked.changes)
+  if ("why" in stated) return mistaking([stated.why, NOTHING])
   let minted: Minted
   try {
     minted = mintingOnto(given.root, asked.changes)
@@ -265,7 +267,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   const prepared = preparing(
     given.root,
     base,
-    sequenced(asked.changes, minted.edits),
+    sequenced(stated.rows, minted.edits),
     asked.moves ?? []
   )
   if ("refusals" in prepared) return mistaking([...prepared.refusals, NOTHING])

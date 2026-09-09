@@ -35,7 +35,7 @@ test("the change judged carries the paths a move renames beside the paths an edi
   const said = preparing(
     root,
     baseOf(root),
-    [{ path: "akasha/two.ts", body: bytesOf("third\n") }],
+    [{ kind: "add", path: "akasha/two.ts", content: "third\n" }],
     [{ from: "akasha/one.ts", to: "akasha/three.ts" }]
   )
   if ("refusals" in said) throw new Error(said.refusals.join("; "))

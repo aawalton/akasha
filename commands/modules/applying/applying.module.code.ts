@@ -7,7 +7,7 @@ import type { Judging } from "akasha/checks/modules/judging/judging.module.code.
 import type { Given as Arguments } from "../argument-reading/argument-reading.module.code.ts"
 import { bypassedIn, glassSaid, mistaking, unloadableIn } from "../asking/asking.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { preparing } from "../change-preparing/change-preparing.module.code.ts"
+import { preparing, rowsOf } from "../change-preparing/change-preparing.module.code.ts"
 import { type Bodies, owedOf, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
@@ -265,7 +265,9 @@ export async function applied(
   const running = holding.running
   const gate = running.checks ? judging : NO_GATE
   const moving = [...moves, ...(holding.moves ?? [])]
-  const prepared = preparing(root, head, editsOf(said.held), moving, holding.formatted)
+  const stated = rowsOf(editsOf(said.held))
+  if ("why" in stated) return { refusals: [stated.why, KEPT_AS_IT_WAS] }
+  const prepared = preparing(root, head, stated.rows, moving, holding.formatted)
   if ("refusals" in prepared) return { refusals: [...prepared.refusals, UNEXPORTABLE] }
   const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null)

@@ -64,19 +64,7 @@ const AGAIN_DRAFTED = "nothing was drafted — read them again against what is t
 
 const KEPT_AS_IT_WAS = "nothing was drafted — the edits are as the edits were"
 
-const NO_TEXT = "spells no text, so its body is edited by nothing; a move or a removal takes it"
-
 const NOTHING_OUTSIDE = "nothing landed — name every path against the repository root"
-
-const FATAL = new TextDecoder("utf-8", { fatal: true })
-
-function textFrom(bytes: Uint8Array): string | null {
-  try {
-    return FATAL.decode(bytes)
-  } catch {
-    return null
-  }
-}
 
 const BYTES = new TextEncoder()
 
@@ -284,32 +272,6 @@ function indexed(
     held.wrote(one.to, textIn(body), textOf(before.get(one.to) ?? null))
   }
   return held.settle()
-}
-
-export function rowsFrom(
-  root: string,
-  base: string,
-  changes: readonly FileEdit[]
-): { readonly rows: readonly FileChange[] } | { readonly why: string } {
-  const rows: FileChange[] = []
-  for (const one of changes) {
-    if (one.body === null) {
-      rows.push({ kind: "remove", path: one.path })
-      continue
-    }
-    const body = textFrom(one.body)
-    if (body === null) return { why: `${one.path} ${NO_TEXT}` }
-    const held = bodyAt(root, base, one.path)
-    if (held === null) {
-      rows.push({ kind: "add", path: one.path, content: body })
-      continue
-    }
-    const was = textFrom(held)
-    if (was === null) return { why: `${one.path} ${NO_TEXT}` }
-    if (was === body) continue
-    rows.push({ kind: "replace", path: one.path, contentFrom: was, contentTo: body })
-  }
-  return { rows }
 }
 
 function draftedBy(

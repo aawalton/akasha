@@ -101,6 +101,18 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
+      statement: "The rows a caller's bodies make are worked out here against that base commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body spelling no text makes no row, and the caller is told which body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row is stated an addition where the base commit has that path at no body.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That change is built from the rows rather than from the bodies handed in.",
     },
     {

@@ -13,9 +13,11 @@ import { textProperty } from "@akasha/pages/text-property"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { said as saying } from "@akasha/utils/run/running"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Stated } from "../change-preparing/change-preparing.module.code.ts"
+import { rowsFrom, rowsOf } from "../change-preparing/change-preparing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { Drafted, FileEdit, Landed, Refused } from "./landing.module.code.ts"
-import { baseOf, landing, rowsFrom } from "./landing.module.code.ts"
+import { baseOf, landing } from "./landing.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 
@@ -52,8 +54,14 @@ export const PAGE = "akasha/a.domain.ts"
 
 export const DRAFT = { page: PAGE }
 
+function statedIn(root: string, changes: readonly FileEdit[]): Stated {
+  const held = rowsOf(changes)
+  if ("why" in held) return held
+  return rowsFrom(root, baseOf(root), held.rows)
+}
+
 export function rowsIn(root: string, changes: readonly FileEdit[]): readonly FileChange[] {
-  const said = rowsFrom(root, baseOf(root), changes)
+  const said = statedIn(root, changes)
   if ("why" in said) throw new Error(said.why)
   return said.rows
 }
@@ -63,7 +71,7 @@ export function drafting(
   changes: readonly FileEdit[],
   gate: Judging = ADMITS
 ): Promise<Drafted | Refused> {
-  const said = rowsFrom(root, baseOf(root), changes)
+  const said = statedIn(root, changes)
   if ("why" in said) {
     return Promise.resolve({
       refusals: [said.why, "nothing was drafted — the edits are as the edits were"],

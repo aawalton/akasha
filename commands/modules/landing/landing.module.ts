@@ -33,14 +33,6 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows a caller's bodies make are worked out here against a base commit.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body spelling no text makes no row, and the caller is told which body.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A body the change does not touch is read from the base commit rather than from the working tree.",
     },
