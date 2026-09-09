@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0153135TwinkleTwinkleLittle = {
   id: "01a06730-52b4-7ec6-946e-beacd54b140a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0153-135-twinkle-twinkle-little",
   title: "135: Twinkle Twinkle Little...",
   story: "there-is-no-epic-loot-here-only-puns",

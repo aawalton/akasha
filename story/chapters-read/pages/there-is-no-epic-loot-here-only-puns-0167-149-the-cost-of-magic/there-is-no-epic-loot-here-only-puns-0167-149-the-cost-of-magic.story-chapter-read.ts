@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0167149TheCostOfMagic = {
   id: "01a06730-5339-7d80-a55c-fc13d9c678d0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0167-149-the-cost-of-magic",
   title: "149: The Cost of Magic",
   story: "there-is-no-epic-loot-here-only-puns",

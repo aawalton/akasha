@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0131115VastlyGiantBridge = {
   id: "01a06730-522d-74ac-a437-ff7d4581c992",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0131-115-vastly-giant-bridge",
   title: "115: Vastly Giant Bridge",
   story: "there-is-no-epic-loot-here-only-puns",

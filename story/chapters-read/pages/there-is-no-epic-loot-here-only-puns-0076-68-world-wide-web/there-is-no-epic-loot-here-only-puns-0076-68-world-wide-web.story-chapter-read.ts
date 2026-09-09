@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns007668WorldWideWeb = {
   id: "01a06730-5041-7484-92b0-cf3b25a40092",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0076-68-world-wide-web",
   title: "68: World Wide Web",
   story: "there-is-no-epic-loot-here-only-puns",

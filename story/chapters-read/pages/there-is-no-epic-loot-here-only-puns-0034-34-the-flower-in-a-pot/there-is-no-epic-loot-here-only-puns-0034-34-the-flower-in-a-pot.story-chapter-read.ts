@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns003434TheFlowerInAPot = {
   id: "01a06730-4f88-78ce-81b6-4f328be70a52",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0034-34-the-flower-in-a-pot",
   title: "34: The Flower in a Pot",
   story: "there-is-no-epic-loot-here-only-puns",

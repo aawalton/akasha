@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns008272InfernoAtTheGrove = {
   id: "01a06730-509a-7924-956b-9587d17d5635",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0082-72-inferno-at-the-grove",
   title: "72: Inferno at the Grove",
   story: "there-is-no-epic-loot-here-only-puns",

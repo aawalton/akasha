@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns008776JungleFever = {
   id: "01a06730-50c7-75d5-a92e-3204e9372ccd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0087-76-jungle-fever",
   title: "76: Jungle Fever",
   story: "there-is-no-epic-loot-here-only-puns",

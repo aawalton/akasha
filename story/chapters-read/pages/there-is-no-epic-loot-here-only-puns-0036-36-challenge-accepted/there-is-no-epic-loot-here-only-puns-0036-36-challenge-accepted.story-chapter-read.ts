@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns003636ChallengeAccepted = {
   id: "01a06730-4f89-795d-b892-aa6f560bfc26",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0036-36-challenge-accepted",
   title: "36: Challenge Accepted",
   story: "there-is-no-epic-loot-here-only-puns",

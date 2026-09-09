@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns003737TheNuanceOfDungeonBuilding = {
   id: "01a06730-4f89-725a-b78d-e34ab97befd5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0037-37-the-nuance-of-dungeon-building",
   title: "37: The Nuance of Dungeon Building",
   story: "there-is-no-epic-loot-here-only-puns",

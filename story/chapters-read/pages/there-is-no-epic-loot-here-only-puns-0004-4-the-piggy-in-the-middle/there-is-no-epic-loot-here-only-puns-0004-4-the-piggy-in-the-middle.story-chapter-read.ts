@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns00044ThePiggyInTheMiddle = {
   id: "01a06730-4f4b-765f-b95c-1fed850fb3c0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0004-4-the-piggy-in-the-middle",
   title: "4: The Piggy in the Middle",
   story: "there-is-no-epic-loot-here-only-puns",

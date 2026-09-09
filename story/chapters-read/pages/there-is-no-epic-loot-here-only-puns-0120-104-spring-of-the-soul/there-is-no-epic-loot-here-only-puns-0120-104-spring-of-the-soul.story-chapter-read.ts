@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0120104SpringOfTheSoul = {
   id: "01a06730-51db-7b7f-8e6c-5892ee216fd0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0120-104-spring-of-the-soul",
   title: "104: Spring of the Soul",
   story: "there-is-no-epic-loot-here-only-puns",

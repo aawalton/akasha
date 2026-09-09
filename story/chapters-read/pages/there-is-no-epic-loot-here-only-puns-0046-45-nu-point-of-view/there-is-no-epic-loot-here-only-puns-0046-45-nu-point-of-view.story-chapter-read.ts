@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns004645NuPointOfView = {
   id: "01a06730-4f8a-7725-a5ba-a43098fbc92d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0046-45-nu-point-of-view",
   title: "45: Nu point of view",
   story: "there-is-no-epic-loot-here-only-puns",

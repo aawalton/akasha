@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns002929TheJungleRoom = {
   id: "01a06730-4f7a-734c-8efc-b40e858a01b9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0029-29-the-jungle-room",
   title: "29: The Jungle Room",
   story: "there-is-no-epic-loot-here-only-puns",

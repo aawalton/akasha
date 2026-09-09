@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns007366TendingTheMoon = {
   id: "01a06730-5032-744e-bc36-a31d7cc000a4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0073-66-tending-the-moon",
   title: "66: Tending the Moon",
   story: "there-is-no-epic-loot-here-only-puns",

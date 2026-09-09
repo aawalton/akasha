@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0217195TaxEvasion2 = {
   id: "01a06730-54da-7d4a-9e64-54f7fa135f8d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0217-195-tax-evasion2",
   title: "195: Tax Evasion+2",
   story: "there-is-no-epic-loot-here-only-puns",

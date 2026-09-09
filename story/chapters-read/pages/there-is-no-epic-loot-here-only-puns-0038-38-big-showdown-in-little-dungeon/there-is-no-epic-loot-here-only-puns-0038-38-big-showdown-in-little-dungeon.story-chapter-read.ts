@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns003838BigShowdownInLittleDungeon = {
   id: "01a06730-4f89-7245-8813-f83fc4b4a14a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0038-38-big-showdown-in-little-dungeon",
   title: "38: Big Showdown in little Dungeon",
   story: "there-is-no-epic-loot-here-only-puns",

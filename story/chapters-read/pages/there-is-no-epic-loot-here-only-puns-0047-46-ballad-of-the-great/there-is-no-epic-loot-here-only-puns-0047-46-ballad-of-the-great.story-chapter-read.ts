@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns004746BalladOfTheGreat = {
   id: "01a06730-4f8a-7f79-b06f-e3259f6109bb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0047-46-ballad-of-the-great",
   title: "46: Ballad of the Great",
   story: "there-is-no-epic-loot-here-only-puns",

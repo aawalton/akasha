@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns002525Slimers = {
   id: "01a06730-4f7a-7977-b654-62c59f06239e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0025-25-slimers",
   title: "25: Slimers",
   story: "there-is-no-epic-loot-here-only-puns",

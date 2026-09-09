@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0154136DucksOfAFeatherPunTogether = {
   id: "01a06730-52c1-78b1-9044-3adcd832c7dd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0154-136-ducks-of-a-feather-pun-together",
   title: "136: Ducks of a feather, pun together",
   story: "there-is-no-epic-loot-here-only-puns",

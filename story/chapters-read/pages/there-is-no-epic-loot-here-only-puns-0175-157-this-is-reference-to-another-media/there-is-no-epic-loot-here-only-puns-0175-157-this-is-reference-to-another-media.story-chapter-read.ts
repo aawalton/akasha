@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0175157ThisIsReferenceToAnotherMedia = {
   id: "01a06730-5379-74d6-a056-55b48060c6ac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0175-157-this-is-reference-to-another-media",
   title: "157: This is reference to another media",
   story: "there-is-no-epic-loot-here-only-puns",

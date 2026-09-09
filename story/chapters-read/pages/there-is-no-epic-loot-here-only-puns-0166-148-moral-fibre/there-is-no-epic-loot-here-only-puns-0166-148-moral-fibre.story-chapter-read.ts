@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0166148MoralFibre = {
   id: "01a06730-532c-71a4-a1e8-0fbba77a2fb1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0166-148-moral-fibre",
   title: "148: Moral Fibre",
   story: "there-is-no-epic-loot-here-only-puns",

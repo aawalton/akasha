@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0196175WeHaveTheTechnology = {
   id: "01a06730-5437-723b-8a86-e3db850c1195",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0196-175-we-have-the-technology",
   title: "175: We have the Technology.",
   story: "there-is-no-epic-loot-here-only-puns",

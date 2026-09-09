@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0118102TheDanceOfTheDeadAndFabulous = {
   id: "01a06730-51db-7236-a7d9-f36c65d95111",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0118-102-the-dance-of-the-dead-and-fabulous",
   title: "102: The Dance of the Dead and Fabulous",
   story: "there-is-no-epic-loot-here-only-puns",

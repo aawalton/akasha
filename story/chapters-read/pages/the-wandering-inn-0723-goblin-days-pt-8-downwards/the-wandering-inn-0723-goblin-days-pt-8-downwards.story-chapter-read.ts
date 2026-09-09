@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theWanderingInn0723GoblinDaysPt8Downwards = {
   id: "01a0659c-7ebb-7c0e-a6f7-900a54b04056",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-wandering-inn-0723-goblin-days-pt-8-downwards",
   title: "Goblin Days (Pt. 8) - Downwards",
   story: "story-read/the-wandering-inn",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0122106DeltaTheDarkestDungeon = {
   id: "01a06730-51ea-7809-bc45-3ff629b4ebde",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0122-106-delta-the-darkest-dungeon",
   title: "106: Delta the Darkest Dungeon",
   story: "there-is-no-epic-loot-here-only-puns",

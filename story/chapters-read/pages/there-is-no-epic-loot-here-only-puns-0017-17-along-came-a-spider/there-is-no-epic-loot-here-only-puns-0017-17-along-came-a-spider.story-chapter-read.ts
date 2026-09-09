@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns001717AlongCameASpider = {
   id: "01a06730-4f5f-700a-9045-71b980cdd93a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0017-17-along-came-a-spider",
   title: "17: Along Came A Spider",
   story: "there-is-no-epic-loot-here-only-puns",

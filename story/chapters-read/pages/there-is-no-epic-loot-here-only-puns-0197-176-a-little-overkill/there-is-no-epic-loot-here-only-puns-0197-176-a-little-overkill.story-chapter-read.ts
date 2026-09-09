@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0197176ALittleOverkill = {
   id: "01a06730-5438-7b51-a510-ee94a5e7fb6b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0197-176-a-little-overkill",
   title: "176: A Little Overkill",
   story: "there-is-no-epic-loot-here-only-puns",

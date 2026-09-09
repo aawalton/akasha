@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0227204TheHeartOfAGiant = {
   id: "01a06730-5512-71ee-ac25-c7c547e5c8db",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0227-204-the-heart-of-a-giant",
   title: "204: The Heart of A Giant",
   story: "there-is-no-epic-loot-here-only-puns",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns00066TheCappedLimit = {
   id: "01a06730-4f4b-78fc-98dd-aca53b724ef8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0006-6-the-capped-limit",
   title: "6: The Capped Limit",
   story: "there-is-no-epic-loot-here-only-puns",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns004343RaleishTheThought = {
   id: "01a06730-4f89-74d6-9660-48a50ea3c873",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0043-43-raleish-the-thought",
   title: "43: Raleish the thought",
   story: "there-is-no-epic-loot-here-only-puns",

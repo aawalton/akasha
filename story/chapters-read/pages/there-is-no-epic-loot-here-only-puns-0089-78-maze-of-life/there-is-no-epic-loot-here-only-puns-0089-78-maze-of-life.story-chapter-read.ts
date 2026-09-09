@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns008978MazeOfLife = {
   id: "01a06730-50c7-7768-b98c-435ce0347ee5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0089-78-maze-of-life",
   title: "78: Maze of Life",
   story: "there-is-no-epic-loot-here-only-puns",

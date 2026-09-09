@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0065MapUpdates = {
   id: "01a06730-4ff1-79a1-b920-2dd281a7b524",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0065-map-updates",
   title: "Map updates.",
   story: "there-is-no-epic-loot-here-only-puns",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0201179RubySlippersAndSilverBadges = {
   id: "01a06730-544f-7b30-931c-c76b00127287",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0201-179-ruby-slippers-and-silver-badges",
   title: "179: Ruby Slippers and Silver Badges",
   story: "there-is-no-epic-loot-here-only-puns",

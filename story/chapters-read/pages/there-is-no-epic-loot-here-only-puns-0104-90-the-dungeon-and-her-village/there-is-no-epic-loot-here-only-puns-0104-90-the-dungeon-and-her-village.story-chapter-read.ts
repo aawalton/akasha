@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns010490TheDungeonAndHerVillage = {
   id: "01a06730-5149-7ee6-b1ba-2df6e7563d37",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0104-90-the-dungeon-and-her-village",
   title: "90: The Dungeon and her Village",
   story: "there-is-no-epic-loot-here-only-puns",

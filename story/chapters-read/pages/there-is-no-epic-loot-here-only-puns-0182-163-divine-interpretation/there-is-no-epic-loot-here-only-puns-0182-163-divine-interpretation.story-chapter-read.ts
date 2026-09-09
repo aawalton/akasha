@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0182163DivineInterpretation = {
   id: "01a06730-53ac-7ecf-9d5e-a058adb4b646",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0182-163-divine-interpretation",
   title: "163: Divine Interpretation",
   story: "there-is-no-epic-loot-here-only-puns",

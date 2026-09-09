@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns005955HeartOfTheJungle = {
   id: "01a06730-4fce-7743-836d-6ce99a13e84a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0059-55-heart-of-the-jungle",
   title: "55: Heart of the Jungle",
   story: "there-is-no-epic-loot-here-only-puns",

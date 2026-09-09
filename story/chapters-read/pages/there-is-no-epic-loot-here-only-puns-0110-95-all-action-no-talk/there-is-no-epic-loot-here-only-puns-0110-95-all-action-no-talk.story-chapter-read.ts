@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns011095AllActionNoTalk = {
   id: "01a06730-519b-7703-8fd5-9b4e673a6816",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0110-95-all-action-no-talk",
   title: "95: All Action, No Talk",
   story: "there-is-no-epic-loot-here-only-puns",

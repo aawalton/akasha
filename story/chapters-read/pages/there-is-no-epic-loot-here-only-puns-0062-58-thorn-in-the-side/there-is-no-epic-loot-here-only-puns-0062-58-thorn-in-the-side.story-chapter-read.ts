@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns006258ThornInTheSide = {
   id: "01a06730-4fcf-78a8-afb7-91a4f921b628",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0062-58-thorn-in-the-side",
   title: "58: Thorn in The Side",
   story: "there-is-no-epic-loot-here-only-puns",

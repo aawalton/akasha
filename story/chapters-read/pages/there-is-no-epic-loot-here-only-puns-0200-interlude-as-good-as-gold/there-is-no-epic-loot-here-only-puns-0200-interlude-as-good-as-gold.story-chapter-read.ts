@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0200InterludeAsGoodAsGold = {
   id: "01a06730-5443-723f-bbeb-ae10adcd2ebe",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0200-interlude-as-good-as-gold",
   title: "Interlude: As Good As Gold",
   story: "there-is-no-epic-loot-here-only-puns",

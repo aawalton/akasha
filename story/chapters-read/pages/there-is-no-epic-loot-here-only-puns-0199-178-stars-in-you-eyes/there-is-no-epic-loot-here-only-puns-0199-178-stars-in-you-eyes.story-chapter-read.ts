@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0199178StarsInYouEyes = {
   id: "01a06730-5439-7fad-b324-997054b03858",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0199-178-stars-in-you-eyes",
   title: "178: Stars in You Eyes",
   story: "there-is-no-epic-loot-here-only-puns",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns007164TheTreeOfWisdom = {
   id: "01a06730-5031-7c1e-930f-2b285cc70202",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0071-64-the-tree-of-wisdom",
   title: "64: The Tree of 'Wisdom'",
   story: "there-is-no-epic-loot-here-only-puns",

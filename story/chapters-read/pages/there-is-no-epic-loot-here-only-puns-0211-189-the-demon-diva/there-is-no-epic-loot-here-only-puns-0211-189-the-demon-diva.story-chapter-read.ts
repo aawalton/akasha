@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0211189TheDemonDiva = {
   id: "01a06730-54ab-748e-ae6d-04d3ac9316af",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0211-189-the-demon-diva",
   title: "189: The Demon Diva",
   story: "there-is-no-epic-loot-here-only-puns",
