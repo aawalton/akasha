@@ -9,6 +9,6 @@
     "--",
     "bun",
     "run",
-    "infrastructure/backup-retention/promote-keeps/promote-keeps.module.code.ts"
+    "infrastructure/storage/backups/retention/promote-keeps/promote-keeps.module.code.ts"
   ]
 }

@@ -7,5 +7,5 @@ export const gfsPromoter = {
   slug: "gfs-promoter",
   definition: "the image the backup promoter runs in",
   kind: "bun-service",
-  folder: "infrastructure/backup-retention",
+  folder: "infrastructure/storage/backups/retention",
 } as const satisfies BuiltImage
