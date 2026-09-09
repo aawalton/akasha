@@ -10,7 +10,7 @@ export const proteinDrinkCreatine = {
   toDoDueDate: "2026-09-08",
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=DAILY",
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T18:17:46.720Z",
   whatItTakes: "txt",
 } as const satisfies ToDo

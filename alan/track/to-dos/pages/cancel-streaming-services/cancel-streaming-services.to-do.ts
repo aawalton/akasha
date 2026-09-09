@@ -6,5 +6,5 @@ export const cancelStreamingServices = {
   slug: "cancel-streaming-services",
   title: "Cancel Streaming Services",
   toDoPriority: "p3",
-  toDoValueSlug: "wealth",
+  toDoValue: "wealth",
 } as const satisfies ToDo

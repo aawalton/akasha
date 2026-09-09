@@ -11,6 +11,6 @@ export const laundryPutAway = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 52,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T13:09:24.843Z",
 } as const satisfies ToDo

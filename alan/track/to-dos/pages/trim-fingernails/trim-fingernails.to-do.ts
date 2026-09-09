@@ -11,6 +11,6 @@ export const trimFingernails = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=2MO,4MO",
   toDoSortOrder: 50,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T12:01:25.719Z",
 } as const satisfies ToDo

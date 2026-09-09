@@ -12,6 +12,6 @@ export const shower = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 46,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T13:09:27.163Z",
 } as const satisfies ToDo

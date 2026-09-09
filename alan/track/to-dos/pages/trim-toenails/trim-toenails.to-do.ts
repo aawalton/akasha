@@ -11,6 +11,6 @@ export const trimToenails = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 51,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T13:29:20.100Z",
 } as const satisfies ToDo

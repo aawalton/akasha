@@ -11,6 +11,6 @@ export const swapBathroomTowels = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 29,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T12:01:22.576Z",
 } as const satisfies ToDo

@@ -10,5 +10,5 @@ export const planPresentForJenForValentineSDay = {
   toDoPriority: "p2",
   toDoRecurrence: "FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=1",
   toDoSortOrder: 14,
-  toDoValueSlug: "love",
+  toDoValue: "love",
 } as const satisfies ToDo

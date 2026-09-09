@@ -9,5 +9,5 @@ export const verifyInsurancePaymentsCameThroughOnCitiAndEmptyUccuChecking = {
   toDoDueDate: "2026-10-01",
   toDoPriority: "p3",
   toDoSortOrder: 58,
-  toDoValueSlug: "wealth",
+  toDoValue: "wealth",
 } as const satisfies ToDo

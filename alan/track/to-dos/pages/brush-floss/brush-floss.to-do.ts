@@ -11,6 +11,6 @@ export const brushFloss = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 49,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T13:13:51.389Z",
 } as const satisfies ToDo

@@ -11,6 +11,6 @@ export const vacuumOffice = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 31,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T13:09:32.329Z",
 } as const satisfies ToDo

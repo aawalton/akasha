@@ -10,6 +10,6 @@ export const move11250FromVanguardToCitibank = {
   toDoPriority: "p1",
   toDoRecurrence: "FREQ=MONTHLY;BYMONTHDAY=1",
   toDoSortOrder: 57,
-  toDoValueSlug: "wealth",
+  toDoValue: "wealth",
   toDoLastCompletedAt: "2026-09-07T01:38:56.787Z",
 } as const satisfies ToDo

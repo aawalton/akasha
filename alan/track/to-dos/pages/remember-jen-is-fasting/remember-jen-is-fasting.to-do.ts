@@ -10,6 +10,6 @@ export const rememberJenIsFasting = {
   toDoPriority: "p2",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=1SU",
   toDoSortOrder: 18,
-  toDoValueSlug: "love",
+  toDoValue: "love",
   toDoLastCompletedAt: "2026-09-07T01:39:01.121Z",
 } as const satisfies ToDo

@@ -18,7 +18,7 @@ export const tasksToday = {
     "to-do-priority",
     "to-do-due-date",
     "due-time",
-    "to-do-value-slug",
+    "to-do-value",
     "link",
     "difficulty",
     "to-do-recurrence",

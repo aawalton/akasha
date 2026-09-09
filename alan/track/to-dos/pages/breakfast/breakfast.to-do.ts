@@ -10,6 +10,6 @@ export const breakfast = {
   toDoPriority: "p2",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 40,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T12:08:43.133Z",
 } as const satisfies ToDo

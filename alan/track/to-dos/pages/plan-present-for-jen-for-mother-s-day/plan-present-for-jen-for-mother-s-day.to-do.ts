@@ -10,6 +10,6 @@ export const planPresentForJenForMotherSDay = {
   toDoPriority: "p2",
   toDoRecurrence: "FREQ=YEARLY;BYMONTH=5;BYMONTHDAY=1",
   toDoSortOrder: 17,
-  toDoValueSlug: "love",
+  toDoValue: "love",
   toDoLastCompletedAt: "2026-05-02T13:30:03.798Z",
 } as const satisfies ToDo

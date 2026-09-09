@@ -12,7 +12,7 @@ import type { ToDoLastCompletedAt } from "./properties/to-do-last-completed-at.i
 import type { ToDoPriority } from "./properties/to-do-priority.select-property.ts"
 import type { ToDoRecurrence } from "./properties/to-do-recurrence.text-property.ts"
 import type { ToDoSortOrder } from "./properties/to-do-sort-order.number-property.ts"
-import type { ToDoValueSlug } from "./properties/to-do-value-slug.relation-property.ts"
+import type { ToDoValue } from "./properties/to-do-value.relation-property.ts"
 import type { WhatItTakes } from "./properties/what-it-takes.file-property.ts"
 
 export type ToDo = Page & {
@@ -26,7 +26,7 @@ export type ToDo = Page & {
   toDoPriority: ToDoPriority
   toDoRecurrence?: ToDoRecurrence
   toDoSortOrder?: ToDoSortOrder
-  toDoValueSlug?: ToDoValueSlug
+  toDoValue?: ToDoValue
   toDoLastCompletedAt?: ToDoLastCompletedAt
   toDoCompletedAt?: ToDoCompletedAt
   whatItTakes?: WhatItTakes
@@ -46,7 +46,7 @@ export const toDo = {
     "instant-property/to-do-completed-at",
     "instant-property/to-do-last-completed-at",
     "number-property/to-do-sort-order",
-    "relation-property/to-do-value-slug",
+    "relation-property/to-do-value",
     "select-property/difficulty",
     "select-property/to-do-category",
     "select-property/to-do-priority",
@@ -69,7 +69,7 @@ export const toDo = {
     { pagePropertySlug: "select-property/to-do-priority", required: true, many: false },
     { pagePropertySlug: "text-property/to-do-recurrence", required: false, many: false },
     { pagePropertySlug: "number-property/to-do-sort-order", required: false, many: false },
-    { pagePropertySlug: "relation-property/to-do-value-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/to-do-value", required: false, many: false },
     { pagePropertySlug: "instant-property/to-do-last-completed-at", required: false, many: false },
     { pagePropertySlug: "instant-property/to-do-completed-at", required: false, many: false },
     { pagePropertySlug: "file-property/what-it-takes", required: false, many: false },

@@ -11,6 +11,6 @@ export const callProviderForMedicationRefill = {
   toDoPriority: "p1",
   toDoRecurrence: "FREQ=DAILY;INTERVAL=90",
   toDoSortOrder: 0,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T01:38:26.028Z",
 } as const satisfies ToDo

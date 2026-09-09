@@ -11,6 +11,6 @@ export const sanitizeFixtures = {
   toDoPriority: "p3",
   toDoRecurrence: "FREQ=MONTHLY;BYDAY=4MO",
   toDoSortOrder: 28,
-  toDoValueSlug: "health",
+  toDoValue: "health",
   toDoLastCompletedAt: "2026-09-07T12:01:38.491Z",
 } as const satisfies ToDo
