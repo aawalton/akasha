@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { RouteCode } from "./properties/route-code.file-property.ts"
+import type { RouteCode } from "./properties/route-code.code-file-property.ts"
 import type { RouteTest } from "./properties/route-test.file-property.ts"
 import type { UrlPath } from "./properties/url-path.text-property.ts"
 
@@ -16,10 +16,14 @@ export const route = {
   slug: "route",
   definition: "code a router serves under a url path",
   pluralSlug: "routes",
-  partSlugs: ["file-property/route-code", "file-property/route-test", "text-property/url-path"],
+  partSlugs: [
+    "code-file-property/route-code",
+    "file-property/route-test",
+    "text-property/url-path",
+  ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/route-code", required: true, many: false },
+    { pagePropertySlug: "code-file-property/route-code", required: true, many: false },
     { pagePropertySlug: "file-property/route-test", required: false, many: false },
     { pagePropertySlug: "text-property/url-path", required: false, many: false },
   ],

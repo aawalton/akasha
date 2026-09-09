@@ -1,10 +1,10 @@
-import type { FileProperty } from "@akasha/pages/file-property"
+import type { CodeFileProperty } from "@akasha/pages/code-file-property"
 
 export type RouteCode = "ts" | "tsx"
 
 export const routeCode = {
   id: "01a071dc-83c6-73f2-9948-9d3c5e18ce9f",
-  pageTypeSlug: "file-property",
+  pageTypeSlug: "code-file-property",
   slug: "route-code",
   propertySlug: "code",
   definition: "the code a route is",
@@ -18,4 +18,4 @@ export const routeCode = {
       statement: "A route answering with data alone is written in TypeScript.",
     },
   ],
-} as const satisfies FileProperty
+} as const satisfies CodeFileProperty
