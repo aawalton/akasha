@@ -63,7 +63,7 @@ function alsoSeeded(root: string): undefined {
     valueAlsoFiled(root, kind, [{ path, value: { id, ...value } }])
   }
   for (const [slug, above] of ABOVE) {
-    const value = { pageTypeSlug: PAGE_TYPE, slug, extendsSlug: [above] }
+    const value = { pageTypeSlug: PAGE_TYPE, slug, extends: [above] }
     filing(PAGE_TYPE, slug, `akasha/${slug}.page-type.ts`, value)
   }
   for (const value of CARRIED) {
@@ -76,7 +76,7 @@ function alsoSeeded(root: string): undefined {
 function besideFiled(root: string, kind: string, slug: string, at: string, id: string): undefined {
   listedFiled(root, kind, slug, [{ path: at, id }])
   idFiled(root, id, [{ path: at, id }])
-  relationFiled(root, id, "page-property-slug", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+  relationFiled(root, id, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
 }
 
 export function seeded(value: Value): string {
