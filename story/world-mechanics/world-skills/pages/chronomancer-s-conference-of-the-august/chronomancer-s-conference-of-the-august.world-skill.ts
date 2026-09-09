@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const chronomancerSConferenceOfTheAugust = {
   id: "01a06575-97fb-7ea1-a6ff-afb35f527cc0",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "chronomancer-s-conference-of-the-august",
   title: "Chronomancer’s Conference of the August",
   world: "the-wandering-inn",

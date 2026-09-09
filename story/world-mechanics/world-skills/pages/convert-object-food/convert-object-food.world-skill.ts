@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const convertObjectFood = {
   id: "01a06575-97fd-78d3-83ba-b755d928a08c",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "convert-object-food",
   title: "Convert Object: Food",
   world: "the-wandering-inn",

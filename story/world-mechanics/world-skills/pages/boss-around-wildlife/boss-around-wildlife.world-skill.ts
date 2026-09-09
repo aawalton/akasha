@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const bossAroundWildlife = {
   id: "01a06575-97f8-7d75-83fb-eb529e0e2722",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "boss-around-wildlife",
   title: "Boss Around Wildlife",
   world: "the-wandering-inn",

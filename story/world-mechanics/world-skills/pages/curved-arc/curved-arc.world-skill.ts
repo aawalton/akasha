@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const curvedArc = {
   id: "01a06575-97ff-730d-a547-54e667becdec",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "curved-arc",
   title: "Curved Arc",
   world: "the-wandering-inn",

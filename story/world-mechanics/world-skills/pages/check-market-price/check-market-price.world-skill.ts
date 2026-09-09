@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const checkMarketPrice = {
   id: "01a06575-97fb-71bf-b247-3c413a596875",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "check-market-price",
   title: "Check Market Price",
   world: "the-wandering-inn",

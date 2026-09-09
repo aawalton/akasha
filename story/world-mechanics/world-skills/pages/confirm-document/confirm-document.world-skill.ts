@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const confirmDocument = {
   id: "01a06575-97fc-7c31-990d-850b63b49373",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "confirm-document",
   title: "Confirm Document",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const catclawSlash = {
   id: "01a06575-97fa-76ed-b947-e6c2785cc7ec",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "catclaw-slash",
   title: "Catclaw Slash",
   world: "the-wandering-inn",

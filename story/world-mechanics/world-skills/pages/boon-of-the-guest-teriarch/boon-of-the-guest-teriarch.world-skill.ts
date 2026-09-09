@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const boonOfTheGuestTeriarch = {
   id: "01a06575-97f7-7a01-a52d-eaf1f39898db",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "boon-of-the-guest-teriarch",
   title: "Boon of the Guest: Teriarch",
   world: "the-wandering-inn",
