@@ -4,7 +4,6 @@ import { SCRATCH_AT } from "../../../../../../command-system/scratching/scratchi
 import { mistaking } from "../../../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../../modules/calling/calling.module.code.ts"
 import { filing } from "../../../../../modules/mechanical-filing/mechanical-filing.module.code.ts"
-import { dayBefore, sleeping, wokeInto } from "../../../../../modules/waking/waking.module.code.ts"
 import type { ActivityDifficulty } from "../../amend/session-leveling/session-leveling.module.code.ts"
 import {
   activitiesIn,
@@ -27,6 +26,7 @@ import {
   type Landing,
   pathUnder,
 } from "../../file/day-landing/day-landing.module.code.ts"
+import { dayBefore, sleeping, wokeInto } from "../../switch/waking/waking.module.code.ts"
 
 export type Standing = {
   readonly day: string
