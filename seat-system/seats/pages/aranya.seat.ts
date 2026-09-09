@@ -7,7 +7,7 @@ export const aranya = {
   personaSlug: "aranya",
   assignmentSlug: "initiative/aranya-root-folder-shape",
   role: "definer",
-  personSlug: "alan",
+  person: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
