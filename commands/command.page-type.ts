@@ -110,6 +110,7 @@ export const command = {
     "module/landing",
     "module/during-call",
     "module/reading",
+    "module/command-declaring",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

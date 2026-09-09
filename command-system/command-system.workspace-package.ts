@@ -10,7 +10,6 @@ export const commandSystem = {
     "page-type/command",
     "module/calling",
     "module/command-answering",
-    "module/command-declaring",
     "module/fault-saying",
     "module/rooting",
     "module/scratching",

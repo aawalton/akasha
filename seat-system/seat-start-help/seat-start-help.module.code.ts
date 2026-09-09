@@ -1,4 +1,4 @@
-import type { CommandHelp } from "@akasha/command-system/command-declaring"
+import type { CommandHelp } from "../../commands/modules/command-declaring/command-declaring.module.code.ts"
 import { DEFAULT_ACCOUNT } from "../seat-launching/seat-launching.module.code.ts"
 
 export const HELP: CommandHelp = {
