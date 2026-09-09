@@ -1,4 +1,3 @@
-import type { InventoryItemData } from "@akasha/temper-items-core/inventory-types"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type {
   CategoryRule,
@@ -6,6 +5,7 @@ import type {
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import fc from "fast-check"
 import { makeStackableItem } from "../inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
 import {

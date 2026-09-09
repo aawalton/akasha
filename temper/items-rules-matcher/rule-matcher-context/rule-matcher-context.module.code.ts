@@ -1,5 +1,4 @@
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import type {
   CharacterBuildInput,
   CompanionBuildInput,
@@ -7,6 +6,7 @@ import type {
   CompletionCompanionInput,
   RuleMatcherContext,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import {
   buildGetCharacterCanLevelMorphs,
   compileCharacterCanLevelMorphs,

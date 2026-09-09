@@ -1,6 +1,6 @@
-import { ESO_BAG_WORN } from "@akasha/temper-items-core/eso-bag-constants"
-import type { ItemLocationEntry } from "@akasha/temper-items-core/item-centric-inventory"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { ESO_BAG_WORN } from "akasha/temper/temper-items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
+import type { ItemLocationEntry } from "akasha/temper/temper-items-core/item-centric-inventory/item-centric-inventory.module.code.ts"
 import type {
   FixedLocationViewId,
   LocationViewKind,

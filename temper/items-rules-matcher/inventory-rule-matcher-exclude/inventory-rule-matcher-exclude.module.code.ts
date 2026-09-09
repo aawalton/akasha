@@ -1,13 +1,16 @@
-import { ESO_BAG_BACKPACK, ESO_BAG_WORN } from "@akasha/temper-items-core/eso-bag-constants"
-import { ESO_ITEMTYPE_CONTAINER } from "@akasha/temper-items-core/inventory-types"
-import { classifyLocation } from "@akasha/temper-items-core/location-classify"
-import type { LocationTypeId } from "@akasha/temper-items-core/location-type-data"
 import type {
   AffectedItem,
   ClassifiedInventoryItem,
 } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { ItemAction } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type { CharacterId } from "@akasha/temper-items-rules-core/use-destination-types"
+import {
+  ESO_BAG_BACKPACK,
+  ESO_BAG_WORN,
+} from "akasha/temper/temper-items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
+import { ESO_ITEMTYPE_CONTAINER } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/temper-items-core/location-type-data/location-type-data.module.code.ts"
 
 export function toAffectedItem(
   ci: ClassifiedInventoryItem,

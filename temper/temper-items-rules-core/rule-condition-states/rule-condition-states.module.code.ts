@@ -1,4 +1,4 @@
-import type { ItemCategoryNode } from "@akasha/temper-items-core/item-category-tree-types"
+import type { ItemCategoryNode } from "akasha/temper/temper-items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import { resolveAllRuleStates } from "../inventory-rule-engine/inventory-rule-engine.module.code.ts"
 import type {
   CategoryRule,

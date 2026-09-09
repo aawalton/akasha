@@ -1,4 +1,3 @@
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
@@ -10,6 +9,7 @@ import type {
   CharacterSession,
   ManagementPlan,
 } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import {
   BUY_CHARACTER_ID,
   BUY_CHARACTER_NAME,

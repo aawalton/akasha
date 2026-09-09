@@ -1,4 +1,3 @@
-import type { InventoryItemData } from "@akasha/temper-items-core/inventory-types"
 import {
   narrowDestination,
   parseItemAction,
@@ -10,6 +9,7 @@ import type {
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { resolveItemRoute } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.code.ts"
 import type { RouteStep } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 
 export interface MatchedRoute {
   readonly action: ItemAction

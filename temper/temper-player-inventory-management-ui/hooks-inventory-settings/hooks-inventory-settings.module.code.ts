@@ -17,15 +17,6 @@ import type {
   CompanionAutomationToggles,
 } from "@akasha/temper-build-support/automation-settings"
 import {
-  type BackpackSettings,
-  DEFAULT_BACKPACK_SETTINGS,
-} from "@akasha/temper-items-core/backpack-settings-types"
-import type { CraftBagAccessSettings } from "@akasha/temper-items-core/inventory-craft-bag-types"
-import {
-  type ManagedGuildBankSettings,
-  readManagedGuildBanks,
-} from "@akasha/temper-items-core/inventory-guild-bank-types"
-import {
   heldFromRows,
   rulesFromPages,
 } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
@@ -33,6 +24,15 @@ import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inve
 import { writesFor } from "@akasha/temper-items-rules-core/inventory-rule-writes"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import {
+  type BackpackSettings,
+  DEFAULT_BACKPACK_SETTINGS,
+} from "akasha/temper/temper-items-core/backpack-settings-types/backpack-settings-types.module.code.ts"
+import type { CraftBagAccessSettings } from "akasha/temper/temper-items-core/inventory-craft-bag-types/inventory-craft-bag-types.module.code.ts"
+import {
+  type ManagedGuildBankSettings,
+  readManagedGuildBanks,
+} from "akasha/temper/temper-items-core/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
 import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

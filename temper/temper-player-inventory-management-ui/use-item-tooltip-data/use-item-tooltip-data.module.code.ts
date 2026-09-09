@@ -1,10 +1,10 @@
-import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
+import { parseItemLink } from "akasha/temper/temper-items-core/item-link-parser/item-link-parser.module.code.ts"
 import type {
   ItemTooltipData,
   ItemTooltipInstance,
   MinedItemData,
-} from "@akasha/temper-items-core/item-tooltip-types"
-import { resolveItemTooltipData } from "@akasha/temper-items-core/item-tooltip-types"
+} from "akasha/temper/temper-items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
+import { resolveItemTooltipData } from "akasha/temper/temper-items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 
 const minedItemCache = new Map<number, MinedItemData>()

@@ -1,4 +1,3 @@
-import { locationConditionFromKeyAndBag } from "@akasha/temper-items-core/location-condition"
 import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import type { ItemKey } from "@akasha/temper-items-rules-core/use-destination-types"
@@ -7,6 +6,7 @@ import {
   resolveStaticItemKey,
 } from "@akasha/temper-items-rules-eval/build-item-facts-from-inventory-item"
 import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
+import { locationConditionFromKeyAndBag } from "akasha/temper/temper-items-core/location-condition/location-condition.module.code.ts"
 
 export function webItemFactsFromClassified(
   ci: ClassifiedInventoryItem,

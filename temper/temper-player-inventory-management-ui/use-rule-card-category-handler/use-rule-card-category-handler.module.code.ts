@@ -1,6 +1,5 @@
 "use client"
 
-import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree-data"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
@@ -8,6 +7,7 @@ import {
 import { INVENTORY_RULE_FILTERS } from "@akasha/temper-items-rules-core/rule-filter-registry"
 import type { FilterId } from "@akasha/temper-items-rules-core/rule-filter-types"
 import { getTraitFamily } from "@akasha/temper-items-rules-core/traits-filter"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import type React from "react"
 import type { RuleCardOnUpdate } from "../use-rule-card/use-rule-card.module.code.ts"
 

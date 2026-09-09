@@ -1,3 +1,6 @@
+import { ALL_CATEGORIES_ID } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { resolvePotionRestoreMetricIds } from "@akasha/temper-items-rules-core/potion-restore-resolve"
+import type { ItemKey } from "@akasha/temper-items-rules-core/use-destination-types"
 import {
   ESO_ITEMTYPE_CRAFTED_ABILITY_SCRIPT,
   ESO_ITEMTYPE_RECIPE,
@@ -5,15 +8,12 @@ import {
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER,
   type InventoryItemData,
   isKnowledgeItem,
-} from "@akasha/temper-items-core/inventory-types"
-import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
-import type { InventoryLocationConditionId } from "@akasha/temper-items-core/location-condition"
-import { parseMotifBookName } from "@akasha/temper-items-core/motif-name-parser"
-import { getRecipeResultId } from "@akasha/temper-items-core/recipe-result-id-lookup"
-import { getScriptItemIdByName } from "@akasha/temper-items-core/script-knowledge-lookup"
-import { ALL_CATEGORIES_ID } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { resolvePotionRestoreMetricIds } from "@akasha/temper-items-rules-core/potion-restore-resolve"
-import type { ItemKey } from "@akasha/temper-items-rules-core/use-destination-types"
+} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { parseItemLink } from "akasha/temper/temper-items-core/item-link-parser/item-link-parser.module.code.ts"
+import type { InventoryLocationConditionId } from "akasha/temper/temper-items-core/location-condition/location-condition.module.code.ts"
+import { parseMotifBookName } from "akasha/temper/temper-items-core/motif-name-parser/motif-name-parser.module.code.ts"
+import { getRecipeResultId } from "akasha/temper/temper-items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
+import { getScriptItemIdByName } from "akasha/temper/temper-items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type { ItemFacts } from "../item-facts/item-facts.module.code.ts"
 
 function parsePotionDataFromLink(itemLink: string): number {

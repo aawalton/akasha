@@ -2,16 +2,16 @@ import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
-import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
+import { classifyItemToNodeIds } from "akasha/temper/temper-items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/temper-items-core/inventory-parser/inventory-parser.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,
-} from "@akasha/temper-items-core/inventory-types"
-import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
-import { parseMotifBookName } from "@akasha/temper-items-core/motif-name-parser"
-import { getRecipeResultId } from "@akasha/temper-items-core/recipe-result-id-lookup"
-import { getScriptItemIdByName } from "@akasha/temper-items-core/script-knowledge-lookup"
+} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { parseItemLink } from "akasha/temper/temper-items-core/item-link-parser/item-link-parser.module.code.ts"
+import { parseMotifBookName } from "akasha/temper/temper-items-core/motif-name-parser/motif-name-parser.module.code.ts"
+import { getRecipeResultId } from "akasha/temper/temper-items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
+import { getScriptItemIdByName } from "akasha/temper/temper-items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 

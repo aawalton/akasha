@@ -1,14 +1,14 @@
-import { computeValue } from "@akasha/temper-items-core/inventory-display-value"
-import type {
-  InventoryDatabase,
-  InventoryItemData,
-} from "@akasha/temper-items-core/inventory-types"
-import { getLocationDisplayName } from "@akasha/temper-items-core/location-classify"
 import type {
   ItemAction,
   MoveToDestination,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { computeValue } from "akasha/temper/temper-items-core/inventory-display-value/inventory-display-value.module.code.ts"
+import type {
+  InventoryDatabase,
+  InventoryItemData,
+} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { getLocationDisplayName } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
 import type { VenueType } from "../inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 export function computePlanItemValue(

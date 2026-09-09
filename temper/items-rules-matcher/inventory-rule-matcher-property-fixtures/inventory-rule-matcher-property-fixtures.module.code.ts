@@ -1,4 +1,3 @@
-import { ESO_ITEMTYPE_RECIPE } from "@akasha/temper-items-core/inventory-types"
 import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import { makeItem } from "@akasha/temper-items-rules-core/inventory-rule-test-utils"
 import {
@@ -8,6 +7,7 @@ import {
   type ItemAction,
   type ItemRule,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { ESO_ITEMTYPE_RECIPE } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import fc from "fast-check"
 
 const CATEGORY_PATHS: readonly (readonly string[])[] = [

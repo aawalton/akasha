@@ -2,8 +2,6 @@ import type { AutomationSettings } from "@akasha/temper-build-support/automation
 import { resolveCharacterToggles } from "@akasha/temper-build-support/automation-settings"
 import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
-import { getScriptItemIdByName } from "@akasha/temper-items-core/script-knowledge-lookup"
 import type {
   CharacterBuildInput,
   CompletionCharacterInput,
@@ -11,6 +9,8 @@ import type {
 import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { getScriptItemIdByName } from "akasha/temper/temper-items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 
 function getCompletionField(completion: unknown, field: string): unknown {
   if (!isObjectRecord(completion)) return undefined

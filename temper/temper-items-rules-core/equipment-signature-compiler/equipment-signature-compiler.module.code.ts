@@ -6,15 +6,6 @@ import {
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import { resolveQuality } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
-import {
-  COMPANION_QUALITY_TO_ESO,
-  ESO_EQUIP_TYPES,
-} from "@akasha/temper-items-core/eso-companion-equipment-constants-data"
-import {
-  PLAYER_ARMOR_TYPE_TO_ESO,
-  PLAYER_QUALITY_TO_ESO,
-  PLAYER_WEAPON_TYPE_TO_ESO,
-} from "@akasha/temper-items-core/eso-player-equipment-constants-data"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
@@ -27,6 +18,15 @@ import { companionJewelrySlots } from "akasha/temper/temper-companions-core/comp
 import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/temper-companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import {
+  COMPANION_QUALITY_TO_ESO,
+  ESO_EQUIP_TYPES,
+} from "akasha/temper/temper-items-core/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
+import {
+  PLAYER_ARMOR_TYPE_TO_ESO,
+  PLAYER_QUALITY_TO_ESO,
+  PLAYER_WEAPON_TYPE_TO_ESO,
+} from "akasha/temper/temper-items-core/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,

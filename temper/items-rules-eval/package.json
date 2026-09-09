@@ -28,7 +28,6 @@
     "./rule-condition-eval": "./rule-condition-eval/rule-condition-eval.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*"
   }
 }

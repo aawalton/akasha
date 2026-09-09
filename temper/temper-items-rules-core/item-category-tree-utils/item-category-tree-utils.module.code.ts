@@ -1,5 +1,5 @@
-import { ITEM_CATEGORY_PRIORITY } from "@akasha/temper-items-core/item-category-tree-data"
-import type { ItemCategoryNode } from "@akasha/temper-items-core/item-category-tree-types"
+import { ITEM_CATEGORY_PRIORITY } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
+import type { ItemCategoryNode } from "akasha/temper/temper-items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import { ALL_CATEGORIES_ID } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export function getNodePath(

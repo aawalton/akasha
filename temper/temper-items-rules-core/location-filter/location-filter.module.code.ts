@@ -1,4 +1,4 @@
-import type { InventoryLocationConditionId } from "@akasha/temper-items-core/location-condition"
+import type { InventoryLocationConditionId } from "akasha/temper/temper-items-core/location-condition/location-condition.module.code.ts"
 import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   FilterOption,

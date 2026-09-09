@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
+import { computeBuyShortfall } from "@akasha/temper-items-rules-core/buy-rule-eval"
+import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type {
   InventoryDatabase,
   InventoryItemData,
   InventoryLocationData,
-} from "@akasha/temper-items-core/inventory-types"
-import { computeBuyShortfall } from "@akasha/temper-items-rules-core/buy-rule-eval"
-import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inventory-rule-types"
+} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import type {
   ReadFiles,
   ReadPages,

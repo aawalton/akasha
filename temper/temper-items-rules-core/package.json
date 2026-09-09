@@ -105,7 +105,6 @@
     "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
-    "@akasha/temper-items-core": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }

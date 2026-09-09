@@ -1,4 +1,3 @@
-import type { InventoryItemData } from "@akasha/temper-items-core/inventory-types"
 import type { TierAllocation } from "@akasha/temper-items-rules-core/destination-chain-types"
 import type { EligibilityResolvers } from "@akasha/temper-items-rules-core/eligibility-predicate-composer"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
@@ -14,6 +13,7 @@ import {
   type CharacterId,
   characterId,
 } from "@akasha/temper-items-rules-core/use-destination-types"
+import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 
 export interface ChainExpansionRow {
   readonly entry: AffectedItem

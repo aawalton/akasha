@@ -1,15 +1,18 @@
-import { classifyItem } from "@akasha/temper-items-core/classify-item"
-import { ESO_BAG_WORN } from "@akasha/temper-items-core/eso-bag-constants"
-import { computeValue } from "@akasha/temper-items-core/inventory-display-value"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { classifyItem } from "akasha/temper/temper-items-core/classify-item/classify-item.module.code.ts"
+import { ESO_BAG_WORN } from "akasha/temper/temper-items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
+import { computeValue } from "akasha/temper/temper-items-core/inventory-display-value/inventory-display-value.module.code.ts"
 import {
   INVENTORY_TYPE_CATEGORY_ORDER,
   type InventoryTypeEntry,
-} from "@akasha/temper-items-core/inventory-grouping-types"
-import type { InventoryNode } from "@akasha/temper-items-core/inventory-node-types"
-import { buildInventoryTypeNodes } from "@akasha/temper-items-core/inventory-type-tree-builder"
-import { classifyLocation } from "@akasha/temper-items-core/location-classify"
-import { type LocationTypeId, locationTypes } from "@akasha/temper-items-core/location-type-data"
-import { requireFirst } from "@akasha/utils/narrow/require-first"
+} from "akasha/temper/temper-items-core/inventory-grouping-types/inventory-grouping-types.module.code.ts"
+import type { InventoryNode } from "akasha/temper/temper-items-core/inventory-node-types/inventory-node-types.module.code.ts"
+import { buildInventoryTypeNodes } from "akasha/temper/temper-items-core/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
+import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+import {
+  type LocationTypeId,
+  locationTypes,
+} from "akasha/temper/temper-items-core/location-type-data/location-type-data.module.code.ts"
 import type { AffectedItem } from "../inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 function toTypeEntry(affected: AffectedItem, index: number): InventoryTypeEntry {

@@ -1,7 +1,7 @@
 "use client"
 
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import type { ItemTooltipInstance } from "@akasha/temper-items-core/item-tooltip-types"
+import type { ItemTooltipInstance } from "akasha/temper/temper-items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { useState } from "react"
 import { ItemTooltip } from "../item-tooltip/item-tooltip.module.code.tsx"
 import { useItemTooltipData } from "../use-item-tooltip-data/use-item-tooltip-data.module.code.ts"

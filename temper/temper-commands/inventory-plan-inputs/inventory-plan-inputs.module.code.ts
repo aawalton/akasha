@@ -1,13 +1,13 @@
 import { readFile } from "node:fs/promises"
 import { DataError } from "@akasha/errors-core/exit-code"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
-import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
+import { classifyItemToNodeIds } from "akasha/temper/temper-items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/temper-items-core/inventory-parser/inventory-parser.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,

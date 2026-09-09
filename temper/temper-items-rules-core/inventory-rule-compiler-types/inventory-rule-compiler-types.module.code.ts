@@ -1,4 +1,4 @@
-import type { InventoryLocationConditionId } from "@akasha/temper-items-core/location-condition"
+import type { InventoryLocationConditionId } from "akasha/temper/temper-items-core/location-condition/location-condition.module.code.ts"
 import type { BuySource } from "../buy-rule-types/buy-rule-types.module.code.ts"
 import type { CanLevelMorphsCondition } from "../can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type { ComparisonOpId } from "../comparison-op-data/comparison-op-data.module.code.ts"

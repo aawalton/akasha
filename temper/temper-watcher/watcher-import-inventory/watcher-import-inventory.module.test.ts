@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import type { ExcludedLocation } from "@akasha/temper-items-core/inventory-guild-bank-filter"
-import type { NetWorthResult } from "@akasha/temper-items-core/inventory-net-worth-types"
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
+import type { ExcludedLocation } from "akasha/temper/temper-items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import type { NetWorthResult } from "akasha/temper/temper-items-core/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   countInventory,

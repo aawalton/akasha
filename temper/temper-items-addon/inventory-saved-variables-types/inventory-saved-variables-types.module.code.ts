@@ -1,3 +1,4 @@
+import type { CompiledRuleConfig } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import type {
   CharacterCurrencies as CoreCharacterCurrencies,
   CurrencyBalances as CoreCurrencyBalances,
@@ -5,8 +6,7 @@ import type {
   PlacedFurnishingData as CorePlacedFurnishingData,
   InventoryItemData,
   PriceSource,
-} from "@akasha/temper-items-core/inventory-types"
-import type { CompiledRuleConfig } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
+} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import type { BankProfile } from "../inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
 import type { BankTrace } from "../inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"
 import type { ItemRuleVerdictMutation } from "../inventory-item-rule-verdict-core/inventory-item-rule-verdict-core.module.code.ts"

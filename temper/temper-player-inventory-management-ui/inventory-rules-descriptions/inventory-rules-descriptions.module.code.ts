@@ -1,4 +1,3 @@
-import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree-data"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
@@ -6,6 +5,7 @@ import {
   type ItemRule,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { getNodePath } from "@akasha/temper-items-rules-core/item-category-tree-utils"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import { getActionLabel } from "../action-options/action-options.module.code.ts"
 
 function describeCategoryRule(rule: CategoryRule): string {

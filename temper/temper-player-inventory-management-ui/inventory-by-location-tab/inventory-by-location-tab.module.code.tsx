@@ -12,18 +12,21 @@ import {
 } from "@akasha/design-patterns/empty"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { Button } from "@akasha/design-primitives/button"
-import { computeCurrencyGoldTotal } from "@akasha/temper-items-core/inventory-currencies"
+import { computeCurrencyGoldTotal } from "akasha/temper/temper-items-core/inventory-currencies/inventory-currencies.module.code.ts"
 import {
   filterInventoryGroups,
   groupInventoryByLocation,
   type InventoryLocationGroup,
-} from "@akasha/temper-items-core/inventory-grouping"
-import type { ExcludedLocation } from "@akasha/temper-items-core/inventory-guild-bank-filter"
+} from "akasha/temper/temper-items-core/inventory-grouping/inventory-grouping.module.code.ts"
+import type { ExcludedLocation } from "akasha/temper/temper-items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type {
   InventoryCurrencies,
   InventoryDatabase,
-} from "@akasha/temper-items-core/inventory-types"
-import { type LocationTypeId, locationTypes } from "@akasha/temper-items-core/location-type-data"
+} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import {
+  type LocationTypeId,
+  locationTypes,
+} from "akasha/temper/temper-items-core/location-type-data/location-type-data.module.code.ts"
 import { Search } from "lucide-react"
 import { useMemo } from "react"
 import { InventoryLocationSummaryPanelCard } from "../inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.code.tsx"

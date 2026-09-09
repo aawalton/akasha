@@ -1,11 +1,11 @@
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
-import { getLocationDisplayName } from "@akasha/temper-items-core/location-classify"
 import { narrowDestination } from "@akasha/temper-items-rules-core/inventory-destination-parse"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { resolveStorageKey } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
 import { getActionVenue } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { getLocationDisplayName } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
 import {
   buildExistingStorageItems,
   buildStorageFreeSlots,

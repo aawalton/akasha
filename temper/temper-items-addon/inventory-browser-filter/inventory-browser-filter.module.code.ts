@@ -1,5 +1,5 @@
-import { compareStrings } from "@akasha/temper-items-core/item-centric-inventory"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { compareStrings } from "akasha/temper/temper-items-core/item-centric-inventory/item-centric-inventory.module.code.ts"
 import { matchCategory } from "../inventory-browser-categories/inventory-browser-categories.module.code.ts"
 import { matchLocationView } from "../inventory-browser-locations/inventory-browser-locations.module.code.ts"
 import type {

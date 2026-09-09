@@ -1,6 +1,5 @@
 "use client"
 
-import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree-data"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
@@ -9,6 +8,7 @@ import {
   getNodeChildren,
   getNodePath,
 } from "@akasha/temper-items-rules-core/item-category-tree-utils"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import { useMemo } from "react"
 import { CategoryBadgeSelect } from "../rule-card-category-row/rule-card-category-row.module.code.tsx"
 

@@ -1,5 +1,3 @@
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
-import { classifyLocation } from "@akasha/temper-items-core/location-classify"
 import { narrowDestination } from "@akasha/temper-items-rules-core/inventory-destination-parse"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
@@ -12,6 +10,8 @@ import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-ma
 import type { CharacterId } from "@akasha/temper-items-rules-core/use-destination-types"
 import { resolveItemRoute } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.code.ts"
 import type { RouteStep } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
 import {
   buildExistingStorageItems,
   isItemStackable,

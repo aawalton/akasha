@@ -5,7 +5,7 @@ import { listedAt } from "@akasha/indexes"
 import { codeRoot } from "@akasha/pages/code-root"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { askComposed } from "@akasha/pages-query/store-spelled-asking"
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import { z } from "zod"
 
 export const SNAPSHOT_PAGE_TYPE = "temper-inventory-snapshot"

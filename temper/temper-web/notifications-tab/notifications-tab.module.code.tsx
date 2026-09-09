@@ -13,18 +13,18 @@ import {
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Switch } from "@akasha/design-primitives/switch-control"
-import type {
-  InventoryLoggingLevel,
-  InventoryPerfTracingLevel,
-} from "@akasha/temper-items-core/inventory-logging-types"
-import {
-  DESTRUCTIVE_ACTIONS,
-  type DestructiveAction,
-} from "@akasha/temper-items-core/inventory-safety-types"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type {
+  InventoryLoggingLevel,
+  InventoryPerfTracingLevel,
+} from "akasha/temper/temper-items-core/inventory-logging-types/inventory-logging-types.module.code.ts"
+import {
+  DESTRUCTIVE_ACTIONS,
+  type DestructiveAction,
+} from "akasha/temper/temper-items-core/inventory-safety-types/inventory-safety-types.module.code.ts"
 import { useBackpackSettings } from "akasha/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useEffect, useMemo, useState } from "react"
 import {

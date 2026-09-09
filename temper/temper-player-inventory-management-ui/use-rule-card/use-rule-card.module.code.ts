@@ -1,6 +1,5 @@
 "use client"
 
-import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree-data"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
@@ -23,6 +22,7 @@ import {
   getTraitFamily,
   TRAIT_OPTIONS_BY_FAMILY,
 } from "@akasha/temper-items-rules-core/traits-filter"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
 import { useMemo, useState } from "react"
 import {
   ACTION_OPTIONS,

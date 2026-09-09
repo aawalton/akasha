@@ -1,9 +1,9 @@
-import type { LocationTypeId } from "@akasha/temper-items-core/location-type-data"
 import type {
   ItemAction,
   MoveToDestination,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type { LocationTypeId } from "akasha/temper/temper-items-core/location-type-data/location-type-data.module.code.ts"
 import type {
   PlanItem,
   VenueType,

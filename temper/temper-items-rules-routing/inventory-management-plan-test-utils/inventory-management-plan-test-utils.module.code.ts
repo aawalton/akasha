@@ -1,11 +1,11 @@
+import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import { makeItem as makeItemBase } from "@akasha/temper-items-rules-core/inventory-rule-test-utils"
+import type { CategoryRule, ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type {
   InventoryDatabase,
   InventoryItemData,
   InventoryLocationData,
-} from "@akasha/temper-items-core/inventory-types"
-import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
-import { makeItem as makeItemBase } from "@akasha/temper-items-rules-core/inventory-rule-test-utils"
-import type { CategoryRule, ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 
 export const ESO_BAG_BACKPACK = 1
 

@@ -1,12 +1,12 @@
-import { findCooldownGroup } from "@akasha/temper-items-core/cooldown-groups"
-import { isCraftingRankBelowCap } from "@akasha/temper-items-core/crafting-passive-ranks"
-import { signatureMatchesItem } from "@akasha/temper-items-core/equipment-signature-matcher"
-import { STYLE_TO_CHAPTERS } from "@akasha/temper-items-core/motif-chapter-set"
 import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { TOTAL_SCRIPT_COUNT } from "@akasha/temper-items-rules-core/scribing-total-script-count"
 import type { EvalEnv, WantedEquipmentFacts } from "@akasha/temper-items-rules-eval/eval-env"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { findCooldownGroup } from "akasha/temper/temper-items-core/cooldown-groups/cooldown-groups.module.code.ts"
+import { isCraftingRankBelowCap } from "akasha/temper/temper-items-core/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
+import { signatureMatchesItem } from "akasha/temper/temper-items-core/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/temper-items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 
 export interface WebEnvExtras {
   readonly itemIdToCooldownGroup?: ReadonlyMap<number, string>

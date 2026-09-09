@@ -1,8 +1,8 @@
+import { asObjectRecord } from "@akasha/utils/narrow/as-object-record"
 import {
   getLoreLibraryCoords,
   STYLE_TO_CHAPTERS,
-} from "@akasha/temper-items-core/motif-chapter-set"
-import { asObjectRecord } from "@akasha/utils/narrow/as-object-record"
+} from "akasha/temper/temper-items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 export const CRAFTING_MOTIFS_CATEGORY_INDEX = 2
 
 function motifKnowledgeChapters(

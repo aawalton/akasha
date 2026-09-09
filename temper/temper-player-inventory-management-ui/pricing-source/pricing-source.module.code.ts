@@ -1,4 +1,4 @@
-import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
+import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 
 export type PricingSourceNoteKind = "none" | "missing-source" | "source-empty"
 

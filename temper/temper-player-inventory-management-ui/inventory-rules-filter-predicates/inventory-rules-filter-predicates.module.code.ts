@@ -1,6 +1,3 @@
-import { ITEM_CATEGORY_TREE } from "@akasha/temper-items-core/item-category-tree-data"
-import { classifyLocation } from "@akasha/temper-items-core/location-classify"
-import { type LocationTypeId, locationTypes } from "@akasha/temper-items-core/location-type-data"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
@@ -10,6 +7,12 @@ import {
   getCategoryDescendantIds,
   getNodePath,
 } from "@akasha/temper-items-rules-core/item-category-tree-utils"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
+import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+import {
+  type LocationTypeId,
+  locationTypes,
+} from "akasha/temper/temper-items-core/location-type-data/location-type-data.module.code.ts"
 import { getActionLabel, SELL_ACTIONS } from "../action-options/action-options.module.code.ts"
 
 const SELL_ACTION_VALUES: ReadonlySet<string> = SELL_ACTIONS

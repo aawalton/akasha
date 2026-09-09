@@ -1,10 +1,10 @@
-import { buildItemCentricInventory } from "@akasha/temper-items-core/item-centric-inventory"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { buildItemCentricInventory } from "akasha/temper/temper-items-core/item-centric-inventory/item-centric-inventory.module.code.ts"
 import {
   classifyLocation,
   getLocationDisplayName,
-} from "@akasha/temper-items-core/location-classify"
-import type { LocationTypeId } from "@akasha/temper-items-core/location-type-data"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+} from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/temper-items-core/location-type-data/location-type-data.module.code.ts"
 import type {
   BrowserRow,
   FixedLocationViewId,

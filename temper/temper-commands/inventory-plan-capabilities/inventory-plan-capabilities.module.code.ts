@@ -1,7 +1,7 @@
-import { classifyItemToNodeIds } from "@akasha/temper-items-core/classify-item-node-ids"
-import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
+import { classifyItemToNodeIds } from "akasha/temper/temper-items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/temper-items-core/inventory-parser/inventory-parser.module.code.ts"
 import { buildManagementPlan } from "akasha/temper/temper-items-rules-routing/inventory-management-plan/inventory-management-plan.module.code.ts"
 import {
   applyDestinationCapacityFilter,

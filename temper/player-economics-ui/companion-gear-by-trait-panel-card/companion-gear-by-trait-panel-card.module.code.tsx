@@ -3,11 +3,6 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
-import {
-  aggregateUnfulfilledByTraitQuality,
-  type CompanionGearNeed,
-  type GearNeededGroup,
-} from "@akasha/temper-items-core/companion-gear-diff"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
@@ -18,6 +13,11 @@ import {
   getQualityClassName,
   getQualityVariant,
 } from "akasha/temper/temper-companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
+import {
+  aggregateUnfulfilledByTraitQuality,
+  type CompanionGearNeed,
+  type GearNeededGroup,
+} from "akasha/temper/temper-items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
 import { needToShoppingKey } from "akasha/temper/temper-shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import { useMemo, useState } from "react"
 import {

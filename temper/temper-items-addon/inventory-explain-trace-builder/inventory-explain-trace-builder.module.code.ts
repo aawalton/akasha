@@ -1,4 +1,3 @@
-import { parseMotifBookName } from "@akasha/temper-items-core/motif-name-parser"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import { ALL_CATEGORIES_ID } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import {
@@ -11,6 +10,7 @@ import type { RuleEvalResult, WalkTrace } from "@akasha/temper-items-rules-eval/
 import { walkRules } from "@akasha/temper-items-rules-eval/evaluator"
 import { asObjectRecord } from "@akasha/utils/narrow/as-object-record"
 import { requireAt } from "@akasha/utils/narrow/require-at"
+import { parseMotifBookName } from "akasha/temper/temper-items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import { buildItemFactsForLink } from "../inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
 import { buildCompiledCharacterPriority } from "../inventory-character-priority/inventory-character-priority.module.code.ts"
 import { buildEsoEvalEnv } from "../inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"

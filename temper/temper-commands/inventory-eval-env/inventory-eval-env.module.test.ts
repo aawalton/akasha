@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { STYLE_TO_CHAPTERS } from "@akasha/temper-items-core/motif-chapter-set"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/temper-items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { CharacterKnowledge } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { buildCliEvalEnv } from "./inventory-eval-env.module.code.ts"
 
