@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const agentTreeDrawing = {
   id: "01a0686b-bfe9-706d-8295-b8bf933d18de",
   pageTypeSlug: "module",
+  type: "module",
   slug: "agent-tree-drawing",
   definition:
     "how a row of the agent tree draws, what it opens, and the colour a decoration gives it",

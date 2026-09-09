@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const parseDoubt = {
   id: "01a07bda-ac83-7c39-a602-c808f8dabe81",
   pageTypeSlug: "module",
+  type: "module",
   slug: "parse-doubt",
   definition: "why a parse of a statement is not to be trusted",
   code: "ts",

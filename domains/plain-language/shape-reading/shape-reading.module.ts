@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const shapeReading = {
   id: "01a05dba-d49f-70b7-a3a3-7eb1c069e14d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "shape-reading",
   definition: "the sentence shapes the index names, read out of their pages",
   code: "ts",

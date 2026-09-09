@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const agentForestAnswer = {
   id: "01a0686b-bfe9-7a04-b438-fbda74d64739",
   pageTypeSlug: "module",
+  type: "module",
   slug: "agent-forest-answer",
   definition: "the seats, the pages and the repository the agent-forest command answers with",
   code: "ts",

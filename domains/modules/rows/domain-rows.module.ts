@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const domainRows = {
   id: "01a04e9f-4572-74d2-b19a-9fd2f81583eb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "domain-rows",
   definition: "every domain the domains panel draws, its champion, its parent, and their order",
   code: "ts",

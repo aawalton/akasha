@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const speltScanning = {
   id: "01a073e3-354d-7124-8a2c-e116b5340d81",
   pageTypeSlug: "module",
+  type: "module",
   slug: "spelt-scanning",
   definition: "a backticked name filled with letters of its own length before a sentence is read",
   code: "ts",

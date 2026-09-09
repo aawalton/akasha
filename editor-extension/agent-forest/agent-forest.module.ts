@@ -3,6 +3,7 @@ import type { Module } from "../../code-system/modules/module.page-type.ts"
 export const agentForest = {
   id: "01a0686b-bfe9-798c-9d61-ea31258cd97c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "agent-forest",
   definition: "the seats and the subagents under them hung into the tree the panel draws",
   code: "ts",

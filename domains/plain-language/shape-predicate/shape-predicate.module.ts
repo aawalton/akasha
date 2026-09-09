@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const shapePredicate = {
   id: "01a06d15-c08a-7cb9-a166-2c8d5553765b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "shape-predicate",
   definition: "what every sentence shape's predicate over a dependency tree is written against",
   code: "ts",

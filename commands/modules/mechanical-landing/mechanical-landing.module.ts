@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const mechanicalLanding = {
   id: "01a081c9-a23f-7966-b087-421c58e918f3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mechanical-landing",
   definition: "a change a program lands, judged by no check and owing no reading",
   code: "ts",

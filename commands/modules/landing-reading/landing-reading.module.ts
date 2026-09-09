@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const landingReading = {
   id: "01a06dc1-7f50-78ab-b4c7-e9d9290ad691",
   pageTypeSlug: "module",
+  type: "module",
   slug: "landing-reading",
   definition:
     "what a landing leaves in the read record, recorded for its writer or carried for the rest",

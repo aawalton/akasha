@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const workedTyping = {
   id: "01a07672-9764-7d20-8eb7-55cab242cfa3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "worked-typing",
   definition: "the type with a page type's calculations beside its stored keys, written again",
   code: "ts",

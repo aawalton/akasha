@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatActCalling = {
   id: "01a0797a-9a3b-7327-8ca0-65c7360e1566",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-act-calling",
   definition: "a seat act called with the words that follow the act's name",
   code: "ts",

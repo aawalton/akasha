@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const wordTokenizing = {
   id: "01a06cd8-d032-72f6-9824-e37f2a2d3ed0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "word-tokenizing",
   definition: "the pieces a text is split into before a model reads it",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const proseRestating = {
   id: "01a08248-90ee-7792-9275-0a291dfa50af",
   pageTypeSlug: "module",
+  type: "module",
   slug: "prose-restating",
   definition: "what each passage states once the constructions a term is banned in are rewritten",
   code: "ts",

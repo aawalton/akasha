@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const patching = {
   id: "01a06303-cba2-7ada-9cb8-d1b24bf3bd62",
   pageTypeSlug: "module",
+  type: "module",
   slug: "patching",
   definition: "the git-format patch a set of changes makes against a base commit",
   code: "ts",

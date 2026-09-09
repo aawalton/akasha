@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const termCensus = {
   id: "01a07c71-9914-7a3e-b8cd-e3395002ebdb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "term-census",
   definition: "every term a text holds, and whether a page defines that term",
   code: "ts",

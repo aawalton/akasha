@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const proseRouting = {
   id: "01a0687f-ed12-7000-9465-97c4c88eb633",
   pageTypeSlug: "module",
+  type: "module",
   slug: "prose-routing",
   definition: "the file route beside a flag that takes prose, so a shell need not have it",
   code: "ts",

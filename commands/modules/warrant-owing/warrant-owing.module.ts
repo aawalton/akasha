@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const warrantOwing = {
   id: "01a07bd4-e969-75ff-8616-768c59e748f6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "warrant-owing",
   definition: "the readings a writer still owes for the paths a change touches",
   code: "ts",

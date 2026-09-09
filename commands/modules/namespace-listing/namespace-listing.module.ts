@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const namespaceListing = {
   id: "01a08146-1d75-7803-8785-04ee4abd9a06",
   pageTypeSlug: "module",
+  type: "module",
   slug: "namespace-listing",
   definition: "the commands a namespace has, written down for a reader",
   code: "ts",

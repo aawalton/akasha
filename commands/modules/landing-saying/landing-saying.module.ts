@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const landingSaying = {
   id: "01a06d77-0d79-7f0a-8ea4-cb8531aeecfb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "landing-saying",
   definition: "the report a landing answers with",
   code: "ts",

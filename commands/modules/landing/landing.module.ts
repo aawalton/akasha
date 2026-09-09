@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const landing = {
   id: "01a04bdd-596d-7df0-b23c-e52139fd8bc2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "landing",
   definition:
     "a change judged against one commit and then written and committed onto it, or refused whole",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const judgedSaying = {
   id: "01a06416-44f2-7385-b6de-88045505b3db",
   pageTypeSlug: "module",
+  type: "module",
   slug: "judged-saying",
   definition: "what an answer says the checks judged, counted over the paths a check reaches",
   code: "ts",

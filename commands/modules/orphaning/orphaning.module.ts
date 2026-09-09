@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const orphaning = {
   id: "01a0726f-357a-7a8d-a206-67afe4197ddb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "orphaning",
   definition: "the importers a change would leave reaching a path that change takes away",
   code: "ts",

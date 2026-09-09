@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const wanArguing = {
   id: "01a072fa-322b-78f2-bd8b-a4fa1b843b1d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "wan-arguing",
   definition: "the arguments a wan call was made with, read off the command line",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const typeGenerating = {
   id: "01a087a6-ed6a-7836-81f3-764344e58378",
   pageTypeSlug: "module",
+  type: "module",
   slug: "type-generating",
   definition: "the types a page type's generator writes for every page of that page type",
   code: "ts",

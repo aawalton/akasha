@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const domainReading = {
   id: "01a06949-b280-73e9-9ded-65530eee9efa",
   pageTypeSlug: "module",
+  type: "module",
   slug: "domain-reading",
   definition: "the path, slug and address of every domain page in a repo",
   code: "ts",
