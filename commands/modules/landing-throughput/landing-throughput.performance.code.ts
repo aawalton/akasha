@@ -115,7 +115,7 @@ async function whyOfFirst(
 }
 
 export async function measured(from: string): Promise<readonly string[]> {
-  const landingAt = join(from, "command-system/landing/landing.module.code.ts")
+  const landingAt = join(from, "commands/modules/landing/landing.module.code.ts")
   const scratch = scratchWorld()
   try {
     const root = seeded(scratch)
