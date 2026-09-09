@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const chevaliers = {
   id: "01a0657e-01c4-706b-a0a9-5e7b13eea71f",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "chevaliers",
   title: "Chevaliers",
   world: "the-wandering-inn",
