@@ -52,7 +52,6 @@ export const commandSystem = {
     "module/file-arguing",
     "module/mechanical-filing",
     "module/change-acting",
-    "module/export-naming",
     "module/edits-landing",
     "module/namespace-listing",
     "module/refusals-keeping",

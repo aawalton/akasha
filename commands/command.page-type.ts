@@ -58,6 +58,7 @@ export const command = {
     "module/source-globbing",
     "module/worked-typing",
     "module/type-generating",
+    "module/export-naming",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",
