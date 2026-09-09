@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { said } from "@akasha/utils/run/running"
-import { writingUnder } from "../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { writingUnder } from "../../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import { type Apps, IOS_APP, kindNamed, WEB_APP } from "./deploy-kind-reading.module.code.ts"
 
 const HOLD = "/var/tmp"

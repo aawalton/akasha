@@ -3,7 +3,7 @@ import { mobileApps } from "@akasha/mobile-cli/mobile-app"
 import {
   namedAmong,
   pagesUnder,
-} from "../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
+} from "../../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
 
 export const WEB_APP = "web-app"
 
