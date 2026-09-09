@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0297338AHavenInHell = {
   id: "01a06730-4ec3-7fb0-8582-582c74284374",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0297-338-a-haven-in-hell",
   title: "338 A Haven in Hell",
   story: "the-new-world",

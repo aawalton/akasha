@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0418458RebirthAndOasis = {
   id: "01a06730-4f0b-77d2-9835-5fc3f5a9daef",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0418-458-rebirth-and-oasis",
   title: "458 Rebirth and Oasis",
   story: "the-new-world",

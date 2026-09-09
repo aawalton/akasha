@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0425465HellIsEverchanging = {
   id: "01a06730-4f10-7b06-afd8-b2d6a56085db",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0425-465-hell-is-everchanging",
   title: "465 Hell is Everchanging",
   story: "the-new-world",

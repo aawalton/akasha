@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0122Chapter1250FirstPhaseGuards = {
   id: "01a06730-4e0a-7bf4-ae0f-db9d4fc22443",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0122-chapter-1250-first-phase-guards",
   title: "Chapter 1250 - First Phase: Guards",
   story: "story-read/the-primal-hunter",

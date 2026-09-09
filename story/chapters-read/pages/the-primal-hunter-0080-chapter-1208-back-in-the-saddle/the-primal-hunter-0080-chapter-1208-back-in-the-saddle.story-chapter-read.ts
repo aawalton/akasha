@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0080Chapter1208BackInTheSaddle = {
   id: "01a06730-4df4-7aa4-91b1-4c7dd7d4535e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0080-chapter-1208-back-in-the-saddle",
   title: "Chapter 1208 - Back In the Saddle",
   story: "story-read/the-primal-hunter",

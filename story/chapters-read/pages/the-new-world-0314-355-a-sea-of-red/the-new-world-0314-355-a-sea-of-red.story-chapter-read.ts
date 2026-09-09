@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0314355ASeaOfRed = {
   id: "01a06730-4ecb-7841-ac68-be56ab2f6f8c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0314-355-a-sea-of-red",
   title: "355 A Sea of Red",
   story: "the-new-world",

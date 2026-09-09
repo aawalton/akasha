@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0066Chapter1194JobTransfer = {
   id: "01a06730-4dee-7357-a18d-f4d94dfb957e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0066-chapter-1194-job-transfer",
   title: "Chapter 1194 - Job Transfer",
   story: "story-read/the-primal-hunter",

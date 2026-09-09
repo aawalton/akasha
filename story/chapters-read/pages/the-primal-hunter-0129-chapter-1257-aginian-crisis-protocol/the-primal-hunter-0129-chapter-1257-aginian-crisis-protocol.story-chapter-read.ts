@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0129Chapter1257AginianCrisisProtocol = {
   id: "01a06730-4e0d-7224-a29d-5b067f4cd27f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0129-chapter-1257-aginian-crisis-protocol",
   title: "Chapter 1257 - Aginian Crisis Protocol",
   story: "story-read/the-primal-hunter",

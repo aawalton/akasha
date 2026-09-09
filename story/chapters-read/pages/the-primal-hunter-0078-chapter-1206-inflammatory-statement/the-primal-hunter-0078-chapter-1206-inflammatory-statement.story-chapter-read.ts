@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0078Chapter1206InflammatoryStatement = {
   id: "01a06730-4df3-7991-b29d-d37f47a04f3c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0078-chapter-1206-inflammatory-statement",
   title: "Chapter 1206 - Inflammatory Statement",
   story: "story-read/the-primal-hunter",

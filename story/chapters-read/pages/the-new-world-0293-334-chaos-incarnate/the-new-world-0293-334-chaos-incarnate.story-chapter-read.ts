@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0293334ChaosIncarnate = {
   id: "01a06730-4ec2-7077-a1e1-cb2854317f44",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0293-334-chaos-incarnate",
   title: "334 Chaos Incarnate",
   story: "the-new-world",

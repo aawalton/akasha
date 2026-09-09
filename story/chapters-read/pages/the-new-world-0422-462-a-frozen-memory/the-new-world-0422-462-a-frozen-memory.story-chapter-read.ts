@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0422462AFrozenMemory = {
   id: "01a06730-4f0c-7bd1-9573-0f80d1778114",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0422-462-a-frozen-memory",
   title: "462 A Frozen Memory",
   story: "the-new-world",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0329370WordsUtteredLawsMade = {
   id: "01a06730-4ecf-7138-839c-859c7c4f41ee",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0329-370-words-uttered-laws-made",
   title: "370 Words Uttered, Laws Made",
   story: "the-new-world",

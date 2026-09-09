@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0030Chapter1158ADayInHolstredSLifeFullOfSurprises = {
   id: "01a06730-4dd9-75eb-aba1-6f4fe1d9109c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0030-chapter-1158-a-day-in-holstred-s-life-full-of-surprises",
   title: "Chapter 1158 - A Day In Holstred's Life Full of Surprises",
   story: "story-read/the-primal-hunter",

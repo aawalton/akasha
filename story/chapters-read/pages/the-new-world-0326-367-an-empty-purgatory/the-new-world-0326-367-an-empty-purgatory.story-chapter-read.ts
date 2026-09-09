@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0326367AnEmptyPurgatory = {
   id: "01a06730-4ecf-76f4-bdf5-e847e89f00da",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0326-367-an-empty-purgatory",
   title: "367 An Empty Purgatory",
   story: "the-new-world",

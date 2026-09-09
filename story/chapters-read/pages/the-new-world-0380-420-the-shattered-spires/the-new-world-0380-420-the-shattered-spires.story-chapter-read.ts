@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0380420TheShatteredSpires = {
   id: "01a06730-4eec-7a96-b57e-1ebcb55fedfa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0380-420-the-shattered-spires",
   title: "420 The Shattered Spires",
   story: "the-new-world",

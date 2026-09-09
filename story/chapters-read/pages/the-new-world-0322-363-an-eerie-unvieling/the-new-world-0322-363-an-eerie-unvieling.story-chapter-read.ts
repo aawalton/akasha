@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0322363AnEerieUnvieling = {
   id: "01a06730-4ece-7fef-b4b1-b72da558558a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0322-363-an-eerie-unvieling",
   title: "363 An Eerie Unvieling",
   story: "the-new-world",

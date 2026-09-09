@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0142Chapter1269TakingStockOneLastTime = {
   id: "01a06730-4e12-729d-832c-88106775c246",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0142-chapter-1269-taking-stock-one-last-time",
   title: "Chapter 1269 - Taking Stock One Last Time",
   story: "story-read/the-primal-hunter",

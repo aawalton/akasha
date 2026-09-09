@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0385425AMomentBetween = {
   id: "01a06730-4eef-78e5-9e1c-94556bc64434",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0385-425-a-moment-between",
   title: "425 A Moment Between",
   story: "the-new-world",

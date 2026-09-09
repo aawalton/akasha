@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0350390AWarpedPast = {
   id: "01a06730-4ed7-7082-b355-2b2d6340c0b5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0350-390-a-warped-past",
   title: "390 A Warped Past",
   story: "the-new-world",

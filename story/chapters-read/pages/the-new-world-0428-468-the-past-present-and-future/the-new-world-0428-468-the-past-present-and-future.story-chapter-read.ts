@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0428468ThePastPresentAndFuture = {
   id: "01a06730-4f12-7749-b39f-6531d375982b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0428-468-the-past-present-and-future",
   title: "468 The Past, Present, and Future",
   story: "the-new-world",

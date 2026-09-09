@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePathOfAscension0063ThePathOfAscensionChapter365 = {
   id: "01a06730-5025-7ac3-961c-1aaa589c77f6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-path-of-ascension-0063-the-path-of-ascension-chapter-365",
   title: "The Path of Ascension Chapter 365",
   story: "story-read/the-path-of-ascension",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0017Chapter1145TwoSmallSprouts = {
   id: "01a06730-4dcf-79a1-90bd-f0945ccbcc7d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0017-chapter-1145-two-small-sprouts",
   title: " Chapter 1145 - Two Small Sprouts",
   story: "story-read/the-primal-hunter",

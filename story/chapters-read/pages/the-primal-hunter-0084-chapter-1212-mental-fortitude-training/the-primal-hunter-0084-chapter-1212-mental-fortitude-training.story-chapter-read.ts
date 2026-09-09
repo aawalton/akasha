@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0084Chapter1212MentalFortitudeTraining = {
   id: "01a06730-4df5-7a9a-aff2-7837d280033b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0084-chapter-1212-mental-fortitude-training",
   title: "Chapter 1212 - Mental Fortitude Training",
   story: "story-read/the-primal-hunter",

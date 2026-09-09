@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0335376AChatAfterTimeSEnd = {
   id: "01a06730-4ed1-7d26-9893-b22bad20c65d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0335-376-a-chat-after-time-s-end",
   title: "376 A Chat After Time's End",
   story: "the-new-world",

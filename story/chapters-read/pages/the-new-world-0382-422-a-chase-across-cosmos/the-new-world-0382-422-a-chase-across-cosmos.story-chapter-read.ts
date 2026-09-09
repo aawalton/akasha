@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0382422AChaseAcrossCosmos = {
   id: "01a06730-4eed-7d79-b585-eabc1d2eb3a6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0382-422-a-chase-across-cosmos",
   title: "422 A Chase Across Cosmos",
   story: "the-new-world",

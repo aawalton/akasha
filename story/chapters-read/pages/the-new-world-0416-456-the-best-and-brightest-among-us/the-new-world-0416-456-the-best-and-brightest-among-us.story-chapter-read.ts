@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0416456TheBestAndBrightestAmongUs = {
   id: "01a06730-4f0a-7d6c-8840-a17a81ff45b6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0416-456-the-best-and-brightest-among-us",
   title: "456 The Best and Brightest Among Us",
   story: "the-new-world",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0426466FiramniaTheImplacable = {
   id: "01a06730-4f10-78bb-9402-06338782dc12",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0426-466-firamnia-the-implacable",
   title: "466 Firamnia, the Implacable",
   story: "the-new-world",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0334375AMightUnseenAndUndeniable = {
   id: "01a06730-4ed1-7f88-b149-27a571d1408b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0334-375-a-might-unseen-and-undeniable",
   title: "375 A Might Unseen and Undeniable",
   story: "the-new-world",

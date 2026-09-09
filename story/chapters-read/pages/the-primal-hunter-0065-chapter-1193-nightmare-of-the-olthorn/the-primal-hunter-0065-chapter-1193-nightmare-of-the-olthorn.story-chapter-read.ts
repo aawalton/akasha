@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0065Chapter1193NightmareOfTheOlthorn = {
   id: "01a06730-4dee-78e7-818a-89f9c8e47ec4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0065-chapter-1193-nightmare-of-the-olthorn",
   title: "Chapter 1193 - Nightmare of the Olthorn",
   story: "story-read/the-primal-hunter",

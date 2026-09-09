@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0008Chapter8AWonderfulNight = {
   id: "01a06730-4dca-7ca1-a4e2-fde747382f04",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0008-chapter-8-a-wonderful-night",
   title: "Chapter 8 - A wonderful night",
   story: "story-read/the-primal-hunter",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0395435TheEthosOfTheUndead = {
   id: "01a06730-4ef6-7630-8e2b-807f6783ab69",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0395-435-the-ethos-of-the-undead",
   title: "435 The Ethos of the Undead",
   story: "the-new-world",

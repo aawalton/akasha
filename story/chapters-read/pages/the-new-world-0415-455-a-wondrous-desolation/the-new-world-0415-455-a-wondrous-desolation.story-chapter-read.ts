@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0415455AWondrousDesolation = {
   id: "01a06730-4f09-7857-ae41-4ee7559c0efb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0415-455-a-wondrous-desolation",
   title: "455 A Wondrous Desolation",
   story: "the-new-world",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0325366AMindOfMetal = {
   id: "01a06730-4ecf-7e78-9c00-4e0dff71f442",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0325-366-a-mind-of-metal",
   title: "366 A Mind of Metal",
   story: "the-new-world",

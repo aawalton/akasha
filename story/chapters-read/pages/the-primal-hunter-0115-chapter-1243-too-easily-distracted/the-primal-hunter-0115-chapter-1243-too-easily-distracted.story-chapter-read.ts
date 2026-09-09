@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0115Chapter1243TooEasilyDistracted = {
   id: "01a06730-4e08-7e31-9349-1598f216dda8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0115-chapter-1243-too-easily-distracted",
   title: "Chapter 1243 - Too Easily Distracted",
   story: "story-read/the-primal-hunter",

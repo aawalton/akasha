@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0090Chapter1218AMarchThroughNothingness = {
   id: "01a06730-4df9-772b-a64c-986fab93b965",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0090-chapter-1218-a-march-through-nothingness",
   title: "Chapter 1218 - A March Through Nothingness",
   story: "story-read/the-primal-hunter",

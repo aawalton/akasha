@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0411451AFrozenSea = {
   id: "01a06730-4f04-74fa-a3cf-69329d13b9ea",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0411-451-a-frozen-sea",
   title: "451 A Frozen Sea",
   story: "the-new-world",

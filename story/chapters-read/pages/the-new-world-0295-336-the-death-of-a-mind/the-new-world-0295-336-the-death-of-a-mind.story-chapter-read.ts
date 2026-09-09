@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0295336TheDeathOfAMind = {
   id: "01a06730-4ec3-73b4-adf1-a6a5b0071777",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0295-336-the-death-of-a-mind",
   title: "336 The Death of a Mind",
   story: "the-new-world",

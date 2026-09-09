@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0391431LivingByTheSkinOfYourTeeth = {
   id: "01a06730-4ef2-729f-b874-85ab350f0275",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0391-431-living-by-the-skin-of-your-teeth",
   title: "431 Living by the Skin of Your Teeth",
   story: "the-new-world",

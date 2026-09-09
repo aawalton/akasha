@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0320361OutWithWeakness = {
   id: "01a06730-4ecd-79b8-b895-439a31ad586f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0320-361-out-with-weakness",
   title: "361 Out With Weakness",
   story: "the-new-world",

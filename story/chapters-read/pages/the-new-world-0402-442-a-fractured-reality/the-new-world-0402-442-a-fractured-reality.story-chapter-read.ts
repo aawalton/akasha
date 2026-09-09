@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0402442AFracturedReality = {
   id: "01a06730-4efe-7dfc-95b1-86c121997881",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0402-442-a-fractured-reality",
   title: "442  A Fractured Reality",
   story: "the-new-world",

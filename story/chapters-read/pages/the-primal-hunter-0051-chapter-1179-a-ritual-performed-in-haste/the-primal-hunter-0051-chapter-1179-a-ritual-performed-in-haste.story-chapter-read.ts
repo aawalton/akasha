@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0051Chapter1179ARitualPerformedInHaste = {
   id: "01a06730-4de6-72c5-9580-0c00dd7c91fe",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0051-chapter-1179-a-ritual-performed-in-haste",
   title: "Chapter 1179 - A Ritual Performed In Haste",
   story: "story-read/the-primal-hunter",

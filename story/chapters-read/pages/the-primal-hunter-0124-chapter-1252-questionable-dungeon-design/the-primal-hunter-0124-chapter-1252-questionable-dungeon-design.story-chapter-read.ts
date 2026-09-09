@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0124Chapter1252QuestionableDungeonDesign = {
   id: "01a06730-4e0b-7fd1-83e7-a2e9cb78143a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0124-chapter-1252-questionable-dungeon-design",
   title: "Chapter 1252 - Questionable Dungeon Design",
   story: "story-read/the-primal-hunter",

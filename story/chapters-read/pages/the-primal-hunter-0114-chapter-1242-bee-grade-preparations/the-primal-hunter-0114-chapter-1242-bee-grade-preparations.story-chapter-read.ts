@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0114Chapter1242BeeGradePreparations = {
   id: "01a06730-4e07-742a-85e1-a9b9f5f50108",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0114-chapter-1242-bee-grade-preparations",
   title: "Chapter 1242 - Bee-Grade Preparations",
   story: "story-read/the-primal-hunter",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0022Chapter1150ReturnOfTheKing2GoldEdition = {
   id: "01a06730-4dd6-7940-8531-6b71de494187",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0022-chapter-1150-return-of-the-king-2-gold-edition",
   title: "Chapter 1150 - Return of the King 2: Gold Edition",
   story: "story-read/the-primal-hunter",

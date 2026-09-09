@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0386426UnweavingAPuzzle = {
   id: "01a06730-4ef0-70a5-a06c-7b54aad8f308",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0386-426-unweaving-a-puzzle",
   title: "426 Unweaving a Puzzle",
   story: "the-new-world",

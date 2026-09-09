@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePathOfAscension0172AsterPlushies = {
   id: "01a06730-5088-729f-9e7c-183c962d2140",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-path-of-ascension-0172-aster-plushies",
   title: "Aster plushies!",
   story: "story-read/the-path-of-ascension",

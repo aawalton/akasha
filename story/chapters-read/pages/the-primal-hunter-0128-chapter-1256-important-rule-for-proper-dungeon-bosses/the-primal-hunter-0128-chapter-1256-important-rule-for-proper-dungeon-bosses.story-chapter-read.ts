@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0128Chapter1256ImportantRuleForProperDungeonBosses = {
   id: "01a06730-4e0c-7fd4-845f-aae61706174f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0128-chapter-1256-important-rule-for-proper-dungeon-bosses",
   title: "Chapter 1256 - Important Rule For Proper Dungeon Bosses",
   story: "story-read/the-primal-hunter",

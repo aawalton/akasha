@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0417457TheMysteriesOfMana = {
   id: "01a06730-4f0b-74e9-af61-9cd06fb1d29b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0417-457-the-mysteries-of-mana",
   title: "457 The Mysteries of Mana",
   story: "the-new-world",

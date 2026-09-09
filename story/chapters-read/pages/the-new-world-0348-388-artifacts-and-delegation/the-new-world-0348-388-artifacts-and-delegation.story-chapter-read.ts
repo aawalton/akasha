@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0348388ArtifactsAndDelegation = {
   id: "01a06730-4ed7-7a05-9fd7-aae52dd3f5fb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0348-388-artifacts-and-delegation",
   title: "388 Artifacts and Delegation",
   story: "the-new-world",

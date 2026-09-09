@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0317358CauseAndEffect = {
   id: "01a06730-4ecc-7129-ac96-55331f69292a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0317-358-cause-and-effect",
   title: "358 Cause and Effect",
   story: "the-new-world",

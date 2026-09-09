@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0379419TheMadGods = {
   id: "01a06730-4eec-7514-845d-b6a276e01d25",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0379-419-the-mad-gods",
   title: "419 The Mad Gods",
   story: "the-new-world",

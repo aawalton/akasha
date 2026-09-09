@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0403443FindingAPath = {
   id: "01a06730-4eff-7b6c-839b-8cd23dcfb4ed",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0403-443-finding-a-path",
   title: "443 Finding a Path",
   story: "the-new-world",

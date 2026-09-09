@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0331372ABrokenTrust = {
   id: "01a06730-4ed0-7195-9abd-27b3be7629c3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0331-372-a-broken-trust",
   title: "372 A Broken Trust",
   story: "the-new-world",

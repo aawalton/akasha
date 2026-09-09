@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0063Chapter1191JasperABlessedLittleGuy = {
   id: "01a06730-4deb-71a5-b8a6-c6cafa440a95",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0063-chapter-1191-jasper-a-blessed-little-guy",
   title: "Chapter 1191 - Jasper, A Blessed Little Guy",
   story: "story-read/the-primal-hunter",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0419459ToConquerOneSDarkness = {
   id: "01a06730-4f0b-722d-8cdb-fcce91077568",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0419-459-to-conquer-one-s-darkness",
   title: "459 To conquer One's Darkness",
   story: "the-new-world",

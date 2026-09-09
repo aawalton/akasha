@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0019Chapter1147ABloodyHardTime = {
   id: "01a06730-4dd1-7af0-b449-4a2fbd94821d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0019-chapter-1147-a-bloody-hard-time",
   title: "Chapter 1147 - A Bloody Hard Time",
   story: "story-read/the-primal-hunter",

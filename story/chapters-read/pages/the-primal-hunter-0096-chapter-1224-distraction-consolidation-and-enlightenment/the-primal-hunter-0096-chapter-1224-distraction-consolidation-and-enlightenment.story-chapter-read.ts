@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0096Chapter1224DistractionConsolidationAndEnlightenment = {
   id: "01a06730-4dfb-778f-9519-5450cdd8d262",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0096-chapter-1224-distraction-consolidation-and-enlightenment",
   title: "Chapter 1224 - Distraction, Consolidation & Enlightenment",
   story: "story-read/the-primal-hunter",

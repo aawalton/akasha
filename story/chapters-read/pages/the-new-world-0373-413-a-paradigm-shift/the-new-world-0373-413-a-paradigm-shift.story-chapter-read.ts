@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0373413AParadigmShift = {
   id: "01a06730-4ee7-7dda-be0f-42c5a5af7b30",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0373-413-a-paradigm-shift",
   title: "413 A Paradigm Shift",
   story: "the-new-world",

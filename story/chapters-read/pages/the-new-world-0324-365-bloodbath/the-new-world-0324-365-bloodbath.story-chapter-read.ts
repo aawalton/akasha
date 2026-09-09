@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0324365Bloodbath = {
   id: "01a06730-4ece-7504-af1b-4aa70e182fd1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0324-365-bloodbath",
   title: "365 Bloodbath",
   story: "the-new-world",

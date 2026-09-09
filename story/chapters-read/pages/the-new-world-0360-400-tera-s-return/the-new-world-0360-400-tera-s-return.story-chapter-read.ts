@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0360400TeraSReturn = {
   id: "01a06730-4edf-749e-80c2-0d8a9c92ac68",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0360-400-tera-s-return",
   title: "400 Tera's Return",
   story: "the-new-world",

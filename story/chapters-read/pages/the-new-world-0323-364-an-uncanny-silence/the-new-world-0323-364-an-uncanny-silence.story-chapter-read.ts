@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0323364AnUncannySilence = {
   id: "01a06730-4ece-7fab-9941-3b3206da9ab4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0323-364-an-uncanny-silence",
   title: "364 An Uncanny Silence",
   story: "the-new-world",

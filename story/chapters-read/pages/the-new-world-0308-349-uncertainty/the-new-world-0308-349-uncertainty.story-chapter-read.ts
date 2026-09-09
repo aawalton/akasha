@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0308349Uncertainty = {
   id: "01a06730-4ec9-7fe8-9d61-5c48c620e1f2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0308-349-uncertainty",
   title: "349 Uncertainty",
   story: "the-new-world",

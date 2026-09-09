@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0133Chapter1260CGradeClassEvolutionQuest = {
   id: "01a06730-4e0e-7337-991d-97ea6d179cc4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0133-chapter-1260-c-grade-class-evolution-quest",
   title: "Chapter 1260 - C-grade Class Evolution Quest",
   story: "story-read/the-primal-hunter",

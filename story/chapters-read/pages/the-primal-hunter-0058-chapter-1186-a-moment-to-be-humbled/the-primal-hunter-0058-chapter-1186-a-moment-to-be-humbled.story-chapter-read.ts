@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0058Chapter1186AMomentToBeHumbled = {
   id: "01a06730-4de9-7b08-8c6a-f4621a7f65e1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0058-chapter-1186-a-moment-to-be-humbled",
   title: "Chapter 1186 - A Moment To Be Humbled",
   story: "story-read/the-primal-hunter",

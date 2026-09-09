@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0130PremiumEditionHardcovers = {
   id: "01a06730-4e0d-7292-b267-d88c15a407bc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0130-premium-edition-hardcovers",
   title: "Premium Edition Hardcovers",
   story: "story-read/the-primal-hunter",

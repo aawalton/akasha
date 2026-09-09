@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0021Chapter1149ABurstOfVenom = {
   id: "01a06730-4dd5-7c9e-bfe7-405ab5bc4a7e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0021-chapter-1149-a-burst-of-venom",
   title: "Chapter 1149 - A Burst of Venom",
   story: "story-read/the-primal-hunter",

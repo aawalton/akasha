@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0024Chapter1152NevermorePartyPartyInvites = {
   id: "01a06730-4dd7-7ffa-9d0c-8ce440b8d786",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0024-chapter-1152-nevermore-party-party-invites",
   title: "Chapter 1152 - Nevermore Party Party Invites",
   story: "story-read/the-primal-hunter",

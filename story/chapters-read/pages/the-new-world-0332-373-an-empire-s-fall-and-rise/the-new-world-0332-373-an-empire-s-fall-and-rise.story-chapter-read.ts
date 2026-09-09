@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0332373AnEmpireSFallAndRise = {
   id: "01a06730-4ed0-768e-b159-7faa26f50ddc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0332-373-an-empire-s-fall-and-rise",
   title: "373 An Empire's Fall and Rise",
   story: "the-new-world",

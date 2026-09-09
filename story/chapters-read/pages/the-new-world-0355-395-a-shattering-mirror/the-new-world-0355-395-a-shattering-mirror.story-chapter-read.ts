@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0355395AShatteringMirror = {
   id: "01a06730-4ed9-7cfb-86bf-4366332fe291",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0355-395-a-shattering-mirror",
   title: "395 A Shattering Mirror",
   story: "the-new-world",

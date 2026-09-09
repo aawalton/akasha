@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0069Chapter1197AnUnaVoidAbleGamble = {
   id: "01a06730-4def-788f-a1ea-eaa8dead1192",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0069-chapter-1197-an-una-void-able-gamble",
   title: "Chapter 1197 - An Una-Void-Able Gamble",
   story: "story-read/the-primal-hunter",

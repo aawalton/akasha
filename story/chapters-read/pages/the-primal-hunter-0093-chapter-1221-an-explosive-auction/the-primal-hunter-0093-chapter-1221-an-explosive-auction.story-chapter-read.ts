@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0093Chapter1221AnExplosiveAuction = {
   id: "01a06730-4dfa-7a23-9486-e3589bf69ecf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0093-chapter-1221-an-explosive-auction",
   title: "Chapter 1221 - An Explosive Auction",
   story: "story-read/the-primal-hunter",

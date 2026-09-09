@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0370410ABrokenHomeAndABrokenMan = {
   id: "01a06730-4ee5-7b19-a6b4-2dc03271e829",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0370-410-a-broken-home-and-a-broken-man",
   title: "410 A Broken Home and a Broken Man",
   story: "the-new-world",

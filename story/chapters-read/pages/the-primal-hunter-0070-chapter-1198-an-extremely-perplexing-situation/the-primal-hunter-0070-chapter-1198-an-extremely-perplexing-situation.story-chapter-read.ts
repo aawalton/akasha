@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0070Chapter1198AnExtremelyPerplexingSituation = {
   id: "01a06730-4df0-7e5b-8396-4d999b7d7619",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0070-chapter-1198-an-extremely-perplexing-situation",
   title: "Chapter 1198 - An Extremely Perplexing Situation",
   story: "story-read/the-primal-hunter",

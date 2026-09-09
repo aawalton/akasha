@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0085Chapter1213EvaluatingFeedback = {
   id: "01a06730-4df6-7c1c-84cd-cccc62234dd1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0085-chapter-1213-evaluating-feedback",
   title: "Chapter 1213 - Evaluating Feedback",
   story: "story-read/the-primal-hunter",

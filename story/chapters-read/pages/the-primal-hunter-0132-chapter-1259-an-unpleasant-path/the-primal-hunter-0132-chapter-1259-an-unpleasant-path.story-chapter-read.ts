@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0132Chapter1259AnUnpleasantPath = {
   id: "01a06730-4e0d-795b-95c4-8e752c340f2e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0132-chapter-1259-an-unpleasant-path",
   title: "Chapter 1259 - An Unpleasant Path",
   story: "story-read/the-primal-hunter",

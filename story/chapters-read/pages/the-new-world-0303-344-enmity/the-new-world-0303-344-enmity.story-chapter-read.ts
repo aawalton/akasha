@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0303344Enmity = {
   id: "01a06730-4ec6-700d-b294-b8db32287c85",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0303-344-enmity",
   title: "344 Enmity",
   story: "the-new-world",

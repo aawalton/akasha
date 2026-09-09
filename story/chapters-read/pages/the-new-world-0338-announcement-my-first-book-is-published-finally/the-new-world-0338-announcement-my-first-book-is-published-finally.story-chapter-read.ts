@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theNewWorld0338AnnouncementMyFirstBookIsPublishedFinally = {
   id: "01a06730-4ed2-77ed-a71d-803d096878f5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-new-world-0338-announcement-my-first-book-is-published-finally",
   title: "Announcement: My First Book Is Published. Finally.",
   story: "the-new-world",
