@@ -51,6 +51,19 @@ export const pathClaiming = {
     {
       invariantKind: "departure",
       statement:
+        "A page whose type declares a file property group claims a file beside the page for each member.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each member's file is named by the group's slug and then the member's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page of a group's own page type claims no member's file beside that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A file property declared uncommitted is claimed under the name an uncommitted file has.",
     },
     {

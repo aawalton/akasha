@@ -5,7 +5,7 @@ import {
   filedAs,
   HELD_PAGE,
 } from "../entries/index-entries.module.test-fixtures.ts"
-import { pathsOf, sidecarsIn } from "./path-claiming.module.code.ts"
+import { claimsOf, pathsOf, sidecarsIn } from "./path-claiming.module.code.ts"
 
 test("a property no page property declares to be a file is filed under no path", () => {
   const value = { id: A, pageTypeSlug: "domain", slug: "a", definition: "what is held" }
@@ -156,5 +156,49 @@ test("a page whose type declares an uncommitted value claims the values file bes
   expect(claimingBeside({ uncommitted: true }, filedAs("held-type", {}))).toEqual([
     HELD_PAGE,
     VALUES,
+  ])
+})
+
+const GROUPING = [
+  { id: "1", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
+  {
+    id: "2",
+    pageTypeSlug: "page-type",
+    slug: "module-property-group",
+    extends: ["page-type/file-property-group"],
+    properties: [
+      { pageProperty: "code-file-property/code", fixed: "ts" },
+      { pageProperty: "code-file-property/test", fixed: "ts" },
+    ],
+  },
+  {
+    id: "3",
+    pageTypeSlug: "page-type",
+    slug: "code-check",
+    properties: [{ pageProperty: "module-property-group/audit" }],
+  },
+]
+
+test("a page type declaring a file property group has a file beside it for every member", () => {
+  expect([...(sidecarsIn(GROUPING).get("code-check")?.besides ?? [])]).toEqual([
+    ["audit.code", { held: "ts", uncommitted: false }],
+    ["audit.test", { held: "ts", uncommitted: false }],
+  ])
+})
+
+test("a page of a file property group page type has no file of its own beside it", () => {
+  expect([...(sidecarsIn(GROUPING).get("module-property-group")?.besides ?? [])]).toEqual([])
+})
+
+test("a page carrying a group claims a file for each member while stating none of them", () => {
+  const value = { id: A, pageTypeSlug: "code-check", slug: "a" }
+  const filed = filedAs("code-check", { "audit.code": null, "audit.test": null })
+
+  expect(
+    claimsOf(value, "/repo/deep/a.code-check.ts", "/repo", filed, sidecarsIn(GROUPING))
+  ).toEqual([
+    "deep/a.code-check.ts",
+    "deep/a.code-check.audit.code.ts",
+    "deep/a.code-check.audit.test.ts",
   ])
 })
