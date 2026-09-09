@@ -5,7 +5,7 @@ export const theNewWorld0240281WielderOfMonsters = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0240-281-wielder-of-monsters",
   title: "281 Wielder of Monsters",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 240,
   ownLength: 5365,
   unitSlug: "words",

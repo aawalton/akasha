@@ -5,7 +5,7 @@ export const theNewWorld0310351EthicsAndArmies = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0310-351-ethics-and-armies",
   title: "351 Ethics and Armies",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 310,
   ownLength: 3004,
   unitSlug: "words",

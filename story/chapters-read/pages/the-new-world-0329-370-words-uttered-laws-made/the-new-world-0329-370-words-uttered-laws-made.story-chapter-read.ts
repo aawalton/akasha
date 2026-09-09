@@ -5,7 +5,7 @@ export const theNewWorld0329370WordsUtteredLawsMade = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0329-370-words-uttered-laws-made",
   title: "370 Words Uttered, Laws Made",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 329,
   ownLength: 1018,
   unitSlug: "words",

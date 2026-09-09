@@ -5,7 +5,7 @@ export const theNewWorld0279320DimensionalWakes = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0279-320-dimensional-wakes",
   title: "320 Dimensional Wakes",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 279,
   ownLength: 2583,
   unitSlug: "words",

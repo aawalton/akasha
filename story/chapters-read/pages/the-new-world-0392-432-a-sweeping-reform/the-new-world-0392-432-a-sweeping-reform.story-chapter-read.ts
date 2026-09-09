@@ -5,7 +5,7 @@ export const theNewWorld0392432ASweepingReform = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0392-432-a-sweeping-reform",
   title: "432  A Sweeping Reform",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 392,
   ownLength: 3902,
   unitSlug: "words",

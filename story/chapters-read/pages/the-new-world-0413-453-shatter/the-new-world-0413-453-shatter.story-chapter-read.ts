@@ -5,7 +5,7 @@ export const theNewWorld0413453Shatter = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0413-453-shatter",
   title: "453 Shatter",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 413,
   ownLength: 4348,
   unitSlug: "words",

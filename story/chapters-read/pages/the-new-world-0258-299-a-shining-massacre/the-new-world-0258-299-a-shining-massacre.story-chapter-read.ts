@@ -5,7 +5,7 @@ export const theNewWorld0258299AShiningMassacre = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0258-299-a-shining-massacre",
   title: "299 A Shining Massacre",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 258,
   ownLength: 4261,
   unitSlug: "words",

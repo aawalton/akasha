@@ -5,7 +5,7 @@ export const theNewWorld0362402WhatStartsAFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0362-402-what-starts-a-flame",
   title: "402 What Starts a Flame",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 362,
   ownLength: 4003,
   unitSlug: "words",

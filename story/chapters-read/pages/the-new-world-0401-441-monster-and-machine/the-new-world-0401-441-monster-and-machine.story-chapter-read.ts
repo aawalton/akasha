@@ -5,7 +5,7 @@ export const theNewWorld0401441MonsterAndMachine = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0401-441-monster-and-machine",
   title: "441 Monster and Machine",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 401,
   ownLength: 4128,
   unitSlug: "words",

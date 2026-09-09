@@ -5,7 +5,7 @@ export const theNewWorld0354394AMiredPast = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0354-394-a-mired-past",
   title: "394  A Mired Past",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 354,
   ownLength: 2717,
   unitSlug: "words",

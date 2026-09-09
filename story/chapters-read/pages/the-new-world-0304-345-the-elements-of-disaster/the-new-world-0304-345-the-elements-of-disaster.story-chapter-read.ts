@@ -5,7 +5,7 @@ export const theNewWorld0304345TheElementsOfDisaster = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-new-world-0304-345-the-elements-of-disaster",
   title: "345 The Elements of Disaster",
-  partOfCollectionSlugs: ["the-new-world"],
+  storySlug: "the-new-world",
   position: 304,
   ownLength: 7137,
   unitSlug: "words",
