@@ -50,5 +50,10 @@ export const sectionsOfTheBookAbove = {
       invariantKind: "gap",
       statement: "A section inside a folder is held by the section the folder is named for.",
     },
+    {
+      invariantKind: "gap",
+      statement:
+        "A section under another section names that section by an address rather than a slug.",
+    },
   ],
 } as const satisfies FolderShape
