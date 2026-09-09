@@ -6,7 +6,7 @@ export const monarchSync = {
   type: "workstation-service",
   slug: "monarch-sync",
   definition: "the service copying the whole of Monarch and comparing the copy against it",
-  runs: ["bun alan/harness/monarch/monarch-syncing/monarch-syncing.module.code.ts"],
+  runs: ["bun alan/harness/monarch/syncing/monarch-syncing.module.code.ts"],
   enabled: true,
   needsSecrets: true,
   systemd: {

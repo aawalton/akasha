@@ -7,7 +7,7 @@ export const inboxCountWatchService = {
   slug: "inbox-count-watch-service",
   definition: "the service taking the task counts again the moment a page lands",
   runs: [
-    "bun alan/harness/inboxes/inbox-count-watch/inbox-count-watch.module.code.ts https://alanwalton.com",
+    "bun alan/harness/inboxes/count-watch/inbox-count-watch.module.code.ts https://alanwalton.com",
   ],
   enabled: true,
   needsSecrets: true,

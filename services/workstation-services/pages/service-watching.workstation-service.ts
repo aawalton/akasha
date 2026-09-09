@@ -6,9 +6,7 @@ export const serviceWatching = {
   type: "workstation-service",
   slug: "service-watching",
   definition: "the service telling a persona that a service she answers for is broken",
-  runs: [
-    "bun service-system/workstation-services/service-watching/service-watching.module.code.ts",
-  ],
+  runs: ["bun services/workstation-services/service-watching/service-watching.module.code.ts"],
   enabled: true,
   systemd: {
     schedule: "*:*:00",
