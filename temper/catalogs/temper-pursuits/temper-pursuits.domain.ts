@@ -5,7 +5,7 @@ export const temperPursuits = {
   pageTypeSlug: "domain",
   slug: "temper-pursuits",
   definition: "what the game keeps a tally of a player having sought out",
-  pluralSlug: "temper-pursuitss",
+  pluralSlug: "temper-pursuits",
   parts: [
     "page-type/temper-achievement-category",
     "page-type/temper-antiquity-category",
