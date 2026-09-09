@@ -5,7 +5,7 @@ export const temperCompanions = {
   pageTypeSlug: "domain",
   slug: "temper-companions",
   definition: "the companions who travel with a character",
-  pluralSlug: "temper-companionss",
+  pluralSlug: "temper-companions",
   parts: [
     "page-type/temper-companion-activation-buff",
     "page-type/temper-companion-armor-slot",
