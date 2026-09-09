@@ -11,6 +11,7 @@ import {
   listedFiledIn,
 } from "@akasha/indexes/testing"
 import { everyFileUnder } from "@akasha/testing-system/walking"
+import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf, landing } from "./landing.module.code.ts"
@@ -44,6 +45,7 @@ import {
   putBackThrows,
   REFUSES,
   repoWith,
+  rowsIn,
   scratch,
   splitKept,
   splitLanded,
@@ -100,19 +102,24 @@ test("a body carrying a raw NUL and a body that is not UTF-8 come back byte for 
 test("no git outlives a landing, nor one a check throws through", async () => {
   const root = repoWith({ "one.txt": "committed", "two.txt": "committed" })
   const { reading, throwing } = gitWatching(root)
-  await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", reading)
+  await landing(root, rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }]), "held", reading)
   expect(gitOver(root)).toEqual([])
-  await expect(landing(root, [{ path: "two.txt", body: null }], "held", throwing)).rejects.toThrow(
-    THROWN
-  )
+  await expect(
+    landing(root, rowsIn(root, [{ path: "two.txt", body: null }]), "held", throwing)
+  ).rejects.toThrow(THROWN)
   expect(gitOver(root)).toEqual([])
   expect(existsSync(join(root, "two.txt"))).toBe(true)
 })
 
 test("a landing files the index entries its page implies, with no rebuild run by hand", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  await landing(root, CARRIED, "held", ADMITS)
-  const said = await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", ADMITS)
+  await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   const filed = everythingFiled(root)
   for (const at of filedFor(ID)) expect(filed).toContain(`/${at} ${LINE}\n`)
@@ -121,7 +128,7 @@ test("a landing files the index entries its page implies, with no rebuild run by
 test("a landing that takes a page away takes its index entries with it", async () => {
   const root = await pageLanded(await edged({ "seed.txt": "held" }))
   expect(idFiledIn(root, ID)).toBe(true)
-  await landing(root, [{ path: "akasha/a.domain.ts", body: null }], "held", ADMITS)
+  await landing(root, rowsIn(root, [{ path: "akasha/a.domain.ts", body: null }]), "held", ADMITS)
   expect(idFiledIn(root, ID)).toBe(false)
   expect(listedFiledIn(root, "domain", "a")).toBe(false)
   expect(identitiesListedIn(root, "domain")).toBe(false)
@@ -129,8 +136,13 @@ test("a landing that takes a page away takes its index entries with it", async (
 
 test("a landing no check judged keeps the index all the same", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  await landing(root, CARRIED, "held", ADMITS)
-  await landing(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }], "held", NO_GATE)
+  await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
+  await landing(
+    root,
+    rowsIn(root, [{ path: "akasha/a.domain.ts", body: bytes(A) }]),
+    "held",
+    NO_GATE
+  )
   expect(idFiledIn(root, ID)).toBe(true)
 })
 
@@ -139,7 +151,7 @@ test("a refused change leaves the index as it found it, as it leaves the worktre
   const was = everythingFiled(root)
   const said = await landing(
     root,
-    [{ path: "akasha/b.domain.ts", body: bytes(A) }],
+    rowsIn(root, [{ path: "akasha/b.domain.ts", body: bytes(A) }]),
     "held",
     REFUSES
   )
@@ -159,7 +171,12 @@ test("the index two landings leave is the index a rebuild from those pages build
 test("a refused change leaves nothing behind", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
-  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", REFUSES)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }]),
+    "held",
+    REFUSES
+  )
   expect("refusals" in said).toBe(true)
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
@@ -167,7 +184,12 @@ test("a refused change leaves nothing behind", async () => {
 
 test("a refusal says nothing was written and how many changes were asked for", async () => {
   const root = repoWith({ "one.txt": "committed" })
-  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", REFUSES)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }]),
+    "held",
+    REFUSES
+  )
   const refusals = "refusals" in said ? said.refusals : []
   expect(refusals[refusals.length - 1]).toContain("nothing was written")
   expect(refusals[refusals.length - 1]).toContain("land together or not at all")
@@ -175,7 +197,12 @@ test("a refusal says nothing was written and how many changes were asked for", a
 
 test("a change that passes is written and committed onto the base it was judged against", async () => {
   const root = repoWith({ "one.txt": "committed" })
-  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   if ("refusals" in said) return
   expect(readFileSync(join(root, "new.txt"), "utf8")).toBe("proposed")
@@ -186,7 +213,7 @@ test("a change that passes is written and committed onto the base it was judged 
 
 test("a change that takes a file away removes it and commits the removal", async () => {
   const root = await edged({ "one.txt": "committed", "two.txt": "committed" })
-  const said = await landing(root, [{ path: "two.txt", body: null }], "held", ADMITS)
+  const said = await landing(root, rowsIn(root, [{ path: "two.txt", body: null }]), "held", ADMITS)
   expect("refusals" in said).toBe(false)
   if ("refusals" in said) return
   expect(existsSync(join(root, "two.txt"))).toBe(false)
@@ -194,18 +221,22 @@ test("a change that takes a file away removes it and commits the removal", async
   expect(filesIn(root)).toEqual(besides("one.txt"))
 })
 
-test("asking for nothing is refused rather than committed empty", async () => {
+test("asking for nothing is done rather than refused, and writes and commits nothing", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
   const said = await landing(root, [], "held", ADMITS)
-  expect("refusals" in said).toBe(true)
+  expect("refusals" in said).toBe(false)
+  if ("refusals" in said) return
+  expect(said.commit).toBeNull()
+  expect(said.wrote).toEqual([])
   expect(baseOf(root)).toBe(was)
 })
 
 test("a change asking for what is already there commits nothing", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
-  const said = await landing(root, [{ path: "one.txt", body: bytes("committed") }], "held", ADMITS)
+  const change: readonly FileChange[] = [{ kind: "add", path: "one.txt", content: "committed" }]
+  const said = await landing(root, change, "held", ADMITS)
   expect("refusals" in said).toBe(false)
   if ("refusals" in said) return
   expect(said.commit).toBeNull()
@@ -237,7 +268,7 @@ test("a change read against a commit that moved nothing it carries is landed", a
 
 test("a change read against the commit at HEAD is landed", async () => {
   const root = pagesRepo()
-  await landing(root, CARRIED, "held", ADMITS)
+  await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
   const said = await landedAtHead(root)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "akasha/b.txt"), "utf8")).toBe("new")
@@ -247,7 +278,7 @@ test("a change read against an abbreviated commit is read against the commit it 
   const root = pagesRepo()
   const read = git(root, ["rev-parse", "--short=10", "HEAD"]).trim()
   committedAgain(root, "later.txt", "later")
-  const change = [{ path: "akasha/a.domain.ts", body: bytes("moved") }]
+  const change = rowsIn(root, [{ path: "akasha/a.domain.ts", body: bytes("moved") }])
   const said = await landing(root, change, "m", ADMITS, null, read)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "akasha/a.domain.ts"), "utf8")).toBe("moved")
@@ -256,7 +287,7 @@ test("a change read against an abbreviated commit is read against the commit it 
 test("a change read against a name that names no commit is refused unwritten", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
-  const change = [{ path: "new.txt", body: bytes("proposed") }]
+  const change = rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }])
   const said = await landing(root, change, "m", ADMITS, null, "yesterday")
   expect("refusals" in said ? said.refusals.join("\n") : "").toContain("names no commit")
   expect(existsSync(join(root, "new.txt"))).toBe(false)
@@ -274,7 +305,9 @@ test("what was written is put back when the landing throws after writing", async
 test("a path landing outside the repository is refused by name and written nowhere", async () => {
   const root = repoWith({ "one.txt": "committed" })
   const was = baseOf(root)
-  const change = [{ path: "../escaped.txt", body: bytes("proposed") }]
+  const change: readonly FileChange[] = [
+    { kind: "add", path: "../escaped.txt", content: "proposed" },
+  ]
   const said = await landing(root, change, "held", ADMITS)
   const why = "refusals" in said ? said.refusals.join("\n") : ""
   expect(why).toContain("../escaped.txt")
@@ -285,8 +318,10 @@ test("a path landing outside the repository is refused by name and written nowhe
 
 test("a move landing outside the repository is refused and the path it came from remains", async () => {
   const root = repoWith({ "one.txt": "committed" })
-  const moves = [{ from: "one.txt", to: "../escaped.txt" }]
-  const said = await landing(root, [], "held", ADMITS, null, null, [], moves)
+  const moves: readonly FileChange[] = [
+    { kind: "move", pathFrom: "one.txt", pathTo: "../escaped.txt" },
+  ]
+  const said = await landing(root, moves, "held", ADMITS)
   expect("refusals" in said ? said.refusals.join("\n") : "").toContain("outside the repository")
   expect(existsSync(join(root, "..", "escaped.txt"))).toBe(false)
   expect(readFileSync(join(root, "one.txt"), "utf8")).toBe("committed")
@@ -294,9 +329,11 @@ test("a move landing outside the repository is refused and the path it came from
 
 test("a name beginning with two dots and a move inside the repository both land", async () => {
   const root = await edged({ "deep/two.txt": "committed" })
-  const change = [{ path: "..hidden.txt", body: bytes("kept") }]
-  const moves = [{ from: "deep/two.txt", to: "deep/moved.txt" }]
-  const said = await landing(root, change, "held", ADMITS, null, null, [], moves)
+  const moves: readonly FileChange[] = [
+    { kind: "move", pathFrom: "deep/two.txt", pathTo: "deep/moved.txt" },
+  ]
+  const change = [...rowsIn(root, [{ path: "..hidden.txt", body: bytes("kept") }]), ...moves]
+  const said = await landing(root, change, "held", ADMITS)
   expect("refusals" in said ? said.refusals.join("\n") : "").toBe("")
   expect(readFileSync(join(root, "..hidden.txt"), "utf8")).toBe("kept")
   expect(readFileSync(join(root, "deep/moved.txt"), "utf8")).toBe("committed")

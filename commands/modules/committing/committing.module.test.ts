@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
-import { ADMITS, bytes, edged } from "../landing/landing.module.test-fixtures.ts"
+import { ADMITS, bytes, edged, rowsIn } from "../landing/landing.module.test-fixtures.ts"
 import { AUTHOR, committed, whileIndexFrees } from "./committing.module.code.ts"
 
 const scratch = scratchWorld()
@@ -41,7 +41,12 @@ function tookAnother(root: string, path: string): undefined {
 
 test("a commit no writer is named for is authored by akasha", async () => {
   const root = repoWith({ "one.txt": "committed" })
-  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(git(root, ["log", "-1", "--pretty=%an <%ae>"]).trim()).toBe(AUTHOR)
 })
@@ -51,7 +56,12 @@ test("a git index another process holds is waited for rather than refusing the c
   const lock = join(root, ".git/index.lock")
   writeFileSync(lock, "")
   Bun.spawn(["sh", "-c", `sleep 1.5; rm -f '${lock}'`], { stdout: "ignore", stderr: "ignore" })
-  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(existsSync(join(root, "new.txt"))).toBe(true)
 })
@@ -61,7 +71,7 @@ test("anything else git refuses is thrown on the first attempt rather than waite
   writeFileSync(join(root, ".git/HEAD"), "not a ref\n")
   const began = Date.now()
   await expect(
-    landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+    landing(root, [{ kind: "add", path: "new.txt", content: "proposed" }], "held", ADMITS)
   ).rejects.toThrow()
   expect(Date.now() - began).toBeLessThan(2_000)
   expect(existsSync(join(root, "new.txt"))).toBe(false)
@@ -91,7 +101,12 @@ test("a file its owner may run lands at 100755 in the tree and in the index", as
   const root = repoWith({ "run.sh": "one" })
   expect(landedMode(root, "run.sh")).toBe("100644")
   chmodSync(join(root, "run.sh"), 0o755)
-  const said = await landing(root, [{ path: "run.sh", body: bytes("two") }], "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "run.sh", body: bytes("two") }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(landedMode(root, "run.sh")).toBe("100755")
   expect(indexedMode(root, "run.sh")).toBe("100755")
@@ -100,7 +115,12 @@ test("a file its owner may run lands at 100755 in the tree and in the index", as
 test("a file its owner may run deep in the tree lands at 100755", async () => {
   const root = repoWith({ "a/b/c/run.sh": "one", "a/b/plain.txt": "one" })
   chmodSync(join(root, "a/b/c/run.sh"), 0o755)
-  const said = await landing(root, [{ path: "a/b/c/run.sh", body: bytes("two") }], "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "a/b/c/run.sh", body: bytes("two") }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(landedMode(root, "a/b/c/run.sh")).toBe("100755")
   expect(indexedMode(root, "a/b/c/run.sh")).toBe("100755")
@@ -113,10 +133,10 @@ test("the bit read is the one its owner runs by rather than the one its group ru
   chmodSync(join(root, "group.sh"), 0o654)
   const said = await landing(
     root,
-    [
+    rowsIn(root, [
       { path: "owner.sh", body: bytes("two") },
       { path: "group.sh", body: bytes("two") },
-    ],
+    ]),
     "held",
     ADMITS
   )
@@ -131,7 +151,12 @@ test("a mode changed with the body left alone lands as a mode change and nothing
   const root = repoWith({ "auth.ts": "same bytes" })
   const before = git(root, ["rev-parse", "HEAD"]).trim()
   chmodSync(join(root, "auth.ts"), 0o777)
-  const said = await landing(root, [{ path: "auth.ts", body: bytes("same bytes") }], "held", ADMITS)
+  const said = await landing(
+    root,
+    [{ kind: "add", path: "auth.ts", content: "same bytes" }],
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(landedMode(root, "auth.ts")).toBe("100755")
   expect(git(root, ["diff", "--numstat", `${before}..HEAD`]).trim()).toBe("0\t0\tauth.ts")
@@ -142,7 +167,12 @@ test("a mode changed with the body left alone lands as a mode change and nothing
 
 test("a file its owner may not run lands at 100644 in the tree and in the index", async () => {
   const root = repoWith({ "plain.txt": "one" })
-  const said = await landing(root, [{ path: "plain.txt", body: bytes("two") }], "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "plain.txt", body: bytes("two") }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(landedMode(root, "plain.txt")).toBe("100644")
   expect(indexedMode(root, "plain.txt")).toBe("100644")
@@ -153,7 +183,12 @@ test("a file HEAD records at 100755 keeps that mode when its body is written aga
   chmodSync(join(root, "run.sh"), 0o755)
   tookAnother(root, "run.sh")
   expect(landedMode(root, "run.sh")).toBe("100755")
-  const said = await landing(root, [{ path: "run.sh", body: bytes("two") }], "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "run.sh", body: bytes("two") }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(landedMode(root, "run.sh")).toBe("100755")
   expect(indexedMode(root, "run.sh")).toBe("100755")
@@ -165,7 +200,12 @@ test("a file HEAD records at 100755 that the disk no longer runs lands at 100644
   tookAnother(root, "run.sh")
   expect(landedMode(root, "run.sh")).toBe("100755")
   chmodSync(join(root, "run.sh"), 0o644)
-  const said = await landing(root, [{ path: "run.sh", body: bytes("two") }], "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "run.sh", body: bytes("two") }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(landedMode(root, "run.sh")).toBe("100644")
   expect(indexedMode(root, "run.sh")).toBe("100644")
@@ -185,7 +225,12 @@ test("a path a change takes away leaves the modes of the paths beside it alone",
   chmodSync(join(root, "a/run.sh"), 0o755)
   tookAnother(root, "a/run.sh")
   expect(landedMode(root, "a/run.sh")).toBe("100755")
-  const said = await landing(root, [{ path: "a/gone.txt", body: null }], "held", ADMITS)
+  const said = await landing(
+    root,
+    rowsIn(root, [{ path: "a/gone.txt", body: null }]),
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(landedMode(root, "a/run.sh")).toBe("100755")
 })

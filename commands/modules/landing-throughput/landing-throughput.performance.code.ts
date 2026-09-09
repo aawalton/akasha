@@ -75,7 +75,7 @@ while (!existsSync(${JSON.stringify(join(root, GO))})) Bun.sleepSync(${TICK})
 const began = Date.now()
 const said = await landing(
   ${JSON.stringify(root)},
-  [{ path: ${JSON.stringify(`${name}.txt`)}, body: new TextEncoder().encode("held\\n") }],
+  [{ kind: "add", path: ${JSON.stringify(`${name}.txt`)}, content: "held\\n" }],
   "held",
   { named: ["admits"], over: () => [] }
 )

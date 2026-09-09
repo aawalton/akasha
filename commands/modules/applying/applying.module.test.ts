@@ -15,6 +15,7 @@ import {
   pagesRepo,
   REFUSES,
   repoWith,
+  rowsIn,
   scratch,
 } from "../landing/landing.module.test-fixtures.ts"
 import { readingIn } from "../reading/reading.module.code.ts"
@@ -50,9 +51,9 @@ afterAll(() => {
 
 async function indexed(): Promise<string> {
   const root = repoWith({ "seed.txt": "held" })
-  await landing(root, CARRIED, "held", ADMITS)
+  await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
   noImportersFiled(root)
-  await landing(root, [{ path: PAGE, body: bytes(A) }], "held", ADMITS)
+  await landing(root, rowsIn(root, [{ path: PAGE, body: bytes(A) }]), "held", ADMITS)
   return root
 }
 

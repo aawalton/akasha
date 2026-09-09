@@ -3,12 +3,14 @@ import { formattedBody } from "@akasha/code/code-format"
 import type { Change } from "@akasha/pages/change"
 import type {
   Adding,
+  FileChange,
+  Moving,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import type { FileEdit, Refused } from "../landing/landing.module.code.ts"
-import { changeOf } from "../landing/landing.module.code.ts"
+import { changeOf, rowsFrom } from "../landing/landing.module.code.ts"
 import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { globbedFor } from "../source-globbing/source-globbing.module.code.ts"
@@ -75,7 +77,8 @@ export function sequenced(
 export type Prepared = {
   readonly formatting: Formatting
   readonly authored: readonly FileEdit[]
-  readonly changes: readonly FileEdit[]
+  readonly bodied: readonly FileEdit[]
+  readonly changes: readonly FileChange[]
   readonly said: readonly string[]
   readonly over: Change | null
 }
@@ -99,17 +102,25 @@ export function preparing(
   const globbed = globbedFor(change)
   const typed = typesFor(change)
   const added = [
-    ...bodiedFrom(locking.edits),
-    ...bodiedFrom(worked.edits),
-    ...bodiedFrom(mapped.edits),
-    ...bodiedFrom(stepped.edits),
-    ...bodiedFrom(globbed.edits),
-    ...bodiedFrom(typed.edits),
+    ...locking.edits,
+    ...worked.edits,
+    ...mapped.edits,
+    ...stepped.edits,
+    ...globbed.edits,
+    ...typed.edits,
   ]
+  const stated = rowsFrom(root, base, authored)
+  if ("why" in stated) return { refusals: [stated.why] }
+  const moved: readonly Moving[] = moves.map((one) => ({
+    kind: "move",
+    pathFrom: one.from,
+    pathTo: one.to,
+  }))
   return {
     formatting,
     authored,
-    changes: added.length === 0 ? authored : [...authored, ...added],
+    bodied: added.length === 0 ? authored : [...authored, ...bodiedFrom(added)],
+    changes: [...moved, ...stated.rows, ...added],
     said: [
       ...locking.said,
       ...worked.said,

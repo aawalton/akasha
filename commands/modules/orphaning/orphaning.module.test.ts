@@ -7,6 +7,7 @@ import { bytesOf } from "@akasha/testing-system/bodying"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Landed, Refused } from "../landing/landing.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
+import { rowsIn } from "../landing/landing.module.test-fixtures.ts"
 import { TOGETHER } from "./orphaning.module.code.ts"
 
 const scratch = scratchWorld()
@@ -43,12 +44,12 @@ async function setUp(): Promise<string> {
   gitIn(root, ["commit", "--quiet", "-m", "first"])
   const put = await landing(
     root,
-    [
+    rowsIn(root, [
       { path: A, body: bytesOf(HELD) },
       { path: B, body: bytesOf(IMPORTS) },
       { path: X, body: bytesOf("export const x = 1\n") },
       { path: Y, body: bytesOf('import { x } from "./x.ts"\n\nexport const y = x\n') },
-    ],
+    ]),
     "a and b are there, and so is an edge neither of them makes",
     ADMITS
   )
@@ -58,7 +59,7 @@ async function setUp(): Promise<string> {
 
 test("a path something still imports is refused, and what imports it is named", async () => {
   const root = await setUp()
-  const said = await landing(root, [{ path: A, body: null }], "a goes", ADMITS)
+  const said = await landing(root, rowsIn(root, [{ path: A, body: null }]), "a goes", ADMITS)
   expect("refusals" in said).toBe(true)
   const why = (said as Refused).refusals.join("\n")
   expect(why).toContain(A)
@@ -70,10 +71,10 @@ test("a path taken away beside the edit dropping its import lands", async () => 
   const root = await setUp()
   const said = await landing(
     root,
-    [
+    rowsIn(root, [
       { path: A, body: null },
       { path: B, body: bytesOf(ALONE) },
-    ],
+    ]),
     "a goes as b lets it go",
     ADMITS
   )
@@ -85,13 +86,12 @@ test("a path carried away that something still imports is refused", async () => 
   const root = await setUp()
   const said = await landing(
     root,
-    [{ path: "seed.txt", body: bytesOf("touched\n") }],
+    [
+      ...rowsIn(root, [{ path: "seed.txt", body: bytesOf("touched\n") }]),
+      { kind: "move", pathFrom: A, pathTo: "akasha/moved.ts" },
+    ],
     "a is carried off",
-    ADMITS,
-    null,
-    null,
-    [],
-    [{ from: A, to: "akasha/moved.ts" }]
+    ADMITS
   )
   expect("refusals" in said).toBe(true)
   const why = (said as Refused).refusals.join("\n")
@@ -103,11 +103,11 @@ test("a path taken away with its importers repointed onto where it arrives lands
   const root = await setUp()
   const said = await landing(
     root,
-    [
+    rowsIn(root, [
       { path: A, body: null },
       { path: C, body: bytesOf(HELD) },
       { path: B, body: bytesOf(AGAIN) },
-    ],
+    ]),
     "a moves to c and b follows",
     ADMITS
   )

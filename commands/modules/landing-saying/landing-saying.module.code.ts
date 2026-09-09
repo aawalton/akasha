@@ -1,5 +1,5 @@
 import { UNNAMED } from "../committing/committing.module.code.ts"
-import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
+import { saidBy, whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT } from "../gate-building/gate-building.module.code.ts"
 import type { Counting } from "../judged-saying/judged-saying.module.code.ts"
 import { judgedBy, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
@@ -77,6 +77,25 @@ export function reported(count: Counting, said: Landed, over: Reported): readonl
       `the report could not be built — ${whyOf(thrown)}`,
     ]
   }
+}
+
+export function alsoFailed(act: () => undefined): string | null {
+  try {
+    act()
+    return null
+  } catch (thrown) {
+    return saidBy(thrown)
+  }
+}
+
+export function alsoSaid(why: string, back: string | null, off: string | null): string {
+  const held = [why]
+  if (back !== null) {
+    held.push(`the index still names what did not land, and putting it back failed too: ${back}`)
+    held.push("`akasha index refresh` builds the index again")
+  }
+  if (off !== null) held.push(`what was staged is staged still: ${off}`)
+  return held.join("; ")
 }
 
 export function draftedSaid(

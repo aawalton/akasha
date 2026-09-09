@@ -6,7 +6,14 @@ import { said as git } from "@akasha/git/git-running"
 import { until } from "@akasha/testing-system/waiting"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
-import { A, ADMITS, bytes, MODULE_AT, TYPE } from "../landing/landing.module.test-fixtures.ts"
+import {
+  A,
+  ADMITS,
+  bytes,
+  MODULE_AT,
+  rowsIn,
+  TYPE,
+} from "../landing/landing.module.test-fixtures.ts"
 import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
 import { commitNamed, movedOnDisk, reachedSince, unfresh } from "./change-freshness.module.code.ts"
 
@@ -83,7 +90,7 @@ test("a body still as its writer read it is written rather than refused", async 
   const root = repoWith(PAGES)
   const said = await landing(
     root,
-    [{ path: AT, body: bytes("written over") }],
+    rowsIn(root, [{ path: AT, body: bytes("written over") }]),
     "held",
     ADMITS,
     null,
@@ -100,7 +107,7 @@ test("a body that moved on disk since its writer read it is refused unwritten", 
   writeFileSync(join(root, AT), `${A}\n`)
   const said = await landing(
     root,
-    [{ path: AT, body: bytes("written over") }],
+    rowsIn(root, [{ path: AT, body: bytes("written over") }]),
     "held",
     ADMITS,
     null,
@@ -131,7 +138,7 @@ while (!existsSync(${JSON.stringify(go)})) {
 }
 const said = await landing(
   ${JSON.stringify(root)},
-  [{ path: ${JSON.stringify(AT)}, body: new TextEncoder().encode("written over") }],
+  [{ kind: "replace", path: ${JSON.stringify(AT)}, contentFrom: ${JSON.stringify(A)}, contentTo: "written over" }],
   "held",
   { named: ["admits"], over: async () => [] },
   null,
@@ -146,7 +153,7 @@ console.log("refusals" in said ? said.refusals.join("\\n") : "landed")`,
     expect(await until(() => existsSync(ready))).toBe(true)
     const held = await landing(
       root,
-      [{ path: AT, body: bytes("moved by the other") }],
+      rowsIn(root, [{ path: AT, body: bytes("moved by the other") }]),
       "held",
       ADMITS
     )
@@ -190,7 +197,7 @@ test("a commit reaching `akasha/` while the change was judged refuses nothing", 
   const root = repoWith(PAGES)
   const said = await landing(
     root,
-    [{ path: AT, body: bytes("written over") }],
+    rowsIn(root, [{ path: AT, body: bytes("written over") }]),
     "held",
     landedMeanwhile(root, "akasha/meanwhile.txt", "landed inside")
   )
@@ -229,7 +236,7 @@ test("a commit reaching nothing under `akasha/` while the change was judged refu
   const root = repoWith(PAGES)
   const said = await landing(
     root,
-    [{ path: AT, body: bytes("written over") }],
+    rowsIn(root, [{ path: AT, body: bytes("written over") }]),
     "held",
     landedMeanwhile(root, "outside.txt", "landed elsewhere")
   )

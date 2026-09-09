@@ -10,6 +10,7 @@ import {
   edged,
   filesIn,
   PAGE,
+  rowsIn,
   scratch,
 } from "../landing/landing.module.test-fixtures.ts"
 import {
@@ -50,9 +51,15 @@ test("a move whose body also changed lands the rename and the new body", async (
 test("a path a change moves that no commit holds moves on disk and is committed nowhere", async () => {
   const root = await edged({ "one.txt": "committed" })
   writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
-  const moves = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
-  const change = [{ path: "new.txt", body: bytes("proposed") }]
-  const said = await landing(root, change, "held", ADMITS, null, null, [], moves)
+  const said = await landing(
+    root,
+    [
+      ...rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }]),
+      { kind: "move", pathFrom: "held.uncommitted.ts", pathTo: "deep/held.uncommitted.ts" },
+    ],
+    "held",
+    ADMITS
+  )
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
   expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
@@ -62,9 +69,11 @@ test("a path a change moves that no commit holds moves on disk and is committed 
 test("a move that will not go puts back the ones that went and commits nothing", async () => {
   const root = await edged({ "one.txt": "committed" })
   const was = baseOf(root)
-  const moves = blockedMoves(root)
-  const change = [{ path: "new.txt", body: bytes("proposed") }]
-  await expect(landing(root, change, "held", ADMITS, null, null, [], moves)).rejects.toThrow()
+  const change = [
+    ...rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }]),
+    ...blockedMoves(root),
+  ]
+  await expect(landing(root, change, "held", ADMITS)).rejects.toThrow()
   expect(readFileSync(join(root, "one.uncommitted.ts"), "utf8")).toBe("one")
   expect(readFileSync(join(root, "two.uncommitted.ts"), "utf8")).toBe("two")
   expect(existsSync(join(root, "deep/one.uncommitted.ts"))).toBe(false)

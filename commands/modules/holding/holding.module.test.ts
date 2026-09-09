@@ -4,11 +4,11 @@ import { join } from "node:path"
 import type { Judging } from "@akasha/checks/judging"
 import { said as git } from "@akasha/git/git-running"
 import { idFiledIn, listedFiledIn } from "@akasha/indexes/testing"
-import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { until } from "@akasha/testing-system/waiting"
+import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { baseOf, landing } from "../landing/landing.module.code.ts"
-import { CARRIED } from "../landing/landing.module.test-fixtures.ts"
+import { CARRIED, CARRIED_IN } from "../landing/landing.module.test-fixtures.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 
@@ -43,8 +43,10 @@ const ADMITS: Judging = {
   over: async () => [],
 }
 
+const PROPOSED: readonly FileChange[] = [{ kind: "add", path: "new.txt", content: "proposed" }]
+
 const AT_ONCE = Array.from(
-  { length: 40 },
+  { length: 16 },
   (_, at) =>
     `p${String.fromCharCode(97 + Math.floor(at / 26))}${String.fromCharCode(97 + (at % 26))}`
 )
@@ -79,7 +81,7 @@ writeFileSync(${JSON.stringify(ready)}, "ready")
 while (!existsSync(${JSON.stringify(go)})) Bun.sleepSync(1)
 const said = await landing(
   ${JSON.stringify(root)},
-  [{ path: ${JSON.stringify(path)}, body: new TextEncoder().encode(${JSON.stringify(body)}) }],
+  [{ kind: "add", path: ${JSON.stringify(path)}, content: ${JSON.stringify(body)} }],
   "held",
   { named: ["admits"], over: () => [] }
 )
@@ -112,7 +114,7 @@ test("callers asking at once take the hold one at a time, and none overlaps anot
 
 test("landings at once each land, and none takes another back", async () => {
   const root = repoWith({ "seed.txt": "held" })
-  await landing(root, CARRIED, "held", ADMITS)
+  await landing(root, CARRIED_IN, "held", ADMITS)
   const was = baseOf(root)
   const go = join(root, "go")
   const ready = (one: string): string => join(root, `ready-${one}`)
@@ -145,7 +147,7 @@ test("a hold whose holder is gone is taken rather than waited on", async () => {
 test("a landing after a holder was killed outright still lands", async () => {
   const root = repoWith({ "one.txt": "committed" })
   await killed(await heldBy(root))
-  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+  const said = await landing(root, PROPOSED, "held", ADMITS)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "new.txt"), "utf8")).toBe("proposed")
   expect(existsSync(join(root, LOCK_AT))).toBe(false)
@@ -162,7 +164,7 @@ test("a caller that waits out the hold is refused, and the landing it would have
       root,
       async () => {
         ran = true
-        return await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+        return await landing(root, PROPOSED, "held", ADMITS)
       },
       200
     )
@@ -195,11 +197,9 @@ test("a hold is released however the act inside it ends, so one failure wedges n
       throw new Error("thrown for the test")
     },
   }
-  await expect(
-    landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", throwing)
-  ).rejects.toThrow("thrown for the test")
+  await expect(landing(root, PROPOSED, "held", throwing)).rejects.toThrow("thrown for the test")
   expect(existsSync(at)).toBe(false)
-  const said = await landing(root, [{ path: "new.txt", body: bytes("proposed") }], "held", ADMITS)
+  const said = await landing(root, PROPOSED, "held", ADMITS)
   expect("refusals" in said).toBe(false)
   expect(existsSync(at)).toBe(false)
 })

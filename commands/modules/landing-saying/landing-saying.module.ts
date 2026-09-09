@@ -69,6 +69,18 @@ export const landingSaying = {
         "A landing with more than three paths is said as the act and how many paths landed.",
     },
     {
+      invariantKind: "departure",
+      statement: "A repair a landing ran to put things back answers with what that repair said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repair that went through says nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index left naming what did not land says how to build the index again.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },

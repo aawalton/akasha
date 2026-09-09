@@ -1,6 +1,7 @@
 import { expect } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { editsAt } from "@akasha/changes/edits-keeping"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import { said as gitIn } from "@akasha/git/git-running"
@@ -14,7 +15,7 @@ import { bytesOf } from "@akasha/testing-system/bodying"
 import { said as saying } from "@akasha/utils/run/running"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { Drafted, FileEdit, Landed, Refused } from "./landing.module.code.ts"
-import { baseOf, landing } from "./landing.module.code.ts"
+import { baseOf, landing, rowsFrom } from "./landing.module.code.ts"
 
 export const MODULE_AT = new URL("./landing.module.code.ts", import.meta.url).pathname
 
@@ -51,12 +52,24 @@ export const PAGE = "akasha/a.domain.ts"
 
 export const DRAFT = { page: PAGE }
 
+export function rowsIn(root: string, changes: readonly FileEdit[]): readonly FileChange[] {
+  const said = rowsFrom(root, baseOf(root), changes)
+  if ("why" in said) throw new Error(said.why)
+  return said.rows
+}
+
 export function drafting(
   root: string,
   changes: readonly FileEdit[],
   gate: Judging = ADMITS
 ): Promise<Drafted | Refused> {
-  return landing(root, changes, "held", gate, null, null, [], [], DRAFT)
+  const said = rowsFrom(root, baseOf(root), changes)
+  if ("why" in said) {
+    return Promise.resolve({
+      refusals: [said.why, "nothing was drafted — the edits are as the edits were"],
+    })
+  }
+  return landing(root, said.rows, "held", gate, null, null, [], DRAFT)
 }
 
 export function keptText(root: string): string {
@@ -91,13 +104,13 @@ export async function edged(named: Readonly<Record<string, string | Uint8Array>>
   const root = repoWith(named)
   const said = await landing(
     root,
-    [
+    rowsIn(root, [
       { path: IMPORTED, body: bytesOf("export const held = 1\n") },
       {
         path: IMPORTING,
         body: bytesOf('import { held } from "./held.ts"\n\nexport const holding = held\n'),
       },
-    ],
+    ]),
     "the index holds an import edge",
     ADMITS
   )
@@ -116,8 +129,8 @@ export function pageRepo(): string {
 }
 
 export async function pageLanded(root: string): Promise<string> {
-  await landing(root, CARRIED, "held", ADMITS)
-  await landing(root, [{ path: PAGE, body: bytesOf(A) }], "held", ADMITS)
+  await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
+  await landing(root, rowsIn(root, [{ path: PAGE, body: bytesOf(A) }]), "held", ADMITS)
   return root
 }
 
@@ -154,7 +167,7 @@ export async function splitLanded(): Promise<{
   readonly files: readonly string[]
 }> {
   const root = ignoringRepo()
-  const said = await landing(root, SPLIT, "held", ADMITS)
+  const said = await landing(root, rowsIn(root, SPLIT), "held", ADMITS)
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   if (said.commit === null) throw new Error("the landing committed nothing")
   return {
@@ -171,10 +184,10 @@ export async function splitKept(): Promise<string | null> {
   try {
     await landing(
       root,
-      [
+      rowsIn(root, [
         { path: "new.txt", body: bytesOf(PROPOSED) },
         { path: KEPT_OUT, body: bytesOf("now") },
-      ],
+      ]),
       "held",
       ADMITS
     )
@@ -191,7 +204,7 @@ export async function splitThrew(): Promise<{
   objectsShut(root, PROPOSED)
   let why = ""
   try {
-    await landing(root, SPLIT, "held", ADMITS)
+    await landing(root, rowsIn(root, SPLIT), "held", ADMITS)
   } catch (thrown) {
     why = thrown instanceof Error ? thrown.message : String(thrown)
   }
@@ -227,7 +240,8 @@ export function committedAgain(root: string, path: string, body: string): undefi
 }
 
 export async function landedMoving(root: string, read: string): Promise<Landed | Refused> {
-  return await landing(root, [{ path: PAGE, body: bytes("moved") }], "m", ADMITS, null, read)
+  const rows = rowsIn(root, [{ path: PAGE, body: bytes("moved") }])
+  return await landing(root, rows, "m", ADMITS, null, read)
 }
 
 export const TYPE = typed("02", "domain", ["page-type/page"])
@@ -267,6 +281,14 @@ export const CARRIED: readonly FileEdit[] = [
   }),
 ]
 
+const TEXT = new TextDecoder()
+
+export const CARRIED_IN: readonly FileChange[] = CARRIED.map((one) => ({
+  kind: "add",
+  path: one.path,
+  content: TEXT.decode(one.body ?? undefined),
+}))
+
 export const THROWN = "thrown for the test"
 
 export function gitWatching(root: string): {
@@ -293,10 +315,10 @@ export function putBackThrows(root: string): Promise<Landed | Refused> {
   const b = A.replace('slug: "a"', 'slug: "b"').replace("const a =", "const b =")
   return landing(
     root,
-    [
+    rowsIn(root, [
       { path: PAGE, body: bytesOf("written over") },
       { path: "akasha/b.domain.ts", body: bytesOf(b) },
-    ],
+    ]),
     "m",
     ADMITS
   )
@@ -305,10 +327,10 @@ export function putBackThrows(root: string): Promise<Landed | Refused> {
 export function landedAtHead(root: string): Promise<Landed | Refused> {
   return landing(
     root,
-    [
+    rowsIn(root, [
       { path: PAGE, body: bytesOf(A) },
       { path: "akasha/b.txt", body: bytesOf("new") },
-    ],
+    ]),
     "m",
     ADMITS,
     null,
@@ -324,10 +346,10 @@ export async function pathsSeen(root: string): Promise<readonly string[]> {
   })
   await landing(
     root,
-    [
+    rowsIn(root, [
       { path: "b.txt", body: bytesOf("one") },
       { path: "a.txt", body: bytesOf("two") },
-    ],
+    ]),
     "held",
     watching
   )

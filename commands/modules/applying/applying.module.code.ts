@@ -10,7 +10,7 @@ import { preparing } from "../change-preparing/change-preparing.module.code.ts"
 import { type Bodies, owedOf, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import { editsOf, type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
+import { type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
 import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
 import { defaultMessage, formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
@@ -52,6 +52,10 @@ const NO_MEASURE = "`measure` takes `true`, and this one says something else"
 
 const NOTHING_MEASURED =
   "this apply was to measure, and nothing it carries sits beside a test, so nothing landed"
+
+function editsOf(held: Bodies): readonly FileEdit[] {
+  return [...held].map(([path, one]) => ({ path, body: one.body }))
+}
 
 function seatOver(root: string, page: string): string | null {
   const said = partedIn(page)
@@ -268,14 +272,13 @@ export async function applied(
     writer,
     read ?? head,
     asRead,
-    moving,
     null,
     prepared.over
   )
   if ("refusals" in done) return done
-  carryLanded(root, head, running, prepared.changes, [], owedOf(said.held))
+  carryLanded(root, head, running, prepared.bodied, [], owedOf(said.held))
   if (agentId !== null) recordedAsLanded(root, agentId, prepared.authored)
-  const put = installingIn(root, prepared.changes, moving)
+  const put = installingIn(root, prepared.bodied, moving)
   return {
     base: done.base,
     landed: [...done.wrote, ...done.took].sort(),

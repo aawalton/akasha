@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { editsAt } from "@akasha/changes/edits-keeping"
 import type { Judging } from "@akasha/checks/judging"
 import type { Change } from "@akasha/pages/change"
@@ -216,7 +217,8 @@ async function draftingAsked(
   gate: Judging,
   message: string,
   asRead: readonly Reading[],
-  aside: readonly string[]
+  aside: readonly string[],
+  rows: readonly FileChange[]
 ): Promise<Answer> {
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null) {
@@ -229,13 +231,12 @@ async function draftingAsked(
   try {
     said = await landing(
       given.root,
-      asked.changes,
+      rows,
       message,
       gate,
       given.writer,
       asked.read ?? null,
       asRead,
-      asked.moves ?? [],
       { page }
     )
   } catch (thrown) {
@@ -275,7 +276,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     ...formattedSaid(formatting.formatted),
     ...prepared.said,
   ]
-  const held: Asked = { ...asked, changes: prepared.changes }
+  const held: Asked = { ...asked, changes: prepared.bodied }
   const bypass = bypassIn(given, held)
   const built = gateBuilt(given.root)
   if ("broken" in built && bypass === null) return unloadable(built.broken)
@@ -285,18 +286,19 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   if (held.dryRun) return await reporting(given.root, held, gate, aside, prepared.over)
   const message = messageWith(held, bypass, broken)
   const asRead = asReadIn(given, prepared.authored)
-  if (held.draft === true) return await draftingAsked(given, held, gate, message, asRead, aside)
+  if (held.draft === true) {
+    return await draftingAsked(given, held, gate, message, asRead, aside, prepared.changes)
+  }
   let said: Landed | Refused
   try {
     said = await landing(
       given.root,
-      held.changes,
+      prepared.changes,
       message,
       gate,
       given.writer,
       held.read ?? null,
       asRead,
-      held.moves ?? [],
       null,
       prepared.over
     )

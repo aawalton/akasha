@@ -6,11 +6,16 @@ import { textIn, textOf } from "@akasha/code/body-text"
 import { gitIgnoring } from "@akasha/git/git-pathspec"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
-import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
+import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
+import type {
+  Adding,
+  FileChange,
+  Removing,
+  Replacing,
+} from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
 import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
-import type { Bodies } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import {
   clearedOff,
@@ -19,6 +24,7 @@ import {
 } from "../folder-clearing/folder-clearing.module.code.ts"
 import { indexingLoaded, type Keeping } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
+import { alsoFailed, alsoSaid } from "../landing-saying/landing-saying.module.code.ts"
 import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
@@ -78,8 +84,29 @@ function textFrom(bytes: Uint8Array): string | null {
   }
 }
 
-export function editsOf(held: Bodies): readonly FileEdit[] {
-  return [...held].map(([path, one]) => ({ path, body: one.body }))
+const BYTES = new TextEncoder()
+
+function bodiedOf(one: Adding | Replacing | Removing): FileEdit {
+  if (one.kind === "remove") return { path: one.path, body: null }
+  return {
+    path: one.path,
+    body: BYTES.encode(one.kind === "add" ? one.content : one.contentTo),
+  }
+}
+
+type Split = {
+  readonly edits: readonly FileEdit[]
+  readonly moves: readonly FileMove[]
+}
+
+function splitIn(changes: readonly FileChange[]): Split {
+  const edits: FileEdit[] = []
+  const moves: FileMove[] = []
+  for (const one of changes) {
+    if (one.kind === "move") moves.push({ from: one.pathFrom, to: one.pathTo })
+    else edits.push(bodiedOf(one))
+  }
+  return { edits, moves }
 }
 
 export function baseOf(root: string): string {
@@ -235,25 +262,6 @@ function unstaged(root: string, changed: readonly FileEdit[]): undefined {
   )
 }
 
-function alsoFailed(act: () => undefined): string | null {
-  try {
-    act()
-    return null
-  } catch (thrown) {
-    return saidBy(thrown)
-  }
-}
-
-function alsoSaid(why: string, back: string | null, off: string | null): string {
-  const held = [why]
-  if (back !== null) {
-    held.push(`the index still names what did not land, and putting it back failed too: ${back}`)
-    held.push("`akasha index refresh` builds the index again")
-  }
-  if (off !== null) held.push(`what was staged is staged still: ${off}`)
-  return held.join("; ")
-}
-
 function indexed(
   root: string,
   changed: readonly FileEdit[],
@@ -277,16 +285,11 @@ function indexed(
   return held.settle()
 }
 
-function statedFrom(
+export function rowsFrom(
   root: string,
   base: string,
   changes: readonly FileEdit[]
 ): { readonly rows: readonly FileChange[] } | { readonly why: string } {
-  const before = beforeOf(
-    root,
-    base,
-    changes.map((one) => one.path)
-  )
   const rows: FileChange[] = []
   for (const one of changes) {
     if (one.body === null) {
@@ -295,7 +298,7 @@ function statedFrom(
     }
     const body = textFrom(one.body)
     if (body === null) return { why: `${one.path} ${NO_TEXT}` }
-    const held = before.get(one.path) ?? null
+    const held = bodyAt(root, base, one.path)
     if (held === null) {
       rows.push({ kind: "add", path: one.path, content: body })
       continue
@@ -311,60 +314,58 @@ function statedFrom(
 function draftedBy(
   root: string,
   page: string,
-  changes: readonly FileEdit[],
+  changes: readonly FileChange[],
   named: string | null,
   asRead: readonly AsRead[]
 ): Drafted | Refused {
   const base = baseOf(root)
-  const changing = changes.map((one) => one.path)
+  const changing = [...new Set(changes.flatMap(pathsOf))]
   const stale = unfresh(root, named, base, changing, asRead, AGAIN_DRAFTED)
   if (stale !== null) return { refusals: stale }
-  const said = statedFrom(root, base, changes)
-  if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
-  const kept = appendEdits(root, page, said.rows)
+  const kept = appendEdits(root, page, changes)
   if ("why" in kept) return { refusals: [kept.why, KEPT_AS_IT_WAS] }
   return { base, drafted: [...changing].sort() }
 }
 
 export function landing(
   root: string,
-  changes: readonly FileEdit[],
+  changes: readonly FileChange[],
   message: string,
   judging: Judging,
   writer?: string | null,
   read?: string | null,
   asRead?: readonly AsRead[],
-  moves?: readonly FileMove[],
   drafting?: null,
   over?: Change | null
 ): Promise<Landed | Refused>
 export function landing(
   root: string,
-  changes: readonly FileEdit[],
+  changes: readonly FileChange[],
   message: string,
   judging: Judging,
   writer: string | null,
   read: string | null,
   asRead: readonly AsRead[],
-  moves: readonly FileMove[],
   drafting: Drafting
 ): Promise<Drafted | Refused>
 export async function landing(
   root: string,
-  changes: readonly FileEdit[],
+  changes: readonly FileChange[],
   message: string,
   judging: Judging,
   writer: string | null = null,
   read: string | null = null,
   asRead: readonly AsRead[] = [],
-  moves: readonly FileMove[] = [],
   drafting: Drafting | null = null,
   over: Change | null = null
 ): Promise<Landed | Refused | Drafted> {
-  if (changes.length === 0 && moves.length === 0) {
-    return { refusals: ["nothing was asked for, so nothing was judged and nothing was written"] }
+  if (changes.length === 0) {
+    const base = baseOf(root)
+    if (drafting !== null) return { base, drafted: [] }
+    return { base, commit: null, wrote: [], took: [], noted: [], cleared: [] }
   }
-  const outside = [...changes.map((one) => one.path), ...moves.flatMap((one) => [one.from, one.to])]
+  const outside = changes
+    .flatMap(pathsOf)
     .filter((one) => outsideRoot(root, one))
     .map(writesOutside)
   if (outside.length > 0) return { refusals: [...outside, NOTHING_OUTSIDE] }
@@ -381,7 +382,7 @@ export async function landing(
     return draftedBy(root, drafting.page, changes, named, asRead)
   }
   const judgedAt = baseOf(root)
-  const edits: readonly FileEdit[] = changes
+  const { edits, moves } = splitIn(changes)
   const change =
     over !== null && moves.length === 0 ? over : changeOf(root, { base: judgedAt, edits, moves })
   const said = await judged(judging, change)
@@ -404,10 +405,10 @@ export async function landing(
   }
   return holding(root, () => {
     const base = baseOf(root)
-    const paths = changes.map((one) => one.path)
+    const paths = edits.map((one) => one.path)
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
     if (stale !== null) return { refusals: stale }
-    const split = heldBack(root, changes)
+    const split = heldBack(root, edits)
     const moving = movesHeld(
       moves,
       beforeOf(
@@ -425,7 +426,7 @@ export async function landing(
     try {
       const putting = split.committing.filter((one) => !lands.has(one.path))
       const put = wroteOnto(root, putting)
-      const noted = indexed(root, changes, moving.committing, before, keeping)
+      const noted = indexed(root, edits, moving.committing, before, keeping)
       const back = movedOnto(root, moves)
       try {
         const onto = split.committing.filter((one) => lands.has(one.path))
@@ -446,8 +447,8 @@ export async function landing(
       }
     } catch (thrown) {
       restored(root, before)
-      const back = alsoFailed(() => reindexed(root, changes, moving.committing, before, keeping))
-      const off = alsoFailed(() => unstaged(root, changes))
+      const back = alsoFailed(() => reindexed(root, edits, moving.committing, before, keeping))
+      const off = alsoFailed(() => unstaged(root, edits))
       if (back === null && off === null) throw thrown
       throw new Error(alsoSaid(saidBy(thrown), back, off))
     }
