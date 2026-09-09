@@ -1108,6 +1108,9 @@
     "temper/lib-addon-keybinds": {
       "name": "@akasha/temper-lib-addon-keybinds",
     },
+    "temper/lib-addon-menu": {
+      "name": "@akasha/temper-lib-addon-menu",
+    },
     "temper/lib-addon-menu-order-list-box": {
       "name": "@akasha/temper-lib-addon-menu-order-list-box",
     },
@@ -1318,9 +1321,6 @@
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
-    },
-    "temper/temper-lib-addon-menu": {
-      "name": "@akasha/temper-lib-addon-menu",
     },
     "temper/temper-lib-async": {
       "name": "@akasha/temper-lib-async",
@@ -1635,7 +1635,7 @@
 
     "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:temper/lib-addon-keybinds"],
 
-    "@akasha/temper-lib-addon-menu": ["@akasha/temper-lib-addon-menu@workspace:temper/temper-lib-addon-menu"],
+    "@akasha/temper-lib-addon-menu": ["@akasha/temper-lib-addon-menu@workspace:temper/lib-addon-menu"],
 
     "@akasha/temper-lib-addon-menu-order-list-box": ["@akasha/temper-lib-addon-menu-order-list-box@workspace:temper/lib-addon-menu-order-list-box"],
 
