@@ -1137,6 +1137,15 @@
     "temper/lib-zone": {
       "name": "@akasha/temper-lib-zone",
     },
+    "temper/navigation-addon": {
+      "name": "@akasha/temper-navigation-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
+    },
     "temper/player-completion-state": {
       "name": "@akasha/temper-player-completion-state",
       "dependencies": {
@@ -1319,15 +1328,6 @@
     },
     "temper/temper-lib-slash-commander": {
       "name": "@akasha/temper-lib-slash-commander",
-    },
-    "temper/temper-navigation-addon": {
-      "name": "@akasha/temper-navigation-addon",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
     },
     "temper/temper-races": {
       "name": "@akasha/temper-races",
@@ -1689,7 +1689,7 @@
 
     "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/lib-zone"],
 
-    "@akasha/temper-navigation-addon": ["@akasha/temper-navigation-addon@workspace:temper/temper-navigation-addon"],
+    "@akasha/temper-navigation-addon": ["@akasha/temper-navigation-addon@workspace:temper/navigation-addon"],
 
     "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:temper/player-completion-state"],
 
