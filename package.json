@@ -62,7 +62,6 @@
     "@akasha/cluster-manifests": "workspace:*",
     "@akasha/talos": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
-    "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
     "@akasha/temper-player-completion-state": "workspace:*",

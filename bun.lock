@@ -41,7 +41,6 @@
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
@@ -1189,12 +1188,6 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "temper/skill-kinds": {
-      "name": "@akasha/temper-skill-kinds",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/temper-eso-types": {
       "name": "@akasha/temper-eso-types",
     },
@@ -1227,7 +1220,6 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "class-variance-authority": "^0.7.1",
@@ -1505,8 +1497,6 @@
     "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/quests-addon"],
 
     "@akasha/temper-selector-addon": ["@akasha/temper-selector-addon@workspace:temper/selector-addon"],
-
-    "@akasha/temper-skill-kinds": ["@akasha/temper-skill-kinds@workspace:temper/skill-kinds"],
 
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 

@@ -102,7 +102,7 @@ export const temper = {
     "domain/temper-errors-triage",
     "domain/temper-catalog-side-file",
     "domain/temper-items-rules-core",
-    "workspace-package/temper-skill-kinds",
+    "domain/temper-skill-kinds",
     "eso-addon/temper-interface-addon",
     "workspace-package/temper-character-sources",
     "domain/temper-player-completion",
