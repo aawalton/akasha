@@ -29,10 +29,25 @@ function refusingAt(seen: Reached[], address: string): Reaching {
   }
 }
 
-function worldFor(reaching: Reaching, page: Record<string, string> | null): World {
+const BODY = `export type One = {
+  name: Name
+}
+`
+
+const LISTED = `export type One = {
+  names: readonly Name[]
+}
+`
+
+function worldFor(
+  reaching: Reaching,
+  page: Record<string, string> | null,
+  body: string = BODY
+): World {
   return {
     ...worldOf({}),
     index: { pageByPath: () => page } as never,
+    textOf: () => body,
     reaching,
   }
 }
@@ -135,6 +150,30 @@ test("a refusal from the change moving the type is answered rather than the key 
   )
 
   expect(said.refused ?? "").toMatch(/move-code-export/)
+})
+
+test("a page type whose type spells a list of another type is refused, naming the key", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(
+    worldFor(catching(seen), { pageTypeSlug: "page-type", slug: "one" }, LISTED),
+    { at: AT }
+  )
+
+  expect(said.refused ?? "").toMatch(/`names`/)
+  expect(seen).toEqual([])
+})
+
+test("a page type whose keys each name one type is turned over", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(
+    worldFor(catching(seen), { pageTypeSlug: "page-type", slug: "one" }),
+    { at: AT }
+  )
+
+  expect(said.refused).toBeNull()
+  expect(seen).toHaveLength(2)
 })
 
 test("arguments holding no path are refused by the name of the argument", async () => {

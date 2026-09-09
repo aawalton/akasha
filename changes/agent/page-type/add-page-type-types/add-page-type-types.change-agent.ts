@@ -55,6 +55,10 @@ export const addPageTypeTypes = {
       invariantKind: "absence",
       statement: "Nothing here writes the type the page type gains.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page type whose type spells a key as a list of another type is refused.",
+    },
   ],
   changeKind: "change-checked",
 } as const satisfies ChangeAgent

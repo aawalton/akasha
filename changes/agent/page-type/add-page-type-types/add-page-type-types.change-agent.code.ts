@@ -1,6 +1,8 @@
+import { parsedAs } from "@akasha/code/code-source"
 import { typedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { textAt } from "@akasha/pages/page-value-reading"
+import ts from "typescript"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
@@ -31,6 +33,27 @@ export type AddPageTypeTypesAsked = {
   readonly at: string
 }
 
+function listed(held: ts.TypeNode): boolean {
+  if (ts.isArrayTypeNode(held)) return true
+  return ts.isTypeOperatorNode(held) && held.operator === ts.SyntaxKind.ReadonlyKeyword
+}
+
+export function listedIn(source: ts.SourceFile, of: string): string | null {
+  for (const one of source.statements) {
+    if (!ts.isTypeAliasDeclaration(one) || one.name.text !== of) continue
+    const found: string[] = []
+    const walked = (held: ts.Node): undefined => {
+      if (ts.isPropertySignature(held) && held.type !== undefined && listed(held.type)) {
+        found.push(held.name.getText(source))
+      }
+      return ts.forEachChild(held, walked)
+    }
+    walked(one)
+    return found[0] ?? null
+  }
+  return null
+}
+
 export async function addPageTypeTypes(
   world: World,
   given: AddPageTypeTypesAsked
@@ -44,6 +67,15 @@ export async function addPageTypeTypes(
   if (slug === null) return refusing(`\`${given.at}\` states no slug`)
   const to = besideAt(given.at, TYPES, HOLDS)
   if (to === null) return refusing(`\`${given.at}\` is no body another file sits beside`)
+  const text = world.textOf(given.at)
+  if (text === null) return refusing(`\`${given.at}\` could not be read`)
+  const many = listedIn(parsedAs(given.at, text), typedAs(slug))
+  if (many !== null) {
+    return refusing(
+      `\`${many}\` is written as a list of another type, and a written type names a property's ` +
+        `own type, so that property carries its list before this page type is turned over`
+    )
+  }
   const answers: Answer[] = []
   let over: World = isLedger(world)
     ? world
