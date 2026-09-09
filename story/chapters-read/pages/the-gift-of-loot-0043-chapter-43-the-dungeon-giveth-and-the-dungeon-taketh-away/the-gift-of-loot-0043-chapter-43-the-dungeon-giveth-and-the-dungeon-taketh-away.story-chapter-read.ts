@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0043Chapter43TheDungeonGivethAndTheDungeonTakethAway = {
   id: "01a06730-4ee9-7f91-a35a-7d1948a9fb57",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0043-chapter-43-the-dungeon-giveth-and-the-dungeon-taketh-away",
   title: "Chapter 43: The Dungeon Giveth and The Dungeon Taketh Away",
   story: "the-gift-of-loot",

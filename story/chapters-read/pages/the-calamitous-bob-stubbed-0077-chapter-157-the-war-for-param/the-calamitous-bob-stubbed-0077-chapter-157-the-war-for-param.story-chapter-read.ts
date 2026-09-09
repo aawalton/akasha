@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0077Chapter157TheWarForParam = {
   id: "01a06730-4f80-7d23-a5bb-db732be670c9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0077-chapter-157-the-war-for-param",
   title: "Chapter 157: The War for Param.",
   story: "the-calamitous-bob-stubbed",

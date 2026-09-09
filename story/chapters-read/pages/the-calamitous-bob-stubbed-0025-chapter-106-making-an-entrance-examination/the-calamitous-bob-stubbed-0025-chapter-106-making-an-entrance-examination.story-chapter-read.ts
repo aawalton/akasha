@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0025Chapter106MakingAnEntranceExamination = {
   id: "01a06730-4f4d-7eb5-a350-7c6e2097bdaa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0025-chapter-106-making-an-entrance-examination",
   title: "Chapter 106: Making an entrance (examination)",
   story: "the-calamitous-bob-stubbed",

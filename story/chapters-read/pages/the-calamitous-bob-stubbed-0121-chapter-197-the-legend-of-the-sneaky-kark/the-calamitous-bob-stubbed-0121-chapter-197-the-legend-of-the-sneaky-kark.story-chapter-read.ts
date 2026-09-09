@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0121Chapter197TheLegendOfTheSneakyKark = {
   id: "01a06730-4faf-7ded-8198-7ba4ddb57272",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0121-chapter-197-the-legend-of-the-sneaky-kark",
   title: "Chapter 197: The Legend of the Sneaky Kark",
   story: "the-calamitous-bob-stubbed",

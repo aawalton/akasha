@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0016Chapter16TheBurningBoss = {
   id: "01a06730-4edc-7898-a031-bd0ba560cf5b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0016-chapter-16-the-burning-boss",
   title: "Chapter 16: The Burning Boss",
   story: "the-gift-of-loot",

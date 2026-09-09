@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0045Chapter45Level3 = {
   id: "01a06730-4eed-7e01-92fa-701d783b631d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0045-chapter-45-level-3",
   title: "Chapter 45: Level 3",
   story: "the-gift-of-loot",

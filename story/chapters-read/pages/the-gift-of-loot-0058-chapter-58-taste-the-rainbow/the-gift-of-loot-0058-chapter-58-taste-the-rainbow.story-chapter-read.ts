@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0058Chapter58TasteTheRainbow = {
   id: "01a06730-4ef5-7e75-84de-8bacda29db3b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0058-chapter-58-taste-the-rainbow",
   title: "Chapter 58: Taste The Rainbow",
   story: "the-gift-of-loot",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0107Chapter185TheWallsOfGlastia = {
   id: "01a06730-4fa1-7926-8f8a-e87e6b5e610f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0107-chapter-185-the-walls-of-glastia",
   title: "Chapter 185: The Walls of Glastia",
   story: "the-calamitous-bob-stubbed",

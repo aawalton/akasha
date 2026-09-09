@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0063Chapter62TheLordAndTacoTuesday = {
   id: "01a06730-4df6-7293-971d-b5456a476fa2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0063-chapter-62-the-lord-and-taco-tuesday",
   title: "Chapter 62: The Lord and Taco Tuesday",
   story: "system-girl-system-mc-world-hopping-comedy",

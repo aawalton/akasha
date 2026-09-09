@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0026Chapter107MeetInterestingPeopleKillThem = {
   id: "01a06730-4f4e-71fd-881b-7ce7898bf8a5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0026-chapter-107-meet-interesting-people-kill-them",
   title: "Chapter 107: Meet interesting people. Kill them",
   story: "the-calamitous-bob-stubbed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0142Chapter217ETComesHomeOrElse = {
   id: "01a06730-4fc6-7e66-b0d8-d47e73643c95",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0142-chapter-217-e-t-comes-home-or-else",
   title: "Chapter 217: E.T. comes home, or else",
   story: "the-calamitous-bob-stubbed",

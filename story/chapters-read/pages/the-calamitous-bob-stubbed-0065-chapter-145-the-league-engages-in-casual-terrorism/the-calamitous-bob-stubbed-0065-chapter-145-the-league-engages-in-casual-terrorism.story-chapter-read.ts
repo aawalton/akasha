@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0065Chapter145TheLeagueEngagesInCasualTerrorism = {
   id: "01a06730-4f72-77ad-a97d-cc72e2f98d7f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0065-chapter-145-the-league-engages-in-casual-terrorism",
   title: "Chapter 145: The League Engages in Casual Terrorism",
   story: "the-calamitous-bob-stubbed",

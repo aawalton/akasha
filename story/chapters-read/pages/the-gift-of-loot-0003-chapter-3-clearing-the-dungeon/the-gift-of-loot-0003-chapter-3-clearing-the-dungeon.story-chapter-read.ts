@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0003Chapter3ClearingTheDungeon = {
   id: "01a06730-4ed9-738e-af05-31e1789908ea",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0003-chapter-3-clearing-the-dungeon",
   title: "Chapter 3: Clearing The Dungeon",
   story: "the-gift-of-loot",

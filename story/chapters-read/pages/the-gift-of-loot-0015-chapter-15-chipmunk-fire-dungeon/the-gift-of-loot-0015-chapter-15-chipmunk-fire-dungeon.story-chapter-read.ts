@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0015Chapter15ChipmunkFireDungeon = {
   id: "01a06730-4edb-7415-b3a9-f331be04ba04",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0015-chapter-15-chipmunk-fire-dungeon",
   title: "Chapter 15: Chipmunk Fire Dungeon",
   story: "the-gift-of-loot",

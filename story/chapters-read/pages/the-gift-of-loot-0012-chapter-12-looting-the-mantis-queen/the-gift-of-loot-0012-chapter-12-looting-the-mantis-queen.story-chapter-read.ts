@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0012Chapter12LootingTheMantisQueen = {
   id: "01a06730-4edb-7869-809d-156b6d64741b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0012-chapter-12-looting-the-mantis-queen",
   title: "Chapter 12: Looting The Mantis Queen",
   story: "the-gift-of-loot",

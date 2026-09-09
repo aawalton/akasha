@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0049Chapter49TheHardSell = {
   id: "01a06730-4ef0-781b-8017-0ec0a83d382b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0049-chapter-49-the-hard-sell",
   title: "Chapter 49: The Hard Sell",
   story: "the-gift-of-loot",

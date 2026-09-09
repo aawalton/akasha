@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0058Chapter138EdgeOfThePrecipice = {
   id: "01a06730-4f6b-72f9-8631-fd0c0f28dc63",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0058-chapter-138-edge-of-the-precipice",
   title: "Chapter 138. Edge of the precipice.",
   story: "the-calamitous-bob-stubbed",

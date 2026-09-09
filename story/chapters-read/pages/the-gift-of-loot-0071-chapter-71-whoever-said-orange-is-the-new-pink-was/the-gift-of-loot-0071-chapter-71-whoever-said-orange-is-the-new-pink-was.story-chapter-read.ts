@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0071Chapter71WhoeverSaidOrangeIsTheNewPinkWas = {
   id: "01a06730-4efa-7239-bbbf-d4deb669cade",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0071-chapter-71-whoever-said-orange-is-the-new-pink-was",
   title: "Chapter 71: Whoever Said Orange Is The New Pink Was Seriously Disturbed",
   story: "the-gift-of-loot",

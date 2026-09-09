@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0004Chapter4FireJuggler = {
   id: "01a06730-4ed9-795b-9923-31b16a893bc9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0004-chapter-4-fire-juggler",
   title: "Chapter 4: Fire Juggler",
   story: "the-gift-of-loot",

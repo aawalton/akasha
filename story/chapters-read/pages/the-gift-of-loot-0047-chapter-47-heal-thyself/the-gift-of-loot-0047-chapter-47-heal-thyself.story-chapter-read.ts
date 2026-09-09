@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0047Chapter47HealThyself = {
   id: "01a06730-4eef-703d-b55b-ecaa8a37b46c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0047-chapter-47-heal-thyself",
   title: "Chapter 47: Heal Thyself",
   story: "the-gift-of-loot",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0084Chapter163TheCityOfOverpoweredManchildren = {
   id: "01a06730-4f87-7e60-a1d3-9fe90d015991",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0084-chapter-163-the-city-of-overpowered-manchildren",
   title: "Chapter 163: The City of Overpowered Manchildren",
   story: "the-calamitous-bob-stubbed",

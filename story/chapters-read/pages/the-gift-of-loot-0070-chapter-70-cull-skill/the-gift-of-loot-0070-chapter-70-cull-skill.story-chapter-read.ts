@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0070Chapter70CullSkill = {
   id: "01a06730-4efa-7c53-9702-73d7c84b9d28",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0070-chapter-70-cull-skill",
   title: "Chapter 70: Cull Skill",
   story: "the-gift-of-loot",

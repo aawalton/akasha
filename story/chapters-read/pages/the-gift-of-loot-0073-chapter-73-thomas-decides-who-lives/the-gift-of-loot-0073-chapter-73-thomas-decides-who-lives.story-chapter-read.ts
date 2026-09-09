@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0073Chapter73ThomasDecidesWhoLives = {
   id: "01a06730-4efb-766e-b5de-e8cc5fa28e75",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0073-chapter-73-thomas-decides-who-lives",
   title: "Chapter 73: Thomas Decides Who Lives",
   story: "the-gift-of-loot",

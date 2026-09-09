@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0047Chapter127TheGatesOfHell = {
   id: "01a06730-4f61-7a35-969d-505fcd568179",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0047-chapter-127-the-gates-of-hell",
   title: "Chapter 127: The Gates of Hell",
   story: "the-calamitous-bob-stubbed",

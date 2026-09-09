@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0061Chapter60TheGoldenCoin = {
   id: "01a06730-4df5-7c57-af47-98b4abd75b95",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0061-chapter-60-the-golden-coin",
   title: "Chapter 60: The Golden Coin",
   story: "system-girl-system-mc-world-hopping-comedy",

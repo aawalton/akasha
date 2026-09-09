@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0056Chapter136BloodOnTheSand = {
   id: "01a06730-4f69-7611-b946-ec46ca31d7d5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0056-chapter-136-blood-on-the-sand",
   title: "Chapter 136: Blood on the Sand",
   story: "the-calamitous-bob-stubbed",

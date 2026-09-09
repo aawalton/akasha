@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0137Chapter212AWorldAtPeace = {
   id: "01a06730-4fc0-7f2e-980c-666c7f965f90",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0137-chapter-212-a-world-at-peace",
   title: "Chapter 212: A World At Peace",
   story: "the-calamitous-bob-stubbed",

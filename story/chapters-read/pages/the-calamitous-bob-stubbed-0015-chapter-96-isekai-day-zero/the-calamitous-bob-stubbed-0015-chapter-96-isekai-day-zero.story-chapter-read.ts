@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0015Chapter96IsekaiDayZero = {
   id: "01a06730-4f44-780b-804c-0d29adc94285",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0015-chapter-96-isekai-day-zero",
   title: "Chapter 96: Isekai, day zero",
   story: "the-calamitous-bob-stubbed",

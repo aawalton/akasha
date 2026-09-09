@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0004Chapter85Inevitable = {
   id: "01a06730-4f3a-7ae4-a675-b25e0d405d63",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0004-chapter-85-inevitable",
   title: "Chapter 85: Inevitable",
   story: "the-calamitous-bob-stubbed",

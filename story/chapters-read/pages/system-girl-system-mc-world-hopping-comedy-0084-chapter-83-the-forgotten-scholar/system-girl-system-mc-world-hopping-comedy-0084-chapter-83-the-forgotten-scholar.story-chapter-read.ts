@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0084Chapter83TheForgottenScholar = {
   id: "01a06730-4dfc-72a6-83e0-2bef186f2e32",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0084-chapter-83-the-forgotten-scholar",
   title: "Chapter 83: The Forgotten Scholar",
   story: "system-girl-system-mc-world-hopping-comedy",

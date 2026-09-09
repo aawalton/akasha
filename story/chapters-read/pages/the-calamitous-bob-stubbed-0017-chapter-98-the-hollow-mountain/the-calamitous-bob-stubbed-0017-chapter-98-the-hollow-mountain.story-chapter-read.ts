@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0017Chapter98TheHollowMountain = {
   id: "01a06730-4f46-79ff-a66f-1bc57e7c556a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0017-chapter-98-the-hollow-mountain",
   title: "Chapter 98: The Hollow Mountain",
   story: "the-calamitous-bob-stubbed",

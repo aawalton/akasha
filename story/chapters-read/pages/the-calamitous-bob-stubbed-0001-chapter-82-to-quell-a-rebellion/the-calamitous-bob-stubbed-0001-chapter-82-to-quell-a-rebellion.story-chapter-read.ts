@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0001Chapter82ToQuellARebellion = {
   id: "01a06730-4f35-7c4c-ad34-65c154344202",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0001-chapter-82-to-quell-a-rebellion",
   title: "Chapter 82: To Quell a Rebellion",
   story: "the-calamitous-bob-stubbed",

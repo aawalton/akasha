@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0002Chapter83GreenHell = {
   id: "01a06730-4f37-7141-bba5-70ffa4255a40",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0002-chapter-83-green-hell",
   title: "Chapter 83: Green Hell",
   story: "the-calamitous-bob-stubbed",

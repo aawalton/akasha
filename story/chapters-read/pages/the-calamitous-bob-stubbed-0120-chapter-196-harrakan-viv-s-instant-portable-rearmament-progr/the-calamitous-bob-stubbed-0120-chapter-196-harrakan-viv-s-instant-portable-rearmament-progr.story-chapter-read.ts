@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0120Chapter196HarrakanVivSInstantPortableRearmamentProgr = {
   id: "01a06730-4fae-7b7c-b0db-8e6b54a4b82f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0120-chapter-196-harrakan-viv-s-instant-portable-rearmament-progr",
   title: "Chapter 196: Harrakan Viv’s Instant Portable Rearmament Program™",
   story: "the-calamitous-bob-stubbed",

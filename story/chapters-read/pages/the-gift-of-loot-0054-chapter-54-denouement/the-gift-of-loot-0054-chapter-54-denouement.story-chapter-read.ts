@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0054Chapter54Denouement = {
   id: "01a06730-4ef3-72dc-b8b7-d56bc7f60abb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0054-chapter-54-denouement",
   title: "Chapter 54: Denouement",
   story: "the-gift-of-loot",

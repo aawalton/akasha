@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0166MecanimusSigningOff = {
   id: "01a06730-4fdd-7574-be2d-82efbc0bda2a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0166-mecanimus-signing-off",
   title: "Mecanimus, signing off.",
   story: "the-calamitous-bob-stubbed",

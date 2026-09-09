@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0031Chapter31BearMarketBehavior = {
   id: "01a06730-4ee3-7449-a0af-534be1a062d8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0031-chapter-31-bear-market-behavior",
   title: "Chapter 31: Bear Market Behavior",
   story: "the-gift-of-loot",

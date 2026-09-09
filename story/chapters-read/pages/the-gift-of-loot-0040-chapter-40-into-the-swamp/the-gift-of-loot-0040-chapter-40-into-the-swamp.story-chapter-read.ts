@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0040Chapter40IntoTheSwamp = {
   id: "01a06730-4ee8-770e-89f7-95a4f455c2fa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0040-chapter-40-into-the-swamp",
   title: "Chapter 40: Into The Swamp",
   story: "the-gift-of-loot",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0074Chapter74ProblemChildOnTheLoose = {
   id: "01a06730-4efc-7eaf-a84f-33efea2906d6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0074-chapter-74-problem-child-on-the-loose",
   title: "Chapter 74: Problem Child On The Loose",
   story: "the-gift-of-loot",

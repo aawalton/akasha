@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0041Chapter41AllTheSmallThings = {
   id: "01a06730-4ee8-7444-be2d-c4b073713c2e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0041-chapter-41-all-the-small-things",
   title: "Chapter 41: All The Small Things",
   story: "the-gift-of-loot",

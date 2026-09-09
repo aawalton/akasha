@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0076Chapter76WarCouncil = {
   id: "01a06730-4efc-7031-aebf-c5598ab559bb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0076-chapter-76-war-council",
   title: "Chapter 76: War Council",
   story: "the-gift-of-loot",

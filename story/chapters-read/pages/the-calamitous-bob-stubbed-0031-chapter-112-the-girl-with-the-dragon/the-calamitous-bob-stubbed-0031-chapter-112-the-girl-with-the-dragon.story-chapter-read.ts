@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0031Chapter112TheGirlWithTheDragon = {
   id: "01a06730-4f52-757d-a4b9-7061ccd0797c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0031-chapter-112-the-girl-with-the-dragon",
   title: "Chapter 112: The girl with the Dragon",
   story: "the-calamitous-bob-stubbed",

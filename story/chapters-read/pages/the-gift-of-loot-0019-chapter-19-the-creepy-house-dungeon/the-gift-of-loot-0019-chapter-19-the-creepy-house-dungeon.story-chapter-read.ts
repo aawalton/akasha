@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0019Chapter19TheCreepyHouseDungeon = {
   id: "01a06730-4edf-7dad-bdf7-e00b8763e16c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0019-chapter-19-the-creepy-house-dungeon",
   title: "Chapter 19: The Creepy House Dungeon",
   story: "the-gift-of-loot",

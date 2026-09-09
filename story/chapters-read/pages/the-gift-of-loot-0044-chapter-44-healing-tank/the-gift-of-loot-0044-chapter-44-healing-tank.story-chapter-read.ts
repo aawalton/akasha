@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0044Chapter44HealingTank = {
   id: "01a06730-4eeb-77a8-8db4-89c8ca0df43f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0044-chapter-44-healing-tank",
   title: "Chapter 44: Healing Tank",
   story: "the-gift-of-loot",

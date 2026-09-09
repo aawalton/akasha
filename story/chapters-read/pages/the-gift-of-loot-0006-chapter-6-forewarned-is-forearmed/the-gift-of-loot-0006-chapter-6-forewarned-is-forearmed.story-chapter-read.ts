@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0006Chapter6ForewarnedIsForearmed = {
   id: "01a06730-4eda-7f88-ae4a-cd142c40b607",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0006-chapter-6-forewarned-is-forearmed",
   title: "Chapter 6: Forewarned is Forearmed",
   story: "the-gift-of-loot",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0075Chapter74ThePlushieBuddies = {
   id: "01a06730-4df8-79fb-8cf3-24911dfbbdd8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0075-chapter-74-the-plushie-buddies",
   title: "Chapter 74: The Plushie Buddies",
   story: "system-girl-system-mc-world-hopping-comedy",

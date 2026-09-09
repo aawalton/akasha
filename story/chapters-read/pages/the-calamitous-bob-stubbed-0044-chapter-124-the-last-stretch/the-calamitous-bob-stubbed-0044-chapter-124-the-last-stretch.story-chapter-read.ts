@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0044Chapter124TheLastStretch = {
   id: "01a06730-4f5d-7312-a1e9-642a279dcdda",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0044-chapter-124-the-last-stretch",
   title: "Chapter 124: The last stretch.",
   story: "the-calamitous-bob-stubbed",

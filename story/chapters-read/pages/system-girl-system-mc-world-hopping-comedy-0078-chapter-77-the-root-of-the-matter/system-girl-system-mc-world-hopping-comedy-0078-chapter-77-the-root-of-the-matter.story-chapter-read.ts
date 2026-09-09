@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0078Chapter77TheRootOfTheMatter = {
   id: "01a06730-4df9-7262-b4e5-471fc816c1a1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0078-chapter-77-the-root-of-the-matter",
   title: "Chapter 77: The Root of the Matter",
   story: "system-girl-system-mc-world-hopping-comedy",

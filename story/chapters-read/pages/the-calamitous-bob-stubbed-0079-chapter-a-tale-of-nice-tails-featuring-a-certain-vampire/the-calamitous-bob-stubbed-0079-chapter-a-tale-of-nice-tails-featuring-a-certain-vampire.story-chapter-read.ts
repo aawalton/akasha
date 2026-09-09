@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0079ChapterATaleOfNiceTailsFeaturingACertainVampire = {
   id: "01a06730-4f82-7ec4-ab86-a330887eeb2b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0079-chapter-a-tale-of-nice-tails-featuring-a-certain-vampire",
   title: "Chapter ??? A tale of Nice Tails (featuring a certain vampire)",
   story: "the-calamitous-bob-stubbed",

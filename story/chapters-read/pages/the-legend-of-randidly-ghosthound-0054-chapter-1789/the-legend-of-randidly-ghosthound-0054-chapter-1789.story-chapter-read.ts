@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theLegendOfRandidlyGhosthound0054Chapter1789 = {
   id: "01a06730-4e09-719b-8ccb-0b92fec3136e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-legend-of-randidly-ghosthound-0054-chapter-1789",
   title: "Chapter 1789",
   story: "story-read/the-legend-of-randidly-ghosthound",

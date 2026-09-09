@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0073Chapter153ExtraDiplomatic = {
   id: "01a06730-4f7c-71e7-8ed2-9276691f99c9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0073-chapter-153-extra-diplomatic",
   title: "Chapter 153. Extra Diplomatic",
   story: "the-calamitous-bob-stubbed",

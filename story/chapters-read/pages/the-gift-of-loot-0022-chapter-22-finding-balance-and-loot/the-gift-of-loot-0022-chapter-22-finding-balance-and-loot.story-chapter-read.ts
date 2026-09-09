@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0022Chapter22FindingBalanceAndLoot = {
   id: "01a06730-4edf-7546-aaa7-62ac6c3c2ea8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0022-chapter-22-finding-balance-and-loot",
   title: "Chapter 22: Finding Balance (And Loot)",
   story: "the-gift-of-loot",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0157Chapter232PlainOfTheGods = {
   id: "01a06730-4fd5-7ff7-be8d-6755d7314ca1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0157-chapter-232-plain-of-the-gods",
   title: "Chapter 232: Plain of the Gods.",
   story: "the-calamitous-bob-stubbed",

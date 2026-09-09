@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0069Chapter149EconomyOfScale = {
   id: "01a06730-4f76-76e8-a404-3d7c3c30d805",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0069-chapter-149-economy-of-scale",
   title: "Chapter 149: Economy of Scale",
   story: "the-calamitous-bob-stubbed",

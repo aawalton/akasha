@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0012Chapter93WhatGoesAround = {
   id: "01a06730-4f41-7c9d-b2e9-c0e8a58de71f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0012-chapter-93-what-goes-around",
   title: "Chapter 93 What goes around.",
   story: "the-calamitous-bob-stubbed",

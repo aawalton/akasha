@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theGiftOfLoot0061Chapter61ManaTalk = {
   id: "01a06730-4ef6-73c0-a2e0-daf9011c00a2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-gift-of-loot-0061-chapter-61-mana-talk",
   title: "Chapter 61: Mana Talk",
   story: "the-gift-of-loot",

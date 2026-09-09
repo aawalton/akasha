@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0043Chapter123ThePitOfHatred = {
   id: "01a06730-4f5c-7091-bda5-65283d708de3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0043-chapter-123-the-pit-of-hatred",
   title: "Chapter 123: The Pit of Hatred",
   story: "the-calamitous-bob-stubbed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0088Chapter166TheVote = {
   id: "01a06730-4f8b-7020-933a-b6de4ff0602b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0088-chapter-166-the-vote",
   title: "Chapter 166: The Vote",
   story: "the-calamitous-bob-stubbed",

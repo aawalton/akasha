@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0022Chapter103AcademyApprovedBattleMagic = {
   id: "01a06730-4f4b-7649-97c3-dd790e607ef6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0022-chapter-103-academy-approved-battle-magic",
   title: "Chapter 103: Academy-approved Battle Magic",
   story: "the-calamitous-bob-stubbed",

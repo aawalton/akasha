@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0141Chapter216VivGetsHerJustDesert = {
   id: "01a06730-4fc5-7b44-80dd-e000f1a81085",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0141-chapter-216-viv-gets-her-just-desert",
   title: "Chapter 216: Viv gets her just desert",
   story: "the-calamitous-bob-stubbed",

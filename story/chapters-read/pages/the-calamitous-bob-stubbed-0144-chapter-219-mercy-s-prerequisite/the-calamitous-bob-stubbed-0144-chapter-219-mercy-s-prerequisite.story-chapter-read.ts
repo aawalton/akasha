@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0144Chapter219MercySPrerequisite = {
   id: "01a06730-4fc8-7be0-b9c9-b5f265eac577",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0144-chapter-219-mercy-s-prerequisite",
   title: "Chapter 219: Mercy’s prerequisite",
   story: "the-calamitous-bob-stubbed",

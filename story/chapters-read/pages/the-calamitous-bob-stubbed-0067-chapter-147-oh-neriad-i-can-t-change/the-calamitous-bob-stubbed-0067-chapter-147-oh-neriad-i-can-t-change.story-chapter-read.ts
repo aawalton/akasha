@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theCalamitousBobStubbed0067Chapter147OhNeriadICanTChange = {
   id: "01a06730-4f74-731d-af03-8e6221cd43ec",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0067-chapter-147-oh-neriad-i-can-t-change",
   title: "Chapter 147: Oh Neriad, I can't change.",
   story: "the-calamitous-bob-stubbed",

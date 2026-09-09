@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const systemGirlSystemMcWorldHoppingComedy0098Chapter97TheWalledGarden = {
   id: "01a06730-4e04-796d-87c8-171c2bbabdb9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0098-chapter-97-the-walled-garden",
   title: "Chapter 97: The Walled Garden",
   story: "system-girl-system-mc-world-hopping-comedy",
