@@ -5,7 +5,7 @@ export const jadaFacerComeAsYouAreAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-come-as-you-are-acoustic",
   title: "Come As You Are (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.542567,
   ownProgress: 2.542567,

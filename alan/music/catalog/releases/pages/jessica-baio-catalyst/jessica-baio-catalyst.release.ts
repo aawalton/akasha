@@ -5,7 +5,7 @@ export const jessicaBaioCatalyst = {
   pageTypeSlug: "release",
   slug: "jessica-baio-catalyst",
   title: "catalyst",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 17.88575,
   ownProgress: 17.88575,

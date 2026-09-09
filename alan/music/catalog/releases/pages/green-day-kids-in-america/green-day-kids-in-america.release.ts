@@ -5,7 +5,7 @@ export const greenDayKidsInAmerica = {
   pageTypeSlug: "release",
   slug: "green-day-kids-in-america",
   title: "Kids in America",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 3.14595,
   ownProgress: 0,

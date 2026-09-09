@@ -5,7 +5,7 @@ export const imagineDragonsGoldJorgenOdegardRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-gold-jorgen-odegard-remix",
   title: "Gold (Jorgen Odegard Remix)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 4.114667,
   ownProgress: 4.114667,

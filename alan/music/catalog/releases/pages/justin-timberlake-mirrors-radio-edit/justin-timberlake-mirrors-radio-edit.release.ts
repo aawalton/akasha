@@ -5,7 +5,7 @@ export const justinTimberlakeMirrorsRadioEdit = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-mirrors-radio-edit",
   title: "Mirrors (Radio Edit)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 4.621767,
   ownProgress: 0,

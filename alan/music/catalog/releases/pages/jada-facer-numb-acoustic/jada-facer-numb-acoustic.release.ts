@@ -5,7 +5,7 @@ export const jadaFacerNumbAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-numb-acoustic",
   title: "Numb (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.701467,
   ownProgress: 2.701467,

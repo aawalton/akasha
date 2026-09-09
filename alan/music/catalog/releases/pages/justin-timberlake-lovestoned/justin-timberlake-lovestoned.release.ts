@@ -5,7 +5,7 @@ export const justinTimberlakeLovestoned = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-lovestoned",
   title: "LoveStoned",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 32.489717,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const imagineDragonsThunderWithKFlayOfficialRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-thunder-with-k-flay-official-remix",
   title: "Thunder (With K.Flay) [Official Remix]",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.262,
   ownProgress: 3.262,

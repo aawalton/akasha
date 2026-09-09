@@ -5,7 +5,7 @@ export const greenDayWarning = {
   pageTypeSlug: "release",
   slug: "green-day-warning",
   title: "Warning",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 41.153267,
   ownProgress: 41.153267,

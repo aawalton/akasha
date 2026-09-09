@@ -5,7 +5,7 @@ export const jadaFacerMistletoe = {
   pageTypeSlug: "release",
   slug: "jada-facer-mistletoe",
   title: "Mistletoe",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.614183,
   ownProgress: 2.614183,

@@ -5,7 +5,7 @@ export const katyPerryCaliforniaGurlsFeatSnoopDogg = {
   pageTypeSlug: "release",
   slug: "katy-perry-california-gurls-feat-snoop-dogg",
   title: "California Gurls (feat. Snoop Dogg)",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 8.059317,
   ownProgress: 8.059317,

@@ -5,7 +5,7 @@ export const greenDayWarStories = {
   pageTypeSlug: "release",
   slug: "green-day-war-stories",
   title: "War Stories",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 2.6967,
   ownProgress: 0,

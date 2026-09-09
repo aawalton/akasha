@@ -5,7 +5,7 @@ export const gracieAbramsTheBuccaneersSeason1AppleTvOriginalSeriesSoundtrack = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-the-buccaneers-season-1-apple-tv-original-series-soundtrack",
   title: "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 72.79855,
   ownProgress: 72.79855,

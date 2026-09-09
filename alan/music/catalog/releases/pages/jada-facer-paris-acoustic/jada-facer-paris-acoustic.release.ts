@@ -5,7 +5,7 @@ export const jadaFacerParisAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-paris-acoustic",
   title: "Paris (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 1.844433,
   ownProgress: 1.844433,

@@ -5,7 +5,7 @@ export const jadaFacerLetMeDownSlowly = {
   pageTypeSlug: "release",
   slug: "jada-facer-let-me-down-slowly",
   title: "Let Me Down Slowly",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.796367,
   ownProgress: 2.796367,

@@ -5,7 +5,7 @@ export const jennaRaineBiteTheBullet = {
   pageTypeSlug: "release",
   slug: "jenna-raine-bite-the-bullet",
   title: "BITE THE BULLET",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 5.961967,
   ownProgress: 5.961967,

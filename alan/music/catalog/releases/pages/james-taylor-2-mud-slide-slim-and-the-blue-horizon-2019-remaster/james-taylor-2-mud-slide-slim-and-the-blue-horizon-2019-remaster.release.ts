@@ -5,7 +5,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019Remaster = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-mud-slide-slim-and-the-blue-horizon-2019-remaster",
   title: "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 37.355033,
   ownProgress: 37.355033,

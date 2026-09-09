@@ -5,7 +5,7 @@ export const greenDayInsomniac = {
   pageTypeSlug: "release",
   slug: "green-day-insomniac",
   title: "Insomniac",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 32.9008,
   ownProgress: 32.9008,

@@ -5,7 +5,7 @@ export const jadaFacerSkinnyLove = {
   pageTypeSlug: "release",
   slug: "jada-facer-skinny-love",
   title: "Skinny Love",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.6399,
   ownProgress: 2.6399,

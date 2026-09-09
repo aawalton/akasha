@@ -5,7 +5,7 @@ export const jennaRaineFumbledTheBag = {
   pageTypeSlug: "release",
   slug: "jenna-raine-fumbled-the-bag",
   title: "Fumbled the Bag",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 3.1606,
   ownProgress: 3.1606,

@@ -5,7 +5,7 @@ export const imagineDragonsRadioactiveGrouploveCaptainCutsRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-radioactive-grouplove-captain-cuts-remix",
   title: "Radioactive (Grouplove & Captain Cuts Remix)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 4.026883,
   ownProgress: 4.026883,

@@ -5,7 +5,7 @@ export const greenDayAmico = {
   pageTypeSlug: "release",
   slug: "green-day-amico",
   title: "Amico",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 2.4665,
   ownProgress: 0,

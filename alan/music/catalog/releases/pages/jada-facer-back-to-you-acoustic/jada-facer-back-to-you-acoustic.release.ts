@@ -5,7 +5,7 @@ export const jadaFacerBackToYouAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-back-to-you-acoustic",
   title: "Back To You - Acoustic",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.015433,
   ownProgress: 2.015433,

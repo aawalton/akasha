@@ -5,7 +5,7 @@ export const greenDayAmericanIdiot20thAnniversaryBecomingWhoWeAre = {
   pageTypeSlug: "release",
   slug: "green-day-american-idiot-20th-anniversary-becoming-who-we-are",
   title: "American Idiot (20th Anniversary - Becoming Who We Are)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 10.628233,
   ownProgress: 0,

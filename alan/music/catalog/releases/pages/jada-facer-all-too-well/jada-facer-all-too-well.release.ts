@@ -5,7 +5,7 @@ export const jadaFacerAllTooWell = {
   pageTypeSlug: "release",
   slug: "jada-facer-all-too-well",
   title: "All Too Well",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 4.93065,
   ownProgress: 4.93065,

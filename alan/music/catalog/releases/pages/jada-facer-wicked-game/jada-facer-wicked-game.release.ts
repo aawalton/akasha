@@ -5,7 +5,7 @@ export const jadaFacerWickedGame = {
   pageTypeSlug: "release",
   slug: "jada-facer-wicked-game",
   title: "Wicked Game",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.821417,
   ownProgress: 2.821417,

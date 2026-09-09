@@ -5,7 +5,7 @@ export const greenDayYouCanTPutYourArmsRoundAMemory = {
   pageTypeSlug: "release",
   slug: "green-day-you-can-t-put-your-arms-round-a-memory",
   title: "You Can't Put Your Arms Round a Memory",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 3.521417,
   ownProgress: 0,

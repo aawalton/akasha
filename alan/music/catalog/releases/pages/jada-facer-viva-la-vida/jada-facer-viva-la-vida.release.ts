@@ -5,7 +5,7 @@ export const jadaFacerVivaLaVida = {
   pageTypeSlug: "release",
   slug: "jada-facer-viva-la-vida",
   title: "Viva La Vida",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.998067,
   ownProgress: 3.998067,

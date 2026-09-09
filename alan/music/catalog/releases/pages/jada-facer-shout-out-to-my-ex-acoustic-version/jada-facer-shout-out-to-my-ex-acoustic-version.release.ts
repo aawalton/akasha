@@ -5,7 +5,7 @@ export const jadaFacerShoutOutToMyExAcousticVersion = {
   pageTypeSlug: "release",
   slug: "jada-facer-shout-out-to-my-ex-acoustic-version",
   title: "Shout Out to My Ex (Acoustic Version)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.76955,
   ownProgress: 2.76955,

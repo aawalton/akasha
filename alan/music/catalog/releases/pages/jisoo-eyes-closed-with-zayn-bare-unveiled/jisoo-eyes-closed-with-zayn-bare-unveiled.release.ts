@@ -5,7 +5,7 @@ export const jisooEyesClosedWithZaynBareUnveiled = {
   pageTypeSlug: "release",
   slug: "jisoo-eyes-closed-with-zayn-bare-unveiled",
   title: "EYES CLOSED (with ZAYN) [BARE/UNVEILED]",
-  partOfCollectionSlugs: ["jisoo"],
+  partOfCollections: ["jisoo"],
   position: 0,
   ownLength: 9.059483,
   ownProgress: 9.059483,

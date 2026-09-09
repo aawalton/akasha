@@ -5,7 +5,7 @@ export const jadaFacerLathi = {
   pageTypeSlug: "release",
   slug: "jada-facer-lathi",
   title: "LATHI",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.31,
   ownProgress: 3.31,

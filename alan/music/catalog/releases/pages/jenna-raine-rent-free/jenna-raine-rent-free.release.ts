@@ -5,7 +5,7 @@ export const jennaRaineRentFree = {
   pageTypeSlug: "release",
   slug: "jenna-raine-rent-free",
   title: "rent free",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 2.427883,
   ownProgress: 2.427883,

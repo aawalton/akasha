@@ -5,7 +5,7 @@ export const justinTimberlakeSinFin = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-sin-fin",
   title: "Sin Fin",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 3.9111,
   ownProgress: 0,

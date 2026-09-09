@@ -5,7 +5,7 @@ export const jennaRaineRosesVersions = {
   pageTypeSlug: "release",
   slug: "jenna-raine-roses-versions",
   title: "Roses (Versions)",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 22.539267,
   ownProgress: 22.539267,

@@ -5,7 +5,7 @@ export const japaneseBreakfastSoftSoundsFromAnotherPlanet = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-soft-sounds-from-another-planet",
   title: "Soft Sounds from Another Planet",
-  partOfCollectionSlugs: ["japanese-breakfast"],
+  partOfCollections: ["japanese-breakfast"],
   position: 0,
   ownLength: 37.175367,
   ownProgress: 37.175367,

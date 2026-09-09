@@ -5,7 +5,7 @@ export const girlInRedTwoQueensInAKingSizedBed = {
   pageTypeSlug: "release",
   slug: "girl-in-red-two-queens-in-a-king-sized-bed",
   title: "two queens in a king sized bed",
-  partOfCollectionSlugs: ["girl-in-red"],
+  partOfCollections: ["girl-in-red"],
   position: 0,
   ownLength: 3.1824,
   ownProgress: 0,

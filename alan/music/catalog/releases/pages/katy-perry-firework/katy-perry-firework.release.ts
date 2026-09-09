@@ -5,7 +5,7 @@ export const katyPerryFirework = {
   pageTypeSlug: "release",
   slug: "katy-perry-firework",
   title: "Firework",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 0.503867,
   ownProgress: 0.503867,

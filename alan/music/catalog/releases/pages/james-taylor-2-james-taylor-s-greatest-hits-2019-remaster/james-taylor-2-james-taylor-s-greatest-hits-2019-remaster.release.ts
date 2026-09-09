@@ -5,7 +5,7 @@ export const jamesTaylor2JamesTaylorSGreatestHits2019Remaster = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-james-taylor-s-greatest-hits-2019-remaster",
   title: "James Taylor's Greatest Hits (2019 Remaster)",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 43.695067,
   ownProgress: 43.695067,

@@ -5,7 +5,7 @@ export const japaneseBreakfastHeadOverHeelsBWEssentially = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-head-over-heels-b-w-essentially",
   title: "Head Over Heels b/w Essentially",
-  partOfCollectionSlugs: ["japanese-breakfast"],
+  partOfCollections: ["japanese-breakfast"],
   position: 0,
   ownLength: 7.225783,
   ownProgress: 7.225783,

@@ -5,7 +5,7 @@ export const jadaFacerYouReStillTheOneAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-you-re-still-the-one-acoustic",
   title: "You're Still the One (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.55615,
   ownProgress: 3.55615,

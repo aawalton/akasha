@@ -5,7 +5,7 @@ export const jadaFacerWithoutMeSpedUpVersion = {
   pageTypeSlug: "release",
   slug: "jada-facer-without-me-sped-up-version",
   title: "Without Me (Sped Up Version)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.1482,
   ownProgress: 2.1482,

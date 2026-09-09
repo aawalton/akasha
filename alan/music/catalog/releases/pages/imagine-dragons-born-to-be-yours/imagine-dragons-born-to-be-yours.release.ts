@@ -5,7 +5,7 @@ export const imagineDragonsBornToBeYours = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-born-to-be-yours",
   title: "Born To Be Yours",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.222,
   ownProgress: 3.222,

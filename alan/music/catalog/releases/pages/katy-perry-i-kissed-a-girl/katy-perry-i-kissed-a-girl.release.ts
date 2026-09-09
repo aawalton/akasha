@@ -5,7 +5,7 @@ export const katyPerryIKissedAGirl = {
   pageTypeSlug: "release",
   slug: "katy-perry-i-kissed-a-girl",
   title: "I Kissed A Girl",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 12.875317,
   ownProgress: 12.875317,

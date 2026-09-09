@@ -5,7 +5,7 @@ export const jadaFacerWhenThePartySOver = {
   pageTypeSlug: "release",
   slug: "jada-facer-when-the-party-s-over",
   title: "when the party's over",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.5752,
   ownProgress: 2.5752,

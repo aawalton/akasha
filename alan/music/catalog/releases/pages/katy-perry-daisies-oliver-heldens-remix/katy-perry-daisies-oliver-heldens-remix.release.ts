@@ -5,7 +5,7 @@ export const katyPerryDaisiesOliverHeldensRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-daisies-oliver-heldens-remix",
   title: "Daisies (Oliver Heldens Remix)",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 3.593317,
   ownProgress: 3.593317,

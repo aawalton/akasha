@@ -5,7 +5,7 @@ export const jennaRaineBigDumbHeart = {
   pageTypeSlug: "release",
   slug: "jenna-raine-big-dumb-heart",
   title: "Big Dumb Heart",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 3.605233,
   ownProgress: 3.605233,

@@ -5,7 +5,7 @@ export const katyPerryCozyLittleChristmas = {
   pageTypeSlug: "release",
   slug: "katy-perry-cozy-little-christmas",
   title: "Cozy Little Christmas",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 3.042,
   ownProgress: 3.042,

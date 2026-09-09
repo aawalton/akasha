@@ -5,7 +5,7 @@ export const greenDayDemolicious = {
   pageTypeSlug: "release",
   slug: "green-day-demolicious",
   title: "Demolicious",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 62.799933,
   ownProgress: 62.799933,

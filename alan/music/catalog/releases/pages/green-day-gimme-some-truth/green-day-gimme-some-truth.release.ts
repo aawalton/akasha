@@ -5,7 +5,7 @@ export const greenDayGimmeSomeTruth = {
   pageTypeSlug: "release",
   slug: "green-day-gimme-some-truth",
   title: "Gimme Some Truth",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 2.806183,
   ownProgress: 0,

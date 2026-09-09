@@ -5,7 +5,7 @@ export const imagineDragonsItSTimeCherryCherryBoomBoomRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-it-s-time-cherry-cherry-boom-boom-remix",
   title: "It's Time (Cherry Cherry Boom Boom Remix)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 5.2611,
   ownProgress: 5.2611,

@@ -5,7 +5,7 @@ export const japaneseBreakfastJubilee = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-jubilee",
   title: "Jubilee",
-  partOfCollectionSlugs: ["japanese-breakfast"],
+  partOfCollections: ["japanese-breakfast"],
   position: 0,
   ownLength: 37.052217,
   ownProgress: 37.052217,

@@ -5,7 +5,7 @@ export const jadaFacerIDonTWannaLiveForever = {
   pageTypeSlug: "release",
   slug: "jada-facer-i-don-t-wanna-live-forever",
   title: "I Don't Wanna Live Forever",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.840933,
   ownProgress: 2.840933,

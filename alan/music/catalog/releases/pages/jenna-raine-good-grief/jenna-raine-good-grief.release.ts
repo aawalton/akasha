@@ -5,7 +5,7 @@ export const jennaRaineGoodGrief = {
   pageTypeSlug: "release",
   slug: "jenna-raine-good-grief",
   title: "Good Grief",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 5.667483,
   ownProgress: 5.667483,

@@ -5,7 +5,7 @@ export const jamesTaylor2FireAndRain2019Remaster = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-fire-and-rain-2019-remaster",
   title: "Fire and Rain (2019 Remaster)",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 3.39355,
   ownProgress: 3.39355,

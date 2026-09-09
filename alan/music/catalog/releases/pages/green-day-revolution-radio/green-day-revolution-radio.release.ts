@@ -5,7 +5,7 @@ export const greenDayRevolutionRadio = {
   pageTypeSlug: "release",
   slug: "green-day-revolution-radio",
   title: "Revolution Radio",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 44.634383,
   ownProgress: 0,

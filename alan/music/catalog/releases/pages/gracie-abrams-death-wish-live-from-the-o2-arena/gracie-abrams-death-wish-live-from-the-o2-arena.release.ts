@@ -5,7 +5,7 @@ export const gracieAbramsDeathWishLiveFromTheO2Arena = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-death-wish-live-from-the-o2-arena",
   title: "Death Wish (Live from The O2 Arena)",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 3.789183,
   ownProgress: 3.789183,

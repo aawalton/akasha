@@ -5,7 +5,7 @@ export const jamesTaylor2Montana = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-montana",
   title: "Montana",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 3.425333,
   ownProgress: 3.425333,

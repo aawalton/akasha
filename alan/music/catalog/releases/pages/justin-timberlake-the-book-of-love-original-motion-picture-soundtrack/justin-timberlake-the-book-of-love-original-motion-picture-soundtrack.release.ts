@@ -5,7 +5,7 @@ export const justinTimberlakeTheBookOfLoveOriginalMotionPictureSoundtrack = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-the-book-of-love-original-motion-picture-soundtrack",
   title: "The Book of Love (Original Motion Picture Soundtrack)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 60.089867,
   ownProgress: 0,

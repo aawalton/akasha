@@ -5,7 +5,7 @@ export const jennaRaineSleighRide = {
   pageTypeSlug: "release",
   slug: "jenna-raine-sleigh-ride",
   title: "Sleigh Ride",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 3.077417,
   ownProgress: 3.077417,

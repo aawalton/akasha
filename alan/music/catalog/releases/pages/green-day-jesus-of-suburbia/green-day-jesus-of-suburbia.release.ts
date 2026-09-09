@@ -5,7 +5,7 @@ export const greenDayJesusOfSuburbia = {
   pageTypeSlug: "release",
   slug: "green-day-jesus-of-suburbia",
   title: "Jesus of Suburbia",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 12.2471,
   ownProgress: 12.2471,

@@ -5,7 +5,7 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-whatever-it-takes-jorgen-odegard-remix",
   title: "Whatever It Takes (Jorgen Odegard Remix)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.881467,
   ownProgress: 3.881467,

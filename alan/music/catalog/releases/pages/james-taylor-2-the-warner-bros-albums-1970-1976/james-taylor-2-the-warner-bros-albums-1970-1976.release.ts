@@ -5,7 +5,7 @@ export const jamesTaylor2TheWarnerBrosAlbums19701976 = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-the-warner-bros-albums-1970-1976",
   title: "The Warner Bros. Albums: 1970-1976",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 225.062183,
   ownProgress: 225.062183,

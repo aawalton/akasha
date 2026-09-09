@@ -5,7 +5,7 @@ export const gracieAbramsThisIsWhatItFeelsLike = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-this-is-what-it-feels-like",
   title: "This Is What It Feels Like",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 37.85495,
   ownProgress: 37.85495,

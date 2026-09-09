@@ -5,7 +5,7 @@ export const jamesTaylor2Snowtime = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-snowtime",
   title: "SnowTime",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 5.8091,
   ownProgress: 5.8091,

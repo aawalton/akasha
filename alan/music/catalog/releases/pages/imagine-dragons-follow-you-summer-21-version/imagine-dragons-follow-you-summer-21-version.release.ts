@@ -5,7 +5,7 @@ export const imagineDragonsFollowYouSummer21Version = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-follow-you-summer-21-version",
   title: "Follow You (Summer ’21 Version)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 5.8098,
   ownProgress: 5.8098,

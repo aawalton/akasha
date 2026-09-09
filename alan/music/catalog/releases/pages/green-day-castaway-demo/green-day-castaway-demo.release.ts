@@ -5,7 +5,7 @@ export const greenDayCastawayDemo = {
   pageTypeSlug: "release",
   slug: "green-day-castaway-demo",
   title: "Castaway (Demo)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 3.717767,
   ownProgress: 0,

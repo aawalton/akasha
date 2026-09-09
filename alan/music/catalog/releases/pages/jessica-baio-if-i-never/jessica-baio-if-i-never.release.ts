@@ -5,7 +5,7 @@ export const jessicaBaioIfINever = {
   pageTypeSlug: "release",
   slug: "jessica-baio-if-i-never",
   title: "if i never",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 2.937467,
   ownProgress: 2.937467,

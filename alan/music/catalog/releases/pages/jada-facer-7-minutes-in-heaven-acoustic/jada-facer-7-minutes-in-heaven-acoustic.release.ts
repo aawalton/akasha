@@ -5,7 +5,7 @@ export const jadaFacer7MinutesInHeavenAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-7-minutes-in-heaven-acoustic",
   title: "7 Minutes In Heaven (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.433333,
   ownProgress: 3.433333,

@@ -5,7 +5,7 @@ export const greenDaySaviors = {
   pageTypeSlug: "release",
   slug: "green-day-saviors",
   title: "Saviors",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 46.048883,
   ownProgress: 0,

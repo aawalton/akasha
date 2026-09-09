@@ -5,7 +5,7 @@ export const jadaFacerIWouldnTMind = {
   pageTypeSlug: "release",
   slug: "jada-facer-i-wouldn-t-mind",
   title: "I Wouldn't Mind",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.8409,
   ownProgress: 2.8409,

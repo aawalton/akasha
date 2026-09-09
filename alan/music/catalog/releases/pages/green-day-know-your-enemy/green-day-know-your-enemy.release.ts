@@ -5,7 +5,7 @@ export const greenDayKnowYourEnemy = {
   pageTypeSlug: "release",
   slug: "green-day-know-your-enemy",
   title: "Know Your Enemy",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 8.11575,
   ownProgress: 8.11575,

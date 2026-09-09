@@ -5,7 +5,7 @@ export const gracieAbramsCallMeWhenYouBreakUpWithGracieAbrams = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-call-me-when-you-break-up-with-gracie-abrams",
   title: "Call Me When You Break Up (with Gracie Abrams)",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 2.11385,
   ownProgress: 2.11385,

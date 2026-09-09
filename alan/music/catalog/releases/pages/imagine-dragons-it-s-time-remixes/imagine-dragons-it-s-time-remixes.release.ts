@@ -5,7 +5,7 @@ export const imagineDragonsItSTimeRemixes = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-it-s-time-remixes",
   title: "It's Time Remixes",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 17.392217,
   ownProgress: 17.392217,

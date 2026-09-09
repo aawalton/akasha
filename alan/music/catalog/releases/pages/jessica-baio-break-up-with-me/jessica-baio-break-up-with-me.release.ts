@@ -5,7 +5,7 @@ export const jessicaBaioBreakUpWithMe = {
   pageTypeSlug: "release",
   slug: "jessica-baio-break-up-with-me",
   title: "break up with me",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 7.38555,
   ownProgress: 7.38555,

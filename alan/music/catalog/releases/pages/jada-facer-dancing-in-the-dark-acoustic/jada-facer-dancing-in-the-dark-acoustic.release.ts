@@ -5,7 +5,7 @@ export const jadaFacerDancingInTheDarkAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-dancing-in-the-dark-acoustic",
   title: "Dancing In the Dark (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.220817,
   ownProgress: 3.220817,

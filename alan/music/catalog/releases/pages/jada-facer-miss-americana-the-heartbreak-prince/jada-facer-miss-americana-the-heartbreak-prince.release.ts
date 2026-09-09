@@ -5,7 +5,7 @@ export const jadaFacerMissAmericanaTheHeartbreakPrince = {
   pageTypeSlug: "release",
   slug: "jada-facer-miss-americana-the-heartbreak-prince",
   title: "Miss Americana & The Heartbreak Prince",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.36775,
   ownProgress: 3.36775,

@@ -5,7 +5,7 @@ export const japaneseBreakfastNobodySeesMeLikeYouDo = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-nobody-sees-me-like-you-do",
   title: "Nobody Sees Me Like You Do",
-  partOfCollectionSlugs: ["japanese-breakfast"],
+  partOfCollections: ["japanese-breakfast"],
   position: 0,
   ownLength: 3.52725,
   ownProgress: 3.52725,

@@ -5,7 +5,7 @@ export const greenDayKillTheDj = {
   pageTypeSlug: "release",
   slug: "green-day-kill-the-dj",
   title: "Kill the DJ",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 3.714217,
   ownProgress: 3.714217,

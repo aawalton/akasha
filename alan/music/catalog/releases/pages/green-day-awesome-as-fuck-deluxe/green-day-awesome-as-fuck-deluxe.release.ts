@@ -5,7 +5,7 @@ export const greenDayAwesomeAsFuckDeluxe = {
   pageTypeSlug: "release",
   slug: "green-day-awesome-as-fuck-deluxe",
   title: "Awesome as Fuck (Deluxe)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 72.460083,
   ownProgress: 72.460083,

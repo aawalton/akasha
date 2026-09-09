@@ -5,7 +5,7 @@ export const jadaFacerEveryBreathYouTakeAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-every-breath-you-take-acoustic",
   title: "Every Breath You Take (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.652767,
   ownProgress: 3.652767,

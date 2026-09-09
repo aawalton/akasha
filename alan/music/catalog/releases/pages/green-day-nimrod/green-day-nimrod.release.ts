@@ -5,7 +5,7 @@ export const greenDayNimrod = {
   pageTypeSlug: "release",
   slug: "green-day-nimrod",
   title: "Nimrod",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 49.107683,
   ownProgress: 49.107683,

@@ -5,7 +5,7 @@ export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersion = 
   pageTypeSlug: "release",
   slug: "imagine-dragons-symphony-inner-city-youth-orchestra-of-los-angeles-version",
   title: "Symphony (Inner City Youth Orchestra of Los Angeles Version)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.1448,
   ownProgress: 3.1448,

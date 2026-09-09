@@ -5,7 +5,7 @@ export const imagineDragonsImagineDragonsLiveInVegas = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-imagine-dragons-live-in-vegas",
   title: "Imagine Dragons Live in Vegas",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 96.403617,
   ownProgress: 96.403617,

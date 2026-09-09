@@ -5,7 +5,7 @@ export const imagineDragonsMercuryActs12 = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-mercury-acts-1-2",
   title: "Mercury - Acts 1 & 2",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 102.998467,
   ownProgress: 102.998467,

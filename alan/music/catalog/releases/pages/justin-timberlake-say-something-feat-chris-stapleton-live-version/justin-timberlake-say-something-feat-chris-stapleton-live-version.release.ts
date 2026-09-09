@@ -5,7 +5,7 @@ export const justinTimberlakeSaySomethingFeatChrisStapletonLiveVersion = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-say-something-feat-chris-stapleton-live-version",
   title: "Say Something (feat. Chris Stapleton) [Live Version]",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 4.0438,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const justinTimberlakeLoveNeverFeltSoGoodDavidMoralesAndEricKupperDefMix 
   pageTypeSlug: "release",
   slug: "justin-timberlake-love-never-felt-so-good-david-morales-and-eric-kupper-def-mix",
   title: "Love Never Felt So Good (David Morales and Eric Kupper Def Mix)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 27.3522,
   ownProgress: 0,

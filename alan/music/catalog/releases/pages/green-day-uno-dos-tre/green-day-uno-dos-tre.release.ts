@@ -5,7 +5,7 @@ export const greenDayUnoDosTre = {
   pageTypeSlug: "release",
   slug: "green-day-uno-dos-tre",
   title: "UNO . . . DOS . . . TRÉ!",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 127.9922,
   ownProgress: 127.9922,

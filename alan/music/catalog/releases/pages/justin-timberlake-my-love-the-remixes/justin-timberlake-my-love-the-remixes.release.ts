@@ -5,7 +5,7 @@ export const justinTimberlakeMyLoveTheRemixes = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-my-love-the-remixes",
   title: "My Love: The Remixes",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 31.618867,
   ownProgress: 0,

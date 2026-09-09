@@ -5,7 +5,7 @@ export const justinTimberlakeSexytracksTheSexybackRemixes = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-sexytracks-the-sexyback-remixes",
   title: "SexyTracks: The SexyBack Remixes",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 25.914633,
   ownProgress: 0,

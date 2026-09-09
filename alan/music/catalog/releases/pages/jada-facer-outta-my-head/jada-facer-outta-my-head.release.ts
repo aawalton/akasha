@@ -5,7 +5,7 @@ export const jadaFacerOuttaMyHead = {
   pageTypeSlug: "release",
   slug: "jada-facer-outta-my-head",
   title: "Outta My Head",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.88275,
   ownProgress: 2.88275,

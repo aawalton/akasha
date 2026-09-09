@@ -5,7 +5,7 @@ export const greenDayAmericanIdiotDeluxe = {
   pageTypeSlug: "release",
   slug: "green-day-american-idiot-deluxe",
   title: "American Idiot (Deluxe)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 65.22195,
   ownProgress: 65.22195,

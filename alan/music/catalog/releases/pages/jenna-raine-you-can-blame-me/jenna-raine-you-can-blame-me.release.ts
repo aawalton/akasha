@@ -5,7 +5,7 @@ export const jennaRaineYouCanBlameMe = {
   pageTypeSlug: "release",
   slug: "jenna-raine-you-can-blame-me",
   title: "You Can Blame Me",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 3.027767,
   ownProgress: 3.027767,

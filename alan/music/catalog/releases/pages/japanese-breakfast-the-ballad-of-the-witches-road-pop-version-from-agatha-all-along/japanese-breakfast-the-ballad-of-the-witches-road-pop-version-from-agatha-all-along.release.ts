@@ -5,7 +5,7 @@ export const japaneseBreakfastTheBalladOfTheWitchesRoadPopVersionFromAgathaAllAl
   pageTypeSlug: "release",
   slug: "japanese-breakfast-the-ballad-of-the-witches-road-pop-version-from-agatha-all-along",
   title: 'The Ballad of the Witches\' Road (Pop Version) [From "Agatha All Along"]',
-  partOfCollectionSlugs: ["japanese-breakfast"],
+  partOfCollections: ["japanese-breakfast"],
   position: 0,
   ownLength: 2.52325,
   ownProgress: 2.52325,

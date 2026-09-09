@@ -5,7 +5,7 @@ export const jadaFacerNeverReallyOver = {
   pageTypeSlug: "release",
   slug: "jada-facer-never-really-over",
   title: "Never Really Over",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.505433,
   ownProgress: 2.505433,

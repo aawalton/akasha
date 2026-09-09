@@ -5,7 +5,7 @@ export const jamesTaylor2TheEssentialJamesTaylorDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-the-essential-james-taylor-deluxe-edition",
   title: "The Essential James Taylor (Deluxe Edition)",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 135.33935,
   ownProgress: 135.33935,

@@ -5,7 +5,7 @@ export const jadaFacerGirlsLikeYouAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-girls-like-you-acoustic",
   title: "Girls Like You - Acoustic",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.737583,
   ownProgress: 2.737583,

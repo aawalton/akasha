@@ -5,7 +5,7 @@ export const jamesTaylor2InThePocket2019Remaster = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-in-the-pocket-2019-remaster",
   title: "In the Pocket (2019 Remaster)",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 44.945483,
   ownProgress: 44.945483,

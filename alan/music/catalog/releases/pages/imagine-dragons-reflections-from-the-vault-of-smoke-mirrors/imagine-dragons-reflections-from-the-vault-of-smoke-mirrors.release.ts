@@ -5,7 +5,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrors = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors",
   title: "Reflections (From The Vault Of Smoke + Mirrors)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 41.7833,
   ownProgress: 41.7833,

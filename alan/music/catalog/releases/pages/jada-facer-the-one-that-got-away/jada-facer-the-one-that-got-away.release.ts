@@ -5,7 +5,7 @@ export const jadaFacerTheOneThatGotAway = {
   pageTypeSlug: "release",
   slug: "jada-facer-the-one-that-got-away",
   title: "The One That Got Away",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.324583,
   ownProgress: 3.324583,

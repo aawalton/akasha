@@ -5,7 +5,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentre = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-smoke-mirrors-live-live-at-the-air-canada-centre",
   title: "Smoke + Mirrors Live (Live At The Air Canada Centre)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 88.878117,
   ownProgress: 88.878117,

@@ -5,7 +5,7 @@ export const jadaFacerFlyMeToTheMoonAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-fly-me-to-the-moon-acoustic",
   title: "Fly Me to the Moon (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.4144,
   ownProgress: 2.4144,

@@ -5,7 +5,7 @@ export const greenDayInsomniac25thAnniversaryDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "green-day-insomniac-25th-anniversary-deluxe-edition",
   title: "Insomniac (25th Anniversary Deluxe Edition)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 52.959467,
   ownProgress: 0,

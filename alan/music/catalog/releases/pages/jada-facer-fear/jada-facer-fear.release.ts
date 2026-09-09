@@ -5,7 +5,7 @@ export const jadaFacerFear = {
   pageTypeSlug: "release",
   slug: "jada-facer-fear",
   title: "fear",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.5275,
   ownProgress: 2.5275,

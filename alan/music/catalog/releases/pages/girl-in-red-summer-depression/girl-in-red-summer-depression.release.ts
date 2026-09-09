@@ -5,7 +5,7 @@ export const girlInRedSummerDepression = {
   pageTypeSlug: "release",
   slug: "girl-in-red-summer-depression",
   title: "summer depression",
-  partOfCollectionSlugs: ["girl-in-red"],
+  partOfCollections: ["girl-in-red"],
   position: 0,
   ownLength: 2.528217,
   ownProgress: 2.528217,

@@ -5,7 +5,7 @@ export const katyPerryDaisiesAcoustic = {
   pageTypeSlug: "release",
   slug: "katy-perry-daisies-acoustic",
   title: "Daisies (Acoustic)",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 3.091767,
   ownProgress: 3.091767,

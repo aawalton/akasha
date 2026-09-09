@@ -5,7 +5,7 @@ export const jadaFacerBreakUpWithYourGirlfriendIMBored = {
   pageTypeSlug: "release",
   slug: "jada-facer-break-up-with-your-girlfriend-i-m-bored",
   title: "break up with your girlfriend, i'm bored",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.492717,
   ownProgress: 2.492717,

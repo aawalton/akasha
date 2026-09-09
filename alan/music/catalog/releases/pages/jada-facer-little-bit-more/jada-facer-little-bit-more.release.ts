@@ -5,7 +5,7 @@ export const jadaFacerLittleBitMore = {
   pageTypeSlug: "release",
   slug: "jada-facer-little-bit-more",
   title: "Little Bit More",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.034467,
   ownProgress: 3.034467,

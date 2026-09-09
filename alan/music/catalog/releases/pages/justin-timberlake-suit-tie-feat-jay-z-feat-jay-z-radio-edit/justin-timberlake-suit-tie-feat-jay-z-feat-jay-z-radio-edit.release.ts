@@ -5,7 +5,7 @@ export const justinTimberlakeSuitTieFeatJayZFeatJayZRadioEdit = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-suit-tie-feat-jay-z-feat-jay-z-radio-edit",
   title: "Suit & Tie (feat. JAY Z) (feat. JAY-Z) [Radio Edit]",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 4.485767,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const jessicaBaioBadTimes = {
   pageTypeSlug: "release",
   slug: "jessica-baio-bad-times",
   title: "bad times",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 3.20675,
   ownProgress: 3.20675,

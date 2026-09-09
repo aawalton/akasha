@@ -5,7 +5,7 @@ export const imagineDragonsLiveAtAllsaintsStudios = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-live-at-allsaints-studios",
   title: "Live At AllSaints Studios",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 14.308333,
   ownProgress: 14.308333,

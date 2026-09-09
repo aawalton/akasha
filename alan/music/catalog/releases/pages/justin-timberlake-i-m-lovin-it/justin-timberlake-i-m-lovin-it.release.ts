@@ -5,7 +5,7 @@ export const justinTimberlakeIMLovinIt = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-i-m-lovin-it",
   title: "I'm Lovin' It",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 12.054433,
   ownProgress: 12.054433,

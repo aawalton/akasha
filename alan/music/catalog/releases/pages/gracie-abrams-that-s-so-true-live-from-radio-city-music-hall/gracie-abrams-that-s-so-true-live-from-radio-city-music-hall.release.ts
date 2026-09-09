@@ -5,7 +5,7 @@ export const gracieAbramsThatSSoTrueLiveFromRadioCityMusicHall = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-that-s-so-true-live-from-radio-city-music-hall",
   title: "That’s So True (Live From Radio City Music Hall)",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 6.008317,
   ownProgress: 6.008317,

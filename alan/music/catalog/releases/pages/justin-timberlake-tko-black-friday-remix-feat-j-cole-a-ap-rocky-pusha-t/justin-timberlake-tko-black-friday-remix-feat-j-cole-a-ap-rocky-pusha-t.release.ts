@@ -5,7 +5,7 @@ export const justinTimberlakeTkoBlackFridayRemixFeatJColeAApRockyPushaT = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-tko-black-friday-remix-feat-j-cole-a-ap-rocky-pusha-t",
   title: "TKO (Black Friday Remix) (feat. J. Cole, A$AP Rocky & Pusha T)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 4.5451,
   ownProgress: 0,

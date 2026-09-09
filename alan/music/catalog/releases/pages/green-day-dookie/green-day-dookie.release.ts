@@ -5,7 +5,7 @@ export const greenDayDookie = {
   pageTypeSlug: "release",
   slug: "green-day-dookie",
   title: "Dookie",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 38.368117,
   ownProgress: 38.368117,

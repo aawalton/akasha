@@ -5,7 +5,7 @@ export const jadaFacerCanYouFeelTheLoveTonight = {
   pageTypeSlug: "release",
   slug: "jada-facer-can-you-feel-the-love-tonight",
   title: "Can You Feel The Love Tonight",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 4.059817,
   ownProgress: 4.059817,

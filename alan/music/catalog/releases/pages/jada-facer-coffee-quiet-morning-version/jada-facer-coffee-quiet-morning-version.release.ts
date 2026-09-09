@@ -5,7 +5,7 @@ export const jadaFacerCoffeeQuietMorningVersion = {
   pageTypeSlug: "release",
   slug: "jada-facer-coffee-quiet-morning-version",
   title: "Coffee (quiet morning version)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.04855,
   ownProgress: 2.04855,

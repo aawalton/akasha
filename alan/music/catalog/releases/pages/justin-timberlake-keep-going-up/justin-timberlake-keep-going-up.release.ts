@@ -5,7 +5,7 @@ export const justinTimberlakeKeepGoingUp = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-keep-going-up",
   title: "Keep Going Up",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 2.9037,
   ownProgress: 0,

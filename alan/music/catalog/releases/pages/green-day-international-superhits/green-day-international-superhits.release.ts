@@ -5,7 +5,7 @@ export const greenDayInternationalSuperhits = {
   pageTypeSlug: "release",
   slug: "green-day-international-superhits",
   title: "International Superhits!",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 60.670767,
   ownProgress: 60.670767,

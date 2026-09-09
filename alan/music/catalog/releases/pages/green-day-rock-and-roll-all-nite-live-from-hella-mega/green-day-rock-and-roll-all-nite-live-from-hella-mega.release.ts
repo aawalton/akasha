@@ -5,7 +5,7 @@ export const greenDayRockAndRollAllNiteLiveFromHellaMega = {
   pageTypeSlug: "release",
   slug: "green-day-rock-and-roll-all-nite-live-from-hella-mega",
   title: "Rock and Roll All Nite (Live from Hella Mega)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 3.703817,
   ownProgress: 0,

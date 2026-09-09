@@ -5,7 +5,7 @@ export const jadaFacerThinkingOutLoudAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-thinking-out-loud-acoustic",
   title: "Thinking Out Loud (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 4.104733,
   ownProgress: 4.104733,

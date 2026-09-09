@@ -5,7 +5,7 @@ export const katyPerryHarleysInHawaii = {
   pageTypeSlug: "release",
   slug: "katy-perry-harleys-in-hawaii",
   title: "Harleys In Hawaii",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 3.096917,
   ownProgress: 3.096917,

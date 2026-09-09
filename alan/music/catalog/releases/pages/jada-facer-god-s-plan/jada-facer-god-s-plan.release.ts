@@ -5,7 +5,7 @@ export const jadaFacerGodSPlan = {
   pageTypeSlug: "release",
   slug: "jada-facer-god-s-plan",
   title: "God's Plan",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.376667,
   ownProgress: 2.376667,

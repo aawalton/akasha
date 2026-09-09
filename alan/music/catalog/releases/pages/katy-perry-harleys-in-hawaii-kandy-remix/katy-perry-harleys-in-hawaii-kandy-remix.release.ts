@@ -5,7 +5,7 @@ export const katyPerryHarleysInHawaiiKandyRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-harleys-in-hawaii-kandy-remix",
   title: "Harleys In Hawaii (KANDY Remix)",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 2.75015,
   ownProgress: 2.75015,

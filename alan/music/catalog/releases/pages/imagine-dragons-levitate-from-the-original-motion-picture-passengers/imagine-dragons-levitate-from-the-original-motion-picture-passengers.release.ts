@@ -5,7 +5,7 @@ export const imagineDragonsLevitateFromTheOriginalMotionPicturePassengers = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-levitate-from-the-original-motion-picture-passengers",
   title: "Levitate (From The Original Motion Picture “Passengers”)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.302883,
   ownProgress: 3.302883,

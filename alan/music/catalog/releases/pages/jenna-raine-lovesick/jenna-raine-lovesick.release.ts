@@ -5,7 +5,7 @@ export const jennaRaineLovesick = {
   pageTypeSlug: "release",
   slug: "jenna-raine-lovesick",
   title: "Lovesick",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 2.529333,
   ownProgress: 2.529333,

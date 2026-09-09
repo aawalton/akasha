@@ -5,7 +5,7 @@ export const jadaFacerHappyNow = {
   pageTypeSlug: "release",
   slug: "jada-facer-happy-now",
   title: "Happy Now",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.2935,
   ownProgress: 3.2935,

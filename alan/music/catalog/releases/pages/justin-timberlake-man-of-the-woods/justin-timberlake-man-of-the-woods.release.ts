@@ -5,7 +5,7 @@ export const justinTimberlakeManOfTheWoods = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-man-of-the-woods",
   title: "Man of the Woods",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 66.045667,
   ownProgress: 0,

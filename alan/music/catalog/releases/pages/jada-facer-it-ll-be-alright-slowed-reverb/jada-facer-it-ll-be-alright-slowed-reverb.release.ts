@@ -5,7 +5,7 @@ export const jadaFacerItLlBeAlrightSlowedReverb = {
   pageTypeSlug: "release",
   slug: "jada-facer-it-ll-be-alright-slowed-reverb",
   title: "It’ll Be Alright - Slowed + Reverb",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.22645,
   ownProgress: 2.22645,

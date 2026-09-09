@@ -5,7 +5,7 @@ export const greenDayAmericanIdiot20thAnniversaryJesusOfSuburbia = {
   pageTypeSlug: "release",
   slug: "green-day-american-idiot-20th-anniversary-jesus-of-suburbia",
   title: "American Idiot (20th Anniversary - Jesus of Suburbia)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 8.746967,
   ownProgress: 0,

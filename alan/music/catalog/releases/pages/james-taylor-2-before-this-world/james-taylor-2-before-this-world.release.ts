@@ -5,7 +5,7 @@ export const jamesTaylor2BeforeThisWorld = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-before-this-world",
   title: "Before This World",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 41.83505,
   ownProgress: 41.83505,

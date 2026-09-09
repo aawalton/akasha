@@ -5,7 +5,7 @@ export const jadaFacerOceansWhereFeetMayFailAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-oceans-where-feet-may-fail-acoustic",
   title: "Oceans (Where Feet May Fail) [Acoustic]",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.917933,
   ownProgress: 3.917933,

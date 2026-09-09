@@ -5,7 +5,7 @@ export const jisooAmortage = {
   pageTypeSlug: "release",
   slug: "jisoo-amortage",
   title: "AMORTAGE",
-  partOfCollectionSlugs: ["jisoo"],
+  partOfCollections: ["jisoo"],
   position: 0,
   ownLength: 12.268083,
   ownProgress: 12.268083,

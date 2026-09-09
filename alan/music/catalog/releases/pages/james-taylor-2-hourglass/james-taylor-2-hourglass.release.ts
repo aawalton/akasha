@@ -5,7 +5,7 @@ export const jamesTaylor2Hourglass = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-hourglass",
   title: "Hourglass",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 53.701483,
   ownProgress: 53.701483,

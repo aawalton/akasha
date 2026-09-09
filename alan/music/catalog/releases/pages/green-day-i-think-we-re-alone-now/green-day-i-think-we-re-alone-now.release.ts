@@ -5,7 +5,7 @@ export const greenDayIThinkWeReAloneNow = {
   pageTypeSlug: "release",
   slug: "green-day-i-think-we-re-alone-now",
   title: "I Think We're Alone Now",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 2.244517,
   ownProgress: 0,

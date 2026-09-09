@@ -5,7 +5,7 @@ export const jadaFacerMrBrightside = {
   pageTypeSlug: "release",
   slug: "jada-facer-mr-brightside",
   title: "Mr. Brightside",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.45435,
   ownProgress: 3.45435,

@@ -5,7 +5,7 @@ export const justinTimberlake3dJustinTimberlakeRemix = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-3d-justin-timberlake-remix",
   title: "3D (Justin Timberlake Remix)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 2.682367,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const greenDay2000LightYearsAwayBbcLiveSession = {
   pageTypeSlug: "release",
   slug: "green-day-2000-light-years-away-bbc-live-session",
   title: "2000 Light Years Away (BBC Live Session)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 2.639817,
   ownProgress: 0,

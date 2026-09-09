@@ -5,7 +5,7 @@ export const jamesTaylor2ThatSWhyIMHere = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-that-s-why-i-m-here",
   title: "That's Why I'm Here",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 39.439717,
   ownProgress: 39.439717,

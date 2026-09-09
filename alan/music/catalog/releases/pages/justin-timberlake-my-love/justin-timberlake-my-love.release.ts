@@ -5,7 +5,7 @@ export const justinTimberlakeMyLove = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-my-love",
   title: "My Love",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 9.33065,
   ownProgress: 0,

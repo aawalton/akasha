@@ -5,7 +5,7 @@ export const jadaFacerShallow = {
   pageTypeSlug: "release",
   slug: "jada-facer-shallow",
   title: "Shallow",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.1563,
   ownProgress: 3.1563,

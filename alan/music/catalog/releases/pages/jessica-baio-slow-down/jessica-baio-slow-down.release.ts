@@ -5,7 +5,7 @@ export const jessicaBaioSlowDown = {
   pageTypeSlug: "release",
   slug: "jessica-baio-slow-down",
   title: "SLOW DOWN",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 5.15075,
   ownProgress: 5.15075,

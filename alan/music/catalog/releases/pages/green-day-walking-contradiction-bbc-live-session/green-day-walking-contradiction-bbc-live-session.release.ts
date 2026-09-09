@@ -5,7 +5,7 @@ export const greenDayWalkingContradictionBbcLiveSession = {
   pageTypeSlug: "release",
   slug: "green-day-walking-contradiction-bbc-live-session",
   title: "Walking Contradiction (BBC Live Session)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 2.587717,
   ownProgress: 0,

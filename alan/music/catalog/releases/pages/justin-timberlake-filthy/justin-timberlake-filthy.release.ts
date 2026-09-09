@@ -5,7 +5,7 @@ export const justinTimberlakeFilthy = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-filthy",
   title: "Filthy",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 4.8991,
   ownProgress: 0,

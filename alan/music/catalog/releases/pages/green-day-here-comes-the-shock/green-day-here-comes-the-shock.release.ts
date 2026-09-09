@@ -5,7 +5,7 @@ export const greenDayHereComesTheShock = {
   pageTypeSlug: "release",
   slug: "green-day-here-comes-the-shock",
   title: "Here Comes The Shock",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 2.567817,
   ownProgress: 0,

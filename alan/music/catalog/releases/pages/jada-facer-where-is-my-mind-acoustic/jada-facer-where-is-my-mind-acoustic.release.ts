@@ -5,7 +5,7 @@ export const jadaFacerWhereIsMyMindAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-where-is-my-mind-acoustic",
   title: "Where Is My Mind? (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.796167,
   ownProgress: 2.796167,

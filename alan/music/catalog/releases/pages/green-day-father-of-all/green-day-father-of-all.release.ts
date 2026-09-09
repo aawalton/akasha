@@ -5,7 +5,7 @@ export const greenDayFatherOfAll = {
   pageTypeSlug: "release",
   slug: "green-day-father-of-all",
   title: "Father of All...",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 26.282567,
   ownProgress: 0,

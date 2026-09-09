@@ -5,7 +5,7 @@ export const jadaFacerMustHaveBeenTheWind = {
   pageTypeSlug: "release",
   slug: "jada-facer-must-have-been-the-wind",
   title: "Must Have Been The Wind",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.531667,
   ownProgress: 3.531667,

@@ -5,7 +5,7 @@ export const justinTimberlakeYouLlBeThere = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-you-ll-be-there",
   title: "You’ll Be There",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 3.350883,
   ownProgress: 0,

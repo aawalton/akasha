@@ -5,7 +5,7 @@ export const katyPerry365Remixes = {
   pageTypeSlug: "release",
   slug: "katy-perry-365-remixes",
   title: "365 (Remixes)",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 13.477267,
   ownProgress: 13.477267,

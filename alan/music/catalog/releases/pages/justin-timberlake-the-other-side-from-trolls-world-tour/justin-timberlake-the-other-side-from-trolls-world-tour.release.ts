@@ -5,7 +5,7 @@ export const justinTimberlakeTheOtherSideFromTrollsWorldTour = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-the-other-side-from-trolls-world-tour",
   title: "The Other Side (from Trolls World Tour)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 3.136433,
   ownProgress: 0,

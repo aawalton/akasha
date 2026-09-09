@@ -5,7 +5,7 @@ export const jadaFacerWeCanTBeFriendsWaitForYourLoveAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-we-can-t-be-friends-wait-for-your-love-acoustic",
   title: "we can't be friends (wait for your love) [Acoustic]",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.705533,
   ownProgress: 2.705533,

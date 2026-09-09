@@ -5,7 +5,7 @@ export const jadaFacerBeAlrightSpedUpVersion = {
   pageTypeSlug: "release",
   slug: "jada-facer-be-alright-sped-up-version",
   title: "Be Alright (Sped Up Version)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.531383,
   ownProgress: 2.531383,

@@ -5,7 +5,7 @@ export const gracieAbramsIKnowItWonTWorkLive = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-i-know-it-won-t-work-live",
   title: "I know it won't work (Live)",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 3.772433,
   ownProgress: 3.772433,

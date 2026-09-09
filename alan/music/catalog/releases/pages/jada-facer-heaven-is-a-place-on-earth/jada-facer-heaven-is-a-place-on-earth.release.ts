@@ -5,7 +5,7 @@ export const jadaFacerHeavenIsAPlaceOnEarth = {
   pageTypeSlug: "release",
   slug: "jada-facer-heaven-is-a-place-on-earth",
   title: "Heaven Is A Place On Earth",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.952183,
   ownProgress: 2.952183,

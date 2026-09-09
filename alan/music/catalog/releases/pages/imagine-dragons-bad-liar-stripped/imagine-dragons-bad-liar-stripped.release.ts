@@ -5,7 +5,7 @@ export const imagineDragonsBadLiarStripped = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-bad-liar-stripped",
   title: "Bad Liar – Stripped",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 4.22045,
   ownProgress: 4.22045,

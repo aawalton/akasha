@@ -5,7 +5,7 @@ export const katyPerryCosmicEnergy = {
   pageTypeSlug: "release",
   slug: "katy-perry-cosmic-energy",
   title: "Cosmic Energy",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 22.368233,
   ownProgress: 22.368233,

@@ -5,7 +5,7 @@ export const greenDay21stCenturyBreakdown = {
   pageTypeSlug: "release",
   slug: "green-day-21st-century-breakdown",
   title: "21st Century Breakdown",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 69.239417,
   ownProgress: 69.239417,

@@ -5,7 +5,7 @@ export const jadaFacerTheGreatest = {
   pageTypeSlug: "release",
   slug: "jada-facer-the-greatest",
   title: "The Greatest",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.217633,
   ownProgress: 2.217633,

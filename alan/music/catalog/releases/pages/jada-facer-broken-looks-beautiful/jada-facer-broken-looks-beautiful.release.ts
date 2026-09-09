@@ -5,7 +5,7 @@ export const jadaFacerBrokenLooksBeautiful = {
   pageTypeSlug: "release",
   slug: "jada-facer-broken-looks-beautiful",
   title: "Broken Looks Beautiful",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.57595,
   ownProgress: 3.57595,

@@ -5,7 +5,7 @@ export const jamesTaylor2SweetBabyJames2019Remaster = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-sweet-baby-james-2019-remaster",
   title: "Sweet Baby James (2019 Remaster)",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 31.910817,
   ownProgress: 31.910817,

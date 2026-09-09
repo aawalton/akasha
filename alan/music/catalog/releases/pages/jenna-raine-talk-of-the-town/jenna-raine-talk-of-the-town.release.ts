@@ -5,7 +5,7 @@ export const jennaRaineTalkOfTheTown = {
   pageTypeSlug: "release",
   slug: "jenna-raine-talk-of-the-town",
   title: "Talk Of The Town",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 3.0891,
   ownProgress: 3.0891,

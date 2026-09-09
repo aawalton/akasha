@@ -5,7 +5,7 @@ export const gracieAbramsMessItUp = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-mess-it-up",
   title: "Mess It Up",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 2.854667,
   ownProgress: 2.854667,

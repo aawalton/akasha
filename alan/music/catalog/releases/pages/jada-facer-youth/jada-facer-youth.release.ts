@@ -5,7 +5,7 @@ export const jadaFacerYouth = {
   pageTypeSlug: "release",
   slug: "jada-facer-youth",
   title: "Youth",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.379117,
   ownProgress: 2.379117,

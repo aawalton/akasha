@@ -5,7 +5,7 @@ export const justinTimberlakeInnocent = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-innocent",
   title: "Innocent",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 2.889017,
   ownProgress: 0,

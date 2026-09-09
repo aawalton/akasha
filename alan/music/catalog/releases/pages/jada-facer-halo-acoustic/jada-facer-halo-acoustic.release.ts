@@ -5,7 +5,7 @@ export const jadaFacerHaloAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-halo-acoustic",
   title: "Halo (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.402917,
   ownProgress: 3.402917,

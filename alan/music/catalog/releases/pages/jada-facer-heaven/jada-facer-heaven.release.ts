@@ -5,7 +5,7 @@ export const jadaFacerHeaven = {
   pageTypeSlug: "release",
   slug: "jada-facer-heaven",
   title: "Heaven",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 4.094217,
   ownProgress: 4.094217,

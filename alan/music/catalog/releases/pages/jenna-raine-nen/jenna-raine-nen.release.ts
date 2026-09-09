@@ -5,7 +5,7 @@ export const jennaRaineNen = {
   pageTypeSlug: "release",
   slug: "jenna-raine-nen",
   title: "nen",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 16.971583,
   ownProgress: 16.971583,

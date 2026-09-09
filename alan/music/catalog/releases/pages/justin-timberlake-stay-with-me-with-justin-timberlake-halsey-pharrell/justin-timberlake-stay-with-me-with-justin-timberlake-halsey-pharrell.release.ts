@@ -5,7 +5,7 @@ export const justinTimberlakeStayWithMeWithJustinTimberlakeHalseyPharrell = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-stay-with-me-with-justin-timberlake-halsey-pharrell",
   title: "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 3.821367,
   ownProgress: 0,

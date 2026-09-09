@@ -5,7 +5,7 @@ export const justinTimberlakeFollowMyLeadFeatEsmeeDenters = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-follow-my-lead-feat-esmee-denters",
   title: "Follow My Lead (feat. Esmee Denters)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 3.786883,
   ownProgress: 0,

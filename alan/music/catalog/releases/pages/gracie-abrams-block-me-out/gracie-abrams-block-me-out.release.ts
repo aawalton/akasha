@@ -5,7 +5,7 @@ export const gracieAbramsBlockMeOut = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-block-me-out",
   title: "Block me out",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 4.158233,
   ownProgress: 4.158233,

@@ -5,7 +5,7 @@ export const gracieAbramsMeanIt = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-mean-it",
   title: "Mean It",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 2.8523,
   ownProgress: 2.8523,

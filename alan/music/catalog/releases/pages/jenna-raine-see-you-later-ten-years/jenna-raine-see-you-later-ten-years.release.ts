@@ -5,7 +5,7 @@ export const jennaRaineSeeYouLaterTenYears = {
   pageTypeSlug: "release",
   slug: "jenna-raine-see-you-later-ten-years",
   title: "see you later (ten years)",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 3.136,
   ownProgress: 3.136,

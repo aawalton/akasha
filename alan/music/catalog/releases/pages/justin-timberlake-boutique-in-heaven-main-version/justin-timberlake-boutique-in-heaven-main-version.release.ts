@@ -5,7 +5,7 @@ export const justinTimberlakeBoutiqueInHeavenMainVersion = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-boutique-in-heaven-main-version",
   title: "Boutique In Heaven (Main Version)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 4.14,
   ownProgress: 0,

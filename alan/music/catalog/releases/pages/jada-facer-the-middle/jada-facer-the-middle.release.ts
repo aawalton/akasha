@@ -5,7 +5,7 @@ export const jadaFacerTheMiddle = {
   pageTypeSlug: "release",
   slug: "jada-facer-the-middle",
   title: "The Middle",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.2978,
   ownProgress: 2.2978,

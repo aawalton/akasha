@@ -5,7 +5,7 @@ export const imagineDragonsEnemyWithJidOpeningTitleVersionFromTheSeriesArcaneLea
   pageTypeSlug: "release",
   slug: "imagine-dragons-enemy-with-jid-opening-title-version-from-the-series-arcane-league-of-legends",
   title: "Enemy with JID (Opening Title Version) (from the series Arcane League of Legends)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.102217,
   ownProgress: 3.102217,

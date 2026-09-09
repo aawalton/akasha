@@ -5,7 +5,7 @@ export const jadaFacerPrettySlowlyAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-pretty-slowly-acoustic",
   title: "Pretty Slowly (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.68965,
   ownProgress: 3.68965,

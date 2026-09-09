@@ -5,7 +5,7 @@ export const jessicaBaioBiteTheBullet = {
   pageTypeSlug: "release",
   slug: "jessica-baio-bite-the-bullet",
   title: "bite the bullet",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 2.34875,
   ownProgress: 2.34875,

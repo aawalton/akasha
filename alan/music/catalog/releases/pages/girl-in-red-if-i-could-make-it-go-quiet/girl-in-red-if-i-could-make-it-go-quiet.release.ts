@@ -5,7 +5,7 @@ export const girlInRedIfICouldMakeItGoQuiet = {
   pageTypeSlug: "release",
   slug: "girl-in-red-if-i-could-make-it-go-quiet",
   title: "if i could make it go quiet",
-  partOfCollectionSlugs: ["girl-in-red"],
+  partOfCollections: ["girl-in-red"],
   position: 0,
   ownLength: 33.271533,
   ownProgress: 0,

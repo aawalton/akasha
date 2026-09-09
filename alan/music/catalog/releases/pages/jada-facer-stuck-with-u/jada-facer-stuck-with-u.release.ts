@@ -5,7 +5,7 @@ export const jadaFacerStuckWithU = {
   pageTypeSlug: "release",
   slug: "jada-facer-stuck-with-u",
   title: "Stuck with U",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.131917,
   ownProgress: 3.131917,

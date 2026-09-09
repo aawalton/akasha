@@ -5,7 +5,7 @@ export const jadaFacerSuchGreatHeightsAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-such-great-heights-acoustic",
   title: "Such Great Heights (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.115383,
   ownProgress: 3.115383,

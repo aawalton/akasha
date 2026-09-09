@@ -5,7 +5,7 @@ export const jadaFacer2002 = {
   pageTypeSlug: "release",
   slug: "jada-facer-2002",
   title: "2002",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.0929,
   ownProgress: 3.0929,

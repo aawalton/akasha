@@ -5,7 +5,7 @@ export const jennaRaineStupidCupidAcousticVersion = {
   pageTypeSlug: "release",
   slug: "jenna-raine-stupid-cupid-acoustic-version",
   title: "Stupid Cupid (Acoustic Version)",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 5.76985,
   ownProgress: 5.76985,

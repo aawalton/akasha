@@ -5,7 +5,7 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadors = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-sucker-for-pain-with-logic-ty-dolla-ign-feat-x-ambassadors",
   title: "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 4.058167,
   ownProgress: 4.058167,

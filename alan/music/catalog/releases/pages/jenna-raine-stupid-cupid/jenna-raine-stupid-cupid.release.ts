@@ -5,7 +5,7 @@ export const jennaRaineStupidCupid = {
   pageTypeSlug: "release",
   slug: "jenna-raine-stupid-cupid",
   title: "Stupid Cupid",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 2.899233,
   ownProgress: 2.899233,

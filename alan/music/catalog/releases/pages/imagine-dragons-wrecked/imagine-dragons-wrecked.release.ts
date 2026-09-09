@@ -5,7 +5,7 @@ export const imagineDragonsWrecked = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-wrecked",
   title: "Wrecked",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 4.066733,
   ownProgress: 4.066733,

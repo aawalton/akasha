@@ -5,7 +5,7 @@ export const katyPerryHotNCold3 = {
   pageTypeSlug: "release",
   slug: "katy-perry-hot-n-cold-3",
   title: "Hot N Cold",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 3.672667,
   ownProgress: 3.672667,

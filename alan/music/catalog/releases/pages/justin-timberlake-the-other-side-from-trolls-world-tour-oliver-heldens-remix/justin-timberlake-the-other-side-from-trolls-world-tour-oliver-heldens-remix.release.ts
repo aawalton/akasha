@@ -5,7 +5,7 @@ export const justinTimberlakeTheOtherSideFromTrollsWorldTourOliverHeldensRemix =
   pageTypeSlug: "release",
   slug: "justin-timberlake-the-other-side-from-trolls-world-tour-oliver-heldens-remix",
   title: "The Other Side (from Trolls World Tour) [Oliver Heldens Remix]",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 3.935117,
   ownProgress: 0,

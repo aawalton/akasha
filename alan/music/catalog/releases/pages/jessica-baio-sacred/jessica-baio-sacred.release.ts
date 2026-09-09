@@ -5,7 +5,7 @@ export const jessicaBaioSacred = {
   pageTypeSlug: "release",
   slug: "jessica-baio-sacred",
   title: "SACRED",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 23.746033,
   ownProgress: 23.746033,

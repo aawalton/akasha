@@ -5,7 +5,7 @@ export const imagineDragonsItSTimePassionPitRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-it-s-time-passion-pit-remix",
   title: "It's Time (Passion Pit Remix)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 4.522883,
   ownProgress: 4.522883,

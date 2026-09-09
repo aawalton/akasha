@@ -5,7 +5,7 @@ export const jadaFacerFutureExLover = {
   pageTypeSlug: "release",
   slug: "jada-facer-future-ex-lover",
   title: "Future Ex Lover",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.414633,
   ownProgress: 2.414633,

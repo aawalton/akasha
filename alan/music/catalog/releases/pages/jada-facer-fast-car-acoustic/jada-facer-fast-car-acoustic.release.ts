@@ -5,7 +5,7 @@ export const jadaFacerFastCarAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-fast-car-acoustic",
   title: "Fast Car (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.7699,
   ownProgress: 2.7699,

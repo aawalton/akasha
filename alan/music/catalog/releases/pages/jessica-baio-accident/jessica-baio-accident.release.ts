@@ -5,7 +5,7 @@ export const jessicaBaioAccident = {
   pageTypeSlug: "release",
   slug: "jessica-baio-accident",
   title: "accident",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 12.4115,
   ownProgress: 12.4115,

@@ -5,7 +5,7 @@ export const jessicaBaioLoveSNotPain = {
   pageTypeSlug: "release",
   slug: "jessica-baio-love-s-not-pain",
   title: "love's not pain",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 12.535167,
   ownProgress: 12.535167,

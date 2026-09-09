@@ -5,7 +5,7 @@ export const jadaFacerEnemyAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-enemy-acoustic",
   title: "Enemy (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.643567,
   ownProgress: 2.643567,

@@ -5,7 +5,7 @@ export const jadaFacerYoungDumbBroke = {
   pageTypeSlug: "release",
   slug: "jada-facer-young-dumb-broke",
   title: "Young Dumb & Broke",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.019733,
   ownProgress: 2.019733,

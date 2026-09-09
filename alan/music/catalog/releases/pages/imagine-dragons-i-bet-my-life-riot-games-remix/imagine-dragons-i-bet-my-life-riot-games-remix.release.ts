@@ -5,7 +5,7 @@ export const imagineDragonsIBetMyLifeRiotGamesRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-i-bet-my-life-riot-games-remix",
   title: "I Bet My Life (Riot Games Remix)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.5131,
   ownProgress: 3.5131,

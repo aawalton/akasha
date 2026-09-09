@@ -5,7 +5,7 @@ export const imagineDragonsIWasMe = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-i-was-me",
   title: "I Was Me",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.266883,
   ownProgress: 3.266883,

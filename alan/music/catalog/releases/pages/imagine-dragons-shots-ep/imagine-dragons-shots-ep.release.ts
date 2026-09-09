@@ -5,7 +5,7 @@ export const imagineDragonsShotsEp = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-shots-ep",
   title: "Shots EP",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 11.046417,
   ownProgress: 11.046417,

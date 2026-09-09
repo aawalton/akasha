@@ -5,7 +5,7 @@ export const jessicaBaioBestFriendsWithYourGirlfriend = {
   pageTypeSlug: "release",
   slug: "jessica-baio-best-friends-with-your-girlfriend",
   title: "best friends with your girlfriend",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 2.056667,
   ownProgress: 2.056667,

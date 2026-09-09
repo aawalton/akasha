@@ -5,7 +5,7 @@ export const jadaFacerSummerSolstice = {
   pageTypeSlug: "release",
   slug: "jada-facer-summer-solstice",
   title: "Summer Solstice",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.467617,
   ownProgress: 3.467617,

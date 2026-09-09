@@ -5,7 +5,7 @@ export const greenDay21GunsEp = {
   pageTypeSlug: "release",
   slug: "green-day-21-guns-ep",
   title: "21 Guns EP",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 15.087983,
   ownProgress: 15.087983,

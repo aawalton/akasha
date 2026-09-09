@@ -5,7 +5,7 @@ export const greenDayLastOfTheAmericanGirls = {
   pageTypeSlug: "release",
   slug: "green-day-last-of-the-american-girls",
   title: "Last of the American Girls",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 13.752433,
   ownProgress: 13.752433,

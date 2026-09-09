@@ -5,7 +5,7 @@ export const jadaFacerTheKid = {
   pageTypeSlug: "release",
   slug: "jada-facer-the-kid",
   title: "The Kid",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 7.473533,
   ownProgress: 7.473533,

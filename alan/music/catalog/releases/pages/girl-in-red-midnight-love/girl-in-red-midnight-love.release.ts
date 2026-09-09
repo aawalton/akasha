@@ -5,7 +5,7 @@ export const girlInRedMidnightLove = {
   pageTypeSlug: "release",
   slug: "girl-in-red-midnight-love",
   title: "midnight love",
-  partOfCollectionSlugs: ["girl-in-red"],
+  partOfCollections: ["girl-in-red"],
   position: 0,
   ownLength: 3.232133,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const jamesTaylor2JamesTaylor = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-james-taylor",
   title: "James Taylor",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 51.11595,
   ownProgress: 51.11595,

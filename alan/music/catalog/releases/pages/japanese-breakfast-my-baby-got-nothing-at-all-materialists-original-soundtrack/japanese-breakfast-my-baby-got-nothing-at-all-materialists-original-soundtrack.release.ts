@@ -5,7 +5,7 @@ export const japaneseBreakfastMyBabyGotNothingAtAllMaterialistsOriginalSoundtrac
   pageTypeSlug: "release",
   slug: "japanese-breakfast-my-baby-got-nothing-at-all-materialists-original-soundtrack",
   title: "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
-  partOfCollectionSlugs: ["japanese-breakfast"],
+  partOfCollections: ["japanese-breakfast"],
   position: 0,
   ownLength: 4.033333,
   ownProgress: 4.033333,

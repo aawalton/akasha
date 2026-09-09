@@ -5,7 +5,7 @@ export const jadaFacerLetItSnow = {
   pageTypeSlug: "release",
   slug: "jada-facer-let-it-snow",
   title: "Let It Snow",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 8.304717,
   ownProgress: 8.304717,

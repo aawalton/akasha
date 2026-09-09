@@ -5,7 +5,7 @@ export const jessicaBaioRadioRemixes = {
   pageTypeSlug: "release",
   slug: "jessica-baio-radio-remixes",
   title: "Radio (Remixes)",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 7.484433,
   ownProgress: 7.484433,

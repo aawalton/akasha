@@ -5,7 +5,7 @@ export const jadaFacerDancingWithAStranger = {
   pageTypeSlug: "release",
   slug: "jada-facer-dancing-with-a-stranger",
   title: "Dancing with a Stranger",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.301183,
   ownProgress: 2.301183,

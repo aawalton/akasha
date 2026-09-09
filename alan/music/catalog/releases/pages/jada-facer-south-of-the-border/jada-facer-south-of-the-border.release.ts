@@ -5,7 +5,7 @@ export const jadaFacerSouthOfTheBorder = {
   pageTypeSlug: "release",
   slug: "jada-facer-south-of-the-border",
   title: "South of The Border",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.359683,
   ownProgress: 2.359683,

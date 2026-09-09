@@ -5,7 +5,7 @@ export const jessicaBaioAllISawWasYouFeatJessicaBaio = {
   pageTypeSlug: "release",
   slug: "jessica-baio-all-i-saw-was-you-feat-jessica-baio",
   title: "ALL I SAW WAS YOU (feat. Jessica Baio)",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 3.091767,
   ownProgress: 3.091767,

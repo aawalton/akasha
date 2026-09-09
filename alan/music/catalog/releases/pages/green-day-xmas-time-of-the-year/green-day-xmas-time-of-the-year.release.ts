@@ -5,7 +5,7 @@ export const greenDayXmasTimeOfTheYear = {
   pageTypeSlug: "release",
   slug: "green-day-xmas-time-of-the-year",
   title: "Xmas Time of the Year",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 2.298183,
   ownProgress: 2.298183,

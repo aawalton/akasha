@@ -5,7 +5,7 @@ export const jadaFacerNotOk = {
   pageTypeSlug: "release",
   slug: "jada-facer-not-ok",
   title: "Not Ok",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.4738,
   ownProgress: 2.4738,

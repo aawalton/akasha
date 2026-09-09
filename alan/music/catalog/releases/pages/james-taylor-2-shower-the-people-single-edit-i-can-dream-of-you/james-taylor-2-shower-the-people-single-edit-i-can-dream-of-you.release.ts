@@ -5,7 +5,7 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYou = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-shower-the-people-single-edit-i-can-dream-of-you",
   title: "Shower the People (Single Edit) / I Can Dream of You",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 7.32955,
   ownProgress: 7.32955,

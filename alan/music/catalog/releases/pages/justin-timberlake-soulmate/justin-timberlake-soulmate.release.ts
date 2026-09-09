@@ -5,7 +5,7 @@ export const justinTimberlakeSoulmate = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-soulmate",
   title: "SoulMate",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 3.270517,
   ownProgress: 0,

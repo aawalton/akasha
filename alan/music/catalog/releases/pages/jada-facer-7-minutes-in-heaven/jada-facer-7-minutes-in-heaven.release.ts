@@ -5,7 +5,7 @@ export const jadaFacer7MinutesInHeaven = {
   pageTypeSlug: "release",
   slug: "jada-facer-7-minutes-in-heaven",
   title: "7 Minutes In Heaven",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.435417,
   ownProgress: 3.435417,

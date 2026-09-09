@@ -5,7 +5,7 @@ export const jadaFacerWithoutMeAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-without-me-acoustic",
   title: "Without Me (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.55465,
   ownProgress: 2.55465,

@@ -5,7 +5,7 @@ export const greenDayUno = {
   pageTypeSlug: "release",
   slug: "green-day-uno",
   title: "¡UNO!",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 41.81345,
   ownProgress: 41.81345,

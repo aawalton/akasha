@@ -5,7 +5,7 @@ export const imagineDragonsDreamJorgenOdegardRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-dream-jorgen-odegard-remix",
   title: "Dream (Jorgen Odegard Remix)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 4.608217,
   ownProgress: 4.608217,

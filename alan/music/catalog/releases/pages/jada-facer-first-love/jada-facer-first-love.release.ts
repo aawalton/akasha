@@ -5,7 +5,7 @@ export const jadaFacerFirstLove = {
   pageTypeSlug: "release",
   slug: "jada-facer-first-love",
   title: "First Love",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 14.73395,
   ownProgress: 14.73395,

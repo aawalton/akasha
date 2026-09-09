@@ -5,7 +5,7 @@ export const jessicaBaioTrustIssues = {
   pageTypeSlug: "release",
   slug: "jessica-baio-trust-issues",
   title: "trust issues",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 2.2377,
   ownProgress: 2.2377,

@@ -5,7 +5,7 @@ export const jadaFacerFirefliesAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-fireflies-acoustic",
   title: "Fireflies (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.0247,
   ownProgress: 3.0247,

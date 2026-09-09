@@ -5,7 +5,7 @@ export const greenDayNuclearFamily = {
   pageTypeSlug: "release",
   slug: "green-day-nuclear-family",
   title: "Nuclear Family",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 3.052433,
   ownProgress: 3.052433,

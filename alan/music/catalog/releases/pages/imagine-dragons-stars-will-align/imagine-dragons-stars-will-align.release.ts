@@ -5,7 +5,7 @@ export const imagineDragonsStarsWillAlign = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-stars-will-align",
   title: "Stars Will Align",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.9061,
   ownProgress: 3.9061,

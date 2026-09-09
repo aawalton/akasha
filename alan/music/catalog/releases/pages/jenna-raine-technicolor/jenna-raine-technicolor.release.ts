@@ -5,7 +5,7 @@ export const jennaRaineTechnicolor = {
   pageTypeSlug: "release",
   slug: "jenna-raine-technicolor",
   title: "Technicolor",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 2.908317,
   ownProgress: 2.908317,

@@ -5,7 +5,7 @@ export const girlInRedTooMuch = {
   pageTypeSlug: "release",
   slug: "girl-in-red-too-much",
   title: "Too Much",
-  partOfCollectionSlugs: ["girl-in-red"],
+  partOfCollections: ["girl-in-red"],
   position: 0,
   ownLength: 3.057883,
   ownProgress: 0,

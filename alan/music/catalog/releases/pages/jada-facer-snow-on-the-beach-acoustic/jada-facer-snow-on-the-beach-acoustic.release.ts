@@ -5,7 +5,7 @@ export const jadaFacerSnowOnTheBeachAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-snow-on-the-beach-acoustic",
   title: "Snow On The Beach (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.476633,
   ownProgress: 3.476633,

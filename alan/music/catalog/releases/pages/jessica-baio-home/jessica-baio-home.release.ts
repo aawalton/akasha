@@ -5,7 +5,7 @@ export const jessicaBaioHome = {
   pageTypeSlug: "release",
   slug: "jessica-baio-home",
   title: "home",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 2.970317,
   ownProgress: 2.970317,

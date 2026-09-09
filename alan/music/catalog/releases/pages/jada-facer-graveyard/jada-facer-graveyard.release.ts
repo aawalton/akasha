@@ -5,7 +5,7 @@ export const jadaFacerGraveyard = {
   pageTypeSlug: "release",
   slug: "jada-facer-graveyard",
   title: "Graveyard",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.76035,
   ownProgress: 2.76035,

@@ -5,7 +5,7 @@ export const greenDayLastNightOnEarthLiveInTokyo = {
   pageTypeSlug: "release",
   slug: "green-day-last-night-on-earth-live-in-tokyo",
   title: "Last Night on Earth (Live in Tokyo)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 23.922433,
   ownProgress: 23.922433,

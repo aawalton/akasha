@@ -5,7 +5,7 @@ export const jadaFacerTennesseeRain = {
   pageTypeSlug: "release",
   slug: "jada-facer-tennessee-rain",
   title: "Tennessee Rain",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.1,
   ownProgress: 3.1,

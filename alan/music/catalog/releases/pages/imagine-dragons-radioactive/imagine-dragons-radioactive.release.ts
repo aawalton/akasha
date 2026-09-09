@@ -5,7 +5,7 @@ export const imagineDragonsRadioactive = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-radioactive",
   title: "Radioactive",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 4.600667,
   ownProgress: 4.600667,

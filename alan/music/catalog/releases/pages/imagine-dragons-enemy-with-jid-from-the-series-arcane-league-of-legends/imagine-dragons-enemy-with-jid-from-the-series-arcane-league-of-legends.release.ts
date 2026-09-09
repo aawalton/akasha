@@ -5,7 +5,7 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegends = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-enemy-with-jid-from-the-series-arcane-league-of-legends",
   title: "Enemy (with JID) [from the series Arcane League of Legends]",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 2.889683,
   ownProgress: 2.889683,

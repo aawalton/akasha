@@ -5,7 +5,7 @@ export const jennaRaineINeedYou = {
   pageTypeSlug: "release",
   slug: "jenna-raine-i-need-you",
   title: "I Need You",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 4.8504,
   ownProgress: 4.8504,

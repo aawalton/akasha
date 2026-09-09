@@ -5,7 +5,7 @@ export const jadaFacerUseSomebodyAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-use-somebody-acoustic",
   title: "Use Somebody (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.988,
   ownProgress: 2.988,

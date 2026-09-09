@@ -5,7 +5,7 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenter = {
   pageTypeSlug: "release",
   slug: "girl-in-red-you-need-me-now-feat-sabrina-carpenter",
   title: "You Need Me Now? (feat. Sabrina Carpenter)",
-  partOfCollectionSlugs: ["girl-in-red"],
+  partOfCollections: ["girl-in-red"],
   position: 0,
   ownLength: 3.106283,
   ownProgress: 0,

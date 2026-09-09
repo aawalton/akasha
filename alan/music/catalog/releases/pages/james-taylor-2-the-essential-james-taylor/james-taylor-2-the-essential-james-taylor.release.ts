@@ -5,7 +5,7 @@ export const jamesTaylor2TheEssentialJamesTaylor = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-the-essential-james-taylor",
   title: "The Essential James Taylor",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 110.790733,
   ownProgress: 110.790733,

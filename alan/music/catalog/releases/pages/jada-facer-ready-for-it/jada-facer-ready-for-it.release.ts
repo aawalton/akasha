@@ -5,7 +5,7 @@ export const jadaFacerReadyForIt = {
   pageTypeSlug: "release",
   slug: "jada-facer-ready-for-it",
   title: "...Ready For It?",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.299333,
   ownProgress: 2.299333,

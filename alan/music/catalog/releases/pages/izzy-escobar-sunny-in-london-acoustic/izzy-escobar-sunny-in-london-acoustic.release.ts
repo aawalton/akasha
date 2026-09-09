@@ -5,7 +5,7 @@ export const izzyEscobarSunnyInLondonAcoustic = {
   pageTypeSlug: "release",
   slug: "izzy-escobar-sunny-in-london-acoustic",
   title: "Sunny in London (Acoustic)",
-  partOfCollectionSlugs: ["izzy-escobar"],
+  partOfCollections: ["izzy-escobar"],
   position: 0,
   ownLength: 26.813233,
   ownProgress: 26.813233,

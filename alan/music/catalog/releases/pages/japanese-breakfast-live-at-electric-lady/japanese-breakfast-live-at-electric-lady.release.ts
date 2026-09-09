@@ -5,7 +5,7 @@ export const japaneseBreakfastLiveAtElectricLady = {
   pageTypeSlug: "release",
   slug: "japanese-breakfast-live-at-electric-lady",
   title: "Live At Electric Lady",
-  partOfCollectionSlugs: ["japanese-breakfast"],
+  partOfCollections: ["japanese-breakfast"],
   position: 0,
   ownLength: 28.099367,
   ownProgress: 28.099367,

@@ -5,7 +5,7 @@ export const jadaFacerIWillFollowYouIntoTheDark = {
   pageTypeSlug: "release",
   slug: "jada-facer-i-will-follow-you-into-the-dark",
   title: "I Will Follow You Into The Dark",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.401867,
   ownProgress: 2.401867,

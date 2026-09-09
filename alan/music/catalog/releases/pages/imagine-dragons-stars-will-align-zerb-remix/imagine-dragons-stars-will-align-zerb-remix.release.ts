@@ -5,7 +5,7 @@ export const imagineDragonsStarsWillAlignZerbRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-stars-will-align-zerb-remix",
   title: "Stars Will Align (Zerb Remix)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.70225,
   ownProgress: 3.70225,

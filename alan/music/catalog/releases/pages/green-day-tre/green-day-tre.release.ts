@@ -5,7 +5,7 @@ export const greenDayTre = {
   pageTypeSlug: "release",
   slug: "green-day-tre",
   title: "¡TRÉ!",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 46.708367,
   ownProgress: 46.708367,

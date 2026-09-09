@@ -5,7 +5,7 @@ export const imagineDragonsTakeMeToTheBeachFeatBakerBoy = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-take-me-to-the-beach-feat-baker-boy",
   title: "Take Me to the Beach (feat. Baker Boy)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.0892,
   ownProgress: 3.0892,

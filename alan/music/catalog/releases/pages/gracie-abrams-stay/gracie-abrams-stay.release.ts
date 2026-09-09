@@ -5,7 +5,7 @@ export const gracieAbramsStay = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-stay",
   title: "Stay",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 2.952533,
   ownProgress: 2.952533,

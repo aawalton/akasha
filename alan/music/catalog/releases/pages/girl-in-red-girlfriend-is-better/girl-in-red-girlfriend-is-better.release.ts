@@ -5,7 +5,7 @@ export const girlInRedGirlfriendIsBetter = {
   pageTypeSlug: "release",
   slug: "girl-in-red-girlfriend-is-better",
   title: "Girlfriend Is Better",
-  partOfCollectionSlugs: ["girl-in-red"],
+  partOfCollections: ["girl-in-red"],
   position: 0,
   ownLength: 3.088883,
   ownProgress: 0,

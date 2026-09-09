@@ -5,7 +5,7 @@ export const katyPerryET = {
   pageTypeSlug: "release",
   slug: "katy-perry-e-t",
   title: "E.T.",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 0.476633,
   ownProgress: 0.476633,

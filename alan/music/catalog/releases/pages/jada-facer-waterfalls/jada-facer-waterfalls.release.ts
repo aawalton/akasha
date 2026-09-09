@@ -5,7 +5,7 @@ export const jadaFacerWaterfalls = {
   pageTypeSlug: "release",
   slug: "jada-facer-waterfalls",
   title: "Waterfalls",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.602767,
   ownProgress: 3.602767,

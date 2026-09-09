@@ -5,7 +5,7 @@ export const jadaFacerBetter = {
   pageTypeSlug: "release",
   slug: "jada-facer-better",
   title: "Better",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.025983,
   ownProgress: 3.025983,

@@ -5,7 +5,7 @@ export const greenDayHolyToledoFromTheOriginalMotionPictureMarkMarySomeOtherPeop
   pageTypeSlug: "release",
   slug: "green-day-holy-toledo-from-the-original-motion-picture-mark-mary-some-other-people",
   title: "Holy Toledo! (from the Original Motion Picture “Mark, Mary & Some Other People”)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 3.158667,
   ownProgress: 0,

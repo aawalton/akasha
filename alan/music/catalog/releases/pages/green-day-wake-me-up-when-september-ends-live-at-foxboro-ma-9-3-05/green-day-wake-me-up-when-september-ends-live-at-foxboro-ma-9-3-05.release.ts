@@ -5,7 +5,7 @@ export const greenDayWakeMeUpWhenSeptemberEndsLiveAtFoxboroMa9305 = {
   pageTypeSlug: "release",
   slug: "green-day-wake-me-up-when-september-ends-live-at-foxboro-ma-9-3-05",
   title: "Wake Me up When September Ends (Live at Foxboro, MA, 9/3/05)",
-  partOfCollectionSlugs: ["green-day"],
+  partOfCollections: ["green-day"],
   position: 0,
   ownLength: 5.68,
   ownProgress: 5.68,

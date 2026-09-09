@@ -5,7 +5,7 @@ export const jadaFacerNightmare = {
   pageTypeSlug: "release",
   slug: "jada-facer-nightmare",
   title: "Nightmare",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.710817,
   ownProgress: 2.710817,

@@ -5,7 +5,7 @@ export const jennaRaineBigDumbHeartChapter2 = {
   pageTypeSlug: "release",
   slug: "jenna-raine-big-dumb-heart-chapter-2",
   title: "Big Dumb Heart, Chapter 2",
-  partOfCollectionSlugs: ["jenna-raine"],
+  partOfCollections: ["jenna-raine"],
   position: 0,
   ownLength: 12.063917,
   ownProgress: 12.063917,

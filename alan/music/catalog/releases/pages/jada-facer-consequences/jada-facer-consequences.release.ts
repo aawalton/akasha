@@ -5,7 +5,7 @@ export const jadaFacerConsequences = {
   pageTypeSlug: "release",
   slug: "jada-facer-consequences",
   title: "Consequences",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.35095,
   ownProgress: 2.35095,

@@ -5,7 +5,7 @@ export const justinTimberlakeTrueColors = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-true-colors",
   title: "True Colors",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 4.062,
   ownProgress: 0,

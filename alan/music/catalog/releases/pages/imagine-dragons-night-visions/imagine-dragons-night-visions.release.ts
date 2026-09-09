@@ -5,7 +5,7 @@ export const imagineDragonsNightVisions = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-night-visions",
   title: "Night Visions",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 48.07795,
   ownProgress: 48.07795,

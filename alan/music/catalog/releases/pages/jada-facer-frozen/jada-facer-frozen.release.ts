@@ -5,7 +5,7 @@ export const jadaFacerFrozen = {
   pageTypeSlug: "release",
   slug: "jada-facer-frozen",
   title: "frozen",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.855283,
   ownProgress: 2.855283,

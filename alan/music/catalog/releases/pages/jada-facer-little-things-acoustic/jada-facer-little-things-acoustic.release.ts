@@ -5,7 +5,7 @@ export const jadaFacerLittleThingsAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-little-things-acoustic",
   title: "Little Things (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.300817,
   ownProgress: 3.300817,

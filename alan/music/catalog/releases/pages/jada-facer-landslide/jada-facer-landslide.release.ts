@@ -5,7 +5,7 @@ export const jadaFacerLandslide = {
   pageTypeSlug: "release",
   slug: "jada-facer-landslide",
   title: "Landslide",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.813333,
   ownProgress: 2.813333,

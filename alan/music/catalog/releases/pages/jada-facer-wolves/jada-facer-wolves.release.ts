@@ -5,7 +5,7 @@ export const jadaFacerWolves = {
   pageTypeSlug: "release",
   slug: "jada-facer-wolves",
   title: "Wolves",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.291667,
   ownProgress: 2.291667,

@@ -5,7 +5,7 @@ export const girlInRedSayItSpotifyStudioOysterRecording = {
   pageTypeSlug: "release",
   slug: "girl-in-red-say-it-spotify-studio-oyster-recording",
   title: "Say It - Spotify Studio Oyster Recording",
-  partOfCollectionSlugs: ["girl-in-red"],
+  partOfCollections: ["girl-in-red"],
   position: 0,
   ownLength: 2.88625,
   ownProgress: 0,

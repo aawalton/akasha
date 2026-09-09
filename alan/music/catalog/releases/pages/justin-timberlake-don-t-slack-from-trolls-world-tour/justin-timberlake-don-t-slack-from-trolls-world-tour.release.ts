@@ -5,7 +5,7 @@ export const justinTimberlakeDonTSlackFromTrollsWorldTour = {
   pageTypeSlug: "release",
   slug: "justin-timberlake-don-t-slack-from-trolls-world-tour",
   title: "Don't Slack (from Trolls World Tour)",
-  partOfCollectionSlugs: ["justin-timberlake"],
+  partOfCollections: ["justin-timberlake"],
   position: 0,
   ownLength: 2.913333,
   ownProgress: 0,

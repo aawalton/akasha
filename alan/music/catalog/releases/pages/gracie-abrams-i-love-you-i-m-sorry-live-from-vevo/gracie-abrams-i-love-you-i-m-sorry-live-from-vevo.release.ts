@@ -5,7 +5,7 @@ export const gracieAbramsILoveYouIMSorryLiveFromVevo = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-i-love-you-i-m-sorry-live-from-vevo",
   title: "I Love You, I'm Sorry (Live From Vevo)",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 6.02185,
   ownProgress: 6.02185,

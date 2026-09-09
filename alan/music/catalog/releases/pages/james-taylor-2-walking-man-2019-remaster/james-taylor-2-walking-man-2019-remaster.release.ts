@@ -5,7 +5,7 @@ export const jamesTaylor2WalkingMan2019Remaster = {
   pageTypeSlug: "release",
   slug: "james-taylor-2-walking-man-2019-remaster",
   title: "Walking Man (2019 Remaster)",
-  partOfCollectionSlugs: ["james-taylor-2"],
+  partOfCollections: ["james-taylor-2"],
   position: 0,
   ownLength: 34.060617,
   ownProgress: 34.060617,

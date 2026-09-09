@@ -5,7 +5,7 @@ export const jisooMe = {
   pageTypeSlug: "release",
   slug: "jisoo-me",
   title: "ME",
-  partOfCollectionSlugs: ["jisoo"],
+  partOfCollections: ["jisoo"],
   position: 0,
   ownLength: 5.610933,
   ownProgress: 5.610933,

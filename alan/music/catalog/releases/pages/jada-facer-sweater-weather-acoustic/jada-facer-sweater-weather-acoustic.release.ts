@@ -5,7 +5,7 @@ export const jadaFacerSweaterWeatherAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-sweater-weather-acoustic",
   title: "Sweater Weather (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.508617,
   ownProgress: 2.508617,

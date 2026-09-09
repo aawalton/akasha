@@ -5,7 +5,7 @@ export const jadaFacerPhotographAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-photograph-acoustic",
   title: "Photograph (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 4.0736,
   ownProgress: 4.0736,

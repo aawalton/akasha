@@ -5,7 +5,7 @@ export const jessicaBaioSkinAcoustic = {
   pageTypeSlug: "release",
   slug: "jessica-baio-skin-acoustic",
   title: "skin (acoustic)",
-  partOfCollectionSlugs: ["jessica-baio"],
+  partOfCollections: ["jessica-baio"],
   position: 0,
   ownLength: 3.324533,
   ownProgress: 3.324533,

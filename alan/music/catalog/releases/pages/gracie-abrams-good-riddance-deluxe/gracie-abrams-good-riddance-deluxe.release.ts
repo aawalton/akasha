@@ -5,7 +5,7 @@ export const gracieAbramsGoodRiddanceDeluxe = {
   pageTypeSlug: "release",
   slug: "gracie-abrams-good-riddance-deluxe",
   title: "Good Riddance (Deluxe)",
-  partOfCollectionSlugs: ["gracie-abrams"],
+  partOfCollections: ["gracie-abrams"],
   position: 0,
   ownLength: 68.0943,
   ownProgress: 68.0943,

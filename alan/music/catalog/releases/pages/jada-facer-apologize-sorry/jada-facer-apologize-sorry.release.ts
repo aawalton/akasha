@@ -5,7 +5,7 @@ export const jadaFacerApologizeSorry = {
   pageTypeSlug: "release",
   slug: "jada-facer-apologize-sorry",
   title: "Apologize / Sorry",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.882483,
   ownProgress: 2.882483,

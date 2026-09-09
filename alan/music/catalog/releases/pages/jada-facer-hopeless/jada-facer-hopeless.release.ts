@@ -5,7 +5,7 @@ export const jadaFacerHopeless = {
   pageTypeSlug: "release",
   slug: "jada-facer-hopeless",
   title: "Hopeless",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 2.798183,
   ownProgress: 2.798183,

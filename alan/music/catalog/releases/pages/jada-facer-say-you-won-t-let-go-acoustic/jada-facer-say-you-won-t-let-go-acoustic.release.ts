@@ -5,7 +5,7 @@ export const jadaFacerSayYouWonTLetGoAcoustic = {
   pageTypeSlug: "release",
   slug: "jada-facer-say-you-won-t-let-go-acoustic",
   title: "Say You Won't Let Go (Acoustic)",
-  partOfCollectionSlugs: ["jada-facer"],
+  partOfCollections: ["jada-facer"],
   position: 0,
   ownLength: 3.513917,
   ownProgress: 3.513917,

@@ -5,7 +5,7 @@ export const imagineDragonsBelieverFeatLilWayne = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-believer-feat-lil-wayne",
   title: "Believer (feat. Lil Wayne)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 3.66175,
   ownProgress: 3.66175,

@@ -5,7 +5,7 @@ export const imagineDragonsDemonsTelykastRemix = {
   pageTypeSlug: "release",
   slug: "imagine-dragons-demons-telykast-remix",
   title: "Demons (TELYKast Remix)",
-  partOfCollectionSlugs: ["imagine-dragons"],
+  partOfCollections: ["imagine-dragons"],
   position: 0,
   ownLength: 2.935467,
   ownProgress: 2.935467,
