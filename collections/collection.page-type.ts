@@ -8,13 +8,12 @@ import type { CollectionType } from "./properties/collection-type.relation-prope
 import type { Following } from "./properties/following.boolean-property.ts"
 import type { OwnLength } from "./properties/own-length.number-property.ts"
 import type { OwnProgress } from "./properties/own-progress.number-property.ts"
-import type { PartOfCollectionSlugs } from "./properties/part-of-collection-slugs.relation-property.ts"
+import type { PartOfCollections } from "./properties/part-of-collections.relation-property.ts"
 import type { PartsLengthInWords } from "./properties/parts-length-in-words.number-property.ts"
 import type { PartsProgressInWords } from "./properties/parts-progress-in-words.number-property.ts"
 import type { Position } from "./properties/position.number-property.ts"
 import type { Rank } from "./properties/rank.rank-property.ts"
 import type { Status } from "./properties/status.select-property.ts"
-import type { TmpPartOfCollections } from "./properties/tmp-part-of-collections.relation-property.ts"
 import type { UnitSlug } from "./properties/unit-slug.relation-property.ts"
 import type { UnitWindow } from "./properties/unit-window.relation-property.ts"
 import type { UnitWords } from "./properties/unit-words.number-property.ts"
@@ -25,8 +24,7 @@ export type Collection = Page & {
   following?: Following
   ownLength?: OwnLength
   ownProgress?: OwnProgress
-  partOfCollections?: TmpPartOfCollections
-  partOfCollectionSlugs?: PartOfCollectionSlugs
+  partOfCollections?: PartOfCollections
   partsLengthInWords?: PartsLengthInWords
   partsProgressInWords?: PartsProgressInWords
   position?: Position
@@ -78,8 +76,7 @@ export const collection = {
     "page-type/unit",
     "rank-property/rank",
     "relation-property/collection-type",
-    "relation-property/part-of-collection-slugs",
-    "relation-property/tmp-part-of-collections",
+    "relation-property/part-of-collections",
     "relation-property/unit-slug",
     "relation-property/unit-window",
     "select-property/status",
@@ -109,13 +106,7 @@ export const collection = {
     { pageProperty: "number-property/own-length", required: false, many: false },
     { pageProperty: "number-property/own-progress", required: false, many: false },
     {
-      pageProperty: "relation-property/part-of-collection-slugs",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
-    {
-      pageProperty: "relation-property/tmp-part-of-collections",
+      pageProperty: "relation-property/part-of-collections",
       required: false,
       many: true,
       maxCount: null,
