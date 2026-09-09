@@ -10,6 +10,8 @@ const CLUSTER_SERVICE = "cluster-service"
 
 const MANIFEST = "manifest"
 
+const MANIFEST_KEY = "manifest"
+
 const MANIFEST_SLUG = "manifestSlug"
 
 const SLUG = "slug"
@@ -67,7 +69,7 @@ export function appliedManifestPaths(repoRoot: string): readonly string[] {
   }
   const found: string[] = []
   for (const one of valuesOfType(repoRoot, CLUSTER_SERVICE)) {
-    const named = textIn(one.value, MANIFEST_SLUG)
+    const named = textIn(one.value, MANIFEST_KEY) ?? textIn(one.value, MANIFEST_SLUG)
     if (named === null) continue
     const at = codeOfSlug.get(named)
     if (at !== undefined) found.push(at)

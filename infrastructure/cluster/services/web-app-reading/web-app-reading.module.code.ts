@@ -18,6 +18,7 @@ const RESOURCE_NAME = "resourceName"
 const IMAGE = "image"
 const REPLICAS = "replicas"
 const CONTAINER_PORT = "containerPort"
+const MANIFEST = "manifest"
 const MANIFEST_SLUG = "manifestSlug"
 const WEB_APP_NEEDS = [SOURCE_DIRECTORY, BUILD_COMMAND]
 const CLUSTER_SERVICE_NEEDS = [
@@ -27,8 +28,11 @@ const CLUSTER_SERVICE_NEEDS = [
   IMAGE,
   REPLICAS,
   CONTAINER_PORT,
-  MANIFEST_SLUG,
 ]
+
+function manifestNamed(value: Value): string | null {
+  return textAt(value, MANIFEST) ?? textAt(value, MANIFEST_SLUG)
+}
 
 export interface Workload {
   readonly kind: string
@@ -168,10 +172,12 @@ export function deployableNamed(root: string, slug: string): Read {
   if (service === null) {
     return { refused: `${found} would not load, so the workload it states is not read` }
   }
+  const manifestSlug = manifestNamed(service)
   const short = wantingIn(service, CLUSTER_SERVICE_NEEDS)
-  if (short.length > 0) {
+  const wanted = manifestSlug === null ? [...short, MANIFEST] : short
+  if (wanted.length > 0) {
     return {
-      refused: `${found} states no ${short.join(" and no ")}, so the workload \`${slug}\` is put up as is not whole`,
+      refused: `${found} states no ${wanted.join(" and no ")}, so the workload \`${slug}\` is put up as is not whole`,
     }
   }
   const workload = workloadIn(service)
@@ -180,7 +186,7 @@ export function deployableNamed(root: string, slug: string): Read {
       refused: `${found} states no kind, namespace and resource name together, so it names no workload`,
     }
   }
-  const manifestPath = manifestFor(root, textAt(service, MANIFEST_SLUG) as string, found)
+  const manifestPath = manifestFor(root, manifestSlug as string, found)
   if (typeof manifestPath !== "string") return manifestPath
   const synthPath = codeBeside(manifestPath)
   if (!existsSync(join(root, synthPath))) {
