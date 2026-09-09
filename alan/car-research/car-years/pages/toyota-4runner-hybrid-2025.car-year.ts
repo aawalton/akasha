@@ -11,5 +11,5 @@ export const toyota4runnerHybrid2025 = {
   shortList: false,
   sources: "- https://www.toyota.com/4runner/2025/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "toyota-4runner-hybrid",
+  carModel: "toyota-4runner-hybrid",
 } as const satisfies CarYear

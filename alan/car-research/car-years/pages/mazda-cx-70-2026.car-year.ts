@@ -12,5 +12,5 @@ export const mazdaCx702026 = {
   sources:
     "- Mazda USA CX-70 trims: https://www.mazdausa.com/vehicles/cx-70/compare-vehicle-specs-and-trims\n- Pacifico Mazda 2026 specs blog: https://www.pacificomazda.com/blog/2026/may/7/2026-mazda-cx-70-specs-mpg-features-what-philadelphia-drivers-should-know.htm",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mazda-cx-70",
+  carModel: "mazda-cx-70",
 } as const satisfies CarYear

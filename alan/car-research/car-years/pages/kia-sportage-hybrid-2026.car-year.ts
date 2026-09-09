@@ -12,5 +12,5 @@ export const kiaSportageHybrid2026 = {
   sources:
     "https://www.kia.com/us/en/sportage-hybrid\nhttps://www.kia.com/us/en/sportage-hybrid/specs-compare\nhttps://www.cargurus.com/Cars/articles/2026-kia-sportage-hybrid-plug-in-price-specs-release-date",
   exclusionReason: "All trims excluded",
-  carModelSlug: "kia-sportage-hybrid",
+  carModel: "kia-sportage-hybrid",
 } as const satisfies CarYear

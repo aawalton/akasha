@@ -12,5 +12,5 @@ export const mitsubishiOutlanderPhev2026 = {
   sources:
     "- [Mitsubishi 2026 PHEV press release](https://media.mitsubishicars.com/en-US/releases/2026-mitsubishi-outlander-plug-in-hybrid-mid-cycle-refresh-pricing-to-start-at-43245)\n- [KBB: 2026 PHEV price bump](https://www.kbb.com/car-news/mitsubishi-outlander-plug-in-hybrid-increases-by-2800-for-2026/)\n- [Carscoops 2026 PHEV refresh](https://www.carscoops.com/2026/03/mitsubishi-outlander-phev-refresh/)\n- [Autoevolution 2026 PHEV pricing](https://www.autoevolution.com/news/2026-mitsubishi-outlander-phev-arriving-at-us-dealers-in-may-priced-from-43245-267177.html)",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mitsubishi-outlander-phev",
+  carModel: "mitsubishi-outlander-phev",
 } as const satisfies CarYear

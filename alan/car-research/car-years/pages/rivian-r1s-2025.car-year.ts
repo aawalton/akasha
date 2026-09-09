@@ -12,5 +12,5 @@ export const rivianR1s2025 = {
   sources:
     "- https://rivian.com/r1s\n- https://www.edmunds.com/rivian/r1s/2025/\n- https://www.kbb.com/rivian/r1s/2025/specs/\n- https://stories.rivian.com/enhanced-highway-assist-gen2",
   exclusionReason: "All trims excluded",
-  carModelSlug: "rivian-r1s",
+  carModel: "rivian-r1s",
 } as const satisfies CarYear

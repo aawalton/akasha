@@ -12,5 +12,5 @@ export const bentleyContinentalGtc2026 = {
   sources:
     "- https://clevelandmotorsports.com/bentley-continental-gtc-model-review-cleveland-oh\n- https://www.bentleyofranchomirage.com/2026-bentley-continental-gt-s\n- https://www.thetruthaboutcars.com/cars/news-blog/recall-alert-2025-2026-bentley-continental-gtc-continental-gt-flying-spur-45131539",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bentley-continental-gtc",
+  carModel: "bentley-continental-gtc",
 } as const satisfies CarYear

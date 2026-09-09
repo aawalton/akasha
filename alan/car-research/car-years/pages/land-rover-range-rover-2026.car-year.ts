@@ -12,5 +12,5 @@ export const landRoverRangeRover2026 = {
   sources:
     "- https://www.landrovermanhattan.com/2026-range-rover-overview/\n- https://www.landrovergrandrapids.com/research-hub/2026-range-rover-technical-features/\n- https://www.landrovercherryhill.com/everything-we-know-about-the-2026-land-rover-models-so-far/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "land-rover-range-rover",
+  carModel: "land-rover-range-rover",
 } as const satisfies CarYear

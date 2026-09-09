@@ -12,5 +12,5 @@ export const subaruForesterHybrid2026 = {
   sources:
     "- https://media.subaru.com/newsrelease.do?id=2424\n- https://www.subaru.com/vehicles/forester/hybrid/2026.html\n- https://www.subaru.com/vehicles/forester/hybrid/2026/specs-trim.html\n- https://cars.usnews.com/cars-trucks/subaru/forester-hybrid",
   exclusionReason: "All trims excluded",
-  carModelSlug: "subaru-forester-hybrid",
+  carModel: "subaru-forester-hybrid",
 } as const satisfies CarYear

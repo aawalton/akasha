@@ -12,5 +12,5 @@ export const vinfastVf62025 = {
   sources:
     "https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2025&year2=2026&make=Vinfast https://vinfastauto.us/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "vinfast-vf-6",
+  carModel: "vinfast-vf-6",
 } as const satisfies CarYear

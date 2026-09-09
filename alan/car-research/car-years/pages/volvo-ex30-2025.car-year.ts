@@ -11,5 +11,5 @@ export const volvoEx302025 = {
   shortList: true,
   sources:
     "- https://insideevs.com/news/702527/2025-volvo-ex30-range-specs-pricing/\n- https://www.cars.com/research/volvo-ex30-2025/",
-  carModelSlug: "volvo-ex30",
+  carModel: "volvo-ex30",
 } as const satisfies CarYear

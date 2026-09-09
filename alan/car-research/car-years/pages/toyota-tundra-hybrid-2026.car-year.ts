@@ -10,5 +10,5 @@ export const toyotaTundraHybrid2026 = {
   shortList: false,
   sources: "- https://www.toyota.com/tundrahybrid/2026/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "toyota-tundra-hybrid",
+  carModel: "toyota-tundra-hybrid",
 } as const satisfies CarYear

@@ -11,5 +11,5 @@ export const toyotaBz4x2025 = {
   shortList: true,
   sources:
     "- https://pressroom.toyota.com/2025-toyota-bz4x-pricing/\n- https://www.toyota.com/bz4x/2025/\n- https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=46086",
-  carModelSlug: "toyota-bz4x",
+  carModel: "toyota-bz4x",
 } as const satisfies CarYear

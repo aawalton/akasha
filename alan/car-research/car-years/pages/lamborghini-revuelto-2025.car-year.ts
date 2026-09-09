@@ -12,5 +12,5 @@ export const lamborghiniRevuelto2025 = {
   sources:
     "1. https://www.cars.com/research/lamborghini-revuelto-2025/\n2. https://www.kbb.com/lamborghini/revuelto/2025/specs/\n3. https://www.edmunds.com/lamborghini/revuelto/\n4. https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48581\n5. https://www.cars.com/research/lamborghini-revuelto/recalls/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "lamborghini-revuelto",
+  carModel: "lamborghini-revuelto",
 } as const satisfies CarYear

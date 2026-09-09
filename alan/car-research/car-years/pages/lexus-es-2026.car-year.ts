@@ -12,5 +12,5 @@ export const lexusEs2026 = {
   sources:
     "- 2026 Lexus ES pressroom: https://pressroom.lexus.com/all-new-2026-lexus-es-debut/\n- InsideEVs",
   exclusionReason: "All trims excluded",
-  carModelSlug: "lexus-es",
+  carModel: "lexus-es",
 } as const satisfies CarYear

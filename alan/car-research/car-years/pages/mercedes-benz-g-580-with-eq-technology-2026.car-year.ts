@@ -12,5 +12,5 @@ export const mercedesBenzG580WithEqTechnology2026 = {
   sources:
     "- https://www.mbusa.com/en/vehicles/class/g-class/suv\n- https://www.topspeed.com/mercedes-benz-ambitious-lineup/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-g-580-with-eq-technology",
+  carModel: "mercedes-benz-g-580-with-eq-technology",
 } as const satisfies CarYear

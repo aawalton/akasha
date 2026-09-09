@@ -12,5 +12,5 @@ export const audiA6SportbackETron2025 = {
   sources:
     "- https://www.audiusa.com/en/models/a6-e-tron/a6-sportback-e-tron/2025/overview/\n- https://insideevs.com/news/753393/2025-audi-a6-etron-us-price-range-specs/\n- https://www.electrive.com/2026/02/09/audi-releases-new-a6-q6-e-tron-models-in-the-usa/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "audi-a6-sportback-e-tron",
+  carModel: "audi-a6-sportback-e-tron",
 } as const satisfies CarYear

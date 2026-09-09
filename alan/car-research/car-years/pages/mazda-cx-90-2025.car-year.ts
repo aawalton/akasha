@@ -12,5 +12,5 @@ export const mazdaCx902025 = {
   sources:
     "- Cox Mazda trim guide: https://www.coxmazda.com/manufacturer-information/mazda-cx-90-trim-levels/\n- Consumer Reports recall coverage: https://www.consumerreports.org/cars/car-recalls-defects/mazda-cx-90-and-cx-70-recalled-for-software-related-problems-a4795490684/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mazda-cx-90",
+  carModel: "mazda-cx-90",
 } as const satisfies CarYear

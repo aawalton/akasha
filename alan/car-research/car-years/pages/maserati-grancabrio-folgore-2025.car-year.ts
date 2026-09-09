@@ -12,5 +12,5 @@ export const maseratiGrancabrioFolgore2025 = {
   sources:
     "- [Maserati US — GranCabrio Folgore](https://www.maserati.com/us/en/models/grancabrio/grancabrio-folgore)\n- [Cars.com — 2025 GranCabrio Folgore](https://www.cars.com/research/maserati-grancabrio_folgore-2025/)\n- [Edmunds — GranCabrio Folgore](https://www.edmunds.com/maserati/grancabrio-folgore/)",
   exclusionReason: "All trims excluded",
-  carModelSlug: "maserati-grancabrio-folgore",
+  carModel: "maserati-grancabrio-folgore",
 } as const satisfies CarYear

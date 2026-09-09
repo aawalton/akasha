@@ -12,5 +12,5 @@ export const maseratiGrecale2025 = {
   sources:
     "- [US News — 2025 Grecale](https://cars.usnews.com/cars-trucks/maserati/grecale)\n- [Bishop Maserati — 2025 Grecale specs](https://www.bishopmaserati.com/model-research/2025-maserati-grecale/)\n- [duPont Registry — MY2025 Grecale updates](https://news.dupontregistry.com/blogs/maserati-news/maserati-reveals-my2025-grecale-updates)\n- [Maserati Tampa — 2025 Grecale configurations](https://www.maseratitampa.com/maserati-grecale-suv-configurations-info/)",
   exclusionReason: "All trims excluded",
-  carModelSlug: "maserati-grecale",
+  carModel: "maserati-grecale",
 } as const satisfies CarYear

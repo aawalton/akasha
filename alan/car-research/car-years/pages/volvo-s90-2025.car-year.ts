@@ -12,5 +12,5 @@ export const volvoS902025 = {
   sources:
     "- https://www.kbb.com/volvo/s90/2025/specs/\n- https://carbuzz.com/cars/volvo/s90/2025/\n- https://carbuzz.com/volvo-s90-sedan-final-year/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "volvo-s90",
+  carModel: "volvo-s90",
 } as const satisfies CarYear

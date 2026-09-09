@@ -12,5 +12,5 @@ export const volkswagenIdBuzz2025 = {
   sources:
     "- https://www.vw.com/en/models/id-buzz.html\n- https://www.edmunds.com/volkswagen/id-buzz/2025/\n- https://www.edmunds.com/volkswagen/id-buzz/2025/mpg/\n- https://media.vw.com/releases/1894\n- https://www.vw.com/idhub/content/dam/onehub_pkw/importers/us/en/showrooms/id-buzz/2025/tech-specs/ID_Buzz_Pro_S_Technical_Data.pdf",
   exclusionReason: "All trims excluded",
-  carModelSlug: "volkswagen-id-buzz",
+  carModel: "volkswagen-id-buzz",
 } as const satisfies CarYear

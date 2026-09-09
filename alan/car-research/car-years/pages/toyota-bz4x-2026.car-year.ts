@@ -11,5 +11,5 @@ export const toyotaBz4x2026 = {
   shortList: true,
   sources:
     "- https://www.toyota.com/bz/\n- https://pressroom.toyota.com/2026-toyota-bz/\n- https://insideevs.com/news/735069/toyota-bz4x-2026-refresh/\n- https://electrek.co/2025/03/19/toyota-bz-2026-electric-suv-debut/",
-  carModelSlug: "toyota-bz4x",
+  carModel: "toyota-bz4x",
 } as const satisfies CarYear

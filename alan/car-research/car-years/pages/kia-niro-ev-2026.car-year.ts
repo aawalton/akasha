@@ -10,5 +10,5 @@ export const kiaNiroEv2026 = {
     "Carryover MY. Wind / Wave trims continue. Kia NACS adapter program continues — $249 at dealers for Niro EV owners. No major hardware refresh. Sources: https://www.kia.com/us/en/niro-ev , https://www.kia.com/us/en/niro-ev/build",
   shortList: true,
   sources: "https://www.kia.com/us/en/niro-ev\nhttps://www.kia.com/us/en/niro-ev/specs-compare",
-  carModelSlug: "kia-niro-ev",
+  carModel: "kia-niro-ev",
 } as const satisfies CarYear

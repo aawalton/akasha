@@ -12,5 +12,5 @@ export const teslaModelY2026 = {
   sources:
     "- https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do\n- https://cars.usnews.com/cars-trucks/tesla/model-y\n- https://www.tparts.com/blogs/tesla-latest-news/tesla-adds-7-year-propulsion-warranty-for-2026-models-in-us-and-canada\n- https://www.edmunds.com/tesla/model-y/\n- https://www.evspecifications.com/en/model/dc2d400",
   exclusionReason: "Tesla / Elon Musk association — personal exclusion",
-  carModelSlug: "tesla-model-y",
+  carModel: "tesla-model-y",
 } as const satisfies CarYear

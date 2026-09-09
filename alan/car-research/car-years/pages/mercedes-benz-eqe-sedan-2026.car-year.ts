@@ -12,5 +12,5 @@ export const mercedesBenzEqeSedan2026 = {
   sources:
     "- https://www.mbusa.com/en/vehicles/model/eqe/sedan/amgeqev4\n- https://www.autohausonedens.com/research/eqe-sedan-trims/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-eqe-sedan",
+  carModel: "mercedes-benz-eqe-sedan",
 } as const satisfies CarYear

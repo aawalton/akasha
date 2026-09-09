@@ -12,5 +12,5 @@ export const astonMartinValhalla2026 = {
   sources:
     "- Aston Martin USA: https://www.astonmartin.com/en-us/models/valhalla\n- Wikipedia: https://en.wikipedia.org/wiki/Aston_Martin_Valhalla\n- WardsAuto: https://www.wardsauto.com/news/aston-martin-releases-tech-data-on-1-000-hp-valhalla-hypercar/778308/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "aston-martin-valhalla",
+  carModel: "aston-martin-valhalla",
 } as const satisfies CarYear

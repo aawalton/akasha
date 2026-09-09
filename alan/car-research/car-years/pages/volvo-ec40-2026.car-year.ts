@@ -12,5 +12,5 @@ export const volvoEc402026 = {
   sources:
     "- https://www.kbb.com/volvo/ec40/\n- https://www.volvocars.com/us/media/models/ec40/2025/press-releases/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "volvo-ec40",
+  carModel: "volvo-ec40",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const hondaPrologue2026 = {
   sources:
     "- https://automobiles.honda.com/prologue\n- https://hondanews.com/en-US/honda-automobiles/releases/release-8fa536ee8b843d5cf766c58616009076-2026-honda-prologue-pricing-and-epa-ratings\n- https://www.edmunds.com/honda/prologue/\n- https://www.autoevolution.com/news/2026-honda-prologue-quietly-receives-7500-price-cut-268331.html",
   exclusionReason: "All trims excluded",
-  carModelSlug: "honda-prologue",
+  carModel: "honda-prologue",
 } as const satisfies CarYear

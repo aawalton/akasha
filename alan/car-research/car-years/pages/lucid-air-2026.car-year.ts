@@ -12,5 +12,5 @@ export const lucidAir2026 = {
   sources:
     "- https://lucidmotors.com/air\n- https://cars.usnews.com/cars-trucks/lucid/air\n- https://lucidmotors.com/stories/2026-lucid-air-tesla-superchargers",
   exclusionReason: "All trims excluded",
-  carModelSlug: "lucid-air",
+  carModel: "lucid-air",
 } as const satisfies CarYear

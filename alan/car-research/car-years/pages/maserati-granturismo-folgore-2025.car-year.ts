@@ -12,5 +12,5 @@ export const maseratiGranturismoFolgore2025 = {
   sources:
     "- [Cars.com — 2025 GranTurismo Folgore](https://www.cars.com/research/maserati-granturismo_folgore-2025/)\n- [TrueCar — 2025 GranTurismo Folgore](https://www.truecar.com/overview/maserati/granturismo-folgore/)\n- [Boston Motorsports — 2025 GranTurismo Folgore overview](https://www.bostonmotorsportsmaserati.com/2025-maserati-granturismo-folgore-overview/)",
   exclusionReason: "All trims excluded",
-  carModelSlug: "maserati-granturismo-folgore",
+  carModel: "maserati-granturismo-folgore",
 } as const satisfies CarYear

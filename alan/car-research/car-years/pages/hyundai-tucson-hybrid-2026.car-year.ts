@@ -12,5 +12,5 @@ export const hyundaiTucsonHybrid2026 = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/tucson-hybrid\n- https://www.edmunds.com/hyundai/tucson/2026/hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "hyundai-tucson-hybrid",
+  carModel: "hyundai-tucson-hybrid",
 } as const satisfies CarYear

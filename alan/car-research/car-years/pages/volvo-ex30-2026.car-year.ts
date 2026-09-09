@@ -11,5 +11,5 @@ export const volvoEx302026 = {
   shortList: true,
   sources:
     "- https://www.wardsauto.com/news/volvo-ends-EX30-sales-us-2026/815160/\n- https://www.motorcarsvolvocars.com/volvo-electric-models.htm",
-  carModelSlug: "volvo-ex30",
+  carModel: "volvo-ex30",
 } as const satisfies CarYear

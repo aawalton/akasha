@@ -12,5 +12,5 @@ export const bmwM52026 = {
   sources:
     "- BMW Blog 2026 M5 — https://www.bmwblog.com/2025/10/04/bmw-m5-2026-specs-pricing/\n- Edmunds 2026 M5 — https://www.edmunds.com/bmw/m5/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bmw-m5",
+  carModel: "bmw-m5",
 } as const satisfies CarYear

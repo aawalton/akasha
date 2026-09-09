@@ -12,5 +12,5 @@ export const porscheCayenneEHybrid2026 = {
   sources:
     "- https://www.porsche.com/usa/models/cayenne/cayenne-e-hybrid-models/\n- https://www.caranddriver.com/porsche/cayenne",
   exclusionReason: "All trims excluded",
-  carModelSlug: "porsche-cayenne-e-hybrid",
+  carModel: "porsche-cayenne-e-hybrid",
 } as const satisfies CarYear

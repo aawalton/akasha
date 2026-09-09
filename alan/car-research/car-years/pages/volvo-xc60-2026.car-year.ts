@@ -12,5 +12,5 @@ export const volvoXc602026 = {
   sources:
     "- https://www.volvocars.com/us/cars/xc60-hybrid/\n- https://www.edmunds.com/volvo/xc60/2026/plug-in-hybrid/\n- https://www.edmunds.com/volvo/xc60/2026/t8-polestar-engineered/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "volvo-xc60",
+  carModel: "volvo-xc60",
 } as const satisfies CarYear

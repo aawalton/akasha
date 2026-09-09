@@ -12,5 +12,5 @@ export const landRoverDefender2025 = {
   sources:
     "- https://www.edmunds.com/land-rover/defender/2025/90/\n- https://www.landroverwesthouston.com/research/2025-defender-110-trim-levels.htm\n- https://www.landroverbethesda.com/research/2025-defender-90-trim-levels.htm\n- https://www.landroverbethesda.com/research/2025-defender-130-trim-levels.htm",
   exclusionReason: "All trims excluded",
-  carModelSlug: "land-rover-defender",
+  carModel: "land-rover-defender",
 } as const satisfies CarYear

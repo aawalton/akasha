@@ -12,5 +12,5 @@ export const volkswagenId42026 = {
   sources:
     "- https://www.vw.com/en/models/id-4.html\n- https://media.vw.com/releases/1891\n- https://www.carsdirect.com/automotive-news/2026-volkswagen-id-4-base-price-increasing-5-100\n- https://www.cars.com/articles/how-much-is-the-2026-volkswagen-id-4-519597/\n- https://www.howtogeek.com/2026-vw-id4-tesla-supercharger-access-more-power/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "volkswagen-id-4",
+  carModel: "volkswagen-id-4",
 } as const satisfies CarYear

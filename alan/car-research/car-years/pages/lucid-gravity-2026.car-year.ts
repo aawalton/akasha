@@ -12,5 +12,5 @@ export const lucidGravity2026 = {
   sources:
     "- https://lucidmotors.com/gravity\n- https://cars.usnews.com/cars-trucks/lucid/gravity\n- https://www.kbb.com/lucid/gravity/2026/specs/\n- https://electrek.co/2025/11/20/lucid-motors-launches-gravity-touring-suv-starting-below-80000-video/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "lucid-gravity",
+  carModel: "lucid-gravity",
 } as const satisfies CarYear

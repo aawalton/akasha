@@ -12,5 +12,5 @@ export const lincolnNautilusHybrid2026 = {
   sources:
     "- Lincoln 2026 builder: https://shop.lincoln.com/build/nautilus/chooseyourpath/\n- Doral Lincoln 2026 specs: https://www.dorallincoln.com/2026-lincoln-nautilus-hybrid-specs-features-model-review-doral-fl.html\n- US News 2026 configs: https://cars.usnews.com/cars-trucks/lincoln/nautilus-hybrid/specs\n- JC Lewis 2026 trims: https://www.jclewislincoln.com/2026-lincoln-nautilus-trim-levels",
   exclusionReason: "All trims excluded",
-  carModelSlug: "lincoln-nautilus-hybrid",
+  carModel: "lincoln-nautilus-hybrid",
 } as const satisfies CarYear

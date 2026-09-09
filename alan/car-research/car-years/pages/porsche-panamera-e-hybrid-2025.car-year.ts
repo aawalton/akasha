@@ -12,5 +12,5 @@ export const porschePanameraEHybrid2025 = {
   sources:
     "- https://www.porsche.com/usa/models/panamera/panamera-e-hybrid-models/\n- https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=47350\n- https://www.caranddriver.com/porsche/panamera-e-hybrid/specs/2025/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "porsche-panamera-e-hybrid",
+  carModel: "porsche-panamera-e-hybrid",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const audiS6SportbackETron2025 = {
   sources:
     "- https://www.edmunds.com/audi/s6-sportback-e-tron/2025/trims/\n- https://media.audiusa.com/models/s6-sportback-e-tron\n- https://www.kbb.com/audi/s6-sportback-e-tron/2025/specs/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "audi-s6-sportback-e-tron",
+  carModel: "audi-s6-sportback-e-tron",
 } as const satisfies CarYear

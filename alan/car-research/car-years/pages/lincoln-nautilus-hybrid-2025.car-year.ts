@@ -12,5 +12,5 @@ export const lincolnNautilusHybrid2025 = {
   sources:
     "- US News 2025 Nautilus Hybrid: https://cars.usnews.com/cars-trucks/lincoln/nautilus-hybrid/2025\n- IIHS 2025: https://www.iihs.org/ratings/vehicle/lincoln/nautilus-4-door-suv/2025\n- KBB 2025: https://www.kbb.com/lincoln/nautilus/2025/specs/\n- The Drive review: https://www.thedrive.com/car-reviews/2025-lincoln-nautilus-hybrid-review",
   exclusionReason: "All trims excluded",
-  carModelSlug: "lincoln-nautilus-hybrid",
+  carModel: "lincoln-nautilus-hybrid",
 } as const satisfies CarYear

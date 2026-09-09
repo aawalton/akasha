@@ -12,5 +12,5 @@ export const cadillacLyriq2026 = {
   sources:
     "- [Cars.com 2026 Lyriq pricing](https://www.cars.com/articles/how-much-is-the-2026-cadillac-lyriq-514245/)\n- [Edmunds 2026 Lyriq](https://www.edmunds.com/cadillac/lyriq/)\n- [Recharged 2026 Lyriq buying guide](https://recharged.com/articles/2026-cadillac-lyriq-buying-guide/)",
   exclusionReason: "All trims excluded",
-  carModelSlug: "cadillac-lyriq",
+  carModel: "cadillac-lyriq",
 } as const satisfies CarYear

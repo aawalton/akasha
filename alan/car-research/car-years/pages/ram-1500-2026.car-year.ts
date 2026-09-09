@@ -12,5 +12,5 @@ export const ram15002026 = {
   sources:
     "- https://www.ramtrucks.com/ram-1500.html\n- https://www.media.stellantis.com/em-en/ram/press/the-legend-returns-2026-ram-1500-offers-5-7-liter-hemi-v-8-etorque-engine-with-proven-performance-and-capability\n- https://www.edmunds.com/ram/1500/\n- https://trimatlas.com/compare/ram/1500/2026/\n- https://www.thedrive.com/car-reviews/2026-ram-1500-hemi-v8-review",
   exclusionReason: "All trims excluded",
-  carModelSlug: "ram-1500",
+  carModel: "ram-1500",
 } as const satisfies CarYear

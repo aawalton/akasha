@@ -11,5 +11,5 @@ export const audiQ4ETron2025 = {
   shortList: true,
   sources:
     "- https://cars.usnews.com/cars-trucks/audi/q4-e-tron\n- https://www.truecar.com/overview/audi/q4-e-tron/2025/\n- https://media.audiusa.com/releases/643",
-  carModelSlug: "audi-q4-e-tron",
+  carModel: "audi-q4-e-tron",
 } as const satisfies CarYear

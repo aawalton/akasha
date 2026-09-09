@@ -12,5 +12,5 @@ export const volvoV60CrossCountry2026 = {
   sources:
     "- https://www.volvocars.com/us/cars/v60-cross-country/\n- https://www.mclaughlinvolvocars.com/volvo-v60-trim-options.htm",
   exclusionReason: "All trims excluded",
-  carModelSlug: "volvo-v60-cross-country",
+  carModel: "volvo-v60-cross-country",
 } as const satisfies CarYear

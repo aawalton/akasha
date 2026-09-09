@@ -12,5 +12,5 @@ export const rivianR1t2025 = {
   sources:
     "- https://rivian.com/r1t\n- https://www.edmunds.com/rivian/r1t/2025/\n- https://www.kbb.com/rivian/r1t/2025/specs/\n- https://stories.rivian.com/enhanced-highway-assist-gen2\n- https://evchargingstations.com/chargingnews/new-rivian-evs-now-come-with-a-standard-nacs-adapter/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "rivian-r1t",
+  carModel: "rivian-r1t",
 } as const satisfies CarYear

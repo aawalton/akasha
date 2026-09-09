@@ -12,5 +12,5 @@ export const rivianR1s2026 = {
   sources:
     "- https://rivian.com/r1s\n- https://www.edmunds.com/rivian/r1s/\n- https://theweeklydriver.com/2026/04/2026-rivian-r1s-buyer-guide/\n- https://www.cargurus.com/research/articles/2026-rivian-r1s-pricing-specs-release-date\n- https://www.consumerreports.org/cars/rivian/r1s/2026/ratings-specs/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "rivian-r1s",
+  carModel: "rivian-r1s",
 } as const satisfies CarYear

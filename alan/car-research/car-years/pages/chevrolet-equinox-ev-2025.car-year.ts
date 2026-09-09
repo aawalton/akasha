@@ -12,5 +12,5 @@ export const chevroletEquinoxEv2025 = {
   sources:
     "- [Cars.com 2025 Equinox EV](https://www.cars.com/research/chevrolet-equinox_ev-2025/)\n- [Edmunds 2025](https://www.edmunds.com/chevrolet/equinox-ev/2025/)\n- [KBB 2025 specs](https://www.kbb.com/chevrolet/equinox-ev/2025/specs/)",
   exclusionReason: "American car manufacturer — personal exclusion",
-  carModelSlug: "chevrolet-equinox-ev",
+  carModel: "chevrolet-equinox-ev",
 } as const satisfies CarYear

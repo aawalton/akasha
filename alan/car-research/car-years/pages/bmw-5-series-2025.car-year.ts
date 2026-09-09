@@ -12,5 +12,5 @@ export const bmw5Series2025 = {
   sources:
     "- BMW Nashville 2025 550e — https://www.bmwofnashville.com/2025-bmw-550e-xdrive-phev-specs-features-model-review-brentwood-tn.htm\n- Edmunds 2025 5 Series PHEV — https://www.edmunds.com/bmw/5-series/2025/plug-in-hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bmw-5-series",
+  carModel: "bmw-5-series",
 } as const satisfies CarYear

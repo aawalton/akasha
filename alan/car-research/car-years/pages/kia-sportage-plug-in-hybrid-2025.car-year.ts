@@ -12,5 +12,5 @@ export const kiaSportagePlugInHybrid2025 = {
   sources:
     "https://www.kia.com/us/en/sportage-plug-in-hybrid/specs-compare\nhttps://www.kiamedia.com/us/en/models/sportage-phev/2025/specifications\nhttps://www.kbb.com/kia/sportage-plug-in-hybrid/2025/x-line-prestige/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "kia-sportage-plug-in-hybrid",
+  carModel: "kia-sportage-plug-in-hybrid",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const porscheMacanElectric2026 = {
   sources:
     "- https://www.porsche.com/usa/models/macan/macan-electric-models/\n- https://www.caranddriver.com/porsche/macan-electric",
   exclusionReason: "All trims excluded",
-  carModelSlug: "porsche-macan-electric",
+  carModel: "porsche-macan-electric",
 } as const satisfies CarYear

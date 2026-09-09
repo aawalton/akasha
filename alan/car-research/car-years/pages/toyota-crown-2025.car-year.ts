@@ -11,5 +11,5 @@ export const toyotaCrown2025 = {
   shortList: false,
   sources: "- https://www.toyota.com/crown/2025/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "toyota-crown",
+  carModel: "toyota-crown",
 } as const satisfies CarYear

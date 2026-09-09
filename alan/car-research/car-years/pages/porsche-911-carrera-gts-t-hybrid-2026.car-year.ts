@@ -12,5 +12,5 @@ export const porsche911CarreraGtsTHybrid2026 = {
   sources:
     "- https://www.porsche.com/usa/models/911/911-carrera-gts-models/\n- https://www.porsche.com/usa/models/911/911-turbo-models/\n- https://www.caranddriver.com/porsche/911",
   exclusionReason: "All trims excluded",
-  carModelSlug: "porsche-911-carrera-gts-t-hybrid",
+  carModel: "porsche-911-carrera-gts-t-hybrid",
 } as const satisfies CarYear

@@ -1,7 +1,7 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Car } from "../cars/car.page-type.ts"
-import type { CarModelSlug } from "./properties/car-model-slug.relation-property.ts"
+import type { CarModel } from "./properties/car-model.relation-property.ts"
 import type { ModelYear } from "./properties/model-year.number-property.ts"
 import type { RefreshNotes } from "./properties/refresh-notes.text-property.ts"
 
@@ -9,7 +9,7 @@ export type CarYear = Car & {
   title: Title
   modelYear: ModelYear
   refreshNotes: RefreshNotes
-  carModelSlug: CarModelSlug
+  carModel: CarModel
 }
 
 export const carYear = {
@@ -21,13 +21,13 @@ export const carYear = {
   extendsSlug: ["page-type/car"],
   partSlugs: [
     "number-property/model-year",
-    "relation-property/car-model-slug",
+    "relation-property/car-model",
     "text-property/refresh-notes",
   ],
   properties: [
     { pagePropertySlug: "number-property/model-year", required: true, many: false },
     { pagePropertySlug: "text-property/refresh-notes", required: true, many: false },
-    { pagePropertySlug: "relation-property/car-model-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/car-model", required: true, many: false },
   ],
   invariants: [
     {

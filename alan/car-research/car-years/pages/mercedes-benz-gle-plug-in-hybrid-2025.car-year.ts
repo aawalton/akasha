@@ -11,5 +11,5 @@ export const mercedesBenzGlePlugInHybrid2025 = {
   shortList: false,
   sources: "- https://www.edmunds.com/mercedes-benz/gle-class/2025/plug-in-hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-gle-plug-in-hybrid",
+  carModel: "mercedes-benz-gle-plug-in-hybrid",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const audiA32025 = {
   sources:
     "- https://www.cargurus.com/research/articles/2025-audi-a3-pricing-specs-release-date\n- https://www.consumerreports.org/cars/audi/a3/2025/road-test-report/\n- https://www.edmunds.com/audi/a3/2025/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "audi-a3",
+  carModel: "audi-a3",
 } as const satisfies CarYear

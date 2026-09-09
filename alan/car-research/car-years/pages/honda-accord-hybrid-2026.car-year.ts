@@ -12,5 +12,5 @@ export const hondaAccordHybrid2026 = {
   sources:
     "- https://hondanews.com/en-US/honda-automobiles/releases/release-c26685400737027f7d053958c30909ed-2026-honda-accord-adds-more-standard-tech-and-sportier-styling-now-arriving-at-dealers\n- https://www.edmunds.com/honda/accord/2026/hybrid/\n- https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=accord-sedan&modelyear=2026",
   exclusionReason: "All trims excluded",
-  carModelSlug: "honda-accord-hybrid",
+  carModel: "honda-accord-hybrid",
 } as const satisfies CarYear

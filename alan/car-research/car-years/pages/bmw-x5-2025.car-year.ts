@@ -12,5 +12,5 @@ export const bmwX52025 = {
   sources:
     "- KBB 2025 X5 50e — https://www.kbb.com/bmw/x5/2025/xdrive50e/\n- Edmunds 2025 X5 PHEV — https://www.edmunds.com/bmw/x5/2025/plug-in-hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bmw-x5",
+  carModel: "bmw-x5",
 } as const satisfies CarYear

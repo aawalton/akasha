@@ -12,5 +12,5 @@ export const audiSq6ETron2026 = {
   sources:
     "- https://www.cbtnews.com/2026-audi-sq6-sportback-e-tron-prestige/\n- https://blogue.audiwestisland.com/en/audi-q6-and-sq6-e-tron-price-and-specs/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "audi-sq6-e-tron",
+  carModel: "audi-sq6-e-tron",
 } as const satisfies CarYear

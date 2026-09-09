@@ -12,5 +12,5 @@ export const bmwI42026 = {
   sources:
     "- BMW press 2026 i4 — https://www.press.bmwgroup.com/usa/article/detail/T0453773EN_US/\n- BMW Blog 2026 i4 — https://www.bmwblog.com/2025/12/11/2026-bmw-i4-power-range-updates/\n- Edmunds — https://www.edmunds.com/bmw/i4/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bmw-i4",
+  carModel: "bmw-i4",
 } as const satisfies CarYear

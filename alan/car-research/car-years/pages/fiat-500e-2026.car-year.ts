@@ -12,5 +12,5 @@ export const fiat500e2026 = {
   sources:
     "- https://www.cars.com/research/fiat-500e-2026/\n- https://cars.usnews.com/cars-trucks/fiat/500e\n- https://tflcar.com/2026/04/2026-fiat-500e-updates-news/\n- https://www.carscoops.com/2026/04/fiat-500e-2026-pricing/\n- https://evchargingstations.com/chargingnews/2026-fiat-500e-ccs1/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "fiat-500e",
+  carModel: "fiat-500e",
 } as const satisfies CarYear

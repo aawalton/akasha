@@ -12,5 +12,5 @@ export const hyundaiPalisadeHybrid2026 = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/palisade-hybrid\n- https://www.kbb.com/hyundai/palisade-hybrid/2026/specs/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "hyundai-palisade-hybrid",
+  carModel: "hyundai-palisade-hybrid",
 } as const satisfies CarYear

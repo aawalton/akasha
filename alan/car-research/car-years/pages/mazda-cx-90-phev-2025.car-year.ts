@@ -12,5 +12,5 @@ export const mazdaCx90Phev2025 = {
   sources:
     "- Edmunds 2025 CX-90 PHEV: https://www.edmunds.com/mazda/cx-90/2025/plug-in-hybrid/\n- Consumer Reports recall coverage: https://www.consumerreports.org/cars/car-recalls-defects/mazda-cx-90-and-cx-70-recalled-for-software-related-problems-a4795490684/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mazda-cx-90-phev",
+  carModel: "mazda-cx-90-phev",
 } as const satisfies CarYear

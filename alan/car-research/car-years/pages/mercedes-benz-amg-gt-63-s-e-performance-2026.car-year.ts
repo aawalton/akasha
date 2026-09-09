@@ -12,5 +12,5 @@ export const mercedesBenzAmgGt63SEPerformance2026 = {
   sources:
     "- https://www.mbusa.com/en/vehicles/model/gt/coupe/amggt63e\n- https://www.kbb.com/mercedes-benz/mercedes-amg-gt/2026/gt-63-s-e-performance-hybrid-4matic_plus-4-door/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-amg-gt-63-s-e-performance",
+  carModel: "mercedes-benz-amg-gt-63-s-e-performance",
 } as const satisfies CarYear

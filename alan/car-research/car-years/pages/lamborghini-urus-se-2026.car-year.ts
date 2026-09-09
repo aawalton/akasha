@@ -12,5 +12,5 @@ export const lamborghiniUrusSe2026 = {
   sources:
     "1. https://www.lamborghini.com/en-en/models/urus/urus-se\n2. https://www.kbb.com/lamborghini/urus/\n3. https://www.edmunds.com/lamborghini/urus/\n4. https://carbuzz.com/cars/lamborghini/urus-se/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "lamborghini-urus-se",
+  carModel: "lamborghini-urus-se",
 } as const satisfies CarYear

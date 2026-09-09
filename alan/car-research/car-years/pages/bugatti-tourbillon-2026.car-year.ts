@@ -12,5 +12,5 @@ export const bugattiTourbillon2026 = {
   sources:
     "- Bugatti newsroom Tourbillon reveal: https://newsroom.bugatti.com/en/press-releases/the-bugatti-tourbillon-an-automotive-icon-pour-leternite\n- Wikipedia Bugatti Tourbillon: https://en.wikipedia.org/wiki/Bugatti_Tourbillon\n- Motor1 2026 Tourbillon debut: https://www.motor1.com/news/723757/2026-bugatti-tourbillion-debut-specs/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bugatti-tourbillon",
+  carModel: "bugatti-tourbillon",
 } as const satisfies CarYear

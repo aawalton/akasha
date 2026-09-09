@@ -11,5 +11,5 @@ export const mercedesBenzAmgSl63SEPerformance2025 = {
   shortList: false,
   sources: "- https://www.kbb.com/mercedes-benz/mercedes-amg-sl/2025/sl-63-s-e-performance/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-amg-sl-63-s-e-performance",
+  carModel: "mercedes-benz-amg-sl-63-s-e-performance",
 } as const satisfies CarYear

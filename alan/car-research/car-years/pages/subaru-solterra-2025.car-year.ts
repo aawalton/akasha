@@ -11,5 +11,5 @@ export const subaruSolterra2025 = {
   shortList: true,
   sources:
     "- https://media.subaru.com/pressrelease/2264/1/2025-subaru-solterra-press-kit&searchresult\n- https://www.subaru.com/vehicles/solterra/2025/specs-trim.html\n- https://www.iihs.org/ratings/vehicle/subaru/solterra-4-door-suv/2025",
-  carModelSlug: "subaru-solterra",
+  carModel: "subaru-solterra",
 } as const satisfies CarYear

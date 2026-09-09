@@ -12,5 +12,5 @@ export const mazdaCx902026 = {
   sources:
     "- Mazda USA news: https://news.mazdausa.com/2025-09-04-2026-Mazda-CX-90-Pricing-and-Packaging\n- Mazda USA CX-90 trims: https://www.mazdausa.com/vehicles/cx-90/compare-vehicle-specs-and-trims\n- CarGurus: https://www.cargurus.com/research/articles/2026-mazda-cx-90-pricing-specs-release-date",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mazda-cx-90",
+  carModel: "mazda-cx-90",
 } as const satisfies CarYear

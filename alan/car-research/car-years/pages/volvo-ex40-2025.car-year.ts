@@ -12,5 +12,5 @@ export const volvoEx402025 = {
   sources:
     "- https://www.cars.com/research/volvo-ex40-2025/trims/\n- https://www.kbb.com/volvo/ex40/2025/specs/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "volvo-ex40",
+  carModel: "volvo-ex40",
 } as const satisfies CarYear

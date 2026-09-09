@@ -12,5 +12,5 @@ export const jeepWrangler4xe2025 = {
   sources:
     "- https://www.jeep.com/wrangler-4xe.html\n- https://cars.usnews.com/cars-trucks/jeep/wrangler-4xe/specs\n- https://www.edmunds.com/jeep/wrangler-4xe/2025/mpg/\n- https://www.kbb.com/jeep/wrangler-4xe/2025/rubicon-4xe/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "jeep-wrangler-4xe",
+  carModel: "jeep-wrangler-4xe",
 } as const satisfies CarYear

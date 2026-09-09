@@ -12,5 +12,5 @@ export const kiaSportagePlugInHybrid2026 = {
   sources:
     "https://www.kia.com/us/en/sportage-plug-in-hybrid\nhttps://www.kia.com/us/en/sportage-plug-in-hybrid/specs-compare\nhttps://www.cargurus.com/Cars/articles/2026-kia-sportage-hybrid-plug-in-price-specs-release-date",
   exclusionReason: "All trims excluded",
-  carModelSlug: "kia-sportage-plug-in-hybrid",
+  carModel: "kia-sportage-plug-in-hybrid",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const jeepWagoneerS2025 = {
   sources:
     "- https://www.jeep.com/wagoneer/wagoneer-s/specs.html\n- https://www.jeep.com/wagoneer/wagoneer-s/specs.launch-edition.html\n- https://www.edmunds.com/jeep/wagoneer-s/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "jeep-wagoneer-s",
+  carModel: "jeep-wagoneer-s",
 } as const satisfies CarYear

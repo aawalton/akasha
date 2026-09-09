@@ -12,5 +12,5 @@ export const chevroletEquinoxEv2026 = {
   sources:
     "- [Chevrolet 2026 Equinox EV](https://www.chevrolet.com/electric/equinox-ev)\n- [Edmunds 2026 trims](https://www.edmunds.com/chevrolet/equinox-ev/2026/trims/)\n- [GM Authority 2026 pricing](https://gmauthority.com/blog/2025/08/here-is-2026-chevy-equinox-ev-pricing-with-options-and-packages/)",
   exclusionReason: "American car manufacturer — personal exclusion",
-  carModelSlug: "chevrolet-equinox-ev",
+  carModel: "chevrolet-equinox-ev",
 } as const satisfies CarYear

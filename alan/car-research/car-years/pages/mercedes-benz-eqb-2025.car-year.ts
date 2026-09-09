@@ -12,5 +12,5 @@ export const mercedesBenzEqb2025 = {
   sources:
     "- https://www.mbusa.com/en/vehicles/class/eqb/suv\n- https://carbuzz.com/mercedes-benz-ev-models-you-can-buy-in-2026/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-eqb",
+  carModel: "mercedes-benz-eqb",
 } as const satisfies CarYear

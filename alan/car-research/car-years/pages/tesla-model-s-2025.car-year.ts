@@ -12,5 +12,5 @@ export const teslaModelS2025 = {
   sources:
     "- https://cars.usnews.com/cars-trucks/tesla/model-s\n- https://www.edmunds.com/tesla/model-s/2025/features-specs/\n- https://www.kbb.com/tesla/model-s/2025/specs/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "tesla-model-s",
+  carModel: "tesla-model-s",
 } as const satisfies CarYear

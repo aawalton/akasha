@@ -12,5 +12,5 @@ export const rollsRoyceSpectre2026 = {
   sources:
     "- https://www.kbb.com/rolls-royce/spectre/\n- https://electrek.co/2025/11/11/rolls-royce-gets-in-on-the-ev-price-war-with-new-5000-lease-promo/\n- https://www.carsdirect.com/deals-articles/rolls-royce-has-a-5-000-ev-discount\n- https://greencarscompare.com/car/rolls-royce-spectre/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "rolls-royce-spectre",
+  carModel: "rolls-royce-spectre",
 } as const satisfies CarYear

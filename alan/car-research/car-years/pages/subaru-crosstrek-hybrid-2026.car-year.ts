@@ -12,5 +12,5 @@ export const subaruCrosstrekHybrid2026 = {
   sources:
     "- https://media.subaru.com/pressrelease/2335/subaru-announces-pricing-2026-crosstrek-including-new-2026\n- https://www.subaru.com/vehicles/crosstrek/hybrid/2026.html\n- https://www.subaru.com/vehicles/crosstrek/hybrid/2026/specs-trim.html\n- https://www.edmunds.com/subaru/crosstrek/2026/hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "subaru-crosstrek-hybrid",
+  carModel: "subaru-crosstrek-hybrid",
 } as const satisfies CarYear

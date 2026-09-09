@@ -11,5 +11,5 @@ export const hyundaiIoniq52026 = {
   shortList: true,
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5\n- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5/compare-specs\n- https://cars.usnews.com/cars-trucks/hyundai/ioniq-5",
-  carModelSlug: "hyundai-ioniq-5",
+  carModel: "hyundai-ioniq-5",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const hondaCivicHybrid2025 = {
   sources:
     "- https://www.edmunds.com/honda/civic/2025/hybrid/\n- https://www.kbb.com/honda/civic-hybrid/2025/\n- https://www.kbb.com/honda/civic-hybrid/2025/specs/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "honda-civic-hybrid",
+  carModel: "honda-civic-hybrid",
 } as const satisfies CarYear

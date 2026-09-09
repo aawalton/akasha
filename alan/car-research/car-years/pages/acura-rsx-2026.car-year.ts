@@ -12,5 +12,5 @@ export const acuraRsx2026 = {
   sources:
     "1. https://www.kbb.com/acura/rsx/\n2. https://www.edmunds.com/acura/rsx/\n3. https://www.motor1.com/features/749095/acura-rsx-electric-crossover-horsepower-price-details/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "acura-rsx",
+  carModel: "acura-rsx",
 } as const satisfies CarYear

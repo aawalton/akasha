@@ -12,5 +12,5 @@ export const ram15002025 = {
   sources:
     "- https://www.ramtrucks.com/2025/ram-1500.html\n- https://www.edmunds.com/ram/1500/2025/\n- https://www.motor1.com/news/709905/2025-ram-1500-price/\n- https://www.iihs.org/ratings/vehicle/ram/1500-crew-cab-pickup/2025\n- https://cars.usnews.com/cars-trucks/ram/1500",
   exclusionReason: "All trims excluded",
-  carModelSlug: "ram-1500",
+  carModel: "ram-1500",
 } as const satisfies CarYear

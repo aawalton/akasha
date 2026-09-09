@@ -12,5 +12,5 @@ export const mazdaCx90Phev2026 = {
   sources:
     "- Mazda USA pricing announcement: https://news.mazdausa.com/2025-09-04-2026-Mazda-CX-90-Pricing-and-Packaging\n- Mazda USA CX-90 PHEV trims: https://www.mazdausa.com/vehicles/cx-90-phev/compare-vehicle-specs-and-trims\n- Edmunds 2026 PHEV: https://www.edmunds.com/mazda/cx-90/2026/plug-in-hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mazda-cx-90-phev",
+  carModel: "mazda-cx-90-phev",
 } as const satisfies CarYear

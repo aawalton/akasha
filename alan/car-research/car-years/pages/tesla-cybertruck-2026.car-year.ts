@@ -12,5 +12,5 @@ export const teslaCybertruck2026 = {
   sources:
     "- https://evchargingstations.com/chargingnews/2026-tesla-cybertruck/\n- https://www.edmunds.com/tesla/cybertruck/\n- https://www.tparts.com/blogs/tesla-latest-news/tesla-adds-7-year-propulsion-warranty-for-2026-models-in-us-and-canada\n- https://www.truecar.com/overview/tesla/cybertruck/2026/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "tesla-cybertruck",
+  carModel: "tesla-cybertruck",
 } as const satisfies CarYear

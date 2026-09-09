@@ -12,5 +12,5 @@ export const maseratiGrecaleFolgore2025 = {
   sources:
     "- [Maserati US — Grecale Folgore](https://www.maserati.com/us/en/models/grecale/grecale-folgore)\n- [EV Database — Grecale Folgore](https://ev-database.org/car/1843/Maserati-Grecale-Folgore)\n- [US News — 2025 Grecale Folgore reliability](https://cars.usnews.com/cars-trucks/maserati/grecale-folgore/reliability)\n- [Electrifying — Grecale Folgore review](https://www.electrifying.com/reviews/maserati/grecale-folgore/review)",
   exclusionReason: "All trims excluded",
-  carModelSlug: "maserati-grecale-folgore",
+  carModel: "maserati-grecale-folgore",
 } as const satisfies CarYear

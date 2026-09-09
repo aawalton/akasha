@@ -12,5 +12,5 @@ export const teslaModel32025 = {
   sources:
     "- https://www.edmunds.com/tesla/model-3/\n- https://www.iihs.org/ratings/vehicle/tesla/model-3-4-door-sedan/2025\n- https://www.autoevolution.com/news/2025-tesla-model-3-gets-iihs-top-safety-pick-award-over-acceptable-crash-test-rating-263090.html",
   exclusionReason: "Tesla / Elon Musk association — personal exclusion",
-  carModelSlug: "tesla-model-3",
+  carModel: "tesla-model-3",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const mercedesBenzEqeSedan2025 = {
   sources:
     "- https://cars.usnews.com/cars-trucks/mercedes-benz/eqe-sedan\n- https://www.edmunds.com/mercedes-benz/eqe/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-eqe-sedan",
+  carModel: "mercedes-benz-eqe-sedan",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const chevroletBlazerEv2025 = {
   sources:
     "- [Chevrolet 2025 Blazer EV](https://www.chevrolet.com/electric/previous-year/blazer-ev)\n- [Edmunds 2025](https://www.edmunds.com/chevrolet/blazer-ev/2025/)\n- [KBB 2025](https://www.kbb.com/chevrolet/blazer-ev/2025/)",
   exclusionReason: "American car manufacturer — personal exclusion",
-  carModelSlug: "chevrolet-blazer-ev",
+  carModel: "chevrolet-blazer-ev",
 } as const satisfies CarYear

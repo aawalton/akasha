@@ -10,5 +10,5 @@ export const toyotaSequoia2026 = {
   shortList: false,
   sources: "- https://www.toyota.com/sequoia/2026/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "toyota-sequoia",
+  carModel: "toyota-sequoia",
 } as const satisfies CarYear

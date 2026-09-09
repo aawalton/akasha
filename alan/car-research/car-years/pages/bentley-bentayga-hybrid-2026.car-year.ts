@@ -12,5 +12,5 @@ export const bentleyBentaygaHybrid2026 = {
   sources:
     "- https://www.bentleymotors.com/en/models/bentayga.html\n- https://www.bentleymedia.com/en/newsitem/1783-bentayga-artenara-edition-a-new-pinnacle-in-contemporary-luxury\n- https://www.jalopnik.com/2149493/2026-bentley-bentayga-all-terrain-specification-review/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bentley-bentayga-hybrid",
+  carModel: "bentley-bentayga-hybrid",
 } as const satisfies CarYear

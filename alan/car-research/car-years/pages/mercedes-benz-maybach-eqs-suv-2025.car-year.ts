@@ -12,5 +12,5 @@ export const mercedesBenzMaybachEqsSuv2025 = {
   sources:
     "- https://www.cars.com/research/mercedes_benz-maybach_eqs_680-2025/\n- https://www.kbb.com/mercedes-benz/mercedes-maybach-eqs-suv/2025/eqs-680-4matic/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-maybach-eqs-suv",
+  carModel: "mercedes-benz-maybach-eqs-suv",
 } as const satisfies CarYear

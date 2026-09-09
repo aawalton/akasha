@@ -12,5 +12,5 @@ export const bmwI42025 = {
   sources:
     "- US News 2025 i4 — https://cars.usnews.com/cars-trucks/bmw/i4\n- BMW dealer trim comparison — https://www.bmwcarlsbad.com/research/2025-bmw-i4-trim-levels.htm",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bmw-i4",
+  carModel: "bmw-i4",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const bentleyFlyingSpur2026 = {
   sources:
     "- https://www.bentleyofranchomirage.com/2026-bentley-flying-spur-azure\n- https://www.bentleypalmyra.com/new-vehicle-2026-bentley-flying-spur-mulliner-c-20499/\n- https://clevelandmotorsports.com/bentley-flying-spur-model-review-cleveland-oh",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bentley-flying-spur",
+  carModel: "bentley-flying-spur",
 } as const satisfies CarYear

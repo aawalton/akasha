@@ -12,5 +12,5 @@ export const bmwXm2025 = {
   sources:
     "- Edmunds 2025 XM — https://www.edmunds.com/bmw/xm/\n- BMW USA 2025 XM PHEV — https://www.bmwusa.com/vehicles/m-models/xm-plug-in-hybrid/overview.html",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bmw-xm",
+  carModel: "bmw-xm",
 } as const satisfies CarYear

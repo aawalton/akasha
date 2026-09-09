@@ -12,5 +12,5 @@ export const teslaModelY2025 = {
   sources:
     "- https://carbuzz.com/2025-tesla-model-y-iihs-top-safety-pick-plus/\n- https://www.tesla.com/IRA\n- https://xcarspace.com/tesla-model-y-juniper-2025-facelift-range-specs-pricing-expert-analysis/\n- https://www.iihs.org/ratings/vehicle/tesla/model-y-4-door-suv/2025",
   exclusionReason: "Tesla / Elon Musk association — personal exclusion",
-  carModelSlug: "tesla-model-y",
+  carModel: "tesla-model-y",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const kiaNiroPlugInHybrid2025 = {
   sources:
     "https://www.kia.com/us/en/niro-plug-in-hybrid/specs-compare\nhttps://www.kbb.com/kia/niro-plug-in-hybrid/2025/specs/\nhttps://cars.usnews.com/cars-trucks/kia/niro-plug-in-hybrid",
   exclusionReason: "All trims excluded",
-  carModelSlug: "kia-niro-plug-in-hybrid",
+  carModel: "kia-niro-plug-in-hybrid",
 } as const satisfies CarYear

@@ -12,5 +12,5 @@ export const mercedesBenzSClassPlugInHybrid2025 = {
   sources:
     "- https://www.edmunds.com/mercedes-benz/s-class/2025/plug-in-hybrid/\n- https://www.edmunds.com/car-news/2025-mercedes-benz-s-580e-road-trip-review.html",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-s-class-plug-in-hybrid",
+  carModel: "mercedes-benz-s-class-plug-in-hybrid",
 } as const satisfies CarYear

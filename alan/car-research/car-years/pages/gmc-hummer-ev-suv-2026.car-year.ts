@@ -12,5 +12,5 @@ export const gmcHummerEvSuv2026 = {
   sources:
     "- https://www.gmc.com/electric/hummer-ev/suv\n- https://carbuzz.com/cars/gmc/hummer-ev-suv/2026/specs-and-trims/\n- https://www.spitzer.com/2026-hummer-ev-suv-trim-levels-and-prices/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "gmc-hummer-ev-suv",
+  carModel: "gmc-hummer-ev-suv",
 } as const satisfies CarYear

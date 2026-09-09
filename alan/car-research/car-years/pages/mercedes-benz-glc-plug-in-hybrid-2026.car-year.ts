@@ -12,5 +12,5 @@ export const mercedesBenzGlcPlugInHybrid2026 = {
   sources:
     "- https://www.mbusa.com/en/vehicles/model/glc/suv/glc350e4\n- https://www.edmunds.com/mercedes-benz/glc/2026/plug-in-hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "mercedes-benz-glc-plug-in-hybrid",
+  carModel: "mercedes-benz-glc-plug-in-hybrid",
 } as const satisfies CarYear

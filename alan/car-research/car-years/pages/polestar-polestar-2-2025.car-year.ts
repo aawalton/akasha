@@ -12,5 +12,5 @@ export const polestarPolestar22025 = {
   sources:
     "- https://carbuzz.com/cars/polestar/2/2025/\n- https://www.edmunds.com/polestar/2/2025/\n- https://www.polestar-forum.com/threads/us-2025-polestar-2-fully-loaded-with-performance-pack-only.15052/\n- https://recharged.com/articles/2025-polestar-2-buying-guide",
   exclusionReason: "All trims excluded",
-  carModelSlug: "polestar-polestar-2",
+  carModel: "polestar-polestar-2",
 } as const satisfies CarYear

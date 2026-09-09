@@ -12,5 +12,5 @@ export const fordF150Lightning2026 = {
   sources:
     "- [Ford Authority](https://fordauthority.com/2025/10/2026-ford-f-150-lightning-msrp-cut-for-two-trims/)\n- [KBB 2026 Lightning](https://www.kbb.com/ford/f150-lightning/2026/)\n- [CarBuzz 2026 Lightning](https://carbuzz.com/cars/ford/f-150-lightning/2026/specs-and-trims/)",
   exclusionReason: "All trims excluded",
-  carModelSlug: "ford-f-150-lightning",
+  carModel: "ford-f-150-lightning",
 } as const satisfies CarYear

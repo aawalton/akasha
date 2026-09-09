@@ -12,5 +12,5 @@ export const ferrariSf90Stradale2025 = {
   sources:
     "- https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=7&year=2024&make=Ferrari&model=SF90+Stradale&srchtyp=ymm\n- https://autos.yahoo.com/ferrari-sf90-stradale-production-ends-183000700.html\n- https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale",
   exclusionReason: "All trims excluded",
-  carModelSlug: "ferrari-sf90-stradale",
+  carModel: "ferrari-sf90-stradale",
 } as const satisfies CarYear

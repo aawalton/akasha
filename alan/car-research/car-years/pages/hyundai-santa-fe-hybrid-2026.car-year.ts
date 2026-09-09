@@ -12,5 +12,5 @@ export const hyundaiSantaFeHybrid2026 = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/santa-fe-hybrid\n- https://www.kbb.com/hyundai/santa-fe-hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "hyundai-santa-fe-hybrid",
+  carModel: "hyundai-santa-fe-hybrid",
 } as const satisfies CarYear

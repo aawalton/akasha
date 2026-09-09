@@ -12,5 +12,5 @@ export const lamborghiniUrusSe2025 = {
   sources:
     "1. https://www.lamborghini.com/en-en/models/urus/urus-se\n2. https://www.automotiveworld.com/news-releases/lamborghini-urus-se-makes-u-s-premiere-in-new-york/\n3. https://www.thedrive.com/car-reviews/2025-lamborghini-urus-se-review\n4. https://www.lamborghinihouston.com/2025-lamborghini-urus-se\n5. https://www.hotcars.com/2025-lamborghini-urus-se-review/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "lamborghini-urus-se",
+  carModel: "lamborghini-urus-se",
 } as const satisfies CarYear

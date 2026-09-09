@@ -13,5 +13,5 @@ export const volvoEx902026 = {
     "- https://www.volvocars.com/us/media/press-releases/A2ED18400A01D55B/\n- https://carbuzz.com/cars/volvo/ex90/2026/specs-and-trims/\n- https://www.edmunds.com/volvo/ex90/2026/",
   exclusionReason:
     "All trims excluded for kill switch (interior-sensing impairment-detection system)",
-  carModelSlug: "volvo-ex90",
+  carModel: "volvo-ex90",
 } as const satisfies CarYear

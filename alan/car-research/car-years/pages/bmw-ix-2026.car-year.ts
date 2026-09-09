@@ -12,5 +12,5 @@ export const bmwIx2026 = {
   sources:
     "- Edmunds 2026 iX — https://www.edmunds.com/bmw/ix/\n- KBB 2026 iX — https://www.kbb.com/bmw/ix/\n- JD Power 2026 iX review — https://www.jdpower.com/cars/expert-reviews/2026-bmw-ix-review-update",
   exclusionReason: "All trims excluded",
-  carModelSlug: "bmw-ix",
+  carModel: "bmw-ix",
 } as const satisfies CarYear

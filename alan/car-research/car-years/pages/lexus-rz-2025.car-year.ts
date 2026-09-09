@@ -11,5 +11,5 @@ export const lexusRz2025 = {
   shortList: false,
   sources: "- Lexus 2025 RZ: https://www.lexus.com/models/RZ\n- EPA fueleconomy.gov 2025 RZ",
   exclusionReason: "All trims excluded",
-  carModelSlug: "lexus-rz",
+  carModel: "lexus-rz",
 } as const satisfies CarYear

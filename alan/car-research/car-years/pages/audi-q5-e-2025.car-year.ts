@@ -12,5 +12,5 @@ export const audiQ5E2025 = {
   sources:
     "- https://www.edmunds.com/audi/q5/2025/plug-in-hybrid/\n- https://www.auditurnersville.com/2025-audi-q5-e-specs-features-model-review-turnersville-nj.htm\n- https://www.audiusa.com/en/models/q5/q5/2025/overview/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "audi-q5-e",
+  carModel: "audi-q5-e",
 } as const satisfies CarYear

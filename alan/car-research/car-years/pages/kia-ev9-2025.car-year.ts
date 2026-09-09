@@ -12,5 +12,5 @@ export const kiaEv92025 = {
   sources:
     "https://www.kiamedia.com/us/en/models/ev9/2025\nhttps://cars.usnews.com/cars-trucks/kia/ev9/2025\nhttps://www.edmunds.com/kia/ev9/2025/trims/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "kia-ev9",
+  carModel: "kia-ev9",
 } as const satisfies CarYear

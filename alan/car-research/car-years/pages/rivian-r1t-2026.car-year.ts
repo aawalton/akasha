@@ -12,5 +12,5 @@ export const rivianR1t2026 = {
   sources:
     "- https://rivian.com/r1t\n- https://www.edmunds.com/rivian/r1t/\n- https://electrek.co/2025/06/12/we-have-the-starting-pricing-for-all-model-year-2026-rivian-r1-trims/\n- https://www.carsdirect.com/rivian/r1t/2026\n- https://riviantrackr.com/news/rivians-2026-07-software-update-delivers-a-major-dc-fast-charging-improvement/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "rivian-r1t",
+  carModel: "rivian-r1t",
 } as const satisfies CarYear

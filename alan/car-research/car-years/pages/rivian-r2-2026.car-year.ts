@@ -12,5 +12,5 @@ export const rivianR22026 = {
   sources:
     "- https://rivian.com/r2\n- https://en.wikipedia.org/wiki/Rivian_R2\n- https://insideevs.com/news/789597/rivian-r2-launch-pricing-specs-2026/\n- https://www.cnbc.com/2026/03/12/rivian-r2-ev-launch.html\n- https://www.consumerreports.org/cars/rivian/r2/2026/road-test-report/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "rivian-r2",
+  carModel: "rivian-r2",
 } as const satisfies CarYear

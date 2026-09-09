@@ -12,5 +12,5 @@ export const audiQ4ETron2026 = {
   sources:
     "- https://www.truecar.com/overview/audi/q4-e-tron/\n- https://www.edmunds.com/audi/q4-e-tron/\n- https://carbuzz.com/cars/audi/q4-e-tron/2026/specs-and-trims/\n- https://media.audiusa.com/releases/643",
   exclusionReason: "All trims excluded",
-  carModelSlug: "audi-q4-e-tron",
+  carModel: "audi-q4-e-tron",
 } as const satisfies CarYear

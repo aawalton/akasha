@@ -11,5 +11,5 @@ export const miniCountrymanElectric2025 = {
   shortList: true,
   sources:
     "- InsideEVs MY2025 launch: https://insideevs.com/news/729369/2025-mini-countryman-se-all4-pricing-specs-overview/\n- Edmunds 2025 Countryman Electric: https://www.edmunds.com/mini/countryman/2025/electric/\n- IIHS 2025 Mini Countryman: https://www.iihs.org/ratings/vehicle/mini/countryman-4-door-suv/2025\n- EV Charging Stations range test: https://evchargingstations.com/chargingnews/2025-mini-countryman-se-all4-range-test/\n- EV Charging Stations DC fast charging analysis: https://evchargingstations.com/chargingnews/2025-mini-countryman-se-all4-dc-fast-charging-analysis/",
-  carModelSlug: "mini-countryman-electric",
+  carModel: "mini-countryman-electric",
 } as const satisfies CarYear

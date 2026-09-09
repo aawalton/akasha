@@ -12,5 +12,5 @@ export const hyundaiSonataHybrid2025 = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/sonata\n- https://www.edmunds.com/hyundai/sonata/2025/hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "hyundai-sonata-hybrid",
+  carModel: "hyundai-sonata-hybrid",
 } as const satisfies CarYear

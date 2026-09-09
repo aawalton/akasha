@@ -11,5 +11,5 @@ export const subaruUncharted2026 = {
   shortList: true,
   sources:
     "- https://media.subaru.com/pressrelease/2403/1/all-new-2026-subaru-uncharted-ev-arrives-more\n- https://www.subaru.com/vehicles/uncharted/2026.html\n- https://www.subaru.com/vehicles/uncharted/2026/specs-trim.html\n- https://www.edmunds.com/subaru/uncharted/2026/features-specs/",
-  carModelSlug: "subaru-uncharted",
+  carModel: "subaru-uncharted",
 } as const satisfies CarYear

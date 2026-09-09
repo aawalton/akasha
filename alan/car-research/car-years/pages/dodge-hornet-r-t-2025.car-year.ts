@@ -12,5 +12,5 @@ export const dodgeHornetRT2025 = {
   sources:
     "- https://www.dodge.com/2025/hornet/specs.rt.html\n- https://www.autoblog.com/news/dodge-officially-kills-hornet\n- https://electrek.co/2026/01/16/jeep-dodge-owner-kills-off-another-vehicle-over-us-policy-changes/\n- https://cars.usnews.com/cars-trucks/dodge/hornet-plug-in-hybrid\n- https://www.edmunds.com/dodge/hornet/2025/plug-in-hybrid/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "dodge-hornet-r-t",
+  carModel: "dodge-hornet-r-t",
 } as const satisfies CarYear

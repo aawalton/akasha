@@ -12,5 +12,5 @@ export const karmaKaveya2026 = {
   sources:
     "- https://carbuzz.com/cars/karma/kaveya/2026/\n- https://www.slashgear.com/1444933/karma-kaveya-electric-hypercar-wild-specifications-price/\n- https://www.edmunds.com/karma/kaveya/",
   exclusionReason: "All trims excluded",
-  carModelSlug: "karma-kaveya",
+  carModel: "karma-kaveya",
 } as const satisfies CarYear

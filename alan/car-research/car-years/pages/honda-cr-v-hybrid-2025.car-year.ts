@@ -12,5 +12,5 @@ export const hondaCrVHybrid2025 = {
   sources:
     "- https://www.edmunds.com/honda/cr-v/2025/hybrid/\n- https://www.kbb.com/honda/cr-v-hybrid/2025/specs/\n- https://automobiles.honda.com/2025/cr-v/specs-features-trim-comparison",
   exclusionReason: "All trims excluded",
-  carModelSlug: "honda-cr-v-hybrid",
+  carModel: "honda-cr-v-hybrid",
 } as const satisfies CarYear
