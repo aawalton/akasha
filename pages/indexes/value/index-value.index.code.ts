@@ -8,6 +8,8 @@ const VALUE = indexValue.name
 
 const ENDING = ".jsonl"
 
+const PAGE_TYPE = "type"
+
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 export type Valued = {
@@ -36,7 +38,7 @@ export function valuedIn(line: string): Valued | null {
 }
 
 export function valueIn(value: Value, path: string, repo: string): readonly Entry[] {
-  const pageTypeSlug = textAt(value, PAGE_TYPE_SLUG)
+  const pageTypeSlug = textAt(value, PAGE_TYPE) ?? textAt(value, PAGE_TYPE_SLUG)
   if (pageTypeSlug === null) return []
   return [
     {

@@ -48,7 +48,7 @@ export function filesClaimedIn(
 ): readonly Claimed[] {
   const own = under(repo, path)
   const found: Claimed[] = [{ at: own, uncommitted: false }]
-  const type = textAt(value, "pageTypeSlug") ?? ""
+  const type = textAt(value, "type") ?? textAt(value, "pageTypeSlug") ?? ""
   const carried = fileProperties.get(type)
   if (carried === undefined) return found
   const outside = withheld.get(type) ?? NO_SLUGS
@@ -86,7 +86,7 @@ export function foldersClaimedIn(
   repo: string,
   folders: FoldersBy
 ): readonly string[] {
-  const carried = folders.get(textAt(value, "pageTypeSlug") ?? "")
+  const carried = folders.get(textAt(value, "type") ?? textAt(value, "pageTypeSlug") ?? "")
   if (carried === undefined) return []
   const own = under(repo, path)
   const found: string[] = []
@@ -140,7 +140,7 @@ export function sidecarsIn(
   const own = new Map<string, Sidecars>()
   const above = new Map<string, readonly string[]>()
   for (const value of values) {
-    const said = textAt(value, "pageTypeSlug")
+    const said = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
     if (said === null || !among.has(said)) continue
     const slug = textAt(value, "slug")
     if (slug === null) continue
@@ -197,7 +197,7 @@ export function claimsOf(
     ...foldersClaimedIn(value, path, repo, folders),
   ]
   const own = under(repo, path)
-  const pageTypeSlug = textAt(value, "pageTypeSlug") ?? ""
+  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug") ?? ""
   const carried = fileProperties.get(pageTypeSlug)
   const held = sidecars.get(pageTypeSlug)
   if (held === undefined) return found

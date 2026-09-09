@@ -17,7 +17,7 @@ const UNIQUE_PROPERTY = "uniqueProperty"
 const TARGET_PAGE_TYPE = "targetPageType"
 
 export function schemaIn(value: Value): readonly Entry[] {
-  const pageTypeSlug = textAt(value, "pageTypeSlug")
+  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
   if (pageTypeSlug === null) return []
   const slug = textAt(value, "slug")
   if (slug === null) return []

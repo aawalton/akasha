@@ -46,7 +46,7 @@ export function claimedIn(
 ): readonly string[] {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
-  const pageTypeSlug = textAt(value, "pageTypeSlug")
+  const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
   return claimsOf(value, path, repo, fileProperties, sidecars, there, folders)
 }

@@ -24,7 +24,7 @@ const SLUG = "slug"
 
 const EXTENDS = "extends"
 
-const FILED_AS_IDENTITY = new Set(["id", "slug", "pageTypeSlug"])
+const FILED_AS_IDENTITY = new Set(["id", "slug", "pageTypeSlug", "type"])
 
 export type Wanted = string | readonly string[] | null
 
@@ -180,7 +180,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
       const one = held[0]
       if (one === undefined) return null
       if (held.length === 1) return one
-      const stated = textAt(value, "pageTypeSlug")
+      const stated = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
       if (stated === null) return null
       const said = carriedBy(slugOf(stated)).get(key)
       return said === undefined ? null : said

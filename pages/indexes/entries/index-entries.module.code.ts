@@ -96,7 +96,7 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
       found.set(key, fileName)
       continue
     }
-    if (beside(textAt(value, "pageTypeSlug"))) found.set(key, null)
+    if (beside(textAt(value, "type") ?? textAt(value, "pageTypeSlug"))) found.set(key, null)
   }
   return found
 }
@@ -170,7 +170,7 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
   for (const value of values) {
     const propertySlug = textAt(value, "propertySlug")
     const slug = textAt(value, "slug")
-    const pageTypeSlug = textAt(value, "pageTypeSlug")
+    const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
     if (propertySlug === null || slug === null || pageTypeSlug === null) continue
     const fileName = textAt(value, "fileName")
     const folderName = textAt(value, "folderName")
