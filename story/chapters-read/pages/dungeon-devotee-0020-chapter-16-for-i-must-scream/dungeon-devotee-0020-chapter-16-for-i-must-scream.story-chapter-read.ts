@@ -5,7 +5,7 @@ export const dungeonDevotee0020Chapter16ForIMustScream = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0020-chapter-16-for-i-must-scream",
   title: "Chapter 16: For I Must Scream",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 20,
   ownLength: 5801,
   ownProgress: 5801,

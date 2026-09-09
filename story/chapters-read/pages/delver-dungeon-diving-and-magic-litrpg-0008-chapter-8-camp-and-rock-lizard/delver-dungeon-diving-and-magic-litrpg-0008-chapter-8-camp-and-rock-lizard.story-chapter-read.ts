@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0008Chapter8CampAndRockLizard = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0008-chapter-8-camp-and-rock-lizard",
   title: "Chapter 8: Camp and Rock-Lizard",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 8,
   ownLength: 2112,
   unitSlug: "words",

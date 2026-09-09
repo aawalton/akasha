@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0021Chapter21ThroughTheDark = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0021-chapter-21-through-the-dark",
   title: "Chapter 21: Through The Dark",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 21,
   ownLength: 2255,
   unitSlug: "words",

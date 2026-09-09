@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0037Chapter37LoyalMercenaries = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0037-chapter-37-loyal-mercenaries",
   title: "Chapter 37: Loyal Mercenaries",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 37,
   ownLength: 2049,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const dungeonDevotee0018Chapter15TheTrueValueOfACupOfAle = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0018-chapter-15-the-true-value-of-a-cup-of-ale",
   title: "Chapter 15: The True Value of a Cup of Ale",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 18,
   ownLength: 8433,
   ownProgress: 8433,

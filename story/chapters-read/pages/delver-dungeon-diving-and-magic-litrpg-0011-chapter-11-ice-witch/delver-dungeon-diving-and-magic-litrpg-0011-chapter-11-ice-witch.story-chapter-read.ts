@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0011Chapter11IceWitch = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0011-chapter-11-ice-witch",
   title: "Chapter 11: Ice Witch",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 11,
   ownLength: 2235,
   unitSlug: "words",

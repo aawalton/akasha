@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0003Chapter3MiddleManage
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0003-chapter-3-middle-management",
   title: "Chapter 3 - Middle Management",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 3,
   ownLength: 2098,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter26IDidnTAgree
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0026-chapter-26-i-didn-t-agree-to-this",
   title: "Chapter 26 - I Didn’t Agree To This",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 26,
   ownLength: 2632,
   unitSlug: "words",

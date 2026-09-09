@@ -5,7 +5,7 @@ export const dungeonDevotee0012Chapter10HintsOfThePastAndInklingsOfTheFuture = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0012-chapter-10-hints-of-the-past-and-inklings-of-the-future",
   title: "Chapter 10: Hints of the Past and Inklings of the Future",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 12,
   ownLength: 7599,
   ownProgress: 7599,

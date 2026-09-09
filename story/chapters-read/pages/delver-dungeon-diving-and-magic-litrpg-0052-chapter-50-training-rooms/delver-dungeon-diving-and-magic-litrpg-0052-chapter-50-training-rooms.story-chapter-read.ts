@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0052Chapter50TrainingRooms = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0052-chapter-50-training-rooms",
   title: "Chapter 50: Training Rooms",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 52,
   ownLength: 2798,
   unitSlug: "words",

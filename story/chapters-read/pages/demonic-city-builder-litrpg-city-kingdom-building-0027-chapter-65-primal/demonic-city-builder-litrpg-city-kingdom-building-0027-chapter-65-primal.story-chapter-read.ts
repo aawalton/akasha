@@ -10,7 +10,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0027Chapter65Primal = {
   externalId: "3932763",
   source: "royal-road",
   title: "Chapter 65 - Primal",
-  storySlug: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   ownLength: 2282,
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building/chapter/3932763/chapter-65-primal",

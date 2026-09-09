@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0060InterludeLibbyAndTanya = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0060-interlude-libby-and-tanya",
   title: "Interlude: Libby And Tanya",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 60,
   ownLength: 2123,
   unitSlug: "words",

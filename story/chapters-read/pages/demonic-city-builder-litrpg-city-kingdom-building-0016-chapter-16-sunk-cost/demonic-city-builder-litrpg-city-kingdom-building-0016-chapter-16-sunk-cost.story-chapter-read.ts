@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0016Chapter16SunkCost = 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0016-chapter-16-sunk-cost",
   title: "Chapter 16 - Sunk Cost",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 16,
   ownLength: 3285,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0022Chapter22Autonomy = 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0022-chapter-22-autonomy",
   title: "Chapter 22 - Autonomy",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 22,
   ownLength: 2487,
   unitSlug: "words",

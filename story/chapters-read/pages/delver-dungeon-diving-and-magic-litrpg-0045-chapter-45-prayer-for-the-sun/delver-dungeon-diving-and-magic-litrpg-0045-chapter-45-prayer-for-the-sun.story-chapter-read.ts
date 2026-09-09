@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0045Chapter45PrayerForTheSun = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0045-chapter-45-prayer-for-the-sun",
   title: "Chapter 45: Prayer For The Sun",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 45,
   ownLength: 2493,
   unitSlug: "words",

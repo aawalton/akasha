@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0054Chapter52DemonOfTheDeep = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0054-chapter-52-demon-of-the-deep",
   title: "Chapter 52: Demon Of The Deep",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 54,
   ownLength: 2324,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0020Chapter20PrivateLibrary = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0020-chapter-20-private-library",
   title: "Chapter 20: Private Library",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 20,
   ownLength: 1905,
   unitSlug: "words",

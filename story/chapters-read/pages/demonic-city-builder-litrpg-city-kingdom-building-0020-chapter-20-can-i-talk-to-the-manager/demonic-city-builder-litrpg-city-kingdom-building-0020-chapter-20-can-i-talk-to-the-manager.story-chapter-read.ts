@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0020Chapter20CanITalkToT
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0020-chapter-20-can-i-talk-to-the-manager",
   title: "Chapter 20 - Can I Talk To The Manager?",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 20,
   ownLength: 2095,
   unitSlug: "words",

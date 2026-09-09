@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0028BonusChapter01Prelud
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0028-bonus-chapter-0-1-prelude-form-111-c",
   title: "Bonus Chapter 0.1 - Prelude - Form 111-C",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 28,
   ownLength: 2176,
   unitSlug: "words",

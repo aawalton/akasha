@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0035Chapter35MageSJournal = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0035-chapter-35-mage-s-journal",
   title: "Chapter 35: Mage's Journal",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 35,
   ownLength: 2106,
   unitSlug: "words",

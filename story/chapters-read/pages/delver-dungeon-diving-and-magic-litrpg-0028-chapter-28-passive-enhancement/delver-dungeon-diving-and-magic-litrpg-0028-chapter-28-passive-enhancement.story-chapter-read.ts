@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0028Chapter28PassiveEnhancement = 
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0028-chapter-28-passive-enhancement",
   title: "Chapter 28: Passive Enhancement",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 28,
   ownLength: 2112,
   unitSlug: "words",

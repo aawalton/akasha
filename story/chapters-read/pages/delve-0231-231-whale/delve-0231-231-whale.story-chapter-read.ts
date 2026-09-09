@@ -5,7 +5,7 @@ export const delve0231231Whale = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0231-231-whale",
   title: "231: Whale",
-  storySlug: "delve",
+  story: "delve",
   position: 231,
   ownLength: 3710,
   unitSlug: "words",

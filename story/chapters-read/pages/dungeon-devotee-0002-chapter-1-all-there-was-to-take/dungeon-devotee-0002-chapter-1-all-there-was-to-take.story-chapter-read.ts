@@ -5,7 +5,7 @@ export const dungeonDevotee0002Chapter1AllThereWasToTake = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0002-chapter-1-all-there-was-to-take",
   title: "Chapter 1: All There Was to Take",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 2,
   ownLength: 4140,
   ownProgress: 4140,

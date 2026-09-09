@@ -4,7 +4,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0026Chapter64Comprehensi
   id: "01a07ef9-19e0-74fa-8015-e5d845b70cf7",
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0026-chapter-64-comprehension",
-  storySlug: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
+  story: "story-read/demonic-city-builder-litrpg-city-kingdom-building",
   position: 26,
   publishedAt: "2026-09-08",
   unitSlug: "words",

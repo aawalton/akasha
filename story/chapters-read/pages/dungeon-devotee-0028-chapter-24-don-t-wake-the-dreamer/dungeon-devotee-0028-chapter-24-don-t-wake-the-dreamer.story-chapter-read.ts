@@ -5,7 +5,7 @@ export const dungeonDevotee0028Chapter24DonTWakeTheDreamer = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0028-chapter-24-don-t-wake-the-dreamer",
   title: "Chapter 24: Don’t Wake the Dreamer",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 28,
   ownLength: 7944,
   ownProgress: 7944,

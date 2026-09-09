@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0035Chapter335BlackMarke
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0035-chapter-33-5-black-market",
   title: "Chapter 33.5 - Black Market",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 35,
   ownLength: 1918,
   unitSlug: "words",

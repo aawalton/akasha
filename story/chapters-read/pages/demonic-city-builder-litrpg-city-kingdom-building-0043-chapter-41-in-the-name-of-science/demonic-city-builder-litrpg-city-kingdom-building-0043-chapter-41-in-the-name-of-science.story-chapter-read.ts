@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0043Chapter41InTheNameOf
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0043-chapter-41-in-the-name-of-science",
   title: "Chapter 41 - In The Name of Science",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 43,
   ownLength: 2871,
   unitSlug: "words",

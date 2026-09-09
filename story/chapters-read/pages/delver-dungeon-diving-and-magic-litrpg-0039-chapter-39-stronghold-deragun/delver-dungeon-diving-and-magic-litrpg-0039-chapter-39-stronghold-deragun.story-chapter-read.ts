@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0039Chapter39StrongholdDeragun = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0039-chapter-39-stronghold-deragun",
   title: "Chapter 39: Stronghold Deragun",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 39,
   ownLength: 2288,
   unitSlug: "words",

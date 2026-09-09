@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0033Chapter33Ambush = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0033-chapter-33-ambush",
   title: "Chapter 33: Ambush",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 33,
   ownLength: 2131,
   unitSlug: "words",

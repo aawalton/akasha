@@ -5,7 +5,7 @@ export const delve0260260Pitch = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0260-260-pitch",
   title: "260: Pitch",
-  storySlug: "delve",
+  story: "delve",
   position: 260,
   ownLength: 3839,
   unitSlug: "words",

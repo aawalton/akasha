@@ -5,7 +5,7 @@ export const dungeonDevotee0010Chapter8ThroughTheFingersOfTheCrimsonHand = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0010-chapter-8-through-the-fingers-of-the-crimson-hand",
   title: "Chapter 8: Through the Fingers of the Crimson Hand",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 10,
   ownLength: 6043,
   ownProgress: 6043,

@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0056Chapter54TheDralk = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0056-chapter-54-the-dralk",
   title: "Chapter 54: The Dralk",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 56,
   ownLength: 2035,
   unitSlug: "words",

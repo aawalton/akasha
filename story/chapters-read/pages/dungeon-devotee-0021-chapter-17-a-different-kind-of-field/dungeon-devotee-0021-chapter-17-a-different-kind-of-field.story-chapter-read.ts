@@ -5,7 +5,7 @@ export const dungeonDevotee0021Chapter17ADifferentKindOfField = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0021-chapter-17-a-different-kind-of-field",
   title: "Chapter 17: A Different Kind of Field",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 21,
   ownLength: 7544,
   ownProgress: 7544,

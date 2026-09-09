@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0045Chapter43Showtime = 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0045-chapter-43-showtime",
   title: "Chapter 43 - Showtime",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 45,
   ownLength: 2937,
   unitSlug: "words",

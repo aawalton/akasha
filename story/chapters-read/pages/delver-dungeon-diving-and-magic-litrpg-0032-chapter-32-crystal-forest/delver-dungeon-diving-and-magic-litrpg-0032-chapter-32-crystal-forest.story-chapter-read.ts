@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0032Chapter32CrystalForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0032-chapter-32-crystal-forest",
   title: "Chapter 32: Crystal Forest",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 32,
   ownLength: 2096,
   unitSlug: "words",

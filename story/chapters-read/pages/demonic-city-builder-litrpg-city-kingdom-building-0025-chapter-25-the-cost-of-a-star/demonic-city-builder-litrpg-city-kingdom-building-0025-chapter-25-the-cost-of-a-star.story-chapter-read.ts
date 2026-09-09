@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0025Chapter25TheCostOfAS
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0025-chapter-25-the-cost-of-a-star",
   title: "Chapter 25 - The Cost Of A Star",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 25,
   ownLength: 2067,
   unitSlug: "words",

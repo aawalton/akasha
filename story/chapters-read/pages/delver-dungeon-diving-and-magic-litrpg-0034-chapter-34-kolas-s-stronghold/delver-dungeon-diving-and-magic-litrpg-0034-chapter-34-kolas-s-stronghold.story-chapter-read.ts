@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0034Chapter34KolasSStronghold = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0034-chapter-34-kolas-s-stronghold",
   title: "Chapter 34: Kolas's Stronghold",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 34,
   ownLength: 1947,
   unitSlug: "words",

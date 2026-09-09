@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0015Chapter15Corrupted = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0015-chapter-15-corrupted",
   title: "Chapter 15: Corrupted",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 15,
   ownLength: 2710,
   unitSlug: "words",

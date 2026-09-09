@@ -5,7 +5,7 @@ export const delve0252252Inconceivable = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0252-252-inconceivable",
   title: "252: Inconceivable",
-  storySlug: "delve",
+  story: "delve",
   position: 252,
   ownLength: 4489,
   unitSlug: "words",

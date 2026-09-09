@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0048Book1FeedbackPost = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0048-book-1-feedback-post",
   title: "Book 1 Feedback Post",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 48,
   ownLength: 107,
   unitSlug: "words",

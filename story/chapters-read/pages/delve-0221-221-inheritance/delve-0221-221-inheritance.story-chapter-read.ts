@@ -5,7 +5,7 @@ export const delve0221221Inheritance = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0221-221-inheritance",
   title: "221: Inheritance",
-  storySlug: "delve",
+  story: "delve",
   position: 221,
   ownLength: 3252,
   unitSlug: "words",

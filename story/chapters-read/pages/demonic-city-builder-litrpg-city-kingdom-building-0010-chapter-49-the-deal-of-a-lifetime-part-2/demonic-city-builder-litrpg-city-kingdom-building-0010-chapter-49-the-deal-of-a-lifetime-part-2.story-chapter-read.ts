@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0010Chapter49TheDealOfAL
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0010-chapter-49-the-deal-of-a-lifetime-part-2",
   title: "Chapter 49 - The Deal of a Lifetime - Part 2",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 10,
   ownLength: 2483,
   unitSlug: "words",

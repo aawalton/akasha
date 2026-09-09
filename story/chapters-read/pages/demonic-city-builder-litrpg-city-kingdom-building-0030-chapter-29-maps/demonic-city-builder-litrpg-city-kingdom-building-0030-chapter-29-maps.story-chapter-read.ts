@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0030Chapter29Maps = {
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0030-chapter-29-maps",
   title: "Chapter 29 - Maps",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 30,
   ownLength: 1597,
   unitSlug: "words",

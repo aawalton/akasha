@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0021Chapter21Wealth = {
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0021-chapter-21-wealth",
   title: "Chapter 21 - Wealth",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 21,
   ownLength: 2806,
   unitSlug: "words",

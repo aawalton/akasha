@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0043Chapter43NonhumanMagics = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0043-chapter-43-nonhuman-magics",
   title: "Chapter 43: Nonhuman Magics",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 43,
   ownLength: 2129,
   unitSlug: "words",

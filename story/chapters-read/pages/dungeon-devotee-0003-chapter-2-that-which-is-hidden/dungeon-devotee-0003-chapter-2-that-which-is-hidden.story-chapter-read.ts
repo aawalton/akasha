@@ -5,7 +5,7 @@ export const dungeonDevotee0003Chapter2ThatWhichIsHidden = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0003-chapter-2-that-which-is-hidden",
   title: "Chapter 2: That Which is Hidden",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 3,
   ownLength: 6321,
   ownProgress: 6321,

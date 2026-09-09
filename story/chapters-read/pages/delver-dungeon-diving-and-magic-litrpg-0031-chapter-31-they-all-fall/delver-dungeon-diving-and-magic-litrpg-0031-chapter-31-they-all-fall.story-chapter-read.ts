@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0031Chapter31TheyAllFall = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0031-chapter-31-they-all-fall",
   title: "Chapter 31: They All Fall",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 31,
   ownLength: 1865,
   unitSlug: "words",

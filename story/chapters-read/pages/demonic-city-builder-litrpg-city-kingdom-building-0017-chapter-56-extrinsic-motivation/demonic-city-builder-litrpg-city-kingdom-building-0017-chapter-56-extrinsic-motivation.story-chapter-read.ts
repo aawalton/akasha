@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0017Chapter56ExtrinsicMo
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0017-chapter-56-extrinsic-motivation",
   title: "Chapter 56 - Extrinsic Motivation",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 17,
   ownLength: 2946,
   unitSlug: "words",

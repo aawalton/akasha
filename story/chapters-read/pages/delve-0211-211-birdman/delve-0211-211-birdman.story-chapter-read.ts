@@ -5,7 +5,7 @@ export const delve0211211Birdman = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0211-211-birdman",
   title: "211: Birdman",
-  storySlug: "delve",
+  story: "delve",
   position: 211,
   ownLength: 4457,
   unitSlug: "words",

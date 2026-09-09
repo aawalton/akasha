@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0007Book2Prologue12 = {
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0007-book-2-prologue-12",
   title: "Book 2 Prologue - 1/2",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 7,
   ownLength: 2117,
   unitSlug: "words",

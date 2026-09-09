@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0022Chapter22JourneyToOnder = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0022-chapter-22-journey-to-onder",
   title: "Chapter 22: Journey To Onder",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 22,
   ownLength: 2400,
   unitSlug: "words",

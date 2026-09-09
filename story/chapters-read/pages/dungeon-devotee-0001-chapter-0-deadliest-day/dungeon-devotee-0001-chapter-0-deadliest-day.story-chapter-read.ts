@@ -5,7 +5,7 @@ export const dungeonDevotee0001Chapter0DeadliestDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0001-chapter-0-deadliest-day",
   title: "Chapter 0: Deadliest Day",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 1,
   ownLength: 4676,
   ownProgress: 4676,

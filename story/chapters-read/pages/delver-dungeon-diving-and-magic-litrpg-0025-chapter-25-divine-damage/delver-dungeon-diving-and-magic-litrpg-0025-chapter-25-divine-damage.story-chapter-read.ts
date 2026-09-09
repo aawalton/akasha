@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0025Chapter25DivineDamage = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0025-chapter-25-divine-damage",
   title: "Chapter 25: Divine Damage",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 25,
   ownLength: 1862,
   unitSlug: "words",

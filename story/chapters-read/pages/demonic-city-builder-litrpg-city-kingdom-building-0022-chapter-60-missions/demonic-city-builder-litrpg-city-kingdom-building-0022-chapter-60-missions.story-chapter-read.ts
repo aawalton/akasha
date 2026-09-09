@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0022Chapter60Missions = 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0022-chapter-60-missions",
   title: "Chapter 60 - Missions",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 22,
   ownLength: 2086,
   unitSlug: "words",

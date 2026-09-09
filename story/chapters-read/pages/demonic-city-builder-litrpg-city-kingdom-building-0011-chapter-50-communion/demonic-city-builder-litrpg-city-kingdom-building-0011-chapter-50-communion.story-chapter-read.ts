@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0011Chapter50Communion =
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0011-chapter-50-communion",
   title: "Chapter 50 - Communion",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 11,
   ownLength: 3151,
   unitSlug: "words",

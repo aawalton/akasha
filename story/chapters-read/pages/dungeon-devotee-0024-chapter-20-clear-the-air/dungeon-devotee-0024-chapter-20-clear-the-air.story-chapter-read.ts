@@ -5,7 +5,7 @@ export const dungeonDevotee0024Chapter20ClearTheAir = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0024-chapter-20-clear-the-air",
   title: "Chapter 20: Clear the Air",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 24,
   ownLength: 8024,
   ownProgress: 8024,

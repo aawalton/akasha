@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0038Chapter36Compliance 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0038-chapter-36-compliance",
   title: "Chapter 36 - Compliance",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 38,
   ownLength: 2308,
   unitSlug: "words",

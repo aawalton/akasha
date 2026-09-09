@@ -5,7 +5,7 @@ export const dungeonDevotee0031Chapter27TheLightThatBlinds = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0031-chapter-27-the-light-that-blinds",
   title: "Chapter 27: The Light That Blinds",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 31,
   ownLength: 7151,
   ownProgress: 7151,

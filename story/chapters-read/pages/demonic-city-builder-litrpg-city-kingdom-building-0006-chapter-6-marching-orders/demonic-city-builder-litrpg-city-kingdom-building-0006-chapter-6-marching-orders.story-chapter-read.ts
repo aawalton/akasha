@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0006Chapter6MarchingOrde
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0006-chapter-6-marching-orders",
   title: "Chapter 6 - Marching Orders",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 6,
   ownLength: 1247,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0042Chapter42RegularOlSaint = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0042-chapter-42-regular-ol-saint",
   title: "Chapter 42: Regular Ol' Saint",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 42,
   ownLength: 2153,
   unitSlug: "words",

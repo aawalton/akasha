@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0029Chapter29TempleOfKolas = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0029-chapter-29-temple-of-kolas",
   title: "Chapter 29: Temple Of Kolas",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 29,
   ownLength: 2166,
   unitSlug: "words",

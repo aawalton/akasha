@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0027Chapter27GanttChart 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0027-chapter-27-gantt-chart",
   title: "Chapter 27 - Gantt Chart",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 27,
   ownLength: 2395,
   unitSlug: "words",

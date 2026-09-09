@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0014Chapter14CapitalExpe
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0014-chapter-14-capital-expenditure",
   title: "Chapter 14 - Capital Expenditure",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 14,
   ownLength: 2415,
   unitSlug: "words",

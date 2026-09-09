@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0041Chapter39Catering = 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0041-chapter-39-catering",
   title: "Chapter 39 - Catering",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 41,
   ownLength: 2950,
   unitSlug: "words",

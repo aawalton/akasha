@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0023Chapter23FirstLessonsInMagic =
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0023-chapter-23-first-lessons-in-magic",
   title: "Chapter 23: First Lessons In Magic",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 23,
   ownLength: 2432,
   unitSlug: "words",

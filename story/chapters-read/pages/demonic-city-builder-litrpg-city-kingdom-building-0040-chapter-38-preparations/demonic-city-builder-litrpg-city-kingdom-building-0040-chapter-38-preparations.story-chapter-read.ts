@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0040Chapter38Preparation
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0040-chapter-38-preparations",
   title: "Chapter 38 - Preparations ",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 40,
   ownLength: 3301,
   unitSlug: "words",

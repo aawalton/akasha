@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0014Chapter14TheBeautyOfAlchemy = 
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0014-chapter-14-the-beauty-of-alchemy",
   title: "Chapter 14: The Beauty Of Alchemy",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 14,
   ownLength: 1926,
   unitSlug: "words",

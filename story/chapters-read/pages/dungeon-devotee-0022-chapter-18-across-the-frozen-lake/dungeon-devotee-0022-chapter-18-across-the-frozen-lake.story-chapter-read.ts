@@ -5,7 +5,7 @@ export const dungeonDevotee0022Chapter18AcrossTheFrozenLake = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0022-chapter-18-across-the-frozen-lake",
   title: "Chapter 18: Across the Frozen Lake",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 22,
   ownLength: 9769,
   ownProgress: 9769,

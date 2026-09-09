@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0020Chapter58RedClaws = 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0020-chapter-58-red-claws",
   title: "Chapter 58 - Red Claws",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 20,
   ownLength: 2481,
   unitSlug: "words",

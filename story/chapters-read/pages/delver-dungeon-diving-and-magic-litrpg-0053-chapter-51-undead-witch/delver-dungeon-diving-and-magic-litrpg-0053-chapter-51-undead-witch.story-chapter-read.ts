@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0053Chapter51UndeadWitch = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0053-chapter-51-undead-witch",
   title: "Chapter 51: Undead Witch",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 53,
   ownLength: 1966,
   unitSlug: "words",

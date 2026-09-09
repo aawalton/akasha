@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0008Chapter8Arbitration 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0008-chapter-8-arbitration",
   title: "Chapter 8 - Arbitration",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 8,
   ownLength: 4015,
   unitSlug: "words",

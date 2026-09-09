@@ -5,7 +5,7 @@ export const dungeonDevotee0004Chapter3WidowsAndWagers = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0004-chapter-3-widows-and-wagers",
   title: "Chapter 3: Widows and Wagers",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 4,
   ownLength: 6345,
   ownProgress: 6345,

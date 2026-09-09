@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0048Chapter46Amendments 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0048-chapter-46-amendments",
   title: "Chapter 46 - Amendments ",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 48,
   ownLength: 3274,
   unitSlug: "words",

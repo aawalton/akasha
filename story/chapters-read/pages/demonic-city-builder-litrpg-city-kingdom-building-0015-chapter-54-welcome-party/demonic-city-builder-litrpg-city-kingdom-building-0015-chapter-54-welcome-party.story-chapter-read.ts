@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0015Chapter54WelcomePart
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0015-chapter-54-welcome-party",
   title: "Chapter 54 - Welcome Party",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 15,
   ownLength: 2360,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0010Chapter10Onboarding 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0010-chapter-10-onboarding",
   title: "Chapter 10 - Onboarding",
-  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+  story: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 10,
   ownLength: 3019,
   unitSlug: "words",

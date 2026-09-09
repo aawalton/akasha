@@ -5,7 +5,7 @@ export const dungeonDevotee0008AprilFoolsTheWishPartFive = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0008-april-fools-the-wish-part-five",
   title: "April Fools - The Wish: Part Five",
-  storySlug: "dungeon-devotee",
+  story: "dungeon-devotee",
   position: 8,
   ownLength: 1488,
   ownProgress: 1488,

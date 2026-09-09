@@ -6,7 +6,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0049Chapter47Spreadsheet
     pageTypeSlug: "story-chapter-read",
     slug: "demonic-city-builder-litrpg-city-kingdom-building-0049-chapter-47-spreadsheets-part-1-announcement",
     title: "Chapter 47 - Spreadsheets - Part 1 + ANNOUNCEMENT FOR BOOK ONE",
-    storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
+    story: "demonic-city-builder-litrpg-city-kingdom-building",
     position: 49,
     ownLength: 2084,
     unitSlug: "words",

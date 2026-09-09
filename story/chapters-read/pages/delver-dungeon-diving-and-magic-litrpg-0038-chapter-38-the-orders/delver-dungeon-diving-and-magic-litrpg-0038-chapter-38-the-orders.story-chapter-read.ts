@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0038Chapter38TheOrders = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0038-chapter-38-the-orders",
   title: "Chapter 38: The Orders",
-  storySlug: "delver-dungeon-diving-and-magic-litrpg",
+  story: "delver-dungeon-diving-and-magic-litrpg",
   position: 38,
   ownLength: 2111,
   unitSlug: "words",
