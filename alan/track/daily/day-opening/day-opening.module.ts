@@ -29,4 +29,5 @@ export const dayOpening = {
       statement: "A day that will not parse answers a window at the epoch rather than refusing.",
     },
   ],
+  test: "ts",
 } as const satisfies Module
