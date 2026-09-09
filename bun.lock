@@ -5,7 +5,6 @@
     "": {
       "name": "akasha",
       "dependencies": {
-        "@akasha/analysis-complexity": "workspace:*",
         "@akasha/browser-launch-env": "workspace:*",
         "@akasha/browser-test-harness": "workspace:*",
         "@akasha/changes": "workspace:*",
@@ -700,7 +699,6 @@
       "name": "@akasha/command-system",
       "dependencies": {
         "@akasha/agents": "workspace:*",
-        "@akasha/analysis-complexity": "workspace:*",
         "@akasha/changes": "workspace:*",
         "@akasha/checks": "workspace:*",
         "@akasha/code": "workspace:*",
@@ -1036,14 +1034,6 @@
       "name": "@akasha/voice-inference",
       "dependencies": {
         "@akasha/k8s-types": "workspace:*",
-      },
-    },
-    "infrastructure/analysis-complexity": {
-      "name": "@akasha/analysis-complexity",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "typescript": "^5.9.3",
       },
     },
     "infrastructure/auth-proxy": {
@@ -2874,8 +2864,6 @@
     "@akasha/alanwalton-web": ["@akasha/alanwalton-web@workspace:alan/web"],
 
     "@akasha/alanwalton-web-capacitor": ["@akasha/alanwalton-web-capacitor@workspace:alan/web-capacitor"],
-
-    "@akasha/analysis-complexity": ["@akasha/analysis-complexity@workspace:infrastructure/analysis-complexity"],
 
     "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:products/archive-of-worlds/archive-of-worlds-web"],
 

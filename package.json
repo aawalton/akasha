@@ -9,7 +9,6 @@
     "./*": "./*"
   },
   "dependencies": {
-    "@akasha/analysis-complexity": "workspace:*",
     "@akasha/browser-launch-env": "workspace:*",
     "@akasha/browser-test-harness": "workspace:*",
     "@akasha/changes": "workspace:*",
