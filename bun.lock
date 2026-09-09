@@ -154,13 +154,6 @@
         "react": "^18 || ^19",
       },
     },
-    "alan/eso/wallpapers": {
-      "name": "@akasha/eso-wallpapers",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "alan/harness/calendar-sync": {
       "name": "@akasha/calendar-sync",
       "dependencies": {
@@ -2803,8 +2796,6 @@
     "@akasha/errors-client": ["@akasha/errors-client@workspace:alan/harness/errors-client"],
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:alan/harness/errors-core"],
-
-    "@akasha/eso-wallpapers": ["@akasha/eso-wallpapers@workspace:alan/eso/wallpapers"],
 
     "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:file-page-identity"],
 
