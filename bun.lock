@@ -153,7 +153,7 @@
         "react": "^18 || ^19",
       },
     },
-    "alan/eso/eso-wallpapers": {
+    "alan/eso/wallpapers": {
       "name": "@akasha/eso-wallpapers",
       "dependencies": {
         "@akasha/utils": "workspace:*",
@@ -3009,7 +3009,7 @@
 
     "@akasha/eso-rig": ["@akasha/eso-rig@workspace:infrastructure/eso-rig"],
 
-    "@akasha/eso-wallpapers": ["@akasha/eso-wallpapers@workspace:alan/eso/eso-wallpapers"],
+    "@akasha/eso-wallpapers": ["@akasha/eso-wallpapers@workspace:alan/eso/wallpapers"],
 
     "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:file-page-identity"],
 
