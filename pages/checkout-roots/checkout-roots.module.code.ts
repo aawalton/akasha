@@ -1,4 +1,4 @@
-import { existsSync, readdirSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { fileURLToPath } from "node:url"
 import type { Repo } from "../markdown-document/markdown-document.module.code.ts"
@@ -7,49 +7,19 @@ import { canonicalize } from "../repo-path/repo-path.module.code.ts"
 
 export const AKASHA = "akasha"
 
-const REPO_PAGES = "infrastructure/git-repos/repos/pages"
+const MARKER = ".git"
 
-const REPO_ENDING = "-repo"
-
-const PAGE_ENDING = ".ts"
-
-function stemOf(name: string): string | null {
-  if (!name.endsWith(PAGE_ENDING)) return null
-  const rest = name.slice(0, -PAGE_ENDING.length)
-  const dot = rest.lastIndexOf(".")
-  if (dot <= 0 || dot === rest.length - 1) return null
-  return rest.slice(0, dot)
-}
-
-function namedIn(at: string): readonly string[] {
-  if (typeof readdirSync !== "function") {
-    throw new Error(
-      `nothing here reads a directory, so nothing says which repositories there are — this is not node`
-    )
-  }
-  const found = new Set<string>()
-  let entries: readonly string[]
-  try {
-    entries = readdirSync(at)
-  } catch {
-    return []
-  }
-  for (const one of entries) {
-    const stem = stemOf(one)
-    if (stem === null) continue
-    if (!stem.endsWith(REPO_ENDING)) continue
-    found.add(stem.slice(0, -REPO_ENDING.length))
-  }
-  return [...found].sort()
-}
-
-function namedUnder(root: string): readonly string[] {
-  return namedIn(`${root}/${REPO_PAGES}`)
-}
+const REPOS: readonly string[] = [AKASHA, "code-editor"]
 
 function checkoutFrom(dir: string): string {
+  if (typeof existsSync !== "function") {
+    throw new Error(
+      `nothing here looks on disk, so nothing says where \`${AKASHA}\` is —` +
+        ` name it in \`${rootEnvName(AKASHA)}\``
+    )
+  }
   let at = resolve(dir)
-  while (namedUnder(at).length === 0) {
+  while (!existsSync(`${at}/${MARKER}`)) {
     const up = dirname(at)
     if (up === at) return resolve(dir, "..", "..")
     at = up
@@ -109,21 +79,8 @@ export function ownRepoRoot(): string {
   return rootOf(AKASHA)
 }
 
-function namedOnDisk(): readonly string[] {
-  const here = akashaHere()
-  const own = namedUnder(here)
-  if (own.length > 0) return own
-  const at = `${here}/${REPO_PAGES}`
-  throw new Error(
-    `${at} holds no \`*${REPO_ENDING}\` page, so nothing says which repositories there are`
-  )
-}
-
-let heldRepos: readonly string[] | null = null
-
 export function repos(): readonly string[] {
-  if (heldRepos === null) heldRepos = namedOnDisk()
-  return heldRepos
+  return REPOS
 }
 
 export function addressableNamed(): string {

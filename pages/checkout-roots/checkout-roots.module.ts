@@ -9,8 +9,7 @@ export const checkoutRoots = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A checkout is found by the `infrastructure/git-repos/repos/pages` folder inside a checkout.",
+      statement: "A checkout is found by the `.git` at the top of that checkout.",
     },
     {
       invariantKind: "stopgap",
@@ -18,7 +17,12 @@ export const checkoutRoots = {
     },
     {
       invariantKind: "departure",
-      statement: "Which repositories there are is read from disk when first asked.",
+      statement: "Which repositories there are is named here rather than read from disk.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "A repository with a page of its own is addressable only once this module names it.",
     },
     {
       invariantKind: "absence",
