@@ -109,13 +109,15 @@ function renderPageFile(root: string, spec: SeriesSpec, slug: string, definition
     resolve(root, folderRel(spec, slug)),
     resolve(root, MODULE_PAGE_TYPE_REL)
   )
+  const typeSlug = JSON.stringify(typeSlugOf(root, MODULE_PAGE_TYPE))
   return (
     [
       `import type { Module } from "${typeImport}"`,
       "",
       `export const ${kebabToCamel(slug)} = {`,
       `  id: ${JSON.stringify(pageIdFor(root, spec, slug))},`,
-      `  pageTypeSlug: ${JSON.stringify(typeSlugOf(root, MODULE_PAGE_TYPE))},`,
+      `  pageTypeSlug: ${typeSlug},`,
+      `  type: ${typeSlug},`,
       `  slug: ${JSON.stringify(slug)},`,
       `  definition: ${JSON.stringify(definition)},`,
       '  code: "ts",',
