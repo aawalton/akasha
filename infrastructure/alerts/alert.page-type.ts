@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Definition } from "../../domains/properties/definition.standard-agent-english-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { PersonSlug } from "../../seat-system/seats/properties/person-slug.relation-property.ts"
+import type { Person } from "../../seat-system/seats/properties/person.relation-property.ts"
 import type { AlertDomain } from "./properties/alert-domain.text-property.ts"
 import type { AlertPersona } from "./properties/alert-persona.relation-property.ts"
 import type { AlertRoleSlug } from "./properties/alert-role-slug.text-property.ts"
@@ -14,7 +14,7 @@ export type Alert = Page & {
   definition: Definition
   domain?: AlertDomain
   summary?: AlertSummary
-  personSlug?: PersonSlug
+  person?: Person
   runbook?: AlertRunbook
   persona?: AlertPersona
   roleSlug?: AlertRoleSlug
@@ -39,7 +39,7 @@ export const alert = {
     { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
     { pagePropertySlug: "text-property/alert-domain", required: false, many: false },
     { pagePropertySlug: "text-property/alert-summary", required: false, many: false },
-    { pagePropertySlug: "relation-property/person-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/person", required: false, many: false },
     { pagePropertySlug: "file-property/alert-runbook", required: false, many: false },
     { pagePropertySlug: "relation-property/alert-persona", required: false, many: false },
     { pagePropertySlug: "text-property/alert-role-slug", required: false, many: false },

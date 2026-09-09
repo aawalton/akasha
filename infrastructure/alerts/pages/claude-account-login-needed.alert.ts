@@ -8,6 +8,6 @@ export const claudeAccountLoginNeeded = {
   definition: "a Claude account can no longer log itself back in",
   summary:
     "Claude account {{ $labels.account }} needs a login — access expiry {{ $value | humanizeDuration }} past-due",
-  personSlug: "alan",
+  person: "alan",
   runbook: "txt",
 } as const satisfies Alert

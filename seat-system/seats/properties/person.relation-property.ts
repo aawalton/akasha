@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type PersonSlug = Slug
+export type Person = Slug
 
-export const personSlug = {
+export const person = {
   id: "01a05390-11db-7a03-ba9c-c7c30248aee3",
   pageTypeSlug: "relation-property",
-  slug: "person-slug",
-  propertySlug: "person-slug",
+  slug: "person",
+  propertySlug: "person",
   definition: "the person a page is of",
   targetPageTypeSlug: "page-type/person",
   invariants: [

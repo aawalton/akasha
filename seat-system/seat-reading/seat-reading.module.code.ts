@@ -22,7 +22,7 @@ const STATED: Readonly<Record<string, string>> = {
   "persona-slug": "personaSlug",
   "domain-slug": "assignmentSlug",
   "role-slug": "role",
-  "person-slug": "personSlug",
+  "person-slug": "person",
   "principal-seat-name": "principalSeatName",
   "start-mode": "startMode",
   "registration-account": "registrationAccount",

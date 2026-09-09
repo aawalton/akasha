@@ -52,7 +52,7 @@ function rowsFor(page: string): readonly Readonly<Record<string, unknown>>[] {
 
 export function feedPageFor(personSlug: string): string | null {
   for (const found of valuesOfType(akashaRoot(), NOTIFICATION_FEED_PAGE_TYPE_SLUG)) {
-    if (found.value.personSlug === personSlug) return found.path
+    if (found.value.person === personSlug) return found.path
   }
   return null
 }

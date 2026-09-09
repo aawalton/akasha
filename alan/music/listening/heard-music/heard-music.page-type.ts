@@ -1,10 +1,10 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { PersonSlug } from "../../../../seat-system/seats/properties/person-slug.relation-property.ts"
+import type { Person } from "../../../../seat-system/seats/properties/person.relation-property.ts"
 import type { Tracks } from "./tracks/tracks.page-property-entry.ts"
 
 export type HeardMusic = Page & {
-  personSlug: PersonSlug
+  person: Person
   tracks: Tracks
 }
 
@@ -17,7 +17,7 @@ export const heardMusic = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["page-property-entry/tracks"],
   properties: [
-    { pagePropertySlug: "relation-property/person-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/person", required: true, many: false },
     { pagePropertySlug: "page-property-entry/tracks", required: true, many: false },
   ],
   invariants: [

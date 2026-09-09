@@ -5,7 +5,7 @@ import type { ContextTokens } from "./properties/context-tokens.number-property.
 import type { Mode } from "./properties/mode.text-property.ts"
 import type { Model } from "./properties/model.text-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
-import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
+import type { Person } from "./properties/person.relation-property.ts"
 import type { Proxy as SeatProxy } from "./properties/proxy.record-property.ts"
 import type { ReExecAsk } from "./properties/re-exec-ask.text-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
@@ -22,7 +22,7 @@ import type { TurnWorking } from "./properties/turn-working.record-property.ts"
 export type Seat = Agent & {
   personaSlug: SeatPersonaSlug
   role: Role
-  personSlug?: PersonSlug
+  person?: Person
   startMode: StartMode
   onCall: OnCall
   registrationAccount: RegistrationAccount
@@ -65,7 +65,7 @@ export const seat = {
     "record-property/request",
     "record-property/turn-pending",
     "record-property/turn-working",
-    "relation-property/person-slug",
+    "relation-property/person",
     "relation-property/requested-action",
     "relation-property/role",
     "relation-property/seat-persona-slug",
@@ -95,7 +95,7 @@ export const seat = {
       many: false,
       default: "worker",
     },
-    { pagePropertySlug: "relation-property/person-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/person", required: false, many: false },
     { pagePropertySlug: "text-property/start-mode", required: true, many: false },
     { pagePropertySlug: "boolean-property/on-call", required: true, many: false },
     { pagePropertySlug: "text-property/registration-account", required: true, many: false },

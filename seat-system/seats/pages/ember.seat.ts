@@ -7,7 +7,7 @@ export const ember = {
   personaSlug: "ember",
   assignmentSlug: "initiative/ember-repair-temper-tasks",
   role: "definer",
-  personSlug: "alan",
+  person: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",

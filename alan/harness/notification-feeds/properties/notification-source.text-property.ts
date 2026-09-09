@@ -9,5 +9,5 @@ export const notificationSource = {
   propertySlug: "source",
   definition: "what pushed a notification",
   maxLength: 100,
-  nameFormat: "name-format/lower-kebab-case",
+  nameFormat: null,
 } as const satisfies TextProperty

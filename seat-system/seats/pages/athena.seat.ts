@@ -7,7 +7,7 @@ export const athena = {
   personaSlug: "athena",
   assignmentSlug: "initiative/athena-commands-at-the-root",
   role: "definer",
-  personSlug: "alan",
+  person: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",

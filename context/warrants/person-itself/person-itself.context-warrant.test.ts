@@ -22,14 +22,14 @@ const AGENT = "01a0596c-0000-7000-8000-000000000001"
 test("a seat warrants the person it states", () => {
   const root = scratch.rootFor("akasha-person-itself-")
   const held = personListed(root, "alan")
-  const at = seatListed(root, "one", `personSlug: "alan"`)
+  const at = seatListed(root, "one", `person: "alan"`)
   expect(pathsOf(personItself(root, at))).toEqual([held.path])
 })
 
 test("a person is named by its slug where the seat states it under a page type", () => {
   const root = scratch.rootFor("akasha-person-itself-")
   const held = personListed(root, "alan")
-  const at = seatListed(root, "one", `personSlug: "person/alan"`)
+  const at = seatListed(root, "one", `person: "person/alan"`)
   expect(pathsOf(personItself(root, at))).toEqual([held.path])
 })
 
@@ -43,7 +43,7 @@ test("a seat stating no person warrants none", () => {
 test("a person whose page cannot be found is no warrant", () => {
   const root = scratch.rootFor("akasha-person-itself-")
   personListed(root, "alan")
-  const at = seatListed(root, "one", `personSlug: "ghost"`)
+  const at = seatListed(root, "one", `person: "ghost"`)
   expect(pathsOf(personItself(root, at))).toEqual([])
 })
 
@@ -64,7 +64,7 @@ test("a seat whose body cannot be loaded warrants nothing", () => {
 test("a warrant carries the body at the person, and why it is owed", () => {
   const root = scratch.rootFor("akasha-person-itself-")
   const personPage = personListed(root, "alan")
-  const at = seatListed(root, "one", `personSlug: "alan"`)
+  const at = seatListed(root, "one", `person: "alan"`)
   const held = personItself(root, at)[0]
   expect(held?.path).toBe(personPage.path)
   expect(held?.oid).toBe(
@@ -76,7 +76,7 @@ test("a warrant carries the body at the person, and why it is owed", () => {
 test("a person whose body is gone warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-person-itself-")
   const held = personListed(root, "alan")
-  const at = seatListed(root, "one", `personSlug: "alan"`)
+  const at = seatListed(root, "one", `person: "alan"`)
   rmSync(join(root, held.path))
   expect(pathsOf(personItself(root, at))).toEqual([])
 })
@@ -85,8 +85,8 @@ test("a person not read is refused, and the refusal says why it is owed", () => 
   const root = scratch.rootFor("akasha-person-itself-")
   warrantsSeeded(root, ["person-itself"])
   const held = personListed(root, "alan")
-  const at = seatListed(root, "one", `personSlug: "alan"`)
-  const oid = writing(root, at, `export const one = { personSlug: "alan" }\n`)
+  const at = seatListed(root, "one", `person: "alan"`)
+  const oid = writing(root, at, `export const one = { person: "alan" }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
   const said = unreadIn(root, AGENT, [at])
   expect(said.length).toBe(1)

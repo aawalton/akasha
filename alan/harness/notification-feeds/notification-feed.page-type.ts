@@ -1,10 +1,10 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { PersonSlug } from "../../../seat-system/seats/properties/person-slug.relation-property.ts"
+import type { Person } from "../../../seat-system/seats/properties/person.relation-property.ts"
 import type { Notifications } from "./properties/notifications.page-property-entry.ts"
 
 export type NotificationFeed = Page & {
-  personSlug: PersonSlug
+  person: Person
   notifications: Notifications
 }
 
@@ -25,7 +25,7 @@ export const notificationFeed = {
     "text-property/notification-source",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/person-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/person", required: true, many: false },
     { pagePropertySlug: "page-property-entry/notifications", required: true, many: false },
   ],
   invariants: [

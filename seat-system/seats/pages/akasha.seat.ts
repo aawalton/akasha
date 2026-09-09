@@ -7,7 +7,7 @@ export const akasha = {
   personaSlug: "akasha",
   assignmentSlug: "initiative/akasha-folder-shape",
   role: "definer",
-  personSlug: "alan",
+  person: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",

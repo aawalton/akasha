@@ -98,7 +98,7 @@ export function seatBody(
     `  personaSlug: ${said(persona)},`,
     `  assignmentSlug: ${said(addressed ?? assignmentAddressOf(domain, root))},`,
     `  role: ${said(role)},`,
-    person ? `  personSlug: ${said(principal)},` : `  principalSeatName: ${said(above as string)},`,
+    person ? `  person: ${said(principal)},` : `  principalSeatName: ${said(above as string)},`,
     `  startMode: ${said(mode)},`,
     `  onCall: ${stated.onCall ? "true" : "false"},`,
     `  registrationAccount: ${said(registration)},`,

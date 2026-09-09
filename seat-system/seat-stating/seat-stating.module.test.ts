@@ -35,7 +35,7 @@ function short(key: keyof SeatStated): SeatStated {
 test("a seat stating everything is written as a page naming its person", () => {
   const body = seatBody(WHOLE, "athena", ROOT)
   expect(body).toContain("export const athena = {")
-  expect(body).toContain('personSlug: "alan"')
+  expect(body).toContain('person: "alan"')
   expect(body).toContain('role: "definer"')
   expect(body).toContain("onCall: true,")
   expect(body).toContain("} as const satisfies Seat")
@@ -58,7 +58,7 @@ test("a seat whose principal is no person names the seat above it", () => {
   const under = { ...WHOLE, principal: "fleet", parentName: "athena" }
   const body = seatBody(under, "athena-worker", ROOT)
   expect(body).toContain('principalSeatName: "athena"')
-  expect(body).not.toContain("personSlug")
+  expect(body).not.toContain("person:")
 })
 
 test("a seat whose principal is no person and names no seat above is written as no page", () => {
