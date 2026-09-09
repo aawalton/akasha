@@ -5,7 +5,7 @@ export const arkendrithyst017712022EndOfBook4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0177-120-2-2-end-of-book-4",
   title: "120, 2/2, End of Book 4",
-  storySlug: "arkendrithyst",
+  story: "arkendrithyst",
   position: 177,
   ownLength: 10239,
   ownProgress: 10239,

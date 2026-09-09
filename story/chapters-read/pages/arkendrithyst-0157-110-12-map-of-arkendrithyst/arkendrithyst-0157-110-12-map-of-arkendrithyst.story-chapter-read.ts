@@ -4,7 +4,7 @@ export const arkendrithyst015711012MapOfArkendrithyst = {
   id: "01a08393-695b-7e3b-8118-3e5f5f612d0c",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0157-110-12-map-of-arkendrithyst",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 157,
   publishedAt: "2020-11-23",
   unitSlug: "words",

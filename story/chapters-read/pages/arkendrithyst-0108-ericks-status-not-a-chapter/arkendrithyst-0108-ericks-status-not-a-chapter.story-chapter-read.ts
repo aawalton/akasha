@@ -4,7 +4,7 @@ export const arkendrithyst0108EricksStatusNotAChapter = {
   id: "01a08393-0c27-7269-9c9f-a4f0e326f99d",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0108-ericks-status-not-a-chapter",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 108,
   publishedAt: "2020-05-28",
   unitSlug: "words",

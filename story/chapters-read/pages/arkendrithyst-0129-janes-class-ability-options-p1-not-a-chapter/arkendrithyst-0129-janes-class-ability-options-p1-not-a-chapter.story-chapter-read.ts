@@ -4,7 +4,7 @@ export const arkendrithyst0129JanesClassAbilityOptionsP1NotAChapter = {
   id: "01a08393-1f88-77ff-b648-565c7a3a39bf",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0129-janes-class-ability-options-p1-not-a-chapter",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 129,
   publishedAt: "2020-08-13",
   unitSlug: "words",

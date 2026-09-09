@@ -5,7 +5,7 @@ export const arkendrithyst0129JaneSClassAbilityOptionsP1NotAChapter = {
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0129-jane-s-class-ability-options-p1-not-a-chapter",
   title: "Jane's Class Ability Options p1 (not a chapter)",
-  storySlug: "arkendrithyst",
+  story: "arkendrithyst",
   position: 129,
   ownLength: 1140,
   ownProgress: 1140,

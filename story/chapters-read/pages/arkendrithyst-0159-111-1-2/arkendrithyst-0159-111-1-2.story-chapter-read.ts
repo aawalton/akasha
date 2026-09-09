@@ -5,7 +5,7 @@ export const arkendrithyst015911112 = {
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0159-111-1-2",
   title: "111, 1/2",
-  storySlug: "arkendrithyst",
+  story: "arkendrithyst",
   position: 159,
   ownLength: 8557,
   ownProgress: 8557,

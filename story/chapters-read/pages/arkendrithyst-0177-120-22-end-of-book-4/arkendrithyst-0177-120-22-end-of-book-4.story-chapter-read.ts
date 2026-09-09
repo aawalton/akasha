@@ -4,7 +4,7 @@ export const arkendrithyst017712022EndOfBook4 = {
   id: "01a08393-7bbe-7ea3-9576-f2b5120e3cda",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0177-120-22-end-of-book-4",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 177,
   publishedAt: "2021-02-03",
   unitSlug: "words",

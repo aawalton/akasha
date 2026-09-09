@@ -4,7 +4,7 @@ export const arkendrithyst0181FanartAndMaps635597 = {
   id: "01a08393-af98-7adf-950d-fd77e62a0f0a",
   pageTypeSlug: "story-chapter-read",
   slug: "arkendrithyst-0181-fanart-and-maps-635597",
-  storySlug: "story-read/arkendrithyst",
+  story: "story-read/arkendrithyst",
   position: 181,
   publishedAt: "2021-02-22",
   unitSlug: "words",
