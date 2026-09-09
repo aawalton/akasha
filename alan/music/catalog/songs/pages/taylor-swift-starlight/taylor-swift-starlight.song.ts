@@ -5,7 +5,7 @@ export const taylorSwiftStarlight = {
   pageTypeSlug: "song",
   slug: "taylor-swift-starlight",
   title: "Starlight",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "221e6743-fe3c-4a92-af46-112a2462169f",
   externalLink: "https://musicbrainz.org/work/221e6743-fe3c-4a92-af46-112a2462169f",
   source: "musicbrainz",

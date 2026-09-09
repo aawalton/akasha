@@ -5,7 +5,7 @@ export const taylorSwiftTheArcher = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-archer",
   title: "The Archer",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "08c58cba-5b1d-4593-9e3b-e3d50c043f24",
   externalLink: "https://musicbrainz.org/work/08c58cba-5b1d-4593-9e3b-e3d50c043f24",
   source: "musicbrainz",

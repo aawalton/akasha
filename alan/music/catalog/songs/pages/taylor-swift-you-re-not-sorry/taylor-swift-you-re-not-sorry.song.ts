@@ -5,7 +5,7 @@ export const taylorSwiftYouReNotSorry = {
   pageTypeSlug: "song",
   slug: "taylor-swift-you-re-not-sorry",
   title: "You’re Not Sorry",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "9885890a-c662-3375-bd71-99e7887953b3",
   externalLink: "https://musicbrainz.org/work/9885890a-c662-3375-bd71-99e7887953b3",
   source: "musicbrainz",

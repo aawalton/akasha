@@ -5,7 +5,7 @@ export const taylorSwiftSuburbanLegends = {
   pageTypeSlug: "song",
   slug: "taylor-swift-suburban-legends",
   title: "Suburban Legends",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "09531648-3078-4458-a778-c9fbef55afa4",
   externalLink: "https://musicbrainz.org/work/09531648-3078-4458-a778-c9fbef55afa4",
   source: "musicbrainz",

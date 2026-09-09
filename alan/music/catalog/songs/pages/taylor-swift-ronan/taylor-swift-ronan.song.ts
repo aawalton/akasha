@@ -5,7 +5,7 @@ export const taylorSwiftRonan = {
   pageTypeSlug: "song",
   slug: "taylor-swift-ronan",
   title: "Ronan",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "caecc528-1dbb-4228-bbbe-18f7d2da1982",
   externalLink: "https://musicbrainz.org/work/caecc528-1dbb-4228-bbbe-18f7d2da1982",
   source: "musicbrainz",

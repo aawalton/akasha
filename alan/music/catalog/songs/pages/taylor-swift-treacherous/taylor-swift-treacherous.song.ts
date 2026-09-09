@@ -5,7 +5,7 @@ export const taylorSwiftTreacherous = {
   pageTypeSlug: "song",
   slug: "taylor-swift-treacherous",
   title: "Treacherous",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c26a7f69-b83e-45a5-9d51-0b64cbcf1e95",
   externalLink: "https://musicbrainz.org/work/c26a7f69-b83e-45a5-9d51-0b64cbcf1e95",
   source: "musicbrainz",

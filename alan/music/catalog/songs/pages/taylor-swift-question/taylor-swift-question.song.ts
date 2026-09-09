@@ -5,7 +5,7 @@ export const taylorSwiftQuestion = {
   pageTypeSlug: "song",
   slug: "taylor-swift-question",
   title: "Question…?",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "5a5bef29-1511-4f50-9681-45464830c905",
   externalLink: "https://musicbrainz.org/work/5a5bef29-1511-4f50-9681-45464830c905",
   source: "musicbrainz",

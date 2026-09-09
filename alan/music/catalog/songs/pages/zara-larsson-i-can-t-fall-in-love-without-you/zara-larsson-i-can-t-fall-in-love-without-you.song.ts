@@ -5,7 +5,7 @@ export const zaraLarssonICanTFallInLoveWithoutYou = {
   pageTypeSlug: "song",
   slug: "zara-larsson-i-can-t-fall-in-love-without-you",
   title: "I Can’t Fall in Love Without You",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "bde3852d-c1e9-4755-8126-f77bad5a2b6a",
   externalLink: "https://musicbrainz.org/work/bde3852d-c1e9-4755-8126-f77bad5a2b6a",
   source: "musicbrainz",

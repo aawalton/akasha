@@ -5,7 +5,7 @@ export const zaraLarssonCanTHoldBack = {
   pageTypeSlug: "song",
   slug: "zara-larsson-can-t-hold-back",
   title: "Can’t Hold Back",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "8bb6800f-c92c-4512-8571-adde50919af2",
   externalLink: "https://musicbrainz.org/work/8bb6800f-c92c-4512-8571-adde50919af2",
   source: "musicbrainz",

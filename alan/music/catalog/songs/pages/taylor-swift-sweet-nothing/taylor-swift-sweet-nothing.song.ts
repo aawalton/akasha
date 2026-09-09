@@ -5,7 +5,7 @@ export const taylorSwiftSweetNothing = {
   pageTypeSlug: "song",
   slug: "taylor-swift-sweet-nothing",
   title: "Sweet Nothing",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "d35b7694-9858-4026-bdd2-424f9e9ff528",
   externalLink: "https://musicbrainz.org/work/d35b7694-9858-4026-bdd2-424f9e9ff528",
   source: "musicbrainz",

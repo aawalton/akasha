@@ -5,7 +5,7 @@ export const zaraLarssonRightHere = {
   pageTypeSlug: "song",
   slug: "zara-larsson-right-here",
   title: "Right Here",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "4a61c66b-3c37-4153-bc52-3d7ce820989e",
   externalLink: "https://musicbrainz.org/work/4a61c66b-3c37-4153-bc52-3d7ce820989e",
   source: "musicbrainz",

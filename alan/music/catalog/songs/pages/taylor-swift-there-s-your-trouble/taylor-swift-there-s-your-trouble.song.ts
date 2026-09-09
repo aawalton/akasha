@@ -5,7 +5,7 @@ export const taylorSwiftThereSYourTrouble = {
   pageTypeSlug: "song",
   slug: "taylor-swift-there-s-your-trouble",
   title: "There’s Your Trouble",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "8c657e67-af75-4f46-a505-6113a11e4623",
   externalLink: "https://musicbrainz.org/work/8c657e67-af75-4f46-a505-6113a11e4623",
   source: "musicbrainz",

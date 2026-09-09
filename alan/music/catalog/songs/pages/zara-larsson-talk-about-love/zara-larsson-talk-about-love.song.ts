@@ -5,7 +5,7 @@ export const zaraLarssonTalkAboutLove = {
   pageTypeSlug: "song",
   slug: "zara-larsson-talk-about-love",
   title: "Talk About Love",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "4dc5b1b6-986c-4f8f-b869-6dd67b924e88",
   externalLink: "https://musicbrainz.org/work/4dc5b1b6-986c-4f8f-b869-6dd67b924e88",
   source: "musicbrainz",

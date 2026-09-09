@@ -5,7 +5,7 @@ export const zaraLarssonABrandNewDay = {
   pageTypeSlug: "song",
   slug: "zara-larsson-a-brand-new-day",
   title: "A Brand New Day",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "b7bacded-d186-484a-abea-d9b5d85188e1",
   externalLink: "https://musicbrainz.org/work/b7bacded-d186-484a-abea-d9b5d85188e1",
   source: "musicbrainz",

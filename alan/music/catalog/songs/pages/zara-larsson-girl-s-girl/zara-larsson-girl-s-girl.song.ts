@@ -5,7 +5,7 @@ export const zaraLarssonGirlSGirl = {
   pageTypeSlug: "song",
   slug: "zara-larsson-girl-s-girl",
   title: "Girl’s Girl",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "23989f54-ec6e-4345-8501-4abc021e4fd4",
   externalLink: "https://musicbrainz.org/work/23989f54-ec6e-4345-8501-4abc021e4fd4",
   source: "musicbrainz",

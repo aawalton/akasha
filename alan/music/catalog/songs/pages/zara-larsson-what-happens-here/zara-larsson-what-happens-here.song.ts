@@ -5,7 +5,7 @@ export const zaraLarssonWhatHappensHere = {
   pageTypeSlug: "song",
   slug: "zara-larsson-what-happens-here",
   title: "What Happens Here",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "8df788f9-3c40-4623-93ff-ef0eca47acd2",
   externalLink: "https://musicbrainz.org/work/8df788f9-3c40-4623-93ff-ef0eca47acd2",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftVigilanteShit = {
   pageTypeSlug: "song",
   slug: "taylor-swift-vigilante-shit",
   title: "Vigilante Shit",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "36330f36-f59a-47d4-9cfe-9434b8d25e88",
   externalLink: "https://musicbrainz.org/work/36330f36-f59a-47d4-9cfe-9434b8d25e88",
   source: "musicbrainz",

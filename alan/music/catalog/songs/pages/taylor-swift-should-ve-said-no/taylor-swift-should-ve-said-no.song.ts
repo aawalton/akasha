@@ -5,7 +5,7 @@ export const taylorSwiftShouldVeSaidNo = {
   pageTypeSlug: "song",
   slug: "taylor-swift-should-ve-said-no",
   title: "Should’ve Said No",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "d45231e1-49b5-4684-b7d8-e304b15982f7",
   externalLink: "https://musicbrainz.org/work/d45231e1-49b5-4684-b7d8-e304b15982f7",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftTheBolter = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-bolter",
   title: "The Bolter",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c5269eba-eb09-4f50-be25-696a65084de5",
   externalLink: "https://musicbrainz.org/work/c5269eba-eb09-4f50-be25-696a65084de5",
   source: "musicbrainz",

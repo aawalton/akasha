@@ -5,7 +5,7 @@ export const taylorSwiftNewRomantics = {
   pageTypeSlug: "song",
   slug: "taylor-swift-new-romantics",
   title: "New Romantics",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "8828a9c2-ffde-429f-b3e7-de6a73fbfd36",
   externalLink: "https://musicbrainz.org/work/8828a9c2-ffde-429f-b3e7-de6a73fbfd36",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftSilentNight = {
   pageTypeSlug: "song",
   slug: "taylor-swift-silent-night",
   title: "Silent Night",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "590e5567-c188-31f0-b7a8-a94e7e51c7b3",
   externalLink: "https://musicbrainz.org/work/590e5567-c188-31f0-b7a8-a94e7e51c7b3",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonDonTLetMeBeYours = {
   pageTypeSlug: "song",
   slug: "zara-larsson-don-t-let-me-be-yours",
   title: "Don’t Let Me Be Yours",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "29897144-3162-4724-b2ab-0307b766009a",
   externalLink: "https://musicbrainz.org/work/29897144-3162-4724-b2ab-0307b766009a",
   source: "musicbrainz",

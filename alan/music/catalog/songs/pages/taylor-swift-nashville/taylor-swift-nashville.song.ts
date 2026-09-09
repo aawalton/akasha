@@ -5,7 +5,7 @@ export const taylorSwiftNashville = {
   pageTypeSlug: "song",
   slug: "taylor-swift-nashville",
   title: "Nashville",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b9ba7aa2-bc9b-4620-b4c4-0272db6cb991",
   externalLink: "https://musicbrainz.org/work/b9ba7aa2-bc9b-4620-b4c4-0272db6cb991",
   source: "musicbrainz",

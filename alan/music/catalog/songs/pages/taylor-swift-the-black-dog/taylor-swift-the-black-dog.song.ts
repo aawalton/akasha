@@ -5,7 +5,7 @@ export const taylorSwiftTheBlackDog = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-black-dog",
   title: "The Black Dog",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "60c70525-0bcd-483a-9fd2-ff7b10cfb069",
   externalLink: "https://musicbrainz.org/work/60c70525-0bcd-483a-9fd2-ff7b10cfb069",
   source: "musicbrainz",

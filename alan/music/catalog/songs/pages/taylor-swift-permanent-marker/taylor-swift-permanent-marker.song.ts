@@ -5,7 +5,7 @@ export const taylorSwiftPermanentMarker = {
   pageTypeSlug: "song",
   slug: "taylor-swift-permanent-marker",
   title: "Permanent Marker",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "a37d7744-9232-4ae6-a730-221b6505fb12",
   externalLink: "https://musicbrainz.org/work/a37d7744-9232-4ae6-a730-221b6505fb12",
   source: "musicbrainz",

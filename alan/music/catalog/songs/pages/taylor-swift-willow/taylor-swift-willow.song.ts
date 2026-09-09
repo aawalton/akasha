@@ -5,7 +5,7 @@ export const taylorSwiftWillow = {
   pageTypeSlug: "song",
   slug: "taylor-swift-willow",
   title: "willow",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "d4333f22-db44-42e5-adba-f7732570a49f",
   externalLink: "https://musicbrainz.org/work/d4333f22-db44-42e5-adba-f7732570a49f",
   source: "musicbrainz",

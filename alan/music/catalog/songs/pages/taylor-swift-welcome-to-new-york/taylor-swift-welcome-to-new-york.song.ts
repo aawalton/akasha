@@ -5,7 +5,7 @@ export const taylorSwiftWelcomeToNewYork = {
   pageTypeSlug: "song",
   slug: "taylor-swift-welcome-to-new-york",
   title: "Welcome to New York",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c97e9e09-1576-4767-b53d-0ebf8b0dc5bb",
   externalLink: "https://musicbrainz.org/work/c97e9e09-1576-4767-b53d-0ebf8b0dc5bb",
   source: "musicbrainz",

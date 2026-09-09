@@ -5,7 +5,7 @@ export const taylorSwiftTheSweetEscape = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-sweet-escape",
   title: "The Sweet Escape",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "76524660-faf5-30ae-831d-9026dcf88b8f",
   externalLink: "https://musicbrainz.org/work/76524660-faf5-30ae-831d-9026dcf88b8f",
   source: "musicbrainz",

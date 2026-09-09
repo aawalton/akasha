@@ -5,7 +5,7 @@ export const zaraLarssonMoreMore = {
   pageTypeSlug: "song",
   slug: "zara-larsson-more-more",
   title: "MORE & MORE",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "5aedf1e4-f7f4-439b-a1e0-e702d7c940f7",
   externalLink: "https://musicbrainz.org/work/5aedf1e4-f7f4-439b-a1e0-e702d7c940f7",
   source: "musicbrainz",

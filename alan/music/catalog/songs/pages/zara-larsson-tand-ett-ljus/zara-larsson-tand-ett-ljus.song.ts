@@ -5,7 +5,7 @@ export const zaraLarssonTandEttLjus = {
   pageTypeSlug: "song",
   slug: "zara-larsson-tand-ett-ljus",
   title: "Tänd ett ljus",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "9ea121c5-b09d-4396-b7de-0fad1aa96e7e",
   externalLink: "https://musicbrainz.org/work/9ea121c5-b09d-4396-b7de-0fad1aa96e7e",
   source: "musicbrainz",

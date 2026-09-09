@@ -5,7 +5,7 @@ export const taylorSwiftMean = {
   pageTypeSlug: "song",
   slug: "taylor-swift-mean",
   title: "Mean",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "99ab9108-8c70-3578-a9ff-0fd74729c622",
   externalLink: "https://musicbrainz.org/work/99ab9108-8c70-3578-a9ff-0fd74729c622",
   source: "musicbrainz",

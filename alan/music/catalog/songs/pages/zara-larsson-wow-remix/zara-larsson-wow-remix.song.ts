@@ -5,7 +5,7 @@ export const zaraLarssonWowRemix = {
   pageTypeSlug: "song",
   slug: "zara-larsson-wow-remix",
   title: "WOW (remix)",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "bd1ab8d8-d92d-4b3a-b6bc-1368eed04d71",
   externalLink: "https://musicbrainz.org/work/bd1ab8d8-d92d-4b3a-b6bc-1368eed04d71",
   source: "musicbrainz",

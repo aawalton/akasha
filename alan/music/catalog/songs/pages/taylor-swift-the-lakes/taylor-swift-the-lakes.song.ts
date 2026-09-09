@@ -5,7 +5,7 @@ export const taylorSwiftTheLakes = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-lakes",
   title: "the lakes",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "7cf336af-9d60-4b9d-9c99-82e86fc7a8e3",
   externalLink: "https://musicbrainz.org/work/7cf336af-9d60-4b9d-9c99-82e86fc7a8e3",
   source: "musicbrainz",

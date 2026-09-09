@@ -5,7 +5,7 @@ export const zaraLarssonSoundtrack = {
   pageTypeSlug: "song",
   slug: "zara-larsson-soundtrack",
   title: "Soundtrack",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "bb20316c-177b-42dd-8efd-550a235e1625",
   externalLink: "https://musicbrainz.org/work/bb20316c-177b-42dd-8efd-550a235e1625",
   source: "musicbrainz",

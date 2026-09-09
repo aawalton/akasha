@@ -5,7 +5,7 @@ export const taylorSwiftNeedYouNow = {
   pageTypeSlug: "song",
   slug: "taylor-swift-need-you-now",
   title: "Need You Now",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3de1ab2b-cfd0-4113-815d-816e3448568c",
   externalLink: "https://musicbrainz.org/work/3de1ab2b-cfd0-4113-815d-816e3448568c",
   source: "musicbrainz",

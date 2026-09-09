@@ -5,7 +5,7 @@ export const taylorSwiftNothingNew = {
   pageTypeSlug: "song",
   slug: "taylor-swift-nothing-new",
   title: "Nothing New",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "a3e66fff-9c5a-4cc4-a783-ea2be3848d6c",
   externalLink: "https://musicbrainz.org/work/a3e66fff-9c5a-4cc4-a783-ea2be3848d6c",
   source: "musicbrainz",

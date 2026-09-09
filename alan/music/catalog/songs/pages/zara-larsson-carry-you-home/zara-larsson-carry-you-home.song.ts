@@ -5,7 +5,7 @@ export const zaraLarssonCarryYouHome = {
   pageTypeSlug: "song",
   slug: "zara-larsson-carry-you-home",
   title: "Carry You Home",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "3531e5c3-3dcc-4173-98d8-025908b2c3da",
   externalLink: "https://musicbrainz.org/work/3531e5c3-3dcc-4173-98d8-025908b2c3da",
   source: "musicbrainz",

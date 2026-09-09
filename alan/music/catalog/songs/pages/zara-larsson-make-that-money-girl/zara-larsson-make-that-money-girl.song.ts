@@ -5,7 +5,7 @@ export const zaraLarssonMakeThatMoneyGirl = {
   pageTypeSlug: "song",
   slug: "zara-larsson-make-that-money-girl",
   title: "Make That Money Girl",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "cc5a8332-554d-48a3-8462-6ee28c7bc8e7",
   externalLink: "https://musicbrainz.org/work/cc5a8332-554d-48a3-8462-6ee28c7bc8e7",
   source: "musicbrainz",

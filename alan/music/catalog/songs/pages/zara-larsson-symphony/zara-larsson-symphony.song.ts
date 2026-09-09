@@ -5,7 +5,7 @@ export const zaraLarssonSymphony = {
   pageTypeSlug: "song",
   slug: "zara-larsson-symphony",
   title: "Symphony",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "2466c3b4-6c38-430b-aeb2-7fabee9918b9",
   externalLink: "https://musicbrainz.org/work/2466c3b4-6c38-430b-aeb2-7fabee9918b9",
   source: "musicbrainz",

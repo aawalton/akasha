@@ -5,7 +5,7 @@ export const zaraLarssonMeltAway = {
   pageTypeSlug: "song",
   slug: "zara-larsson-melt-away",
   title: "Melt Away",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "c444ca1b-80eb-4291-8c4b-268317ac89a8",
   externalLink: "https://musicbrainz.org/work/c444ca1b-80eb-4291-8c4b-268317ac89a8",
   source: "musicbrainz",

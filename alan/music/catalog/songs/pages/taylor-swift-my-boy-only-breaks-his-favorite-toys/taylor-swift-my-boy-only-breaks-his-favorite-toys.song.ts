@@ -5,7 +5,7 @@ export const taylorSwiftMyBoyOnlyBreaksHisFavoriteToys = {
   pageTypeSlug: "song",
   slug: "taylor-swift-my-boy-only-breaks-his-favorite-toys",
   title: "My Boy Only Breaks His Favorite Toys",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "9bf31510-840c-4814-80a9-3f4bd43a7113",
   externalLink: "https://musicbrainz.org/work/9bf31510-840c-4814-80a9-3f4bd43a7113",
   source: "musicbrainz",

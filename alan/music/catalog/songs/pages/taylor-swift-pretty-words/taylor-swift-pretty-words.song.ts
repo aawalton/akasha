@@ -5,7 +5,7 @@ export const taylorSwiftPrettyWords = {
   pageTypeSlug: "song",
   slug: "taylor-swift-pretty-words",
   title: "Pretty Words",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "e61e8848-04db-4208-9d67-4e60bab35593",
   externalLink: "https://musicbrainz.org/work/e61e8848-04db-4208-9d67-4e60bab35593",
   source: "musicbrainz",

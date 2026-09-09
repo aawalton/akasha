@@ -5,7 +5,7 @@ export const zaraLarssonNeverGonnaDie = {
   pageTypeSlug: "song",
   slug: "zara-larsson-never-gonna-die",
   title: "Never Gonna Die",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "4440591c-ddd0-4bdf-acf4-ab39a91696cb",
   externalLink: "https://musicbrainz.org/work/4440591c-ddd0-4bdf-acf4-ab39a91696cb",
   source: "musicbrainz",

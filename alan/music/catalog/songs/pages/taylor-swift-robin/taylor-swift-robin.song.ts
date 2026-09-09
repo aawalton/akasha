@@ -5,7 +5,7 @@ export const taylorSwiftRobin = {
   pageTypeSlug: "song",
   slug: "taylor-swift-robin",
   title: "Robin",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b37a420f-876e-498f-aa2b-7f846695f407",
   externalLink: "https://musicbrainz.org/work/b37a420f-876e-498f-aa2b-7f846695f407",
   source: "musicbrainz",

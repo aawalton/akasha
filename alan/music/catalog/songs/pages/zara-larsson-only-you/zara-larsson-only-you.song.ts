@@ -5,7 +5,7 @@ export const zaraLarssonOnlyYou = {
   pageTypeSlug: "song",
   slug: "zara-larsson-only-you",
   title: "Only You",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "d35db7a6-f7c2-4003-9ebf-40f41f214c11",
   externalLink: "https://musicbrainz.org/work/d35db7a6-f7c2-4003-9ebf-40f41f214c11",
   source: "musicbrainz",

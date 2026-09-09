@@ -5,7 +5,7 @@ export const taylorSwiftTheAlbatross = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-albatross",
   title: "The Albatross",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b16483fe-228c-4120-94bc-d724db159493",
   externalLink: "https://musicbrainz.org/work/b16483fe-228c-4120-94bc-d724db159493",
   source: "musicbrainz",

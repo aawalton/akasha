@@ -5,7 +5,7 @@ export const taylorSwiftMazelTov = {
   pageTypeSlug: "song",
   slug: "taylor-swift-mazel-tov",
   title: "Mazel Tov",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3eaad3a3-2aae-42e9-aa42-2ba1aba9ea1b",
   externalLink: "https://musicbrainz.org/work/3eaad3a3-2aae-42e9-aa42-2ba1aba9ea1b",
   source: "musicbrainz",

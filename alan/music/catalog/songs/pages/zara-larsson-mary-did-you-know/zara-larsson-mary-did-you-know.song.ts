@@ -5,7 +5,7 @@ export const zaraLarssonMaryDidYouKnow = {
   pageTypeSlug: "song",
   slug: "zara-larsson-mary-did-you-know",
   title: "Mary, Did You Know?",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "0d13f922-ddbb-4382-83bb-a500c37ca563",
   externalLink: "https://musicbrainz.org/work/0d13f922-ddbb-4382-83bb-a500c37ca563",
   source: "musicbrainz",

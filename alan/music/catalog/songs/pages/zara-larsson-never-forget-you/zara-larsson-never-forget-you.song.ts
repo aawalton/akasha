@@ -5,7 +5,7 @@ export const zaraLarssonNeverForgetYou = {
   pageTypeSlug: "song",
   slug: "zara-larsson-never-forget-you",
   title: "Never Forget You",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "2ad92e9a-0981-42da-95fc-e654659a8b98",
   externalLink: "https://musicbrainz.org/work/2ad92e9a-0981-42da-95fc-e654659a8b98",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonDonTWorryBoutMe = {
   pageTypeSlug: "song",
   slug: "zara-larsson-don-t-worry-bout-me",
   title: "Don’t Worry Bout Me",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "c0b15f20-62aa-4888-8103-4b64ac6b20bf",
   externalLink: "https://musicbrainz.org/work/c0b15f20-62aa-4888-8103-4b64ac6b20bf",
   source: "musicbrainz",

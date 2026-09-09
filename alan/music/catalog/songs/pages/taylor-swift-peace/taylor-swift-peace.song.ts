@@ -5,7 +5,7 @@ export const taylorSwiftPeace = {
   pageTypeSlug: "song",
   slug: "taylor-swift-peace",
   title: "peace",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "01a657bc-9eab-4839-9862-bb5f9ca71556",
   externalLink: "https://musicbrainz.org/work/01a657bc-9eab-4839-9862-bb5f9ca71556",
   source: "musicbrainz",

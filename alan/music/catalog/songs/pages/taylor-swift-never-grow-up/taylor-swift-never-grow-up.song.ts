@@ -5,7 +5,7 @@ export const taylorSwiftNeverGrowUp = {
   pageTypeSlug: "song",
   slug: "taylor-swift-never-grow-up",
   title: "Never Grow Up",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "d81df650-873c-3a8d-a021-bf66f1cc5804",
   externalLink: "https://musicbrainz.org/work/d81df650-873c-3a8d-a021-bf66f1cc5804",
   source: "musicbrainz",

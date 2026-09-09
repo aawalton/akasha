@@ -5,7 +5,7 @@ export const taylorSwiftSpeakNow = {
   pageTypeSlug: "song",
   slug: "taylor-swift-speak-now",
   title: "Speak Now",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ff0bc1b4-ba5e-3a4f-8447-17da5cb7c722",
   externalLink: "https://musicbrainz.org/work/ff0bc1b4-ba5e-3a4f-8447-17da5cb7c722",
   source: "musicbrainz",

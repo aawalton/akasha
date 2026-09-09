@@ -5,7 +5,7 @@ export const zaraLarssonSheSNotMePt2 = {
   pageTypeSlug: "song",
   slug: "zara-larsson-she-s-not-me-pt-2",
   title: "She's Not Me, Pt. 2",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "af6e6540-356b-4b88-bd6c-4fa271612c89",
   externalLink: "https://musicbrainz.org/work/af6e6540-356b-4b88-bd6c-4fa271612c89",
   source: "musicbrainz",

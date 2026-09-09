@@ -5,7 +5,7 @@ export const taylorSwiftWhiteBlankPage = {
   pageTypeSlug: "song",
   slug: "taylor-swift-white-blank-page",
   title: "White Blank Page",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "5eccfb98-c5b6-4784-acd6-4457a6c21e5f",
   externalLink: "https://musicbrainz.org/work/5eccfb98-c5b6-4784-acd6-4457a6c21e5f",
   source: "musicbrainz",

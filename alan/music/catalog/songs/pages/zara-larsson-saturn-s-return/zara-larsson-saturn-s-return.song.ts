@@ -5,7 +5,7 @@ export const zaraLarssonSaturnSReturn = {
   pageTypeSlug: "song",
   slug: "zara-larsson-saturn-s-return",
   title: "Saturn’s Return",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "71020844-88d8-46d9-bfcb-52846f0593e9",
   externalLink: "https://musicbrainz.org/work/71020844-88d8-46d9-bfcb-52846f0593e9",
   source: "musicbrainz",

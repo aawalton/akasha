@@ -5,7 +5,7 @@ export const taylorSwiftStayStayStay = {
   pageTypeSlug: "song",
   slug: "taylor-swift-stay-stay-stay",
   title: "Stay Stay Stay",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b5543961-407d-4a07-a96a-b0d8cbf5b5f1",
   externalLink: "https://musicbrainz.org/work/b5543961-407d-4a07-a96a-b0d8cbf5b5f1",
   source: "musicbrainz",

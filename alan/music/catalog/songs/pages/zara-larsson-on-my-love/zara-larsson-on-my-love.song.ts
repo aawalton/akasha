@@ -5,7 +5,7 @@ export const zaraLarssonOnMyLove = {
   pageTypeSlug: "song",
   slug: "zara-larsson-on-my-love",
   title: "On My Love",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "fce41d89-b52d-455c-91e0-97343ebb6275",
   externalLink: "https://musicbrainz.org/work/fce41d89-b52d-455c-91e0-97343ebb6275",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftTheProphecy = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-prophecy",
   title: "The Prophecy",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "38d41a0d-a8e5-424f-9dbb-4f4b5d086498",
   externalLink: "https://musicbrainz.org/work/38d41a0d-a8e5-424f-9dbb-4f4b5d086498",
   source: "musicbrainz",

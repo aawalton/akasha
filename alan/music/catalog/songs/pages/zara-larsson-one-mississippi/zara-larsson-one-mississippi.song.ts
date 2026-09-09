@@ -5,7 +5,7 @@ export const zaraLarssonOneMississippi = {
   pageTypeSlug: "song",
   slug: "zara-larsson-one-mississippi",
   title: "One Mississippi",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "474dc897-57a2-4a43-86dc-6830b4f44aae",
   externalLink: "https://musicbrainz.org/work/474dc897-57a2-4a43-86dc-6830b4f44aae",
   source: "musicbrainz",

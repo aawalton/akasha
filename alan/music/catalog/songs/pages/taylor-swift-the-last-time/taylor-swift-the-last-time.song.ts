@@ -5,7 +5,7 @@ export const taylorSwiftTheLastTime = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-last-time",
   title: "The Last Time",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b0b11e8b-2f0d-43e9-8112-d9831bd0981a",
   externalLink: "https://musicbrainz.org/work/b0b11e8b-2f0d-43e9-8112-d9831bd0981a",
   source: "musicbrainz",

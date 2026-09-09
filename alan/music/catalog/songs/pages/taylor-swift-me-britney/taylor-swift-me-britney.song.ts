@@ -5,7 +5,7 @@ export const taylorSwiftMeBritney = {
   pageTypeSlug: "song",
   slug: "taylor-swift-me-britney",
   title: "Me & Britney",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "651091fc-69bb-4fdd-80f6-16d1d4dbb65a",
   externalLink: "https://musicbrainz.org/work/651091fc-69bb-4fdd-80f6-16d1d4dbb65a",
   source: "musicbrainz",

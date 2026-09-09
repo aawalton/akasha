@@ -5,7 +5,7 @@ export const zaraLarssonINeedLove = {
   pageTypeSlug: "song",
   slug: "zara-larsson-i-need-love",
   title: "I Need Love",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "f4b18f75-8eb2-4370-8301-3c2505613df7",
   externalLink: "https://musicbrainz.org/work/f4b18f75-8eb2-4370-8301-3c2505613df7",
   source: "musicbrainz",

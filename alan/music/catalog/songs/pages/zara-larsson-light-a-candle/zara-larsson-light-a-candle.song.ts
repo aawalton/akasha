@@ -5,7 +5,7 @@ export const zaraLarssonLightACandle = {
   pageTypeSlug: "song",
   slug: "zara-larsson-light-a-candle",
   title: "Light a Candle",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "90aaa309-d42a-475c-8107-bed68bac16ea",
   externalLink: "https://musicbrainz.org/work/90aaa309-d42a-475c-8107-bed68bac16ea",
   source: "musicbrainz",

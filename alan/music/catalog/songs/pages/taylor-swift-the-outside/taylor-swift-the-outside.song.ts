@@ -5,7 +5,7 @@ export const taylorSwiftTheOutside = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-outside",
   title: "The Outside",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "bed40b3a-2786-4fc0-9e22-2bf143c93c1d",
   externalLink: "https://musicbrainz.org/work/bed40b3a-2786-4fc0-9e22-2bf143c93c1d",
   source: "musicbrainz",

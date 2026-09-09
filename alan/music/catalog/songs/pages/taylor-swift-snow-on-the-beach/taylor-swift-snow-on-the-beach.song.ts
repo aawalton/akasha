@@ -5,7 +5,7 @@ export const taylorSwiftSnowOnTheBeach = {
   pageTypeSlug: "song",
   slug: "taylor-swift-snow-on-the-beach",
   title: "Snow on the Beach",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "d48b6516-f503-48a8-b15d-c0b6f46c8622",
   externalLink: "https://musicbrainz.org/work/d48b6516-f503-48a8-b15d-c0b6f46c8622",
   source: "musicbrainz",

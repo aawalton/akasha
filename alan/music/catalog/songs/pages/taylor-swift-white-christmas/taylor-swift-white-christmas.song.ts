@@ -5,7 +5,7 @@ export const taylorSwiftWhiteChristmas = {
   pageTypeSlug: "song",
   slug: "taylor-swift-white-christmas",
   title: "White Christmas",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "30daa999-81af-34c3-bf22-b3c1c41c8c01",
   externalLink: "https://musicbrainz.org/work/30daa999-81af-34c3-bf22-b3c1c41c8c01",
   source: "musicbrainz",

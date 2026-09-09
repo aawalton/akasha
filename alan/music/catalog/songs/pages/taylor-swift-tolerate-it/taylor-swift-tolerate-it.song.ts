@@ -5,7 +5,7 @@ export const taylorSwiftTolerateIt = {
   pageTypeSlug: "song",
   slug: "taylor-swift-tolerate-it",
   title: "tolerate it",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "8891737d-96ae-459c-86ac-ae11399652d7",
   externalLink: "https://musicbrainz.org/work/8891737d-96ae-459c-86ac-ae11399652d7",
   source: "musicbrainz",

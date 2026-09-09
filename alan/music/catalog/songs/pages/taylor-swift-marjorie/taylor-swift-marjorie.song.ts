@@ -5,7 +5,7 @@ export const taylorSwiftMarjorie = {
   pageTypeSlug: "song",
   slug: "taylor-swift-marjorie",
   title: "marjorie",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "789801dc-550e-431f-9599-d9b83285ff71",
   externalLink: "https://musicbrainz.org/work/789801dc-550e-431f-9599-d9b83285ff71",
   source: "musicbrainz",

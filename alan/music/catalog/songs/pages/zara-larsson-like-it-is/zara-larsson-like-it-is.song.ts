@@ -5,7 +5,7 @@ export const zaraLarssonLikeItIs = {
   pageTypeSlug: "song",
   slug: "zara-larsson-like-it-is",
   title: "Like It Is",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "79ccdc85-594d-488d-84e6-655580a0335f",
   externalLink: "https://musicbrainz.org/work/79ccdc85-594d-488d-84e6-655580a0335f",
   source: "musicbrainz",

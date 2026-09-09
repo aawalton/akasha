@@ -5,7 +5,7 @@ export const taylorSwiftTaylorForPresident = {
   pageTypeSlug: "song",
   slug: "taylor-swift-taylor-for-president",
   title: "Taylor For President",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ee5682d1-c897-42a0-b811-acd6a55ce416",
   externalLink: "https://musicbrainz.org/work/ee5682d1-c897-42a0-b811-acd6a55ce416",
   source: "musicbrainz",

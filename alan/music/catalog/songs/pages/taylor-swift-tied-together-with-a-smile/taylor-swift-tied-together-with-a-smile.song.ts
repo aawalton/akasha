@@ -5,7 +5,7 @@ export const taylorSwiftTiedTogetherWithASmile = {
   pageTypeSlug: "song",
   slug: "taylor-swift-tied-together-with-a-smile",
   title: "Tied Together With a Smile",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "2905cd22-4776-4103-b584-ce490b8cadf1",
   externalLink: "https://musicbrainz.org/work/2905cd22-4776-4103-b584-ce490b8cadf1",
   source: "musicbrainz",

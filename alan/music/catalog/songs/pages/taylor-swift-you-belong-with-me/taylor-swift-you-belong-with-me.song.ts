@@ -5,7 +5,7 @@ export const taylorSwiftYouBelongWithMe = {
   pageTypeSlug: "song",
   slug: "taylor-swift-you-belong-with-me",
   title: "You Belong with Me",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "4f0b6123-2bbd-3672-a928-b1949a42654d",
   externalLink: "https://musicbrainz.org/work/4f0b6123-2bbd-3672-a928-b1949a42654d",
   source: "musicbrainz",

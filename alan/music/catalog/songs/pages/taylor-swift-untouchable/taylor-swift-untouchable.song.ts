@@ -5,7 +5,7 @@ export const taylorSwiftUntouchable = {
   pageTypeSlug: "song",
   slug: "taylor-swift-untouchable",
   title: "Untouchable",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "4c3d3a79-7930-4586-a85f-cabe706e8c67",
   externalLink: "https://musicbrainz.org/work/4c3d3a79-7930-4586-a85f-cabe706e8c67",
   source: "musicbrainz",

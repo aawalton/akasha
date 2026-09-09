@@ -5,7 +5,7 @@ export const zaraLarssonStickWithYou = {
   pageTypeSlug: "song",
   slug: "zara-larsson-stick-with-you",
   title: "Stick With You",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "20c73f08-9838-4dcb-bdd4-7783eeb8bc8c",
   externalLink: "https://musicbrainz.org/work/20c73f08-9838-4dcb-bdd4-7783eeb8bc8c",
   source: "musicbrainz",

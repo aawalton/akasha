@@ -5,7 +5,7 @@ export const taylorSwiftMaroon = {
   pageTypeSlug: "song",
   slug: "taylor-swift-maroon",
   title: "Maroon",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "6eae06ce-2d2a-4ce6-ba19-2017637adf08",
   externalLink: "https://musicbrainz.org/work/6eae06ce-2d2a-4ce6-ba19-2017637adf08",
   source: "musicbrainz",

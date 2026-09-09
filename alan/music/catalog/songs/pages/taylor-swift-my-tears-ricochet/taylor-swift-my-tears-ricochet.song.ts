@@ -5,7 +5,7 @@ export const taylorSwiftMyTearsRicochet = {
   pageTypeSlug: "song",
   slug: "taylor-swift-my-tears-ricochet",
   title: "my tears ricochet",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3c19b20f-dfa4-469a-9502-8f663f6d7df1",
   externalLink: "https://musicbrainz.org/work/3c19b20f-dfa4-469a-9502-8f663f6d7df1",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftSmokeyBlackNights = {
   pageTypeSlug: "song",
   slug: "taylor-swift-smokey-black-nights",
   title: "Smokey Black Nights",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ecd46d84-5530-4d6f-9631-83227f2751b3",
   externalLink: "https://musicbrainz.org/work/ecd46d84-5530-4d6f-9631-83227f2751b3",
   source: "musicbrainz",

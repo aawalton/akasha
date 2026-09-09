@@ -5,7 +5,7 @@ export const taylorSwiftNewYearSDay = {
   pageTypeSlug: "song",
   slug: "taylor-swift-new-year-s-day",
   title: "New Year’s Day",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "79330f57-d968-4800-aa5e-411f21a7202b",
   externalLink: "https://musicbrainz.org/work/79330f57-d968-4800-aa5e-411f21a7202b",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonPrettyUgly = {
   pageTypeSlug: "song",
   slug: "zara-larsson-pretty-ugly",
   title: "Pretty Ugly",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "244e97ee-16b9-4d39-8c03-e32499867512",
   externalLink: "https://musicbrainz.org/work/244e97ee-16b9-4d39-8c03-e32499867512",
   source: "musicbrainz",

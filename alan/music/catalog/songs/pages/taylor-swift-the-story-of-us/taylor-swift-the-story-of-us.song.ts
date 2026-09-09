@@ -5,7 +5,7 @@ export const taylorSwiftTheStoryOfUs = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-story-of-us",
   title: "The Story of Us",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b8bcf019-1b75-3c08-9207-41ffadc7c52d",
   externalLink: "https://musicbrainz.org/work/b8bcf019-1b75-3c08-9207-41ffadc7c52d",
   source: "musicbrainz",

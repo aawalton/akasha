@@ -5,7 +5,7 @@ export const zaraLarssonMoreThanThisWas = {
   pageTypeSlug: "song",
   slug: "zara-larsson-more-than-this-was",
   title: "More Than This Was",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "fd564aa0-a1f7-4edd-95b7-9f537066ee30",
   externalLink: "https://musicbrainz.org/work/fd564aa0-a1f7-4edd-95b7-9f537066ee30",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonBlueMoon = {
   pageTypeSlug: "song",
   slug: "zara-larsson-blue-moon",
   title: "Blue Moon",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "851c2c67-affd-44ed-bab9-e1f7ac7b26d6",
   externalLink: "https://musicbrainz.org/work/851c2c67-affd-44ed-bab9-e1f7ac7b26d6",
   source: "musicbrainz",

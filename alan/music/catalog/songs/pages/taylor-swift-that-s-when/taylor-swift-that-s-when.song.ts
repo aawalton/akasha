@@ -5,7 +5,7 @@ export const taylorSwiftThatSWhen = {
   pageTypeSlug: "song",
   slug: "taylor-swift-that-s-when",
   title: "That’s When",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "2f832526-91e4-4e09-b950-54b047a7aeff",
   externalLink: "https://musicbrainz.org/work/2f832526-91e4-4e09-b950-54b047a7aeff",
   source: "musicbrainz",

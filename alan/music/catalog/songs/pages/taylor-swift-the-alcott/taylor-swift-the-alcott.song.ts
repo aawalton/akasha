@@ -5,7 +5,7 @@ export const taylorSwiftTheAlcott = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-alcott",
   title: "The Alcott",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "76e74ffe-9eb7-46bc-bf29-f67f89710203",
   externalLink: "https://musicbrainz.org/work/76e74ffe-9eb7-46bc-bf29-f67f89710203",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftTheWayILovedYou = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-way-i-loved-you",
   title: "The Way I Loved You",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "bbd98f0f-98d6-34b0-b927-55dff9c1b8eb",
   externalLink: "https://musicbrainz.org/work/bbd98f0f-98d6-34b0-b927-55dff9c1b8eb",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftMarySSongOhMyMyMy = {
   pageTypeSlug: "song",
   slug: "taylor-swift-mary-s-song-oh-my-my-my",
   title: "Mary’s Song (Oh My My My)",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "123c3c0f-cced-4f8c-ba50-ce8700e53345",
   externalLink: "https://musicbrainz.org/work/123c3c0f-cced-4f8c-ba50-ce8700e53345",
   source: "musicbrainz",

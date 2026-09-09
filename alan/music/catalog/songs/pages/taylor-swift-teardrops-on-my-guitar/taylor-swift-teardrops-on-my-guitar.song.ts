@@ -5,7 +5,7 @@ export const taylorSwiftTeardropsOnMyGuitar = {
   pageTypeSlug: "song",
   slug: "taylor-swift-teardrops-on-my-guitar",
   title: "Teardrops on My Guitar",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "bcffb49d-9d17-43aa-9e0d-88ce7dc4ebfb",
   externalLink: "https://musicbrainz.org/work/bcffb49d-9d17-43aa-9e0d-88ce7dc4ebfb",
   source: "musicbrainz",

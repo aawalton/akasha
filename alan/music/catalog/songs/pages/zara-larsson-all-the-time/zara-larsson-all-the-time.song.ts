@@ -5,7 +5,7 @@ export const zaraLarssonAllTheTime = {
   pageTypeSlug: "song",
   slug: "zara-larsson-all-the-time",
   title: "All the Time",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "5caf5786-f6a5-4c02-969e-819a1f878e54",
   externalLink: "https://musicbrainz.org/work/5caf5786-f6a5-4c02-969e-819a1f878e54",
   source: "musicbrainz",

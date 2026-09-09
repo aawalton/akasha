@@ -5,7 +5,7 @@ export const taylorSwiftOnlyTheYoung = {
   pageTypeSlug: "song",
   slug: "taylor-swift-only-the-young",
   title: "Only the Young",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "7a597473-3eef-48aa-ac6a-49c632523ddc",
   externalLink: "https://musicbrainz.org/work/7a597473-3eef-48aa-ac6a-49c632523ddc",
   source: "musicbrainz",

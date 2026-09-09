@@ -5,7 +5,7 @@ export const taylorSwiftMrPerfectlyFine = {
   pageTypeSlug: "song",
   slug: "taylor-swift-mr-perfectly-fine",
   title: "Mr. Perfectly Fine",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "f4bd40da-3b35-4126-9e6a-f95f38fd2fdb",
   externalLink: "https://musicbrainz.org/work/f4bd40da-3b35-4126-9e6a-f95f38fd2fdb",
   source: "musicbrainz",

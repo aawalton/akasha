@@ -5,7 +5,7 @@ export const zaraLarssonEndless = {
   pageTypeSlug: "song",
   slug: "zara-larsson-endless",
   title: "Endless",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "4e2cf495-0ed9-4fe8-9f74-7f6658855895",
   externalLink: "https://musicbrainz.org/work/4e2cf495-0ed9-4fe8-9f74-7f6658855895",
   source: "musicbrainz",

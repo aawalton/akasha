@@ -5,7 +5,7 @@ export const zaraLarssonWannaBeYourBaby = {
   pageTypeSlug: "song",
   slug: "zara-larsson-wanna-be-your-baby",
   title: "Wanna Be Your Baby",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "6fd4ed9f-3970-48ca-8aed-58b83b54511e",
   externalLink: "https://musicbrainz.org/work/6fd4ed9f-3970-48ca-8aed-58b83b54511e",
   source: "musicbrainz",

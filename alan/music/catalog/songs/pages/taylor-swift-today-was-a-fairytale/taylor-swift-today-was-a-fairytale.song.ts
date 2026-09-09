@@ -5,7 +5,7 @@ export const taylorSwiftTodayWasAFairytale = {
   pageTypeSlug: "song",
   slug: "taylor-swift-today-was-a-fairytale",
   title: "Today Was a Fairytale",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "5f87e828-73a8-4bf7-8d26-592a1403f876",
   externalLink: "https://musicbrainz.org/work/5f87e828-73a8-4bf7-8d26-592a1403f876",
   source: "musicbrainz",

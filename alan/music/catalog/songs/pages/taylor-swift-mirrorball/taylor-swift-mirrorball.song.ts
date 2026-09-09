@@ -5,7 +5,7 @@ export const taylorSwiftMirrorball = {
   pageTypeSlug: "song",
   slug: "taylor-swift-mirrorball",
   title: "mirrorball",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ce6899e0-afcf-497f-b1a8-97c577cb0712",
   externalLink: "https://musicbrainz.org/work/ce6899e0-afcf-497f-b1a8-97c577cb0712",
   source: "musicbrainz",

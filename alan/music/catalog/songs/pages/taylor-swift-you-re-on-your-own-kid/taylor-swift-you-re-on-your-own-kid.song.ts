@@ -5,7 +5,7 @@ export const taylorSwiftYouReOnYourOwnKid = {
   pageTypeSlug: "song",
   slug: "taylor-swift-you-re-on-your-own-kid",
   title: "You’re on Your Own, Kid",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "5888eb73-f509-47a9-a788-62c769f43c99",
   externalLink: "https://musicbrainz.org/work/5888eb73-f509-47a9-a788-62c769f43c99",
   source: "musicbrainz",

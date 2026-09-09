@@ -5,7 +5,7 @@ export const taylorSwiftSoLongLondon = {
   pageTypeSlug: "song",
   slug: "taylor-swift-so-long-london",
   title: "So Long, London",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ab39894b-127f-4791-a3d5-408bcb7c9d4c",
   externalLink: "https://musicbrainz.org/work/ab39894b-127f-4791-a3d5-408bcb7c9d4c",
   source: "musicbrainz",

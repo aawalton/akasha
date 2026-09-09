@@ -5,7 +5,7 @@ export const taylorSwiftThugStory = {
   pageTypeSlug: "song",
   slug: "taylor-swift-thug-story",
   title: "Thug Story",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "34703215-1857-4551-b5d0-7eadc4213c8b",
   externalLink: "https://musicbrainz.org/work/34703215-1857-4551-b5d0-7eadc4213c8b",
   source: "musicbrainz",

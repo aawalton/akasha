@@ -5,7 +5,7 @@ export const taylorSwiftTheBestDay = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-best-day",
   title: "The Best Day",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "f1921180-ce7d-356a-91df-0422b3c71d16",
   externalLink: "https://musicbrainz.org/work/f1921180-ce7d-356a-91df-0422b3c71d16",
   source: "musicbrainz",

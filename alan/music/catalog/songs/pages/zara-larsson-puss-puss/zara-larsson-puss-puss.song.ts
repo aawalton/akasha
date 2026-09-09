@@ -5,7 +5,7 @@ export const zaraLarssonPussPuss = {
   pageTypeSlug: "song",
   slug: "zara-larsson-puss-puss",
   title: "Puss Puss",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "96237dfe-36ca-44c1-9d2b-f1a39c983ed3",
   externalLink: "https://musicbrainz.org/work/96237dfe-36ca-44c1-9d2b-f1a39c983ed3",
   source: "musicbrainz",

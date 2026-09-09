@@ -5,7 +5,7 @@ export const taylorSwiftWeWereHappy = {
   pageTypeSlug: "song",
   slug: "taylor-swift-we-were-happy",
   title: "We Were Happy",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "899e2daf-b467-4196-b645-c0ffcc157edb",
   externalLink: "https://musicbrainz.org/work/899e2daf-b467-4196-b645-c0ffcc157edb",
   source: "musicbrainz",

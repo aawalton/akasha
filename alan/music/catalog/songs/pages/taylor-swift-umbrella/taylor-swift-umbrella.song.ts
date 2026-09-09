@@ -5,7 +5,7 @@ export const taylorSwiftUmbrella = {
   pageTypeSlug: "song",
   slug: "taylor-swift-umbrella",
   title: "Umbrella",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "a505f520-f503-34e4-9838-a8c459bd0188",
   externalLink: "https://musicbrainz.org/work/a505f520-f503-34e4-9838-a8c459bd0188",
   source: "musicbrainz",

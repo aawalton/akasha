@@ -5,7 +5,7 @@ export const taylorSwiftPhotograph = {
   pageTypeSlug: "song",
   slug: "taylor-swift-photograph",
   title: "Photograph",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "752809e7-634f-375d-b4d2-e637ce40f8b0",
   externalLink: "https://musicbrainz.org/work/752809e7-634f-375d-b4d2-e637ce40f8b0",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonSanktaLucia = {
   pageTypeSlug: "song",
   slug: "zara-larsson-sankta-lucia",
   title: "Sankta Lucia",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "b1fca655-e983-49c1-a0ae-4b1e941b5fde",
   externalLink: "https://musicbrainz.org/work/b1fca655-e983-49c1-a0ae-4b1e941b5fde",
   source: "musicbrainz",

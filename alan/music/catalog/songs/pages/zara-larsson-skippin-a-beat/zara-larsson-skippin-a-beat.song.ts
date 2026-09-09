@@ -5,7 +5,7 @@ export const zaraLarssonSkippinABeat = {
   pageTypeSlug: "song",
   slug: "zara-larsson-skippin-a-beat",
   title: "Skippin a Beat",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "979ba368-f8bf-4c5f-8af9-10ea72a31892",
   externalLink: "https://musicbrainz.org/work/979ba368-f8bf-4c5f-8af9-10ea72a31892",
   source: "musicbrainz",

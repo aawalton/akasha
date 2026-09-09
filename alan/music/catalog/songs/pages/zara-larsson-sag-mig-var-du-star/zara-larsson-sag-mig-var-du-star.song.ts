@@ -5,7 +5,7 @@ export const zaraLarssonSagMigVarDuStar = {
   pageTypeSlug: "song",
   slug: "zara-larsson-sag-mig-var-du-star",
   title: "Säg mig var du står",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "06b18012-eb08-415b-bea8-14454a3684a2",
   externalLink: "https://musicbrainz.org/work/06b18012-eb08-415b-bea8-14454a3684a2",
   source: "musicbrainz",

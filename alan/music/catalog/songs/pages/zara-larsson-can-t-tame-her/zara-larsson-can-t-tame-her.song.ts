@@ -5,7 +5,7 @@ export const zaraLarssonCanTTameHer = {
   pageTypeSlug: "song",
   slug: "zara-larsson-can-t-tame-her",
   title: "Can’t Tame Her",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "7a684ce2-624b-4c26-80d0-841750fee6a4",
   externalLink: "https://musicbrainz.org/work/7a684ce2-624b-4c26-80d0-841750fee6a4",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftMastermind = {
   pageTypeSlug: "song",
   slug: "taylor-swift-mastermind",
   title: "Mastermind",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "9a345806-abf4-468f-b792-529848c28251",
   externalLink: "https://musicbrainz.org/work/9a345806-abf4-468f-b792-529848c28251",
   source: "musicbrainz",

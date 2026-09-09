@@ -5,7 +5,7 @@ export const taylorSwiftLuckyYou = {
   pageTypeSlug: "song",
   slug: "taylor-swift-lucky-you",
   title: "Lucky You",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "6398e063-cf22-40b8-a1e8-15f8ccf64052",
   externalLink: "https://musicbrainz.org/work/6398e063-cf22-40b8-a1e8-15f8ccf64052",
   source: "musicbrainz",

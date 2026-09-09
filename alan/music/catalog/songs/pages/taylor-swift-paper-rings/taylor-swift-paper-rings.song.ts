@@ -5,7 +5,7 @@ export const taylorSwiftPaperRings = {
   pageTypeSlug: "song",
   slug: "taylor-swift-paper-rings",
   title: "Paper Rings",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "58a1bf9f-daba-4d4b-a419-a0d347f16134",
   externalLink: "https://musicbrainz.org/work/58a1bf9f-daba-4d4b-a419-a0d347f16134",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const zaraLarssonWeakHeart = {
   pageTypeSlug: "song",
   slug: "zara-larsson-weak-heart",
   title: "Weak Heart",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "c86c8839-f25f-462a-85ff-79368f0668d1",
   externalLink: "https://musicbrainz.org/work/c86c8839-f25f-462a-85ff-79368f0668d1",
   source: "musicbrainz",

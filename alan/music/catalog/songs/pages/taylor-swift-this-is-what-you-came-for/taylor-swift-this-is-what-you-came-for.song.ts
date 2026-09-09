@@ -5,7 +5,7 @@ export const taylorSwiftThisIsWhatYouCameFor = {
   pageTypeSlug: "song",
   slug: "taylor-swift-this-is-what-you-came-for",
   title: "This Is What You Came For",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "0580745a-cd39-4c40-8d97-9e991d9ab380",
   externalLink: "https://musicbrainz.org/work/0580745a-cd39-4c40-8d97-9e991d9ab380",
   source: "musicbrainz",

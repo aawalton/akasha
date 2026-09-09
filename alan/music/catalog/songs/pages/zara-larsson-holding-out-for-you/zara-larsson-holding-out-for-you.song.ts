@@ -5,7 +5,7 @@ export const zaraLarssonHoldingOutForYou = {
   pageTypeSlug: "song",
   slug: "zara-larsson-holding-out-for-you",
   title: "Holding Out for You",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "0e2aa92d-cdf6-4d58-897c-794e827ce1a4",
   externalLink: "https://musicbrainz.org/work/0e2aa92d-cdf6-4d58-897c-794e827ce1a4",
   source: "musicbrainz",

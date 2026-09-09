@@ -5,7 +5,7 @@ export const taylorSwiftRun2 = {
   pageTypeSlug: "song",
   slug: "taylor-swift-run-2",
   title: "Run",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "a434d31e-cfe3-4ce2-9efb-efce838ebac6",
   externalLink: "https://musicbrainz.org/work/a434d31e-cfe3-4ce2-9efb-efce838ebac6",
   source: "musicbrainz",

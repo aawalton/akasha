@@ -5,7 +5,7 @@ export const taylorSwiftTwoStepsBehind = {
   pageTypeSlug: "song",
   slug: "taylor-swift-two-steps-behind",
   title: "Two Steps Behind",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "daf6e75b-b440-334c-99fb-b0af4fb08dd2",
   externalLink: "https://musicbrainz.org/work/daf6e75b-b440-334c-99fb-b0af4fb08dd2",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftPictureToBurn = {
   pageTypeSlug: "song",
   slug: "taylor-swift-picture-to-burn",
   title: "Picture to Burn",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "f5b65b2b-9cab-45f8-bff8-768160b5d9ed",
   externalLink: "https://musicbrainz.org/work/f5b65b2b-9cab-45f8-bff8-768160b5d9ed",
   source: "musicbrainz",

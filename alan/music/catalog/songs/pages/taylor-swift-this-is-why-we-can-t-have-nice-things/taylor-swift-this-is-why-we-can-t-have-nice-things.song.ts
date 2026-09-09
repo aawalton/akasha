@@ -5,7 +5,7 @@ export const taylorSwiftThisIsWhyWeCanTHaveNiceThings = {
   pageTypeSlug: "song",
   slug: "taylor-swift-this-is-why-we-can-t-have-nice-things",
   title: "This Is Why We Can’t Have Nice Things",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "5b9c4215-654a-4de0-858a-7693bcea9ce9",
   externalLink: "https://musicbrainz.org/work/5b9c4215-654a-4de0-858a-7693bcea9ce9",
   source: "musicbrainz",

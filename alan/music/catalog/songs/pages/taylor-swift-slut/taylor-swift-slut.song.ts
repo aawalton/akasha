@@ -5,7 +5,7 @@ export const taylorSwiftSlut = {
   pageTypeSlug: "song",
   slug: "taylor-swift-slut",
   title: "“Slut!”",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "65d4048f-670c-44b9-8c91-0d8945ca37ee",
   externalLink: "https://musicbrainz.org/work/65d4048f-670c-44b9-8c91-0d8945ca37ee",
   source: "musicbrainz",

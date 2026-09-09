@@ -5,7 +5,7 @@ export const zaraLarssonThisOneSForYou = {
   pageTypeSlug: "song",
   slug: "zara-larsson-this-one-s-for-you",
   title: "This One’s for You",
-  artistSlug: "zara-larsson",
+  artist: "zara-larsson",
   externalId: "1df910ac-8af9-47d1-a163-f0d9051f965d",
   externalLink: "https://musicbrainz.org/work/1df910ac-8af9-47d1-a163-f0d9051f965d",
   source: "musicbrainz",

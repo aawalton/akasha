@@ -5,7 +5,7 @@ export const taylorSwiftThisLove = {
   pageTypeSlug: "song",
   slug: "taylor-swift-this-love",
   title: "This Love",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "1183e3b3-e6c9-46b3-a38a-ebd767ee3104",
   externalLink: "https://musicbrainz.org/work/1183e3b3-e6c9-46b3-a38a-ebd767ee3104",
   source: "musicbrainz",

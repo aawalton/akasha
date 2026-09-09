@@ -5,7 +5,7 @@ export const taylorSwiftWonderland = {
   pageTypeSlug: "song",
   slug: "taylor-swift-wonderland",
   title: "Wonderland",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "f29d46db-d630-4778-a071-de8f3d5fdff2",
   externalLink: "https://musicbrainz.org/work/f29d46db-d630-4778-a071-de8f3d5fdff2",
   source: "musicbrainz",

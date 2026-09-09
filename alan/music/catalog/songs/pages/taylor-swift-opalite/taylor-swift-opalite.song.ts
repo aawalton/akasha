@@ -5,7 +5,7 @@ export const taylorSwiftOpalite = {
   pageTypeSlug: "song",
   slug: "taylor-swift-opalite",
   title: "Opalite",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "eb78d1a6-9d61-4f21-a49e-cca7160a21e2",
   externalLink: "https://musicbrainz.org/work/eb78d1a6-9d61-4f21-a49e-cca7160a21e2",
   source: "musicbrainz",

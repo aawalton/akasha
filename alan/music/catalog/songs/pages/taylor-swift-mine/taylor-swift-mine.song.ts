@@ -5,7 +5,7 @@ export const taylorSwiftMine = {
   pageTypeSlug: "song",
   slug: "taylor-swift-mine",
   title: "Mine",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3b86f1da-4c28-3da1-8f90-632e62e7b521",
   externalLink: "https://musicbrainz.org/work/3b86f1da-4c28-3da1-8f90-632e62e7b521",
   source: "musicbrainz",

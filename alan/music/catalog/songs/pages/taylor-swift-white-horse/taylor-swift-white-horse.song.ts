@@ -5,7 +5,7 @@ export const taylorSwiftWhiteHorse = {
   pageTypeSlug: "song",
   slug: "taylor-swift-white-horse",
   title: "White Horse",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "d643d8f1-3d27-31d7-bc16-d863d7a3f9f9",
   externalLink: "https://musicbrainz.org/work/d643d8f1-3d27-31d7-bc16-d863d7a3f9f9",
   source: "musicbrainz",

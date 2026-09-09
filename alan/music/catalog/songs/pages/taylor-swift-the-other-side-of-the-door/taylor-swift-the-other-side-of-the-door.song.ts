@@ -5,7 +5,7 @@ export const taylorSwiftTheOtherSideOfTheDoor = {
   pageTypeSlug: "song",
   slug: "taylor-swift-the-other-side-of-the-door",
   title: "The Other Side of the Door",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "710273e9-b0ea-4be1-87ca-5b85c39ccd33",
   externalLink: "https://musicbrainz.org/work/710273e9-b0ea-4be1-87ca-5b85c39ccd33",
   source: "musicbrainz",
