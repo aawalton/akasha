@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const alanWebApiMediaEnsure = {
   id: "01a0829f-0364-7bc7-b0cd-39bbde5f5748",

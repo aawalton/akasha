@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const watcher = {
   id: "01a08305-acff-78b1-8828-d1255b856bde",

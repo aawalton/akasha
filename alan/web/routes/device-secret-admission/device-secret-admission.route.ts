@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const deviceSecretAdmission = {
   id: "01a08243-801c-7c22-aeb9-ab9b8c8261dc",

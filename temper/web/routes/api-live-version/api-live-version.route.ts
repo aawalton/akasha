@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const apiLiveVersion = {
   id: "01a082a2-5cce-7494-a17a-6f7d71f5e70b",

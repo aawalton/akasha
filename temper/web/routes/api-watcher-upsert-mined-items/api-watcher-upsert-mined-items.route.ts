@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const apiWatcherUpsertMinedItems = {
   id: "01a082a9-b67b-7606-b042-c4f5c9e5d6ac",

@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const alanWebIdle = {
   id: "01a0882d-7607-7b89-969a-79fa6a1c4168",

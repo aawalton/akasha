@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const alanWebApiDeviceSecretMint = {
   id: "01a08836-2978-7ffe-acee-194c3ed73a89",

@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const archiveOfWorldsApiPageTypes = {
   id: "01a0827f-6769-7ea7-9e32-23e1a3464f49",

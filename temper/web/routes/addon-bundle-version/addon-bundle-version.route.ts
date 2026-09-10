@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const addonBundleVersion = {
   id: "01a072e1-dbd7-744e-a9b5-617a62ed3cbe",

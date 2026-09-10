@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const habitStoplights = {
   id: "01a08244-2b4d-7457-92af-ca9ba4b41c4d",

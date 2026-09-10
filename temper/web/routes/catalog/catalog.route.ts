@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const catalog = {
   id: "01a082ff-607a-72a4-9f87-7ddebe068f34",

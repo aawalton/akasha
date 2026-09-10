@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const companionVersions = {
   id: "01a08294-ce76-7540-86fe-0dddd869093b",

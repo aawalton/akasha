@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const surplus = {
   id: "01a07c5c-cffc-7e06-993e-f7b533204f65",

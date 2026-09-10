@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const widgetTap = {
   id: "01a078aa-cea2-7140-b891-15301912614a",

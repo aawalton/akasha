@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const jennyApiLiveVersion = {
   id: "01a08820-a38e-7615-88d8-a0e4c8eff9f0",

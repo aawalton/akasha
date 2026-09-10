@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const audhdalanApiErrors = {
   id: "01a08289-249b-7758-9a5b-18363c1d249c",

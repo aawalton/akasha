@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const jennyApiPushRegister = {
   id: "01a08822-95b6-72cc-9d33-03c05ed1992a",

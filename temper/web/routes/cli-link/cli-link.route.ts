@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const cliLink = {
   id: "01a082ff-bb0e-7009-a05a-0de50d83ac62",

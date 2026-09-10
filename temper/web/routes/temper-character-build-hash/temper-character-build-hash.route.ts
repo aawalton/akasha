@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const temperCharacterBuildHash = {
   id: "01a0829b-0a45-7aeb-811f-cfa93c486b1c",

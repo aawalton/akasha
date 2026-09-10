@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const completion = {
   id: "01a08301-3485-79cd-8d0c-32533b2be176",

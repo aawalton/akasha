@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const temperUserCompletion = {
   id: "01a0829b-fcc3-7ae8-b06c-7847fef115dc",

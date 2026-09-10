@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const atlasApiLiveVersion = {
   id: "01a08837-9534-724a-bd7e-fd1e5fe6f6c7",

@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const alanWebApiSmsOptIn = {
   id: "01a08836-b1d8-7284-9c85-85d40203b334",

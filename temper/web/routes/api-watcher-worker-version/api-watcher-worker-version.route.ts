@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const apiWatcherWorkerVersion = {
   id: "01a082a7-d208-71a7-9f7e-98632b505ae2",

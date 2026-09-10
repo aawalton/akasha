@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const wallpaper = {
   id: "01a07855-477e-7aa1-8183-3cb381287569",

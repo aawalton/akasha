@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const alanWebApiNavIcon = {
   id: "01a0829c-2416-7e2d-a9f1-7c33b625459e",

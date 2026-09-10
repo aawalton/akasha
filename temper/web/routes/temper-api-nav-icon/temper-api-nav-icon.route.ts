@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const temperApiNavIcon = {
   id: "01a0829a-8f37-7fcf-ad6f-bd2a5be6def4",

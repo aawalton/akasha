@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const apiShoppingOptimize = {
   id: "01a082fe-e61a-7a3e-be82-51fa06a5c379",

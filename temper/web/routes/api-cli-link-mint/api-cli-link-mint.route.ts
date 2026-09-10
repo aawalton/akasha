@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const apiCliLinkMint = {
   id: "01a082a6-73d7-7e9c-9137-3a9700359e86",

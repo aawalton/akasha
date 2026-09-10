@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const keyboardShortcuts = {
   id: "01a08303-6026-70fb-95dd-f022fecc37ea",

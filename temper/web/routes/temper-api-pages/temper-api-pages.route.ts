@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const temperApiPages = {
   id: "01a0829a-13da-798a-a890-b765cf1dc3de",

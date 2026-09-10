@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const shopping = {
   id: "01a08305-42a5-7973-a592-6a2b42429ea4",

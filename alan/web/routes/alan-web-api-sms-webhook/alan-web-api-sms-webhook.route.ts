@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const alanWebApiSmsWebhook = {
   id: "01a08830-10e1-711f-916e-888aba8c6066",

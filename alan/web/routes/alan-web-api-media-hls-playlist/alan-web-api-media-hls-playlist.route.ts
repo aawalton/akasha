@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const alanWebApiMediaHlsPlaylist = {
   id: "01a0829f-e59f-79bc-a367-fb59ee69cf6d",

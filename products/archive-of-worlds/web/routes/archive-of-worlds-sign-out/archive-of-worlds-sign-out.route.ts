@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const archiveOfWorldsSignOut = {
   id: "01a0827f-df10-7885-ab8c-6377331c0076",

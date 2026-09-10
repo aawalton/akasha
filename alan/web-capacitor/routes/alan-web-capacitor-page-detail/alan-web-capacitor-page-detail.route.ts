@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const alanWebCapacitorPageDetail = {
   id: "01a08316-d65f-7dd3-b501-68d2553b9c71",

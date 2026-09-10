@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const jennyReadoutRelay = {
   id: "01a08261-664d-7748-87f5-cd5eb99a82a3",

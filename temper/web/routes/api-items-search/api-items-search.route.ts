@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const apiItemsSearch = {
   id: "01a082a6-1421-7056-8dc2-28dffe0465f8",

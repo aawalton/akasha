@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code/route"
+import type { Route } from "akasha/code-system/routes/route.page-type.types.ts"
 
 export const atlasApiPageWrite = {
   id: "01a08838-c84b-70c9-ae34-60620a677571",
