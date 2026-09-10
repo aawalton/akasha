@@ -92,8 +92,11 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No package is named here, so a specifier spelt from the root is answered by the naming alone.",
+      statement: "No package is named here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A specifier spelt from the root is answered by the naming alone.",
     },
     {
       invariantKind: "absence",
@@ -111,17 +114,17 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement:
-        "A way in whose key closes with a star names every specifier opening with the part before it.",
+        "A way in whose key closes with a star names every specifier opening with the part before the star.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The star is whatever the specifier has past that part, however many parts that is.",
+        "The star is whatever the specifier has past that part however many parts that is.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Such a specifier lands where that key's target says, with the star's part carried onto it.",
+        "Such a specifier lands where that key's target says with the star's part carried onto that target.",
     },
     {
       invariantKind: "departure",
