@@ -19,7 +19,7 @@ export const costMultiplier = {
     },
     {
       invariantKind: "departure",
-      statement: "A stretch at the safety level costs one hour for each hour it ran.",
+      statement: "A stretch at the safety level costs one hour for each hour that stretch ran.",
     },
     {
       invariantKind: "departure",
@@ -27,8 +27,11 @@ export const costMultiplier = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A gap is read at the nearest half step, which is the finest step a level moves in.",
+      statement: "A gap is read at the nearest half step.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A half step is the finest step a level moves in.",
     },
     {
       invariantKind: "departure",
