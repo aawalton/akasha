@@ -27,6 +27,14 @@ export const nameSeries = {
     },
     {
       invariantKind: "departure",
+      statement: "The type a rendered page imports is reached by the id that type carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where that type sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The aggregate declares the whole set rather than re-exporting the runs.",
     },
     {

@@ -4,15 +4,23 @@ import {
   DataError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
-import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedById, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export const AKASHA_FILE_CEILING_BYTES = 15_000
 
 export const RUN_LINE_BUDGET_BYTES = 13_501
 
-const MODULE_PAGE_TYPE_REL = "code-system/modules/module.page-type.ts"
-
 const MODULE_PAGE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
+
+function pageTypeAt(root: string): string {
+  const listed = listedById(root, MODULE_PAGE_TYPE)
+  if (listed === null) {
+    throw new DataError(
+      `no page carries the id \`${MODULE_PAGE_TYPE}\`, so a rendered page could import no type`
+    )
+  }
+  return listed.path
+}
 
 const encoder = new TextEncoder()
 
@@ -108,10 +116,7 @@ function pageIdFor(root: string, spec: SeriesSpec, slug: string): string {
 }
 
 function renderPageFile(root: string, spec: SeriesSpec, slug: string, definition: string): string {
-  const typeImport = relative(
-    resolve(root, folderRel(spec, slug)),
-    resolve(root, MODULE_PAGE_TYPE_REL)
-  )
+  const typeImport = relative(resolve(root, folderRel(spec, slug)), resolve(root, pageTypeAt(root)))
   const typeSlug = JSON.stringify(typeSlugOf(root, MODULE_PAGE_TYPE))
   return (
     [
