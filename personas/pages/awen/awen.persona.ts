@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const awen = {
   id: "019f10d8-7045-7647-8ce2-e9b7ed28736b",

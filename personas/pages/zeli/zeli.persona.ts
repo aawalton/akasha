@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const zeli = {
   id: "019ee230-9ab9-7e88-b555-c8a536318388",

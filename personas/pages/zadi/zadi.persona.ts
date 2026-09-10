@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const zadi = {
   id: "019ee202-a922-7186-b853-dab67b2b7142",

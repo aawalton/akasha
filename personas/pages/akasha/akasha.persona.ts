@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const akasha = {
   id: "01a04978-48a1-79c8-8ea9-840a19c247da",

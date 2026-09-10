@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const aria = {
   id: "019ef03a-4924-7a7b-9ee2-e34556947658",

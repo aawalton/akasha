@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const shaestrel = {
   id: "019f9538-5266-78e9-bda8-a0d624dd0d76",

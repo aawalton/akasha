@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const atlas = {
   id: "019f28f1-70e0-7afd-8199-b890ba84d64d",

@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const ember = {
   id: "019f23e9-665d-7dd0-987b-59e3d476fdd7",

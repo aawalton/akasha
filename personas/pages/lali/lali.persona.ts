@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const lali = {
   id: "019f0a42-42c4-7a8d-8b99-97aded91020a",

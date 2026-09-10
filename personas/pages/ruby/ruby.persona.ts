@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const ruby = {
   id: "019f1365-9b2b-78fb-a936-f3ed624ffb7b",

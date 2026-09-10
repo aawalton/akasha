@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const grace = {
   id: "019f18fd-a89d-7fab-b9c0-052ee4db6877",

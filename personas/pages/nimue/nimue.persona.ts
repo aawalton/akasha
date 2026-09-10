@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const nimue = {
   id: "019eef9c-c77d-7a21-8736-e6f01ebacff0",

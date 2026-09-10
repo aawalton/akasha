@@ -1,4 +1,4 @@
-import type { Persona } from "../../persona.page-type.ts"
+import type { Persona } from "../../persona.page-type.types.ts"
 
 export const echo = {
   id: "019f2d60-be8c-7d34-9a2a-7d238b25b325",
