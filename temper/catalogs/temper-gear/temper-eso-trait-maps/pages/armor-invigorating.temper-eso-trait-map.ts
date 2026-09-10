@@ -1,4 +1,4 @@
-import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.ts"
+import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.types.ts"
 
 export const armorInvigorating = {
   id: "01a05fd7-41c7-73f6-a823-abf5b03a126b",

@@ -1,4 +1,4 @@
-import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.ts"
+import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.types.ts"
 
 export const weaponInfused = {
   id: "01a05fd7-41ce-7ce1-9a53-5473cd6f35f6",

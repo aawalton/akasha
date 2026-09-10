@@ -1,4 +1,4 @@
-import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.ts"
+import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.types.ts"
 
 export const jewelryTriune = {
   id: "01a05fd7-41cd-786a-93bb-eb60822ccf16",

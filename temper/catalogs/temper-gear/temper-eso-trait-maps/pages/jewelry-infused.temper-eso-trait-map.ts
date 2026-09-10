@@ -1,4 +1,4 @@
-import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.ts"
+import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.types.ts"
 
 export const jewelryInfused = {
   id: "01a05fd7-41cb-762d-b8c8-04e8ad43e698",

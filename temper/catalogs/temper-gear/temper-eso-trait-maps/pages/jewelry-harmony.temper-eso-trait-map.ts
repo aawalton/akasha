@@ -1,4 +1,4 @@
-import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.ts"
+import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.types.ts"
 
 export const jewelryHarmony = {
   id: "01a05fd7-41ca-730e-bfdc-f8cd39002472",

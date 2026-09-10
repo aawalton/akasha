@@ -1,4 +1,4 @@
-import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.ts"
+import type { TemperEsoTraitMap } from "../temper-eso-trait-map.page-type.types.ts"
 
 export const armorImpenetrable = {
   id: "01a05fd7-41c6-7820-afdf-c6ced36e73c6",

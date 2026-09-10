@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-import type { EsoTraitNum } from "../properties/eso-trait-num.number-property.ts"
-import type { TraitFamily } from "../properties/trait-family.text-property.ts"
-import type { TraitId } from "../properties/trait-id.text-property.ts"
-
-export type TemperEsoTraitMap = TemperCatalogThing & {
-  traitFamily: TraitFamily
-  traitId: TraitId
-  esoTraitNum: EsoTraitNum
-}
 
 export const temperEsoTraitMap = {
   id: "01a05fd1-d431-71e8-91f5-9767d9744dc3",
@@ -26,4 +16,5 @@ export const temperEsoTraitMap = {
     { pageProperty: "text-property/trait-id", required: true, many: false },
     { pageProperty: "number-property/eso-trait-num", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
