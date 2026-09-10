@@ -10,7 +10,7 @@ export const alanwaltonCostWidget = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The ring drawn is the one the surplus tile draws rather than one of its own.",
+      statement: "The ring drawn is the ring the surplus tile draws rather than a ring of its own.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,11 @@ export const alanwaltonCostWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost carries no tier above and no fraction climbed, so no arc is drawn.",
+      statement: "A cost carries no tier above and no fraction climbed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No arc is drawn for such a cost.",
     },
     {
       invariantKind: "departure",
