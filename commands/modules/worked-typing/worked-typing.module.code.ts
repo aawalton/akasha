@@ -4,7 +4,7 @@ import { formattedBody } from "@akasha/code/code-format"
 import type { Schema } from "@akasha/indexes/shape"
 import type { Change } from "@akasha/pages/change"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
-import { partedIn } from "@akasha/pages/page-file-name"
+import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
 import { textOnDisk } from "@akasha/utils/fs/text-on-disk"
@@ -24,6 +24,8 @@ const PROPERTIES = "properties"
 const SLUG = "slug"
 
 const WORKED_AT = "worked"
+
+const TYPES_AT = "types"
 
 const HOLDS = "ts"
 
@@ -110,11 +112,21 @@ export function keysFor(
   return found
 }
 
-export function bodyFor(pageTypePath: string, slug: string, keys: readonly Key[]): string {
+export function storedAtOf(pageTypePath: string, value: Record<string, unknown>): string {
+  if (value[TYPES_AT] !== HOLDS) return pageTypePath
+  return besideAt(pageTypePath, TYPES_AT, HOLDS) ?? pageTypePath
+}
+
+export function bodyFor(
+  pageTypePath: string,
+  storedAt: string,
+  slug: string,
+  keys: readonly Key[]
+): string {
   const at = workedAtOf(pageTypePath)
   const stored = typedAs(slug)
   const imports = [
-    { spec: specifierFor(at, pageTypePath), name: stored },
+    { spec: specifierFor(at, storedAt), name: stored },
     ...keys.map((one) => ({ spec: specifierFor(at, one.at), name: one.typeName })),
   ].sort((one, two) => (one.spec < two.spec ? -1 : one.spec > two.spec ? 1 : 0))
   const omitted = keys.filter((one) => one.overrides).map((one) => `"${one.key}"`)
@@ -142,7 +154,8 @@ export function workedOver(change: Change, shadow: Shadow): Worked {
     const keys = keysFor(shadow, value as Record<string, unknown>, textAt)
     if (keys.length === 0) continue
     const at = workedAtOf(listed.path)
-    const raw = new TextEncoder().encode(bodyFor(listed.path, slug, keys))
+    const storedAt = storedAtOf(listed.path, value as Record<string, unknown>)
+    const raw = new TextEncoder().encode(bodyFor(listed.path, storedAt, slug, keys))
     const now = new TextDecoder().decode(formattedBody(change.root, at, raw).body)
     const was = textOf(change.after(at))
     if (was === now) continue

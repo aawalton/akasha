@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Key } from "./worked-typing.module.code.ts"
-import { bodyFor, textIn, workedAtOf } from "./worked-typing.module.code.ts"
+import { bodyFor, storedAtOf, textIn, workedAtOf } from "./worked-typing.module.code.ts"
 
 const AT = "collections/collection.page-type.ts"
 
@@ -18,7 +18,7 @@ test("the file sits beside the page type as its `worked` section", () => {
 })
 
 test("a page type whose properties are all calculations extends its stored type", () => {
-  const body = bodyFor(AT, "collection", [
+  const body = bodyFor(AT, AT, "collection", [
     computed("totalLength", "TotalLength", "total-length"),
     computed("completion", "CollectionCompletion", "collection-completion"),
   ])
@@ -36,7 +36,7 @@ export type WorkedCollection = Collection & {
 })
 
 test("a key comes out in the order the page type declares its properties", () => {
-  const body = bodyFor(AT, "collection", [
+  const body = bodyFor(AT, AT, "collection", [
     computed("zed", "Zed", "zed"),
     computed("alpha", "Alpha", "alpha"),
   ])
@@ -44,7 +44,7 @@ test("a key comes out in the order the page type declares its properties", () =>
 })
 
 test("the imports are sorted by specifier however the keys are ordered", () => {
-  const body = bodyFor(AT, "collection", [
+  const body = bodyFor(AT, AT, "collection", [
     computed("zed", "Zed", "zed"),
     computed("alpha", "Alpha", "alpha"),
   ])
@@ -54,7 +54,8 @@ test("the imports are sorted by specifier however the keys are ordered", () => {
 })
 
 test("a stored property declaring a worked form is omitted from the type it extends", () => {
-  const body = bodyFor("alan/track/daily/days/day.page-type.ts", "day", [
+  const day = "alan/track/daily/days/day.page-type.ts"
+  const body = bodyFor(day, day, "day", [
     {
       key: "sessions",
       typeName: "WorkedSessions",
@@ -67,11 +68,21 @@ test("a stored property declaring a worked form is omitted from the type it exte
 })
 
 test("two stored properties declaring a worked form are both omitted", () => {
-  const body = bodyFor(AT, "collection", [
+  const body = bodyFor(AT, AT, "collection", [
     { key: "one", typeName: "WorkedOne", at: "collections/properties/one.x.ts", overrides: true },
     { key: "two", typeName: "WorkedTwo", at: "collections/properties/two.x.ts", overrides: true },
   ])
   expect(body).toContain(`Omit<Collection, "one" | "two">`)
+})
+
+test("a page type stating a types file has its stored type named from that file", () => {
+  const types = "collections/collection.page-type.types.ts"
+  expect(storedAtOf(AT, { types: "ts" })).toBe(types)
+  expect(storedAtOf(AT, {})).toBe(AT)
+  const body = bodyFor(AT, types, "collection", [
+    computed("totalLength", "TotalLength", "total-length"),
+  ])
+  expect(body).toContain(`import type { Collection } from "./collection.page-type.types.ts"`)
 })
 
 test("a body is read through the change at the path the shadow says holds that body", () => {

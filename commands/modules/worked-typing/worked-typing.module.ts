@@ -59,6 +59,14 @@ export const workedTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "The stored type is named from the file the page type states its type at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type stating no such file has its stored type named from its own file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type is reached through the shadow of the change being judged.",
     },
     {
