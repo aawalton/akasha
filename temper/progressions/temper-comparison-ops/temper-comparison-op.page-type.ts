@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.types.ts"
-
-export type TemperComparisonOp = TemperProgressThing
 
 export const temperComparisonOp = {
   id: "01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4",
@@ -22,4 +19,5 @@ export const temperComparisonOp = {
       statement: "The title is the operator a reader is shown.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

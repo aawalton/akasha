@@ -1,4 +1,4 @@
-import type { TemperComparisonOp } from "../temper-comparison-op.page-type.ts"
+import type { TemperComparisonOp } from "../temper-comparison-op.page-type.types.ts"
 
 export const notEqualTo = {
   id: "01a05fc9-c60f-74a4-91b1-daeb6a521943",
