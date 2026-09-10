@@ -46,7 +46,8 @@ export const specifierNamesAPackage = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the package the specifier spells and says no manifest states it.",
+      statement:
+        "A refusal names the package the specifier spells and says no manifest states that package.",
     },
     {
       invariantKind: "departure",
@@ -67,8 +68,11 @@ export const specifierNamesAPackage = {
 
     {
       invariantKind: "departure",
-      statement:
-        "Audit is the phase this check is for, as the body that strands is no body a fold carries.\n",
+      statement: "Audit is the phase this check is for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body that strands is no body a fold carries.",
     },
     {
       invariantKind: "absence",
