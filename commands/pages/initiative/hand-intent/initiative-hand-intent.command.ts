@@ -37,7 +37,8 @@ export const initiativeHandIntent = {
     },
     {
       invariantKind: "departure",
-      statement: "The intent is put after the intents the initiative taking it already states.",
+      statement:
+        "The intent is put after the intents the initiative taking that intent already states.",
     },
     {
       invariantKind: "departure",
@@ -57,19 +58,23 @@ export const initiativeHandIntent = {
     },
     {
       invariantKind: "departure",
-      statement: "A statement no intent of the initiative handing it states is refused.",
+      statement: "A statement no intent of the initiative handing that intent states is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A statement more than one of those intents states is refused.",
+      statement: "A statement more than one intent states is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A statement the initiative taking it already states is refused.",
+      statement: "A statement the initiative taking that intent already states is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "Both pages are written by one change, so the two land together or neither lands.",
+      statement: "Both pages are written by one change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two land together or neither lands.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +86,7 @@ export const initiativeHandIntent = {
     },
     {
       invariantKind: "absence",
-      statement: "No check runs over what a run lands.",
+      statement: "No check runs over the change a run lands.",
     },
   ],
 } as const satisfies Command
