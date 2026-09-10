@@ -4,6 +4,8 @@ import { propertiesIfNamed, sourceIn } from "./declared-properties.module.code.t
 import {
   carriedBy,
   declaredIn,
+  grouped,
+  memberedBy,
   propertied,
   rootAt,
   scratch,
@@ -412,20 +414,18 @@ test("a declaration fixing a value carries it, and one saying nothing carries no
 })
 
 test("what a file property group declares is left to the pages carrying that group", () => {
-  const root = rootAt()
-  propertied(root, "text-property", "definition", "definition")
-  propertied(root, "file-property", "code", "code")
-  typed(root, "page-property", null, [
-    { pagePropertySlug: "definition", required: true, many: false },
-  ])
-  typed(root, "file-property-group", ["page-property"], [])
-  typed(
-    root,
-    "module-property-group",
-    ["file-property-group"],
-    [{ pagePropertySlug: "code", required: true, many: false }]
-  )
+  const root = grouped()
 
   expect(carriedBy(root, "module-property-group").map((one) => one.key)).toEqual(["definition"])
   expect(carriedBy(root, "page-property").map((one) => one.key)).toEqual(["definition"])
+})
+
+test("a group's members are answered apart from what the page type carries", () => {
+  const root = grouped()
+
+  expect(memberedBy(root, "module-property-group").map((one) => one.key)).toEqual([
+    "code",
+    "maxCpuSeconds",
+  ])
+  expect(memberedBy(root, "page-property")).toEqual([])
 })

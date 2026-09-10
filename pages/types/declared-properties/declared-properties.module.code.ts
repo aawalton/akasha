@@ -245,6 +245,22 @@ export function propertiesFrom(pageTypeSlug: string, source: Source): readonly C
   return boundOver(declarationsFrom(pageTypeSlug, source))
 }
 
+export function membersIfNamed(pageTypeSlug: string, source: Source): readonly Carried[] | null {
+  const carried: Carried[] = []
+  const walked = new Set<string>()
+  const waiting: string[] = [pageTypeSlug]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const own = waiting[at]
+    if (own === undefined || walked.has(own)) continue
+    walked.add(own)
+    const value = source.pageTypeAt(own)
+    if (value === null) return null
+    if (groupIn(own, source)) carried.push(...declaredFor(value, source, own))
+    for (const above of [...aboveIn(value)].reverse()) waiting.push(above)
+  }
+  return boundOver(carried)
+}
+
 function scopingIn(carried: readonly Carried[], said: string | undefined): ScopedBy | null {
   const bare = said === undefined ? null : slugIn(said)
   if (bare === null) return null

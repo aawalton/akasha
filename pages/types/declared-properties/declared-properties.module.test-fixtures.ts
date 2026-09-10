@@ -3,7 +3,13 @@ import { dirname, join } from "node:path"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { valueAt } from "../../value/page-value.module.code.ts"
-import { type Carried, declarationsOf, propertiesOf } from "./declared-properties.module.code.ts"
+import {
+  type Carried,
+  declarationsOf,
+  membersIfNamed,
+  propertiesOf,
+  sourceIn,
+} from "./declared-properties.module.code.ts"
 
 export const scratch = scratchWorld()
 
@@ -50,6 +56,36 @@ export function declaredIn(root: string, slug: string): readonly Carried[] {
   return declarationsOf(slug, root, (path) => valueAt(path, root))
 }
 
+export function memberedBy(root: string, slug: string): readonly Carried[] {
+  return (
+    membersIfNamed(
+      slug,
+      sourceIn(root, (path) => valueAt(path, root))
+    ) ?? []
+  )
+}
+
 export function rootAt(): string {
   return scratch.rootFor("akasha-properties-")
+}
+
+export function grouped(): string {
+  const root = rootAt()
+  propertied(root, "text-property", "definition", "definition")
+  propertied(root, "file-property", "code", "code")
+  propertied(root, "number-property", "max-cpu-seconds", "max-cpu-seconds")
+  typed(root, "page-property", null, [
+    { pagePropertySlug: "definition", required: true, many: false },
+  ])
+  typed(root, "file-property-group", ["page-property"], [])
+  typed(
+    root,
+    "module-property-group",
+    ["file-property-group"],
+    [
+      { pagePropertySlug: "code", required: true, many: false },
+      { pagePropertySlug: "max-cpu-seconds", required: false, many: false },
+    ]
+  )
+  return root
 }

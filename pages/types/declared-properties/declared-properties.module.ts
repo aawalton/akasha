@@ -60,6 +60,10 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
+      statement: "Those members are answered apart from what the page type carries.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A field is declared by the record property with the field.",
     },
     {
