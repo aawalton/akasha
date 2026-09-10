@@ -22,7 +22,7 @@ export const sessionSlug = {
     },
     {
       invariantKind: "absence",
-      statement: "A bout is no page, so this name reaches nothing.",
+      statement: "A bout is no page.",
     },
   ],
 } as const satisfies TextProperty
