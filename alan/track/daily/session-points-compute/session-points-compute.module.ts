@@ -15,7 +15,8 @@ export const sessionPointsCompute = {
     },
     {
       invariantKind: "departure",
-      statement: "A day is summed from the moment that day opened to the moment the next one did.",
+      statement:
+        "A day is summed from the moment that day opened to the moment the next day opened.",
     },
     {
       invariantKind: "departure",
