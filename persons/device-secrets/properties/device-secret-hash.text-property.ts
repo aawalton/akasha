@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type SecretHash = string
+export type DeviceSecretHash = string
 
 export const deviceSecretHash = {
   id: "01a05b39-f50c-7eb2-a48c-d4679699f045",
