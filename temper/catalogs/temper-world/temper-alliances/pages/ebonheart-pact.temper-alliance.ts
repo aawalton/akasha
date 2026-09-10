@@ -1,4 +1,4 @@
-import type { TemperAlliance } from "../temper-alliance.page-type.ts"
+import type { TemperAlliance } from "../temper-alliance.page-type.types.ts"
 
 export const ebonheartPact = {
   id: "01a05fc5-168e-71be-b6a7-f6b437b0ce62",

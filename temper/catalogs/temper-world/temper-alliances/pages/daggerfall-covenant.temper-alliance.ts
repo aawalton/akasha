@@ -1,4 +1,4 @@
-import type { TemperAlliance } from "../temper-alliance.page-type.ts"
+import type { TemperAlliance } from "../temper-alliance.page-type.types.ts"
 
 export const daggerfallCovenant = {
   id: "01a05fc5-168d-7f14-a361-d6f96372672d",

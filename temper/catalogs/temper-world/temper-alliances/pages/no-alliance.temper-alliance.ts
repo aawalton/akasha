@@ -1,4 +1,4 @@
-import type { TemperAlliance } from "../temper-alliance.page-type.ts"
+import type { TemperAlliance } from "../temper-alliance.page-type.types.ts"
 
 export const noAlliance = {
   id: "01a05fc5-168e-73b9-ba9f-c27964d61010",
