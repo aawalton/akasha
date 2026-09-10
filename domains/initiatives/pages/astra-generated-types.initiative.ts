@@ -14,21 +14,6 @@ export const astraGeneratedTypes = {
   ],
   intents: [
     {
-      statement: "One written type has a page type's stored keys and its calculations.",
-      workingMemory:
-        "`file-property/worked` holds the calculations alone today, written on every apply by `command-system/worked-typing`. The new file replaces it rather than sitting beside it.\n",
-    },
-    {
-      statement: "A page type's written type says everything its hand-written type said.",
-      workingMemory:
-        "Page type files also export declarations that are not the page's shape and stay hand-written: `Reach` and `Work` on `computed-property`, `List` on `page-property`, `Declaration` on `properties`, `Rung` on `rank-property`. Those need a home, and `module-types` is what the same file property means on a module.\n",
-    },
-    {
-      statement: "No page type's type is written by hand.",
-      workingMemory:
-        "`change-agent/add-page-type-types` turns one page type over in one landing: it states the key, moves the hand-written type beside the page, repoints importers, and the generator writes that file again before the checks judge it. Sixty-four are turned over. It refuses a page type whose type spells a key as a list of another type, naming the key; thirty-seven spell one that way. Ten more wait on property pages whose exported type is named for the property slug.\n",
-    },
-    {
       statement: "A page property states the code that writes its type.",
     },
     {

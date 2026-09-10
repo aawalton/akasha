@@ -112,6 +112,15 @@ export const pageType = {
       invariantKind: "absence",
       statement: "A page type says nothing about where the pages of that page type sit.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Every page type has its type written beside it rather than written by hand.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A declaration beside that type is a calculation rather than the page's own shape.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
