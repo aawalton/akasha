@@ -50,14 +50,14 @@ test("an average is what the runs took together shared out over how many there w
 })
 
 test("a run's processor time is its own together with the children it reaped", () => {
-  const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 1.5, childCpuSeconds: 2.25 }))
+  const runs = runsIn(lineOf({ phase: "change", cpuSeconds: 1.5, childCpuSeconds: 2.25 }))
 
   expect(runs[0]?.cpu).toBe(3.75)
 })
 
 test("a record naming no run id is read as belonging to no run", () => {
   const runs = runsIn(
-    [lineOf({ phase: "patch", runId: null }), lineOf({ phase: "patch", runId: "" })].join("\n")
+    [lineOf({ phase: "change", runId: null }), lineOf({ phase: "change", runId: "" })].join("\n")
   )
 
   expect(runs.map((one) => one.runId)).toEqual([null, null])
@@ -66,10 +66,10 @@ test("a record naming no run id is read as belonging to no run", () => {
 test("a run that forgot no high-water mark is left out of memory but counted everywhere else", () => {
   const runs = runsIn(
     [
-      lineOf({ phase: "patch", cpuSeconds: 9, peakAddedBytes: 999, peakMeasured: false }),
-      lineOf({ phase: "patch", cpuSeconds: 2, peakAddedBytes: 100 }),
-      lineOf({ phase: "patch", cpuSeconds: 1, peakAddedBytes: 200 }),
-      lineOf({ phase: "patch", cpuSeconds: 4, peakAddedBytes: 900 }),
+      lineOf({ phase: "change", cpuSeconds: 9, peakAddedBytes: 999, peakMeasured: false }),
+      lineOf({ phase: "change", cpuSeconds: 2, peakAddedBytes: 100 }),
+      lineOf({ phase: "change", cpuSeconds: 1, peakAddedBytes: 200 }),
+      lineOf({ phase: "change", cpuSeconds: 4, peakAddedBytes: 900 }),
     ].join("\n")
   )
   const cost = costOf("one", runs)
@@ -82,8 +82,8 @@ test("a run that forgot no high-water mark is left out of memory but counted eve
 test("a run exactly the period's age is counted and a run a moment older is not", () => {
   const runs = runsIn(
     [
-      lineOf({ phase: "patch", cpuSeconds: 6, ranAt: agoOf(DAY) }),
-      lineOf({ phase: "patch", cpuSeconds: 60, ranAt: agoOf(DAY + 1) }),
+      lineOf({ phase: "change", cpuSeconds: 6, ranAt: agoOf(DAY) }),
+      lineOf({ phase: "change", cpuSeconds: 60, ranAt: agoOf(DAY + 1) }),
     ].join("\n")
   )
 
@@ -91,13 +91,13 @@ test("a run exactly the period's age is counted and a run a moment older is not"
 })
 
 test("a run stamped after the moment of asking is not counted", () => {
-  const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 7, ranAt: agoOf(-HOUR) }))
+  const runs = runsIn(lineOf({ phase: "change", cpuSeconds: 7, ranAt: agoOf(-HOUR) }))
 
   expect(withinOf(runs, NOW, DAY)).toEqual([])
 })
 
 test("a run whose time cannot be read is not counted", () => {
-  const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 7, ranAt: "the other day" }))
+  const runs = runsIn(lineOf({ phase: "change", cpuSeconds: 7, ranAt: "the other day" }))
 
   expect(withinOf(runs, NOW, DAY)).toEqual([])
 })
@@ -105,10 +105,10 @@ test("a run whose time cannot be read is not counted", () => {
 test("a run older than the period counts towards no average, at the edge or far outside", () => {
   const root = rootWith({
     one: [
-      { phase: "patch", cpuSeconds: 2, ranAt: agoOf(HOUR) },
-      { phase: "patch", cpuSeconds: 4, ranAt: agoOf(23 * HOUR) },
-      { phase: "patch", cpuSeconds: 100, ranAt: agoOf(DAY + 1) },
-      { phase: "patch", cpuSeconds: 1000, ranAt: agoOf(30 * DAY) },
+      { phase: "change", cpuSeconds: 2, ranAt: agoOf(HOUR) },
+      { phase: "change", cpuSeconds: 4, ranAt: agoOf(23 * HOUR) },
+      { phase: "change", cpuSeconds: 100, ranAt: agoOf(DAY + 1) },
+      { phase: "change", cpuSeconds: 1000, ranAt: agoOf(30 * DAY) },
     ],
   })
   const cost = costsIn(root, NOW, DAY_BACK).checks[0]
@@ -119,9 +119,9 @@ test("a run older than the period counts towards no average, at the edge or far 
 
 test("a check holding no run the choice reached is not answered", () => {
   const root = rootWith({
-    fresh: [{ phase: "patch", cpuSeconds: 1, ranAt: agoOf(HOUR) }],
+    fresh: [{ phase: "change", cpuSeconds: 1, ranAt: agoOf(HOUR) }],
     stale: [
-      { phase: "patch", cpuSeconds: 9, ranAt: agoOf(DAY + 1) },
+      { phase: "change", cpuSeconds: 9, ranAt: agoOf(DAY + 1) },
       { phase: "worktree", cpuSeconds: 9, ranAt: agoOf(30 * DAY) },
     ],
   })
@@ -178,10 +178,10 @@ test("an argument this command does not take is refused", () => {
 test("runs are ranked by the latest moment any record of that run carries", () => {
   const runs = runsIn(
     [
-      lineOf({ phase: "patch", runId: ONE, ranAt: agoOf(3 * HOUR) }),
-      lineOf({ phase: "patch", runId: ONE, ranAt: agoOf(HOUR) }),
-      lineOf({ phase: "patch", runId: TWO, ranAt: agoOf(2 * HOUR) }),
-      lineOf({ phase: "patch", runId: THREE, ranAt: agoOf(4 * HOUR) }),
+      lineOf({ phase: "change", runId: ONE, ranAt: agoOf(3 * HOUR) }),
+      lineOf({ phase: "change", runId: ONE, ranAt: agoOf(HOUR) }),
+      lineOf({ phase: "change", runId: TWO, ranAt: agoOf(2 * HOUR) }),
+      lineOf({ phase: "change", runId: THREE, ranAt: agoOf(4 * HOUR) }),
     ].join("\n")
   )
 
@@ -191,8 +191,8 @@ test("runs are ranked by the latest moment any record of that run carries", () =
 test("a record carrying no run id is counted nowhere where runs were counted", () => {
   const root = rootWith({
     one: [
-      { phase: "patch", cpuSeconds: 2, runId: ONE },
-      { phase: "patch", cpuSeconds: 100, runId: null },
+      { phase: "change", cpuSeconds: 2, runId: ONE },
+      { phase: "change", cpuSeconds: 100, runId: null },
     ],
   })
   const costs = costsIn(root, NOW, ONE_RUN)
@@ -204,8 +204,8 @@ test("a record carrying no run id is counted nowhere where runs were counted", (
 test("a record carrying no run id is counted where a period was named", () => {
   const root = rootWith({
     one: [
-      { phase: "patch", cpuSeconds: 2, runId: null },
-      { phase: "patch", cpuSeconds: 4, runId: null },
+      { phase: "change", cpuSeconds: 2, runId: null },
+      { phase: "change", cpuSeconds: 4, runId: null },
     ],
   })
   const costs = costsIn(root, NOW, DAY_BACK)
@@ -217,9 +217,9 @@ test("a record carrying no run id is counted where a period was named", () => {
 test("only the runs chosen are counted where a count was named", () => {
   const root = rootWith({
     one: [
-      { phase: "patch", cpuSeconds: 2, runId: ONE, ranAt: agoOf(HOUR) },
-      { phase: "patch", cpuSeconds: 4, runId: TWO, ranAt: agoOf(2 * HOUR) },
-      { phase: "patch", cpuSeconds: 8, runId: THREE, ranAt: agoOf(3 * HOUR) },
+      { phase: "change", cpuSeconds: 2, runId: ONE, ranAt: agoOf(HOUR) },
+      { phase: "change", cpuSeconds: 4, runId: TWO, ranAt: agoOf(2 * HOUR) },
+      { phase: "change", cpuSeconds: 8, runId: THREE, ranAt: agoOf(3 * HOUR) },
     ],
   })
 
@@ -230,9 +230,9 @@ test("only the runs chosen are counted where a count was named", () => {
 
 test("one run's runs are the runs of every check that run judged", () => {
   const root = rootWith({
-    one: [{ phase: "patch", cpuSeconds: 2, runId: TWO, ranAt: agoOf(HOUR) }],
-    two: [{ phase: "patch", cpuSeconds: 3, runId: TWO, ranAt: agoOf(HOUR) }],
-    three: [{ phase: "patch", cpuSeconds: 90, runId: ONE, ranAt: agoOf(9 * HOUR) }],
+    one: [{ phase: "change", cpuSeconds: 2, runId: TWO, ranAt: agoOf(HOUR) }],
+    two: [{ phase: "change", cpuSeconds: 3, runId: TWO, ranAt: agoOf(HOUR) }],
+    three: [{ phase: "change", cpuSeconds: 90, runId: ONE, ranAt: agoOf(9 * HOUR) }],
   })
   const costs = costsIn(root, NOW, ONE_RUN)
 
@@ -243,9 +243,9 @@ test("one run's runs are the runs of every check that run judged", () => {
 test("the total shares the processor time over the distinct runs read", () => {
   const runs = runsIn(
     [
-      lineOf({ phase: "patch", runId: ONE, cpuSeconds: 3 }),
-      lineOf({ phase: "patch", runId: ONE, cpuSeconds: 5 }),
-      lineOf({ phase: "patch", runId: TWO, cpuSeconds: 2 }),
+      lineOf({ phase: "change", runId: ONE, cpuSeconds: 3 }),
+      lineOf({ phase: "change", runId: ONE, cpuSeconds: 5 }),
+      lineOf({ phase: "change", runId: TWO, cpuSeconds: 2 }),
     ].join("\n")
   )
 
@@ -253,7 +253,7 @@ test("the total shares the processor time over the distinct runs read", () => {
 })
 
 test("no run at all totals no processor time rather than a time of zero", () => {
-  expect(totalOf(runsIn(lineOf({ phase: "patch", runId: ONE })))).toEqual({
+  expect(totalOf(runsIn(lineOf({ phase: "change", runId: ONE })))).toEqual({
     runs: 1,
     cpu: 0,
     paths: 1,
@@ -263,7 +263,7 @@ test("no run at all totals no processor time rather than a time of zero", () => 
 })
 
 test("the total sits beneath the table with its memory drawn absent", () => {
-  const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 2 })))
+  const cost = costOf("one", runsIn(lineOf({ phase: "change", cpuSeconds: 2 })))
   const said = linesOf({
     checks: [cost],
     total: { runs: 1, cpu: 2, paths: 1, refusals: 0 },
@@ -277,9 +277,9 @@ test("the total sits beneath the table with its memory drawn absent", () => {
 test("how many runs a check holds is counted beside its averages", () => {
   const root = rootWith({
     one: [
-      { phase: "patch", cpuSeconds: 1 },
-      { phase: "patch", cpuSeconds: 3 },
-      { phase: "patch", cpuSeconds: 8 },
+      { phase: "change", cpuSeconds: 1 },
+      { phase: "change", cpuSeconds: 3 },
+      { phase: "change", cpuSeconds: 8 },
     ],
   })
   const cost = costsIn(root, NOW, DAY_BACK).checks[0]
@@ -288,10 +288,10 @@ test("how many runs a check holds is counted beside its averages", () => {
   expect(cost?.cpu).toBe(4)
 })
 
-test("the check group counts a worktree run and a deploy run beside a patch run", () => {
+test("the check group counts a worktree run and a deploy run beside a change run", () => {
   const root = rootWith({
     one: [
-      { phase: "patch", cpuSeconds: 1 },
+      { phase: "change", cpuSeconds: 1 },
       { phase: "worktree", cpuSeconds: 3 },
       { phase: "deploy", cpuSeconds: 8 },
     ],
@@ -314,7 +314,7 @@ test("a check no run was judged at carries no average rather than an average of 
 })
 
 test("the table carries one set of columns for the group read", () => {
-  const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 0 })))
+  const cost = costOf("one", runsIn(lineOf({ phase: "change", cpuSeconds: 0 })))
   const said = linesOf(costsOf([cost]))
 
   expect(spacedOnce(said[0])).toBe("check runs cpu mem paths refusals")
@@ -323,14 +323,14 @@ test("the table carries one set of columns for the group read", () => {
 
 test("checks are ordered by what their runs took, and equal times by name", () => {
   const root = rootWith({
-    fast: [{ phase: "patch", cpuSeconds: 1 }],
-    slow: [{ phase: "patch", cpuSeconds: 9 }],
+    fast: [{ phase: "change", cpuSeconds: 1 }],
+    slow: [{ phase: "change", cpuSeconds: 9 }],
     "audit-only": [],
-    "b-tie": [{ phase: "patch", cpuSeconds: 1 }],
+    "b-tie": [{ phase: "change", cpuSeconds: 1 }],
     skewed: [
-      { phase: "patch", cpuSeconds: 1 },
-      { phase: "patch", cpuSeconds: 1 },
-      { phase: "patch", cpuSeconds: 10 },
+      { phase: "change", cpuSeconds: 1 },
+      { phase: "change", cpuSeconds: 1 },
+      { phase: "change", cpuSeconds: 10 },
     ],
   })
   rowsBeside(root, { "audit-only": [{ phase: "audit", cpuSeconds: 50 }] }, AUDIT_LOGS)
@@ -344,7 +344,7 @@ test("checks are ordered by what their runs took, and equal times by name", () =
 })
 
 test("the check logs are read by default and the audit logs where audit was named", () => {
-  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 2, peakAddedBytes: 2048 }] })
+  const root = rootWith({ one: [{ phase: "change", cpuSeconds: 2, peakAddedBytes: 2048 }] })
   rowsBeside(
     root,
     { one: [{ phase: "audit", cpuSeconds: 8, peakAddedBytes: 1048576 }] },
@@ -362,7 +362,7 @@ test("the check logs are read by default and the audit logs where audit was name
 })
 
 test("a check holding no run of the group read is not answered", () => {
-  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 2 }], two: [] })
+  const root = rootWith({ one: [{ phase: "change", cpuSeconds: 2 }], two: [] })
   rowsBeside(root, { two: [{ phase: "audit", cpuSeconds: 8 }] }, AUDIT_LOGS)
 
   expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual(["one"])
@@ -370,12 +370,12 @@ test("a check holding no run of the group read is not answered", () => {
 })
 
 test("the entries beside a check are read too, each row under the group its phase names", () => {
-  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 2 }] })
+  const root = rootWith({ one: [{ phase: "change", cpuSeconds: 2 }] })
   rowsBeside(
     root,
     {
       one: [
-        { phase: "patch", cpuSeconds: 4 },
+        { phase: "change", cpuSeconds: 4 },
         { phase: "audit", cpuSeconds: 100 },
       ],
     },
@@ -391,9 +391,9 @@ test("the entries beside a check are read too, each row under the group its phas
 })
 
 test("every numbered file of a check's logs is read in order rather than the first alone", () => {
-  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 2, runId: ONE }] })
-  rowsInto(root, { one: [{ phase: "patch", cpuSeconds: 4, runId: TWO }] }, 2)
-  rowsInto(root, { one: [{ phase: "patch", cpuSeconds: 6, runId: THREE }] }, 3)
+  const root = rootWith({ one: [{ phase: "change", cpuSeconds: 2, runId: ONE }] })
+  rowsInto(root, { one: [{ phase: "change", cpuSeconds: 4, runId: TWO }] }, 2)
+  rowsInto(root, { one: [{ phase: "change", cpuSeconds: 6, runId: THREE }] }, 3)
   const cost = costsIn(root, NOW, DAY_BACK).checks[0]
 
   expect(heldIn(root).held[0]?.runs.map((one) => one.cpu)).toEqual([2, 4, 6])
@@ -402,7 +402,7 @@ test("every numbered file of a check's logs is read in order rather than the fir
 })
 
 test("a file that could not be read is named beneath the table", () => {
-  const root = unreadableInto(rootWith({ one: [{ phase: "patch", cpuSeconds: 1 }] }), "bad")
+  const root = unreadableInto(rootWith({ one: [{ phase: "change", cpuSeconds: 1 }] }), "bad")
   const costs = costsIn(root, NOW, DAY_BACK)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["one"])
