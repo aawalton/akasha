@@ -224,11 +224,11 @@ async function bootstrapping(read: {
   json: boolean
 }): Promise<Answer> {
   const worktreePath = await resolveWorktreePath(read.seq)
-  const envPath = await resolveEnvLocalPath(worktreePath, read.app)
+  const envPath = resolveEnvLocalPath(worktreePath, read.app)
   if (existsSync(envPath) && !read.force) {
     return refused(`${envPath} stands already — say \`${FORCE}\` to write over it`, 1)
   }
-  const written = await writeEnvLocalFromPages({ worktreePath, appName: read.app })
+  const written = writeEnvLocalFromPages({ worktreePath, appName: read.app })
   const report = read.json
     ? [JSON.stringify({ ok: true, path: written.path, var_count: written.varCount })]
     : [`wrote ${written.path} (${written.varCount} vars)`]
@@ -242,7 +242,7 @@ async function starting(read: {
   json: boolean
 }): Promise<Answer> {
   const report: string[] = []
-  const app = await lookupApp(read.app)
+  const app = lookupApp(read.app)
   const port = read.port ?? computePort({ basePort: app.basePort, seq: read.seq })
 
   const worktreePath = await resolveWorktreePath(read.seq)
@@ -254,9 +254,9 @@ async function starting(read: {
     )
   }
 
-  const envLocalPath = await resolveEnvLocalPath(worktreePath, read.app)
+  const envLocalPath = resolveEnvLocalPath(worktreePath, read.app)
   if (!existsSync(envLocalPath)) {
-    const written = await writeEnvLocalFromPages({ worktreePath, appName: read.app })
+    const written = writeEnvLocalFromPages({ worktreePath, appName: read.app })
     report.push(`auto-bootstrapped ${written.path} (${written.varCount} vars)`)
   }
   const envLocalVars = existsSync(envLocalPath) ? readEnvLocal(envLocalPath) : {}
@@ -385,7 +385,7 @@ async function stopping(read: {
   } else {
     const seq = read.seq ?? 0
     const app = read.app ?? ""
-    await lookupApp(app)
+    lookupApp(app)
     const state = readStateFile(seq, app)
     if (state === null) {
       const said: Stopped = { seq, app, pid: 0, was_running: false }
@@ -417,7 +417,7 @@ async function reading(read: {
     recordFromState(state, isPidAlive(state.pid))
   let records: readonly DevServerRecord[]
   if (read.seq !== null && read.app !== null) {
-    await lookupApp(read.app)
+    lookupApp(read.app)
     const state = readStateFile(read.seq, read.app)
     records = state === null ? [stoppedRecord(read.seq, read.app)] : [recorded(state)]
   } else if (read.seq === null && read.app === null) {
@@ -432,7 +432,7 @@ async function reading(read: {
 }
 
 async function tailing(read: { seq: number; app: string; tail: number }): Promise<Answer> {
-  await lookupApp(read.app)
+  lookupApp(read.app)
   const path = logFilePath(read.seq, read.app)
   if (!existsSync(path)) {
     return refused(`no log file stands at ${path} — has the server ever been started?`, 2)

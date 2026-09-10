@@ -84,7 +84,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
 
 export const APP_NAMES: readonly string[] = Object.freeze(Object.keys(APP_REGISTRY))
 
-export async function lookupApp(name: string): Promise<DevServerApp> {
+export function lookupApp(name: string): DevServerApp {
   const app = APP_REGISTRY[name]
   if (!app) {
     throw new InputError(`unknown app: ${name} (known: ${APP_NAMES.join(", ")})`)

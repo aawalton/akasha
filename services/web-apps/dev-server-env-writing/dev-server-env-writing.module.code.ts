@@ -37,8 +37,8 @@ function escapeEnvValue(value: string): string {
   return `"${escaped}"`
 }
 
-export async function resolveEnvLocalPath(worktreePath: string, appName: string): Promise<string> {
-  const app = await lookupApp(appName)
+export function resolveEnvLocalPath(worktreePath: string, appName: string): string {
+  const app = lookupApp(appName)
   return `${worktreePath}/${app.packagePath}/.env.local`
 }
 
@@ -51,12 +51,12 @@ export function readEnvLocal(path: string): Record<string, string> {
   return out
 }
 
-export async function writeEnvLocalFromPages(params: {
+export function writeEnvLocalFromPages(params: {
   readonly worktreePath: string
   readonly appName: string
-}): Promise<{ readonly path: string; readonly varCount: number }> {
+}): { readonly path: string; readonly varCount: number } {
   const { worktreePath, appName } = params
-  const app = await lookupApp(appName)
+  const app = lookupApp(appName)
   const envPath = `${worktreePath}/${app.packagePath}/.env.local`
 
   const kv = new Map(Object.entries(valuesFor(worktreePath, app.secretResource)))
