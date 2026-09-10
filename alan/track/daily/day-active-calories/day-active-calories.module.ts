@@ -23,7 +23,7 @@ export const dayActiveCalories = {
     },
     {
       invariantKind: "constraint",
-      statement: "Four is what the calorie reader takes in one run.",
+      statement: "The calorie reader takes four days in one run.",
     },
     {
       invariantKind: "departure",
