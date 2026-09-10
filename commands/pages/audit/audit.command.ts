@@ -26,7 +26,7 @@ export const audit = {
     "it writes nothing, and holds nothing still while it runs.",
     "a bare run judges by the checks stating the audit phase, and no check states it today, so a bare run is refused rather than answered clean.",
     "--check narrows which checks run rather than which files they see, so the cost sits in which checks run.",
-    "a check forced by name over every file measured under a second at the cheapest and 278 processor seconds at the slowest, lint-clean, on 2026-09-10.",
+    "a check forced by name over every file measured under a second at the cheapest and 141 processor seconds at the slowest, lint-clean, on 2026-09-10.",
     "a seat runs it in the background and a subagent does not run it at all, several at once costing the swarm its model service.",
   ],
   timeout: 300,
