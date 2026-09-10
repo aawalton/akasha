@@ -1,4 +1,4 @@
-import { spawnSync } from "node:child_process"
+import { bytes, NO_CODE } from "@akasha/utils/run/running"
 
 export type GitResult = {
   readonly code: number
@@ -22,14 +22,9 @@ const NETWORK_SUBCOMMANDS: ReadonlySet<string> = new Set(["push", "fetch", "ls-r
 
 export const NETWORK_CEILING_MS = 10_000
 
-// A PUSH CARRIES OBJECTS RATHER THAN ANSWERING A QUESTION. Ten seconds is the ceiling for a remote
-// that will not answer at all, and a push of a large history is still carrying bytes when that
-// ceiling falls, so a push capped as a query is a push that can never finish.
 export const PUSH_CEILING_MS = 1_800_000
 
 export const CAPPED_CEILING_MS = 10_000
-
-const OUTPUT_CEILING = 256 * 1024 * 1024
 
 const EMPTY = new Uint8Array()
 
@@ -38,22 +33,25 @@ export function ranGit(
   args: readonly string[],
   taking: { readonly input?: Uint8Array; readonly ceilingMs?: number } = {}
 ): Ran {
-  const done = spawnSync("git", [...args], {
-    cwd: root,
-    maxBuffer: OUTPUT_CEILING,
-    ...(taking.input === undefined ? {} : { input: Buffer.from(taking.input) }),
-    ...(taking.ceilingMs === undefined ? {} : { timeout: taking.ceilingMs }),
-  })
-  const stderr = done.stderr ?? EMPTY
-  if (done.error !== undefined) {
-    const why = new TextEncoder().encode(done.error.message)
-    return { code: -1, stdout: done.stdout ?? EMPTY, stderr: stderr.length > 0 ? stderr : why }
+  const encoder = new TextEncoder()
+  try {
+    const done = bytes(["git", ...args], {
+      cwd: root,
+      ...(taking.input === undefined ? {} : { stdin: taking.input }),
+      ...(taking.ceilingMs === undefined ? {} : { timeout: taking.ceilingMs }),
+    })
+    return { code: done.code, stdout: done.out, stderr: encoder.encode(done.err) }
+  } catch (thrown) {
+    return {
+      code: NO_CODE,
+      stdout: EMPTY,
+      stderr: encoder.encode(thrown instanceof Error ? thrown.message : String(thrown)),
+    }
   }
-  return { code: done.status ?? -1, stdout: done.stdout ?? EMPTY, stderr }
 }
 
-export function gitTextOf(bytes: Uint8Array): string {
-  return new TextDecoder().decode(bytes).trim()
+export function gitTextOf(raw: Uint8Array): string {
+  return new TextDecoder().decode(raw).trim()
 }
 
 export function gitBytes(
