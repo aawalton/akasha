@@ -33,12 +33,18 @@ func wideAndPlaceholderCases(_ fx: CaseFixtures) -> [RenderCase] {
             familySource: "systemSmall",
             body: """
                 {"stoplights":[\
-                {"habit":"plants","tier":"blue","reading":"1.2k","nextTier":null,"progress":null,"label":"Plants"},\
-                {"habit":"activity","tier":"blue","reading":"1.5k","nextTier":null,"progress":null,"label":"Activity"},\
-                {"habit":"sleep","tier":"blue","reading":"10.5","nextTier":null,"progress":null,"label":"Sleep"},\
-                {"habit":"surplus","tier":"yellow","reading":"-3.5","nextTier":"green","progress":0.125,"label":"Surplus"},\
-                {"habit":"capacity","tier":"black","reading":"-13","nextTier":null,"progress":null,"label":"Capacity"},\
-                {"habit":"safety","tier":"green","reading":"3.5","nextTier":"blue","progress":0.5,"label":"Safety"}]}
+                {"habit":"plants","tier":"blue","reading":"1.2k","nextTier":null,"progress":null,\
+                "label":"Plants","figureOffScale":true},\
+                {"habit":"activity","tier":"blue","reading":"1.5k","nextTier":null,"progress":null,\
+                "label":"Activity","figureOffScale":true},\
+                {"habit":"sleep","tier":"blue","reading":"10.5","nextTier":null,"progress":null,\
+                "label":"Sleep","figureOffScale":true},\
+                {"habit":"surplus","tier":"yellow","reading":"-3.5","nextTier":"green",\
+                "progress":0.125,"label":"Surplus","figureOffScale":true},\
+                {"habit":"capacity","tier":"black","reading":"-13","nextTier":null,"progress":null,\
+                "label":"Capacity","figureOffScale":true},\
+                {"habit":"safety","tier":"green","reading":"3.5","nextTier":"blue","progress":0.5,\
+                "label":"Safety","figureOffScale":true}]}
                 """,
             sizeOverride: CGSize(width: 141.0, height: 141.0)))
 
@@ -48,9 +54,12 @@ func wideAndPlaceholderCases(_ fx: CaseFixtures) -> [RenderCase] {
             familySource: "systemSmall",
             body: """
                 {"stoplights":[\
-                {"inbox":"email","tier":"yellow","reading":"5","nextTier":"green","progress":0.4444444444444444},\
-                {"inbox":"tasks","tier":"yellow","reading":"1","nextTier":"green","progress":0.8888888888888888},\
-                {"inbox":"temperTasks","tier":"red","reading":"23","nextTier":"yellow","progress":0.8444444444444444}]}
+                {"inbox":"email","tier":"yellow","reading":"5","nextTier":"green",\
+                "progress":0.4444444444444444,"figureOffScale":true},\
+                {"inbox":"tasks","tier":"yellow","reading":"1","nextTier":"green",\
+                "progress":0.8888888888888888,"figureOffScale":true},\
+                {"inbox":"temperTasks","tier":"red","reading":"23","nextTier":"yellow",\
+                "progress":0.8444444444444444,"figureOffScale":true}]}
                 """,
             sizeOverride: CGSize(width: 141.0, height: 141.0)))
 
