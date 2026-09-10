@@ -70,8 +70,11 @@ export const folderClearing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder taken away is swept innermost first, so a folder still holding a file throws.",
+      statement: "A folder taken away is swept innermost first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder still holding a file throws.",
     },
   ],
 } as const satisfies Module
