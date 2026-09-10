@@ -6,7 +6,7 @@ export const temperCatalogAddon = {
   type: "eso-addon",
   slug: "temper-catalog-addon",
   definition: "the add-on reading the game's own reference data and saving it for Temper to use",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "catalog-entry",

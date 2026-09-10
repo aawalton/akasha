@@ -313,26 +313,11 @@
         "vite": "^8.0.3",
       },
     },
-    "temper/capture-datamining-addon": {
-      "name": "@akasha/temper-capture-datamining-addon",
-    },
-    "temper/capture-sales-addon": {
-      "name": "@akasha/temper-capture-sales-addon",
-    },
-    "temper/catalog-addon": {
-      "name": "@akasha/temper-catalog-addon",
-    },
     "temper/characters-addon": {
       "name": "@akasha/temper-characters-addon",
       "dependencies": {
         "@akasha/temper-companions-addon": "workspace:*",
       },
-    },
-    "temper/collections-addon": {
-      "name": "@akasha/temper-collections-addon",
-    },
-    "temper/combat-addon": {
-      "name": "@akasha/temper-combat-addon",
     },
     "temper/companions-addon": {
       "name": "@akasha/temper-companions-addon",
@@ -518,17 +503,7 @@
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
 
-    "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
-
-    "@akasha/temper-capture-sales-addon": ["@akasha/temper-capture-sales-addon@workspace:temper/capture-sales-addon"],
-
-    "@akasha/temper-catalog-addon": ["@akasha/temper-catalog-addon@workspace:temper/catalog-addon"],
-
     "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:temper/characters-addon"],
-
-    "@akasha/temper-collections-addon": ["@akasha/temper-collections-addon@workspace:temper/collections-addon"],
-
-    "@akasha/temper-combat-addon": ["@akasha/temper-combat-addon@workspace:temper/combat-addon"],
 
     "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/companions-addon"],
 

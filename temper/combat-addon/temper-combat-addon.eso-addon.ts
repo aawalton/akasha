@@ -6,7 +6,7 @@ export const temperCombatAddon = {
   type: "eso-addon",
   slug: "temper-combat-addon",
   definition: "the add-on that records a fight and reports what happened in it",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "combat-entry",

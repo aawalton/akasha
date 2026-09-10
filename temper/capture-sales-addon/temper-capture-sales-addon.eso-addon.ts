@@ -6,7 +6,7 @@ export const temperCaptureSalesAddon = {
   type: "eso-addon",
   slug: "temper-capture-sales-addon",
   definition: "the add-on capturing the player's own guild store sales for a host to read",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "sales-addon-entry",
   parts: ["module/sales-addon-entry", "module/sales-addon-name", "module/sales-capture"],

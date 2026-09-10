@@ -6,7 +6,7 @@ export const temperCaptureDataminingAddon = {
   type: "eso-addon",
   slug: "temper-capture-datamining-addon",
   definition: "the addon taking the game's own item and quest data one id at a time",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "datamining-entry",

@@ -7,7 +7,7 @@ export const temperCollectionsAddon = {
   slug: "temper-collections-addon",
   definition:
     "the add-on shipping the skyshard, lorebook, treasure, champion and item-set trackers as one",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "collections-addon-entry",
