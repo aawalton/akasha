@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { join } from "node:path"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
-import { guarding } from "../../hook-answer/hook-answer.module.code.ts"
+import { guarding, parseRefusal } from "../../hook-answer/hook-answer.module.code.ts"
 import { judging } from "../../hook-judging/hook-judging.module.code.ts"
 import { payloadOf } from "../../hook-payload/hook-payload.module.code.ts"
 import { refusalIn, SCOPE } from "./block-bun-test.agent-hook.code.ts"
@@ -136,9 +136,9 @@ test("the scope names the prefixes it steps over and says that list samples a cl
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("bun test", ROOT)) })
   expect(done.code).toBe(2)
-  const said: unknown = JSON.parse(done.out)
-  expect(said).toMatchObject({ decision: "block" })
-  expect((said as { reason: string }).reason).toContain("The tests run at the change.")
+  const said = parseRefusal(done.out)
+  expect(said.decision).toBe("block")
+  expect(said.reason).toContain("The tests run at the change.")
 })
 
 test("the hook refuses a run naming a path on stdin too", () => {
