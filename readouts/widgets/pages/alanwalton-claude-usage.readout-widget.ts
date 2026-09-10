@@ -1,4 +1,4 @@
-import type { ReadoutWidget } from "../readout-widget.page-type.ts"
+import type { ReadoutWidget } from "../readout-widget.page-type.types.ts"
 
 export const alanwaltonClaudeUsage = {
   id: "01a06420-b259-76b1-aba4-b26ab965fb5b",

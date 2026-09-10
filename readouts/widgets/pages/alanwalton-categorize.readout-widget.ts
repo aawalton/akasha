@@ -1,4 +1,4 @@
-import type { ReadoutWidget } from "../readout-widget.page-type.ts"
+import type { ReadoutWidget } from "../readout-widget.page-type.types.ts"
 
 export const alanwaltonCategorize = {
   id: "01a054d1-d1a4-72af-8c87-d77add25efb9",

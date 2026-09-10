@@ -1,4 +1,4 @@
-import type { ReadoutWidget } from "../readout-widget.page-type.ts"
+import type { ReadoutWidget } from "../readout-widget.page-type.types.ts"
 
 export const alanwaltonSafetyLevel = {
   id: "01a06420-b259-7d0c-85e8-0e67ee23e107",

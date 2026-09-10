@@ -1,4 +1,4 @@
-import type { ReadoutWidget } from "../readout-widget.page-type.ts"
+import type { ReadoutWidget } from "../readout-widget.page-type.types.ts"
 
 export const alanwaltonAttributeStoplights = {
   id: "01a06858-8cfa-7178-8e79-50dece17aecf",
