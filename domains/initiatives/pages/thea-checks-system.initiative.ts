@@ -14,6 +14,21 @@ export const theaChecksSystem = {
         "2614 refusals remain. 40 of the 53 checks that ran are green. A bare audit no longer finishes. The run is killed at the 300 second ceiling the audit command states, so tests-pass, typecheck and types-file-runs-nothing go unrun and no answer is printed. Two checks hold 53%: no-rule-in-two-files 1046, identifier-matches-its-place 340. A check refusing what no file can change is mended in the check rather than in the files. 414 such refusals are left. Take the worst files first.",
     },
     {
+      statement: "Every codec version the tree reads is round-tripped by a test.",
+      workingMemory:
+        "No codec has a round trip test at any version. The tree reads character v48 and v52 and companion v48 and v49. Real hashes are recorded on the character build pages and every one of them is v52. A test file is held to 5 processor seconds.",
+    },
+    {
+      statement: "The addons write the newest codec version.",
+      workingMemory:
+        "Both shipped addons write version 48. TemperCharacters.lua and TemperCompanions.lua each set ESO_VERSION to 48 and write it as 8 bits. The web app writes character v52 and companion v49. That constant is generated from codec-constants, so the move is a regeneration and a rebuild rather than an edit to the Lua. A build captured by the old addon stays v48 after the move.",
+    },
+    {
+      statement: "Every codec version the tree holds has a writer.",
+      workingMemory:
+        "Character v49, v50 and v51 have no writer and no recorded hash. Taking them out clears about 135 no-rule-in-two-files refusals, as the equipment, skills and champion point files are byte-identical across v48 to v50 and across v51 to v52. Character v48 stays until the addon writes v52. Companion v48 and v49 both have a writer today.",
+    },
+    {
       statement: "Every route file is claimed by a page.",
       workingMemory:
         "186 files under routes/ across seven web apps and code-system, against 12 route pages. Split off the wider claiming because it waits on Alan rather than on reading: one route page type is shared, a slug is unique per page type, and so `home` cannot be written seven times. Alan is settling that separately, under uniquePropertySlug, which names the property a value is unique within. Resume once a route slug is unique within its app rather than across every app.",
