@@ -91,6 +91,11 @@ export const identifierMatchesItsPlace = {
       statement: "A component opened as an element only from another file is judged as a function.",
     },
     {
+      invariantKind: "gap",
+      statement:
+        "A component drawing nothing is held to a name JSX opens as a tag of the browser's own.",
+    },
+    {
       invariantKind: "departure",
       statement: "A tag opening lower makes no component.",
     },
