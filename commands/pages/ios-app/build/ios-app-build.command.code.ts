@@ -22,7 +22,7 @@ const WWW_AT = "www-staged"
 
 const SPA_SOURCE = "NATIVE_SHELL_SPA_SOURCE_DIR"
 
-const EXCLUDES = ["node_modules", "ios", "build", ".DS_Store"]
+const EXCLUDES = ["node_modules", "ios", "www", "build", ".DS_Store"]
 
 const MAC_PATH = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
 

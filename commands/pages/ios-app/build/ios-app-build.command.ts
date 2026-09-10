@@ -49,5 +49,13 @@ export const iosAppBuild = {
       invariantKind: "departure",
       statement: "A site handed in takes the place of the site the app's page would stage.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A site handed in reaches the mac beside the tree rather than inside it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No app's web directory is delivered, since the mac builds that directory.",
+    },
   ],
 } as const satisfies Command
