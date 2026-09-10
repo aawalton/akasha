@@ -1,5 +1,8 @@
-import { readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   type HookRegistration,
   hooksFrom,
@@ -14,11 +17,18 @@ const SETTINGS_AT = new URL(
 const EXIT_INPUT = 1
 const EXIT_DATA = 2
 
+const SHELL_SCRIPT = "shell-script"
+
+const BASH_ENV_SCRIPT = "bash-env"
+
+const STATUSLINE_SCRIPT = "statusline"
+
 const HELP = `supervisor-agent-settings — print the fleet's agent settings document
 
-Prints \`seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json\` from this repository verbatim, as JSON on stdout, with the hooks akasha declares merged into it. A
-module elsewhere in this repository imports \`agentSettings\` rather than running this, so what
-this prints is for a person reading it.
+Prints \`seat-system/agent-settings/pages/agents/agents.agent-settings.harness-settings.json\` from this repository as JSON on stdout, with the hooks akasha declares merged in, and with
+\`BASH_ENV\` and \`statusLine\` resolved to the shell files the index answers for. A module
+elsewhere in this repository imports \`agentSettings\` rather than running this, so what this
+prints is for a person reading it.
 
 Usage:
   bun seat-system/supervising/supervisor-agent-settings/supervisor-agent-settings.module.code.ts
@@ -29,7 +39,7 @@ Flags:
 Exits:
   0  the document was printed
   1  a flag was not understood
-  2  the document is absent, unreadable, or is not a JSON object
+  2  the document, or a shell script akasha resolves for the document, could not be read
 `
 
 function refuse(message: string, code: number): never {
@@ -59,6 +69,43 @@ function settingsDocument(raw: string, path: string): Record<string, unknown> {
   }
 }
 
+function scriptAt(root: string, slug: string): string {
+  const listed = listedAt(root, SHELL_SCRIPT, slug)
+  const page = listed.length === 1 ? listed[0]?.path : undefined
+  if (page === undefined) {
+    throw new Error(
+      `the index answers no one page for \`${SHELL_SCRIPT}/${slug}\`, and a seat spawns on the ` +
+        "one shell file that page sits beside"
+    )
+  }
+  const beside = besideAt(page, "shell", "sh")
+  if (beside === null) {
+    throw new Error(
+      `\`${page}\` is the page for \`${SHELL_SCRIPT}/${slug}\`, and no shell file sits beside a ` +
+        "page named that way"
+    )
+  }
+  const at = join(root, beside)
+  if (!existsSync(at)) {
+    throw new Error(
+      `\`${SHELL_SCRIPT}/${slug}\` names \`${beside}\`, and nothing is there for a seat to run`
+    )
+  }
+  return at
+}
+
+function envWith(stated: unknown, bashEnv: string): Record<string, unknown> {
+  const held: Record<string, unknown> =
+    stated !== null && typeof stated === "object" && !Array.isArray(stated)
+      ? { ...(stated as Record<string, unknown>) }
+      : {}
+  return { ...held, BASH_ENV: bashEnv }
+}
+
+function statusLineOn(at: string): Record<string, unknown> {
+  return { type: "command", command: `bash ${at}` }
+}
+
 export function agentSettings(): Record<string, unknown> {
   const path = SETTINGS_AT
 
@@ -74,6 +121,8 @@ export function agentSettings(): Record<string, unknown> {
 
   const document = settingsDocument(raw, path)
   const root = ownRepoRoot()
+  const bashEnvAt = scriptAt(root, BASH_ENV_SCRIPT)
+  const statusLineAt = scriptAt(root, STATUSLINE_SCRIPT)
   let derived: Record<string, HookRegistration[]>
   try {
     derived = hooksFrom(root)
@@ -84,7 +133,12 @@ export function agentSettings(): Record<string, unknown> {
     )
   }
 
-  return { ...document, hooks: hooksMerged(document["hooks"], derived) }
+  return {
+    ...document,
+    env: envWith(document["env"], bashEnvAt),
+    hooks: hooksMerged(document["hooks"], derived),
+    statusLine: statusLineOn(statusLineAt),
+  }
 }
 
 function main(): undefined {

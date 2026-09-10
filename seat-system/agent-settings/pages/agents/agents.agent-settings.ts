@@ -7,4 +7,10 @@ export const agents = {
   slug: "agents",
   definition: "what every agent on this workstation is spawned with",
   harnessSettings: "json",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The bash environment and the statusline are resolved by akasha rather than here.",
+    },
+  ],
 } as const satisfies AgentSettings

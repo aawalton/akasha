@@ -6,6 +6,7 @@ export const supervisorAgentSettings = {
   slug: "supervisor-agent-settings",
   definition: "the settings document a seat spawns on, with the hooks akasha declares merged in",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -19,6 +20,19 @@ export const supervisorAgentSettings = {
     {
       invariantKind: "departure",
       statement: "The hooks akasha declares are merged over the hooks the document has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shared script paths are resolved through the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resolved script path is absolute rather than relative to a checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A shell script the index answers no page for is refused rather than emitted as an empty path.",
     },
     {
       invariantKind: "departure",

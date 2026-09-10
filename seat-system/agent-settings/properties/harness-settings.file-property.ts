@@ -12,11 +12,15 @@ export const harnessSettings = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A settings body is JSON the harness reads without any akasha code between.",
+      statement: "A settings body reaches a harness through akasha code rather than off disk.",
     },
     {
       invariantKind: "departure",
-      statement: "A settings body is written by hand rather than derived from another page.",
+      statement: "A settings body is written by hand apart from the keys akasha derives.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key akasha derives is absent from the body rather than written by hand.",
     },
   ],
 } as const satisfies FileProperty

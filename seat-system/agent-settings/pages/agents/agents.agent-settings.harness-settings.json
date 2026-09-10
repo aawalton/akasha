@@ -1,6 +1,5 @@
 {
   "env": {
-    "BASH_ENV": "$HOME/repos/akasha/code-system/shell-scripts/pages/bash-env/bash-env.shell-script.shell.sh",
     "CLAUDE_CODE_THRIFTY_SONIC": "0",
     "DISABLE_AUTOUPDATER": "1",
     "ENABLE_TOOL_SEARCH": "true"
@@ -25,10 +24,6 @@
       "Agent(claude-code-guide)",
       "Agent(isolation:worktree)"
     ]
-  },
-  "statusLine": {
-    "type": "command",
-    "command": "bash $HOME/repos/akasha/code-system/shell-scripts/pages/statusline/statusline.shell-script.shell.sh"
   },
   "fastMode": false,
   "skipDangerousModePermissionPrompt": true,
