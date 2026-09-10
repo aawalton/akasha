@@ -15,15 +15,15 @@ export const dayMessages = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona written to for the first time that day arrives at one.",
+      statement: "A persona written to for the first time that day is counted once.",
     },
     {
       invariantKind: "departure",
-      statement: "A persona already counted that day has her count raised by one.",
+      statement: "A persona already counted that day is counted once more.",
     },
     {
       invariantKind: "departure",
-      statement: "The personas already counted keep the order they were counted in.",
+      statement: "The personas already counted keep the order those personas were counted in.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const dayMessages = {
     },
     {
       invariantKind: "departure",
-      statement: "A day with no page filed under it is no day to count against.",
+      statement: "A day with no page filed under that day is no day to count against.",
     },
     {
       invariantKind: "departure",
