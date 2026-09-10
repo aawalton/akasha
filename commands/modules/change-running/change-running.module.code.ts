@@ -72,6 +72,10 @@ const NO_ARGUMENTS =
 
 const NO_SUCH_PATH = "ENOENT"
 
+const IS_A_FOLDER = "EISDIR"
+
+const NO_BODY: ReadonlySet<string> = new Set([NO_SUCH_PATH, IS_A_FOLDER])
+
 const NOT_TEXT = "is not text, and a change reads a body as text"
 
 export type Over = (world: World) => Promise<Said>
@@ -81,7 +85,7 @@ function bytesIn(root: string, path: string): Uint8Array | null {
     return readFileSync(join(root, path))
   } catch (cause) {
     const said = cause instanceof Error && "code" in cause ? String(cause.code) : ""
-    if (said !== NO_SUCH_PATH) throw cause
+    if (!NO_BODY.has(said)) throw cause
     return null
   }
 }

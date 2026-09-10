@@ -1,7 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
+import { mkdirSync } from "node:fs"
+import { join } from "node:path"
 import { NAMER_CODE, NAMER_PAGE, scratch } from "@akasha/indexes/indexing/testing"
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { appending, changing, owedBy, owingBy, stamped } from "./change-running.module.code.ts"
+import {
+  appending,
+  changing,
+  owedBy,
+  owingBy,
+  stamped,
+  textIn,
+} from "./change-running.module.code.ts"
 import {
   APPLIED,
   acting,
@@ -346,6 +355,13 @@ test("a change naming draft and measure together is refused and appends nothing"
   expect(said.refusals[0] ?? "").toContain("`draft` declines")
   expect(MEASURED).toEqual([])
   expect(pathsIn(root)).toEqual([])
+})
+
+test("a path a folder sits at holds no body, so a change reads that path as empty", () => {
+  const root = repo()
+  mkdirSync(join(root, "akasha/folder.ts"), { recursive: true })
+
+  expect(textIn(root)("akasha/folder.ts")).toBeNull()
 })
 
 test("a body that is not text refuses the change rather than being read as text", async () => {

@@ -159,6 +159,10 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A path a folder sits at holds no body, so a change reads that path as empty.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The edits are read and appended to under one turn over the file the edits fill.",
     },
     {
