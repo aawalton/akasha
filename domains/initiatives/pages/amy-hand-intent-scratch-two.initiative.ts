@@ -7,11 +7,5 @@ export const amyHandIntentScratchTwo = {
   slug: "amy-hand-intent-scratch-two",
   domain: "domain/alan-harness",
   persona: "amy",
-  intents: [
-    {
-      statement: "This scratch intent is handed to the other scratch initiative.",
-      workingMemory:
-        "This memory rides along with the intent, and reaching the other initiative unchanged is what proves it.",
-    },
-  ],
+  intents: [],
 } as const satisfies Initiative
