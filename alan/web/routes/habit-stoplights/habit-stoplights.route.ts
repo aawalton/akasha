@@ -48,7 +48,11 @@ export const habitStoplights = {
     },
     {
       invariantKind: "departure",
-      statement: "An empty figure names a missing reading, and the color never names it.",
+      statement: "An empty figure names a missing reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The color never names a missing reading.",
     },
     {
       invariantKind: "departure",
