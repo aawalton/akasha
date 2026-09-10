@@ -128,6 +128,10 @@ export const alanHarness = {
       invariantKind: "departure",
       statement: "The reading is taken on Alan's workstation rather than by a pod serving a route.",
     },
+    {
+      invariantKind: "absence",
+      statement: "A tile shows its last reading rather than going dark when the taker dies.",
+    },
   ],
   directives: [
     {
