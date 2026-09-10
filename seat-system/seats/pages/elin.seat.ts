@@ -1,4 +1,4 @@
-import type { Seat } from "../seat.page-type.ts"
+import type { Seat } from "../seat.page-type.types.ts"
 
 export const elin = {
   id: "01a08888-156b-7000-8c9e-787c7a972c4b",
