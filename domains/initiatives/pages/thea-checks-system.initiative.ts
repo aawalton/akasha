@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "The audit runs to the end now under no ceiling on the clock: 5:29.75 wall, 1113 refusals. 58 checks gather and 52 run at audit, and a check that will not load refuses from itself rather than aborting the gather for every check. no-rule-in-two-files is 905, of which 86 are the LCCC copy two ESO libraries each carry; Alan has ruled that no copy is tolerated. file-has-its-page is 45.",
+        "The audit runs to the end under no ceiling on the clock, and a check that will not load refuses from itself rather than aborting the gather. no-rule-in-two-files is 810, the LCCC collapse having taken 95; no copy is tolerated, and the next cluster is four web apps repeating their shells, auth providers and routes. file-has-its-page is 45. tests-pass names 22 failing test files, of which one is real: failedIn reads a bun header as a failure where it means only that the file printed.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
@@ -38,8 +38,16 @@ export const theaChecksSystem = {
       workingMemory:
         "The ast-unused audit is the finder that exists: 8 ast-unused-config pages, now under code-system/audit-ast-unused/ast-unused-configs/pages, name the entry globs each workspace family is read under. They were parked in the cluster-checks folder and came out before it went. Nothing in the tree resolves the curation path or runs the tool, so both what runs it and what it answers over the tree as it is are unmeasured. nimue-code-cleanup names it too.",
     },
-    { statement: "No finding is filed on checks-system or any part beneath it." },
-    { statement: "No gap invariant is written on checks-system or any part beneath it." },
+    {
+      statement: "No finding is filed on checks-system or any part beneath it.",
+      workingMemory:
+        "31 findings name domain/check, second only to all-about-alan's 56, out of 272 in the tree. None has been read under this initiative. Each is either work to finish or a truth belonging on the page it concerns, and the constraint is that work a step turns up is finished rather than filed, so each of the 31 is done or deleted rather than re-filed.",
+    },
+    {
+      statement: "No gap invariant is written on checks-system or any part beneath it.",
+      workingMemory:
+        "95 gap invariants sit under checks. repository-is-written-by-a-change carries 11 alone, then no-body-read-beside-an-index and check.domain.ts at 5 each, check-cost and no-tmp at 4. The tests-pass gap went this morning, replaced by four departures saying what the code does. A gap claims a thing is not yet true, so each is mended and deleted or was no gap.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
