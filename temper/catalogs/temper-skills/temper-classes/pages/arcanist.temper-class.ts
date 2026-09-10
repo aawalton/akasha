@@ -1,4 +1,4 @@
-import type { TemperClass } from "../temper-class.page-type.ts"
+import type { TemperClass } from "../temper-class.page-type.types.ts"
 
 export const arcanist = {
   id: "01a05fce-294d-703f-b58b-ab87f9e70585",

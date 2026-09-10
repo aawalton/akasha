@@ -1,4 +1,4 @@
-import type { TemperClass } from "../temper-class.page-type.ts"
+import type { TemperClass } from "../temper-class.page-type.types.ts"
 
 export const templar = {
   id: "01a05fce-294f-7405-bec3-396bae981d70",

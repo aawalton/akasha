@@ -1,4 +1,4 @@
-import type { TemperClass } from "../temper-class.page-type.ts"
+import type { TemperClass } from "../temper-class.page-type.types.ts"
 
 export const necromancer = {
   id: "01a05fce-294e-7418-bd49-e71149ef24ba",
