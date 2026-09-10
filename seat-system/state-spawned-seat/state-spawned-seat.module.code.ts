@@ -25,8 +25,6 @@ function said(value: string | null | undefined): string | null {
   return value === undefined || value === "" ? null : value
 }
 
-// WHAT A SPAWNED SEAT STATES IS HANDED OVER AS VALUES. The statement is a record here already, so
-// nothing writes it out as a command line for a second process to read back in.
 function stating(statement: SeatStatement, mode: Mode): Args {
   const set: { -readonly [K in Declaration]?: string } = {}
   const held: Readonly<Record<string, unknown>> = { ...statement }

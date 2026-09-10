@@ -43,15 +43,6 @@ export function isPriorHolderCallerSeat(priorHolderId: string): boolean {
   return isAncestorOfSelf(key.pid)
 }
 
-/**
- * The claim `seat-name-claim` judges, gathered from what this workstation can see.
- *
- * Whether the name is reachable at all is asked of `addressableByName` rather than worked out from
- * a resolution kind here. The two agree: over 59 edge names and 200,000 fuzzed ones,
- * `planSeatResolution(name).kind === "name"` and `addressableByName(name)` never parted, while a
- * seeded flip parted 8 of the edge names and 28,571 of the fuzzed. The fuzzed names split 24,386
- * reachable against 175,614 not, so the agreement is measured over both answers.
- */
 export function gatherAgentNameBindInput(args: {
   readonly bindingAgentId: string | null
   readonly name: string
