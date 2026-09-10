@@ -6,7 +6,7 @@ import type { ErrorFingerprint } from "./properties/error-fingerprint.text-prope
 import type { ErrorFirstSeenAt } from "./properties/error-first-seen-at.instant-property.ts"
 import type { ErrorKind } from "./properties/error-kind.text-property.ts"
 import type { ErrorLastSeenAt } from "./properties/error-last-seen-at.instant-property.ts"
-import type { Message } from "./properties/error-message.text-property.ts"
+import type { ErrorMessage } from "./properties/error-message.text-property.ts"
 import type { ReleaseSha } from "./properties/error-release-sha.text-property.ts"
 import type { Url } from "./properties/error-url.text-property.ts"
 import type { UserAgent } from "./properties/error-user-agent.text-property.ts"
@@ -15,7 +15,7 @@ export type RuntimeError = Page & {
   fingerprint: ErrorFingerprint
   app: ErrorApp
   kind: ErrorKind
-  message: Message
+  message: ErrorMessage
   url?: Url
   userAgent: UserAgent
   releaseSha?: ReleaseSha

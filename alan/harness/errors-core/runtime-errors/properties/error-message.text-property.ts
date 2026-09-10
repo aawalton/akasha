@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type Message = string
+export type ErrorMessage = string
 
 export const errorMessage = {
   id: "01a05f3f-e3e0-7450-8ae9-c82bf3ef1359",
