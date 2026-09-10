@@ -6,6 +6,7 @@ export const id = {
   type: "domain",
   slug: "id",
   definition: "how a fresh identifier is made",
+  pluralSlug: "ids",
   parts: ["module/random-id", "module/uuid-version-7"],
   invariants: [
     {
