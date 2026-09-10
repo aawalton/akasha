@@ -21,7 +21,11 @@ export const deviceSecretSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A shell that says no keychain domain reads as unsaid, and unsaid re-mints.",
+      statement: "A shell that says no keychain domain reads as unsaid.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An unsaid keychain domain mints the secret again.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +39,11 @@ export const deviceSecretSync = {
     { invariantKind: "departure", statement: "The secret never enters this process." },
     {
       invariantKind: "departure",
-      statement: "A shell with no `present` method answers unanswered, which decides nothing.",
+      statement: "A shell with no `present` method answers unanswered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An unanswered presentation decides nothing.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +71,7 @@ export const deviceSecretSync = {
     {
       invariantKind: "departure",
       statement:
-        "The clear is reached on one edge alone: a null identity after a render that had one.",
+        "A null identity after a render that had one is the only edge the clear is reached on.",
     },
     {
       invariantKind: "constraint",
