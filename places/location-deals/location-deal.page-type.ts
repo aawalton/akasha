@@ -18,7 +18,7 @@ export type LocationDeal = Page & {
   collection: Collection
   dealKey: DealKey
   finePrint?: FinePrint
-  locations: readonly Locations[]
+  locations: Locations
   offerText: OfferText
   offerType: OfferType
   redemptionCode?: RedemptionCode
