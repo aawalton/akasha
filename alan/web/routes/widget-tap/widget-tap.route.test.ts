@@ -17,14 +17,11 @@ const counted = async () => ({ taps: 4, at: AT })
 
 const uncounted = async () => null
 
-// A TAP IS HANDED IN AS THE TWO THINGS THE ANSWERING READS OFF A REQUEST. This workspace preloads
-// happy-dom, whose `Request` drops `Origin` the way a browser does, and the origin is the whole of
-// the cross-origin answer, so a real `Request` could not carry what these tests are about.
 function asked(body: unknown, origin: string = CAPACITOR): Request {
   return {
     headers: { get: (name: string) => (name.toLowerCase() === "origin" ? origin : null) },
     json: async () => body,
-  } as unknown as Request
+  } as Request
 }
 
 test("a caller who is not signed in is refused", async () => {
