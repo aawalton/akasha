@@ -8,7 +8,7 @@ import {
 } from "../credential-push/claude-account-credential-push.module.code.ts"
 import { type Marks, markedIn } from "../marking/claude-account-marking.module.code.ts"
 import { PROFILE_RESPONSE_SCHEMA, PROFILE_URL } from "../oauth/claude-account-oauth.module.code.ts"
-import { accountPathIn, accountValuesIn } from "../reading/claude-account-reading.module.code.ts"
+import { accountPathIn } from "../reading/claude-account-reading.module.code.ts"
 
 const PROBE_TIMEOUT_MS = 750
 
@@ -243,11 +243,7 @@ export async function pinnedIn(
     if (pushed.kind === "refused" || pushed.kind === "absent") return refused(pushed.why)
 
     at = "pin"
-    // The uuid is what the account IS, settled when the account is made. A sign-in answering the
-    // same one has nothing to pin. One answering a different one has reached a different Anthropic
-    // account under this name, and which account this is is a person's to say rather than a
-    // reading to overwrite.
-    const stated = accountValuesIn(root, slug)?.[ACCOUNT_UUID]
+    const stated = pageOf(page)?.[ACCOUNT_UUID]
     if (stated !== given.accountUuid) {
       return refused(
         `${page} states \`${String(stated)}\` and this sign-in answered \`${given.accountUuid}\`, so it reached ` +

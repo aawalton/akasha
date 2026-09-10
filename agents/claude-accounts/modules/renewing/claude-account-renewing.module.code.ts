@@ -70,8 +70,6 @@ export async function renewedIn(args: {
     if (read.kind === "absent") return { ok: false, terminal: false, reason: "no-credential" }
     const standing = read.credential
 
-    // A credential with life left past the margin is answered as it is, so the endpoint is
-    // reached only where the pair the page holds is about to be spent.
     if (standing.accessTokenExpiresAtMs >= doors.now() + marginMs) {
       return { ok: true, credential: credentialOf(standing) }
     }
@@ -132,8 +130,6 @@ export async function renewedIn(args: {
       reading,
       pageOf
     )
-    // A push that landed the pair, that found the pair already there, or that found a fresher pair
-    // already there all leave the page holding a credential, so the page is read again for it.
     let held = true
     if (push.kind === "absent" || push.kind === "refused") {
       held = false
@@ -145,8 +141,6 @@ export async function renewedIn(args: {
       if (back.kind === "read") return { ok: true, credential: credentialOf(back.credential) }
     }
 
-    // What the endpoint said, wearing the scopes, the plan and the band the page states, because
-    // the token response names none of those three.
     return {
       ok: true,
       credential: {
