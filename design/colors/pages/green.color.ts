@@ -1,4 +1,4 @@
-import type { Color } from "../color.page-type.ts"
+import type { Color } from "../color.page-type.types.ts"
 
 export const green = {
   id: "01a00bb6-c14a-7000-8674-f5c1d9db59e5",

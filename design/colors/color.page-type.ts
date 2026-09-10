@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Hex } from "./properties/hex.text-property.ts"
-
-export type Color = Page & {
-  title: Title
-  hex?: Hex
-}
 
 export const color = {
   id: "01a06575-c2a9-766f-8f09-da30cc969637",
@@ -44,4 +36,5 @@ export const color = {
       statement: "A color stating no hex is drawn in whatever text color the reader already has.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

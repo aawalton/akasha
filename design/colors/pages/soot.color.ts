@@ -1,4 +1,4 @@
-import type { Color } from "../color.page-type.ts"
+import type { Color } from "../color.page-type.types.ts"
 
 export const soot = {
   id: "01a0821f-a3c8-76b5-99a4-5d222b936b65",
