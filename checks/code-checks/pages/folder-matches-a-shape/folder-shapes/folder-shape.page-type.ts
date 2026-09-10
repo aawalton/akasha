@@ -41,7 +41,6 @@ export const folderShape = {
     "boolean-property/folder-shape-enabled",
     "folder-shape/sections-of-the-book-above",
     "folder-shape/sections-of-the-section-beside",
-    "folder-shape/folders-only",
     "folder-shape/modules-only",
     "folder-shape/one-page-with-its-properties",
     "folder-shape/a-page-with-its-parts",
