@@ -278,13 +278,7 @@ export const WIRE_MODULE_KEY = "module"
 
 export const WIRE_EXPORT_KEY = "export"
 
-export function askIn(line: string): Ask | null {
-  let said: unknown
-  try {
-    said = JSON.parse(line)
-  } catch {
-    return null
-  }
+function parseAsk(said: unknown): Ask | null {
   if (said === null || typeof said !== "object") return null
   const held = said as Record<string, unknown>
   const slug = held[WIRE_MODULE_KEY]
@@ -297,6 +291,14 @@ export function askIn(line: string): Ask | null {
     module: slug,
     exported,
     args: Array.isArray(args) ? args.filter((one): one is string => typeof one === "string") : [],
+  }
+}
+
+export function askIn(line: string): Ask | null {
+  try {
+    return parseAsk(JSON.parse(line))
+  } catch {
+    return null
   }
 }
 
