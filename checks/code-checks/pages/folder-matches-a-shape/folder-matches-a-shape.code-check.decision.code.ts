@@ -48,6 +48,8 @@ const PACKAGE = "workspace-package"
 
 const DOMAIN = "domain"
 
+const WORKSPACE = "workspace"
+
 const ONE_OF_PROPERTY = "one-of-property"
 
 const MEMBERS = "members"
@@ -178,12 +180,18 @@ function beside(said: Held): boolean {
   return said.pageTypeSlug !== null && BESIDE.has(said.pageTypeSlug)
 }
 
+function roots(page: Held, said: Held): boolean {
+  return page.pageTypeSlug === DOMAIN && said.pageTypeSlug === WORKSPACE
+}
+
 export function pairedIn(pages: readonly Held[]): readonly Held[] {
   const [one, two] = pages
   if (one === undefined || pages.length > 2) return []
   if (two === undefined) return [one]
   if (beside(two) && pairs(one, two)) return [one, two]
   if (beside(one) && pairs(two, one)) return [two, one]
+  if (roots(one, two)) return [one, two]
+  if (roots(two, one)) return [two, one]
   return []
 }
 

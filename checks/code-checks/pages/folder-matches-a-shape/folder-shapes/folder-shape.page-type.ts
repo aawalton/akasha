@@ -254,6 +254,10 @@ export const folderShape = {
       invariantKind: "departure",
       statement: "A page is declared a part by its page type and slug together.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding a workspace beside a domain answers for the domain.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType

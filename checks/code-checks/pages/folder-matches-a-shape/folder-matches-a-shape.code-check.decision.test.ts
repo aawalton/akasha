@@ -154,6 +154,27 @@ test("the page in a folder is read by its path, so a scoped page states its plur
   expect([...holds(MY_STRATEGY_SECTIONS).declared]).toEqual(["book-section/two"])
 })
 
+const ROOT_DOMAIN = "akasha.domain.ts"
+
+const ROOT_WORKSPACE = "akasha-workspace.workspace.ts"
+
+const ROOTED = new Map<string, Value>([
+  [ROOT_DOMAIN, { pageTypeSlug: "domain", slug: "akasha", parts: ["domain/agents"] }],
+  [ROOT_WORKSPACE, { pageTypeSlug: "workspace", slug: "akasha-workspace" }],
+])
+
+test("a workspace beside a domain answers for the domain and for what that domain declares", () => {
+  const holds = holdingOver(
+    { pageByPath: (asked) => ROOTED.get(asked) ?? null },
+    { at: () => [ROOT_WORKSPACE, ROOT_DOMAIN], foldersIn: () => [] },
+    new Set<string>(["domain", "workspace"]),
+    new Set<string>()
+  )
+  expect(holds("").names).toEqual(["akasha"])
+  expect([...holds("").holds]).toEqual(["domain/akasha", "workspace/akasha-workspace"])
+  expect([...holds("").declared]).toEqual(["domain/agents"])
+})
+
 test("the page a claimed file sits beside is the one the index names", () => {
   expect(pageNameOf("akasha/pages-system/indexes/indexes.workspace-package.ts")).toBe(
     "indexes.workspace-package"
