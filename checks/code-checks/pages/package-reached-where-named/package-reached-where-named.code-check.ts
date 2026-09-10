@@ -127,7 +127,7 @@ export const packageReachedWhereNamed = {
     {
       invariantKind: "departure",
       statement:
-        "A file beside a page under another section is reached only where a manifest names it.",
+        "A file beside a page under another section is reached only where a manifest names that file.",
     },
   ],
   check: { maxCpuSeconds: 10 },

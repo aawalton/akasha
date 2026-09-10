@@ -19,7 +19,8 @@ export const popoverKeepsItsViewportCap = {
     },
     {
       invariantKind: "departure",
-      statement: "A wrapper is found wherever it is written rather than in a package named here.",
+      statement:
+        "A wrapper is found wherever that wrapper is written rather than in a package named here.",
     },
     {
       invariantKind: "departure",
@@ -27,11 +28,15 @@ export const popoverKeepsItsViewportCap = {
     },
     {
       invariantKind: "departure",
-      statement: "A max-w token on a named tag replaces the cap rather than joining it.",
+      statement: "A max-w token on a named tag replaces the cap rather than joining the cap.",
     },
     {
       invariantKind: "departure",
-      statement: "A max-w with a calc is left, the cap being reachable inside it.",
+      statement: "A max-w with a calc is left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The cap is reachable inside a max-w with a calc.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +45,7 @@ export const popoverKeepsItsViewportCap = {
     {
       invariantKind: "departure",
       statement:
-        "Turning collisions off, and closing the collision padding, are refused on those tags.",
+        "Turning collisions off and closing the collision padding are refused on those tags.",
     },
     {
       invariantKind: "departure",

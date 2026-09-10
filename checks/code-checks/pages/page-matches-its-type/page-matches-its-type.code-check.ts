@@ -51,7 +51,7 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "departure",
-      statement: "Every page of that type has that value without stating it.",
+      statement: "Every page of that type has that value without stating that value.",
     },
     {
       invariantKind: "departure",

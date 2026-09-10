@@ -20,16 +20,16 @@ export const pageReasons = {
     {
       invariantKind: "departure",
       statement:
-        "A value a page type declares uncommitted, secret, fixed or worked out is on no page.",
+        "A value a page type declares uncommitted or secret or fixed or worked out is on no page.",
     },
     {
       invariantKind: "departure",
-      statement: "A property is keyed by what its own property page states.",
+      statement: "A property is keyed by the slug its own property page states.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A list is judged for its count, for its repeats, and for the length of each entry.",
+        "A list is judged for its count and for its repeats and for the length of each entry.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const pageReasons = {
     },
     {
       invariantKind: "departure",
-      statement: "A name format is asked for only where a property states one.",
+      statement: "A name format is asked for only where a property states a name format.",
     },
     {
       invariantKind: "departure",
