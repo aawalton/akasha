@@ -7,6 +7,7 @@ import {
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
+import { z } from "zod"
 
 const TOOK = "change-mechanical-file/remove-file"
 
@@ -42,6 +43,19 @@ export function everyReminder(root: string): readonly Found[] {
   return found
 }
 
+const NEXT_ELAPSE = /\(in UTC\):\s*\S+\s+(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2}:\d{2})/
+
+const NEXT_ELAPSE_CAPTURES = z.tuple([z.string(), z.string(), z.string()])
+
+function parseNextElapse(
+  matched: RegExpMatchArray | null
+): { readonly date: string; readonly time: string } | null {
+  if (matched === null) return null
+  const held = NEXT_ELAPSE_CAPTURES.safeParse([...matched])
+  if (!held.success) return null
+  return { date: held.data[1], time: held.data[2] }
+}
+
 export function nextElapse(schedule: string): Elapse {
   const held = ran(["systemd-analyze", "calendar", schedule, "--iterations=1"])
   if (held.code !== 0) {
@@ -49,14 +63,14 @@ export function nextElapse(schedule: string): Elapse {
     return { kind: "unread", said: why === "" ? held.out.trim() : why }
   }
   if (/Next elapse:\s*never/i.test(held.out)) return { kind: "never" }
-  const named = held.out.match(/\(in UTC\):\s*\S+\s+(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2}:\d{2})/)
+  const named = parseNextElapse(held.out.match(NEXT_ELAPSE))
   if (named === null) {
     return { kind: "unread", said: "systemd named no next elapse in a form this could read" }
   }
-  const ms = Date.parse(`${named[1]}T${named[2]}Z`)
+  const ms = Date.parse(`${named.date}T${named.time}Z`)
   return Number.isFinite(ms)
     ? { kind: "at", ms }
-    : { kind: "unread", said: `systemd named ${named[1]} ${named[2]}, which is no instant` }
+    : { kind: "unread", said: `systemd named ${named.date} ${named.time}, which is no instant` }
 }
 
 export function armedAt(root: string, path: string): number | null {
