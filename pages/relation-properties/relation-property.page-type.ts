@@ -1,4 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 import type { TargetPageType } from "./properties/target-page-type.relation-property.ts"
 

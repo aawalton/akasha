@@ -1,4 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { Max } from "../types/page-properties/properties/max.number-property.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 

@@ -1,4 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 import type { FileName } from "./properties/file-name.text-property.ts"
 import type { Generated } from "./properties/generated.boolean-property.ts"

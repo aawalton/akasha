@@ -1,4 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 import type { Properties } from "../types/properties/properties.record-property.ts"
 import type { RenderedAs } from "./properties/rendered-as.text-property.ts"
