@@ -29,7 +29,7 @@ export const aranyaOnePackage = {
       statement:
         "One change dissolves a workspace package and repoints every path that reached it.",
       workingMemory:
-        "`remove-package-manifest` and `remove-package-alias` are already acts. `move-folder` sets the cost to beat: it hands every moved body to the TypeScript parser to collect string literals, measured at 96ms a file over 103 files and 108ms over 481, so temper's 22206 files run past the 120-second ceiling `command-stopping` allows.",
+        "The TypeScript parse is not what makes `move-folder` slow. Over 500 real files `placedIn` costs 0.31ms each, `spelledIn` 0.15ms and `changeImports` whole 0.21ms, so temper 22206 files parse in about 5 seconds, far inside the 120-second ceiling. The 96ms a file recorded before was the whole act, so the cost sits in what the act does around the parse per file. `remove-package-manifest` and `remove-package-alias` are already acts.",
     },
     {
       statement: "No folder but the root is a workspace package.",
