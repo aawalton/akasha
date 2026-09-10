@@ -13,7 +13,7 @@ export const awenPageFoldersByIndex = {
       statement:
         "Code reaching the pages of a type asks the index for them rather than spelling their folder.",
       workingMemory:
-        "Six sites listed a page folder to read its pages. Three are converted and verified through `valuesOfType`: monarch-files, monarch-merchant-naming, and email-rule-reading, whose 108 rules for Alan read byte-identical after. Three are left, and each deliberately serves a tree wider than this checkout: lualib-pages reads the folder beside the compiler, and the two addon modules take an arbitrary code root. The index does hold 135 lualib, 48 eso-addon, 40 eso-interface and 6 lua-module pages.\n",
+        "Four of six sites are converted and verified: monarch-files, monarch-merchant-naming, email-rule-reading, and lualib-pages, which still builds a byte-identical 110106-byte Lua 5.4 bundle. Two are left, both under temper/addon-build, and both are built over an arbitrary tree: their tests raise synthetic addon folders in /var/tmp and hand those in, so 5 of 12 fail the moment the index answers. A seventh site is `holdsDeclarations`, walking for type-declaration pages, 274 of which the index holds.\n",
     },
     {
       statement:
