@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for audit.",
       workingMemory:
-        "Every check states audit maxCpuSeconds 60. A sweep of all 56 over the whole tree had 54 record a cost, every one under that ceiling: worst page-matches-its-type 48.6s, then typecheck 26.2s, relation-resolves 21.3s, invariant-statement-is-plain 20.6s. Left is the four that cannot finish an audit and so are unmeasured: lint-clean and tests-pass throw in a bun eval, typecheck throws part way on a source file not found, and id-is-a-uuid-version-7 throws ENOENT in its audit code.",
+        "Every check states audit maxCpuSeconds 60. All 56 run over the whole tree and record a cost under it: worst page-matches-its-type 48.6s, typecheck 26.2s, relation-resolves 21.3s, invariant-statement-is-plain 20.6s. everyPath files paths a page may have, 1168 of them .ts the disk lacks, so an audit walking the index and reading by hand throws: calculation-imports-only-types and check-reaches-a-path-through-the-index still do. Left is typecheck, which throws part way on a source file not found.",
     },
     {
       statement: "Every check is green.",
