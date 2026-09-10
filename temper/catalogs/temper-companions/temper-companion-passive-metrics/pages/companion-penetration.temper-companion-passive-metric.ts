@@ -1,4 +1,4 @@
-import type { TemperCompanionPassiveMetric } from "../temper-companion-passive-metric.page-type.ts"
+import type { TemperCompanionPassiveMetric } from "../temper-companion-passive-metric.page-type.types.ts"
 
 export const companionPenetration = {
   id: "01a05fcd-70fa-7849-91f5-e8aed24d47ad",

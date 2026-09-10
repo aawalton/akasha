@@ -1,4 +1,4 @@
-import type { TemperCompanionPassiveMetric } from "../temper-companion-passive-metric.page-type.ts"
+import type { TemperCompanionPassiveMetric } from "../temper-companion-passive-metric.page-type.types.ts"
 
 export const companionBuffDuration = {
   id: "01a05fcd-70f8-7ace-b98a-01ab2b0760d8",

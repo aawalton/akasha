@@ -1,4 +1,4 @@
-import type { TemperCompanionPassiveMetric } from "../temper-companion-passive-metric.page-type.ts"
+import type { TemperCompanionPassiveMetric } from "../temper-companion-passive-metric.page-type.types.ts"
 
 export const companionHealthRecovery = {
   id: "01a05fcd-70fa-7b06-ba05-d5a437aade98",
