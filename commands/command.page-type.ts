@@ -10,7 +10,6 @@ export const command = {
   parts: [
     "command/audit",
     "command/calendar",
-    "command/drive",
     "command/icloud",
     "command/ios-app",
     "command/push",
