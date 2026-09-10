@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type ValidOffHandWeaponTypes = string
+export type ValidOffHandWeaponTypes = List<string>
 
 export const validOffHandWeaponTypes = {
   id: "01a05fcd-aed3-7341-ac9b-0786c5adcd7c",
