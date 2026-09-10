@@ -1,4 +1,9 @@
-import { messageDate, orderNumberIn } from "../amazon-order/monarch-amazon-order.module.code.ts"
+import {
+  messageDate,
+  orderNumberIn,
+  parseCentsIn,
+  parseGroupIn,
+} from "../amazon-order/monarch-amazon-order.module.code.ts"
 import type { EmailMessage } from "../gmail-cache/monarch-gmail-cache.module.code.ts"
 
 const TOTAL_REFUND = /Total refund\*?\s*\$([\d,]+(?:\.\d+)?)/
@@ -21,16 +26,16 @@ export interface AmazonRefund {
 
 export function parseRefundEmail(message: EmailMessage): AmazonRefund | null {
   const orderNumber = orderNumberIn(message.body)
-  const total = TOTAL_REFUND.exec(message.body)?.[1]
-  const asin = RETURNED_ASIN.exec(message.body)?.[1]
-  if (orderNumber === null || total === undefined || asin === undefined) return null
+  const totalCents = parseCentsIn(TOTAL_REFUND.exec(message.body))
+  const asin = parseGroupIn(RETURNED_ASIN.exec(message.body))
+  if (orderNumber === null || totalCents === null || asin === null) return null
   return {
     messageId: message.id,
     orderNumber,
     asin,
     refundDate: messageDate(message.date),
-    totalCents: Math.round(Number(total.replace(/,/g, "")) * 100),
-    reason: RETURN_REASON.exec(message.body)?.[1] ?? null,
-    statedTitle: REFUND_TITLE.exec(message.body)?.[1] ?? "",
+    totalCents,
+    reason: parseGroupIn(RETURN_REASON.exec(message.body)),
+    statedTitle: parseGroupIn(REFUND_TITLE.exec(message.body)) ?? "",
   }
 }

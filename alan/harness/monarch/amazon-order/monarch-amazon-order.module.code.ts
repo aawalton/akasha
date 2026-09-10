@@ -12,6 +12,8 @@ const QUANTITY = /^\s*Quantity:\s*(\d+)\s*$/
 
 const BIDI = /[⁦-⁩‎‏]/g
 
+const COMMA = /,/g
+
 export interface OrderItem {
   readonly name: string
   readonly quantity: number
@@ -27,14 +29,21 @@ export interface AmazonOrder {
   readonly items: readonly OrderItem[]
 }
 
+export function parseCentsIn(found: RegExpExecArray | null): number | null {
+  const said = parseGroupIn(found)
+  return said === null ? null : Math.round(Number(said.replace(COMMA, "")) * 100)
+}
+
 export function centsFromMoney(text: string): number | null {
-  const found = MONEY.exec(text)?.[1]
-  if (found === undefined) return null
-  return Math.round(Number(found.replace(/,/g, "")) * 100)
+  return parseCentsIn(MONEY.exec(text))
+}
+
+export function parseGroupIn(found: RegExpExecArray | null): string | null {
+  return found?.[1] ?? null
 }
 
 export function orderNumberIn(body: string): string | null {
-  return ORDER_NUMBER.exec(body)?.[1] ?? null
+  return parseGroupIn(ORDER_NUMBER.exec(body))
 }
 
 export function messageDate(header: string): string {
@@ -51,12 +60,22 @@ export function summaryFromSubject(subject: string): string {
   return (colon === -1 ? clean : clean.slice(colon + 1)).trim()
 }
 
+function parseItemName(found: RegExpExecArray | null): string | null {
+  const said = parseGroupIn(found)
+  return said === null ? null : said.replace(BIDI, "").trim()
+}
+
+function parseQuantity(found: RegExpExecArray | null): number | null {
+  const said = parseGroupIn(found)
+  return said === null ? null : Number(said)
+}
+
 export function itemsFromBody(body: string): readonly OrderItem[] {
   const items: OrderItem[] = []
   let name: string | null = null
   let quantity = 1
   let unitCents: number | null = null
-  const close = (): void => {
+  const close = (): undefined => {
     if (name !== null) items.push({ name, quantity, unitCents })
     name = null
     quantity = 1
@@ -64,16 +83,16 @@ export function itemsFromBody(body: string): readonly OrderItem[] {
   }
   for (const raw of body.split(/\r?\n/)) {
     const line = raw.replace(/\r$/, "")
-    const named = ITEM_NAME.exec(line)?.[1]
-    if (named !== undefined) {
+    const named = parseItemName(ITEM_NAME.exec(line))
+    if (named !== null) {
       close()
-      name = named.replace(BIDI, "").trim()
+      name = named
       continue
     }
     if (name === null) continue
-    const counted = QUANTITY.exec(line)?.[1]
-    if (counted !== undefined) {
-      quantity = Number(counted)
+    const counted = parseQuantity(QUANTITY.exec(line))
+    if (counted !== null) {
+      quantity = counted
       continue
     }
     if (unitCents === null && /^\s*[\d,]+(?:\.\d+)?\s*USD\s*$/.test(line)) {
@@ -89,12 +108,12 @@ export function itemsFromBody(body: string): readonly OrderItem[] {
 export function parseOrderEmail(message: EmailMessage): AmazonOrder | null {
   const orderNumber = orderNumberIn(message.body)
   if (orderNumber === null) return null
-  const total = GRAND_TOTAL.exec(message.body)?.[1]
+  const totalCents = parseCentsIn(GRAND_TOTAL.exec(message.body))
   return {
     messageId: message.id,
     orderNumber,
     orderDate: messageDate(message.date),
-    totalCents: total === undefined ? null : Math.round(Number(total.replace(/,/g, "")) * 100),
+    totalCents,
     summary: summaryFromSubject(message.subject),
     items: itemsFromBody(message.body),
   }
