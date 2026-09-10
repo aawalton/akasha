@@ -211,7 +211,7 @@ async function serve(ask: Ask): Promise<undefined> {
   }
   return say({
     id: ask.id,
-    ok: answer.code === 0,
+    ok: true,
     code: answer.code,
     stdout: answer.stdout,
     stderr: answer.stderr,

@@ -60,6 +60,14 @@ export const harnessCall = {
       statement: "A call answering with a nonzero code is thrown as an error.",
     },
     {
+      invariantKind: "departure",
+      statement: "That error says what the command said rather than naming the export and a code.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command answering nonzero and saying nothing is named with its code instead.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing the server says on stdout or stderr is an answer.",
     },

@@ -112,7 +112,8 @@ export async function callHarness(
   const what = `${module}#${exported}`
   const answer = await askServed(servedClient(), module, exported, args, options.timeout)
   if (answer.code !== 0) {
-    throw new Error(`${what} exited ${answer.code}: ${answer.stderr.trim()}`)
+    const said = answer.stderr.trim()
+    throw new Error(said === "" ? `${what} exited ${answer.code} and said nothing` : said)
   }
   return whole(what, answer.stdout, answer.stderr)
 }

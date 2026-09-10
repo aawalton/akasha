@@ -100,8 +100,9 @@ export async function performPlan(
         await performStep(seat, step)
         output.appendLine(`[${trigger}] ${seat.name}: ${step.kind} ok`)
       } catch (err) {
-        output.appendLine(`[${trigger}] ${seat.name}: ${step.kind} failed: ${String(err)}`)
-        void vscode.window.showErrorMessage(`${seat.name}: could not ${step.kind}. ${String(err)}`)
+        const said = err instanceof Error ? err.message : String(err)
+        output.appendLine(`[${trigger}] ${seat.name}: ${step.kind} failed: ${said}`)
+        void vscode.window.showErrorMessage(`${seat.name}: could not ${step.kind}. ${said}`)
         return undefined
       }
     }

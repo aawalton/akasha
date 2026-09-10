@@ -239,6 +239,19 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer says the server ran the export, whatever code that export answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A command refusing what it was asked answers a nonzero code rather than a refusal.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A refusal is the server's own, so nothing a command decided is said as one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A lease once spent stays spent for every ask after it.",
     },
     {
