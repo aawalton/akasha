@@ -1,13 +1,5 @@
-import {
-  declaredNamed,
-  declaredOn,
-  exportsNamed,
-  placingOver,
-  readingOf,
-  type Typing,
-  typed,
-  typingOver,
-} from "@akasha/code/code-typing"
+import { declaredNamed, declaredOn, exportsNamed } from "@akasha/code/code-naming"
+import { placingOver, readingOf, type Typing, typed, typingOver } from "@akasha/code/code-typing"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import ts from "typescript"

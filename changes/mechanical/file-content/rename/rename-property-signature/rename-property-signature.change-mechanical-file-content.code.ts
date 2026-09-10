@@ -1,13 +1,5 @@
-import {
-  declaredNamed,
-  namingOf,
-  placingOver,
-  readingOf,
-  spelledAs,
-  type Typing,
-  typed,
-  typingOver,
-} from "@akasha/code/code-typing"
+import { declaredNamed, namingOf, spelledAs } from "@akasha/code/code-naming"
+import { placingOver, readingOf, type Typing, typed, typingOver } from "@akasha/code/code-typing"
 import ts from "typescript"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {

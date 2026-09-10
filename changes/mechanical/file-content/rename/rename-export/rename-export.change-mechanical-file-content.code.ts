@@ -2,13 +2,10 @@ import {
   boundAs,
   declaredNamed,
   exportsNamed,
-  type Placing,
-  placingOver,
   reachedFrom,
-  readingOf,
   referencesOf,
-  typingOver,
-} from "@akasha/code/code-typing"
+} from "@akasha/code/code-naming"
+import { type Placing, placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
 import {
   pathsIn,
   refusing,

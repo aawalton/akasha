@@ -48,6 +48,7 @@ export const codeSystem = {
     "module/code-runtime-path",
     "module/code-tokens",
     "module/code-typing",
+    "module/code-naming",
     "module/typing-keeping",
     "module/code-tests",
     "module/code-format",

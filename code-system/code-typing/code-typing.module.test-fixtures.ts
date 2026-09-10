@@ -1,8 +1,8 @@
-import { mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
+import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
-import type { Placing, Reading, Typing } from "./code-typing.module.code.ts"
-import { insideOf, placingOver, readingOf, typingOver } from "./code-typing.module.code.ts"
+import type { Placing, Reading } from "./code-typing.module.code.ts"
+import { placingOver, readingOf } from "./code-typing.module.code.ts"
 
 export const PACKAGED = "node_modules/@akasha"
 
@@ -18,9 +18,6 @@ export const MOVED_AT = "akasha/two/package.json"
 
 const MOVED_TWO_AT = "akasha/two/two.module.code.ts"
 
-export const KEYS_SAID =
-  "export function heldOf(said: readonly string[]): Held {\n  return { keyed: said }\n}\n"
-
 export const scratch = scratchWorld()
 
 export function wrote(root: string, said: Readonly<Record<string, string>>): string[] {
@@ -30,33 +27,6 @@ export function wrote(root: string, said: Readonly<Record<string, string>>): str
     writeFileSync(at, text)
   }
   return Object.keys(said)
-}
-
-function onDisk(at: string): string | undefined {
-  try {
-    return readFileSync(at, "utf8")
-  } catch {
-    return undefined
-  }
-}
-
-export function typed(said: Readonly<Record<string, string>>): {
-  root: string
-  typing: Typing
-} {
-  const root = scratch.rootFor("akasha-typing-")
-  const paths = wrote(root, said)
-  const placed = placingOver(paths, (at) => said[at] ?? null)
-  const typing = typingOver(
-    root,
-    paths,
-    (at) => {
-      const rel = insideOf(root, at)
-      return rel === null ? onDisk(at) : said[rel]
-    },
-    placed
-  )
-  return { root, typing }
 }
 
 export function linked(said: Readonly<Record<string, string>>, slug: string): string {
