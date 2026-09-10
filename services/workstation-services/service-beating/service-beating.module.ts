@@ -22,7 +22,7 @@ export const serviceBeating = {
     },
     {
       invariantKind: "departure",
-      statement: "A round that ended part way through leaves the moment before it where it was.",
+      statement: "A round that ended part way through leaves the moment written before unmoved.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const serviceBeating = {
     },
     {
       invariantKind: "departure",
-      statement: "A window of nothing or less is no window.",
+      statement: "A window that is zero seconds or shorter is no window.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const serviceBeating = {
     },
     {
       invariantKind: "departure",
-      statement: "A moment that is no instant is read as no moment rather than as a recent one.",
+      statement: "A moment that is no instant is read as no moment rather than as a recent moment.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,7 @@ export const serviceBeating = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here settles what a round of a service's work is.",
+      statement: "Nothing here settles which work counts as a round.",
     },
     {
       invariantKind: "absence",

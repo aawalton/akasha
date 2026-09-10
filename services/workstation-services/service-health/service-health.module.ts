@@ -22,7 +22,7 @@ export const serviceHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "A service publishing a host name it could not bind is broken.",
+      statement: "A service publishing a host name the service could not bind is broken.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,8 @@ export const serviceHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "What a service published beside its page is read from the checkout looked at.",
+      statement:
+        "The values a service published beside its page are read from the checkout looked at.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +75,8 @@ export const serviceHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "systemd is asked about every unit at once rather than about one at a time.",
+      statement:
+        "systemd is asked about every unit at once rather than about a single unit at a time.",
     },
     {
       invariantKind: "departure",
