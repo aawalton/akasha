@@ -1,5 +1,6 @@
 import { type Queue, queueAt } from "akasha/pages/entry-queue/page-entry-queue.module.code.ts"
 import { z } from "zod"
+import { saidBy } from "../../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { StreamClock, StreamObserver } from "../retry/retry.module.code.ts"
 
 const TRANSPORT_PROPERTY_SLUG = "transport"
@@ -121,10 +122,6 @@ function queueFor(at: string): Held {
   return made
 }
 
-function said(why: unknown): string {
-  return why instanceof Error ? why.message : String(why)
-}
-
 export function recordTransportEvent(event: TransportEvent, at: TransportLogAt): string | null {
   try {
     const held = queueFor(typeof at === "string" ? at : at())
@@ -132,7 +129,7 @@ export function recordTransportEvent(event: TransportEvent, at: TransportLogAt):
     held.queue.write(event)
     return held.queue.refused()
   } catch (why) {
-    return said(why)
+    return saidBy(why)
   }
 }
 
