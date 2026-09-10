@@ -57,7 +57,6 @@ export const page = {
     "page-type/generator-kind",
     "page-type/unique-kind",
     "page-type/page-address-kind",
-    "page-type/page-query",
     "domain/index",
     "domain/pages-query",
     "domain/pages-service",
