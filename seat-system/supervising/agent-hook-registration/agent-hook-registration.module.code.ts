@@ -11,8 +11,6 @@ const CODE = ".code.ts"
 
 const TIMEOUT = 5
 
-const HOME_ROOT = "$HOME/repos/akasha"
-
 const BUN = "$HOME/.bun/bin/bun"
 
 export interface HookCommand {
@@ -53,8 +51,8 @@ function namesIn(said: unknown): readonly string[] | null {
     : null
 }
 
-export function commandFor(codePath: string): string {
-  return `${BUN} ${HOME_ROOT}/${codePath}`
+export function commandFor(root: string, codePath: string): string {
+  return `${BUN} ${join(root, codePath)}`
 }
 
 export function hooksFrom(root: string): Record<string, HookRegistration[]> {
@@ -81,7 +79,7 @@ export function hooksFrom(root: string): Record<string, HookRegistration[]> {
     }
     const command: HookCommand = {
       type: "command",
-      command: commandFor(codePath),
+      command: commandFor(root, codePath),
       timeout: TIMEOUT,
     }
     for (const event of runsAt) {

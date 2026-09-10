@@ -25,6 +25,10 @@ export const agentHookRegistration = {
       statement: "An agent hook whose code file is absent is refused by name.",
     },
     {
+      invariantKind: "departure",
+      statement: "A hook command names the checkout the hook's code file was found under.",
+    },
+    {
       invariantKind: "gap",
       statement: "A path written here is frozen against a tree that keeps moving.",
     },
