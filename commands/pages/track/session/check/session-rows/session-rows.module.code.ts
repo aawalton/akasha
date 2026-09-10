@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { valuesByPath } from "@akasha/indexes"
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { numberAt, textIn, textsAt, type Value } from "@akasha/pages/page-value-reading"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   mountainWallAt,
   namesNoDay,
@@ -364,7 +365,7 @@ export function faultsIn(rows: readonly Row[], held: Held): readonly string[] {
   for (const [at, row] of rows.entries()) {
     const named = `row ${String(at + 1)}`
     const began = new Date(row.startTime)
-    const on = Number.isNaN(began.getTime()) ? null : dayNow(began)
+    const on = Number.isNaN(began.getTime()) ? null : getEsoDayStr(began)
     const opened = at === 0 && on === dayBefore(held.day)
     if (on !== null && on !== held.day && !opened) {
       said.push(`${named} began on ${on} rather than on ${held.day}, whose page holds it`)

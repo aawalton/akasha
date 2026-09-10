@@ -20,6 +20,10 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
+      statement: "The day a row began on is the ESO day the start of that row fell inside.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row that began on another day is a fault of the day whose page holds it.",
     },
     {
