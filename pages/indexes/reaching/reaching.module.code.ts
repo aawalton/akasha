@@ -151,7 +151,10 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     return found.length === 0 ? null : found
   }
 
+  const admits = new Map<string, readonly string[]>()
   const admitting = (wanted: string): readonly string[] => {
+    const held = admits.get(wanted)
+    if (held !== undefined) return held
     const found: string[] = []
     for (const one of everyType) {
       const walked = new Set<string>()
@@ -167,6 +170,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
         for (const up of above.get(here) ?? []) waiting.push(up)
       }
     }
+    admits.set(wanted, found)
     return found
   }
 
