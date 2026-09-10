@@ -1,4 +1,4 @@
-import type { TemperArmorSlot } from "../temper-armor-slot.page-type.ts"
+import type { TemperArmorSlot } from "../temper-armor-slot.page-type.types.ts"
 
 export const feet = {
   id: "01a05fd4-d96d-7048-bcad-e8ae001ada43",

@@ -1,4 +1,4 @@
-import type { TemperArmorSlot } from "../temper-armor-slot.page-type.ts"
+import type { TemperArmorSlot } from "../temper-armor-slot.page-type.types.ts"
 
 export const waist = {
   id: "01a05fd4-d96f-73b3-b9fe-4c3996d59a22",

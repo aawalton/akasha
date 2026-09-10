@@ -1,4 +1,4 @@
-import type { TemperArmorSlot } from "../temper-armor-slot.page-type.ts"
+import type { TemperArmorSlot } from "../temper-armor-slot.page-type.types.ts"
 
 export const head = {
   id: "01a05fd4-d96d-706f-9d80-32f481500169",
