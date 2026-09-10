@@ -16,7 +16,11 @@ export const wentSilentAt = {
     },
     {
       invariantKind: "departure",
-      statement: "The first take to answer nothing writes this, and the takes after leave it.",
+      statement: "The first take to answer nothing writes this.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The takes after leave this as it is.",
     },
     {
       invariantKind: "departure",

@@ -12,7 +12,11 @@ export const workedAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The service doing the work writes this, and nothing else writes it.",
+      statement: "The service doing the work writes this.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing else writes this.",
     },
     {
       invariantKind: "departure",
