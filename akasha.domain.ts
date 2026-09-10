@@ -33,7 +33,7 @@ export const akasha = {
     "domain/alan",
     "domain/design",
     "domain/id-minting",
-    "domain/file-page-identity",
+    "domain/identity",
     "domain/temper",
     "domain/story",
     "domain/google",
