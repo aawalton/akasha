@@ -14,11 +14,6 @@ export const theaChecksSystem = {
         "A bare audit is still killed at its 300 second ceiling, 5:01 wall. 48 of the 51 live checks ran, 204 seconds of check wall between them, since brought to about 158. tests-pass, typecheck and types-file-runs-nothing never ran and are still last alphabetically. The peakBytes a cost row carries is the whole run's high water mark rather than one check's own, and peakAddedBytes is the per check figure. no-rule-in-two-files is 918. Alan holds the ceiling.",
     },
     {
-      statement: "Every route file is claimed by a page.",
-      workingMemory:
-        "Alan's blocker cleared: relation-property/unique-property landed and book-section already uses it. But a route names no app, so nothing can go in uniqueProperty yet: that wants a new required single-valued relation on the route type plus a value on all 156 route pages. Measured: 156 route pages, 7 app-routes pages, and every tracked file under a source routes/ already claimed. The old 186 counted gitignored build output. De-prefixing web-capacitor's 4 slugs is the proof.",
-    },
-    {
       statement: "Every runtime helper the Lua compiler has is a page.",
       workingMemory:
         "lualib/src has 51 files against 115, lualibs 88 pages, 135 features, suite 50 of 50. lua50-code is proven on sparse-array-spread, the one page with both code files: the 5.0 bundle emits the Unpack body and the other eight table.unpack. Left are 12 plain moves, 25 whose own import is repointed, 8 non-leaves, 4 twins. Prove a move by hashing the removed source against the added code file in the commit, then nine-target byte-identity, then /var/tmp/imip/thea-behaviour.lua.",
