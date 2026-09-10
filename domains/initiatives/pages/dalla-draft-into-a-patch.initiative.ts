@@ -11,7 +11,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
       workingMemory:
-        "`apply-running:25` hands `applying` a flat `{ checks: true, writerOwesReading: false, readersOweReading: true }`, and `applying:260` warrants only where `writerOwesReading` is true, so an apply runs the checks and no warrant. The data is there and thrown away: `edits-keeping:36-43` reads both fields off each change and keeps them on the row. What is left is for the apply to read the rows it folds rather than a constant. That refuses landings nothing refuses today, so Alan settles it first.\n",
+        "`apply-running:30` reads `writerOwesReading` off the rows it folds, so the writer owes a reading where any row folded owes one; `change-running.stamped` writes that field off each change page's own kind. The warrant runs at the draft, in `change-running.appending`, gated on that same kind. `checks` stays flat true — no row states whether the checks run, and running every check is the safe side of the constraint.\n",
     },
     {
       statement:
