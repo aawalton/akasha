@@ -5,13 +5,25 @@ import type {
   Message,
 } from "akasha/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
 import { personOr } from "akasha/persons/person-reading/person-reading.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { z } from "zod"
 import { decide } from "../email-rule-deciding/email-rule-deciding.module.code.ts"
 import type { Rule } from "../email-rule-reading/email-rule-reading.module.code.ts"
 import { rulesOf } from "../email-rule-reading/email-rule-reading.module.code.ts"
 
-const STATE_DIR = `${process.env.HOME ?? "/nonexistent"}/.local/state/alan-email`
+const STATE_DIR = `${optionalEnv("HOME") ?? "/nonexistent"}/.local/state/alan-email`
 const STATE_FILE = `${STATE_DIR}/state.json`
 const ACTION_LOG = `${STATE_DIR}/actions.jsonl`
+
+const UNSUBSCRIBE_URL = /<(https?:[^>]+)>/
+
+const CAPTURED_URL = z.tuple([z.string(), z.string().min(1)])
+
+function parseUnsubscribeUrl(found: RegExpExecArray | null): string | undefined {
+  if (found === null) return undefined
+  const said = CAPTURED_URL.safeParse([...found])
+  return said.success ? said.data[1] : undefined
+}
 
 interface Claim {
   readonly messageId: string
@@ -30,9 +42,24 @@ interface State {
 
 const EMPTY: State = { historyId: "", claims: [] }
 
+const CLAIM_SHAPE = z.object({
+  messageId: z.string(),
+  rule: z.string(),
+  actAt: z.string().optional(),
+  told: z.boolean().optional(),
+  why: z.enum(["agent", "notify"]).optional(),
+  from: z.string().optional(),
+  subject: z.string().optional(),
+})
+
+const STATE_SHAPE = z.object({
+  historyId: z.string().optional(),
+  claims: z.array(CLAIM_SHAPE).optional(),
+})
+
 export function readState(): State {
   try {
-    return { ...EMPTY, ...(JSON.parse(readFileSync(STATE_FILE, "utf8")) as Partial<State>) }
+    return { ...EMPTY, ...STATE_SHAPE.parse(JSON.parse(readFileSync(STATE_FILE, "utf8"))) }
   } catch {
     return EMPTY
   }
@@ -99,7 +126,7 @@ export async function carry(
   }
   if (rule.actions.includes("unsubscribe")) {
     if (message.oneClickUnsubscribe) {
-      const url = /<(https?:[^>]+)>/.exec(message.unsubscribe)?.[1]
+      const url = parseUnsubscribeUrl(UNSUBSCRIBE_URL.exec(message.unsubscribe))
       if (url !== undefined) {
         await fetch(url, {
           method: "POST",
