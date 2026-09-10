@@ -41,7 +41,7 @@ export const changeMechanical = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent change reaches each of those three by composing the rungs beneath.",
+      statement: "An agent change reaches all three by composing the rungs beneath.",
     },
   ],
   types: "ts",
