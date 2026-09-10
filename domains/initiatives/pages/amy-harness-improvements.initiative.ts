@@ -11,7 +11,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's app fills his password in from 1Password.",
       workingMemory:
-        "The form is already right, so order matters. `alanwalton-keyboard-accessory-suppressor` nils `inputAccessoryView` by default, taking away the bar 1Password fills from, so nothing is offered at all: mend that first. Do not reach for an https origin — `capacitor://localhost` is named in 29 files, among them the auth-proxy manifest, the CORS module, the media and error routes, and the widget tap links. The entitlements declare no `com.apple.developer.associated-domains`.\n",
+        'Alan settled the origin: the app moves to `https://alanwalton.com` by Capacitor\'s `server.url`, so 1Password matches an origin that exists. `capacitor://localhost` is named in 29 files — auth-proxy manifest, CORS module, media and error routes, widget tap links — and `auth-mode.module.code.ts` branches on `protocol === "capacitor:"`, which must be mended before the move. `alanwalton-keyboard-accessory-suppressor` nils the bar AutoFill offers from; mend that too.',
     },
     {
       statement: "All of Jenny's widgets work.",
