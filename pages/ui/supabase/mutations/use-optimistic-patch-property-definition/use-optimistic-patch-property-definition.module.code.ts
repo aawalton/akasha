@@ -1,4 +1,5 @@
 import type { Page } from "@akasha/pages/core/page-types"
+import type { PagesMutationPlan } from "@akasha/pages/ui-store/optimistic/plan"
 import type {
   PatchPropertyDefinitionArgs,
   PatchPropertyDefinitionByIdArgs,
@@ -6,7 +7,6 @@ import type {
 import { runOptimisticMutation } from "@akasha/pages-ui/supabase/mutations/apply-prediction"
 import { buildOverlay, buildPatchPlan } from "@akasha/pages-ui/supabase/mutations/build-patch-plan"
 import { extractTargetIds } from "@akasha/pages-ui/supabase/mutations/extract-target-ids"
-import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
 
 export function useOptimisticPatchPropertyDefinition(
   mutate: (args: PatchPropertyDefinitionByIdArgs) => Promise<Page | null>

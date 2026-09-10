@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const pagesUiStore = {
   id: "01a05b69-455c-7bbd-8f3b-b2c3946559fc",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-ui-store",
   definition: "the page rows a browser holds, and the queries and writes run against them",
-  manifest: "json",
+
   parts: [
     "domain/pages-ui-store-collection",
     "module/diagnostics",
@@ -43,4 +43,4 @@ export const pagesUiStore = {
       statement: "Nothing here is proved by a test of its own.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

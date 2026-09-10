@@ -5,6 +5,7 @@ import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/ro
 import { getCrossTypePredicate } from "@akasha/pages/core/schema/cross-type-predicates"
 import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
 import type { PropertyDefinition } from "@akasha/pages/core/types"
+import type { ShapeDescriptor } from "@akasha/pages/ui-store/collection/shape-descriptor"
 import type { PageOrder } from "@akasha/pages-access/types"
 import {
   adjustTotalForClientFilters,
@@ -16,7 +17,6 @@ import {
 } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useViewPagesSupabase } from "@akasha/pages-ui/supabase/use-view-pages"
 import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
-import type { ShapeDescriptor } from "@akasha/pages-ui-store/collection/shape-descriptor"
 import { useMemo } from "react"
 
 export function usePageViewQuery({

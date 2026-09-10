@@ -1,7 +1,7 @@
 import { CommandPalette } from "@akasha/design-primitives/command-palette"
 import { ShortcutSheet } from "@akasha/design-primitives/shortcut-sheet"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
+import { setStoreDiagnosticsSink } from "@akasha/pages/ui-store/diagnostics"
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"

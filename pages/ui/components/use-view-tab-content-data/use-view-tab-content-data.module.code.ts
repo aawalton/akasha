@@ -5,6 +5,7 @@ import { resolveDefinitionOptions } from "@akasha/pages/core/schema/resolve-sele
 import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
 import { type LockedFacet, mergeLockedFacets } from "@akasha/pages/core/schema/view-data-locked"
 import type { PropertyDefinition } from "@akasha/pages/core/types"
+import { deriveViewTargetSlugs } from "@akasha/pages/ui-store/query/view-target-slugs"
 import { buildPageHref } from "@akasha/pages/url/page-href"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { NEVER_MATCH_SLUG, NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
@@ -26,7 +27,6 @@ import { usePageViewQuery } from "@akasha/pages-ui/supabase/hooks-view-query"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
 import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
-import { deriveViewTargetSlugs } from "@akasha/pages-ui-store/query/view-target-slugs"
 import { useCallback, useMemo } from "react"
 
 export interface ViewTabContentData {

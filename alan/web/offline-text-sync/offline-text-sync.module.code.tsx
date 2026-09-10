@@ -1,10 +1,10 @@
 "use client"
 
+import { getContentPersistence } from "@akasha/pages/ui-store/singleton"
 import {
   POSITION_WRITE_EVENT,
   parsePositionWriteDetail,
 } from "@akasha/pages-ui/components/position-write-event"
-import { getContentPersistence } from "@akasha/pages-ui-store/singleton"
 import {
   selectReadAheadChapterIds,
   selectUnreadChapters,

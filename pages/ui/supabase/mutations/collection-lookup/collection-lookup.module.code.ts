@@ -1,5 +1,5 @@
 import { asJson } from "@akasha/pages/core/as-json"
-import type { PagesStore } from "@akasha/pages-ui-store/collection/store"
+import type { PagesStore } from "@akasha/pages/ui-store/collection/store"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { Json } from "@akasha/utils/narrow/json-value"
 

@@ -180,12 +180,32 @@
     "./core/view/group-granularity": "./core/view/group-granularity/group-granularity.module.code.ts",
     "./core/view/group-key-to-value": "./core/view/group-key-to-value/group-key-to-value.module.code.ts",
     "./core/view/notes": "./core/view/notes/notes.module.code.ts",
-    "./core/view/page-query-times": "./core/view/page-query-times/page-query-times.module.code.ts"
+    "./core/view/page-query-times": "./core/view/page-query-times/page-query-times.module.code.ts",
+    "./ui-store/collection/content-persistence": "./ui-store/collection/content-persistence/content-persistence.module.code.ts",
+    "./ui-store/collection/fetch-attach": "./ui-store/collection/fetch-attach/fetch-attach.module.code.ts",
+    "./ui-store/collection/page-row": "./ui-store/collection/page-row/page-row.module.code.ts",
+    "./ui-store/collection/persistence": "./ui-store/collection/persistence/persistence.module.code.ts",
+    "./ui-store/collection/shape-descriptor": "./ui-store/collection/shape-descriptor/shape-descriptor.module.code.ts",
+    "./ui-store/collection/store": "./ui-store/collection/store/store.module.code.ts",
+    "./ui-store/diagnostics": "./ui-store/diagnostics/diagnostics.module.code.ts",
+    "./ui-store/optimistic/optimistic-mutation": "./ui-store/optimistic/optimistic-mutation/optimistic-mutation.module.code.ts",
+    "./ui-store/optimistic/plan": "./ui-store/optimistic/plan/plan.module.code.ts",
+    "./ui-store/query/id-suffix-pipeline": "./ui-store/query/id-suffix-pipeline/id-suffix-pipeline.module.code.ts",
+    "./ui-store/query/regular-pipeline": "./ui-store/query/regular-pipeline/regular-pipeline.module.code.ts",
+    "./ui-store/query/view-pipeline": "./ui-store/query/view-pipeline/view-pipeline.module.code.ts",
+    "./ui-store/query/view-target-slugs": "./ui-store/query/view-target-slugs/view-target-slugs.module.code.ts",
+    "./ui-store/realtime/payload-translator": "./ui-store/realtime/payload-translator/payload-translator.module.code.ts",
+    "./ui-store/realtime/shape-meta": "./ui-store/realtime/shape-meta/shape-meta.module.code.ts",
+    "./ui-store/report-stall": "./ui-store/report-stall/report-stall.module.code.ts",
+    "./ui-store/singleton": "./ui-store/singleton/singleton.module.code.ts",
+    "./ui-store/sql/options": "./ui-store/sql/options/options.module.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@akasha/indexes": "workspace:*",
-    "zod": "^4.3.6"
+    "zod": "^4.3.6",
+    "@akasha/pages-access": "workspace:*",
+    "@tanstack/db": "^0.6.14"
   }
 }

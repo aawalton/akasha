@@ -19,7 +19,6 @@
     "@akasha/design-system": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
-    "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages": "workspace:*",
     "isbot": "^5.1.36",
     "lucide-react": "^0.576.0",

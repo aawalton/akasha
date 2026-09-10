@@ -1,10 +1,10 @@
 "use client"
 
+import type { ShapeDescriptor } from "@akasha/pages/ui-store/collection/shape-descriptor"
+import type { PagesStore } from "@akasha/pages/ui-store/collection/store"
+import { emitStoreDiagnostic } from "@akasha/pages/ui-store/diagnostics"
+import { awaitPagesStoreReady, getPagesStore } from "@akasha/pages/ui-store/singleton"
 import { BOOT_GATE_TIMEOUT_MS } from "@akasha/pages-ui/cache/boot-gate"
-import type { ShapeDescriptor } from "@akasha/pages-ui-store/collection/shape-descriptor"
-import type { PagesStore } from "@akasha/pages-ui-store/collection/store"
-import { emitStoreDiagnostic } from "@akasha/pages-ui-store/diagnostics"
-import { awaitPagesStoreReady, getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react"
 
 type PagesCollection = PagesStore["collection"]

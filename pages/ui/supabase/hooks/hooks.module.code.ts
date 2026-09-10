@@ -1,6 +1,10 @@
 "use client"
 
 import type { PageWhere } from "@akasha/pages/core/page-types"
+import {
+  createIdSuffixPipeline,
+  type IdSuffixResult,
+} from "@akasha/pages/ui-store/query/id-suffix-pipeline"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { flattenRow } from "@akasha/pages-access/routing-core"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
@@ -16,10 +20,6 @@ import {
 } from "@akasha/pages-ui/supabase/page-with-properties"
 import { getRelatedPagesByIdCoalesced } from "@akasha/pages-ui/supabase/related-pages-coalesce"
 import { type UsePagesSupabaseOptions, usePages } from "@akasha/pages-ui/supabase/use-pages"
-import {
-  createIdSuffixPipeline,
-  type IdSuffixResult,
-} from "@akasha/pages-ui-store/query/id-suffix-pipeline"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import { useEffect, useMemo, useRef, useState } from "react"
 

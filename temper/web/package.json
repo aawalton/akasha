@@ -21,7 +21,6 @@
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
-    "@akasha/pages-ui-store": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",

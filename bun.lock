@@ -89,7 +89,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/pages-ui-store": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@capacitor/core": "^8.4.1",
         "@capacitor/preferences": "^8.0.1",
@@ -140,7 +139,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/pages-ui-store": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
@@ -201,7 +199,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/pages-ui-store": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@fontsource-variable/literata": "^5.2.5",
         "lucide-react": "^0.576.0",
@@ -372,7 +369,9 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/indexes": "workspace:*",
+        "@akasha/pages-access": "workspace:*",
         "@akasha/utils": "workspace:*",
+        "@tanstack/db": "^0.6.14",
         "zod": "^4.3.6",
       },
     },
@@ -397,7 +396,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-ui-store": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@dnd-kit/core": ">=6",
         "@dnd-kit/modifiers": ">=7",
@@ -419,16 +417,6 @@
         "react-router": ">=7",
       },
     },
-    "pages/ui-store": {
-      "name": "@akasha/pages-ui-store",
-      "dependencies": {
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "@tanstack/db": "^0.6.14",
-        "zod": "^4.3.6",
-      },
-    },
     "products/archive-of-worlds/web": {
       "name": "@akasha/archive-of-worlds-web",
       "version": "0.1.0",
@@ -438,7 +426,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/pages-ui-store": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -701,7 +688,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/pages-ui-store": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
@@ -783,8 +769,6 @@
     "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/access"],
 
     "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages/ui"],
-
-    "@akasha/pages-ui-store": ["@akasha/pages-ui-store@workspace:pages/ui-store"],
 
     "@akasha/rules-engine": ["@akasha/rules-engine@workspace:alan/harness/rules-engine"],
 

@@ -18,7 +18,6 @@
     "@akasha/design-primitives": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
-    "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@capacitor/core": "^8.4.1",
     "@capacitor/preferences": "^8.0.1",

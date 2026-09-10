@@ -1,5 +1,5 @@
+import type { PageRow } from "@akasha/pages/ui-store/collection/page-row"
 import { PROMOTED_COLUMN_KEYS } from "@akasha/pages-access/routing-core"
-import type { PageRow } from "@akasha/pages-ui-store/collection/page-row"
 import { stringAt } from "@akasha/utils/narrow/string-at"
 
 export function buildPredictedRow(

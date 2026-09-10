@@ -1,8 +1,8 @@
 "use client"
 
+import { emitStoreDiagnostic } from "@akasha/pages/ui-store/diagnostics"
+import { awaitPagesStoreReady, getPagesStore } from "@akasha/pages/ui-store/singleton"
 import { BOOT_GATE_TIMEOUT_MS } from "@akasha/pages-ui/cache/boot-gate"
-import { emitStoreDiagnostic } from "@akasha/pages-ui-store/diagnostics"
-import { awaitPagesStoreReady, getPagesStore } from "@akasha/pages-ui-store/singleton"
 import { useEffect, useRef, useState } from "react"
 
 export const CORE_DEFINITION_SLUGS = ["page-type", "page-property-definition"] as const

@@ -1,12 +1,12 @@
+import { runPagesOptimisticMutation } from "@akasha/pages/ui-store/optimistic/optimistic-mutation"
+import type { PagesMutationPlan } from "@akasha/pages/ui-store/optimistic/plan"
+import { getPagesStore } from "@akasha/pages/ui-store/singleton"
 import {
   type InteractionToken,
   recordPglitePersisted,
   recordRoundTripSettled,
   recordVisibleUpdate,
 } from "@akasha/pages-ui/perf/page-card-perf"
-import { runPagesOptimisticMutation } from "@akasha/pages-ui-store/optimistic/optimistic-mutation"
-import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"
-import { getPagesStore } from "@akasha/pages-ui-store/singleton"
 
 export async function runOptimisticMutation<Result>(args: {
   readonly plans: readonly PagesMutationPlan[]

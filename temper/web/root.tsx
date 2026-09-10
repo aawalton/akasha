@@ -6,12 +6,12 @@ import { CommandPalette } from "@akasha/design-primitives/command-palette"
 import { ShortcutSheet } from "@akasha/design-primitives/shortcut-sheet"
 import { Toaster } from "@akasha/design-primitives/sonner"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
+import { setStoreDiagnosticsSink } from "@akasha/pages/ui-store/diagnostics"
 import {
   type PagesUILinkProps,
   PagesUILinkProvider,
   PagesUIRouterProvider,
 } from "@akasha/pages-ui/navigation-context"
-import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"

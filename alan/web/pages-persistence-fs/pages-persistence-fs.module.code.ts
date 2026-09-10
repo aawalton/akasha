@@ -1,7 +1,7 @@
 import type {
   PagesPersistencePort,
   PersistedPagesSnapshot,
-} from "@akasha/pages-ui-store/collection/persistence"
+} from "@akasha/pages/ui-store/collection/persistence"
 import { z } from "zod"
 import { getFilesystem } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 import {

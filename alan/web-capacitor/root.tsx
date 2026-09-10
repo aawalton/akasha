@@ -6,14 +6,14 @@ import { createNativeFsPagesPersistence } from "@akasha/alanwalton-web/pages-per
 import { StatusBarSync } from "@akasha/alanwalton-web/status-bar-sync"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
-import { PagesUICapabilityHosts } from "@akasha/pages-ui/capabilities/capability-hosts"
-import { configureLocalPositionReader } from "@akasha/pages-ui/components/local-position-port"
-import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
+import { setStoreDiagnosticsSink } from "@akasha/pages/ui-store/diagnostics"
 import {
   configureContentPersistence,
   configurePagesPersistence,
   configurePagesStoreFetch,
-} from "@akasha/pages-ui-store/singleton"
+} from "@akasha/pages/ui-store/singleton"
+import { PagesUICapabilityHosts } from "@akasha/pages-ui/capabilities/capability-hosts"
+import { configureLocalPositionReader } from "@akasha/pages-ui/components/local-position-port"
 import literataLatinWoff2 from "@fontsource-variable/literata/files/literata-latin-wght-normal.woff2?url"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import {
