@@ -153,26 +153,25 @@ function droppedIn(
   return found
 }
 
-function anchorIn(text: string, source: ts.SourceFile, gone: readonly Passage[]): string | null {
+function anchorIn(text: string, source: ts.SourceFile): string | null {
   let found: string | null = null
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
-    const whole = textOfNode(text, one)
-    if (gone.some((each) => each.old.includes(whole))) continue
-    found = whole
+    found = textOfNode(text, one)
   }
   return found
 }
 
-function backIn(
-  text: string,
-  source: ts.SourceFile,
-  given: Asked,
-  gone: readonly Passage[]
-): Passage | null {
+function leftBy(text: string, gone: readonly Passage[]): string {
+  let held = text
+  for (const one of gone) held = held.replace(one.old, one.new)
+  return held
+}
+
+function backIn(text: string, source: ts.SourceFile, given: Asked): Passage | null {
   if (!namesIn(source).includes(given.of)) return null
   const line = `import type { ${given.of} } from ${JSON.stringify(`./${basename(given.to)}`)}`
-  const anchor = anchorIn(text, source, gone)
+  const anchor = anchorIn(text, source)
   if (anchor === null) return { at: given.from, old: text, new: `${line}${LINE}${LINE}${text}` }
   return { at: given.from, old: anchor, new: `${anchor}${LINE}${line}` }
 }
@@ -266,7 +265,8 @@ function planFor(
   const carried = carriedIn(declared)
   const source = parsedAs(given.from, left)
   const gone = droppedIn(left, source, given.from, carried)
-  const back = backIn(left, source, given, gone)
+  const rest = leftBy(left, gone)
+  const back = backIn(rest, parsedAs(given.from, rest), given)
   return {
     taken: { at: given.from, old: passage, new: "" },
     body: bodyFor(carried, passage),

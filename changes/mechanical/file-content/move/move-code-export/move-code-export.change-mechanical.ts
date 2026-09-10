@@ -48,6 +48,11 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The import naming the type where it landed is worked out over the body those departures leave.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every body importing that type names the path that type landed at.",
     },
     {
