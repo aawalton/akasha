@@ -15,7 +15,11 @@ export const deviceSecretAdmission = {
     },
     {
       invariantKind: "departure",
-      statement: "The route has no reading, so it judges the credential alone.",
+      statement: "The route has no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The route judges the credential alone.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +43,7 @@ export const deviceSecretAdmission = {
     },
     {
       invariantKind: "departure",
-      statement: "A body names no reason, as every refusal on this site does.",
+      statement: "A body names no reason.",
     },
   ],
 } as const satisfies Route
