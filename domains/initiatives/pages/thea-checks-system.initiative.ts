@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check has a decision, a check and an audit, each its own module of files.",
       workingMemory:
-        "code-check holds nine member files from its type alone; heldIn reads .audit.code.ts as a property. judging states Auditing and AuditingAsync, each taking the root alone. All 55 are split, and the callers are done: judgingBy takes a root and audits there, handed one only where no --file-path narrows. No check carries the old fixtures file; 41 carry a .decision one. Left: rename .code-check.code.ts and .test.ts under .check, then code, test and test-fixtures come off the type, then extends.",
+        "code-check holds nine member files from its type alone; heldIn reads .audit.code.ts as a property. judging states Auditing and AuditingAsync, each taking the root alone. All 55 are split and the callers are done. The extends had to go first: a page cannot drop code while the type requires it, so code-check now extends domain and states code and test optional. Left: move each check code and test under .check, one a landing, then drop both from the type. 1 of 55 moved.",
     },
     {
       statement:
