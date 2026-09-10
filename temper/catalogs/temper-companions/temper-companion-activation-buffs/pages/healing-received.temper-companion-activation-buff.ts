@@ -1,4 +1,4 @@
-import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.ts"
+import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.types.ts"
 
 export const healingReceived = {
   id: "01a05fcd-70f5-7eb0-b7e1-df350f09b29d",

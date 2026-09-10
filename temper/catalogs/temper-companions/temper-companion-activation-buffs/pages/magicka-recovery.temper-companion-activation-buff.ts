@@ -1,4 +1,4 @@
-import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.ts"
+import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.types.ts"
 
 export const magickaRecovery = {
   id: "01a05fcd-70f6-775f-8d68-b2e535291476",

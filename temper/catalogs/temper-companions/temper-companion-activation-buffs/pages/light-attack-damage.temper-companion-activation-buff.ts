@@ -1,4 +1,4 @@
-import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.ts"
+import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.types.ts"
 
 export const lightAttackDamage = {
   id: "01a05fcd-70f6-75e0-b10f-926f94849a8e",

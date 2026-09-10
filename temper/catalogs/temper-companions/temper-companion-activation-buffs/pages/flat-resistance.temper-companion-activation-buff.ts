@@ -1,4 +1,4 @@
-import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.ts"
+import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.types.ts"
 
 export const flatResistance = {
   id: "01a05fcd-70f4-75a4-8cfc-fa91c36f1319",

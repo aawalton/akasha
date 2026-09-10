@@ -1,4 +1,4 @@
-import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.ts"
+import type { TemperCompanionActivationBuff } from "../temper-companion-activation-buff.page-type.types.ts"
 
 export const damageTakenIncrease = {
   id: "01a05fcd-70f3-7c50-8220-635ad21a3287",
