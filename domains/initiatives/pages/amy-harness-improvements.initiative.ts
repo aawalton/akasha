@@ -26,7 +26,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's phone drains its health samples into akasha every day.",
       workingMemory:
-        "Health samples exist for every day up to 2026-09-07 and stop: none for the 8th, 9th or 10th. `active-calories-service` says `active calories on 2026-09-07 unchanged` every run, that being the newest day it has. Endurance points come from those calories, so `attribute-endurance` has taken no reading since 2026-09-08 and draws black. The drain is `shell-script/alanwalton-health-samples-drain`. The stop matches the window the widgets broke in.",
+        "The drain works: 777 readings for the 7th to the 9th landed at 08:16 today and `attribute-endurance` reads fresh again. It failed because this workstation's `pages-service` crash-looped through the rename wave, 171 failures, and `device-secret-context` turns an unreachable store into an uncaught 500 with no cache. The phone's anchor recovers any missed run. Left: debounce the watcher, cache the device secrets, and notice when the drain goes quiet.",
     },
   ],
 } as const satisfies Initiative
