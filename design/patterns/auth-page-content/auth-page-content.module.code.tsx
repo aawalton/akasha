@@ -98,15 +98,15 @@ export function AuthPageContent({
       if (result && "error" in result && result.error != null) {
         fail(result.error)
       }
-    } catch (error) {
+    } catch (thrown) {
       if (
-        typeof error === "object" &&
-        error !== null &&
-        "digest" in error &&
-        typeof error.digest === "string" &&
-        error.digest.startsWith("NEXT_REDIRECT")
+        typeof thrown === "object" &&
+        thrown !== null &&
+        "digest" in thrown &&
+        typeof thrown.digest === "string" &&
+        thrown.digest.startsWith("NEXT_REDIRECT")
       ) {
-        throw error
+        throw thrown
       }
       fail("An unexpected error occurred")
     } finally {
