@@ -114,7 +114,7 @@ export const pageType = {
     },
     {
       invariantKind: "departure",
-      statement: "Every page type has its type written beside it rather than written by hand.",
+      statement: "A page type's type is written beside that page type rather than written by hand.",
     },
     {
       invariantKind: "departure",
