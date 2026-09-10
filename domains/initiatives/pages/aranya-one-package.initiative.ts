@@ -34,7 +34,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "66 manifests, 7 workspace-package pages. Folded: `pages`, `rules-engine`, `supabase-auth`, `utils`, `indexes`, `code-system` — `change-file` off `manifest`, `change-page-page-type` to `domain`, `remove-package-manifest`. A fold makes every specifier into it longer, so a file near the byte ceiling crosses it and refuses the whole landing; split that file first. Two cannot fold: `vscode-typings` and `ops-extension`, whose manifests are the mechanism. `pages-ui` carries an approved directive.\n",
+        "65 manifests, 6 workspace-package pages. Folded: `pages`, `rules-engine`, `supabase-auth`, `utils`, `indexes`, `code-system`, `pages-ui` — `change-file` off `manifest`, `change-page-page-type` to `domain`, `remove-package-manifest`. A fold makes every specifier into it longer, so a file near the byte ceiling crosses it and refuses the whole landing; split that file first. Four wait on the deploy intents. Two cannot fold: `vscode-typings` and `ops-extension`, whose manifests are the mechanism.\n",
     },
     {
       statement: "One change replaces every relative path in a folder with an absolute path.",
