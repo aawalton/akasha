@@ -1,4 +1,4 @@
-import type { Computer } from "../computer.page-type.ts"
+import type { Computer } from "../computer.page-type.types.ts"
 
 export const jensPc = {
   id: "019e8b92-3ac9-7d38-9957-fe81dda8abbb",
