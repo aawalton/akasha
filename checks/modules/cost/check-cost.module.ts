@@ -18,7 +18,7 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "A line states what ran.",
+      statement: "A line names whatever ran.",
     },
     {
       invariantKind: "departure",
@@ -34,15 +34,27 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "A run relayed to a server is no child, so the kernel counts none of it here.",
+      statement: "A run relayed to a server is no child.",
     },
     {
       invariantKind: "departure",
-      statement: "The seconds such a run burned are read from the module that relayed it.",
+      statement: "The kernel counts nothing of that run here.",
     },
     {
       invariantKind: "departure",
-      statement: "The two are added, each counting only the runs the other cannot see.",
+      statement: "The seconds such a run burned are read from the module that relayed the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two are added.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The kernel's seconds count only the runs the relaying module cannot see.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The relaying module's seconds count only the runs the kernel cannot see.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +83,8 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "A run states how many reads and writes it made and how many bytes it read.",
+      statement:
+        "A run states the count of reads and writes that run made and the bytes that run read.",
     },
     {
       invariantKind: "departure",
@@ -85,11 +98,15 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "The property a line is kept under is named by whoever records that line.",
+      statement: "The property a line is kept under is named by the caller recording that line.",
     },
     {
       invariantKind: "departure",
-      statement: "A caller naming none is kept under `entries`, where every line was kept before.",
+      statement: "A caller naming no property is kept under `entries`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every line was kept under `entries` before.",
     },
     {
       invariantKind: "departure",
@@ -109,7 +126,7 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "Closing a cost, minting its run id and appending its line are one call.",
+      statement: "Closing a cost and minting its run id and appending its line are one call.",
     },
     {
       invariantKind: "absence",
