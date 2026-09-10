@@ -1,6 +1,7 @@
 import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { saidBy } from "../../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   atLimitMarks,
   type Given,
@@ -163,10 +164,6 @@ export function pacingIn(root: string): ReadonlyMap<string, AccountState> {
   return found
 }
 
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
 export function credentialByAccountIn(
   root: string,
   doors: Doors,
@@ -181,7 +178,7 @@ export function credentialByAccountIn(
     }
     return credentialOf(held.credential)
   } catch (thrown) {
-    doors.warned(`${logPrefix} ${account} could not be read off its page: ${sayOf(thrown)}`)
+    doors.warned(`${logPrefix} ${account} could not be read off its page: ${saidBy(thrown)}`)
     return null
   }
 }
@@ -235,7 +232,7 @@ export function bestCredentialIn(
       }
     }
   } catch (thrown) {
-    doors.warned(`${logPrefix} no account could be chosen: ${sayOf(thrown)}`)
+    doors.warned(`${logPrefix} no account could be chosen: ${saidBy(thrown)}`)
     return null
   }
 }
@@ -253,7 +250,7 @@ export function markedOn(
       doors.warned(`${logPrefix} ${account} kept a mark off its page: ${outcome.why}`)
     }
   } catch (thrown) {
-    doors.warned(`${logPrefix} ${account} kept a mark off its page: ${sayOf(thrown)}`)
+    doors.warned(`${logPrefix} ${account} kept a mark off its page: ${saidBy(thrown)}`)
   }
 }
 
@@ -289,7 +286,7 @@ export async function repolledIn(args: {
     return
   }
   if (read.kind === "threw") {
-    doors.warned(`${logPrefix} the usage re-poll for ${account} threw: ${sayOf(read.error)}`)
+    doors.warned(`${logPrefix} the usage re-poll for ${account} threw: ${saidBy(read.error)}`)
     return
   }
   const usage = usageFrom(read.body)

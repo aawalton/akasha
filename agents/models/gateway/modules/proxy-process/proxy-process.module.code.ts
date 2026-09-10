@@ -1,3 +1,4 @@
+import { saidBy } from "../../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   type OAuthProxyBootEnv,
   parseBootEnv,
@@ -35,15 +36,11 @@ export type ProcessDoors = {
   readonly exited: (code: number) => undefined
 }
 
-export function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
 export function guarded(doors: ProcessDoors, line: string, work: () => undefined): undefined {
   try {
     work()
   } catch (thrown) {
-    doors.threw(line, sayOf(thrown))
+    doors.threw(line, saidBy(thrown))
   }
 }
 
@@ -64,7 +61,7 @@ export function runGatewayProcess(doors: ProcessDoors): undefined {
   try {
     env = parseBootEnv(doors.env)
   } catch (thrown) {
-    doors.refused(`${sayOf(thrown)}\n`)
+    doors.refused(`${saidBy(thrown)}\n`)
     doors.exited(BOOT_REFUSED_CODE)
     return
   }
@@ -96,7 +93,7 @@ export function runGatewayProcess(doors: ProcessDoors): undefined {
     try {
       await doors.flushed()
     } catch (thrown) {
-      doors.threw(`${LOG_PREFIX} the transport wait threw on ${signal}:`, sayOf(thrown))
+      doors.threw(`${LOG_PREFIX} the transport wait threw on ${signal}:`, saidBy(thrown))
     }
     doors.exited(SHUT_DOWN_CODE)
   }
