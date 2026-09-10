@@ -24,7 +24,7 @@ export type IdentityStatement = Page & {
   replacedByStatements?: ReplacedByStatements
   replacesStatements?: ReplacesStatements
   identityStatementStatus: IdentityStatementStatus
-  subStatements?: readonly SubStatements[]
+  subStatements?: SubStatements
   identityStatementTags?: readonly IdentityStatementTags[]
   identityStatementValue: IdentityStatementValue
   icon: Icon
