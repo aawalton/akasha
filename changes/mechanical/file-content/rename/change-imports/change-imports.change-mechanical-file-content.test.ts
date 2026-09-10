@@ -104,32 +104,18 @@ test("a body moving under the name it has keeps the types specifier it already s
   expect(said.edits).toEqual([])
 })
 
-test("a specifier a manifest names is followed to where the file it reached moved", () => {
-  const naming = new Map([[ALIAS, TARGET]])
+test("a specifier naming a package is left alone though the file it reaches moved", () => {
   const text = `import { other } from "${ALIAS}"\n\nexport const held = other\n`
 
-  const said = changeImports(HOLDER, HOLDER, text, new Map([[TARGET, ARRIVES]]), naming)
-  const one = said.edits[0]
-
-  expect(one?.kind === "replace" && one.contentTo).toBe(
-    'import { other } from "../four/other.module.code.ts"'
-  )
-})
-
-test("a name a manifest names is followed only where that name is a specifier", () => {
-  const naming = new Map([[ALIAS, TARGET]])
-  const text = `export const at = "${ALIAS}"\n`
-
-  const said = changeImports(TABLE, TABLE, text, new Map([[TARGET, ARRIVES]]), naming)
+  const said = changeImports(HOLDER, HOLDER, text, new Map([[TARGET, ARRIVES]]))
 
   expect(said.edits).toEqual([])
 })
 
-test("a specifier a manifest names reaching nothing that moved is left alone", () => {
-  const naming = new Map([[ALIAS, TARGET]])
-  const text = `import { other } from "${ALIAS}"\n\nexport const held = other\n`
+test("a package name a body spells outside an import is left alone too", () => {
+  const text = `export const at = "${ALIAS}"\n`
 
-  const said = changeImports(HOLDER, HOLDER, text, new Map(), naming)
+  const said = changeImports(TABLE, TABLE, text, new Map([[TARGET, ARRIVES]]))
 
   expect(said.edits).toEqual([])
 })

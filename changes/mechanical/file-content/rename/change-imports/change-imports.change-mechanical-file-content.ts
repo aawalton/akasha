@@ -28,15 +28,19 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier a manifest names reaches the file that manifest points it at.",
+      statement: "A specifier naming a package is left as it is, whatever moved.",
     },
     {
       invariantKind: "departure",
-      statement: "A name a manifest names is read as a way in only where that name is a specifier.",
+      statement: "A way in is repointed at the file, so the specifier naming it needs no rewrite.",
     },
     {
       invariantKind: "departure",
-      statement: "A specifier is respelled only where the file that specifier reaches moved.",
+      statement: "A specifier is respelled only where the path that specifier spells moved.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No manifest is read here.",
     },
     {
       invariantKind: "departure",

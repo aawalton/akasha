@@ -1,13 +1,5 @@
 import { basename, dirname, extname, join, relative } from "node:path"
-import {
-  landingOf,
-  NAMING_NONE,
-  type Naming,
-  placedIn,
-  specifierFor,
-  spelledIn,
-} from "@akasha/code/code-specifier"
-import { reachingFor } from "@akasha/indexes/package-reaching"
+import { landingOf, placedIn, specifierFor, spelledIn } from "@akasha/code/code-specifier"
 import {
   notText,
   refusing,
@@ -52,8 +44,7 @@ function nextFor(
   dir: string,
   said: string,
   moved: ReadonlyMap<string, string>,
-  specifier: boolean,
-  naming: Naming
+  specifier: boolean
 ): string | null {
   if (specifier) {
     const generated = generatedFor(was, now, said)
@@ -62,10 +53,9 @@ function nextFor(
   const rooted = moved.get(said)
   if (rooted !== undefined) return rooted
   const landed = landingOf(was, said)
-  const named = landed ?? (specifier ? landingOf(was, said, naming) : null)
-  const carried = named === null ? undefined : moved.get(named)
-  if (carried !== undefined) return specifierFor(dir, carried)
   if (landed === null) return specifier ? null : beneathFor(was, dir, said, moved)
+  const carried = moved.get(landed)
+  if (carried !== undefined) return specifierFor(dir, carried)
   return specifier ? specifierFor(dir, landed) : null
 }
 
@@ -73,14 +63,13 @@ export function changeImports(
   was: string,
   now: string,
   text: string,
-  moved: ReadonlyMap<string, string>,
-  naming: Naming = NAMING_NONE
+  moved: ReadonlyMap<string, string>
 ): Said {
   const dir = dirname(now)
   const specifier = new Set(placedIn(now, text).map((one) => one.start))
   const splices: Splice[] = []
   for (const one of spelledIn(now, text)) {
-    const next = nextFor(was, now, dir, one.text, moved, specifier.has(one.start), naming)
+    const next = nextFor(was, now, dir, one.text, moved, specifier.has(one.start))
     if (next === null || next === one.text) continue
     splices.push({ from: one.start, to: one.end, put: JSON.stringify(next) })
   }
@@ -98,11 +87,5 @@ export function runChange(world: World, given: Given): Said {
   const held = world.bodyOf(given.now) ?? world.bodyOf(given.was)
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
-  return changeImports(
-    given.was,
-    given.now,
-    held,
-    new Map(Object.entries(given.moved)),
-    reachingFor(world.root)
-  )
+  return changeImports(given.was, given.now, held, new Map(Object.entries(given.moved)))
 }
