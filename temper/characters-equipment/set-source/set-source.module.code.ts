@@ -1,5 +1,5 @@
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
-import type { SetId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { EquipmentQualityId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
 import { isMetricEffect } from "../../formula-framework/effect/effect.module.code.ts"

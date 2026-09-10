@@ -1,6 +1,6 @@
-import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
-import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
-import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import { armorTraits } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
+import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 
 function buildTraitSection(
   tableName: string,

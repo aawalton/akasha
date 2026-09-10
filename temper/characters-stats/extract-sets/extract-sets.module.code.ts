@@ -7,7 +7,7 @@ import {
   createSetSource,
   type SetSource,
 } from "akasha/temper/characters-equipment/set-source/set-source.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,

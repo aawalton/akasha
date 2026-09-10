@@ -24,9 +24,9 @@ import {
   type ArmorTraitId,
   armorTraitsBuildList,
   armorTraits as armorTraitsData,
-} from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
-import type { StandardArmorWeightId } from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+} from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import { useMemo } from "react"
 import {
   type ArmorSlotId,

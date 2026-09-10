@@ -1,4 +1,4 @@
-import type { SetTemplate } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
+import type { SetTemplate } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import { filterAndOrganizeSets } from "../set-categories/set-categories.module.code.ts"
 import type { FilterableSelectDialogConfig } from "../set-select-types/set-select-types.module.code.ts"
 import { createSetSource, type SetSource } from "../set-source/set-source.module.code.ts"

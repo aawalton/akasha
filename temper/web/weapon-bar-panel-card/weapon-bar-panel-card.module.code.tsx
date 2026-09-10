@@ -29,12 +29,12 @@ import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import {
   type WeaponTraitId,
   weaponTraitsBuildList,
   weaponTraits as weaponTraitsData,
-} from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+} from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import { useMemo } from "react"
 import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import { weaponSlots as weaponSlotsData } from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"

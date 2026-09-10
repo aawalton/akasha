@@ -1,6 +1,6 @@
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
-import { getInfusedWeaponBonus } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import { getInfusedWeaponBonus } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import {
   type EquipmentQualityId,
   minQuality,

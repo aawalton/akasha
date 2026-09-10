@@ -1,4 +1,4 @@
-import type { SetCategoryId } from "akasha/temper/temper-equipment/set-category-ids/set-category-ids.module.code.ts"
+import type { SetCategoryId } from "akasha/temper/equipment/set-category-ids/set-category-ids.module.code.ts"
 import type { ActivityCategoryId } from "../activity-categories/activity-categories.module.code.ts"
 
 export const SET_SUBCATEGORY_TO_ACTIVITY: Record<SetCategoryId, ActivityCategoryId> = {

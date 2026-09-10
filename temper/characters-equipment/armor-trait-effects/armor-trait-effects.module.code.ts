@@ -2,7 +2,7 @@ import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   ARMOR_TRAIT_QUALITY_VALUES,
   armorTraits,
-} from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+} from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,

@@ -13,8 +13,8 @@ import {
   type SetSourceId,
 } from "akasha/temper/characters-equipment/set-source/set-source.module.code.ts"
 import { isSetsAllId } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import { useMemo, useState } from "react"
 import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import { FilterableSelectDialog } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"

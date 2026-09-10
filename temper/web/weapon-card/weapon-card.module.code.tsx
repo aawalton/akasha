@@ -42,15 +42,15 @@ import {
   type ArmorTraitId,
   armorTraits,
   armorTraitsBuildList,
-} from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
+} from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
 import {
   type WeaponTraitId,
   weaponTraits,
   weaponTraitsBuildList,
-} from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
-import type { WeaponTypeId } from "akasha/temper/temper-equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
+} from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+import type { WeaponTypeId } from "akasha/temper/equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
 import { useMemo, useState } from "react"
 import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import type { WeaponBar } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"

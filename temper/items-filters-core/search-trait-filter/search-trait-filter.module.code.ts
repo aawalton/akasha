@@ -1,3 +1,11 @@
+import { armorTraits } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
+import {
+  PLAYER_ARMOR_TRAIT_TO_ESO,
+  PLAYER_JEWELRY_TRAIT_TO_ESO,
+  PLAYER_WEAPON_TRAIT_TO_ESO,
+} from "akasha/temper/equipment/eso-trait-map/eso-trait-map.module.code.ts"
+import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
 import { checkClassification } from "akasha/temper/items-rules-eval/check-classification/check-classification.module.code.ts"
 import {
   ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
@@ -5,14 +13,6 @@ import {
   ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
 } from "akasha/temper/temper-companions-core/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
 import { companionTraits } from "akasha/temper/temper-companions-core/companion-traits/companion-traits.module.code.ts"
-import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
-import {
-  PLAYER_ARMOR_TRAIT_TO_ESO,
-  PLAYER_JEWELRY_TRAIT_TO_ESO,
-  PLAYER_WEAPON_TRAIT_TO_ESO,
-} from "akasha/temper/temper-equipment/eso-trait-map/eso-trait-map.module.code.ts"
-import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
-import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
 import { runChecker } from "../search-eval-adapter/search-eval-adapter.module.code.ts"
 import type { FilterEditorOption } from "../search-filter-types/search-filter-types.module.code.ts"
 import { defineFilter } from "../search-filter-types/search-filter-types.module.code.ts"

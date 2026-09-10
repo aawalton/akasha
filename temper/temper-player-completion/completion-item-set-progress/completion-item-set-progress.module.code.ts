@@ -5,7 +5,7 @@ import type {
   AccountCompletion,
   ItemSetPieceProgress,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { SetCategoryId } from "akasha/temper/temper-equipment/set-category-ids/set-category-ids.module.code.ts"
+import type { SetCategoryId } from "akasha/temper/equipment/set-category-ids/set-category-ids.module.code.ts"
 
 const ESO_CATEGORY_NAME_MAP: Record<string, SetCategoryId> = {
   dungeons: "dungeon",

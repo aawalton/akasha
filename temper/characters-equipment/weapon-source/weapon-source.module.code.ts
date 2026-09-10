@@ -1,6 +1,6 @@
-import type { WeaponTraitId } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
-import { getNirnhonedWeaponBonus } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
-import type { WeaponTypeId } from "akasha/temper/temper-equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
+import type { WeaponTraitId } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+import { getNirnhonedWeaponBonus } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+import type { WeaponTypeId } from "akasha/temper/equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,

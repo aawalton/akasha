@@ -28,15 +28,15 @@ import {
   getQualityLabel,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import {
   type ArmorTraitId,
   armorTraits,
   armorTraitsBuildList,
-} from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
-import type { StandardArmorWeightId } from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
-import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
+} from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { useMemo, useState } from "react"
 import {
   type ArmorSlotId,

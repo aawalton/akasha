@@ -22,8 +22,8 @@ import {
   type JewelryTraitId,
   jewelryTraits,
   jewelryTraitsBuildList,
-} from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
-import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+} from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import { useMemo } from "react"
 import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import {

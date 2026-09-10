@@ -3,7 +3,7 @@ import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-
 import type {
   ArmorWeightId,
   StandardArmorWeightId,
-} from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+} from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
   type ArmorTypeId,
   getArmorMultiplier,

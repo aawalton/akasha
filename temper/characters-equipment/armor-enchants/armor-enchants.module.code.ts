@@ -1,6 +1,6 @@
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
-import { getInfusedArmorBonus } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+import { getInfusedArmorBonus } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
 import { isLargeArmorEnchantSlot } from "../../equipment-kinds/armor-types/armor-types.module.code.ts"
 import {
   type EquipmentQualityId,

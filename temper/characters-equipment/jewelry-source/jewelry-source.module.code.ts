@@ -1,4 +1,4 @@
-import type { JewelryTraitId } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import type { JewelryTraitId } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import type { JewelryTypeId } from "../../equipment-kinds/jewelry-types/jewelry-types.module.code.ts"
 import type { Effect, MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"

@@ -1,4 +1,4 @@
-import type { SetId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import { keysOf } from "../../formula-framework/record-parts/record-parts.module.code.ts"
 import type {
   Loadout,
