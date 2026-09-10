@@ -1,26 +1,18 @@
-import { readdirSync } from "node:fs"
-import { join } from "node:path"
 import {
   normalize,
   type VocabularyEntry,
 } from "akasha/alan/harness/rules-engine/rule-vocabulary/rule-vocabulary.module.code.ts"
-import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
-import { AKASHA, MERCHANT_FOLDER } from "../files/monarch-files.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { AKASHA } from "../files/monarch-files.module.code.ts"
 import { descriptionOf, type Subject } from "../transaction/monarch-transaction.module.code.ts"
 
 const TYPE = "monarch-merchant"
 
 function vocabulary(): readonly VocabularyEntry[] {
-  const folder = join(AKASHA, MERCHANT_FOLDER)
-  const names = readdirSync(folder)
-    .filter((name) => name.endsWith(`.${TYPE}.ts`))
-    .sort()
   const entries: VocabularyEntry[] = []
-  for (const name of names) {
-    const value = valueAt(`${MERCHANT_FOLDER}/${name}`, AKASHA)
-    if (value === null) continue
-    const title = value.title
-    const patterns = value.merchantPatterns
+  for (const page of valuesOfType(AKASHA, TYPE)) {
+    const title = page.value.title
+    const patterns = page.value.merchantPatterns
     if (typeof title !== "string" || !Array.isArray(patterns)) continue
     entries.push({
       value: title.toLowerCase(),
