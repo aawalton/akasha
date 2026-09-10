@@ -31,10 +31,10 @@ test("one page with the parts it is allowed takes the shape", () => {
 })
 
 test("a subfolder other than modules, pages, properties or sections is refused, however named", () => {
-  const forItsPage = over(["model-checks/model-check.page-type.ts"])
+  const forItsPage = over(["hummings/humming.page-type.ts"])
   const said = aPageWithItsParts(forItsPage(["code-check.page-type.ts"]))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("model-checks")
+  expect(said[0]).toContain("hummings")
 
   const otherwise = over(["rules/rule.page-type.ts"])
   const held = aPageWithItsParts(otherwise(["code-check.page-type.ts"]))

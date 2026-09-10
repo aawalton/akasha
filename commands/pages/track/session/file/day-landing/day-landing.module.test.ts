@@ -8,11 +8,11 @@ const ROOT = "/var/home/walton/repos/akasha"
 
 const UNDECLARED = `import type { Day } from "../../day.page-type.ts"
 
-export const day20260906 = {
+export const day19990102 = {
   id: "01a07629-2c15-7000-aa49-25832a4c3322",
   pageTypeSlug: "day",
-  slug: "day-2026-09-06",
-  date: "2026-09-06",
+  slug: "day-1999-01-02",
+  date: "1999-01-02",
 } as const satisfies Day
 `
 
@@ -64,10 +64,10 @@ test("a path outside the root is spelled whole", () => {
 test("the one day of a landing has its page written and its rows left to the body", () => {
   const scratch = mkdtempSync(join(SCRATCH_AT, "amy-day-landing-"))
   try {
-    const argv = besideArgv([{ held: heldFor("2026-09-06", UNDECLARED), rows: [] }], scratch, ROOT)
+    const argv = besideArgv([{ held: heldFor("1999-01-02", UNDECLARED), rows: [] }], scratch, ROOT)
     expect(argv).toEqual([
       "--file-path",
-      "alan/track/daily/days/pages/2026-09-06/day-2026-09-06.day.ts",
+      "alan/track/daily/days/pages/1999-01-02/day-1999-01-02.day.ts",
       "--content-file",
       join(scratch, "page-0"),
     ])
@@ -80,7 +80,7 @@ test("the one day of a landing has its page written and its rows left to the bod
 test("a day already declaring the stretches has nothing written for it", () => {
   const scratch = mkdtempSync(join(SCRATCH_AT, "amy-day-landing-"))
   try {
-    const argv = besideArgv([{ held: heldFor("2026-09-06", DECLARED), rows: [] }], scratch, ROOT)
+    const argv = besideArgv([{ held: heldFor("1999-01-02", DECLARED), rows: [] }], scratch, ROOT)
     expect(argv).toEqual([])
   } finally {
     rmSync(scratch, { recursive: true, force: true })
@@ -92,15 +92,15 @@ test("the rows of every day but the last are written beside the days those rows 
   try {
     const argv = besideArgv(
       [
-        { held: heldFor("2026-09-05", DECLARED), rows: [] },
-        { held: heldFor("2026-09-06", DECLARED), rows: [] },
+        { held: heldFor("1999-01-01", DECLARED), rows: [] },
+        { held: heldFor("1999-01-02", DECLARED), rows: [] },
       ],
       scratch,
       ROOT
     )
     expect(argv).toEqual([
       "--file-path",
-      "alan/track/daily/days/pages/2026-09-05/day-2026-09-05.day.sessions.jsonl",
+      "alan/track/daily/days/pages/1999-01-01/day-1999-01-01.day.sessions.jsonl",
       "--content-file",
       join(scratch, "day-0"),
     ])
