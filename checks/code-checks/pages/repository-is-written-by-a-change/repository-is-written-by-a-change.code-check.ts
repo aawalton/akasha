@@ -117,6 +117,10 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "gap",
+      statement: "A rule in a `.gitignore` below the root is not read, no check looking for files.",
+    },
+    {
+      invariantKind: "gap",
       statement: "A write through a wrapper of another module is not seen.",
     },
     {
