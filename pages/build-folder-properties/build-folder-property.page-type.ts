@@ -1,7 +1,4 @@
-import type { NamedFolderProperty } from "../named-folder-properties/named-folder-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type BuildFolderProperty = NamedFolderProperty
 
 export const buildFolderProperty = {
   id: "01a081cd-5b5f-731e-95ed-0ea5ee3b352b",
@@ -37,4 +34,5 @@ export const buildFolderProperty = {
       statement: "The paths git is told to ignore are read from this property.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

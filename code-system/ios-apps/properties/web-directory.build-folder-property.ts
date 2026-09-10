@@ -1,4 +1,4 @@
-import type { BuildFolderProperty } from "@akasha/pages/build-folder-property"
+import type { BuildFolderProperty } from "akasha/pages/build-folder-properties/build-folder-property.page-type.types.ts"
 
 export type WebDirectory = true
 
