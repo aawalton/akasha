@@ -28,6 +28,7 @@ export const designSystem = {
     "module/components-text-display-panels",
     "module/design-system-page-content",
     "module/gemstone-colors",
+    "module/layout-spacing-panels",
     "module/layout-tab",
     "module/patterns-tab",
     "module/patterns-ux-layout-panels",
