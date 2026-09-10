@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { candidateRule } from "../candidate/monarch-candidate.module.code.ts"
 import { setCategory } from "../categorize/monarch-categorize.module.code.ts"
 import { monarchClient } from "../client/monarch-client.module.code.ts"
@@ -56,6 +57,8 @@ export function categoryFrom(rule: Rule, row: HistoryRow, decision: Decision): s
           `${decision.candidates.join(", ")}. Alan ruled that these fall through to semantic ` +
           "review rather than being guessed between, so this path will not settle it."
       )
+    default:
+      return assertNever(decision)
   }
 }
 
