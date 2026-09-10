@@ -99,6 +99,7 @@ export const page = {
     "workstation-service/sweep-page-answers",
     "module/type-keys",
     "domain/identity",
+    "domain/id",
   ],
   invariants: [
     {
