@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is held to the ceilings its page states.",
       workingMemory:
-        "check-cost measures wall, cpu, child cpu, peak bytes and peak added bytes for every check, and its own page says nothing there refuses a run for its cost. That refusal is the work. Only test states a ceiling, maxCpuSeconds 5; maxWallSeconds and maxMemoryMb have no producer and no consumer. Alan has ruled out a spawn per check, so a check that never yields is out of reach: nothing in akasha bounds one, and a cost is known only once the run returns.",
+        "Alan has the ceilings as members of the check and audit groups, not decision, so a check page states check.maxCpuSeconds. A group page type property array names that group member rather than a page property, declared-properties skipping it for anything under a file property group, so declaring the ceilings there was inert and came back off in b97c6a291890. Enforcement refuses the change and sends the author to Alan for the speed or the ceiling.",
     },
     {
       statement: "Every check is cheap enough for audit.",
