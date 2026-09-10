@@ -25,6 +25,10 @@ export const minedRestorePotions = {
     },
     {
       invariantKind: "departure",
+      statement: "Where the akasha page sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
       statement: "`partAt` answers for a `.ts` page alone.",
     },
     {

@@ -6,12 +6,19 @@ import {
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { partAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { MinedRestorePotion } from "../potion-restore-metrics/potion-restore-metrics.module.code.ts"
 
-const MINE_PAGES: readonly string[] = [
-  "temper/characters/temper-mines/pages/eso/eso.temper-mine.ts",
-  "pages/temper-mine/eso.temper-mine.md",
-]
+const MINE = "temper-mine"
+
+const MINE_SLUG = "eso"
+
+const MARKDOWN_PAGE = "pages/temper-mine/eso.temper-mine.md"
+
+function minePagesAt(root: string): readonly string[] {
+  const listed = listedAt(root, MINE, MINE_SLUG)[0]
+  return [...(listed === undefined ? [] : [listed.path]), MARKDOWN_PAGE]
+}
 
 const ITEMS = "items"
 
@@ -38,7 +45,7 @@ function namedAt(page: string, part: number): string | null {
 }
 
 function itemPartsAt(root: string): readonly string[] {
-  for (const page of MINE_PAGES) {
+  for (const page of minePagesAt(root)) {
     const found: string[] = []
     for (let part = FIRST_PART; ; part += 1) {
       const at = namedAt(page, part)
@@ -72,7 +79,7 @@ export async function fetchMinedRestorePotions(): Promise<readonly MinedRestoreP
   const parts = itemPartsAt(root)
   if (parts.length === 0) {
     throw new Error(
-      `no page carries the sweep's \`${ITEMS}\` rows — looked beside ${MINE_PAGES.join(" and ")}`
+      `no page carries the sweep's \`${ITEMS}\` rows — looked beside ${minePagesAt(root).join(" and ")}`
     )
   }
   const found: MinedRestorePotion[] = []
