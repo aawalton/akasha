@@ -12,17 +12,30 @@ import {
   landedFrom,
   PROPOSED,
   REFUSES_TAKING,
+  repoCheckCodeGone,
   repoNoCheckLoads,
   repoWith,
   scratch,
   seeded,
   treeHolds,
-  UNLOADABLE_AT,
   wrote,
   wroteWith,
 } from "./repo-seeding.module.code.ts"
 
 afterAll(scratch.sweep)
+
+test("a check whose code was taken away refuses the change, and nothing reaches the disk", async () => {
+  const root = repoCheckCodeGone()
+  const was = headOf(root)
+  const said = await wrote(root, ["--message", "held"])
+  expect(said.code).toBe(3)
+  expect(said.refusals.join("\n")).toContain(
+    "the check `admits` could not be gathered, so it judged nothing"
+  )
+  expect(said.refusals.join("\n")).toContain("no code sits beside that page")
+  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
+  expect(headOf(root)).toBe(was)
+})
 
 test("checks that will not load refuse the change, and nothing reaches the disk", async () => {
   const root = repoNoCheckLoads()
@@ -30,9 +43,7 @@ test("checks that will not load refuse the change, and nothing reaches the disk"
   const said = await wrote(root, ["--message", "held"])
   expect(said.code).toBe(3)
   expect(said.refusals.join("\n")).toContain("the checks would not load")
-  expect(said.refusals.join("\n")).toContain(
-    `${UNLOADABLE_AT} is a check's code, and would not load`
-  )
+  expect(said.refusals.join("\n")).toContain("the index names no check")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(headOf(root)).toBe(was)
 })
@@ -50,7 +61,7 @@ test("the glass carries a change past checks that will not load, and the commit 
   expect(said.report).toContain("landed akasha/one.ts")
   const body = commitIn(root, said)
   expect(body).toContain("Checks-bypassed: mid-refactor")
-  expect(body).toContain(`Checks-unloadable: ${UNLOADABLE_AT} is a check's code`)
+  expect(body).toContain("Checks-unloadable: the index names no check")
 })
 
 test("a check is handed a removal, and can refuse it", async () => {

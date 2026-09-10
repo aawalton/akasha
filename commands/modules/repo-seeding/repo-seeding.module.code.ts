@@ -6,9 +6,11 @@ import type { Phase } from "akasha/checks/modules/checking/checking.module.code.
 import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import {
+  identitiesTakenFrom,
   listedFiled,
   noImportersFiled,
   pageFiled,
+  valueTakenFrom,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf as bytes } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import {
@@ -36,13 +38,17 @@ export const REPO_AT = rootOf(import.meta.dir)
 
 const TWO_AT = "akasha/two.ts"
 
-export const UNLOADABLE_AT = "akasha/admits.code-check.code.ts"
+export const CHECK_CODE_AT = "akasha/admits.code-check.code.ts"
 
 export const PROPOSED = "proposed\n"
 
 export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 export const SEAT_AT = "akasha/seat-system/seats/pages/tester.seat.ts"
+
+const CHECK = "code-check"
+
+const ADMITS = "admits"
 
 const COMMAND = "command"
 
@@ -68,7 +74,7 @@ function builtAt(root: string, named: Readonly<Record<string, string>>): string 
   git(root, ["commit", "--quiet", "-m", "first"])
   put(root, APPLY_AT, "export const changeApply = {}\n")
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
-  checking(root, "admits", ADMITS_CODE)
+  checking(root, ADMITS, ADMITS_CODE)
   warrantsSeeded(root)
   pageFiled(root, AGENT, SEAT_AT)
   listedFiled(root, COMMAND, CHANGE_APPLY_SLUG, [{ path: APPLY_AT, id: APPLY_ID }])
@@ -96,13 +102,16 @@ export function repoWith(
   return repoAt(scratch.rootFor("akasha-repo-seeding-"), named)
 }
 
-function checksBroken(root: string): undefined {
-  rmSync(join(root, UNLOADABLE_AT))
+export function repoCheckCodeGone(): string {
+  const root = repoWith()
+  rmSync(join(root, CHECK_CODE_AT))
+  return root
 }
 
 export function repoNoCheckLoads(): string {
   const root = repoWith()
-  checksBroken(root)
+  identitiesTakenFrom(root, CHECK)
+  valueTakenFrom(root, CHECK, ADMITS)
   return root
 }
 
