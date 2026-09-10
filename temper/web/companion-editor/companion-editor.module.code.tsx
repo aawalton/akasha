@@ -3,7 +3,7 @@
 import type {
   CompanionState,
   CompanionVisibility,
-} from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { CompanionProvider } from "../companion-context/companion-context.module.code.tsx"
 import { CompanionEditorContent } from "../companion-editor-content/companion-editor-content.module.code.tsx"

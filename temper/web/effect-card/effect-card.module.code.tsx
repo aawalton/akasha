@@ -5,16 +5,16 @@ import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   formatDamageType,
   formatTargetInfo,
-} from "akasha/temper/temper-companions-core/companion-effect-formatters/companion-effect-formatters.module.code.ts"
+} from "akasha/temper/companions-core/companion-effect-formatters/companion-effect-formatters.module.code.ts"
 import {
   formatBuffType,
   formatDebuffType,
   formatSpecialEffect,
   formatStatusEffect,
-} from "akasha/temper/temper-companions-core/companion-effect-labels/companion-effect-labels.module.code.ts"
-import type { CompanionEffect } from "akasha/temper/temper-companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import type { CompanionFormulaStats } from "akasha/temper/temper-companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { calculateEffectValue } from "akasha/temper/temper-companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+} from "akasha/temper/companions-core/companion-effect-labels/companion-effect-labels.module.code.ts"
+import type { CompanionEffect } from "akasha/temper/companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { calculateEffectValue } from "akasha/temper/companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import { formatAbbreviated } from "../../formula-framework/number-format/number-format.module.code.ts"
 
 interface EffectCardProps {

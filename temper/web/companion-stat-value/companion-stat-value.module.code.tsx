@@ -1,4 +1,4 @@
-import type { CompanionMetricValue } from "akasha/temper/temper-companions-core/companion-metrics/companion-metrics.module.code.ts"
+import type { CompanionMetricValue } from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
 
 interface CompanionStatValueProps {
   stat: CompanionMetricValue

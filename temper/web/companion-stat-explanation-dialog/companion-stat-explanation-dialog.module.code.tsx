@@ -10,14 +10,14 @@ import {
 } from "@akasha/design-primitives/dialog"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import type { CompanionBaseRoleId } from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionEffectSource } from "akasha/temper/temper-companions-core/companion-effect-sources/companion-effect-sources.module.code.ts"
-import { companionMetricToDisplayFormula } from "akasha/temper/temper-companions-core/companion-metric-display-formula/companion-metric-display-formula.module.code.ts"
-import type { CompanionMetricId } from "akasha/temper/temper-companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionBaseRoleId } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionEffectSource } from "akasha/temper/companions-core/companion-effect-sources/companion-effect-sources.module.code.ts"
+import { companionMetricToDisplayFormula } from "akasha/temper/companions-core/companion-metric-display-formula/companion-metric-display-formula.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   type CompanionMetricValue,
   getCompanionMetricName,
-} from "akasha/temper/temper-companions-core/companion-metrics/companion-metrics.module.code.ts"
+} from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
 import { FormulaDisplay } from "../formula-display/formula-display.module.code.tsx"
 
 interface CompanionStatExplanationDialogProps {

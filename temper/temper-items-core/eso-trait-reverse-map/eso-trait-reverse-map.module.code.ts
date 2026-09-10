@@ -1,13 +1,13 @@
 import {
+  COMPANION_ARMOR_ESO_TO_TRAIT,
+  COMPANION_JEWELRY_ESO_TO_TRAIT,
+  COMPANION_WEAPON_ESO_TO_TRAIT,
+} from "akasha/temper/companions-core/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
+import {
   PLAYER_ARMOR_ESO_TO_TRAIT,
   PLAYER_JEWELRY_ESO_TO_TRAIT,
   PLAYER_WEAPON_ESO_TO_TRAIT,
 } from "akasha/temper/equipment/eso-trait-map/eso-trait-map.module.code.ts"
-import {
-  COMPANION_ARMOR_ESO_TO_TRAIT,
-  COMPANION_JEWELRY_ESO_TO_TRAIT,
-  COMPANION_WEAPON_ESO_TO_TRAIT,
-} from "akasha/temper/temper-companions-core/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
 
 const JEWELRY_EQUIP_TYPES = new Set([2, 12])
 

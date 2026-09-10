@@ -14,7 +14,7 @@ import {
 import type {
   Build,
   ComboRankingsMap,
-} from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
+} from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import { useCallback, useState } from "react"
 import { CompanionLeaderboardContent } from "../companion-leaderboard-content/companion-leaderboard-content.module.code.tsx"
 import {

@@ -5,13 +5,13 @@ import type { Page, PageWhere } from "@akasha/pages-core/page-types"
 import { readFiles, readPages, writeFiles } from "@akasha/pages-query"
 import { asRecord } from "@akasha/utils/narrow/as-record"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import { getCompanionIdByDefId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { parseSavedVariablesContent } from "akasha/temper/completion-import/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
-import { getCompanionIdByDefId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { classifyCompletionImport } from "akasha/temper/temper-player-completion/completion-import-outcome/completion-import-outcome.module.code.ts"
 import {
   mergeAccountCompletionForward,

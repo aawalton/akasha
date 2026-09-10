@@ -13,16 +13,16 @@ import {
   type CompanionBaseRoleId,
   companionBaseRoles,
   getBaseRoleName,
-} from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+} from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type ComboRankingsMap,
   displayRoleComboKey,
   mapBaseRolesToDisplayRoles,
-} from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
-import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
-import { getWeaponRole } from "akasha/temper/temper-companions-core/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
-import { companionWeaponRoles } from "akasha/temper/temper-companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
-import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import { getWeaponRole } from "akasha/temper/companions-core/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
+import { companionWeaponRoles } from "akasha/temper/companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { Search, Trophy } from "lucide-react"
 import { buildId as toBuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 

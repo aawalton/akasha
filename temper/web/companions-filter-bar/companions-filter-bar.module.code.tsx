@@ -12,7 +12,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { useEffect, useState } from "react"
 import { targetArmor } from "../../character-sources/target-armors/target-armors.module.code.ts"
 

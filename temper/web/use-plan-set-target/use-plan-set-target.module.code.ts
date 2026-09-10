@@ -9,12 +9,12 @@ import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type useAllCompanionList,
   useCompanionLifecycle,
 } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import type { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
-import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { useCallback, useState, useTransition } from "react"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 

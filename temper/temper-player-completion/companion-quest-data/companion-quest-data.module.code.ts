@@ -1,4 +1,4 @@
-import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 
 interface CompanionQuestEntry {
   questId: number

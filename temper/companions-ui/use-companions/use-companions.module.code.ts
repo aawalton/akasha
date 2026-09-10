@@ -14,12 +14,12 @@ import type { CompanionBuildMetadata } from "akasha/temper/build-metadata/build-
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
-} from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+} from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionRoleId,
   companionRoles,
-} from "akasha/temper/temper-companions-core/companion-roles/companion-roles.module.code.ts"
-import type { CompanionVisibility } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
+import type { CompanionVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { useMemo } from "react"
 
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"

@@ -1,4 +1,4 @@
-import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 
 export function generateCompanionMappings(): string {
   const entries: string[] = []

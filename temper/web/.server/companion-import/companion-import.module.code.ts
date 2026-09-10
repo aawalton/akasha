@@ -6,8 +6,8 @@ import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
-import { companionWeaponTypes } from "akasha/temper/temper-companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import type {
   BuildHash,
   BuildId,

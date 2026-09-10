@@ -1,4 +1,4 @@
-import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 
 export interface CompanionEquipmentPanelProps {
   equipment: CompanionState["equipment"]

@@ -4,12 +4,12 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Text } from "@akasha/design-primitives/text-body"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
-import type { CompanionMetricId } from "akasha/temper/temper-companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   type CompanionMetricGroup,
   getCompanionMetricTree,
-} from "akasha/temper/temper-companions-core/companion-metric-tree/companion-metric-tree.module.code.ts"
-import type { CompanionMetricValue } from "akasha/temper/temper-companions-core/companion-metrics/companion-metrics.module.code.ts"
+} from "akasha/temper/companions-core/companion-metric-tree/companion-metric-tree.module.code.ts"
+import type { CompanionMetricValue } from "akasha/temper/companions-core/companion-metrics/companion-metrics.module.code.ts"
 import { type ReactNode, useMemo, useState } from "react"
 import { CompanionRotationBreakdownPanelCard } from "../companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx"
 import { CompanionStatExplanationDialog } from "../companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx"

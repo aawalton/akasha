@@ -1,4 +1,4 @@
-import { getDefIdByCompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { getDefIdByCompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { COMPANION_QUEST_DATA } from "../companion-quest-data/companion-quest-data.module.code.ts"
 import { rawRapportToCompanionTier } from "../companion-rapport/companion-rapport.module.code.ts"
 

@@ -1,6 +1,6 @@
+import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import { getQualityClassName } from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
 import type { ShoppingPlan } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"
-import { companionTraits } from "akasha/temper/temper-companions-core/companion-traits/companion-traits.module.code.ts"
 import type { CompanionGearNeed } from "akasha/temper/temper-items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
 import {
   getCompanionGearItemName,

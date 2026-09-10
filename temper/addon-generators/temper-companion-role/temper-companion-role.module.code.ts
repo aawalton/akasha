@@ -1,4 +1,4 @@
-import { companionRoles } from "akasha/temper/temper-companions-core/companion-roles/companion-roles.module.code.ts"
+import { companionRoles } from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { rankOf, ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"

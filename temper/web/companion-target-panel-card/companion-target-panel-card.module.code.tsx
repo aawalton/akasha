@@ -8,7 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import type { CompanionTargetHealthId } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionTargetHealthId } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type TargetArmorId,
   targetArmor,

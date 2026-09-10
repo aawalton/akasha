@@ -22,9 +22,9 @@ import {
   displayRoleComboKey,
   displayRolesToAbbreviation,
   type RankedEntry,
-} from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
-import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
-import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { useMemo } from "react"
 import { buildId as toBuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { LEADERBOARD_COLUMNS } from "../leaderboard-columns/leaderboard-columns.module.code.ts"

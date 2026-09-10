@@ -1,13 +1,13 @@
 import {
   createEquipmentForBaseRoles,
   equipmentMatchesBaseRoleDefaults,
-} from "akasha/temper/temper-companions-core/companion-factory/companion-factory.module.code.ts"
+} from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
 import {
   getDefaultUltimateForCompanion,
   isSkillValidForCompanion,
-} from "akasha/temper/temper-companions-core/companion-skills/companion-skills.module.code.ts"
-import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
-import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { useCallback } from "react"
 
 export function useCompanionUpdate(

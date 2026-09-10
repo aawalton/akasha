@@ -7,7 +7,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import type { CompanionVisibility } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"
 import { BuildActionButtons } from "../build-action-buttons/build-action-buttons.module.code.tsx"
 

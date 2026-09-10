@@ -13,13 +13,13 @@ import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   useCompanionLifecycle,
   useCompanionList,
 } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"

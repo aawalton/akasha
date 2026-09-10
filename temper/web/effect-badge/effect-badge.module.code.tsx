@@ -3,17 +3,17 @@ import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   formatCooldown,
   formatDamageType,
-} from "akasha/temper/temper-companions-core/companion-effect-formatters/companion-effect-formatters.module.code.ts"
+} from "akasha/temper/companions-core/companion-effect-formatters/companion-effect-formatters.module.code.ts"
 import {
   formatBuffType,
   formatDebuffType,
   formatPassiveMetric,
   formatSpecialEffect,
   formatStatusEffect,
-} from "akasha/temper/temper-companions-core/companion-effect-labels/companion-effect-labels.module.code.ts"
-import type { CompanionEffect } from "akasha/temper/temper-companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import type { CompanionFormulaStats } from "akasha/temper/temper-companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { calculateEffectValue } from "akasha/temper/temper-companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+} from "akasha/temper/companions-core/companion-effect-labels/companion-effect-labels.module.code.ts"
+import type { CompanionEffect } from "akasha/temper/companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { calculateEffectValue } from "akasha/temper/companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import { formatAbbreviated } from "../../formula-framework/number-format/number-format.module.code.ts"
 import type {
   ArmorPieceCounts,

@@ -1,4 +1,4 @@
-import { companionSkillSlots } from "akasha/temper/temper-companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
+import { companionSkillSlots } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
 import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"

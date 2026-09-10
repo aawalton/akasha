@@ -1,4 +1,4 @@
-import { companionSkills } from "akasha/temper/temper-companions-core/companion-skills/companion-skills.module.code.ts"
+import { companionSkills } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 
 export function generateSkillMappings(): string {
   const entries: string[] = []

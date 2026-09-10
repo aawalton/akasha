@@ -4,15 +4,15 @@ import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
-import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
-import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
-import { companionRoles } from "akasha/temper/temper-companions-core/companion-roles/companion-roles.module.code.ts"
-import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
-import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { companionRoles } from "akasha/temper/companions-core/companion-roles/companion-roles.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import {
   companions,
   getCompanionIdByDefId,
-} from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
+import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
 import { buildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { resolveAccountPageId } from "../watcher-account-page/watcher-account-page.module.code.ts"
 import {

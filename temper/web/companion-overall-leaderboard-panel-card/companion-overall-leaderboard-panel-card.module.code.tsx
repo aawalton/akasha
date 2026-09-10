@@ -12,16 +12,16 @@ import {
   TableRow,
   TableTotalCell,
 } from "@akasha/design-primitives/table"
-import type { CompanionBaseRoleId } from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
-import { getBaseRoleName } from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionBaseRoleId } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import { getBaseRoleName } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type Build,
   getBuildScore,
-} from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
+} from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import {
   type CompanionId,
   companions,
-} from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+} from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { useMemo } from "react"
 
 interface OverallRankedCompanion {

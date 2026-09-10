@@ -1,13 +1,13 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import type { CompanionSkillTemplate } from "akasha/temper/temper-companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
-import type { CompanionFormulaStats } from "akasha/temper/temper-companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { companionSkillSlots } from "akasha/temper/temper-companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
+import type { CompanionSkillTemplate } from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { companionSkillSlots } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "akasha/temper/temper-companions-core/companion-skills/companion-skills.module.code.ts"
+} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import { CompanionSkillSlotCard } from "../companion-skill-slot-card/companion-skill-slot-card.module.code.tsx"
 import { CompanionUltimateSlotCard } from "../companion-ultimate-slot-card/companion-ultimate-slot-card.module.code.tsx"
 

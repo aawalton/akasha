@@ -26,8 +26,8 @@ import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
-import { createEmptyCompanion } from "akasha/temper/temper-companions-core/companion-factory/companion-factory.module.code.ts"
-import { toVisibility } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import { createEmptyCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
+import { toVisibility } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"

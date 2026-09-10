@@ -10,15 +10,15 @@ import {
   writeBits,
 } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import { recordFromKeys } from "akasha/temper/build-hash/record-from-keys/record-from-keys.module.code.ts"
-import type { CompanionArmorSlotId } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
-import { companionArmorSlots } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionArmorSlotId } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import { companionArmorSlots } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
-} from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
-import type { CompanionJewelrySlotId } from "akasha/temper/temper-companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import { companionJewelrySlots } from "akasha/temper/temper-companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import { companionSkillSlots } from "akasha/temper/temper-companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
+} from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionJewelrySlotId } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import { companionJewelrySlots } from "akasha/temper/companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import { companionSkillSlots } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
 import type {
   CompanionArmorSlotItem,
   CompanionJewelrySlotItem,
@@ -26,9 +26,9 @@ import type {
   CompanionTargetArmorId,
   CompanionTargetHealthId,
   CompanionWeaponSlotItem,
-} from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
-import type { CompanionWeaponSlotId } from "akasha/temper/temper-companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
-import { companionWeaponSlots } from "akasha/temper/temper-companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+} from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionWeaponSlotId } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+import { companionWeaponSlots } from "akasha/temper/companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   COMPANION_ARMOR_WEIGHT_BITS,

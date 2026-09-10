@@ -1,7 +1,7 @@
 "use client"
 
-import type { CompanionSkillSlotId } from "akasha/temper/temper-companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
-import type { CompanionSkillId } from "akasha/temper/temper-companions-core/companion-skills/companion-skills.module.code.ts"
+import type { CompanionSkillSlotId } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
+import type { CompanionSkillId } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import { useCallback, useState } from "react"
 
 interface UseCompanionSkillBarsProps {

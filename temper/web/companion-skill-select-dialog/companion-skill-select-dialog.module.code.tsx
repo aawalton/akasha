@@ -2,19 +2,19 @@
 
 import { CommandItem } from "@akasha/design-primitives/command"
 import { requireGet } from "@akasha/utils/narrow/require-get"
-import type { CompanionFormulaStats } from "akasha/temper/temper-companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
-import { isCompanionSkillAvailable } from "akasha/temper/temper-companions-core/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"
-import type { CompanionSkillSlotId } from "akasha/temper/temper-companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { isCompanionSkillAvailable } from "akasha/temper/companions-core/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"
+import type { CompanionSkillSlotId } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
   getAllSkillsForCompanion,
-} from "akasha/temper/temper-companions-core/companion-skills/companion-skills.module.code.ts"
-import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+} from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
+import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"
 import {
   type CompanionSkillLineId,
   companionSkillLines,
-} from "akasha/temper/temper-companions-core/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
+} from "akasha/temper/companions-core/skill-lines-by-companion/skill-lines-by-companion.module.code.ts"
 import { useMemo } from "react"
 import { CompanionSkillCard } from "../companion-skill-card/companion-skill-card.module.code.tsx"
 import {
