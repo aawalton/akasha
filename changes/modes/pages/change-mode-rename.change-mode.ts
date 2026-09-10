@@ -1,4 +1,4 @@
-import type { ChangeMode } from "../change-mode.page-type.ts"
+import type { ChangeMode } from "../change-mode.page-type.types.ts"
 
 export const changeModeRename = {
   id: "01a07c24-72ae-7f30-98b3-45cdf253e8ad",

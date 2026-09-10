@@ -1,7 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-
-export type ChangeMode = Domain
 
 export const changeMode = {
   id: "01a07c24-30e1-7802-88da-aa05d0b289dd",
@@ -29,4 +26,5 @@ export const changeMode = {
       statement: "Which sort a change is and which act a change makes are two answers.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

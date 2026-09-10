@@ -1,4 +1,4 @@
-import type { ChangeMode } from "../change-mode.page-type.ts"
+import type { ChangeMode } from "../change-mode.page-type.types.ts"
 
 export const changeModeAddIfNotPresent = {
   id: "01a08187-ae79-7fd0-a20c-f69200d6560d",
