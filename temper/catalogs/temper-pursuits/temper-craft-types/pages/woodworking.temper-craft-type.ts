@@ -1,4 +1,4 @@
-import type { TemperCraftType } from "../temper-craft-type.page-type.ts"
+import type { TemperCraftType } from "../temper-craft-type.page-type.types.ts"
 
 export const woodworking = {
   id: "01a0616b-2ce1-7008-86fd-faf617c1c789",

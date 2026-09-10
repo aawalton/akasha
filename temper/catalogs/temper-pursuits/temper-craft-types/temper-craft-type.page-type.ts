@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.types.ts"
-import type { EsoCraftTypeId } from "./properties/eso-craft-type-id.number-property.ts"
-
-export type TemperCraftType = TemperPursuitThing & {
-  esoCraftTypeId: EsoCraftTypeId
-}
 
 export const temperCraftType = {
   id: "01a0616b-2cdf-7001-a24c-0dd3c96e1a6e",
@@ -22,4 +16,5 @@ export const temperCraftType = {
       statement: "A craft type gathers the research lines one crafting skill covers.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
