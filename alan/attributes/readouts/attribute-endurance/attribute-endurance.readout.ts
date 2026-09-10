@@ -8,7 +8,7 @@ export const attributeEndurance = {
   definition: "the points Alan earned on a day for the calories he burned moving",
   code: "ts",
   test: "ts",
-  label: "Endurance",
+  label: "END",
   unit: "points",
   place: 2,
   scale: "attribute-points",

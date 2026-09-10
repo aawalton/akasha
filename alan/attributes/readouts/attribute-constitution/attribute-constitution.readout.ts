@@ -8,7 +8,7 @@ export const attributeConstitution = {
   definition: "the points Alan earned on a day for the whole plants he ate",
   code: "ts",
   test: "ts",
-  label: "Constitution",
+  label: "CON",
   unit: "points",
   place: 3,
   scale: "attribute-points",

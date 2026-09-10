@@ -8,7 +8,7 @@ export const attributeIntelligence = {
   definition: "the points Alan earned on a day for the learn-everything topics he updated",
   code: "ts",
   test: "ts",
-  label: "Intelligence",
+  label: "INT",
   unit: "points",
   place: 5,
   scale: "attribute-points",

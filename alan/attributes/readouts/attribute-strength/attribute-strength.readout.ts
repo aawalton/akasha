@@ -8,7 +8,7 @@ export const attributeStrength = {
   definition: "the points Alan earned on a day for the weight he moved",
   code: "ts",
   test: "ts",
-  label: "Strength",
+  label: "STR",
   unit: "points",
   place: 1,
   scale: "attribute-points",

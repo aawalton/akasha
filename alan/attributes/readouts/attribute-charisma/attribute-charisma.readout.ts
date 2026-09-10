@@ -8,7 +8,7 @@ export const attributeCharisma = {
   definition: "the points Alan earned on a day for the hours with someone that cost him nothing",
   code: "ts",
   test: "ts",
-  label: "Charisma",
+  label: "CHA",
   unit: "points",
   place: 6,
   scale: "attribute-points",
