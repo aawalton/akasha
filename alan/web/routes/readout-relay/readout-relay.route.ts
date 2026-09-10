@@ -31,7 +31,7 @@ export const readoutRelay = {
     },
     {
       invariantKind: "departure",
-      statement: "The reading carried in is held for the routes that serve it.",
+      statement: "The reading carried in is held for the routes that serve the reading.",
     },
     {
       invariantKind: "departure",

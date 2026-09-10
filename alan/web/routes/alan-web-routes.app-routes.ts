@@ -73,7 +73,7 @@ export const alanWebRoutes = {
     },
     {
       invariantKind: "departure",
-      statement: "The shell itself is what withholds the download in a browser.",
+      statement: "The shell itself withholds the download in a browser.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +81,7 @@ export const alanWebRoutes = {
     },
     {
       invariantKind: "departure",
-      statement: "A browser is handed the relative address it resolves itself.",
+      statement: "A browser is handed the relative address that browser resolves itself.",
     },
   ],
 } as const satisfies AppRoutes

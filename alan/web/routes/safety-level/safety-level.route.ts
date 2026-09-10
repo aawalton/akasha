@@ -44,7 +44,8 @@ export const safetyLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "`readingHeld` names whether nothing was ever carried or what came went stale.",
+      statement:
+        "`readingHeld` names whether nothing was ever carried or the reading carried went stale.",
     },
     {
       invariantKind: "departure",

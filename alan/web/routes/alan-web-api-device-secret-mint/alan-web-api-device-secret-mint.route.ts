@@ -15,7 +15,7 @@ export const alanWebApiDeviceSecretMint = {
     },
     {
       invariantKind: "departure",
-      statement: "Every refusal is written to standard error with the reason for it.",
+      statement: "Every refusal is written to standard error with the reason for that refusal.",
     },
     {
       invariantKind: "departure",

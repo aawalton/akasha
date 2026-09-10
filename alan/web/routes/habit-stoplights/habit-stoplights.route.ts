@@ -40,7 +40,7 @@ export const habitStoplights = {
     {
       invariantKind: "departure",
       statement:
-        "`readingHeld` names whether no reading was ever taken or the one taken went stale.",
+        "`readingHeld` names whether no reading was ever taken or the reading taken went stale.",
     },
     {
       invariantKind: "departure",

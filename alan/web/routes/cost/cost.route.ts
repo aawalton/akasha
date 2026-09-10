@@ -12,7 +12,7 @@ export const cost = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The answering is the cost stoplight module's and the wiring is all that is here.",
+      statement: "The answering is the cost stoplight module's and nothing but the wiring is here.",
     },
     {
       invariantKind: "departure",
