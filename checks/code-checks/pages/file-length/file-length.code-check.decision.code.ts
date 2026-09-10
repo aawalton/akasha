@@ -10,7 +10,7 @@ import {
   slugsWhere,
 } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 export const CEILING = 15000
