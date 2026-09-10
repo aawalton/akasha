@@ -4,6 +4,7 @@ import {
   capacityIn,
 } from "akasha/readouts/pages/upkeep-capacity/upkeep-capacity.readout.code.ts"
 import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { dayValuesByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
@@ -60,7 +61,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
 }
 
 if (import.meta.main) {
-  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   try {
     const hours = await takeReading(root)
     if (hours === null) {

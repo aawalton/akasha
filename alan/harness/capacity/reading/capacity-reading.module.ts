@@ -92,6 +92,10 @@ export const capacityReading = {
         "The root read is the root the environment states or the folder the call was made in.",
     },
     {
+      invariantKind: "departure",
+      statement: "An empty value in the environment states no root.",
+    },
+    {
       invariantKind: "stopgap",
       statement: "The readout's path is spelled here rather than asked of the index.",
     },
