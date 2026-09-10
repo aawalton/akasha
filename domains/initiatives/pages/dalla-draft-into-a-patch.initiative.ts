@@ -17,12 +17,12 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "`subagent-presence` lands through `runMechanicalChange` on every road now, so `landedMechanically` at `commands/modules/mechanical-landing` has no caller but its own test, which proves the `MECHANICAL` change kind rather than the function. `restore.command:206` writes HEAD's own body back to the disk and the git index, landing no change, so it is outside this intent as read. What is left is `notification-feed-rows:73`, appending through `page-entry-queue:47` straight onto a jsonl git tracks.\n",
+        "`notification-feed-rows` names the feed's files uncommitted, so the append through `page-entry-queue:47` lands on a path the repository ignores rather than a file git tracks. `queueAt`'s other caller, `transport-log`, is reached by no log path. `landedMechanically` has no caller but its own test. `restore.command:206` writes HEAD's own body back, landing no change. `repository-is-written-by-a-change` holds the rest and sees no write of anything but TypeScript.\n",
     },
     {
       statement: "Every change is a patch before it is applied.",
       workingMemory:
-        "Every landing road works a patch out first and reaches `applied`: `apply-running` for `change-apply`, and `runMechanicalChange` for every other program, which `subagent-presence` now takes on every road of its own. One road writes a file git tracks with neither patch nor landing: `notification-feed-rows:73` appends through `page-entry-queue:47`. `restore.command:206` writes HEAD's own body back, landing no change.\n",
+        "Every landing road works a patch out first and reaches `applied`: `apply-running` for `change-apply`, and `runMechanicalChange` for every other program, which `subagent-presence` takes on every road of its own. No road left writes a file git tracks with neither patch nor landing; the notification feed's rows are named uncommitted now. `restore.command:206` writes HEAD's own body back, landing no change.\n",
     },
   ],
   constraints: [
