@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const theTreasonOfIsengard = {
   id: "01a06808-148f-7033-9838-a48808f0ddeb",

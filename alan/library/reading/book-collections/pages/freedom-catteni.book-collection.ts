@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const freedomCatteni = {
   id: "01a06808-148e-7023-8d44-713d7b834054",

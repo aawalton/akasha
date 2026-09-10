@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const twinsOfPetaybee = {
   id: "01a06808-148f-703a-8283-3db637f3a349",

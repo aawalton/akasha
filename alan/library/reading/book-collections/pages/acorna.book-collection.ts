@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const acorna = {
   id: "01a06808-148d-7000-8fd3-6c5914c2df3e",

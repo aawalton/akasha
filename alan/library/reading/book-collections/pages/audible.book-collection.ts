@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const audible = {
   id: "01a06808-148e-7004-b044-a3189ecda5a3",

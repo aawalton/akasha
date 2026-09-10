@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const thePeoplesOfMiddleEarth = {
   id: "01a06808-148f-702c-8d1d-1c29fbe9c757",

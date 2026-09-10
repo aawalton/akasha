@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const americaTheLastBestHope = {
   id: "01a06808-148e-7002-9091-7b1d3484ee58",

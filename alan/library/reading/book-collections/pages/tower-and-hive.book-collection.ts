@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const towerAndHive = {
   id: "01a06808-148f-7039-9ea6-a05b3f78898d",

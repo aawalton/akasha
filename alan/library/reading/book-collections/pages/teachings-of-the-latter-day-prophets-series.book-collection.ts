@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const teachingsOfTheLatterDayProphetsSeries = {
   id: "01a06808-148f-7016-b602-2e01b72a30f3",

@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const discoursesOfPresidentGordonBHinckley = {
   id: "01a06808-148e-7019-8b7a-c04424d4acc3",

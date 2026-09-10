@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const commentariesOnTheLawsOfEngland = {
   id: "01a06808-148e-7013-9b52-2a421e673ea0",

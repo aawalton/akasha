@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const theLostRoadAndOtherWritings = {
   id: "01a06808-148f-702a-8fce-3c0f061d6cd4",

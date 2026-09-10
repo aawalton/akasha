@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const theFallOfGondolin = {
   id: "01a06808-148f-7022-8aed-b2d5df73b818",

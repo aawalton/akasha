@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const dungeonsAndDragons2024Manuals = {
   id: "01a06808-148e-701e-8a6d-009e18b2cb37",

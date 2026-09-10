@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const theCollectedWordsOfNealAMaxwellVolume6 = {
   id: "01a06808-148f-7020-ab66-5a93fac9a214",

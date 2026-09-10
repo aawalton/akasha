@@ -1,4 +1,4 @@
-import type { BookCollection } from "../book-collection.page-type.ts"
+import type { BookCollection } from "../book-collection.page-type.types.ts"
 
 export const theJosephSmithPapers = {
   id: "01a06808-148f-7026-84f2-cf5ead114ec3",
