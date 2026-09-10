@@ -37,9 +37,6 @@ export interface SeatRecord {
   readonly supervisorPid: number | null
 }
 
-// THE HOLDER IS ASKED FOR BY THE AGENT'S ID RATHER THAN BY ITS PAGE. This took the old page's path
-// and opened it for the id it states, only to ask akasha that id for the holder. The id is what the
-// caller already has.
 function supervisorPidOf(agentId: string): number | null {
   const stated = agentHolderProcess(agentId)
   return stated === null ? null : (parseSeatProcKey(stated)?.pid ?? null)
