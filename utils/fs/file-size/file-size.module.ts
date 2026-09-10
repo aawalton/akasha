@@ -14,11 +14,11 @@ export const fileSize = {
     },
     {
       invariantKind: "departure",
-      statement: "A path with what is no file is answered as no bytes.",
+      statement: "A path with an entry that is no file is answered as no bytes.",
     },
     {
       invariantKind: "departure",
-      statement: "A path is read as the caller spelled it.",
+      statement: "A path is read as the caller spelled the path.",
     },
     {
       invariantKind: "absence",
