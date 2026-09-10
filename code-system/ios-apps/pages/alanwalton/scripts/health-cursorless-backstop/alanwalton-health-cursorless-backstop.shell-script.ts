@@ -11,8 +11,7 @@ export const alanwaltonHealthCursorlessBackstop = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The backstop is a second reading, the drain's cursor having been wrong once already.",
+      statement: "The backstop is a second reading.",
     },
     {
       invariantKind: "departure",
