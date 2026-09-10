@@ -24,11 +24,12 @@ export const folderNaming = {
     {
       invariantKind: "departure",
       statement:
-        "The name a folder is asked for has the opening it shares with that page taken off.",
+        "The name a folder is asked for has the opening that name shares with that page taken off.",
     },
     {
       invariantKind: "departure",
-      statement: "That opening is taken off again while what is left still opens with such a name.",
+      statement:
+        "That opening is taken off again while the name left still opens with such a name.",
     },
     {
       invariantKind: "departure",

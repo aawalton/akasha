@@ -11,7 +11,8 @@ export const shapeLoading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A shape whose subject is a folder of one name publishes the names it takes.",
+      statement:
+        "A shape whose subject is a folder of one name publishes the names that shape takes.",
     },
     {
       invariantKind: "departure",
@@ -27,11 +28,15 @@ export const shapeLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape publishing a name that is no list of names publishes none.",
+      statement: "A shape publishing a name that is no list of names publishes no name.",
     },
     {
       invariantKind: "departure",
-      statement: "A decline carries a reason, so the folder matches that shape nowhere.",
+      statement: "A decline carries a reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder matches that shape nowhere.",
     },
     {
       invariantKind: "departure",

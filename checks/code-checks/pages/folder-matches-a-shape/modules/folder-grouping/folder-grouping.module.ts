@@ -54,7 +54,8 @@ export const folderGrouping = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder is such a segment only where the file that name gives sits under it.",
+      statement:
+        "A folder is such a segment only where the file that name gives sits under that folder.",
     },
     {
       invariantKind: "departure",
