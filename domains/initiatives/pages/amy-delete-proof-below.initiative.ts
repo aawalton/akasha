@@ -12,8 +12,5 @@ export const amyDeleteProofBelow = {
     {
       statement: "The Work Panel's Delete says which page still names the one it took away.",
     },
-    {
-      statement: "The Work Panel's Delete takes one intent out and leaves the rest.",
-    },
   ],
 } as const satisfies Initiative
