@@ -71,5 +71,9 @@ export const temperLibCharacterKnowledge = {
       invariantKind: "constraint",
       statement: "A console client cannot scan the item table and reads the shipped list.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "This library depends on no other add-on.",
+    },
   ],
 } as const satisfies EsoAddon
