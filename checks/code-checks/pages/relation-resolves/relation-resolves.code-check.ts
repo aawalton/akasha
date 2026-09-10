@@ -7,8 +7,6 @@ export const relationResolves = {
   slug: "relation-resolves",
   definition:
     "the check refusing a name that reaches no page, and a non-mortal page that names a mortal one",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
