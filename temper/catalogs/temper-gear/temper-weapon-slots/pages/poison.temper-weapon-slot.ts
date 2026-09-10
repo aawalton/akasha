@@ -1,4 +1,4 @@
-import type { TemperWeaponSlot } from "../temper-weapon-slot.page-type.ts"
+import type { TemperWeaponSlot } from "../temper-weapon-slot.page-type.types.ts"
 
 export const poison = {
   id: "019e4caa-ef02-779e-b5ad-800828d05231",

@@ -1,4 +1,4 @@
-import type { TemperWeaponSlot } from "../temper-weapon-slot.page-type.ts"
+import type { TemperWeaponSlot } from "../temper-weapon-slot.page-type.types.ts"
 
 export const mainHand = {
   id: "019e4caa-eefe-736a-951c-8396a8dcc8d4",
