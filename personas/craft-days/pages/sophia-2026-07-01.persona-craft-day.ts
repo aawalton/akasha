@@ -1,4 +1,4 @@
-import type { PersonaCraftDay } from "../persona-craft-day.page-type.ts"
+import type { PersonaCraftDay } from "../persona-craft-day.page-type.types.ts"
 
 export const sophia20260701 = {
   id: "019f1da4-5b0d-710f-93fa-eb1b4501b5ba",

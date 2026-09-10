@@ -1,28 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Date as TrackedDate } from "../../alan/track/daily/days/properties/date.text-property.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Icon } from "../../temper/things/properties/icon.text-property.ts"
-import type { ValueSlug } from "../properties/value-slug.text-property.ts"
-import type { AdvanceCount } from "./properties/advance-count.number-property.ts"
-import type { CraftDayPersona } from "./properties/craft-day-persona.relation-property.ts"
-import type { GreenDay } from "./properties/green-day.number-property.ts"
-import type { ImprovementCount } from "./properties/improvement-count.number-property.ts"
-import type { NewPersonaCount } from "./properties/new-persona-count.number-property.ts"
-import type { PersonasCrafted } from "./properties/personas-crafted.relation-property.ts"
-
-export type PersonaCraftDay = Page & {
-  title: Title
-  persona: CraftDayPersona
-  date: TrackedDate
-  valueSlug: ValueSlug
-  icon?: Icon
-  personasCrafted?: PersonasCrafted
-  newPersonaCount?: NewPersonaCount
-  improvementCount?: ImprovementCount
-  advanceCount?: AdvanceCount
-  greenDay?: GreenDay
-}
 
 export const personaCraftDay = {
   id: "01a0655b-4a9b-700e-86cf-9bc6a7104f89",
@@ -71,4 +47,5 @@ export const personaCraftDay = {
       statement: "A craft day is slugged by the crafter and then the day.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

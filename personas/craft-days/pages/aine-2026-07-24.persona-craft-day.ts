@@ -1,4 +1,4 @@
-import type { PersonaCraftDay } from "../persona-craft-day.page-type.ts"
+import type { PersonaCraftDay } from "../persona-craft-day.page-type.types.ts"
 
 export const aine20260724 = {
   id: "019f94a2-4c88-7c4f-8a36-91be4c9f16bc",
