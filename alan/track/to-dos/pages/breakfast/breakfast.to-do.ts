@@ -7,10 +7,10 @@ export const breakfast = {
   slug: "breakfast",
   title: "Breakfast",
   toDoCategory: "health",
-  toDoDueDate: "2026-09-10",
+  toDoDueDate: "2026-09-11",
   toDoPriority: "p2",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 40,
   toDoValue: "health",
-  toDoLastCompletedAt: "2026-09-07T12:08:43.133Z",
+  toDoLastCompletedAt: "2026-09-10T20:53:39.597Z",
 } as const satisfies ToDo
