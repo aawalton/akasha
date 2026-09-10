@@ -8,6 +8,7 @@ import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { z } from "zod"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
@@ -134,10 +135,6 @@ function listIn(held: Value | null, key: string): readonly string[] {
   const said = held?.[key]
   if (!Array.isArray(said)) return []
   return said.filter((one): one is string => typeof one === "string")
-}
-
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function byName(one: string, two: string): number {
@@ -273,11 +270,11 @@ function credentialAt(
     try {
       secrets = secretsRead(root, page)
     } catch (thrown) {
-      return { kind: "absent", why: sayOf(thrown) }
+      return { kind: "absent", why: saidBy(thrown) }
     }
     return credentialFrom(slug, valueAt(page, root), uncommittedIn(root, page), secrets)
   } catch (thrown) {
-    return { kind: "absent", why: `\`${slug}\` could not be read off its page: ${sayOf(thrown)}` }
+    return { kind: "absent", why: `\`${slug}\` could not be read off its page: ${saidBy(thrown)}` }
   }
 }
 

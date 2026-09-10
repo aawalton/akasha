@@ -10,6 +10,7 @@ import {
   mergeUncommitted,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { z } from "zod"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   backoffExpiryMs,
   USAGE_RESPONSE_SCHEMA,
@@ -81,10 +82,6 @@ export type UsageWindow = {
 export type Usage = {
   readonly fiveHour: UsageWindow
   readonly sevenDay: UsageWindow
-}
-
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function listed(keys: readonly string[]): string {
@@ -218,7 +215,7 @@ export function heldBesideIn(root: string, page: string, values: Marks): string 
     if (Object.keys(held).length > 0) mergeUncommitted(root, page, held)
     if (dropping.length > 0) dropUncommitted(root, page, dropping)
   } catch (thrown) {
-    return sayOf(thrown)
+    return saidBy(thrown)
   }
   return null
 }
@@ -257,7 +254,7 @@ export function markedIn(
     return {
       kind: "refused",
       slug,
-      why: `the mark threw, which it is written never to do: ${sayOf(thrown)}`,
+      why: `the mark threw, which it is written never to do: ${saidBy(thrown)}`,
     }
   }
 }

@@ -3,6 +3,7 @@ import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.cod
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   markedOn,
   type UsageRead,
@@ -85,10 +86,6 @@ export type Doors = {
   readonly slept: (ms: number) => Promise<undefined>
   readonly said: (line: string) => undefined
   readonly warned: (line: string) => undefined
-}
-
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function windowInactive(resetsAt: string | null, now: number): boolean {
@@ -180,7 +177,7 @@ async function usageReadFor(doors: Doors, accessToken: string): Promise<Usage> {
     throw new Error(`the usage endpoint answered ${read.status}`)
   }
   if (read.kind === "threw") {
-    throw new Error(`the usage endpoint could not be reached: ${sayOf(read.error)}`)
+    throw new Error(`the usage endpoint could not be reached: ${saidBy(read.error)}`)
   }
   const usage = usageFrom(read.body)
   if (usage === null) {
@@ -284,7 +281,7 @@ export async function upkeepPassFor(args: {
       slept: doors.slept,
     })
   } catch (thrown) {
-    doors.warned(`${logPrefix} ${slug}: its usage was not read: ${sayOf(thrown)}`)
+    doors.warned(`${logPrefix} ${slug}: its usage was not read: ${saidBy(thrown)}`)
     return
   }
 
@@ -307,7 +304,7 @@ export async function upkeepPassFor(args: {
         doors.warned(`${logPrefix} ${slug}: its window trigger was answered ${ping.status}`)
       }
     } catch (thrown) {
-      doors.warned(`${logPrefix} ${slug}: its window was not triggered: ${sayOf(thrown)}`)
+      doors.warned(`${logPrefix} ${slug}: its window was not triggered: ${saidBy(thrown)}`)
     }
     markedOn(root, doors, slug, windowTriggerMarks(doors.now()), logPrefix)
   }

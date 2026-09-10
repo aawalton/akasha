@@ -1,4 +1,5 @@
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   UPKEEP_PERIOD_MS,
   UPKEEP_RENEWAL_MARGIN_MS,
@@ -55,10 +56,6 @@ export type UpkeepStall = {
 
 function hoursOf(ms: number): string {
   return `${(ms / MS_AN_HOUR).toFixed(HOUR_DECIMALS)}h`
-}
-
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 type Stamp = { readonly at: number } | { readonly absent: true } | { readonly why: string }
@@ -181,7 +178,7 @@ export function readingsIn(root: string): readonly AccountReading[] {
       return {
         slug: one.slug,
         beside: null,
-        why: `what sits beside \`${one.slug}\` would not read: ${sayOf(thrown)}`,
+        why: `what sits beside \`${one.slug}\` would not read: ${saidBy(thrown)}`,
       }
     }
   })

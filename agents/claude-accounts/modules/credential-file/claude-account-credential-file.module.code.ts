@@ -4,6 +4,7 @@ import type { PageOf } from "akasha/pages/indexes/answering/index-answering.modu
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { z } from "zod"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { credentialOf } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { OAuthCredential } from "../../../models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
@@ -57,10 +58,6 @@ export type FileCredential = {
   readonly accessToken: string
   readonly scopes: readonly string[]
   readonly expiresAt: number
-}
-
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 function credentialPathIn(dir: string): string {
@@ -200,7 +197,7 @@ export function fileRefreshedFrom(args: {
     )
     return { refreshed: true, terminal: false }
   } catch (thrown) {
-    doors.warned(`${logPrefix} Credential refresh error for ${slug}: ${sayOf(thrown)}`)
+    doors.warned(`${logPrefix} Credential refresh error for ${slug}: ${saidBy(thrown)}`)
     throw thrown
   }
 }
@@ -385,7 +382,7 @@ export function fileWatched(args: {
           await filePushedTo({ root, slug: one, dir: where, doors, reading, pageOf, logPrefix })
           args.onPushResult?.({ ok: true })
         } catch (thrown) {
-          doors.warned(`${logPrefix} Credential watch push failed: ${sayOf(thrown)}`)
+          doors.warned(`${logPrefix} Credential watch push failed: ${saidBy(thrown)}`)
           args.onPushResult?.({ ok: false, error: thrown })
         }
       }

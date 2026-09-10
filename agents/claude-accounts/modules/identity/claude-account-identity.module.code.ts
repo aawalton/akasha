@@ -1,6 +1,7 @@
 import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { removeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   DOORS as PUSH_DOORS,
   type Doors as PushDoors,
@@ -52,10 +53,6 @@ export type IdentityPush =
   | { readonly kind: "refuse"; readonly reason: string }
 
 export type PinStage = "clear" | "credential" | "pin"
-
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
 
 function summarized(body: string): string {
   const collapsed = body.replace(WHITESPACE, ONE_SPACE).trim()
@@ -223,7 +220,9 @@ export async function pinnedIn(
       try {
         removeUncommitted(root, page)
       } catch (thrown) {
-        return refused(`the volatile numbers beside ${page} could not be dropped: ${sayOf(thrown)}`)
+        return refused(
+          `the volatile numbers beside ${page} could not be dropped: ${saidBy(thrown)}`
+        )
       }
     }
 
@@ -253,6 +252,6 @@ export async function pinnedIn(
 
     return { kind: "pinned", slug, accountUuid: given.accountUuid, credential: pushed.kind }
   } catch (thrown) {
-    return refused(`the identity pin threw, which it is written never to do: ${sayOf(thrown)}`)
+    return refused(`the identity pin threw, which it is written never to do: ${saidBy(thrown)}`)
   }
 }

@@ -1,6 +1,7 @@
 import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { credentialOf } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
   DOORS as PUSH_DOORS,
@@ -47,10 +48,6 @@ export const DOORS: Doors = {
   warned: (line) => {
     console.error(line)
   },
-}
-
-function sayOf(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
 export async function renewedIn(args: {
@@ -151,7 +148,7 @@ export async function renewedIn(args: {
       },
     }
   } catch (thrown) {
-    doors.warned(`${logPrefix} OAuth refresh error for ${slug}: ${sayOf(thrown)}`)
+    doors.warned(`${logPrefix} OAuth refresh error for ${slug}: ${saidBy(thrown)}`)
     return { ok: false, terminal: false, reason: "exception", error: thrown }
   }
 }
