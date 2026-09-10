@@ -3,7 +3,7 @@ import { shadowAt } from "@akasha/pages/shadow"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { noRefusedSyntax } from "./no-refused-syntax.code-check.code.ts"
+import { noRefusedSyntax } from "./no-refused-syntax.code-check.check.code.ts"
 import {
   JUDGED_AT,
   ruled,
