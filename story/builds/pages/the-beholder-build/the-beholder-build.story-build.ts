@@ -1,4 +1,4 @@
-import type { StoryBuild } from "../../story-build.page-type.ts"
+import type { StoryBuild } from "../../story-build.page-type.types.ts"
 
 export const theBeholderBuild = {
   id: "01a0657d-bb96-7523-bb95-78170e8e6bd6",

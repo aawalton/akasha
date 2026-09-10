@@ -1,22 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { World } from "../stories-played/properties/world.relation-property.ts"
-import type { ChapterNumber } from "../wiki-entries/properties/chapter-number.number-property.ts"
-import type { BuildLevel } from "./properties/build-level.number-property.ts"
-import type { ClassName } from "./properties/class-name.text-property.ts"
-import type { GameSystem } from "./properties/game-system.text-property.ts"
-
-export type StoryBuild = Page & {
-  title: Title
-  world?: World
-  chapterNumber?: ChapterNumber
-  level?: BuildLevel
-  className?: ClassName
-  gameSystem?: GameSystem
-  prose?: Prose
-}
 
 export const storyBuild = {
   id: "01a06578-d638-74fa-9fea-d5dfb9cf10ec",
@@ -51,4 +33,5 @@ export const storyBuild = {
       statement: "The words a build carries are the story's rather than akasha's own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
