@@ -1,16 +1,17 @@
 import { mailbox } from "akasha/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { recordToAgent } from "akasha/seat-system/agent-record/agent-record.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,
 } from "../../../../services/workstation-services/tick-sleeping/tick-sleeping.module.code.ts"
 import { markTold, oneRun, untoldClaims } from "../inbox-run/inbox-run.module.code.ts"
 
-const PERSON = process.env.EMAIL_WORKER_PERSON ?? "alan"
-const HANDLER = process.env.EMAIL_WORKER_HANDLER ?? PERSON
-const EVERY_MS = Number(process.env.EMAIL_WORKER_INTERVAL_MS ?? 60_000)
-const SENDER = process.env.EMAIL_WORKER_SENDER ?? "email-worker"
+const PERSON = optionalEnv("EMAIL_WORKER_PERSON") ?? "alan"
+const HANDLER = optionalEnv("EMAIL_WORKER_HANDLER") ?? PERSON
+const EVERY_MS = Number(optionalEnv("EMAIL_WORKER_INTERVAL_MS") ?? 60_000)
+const SENDER = optionalEnv("EMAIL_WORKER_SENDER") ?? "email-worker"
 const ROOT = akashaRoot()
 
 function log(line: string): undefined {
