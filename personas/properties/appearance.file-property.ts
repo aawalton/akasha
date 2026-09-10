@@ -1,4 +1,4 @@
-import type { FileProperty } from "@akasha/pages/file-property"
+import type { FileProperty } from "akasha/pages/file-properties/file-property.page-type.types.ts"
 
 export type Appearance = "md"
 

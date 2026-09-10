@@ -1,16 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { FileName } from "./properties/file-name.text-property.ts"
-import type { Generated } from "./properties/generated.boolean-property.ts"
-import type { HoldsBytes } from "./properties/holds-bytes.boolean-property.ts"
-import type { RunsFileLength } from "./properties/runs-file-length.boolean-property.ts"
-
-export type FileProperty = PageProperty & {
-  fileName?: FileName
-  generated?: Generated
-  runsFileLength?: RunsFileLength
-  holdsBytes?: HoldsBytes
-}
 
 export const fileProperty = {
   id: "01a04dff-9d7d-7487-9a08-2485e897542f",
@@ -50,4 +38,5 @@ export const fileProperty = {
       statement: "No gate reading a page as prose reaches a file property's value.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
