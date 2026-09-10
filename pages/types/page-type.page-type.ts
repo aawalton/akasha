@@ -121,6 +121,11 @@ export const pageType = {
       statement:
         "A declaration beside that type is a calculation rather than the page's own shape.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages of a page type are reached by that page type rather than by the folder those pages sit in.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
