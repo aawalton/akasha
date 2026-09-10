@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const objectStore = {
   id: "01a05cbb-139c-75e2-a97e-d9467fae14ce",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "object-store",
   definition: "bytes kept under a key in a SeaweedFS bucket",
-  manifest: "json",
+
   parts: [
     "module/object-store-key",
     "module/s3-multipart",
@@ -36,4 +36,4 @@ export const objectStore = {
       statement: "No age rule reaches the copy of bytes that cannot be remade.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

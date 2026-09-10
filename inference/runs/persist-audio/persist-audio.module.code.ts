@@ -1,7 +1,7 @@
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { audioObjectKey } from "@akasha/object-store/object-store-key"
-import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import { audioObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
+import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { landRow } from "../generation-log/generation-log.module.code.ts"
 import {
   persistInferenceMedia,

@@ -1,6 +1,6 @@
-import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { getUser } from "@akasha/supabase-rr/auth-server"
+import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import {
   resolveServableImage,
   serveResolvedImage,

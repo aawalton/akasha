@@ -12,7 +12,7 @@ export const storage = {
     "domain/git-repos",
     "domain/container-registry",
     "domain/database",
-    "workspace-package/object-store",
+    "domain/object-store",
   ],
   invariants: [
     {

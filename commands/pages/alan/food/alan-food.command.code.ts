@@ -1,6 +1,4 @@
 import { readFile } from "node:fs/promises"
-import { imageObjectKey } from "@akasha/object-store/object-store-key"
-import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { resolveRoots } from "@akasha/pages/checkout-roots"
 import { STEM_CEILING } from "@akasha/pages/naming/named-for/page-stem"
 import type { Value } from "@akasha/pages/page-value"
@@ -9,6 +7,11 @@ import { composedFor } from "@akasha/pages-service/composing"
 import { getMountainMorningDayStr } from "akasha/alan/harness/day/mountain-day/mountain-day.module.code.ts"
 import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { pad2 } from "akasha/alan/harness/day/string/day-string.module.code.ts"
+import { imageObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
+import {
+  type ObjectStore,
+  seaweedFSObjectStoreFromEnv,
+} from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { rootOf, written } from "../../../../alan/track/daily/akasha-day/akasha-day.module.code.ts"
 import { openedDayOf } from "../../../../alan/track/daily/day-opening/day-opening.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"

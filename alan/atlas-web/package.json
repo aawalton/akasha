@@ -29,7 +29,6 @@
     "@protomaps/basemaps": "^5.7.2",
     "@akasha/design-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/object-store": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",

@@ -1,10 +1,10 @@
+import { DEFAULT_VOICE_INFER_URL } from "akasha/alan/harness/voice-core/infer-endpoint/infer-endpoint.module.code.ts"
 import {
   type HlsKeyOpts,
   hlsPlaylistObjectKey,
   hlsSegmentPrefix,
-} from "@akasha/object-store/object-store-key"
-import type { ObjectStore } from "@akasha/object-store/seaweedfs-store"
-import { DEFAULT_VOICE_INFER_URL } from "akasha/alan/harness/voice-core/infer-endpoint/infer-endpoint.module.code.ts"
+} from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
+import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { z } from "zod"
 import { readAloudKey } from "../read-aloud-persist/read-aloud-persist.module.code.ts"
 

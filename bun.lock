@@ -12,7 +12,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -85,7 +84,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/object-store": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
@@ -163,7 +161,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -425,13 +422,6 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/storage/object-store": {
-      "name": "@akasha/object-store",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "language-design/lua-compiler": {
       "name": "@akasha/lua-compiler",
       "dependencies": {
@@ -498,7 +488,6 @@
       "name": "@akasha/pages-ui",
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
-        "@akasha/object-store": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
@@ -944,8 +933,6 @@
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
-
-    "@akasha/object-store": ["@akasha/object-store@workspace:infrastructure/storage/object-store"],
 
     "@akasha/pages": ["@akasha/pages@workspace:pages"],
 

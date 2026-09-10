@@ -1,5 +1,3 @@
-import { hlsPlaylistObjectKey } from "@akasha/object-store/object-store-key"
-import type { ObjectStore } from "@akasha/object-store/seaweedfs-store"
 import { getPage } from "@akasha/pages-access/get"
 import { getMediaConfig } from "@akasha/pages-access/page-type-config"
 import {
@@ -7,6 +5,8 @@ import {
   estimateChapterSentenceMarksFromN,
 } from "akasha/alan/harness/voice-core/estimate-marks/estimate-marks.module.code.ts"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
+import { hlsPlaylistObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
+import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { parseHlsExtinf } from "../hls-extinf/hls-extinf.module.code.ts"
 
 async function readReadAloudPlaylist(

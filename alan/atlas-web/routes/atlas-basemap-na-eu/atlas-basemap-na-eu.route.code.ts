@@ -1,4 +1,4 @@
-import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
+import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import {
   checkBasemapRange,
   MAX_RANGE_BYTES,

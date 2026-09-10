@@ -1,10 +1,10 @@
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { makeSeaweedFSObjectStore } from "@akasha/object-store/seaweedfs-store"
 import {
   createJob,
   readJobPodLogs,
   waitForJob,
 } from "akasha/infrastructure/cluster/api/cluster-jobs/cluster-jobs.module.code.ts"
+import { makeSeaweedFSObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { z } from "zod"
 import {
   buildUpscaleServingJob,

@@ -1,6 +1,6 @@
-import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
+import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import { resolveMediaPage } from "../../media-page/media-page.module.code.ts"
 import { resolveFromNSentenceMarks } from "../../read-aloud-marks/read-aloud-marks.module.code.ts"
 
