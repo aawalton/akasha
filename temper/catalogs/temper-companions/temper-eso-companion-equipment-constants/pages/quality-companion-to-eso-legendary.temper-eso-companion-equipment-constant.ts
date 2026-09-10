@@ -1,4 +1,4 @@
-import type { TemperEsoCompanionEquipmentConstant } from "../temper-eso-companion-equipment-constant.page-type.ts"
+import type { TemperEsoCompanionEquipmentConstant } from "../temper-eso-companion-equipment-constant.page-type.types.ts"
 
 export const qualityCompanionToEsoLegendary = {
   id: "01a05fcf-5925-73ab-a955-173df9e0d6e0",

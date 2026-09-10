@@ -1,4 +1,4 @@
-import type { TemperEsoCompanionEquipmentConstant } from "../temper-eso-companion-equipment-constant.page-type.ts"
+import type { TemperEsoCompanionEquipmentConstant } from "../temper-eso-companion-equipment-constant.page-type.types.ts"
 
 export const equipTypeEquipTypeTwoHand = {
   id: "01a05fcf-5924-75dd-b167-288daec1dae4",

@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { ConstantKind } from "../temper-companion-things/properties/constant-kind.text-property.ts"
-import type { KeyText } from "../temper-companion-things/properties/key-text.text-property.ts"
-import type { ValueNum } from "../temper-companion-things/properties/value-num.number-property.ts"
-import type { ValueText } from "../temper-companion-things/properties/value-text.text-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-
-export type TemperEsoCompanionEquipmentConstant = TemperCompanionThing & {
-  kind: ConstantKind
-  keyText: KeyText
-  valueNum?: ValueNum
-  valueText?: ValueText
-}
 
 export const temperEsoCompanionEquipmentConstant = {
   id: "01a05fcf-2469-71b2-b9b1-9c8803c95d71",
@@ -34,4 +22,5 @@ export const temperEsoCompanionEquipmentConstant = {
     { pageProperty: "text-property/value-text", required: false, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
