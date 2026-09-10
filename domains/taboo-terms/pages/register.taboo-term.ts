@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const register = {
   id: "01a0593e-da38-790c-98a2-8397d5045c9d",

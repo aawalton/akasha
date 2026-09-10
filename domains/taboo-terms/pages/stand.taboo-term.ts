@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const stand = {
   id: "01a05cfe-1cad-7674-ab61-e3865ae14bae",

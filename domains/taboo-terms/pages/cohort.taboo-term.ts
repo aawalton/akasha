@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const cohort = {
   id: "01a0593e-da21-72ed-985b-e5a9ece68f89",

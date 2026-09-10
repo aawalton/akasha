@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const falsified = {
   id: "01a0593e-da2a-7f4f-9150-3a203377fc97",

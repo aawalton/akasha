@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const corpus = {
   id: "01a0593e-da23-7013-9d2c-4b84b9e42d34",

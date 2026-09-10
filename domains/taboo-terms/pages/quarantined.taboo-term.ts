@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const quarantined = {
   id: "01a0593e-da37-7791-aeca-8c7edc8efebe",

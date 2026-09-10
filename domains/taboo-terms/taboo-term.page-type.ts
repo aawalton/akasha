@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { KeptSenses } from "./properties/kept-senses.text-property.ts"
-import type { Pattern } from "./properties/pattern.text-property.ts"
-import type { TabooSenses } from "./properties/taboo-senses.record-property.ts"
-
-export type TabooTerm = Page & {
-  pattern: Pattern
-  tabooSenses: TabooSenses
-  keptSenses?: KeptSenses
-}
 
 export const tabooTerm = {
   id: "01a0592c-2737-7057-aa66-a46141334052",
@@ -72,4 +62,5 @@ export const tabooTerm = {
       statement: "A term reaches inside a camelCase name.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

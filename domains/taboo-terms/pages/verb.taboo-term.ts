@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const verb = {
   id: "01a0593e-da42-7dfa-8095-c94687e5ffae",

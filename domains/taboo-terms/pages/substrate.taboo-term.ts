@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const substrate = {
   id: "01a0593e-da3e-74e4-82a0-944a3ab38b57",

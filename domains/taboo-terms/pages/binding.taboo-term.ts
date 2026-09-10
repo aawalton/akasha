@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const binding = {
   id: "01a0593e-da1f-7abd-a0cb-9470f811831b",

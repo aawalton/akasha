@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const surface = {
   id: "01a0593e-da3f-7c82-a364-c0a83f8171ff",

@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const schema = {
   id: "01a0593e-da3b-78e0-ac32-b8866f1f8ed9",

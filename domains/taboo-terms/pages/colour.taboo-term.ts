@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const colour = {
   id: "01a0593e-da22-7d97-b8b0-c56d8dd46dfb",

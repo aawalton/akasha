@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const wake = {
   id: "01a0593e-da43-7af8-992a-9a0a58be265f",

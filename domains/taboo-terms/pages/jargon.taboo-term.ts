@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const jargon = {
   id: "01a0593e-da2f-7b45-b160-1e386ab1b28a",

@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const dormant = {
   id: "01a0593e-da27-7ae9-8964-6de3e8fa78e8",

@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const perimeter = {
   id: "01a0593e-da34-70f8-8e53-400e096ee007",

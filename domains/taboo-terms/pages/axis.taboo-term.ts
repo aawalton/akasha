@@ -1,4 +1,4 @@
-import type { TabooTerm } from "../taboo-term.page-type.ts"
+import type { TabooTerm } from "../taboo-term.page-type.types.ts"
 
 export const axis = {
   id: "01a0593e-da1e-715f-8dc8-14c2e569cebc",
