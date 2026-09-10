@@ -1,5 +1,7 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/config-checksum/config-checksum.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
 import { LOKI_CONFIG } from "../loki-configs/loki-configs.module.code.ts"
 import {
   LOKI_LABELS,
@@ -8,6 +10,12 @@ import {
   NAMESPACE_LABELS,
   S3_SECRET_NAME,
 } from "../loki-constants/loki-constants.module.code.ts"
+
+const CONFIG_DATA = {
+  "loki.yaml": LOKI_CONFIG,
+} as const
+
+const S3_SECRET_KEYS = ["access_key", "secret_key"]
 
 export function namespaceYaml(): string {
   return synthOne(NAMESPACE, "namespace", {
@@ -29,9 +37,7 @@ export function configmapYaml(): string {
       namespace: NAMESPACE,
       labels: LOKI_LABELS,
     },
-    data: {
-      "loki.yaml": LOKI_CONFIG,
-    },
+    data: CONFIG_DATA,
   })
 }
 
@@ -51,8 +57,8 @@ export function deploymentYaml(): string {
       template: {
         metadata: {
           annotations: {
-            "checksum/config": "placeholder",
-            "checksum/s3-creds": "placeholder",
+            "checksum/config": configChecksum(CONFIG_DATA),
+            "checksum/s3-creds": secretChecksum(NAMESPACE, S3_SECRET_NAME, S3_SECRET_KEYS),
           },
           labels: LOKI_LABELS,
         },

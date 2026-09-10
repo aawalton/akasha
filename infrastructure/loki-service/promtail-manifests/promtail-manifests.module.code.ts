@@ -2,12 +2,17 @@ import {
   synthMulti,
   synthOne,
 } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/config-checksum/config-checksum.module.code.ts"
 import { PROMTAIL_CONFIG } from "../loki-configs/loki-configs.module.code.ts"
 import {
   NAMESPACE,
   PROMTAIL_LABELS,
   PROMTAIL_SELECTOR_LABELS,
 } from "../loki-constants/loki-constants.module.code.ts"
+
+const CONFIG_DATA = {
+  "promtail.yaml": PROMTAIL_CONFIG,
+} as const
 
 export function promtailConfigmapYaml(): string {
   return synthOne(NAMESPACE, "promtail-configmap", {
@@ -18,9 +23,7 @@ export function promtailConfigmapYaml(): string {
       namespace: NAMESPACE,
       labels: PROMTAIL_LABELS,
     },
-    data: {
-      "promtail.yaml": PROMTAIL_CONFIG,
-    },
+    data: CONFIG_DATA,
   })
 }
 
@@ -96,7 +99,7 @@ export function promtailDaemonsetYaml(): string {
       template: {
         metadata: {
           labels: PROMTAIL_LABELS,
-          annotations: { "checksum/config": "placeholder" },
+          annotations: { "checksum/config": configChecksum(CONFIG_DATA) },
         },
         spec: {
           serviceAccountName: "promtail",
