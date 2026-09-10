@@ -108,7 +108,8 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is judged by the bytes read back rather than by what the run exited with.",
+      statement:
+        "A body is judged by the bytes read back rather than by the code the run exited with.",
     },
     {
       invariantKind: "departure",
@@ -120,11 +121,12 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "A run over many rewrites a body no run over one would touch.",
+      statement: "A run over many bodies rewrites a body no run over a single body would touch.",
     },
     {
       invariantKind: "departure",
-      statement: "The formatter's own config is one of those bodies, whatever kind its name says.",
+      statement:
+        "The formatter's own config goes in with those bodies whatever kind its name says.",
     },
     {
       invariantKind: "departure",
@@ -136,7 +138,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "A path reaching outside the repository is formatted by no run over many.",
+      statement: "A path reaching outside the repository is formatted by no run over many bodies.",
     },
     {
       invariantKind: "departure",
@@ -176,7 +178,8 @@ export const codeFormat = {
     },
     {
       invariantKind: "absence",
-      statement: "A caller hands in bodies by path and nothing about where they are formatted.",
+      statement:
+        "A caller hands in bodies by path and nothing about where those bodies are formatted.",
     },
   ],
 } as const satisfies Module
