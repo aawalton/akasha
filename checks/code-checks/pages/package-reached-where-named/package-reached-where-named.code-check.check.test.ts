@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { shadowAt } from "@akasha/pages/shadow"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { packageReachedWhereNamed } from "./package-reached-where-named.code-check.code.ts"
+import { packageReachedWhereNamed } from "./package-reached-where-named.code-check.check.code.ts"
 import {
   HIDDEN_REACH,
   NAMED_REACH,
