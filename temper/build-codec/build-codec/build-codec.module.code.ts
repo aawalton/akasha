@@ -10,9 +10,6 @@ import {
   decodeV48,
   ESO_VERSION_48,
 } from "../build-codec-v48/build-codec-v48.module.code.ts"
-import { decodeV49, ESO_VERSION_49 } from "../build-codec-v49/build-codec-v49.module.code.ts"
-import { decodeV50, ESO_VERSION_50 } from "../build-codec-v50/build-codec-v50.module.code.ts"
-import { decodeV51, ESO_VERSION_51 } from "../build-codec-v51/build-codec-v51.module.code.ts"
 import {
   decodeV52,
   ESO_VERSION_52,
@@ -42,15 +39,6 @@ export function decodeBuild(encoded: BuildHash): CharacterState | null {
   switch (version) {
     case ESO_VERSION_48:
       build = decodeV48(bytes)
-      break
-    case ESO_VERSION_49:
-      build = decodeV49(bytes)
-      break
-    case ESO_VERSION_50:
-      build = decodeV50(bytes)
-      break
-    case ESO_VERSION_51:
-      build = decodeV51(bytes)
       break
     case ESO_VERSION_52:
       build = decodeV52(bytes)
