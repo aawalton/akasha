@@ -18,7 +18,11 @@ export const smilingjennyUpkeepStoplightsWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "The color is read off the feed rather than worked out on the phone.",
+      statement: "The color of a reading that is not falling is read off the feed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The color of a falling reading is read off the figure this tile draws.",
     },
     {
       invariantKind: "departure",

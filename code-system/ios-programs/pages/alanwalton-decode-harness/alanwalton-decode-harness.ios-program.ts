@@ -24,6 +24,7 @@ export const alanwaltonDecodeHarness = {
     "ios-component/falling-checks",
     "ios-component/ring",
     "ios-component/safety-ring",
+    "ios-component/scale-checks",
     "ios-component/spacing",
     "ios-component/surplus-ring",
     "ios-component/tier",

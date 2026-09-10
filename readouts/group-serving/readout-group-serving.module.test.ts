@@ -391,11 +391,23 @@ test("a stoplight whose reading falls with the clock carries the moment and the 
   expect(one?.fallsPastAt).toBe(new Date(took.getTime() + 900_000).toISOString())
 })
 
+test("a falling stoplight carries the rungs of the scale it was colored with", async () => {
+  const one = await oneDrawn(2.5, new Date(), 2)
+  expect(one?.rungs).toEqual([
+    { at: 0, color: "black" },
+    { at: 1, color: "red" },
+    { at: 2, color: "yellow" },
+    { at: 3, color: "green" },
+    { at: 4, color: "blue" },
+  ])
+})
+
 test("a stoplight whose reading falls at nothing an hour carries neither", async () => {
   relayedFor(READOUT, 2.5, new Date(), 0)
   const keys = await keysAnswered()
   expect(keys).not.toContain("takenAt")
   expect(keys).not.toContain("fallsPerHour")
+  expect(keys).not.toContain("rungs")
 })
 
 test("a stoplight carrying no figure carries no moment and no rate", async () => {

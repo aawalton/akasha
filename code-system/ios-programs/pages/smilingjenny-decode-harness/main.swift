@@ -322,6 +322,8 @@ func fallingUpkeep(_ extra: String) -> HabitStoplight? {
     decodeUpkeep(FallingChecks.body("9.5", extra))?.stoplights.first
 }
 
+for (name, held, saw) in ScaleChecks.run() { check(name, held, saw) }
+
 for (name, held, saw) in FallingChecks.run() { check(name, held, saw) }
 
 check(

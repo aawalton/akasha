@@ -46,15 +46,37 @@ enum FallingReading {
         return String(format: "%.\(places)f", floored == 0 ? 0 : floored)
     }
 
+    // THE FIGURE AND THE COLOR ARE READ OFF THIS ONE NUMBER, SO THE TWO NEVER DISAGREE.
+    //
+    // Nothing is answered for a reading that is not falling, or one no number can be read
+    // from. Both callers then keep what the feed sent, which is right at that same moment.
+    static func falling(
+        reading: String?, takenAt: String?, fallsPerHour: Double?, now: Date
+    ) -> Double? {
+        guard let reading, let value = Double(reading) else { return nil }
+        guard let takenAt, let fallsPerHour, fallsPerHour != 0 else { return nil }
+        guard let hours = hoursSince(takenAt, now) else { return nil }
+        return value - hours * fallsPerHour
+    }
+
     static func figure(
         reading: String?, takenAt: String?, fallsPerHour: Double?, now: Date
     ) -> String? {
         guard let reading else { return nil }
-        guard let takenAt, let fallsPerHour, fallsPerHour != 0 else { return reading }
-        guard let value = Double(reading), let hours = hoursSince(takenAt, now) else {
-            return reading
-        }
-        return said(value - hours * fallsPerHour)
+        let shown = falling(
+            reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, now: now)
+        guard let shown else { return reading }
+        return said(shown)
+    }
+
+    static func tiered(
+        reading: String?, takenAt: String?, fallsPerHour: Double?, rungs: [Rung]?, now: Date
+    ) -> Tiered? {
+        guard let rungs, !rungs.isEmpty else { return nil }
+        let shown = falling(
+            reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, now: now)
+        guard let shown else { return nil }
+        return ReadingScale.tierAt(shown, rungs)
     }
 }
 

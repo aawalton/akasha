@@ -41,8 +41,20 @@ export const surplusRing = {
       statement: "A subtracted reading is drawn below zero rather than held at zero.",
     },
     {
+      invariantKind: "departure",
+      statement: "The color a subtracted reading reaches is worked out off that same number.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading that is not falling is left the color and the figure the feed sent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading sent with no rungs keeps the color the feed sent.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here works out the color a subtracted reading reaches.",
+      statement: "Nothing here says which rungs a scale has, the feed sending the ones it used.",
     },
   ],
 } as const satisfies IosComponent

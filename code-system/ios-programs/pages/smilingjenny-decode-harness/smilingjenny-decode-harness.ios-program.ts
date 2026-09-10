@@ -13,6 +13,7 @@ export const smilingjennyDecodeHarness = {
     "ios-component/falling-checks",
     "ios-component/ring",
     "ios-component/safety-ring",
+    "ios-component/scale-checks",
     "ios-component/smilingjenny-categorize-view",
     "ios-component/smilingjenny-safety-level-widget",
     "ios-component/smilingjenny-surplus-widget",

@@ -41,12 +41,13 @@ struct SurplusHomeView: View {
     private var surplus: HabitStoplight? { surplusReading(entry.state) }
 
     private var ring: some View {
-        SurplusRing(
-            tier: surplus?.tier,
+        let shown = surplus?.shownTiered(asOf: entry.date)
+        return SurplusRing(
+            tier: shown?.tier,
             reading: surplus?.figure(asOf: entry.date),
             caption: surplusCaption(entry.state),
-            nextTier: surplus?.nextTier,
-            progress: surplus?.progress
+            nextTier: shown?.nextTier,
+            progress: shown?.progress
         )
     }
 }

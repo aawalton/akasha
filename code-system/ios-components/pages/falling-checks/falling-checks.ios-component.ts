@@ -22,6 +22,14 @@ export const fallingChecks = {
     },
     {
       invariantKind: "departure",
+      statement: "The scales and answers the placing is held to are the server's own test's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every case the server's test states of placing a reading is stated here too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A harness keeps for itself the assertions on the stoplight struct it declares.",
     },
     {

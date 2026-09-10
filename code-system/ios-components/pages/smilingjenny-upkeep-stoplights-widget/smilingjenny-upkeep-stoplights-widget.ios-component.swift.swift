@@ -101,11 +101,12 @@ struct UpkeepHomeView: View {
         let columns = Array(repeating: GridItem(.flexible(), spacing: SPACING_2), count: 3)
         return LazyVGrid(columns: columns, spacing: SPACING_2) {
             ForEach(stoplights, id: \.self) {
+                let shown = $0.shownTiered(asOf: entry.date)
                 StoplightRing(
-                    tier: $0.tier,
+                    tier: shown.tier,
                     reading: $0.figure(asOf: entry.date),
-                    nextTier: $0.nextTier,
-                    progress: $0.progress,
+                    nextTier: shown.nextTier,
+                    progress: shown.progress,
                     label: $0.label ?? $0.habit,
                     figureOffScale: $0.figureOffScale ?? false
                 )

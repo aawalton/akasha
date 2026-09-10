@@ -172,7 +172,20 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The tier and the fraction climbed are read at the moment the reading was taken.",
+      statement: "A falling stoplight carries the rungs of its scale, so the tile can color it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stoplight that is not falling carries no rungs, its color never going stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rungs carried are the ones this answer colored with rather than a scale.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The tier answered is read at the moment taken, and a tile with the rungs reads its own.",
     },
     {
       invariantKind: "departure",

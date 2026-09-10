@@ -156,7 +156,65 @@ enum FallingChecks {
         ]
     }
 
+    // THE SURPLUS SCALE, WHICH IS THE ONE A FALLING READING IS ACTUALLY COLORED ON.
+    static let SURPLUS = [
+        Rung(at: -12, color: .black), Rung(at: -8, color: .red), Rung(at: -4, color: .yellow),
+        Rung(at: 0, color: .green), Rung(at: 4, color: .blue),
+    ]
+
+    private static func surplusRungs() -> String {
+        let entries = SURPLUS.map { #"{"at":\#($0.at),"color":"\#($0.color.rawValue)"}"# }
+        return #","rungs":[\#(entries.joined(separator: ","))]"#
+    }
+
+    static func coloring() -> [(String, Bool, String)] {
+        let carried = surplus(FALLS + surplusRungs(), "4.5")
+        let anHourOn = tookAt.addingTimeInterval(3600)
+        let longAfter = tookAt.addingTimeInterval(36000)
+        return [
+            (
+                "a stoplight carrying its rungs decodes with every one of them",
+                carried?.rungs == SURPLUS, String(describing: carried?.rungs)
+            ),
+            (
+                "a stoplight saying nothing of its rungs decodes carrying none",
+                surplus(FALLS) != nil && surplus(FALLS)?.rungs == nil, "no rungs sent"
+            ),
+            (
+                "a falling stoplight is colored at the moment taken before it has fallen",
+                carried?.shownTiered(asOf: tookAt).tier == .blue,
+                String(describing: carried?.shownTiered(asOf: tookAt))
+            ),
+            (
+                "a falling stoplight that has crossed a rung is colored on the rung it reached",
+                carried?.shownTiered(asOf: anHourOn).tier == .green,
+                String(describing: carried?.shownTiered(asOf: anHourOn))
+            ),
+            (
+                "the color and the figure are read off one number rather than two",
+                carried?.figure(asOf: anHourOn) == "3.5"
+                    && carried?.shownTiered(asOf: anHourOn).tier == .green,
+                String(describing: carried?.figure(asOf: anHourOn))
+            ),
+            (
+                "a falling stoplight carries the tier above and the fraction climbed too",
+                carried?.shownTiered(asOf: anHourOn).nextTier == .blue
+                    && carried?.shownTiered(asOf: anHourOn).progress == 0.875,
+                String(describing: carried?.shownTiered(asOf: anHourOn))
+            ),
+            (
+                "a stoplight carrying no rungs keeps the color the feed sent",
+                surplus(FALLS)?.shownTiered(asOf: longAfter).tier == .green, "the tier as sent"
+            ),
+            (
+                "a stoplight that is not falling keeps the color the feed sent",
+                surplus(RESTS + surplusRungs())?.shownTiered(asOf: longAfter).tier == .green,
+                "the tier as sent"
+            ),
+        ]
+    }
+
     static func run() -> [(String, Bool, String)] {
-        decoding() + figuring() + counting()
+        decoding() + figuring() + counting() + coloring()
     }
 }

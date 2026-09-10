@@ -43,6 +43,7 @@ export type Stoplight = {
   readonly takenAt?: string
   readonly fallsPerHour?: number
   readonly fallsPastAt?: string
+  readonly rungs?: readonly Rung[]
 }
 
 export type Values = Readonly<Record<string, unknown>>
@@ -68,13 +69,14 @@ function wireKeyed(wireKeyName: string, wireKey: string): Pick<Stoplight, "habit
 export function fallingWith(
   reading: Extract<HeldReading, { held: "fresh" }>,
   rungs: readonly Rung[]
-): Pick<Stoplight, "takenAt" | "fallsPerHour" | "fallsPastAt"> {
+): Pick<Stoplight, "takenAt" | "fallsPerHour" | "fallsPastAt" | "rungs"> {
   if (reading.fallsPerHour === 0) return {}
   const past = fallsPastAt(reading.value, reading.fallsPerHour, reading.at, rungs)
   return {
     takenAt: reading.at,
     fallsPerHour: reading.fallsPerHour,
     ...(past === null ? {} : { fallsPastAt: past }),
+    ...(rungs.length === 0 ? {} : { rungs }),
   }
 }
 

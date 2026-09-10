@@ -275,6 +275,8 @@ func fallingUpkeep(_ extra: String) -> UpkeepStoplight? {
     return (try? JSONDecoder().decode(UpkeepStoplightsResponse.self, from: body))?.stoplights.first
 }
 
+for (name, held, saw) in ScaleChecks.run() { check(name, held, saw) }
+
 for (name, held, saw) in FallingChecks.run() { check(name, held, saw) }
 
 check(

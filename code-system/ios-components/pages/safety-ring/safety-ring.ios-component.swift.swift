@@ -12,6 +12,7 @@ struct HabitStoplight: Decodable, Hashable {
     var takenAt: String? = nil
     var fallsPerHour: Double? = nil
     var fallsPastAt: String? = nil
+    var rungs: [Rung]? = nil
 }
 
 extension HabitStoplight {
@@ -19,6 +20,13 @@ extension HabitStoplight {
         FallingReading.figure(
             reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, now: now
         )
+    }
+
+    // A STOPLIGHT THAT IS NOT FALLING KEEPS THE COLOR THE FEED SENT, WHICH IS STILL RIGHT.
+    func shownTiered(asOf now: Date) -> Tiered {
+        FallingReading.tiered(
+            reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, rungs: rungs, now: now
+        ) ?? Tiered(tier: tier, nextTier: nextTier, progress: progress)
     }
 }
 
