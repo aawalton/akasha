@@ -1,4 +1,4 @@
-import type { RouterApp } from "../../../code-system/router-apps/router-app.page-type.ts"
+import type { RouterApp } from "../../../code-system/router-apps/router-app.page-type.types.ts"
 
 export const audhdalanWeb = {
   id: "01a06558-c2cc-7008-82aa-ce6fcd6a0c2a",

@@ -1,4 +1,4 @@
-import type { RouterApp } from "../../../code-system/router-apps/router-app.page-type.ts"
+import type { RouterApp } from "../../../code-system/router-apps/router-app.page-type.types.ts"
 
 export const archiveOfWorldsWeb = {
   id: "01a06582-2737-7abe-a512-ecb40685ecf4",

@@ -1,4 +1,4 @@
-import type { RouterApp } from "../../code-system/router-apps/router-app.page-type.ts"
+import type { RouterApp } from "../../code-system/router-apps/router-app.page-type.types.ts"
 
 export const alanWeb = {
   id: "01a05bb1-0c04-751f-8f51-baadbd134cf6",

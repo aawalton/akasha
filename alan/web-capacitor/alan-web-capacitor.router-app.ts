@@ -1,4 +1,4 @@
-import type { RouterApp } from "../../code-system/router-apps/router-app.page-type.ts"
+import type { RouterApp } from "../../code-system/router-apps/router-app.page-type.types.ts"
 
 export const alanWebCapacitor = {
   id: "01a06582-324d-7c85-97b1-23c659bd7d23",

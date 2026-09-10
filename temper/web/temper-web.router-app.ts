@@ -1,4 +1,4 @@
-import type { RouterApp } from "../../code-system/router-apps/router-app.page-type.ts"
+import type { RouterApp } from "../../code-system/router-apps/router-app.page-type.types.ts"
 
 export const temperWeb = {
   id: "01a06401-38c0-764d-a6a9-adb737874f4b",
