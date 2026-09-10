@@ -12,7 +12,10 @@ import {
   runAt,
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import { decodeUtf8 } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
-import { changingOf, owedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
+import {
+  changingOf,
+  owedIn,
+} from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"

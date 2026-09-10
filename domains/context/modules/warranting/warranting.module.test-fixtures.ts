@@ -1,0 +1,291 @@
+import { mkdirSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
+import { dataAt } from "akasha/file-system/data-place/data-place.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  pathFiled,
+  relationFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
+import {
+  recordRead,
+  SUBAGENT_MARK,
+} from "../../../../commands/modules/reading/reading.module.code.ts"
+import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import type { Warrant } from "./warranting.module.code.ts"
+
+const HERE = rootOf(import.meta.path)
+
+const scratch = scratchWorld()
+
+export const sweeping = scratch.sweep
+
+export function bareRoot(): string {
+  return scratch.rootFor("akasha-warranting-")
+}
+
+const WARRANTS_IN = "domains/context/warrants"
+
+const WARRANTING_IN = "domains/context/modules/warranting"
+
+const CONTEXT_WARRANT = "context-warrant"
+
+export const SEEDED_AT = dataAt("warrant")
+
+const MINTED = "a warrant seeded for a test"
+
+export const WARRANTS: readonly string[] = ["file-itself", "file-page-type"]
+
+export function realAt(slug: string): string {
+  return join(HERE, WARRANTS_IN, slug, `${slug}.context-warrant.code.ts`)
+}
+
+function pageFor(slug: string, id: string): string {
+  return [
+    `export const ${exportedAs(slug)} = {`,
+    `  id: "${id}",`,
+    `  pageTypeSlug: "context-warrant",`,
+    `  slug: "${slug}",`,
+    `  definition: "${MINTED}",`,
+    `  code: "ts",`,
+    `  test: "ts",`,
+    `  runsOnRead: true,`,
+    `  runsOnWrite: true,`,
+    `  transitive: false,`,
+    `}`,
+    "",
+  ].join("\n")
+}
+
+function codeFor(slug: string): string {
+  const named = exportedAs(slug)
+  return `export { ${named} } from ${JSON.stringify(realAt(slug))}\n`
+}
+
+export function warrantsSeeded(root: string, slugs: readonly string[] = WARRANTS): undefined {
+  mkdirSync(join(root, SEEDED_AT), { recursive: true })
+  let minted = 0
+  for (const slug of slugs) {
+    minted = minted + 1
+    const id = `01a04f58-0000-7000-8000-${String(minted).padStart(12, "0")}`
+    const path = join(SEEDED_AT, `${slug}.context-warrant.ts`)
+    writeFileSync(join(root, path), pageFor(slug, id))
+    writeFileSync(join(root, `${path.slice(0, -".ts".length)}.code.ts`), codeFor(slug))
+    listedFiled(root, CONTEXT_WARRANT, slug, [{ path, id }])
+    valueAlsoFiled(root, CONTEXT_WARRANT, [
+      { path, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug } },
+    ])
+  }
+}
+
+export type Said = {
+  readonly slug: string
+  readonly runsOnRead?: boolean
+  readonly runsOnWrite?: boolean
+  readonly transitive?: boolean
+  readonly page?: string
+  readonly code?: string
+}
+
+export const OWED = "a reading this test says is owed"
+
+export const SEAT_AT = "akasha/seat-system/seat/seats/one.seat.ts"
+
+export const SUB_AT = "akasha/seat-system/subagent/subagents/one-suba.subagent.ts"
+
+export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+
+export const OTHER = "01a04ee0-3078-7000-9069-000000000000"
+
+export const UNDER = `${AGENT}${SUBAGENT_MARK}suba`
+
+export const PATH = "akasha/thing/thing.module.ts"
+
+export const A = "akasha/one/a.ts"
+
+export const B = "akasha/one/b.ts"
+
+export const X = "akasha/one/x.ts"
+
+export const Y = "akasha/one/y.ts"
+
+export const TERM_AT = "akasha/one/word.taboo-term.ts"
+
+export const DECIDING =
+  "NAMING DECISION — the term's page clears this, and it may mean renaming what your change writes."
+
+export const CLEARS =
+  "Nothing here judges the sense you meant, so this gate is clear whether you reword or not."
+
+export const NOT_READ = " — the record does not show you read this."
+
+const MODULE_AT = join(HERE, WARRANTING_IN, "warranting.module.code.ts")
+
+function statedPageFor(one: Said, id: string): string {
+  return [
+    `export const ${exportedAs(one.slug)} = {`,
+    `  id: "${id}",`,
+    `  pageTypeSlug: "context-warrant",`,
+    `  slug: "${one.slug}",`,
+    `  code: "ts",`,
+    `  test: "ts",`,
+    `  runsOnRead: ${one.runsOnRead ?? true},`,
+    `  runsOnWrite: ${one.runsOnWrite ?? true},`,
+    `  transitive: ${one.transitive ?? false},`,
+    `}`,
+    "",
+  ].join("\n")
+}
+
+export function chainOf(said: Record<string, readonly string[]>): string {
+  return [
+    "export function chain(root, path) {",
+    `  const said = ${JSON.stringify(said)}`,
+    '  return (said[path] ?? []).map((one) => ({ path: one, oid: "oid", owed: "owed" }))',
+    "}",
+    "",
+  ].join("\n")
+}
+
+function statedCodeFor(one: Said): string {
+  return [
+    `import { blobAt } from ${JSON.stringify(MODULE_AT)}`,
+    "",
+    `export function ${exportedAs(one.slug)}(root, path) {`,
+    "  const oid = blobAt(root, path)",
+    `  return oid === null ? [] : [{ path, oid, owed: ${JSON.stringify(OWED)} }]`,
+    "}",
+    "",
+  ].join("\n")
+}
+
+export function warrantingStated(root: string, every: readonly Said[]): undefined {
+  mkdirSync(join(root, SEEDED_AT), { recursive: true })
+  for (const one of every) {
+    const id = mintedId(one.slug)
+    const at = join(SEEDED_AT, `${one.slug}.context-warrant.ts`)
+    writing(root, at, one.page ?? statedPageFor(one, id))
+    writing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code ?? statedCodeFor(one))
+    listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
+    valueAlsoFiled(root, CONTEXT_WARRANT, [
+      { path: at, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug: one.slug } },
+    ])
+  }
+}
+
+export function rootWith(every: readonly Said[] = [{ slug: "says-so" }]): string {
+  const root = bareRoot()
+  warrantingStated(root, every)
+  return root
+}
+
+export function readAt(
+  root: string,
+  agentId: string,
+  path: string,
+  oid: string,
+  was: string | null = null,
+  reach: number | null = null
+): undefined {
+  recordRead(root, agentId, { path, oid, seenAt: 1, carriedOid: was, readThrough: reach })
+}
+
+export function subaged(root: string, slug: string, path: string): undefined {
+  listedFiled(root, "subagent", slug, [{ path, id: "sub" }])
+}
+
+export type Listed = {
+  readonly path: string
+  readonly id: string
+}
+
+export function pathsOf(found: readonly Warrant[]): readonly string[] {
+  return found.map((one) => one.path)
+}
+
+function filed(root: string, held: Listed, typeSlug: string, slug: string): undefined {
+  pathFiled(root, held.path, [held])
+  idFiled(root, held.id, [held])
+  listedFiled(root, typeSlug, slug, [held])
+}
+
+function pageListed(
+  root: string,
+  path: string,
+  typeSlug: string,
+  slug: string,
+  stated = ""
+): Listed {
+  const id = mintedId(slug)
+  const held = { path, id }
+  const said = stated === "" ? "" : `, ${stated}`
+  writing(
+    root,
+    path,
+    `export const ${exportedAs(slug)} = { id: "${id}", slug: "${slug}"${said} }\n`
+  )
+  filed(root, held, typeSlug, slug)
+  return held
+}
+
+export function typedListed(root: string, typeSlug: string, slug: string, stated = ""): Listed {
+  return pageListed(root, `akasha/${slug}/${slug}.${typeSlug}.ts`, typeSlug, slug, stated)
+}
+
+export function domainListed(root: string, slug: string): Listed {
+  return typedListed(root, "domain", slug)
+}
+
+export function initiativeListed(root: string, slug: string, stated = ""): Listed {
+  return pageListed(
+    root,
+    `domains/initiative/initiatives/${slug}.initiative.ts`,
+    "initiative",
+    slug,
+    stated
+  )
+}
+
+export function personListed(root: string, slug: string): Listed {
+  return pageListed(root, `person-system/person/people/${slug}.person.ts`, "person", slug)
+}
+
+export function personaListed(root: string, slug: string): Listed {
+  return pageListed(root, `personas/persona/${slug}/${slug}.persona.ts`, "persona", slug)
+}
+
+export function roleListed(root: string, slug: string): Listed {
+  return pageListed(root, `role-system/role/roles/${slug}.role.ts`, "role", slug)
+}
+
+export function pageTypeListed(root: string, slug: string, above: readonly string[]): string {
+  const id = mintedId(`type-${slug}`)
+  const path = `akasha/${slug}/${slug}.page-type.ts`
+  const named = above.map((one) => `page-type/${one}`)
+  const said = `, extendsSlug: ${JSON.stringify(named)}`
+  writing(
+    root,
+    path,
+    `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}"${said} }\n`
+  )
+  listedFiled(root, "page-type", slug, [{ path, id }])
+  valueAlsoFiled(root, "page-type", [
+    { path, value: { id, pageTypeSlug: "page-type", slug, extendsSlug: named } },
+  ])
+  return path
+}
+
+export function seatListed(root: string, slug: string, stated: string): string {
+  const path = `seat-system/seat/seats/${slug}.seat.ts`
+  writing(root, path, `export const ${exportedAs(slug)} = { ${stated} }\n`)
+  return path
+}
+
+export function namesPart(root: string, whole: Listed, part: Listed): undefined {
+  relationFiled(root, part.id, "parts", whole.id, [{ path: whole.path }])
+}

@@ -29,7 +29,6 @@ export const akasha = {
     "domain/seat-system",
     "domain/persona",
     "page-type/role",
-    "domain/context",
     "domain/agent",
     "domain/required-reading",
     "domain/persons",

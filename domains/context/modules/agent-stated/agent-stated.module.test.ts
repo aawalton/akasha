@@ -1,0 +1,94 @@
+import { afterAll, expect, test } from "bun:test"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { seatListed } from "../warranting/warranting.module.test-fixtures.ts"
+import { slugStated, typeStated } from "./agent-stated.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+test("a seat states the slug it carries under the key it is asked for", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const at = seatListed(root, "one", `persona: "akasha", role: "definer"`)
+  expect(slugStated(root, at, "persona")).toBe("akasha")
+  expect(slugStated(root, at, "role")).toBe("definer")
+})
+
+test("a slug stated under a page type is answered by its last part alone", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
+  expect(slugStated(root, at, "assignmentSlug")).toBe("akasha-system")
+})
+
+test("the page type a slug is stated under is answered on its own", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const at = seatListed(root, "one", `assignmentSlug: "initiative/aine-initiative-work"`)
+  expect(typeStated(root, at, "assignmentSlug")).toBe("initiative")
+  expect(slugStated(root, at, "assignmentSlug")).toBe("aine-initiative-work")
+})
+
+test("a slug stated under no page type names none", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const at = seatListed(root, "one", `assignmentSlug: "akasha-system"`)
+  expect(typeStated(root, at, "assignmentSlug")).toBe(null)
+})
+
+test("a key the seat does not state names no page type", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const at = seatListed(root, "one", `persona: "akasha"`)
+  expect(typeStated(root, at, "assignmentSlug")).toBe(null)
+})
+
+test("a key the seat does not state answers nothing", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const at = seatListed(root, "one", `persona: "akasha"`)
+  expect(slugStated(root, at, "role")).toBe(null)
+})
+
+test("a key stated as anything but text answers nothing", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const at = seatListed(root, "one", `onCall: true`)
+  expect(slugStated(root, at, "onCall")).toBe(null)
+})
+
+test("a key stated empty answers nothing", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const at = seatListed(root, "one", `persona: ""`)
+  expect(slugStated(root, at, "persona")).toBe(null)
+})
+
+test("a path that is no agent's page states nothing", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const path = "akasha/persona-system/personas/akasha/akasha.persona.ts"
+  writing(root, path, `export const akasha = { persona: "akasha" }\n`)
+  expect(slugStated(root, path, "persona")).toBe(null)
+  expect(typeStated(root, path, "persona")).toBe(null)
+})
+
+test("a subagent states the slug it carries under the key it is asked for", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const path = "akasha/seat-system/subagent/subagents/one-abc.subagent.ts"
+  writing(root, path, `export const oneAbc = { assignmentSlug: "domain/akasha-system" }\n`)
+  expect(slugStated(root, path, "assignmentSlug")).toBe("akasha-system")
+  expect(typeStated(root, path, "assignmentSlug")).toBe("domain")
+})
+
+test("a seat whose body cannot be loaded states nothing", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const path = "akasha/seat-system/seat/seats/one.seat.ts"
+  writing(root, path, "this is no module {\n")
+  expect(slugStated(root, path, "persona")).toBe(null)
+})
+
+test("a seat that is nowhere states nothing", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "persona")).toBe(null)
+})
+
+test("a seat whose exported value is not named for its slug states nothing", () => {
+  const root = scratch.rootFor("akasha-agent-stated-")
+  const path = "akasha/seat-system/seat/seats/one.seat.ts"
+  writing(root, path, `export const other = { persona: "akasha" }\n`)
+  expect(slugStated(root, path, "persona")).toBe(null)
+})

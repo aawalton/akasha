@@ -3,7 +3,7 @@ import { join } from "node:path"
 import {
   realAt,
   SEEDED_AT,
-} from "akasha/context/modules/warranting/warranting.module.test-fixtures.ts"
+} from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,

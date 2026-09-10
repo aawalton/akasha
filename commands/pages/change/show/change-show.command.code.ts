@@ -5,7 +5,7 @@ import {
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
+import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import type { Given as Arguments } from "../../../modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import {

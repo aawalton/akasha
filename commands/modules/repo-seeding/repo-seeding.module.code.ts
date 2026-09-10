@@ -3,8 +3,8 @@ import { join } from "node:path"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
-import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
-import { warrantsSeeded } from "akasha/context/modules/warranting/warranting.module.test-fixtures.ts"
+import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
+import { warrantsSeeded } from "akasha/domains/context/modules/warranting/warranting.module.test-fixtures.ts"
 import {
   listedFiled,
   noImportersFiled,

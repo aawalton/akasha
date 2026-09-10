@@ -24,6 +24,7 @@ export const domain = {
     "domain/domain-champions",
     "domain/domain-parent",
     "module/domain-reading",
+    "domain/context",
   ],
   invariants: [
     {
