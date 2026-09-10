@@ -81,7 +81,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/location-traces-access": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -157,9 +156,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/pages-service": "workspace:*",
       },
-    },
-    "alan/harness/location-traces-access": {
-      "name": "@akasha/location-traces-access",
     },
     "alan/harness/rules-engine": {
       "name": "@akasha/rules-engine",
@@ -1038,8 +1034,6 @@
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
-
-    "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:alan/harness/location-traces-access"],
 
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
 

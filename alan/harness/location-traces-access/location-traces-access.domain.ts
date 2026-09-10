@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const locationTracesAccess = {
   id: "01a05bc7-9129-700a-81c5-e2dfa20709ec",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "location-traces-access",
   definition: "the shape one recorded place is carried in, and the refusal a batch of places meets",
-  manifest: "json",
   parts: ["module/trace-shape", "module/trace-insert"],
   invariants: [
     {
@@ -22,4 +21,4 @@ export const locationTracesAccess = {
       statement: "Nothing here keeps a location trace.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

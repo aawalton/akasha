@@ -1,5 +1,5 @@
-import { insertLocationTraces } from "@akasha/location-traces-access/trace-insert"
-import type { LocationTraceInsert } from "@akasha/location-traces-access/trace-shape"
+import { insertLocationTraces } from "akasha/alan/harness/location-traces-access/trace-insert/trace-insert.module.code.ts"
+import type { LocationTraceInsert } from "akasha/alan/harness/location-traces-access/trace-shape/trace-shape.module.code.ts"
 import { resolveLocationIngestContext } from "../../.server/location-ingest-context/location-ingest-context.module.code.ts"
 import { locationBatchSchema } from "../../location-batch/location-batch.module.code.ts"
 
