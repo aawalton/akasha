@@ -30,8 +30,11 @@ export const tier = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A scale of fewer than two rungs, or one neither climbing nor falling, is refused.",
+      statement: "A scale of fewer than two rungs is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scale neither climbing nor falling is refused.",
     },
     {
       invariantKind: "departure",
