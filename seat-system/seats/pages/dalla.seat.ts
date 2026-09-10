@@ -1,4 +1,4 @@
-import type { Seat } from "../seat.page-type.types.ts"
+import type { Seat } from "../seat.page-type.ts"
 
 export const dalla = {
   id: "01a07eb0-c517-7000-9ee4-cfc39576ac24",
