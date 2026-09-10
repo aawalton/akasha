@@ -30,9 +30,6 @@ describe("a narrow is lowered whole or it refuses", () => {
     expect("refused" in held).toBe(true)
   })
 
-  // THE CONDITION THAT MUST NEVER VANISH. `userId` is the key the old road stripped, which
-  // widened a scoped write to every account's pages. Here it is carried through as an ordinary
-  // test, and the service refuses it where the page type declares no such property.
   test("a userId condition is carried rather than stripped", () => {
     const held = narrowedFrom([{ key: "userId", eq: "u-1" }])
     expect(held).toEqual({ where: { userId: { is: "u-1" } } })
