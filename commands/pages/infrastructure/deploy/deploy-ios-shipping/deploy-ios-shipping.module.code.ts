@@ -12,7 +12,7 @@ import {
 } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 import { pushBranch } from "akasha/git/git-pushing/git-pushing.module.code.ts"
-import { said } from "../../../../../git/git-running/git-running.module.code.ts"
+import { said } from "../../../../../git/running/git-running.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { saidBy } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 

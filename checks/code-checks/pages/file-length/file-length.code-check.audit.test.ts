@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { said as git } from "../../../../git/git-running/git-running.module.code.ts"
+import { said as git } from "../../../../git/running/git-running.module.code.ts"
 import { fileLength } from "./file-length.code-check.audit.code.ts"
 import { CEILING } from "./file-length.code-check.decision.code.ts"
 import { ELSEWHERE, LOCKFILE, letOff, scratch } from "./file-length.code-check.test-fixtures.ts"

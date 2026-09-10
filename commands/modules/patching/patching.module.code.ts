@@ -6,7 +6,7 @@ import {
   argvFor,
   said as gitSaid,
   told as gitTold,
-} from "../../../git/git-running/git-running.module.code.ts"
+} from "../../../git/running/git-running.module.code.ts"
 import { bodyRead } from "../differing/differing.module.code.ts"
 import { SCRATCH_AT } from "../scratching/scratching.module.code.ts"
 

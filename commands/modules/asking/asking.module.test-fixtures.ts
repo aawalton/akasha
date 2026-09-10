@@ -14,7 +14,7 @@ import {
   minting,
 } from "akasha/testing-system/minting/minting.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
+import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
 import { folding } from "../apply-running/apply-running.module.code.ts"
 import { applying as applyingPatch } from "../applying/applying.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"

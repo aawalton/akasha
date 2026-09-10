@@ -1,4 +1,4 @@
-import { told } from "../../../git/git-running/git-running.module.code.ts"
+import { told } from "../../../git/running/git-running.module.code.ts"
 import type { WorktreeGitFacts } from "../target-guard/target-guard.module.code.ts"
 
 const CEILING = 5_000

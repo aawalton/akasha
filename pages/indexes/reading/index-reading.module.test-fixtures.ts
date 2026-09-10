@@ -12,7 +12,7 @@ import { declaringUnder } from "akasha/testing-system/declaring/declaring.module
 import { admitting } from "akasha/testing-system/minting/minting.module.code.ts"
 import { HELD } from "akasha/testing-system/page-holding/page-holding.module.code.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
-import { said as git } from "../../../git/git-running/git-running.module.code.ts"
+import { said as git } from "../../../git/running/git-running.module.code.ts"
 import { DECLARING_AT } from "../declaring/index-declaring.index.code.ts"
 import type { Entry } from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"

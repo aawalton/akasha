@@ -7,7 +7,7 @@ import {
   patchAt,
   patchIn,
 } from "akasha/agents/modules/patch-keeping/patch-keeping.module.code.ts"
-import { said as gitSaid } from "../../../git/git-running/git-running.module.code.ts"
+import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
 import {
   clashing,
   markedAway,

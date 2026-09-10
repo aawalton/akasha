@@ -7,7 +7,7 @@ import {
   scratchWorld,
 } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
-import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
+import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
 import { bodyOf, type Landing, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
 
 const LANDED = { base: "", landed: [], formatted: [], said: [], wrong: [], commit: null }

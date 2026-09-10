@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { textAt, valueAt } from "@akasha/pages/page-value"
 import { seatPathForName } from "@akasha/seat-system/seat-reading"
 import { type Stopped, stopping } from "@akasha/seat-system/seat-stopping"
-import { told } from "../../../../../git/git-running/git-running.module.code.ts"
+import { told } from "../../../../../git/running/git-running.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 import {

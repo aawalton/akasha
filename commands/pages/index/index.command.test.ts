@@ -14,7 +14,7 @@ import {
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import { textProperty } from "@akasha/pages/text-property"
-import { said as git } from "../../../git/git-running/git-running.module.code.ts"
+import { said as git } from "../../../git/running/git-running.module.code.ts"
 import type { Given } from "../../modules/calling/calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../modules/cli/cli.module.code.ts"
 import { scratchWorld } from "../../modules/scratching/scratching.module.code.ts"

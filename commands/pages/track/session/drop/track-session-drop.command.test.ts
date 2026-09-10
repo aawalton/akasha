@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { said as git } from "../../../../../git/git-running/git-running.module.code.ts"
+import { said as git } from "../../../../../git/running/git-running.module.code.ts"
 import { MECHANICAL } from "../../../../modules/asking/asking.module.code.ts"
 import type { Given } from "../../../../modules/calling/calling.module.code.ts"
 import { baseOf } from "../../../../modules/landing/landing.module.code.ts"

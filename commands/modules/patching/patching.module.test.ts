@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { textIn } from "@akasha/code/body-text"
 import { bytesOf as bytes } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { said as gitSaid } from "../../../git/git-running/git-running.module.code.ts"
+import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { writing } from "../scratching/scratching.module.test-fixtures.ts"
 import { added, blobsIn, bodyOf, deleted, patchOf } from "./patching.module.code.ts"

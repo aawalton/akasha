@@ -12,7 +12,7 @@ import type { FileChange } from "akasha/changes/modules/answer/change-answer.mod
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
+import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
 import type { Stated } from "../change-preparing/change-preparing.module.code.ts"
 import { rowsFrom, rowsOf } from "../change-preparing/change-preparing.module.code.ts"
 import type { Bodies, Body } from "../drafting/drafting.module.code.ts"

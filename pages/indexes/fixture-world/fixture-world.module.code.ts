@@ -8,7 +8,7 @@ import {
   keptAt,
   scratchWorld,
 } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { said as git } from "../../../git/git-running/git-running.module.code.ts"
+import { said as git } from "../../../git/running/git-running.module.code.ts"
 import { rebuiltWhole } from "../indexing/indexing.module.code.ts"
 
 export type Held = Record<string, unknown>

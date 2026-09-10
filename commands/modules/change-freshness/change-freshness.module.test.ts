@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node
 import { join } from "node:path"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
-import { said as git } from "../../../git/git-running/git-running.module.code.ts"
+import { said as git } from "../../../git/running/git-running.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
 import {
   A,

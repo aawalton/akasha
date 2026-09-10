@@ -6,7 +6,7 @@ import {
   parsePorcelainStatusZ,
 } from "akasha/git/porcelain-status/porcelain-status.module.code.ts"
 import { z } from "zod"
-import { told } from "../../git/git-running/git-running.module.code.ts"
+import { told } from "../../git/running/git-running.module.code.ts"
 
 export type CheckoutProvenance =
   | {

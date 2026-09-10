@@ -16,7 +16,7 @@ import type {
   Removing,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as git } from "../../../git/git-running/git-running.module.code.ts"
+import { said as git } from "../../../git/running/git-running.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {

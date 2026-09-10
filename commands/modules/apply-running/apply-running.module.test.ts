@@ -5,7 +5,7 @@ import {
   editsIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { said as gitSaid } from "../../../git/git-running/git-running.module.code.ts"
+import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
 import { headOf, rebasedHeld } from "../drafting/drafting.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"

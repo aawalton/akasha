@@ -20,7 +20,7 @@ import type {
   Removing,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { argvFor } from "../../../git/git-running/git-running.module.code.ts"
+import { argvFor } from "../../../git/running/git-running.module.code.ts"
 
 const MANIFEST = "package.json"
 
