@@ -37,7 +37,7 @@ export const commandMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A row naming the command phase is read, and no other row is.",
+      statement: "A row naming the command phase is read and no other row is.",
     },
     {
       invariantKind: "departure",
