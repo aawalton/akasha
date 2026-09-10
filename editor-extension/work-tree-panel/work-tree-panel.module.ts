@@ -14,7 +14,7 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The panel draws what that file has as the panel comes up.",
+      statement: "The panel draws the initiatives that file has as the panel comes up.",
     },
     {
       invariantKind: "departure",
@@ -62,11 +62,11 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A deletion says what it said on the same channel a drop says on.",
+      statement: "A deletion says its words on the same channel a drop says on.",
     },
     {
       invariantKind: "departure",
-      statement: "A file the service has not written leaves the rows drawn as they are.",
+      statement: "A file the service has not written leaves the rows drawn as those rows are.",
     },
     {
       invariantKind: "departure",
@@ -84,28 +84,28 @@ export const workTreePanel = {
     {
       invariantKind: "departure",
       statement:
-        "An intent dropped onto another initiative leaves the initiative handing it at once.",
+        "An intent dropped onto another initiative leaves the initiative handing that intent at once.",
     },
     {
       invariantKind: "departure",
       statement:
-        "That intent reaches the initiative taking it when the file the service writes has it.",
+        "An intent reaches the initiative taking that intent once the service has written that intent.",
     },
     {
       invariantKind: "departure",
-      statement: "A drop, a hand and a deletion are held for an initiative in one place.",
+      statement: "A drop and a hand and a deletion are held for an initiative in one place.",
     },
     {
       invariantKind: "departure",
-      statement: "What is held is held until the file has it or the command is refused.",
+      statement: "A hold remains until the file has the change held or the command is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "What is held is let go once every command it waits on has answered.",
+      statement: "A hold is let go once every command that hold waits on has answered.",
     },
     {
       invariantKind: "departure",
-      statement: "A file disagreeing after those commands answered is drawn as that file has it.",
+      statement: "A file disagreeing after those commands answered is drawn as that file is.",
     },
     {
       invariantKind: "departure",
@@ -121,15 +121,16 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A file with other intents than those releases what is held.",
+      statement: "A file with intents other than the intents held releases the hold.",
     },
     {
       invariantKind: "departure",
-      statement: "A refused move or deletion reads the file again and draws what that file has.",
+      statement:
+        "A refused move or deletion reads the file again and draws the rows that file has.",
     },
     {
       invariantKind: "departure",
-      statement: "What is held for one initiative leaves every other initiative alone.",
+      statement: "A hold for one initiative leaves every other initiative alone.",
     },
     {
       invariantKind: "departure",
