@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "The audit answers 884 over 52 checks, of which no-rule-in-two-files is 815 and file-has-its-page 46. Five more checks state the audit phase and sit out for being experimental, holding 1573 between them, and the answer says nothing about leaving them out. tests-pass is 7, every one a temper addon command, now that failedIn blames a file only where a failure prints under it rather than wherever the file prints at all.",
+        "The audit runs 52 checks; no-rule-in-two-files refuses 812 and file-has-its-page 46. Five more state the audit phase and sit out for being experimental, holding 1573 between them, and the answer now says how many it leaves out. tests-pass is 6, every one a container-image test whose fixture raises a checkout carrying no index, which every index read throws on rather than answering none.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
