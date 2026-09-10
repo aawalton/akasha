@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFolder } from "../../change-mechanical-folder.page-type.ts"
+import type { ChangeMechanicalFolder } from "../../change-mechanical-folder.page-type.types.ts"
 
 export const moveFolderPackage = {
   id: "01a08240-de06-760d-bf8c-d82a5881e24b",
