@@ -62,7 +62,6 @@ export const noUnparsedBoundaryRead = {
       statement:
         "Folding this check into `no-refused-syntax` takes every site repaired and this page taken away.",
     },
-
     {
       invariantKind: "gap",
       statement: "Every site the rule names is repaired.",
@@ -78,4 +77,5 @@ export const noUnparsedBoundaryRead = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  experimental: true,
 } as const satisfies CodeCheck
