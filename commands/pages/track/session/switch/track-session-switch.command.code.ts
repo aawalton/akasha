@@ -22,7 +22,7 @@ import {
   taggingFor,
   telling,
 } from "../open/session-acting/session-acting.module.code.ts"
-import { sleeping, wokeInto } from "./waking/waking.module.code.ts"
+import { opensInto, sleeping } from "./waking/waking.module.code.ts"
 
 export async function trackSessionSwitch(argv: readonly string[], given: Given): Promise<Answer> {
   const now = new Date()
@@ -38,8 +38,8 @@ export async function trackSessionSwitch(argv: readonly string[], given: Given):
     return mistaking(["a stretch cannot end at or before it began"])
   }
   found.stretch.endTime = ended
-  const woke = sleeping(found.stretch.title) ? wokeInto(ended) : found.held.day
-  const home = woke === found.held.day ? found : movedInto(given.root, found, ended)
+  const opened = sleeping(found.stretch.title) ? opensInto(found.stretch.startTime) : found.held.day
+  const home = opened === found.held.day ? found : movedInto(given.root, found, opened)
   if (typeof home === "string") return mistaking([home])
   const title = saidFor(argv, TITLE)
   if (title === null) return mistaking([`${TITLE} names what the next stretch is called`])

@@ -5,17 +5,17 @@ export const waking = {
   pageTypeSlug: "module",
   type: "module",
   slug: "waking",
-  definition: "which day a sleep woke into, and which day comes before another",
+  definition: "which day a sleep opens, and which day comes before another",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The day a sleep woke into is the ESO day the sleep ended inside.",
+      statement: "The day a sleep opens is read from when that sleep began.",
     },
     {
       invariantKind: "departure",
-      statement: "An ESO day opens at six in the morning in New York.",
+      statement: "A sleep beginning at or after six the evening in New York opens the day after.",
     },
     {
       invariantKind: "departure",

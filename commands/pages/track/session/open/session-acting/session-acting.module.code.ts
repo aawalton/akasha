@@ -26,7 +26,7 @@ import {
   type Landing,
   pathUnder,
 } from "../../file/day-landing/day-landing.module.code.ts"
-import { dayBefore, sleeping, wokeInto } from "../../switch/waking/waking.module.code.ts"
+import { dayBefore, sleeping } from "../../switch/waking/waking.module.code.ts"
 
 export type Standing = {
   readonly day: string
@@ -118,8 +118,8 @@ export function endingIn(
   return "this day carries no open stretch to end"
 }
 
-export function movedInto(root: string, from: Ending, ended: string): Landing | string {
-  const target = heldFor(root, wokeInto(ended))
+export function movedInto(root: string, from: Ending, day: string): Landing | string {
+  const target = heldFor(root, day)
   if (typeof target === "string") return target
   const rows = target.rows.map((one) => ({ ...one }))
   from.rows.splice(from.rows.indexOf(from.stretch), 1)

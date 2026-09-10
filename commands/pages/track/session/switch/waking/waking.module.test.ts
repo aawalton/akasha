@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { dayBefore, sleeping, wokeInto } from "./waking.module.code.ts"
+import { dayBefore, opensInto, sleeping } from "./waking.module.code.ts"
 
 test("the day before a day is the day before it on the calendar", () => {
   expect(dayBefore("2026-09-04")).toBe("2026-09-03")
@@ -23,10 +23,16 @@ test("a stretch titled anything else is no sleep", () => {
   expect(sleeping("Rest")).toBe(false)
 })
 
-test("a sleep ending after the reset woke into the day it ended in", () => {
-  expect(wokeInto("2026-09-04T11:00:00.000Z")).toBe("2026-09-04")
+test("a sleep beginning at six the evening opens the day after it", () => {
+  expect(opensInto("2026-09-04T22:00:00.000Z")).toBe("2026-09-05")
+  expect(opensInto("2026-09-05T03:30:00.000Z")).toBe("2026-09-05")
 })
 
-test("a sleep ending before the reset woke into the day before", () => {
-  expect(wokeInto("2026-09-04T09:59:00.000Z")).toBe("2026-09-03")
+test("a sleep beginning before six the evening opens the day it began in", () => {
+  expect(opensInto("2026-09-04T21:59:00.000Z")).toBe("2026-09-04")
+  expect(opensInto("2026-09-04T09:00:00.000Z")).toBe("2026-09-04")
+})
+
+test("a time that will not parse answers itself", () => {
+  expect(opensInto("not a time")).toBe("not a time")
 })
