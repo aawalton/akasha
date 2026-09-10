@@ -49,5 +49,9 @@ export const bareRepoInit = {
       invariantKind: "departure",
       statement: "A step that failed ends the run rather than being passed over.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The folder a hook stub sits in is made before that stub is written.",
+    },
   ],
 } as const satisfies Module

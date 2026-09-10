@@ -38,6 +38,7 @@ AKASHA_REPO=${AKASHA_BARE_REPO_PATH}
 CREDENTIAL_HELPER=${CREDENTIAL_HELPER}
 LOCK=/data/git/repositories/.init-lock
 hook_at() {
+  mkdir -p "$(dirname "$2")"
   printf '#!/bin/sh\\nexec /bin/sh "%s" "$@"\\n' "$1" > "$2"
   chmod +x "$2"
 }
