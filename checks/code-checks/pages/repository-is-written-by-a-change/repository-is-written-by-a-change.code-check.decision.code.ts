@@ -249,10 +249,21 @@ function textIn(node: ts.Node): string | null {
   return null
 }
 
+export function namesAside(said: string, one: string): boolean {
+  for (let at = said.indexOf(one); at >= 0; at = said.indexOf(one, at + 1)) {
+    const before = at === 0 ? PARTED_BY : said[at - 1]
+    const after = said[at + one.length] ?? PARTED_BY
+    const opens = one.startsWith(DOT) || before === PARTED_BY
+    const closes = one.endsWith(DOT) || after === PARTED_BY || after === DOT
+    if (opens && closes) return true
+  }
+  return false
+}
+
 function asideBy(aside: readonly string[]): (node: ts.Node) => boolean {
   return (node) => {
     const said = textIn(node)
-    return said !== null && aside.some((one) => said.includes(one))
+    return said !== null && aside.some((one) => namesAside(said, one))
   }
 }
 

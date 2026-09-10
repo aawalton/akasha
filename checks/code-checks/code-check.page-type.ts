@@ -90,9 +90,9 @@ export const codeCheck = {
   extends: ["page-type/domain"],
   loadedBy: "module/checking",
   properties: [
-    { pageProperty: "module-property-group/decision", required: true, many: false },
-    { pageProperty: "module-property-group/check", required: true, many: false },
-    { pageProperty: "module-property-group/audit", required: true, many: false },
+    { pageProperty: "module-property-group/decision", required: false, many: false },
+    { pageProperty: "module-property-group/check", required: false, many: false },
+    { pageProperty: "module-property-group/audit", required: false, many: false },
     { pageProperty: "boolean-property/runs-on-patch", required: true, many: false },
     { pageProperty: "boolean-property/runs-on-worktree", required: true, many: false },
     { pageProperty: "boolean-property/runs-on-deploy", required: true, many: false },

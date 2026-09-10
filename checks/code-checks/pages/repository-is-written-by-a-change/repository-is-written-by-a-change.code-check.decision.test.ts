@@ -1,13 +1,14 @@
 import { expect, test } from "bun:test"
 import {
   asideIn,
+  namesAside,
   reasonsOver,
 } from "./repository-is-written-by-a-change.code-check.decision.code.ts"
 
 const AT = "commands/pages/one/one.command.code.ts"
 
 const IGNORED =
-  "# a note\n\n*.uncommitted.*\n.supervisors/\nnode_modules/\n!keep/a.uncommitted.js\n"
+  "# a note\n\n*.uncommitted.*\n.supervisors/\nnode_modules/\ndist/\n!keep/a.uncommitted.js\n"
 
 const ASIDE = asideIn(IGNORED)
 
@@ -16,7 +17,26 @@ function only(text: string): readonly string[] {
 }
 
 test("the names the repository ignores are read with `.git` and without an un-ignoring rule", () => {
-  expect(ASIDE).toEqual([".git", ".uncommitted.", ".supervisors", "node_modules"])
+  expect(ASIDE).toEqual([".git", ".uncommitted.", ".supervisors", "node_modules", "dist"])
+})
+
+test("an ignored folder is named where a whole part of the path is that folder", () => {
+  expect(namesAside("a/dist/b.json", "dist")).toBe(true)
+  expect(namesAside("dist/b.json", "dist")).toBe(true)
+})
+
+test("a name merely holding an ignored folder's letters names no ignored folder", () => {
+  expect(namesAside("a/redistribute.json", "dist")).toBe(false)
+  expect(namesAside("a/distinct/b.json", "dist")).toBe(false)
+})
+
+test("an ignored ending is named where the name ends there or a part ends there", () => {
+  expect(namesAside("a/b.uncommitted.jsonl", ".uncommitted.")).toBe(true)
+  expect(namesAside("a/.git/held.txt", ".git")).toBe(true)
+})
+
+test("a longer ending merely opening with an ignored one names nothing ignored", () => {
+  expect(namesAside("a/.gitignore", ".git")).toBe(false)
 })
 
 test("a TypeScript file written under a root taken from the root module is refused", () => {

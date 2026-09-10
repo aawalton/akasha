@@ -108,8 +108,16 @@ export const repositoryIsWrittenByAChange = {
       statement: "A destination whose name is worked out at run time is not seen.",
     },
     {
+      invariantKind: "departure",
+      statement: "An ignored folder is named where a whole part of the path is that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ignored ending is named where a part of the path ends there.",
+    },
+    {
       invariantKind: "gap",
-      statement: "A destination holding an ignored name by chance is let through.",
+      statement: "A name that is away is away everywhere in its file, whatever it holds there.",
     },
     {
       invariantKind: "gap",
