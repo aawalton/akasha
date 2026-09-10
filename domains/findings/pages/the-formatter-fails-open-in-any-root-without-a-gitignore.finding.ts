@@ -5,7 +5,7 @@ export const theFormatterFailsOpenInAnyRootWithoutAGitignore = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-formatter-fails-open-in-any-root-without-a-gitignore",
-  domain: "domain/code-system",
+  domain: "domain/code",
   claim:
     "`formattedBody` answers the body handed in, unformatted, from any root whose config demands an ignore file that root has no reason to hold. `biome.json` states `vcs.useIgnoreFile` true, so biome exits non-zero where no ignore file sits beside a copy of it, and `code-format.module.code.ts:48` reads a non-zero exit as a body to leave alone. A fixture copying this repository's config is such a root. A fixture writing a config of its own without the `vcs` block is not, and formats. So the trap is copying the config rather than building a fixture at all, and the slug here overstates it. A test asserting two bodies are equal byte for byte inside a copied-config root passes on two unformatted bodies and says nothing about the bytes that land.",
   evidence:

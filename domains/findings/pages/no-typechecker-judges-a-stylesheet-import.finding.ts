@@ -5,7 +5,7 @@ export const noTypecheckerJudgesAStylesheetImport = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "no-typechecker-judges-a-stylesheet-import",
-  domain: "domain/code-system",
+  domain: "domain/code",
   claim:
     "Under the settings `code-typing` builds, tsc reports nothing for a specifier naming a stylesheet, whether the file stands or not, so a component importing a stylesheet that is gone typechecks clean. What refuses it today is `tests-pass`, which stands the module up in bun and gets `Cannot find module`, so the catch reaches only a module carrying a test. A component with no test lands a dangling stylesheet import and nothing says so. Eleven files under Alan's site import a stylesheet this way.",
   evidence:

@@ -5,7 +5,7 @@ export const nimueCodeCleanup = {
   pageTypeSlug: "initiative",
   type: "initiative",
   slug: "nimue-code-cleanup",
-  domain: "domain/code-system",
+  domain: "domain/code",
   persona: "nimue",
   intents: [
     {

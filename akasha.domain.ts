@@ -7,7 +7,7 @@ export const akasha = {
   slug: "akasha",
   definition: "code, data and text in a page with a type in a file",
   parts: [
-    "domain/code-system",
+    "domain/code",
     "domain/data",
     "domain/text",
     "domain/file",
