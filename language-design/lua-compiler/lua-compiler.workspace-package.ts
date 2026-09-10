@@ -247,5 +247,6 @@ export const luaCompiler = {
     "type-declaration/performance-global",
     "type-declaration/sparse-array",
     "type-declaration/typescript-internals",
+    "page-type/lualib",
   ],
 } as const satisfies WorkspacePackage

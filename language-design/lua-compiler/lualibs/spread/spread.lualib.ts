@@ -1,4 +1,4 @@
-import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
+import type { Lualib } from "akasha/language-design/lua-compiler/lualibs/lualib.page-type.types.ts"
 
 export const spread = {
   id: "01a08202-0fa9-7648-bfce-6b6b15f45e44",

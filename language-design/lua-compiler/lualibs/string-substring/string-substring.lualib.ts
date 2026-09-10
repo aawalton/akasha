@@ -1,4 +1,4 @@
-import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
+import type { Lualib } from "akasha/language-design/lua-compiler/lualibs/lualib.page-type.types.ts"
 
 export const stringSubstring = {
   id: "01a081f7-142d-7eed-bf68-b7da58f25b14",

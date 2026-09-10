@@ -33,7 +33,6 @@
     "./lua-runtime-library": "./lua-runtime-libraries/lua-runtime-library.page-type.ts",
     "./lua-runtime-library/lua50-config": "./lua-runtime-libraries/properties/lua50-config.file-property.ts",
     "./lua-runtime-library/universal-config": "./lua-runtime-libraries/properties/universal-config.file-property.ts",
-    "./lualib": "./lualibs/lualib.page-type.ts",
     "./module": "./modules/module.page-type.ts",
     "./module-property-group": "./module-property-groups/module-property-group.page-type.ts",
     "./name-series": "./name-series/name-series.module.code.ts",

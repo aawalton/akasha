@@ -57,7 +57,6 @@ export const codeSystem = {
     "module/name-series",
     "module/value-inserting",
     "module/test-overlay",
-    "page-type/lualib",
     "page-type/performance",
   ],
   invariants: [
