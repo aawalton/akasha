@@ -9,11 +9,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "Every check is held to the ceilings its page states.",
-      workingMemory:
-        "module-property-group declares three scoped ceilings and a logs member, so a check page states check.maxCpuSeconds and its runs are recorded under check.logs. All 56 checks are held: 10 seconds at a change but typecheck 60 and page-matches-its-type 20, and 60 at audit. checking runs the check to the end, then refuses the landing and sends the author to Alan. Left: page-matches-its-type judging the nested value, and the reader keying the ceiling by phase rather than by which code ran.",
-    },
-    {
       statement: "Every test file is held to its ceiling by a refusal rather than by a kill.",
       workingMemory:
         "code-tests hands the spawn a cpuCeiling, so the watcher kills the run at the cap and the number reported is the cap rather than the cost: two files costing 7.1 and 15.0 both said 5.1, already filed as a finding. Checks now run to the end and refuse after, which reports what the run truly cost. Tests take that road too, and the measure flag goes with it, having existed only to get a number no kill had truncated.",
