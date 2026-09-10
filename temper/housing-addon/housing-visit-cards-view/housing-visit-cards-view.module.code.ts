@@ -1,6 +1,6 @@
-import "akasha/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 export interface VcCardEntry {
   backdrop: VcBackdropControl
   name: VcEntryButton

@@ -1,8 +1,8 @@
-import "akasha/temper/temper-eso-types/eso-enums-01/eso-enums-01.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type {
   ItemSetCatalogEntry,

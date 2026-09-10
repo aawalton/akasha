@@ -1,7 +1,7 @@
-import "akasha/temper/temper-eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-functions-04/eso-functions-04.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 
 import { GREEN, RED, RESET } from "../next-boss-colors/next-boss-colors.module.code.ts"
 import {

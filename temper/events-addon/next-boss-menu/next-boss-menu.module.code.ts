@@ -1,5 +1,5 @@
-import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "../../addon-library-types/lib-addon-menu/lib-addon-menu.type-declaration.d.ts"
 
 import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"

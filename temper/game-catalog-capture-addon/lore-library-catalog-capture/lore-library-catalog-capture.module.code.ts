@@ -1,6 +1,6 @@
-import "akasha/temper/temper-eso-types/eso-functions-05/eso-functions-05.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 
 import type {
   LoreLibraryCatalogBook,

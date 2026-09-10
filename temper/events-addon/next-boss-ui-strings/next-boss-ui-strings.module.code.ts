@@ -1,4 +1,4 @@
-import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
 export const STRINGS: Record<string, string> = {
   SI_ICTHENEXTBOSS_AMONCRUL: "Amoncrul",

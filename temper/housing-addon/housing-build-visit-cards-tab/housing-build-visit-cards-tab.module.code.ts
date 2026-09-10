@@ -1,6 +1,6 @@
-import "akasha/temper/temper-eso-types/eso-enums-17/eso-enums-17.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-19/eso-enums-19.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-19/eso-enums-19.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import {
   asControl,
   asControlHandler,

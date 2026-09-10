@@ -1,4 +1,4 @@
-import "akasha/temper/temper-eso-types/eso-enums-09/eso-enums-09.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 
 export function buildDisplayCategories(): Record<string, number> {
   return {

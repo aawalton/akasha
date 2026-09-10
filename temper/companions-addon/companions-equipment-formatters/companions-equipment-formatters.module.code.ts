@@ -1,9 +1,9 @@
-import "akasha/temper/temper-eso-types/eso-enums-01/eso-enums-01.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-07/eso-enums-07.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import {
   ARMOR_WEIGHT_NAMES,
   QUALITY_COLORS,

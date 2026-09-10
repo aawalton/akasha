@@ -1,6 +1,6 @@
-import "akasha/temper/temper-eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 export const PLAYER_ARMOR_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_NONE]: 0,
   [ITEM_TRAIT_TYPE_ARMOR_DIVINES]: 1,

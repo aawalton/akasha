@@ -1,8 +1,8 @@
 import "../../addon-library-types/lib-histoire/lib-histoire.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-06/eso-enums-06.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-07/eso-enums-07.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-06/eso-enums-06.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 
 import type { SalesPayload } from "akasha/temper/capture-sales/sales-payload/sales-payload.module.code.ts"
 

@@ -1,6 +1,6 @@
-import "akasha/temper/temper-eso-types/eso-enums-07/eso-enums-07.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-08/eso-enums-08.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 export const ARMOR_WEIGHT_NAMES: Record<number, string> = {
   [ARMORTYPE_NONE]: "None",
   [ARMORTYPE_LIGHT]: "Light",

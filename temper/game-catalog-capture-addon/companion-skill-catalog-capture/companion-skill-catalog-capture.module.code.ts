@@ -1,8 +1,8 @@
-import "akasha/temper/temper-eso-types/eso-api/eso-api.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-functions-04/eso-functions-04.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-functions-05/eso-functions-05.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-functions-10/eso-functions-10.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type {
   CompanionSkillCatalogAbility,

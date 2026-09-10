@@ -1,5 +1,5 @@
-import "akasha/temper/temper-eso-types/eso-api-3/eso-api-3.type-declaration.d.ts"
-import "akasha/temper/temper-eso-types/eso-link-handler/eso-link-handler.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-api-3/eso-api-3.type-declaration.d.ts"
+import "akasha/temper/eso-types/eso-link-handler/eso-link-handler.type-declaration.d.ts"
 import "../../addon-library-types/lib-group-broadcast/lib-group-broadcast.type-declaration.d.ts"
 
 import {
