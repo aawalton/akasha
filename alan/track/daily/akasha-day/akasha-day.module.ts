@@ -15,7 +15,7 @@ export const akashaDay = {
     },
     {
       invariantKind: "departure",
-      statement: "Every body one call composes lands in one commit or in none.",
+      statement: "Every body one call composes lands in one commit or lands in no commit.",
     },
     {
       invariantKind: "absence",
@@ -27,7 +27,7 @@ export const akashaDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A row beside a day states its keys in camel, as the day page states its own.",
+      statement: "A row beside a day states its keys in camel.",
     },
     {
       invariantKind: "stopgap",
@@ -47,7 +47,7 @@ export const akashaDay = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch is composed from the page there merged with what the caller gave.",
+      statement: "A patch is composed from the page there merged with the values the caller gave.",
     },
     {
       invariantKind: "departure",
