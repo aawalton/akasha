@@ -1,0 +1,12 @@
+import type { FoodEntry } from "../../food-entry.page-type.types.ts"
+
+export const foodEntry20260910Cucumber = {
+  id: "01a08d04-b04a-7000-b869-061d7e45a9b0",
+  pageTypeSlug: "food-entry",
+  type: "food-entry",
+  slug: "food-entry-2026-09-10-cucumber",
+  title: "Cucumber",
+  happenedAt: "2026-09-10T20:31:29.854Z",
+  plantGrams: 100,
+  estimatedCalories: 15,
+} as const satisfies FoodEntry
