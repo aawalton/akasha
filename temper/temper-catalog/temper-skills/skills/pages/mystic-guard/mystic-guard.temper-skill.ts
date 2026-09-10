@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const mysticGuard = {
   id: "019e6251-4cd3-726f-8f77-fd4a24f42b86",

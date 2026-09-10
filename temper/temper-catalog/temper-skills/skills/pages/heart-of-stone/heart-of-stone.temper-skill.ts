@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const heartOfStone = {
   id: "019e6f53-a2fa-77ec-ac11-b9ea9f81fcf8",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const spikedBoneShield = {
   id: "019e6238-c319-7733-bedd-af584a8e559a",

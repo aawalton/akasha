@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const necroticOrb = {
   id: "019e6f53-a4b9-7198-9078-d6373119fbb2",

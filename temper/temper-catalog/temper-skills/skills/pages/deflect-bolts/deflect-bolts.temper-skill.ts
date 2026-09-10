@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const deflectBolts = {
   id: "019e6226-00e3-72e9-a75e-070995b32016",

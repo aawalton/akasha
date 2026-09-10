@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const puncturingSweep = {
   id: "019e6245-a6f5-76e1-a6db-eabfb1cf9985",

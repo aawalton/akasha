@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const imperviousRuneward183241 = {
   id: "019e6f53-a361-7858-98bb-89ac1a12514e",

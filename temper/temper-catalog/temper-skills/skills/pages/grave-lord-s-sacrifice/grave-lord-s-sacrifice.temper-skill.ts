@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const graveLordSSacrifice = {
   id: "019e6f53-a2a0-718e-b9c9-975ad20f764f",

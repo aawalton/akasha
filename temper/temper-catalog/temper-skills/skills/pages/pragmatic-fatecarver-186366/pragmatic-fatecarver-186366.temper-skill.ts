@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const pragmaticFatecarver186366 = {
   id: "019e6f53-a53c-7a32-bd87-185d937986ab",

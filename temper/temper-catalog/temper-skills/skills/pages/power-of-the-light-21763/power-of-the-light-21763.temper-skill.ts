@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const powerOfTheLight21763 = {
   id: "019e6f53-a527-7c27-aff0-2647b2d7ec6e",

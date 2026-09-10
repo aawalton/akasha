@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const defensiveStance = {
   id: "019e6226-00e2-762b-9660-dd17e10ec6b7",

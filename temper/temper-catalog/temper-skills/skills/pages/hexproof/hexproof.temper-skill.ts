@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const hexproof = {
   id: "019e6245-a6a4-7fbc-b1ab-59825e996907",

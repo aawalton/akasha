@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lightWeaver = {
   id: "019e6245-a6bb-7c45-a518-fbc94c45bff6",

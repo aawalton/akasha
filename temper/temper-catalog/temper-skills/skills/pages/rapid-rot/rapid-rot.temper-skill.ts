@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const rapidRot = {
   id: "019e6245-a6fc-7cf8-b258-19abb44a3a67",

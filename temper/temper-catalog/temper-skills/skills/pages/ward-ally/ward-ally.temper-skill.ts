@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const wardAlly = {
   id: "019e6226-011f-79cd-95e8-738cdbc813d2",

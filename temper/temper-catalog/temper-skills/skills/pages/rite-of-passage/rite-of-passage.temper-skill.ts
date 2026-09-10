@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const riteOfPassage = {
   id: "019e6f53-a65a-7dae-b0c6-37c9bd76c556",

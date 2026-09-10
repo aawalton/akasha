@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const burstingVines85859 = {
   id: "019e6f53-9fa9-78dd-afb5-ec57e5bab671",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const hawkEye = {
   id: "019e6226-00f7-7a3e-9563-f99868986a37",

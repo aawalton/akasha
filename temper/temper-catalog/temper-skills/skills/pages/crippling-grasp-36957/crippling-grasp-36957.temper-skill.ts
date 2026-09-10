@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const cripplingGrasp36957 = {
   id: "019e6f53-a034-74de-8561-80705d6a92d8",

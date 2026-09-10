@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const burningEmbers20660 = {
   id: "019e6f53-9f9d-738f-a3a1-2d70aa0df44b",

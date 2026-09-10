@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const renewingAnimation = {
   id: "019e6245-a70a-7845-877a-9e2e1a811fc2",

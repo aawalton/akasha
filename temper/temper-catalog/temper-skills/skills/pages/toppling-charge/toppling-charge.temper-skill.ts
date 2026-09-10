@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const topplingCharge = {
   id: "019e6245-a754-79eb-99b6-c5da083d2381",

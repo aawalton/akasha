@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const streak23236 = {
   id: "019e6f53-a7c2-7011-82fd-868a6d9982f3",

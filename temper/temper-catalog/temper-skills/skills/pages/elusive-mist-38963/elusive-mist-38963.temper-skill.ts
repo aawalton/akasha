@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const elusiveMist38963 = {
   id: "019e6f53-a138-7f2f-8b80-be5d62cba63e",

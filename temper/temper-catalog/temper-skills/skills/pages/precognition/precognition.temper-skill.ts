@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const precognition = {
   id: "019e6238-c2f8-7e29-974e-c074c6f686ac",

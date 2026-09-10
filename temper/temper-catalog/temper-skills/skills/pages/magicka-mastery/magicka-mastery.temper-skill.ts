@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const magickaMastery = {
   id: "019e624a-12d0-7d58-b607-cf19ac5be88c",

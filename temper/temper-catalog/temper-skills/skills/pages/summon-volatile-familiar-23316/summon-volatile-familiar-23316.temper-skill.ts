@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const summonVolatileFamiliar23316 = {
   id: "019e6f53-a7ec-7e27-9a66-0c859675f6e8",

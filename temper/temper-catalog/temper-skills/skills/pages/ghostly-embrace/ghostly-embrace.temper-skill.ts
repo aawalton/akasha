@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const ghostlyEmbrace = {
   id: "019e6245-a68f-7bdd-ac77-5d6ffe11ce3e",

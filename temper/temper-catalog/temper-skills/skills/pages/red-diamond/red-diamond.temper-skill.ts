@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const redDiamond = {
   id: "019e624a-12d4-7463-a1df-3afa621c617a",

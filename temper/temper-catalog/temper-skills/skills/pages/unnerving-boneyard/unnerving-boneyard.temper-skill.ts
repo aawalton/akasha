@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const unnervingBoneyard = {
   id: "019e6245-a75b-7046-bc8f-84d17f203849",

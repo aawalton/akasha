@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const healthAvarice = {
   id: "019e6245-a6a0-7e7e-81e1-a4e5c343dda0",

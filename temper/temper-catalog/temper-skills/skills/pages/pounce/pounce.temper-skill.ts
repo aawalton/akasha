@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const pounce = {
   id: "019e6f53-a51d-73d7-8943-d55d98631c6b",

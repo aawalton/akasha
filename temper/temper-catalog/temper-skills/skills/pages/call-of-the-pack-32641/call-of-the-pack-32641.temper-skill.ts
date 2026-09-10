@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const callOfThePack32641 = {
   id: "019e6f53-9fac-7902-9f6c-0480ec40ef42",

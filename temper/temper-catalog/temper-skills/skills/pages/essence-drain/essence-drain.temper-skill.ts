@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const essenceDrain = {
   id: "019e6226-00ee-7b1b-a8d1-4ecd75b72e0e",

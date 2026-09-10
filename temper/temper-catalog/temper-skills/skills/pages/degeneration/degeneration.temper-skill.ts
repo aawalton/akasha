@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const degeneration = {
   id: "019e6238-c2b2-70ee-abbf-fc1c9553dcd9",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const magesWrath = {
   id: "019e6245-a6c4-7105-bb25-54086c8316b8",

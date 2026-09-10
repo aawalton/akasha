@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const theTideKingsGaze = {
   id: "019e6245-a752-76e7-81eb-05a330c70562",

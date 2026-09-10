@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const symbiosis103755 = {
   id: "019e6f53-a811-7de0-9029-c1f2103363ec",

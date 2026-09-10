@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const combatFrenzy = {
   id: "019e6251-4c9e-74cd-aec2-8170889b4fdb",

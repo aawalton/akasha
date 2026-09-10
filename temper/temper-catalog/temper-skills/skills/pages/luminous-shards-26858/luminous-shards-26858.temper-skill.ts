@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const luminousShards26858 = {
   id: "019e6f53-a427-77fb-bf1b-09c6b3560090",

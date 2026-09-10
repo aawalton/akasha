@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const negateMagic = {
   id: "019e6f53-a4bd-7ae5-8315-56e5aed2be06",

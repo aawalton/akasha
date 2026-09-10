@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const daedricProtection31417 = {
   id: "019e6f53-a064-7d9d-95e0-0189c7c1560a",

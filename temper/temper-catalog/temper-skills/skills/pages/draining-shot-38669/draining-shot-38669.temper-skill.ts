@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const drainingShot38669 = {
   id: "019e6f53-a0f2-7ec3-bab7-9102d7ef525a",

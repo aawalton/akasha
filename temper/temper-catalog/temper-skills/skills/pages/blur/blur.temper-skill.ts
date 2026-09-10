@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const blur = {
   id: "019e6f53-9f64-77d7-96b7-c2df591c6102",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const restoringFocus = {
   id: "019e6245-a70f-7ebe-9bca-f7264db1654b",

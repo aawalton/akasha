@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const hearthAndHome = {
   id: "019e6f53-a2fb-7e01-8bb3-219634fd59a5",

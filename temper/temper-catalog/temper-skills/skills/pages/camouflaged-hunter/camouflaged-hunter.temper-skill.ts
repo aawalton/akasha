@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const camouflagedHunter = {
   id: "019e6238-c2a0-7e3f-8eb0-7b430133a375",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const absorptionField28348 = {
   id: "019e6f53-9e86-7665-8aee-f5a8e0be9f8f",

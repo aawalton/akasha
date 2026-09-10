@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const feed = {
   id: "019e6251-4cb6-750c-bde3-1df3eb687d2c",

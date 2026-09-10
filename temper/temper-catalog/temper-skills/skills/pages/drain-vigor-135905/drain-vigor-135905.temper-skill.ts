@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const drainVigor135905 = {
   id: "019e6f53-a0ee-78e7-bdc1-08b0fa0c3daf",

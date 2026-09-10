@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const executioner38819 = {
   id: "019e6f53-a1ba-79c6-b9a1-fffdda5602c7",

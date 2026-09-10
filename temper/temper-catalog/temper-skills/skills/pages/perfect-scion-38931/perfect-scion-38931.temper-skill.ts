@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const perfectScion38931 = {
   id: "019e6f53-a4e9-76fd-81c6-633a51cc6ff2",

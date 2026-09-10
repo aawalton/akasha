@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeancePiercingJavelin = {
   id: "019e6f53-a951-76ee-beb2-af401d98185c",

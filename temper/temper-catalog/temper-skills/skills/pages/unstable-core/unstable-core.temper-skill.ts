@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const unstableCore = {
   id: "019e6245-a75d-787a-9722-36cefe64c366",

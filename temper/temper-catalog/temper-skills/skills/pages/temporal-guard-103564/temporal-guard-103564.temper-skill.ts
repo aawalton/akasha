@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const temporalGuard103564 = {
   id: "019e6f53-a829-78d9-8765-e43bc68e8803",

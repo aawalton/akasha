@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const refreshingShadows = {
   id: "019e6245-a705-7522-b089-d0b86fe22ca9",

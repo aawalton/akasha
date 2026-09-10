@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lotusBlossom = {
   id: "019e6245-a6c0-7f3f-aff9-404e6a2e4283",

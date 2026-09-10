@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceGraveGrasp = {
   id: "019e6f53-a91d-78d8-ba5e-3772c77deef5",

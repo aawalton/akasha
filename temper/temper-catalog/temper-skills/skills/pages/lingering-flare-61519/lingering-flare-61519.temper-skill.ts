@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lingeringFlare61519 = {
   id: "019e6f53-a409-7649-b291-e386b447a092",

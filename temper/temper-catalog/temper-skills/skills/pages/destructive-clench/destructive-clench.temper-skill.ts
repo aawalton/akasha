@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const destructiveClench = {
   id: "019e6226-00e4-7c73-af05-33917d8e06d8",

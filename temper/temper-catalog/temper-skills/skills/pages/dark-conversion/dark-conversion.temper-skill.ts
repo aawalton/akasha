@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const darkConversion = {
   id: "019e6245-a638-7f2a-946b-83d8d516f15f",

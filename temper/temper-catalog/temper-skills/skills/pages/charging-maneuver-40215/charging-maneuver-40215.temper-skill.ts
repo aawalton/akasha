@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const chargingManeuver40215 = {
   id: "019e6f53-9fdc-7824-b2b8-a31c73cc505f",

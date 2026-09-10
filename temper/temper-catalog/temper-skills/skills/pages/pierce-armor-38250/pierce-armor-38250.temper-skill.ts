@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const pierceArmor38250 = {
   id: "019e6f53-a500-74f6-a923-f2ed42a011a2",

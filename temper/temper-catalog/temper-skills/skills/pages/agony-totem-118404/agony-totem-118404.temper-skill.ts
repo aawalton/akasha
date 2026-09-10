@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const agonyTotem118404 = {
   id: "019e6f53-9ea4-78f5-8b85-79ba80ad432b",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const recipeQuality = {
   id: "019e6224-ccaa-7eb6-82de-439d9511642e",

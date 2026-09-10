@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const martialTraining = {
   id: "019e624a-12d1-7e8f-818d-4fed83f345ae",

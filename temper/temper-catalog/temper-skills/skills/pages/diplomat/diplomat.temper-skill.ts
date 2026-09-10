@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const diplomat = {
   id: "019e624a-12c5-79ba-a5dc-59b38c7d5322",

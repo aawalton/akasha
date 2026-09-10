@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const practicedIncantation = {
   id: "019e6245-a6ed-7aaa-a4e1-779d6c204390",

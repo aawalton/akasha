@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const preemptivePower = {
   id: "019e6251-4cd6-7caf-8571-d7534325b082",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const bullNetch86058 = {
   id: "019e6f53-9f9a-7264-beba-1ee393eb884b",

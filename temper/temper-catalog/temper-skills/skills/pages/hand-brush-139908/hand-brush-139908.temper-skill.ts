@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const handBrush139908 = {
   id: "019e6f53-a2c7-7661-be94-5697b1ad13c4",

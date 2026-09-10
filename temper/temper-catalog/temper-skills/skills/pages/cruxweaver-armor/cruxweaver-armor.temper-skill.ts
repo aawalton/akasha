@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const cruxweaverArmor = {
   id: "019e6245-a627-7fde-872d-60e8dd00d7a5",

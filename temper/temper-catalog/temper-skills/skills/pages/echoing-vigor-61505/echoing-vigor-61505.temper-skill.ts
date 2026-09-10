@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const echoingVigor61505 = {
   id: "019e6f53-a102-7bc3-9cb5-de933bdd5c31",

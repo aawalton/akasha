@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const arcticBlast86156 = {
   id: "019e6f53-9ebc-7fec-8247-51785fc29c29",

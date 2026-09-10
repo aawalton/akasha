@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const empoweringGrasp = {
   id: "019e6245-a663-7705-ac0b-3ff651f649d1",

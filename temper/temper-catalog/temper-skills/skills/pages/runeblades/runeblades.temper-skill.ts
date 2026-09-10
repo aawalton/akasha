@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const runeblades = {
   id: "019e6f53-a689-7eba-8c5f-e5f8246ea2b0",

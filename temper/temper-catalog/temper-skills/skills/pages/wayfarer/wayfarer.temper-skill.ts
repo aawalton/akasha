@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const wayfarer = {
   id: "019e624a-12e6-7c5c-89d5-df7e1a07d1aa",

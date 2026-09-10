@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const impulse = {
   id: "019e6f53-a369-7a2b-a86f-71b0d6f9db45",

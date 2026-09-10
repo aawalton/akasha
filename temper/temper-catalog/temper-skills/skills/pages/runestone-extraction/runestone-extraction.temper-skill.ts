@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const runestoneExtraction = {
   id: "019e6224-ccad-7112-acc3-fe8ee46f7bea",

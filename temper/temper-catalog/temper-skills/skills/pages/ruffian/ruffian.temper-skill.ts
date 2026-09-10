@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const ruffian = {
   id: "019e6226-0111-7451-91bc-f1b0a23ad0a6",

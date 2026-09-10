@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const boundlessStorm23213 = {
   id: "019e6f53-9f83-7059-99d6-b0acc39e840a",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceEarthspikeMantle = {
   id: "019e6f53-a8f8-7a90-a46a-f2be9bcb2f17",

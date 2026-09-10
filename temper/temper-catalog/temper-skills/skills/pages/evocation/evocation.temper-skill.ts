@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const evocation = {
   id: "019e6238-c2bc-7a9d-8edd-900ef696b9ce",

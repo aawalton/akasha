@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const proximityDetonation61500 = {
   id: "019e6f53-a552-7092-a00d-9c2fcabcd5a8",

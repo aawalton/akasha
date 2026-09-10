@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const mirage35414 = {
   id: "019e6f53-a48d-706b-9209-e7c14543e27a",

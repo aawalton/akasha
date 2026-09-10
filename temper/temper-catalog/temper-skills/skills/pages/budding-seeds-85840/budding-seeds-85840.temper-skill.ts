@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const buddingSeeds85840 = {
   id: "019e6f53-9f96-784b-b2e6-fa757b87100b",

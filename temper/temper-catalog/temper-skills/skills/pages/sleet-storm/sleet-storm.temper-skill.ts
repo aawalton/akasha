@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const sleetStorm = {
   id: "019e6f53-a73e-75e8-bc02-717936284b4a",

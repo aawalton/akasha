@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const soulHarvest = {
   id: "019e6245-a739-7e88-9375-971c04c9ee52",

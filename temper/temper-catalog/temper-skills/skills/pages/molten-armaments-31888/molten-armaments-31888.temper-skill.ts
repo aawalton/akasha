@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const moltenArmaments31888 = {
   id: "019e6f53-a491-7821-abc6-58347e96eeb2",

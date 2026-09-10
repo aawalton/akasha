@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const rapidMending = {
   id: "019e6238-c2fc-77f3-a462-75fb8f0ce69a",

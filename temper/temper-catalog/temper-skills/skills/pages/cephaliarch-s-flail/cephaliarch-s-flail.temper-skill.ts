@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const cephaliarchSFlail = {
   id: "019e6f53-9fc4-7e6c-a107-763cf4dfad95",

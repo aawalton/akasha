@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const runeguardOfFreedom186489 = {
   id: "019e6f53-a68d-7327-8a46-ee75627d3cb3",

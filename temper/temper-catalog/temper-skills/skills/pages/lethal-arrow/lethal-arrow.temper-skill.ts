@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lethalArrow = {
   id: "019e6226-00fd-75a0-afb3-e304b7048a8b",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const elude39192 = {
   id: "019e6f53-a131-7f9c-8bce-56a21f9e74a5",

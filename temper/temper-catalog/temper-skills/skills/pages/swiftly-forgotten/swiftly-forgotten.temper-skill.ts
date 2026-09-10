@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const swiftlyForgotten = {
   id: "019e6238-c31d-70de-9cca-3efb9b907a49",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const triFocus = {
   id: "019e6226-011b-76c0-ad73-bc007da797cc",

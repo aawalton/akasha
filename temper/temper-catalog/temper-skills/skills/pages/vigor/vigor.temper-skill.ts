@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vigor = {
   id: "019e6f53-a9c4-76c6-8322-fe0d48b51c66",

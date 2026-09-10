@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const endlessFury = {
   id: "019e6245-a667-7a56-bd51-06f10793f5d0",

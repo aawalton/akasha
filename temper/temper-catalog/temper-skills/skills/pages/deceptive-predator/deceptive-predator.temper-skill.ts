@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const deceptivePredator = {
   id: "019e6245-a648-7ce5-8107-c17b9c3d2ada",

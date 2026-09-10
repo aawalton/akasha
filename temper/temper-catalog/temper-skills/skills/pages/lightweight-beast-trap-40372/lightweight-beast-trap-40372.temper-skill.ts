@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lightweightBeastTrap40372 = {
   id: "019e6f53-a404-7b1e-a182-eb17a9d7e22e",

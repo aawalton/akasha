@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const silverLeash40336 = {
   id: "019e6f53-a71d-72a8-bb22-53d4e3239c87",

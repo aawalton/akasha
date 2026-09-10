@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const tanninExpertise = {
   id: "019e6224-ccb2-760b-823a-deef5566640f",

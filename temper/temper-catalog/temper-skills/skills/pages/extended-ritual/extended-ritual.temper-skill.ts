@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const extendedRitual = {
   id: "019e6245-a67f-71b5-8ae3-b84d20c1aba2",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const boundArmaments24165 = {
   id: "019e6f53-9f7f-70ea-9c50-a6bf6f73f88c",

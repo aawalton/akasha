@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const igneousShield29224 = {
   id: "019e6f53-a349-7145-a1a3-0c1c34929a21",

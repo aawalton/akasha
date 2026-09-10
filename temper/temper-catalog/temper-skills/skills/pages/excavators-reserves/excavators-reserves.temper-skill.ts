@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const excavatorsReserves = {
   id: "019e6251-4cb1-73f0-9138-564b35d11417",

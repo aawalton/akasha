@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const mesmerize = {
   id: "019e6f53-a479-7ab1-ada9-33a812914d1a",

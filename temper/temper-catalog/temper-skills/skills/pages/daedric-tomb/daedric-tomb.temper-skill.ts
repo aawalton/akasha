@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const daedricTomb = {
   id: "019e6245-a635-7e9a-af3a-9d52a6fec991",

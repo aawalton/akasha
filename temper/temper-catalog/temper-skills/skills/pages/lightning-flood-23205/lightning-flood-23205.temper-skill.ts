@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lightningFlood23205 = {
   id: "019e6f53-a3fa-7845-ab10-4b93883d6f63",

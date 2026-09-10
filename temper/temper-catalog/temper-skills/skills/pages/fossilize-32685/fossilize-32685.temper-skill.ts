@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const fossilize32685 = {
   id: "019e6f53-a23e-758d-b035-aff40af4866c",

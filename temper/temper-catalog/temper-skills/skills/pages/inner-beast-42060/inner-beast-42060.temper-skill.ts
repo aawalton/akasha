@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const innerBeast42060 = {
   id: "019e6f53-a376-7b05-8186-64ae01fd269c",

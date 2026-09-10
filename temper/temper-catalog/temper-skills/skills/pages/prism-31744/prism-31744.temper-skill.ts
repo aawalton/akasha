@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const prism31744 = {
   id: "019e6f53-a547-7b3b-93bd-dc543e756ed1",

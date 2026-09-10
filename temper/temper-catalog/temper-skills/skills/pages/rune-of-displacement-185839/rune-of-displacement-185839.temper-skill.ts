@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const runeOfDisplacement185839 = {
   id: "019e6f53-a67e-76c5-8811-72e28540b80a",

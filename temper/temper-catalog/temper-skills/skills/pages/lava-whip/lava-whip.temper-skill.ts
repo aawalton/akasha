@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lavaWhip = {
   id: "019e6f53-a3c3-783b-862a-fec6759449c2",

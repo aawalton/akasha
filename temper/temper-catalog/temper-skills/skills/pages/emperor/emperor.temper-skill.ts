@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const emperor = {
   id: "019e6251-4caf-7ccc-b662-bb90bb75d2b8",

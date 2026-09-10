@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const boundAegis24163 = {
   id: "019e6f53-9f7b-7d77-b2fd-0c5dbe9dba06",

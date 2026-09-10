@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const resistFrost = {
   id: "019e624a-12d8-78ad-9e7e-eb5c4ae251c2",

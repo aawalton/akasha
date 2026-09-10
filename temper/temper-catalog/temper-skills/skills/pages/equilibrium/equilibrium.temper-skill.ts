@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const equilibrium = {
   id: "019e6f53-a195-79bb-9acc-9ef331320058",

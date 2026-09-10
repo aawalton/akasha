@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const arcanistSDomain = {
   id: "019e6f53-9eba-7211-98f7-4826502f893e",

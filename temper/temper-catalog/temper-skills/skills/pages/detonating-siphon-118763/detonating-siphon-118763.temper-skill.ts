@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const detonatingSiphon118763 = {
   id: "019e6f53-a0c9-7249-9d92-af032ab3d14d",

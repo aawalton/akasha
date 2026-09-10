@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const fragmentedShield32673 = {
   id: "019e6f53-a244-70cf-b919-b1fa7decd6d7",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const dampenMagic39186 = {
   id: "019e6f53-a06d-76bf-a7b9-a98d18298305",

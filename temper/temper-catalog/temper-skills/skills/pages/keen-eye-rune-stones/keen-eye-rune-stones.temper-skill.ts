@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const keenEyeRuneStones = {
   id: "019e6224-cc9d-7ba2-8d50-72d69b58bd94",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceRemedyCascade = {
   id: "019e6f53-a962-77ff-a81f-f8b4b7ea73e1",

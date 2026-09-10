@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const fleetstepWings = {
   id: "019e6245-a686-7996-9d9e-1263bf319fce",

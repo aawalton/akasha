@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const fanTheFlames = {
   id: "019e6f53-a1dd-70da-8a44-c5bc310c2585",

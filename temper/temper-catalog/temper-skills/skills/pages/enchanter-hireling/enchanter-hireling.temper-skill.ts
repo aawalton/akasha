@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const enchanterHireling = {
   id: "019e6224-cc93-721d-be9c-18b94840e3ce",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const funnelHealth34838 = {
   id: "019e6f53-a26a-7820-b748-04ca542b4bf4",

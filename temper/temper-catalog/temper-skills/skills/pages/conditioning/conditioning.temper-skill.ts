@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const conditioning = {
   id: "019e624a-12c2-747f-afa8-a8edb36eb1b9",

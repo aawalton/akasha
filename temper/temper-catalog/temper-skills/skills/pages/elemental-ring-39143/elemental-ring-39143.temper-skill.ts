@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const elementalRing39143 = {
   id: "019e6f53-a11f-7e1b-8b49-aab1c0fd63ec",

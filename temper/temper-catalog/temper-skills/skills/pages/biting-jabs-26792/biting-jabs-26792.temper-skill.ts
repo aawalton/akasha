@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const bitingJabs26792 = {
   id: "019e6f53-9f13-7984-8526-a4660ba40074",

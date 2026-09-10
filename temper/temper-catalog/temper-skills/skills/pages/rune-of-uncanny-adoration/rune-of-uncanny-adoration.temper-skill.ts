@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const runeOfUncannyAdoration = {
   id: "019e6245-a71a-7899-8de7-91c5841ceeeb",

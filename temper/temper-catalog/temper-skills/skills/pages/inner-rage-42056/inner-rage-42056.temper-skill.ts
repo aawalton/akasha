@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const innerRage42056 = {
   id: "019e6f53-a37f-72c8-a153-abff12df178e",

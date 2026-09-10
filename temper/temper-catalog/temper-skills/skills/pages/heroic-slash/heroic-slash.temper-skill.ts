@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const heroicSlash = {
   id: "019e6226-00fa-7ee6-83ff-916e3c19cfe6",

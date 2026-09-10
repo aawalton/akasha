@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const clairvoyance = {
   id: "019e6238-c2a8-7520-806c-b8816c351370",

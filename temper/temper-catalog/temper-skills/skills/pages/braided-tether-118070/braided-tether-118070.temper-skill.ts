@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const braidedTether118070 = {
   id: "019e6f53-9f87-79de-a8e0-2c54f30bb343",

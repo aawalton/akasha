@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const auroraJavelin = {
   id: "019e6245-a5ef-7a5a-955a-d09911ea2dbe",

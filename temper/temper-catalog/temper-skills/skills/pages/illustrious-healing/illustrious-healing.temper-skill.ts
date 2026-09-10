@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const illustriousHealing = {
   id: "019e6226-00fb-7c04-9938-19c43d3850cb",

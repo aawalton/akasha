@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const everlastingMagic40437 = {
   id: "019e6f53-a1a9-7083-9f21-eb0a7cf483ad",

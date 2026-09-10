@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const splinteredSecrets = {
   id: "019e6245-a741-75fa-be8b-dfc5706f2875",

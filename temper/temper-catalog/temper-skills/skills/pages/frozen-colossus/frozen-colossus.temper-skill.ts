@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const frozenColossus = {
   id: "019e6f53-a24e-77d7-99ca-4b0a226fefa0",

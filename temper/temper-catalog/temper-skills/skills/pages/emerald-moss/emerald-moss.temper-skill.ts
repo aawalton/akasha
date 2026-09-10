@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const emeraldMoss = {
   id: "019e6245-a661-7d7b-905a-6f129f72797e",

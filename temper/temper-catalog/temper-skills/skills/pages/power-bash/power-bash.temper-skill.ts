@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const powerBash = {
   id: "019e6f53-a51f-757b-8fc2-3980f4221147",

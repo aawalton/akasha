@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const energyOverload24804 = {
   id: "019e6f53-a18e-71f3-bee0-1152daf04ab5",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const ricochetSkull = {
   id: "019e6245-a713-7291-9a60-a670b09c0638",

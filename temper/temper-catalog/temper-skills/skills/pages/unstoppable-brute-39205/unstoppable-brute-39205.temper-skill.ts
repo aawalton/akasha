@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const unstoppableBrute39205 = {
   id: "019e6f53-a89e-73e7-90ac-2c96b84d5b4d",

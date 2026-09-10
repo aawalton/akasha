@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const spellRecharge = {
   id: "019e624a-12e0-73a6-85fb-26d3108403f8",

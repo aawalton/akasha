@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const overflowingAltar41958 = {
   id: "019e6f53-a4d5-75a9-a688-a27cc50bbcaf",

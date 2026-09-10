@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const cleave = {
   id: "019e6f53-9ff8-7a2a-a7f2-24ec39b7e91a",

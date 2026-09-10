@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const spellOrb = {
   id: "019e6238-c316-7ca4-a446-558788acf1a4",

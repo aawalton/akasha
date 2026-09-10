@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const shimmeringShield = {
   id: "019e6245-a730-7287-98cb-a716d5caefc2",

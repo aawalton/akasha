@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const crushingWeapon = {
   id: "019e6238-c2ae-7964-9304-d56fce123ea0",

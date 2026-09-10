@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceRenderFlesh = {
   id: "019e6f53-a963-7ea8-9173-8a1cce2f2781",

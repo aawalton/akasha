@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const elementalRage84434 = {
   id: "019e6f53-a11b-7e9a-802d-799f62c681c8",

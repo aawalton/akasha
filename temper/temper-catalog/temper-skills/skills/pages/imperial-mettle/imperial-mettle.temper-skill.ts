@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const imperialMettle = {
   id: "019e624a-12cd-79af-8e9a-a879c4c9ea14",

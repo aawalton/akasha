@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const runeFocus = {
   id: "019e6f53-a67a-78a7-9fb3-92d191b62d65",

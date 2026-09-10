@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const magickaAid = {
   id: "019e6251-4cd0-79b4-8702-6b1b98ec2224",

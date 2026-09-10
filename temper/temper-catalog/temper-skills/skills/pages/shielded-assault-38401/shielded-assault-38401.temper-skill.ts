@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const shieldedAssault38401 = {
   id: "019e6f53-a6fe-76f8-8f5b-463a73c9fdcb",

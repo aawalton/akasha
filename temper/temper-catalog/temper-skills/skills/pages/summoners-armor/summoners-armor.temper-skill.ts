@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const summonersArmor = {
   id: "019e6245-a74a-7ea6-bcfa-3ce58e8a4d58",

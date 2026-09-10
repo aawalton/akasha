@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const battlefieldMobility29422 = {
   id: "019e6f53-9efb-721b-8e80-9d22a99531a4",

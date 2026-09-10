@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const summonWingedTwilight = {
   id: "019e6f53-a7ee-73e5-8758-a1576f9230c7",

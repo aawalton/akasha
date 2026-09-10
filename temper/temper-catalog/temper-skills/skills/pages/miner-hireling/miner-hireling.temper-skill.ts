@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const minerHireling = {
   id: "019e6224-cca6-75ba-b45d-8479a200dfc3",

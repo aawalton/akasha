@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const replenishingBarrier = {
   id: "019e6251-4cde-7425-99db-785246611405",

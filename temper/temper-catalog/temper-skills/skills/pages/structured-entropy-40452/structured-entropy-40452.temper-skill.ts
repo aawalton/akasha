@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const structuredEntropy40452 = {
   id: "019e6f53-a7ca-79db-9dda-51ece975d821",

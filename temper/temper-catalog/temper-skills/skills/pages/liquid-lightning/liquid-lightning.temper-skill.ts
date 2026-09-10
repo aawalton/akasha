@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const liquidLightning = {
   id: "019e6245-a6bd-7e1d-8e9e-66a3272191a5",

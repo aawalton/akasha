@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const tanglingWebs = {
   id: "019e6238-c320-78e1-9b38-623e45c198f8",

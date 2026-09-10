@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const summonChargedAtronach23495 = {
   id: "019e6f53-a7da-7d64-9d94-912a119cd2ab",

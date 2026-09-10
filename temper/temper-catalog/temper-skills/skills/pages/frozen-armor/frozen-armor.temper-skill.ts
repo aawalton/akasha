@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const frozenArmor = {
   id: "019e6245-a68a-7a79-8921-198435ed8a32",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const mysticOrb42028 = {
   id: "019e6f53-a4a8-7507-8425-a5fb23a28a81",

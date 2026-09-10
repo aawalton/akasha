@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const siegeWeaponShield = {
   id: "019e6251-4ce9-7436-b4b9-4905914e37de",

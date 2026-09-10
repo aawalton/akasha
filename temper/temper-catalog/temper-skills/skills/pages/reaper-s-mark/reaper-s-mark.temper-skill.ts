@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const reaperSMark = {
   id: "019e6f53-a5bd-78f5-8605-b45363ff64ca",

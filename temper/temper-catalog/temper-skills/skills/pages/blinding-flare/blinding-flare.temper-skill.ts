@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const blindingFlare = {
   id: "019e6251-4c8b-7fc3-8e29-3c841cebf423",

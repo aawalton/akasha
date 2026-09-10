@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const iceComet40489 = {
   id: "019e6f53-a33e-7195-9f50-7165a92b25a7",

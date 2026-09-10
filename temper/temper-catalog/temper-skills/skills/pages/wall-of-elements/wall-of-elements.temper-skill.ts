@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const wallOfElements = {
   id: "019e6f53-a9d2-763a-98d1-71646bafa204",

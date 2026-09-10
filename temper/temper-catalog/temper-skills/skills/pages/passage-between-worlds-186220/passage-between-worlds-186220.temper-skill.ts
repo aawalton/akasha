@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const passageBetweenWorlds186220 = {
   id: "019e6f53-a4e1-7ba1-91d6-761c45518750",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const quickSiphon = {
   id: "019e6226-0106-76e9-9869-6e4a7951614d",

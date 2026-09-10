@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const radialSweep = {
   id: "019e6f53-a57a-78fe-ad75-0e8bd707a36d",

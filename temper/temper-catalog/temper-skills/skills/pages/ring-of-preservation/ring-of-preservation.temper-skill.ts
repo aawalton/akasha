@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const ringOfPreservation = {
   id: "019e6238-c304-70c5-b39d-c2179391c1af",

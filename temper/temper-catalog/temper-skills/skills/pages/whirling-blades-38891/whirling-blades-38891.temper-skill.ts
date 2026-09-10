@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const whirlingBlades38891 = {
   id: "019e6f53-a9ec-7149-aa13-cda411d0c5ed",

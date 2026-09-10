@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const crystallizedShield = {
   id: "019e6f53-a04d-7d86-91fe-597e30fe9f8b",

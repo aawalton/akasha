@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const shiftingStandard32958 = {
   id: "019e6f53-a701-7d8a-a465-7521141678ee",

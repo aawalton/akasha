@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const theLanguidEye189867 = {
   id: "019e6f53-a831-7c62-8438-269dc71efdb2",

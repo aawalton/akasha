@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const barbedTrap40382 = {
   id: "019e6f53-9eed-760f-be35-c55662de5741",

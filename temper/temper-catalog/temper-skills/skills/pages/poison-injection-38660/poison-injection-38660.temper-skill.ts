@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const poisonInjection38660 = {
   id: "019e6f53-a515-7fa4-aa61-3cebd1b2ece0",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const ritualOfRebirth22327 = {
   id: "019e6f53-a65e-7c19-b750-dad22afd730f",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const reverberatingBash = {
   id: "019e6226-010f-7939-8152-83b3cafc20a1",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const acceleratedGrowth = {
   id: "019e6245-a5e4-7832-a3c2-c33b06f9349a",

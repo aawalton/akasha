@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const padomaicSprint77398 = {
   id: "019e6f53-a4dd-7469-a332-2c71f4cd3eb8",

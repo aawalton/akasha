@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const expertSummoner = {
   id: "019e6245-a67b-7033-a487-17f458c8f6f0",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const fatewovenArmor = {
   id: "019e6f53-a1e4-7156-81ad-acdcdc88fe1e",

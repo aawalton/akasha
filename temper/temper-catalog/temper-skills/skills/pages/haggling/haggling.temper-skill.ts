@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const haggling = {
   id: "019e6238-c2c3-7f38-b608-8815d2949de0",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const trowel139943 = {
   id: "019e6f53-a865-7c83-ae56-49eed68c9c0b",

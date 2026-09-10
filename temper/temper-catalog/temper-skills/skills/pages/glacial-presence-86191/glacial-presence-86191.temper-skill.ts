@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const glacialPresence86191 = {
   id: "019e6f53-a28d-7b19-8b36-3477350036d0",

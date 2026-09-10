@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const surpriseAttack = {
   id: "019e6245-a74d-71df-8b2a-1692fa278e42",

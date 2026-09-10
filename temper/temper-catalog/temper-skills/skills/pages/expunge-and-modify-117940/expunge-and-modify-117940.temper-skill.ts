@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const expungeAndModify117940 = {
   id: "019e6f53-a1d4-7be9-bfd6-fe7a19ae2bab",

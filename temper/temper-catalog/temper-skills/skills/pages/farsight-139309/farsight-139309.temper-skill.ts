@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const farsight139309 = {
   id: "019e6f53-a1e0-707c-8ea3-3986d55cad01",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const landslide = {
   id: "019e6f53-a3ba-73f6-9fd3-638d9df057f8",

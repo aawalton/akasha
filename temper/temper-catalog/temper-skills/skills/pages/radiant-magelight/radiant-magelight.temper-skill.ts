@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const radiantMagelight = {
   id: "019e6238-c2fb-7990-9efa-a51cfe115fc5",

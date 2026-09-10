@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const crystalWeapon46331 = {
   id: "019e6f53-a04c-7b6d-a308-894f759a73ca",

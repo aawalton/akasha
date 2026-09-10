@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const reflectiveLight21732 = {
   id: "019e6f53-a5d7-716e-b418-79772ae62bff",

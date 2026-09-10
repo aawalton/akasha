@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const greaterStormAtronach = {
   id: "019e6245-a695-7bf6-a2be-d6e4eedb8f84",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const magmaShell17874 = {
   id: "019e6f53-a44b-7f58-bf8e-c64d85626658",

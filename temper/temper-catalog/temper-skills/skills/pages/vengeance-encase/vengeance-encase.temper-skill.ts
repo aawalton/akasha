@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceEncase = {
   id: "019e6f53-a8fc-7cfc-8199-ad8d782d0809",

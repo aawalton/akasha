@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceShieldCharge = {
   id: "019e6f53-a980-78b9-9fb5-4ae3eb8bdffe",

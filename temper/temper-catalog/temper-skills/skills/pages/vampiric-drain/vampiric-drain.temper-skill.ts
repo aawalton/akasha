@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vampiricDrain = {
   id: "019e6f53-a8a4-77d0-803c-29c9145c0939",

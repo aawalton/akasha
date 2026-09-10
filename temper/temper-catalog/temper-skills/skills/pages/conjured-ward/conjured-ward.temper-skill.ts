@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const conjuredWard = {
   id: "019e6f53-a015-7189-a4df-3773295059b5",

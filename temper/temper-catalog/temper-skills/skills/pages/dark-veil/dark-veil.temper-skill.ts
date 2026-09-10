@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const darkVeil = {
   id: "019e6245-a63e-7f58-a664-ade64bd6092d",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const crystalShard = {
   id: "019e6f53-a04a-7044-a482-9164ccd44a57",

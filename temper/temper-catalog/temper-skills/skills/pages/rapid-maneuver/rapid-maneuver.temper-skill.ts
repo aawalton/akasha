@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const rapidManeuver = {
   id: "019e6f53-a5a1-7cf7-8295-9eb5e7de5a23",

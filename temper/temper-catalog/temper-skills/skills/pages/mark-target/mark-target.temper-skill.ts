@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const markTarget = {
   id: "019e6f53-a455-775d-b90e-f0c22d85bd16",

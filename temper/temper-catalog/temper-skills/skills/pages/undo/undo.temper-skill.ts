@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const undo = {
   id: "019e6f53-a881-79c5-ae8b-ce5a5374a9a1",

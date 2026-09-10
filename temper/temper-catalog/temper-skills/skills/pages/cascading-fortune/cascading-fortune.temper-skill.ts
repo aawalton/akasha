@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const cascadingFortune = {
   id: "019e6245-a610-73bd-93f8-0b8b44e5636f",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const magmaFist = {
   id: "019e6245-a6c6-768f-9a87-cd4897dc6cfc",

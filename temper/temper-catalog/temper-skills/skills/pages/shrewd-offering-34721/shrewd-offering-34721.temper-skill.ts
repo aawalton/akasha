@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const shrewdOffering34721 = {
   id: "019e6f53-a70d-72fa-8f22-7a0fd4ac12a2",

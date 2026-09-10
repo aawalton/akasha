@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const secludedGrove = {
   id: "019e6f53-a6d2-7002-bfef-1f872ffcf086",

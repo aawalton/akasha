@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const refreshingPath = {
   id: "019e6245-a704-737f-af23-91b34f6ff5b8",

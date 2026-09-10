@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const spellAttunement = {
   id: "019e624a-12df-7273-9f79-53de6115a3a9",

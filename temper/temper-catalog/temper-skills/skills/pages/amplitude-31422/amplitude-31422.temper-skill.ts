@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const amplitude31422 = {
   id: "019e6f53-9eac-7296-a17a-9f2489019f3d",

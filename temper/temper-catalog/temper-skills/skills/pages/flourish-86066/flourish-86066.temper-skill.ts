@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const flourish86066 = {
   id: "019e6f53-a217-7493-8a58-0b933a044580",

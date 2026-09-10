@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const solarBarrage22095 = {
   id: "019e6f53-a748-742d-99ac-3c9de4458acb",

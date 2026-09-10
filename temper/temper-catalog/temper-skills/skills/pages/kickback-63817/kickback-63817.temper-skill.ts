@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const kickback63817 = {
   id: "019e6f53-a3b2-7a57-9bf6-ede1e5b9d4fb",

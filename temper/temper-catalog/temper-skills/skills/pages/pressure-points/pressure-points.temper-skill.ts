@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const pressurePoints = {
   id: "019e6245-a6ef-7e0f-b101-e8d5a095fc75",

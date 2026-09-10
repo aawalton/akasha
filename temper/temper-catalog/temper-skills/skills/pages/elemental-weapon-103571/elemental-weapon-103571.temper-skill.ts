@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const elementalWeapon103571 = {
   id: "019e6f53-a12e-784e-9a6f-c872e7b03e6b",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const animateBlastbones118379 = {
   id: "019e6f53-9eb2-7141-bc5b-754ad1d0c443",

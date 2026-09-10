@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const chakramShields = {
   id: "019e6f53-9fd2-7776-a28f-0d9c27002b9e",

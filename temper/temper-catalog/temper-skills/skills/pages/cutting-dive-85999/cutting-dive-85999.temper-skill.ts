@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const cuttingDive85999 = {
   id: "019e6f53-a05a-762e-9d84-998a5bc305db",

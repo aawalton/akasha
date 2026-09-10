@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const powerExtraction = {
   id: "019e6245-a6e8-74e6-a848-8378274bb86b",

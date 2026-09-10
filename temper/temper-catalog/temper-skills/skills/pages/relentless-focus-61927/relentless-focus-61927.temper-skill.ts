@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const relentlessFocus61927 = {
   id: "019e6f53-a5e6-7c5a-b0cd-869038ad495c",

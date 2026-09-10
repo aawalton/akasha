@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const evasion = {
   id: "019e6f53-a1a6-729d-b769-f1578bfb8d6e",

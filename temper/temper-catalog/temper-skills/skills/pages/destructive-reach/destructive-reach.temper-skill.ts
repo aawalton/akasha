@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const destructiveReach = {
   id: "019e6226-00e5-79ff-b30c-29db3fd45117",

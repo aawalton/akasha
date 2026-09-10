@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const bloodFrenzy = {
   id: "019e6f53-9f4a-765b-b07f-afebe9929b3e",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const yFfreSEndurance = {
   id: "019e6f53-aa09-7744-9877-d0d66c08cd19",

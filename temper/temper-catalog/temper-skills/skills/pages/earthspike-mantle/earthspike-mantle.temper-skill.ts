@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const earthspikeMantle = {
   id: "019e6f53-a0fe-76f2-8968-087d472f9fbd",

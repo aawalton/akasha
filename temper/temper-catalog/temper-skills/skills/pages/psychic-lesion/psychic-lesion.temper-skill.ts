@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const psychicLesion = {
   id: "019e6245-a6f3-72fc-8dce-37e62a3e03f8",

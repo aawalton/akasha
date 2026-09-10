@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lacerate = {
   id: "019e6f53-a3b8-7f41-809c-c88aac1c7ccc",

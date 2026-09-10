@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const scalesOfPitilessJustice = {
   id: "019e6238-c308-7715-866c-75fb7033fd0d",

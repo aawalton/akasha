@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const shroudedDaggers38914 = {
   id: "019e6f53-a710-771e-bb7d-222c25c41887",

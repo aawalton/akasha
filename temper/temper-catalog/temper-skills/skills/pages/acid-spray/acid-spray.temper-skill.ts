@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const acidSpray = {
   id: "019e6226-00ce-7fe3-90bd-0e3d18ef022b",

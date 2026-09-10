@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const savageStrength32638 = {
   id: "019e6f53-a6b8-704a-9e0b-e5ef427a4531",

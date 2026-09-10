@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const natureSEmbrace = {
   id: "019e6f53-a4ac-7de0-b0b0-62f5f33d3947",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const platingsExpertise = {
   id: "019e6224-cca8-733f-bd8f-74945156235d",

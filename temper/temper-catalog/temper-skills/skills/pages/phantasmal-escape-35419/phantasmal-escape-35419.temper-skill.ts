@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const phantasmalEscape35419 = {
   id: "019e6f53-a4fb-7c83-bb72-045814d860a4",

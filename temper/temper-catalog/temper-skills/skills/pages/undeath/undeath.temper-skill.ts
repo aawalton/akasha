@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const undeath = {
   id: "019e6251-4cfb-79f0-99c6-7f15eb1b7670",

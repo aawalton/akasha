@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const hircineSBounty = {
   id: "019e6f53-a31b-7fe9-94e1-e94e6a0ef8e6",

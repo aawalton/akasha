@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const syrabaneSBoon = {
   id: "019e6f53-a813-7434-820d-560f9ca1a83a",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const reconstructiveDomain186234 = {
   id: "019e6f53-a5cb-7329-bbd5-7c582d80623c",

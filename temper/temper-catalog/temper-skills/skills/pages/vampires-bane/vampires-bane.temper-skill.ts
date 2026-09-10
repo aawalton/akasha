@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vampiresBane = {
   id: "019e6245-a75e-7be4-8bee-fe77af884d08",

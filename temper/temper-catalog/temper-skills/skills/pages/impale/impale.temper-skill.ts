@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const impale = {
   id: "019e6245-a6af-73a6-850b-c8afe8fd77bd",

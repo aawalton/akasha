@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const maturation85880 = {
   id: "019e6f53-a466-7f0e-aea0-25c290ac524c",

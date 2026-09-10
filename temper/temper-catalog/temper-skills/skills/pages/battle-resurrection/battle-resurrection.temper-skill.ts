@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const battleResurrection = {
   id: "019e6251-4c8a-7763-82ee-84773472435f",

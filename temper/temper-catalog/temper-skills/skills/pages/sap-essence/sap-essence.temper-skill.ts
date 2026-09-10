@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const sapEssence = {
   id: "019e6245-a722-7c26-84b8-8443dc1cc304",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const breathOfLife = {
   id: "019e6245-a606-7e0b-9275-9d52f1a6bb1d",

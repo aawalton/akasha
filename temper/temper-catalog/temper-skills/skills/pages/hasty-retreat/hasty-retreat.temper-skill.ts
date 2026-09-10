@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const hastyRetreat = {
   id: "019e6226-00f6-7d48-8d2c-f7903f8e0fa0",

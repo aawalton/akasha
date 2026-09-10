@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const sturdyHorn = {
   id: "019e6251-4cf5-7b43-b27c-44f3bf8d1e82",

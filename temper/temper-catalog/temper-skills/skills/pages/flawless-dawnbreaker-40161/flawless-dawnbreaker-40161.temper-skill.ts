@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const flawlessDawnbreaker40161 = {
   id: "019e6f53-a20c-72a1-97f6-e2b30b30309c",

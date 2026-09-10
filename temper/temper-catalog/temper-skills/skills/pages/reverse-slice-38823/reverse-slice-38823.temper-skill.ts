@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const reverseSlice38823 = {
   id: "019e6f53-a64a-74d4-973b-d97a80768ac4",

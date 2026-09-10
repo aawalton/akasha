@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const aspectImprovement = {
   id: "019e6224-cc85-7923-b588-97452f5b4634",

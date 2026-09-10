@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const intensiveMender = {
   id: "019e6245-a6b4-7496-b358-ad5616f4579f",

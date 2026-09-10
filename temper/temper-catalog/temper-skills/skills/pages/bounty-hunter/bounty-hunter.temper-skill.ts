@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const bountyHunter = {
   id: "019e6238-c29e-715a-b1c9-1452572e3902",

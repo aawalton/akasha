@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const mageAdept = {
   id: "019e6238-c2e5-7387-8293-0b8588887e7e",

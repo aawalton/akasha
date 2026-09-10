@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const banishTheWicked = {
   id: "019e6238-c297-7420-a1fe-e54ba76e38ae",

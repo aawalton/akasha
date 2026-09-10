@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const satedFury135841 = {
   id: "019e6f53-a6b1-7736-a460-2b2c488c573c",

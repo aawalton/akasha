@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const deadlyCloak38906 = {
   id: "019e6f53-a091-7f4d-ba38-36b24da2a394",

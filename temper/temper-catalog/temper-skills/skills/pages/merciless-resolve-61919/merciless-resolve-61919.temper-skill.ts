@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const mercilessResolve61919 = {
   id: "019e6f53-a478-730a-a222-8a45bd2c7d35",

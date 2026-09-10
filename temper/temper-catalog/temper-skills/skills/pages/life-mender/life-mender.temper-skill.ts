@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lifeMender = {
   id: "019e624a-12ce-7aea-8f0f-eaa93ab70109",

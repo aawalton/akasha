@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const bondWithNature = {
   id: "019e6245-a601-78d8-8c95-1b1c89574423",

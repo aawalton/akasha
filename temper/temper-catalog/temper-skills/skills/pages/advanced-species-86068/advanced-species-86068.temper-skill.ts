@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const advancedSpecies86068 = {
   id: "019e6f53-9e99-7d50-a393-5ea31db151d9",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const backlash = {
   id: "019e6f53-9edb-7d27-85a4-509c6ecfe86c",

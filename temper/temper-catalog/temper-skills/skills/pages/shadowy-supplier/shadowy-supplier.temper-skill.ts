@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const shadowySupplier = {
   id: "019e6238-c30b-7ee5-bcc2-04e2a734f06b",

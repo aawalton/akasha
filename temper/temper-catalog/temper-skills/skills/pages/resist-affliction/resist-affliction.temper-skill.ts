@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const resistAffliction = {
   id: "019e624a-12d5-7ebe-824d-421a9d606825",

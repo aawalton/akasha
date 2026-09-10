@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const capacitor31419 = {
   id: "019e6f53-9fb3-7c38-89e8-8336235d7be4",

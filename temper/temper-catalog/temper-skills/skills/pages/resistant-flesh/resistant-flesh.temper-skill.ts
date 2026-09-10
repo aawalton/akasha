@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const resistantFlesh = {
   id: "019e6245-a70d-7b81-826f-6aa954b6837c",

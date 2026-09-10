@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const debilitate = {
   id: "019e6245-a646-7e99-8b91-8490561cd1eb",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const icyAura86193 = {
   id: "019e6f53-a345-7f89-8ae4-737e2b29d746",

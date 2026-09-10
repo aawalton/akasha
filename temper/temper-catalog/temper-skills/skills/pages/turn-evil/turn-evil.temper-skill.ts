@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const turnEvil = {
   id: "019e6238-c327-799c-ba29-cfb6fc5be8fd",

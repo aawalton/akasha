@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const summonTwilightTormentor = {
   id: "019e6245-a747-7c23-bb51-e360c609a940",

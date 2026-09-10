@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const unstableWallOfElements39052 = {
   id: "019e6f53-a899-76a6-84e1-e3112c4c2461",

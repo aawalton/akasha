@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const panacea = {
   id: "019e6f53-a4de-791c-9c60-81dea6798c0f",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const accuracy = {
   id: "019e6226-00cd-7371-9e5d-f4f306c4a22e",

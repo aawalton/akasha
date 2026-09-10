@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const twinSlashes = {
   id: "019e6f53-a86e-735a-b01a-4ca9419ea210",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const radiatingRegeneration40079 = {
   id: "019e6f53-a594-7095-8189-a3b326b3b8f9",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const yffresEndurance = {
   id: "019e624a-12e7-7d8b-8051-62f62f514e0a",

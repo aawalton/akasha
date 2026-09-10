@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const mountainGiant = {
   id: "019e6f53-a49e-7b0d-8ce9-74fb19dbc273",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const argonianResistance36583 = {
   id: "019e6f53-9ec1-7078-bed8-3cee6b1cbf52",

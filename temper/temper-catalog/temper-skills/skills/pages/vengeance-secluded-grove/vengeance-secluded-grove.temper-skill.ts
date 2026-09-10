@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceSecludedGrove = {
   id: "019e6f53-a97d-7b57-9d6e-aa3acf647132",

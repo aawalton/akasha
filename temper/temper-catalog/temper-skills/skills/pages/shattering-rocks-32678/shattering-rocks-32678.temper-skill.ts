@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const shatteringRocks32678 = {
   id: "019e6f53-a6ee-7edf-acb4-fb92731be620",

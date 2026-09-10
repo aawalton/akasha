@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const penetratingMagic = {
   id: "019e6226-0101-7789-98ba-e2cfd15594ca",

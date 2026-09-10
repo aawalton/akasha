@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const runespiteWard = {
   id: "019e6f53-a693-725b-9a5e-794fee664f1d",

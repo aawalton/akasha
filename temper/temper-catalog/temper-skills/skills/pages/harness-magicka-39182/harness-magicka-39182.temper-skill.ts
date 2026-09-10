@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const harnessMagicka39182 = {
   id: "019e6f53-a2cf-79df-8500-67a7c6a672de",

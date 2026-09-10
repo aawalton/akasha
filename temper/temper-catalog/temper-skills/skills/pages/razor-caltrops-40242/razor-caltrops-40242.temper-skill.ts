@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const razorCaltrops40242 = {
   id: "019e6f53-a5b7-75a2-9ad7-e4123389ac64",

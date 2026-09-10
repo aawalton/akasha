@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const enchantedForest = {
   id: "019e6245-a664-7dd5-bf55-e3be415974f5",

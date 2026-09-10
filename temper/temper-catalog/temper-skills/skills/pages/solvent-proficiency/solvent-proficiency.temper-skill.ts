@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const solventProficiency = {
   id: "019e6224-ccae-7f33-86df-ff1a843a8037",

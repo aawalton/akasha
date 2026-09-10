@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const heavyArmorPenalties = {
   id: "019e6238-c2c6-7ff2-9386-69f4ee54b396",

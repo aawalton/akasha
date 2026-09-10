@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const ballista85451 = {
   id: "019e6f53-9ee8-70a4-b0a7-8634992edf5a",

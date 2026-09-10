@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const protectTheBrood = {
   id: "019e6245-a6f2-71e3-b331-208180fa744a",

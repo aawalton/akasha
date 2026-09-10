@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const snakeblood47831 = {
   id: "019e6f53-a743-70b0-9fcb-ec9ce9103f9f",

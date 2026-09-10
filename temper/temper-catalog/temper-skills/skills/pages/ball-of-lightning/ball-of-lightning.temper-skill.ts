@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const ballOfLightning = {
   id: "019e6245-a5f3-704d-ba0c-a4b5f5046e8d",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const fetcherInfection86027 = {
   id: "019e6f53-a1f9-7ab0-a0d5-e3f60e5c5a9c",

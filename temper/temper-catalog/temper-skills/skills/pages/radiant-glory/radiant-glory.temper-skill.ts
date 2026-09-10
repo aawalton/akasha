@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const radiantGlory = {
   id: "019e6245-a6f8-7aa2-a226-45c3f25a1754",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const juggernaut = {
   id: "019e6238-c2d2-7ed3-9fc3-02945e21f2b6",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const tough = {
   id: "019e624a-12e4-79ec-8385-beae0a3eb1f4",

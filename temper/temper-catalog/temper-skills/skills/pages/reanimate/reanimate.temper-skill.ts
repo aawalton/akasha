@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const reanimate = {
   id: "019e6f53-a5bc-73f3-a814-01367f266e02",

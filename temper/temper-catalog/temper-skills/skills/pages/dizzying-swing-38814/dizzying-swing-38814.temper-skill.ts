@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const dizzyingSwing38814 = {
   id: "019e6f53-a0df-7c70-bbec-c5911cc86dca",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const igneousWeapons31874 = {
   id: "019e6f53-a34c-741f-b5fb-63946e05c833",

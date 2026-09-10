@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const combatMedic39259 = {
   id: "019e6f53-a004-713b-8f5b-ef7c2941065d",

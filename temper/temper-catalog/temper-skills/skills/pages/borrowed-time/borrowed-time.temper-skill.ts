@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const borrowedTime = {
   id: "019e6238-c29d-71e1-b42f-bb0baba1e0c2",

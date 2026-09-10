@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const rendingSlashes38839 = {
   id: "019e6f53-a5f9-7c19-8f1f-e258cc05c0b0",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const twinBladeAndBlunt = {
   id: "019e6226-011c-743f-8e01-6480b0d2e5fa",

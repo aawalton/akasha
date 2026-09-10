@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const foragerHireling = {
   id: "019e6224-cc95-7e6b-bec6-bbb383e0f8f0",

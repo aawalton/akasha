@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const superheatedWard = {
   id: "019e6f53-a7f5-7c52-8126-9f39761b6afe",

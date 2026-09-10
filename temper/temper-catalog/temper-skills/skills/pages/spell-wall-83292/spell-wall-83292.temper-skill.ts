@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const spellWall83292 = {
   id: "019e6f53-a797-7c1c-a2a9-e401222e55c6",

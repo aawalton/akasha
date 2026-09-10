@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const corruptingPollen85845 = {
   id: "019e6f53-a02c-729f-bee7-fce731d0ba94",

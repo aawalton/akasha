@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const immovable39197 = {
   id: "019e6f53-a356-7fab-8a4b-b71b3f666d42",

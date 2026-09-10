@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const mightOfTheGuild = {
   id: "019e6238-c2ee-7935-9f2c-ee8f513fd311",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const defensiveRune24574 = {
   id: "019e6f53-a0b1-71e0-8ca1-afa977f7be57",

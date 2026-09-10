@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const uppercut = {
   id: "019e6f53-a89f-7a0c-932b-87149e6a03db",

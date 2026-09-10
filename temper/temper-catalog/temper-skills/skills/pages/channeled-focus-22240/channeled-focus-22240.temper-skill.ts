@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const channeledFocus22240 = {
   id: "019e6f53-9fd8-7dc1-8f29-07229ff70240",

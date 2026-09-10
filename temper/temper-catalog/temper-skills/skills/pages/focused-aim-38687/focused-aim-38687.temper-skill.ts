@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const focusedAim38687 = {
   id: "019e6f53-a21e-7888-afc9-5eea2c864d62",

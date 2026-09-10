@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const zenasEmpoweringDisc186229 = {
   id: "019e6f53-aa0f-73b6-a13e-fa26addd0510",

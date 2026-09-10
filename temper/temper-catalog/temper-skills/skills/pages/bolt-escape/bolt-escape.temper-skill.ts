@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const boltEscape = {
   id: "019e6f53-9f68-7575-bb2a-79035ee2d08b",

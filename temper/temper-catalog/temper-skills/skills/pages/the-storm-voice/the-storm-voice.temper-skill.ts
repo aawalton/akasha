@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const theStormVoice = {
   id: "019e6f53-a833-7257-96c9-d6d52d499733",

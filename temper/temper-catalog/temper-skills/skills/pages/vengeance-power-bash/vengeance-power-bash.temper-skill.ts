@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeancePowerBash = {
   id: "019e6f53-a954-741f-827a-6e96344e451c",

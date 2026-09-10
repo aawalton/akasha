@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const gibberingShelter192380 = {
   id: "019e6f53-a27b-778d-8b57-bb0d07c90fa5",

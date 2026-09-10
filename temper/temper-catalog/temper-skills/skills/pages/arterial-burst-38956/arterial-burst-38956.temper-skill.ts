@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const arterialBurst38956 = {
   id: "019e6f53-9ec7-7d5e-ab8a-6c107c3ef211",

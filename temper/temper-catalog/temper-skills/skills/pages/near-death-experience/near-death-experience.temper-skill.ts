@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const nearDeathExperience = {
   id: "019e6245-a6d9-737b-9e20-cde41534d2b2",

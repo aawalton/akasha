@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const gourmand = {
   id: "019e6224-cc97-7030-bd4c-ce81fe02eade",

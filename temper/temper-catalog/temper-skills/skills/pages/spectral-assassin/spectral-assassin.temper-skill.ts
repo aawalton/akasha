@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const spectralAssassin = {
   id: "019e6238-c315-7e75-a06a-ed701d98f617",

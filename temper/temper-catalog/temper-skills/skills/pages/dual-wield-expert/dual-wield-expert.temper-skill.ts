@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const dualWieldExpert = {
   id: "019e6226-00e8-70bc-a563-a202d9a3cd1b",

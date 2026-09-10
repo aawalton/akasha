@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const arrowBarrage38695 = {
   id: "019e6f53-9ec3-7db6-9d85-d8ff586fdfbc",

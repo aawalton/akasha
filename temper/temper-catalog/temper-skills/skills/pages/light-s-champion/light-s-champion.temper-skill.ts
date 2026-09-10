@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lightSChampion = {
   id: "019e6f53-a3f4-71b9-8396-763024a2ac83",

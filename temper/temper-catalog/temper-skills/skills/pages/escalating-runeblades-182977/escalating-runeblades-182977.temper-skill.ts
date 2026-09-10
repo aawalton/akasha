@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const escalatingRuneblades182977 = {
   id: "019e6f53-a19d-795c-bb2b-5f8a5ab1ad44",

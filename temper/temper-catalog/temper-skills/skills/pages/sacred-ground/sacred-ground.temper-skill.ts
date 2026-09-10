@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const sacredGround = {
   id: "019e6245-a720-76c1-b776-2f3f12677730",

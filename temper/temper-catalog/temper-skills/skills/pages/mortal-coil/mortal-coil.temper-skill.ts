@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const mortalCoil = {
   id: "019e6245-a6d3-7b9e-ae16-1a5fac6d5651",

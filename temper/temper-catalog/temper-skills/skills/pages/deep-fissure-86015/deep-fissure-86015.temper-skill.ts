@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const deepFissure86015 = {
   id: "019e6f53-a0a7-7ab0-9af5-b97144521978",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const improvedHiding = {
   id: "019e6251-4cc6-72b1-bf55-0c8dc32d9e43",

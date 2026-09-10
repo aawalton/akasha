@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const domination = {
   id: "019e6251-4ca9-7658-9a4f-7e06d38645e6",

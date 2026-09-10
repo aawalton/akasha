@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const deadlyBash = {
   id: "019e6226-00df-7f02-9920-43196ff5859c",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const elementalSusceptibility39089 = {
   id: "019e6f53-a126-7680-83f6-803cf43254ed",

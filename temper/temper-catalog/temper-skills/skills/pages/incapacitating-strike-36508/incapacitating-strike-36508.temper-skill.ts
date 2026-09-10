@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const incapacitatingStrike36508 = {
   id: "019e6f53-a36c-7bea-95fa-431cf54c5563",

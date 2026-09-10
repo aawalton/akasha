@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const dawnbreakerOfSmiting40158 = {
   id: "019e6f53-a089-78e8-9c51-1c7c5e0a6e7f",

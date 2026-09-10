@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceTheImperfectRing = {
   id: "019e6f53-a99e-7cfc-9973-8f4e4c01ab59",

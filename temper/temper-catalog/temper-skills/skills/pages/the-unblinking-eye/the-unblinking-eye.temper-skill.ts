@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const theUnblinkingEye = {
   id: "019e6f53-a837-7fd0-bf5a-83e2ba20cdf4",

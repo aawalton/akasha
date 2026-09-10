@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const magickaFlood = {
   id: "019e6245-a6c5-7164-8df9-5a8d8cb343bb",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const magnumShot38672 = {
   id: "019e6f53-a44f-7413-ace3-a6da7ce30522",

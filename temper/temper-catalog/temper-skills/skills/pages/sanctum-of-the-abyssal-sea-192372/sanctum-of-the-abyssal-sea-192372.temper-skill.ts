@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const sanctumOfTheAbyssalSea192372 = {
   id: "019e6f53-a6a7-7893-b5af-684a55a34648",

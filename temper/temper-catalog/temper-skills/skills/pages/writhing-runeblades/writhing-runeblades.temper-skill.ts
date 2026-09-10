@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const writhingRuneblades = {
   id: "019e6245-a771-7030-8707-e19040574111",

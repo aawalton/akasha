@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const evolvingRunemend = {
   id: "019e6245-a676-7e3e-af4c-3b14a5478369",

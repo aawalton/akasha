@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lastGasp116271 = {
   id: "019e6f53-a3c1-7f97-8577-25dc2b3585fc",

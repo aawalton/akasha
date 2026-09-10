@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const blazingSpear = {
   id: "019e6245-a5fa-7fe5-b96f-b51350dfc6c6",

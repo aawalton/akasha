@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const hastyPrayer = {
   id: "019e6245-a69c-7cda-b99d-d640836c3f8a",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const teleportStrike = {
   id: "019e6f53-a824-70b1-adc7-54c9660bb87f",

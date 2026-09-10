@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const fulminatingRune182988 = {
   id: "019e6f53-a262-73a2-aa7e-9e391b8c0107",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const bindingJavelin = {
   id: "019e6245-a5f6-71d3-97e2-21139673915e",

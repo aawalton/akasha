@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const momentum = {
   id: "019e6f53-a497-7626-b486-5f24cb3abb2b",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const efficientPurge = {
   id: "019e6251-4cad-745c-a800-eed6d61240c0",

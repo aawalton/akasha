@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const standardOfMight32947 = {
   id: "019e6f53-a7b5-7c30-8df1-8715d51cfe33",

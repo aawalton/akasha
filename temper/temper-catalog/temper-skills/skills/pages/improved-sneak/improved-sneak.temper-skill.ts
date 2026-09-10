@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const improvedSneak = {
   id: "019e6238-c2ca-7db7-aa23-2048d0350b65",

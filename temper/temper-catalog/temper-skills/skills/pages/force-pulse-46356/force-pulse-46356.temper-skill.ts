@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const forcePulse46356 = {
   id: "019e6f53-a227-7ebb-9c36-d57308e90fcb",

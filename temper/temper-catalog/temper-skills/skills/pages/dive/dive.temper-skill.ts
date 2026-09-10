@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const dive = {
   id: "019e6f53-a0d9-7e2d-8bf4-d2369c20c1c9",

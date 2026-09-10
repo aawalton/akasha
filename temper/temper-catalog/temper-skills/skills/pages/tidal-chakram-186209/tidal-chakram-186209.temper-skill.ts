@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const tidalChakram186209 = {
   id: "019e6f53-a83f-7100-a565-69624df73807",

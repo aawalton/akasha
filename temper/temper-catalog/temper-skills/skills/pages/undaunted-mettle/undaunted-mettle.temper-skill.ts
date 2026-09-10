@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const undauntedMettle = {
   id: "019e6238-c329-76dd-96b9-91e2459f70a0",

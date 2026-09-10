@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const audaciousRunemend186191 = {
   id: "019e6f53-9ed1-75af-b974-2c61d0e53065",

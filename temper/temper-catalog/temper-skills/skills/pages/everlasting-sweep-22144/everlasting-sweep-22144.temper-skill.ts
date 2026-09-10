@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const everlastingSweep22144 = {
   id: "019e6f53-a1ab-7dcb-9943-6e8216aaeb87",

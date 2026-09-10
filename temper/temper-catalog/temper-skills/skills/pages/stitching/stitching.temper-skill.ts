@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const stitching = {
   id: "019e6224-ccaf-7da2-a062-472143fb67fb",

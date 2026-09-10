@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const swarmingScion = {
   id: "019e6251-4cf6-7ed0-8b93-85b7c967fb95",

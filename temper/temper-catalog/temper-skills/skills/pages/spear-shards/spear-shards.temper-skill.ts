@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const spearShards = {
   id: "019e6f53-a77f-7c78-be65-2a4745af63f0",

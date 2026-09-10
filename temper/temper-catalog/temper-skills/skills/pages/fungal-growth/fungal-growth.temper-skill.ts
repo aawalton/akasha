@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const fungalGrowth = {
   id: "019e6f53-a264-7cbc-813e-58612cf713df",

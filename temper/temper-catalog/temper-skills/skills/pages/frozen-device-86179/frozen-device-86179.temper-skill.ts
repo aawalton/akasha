@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const frozenDevice86179 = {
   id: "019e6f53-a254-75a5-8b28-822beddd9673",

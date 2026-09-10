@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const radiantAura26807 = {
   id: "019e6f53-a57d-7cf7-bb21-06a49d809ea8",

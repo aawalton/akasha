@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const shatteringSpines = {
   id: "019e6245-a72c-7fd5-b798-eebf800b56e3",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const swordAndBoard = {
   id: "019e6226-0118-7cbc-9a8b-f9fed24efb10",

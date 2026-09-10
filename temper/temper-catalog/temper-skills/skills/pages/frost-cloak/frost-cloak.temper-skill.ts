@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const frostCloak = {
   id: "019e6f53-a246-79d2-9366-59c3252d1305",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const fortress = {
   id: "019e6226-00f5-735a-a4e2-5efcff7c22ed",

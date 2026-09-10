@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const werewolfBerserker39076 = {
   id: "019e6f53-a9e5-750a-a40e-92e4951adfc4",

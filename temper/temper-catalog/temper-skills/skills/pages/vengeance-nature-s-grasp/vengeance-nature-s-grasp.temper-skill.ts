@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceNatureSGrasp = {
   id: "019e6f53-a943-70c7-a90a-e895ad1f133c",

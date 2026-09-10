@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const rushedCeremony = {
   id: "019e6f53-a69f-7a07-96f0-39be15ab421c",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const pulsar39161 = {
   id: "019e6f53-a559-7a38-b03a-904c08a78d24",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const glyphicOfTheTides193794 = {
   id: "019e6f53-a293-73ac-9423-e96e96fc3656",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const leechingVines85850 = {
   id: "019e6f53-a3d9-7c7b-b354-8121cc731c69",

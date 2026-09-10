@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const criticalRush = {
   id: "019e6226-00dd-7825-9439-7ece7644e5de",

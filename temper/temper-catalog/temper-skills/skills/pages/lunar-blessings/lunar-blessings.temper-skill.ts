@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lunarBlessings = {
   id: "019e624a-12cf-7c22-adaf-3ba578576319",

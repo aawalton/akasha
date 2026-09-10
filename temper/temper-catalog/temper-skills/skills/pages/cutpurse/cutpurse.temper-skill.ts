@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const cutpurse = {
   id: "019e624a-12c4-7739-87f3-6cc555a094a6",

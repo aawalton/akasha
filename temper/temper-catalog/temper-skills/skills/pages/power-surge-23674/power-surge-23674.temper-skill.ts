@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const powerSurge23674 = {
   id: "019e6f53-a534-7f96-8181-7cb89daf2936",

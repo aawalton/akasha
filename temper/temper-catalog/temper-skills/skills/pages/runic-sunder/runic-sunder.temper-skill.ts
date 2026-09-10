@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const runicSunder = {
   id: "019e6245-a71f-72e5-8c96-b1a7ebd13b1c",

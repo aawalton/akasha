@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceRuneFocus = {
   id: "019e6f53-a96c-7782-8942-a68dbc71904f",

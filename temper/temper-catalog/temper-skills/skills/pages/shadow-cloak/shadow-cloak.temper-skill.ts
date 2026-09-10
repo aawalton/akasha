@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const shadowCloak = {
   id: "019e6f53-a6d8-7b4a-b0b6-d7c23d1ac05a",

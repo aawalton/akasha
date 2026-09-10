@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const summonUnstableClannfear23319 = {
   id: "019e6f53-a7e7-7fc8-906d-59028eab45a9",

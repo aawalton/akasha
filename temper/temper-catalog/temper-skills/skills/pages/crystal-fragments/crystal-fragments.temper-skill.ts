@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const crystalFragments = {
   id: "019e6245-a629-7674-aadd-1c7eba5fbc90",

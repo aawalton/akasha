@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const pestilentColossus = {
   id: "019e6245-a6e1-7ba0-b050-d71e5b838cbc",

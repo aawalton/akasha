@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const reusableParts = {
   id: "019e6245-a712-71dc-a8ef-da59c7f0eb8a",

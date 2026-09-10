@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const sacrificialBones = {
   id: "019e6f53-a6a4-72cc-bdd4-d2869970b84d",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const deafeningRoar39114 = {
   id: "019e6f53-a095-7769-9564-2537b4200857",

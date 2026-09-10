@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const elementalForce30962 = {
   id: "019e6f53-a118-77a3-9859-16f48ac8603b",

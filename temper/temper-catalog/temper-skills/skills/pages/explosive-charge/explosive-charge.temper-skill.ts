@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const explosiveCharge = {
   id: "019e6245-a67d-701c-9c91-8f2baf789c91",

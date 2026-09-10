@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const resonatingGlyphic = {
   id: "019e6245-a70e-7db6-8ac8-0ab83ba9319e",

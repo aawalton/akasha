@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const powerSlam38452 = {
   id: "019e6f53-a52e-75f9-9ae4-ebe16abe7ee8",

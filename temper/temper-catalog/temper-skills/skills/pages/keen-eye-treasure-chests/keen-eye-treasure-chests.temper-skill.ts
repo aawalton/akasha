@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const keenEyeTreasureChests = {
   id: "019e6251-4cca-7337-aa29-ddd45557d6e0",

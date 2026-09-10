@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const piercingCold86195 = {
   id: "019e6f53-a503-787a-b2ee-db97d9035067",

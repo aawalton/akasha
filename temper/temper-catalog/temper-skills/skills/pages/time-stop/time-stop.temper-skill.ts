@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const timeStop = {
   id: "019e6f53-a843-7eb3-b870-44fc28a8404e",

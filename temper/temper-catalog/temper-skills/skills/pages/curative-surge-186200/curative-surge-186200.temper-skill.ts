@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const curativeSurge186200 = {
   id: "019e6f53-a055-7fb6-abc0-0cca9bc92a34",

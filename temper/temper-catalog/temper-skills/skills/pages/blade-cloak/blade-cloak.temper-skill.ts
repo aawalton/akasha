@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const bladeCloak = {
   id: "019e6f53-9f17-7175-a7bb-f9459dc65461",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const forceShock = {
   id: "019e6f53-a22a-7169-ba45-ee192e534f73",

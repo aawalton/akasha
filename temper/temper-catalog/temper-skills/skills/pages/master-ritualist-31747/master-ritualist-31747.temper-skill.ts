@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const masterRitualist31747 = {
   id: "019e6f53-a463-7ac3-b580-faa75b08f6e5",

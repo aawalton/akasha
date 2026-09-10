@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const vengeanceBlessingOfProtection = {
   id: "019e6f53-a8c2-711f-80a4-665743139c87",

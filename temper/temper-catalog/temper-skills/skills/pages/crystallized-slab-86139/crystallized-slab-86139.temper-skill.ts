@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const crystallizedSlab86139 = {
   id: "019e6f53-a050-795c-8fd9-aad66f3abed7",

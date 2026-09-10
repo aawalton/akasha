@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const winterSRevenge = {
   id: "019e6f53-a9f6-7ae8-978c-c6f46197a3c6",

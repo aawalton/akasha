@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const adrenalineRush = {
   id: "019e624a-12bb-7319-8fe4-6abb0101350d",

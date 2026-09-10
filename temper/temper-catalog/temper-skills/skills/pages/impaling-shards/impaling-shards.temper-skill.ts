@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const impalingShards = {
   id: "019e6f53-a35b-7535-8d38-8e625180c1ca",

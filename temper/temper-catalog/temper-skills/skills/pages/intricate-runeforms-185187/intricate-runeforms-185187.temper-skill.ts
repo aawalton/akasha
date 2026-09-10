@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const intricateRuneforms185187 = {
   id: "019e6f53-a38a-7638-9107-93cf9f51a512",

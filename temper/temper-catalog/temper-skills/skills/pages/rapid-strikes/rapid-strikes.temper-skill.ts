@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const rapidStrikes = {
   id: "019e6226-010b-786a-b92d-3a91a8ea5ae5",

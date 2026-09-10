@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const volcanicWard = {
   id: "019e6245-a766-73e5-834e-a9a10a99f219",

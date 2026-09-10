@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const trafficker = {
   id: "019e6251-4cf9-7505-bd13-cd37c6fe9348",

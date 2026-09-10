@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const iceFortress = {
   id: "019e6245-a6aa-73a2-b2e9-5d96f3a6ace8",

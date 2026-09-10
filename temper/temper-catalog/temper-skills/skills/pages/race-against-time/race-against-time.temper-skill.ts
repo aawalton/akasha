@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const raceAgainstTime = {
   id: "019e6238-c2fa-7b8a-aa47-663b43875c8e",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const engraver = {
   id: "019e6224-cc94-7a40-9a5e-dcad1f2978fc",

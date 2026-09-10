@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const heavyShovel = {
   id: "019e6251-4cbd-78db-a21e-aa162f344cb1",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const recuperativeTreatise183047 = {
   id: "019e6f53-a5cf-7592-b5eb-586ef239ce13",

@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const healingThicket = {
   id: "019e6245-a69e-7dd0-9f37-40faa6da6b2b",

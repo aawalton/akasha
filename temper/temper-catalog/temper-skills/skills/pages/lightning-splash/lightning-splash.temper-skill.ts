@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const lightningSplash = {
   id: "019e6f53-a3fd-7a56-afa1-107d9d736046",

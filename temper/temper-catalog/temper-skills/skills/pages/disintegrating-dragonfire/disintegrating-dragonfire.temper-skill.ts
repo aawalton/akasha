@@ -1,4 +1,4 @@
-import type { TemperSkill } from "../../temper-skill.page-type.ts"
+import type { TemperSkill } from "../../temper-skill.page-type.types.ts"
 
 export const disintegratingDragonfire = {
   id: "019e6245-a659-76d8-85de-0915d28c4549",
