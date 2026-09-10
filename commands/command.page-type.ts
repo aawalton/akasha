@@ -53,7 +53,6 @@ export const command = {
     "module/landing-saying",
     "module/restating",
     "module/differing",
-    "module/patching",
     "module/folder-clearing",
     "module/orphaning",
     "module/holding",
