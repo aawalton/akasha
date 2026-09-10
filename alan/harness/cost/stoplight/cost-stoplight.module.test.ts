@@ -246,10 +246,6 @@ test("nothing between here and the tile is allowed to keep an answer", async () 
   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
 })
 
-function fellPast(took: Date, hours: number): string {
-  return new Date(took.getTime() + hours * 3_600_000).toISOString()
-}
-
 function falling(cost: number, hours: number, rate: number): Date {
   const took = new Date()
   relayedFor(COST, cost, took)
@@ -257,40 +253,49 @@ function falling(cost: number, hours: number, rate: number): Date {
   return took
 }
 
-test("a cost above nothing carries the instant the surplus reaches the rung under it", async () => {
-  const took = falling(0.5, 9, 1)
-  expect((await oneDrawn())?.fallsPastAt).toBe(fellPast(took, 5))
-})
-
-test("the wait is divided by the rate the surplus falls at rather than by the cost", async () => {
+test("a cost above nothing carries the surplus its color was read with", async () => {
   const took = falling(0.5, 9, 2)
-  expect((await oneDrawn())?.fallsPastAt).toBe(fellPast(took, 2.5))
+  const carried = (await oneDrawn())?.coloredWith
+  expect(carried?.reading).toBe("9")
+  expect(carried?.takenAt).toBe(took.toISOString())
+  expect(carried?.fallsPerHour).toBe(2)
+  expect(carried?.tier).toBe("blue")
 })
 
-test("a cost of nothing carries no instant", async () => {
+test("the surplus carried brings the rungs the tile needs to color it again", async () => {
+  falling(0.5, 9, 2)
+  expect((await oneDrawn())?.coloredWith?.rungs?.length).toBe(5)
+})
+
+test("no stoplight carries an instant worked out at the moment taken", async () => {
+  falling(0.5, 9, 2)
+  const one = await oneDrawn()
+  expect(Object.keys(one ?? {})).not.toContain("fallsPastAt")
+  expect(Object.keys(one?.coloredWith ?? {})).not.toContain("fallsPastAt")
+})
+
+test("a cost of nothing carries no surplus, an hour of it costing Alan nothing", async () => {
   falling(0, 9, 1)
-  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
+  expect((await oneDrawn())?.coloredWith).toBeUndefined()
 })
 
-test("a surplus falling at nothing an hour leaves the cost carrying no instant", async () => {
+test("a surplus falling at nothing an hour is carried with neither moment nor rungs", async () => {
   falling(0.5, 9, 0)
-  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
+  const carried = (await oneDrawn())?.coloredWith
+  expect(carried?.reading).toBe("9")
+  expect(carried?.fallsPerHour).toBeUndefined()
+  expect(carried?.rungs).toBeUndefined()
 })
 
-test("a surplus at the lowest rung leaves the cost carrying no instant", async () => {
-  falling(0.5, -12, 1)
-  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
-})
-
-test("a cost carried with no surplus beside it carries no instant", async () => {
+test("a cost carried with no surplus beside it carries none", async () => {
   relayedFor(COST, 0.5)
-  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
+  expect((await oneDrawn())?.coloredWith).toBeUndefined()
 })
 
-test("a surplus older than the window leaves the cost carrying no instant", async () => {
+test("a surplus older than the window is not carried, there being no figure to read on", async () => {
   relayedFor(COST, 0.5)
   relayedFor(SURPLUS, 9, agedOut(), 1)
-  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
+  expect((await oneDrawn())?.coloredWith).toBeUndefined()
 })
 
 test("a caller wanting the colors without a route asks for them on their own", async () => {

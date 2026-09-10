@@ -1,6 +1,6 @@
 import { askingFor } from "@akasha/pages/service/calling"
 import { READOUT_CACHE_CONTROL } from "../credential/readout-credential.module.code.ts"
-import { fallsPastAt } from "../falling-past/readout-falling-past.module.code.ts"
+
 import { stated } from "../none-left/readout-none-left.module.code.ts"
 import {
   type HeldReading,
@@ -42,8 +42,8 @@ export type Stoplight = {
   readonly figureOffScale?: boolean
   readonly takenAt?: string
   readonly fallsPerHour?: number
-  readonly fallsPastAt?: string
   readonly rungs?: readonly Rung[]
+  readonly coloredWith?: Stoplight
 }
 
 export type Values = Readonly<Record<string, unknown>>
@@ -69,13 +69,11 @@ function wireKeyed(wireKeyName: string, wireKey: string): Pick<Stoplight, "habit
 export function fallingWith(
   reading: Extract<HeldReading, { held: "fresh" }>,
   rungs: readonly Rung[]
-): Pick<Stoplight, "takenAt" | "fallsPerHour" | "fallsPastAt" | "rungs"> {
+): Pick<Stoplight, "takenAt" | "fallsPerHour" | "rungs"> {
   if (reading.fallsPerHour === 0) return {}
-  const past = fallsPastAt(reading.value, reading.fallsPerHour, reading.at, rungs)
   return {
     takenAt: reading.at,
     fallsPerHour: reading.fallsPerHour,
-    ...(past === null ? {} : { fallsPastAt: past }),
     ...(rungs.length === 0 ? {} : { rungs }),
   }
 }

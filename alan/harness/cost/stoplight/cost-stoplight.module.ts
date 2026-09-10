@@ -73,30 +73,35 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost above nothing carries the instant the surplus reaches the rung under it.",
+      statement:
+        "A cost above nothing carries the whole surplus stoplight its color was read with.",
     },
     {
       invariantKind: "departure",
-      statement: "The instant carried is the surplus stoplight's own rather than one worked here.",
+      statement: "The surplus carried is the one answered rather than a second reach for it.",
     },
     {
       invariantKind: "departure",
-      statement: "A cost of nothing carries no instant, an hour of it costing Alan nothing.",
+      statement: "A cost of nothing carries no surplus, an hour of it costing Alan nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A surplus missing or too old is not carried, there being no figure to read on.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The wait is divided by the rate the surplus falls at rather than by the cost itself.",
+        "No wait is worked out here, the tile having what it needs to work its own from now.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A wait is divided by the rate the surplus falls at rather than by the cost itself.",
     },
     {
       invariantKind: "departure",
       statement:
         "A cost above nothing means a surplus falling, the block priced being one it sums.",
-    },
-    {
-      invariantKind: "constraint",
-      statement:
-        "An instant sent before a block opened is wrong until the surplus is served again.",
     },
     {
       invariantKind: "departure",

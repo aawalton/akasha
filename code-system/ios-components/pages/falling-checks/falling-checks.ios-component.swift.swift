@@ -8,13 +8,14 @@ import Foundation
 enum FallingChecks {
     static let TOOK_AT = "2026-09-10T16:00:00.000Z"
 
-    static let PAST_AT = "2026-09-10T20:55:33.600Z"
-
     static let FALLS = #","takenAt":"\#(TOOK_AT)","fallsPerHour":1"#
 
     static let RESTS = #","takenAt":"\#(TOOK_AT)","fallsPerHour":0"#
 
-    static let SENT = #","fallsPastAt":"\#(PAST_AT)""#
+    static var SENT: String {
+        #","coloredWith":{"tier":"blue","reading":"4.5","takenAt":"\#(TOOK_AT)","#
+            + #""fallsPerHour":1\#(surplusRungs())}"#
+    }
 
     static let read: ISO8601DateFormatter = {
         let reader = ISO8601DateFormatter()
@@ -70,12 +71,16 @@ enum FallingChecks {
                 "neither key sent"
             ),
             (
-                "a cost carrying the instant it falls past a rung decodes with that instant",
-                costing(SENT)?.fallsPastAt == PAST_AT, String(describing: costing(SENT))
+                "a cost carrying the surplus it was colored with decodes with the whole of it",
+                costing(SENT)?.coloredWith
+                    == ColoredWith(
+                        tier: .blue, reading: "4.5", takenAt: TOOK_AT, fallsPerHour: 1,
+                        rungs: SURPLUS),
+                String(describing: costing(SENT)?.coloredWith)
             ),
             (
-                "a cost saying nothing of falling past a rung decodes carrying none",
-                costing("") != nil && costing("")?.fallsPastAt == nil, "no such key sent"
+                "a cost saying nothing of what colored it decodes carrying none",
+                costing("") != nil && costing("")?.coloredWith == nil, "no such key sent"
             ),
         ]
     }
@@ -122,36 +127,69 @@ enum FallingChecks {
         ]
     }
 
+    private static func carried(_ figure: String, _ rate: Double?, _ rungs: [Rung]?) -> ColoredWith
+    {
+        ColoredWith(
+            tier: .blue, reading: figure, takenAt: TOOK_AT, fallsPerHour: rate, rungs: rungs)
+    }
+
     static func counting() -> [(String, Bool, String)] {
-        let at = read.date(from: PAST_AT)
-        let before = at?.addingTimeInterval(-1800) ?? tookAt
-        let past = at?.addingTimeInterval(1800) ?? tookAt
+        let falling = carried("4.5", 1, SURPLUS)
+        let anHourOn = tookAt.addingTimeInterval(3600)
         return [
             (
-                "an instant still ahead is the moment counted down to",
-                CostCountdown.reaching(PAST_AT, before) == at, "half an hour to go"
+                "the wait is to the rung under the figure at the moment taken",
+                CostCountdown.reaching(falling, tookAt) == tookAt.addingTimeInterval(1800),
+                String(describing: CostCountdown.reaching(falling, tookAt))
             ),
             (
-                "an instant already gone is no moment at all",
-                CostCountdown.reaching(PAST_AT, past) == nil, "half an hour past"
+                "a rung already crossed is not counted to, the wait aiming at the one under it",
+                CostCountdown.reaching(falling, anHourOn) == anHourOn.addingTimeInterval(12600),
+                String(describing: CostCountdown.reaching(falling, anHourOn))
             ),
             (
-                "an instant exactly now is no moment at all",
-                CostCountdown.reaching(PAST_AT, at ?? before) == nil, "the moment itself"
+                "the wait counted to is always ahead, never a moment already gone",
+                CostCountdown.reaching(falling, anHourOn).map { $0 > anHourOn } == true,
+                "ahead of the moment drawn"
             ),
             (
-                "no instant sent is no moment at all",
-                CostCountdown.reaching(nil, before) == nil, "no key sent"
+                "a reading falling twice as fast reaches the rung under it twice as soon",
+                CostCountdown.reaching(carried("4.5", 2, SURPLUS), tookAt)
+                    == tookAt.addingTimeInterval(900),
+                "half of half an hour"
             ),
             (
-                "an instant that is no instant is no moment at all",
-                CostCountdown.reaching("never", before) == nil, "words where a moment goes"
+                "a surplus falling at nothing an hour is counted to at no moment",
+                CostCountdown.reaching(carried("4.5", 0, SURPLUS), tookAt) == nil, "a rate of none"
             ),
             (
-                "an instant with no fractional seconds is counted to as well",
-                CostCountdown.reaching("2026-09-10T20:55:33Z", before)
-                    == read.date(from: "2026-09-10T20:55:33.000Z"),
-                "a plain instant"
+                "a surplus sent with no rungs is counted to at no moment",
+                CostCountdown.reaching(carried("4.5", 1, nil), tookAt) == nil, "no rungs sent"
+            ),
+            (
+                "a surplus under every rung has none left to reach",
+                CostCountdown.reaching(carried("-12", 1, SURPLUS), tookAt) == nil, "at the worst"
+            ),
+            (
+                "a surplus whose figure is no number is counted to at no moment",
+                CostCountdown.reaching(carried("", 1, SURPLUS), tookAt) == nil, "an empty figure"
+            ),
+            (
+                "no surplus carried at all is counted to at no moment",
+                CostCountdown.reaching(nil, tookAt) == nil, "no key sent"
+            ),
+            (
+                "a cost drawn yellow follows the surplus down to red and then to black",
+                CostCountdown.shown(.yellow, .blue) == .yellow
+                    && CostCountdown.shown(.yellow, .green) == .red
+                    && CostCountdown.shown(.yellow, .yellow) == .black,
+                "the band where the surplus decides"
+            ),
+            (
+                "a cost drawn green or black is left as the server drew it",
+                CostCountdown.shown(.green, .black) == .green
+                    && CostCountdown.shown(.black, .blue) == .black,
+                "a cost of nothing, and a cost above one"
             ),
         ]
     }

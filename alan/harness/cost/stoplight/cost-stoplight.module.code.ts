@@ -44,10 +44,10 @@ export async function surplusNow(
 export function countingDown(
   cost: number,
   surplus: Stoplight | null
-): Pick<Stoplight, "fallsPastAt"> {
-  if (!(cost > 0)) return {}
-  const past = surplus?.fallsPastAt
-  return past === undefined ? {} : { fallsPastAt: past }
+): Pick<Stoplight, "coloredWith"> {
+  if (!(cost > 0) || surplus === null) return {}
+  if (surplus.readingHeld !== undefined) return {}
+  return { coloredWith: surplus }
 }
 
 export function costStoplightWith(

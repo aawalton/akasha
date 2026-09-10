@@ -160,15 +160,12 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A falling stoplight carries the instant it reaches the rung under it as well.",
+      statement:
+        "No stoplight carries when a reading reaches a rung, a tile with the rungs working it.",
     },
     {
       invariantKind: "departure",
-      statement: "Which instant that is comes from the falling-past module rather than from here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A falling reading with no rung under it carries no instant.",
+      statement: "A wait worked out at the moment taken is a wait aimed at the wrong rung later.",
     },
     {
       invariantKind: "departure",

@@ -37,12 +37,12 @@ struct CostHomeView: View {
 
     private var ring: some View {
         SurplusRing(
-            tier: cost?.tier,
+            tier: CostCountdown.tier(cost, entry.date),
             reading: cost?.reading,
             caption: costCaption(entry.state),
             nextTier: cost?.nextTier,
             progress: cost?.progress,
-            until: CostCountdown.reaching(cost?.fallsPastAt, entry.date)
+            until: CostCountdown.reaching(cost?.coloredWith, entry.date)
         )
     }
 }

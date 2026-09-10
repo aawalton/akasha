@@ -22,37 +22,50 @@ export const costRing = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost carrying the instant the surplus falls past a rung counts down to it.",
+      statement: "A cost carrying the surplus it was colored with counts down to that surplus.",
     },
     {
       invariantKind: "departure",
-      statement: "The feed sends that instant rather than a wait, a wait being stale at once.",
+      statement: "The wait is aimed from the figure as of the moment drawn rather than as taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rung already crossed is never aimed at, the one under it being aimed at.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The wait shrinks a second a second whatever the rate, so no rate reaches the phone.",
+        "The wait shrinks a second a second whatever the rate, so the rate fixes the moment only.",
     },
     {
       invariantKind: "departure",
-      statement: "A cost carrying no such instant keeps the caption the readout's page names.",
+      statement: "A cost carrying no such surplus keeps the caption the readout's page names.",
     },
     {
       invariantKind: "departure",
-      statement: "An instant already gone is no instant, the caption falling back to the label.",
+      statement: "The color is read again from the surplus as of the moment drawn.",
     },
     {
       invariantKind: "departure",
-      statement: "The instant is read by the reader the falling figure is read by.",
+      statement:
+        "Which band a cost is priced in is read back off the color the server drew rather than the figure.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure is floored before it is sent, so a band read off a figure reads wrong.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost drawn green or black is left as the server drew it.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "The instant is judged gone against the moment drawn, so one passing between draws stands.",
+        "A tile is drawn once a timeline, so a rung crossed between draws is aimed at until the next.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works out when a surplus reaches a rung.",
+      statement: "Nothing here says which rungs a scale has.",
     },
   ],
 } as const satisfies IosComponent

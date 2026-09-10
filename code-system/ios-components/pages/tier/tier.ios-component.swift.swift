@@ -112,4 +112,16 @@ enum ReadingScale {
         if falls(rungs) { return fellTo(reading, rungs) }
         return nil
     }
+
+    // THE RUNG A FALLING READING REACHES NEXT IS THE HIGHEST ONE IT IS STRICTLY OVER.
+    //
+    // A reading sitting exactly on a rung is answered the rung under that one, it having
+    // already reached the one it sits on. A reading under every rung reaches none.
+    static func rungUnder(_ reading: Double, _ rungs: [Rung]) -> Double? {
+        var under: Double? = nil
+        for rung in rungs where rung.at < reading {
+            if under == nil || rung.at > (under ?? 0) { under = rung.at }
+        }
+        return under
+    }
 }

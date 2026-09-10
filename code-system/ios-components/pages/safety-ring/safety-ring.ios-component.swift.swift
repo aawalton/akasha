@@ -11,8 +11,42 @@ struct HabitStoplight: Decodable, Hashable {
     var figureOffScale: Bool? = nil
     var takenAt: String? = nil
     var fallsPerHour: Double? = nil
-    var fallsPastAt: String? = nil
     var rungs: [Rung]? = nil
+    var coloredWith: ColoredWith? = nil
+}
+
+// THE READING A STOPLIGHT'S COLOR WAS READ WITH, WHERE THAT IS SOME OTHER READING.
+//
+// The cost is priced by the block Alan is in, but the color a cost is drawn in is read with
+// the surplus, so a cost tile holding only its own reading cannot color itself again once
+// the surplus has fallen. This carries the surplus that colored it, and the tile reads the
+// surplus forward the same way it reads any falling reading forward.
+//
+// It is a shape of its own rather than a stoplight inside a stoplight, a struct holding one
+// of itself having no size Swift can settle.
+struct ColoredWith: Decodable, Hashable {
+    let tier: Tier
+    let reading: String?
+    var takenAt: String? = nil
+    var fallsPerHour: Double? = nil
+    var rungs: [Rung]? = nil
+}
+
+extension ColoredWith {
+    func tier(asOf now: Date) -> Tier {
+        FallingReading.tiered(
+            reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, rungs: rungs, now: now
+        )?.tier ?? tier
+    }
+
+    // THE WAIT IS AIMED FROM THE FIGURE AS OF NOW, SO A RUNG ALREADY CROSSED IS NOT AIMED AT.
+    func reaching(_ now: Date) -> Date? {
+        guard let rungs, let fallsPerHour, fallsPerHour > 0 else { return nil }
+        let value = FallingReading.falling(
+            reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, now: now)
+        guard let value, let under = ReadingScale.rungUnder(value, rungs) else { return nil }
+        return now.addingTimeInterval((value - under) / fallsPerHour * 3600)
+    }
 }
 
 extension HabitStoplight {

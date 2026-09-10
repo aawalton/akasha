@@ -388,7 +388,6 @@ test("a stoplight whose reading falls with the clock carries the moment and the 
   const one = await oneDrawn(2.5, took, 2)
   expect(one?.takenAt).toBe(took.toISOString())
   expect(one?.fallsPerHour).toBe(2)
-  expect(one?.fallsPastAt).toBe(new Date(took.getTime() + 900_000).toISOString())
 })
 
 test("a falling stoplight carries the rungs of the scale it was colored with", async () => {

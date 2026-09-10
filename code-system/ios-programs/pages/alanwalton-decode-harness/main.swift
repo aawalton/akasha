@@ -292,7 +292,7 @@ check(
     fallingUpkeep("") != nil && fallingUpkeep("")?.fallsPerHour == nil,
     "neither key sent")
 check(
-    "an upkeep circle carrying the instant decodes rather than being refused",
+    "an upkeep circle carrying what colored it decodes rather than being refused",
     fallingUpkeep(FallingChecks.SENT) != nil,
     "a key the upkeep tile reads nothing from")
 
