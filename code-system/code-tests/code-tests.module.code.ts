@@ -1,5 +1,6 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
+import { AKASHA, repos, rootEnvName, rootsHere } from "@akasha/pages/checkout-roots"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Said } from "@akasha/utils/run/running"
 import { ran } from "@akasha/utils/run/running"
@@ -233,13 +234,24 @@ export function batchedOf(named: readonly string[]): readonly (readonly string[]
   return held
 }
 
+function rootsOver(over: Overlay): Readonly<Record<string, string>> {
+  const at = rootsHere()
+  const held: Record<string, string> = { [rootEnvName(AKASHA)]: over.merged }
+  for (const repo of repos()) {
+    if (repo === AKASHA) continue
+    const root = at[repo]
+    if (root !== undefined) held[rootEnvName(repo)] = root
+  }
+  return held
+}
+
 function runsIn(
   root: string,
   argv: readonly string[],
   ceiling: number | null,
   over: Overlay | null
 ): Said {
-  const env = over === null ? process.env : { ...process.env, ...over.env }
+  const env = over === null ? process.env : { ...process.env, ...over.env, ...rootsOver(over) }
   const held = { cwd: root, env: { ...env, [RUNNING]: MARK } }
   const called = over === null ? [...argv] : [...over.under(argv)]
   return ran(called, ceiling === null ? held : { ...held, cpuCeiling: ceiling })
