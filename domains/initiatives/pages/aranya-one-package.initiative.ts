@@ -34,7 +34,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "Each fold is `change-file` off `manifest`, `change-page-page-type` to `domain`, `remove-package-manifest`. Folded: pages, rules-engine, supabase-auth, utils, indexes, code-system, pages-ui, calendar-sync, auth-proxy, backup-retention. A fold lengthens every specifier into it, so a file near the byte ceiling crosses it and refuses that landing; split it first. 62 manifests are left: 48 eso-addon, 5 router-app, 3 ios-app, 2 config, cluster-manifests, vscode-typings and ops-extension.\n",
+        "Each fold is `change-file` off `manifest` then `remove-package-manifest`, and `change-page-page-type` to `domain` only where the page was a bare workspace-package. Every eso-addon is folded. 13 manifests are left beside the root: 7 web apps, 3 ios-app, cluster-manifests, vscode-typings and ops-extension. A fold lengthens every specifier into it, so a file near the byte ceiling crosses it and refuses that landing; split it first.\n",
     },
     {
       statement: "One change replaces every relative path in a folder with an absolute path.",
