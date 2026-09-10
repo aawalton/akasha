@@ -8,7 +8,7 @@ import {
   rolledInto,
 } from "../entry-landing/page-entry-landing.module.code.ts"
 import { lineFor } from "../entry-writing/page-entry-writing.module.code.ts"
-import type { Value } from "../value/page-value.module.code.ts"
+import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 
 type Chunk = { path: string; text: string }
 

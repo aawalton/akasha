@@ -13,7 +13,7 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "../file-parts/page-file-parts.module.code.ts"
-import type { Value } from "../value/page-value.module.code.ts"
+import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 
 const NO_NAME = "is no page file, so the files beside that page have no name"
 

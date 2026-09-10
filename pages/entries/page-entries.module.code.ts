@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { ENTRY_PROPERTY } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { besideAt, uncommittedBesideAt } from "../file-name/page-file-name.module.code.ts"
 import { partsOf, uncommittedPartsOf } from "../file-parts/page-file-parts.module.code.ts"
-import type { Value } from "../value/page-value.module.code.ts"
+import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 
 const UNKNOWN = "so what the page carries there is unknown rather than nothing"
 

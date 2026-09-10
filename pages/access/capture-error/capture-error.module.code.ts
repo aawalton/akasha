@@ -5,7 +5,7 @@ import {
   type Sleeper,
   writingFor,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 export type ErrorCapturePayload = {
   fingerprint: string
