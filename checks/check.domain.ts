@@ -24,6 +24,7 @@ export const check = {
     "module/shape-saying",
     "module/change-mirror",
     "module/audit-reading",
+    "module/check-measuring",
   ],
   invariants: [
     {

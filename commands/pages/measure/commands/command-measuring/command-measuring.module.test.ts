@@ -1,14 +1,17 @@
 import { afterAll, expect, test } from "bun:test"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
-import { linesOf, windowIn } from "../../checks/check-measuring/check-measuring.module.code.ts"
+import {
+  linesOf,
+  windowIn,
+} from "../../../../../checks/modules/check-measuring/check-measuring.module.code.ts"
 import {
   agoOf,
   DAY,
   HOUR,
   NOW,
   spacedOnce,
-} from "../../checks/check-measuring/check-measuring.module.test-fixtures.ts"
+} from "../../../../../checks/modules/check-measuring/check-measuring.module.test-fixtures.ts"
+import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import { costsIn, foundIn, heldIn } from "./command-measuring.module.code.ts"
 import { ONE, pageAt, rowsInto, THREE, TWO } from "./command-measuring.module.test-fixtures.ts"
 

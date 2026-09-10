@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   bytesAs,
   chosenIn,
