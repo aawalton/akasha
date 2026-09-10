@@ -149,5 +149,9 @@ export const dayReadoutWatching = {
       invariantKind: "absence",
       statement: "No reading here is shown or withheld for how old that reading is.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The plant grams count food entries and move with the food entry values.",
+    },
   ],
 } as const satisfies Module

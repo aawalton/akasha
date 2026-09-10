@@ -41,6 +41,10 @@ import {
   tasksPage,
 } from "../../inboxes/reading/inbox-reading.module.code.ts"
 import {
+  READOUT_PAGE as PLANTS_PAGE,
+  takeReading as takePlants,
+} from "../../plants/reading/plants-reading.module.code.ts"
+import {
   READOUT_PAGE as SAFETY_PAGE,
   takeReading as takeSafety,
 } from "../../safety/reading/safety-reading.module.code.ts"
@@ -169,6 +173,14 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       pageTypes: FROM_THE_DAY,
       to: BOTH_SITES,
       take: (now) => takeCapacity(root, now),
+    },
+    {
+      page: PLANTS_PAGE,
+      folders,
+      holds: dayRow,
+      pageTypes: FROM_THE_FOOD,
+      to: BOTH_SITES,
+      take: (now) => takePlants(root, now),
     },
     {
       page: tasks,
