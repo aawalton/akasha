@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-
-export type TemperCompanionSkillSlot = TemperCompanionThing
 
 export const temperCompanionSkillSlot = {
   id: "01a05fcd-41a9-75e4-9a61-ca49c001eb2d",
@@ -12,4 +9,5 @@ export const temperCompanionSkillSlot = {
   pluralSlug: "temper-companion-skill-slots",
   extends: ["page-type/temper-companion-thing"],
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
+  types: "ts",
 } as const satisfies PageType

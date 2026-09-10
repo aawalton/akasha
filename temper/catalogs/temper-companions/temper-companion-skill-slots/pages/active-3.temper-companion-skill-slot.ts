@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillSlot } from "../temper-companion-skill-slot.page-type.ts"
+import type { TemperCompanionSkillSlot } from "../temper-companion-skill-slot.page-type.types.ts"
 
 export const active3 = {
   id: "01a05fcd-7101-74fb-9b16-891d362c68d2",
