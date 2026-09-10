@@ -13,6 +13,8 @@ export const REFUSAL_DISPOSED = "disposed"
 
 const START_ANOTHER: ReadonlySet<string> = new Set([REFUSAL_LEASE, REFUSAL_GONE])
 
+const VOICE_KEPT = 4_000
+
 export class CommandServerRefusal extends Error {
   readonly refusal: string
 
@@ -54,6 +56,10 @@ interface Session {
 
 function refusalOf(refusal: string, saying: string): CommandServerRefusal {
   return new CommandServerRefusal(refusal, `the command server refuses (${refusal}): ${saying}`)
+}
+
+function voiced(wrote: string): string {
+  return wrote === "" ? ", and it wrote nothing" : `, and it wrote: ${wrote}`
 }
 
 export type Serving = {
@@ -166,17 +172,29 @@ export function servingFrom(at: CommandServerAt): Serving {
         }
         settled = true
         retire(fresh, "SIGKILL")
-        refuse(refusalOf(REFUSAL_START, `no hello arrived within ${at.startTimeoutMs}ms`))
+        const why = `no hello arrived within ${at.startTimeoutMs}ms${voiced(wrote)}`
+        refuse(refusalOf(REFUSAL_START, why))
       }, at.startTimeoutMs)
 
       const noise = (text: string): undefined => {
         at.onNoise?.(text)
         return undefined
       }
+      let wrote = ""
+      const keep = (chunk: string): undefined => {
+        wrote = `${wrote}${chunk}`.slice(-VOICE_KEPT)
+        return undefined
+      }
       child.stdout?.setEncoding("utf8")
-      child.stdout?.on("data", (chunk: string) => noise(`stdout: ${chunk}`))
+      child.stdout?.on("data", (chunk: string) => {
+        keep(chunk)
+        noise(`stdout: ${chunk}`)
+      })
       child.stderr?.setEncoding("utf8")
-      child.stderr?.on("data", (chunk: string) => noise(`stderr: ${chunk}`))
+      child.stderr?.on("data", (chunk: string) => {
+        keep(chunk)
+        noise(`stderr: ${chunk}`)
+      })
       child.on("error", (err) => {
         lose(fresh, `the command server could not be run: ${String(err)}`)
         if (!settled) {
@@ -189,12 +207,16 @@ export function servingFrom(at: CommandServerAt): Serving {
         const went = `the command server exited (code ${String(code)}, signal ${String(signal)})`
         fresh.went = went
         dropped(fresh)
-        if (!settled) {
-          settled = true
-          clearTimeout(timer)
-          refuse(refusalOf(REFUSAL_START, `it exited before saying hello (code ${String(code)})`))
-        }
         setImmediate(() => lose(fresh, went))
+      })
+      child.on("close", (code) => {
+        if (settled) {
+          return
+        }
+        settled = true
+        clearTimeout(timer)
+        const why = `it exited before saying hello (code ${String(code)})${voiced(wrote)}`
+        refuse(refusalOf(REFUSAL_START, why))
       })
 
       let held = ""

@@ -61,5 +61,17 @@ export const commandServerClient = {
       invariantKind: "departure",
       statement: "A server's exit refuses what waits, because the answer pipe may never end.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A server that says no hello is refused with what that server wrote instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal waits for the server's streams to close, so what it wrote is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the last of what a server wrote is kept, so a flood refuses in few words.",
+    },
   ],
 } as const satisfies Module
