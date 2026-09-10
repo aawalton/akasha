@@ -11,7 +11,8 @@ export const sampleUpsert = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading lands on the rows beside the day page for the ESO day it began in.",
+      statement:
+        "A reading lands on the rows beside the day page for the ESO day the reading began in.",
     },
     {
       invariantKind: "departure",
