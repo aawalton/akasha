@@ -1,10 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { seededWorld } from "../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
-import {
-  infrastructureWorkloadApply,
-  servableNamed,
-} from "./infrastructure-workload-apply.command.code.ts"
+import { infrastructureWorkloadApply } from "./infrastructure-workload-apply.command.code.ts"
 
 const WORLD = seededWorld()
 
@@ -53,10 +50,4 @@ test("a refusal reaching no cluster reports nothing about a workload", async () 
   const answer = await infrastructureWorkloadApply(["no-such-service-here"], HERE)
 
   expect(answer.report).toEqual([])
-})
-
-test("a slug no cluster service page carries is read as no workload", () => {
-  const read = servableNamed(WORLD.root, "no-such-service-here")
-
-  expect(read).toHaveProperty("refused")
 })

@@ -79,6 +79,7 @@ export const clusterService = {
     "text-property/resource-name",
     "text-property/cluster-service-schedule",
     "relation-property/secrets",
+    "module/workload-applying",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },
