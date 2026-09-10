@@ -18,7 +18,7 @@ export const transpileTranspile = {
     },
     {
       invariantKind: "departure",
-      statement: "A compile emitting no JavaScript still writes Lua where it says so.",
+      statement: "A compile emitting no JavaScript still writes Lua where `no-emit-lua` says so.",
     },
   ],
 } as const satisfies Module

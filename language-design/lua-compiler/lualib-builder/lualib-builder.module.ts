@@ -10,7 +10,7 @@ export const lualibBuilder = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A source file's name reaches its feature by what the lualib pages say.",
+      statement: "The lualib pages say which feature a source file's name reaches.",
     },
     {
       invariantKind: "departure",
