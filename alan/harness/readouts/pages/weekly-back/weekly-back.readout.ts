@@ -14,7 +14,6 @@ export const weeklyBack = {
   colorSlug: "text",
   groups: ["claude-usage"],
   wireKey: "weekly-back",
-  querySlug: "claude-accounts-next-seven-day-back",
   invariants: [
     {
       invariantKind: "departure",

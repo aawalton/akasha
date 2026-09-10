@@ -14,7 +14,6 @@ export const fiveHourBack = {
   colorSlug: "text",
   groups: ["claude-usage"],
   wireKey: "five-hour-back",
-  querySlug: "claude-accounts-next-five-hour-back",
   invariants: [
     {
       invariantKind: "departure",

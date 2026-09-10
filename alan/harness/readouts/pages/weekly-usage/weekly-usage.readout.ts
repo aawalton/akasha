@@ -14,7 +14,6 @@ export const weeklyUsage = {
   colorFrom: "weekly-ends",
   groups: ["claude-usage"],
   wireKey: "weekly-usage",
-  querySlug: "claude-accounts-mean-weekly-used",
   invariants: [
     {
       invariantKind: "departure",

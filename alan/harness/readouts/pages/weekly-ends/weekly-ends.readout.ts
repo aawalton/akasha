@@ -14,7 +14,6 @@ export const weeklyEnds = {
   scale: "allowance-hours",
   groups: ["claude-usage"],
   wireKey: "weekly-ends",
-  querySlug: "claude-accounts-next-seven-day-end",
   invariants: [
     {
       invariantKind: "departure",
