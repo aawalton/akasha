@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { MessageBody } from "./properties/message-body.text-property.ts"
-import type { MessageClaimedAt } from "./properties/message-claimed-at.instant-property.ts"
-import type { MessageFrom } from "./properties/message-from.text-property.ts"
-import type { MessageTo } from "./properties/message-to.relation-property.ts"
-import type { MessageWarrant } from "./properties/message-warrant.select-property.ts"
-
-export type Message = Page & {
-  to: MessageTo
-  from: MessageFrom
-  warrant: MessageWarrant
-  body: MessageBody
-  claimedAt?: MessageClaimedAt
-}
 
 export const message = {
   id: "01a06818-107b-7005-8e69-8cefb68f3cdf",
@@ -94,4 +80,5 @@ export const message = {
       statement: "The messages waiting exist as pages under this type rather than as markdown.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

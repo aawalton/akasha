@@ -1,4 +1,4 @@
-import type { Message } from "../message.page-type.ts"
+import type { Message } from "../message.page-type.types.ts"
 
 export const message245e24dcb4e6 = {
   id: "01a06d20-50b2-7000-b4dc-245e24dcb4e6",
