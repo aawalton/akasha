@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { shadowAt } from "@akasha/pages/shadow"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { fileLength } from "./file-length.code-check.code.ts"
+import { fileLength } from "./file-length.code-check.check.code.ts"
 import { CEILING } from "./file-length.code-check.decision.code.ts"
 import {
   ELSEWHERE,
