@@ -1,4 +1,4 @@
-import type { StoryDesignNote } from "../../story-design-note.page-type.ts"
+import type { StoryDesignNote } from "../../story-design-note.page-type.types.ts"
 
 export const haremHotelFloorsFloor1V4 = {
   id: "01a0657d-bb98-7667-b8e3-537ef2b26644",

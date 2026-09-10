@@ -1,4 +1,4 @@
-import type { StoryDesignNote } from "../../story-design-note.page-type.ts"
+import type { StoryDesignNote } from "../../story-design-note.page-type.types.ts"
 
 export const theTowerDesign = {
   id: "01a0657d-bb98-72fd-b666-aef3426e8c6b",

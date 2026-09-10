@@ -1,4 +1,4 @@
-import type { StoryDesignNote } from "../../story-design-note.page-type.ts"
+import type { StoryDesignNote } from "../../story-design-note.page-type.types.ts"
 
 export const dragonsAndDungeonsOperations = {
   id: "01a0657d-bb98-705c-85d9-7b87f4e74a23",

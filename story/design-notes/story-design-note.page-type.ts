@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { World } from "../stories-played/properties/world.relation-property.ts"
-import type { NoteSubject } from "./properties/note-subject.text-property.ts"
-
-export type StoryDesignNote = Page & {
-  title: Title
-  world?: World
-  subject?: NoteSubject
-  prose?: Prose
-}
 
 export const storyDesignNote = {
   id: "01a06578-d638-794d-b1f4-f5c46500a7e9",
@@ -52,4 +40,5 @@ export const storyDesignNote = {
       statement: "The words a note has are the story's rather than akasha's own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { StoryDesignNote } from "../../story-design-note.page-type.ts"
+import type { StoryDesignNote } from "../../story-design-note.page-type.types.ts"
 
 export const auraGameDesignNarrativeGameEngine = {
   id: "01a0657d-bb98-78bf-b78d-9e27772016ec",

@@ -1,4 +1,4 @@
-import type { StoryDesignNote } from "../../story-design-note.page-type.ts"
+import type { StoryDesignNote } from "../../story-design-note.page-type.types.ts"
 
 export const theTowerRuntimeStateTurn83 = {
   id: "01a0657d-bb98-7d0f-9d28-9e3a66a49b28",
