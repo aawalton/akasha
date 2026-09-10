@@ -1,10 +1,4 @@
-// THE REACH AND THE CALCULATION ARE DECLARED BY THE PROPERTY RATHER THAN HERE. A calculation is
-// typed against the property's declaration and the engine against its own, so two declarations of
-// one shape drift apart with nothing to catch the drift: adding a key to one leaves every
-// calculation typed against the other.
 import type { Reach, Work } from "../computed-properties/computed-property.page-type.ts"
-
-export type { Reach, Work }
 
 export type Held = Record<string, unknown>
 
@@ -26,9 +20,6 @@ export type Named = {
   readonly subject: Subject
 }
 
-// A SOURCE ANSWERING NO NAMINGS REACHES NO PAGE THROUGH A RELATION. Which pages name a page is read
-// from an index, which a source built from a list of pages alone cannot consult, so a source says
-// here whether it can answer rather than every source being taken to.
 export type Source = {
   readonly subjectAt: (slug: string) => Subject | null
   readonly namingAt?: (id: string, propertySlug: string) => readonly Named[]
@@ -65,10 +56,6 @@ function faultIn(thrown: unknown): string {
   return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
-// A number that is not finite is no reading akasha keeps: a query narrows one away, and
-// `JUDGED.number` above refuses a calculation that answers one.
-// So one a page carries is left off the page a calculation is handed, and the calculation
-// meets absent where it would otherwise meet Infinity or NaN.
 function presentIn(value: Held): Held {
   const held: Held = {}
   for (const [key, one] of Object.entries(value)) {
@@ -128,9 +115,6 @@ export function computingOver(source: Source): Computing {
     }
   }
 
-  // KEYED BY THE PAGE'S OWN ID RATHER THAN BY THE NAME THE PAGE WAS REACHED UNDER. One page is
-  // reached by its path, by its slug and as a page naming another, and a view worked under one of
-  // those names is the same view under the rest.
   const viewOf = (subject: Subject): Held => {
     const already = views.get(subject.id)
     if (already !== undefined) return already

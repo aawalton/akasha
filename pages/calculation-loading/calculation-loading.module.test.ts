@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import type { Held, Reach } from "../computing/page-computing.module.code.ts"
+import type { Reach } from "../computed-properties/computed-property.page-type.ts"
+import type { Held } from "../computing/page-computing.module.code.ts"
 import { workIn } from "./calculation-loading.module.code.ts"
 
 const REACH: Reach = { target: () => null, naming: () => [] }

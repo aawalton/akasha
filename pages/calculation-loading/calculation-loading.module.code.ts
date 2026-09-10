@@ -1,5 +1,6 @@
 import { dirname, join } from "node:path"
-import type { Held, Work } from "../computing/page-computing.module.code.ts"
+import type { Work } from "../computed-properties/computed-property.page-type.ts"
+import type { Held } from "../computing/page-computing.module.code.ts"
 import { declaredIn } from "../value/page-value.module.code.ts"
 
 const WORK = "work"

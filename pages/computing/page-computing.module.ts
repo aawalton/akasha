@@ -27,6 +27,10 @@ export const pageComputing = {
     },
     {
       invariantKind: "departure",
+      statement: "A calculation answering a number that is not finite is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A computed key is worked out once over one page.",
     },
     {

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Reach } from "akasha/pages/computing/page-computing.module.code.ts"
+import type { Reach } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { ClaudeAccount } from "../claude-account.page-type.types.ts"
 import { work } from "./effective-seven-day-usage.computed-property.code.ts"
 
