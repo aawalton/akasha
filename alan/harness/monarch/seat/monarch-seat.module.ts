@@ -14,6 +14,14 @@ export const monarchSeat = {
     },
     {
       invariantKind: "departure",
+      statement: "Where the evidence module sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat may name that module by its whole path or by its path under the root.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The commands the seat ran and was refused are reported beside the answer that seat gave.",
     },

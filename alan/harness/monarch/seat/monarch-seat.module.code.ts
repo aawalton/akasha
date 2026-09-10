@@ -1,14 +1,39 @@
 #!/usr/bin/env bun
 
+import { join } from "node:path"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { array, num, object, str } from "../shape/monarch-shape.module.code.ts"
 
 const REPO = `${import.meta.dir}/../../../..`
-const EVIDENCE = `${import.meta.dir}/../evidence/monarch-evidence.module.code.ts`
-const RELATIVE = "alan/harness/monarch/evidence/monarch-evidence.module.code.ts"
 
-export const ALLOWED_TOOLS = [`Bash(bun ${EVIDENCE}:*)`, `Bash(bun ${RELATIVE}:*)`]
+const MODULE = "module"
 
-export const EVIDENCE_COMMAND = `bun ${EVIDENCE}`
+const EVIDENCE_SLUG = "monarch-evidence"
+
+const CODE = "code"
+
+const TS = "ts"
+
+export function evidenceAt(): string {
+  const page = listedAt(REPO, MODULE, EVIDENCE_SLUG)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(
+      `no \`${MODULE}\` is slugged \`${EVIDENCE_SLUG}\`, so the seat has no evidence to reach`
+    )
+  }
+  return at
+}
+
+export function allowedTools(): readonly string[] {
+  const relative = evidenceAt()
+  return [`Bash(bun ${join(REPO, relative)}:*)`, `Bash(bun ${relative}:*)`]
+}
+
+export function evidenceCommand(): string {
+  return `bun ${join(REPO, evidenceAt())}`
+}
 
 export interface SeatRun {
   readonly text: string
@@ -74,7 +99,7 @@ export async function runSeat(prompt: string, model: string, minutes: number): P
       "stream-json",
       "--verbose",
       "--allowedTools",
-      ALLOWED_TOOLS.join(","),
+      allowedTools().join(","),
     ],
     {
       stdin: new TextEncoder().encode(prompt),
