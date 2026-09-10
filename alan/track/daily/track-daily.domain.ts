@@ -45,7 +45,7 @@ export const trackDaily = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A day is the one Alan lives and an ESO day is the one Alan plays.",
+      statement: "A day is the day Alan lives and an ESO day is the day Alan plays.",
     },
     {
       invariantKind: "departure",
