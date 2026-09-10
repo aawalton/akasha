@@ -1,3 +1,6 @@
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
+
 const PATIENCE_MS = 5_000
 
 export type SessionRename =
@@ -14,17 +17,8 @@ interface Ran {
 
 function tmux(args: readonly string[]): Ran {
   try {
-    const ran = Bun.spawnSync(["tmux", ...args], {
-      stdout: "pipe",
-      stderr: "pipe",
-      timeout: PATIENCE_MS,
-    })
-    const read = new TextDecoder()
-    return {
-      code: ran.exitCode ?? 1,
-      out: read.decode(ran.stdout).trim(),
-      err: read.decode(ran.stderr).trim(),
-    }
+    const done = ran(["tmux", ...args], { timeout: PATIENCE_MS })
+    return { code: done.code, out: done.out.trim(), err: done.err.trim() }
   } catch (error) {
     return { code: 1, out: "", err: error instanceof Error ? error.message : String(error) }
   }
@@ -38,8 +32,8 @@ export function renameSeatSession(was: string | null, now: string): SessionRenam
   if (was === null || was === "" || was === now) return { kind: "no-session" }
   if (!sessionHolds(was)) return { kind: "no-session" }
   if (sessionHolds(now)) return { kind: "taken" }
-  const ran = tmux(["rename-session", "-t", `=${was}`, now])
-  if (ran.code !== 0) return { kind: "failed", said: ran.err === "" ? ran.out : ran.err }
+  const done = tmux(["rename-session", "-t", `=${was}`, now])
+  if (done.code !== 0) return { kind: "failed", said: done.err === "" ? done.out : done.err }
   return { kind: "renamed" }
 }
 
@@ -53,5 +47,7 @@ export function sessionNote(outcome: SessionRename, was: string | null, now: str
       return `; its tmux session is still ${was}, a live session already holding ${now}`
     case "failed":
       return `; its tmux session is still ${was}, tmux refusing the rename: ${outcome.said}`
+    default:
+      return assertNever(outcome)
   }
 }
