@@ -59,7 +59,7 @@ export const claudeAccountIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "The keys a rebind clears are the ones one upstream account's readings fill.",
+      statement: "The keys a rebind clears are the keys one upstream account's readings fill.",
     },
     {
       invariantKind: "departure",
