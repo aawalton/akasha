@@ -68,8 +68,11 @@ export const lualibPages = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A page whose slug is no export name reads as nothing, and its code file is named.",
+      statement: "A page whose slug is no export name reads as nothing.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The code file of a page whose slug is no export name is named.",
     },
     {
       invariantKind: "departure",
