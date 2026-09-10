@@ -1,4 +1,4 @@
-import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
+import type { TemperSkillPoint } from "../temper-skill-point.page-type.types.ts"
 
 export const endlessarchive = {
   id: "019e6471-151a-7559-9242-38f8f4e2a9e8",

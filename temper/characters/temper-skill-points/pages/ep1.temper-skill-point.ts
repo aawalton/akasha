@@ -1,4 +1,4 @@
-import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
+import type { TemperSkillPoint } from "../temper-skill-point.page-type.types.ts"
 
 export const ep1 = {
   id: "019e6471-152e-7aff-8b17-022cfaa7b019",

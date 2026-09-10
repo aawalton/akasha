@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
-import type { MaxQuests } from "./properties/max-quests.number-property.ts"
-import type { MaxSkyshards } from "./properties/max-skyshards.number-property.ts"
-import type { MaxValue } from "./properties/max-value.number-property.ts"
-
-export type TemperSkillPoint = TemperCharacterThing & {
-  maxQuests?: MaxQuests
-  maxSkyshards?: MaxSkyshards
-  maxValue?: MaxValue
-}
 
 export const temperSkillPoint = {
   id: "01a05fcd-f559-75c5-bd78-0041c552d484",
@@ -30,4 +20,5 @@ export const temperSkillPoint = {
     { pageProperty: "number-property/max-skyshards", required: false, many: false },
     { pageProperty: "number-property/max-value", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

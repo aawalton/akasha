@@ -1,4 +1,4 @@
-import type { TemperSkillPoint } from "../temper-skill-point.page-type.ts"
+import type { TemperSkillPoint } from "../temper-skill-point.page-type.types.ts"
 
 export const foliumdiscognitum = {
   id: "019e6471-1515-7400-b59a-8e0ebf933f97",
