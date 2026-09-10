@@ -5,8 +5,9 @@ export const dockerfileWriting = {
   pageTypeSlug: "module",
   type: "module",
   slug: "dockerfile-writing",
-  definition: "the run that writes every service's Dockerfile to where the service expects it",
+  definition: "the Dockerfile written for a built image, from what that image states and imports",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
