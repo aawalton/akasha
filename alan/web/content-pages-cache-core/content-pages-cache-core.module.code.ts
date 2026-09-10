@@ -24,15 +24,14 @@ export const MAX_UNPINNED_CACHED_BODIES = 200
 export const PersistedContentPageSchema = z
   .object({
     id: z.string(),
-    seq: z.number().nullable(),
-    title: z.string().nullable(),
-    icon: z.string().nullable(),
-    slug: z.string().nullable(),
-    userId: z.string(),
-    pageTypeId: z.string(),
-    pageTypeSlug: z.string(),
-    uniqueKey: z.string().nullable(),
-    parentKey: z.string().nullable(),
+    seq: z.number().nullable().optional(),
+    title: z.string().nullable().optional(),
+    icon: z.string().nullable().optional(),
+    slug: z.string().nullable().optional(),
+    userId: z.string().nullable().optional(),
+    pageTypeId: z.string().nullable().optional(),
+    pageTypeSlug: z.string().nullable().optional(),
+    uniqueKey: z.string().nullable().optional(),
   })
   .passthrough()
 
