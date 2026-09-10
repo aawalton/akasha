@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.types.ts"
 
 export const gazeOfTransparency = {
   id: "01a06575-9814-7239-9a14-12af8c8c1761",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.types.ts"
 
 export const combinedSkillWrathOfTheRighteous = {
   id: "01a06575-97fc-7487-9708-00a8019b5e23",

@@ -1,4 +1,4 @@
-import type { WorldSkill } from "../../world-skill.page-type.ts"
+import type { WorldSkill } from "../../world-skill.page-type.types.ts"
 
 export const spindleSnagMyThread = {
   id: "01a0657d-02ee-71ce-a723-163644fe7b90",
