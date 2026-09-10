@@ -10,7 +10,8 @@ import {
   type Shaped,
 } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { textAt, type Value, valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { bodyOf } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
