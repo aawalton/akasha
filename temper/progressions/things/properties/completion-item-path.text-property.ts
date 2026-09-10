@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type CompletionItemPath = string
+export type CompletionItemPath = List<string>
 
 export const completionItemPath = {
   id: "01a05fc6-81fb-729c-8013-4df821b1c2d7",

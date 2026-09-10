@@ -14,7 +14,7 @@ export type TemperProgressThing = TemperThing & {
   nodeId?: NodeId
   character?: Character
   completionCardId?: CompletionCardId
-  completionItemPath?: readonly CompletionItemPath[]
+  completionItemPath?: CompletionItemPath
   scope?: Scope
   priority?: Priority
   dueDate?: DueDate
