@@ -1,4 +1,4 @@
-import type { Value } from "../value.page-type.ts"
+import type { Value } from "../value.page-type.types.ts"
 
 export const faith = {
   id: "019eb7d0-f2ce-7404-ac55-828a43bc73cf",

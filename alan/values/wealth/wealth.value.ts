@@ -1,4 +1,4 @@
-import type { Value } from "../value.page-type.ts"
+import type { Value } from "../value.page-type.types.ts"
 
 export const wealth = {
   id: "019eb7d1-032b-73d1-bb88-07b4625d5fb9",
