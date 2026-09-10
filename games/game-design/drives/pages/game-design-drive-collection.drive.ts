@@ -1,9 +1,9 @@
-import type { GameDesignDrive } from "../game-design-drive.page-type.types.ts"
+import type { Drive } from "../drive.page-type.types.ts"
 
 export const gameDesignDriveCollection = {
   id: "01a06756-f6ce-7919-bc70-37a49f9ecba3",
-  pageTypeSlug: "game-design-drive",
-  type: "game-design-drive",
+  pageTypeSlug: "drive",
+  type: "drive",
   slug: "game-design-drive-collection",
   definition: "owning a set of things",
   octalysis: {
@@ -12,4 +12,4 @@ export const gameDesignDriveCollection = {
     definition:
       "Feeling that something is yours, which makes you want more of it and want to improve it.",
   },
-} as const satisfies GameDesignDrive
+} as const satisfies Drive

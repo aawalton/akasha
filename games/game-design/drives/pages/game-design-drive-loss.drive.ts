@@ -1,9 +1,9 @@
-import type { GameDesignDrive } from "../game-design-drive.page-type.types.ts"
+import type { Drive } from "../drive.page-type.types.ts"
 
 export const gameDesignDriveLoss = {
   id: "01a06756-f756-773c-8f35-a24988307063",
-  pageTypeSlug: "game-design-drive",
-  type: "game-design-drive",
+  pageTypeSlug: "drive",
+  type: "drive",
   slug: "game-design-drive-loss",
   definition: "losing what was already gained",
   octalysis: {
@@ -12,4 +12,4 @@ export const gameDesignDriveLoss = {
     definition:
       "Acting to stop something bad, such as progress slipping away or a chance never coming back.",
   },
-} as const satisfies GameDesignDrive
+} as const satisfies Drive

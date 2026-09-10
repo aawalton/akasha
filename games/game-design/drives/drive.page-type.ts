@@ -1,22 +1,22 @@
 import type { PageType } from "../../../pages/types/page-type.page-type.types.ts"
 
-export const gameDesignDrive = {
+export const drive = {
   id: "01a06746-de46-7a10-980b-3134872d9f6b",
   pageTypeSlug: "page-type",
   type: "page-type",
-  slug: "game-design-drive",
+  slug: "drive",
   definition: "what makes a person want to act",
-  pluralSlug: "game-design-drives",
+  pluralSlug: "drives",
   extends: ["page-type/domain"],
   parts: [
-    "game-design-drive/game-design-drive-collection",
-    "game-design-drive/game-design-drive-connection",
-    "game-design-drive/game-design-drive-creativity",
-    "game-design-drive/game-design-drive-loss",
-    "game-design-drive/game-design-drive-meaning",
-    "game-design-drive/game-design-drive-novelty",
-    "game-design-drive/game-design-drive-progress",
-    "game-design-drive/game-design-drive-scarcity",
+    "drive/game-design-drive-collection",
+    "drive/game-design-drive-connection",
+    "drive/game-design-drive-creativity",
+    "drive/game-design-drive-loss",
+    "drive/game-design-drive-meaning",
+    "drive/game-design-drive-novelty",
+    "drive/game-design-drive-progress",
+    "drive/game-design-drive-scarcity",
     "number-property/octalysis-number",
     "record-property/octalysis",
     "text-property/octalysis-definition",

@@ -1,9 +1,9 @@
-import type { GameDesignDrive } from "../game-design-drive.page-type.types.ts"
+import type { Drive } from "../drive.page-type.types.ts"
 
 export const gameDesignDriveCreativity = {
   id: "01a06756-f6b4-724b-ac1f-7d3bfb1af1a3",
-  pageTypeSlug: "game-design-drive",
-  type: "game-design-drive",
+  pageTypeSlug: "drive",
+  type: "drive",
   slug: "game-design-drive-creativity",
   definition: "making something new",
   octalysis: {
@@ -12,4 +12,4 @@ export const gameDesignDriveCreativity = {
     definition:
       "Working things out for yourself, trying combinations, and seeing what your choices did.",
   },
-} as const satisfies GameDesignDrive
+} as const satisfies Drive

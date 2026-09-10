@@ -1,9 +1,9 @@
-import type { GameDesignDrive } from "../game-design-drive.page-type.types.ts"
+import type { Drive } from "../drive.page-type.types.ts"
 
 export const gameDesignDriveProgress = {
   id: "01a06756-f697-794a-9d4f-21814410d87e",
-  pageTypeSlug: "game-design-drive",
-  type: "game-design-drive",
+  pageTypeSlug: "drive",
+  type: "drive",
   slug: "game-design-drive-progress",
   definition: "getting better at something",
   octalysis: {
@@ -11,4 +11,4 @@ export const gameDesignDriveProgress = {
     name: "Development & Accomplishment",
     definition: "Making progress, gaining skill, and overcoming challenges worth the effort.",
   },
-} as const satisfies GameDesignDrive
+} as const satisfies Drive

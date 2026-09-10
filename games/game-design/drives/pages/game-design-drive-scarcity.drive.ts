@@ -1,9 +1,9 @@
-import type { GameDesignDrive } from "../game-design-drive.page-type.types.ts"
+import type { Drive } from "../drive.page-type.types.ts"
 
 export const gameDesignDriveScarcity = {
   id: "01a06756-f717-781b-a67c-001849934e02",
-  pageTypeSlug: "game-design-drive",
-  type: "game-design-drive",
+  pageTypeSlug: "drive",
+  type: "drive",
   slug: "game-design-drive-scarcity",
   definition: "wanting what is out of reach",
   octalysis: {
@@ -11,4 +11,4 @@ export const gameDesignDriveScarcity = {
     name: "Scarcity & Impatience",
     definition: "Wanting something more because you cannot have it, or cannot have it right now.",
   },
-} as const satisfies GameDesignDrive
+} as const satisfies Drive
