@@ -218,9 +218,9 @@ test("a reading under ten keeps one decimal place", async () => {
   expect((await stoplights())[0]?.reading).toBe("-1.5")
 })
 
-test("a reading added up out of hours is floored to two significant figures", async () => {
+test("a reading added up out of hours is floored to one decimal place", async () => {
   relayedFor(READOUT, -0.008333333333334636)
-  expect((await stoplights())[0]?.reading).toBe("-0.0084")
+  expect((await stoplights())[0]?.reading).toBe("-0.1")
 })
 
 test("a reading is never answered as the whole tail of the float it was added up from", async () => {
