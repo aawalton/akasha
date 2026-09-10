@@ -126,8 +126,12 @@ export function spentRelaying(): number {
   return spent
 }
 
+export function parseServingMarker(said: string | undefined): boolean {
+  return said !== undefined && said.length > 0
+}
+
 function started(): Channel {
-  if (process.env[SERVING_MARKER] !== undefined) {
+  if (parseServingMarker(process.env[SERVING_MARKER])) {
     throw new Error(`a process under ${SERVING_MARKER} starts no server of its own`)
   }
   const [askRead, askWrite] = piped()
