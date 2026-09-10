@@ -16,7 +16,7 @@ export const dallaDeployCleanup = {
     {
       statement: "Every cluster service has deployed through `akasha infrastructure deploy`.",
       workingMemory:
-        "52 cluster service pages, each naming a manifest whose code beside it emits the yaml. `akasha infrastructure deploy` reaches all 52 as of cede693: a slug no web app carries reads as a cluster service, and one a web app carries reads as the web app, whose deploy applies that service anyway. A dry run over headscale on 2026-09-10 reported the cluster already as its page describes. What is left is running it over the other 51.\n",
+        "52 cluster service pages. A dry run over every one on 2026-09-10: 28 already as their page describes, 12 differ and would apply cleanly, 11 refuse because a checksum or an image is a value nothing filled in, and registry refuses at `kubectl diff` on its Service. So the road is open and the eleven are blocked on values rather than on the deploy. `the-akasha-deploy-path-places-no-secret` is the finding on file for that.\n",
     },
     {
       statement: "Every ios app has deployed through `akasha infrastructure deploy`.",
