@@ -55,7 +55,6 @@ export const alanHarness = {
     "domain/alanwalton-ios-notification",
     "page-type/notification-feed",
     "domain/money",
-    "page-type/calendar-event",
     "module/overdue-rolling",
     "workstation-service/overdue-rolling",
     "module/persona-points-rebuilding",
