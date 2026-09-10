@@ -1,6 +1,6 @@
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type AuthorityKind =
+export type PersonAuthorityKind =
   | "domain"
   | "feature-approval"
   | "feature-request"

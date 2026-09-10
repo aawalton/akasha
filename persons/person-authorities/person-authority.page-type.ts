@@ -1,12 +1,12 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { AuthorityKind } from "./properties/person-authority-kind.relation-property.ts"
+import type { PersonAuthorityKind } from "./properties/person-authority-kind.relation-property.ts"
 import type { PersonSlug } from "./properties/person-authority-person.relation-property.ts"
 import type { Target } from "./properties/person-authority-target.text-property.ts"
 
 export type PersonAuthority = Page & {
   person: PersonSlug
-  authorityKind: AuthorityKind
+  authorityKind: PersonAuthorityKind
   target: Target
 }
 
