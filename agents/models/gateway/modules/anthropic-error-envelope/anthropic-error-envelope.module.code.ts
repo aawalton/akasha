@@ -13,12 +13,10 @@ export type AnthropicErrorEnvelope = z.infer<typeof ANTHROPIC_ERROR_ENVELOPE_SCH
 export type AnthropicError = AnthropicErrorEnvelope["error"]
 
 export function parseAnthropicErrorEnvelope(body: string): AnthropicError | null {
-  let payload: unknown
   try {
-    payload = JSON.parse(body)
+    const parsed = ANTHROPIC_ERROR_ENVELOPE_SCHEMA.safeParse(JSON.parse(body))
+    return parsed.success ? parsed.data.error : null
   } catch {
     return null
   }
-  const parsed = ANTHROPIC_ERROR_ENVELOPE_SCHEMA.safeParse(payload)
-  return parsed.success ? parsed.data.error : null
 }
