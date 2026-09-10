@@ -1,6 +1,8 @@
 import { existsSync, realpathSync } from "node:fs"
-import { basename, join, resolve } from "node:path"
-import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { basename, join } from "node:path"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 
 const PAGE = ".lualib.ts"
@@ -9,7 +11,7 @@ const CODE = ".lualib.code.ts"
 
 const LUA50_CODE = ".lualib.lua50-code.ts"
 
-const PAGES_FOLDER = "lualibs"
+const TYPE = "lualib"
 
 const PREFIX = "__TS__"
 
@@ -36,17 +38,7 @@ function featureNamed(name: string): LuaLibFeature | null {
   return FEATURES.has(upper) ? (upper as LuaLibFeature) : null
 }
 
-function realAt(at: string): string {
-  return existsSync(at) ? realpathSync(at) : at
-}
-
-export function lualibPagesRoot(): string {
-  return join(realAt(resolve(import.meta.dir, "..")), PAGES_FOLDER)
-}
-
-export function pageAt(root: string, relative: string): LualibPage | null {
-  const value = valueAt(relative, root)
-  if (value === null) return null
+function pageOf(root: string, relative: string, value: Value): LualibPage | null {
   const luaExport = textAt(value, "luaExport")
   if (luaExport === null || luaExport === "") return null
   const stem = join(root, relative.slice(0, relative.length - PAGE.length))
@@ -63,11 +55,11 @@ export function pageAt(root: string, relative: string): LualibPage | null {
   }
 }
 
-export function pagesUnder(root: string): readonly LualibPage[] {
-  if (!existsSync(root)) return []
+export function lualibPages(): readonly LualibPage[] {
+  const root = akashaRoot()
   const pages: LualibPage[] = []
-  for (const relative of new Bun.Glob(`**/*${PAGE}`).scanSync({ cwd: root })) {
-    const page = pageAt(root, relative)
+  for (const one of valuesOfType(root, TYPE)) {
+    const page = pageOf(root, one.path, one.value)
     if (page !== null) pages.push(page)
   }
   return pages.sort((one, other) => (one.luaExport < other.luaExport ? -1 : 1))

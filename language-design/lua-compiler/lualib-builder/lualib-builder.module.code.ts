@@ -17,11 +17,7 @@ import {
   type LuaLibModulesInfo,
   resolveRecursiveLualibFeatures,
 } from "../lualib-features/lualib-features.module.code.ts"
-import {
-  lualibPagesRoot,
-  pagesUnder,
-  sourcesFrom,
-} from "../lualib-pages/lualib-pages.module.code.ts"
+import { lualibPages, sourcesFrom } from "../lualib-pages/lualib-pages.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
 import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
 import { cast } from "../utils/utils.module.code.ts"
@@ -287,11 +283,7 @@ export function buildLuaLib(luaTarget: LuaTarget): BuiltLuaLib {
     throw new Error(`lualib builder: failed to parse ${configFileName}:\n${messages}`)
   }
 
-  const sources = sourcesFrom(
-    parsedConfig.fileNames,
-    pagesUnder(lualibPagesRoot()),
-    luaTarget === LuaTarget.Lua50
-  )
+  const sources = sourcesFrom(parsedConfig.fileNames, lualibPages(), luaTarget === LuaTarget.Lua50)
 
   const program = ts.createProgram({
     rootNames: sources.rootNames,

@@ -11,7 +11,7 @@ export const lualibPages = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The lualib pages are read from the `lualibs` folder beside the compiler.",
+      statement: "The lualib pages are the index's answer for their page type in this checkout.",
     },
     {
       invariantKind: "departure",
