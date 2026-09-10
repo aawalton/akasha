@@ -69,7 +69,7 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A splice has the place a body changes and what that place is to hold.",
+      statement: "A splice has the place a body changes and the content that place is to hold.",
     },
     {
       invariantKind: "departure",
@@ -77,11 +77,13 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A run of lines the body has twice widens a line each side until it is held once.",
+      statement:
+        "A run of lines the body has twice widens a line each side until the run is held once.",
     },
     {
       invariantKind: "departure",
-      statement: "A splice widens to the whole body where no run of lines around it is held once.",
+      statement:
+        "A splice widens to the whole body where no run of lines around that splice is held once.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +91,7 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "Many splices are read in the order they sit in the body.",
+      statement: "Many splices are read in the order the splices sit in the body.",
     },
     {
       invariantKind: "departure",
@@ -98,11 +100,11 @@ export const changeAnswer = {
     {
       invariantKind: "departure",
       statement:
-        "Of two splices opening at one place the one handed in later is dropped rather than joined.",
+        "Of two splices opening at one place the splice handed in later is dropped rather than joined.",
     },
     {
       invariantKind: "departure",
-      statement: "Two splices whose lines are apart answer an edit each.",
+      statement: "Two splices whose lines are apart answer two edits.",
     },
     {
       invariantKind: "departure",
