@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-
-export type OriginKind = Domain
 
 export const originKind = {
   id: "01a05361-6286-7dcd-a5b1-16a97d9c1932",
@@ -22,4 +19,5 @@ export const originKind = {
     "origin-kind/welsh",
   ],
   extends: ["page-type/domain"],
+  types: "ts",
 } as const satisfies PageType

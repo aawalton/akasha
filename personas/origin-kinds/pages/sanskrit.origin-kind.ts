@@ -1,4 +1,4 @@
-import type { OriginKind } from "../origin-kind.page-type.ts"
+import type { OriginKind } from "../origin-kind.page-type.types.ts"
 
 export const sanskrit = {
   id: "01a05361-be5f-7152-9b17-c07fe2f5c041",

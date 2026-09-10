@@ -1,4 +1,4 @@
-import type { OriginKind } from "../origin-kind.page-type.ts"
+import type { OriginKind } from "../origin-kind.page-type.types.ts"
 
 export const invented = {
   id: "01a05361-be5f-7dbd-b452-60cdebc0674e",
