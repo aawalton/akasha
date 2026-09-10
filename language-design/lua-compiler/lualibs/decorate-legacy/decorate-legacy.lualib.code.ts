@@ -1,5 +1,5 @@
-import { __TS__ObjectGetOwnPropertyDescriptor } from "./ObjectGetOwnPropertyDescriptor"
-import { __TS__SetDescriptor } from "./SetDescriptor"
+import { __TS__ObjectGetOwnPropertyDescriptor } from "../object-get-own-property-descriptor/object-get-own-property-descriptor.lualib.code.ts"
+import { __TS__SetDescriptor } from "../set-descriptor/set-descriptor.lualib.code.ts"
 
 export type LegacyDecorator<TTarget extends AnyTable, TKey extends keyof TTarget> = (
   target: TTarget,

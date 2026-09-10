@@ -1,4 +1,4 @@
-import type { Decorator } from "./Decorator"
+type Decorator<TTarget> = (value: TTarget, context: DecoratorContext) => TTarget | undefined
 
 export function __TS__Decorate<TClass, TTarget>(
   this: TClass,
