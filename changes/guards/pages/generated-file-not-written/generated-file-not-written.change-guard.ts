@@ -15,6 +15,10 @@ export const generatedFileNotWritten = {
       statement: "A change to the content of a file a generated property has refuses the answer.",
     },
     {
+      invariantKind: "departure",
+      statement: "An edit appending to such a file refuses the answer as a replace in it does.",
+    },
+    {
       invariantKind: "absence",
       statement: "No edit but a change to a file's content is judged.",
     },

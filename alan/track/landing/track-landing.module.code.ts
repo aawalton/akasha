@@ -45,7 +45,7 @@ function changeAt(path: string, body: string | null): Asking {
 export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
   const asked: Asking[] = []
   for (const one of changes) {
-    if (one.kind === "move") continue
+    if (one.kind === "move" || one.kind === "append") continue
     if (one.kind === "remove") asked.push(changeAt(one.path, null))
     else asked.push(changeAt(one.path, one.kind === "add" ? one.content : one.contentTo))
   }

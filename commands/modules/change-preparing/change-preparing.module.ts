@@ -109,6 +109,18 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
+      statement: "A row appending is left as that row rather than worked into a whole body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every row appending to one path is kept rather than the last of them alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row appending is never formatted.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That change is built from the rows rather than from the bodies handed in.",
     },
     {

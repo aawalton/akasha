@@ -45,6 +45,7 @@ export function saidOf(one: FileChange): string {
   if (one.kind === "move") return `moves ${one.pathFrom} to ${one.pathTo}`
   if (one.kind === "remove") return `takes ${one.path} away`
   if (one.kind === "add") return `adds ${one.path}`
+  if (one.kind === "append") return `puts lines at the end of ${one.path}`
   return `changes ${one.path}`
 }
 

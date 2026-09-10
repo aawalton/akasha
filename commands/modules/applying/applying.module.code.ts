@@ -232,7 +232,7 @@ function recordedAsLanded(
   changes: readonly FileChange[]
 ): undefined {
   for (const one of changes) {
-    if (one.kind === "move" || one.kind === "remove") continue
+    if (one.kind === "move" || one.kind === "remove" || one.kind === "append") continue
     recordRead(root, agentId, {
       path: one.path,
       oid: blobIdOf(BYTES.encode(one.kind === "add" ? one.content : one.contentTo)),

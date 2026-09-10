@@ -47,6 +47,10 @@ export const trackLanding = {
     },
     {
       invariantKind: "absence",
+      statement: "Nothing here appends, as Alan's tracking composes a whole body every time.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here knows a command line.",
     },
     {

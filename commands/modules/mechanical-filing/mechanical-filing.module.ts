@@ -35,6 +35,10 @@ export const mechanicalFiling = {
     },
     {
       invariantKind: "absence",
+      statement: "No ask here appends, as the reading composes no row that appends.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here keeps an edit rather than landing it.",
     },
     {

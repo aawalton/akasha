@@ -60,7 +60,9 @@ function isManifest(path: string): boolean {
 type Bodied = Adding | Replacing | Removing
 
 export function manifestsIn(changes: readonly FileChange[]): readonly Bodied[] {
-  return changes.filter((one): one is Bodied => one.kind !== "move" && isManifest(one.path))
+  return changes.filter(
+    (one): one is Bodied => one.kind !== "move" && one.kind !== "append" && isManifest(one.path)
+  )
 }
 
 export function manifestMovesIn(changes: readonly FileChange[]): readonly Moving[] {

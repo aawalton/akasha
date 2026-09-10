@@ -25,6 +25,18 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A row appending is worked out against the body its path holds on the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Rows appending to one path leave the content of every one of those rows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One body is written for a path however many rows the change has for it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change stating no row is done rather than refused.",
     },
     {

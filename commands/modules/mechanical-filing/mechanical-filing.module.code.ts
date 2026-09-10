@@ -14,7 +14,7 @@ const WRONG = 3
 export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
   const asked: Asking[] = []
   for (const one of changes) {
-    if (one.kind === "move") continue
+    if (one.kind === "move" || one.kind === "append") continue
     if (one.kind === "remove") asked.push({ at: TAKE, given: { at: one.path } })
     else {
       const body = one.kind === "add" ? one.content : one.contentTo

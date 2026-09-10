@@ -49,6 +49,10 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "An append has a path and the content that path is to end with.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A replace has a path and the passage each side.",
     },
     {
@@ -127,6 +131,22 @@ export const changeAnswer = {
     {
       invariantKind: "departure",
       statement: "An add onto a path with a body is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An append leaves the body its path holds and puts its content after that body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An append onto a path with no body leaves that content alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An append of no characters is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An append onto a body that is not text is refused.",
     },
     {
       invariantKind: "departure",

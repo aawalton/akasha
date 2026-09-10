@@ -25,7 +25,7 @@ export function generatedFileNotWritten(given: Guarding): string | null {
   const asking = facingIn(given)
   const landed = landedIn(given.said)
   for (const one of given.said.edits) {
-    if (one.kind !== "replace") continue
+    if (one.kind !== "replace" && one.kind !== "append") continue
     const came = landed.get(one.path)
     if (came !== undefined && generatedIn(asking, came)) continue
     if (generatedIn(asking, one.path)) return `\`${one.path}\` is generated, and ${BY_HAND}`

@@ -22,7 +22,7 @@ export function slugComposedIn(path: string, text: string): string | null {
 export function unexportableIn(changes: readonly FileChange[]): readonly string[] {
   const said: string[] = []
   for (const one of changes) {
-    if (one.kind === "move" || one.kind === "remove") continue
+    if (one.kind === "move" || one.kind === "remove" || one.kind === "append") continue
     if (!one.path.endsWith(PAGE_FILE)) continue
     const slug = slugComposedIn(one.path, one.kind === "add" ? one.content : one.contentTo)
     if (slug === null) continue

@@ -33,6 +33,26 @@ test("an add onto a path already holding a body is refused", () => {
   expect(said).toEqual({ refused: `\`${AT}\` holds a body already, so nothing is added` })
 })
 
+test("an append answers the body its path held with its content after that body", () => {
+  const said = expanded({ kind: "append", path: AT, content: "two" }, holding({ [AT]: "one" }))
+
+  expect(said).toEqual({ left: { path: AT, body: "onetwo" } })
+})
+
+test("an append onto a path holding nothing answers that content alone", () => {
+  const said = expanded({ kind: "append", path: AT, content: "one" }, NOTHING)
+
+  expect(said).toEqual({ left: { path: AT, body: "one" } })
+})
+
+test("an append of no characters is refused", () => {
+  const said = expanded({ kind: "append", path: AT, content: "" }, holding({ [AT]: "one" }))
+
+  expect(said).toEqual({
+    refused: `\`${AT}\` reads the same after this, so this change writes nothing`,
+  })
+})
+
 test("a replace answers the body the passage leaves", () => {
   const one = { kind: "replace", path: AT, contentFrom: "two", contentTo: "three" } as const
 
@@ -147,6 +167,12 @@ test("a replace worked in a body that is not text is refused", () => {
   })
 })
 
+test("an append onto a body that is not text is refused", () => {
+  expect(expanded({ kind: "append", path: AWAY, content: "one" }, BYTES)).toEqual({
+    refused: `\`${AWAY}\` is not text, so nothing is put at the end of it`,
+  })
+})
+
 test("an add onto a path holding a body that is not text is refused", () => {
   expect(expanded({ kind: "add", path: AWAY, content: "one" }, BYTES)).toEqual({
     refused: `\`${AWAY}\` holds a body already, so nothing is added`,
@@ -205,6 +231,15 @@ test("two replaces over one path leave both passages replaced", () => {
   ] as const
 
   expect(replaying(edits, { [AT]: "one four" })).toEqual(new Map([[AT, "two five"]]))
+})
+
+test("two appends over one path leave the content of both after the body", () => {
+  const edits = [
+    { kind: "append", path: AT, content: "two" },
+    { kind: "append", path: AT, content: "three" },
+  ] as const
+
+  expect(replaying(edits, { [AT]: "one" })).toEqual(new Map([[AT, "onetwothree"]]))
 })
 
 test("an add and a remove over one path leave no body", () => {

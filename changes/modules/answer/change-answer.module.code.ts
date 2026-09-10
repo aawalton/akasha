@@ -1,6 +1,7 @@
 import type {
   Adding,
   Answer,
+  Appending,
   FileChange,
   Held,
   Moving,
@@ -13,6 +14,8 @@ import type {
 } from "./change-answer.module.types.ts"
 
 const NOT_TEXT_SAID = "is not text, so no passage in it is changed"
+
+const NOT_TEXT_ENDED = "is not text, so nothing is put at the end of it"
 
 export const NOT_TEXT: NotText = { notText: true }
 
@@ -147,6 +150,17 @@ function addedIn(one: Adding, textOf: BodyOf): Expanded {
   return { left: { path: one.path, body: one.content } }
 }
 
+function appendedIn(one: Appending, textOf: BodyOf): Expanded {
+  if (one.content === "") {
+    return { refused: `\`${one.path}\` reads the same after this, so this change writes nothing` }
+  }
+  const text = textOf(one.path)
+  if (notText(text)) {
+    return { refused: `\`${one.path}\` ${NOT_TEXT_ENDED}` }
+  }
+  return { left: { path: one.path, body: `${text ?? ""}${one.content}` } }
+}
+
 function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
   if (one.contentFrom === "") {
     return { refused: "a passage of no characters names no place in a body" }
@@ -194,6 +208,7 @@ function movedIn(one: Moving, textOf: BodyOf): Expanded {
 
 export function expanded(one: FileChange, textOf: BodyOf): Expanded {
   if (one.kind === "add") return addedIn(one, textOf)
+  if (one.kind === "append") return appendedIn(one, textOf)
   if (one.kind === "replace") return replacedIn(one, textOf)
   if (one.kind === "remove") return removedIn(one, textOf)
   return movedIn(one, textOf)

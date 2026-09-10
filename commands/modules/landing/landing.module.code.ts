@@ -1,4 +1,4 @@
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { textIn, textOf } from "@akasha/code/body-text"
 import type { Change } from "@akasha/pages/change"
@@ -8,6 +8,7 @@ import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type {
   Adding,
+  Appending,
   FileChange,
   Removing,
   Replacing,
@@ -69,8 +70,30 @@ const NOTHING_OUTSIDE = "nothing landed — name every path against the reposito
 
 const BYTES = new TextEncoder()
 
-function bodiedOf(one: Adding | Replacing | Removing): Bodied {
+type Held = ReadonlyMap<string, Uint8Array | null>
+
+function diskAt(root: string, path: string): Uint8Array | null {
+  const at = join(root, path)
+  return existsSync(at) ? readFileSync(at) : null
+}
+
+function endedWith(root: string, one: Appending, held: Held): Uint8Array {
+  const was = held.has(one.path) ? (held.get(one.path) ?? null) : diskAt(root, one.path)
+  const put = BYTES.encode(one.content)
+  if (was === null) return put
+  const body = new Uint8Array(was.length + put.length)
+  body.set(was)
+  body.set(put, was.length)
+  return body
+}
+
+function bodiedOf(
+  root: string,
+  one: Adding | Appending | Replacing | Removing,
+  held: Held
+): Bodied {
   if (one.kind === "remove") return { path: one.path, body: null }
+  if (one.kind === "append") return { path: one.path, body: endedWith(root, one, held) }
   return {
     path: one.path,
     body: BYTES.encode(one.kind === "add" ? one.content : one.contentTo),
@@ -82,14 +105,20 @@ type Split = {
   readonly moves: readonly FileMove[]
 }
 
-function splitIn(changes: readonly FileChange[]): Split {
-  const edits: Bodied[] = []
+function splitIn(root: string, changes: readonly FileChange[]): Split {
+  const edits = new Map<string, Bodied>()
+  const bodies = new Map<string, Uint8Array | null>()
   const moves: FileMove[] = []
   for (const one of changes) {
-    if (one.kind === "move") moves.push({ from: one.pathFrom, to: one.pathTo })
-    else edits.push(bodiedOf(one))
+    if (one.kind === "move") {
+      moves.push({ from: one.pathFrom, to: one.pathTo })
+      continue
+    }
+    const body = bodiedOf(root, one, bodies)
+    bodies.set(body.path, body.body)
+    edits.set(body.path, body)
   }
-  return { edits, moves }
+  return { edits: [...edits.values()], moves }
 }
 
 export function baseOf(root: string): string {
@@ -106,7 +135,7 @@ export function changeOf(root: string, base: string, changes: readonly FileChang
   }
   for (const one of changes) {
     if (one.kind === "move") continue
-    const body = bodiedOf(one)
+    const body = bodiedOf(root, one, held)
     held.set(body.path, body.body)
   }
   const read = new Map<string, Uint8Array | null>()
@@ -346,7 +375,7 @@ export async function landing(
     return draftedBy(root, drafting.page, changes, named, asRead)
   }
   const judgedAt = baseOf(root)
-  const { edits, moves } = splitIn(changes)
+  const { edits, moves } = splitIn(root, changes)
   const change = over !== null && moves.length === 0 ? over : changeOf(root, judgedAt, changes)
   const said = await judged(judging, change)
   const orphaned = orphaningIn(change, absentAfter(edits, moves))

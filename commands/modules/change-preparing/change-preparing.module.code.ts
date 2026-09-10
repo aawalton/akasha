@@ -48,7 +48,7 @@ export type Stated = { readonly rows: readonly FileChange[] } | { readonly why: 
 export function rowsFrom(root: string, base: string, changes: readonly FileChange[]): Stated {
   const rows: FileChange[] = []
   for (const one of changes) {
-    if (one.kind === "move" || one.kind === "remove") {
+    if (one.kind === "move" || one.kind === "remove" || one.kind === "append") {
       rows.push(one)
       continue
     }
@@ -74,7 +74,7 @@ export function formattingIn(
   const edits: Replacing[] = []
   const formatted: string[] = []
   for (const one of changes) {
-    if (one.kind === "move" || one.kind === "remove") continue
+    if (one.kind === "move" || one.kind === "remove" || one.kind === "append") continue
     if (already.has(one.path)) continue
     const body = BYTES.encode(bodyIn(one))
     const said = formattedBody(root, one.path, body)
@@ -96,8 +96,14 @@ function pathIn(one: FileChange): string {
 
 function foldedOver(...runs: readonly (readonly FileChange[])[]): readonly FileChange[] {
   const held = new Map<string, FileChange>()
-  for (const run of runs) for (const one of run) held.set(pathIn(one), one)
-  return [...held.values()]
+  const ended: FileChange[] = []
+  for (const run of runs) {
+    for (const one of run) {
+      if (one.kind === "append") ended.push(one)
+      else held.set(pathIn(one), one)
+    }
+  }
+  return [...held.values(), ...ended]
 }
 
 export function sequenced(

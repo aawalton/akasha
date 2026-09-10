@@ -53,6 +53,9 @@ function stated(said: unknown): FileChange | null {
   if (kind === "add" && at !== null && typeof content === "string") {
     return { ...owed, kind: "add", path: at, content }
   }
+  if (kind === "append" && at !== null && typeof content === "string") {
+    return { ...owed, kind: "append", path: at, content }
+  }
   if (kind === "replace" && at !== null) {
     if (typeof contentFrom !== "string" || typeof contentTo !== "string") return null
     return { ...owed, kind: "replace", path: at, contentFrom, contentTo }

@@ -32,6 +32,10 @@ export const exportNaming = {
     },
     {
       invariantKind: "absence",
+      statement: "An append names no slug, so an edit appending is judged for no export name.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },
     {
