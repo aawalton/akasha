@@ -59,6 +59,8 @@ import {
   whyIn,
 } from "./subagent-presence.module.test-fixtures.ts"
 
+const LANDS: Landing = landingNaming([])
+
 test("a stamp says the time to the millisecond, carrying the offset it was written at", () => {
   const when = new Date(1788600000123)
   const said = stampedAt(when)
@@ -107,7 +109,7 @@ test("a body states the type and slug and seat and assignment and kind and agent
   expect(body).toContain('agentId: "seat--own"')
 })
 
-test("a body composed states no id, leaving the command to mint one", () => {
+test("a body composed states no id, leaving the change to mint one", () => {
   expect(
     bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
   ).not.toContain("id:")
@@ -177,7 +179,7 @@ test("a page that is no seat names no seat", () => {
 
 test("a page composed is landed by a program, and goes when the subagent is done", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(landed).toContain('dispatchedAs: "Explore"')
     expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
@@ -200,7 +202,7 @@ test("a page composed is landed by a program, and goes when the subagent is done
 
 test("a take-down the landing refuses answers why and takes no page away", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
     const at = pathOf(slugOf("akasha", OWN))
     const refusing: Landing = () => Promise.resolve({ refusals: ["the index files no page there"] })
     expect(whyIn(await took(root, "akasha", OWN, refusing))).toBe("the index files no page there")
@@ -210,9 +212,9 @@ test("a take-down the landing refuses answers why and takes no page away", async
 
 test("a page already there is left as it is", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
     const held = gitIn(root, ["rev-parse", "HEAD"])
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", LANDS)).toEqual(WENT)
     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
   })
 })
@@ -238,7 +240,7 @@ test("a page that is not there is taken away by doing nothing", async () => {
 test("a page in history is taken up with its id and kind, and comes back with that id", async () => {
   await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(SEAT_ID, OWN), "Explore")
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", LANDS)).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(idIn(landed)).toBe(HELD_ID)
     expect(landed).toContain('dispatchedAs: "Explore"')
@@ -246,8 +248,8 @@ test("a page in history is taken up with its id and kind, and comes back with th
     expect(landed).not.toContain(HELD_ASSIGNMENT)
     expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
     expect(messageIn(root)).toContain("a subagent resuming takes up the page it had")
-    expect(await took(root, "akasha", OWN, landingNaming([]))).toEqual(WENT)
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore")).toEqual(WENT)
+    expect(await took(root, "akasha", OWN, LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
     expect(idIn(landedAt(root, OWN))).toBe(HELD_ID)
   })
 })
@@ -255,7 +257,7 @@ test("a page in history is taken up with its id and kind, and comes back with th
 test("a page taken up under a seat stating no assignment takes history's", async () => {
   await underSeat(async (root) => {
     heldUnder(root, "thea", OWN, agentIdOf(SEAT_ID, OWN), "Explore")
-    expect(await wrote(root, "thea", SEAT_ID, OWN, "Task")).toEqual(WENT)
+    expect(await wrote(root, "thea", SEAT_ID, OWN, "Task", LANDS)).toEqual(WENT)
     expect(landedUnder(root, "thea", OWN)).toContain(
       `assignmentSlug: ${JSON.stringify(HELD_ASSIGNMENT)}`
     )
@@ -265,7 +267,7 @@ test("a page taken up under a seat stating no assignment takes history's", async
 test("a page in history under another agent id is composed afresh", async () => {
   await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(ANOTHER, OWN), "Explore")
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task")).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", LANDS)).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(idIn(landed)).toBe(null)
     expect(landed).toContain('dispatchedAs: "Task"')

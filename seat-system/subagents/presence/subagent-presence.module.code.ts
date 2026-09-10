@@ -6,10 +6,8 @@ import { partedIn } from "@akasha/pages/page-file-name"
 import { valueAt } from "@akasha/pages/page-value"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
 import { textAt } from "@akasha/utils/narrow/text-at"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { landedMechanically } from "../../../commands/modules/mechanical-landing/mechanical-landing.module.code.ts"
 import {
   dropReadings,
   SUBAGENT_MARK,
@@ -37,6 +35,8 @@ const KIND = "dispatchedAs"
 const ID = "id"
 
 const SUFFIX = ".subagent.ts"
+
+const ADD_PAGE = "change-mechanical/add-file-of-any-kind"
 
 const TAKE_PAGE = "change-mechanical-file/remove-file-page"
 
@@ -120,16 +120,9 @@ export function seatNamedIn(root: string, seatId: string): string | null {
   return named.slug
 }
 
-async function handed(
-  root: string,
-  changes: readonly FileChange[],
-  message: string
-): Promise<Went> {
-  const answer = await landedMechanically(root, CALLED_AS, changes, message)
-  if (answer.code === 0) return WENT
-  const why = answer.refusals.join(" ").trim()
-  if (why !== "") return { why }
-  return { why: `the landing answered ${String(answer.code)} and said nothing` }
+function wentBy(landed: Awaited<ReturnType<Landing>>): Went {
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  return wrong.length > 0 ? { why: wrong.join(" ").trim() } : WENT
 }
 
 export async function wrote(
@@ -137,7 +130,8 @@ export async function wrote(
   seatName: string,
   seatId: string,
   own: string,
-  dispatchedAs: string
+  dispatchedAs: string,
+  landing: Landing = runMechanicalChange
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
@@ -161,12 +155,14 @@ export async function wrote(
     agentId,
     textAt(held, ID)
   )
-  return await handed(
-    root,
-    [{ kind: "add", path: at, content }],
-    had === null
-      ? `${slug}: a subagent states the agent id it acts under`
-      : `${slug}: a subagent resuming takes up the page it had`
+  return wentBy(
+    await landing(
+      root,
+      [{ at: ADD_PAGE, given: { at, body: content } }],
+      had === null
+        ? `${slug}: a subagent states the agent id it acts under`
+        : `${slug}: a subagent resuming takes up the page it had`
+    )
   )
 }
 
@@ -184,9 +180,8 @@ export async function took(
   const at = pathOf(slug)
   if (!existsSync(join(root, at))) return WENT
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
-  const landed = await landing(root, [{ at: TAKE_PAGE, given: { at } }], why)
-  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
-  if (wrong.length > 0) return { why: wrong.join(" ").trim() }
+  const went = wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why))
+  if ("why" in went) return went
   dropReadings(root, [at])
   return WENT
 }
@@ -199,13 +194,20 @@ export function pathsUnder(root: string, seatName: string): readonly string[] {
     .sort()
 }
 
-export async function tookUnder(root: string, seatName: string, why: string): Promise<Went> {
+export async function tookUnder(
+  root: string,
+  seatName: string,
+  why: string,
+  landing: Landing = runMechanicalChange
+): Promise<Went> {
   const paths = pathsUnder(root, seatName)
   if (paths.length === 0) return WENT
-  const gone = await handed(
-    root,
-    paths.map((path): FileChange => ({ kind: "remove", path })),
-    `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`
+  const gone = wentBy(
+    await landing(
+      root,
+      paths.map((at): Asking => ({ at: TAKE_PAGE, given: { at } })),
+      `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`
+    )
   )
   if (!("why" in gone)) dropReadings(root, paths)
   return gone

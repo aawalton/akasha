@@ -1,10 +1,8 @@
-import { cpSync, existsSync, readFileSync } from "node:fs"
+import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
-import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
-import { landedMechanically } from "../../../commands/modules/mechanical-landing/mechanical-landing.module.code.ts"
 import {
   keptAt,
   scratchWorld,
@@ -12,20 +10,19 @@ import {
 import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { bodyOf, type Landing, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
 
+const LANDED = { base: "", landed: [], formatted: [], said: [], wrong: [], commit: null }
+
 export function landingNaming(named: string[]): Landing {
-  return async (root, changes, message) => {
-    const paths: string[] = []
+  return (root, changes, message) => {
     for (const one of changes) {
       named.push(one.at)
-      paths.push((one.given as { readonly at: string }).at)
+      const given = one.given as { readonly at: string; readonly body?: string }
+      if (given.body === undefined) rmSync(join(root, given.at), { force: true })
+      else writing(root, given.at, given.body)
     }
-    const answer = await landedMechanically(
-      root,
-      "subagent-presence",
-      paths.map((path): FileChange => ({ kind: "remove", path })),
-      message
-    )
-    return { refusals: answer.code === 0 ? [] : answer.refusals }
+    gitIn(root, ["add", "-A"])
+    gitIn(root, ["commit", "--quiet", "-m", message])
+    return Promise.resolve(LANDED)
   }
 }
 

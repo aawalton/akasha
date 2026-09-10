@@ -138,12 +138,16 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A page comes up through the change adding a page rather than through a raw edit.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page goes through the change taking a page away rather than through a raw edit.",
     },
     {
       invariantKind: "departure",
-      statement: "The landing a page goes through is handed in.",
+      statement: "The landing a page comes up or goes through is handed in.",
     },
     {
       invariantKind: "departure",
