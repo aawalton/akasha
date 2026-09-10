@@ -149,4 +149,5 @@ export const pageMatchesItsType = {
     },
   ],
   check: { maxCpuSeconds: 20 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CodeCheck

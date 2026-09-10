@@ -149,4 +149,5 @@ export const repositoryIsWrittenByAChange = {
     },
   ],
   check: { maxCpuSeconds: 10 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CodeCheck

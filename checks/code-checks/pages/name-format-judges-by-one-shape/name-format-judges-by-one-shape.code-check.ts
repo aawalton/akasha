@@ -73,4 +73,5 @@ export const nameFormatJudgesByOneShape = {
     },
   ],
   check: { maxCpuSeconds: 10 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CodeCheck

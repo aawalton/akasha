@@ -96,4 +96,5 @@ export const specifierNamesAPackage = {
     },
   ],
   check: { maxCpuSeconds: 10 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CodeCheck

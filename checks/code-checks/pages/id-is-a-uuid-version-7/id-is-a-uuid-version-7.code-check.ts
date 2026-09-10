@@ -26,4 +26,5 @@ export const idIsAUuidVersion7 = {
     },
   ],
   check: { maxCpuSeconds: 10 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CodeCheck

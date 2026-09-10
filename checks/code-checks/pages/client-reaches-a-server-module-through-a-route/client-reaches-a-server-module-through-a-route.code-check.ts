@@ -126,4 +126,5 @@ export const clientReachesAServerModuleThroughARoute = {
     },
   ],
   check: { maxCpuSeconds: 10 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CodeCheck

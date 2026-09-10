@@ -213,4 +213,5 @@ export const typecheck = {
     },
   ],
   check: { maxCpuSeconds: 60 },
+  audit: { maxCpuSeconds: 60 },
 } as const satisfies CodeCheck
