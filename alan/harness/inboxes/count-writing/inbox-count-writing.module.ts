@@ -15,7 +15,8 @@ export const inboxCountWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "The mail count lands on the day it was taken in rather than on the ESO day.",
+      statement:
+        "The mail count lands on the day the count was taken in rather than on the ESO day.",
     },
     {
       invariantKind: "departure",
