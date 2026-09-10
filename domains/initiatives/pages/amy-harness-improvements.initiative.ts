@@ -11,7 +11,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's app fills his password in from 1Password.",
       workingMemory:
-        "Alan settled the origin and I settled the mechanism: a bundled entry redirecting to `https://alanwalton.com`, as smilingjenny boots. Every CORS allowlist already carries the origin, and no deep link changes, since iOS hands a widget's URL to its own app whatever the scheme and the router keeps only the path. Left: whether Capacitor injects its bridge on a remote origin, which nothing here exercises and everything native needs, then `auth-mode` deleted and `browser-client` always cookie-ssr.",
+        "The bridge is injected on a remote origin with no origin check and `allowNavigation` already lists the site, so the move works and no deep link changes. The cost is the shell: `alan/web` wires none of native TTS, the download button, the media resolvers or `useIsOnline`, and serves HTML `no-store` behind a per-request nonce. The entry must fall back to the bundled shell when offline and those wirings must land with it, or Alan trades read-aloud for 1Password.",
     },
     {
       statement: "All of Jenny's widgets work.",
