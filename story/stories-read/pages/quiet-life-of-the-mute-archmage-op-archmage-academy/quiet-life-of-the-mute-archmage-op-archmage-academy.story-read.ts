@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy = {
   id: "01a0657d-ada4-7ed2-a5aa-31d90e265fa3",

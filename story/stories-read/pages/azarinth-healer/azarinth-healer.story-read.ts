@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const azarinthHealer = {
   id: "01a0657d-ada0-76ba-b944-621496feac0f",

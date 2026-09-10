@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const forgeOfDestiny = {
   id: "01a0657d-ada2-78c7-aa02-6301de124020",

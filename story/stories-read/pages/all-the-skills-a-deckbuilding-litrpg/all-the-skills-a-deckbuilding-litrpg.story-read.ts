@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const allTheSkillsADeckbuildingLitrpg = {
   id: "01a0657d-ada0-71c7-8e11-0f9da4d5a318",

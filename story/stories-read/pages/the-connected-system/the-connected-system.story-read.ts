@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const theConnectedSystem = {
   id: "01a0657d-ada7-7547-8b88-d8e85de79a6d",

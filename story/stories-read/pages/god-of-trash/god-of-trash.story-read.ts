@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const godOfTrash = {
   id: "01a0657d-ada2-773d-bba6-8d871ec80893",

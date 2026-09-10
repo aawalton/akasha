@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
   id: "01a0657d-ada2-7972-8aa7-7cb45de35c8b",

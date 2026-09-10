@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const shapeshifterANonHumanLitrpg = {
   id: "01a0657d-ada4-74a6-b60b-8f13554a7bb0",

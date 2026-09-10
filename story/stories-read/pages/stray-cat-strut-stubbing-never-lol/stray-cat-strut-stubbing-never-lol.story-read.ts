@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const strayCatStrutStubbingNeverLol = {
   id: "01a0657d-ada5-731a-ae82-bf3c949041cb",

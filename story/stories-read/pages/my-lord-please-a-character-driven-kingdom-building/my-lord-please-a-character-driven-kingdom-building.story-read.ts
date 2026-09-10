@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const myLordPleaseACharacterDrivenKingdomBuilding = {
   id: "01a0657d-ada3-772b-b457-0c8e0068b87b",

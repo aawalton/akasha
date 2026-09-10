@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const lightCleric = {
   id: "01a0657d-ada3-77ee-b67e-e37f1d1f46c2",

@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const pathToProsperityLitrpgVol12Stubbed = {
   id: "01a0657d-ada4-701b-b6c8-586025a9f761",

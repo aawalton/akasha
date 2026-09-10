@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const darkMatterAscensionLitrpgSwordmageMc = {
   id: "01a0657d-ada1-7886-8712-9a06036377da",

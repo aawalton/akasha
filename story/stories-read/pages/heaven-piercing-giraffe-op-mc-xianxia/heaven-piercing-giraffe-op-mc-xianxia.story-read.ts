@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const heavenPiercingGiraffeOpMcXianxia = {
   id: "01a0657d-ada2-72a0-a027-2a0e3ac88d8e",

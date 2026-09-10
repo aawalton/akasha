@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const squidGirlEvolutionMonsterGirlEvolutionLitrpg = {
   id: "01a0657d-ada5-7a7e-ad52-38f360b0c118",

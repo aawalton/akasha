@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook = {
   id: "01a0657d-ada1-767e-8a4e-ae07544371b8",

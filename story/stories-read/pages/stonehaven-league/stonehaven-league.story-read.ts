@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const stonehavenLeague = {
   id: "01a0657d-ada7-7021-b581-05de3229c000",

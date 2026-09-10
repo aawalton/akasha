@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const phoenixHealer = {
   id: "01a0657d-ada4-7230-9158-208883dda232",

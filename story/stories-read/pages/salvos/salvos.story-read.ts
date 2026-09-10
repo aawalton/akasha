@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const salvos = {
   id: "01a0657d-ada4-733e-b20e-77c10f7624b2",

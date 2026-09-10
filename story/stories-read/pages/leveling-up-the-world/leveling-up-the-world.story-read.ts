@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const levelingUpTheWorld = {
   id: "01a0657d-ada3-7307-92c3-92b7e6fbbcea",

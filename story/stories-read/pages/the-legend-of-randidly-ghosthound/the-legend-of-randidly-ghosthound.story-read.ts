@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const theLegendOfRandidlyGhosthound = {
   id: "01a0657d-ada5-7cb1-95d5-3d35fdc8e985",

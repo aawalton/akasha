@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const sagewood = {
   id: "01a0657d-ada7-7742-8710-6a8c5d7695f9",

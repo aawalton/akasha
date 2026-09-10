@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const aThousandLi = {
   id: "01a0657d-ada7-7bfe-a1c5-a1e5adc2ec09",

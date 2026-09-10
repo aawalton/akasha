@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const thePrimalHunter = {
   id: "01a0657d-ada5-71f0-bf49-36b935e70225",

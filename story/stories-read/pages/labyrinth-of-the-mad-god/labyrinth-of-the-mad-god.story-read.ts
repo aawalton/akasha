@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod = {
   id: "01a0657d-ada3-7df0-af01-1d499717e474",

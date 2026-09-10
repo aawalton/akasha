@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse = {
   id: "01a0657d-ada5-75f9-9a2a-f3f4715d70bb",

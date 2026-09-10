@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const metaworldHopecore = {
   id: "01a0657d-ada3-7a67-aa3f-d781b58e9ddc",

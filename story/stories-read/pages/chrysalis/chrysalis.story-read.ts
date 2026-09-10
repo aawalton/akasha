@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const chrysalis = {
   id: "01a0657d-ada1-781d-8fa4-06246a43c533",

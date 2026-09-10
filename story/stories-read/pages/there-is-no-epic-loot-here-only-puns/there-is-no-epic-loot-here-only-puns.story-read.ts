@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const thereIsNoEpicLootHereOnlyPuns = {
   id: "01a0657d-ada5-7ded-bdb1-387748419c1a",

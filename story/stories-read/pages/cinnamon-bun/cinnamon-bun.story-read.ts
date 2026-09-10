@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const cinnamonBun = {
   id: "01a0657d-ada1-7e7b-99b2-0326e6474fb8",

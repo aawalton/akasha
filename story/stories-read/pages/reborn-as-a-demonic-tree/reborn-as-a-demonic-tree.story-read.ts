@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const rebornAsADemonicTree = {
   id: "01a0657d-ada4-786e-a739-b34fd02c3f16",

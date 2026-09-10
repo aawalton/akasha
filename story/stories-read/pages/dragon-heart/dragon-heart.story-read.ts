@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const dragonHeart = {
   id: "01a0657d-ada7-72cb-987e-08faacf2646d",

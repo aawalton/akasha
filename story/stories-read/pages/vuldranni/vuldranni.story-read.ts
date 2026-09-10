@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const vuldranni = {
   id: "01a0657d-ada7-7d71-ad0b-51fd429b078e",

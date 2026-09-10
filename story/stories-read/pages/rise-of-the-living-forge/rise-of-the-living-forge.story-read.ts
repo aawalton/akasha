@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const riseOfTheLivingForge = {
   id: "01a0657d-ada4-74da-a446-a75e77410fd0",

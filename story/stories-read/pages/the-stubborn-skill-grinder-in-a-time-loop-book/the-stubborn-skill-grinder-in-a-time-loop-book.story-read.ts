@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const theStubbornSkillGrinderInATimeLoopBook = {
   id: "01a0657d-ada5-78ba-988f-9f42baf78384",

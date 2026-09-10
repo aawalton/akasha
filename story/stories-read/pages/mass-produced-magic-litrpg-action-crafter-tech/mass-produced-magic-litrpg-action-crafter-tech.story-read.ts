@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const massProducedMagicLitrpgActionCrafterTech = {
   id: "01a0657d-ada3-78c7-a6f0-f7909acf582d",

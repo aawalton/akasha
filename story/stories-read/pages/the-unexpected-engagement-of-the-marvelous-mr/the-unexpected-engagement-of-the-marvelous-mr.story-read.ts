@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const theUnexpectedEngagementOfTheMarvelousMr = {
   id: "01a0657d-ada5-7a3e-918a-1c4fffdfd56c",

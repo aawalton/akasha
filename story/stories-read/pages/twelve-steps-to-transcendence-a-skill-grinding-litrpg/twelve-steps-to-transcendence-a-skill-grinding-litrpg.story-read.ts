@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
   id: "01a0657d-ada0-7423-8301-320e9d75f193",

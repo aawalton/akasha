@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const chaosSeeds = {
   id: "01a0657d-ada7-7480-9cc1-ea6f4ce3d95a",

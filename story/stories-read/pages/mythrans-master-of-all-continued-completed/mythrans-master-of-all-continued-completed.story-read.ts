@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const mythransMasterOfAllContinuedCompleted = {
   id: "01a0657d-ada4-7dcd-ad93-a3c04d678ec5",

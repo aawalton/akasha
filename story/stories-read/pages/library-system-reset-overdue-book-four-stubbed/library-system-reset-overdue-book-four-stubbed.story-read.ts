@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const librarySystemResetOverdueBookFourStubbed = {
   id: "01a0657d-ada3-7468-ae45-89183cf39338",

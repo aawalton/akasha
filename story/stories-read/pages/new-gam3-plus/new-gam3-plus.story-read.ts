@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const newGam3Plus = {
   id: "01a0657d-ada4-7388-bfc4-edff5af4d4c1",

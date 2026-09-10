@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const ultimateLevel1LitrpgBook11Stubs310 = {
   id: "01a0657d-ada6-7688-a820-da530cde65e7",

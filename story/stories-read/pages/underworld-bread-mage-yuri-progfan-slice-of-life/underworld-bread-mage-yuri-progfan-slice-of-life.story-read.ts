@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const underworldBreadMageYuriProgfanSliceOfLife = {
   id: "01a0657d-ada6-7d02-a100-be8daecc6e4f",

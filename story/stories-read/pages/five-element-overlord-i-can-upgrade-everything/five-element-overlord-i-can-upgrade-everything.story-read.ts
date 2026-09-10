@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const fiveElementOverlordICanUpgradeEverything = {
   id: "01a0657d-ada2-734c-96bb-5d18356d9eb4",

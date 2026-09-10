@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const theGiftOfLoot = {
   id: "01a0657d-ada5-7bb6-89e4-a83e2e103895",

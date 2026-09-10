@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete = {
   id: "01a0657d-ada2-7efc-86ad-3e719defcc51",

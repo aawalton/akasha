@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const awakenOnline = {
   id: "01a0657d-ada7-7d0c-a19b-1a013f5eeae0",

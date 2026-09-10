@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const worldTreeTrilogy = {
   id: "01a0657d-ada7-7171-8db8-753e7cf13e71",

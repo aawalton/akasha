@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const blindChaosTalesBeneathTheDragoneyeMoons = {
   id: "01a0657d-ada1-7b15-a27b-2ea2c9119660",

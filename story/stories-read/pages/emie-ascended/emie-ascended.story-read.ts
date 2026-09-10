@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const emieAscended = {
   id: "01a0657d-ada2-7bc7-8dba-9b0da81ef377",

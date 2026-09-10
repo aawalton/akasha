@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const lazyLoopsAnIdleLitrpgOpToArchmage = {
   id: "01a0657d-ada3-7d39-a332-f8a7bd6f6af5",

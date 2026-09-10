@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const delve = {
   id: "01a0657d-ada1-7905-9a2c-47bf2e18b947",

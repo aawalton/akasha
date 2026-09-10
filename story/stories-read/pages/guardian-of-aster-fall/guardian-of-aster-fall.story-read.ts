@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const guardianOfAsterFall = {
   id: "01a0657d-ada7-7b3c-945d-18b61143e3a7",

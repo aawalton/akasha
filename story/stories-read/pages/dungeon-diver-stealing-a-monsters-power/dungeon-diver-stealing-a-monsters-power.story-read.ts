@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const dungeonDiverStealingAMonstersPower = {
   id: "01a0657d-ada2-75ab-a38a-67c94e81fc08",

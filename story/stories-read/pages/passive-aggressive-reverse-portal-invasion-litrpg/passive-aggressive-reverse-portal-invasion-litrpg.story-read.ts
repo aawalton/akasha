@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const passiveAggressiveReversePortalInvasionLitrpg = {
   id: "01a0657d-ada4-79fa-beb3-ef8fb1c75ef8",

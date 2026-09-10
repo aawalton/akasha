@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const bookboundBunny = {
   id: "01a0657d-ada1-7a0f-9ae2-92b48e2e440b",

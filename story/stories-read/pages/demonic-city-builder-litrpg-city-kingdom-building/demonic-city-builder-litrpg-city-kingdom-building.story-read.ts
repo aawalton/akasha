@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding = {
   id: "01a0657d-ada2-74c6-a752-2ce0a42891e6",

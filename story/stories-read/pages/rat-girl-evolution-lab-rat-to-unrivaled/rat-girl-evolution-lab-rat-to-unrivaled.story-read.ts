@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const ratGirlEvolutionLabRatToUnrivaled = {
   id: "01a0657d-ada4-7a89-9b1d-9a047a6f29a8",

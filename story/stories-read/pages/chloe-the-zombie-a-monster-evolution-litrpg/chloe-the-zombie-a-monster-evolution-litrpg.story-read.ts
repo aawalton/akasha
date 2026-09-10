@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const chloeTheZombieAMonsterEvolutionLitrpg = {
   id: "01a0657d-ada1-7956-b2eb-24330de39a4e",

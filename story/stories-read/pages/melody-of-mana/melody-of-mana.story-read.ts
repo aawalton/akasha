@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const melodyOfMana = {
   id: "01a0657d-ada3-74cc-b919-76cef049aaa9",

@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const delverDungeonDivingAndMagicLitrpg = {
   id: "01a0657d-ada2-7e55-ae8b-3245ee80e3c2",

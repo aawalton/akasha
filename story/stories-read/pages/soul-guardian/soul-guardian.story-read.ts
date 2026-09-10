@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const soulGuardian = {
   id: "01a0657d-ada7-79c0-bb79-a63c1d270335",

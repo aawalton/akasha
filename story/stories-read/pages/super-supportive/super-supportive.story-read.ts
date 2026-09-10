@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const superSupportive = {
   id: "01a0657d-ada5-7cc6-80ff-4b827d0d4403",

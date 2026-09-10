@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const incrementalTortureAnIdleSystemTowerClimbing = {
   id: "01a0657d-ada3-7e31-8631-daf42dee54af",

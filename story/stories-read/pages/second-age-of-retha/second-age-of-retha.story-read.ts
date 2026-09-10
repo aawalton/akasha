@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const secondAgeOfRetha = {
   id: "01a0657d-ada7-7854-adc8-52ad7b7ae7b4",

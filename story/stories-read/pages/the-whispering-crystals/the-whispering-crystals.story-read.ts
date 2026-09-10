@@ -1,4 +1,4 @@
-import type { StoryRead } from "../../story-read.page-type.ts"
+import type { StoryRead } from "../../story-read.page-type.types.ts"
 
 export const theWhisperingCrystals = {
   id: "01a0657d-ada7-7551-964d-40211676105d",
