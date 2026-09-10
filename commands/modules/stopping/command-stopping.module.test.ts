@@ -23,10 +23,14 @@ test("a page stating no seconds is allowed the seconds this module names", () =>
   expect(secondsIn(null)).toBe(ALLOWED)
 })
 
-test("a page stating seconds that are no number above nothing is allowed the same", () => {
+test("a page stating seconds that are neither null nor a number above nothing is allowed the same", () => {
   expect(secondsIn({ timeout: "5" })).toBe(ALLOWED)
   expect(secondsIn({ timeout: 0 })).toBe(ALLOWED)
   expect(secondsIn({ timeout: -1 })).toBe(ALLOWED)
+})
+
+test("a page stating null for its seconds runs under no ceiling", () => {
+  expect(secondsIn({ timeout: null })).toBe(null)
 })
 
 test("the watch counts the seconds it was allowed as milliseconds", () => {
@@ -71,6 +75,17 @@ test("a call may be allowed more seconds while that call runs", async () => {
 test("a call may be allowed the rest of its run under no ceiling", async () => {
   const watch = watching(1, NAMED)
   allowedThrough()
+  const at = Date.now()
+
+  await Bun.sleep(SECOND + SECOND / 2)
+  watch.ended()
+
+  expect(Date.now() - at).toBeGreaterThan(SECOND)
+})
+
+test("a call under no ceiling is watched by no thread at all", async () => {
+  const watch = watching(null, NAMED)
+  allowedAgain(1, NAMED)
   const at = Date.now()
 
   await Bun.sleep(SECOND + SECOND / 2)

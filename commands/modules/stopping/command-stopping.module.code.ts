@@ -10,8 +10,9 @@ export type Watch = { readonly ended: () => void }
 
 let live: Worker | null = null
 
-export function secondsIn(page: Record<string, unknown> | null): number {
-  const said = page === null ? null : page[TIMEOUT]
+export function secondsIn(page: Record<string, unknown> | null): number | null {
+  const said = page === null ? undefined : page[TIMEOUT]
+  if (said === null) return null
   return typeof said === "number" && said > 0 ? said : ALLOWED
 }
 
@@ -34,8 +35,8 @@ function workerFor(seconds: number, named: string): Worker {
   return new Worker(URL.createObjectURL(new Blob([body])))
 }
 
-export function watching(seconds: number, named: string): Watch {
-  live = workerFor(seconds, named)
+export function watching(seconds: number | null, named: string): Watch {
+  live = seconds === null ? null : workerFor(seconds, named)
   return {
     ended: () => {
       if (live !== null) live.terminate()

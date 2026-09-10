@@ -19,7 +19,16 @@ export const commandStopping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating seconds that are no number above nothing is allowed the same.",
+      statement:
+        "A page stating seconds that are neither null nor a number above nothing is allowed the same.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating null for its seconds runs under no ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call under no ceiling is watched by no thread at all.",
     },
     {
       invariantKind: "departure",
