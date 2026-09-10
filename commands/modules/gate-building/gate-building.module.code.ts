@@ -8,7 +8,7 @@ import { rootOf } from "../rooting/rooting.module.code.ts"
 
 const CHECKING_IN = "akasha/checks/modules/checking/checking.module.code.ts"
 
-const INDEXING_IN = "@akasha/indexes/indexing"
+const INDEXING_IN = "akasha/pages/indexes/indexing/indexing.module.code.ts"
 
 const CHANGE = "change"
 

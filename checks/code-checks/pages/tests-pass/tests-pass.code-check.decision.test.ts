@@ -243,7 +243,10 @@ const TYPE_WAS = `${TREE}/text-property.page-type.ts`
 
 const TYPE_NOW = `${TREE}/types/text-property.page-type.ts`
 
-const INDEXES = Bun.resolveSync("@akasha/indexes", import.meta.dir)
+const INDEXES = Bun.resolveSync(
+  "akasha/pages/indexes/reading/index-reading.module.code.ts",
+  import.meta.dir
+)
 
 const RESOLVES =
   'import { expect, test } from "bun:test"\n' +
