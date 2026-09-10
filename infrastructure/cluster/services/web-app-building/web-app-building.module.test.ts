@@ -159,10 +159,32 @@ test("a checkout takes what origin carries rather than what is in the pod", () =
   expect(syncScript(SHA)).toContain("git fetch origin main")
 })
 
-test("a build leaves the sha it was made from inside the build it made", () => {
+function scriptFor(): string {
   const target = buildTargetOf(plan(pod(SERVING)))
-  expect(buildScript(target as NonNullable<typeof target>, SHA, [])).toContain(
-    `printf %s ${SHA} > build/.built-from`
+  return buildScript(target as NonNullable<typeof target>, SHA, [])
+}
+
+test("a build leaves the sha it was made from inside the build it made", () => {
+  expect(scriptFor()).toContain(`printf %s ${SHA} > build.next/.built-from`)
+})
+
+test("a build is written into a scratch rather than the folder the pod serves", () => {
+  expect(scriptFor()).toContain("BUILD_DIRECTORY=build.next bun run build")
+})
+
+test("nothing touches the folder the pod serves until the build is made", () => {
+  const script = scriptFor()
+  expect(script.indexOf("bun run build")).toBeLessThan(script.indexOf("mv build build.old"))
+})
+
+test("the folder the pod serves is replaced by the scratch once the build is made", () => {
+  expect(scriptFor()).toContain("mv build build.old && mv build.next build")
+})
+
+test("the scratch a build failed in is swept before the next build", () => {
+  const script = scriptFor()
+  expect(script.indexOf("rm -rf build.next build.old")).toBeLessThan(
+    script.indexOf("bun run build")
   )
 })
 

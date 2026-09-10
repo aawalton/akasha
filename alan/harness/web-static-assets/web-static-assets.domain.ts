@@ -6,7 +6,7 @@ export const webStaticAssets = {
   type: "domain",
   slug: "web-static-assets",
   definition: "a built file handed back from disk with the cache lifetime it is given",
-  parts: ["module/serve-static"],
+  parts: ["module/build-directory", "module/serve-static"],
   invariants: [
     {
       invariantKind: "departure",

@@ -22,7 +22,11 @@ const INSTALL = ["install", "--frozen-lockfile", "--dry-run"]
 const UNFOUND = /Workspace not found "([^"]*)"/
 const SYNC_CONTAINER = "code-sync"
 const REPO_PATH = "/app/repo"
-const STAMP = "build/.built-from"
+const STAMP = ".built-from"
+const SERVED_AT = "build"
+const NEXT_AT = "build.next"
+const PRIOR_AT = "build.old"
+const TOLD_BUILD_AT = "BUILD_DIRECTORY"
 const FETCHED = "FETCH_HEAD"
 const GOING = "\t"
 const ROLLOUT_WAIT = "5m"
@@ -186,7 +190,7 @@ export function inPod(target: BuildTarget, pod: string): InPod | null {
     pod,
     [
       `cd ${REPO_PATH} && git rev-parse HEAD`,
-      `cat ${REPO_PATH}/${target.packagePath}/${STAMP} 2>/dev/null || echo ""`,
+      `cat ${REPO_PATH}/${target.packagePath}/${SERVED_AT}/${STAMP} 2>/dev/null || echo ""`,
     ].join("; ")
   )
   if (ran.code !== 0) return null
@@ -307,8 +311,13 @@ export function buildScript(target: BuildTarget, sha: string, env: BuildEnv = []
     `cd ${REPO_PATH}`,
     "bun install --frozen-lockfile",
     `cd ${REPO_PATH}/${target.packagePath}`,
-    "bun run build",
-    `printf %s ${sha} > ${STAMP}`,
+    `rm -rf ${NEXT_AT} ${PRIOR_AT}`,
+    `${TOLD_BUILD_AT}=${NEXT_AT} bun run build`,
+    `printf %s ${sha} > ${NEXT_AT}/${STAMP}`,
+    `mkdir -p ${SERVED_AT}`,
+    `mv ${SERVED_AT} ${PRIOR_AT}`,
+    `mv ${NEXT_AT} ${SERVED_AT}`,
+    `rm -rf ${PRIOR_AT}`,
   ].join(" && ")
   return `${envPrefix(env)}sh -c ${quoted(script)}`
 }

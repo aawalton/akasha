@@ -85,6 +85,22 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
+      statement: "A build is written into a scratch beside the folder the pod serves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folder the pod serves is replaced only once a build is made whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A build that fails leaves the folder the pod serves as that folder was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scratch a build failed in is swept before the next build begins.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The values a build needs are the values the manifest code exports beside the manifests.",
     },

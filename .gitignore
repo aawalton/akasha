@@ -46,6 +46,12 @@ dist/
 # names, and carrying a NUL byte each the moment a `git add -A` brought them in.
 alan/web-capacitor/build/
 
+# The scratch a web build is written into, and the previous build held aside for
+# the moment between the two renames that swap it. A build that fails leaves the
+# scratch behind, and the next build sweeps it.
+**/build.next/
+**/build.old/
+
 # Kubernetes manifests synthesized from their TypeScript source.
 *.generated.yaml
 
