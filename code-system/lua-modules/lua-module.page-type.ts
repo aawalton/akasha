@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { LoadedAs } from "../eso-interfaces/properties/loaded-as.text-property.ts"
-import type { Lua } from "./properties/lua.code-file-property.ts"
-
-export type LuaModule = Domain & {
-  lua: Lua
-  loadedAs?: LoadedAs
-}
 
 export const luaModule = {
   id: "01a06036-9b74-79ba-9f54-27289400cf14",
@@ -43,4 +35,5 @@ export const luaModule = {
       statement: "Lua a compiler wrote out of TypeScript is no Lua module.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

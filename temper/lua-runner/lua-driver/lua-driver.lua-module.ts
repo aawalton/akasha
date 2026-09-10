@@ -1,4 +1,4 @@
-import type { LuaModule } from "@akasha/code/lua-module"
+import type { LuaModule } from "akasha/code-system/lua-modules/lua-module.page-type.types.ts"
 
 export const luaDriver = {
   id: "01a06059-248f-7c70-9dae-f3a0aaf537b3",

@@ -1,4 +1,4 @@
-import type { LuaModule } from "@akasha/code/lua-module"
+import type { LuaModule } from "akasha/code-system/lua-modules/lua-module.page-type.types.ts"
 
 export const companionsConfig = {
   id: "01a0611d-84d1-7c75-9512-d3ca1613f0bb",
