@@ -26,6 +26,5 @@ export const buildVisibility = {
       statement: "A private build is there only for its author.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type BuildVisibility = (typeof buildVisibility.values)[number]

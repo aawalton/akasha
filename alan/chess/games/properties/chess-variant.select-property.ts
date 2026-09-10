@@ -19,6 +19,5 @@ export const chessVariant = {
     "three-check",
     "from-position",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ChessVariant = (typeof chessVariant.values)[number]

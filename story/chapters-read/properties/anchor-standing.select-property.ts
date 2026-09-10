@@ -19,6 +19,5 @@ export const anchorStanding = {
       statement: "Only a claimed anchor names who claimed the anchor.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type AnchorStanding = (typeof anchorStanding.values)[number]

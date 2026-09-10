@@ -8,6 +8,5 @@ export const onlyOn = {
   propertySlug: "only-on",
   definition: "the kind of machine the file is placed on",
   values: ["linux", "macos", "any"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type OnlyOn = (typeof onlyOn.values)[number]

@@ -8,6 +8,5 @@ export const scoringMode = {
   propertySlug: "scoring-mode",
   definition: "whether a set of this movement is counted in repetitions or in seconds",
   values: ["reps", "time"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ScoringMode = (typeof scoringMode.values)[number]

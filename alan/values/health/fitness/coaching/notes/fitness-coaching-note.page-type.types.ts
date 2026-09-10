@@ -2,9 +2,9 @@ import type { Page } from "../../../../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../../../../pages/properties/title.text-property.ts"
 import type { FitnessCoachingNoteActive } from "./properties/fitness-coaching-note-active.boolean-property.types.ts"
 import type { FitnessCoachingNoteDate } from "./properties/fitness-coaching-note-date.calendar-date-property.types.ts"
-import type { FitnessCoachingNoteKind } from "./properties/fitness-coaching-note-kind.select-property.ts"
+import type { FitnessCoachingNoteKind } from "./properties/fitness-coaching-note-kind.select-property.types.ts"
 import type { FitnessCoachingNoteSortOrder } from "./properties/fitness-coaching-note-sort-order.number-property.ts"
-import type { FocusTags } from "./properties/focus-tags.select-property.ts"
+import type { FocusTags } from "./properties/focus-tags.select-property.types.ts"
 import type { Says } from "./properties/says.file-property.ts"
 
 export type FitnessCoachingNote = Page & {

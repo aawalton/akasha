@@ -8,6 +8,5 @@ export const toDoCategory = {
   propertySlug: "to-do-category",
   definition: "the list a to-do is filed under in the app",
   values: ["faith", "health", "inbox", "love", "wealth"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ToDoCategory = (typeof toDoCategory.values)[number]

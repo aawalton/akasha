@@ -14,6 +14,5 @@ export const lockState = {
       statement: "A locked card is titled by three question marks rather than by its persona.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type LockState = (typeof lockState.values)[number]

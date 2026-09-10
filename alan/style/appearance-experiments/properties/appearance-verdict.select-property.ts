@@ -8,6 +8,5 @@ export const appearanceVerdict = {
   propertySlug: "verdict",
   definition: "what an experiment leaves Alan doing with the thing next",
   values: ["keep", "tweak", "drop"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type AppearanceVerdict = (typeof appearanceVerdict.values)[number]

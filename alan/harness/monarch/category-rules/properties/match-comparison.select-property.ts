@@ -18,6 +18,5 @@ export const matchComparison = {
       statement: "Only a clause testing a date compares by `on-or-after` or `is-before`.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type MatchComparison = (typeof matchComparison.values)[number]

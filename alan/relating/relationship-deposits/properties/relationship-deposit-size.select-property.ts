@@ -8,6 +8,5 @@ export const relationshipDepositSize = {
   propertySlug: "relationship-deposit-size",
   definition: "how much it put in",
   values: ["small", "medium", "large"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type RelationshipDepositSize = (typeof relationshipDepositSize.values)[number]

@@ -16,6 +16,5 @@ export const display = {
     "samsung-s24d300",
     "acer-xz322qu-v3",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Display = (typeof display.values)[number]

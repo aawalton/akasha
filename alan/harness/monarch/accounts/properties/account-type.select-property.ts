@@ -18,6 +18,5 @@ export const accountType = {
       statement: "A sort Monarch spells with an underscore is kept as Monarch spells that sort.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type AccountType = (typeof accountType.values)[number]

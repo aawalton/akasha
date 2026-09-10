@@ -25,6 +25,5 @@ export const rank = {
     "S",
     "S+",
   ],
+  types: "ts",
 } as const satisfies RankProperty
-
-export type Rank = (typeof rank.values)[number]

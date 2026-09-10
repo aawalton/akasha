@@ -30,6 +30,5 @@ export const messageWarrant = {
       statement: "The answer to a blocked message reaches the sender's mailbox.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type MessageWarrant = (typeof messageWarrant.values)[number]

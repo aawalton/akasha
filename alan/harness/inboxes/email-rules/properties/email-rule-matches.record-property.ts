@@ -1,7 +1,7 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { EmailRuleMatchComparison } from "./email-rule-match-comparison.select-property.ts"
-import type { EmailRuleMatchField } from "./email-rule-match-field.select-property.ts"
+import type { EmailRuleMatchComparison } from "./email-rule-match-comparison.select-property.types.ts"
+import type { EmailRuleMatchField } from "./email-rule-match-field.select-property.types.ts"
 import type { EmailRuleMatchValues } from "./email-rule-match-values.text-property.ts"
 
 export type EmailRuleMatch = {

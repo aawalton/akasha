@@ -8,6 +8,5 @@ export const formFactor = {
   propertySlug: "form-factor",
   definition: "whether it sits on a desk or travels",
   values: ["desktop", "laptop"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type FormFactor = (typeof formFactor.values)[number]

@@ -8,6 +8,5 @@ export const decisionType = {
   propertySlug: "decision-type",
   definition: "what a decision settled",
   values: ["stat", "other"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type DecisionType = (typeof decisionType.values)[number]

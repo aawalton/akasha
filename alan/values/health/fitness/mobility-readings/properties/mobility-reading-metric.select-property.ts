@@ -8,6 +8,5 @@ export const mobilityReadingMetric = {
   propertySlug: "mobility-reading-metric",
   definition: "which movement the reading measures",
   values: ["forward-fold", "supine-slr", "wall-slide-overhead", "hamstring-lr-gap"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type MobilityReadingMetric = (typeof mobilityReadingMetric.values)[number]

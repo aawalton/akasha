@@ -14,6 +14,5 @@ export const linkPlatform = {
       statement: "A native link is followed inside the app and nowhere else.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type LinkPlatform = (typeof linkPlatform.values)[number]

@@ -8,6 +8,5 @@ export const operatingSystem = {
   propertySlug: "operating-system",
   definition: "which system it boots",
   values: ["macos-sequoia", "windows-11-home", "windows-10-home", "windows-11-pro"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type OperatingSystem = (typeof operatingSystem.values)[number]

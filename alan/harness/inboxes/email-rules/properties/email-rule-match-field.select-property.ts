@@ -27,6 +27,5 @@ export const emailRuleMatchField = {
       statement: "A field the mail offers sits here whether or not a rule names that field yet.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type EmailRuleMatchField = (typeof emailRuleMatchField.values)[number]

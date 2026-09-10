@@ -8,6 +8,5 @@ export const mechanic = {
   propertySlug: "mechanic",
   definition: "whether the movement crosses one joint or several",
   values: ["compound", "isolation"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Mechanic = (typeof mechanic.values)[number]

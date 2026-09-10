@@ -14,6 +14,5 @@ export const layout = {
       statement: "A layout is how the answer is shown rather than part of the question.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Layout = (typeof layout.values)[number]

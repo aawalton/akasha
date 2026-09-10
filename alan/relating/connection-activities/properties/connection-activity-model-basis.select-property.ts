@@ -8,6 +8,5 @@ export const connectionActivityModelBasis = {
   propertySlug: "connection-activity-model-basis",
   definition: "the calibration the ratings were set against",
   values: ["n32-l6-w05"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ConnectionActivityModelBasis = (typeof connectionActivityModelBasis.values)[number]

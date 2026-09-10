@@ -14,6 +14,5 @@ export const runStatus = {
       statement: "A pull left `running` by a process that died is settled as `failed`.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type RunStatus = (typeof runStatus.values)[number]

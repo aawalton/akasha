@@ -8,6 +8,5 @@ export const controlledEntityKind = {
   propertySlug: "controlled-entity-kind",
   definition: "how many characters the player has at once",
   values: ["single"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ControlledEntityKind = (typeof controlledEntityKind.values)[number]

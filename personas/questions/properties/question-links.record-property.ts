@@ -1,7 +1,7 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { LinkLabel } from "./link-label.text-property.ts"
-import type { LinkPlatform } from "./link-platform.select-property.ts"
+import type { LinkPlatform } from "./link-platform.select-property.types.ts"
 import type { LinkTarget } from "./link-target.text-property.ts"
 
 export type QuestionLink = {

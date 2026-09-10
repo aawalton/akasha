@@ -8,6 +8,5 @@ export const force = {
   propertySlug: "force",
   definition: "which way the movement drives the load",
   values: ["pull", "push", "static"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Force = (typeof force.values)[number]

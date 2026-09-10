@@ -8,6 +8,5 @@ export const computerStatus = {
   propertySlug: "computer-status",
   definition: "where it is in Alan's hands",
   values: ["active", "needs-repair", "prepare-to-sell", "listed", "sold", "in-storage", "option"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ComputerStatus = (typeof computerStatus.values)[number]

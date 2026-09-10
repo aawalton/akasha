@@ -8,6 +8,5 @@ export const mechanicsWeight = {
   propertySlug: "mechanics-weight",
   definition: "how much of a game is decided by its numbers",
   values: ["zero", "medium", "heavy"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type MechanicsWeight = (typeof mechanicsWeight.values)[number]

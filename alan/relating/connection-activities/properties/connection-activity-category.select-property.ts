@@ -8,6 +8,5 @@ export const connectionActivityCategory = {
   propertySlug: "connection-activity-category",
   definition: "the company it puts him in",
   values: ["in-person", "group", "spouse", "online-real", "parasocial", "ai", "solo"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ConnectionActivityCategory = (typeof connectionActivityCategory.values)[number]

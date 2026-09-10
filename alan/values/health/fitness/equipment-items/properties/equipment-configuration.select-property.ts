@@ -14,6 +14,5 @@ export const equipmentConfiguration = {
       statement: "A piece with no load at all is configured n-a.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type EquipmentConfiguration = (typeof equipmentConfiguration.values)[number]

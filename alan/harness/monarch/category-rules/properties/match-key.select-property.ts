@@ -22,6 +22,5 @@ export const matchKey = {
       statement: "An account is tested by the last four digits its slug ends in.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type MatchKey = (typeof matchKey.values)[number]

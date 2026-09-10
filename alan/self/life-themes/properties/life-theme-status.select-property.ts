@@ -8,6 +8,5 @@ export const lifeThemeStatus = {
   propertySlug: "life-theme-status",
   definition: "how far along a life theme is",
   values: ["up-next", "current-focus", "in-progress", "done"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type LifeThemeStatus = (typeof lifeThemeStatus.values)[number]

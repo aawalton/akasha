@@ -8,6 +8,5 @@ export const muscleFocus = {
   propertySlug: "muscle-focus",
   definition: "which day of the rotation the movement belongs to",
   values: ["core", "legs", "other", "pull", "push"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type MuscleFocus = (typeof muscleFocus.values)[number]

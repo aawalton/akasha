@@ -22,6 +22,5 @@ export const holds = {
       statement: "No calculation states a list.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Holds = (typeof holds.values)[number]

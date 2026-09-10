@@ -14,6 +14,5 @@ export const platform = {
       statement: "The machines are named as The Elder Scrolls Online names those machines.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Platform = (typeof platform.values)[number]

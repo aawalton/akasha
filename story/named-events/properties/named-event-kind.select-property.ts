@@ -8,6 +8,5 @@ export const namedEventKind = {
   propertySlug: "named-event-kind",
   definition: "what sort of happening it is",
   values: ["battle", "global-event", "festival"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type NamedEventKind = (typeof namedEventKind.values)[number]

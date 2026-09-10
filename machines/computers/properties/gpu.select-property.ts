@@ -20,6 +20,5 @@ export const gpu = {
     "intel-arc-140t",
     "nvidia-geforce-rtx-3080",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Gpu = (typeof gpu.values)[number]

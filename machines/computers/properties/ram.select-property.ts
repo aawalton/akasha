@@ -8,6 +8,5 @@ export const ram = {
   propertySlug: "ram",
   definition: "how much memory it carries",
   values: ["64gb", "16gb", "32gb", "12gb"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Ram = (typeof ram.values)[number]

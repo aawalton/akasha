@@ -1,5 +1,4 @@
 import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export const baseRoles = {
   id: "01a06862-c4ee-780f-ab05-93eb2cdb2991",
@@ -15,8 +14,7 @@ export const baseRoles = {
       statement: "A build arranged for no part names none.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
 
 export type BaseRole = (typeof baseRoles.values)[number]
-
-export type BaseRoles = List<BaseRole>

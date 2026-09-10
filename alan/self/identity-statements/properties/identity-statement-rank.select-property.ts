@@ -8,6 +8,5 @@ export const identityStatementRank = {
   propertySlug: "identity-statement-rank",
   definition: "how hard this statement is to hold",
   values: ["s-rank", "a-rank", "b-rank", "c-rank", "d-rank"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type IdentityStatementRank = (typeof identityStatementRank.values)[number]

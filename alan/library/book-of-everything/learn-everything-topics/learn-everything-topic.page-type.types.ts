@@ -12,7 +12,7 @@ import type { TopicMasteryLevel } from "./properties/topic-mastery-level.relatio
 import type { TopicNode } from "./properties/topic-node.text-property.ts"
 import type { TopicPartOf } from "./properties/topic-part-of.relation-property.ts"
 import type { TopicScoredOn } from "./properties/topic-scored-on.calendar-date-property.types.ts"
-import type { TopicStatus } from "./properties/topic-status.select-property.ts"
+import type { TopicStatus } from "./properties/topic-status.select-property.types.ts"
 
 export type LearnEverythingTopic = Page & {
   node: TopicNode

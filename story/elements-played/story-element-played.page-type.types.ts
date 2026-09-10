@@ -1,6 +1,6 @@
 import type { Page } from "../../pages/page.page-type.types.ts"
 import type { Doing } from "./properties/doing.text-property.ts"
-import type { ElementKind } from "./properties/element-kind.select-property.ts"
+import type { ElementKind } from "./properties/element-kind.select-property.types.ts"
 import type { Feeling } from "./properties/feeling.text-property.ts"
 import type { Knowing } from "./properties/knowing.text-property.ts"
 import type { Perceiving } from "./properties/perceiving.text-property.ts"

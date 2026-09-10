@@ -8,6 +8,5 @@ export const connectionActivitySafety = {
   propertySlug: "connection-activity-safety",
   definition: "the safety level he has to be at to get anything from it",
   values: ["L2", "L3", "L4", "L5", "L6"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ConnectionActivitySafety = (typeof connectionActivitySafety.values)[number]

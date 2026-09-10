@@ -18,6 +18,5 @@ export const categorySource = {
       statement: "A transaction stating no source took its category from Monarch untouched.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type CategorySource = (typeof categorySource.values)[number]

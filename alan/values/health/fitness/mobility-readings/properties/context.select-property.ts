@@ -8,6 +8,5 @@ export const context = {
   propertySlug: "context",
   definition: "what the reading was taken around",
   values: ["warmup", "cooldown", "standalone"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Context = (typeof context.values)[number]

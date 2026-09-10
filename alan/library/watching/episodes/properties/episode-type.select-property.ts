@@ -15,6 +15,5 @@ export const episodeType = {
         "The values are the ones the record has rather than every value the provider answers with.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type EpisodeType = (typeof episodeType.values)[number]

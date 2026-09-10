@@ -8,6 +8,5 @@ export const anchorDirection = {
   propertySlug: "direction",
   definition: "which way an anchor runs from what it is read against",
   values: ["before", "after", "simultaneous"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type AnchorDirection = (typeof anchorDirection.values)[number]

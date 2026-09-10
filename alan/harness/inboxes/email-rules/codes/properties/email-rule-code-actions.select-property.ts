@@ -1,5 +1,4 @@
 import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export const emailRuleCodeActions = {
   id: "01a06860-54a0-7cf6-aa4f-d2130e8c5b06",
@@ -15,6 +14,5 @@ export const emailRuleCodeActions = {
       statement: "An action sits beside the filing rather than in place of that filing.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type EmailRuleCodeActions = List<(typeof emailRuleCodeActions.values)[number]>

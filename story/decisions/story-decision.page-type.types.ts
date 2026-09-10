@@ -6,7 +6,7 @@ import type { ChapterNumber } from "../wiki-entries/properties/chapter-number.nu
 import type { Chosen } from "./properties/chosen.text-property.ts"
 import type { DecisionEffect } from "./properties/decision-effect.text-property.ts"
 import type { DecisionOptions } from "./properties/decision-options.text-property.ts"
-import type { DecisionType } from "./properties/decision-type.select-property.ts"
+import type { DecisionType } from "./properties/decision-type.select-property.types.ts"
 
 export type StoryDecision = Page & {
   title: Title

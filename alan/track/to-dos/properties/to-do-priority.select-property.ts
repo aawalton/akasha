@@ -8,6 +8,5 @@ export const toDoPriority = {
   propertySlug: "to-do-priority",
   definition: "how far up the list a to-do stands",
   values: ["p1", "p2", "p3", "p4"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ToDoPriority = (typeof toDoPriority.values)[number]

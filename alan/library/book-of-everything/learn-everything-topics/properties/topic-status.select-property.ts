@@ -18,6 +18,5 @@ export const topicStatus = {
       statement: "A topic worked and left warm is `resting`.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type TopicStatus = (typeof topicStatus.values)[number]

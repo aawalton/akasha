@@ -14,6 +14,5 @@ export const wikiKind = {
       statement: "A seed is a thing the story has set up rather than a thing the story has.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type WikiKind = (typeof wikiKind.values)[number]

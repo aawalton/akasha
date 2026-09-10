@@ -8,6 +8,5 @@ export const about = {
   propertySlug: "about",
   definition: "what the statement is about",
   values: ["myself", "others", "reality"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type About = (typeof about.values)[number]

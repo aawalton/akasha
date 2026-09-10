@@ -8,6 +8,5 @@ export const focus = {
   propertySlug: "focus",
   definition: "what the day trains",
   values: ["legs", "pull", "push", "rest"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Focus = (typeof focus.values)[number]

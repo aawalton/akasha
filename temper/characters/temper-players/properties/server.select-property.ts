@@ -14,6 +14,5 @@ export const server = {
       statement: "A megaserver has its own trading prices.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Server = (typeof server.values)[number]

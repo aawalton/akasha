@@ -8,6 +8,5 @@ export const displayRefreshRate = {
   propertySlug: "display-refresh-rate",
   definition: "how often that monitor redraws",
   values: ["50-hz", "120-hz", "60-hz"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type DisplayRefreshRate = (typeof displayRefreshRate.values)[number]

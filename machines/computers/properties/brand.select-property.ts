@@ -8,6 +8,5 @@ export const brand = {
   propertySlug: "brand",
   definition: "who made it",
   values: ["msi", "apple", "hp", "dell", "cyberpowerpc", "ibuypower", "corsair"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Brand = (typeof brand.values)[number]

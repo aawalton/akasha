@@ -8,6 +8,5 @@ export const connectionActivityReality = {
   propertySlug: "connection-activity-reality",
   definition: "how much of the other person he is actually meeting",
   values: ["authentic", "professional", "celebrity"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ConnectionActivityReality = (typeof connectionActivityReality.values)[number]

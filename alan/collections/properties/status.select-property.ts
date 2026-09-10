@@ -26,6 +26,5 @@ export const status = {
       statement: "A collection put out of sight is `archived`.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Status = (typeof status.values)[number]

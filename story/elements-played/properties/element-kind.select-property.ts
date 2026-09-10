@@ -18,6 +18,5 @@ export const elementKind = {
       statement: "A setting is an element whose wanting is law rather than desire.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ElementKind = (typeof elementKind.values)[number]

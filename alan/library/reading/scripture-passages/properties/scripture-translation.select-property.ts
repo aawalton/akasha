@@ -14,6 +14,5 @@ export const scriptureTranslation = {
       statement: "A book of scripture is read from one rendering.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ScriptureTranslation = (typeof scriptureTranslation.values)[number]

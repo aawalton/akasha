@@ -6,7 +6,7 @@ import type { RunCompletedAt } from "./properties/run-completed-at.instant-prope
 import type { RunErrorMessage } from "./properties/run-error-message.text-property.ts"
 import type { RunSeq } from "./properties/run-seq.number-property.ts"
 import type { RunStartedAt } from "./properties/run-started-at.instant-property.types.ts"
-import type { RunStatus } from "./properties/run-status.select-property.ts"
+import type { RunStatus } from "./properties/run-status.select-property.types.ts"
 import type { SkippedCount } from "./properties/skipped-count.number-property.ts"
 import type { UpdatedCount } from "./properties/updated-count.number-property.ts"
 

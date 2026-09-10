@@ -8,6 +8,5 @@ export const playerColor = {
   propertySlug: "player-color",
   definition: "which side Alan played",
   values: ["white", "black"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type PlayerColor = (typeof playerColor.values)[number]

@@ -15,6 +15,5 @@ export const productionStatus = {
         "The values are the ones the record has rather than every value the provider answers with.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ProductionStatus = (typeof productionStatus.values)[number]

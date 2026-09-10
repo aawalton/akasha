@@ -8,6 +8,5 @@ export const chessProgressStatus = {
   propertySlug: "status",
   definition: "how settled a part of Alan's chess is",
   values: ["unknown", "shaky", "developing", "solid"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ChessProgressStatus = (typeof chessProgressStatus.values)[number]

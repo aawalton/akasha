@@ -1,6 +1,6 @@
 import type { Page } from "../../../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
-import type { ActivityType } from "./properties/activity-type.select-property.ts"
+import type { ActivityType } from "./properties/activity-type.select-property.types.ts"
 import type { Day } from "./properties/day.relation-property.ts"
 import type { Distance } from "./properties/distance.number-property.ts"
 import type { DurationSeconds } from "./properties/duration-seconds.number-property.ts"

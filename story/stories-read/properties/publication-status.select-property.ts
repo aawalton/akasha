@@ -15,6 +15,5 @@ export const publicationStatus = {
         "A publication status is the source's own state rather than how far the person has got.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type PublicationStatus = (typeof publicationStatus.values)[number]

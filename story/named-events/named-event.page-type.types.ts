@@ -8,7 +8,7 @@ import type { EventLastChapter } from "./properties/event-last-chapter.number-pr
 import type { EvidenceBeat } from "./properties/evidence-beat.number-property.ts"
 import type { EvidenceChapter } from "./properties/evidence-chapter.text-property.ts"
 import type { EvidenceNote } from "./properties/evidence-note.text-property.ts"
-import type { NamedEventKind } from "./properties/named-event-kind.select-property.ts"
+import type { NamedEventKind } from "./properties/named-event-kind.select-property.types.ts"
 
 export type NamedEvent = Page & {
   title: Title

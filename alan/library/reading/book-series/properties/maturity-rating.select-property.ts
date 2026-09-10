@@ -18,6 +18,5 @@ export const maturityRating = {
       statement: "A series the provider rated not at all states no rating.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type MaturityRating = (typeof maturityRating.values)[number]

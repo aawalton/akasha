@@ -32,6 +32,5 @@ export const emailRuleMatchComparison = {
         "A comparison a text field takes sits here whether or not a rule names that comparison yet.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type EmailRuleMatchComparison = (typeof emailRuleMatchComparison.values)[number]

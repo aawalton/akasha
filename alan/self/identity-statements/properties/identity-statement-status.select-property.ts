@@ -8,6 +8,5 @@ export const identityStatementStatus = {
   propertySlug: "identity-statement-status",
   definition: "how far along this statement is",
   values: ["planned", "in-progress", "current", "deprecated"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type IdentityStatementStatus = (typeof identityStatementStatus.values)[number]

@@ -8,6 +8,5 @@ export const side = {
   propertySlug: "side",
   definition: "which side of the body the reading is of",
   values: ["left", "right", "n-a"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Side = (typeof side.values)[number]

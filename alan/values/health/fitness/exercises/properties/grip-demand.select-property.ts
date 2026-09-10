@@ -8,6 +8,5 @@ export const gripDemand = {
   propertySlug: "grip-demand",
   definition: "how much the movement asks of the hands before the target muscle gives out",
   values: ["high", "low", "none"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type GripDemand = (typeof gripDemand.values)[number]

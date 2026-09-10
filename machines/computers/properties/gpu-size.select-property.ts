@@ -8,6 +8,5 @@ export const gpuSize = {
   propertySlug: "gpu-size",
   definition: "how much memory the graphics card carries",
   values: ["16gb", "64gb", "6gb", "8gb", "4gb", "11gb", "10gb"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type GpuSize = (typeof gpuSize.values)[number]

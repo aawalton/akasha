@@ -18,6 +18,5 @@ export const emailRuleCodeFiling = {
       statement: "Skipping is doing nothing to the mail rather than leaving the filing unstated.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type EmailRuleCodeFiling = (typeof emailRuleCodeFiling.values)[number]

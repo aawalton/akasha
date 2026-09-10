@@ -18,6 +18,5 @@ export const questionStatus = {
       statement: "A dismissed question was let go rather than answered.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type QuestionStatus = (typeof questionStatus.values)[number]

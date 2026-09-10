@@ -15,6 +15,5 @@ export const gbwwEditionMarker = {
         "A reading is in the plan whether or not the edition Alan has carries that reading.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type GbwwEditionMarker = (typeof gbwwEditionMarker.values)[number]

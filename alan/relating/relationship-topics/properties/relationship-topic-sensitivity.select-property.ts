@@ -8,6 +8,5 @@ export const relationshipTopicSensitivity = {
   propertySlug: "relationship-topic-sensitivity",
   definition: "how much care raising this topic takes",
   values: ["not-applicable", "low", "medium", "high", "critical"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type RelationshipTopicSensitivity = (typeof relationshipTopicSensitivity.values)[number]

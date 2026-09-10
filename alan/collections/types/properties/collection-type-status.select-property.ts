@@ -15,6 +15,5 @@ export const collectionTypeStatus = {
         "This property says whether the kind is gathered rather than how far one collection has got.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type CollectionTypeStatus = (typeof collectionTypeStatus.values)[number]

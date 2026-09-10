@@ -14,6 +14,5 @@ export const groupGranularity = {
       statement: "Only a view gathering by a date states a granularity.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type GroupGranularity = (typeof groupGranularity.values)[number]

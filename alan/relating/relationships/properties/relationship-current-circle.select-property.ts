@@ -16,6 +16,5 @@ export const relationshipCurrentCircle = {
     "acquaintances",
     "deceased",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type RelationshipCurrentCircle = (typeof relationshipCurrentCircle.values)[number]

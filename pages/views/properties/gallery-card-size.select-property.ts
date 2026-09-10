@@ -8,6 +8,5 @@ export const galleryCardSize = {
   propertySlug: "gallery-card-size",
   definition: "how large a gallery draws one card",
   values: ["small", "medium", "large"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type GalleryCardSize = (typeof galleryCardSize.values)[number]

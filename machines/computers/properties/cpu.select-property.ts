@@ -22,6 +22,5 @@ export const cpu = {
     "intel-core-ultra-7-265",
     "amd-ryzen-9-5950x",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Cpu = (typeof cpu.values)[number]

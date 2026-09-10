@@ -8,6 +8,5 @@ export const restart = {
   propertySlug: "restart",
   definition: "when a unit is started again after it ends",
   values: ["always", "on-failure"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Restart = (typeof restart.values)[number]

@@ -8,6 +8,5 @@ export const resolution = {
   propertySlug: "resolution",
   definition: "how a game settles what an action comes to",
   values: ["none", "formula", "hybrid"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Resolution = (typeof resolution.values)[number]

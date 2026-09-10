@@ -8,6 +8,5 @@ export const displayResolution = {
   propertySlug: "display-resolution",
   definition: "how many pixels that monitor carries",
   values: ["3440x1440", "3456x2234", "1920x1080", "2560x1440", "2048-x-1280"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type DisplayResolution = (typeof displayResolution.values)[number]

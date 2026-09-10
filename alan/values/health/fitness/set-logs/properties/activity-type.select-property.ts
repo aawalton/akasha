@@ -8,6 +8,5 @@ export const activityType = {
   propertySlug: "activity-type",
   definition: "what sort of work the set was, where it is not a loaded lift",
   values: ["cardio", "mobility"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ActivityType = (typeof activityType.values)[number]

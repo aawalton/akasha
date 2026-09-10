@@ -19,6 +19,5 @@ export const anchorTier = {
       statement: "An anchor pinning nothing is unanchored rather than absent.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type AnchorTier = (typeof anchorTier.values)[number]

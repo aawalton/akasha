@@ -8,6 +8,5 @@ export const useLimit = {
   propertySlug: "use-limit",
   definition: "how many times the offer may be claimed",
   values: ["1", "2", "3", "no-limit"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type UseLimit = (typeof useLimit.values)[number]

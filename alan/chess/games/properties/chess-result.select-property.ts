@@ -8,6 +8,5 @@ export const chessResult = {
   propertySlug: "result",
   definition: "the score a game finished on",
   values: ["1-0", "0-1", "1/2-1/2", "*"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ChessResult = (typeof chessResult.values)[number]

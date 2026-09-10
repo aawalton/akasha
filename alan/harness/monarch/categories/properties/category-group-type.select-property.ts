@@ -14,6 +14,5 @@ export const categoryGroupType = {
       statement: "A transfer moves money the household already holds from one account to another.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type CategoryGroupType = (typeof categoryGroupType.values)[number]

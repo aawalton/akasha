@@ -8,6 +8,5 @@ export const chessSpeed = {
   propertySlug: "speed",
   definition: "how fast a game was played",
   values: ["ultra-bullet", "bullet", "blitz", "rapid", "classical", "correspondence", "unlimited"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ChessSpeed = (typeof chessSpeed.values)[number]

@@ -1,4 +1,4 @@
-import type { Rank } from "akasha/alan/collections/properties/rank.rank-property.ts"
+import type { Rank } from "akasha/alan/collections/properties/rank.rank-property.types.ts"
 
 export type MusicRating = Rank
 

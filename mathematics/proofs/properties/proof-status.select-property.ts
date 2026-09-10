@@ -8,6 +8,5 @@ export const proofStatus = {
   propertySlug: "proof-status",
   definition: "how far an attempt has been taken",
   values: ["draft", "complete", "abandoned"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ProofStatus = (typeof proofStatus.values)[number]

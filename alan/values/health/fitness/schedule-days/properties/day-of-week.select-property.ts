@@ -8,6 +8,5 @@ export const dayOfWeek = {
   propertySlug: "day-of-week",
   definition: "which day of the week this one falls on",
   values: ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type DayOfWeek = (typeof dayOfWeek.values)[number]

@@ -14,6 +14,5 @@ export const stockScope = {
       statement: "A rule counting the current character alone stocks each character apart.",
     },
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type StockScope = (typeof stockScope.values)[number]

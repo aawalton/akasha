@@ -16,6 +16,5 @@ export const exerciseCategory = {
     "stretching",
     "strongman",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ExerciseCategory = (typeof exerciseCategory.values)[number]

@@ -7,7 +7,7 @@ import type { QuestionClosedAt } from "./properties/question-closed-at.instant-p
 import type { QuestionContext } from "./properties/question-context.file-property.ts"
 import type { QuestionLinks } from "./properties/question-links.record-property.ts"
 import type { QuestionOffered } from "./properties/question-offered.text-property.ts"
-import type { QuestionStatus } from "./properties/question-status.select-property.ts"
+import type { QuestionStatus } from "./properties/question-status.select-property.types.ts"
 
 export type Question = Page & {
   ask: QuestionAsk

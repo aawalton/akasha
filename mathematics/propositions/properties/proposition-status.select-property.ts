@@ -8,6 +8,5 @@ export const propositionStatus = {
   propertySlug: "proposition-status",
   definition: "where the statement is in being settled",
   values: ["open", "adopted", "proved", "parked"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type PropositionStatus = (typeof propositionStatus.values)[number]

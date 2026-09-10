@@ -8,6 +8,5 @@ export const equipmentCategory = {
   propertySlug: "category",
   definition: "the sort of kit a piece is",
   values: ["dumbbells", "kettlebells", "bench", "band", "vest", "cardio-machine", "other"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type EquipmentCategory = (typeof equipmentCategory.values)[number]

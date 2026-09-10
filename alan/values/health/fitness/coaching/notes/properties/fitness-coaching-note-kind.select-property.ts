@@ -15,6 +15,5 @@ export const fitnessCoachingNoteKind = {
     "ef-accommodation",
     "bout-observation",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type FitnessCoachingNoteKind = (typeof fitnessCoachingNoteKind.values)[number]

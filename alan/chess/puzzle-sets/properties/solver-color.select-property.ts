@@ -8,6 +8,5 @@ export const solverColor = {
   propertySlug: "solver-color",
   definition: "which side the solver moves",
   values: ["white", "black"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type SolverColor = (typeof solverColor.values)[number]

@@ -21,6 +21,5 @@ export const equipment = {
     "medicine-ball",
     "other",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Equipment = (typeof equipment.values)[number]

@@ -8,6 +8,5 @@ export const placedBy = {
   propertySlug: "placed-by",
   definition: "how the body reaches where it is read",
   values: ["link", "copy", "read-where-it-stands"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type PlacedBy = (typeof placedBy.values)[number]

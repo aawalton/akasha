@@ -5,7 +5,7 @@ import type { RelationshipAliases } from "./properties/relationship-aliases.text
 import type { RelationshipCommitment } from "./properties/relationship-commitment.number-property.ts"
 import type { RelationshipCompany } from "./properties/relationship-company.text-property.ts"
 import type { RelationshipConnection } from "./properties/relationship-connection.number-property.ts"
-import type { RelationshipCurrentCircle } from "./properties/relationship-current-circle.select-property.ts"
+import type { RelationshipCurrentCircle } from "./properties/relationship-current-circle.select-property.types.ts"
 import type { RelationshipEmail } from "./properties/relationship-email.email-address-property.types.ts"
 import type { RelationshipImpact } from "./properties/relationship-impact.number-property.ts"
 import type { RelationshipInterest } from "./properties/relationship-interest.number-property.ts"

@@ -8,6 +8,5 @@ export const laterality = {
   propertySlug: "laterality",
   definition: "whether the sides work together, apart, or in turn",
   values: ["alternating", "bilateral", "unilateral"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type Laterality = (typeof laterality.values)[number]

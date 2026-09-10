@@ -15,6 +15,5 @@ export const anchorKind = {
     "season-marker",
     "time-of-day",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type AnchorKind = (typeof anchorKind.values)[number]

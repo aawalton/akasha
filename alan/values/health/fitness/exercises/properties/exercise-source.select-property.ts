@@ -8,6 +8,5 @@ export const exerciseSource = {
   propertySlug: "exercise-source",
   definition: "where the movement was authored",
   values: ["aelwyn-custom", "free-exercise-db"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ExerciseSource = (typeof exerciseSource.values)[number]

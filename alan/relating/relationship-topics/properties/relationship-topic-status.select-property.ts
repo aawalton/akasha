@@ -8,6 +8,5 @@ export const relationshipTopicStatus = {
   propertySlug: "relationship-topic-status",
   definition: "how far a relationship topic has been taken",
   values: ["someday-maybe", "planned", "up-next", "in-progress", "done"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type RelationshipTopicStatus = (typeof relationshipTopicStatus.values)[number]

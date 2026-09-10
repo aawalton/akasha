@@ -8,6 +8,5 @@ export const masteryLevel = {
   propertySlug: "mastery-level",
   definition: "how far a part of Alan's chess has come",
   values: ["novice", "developing", "strong", "expert"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type MasteryLevel = (typeof masteryLevel.values)[number]

@@ -8,6 +8,5 @@ export const skillCost = {
   propertySlug: "skill-cost",
   definition: "how much attention the movement takes to perform safely",
   values: ["high", "low", "moderate"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type SkillCost = (typeof skillCost.values)[number]

@@ -24,6 +24,5 @@ export const secondaryPattern = {
     "v-pull",
     "v-push",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type SecondaryPattern = (typeof secondaryPattern.values)[number]

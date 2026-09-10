@@ -8,6 +8,5 @@ export const propositionKind = {
   propertySlug: "proposition-kind",
   definition: "whether the statement is given, assumed, or to be derived",
   values: ["definition", "axiom", "theorem"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type PropositionKind = (typeof propositionKind.values)[number]

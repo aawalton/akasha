@@ -8,6 +8,5 @@ export const exerciseLevel = {
   propertySlug: "exercise-level",
   definition: "how much practice the movement takes before it is worth loading",
   values: ["beginner", "expert", "intermediate"],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type ExerciseLevel = (typeof exerciseLevel.values)[number]

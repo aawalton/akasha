@@ -24,6 +24,5 @@ export const movementPattern = {
     "v-pull",
     "v-push",
   ],
+  types: "ts",
 } as const satisfies SelectProperty
-
-export type MovementPattern = (typeof movementPattern.values)[number]
