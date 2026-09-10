@@ -11,9 +11,10 @@ import {
   saidBy,
 } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Input } from "../change-walking/change-walking.module.code.ts"
-import { closing, costOf, opening, recordCost } from "../cost/check-cost.module.code.ts"
+import { type Cost, closing, costOf, opening, recordCost } from "../cost/check-cost.module.code.ts"
 import type { AnyAuditing, AnyRunning, Judged, Judging } from "../judging/judging.module.code.ts"
 import { modelChecksIn } from "../model-running/model-running.module.code.ts"
+import { refusalText } from "../refusal-text/refusal-text.module.code.ts"
 
 export type Phase = "patch" | "worktree" | "deploy" | "audit"
 
@@ -26,6 +27,8 @@ export type Gathered = {
   readonly isInput: Input | null
   readonly run: AnyRunning
   readonly audit?: AnyAuditing | null
+  readonly checkCeiling?: number | null
+  readonly auditCeiling?: number | null
 }
 
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
@@ -37,6 +40,14 @@ const CHECK_CODE = "check.code"
 const AUDIT_CODE = "audit.code"
 
 const TS = "ts"
+
+const MAX_CPU = "maxCpuSeconds"
+
+const CHECK_GROUP = "check"
+
+const AUDIT_GROUP = "audit"
+
+const OVER_CEILING = "check-over-its-ceiling"
 
 const FRAMES_AT_MOST = 3
 
@@ -68,6 +79,28 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
     if (said) held.push(phase)
   }
   return held
+}
+
+function ceilingIn(stated: Record<string, unknown>, group: string): number | null {
+  const said = stated[group]
+  if (said === null || typeof said !== "object" || Array.isArray(said)) return null
+  const held = (said as Record<string, unknown>)[MAX_CPU]
+  return typeof held === "number" ? held : null
+}
+
+function ranOver(one: Gathered, phase: Phase, cost: Cost): Judged | null {
+  const ceiling = phase === "audit" ? one.auditCeiling : one.checkCeiling
+  if (ceiling === undefined || ceiling === null) return null
+  const spent = Number((cost.cpuSeconds + cost.childCpuSeconds).toFixed(3))
+  if (spent <= ceiling) return null
+  return {
+    path: one.page,
+    reason: refusalText(OVER_CEILING, {
+      slug: one.slug,
+      spent: String(spent),
+      ceiling: String(ceiling),
+    }),
+  }
 }
 
 function inputIn(run: AnyRunning): Input | null {
@@ -157,6 +190,8 @@ export function checksIn(root: string): readonly Gathered[] {
       isInput: inputIn(run),
       run,
       audit: auditingIfThere(root, path, slug),
+      checkCeiling: ceilingIn(stated, CHECK_GROUP),
+      auditCeiling: ceilingIn(stated, AUDIT_GROUP),
     })
   }
   for (const one of modelChecksIn(root)) {
@@ -277,11 +312,18 @@ export function judgingBy(
         } catch (thrown) {
           found.push(threw(one, thrown))
         }
-        recordCost(
-          one.root,
-          one.page,
-          costOf(before, closing(), runId, phase, one.slug, change.changed.length, found.length)
+        const cost = costOf(
+          before,
+          closing(),
+          runId,
+          phase,
+          one.slug,
+          change.changed.length,
+          found.length
         )
+        recordCost(one.root, one.page, cost)
+        const over = ranOver(one, phase, cost)
+        if (over !== null) found.push(over)
         said.push(...found)
       }
       return said

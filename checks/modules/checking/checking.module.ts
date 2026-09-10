@@ -171,6 +171,30 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check spending more processor time than its group states refuses the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The check runs to its end first, so the refusal says what the check truly cost.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The time counted is the check's own together with what the check spawns.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The phase being run decides which of the groups states the ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group stating no ceiling refuses nothing however long its check runs.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here stops a check part way through for spending too long.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path the change takes away is handed to every check.",
     },
     {
