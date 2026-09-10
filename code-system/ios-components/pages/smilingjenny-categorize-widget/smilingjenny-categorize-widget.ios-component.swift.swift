@@ -21,5 +21,6 @@ struct SmilingJennyWidgets: WidgetBundle {
         SafetyLevelWidget()
         SurplusWidget()
         CostWidget()
+        UpkeepStoplightsWidget()
     }
 }

@@ -32,6 +32,7 @@ export const iosComponent = {
     "ios-component/smilingjenny-cost-widget",
     "ios-component/smilingjenny-safety-level-widget",
     "ios-component/smilingjenny-surplus-widget",
+    "ios-component/smilingjenny-upkeep-stoplights-widget",
     "ios-component/smilingjenny-widget-feed",
     "ios-component/spacing",
     "ios-component/surplus-ring",

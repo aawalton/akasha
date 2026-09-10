@@ -9,6 +9,7 @@ export const smilingjennyWidget = {
   bundleId: "me.smilingjenny.app.widgets",
   infoPlist: "plist",
   components: [
+    "ios-component/alanwalton-stoplight-ring",
     "ios-component/categorize-ring",
     "ios-component/cost-ring",
     "ios-component/ring",
@@ -18,6 +19,7 @@ export const smilingjennyWidget = {
     "ios-component/smilingjenny-cost-widget",
     "ios-component/smilingjenny-safety-level-widget",
     "ios-component/smilingjenny-surplus-widget",
+    "ios-component/smilingjenny-upkeep-stoplights-widget",
     "ios-component/smilingjenny-widget-feed",
     "ios-component/spacing",
     "ios-component/surplus-ring",
