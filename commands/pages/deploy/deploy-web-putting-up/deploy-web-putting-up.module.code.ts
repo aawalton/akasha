@@ -71,7 +71,10 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
   report.push(
     `source\t${sha}\t${carried.carried ? "origin carries it" : "origin does not carry it"}`
   )
-  if (!carried.carried) {
+  if (!carried.carried && dryRun) {
+    report.push(`push\t${sha} would be pushed to origin, and a dry run pushes nothing`)
+  }
+  if (!carried.carried && !dryRun) {
     const pushed = pushBranch(given.root)
     report.push(`push\t${pushed.line}`)
     if (pushed.failed) {

@@ -95,5 +95,9 @@ export const deployWebPuttingUp = {
       invariantKind: "absence",
       statement: "Nothing here puts up a service the cluster does not run as a workload.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A dry run pushes nothing and says what the push would carry.",
+    },
   ],
 } as const satisfies Module

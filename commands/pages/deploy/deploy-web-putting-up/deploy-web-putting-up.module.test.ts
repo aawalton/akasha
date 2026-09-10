@@ -72,7 +72,7 @@ test("a commit origin main does not carry is pushed there rather than refused", 
     said(["git", "-C", origin, "init", "-q", "--bare", "-b", "main"])
     tracking(world.root, origin)
     const sha = ahead(world.root, "later.txt", "what origin does not carry")
-    await putUpWebApp("one-web", given(world.root), true)
+    await putUpWebApp("one-web", given(world.root), false)
     expect(said(["git", "-C", origin, "rev-parse", "refs/heads/main"]).trim()).toBe(sha)
   } finally {
     rmSync(origin, { recursive: true, force: true })
@@ -93,12 +93,30 @@ test("a push the remote refuses refuses the call rather than building on", async
     ahead(theirs, "theirs.txt", "what someone else carried")
     said(["git", "-C", theirs, "push", "-q", "origin", "HEAD:refs/heads/main"])
     const sha = ahead(world.root, "later.txt", "what origin does not carry")
-    const answer = await putUpWebApp("one-web", given(world.root), true)
+    const answer = await putUpWebApp("one-web", given(world.root), false)
     expect(answer.code).toBe(OPERATIONAL)
     expect(answer.refusals[0]).toContain(sha)
     expect(answer.refusals.join(" ")).not.toContain("migration")
   } finally {
     rmSync(other, { recursive: true, force: true })
+    rmSync(origin, { recursive: true, force: true })
+    world.sweep()
+  }
+})
+
+test("a dry run says what the push would carry and pushes none of it", async () => {
+  const world = seededWorld()
+  const origin = mkdtempSync(join(HOLD, ORIGIN_PREFIX))
+  try {
+    committed(world.root, "what origin carries")
+    said(["git", "-C", origin, "init", "-q", "--bare", "-b", "main"])
+    tracking(world.root, origin)
+    const before = said(["git", "-C", origin, "rev-parse", "refs/heads/main"]).trim()
+    const sha = ahead(world.root, "later.txt", "what origin does not carry")
+    const answer = await putUpWebApp("one-web", given(world.root), true)
+    expect(said(["git", "-C", origin, "rev-parse", "refs/heads/main"]).trim()).toBe(before)
+    expect(answer.report.join("\n")).toContain(`${sha} would be pushed`)
+  } finally {
     rmSync(origin, { recursive: true, force: true })
     world.sweep()
   }
