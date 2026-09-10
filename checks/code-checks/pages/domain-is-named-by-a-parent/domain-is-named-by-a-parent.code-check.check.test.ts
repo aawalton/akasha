@@ -17,7 +17,7 @@ import {
   put,
   typed,
 } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { domainIsNamedByAParent } from "./domain-is-named-by-a-parent.code-check.code.ts"
+import { domainIsNamedByAParent } from "./domain-is-named-by-a-parent.code-check.check.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"
 
