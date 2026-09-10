@@ -12,6 +12,5 @@ export const infrastructure = {
     "command/infrastructure-loki",
     "command/infrastructure-service",
     "command/infrastructure-shell-init-bash",
-    "command/infrastructure-workload-apply",
   ],
 } as const satisfies Namespace
