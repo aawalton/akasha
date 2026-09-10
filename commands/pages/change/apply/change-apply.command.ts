@@ -48,7 +48,7 @@ export const changeApply = {
     },
     {
       invariantKind: "departure",
-      statement: "The key `draft` is refused, as an apply lands rather than keeps.",
+      statement: "The key `draft` is refused.",
     },
     {
       invariantKind: "departure",
@@ -134,8 +134,11 @@ export const changeApply = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A landing may wrap a line the change wrote, so what lands is not always the text handed in.",
+      statement: "A landing may wrap a line the change wrote.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What lands is not always the text handed in.",
     },
   ],
 } as const satisfies Command
