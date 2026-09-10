@@ -1,9 +1,28 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { said as git } from "../../git/running/git-running.module.code.ts"
 import { scratchWorld } from "../modules/scratching/scratching.module.code.ts"
 
 const LANES = 40
+
+const MODULE = "module"
+
+const LANDS = "landing"
+
+const CODE = "code"
+
+const TS = "ts"
+
+function landingAt(from: string): string {
+  const page = listedAt(from, MODULE, LANDS)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${LANDS}\`, so no lane would land anything`)
+  }
+  return at
+}
 
 const SEEDED = "seed.txt"
 
@@ -67,8 +86,8 @@ function seeded(scratch: ReturnType<typeof scratchWorld>): string {
   return root
 }
 
-function landsOn(landingAt: string, root: string, name: string): string {
-  return `import { landing } from ${JSON.stringify(landingAt)}
+function landsOn(reachedAt: string, root: string, name: string): string {
+  return `import { landing } from ${JSON.stringify(reachedAt)}
 import { existsSync, writeFileSync } from "node:fs"
 writeFileSync(${JSON.stringify(join(root, `${READY}${name}`))}, "ready")
 while (!existsSync(${JSON.stringify(join(root, GO))})) Bun.sleepSync(${TICK})
@@ -115,13 +134,13 @@ async function whyOfFirst(
 }
 
 export async function measured(from: string): Promise<readonly string[]> {
-  const landingAt = join(from, "commands/modules/landing/landing.module.code.ts")
+  const reached = join(from, landingAt(from))
   const scratch = scratchWorld()
   try {
     const root = seeded(scratch)
     const names = namesOf(LANES)
     const kids = names.map((one) =>
-      Bun.spawn(["bun", "-e", landsOn(landingAt, root, one)], { stderr: "pipe" })
+      Bun.spawn(["bun", "-e", landsOn(reached, root, one)], { stderr: "pipe" })
     )
     await readyIn(root, names)
     const began = Date.now()

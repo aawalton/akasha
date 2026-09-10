@@ -19,6 +19,10 @@ export const landingThroughput = {
     },
     {
       invariantKind: "departure",
+      statement: "Where the code each lane lands through sits is asked of the index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The lanes are held at a gate so that the lanes start together.",
     },
     {
