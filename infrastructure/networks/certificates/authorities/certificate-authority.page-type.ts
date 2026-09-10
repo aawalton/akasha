@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { AuthorityCertificate } from "./properties/authority-certificate.file-property.ts"
-
-export type CertificateAuthority = Domain & {
-  authorityCertificate: AuthorityCertificate
-}
 
 export const certificateAuthority = {
   id: "01a0685d-ab5d-7bd4-946d-fa56b367a1a2",
@@ -33,4 +27,5 @@ export const certificateAuthority = {
         "An authority whose key is gone is a new authority rather than the same authority.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
