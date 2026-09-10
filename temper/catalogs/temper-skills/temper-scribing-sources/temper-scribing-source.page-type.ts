@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-import type { ScriptType } from "../properties/script-type.text-property.ts"
-import type { TierAchievements } from "../properties/tier-achievements.page-property-entry.ts"
-import type { ZoneSlugs } from "../properties/zone-slugs.text-property.ts"
-
-export type TemperScribingSource = TemperCatalogThing & {
-  scriptType: ScriptType
-  tierAchievements: TierAchievements
-  zoneSlugs: ZoneSlugs
-}
 
 export const temperScribingSource = {
   id: "01a05fca-cb8a-71bc-bb97-a0f1bb3ac4fb",
@@ -30,4 +20,5 @@ export const temperScribingSource = {
     { pageProperty: "page-property-entry/tier-achievements", required: true, many: false },
     { pageProperty: "text-property/zone-slugs", required: true, many: true, maxCount: null },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
+import type { TemperScribingSource } from "../../temper-scribing-source.page-type.types.ts"
 
 export const undauntedDelveDailies = {
   id: "019e12b0-85ea-7088-9059-200f16b5ae05",

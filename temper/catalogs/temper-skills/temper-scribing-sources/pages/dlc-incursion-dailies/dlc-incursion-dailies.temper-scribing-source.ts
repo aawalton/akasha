@@ -1,4 +1,4 @@
-import type { TemperScribingSource } from "../../temper-scribing-source.page-type.ts"
+import type { TemperScribingSource } from "../../temper-scribing-source.page-type.types.ts"
 
 export const dlcIncursionDailies = {
   id: "019e12b0-85ed-7099-927a-937b2c5d66c6",
