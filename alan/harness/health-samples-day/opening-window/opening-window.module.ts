@@ -20,7 +20,7 @@ export const openingWindow = {
     },
     {
       invariantKind: "departure",
-      statement: "The first of two blocks is the one that started earlier.",
+      statement: "The first of two blocks is the block that started earlier.",
     },
     {
       invariantKind: "departure",
