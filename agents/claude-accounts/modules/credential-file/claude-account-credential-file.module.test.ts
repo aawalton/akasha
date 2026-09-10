@@ -155,7 +155,9 @@ describe("credentialFileWritten", () => {
   test("a written file carries the whole credential, refresh token and all", () => {
     const dir = whereverIn()
     credentialFileWritten(dir, credentialOf())
-    const held = JSON.parse(readFileSync(join(dir, CREDENTIAL_FILE_NAME), "utf-8"))
+    const held = CREDENTIAL_FILE_SHAPE.parse(
+      JSON.parse(readFileSync(join(dir, CREDENTIAL_FILE_NAME), "utf-8"))
+    )
     expect(held.claudeAiOauth).toEqual({
       accessToken: "at-1",
       refreshToken: "rt-1",
@@ -176,9 +178,11 @@ describe("credentialFileWritten", () => {
     const dir = whereverIn()
     fileWritten(dir, bodyOf(WHOLE, { oauthAccount: { uuid: "u" } }))
     credentialFileWritten(dir, credentialOf({ accessToken: "at-2" }))
-    const held = JSON.parse(readFileSync(join(dir, CREDENTIAL_FILE_NAME), "utf-8"))
+    const held = CREDENTIAL_FILE_SHAPE.parse(
+      JSON.parse(readFileSync(join(dir, CREDENTIAL_FILE_NAME), "utf-8"))
+    )
     expect(held.oauthAccount).toEqual({ uuid: "u" })
-    expect(held.claudeAiOauth.accessToken).toBe("at-2")
+    expect(held.claudeAiOauth?.accessToken).toBe("at-2")
   })
 
   test("a file that is no JSON is written over rather than kept", () => {
