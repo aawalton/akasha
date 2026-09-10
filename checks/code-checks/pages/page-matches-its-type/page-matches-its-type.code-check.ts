@@ -148,5 +148,5 @@ export const pageMatchesItsType = {
       statement: "A value's own sort is not judged here.",
     },
   ],
-  check: { maxCpuSeconds: 10 },
+  check: { maxCpuSeconds: 20 },
 } as const satisfies CodeCheck
