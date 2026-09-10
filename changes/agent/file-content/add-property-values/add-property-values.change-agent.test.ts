@@ -6,6 +6,7 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { runChange as addPropertyValue } from "../../../mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"
 import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {
@@ -14,6 +15,7 @@ import {
   type World,
   worldAt,
 } from "../../../modules/shadow/change-shadow.module.code.ts"
+import { knownOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { runChange } from "./add-property-values.change-agent.code.ts"
 
 afterAll(scratch.sweep)
@@ -166,9 +168,9 @@ test("a value carrying a space is taken whole", async () => {
     return Promise.resolve(NOTHING_OVER)
   })
 
-  await runChange(world, { added: `${CARRIER} definition a page of two words\n` })
+  await runChange(world, { added: `${CARRIER} test a page of two words\n` })
 
-  expect(handed).toMatchObject({ at: CARRIER, key: "definition", value: "a page of two words" })
+  expect(handed).toMatchObject({ at: CARRIER, key: "test", value: "a page of two words" })
 })
 
 test("the key the pages of its type write it after is handed on", async () => {
@@ -202,9 +204,70 @@ test("`after` is left out where the pages of that type write the key nowhere", a
     return Promise.resolve(NOTHING_OVER)
   })
 
-  await runChange(world, { added: `${ONE} types ts\n` })
+  await runChange(world, { added: `${ONE} test ts\n` })
 
   expect("after" in (handed as object)).toBe(false)
+})
+
+type Carries = {
+  readonly key: string
+  readonly many: boolean
+  readonly pageTypeSlug?: string
+}
+
+const STATED: Value = {
+  id: "01a08000-0000-7000-8000-000000000004",
+  pageTypeSlug: "module",
+  slug: "stated",
+}
+
+function worldSaying(carried: readonly Carries[], handed: (given: unknown) => undefined): World {
+  return {
+    root: "/nowhere",
+    index: {
+      knownIn: () => knownOf({ admitting: (one: string) => [one] }),
+      pageByPath: () => STATED,
+      propertiesIfNamed: () => carried,
+      kindsUnder: (slug: string) => new Set<string>([slug]),
+      valuesByPath: () => new Map<string, Value>(),
+    } as never,
+    textOf: () => null,
+    bodyOf: () => null,
+    under: () => [],
+    base: () => null,
+    over: NOTHING_OVER,
+    reaching: (_world, _at, given) => {
+      handed(given)
+      return Promise.resolve(NOTHING_OVER)
+    },
+  }
+}
+
+test("a property holding a boolean is handed on as holding a boolean", async () => {
+  let handed: unknown = null
+  const world = worldSaying(
+    [{ key: "worked", many: false, pageTypeSlug: "boolean-property" }],
+    (given) => {
+      handed = given
+      return undefined
+    }
+  )
+
+  const said = await runChange(world, { added: `${ONE} worked true\n` })
+
+  expect(said.refused).toBeNull()
+  expect(handed).toMatchObject({ at: ONE, key: "worked", value: "true", holds: "boolean" })
+})
+
+test("a key the page's type declares no property for is refused and names the line", async () => {
+  const line = `${ONE} aids one`
+  const world = worldSaying([{ key: "code", many: false }], () => undefined)
+
+  const said = await runChange(world, { added: `${line}\n` })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("`aids` is no property `module` declares")
+  expect(said.refused ?? "").toContain(line)
 })
 
 test("each value is left to the change reached at its address", async () => {

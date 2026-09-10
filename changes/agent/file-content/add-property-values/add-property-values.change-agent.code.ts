@@ -3,9 +3,12 @@ import { gathered, missing, refusing } from "../../../modules/answer/change-answ
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {
   afterIn,
+  declaresIn,
+  holdsIn,
   readFor,
   singleIn,
   targetsIn,
+  typeIn,
 } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
@@ -44,13 +47,24 @@ export function readIn(said: string): Read {
   return { lines }
 }
 
-type Put =
-  | { readonly single: boolean; readonly after: string | null }
-  | { readonly refused: string }
+type Held = {
+  readonly single: boolean
+  readonly after: string | null
+  readonly holds: string | null
+}
+
+type Put = Held | { readonly refused: string }
+
+const INSIDE =
+  "a field inside a record is reached through the record rather than as a key of its own"
 
 function putIn(world: World, one: Line): Put {
   const read = readFor(world, one.at)
   if ("refused" in read) return { refused: read.refused }
+  const stated = typeIn(read.value)
+  if (stated !== null && declaresIn(world, read.value, one.key) === false) {
+    return { refused: `\`${one.key}\` is no property \`${stated}\` declares, and ${INSIDE}` }
+  }
   const targets = targetsIn(read.known, read.value, one.key)
   if (targets.length > 0) {
     const reached = reaches(one.value, targets, read.known)
@@ -61,6 +75,7 @@ function putIn(world: World, one: Line): Put {
   return {
     single: singleIn(world, read.value, one.key),
     after: afterIn(world, read.value, one.key),
+    holds: holdsIn(world, read.value, one.key),
   }
 }
 
@@ -75,7 +90,8 @@ export async function addPropertyValues(world: World, lines: readonly Line[]): P
     const held = putIn(seen, one)
     if ("refused" in held) return refusing(`${held.refused}. ${lineOf(one)}`)
     const told = held.single ? { ...one, single: true } : one
-    const given = held.after === null ? told : { ...told, after: held.after }
+    const spelled = held.holds === null ? told : { ...told, holds: held.holds }
+    const given = held.after === null ? spelled : { ...spelled, after: held.after }
     const reached = await reach(seen, ADD_PROPERTY_VALUE, given)
     const why = reached.said.refused
     if (why !== null) return refusing(`${why}. ${lineOf(one)}`)

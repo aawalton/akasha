@@ -87,6 +87,26 @@ export const addPropertyValues = {
       invariantKind: "departure",
       statement: "`after` is left out where the pages of that type write the key nowhere.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A key the page's type declares no property for is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the record a field of a record is reached through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page whose type cannot be read has no key refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a property holds is read from the type the page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property holding a boolean or a number is handed on as holding it.",
+    },
   ],
   changeKind: "change-checked",
 } as const satisfies ChangeAgent
