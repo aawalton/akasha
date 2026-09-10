@@ -8,4 +8,5 @@ export const gfsPromoter = {
   definition: "the image the backup promoter runs in",
   kind: "bun-service",
   folder: "infrastructure/storage/backups/retention",
+  extensions: "json",
 } as const satisfies BuiltImage
