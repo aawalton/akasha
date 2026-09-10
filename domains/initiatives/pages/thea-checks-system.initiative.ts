@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for audit.",
       workingMemory:
-        "Every check states audit maxCpuSeconds 60. All 56 run over the whole tree and record a cost under it: worst page-matches-its-type 48.6s, typecheck 26.2s, relation-resolves 21.3s, invariant-statement-is-plain 20.6s. everyPath files paths a page may have, 1168 of them .ts the disk lacks, so an audit walking the index and reading by hand throws: calculation-imports-only-types and check-reaches-a-path-through-the-index still do. Left is typecheck, which throws part way on a source file not found.",
+        "All 56 run over the whole tree and none throws. Counting what a check spawns was broken: bytes() relays a run to a server rather than spawning it, so the kernel cutime childCpuSeconds reads saw none of it and every check recorded 0. Mended at the relay in 7b9218d0. With it counted, 54 sit under the 60s ceiling, worst page-matches-its-type 48.8s, and two go over: lint-clean 278s and tests-pass 105s, nearly all of each in what it spawns. Those two are Alan to settle.",
     },
     {
       statement: "Every check is green.",
