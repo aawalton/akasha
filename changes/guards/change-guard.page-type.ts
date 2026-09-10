@@ -28,7 +28,7 @@ export const changeGuard = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A guard judges the answer a change gives rather than the patch a landing leaves.",
+      statement: "A guard judges the answer a change gives rather than the tree a landing leaves.",
     },
     {
       invariantKind: "departure",
@@ -40,11 +40,11 @@ export const changeGuard = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch drops the pairing of a move.",
+      statement: "The fold an apply makes drops the pairing of a move.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch drops the body an edit followed.",
+      statement: "The fold an apply makes drops the body an edit followed.",
     },
     {
       invariantKind: "departure",

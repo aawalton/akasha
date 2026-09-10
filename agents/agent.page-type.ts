@@ -61,7 +61,7 @@ export const agent = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent drafts into one patch rather than into a patch for each change.",
+      statement: "An agent drafts into one set of edits rather than one set for each change.",
     },
     {
       invariantKind: "departure",
