@@ -13,7 +13,7 @@ export type WorkstationService = Service & {
   systemd?: Systemd
   needsSecrets?: NeedsSecrets
   port?: Port
-  binds?: readonly Binds[]
+  binds?: Binds
 }
 
 export const workstationService = {
