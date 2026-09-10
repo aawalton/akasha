@@ -26,18 +26,34 @@ function tokenIn(held: unknown): string | null {
   return null
 }
 
-async function credential(): Promise<string> {
-  const at = process.env["CLAUDE_CODE_HOST_CREDS_FILE"]
-  if (at === undefined) throw new Error("no CLAUDE_CODE_HOST_CREDS_FILE is in the environment")
-  const held: unknown = JSON.parse(await Bun.file(at).text())
+function parseCredentialsPath(held: string | undefined): string {
+  if (held === undefined) throw new Error("no CLAUDE_CODE_HOST_CREDS_FILE is in the environment")
+  return held
+}
+
+function parseAccessToken(held: unknown): string {
   const token = tokenIn(held)
   if (token === null) throw new Error("the credentials file names no access token")
   return token
 }
 
+function parseCredentials(said: string): string {
+  const held: unknown = JSON.parse(said)
+  return parseAccessToken(held)
+}
+
+async function credential(): Promise<string> {
+  const at = parseCredentialsPath(process.env["CLAUDE_CODE_HOST_CREDS_FILE"])
+  return parseCredentials(await Bun.file(at).text())
+}
+
+function parseBaseUrl(held: string | undefined): string {
+  if (held === undefined) throw new Error("no ANTHROPIC_BASE_URL is in the environment")
+  return held
+}
+
 function endpoint(): string {
-  const at = process.env["ANTHROPIC_BASE_URL"]
-  if (at === undefined) throw new Error("no ANTHROPIC_BASE_URL is in the environment")
+  const at = parseBaseUrl(process.env["ANTHROPIC_BASE_URL"])
   return `${at.replace(/\/+$/, "")}/v1/messages`
 }
 
@@ -131,7 +147,7 @@ export async function modelAsking(asking: Asking): Promise<readonly string[]> {
   return answers
 }
 
-function askingIn(held: unknown): Asking {
+function parseAsking(held: unknown): Asking {
   const model =
     typeof held === "object" && held !== null ? (held as { model?: unknown }).model : undefined
   const prompts =
@@ -147,7 +163,7 @@ async function answering(): Promise<undefined> {
   const said = await Bun.stdin.text()
   let answers: readonly string[]
   try {
-    answers = await modelAsking(askingIn(JSON.parse(said)))
+    answers = await modelAsking(parseAsking(JSON.parse(said)))
   } catch (thrown) {
     const why = String(thrown)
     process.stderr.write(why)
