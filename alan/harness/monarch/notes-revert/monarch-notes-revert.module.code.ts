@@ -30,8 +30,18 @@ export function snapshotRow(t: MonarchTransaction): SnapshotRow {
   }
 }
 
+const SNAPSHOT_SHAPE = shape.array(
+  shape.object({
+    monarchId: shape.string(),
+    date: shape.string(),
+    amount: shape.number(),
+    notes: shape.string().nullable(),
+    tagIds: shape.array(shape.string()),
+  })
+)
+
 export function heldSnapshot(): readonly SnapshotRow[] {
-  return JSON.parse(readFileSync(SNAPSHOT_PATH, "utf8")) as SnapshotRow[]
+  return SNAPSHOT_SHAPE.parse(JSON.parse(readFileSync(SNAPSHOT_PATH, "utf8")))
 }
 
 export function takeSnapshot(population: readonly MonarchTransaction[]): undefined {
