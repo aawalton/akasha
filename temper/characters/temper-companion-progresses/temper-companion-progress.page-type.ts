@@ -3,7 +3,7 @@ import type { TemperCharacterThing } from "../things/temper-character-thing.page
 import type { CompanionRoles } from "./properties/companion-roles.relation-property.ts"
 
 export type TemperCompanionProgress = TemperCharacterThing & {
-  roles?: readonly CompanionRoles[]
+  roles?: CompanionRoles
 }
 
 export const temperCompanionProgress = {
