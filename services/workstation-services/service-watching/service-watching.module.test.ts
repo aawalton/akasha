@@ -64,7 +64,7 @@ test("what is told is written down only once the telling lands", async () => {
     home,
     now: new Date().toISOString(),
     send: async () => "nothing is waiting there",
-    keep: () => undefined,
+    keep: () => [],
   })
   expect(ticked.told).toEqual([])
   for (const one of Object.values(ledgerRead(home))) expect(one.toldAt).toBe(null)
@@ -82,7 +82,7 @@ test("a telling nobody takes is carried to the one stated instead", async () => 
       asked.push(to)
       return to === "alan" ? null : "no seat is held"
     },
-    keep: () => undefined,
+    keep: () => [],
   })
   if (asked.length > 0) expect(asked).toContain("alan")
   rmSync(home, { recursive: true, force: true })
@@ -95,28 +95,34 @@ test("a tick over the services there today writes a ledger and refuses nothing",
     home,
     now: new Date().toISOString(),
     send: async () => null,
-    keep: () => undefined,
+    keep: () => [],
   })
   expect(ticked.refused).toEqual([])
   expect(existsSync(ledgerAt(home))).toBe(true)
   rmSync(home, { recursive: true, force: true })
 })
 
-test("every service this run looked at is left carrying what the look found", async () => {
+test("this run hands the keeper every service, its moment and its own slug", async () => {
   const home = mkdtempSync("/var/tmp/service-watching-verdict-")
   const now = new Date().toISOString()
   const seen: string[] = []
+  const named: string[] = []
   await ticking({
     root: ROOT,
     home,
     now,
     send: async () => null,
-    keep: (root, health, at) => {
-      expect(root).toBe(ROOT)
-      for (const one of health) seen.push(`${one.pagePath} ${at}`)
+    keep: (root, health, at, slug) => {
+      named.push(`${root} ${at} ${slug}`)
+      for (const one of health) seen.push(one.pagePath)
+      return []
     },
   })
+  expect(named).toEqual([`${ROOT} ${now} service-watching`])
   expect(seen.length).toBeGreaterThan(0)
-  expect(seen.every((one) => one.endsWith(`.workstation-service.ts ${now}`))).toBe(true)
+  expect(seen.every((one) => one.endsWith(".workstation-service.ts"))).toBe(true)
+  expect(seen).toContain(
+    "services/workstation-services/pages/service-watching.workstation-service.ts"
+  )
   rmSync(home, { recursive: true, force: true })
 })

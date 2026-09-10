@@ -97,7 +97,20 @@ export const workstationService = {
     },
     {
       invariantKind: "departure",
-      statement: "That verdict is a reading, and the moment it was taken is carried with it.",
+      statement: "A verdict is written only where it changed, so a verdict has no freshness.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The moment of a look is carried once, by the service that does the looking.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A verdict is read as current only where that one moment is recent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service that is not to be running says so on its page rather than in a verdict.",
     },
     {
       invariantKind: "gap",

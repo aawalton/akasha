@@ -10,16 +10,21 @@ import {
   told,
 } from "../service-alerting/service-alerting.module.code.ts"
 import { type Health, healthFor } from "../service-health/service-health.module.code.ts"
-import { keepVerdicts } from "../service-wellness/service-wellness.module.code.ts"
+import { looked } from "../service-wellness/service-wellness.module.code.ts"
 
 const LEDGER = ".local/state/workstation-services/service-outages.json"
 const FALLBACK = "alan"
-const SENDER = "service-watching"
+const SLUG = "service-watching"
 const SAID = "service-watching:"
 
 export type Sent = (to: string, body: string) => Promise<string | null>
 
-export type Kept = (root: string, health: readonly Health[], at: string) => undefined
+export type Kept = (
+  root: string,
+  health: readonly Health[],
+  now: string,
+  slug: string
+) => readonly string[]
 
 export type Ticked = {
   readonly told: readonly string[]
@@ -73,7 +78,7 @@ export function passedOn(one: Telling, why: string): string {
 }
 
 export const sending: Sent = async (to, body) => {
-  const wrote = await writeMessage({ to, from: SENDER, warrant: "announce", body })
+  const wrote = await writeMessage({ to, from: SLUG, warrant: "announce", body })
   return wrote.kind === "refused" ? wrote.detail : null
 }
 
@@ -85,12 +90,12 @@ export async function ticking(given: {
   readonly keep?: Kept
 }): Promise<Ticked> {
   const send = given.send ?? sending
-  const keep = given.keep ?? keepVerdicts
+  const keep = given.keep ?? looked
   const health = healthFor(given.root)
   if (typeof health === "string") {
     throw new Error(`${SAID} the services could not be read, so nothing is judged: ${health}`)
   }
-  keep(given.root, health, given.now)
+  keep(given.root, health, given.now, SLUG)
   const champion = championing(domainsDrawn(given.root))
   const decided = deciding({
     health,

@@ -8,19 +8,24 @@ export const lookedAt = {
   type: "instant-property",
   slug: "looked-at",
   propertySlug: "looked-at",
-  definition: "when a service's health was last read",
+  definition: "when this service last looked at the health of every workstation service",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A service nothing has looked at states no moment.",
+      statement: "One service does the looking, and that service alone states this.",
     },
     {
       invariantKind: "departure",
-      statement: "This moves on every look, whether or not what the look found changed.",
+      statement: "This moves on every look, whether or not any verdict changed.",
     },
     {
       invariantKind: "departure",
-      statement: "A reader judges what the look found by how long ago this was.",
+      statement:
+        "A verdict is judged by how long ago this was rather than by anything on the verdict's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This is written after every verdict, so this says the whole look landed.",
     },
   ],
 } as const satisfies InstantProperty

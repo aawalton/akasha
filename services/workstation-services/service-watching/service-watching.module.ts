@@ -43,7 +43,11 @@ export const serviceWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "Every service this run looked at is left carrying what the look found.",
+      statement: "Every service whose verdict changed is left carrying what this run found.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This run's own page is left carrying the moment this run looked.",
     },
     {
       invariantKind: "departure",
