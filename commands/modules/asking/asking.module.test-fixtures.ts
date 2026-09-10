@@ -1,4 +1,4 @@
-import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs"
+import { cpSync, existsSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
@@ -24,7 +24,7 @@ import { inputIn } from "../piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { type Asked, mistaking } from "./asking.module.code.ts"
+import { mistaking } from "./asking.module.code.ts"
 
 export const ADMITS_AT = "akasha/admits.code-check*"
 
@@ -213,38 +213,12 @@ export async function wrote(
   return await applied(root, await drafting(root, said, body, given), said, given)
 }
 
-export function asking(over: Partial<Asked>): Asked {
-  return {
-    changes: [{ kind: "add", path: TWO_AT, content: PROPOSED }],
-    message: "held",
-    dryRun: false,
-    glass: null,
-    saying: () => {
-      throw new Error("a report that could not be built")
-    },
-    ...over,
-  }
-}
-
-export function blocked(root: string): Asked {
-  mkdirSync(join(root, "akasha/three.ts"), { recursive: true })
-  return asking({
-    changes: [
-      { kind: "add", path: TWO_AT, content: PROPOSED },
-      { kind: "add", path: "akasha/three.ts", content: PROPOSED },
-    ],
-    saying: () => [],
-  })
-}
-
 export const THREE_AT = "akasha/three.ts"
 
 export const holds = (root: string, path: string): boolean => existsSync(join(root, path))
 
 export const applying = async (root: string): Promise<Answer> =>
   await applied(root, { report: [], refusals: [], code: 0 }, ["--message", "held"])
-
-export const PROGRAM: readonly FileChange[] = [{ kind: "add", path: TWO_AT, content: PROPOSED }]
 
 export function seeded(root: string): boolean {
   const held = [
