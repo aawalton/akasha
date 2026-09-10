@@ -28,6 +28,10 @@ export const renamePageSlug = {
       invariantKind: "departure",
       statement: "Those splices are settled onto the ledger rather than onto a world made here.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A plural the page states already is left alone rather than restated.",
+    },
   ],
   changeKind: "change-mechanical",
   guards: ["change-guard/slug-names-one-property"],

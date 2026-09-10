@@ -188,7 +188,7 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   const before = gathered(answers)
   if (before.refused !== null) return before
   let seen = isLedger(world) ? addedTo(world, before) : worldOver(world, before)
-  if (given.plural !== undefined) {
+  if (given.plural !== undefined && given.plural !== plural?.text) {
     const stated = await reach(seen, CHANGE_PAGE_PROPERTY, {
       at: given.at,
       key: PLURAL_SLUG,
