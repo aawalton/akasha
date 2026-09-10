@@ -33,7 +33,7 @@ export const supabaseAuth = {
     },
     {
       invariantKind: "departure",
-      statement: "The claims module is reached only from the modules beside it.",
+      statement: "The claims module is reached only from the modules beside the claims module.",
     },
   ],
 } as const satisfies Domain
