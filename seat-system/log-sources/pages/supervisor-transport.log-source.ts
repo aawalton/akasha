@@ -1,4 +1,4 @@
-import type { LogSource } from "../log-source.page-type.ts"
+import type { LogSource } from "../log-source.page-type.types.ts"
 
 export const supervisorTransport = {
   id: "01a0657c-cb14-7384-9b44-3e1a77026743",

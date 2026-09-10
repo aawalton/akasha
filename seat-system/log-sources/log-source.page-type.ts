@@ -1,7 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type LogSource = Page
 
 export const logSource = {
   id: "01a0657c-cb14-7c6f-83df-0d533f4f7821",
@@ -29,4 +26,5 @@ export const logSource = {
       statement: "A source has nothing but the name the source is reached by.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
