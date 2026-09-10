@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { AffixScriptId } from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import type { FocusScriptId } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { SignatureScriptId } from "../../skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"

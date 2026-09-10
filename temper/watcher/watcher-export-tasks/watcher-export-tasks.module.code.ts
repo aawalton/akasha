@@ -1,4 +1,3 @@
-import { stringAt } from "@akasha/utils/narrow/string-at"
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import { collectPages } from "akasha/pages/access/iterate/iterate.module.code.ts"
 import { patchPageById } from "akasha/pages/access/patch/patch.module.code.ts"
@@ -11,6 +10,7 @@ import type { CompletionOverride } from "akasha/temper/player-completion/complet
 import type { ParsedCompletionOverrideRow } from "akasha/temper/player-completion/completion-override-row/completion-override-row.module.code.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player-completion/completion-override-row/completion-override-row.module.code.ts"
 import { serializeLuaBlock } from "akasha/temper/saved-variables/lua-serializer/lua-serializer.module.code.ts"
+import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 import type { CharactersConfigFileInputs } from "../watcher-config-file/watcher-config-file.module.code.ts"
 import { serializeCharactersConfigFile } from "../watcher-config-file/watcher-config-file.module.code.ts"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"

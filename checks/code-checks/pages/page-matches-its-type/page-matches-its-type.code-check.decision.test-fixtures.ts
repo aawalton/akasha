@@ -1,12 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { listedFiled, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
-import { ran } from "@akasha/utils/run/running"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 

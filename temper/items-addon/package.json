@@ -4,6 +4,5 @@
   "type": "module",
   "exports": {},
   "dependencies": {
-    "@akasha/utils": "workspace:*"
   }
 }

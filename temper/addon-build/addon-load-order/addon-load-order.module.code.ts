@@ -1,11 +1,11 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { valuesOfType } from "@akasha/indexes"
-import { ran } from "@akasha/utils/run/running"
 import { numberAt, textAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { AddonManifest } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import {
   compilerConfigPathFor,
   TSCONFIG_NAME,

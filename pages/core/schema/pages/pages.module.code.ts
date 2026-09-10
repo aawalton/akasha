@@ -1,4 +1,4 @@
-import { isRecord } from "@akasha/utils/narrow/is-record"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import * as z from "zod"
 import type { PropertyDefinition } from "../../page-data/page-data.module.code.ts"
 import { detailConfigSchema } from "../detail-config/detail-config.module.code.ts"

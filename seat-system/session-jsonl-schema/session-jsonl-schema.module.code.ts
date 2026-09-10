@@ -1,5 +1,5 @@
-import { shape } from "@akasha/utils/narrow/shape"
-import type { Infer } from "@akasha/utils/narrow/shape-core"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import type { Infer } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
 
 const TextBlock = shape.looseObject({
   type: shape.literal("text"),

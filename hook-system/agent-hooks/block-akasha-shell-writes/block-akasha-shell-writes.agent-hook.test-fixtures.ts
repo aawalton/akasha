@@ -1,7 +1,7 @@
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
-import { ran } from "@akasha/utils/run/running"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()

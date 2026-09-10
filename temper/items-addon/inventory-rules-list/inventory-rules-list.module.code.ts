@@ -1,5 +1,5 @@
-import { requireAt } from "@akasha/utils/narrow/require-at"
 import { postGuildStoreItem } from "akasha/temper/trading-post/guild-store-poster/guild-store-poster.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,

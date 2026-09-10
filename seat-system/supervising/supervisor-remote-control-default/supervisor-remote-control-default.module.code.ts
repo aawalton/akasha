@@ -1,8 +1,8 @@
-import { shape } from "@akasha/utils/narrow/shape"
 import {
   decideRemoteControl,
   type RemoteControlQuestion,
 } from "akasha/seat-system/supervising/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 export const UNCLAIMED_SEAT = "unclaimed"
 

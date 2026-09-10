@@ -1,10 +1,10 @@
 import { readFileSync } from "node:fs"
-import { expandTilde } from "@akasha/utils/fs/expand-tilde"
 import type {
   InputError,
   UnknownFlag,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { expandTilde } from "akasha/utils/fs/expand-tilde/expand-tilde.module.code.ts"
 import { suggestClosest } from "../../../temper/build-deploy-checks/suggest-closest/suggest-closest.module.code.ts"
 import type { CommandHelp, HelpFlag } from "../declaring/command-declaring.module.code.ts"
 import {

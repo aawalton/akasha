@@ -1,5 +1,3 @@
-import { asRecord } from "@akasha/utils/narrow/as-record"
-import type { Json } from "@akasha/utils/narrow/json-value"
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
 import { type UpsertPageArgs, upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
@@ -22,6 +20,8 @@ import {
   mergeCharacterCompletionForward,
   mergeCompanionCompletionForward,
 } from "akasha/temper/player-completion/completion-merge-forward/completion-merge-forward.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { ACCOUNT_PAGE_TYPE_SLUG } from "../watcher-account-page/watcher-account-page.module.code.ts"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"
 import type {

@@ -1,4 +1,3 @@
-import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
 import {
   describeAckTimeout,
   setRequestedAction,
@@ -9,6 +8,7 @@ import {
   resolveSeatTarget,
 } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
 import { readProxyState } from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
+import { pidAliveOrRefuse } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"

@@ -12,8 +12,8 @@ import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { requireAt } from "@akasha/utils/narrow/require-at"
 import { TEXT_SECONDARY } from "akasha/design/tokens/text-color/text-color.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import {
   ARMOR_SLOTS,
   JEWELRY_SLOTS,

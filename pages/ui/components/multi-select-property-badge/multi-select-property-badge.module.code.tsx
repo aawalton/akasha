@@ -2,7 +2,6 @@
 
 import { MultiSelectPopover } from "@akasha/pages-ui/components/multi-select-popover"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
-import { requireGet } from "@akasha/utils/narrow/require-get"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
@@ -11,6 +10,7 @@ import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/res
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { multiSelectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
 import type { SelectOption } from "akasha/pages/core/schema/select-option-create/select-option-create.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 
 function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
   return parseConfig(multiSelectConfigSchema, definition.config, { options: [] }).options

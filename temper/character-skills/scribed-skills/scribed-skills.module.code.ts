@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { FocusScriptId } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { ScribedSkillTemplate } from "../scribed-skill-template/scribed-skill-template.module.code.ts"
 import { SCRIBED_SKILLS_00 } from "../scribed-skills-00/scribed-skills-00.module.code.ts"

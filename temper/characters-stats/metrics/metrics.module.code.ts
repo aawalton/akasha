@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
 import type { MetricTemplate } from "../metric-template/metric-template.module.code.ts"
 import { METRICS_DATA_01 } from "../metrics-data-01/metrics-data-01.module.code.ts"

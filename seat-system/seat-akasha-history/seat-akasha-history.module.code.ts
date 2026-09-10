@@ -1,5 +1,5 @@
-import { ran } from "@akasha/utils/run/running"
 import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { underOldKeys } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
 
 const SEATS = "seat-system/seats/pages"

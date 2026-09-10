@@ -1,4 +1,4 @@
-import { requireAt } from "@akasha/utils/narrow/require-at"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,

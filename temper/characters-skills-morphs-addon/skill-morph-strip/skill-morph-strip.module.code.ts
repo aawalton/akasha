@@ -1,5 +1,5 @@
-import { deleteRecordKey } from "@akasha/utils/narrow/delete-record-key"
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import { deleteRecordKey } from "akasha/utils/narrow/delete-record-key/delete-record-key.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 const STRIP_KEYS = ["id", "totalXPNeeded", "totalXPProgress"] as const
 const VARIANT_KEYS = ["base", "morph1", "morph2"] as const

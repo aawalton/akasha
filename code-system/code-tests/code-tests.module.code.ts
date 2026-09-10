@@ -1,7 +1,5 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import type { Said } from "@akasha/utils/run/running"
-import { ran } from "@akasha/utils/run/running"
 import {
   AKASHA,
   repos,
@@ -9,6 +7,8 @@ import {
   rootsHere,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Said } from "akasha/utils/run/running/running.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { test as testFile } from "../modules/properties/test.code-file-property.ts"
 import { type Bodies, mountedOver, type Overlay } from "../test-overlay/test-overlay.module.code.ts"
 

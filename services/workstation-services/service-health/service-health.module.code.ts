@@ -1,4 +1,4 @@
-import { ran } from "@akasha/utils/run/running"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { everyService } from "../service-reading/service-reading.module.code.ts"
 import { isScheduled, type Service } from "../unit-writing/unit-writing.module.code.ts"
 

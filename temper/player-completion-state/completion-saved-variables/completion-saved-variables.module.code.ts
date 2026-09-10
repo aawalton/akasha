@@ -1,10 +1,10 @@
-import { deleteRecordKey } from "@akasha/utils/narrow/delete-record-key"
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/completion-record/completion-record.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
+import { deleteRecordKey } from "akasha/utils/narrow/delete-record-key/delete-record-key.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import {
   ADDON_NAME,
   SAVED_VARIABLES_NAME,

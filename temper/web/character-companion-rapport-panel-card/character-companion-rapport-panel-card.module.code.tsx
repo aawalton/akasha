@@ -1,4 +1,3 @@
-import { requireFirst } from "@akasha/utils/narrow/require-first"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
@@ -15,6 +14,7 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 interface CharacterCompanionRapportPanelCardProps {
   id?: CharacterCardId

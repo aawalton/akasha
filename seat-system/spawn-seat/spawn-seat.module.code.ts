@@ -1,4 +1,3 @@
-import { enforceSpawnAdmission } from "@akasha/utils/system/memory-guard"
 import {
   dataError,
   inputError,
@@ -10,6 +9,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { enforceSpawnAdmission } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 import { FLEET, personaDefaultsOf } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {
   type LaunchSeatResult,

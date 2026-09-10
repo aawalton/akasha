@@ -1,4 +1,3 @@
-import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { poisons } from "akasha/temper/alchemy/poison-source/poison-source.module.code.ts"
 import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
 import { championPoints } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
@@ -16,6 +15,7 @@ import { classes } from "akasha/temper/classes/character-class/character-class.m
 import { armorTraits } from "akasha/temper/equipment/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/equipment/weapon-traits/weapon-traits.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import { alliances } from "../../character-sources/alliances/alliances.module.code.ts"
 import { curses } from "../../character-sources/curses/curses.module.code.ts"
 import { esoPlus } from "../../character-sources/eso-plus-source/eso-plus-source.module.code.ts"

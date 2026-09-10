@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export type JennyIntent = "manage-content" | "feature-request" | "no-match"
 

@@ -1,4 +1,7 @@
-import { errnoCodeOf, pidAliveOrAssumeAlive } from "@akasha/utils/process/pid-signal"
+import {
+  errnoCodeOf,
+  pidAliveOrAssumeAlive,
+} from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 
 function errorMessage(err: unknown): string {
   if (err instanceof Error) return err.message

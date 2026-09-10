@@ -1,4 +1,4 @@
-import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
+import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 
 export const MEDIA_RANGE_CAP_BYTES = 8 * 1024 * 1024

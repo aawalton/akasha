@@ -2,8 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { listedFiled, pathFiled } from "@akasha/indexes/testing"
-import { ran } from "@akasha/utils/run/running"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import {
   scratch,
   staged,

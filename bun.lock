@@ -9,7 +9,6 @@
         "@akasha/code": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "@dnd-kit/core": ">=6",
         "@dnd-kit/modifiers": ">=7",
         "@dnd-kit/sortable": ">=8",
@@ -109,7 +108,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "@capacitor/core": "^8.4.1",
         "@capacitor/preferences": "^8.0.1",
         "@capgo/background-geolocation": "^8.3.1",
@@ -145,7 +143,6 @@
       "name": "@akasha/alanwalton-web",
       "dependencies": {
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "@fontsource-variable/literata": "^5.2.5",
         "@supabase/supabase-js": "^2.104.0",
@@ -178,7 +175,6 @@
       "dependencies": {
         "@akasha/alanwalton-web": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "@fontsource-variable/literata": "^5.2.5",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -264,21 +260,18 @@
       "name": "@akasha/cluster-manifests",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "yaml": "^2.8.0",
       },
     },
     "infrastructure/networks/auth-proxy": {
       "name": "@akasha/auth-proxy",
       "dependencies": {
-        "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
     },
     "infrastructure/storage/backups/retention": {
       "name": "@akasha/backup-retention",
       "dependencies": {
-        "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -286,13 +279,11 @@
       "name": "@akasha/indexes",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/utils": "workspace:*",
       },
     },
     "pages/ui": {
       "name": "@akasha/pages-ui",
       "dependencies": {
-        "@akasha/utils": "workspace:*",
         "@dnd-kit/core": ">=6",
         "@dnd-kit/modifiers": ">=7",
         "@dnd-kit/sortable": ">=8",
@@ -397,7 +388,6 @@
       "name": "@akasha/temper-characters-addon",
       "dependencies": {
         "@akasha/temper-companions-addon": "workspace:*",
-        "@akasha/utils": "workspace:*",
       },
     },
     "temper/collections-addon": {
@@ -405,15 +395,9 @@
     },
     "temper/combat-addon": {
       "name": "@akasha/temper-combat-addon",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
     },
     "temper/companions-addon": {
       "name": "@akasha/temper-companions-addon",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
     },
     "temper/crafting-addon": {
       "name": "@akasha/temper-crafting-addon",
@@ -428,26 +412,16 @@
       "name": "@akasha/temper-housing-addon",
       "dependencies": {
         "@akasha/temper-lib-custom-menu": "workspace:*",
-        "@akasha/utils": "workspace:*",
       },
     },
     "temper/hud-addon": {
       "name": "@akasha/temper-hud-addon",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
     },
     "temper/interface-addon": {
       "name": "@akasha/temper-interface-addon",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
     },
     "temper/items-addon": {
       "name": "@akasha/temper-items-addon",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
     },
     "temper/keybinder-addon": {
       "name": "@akasha/temper-keybinder-addon",
@@ -541,9 +515,6 @@
     },
     "temper/quests-addon": {
       "name": "@akasha/temper-quests-addon",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
     },
     "temper/selector-addon": {
       "name": "@akasha/temper-selector-addon",
@@ -557,7 +528,6 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "class-variance-authority": "^0.7.1",
         "isbot": "^5.1.36",
@@ -583,13 +553,6 @@
       },
       "peerDependencies": {
         "tailwindcss": "^4.0",
-      },
-    },
-    "utils": {
-      "name": "@akasha/utils",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
   },
@@ -728,8 +691,6 @@
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 
     "@akasha/temper-web": ["@akasha/temper-web@workspace:temper/web"],
-
-    "@akasha/utils": ["@akasha/utils@workspace:utils"],
 
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:code-system/ios-apps/pages/atlas"],
 

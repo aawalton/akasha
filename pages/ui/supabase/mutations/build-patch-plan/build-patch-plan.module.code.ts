@@ -1,8 +1,8 @@
-import type { Json } from "@akasha/utils/narrow/json-value"
 import { PROMOTED_COLUMN_KEYS } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import type { JsonPatch } from "akasha/pages/access/types/types.module.code.ts"
 import { asJson } from "akasha/pages/core/as-json/as-json.module.code.ts"
 import type { RowOverlay } from "akasha/pages/ui-store/optimistic/plan/plan.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { z } from "zod"
 
 const PromotedColumnPatchSchema = z

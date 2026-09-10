@@ -6,7 +6,6 @@ import {
   renameSync,
   writeFileSync,
 } from "node:fs"
-import { shape } from "@akasha/utils/narrow/shape"
 import {
   type AuthSession,
   applyRefreshedSessionToStorageState,
@@ -18,6 +17,7 @@ import {
   getMcpServerRegistry,
   playwrightStorageStatePath,
 } from "akasha/seat-system/supervising/mcp-registry/mcp-registry.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import {
   computeMcpConfigContent,
   type McpServerConfig,

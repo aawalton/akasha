@@ -1,7 +1,7 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { ran } from "@akasha/utils/run/running"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { valuesOf } from "../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { inNameOrder } from "../../../../temper/commands/name-ordering/name-ordering.module.code.ts"
 import type { Answer } from "../../../modules/calling/calling.module.code.ts"

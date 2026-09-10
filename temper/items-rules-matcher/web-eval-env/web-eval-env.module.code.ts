@@ -1,4 +1,3 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { findCooldownGroup } from "akasha/temper/items-core/cooldown-groups/cooldown-groups.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/items-core/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items-core/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
@@ -10,6 +9,7 @@ import type {
   EvalEnv,
   WantedEquipmentFacts,
 } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export interface WebEnvExtras {
   readonly itemIdToCooldownGroup?: ReadonlyMap<number, string>

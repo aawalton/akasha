@@ -1,7 +1,6 @@
 "use client"
 
 import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
-import { noOp } from "@akasha/utils/narrow/no-op"
 import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import {
@@ -9,6 +8,7 @@ import {
   type RegularResult,
 } from "akasha/pages/ui-store/query/regular-pipeline/regular-pipeline.module.code.ts"
 import type { UsePagesOptions } from "akasha/pages/ui-store/sql/options/options.module.code.ts"
+import { noOp } from "akasha/utils/narrow/no-op/no-op.module.code.ts"
 import { useMemo } from "react"
 
 export type UsePagesResult = {

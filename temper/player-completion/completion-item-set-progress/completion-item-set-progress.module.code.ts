@@ -1,4 +1,3 @@
-import { requireGet } from "@akasha/utils/narrow/require-get"
 import { setCategories } from "akasha/temper/characters-equipment/set-categories/set-categories.module.code.ts"
 import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
 import type {
@@ -6,6 +5,7 @@ import type {
   ItemSetPieceProgress,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import type { SetCategoryId } from "akasha/temper/equipment/set-category-ids/set-category-ids.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 
 const ESO_CATEGORY_NAME_MAP: Record<string, SetCategoryId> = {
   dungeons: "dungeon",

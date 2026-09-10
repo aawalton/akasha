@@ -13,7 +13,7 @@ import "akasha/temper/eso-types/eso-functions-04/eso-functions-04.type-declarati
 import "akasha/temper/eso-types/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import { requireAt } from "@akasha/utils/narrow/require-at"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import { getAllianceIndex } from "../character-capture-alliance-map/character-capture-alliance-map.module.code.ts"
 import { getBaseAbilityId } from "../character-capture-base-ability/character-capture-base-ability.module.code.ts"
 import { getChampionPointIndex } from "../character-capture-champion-point-map/character-capture-champion-point-map.module.code.ts"

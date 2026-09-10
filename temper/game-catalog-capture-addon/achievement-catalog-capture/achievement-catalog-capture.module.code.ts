@@ -3,10 +3,10 @@ import "akasha/temper/eso-types/eso-functions-05/eso-functions-05.type-declarati
 import "akasha/temper/eso-types/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 
-import { requireDefined } from "@akasha/utils/narrow/require-defined"
 import type { AchievementCatalogData } from "akasha/temper/capture-shapes/achievement-catalog/achievement-catalog.module.code.ts"
 import { runBatched } from "akasha/temper/capture-writer/run-batched/run-batched.module.code.ts"
 import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
+import { requireDefined } from "akasha/utils/narrow/require-defined/require-defined.module.code.ts"
 import {
   BATCH_DELAY,
   BATCH_SIZE,

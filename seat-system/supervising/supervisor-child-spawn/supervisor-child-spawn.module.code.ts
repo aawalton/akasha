@@ -1,9 +1,9 @@
-import { enforceMemoryGuard } from "@akasha/utils/system/memory-guard"
 import {
   isClaudeChildCmdline,
   type ProcLivenessEntry,
 } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
 import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
+import { enforceMemoryGuard } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 import { scanProcEntries } from "../../proc-scan/proc-scan.module.code.ts"
 import { takeOpenTasks } from "../../seat-observation/seat-turn/turn-working/turn-working.module.code.ts"
 import {

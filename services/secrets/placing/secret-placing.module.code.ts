@@ -1,9 +1,9 @@
 import { join } from "node:path"
-import { isRecord } from "@akasha/utils/narrow/is-record"
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { type Secrets, secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { parseAllDocuments, stringify } from "yaml"
 import {
   type Plan,

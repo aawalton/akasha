@@ -15,7 +15,6 @@ import {
   PropertyRowGhost,
   SortablePropertyRow,
 } from "@akasha/pages-ui/components/property-visibility-picker-rows"
-import { requireGet } from "@akasha/utils/narrow/require-get"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,
@@ -34,6 +33,7 @@ import type {
   PropertyVisibilityMode,
   VisibilityChange,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from "react"
 
 interface PropertyVisibilityPickerProps {

@@ -1,11 +1,11 @@
 import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { sizeOnDisk } from "@akasha/utils/fs/file-size"
-import { textOnDisk } from "@akasha/utils/fs/text-on-disk"
-import { spentRelaying } from "@akasha/utils/run/run-relaying"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
+import { textOnDisk } from "akasha/utils/fs/text-on-disk/text-on-disk.module.code.ts"
+import { spentRelaying } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
 
 const ENTRIES = "entries"
 

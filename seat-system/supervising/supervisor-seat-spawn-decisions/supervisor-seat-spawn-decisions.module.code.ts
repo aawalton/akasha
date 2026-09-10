@@ -1,4 +1,3 @@
-import { shape } from "@akasha/utils/narrow/shape"
 import {
   REMOTE_CONTROL_DECISION,
   RemoteControlVerdictShape,
@@ -10,6 +9,7 @@ import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,
 } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 const SeatSpawnAnswerShape = shape.object({

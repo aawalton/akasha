@@ -1,4 +1,3 @@
-import { asRecord } from "@akasha/utils/narrow/as-record"
 import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
 import {
   decodeCompanion,
@@ -13,6 +12,7 @@ import {
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { buildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { resolveAccountPageId } from "../watcher-account-page/watcher-account-page.module.code.ts"
 import {

@@ -1,5 +1,4 @@
 import { join } from "node:path"
-import { stringAt } from "@akasha/utils/narrow/string-at"
 import {
   addressedIn,
   addressIn,
@@ -8,6 +7,7 @@ import {
 } from "akasha/pages/address/page-address.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { indexImport } from "../import/index-import.index.ts"
 import { indexListing } from "../listing/index-listing.index.ts"

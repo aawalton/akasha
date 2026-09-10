@@ -1,5 +1,5 @@
-import { isJson } from "@akasha/utils/narrow/is-json"
-import type { Json } from "@akasha/utils/narrow/json-value"
+import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import type { PropertyType } from "../../page-data/page-data.module.code.ts"
 import type { PageCondition } from "../../page-types/page-types.module.code.ts"
 import type {

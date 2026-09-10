@@ -13,11 +13,11 @@ import { getPageDisplay } from "@akasha/pages-ui/capabilities/page-display-regis
 import { ViewPageContent } from "@akasha/pages-ui/components/view-page-content"
 import { useAllPages, usePageByIdSuffix } from "@akasha/pages-ui/supabase/hooks"
 import { useReaderNeighbors } from "@akasha/pages-ui/supabase/use-reader-neighbors"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { resolveDisplayKind } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { lazy, Suspense } from "react"
 import { useParams } from "react-router"
 

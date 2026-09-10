@@ -1,7 +1,7 @@
-import { isRecord } from "@akasha/utils/narrow/is-record"
-import type { Json } from "@akasha/utils/narrow/json-value"
 import { asJson } from "akasha/pages/core/as-json/as-json.module.code.ts"
 import type { PagesStore } from "akasha/pages/ui-store/collection/store/store.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
 type PagesCollection = PagesStore["collection"]
 

@@ -19,8 +19,6 @@ import {
   SelectBadgePicker,
   TextValueInput,
 } from "@akasha/pages-ui/components/value-filter-inputs"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
-import { requireFirst } from "@akasha/utils/narrow/require-first"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
@@ -37,6 +35,8 @@ import type { FilterOperator } from "akasha/pages/core/property-types/property-t
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { PageFilterDimension } from "akasha/pages/core/view/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
 

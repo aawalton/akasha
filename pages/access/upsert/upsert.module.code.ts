@@ -1,11 +1,11 @@
-import { isJson } from "@akasha/utils/narrow/is-json"
-import { isRecord } from "@akasha/utils/narrow/is-record"
-import type { Json } from "@akasha/utils/narrow/json-value"
 import {
   asPage,
   type Page,
   type PageWhere,
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { upsertFilePage } from "../file-write/file-write.module.code.ts"
 import {
   enforcePipelineScope,

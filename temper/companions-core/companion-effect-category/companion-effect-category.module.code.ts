@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type { CompanionEffect } from "../companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 
 const DAMAGE_BUFFS = new Set([

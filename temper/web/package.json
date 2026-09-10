@@ -17,7 +17,6 @@
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
-    "@akasha/utils": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",
     "class-variance-authority": "^0.7.1",
     "isbot": "^5.1.36",

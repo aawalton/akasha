@@ -1,4 +1,4 @@
-import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
+import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 import { handleCgi } from "../http-backend/http-backend.module.code.ts"
 import { handlePushEvent } from "../push-event/push-event.module.code.ts"

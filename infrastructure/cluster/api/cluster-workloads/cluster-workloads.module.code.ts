@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { z } from "zod"
 import { getConfig, k8sFetch, refuse } from "../cluster-fetch/cluster-fetch.module.code.ts"
 

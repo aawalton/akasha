@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
-import { shape } from "@akasha/utils/narrow/shape"
 import { dataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { seaweedFsMissingEnvVars } from "akasha/infrastructure/storage/object-store/seaweedfs-config/seaweedfs-config.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { sanitizeTranscriptForResume } from "../session-jsonl/session-jsonl.module.code.ts"
 import {
   getDefaultObjectStore,

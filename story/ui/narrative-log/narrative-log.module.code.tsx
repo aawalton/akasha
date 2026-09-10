@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type { ReactNode, RefObject } from "react"
 import type { ClientBeat } from "../client-session/client-session.module.code.ts"
 import { NewestDivider } from "../newest-divider/newest-divider.module.code.tsx"

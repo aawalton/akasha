@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { ran } from "@akasha/utils/run/running"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { guarding } from "../../hook-answer/hook-answer.module.code.ts"
 import { judging } from "../../hook-judging/hook-judging.module.code.ts"

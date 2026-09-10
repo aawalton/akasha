@@ -1,4 +1,4 @@
-import { ran } from "@akasha/utils/run/running"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { declaring, founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {

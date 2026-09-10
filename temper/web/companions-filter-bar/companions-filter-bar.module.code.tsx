@@ -1,6 +1,5 @@
 "use client"
 
-import { requireFirst } from "@akasha/utils/narrow/require-first"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
@@ -16,6 +15,7 @@ import type {
   SortOption,
 } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import { useEffect, useState } from "react"
 import { targetArmor } from "../../character-sources/target-armors/target-armors.module.code.ts"
 

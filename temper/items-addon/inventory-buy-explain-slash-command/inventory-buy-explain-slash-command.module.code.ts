@@ -1,4 +1,4 @@
-import { requireAt } from "@akasha/utils/narrow/require-at"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import { buildBuyExplainTrace } from "../inventory-buy-explain-trace-builder/inventory-buy-explain-trace-builder.module.code.ts"
 import { captureOrNull } from "../inventory-match-capture/inventory-match-capture.module.code.ts"
 import { getSavedVariables } from "../inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"

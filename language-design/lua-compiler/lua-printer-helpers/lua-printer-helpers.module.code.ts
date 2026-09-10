@@ -1,4 +1,4 @@
-import { requireGet } from "@akasha/utils/narrow/require-get"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import type { SourceNode } from "source-map"
 import type * as ts from "typescript"
 import type { CompilerOptions } from "../compiler-options/compiler-options.module.code.ts"

@@ -1,4 +1,3 @@
-import { shape } from "@akasha/utils/narrow/shape"
 import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import { takeSeatPage } from "akasha/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
@@ -14,6 +13,7 @@ import {
   setShuttingDown,
 } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 import { shouldWriteTerminalStoppedStatus } from "akasha/seat-system/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { teardownProxyVersionSubscription } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { attemptInPlaceReExec } from "../../self-healing/supervisor-reexec/supervisor-reexec.module.code.ts"
 import { resolveReExecArgv } from "../../self-healing/supervisor-self-heal/supervisor-self-heal.module.code.ts"

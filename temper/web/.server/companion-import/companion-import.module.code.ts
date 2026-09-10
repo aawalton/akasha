@@ -1,4 +1,3 @@
-import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { createPage } from "akasha/pages/access/create/create.module.code.ts"
@@ -8,6 +7,7 @@ import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-met
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import type {
   BuildHash,
   BuildId,

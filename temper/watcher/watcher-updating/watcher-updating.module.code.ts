@@ -1,6 +1,6 @@
 import { existsSync, renameSync, unlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { ran } from "@akasha/utils/run/running"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { z } from "zod"
 import { isSourceRuntime } from "../watcher-runtime/watcher-runtime.module.code.ts"
 

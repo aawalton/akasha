@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { requireMatch } from "@akasha/utils/narrow/require-match"
+import { requireMatch } from "akasha/utils/narrow/require-match/require-match.module.code.ts"
 import { z } from "zod"
 import { resolveRepoRoot } from "../git-tree-hash/git-tree-hash.module.code.ts"
 import { mobileApps, resolveApp, shellRepoRoot } from "../mobile-app/mobile-app.module.code.ts"

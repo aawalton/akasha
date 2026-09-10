@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { CompanionSkillTemplate } from "../companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import { COMPANION_SKILLS_00 } from "../companion-skills-00/companion-skills-00.module.code.ts"
 import { COMPANION_SKILLS_01 } from "../companion-skills-01/companion-skills-01.module.code.ts"

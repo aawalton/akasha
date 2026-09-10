@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { evaluateArithmeticNode } from "../../formula-framework/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
 import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
 import type { CompanionBaseRoleId } from "../companion-base-roles/companion-base-roles.module.code.ts"

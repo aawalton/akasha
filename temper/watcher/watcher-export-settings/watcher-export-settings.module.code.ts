@@ -1,5 +1,3 @@
-import { asRecord } from "@akasha/utils/narrow/as-record"
-import { isRecord } from "@akasha/utils/narrow/is-record"
 import { getPage, getPages } from "akasha/pages/access/get/get.module.code.ts"
 import { readFiles, readPages } from "akasha/pages/query/store-writing/store-writing.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
@@ -16,6 +14,8 @@ import { rulesToInventoryConfig } from "akasha/temper/items-rules-core/inventory
 import type { InventoryTimestamps } from "akasha/temper/items-rules-core/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { ruleFingerprint } from "akasha/temper/items-rules-core/rule-fingerprint/rule-fingerprint.module.code.ts"
 import { serializeLuaBlock } from "akasha/temper/saved-variables/lua-serializer/lua-serializer.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"
 import type {
   ReadFiles,

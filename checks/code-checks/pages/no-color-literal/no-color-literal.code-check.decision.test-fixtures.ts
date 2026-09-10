@@ -1,7 +1,7 @@
 import { listedFiled } from "@akasha/indexes/testing"
-import { ran } from "@akasha/utils/run/running"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bodiesAt } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"

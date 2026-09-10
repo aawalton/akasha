@@ -1,6 +1,5 @@
 "use client"
 
-import { capitalize } from "@akasha/utils/narrow/capitalize"
 import { BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
@@ -14,6 +13,7 @@ import {
   extractPrimaryTargeting,
   updateDescriptionWithCalculatedValues,
 } from "akasha/temper/companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+import { capitalize } from "akasha/utils/narrow/capitalize/capitalize.module.code.ts"
 import type { ReactNode } from "react"
 import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import { formatAbbreviated } from "../../formula-framework/number-format/number-format.module.code.ts"

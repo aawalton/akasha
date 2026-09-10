@@ -1,4 +1,4 @@
-import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
+import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 import { encodeObjectStoreKey } from "../key/object-store-key.module.code.ts"
 import { signS3Request } from "../s3-signing/s3-signing.module.code.ts"

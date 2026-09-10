@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { targetArmor } from "../../character-sources/target-armors/target-armors.module.code.ts"
 import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"

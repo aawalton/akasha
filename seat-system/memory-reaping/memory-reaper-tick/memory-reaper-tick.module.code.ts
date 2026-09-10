@@ -1,4 +1,4 @@
-import { readMemInfoKb } from "@akasha/utils/system/memory-guard"
+import { readMemInfoKb } from "akasha/utils/system/memory-guard/memory-guard.module.code.ts"
 import { withTickDeadline } from "../../tick-deadline/tick-deadline.module.code.ts"
 import {
   GLOBAL_MIN_AVAIL_KB,

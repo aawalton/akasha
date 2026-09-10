@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { said } from "@akasha/utils/run/running"
+import { said } from "akasha/utils/run/running/running.module.code.ts"
 import { quoted } from "./quoting.module.code.ts"
 
 const TRICKY: readonly string[] = [

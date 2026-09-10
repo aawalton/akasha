@@ -1,5 +1,5 @@
-import type { BadgeVariant } from "@akasha/utils/narrow/badge-variant"
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import type { BadgeVariant } from "akasha/utils/narrow/badge-variant/badge-variant.module.code.ts"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 
 export interface ActivityCategoryTemplate {
   id: string

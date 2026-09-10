@@ -1,5 +1,5 @@
-import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { SetBonusEntry } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { validateWatcherToken } from "../../../watcher/watcher-token-check/watcher-token-check.module.code.ts"
 import {
   MINE_NAME,

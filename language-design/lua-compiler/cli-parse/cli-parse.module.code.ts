@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import * as ts from "typescript"
 import { z } from "zod"
 import * as cliDiagnostics from "../cli-diagnostics/cli-diagnostics.module.code.ts"

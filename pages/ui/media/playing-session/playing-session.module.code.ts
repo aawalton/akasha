@@ -1,5 +1,5 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { Medium } from "akasha/pages/core/media-formats/media-formats.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 export type ActiveSessionInit = {
   readonly pageId: string

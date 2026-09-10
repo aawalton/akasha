@@ -1,4 +1,4 @@
-import { asObjectRecord } from "@akasha/utils/narrow/as-object-record"
+import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
 import { onTemperInventoryExplainBuyCommand } from "../inventory-buy-explain-slash-command/inventory-buy-explain-slash-command.module.code.ts"
 import { buildSkillGateEval } from "../inventory-explain-skill-gate-eval/inventory-explain-skill-gate-eval.module.code.ts"
 import { buildExplainTrace } from "../inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"

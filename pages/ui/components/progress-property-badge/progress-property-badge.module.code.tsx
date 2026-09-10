@@ -2,7 +2,6 @@
 
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { isRecord } from "@akasha/utils/narrow/is-record"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { StatRow } from "akasha/design/patterns/stat-row/stat-row.module.code.tsx"
@@ -20,6 +19,7 @@ import type {
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { useState } from "react"
 
 interface NarrowedEntry {

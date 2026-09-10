@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { getDb } from "../combat-saved-variables/combat-saved-variables.module.code.ts"
 import type {
   LayoutControl,

@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 

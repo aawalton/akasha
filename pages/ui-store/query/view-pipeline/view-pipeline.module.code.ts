@@ -1,4 +1,3 @@
-import { isRecord } from "@akasha/utils/narrow/is-record"
 import { type Collection, createLiveQueryCollection } from "@tanstack/db"
 import type {
   PageDataJSON,
@@ -6,6 +5,7 @@ import type {
 } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import {
   asPageRecord,
   asPageRowList,

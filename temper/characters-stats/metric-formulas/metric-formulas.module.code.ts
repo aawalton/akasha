@@ -1,5 +1,5 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
-import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import { evaluateArithmeticNode } from "../../formula-framework/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
 import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"

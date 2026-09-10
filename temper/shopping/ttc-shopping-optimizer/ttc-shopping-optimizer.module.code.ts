@@ -1,4 +1,3 @@
-import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { kioskLocationName } from "akasha/temper/trading-pricing/kiosk-location-name/kiosk-location-name.module.code.ts"
 import {
   TTC_AGO,
@@ -6,6 +5,7 @@ import {
   type TTCListingEntry,
   type TTCListingSearchParams,
 } from "akasha/temper/trading-pricing/ttc-listing-types/ttc-listing-types.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import { computeItemBudget } from "../ttc-budget-strategy/ttc-budget-strategy.module.code.ts"
 import type {
   ItemBudget,

@@ -1,6 +1,5 @@
 import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
-import { isRecord } from "@akasha/utils/narrow/is-record"
 import {
   getRequestServerClient,
   resolveRequestSession,
@@ -26,6 +25,7 @@ import {
   parsePageHrefParam,
 } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 import { z } from "zod"
 import { resolveReaderNeighbors } from "../../alan-reader-neighbors/alan-reader-neighbors.module.code.ts"

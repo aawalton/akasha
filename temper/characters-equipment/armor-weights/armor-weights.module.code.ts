@@ -1,9 +1,12 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
-import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"
 import type {
   ArmorWeightId,
   StandardArmorWeightId,
 } from "akasha/temper/equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import {
+  createDataFile,
+  type DataFile,
+} from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import {
   type ArmorTypeId,
   getArmorMultiplier,

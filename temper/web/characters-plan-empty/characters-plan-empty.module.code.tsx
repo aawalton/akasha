@@ -1,6 +1,5 @@
 "use client"
 
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import {
   Empty,
@@ -12,6 +11,7 @@ import {
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { Gamepad2, Loader2 } from "lucide-react"
 import type { PlanEmptyState } from "../characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
 

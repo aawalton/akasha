@@ -1,4 +1,3 @@
-import { optionalEnv } from "@akasha/utils/narrow/require-env"
 import {
   createSession,
   deleteSession,
@@ -24,6 +23,7 @@ import {
   resolveWdaLocalPort,
   WDA_LOCAL_PORT_ENV,
 } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"
 import {
   APP_SAID,

@@ -1,6 +1,6 @@
-import type { Json } from "@akasha/utils/narrow/json-value"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { SequenceConfig } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { streamPages } from "../iterate/iterate.module.code.ts"
 import { getSequenceConfig } from "../page-type-config/page-type-config.module.code.ts"
 import { applySelect } from "../routing-core/routing-core.module.code.ts"

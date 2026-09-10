@@ -1,4 +1,4 @@
-import { isRecord } from "@akasha/utils/narrow/is-record"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import type { FilterRangeValue } from "../search-filter-types/search-filter-types.module.code.ts"
 
 function isComparisonOp(raw: unknown): raw is FilterRangeValue["op"] {

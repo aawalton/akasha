@@ -1,4 +1,4 @@
-import { requireEnv } from "@akasha/utils/narrow/require-env"
+import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   JSON_SAID,
   proseIn,

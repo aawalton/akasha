@@ -1,4 +1,4 @@
-import type { Json } from "@akasha/utils/narrow/json-value"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import type { ViewDataJSON } from "../../schema/view-data/view-data.module.code.ts"
 
 export type JsonPatchOp =

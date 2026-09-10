@@ -1,4 +1,3 @@
-import { requireAt } from "@akasha/utils/narrow/require-at"
 import {
   PLAYER_ARMOR_ESO_TO_TRAIT,
   PLAYER_JEWELRY_ESO_TO_TRAIT,
@@ -13,6 +12,7 @@ import {
   evaluateRule,
   walkRules,
 } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import { buildItemFactsForLink } from "../inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
 import { buildEsoEvalEnv } from "../inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
 import {

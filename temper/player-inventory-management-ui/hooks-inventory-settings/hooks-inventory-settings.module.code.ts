@@ -5,8 +5,6 @@ import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticUpsertPages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-pages"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { isRecord } from "@akasha/utils/narrow/is-record"
-import type { Json } from "@akasha/utils/narrow/json-value"
 import { listenerSet } from "akasha/design/primitives/listener-set/listener-set.module.code.ts"
 import { useSingleFlight } from "akasha/design/primitives/use-single-flight/use-single-flight.module.code.ts"
 import { deletePages } from "akasha/pages/access/deleting/deleting.module.code.ts"
@@ -33,6 +31,8 @@ import {
 } from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { writesFor } from "akasha/temper/items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

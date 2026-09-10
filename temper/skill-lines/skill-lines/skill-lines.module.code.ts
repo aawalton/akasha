@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import { ALLIANCE_WAR_SKILL_LINES } from "../alliance-war-skill-lines/alliance-war-skill-lines.module.code.ts"
 import { CLASS_SKILL_LINES } from "../class-skill-lines/class-skill-lines.module.code.ts"
 import { COMPANION_SKILL_LINES } from "../companion-skill-lines/companion-skill-lines.module.code.ts"

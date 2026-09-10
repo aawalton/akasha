@@ -1,4 +1,3 @@
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import {
   BASE_APPLICABLE_ESO_LINE_IDS,
   CLASS_ESO_SKILL_LINE_IDS,
@@ -11,6 +10,7 @@ import {
   type ExpectedMorphableSkill,
   type MorphSkillLineProgressMap,
 } from "akasha/temper/skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { getTemperCharactersData } from "../inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 
 const baseApplicableEsoLineIds: ReadonlySet<number> = (() => {

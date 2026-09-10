@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { requireGet } from "@akasha/utils/narrow/require-get"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import type {
   DockerfileExtensions,
   ServiceConfig,

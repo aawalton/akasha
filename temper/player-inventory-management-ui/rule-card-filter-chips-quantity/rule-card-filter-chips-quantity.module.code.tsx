@@ -1,6 +1,5 @@
 "use client"
 
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { EditableNumber } from "akasha/design/forms/editable-number/editable-number.module.code.tsx"
 import {
@@ -14,6 +13,7 @@ import { ALL_STOCKED_OPTIONS } from "akasha/temper/items-rules-core/all-stocked-
 import { KEEP_QUANTITY_OPTIONS } from "akasha/temper/items-rules-core/keep-quantity-filter/keep-quantity-filter.module.code.ts"
 import { STOCK_THRESHOLD_OPTIONS } from "akasha/temper/items-rules-core/stock-threshold-filter/stock-threshold-filter.module.code.ts"
 import { TARGET_QUANTITY_OPTIONS } from "akasha/temper/items-rules-core/target-quantity-filter/target-quantity-filter.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 import { ComparisonOpPicker } from "../comparison-op-picker/comparison-op-picker.module.code.tsx"
 import { EditableTextValue } from "../rule-card-filter-text/rule-card-filter-text.module.code.tsx"

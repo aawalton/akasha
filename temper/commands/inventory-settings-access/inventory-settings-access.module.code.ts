@@ -1,5 +1,3 @@
-import { isJson } from "@akasha/utils/narrow/is-json"
-import type { Json } from "@akasha/utils/narrow/json-value"
 import { deletePages } from "akasha/pages/access/deleting/deleting.module.code.ts"
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import { upsertPage, upsertPages } from "akasha/pages/access/upsert/upsert.module.code.ts"
@@ -14,6 +12,8 @@ import {
 import { createDefaultRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { writesFor } from "akasha/temper/items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 

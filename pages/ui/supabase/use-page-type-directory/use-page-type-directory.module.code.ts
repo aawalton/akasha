@@ -1,7 +1,7 @@
 "use client"
 
 import type { PageTypeIdBySlug } from "@akasha/pages-ui/supabase/view-data-of-page"
-import { isRecord } from "@akasha/utils/narrow/is-record"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { useEffect, useState } from "react"
 
 export const PAGE_TYPE_DIRECTORY_PATH = "/api/pages/page-type"

@@ -1,4 +1,4 @@
-import type { Json } from "@akasha/utils/narrow/json-value"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { z } from "zod"
 import type { PageCursor } from "../types/types.module.code.ts"
 

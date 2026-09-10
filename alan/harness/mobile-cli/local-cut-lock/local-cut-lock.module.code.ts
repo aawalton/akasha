@@ -1,7 +1,7 @@
 import { closeSync, openSync, readFileSync, unlinkSync, writeSync } from "node:fs"
-import { expandTilde } from "@akasha/utils/fs/expand-tilde"
-import { pidAliveOrAssumeDead } from "@akasha/utils/process/pid-signal"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { expandTilde } from "akasha/utils/fs/expand-tilde/expand-tilde.module.code.ts"
+import { pidAliveOrAssumeDead } from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import { z } from "zod"
 
 export const LOCAL_CUT_LOCK_PATH = "~/.mobile-cut-testflight.lock"

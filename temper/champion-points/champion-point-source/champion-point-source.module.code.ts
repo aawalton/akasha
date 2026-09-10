@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"
 import { craftPassives } from "../craft-passives/craft-passives.module.code.ts"

@@ -1,6 +1,5 @@
 "use client"
 
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   Select,
@@ -12,6 +11,7 @@ import {
 import { KNOWN_OPTIONS } from "akasha/temper/items-rules-core/known-filter/known-filter.module.code.ts"
 import { RECONSTRUCTED_OPTIONS } from "akasha/temper/items-rules-core/reconstructed-filter/reconstructed-filter.module.code.ts"
 import { TRANSMUTED_OPTIONS } from "akasha/temper/items-rules-core/transmuted-filter/transmuted-filter.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 

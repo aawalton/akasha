@@ -1,7 +1,10 @@
-import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"
-import { requireGet } from "@akasha/utils/narrow/require-get"
 import type { SetCategoryId } from "akasha/temper/equipment/set-category-ids/set-category-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
+import {
+  createDataFile,
+  type DataFile,
+} from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 
 export const TEMPER_SET_CATEGORIES_BY_ID = {
   "none": { id: "none" as const, name: "No Set Category", displayOrder: 0 },

@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 
 export interface ClassTemplate {

@@ -1,4 +1,3 @@
-import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
 import {
   dataError,
   inputError,
@@ -44,6 +43,7 @@ import {
 } from "akasha/seat-system/spawn-seat/spawn-seat.module.code.ts"
 import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
 import type { StatedAgentSlots } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import { readStdinOrFile } from "akasha/utils/fs/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import {
   composeSeatName,

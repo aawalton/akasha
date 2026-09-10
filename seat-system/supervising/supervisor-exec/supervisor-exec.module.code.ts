@@ -1,7 +1,10 @@
 import { dlopen, FFIType, ptr } from "bun:ffi"
-import { collapse, folds, refuses } from "@akasha/utils/narrow/collapse"
-import { resolveMappedLibc } from "@akasha/utils/process/libc-mapping"
-import { errnoCodeOf, readPidSignal } from "@akasha/utils/process/pid-signal"
+import { collapse, folds, refuses } from "akasha/utils/narrow/collapse/collapse.module.code.ts"
+import { resolveMappedLibc } from "akasha/utils/process/libc-mapping/libc-mapping.module.code.ts"
+import {
+  errnoCodeOf,
+  readPidSignal,
+} from "akasha/utils/process/pid-signal/pid-signal.module.code.ts"
 import type { ChildExitStatus } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { ChildExitRuleSource } from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 

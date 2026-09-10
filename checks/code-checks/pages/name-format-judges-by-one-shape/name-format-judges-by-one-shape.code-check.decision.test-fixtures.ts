@@ -1,6 +1,6 @@
 import { idFiled, listedFiled, pathFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import { ran } from "@akasha/utils/run/running"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"

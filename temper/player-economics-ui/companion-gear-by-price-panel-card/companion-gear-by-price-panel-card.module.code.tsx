@@ -1,6 +1,5 @@
 "use client"
 
-import { requireGet } from "@akasha/utils/narrow/require-get"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
@@ -10,6 +9,7 @@ import { getQualityClassName } from "akasha/temper/companions-ui/companion-quali
 import type { CompanionGearNeed } from "akasha/temper/items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
 import { needToShoppingKey } from "akasha/temper/shopping/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import { useMemo, useState } from "react"
 import {
   buildBlendedPriceMap,

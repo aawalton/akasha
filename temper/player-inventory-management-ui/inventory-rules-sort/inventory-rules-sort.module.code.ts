@@ -1,9 +1,9 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import type {
   CategoryRule,
   ItemRule,
 } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { getActionLabel } from "../action-options/action-options.module.code.ts"
 import type { RuleSortField } from "../inventory-filter-types/inventory-filter-types.module.code.ts"
 

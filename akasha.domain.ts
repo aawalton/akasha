@@ -60,7 +60,7 @@ export const akasha = {
     "domain/mobile-commands",
     "workspace/akasha-workspace",
     "domain/products",
-    "workspace-package/utils",
+    "domain/utils",
   ],
   directives: [
     {

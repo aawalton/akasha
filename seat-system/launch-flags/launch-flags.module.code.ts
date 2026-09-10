@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
-import { shape } from "@akasha/utils/narrow/shape"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const DECLARED =
   "seat-system/agent-settings/pages/launch-flags/launch-flags.agent-settings.harness-settings.json"

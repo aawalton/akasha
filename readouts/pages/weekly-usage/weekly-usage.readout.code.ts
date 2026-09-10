@@ -1,4 +1,4 @@
-import { asNumber } from "@akasha/utils/narrow/as-number"
+import { asNumber } from "akasha/utils/narrow/as-number/as-number.module.code.ts"
 import type { Asking, Row } from "../../asking/readout-asking.module.code.ts"
 
 const CLAUDE_ACCOUNT = "claude-account"

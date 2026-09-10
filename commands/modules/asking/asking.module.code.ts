@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { isMissing } from "@akasha/utils/fs/missing"
+import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
 import type { Answer, Kind } from "../calling/calling.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { SUBAGENT_MARK } from "../reading/reading.module.code.ts"

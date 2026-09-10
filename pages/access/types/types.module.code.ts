@@ -1,4 +1,4 @@
-import type { Json } from "@akasha/utils/narrow/json-value"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
 export type JsonObjectInput<T> = {
   [K in keyof T]: T[K] extends Json | undefined

@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { CompanionArmorWeight } from "../companion-armor-weights/companion-armor-weights.module.code.ts"
 import type { CompanionRoleId } from "../companion-roles/companion-roles.module.code.ts"
 import type { CompanionTraitId } from "../companion-traits/companion-traits.module.code.ts"

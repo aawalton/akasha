@@ -1,4 +1,3 @@
-import { requireFirst } from "@akasha/utils/narrow/require-first"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
@@ -14,6 +13,7 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 interface CompanionQuestsPanelCardProps {
   id?: CharacterCardId

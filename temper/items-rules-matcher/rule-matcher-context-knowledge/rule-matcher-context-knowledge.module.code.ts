@@ -1,4 +1,3 @@
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import { potions } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
@@ -9,6 +8,7 @@ import type {
   CharacterBuildInput,
   CompletionCharacterInput,
 } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { foodOrDrink } from "../../character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 

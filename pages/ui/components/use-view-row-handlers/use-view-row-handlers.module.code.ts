@@ -5,7 +5,6 @@ import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useOptimisticPatchPropertyDefinition } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-property-definition"
 import type { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
-import type { Json } from "@akasha/utils/narrow/json-value"
 import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
 import { patchPropertyDefinitionById } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
@@ -16,6 +15,7 @@ import type {
 } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { useCallback } from "react"
 
 interface UseViewRowHandlersArgs {

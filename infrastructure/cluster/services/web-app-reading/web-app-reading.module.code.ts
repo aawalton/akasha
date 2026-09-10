@@ -1,8 +1,8 @@
 import { existsSync } from "node:fs"
 import { basename, join } from "node:path"
-import { said } from "@akasha/utils/run/running"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { numberAt, textAt, textsAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { said } from "akasha/utils/run/running/running.module.code.ts"
 
 const WEB_APP_SUFFIX = ".web-app.ts"
 export const CLUSTER_SERVICE_SUFFIX = ".cluster-service.ts"

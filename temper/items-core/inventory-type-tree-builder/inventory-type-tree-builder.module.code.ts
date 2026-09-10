@@ -1,4 +1,4 @@
-import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import { hasSignals, matchesSignals } from "../classify-item/classify-item.module.code.ts"
 import { getCompanionTraitName } from "../companion-trait-labels/companion-trait-labels.module.code.ts"
 import type {

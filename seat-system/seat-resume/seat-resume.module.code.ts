@@ -1,5 +1,3 @@
-import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
-import { shape } from "@akasha/utils/narrow/shape"
 import {
   dataError,
   exitCodeForThrowable,
@@ -42,6 +40,8 @@ import {
   type TakenSeat,
   takeoverSeat,
 } from "akasha/seat-system/takeover-seat/takeover-seat.module.code.ts"
+import { readStdinOrFile } from "akasha/utils/fs/read-stdin-or-file/read-stdin-or-file.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
 

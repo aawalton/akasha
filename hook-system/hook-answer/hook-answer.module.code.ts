@@ -1,5 +1,5 @@
 import { resolve, sep } from "node:path"
-import { asRecord } from "@akasha/utils/narrow/as-record"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
 
 export const SCOPE_FLAG = "--scope"

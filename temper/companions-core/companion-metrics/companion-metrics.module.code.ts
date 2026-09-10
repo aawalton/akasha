@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { RatingSurplusInfo } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
 import type { SourceCategoryId } from "../../formula-framework/source-category/source-category.module.code.ts"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"

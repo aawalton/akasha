@@ -1,6 +1,5 @@
 "use client"
 
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { Skeleton } from "akasha/design/primitives/skeleton/skeleton.module.code.tsx"
 import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
@@ -11,6 +10,7 @@ import type { CompanionFormulaStats } from "akasha/temper/companions-core/compan
 import type { CompanionSkillSlotId } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"
 import type { CompanionSkillId } from "akasha/temper/companions-core/companion-skills/companion-skills.module.code.ts"
 import type { RotationResult } from "akasha/temper/companions-core/rotation-types/rotation-types.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { SkillBreakdownTable } from "../companion-rotation-breakdown-table/companion-rotation-breakdown-table.module.code.tsx"
 import { getPrimaryRows } from "../companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
 import { deriveCompanionRotationOutcome } from "../companion-rotation-outcome/companion-rotation-outcome.module.code.ts"

@@ -27,7 +27,6 @@
     "./value/page": "./value/index-value.index.ts"
   },
   "dependencies": {
-    "@akasha/code": "workspace:*",
-    "@akasha/utils": "workspace:*"
+    "@akasha/code": "workspace:*"
   }
 }

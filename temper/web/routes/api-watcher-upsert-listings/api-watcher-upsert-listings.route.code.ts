@@ -1,4 +1,4 @@
-import { isRecord } from "@akasha/utils/narrow/is-record"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { validateWatcherToken } from "../../../watcher/watcher-token-check/watcher-token-check.module.code.ts"
 
 const MAX_LISTINGS_PER_REQUEST = 100

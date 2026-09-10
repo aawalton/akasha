@@ -1,4 +1,4 @@
-import { isRecord } from "@akasha/utils/narrow/is-record"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
 
 export const SheetEntryStandardSchema = z

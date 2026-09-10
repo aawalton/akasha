@@ -1,6 +1,6 @@
 import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
 import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import {
   SAVED_VARIABLES_DEFAULTS,
   SAVED_VARIABLES_NAME,

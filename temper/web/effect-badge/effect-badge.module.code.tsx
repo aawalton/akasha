@@ -1,4 +1,3 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   formatCooldown,
@@ -14,6 +13,7 @@ import {
 import type { CompanionEffect } from "akasha/temper/companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { calculateEffectValue } from "akasha/temper/companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { formatAbbreviated } from "../../formula-framework/number-format/number-format.module.code.ts"
 import type {
   ArmorPieceCounts,

@@ -1,11 +1,11 @@
 "use client"
 
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
 import { formatGold } from "akasha/design/primitives/format-gold/format-gold.module.code.ts"
 import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { useMemo } from "react"
 import { AffectedItemsViews } from "../affected-items-views/affected-items-views.module.code.tsx"
 import {

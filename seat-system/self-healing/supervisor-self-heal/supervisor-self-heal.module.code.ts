@@ -1,4 +1,4 @@
-import { shape } from "@akasha/utils/narrow/shape"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { buildReExecArgv } from "../../supervising/supervisor-args/supervisor-args.module.code.ts"
 import {
   LOG,

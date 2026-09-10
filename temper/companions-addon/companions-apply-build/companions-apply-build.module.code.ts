@@ -8,7 +8,7 @@ import "akasha/temper/eso-types/eso-functions-07/eso-functions-07.type-declarati
 import "akasha/temper/eso-types/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { requireAt } from "@akasha/utils/narrow/require-at"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import {
   ARMOR_SLOTS,
   type CompanionBuildData,

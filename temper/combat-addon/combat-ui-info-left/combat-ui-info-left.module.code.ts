@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { ADDON_VERSION } from "../combat-constants/combat-constants.module.code.ts"
 import { LOG_LEVEL_DEBUG, log } from "../combat-core-log/combat-core-log.module.code.ts"
 import {

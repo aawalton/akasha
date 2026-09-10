@@ -1,8 +1,8 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   JEWELRY_TRAIT_QUALITY_VALUES,
   jewelryTraits,
 } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,

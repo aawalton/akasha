@@ -1,6 +1,5 @@
 "use client"
 
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
@@ -17,6 +16,7 @@ import type {
   PlanItem,
   VenueStop,
 } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { useCallback, useState } from "react"
 import {
   decideManagementPlanPanelState,

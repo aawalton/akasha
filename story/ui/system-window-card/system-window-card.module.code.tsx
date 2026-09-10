@@ -1,4 +1,3 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import type {
@@ -8,6 +7,7 @@ import type {
   SystemWindow,
   TalentActivation,
 } from "akasha/story/engine/core/system-window-schema/system-window-schema.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import {
   type SubmitPlayerAction,
   SystemChoiceCard,

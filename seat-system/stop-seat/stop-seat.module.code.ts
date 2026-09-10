@@ -1,6 +1,6 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
-import { ending } from "@akasha/utils/process/process-ending"
 import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { ending } from "akasha/utils/process/process-ending/process-ending.module.code.ts"
 import { decideKillTarget } from "../kill-target-plan/kill-target-plan.module.code.ts"
 import { killSeatSession } from "../launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { scanProcEntries } from "../proc-scan/proc-scan.module.code.ts"

@@ -1,5 +1,5 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { ComfyGraph, ComfyNode } from "akasha/inference/comfy/graph/comfy-graph.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { buildWanBackbone } from "../backbone/wan-backbone.module.code.ts"
 
 export type ExtendDirection = "forward" | "back"

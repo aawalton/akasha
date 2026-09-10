@@ -1,8 +1,8 @@
 import { relative } from "node:path"
-import { isRecord } from "@akasha/utils/narrow/is-record"
 import { discoverSynthFiles } from "akasha/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.code.ts"
 import { loadSynthOutputs } from "akasha/infrastructure/cluster/k8s-synth/synth-loading/synth-loading.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { parseAllDocuments } from "yaml"
 import { NAMESPACE_NAMES } from "../app-namespaces-synth/app-namespaces-synth.module.code.ts"
 import {

@@ -1,4 +1,3 @@
-import { requireFirst } from "@akasha/utils/narrow/require-first"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import {
@@ -19,6 +18,7 @@ import {
   type CompletionSortMode,
   createNodeFilter,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 
 interface CharacterAchievementsPanelCardProps {
   id?: CharacterCardId

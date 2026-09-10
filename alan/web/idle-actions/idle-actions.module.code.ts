@@ -1,4 +1,3 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   cumulativeTrainCost,
   gainedStars,
@@ -27,6 +26,7 @@ import type {
   GachaState,
   GameState,
 } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { z } from "zod"
 
 export const actionIntentSchema = z.discriminatedUnion("type", [

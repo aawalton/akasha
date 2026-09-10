@@ -1,6 +1,6 @@
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { bytes } from "@akasha/utils/run/running"
+import { bytes } from "akasha/utils/run/running/running.module.code.ts"
 import { classifyExtension, type FileKind } from "../file-kind/file-kind.module.code.ts"
 import { insideOf } from "../test-overlay/test-overlay.module.code.ts"
 

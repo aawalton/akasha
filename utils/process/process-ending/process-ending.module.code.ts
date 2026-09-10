@@ -1,4 +1,4 @@
-import { collapse, folds, refuses } from "@akasha/utils/narrow/collapse"
+import { collapse, folds, refuses } from "akasha/utils/narrow/collapse/collapse.module.code.ts"
 import {
   classifyPidSignalError,
   pidAliveOrAssumeAlive,

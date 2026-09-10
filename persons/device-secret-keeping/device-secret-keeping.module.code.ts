@@ -1,5 +1,4 @@
 import { createHash, randomBytes, timingSafeEqual } from "node:crypto"
-import { textAt } from "@akasha/utils/narrow/text-at"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { upperUuid } from "akasha/pages/name-formats/pages/upper-uuid/upper-uuid.name-format.code.ts"
 import type { Test } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
@@ -10,6 +9,7 @@ import {
   type Sleeper,
   writingFor,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
 import {
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,

@@ -1,5 +1,5 @@
 import { listedFiled } from "@akasha/indexes/testing"
-import { ran } from "@akasha/utils/run/running"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { founded, typed } from "../../../modules/scratch/check-scratch.module.code.ts"

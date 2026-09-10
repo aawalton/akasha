@@ -1,4 +1,4 @@
-import { shape } from "@akasha/utils/narrow/shape"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const SEC_MS = 1000
 

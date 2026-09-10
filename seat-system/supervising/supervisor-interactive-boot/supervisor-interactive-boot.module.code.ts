@@ -1,4 +1,3 @@
-import { shape } from "@akasha/utils/narrow/shape"
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { claimSeatSupervision } from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import {
@@ -27,6 +26,7 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { installProxyVersionSubsystem } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildCredentialSubsystem } from "../../seat-credential/supervisor-credentials/supervisor-credentials.module.code.ts"
 import {

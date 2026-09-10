@@ -1,4 +1,7 @@
-import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"
+import {
+  createDataFile,
+  type DataFile,
+} from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { SkillTemplate } from "../character-skill-template/character-skill-template.module.code.ts"
 import { skillsFromPages } from "../character-skills-from-pages/character-skills-from-pages.module.code.ts"

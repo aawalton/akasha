@@ -1,6 +1,5 @@
 "use client"
 
-import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   allSelection,
   type BlockSelection,
@@ -20,6 +19,7 @@ import {
   newBlockId,
 } from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
 import { flattenBlockIds } from "akasha/pages/core/property-types/rich-document-tree/rich-document-tree.module.code.ts"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 
 interface UseBlockSelectionArgs {

@@ -1,4 +1,4 @@
-import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import type {
   CharacterRecipeProgress,
   CharacterScribingProgress,

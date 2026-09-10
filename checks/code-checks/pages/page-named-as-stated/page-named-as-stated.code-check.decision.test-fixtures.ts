@@ -1,9 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { noPathsFiled } from "@akasha/indexes/testing"
-import { ran } from "@akasha/utils/run/running"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { bodiesIn, bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { declaring } from "../../../modules/scratch/check-scratch.module.code.ts"
 

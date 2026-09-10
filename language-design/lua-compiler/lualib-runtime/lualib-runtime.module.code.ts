@@ -1,4 +1,4 @@
-import { requireGet } from "@akasha/utils/narrow/require-get"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import { z } from "zod"
 import type { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"

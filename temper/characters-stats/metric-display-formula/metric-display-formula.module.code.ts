@@ -1,5 +1,5 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
-import { requireFirst } from "@akasha/utils/narrow/require-first"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import {
   convertArithmeticToDisplay,
   type DisplayResult,

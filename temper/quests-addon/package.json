@@ -17,6 +17,5 @@
     "./quests-entry": "./quests-entry/quests-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils": "workspace:*"
   }
 }

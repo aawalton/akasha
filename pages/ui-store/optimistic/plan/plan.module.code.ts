@@ -1,5 +1,5 @@
-import type { Json } from "@akasha/utils/narrow/json-value"
 import type { JsonPatch } from "akasha/pages/access/types/types.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import type { PageRow } from "../../collection/page-row/page-row.module.code.ts"
 
 export interface RowOverlay {

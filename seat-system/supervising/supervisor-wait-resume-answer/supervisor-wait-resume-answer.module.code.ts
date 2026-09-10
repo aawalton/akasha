@@ -1,6 +1,6 @@
-import { shape } from "@akasha/utils/narrow/shape"
-import type { Infer } from "@akasha/utils/narrow/shape-core"
 import { SUPERVISOR_DECIDE_COMMAND } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
+import type { Infer } from "akasha/utils/narrow/shape-core/shape-core.module.code.ts"
 
 export const WAIT_RESUME_DECISION = "waitResume"
 

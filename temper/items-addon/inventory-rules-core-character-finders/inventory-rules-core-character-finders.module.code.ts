@@ -1,4 +1,3 @@
-import { asObjectRecord } from "@akasha/utils/narrow/as-object-record"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import {
@@ -11,6 +10,7 @@ import {
   type ItemKey,
   type UseDestinationContext,
 } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
 import { buildCompiledCharacterPriority } from "../inventory-character-priority/inventory-character-priority.module.code.ts"
 import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"
 import {

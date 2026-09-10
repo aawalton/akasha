@@ -1,4 +1,4 @@
-import { isRecord } from "@akasha/utils/narrow/is-record"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
 import { PageRowSchema } from "../../realtime/payload-translator/payload-translator.module.code.ts"
 import {

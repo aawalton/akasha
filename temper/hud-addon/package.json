@@ -22,6 +22,5 @@
     "./hud-addon-entry": "./hud-addon-entry/hud-addon-entry.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils": "workspace:*"
   }
 }

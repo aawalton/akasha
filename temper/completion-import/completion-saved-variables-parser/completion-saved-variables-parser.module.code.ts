@@ -1,5 +1,3 @@
-import { asRecord } from "@akasha/utils/narrow/as-record"
-import { isRecord } from "@akasha/utils/narrow/is-record"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -7,6 +5,8 @@ import type {
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import {
   cleanAccountCompletionInput,
   cleanCharacterCompletionInput,

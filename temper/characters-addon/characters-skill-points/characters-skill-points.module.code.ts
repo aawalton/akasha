@@ -1,4 +1,3 @@
-import { requireFirst } from "@akasha/utils/narrow/require-first"
 import type { SkillPointProgress } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
 import {
   ENDLESS_ARCHIVE,
@@ -10,6 +9,7 @@ import {
   TUTORIALS,
   ZONE_IDS,
 } from "akasha/temper/skill-point-finder/skill-point-sources/skill-point-sources.module.code.ts"
+import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import { currentCharacterEntry } from "../characters-current-entry/characters-current-entry.module.code.ts"
 
 const FOLIUM_QUEST = 3997

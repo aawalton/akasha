@@ -99,6 +99,5 @@
     "./quiet-world": "./quiet-world/quiet-world.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils": "workspace:*"
   }
 }

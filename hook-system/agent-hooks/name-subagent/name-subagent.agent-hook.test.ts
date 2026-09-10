@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import { ran } from "@akasha/utils/run/running"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import {
   ACTING_NAMED,
   SEAT_NAMED,

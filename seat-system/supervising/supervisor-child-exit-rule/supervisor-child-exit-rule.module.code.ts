@@ -1,5 +1,5 @@
-import { shape } from "@akasha/utils/narrow/shape"
 import type { AskDecide } from "akasha/seat-system/supervising/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { askRule, type RuleAnswer } from "../supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
 import {
   type ChildExitClassification,

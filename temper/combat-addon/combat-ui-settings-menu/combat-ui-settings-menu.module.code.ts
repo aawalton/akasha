@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { calculateFight } from "../combat-analysis/combat-analysis.module.code.ts"
 import type { CmxFight } from "../combat-core-types/combat-core-types.module.code.ts"
 import { openSettings } from "../combat-menu/combat-menu.module.code.ts"

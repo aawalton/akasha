@@ -10,7 +10,6 @@ import {
 } from "@akasha/pages-ui/components/page-detail-sections"
 import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
-import { isRecord } from "@akasha/utils/narrow/is-record"
 import { BadgeLayoutProvider } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
@@ -28,6 +27,7 @@ import {
   type PageTypeSlug,
   toPageTypeSlug,
 } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { PageCover } from "../page-cover/page-cover.module.code.tsx"
 import { PageDetailProperties } from "../page-detail-properties/page-detail-properties.module.code.tsx"
 import { PageDetailReferrers } from "../page-detail-referrers/page-detail-referrers.module.code.tsx"

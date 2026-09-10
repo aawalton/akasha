@@ -2,13 +2,13 @@ import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
-import { sizeOnDisk } from "@akasha/utils/fs/file-size"
 import { exclusively } from "akasha/file-system/exclusive/exclusive.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
 import { type BodyOf, gathered, NOT_TEXT } from "../answer/change-answer.module.code.ts"
 import type { Answer, FileChange, Held, Reading } from "../answer/change-answer.module.types.ts"
 

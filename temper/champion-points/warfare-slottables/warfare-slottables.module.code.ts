@@ -1,4 +1,4 @@
-import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import { createDataFile } from "akasha/utils/narrow/create-data-file/create-data-file.module.code.ts"
 import type { ChampionPointTemplate } from "../champion-point-source/champion-point-source.module.code.ts"
 
 const WARFARE_SLOTTABLE_CHAMPION_POINTS = {

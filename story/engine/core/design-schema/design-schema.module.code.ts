@@ -1,4 +1,4 @@
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { z } from "zod"
 
 export const DESIGN_KINDS = ["companion-design", "floor-design", "world-logic"] as const

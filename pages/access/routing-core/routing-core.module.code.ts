@@ -1,5 +1,5 @@
-import type { Json } from "@akasha/utils/narrow/json-value"
 import { asPage, type Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { camelizeKey } from "../file-rows/file-rows.module.code.ts"
 import { parsePageSeq } from "../parse-page-seq/parse-page-seq.module.code.ts"
 

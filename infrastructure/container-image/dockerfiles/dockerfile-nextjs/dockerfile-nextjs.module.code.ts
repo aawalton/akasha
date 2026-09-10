@@ -1,4 +1,4 @@
-import { requireGet } from "@akasha/utils/narrow/require-get"
+import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import {
   emitBuilderPreamble,
   emitPackageJsonCopies,

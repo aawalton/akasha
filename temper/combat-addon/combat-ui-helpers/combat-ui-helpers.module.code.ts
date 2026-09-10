@@ -1,4 +1,4 @@
-import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import type { UpdatableControl } from "../combat-ui-state/combat-ui-state.module.code.ts"
 
 const SUB_ID_TO_QUALITY: Record<number, number> = {}

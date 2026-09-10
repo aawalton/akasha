@@ -1,5 +1,5 @@
-import { ran } from "@akasha/utils/run/running"
 import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { founded } from "../../../modules/scratch/check-scratch.module.code.ts"

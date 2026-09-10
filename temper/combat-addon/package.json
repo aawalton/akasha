@@ -160,6 +160,5 @@
     "./combat-ui-window": "./combat-ui-window/combat-ui-window.module.code.ts"
   },
   "dependencies": {
-    "@akasha/utils": "workspace:*"
   }
 }
