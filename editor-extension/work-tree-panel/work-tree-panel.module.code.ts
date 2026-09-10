@@ -3,7 +3,7 @@ import {
   followState,
   readState,
   stateAt,
-} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+} from "../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
 import { describedAs } from "../tree-description/tree-description.module.code.ts"

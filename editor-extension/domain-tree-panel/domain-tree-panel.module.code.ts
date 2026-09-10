@@ -3,7 +3,7 @@ import {
   followState,
   readState,
   stateAt,
-} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+} from "../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
 import { countNodes } from "../champions-tree/champions-tree.module.code.ts"
 import { REFRESH_COMMAND, VIEW_ID } from "../domain-tree-ids/domain-tree-ids.module.code.ts"
 import { createDomainTree } from "../domain-tree-view/domain-tree-view.module.code.ts"

@@ -2,7 +2,7 @@ import * as vscode from "vscode"
 import {
   readState,
   stateAt,
-} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+} from "../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
 import type { ColumnNumber } from "../editor-group/editor-group.module.code.ts"
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import {

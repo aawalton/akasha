@@ -4,8 +4,8 @@ import { join } from "node:path"
 import { scratchWorld } from "../../../../../commands/modules/scratching/scratching.module.code.ts"
 import { followState, readState, stateAt } from "./state-reading.module.code.ts"
 
-const PAGES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
-const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
+const PAGES_AT = "alan/harness/code-editor/data-interfaces/pages"
+const SCRATCH_AT = "alan/harness/code-editor/data-interfaces"
 const TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const SLUG = "work-tree"
 

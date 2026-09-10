@@ -1,5 +1,5 @@
 import * as vscode from "vscode"
-import { followState } from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+import { followState } from "../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { newestWins } from "../newest-wins/newest-wins.module.code.ts"
 import {

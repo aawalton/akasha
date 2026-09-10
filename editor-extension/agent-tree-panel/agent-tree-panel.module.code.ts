@@ -3,7 +3,7 @@ import {
   followState,
   readState,
   stateAt,
-} from "../../alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts"
+} from "../../alan/harness/code-editor/data-interfaces/state-reading/state-reading.module.code.ts"
 import { countRows } from "../agent-forest/agent-forest.module.code.ts"
 import { openAgentPage } from "../agent-page-opening/agent-page-opening.module.code.ts"
 import type { AgentNode } from "../agent-row/agent-row.module.code.ts"

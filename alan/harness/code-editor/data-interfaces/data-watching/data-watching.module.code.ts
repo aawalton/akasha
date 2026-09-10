@@ -38,8 +38,8 @@ import {
   workTreeLine,
 } from "../tree-drawing/tree-drawing.module.code.ts"
 
-const INTERFACES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
-const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
+const INTERFACES_AT = "alan/harness/code-editor/data-interfaces/pages"
+const SCRATCH_AT = "alan/harness/code-editor/data-interfaces"
 const SEATS_AT = "seat-system/seats/pages"
 const SUBAGENTS_AT = "seat-system/subagents/pages"
 const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
