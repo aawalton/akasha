@@ -3,7 +3,7 @@ import type { Change } from "@akasha/pages/change"
 import { shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { manifestLandsOnAFile } from "./manifest-lands-on-a-file.code-check.code.ts"
+import { manifestLandsOnAFile } from "./manifest-lands-on-a-file.code-check.check.code.ts"
 import {
   AT,
   EXPORTS,
