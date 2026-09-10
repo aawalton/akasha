@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
+import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
 
 export const leechingThirst = {
   id: "019e46b5-7e1b-746d-809d-a5553793d1d2",

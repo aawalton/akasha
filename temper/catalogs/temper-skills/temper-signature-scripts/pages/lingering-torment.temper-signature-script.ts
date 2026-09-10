@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
+import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
 
 export const lingeringTorment = {
   id: "019e46b5-7e15-770d-b8e9-89f6c542eef5",

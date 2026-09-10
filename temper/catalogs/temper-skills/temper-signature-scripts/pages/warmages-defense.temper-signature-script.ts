@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
+import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
 
 export const warmagesDefense = {
   id: "019e46b5-7e23-7867-aeea-5d911f65750a",

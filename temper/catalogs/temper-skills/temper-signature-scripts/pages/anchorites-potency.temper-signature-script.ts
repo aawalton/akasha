@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
+import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
 
 export const anchoritesPotency = {
   id: "019e46b5-7e2a-7383-9635-98329a2b7f5e",

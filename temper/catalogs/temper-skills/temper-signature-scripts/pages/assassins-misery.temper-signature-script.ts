@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
+import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
 
 export const assassinsMisery = {
   id: "019e46b5-7e1e-7fa8-8acf-0d3ff8b78222",

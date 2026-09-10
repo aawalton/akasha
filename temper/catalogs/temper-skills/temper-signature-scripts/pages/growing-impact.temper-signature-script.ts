@@ -1,4 +1,4 @@
-import type { TemperSignatureScript } from "../temper-signature-script.page-type.ts"
+import type { TemperSignatureScript } from "../temper-signature-script.page-type.types.ts"
 
 export const growingImpact = {
   id: "019e46b5-7e2d-7b04-8acc-43125f0be8b1",
