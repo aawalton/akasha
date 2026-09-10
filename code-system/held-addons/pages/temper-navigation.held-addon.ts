@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const temperNavigation = {
   id: "01a081a2-4c1b-7876-acea-015c2fa8b043",

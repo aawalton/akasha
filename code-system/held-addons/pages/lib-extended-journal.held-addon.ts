@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libExtendedJournal = {
   id: "01a081a4-4c4e-7b50-9594-8fddefe9187d",

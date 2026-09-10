@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libGps = {
   id: "01a081a3-9240-717f-9060-1239ce292038",

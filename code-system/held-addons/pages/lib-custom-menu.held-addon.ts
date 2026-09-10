@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libCustomMenu = {
   id: "01a081a2-9161-757a-990c-c63b64bbb36d",

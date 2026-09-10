@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libZone = {
   id: "01a081a5-6ef3-75e4-b276-15a8136c5adf",

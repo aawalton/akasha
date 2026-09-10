@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libTreasure = {
   id: "01a081a5-51c5-7190-8dfb-d40463d5e218",

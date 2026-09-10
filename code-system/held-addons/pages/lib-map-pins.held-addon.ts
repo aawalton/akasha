@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libMapPins = {
   id: "01a081a4-156f-7987-b7f7-d3f571fc27df",

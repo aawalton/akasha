@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libSavedVars = {
   id: "01a081a4-a572-785b-b132-9e17c759243c",

@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libAddonMenuOrderListBox = {
   id: "01a081a2-c451-788f-b202-460a68cea4eb",

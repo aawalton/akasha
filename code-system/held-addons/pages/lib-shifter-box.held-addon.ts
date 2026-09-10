@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libShifterBox = {
   id: "01a081a4-fab1-7deb-909a-b47b041720df",

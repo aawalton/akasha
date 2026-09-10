@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const temperEvents = {
   id: "01a081a2-1a3e-7e82-b4fc-00134573d02d",

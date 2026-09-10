@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libMediaProvider = {
   id: "01a081a4-306a-7689-8945-d085a36c0f92",

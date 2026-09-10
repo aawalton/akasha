@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libSlashCommander = {
   id: "01a081a5-173d-7681-9a03-f8d1b8cfb490",

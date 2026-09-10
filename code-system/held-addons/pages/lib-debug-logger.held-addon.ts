@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libDebugLogger = {
   id: "01a081a3-78ce-730a-9423-cfbb2836b234",

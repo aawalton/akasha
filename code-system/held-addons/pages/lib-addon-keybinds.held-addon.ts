@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const libAddonKeybinds = {
   id: "01a081a2-a9d8-7192-a5f9-fc6facd57f99",

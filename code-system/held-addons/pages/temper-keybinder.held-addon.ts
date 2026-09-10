@@ -1,4 +1,4 @@
-import type { HeldAddon } from "../held-addon.page-type.ts"
+import type { HeldAddon } from "../held-addon.page-type.types.ts"
 
 export const temperKeybinder = {
   id: "01a081a2-79f6-76bc-bfb3-a0b373f50177",
