@@ -1,5 +1,12 @@
 import { heldIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { HOLDS as HELD_BY_A_WORKSTATION_SERVICE } from "./folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.code.ts"
 import type { Standing } from "./folder-shapes/folder-shape.page-type.ts"
+import { HOLDS as HELD_BY_MODULES_ONLY } from "./folder-shapes/modules-only/modules-only.folder-shape.code.ts"
+import { HOLDS as HELD_BY_PAGES_OF_THE_TYPE_ABOVE } from "./folder-shapes/pages-of-the-type-above/pages-of-the-type-above.folder-shape.code.ts"
+import { HOLDS as HELD_BY_PROPERTIES_OF_THE_TYPE_ABOVE } from "./folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.code.ts"
+import { HOLDS as HELD_BY_PROPERTY_PAGES_ONLY } from "./folder-shapes/property-pages-only/property-pages-only.folder-shape.code.ts"
+import { HOLDS as HELD_BY_SCRIPTS_ONLY } from "./folder-shapes/scripts-only/scripts-only.folder-shape.code.ts"
+import { HOLDS as HELD_BY_SECTIONS_OF_THE_BOOK_ABOVE } from "./folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
 import {
   folderOf,
   type Grouped,
@@ -71,12 +78,13 @@ export type Shaping = {
 }
 
 export const HELD_IN_TESTS = new Set<string>([
-  "modules",
-  "pages",
-  "properties",
-  "scripts",
-  "sections",
-  "workstation-services",
+  ...HELD_BY_A_WORKSTATION_SERVICE,
+  ...HELD_BY_MODULES_ONLY,
+  ...HELD_BY_PAGES_OF_THE_TYPE_ABOVE,
+  ...HELD_BY_PROPERTIES_OF_THE_TYPE_ABOVE,
+  ...HELD_BY_PROPERTY_PAGES_ONLY,
+  ...HELD_BY_SCRIPTS_ONLY,
+  ...HELD_BY_SECTIONS_OF_THE_BOOK_ABOVE,
 ])
 
 export function folderFrom(shaping: Shaping): (names: readonly string[]) => Standing {
