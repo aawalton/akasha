@@ -9,6 +9,7 @@ import {
   RELAY_SECRET_NAME,
   relayedIn,
 } from "akasha/readouts/relay/readout-relay.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import type { Route } from "./+types/readout-relay.route.code"
 
 const NO_READING_IN_THE_BODY = {
@@ -24,7 +25,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
 
-  if (!presentsSecret(request, RELAY_SECRET_HEADER, process.env[RELAY_SECRET_NAME])) {
+  if (!presentsSecret(request, RELAY_SECRET_HEADER, optionalEnv(RELAY_SECRET_NAME))) {
     return buildReadoutRefusal()
   }
 
