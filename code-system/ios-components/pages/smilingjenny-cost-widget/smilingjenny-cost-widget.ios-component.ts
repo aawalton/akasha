@@ -18,7 +18,11 @@ export const smilingjennyCostWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost carries no tier above and no fraction climbed, so no arc is drawn.",
+      statement: "A cost carries no tier above and no fraction climbed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No arc is drawn for such a cost.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +38,11 @@ export const smilingjennyCostWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "A tap on this tile opens nothing, Jenny's app holding no page for the cost.",
+      statement: "A tap on this tile opens nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Jenny's app holds no page for the cost.",
     },
     {
       invariantKind: "departure",
