@@ -5,7 +5,7 @@ export const dallaDeployCleanup = {
   pageTypeSlug: "initiative",
   type: "initiative",
   slug: "dalla-deploy-cleanup",
-  domain: "page-type/change",
+  domain: "namespace/infrastructure",
   persona: "dalla",
   intents: [
     { statement: "Every workstation service has deployed through `akasha deploy`." },
