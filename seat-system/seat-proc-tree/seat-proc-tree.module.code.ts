@@ -51,7 +51,6 @@ function newestChildPid(children: readonly ClaudeChildProc[]): number | undefine
   return best.pid
 }
 
-/** The children the stated supervisor fathered, or all of them where it fathered none. */
 function underSupervisor(
   children: readonly ClaudeChildProc[],
   supervisorPid: number | null
@@ -75,7 +74,6 @@ export function pickMainClaudePid(
   return newestChildPid(underSupervisor(children, supervisorPid))
 }
 
-/** Union-find over ppid edges, grouping an agent's processes into whole trees. */
 function componentsOf(mine: readonly ProcLivenessEntry[]): {
   find: (pid: number) => number
   components: Map<number, ProcLivenessEntry[]>
@@ -150,7 +148,6 @@ export function selectSupersededTreePids(
   return superseded.sort((a, b) => a - b)
 }
 
-/** Every pid of the invocation the caller is running inside, up to the nearest agent process. */
 function selfInvocationPids(
   entries: readonly ProcLivenessEntry[],
   selfPid: number

@@ -35,5 +35,9 @@ export const seatProcTree = {
       invariantKind: "departure",
       statement: "A process the caller is running in is never read as another agent's process.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The invocation a caller runs inside reaches up to the nearest agent process.",
+    },
   ],
 } as const satisfies Module
