@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"
 import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { RELAY_SECRET_HEADER } from "../credential/readout-credential.module.code.ts"
@@ -123,7 +124,7 @@ if (import.meta.main) {
     process.stderr.write(`${NO_SECRET_TO_CARRY_ON}\n`)
     process.exit(2)
   }
-  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   if (readoutPageAt(root, page) === null) {
     process.stderr.write(`${noReadoutPageAt(page)}\n`)
     process.exit(3)
