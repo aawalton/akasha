@@ -45,7 +45,7 @@ export const packageNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier respelled is written as JSON spells it.",
+      statement: "A specifier respelled is written as JSON spells that specifier.",
     },
     {
       invariantKind: "departure",

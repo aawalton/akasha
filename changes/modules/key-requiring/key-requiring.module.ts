@@ -11,7 +11,7 @@ export const keyRequiring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The type a page's literal satisfies is what says whether a key is required.",
+      statement: "The type a page's literal satisfies says whether a key is required.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +48,7 @@ export const keyRequiring = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what a required key means for an edit.",
+      statement: "Nothing here judges the meaning a required key has for an edit.",
     },
   ],
 } as const satisfies Module

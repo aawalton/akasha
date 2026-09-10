@@ -75,7 +75,7 @@ export const changeGuarding = {
     {
       invariantKind: "departure",
       statement:
-        "The text a path holds after the answer is read here beside whether it has a body.",
+        "The text a path holds after the answer is read here beside whether that path has a body.",
     },
     {
       invariantKind: "departure",
