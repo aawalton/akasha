@@ -1,4 +1,4 @@
-import type { StoryWritten } from "../../story-written.page-type.ts"
+import type { StoryWritten } from "../../story-written.page-type.types.ts"
 
 export const cornerstone = {
   id: "01a06585-da9a-74f0-a37a-cf7c1bcf0ce9",

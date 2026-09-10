@@ -1,4 +1,4 @@
-import type { StoryWritten } from "../../story-written.page-type.ts"
+import type { StoryWritten } from "../../story-written.page-type.types.ts"
 
 export const towerOfNimue = {
   id: "01a06585-da9a-7ffa-b6f2-63ad88a53417",

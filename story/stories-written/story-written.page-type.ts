@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../collections/collection.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { World } from "../stories-played/properties/world.relation-property.ts"
-
-export type StoryWritten = Collection & {
-  title: Title
-  world?: World
-  prose?: Prose
-}
 
 export const storyWritten = {
   id: "01a06554-d8bd-7502-a414-fd4fd32eba45",
@@ -35,4 +25,5 @@ export const storyWritten = {
       statement: "More than one story written may be of the one world.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
