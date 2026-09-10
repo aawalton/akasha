@@ -1,4 +1,6 @@
 import http2 from "node:http2"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { z } from "zod"
 
 export const APNS_AUTH_KEY_ENV = "APNS_AUTH_KEY_P8"
 
@@ -40,17 +42,15 @@ export function classifyApnsResponse(said: {
   return { kind: "error", status: said.status, reason: said.reason }
 }
 
+const APNS_REASON = z.object({ reason: z.string() })
+
 export function reasonIn(body: string): string | null {
   if (body === "") return null
-  let held: unknown
   try {
-    held = JSON.parse(body)
+    return APNS_REASON.parse(JSON.parse(body)).reason
   } catch {
     return null
   }
-  if (held === null || typeof held !== "object") return null
-  const reason = (held as Record<string, unknown>).reason
-  return typeof reason === "string" ? reason : null
 }
 
 function base64Url(bytes: ArrayBuffer | Uint8Array | string): string {
@@ -191,8 +191,8 @@ export interface SenderRead {
 }
 
 export function apnsSenderFromEnv(): SenderRead {
-  const pem = process.env[APNS_AUTH_KEY_ENV] ?? ""
-  if (pem === "") {
+  const pem = optionalEnv(APNS_AUTH_KEY_ENV)
+  if (pem === undefined) {
     return {
       sender: null,
       why: `${APNS_AUTH_KEY_ENV} is unset, so no provider token can be signed — every push is a logged no-op until it is in ~/.secrets.env`,
