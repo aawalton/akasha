@@ -1,4 +1,4 @@
-import type { Workspace } from "./code-system/workspaces/workspace.page-type.ts"
+import type { Workspace } from "./code-system/workspaces/workspace.page-type.types.ts"
 
 export const akashaWorkspace = {
   id: "01a06cbb-60a1-73d5-88dc-0ffa3d84c96d",
