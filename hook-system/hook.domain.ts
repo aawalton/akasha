@@ -1,10 +1,10 @@
 import type { Domain } from "../domains/domain.page-type.types.ts"
 
-export const hookSystem = {
+export const hook = {
   id: "01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f",
   pageTypeSlug: "domain",
   type: "domain",
-  slug: "hook-system",
+  slug: "hook",
   definition: "how a tool call is judged",
   pluralSlug: "hooks",
   parts: [
