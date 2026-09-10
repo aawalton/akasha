@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
 
 export const movePropertyValue = {
   id: "01a081e2-edda-7fdd-bb18-0b5905ce5680",

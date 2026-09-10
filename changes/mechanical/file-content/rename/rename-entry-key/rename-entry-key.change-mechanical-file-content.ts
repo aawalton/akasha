@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
 
 export const renameEntryKey = {
   id: "01a08763-9f88-79a2-8f08-e50cbca9c517",

@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
 
 export const removeManifestWays = {
   id: "01a0798b-3398-72f0-8d29-c5c8301326de",

@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
 
 export const addPageProperty = {
   id: "01a08174-b09a-7bbd-acf1-6892ecfb3575",

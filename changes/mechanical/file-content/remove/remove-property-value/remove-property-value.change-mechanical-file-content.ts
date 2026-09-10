@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
 
 export const removePropertyValue = {
   id: "01a07758-01be-7649-a91a-f8952f0b468e",

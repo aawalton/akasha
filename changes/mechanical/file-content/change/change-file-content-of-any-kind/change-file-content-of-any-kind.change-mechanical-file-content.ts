@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
+import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.types.ts"
 
 export const changeFileContentOfAnyKind = {
   id: "01a0826c-1190-79a9-aa7d-6eaf11dec403",

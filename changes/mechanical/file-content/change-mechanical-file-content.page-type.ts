@@ -1,9 +1,4 @@
 import type { PageType } from "../../../pages/types/page-type.page-type.ts"
-import type { ChangeMechanical } from "../change-mechanical.page-type.types.ts"
-
-export type ChangeMechanicalFileContent = ChangeMechanical & {
-  changeTargetType: "change-target-type/file-content"
-}
 
 export const changeMechanicalFileContent = {
   id: "01a07c97-c872-71a7-8e77-3ba5f2f974e0",
@@ -23,4 +18,5 @@ export const changeMechanicalFileContent = {
   properties: [
     { pageProperty: "relation-property/change-target-type", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
