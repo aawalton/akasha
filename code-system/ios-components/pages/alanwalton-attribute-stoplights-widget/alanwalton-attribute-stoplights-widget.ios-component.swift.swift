@@ -40,12 +40,12 @@ private let ATTRIBUTE_PREVIEW: [(
     attribute: String, tier: Tier, reading: String, nextTier: Tier?, progress: Double?,
     label: String
 )] = [
-    ("strength", .green, "1.4", .blue, 0.4, "Strength"),
-    ("endurance", .yellow, "0.75", .green, 0.5, "Endurance"),
-    ("constitution", .blue, "2.3", nil, nil, "Constitution"),
-    ("wisdom", .black, "0", .red, nil, "Wisdom"),
-    ("intelligence", .red, "0.3", .yellow, 0.2, "Intelligence"),
-    ("charisma", .yellow, "0.6", .green, 0.2, "Charisma"),
+    ("strength", .green, "1.4", .blue, 0.4, "STR"),
+    ("endurance", .yellow, "0.7", .green, 0.5, "END"),
+    ("constitution", .blue, "2.3", nil, nil, "CON"),
+    ("wisdom", .black, "0", .red, nil, "WIS"),
+    ("intelligence", .red, "0.3", .yellow, 0.2, "INT"),
+    ("charisma", .yellow, "0.6", .green, 0.2, "CHA"),
 ]
 
 enum AttributeStoplightsFeed: WidgetFeed {
