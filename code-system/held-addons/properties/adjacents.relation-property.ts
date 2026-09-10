@@ -15,11 +15,11 @@ export const adjacents = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Adjacency is written as a bite meets it rather than mapped out up front.",
+      statement: "Adjacency is written as a bite meets an addon rather than mapped out up front.",
     },
     {
       invariantKind: "departure",
-      statement: "An addon naming none here has had no bite reach past it.",
+      statement: "An addon naming no adjacent here has had no bite reach past that addon.",
     },
   ],
 } as const satisfies RelationProperty
