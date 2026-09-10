@@ -44,7 +44,7 @@ export const proxyRun = {
     },
     {
       invariantKind: "departure",
-      statement: "That folder is not the folder a socket is named in, which every agent shares.",
+      statement: "That folder is not the folder every agent shares a socket in.",
     },
     {
       invariantKind: "absence",
