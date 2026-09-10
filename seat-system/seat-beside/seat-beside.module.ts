@@ -48,7 +48,11 @@ export const seatBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat is named here, and a seat's page path is read for that name.",
+      statement: "A seat is named here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's page path is read for the name that seat is named by.",
     },
     {
       invariantKind: "departure",

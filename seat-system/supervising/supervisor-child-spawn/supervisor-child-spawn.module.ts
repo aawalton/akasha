@@ -30,7 +30,11 @@ export const supervisorChildSpawn = {
     },
     {
       invariantKind: "departure",
-      statement: "An adopted child is the same client, so its open tasks are left alone.",
+      statement: "An adopted child is the same client.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The open tasks of an adopted child are left alone.",
     },
   ],
 } as const satisfies Module
