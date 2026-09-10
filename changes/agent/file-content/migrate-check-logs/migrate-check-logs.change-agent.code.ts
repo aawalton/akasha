@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
-import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
+import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/shadow/change-shadow.module.code.ts"
 import { carryingOver } from "../../../modules/value-carrying/value-carrying.module.code.ts"
@@ -21,8 +21,6 @@ const CHECK = "check"
 const AUDIT = "audit"
 
 const GROUPS = [CHECK, AUDIT] as const
-
-const SINCE = "since"
 
 const FIRST_PART = 1
 
@@ -136,12 +134,4 @@ export async function migrateCheckLogs(world: World, since: string): Promise<Ans
   }
   if (written === 0) return refusing(NO_ROW)
   return carrier.gatheredIn()
-}
-
-export type Asked = Readonly<Record<string, string>>
-
-export async function runChange(world: World, given: Asked): Promise<Answer> {
-  const since = given[SINCE]
-  if (since === undefined) return refusing(missing(SINCE))
-  return await migrateCheckLogs(world, since)
 }
