@@ -1,4 +1,4 @@
-import type { AuthorCollection } from "../author-collection.page-type.ts"
+import type { AuthorCollection } from "../author-collection.page-type.types.ts"
 
 export const fantasyAuthors = {
   id: "01a06808-06b4-7005-9128-48d4bcb13190",

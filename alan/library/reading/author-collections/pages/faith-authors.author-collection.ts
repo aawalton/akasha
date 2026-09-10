@@ -1,4 +1,4 @@
-import type { AuthorCollection } from "../author-collection.page-type.ts"
+import type { AuthorCollection } from "../author-collection.page-type.types.ts"
 
 export const faithAuthors = {
   id: "01a06808-06b4-7004-b933-54bb2f173708",

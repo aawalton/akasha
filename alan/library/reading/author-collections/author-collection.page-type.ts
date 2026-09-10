@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../../../collections/collection.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-
-export type AuthorCollection = Collection & {
-  title: Title
-}
 
 export const authorCollection = {
   id: "01a06807-be66-7001-8727-30e55aa5e73b",
@@ -15,4 +9,5 @@ export const authorCollection = {
   pluralSlug: "author-collections",
   extends: ["page-type/collection"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  types: "ts",
 } as const satisfies PageType
