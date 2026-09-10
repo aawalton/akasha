@@ -21,7 +21,7 @@ export type IdentityStatement = Page & {
   notionId: NotionId
   parentStatement?: ParentStatement
   identityStatementRank: IdentityStatementRank
-  replacedByStatements?: readonly ReplacedByStatements[]
+  replacedByStatements?: ReplacedByStatements
   replacesStatements?: readonly ReplacesStatements[]
   identityStatementStatus: IdentityStatementStatus
   subStatements?: readonly SubStatements[]

@@ -1,7 +1,8 @@
 import type { Slug } from "@akasha/pages/page/slug"
+import type { List } from "@akasha/pages/page-property"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type ReplacedByStatements = Slug
+export type ReplacedByStatements = List<Slug>
 
 export const replacedByStatements = {
   id: "01a0658a-739f-7a30-b80e-84746389acf7",
