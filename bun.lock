@@ -428,9 +428,6 @@
         "@tanstack/db": "^0.6.14",
         "zod": "^4.3.6",
       },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
     },
     "products/archive-of-worlds/web": {
       "name": "@akasha/archive-of-worlds-web",

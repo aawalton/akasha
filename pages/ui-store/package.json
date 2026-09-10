@@ -22,9 +22,7 @@
     "./singleton": "./singleton/singleton.module.code.ts",
     "./sql/options": "./sql/options/options.module.code.ts"
   },
-  "peerDependencies": {
-    "react": "^18 || ^19"
-  },
+
   "dependencies": {
     "@akasha/pages": "workspace:*",
     "@akasha/pages-access": "workspace:*",
