@@ -1,4 +1,4 @@
-import type { StoryChapterWritten } from "../../story-chapter-written.page-type.ts"
+import type { StoryChapterWritten } from "../../story-chapter-written.page-type.types.ts"
 
 export const towerOfNimue001TheFirstHour = {
   id: "01a06599-c380-7eff-8fad-2ae24c0f8377",

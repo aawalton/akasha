@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../collections/collection.page-type.types.ts"
-import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { WrittenChapterStory } from "./properties/written-chapter-story.relation-property.ts"
-
-export type StoryChapterWritten = Collection & {
-  title: Title
-  story: WrittenChapterStory
-  ownLength: OwnLength
-  prose: Prose
-}
 
 export const storyChapterWritten = {
   id: "01a06554-d8bd-712b-86b4-ade0001027ee",
@@ -43,4 +31,5 @@ export const storyChapterWritten = {
       statement: "A chapter's text from before a rewrite is kept in git rather than in a page.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

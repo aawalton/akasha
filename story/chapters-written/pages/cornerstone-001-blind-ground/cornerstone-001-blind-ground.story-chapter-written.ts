@@ -1,4 +1,4 @@
-import type { StoryChapterWritten } from "../../story-chapter-written.page-type.ts"
+import type { StoryChapterWritten } from "../../story-chapter-written.page-type.types.ts"
 
 export const cornerstone001BlindGround = {
   id: "01a06599-c37f-7cfe-a3a9-cb46c5f0e624",

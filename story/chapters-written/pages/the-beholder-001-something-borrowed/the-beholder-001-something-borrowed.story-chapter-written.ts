@@ -1,4 +1,4 @@
-import type { StoryChapterWritten } from "../../story-chapter-written.page-type.ts"
+import type { StoryChapterWritten } from "../../story-chapter-written.page-type.types.ts"
 
 export const theBeholder001SomethingBorrowed = {
   id: "01a06599-c380-72e5-b406-7f61665724fa",

@@ -1,4 +1,4 @@
-import type { StoryChapterWritten } from "../../story-chapter-written.page-type.ts"
+import type { StoryChapterWritten } from "../../story-chapter-written.page-type.types.ts"
 
 export const comeHere0001FirelitKnit = {
   id: "01a06599-c380-718c-b4a1-f0158c2f1bba",

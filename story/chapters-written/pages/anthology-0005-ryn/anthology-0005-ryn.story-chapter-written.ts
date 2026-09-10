@@ -1,4 +1,4 @@
-import type { StoryChapterWritten } from "../../story-chapter-written.page-type.ts"
+import type { StoryChapterWritten } from "../../story-chapter-written.page-type.types.ts"
 
 export const anthology0005Ryn = {
   id: "01a06599-c380-7717-9c1c-3cf7bcc6704b",

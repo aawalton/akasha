@@ -1,4 +1,4 @@
-import type { StoryChapterWritten } from "../../story-chapter-written.page-type.ts"
+import type { StoryChapterWritten } from "../../story-chapter-written.page-type.types.ts"
 
 export const anthology0002Aelwyn = {
   id: "01a06599-c37f-7841-bc0c-2f6e1ef9c86e",
