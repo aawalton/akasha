@@ -8,10 +8,10 @@ const PAGE_TYPES = new Set<string>(["domain", "page-type", "module", "seat"])
 
 const DOMAINS = new Set<string>(["domain", "page-type", "module"])
 
-const DECLARED = new Set<string>(["page-type/model-family", "module/model-asking"])
+const DECLARED = new Set<string>(["page-type/model-humming", "module/model-asking"])
 
 function holdsAt(at: string): readonly string[] {
-  if (at.endsWith("/families")) return ["page-type/model-family"]
+  if (at.endsWith("/families")) return ["page-type/model-humming"]
   if (at.endsWith("/stray")) return ["domain/other"]
   return []
 }
@@ -33,7 +33,7 @@ test("a domain with its modules alone takes the shape", () => {
 })
 
 test("a subfolder holding a page the domain declares a part takes the shape", () => {
-  expect(judged(["families/model-family.page-type.ts"], ["models.domain.ts"])).toEqual([])
+  expect(judged(["families/model-humming.page-type.ts"], ["models.domain.ts"])).toEqual([])
 })
 
 test("a subfolder holding a page the domain declares nowhere is refused", () => {
@@ -59,7 +59,9 @@ test("a folder holding no page is refused", () => {
 })
 
 test("a subfolder named scripts is a part", () => {
-  expect(judged(["scripts/build-sim/build-sim.shell-script.ts"], ["models.domain.ts"])).toEqual([])
+  expect(
+    judged(["scripts/build-humming/build-humming.shell-script.ts"], ["models.domain.ts"])
+  ).toEqual([])
 })
 
 const DEEP = "deploy/dockerfile-extensions.json"

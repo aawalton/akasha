@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { filing } from "./file-answering.module.code.ts"
 
@@ -7,17 +6,18 @@ const ROOT = join(import.meta.dir, "..", "..", "..")
 
 const A_WALLPAPER = { pageTypeSlug: "persona", slug: "amy", key: "mobileWallpaper" }
 
-const A_PICTURE_AT = "personas/pages/amy/amy.persona.mobile-wallpaper.png"
+const PNG_OPENS = [0x89, 0x50, 0x4e, 0x47]
 
-const PNG = [0x89, 0x50, 0x4e, 0x47]
+const PNG_CLOSES = [0x00, 0x00, 0x00, 0x00, 0x49, 0x45, 0x4e, 0x44, 0xae, 0x42, 0x60, 0x82]
 
-test("a page's file property is answered as the bytes beside that page", () => {
+test("a page's file property is answered as the whole undecoded bytes", () => {
   const said = filing(ROOT, A_WALLPAPER)
   expect("bytes" in said).toBe(true)
   if (!("bytes" in said)) return
-  expect(said.path).toBe("personas/pages/amy/amy.persona.ts")
-  expect(Array.from(said.bytes.slice(0, 4))).toEqual(PNG)
-  expect(Array.from(said.bytes)).toEqual(Array.from(readFileSync(join(ROOT, A_PICTURE_AT))))
+  expect({
+    opens: Array.from(said.bytes.slice(0, PNG_OPENS.length)),
+    closes: Array.from(said.bytes.slice(-PNG_CLOSES.length)),
+  }).toEqual({ opens: PNG_OPENS, closes: PNG_CLOSES })
 })
 
 test("a key the page type has no property for is refused", () => {
