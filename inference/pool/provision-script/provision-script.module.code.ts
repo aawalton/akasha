@@ -14,9 +14,6 @@ function sq(value: string): string {
   return `'${value.replaceAll("'", "'\\''")}'`
 }
 
-// A provision script is a page, so its file is named `<slug>.shell-script.shell.sh` rather than
-// `deploy.sh`. The slug is the source directory's own name and not the service's, because seven
-// audio services all provision from `mlx-audio-provision`.
 function provisionScriptName(sourceDir: string): string {
   const slug = sourceDir.slice(sourceDir.lastIndexOf("/") + 1)
   return `${slug}.shell-script.shell.sh`
