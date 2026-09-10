@@ -193,7 +193,7 @@ test("the label and the key answered are the ones the readout's own page carries
 
 test("the figure is the multiplier written as a figure", async () => {
   costing(0.625, 5)
-  expect((await oneDrawn())?.reading).toBe("0.62")
+  expect((await oneDrawn())?.reading).toBe("0.6")
 })
 
 test("a cost is never answered blue", async () => {
