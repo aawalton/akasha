@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "`akasha audit` truncates at 28000 bytes and gives the true count only on its last line, so a `grep -c` over its output counts what fit rather than what is. `--file-path` narrows what is judged but still reports folders outside the named tree. Refusals come in two wordings: `matches no folder shape`, and `opens with X, what the page above it is named`. A folder holding one page is named for that page with the opening it shares with the page above taken off.\n",
+        "A folder move leaves a specifier naming a package as it is, and the root `akasha` exports `./*`, so `akasha/...` specifiers carry the path and go stale. Typecheck judges only what a change reaches, so the break lands green and shows up elsewhere. Search relative, `@akasha/...` and `akasha/...` before a move. `move-pages` reads its folder against the repository root. `akasha audit` truncates at 28000 bytes and gives the true count only on its last line.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
