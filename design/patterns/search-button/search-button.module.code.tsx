@@ -1,14 +1,14 @@
 "use client"
 
+import { cn } from "@akasha/design-primitives/cn"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
 import {
   InputGroup,
   InputGroupAddon,
   InputGroupButton,
   InputGroupInput,
-} from "@akasha/design-forms/input-group"
-import { cn } from "@akasha/design-primitives/cn"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
+} from "akasha/design/forms/input-group/input-group.module.code.tsx"
 import { Search, X } from "lucide-react"
 import { useEffect, useRef, useState } from "react"
 

@@ -1,12 +1,12 @@
+import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
+import { Button } from "@akasha/design-primitives/button"
+import { Card } from "@akasha/design-primitives/card"
 import {
   InputGroup,
   InputGroupAddon,
   InputGroupButton,
   InputGroupInput,
-} from "@akasha/design-forms/input-group"
-import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { Button } from "@akasha/design-primitives/button"
-import { Card } from "@akasha/design-primitives/card"
+} from "akasha/design/forms/input-group/input-group.module.code.tsx"
 import { Search } from "lucide-react"
 import { useState } from "react"
 import { Link } from "react-router"

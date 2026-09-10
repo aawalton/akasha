@@ -1,6 +1,5 @@
 "use client"
 
-import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import {
   AlertDialog,
@@ -25,6 +24,7 @@ import { Text } from "@akasha/design-primitives/text-body"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"
 import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import { EllipsisVertical, Info, ShoppingCart } from "lucide-react"
 import { memo, useEffect, useState } from "react"

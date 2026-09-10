@@ -1,6 +1,5 @@
 "use client"
 
-import { MultiSelect, type MultiSelectItem } from "@akasha/design-forms/multi-select"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import {
   Select,
@@ -9,6 +8,10 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
+import {
+  MultiSelect,
+  type MultiSelectItem,
+} from "akasha/design/forms/multi-select/multi-select.module.code.tsx"
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,

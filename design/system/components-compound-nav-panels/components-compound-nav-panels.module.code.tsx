@@ -1,14 +1,5 @@
 "use client"
 
-import {
-  Form,
-  FormControl,
-  FormDescription,
-  FormField,
-  FormItem,
-  FormLabel,
-  FormMessage,
-} from "@akasha/design-forms/form"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { SidebarNavGroup } from "@akasha/design-layout/sidebar-nav-group"
 import { Button } from "@akasha/design-primitives/button"
@@ -31,6 +22,15 @@ import {
 } from "@akasha/design-primitives/menubar"
 import { Toaster } from "@akasha/design-primitives/sonner"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import {
+  Form,
+  FormControl,
+  FormDescription,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from "akasha/design/forms/form/form.module.code.tsx"
 import { useState } from "react"
 import { useForm } from "react-hook-form"
 import { toast } from "sonner"

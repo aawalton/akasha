@@ -8,7 +8,7 @@ export const design = {
   definition: "how a thing is drawn on a screen and worked by hand",
   parts: [
     "domain/design-badges",
-    "workspace-package/design-forms",
+    "domain/design-forms",
     "workspace-package/design-layout",
     "workspace-package/design-patterns",
     "workspace-package/design-primitives",

@@ -1,4 +1,3 @@
-import { formatTime12h } from "@akasha/design-forms/format-time"
 import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
 import { formatAbsoluteInstant, instantToMillis } from "@akasha/pages-core/property-types/instant"
 import { formatPropertyNumber, toNumber } from "@akasha/pages-core/property-types/number"
@@ -19,6 +18,7 @@ import {
 } from "@akasha/pages-ui-components/page-table-shared"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { formatTime12h } from "akasha/design/forms/format-time/format-time.module.code.ts"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/
 

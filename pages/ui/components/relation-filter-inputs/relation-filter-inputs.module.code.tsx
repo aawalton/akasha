@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  SearchMultiSelect,
-  type SearchMultiSelectItem,
-} from "@akasha/design-forms/search-multi-select"
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import type { FilterOperator } from "@akasha/pages-core/property-types/types"
 import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
@@ -12,6 +8,10 @@ import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver
 import { useRelationPicker } from "@akasha/pages-ui/contexts/relation-picker-context"
 import { toStringArray } from "@akasha/pages-ui-components/value-filter-inputs"
 import { InputBadge } from "akasha/design/badges/input-badge/input-badge.module.code.tsx"
+import {
+  SearchMultiSelect,
+  type SearchMultiSelectItem,
+} from "akasha/design/forms/search-multi-select/search-multi-select.module.code.tsx"
 import { useMemo, useState } from "react"
 
 const RELATION_SEARCH_DEBOUNCE_MS = 200

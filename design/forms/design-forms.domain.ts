@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const designForms = {
   id: "01a05b7e-679a-7735-bc0a-1abf739c0463",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "design-forms",
   definition: "the controls a form is built from",
-  manifest: "json",
+
   parts: [
     "module/calendar",
     "module/date-parser",
@@ -22,4 +22,4 @@ export const designForms = {
     "module/normalize-bare-numeric-time",
     "module/search-multi-select",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

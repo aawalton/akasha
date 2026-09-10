@@ -7,7 +7,6 @@
       "dependencies": {
         "@akasha/cluster-manifests": "workspace:*",
         "@akasha/code": "workspace:*",
-        "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -41,16 +40,20 @@
         "cdk8s": "^2.70.60",
         "chess.js": "^1.4.0",
         "chessground": "^9.2.1",
+        "chrono-node": "^2.9.0",
         "class-variance-authority": "^0.7.1",
         "extract-zip": "^2.0.1",
         "fflate": "0.8.3",
+        "input-otp": "^1.5.0",
         "jsdom": "^28.1.0",
         "lucide-react": "^0.576.0",
         "onnxruntime-node": "1.29.0",
         "pg": "^8.13.0",
         "playwright-core": "1.61.1",
         "react": "^18 || ^19",
+        "react-day-picker": "^9.13.0",
         "react-dom": "^18 || ^19",
+        "react-hook-form": "^7.71.0",
         "rrule": "^2.8.1",
         "sonner": "^2.0.7",
         "yaml": "^2.8.1",
@@ -156,7 +159,6 @@
     "alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
-        "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -306,23 +308,6 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
-    "design/forms": {
-      "name": "@akasha/design-forms",
-      "dependencies": {
-        "@akasha/design-primitives": "workspace:*",
-        "chrono-node": "^2.9.0",
-        "class-variance-authority": "^0.7.1",
-        "input-otp": "^1.5.0",
-        "lucide-react": "^0.576.0",
-        "react-day-picker": "^9.13.0",
-        "react-hook-form": "^7.71.0",
-        "zod": "^4.3.6",
-      },
-      "peerDependencies": {
-        "@radix-ui/react-slot": "*",
-        "react": "^18 || ^19",
-      },
-    },
     "design/layout": {
       "name": "@akasha/design-layout",
       "dependencies": {
@@ -340,7 +325,6 @@
     "design/patterns": {
       "name": "@akasha/design-patterns",
       "dependencies": {
-        "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -403,7 +387,6 @@
       "name": "@akasha/design-system",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -572,7 +555,6 @@
     "pages/ui/components": {
       "name": "@akasha/pages-ui-components",
       "dependencies": {
-        "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -647,7 +629,6 @@
       "name": "@akasha/audhdalan-web",
       "version": "0.1.0",
       "dependencies": {
-        "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
@@ -890,7 +871,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -974,8 +954,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/code": ["@akasha/code@workspace:code-system"],
-
-    "@akasha/design-forms": ["@akasha/design-forms@workspace:design/forms"],
 
     "@akasha/design-layout": ["@akasha/design-layout@workspace:design/layout"],
 

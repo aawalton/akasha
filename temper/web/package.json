@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
-    "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",

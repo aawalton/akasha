@@ -1,14 +1,5 @@
 "use client"
 
-import { Calendar } from "@akasha/design-forms/calendar"
-import {
-  Field,
-  FieldDescription,
-  FieldGroup,
-  FieldLabel,
-  FieldSeparator,
-  FieldSet,
-} from "@akasha/design-forms/field"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import {
   Carousel,
@@ -36,6 +27,15 @@ import {
   ResizablePanelGroup,
 } from "@akasha/design-primitives/resizable"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { Calendar } from "akasha/design/forms/calendar/calendar.module.code.tsx"
+import {
+  Field,
+  FieldDescription,
+  FieldGroup,
+  FieldLabel,
+  FieldSeparator,
+  FieldSet,
+} from "akasha/design/forms/field/field.module.code.tsx"
 import {
   Calculator,
   Calendar as CalendarIcon,

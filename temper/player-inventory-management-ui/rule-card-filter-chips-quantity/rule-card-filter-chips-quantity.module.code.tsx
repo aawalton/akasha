@@ -1,6 +1,5 @@
 "use client"
 
-import { EditableNumber } from "@akasha/design-forms/editable-number"
 import {
   Select,
   SelectContent,
@@ -10,6 +9,7 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { EditableNumber } from "akasha/design/forms/editable-number/editable-number.module.code.tsx"
 import { ALL_STOCKED_OPTIONS } from "akasha/temper/items-rules-core/all-stocked-filter/all-stocked-filter.module.code.ts"
 import { KEEP_QUANTITY_OPTIONS } from "akasha/temper/items-rules-core/keep-quantity-filter/keep-quantity-filter.module.code.ts"
 import { STOCK_THRESHOLD_OPTIONS } from "akasha/temper/items-rules-core/stock-threshold-filter/stock-threshold-filter.module.code.ts"

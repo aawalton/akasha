@@ -1,10 +1,10 @@
 "use client"
 
-import { parseDateExpression } from "@akasha/design-forms/date-parser"
-import { formatTime12h } from "@akasha/design-forms/format-time"
-import { normalizeBareNumericTime } from "@akasha/design-forms/normalize-bare-numeric-time"
 import { Input } from "@akasha/design-primitives/input"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import { parseDateExpression } from "akasha/design/forms/date-parser/date-parser.module.code.ts"
+import { formatTime12h } from "akasha/design/forms/format-time/format-time.module.code.ts"
+import { normalizeBareNumericTime } from "akasha/design/forms/normalize-bare-numeric-time/normalize-bare-numeric-time.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "../badge-layout-context/badge-layout-context.module.code.tsx"

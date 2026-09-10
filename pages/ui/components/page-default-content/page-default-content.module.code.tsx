@@ -1,6 +1,5 @@
 "use client"
 
-import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import { PageLayout } from "@akasha/design-layout/page-layout"
 import { PAGE_TITLE_CLASSES } from "@akasha/design-layout/page-layout-data"
 import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
@@ -20,6 +19,7 @@ import {
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import { BadgeLayoutProvider } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"
 import { PageCover } from "../page-cover/page-cover.module.code.tsx"
 import { PageDetailProperties } from "../page-detail-properties/page-detail-properties.module.code.tsx"
 import { PageDetailReferrers } from "../page-detail-referrers/page-detail-referrers.module.code.tsx"
