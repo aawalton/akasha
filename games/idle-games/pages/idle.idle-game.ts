@@ -1,4 +1,4 @@
-import type { IdleGame } from "../idle-game.page-type.ts"
+import type { IdleGame } from "../idle-game.page-type.types.ts"
 
 export const idle = {
   id: "01a0658b-3654-7ef1-b86d-b672bebfccc6",

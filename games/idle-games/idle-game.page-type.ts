@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { LastViewedAt } from "../../alan/track/days/properties/last-viewed-at.instant-property.ts"
-import type { Collection } from "../../collections/collection.page-type.ts"
-import type { GameEngine } from "../../story/games/properties/game-engine.text-property.ts"
-import type { FavoritedAt } from "./properties/favorited-at.instant-property.ts"
-
-export type IdleGame = Collection & {
-  gameEngine: GameEngine
-  favoritedAt?: FavoritedAt
-  lastViewedAt?: LastViewedAt
-}
 
 export const idleGame = {
   id: "01a0658b-3654-7f0d-80b2-2a2c080f184c",
@@ -50,4 +40,5 @@ export const idleGame = {
       statement: "An idle game's roster is drawn from the personas.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
