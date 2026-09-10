@@ -87,25 +87,40 @@ export function slowlyOf(ran: Ran): string {
 
 const NAMES = ":"
 
+const BLAMES: readonly RegExp[] = [/^\(fail\)/, /^error:/, /^# Unhandled error/]
+
+const BOUNDS = /^bun test v|^Ran \d+ tests? across \d+ files?/
+
 export function failedIn(output: string, named: readonly string[]): readonly string[] {
   const held = new Set(named)
   const seen = new Set<string>()
   const found: string[] = []
+  let under: string | null = null
   for (const line of plain(output).split("\n")) {
     const one = line.trimEnd()
-    if (!one.endsWith(NAMES)) continue
-    const at = one.slice(0, -NAMES.length)
-    if (!held.has(at) || seen.has(at)) continue
-    seen.add(at)
-    found.push(at)
+    if (BOUNDS.test(one)) {
+      under = null
+      continue
+    }
+    if (one.endsWith(NAMES) && held.has(one.slice(0, -NAMES.length))) {
+      under = one.slice(0, -NAMES.length)
+      continue
+    }
+    if (under === null || seen.has(under)) continue
+    if (!BLAMES.some((shape) => shape.test(one))) continue
+    seen.add(under)
+    found.push(under)
   }
   return found
 }
 
+const UNNAMED =
+  "The output prints no failure under any file the run named, so this refusal is filed against the first test file named rather than against a file that failed. Which file failed is in the output below, in a shape nothing here reads."
+
 export function failinglyOf(ran: Ran, over: string, failing: readonly string[]): string {
   const many = (ran.summary.passed ?? 0) + (ran.summary.failed ?? 0)
   const said = `${ran.summary.failed} of ${many} tests failed, over ${over}:\n${saidOf(ran.output)}`
-  if (failing.length === 0) return said
+  if (failing.length === 0) return `${UNNAMED}\n\n${said}`
   return `${counted(failing.length)} failed:\n${failing.join("\n")}\n\n${said}`
 }
 
