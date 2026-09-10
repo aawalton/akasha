@@ -11,7 +11,7 @@ export const dallaDeployCleanup = {
     {
       statement: "Every workstation service has deployed through `akasha infrastructure deploy`.",
       workingMemory:
-        "52 workstation service pages, found by the page-type index rather than by folder. `akasha infrastructure deploy` reaches one of them as of eab3fea, writing its systemd units through `module/service-putting-up`, and a dry run over pages-service on 2026-09-10 planned its unit and its enable. `akasha infrastructure service install` still holds the same road, and `--all` holds a second act beside it: sweeping the units of a service the pages no longer account for.\n",
+        "52 workstation service pages, found by the page-type index rather than by folder. `akasha infrastructure deploy` is the only road to one as of cd0e554, writing its systemd units through `module/service-putting-up`. `akasha infrastructure service` keeps start, stop, restart and a new `sweep` that takes a unit no page accounts for away and writes none. A sweep on 2026-09-10 found every unit accounted for, and provisioning now deploys each service by name. Left: running it over all 52.\n",
     },
     {
       statement: "Every cluster service has deployed through `akasha infrastructure deploy`.",
@@ -26,7 +26,7 @@ export const dallaDeployCleanup = {
     {
       statement: "No competing akasha build or deploy command exists.",
       workingMemory:
-        "`infrastructure-workload-apply` is deleted, its road folded into the deploy, and the reading and applying it held sit in `module/workload-applying`. Left: `infrastructure-service install` for a workstation service; `ios-app` and `mobile-deploy-device` for a phone; three shell scripts running buildctl by hand; and 7 built-image pages a dead generator writes for `cluster/bun-git` and `cluster/ci`, the two images the cluster pulls and nothing here builds.\n",
+        "`infrastructure-workload-apply` is deleted and `infrastructure service install` with it, both roads folded into the deploy. Left for a phone: `ios-app` and `mobile-deploy-device`, which build on the mac by two engines sharing no code and pick a commit three different ways. Left for an image: three shell scripts running buildctl by hand, and 7 built-image pages a dead generator writes for `cluster/bun-git` and `cluster/ci`, the two the cluster pulls.\n",
     },
   ],
   constraints: [
