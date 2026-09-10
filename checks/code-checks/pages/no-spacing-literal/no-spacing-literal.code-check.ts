@@ -23,7 +23,7 @@ export const noSpacingLiteral = {
     {
       invariantKind: "departure",
       statement:
-        "A labelled gap, a labelled least length and a labelled stroke width are dimensions.",
+        "A labelled gap and a labelled least length and a labelled stroke width are dimensions.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,8 @@ export const noSpacingLiteral = {
     },
     {
       invariantKind: "departure",
-      statement: "A dimension is the kind of dimension it is together with the number written.",
+      statement:
+        "A dimension is the kind of dimension that dimension is together with the number written.",
     },
     {
       invariantKind: "departure",
@@ -55,12 +56,16 @@ export const noSpacingLiteral = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A grant names one file and the values Alan let that file have, each with a reason.",
+      statement: "A grant names one file and the values Alan let that file have.",
     },
     {
       invariantKind: "departure",
-      statement: "A grant reaches only the file the grant names and only the values it names.",
+      statement: "Each value a grant names has a reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A grant reaches only the file the grant names and only the values the grant names.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +74,7 @@ export const noSpacingLiteral = {
     {
       invariantKind: "gap",
       statement:
-        "No check counts how many times a granted value is written in the file granted it.",
+        "No check counts how many times a granted value is written in the file granted that value.",
     },
   ],
   check: { maxCpuSeconds: 10 },

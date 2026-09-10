@@ -35,11 +35,16 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
-      statement: "The mirror is named to the linter as one folder rather than as every path in it.",
+      statement:
+        "The mirror is named to the linter as one folder rather than as every path in the mirror.",
     },
     {
       invariantKind: "departure",
-      statement: "The tree is named the same way, so the linter finds the files under it itself.",
+      statement: "The tree is named the same way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The linter finds the files under the tree itself.",
     },
     {
       invariantKind: "departure",

@@ -25,7 +25,11 @@ export const noColorLiteral = {
     },
     {
       invariantKind: "departure",
-      statement: "A page states a value and dresses nothing, so no page file is judged.",
+      statement: "A page states a value and dresses nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No page file is judged.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +45,8 @@ export const noColorLiteral = {
     },
     {
       invariantKind: "departure",
-      statement: "A generated file is judged where its generator is rather than where it lands.",
+      statement:
+        "A generated file is judged where its generator sits rather than where that file lands.",
     },
     {
       invariantKind: "departure",
@@ -53,12 +58,16 @@ export const noColorLiteral = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A grant names one file and the values Alan let that file have, each with a reason.",
+      statement: "A grant names one file and the values Alan let that file have.",
     },
     {
       invariantKind: "departure",
-      statement: "A grant reaches only the file the grant names and only the values it names.",
+      statement: "Each value a grant names has a reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A grant reaches only the file the grant names and only the values the grant names.",
     },
     {
       invariantKind: "gap",
