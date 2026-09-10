@@ -13,13 +13,13 @@ export const awenPageFoldersByIndex = {
       statement:
         "Code reaching the pages of a type asks the index for them rather than spelling their folder.",
       workingMemory:
-        "Four of six sites are converted and verified: monarch-files, monarch-merchant-naming, email-rule-reading, and lualib-pages, which still builds a byte-identical 110106-byte Lua 5.4 bundle. Two are left, both under temper/addon-build, and both are built over an arbitrary tree: their tests raise synthetic addon folders in /var/tmp and hand those in, so 5 of 12 fail the moment the index answers. A seventh site is `holdsDeclarations`, walking for type-declaration pages, 274 of which the index holds.\n",
+        "All six sites are converted and verified, none of them now calling a listing: monarch-files, monarch-merchant-naming, email-rule-reading, lualib-pages, addon-compiler-config and addon-metadata-files. The addon-build pair landed as 7c464259 and 5a91cb4e. Each was checked against the tree first: 48 addon names resolve identically, 48 of 48 loaded-document maps match, and `temper-addon-typecheck` diffs clean. Whether these six were the whole population is being counted.\n",
     },
     {
       statement:
         "No page's code lists a folder off disk where the index answers the pages in that folder.",
       workingMemory:
-        "`check-reaches-a-path-through-the-index` refuses zero listings and never refused six. Its audit counts run 37, 22, 8, 7, every one a `spells` refusal, which is nimue's intent on the same check page. Its two absences, plus an undeclared third where a literal handed to a parameter is not carried, hide all six real sites. Folding constants cannot reach a folder parameterised by person or discovered by a prior scan. The tell each site shares is the page-type suffix it filters names on.\n",
+        "`check-reaches-a-path-through-the-index` refuses zero listings: its listing rule needs the listing's argument to resolve to a known page path, which it never does. The tell recorded here before was wrong — monarch-merchant-naming filtered on a template of a constant and email-rule-reading on a `suffix` variable, so matching a suffix literal catches neither. The structural tell is a listing whose entries are selected by a suffix test, but that catches listings of Lua and of art too.\n",
     },
   ],
 } as const satisfies Initiative
