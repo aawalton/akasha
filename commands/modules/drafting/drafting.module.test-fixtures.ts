@@ -1,21 +1,12 @@
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
-import { textIn } from "@akasha/code/body-text"
-import { bytesOf as bytes } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
 import type { Kind } from "../calling/calling.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { writing } from "../scratching/scratching.module.test-fixtures.ts"
-import type { Body, Running } from "./drafting.module.code.ts"
+import type { Running } from "./drafting.module.code.ts"
 
 export const ONE = "akasha/one.page.ts"
 export const TWO = "akasha/two.page.ts"
-export const BIN = "akasha/three.page.bin"
 export const TEN = "a\nb\nc\nd\ne\nf\ng\nh\ni\nj\n"
-export const MOVED = "akasha/moved/one.page.ts"
-export const FAR = "akasha/far/one.page.ts"
-export const NOT_TEXT = new Uint8Array([0xff, 0xfe, 0x01, 0x02])
-export const ALSO_NOT_TEXT = new Uint8Array([0x80, 0x81, 0x03])
 
 const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
 
@@ -41,26 +32,6 @@ export const kindOf = (
 
 export const scratch = scratchWorld()
 
-function bytesOr(held: string | null): Uint8Array | null {
-  return held === null ? null : bytes(held)
-}
-
-export function textOr(held: Uint8Array | null | undefined): string | null {
-  return held === null || held === undefined ? null : textIn(held)
-}
-
-export function bodied(path: string, was: string | null, body: string | null): [string, Body] {
-  return [path, { was: bytesOr(was), body: bytesOr(body) }]
-}
-
-export function bodiedBytes(
-  path: string,
-  was: Uint8Array | null,
-  body: Uint8Array | null
-): [string, Body] {
-  return [path, { was, body }]
-}
-
 export function landed(root: string, bodies: Readonly<Record<string, string>>): undefined {
   const paths = Object.keys(bodies)
   for (const path of paths) writing(root, path, bodies[path] ?? "")
@@ -68,34 +39,9 @@ export function landed(root: string, bodies: Readonly<Record<string, string>>): 
   gitSaid(root, [...WHO, "commit", "-q", "-m", "landed", "--", ...paths])
 }
 
-export function landedBytes(root: string, path: string, body: Uint8Array): undefined {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  gitSaid(root, ["add", "--", path])
-  gitSaid(root, [...WHO, "commit", "-q", "-m", "landed", "--", path])
-}
-
-export function renamed(root: string, from: string, to: string, body: string): undefined {
-  rmSync(join(root, from))
-  writing(root, to, body)
-  gitSaid(root, ["add", "-A", "--", from, to])
-  gitSaid(root, [...WHO, "commit", "-q", "-m", "moved", "--", from, to])
-}
-
-export function taken(root: string, path: string): undefined {
-  rmSync(join(root, path))
-  gitSaid(root, ["add", "-A", "--", path])
-  gitSaid(root, [...WHO, "commit", "-q", "-m", "taken", "--", path])
-}
-
 export function repoAt(): string {
   const root = scratch.rootFor("drafting-")
   gitSaid(root, ["init", "-q", "-b", "main", "."])
   landed(root, { [ONE]: TEN })
   return root
-}
-
-export function swapped(was: string, from: string, to: string): string {
-  return was.replace(`${from}\n`, `${to}\n`)
 }

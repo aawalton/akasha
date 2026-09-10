@@ -5,7 +5,7 @@ export const drafting = {
   pageTypeSlug: "module",
   type: "module",
   slug: "drafting",
-  definition: "the bodies a change leaves, carried against a base and rebased onto HEAD",
+  definition: "the bodies a change leaves, and what a run of those bodies does",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -16,50 +16,8 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "One rule rebases bodies onto a commit.",
-    },
-    {
-      invariantKind: "departure",
       statement:
-        "A rebase says which paths the commit at HEAD holds a body other than the base at.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A path the commit at HEAD holds nothing at is followed to the path a rename left that body at.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path followed through a rename is followed again through the next rename.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A body at a path renamed away is merged onto the body at the path the rename left.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A rename reaching a path these bodies already carry refuses the rebase.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path taken away by no rename is carried as a conflict.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A conflict left by a path taken away marks the body carried at that path.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body spelling no text at a path taken away refuses the rebase.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body that moved under the change is merged rather than written over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The body the commit at HEAD holds becomes the base the rebased bodies carry.",
+        "A body carries the body its path held at the commit the change was worked out on.",
     },
     {
       invariantKind: "departure",
@@ -75,8 +33,16 @@ export const drafting = {
       statement: "What a path's readers owe is read off only the paths saying so.",
     },
     {
+      invariantKind: "departure",
+      statement: "The commit at HEAD is read from git rather than carried by a caller.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes into the worktree.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here merges, as a change is replayed onto the commit at HEAD instead.",
     },
     {
       invariantKind: "gap",
