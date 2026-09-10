@@ -1,4 +1,7 @@
+import type { ModulePropertyGroupCeilings } from "akasha/code-system/module-property-groups/module-property-group.page-type.ts"
 import type { ModulePropertyGroup } from "akasha/code-system/module-property-groups/module-property-group.page-type.types.ts"
+
+export type Audit = ModulePropertyGroupCeilings
 
 export const audit = {
   id: "01a087bc-a4e8-79e9-aebb-43085dc35075",
