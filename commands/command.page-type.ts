@@ -39,7 +39,6 @@ export const command = {
     "module/cli",
     "module/spacing-stepping",
     "module/source-globbing",
-    "module/worked-typing",
     "module/type-generating",
     "module/export-naming",
     "module/manifest-locking",

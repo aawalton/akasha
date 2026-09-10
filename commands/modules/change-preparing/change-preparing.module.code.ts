@@ -17,7 +17,6 @@ import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { globbedFor } from "../source-globbing/source-globbing.module.code.ts"
 import { steppedFor } from "../spacing-stepping/spacing-stepping.module.code.ts"
 import { typesFor } from "../type-generating/type-generating.module.code.ts"
-import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
 
 export type Formatting = {
   readonly edits: readonly Replacing[]
@@ -142,14 +141,12 @@ export function preparing(
   if (unexportable.length > 0) return { refusals: unexportable }
   const locking = lockingFor(root, base, rows)
   const change = changeOf(root, base, rows)
-  const worked = workedFor(change)
   const mapped = mappedFor(change)
   const stepped = steppedFor(change)
   const globbed = globbedFor(change)
   const typed = typesFor(change)
   const added = [
     ...locking.edits,
-    ...worked.edits,
     ...mapped.edits,
     ...stepped.edits,
     ...globbed.edits,
@@ -159,14 +156,7 @@ export function preparing(
     formatting,
     authored: rows,
     changes: [...rows, ...added],
-    said: [
-      ...locking.said,
-      ...worked.said,
-      ...mapped.said,
-      ...stepped.said,
-      ...globbed.said,
-      ...typed.said,
-    ],
+    said: [...locking.said, ...mapped.said, ...stepped.said, ...globbed.said, ...typed.said],
     over: added.length === 0 ? change : null,
   }
 }
