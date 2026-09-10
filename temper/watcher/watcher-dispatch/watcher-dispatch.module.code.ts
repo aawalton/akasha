@@ -1,3 +1,4 @@
+import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { buildConfig, sourcePathFor } from "../watcher-config/watcher-config.module.code.ts"
 import { runExportCompanionBuilds } from "../watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"
 import { runExportSettings } from "../watcher-export-settings/watcher-export-settings.module.code.ts"
@@ -284,10 +285,6 @@ function emptyResult(): DispatchResult {
   return { ...NOTHING_WRITTEN, ok: true, operations: [] }
 }
 
-function extractErrorMessage(err: unknown): string {
-  return err instanceof Error ? err.message : String(err)
-}
-
 async function settle(handled: Handled, options: DispatchOptions): Promise<DispatchResult> {
   if (handled.operations.length > 0) await reportFor(options)(handled.operations)
   return { ...handled, ok: allSynced(handled.operations) }
@@ -312,6 +309,6 @@ export async function dispatch(
     })
     return await settle(handled, options)
   } catch (err) {
-    return { ...emptyResult(), ok: false, error: extractErrorMessage(err) }
+    return { ...emptyResult(), ok: false, error: saidBy(err) }
   }
 }

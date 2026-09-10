@@ -1,5 +1,6 @@
 import { existsSync, unwatchFile, watchFile } from "node:fs"
 import { basename } from "node:path"
+import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   buildConfig as buildConfigFromDisk,
   sourcePathFor,
@@ -90,10 +91,6 @@ export type WatcherStart = WatchingFiles | ExitWanted
 
 const CARRY_ON: UpdateOutcome = { kind: "carry-on" }
 
-function messageOf(err: unknown): string {
-  return err instanceof Error ? err.message : String(err)
-}
-
 export function watchedLabel(fileName: string): string {
   return WATCHED_NAME.exec(fileName)?.[1] ?? fileName
 }
@@ -157,7 +154,7 @@ export async function tryUpdate(attempt: UpdateAttempt): Promise<UpdateOutcome> 
     log(`Update available: ${update.version}. Downloading...`)
     await updating.performUpdate(attempt.serverUrl)
   } catch (err) {
-    logError(`Update apply failed: ${messageOf(err)}`)
+    logError(`Update apply failed: ${saidBy(err)}`)
   }
   return CARRY_ON
 }
@@ -216,7 +213,7 @@ export async function syncInventoryAtStart(sync: InventorySync): Promise<undefin
     fileState.lastWriteBackContentHash = hashContent(answer.writeBack)
     log("Inventory settings synced")
   } catch (err) {
-    logError(`Startup sync error: ${messageOf(err)}`)
+    logError(`Startup sync error: ${saidBy(err)}`)
   }
   return undefined
 }
@@ -294,7 +291,7 @@ export async function startWatcher(options: WatcherStartOptions): Promise<Watche
   try {
     config = (options.buildConfig ?? buildConfigFromDisk)()
   } catch (err) {
-    logError(`Config error: ${messageOf(err)}`)
+    logError(`Config error: ${saidBy(err)}`)
     return { kind: "exit", code: 1, reason: "config-error" }
   }
 
@@ -367,7 +364,7 @@ export async function startWatcher(options: WatcherStartOptions): Promise<Watche
         return undefined
       })
       .catch((err: unknown) => {
-        logError(`Hourly update check failed: ${messageOf(err)}`)
+        logError(`Hourly update check failed: ${saidBy(err)}`)
         return undefined
       })
     return undefined
