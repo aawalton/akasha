@@ -35,7 +35,7 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach from one moved file to another is left as that reach is.",
+      statement: "A relative reach from one moved file to another is left as that reach is.",
     },
     {
       invariantKind: "departure",
@@ -70,10 +70,6 @@ export const moveFolder = {
     {
       invariantKind: "departure",
       statement: "A key is the caller's entrance rather than the file's place.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "No way in is renamed, no route running from a moved file to a package specifier.",
     },
     {
       invariantKind: "departure",
