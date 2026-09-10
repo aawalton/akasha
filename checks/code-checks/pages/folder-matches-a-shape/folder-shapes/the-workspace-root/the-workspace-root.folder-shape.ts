@@ -20,31 +20,24 @@ export const theWorkspaceRoot = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder has two pages.",
+      statement: "Each folder the root is allowed is added on its own.",
     },
     {
       invariantKind: "departure",
-      statement: "The two pages are a workspace and the domain over the whole tree.",
+      statement:
+        "The folders allowed are named here rather than read off what the domain declares.",
     },
     {
-      invariantKind: "departure",
-      statement: "Every file in the folder is a part one of those two pages states.",
+      invariantKind: "stopgap",
+      statement: "No file sitting in the root is allowed yet.",
     },
     {
-      invariantKind: "departure",
-      statement: "The files a workspace holds are the ones its own file properties land on.",
+      invariantKind: "stopgap",
+      statement: "The folders the root may have are named one at a time rather than by a rule.",
     },
     {
-      invariantKind: "departure",
-      statement: "A subfolder with a page the domain declares a part is a part too.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subfolder with no page the domain declares is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subfolder a file either page's own property names sits under is a part too.",
+      invariantKind: "gap",
+      statement: "A rule says which folders the root may hold.",
     },
   ],
 } as const satisfies FolderShape
