@@ -75,7 +75,7 @@ test("Bun.which is permitted", () => {
 })
 
 test("a file in the runner's own folder is refused nothing", () => {
-  const at = "utils/run/running/running.module.code.ts"
+  const at = "utils/run/running/held.module.code.ts"
   const text = 'import { spawnSync } from "node:child_process"\nspawnSync(argv)\n'
   expect(noRunOutsideTheRunner({ path: at, source: parsedAs(at, text) })).toEqual([])
 })
