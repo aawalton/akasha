@@ -45,6 +45,11 @@ export const watcherDaemon = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Where that entry sits under the checkout is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A missing worker entry is refused as an operational fault.",
     },
   ],
