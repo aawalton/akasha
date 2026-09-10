@@ -49,8 +49,7 @@ export const addPageTypeTypes = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page type declaring no type of that name is refused by the change that moves it.",
+      statement: "A page type declaring no type of that name gains the key and nothing is moved.",
     },
     {
       invariantKind: "absence",

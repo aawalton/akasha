@@ -56,6 +56,13 @@ export function listedIn(source: ts.SourceFile, of: string): string | null {
   return null
 }
 
+export function declaredIn(source: ts.SourceFile, of: string): boolean {
+  return source.statements.some(
+    (one) =>
+      (ts.isTypeAliasDeclaration(one) || ts.isInterfaceDeclaration(one)) && one.name.text === of
+  )
+}
+
 export type Listed = {
   readonly at: string
   readonly key: string
@@ -116,6 +123,10 @@ export async function addPageTypeTypes(
   if (stated.said.refused !== null) return stated.said
   over = stated.world
   answers.push(stated.said)
+  const text = world.textOf(given.at)
+  if (text !== null && !declaredIn(parsedAs(given.at, text), typedAs(slug))) {
+    return gathered(answers)
+  }
   const moved = await reach(over, MOVE_CODE_EXPORT, {
     from: given.at,
     to,

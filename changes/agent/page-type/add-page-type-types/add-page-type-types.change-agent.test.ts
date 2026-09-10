@@ -90,7 +90,11 @@ test("a slug of more than one word names the type that spelling makes", async ()
   const seen: Reached[] = []
 
   await addPageTypeTypes(
-    worldFor(catching(seen), { pageTypeSlug: "page-type", slug: "page-property-entry" }),
+    worldFor(
+      catching(seen),
+      { pageTypeSlug: "page-type", slug: "page-property-entry" },
+      "export type PagePropertyEntry = {\n  name: Name\n}\n"
+    ),
     { at: "held/ones/page-property-entry.page-type.ts" }
   )
 
@@ -208,6 +212,18 @@ test("a page type whose keys each name one type is turned over", async () => {
 
   expect(said.refused).toBeNull()
   expect(seen).toHaveLength(2)
+})
+
+test("a page type declaring no such type gains the key alone", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(
+    worldFor(catching(seen), { pageTypeSlug: "page-type", slug: "one" }, "export const one = 1\n"),
+    { at: AT }
+  )
+
+  expect(said.refused).toBeNull()
+  expect(seen.map((one) => one.at)).toEqual([STATED])
 })
 
 test("arguments holding no path are refused by the name of the argument", async () => {
