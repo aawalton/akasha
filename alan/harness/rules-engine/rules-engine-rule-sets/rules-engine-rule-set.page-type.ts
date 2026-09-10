@@ -39,4 +39,5 @@ export const rulesEngineRuleSet = {
       statement: "The paths a rule set's rules sit at are a property of this page type.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
