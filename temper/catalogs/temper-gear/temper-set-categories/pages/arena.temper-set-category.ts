@@ -1,4 +1,4 @@
-import type { TemperSetCategory } from "../temper-set-category.page-type.ts"
+import type { TemperSetCategory } from "../temper-set-category.page-type.types.ts"
 
 export const arena = {
   id: "019e46b5-0dbd-7210-a89e-8bb2b35a6ad9",

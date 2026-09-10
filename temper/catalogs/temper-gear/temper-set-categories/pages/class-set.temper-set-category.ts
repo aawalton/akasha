@@ -1,4 +1,4 @@
-import type { TemperSetCategory } from "../temper-set-category.page-type.ts"
+import type { TemperSetCategory } from "../temper-set-category.page-type.types.ts"
 
 export const classSet = {
   id: "01a05fd7-41f2-7a62-aac7-e61a9438f08e",

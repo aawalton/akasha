@@ -1,4 +1,4 @@
-import type { TemperSetCategory } from "../temper-set-category.page-type.ts"
+import type { TemperSetCategory } from "../temper-set-category.page-type.types.ts"
 
 export const monster = {
   id: "019e46b5-0dc3-71ff-a97e-cdf4f55ab557",
