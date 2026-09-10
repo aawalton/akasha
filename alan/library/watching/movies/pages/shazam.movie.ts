@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const shazam = {
   id: "01a06802-6d99-7033-844f-7092afd3efd3",

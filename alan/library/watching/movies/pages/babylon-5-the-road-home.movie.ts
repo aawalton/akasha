@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const babylon5TheRoadHome = {
   id: "01a06802-6d98-700e-b413-3a1276634cde",

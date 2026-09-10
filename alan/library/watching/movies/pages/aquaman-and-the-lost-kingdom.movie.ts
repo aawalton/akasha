@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const aquamanAndTheLostKingdom = {
   id: "01a06802-6d98-7007-89cb-c3f07e0157af",

@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const dune = {
   id: "01a06802-6d99-7006-839b-7568e9b4f4af",

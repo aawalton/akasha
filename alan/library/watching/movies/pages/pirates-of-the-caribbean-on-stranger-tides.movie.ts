@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const piratesOfTheCaribbeanOnStrangerTides = {
   id: "01a06802-6d99-7029-935b-fc3f799fee07",

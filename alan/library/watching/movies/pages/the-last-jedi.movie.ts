@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const theLastJedi = {
   id: "01a06802-6d9a-7015-995b-fd0f898496a8",

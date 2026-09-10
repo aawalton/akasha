@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const antManAndTheWasp = {
   id: "01a06802-6d98-7004-bae3-4d930222318a",

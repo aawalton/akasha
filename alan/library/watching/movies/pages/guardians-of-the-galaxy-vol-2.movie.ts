@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const guardiansOfTheGalaxyVol2 = {
   id: "01a06802-6d99-7013-8c4d-9148018e7c09",

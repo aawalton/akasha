@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const swordArtOnlineTheMovieProgressiveAriaOfAStarlessNight2 = {
   id: "01a06802-6d9a-7006-af31-ce43934048ef",

@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const deadpoolAndWolverine = {
   id: "01a06802-6d99-7002-b74c-ffbabe0ef2c8",

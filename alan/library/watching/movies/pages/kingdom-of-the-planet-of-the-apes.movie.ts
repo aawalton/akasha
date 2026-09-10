@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const kingdomOfThePlanetOfTheApes = {
   id: "01a06802-6d99-7022-892b-386d304b91a6",

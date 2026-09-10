@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const kpopDemonHuntersMovie = {
   id: "01a06802-6d99-7023-9671-e081f4f31703",

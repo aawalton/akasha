@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const doctorStrange = {
   id: "01a06802-6d99-7003-9f76-cf12992a5882",

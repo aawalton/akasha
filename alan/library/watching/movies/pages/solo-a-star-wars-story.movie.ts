@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const soloAStarWarsStory = {
   id: "01a06802-6d99-7035-815d-052f70d6fc36",

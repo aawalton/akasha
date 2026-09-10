@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const theLordOfTheRingsTheTwoTowers = {
   id: "01a06802-6d9a-7019-8a1d-2f99b19056bb",

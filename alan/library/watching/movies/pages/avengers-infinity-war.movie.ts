@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const avengersInfinityWar = {
   id: "01a06802-6d98-700b-bda0-f62e07bf230a",

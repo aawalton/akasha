@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const spiderManFarFromHome = {
   id: "01a06802-6d99-7036-af62-3f5f6d44255b",

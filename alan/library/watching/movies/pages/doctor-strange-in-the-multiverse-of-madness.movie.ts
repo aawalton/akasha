@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const doctorStrangeInTheMultiverseOfMadness = {
   id: "01a06802-6d99-7004-8120-cba325454eb5",

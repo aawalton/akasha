@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const gameOfThronesConquestAndRebellionAnAnimatedHistoryOfTheSeve = {
   id: "01a06802-6d99-7011-8b7a-7ca6ef3c07b4",

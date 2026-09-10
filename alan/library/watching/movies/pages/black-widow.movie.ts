@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const blackWidow = {
   id: "01a06802-6d98-701a-af5a-d8dd203e317b",

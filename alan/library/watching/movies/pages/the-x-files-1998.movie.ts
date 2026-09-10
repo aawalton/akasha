@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const theXFiles1998 = {
   id: "01a06802-6d9a-7020-951c-6789e463beaa",

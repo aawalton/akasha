@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const thorTheDarkWorld = {
   id: "01a06802-6d9a-7026-b2a3-705b52f71e00",

@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const blackPantherWakandaForever = {
   id: "01a06802-6d98-7019-92ee-3843296de5d0",

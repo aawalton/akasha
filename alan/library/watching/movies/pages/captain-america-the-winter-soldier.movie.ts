@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const captainAmericaTheWinterSoldier = {
   id: "01a06802-6d98-701f-af8d-f78433374dd4",

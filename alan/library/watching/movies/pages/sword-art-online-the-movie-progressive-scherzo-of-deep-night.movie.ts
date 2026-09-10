@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const swordArtOnlineTheMovieProgressiveScherzoOfDeepNight = {
   id: "019ea442-9fc0-7afc-ab04-0592c0063f61",

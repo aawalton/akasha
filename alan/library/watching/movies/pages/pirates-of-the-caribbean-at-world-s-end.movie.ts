@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const piratesOfTheCaribbeanAtWorldSEnd = {
   id: "01a06802-6d99-7026-8e8d-f6b083ff105e",

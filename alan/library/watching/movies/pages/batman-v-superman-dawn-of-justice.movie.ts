@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const batmanVSupermanDawnOfJustice = {
   id: "01a06802-6d98-7010-8789-495f72a67e9c",

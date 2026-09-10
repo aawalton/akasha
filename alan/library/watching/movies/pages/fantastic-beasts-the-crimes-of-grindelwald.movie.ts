@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const fantasticBeastsTheCrimesOfGrindelwald = {
   id: "01a06802-6d99-700d-b6f0-be8c3f0f8ecf",

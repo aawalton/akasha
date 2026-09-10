@@ -1,4 +1,4 @@
-import type { Movie } from "../movie.page-type.ts"
+import type { Movie } from "../movie.page-type.types.ts"
 
 export const swordArtOnlineTheMovieOrdinalScale = {
   id: "019ea442-a1c7-759f-b841-dc28aa261efa",
