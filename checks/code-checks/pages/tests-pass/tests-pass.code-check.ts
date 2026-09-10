@@ -39,7 +39,11 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "That index reaches the run as bodies over the checkout, as the change's own do.",
+      statement: "That index reaches the run as bodies over the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The change's own bodies reach the run that way too.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +68,7 @@ export const testsPass = {
     {
       invariantKind: "departure",
       statement:
-        "A page type the change moves is resolved by the run at the path the change files it at.",
+        "A page type the change moves is resolved by the run at the path the change files that type at.",
     },
     {
       invariantKind: "departure",
@@ -105,11 +109,11 @@ export const testsPass = {
     },
     {
       invariantKind: "constraint",
-      statement: "What was written to mount the bodies is swept whatever the run said.",
+      statement: "Whatever was written to mount the bodies is swept whatever the run said.",
     },
     {
       invariantKind: "departure",
-      statement: "A change with a test file that costs more than that file may is refused.",
+      statement: "A change with a test file costing above the ceiling that file has is refused.",
     },
     {
       invariantKind: "departure",
@@ -146,7 +150,11 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "A measuring run refuses whatever the tests said, so nothing lands.",
+      statement: "A measuring run refuses whatever the tests said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing lands.",
     },
     {
       invariantKind: "departure",
@@ -187,8 +195,11 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "No total holds a run, each test file being held to the ceiling its property states.",
+      statement: "No total holds a run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each test file is held to the ceiling its property states.",
     },
     {
       invariantKind: "departure",
