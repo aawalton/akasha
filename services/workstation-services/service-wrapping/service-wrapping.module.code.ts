@@ -7,7 +7,6 @@ import { RESTART_EXIT } from "../unit-writing/unit-writing.module.code.ts"
 const KILL_CEILING_MS = 10_000
 const REFUSED_EXIT = 2
 const NAMED_AT_MOST = 5
-const OWN_ENTRY = "services/workstation-services/service-wrapping/service-wrapping.module.code.ts"
 
 export type Wrapping = {
   readonly root: string
@@ -55,7 +54,7 @@ export async function wrapping(given: Wrapping): Promise<number> {
   const says = `[wrapper ${basename(entryRel, ".ts")}]`
   const under = (at: string): string => at.replace(`${root}/`, "")
 
-  const own = localClosure(resolve(root, OWN_ENTRY), root)
+  const own = localClosure(import.meta.path, root)
   let service = localClosure(resolve(root, entryRel), root)
   let unparsed = unparsedIn(service.unscanned)
 

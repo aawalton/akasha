@@ -36,6 +36,10 @@ export const serviceWrapping = {
     },
     {
       invariantKind: "departure",
+      statement: "The wrapper's own file is the file running rather than a path spelled here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The command comes after the first double dash.",
     },
     {
