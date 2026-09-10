@@ -23,12 +23,12 @@ export const agentHook = {
     "agent-hook/state-subagent",
     "page-type/inference-hook",
     "text-property/over-tools",
-    "text-property/runs-at",
+    "select-property/runs-at",
     "agent-hook/block-combined-akasha-calls",
   ],
   extends: ["page-type/module"],
   properties: [
-    { pageProperty: "text-property/runs-at", required: true, many: true, maxCount: null },
+    { pageProperty: "select-property/runs-at", required: true, many: true, maxCount: null },
     { pageProperty: "text-property/over-tools", required: false, many: true, maxCount: null },
   ],
   invariants: [

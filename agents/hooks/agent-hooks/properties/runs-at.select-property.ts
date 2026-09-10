@@ -1,5 +1,5 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
+import type { SelectProperty } from "../../../../pages/select-properties/select-property.page-type.types.ts"
 
 export type HarnessEvent =
   | "PreToolUse"
@@ -20,13 +20,26 @@ export type RunsAt = List<HarnessEvent>
 
 export const runsAt = {
   id: "01a04e0a-f8fb-7beb-b0b8-ac268528b27e",
-  pageTypeSlug: "text-property",
-  type: "text-property",
+  pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "runs-at",
   propertySlug: "runs-at",
   definition: "the harness events at which a hook is called",
-  maxLength: 20,
-  nameFormat: null,
+  values: [
+    "PreToolUse",
+    "PostToolUse",
+    "UserPromptSubmit",
+    "Stop",
+    "StopFailure",
+    "Notification",
+    "PermissionRequest",
+    "SessionStart",
+    "SessionEnd",
+    "SubagentStart",
+    "SubagentStop",
+    "PreCompact",
+    "PostCompact",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -41,4 +54,4 @@ export const runsAt = {
       statement: "A harness event is written as the harness writes the harness event.",
     },
   ],
-} as const satisfies TextProperty
+} as const satisfies SelectProperty

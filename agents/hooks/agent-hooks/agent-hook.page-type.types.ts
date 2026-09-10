@@ -1,6 +1,6 @@
 import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 import type { OverTools } from "./properties/over-tools.text-property.ts"
-import type { RunsAt } from "./properties/runs-at.text-property.ts"
+import type { RunsAt } from "./properties/runs-at.select-property.ts"
 
 export type AgentHook = Module & {
   runsAt: RunsAt
