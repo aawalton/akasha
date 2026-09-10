@@ -9,13 +9,13 @@ export const amyOntoScratch = {
   persona: "amy",
   intents: [
     {
-      statement: "Scratch A.",
-    },
-    {
       statement: "Scratch B.",
     },
     {
       statement: "Scratch C.",
+    },
+    {
+      statement: "Scratch A.",
     },
     {
       statement: "Scratch D.",
