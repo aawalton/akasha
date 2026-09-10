@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const marvelTelevision = {
   id: "01a06808-5078-7003-bfb0-030d89cfba9f",

@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const accelWorld = {
   id: "01a06808-5077-7000-a793-81237b865c74",

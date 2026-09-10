@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const babylon52 = {
   id: "01a06808-5077-7001-864e-b15769799594",

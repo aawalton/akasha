@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const doctorWho = {
   id: "01a06808-5077-7005-8d3a-899ab4601798",

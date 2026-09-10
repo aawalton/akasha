@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const piratesOfTheCaribbean2 = {
   id: "01a06808-5078-7005-a883-b847a7530a90",

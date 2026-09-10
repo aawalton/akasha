@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const gameOfThrones2 = {
   id: "01a06808-5077-7009-9c65-b22c71412fb6",

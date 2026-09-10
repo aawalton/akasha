@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const swordArtOnline = {
   id: "01a06808-5078-700b-a7ee-e9261b7164ac",

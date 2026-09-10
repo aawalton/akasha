@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-
-export type Fandom = CollectionExternal & {
-  title: Title
-}
 
 export const fandom = {
   id: "01a06807-be66-7004-85ae-8df6ba0ad747",
@@ -15,4 +9,5 @@ export const fandom = {
   pluralSlug: "fandoms",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  types: "ts",
 } as const satisfies PageType

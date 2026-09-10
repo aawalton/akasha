@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const dcExtendedUniverse = {
   id: "01a06808-5077-7003-bb1d-2f8939282527",

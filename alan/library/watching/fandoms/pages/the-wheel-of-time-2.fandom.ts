@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const theWheelOfTime2 = {
   id: "01a06808-5078-700d-83ad-e26d7666bdbe",

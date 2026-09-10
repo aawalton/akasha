@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const leagueOfLegends = {
   id: "01a06808-5078-7001-ab79-3488005b413a",

@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const starWars2 = {
   id: "01a06808-5078-7009-aef0-2de7f2a6dd95",

@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const rwby = {
   id: "01a06808-5078-7007-95d3-9920b7fbea33",

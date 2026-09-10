@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const theLordOfTheRings2 = {
   id: "01a06808-5078-700c-ac21-d87190de18fb",

@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const dune2 = {
   id: "01a06808-5077-7006-83db-b6a2466247b2",

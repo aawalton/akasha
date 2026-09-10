@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const stargate2 = {
   id: "01a06808-5078-700a-aaf3-cb8646644e12",

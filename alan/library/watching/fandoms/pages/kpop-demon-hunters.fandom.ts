@@ -1,4 +1,4 @@
-import type { Fandom } from "../fandom.page-type.ts"
+import type { Fandom } from "../fandom.page-type.types.ts"
 
 export const kpopDemonHunters = {
   id: "01a06808-5078-7000-981d-e99e7499621c",
