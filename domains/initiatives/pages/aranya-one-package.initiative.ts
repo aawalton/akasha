@@ -12,7 +12,7 @@ export const aranyaOnePackage = {
     {
       statement: "A cluster service deploys naming no package but the root.",
       workingMemory:
-        "`collectExecutedDeps` reads only `@akasha/` specifiers, so with every reach now spelled `akasha/...` an image carries its own folder alone. Both bun-service images are broken by that: auth-proxy's `config` and `session-identity`, and retention's `barman-output` and `copy-longtail`, all import `akasha/utils/narrow/...` at runtime. Following the specifier is not enough — `emitWorkspaceInstall` writes a `workspaces` list of each depDir, and those folders are no longer packages.\n",
+        "`akasha deploy` does run the generator: `appliedWorkload` calls `publishedFor`, which writes the Dockerfile to a cache dir and builds it with buildctl, so no Dockerfile on disk is expected. Both generators now take their COPY set from `collectExecutedDeps`. No built image is of the nextjs kind, so that one is composed for nobody yet. The seven web apps build in a live pod: `buildScript` runs `bun install` at the root and `bun run build` in the app folder, which is what keeps their manifests.\n",
     },
     {
       statement: "A native app deploys naming no package but the root.",
