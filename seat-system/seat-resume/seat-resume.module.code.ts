@@ -375,7 +375,8 @@ export default async function seatResume(args: readonly string[]): Promise<void>
           "`--start-mode headless`."
       )
     }
-    const named = parsed.string("--agent-id") ?? process.env.AGENT_ID
+    const named =
+      parsed.string("--agent-id") ?? shape.string().optional().parse(process.env.AGENT_ID)
     if (named === undefined || named.length === 0) {
       throw inputError(
         "[ops] seat not named — pass --agent-id <uuid|prefix|name> or set the AGENT_ID env var"

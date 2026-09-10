@@ -42,6 +42,10 @@ export function reconcileClaudeConfig(
   return out
 }
 
+function parseClaudeConfig(held: unknown): Record<string, unknown> | null {
+  return asRecord(held)
+}
+
 export function readClaudeConfigDeclaration(
   path: string = CLAUDE_CONFIG_PATH
 ): Record<string, unknown> | null {
@@ -52,7 +56,8 @@ export function readClaudeConfigDeclaration(
     return null
   }
   try {
-    return asRecord(JSON.parse(raw))
+    const held: unknown = JSON.parse(raw)
+    return parseClaudeConfig(held)
   } catch {
     return null
   }

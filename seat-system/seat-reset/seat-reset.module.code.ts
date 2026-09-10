@@ -76,6 +76,10 @@ function keptRecovered(was: SeatFromHistory): Kept {
   }
 }
 
+function parseCallingSeatId(held: unknown): string | null {
+  return typeof held === "string" && held !== "" ? held : null
+}
+
 export default async function seatReset(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
@@ -98,7 +102,7 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
 
   const agentId = await resolveSeatTargetCli(input)
 
-  if (process.env.AGENT_ID === agentId) {
+  if (parseCallingSeatId(process.env.AGENT_ID) === agentId) {
     throw inputError(
       `'${input}' is the seat running this command. A reset takes the agent out of the seat, so ` +
         "a seat resetting itself destroys the turn issuing the command before it can answer. " +

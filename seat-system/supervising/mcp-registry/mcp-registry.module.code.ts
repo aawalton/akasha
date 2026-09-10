@@ -44,7 +44,7 @@ function resolved(value: string, storageState: string | null): string {
 function forwardedEnvArgs(keys: readonly string[]): readonly string[] {
   const args: string[] = ["-i"]
   for (const key of keys) {
-    const value = process.env[key]
+    const value = z.string().optional().parse(process.env[key])
     if (value !== undefined) args.push(`${key}=${value}`)
   }
   return args

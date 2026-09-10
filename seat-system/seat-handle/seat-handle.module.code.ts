@@ -100,9 +100,12 @@ export function resolveSeatTarget(input: string): SeatMatch {
   )
 }
 
-function fromEnv(): string | undefined {
-  const held = process.env.AGENT_ID
+function parseSeatHandle(held: unknown): string | undefined {
   return typeof held === "string" && held !== "" ? held : undefined
+}
+
+function fromEnv(): string | undefined {
+  return parseSeatHandle(process.env.AGENT_ID)
 }
 
 async function missError(input: string, message: string): Promise<Error> {
