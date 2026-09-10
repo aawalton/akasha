@@ -16,7 +16,7 @@ export const amyHarnessImprovements = {
     {
       statement: "All of Jenny's widgets work.",
       workingMemory:
-        "Jenny has three tiles, `smilingjenny-surplus`, `smilingjenny-safety-level` and `smilingjenny-categorize`, and only categorize draws. All three show Alan's readings, carried to smilingjenny.me by a second line in each readout's relay service. Her routes admit on `SMILINGJENNY_RING_CREDENTIAL` baked into the build, where Alan's mint a per-device keychain secret. The relay store is an in-process Map, so a pod restart blacks every tile.",
+        "Her pod ran a September 2 checkout querying the store with `groupSlugs` and reading `row.scaleSlug`, both since renamed; the store 400s and the route turns any refusal into 503. Categorize survived by looking up on `slug`. Both sites are deployed, and a restart no longer blanks a tile, since a group with no relayed reading now reads the readout's own row. Left: whether her three tiles draw on her phone.",
     },
     {
       statement: "Alan and Jenny have one widget between them for Alan's multiplier.",
@@ -26,7 +26,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's phone drains its health samples into akasha every day.",
       workingMemory:
-        "The drain works: 777 readings landed at 08:16 today. The renames were not the cause — the headscale TLS certificate expired 2026-09-02 and tailscaled could not fetch its control key, so `workstation.alanwalton.ts.net` had no address for 23h43m while `page-listening` served loopback and systemd called it healthy. `device-secret-context` then turned the unreachable store into an uncaught 500. Left: make a refused bind fatal, and check the cert renews.",
+        "The drain works: 777 readings landed at 08:16 today. The renames were not the cause — the headscale TLS certificate expired and tailscaled could not fetch its control key, so `workstation.alanwalton.ts.net` had no address for 23h43m while `page-listening` served loopback and systemd called it healthy. Alan holds the certificate. `device-secret-context` answers 503 now rather than 500. Left: make a refused bind fatal, so a store off the tailnet is said.",
     },
   ],
 } as const satisfies Initiative
