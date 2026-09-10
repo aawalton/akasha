@@ -6,6 +6,7 @@ import { lowestIn, mailOn } from "akasha/readouts/pages/inboxes-email/inboxes-em
 import { tasksIn } from "akasha/readouts/pages/inboxes-tasks/inboxes-tasks.readout.code.ts"
 import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
 import { statedAt } from "akasha/readouts/tier/readout-tier.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { openedDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
@@ -124,7 +125,7 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
 }
 
 if (import.meta.main) {
-  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   try {
     const taken = await takeReadings(root)
     for (const one of taken.unread) process.stderr.write(`${one}\n`)
