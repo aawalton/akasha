@@ -24,7 +24,7 @@ export const astraGeneratedTypes = {
     {
       statement: "No page property's type is written by hand.",
       workingMemory:
-        "A property page's type is named for that page's slug in all but thirty of eighteen hundred, twenty-three are named for the property slug instead, and three name one type between them. A select property's type reads its own const back, and one computed property module exports no type at all.\n",
+        "809 of 1822 property pages have their type written beside them: boolean, number, instant, url, calendar-date, calendar-time, email-address, phone-number, process, entry, build-folder, select, rank. By hand still: 618 text, 142 relation, 126 file, 44 record, 38 computed, 30 code-file, 7 standard-agent-english, 2 one-of. `add-page-property-types` turns one kind over. Text waits on 17 hand-written unions becoming select or rank; file waits on its extensions becoming page data.\n",
     },
     {
       statement: "Every generated type is written by the generator the page it belongs to states.",
