@@ -10,8 +10,8 @@ export const simDriver = {
   test: "ts",
   invariants: [
     {
-      invariantKind: "constraint",
-      statement: "APP_ORIGIN is the capacitor origin the native shell serves the app from.",
+      invariantKind: "departure",
+      statement: "APP_ORIGIN follows the native shell to the https origin of the site.",
     },
     {
       invariantKind: "departure",
