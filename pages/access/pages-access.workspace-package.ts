@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
 
 export const pagesAccess = {
   id: "01a05bd6-c533-7016-89de-5e52ec2cde2a",

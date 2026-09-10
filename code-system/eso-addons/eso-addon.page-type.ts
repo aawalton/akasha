@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.types.ts"
 import type { AddonGitIgnore } from "./properties/addon-git-ignore.file-property.ts"
 import type { AddonManifest } from "./properties/addon-manifest.file-property.ts"
 import type { Bindings } from "./properties/bindings.file-property.ts"

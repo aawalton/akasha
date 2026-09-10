@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { DockerfileExtensions } from "./properties/dockerfile-extensions.file-property.ts"
-import type { Manifest } from "./properties/manifest.file-property.ts"
-import type { ToolReached } from "./properties/tool-reached.text-property.ts"
-import type { TunnelRoutes } from "./properties/tunnel-routes.code-file-property.ts"
-
-export type WorkspacePackage = Domain & {
-  manifest: Manifest
-  tunnelRoutes?: TunnelRoutes
-  dockerfileExtensions?: DockerfileExtensions
-  toolReached?: ToolReached
-}
 
 export const workspacePackage = {
   id: "01a05891-1ea4-7c85-947f-8f033081b276",
@@ -85,4 +73,5 @@ export const workspacePackage = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType

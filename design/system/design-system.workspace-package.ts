@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
 
 export const designSystem = {
   id: "01a05c95-564a-7ba2-ab36-d818c559b389",

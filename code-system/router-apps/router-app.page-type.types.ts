@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.types.ts"
 import type { AddonBundleImage } from "./properties/addon-bundle-image.code-file-property.ts"
 import type { AppLayout } from "./properties/app-layout.code-file-property.ts"
 import type { BundleDirectory } from "./properties/bundle-directory.build-folder-property.ts"

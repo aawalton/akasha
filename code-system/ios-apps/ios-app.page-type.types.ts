@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.types.ts"
 import type { AppIcon } from "./properties/app-icon.file-property.ts"
 import type { AppProfileName } from "./properties/app-profile-name.text-property.ts"
 import type { AscCapabilities } from "./properties/asc-capabilities.text-property.ts"

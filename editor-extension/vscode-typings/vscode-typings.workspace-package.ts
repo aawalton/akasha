@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.types.ts"
 
 export const vscodeTypings = {
   id: "01a06977-65e4-7fe1-86eb-b5c80ca5d401",
