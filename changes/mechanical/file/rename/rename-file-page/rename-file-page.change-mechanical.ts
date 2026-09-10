@@ -49,7 +49,7 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page owning its folder takes every file under that folder with it.",
+      statement: "A page owning its folder takes every file under that folder with the page.",
     },
     {
       invariantKind: "departure",
@@ -61,11 +61,12 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type whose folder already names that plural keeps the folder it has.",
+      statement:
+        "A page type whose folder already names that plural keeps the folder that type has.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type renamed with no plural handed in keeps the folder it has.",
+      statement: "A page type renamed with no plural handed in keeps the folder that type has.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +78,8 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The type a page's file exports is spelled anew beside the const it exports.",
+      statement:
+        "The type a page's file exports is spelled anew beside the const that file exports.",
     },
     {
       invariantKind: "departure",
@@ -105,7 +107,7 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The address is restated before any file the page keeps beside it is moved.",
+      statement: "The address is restated before any file the page keeps beside the page is moved.",
     },
     {
       invariantKind: "departure",
@@ -113,7 +115,8 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The scope is what the page carries under the property scoping that page type.",
+      statement:
+        "The scope is the value the page carries under the property scoping that page type.",
     },
     {
       invariantKind: "departure",
@@ -122,7 +125,7 @@ export const renameFilePage = {
     {
       invariantKind: "departure",
       statement:
-        "A page carrying nothing under that property is addressed as though scoped by none.",
+        "A page carrying nothing under that property is addressed as though scoped by nothing.",
     },
     {
       invariantKind: "departure",
@@ -145,7 +148,7 @@ export const renameFilePage = {
     {
       invariantKind: "departure",
       statement:
-        "A file a page's type declares beside that page is moved though the page states no key for it.",
+        "A file a page's type declares beside that page is moved though the page states no such key.",
     },
     {
       invariantKind: "departure",
@@ -153,8 +156,7 @@ export const renameFilePage = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "The files beside a page are read here through the same module the move of a page reads them through.",
+      statement: "One module reads the files beside a page both here and in the move of a page.",
     },
   ],
   changeKind: "change-mechanical",

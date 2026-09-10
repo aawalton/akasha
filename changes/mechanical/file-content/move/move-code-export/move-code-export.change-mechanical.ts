@@ -22,7 +22,7 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing path already declaring that export is left as it is.",
+      statement: "A landing path already declaring that export is left as that path is.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,8 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing body that imported what moved no longer imports it.",
+      statement:
+        "A landing body that imported the declaration moved no longer imports that declaration.",
     },
     {
       invariantKind: "departure",
@@ -42,8 +43,7 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The declaration leaves the body it came from and every importer is repointed either way.",
+      statement: "The declaration leaves its old body and every importer is repointed either way.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,8 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "An import written here names a type only where the thing it names is a type.",
+      statement:
+        "An import written here names a type only where the thing that import names is a type.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +73,7 @@ export const moveCodeExport = {
     {
       invariantKind: "departure",
       statement:
-        "The import naming it where it landed is worked out over the body those departures leave.",
+        "The import naming the export at its landing is worked out over the body those departures leave.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +81,8 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A body naming that export under another name goes on naming it under that name.",
+      statement:
+        "A body naming that export under another name goes on naming the export under that name.",
     },
     {
       invariantKind: "absence",
@@ -88,7 +90,8 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A body naming that export through a package names it from the workspace root.",
+      statement:
+        "A body naming that export through a package names the export from the workspace root.",
     },
   ],
   changeKind: "change-mechanical",
