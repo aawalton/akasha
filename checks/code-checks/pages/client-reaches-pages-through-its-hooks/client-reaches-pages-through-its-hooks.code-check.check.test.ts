@@ -9,7 +9,7 @@ import {
 import {
   askingIn,
   clientReachesPagesThroughItsHooks,
-} from "./client-reaches-pages-through-its-hooks.code-check.code.ts"
+} from "./client-reaches-pages-through-its-hooks.code-check.check.code.ts"
 
 afterAll(scratch.sweep)
 
