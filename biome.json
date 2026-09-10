@@ -155,14 +155,8 @@
               "level": "error",
               "options": {
                 "paths": {
-                  "react": "react is not allowed in @akasha/pages-core",
-                  "react-dom": "react-dom is not allowed in @akasha/pages-core",
-                  "@akasha/design-layout": "@akasha/design-layout is not allowed in @akasha/pages-core",
-                  "@akasha/design-primitives": "@akasha/design-primitives is not allowed in @akasha/pages-core",
-                  "@akasha/design-forms": "@akasha/design-forms is not allowed in @akasha/pages-core",
-                  "@akasha/pages-ui": "@akasha/pages-ui is not allowed in @akasha/pages-core",
-                  "@akasha/pages-ui-components": "@akasha/pages-ui-components is not allowed in @akasha/pages-core",
-                  "@akasha/pages-ui-store": "@akasha/pages-ui-store is not allowed in @akasha/pages-core"
+                  "react": "pages-core draws no screen, so react is not reached here",
+                  "react-dom": "pages-core draws no screen, so react-dom is not reached here"
                 }
               }
             }

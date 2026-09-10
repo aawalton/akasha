@@ -40,6 +40,10 @@ export const pagesCore = {
       statement: "Nothing here reaches a network or a disk.",
     },
     {
+      invariantKind: "absence",
+      statement: "Nothing here draws a screen.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing here is proved by a test of its own.",
     },
