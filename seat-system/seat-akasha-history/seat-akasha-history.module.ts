@@ -32,5 +32,14 @@ export const seatAkashaHistory = {
       invariantKind: "departure",
       statement: "The history is read once for a root and held until that history is dropped.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "A seat page removed from akasha is in no index.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "Git history is walked by the path a seat page had rather than by the seat page type.",
+    },
   ],
 } as const satisfies Module
