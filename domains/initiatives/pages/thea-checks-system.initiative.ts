@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is held to the ceilings its page states.",
       workingMemory:
-        "Alan has the ceilings as members of the check and audit groups, not decision, so a check page states check.maxCpuSeconds. A group page type property array names that group member rather than a page property, declared-properties skipping it for anything under a file property group, so declaring the ceilings there was inert and came back off in b97c6a291890. Enforcement refuses the change and sends the author to Alan for the speed or the ceiling.",
+        "The three ceiling pages exist and code-file-property declares all three; test states maxCpuSeconds 5 and code-tests spawns with cpuCeiling, killing an over-run. Its gap invariant already asks for this. A group member names a file only, so no ceiling sits at check.maxCpuSeconds, and decision, check and audit share one page type anyway. The ceiling wants to be a flat number property on code-check, reusing max-cpu-seconds.",
     },
     {
       statement: "Every check is cheap enough for audit.",
