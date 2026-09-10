@@ -27,11 +27,11 @@ function ids(rows: readonly Subject[]): string {
   return [...rows.map((row) => row.monarchId)].sort().join(",")
 }
 
-const failures: string[] = []
+const FAILURES: string[] = []
 
 function claim(held: boolean, what: string): undefined {
   console.log(`  ${held ? "pass" : "FAIL"}  ${what}`)
-  if (!held) failures.push(what)
+  if (!held) FAILURES.push(what)
 }
 
 const rules = (await loadCategoryRules()).rules
@@ -43,11 +43,11 @@ console.log(
     `${history.length} transaction(s)`
 )
 
-const reached: { readonly rule: Rule; readonly row: HistoryRow }[] = []
+const REACHED: { readonly rule: Rule; readonly row: HistoryRow }[] = []
 for (const rule of rules) {
-  for (const row of history) if (clausesMatch(rule, row)) reached.push({ rule, row })
+  for (const row of history) if (clausesMatch(rule, row)) REACHED.push({ rule, row })
 }
-const paired = reached.filter((entry) => entry.rule.counterpart !== null)
+const paired = REACHED.filter((entry) => entry.rule.counterpart !== null)
 
 let indexAgrees = 0
 for (const { rule, row } of paired) {
@@ -82,17 +82,17 @@ claim(
   `${sameDecision} of ${paired.length}: the two paths reach the same decision`
 )
 
-const unpairedReached = reached.length - paired.length
+const unpairedReached = REACHED.length - paired.length
 console.log("")
 console.log(
   `${unpairedReached} further subject(s) are reached by rules carrying no counterpart clause; ` +
     "for those `decide` consults no other row at all, so the two paths cannot differ."
 )
 
-if (failures.length > 0) {
+if (FAILURES.length > 0) {
   console.log("")
-  console.log(`${failures.length} claim(s) failed:`)
-  for (const failure of failures) console.log(`  ${failure}`)
+  console.log(`${FAILURES.length} claim(s) failed:`)
+  for (const failure of FAILURES) console.log(`  ${failure}`)
   process.exit(1)
 }
 console.log("")
