@@ -9,4 +9,5 @@ export const authProxy = {
   kind: "bun-service",
   folder: "infrastructure/networks/auth-proxy",
   extensions: "json",
+  repository: "infra/auth-proxy",
 } as const satisfies BuiltImage
