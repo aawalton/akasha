@@ -1,6 +1,7 @@
-import { existsSync, readdirSync } from "node:fs"
-import { join } from "node:path"
+import { existsSync } from "node:fs"
+import { join, relative } from "node:path"
 import { bindings } from "akasha/code-system/eso-addons/properties/bindings.file-property.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { readEsoAddonPage } from "../addon-compiler-config/addon-compiler-config.module.code.ts"
 
 export const GAME_METADATA_DIR = "metadata"
@@ -35,63 +36,69 @@ const DOCUMENT_KINDS = [
   { pageTypeSlug: "lua-module", pageSuffix: ".lua-module.ts", fileSuffix: LUA_MODULE_SUFFIX },
 ] as const
 
-function loadedAsIn(loaded: Record<string, unknown>, pageTypeSlug: string): string | null {
-  for (const value of Object.values(loaded)) {
-    if (typeof value !== "object" || value === null) continue
-    const said = value as { pageTypeSlug?: unknown; loadedAs?: unknown }
-    if (said.pageTypeSlug !== pageTypeSlug) continue
-    return typeof said.loadedAs === "string" ? said.loadedAs : null
-  }
-  return null
+type Loaded = {
+  readonly entry: string
+  readonly name: string
+  readonly pagePath: string
+  readonly filePath: string
 }
 
-export async function loadedDocumentPathsIn(dir: string): Promise<ReadonlyMap<string, string>> {
-  const answer = new Map<string, string>()
-  let entries: readonly string[]
-  try {
-    entries = readdirSync(dir)
-  } catch {
-    return answer
-  }
-  for (const entry of [...entries].sort()) {
-    for (const kind of DOCUMENT_KINDS) {
-      const pagePath = join(dir, entry, `${entry}${kind.pageSuffix}`)
-      if (!existsSync(pagePath)) continue
-      const name = loadedAsIn(
-        (await import(pagePath)) as Record<string, unknown>,
-        kind.pageTypeSlug
-      )
-      if (name === null) continue
-      const filePath = join(dir, entry, `${entry}${kind.fileSuffix}`)
-      if (!existsSync(filePath)) {
-        throw new Error(
-          `loadedDocumentPathsIn: the page at ${pagePath} is loaded as "${name}", and ${filePath} is not there`
-        )
-      }
-      const already = answer.get(name)
-      if (already !== undefined) {
-        throw new Error(
-          `loadedDocumentPathsIn: two pages under ${dir} are both loaded as "${name}", ${already} and ${filePath}`
-        )
-      }
-      answer.set(name, filePath)
+function loadedUnder(repoRoot: string, dir: string): readonly Loaded[] {
+  const under = relative(repoRoot, dir)
+  const found: Loaded[] = []
+  for (const kind of DOCUMENT_KINDS) {
+    for (const one of valuesOfType(repoRoot, kind.pageTypeSlug)) {
+      const head = `${under}/`
+      if (!one.path.startsWith(head)) continue
+      const rest = one.path.slice(head.length).split("/")
+      const entry = rest[0]
+      if (rest.length !== 2 || entry === undefined) continue
+      if (rest[1] !== `${entry}${kind.pageSuffix}`) continue
+      const name = one.value.loadedAs
+      if (typeof name !== "string") continue
+      found.push({
+        entry,
+        name,
+        pagePath: join(repoRoot, one.path),
+        filePath: join(dir, entry, `${entry}${kind.fileSuffix}`),
+      })
     }
+  }
+  return found.sort((one, two) => (one.entry < two.entry ? -1 : one.entry > two.entry ? 1 : 0))
+}
+
+export function loadedDocumentPathsIn(repoRoot: string, dir: string): ReadonlyMap<string, string> {
+  const answer = new Map<string, string>()
+  for (const one of loadedUnder(repoRoot, dir)) {
+    if (!existsSync(one.filePath)) {
+      throw new Error(
+        `loadedDocumentPathsIn: the page at ${one.pagePath} is loaded as "${one.name}", and ${one.filePath} is not there`
+      )
+    }
+    const already = answer.get(one.name)
+    if (already !== undefined) {
+      throw new Error(
+        `loadedDocumentPathsIn: two pages under ${dir} are both loaded as "${one.name}", ${already} and ${one.filePath}`
+      )
+    }
+    answer.set(one.name, one.filePath)
   }
   return answer
 }
 
-export async function namedFilePathOrNull(dir: string, one: string): Promise<string | null> {
+export function namedFilePathOrNull(repoRoot: string, dir: string, one: string): string | null {
   const beside = join(dir, one)
   if (existsSync(beside)) return beside
   const underGame = join(dir, GAME_METADATA_DIR, one)
   if (existsSync(underGame)) return underGame
-  return (await loadedDocumentPathsIn(dir)).get(one) ?? null
+  return loadedDocumentPathsIn(repoRoot, dir).get(one) ?? null
 }
 
-export async function namedFilePathsIn(
+export function namedFilePathsIn(
+  repoRoot: string,
   dir: string,
   named: readonly string[]
-): Promise<ReadonlyMap<string, string>> {
+): ReadonlyMap<string, string> {
   const answer = new Map<string, string>()
   const unreached: string[] = []
   let stated: ReadonlyMap<string, string> | null = null
@@ -107,7 +114,7 @@ export async function namedFilePathsIn(
       answer.set(one, underGame)
       continue
     }
-    stated ??= await loadedDocumentPathsIn(dir)
+    stated ??= loadedDocumentPathsIn(repoRoot, dir)
     const held = stated.get(one)
     if (held === undefined) {
       unreached.push(one)

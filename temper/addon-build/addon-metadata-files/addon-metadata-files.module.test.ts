@@ -19,32 +19,28 @@ type Stating = { readonly root: string; readonly dir: string }
 
 const ADDON_LEAF = "temper-companions-addon"
 
-const ADDON_PAGE = `akasha/temper/${ADDON_LEAF}/${ADDON_LEAF}.eso-addon.ts`
+const ADDON_DIR = `akasha/temper/${ADDON_LEAF}`
+
+const ADDON_PAGE = `${ADDON_DIR}/${ADDON_LEAF}.eso-addon.ts`
 
 function addonPageFiled(said: Readonly<Record<string, string>>): Stating {
   const root = SCRATCH.rootFor("temper-addon-metadata-")
-  const dir = join(root, `akasha/temper/${ADDON_LEAF}`)
+  const dir = join(root, ADDON_DIR)
   mkdirSync(dir, { recursive: true })
   valueAlsoFiled(root, "eso-addon", [{ path: ADDON_PAGE, value: { slug: ADDON_LEAF, ...said } }])
   return { root, dir }
 }
 
-function addonFolderStating(said: string): string {
-  const { dir } = addonPageFiled({})
-  writeFileSync(
-    join(dir, `${ADDON_LEAF}.eso-addon.ts`),
-    `export const temperCompanionsAddon = {\n  pageTypeSlug: "eso-addon",\n  slug: "${ADDON_LEAF}",\n${said}}\n`
-  )
-  return dir
-}
-
-function documentUnder(dir: string, slug: string, kind: string, loadedAs: string | null): string {
+function documentUnder(
+  root: string,
+  dir: string,
+  slug: string,
+  kind: string,
+  loadedAs: string | null
+): string {
   mkdirSync(join(dir, slug), { recursive: true })
-  const named = loadedAs === null ? "" : `  loadedAs: ${JSON.stringify(loadedAs)},\n`
-  writeFileSync(
-    join(dir, slug, `${slug}.${kind}.ts`),
-    `export const one = {\n  pageTypeSlug: ${JSON.stringify(kind)},\n  slug: ${JSON.stringify(slug)},\n${named}}\n`
-  )
+  const value = loadedAs === null ? { slug } : { slug, loadedAs }
+  valueAlsoFiled(root, kind, [{ path: `${ADDON_DIR}/${slug}/${slug}.${kind}.ts`, value }])
   return join(dir, slug)
 }
 
@@ -73,77 +69,89 @@ test("an addon page claiming no keybinds answers that there are none", async () 
   expect(await addonBindingsPathIn(root, dir)).toBeNull()
 })
 
-test("a page states the name its manifest loads it by", async () => {
-  const dir = addonFolderStating("")
-  const under = documentUnder(dir, "next-boss-layout", "eso-interface", "TemperEvents.xml")
+test("a page states the name its manifest loads it by", () => {
+  const { root, dir } = addonPageFiled({})
+  const under = documentUnder(root, dir, "next-boss-layout", "eso-interface", "TemperEvents.xml")
   const markup = join(under, "next-boss-layout.eso-interface.markup.xml")
   writeFileSync(markup, "<GuiXml></GuiXml>\n")
-  expect((await loadedDocumentPathsIn(dir)).get("TemperEvents.xml")).toBe(markup)
+  expect(loadedDocumentPathsIn(root, dir).get("TemperEvents.xml")).toBe(markup)
 })
 
-test("a page loaded by a name whose own file is absent refuses the call", async () => {
-  const dir = addonFolderStating("")
-  documentUnder(dir, "next-boss-layout", "eso-interface", "TemperEvents.xml")
-  await expect(loadedDocumentPathsIn(dir)).rejects.toThrow("TemperEvents.xml")
+test("a page loaded by a name whose own file is absent refuses the call", () => {
+  const { root, dir } = addonPageFiled({})
+  documentUnder(root, dir, "next-boss-layout", "eso-interface", "TemperEvents.xml")
+  expect(() => loadedDocumentPathsIn(root, dir)).toThrow("TemperEvents.xml")
 })
 
-test("two pages loaded by one name refuse the call", async () => {
-  const dir = addonFolderStating("")
+test("two pages loaded by one name refuse the call", () => {
+  const { root, dir } = addonPageFiled({})
   for (const slug of ["one-layout", "two-layout"]) {
-    const under = documentUnder(dir, slug, "eso-interface", "TemperEvents.xml")
+    const under = documentUnder(root, dir, slug, "eso-interface", "TemperEvents.xml")
     writeFileSync(join(under, `${slug}.eso-interface.markup.xml`), "<GuiXml></GuiXml>\n")
   }
-  await expect(loadedDocumentPathsIn(dir)).rejects.toThrow("TemperEvents.xml")
+  expect(() => loadedDocumentPathsIn(root, dir)).toThrow("TemperEvents.xml")
 })
 
-test("a page stating no name is loaded by none", async () => {
-  const dir = addonFolderStating("")
-  documentUnder(dir, "next-boss-layout", "eso-interface", null)
-  expect((await loadedDocumentPathsIn(dir)).size).toBe(0)
+test("a page stating no name is loaded by none", () => {
+  const { root, dir } = addonPageFiled({})
+  documentUnder(root, dir, "next-boss-layout", "eso-interface", null)
+  expect(loadedDocumentPathsIn(root, dir).size).toBe(0)
 })
 
-test("a manifest name with a file beside the page takes that file", async () => {
-  const dir = addonFolderStating("")
+test("a manifest name with a file beside the page takes that file", () => {
+  const { root, dir } = addonPageFiled({})
   writeFileSync(join(dir, "TemperCompanionsConfig.lua"), "TemperCompanionsConfig = nil\n")
-  const found = await namedFilePathsIn(dir, ["TemperCompanionsConfig.lua"])
+  const found = namedFilePathsIn(root, dir, ["TemperCompanionsConfig.lua"])
   expect(found.get("TemperCompanionsConfig.lua")).toBe(join(dir, "TemperCompanionsConfig.lua"))
 })
 
-test("a manifest name with a file under metadata takes that file", async () => {
-  const dir = addonFolderStating("")
+test("a manifest name with a file under metadata takes that file", () => {
+  const { root, dir } = addonPageFiled({})
   mkdirSync(join(dir, GAME_METADATA_DIR, "XML"), { recursive: true })
   const held = join(dir, GAME_METADATA_DIR, "XML/Controls.xml")
   writeFileSync(held, "<GuiXml></GuiXml>\n")
-  expect((await namedFilePathsIn(dir, ["XML/Controls.xml"])).get("XML/Controls.xml")).toBe(held)
+  expect(namedFilePathsIn(root, dir, ["XML/Controls.xml"]).get("XML/Controls.xml")).toBe(held)
 })
 
-test("a manifest name reaching no file there reaches the page loaded by that name", async () => {
-  const dir = addonFolderStating("")
-  const under = documentUnder(dir, "companions-config", "lua-module", "TemperCompanionsConfig.lua")
+test("a manifest name reaching no file there reaches the page loaded by that name", () => {
+  const { root, dir } = addonPageFiled({})
+  const under = documentUnder(
+    root,
+    dir,
+    "companions-config",
+    "lua-module",
+    "TemperCompanionsConfig.lua"
+  )
   const lua = join(under, "companions-config.lua-module.lua.lua")
   writeFileSync(lua, "TemperCompanionsConfig = nil\n")
-  const found = await namedFilePathsIn(dir, ["TemperCompanionsConfig.lua"])
+  const found = namedFilePathsIn(root, dir, ["TemperCompanionsConfig.lua"])
   expect(found.get("TemperCompanionsConfig.lua")).toBe(lua)
 })
 
-test("markup and Lua are reached by one rule rather than by a rule each", async () => {
-  const dir = addonFolderStating("")
-  const luaUnder = documentUnder(dir, "companions-config", "lua-module", "Config.lua")
+test("markup and Lua are reached by one rule rather than by a rule each", () => {
+  const { root, dir } = addonPageFiled({})
+  const luaUnder = documentUnder(root, dir, "companions-config", "lua-module", "Config.lua")
   writeFileSync(join(luaUnder, "companions-config.lua-module.lua.lua"), "Config = nil\n")
-  const xmlUnder = documentUnder(dir, "companions-layout", "eso-interface", "XML/Layout.xml")
+  const xmlUnder = documentUnder(root, dir, "companions-layout", "eso-interface", "XML/Layout.xml")
   writeFileSync(join(xmlUnder, "companions-layout.eso-interface.markup.xml"), "<GuiXml></GuiXml>\n")
-  const found = await namedFilePathsIn(dir, ["Config.lua", "XML/Layout.xml"])
+  const found = namedFilePathsIn(root, dir, ["Config.lua", "XML/Layout.xml"])
   expect(found.size).toBe(2)
 })
 
-test("a manifest name no page is loaded by refuses the call", async () => {
-  const dir = addonFolderStating("")
-  const under = documentUnder(dir, "companions-config", "lua-module", "TemperCompanionsConfig.lua")
+test("a manifest name no page is loaded by refuses the call", () => {
+  const { root, dir } = addonPageFiled({})
+  const under = documentUnder(
+    root,
+    dir,
+    "companions-config",
+    "lua-module",
+    "TemperCompanionsConfig.lua"
+  )
   writeFileSync(join(under, "companions-config.lua-module.lua.lua"), "\n")
-  await expect(namedFilePathsIn(dir, ["One.lua"])).rejects.toThrow("One.lua")
+  expect(() => namedFilePathsIn(root, dir, ["One.lua"])).toThrow("One.lua")
 })
 
-test("a manifest naming no file answers nothing", async () => {
-  const dir = addonFolderStating("")
-  expect((await namedFilePathsIn(dir, [])).size).toBe(0)
+test("a manifest naming no file answers nothing", () => {
+  const { root, dir } = addonPageFiled({})
+  expect(namedFilePathsIn(root, dir, []).size).toBe(0)
 })

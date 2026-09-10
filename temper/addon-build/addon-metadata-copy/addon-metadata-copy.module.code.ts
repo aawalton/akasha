@@ -51,7 +51,7 @@ export async function copyAddonMetadata(
 
   const order = await writeLoadOrder(root, addonDir, canonicalName)
 
-  const namedMarkup = await namedFilePathOrNull(addonDir, `${canonicalName}.xml`)
+  const namedMarkup = namedFilePathOrNull(root, addonDir, `${canonicalName}.xml`)
   writeFileSync(
     join(distDir, `${canonicalName}.xml`),
     namedMarkup === null ? EMPTY_MARKUP : readFileSync(namedMarkup, "utf-8")
@@ -71,7 +71,7 @@ export async function copyAddonMetadata(
   }
   const shipped = SHIPPED_BY_MANIFEST.parse(JSON.parse(readFileSync(manifestPath, "utf-8")))
 
-  const luaPaths = await namedFilePathsIn(addonDir, shipped.additionalLuaFiles ?? [])
+  const luaPaths = namedFilePathsIn(root, addonDir, shipped.additionalLuaFiles ?? [])
   for (const [name, from] of luaPaths) {
     writeFileSync(join(distDir, name), readFileSync(from, "utf-8"))
   }
@@ -89,7 +89,7 @@ export async function copyAddonMetadata(
     ...(shipped.xmlFiles?.beforeBundle ?? []),
     ...(shipped.xmlFiles?.afterBundle ?? []),
   ].filter((one) => !RUNTIME_TOKEN.test(one))
-  const namedPaths = await namedFilePathsIn(addonDir, named)
+  const namedPaths = namedFilePathsIn(root, addonDir, named)
   for (const [name, from] of namedPaths) {
     const to = join(distDir, name)
     mkdirSync(dirname(to), { recursive: true })
