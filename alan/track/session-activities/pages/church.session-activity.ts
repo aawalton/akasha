@@ -1,4 +1,4 @@
-import type { SessionActivity } from "../session-activity.page-type.ts"
+import type { SessionActivity } from "../session-activity.page-type.types.ts"
 
 export const church = {
   id: "019f3489-4a04-72a3-a53f-d0e7a9b29973",

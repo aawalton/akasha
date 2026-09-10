@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Icon } from "../../../temper/things/properties/icon.text-property.ts"
-import type { Seq } from "../daily/days/properties/seq.number-property.ts"
-import type { DefaultDifficulty } from "./properties/default-difficulty.number-property.ts"
-
-export type SessionActivity = Page & {
-  title: Title
-  defaultDifficulty: DefaultDifficulty
-  icon?: Icon
-  seq?: Seq
-}
 
 export const sessionActivity = {
   id: "01a06589-d117-759e-b934-fd346ffba4fd",
@@ -37,4 +25,5 @@ export const sessionActivity = {
       statement: "An activity is matched to a session by the session's title.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

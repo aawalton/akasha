@@ -1,4 +1,4 @@
-import type { SessionActivity } from "../session-activity.page-type.ts"
+import type { SessionActivity } from "../session-activity.page-type.types.ts"
 
 export const ryan = {
   id: "019fb7b4-8398-77d2-9e1c-79364b7336a8",

@@ -1,4 +1,4 @@
-import type { SessionActivity } from "../session-activity.page-type.ts"
+import type { SessionActivity } from "../session-activity.page-type.types.ts"
 
 export const rest = {
   id: "019fb7b4-80b9-7b67-886f-5279d7732737",

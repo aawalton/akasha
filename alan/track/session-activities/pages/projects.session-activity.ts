@@ -1,4 +1,4 @@
-import type { SessionActivity } from "../session-activity.page-type.ts"
+import type { SessionActivity } from "../session-activity.page-type.types.ts"
 
 export const projects = {
   id: "019f3489-4545-7798-ab7b-6743a20028a2",
