@@ -69,7 +69,7 @@ export const unitWriting = {
     {
       invariantKind: "departure",
       statement:
-        "An exit code a service states joins the one the wrapper leaves on rather than replacing it.",
+        "An exit code a service states joins the exit the wrapper leaves on rather than replacing that exit.",
     },
   ],
 } as const satisfies Module

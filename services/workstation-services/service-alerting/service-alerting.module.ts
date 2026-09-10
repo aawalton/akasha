@@ -10,7 +10,7 @@ export const serviceAlerting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The persona told is the nearest one championing a page above the service.",
+      statement: "The persona told is the nearest persona championing a page above the service.",
     },
     {
       invariantKind: "departure",
