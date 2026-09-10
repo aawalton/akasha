@@ -18,7 +18,7 @@ export const ring = {
     },
     {
       invariantKind: "departure",
-      statement: "A caption handed a moment counts down to it in place of its words.",
+      statement: "A caption handed a moment counts down to that moment in place of its words.",
     },
     {
       invariantKind: "departure",
