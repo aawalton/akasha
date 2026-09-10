@@ -5,7 +5,7 @@ export const measure = {
   pageTypeSlug: "namespace",
   type: "namespace",
   slug: "measure",
-  definition: "what a thing has spent of what that thing is allowed",
+  definition: "what a thing spends of what that thing is allowed, and what a run measures",
   parts: [
     "command/measure-repo",
     "command/measure-pages",
@@ -18,5 +18,6 @@ export const measure = {
     "command/measure-personas",
     "command/measure-learning",
     "namespace/measure-complexity",
+    "command/measure-performance",
   ],
 } as const satisfies Namespace

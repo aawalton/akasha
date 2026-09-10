@@ -1,11 +1,11 @@
-import type { Command } from "../../command.page-type.types.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
-export const performance = {
-  id: "01a08788-54c2-76bf-801e-e29fd3f5aa9a",
+export const measurePerformance = {
+  id: "01a08d46-74cc-7d0a-bdd8-5350a9662b53",
   pageTypeSlug: "command",
   type: "command",
-  slug: "performance",
-  definition: "the command running one performance and saying what that performance measured",
+  slug: "measure-performance",
+  definition: "the act running one performance and saying what that performance measured",
   code: "ts",
   test: "ts",
   changeKind: "change-none",

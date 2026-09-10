@@ -1,9 +1,9 @@
 import { join } from "node:path"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
-import { quoted } from "../../modules/seat-act-calling/seat-act-calling.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
+import { quoted } from "../../../modules/seat-act-calling/seat-act-calling.module.code.ts"
 
 const PERFORMANCE = "performance"
 
@@ -54,7 +54,7 @@ async function measuringIn(root: string, at: string): Promise<Measuring> {
   return found as Measuring
 }
 
-export async function performance(argv: readonly string[], given: Given): Promise<Answer> {
+export async function measurePerformance(argv: readonly string[], given: Given): Promise<Answer> {
   try {
     const read = readIn(argv, slugsOfType(given.root, PERFORMANCE))
     if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }

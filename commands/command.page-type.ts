@@ -106,7 +106,7 @@ export const command = {
     "namespace/initiative",
     "namespace/alan",
     "namespace/infrastructure",
-    "command/performance",
+
     "namespace/index",
     "module/complexity-rowing",
     "module/calendar-eventing",
