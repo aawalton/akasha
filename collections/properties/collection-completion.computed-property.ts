@@ -11,4 +11,10 @@ export const collectionCompletion = {
   definition: "a collection's progress as a stage rather than an amount",
   holds: "text",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A collection whose length or progress is absent reads as not started.",
+    },
+  ],
 } as const satisfies ComputedProperty

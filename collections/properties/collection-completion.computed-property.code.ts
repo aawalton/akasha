@@ -3,7 +3,6 @@ import type { WorkedCollection } from "../collection.page-type.worked.ts"
 import type { CollectionCompletion } from "./collection-completion.computed-property.ts"
 
 export const work: Work<WorkedCollection, CollectionCompletion> = (page) => {
-  // A case row an absent value is read in matches nothing, so it falls to `otherwise`.
   const length = page.totalLengthInWords
   const remaining = page.totalRemainingInWords
   if (typeof length === "number" && length > 0) {

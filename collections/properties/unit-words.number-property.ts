@@ -21,6 +21,15 @@ export const unitWords = {
       statement: "The value read is the unit's own `words`.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A total counted in this unit is absent where the collection states no unit words.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A total counted in this unit is absent where the unit words are zero.",
+    },
+    {
       invariantKind: "gap",
       statement: "A formula cannot yet read a property off the page a relation reaches.",
     },
