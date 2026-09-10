@@ -14,12 +14,6 @@ export interface DomainTreeView {
   readonly dispose: () => undefined
 }
 
-// THE ROW THE FILE CARRIES IS THE ROW DRAWN, WITH NOTHING SPELLED AGAIN BETWEEN THE TWO.
-//
-// The row already names its document by a whole path, so the checkout is wanted for one thing
-// only: shortening that path for the tooltip, which is done for the rows drawn rather than for
-// every row held. Ten thousand domains were being walked to take the checkout off every path and
-// walked again to put it back, on the thread that draws them, each time the file moved.
 export function createDomainTree(root: string): DomainTreeView {
   const emitter = new vscode.EventEmitter<undefined>()
   let held: readonly DomainTreeRow[] = []
@@ -95,8 +89,6 @@ function buildTreeItem(element: DomainTreeRow, root: string, filtering: boolean)
     element.persona === null ? "no persona answers for this domain" : `Owned by ${element.persona}`,
     element.at === null ? NO_DOCUMENT : relative(root, element.at),
   ].join("\n")
-  // A ROW NAMING NO DOCUMENT OPENS NONE. Joining the checkout to an empty path opened the checkout
-  // itself, which is what a row carrying no path used to do.
   if (element.at !== null) {
     item.command = {
       command: OPEN_COMMAND,
