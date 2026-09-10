@@ -34,6 +34,8 @@ const ENTRY_PROPERTY = "page-property-entry"
 
 const PAGE_TYPE = "page-type"
 
+const TYPES = "types"
+
 const ANY = "*"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
@@ -166,6 +168,13 @@ function filedUnder(world: World, shape: Declared): readonly string[] {
   return found
 }
 
+function declaringAt(world: World, path: string): string {
+  const value = pageIn(world, path)
+  const held = value === null ? null : value[TYPES]
+  if (typeof held !== "string") return path
+  return besideAt(path, TYPES, held) ?? path
+}
+
 type Within = {
   readonly key: string
   readonly carrying: readonly string[]
@@ -244,8 +253,9 @@ export async function renamePagePropertyPropertySlug(
   }
   for (const one of whole ? types : []) {
     const of = `${typedAs(one.slug)}.${key}`
-    const why = await reaching(RENAME_SIGNATURE, { at: one.path, of, to: now })
-    if (why !== null) return refusing(`\`${one.path}\` is refused, and ${why}`)
+    const at = declaringAt(world, one.path)
+    const why = await reaching(RENAME_SIGNATURE, { at, of, to: now })
+    if (why !== null) return refusing(`\`${at}\` is refused, and ${why}`)
   }
   for (const one of whole ? records : []) {
     const why = await reaching(RENAME_SIGNATURE, { at: one.path, of: `${ANY}.${key}`, to: now })

@@ -82,6 +82,10 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       invariantKind: "departure",
+      statement: "That member is spelled anew in the file the page type states its type in.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Every file a file property's key names is carried to the name the new key spells.",
     },
