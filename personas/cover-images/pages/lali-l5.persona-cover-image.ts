@@ -1,4 +1,4 @@
-import type { PersonaCoverImage } from "../persona-cover-image.page-type.ts"
+import type { PersonaCoverImage } from "../persona-cover-image.page-type.types.ts"
 
 export const laliL5 = {
   id: "019f324d-620f-73f5-91e7-5da37a226ce8",

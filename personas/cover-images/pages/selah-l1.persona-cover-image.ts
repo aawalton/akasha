@@ -1,4 +1,4 @@
-import type { PersonaCoverImage } from "../persona-cover-image.page-type.ts"
+import type { PersonaCoverImage } from "../persona-cover-image.page-type.types.ts"
 
 export const selahL1 = {
   id: "019f324d-657c-7667-ae9c-a4d0e2557563",

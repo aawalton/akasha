@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
-import type { PersonaImage } from "../images/persona-image.page-type.types.ts"
-
-export type PersonaCoverImage = PersonaImage & {
-  relationshipLevel: RelationshipLevel
-}
 
 export const personaCoverImage = {
   id: "01a0655b-4a9b-700b-a9cc-a60c8e139737",
@@ -26,4 +20,5 @@ export const personaCoverImage = {
       statement: "A cover naming no path is kept in the object store under its own identity.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

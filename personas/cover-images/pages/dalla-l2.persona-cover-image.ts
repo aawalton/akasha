@@ -1,4 +1,4 @@
-import type { PersonaCoverImage } from "../persona-cover-image.page-type.ts"
+import type { PersonaCoverImage } from "../persona-cover-image.page-type.types.ts"
 
 export const dallaL2 = {
   id: "019f324d-764c-7076-8d2b-730b5d6107fb",

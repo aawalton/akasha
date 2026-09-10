@@ -1,4 +1,4 @@
-import type { PersonaCoverImage } from "../persona-cover-image.page-type.ts"
+import type { PersonaCoverImage } from "../persona-cover-image.page-type.types.ts"
 
 export const taliaL3 = {
   id: "019f324d-5f4c-710a-bf15-ba79beaf2bef",

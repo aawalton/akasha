@@ -1,4 +1,4 @@
-import type { PersonaCoverImage } from "../persona-cover-image.page-type.ts"
+import type { PersonaCoverImage } from "../persona-cover-image.page-type.types.ts"
 
 export const ceriL3 = {
   id: "019f324d-5014-7114-ade0-c91e2fe8a954",

@@ -1,4 +1,4 @@
-import type { PersonaCoverImage } from "../persona-cover-image.page-type.ts"
+import type { PersonaCoverImage } from "../persona-cover-image.page-type.types.ts"
 
 export const ariaL3 = {
   id: "019f324d-4e0e-7d56-8c17-71893c5f8505",
