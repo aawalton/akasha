@@ -24,6 +24,15 @@ export const emailRuleReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A rule of one kind is the index's answer for that kind's page type rather than a folder listed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The person whose rule it is comes from the path the index answers with.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A clause comparing by a spelling no comparison names raises.",
     },
     {

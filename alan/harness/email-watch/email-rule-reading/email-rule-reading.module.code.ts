@@ -1,12 +1,13 @@
-import { readdirSync } from "node:fs"
 import { createRequire } from "node:module"
 import type { Condition } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { z } from "zod"
 import {
   type EmailRuleKind,
-  ruleFileSuffix,
   ruleFolderIn,
   ruleKinds,
+  ruleLocation,
+  ruleTypeSlug,
 } from "../email-rule-set/email-rule-set.module.code.ts"
 
 export type Action = "notify" | "unsubscribe"
@@ -136,22 +137,14 @@ export function rulesOf(person: string, root: string): readonly Rule[] {
   const rules: Rule[] = []
   for (const kind of ruleKinds()) {
     const folder = ruleFolderIn(person, kind)
-    const suffix = ruleFileSuffix(kind)
-    let held: readonly string[]
-    try {
-      held = readdirSync(`${root}/${folder}`)
-    } catch (error) {
-      throw new Error(
-        `\`${folder}\` cannot be read, so what ${person}'s ${kind} rules say is unknown: ${String(error)}`
-      )
-    }
-    const names = [...held].filter((one) => one.endsWith(suffix)).sort()
-    if (names.length === 0)
+    const held = valuesOfType(root, ruleTypeSlug(kind))
+      .map((one) => one.path)
+      .filter((one) => ruleLocation(one)?.person === person)
+    if (held.length === 0)
       throw new Error(
         `\`${folder}\` holds no ${kind} rule, and no rule at all is not the same as no rule matching`
       )
-    for (const name of names) {
-      const relPath = `${folder}/${name}`
+    for (const relPath of held) {
       rules.push(ruleOf(pageOf(`${root}/${relPath}`), relPath, kind))
     }
   }

@@ -24,8 +24,12 @@ export function ruleFolderIn(person: string, kind: EmailRuleKind): string {
   return `${person}/harness/inboxes/email-rules/${kind}s/pages`
 }
 
+export function ruleTypeSlug(kind: EmailRuleKind): string {
+  return `email-rule-${kind}`
+}
+
 export function ruleFileSuffix(kind: EmailRuleKind): string {
-  return `.email-rule-${kind}.ts`
+  return `.${ruleTypeSlug(kind)}.ts`
 }
 
 export function ruleKinds(): readonly EmailRuleKind[] {

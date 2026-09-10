@@ -74,7 +74,7 @@ describe("rulesOf", () => {
     expect(rules.find((one) => one.slug === "zzz-not-a-real-rule")).toBeUndefined()
   })
 
-  test("raises where a person's rules cannot be read", () => {
-    expect(() => rulesOf("nobody-of-that-name", ROOT)).toThrow(/cannot be read/)
+  test("raises where a person has no rule rather than answering none", () => {
+    expect(() => rulesOf("nobody-of-that-name", ROOT)).toThrow(/holds no agent rule/)
   })
 })
