@@ -100,7 +100,9 @@ test("a page type nothing is named for is still answered 404", async () => {
 
 test("a raise that is not the roster is left to raise", async () => {
   const deps = depsReading(() => Promise.reject(new Error("something else entirely")))
-  expect(answerPages(new Request(AT), "readout", deps)).rejects.toThrow("something else entirely")
+  await expect(answerPages(new Request(AT), "readout", deps)).rejects.toThrow(
+    "something else entirely"
+  )
 })
 
 test("a page type that reads is answered with its rows", async () => {
