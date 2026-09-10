@@ -1,9 +1,9 @@
-import type { GameAchievement } from "../game-achievement.page-type.types.ts"
+import type { Achievement } from "../achievement.page-type.types.ts"
 
 export const gameAchievements = {
   id: "01a06808-8818-7001-b885-feb286d7843a",
-  pageTypeSlug: "game-achievement",
-  type: "game-achievement",
+  pageTypeSlug: "achievement",
+  type: "achievement",
   slug: "game-achievements",
   title: "Game Achievements",
   position: 0,
@@ -11,4 +11,4 @@ export const gameAchievements = {
   ownProgress: 0,
   unit: "words",
   status: "not-applicable",
-} as const satisfies GameAchievement
+} as const satisfies Achievement

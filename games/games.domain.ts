@@ -10,6 +10,6 @@ export const games = {
     "domain/clear-the-world",
     "domain/game-design",
     "page-type/idle-game",
-    "page-type/game-achievement",
+    "page-type/achievement",
   ],
 } as const satisfies Domain

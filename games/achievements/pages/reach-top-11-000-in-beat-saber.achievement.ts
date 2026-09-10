@@ -1,9 +1,9 @@
-import type { GameAchievement } from "../game-achievement.page-type.types.ts"
+import type { Achievement } from "../achievement.page-type.types.ts"
 
 export const reachTop11000InBeatSaber = {
   id: "01a06808-8818-700f-943b-db97d7158de1",
-  pageTypeSlug: "game-achievement",
-  type: "game-achievement",
+  pageTypeSlug: "achievement",
+  type: "achievement",
   slug: "reach-top-11-000-in-beat-saber",
   title: "Reach Top 11,000 in Beat Saber",
   partOfCollections: ["beat-saber"],
@@ -13,4 +13,4 @@ export const reachTop11000InBeatSaber = {
   unit: "words",
   status: "completed",
   rank: "A",
-} as const satisfies GameAchievement
+} as const satisfies Achievement

@@ -1,9 +1,9 @@
-import type { GameAchievement } from "../game-achievement.page-type.types.ts"
+import type { Achievement } from "../achievement.page-type.types.ts"
 
 export const projectEuler = {
   id: "01a06808-8818-700c-bbd4-3ff7aadd7f6e",
-  pageTypeSlug: "game-achievement",
-  type: "game-achievement",
+  pageTypeSlug: "achievement",
+  type: "achievement",
   slug: "project-euler",
   title: "Project Euler",
   partOfCollections: ["game-achievements"],
@@ -14,4 +14,4 @@ export const projectEuler = {
   status: "in-progress",
   rank: "A",
   externalLink: "https://projecteuler.net/",
-} as const satisfies GameAchievement
+} as const satisfies Achievement
