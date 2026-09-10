@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const challengeGolems = {
   id: "019f6865-7c61-74a4-82e6-e27251c3bdb5",

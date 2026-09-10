@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const velanDeath = {
   id: "019f6865-700b-7525-afe5-428a653ca95b",

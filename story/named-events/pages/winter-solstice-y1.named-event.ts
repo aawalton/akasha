@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const winterSolsticeY1 = {
   id: "019f6865-705d-7d59-aa4c-ee81a7a9524f",

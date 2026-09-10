@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const flosAwakening = {
   id: "019f6865-76e9-7585-975b-beda295ae415",

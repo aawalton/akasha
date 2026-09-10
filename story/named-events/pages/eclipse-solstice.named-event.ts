@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const eclipseSolstice = {
   id: "019f6865-737c-75b2-9a27-1401ae0fafe6",

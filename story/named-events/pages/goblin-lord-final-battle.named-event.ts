@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const goblinLordFinalBattle = {
   id: "019f6865-78e1-7381-ba3e-cc661c4cd804",

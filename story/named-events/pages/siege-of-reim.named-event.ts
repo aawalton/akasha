@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const siegeOfReim = {
   id: "019f6865-7efb-7514-834b-77036d153cae",

@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const battleOfMedain = {
   id: "019f6865-7ad0-7edd-b2c1-0e46eceffcff",

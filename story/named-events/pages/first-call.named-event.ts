@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const firstCall = {
   id: "019f6865-6fd7-7817-9a5c-1debe4ebd2b4",

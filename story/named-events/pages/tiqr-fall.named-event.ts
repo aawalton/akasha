@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const tiqrFall = {
   id: "019f6865-77be-7f7c-af73-08f45ecc2df6",

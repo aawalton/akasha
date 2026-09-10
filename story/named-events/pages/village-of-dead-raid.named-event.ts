@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const villageOfDeadRaid = {
   id: "019f6865-7686-73c0-912c-8cbd131df2f2",

@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const antiniumWar2nd = {
   id: "019f6865-7818-75a2-bd0d-d6d716e5ef93",

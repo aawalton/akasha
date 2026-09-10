@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const wyvernsAttackPallass = {
   id: "019f6865-7b9c-7eae-9a6d-19a3fbdebc99",

@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const battleOfInvrisil = {
   id: "019f6865-7492-7023-a96e-3cceec435d1a",

@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const meetingOfTribes = {
   id: "019f6865-7431-75a7-8824-4ea429c2dbf5",

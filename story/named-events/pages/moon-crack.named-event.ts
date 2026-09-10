@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const moonCrack = {
   id: "019f6865-7d8c-7b17-bcfa-1a32ca81855b",

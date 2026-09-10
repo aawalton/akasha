@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const palaceOfFates = {
   id: "019f6865-7df2-78ed-9f40-302e2a959134",

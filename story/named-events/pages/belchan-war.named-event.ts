@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const belchanWar = {
   id: "019f6865-787a-7c3d-8214-91458bf0743b",

@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const razorshardRovingArrowBattle = {
   id: "019f6865-7f4c-7ef4-9b43-5d3ac6e26dd1",

@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const christmasY1 = {
   id: "019f6865-723a-7b2b-ab83-c04ca28ad5a5",

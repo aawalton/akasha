@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const ailendamusInvasion = {
   id: "019f6865-7a3f-735b-a3c5-5a3cda1a2a4b",

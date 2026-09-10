@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const cinaeluObserved = {
   id: "019f6865-72dd-7c96-97a5-5f0da976e3b1",

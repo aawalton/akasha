@@ -1,4 +1,4 @@
-import type { NamedEvent } from "../named-event.page-type.ts"
+import type { NamedEvent } from "../named-event.page-type.types.ts"
 
 export const skinnerDeath = {
   id: "019f6865-774e-7ad2-863b-22c66a5826f0",
