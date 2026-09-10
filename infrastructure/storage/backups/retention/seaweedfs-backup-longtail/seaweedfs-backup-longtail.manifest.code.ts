@@ -4,8 +4,25 @@ import {
   CONTAINER_TMP_PATH,
   CONTAINER_TMP_VOLUME,
 } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const NAMESPACE = "seaweedfs"
+
+const MODULE = "module"
+const COPIER = "copy-longtail"
+const CODE = "code"
+const TS = "ts"
+
+function copierAt(): string {
+  const page = listedAt(akashaRoot(), MODULE, COPIER)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${COPIER}\`, so the job would copy nothing`)
+  }
+  return at
+}
 
 const IMAGE = "registry.registry.svc.cluster.local:5000/cluster/postgres-gfs-promoter:r4"
 
@@ -50,13 +67,7 @@ function cronjobYaml(): string {
                   name: "backup-longtail",
                   image: IMAGE,
                   imagePullPolicy: "Always",
-                  command: [
-                    "/sbin/tini",
-                    "--",
-                    "bun",
-                    "run",
-                    "infrastructure/storage/backups/retention/copy-longtail/copy-longtail.module.code.ts",
-                  ],
+                  command: ["/sbin/tini", "--", "bun", "run", copierAt()],
                   env: [
                     { name: "NODE_ENV", value: "production" },
                     { name: "HOME", value: CONTAINER_TMP_PATH },

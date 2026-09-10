@@ -8,4 +8,10 @@ export const seaweedfsBackupLongtail = {
   definition: "the scheduled job copying the oldest backups on to slower storage",
   code: "ts",
   generatedDirectory: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Where the longtail copier's code sits is asked of the index rather than spelled.",
+    },
+  ],
 } as const satisfies Manifest
