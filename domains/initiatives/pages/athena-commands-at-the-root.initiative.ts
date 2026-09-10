@@ -9,11 +9,6 @@ export const athenaCommandsAtTheRoot = {
   persona: "athena",
   intents: [
     {
-      statement: "A seat has the commands its domain and role need, without being handed them.",
-      workingMemory:
-        "Every seat is handed one document, `agents.agent-settings.harness-settings.json`, whose `permissions.allow` is empty and whose deny list is global; a spawn merges only `remoteControlAtStartup` into it. A seat's persona, role and assignment reach none of it. No relation property targets `page-type/command`, and `alan.domain.ts`, `alan.seat.ts` and `handler.role.ts` name no command. Alan wants narrow warrants per use case and rejected `parts` as too broad. `track session` is a namespace of ten.\n",
-    },
-    {
       statement: "An instrument that cannot see its subject says so rather than reporting clean.",
       workingMemory:
         "`temper/build-deploy-checks/population-bound` already does this: examined against declared, an empty population where none was declared, and a throw where examined runs past declared. Its ten callers all sit under that folder, and no akasha code-check reaches it. A check answers `Judged` records, so an empty answer means clean, and Fail Closed covers only a check that threw. `outcome.module.ts` states the rule and nothing imports it. The two swept instruments are moot, their subjects deleted.\n",
