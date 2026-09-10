@@ -12,4 +12,5 @@ export const nimue = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "0b4d518c-73a4-48be-b461-1e337680743b",
 } as const satisfies Seat
