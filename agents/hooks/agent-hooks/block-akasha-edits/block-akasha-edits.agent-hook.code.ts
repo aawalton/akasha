@@ -1,0 +1,186 @@
+import { resolve } from "node:path"
+import { dataAt, dataIn } from "akasha/files/data-place/data-place.module.code.ts"
+import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
+import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
+import { parseHookPayload } from "../../hook-answer/hook-answer.module.code.ts"
+import { shownIn } from "../../path-showing/path-showing.module.code.ts"
+import { insideOf, settled } from "../../settling/settling.module.code.ts"
+
+const HOOK_NAME = "block-akasha-edits"
+
+const UNREADABLE = 5
+
+const REFUSED = 2
+
+const WRITE = "Write"
+
+const EDIT = "Edit"
+
+const NOTEBOOK_EDIT = "NotebookEdit"
+
+export const JUDGED: readonly string[] = [WRITE, EDIT, NOTEBOOK_EDIT]
+
+export const SCOPE: readonly string[] = [
+  "block-akasha-edits refuses Write, Edit and NotebookEdit landing anywhere inside this",
+  "checkout, and stands aside everywhere else.",
+  "",
+  "CLOSED over the tools it judges. Each of these three carries its target as a path in the",
+  "structured tool input — `file_path`, and `notebook_path` for NotebookEdit. No shell reads it, so",
+  "there is no quoting, no substitution, no heredoc and nothing to parse, and therefore no second",
+  "spelling of a path for this hook to miss. Every path is resolved against the working directory",
+  "the call was made in, `.` and `..` are folded away, and every symlink on it is followed, down to",
+  "one whose target does not exist yet. The result is compared against the roots resolved the same",
+  "way. A call of one of these three tools that lands inside a guarded root is refused, and there is",
+  "no such call that is not.",
+  "",
+  "NOT REACHED. Each of these is outside the class, and is not a hole inside it:",
+  "  - a write through `Bash`. A shell writes a file in more ways than can be named, and the Bash",
+  "    hooks sample that open world. This hook is handed no Bash call and judges none.",
+  "    `block-akasha-shell-writes` samples the copies, moves and redirects among them.",
+  "  - a tool this hook does not name. The closure is over Write, Edit and NotebookEdit, never over",
+  "    writing. A fourth writing tool passes unjudged until it is named in `overTools`.",
+  "  - a call carrying no path, or an empty one. There is nothing to resolve and nothing to refuse.",
+  "  - a path inside akasha that is a symlink pointing out of it. The write lands outside, so it is",
+  "    stood aside. A path is judged by where it lands, never by where it is spelled.",
+  "  - a symlink swapped between this hook resolving the path and the tool writing it. The answer",
+  "    is true of the tree as it was when the hook ran.",
+  "  - another checkout of this repository. The roots are taken from where this hook's own file",
+  "    sits, so a second worktree's `akasha/` is a different folder and is not guarded from here.",
+  "  - a change already committed. This hook judges a call before it runs and changes nothing.",
+  "",
+  "Printed by `block-akasha-edits.agent-hook.code.ts --scope`, which is where this sits: it is what",
+  "the program says about itself, held as the text it prints rather than as a comment.",
+]
+
+export type Asked = {
+  readonly toolName: string
+  readonly filePath: string
+  readonly from: string
+}
+
+export type Guarded = {
+  readonly pages: string
+  readonly index: string
+}
+
+export function guardedIn(root: string): Guarded {
+  return { pages: settled(root), index: settled(dataIn(root)) }
+}
+
+export function askedIn(raw: string): Asked | null {
+  let held: Record<string, unknown> | null
+  try {
+    held = parseHookPayload(raw)
+  } catch {
+    return null
+  }
+  if (held === null) return null
+  const input = asRecord(held["tool_input"]) ?? {}
+  const named = stringAt(input, "file_path") ?? ""
+  return {
+    toolName: stringAt(held, "tool_name") ?? "",
+    filePath: named === "" ? (stringAt(input, "notebook_path") ?? "") : named,
+    from: stringAt(held, "cwd") ?? "",
+  }
+}
+
+function refusingPages(toolName: string, shown: string): string {
+  if (toolName === NOTEBOOK_EDIT) {
+    return [
+      `${HOOK_NAME}: NotebookEdit lands on \`${shown}\`, inside this checkout.`,
+      "There is no akasha command for a notebook, and this checkout holds none.",
+    ].join("\n")
+  }
+  const commands = "The akasha commands write this checkout — they check the change and commit it."
+  const lands = "  akasha change apply"
+  if (toolName === EDIT) {
+    return [
+      `${HOOK_NAME}: Edit lands on \`${shown}\`, inside this checkout.`,
+      commands,
+      "",
+      "Pipe the passage being replaced and the passage replacing it into the change:",
+      "",
+      "akasha change draft change-file <<'HEREDOC'",
+      `at: ${shown}`,
+      "old HEREDOC-OLD",
+      "<the passage being replaced>",
+      "HEREDOC-OLD",
+      "new HEREDOC-NEW",
+      "<the passage replacing it>",
+      "HEREDOC-NEW",
+      "HEREDOC",
+      "",
+      "The draft keeps the edit beside your page, and this lands every edit kept:",
+      "",
+      lands,
+      "",
+      "A passage drops the newline the heredoc adds, so a whole line goes by naming a line beside it.",
+    ].join("\n")
+  }
+  return [
+    `${HOOK_NAME}: Write lands on \`${shown}\`, inside this checkout.`,
+    commands,
+    "",
+    "Pipe the whole new body into the change, then land it:",
+    "",
+    "akasha change draft add-file <<'HEREDOC'",
+    `at: ${shown}`,
+    "body HEREDOC-BODY",
+    "<the whole body>",
+    "HEREDOC-BODY",
+    "HEREDOC",
+    "",
+    lands,
+  ].join("\n")
+}
+
+function refusingIndex(toolName: string, shown: string): string {
+  return [
+    `${HOOK_NAME}: ${toolName} lands on \`${shown}\`, inside the akasha index.`,
+    `\`${dataAt()}\` holds the index, and is guarded as the rest of the checkout is.`,
+    "The pages and the index are two halves of one store, so a hand-written index puts",
+    "them out of step. Rebuild it instead:",
+    "",
+    "  akasha index refresh",
+  ].join("\n")
+}
+
+export function refusalFor(asked: Asked, root: string, fallback: string): string | null {
+  if (!JUDGED.includes(asked.toolName)) return null
+  if (asked.filePath.trim() === "") return null
+  const from = asked.from === "" ? fallback : asked.from
+  const at = settled(resolve(from, asked.filePath))
+  const here = settled(root)
+  const guarded = guardedIn(here)
+  if (insideOf(guarded.index, at)) return refusingIndex(asked.toolName, shownIn(here, at))
+  if (insideOf(guarded.pages, at)) return refusingPages(asked.toolName, shownIn(here, at))
+  return null
+}
+
+async function main(): Promise<number> {
+  if (Bun.argv[2] === "--scope") {
+    process.stdout.write(`${SCOPE.join("\n")}\n`)
+    return 0
+  }
+  const raw = await Bun.stdin.text()
+  if (raw.trim() === "") return 0
+  const asked = askedIn(raw)
+  if (asked === null) {
+    process.stderr.write(
+      `${HOOK_NAME}: the hook payload would not read, so nothing was judged and the call was not refused\n`
+    )
+    return UNREADABLE
+  }
+  const said = refusalFor(asked, rootOf(import.meta.path), process.cwd())
+  if (said === null) return 0
+  process.stderr.write(`${said}\n`)
+  process.stdout.write(`${JSON.stringify({ decision: "block", reason: said }, null, 2)}\n`)
+  return REFUSED
+}
+
+export async function ran(): Promise<number> {
+  return await main()
+}
+
+if (import.meta.main) process.exit(await ran())
