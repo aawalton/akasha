@@ -6,7 +6,7 @@ export const temperLibTreasure = {
   type: "eso-addon",
   slug: "temper-lib-treasure",
   definition: "where every treasure map, survey report and clue is buried",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "treasure-main",
   parts: [

@@ -6,7 +6,7 @@ export const temperLibTableFunctions = {
   type: "eso-addon",
   slug: "temper-lib-table-functions",
   definition: "the table helpers every Temper addon in the game shares",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "table-functions-entry",
   parts: [

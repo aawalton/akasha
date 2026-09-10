@@ -6,7 +6,7 @@ export const temperLibZone = {
   type: "eso-addon",
   slug: "temper-lib-zone",
   definition: "every zone and subzone the game holds, named in each language",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "zone-main",
   parts: [
