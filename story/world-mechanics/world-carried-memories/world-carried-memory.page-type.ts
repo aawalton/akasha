@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { WorldMechanic } from "../world-mechanic.page-type.types.ts"
-
-export type WorldCarriedMemory = WorldMechanic
 
 export const worldCarriedMemory = {
   id: "01a06558-a991-78c7-9a6d-2ab331b3a6c0",
@@ -12,4 +9,5 @@ export const worldCarriedMemory = {
   pluralSlug: "world-carried-memories",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
+  types: "ts",
 } as const satisfies PageType
