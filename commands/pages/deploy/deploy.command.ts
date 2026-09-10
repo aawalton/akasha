@@ -1,10 +1,10 @@
-import type { Command } from "../../../command.page-type.types.ts"
+import type { Command } from "../../command.page-type.types.ts"
 
-export const infrastructureDeploy = {
+export const deploy = {
   id: "01a05af7-5996-7002-bc83-446645b7de16",
   pageTypeSlug: "command",
   type: "command",
-  slug: "infrastructure-deploy",
+  slug: "deploy",
   definition: "the command putting up what a page describes",
   code: "ts",
   test: "ts",
@@ -35,7 +35,7 @@ export const infrastructureDeploy = {
     "a slug a web app and a cluster service both carry names the web app, because putting up that web app puts up the cluster service it names.",
     "a cluster service no web app names is put up here too, its manifests applied and nothing built, since it runs the image its page names.",
     "a workstation service is put up here as its systemd units, written where akasha owns them and linked where systemd reads them.",
-    "one call reaches one workstation service's own units, and the units of a service the pages no longer account for are swept by `akasha infrastructure service install --all`.",
+    "one call reaches one workstation service's own units, and the units of a service the pages no longer account for are swept by `akasha infrastructure service sweep`.",
     "an ios app is named by the `app-slug` its page states, which is its short name rather than the page's own slug.",
     "an ios app is built on the MacBook at Release at the commit `--ref` names, and the build takes its own number.",
     "`--ref` takes whatever git resolves — a branch, a tag or a sha — and a call naming none builds the commit HEAD is at.",

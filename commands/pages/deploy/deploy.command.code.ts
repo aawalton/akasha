@@ -2,10 +2,10 @@ import { putUpService } from "akasha/services/workstation-services/service-putti
 import {
   appliedWorkload,
   servableNamed,
-} from "../../../../infrastructure/cluster/services/workload-applying/workload-applying.module.code.ts"
-import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { refused } from "../../../modules/calling/calling.module.code.ts"
-import { allowedThrough } from "../../../modules/stopping/command-stopping.module.code.ts"
+} from "../../../infrastructure/cluster/services/workload-applying/workload-applying.module.code.ts"
+import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
+import { refused } from "../../modules/calling/calling.module.code.ts"
+import { allowedThrough } from "../../modules/stopping/command-stopping.module.code.ts"
 import { shipIosApp } from "./deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
   CLUSTER_SERVICE,
@@ -66,13 +66,13 @@ export function refNamed(argv: readonly string[]): RefNamed | { readonly refused
   return { ref, rest }
 }
 
-export async function infrastructureDeploy(argv: readonly string[], given: Given): Promise<Answer> {
+export async function deploy(argv: readonly string[], given: Given): Promise<Answer> {
   const taken = refNamed(argv)
   if ("refused" in taken) return refused(taken.refused, INPUT)
   const { ref, rest } = taken
   const strange = rest.find((one) => one.startsWith("-") && !FLAGS.includes(one))
   if (strange !== undefined) {
-    return refused(`\`${strange}\` is nothing \`akasha infrastructure deploy\` takes`, INPUT)
+    return refused(`\`${strange}\` is nothing \`akasha deploy\` takes`, INPUT)
   }
   const named = rest.filter((one) => !one.startsWith("-"))
   if (named.length === 0) {

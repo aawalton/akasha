@@ -113,8 +113,8 @@ if [ -f "$DISPATCHER" ]; then
   services_failed=0
   while IFS= read -r page; do
     slug="$(basename "$page" .workstation-service.ts)"
-    if ! (cd "$AKASHA" && bun "$DISPATCHER" infrastructure deploy "$slug"); then
-      echo "WARN: 'akasha infrastructure deploy $slug' failed — that service is uninstalled" >&2
+    if ! (cd "$AKASHA" && bun "$DISPATCHER" deploy "$slug"); then
+      echo "WARN: 'akasha deploy $slug' failed — that service is uninstalled" >&2
       echo "      on this box." >&2
       services_failed=1
     fi

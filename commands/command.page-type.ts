@@ -111,6 +111,7 @@ export const command = {
     "module/complexity-rowing",
     "module/calendar-eventing",
     "namespace/google",
+    "command/deploy",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

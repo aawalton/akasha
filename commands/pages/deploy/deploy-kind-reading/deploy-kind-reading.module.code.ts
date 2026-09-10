@@ -4,7 +4,7 @@ import {
   CLUSTER_SERVICE_SUFFIX,
   namedAmong,
   pagesUnder,
-} from "../../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
+} from "../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
 
 export const WEB_APP = "web-app"
 

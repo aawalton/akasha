@@ -7,7 +7,6 @@ export const infrastructure = {
   slug: "infrastructure",
   definition: "the machines, the services on them, and what puts code onto them",
   parts: [
-    "command/infrastructure-deploy",
     "command/infrastructure-dev-server",
     "command/infrastructure-loki",
     "command/infrastructure-service",

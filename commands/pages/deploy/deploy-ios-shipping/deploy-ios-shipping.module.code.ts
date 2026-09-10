@@ -12,9 +12,9 @@ import {
 import { runTestflightCut } from "akasha/alan/harness/mobile-cli/testflight-cut/testflight-cut.module.code.ts"
 import { pushBranch } from "akasha/git/pushing/git-pushing.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
-import { said } from "../../../../../git/running/git-running.module.code.ts"
-import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
-import { saidBy } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
+import { said } from "../../../../git/running/git-running.module.code.ts"
+import type { Answer } from "../../../modules/calling/calling.module.code.ts"
+import { saidBy } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const INPUT = 1
 
@@ -65,7 +65,7 @@ export function saidOfChanged(slug: string, changed: readonly string[]): string 
   const first = changed.slice(0, SHOWN_PATHS).join(", ")
   const rest = changed.length > SHOWN_PATHS ? `, and ${changed.length - SHOWN_PATHS} more` : ""
   const many = changed.length === 1 ? "file" : "files"
-  return `the worktree holds ${changed.length} tracked ${many} differing from ${WHERE_HEAD_IS} (${first}${rest}), so the commit ${WHERE_HEAD_IS} is at is not what you are looking at, and building it would leave those changes out of the app without saying so. Name the commit to build: \`akasha infrastructure deploy ${slug} --ref ${WHERE_HEAD_IS}\` builds what is committed, and committing first builds what you have.`
+  return `the worktree holds ${changed.length} tracked ${many} differing from ${WHERE_HEAD_IS} (${first}${rest}), so the commit ${WHERE_HEAD_IS} is at is not what you are looking at, and building it would leave those changes out of the app without saying so. Name the commit to build: \`akasha deploy ${slug} --ref ${WHERE_HEAD_IS}\` builds what is committed, and committing first builds what you have.`
 }
 
 export function saidOfUnpushed(root: string, ref: string): string {

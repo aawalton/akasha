@@ -28,7 +28,7 @@ export const infrastructureService = {
     "a scheduled service is reached by its timer, and one that is not by its service unit.",
     "a unit is written under your home and reached by a link systemd reads, which is how it is known to be ours.",
     "a unit of ours that the pages no longer account for is disabled and taken away by `sweep`.",
-    "putting a service's units where systemd reads them is `akasha infrastructure deploy`, which nothing here does.",
+    "putting a service's units where systemd reads them is `akasha deploy`, which nothing here does.",
     "a systemctl that refuses is carried back as a refusal rather than printed beside a success.",
   ],
   invariants: [
