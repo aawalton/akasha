@@ -20,6 +20,10 @@ export const relationProperty = {
       statement:
         "Two edges meaning different things are two relations though each edge reaches one type.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A relation's type is a slug rather than a union of the pages its target holds.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType

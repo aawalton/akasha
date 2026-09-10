@@ -24,6 +24,12 @@ const NULLABLE = "nullable"
 
 const LIST_AT = "akasha/pages/types/page-properties/page-property.page-type.ts"
 
+const RELATION = "relation-property"
+
+const SLUG_HELD = "Slug"
+
+const SLUG_AT = "akasha/pages/properties/slug.text-property.ts"
+
 const CHOSEN = new Set(["rank-property", "select-property"])
 
 const HELD = new Map<string, string>([
@@ -71,6 +77,9 @@ export function manyIn(shadow: Shadow): ReadonlySet<string> {
 export function writtenFor(kind: string, path: string, slug: string): Written | null {
   const held = HELD.get(kind)
   if (held !== undefined) return { held, imports: [] }
+  if (kind === RELATION) {
+    return { held: SLUG_HELD, imports: [`import type { ${SLUG_HELD} } from "${SLUG_AT}"`] }
+  }
   if (!CHOSEN.has(kind)) return null
   const named = exportedAs(slug)
   return {
@@ -79,10 +88,22 @@ export function writtenFor(kind: string, path: string, slug: string): Written | 
   }
 }
 
+function importedAt(line: string): string {
+  return line.slice(line.indexOf('"') + 1, line.lastIndexOf('"'))
+}
+
+function importedBefore(one: string, two: string): number {
+  const here = importedAt(one)
+  const there = importedAt(two)
+  const near = Number(here.startsWith(".")) - Number(there.startsWith("."))
+  if (near !== 0) return near
+  return here < there ? -1 : 1
+}
+
 export function bodyFor(slug: string, written: Written, many: boolean, nothing: boolean): string {
-  const imports = many
-    ? [`import type { List } from "${LIST_AT}"`, ...written.imports]
-    : [...written.imports]
+  const imports = (
+    many ? [`import type { List } from "${LIST_AT}"`, ...written.imports] : [...written.imports]
+  ).sort(importedBefore)
   const listed = many ? `List<${written.held}>` : written.held
   const said = nothing ? `${listed} | null` : listed
   const lines = [...imports, ...(imports.length === 0 ? [] : [""])]
