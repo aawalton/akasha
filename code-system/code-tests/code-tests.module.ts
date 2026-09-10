@@ -56,7 +56,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A run spending more than the files it named may is judged file by file.",
+      statement: "A run spending more than the files that run named may is judged file by file.",
     },
     {
       invariantKind: "departure",
@@ -81,7 +81,8 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A file over the ceiling is answered after the run rather than ended at it.",
+      statement:
+        "A file over the ceiling is answered after the run rather than ended at the ceiling.",
     },
     {
       invariantKind: "departure",
@@ -93,11 +94,12 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may ask what every file named spent rather than which files went over.",
+      statement:
+        "A caller may ask the seconds every file named spent rather than which files went over.",
     },
     {
       invariantKind: "departure",
-      statement: "A file answered that way is run on its own, as a file being judged is.",
+      statement: "A file answered that way is run on its own as a file being judged is.",
     },
     {
       invariantKind: "departure",
@@ -110,7 +112,7 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A run that failed or fell short or crashed is answered as that rather than as slow.",
+        "A run that failed or fell short or crashed is answered by that outcome rather than as slow.",
     },
     {
       invariantKind: "departure",
@@ -248,7 +250,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "What that overlay mounted is swept whatever the run said.",
+      statement: "The mount that overlay made is swept whatever the run said.",
     },
     {
       invariantKind: "gap",
