@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Styles } from "./properties/styles.file-property.ts"
-
-export type Stylesheet = Domain & {
-  styles: Styles
-}
 
 export const stylesheet = {
   id: "01a05b01-48b1-72b3-961d-f31190becdc7",
@@ -67,4 +61,5 @@ export const stylesheet = {
       statement: "A specifier naming a stylesheet that is not there is refused by the typechecker.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

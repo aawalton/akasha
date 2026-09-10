@@ -1,4 +1,4 @@
-import type { Stylesheet } from "@akasha/code/stylesheet"
+import type { Stylesheet } from "akasha/code-system/stylesheets/stylesheet.page-type.types.ts"
 
 export const temperWebLook = {
   id: "01a0640f-850f-7bfd-8070-ae903b54ddb0",

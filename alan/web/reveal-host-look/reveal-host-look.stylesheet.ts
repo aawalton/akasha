@@ -1,4 +1,4 @@
-import type { Stylesheet } from "@akasha/code/stylesheet"
+import type { Stylesheet } from "akasha/code-system/stylesheets/stylesheet.page-type.types.ts"
 
 export const revealHostLook = {
   id: "01a0655e-d39a-7dae-9f00-11517ad05023",

@@ -1,4 +1,4 @@
-import type { Stylesheet } from "@akasha/code/stylesheet"
+import type { Stylesheet } from "akasha/code-system/stylesheets/stylesheet.page-type.types.ts"
 
 export const motionLook = {
   id: "01a05c95-564a-7f17-9dee-cd1d1e4f129d",

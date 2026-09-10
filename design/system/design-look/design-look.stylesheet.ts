@@ -1,4 +1,4 @@
-import type { Stylesheet } from "@akasha/code/stylesheet"
+import type { Stylesheet } from "akasha/code-system/stylesheets/stylesheet.page-type.types.ts"
 
 export const designLook = {
   id: "01a05c95-5649-794d-887d-6f3f022f9c79",

@@ -1,4 +1,4 @@
-import type { Stylesheet } from "@akasha/code/stylesheet"
+import type { Stylesheet } from "akasha/code-system/stylesheets/stylesheet.page-type.types.ts"
 
 export const tokenValues = {
   id: "01a05c95-564a-74a9-b2c1-09d527a8f63e",
