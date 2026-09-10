@@ -1,4 +1,3 @@
-import { execFileSync } from "node:child_process"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { readingIn } from "@akasha/indexes"
@@ -7,6 +6,7 @@ import type { Reading } from "@akasha/indexes/shape"
 import { listedFiled, pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
+import { said } from "@akasha/utils/run/running"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { onDisk } from "./change-walking.module.code.ts"
 
@@ -59,8 +59,8 @@ export function treeWorld(): string {
   const root = worldOf([PAGE_AT, CODE_AT])
   bodyAt(root, ".gitignore", IGNORING)
   for (const path of [STRAY_AT, KEPT_AT, BUILT_AT, VENDORED_AT]) bodyAt(root, path, "held\n")
-  execFileSync("git", ["-C", root, "init", "-q"], { stdio: "ignore" })
-  execFileSync("git", ["-C", root, "add", "-A"], { stdio: "ignore" })
+  said(["git", "-C", root, "init", "-q"])
+  said(["git", "-C", root, "add", "-A"])
   return root
 }
 
