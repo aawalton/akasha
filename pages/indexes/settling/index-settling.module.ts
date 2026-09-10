@@ -106,5 +106,13 @@ export const indexSettling = {
       statement:
         "The page a name reaches is read as the change leaves that page rather than off the disk.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A change leaving an id under no name refiles the pages naming that id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page refiled for more than one reason is refiled once.",
+    },
   ],
 } as const satisfies Module

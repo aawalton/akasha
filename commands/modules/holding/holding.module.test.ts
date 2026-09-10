@@ -11,15 +11,12 @@ import type { FileChange } from "../../../changes/modules/answer/change-answer.m
 import { said as git } from "../../../git/running/git-running.module.code.ts"
 import { baseOf, landing } from "../landing/landing.module.code.ts"
 import { CARRIED, CARRIED_IN } from "../landing/landing.module.test-fixtures.ts"
-import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 
-const HERE = rootOf(import.meta.path)
+const HOLDING_AT = join(import.meta.dir, "holding.module.code.ts")
 
-const HOLDING_AT = join(HERE, "commands/modules/holding/holding.module.code.ts")
-
-const LANDING_AT = join(HERE, "commands/modules/landing/landing.module.code.ts")
+const LANDING_AT = join(import.meta.dir, "../landing/landing.module.code.ts")
 
 const scratch = scratchWorld()
 

@@ -73,5 +73,13 @@ export const besideTurning = {
       invariantKind: "absence",
       statement: "Nothing here files an entry.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An id left under no name is read from the identity entries a change files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages naming an id are read from the relation index rather than from a walk.",
+    },
   ],
 } as const satisfies Module
