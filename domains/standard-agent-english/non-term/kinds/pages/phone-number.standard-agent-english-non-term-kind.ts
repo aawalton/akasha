@@ -1,4 +1,4 @@
-import type { StandardAgentEnglishNonTermKind } from "../standard-agent-english-non-term-kind.page-type.ts"
+import type { StandardAgentEnglishNonTermKind } from "../standard-agent-english-non-term-kind.page-type.types.ts"
 
 export const phoneNumber = {
   id: "01a07c77-fb3f-7906-9344-32c4912b437d",
