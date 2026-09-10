@@ -49,7 +49,8 @@ export const jennySafetyLevel = {
     },
     {
       invariantKind: "constraint",
-      statement: "Jenny's shipped widget decodes `stoplights` as a list with at least one.",
+      statement:
+        "Jenny's shipped widget decodes `stoplights` as a list holding at least one stoplight.",
     },
     {
       invariantKind: "constraint",

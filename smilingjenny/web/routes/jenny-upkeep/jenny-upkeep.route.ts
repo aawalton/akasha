@@ -54,7 +54,7 @@ export const jennyUpkeep = {
     {
       invariantKind: "departure",
       statement:
-        "`readingHeld` names whether no reading was ever taken or the one taken went stale.",
+        "`readingHeld` names whether no reading was ever taken or the reading taken went stale.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,8 @@ export const jennyUpkeep = {
     },
     {
       invariantKind: "constraint",
-      statement: "Jenny's shipped widget decodes `stoplights` as a list with at least one.",
+      statement:
+        "Jenny's shipped widget decodes `stoplights` as a list holding at least one stoplight.",
     },
     {
       invariantKind: "constraint",

@@ -12,7 +12,8 @@ export const jennyCost = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The answering is the cost stoplight module's and the wiring is all that is here.",
+      statement:
+        "The cost stoplight module does the answering and this page does the wiring alone.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +54,8 @@ export const jennyCost = {
     },
     {
       invariantKind: "constraint",
-      statement: "Jenny's shipped widget decodes `stoplights` as a list with at least one.",
+      statement:
+        "Jenny's shipped widget decodes `stoplights` as a list holding at least one stoplight.",
     },
     {
       invariantKind: "constraint",
