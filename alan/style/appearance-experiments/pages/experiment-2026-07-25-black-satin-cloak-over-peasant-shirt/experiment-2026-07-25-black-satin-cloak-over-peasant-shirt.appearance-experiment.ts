@@ -1,4 +1,4 @@
-import type { AppearanceExperiment } from "../../appearance-experiment.page-type.ts"
+import type { AppearanceExperiment } from "../../appearance-experiment.page-type.types.ts"
 
 export const experiment20260725BlackSatinCloakOverPeasantShirt = {
   id: "019f9942-5eb1-7b0d-b9bf-3b95ba6a40ca",

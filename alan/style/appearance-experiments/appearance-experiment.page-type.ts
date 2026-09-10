@@ -1,22 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { AppearanceExperimentDay } from "./properties/appearance-experiment-day.calendar-date-property.ts"
-import type { AppearanceVerdict } from "./properties/appearance-verdict.select-property.ts"
-import type { ExperimentPersona } from "./properties/experiment-persona.relation-property.ts"
-import type { EyeRead } from "./properties/eye-read.file-property.ts"
-import type { FeltRead } from "./properties/felt-read.file-property.ts"
-import type { WhatTried } from "./properties/what-tried.file-property.ts"
-
-export type AppearanceExperiment = Page & {
-  title: Title
-  persona: ExperimentPersona
-  date: AppearanceExperimentDay
-  verdict: AppearanceVerdict
-  whatTried: WhatTried
-  eyeRead: EyeRead
-  feltRead: FeltRead
-}
 
 export const appearanceExperiment = {
   id: "01a06826-794a-7da2-8027-9f143d989e3d",
@@ -76,4 +58,5 @@ export const appearanceExperiment = {
         "Each reading is in a file beside the experiment rather than inside the experiment page.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
