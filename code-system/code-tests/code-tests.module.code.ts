@@ -43,6 +43,10 @@ const PRELOADING = "--preload"
 
 const NAMING = "--test-name-pattern"
 
+const HERE = "./"
+
+const ROOTED = "/"
+
 const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
 const NONE_NAMED = /\bmatched 0 tests\b/
@@ -223,6 +227,10 @@ export function groupedBy(root: string, named: readonly string[]): readonly Grou
   return groups
 }
 
+export function pathed(one: string): string {
+  return one.startsWith(HERE) || one.startsWith(ROOTED) ? one : `${HERE}${one}`
+}
+
 function wholeOf(name: string): string {
   return `^${name.replace(SPECIAL, "\\$&")}$`
 }
@@ -273,7 +281,7 @@ export function spentIn(
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const one of group.named) {
-      const argv = [RUNNER, RUNS, ...preloading, ...naming, one]
+      const argv = [RUNNER, RUNS, ...preloading, ...naming, pathed(one)]
       const done = runsIn(root, argv, ceiling, over)
       found.push({
         path: one,
@@ -332,7 +340,7 @@ function ranUnder(
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const batch of batchedOf(group.named)) {
-      const argv = [RUNNER, RUNS, ...preloading, ...naming, ...batch]
+      const argv = [RUNNER, RUNS, ...preloading, ...naming, ...batch.map(pathed)]
       const done = runsIn(root, argv, null, over)
       output += `${done.out}${done.err}`
       spent += done.cpuSeconds
