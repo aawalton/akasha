@@ -34,7 +34,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "67 manifests left. Folded so far: `pages`, `rules-engine`, `supabase-auth`, `utils`, `indexes`, each by `change-file` taking `manifest` off, `change-page-page-type` to `domain`, then `remove-package-manifest`; the lockfile and the root `workspace:*` entry follow. `vscode-typings` cannot: `@types/vscode` is how the typecheck resolves. Left: `pages-ui` (biome, tailwind, web manifests), `ops-extension`, `code-system`, and the addon and app pages the eso finding maps.\n",
+        "67 manifests. Folded: `pages`, `rules-engine`, `supabase-auth`, `utils`, `indexes` — `change-file` off `manifest`, `change-page-page-type` to `domain`, `remove-package-manifest`. Two cannot: `vscode-typings` and `ops-extension`, whose manifests are the mechanism, one for `@types/vscode` and one for what the editor contributes. `code-system` is those three acts away once `code-typing` splits, being over the byte ceiling. `pages-ui` carries an approved directive naming its own specifier.\n",
     },
     {
       statement: "One change replaces every relative path in a folder with an absolute path.",
