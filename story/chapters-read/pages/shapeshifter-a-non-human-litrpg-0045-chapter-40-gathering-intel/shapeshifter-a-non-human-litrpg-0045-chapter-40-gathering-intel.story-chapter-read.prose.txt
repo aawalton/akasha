@@ -1,0 +1,107 @@
+Xen felt his mithril shortsword shatter before he heard it. His entire body had been tense, prepared for the brutal backlash from the impact that never came. Instead, he fell forward unexpectedly, the sound finally reaching his ears as his prized mithril shortsword, which had served him so well until now, shattered into three pieces.
+
+He was left holding a hilt with a stub of blade on it, roughly the length of a finger.
+
+"Well, that's not good," Xen muttered as he skidded to a stop, the force from his fully loaded strike having carried his body into an impromptu spin. "But it's probably for the best." He stored away what was left of the shortsword in his slime and inspected the wound on the Guardian the blade had been sacrificed for.
+
+It was frankly pathetic. For an hour, he had been slaving away at the only exposed joint he could find. He had opened a groove in it about as deep as his forearm was thick and had paid half of his mana pool to do it, as his [Duelist's Cadence] passive required him to fire off spells to empower his next melee strike. Since his goal was to detonate the Guardian from inside with Perish, he had been focusing on affliction-inflicting skills between his melee strikes.
+
+He looked up at the behemoth to check his progress.
+
+"Appraisal."
+
+[Guardian of the Abyssal Rift (Level 109)]
+
+Afflictions: none.
+
+Still none?! Even after I managed to wound it and targeted that spot with everything I had. Xen frowned behind his mask. Would it have been any different if I picked Malediction Archon Slime at my A-grade evolution? That Hex Lattice skill might have made a difference... no wait, it only worked once I had three debuffs applied. The Guardian's magic resistance is so high, I can't even get one affliction to stick.
+
+The Guardian moved.
+
+It did not lunge. It did not roar. It simply lifted its slightly wounded foreleg, the way a man might lift his boot to look at what he had stepped in, and the shadow of it swept over Xen and kept going, and going, until it covered the crystal ridge two hundred meters behind him.
+
+Despite how slowly the Guardian's movement appeared, Xen had learned from the last hour of fighting that size made the true speed of things rather deceptive. If he didn't want to finally find out what a stomp backed by 1,417 strength looked like, he had to move. Now.
+
+"Ghoststep."
+
+He moved sideways as a blur, and the leg came down.
+
+The sound arrived after the impact—a flat, world-ending crack that he felt in his body's teeth, ribs, and the soles of his feet all at once. The obsidian plane didn't crater so much as drop, a dish-shaped depression forty meters across sinking half a meter in an instant, and the shockwave threw Xen off his feet and rolled him another thirty. He came up in a crouch with his ears ringing.
+
+Fine black dust hung in the air around the Guardian's foot, covering the battlefield in a haze.
+
+Xen stood up and brushed himself off.
+
+There was a rumble of shifting stone as the Guardian turned to face him, though with a blank face that had no eyes or mouth, but Xen didn't feel threatened now that he was out of its direct strike range. A fact he had confirmed during their fight was that the Guardian would not leave the Abyssal Rift unattended. It was to the point that he wondered if this Guardian was more of a golem crafted by the dungeon out of abyssal mana to serve a single purpose than a thinking monster.
+
+Or it just doesn't see me as a threat worth chasing. I must seem like an annoying fly to it. Not that I can blame it...
+
+He rolled his shoulders, trying to massage out some of the dull ache left behind from his repetitive strikes against its hard outer shell.
+
+"This isn't working. It's time to take a different approach," Xen mused. His mana pool, while vast, wouldn't last forever. There was also the pressing matter of the humans he left behind. While they should be fine for now, they would be wiped out if targeted again.
+
+He had to finish this quickly. But how? I've usually beaten foes until now by taking them by surprise, stacking afflictions, or abusing [Solo Hunter] to outstat them. None of those solutions will work here...
+
+What he needed was more information.
+
+The Guardian hasn't shown any magical attacks thus far, and seems to be tracking me through the ground. That means I need to take flight to get a better look at it without risk.
+
+Breaking out into a jog, he put some more distance between himself and the Guardian before crouching behind a cluster of amber crystals and mentally willed himself to shapeshift into his only flying form, the Vampiric Bat.
+
+His system didn't ask for confirmation, and there was no laborious process. As promised when he ascended to S-rank, his Shapeshift skill had upgraded from E to A grade, and he felt the effects immediately. Putrid steam billowed around him as his human body reformed into that of a Vampiric Bat within seconds.
+
+He spread his wings, and with a single mighty flap, he vaulted high into the air as a level 78 Vampiric Bat. His [Winged Flight] passive made him feel like he had always had wings, and the skill to fly came to him as naturally as breathing.
+
+The Guardian twisted its body in apparent confusion, having lost sight of him.
+
+So you really were tracking me through the ground. A skill like Geomantic Perception, perhaps?
+
+Soaring above the monstrosity, Xen finally grasped its true scale. The thing was a mountain that had learned to walk. Six immense legs carried it, and its back was ridged with the same slanted spurs as the Ashrock Colossus—but where the Colossus had been grey stone with a tree growing from its shoulder, this was obsidian covered with veins that pulsed with abyssal mana.
+
+Xen thought the abyssal mana was simply coming from within to bolster its strength and magic resistance, but upon tracing one of the veins down the Guardian's back leg that hadn't moved once during their fight, he discovered something. The tainted ground actually siphoned abyssal mana from the soles of the Guardian's feet and diverted it toward the swirling Abyssal Rift.
+
+The Guardian is feeding the rift? No, that's not quite right. Why is there abyssal mana coming off the rift and being drawn up by the Guardian too? They are just pointlessly exchanging abyssal mana. Unless... it's a closed, self-sustaining loop. The Guardian is more of a golem than a living, breathing monster. Which means I shouldn't target the golem. I should focus on breaking this loop.
+
+Xen flapped his wings and reascended into the air above the Guardian. His focus, enhanced by the Vampiric Bat's great eyesight in low lighting, honed in on the swirling Abyssal Rift.
+
+"Appraisal."
+
+[Abyssal Rift]
+
+Just like before, it was labeled with a red system message, which was unusual. It didn't have a level, description, or rarity rating. It also hurt to look at.
+
+Until now, Xen's entire focus had been on defeating the Guardian because of the system message still in the corner of his vision.
+
+[Floor 11 has been sealed in preparation for invasion. The Abyssal Rift cannot close, and the floor cannot be left while its Guardian lives]
+
+It can't be closed while the Guardian lives because the Guardian is feeding it and keeping it open. While defeating the Guardian would cause the Abyssal Rift to collapse, if I target the Abyssal Rift instead, there's a chance it weakens the Guardian. Unfortunately, this form has terrible stats, including magic at a measly 234, but I have over 450 magic as a slime to add to that, meaning I should still pack quite the punch. Let's see what striking the Abyssal Rift directly does.
+
+"Stormcall."
+
+Mana condensed around him to form a storm. The Guardian below didn't react, further confirming its blindness to anything not in contact with the ground.
+
+Once the storm was done forming, Xen targeted the Abyssal Rift that was free-floating where the obsidian tower had once been.
+
+"Radiant Lightning!"
+
+A bolt of lightning arced out of the cloud, illuminating the entire cavern in a flash of white as it cleanly struck the Abyssal Rift. It didn't stop there, and crackled across the surface of the swirling rift before being finally swallowed by the abyssal mana.
+
+There was no indication of damage to the Abyssal Rift, but it certainly got a reaction out of the Guardian. It couldn't roar, as it lacked a mouth, but it did show its displeasure by sending out a ground-shattering quake and rising onto its hind legs.
+
+It wants to block my attacks on the rift.
+
+Xen unleashed another barrage of lightning from his storm, and then another. He went for a third, but the Guardian's immense silhouette rose to protect the rift.
+
+It's like a living wall, Xen mused as he glided to the other unprotected side and released another bolt of lightning from his body, as his storm hadn't followed him.
+
+The Guardian shattered the ground again and shifted one of its limbs over the portal and onto the other side to block.
+
+A persistent living wall, and I'm not even sure if my attacks are doing much to damage the rift.
+
+He had to think of another way.
+
+Hold on, I haven't tried flying into the Abyssal Rift yet.
+
+Folding his wings, he dove down towards it. Just to be safe, he activated his A-grade skill, Abyssal Carapace. His fur hardened into a layered shell of chitin reinforced with abyssal mana, significantly reducing his agility, but boosting his resistances, especially against the abyss.
+
+The air screamed past his ears as he impacted the Abyssal Rift like a speeding bullet.
