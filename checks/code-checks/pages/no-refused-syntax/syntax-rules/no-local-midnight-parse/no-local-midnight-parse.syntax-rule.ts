@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noLocalMidnightParse = {
   id: "01a0502e-ff9d-7175-a105-c6d1db716e4b",

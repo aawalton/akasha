@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noVoidReturn = {
   id: "01a0502e-a144-778b-8b3c-5e4f4be4713d",

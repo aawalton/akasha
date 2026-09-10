@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noScrubBashEnvUndoes = {
   id: "01a08230-0014-772b-9adf-c9c4f73e3f7d",

@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noAkashaCommandFromCode = {
   id: "01a05a75-206d-71dc-87f5-7b633a8f8658",

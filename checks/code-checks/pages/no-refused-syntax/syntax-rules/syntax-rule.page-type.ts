@@ -1,11 +1,5 @@
-import type { Module } from "@akasha/code/module"
-import type { Test } from "@akasha/code/module/test"
 import type { PageType } from "@akasha/pages/page-type"
 import type { SourceFile } from "typescript"
-
-export type SyntaxRule = Module & {
-  test: Test
-}
 
 export type Given = {
   readonly path: string
@@ -86,4 +80,5 @@ export const syntaxRule = {
       statement: "A rule not ready to judge is not written.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

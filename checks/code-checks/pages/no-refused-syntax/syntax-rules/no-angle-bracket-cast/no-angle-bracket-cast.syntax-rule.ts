@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noAngleBracketCast = {
   id: "01a05964-deb4-78ba-943a-0870780ca4d5",

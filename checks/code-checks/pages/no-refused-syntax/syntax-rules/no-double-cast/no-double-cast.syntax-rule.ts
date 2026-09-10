@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noDoubleCast = {
   id: "01a05014-65e2-7fd3-9e14-ba32ad61ae6b",

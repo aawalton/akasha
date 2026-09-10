@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noVoidSelfInObjectMethod = {
   id: "01a05031-0197-7c3c-a886-b0297dd3adcf",

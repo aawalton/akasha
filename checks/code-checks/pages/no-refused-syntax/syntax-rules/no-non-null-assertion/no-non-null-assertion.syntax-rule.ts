@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noNonNullAssertion = {
   id: "01a05964-deb4-7557-82b0-293c12e0bf59",

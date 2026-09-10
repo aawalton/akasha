@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noSopsOnDevStdin = {
   id: "01a05030-b05f-71d0-a3cd-58a70fd8efa0",

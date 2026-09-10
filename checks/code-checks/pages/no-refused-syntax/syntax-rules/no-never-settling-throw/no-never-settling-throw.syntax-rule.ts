@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noNeverSettlingThrow = {
   id: "01a082d0-eb31-7c7b-922a-bfc7e90577a2",

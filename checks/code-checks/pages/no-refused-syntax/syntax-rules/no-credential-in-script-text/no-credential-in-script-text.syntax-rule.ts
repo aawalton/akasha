@@ -1,4 +1,4 @@
-import type { SyntaxRule } from "../syntax-rule.page-type.ts"
+import type { SyntaxRule } from "../syntax-rule.page-type.types.ts"
 
 export const noCredentialInScriptText = {
   id: "01a05031-fa74-7d24-87db-885dfcb18a31",
