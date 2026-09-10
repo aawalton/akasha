@@ -1,0 +1,143 @@
+import { expect, test } from "bun:test"
+import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { reasonsIn, type Stands } from "./require-import-extension.code-check.decision.code.ts"
+
+const ROOT = "/repo"
+
+const given = bodiesIn(ROOT)
+
+const ALWAYS: Stands = () => true
+
+const NOTHING: Stands = () => false
+
+test("a relative import carrying its extension is let through", () => {
+  const body = 'import { one } from "./ledger.module.code.ts"\n'
+  const said = reasonsIn(ALWAYS)(
+    given("akasha/checks/modules/checking/checking.module.code.ts", body)
+  )
+  expect(said).toEqual([])
+})
+
+test("a relative import written bare is refused, and names the specifier", () => {
+  const body = 'import { one } from "./ledger.module.code"\n'
+  const said = reasonsIn(ALWAYS)(given("akasha/held.ts", body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`./ledger.module.code`")
+  expect(said[0]).toContain("without the `.ts` or `.tsx` or `.css` extension")
+})
+
+test("a relative import of a body written with JSX carries `.tsx`, and is let through", () => {
+  const body = 'import { Ring } from "./ring.module.code.tsx"\n'
+  expect(reasonsIn(ALWAYS)(given("akasha/held.tsx", body))).toEqual([])
+})
+
+test("a relative import of a stylesheet carries `.css`, and is let through", () => {
+  const body = 'import "./ring.stylesheet.styles.css"\n'
+  expect(reasonsIn(ALWAYS)(given("akasha/held.tsx", body))).toEqual([])
+})
+
+test("a body written with JSX is judged, so a bare specifier in one is refused", () => {
+  const body = 'import { Ring } from "./ring.module.code"\n'
+  expect(reasonsIn(ALWAYS)(given("akasha/held.tsx", body))).toHaveLength(1)
+})
+
+test("a package is not this check's business, however it is spelled", () => {
+  const body = [
+    'import ts from "typescript"',
+    'import { readFileSync } from "node:fs"',
+    'import { test } from "bun:test"',
+    'import { one } from "@shared/pages-query"',
+  ].join("\n")
+  expect(reasonsIn(ALWAYS)(given("akasha/held.ts", body))).toEqual([])
+})
+
+test("a specifier climbing to a parent folder is judged the same as one beside it", () => {
+  const body = 'import { one } from "../../write-system/ledger"\n'
+  expect(reasonsIn(ALWAYS)(given("akasha/a/b/held.ts", body))).toHaveLength(1)
+})
+
+test("a type-only import written bare is refused the same as a value one", () => {
+  const body = 'import type { One } from "./check.page-type"\n'
+  expect(reasonsIn(ALWAYS)(given("akasha/held.ts", body))).toHaveLength(1)
+})
+
+test("a re-export, a dynamic import and a require are all judged", () => {
+  const body = [
+    'export { one } from "./a"',
+    'const two = await import("./b")',
+    'const three = require("./c")',
+  ].join("\n")
+  expect(reasonsIn(ALWAYS)(given("akasha/held.ts", body))).toHaveLength(3)
+})
+
+test("an extension that is not `.ts` does not answer for the one this folder writes", () => {
+  const body = ['import a from "./one.js"', 'import b from "./two.json"'].join("\n")
+  expect(reasonsIn(ALWAYS)(given("akasha/held.ts", body))).toHaveLength(2)
+})
+
+test("a file that is not TypeScript is passed over", () => {
+  const body = 'import { one } from "./a"\n'
+  expect(reasonsIn(ALWAYS)(given("akasha/notes.txt", body))).toEqual([])
+})
+
+test("a body that is not text refuses rather than being passed over", () => {
+  const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
+  expect(() => reasonsIn(ALWAYS)(held)).toThrow("akasha/raw.ts")
+  expect(() => reasonsIn(ALWAYS)(held)).toThrow("not valid UTF-8")
+})
+
+test("a string that merely looks like a specifier is not one", () => {
+  const body = ['import { a } from "./one.ts"', 'const b = "./not-an-import"'].join("\n")
+  expect(reasonsIn(ALWAYS)(given("akasha/held.ts", body))).toEqual([])
+})
+
+test("a whole-folder re-export written bare is refused", () => {
+  expect(reasonsIn(ALWAYS)(given("akasha/held.ts", 'export * from "./a"\n'))).toHaveLength(1)
+})
+
+test("a specifier written in a type position is judged the same as one written above", () => {
+  const body = 'type One = import("./held").One\n'
+  expect(reasonsIn(ALWAYS)(given("akasha/held.ts", body))).toHaveLength(1)
+})
+
+test("an import taken for its effect alone is judged", () => {
+  expect(reasonsIn(ALWAYS)(given("akasha/held.ts", 'import "./a"\n'))).toHaveLength(1)
+})
+
+test("a specifier reaching down into a folder is judged by its own ending", () => {
+  const body = ['import a from "./one/two.ts"', 'import b from "./one/two"'].join("\n")
+  expect(reasonsIn(ALWAYS)(given("akasha/held.ts", body))).toHaveLength(1)
+})
+
+test("a bare specifier no file stands at is passed over, its module being supplied elsewhere", () => {
+  const body = 'import type { Route } from "./+types/root"\n'
+  expect(reasonsIn(NOTHING)(given("akasha/held.tsx", body))).toEqual([])
+})
+
+test("a bare specifier is refused where the file it names stands", () => {
+  const stands: Stands = (at) => at === "akasha/ledger.module.code.ts"
+  const body = 'import { one } from "./ledger.module.code"\n'
+  expect(reasonsIn(stands)(given("akasha/held.ts", body))).toHaveLength(1)
+})
+
+test("a bare specifier is judged by every ending this folder writes, not by `.ts` alone", () => {
+  const stands: Stands = (at) => at === "akasha/ring.module.code.tsx"
+  const body = 'import { Ring } from "./ring.module.code"\n'
+  expect(reasonsIn(stands)(given("akasha/held.tsx", body))).toHaveLength(1)
+})
+
+test("an extension that is not this folder's is refused where the file named is one of ours", () => {
+  const stands: Stands = (at) => at === "akasha/one.ts" || at === "akasha/two.ts"
+  const body = ['import a from "./one.js"', 'import b from "./two.json"'].join("\n")
+  expect(reasonsIn(stands)(given("akasha/held.ts", body))).toHaveLength(2)
+})
+
+test("dots inside a bare specifier's name are not read as an extension it carries", () => {
+  const body = 'import type { Route } from "./+types/api.locations.ingest"\n'
+  expect(reasonsIn(NOTHING)(given("akasha/routes/held.ts", body))).toEqual([])
+})
+
+test("a declaration file is judged, because its name ends in `.ts`", () => {
+  const body = 'declare module "./a" {\n}\n'
+  expect(reasonsIn(ALWAYS)(given("akasha/held.d.ts", body))).toEqual([])
+})
