@@ -54,7 +54,7 @@ export const inventorySettingsAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "A blob is written indented, so a change to one setting diffs as a few lines.",
+      statement: "A blob is written indented.",
     },
   ],
 } as const satisfies Module

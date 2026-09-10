@@ -35,7 +35,7 @@ export const skillPointPublicDungeons = {
     {
       invariantKind: "gap",
       statement:
-        "The order these entries are written in is kept by hand, not taken from the sources.",
+        "The order these entries are written in is kept by hand rather than taken from the sources.",
     },
     {
       invariantKind: "gap",
