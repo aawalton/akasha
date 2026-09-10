@@ -1,18 +1,4 @@
-import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Entries } from "../checks/code-checks/properties/entries.file-property.ts"
-import type { ChangeKind } from "./properties/change-kind.relation-property.ts"
-import type { HelpNotes } from "./properties/help-notes.text-property.ts"
-import type { Taking } from "./properties/taking.record-property.ts"
-import type { Timeout } from "./properties/timeout.number-property.ts"
-
-export type Command = Module & {
-  changeKind: ChangeKind
-  timeout?: Timeout
-  taking?: Taking
-  helpNotes?: HelpNotes
-  entries?: Entries
-}
 
 export const command = {
   id: "01a04bdd-596d-7b81-9204-1a882f474a5f",
@@ -189,4 +175,5 @@ export const command = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const temperCatalogInvalidate = {
   id: "01a0603c-c1cc-7794-96f8-1e11cbb069b9",

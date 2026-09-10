@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const initiativeMoveIntent = {
   id: "01a081e5-4603-78f0-8295-3ee2947edb01",

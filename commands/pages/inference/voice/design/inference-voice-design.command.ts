@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const inferenceVoiceDesign = {
   id: "01a0685e-fd50-7904-a9a9-f7caf17947c0",

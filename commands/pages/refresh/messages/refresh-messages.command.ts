@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const refreshMessages = {
   id: "01a082fe-341d-7593-8cfd-8216a7e94c2c",

@@ -1,4 +1,4 @@
-import type { Command } from "../../../../../command.page-type.ts"
+import type { Command } from "../../../../../command.page-type.types.ts"
 
 export const temperInventoryMasterWritProbe = {
   id: "01a0603c-c1d5-7ba7-b43c-d88542cae62f",

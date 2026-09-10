@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const temperErrorsList = {
   id: "01a0603c-c1cd-7e91-9eb8-0b6cf8d8b9e5",

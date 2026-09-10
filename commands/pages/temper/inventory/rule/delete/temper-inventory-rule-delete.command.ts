@@ -1,4 +1,4 @@
-import type { Command } from "../../../../../command.page-type.ts"
+import type { Command } from "../../../../../command.page-type.types.ts"
 
 export const temperInventoryRuleDelete = {
   id: "01a0603c-c1d7-71ff-becd-5055afe65a24",

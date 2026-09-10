@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const refreshAttributes = {
   id: "01a08209-d5d9-7d6a-8ba8-e42a8b51316b",

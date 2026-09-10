@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const temperEsoTypingsAudit = {
   id: "01a0685d-f8fa-7053-bb0f-5165c5bbb41a",

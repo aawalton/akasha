@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const temperUpstreamDataPort = {
   id: "01a0603c-c1da-795b-8baf-e00c1b4eb588",

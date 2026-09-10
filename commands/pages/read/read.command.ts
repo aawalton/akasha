@@ -1,4 +1,4 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../command.page-type.types.ts"
 
 export const read = {
   id: "01a04bec-10b4-7e86-aeae-ed252396f186",

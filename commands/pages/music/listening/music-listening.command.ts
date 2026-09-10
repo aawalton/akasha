@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const musicListening = {
   id: "01a062f8-fe5a-7001-ae4a-4ede334b81af",

@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const claudeAccountReEnable = {
   id: "01a06861-b463-71ad-922e-5b006cdebd6f",

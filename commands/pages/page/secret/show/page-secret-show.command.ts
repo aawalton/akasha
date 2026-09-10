@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const pageSecretShow = {
   id: "01a06812-3ce8-715d-a904-1eb88e02bd62",

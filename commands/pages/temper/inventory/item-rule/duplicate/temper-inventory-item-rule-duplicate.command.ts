@@ -1,4 +1,4 @@
-import type { Command } from "../../../../../command.page-type.ts"
+import type { Command } from "../../../../../command.page-type.types.ts"
 
 export const temperInventoryItemRuleDuplicate = {
   id: "01a0603c-c1d3-7aad-9ae3-451fe2454676",

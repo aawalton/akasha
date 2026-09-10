@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const trackSessionCheck = {
   id: "01a07979-80d5-721b-946b-81f11c2413ab",

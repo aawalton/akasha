@@ -1,4 +1,4 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../command.page-type.types.ts"
 
 export const performance = {
   id: "01a08788-54c2-76bf-801e-e29fd3f5aa9a",

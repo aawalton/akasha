@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const talosHealth = {
   id: "01a06810-1f0b-7aac-ab38-a6658f91ee11",

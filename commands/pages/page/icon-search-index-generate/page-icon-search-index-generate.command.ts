@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const pageIconSearchIndexGenerate = {
   id: "01a06862-06c8-7004-83db-2d1d50b06017",

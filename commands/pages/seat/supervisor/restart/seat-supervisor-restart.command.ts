@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const seatSupervisorRestart = {
   id: "01a0797a-9a55-76c0-be3e-c9b1dfbef462",

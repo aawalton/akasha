@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const browserTestVerifyRender = {
   id: "01a06862-06c8-7001-8a4c-2018f029da13",

@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const trackHealthImport = {
   id: "01a0620c-6340-70c9-a176-730aa9470e96",

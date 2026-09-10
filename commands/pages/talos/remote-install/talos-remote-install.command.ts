@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const talosRemoteInstall = {
   id: "01a06810-1f0b-741e-a044-c84fec558b56",

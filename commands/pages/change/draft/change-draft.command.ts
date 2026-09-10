@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const changeDraft = {
   id: "01a08179-3176-7aa0-8d0b-d07d8da49eb2",

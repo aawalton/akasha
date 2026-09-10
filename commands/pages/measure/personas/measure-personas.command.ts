@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const measurePersonas = {
   id: "01a082e9-18fb-7213-bd29-f105c8f9dd20",

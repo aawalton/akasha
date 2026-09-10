@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const measureLearning = {
   id: "01a077fb-4ca8-7027-80b1-85c446d6786a",

@@ -1,4 +1,4 @@
-import type { Command } from "../../../../../command.page-type.ts"
+import type { Command } from "../../../../../command.page-type.types.ts"
 
 export const temperEsoGenerateHudSceneCatalog = {
   id: "01a0685d-f8fa-75a7-b5b7-54361655f76a",

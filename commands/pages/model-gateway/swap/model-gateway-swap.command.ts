@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const modelGatewaySwap = {
   id: "01a07c0e-7ae3-7f8a-935d-ab6589ed46e5",

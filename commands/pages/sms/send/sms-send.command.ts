@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const smsSend = {
   id: "01a0685f-c8ed-7008-b892-0bc284782555",

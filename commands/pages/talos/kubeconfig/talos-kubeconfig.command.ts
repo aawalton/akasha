@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const talosKubeconfig = {
   id: "01a06810-1f0b-744f-aff5-3618b540bf6c",

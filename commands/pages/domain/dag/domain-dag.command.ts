@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const domainDag = {
   id: "01a07c03-8a7b-7661-a70a-f3c561dbfe12",

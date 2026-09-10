@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const temperCatalogList = {
   id: "01a06034-110c-7dfa-aceb-1292658c99c3",

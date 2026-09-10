@@ -1,4 +1,4 @@
-import type { Command } from "../../../../../command.page-type.ts"
+import type { Command } from "../../../../../command.page-type.types.ts"
 
 export const temperEsoGenerateChatterNames = {
   id: "01a0685d-f8fa-7c84-afa7-42c2af785557",

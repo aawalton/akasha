@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const smsActingAccount = {
   id: "01a0685f-c8ed-7007-a130-cda36891535f",

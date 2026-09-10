@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const temperInventorySnapshot = {
   id: "01a0603c-c1d9-7ef8-acb9-f19095076d6e",

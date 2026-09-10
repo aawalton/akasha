@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const temperUpstreamDataVerify = {
   id: "01a0603c-c1da-7a8b-ad5e-79907918ed2a",

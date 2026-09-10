@@ -1,4 +1,4 @@
-import type { Command } from "../../command.page-type.ts"
+import type { Command } from "../../command.page-type.types.ts"
 
 export const iosApp = {
   id: "01a059ba-a798-7c72-b37c-b3b3cdfc33a9",

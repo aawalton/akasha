@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const emailAuthLogin = {
   id: "01a06810-cf11-7af8-af8d-36910776aabe",

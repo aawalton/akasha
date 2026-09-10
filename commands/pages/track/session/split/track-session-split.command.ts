@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const trackSessionSplit = {
   id: "01a07979-7fe5-72fa-8982-e069a28c90c2",

@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const infrastructureService = {
   id: "01a05a66-caa0-72a3-8f49-29ab09a8de77",

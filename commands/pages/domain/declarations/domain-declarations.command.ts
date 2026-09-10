@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const domainDeclarations = {
   id: "01a07c03-ab2b-79aa-bfa7-3e62543a4164",

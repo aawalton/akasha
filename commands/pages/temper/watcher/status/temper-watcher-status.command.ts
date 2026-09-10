@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const temperWatcherStatus = {
   id: "01a0603c-c1da-7d6c-b921-40b273376503",

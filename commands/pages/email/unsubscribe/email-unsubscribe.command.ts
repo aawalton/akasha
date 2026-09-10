@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const emailUnsubscribe = {
   id: "01a06810-cf11-7b83-a5f8-81736bc497fb",

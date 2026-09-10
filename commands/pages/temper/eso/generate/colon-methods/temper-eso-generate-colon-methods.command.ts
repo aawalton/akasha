@@ -1,4 +1,4 @@
-import type { Command } from "../../../../../command.page-type.ts"
+import type { Command } from "../../../../../command.page-type.types.ts"
 
 export const temperEsoGenerateColonMethods = {
   id: "01a0685d-f8fa-7dc8-bf64-5a62864e6dbb",

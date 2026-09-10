@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const changeDrop = {
   id: "01a08175-75cb-75dc-a288-942c054573f9",

@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const infrastructureShellInitBash = {
   id: "01a0680a-fa30-7da6-aede-88d6a9a5e49a",

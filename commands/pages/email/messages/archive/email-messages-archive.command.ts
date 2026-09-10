@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const emailMessagesArchive = {
   id: "01a06810-cf11-73ba-92ff-d42a84a458ee",

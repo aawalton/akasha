@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const inferenceVideoQa = {
   id: "01a0685e-fd50-7d17-9486-a30db6114780",

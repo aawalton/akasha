@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const temperAutoQuestTrace = {
   id: "01a0603c-c1cb-7f65-8427-70fc0c00d3cf",

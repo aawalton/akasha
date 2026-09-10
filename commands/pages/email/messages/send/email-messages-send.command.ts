@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const emailMessagesSend = {
   id: "01a06810-cf11-717b-8bb7-cfc22b009ed1",

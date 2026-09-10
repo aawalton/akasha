@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const mobileCutStatus = {
   id: "01a0685d-ceae-7003-b691-5ac97b0f647a",

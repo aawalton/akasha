@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const mobileSimTap = {
   id: "01a0685d-ceae-700d-a860-a518622e0d4a",

@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const imessageContacts = {
   id: "01a0685f-c8ed-7001-8968-6b6c199596e3",

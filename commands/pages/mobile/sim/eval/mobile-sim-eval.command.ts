@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const mobileSimEval = {
   id: "01a0685d-ceae-7007-b4f3-e21611c10292",

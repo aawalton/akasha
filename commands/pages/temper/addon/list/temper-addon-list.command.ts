@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const temperAddonList = {
   id: "01a0603c-c1ca-7749-a8e8-ffbbcbf15e84",

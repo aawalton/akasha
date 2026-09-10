@@ -1,4 +1,4 @@
-import type { Command } from "../../../../command.page-type.ts"
+import type { Command } from "../../../../command.page-type.types.ts"
 
 export const temperAddonGlobalNameDependents = {
   id: "01a0603c-c1ca-77a6-9408-76d7485c7dcf",

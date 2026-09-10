@@ -1,4 +1,4 @@
-import type { Command } from "../../../command.page-type.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
 export const alanTracking = {
   id: "01a06057-f714-707b-acab-a560208ffcd3",
