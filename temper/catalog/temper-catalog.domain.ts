@@ -12,7 +12,7 @@ export const temperCatalog = {
     "domain/temper-effects",
     "domain/temper-gear",
     "domain/temper-pursuits",
-    "domain/temper-skills",
+    "domain/temper-skill",
     "domain/temper-world",
     "page-type/temper-catalog-thing",
   ],
