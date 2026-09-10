@@ -118,19 +118,26 @@ export async function loggedAt(at: string, within: number): Promise<string> {
 
 export const STAMP = /^(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}[+-]\d{2}:\d{2}) /
 
-export function stampOpening(line: string): Date | null {
-  const read = STAMP.exec(line)
-  if (read === null) return null
-  const held = Date.parse(read[1] ?? "")
+function parseStampDate(found: RegExpExecArray | null): Date | null {
+  if (found === null) return null
+  const held = Date.parse(found[1] ?? "")
   return Number.isNaN(held) ? null : new Date(held)
+}
+
+export function stampOpening(line: string): Date | null {
+  return parseStampDate(STAMP.exec(line))
 }
 
 export function pastTheStamp(line: string): string {
   return line.replace(STAMP, "")
 }
 
+function parseBodyId(found: RegExpExecArray | null): string | null {
+  return found?.[1] ?? null
+}
+
 export function idIn(body: string): string | null {
-  return /\n {2}id: "([^"]+)",/.exec(body)?.[1] ?? null
+  return parseBodyId(/\n {2}id: "([^"]+)",/.exec(body))
 }
 
 export function landedUnder(root: string, seatName: string, own: string): string {
