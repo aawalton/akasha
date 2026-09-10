@@ -13,10 +13,11 @@ export interface RepoAt {
 export function buildInputSources(
   app: MobileApp,
   code: RepoAt,
-  shell: RepoAt
+  shell: RepoAt,
+  shared: readonly string[]
 ): readonly TreeSource[] {
   return [
     { root: code.root, ref: code.ref, paths: CODE_BUILD_INPUT_PATHS },
-    { root: shell.root, ref: shell.ref, paths: simRunSourceRepoPaths(app) },
+    { root: shell.root, ref: shell.ref, paths: simRunSourceRepoPaths(app, shared) },
   ]
 }

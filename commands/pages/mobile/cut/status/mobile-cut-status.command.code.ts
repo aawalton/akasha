@@ -13,6 +13,7 @@ import {
 } from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import { shellRepoRoot } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { simRunSharedRepoPaths } from "akasha/alan/harness/mobile-cli/sim-run-tree/sim-run-tree.module.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   APP_SAID,
@@ -65,7 +66,12 @@ async function compared(read: Read): Promise<Answer> {
   const current: CurrentTreeState = {
     mainSha,
     buildInputTreeHash: computeBuildInputTreeHash(
-      buildInputSources(read.app, { root: repoRoot, ref: MAIN }, { root: shellRoot, ref: MAIN })
+      buildInputSources(
+        read.app,
+        { root: repoRoot, ref: MAIN },
+        { root: shellRoot, ref: MAIN },
+        simRunSharedRepoPaths()
+      )
     ),
   }
 

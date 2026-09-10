@@ -40,8 +40,11 @@ export function simRunSharedRepoPaths(): readonly string[] {
   return shared.files
 }
 
-export function simRunSourceRepoPaths(app: MobileApp): readonly string[] {
-  return [shellRepoPath(app), ...simRunSharedRepoPaths()]
+export function simRunSourceRepoPaths(
+  app: MobileApp,
+  shared: readonly string[]
+): readonly string[] {
+  return [shellRepoPath(app), ...shared]
 }
 
 export function simRunNativeShellDir(app: MobileApp): string {
@@ -63,7 +66,7 @@ export async function deliverSimRunTree(opts: {
   const root = simRunRootRel(app)
   const shell = shellRepoPath(app)
   const shared = simRunSharedRepoPaths()
-  const wanted = [shell, ...shared]
+  const wanted = simRunSourceRepoPaths(app, shared)
   const missing = wanted.filter((rel) => !existsSync(join(repoRoot, rel)))
   if (missing.length > 0) {
     throw new InputError(

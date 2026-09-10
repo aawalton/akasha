@@ -36,6 +36,7 @@ import { parseAssignedBuildNumber } from "../mac-build-serialization/mac-build-s
 import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
 import { type MobileApp, shellRepoRoot } from "../mobile-app/mobile-app.module.code.ts"
 import { rsyncToHost, runSshResult } from "../mobile-ssh/mobile-ssh.module.code.ts"
+import { simRunSharedRepoPaths } from "../sim-run-tree/sim-run-tree.module.code.ts"
 import { buildTestflightDeployScript } from "../testflight-deploy-script/testflight-deploy-script.module.code.ts"
 import {
   describeProcessingFailure,
@@ -261,7 +262,8 @@ export async function runTestflightCut(opts: {
       buildInputSources(
         app,
         { root: codeRepoRoot, ref: mainSha },
-        { root: shellRoot, ref: cutCommit }
+        { root: shellRoot, ref: cutCommit },
+        simRunSharedRepoPaths()
       )
     ),
     cutAt: new Date().toISOString(),

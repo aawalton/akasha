@@ -49,7 +49,7 @@ describe("shellRepoPath", () => {
 })
 
 describe("simRunSourceRepoPaths", () => {
-  const paths = simRunSourceRepoPaths(APP)
+  const paths = simRunSourceRepoPaths(APP, simRunSharedRepoPaths())
 
   test("delivers the app's own shell first", () => {
     expect(paths[0]).toBe("native-shell/example")

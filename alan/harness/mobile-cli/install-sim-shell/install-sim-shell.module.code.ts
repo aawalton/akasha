@@ -16,6 +16,7 @@ import { buildInstallScript, parseInstalledUdid } from "../sim-macbook/sim-macbo
 import {
   deliverSimRunTree,
   simRunNativeShellDir,
+  simRunSharedRepoPaths,
   simRunSourceRepoPaths,
   stampCommitOf,
 } from "../sim-run-tree/sim-run-tree.module.code.ts"
@@ -52,7 +53,7 @@ export async function installSimShell(opts: InstallSimShellOptions): Promise<str
 
   const repoRoot = resolveRepoRoot(shellRepoRoot(app))
   const spaRoot = resolveRepoRoot(codeRoot())
-  const stampCommit = stampCommitOf(repoRoot, simRunSourceRepoPaths(app))
+  const stampCommit = stampCommitOf(repoRoot, simRunSourceRepoPaths(app, simRunSharedRepoPaths()))
   report(`Building ${app.slug} from ${repoRoot} at ${stampCommit}\n`)
 
   if (skipStage) {

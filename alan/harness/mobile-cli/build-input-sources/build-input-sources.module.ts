@@ -17,5 +17,13 @@ export const buildInputSources = {
       invariantKind: "departure",
       statement: "The code side names a fixed path list that no app varies.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The files every shell compiles are handed in rather than looked up here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a checkout to find what a build is made from.",
+    },
   ],
 } as const satisfies Module

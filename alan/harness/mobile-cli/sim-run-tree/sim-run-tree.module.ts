@@ -22,6 +22,14 @@ export const simRunTree = {
       statement: "The pages every shell compiles reach the macbook as the files those pages carry.",
     },
     {
+      invariantKind: "departure",
+      statement: "The files every shell compiles are read from the akasha checkout on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Composing the paths a run is built from reads no checkout.",
+    },
+    {
       invariantKind: "absence",
       statement: "No page's own TypeScript file reaches the macbook.",
     },

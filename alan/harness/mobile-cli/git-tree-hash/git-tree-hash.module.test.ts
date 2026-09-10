@@ -72,10 +72,12 @@ function commitEdit(root: string, path: string, contents: string): undefined {
   return undefined
 }
 
+const SHARED: readonly string[] = []
+
 function hashOf(codeRoot: string, shellRoot: string): string {
-  return computeBuildInputTreeHash(
-    buildInputSources(APP, { root: codeRoot, ref: "HEAD" }, { root: shellRoot, ref: "HEAD" })
-  )
+  const code = { root: codeRoot, ref: "HEAD" }
+  const shell = { root: shellRoot, ref: "HEAD" }
+  return computeBuildInputTreeHash(buildInputSources(APP, code, shell, SHARED))
 }
 
 function bothRepos(): { codeRoot: string; shellRoot: string; cleanup: () => void } {
