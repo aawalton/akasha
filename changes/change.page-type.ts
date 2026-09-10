@@ -20,6 +20,7 @@ export const change = {
     "module/page-knowing",
     "module/page-literal",
     "module/literal-splicing",
+    "module/import-lines",
     "module/package-naming",
     "module/json-entries",
     "module/change-answer",

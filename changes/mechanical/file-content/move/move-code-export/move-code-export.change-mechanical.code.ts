@@ -5,6 +5,17 @@ import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reachi
 import ts from "typescript"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
+import {
+  anchorIn,
+  type Carried,
+  importsIn,
+  lineFor,
+  namedIn,
+  namesIn,
+  namingOf,
+  openedIn,
+  withoutOne,
+} from "../../../../modules/import-lines/import-lines.module.code.ts"
 import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_FILE_CODE = "change-mechanical/add-file-code"
@@ -69,56 +80,8 @@ function typed(declared: Held): boolean {
   return ts.isTypeAliasDeclaration(declared) || ts.isInterfaceDeclaration(declared)
 }
 
-function spelt(one: ts.Identifier): boolean {
-  const up = one.parent
-  if (ts.isImportSpecifier(up) || ts.isImportClause(up) || ts.isNamespaceImport(up)) return true
-  if (ts.isPropertyAccessExpression(up) && up.name === one) return true
-  if (ts.isPropertyAssignment(up) && up.name === one) return true
-  return ts.isPropertySignature(up) && up.name === one
-}
-
-function namesIn(held: ts.Node): readonly string[] {
-  const found: string[] = []
-  const walked = (one: ts.Node): undefined => {
-    if (ts.isTypeReferenceNode(one) && ts.isIdentifier(one.typeName)) found.push(one.typeName.text)
-    if (ts.isIdentifier(one) && !spelt(one)) found.push(one.text)
-    return ts.forEachChild(one, walked)
-  }
-  walked(held)
-  return found
-}
-
-function namedIn(one: ts.ImportDeclaration): ts.NamedImports | null {
-  const bound = one.importClause?.namedBindings
-  return bound !== undefined && ts.isNamedImports(bound) ? bound : null
-}
-
-function namingOf(each: ts.ImportSpecifier): string {
-  return (each.propertyName ?? each.name).text
-}
-
 function textOfNode(text: string, one: ts.Node): string {
   return text.slice(one.getStart(one.getSourceFile()), one.getEnd())
-}
-
-type Carried = {
-  readonly from: string
-  readonly type: boolean
-}
-
-function importsIn(source: ts.SourceFile): ReadonlyMap<string, Carried> {
-  const found = new Map<string, Carried>()
-  for (const one of source.statements) {
-    if (!ts.isImportDeclaration(one)) continue
-    const bound = namedIn(one)
-    const named = one.moduleSpecifier
-    if (bound === null || !ts.isStringLiteral(named)) continue
-    const whole = one.importClause?.isTypeOnly === true
-    for (const each of bound.elements) {
-      found.set(each.name.text, { from: named.text, type: whole || each.isTypeOnly })
-    }
-  }
-  return found
 }
 
 function carriedIn(declared: Held): ReadonlyMap<string, Carried> {
@@ -129,10 +92,6 @@ function carriedIn(declared: Held): ReadonlyMap<string, Carried> {
     if (named !== undefined) found.set(name, named)
   }
   return found
-}
-
-function lineFor(name: string, spelled: string, type: boolean): string {
-  return `import ${type ? "type " : ""}{ ${name} } from ${JSON.stringify(spelled)}`
 }
 
 function spelledFor(given: Asked, from: string): string {
@@ -152,21 +111,6 @@ function bodyFor(carried: ReadonlyMap<string, Carried>, passage: string, given: 
     .map(([name, named]) => lineFor(name, spelledFor(given, named.from), named.type))
   const held = `${passage.replace(/^\n+/, "").trimEnd()}${LINE}`
   return lines.length === 0 ? held : `${lines.join(LINE)}${LINE}${LINE}${held}`
-}
-
-function withoutOne(
-  text: string,
-  one: ts.ImportDeclaration,
-  bound: ts.NamedImports,
-  gone: ts.ImportSpecifier
-): string {
-  const source = one.getSourceFile()
-  const kept = bound.elements
-    .filter((each) => each !== gone)
-    .map((each) => text.slice(each.getStart(source), each.getEnd()))
-  const head = text.slice(one.getStart(source), bound.getStart(source))
-  const tail = text.slice(bound.getEnd(), one.getEnd())
-  return `${head}{ ${kept.join(", ")} }${tail}`
 }
 
 function droppedFor(
@@ -203,15 +147,6 @@ function droppedIn(
     if (still.has(named)) continue
     const dropped = droppedFor(text, source, at, named)
     if (dropped !== null) found.push(dropped)
-  }
-  return found
-}
-
-function anchorIn(text: string, source: ts.SourceFile): string | null {
-  let found: string | null = null
-  for (const one of source.statements) {
-    if (!ts.isImportDeclaration(one)) continue
-    found = textOfNode(text, one)
   }
   return found
 }
@@ -305,13 +240,6 @@ function repointedIn(world: World, given: Asked): { readonly found: readonly Pas
     if (one !== null) found.push(one)
   }
   return { found }
-}
-
-function openedIn(landed: string, source: ts.SourceFile, lines: readonly string[]): string {
-  if (lines.length === 0) return landed
-  const anchor = anchorIn(landed, source)
-  if (anchor === null) return `${lines.join(LINE)}${LINE}${LINE}${landed}`
-  return landed.replace(anchor, `${anchor}${LINE}${lines.join(LINE)}`)
 }
 
 function ontoFor(
