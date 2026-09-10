@@ -8,7 +8,6 @@ export const attributes = {
   definition: "the points Alan's daily upkeep habits earned him on a day",
   parts: [
     "module/attributes-reading",
-    "workstation-service/attributes-reading-service",
     "workstation-service/attributes-relay-service",
     "module/attributes-totalling",
   ],
@@ -36,7 +35,7 @@ export const attributes = {
 
     {
       invariantKind: "departure",
-      statement: "One timer takes every attribute reading.",
+      statement: "One watch takes every attribute reading.",
     },
     {
       invariantKind: "departure",
