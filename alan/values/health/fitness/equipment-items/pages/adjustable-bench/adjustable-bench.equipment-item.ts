@@ -1,4 +1,4 @@
-import type { EquipmentItem } from "../../equipment-item.page-type.ts"
+import type { EquipmentItem } from "../../equipment-item.page-type.types.ts"
 
 export const adjustableBench = {
   id: "019f01e1-b22e-7858-a88e-87c274072184",

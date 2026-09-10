@@ -1,4 +1,4 @@
-import type { EquipmentItem } from "../../equipment-item.page-type.ts"
+import type { EquipmentItem } from "../../equipment-item.page-type.types.ts"
 
 export const kettlebells = {
   id: "019f01e1-b168-7b90-ad55-91681ce407a8",

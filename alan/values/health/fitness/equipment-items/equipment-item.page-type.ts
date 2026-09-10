@@ -1,22 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../../../../pages/properties/title.text-property.ts"
-import type { EquipmentAvailable } from "./properties/equipment-available.boolean-property.ts"
-import type { EquipmentCategory } from "./properties/equipment-category.select-property.ts"
-import type { EquipmentConfiguration } from "./properties/equipment-configuration.select-property.ts"
-import type { EquipmentLoads } from "./properties/equipment-loads.number-property.ts"
-import type { EquipmentNotes } from "./properties/equipment-notes.text-property.ts"
-import type { EquipmentSortOrder } from "./properties/equipment-sort-order.number-property.ts"
-
-export type EquipmentItem = Page & {
-  title: Title
-  category: EquipmentCategory
-  configuration: EquipmentConfiguration
-  available: EquipmentAvailable
-  loads?: EquipmentLoads
-  notes?: EquipmentNotes
-  sortOrder?: EquipmentSortOrder
-}
 
 export const equipmentItem = {
   id: "01a06834-ca86-76cb-a54a-6f86a5225afc",
@@ -66,4 +48,5 @@ export const equipmentItem = {
       statement: "A piece Alan has not bought yet is unavailable.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
