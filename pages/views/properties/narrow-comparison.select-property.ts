@@ -1,4 +1,4 @@
-import type { TextProperty } from "../../text-properties/text-property.page-type.types.ts"
+import type { SelectProperty } from "../../select-properties/select-property.page-type.types.ts"
 
 export type NarrowComparison =
   | "is"
@@ -13,13 +13,12 @@ export type NarrowComparison =
 
 export const narrowComparison = {
   id: "01a063ee-2a3b-7703-9869-e8ab3280d56f",
-  pageTypeSlug: "text-property",
-  type: "text-property",
+  pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "narrow-comparison",
   propertySlug: "comparison",
   definition: "how one narrow weighs a page's value against what it names",
-  maxLength: 20,
-  nameFormat: null,
+  values: ["is", "in", "not-in", "has", "contains", "ends-with", "empty", "at-or-after", "before"],
   invariants: [
     {
       invariantKind: "departure",
@@ -31,4 +30,4 @@ export const narrowComparison = {
         "A comparison taking many values is given as many values as that comparison needs.",
     },
   ],
-} as const satisfies TextProperty
+} as const satisfies SelectProperty

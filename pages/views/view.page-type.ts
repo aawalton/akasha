@@ -28,7 +28,7 @@ export const view = {
     "text-property/gallery-cover-source",
     "text-property/group-by",
     "text-property/hidden-properties-order",
-    "text-property/narrow-comparison",
+    "select-property/narrow-comparison",
     "text-property/narrow-key",
     "text-property/narrow-values",
     "text-property/reorder-command",
