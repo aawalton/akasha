@@ -206,5 +206,5 @@ export const folderMatchesAShape = {
     },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 60 },
+  audit: { maxCpuSeconds: 15 },
 } as const satisfies CodeCheck
