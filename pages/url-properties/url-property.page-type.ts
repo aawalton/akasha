@@ -1,10 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
-import type { MaxLength } from "../types/page-properties/properties/max-length.number-property.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type UrlProperty = PageProperty & {
-  maxLength: MaxLength
-}
 
 export const urlProperty = {
   id: "01a063de-2c60-7000-97f0-b6451df11654",
@@ -25,4 +19,5 @@ export const urlProperty = {
       statement: "A web address is followed rather than read.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

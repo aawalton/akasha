@@ -1,4 +1,4 @@
-import type { UrlProperty } from "@akasha/pages/url-property"
+import type { UrlProperty } from "akasha/pages/url-properties/url-property.page-type.types.ts"
 
 export type CalendarEventRegistrationUrl = string
 
