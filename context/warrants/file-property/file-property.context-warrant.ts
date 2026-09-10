@@ -1,4 +1,4 @@
-import type { ContextWarrant } from "../context-warrant.page-type.ts"
+import type { ContextWarrant } from "../context-warrant.page-type.types.ts"
 
 export const fileProperty = {
   id: "01a04f58-a7ef-7000-90c5-261b47c03601",

@@ -1,16 +1,4 @@
-import type { Module } from "@akasha/code/module"
-import type { Test } from "@akasha/code/module/test"
 import type { PageType } from "@akasha/pages/page-type"
-import type { RunsOnRead } from "./properties/runs-on-read.boolean-property.ts"
-import type { RunsOnWrite } from "./properties/runs-on-write.boolean-property.ts"
-import type { Transitive } from "./properties/transitive.boolean-property.ts"
-
-export type ContextWarrant = Module & {
-  test: Test
-  runsOnRead: RunsOnRead
-  runsOnWrite: RunsOnWrite
-  transitive: Transitive
-}
 
 export const contextWarrant = {
   id: "01a04f56-55c4-7000-ba0d-c91b6e76b850",
@@ -105,4 +93,5 @@ export const contextWarrant = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType

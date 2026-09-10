@@ -1,4 +1,4 @@
-import type { ContextWarrant } from "../context-warrant.page-type.ts"
+import type { ContextWarrant } from "../context-warrant.page-type.types.ts"
 
 export const roleItself = {
   id: "01a0582e-2828-7d47-9e80-3f63af1f7b41",

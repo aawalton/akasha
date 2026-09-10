@@ -1,4 +1,4 @@
-import type { ContextWarrant } from "../context-warrant.page-type.ts"
+import type { ContextWarrant } from "../context-warrant.page-type.types.ts"
 
 export const fileDomain = {
   id: "01a04f58-a7ee-7000-94ad-769aa16fc838",

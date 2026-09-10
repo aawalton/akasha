@@ -1,4 +1,4 @@
-import type { ContextWarrant } from "../context-warrant.page-type.ts"
+import type { ContextWarrant } from "../context-warrant.page-type.types.ts"
 
 export const seatPersona = {
   id: "01a0582e-2829-7ac3-97b6-30591b0cdbde",

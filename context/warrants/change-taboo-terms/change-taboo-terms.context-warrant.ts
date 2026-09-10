@@ -1,4 +1,4 @@
-import type { ContextWarrant } from "../context-warrant.page-type.ts"
+import type { ContextWarrant } from "../context-warrant.page-type.types.ts"
 
 export const changeTabooTerms = {
   id: "01a05968-4c31-7a5e-9f02-6b1d38c4e770",

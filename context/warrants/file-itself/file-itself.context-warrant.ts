@@ -1,4 +1,4 @@
-import type { ContextWarrant } from "../context-warrant.page-type.ts"
+import type { ContextWarrant } from "../context-warrant.page-type.types.ts"
 
 export const fileItself = {
   id: "01a04f58-a7f0-7000-9d3a-6a0f2c4b81d7",
