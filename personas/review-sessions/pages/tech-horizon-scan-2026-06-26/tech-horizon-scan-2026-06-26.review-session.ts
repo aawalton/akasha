@@ -1,4 +1,4 @@
-import type { ReviewSession } from "../../review-session.page-type.ts"
+import type { ReviewSession } from "../../review-session.page-type.types.ts"
 
 export const techHorizonScan20260626 = {
   id: "019f0b6e-b897-7872-a197-f1561634ee86",

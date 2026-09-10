@@ -1,4 +1,4 @@
-import type { ReviewSession } from "../../review-session.page-type.ts"
+import type { ReviewSession } from "../../review-session.page-type.types.ts"
 
 export const medicineRounds20260626 = {
   id: "019f0b6e-ba14-7ff4-8f7d-87630318d5d3",
