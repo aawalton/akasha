@@ -36,6 +36,10 @@ export const readoutRelay = {
       statement: "A machine that starts again has no reading.",
     },
     {
+      invariantKind: "gap",
+      statement: "A deploy leaves every tile drawn rather than blank until the next carry.",
+    },
+    {
       invariantKind: "departure",
       statement: "A body that is not a whole reading is refused rather than held.",
     },
