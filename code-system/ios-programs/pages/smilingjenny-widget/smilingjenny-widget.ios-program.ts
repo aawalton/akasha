@@ -10,6 +10,7 @@ export const smilingjennyWidget = {
   infoPlist: "plist",
   components: [
     "ios-component/categorize-ring",
+    "ios-component/cost-ring",
     "ios-component/ring",
     "ios-component/safety-ring",
     "ios-component/smilingjenny-categorize-view",

@@ -10,10 +10,6 @@ export const smilingjennyCostWidget = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The feed sends a list of stoplights and only the first is drawn.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The ring drawn is the one the surplus tile draws rather than one of its own.",
     },
     {
@@ -23,10 +19,6 @@ export const smilingjennyCostWidget = {
     {
       invariantKind: "departure",
       statement: "A cost carries no tier above and no fraction climbed, so no arc is drawn.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A stoplight carrying an empty figure draws no signal rather than a black ring.",
     },
     {
       invariantKind: "departure",
