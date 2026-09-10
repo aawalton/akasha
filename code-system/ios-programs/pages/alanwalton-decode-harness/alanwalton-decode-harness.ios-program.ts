@@ -5,7 +5,7 @@ export const alanwaltonDecodeHarness = {
   pageTypeSlug: "ios-program",
   type: "ios-program",
   slug: "alanwalton-decode-harness",
-  definition: "proof that every tile decodes the payload it is handed",
+  definition: "a program checking tiles decode the payloads they are handed",
   main: "swift",
   components: [
     "ios-component/alanwalton-categorize-widget",
@@ -27,5 +27,11 @@ export const alanwaltonDecodeHarness = {
     "ios-component/surplus-ring",
     "ios-component/tier",
     "ios-component/cost-ring",
+  ],
+  invariants: [
+    {
+      invariantKind: "gap",
+      statement: "Every tile this program compiles has a decode assertion.",
+    },
   ],
 } as const satisfies IosProgram
