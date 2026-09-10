@@ -21,7 +21,7 @@ function unreached(name: string): () => never {
   }
 }
 
-mock.module("@akasha/pages-access/get", () => ({
+mock.module("akasha/pages/access/get/get.module.code.ts", () => ({
   getPage: async (): Promise<Page | null> => enrolment,
   getPageByIdSuffix: unreached("getPageByIdSuffix"),
   getPageByIdSuffixAcrossTypes: unreached("getPageByIdSuffixAcrossTypes"),
@@ -30,7 +30,7 @@ mock.module("@akasha/pages-access/get", () => ({
   unfiledWhy: unreached("unfiledWhy"),
 }))
 
-mock.module("@akasha/pages-access/patch", () => ({
+mock.module("akasha/pages/access/patch/patch.module.code.ts", () => ({
   patchPage: unreached("patchPage"),
   patchPageById: async (args: unknown): Promise<Page | null> => {
     patchCalls.push(args)
