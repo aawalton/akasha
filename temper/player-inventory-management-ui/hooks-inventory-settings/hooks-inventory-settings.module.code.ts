@@ -50,7 +50,7 @@ interface SettingsBlob {
   [key: string]: unknown
 }
 
-function asSettingsBlob(value: unknown): SettingsBlob {
+function parseSettingsBlob(value: unknown): SettingsBlob {
   return (isRecord(value) ? value : {}) as SettingsBlob
 }
 
@@ -76,7 +76,7 @@ async function settingsBodyOf(userId: string): Promise<SettingsBlob> {
       `\`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of the file beside the player page, so what is already set went unread. Nothing has been written.`
     )
   }
-  return asSettingsBlob(JSON.parse(held))
+  return parseSettingsBlob(JSON.parse(held))
 }
 
 interface SettingsHeld {
