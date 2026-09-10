@@ -11,7 +11,7 @@ export const atlasSearch = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The looking up and the keeping both happen in the browser.",
+      statement: "The looking up and the keeping happen in the browser.",
     },
     {
       invariantKind: "departure",
