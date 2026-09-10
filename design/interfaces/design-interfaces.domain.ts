@@ -1,22 +1,11 @@
-import type { Domain } from "../domains/domain.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
-export const design = {
-  id: "01a05b55-a539-7a1c-9bdc-5a459722f028",
+export const designInterfaces = {
+  id: "01a08d8d-8ba8-7079-a696-0ed96689e240",
   pageTypeSlug: "domain",
   type: "domain",
-  slug: "design",
+  slug: "design-interfaces",
   definition: "how a thing is drawn on a screen and worked by hand",
-  parts: [
-    "domain/design-badges",
-    "domain/design-forms",
-    "domain/design-layout",
-    "domain/design-patterns",
-    "domain/design-primitives",
-    "domain/design-system",
-    "domain/design-tokens",
-    "page-type/color",
-    "domain/design-interfaces",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -57,7 +46,6 @@ export const design = {
         "Build a new value from the token, not its number.",
       ],
     },
-
     {
       directiveKind: "principle",
       name: "Nothing Unexplained",
