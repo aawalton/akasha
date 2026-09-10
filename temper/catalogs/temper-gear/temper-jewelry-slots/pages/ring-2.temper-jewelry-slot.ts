@@ -1,4 +1,4 @@
-import type { TemperJewelrySlot } from "../temper-jewelry-slot.page-type.ts"
+import type { TemperJewelrySlot } from "../temper-jewelry-slot.page-type.types.ts"
 
 export const ring2 = {
   id: "019e4cb1-de19-7c12-ac9c-900539c7ae85",
