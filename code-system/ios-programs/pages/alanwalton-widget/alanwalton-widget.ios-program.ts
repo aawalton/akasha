@@ -15,6 +15,7 @@ export const alanwaltonWidget = {
     "ios-component/alanwalton-claude-usage-payload",
     "ios-component/alanwalton-claude-usage-view",
     "ios-component/alanwalton-claude-usage-widget",
+    "ios-component/alanwalton-cost-widget",
     "ios-component/alanwalton-device-secret-reader",
     "ios-component/alanwalton-inbox-stoplights-widget",
     "ios-component/alanwalton-never-loaded-view",

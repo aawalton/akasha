@@ -40,5 +40,6 @@ struct AlanWaltonWidgets: WidgetBundle {
         CategorizeWidget()
         SafetyLevelWidget()
         SurplusWidget()
+        CostWidget()
     }
 }

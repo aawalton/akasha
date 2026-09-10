@@ -14,6 +14,7 @@ export const smilingjennyWidget = {
     "ios-component/safety-ring",
     "ios-component/smilingjenny-categorize-view",
     "ios-component/smilingjenny-categorize-widget",
+    "ios-component/smilingjenny-cost-widget",
     "ios-component/smilingjenny-safety-level-widget",
     "ios-component/smilingjenny-surplus-widget",
     "ios-component/smilingjenny-widget-feed",

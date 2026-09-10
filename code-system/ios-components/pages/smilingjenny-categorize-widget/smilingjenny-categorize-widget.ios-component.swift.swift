@@ -20,5 +20,6 @@ struct SmilingJennyWidgets: WidgetBundle {
         CategorizeWidget()
         SafetyLevelWidget()
         SurplusWidget()
+        CostWidget()
     }
 }
