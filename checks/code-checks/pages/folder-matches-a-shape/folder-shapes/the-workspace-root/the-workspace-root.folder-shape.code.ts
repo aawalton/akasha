@@ -12,6 +12,7 @@ const ALLOWED = new Set<string>([
   "checks",
   "commands",
   "design",
+  "domains",
   "graph",
   "infrastructure",
   "pages",
