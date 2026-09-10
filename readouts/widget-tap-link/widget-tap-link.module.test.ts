@@ -8,7 +8,7 @@ test("a link names its widget in the fragment", () => {
 })
 
 test("two links sharing a path and a query name different widgets", () => {
-  const path = "capacitor://localhost/nav/tracking-690c624f?tab=20f5f031"
+  const path = "https://alanwalton.com/nav/tracking-690c624f?tab=20f5f031"
   expect(widgetTapped(`${path}#widget=alanwalton-upkeep-stoplights`)).toBe(
     "alanwalton-upkeep-stoplights"
   )
@@ -16,9 +16,9 @@ test("two links sharing a path and a query name different widgets", () => {
 })
 
 test("a link naming no widget names none", () => {
-  expect(widgetTapped("capacitor://localhost/nav/tasks-a7242626")).toBe(null)
-  expect(widgetTapped("capacitor://localhost/nav/tasks-a7242626#tab=1")).toBe(null)
-  expect(widgetTapped("capacitor://localhost/nav/tasks-a7242626?widget=alanwalton-surplus")).toBe(
+  expect(widgetTapped("https://alanwalton.com/nav/tasks-a7242626")).toBe(null)
+  expect(widgetTapped("https://alanwalton.com/nav/tasks-a7242626#tab=1")).toBe(null)
+  expect(widgetTapped("https://alanwalton.com/nav/tasks-a7242626?widget=alanwalton-surplus")).toBe(
     null
   )
 })

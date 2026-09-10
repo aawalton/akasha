@@ -92,7 +92,7 @@ struct ClaudeUsageHomeView: View {
         .widgetURL(
             URL(
                 string:
-                    "capacitor://localhost/nav/claude-accounts-d93b211a#widget=alanwalton-claude-usage"
+                    "https://alanwalton.com/nav/claude-accounts-d93b211a#widget=alanwalton-claude-usage"
             )
         )
     }

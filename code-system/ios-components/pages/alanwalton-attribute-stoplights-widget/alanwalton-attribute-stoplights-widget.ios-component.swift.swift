@@ -82,7 +82,7 @@ struct AttributeHomeView: View {
         .widgetURL(
             URL(
                 string:
-                    "capacitor://localhost/nav/attributes-970234ac?tab=01a07cd7-2bb6-7d40-acb4-895746f0208f#widget=alanwalton-attribute-stoplights"
+                    "https://alanwalton.com/nav/attributes-970234ac?tab=01a07cd7-2bb6-7d40-acb4-895746f0208f#widget=alanwalton-attribute-stoplights"
             )
         )
     }

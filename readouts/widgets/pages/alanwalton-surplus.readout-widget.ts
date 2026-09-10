@@ -15,7 +15,7 @@ export const alanwaltonSurplus = {
   galleryName: "Surplus",
   galleryDescription: "Hours of sleep left after what your day cost.",
   opens:
-    "capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1#widget=alanwalton-surplus",
+    "https://alanwalton.com/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1#widget=alanwalton-surplus",
   groups: ["surplus"],
   place: 10,
 } as const satisfies ReadoutWidget

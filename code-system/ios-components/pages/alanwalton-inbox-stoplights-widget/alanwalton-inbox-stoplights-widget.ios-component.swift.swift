@@ -84,7 +84,7 @@ struct InboxHomeView: View {
         .widgetURL(
             URL(
                 string:
-                    "capacitor://localhost/nav/tasks-a7242626#widget=alanwalton-inbox-stoplights"
+                    "https://alanwalton.com/nav/tasks-a7242626#widget=alanwalton-inbox-stoplights"
             )
         )
     }
