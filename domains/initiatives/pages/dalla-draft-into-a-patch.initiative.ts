@@ -12,7 +12,7 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runMechanicalChange`.",
       workingMemory:
-        "`notification-feed-rows` names the feed's files uncommitted, so the append through `page-entry-queue:47` lands on a path the repository ignores rather than a file git tracks. `queueAt`'s other caller, `transport-log`, is reached by no log path. `landedMechanically` has no caller but its own test. `restore.command:206` writes HEAD's own body back, landing no change. `repository-is-written-by-a-change` holds the rest and sees no write of anything but TypeScript.\n",
+        "`notification-feed-rows` names the feed's files uncommitted, so the append through `page-entry-queue:47` lands on a path git ignores. `queueAt`'s other caller, `transport-log`, is reached by no log path. `landedMechanically` has no caller but its own test. `restore.command:206` writes HEAD's own body back, landing no change. `repository-is-written-by-a-change` holds the rest, refusing a rooted write of anything `.gitignore` does not hold out of the commit.\n",
     },
     {
       statement: "Every change is a patch before it is applied.",
