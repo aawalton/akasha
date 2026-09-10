@@ -22,11 +22,11 @@ export const checkReachesAPathThroughTheIndex = {
     {
       invariantKind: "departure",
       statement:
-        "A literal is judged by where that literal reaches rather than by what that literal spells.",
+        "A literal is judged by the path that literal reaches rather than by the text that literal spells.",
     },
     {
       invariantKind: "departure",
-      statement: "A directory listing is `readdirSync`, `readdir` or `Glob`.",
+      statement: "A directory listing is a call to `readdirSync` or `readdir` or `Glob`.",
     },
     {
       invariantKind: "departure",
@@ -38,8 +38,15 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path is spelled where the index knows a page at it, under it, or ending with it.",
+      statement: "A path is spelled where the index knows a page at that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path is spelled where the index knows a page under that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path is spelled where the index knows a page ending with that path.",
     },
     {
       invariantKind: "departure",
@@ -55,24 +62,28 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
+      statement: "A name carries whatever an initializer of that name has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whatever a name carries is worked out again until nothing changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name a loop binds has whatever the source that loop runs over carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name a `for in` loop binds is a key rather than whatever that loop runs over.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A name carries what an initializer of that name has, worked out again until nothing changes.",
+        "A name carries over the whole file rather than within the scope that name is bound in.",
     },
     {
       invariantKind: "departure",
-      statement: "A name a loop binds has what the source that loop runs over carries.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name a `for in` loop binds is a key rather than what that loop runs over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name carries over the whole file rather than within the scope it is bound in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One listing is refused once however many of its arguments have a path.",
+      statement: "One listing is refused once however many arguments of that listing have a path.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +95,11 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a page's code is judged, so a test's fixtures are no reach.",
+      statement: "Only a page's code is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A test's fixtures are no reach.",
     },
     {
       invariantKind: "departure",
@@ -100,7 +115,7 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "absence",
-      statement: "A value a helper returns is not carried to the caller that lists it.",
+      statement: "A value a helper returns is not carried to the caller that lists that value.",
     },
     {
       invariantKind: "gap",
