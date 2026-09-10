@@ -10,7 +10,7 @@ export function mergeObservation(
   patch: ObservationPatch,
   at: string
 ): Observation {
-  const { at: _ignored, ...before } = previous ?? { at }
+  const before: Observation = previous ?? { at }
   const set = Object.fromEntries(
     Object.entries(patch).filter(([, value]) => value !== undefined)
   ) as ObservationPatch
