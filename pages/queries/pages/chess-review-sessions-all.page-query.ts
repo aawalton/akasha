@@ -1,9 +1,0 @@
-import type { PageQuery } from "../page-query.page-type.types.ts"
-
-export const chessReviewSessionsAll = {
-  id: "01a063f9-220a-7799-81d8-94c76658f147",
-  pageTypeSlug: "page-query",
-  type: "page-query",
-  slug: "chess-review-sessions-all",
-  asksOfSlug: "chess-review-session",
-} as const satisfies PageQuery
