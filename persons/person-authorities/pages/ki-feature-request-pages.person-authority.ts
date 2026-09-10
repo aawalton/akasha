@@ -1,4 +1,4 @@
-import type { PersonAuthority } from "../person-authority.page-type.ts"
+import type { PersonAuthority } from "../person-authority.page-type.types.ts"
 
 export const kiFeatureRequestPages = {
   id: "01a05433-f108-7b93-99c4-02790705abeb",

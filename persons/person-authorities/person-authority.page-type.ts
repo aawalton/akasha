@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { PersonAuthorityKind } from "./properties/person-authority-kind.relation-property.ts"
-import type { PersonAuthorityPerson } from "./properties/person-authority-person.relation-property.ts"
-import type { PersonAuthorityTarget } from "./properties/person-authority-target.text-property.ts"
-
-export type PersonAuthority = Page & {
-  person: PersonAuthorityPerson
-  authorityKind: PersonAuthorityKind
-  target: PersonAuthorityTarget
-}
 
 export const personAuthority = {
   id: "01a0541e-d4d2-7426-bc38-f122ec60f7ba",
@@ -32,4 +22,5 @@ export const personAuthority = {
     { pageProperty: "relation-property/person-authority-kind", required: true, many: false },
     { pageProperty: "text-property/person-authority-target", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

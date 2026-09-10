@@ -1,4 +1,4 @@
-import type { PersonAuthority } from "../person-authority.page-type.ts"
+import type { PersonAuthority } from "../person-authority.page-type.types.ts"
 
 export const alanPageSchemaAll = {
   id: "01a05433-f107-7219-bd13-6b570031b7dc",

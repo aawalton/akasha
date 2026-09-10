@@ -1,4 +1,4 @@
-import type { PersonAuthority } from "../person-authority.page-type.ts"
+import type { PersonAuthority } from "../person-authority.page-type.types.ts"
 
 export const kiPageDataKi = {
   id: "01a05433-f108-759f-9f3e-02d7fefd2a74",

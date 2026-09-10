@@ -1,4 +1,4 @@
-import type { PersonAuthority } from "../person-authority.page-type.ts"
+import type { PersonAuthority } from "../person-authority.page-type.types.ts"
 
 export const alanDomainAll = {
   id: "01a05433-f105-7c63-bad6-628d7a20081b",

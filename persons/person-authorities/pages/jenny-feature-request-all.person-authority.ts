@@ -1,4 +1,4 @@
-import type { PersonAuthority } from "../person-authority.page-type.ts"
+import type { PersonAuthority } from "../person-authority.page-type.types.ts"
 
 export const jennyFeatureRequestAll = {
   id: "01a05433-f107-756f-b005-96376bf6df11",
