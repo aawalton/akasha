@@ -80,9 +80,9 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
     writtenKey = key
   }
 
-  const schedule = (): void => {
+  const schedule = (): undefined => {
     if (ask === undefined) {
-      return
+      return undefined
     }
     if (timer !== undefined) {
       clearTimeout(timer)
@@ -91,6 +91,7 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
       timer = undefined
       writing = writing.then(write)
     }, settleMs)
+    return undefined
   }
 
   const self: ObservationStore = {
@@ -141,14 +142,17 @@ export function createObservationStore(options: StoreOptions): ObservationStore 
 
 let store: ObservationStore | undefined
 
-export function setObservationStore(next: ObservationStore | undefined): void {
+export function setObservationStore(next: ObservationStore | undefined): undefined {
   store = next
+  return undefined
 }
 
-export function recordObservation(feature: string, patch: ObservationPatch): void {
+export function recordObservation(feature: string, patch: ObservationPatch): undefined {
   store?.record(feature, patch)
+  return undefined
 }
 
-export function recordSweep(feature: string, report: SweepReport): void {
+export function recordSweep(feature: string, report: SweepReport): undefined {
   store?.recordSweep(feature, report)
+  return undefined
 }

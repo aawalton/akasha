@@ -19,7 +19,7 @@ const SETTLE_MS = 250
 let output: vscode.OutputChannel
 let timer: ReturnType<typeof setTimeout> | undefined
 
-export function activate(context: vscode.ExtensionContext): void {
+export function activate(context: vscode.ExtensionContext): undefined {
   output = vscode.window.createOutputChannel("Ops Editor Layout")
   context.subscriptions.push(output)
   output.appendLine("activated; watching how the editor is arranged")
@@ -33,9 +33,10 @@ export function activate(context: vscode.ExtensionContext): void {
     vscode.window.onDidCloseTerminal(() => schedule("terminal-close")),
     vscode.commands.registerCommand("opsEditorLayout.writeNow", () => write("manual"))
   )
+  return undefined
 }
 
-function schedule(trigger: string): void {
+function schedule(trigger: string): undefined {
   if (timer !== undefined) {
     clearTimeout(timer)
   }
@@ -43,6 +44,7 @@ function schedule(trigger: string): void {
     timer = undefined
     void write(trigger)
   }, SETTLE_MS)
+  return undefined
 }
 
 async function write(trigger: string): Promise<undefined> {

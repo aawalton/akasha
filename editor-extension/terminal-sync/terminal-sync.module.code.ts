@@ -17,22 +17,23 @@ export function syncColor(
   shellPid: number,
   trigger: string,
   output: vscode.OutputChannel
-): void {
+): undefined {
   if (color === undefined) {
     if (!lastColorByTerminal.has(term)) {
-      return
+      return undefined
     }
     lastColorByTerminal.delete(term)
     term.recolor(undefined)
     output.appendLine(`[${trigger}] terminal shell=${shellPid} → color cleared`)
-    return
+    return undefined
   }
   if (lastColorByTerminal.get(term) === color) {
-    return
+    return undefined
   }
   term.recolor(color)
   lastColorByTerminal.set(term, color)
   output.appendLine(`[${trigger}] terminal shell=${shellPid} → color ${color}`)
+  return undefined
 }
 
 export async function syncTerminal(
