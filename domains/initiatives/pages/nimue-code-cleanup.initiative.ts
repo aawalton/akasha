@@ -38,6 +38,11 @@ export const nimueCodeCleanup = {
       workingMemory:
         "`file-has-its-page` reads a hardcoded `node_modules` today, and reading the property instead retires that constant and covers every build folder at once. `folder-matches-a-shape` has the same gap: it refuses the two ios app folders over their `www`, which is declared a build folder already. Both checks want the property rather than one.",
     },
+    {
+      statement: "No code spells a path as a string literal.",
+      workingMemory:
+        "1114 literals over 389 TypeScript files name a repository path. 473 sit in tests and fixtures, which `check-reaches-a-path-through-the-index` already passes over, and 454 more are citations in finding and initiative prose, leaving about 170 in code that runs. The commonest is the folder a page type's pages sit in, spelled by `days/pages`, `seats/pages`, `initiatives/pages` and seven more. `text/` and `type/` are folders too, so `text/html` reads as a path to a matcher going by spelling.",
+    },
   ],
   constraints: [
     "The change moving a package's folder is named `move-folder-package`, after the mode, the type and the subtype.",
