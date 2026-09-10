@@ -66,7 +66,7 @@ function makeAdminHandler(
 export function makePoolHandler(
   service: PoolService,
   swap: ReturnType<typeof createSwapController>,
-  proxy: (service: PoolService, request: Request) => Promise<Response> = proxyToService
+  proxy: (one: PoolService, request: Request) => Promise<Response> = proxyToService
 ): (request: Request) => Promise<Response> {
   return async (request: Request): Promise<Response> => {
     const outcome = await swap.runWithPool(

@@ -67,17 +67,17 @@ export function joinedContinuations(command: string): string {
 
 export function pastHeredocs(command: string): string {
   const text = joinedContinuations(command)
-  const kept: string[] = []
+  const lines: string[] = []
   let owed: readonly string[] = []
   for (const line of text.split("\n")) {
     if (owed.length > 0) {
       if (line.trim() === owed[0]) owed = owed.slice(1)
       continue
     }
-    kept.push(line)
+    lines.push(line)
     owed = [...line.matchAll(OPENING_A_BODY)].map((said) => said[2] ?? "")
   }
-  return owed.length > 0 ? text : kept.join("\n")
+  return owed.length > 0 ? text : lines.join("\n")
 }
 
 function kept(_whole: string, inside: string): string {
