@@ -9,15 +9,10 @@ export const athenaCommandsAtTheRoot = {
   persona: "athena",
   intents: [
     {
-      statement: "A command Alan has not approved at the root sits inside its namespace's folder.",
-      workingMemory:
-        "Alan ruled on 2026-09-10 that a command sits at the root only where he approves it by name, and `commands/command.page-type.ts` now carries that as an invariant. He approved `audit` and `read`. Moved since: agent-turn-colors, `index refresh`, `measure complexity`, `measure performance`, `google drive fetch`, `google calendar events`, `icloud fetch`, `ios-app build`, `git push`, `git restore`. Left: `deploy`, moved to the root by another lane in 501dac080fa, unruled.\n",
-    },
-    {
       statement:
         "Every command sits in one folder at the root, named by the namespace it is under.",
       workingMemory:
-        "All 233 command and 56 namespace slugs are exactly their folder path under `commands/pages/` hyphen-joined, and equal their filename stem. The parts close both ways, no orphan and no dangling part. No domain or package names a command any more, where 187 such entries sat over 19 pages. Nothing mechanical holds it: `page-named-as-stated` judges the stem alone, and no check re-derives a slug from its path. The exception covers a top namespace and a root command Alan approved.\n",
+        "Measured at 4e0b3ddd1a: 233 command and 57 namespace slugs are exactly their folder path under `commands/pages/` hyphen-joined, and equal their filename stem. The parts close both ways, no orphan and no dangling part. Three commands sit at the root, `audit`, `read` and `deploy`, each one Alan approved by name. Nothing mechanical holds it: `page-named-as-stated` judges the stem alone, and no check re-derives a slug from its path.\n",
     },
     {
       statement: "A seat has the commands its domain and role need, without being handed them.",
