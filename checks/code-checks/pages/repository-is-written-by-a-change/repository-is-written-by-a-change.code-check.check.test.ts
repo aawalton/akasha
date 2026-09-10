@@ -40,3 +40,12 @@ test("the check takes the code outside the changes as its input and no other bod
   expect(repositoryIsWrittenByAChange.isInput(AT, cast.shadow)).toBe(true)
   expect(repositoryIsWrittenByAChange.isInput(inside, cast.shadow)).toBe(false)
 })
+
+test("a page of another type sharing the command slug does not move where the commands are", () => {
+  const cast = shadowFor(landing(rooted(), { [AT]: bytesOf(READS) }))
+  if ("refused" in cast) throw new Error(cast.refused)
+
+  expect(
+    repositoryIsWrittenByAChange.isInput("commands/one/one.command.code.ts", cast.shadow)
+  ).toBe(false)
+})

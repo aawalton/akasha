@@ -6,7 +6,7 @@ import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"
 import { textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
 
-const DOMAIN = "domain"
+const PAGE_TYPE = "page-type"
 
 const CHANGE = "change"
 
@@ -330,12 +330,10 @@ export function reasonsOf(root: string): (at: string, text: string) => readonly 
 }
 
 function folderOf(shadow: Shadow, slug: string): string {
-  for (const kind of shadow.index.kindsUnder(DOMAIN)) {
-    const one = shadow.index.listedAt(kind, slug)[0]
-    if (one !== undefined) return `${dirname(one.path)}${PARTED_BY}`
-  }
+  const one = shadow.index.listedAt(PAGE_TYPE, slug)[0]
+  if (one !== undefined) return `${dirname(one.path)}${PARTED_BY}`
   throw new Error(
-    `the index names \`${slug}\` under no page type below \`${DOMAIN}\`, so nothing says where a change is made`
+    `the index names no page type \`${slug}\`, so nothing says where a change is made`
   )
 }
 

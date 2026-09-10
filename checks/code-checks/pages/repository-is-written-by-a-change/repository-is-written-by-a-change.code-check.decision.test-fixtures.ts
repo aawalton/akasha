@@ -15,9 +15,13 @@ export const WRITES =
 
 export const READS = 'import { join } from "node:path"\nexport const a = join("b", "c.ts")\n'
 
-const CHANGE_AT = "changes/change.domain.ts"
+const CHANGE_AT = "changes/change.page-type.ts"
 
-const COMMAND_AT = "commands/command.domain.ts"
+const COMMAND_AT = "commands/command.page-type.ts"
+
+const NAMESAKE_AT = "design/primitives/command/command.module.ts"
+
+const NAMESAKE_ID = "01a08299-65c2-7003-8000-000000000003"
 
 const CHANGE_ID = "01a08299-65c2-7001-8000-000000000001"
 
@@ -34,8 +38,10 @@ export function rooted(): string {
   founded(root)
   writing(root, IGNORE_AT, IGNORES)
   typed(root, "domain", "page")
-  listedFiled(root, "domain", "change", [{ path: CHANGE_AT, id: CHANGE_ID }])
-  listedFiled(root, "domain", "command", [{ path: COMMAND_AT, id: COMMAND_ID }])
+  typed(root, "module", "domain")
+  listedFiled(root, "page-type", "change", [{ path: CHANGE_AT, id: CHANGE_ID }])
+  listedFiled(root, "page-type", "command", [{ path: COMMAND_AT, id: COMMAND_ID }])
+  listedFiled(root, "module", "command", [{ path: NAMESAKE_AT, id: NAMESAKE_ID }])
   return root
 }
 

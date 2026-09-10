@@ -18,7 +18,11 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
-      statement: "Either is looked for under every page type below `domain`.",
+      statement: "Either is looked for as a page type rather than under every page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page of another type carrying that slug is not taken for it.",
     },
     {
       invariantKind: "departure",
