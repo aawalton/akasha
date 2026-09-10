@@ -20,7 +20,7 @@ export const namespaceListing = {
     },
     {
       invariantKind: "departure",
-      statement: "The page type a part names is dropped, as a part is reached by its slug alone.",
+      statement: "The page type a part names is dropped.",
     },
     {
       invariantKind: "departure",
