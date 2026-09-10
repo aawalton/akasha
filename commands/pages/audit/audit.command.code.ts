@@ -8,7 +8,7 @@ import {
 } from "akasha/checks/modules/checking/checking.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { counted } from "../../modules/asking/asking.module.code.ts"
+import { counted } from "../../../utils/text/counted/counted.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { oneLine, whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
 

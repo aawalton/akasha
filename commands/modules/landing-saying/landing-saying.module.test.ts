@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { counted } from "../asking/asking.module.code.ts"
+import { counted } from "../../../utils/text/counted/counted.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import type { Drafted, Landed } from "../landing/landing.module.code.ts"
 import {

@@ -4,7 +4,7 @@ import { rebuiltWhole } from "akasha/pages/indexes/indexing/indexing.module.code
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Drift } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import { told as gitTold } from "../../../../git/running/git-running.module.code.ts"
-import { counted } from "../../../modules/asking/asking.module.code.ts"
+import { counted } from "../../../../utils/text/counted/counted.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import { holding } from "../../../modules/holding/holding.module.code.ts"

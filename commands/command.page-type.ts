@@ -87,7 +87,6 @@ export const command = {
     "module/answer-bytes",
     "module/piping",
     "module/command-filling",
-    "module/asking",
     "module/body-reaching",
     "module/refusing",
     "module/repo-seeding",
