@@ -194,7 +194,7 @@ export function settlingOver(
   const wasIdentifying = identifyingFrom(wasSource)
   const nowIdentifying = identifyingFrom(nowSource)
   const carriedAt = new Set(carried.keys())
-  const elsewhere = pagesElsewhere(reading, turned, carriedAt, pageOf)
+  const elsewhere = pagesElsewhere(reading, turned, carriedAt)
   const stranded = pagesStranded(reading, before, left, carriedAt)
   const identity = filingOf(
     reading,

@@ -28,6 +28,10 @@ export const besideTurning = {
       statement: "The pages of a turned page type are read off the index rather than off the disk.",
     },
     {
+      invariantKind: "absence",
+      statement: "A file that is no page is not answered here though its body loads as a value.",
+    },
+    {
       invariantKind: "departure",
       statement: "Every page the index names is answered where a property's unique kind turns.",
     },

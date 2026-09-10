@@ -13,7 +13,7 @@ import {
 import type { FilePropertiesBy } from "../entries/index-entries.module.code.ts"
 import type { SidecarsBy } from "../path-claiming/path-claiming.module.code.ts"
 import {
-  everyPath,
+  everyValue,
   namersOf,
   type Valued,
   valuesByPath,
@@ -59,15 +59,13 @@ export function besidesTurned(was: Besides, now: Besides): ReadonlySet<string> {
 export function pagesElsewhere(
   reading: Reading,
   turned: ReadonlySet<string>,
-  carried: ReadonlySet<string>,
-  pageOf: (path: string) => Value | null
+  carried: ReadonlySet<string>
 ): readonly Valued[] {
   if (turned.size === 0) return []
   const found: Valued[] = []
-  for (const path of everyPath(reading)) {
+  for (const [path, value] of everyValue(reading)) {
     if (carried.has(path)) continue
-    const value = pageOf(path)
-    if (value !== null) found.push({ path, value })
+    found.push({ path, value })
   }
   return found
 }
