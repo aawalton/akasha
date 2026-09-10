@@ -28,7 +28,6 @@ export const alanHarness = {
     "domain/email-inbound",
     "domain/email-watch",
     "domain/ssh-access",
-    "domain/calendar-sync",
     "domain/imessage",
     "domain/health-samples-access",
     "domain/health-samples-day",
