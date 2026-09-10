@@ -9,7 +9,7 @@ export const noUnparsedBoundaryRead = {
   runsOnChange: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -62,14 +62,7 @@ export const noUnparsedBoundaryRead = {
       statement:
         "Folding this into `no-refused-syntax` takes every site repaired and this page taken away.",
     },
-    {
-      invariantKind: "stopgap",
-      statement: "This check runs on no phase while the tree still has sites the rule names.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The check runs on a phase.",
-    },
+
     {
       invariantKind: "gap",
       statement: "Every site the rule names is repaired.",

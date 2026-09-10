@@ -9,7 +9,7 @@ export const noGlobalInAModule = {
   runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "constraint",
@@ -55,14 +55,7 @@ export const noGlobalInAModule = {
       invariantKind: "absence",
       statement: "The check reads no path beyond the ones the change carries.",
     },
-    {
-      invariantKind: "stopgap",
-      statement: "The change phase is the only phase Alan approved.",
-    },
-    {
-      invariantKind: "stopgap",
-      statement: "Every other phase is off.",
-    },
+
     {
       invariantKind: "gap",
       statement: "No module body declares a global.",

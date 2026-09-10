@@ -9,7 +9,7 @@ export const specifierNamesAPackage = {
   runsOnChange: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -64,10 +64,7 @@ export const specifierNamesAPackage = {
       invariantKind: "departure",
       statement: "The scan deciding whether to parse reads the text rather than the parse.",
     },
-    {
-      invariantKind: "departure",
-      statement: "This check judges on no phase until Alan has approved it.\n",
-    },
+
     {
       invariantKind: "departure",
       statement:
