@@ -60,7 +60,11 @@ export const workTreeDeleting = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative is given longer to go than an intent.",
+      statement: "A deletion is given longer than a landing waits on the lock a landing takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent and an initiative are given the same time, both landing one commit.",
     },
     {
       invariantKind: "departure",

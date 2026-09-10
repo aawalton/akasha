@@ -86,7 +86,7 @@ test("deleting an intent names the initiative and the statement to the command",
       module: "initiative-delete-intent",
       exported: "initiativeDeleteIntent",
       args: ["held", "A thing is so."],
-      timeout: 60_000,
+      timeout: 150_000,
     },
   ])
   expect(lines).toEqual(["[delete intent] held: the intent is gone"])
@@ -175,7 +175,7 @@ test("an initiative goes once Alan answers the modal with the confirming word", 
       module: "initiative-delete",
       exported: "initiativeDelete",
       args: ["held"],
-      timeout: 120_000,
+      timeout: 150_000,
     },
   ])
   expect(lines).toEqual(["[delete initiative] held is gone"])

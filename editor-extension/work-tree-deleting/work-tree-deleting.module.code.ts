@@ -5,13 +5,11 @@ const INTENT_MODULE = "initiative-delete-intent"
 
 const INTENT_EXPORT = "initiativeDeleteIntent"
 
-const INTENT_TIMEOUT_MS = 60_000
-
 const INITIATIVE_MODULE = "initiative-delete"
 
 const INITIATIVE_EXPORT = "initiativeDelete"
 
-const INITIATIVE_TIMEOUT_MS = 120_000
+const DELETE_TIMEOUT_MS = 150_000
 
 const CONFIRM = "Delete"
 
@@ -81,7 +79,7 @@ export function deletingInitiative(
     if (chosen !== CONFIRM) return undefined
     try {
       const said = await call(INITIATIVE_MODULE, INITIATIVE_EXPORT, [slug], {
-        timeout: INITIATIVE_TIMEOUT_MS,
+        timeout: DELETE_TIMEOUT_MS,
       })
       say(`[delete initiative] ${said.trim()}`)
     } catch (thrown) {
@@ -103,7 +101,7 @@ export function deletingIntent(
     if (one === null) return undefined
     try {
       const said = await call(INTENT_MODULE, INTENT_EXPORT, [one.slug, one.statement], {
-        timeout: INTENT_TIMEOUT_MS,
+        timeout: DELETE_TIMEOUT_MS,
       })
       say(`[delete intent] ${said.trim()}`)
     } catch (thrown) {
