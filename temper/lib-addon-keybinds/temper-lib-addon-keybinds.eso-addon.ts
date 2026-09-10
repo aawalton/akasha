@@ -6,7 +6,7 @@ export const temperLibAddonKeybinds = {
   type: "eso-addon",
   slug: "temper-lib-addon-keybinds",
   definition: "the split of the game's keybindings menu into standard keybinds and addon keybinds",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "addon-keybinds-entry",
   parts: [

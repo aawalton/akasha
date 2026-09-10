@@ -6,7 +6,7 @@ export const temperKeybinderAddon = {
   type: "eso-addon",
   slug: "temper-keybinder-addon",
   definition: "the add-on keeping one set of key bindings across every character on the account",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "keybinder-entry",

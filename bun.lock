@@ -314,15 +314,6 @@
         "vite": "^8.0.3",
       },
     },
-    "temper/items-addon": {
-      "name": "@akasha/temper-items-addon",
-    },
-    "temper/keybinder-addon": {
-      "name": "@akasha/temper-keybinder-addon",
-    },
-    "temper/lib-addon-keybinds": {
-      "name": "@akasha/temper-lib-addon-keybinds",
-    },
     "temper/lib-addon-menu": {
       "name": "@akasha/temper-lib-addon-menu",
     },
@@ -473,12 +464,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
-
-    "@akasha/temper-items-addon": ["@akasha/temper-items-addon@workspace:temper/items-addon"],
-
-    "@akasha/temper-keybinder-addon": ["@akasha/temper-keybinder-addon@workspace:temper/keybinder-addon"],
-
-    "@akasha/temper-lib-addon-keybinds": ["@akasha/temper-lib-addon-keybinds@workspace:temper/lib-addon-keybinds"],
 
     "@akasha/temper-lib-addon-menu": ["@akasha/temper-lib-addon-menu@workspace:temper/lib-addon-menu"],
 

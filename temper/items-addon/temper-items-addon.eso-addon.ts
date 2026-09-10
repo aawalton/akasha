@@ -7,7 +7,7 @@ export const temperItemsAddon = {
   slug: "temper-items-addon",
   definition:
     "the add-on that tracks every character's items and moves, sells, uses and crafts them by rule",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "inventory-entry",

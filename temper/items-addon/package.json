@@ -1,8 +1,0 @@
-{
-  "name": "@akasha/temper-items-addon",
-  "private": true,
-  "type": "module",
-  "exports": {},
-  "dependencies": {
-  }
-}
