@@ -19,7 +19,7 @@ export const serviceWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry stating no day it broke is dropped rather than carried.",
+      statement: "An entry stating no day the service broke is dropped rather than carried.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const serviceWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "One telling that lands nowhere does not stop the tellings after it.",
+      statement: "The tellings after a telling that lands nowhere still go out.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const serviceWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "Every service whose verdict changed is left carrying what this run found.",
+      statement: "Every service whose verdict changed is left carrying this run's finding.",
     },
     {
       invariantKind: "departure",
