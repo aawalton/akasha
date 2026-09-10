@@ -1,4 +1,4 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { SelectProperty } from "../../../../pages/select-properties/select-property.page-type.types.ts"
 
 export type Source =
   | "kindle"
@@ -11,13 +11,20 @@ export type Source =
 
 export const source = {
   id: "01a063de-2c60-701e-9aed-2067429a2664",
-  pageTypeSlug: "text-property",
-  type: "text-property",
+  pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "source",
   propertySlug: "source",
   definition: "where a collection was imported from",
-  maxLength: 100,
-  nameFormat: "name-format/lower-kebab-case",
+  values: [
+    "kindle",
+    "musicbrainz",
+    "open-library",
+    "royal-road",
+    "the-great-courses",
+    "the-wandering-inn",
+    "tmdb",
+  ],
   invariants: [
     {
       invariantKind: "absence",
@@ -27,9 +34,5 @@ export const source = {
       invariantKind: "departure",
       statement: "A provider is named here before a page may state that provider.",
     },
-    {
-      invariantKind: "gap",
-      statement: "This property is a select over the providers akasha reads from.",
-    },
   ],
-} as const satisfies TextProperty
+} as const satisfies SelectProperty
