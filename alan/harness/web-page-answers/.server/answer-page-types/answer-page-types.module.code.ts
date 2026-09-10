@@ -1,10 +1,10 @@
-import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import {
   answerPageTypes as answerFrom,
   pageTypesDeps,
 } from "akasha/pages/access/answer/answer.module.code.ts"
 
-const DEPS = pageTypesDeps(getUser)
+const DEPS = pageTypesDeps(resolveRequestUser)
 
 export function answerPageTypes(request: Request): Promise<Response> {
   return answerFrom(request, DEPS)
