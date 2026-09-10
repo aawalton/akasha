@@ -32,6 +32,18 @@ export const HELD_PAGE_AT = "akasha/held/held.module.ts"
 
 export const HELD_CODE_AT = "akasha/held/held.module.code.ts"
 
+export const ONE_TS = "akasha/one.ts"
+
+export const TWO_TS = "akasha/two.ts"
+
+export const ONE_MD = "akasha/one.md"
+
+export const GONE_TS = "akasha/gone.ts"
+
+export const STAYS_TS = "akasha/stays.ts"
+
+export const WHOLE_TREE_CHECKS_TAKE = 30_000
+
 const WALKING_AT = new URL("../change-walking/change-walking.module.code.ts", import.meta.url)
   .pathname
 
@@ -57,16 +69,15 @@ const CHECK_PAGE_TYPE: PageType = {
   at: "akasha/checks/code-checks/code-check.page-type.ts",
 }
 
-export function rootWith(
-  named: readonly {
-    readonly slug: string
-    readonly runsOn: readonly string[]
-    readonly raw?: string
-    readonly body: string
-    readonly audit?: string
-  }[],
-  filedUnder: PageType = CHECK_PAGE_TYPE
-): string {
+export type Named = {
+  readonly slug: string
+  readonly runsOn: readonly string[]
+  readonly raw?: string
+  readonly body: string
+  readonly audit?: string
+}
+
+export function rootWith(named: readonly Named[], filedUnder: PageType = CHECK_PAGE_TYPE): string {
   const root = scratch.rootFor("akasha-checking-")
   noneOfTypeFiled(root, filedUnder.slug)
   idFiled(root, CHECK_TYPE, [{ path: filedUnder.at, id: CHECK_TYPE }])
@@ -101,6 +112,12 @@ export function rootWith(
     pathFiled(root, at, held)
     pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)
   }
+  return root
+}
+
+export function rootHolding(named: readonly Named[], holding: readonly string[]): string {
+  const root = rootWith(named)
+  for (const path of holding) writeFileSync(join(root, path), "held")
   return root
 }
 
@@ -177,6 +194,39 @@ export const REFUSES = "refuses-all"
 export const BOTH_CHECKS = [
   { slug: ADMITS, runsOn: ["patch"], body: ADMITS_ALL },
   { slug: REFUSES, runsOn: ["patch"], body: REFUSES_ALL },
+]
+
+export const ADMITS_CHECK = [{ slug: ADMITS, runsOn: ["patch"], body: ADMITS_ALL }]
+
+export const SLEEPING_CHECK = [{ slug: ADMITS, runsOn: [], body: ADMITS_ALL }]
+
+export const NO_PHASE_CHECK = [{ slug: ADMITS, runsOn: [], raw: "", body: ADMITS_ALL }]
+
+export const UNLOADABLE_CHECK = [
+  { slug: ADMITS, runsOn: ["patch"], body: "export function admitsAll( {\n" },
+]
+
+export const REFUSES_CHECK = [{ slug: REFUSES, runsOn: ["patch"], body: REFUSES_ALL }]
+
+export const PHASE_CHECKS = [
+  { slug: ADMITS, runsOn: ["patch"], body: ADMITS_ALL },
+  { slug: REFUSES, runsOn: ["deploy"], body: REFUSES_ALL },
+]
+
+export const THROWS_CHECK = [{ slug: "throws", runsOn: ["patch"], body: THROWS }]
+
+export const THROWS_UNDER_CHECK = [{ slug: "throws-under", runsOn: ["patch"], body: THROWS_UNDER }]
+
+export const TAKING_CHECK = [{ slug: "refuses-taking", runsOn: ["patch"], body: REFUSES_TAKING }]
+
+export const SHADOW_CHECK = [{ slug: "names-shadow", runsOn: ["patch"], body: NAMES_SHADOW }]
+
+export const AUDITS_CHECK = [
+  { slug: AUDITS, runsOn: ["audit"], body: ADMITS_ALL, audit: AUDITS_ROOT },
+]
+
+export const AUDITS_REFUSING = [
+  { slug: AUDITS, runsOn: ["audit"], body: REFUSES_ALL, audit: AUDITS_ROOT },
 ]
 
 export function checkAt(slug: string): string {
