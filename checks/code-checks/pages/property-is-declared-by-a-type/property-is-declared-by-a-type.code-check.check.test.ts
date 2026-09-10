@@ -9,7 +9,7 @@ import {
   landing,
   pathFor,
 } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { propertyIsDeclaredByAType } from "./property-is-declared-by-a-type.code-check.code.ts"
+import { propertyIsDeclaredByAType } from "./property-is-declared-by-a-type.code-check.check.code.ts"
 import {
   body,
   ONE,
