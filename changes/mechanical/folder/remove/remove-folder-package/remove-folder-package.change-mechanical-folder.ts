@@ -54,8 +54,7 @@ export const removeFolderPackage = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here drops the package's name from a workspace, folders being named by a pattern.",
+      statement: "Nothing here drops the package's name from a workspace.",
     },
   ],
   changeKind: "change-mechanical",

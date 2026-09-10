@@ -86,7 +86,7 @@ export const moveFolder = {
     {
       invariantKind: "departure",
       statement:
-        "A folder the index files as a page's own, holding a file under the folder moved, refuses the move.",
+        "A folder the index files as a page's own holding a file under the folder moved refuses the move.",
     },
     {
       invariantKind: "departure",
@@ -131,12 +131,11 @@ export const moveFolder = {
     {
       invariantKind: "departure",
       statement:
-        "The imports, the pages' files and the folders emptied are judged by the guards here.",
+        "The imports and the pages' files and the folders emptied are judged by the guards here.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A generated body importing what moved is written by the generator, so the answer names it nowhere.",
+      statement: "A generated body importing what moved is written by the generator.",
     },
   ],
   changeKind: "change-mechanical",
