@@ -54,5 +54,6 @@ export const pageProperty = {
       statement: "The two answer to different reaches.",
     },
   ],
+  typeGenerator: "ts",
   types: "ts",
 } as const satisfies PageType
