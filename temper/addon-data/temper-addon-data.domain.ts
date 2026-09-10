@@ -93,5 +93,9 @@ export const temperAddonData = {
       invariantKind: "gap",
       statement: "Every table the generators render is named here.",
     },
+    {
+      invariantKind: "upkeep",
+      statement: "The version an addon stamps on a build is the newest version the codec writes.",
+    },
   ],
 } as const satisfies Domain
