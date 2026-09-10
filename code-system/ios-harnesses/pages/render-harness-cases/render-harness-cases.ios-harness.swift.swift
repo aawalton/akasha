@@ -86,8 +86,6 @@ func cases(now: Date) -> [RenderCase] {
         {"stoplights":[\
         {"habit":"plants","tier":"green","reading":"180","nextTier":"blue","progress":0.125,\
         "label":"Plants","figureOffScale":true},\
-        {"habit":"activity","tier":"black","reading":"0","nextTier":null,"progress":null,\
-        "label":"Activity","figureOffScale":true},\
         {"habit":"sleep","tier":"red","reading":"6.4","nextTier":"yellow","progress":0.4,\
         "label":"Sleep","figureOffScale":true},\
         {"habit":"surplus","tier":"yellow","reading":"-2.5","nextTier":"green","progress":0.375,\

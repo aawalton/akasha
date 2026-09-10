@@ -35,8 +35,6 @@ func wideAndPlaceholderCases(_ fx: CaseFixtures) -> [RenderCase] {
                 {"stoplights":[\
                 {"habit":"plants","tier":"blue","reading":"1.2k","nextTier":null,"progress":null,\
                 "label":"Plants","figureOffScale":true},\
-                {"habit":"activity","tier":"blue","reading":"1.5k","nextTier":null,"progress":null,\
-                "label":"Activity","figureOffScale":true},\
                 {"habit":"sleep","tier":"blue","reading":"10.5","nextTier":null,"progress":null,\
                 "label":"Sleep","figureOffScale":true},\
                 {"habit":"surplus","tier":"yellow","reading":"-3.5","nextTier":"green",\
