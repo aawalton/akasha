@@ -6,7 +6,6 @@ import {
   recordRead,
   SUBAGENT_MARK,
 } from "../../../commands/modules/reading/reading.module.code.ts"
-import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   agentPathOf,
@@ -25,6 +24,7 @@ import {
   A,
   AGENT,
   B,
+  bareRoot,
   CLEARS,
   chainOf,
   DECIDING,
@@ -33,27 +33,19 @@ import {
   OWED,
   PATH,
   readAt,
-  type Said,
+  rootWith,
   SEAT_AT,
   SEEDED_AT,
   SUB_AT,
   subaged,
+  sweeping,
   TERM_AT,
   UNDER,
-  warrantingStated,
   X,
   Y,
 } from "./warranting.module.test-fixtures.ts"
 
-const scratch = scratchWorld()
-
-afterAll(scratch.sweep)
-
-function rootWith(every: readonly Said[] = [{ slug: "says-so" }]): string {
-  const root = scratch.rootFor("akasha-warranting-")
-  warrantingStated(root, every)
-  return root
-}
+afterAll(sweeping)
 
 test("a path is asked what it warrants, and the warrants gathered say it", () => {
   const root = rootWith()
@@ -291,7 +283,7 @@ test("a root the warrants cannot be gathered from hands back the paths handed in
 })
 
 test("a root carrying no warrant hands back the paths handed in", () => {
-  const root = scratch.rootFor("akasha-warranting-")
+  const root = bareRoot()
   expect(warrantedIn(root, [A, B])).toEqual([A, B])
 })
 

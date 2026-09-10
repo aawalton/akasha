@@ -12,10 +12,19 @@ import {
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import { recordRead, SUBAGENT_MARK } from "../../../commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
+import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Warrant } from "./warranting.module.code.ts"
 
 const HERE = rootOf(import.meta.path)
+
+const scratch = scratchWorld()
+
+export const sweeping = scratch.sweep
+
+export function bareRoot(): string {
+  return scratch.rootFor("akasha-warranting-")
+}
 
 const WARRANTS_IN = "context/warrants"
 
@@ -164,6 +173,12 @@ export function warrantingStated(root: string, every: readonly Said[]): undefine
       { path: at, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug: one.slug } },
     ])
   }
+}
+
+export function rootWith(every: readonly Said[] = [{ slug: "says-so" }]): string {
+  const root = bareRoot()
+  warrantingStated(root, every)
+  return root
 }
 
 export function readAt(
