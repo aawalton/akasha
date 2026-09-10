@@ -88,7 +88,7 @@ func costCases(now: Date) -> [RenderCase] {
             familySource: "systemSmall",
             body: costBody(tier: "green", reading: "0.00")),
         RenderCase(
-            name: "cost-small-surplus-resting-reads-cost", widget: "CostWidget",
+            name: "cost-small-surplus-resting-reads-cost-red", widget: "CostWidget",
             familySource: "systemSmall",
             body: costBody(
                 tier: "yellow", reading: "0.50",

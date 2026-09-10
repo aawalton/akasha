@@ -42,6 +42,11 @@ export const renderHarnessCasesCost = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A surplus not falling still colors the cost, so that ring is red rather than yellow.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A cost carrying no surplus keeps the color the server drew it.",
     },
     {
