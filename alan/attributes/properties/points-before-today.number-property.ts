@@ -21,7 +21,7 @@ export const pointsBeforeToday = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebuild is what moves this figure on.",
+      statement: "A rebuild alone moves this figure on.",
     },
   ],
 } as const satisfies NumberProperty
