@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "A bare audit is still killed at its 300 second ceiling, 5:01 wall and 17.1 GB peak. 48 of the 51 live checks ran, 204 seconds of check wall between them. tests-pass, typecheck and types-file-runs-nothing never ran and are still last alphabetically. page-matches-its-type is 49 of those seconds and relation-resolves peaks at 20 GB. Six checks are dormant under the experimental property. no-rule-in-two-files is 918. Alan holds the ceiling.",
+        "A bare audit is still killed at its 300 second ceiling, 5:01 wall. 48 of the 51 live checks ran, 204 seconds of check wall between them, since brought to about 158. tests-pass, typecheck and types-file-runs-nothing never ran and are still last alphabetically. The peakBytes a cost row carries is the whole run's high water mark rather than one check's own, and peakAddedBytes is the per check figure. no-rule-in-two-files is 918. Alan holds the ceiling.",
     },
     {
       statement: "Every route file is claimed by a page.",
