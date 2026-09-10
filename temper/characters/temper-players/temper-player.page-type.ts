@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
-import type { CompletionVisibility } from "./properties/completion-visibility.text-property.ts"
-import type { Platform } from "./properties/platform.select-property.ts"
-import type { PlayerHandle } from "./properties/player-handle.text-property.ts"
-import type { Server } from "./properties/server.select-property.ts"
-import type { Settings } from "./properties/settings.file-property.ts"
-
-export type TemperPlayer = TemperCharacterThing & {
-  completionVisibility: CompletionVisibility
-  handle?: PlayerHandle
-  platform?: Platform
-  server?: Server
-  settings?: Settings
-}
 
 export const temperPlayer = {
   id: "01a05fcd-f558-7259-93c1-1504762aa59c",
@@ -36,4 +22,5 @@ export const temperPlayer = {
     { pageProperty: "select-property/server", required: false, many: false },
     { pageProperty: "file-property/settings", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

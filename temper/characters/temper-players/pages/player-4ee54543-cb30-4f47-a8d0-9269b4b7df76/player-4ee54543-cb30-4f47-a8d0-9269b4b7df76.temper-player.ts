@@ -1,4 +1,4 @@
-import type { TemperPlayer } from "../../temper-player.page-type.ts"
+import type { TemperPlayer } from "../../temper-player.page-type.types.ts"
 
 export const player4ee54543Cb304f47A8d09269b4b7df76 = {
   id: "01a05fda-9354-76ae-a07d-acab0b39ee1e",
