@@ -25,7 +25,7 @@ import {
   WDA_LOCAL_PORT_ENV,
 } from "../sim-session/sim-session.module.code.ts"
 
-export const APP_ORIGIN = "capacitor://localhost"
+export const APP_ORIGIN = "https://alanwalton.com"
 
 const WEBVIEW_POLL_ATTEMPTS = 30
 const WEBVIEW_POLL_DELAY_MS = 1_000
