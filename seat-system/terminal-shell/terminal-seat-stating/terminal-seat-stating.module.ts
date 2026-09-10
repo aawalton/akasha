@@ -55,8 +55,12 @@ export const terminalSeatStating = {
       statement: "Either call failing is said on the error stream and the launch carries on.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The path to the seat call is spelled rather than imported.",
+      invariantKind: "departure",
+      statement: "Where the seat call sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That path is answered once as this module loads.",
     },
   ],
 } as const satisfies Module

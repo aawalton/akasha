@@ -1,6 +1,26 @@
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { SEAT_MODE_INTERACTIVE } from "../../seat-launching/seat-launching.module.code.ts"
 
-export const SEAT_COMMAND_REL = "seat-system/seat-call/seat-call.module.code.ts"
+const MODULE = "module"
+
+const SEAT_CALL = "seat-call"
+
+const CODE = "code"
+
+const TS = "ts"
+
+function seatCommandRel(): string {
+  const page = listedAt(akashaRoot(), MODULE, SEAT_CALL)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${SEAT_CALL}\`, so no seat would be stated`)
+  }
+  return at
+}
+
+export const SEAT_COMMAND_REL = seatCommandRel()
 
 const STATED_ATTRIBUTES = ["persona", "domain", "role"] as const
 
