@@ -23,5 +23,21 @@ export const luaBuildCommand = {
       invariantKind: "departure",
       statement: "A plugin is named by an absolute path.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Where the compiler's program and each plugin sit is asked of the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each of them is reached by the id its page carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where the compiler's own folder sits is asked of the index as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A place under that folder is what the checkout a caller names is joined to.",
+    },
   ],
 } as const satisfies Module

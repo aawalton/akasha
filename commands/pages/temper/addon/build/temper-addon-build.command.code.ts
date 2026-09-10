@@ -10,8 +10,8 @@ import {
 } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
 import { copyAddonMetadata } from "akasha/temper/addon-build/addon-metadata-copy/addon-metadata-copy.module.code.ts"
 import {
-  COMPILER_ENTRY,
   compilerCommand,
+  compilerEntry,
   compilerRoot,
 } from "akasha/temper/addon-build/lua-build-command/lua-build-command.module.code.ts"
 import { listAllAddons, resolveAddon } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
@@ -155,9 +155,10 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
 
   const root = resolve(valuesOf(argv, "--code-root")[0] ?? codeRoot())
   const compiler = resolve(valuesOf(argv, "--compiler-root")[0] ?? compilerRoot())
-  if (!existsSync(join(compiler, COMPILER_ENTRY))) {
+  const entry = compilerEntry()
+  if (!existsSync(join(compiler, entry))) {
     return refused(
-      `${compiler} holds no ${COMPILER_ENTRY}, so nothing there is the compiler this builds with`,
+      `${compiler} holds no ${entry}, so nothing there is the compiler this builds with`,
       DATA
     )
   }

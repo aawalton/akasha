@@ -1,25 +1,56 @@
-import { join } from "node:path"
+import { dirname, join, relative } from "node:path"
+import { cliRun } from "akasha/language-design/lua-compiler/cli-run/cli-run.module.ts"
+import { luaCompiler } from "akasha/language-design/lua-compiler/lua-compiler.domain.ts"
+import { pluginNoMultiStore } from "akasha/language-design/lua-compiler/plugin-no-multi-store/plugin-no-multi-store.module.ts"
+import { pluginNoTruthyNumbers } from "akasha/language-design/lua-compiler/plugin-no-truthy-numbers/plugin-no-truthy-numbers.module.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedById } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
-const COMPILER_PACKAGE = "language-design/lua-compiler"
+const CODE = "code"
 
-export const COMPILER_ENTRY = "cli-run/cli-run.module.code.ts"
+const TS = "ts"
 
-const PLUGIN_FILES = [
-  "plugin-no-truthy-numbers/plugin-no-truthy-numbers.module.code.ts",
-  "plugin-no-multi-store/plugin-no-multi-store.module.code.ts",
-] as const
+const PLUGINS = [pluginNoTruthyNumbers, pluginNoMultiStore] as const
+
+function akashaAt(): string {
+  return rootFor(resolveRoots(), AKASHA)
+}
+
+function pageAt(id: string): string {
+  const listed = listedById(akashaAt(), id)
+  if (listed === null) {
+    throw new Error(`no page carries the id \`${id}\`, so nothing says where the compiler sits`)
+  }
+  return listed.path
+}
+
+function compilerPackage(): string {
+  return dirname(pageAt(luaCompiler.id))
+}
+
+function underCompiler(id: string): string {
+  const at = besideAt(pageAt(id), CODE, TS)
+  if (at === null) {
+    throw new Error(`the page carrying \`${id}\` has no code file beside it`)
+  }
+  return relative(compilerPackage(), at)
+}
+
+export function compilerEntry(): string {
+  return underCompiler(cliRun.id)
+}
 
 export function compilerRoot(stated?: string): string {
-  return stated ?? join(rootFor(resolveRoots(), AKASHA), COMPILER_PACKAGE)
+  return stated ?? join(akashaAt(), compilerPackage())
 }
 
 export function luaPluginsArgument(root: string): string {
-  return JSON.stringify(PLUGIN_FILES.map((one) => ({ name: join(root, one) })))
+  return JSON.stringify(PLUGINS.map((one) => ({ name: join(root, underCompiler(one.id)) })))
 }
 
 export function compilerCommand(
@@ -29,7 +60,7 @@ export function compilerCommand(
 ): readonly string[] {
   return [
     "bun",
-    join(root, COMPILER_ENTRY),
+    join(root, compilerEntry()),
     "--project",
     tsconfigPath,
     "--luaPlugins",
