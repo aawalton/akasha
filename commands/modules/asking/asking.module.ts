@@ -12,8 +12,7 @@ export const asking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The command putting a subagent's page up is filled in from the agent id as far as that id says.",
+      statement: "A count of one is said with the singular and every other count with the plural.",
     },
     {
       invariantKind: "absence",

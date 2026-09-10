@@ -31,12 +31,12 @@ import {
   type Given as Arguments,
   readingIn,
 } from "../argument-reading/argument-reading.module.code.ts"
-import { puttingUpSaid } from "../asking/asking.module.code.ts"
 import type { Answer } from "../calling/calling.module.code.ts"
 import { NO_PAGE, saidOf, waitingSaid } from "../change-acting/change-acting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { unknownIn } from "../flags/command-flags.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
+import { SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import { mistaking } from "../refusing/refusing.module.code.ts"
 import { offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
 
@@ -363,4 +363,18 @@ export async function changing(
     refusals: landed.refusals,
     code: landed.code,
   }
+}
+
+const PRESENCE_AT = "seat-system/subagents/presence/subagent-presence.module.code.ts"
+
+const PUTTING_UP = "write"
+
+export function puttingUpSaid(root: string, agentId: string | null): string {
+  const mark = agentId === null ? -1 : agentId.indexOf(SUBAGENT_MARK)
+  const held =
+    agentId === null || mark <= 0
+      ? "<the seat> <the id the subagent runs under> <the kind it was dispatched as> <the seat's id>"
+      : `<the seat> ${agentId.slice(mark + SUBAGENT_MARK.length)}` +
+        ` <the kind it was dispatched as> ${agentId.slice(0, mark)}`
+  return `bun ${join(root, PRESENCE_AT)} ${root} ${PUTTING_UP} ${held}`
 }

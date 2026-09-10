@@ -131,6 +131,11 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "That command is filled in from the agent id as far as that id says, and left open past it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A subagent dispatched a moment ago can run before that page lands.",
     },
     {
