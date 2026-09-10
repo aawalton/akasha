@@ -1,4 +1,4 @@
-import type { TemperLocationType } from "../temper-location-type.page-type.ts"
+import type { TemperLocationType } from "../temper-location-type.page-type.types.ts"
 
 export const companion = {
   id: "019e3103-270d-7c8d-9a55-b9e6da68fd8e",

@@ -1,4 +1,4 @@
-import type { TemperLocationType } from "../temper-location-type.page-type.ts"
+import type { TemperLocationType } from "../temper-location-type.page-type.types.ts"
 
 export const house = {
   id: "019e3103-270c-7bdd-bf4f-7b47ea7c4f7a",

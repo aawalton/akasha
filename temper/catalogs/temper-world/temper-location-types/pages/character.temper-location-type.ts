@@ -1,4 +1,4 @@
-import type { TemperLocationType } from "../temper-location-type.page-type.ts"
+import type { TemperLocationType } from "../temper-location-type.page-type.types.ts"
 
 export const character = {
   id: "019e3103-2705-7edb-a0fc-a172e916fbbb",
