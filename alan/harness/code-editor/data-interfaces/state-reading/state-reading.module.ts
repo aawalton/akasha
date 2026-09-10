@@ -15,8 +15,11 @@ export const stateReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The folder above is watched too, so a folder taken away and put back is watched again.",
+      statement: "The folder above is watched too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder taken away and put back is watched again.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +35,8 @@ export const stateReading = {
     },
     {
       invariantKind: "departure",
-      statement: "One watcher serves every part reading one folder rather than one for each part.",
+      statement:
+        "One watcher serves every part reading one folder rather than one watcher for each part.",
     },
     {
       invariantKind: "departure",
