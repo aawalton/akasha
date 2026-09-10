@@ -18,7 +18,6 @@ export const utilsNarrow = {
     "module/as-record",
     "module/assert-never",
     "module/badge-variant",
-    "module/capitalize",
     "module/collapse",
     "module/create-data-file",
     "module/delete-record-key",

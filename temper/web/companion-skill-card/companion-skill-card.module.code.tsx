@@ -13,7 +13,7 @@ import {
   extractPrimaryTargeting,
   updateDescriptionWithCalculatedValues,
 } from "akasha/temper/companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
-import { capitalize } from "akasha/utils/narrow/capitalize/capitalize.module.code.ts"
+import { capitalize } from "akasha/utils/text/capitalize/capitalize.module.code.ts"
 import type { ReactNode } from "react"
 import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import { formatAbbreviated } from "../../formula-framework/number-format/number-format.module.code.ts"

@@ -1,4 +1,4 @@
-import { capitalize } from "akasha/utils/narrow/capitalize/capitalize.module.code.ts"
+import { capitalize } from "akasha/utils/text/capitalize/capitalize.module.code.ts"
 import type {
   TargetScope,
   TargetType,

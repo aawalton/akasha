@@ -13,7 +13,7 @@ import { companionWeaponSlots } from "akasha/temper/companions-core/companion-we
 import type { CompanionWeaponTypeId } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"
-import { capitalize } from "akasha/utils/narrow/capitalize/capitalize.module.code.ts"
+import { capitalize } from "akasha/utils/text/capitalize/capitalize.module.code.ts"
 import {
   ESO_EQUIP_TYPES,
   ESO_QUALITY_TO_COMPANION_QUALITY,
