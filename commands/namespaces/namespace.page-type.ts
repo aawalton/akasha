@@ -22,10 +22,7 @@ export const namespace = {
       statement:
         "A namespace under another namespace opens its own slug with the outer slug and a hyphen.",
     },
-    {
-      invariantKind: "gap",
-      statement: "No check judges a slug against the slug of the page above it.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A command's parent is its namespace rather than a domain.",
