@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.ts"
+import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
 
 export const companionAzandarScholarOfApocrypha = {
   id: "01a05fce-c49e-74f4-afe1-373d9c1c3329",

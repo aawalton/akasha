@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-
-export type TemperCompanionSkillLine = TemperCompanionThing
 
 export const temperCompanionSkillLine = {
   id: "01a05fce-1854-7d72-872a-0e22ce5c84c5",
@@ -17,4 +14,5 @@ export const temperCompanionSkillLine = {
     { pageProperty: "text-property/category", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.ts"
+import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
 
 export const companionZerithVarRemedyOfAtonement = {
   id: "01a05fce-c4a8-7802-abc7-65c3d2ae9c6a",

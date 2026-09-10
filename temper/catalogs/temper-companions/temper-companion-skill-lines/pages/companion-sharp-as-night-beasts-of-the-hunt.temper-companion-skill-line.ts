@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.ts"
+import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
 
 export const companionSharpAsNightBeastsOfTheHunt = {
   id: "01a05fce-c4a5-7e03-a0cc-0290376bb018",

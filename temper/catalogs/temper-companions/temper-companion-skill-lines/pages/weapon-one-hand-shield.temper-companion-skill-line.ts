@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.ts"
+import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
 
 export const weaponOneHandShield = {
   id: "01a05fce-c4ad-7bce-b200-15ba983dd8f9",

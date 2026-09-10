@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.ts"
+import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
 
 export const companionEmberMischievousCaster = {
   id: "01a05fce-c4a1-7248-babc-2a6c02f272ec",

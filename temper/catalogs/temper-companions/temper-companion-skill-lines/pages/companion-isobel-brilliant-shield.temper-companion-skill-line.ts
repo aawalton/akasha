@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.ts"
+import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
 
 export const companionIsobelBrilliantShield = {
   id: "01a05fce-c4a3-7703-84a6-367692e03b0a",

@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.ts"
+import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
 
 export const weaponDestructionStaff = {
   id: "01a05fce-c4ac-7b73-b3d0-17cf9942af39",

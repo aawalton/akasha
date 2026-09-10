@@ -1,4 +1,4 @@
-import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.ts"
+import type { TemperCompanionSkillLine } from "../temper-companion-skill-line.page-type.types.ts"
 
 export const companionTanlorinEmpathicFighter = {
   id: "01a05fce-c4a7-7eff-9a08-7ec94722ccbd",
