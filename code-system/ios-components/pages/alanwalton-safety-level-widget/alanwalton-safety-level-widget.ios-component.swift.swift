@@ -33,7 +33,7 @@ struct SafetyLevelHomeView: View {
         .widgetURL(
             URL(
                 string:
-                    "https://alanwalton.com/nav/tracking-690c624f?tab=019edbf5-d4ea-7380-a6be-bc7496dbb24c#widget=alanwalton-safety-level"
+                    "capacitor://localhost/nav/tracking-690c624f?tab=019edbf5-d4ea-7380-a6be-bc7496dbb24c#widget=alanwalton-safety-level"
             )
         )
     }
