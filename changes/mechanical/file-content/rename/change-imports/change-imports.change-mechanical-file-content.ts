@@ -28,7 +28,13 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier naming a package is left as it is, whatever moved.",
+      statement:
+        "A specifier naming a package other than the root is left as it is, whatever moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name opening with the root package spells a path from the root and follows what moved.",
     },
     {
       invariantKind: "departure",

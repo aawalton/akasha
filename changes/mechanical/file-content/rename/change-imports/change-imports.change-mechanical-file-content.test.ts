@@ -14,6 +14,12 @@ const TABLE = "akasha/one/routes.ts"
 
 const ALIAS = "@akasha/two/other"
 
+const ROOTED = "akasha/two/other.module.code.ts"
+
+const ROOTED_AT = "akasha/four/other.module.code.ts"
+
+const ROOT_MOVED = new Map([["two/other.module.code.ts", "four/other.module.code.ts"]])
+
 const TYPED_ROUTE = "akasha/one/routes/api.addons.download.ts"
 
 const TYPED_ROUTE_AT = "akasha/one/routes/addon-parcel/addon-parcel.route.code.ts"
@@ -123,4 +129,22 @@ test("a package name a body spells outside an import is left alone too", () => {
   const said = changeImports(TABLE, TABLE, text, new Map([[TARGET, ARRIVES]]))
 
   expect(said.edits).toEqual([])
+})
+
+test("a specifier spelled from the root package follows the file that moved", () => {
+  const text = `import { other } from "${ROOTED}"\n\nexport const held = other\n`
+
+  expect(bodyIn(HOLDER, HOLDER, text, ROOT_MOVED)).toContain(`from "${ROOTED_AT}"`)
+})
+
+test("a root-spelled name outside an import follows what moved too", () => {
+  const text = `export const at = "${ROOTED}"\n`
+
+  expect(bodyIn(TABLE, TABLE, text, ROOT_MOVED)).toBe(`export const at = "${ROOTED_AT}"\n`)
+})
+
+test("a root-spelled name landing on nothing that moved is left alone", () => {
+  const text = `export const at = "${ROOTED}"\n`
+
+  expect(ranOn(TABLE, TABLE, text, new Map()).edits).toEqual([])
 })

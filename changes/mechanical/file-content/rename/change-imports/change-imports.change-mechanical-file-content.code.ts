@@ -15,6 +15,8 @@ const UNDER = "/"
 
 const CODE = new Set([".ts", ".tsx"])
 
+const ROOT = "akasha/"
+
 function stemOf(path: string): string {
   const name = basename(path)
   const tail = extname(name)
@@ -38,6 +40,12 @@ function beneathFor(
   return there === undefined ? null : relative(dir, there)
 }
 
+function rootedFor(said: string, moved: ReadonlyMap<string, string>): string | null {
+  if (!said.startsWith(ROOT)) return null
+  const there = moved.get(said.slice(ROOT.length))
+  return there === undefined ? null : `${ROOT}${there}`
+}
+
 function nextFor(
   was: string,
   now: string,
@@ -50,6 +58,8 @@ function nextFor(
     const generated = generatedFor(was, now, said)
     if (generated !== null) return generated
   }
+  const under = rootedFor(said, moved)
+  if (under !== null) return under
   const rooted = moved.get(said)
   if (rooted !== undefined) return rooted
   const landed = landingOf(was, said)
