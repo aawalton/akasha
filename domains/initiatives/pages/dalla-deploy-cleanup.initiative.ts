@@ -11,7 +11,7 @@ export const dallaDeployCleanup = {
     {
       statement: "Every cluster service has deployed through `akasha deploy`.",
       workingMemory:
-        "52 cluster service pages. Run on 2026-09-10: 36 now run exactly as their pages describe, 5 are web apps whose deploy would build and roll them out, and 11 refuse because a checksum or an image is a value nothing filled in, which is the finding `the-akasha-deploy-path-places-no-secret`. Applying git-transport's page found two faults, both mended: a hook stub written through a stale symlink, and `kubectl diff` asked in `default` rather than in the workload's namespace.\n",
+        "52 cluster service pages, every one run through `akasha deploy` on 2026-09-10. 41 now run exactly as their pages describe, the 5 web apps among them rebuilt and rolled out 1/1. The other 11 refuse over a checksum or an image nothing filled in, which is the finding `the-akasha-deploy-path-places-no-secret` and the one thing left before this is met. Three faults the run found are mended: a hook stub written through a stale symlink, `kubectl diff` asked in `default`, and a dry run that pushed.\n",
     },
     {
       statement: "Every ios app has deployed through `akasha deploy`.",
