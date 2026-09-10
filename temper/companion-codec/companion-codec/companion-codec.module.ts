@@ -6,4 +6,5 @@ export const companionCodec = {
   slug: "companion-codec",
   definition: "the text a companion build is written to and read back from",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

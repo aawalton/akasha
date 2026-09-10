@@ -6,4 +6,5 @@ export const buildCodec = {
   slug: "build-codec",
   definition: "the text a character build is written to and read back from",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
