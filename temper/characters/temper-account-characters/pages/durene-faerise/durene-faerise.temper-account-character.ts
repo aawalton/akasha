@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const dureneFaerise = {
   id: "019dda20-723a-792a-99cc-c642ede18861",

@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const shaestrel = {
   id: "019dda20-86ca-7452-8c74-73699a1fae95",

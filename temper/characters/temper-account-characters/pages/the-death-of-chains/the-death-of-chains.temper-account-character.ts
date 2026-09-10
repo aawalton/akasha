@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const theDeathOfChains = {
   id: "019dda20-7b4d-7e3d-b536-31161341a1eb",

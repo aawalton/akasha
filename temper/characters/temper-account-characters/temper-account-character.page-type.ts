@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
-import type { CharacterRoles } from "./properties/character-roles.relation-property.ts"
-import type { FirstName } from "./properties/first-name.text-property.ts"
-import type { LiveBuildId } from "./properties/live-build-id.text-property.ts"
-
-export type TemperAccountCharacter = TemperCharacterThing & {
-  firstName?: FirstName
-  liveBuildId?: LiveBuildId
-  roles?: CharacterRoles
-}
 
 export const temperAccountCharacter = {
   id: "01a05fcd-f547-75dd-87b1-fce27e98fddd",
@@ -41,4 +31,5 @@ export const temperAccountCharacter = {
       statement: "A character is named by the account the character was rolled on.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

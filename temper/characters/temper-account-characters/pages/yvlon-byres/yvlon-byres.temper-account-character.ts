@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const yvlonByres = {
   id: "019dda20-9dc3-7f46-9cf3-b2c53c6b2df9",

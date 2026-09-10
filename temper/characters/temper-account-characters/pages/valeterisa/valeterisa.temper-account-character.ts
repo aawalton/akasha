@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const valeterisa = {
   id: "019dda20-83ff-7e21-bcc6-a0b3bed56960",

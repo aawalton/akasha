@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const lyonetteDuMarquin = {
   id: "019dda20-810c-74b1-9fa4-350eb88bc5c5",

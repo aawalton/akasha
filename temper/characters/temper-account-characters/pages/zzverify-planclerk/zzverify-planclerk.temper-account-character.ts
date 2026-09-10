@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const zzverifyPlanclerk = {
   id: "019f99ae-d7cb-75cc-b2fd-22982ed361eb",

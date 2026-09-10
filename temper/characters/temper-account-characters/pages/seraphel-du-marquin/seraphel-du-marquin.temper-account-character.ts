@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const seraphelDuMarquin = {
   id: "019dda20-7e2b-7e3f-a07e-62a06010184e",

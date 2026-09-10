@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const selwynVharrow = {
   id: "019f9801-b0b3-7a4a-a634-b60813b1a79e",

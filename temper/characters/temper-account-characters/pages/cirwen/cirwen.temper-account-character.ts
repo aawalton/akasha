@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const cirwen = {
   id: "019f97f0-f6a7-7ae3-abbb-ac15cee83ab9",

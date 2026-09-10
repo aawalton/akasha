@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const maviolaEl = {
   id: "019dda20-8c7c-772a-9cbd-3ae77bd7c136",

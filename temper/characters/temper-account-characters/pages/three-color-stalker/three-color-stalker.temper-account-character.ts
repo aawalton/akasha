@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const threeColorStalker = {
   id: "019dda20-a0b3-7b8b-ae04-dae6143ee548",

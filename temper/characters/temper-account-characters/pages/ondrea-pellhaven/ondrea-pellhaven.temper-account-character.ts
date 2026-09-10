@@ -1,4 +1,4 @@
-import type { TemperAccountCharacter } from "../../temper-account-character.page-type.ts"
+import type { TemperAccountCharacter } from "../../temper-account-character.page-type.types.ts"
 
 export const ondreaPellhaven = {
   id: "019f9801-b172-77cd-a8fb-1ee9914a0e90",
