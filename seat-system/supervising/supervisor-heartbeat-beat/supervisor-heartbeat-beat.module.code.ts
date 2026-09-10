@@ -25,13 +25,17 @@ function beatArgv(args: readonly string[]): readonly string[] {
   return [BEAT, ...args]
 }
 
+function parseBeatReport(held: unknown): BeatReport | null {
+  if (typeof held !== "object" || held === null || !("outcome" in held)) return null
+  return held as BeatReport
+}
+
 function reportFrom(output: string, code: number): BeatReport {
   const line = output.trim().split("\n").at(-1) ?? ""
   try {
     const parsed: unknown = JSON.parse(line)
-    if (typeof parsed === "object" && parsed !== null && "outcome" in parsed) {
-      return parsed as BeatReport
-    }
+    const report = parseBeatReport(parsed)
+    if (report !== null) return report
   } catch {}
   const said = output.trim()
   return {
