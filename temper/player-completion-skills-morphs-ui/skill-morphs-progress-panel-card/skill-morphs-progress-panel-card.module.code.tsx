@@ -1,6 +1,9 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
+import type { CharacterCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import type { CompletionCharacter } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -14,9 +17,6 @@ import type {
   MorphableSkillDetail,
 } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import { morphableSkillLineIds } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
-import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
-import type { CharacterCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import type { CompletionCharacter } from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 import { skillLineCategoriesSorted } from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,

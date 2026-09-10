@@ -1,4 +1,11 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
+import { SET_SUBCATEGORY_TO_ACTIVITY } from "akasha/temper/player-completion/activity-category-mapping/activity-category-mapping.module.code.ts"
+import type { AccountCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import type {
+  ItemSetOverallProgress,
+  ItemSetSubcategoryProgress,
+} from "akasha/temper/player-completion/completion-item-set-progress/completion-item-set-progress.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -7,13 +14,6 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
-import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
-import { SET_SUBCATEGORY_TO_ACTIVITY } from "akasha/temper/temper-player-completion/activity-category-mapping/activity-category-mapping.module.code.ts"
-import type { AccountCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import type {
-  ItemSetOverallProgress,
-  ItemSetSubcategoryProgress,
-} from "akasha/temper/temper-player-completion/completion-item-set-progress/completion-item-set-progress.module.code.ts"
 
 interface ItemSetsProgressPanelCardProps {
   id?: AccountCardId

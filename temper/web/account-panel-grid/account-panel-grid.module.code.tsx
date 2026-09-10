@@ -1,13 +1,13 @@
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
+import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { SubclassingSkillMorphsPanelCard } from "akasha/temper/player-completion-skills-morphs-ui/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx"
 import type {
   CompletionFilter,
   CompletionSortMode,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
-import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
-import type { AccountSummaryData } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { AccountAchievementsPanelCard } from "../account-achievements-panel-card/account-achievements-panel-card.module.code.tsx"
 import { AccountCollectiblesPanelCard } from "../account-collectibles-panel-card/account-collectibles-panel-card.module.code.tsx"
 import { AccountPoiPanelCard } from "../account-poi-panel-card/account-poi-panel-card.module.code.tsx"

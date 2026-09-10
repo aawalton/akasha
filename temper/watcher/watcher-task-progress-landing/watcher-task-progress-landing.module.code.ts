@@ -5,8 +5,8 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
-import type { CompletionCharacterEntry } from "akasha/temper/temper-player-completion/completion-next-character/completion-next-character.module.code.ts"
-import { buildCrossCharacterCompletionIndex } from "akasha/temper/temper-player-completion/completion-progress-index/completion-progress-index.module.code.ts"
+import type { CompletionCharacterEntry } from "akasha/temper/player-completion/completion-next-character/completion-next-character.module.code.ts"
+import { buildCrossCharacterCompletionIndex } from "akasha/temper/player-completion/completion-progress-index/completion-progress-index.module.code.ts"
 import { log } from "../watcher-logging/watcher-logging.module.code.ts"
 import {
   besidePathOf,

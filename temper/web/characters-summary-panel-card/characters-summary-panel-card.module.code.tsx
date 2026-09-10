@@ -1,4 +1,6 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { CharacterSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import { CUMULATIVE_CHARACTER_CARDS } from "akasha/temper/player-completion/completion-cumulative-cards/completion-cumulative-cards.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -6,8 +8,6 @@ import {
   type CompletionSortMode,
   createNodeFilter,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
-import type { CharacterSummaryData } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import { CUMULATIVE_CHARACTER_CARDS } from "akasha/temper/temper-player-completion/completion-cumulative-cards/completion-cumulative-cards.module.code.ts"
 
 interface CharactersSummaryPanelCardProps {
   summary: CharacterSummaryData

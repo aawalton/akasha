@@ -1,6 +1,13 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { getRacialSkillLineIdForRace } from "akasha/temper/character-skills/passive-queries/passive-queries.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
+import type { CharacterCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import type {
+  CharacterSkillLineProgress,
+  CompletionCharacter,
+  SkillLineProgressEntry,
+} from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -13,13 +20,6 @@ import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
 } from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
-import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
-import type { CharacterCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import type {
-  CharacterSkillLineProgress,
-  CompletionCharacter,
-  SkillLineProgressEntry,
-} from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 import { skillLineCategoriesSorted } from "../../skill-lines/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,

@@ -24,8 +24,8 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
-import type { AccountSummaryData } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
+import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { Globe } from "lucide-react"
 import { useState } from "react"
 import {

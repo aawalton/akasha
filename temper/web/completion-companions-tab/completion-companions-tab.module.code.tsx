@@ -14,8 +14,8 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import type { CompanionSummaryData } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import { buildCompanionSummary } from "akasha/temper/temper-player-completion/completion-summary-companion/completion-summary-companion.module.code.ts"
+import type { CompanionSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import { buildCompanionSummary } from "akasha/temper/player-completion/completion-summary-companion/completion-summary-companion.module.code.ts"
 import { useMemo, useState } from "react"
 import { CompanionLevelPanelCard } from "../companion-level-panel-card/companion-level-panel-card.module.code.tsx"
 import type { CompanionProgressData } from "../companion-progress/companion-progress.module.code.ts"

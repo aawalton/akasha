@@ -1,7 +1,7 @@
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,
-} from "akasha/temper/temper-player-completion/companion-rapport/companion-rapport.module.code.ts"
+} from "akasha/temper/player-completion/companion-rapport/companion-rapport.module.code.ts"
 
 interface CompanionRapportSource {
   defId: number

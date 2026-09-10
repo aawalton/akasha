@@ -9,8 +9,8 @@ import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,
-} from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
-import { completionPercent } from "akasha/temper/temper-player-completion/completion-percent/completion-percent.module.code.ts"
+} from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
+import { completionPercent } from "akasha/temper/player-completion/completion-percent/completion-percent.module.code.ts"
 import { CheckIcon, MinusIcon } from "lucide-react"
 import type { ReactNode } from "react"
 import { useEffect, useRef, useState } from "react"

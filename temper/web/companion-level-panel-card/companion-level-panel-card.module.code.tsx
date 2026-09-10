@@ -1,4 +1,6 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { CompanionCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import type { CompanionProgressEntry } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -7,8 +9,6 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
-import type { CompanionCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import type { CompanionProgressEntry } from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 
 interface CompanionLevelPanelCardProps {
   id?: CompanionCardId

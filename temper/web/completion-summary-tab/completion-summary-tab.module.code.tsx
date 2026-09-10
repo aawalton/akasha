@@ -15,7 +15,7 @@ import type {
   AccountSummaryData,
   CharacterSummaryData,
   CompanionSummaryData,
-} from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { useState } from "react"
 import { AccountSummaryPanelCard } from "../account-summary-panel-card/account-summary-panel-card.module.code.tsx"
 import { CharactersSummaryPanelCard } from "../characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"

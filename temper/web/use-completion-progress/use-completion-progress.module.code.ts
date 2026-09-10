@@ -5,6 +5,11 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import type {
+  AccountSummaryData,
+  CharacterSummaryData,
+  CompanionSummaryData,
+} from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   useAccountCompletion,
   useAccountCompletionByUser,
@@ -13,11 +18,6 @@ import {
   useCompletionCompanions,
   useCompletionCompanionsByUser,
 } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
-import type {
-  AccountSummaryData,
-  CharacterSummaryData,
-  CompanionSummaryData,
-} from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { useMemo } from "react"
 import type { AccountProgressData } from "../account-progress/account-progress.module.code.ts"
 import { useAccountProgress } from "../account-progress/account-progress.module.code.ts"
