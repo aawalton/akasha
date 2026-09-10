@@ -1,4 +1,4 @@
-import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.ts"
+import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.types.ts"
 
 export const healToFull = {
   id: "019e4ccf-ce34-7158-bb7e-5fc69664fed5",

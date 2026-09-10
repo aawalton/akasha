@@ -1,4 +1,4 @@
-import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.ts"
+import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.types.ts"
 
 export const becomeInvisible = {
   id: "019e4ccf-ce37-7039-8de0-b9f9cccc9cd1",

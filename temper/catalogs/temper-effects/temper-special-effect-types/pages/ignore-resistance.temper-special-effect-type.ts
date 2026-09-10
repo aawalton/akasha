@@ -1,4 +1,4 @@
-import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.ts"
+import type { TemperSpecialEffectType } from "../temper-special-effect-type.page-type.types.ts"
 
 export const ignoreResistance = {
   id: "019e4ccf-ce3d-7693-aa74-7b445737daa0",
