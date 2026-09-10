@@ -1,5 +1,5 @@
 import { namedUnder } from "@akasha/pages/page-file-name"
-import { pageIn } from "../page-named-as-stated/page-named-as-stated.code-check.code.ts"
+import { pageIn } from "../page-named-as-stated/page-named-as-stated.code-check.decision.code.ts"
 
 export const INSTANT_PROPERTY = "instant-property"
 
