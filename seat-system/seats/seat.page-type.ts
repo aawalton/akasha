@@ -16,6 +16,8 @@ export const seat = {
     "boolean-property/live-subagent",
     "boolean-property/on-call",
     "boolean-property/send-in-flight",
+    "file-property/subagent-edits",
+    "file-property/subagent-refusals",
     "instant-property/restart-armed-at",
     "number-property/context-tokens",
     "number-property/proxy-port",
@@ -112,6 +114,20 @@ export const seat = {
       many: false,
       uncommitted: true,
     },
+    {
+      pageProperty: "file-property/subagent-edits",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
+    {
+      pageProperty: "file-property/subagent-refusals",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "txt",
+    },
   ],
   invariants: [
     {
@@ -138,6 +154,11 @@ export const seat = {
     {
       invariantKind: "departure",
       statement: "A seat has the mode the seat is running in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat keeps what a subagent under it left unlanded once that subagent's page goes.",
     },
   ],
   types: "ts",

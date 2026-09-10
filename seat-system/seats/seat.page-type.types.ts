@@ -13,6 +13,8 @@ import type { Role } from "./properties/role.relation-property.ts"
 import type { RotatedSessionUuid } from "./properties/rotated-session-uuid.text-property.ts"
 import type { SeatPersona } from "./properties/seat-persona.relation-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
+import type { SubagentEdits } from "./properties/subagent-edits.file-property.ts"
+import type { SubagentRefusals } from "./properties/subagent-refusals.file-property.ts"
 import type { SupervisorProcess } from "./properties/supervisor-process.process-property.ts"
 import type { TranscriptPath } from "./properties/transcript-path.text-property.ts"
 import type { TurnPending } from "./properties/turn-pending.record-property.ts"
@@ -37,4 +39,6 @@ export type Seat = Agent & {
   request?: Request
   reExecAsk?: ReExecAsk
   rotatedSessionUuid?: RotatedSessionUuid
+  subagentEdits?: SubagentEdits
+  subagentRefusals?: SubagentRefusals
 }
