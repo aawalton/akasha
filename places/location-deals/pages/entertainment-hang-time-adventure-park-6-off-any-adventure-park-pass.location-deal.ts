@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentHangTimeAdventurePark6OffAnyAdventureParkPass = {
   id: "019f322c-9d62-7e76-b8a5-fd385b3a671b",

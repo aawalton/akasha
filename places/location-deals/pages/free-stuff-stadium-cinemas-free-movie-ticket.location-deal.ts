@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffStadiumCinemasFreeMovieTicket = {
   id: "019f322c-a31f-720e-8e5d-990f4b319e16",

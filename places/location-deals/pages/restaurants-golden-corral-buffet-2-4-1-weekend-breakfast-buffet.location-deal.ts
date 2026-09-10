@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const restaurantsGoldenCorralBuffet241WeekendBreakfastBuffet = {
   id: "019f322c-a917-76d1-b2a7-d5fc8e36586f",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentClassicFunCenter241SkatingClimbingBouncingOrLaserTag = {
   id: "019f322c-9cea-754b-acb4-d7691c988369",

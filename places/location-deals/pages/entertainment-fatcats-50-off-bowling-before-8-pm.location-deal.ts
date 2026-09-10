@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentFatcats50OffBowlingBefore8Pm = {
   id: "019f322c-9d52-7dcb-9092-59bbe080e8a2",

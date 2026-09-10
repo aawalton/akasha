@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffUtahCountryDanceFreeSaturdayAdmission = {
   id: "019f322c-a3b1-7bed-8077-b52bc0fafdb3",

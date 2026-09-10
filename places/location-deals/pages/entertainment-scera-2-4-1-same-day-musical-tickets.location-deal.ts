@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentScera241SameDayMusicalTickets = {
   id: "019f322c-9e9a-7034-b423-4c0e67b4c5d3",

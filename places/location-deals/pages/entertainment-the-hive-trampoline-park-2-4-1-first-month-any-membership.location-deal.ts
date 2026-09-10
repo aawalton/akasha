@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentTheHiveTrampolinePark241FirstMonthAnyMembership = {
   id: "019f322c-9ee6-79ea-9801-0b146575ab1e",

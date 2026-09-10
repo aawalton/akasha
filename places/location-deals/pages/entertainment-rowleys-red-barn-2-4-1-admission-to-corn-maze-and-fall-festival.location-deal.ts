@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentRowleysRedBarn241AdmissionToCornMazeAndFallFestival = {
   id: "019f322c-9e92-7599-b764-587689a77fb2",

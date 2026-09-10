@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreGOATHaircuts10OffAnyMensHaircut = {
   id: "019f322c-abca-7137-bcad-3c80dc17c440",

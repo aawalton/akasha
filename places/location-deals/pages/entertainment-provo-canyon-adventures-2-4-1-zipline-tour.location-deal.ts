@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentProvoCanyonAdventures241ZiplineTour = {
   id: "019f322c-9e7e-7e7d-b8a8-fbea7d74998f",

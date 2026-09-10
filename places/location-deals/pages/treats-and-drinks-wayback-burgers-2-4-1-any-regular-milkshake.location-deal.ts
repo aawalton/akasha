@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const treatsAndDrinksWaybackBurgers241AnyRegularMilkshake = {
   id: "019f322c-b2d7-715d-b4db-56acfb6c7a69",

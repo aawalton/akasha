@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentUtahCenterForTheCeramicArts50OffOneClass = {
   id: "019f322c-9f49-798d-9877-5aa15713ca79",

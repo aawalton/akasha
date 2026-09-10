@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentJackAndJillLanes241BowlingForSamePlayer = {
   id: "019f322c-9dc2-7ff3-8042-403f97f676f5",

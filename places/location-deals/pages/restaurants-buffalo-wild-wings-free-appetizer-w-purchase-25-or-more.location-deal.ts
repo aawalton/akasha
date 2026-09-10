@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const restaurantsBuffaloWildWingsFreeAppetizerWPurchase25OrMore = {
   id: "019f322c-a6ad-7fe8-af6b-b5e77a4cacfb",

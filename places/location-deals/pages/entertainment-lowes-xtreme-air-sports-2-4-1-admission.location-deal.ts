@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentLowesXtremeAirSports241Admission = {
   id: "019f322c-9e2c-77a5-a281-2c1344b34e5d",

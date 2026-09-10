@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffLaserAssaultFreeGameOfLaserTag = {
   id: "019f322c-a098-75dc-95e4-3a22412417b4",

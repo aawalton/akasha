@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentKaraoke38241HourOfKaraoke = {
   id: "019f322c-9dcb-799b-a8a9-cc0addd51e8d",

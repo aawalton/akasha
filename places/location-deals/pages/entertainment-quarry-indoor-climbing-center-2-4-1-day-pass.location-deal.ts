@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentQuarryIndoorClimbingCenter241DayPass = {
   id: "019f322c-9e82-77a2-b1a8-fb27250961a7",

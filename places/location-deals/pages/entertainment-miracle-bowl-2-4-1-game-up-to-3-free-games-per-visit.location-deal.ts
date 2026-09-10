@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentMiracleBowl241GameUpTo3FreeGamesPerVisit = {
   id: "019f322c-9e2f-7363-9467-c91ed574ce1c",

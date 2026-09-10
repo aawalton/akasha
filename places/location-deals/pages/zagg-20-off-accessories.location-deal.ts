@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const zagg20OffAccessories = {
   id: "019f322c-acf5-7a25-a7b6-0d7c0d27e953",

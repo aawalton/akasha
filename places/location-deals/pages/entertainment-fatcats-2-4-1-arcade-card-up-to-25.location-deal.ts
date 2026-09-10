@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentFatcats241ArcadeCardUpTo25 = {
   id: "019f322c-9d40-781c-aaa0-865e6d64a9ef",

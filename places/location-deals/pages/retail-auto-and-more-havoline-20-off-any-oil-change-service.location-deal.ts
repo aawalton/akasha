@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreHavoline20OffAnyOilChangeService = {
   id: "019f322c-abd4-7e4b-8ed4-432e1fdf8c8e",

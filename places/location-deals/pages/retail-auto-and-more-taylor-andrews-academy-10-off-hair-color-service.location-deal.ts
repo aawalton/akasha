@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreTaylorAndrewsAcademy10OffHairColorService = {
   id: "019f322c-aca1-7308-891a-78c84b467e91",

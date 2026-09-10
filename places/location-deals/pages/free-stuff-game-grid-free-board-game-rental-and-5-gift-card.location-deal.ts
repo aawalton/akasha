@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffGameGridFreeBoardGameRentalAnd5GiftCard = {
   id: "019f322c-a082-738f-8d0f-2ea6459bb9ae",

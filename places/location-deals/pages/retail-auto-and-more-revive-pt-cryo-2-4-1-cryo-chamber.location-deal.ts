@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreRevivePtCryo241CryoChamber = {
   id: "019f322c-ac8e-7c9b-8d8f-91fa294cbaad",

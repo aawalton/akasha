@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffGameGridFreeMagicTheGatheringBoosterPack = {
   id: "019f322c-a084-79fe-9f52-b00182e972e3",

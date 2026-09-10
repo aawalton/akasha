@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreHealingMountainMassage241FootSpaMassage = {
   id: "019f322c-abe3-7128-803f-8ab702888647",

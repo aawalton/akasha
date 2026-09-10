@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentLanKing241HourOfGameTimeUpTo4Players = {
   id: "019f322c-9e13-7bc5-af3b-39e27b37cc56",

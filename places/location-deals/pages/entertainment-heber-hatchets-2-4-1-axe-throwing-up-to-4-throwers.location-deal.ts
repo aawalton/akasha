@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentHeberHatchets241AxeThrowingUpTo4Throwers = {
   id: "019f322c-9dab-7ae0-abf5-7aa277259a55",

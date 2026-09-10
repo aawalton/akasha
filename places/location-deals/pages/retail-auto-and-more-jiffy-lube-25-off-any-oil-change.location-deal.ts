@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreJiffyLube25OffAnyOilChange = {
   id: "019f322c-ac28-7aa2-b1c9-8f6a46334bcb",

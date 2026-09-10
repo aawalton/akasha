@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentThePicklr2413HrOpenPlaySession = {
   id: "019f322c-9eeb-7723-8e0e-d73dd46badcb",

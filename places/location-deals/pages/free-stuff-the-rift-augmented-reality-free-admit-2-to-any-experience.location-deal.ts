@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffTheRiftAugmentedRealityFreeAdmit2ToAnyExperience = {
   id: "019f322c-a393-7388-9e0d-e137adb274bf",

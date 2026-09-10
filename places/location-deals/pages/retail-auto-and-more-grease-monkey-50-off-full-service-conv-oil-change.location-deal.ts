@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreGreaseMonkey50OffFullServiceConvOilChange = {
   id: "019f322c-abd0-79a6-9c47-721fc19e7cf7",

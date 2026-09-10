@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentTheRiftAugmentedReality241AnyExperienceMax8People = {
   id: "019f322c-9eef-7d09-be9e-4cfd3fb83b11",

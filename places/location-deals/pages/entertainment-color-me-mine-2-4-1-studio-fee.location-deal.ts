@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentColorMeMine241StudioFee = {
   id: "019f322c-9cf2-7637-86a1-7ade55462046",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreTaxFreedomFighters50OffTaxPreparation = {
   id: "019f322c-ac9d-77f6-aa5e-02af5eacabb4",

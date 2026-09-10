@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffGetoutGamesFreeAdmitForOnePerson = {
   id: "019f322c-a086-7f5a-a78b-1a4b56f78ead",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffElPolloLocoFreeLocoValueMenuItem = {
   id: "019f322c-a06d-7c9e-98ca-cb673c6ffdc0",

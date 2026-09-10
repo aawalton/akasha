@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreHavoline25OffEmissions = {
   id: "019f322c-abdc-79e5-b9a2-33250ff2b24c",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentHighCountryAdventure241RiverTubing = {
   id: "019f322c-9db9-76cd-9ae9-c5166e3b45f3",

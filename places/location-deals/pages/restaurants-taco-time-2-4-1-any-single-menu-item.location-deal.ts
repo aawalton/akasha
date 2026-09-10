@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const restaurantsTacoTime241AnySingleMenuItem = {
   id: "019f322c-ab18-75e6-ab77-95d0ee5dca45",

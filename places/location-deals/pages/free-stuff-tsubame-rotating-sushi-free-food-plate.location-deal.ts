@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffTsubameRotatingSushiFreeFoodPlate = {
   id: "019f322c-a3ae-7754-a498-508cef786d38",

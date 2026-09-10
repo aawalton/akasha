@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const chiropracticAxcessAdjustmentOrAcupuncture = {
   id: "019f322c-aba1-7952-9569-a3314636e4d1",

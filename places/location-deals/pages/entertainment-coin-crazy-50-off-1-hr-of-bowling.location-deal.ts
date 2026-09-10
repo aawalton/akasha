@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentCoinCrazy50Off1HrOfBowling = {
   id: "019f322c-9ced-7b0b-9f83-94925fdf643c",

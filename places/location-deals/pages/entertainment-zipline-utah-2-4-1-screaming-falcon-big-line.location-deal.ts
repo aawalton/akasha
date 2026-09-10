@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentZiplineUtah241ScreamingFalconBigLine = {
   id: "019f322c-9f57-765b-b950-65d9f48448df",

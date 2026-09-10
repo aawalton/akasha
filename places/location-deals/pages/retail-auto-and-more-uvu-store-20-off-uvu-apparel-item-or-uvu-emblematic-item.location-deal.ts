@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreUvuStore20OffUvuApparelItemOrUvuEmblematicItem = {
   id: "019f322c-aced-7889-80fa-adf9c652d7dd",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffClasRopesCourseFreeAdmissionToAerialAdventurePark = {
   id: "019f322c-9faa-7726-af2b-fe413d72c3cc",

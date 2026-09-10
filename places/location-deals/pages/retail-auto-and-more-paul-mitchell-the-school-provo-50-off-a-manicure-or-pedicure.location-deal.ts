@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMorePaulMitchellTheSchoolProvo50OffAManicureOrPedicure = {
   id: "019f322c-ac7d-7700-9858-99883a990cb0",

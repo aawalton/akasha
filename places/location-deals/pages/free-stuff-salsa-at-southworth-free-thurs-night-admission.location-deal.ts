@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffSalsaAtSouthworthFreeThursNightAdmission = {
   id: "019f322c-a2c0-70cd-8ba2-8efc121b8978",

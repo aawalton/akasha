@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const restaurantsRubyRiverBuy1EntreeGetAnAppetizerFree = {
   id: "019f322c-aaf7-7f99-b88d-71b9c25eb097",

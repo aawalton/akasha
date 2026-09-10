@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffMooyahFreeSmallShake = {
   id: "019f322c-a14b-7d54-8fd1-34c4a80ef14e",

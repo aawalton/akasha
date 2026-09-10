@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentJackAndJillLanes241GameOfLaserTagForSamePlayer = {
   id: "019f322c-9dc7-7e75-aa3e-c90c7b1a137f",

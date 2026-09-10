@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffSonicFreeCorndog = {
   id: "019f322c-a2d1-73bb-8060-fac4908b6f6b",

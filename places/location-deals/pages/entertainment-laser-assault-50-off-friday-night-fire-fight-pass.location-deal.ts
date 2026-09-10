@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentLaserAssault50OffFridayNightFireFightPass = {
   id: "019f322c-9e29-79af-8d8a-a31a094bf96d",

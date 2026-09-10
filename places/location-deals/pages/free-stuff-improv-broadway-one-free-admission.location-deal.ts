@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffImprovBroadwayOneFreeAdmission = {
   id: "019f322c-a089-77fb-8c7f-98792676bba3",

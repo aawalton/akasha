@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffTheForumAcademyFreeHaircut = {
   id: "019f322c-a342-7ce9-90c0-8b95cebe1833",

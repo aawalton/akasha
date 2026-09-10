@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const restaurantsDennysKidsEatFreeUpTo2KidsPerPayingAdultAnytime = {
   id: "019f322c-a784-7e7c-a52d-f287616b5002",

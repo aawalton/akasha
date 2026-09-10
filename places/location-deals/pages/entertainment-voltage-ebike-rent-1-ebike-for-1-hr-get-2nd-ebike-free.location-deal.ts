@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentVoltageEbikeRent1EbikeFor1HrGet2ndEbikeFree = {
   id: "019f322c-9f55-7040-9e7e-cfaad4cd9b74",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreBadAppleAndFixit20OffAnyServiceOrRepair = {
   id: "019f322c-ab8e-7111-9c26-4853a065ba09",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffDominosFreeOrderOfOvenBakedTwistsAndDip = {
   id: "019f322c-a028-7004-a90d-b8bfa91ba3a2",

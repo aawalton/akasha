@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreDurfeyDryCleaners241DryCleanedOrLaunderedItem = {
   id: "019f322c-abbf-7fdc-8c54-2aab86c41bec",

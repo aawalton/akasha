@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffKreativeKilnFreeOpenStudioSession = {
   id: "019f322c-a093-7bcf-90f8-45dbd7927573",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreByuStudio10305OffAnyNailService = {
   id: "019f322c-ab9e-7f64-93df-46453426ef77",

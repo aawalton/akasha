@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentUsAndArt241ThemedPaintNightExperience = {
   id: "019f322c-9f41-7f8d-bd30-eb4de157f472",

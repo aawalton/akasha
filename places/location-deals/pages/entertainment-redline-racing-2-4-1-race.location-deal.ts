@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentRedlineRacing241Race = {
   id: "019f322c-9e8a-7e14-9fe3-ba3b49ed7818",

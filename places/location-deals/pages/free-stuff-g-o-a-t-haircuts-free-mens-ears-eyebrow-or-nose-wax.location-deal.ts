@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffGOATHaircutsFreeMensEarsEyebrowOrNoseWax = {
   id: "019f322c-a07f-78ba-8940-b3a17b39a4e1",

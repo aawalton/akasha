@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreMonsterPestControl50OffPestControlTreatment = {
   id: "019f322c-ac38-7bbb-b7ac-fa9263b10c45",

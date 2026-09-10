@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffMeltyFreeSmallMeltyMac = {
   id: "019f322c-a13f-7a32-8beb-27931cec3555",

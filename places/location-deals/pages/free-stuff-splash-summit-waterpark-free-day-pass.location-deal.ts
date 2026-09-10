@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffSplashSummitWaterparkFreeDayPass = {
   id: "019f322c-a2dc-728b-a3ea-3d5e62abb70f",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMorePaulMitchellTheSchoolProvo50OffABrowWaxService = {
   id: "019f322c-ac40-735b-a578-7ef741bfed03",

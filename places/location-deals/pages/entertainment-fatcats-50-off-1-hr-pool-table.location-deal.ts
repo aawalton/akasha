@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentFatcats50Off1HrPoolTable = {
   id: "019f322c-9d4b-70c3-a5b5-645cfe880bf3",

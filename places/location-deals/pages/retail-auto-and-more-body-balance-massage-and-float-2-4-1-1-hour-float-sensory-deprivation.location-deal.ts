@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreBodyBalanceMassageAndFloat2411HourFloatSensoryDeprivation = {
   id: "019f322c-ab90-763c-bc46-fc1c8c773f62",

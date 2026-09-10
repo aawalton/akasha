@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreClassySmiles50OffLuxeOrLuxeDuoTeethWhitening = {
   id: "019f322c-abbc-70b3-8a76-b8f3567be1c5",

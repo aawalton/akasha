@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffLanKingFreeHourOfGameTime = {
   id: "019f322c-a096-713b-b644-e94bfdcf9066",

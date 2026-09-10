@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreChiropracticAxcessAccidentCenterOzoneInjectionForOnly30 = {
   id: "019f322c-abb6-7541-b69d-85d1561aac52",

@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentScratchMiniatureGolf241RoundOfMiniGolf = {
   id: "019f322c-9e9d-77ec-a56d-8d763477fd59",

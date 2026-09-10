@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreJiffyLube10OffVehicleEmissions = {
   id: "019f322c-ac19-7291-8177-37fe1d54fd48",

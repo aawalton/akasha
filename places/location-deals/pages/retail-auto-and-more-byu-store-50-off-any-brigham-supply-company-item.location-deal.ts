@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreByuStore50OffAnyBrighamSupplyCompanyItem = {
   id: "019f322c-ab92-7ac4-980c-42ef68e8292b",

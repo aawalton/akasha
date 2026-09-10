@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreFabulousFreddys241VipCarWash = {
   id: "019f322c-abc5-72d3-b185-1adb06b9da41",

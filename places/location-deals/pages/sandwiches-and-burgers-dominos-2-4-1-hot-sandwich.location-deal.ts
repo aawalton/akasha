@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const sandwichesAndBurgersDominos241HotSandwich = {
   id: "019f322c-ae13-7fe8-9582-12d5bb23cae2",

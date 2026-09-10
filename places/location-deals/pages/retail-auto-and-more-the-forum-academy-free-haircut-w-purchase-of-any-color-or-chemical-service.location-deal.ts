@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const retailAutoAndMoreTheForumAcademyFreeHaircutWPurchaseOfAnyColorOrChemicalService = {
   id: "019f322c-aca4-7a69-b5ed-03cf69d7f770",

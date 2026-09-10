@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffUtahGrizzliesFreeTicketForUpTo2People = {
   id: "019f322c-a3ec-7b5b-8b4a-f8aa2b37283d",

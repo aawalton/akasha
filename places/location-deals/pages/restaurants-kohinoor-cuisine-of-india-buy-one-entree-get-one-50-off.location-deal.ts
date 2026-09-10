@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const restaurantsKohinoorCuisineOfIndiaBuyOneEntreeGetOne50Off = {
   id: "019f322c-a9d6-7b55-8909-ab56f0e05d0d",

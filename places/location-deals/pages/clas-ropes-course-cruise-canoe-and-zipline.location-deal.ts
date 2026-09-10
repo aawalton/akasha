@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const clasRopesCourseCruiseCanoeAndZipline = {
   id: "019f322c-9ce5-73f8-8e3d-63d0adcfec93",

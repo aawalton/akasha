@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffMandalynAcademyFreeBrowOrLipWax = {
   id: "019f322c-a0dc-7c55-9bf6-47311264a842",

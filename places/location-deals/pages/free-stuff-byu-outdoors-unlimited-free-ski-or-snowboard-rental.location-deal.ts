@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffByuOutdoorsUnlimitedFreeSkiOrSnowboardRental = {
   id: "019f322c-9f97-745a-a771-ba26e418f0eb",

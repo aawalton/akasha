@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const entertainmentGameGrid25OffAnyPurchaseOf50OrMore = {
   id: "019f322c-9d58-74b3-ac93-3d32938921c1",

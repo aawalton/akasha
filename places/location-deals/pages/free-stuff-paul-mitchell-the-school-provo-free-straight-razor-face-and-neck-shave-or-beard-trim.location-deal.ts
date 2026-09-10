@@ -1,4 +1,4 @@
-import type { LocationDeal } from "../location-deal.page-type.ts"
+import type { LocationDeal } from "../location-deal.page-type.types.ts"
 
 export const freeStuffPaulMitchellTheSchoolProvoFreeStraightRazorFaceAndNeckShaveOrBeardTrim = {
   id: "019f322c-a201-74f2-af1e-df1d7f0ca1e9",
