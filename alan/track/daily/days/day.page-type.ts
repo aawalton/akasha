@@ -156,7 +156,12 @@ export const day = {
     { pageProperty: "computed-property/sleep-hours", required: false, many: false },
     { pageProperty: "computed-property/spend-hours", required: false, many: false },
     { pageProperty: "computed-property/surplus-hours", required: false, many: false },
-    { pageProperty: "page-property-entry/health-samples", required: false, many: false },
+    {
+      pageProperty: "page-property-entry/health-samples",
+      required: false,
+      many: false,
+      default: "jsonl",
+    },
     { pageProperty: "page-property-entry/listens", required: false, many: false },
     { pageProperty: "number-property/lowest-email-inbox-count", required: false, many: false },
   ],
