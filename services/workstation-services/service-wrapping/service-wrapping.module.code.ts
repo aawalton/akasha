@@ -1,4 +1,5 @@
 import { basename, resolve } from "node:path"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { digestOf, followFiles } from "../file-following/file-following.module.code.ts"
 import { localClosure, REACHED_CEILING } from "../service-reaching/service-reaching.module.code.ts"
 import { RESTART_EXIT } from "../unit-writing/unit-writing.module.code.ts"
@@ -30,8 +31,7 @@ export function namedIn(moved: readonly string[], root: string): string {
 }
 
 export function rootOf(): string {
-  const stated = process.env.AKASHA_ROOT
-  return stated === undefined || stated === "" ? process.cwd() : stated
+  return optionalEnv("AKASHA_ROOT") ?? process.cwd()
 }
 
 const CODE_FILE = /\.(ts|tsx|mts|cts)$/

@@ -10,6 +10,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { join } from "node:path"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import {
   installedUnitName,
@@ -41,8 +42,8 @@ export type Done = {
 }
 
 export function homeAt(): string | null {
-  const stated = process.env.HOME
-  if (stated === undefined || stated === "") return null
+  const stated = optionalEnv("HOME")
+  if (stated === undefined) return null
   return existsSync(stated) ? realpathSync(stated) : stated
 }
 
