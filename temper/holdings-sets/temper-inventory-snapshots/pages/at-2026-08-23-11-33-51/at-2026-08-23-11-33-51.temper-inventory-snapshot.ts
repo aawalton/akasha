@@ -1,4 +1,4 @@
-import type { TemperInventorySnapshot } from "../../temper-inventory-snapshot.page-type.ts"
+import type { TemperInventorySnapshot } from "../../temper-inventory-snapshot.page-type.types.ts"
 
 export const at20260823113351 = {
   id: "01a02e68-2663-7000-aaf5-b918ceaa5db6",

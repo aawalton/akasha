@@ -1,34 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperHoldingsThing } from "../things/temper-holdings-thing.page-type.types.ts"
-import type { BagSizes } from "./properties/bag-sizes.page-property-entry.ts"
-import type { ChunkCount } from "./properties/chunk-count.number-property.ts"
-import type { CraftingLevels } from "./properties/crafting-levels.page-property-entry.ts"
-import type { Currencies } from "./properties/currencies.page-property-entry.ts"
-import type { Data } from "./properties/data.file-property.ts"
-import type { LastFullScanAt } from "./properties/last-full-scan-at.instant-property.ts"
-import type { OpenCooldowns } from "./properties/open-cooldowns.page-property-entry.ts"
-import type { PlacedFurnishings } from "./properties/placed-furnishings.page-property-entry.ts"
-import type { PriceSource } from "./properties/price-source.text-property.ts"
-import type { SnapshotLocations } from "./properties/snapshot-locations.page-property-entry.ts"
-import type { Stacks } from "./properties/stacks.page-property-entry.ts"
-import type { TransmuteCrystalAmount } from "./properties/transmute-crystal-amount.number-property.ts"
-import type { TransmuteCrystalCap } from "./properties/transmute-crystal-cap.number-property.ts"
-
-export type TemperInventorySnapshot = TemperHoldingsThing & {
-  chunkCount: ChunkCount
-  data?: Data
-  stacks?: Stacks
-  lastFullScanAt?: LastFullScanAt
-  priceSource?: PriceSource
-  transmuteCrystalAmount?: TransmuteCrystalAmount
-  transmuteCrystalCap?: TransmuteCrystalCap
-  locations?: SnapshotLocations
-  bagSizes?: BagSizes
-  currencies?: Currencies
-  craftingLevels?: CraftingLevels
-  placedFurnishings?: PlacedFurnishings
-  openCooldowns?: OpenCooldowns
-}
 
 export const temperInventorySnapshot = {
   id: "01a05fcb-fd2d-7480-88fb-8cc035361a6e",
@@ -117,4 +87,5 @@ export const temperInventorySnapshot = {
       statement: "One JSON document is written across every chunk a snapshot counts.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
