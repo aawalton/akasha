@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../../namespaces/namespace.page-type.types.ts"
 
 export const temperAddon = {
   id: "01a07c17-e1b0-77e5-b65e-84d51f07d0cf",

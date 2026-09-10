@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../../namespaces/namespace.page-type.types.ts"
 
 export const temperEso = {
   id: "01a07c17-d4ab-71b4-868e-9f52fbed6b03",

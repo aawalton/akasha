@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../../namespaces/namespace.page-type.types.ts"
 
 export const seatSupervisor = {
   id: "01a0797a-9a21-7274-b0a9-16a707e7c032",

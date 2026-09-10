@@ -1,4 +1,4 @@
-import type { Namespace } from "../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../namespaces/namespace.page-type.types.ts"
 
 export const infrastructure = {
   id: "01a082ff-e445-73eb-9403-ca14a339ec8d",

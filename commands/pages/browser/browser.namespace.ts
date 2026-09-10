@@ -1,4 +1,4 @@
-import type { Namespace } from "../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../namespaces/namespace.page-type.types.ts"
 
 export const browser = {
   id: "01a07bcb-0b96-7d87-888f-325a70adf3df",

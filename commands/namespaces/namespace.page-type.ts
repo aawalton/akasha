@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-
-export type Namespace = Domain
 
 export const namespace = {
   id: "01a06c7c-54b5-712b-b4a2-9ada10279dff",
@@ -62,4 +59,5 @@ export const namespace = {
       statement: "A namespace has no code of its own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

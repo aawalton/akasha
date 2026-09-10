@@ -1,4 +1,4 @@
-import type { Namespace } from "../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../namespaces/namespace.page-type.types.ts"
 
 export const music = {
   id: "01a07bbf-258e-7f64-8bc2-f340c44e592e",

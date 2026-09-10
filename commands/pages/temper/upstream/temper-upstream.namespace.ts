@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../../namespaces/namespace.page-type.types.ts"
 
 export const temperUpstream = {
   id: "01a07c18-0bcd-7973-83a4-7b9398147317",

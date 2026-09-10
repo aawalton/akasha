@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../../../namespaces/namespace.page-type.types.ts"
 
 export const temperInventoryMaster = {
   id: "01a07c17-6b8c-778e-a1bb-83fe9f5fd164",

@@ -1,4 +1,4 @@
-import type { Namespace } from "../../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../../namespaces/namespace.page-type.types.ts"
 
 export const emailMessages = {
   id: "01a07bbf-258e-734c-970f-75a18de63e76",

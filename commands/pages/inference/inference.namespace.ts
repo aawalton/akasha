@@ -1,4 +1,4 @@
-import type { Namespace } from "../../namespaces/namespace.page-type.ts"
+import type { Namespace } from "../../namespaces/namespace.page-type.types.ts"
 
 export const inference = {
   id: "01a07bc2-afbe-727e-90b4-d853582c03a2",
