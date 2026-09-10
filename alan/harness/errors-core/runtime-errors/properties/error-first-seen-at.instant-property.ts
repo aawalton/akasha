@@ -1,6 +1,6 @@
 import type { InstantProperty } from "@akasha/pages/instant-property"
 
-export type FirstSeenAt = string
+export type ErrorFirstSeenAt = string
 
 export const errorFirstSeenAt = {
   id: "01a05f3f-e3e0-79ae-a33f-a08a9966c72b",
