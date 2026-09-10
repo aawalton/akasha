@@ -26,7 +26,7 @@ export const changeCosting = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here measures or appends, as one module does both for every run.",
+      statement: "Nothing here measures or appends.",
     },
   ],
 } as const satisfies Module
