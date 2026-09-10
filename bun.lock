@@ -246,12 +246,6 @@
         "yaml": "^2.8.0",
       },
     },
-    "infrastructure/storage/backups/retention": {
-      "name": "@akasha/backup-retention",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "products/archive-of-worlds/web": {
       "name": "@akasha/archive-of-worlds-web",
       "version": "0.1.0",
@@ -522,8 +516,6 @@
     "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:products/archive-of-worlds/web"],
 
     "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:products/audhdalan/web"],
-
-    "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/storage/backups/retention"],
 
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 

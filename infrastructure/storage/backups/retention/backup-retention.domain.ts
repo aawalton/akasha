@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../../../code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../../../domains/domain.page-type.types.ts"
 
 export const backupRetention = {
   id: "01a06863-74df-7622-85ad-e931851aec9d",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "backup-retention",
   definition: "what thins the database's backups as the backups age",
-  manifest: "json",
 
   parts: [
     "manifest/gfs-promoter",
@@ -58,4 +57,4 @@ export const backupRetention = {
       statement: "The cluster runs the promoter and the longtail copier on a schedule.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
