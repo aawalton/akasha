@@ -11,6 +11,7 @@ export const containerImage = {
     "container-recipe/postgres-cnpg-image",
     "manifest/buildkit",
     "manifest/buildkit-prune",
+    "module/image-inputs",
   ],
   invariants: [
     {
