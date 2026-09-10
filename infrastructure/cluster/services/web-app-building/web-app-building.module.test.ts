@@ -217,6 +217,48 @@ test("what a run said is read from both what it wrote and what it complained", (
   expect(saidBy({ argv: [], code: 1, stdout: "one\n", stderr: "two\n" })).toBe("one; two")
 })
 
+const BUILD_SAID = [
+  "vite v8.2.2 building client environment for production...",
+  "transforming...",
+  "4 modules transformed.",
+  "Build failed in 20ms",
+  "error during build:",
+  "Build failed with 1 error:",
+  "",
+  "[plugin @tailwindcss/vite:generate:build] /app/repo/one/web/src/app.css",
+  'Error: Package path "./theme-gone.css" is not exported from package tailwindcss',
+  "    at async EnvironmentPluginContainer.resolveId (node.js:30848:19)",
+  "    at async resolve (node.js:22256:10)",
+  "    at async loadStylesheet (index.mjs:10:2950)",
+  "    at async Promise.all (index 1)",
+  "    at aggregateErrorsIntoJsError (error.mjs:48:18)",
+  "    at unwrapResult (error.mjs:18:128)",
+  "    at #build (rolldown.mjs:133:34)",
+  "    at async buildEnvironment (node.js:33821:66)",
+  "    at async Object.build (node.js:34242:19)",
+  "    at async CAC.<anonymous> (cli.js:776:3) {",
+  "  errors: [Getter/Setter]",
+  "}",
+].join("\n")
+
+test("a build failure is read from what failed rather than from the frames under it", () => {
+  const said = saidBy({ argv: [], code: 1, stdout: "", stderr: BUILD_SAID })
+  expect(said).toContain("[plugin @tailwindcss/vite:generate:build]")
+  expect(said).toContain('Package path "./theme-gone.css" is not exported')
+  expect(said).not.toContain(" at ")
+})
+
+test("a failure saying nothing but frames is read from those frames", () => {
+  const said = saidBy({
+    argv: [],
+    code: 1,
+    stdout: "",
+    stderr: "    at one (a.js:1:1)\n    at async two (b.js:2:2)",
+  })
+  expect(said).toContain("at one (a.js:1:1)")
+  expect(said).toContain("at async two (b.js:2:2)")
+})
+
 test("a pod already going away holds no build", () => {
   const said = ["web-old\t2026-09-01T04:28:16Z", "web-new\t", ""].join("\n")
   expect(livestOf(said)).toBe("web-new")

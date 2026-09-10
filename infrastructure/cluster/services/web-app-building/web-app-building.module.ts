@@ -106,6 +106,14 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
+      statement: "A refusal reports the last lines said with every stack frame dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A failure saying nothing but stack frames is reported by those frames.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Whether a build already exists is asked of the pod holding the build.",
     },
     {

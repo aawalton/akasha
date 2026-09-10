@@ -30,6 +30,7 @@ const SYNC_ATTEMPTS = 4
 const SYNC_PAUSE = 3
 const TAIL = 6
 const A_SHA = /^[0-9a-f]{40}$/
+const A_FRAME = /^\s*at\s/
 const SYNCS_CODE = new RegExp(`^\\s*-?\\s*name:\\s*${SYNC_CONTAINER}\\s*$`, "m")
 const WORKING_DIR_AT = /^[ \t-]*workingDir:[ \t]*(\S+)[ \t]*$/gm
 const RETRYABLE = ["not our ref", "remote end hung up", "Could not write new index file"]
@@ -69,7 +70,8 @@ export function runGit(root: string, argv: readonly string[]): Ran {
 
 export function saidBy(ran: Ran): string {
   const said = `${ran.stdout}${ran.stderr}`.trim().split("\n")
-  return said.slice(-TAIL).join("; ")
+  const kept = said.filter((line) => !A_FRAME.test(line))
+  return (kept.length === 0 ? said : kept).slice(-TAIL).join("; ")
 }
 
 export function headOf(root: string): string | null {
