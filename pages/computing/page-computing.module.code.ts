@@ -50,6 +50,7 @@ export const KINDS: readonly string[] = Object.keys(JUDGED).sort()
 function nameOf(held: unknown): string {
   if (held === null) return "nothing"
   if (Array.isArray(held)) return "a list"
+  if (typeof held === "number" && !Number.isFinite(held)) return "a number that is not finite"
   return typeof held
 }
 

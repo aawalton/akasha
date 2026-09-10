@@ -56,10 +56,7 @@ describe("the values a page type's calculations work out", () => {
 
   test("a wrong kind darkens that key and leaves its siblings whole", () => {
     const source = sourceOf({
-      day: page("1", {}, [
-        held("sound", "number", () => 4),
-        held("wrong", "number", () => "four" as unknown as number),
-      ]),
+      day: page("1", {}, [held("sound", "number", () => 4), held("wrong", "number", () => "four")]),
     })
     const working = computingOver(source).workedAt("day")
     expect(working?.value["sound"]).toBe(4)
@@ -179,6 +176,15 @@ describe("the values a page type's calculations work out", () => {
     const source = sourceOf({ day: page("1", { points: Infinity }, []) })
     const working = computingOver(source).workedAt("day")
     expect(working?.value["points"]).toBe(Infinity)
+  })
+
+  test("a calculation answering a number that is not finite is refused", () => {
+    const source = sourceOf({ day: page("1", {}, [held("total", "number", () => Infinity)]) })
+    const working = computingOver(source).workedAt("day")
+    expect("total" in (working?.value ?? {})).toBe(false)
+    expect(working?.dark.get("total")).toBe(
+      "`total` states it holds number, and its calculation answered a number that is not finite"
+    )
   })
 
   test("a page no slug names is answered as nothing", () => {
