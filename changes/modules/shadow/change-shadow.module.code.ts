@@ -2,6 +2,7 @@ import { existsSync } from "node:fs"
 import { join, relative } from "node:path"
 import { formattedBody } from "@akasha/code/code-format"
 import { type Facing, generatedIn } from "@akasha/indexes/property-carrying"
+import { partedIn } from "@akasha/pages/page-file-name"
 import { trackedUnder } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import type { Change } from "../../../pages/change/change.module.code.ts"
 import type { Answering } from "../../../pages/indexes/answering/index-answering.module.code.ts"
@@ -45,6 +46,12 @@ const TEXT = new TextDecoder()
 
 const OUTSIDE = ".."
 
+const PAGE_TYPE = "page-type"
+
+const PROPERTY = "-property"
+
+const TYPE_KEY = "pageTypeSlug"
+
 export type Reaching = (world: World, at: string, given: unknown) => Promise<Answer>
 
 export type World = {
@@ -61,12 +68,31 @@ export type World = {
 }
 
 export function facingIn(world: World): Facing {
+  const index = world.index
   return {
-    kindsUnder: (of) => world.index.kindsUnder(of),
-    everyOfType: (kind) => world.index.everyOfType(kind),
-    valueAt: (path) => world.index.pageByPath(path),
-    carryingOf: (named) => world.index.carryingOf(named),
+    kindsUnder: (of) => index.kindsUnder(of),
+    everyOfType: (kind) => index.everyOfType(kind),
+    valueAt: (path) => index.pageByPath(path),
+    carryingOf: (named) => index.carryingOf(named),
   }
+}
+
+const FACING = new WeakMap<World, Facing>()
+
+export function turnsGenerated(one: FileChange): boolean {
+  if (one.kind !== "replace") return true
+  const named = partedIn(one.path)
+  if (named === null) return true
+  if (named.pageType === PAGE_TYPE || named.pageType.endsWith(PROPERTY)) return true
+  return one.contentFrom.includes(TYPE_KEY) || one.contentTo.includes(TYPE_KEY)
+}
+
+function facingHeld(world: World): Facing {
+  const found = FACING.get(world)
+  if (found !== undefined) return found
+  const made = facingIn(world)
+  FACING.set(world, made)
+  return made
 }
 
 function treeUnder(root: string, folder: string, index: Answering): readonly string[] {
@@ -157,11 +183,14 @@ function withheld(world: World, facing: Facing, said: Answer): Reached {
 }
 
 export async function reach(world: World, at: Reaches, given: unknown): Promise<Reached> {
-  const facing = facingIn(world)
+  const facing = facingHeld(world)
   const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
   if (said.refused !== null) return { said, world }
+  const turns = said.edits.some(turnsGenerated)
+  if (turns) FACING.delete(world)
   try {
-    return withheld(carrying(world, said), facing, said)
+    const over = carrying(world, said)
+    return withheld(over, turns ? facingHeld(over) : facing, said)
   } catch (cause) {
     return { said: refusing(cause instanceof Error ? cause.message : String(cause)), world }
   }

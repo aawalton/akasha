@@ -11,7 +11,9 @@ import {
 import {
   type Carried,
   carryingOf,
+  type Facing,
   generatedAt,
+  generatedIn,
   generates,
   heldBeside,
   type Naming,
@@ -314,6 +316,34 @@ test("a property carrying no value holds nothing beside it", () => {
 
 test("a name the carrying refuses holds nothing beside it", () => {
   expect(heldBeside("bun.lock", [NAMING], saidTrue, refusing)).toBe(false)
+})
+
+function counting(seen: { reads: number }): Facing {
+  return {
+    kindsUnder: () => ["file-property"],
+    everyOfType: () => {
+      seen.reads += 1
+      return []
+    },
+    valueAt: () => null,
+    carryingOf: refusing,
+  }
+}
+
+test("what a face says about every file property is worked out once for that face", () => {
+  const seen = { reads: 0 }
+  const facing = counting(seen)
+  expect(generatedIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
+  expect(seen.reads).toBe(2)
+  expect(generatedIn(facing, "akasha/two.thing.entries.jsonl")).toBe(false)
+  expect(seen.reads).toBe(2)
+})
+
+test("a face built again works out what it says about every file property again", () => {
+  const seen = { reads: 0 }
+  expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
+  expect(generatedIn(counting(seen), "akasha/one.thing.entries.jsonl")).toBe(false)
+  expect(seen.reads).toBe(4)
 })
 
 test("the folder a file is beside is the one the index says the carrying page sits in", () => {

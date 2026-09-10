@@ -126,5 +126,17 @@ export const propertyCarrying = {
       statement:
         "A face over a reading is answered on its own, so a caller asking of many paths builds it once.",
     },
+    {
+      invariantKind: "departure",
+      statement: "What a face says about every file property is worked out once for that face.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A second path asked of one face reads what the first path worked out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A face built again works it out again.",
+    },
   ],
 } as const satisfies Module

@@ -182,10 +182,29 @@ export type Facing = Kinded & {
   readonly carryingOf: (named: string) => Carried
 }
 
+export type Derived = {
+  readonly slugs: ReadonlySet<string>
+  readonly naming: readonly Naming[]
+}
+
+const DERIVED = new WeakMap<Facing, Derived>()
+
+export function derivedFor(given: Facing): Derived {
+  const found = DERIVED.get(given)
+  if (found !== undefined) return found
+  const made: Derived = {
+    slugs: slugsWhere(given, generates, given.carryingOf),
+    naming: namingUnder(given),
+  }
+  DERIVED.set(given, made)
+  return made
+}
+
 export function generatedIn(given: Facing, path: string): boolean {
   try {
-    if (sectionHeld(path, slugsWhere(given, generates, given.carryingOf))) return true
-    return heldBeside(path, namingUnder(given), generates, given.carryingOf)
+    const held = derivedFor(given)
+    if (sectionHeld(path, held.slugs)) return true
+    return heldBeside(path, held.naming, generates, given.carryingOf)
   } catch {
     return false
   }

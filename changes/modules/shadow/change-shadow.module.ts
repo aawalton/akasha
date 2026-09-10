@@ -338,6 +338,30 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "The face a world is read through is built once for that world.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach whose answer could turn what is generated builds that face again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer stating anything but a replace could turn it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A replace on a page type or on a page property could turn it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A replace naming a page's own page type could turn it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other replace reads the face already built.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A reach withholding a body works on a ledger, a world built over an answer being left behind.",
     },
