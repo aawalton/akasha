@@ -1,4 +1,4 @@
-import type { TemperNetWorthHour } from "../../temper-net-worth-hour.page-type.ts"
+import type { TemperNetWorthHour } from "../../temper-net-worth-hour.page-type.types.ts"
 
 export const hour2026062806 = {
   id: "01a06009-48b6-75b2-a82f-efd90f40524a",

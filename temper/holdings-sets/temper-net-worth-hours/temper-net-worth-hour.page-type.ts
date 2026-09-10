@@ -1,10 +1,4 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-import type { TemperHoldingsThing } from "../things/temper-holdings-thing.page-type.types.ts"
-import type { Snapshots } from "./properties/snapshots.page-property-entry.ts"
-
-export type TemperNetWorthHour = TemperHoldingsThing & {
-  snapshots: Snapshots
-}
 
 export const temperNetWorthHour = {
   id: "01a06006-154f-7344-ae3b-0de4c53132dc",
@@ -40,4 +34,5 @@ export const temperNetWorthHour = {
       statement: "An account taking a reading in an hour has that reading in that hour's page.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
