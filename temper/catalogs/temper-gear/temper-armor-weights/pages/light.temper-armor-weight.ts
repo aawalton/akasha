@@ -1,4 +1,4 @@
-import type { TemperArmorWeight } from "../temper-armor-weight.page-type.ts"
+import type { TemperArmorWeight } from "../temper-armor-weight.page-type.types.ts"
 
 export const light = {
   id: "01a05fd5-4dd1-7e9f-a6a2-228e81841b09",

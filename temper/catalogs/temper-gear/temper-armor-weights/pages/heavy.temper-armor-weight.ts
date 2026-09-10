@@ -1,4 +1,4 @@
-import type { TemperArmorWeight } from "../temper-armor-weight.page-type.ts"
+import type { TemperArmorWeight } from "../temper-armor-weight.page-type.types.ts"
 
 export const heavy = {
   id: "01a05fd5-4dd0-77cc-94de-936278c33019",

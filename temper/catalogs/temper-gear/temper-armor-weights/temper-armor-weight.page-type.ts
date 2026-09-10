@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-import type { ArmorBaseValue } from "../properties/armor-base-value.number-property.ts"
-import type { IsStandard } from "../properties/is-standard.boolean-property.ts"
-
-export type TemperArmorWeight = TemperCatalogThing & {
-  baseValue: ArmorBaseValue
-  isStandard: IsStandard
-}
 
 export const temperArmorWeight = {
   id: "01a05fd1-d430-7564-8721-434ab188698f",
@@ -23,4 +15,5 @@ export const temperArmorWeight = {
     { pageProperty: "boolean-property/is-standard", required: true, many: false },
     { pageProperty: "text-property/skill-line-id", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
