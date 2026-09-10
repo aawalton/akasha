@@ -33,6 +33,11 @@ export const seatTurnState = {
     {
       invariantKind: "departure",
       statement:
+        "A seat in an on-call role is ready for more work though a turn it arranged is still to come.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A seat ready for work is told apart from a seat waiting on a turn already arranged.",
     },
     {

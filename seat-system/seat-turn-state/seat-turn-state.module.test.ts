@@ -81,11 +81,24 @@ test("a seat ready for work is told apart from one waiting on a turn it arranged
   expect(readSeatTurn(kept({ onCallRole: true })).state).not.toBe("idle-pending")
 })
 
+test("an on-call seat is ready though a turn it arranged is still to come", () => {
+  const read = readSeatTurn(kept({ onCallRole: true, pending: { "live-subagent": ON } }))
+
+  expect(read.state).toBe("ready")
+})
+
 test("what an on-call seat already waits on is named over the work sent to it", () => {
   const read = readSeatTurn(kept({ onCallRole: true, pending: { compacting: ON } }))
 
-  expect(read.state).toBe("idle-pending")
+  expect(read.state).toBe("ready")
   expect(read.waitingOn).toBe("compacting")
+})
+
+test("a seat off call waiting on a turn it arranged is waiting rather than ready", () => {
+  const read = readSeatTurn(kept({ onCallRole: false, pending: { "live-subagent": ON } }))
+
+  expect(read.state).toBe("idle-pending")
+  expect(read.waitingOn).toBe("live-subagent")
 })
 
 test("an on-call role is read as working while the seat works", () => {

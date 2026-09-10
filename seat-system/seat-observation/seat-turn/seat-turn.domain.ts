@@ -209,7 +209,7 @@ export const seatTurn = {
     },
     {
       invariantKind: "departure",
-      statement: "An idle seat with a turn start still to come is drawn in blue.",
+      statement: "An idle seat off call with a turn start still to come is drawn in blue.",
     },
     { invariantKind: "departure", statement: "A stopped seat is drawn in the text color." },
     { invariantKind: "departure", statement: "A reminder does not make a turn pending." },

@@ -53,6 +53,7 @@ export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
   if (anyPendingRead(kept.pending)) {
     const on = pendingOn(kept.pending)
     if (on.length === 0) return idleIn(kept)
+    if (kept.onCallRole) return { state: "ready", waitingOn: on.join(", ") }
     return { state: "idle-pending", waitingOn: on.join(", ") }
   }
   return idleIn(kept)
