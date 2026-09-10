@@ -132,7 +132,7 @@ function monthPage(slug: string): string {
   const year = Number.parseInt(covered.slice(0, 4), 10)
   const name = `${MONTH_NAMES[Number.parseInt(covered.slice(5, 7), 10) - 1]} ${year}`
   return [
-    `import type { MonarchMonth } from "../../monarch-month.page-type.ts"`,
+    `import type { MonarchMonth } from "../../monarch-month.page-type.types.ts"`,
     "",
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,
