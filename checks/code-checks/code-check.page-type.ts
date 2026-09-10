@@ -37,6 +37,7 @@ export const codeCheck = {
     "code-check/client-reaches-pages-through-its-hooks",
     "code-check/domain-is-named-by-a-parent",
     "code-check/email-address-is-well-formed",
+    "code-check/extension-host-reaches-no-bun-code",
     "code-check/file-has-its-page",
     "code-check/file-length",
     "code-check/folder-matches-a-shape",
