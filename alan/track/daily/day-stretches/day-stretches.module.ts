@@ -28,20 +28,35 @@ export const dayStretches = {
     {
       invariantKind: "departure",
       statement:
-        "A reach deciding for itself where the stretches are answers out of one half of them.",
+        "A reach deciding for itself where the stretches are answers out of half the stretches.",
     },
     {
       invariantKind: "departure",
-      statement: "The reach goes through `asking`, which refuses rather than answering nothing.",
+      statement: "The reach goes through `asking`.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "`asking` refuses rather than answering nothing.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "No reach goes through `valuesOfType`, which answers an empty list for a missing type.",
+      statement: "No reach goes through `valuesOfType`.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "`valuesOfType` answers an empty list for a missing type.",
     },
     {
       invariantKind: "departure",
-      statement: "Narrowing, sorting and limiting stretches are done here rather than by `asking`.",
+      statement: "Stretches are narrowed here rather than by `asking`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Stretches are sorted here rather than by `asking`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Stretches are limited here rather than by `asking`.",
     },
     {
       invariantKind: "departure",
