@@ -1,9 +1,14 @@
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
+import {
+  buildNavIconSvg,
+  NAV_ICON_ACCENT,
+} from "akasha/alan/harness/web-page-answers/nav-icon-svg/nav-icon-svg.module.code.ts"
 import { getPageByIdSuffix } from "akasha/pages/access/get/get.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import { buildNavIconSvg } from "../../atlas-nav-icon-svg/atlas-nav-icon-svg.module.code.ts"
 
 const NAV_SLUG = toPageTypeSlug("nav")
+
+const ATLAS_STROKE_WIDTH = 2.5
 
 export async function loader({
   params,
@@ -22,7 +27,7 @@ export async function loader({
   })
 
   const iconName = page && typeof page.icon === "string" ? page.icon : null
-  const svg = await buildNavIconSvg(iconName)
+  const svg = await buildNavIconSvg(iconName, NAV_ICON_ACCENT, ATLAS_STROKE_WIDTH)
 
   headers.set("Content-Type", "image/svg+xml; charset=utf-8")
   headers.set("Cache-Control", "private, max-age=300")

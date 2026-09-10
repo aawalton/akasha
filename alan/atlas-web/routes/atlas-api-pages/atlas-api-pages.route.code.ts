@@ -1,4 +1,4 @@
-import { answerPages } from "../../.server/atlas-answer-pages/atlas-answer-pages.module.code.ts"
+import { answerPages } from "akasha/alan/harness/web-page-answers/.server/answer-pages/answer-pages.module.code.ts"
 
 export async function loader({
   request,

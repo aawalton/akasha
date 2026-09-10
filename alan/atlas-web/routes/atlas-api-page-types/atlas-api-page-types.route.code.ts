@@ -1,4 +1,4 @@
-import { answerPageTypes } from "../../.server/atlas-answer-page-types/atlas-answer-page-types.module.code.ts"
+import { answerPageTypes } from "akasha/alan/harness/web-page-answers/.server/answer-page-types/answer-page-types.module.code.ts"
 
 export async function loader({ request }: { request: Request }): Promise<Response> {
   return answerPageTypes(request)
