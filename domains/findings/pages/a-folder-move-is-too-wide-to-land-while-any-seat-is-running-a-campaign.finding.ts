@@ -1,0 +1,13 @@
+import type { Finding } from "../finding.page-type.types.ts"
+
+export const aFolderMoveIsTooWideToLandWhileAnySeatIsRunningACampaign = {
+  id: "01a08cc4-bff7-7cbb-845a-3bf9519bba32",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "a-folder-move-is-too-wide-to-land-while-any-seat-is-running-a-campaign",
+  domain: "domain/change",
+  claim:
+    "A folder move rewrites the import specifier in every file reaching into that folder, so the bodies it reads are spread over the tree rather than gathered in the folder. Every one of those reads is held to freshness at the apply, and one landing by any other seat inside the window refuses the whole change. A wide move is therefore held back by how much of the tree it has read rather than by how long it takes, and while any seat is walking a class of files one commit at a time there is no window at all.",
+  evidence:
+    "Measured 2026-09-10 moving `readouts` to `alan/harness/readouts`, where `alan-harness.domain.ts` already declares `domain/readout` a part. 179 files move and the draft answers 191 moves over 323 edits, in seconds, since `facingIn` went lazy.\n\nThree applies in a row were refused, each by a different pair of files, none of them a file being moved and all of them files whose specifier the move rewrites:\n\n1. `alan/web/attribute-stoplights/attribute-stoplights.module.test.ts` and `alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts`\n2. `alan/harness/cost/reading/cost-reading.module.code.ts` and `alan/harness/sleep/reading/sleep-reading.module.code.ts`\n3. `alan/harness/capacity/reading/capacity-reading.module.code.ts` and `alan/harness/surplus/reading/surplus-reading.module.code.ts`\n\nWhat was landing meanwhile. `git log` over the same 25 minutes answers 17 commits touching `alan/harness/*/reading`, among them `read AKASHA_ROOT through optionalEnv in sleep-reading` and the same for `surplus-reading`. One seat was walking every reading module in turn, landing about every ten seconds. A drop, a redraft and an apply cost about four minutes, so the move lost the race three times and would have lost it every time.\n\nWhat the remedy costs. A refused apply keeps its edits, and redrafting over kept edits reads a world where the move already happened, so each retry needs a drop first. That is recorded at `a-refused-apply-leaves-edits-that-make-the-redraft-refuse-for-the-wrong-reason`.\n\nWhat I did not settle. Whether a specifier rewrite needs holding to the same freshness as a body the change composed. The rewrite is derived from the path rather than from what was read, so deriving it again against the newer body would land the same text; nothing here proves that is safe for every edit a move makes.",
+} as const satisfies Finding
