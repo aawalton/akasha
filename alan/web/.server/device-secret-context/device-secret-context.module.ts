@@ -18,4 +18,5 @@ export const deviceSecretContext = {
       statement: "The route answers each of the three outcomes with a status of its own.",
     },
   ],
+  test: "ts",
 } as const satisfies Module
