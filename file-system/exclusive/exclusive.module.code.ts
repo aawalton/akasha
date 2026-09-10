@@ -79,9 +79,6 @@ export function exclusively<T>(path: string, act: () => T, waitMs: number = WAIT
     give()
     throw failed
   }
-  // An act that settles later returns the moment it first waits, and giving the turn up there
-  // would leave the rest of that act running with the path open to anyone. The turn is given up
-  // when such an act settles instead, so it spans the whole act either way.
   if (held instanceof Promise) return held.finally(give) as T
   give()
   return held
