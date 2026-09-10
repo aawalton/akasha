@@ -15,7 +15,7 @@ export const network = {
     "manifest/tailnet-egress",
     "manifest/talos-subnet-router",
     "module/headscale-constants",
-    "workspace-package/auth-proxy",
+    "domain/auth-proxy",
   ],
   invariants: [
     {

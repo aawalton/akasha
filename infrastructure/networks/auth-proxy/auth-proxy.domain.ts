@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const authProxy = {
   id: "01a06864-a443-7933-9156-35c26aacdfcf",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "auth-proxy",
   definition: "the server reading a request's session cookie before passing the request on",
-  manifest: "json",
 
   parts: [
     "manifest/auth-proxy-manifests",
@@ -36,4 +35,4 @@ export const authProxy = {
       statement: "A session is handed out and ended by the auth server rather than by the proxy.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

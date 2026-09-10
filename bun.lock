@@ -246,12 +246,6 @@
         "yaml": "^2.8.0",
       },
     },
-    "infrastructure/networks/auth-proxy": {
-      "name": "@akasha/auth-proxy",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "infrastructure/storage/backups/retention": {
       "name": "@akasha/backup-retention",
       "dependencies": {
@@ -528,8 +522,6 @@
     "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:products/archive-of-worlds/web"],
 
     "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:products/audhdalan/web"],
-
-    "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:infrastructure/networks/auth-proxy"],
 
     "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/storage/backups/retention"],
 
