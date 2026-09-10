@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const theFoundingCampTheBoundGround = {
   id: "01a0657d-bb95-7e3b-ada9-9a68e3e281ae",

@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const theCoreAndQuickStep = {
   id: "01a0657d-bb95-7f24-b08c-e0978804bd76",

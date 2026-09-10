@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const theCirclingHunter = {
   id: "01a0657d-bb95-7093-94c5-2bad6bbadb5b",

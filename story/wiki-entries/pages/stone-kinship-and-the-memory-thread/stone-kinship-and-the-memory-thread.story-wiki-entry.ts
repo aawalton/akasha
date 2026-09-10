@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const stoneKinshipAndTheMemoryThread = {
   id: "01a0657d-bb95-7a2c-a54d-65e6785f9fc9",

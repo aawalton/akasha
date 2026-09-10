@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const theSmallOneTheChild = {
   id: "01a0657d-bb96-7e30-8d1d-4634b3a22e13",

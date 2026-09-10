@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const pearlColetteVane = {
   id: "01a0657d-bb96-7bd9-bf93-8a0d231f749f",

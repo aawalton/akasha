@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const powersTheAwakened = {
   id: "01a0657d-bb96-768f-888c-918c40de6dd2",

@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const theFourLaborsTheFoundingFork = {
   id: "01a0657d-bb96-75f3-8e57-29f4d8bc1526",

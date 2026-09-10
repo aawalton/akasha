@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const theOnsetTheSystem = {
   id: "01a0657d-bb96-7a5c-8174-6a0801fa0b0b",

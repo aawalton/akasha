@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const theLostNamePastLifeMystery = {
   id: "01a0657d-bb96-7df2-bbb9-c70dd59a65d2",

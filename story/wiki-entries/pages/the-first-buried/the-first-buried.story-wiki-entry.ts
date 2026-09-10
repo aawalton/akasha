@@ -1,4 +1,4 @@
-import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.ts"
+import type { StoryWikiEntry } from "../../story-wiki-entry.page-type.types.ts"
 
 export const theFirstBuried = {
   id: "01a0657d-bb95-7bcc-a71c-6bd30b22220b",
