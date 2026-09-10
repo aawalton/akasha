@@ -10,9 +10,11 @@ import type { Judged, Judging } from "akasha/checks/modules/judging/judging.modu
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { counted } from "../../../utils/text/counted/counted.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
-import { oneLine, whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
+import { whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const ANSWER_CEILING = 28000
+
+export const REASON_CEILING = 240
 
 const CHECK = "--check"
 
@@ -137,6 +139,16 @@ export function notAnAuditIn(leftOut: number, judged: number, named: number): re
   return [`this is not an audit — ${said.join(", and ")}`]
 }
 
+export function notYetJudgingIn(
+  every: readonly Gathered[],
+  named: readonly string[]
+): readonly string[] {
+  if (named.length > 0) return []
+  const held = every.filter((one) => one.runsOn.length === 0).length
+  if (held === 0) return []
+  return [`this answer leaves out ${counted(held, "check")} not yet judging`]
+}
+
 export function heldTo(said: readonly string[], ceiling: number): readonly string[] {
   const held: string[] = []
   let bytes = 0
@@ -152,6 +164,27 @@ export function heldTo(said: readonly string[], ceiling: number): readonly strin
     held.push(one)
   }
   return held
+}
+
+export function reasonSaid(reason: string, ceiling: number): string {
+  const said = reason
+    .split("\n")
+    .map((one) => one.replace(/\s+/g, " ").trim())
+    .filter((one) => one !== "")
+  const kept: string[] = []
+  let held = 0
+  for (const one of said) {
+    if (kept.length > 0 && held + one.length + 1 > ceiling) break
+    kept.push(one)
+    held += one.length + 1
+  }
+  const whole = kept.join(" ")
+  const over = whole.length - ceiling
+  const more: string[] = []
+  if (over > 0) more.push(counted(over, "character"))
+  if (said.length > kept.length) more.push(counted(said.length - kept.length, "line"))
+  const shown = over > 0 ? `${whole.slice(0, ceiling)}...` : whole
+  return more.length === 0 ? shown : `${shown} (${more.join(" and ")} more)`
 }
 
 export async function judgedOver(
@@ -174,7 +207,7 @@ export async function judgedOver(
   if (said.length === 0) {
     return { report: [`${over}, and none refused`, ...also], refusals: [], code: 0 }
   }
-  const lines = said.map((one) => `${one.path} — ${oneLine(one.reason)}`)
+  const lines = said.map((one) => `${one.path} — ${reasonSaid(one.reason, REASON_CEILING)}`)
   const unrun = said.filter((one) => one.threw === true).length
   const could =
     unrun > 0
@@ -204,11 +237,14 @@ export async function audit(argv: readonly string[], given: Given): Promise<Answ
   const over = narrowedOver(change, meant.paths)
   const refusals = [...narrowed.refusals, ...over.refusals]
   if (refusals.length > 0) return { report: [], refusals, code: 1 }
-  const also = notAnAuditIn(
-    leftOutOf(atAudit, narrowed.checks),
-    over.change.changed.length,
-    change.changed.length
-  )
+  const also = [
+    ...notAnAuditIn(
+      leftOutOf(atAudit, narrowed.checks),
+      over.change.changed.length,
+      change.changed.length
+    ),
+    ...notYetJudgingIn(every, meant.only),
+  ]
   const wholly = whollyFor(meant.paths, root)
   return await judgedOver(judgingBy(narrowed.checks, "audit", wholly), over.change, also)
 }

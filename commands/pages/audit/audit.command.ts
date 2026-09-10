@@ -24,7 +24,7 @@ export const audit = {
     "a run where no named file is a check's input is refused rather than answered clean.",
     "a run narrowed by --file-path says nothing about the files that run did not judge.",
     "it writes nothing, and holds nothing still while it runs.",
-    "a bare run judges by the checks stating the audit phase, so a check that judges on no phase is left out.",
+    "a bare run judges by the checks stating the audit phase, so a check that judges on no phase is left out, and the answer says how many were left out that way.",
     "--check narrows which checks run rather than which files they see, so the cost sits in which checks run.",
     "it runs under no ceiling on the clock, so a bare run takes as long as its checks take, and a check overrunning the processor seconds its own page states is refused.",
     "a check forced by name over every file measured under a second at the cheapest and 141 processor seconds at the slowest, lint-clean, on 2026-09-10.",
@@ -51,6 +51,10 @@ export const audit = {
     {
       invariantKind: "departure",
       statement: "An audit naming no check runs only the checks that run at audit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming no check says how many checks it left out for not yet judging.",
     },
     {
       invariantKind: "departure",
@@ -96,6 +100,14 @@ export const audit = {
     {
       invariantKind: "departure",
       statement: "An audit says how many checks could not run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal's reason is carried by its lines rather than as one run of words.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reason the answer holds only part of says how much of that reason went.",
     },
     {
       invariantKind: "departure",

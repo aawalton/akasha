@@ -13,6 +13,9 @@ import {
   narrowedOver,
   narrowedTo,
   notAnAuditIn,
+  notYetJudgingIn,
+  REASON_CEILING,
+  reasonSaid,
   underOf,
   whollyFor,
 } from "./audit.command.code.ts"
@@ -148,6 +151,36 @@ test("a run narrowed in both ways says both on one line", () => {
   expect(notAnAuditIn(23, 3, 900)).toEqual([
     "this is not an audit — the 23 checks it left out judged nothing, and it judged 3 files rather than every file this repository holds",
   ])
+})
+
+test("a bare run says how many checks it left out for not yet judging", () => {
+  const every = [...gathered(["one"], ["audit"]), ...gathered(["two", "three"], [])]
+  expect(notYetJudgingIn(every, [])).toEqual(["this answer leaves out 2 checks not yet judging"])
+})
+
+test("a run where every check judges says nothing about checks left out that way", () => {
+  expect(notYetJudgingIn(gathered(["one"], ["audit"]), [])).toEqual([])
+})
+
+test("a run naming a check says nothing about the checks not yet judging", () => {
+  expect(notYetJudgingIn(gathered(["one"], []), ["one"])).toEqual([])
+})
+
+test("a reason one answer holds whole is carried whole, its lines run together", () => {
+  expect(reasonSaid("one\n\ntwo", REASON_CEILING)).toBe("one two")
+})
+
+test("a reason of many lines says how many of those lines went", () => {
+  const said = reasonSaid(`22 test files failed:\n${"a/b.test.ts\n".repeat(22)}`, 60)
+  expect(said).toContain("22 test files failed:")
+  expect(said).toContain("a/b.test.ts")
+  expect(said).toContain("(19 lines more)")
+})
+
+test("a first line past the ceiling says how many characters went", () => {
+  const said = reasonSaid("h".repeat(300), REASON_CEILING)
+  expect(said.startsWith("h".repeat(REASON_CEILING))).toBe(true)
+  expect(said).toContain(`(${300 - REASON_CEILING} characters more)`)
 })
 
 test("a reason spanning lines comes back on one, so one refusal is one line", async () => {
