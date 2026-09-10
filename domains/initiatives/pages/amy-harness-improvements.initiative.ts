@@ -29,15 +29,5 @@ export const amyHarnessImprovements = {
       workingMemory:
         "Alan wants the reading timers gone rather than kept under the watch. Eight readouts move and seven of them read one folder, `days/pages/<today>/`. Plants reads the food entries, monarch keeps its timer since it asks the Monarch API live, and the three Claude countdowns take no reading at all. The blocker is `STALE_AFTER_MS`: with no beat a tile goes dark at minute 46, so being current has to become whether the watcher is well rather than whether a reading is recent.",
     },
-    {
-      statement: "Alan deletes an initiative from the Work Panel's right click menu.",
-      workingMemory:
-        "The panel is `editor-extension/work-tree-panel`, with `work-tree-view`, `work-tree-ids` and `work-tree-reading` beside it. Deleting runs the `remove-page` act, which takes `at`, claims every sibling file of the page, and un-names the page from each parent's `parts`. Mortality gates none of that; it only exempts a page from a dangling-reference refusal. Unsettled: what becomes of a seat whose assignment is the initiative deleted, and that a removal leaves the relation index stale.",
-    },
-    {
-      statement: "Alan deletes one initiative intent from the Work Panel's right click menu.",
-      workingMemory:
-        "An intent is one entry in the `intents` record list on the initiative's own page, so deleting one rewrites that page rather than removing a file, and `akasha change draft` already runs a `remove-property-record` act for exactly that. `intents` is optional, so an initiative may be left holding none. Unsettled: whether this shares the menu declaration and the id scheme with deleting a whole initiative, which decides whether the two can be built side by side.",
-    },
   ],
 } as const satisfies Initiative
