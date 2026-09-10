@@ -34,6 +34,10 @@ export const identifierMatchesItsPlace = {
         "A declaration file names a thing another language or another writer already named.",
     },
     {
+      invariantKind: "gap",
+      statement: "A name another program reaches by its spelling is judged as akasha's to rename.",
+    },
+    {
       invariantKind: "absence",
       statement: "The places hold for the whole repo.",
     },
