@@ -15,7 +15,7 @@ export type Question = Page & {
   askedBy: QuestionAskedBy
   askedIn: QuestionAskedIn
   status: QuestionStatus
-  offered?: readonly QuestionOffered[]
+  offered?: QuestionOffered
   answer?: QuestionAnswer
   closedAt?: QuestionClosedAt
   context?: QuestionContext

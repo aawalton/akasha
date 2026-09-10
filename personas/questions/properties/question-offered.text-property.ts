@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type QuestionOffered = string
+export type QuestionOffered = List<string>
 
 export const questionOffered = {
   id: "01a06823-89b2-7005-bff8-2e42db05c1e6",
