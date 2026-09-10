@@ -11,33 +11,33 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
       workingMemory:
-        "Every parent edge under `commands/` is checked: 208 nested commands each named by the namespace whose folder holds them, 12 top commands and 22 top namespaces named by the command page type, 25 nested namespaces named by the namespace above. None unnamed. Each reading was made by an instrument first shown to catch a seeded fault. Whether the 12 want namespaces is Alan's. The two track tests had failed unseen since 4e0e4b61b3 landed them, over a scratch repository with no index.",
+        "213 of 225 commands nest under a namespace folder that names them, no mismatch at any depth; 47 namespaces, 22 top and 25 nested. The 12 at the root are agent-turn-colors, audit, calendar, complexity, drive, icloud, index, ios-app, performance, push, read, restore, named as parts by `commands/command.page-type.ts`. Alan ruled on 2026-09-10 that each takes a namespace rather than an exception. No check holds this: `folder-matches-a-shape` admits any page the type above declares a part.\n",
     },
     {
       statement:
         "Every command sits in one folder at the root, named by the namespace it is under.",
       workingMemory:
-        "Every one of the 220 command and 47 namespace slugs is exactly its folder path under `commands/pages/` joined by hyphens, read by an instrument first shown to catch a seeded mismatch. No domain or package names a command among its parts, where 187 such entries sat over 19 pages. What is left is the 12 commands under no namespace, which the `command` page type names directly, so either those 12 want namespaces or the constraint wants the exception written in.",
+        "All 225 command and 47 namespace slugs are exactly their folder path under `commands/pages/` hyphen-joined, and equal their filename stem. The parts close both ways, no orphan and no dangling part. No domain or package names a command any more, where 187 such entries sat over 19 pages. Nothing mechanical holds it: `page-named-as-stated` judges the stem alone, and no check re-derives a slug from its path. The exception is written for a namespace under no namespace, and for no command.\n",
     },
     {
       statement: "A seat has the commands its domain and role need, without being handed them.",
       workingMemory:
-        "This began when the `alan` handler seat could not reach `akasha track session`. Alan wants narrow warrants per use case, not one generic relation, and rejected `partSlugs` as the edge: too broad, and it demands a spanning tree, while a command belongs to its namespace and answers to several domains and roles. Nothing is built: no such relation is anywhere and `alan` names no command. The name wants settling, since `partSlugs` is `parts` now, and the example names a namespace.",
+        "Every seat is handed one document, `agents.agent-settings.harness-settings.json`, whose `permissions.allow` is empty and whose deny list is global; a spawn merges only `remoteControlAtStartup` into it. A seat's persona, role and assignment reach none of it. No relation property targets `page-type/command`, and `alan.domain.ts`, `alan.seat.ts` and `handler.role.ts` name no command. Alan wants narrow warrants per use case and rejected `parts` as too broad. `track session` is a namespace of ten.\n",
     },
     {
       statement: "An instrument that cannot see its subject says so rather than reporting clean.",
       workingMemory:
-        "Eight found in one day. `migration-reach` gave `akasha/` as a pathspec and answered empty for everything (fixed 73cbedabc4). `outside-naming` excluded nothing, so `move` swept twice and landed corrupt commits while reporting success (fixed 2a79aee3a7). `tests-pass` returns nothing while `AKASHA_TESTS_RUNNING` is set, which nothing unsets and which every child inherits, and the landing still counts it. A worktree symlinked to its parent ran its own tests against the parent's code.",
+        "`temper/build-deploy-checks/population-bound` already does this: examined against declared, an empty population where none was declared, and a throw where examined runs past declared. Its ten callers all sit under that folder, and no akasha code-check reaches it. A check answers `Judged` records, so an empty answer means clean, and Fail Closed covers only a check that threw. `outcome.module.ts` states the rule and nothing imports it. The two swept instruments are moot, their subjects deleted.\n",
     },
     {
       statement: "A writer is told when a change writes a taboo term they read once before.",
       workingMemory:
-        "Reading a term's page clears it for every later change, for any file, because `owingOf` owes nothing while the record has that page at its current blob. Alan ruled this intended: answering a warrant by when something was read is barred, so a re-owed warrant would have no escape. The refusal text contradicted itself and was fixed at 2356754c61. What is left is telling the writer without refusing, and no such channel exists: `troubling` turns any non-empty array into refusals.",
+        "`owingOf` keys a reading under the agent and path alone, so one reading clears the term for every later change and any file. `heldTo` hands the page back in the refusal and records that reading, so the first refusal clears itself: the telling is the clearing. A channel that tells without refusing exists already — `report` goes to stdout, refusals to stderr. What is left is routing: `unwarrantedIn`'s one caller pushes into `troubling`, which only refuses, and `Built` has no slot for a notice.\n",
     },
     {
       statement: "An index written as changes land matches what a rebuild would write.",
       workingMemory:
-        "At dd781e3529 the index takes the whole tree: 541356 entries, 0 refused. The 1 refused was thea naming `check`, which reaches two pages. The drift cannot be quoted while other lanes land a relation rename — added read 12794 then 12094 over read-only calls minutes apart — and `move-folder` is no source, since nine moved modules each have the new import entry and no old one. A settle refiles only the pages a change has, so an entry no change touches is never revisited.",
+        "The index is 379,411 `.jsonl` files under `.git/data/index/`, in eight kinds. A dry-run refresh reports the drift and writes nothing. Two runs minutes apart at different HEADs gave the same drift, so it is quotable while other lanes land: 80 added, 1 changed, 3 taken away over about 544,880 entries, 0 refused. Settling reaches past the change for identity, path, listing and import; the relation kind alone works over `held`, and 79 of the 80 added are relation entries. No landing catches drift.\n",
     },
   ],
   constraints: [
