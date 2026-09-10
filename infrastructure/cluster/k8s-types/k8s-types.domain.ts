@@ -22,5 +22,6 @@ export const k8sTypes = {
     "page-type/manifest",
     "module/k8s-namespace",
     "module/manifest-composing",
+    "module/config-checksum",
   ],
 } as const satisfies Domain
