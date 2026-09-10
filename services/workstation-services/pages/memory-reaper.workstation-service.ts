@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const memoryReaper = {
   id: "01a06829-0194-7550-9679-6801bad16b9f",

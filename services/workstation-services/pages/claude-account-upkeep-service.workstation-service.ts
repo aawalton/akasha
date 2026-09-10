@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const claudeAccountUpkeepService = {
   id: "01a06829-0194-744a-b8fe-cd24f9fcdcc1",

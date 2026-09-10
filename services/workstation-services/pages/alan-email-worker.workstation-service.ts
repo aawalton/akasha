@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const alanEmailWorker = {
   id: "01a06829-0193-7263-a1e4-d14db047d74d",

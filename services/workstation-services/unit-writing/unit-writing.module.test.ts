@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 import {
   installedUnitName,
   isScheduled,

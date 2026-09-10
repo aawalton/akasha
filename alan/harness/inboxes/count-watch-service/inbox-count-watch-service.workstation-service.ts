@@ -1,4 +1,4 @@
-import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.ts"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.types.ts"
 
 export const inboxCountWatchService = {
   id: "01a079df-057d-7957-b80e-f75d73b1705c",

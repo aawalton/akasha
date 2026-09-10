@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const royalRoadSync = {
   id: "01a06829-0194-78d3-8693-e4cc1c1e6e9a",

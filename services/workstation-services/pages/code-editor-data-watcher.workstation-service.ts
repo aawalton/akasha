@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const codeEditorDataWatcher = {
   id: "01a07266-d473-76a3-bf19-f74baaa4efdf",

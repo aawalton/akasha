@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const monarchSync = {
   id: "01a06829-0194-7976-b3a8-db7df0bae3ef",

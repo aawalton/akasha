@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const personaPointsRebuilding = {
   id: "01a082eb-b037-7fe2-b2ad-f45181c80cb2",

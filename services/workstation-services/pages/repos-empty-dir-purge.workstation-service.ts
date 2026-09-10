@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const reposEmptyDirPurge = {
   id: "01a06829-0194-7c17-9a07-d06e04099921",

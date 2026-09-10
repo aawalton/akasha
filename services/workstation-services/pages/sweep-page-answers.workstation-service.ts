@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const sweepPageAnswers = {
   id: "019ffe91-4c22-7a30-b5f1-6d3a7c4e8b02",

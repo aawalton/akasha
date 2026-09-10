@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const ttcClient = {
   id: "01a06829-0194-7e8a-b87b-1e6e9ea4fe59",

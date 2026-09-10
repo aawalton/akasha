@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const monarchPoll = {
   id: "01a06829-0194-7a16-9864-72598a2e5654",

@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const serviceWatching = {
   id: "01a0821e-fce7-7ae4-8976-65f19bcdb30b",

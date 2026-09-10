@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const wanderingInnSync = {
   id: "01a06829-0194-7944-8222-878e84344e48",

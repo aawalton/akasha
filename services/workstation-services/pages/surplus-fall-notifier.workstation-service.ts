@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const surplusFallNotifier = {
   id: "01a06829-0194-7754-b17a-14e66866bd98",

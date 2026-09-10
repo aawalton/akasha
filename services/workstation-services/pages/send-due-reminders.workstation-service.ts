@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const sendDueReminders = {
   id: "01a06829-0194-7cac-9819-5df28b44cea6",

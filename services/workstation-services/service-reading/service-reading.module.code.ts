@@ -2,7 +2,7 @@ import { everyOfType, listedAt } from "@akasha/indexes"
 import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
 import type { Systemd } from "../properties/systemd.record-property.ts"
 import type { Service } from "../unit-writing/unit-writing.module.code.ts"
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const SERVICE_PAGE_TYPE = "workstation-service"
 

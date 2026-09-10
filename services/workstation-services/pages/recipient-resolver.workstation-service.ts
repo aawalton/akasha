@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const recipientResolver = {
   id: "01a06829-0194-7fa2-a0e7-92e073ef2d21",

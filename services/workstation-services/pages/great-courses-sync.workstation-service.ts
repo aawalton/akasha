@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const greatCoursesSync = {
   id: "01a06829-0194-71d6-8b3b-2687352034df",

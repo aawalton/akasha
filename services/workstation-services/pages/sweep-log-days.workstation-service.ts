@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const sweepLogDays = {
   id: "01a03b2f-4e21-7000-b7c5-1d9a4e3f8a60",

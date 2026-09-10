@@ -1,4 +1,4 @@
-import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.ts"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.types.ts"
 
 export const plantsReadingService = {
   id: "01a06221-d65f-7be9-9a9b-a64cecbc3d7e",

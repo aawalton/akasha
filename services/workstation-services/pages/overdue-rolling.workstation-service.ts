@@ -1,4 +1,4 @@
-import type { WorkstationService } from "../workstation-service.page-type.ts"
+import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 
 export const overdueRolling = {
   id: "01a07959-e7b3-7474-b7d6-6b2d76b1b642",
