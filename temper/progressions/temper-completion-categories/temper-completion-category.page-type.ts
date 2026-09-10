@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.ts"
+import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.types.ts"
 import type { Tab } from "./properties/tab.text-property.ts"
 
 export type TemperCompletionCategory = TemperProgressThing & {
