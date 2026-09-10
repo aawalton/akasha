@@ -1,7 +1,5 @@
 import type { UrlProperty } from "akasha/pages/url-properties/url-property.page-type.types.ts"
 
-export type CalendarEventExternalLink = string
-
 export const calendarEventExternalLink = {
   id: "01a06868-aec4-75d2-a847-12fbe07cf625",
   pageTypeSlug: "url-property",
@@ -10,4 +8,5 @@ export const calendarEventExternalLink = {
   propertySlug: "external-link",
   definition: "the address an event is at on its source",
   maxLength: 200,
+  types: "ts",
 } as const satisfies UrlProperty

@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type QuestionClosedAt = string
-
 export const questionClosedAt = {
   id: "01a06823-89b2-7007-9970-d5a9da370fe4",
   pageTypeSlug: "instant-property",
@@ -19,4 +17,5 @@ export const questionClosedAt = {
       statement: "A closed question with no such instant closed at an hour nobody wrote down.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

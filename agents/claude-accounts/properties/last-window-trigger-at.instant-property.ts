@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type LastWindowTriggerAt = string
-
 export const lastWindowTriggerAt = {
   id: "01a054d8-1d39-7d4f-8f23-88dd28e6aee3",
   pageTypeSlug: "instant-property",
@@ -10,4 +8,5 @@ export const lastWindowTriggerAt = {
   propertySlug: "last-window-trigger-at",
   definition: "when an allowance window was last opened by a call made to open it",
   invariants: [],
+  types: "ts",
 } as const satisfies InstantProperty

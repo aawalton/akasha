@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type TokenLastUsedAt = string
-
 export const tokenLastUsedAt = {
   id: "01a05fd3-4363-7e26-a26a-864410b87ea0",
   pageTypeSlug: "instant-property",
@@ -9,4 +7,5 @@ export const tokenLastUsedAt = {
   slug: "token-last-used-at",
   propertySlug: "token-last-used-at",
   definition: "when a token was last accepted on a call",
+  types: "ts",
 } as const satisfies InstantProperty

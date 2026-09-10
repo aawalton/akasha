@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type PlayedAt = string
-
 export const playedAt = {
   id: "01a06240-340f-7003-a499-38bacdc77226",
   pageTypeSlug: "instant-property",
@@ -9,4 +7,5 @@ export const playedAt = {
   slug: "played-at",
   propertySlug: "played-at",
   definition: "when a play happened",
+  types: "ts",
 } as const satisfies InstantProperty

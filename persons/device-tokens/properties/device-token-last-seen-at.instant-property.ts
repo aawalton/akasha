@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type DeviceTokenLastSeenAt = string
-
 export const deviceTokenLastSeenAt = {
   id: "01a05dc7-77dc-73b5-90f0-3a2845a662e6",
   pageTypeSlug: "instant-property",
@@ -15,4 +13,5 @@ export const deviceTokenLastSeenAt = {
       statement: "A token carrying no such instant has not been registered again.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

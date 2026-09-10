@@ -8,7 +8,7 @@ import type { NetPayout } from "./properties/net-payout.number-property.ts"
 import type { SaleId } from "./properties/sale-id.text-property.ts"
 import type { SalePrice } from "./properties/sale-price.number-property.ts"
 import type { SaleQuantity } from "./properties/sale-quantity.number-property.ts"
-import type { SoldAt } from "./properties/sold-at.instant-property.ts"
+import type { SoldAt } from "./properties/sold-at.instant-property.types.ts"
 import type { Tax } from "./properties/tax.number-property.ts"
 
 export type TemperSale = TemperThing & {

@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type WorkedAt = string
-
 export const workedAt = {
   id: "01a08caf-449d-7319-acb4-c598e9e345ee",
   pageTypeSlug: "instant-property",
@@ -36,4 +34,5 @@ export const workedAt = {
         "A service started over and over without finishing a round never moves the moment.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type UpdatedAt = string
-
 export const updatedAt = {
   id: "01a07293-b84f-74d7-90cc-6208d5fc468f",
   pageTypeSlug: "instant-property",
@@ -21,4 +19,5 @@ export const updatedAt = {
         "This instant is the moment the player changed the rule rather than the moment the rule landed.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

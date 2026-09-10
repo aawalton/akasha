@@ -1,7 +1,5 @@
 import type { UrlProperty } from "akasha/pages/url-properties/url-property.page-type.types.ts"
 
-export type GameUrl = string
-
 export const gameUrl = {
   id: "01a06582-bd62-7bf6-92f5-ed7736a420f5",
   pageTypeSlug: "url-property",
@@ -10,4 +8,5 @@ export const gameUrl = {
   propertySlug: "game-url",
   definition: "the game a puzzle was taken from",
   maxLength: 200,
+  types: "ts",
 } as const satisfies UrlProperty

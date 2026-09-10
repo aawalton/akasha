@@ -1,7 +1,5 @@
 import type { CalendarTimeProperty } from "akasha/pages/calendar-time-properties/calendar-time-property.page-type.types.ts"
 
-export type DueTime = string
-
 export const dueTime = {
   id: "01a06d87-f1ed-793e-bf8f-a6f094353e9f",
   pageTypeSlug: "calendar-time-property",
@@ -15,4 +13,5 @@ export const dueTime = {
       statement: "A task wanted at no stated hour states no due time.",
     },
   ],
+  types: "ts",
 } as const satisfies CalendarTimeProperty

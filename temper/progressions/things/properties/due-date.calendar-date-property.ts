@@ -1,7 +1,5 @@
 import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties/calendar-date-property.page-type.types.ts"
 
-export type DueDate = string
-
 export const dueDate = {
   id: "01a0793a-2730-7efc-b4a0-869a6e3af33f",
   pageTypeSlug: "calendar-date-property",
@@ -15,4 +13,5 @@ export const dueDate = {
       statement: "A due date rolls forward to the next round when the task is marked done.",
     },
   ],
+  types: "ts",
 } as const satisfies CalendarDateProperty

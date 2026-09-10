@@ -1,0 +1,1 @@
+export type MessageClaimedAt = string

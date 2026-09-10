@@ -15,7 +15,7 @@ import type { SeatPersona } from "./properties/seat-persona.relation-property.ts
 import type { StartMode } from "./properties/start-mode.text-property.ts"
 import type { SubagentEdits } from "./properties/subagent-edits.file-property.ts"
 import type { SubagentRefusals } from "./properties/subagent-refusals.file-property.ts"
-import type { SupervisorProcess } from "./properties/supervisor-process.process-property.ts"
+import type { SupervisorProcess } from "./properties/supervisor-process.process-property.types.ts"
 import type { TranscriptPath } from "./properties/transcript-path.text-property.ts"
 import type { TurnPending } from "./properties/turn-pending.record-property.ts"
 import type { TurnWorking } from "./properties/turn-working.record-property.ts"

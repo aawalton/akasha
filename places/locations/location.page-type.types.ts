@@ -8,14 +8,14 @@ import type { LocationCategory } from "./properties/location-category.text-prope
 import type { LocationNotes } from "./properties/location-notes.text-property.ts"
 import type { LocationSource } from "./properties/location-source.text-property.ts"
 import type { Longitude } from "./properties/longitude.number-property.ts"
-import type { ReviewDate } from "./properties/review-date.calendar-date-property.ts"
+import type { ReviewDate } from "./properties/review-date.calendar-date-property.types.ts"
 import type { ReviewFlag } from "./properties/review-flag.text-property.ts"
 import type { ReviewRating } from "./properties/review-rating.number-property.ts"
 import type { ReviewText } from "./properties/review-text.text-property.ts"
-import type { ScheduledEndAt } from "./properties/scheduled-end-at.instant-property.ts"
-import type { ScheduledStartAt } from "./properties/scheduled-start-at.instant-property.ts"
+import type { ScheduledEndAt } from "./properties/scheduled-end-at.instant-property.types.ts"
+import type { ScheduledStartAt } from "./properties/scheduled-start-at.instant-property.types.ts"
 import type { SourcePlaceId } from "./properties/source-place-id.text-property.ts"
-import type { SourceUrl } from "./properties/source-url.url-property.ts"
+import type { SourceUrl } from "./properties/source-url.url-property.types.ts"
 import type { Visited } from "./properties/visited.boolean-property.types.ts"
 
 export type Location = Page & {

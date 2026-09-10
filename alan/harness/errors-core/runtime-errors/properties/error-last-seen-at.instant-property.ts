@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type ErrorLastSeenAt = string
-
 export const errorLastSeenAt = {
   id: "01a05f3f-e3e0-7d03-874b-3c6c7f2183d1",
   pageTypeSlug: "instant-property",
@@ -23,4 +21,5 @@ export const errorLastSeenAt = {
       statement: "An error naming no such moment was last met at an unknown moment.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

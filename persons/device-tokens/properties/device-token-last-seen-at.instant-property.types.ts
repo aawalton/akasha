@@ -1,0 +1,1 @@
+export type DeviceTokenLastSeenAt = string

@@ -1,7 +1,5 @@
 import type { UrlProperty } from "akasha/pages/url-properties/url-property.page-type.types.ts"
 
-export type ExerciseExternalLink = string
-
 export const exerciseExternalLink = {
   id: "01a0657e-2bbf-7c94-837e-2188bc435439",
   pageTypeSlug: "url-property",
@@ -10,4 +8,5 @@ export const exerciseExternalLink = {
   propertySlug: "exercise-external-link",
   definition: "where the movement is described in the catalogue it came from",
   maxLength: 200,
+  types: "ts",
 } as const satisfies UrlProperty

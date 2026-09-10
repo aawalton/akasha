@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type ErrorFirstSeenAt = string
-
 export const errorFirstSeenAt = {
   id: "01a05f3f-e3e0-79ae-a33f-a08a9966c72b",
   pageTypeSlug: "instant-property",
@@ -23,4 +21,5 @@ export const errorFirstSeenAt = {
       statement: "The moment an error was first met is written into the commit.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

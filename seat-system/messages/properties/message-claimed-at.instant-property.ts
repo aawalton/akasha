@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type MessageClaimedAt = string
-
 export const messageClaimedAt = {
   id: "01a06818-107b-7004-8256-c637bdc728bd",
   pageTypeSlug: "instant-property",
@@ -31,4 +29,5 @@ export const messageClaimedAt = {
       statement: "A claim goes when its message goes.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

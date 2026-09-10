@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type MarkedReadAt = string
-
 export const markedReadAt = {
   id: "01a06860-cb0c-7346-bb65-3d5bb4069535",
   pageTypeSlug: "instant-property",
@@ -19,4 +17,5 @@ export const markedReadAt = {
       statement: "A collection whose source was never told states no moment of telling.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

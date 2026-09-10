@@ -26,7 +26,7 @@ import type { InboxTemperTasksClearedToday } from "./properties/inbox-temper-tas
 import type { InboxTexts } from "./properties/inbox-texts.number-property.ts"
 import type { InboxTextsClearedToday } from "./properties/inbox-texts-cleared-today.boolean-property.types.ts"
 import type { IntelligenceTopics } from "./properties/intelligence-topics.number-property.ts"
-import type { LastViewedAt } from "./properties/last-viewed-at.instant-property.ts"
+import type { LastViewedAt } from "./properties/last-viewed-at.instant-property.types.ts"
 import type { LearnLevel } from "./properties/learn-level.computed-property.ts"
 import type { LearnPoints } from "./properties/learn-points.number-property.ts"
 import type { LearnStoplight } from "./properties/learn-stoplight.computed-property.ts"

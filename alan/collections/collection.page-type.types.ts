@@ -1,7 +1,7 @@
 import type { Page } from "../../pages/page.page-type.types.ts"
 import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
-import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"
+import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.types.ts"
 import type { CollectionCompletion } from "./properties/collection-completion.computed-property.ts"
 import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
 import type { CollectionTags } from "./properties/collection-tags.text-property.ts"

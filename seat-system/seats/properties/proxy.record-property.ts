@@ -1,6 +1,6 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { ProxyPort } from "./proxy-port.number-property.ts"
-import type { ProxyProcess } from "./proxy-process.process-property.ts"
+import type { ProxyProcess } from "./proxy-process.process-property.types.ts"
 import type { ProxyVersion } from "./proxy-version.text-property.ts"
 
 export type Proxy = { process: ProxyProcess; port: ProxyPort; version: ProxyVersion }

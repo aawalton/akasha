@@ -1,7 +1,5 @@
 import type { UrlProperty } from "akasha/pages/url-properties/url-property.page-type.types.ts"
 
-export type CalendarEventRegistrationUrl = string
-
 export const calendarEventRegistrationUrl = {
   id: "01a06868-aec4-74a6-87b5-95514debcf9d",
   pageTypeSlug: "url-property",
@@ -10,4 +8,5 @@ export const calendarEventRegistrationUrl = {
   propertySlug: "registration-url",
   definition: "the address a place at an event is taken at",
   maxLength: 200,
+  types: "ts",
 } as const satisfies UrlProperty

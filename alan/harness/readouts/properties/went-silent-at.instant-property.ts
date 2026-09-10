@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type WentSilentAt = string
-
 export const wentSilentAt = {
   id: "01a08caf-b3c1-73e9-9237-f5ea2af2731e",
   pageTypeSlug: "instant-property",
@@ -35,4 +33,5 @@ export const wentSilentAt = {
       statement: "Answering nothing is a fact about a readout rather than a fault of its watch.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

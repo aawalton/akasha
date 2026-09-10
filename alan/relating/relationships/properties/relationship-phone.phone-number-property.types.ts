@@ -1,0 +1,1 @@
+export type RelationshipPhone = string

@@ -1,7 +1,5 @@
 import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties/calendar-date-property.page-type.types.ts"
 
-export type StartDate = string
-
 export const startDate = {
   id: "01a06575-c2c0-7a7a-9050-6651320c7596",
   pageTypeSlug: "calendar-date-property",
@@ -9,4 +7,5 @@ export const startDate = {
   slug: "start-date",
   propertySlug: "start-date",
   definition: "the day a life theme was taken up",
+  types: "ts",
 } as const satisfies CalendarDateProperty

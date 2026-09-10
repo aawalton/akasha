@@ -5,7 +5,7 @@ import type { Category } from "../../../temper/things/properties/category.text-p
 import type { Icon } from "../../../temper/things/properties/icon.text-property.ts"
 import type { ActiveDrill } from "./properties/active-drill.boolean-property.types.ts"
 import type { ChessProgressStatus } from "./properties/chess-progress-status.select-property.ts"
-import type { LastReviewed } from "./properties/last-reviewed.calendar-date-property.ts"
+import type { LastReviewed } from "./properties/last-reviewed.calendar-date-property.types.ts"
 import type { MasteryLevel } from "./properties/mastery-level.select-property.ts"
 import type { MotifId } from "./properties/motif-id.text-property.ts"
 

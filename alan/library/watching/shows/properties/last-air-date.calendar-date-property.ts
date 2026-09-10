@@ -1,7 +1,5 @@
 import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties/calendar-date-property.page-type.types.ts"
 
-export type LastAirDate = string
-
 export const lastAirDate = {
   id: "01a06599-ee09-700d-9b99-fd8bc2af90cc",
   pageTypeSlug: "calendar-date-property",
@@ -15,4 +13,5 @@ export const lastAirDate = {
       statement: "A show still running states no day its last episode aired.",
     },
   ],
+  types: "ts",
 } as const satisfies CalendarDateProperty

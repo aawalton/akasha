@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type SoldAt = string
-
 export const soldAt = {
   id: "01a0685d-89aa-7a8e-b4df-5eaab65932fb",
   pageTypeSlug: "instant-property",
@@ -9,4 +7,5 @@ export const soldAt = {
   slug: "sold-at",
   propertySlug: "sold-at",
   definition: "when a sale went through",
+  types: "ts",
 } as const satisfies InstantProperty

@@ -1,7 +1,5 @@
 import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties/calendar-date-property.page-type.types.ts"
 
-export type TransactionDay = string
-
 export const transactionDay = {
   id: "01a0680b-2b00-7001-8c63-5f1a9d4b2102",
   pageTypeSlug: "calendar-date-property",
@@ -15,4 +13,5 @@ export const transactionDay = {
       statement: "A transaction sits beside the month its day falls in.",
     },
   ],
+  types: "ts",
 } as const satisfies CalendarDateProperty

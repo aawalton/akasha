@@ -3,7 +3,7 @@ import type { QuestionAnswer } from "./properties/question-answer.text-property.
 import type { QuestionAsk } from "./properties/question-ask.text-property.ts"
 import type { QuestionAskedBy } from "./properties/question-asked-by.relation-property.ts"
 import type { QuestionAskedIn } from "./properties/question-asked-in.text-property.ts"
-import type { QuestionClosedAt } from "./properties/question-closed-at.instant-property.ts"
+import type { QuestionClosedAt } from "./properties/question-closed-at.instant-property.types.ts"
 import type { QuestionContext } from "./properties/question-context.file-property.ts"
 import type { QuestionLinks } from "./properties/question-links.record-property.ts"
 import type { QuestionOffered } from "./properties/question-offered.text-property.ts"

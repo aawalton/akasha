@@ -1,0 +1,1 @@
+export type PublishedDay = string

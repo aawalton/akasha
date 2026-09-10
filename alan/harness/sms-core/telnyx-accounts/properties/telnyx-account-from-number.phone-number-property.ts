@@ -1,7 +1,5 @@
 import type { PhoneNumberProperty } from "akasha/pages/phone-number-properties/phone-number-property.page-type.types.ts"
 
-export type TelnyxAccountFromNumber = string
-
 export const telnyxAccountFromNumber = {
   id: "01a06861-e7cd-782f-837c-97ecffc8dfca",
   pageTypeSlug: "phone-number-property",
@@ -9,4 +7,5 @@ export const telnyxAccountFromNumber = {
   slug: "telnyx-account-from-number",
   propertySlug: "from-number",
   definition: "the number a text is sent from",
+  types: "ts",
 } as const satisfies PhoneNumberProperty

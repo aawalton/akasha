@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type FavoritedAt = string
-
 export const favoritedAt = {
   id: "01a0658b-3654-728d-9ec0-762700250f71",
   pageTypeSlug: "instant-property",
@@ -9,4 +7,5 @@ export const favoritedAt = {
   slug: "favorited-at",
   propertySlug: "favorited-at",
   definition: "when Alan marked a page one he comes back to",
+  types: "ts",
 } as const satisfies InstantProperty

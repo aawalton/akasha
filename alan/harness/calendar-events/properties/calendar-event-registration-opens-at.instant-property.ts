@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type CalendarEventRegistrationOpensAt = string
-
 export const calendarEventRegistrationOpensAt = {
   id: "01a06868-aec4-79ee-a836-f52b713e6108",
   pageTypeSlug: "instant-property",
@@ -9,4 +7,5 @@ export const calendarEventRegistrationOpensAt = {
   slug: "calendar-event-registration-opens-at",
   propertySlug: "registration-opens-at",
   definition: "when places at an event may first be taken",
+  types: "ts",
 } as const satisfies InstantProperty

@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type CalendarEventEndAt = string
-
 export const calendarEventEndAt = {
   id: "01a06868-aec4-7386-a7db-9506a52a5b2a",
   pageTypeSlug: "instant-property",
@@ -9,4 +7,5 @@ export const calendarEventEndAt = {
   slug: "calendar-event-end-at",
   propertySlug: "end-at",
   definition: "when an event ends",
+  types: "ts",
 } as const satisfies InstantProperty

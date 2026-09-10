@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type RemovedAt = string
-
 export const removedAt = {
   id: "01a06554-d8bd-779b-9fbf-e9e8e3127e1f",
   pageTypeSlug: "instant-property",
@@ -16,4 +14,5 @@ export const removedAt = {
         "The pages akasha has of a collection are kept after the source takes the collection down.",
     },
   ],
+  types: "ts",
 } as const satisfies InstantProperty

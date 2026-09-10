@@ -1,7 +1,5 @@
 import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
-export type SevenDayStartedAt = string
-
 export const sevenDayStartedAt = {
   id: "01a054d8-1d39-75d7-8137-faece255822a",
   pageTypeSlug: "instant-property",
@@ -9,4 +7,5 @@ export const sevenDayStartedAt = {
   slug: "seven-day-started-at",
   propertySlug: "seven-day-started-at",
   definition: "when the seven-day window opened",
+  types: "ts",
 } as const satisfies InstantProperty
