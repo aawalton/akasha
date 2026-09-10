@@ -1,4 +1,4 @@
-import type { Host } from "../host.page-type.ts"
+import type { Host } from "../host.page-type.types.ts"
 
 export const node06 = {
   id: "01a06590-e94f-7e69-9dae-b94b506844fe",

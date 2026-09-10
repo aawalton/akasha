@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { HostAddress } from "./properties/host-address.text-property.ts"
-import type { LoginUser } from "./properties/login-user.text-property.ts"
-
-export type Host = Domain & {
-  title: Title
-  address?: HostAddress
-  loginUser?: LoginUser
-}
 
 export const host = {
   id: "01a06590-e94f-7d6f-a415-867286e194a2",
@@ -62,4 +52,5 @@ export const host = {
       statement: "A host a script signs in to states the account that script signs in as.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
