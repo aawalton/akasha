@@ -61,10 +61,6 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A generated body naming that type is left to the thing that writes it.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A body naming that type through a package names it from the workspace root.",
     },
   ],

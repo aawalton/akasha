@@ -219,42 +219,6 @@ test("a body declaring no such type is refused", async () => {
   expect(said.refused).toBe(`\`${FROM}\` declares no type named \`Missing\``)
 })
 
-const WRITTEN = "akasha/one/uses.held.types.ts"
-
-const TYPES_AT = "akasha/one/types.file-property.ts"
-
-const WRITTEN_USING = `import type { Kept } from "./one.held.ts"
-
-export type Uses = {
-  readonly kept: Kept
-}
-`
-
-function generating(importers: readonly string[]): World["index"] {
-  return {
-    importersOf: () => importers,
-    fileKeysAt: () => new Map(),
-    manifestsBeside: () => [NAMED_AT, ROOT_AT],
-    kindsUnder: () => ["file-property"],
-    everyOfType: () => [{ path: TYPES_AT }],
-    pageByPath: (at: string) =>
-      at === TYPES_AT ? { propertySlug: "types", generated: true } : null,
-    carryingOf: () => ({ carrying: [{ pageTypeSlug: "held", path: FROM }] }),
-  } as never
-}
-
-test("a generated body naming that type is left to the thing that writes it", async () => {
-  const world = {
-    ...worldOf({ [FROM]: HELD, [WRITTEN]: WRITTEN_USING }),
-    index: generating([WRITTEN]),
-  }
-
-  const said = await runChange(world, { from: FROM, to: TO, of: "Kept" })
-
-  expect(said.refused).toBeNull()
-  expect(puttingAt(said, WRITTEN)).toEqual([])
-})
-
 const NAMED_USING = `import type { Kept } from "@held/one/one"
 
 export type Wraps = {
@@ -289,15 +253,4 @@ test("a body naming that type by the workspace root's own path names where it la
 
   expect(said.refused).toBeNull()
   expect(puttingAt(said, FAR)).toEqual([`import type { Kept } from "tree/${TO}"`])
-})
-
-test("a body written by hand is repointed though a generated one beside it is not", async () => {
-  const world = {
-    ...worldOf({ [FROM]: HELD, [WRITTEN]: WRITTEN_USING, [USES]: USING }),
-    index: generating([WRITTEN, USES]),
-  }
-
-  const said = await runChange(world, { from: FROM, to: TO, of: "Kept" })
-
-  expect(puttingAt(said, USES)).toEqual([`import type { Kept } from "./two.held.ts"`])
 })

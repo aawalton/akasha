@@ -1,15 +1,10 @@
 import { basename, dirname } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
 import { reachingOf } from "@akasha/indexes/package-reaching"
-import { generatedIn } from "@akasha/indexes/property-carrying"
 import ts from "typescript"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
-import {
-  facingIn,
-  reach,
-  type World,
-} from "../../../../modules/shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_FILE_CODE = "change-mechanical/add-file-code"
 
@@ -241,10 +236,8 @@ function repointedAt(
 
 function repointedIn(world: World, given: Asked): { readonly found: readonly Passage[] } | Refused {
   const found: Passage[] = []
-  const facing = facingIn(world)
   const naming = reachingOf(world.index.manifestsBeside(world.index.fileKeysAt()), world.textOf)
   for (const at of world.index.importersOf(given.from)) {
-    if (generatedIn(facing, at)) continue
     const held = world.textOf(at)
     if (held === null) return { refused: `\`${at}\` names what moved and could not be read` }
     const one = repointedAt(held, at, given, naming)
