@@ -22,7 +22,7 @@ export type IdentityStatement = Page & {
   parentStatement?: ParentStatement
   identityStatementRank: IdentityStatementRank
   replacedByStatements?: ReplacedByStatements
-  replacesStatements?: readonly ReplacesStatements[]
+  replacesStatements?: ReplacesStatements
   identityStatementStatus: IdentityStatementStatus
   subStatements?: readonly SubStatements[]
   identityStatementTags?: readonly IdentityStatementTags[]
