@@ -3,7 +3,7 @@ import type { Change } from "@akasha/pages/change"
 import { shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { declaring, landing, pathFor } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { keyNamesOneProperty } from "./key-names-one-property.code-check.code.ts"
+import { keyNamesOneProperty } from "./key-names-one-property.code-check.check.code.ts"
 import {
   NUMBER,
   ONE,
