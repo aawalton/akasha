@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import type { Change } from "@akasha/pages/change"
 import { shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { pagePropertyHasItsFile } from "./page-property-has-its-file.code-check.code.ts"
+import { pagePropertyHasItsFile } from "./page-property-has-its-file.code-check.check.code.ts"
 import {
   body,
   CODE,
