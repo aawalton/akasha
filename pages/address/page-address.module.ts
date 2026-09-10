@@ -33,5 +33,17 @@ export const pageAddress = {
       invariantKind: "departure",
       statement: "A slug names pages of many types.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An address is named here as well as read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address named with a scope reads back as the scoped kind.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Which scope a page carries is answered by whoever names that page's address.",
+    },
   ],
 } as const satisfies Module

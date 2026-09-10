@@ -17,7 +17,8 @@ import {
   ledgerAt,
   worldAt,
 } from "../../../../modules/shadow/change-shadow.module.code.ts"
-import { runChange } from "./rename-file-page.change-mechanical.code.ts"
+import { knownOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
+import { addressOf, runChange } from "./rename-file-page.change-mechanical.code.ts"
 import {
   movesOf,
   OWNED_CODE,
@@ -372,6 +373,30 @@ test("a page renamed over a ledger is carried once rather than a second time", a
     [HELD_CODE, CARRIED_CODE],
   ])
   expect(bodiesIn(said, was).get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
+})
+
+const SCOPING = { scopePropertySlug: "section-of", propertySlug: "slug" }
+
+const aPage = (said: Readonly<Record<string, string>>) => ({
+  slug: "one",
+  pageTypeSlug: "book-section",
+  said: new Map(Object.entries(said)),
+})
+
+test("a page whose type scopes nothing is addressed by its page type and its slug", () => {
+  const known = knownOf({})
+  expect(addressOf(known, aPage({ sectionOf: "my-math" }), CARRIED)).toBe(`book-section/${CARRIED}`)
+})
+
+test("a page type scoping its slug names that scope in the address", () => {
+  const known = knownOf({ scoping: () => SCOPING })
+  expect(addressOf(known, aPage({ sectionOf: "my-math" }), CARRIED)).toBe(
+    `book-section/my-math/${CARRIED}`
+  )
+  expect(addressOf(known, aPage({ sectionOf: "alan-book/my-math" }), CARRIED)).toBe(
+    `book-section/my-math/${CARRIED}`
+  )
+  expect(addressOf(known, aPage({}), CARRIED)).toBe(`book-section/${CARRIED}`)
 })
 
 test("a way named for the old slug is named for the new slug", async () => {

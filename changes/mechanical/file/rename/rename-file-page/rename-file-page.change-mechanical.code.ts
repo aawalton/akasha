@@ -2,10 +2,15 @@ import { basename, dirname, extname, join, relative } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
 import { reachesIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
+import type { Shaped } from "@akasha/indexes/reaching"
+import { namedAs, slugIn } from "@akasha/pages/page-address"
 import { besideAt, secretAt, uncommittedAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
-import { typedAs } from "../../../../../pages/export-name/page-export-name.module.code.ts"
+import {
+  exportedAs,
+  typedAs,
+} from "../../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
   folderFor,
@@ -58,10 +63,18 @@ export type Asked = {
   readonly addressesRestated?: boolean
 }
 
-type Held = {
+export type Held = {
   readonly slug: string
   readonly pageTypeSlug: string
   readonly said: ReadonlyMap<string, string>
+}
+
+export function addressOf(known: Shaped, held: Held, slug: string): string {
+  const scoping = known.scoping(held.pageTypeSlug)
+  if (scoping === null) return namedAs(held.pageTypeSlug, slug, null)
+  const said = held.said.get(exportedAs(scoping.scopePropertySlug))
+  if (said === undefined) return namedAs(held.pageTypeSlug, slug, null)
+  return namedAs(held.pageTypeSlug, slug, slugIn(said) ?? said)
 }
 
 type Read = { readonly held: Held } | { readonly refused: string }
@@ -323,9 +336,10 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   }
   const way = wayIn(world, new Map(moves.map((one) => [one.from, one.to])), held.slug, given.to)
   if (given.to !== held.slug && given.addressesRestated !== true) {
+    const known = seen.index.knownIn()
     const addressed = await reach(seen, RENAME_PAGE_ADDRESS, {
-      was: `${held.pageTypeSlug}/${held.slug}`,
-      now: `${held.pageTypeSlug}/${given.to}`,
+      was: addressOf(known, held, held.slug),
+      now: addressOf(known, held, given.to),
     })
     if (addressed.said.refused !== null) return addressed.said
     answers.push(addressed.said)

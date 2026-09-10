@@ -109,6 +109,23 @@ export const renameFilePage = {
     },
     {
       invariantKind: "departure",
+      statement: "A page type scoping its slug names that scope in the address restated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scope is what the page carries under the property scoping that page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scope naming its own page type is taken as the slug that name closes with.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page carrying nothing under that property is addressed as though scoped by none.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A file the page claims and the rename leaves behind is refused by the guard named here.",
     },

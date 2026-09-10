@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { lowerUuid } from "../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import type { Address } from "./page-address.module.code.ts"
-import { addressedIn, addressIn, slugIn } from "./page-address.module.code.ts"
+import { addressedIn, addressIn, namedAs, slugIn } from "./page-address.module.code.ts"
 
 const ID = "01a04b14-4355-7352-9c98-ad67e309f5f6"
 
@@ -96,4 +96,23 @@ test("a slug alone is refused rather than reaching whatever the caller had in mi
 
 test("a parent named by a slug alone is refused, that slug naming pages of two types", () => {
   expect("refused" in addressedIn("book-section/all-about-alan/notes")).toBe(true)
+})
+
+test("a page type and a slug are named with a slash between them", () => {
+  expect(namedAs("page-type", "domain", null)).toBe("page-type/domain")
+})
+
+test("a scope is named between the page type and the slug", () => {
+  expect(namedAs("book-section", "notes", "all-about-alan")).toBe(
+    "book-section/all-about-alan/notes"
+  )
+})
+
+test("what is named reads back as the address it was named from", () => {
+  expect(addressIn(namedAs("book-section", "notes", "all-about-alan"))).toEqual({
+    kind: "scoped",
+    pageTypeSlug: "book-section",
+    scope: "all-about-alan",
+    slug: "notes",
+  })
 })

@@ -53,6 +53,11 @@ export function addressIn(named: string): Address {
   }
 }
 
+export function namedAs(pageTypeSlug: string, slug: string, scope: string | null): string {
+  if (scope === null) return `${pageTypeSlug}/${slug}`
+  return `${pageTypeSlug}/${scope}/${slug}`
+}
+
 export function slugIn(named: string): string | null {
   const address = addressIn(named)
   return address.kind === "id" ? null : address.slug
