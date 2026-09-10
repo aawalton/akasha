@@ -30,7 +30,7 @@ export type Collection = Page & {
   publishedAt?: CollectionPublishedAt
   rank?: Rank
   status?: Status
-  tags?: readonly CollectionTags[]
+  tags?: CollectionTags
   unit?: CollectionUnit
   unitWords?: UnitWords
   collectionType?: CollectionType

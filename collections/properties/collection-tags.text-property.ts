@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type CollectionTags = string
+export type CollectionTags = List<string>
 
 export const collectionTags = {
   id: "01a063de-2c60-7012-86a4-f75160a97d69",
