@@ -1,4 +1,4 @@
-import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.ts"
+import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.types.ts"
 
 export const zerithVar = {
   id: "01a05fcf-5921-7f8a-abd6-ebccbdc3b4f3",

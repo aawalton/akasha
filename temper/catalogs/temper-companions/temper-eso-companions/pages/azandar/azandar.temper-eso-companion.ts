@@ -1,4 +1,4 @@
-import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.ts"
+import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.types.ts"
 
 export const azandar = {
   id: "01a05fcf-591d-727b-bcd4-81688875cb62",

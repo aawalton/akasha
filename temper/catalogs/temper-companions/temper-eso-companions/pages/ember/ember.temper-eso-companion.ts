@@ -1,4 +1,4 @@
-import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.ts"
+import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.types.ts"
 
 export const ember = {
   id: "01a05fcf-591f-76e5-bd82-41943a9f2a7a",

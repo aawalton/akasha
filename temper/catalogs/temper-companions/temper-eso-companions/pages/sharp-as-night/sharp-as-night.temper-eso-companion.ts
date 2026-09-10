@@ -1,4 +1,4 @@
-import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.ts"
+import type { TemperEsoCompanion } from "../../temper-eso-companion.page-type.types.ts"
 
 export const sharpAsNight = {
   id: "01a05fcf-5920-7af5-a91a-352df51376f6",
