@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const haggai2 = {
   id: "01a06804-11ad-7046-a62d-8608301b9b57",

@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const leviticus9 = {
   id: "01a06804-11ae-70ca-b64e-68aa18eef36c",

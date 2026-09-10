@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const officialDeclaration1 = {
   id: "01a06804-11b0-7000-b443-82fdb19c0bba",

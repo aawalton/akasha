@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const alma13 = {
   id: "019f0976-fe3d-7d1a-b83b-ef9bd8ccb426",

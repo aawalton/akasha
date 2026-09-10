@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const jarom1 = {
   id: "019f0976-dbfe-77dd-ac40-fa29d3bc7510",

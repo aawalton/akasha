@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const helaman11 = {
   id: "019f0977-2dd4-7c86-992e-9fdd1f08288c",

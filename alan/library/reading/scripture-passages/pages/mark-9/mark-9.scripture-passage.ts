@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const mark9 = {
   id: "01a06804-11af-7027-95cf-1c44c1b1cbae",

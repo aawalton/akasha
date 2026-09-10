@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const nahum3 = {
   id: "01a06804-11af-7055-93c5-0dda3b580b72",

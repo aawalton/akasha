@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const colossians2 = {
   id: "01a06804-11ab-701d-8ff2-27d4d9240175",

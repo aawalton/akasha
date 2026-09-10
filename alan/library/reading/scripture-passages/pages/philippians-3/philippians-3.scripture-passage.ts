@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const philippians3 = {
   id: "01a06804-11b0-7005-afb0-9d563c7550ee",

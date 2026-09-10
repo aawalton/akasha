@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const job19 = {
   id: "01a06804-11ae-703f-a1ab-1e2eeb5bcd03",

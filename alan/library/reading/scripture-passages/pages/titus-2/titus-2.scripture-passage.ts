@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const titus2 = {
   id: "01a06804-11b2-7002-9cc5-754e06c16ca3",

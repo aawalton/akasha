@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const wordsOfMormon1 = {
   id: "019f0976-dd7d-7c13-9e20-bb87e934a79b",

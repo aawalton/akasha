@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../../scripture-passage.page-type.types.ts"
 
 export const amos6 = {
   id: "01a06804-11ab-7017-b4c9-8a0c8b940575",
