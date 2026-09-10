@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { App } from "./properties/error-app.text-property.ts"
+import type { ErrorApp } from "./properties/error-app.text-property.ts"
 import type { Count } from "./properties/error-count.number-property.ts"
 import type { Fingerprint } from "./properties/error-fingerprint.text-property.ts"
 import type { FirstSeenAt } from "./properties/error-first-seen-at.instant-property.ts"
@@ -13,7 +13,7 @@ import type { UserAgent } from "./properties/error-user-agent.text-property.ts"
 
 export type RuntimeError = Page & {
   fingerprint: Fingerprint
-  app: App
+  app: ErrorApp
   kind: Kind
   message: Message
   url?: Url
