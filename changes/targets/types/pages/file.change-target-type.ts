@@ -1,4 +1,4 @@
-import type { ChangeTargetType } from "../change-target-type.page-type.ts"
+import type { ChangeTargetType } from "../change-target-type.page-type.types.ts"
 
 export const file = {
   id: "01a07c6e-4855-7f2a-9df4-f6d8a93d172b",

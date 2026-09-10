@@ -1,4 +1,4 @@
-import type { ChangeTargetType } from "../change-target-type.page-type.ts"
+import type { ChangeTargetType } from "../change-target-type.page-type.types.ts"
 
 export const prose = {
   id: "01a08216-69d5-73e5-b70f-1cd47b19ccb2",

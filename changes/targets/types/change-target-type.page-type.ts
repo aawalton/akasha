@@ -1,7 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
 import type { PageType } from "../../../pages/types/page-type.page-type.ts"
-
-export type ChangeTargetType = Domain
 
 export const changeTargetType = {
   id: "01a07c73-47c8-7571-af7f-96259b306e66",
@@ -29,4 +26,5 @@ export const changeTargetType = {
       statement: "Which act a change makes and which thing a change acts on are two answers.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

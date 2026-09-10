@@ -1,4 +1,4 @@
-import type { ChangeTargetType } from "../change-target-type.page-type.ts"
+import type { ChangeTargetType } from "../change-target-type.page-type.types.ts"
 
 export const pageType = {
   id: "01a08170-abe8-7f8c-bcb4-88ffb2372c97",
