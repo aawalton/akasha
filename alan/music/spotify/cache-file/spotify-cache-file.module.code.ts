@@ -41,22 +41,20 @@ export function readCacheFile<T extends z.ZodTypeAny>(
     if (isErrnoException(thrown) && thrown.code === "ENOENT") return null
     throw thrown
   }
-  let read: unknown
   try {
-    read = JSON.parse(raw)
+    const answered = shape.safeParse(JSON.parse(raw))
+    if (!answered.success) {
+      console.error(
+        `[spotify] the ${named} file at ${path} does not match its shape:`,
+        answered.error.issues
+      )
+      return null
+    }
+    return answered.data
   } catch (thrown) {
     console.error(`[spotify] the ${named} file at ${path} is not valid JSON:`, thrown)
     return null
   }
-  const answered = shape.safeParse(read)
-  if (!answered.success) {
-    console.error(
-      `[spotify] the ${named} file at ${path} does not match its shape:`,
-      answered.error.issues
-    )
-    return null
-  }
-  return answered.data
 }
 
 export function removeCacheFile(path: string): undefined {
