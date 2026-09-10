@@ -25,11 +25,11 @@ export function LocationMap({ points, basemapUrl }: LocationMapProps) {
 
     void (async () => {
       const maplibregl = (await import("maplibre-gl")).default
-      const { Protocol } = await import("pmtiles")
+      const pmtiles = await import("pmtiles")
       const { layers, namedFlavor } = await import("@protomaps/basemaps")
       if (cancelled) return
 
-      const protocol = basemapUrl !== null ? new Protocol() : null
+      const protocol = basemapUrl !== null ? new pmtiles.Protocol() : null
       if (protocol !== null) maplibregl.addProtocol("pmtiles", protocol.tile)
 
       const style: StyleSpecification =
