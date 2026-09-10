@@ -131,6 +131,10 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "Where that command sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That command is filled in from the agent id as far as that id says.",
     },
     {

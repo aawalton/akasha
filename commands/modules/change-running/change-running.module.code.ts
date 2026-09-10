@@ -13,7 +13,8 @@ import {
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import { decodeUtf8 } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
 import { changingOf, owedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
-import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { pathsOf, replayed } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type {
@@ -365,9 +366,24 @@ export async function changing(
   }
 }
 
-const PRESENCE_AT = "seat-system/subagents/presence/subagent-presence.module.code.ts"
+const MODULE = "module"
+
+const PRESENCE = "subagent-presence"
+
+const CODE = "code"
+
+const TS = "ts"
 
 const PUTTING_UP = "write"
+
+function presenceAt(root: string): string {
+  const page = listedAt(root, MODULE, PRESENCE)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${PRESENCE}\`, so no call would put a page up`)
+  }
+  return at
+}
 
 export function puttingUpSaid(root: string, agentId: string | null): string {
   const mark = agentId === null ? -1 : agentId.indexOf(SUBAGENT_MARK)
@@ -376,5 +392,5 @@ export function puttingUpSaid(root: string, agentId: string | null): string {
       ? "<the seat> <the id the subagent runs under> <the kind it was dispatched as> <the seat's id>"
       : `<the seat> ${agentId.slice(mark + SUBAGENT_MARK.length)}` +
         ` <the kind it was dispatched as> ${agentId.slice(0, mark)}`
-  return `bun ${join(root, PRESENCE_AT)} ${root} ${PUTTING_UP} ${held}`
+  return `bun ${join(root, presenceAt(root))} ${root} ${PUTTING_UP} ${held}`
 }
