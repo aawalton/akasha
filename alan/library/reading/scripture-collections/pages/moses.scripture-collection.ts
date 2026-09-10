@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
+import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
 
 export const moses = {
   id: "01a06808-34da-7019-937c-3b9ef503a97e",

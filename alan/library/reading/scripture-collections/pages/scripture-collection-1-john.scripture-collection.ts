@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
+import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
 
 export const scriptureCollection1John = {
   id: "01a06808-34d9-7002-acff-80fbbfd44341",

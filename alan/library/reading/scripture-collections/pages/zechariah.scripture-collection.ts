@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
+import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
 
 export const zechariah = {
   id: "01a06808-34da-7030-a319-b104928bba36",

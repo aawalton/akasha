@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
+import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
 
 export const pearlOfGreatPrice = {
   id: "01a06808-34da-7023-923a-4a221fdaa984",

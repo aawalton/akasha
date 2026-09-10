@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
+import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
 
 export const scriptureCollection1Nephi = {
   id: "01a06808-34d9-7004-a2c3-cebf1a99f1cd",

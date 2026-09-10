@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
+import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
 
 export const scriptureCollection1Thessalonians = {
   id: "01a06808-34d9-7007-ba82-69d6e2f0e616",

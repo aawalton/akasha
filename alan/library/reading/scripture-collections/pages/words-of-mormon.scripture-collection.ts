@@ -1,4 +1,4 @@
-import type { ScriptureCollection } from "../scripture-collection.page-type.ts"
+import type { ScriptureCollection } from "../scripture-collection.page-type.types.ts"
 
 export const wordsOfMormon = {
   id: "01a06808-34da-702f-82f9-dc2503bb8e4e",
