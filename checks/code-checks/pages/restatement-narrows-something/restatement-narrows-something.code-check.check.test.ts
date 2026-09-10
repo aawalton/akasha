@@ -9,7 +9,7 @@ import {
   restating,
   typing,
 } from "../key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
-import { restatementNarrowsSomething } from "./restatement-narrows-something.code-check.code.ts"
+import { restatementNarrowsSomething } from "./restatement-narrows-something.code-check.check.code.ts"
 import {
   rooted,
   scratch,
