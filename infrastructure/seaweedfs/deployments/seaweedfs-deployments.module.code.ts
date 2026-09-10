@@ -1,5 +1,6 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
 import {
   COMPONENT_FILER,
   COMPONENT_MASTER,
@@ -20,6 +21,9 @@ import {
   VOLUME_GRPC_PORT,
   VOLUME_HTTP_PORT,
 } from "../constants/seaweedfs-constants.module.code.ts"
+
+const CREDS_NAME = "seaweedfs-creds"
+const S3_CONFIG_KEY = "s3-config.json"
 
 const POD_IP_ENV = {
   name: "POD_IP",
@@ -242,7 +246,7 @@ export function s3GatewayDeploymentYaml(): string {
       template: {
         metadata: {
           annotations: {
-            "checksum/s3-config": "placeholder",
+            "checksum/s3-config": secretChecksum(NAMESPACE, CREDS_NAME, [S3_CONFIG_KEY]),
           },
           labels: componentLabels(COMPONENT_S3_GATEWAY),
         },
@@ -257,7 +261,7 @@ export function s3GatewayDeploymentYaml(): string {
                 `-filer=filer.${NAMESPACE}.svc.cluster.local:${FILER_HTTP_PORT}`,
                 "-ip.bind=0.0.0.0",
                 `-port=${S3_GATEWAY_HTTP_PORT}`,
-                "-config=/etc/seaweedfs/s3-config.json",
+                `-config=/etc/seaweedfs/${S3_CONFIG_KEY}`,
                 "-allowEmptyFolder=false",
               ],
               ports: [{ name: "http", containerPort: S3_GATEWAY_HTTP_PORT }],
@@ -289,8 +293,8 @@ export function s3GatewayDeploymentYaml(): string {
             {
               name: "s3-config",
               secret: {
-                secretName: "seaweedfs-creds",
-                items: [{ key: "s3-config.json", path: "s3-config.json" }],
+                secretName: CREDS_NAME,
+                items: [{ key: S3_CONFIG_KEY, path: S3_CONFIG_KEY }],
               },
             },
           ],
