@@ -1,5 +1,6 @@
 import { appendFile } from "node:fs/promises"
 import { join } from "node:path"
+import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   bytesIn,
   type Filling,
@@ -19,10 +20,6 @@ export type Queue = {
 }
 
 export type Queued = { readonly queue: Queue } | { readonly refused: string }
-
-function said(error: unknown): string {
-  return error instanceof Error ? error.message : String(error)
-}
 
 export function queueAt(
   root: string,
@@ -47,7 +44,7 @@ export function queueAt(
       try {
         await appendFile(join(root, one.path), one.text, "utf8")
       } catch (error) {
-        refused = `no value reached '${one.path}': ${said(error)}`
+        refused = `no value reached '${one.path}': ${saidBy(error)}`
       }
     }
   }
@@ -56,7 +53,7 @@ export function queueAt(
     try {
       line = lineFor(value)
     } catch (error) {
-      refused = `no value reached '${filling.path}': ${said(error)}`
+      refused = `no value reached '${filling.path}': ${saidBy(error)}`
       return
     }
     const rolled = rolledInto(page, propertySlug, held, filling, bytesIn(line), ceiling)
