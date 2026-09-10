@@ -24,30 +24,26 @@ function encoded(text: string): ArrayBuffer {
 
 export function isForcedToolChoiceRejection(status: number, body: string): boolean {
   if (status !== FORCED_TOOL_CHOICE_STATUS) return false
-  let held: unknown
   try {
-    held = JSON.parse(body)
+    const parsed = ANTHROPIC_ERROR_ENVELOPE_SCHEMA.safeParse(JSON.parse(body))
+    if (!parsed.success) return false
+    if (parsed.data.error.type !== INVALID_REQUEST_ERROR_TYPE) return false
+    return parsed.data.error.message?.startsWith(FORCED_TOOL_CHOICE_MESSAGE_PREFIX) ?? false
   } catch {
     return false
   }
-  const parsed = ANTHROPIC_ERROR_ENVELOPE_SCHEMA.safeParse(held)
-  if (!parsed.success) return false
-  if (parsed.data.error.type !== INVALID_REQUEST_ERROR_TYPE) return false
-  return parsed.data.error.message?.startsWith(FORCED_TOOL_CHOICE_MESSAGE_PREFIX) ?? false
 }
 
 export function rewrittenToAutoToolChoice(bodyBuffer: ArrayBuffer): ArrayBuffer | null {
-  let held: unknown
   try {
-    held = JSON.parse(new TextDecoder().decode(bodyBuffer))
+    const parsed = TOOL_CHOICE_BODY.safeParse(JSON.parse(new TextDecoder().decode(bodyBuffer)))
+    if (!parsed.success) return null
+    const forcing = parsed.data.tool_choice?.type
+    if (forcing === undefined || !FORCING_TOOL_CHOICES.has(forcing)) return null
+    return encoded(JSON.stringify({ ...parsed.data, tool_choice: { type: AUTO_TOOL_CHOICE } }))
   } catch {
     return null
   }
-  const parsed = TOOL_CHOICE_BODY.safeParse(held)
-  if (!parsed.success) return null
-  const forcing = parsed.data.tool_choice?.type
-  if (forcing === undefined || !FORCING_TOOL_CHOICES.has(forcing)) return null
-  return encoded(JSON.stringify({ ...parsed.data, tool_choice: { type: AUTO_TOOL_CHOICE } }))
 }
 
 export type ForcedToolChoiceOutcome =
