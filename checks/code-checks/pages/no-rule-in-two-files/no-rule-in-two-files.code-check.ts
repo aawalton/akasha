@@ -21,6 +21,10 @@ export const noRuleInTwoFiles = {
       statement: "Every file with a rule spelled elsewhere as well is refused.",
     },
     {
+      invariantKind: "constraint",
+      statement: "Mending one file leaves every other file with the rule refused.",
+    },
+    {
       invariantKind: "departure",
       statement: "A refusal names one other file with the rule and counts the rest.",
     },
