@@ -11,7 +11,6 @@ test("a call that throws inside the wait throws its own fault", async () => {
   )
 })
 
-// The wait this bounds is five seconds, so proving it runs out takes longer than a test is given.
 test("a call that outlives the wait is at fault naming the call and the wait", async () => {
   const never = new Promise<number>(() => {})
   await expect(withTimeout(never, "counting")).rejects.toThrow("counting timed out after 5000ms")

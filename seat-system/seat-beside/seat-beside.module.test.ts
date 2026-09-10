@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import { bare } from "./seat-beside.module.code.ts"
 
-// A pending component is declared a boolean, so what reaches akasha is the boolean. Matching the
-// reduction on a key count of exactly two meant that dropping the stamp from a record silently
-// wrote the record itself into a boolean field, and every seat read no pending turn at all.
 test("a record carrying a value and a stamp is written as the value", () => {
   expect(bare({ value: true, at: 1 })).toBe(true)
   expect(bare({ value: false, at: 1 })).toBe(false)
