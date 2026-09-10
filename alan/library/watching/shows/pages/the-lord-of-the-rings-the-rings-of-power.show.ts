@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const theLordOfTheRingsTheRingsOfPower = {
   id: "01a06802-9332-704b-8bd3-6d3b47c20b4f",

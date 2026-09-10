@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const ironheart = {
   id: "01a06802-9332-7004-b436-5f6a0fdfa1fc",

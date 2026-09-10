@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const hawkeye = {
   id: "01a06802-9331-702d-b007-506640a3957c",

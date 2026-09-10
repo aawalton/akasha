@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const arcane = {
   id: "01a06802-9331-7006-9514-a731c8f42770",

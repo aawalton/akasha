@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const stargateSg1 = {
   id: "01a06802-9332-703a-ae25-02697925f8e3",

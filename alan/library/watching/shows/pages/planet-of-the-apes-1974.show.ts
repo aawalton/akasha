@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const planetOfTheApes1974 = {
   id: "01a06802-9332-7017-abbb-01d66280e3ae",

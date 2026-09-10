@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const crusade = {
   id: "01a06802-9331-7016-9660-5f9b6da966e1",

@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const theTwilightZone2002 = {
   id: "01a06802-9333-7005-9282-97eed6280ff3",

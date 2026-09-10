@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const inhumans = {
   id: "01a06802-9332-7002-a616-7758e81e4777",

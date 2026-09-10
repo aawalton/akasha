@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const agentCarter = {
   id: "01a06802-9331-7002-84e4-94d1056ceb8e",

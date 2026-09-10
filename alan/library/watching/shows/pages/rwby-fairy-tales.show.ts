@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const rwbyFairyTales = {
   id: "01a06802-9332-701d-a571-8e626b7b06b7",

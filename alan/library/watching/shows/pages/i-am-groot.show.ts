@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const iAmGroot = {
   id: "01a06802-9332-7001-b04f-c284323ae471",

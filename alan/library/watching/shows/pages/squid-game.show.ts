@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const squidGame = {
   id: "01a06802-9332-7025-a175-c90f86683f15",

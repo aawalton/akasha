@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const starWarsTalesOfTheJedi = {
   id: "01a06802-9332-7034-9508-8522d27666d9",

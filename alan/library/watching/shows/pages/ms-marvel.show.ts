@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const msMarvel = {
   id: "01a06802-9332-700b-8722-e329ec7e146e",

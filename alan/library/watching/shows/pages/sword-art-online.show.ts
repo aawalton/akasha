@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const swordArtOnline = {
   id: "019ea442-6715-7476-b42a-c5104a8d12e5",

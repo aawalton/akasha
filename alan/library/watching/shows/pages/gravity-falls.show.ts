@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const gravityFalls = {
   id: "01a06802-9331-702c-b050-bde2ea2b2bf2",

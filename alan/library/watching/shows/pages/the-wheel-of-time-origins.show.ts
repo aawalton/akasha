@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const theWheelOfTimeOrigins = {
   id: "01a06802-9333-7008-ba07-5cbeb4405e43",

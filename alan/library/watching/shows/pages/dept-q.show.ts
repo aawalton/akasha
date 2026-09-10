@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const deptQ = {
   id: "01a06802-9331-7019-b91d-07a999ffa900",

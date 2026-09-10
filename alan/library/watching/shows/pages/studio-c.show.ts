@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const studioC = {
   id: "01a06802-9332-703e-bf45-659f474888d4",

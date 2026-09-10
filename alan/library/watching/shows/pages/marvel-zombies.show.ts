@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const marvelZombies = {
   id: "01a06802-9332-7009-bfe5-9d16dfa41801",

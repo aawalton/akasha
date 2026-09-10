@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const whiteCollar = {
   id: "01a06802-9333-700f-b80e-6cbe38f0ebda",

@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const dimension20 = {
   id: "01a06802-9331-701a-ab01-1f10cfc9a398",

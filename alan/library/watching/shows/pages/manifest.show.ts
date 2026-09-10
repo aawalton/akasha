@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const manifest = {
   id: "01a06802-9332-7008-be14-d612bae3fa84",

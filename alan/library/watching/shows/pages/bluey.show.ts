@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const bluey = {
   id: "01a06802-9331-700c-844b-973b801b3349",

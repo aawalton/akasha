@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const thirdRockFromTheSun = {
   id: "01a06802-9330-7000-85f2-ecb3e75c4bf8",

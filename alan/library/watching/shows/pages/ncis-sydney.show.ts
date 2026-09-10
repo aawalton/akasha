@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const ncisSydney = {
   id: "01a06802-9332-7011-8ab6-fcf2d579aaa5",

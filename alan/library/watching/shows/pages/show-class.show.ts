@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const showClass = {
   id: "01a06802-9331-7010-ba51-c0d25803c45e",

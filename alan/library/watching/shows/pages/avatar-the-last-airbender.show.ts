@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const avatarTheLastAirbender = {
   id: "01a06802-9331-7007-95e3-b9560ead3f8a",

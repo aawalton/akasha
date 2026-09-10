@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const babylon5 = {
   id: "01a06802-9331-7008-bb33-49c6381eabf6",

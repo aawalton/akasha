@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const accelWorld2 = {
   id: "01a06802-9331-7000-857f-7257b49b7619",

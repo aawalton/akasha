@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const rwby2 = {
   id: "01a06802-9332-701c-b9ba-0b05d7b34b33",

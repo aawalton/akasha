@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const sherlock = {
   id: "01a06802-9332-7022-ab51-34f4a94947dc",

@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const obiWanKenobi = {
   id: "01a06802-9332-7013-bb71-3cb4e588b312",

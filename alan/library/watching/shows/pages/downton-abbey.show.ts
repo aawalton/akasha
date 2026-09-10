@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const downtonAbbey = {
   id: "01a06802-9331-701d-aa44-e374b1434641",

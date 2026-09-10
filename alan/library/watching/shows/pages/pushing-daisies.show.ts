@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const pushingDaisies = {
   id: "01a06802-9332-7018-a2e6-fc08269c1842",

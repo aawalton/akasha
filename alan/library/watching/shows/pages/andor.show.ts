@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const andor = {
   id: "01a06802-9331-7005-b34b-e628e5eba5a9",

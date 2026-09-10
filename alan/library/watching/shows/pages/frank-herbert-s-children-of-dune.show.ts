@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const frankHerbertSChildrenOfDune = {
   id: "01a06802-9331-7025-9f3b-f6d8a0bcdda3",

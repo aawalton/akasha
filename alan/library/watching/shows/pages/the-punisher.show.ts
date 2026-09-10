@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const thePunisher = {
   id: "01a06802-9333-7000-b8a0-89cec056daea",

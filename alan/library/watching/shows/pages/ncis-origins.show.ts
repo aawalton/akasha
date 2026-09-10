@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const ncisOrigins = {
   id: "01a06802-9332-7010-8b0b-c351e681cc37",

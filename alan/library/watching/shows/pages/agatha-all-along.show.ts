@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const agathaAllAlong = {
   id: "01a06802-9331-7001-97c2-d5d329a17076",

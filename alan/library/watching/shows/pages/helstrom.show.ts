@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const helstrom = {
   id: "01a06802-9331-702e-b4b4-921d71c00856",

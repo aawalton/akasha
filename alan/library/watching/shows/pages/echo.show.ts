@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const echo = {
   id: "01a06802-9331-701f-93b2-c8c22ccde51c",

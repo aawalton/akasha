@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const cloakAndDagger = {
   id: "01a06802-9331-7011-8e99-155246c47b6e",

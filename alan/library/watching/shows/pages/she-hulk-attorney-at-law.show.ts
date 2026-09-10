@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const sheHulkAttorneyAtLaw = {
   id: "01a06802-9332-7021-a720-a02b3dbf6047",

@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const theOffice = {
   id: "01a06802-9332-704e-9a9b-1dd4aa74293f",

@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const houseOfTheDragon = {
   id: "01a06802-9332-7000-886d-5b74a9c8a6ef",

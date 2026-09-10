@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const ruriRocks = {
   id: "01a06802-9332-701b-8b42-fb7f4c81a3ac",

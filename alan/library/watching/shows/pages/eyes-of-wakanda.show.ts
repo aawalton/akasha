@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const eyesOfWakanda = {
   id: "01a06802-9331-7024-990e-898979aaa7e3",

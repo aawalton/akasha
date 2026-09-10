@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const blackMirror = {
   id: "01a06802-9331-700b-997a-b4fca1a11bde",

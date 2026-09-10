@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const warehouse13 = {
   id: "01a06802-9333-700d-84e5-37530b01da74",

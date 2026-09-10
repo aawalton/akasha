@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const theLegendOfKorra = {
   id: "01a06802-9332-7049-a679-ea4818156d40",

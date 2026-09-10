@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const lukeCage = {
   id: "01a06802-9332-7007-8220-a6c45b6077b0",

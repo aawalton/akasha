@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const upload = {
   id: "01a06802-9333-700b-9e2d-443f54b562cb",

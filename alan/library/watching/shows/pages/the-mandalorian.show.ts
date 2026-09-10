@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const theMandalorian = {
   id: "01a06802-9332-704c-8f8d-c57201f82d6a",

@@ -1,22 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { Genres } from "../properties/genres.text-property.ts"
-import type { ImdbId } from "../properties/imdb-id.text-property.ts"
-import type { PosterPath } from "../properties/poster-path.text-property.ts"
-import type { ProductionStatus } from "../properties/production-status.select-property.ts"
-import type { VoteAverage } from "../properties/vote-average.number-property.ts"
-import type { LastAirDate } from "./properties/last-air-date.calendar-date-property.ts"
-
-export type Show = CollectionExternal & {
-  title: Title
-  genres?: Genres
-  imdbId?: ImdbId
-  lastAirDate?: LastAirDate
-  posterPath?: PosterPath
-  productionStatus?: ProductionStatus
-  voteAverage?: VoteAverage
-}
 
 export const show = {
   id: "01a06599-ee09-7002-9418-3960f44ce6b4",
@@ -50,4 +32,5 @@ export const show = {
       statement: "A show's length is summed from its seasons rather than stated.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

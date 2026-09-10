@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const starTrekStrangeNewWorlds = {
   id: "01a06802-9332-702e-82d4-997bd82a0e4f",

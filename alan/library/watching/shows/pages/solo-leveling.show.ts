@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const soloLeveling = {
   id: "01a06802-9332-7024-9e9e-92e3d89e77c3",

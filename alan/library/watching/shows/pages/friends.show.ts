@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const friends = {
   id: "01a06802-9331-7027-a7a5-c33a3e8acd9d",

@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const moonKnight = {
   id: "01a06802-9332-700a-a1ac-2bf0213339a9",

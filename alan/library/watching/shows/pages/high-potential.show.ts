@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const highPotential = {
   id: "01a06802-9331-702f-919b-f1dfcb4702d7",

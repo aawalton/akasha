@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongest = {
   id: "01a06802-9331-7023-8dd6-5020a3d47aaf",

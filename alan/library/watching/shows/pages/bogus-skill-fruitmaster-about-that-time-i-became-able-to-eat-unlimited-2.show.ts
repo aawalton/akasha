@@ -1,4 +1,4 @@
-import type { Show } from "../show.page-type.ts"
+import type { Show } from "../show.page-type.types.ts"
 
 export const bogusSkillFruitmasterAboutThatTimeIBecameAbleToEatUnlimited2 = {
   id: "01a06802-9331-700d-8506-5d7360e2d573",
