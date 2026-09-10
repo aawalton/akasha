@@ -1,16 +1,3 @@
-// A `vscode` that records what the extension draws, so a panel can be read after activation.
-//
-// `node-cleanliness` runs the bundle against a Proxy that answers anything. That
-// proves activation returns; it cannot prove a panel drew a row, because a Proxy hands back a
-// fresh Proxy for every property and a row written into one is not there to read back.
-//
-// So the members a panel's content passes through are real here — `TreeItem` keeps the label it
-// was constructed with, `createTreeView` keeps the provider, `createStatusBarItem` keeps an object
-// whose `text` reads back what was assigned — and everything else falls through to that same
-// permissive Proxy. The extension touches far more of the API than this names, and naming all of
-// it would be a second extension host; the fallback is what keeps this to the members that carry
-// content.
-
 import * as nodePath from "node:path"
 
 function nothing() {}
@@ -148,9 +135,6 @@ const realWindow = {
       dispose: () => undefined,
     }
     views.set(viewId, view)
-    // `overlaid`, because the tree features reach `view.onDidChangeFilterValue` — a proposed
-    // API this does not model. Returning the bare object made that `undefined`, and all four
-    // trees FAILED activation on it while the status bar came up fine.
     return overlaid(view)
   },
   registerTreeDataProvider: (viewId, provider) => {
@@ -218,15 +202,11 @@ const realCommands = {
   getCommands: async () => [...commandsHeld.keys()],
 }
 
-// A named member answers itself; everything else answers the permissive Proxy, so a member this
-// does not name behaves exactly as it does under `node-cleanliness`.
 function overlaid(real) {
   return new Proxy(real, {
     get: (target, key) => (key in target ? target[key] : anything()),
   })
 }
-
-// ---- reading back what was drawn ----------------------------------------------------------
 
 const labelOf = (item) => {
   if (item === null || item === undefined) return null
@@ -333,15 +313,6 @@ function makeContext() {
   })
 }
 
-// THE STUB MUST NAME EVERY MEMBER THE BUNDLE REACHES.
-//
-// A namespace import answers `undefined` for a member the module does not export, and `undefined`
-// travels: the first run of this drew five empty panels and said `Cannot read properties of
-// undefined (reading 'createOutputChannel')`, because the stub was CJS and a namespace import of a
-// CJS Proxy carries no named export at all. `panel-reading` reads the members the
-// bundle reaches and refuses to judge where one is not exported here, so a member added to the
-// extension cannot quietly become `undefined` and empty every panel at once.
-
 export { EventEmitter, FileDecoration, MarkdownString, ThemeColor, ThemeIcon, TreeItem, Uri }
 
 export const TreeItemCollapsibleState = { None: 0, Collapsed: 1, Expanded: 2 }
@@ -400,9 +371,6 @@ export const env = overlaid({
   appName: "panel-reading",
 })
 
-// HOW MANY LINES EVERY CHANNEL HOLDS, WHICH IS CHEAP WHERE A READING IS NOT. Every panel says
-// on its channel that it drew, so a count that stopped rising is every drawing that was coming
-// having come. A reading walks every row of every tree and cannot be asked that often.
 export const __drawings = () => {
   let lines = 0
   for (const held of channels.values()) lines += held.length
