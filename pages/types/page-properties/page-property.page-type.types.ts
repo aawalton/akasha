@@ -1,4 +1,5 @@
 import type { Domain } from "../../../domains/domain.page-type.types.ts"
+import type { Types } from "../properties/types.file-property.ts"
 import type { Generator } from "./properties/generator.relation-property.ts"
 import type { PropertySlug } from "./properties/property-slug.text-property.ts"
 import type { Unique } from "./properties/unique.relation-property.ts"
@@ -9,4 +10,5 @@ export type PageProperty = Domain & {
   generator?: Generator
   unique?: Unique
   uniqueProperty?: UniqueProperty
+  types?: Types
 }

@@ -24,6 +24,7 @@ export const pageProperty = {
     { pageProperty: "relation-property/generator", required: false, many: false },
     { pageProperty: "relation-property/unique", required: false, many: false },
     { pageProperty: "relation-property/unique-property", required: false, many: false },
+    { pageProperty: "file-property/types", required: false, many: false },
   ],
   invariants: [
     {
