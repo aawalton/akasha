@@ -10,11 +10,11 @@ export const jennyCapacitorGlobals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The shell putting these on the window is built outside akasha.",
+      statement: "The shell putting these globals on the window is built outside akasha.",
     },
     {
       invariantKind: "departure",
-      statement: "A browser outside that shell carries none of them.",
+      statement: "A browser outside that shell carries no such global.",
     },
   ],
 } as const satisfies TypeDeclaration

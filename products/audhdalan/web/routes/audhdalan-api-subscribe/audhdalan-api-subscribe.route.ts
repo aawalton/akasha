@@ -20,7 +20,7 @@ export const audhdalanApiSubscribe = {
     },
     {
       invariantKind: "departure",
-      statement: "A route that cannot keep what a reader gave answers 503 rather than 500.",
+      statement: "A route that cannot keep the address a reader gave answers 503 rather than 500.",
     },
     {
       invariantKind: "departure",
