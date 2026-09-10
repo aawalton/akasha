@@ -1,6 +1,6 @@
-import { __TS__CloneDescriptor } from "./CloneDescriptor"
-import { __TS__DescriptorGet } from "./DescriptorGet"
-import { __TS__DescriptorSet } from "./DescriptorSet"
+import { __TS__CloneDescriptor } from "../clone-descriptor/clone-descriptor.lualib.code.ts"
+import { __TS__DescriptorGet } from "../descriptor-get/descriptor-get.lualib.code.ts"
+import { __TS__DescriptorSet } from "../descriptor-set/descriptor-set.lualib.code.ts"
 
 const getmetatable = _G.getmetatable
 
