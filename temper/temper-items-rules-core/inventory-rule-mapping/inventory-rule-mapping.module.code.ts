@@ -1,5 +1,5 @@
-import { ITEM_CATEGORY_TREE } from "akasha/temper/temper-items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
-import type { ItemCategoryNode } from "akasha/temper/temper-items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-data/item-category-tree-data.module.code.ts"
+import type { ItemCategoryNode } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import { buildConditionalActions } from "../conditional-actions/conditional-actions.module.code.ts"
 import { buildCraftingMaterialActions } from "../crafting-material-actions/crafting-material-actions.module.code.ts"
 import { buildEquipmentConfig } from "../equipment-config/equipment-config.module.code.ts"

@@ -1,14 +1,14 @@
-import { computeStockGroups } from "akasha/temper/items-rules-eval/compute-stock-groups/compute-stock-groups.module.code.ts"
-import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
-import { classifyItemToNodeIds } from "akasha/temper/temper-items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
-import { parseInventoryContent } from "akasha/temper/temper-items-core/inventory-parser/inventory-parser.module.code.ts"
+import { classifyItemToNodeIds } from "akasha/temper/items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,
   InventoryLocationData,
-} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
-import { parseItemLink } from "akasha/temper/temper-items-core/item-link-parser/item-link-parser.module.code.ts"
-import { locationConditionFromKeyAndBag } from "akasha/temper/temper-items-core/location-condition/location-condition.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
+import { locationConditionFromKeyAndBag } from "akasha/temper/items-core/location-condition/location-condition.module.code.ts"
+import { computeStockGroups } from "akasha/temper/items-rules-eval/compute-stock-groups/compute-stock-groups.module.code.ts"
+import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
 import { loadTemperCharactersFromPath } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { loadTemperInventoryConfigFromPath } from "../inventory-config-reading/inventory-config-reading.module.code.ts"
 import { buildCliEvalEnv } from "../inventory-eval-env/inventory-eval-env.module.code.ts"

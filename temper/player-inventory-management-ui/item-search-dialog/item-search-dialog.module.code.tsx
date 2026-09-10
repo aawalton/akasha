@@ -16,7 +16,7 @@ import {
   DialogTitle,
 } from "@akasha/design-primitives/dialog"
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
-import type { MinedItemSearchResult } from "akasha/temper/temper-items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
+import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { useEffect, useState } from "react"
 
 interface ItemSearchDialogProps {

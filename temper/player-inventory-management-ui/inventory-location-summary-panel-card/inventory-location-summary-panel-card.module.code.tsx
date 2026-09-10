@@ -3,12 +3,12 @@
 import type {
   InventoryLocationGroup,
   InventoryLocationSummary,
-} from "akasha/temper/temper-items-core/inventory-grouping/inventory-grouping.module.code.ts"
-import type { InventoryNode } from "akasha/temper/temper-items-core/inventory-node-types/inventory-node-types.module.code.ts"
+} from "akasha/temper/items-core/inventory-grouping/inventory-grouping.module.code.ts"
+import type { InventoryNode } from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
 import {
   type LocationTypeId,
   locationTypes,
-} from "akasha/temper/temper-items-core/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 import { InventoryPanelCard } from "../inventory-panel-card/inventory-panel-card.module.code.tsx"
 
 interface InventoryLocationSummaryPanelCardProps {

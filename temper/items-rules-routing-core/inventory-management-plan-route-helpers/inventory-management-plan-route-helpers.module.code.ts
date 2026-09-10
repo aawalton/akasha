@@ -1,10 +1,10 @@
 import { assertNever } from "@akasha/utils/narrow/assert-never"
-import { computeValue } from "akasha/temper/temper-items-core/inventory-display-value/inventory-display-value.module.code.ts"
+import { computeValue } from "akasha/temper/items-core/inventory-display-value/inventory-display-value.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,
-} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
-import { getLocationDisplayName } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { getLocationDisplayName } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
 import type {
   ItemAction,
   MoveToDestination,

@@ -1,12 +1,12 @@
 import { asObjectRecord } from "@akasha/utils/narrow/as-object-record"
 import { requireAt } from "@akasha/utils/narrow/require-at"
+import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import type { EvalContext } from "akasha/temper/items-rules-eval/eval-env/eval-env.module.code.ts"
 import type {
   RuleEvalResult,
   WalkTrace,
 } from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
 import { walkRules } from "akasha/temper/items-rules-eval/evaluator/evaluator.module.code.ts"
-import { parseMotifBookName } from "akasha/temper/temper-items-core/motif-name-parser/motif-name-parser.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {

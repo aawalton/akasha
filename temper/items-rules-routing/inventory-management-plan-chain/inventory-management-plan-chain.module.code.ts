@@ -1,4 +1,4 @@
-import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { TierAllocation } from "akasha/temper/temper-items-rules-core/destination-chain-types/destination-chain-types.module.code.ts"
 import type { EligibilityResolvers } from "akasha/temper/temper-items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"

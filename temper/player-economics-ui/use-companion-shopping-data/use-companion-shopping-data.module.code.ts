@@ -9,6 +9,10 @@ import {
   getCompanionName,
 } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import {
+  type CompanionGearNeed,
+  computeAllGearNeeds,
+} from "akasha/temper/items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import {
   useInventory,
@@ -21,10 +25,6 @@ import {
   resolvePricingRegionNote,
 } from "akasha/temper/player-inventory-management-ui/pricing-region/pricing-region.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import {
-  type CompanionGearNeed,
-  computeAllGearNeeds,
-} from "akasha/temper/temper-items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
 import type { CompanionGearPriceResult } from "akasha/temper/trading-pricing/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/trading-pricing/pricing-types/pricing-types.module.code.ts"
 import { useMemo } from "react"

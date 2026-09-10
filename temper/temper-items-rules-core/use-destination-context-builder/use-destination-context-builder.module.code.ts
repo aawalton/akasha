@@ -5,10 +5,10 @@ import {
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_BOOK,
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER,
   type InventoryItemData,
-} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/temper-items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
-import { parseMotifBookName } from "akasha/temper/temper-items-core/motif-name-parser/motif-name-parser.module.code.ts"
-import { getRecipeResultId } from "akasha/temper/temper-items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
+import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import type { RuleMatcherContext } from "../rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   type CharacterId,

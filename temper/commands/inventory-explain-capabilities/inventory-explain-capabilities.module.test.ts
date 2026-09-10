@@ -2,7 +2,7 @@ import { beforeAll, describe, expect, test } from "bun:test"
 import type {
   InventoryDatabase,
   InventoryItemData,
-} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import {
   allBagItems,
   type ExplainCapabilities,

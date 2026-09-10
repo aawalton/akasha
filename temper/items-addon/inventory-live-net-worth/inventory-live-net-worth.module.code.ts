@@ -1,4 +1,4 @@
-import { computeValue } from "akasha/temper/temper-items-core/inventory-display-value/inventory-display-value.module.code.ts"
+import { computeValue } from "akasha/temper/items-core/inventory-display-value/inventory-display-value.module.code.ts"
 import type { InventoryDatabase } from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 export function computeLiveNetWorth(
   db: InventoryDatabase,

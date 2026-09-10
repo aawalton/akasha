@@ -1,5 +1,6 @@
 "use client"
 
+import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
 import {
   type AllRuleAffectedItemsCache,
@@ -8,7 +9,6 @@ import {
 import { buildManagementPlan } from "akasha/temper/items-rules-routing/inventory-management-plan/inventory-management-plan.module.code.ts"
 import { applyDestinationCapacityFilter } from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import type { BuyRule } from "akasha/temper/temper-items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import { compileCategoryRuleToOrdered } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
 import type {

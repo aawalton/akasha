@@ -1,4 +1,4 @@
-import type { InventoryLocationConditionId } from "akasha/temper/temper-items-core/location-condition/location-condition.module.code.ts"
+import type { InventoryLocationConditionId } from "akasha/temper/items-core/location-condition/location-condition.module.code.ts"
 import type { ComparisonOpId } from "akasha/temper/temper-items-rules-core/comparison-op-data/comparison-op-data.module.code.ts"
 import type { RequiredCurseStateCondition } from "akasha/temper/temper-items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import type { RequiredSkillLinesCondition } from "akasha/temper/temper-items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"

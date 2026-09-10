@@ -21,12 +21,12 @@ import type {
 import {
   type BackpackSettings,
   DEFAULT_BACKPACK_SETTINGS,
-} from "akasha/temper/temper-items-core/backpack-settings-types/backpack-settings-types.module.code.ts"
-import type { CraftBagAccessSettings } from "akasha/temper/temper-items-core/inventory-craft-bag-types/inventory-craft-bag-types.module.code.ts"
+} from "akasha/temper/items-core/backpack-settings-types/backpack-settings-types.module.code.ts"
+import type { CraftBagAccessSettings } from "akasha/temper/items-core/inventory-craft-bag-types/inventory-craft-bag-types.module.code.ts"
 import {
   type ManagedGuildBankSettings,
   readManagedGuildBanks,
-} from "akasha/temper/temper-items-core/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
+} from "akasha/temper/items-core/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
 import {
   heldFromRows,
   rulesFromPages,

@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/temper-items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { STYLE_TO_CHAPTERS } from "akasha/temper/items-core/motif-chapter-set/motif-chapter-set.module.code.ts"
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,

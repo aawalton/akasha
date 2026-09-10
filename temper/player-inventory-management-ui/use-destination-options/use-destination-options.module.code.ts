@@ -1,7 +1,7 @@
 "use client"
 
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+import { classifyLocation } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
 import type {
   DestinationCategory,
   MoveToDestination,

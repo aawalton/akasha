@@ -8,6 +8,7 @@ import {
   type RuleTraceRow,
   type TtcBreakdown,
 } from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type {
   IndeterminateReason,
   RejectionReason,
@@ -15,7 +16,6 @@ import type {
   WalkOutcome,
 } from "akasha/temper/items-rules-eval/eval-result/eval-result.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items-rules-eval/item-facts/item-facts.module.code.ts"
-import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import type { CharacterKnowledge } from "../../../../../temper/commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   allBagItems,

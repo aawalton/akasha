@@ -1,4 +1,4 @@
-import { ESO_ITEMTYPE_RECIPE } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { ESO_ITEMTYPE_RECIPE } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { makeItem } from "akasha/temper/temper-items-rules-core/inventory-rule-test-utils/inventory-rule-test-utils.module.code.ts"
 import {

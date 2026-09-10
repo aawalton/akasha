@@ -1,5 +1,5 @@
-import { ESO_EQUIP_TYPES } from "akasha/temper/temper-items-core/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
-import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import { ESO_EQUIP_TYPES } from "akasha/temper/items-core/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 
 const WEAPON_TRAIT_TYPE_TO_NAME: Record<number, string> = {
   1: "Powered",

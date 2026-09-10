@@ -5,12 +5,12 @@ import {
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER,
   type InventoryItemData,
   isKnowledgeItem,
-} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
-import { parseItemLink } from "akasha/temper/temper-items-core/item-link-parser/item-link-parser.module.code.ts"
-import type { InventoryLocationConditionId } from "akasha/temper/temper-items-core/location-condition/location-condition.module.code.ts"
-import { parseMotifBookName } from "akasha/temper/temper-items-core/motif-name-parser/motif-name-parser.module.code.ts"
-import { getRecipeResultId } from "akasha/temper/temper-items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
-import { getScriptItemIdByName } from "akasha/temper/temper-items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { parseItemLink } from "akasha/temper/items-core/item-link-parser/item-link-parser.module.code.ts"
+import type { InventoryLocationConditionId } from "akasha/temper/items-core/location-condition/location-condition.module.code.ts"
+import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
+import { getRecipeResultId } from "akasha/temper/items-core/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
+import { getScriptItemIdByName } from "akasha/temper/items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { resolvePotionRestoreMetricIds } from "akasha/temper/temper-items-rules-core/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import type { ItemKey } from "akasha/temper/temper-items-rules-core/use-destination-types/use-destination-types.module.code.ts"

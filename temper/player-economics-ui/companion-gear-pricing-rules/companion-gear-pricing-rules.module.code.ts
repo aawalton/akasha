@@ -1,4 +1,4 @@
-import type { UnfulfilledGearNeed } from "akasha/temper/temper-items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
+import type { UnfulfilledGearNeed } from "akasha/temper/items-core/companion-gear-diff/companion-gear-diff.module.code.ts"
 import {
   type CompanionGearPriceResult,
   type CompanionGearSlotDescriptor,

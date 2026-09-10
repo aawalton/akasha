@@ -5,7 +5,7 @@ import type {
   PlacedFurnishingData as CorePlacedFurnishingData,
   InventoryItemData,
   PriceSource,
-} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { CompiledRuleConfig } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { BankProfile } from "../inventory-bank-profile-types/inventory-bank-profile-types.module.code.ts"
 import type { BankTrace } from "../inventory-bank-trace-types/inventory-bank-trace-types.module.code.ts"

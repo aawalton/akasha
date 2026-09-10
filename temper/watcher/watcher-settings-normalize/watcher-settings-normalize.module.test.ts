@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { ALL_DESTRUCTIVE_ACTIONS } from "akasha/temper/temper-items-core/inventory-safety-types/inventory-safety-types.module.code.ts"
+import { ALL_DESTRUCTIVE_ACTIONS } from "akasha/temper/items-core/inventory-safety-types/inventory-safety-types.module.code.ts"
 import { toLoggingSettings, toSafetySettings } from "./watcher-settings-normalize.module.code.ts"
 
 test("the game knows at least one destructive action", () => {

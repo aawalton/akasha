@@ -9,7 +9,7 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+import { classifyLocation } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import { NULL_SENTINEL } from "../action-filter-utils/action-filter-utils.module.code.ts"

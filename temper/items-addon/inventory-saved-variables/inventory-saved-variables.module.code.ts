@@ -1,4 +1,4 @@
-import { isCharacterLocationRow } from "akasha/temper/temper-items-core/location-character-row/location-character-row.module.code.ts"
+import { isCharacterLocationRow } from "akasha/temper/items-core/location-character-row/location-character-row.module.code.ts"
 import {
   ADDON_NAME,
   HOUSE_BANK_BAGS,

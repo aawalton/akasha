@@ -1,4 +1,4 @@
-import { computeValue } from "akasha/temper/temper-items-core/inventory-display-value/inventory-display-value.module.code.ts"
+import { computeValue } from "akasha/temper/items-core/inventory-display-value/inventory-display-value.module.code.ts"
 import { compareWithOp } from "akasha/temper/temper-items-rules-core/comparison-op/comparison-op.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { resolveThreshold } from "akasha/temper/temper-items-rules-core/rule-constants/rule-constants.module.code.ts"

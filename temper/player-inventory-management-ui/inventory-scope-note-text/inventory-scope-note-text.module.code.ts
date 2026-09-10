@@ -1,4 +1,4 @@
-import type { ExcludedLocation } from "akasha/temper/temper-items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import type { ExcludedLocation } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 
 export interface InventoryScopeFacts {
   excluded: readonly ExcludedLocation[]

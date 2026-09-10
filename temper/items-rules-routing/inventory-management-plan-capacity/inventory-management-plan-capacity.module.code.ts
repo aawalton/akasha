@@ -1,9 +1,9 @@
-import { ESO_BAG_BACKPACK } from "akasha/temper/temper-items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
+import { ESO_BAG_BACKPACK } from "akasha/temper/items-core/eso-bag-constants/eso-bag-constants.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,
-} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
-import { classifyLocation } from "akasha/temper/temper-items-core/location-classify/location-classify.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { classifyLocation } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
 import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 export function isItemStackable(item: InventoryItemData): boolean {

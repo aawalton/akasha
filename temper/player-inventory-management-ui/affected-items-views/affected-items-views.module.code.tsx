@@ -14,7 +14,7 @@ import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/
 import type {
   InventoryLeafNode,
   InventoryNode,
-} from "akasha/temper/temper-items-core/inventory-node-types/inventory-node-types.module.code.ts"
+} from "akasha/temper/items-core/inventory-node-types/inventory-node-types.module.code.ts"
 import {
   buildAffectedItemLocationNodes,
   buildAffectedItemNodes,

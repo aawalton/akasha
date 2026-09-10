@@ -18,12 +18,12 @@ import {
 import {
   COMPANION_QUALITY_TO_ESO,
   ESO_EQUIP_TYPES,
-} from "akasha/temper/temper-items-core/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
+} from "akasha/temper/items-core/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
 import {
   PLAYER_ARMOR_TYPE_TO_ESO,
   PLAYER_QUALITY_TO_ESO,
   PLAYER_WEAPON_TYPE_TO_ESO,
-} from "akasha/temper/temper-items-core/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.code.ts"
+} from "akasha/temper/items-core/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.code.ts"
 import { armorSlots } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
 import { resolveQuality } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"

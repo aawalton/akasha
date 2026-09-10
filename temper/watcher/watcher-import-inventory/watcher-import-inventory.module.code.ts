@@ -4,17 +4,17 @@ import {
   type ExcludedLocation,
   type ExclusionReason,
   partitionUnmanagedGuildBanks,
-} from "akasha/temper/temper-items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
-import { readManagedGuildBanks } from "akasha/temper/temper-items-core/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
-import { computeNetWorth } from "akasha/temper/temper-items-core/inventory-net-worth/inventory-net-worth.module.code.ts"
-import type { NetWorthResult } from "akasha/temper/temper-items-core/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
-import { parseInventoryContent } from "akasha/temper/temper-items-core/inventory-parser/inventory-parser.module.code.ts"
+} from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { readManagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
+import { computeNetWorth } from "akasha/temper/items-core/inventory-net-worth/inventory-net-worth.module.code.ts"
+import type { NetWorthResult } from "akasha/temper/items-core/inventory-net-worth-types/inventory-net-worth-types.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
 import type {
   InventoryDatabase,
   PriceSource,
-} from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
-import { computeInventoryTotalValue } from "akasha/temper/temper-items-core/inventory-value/inventory-value.module.code.ts"
-import { shardInventoryJson } from "akasha/temper/temper-items-core/shard-inventory/shard-inventory.module.code.ts"
+} from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
+import { computeInventoryTotalValue } from "akasha/temper/items-core/inventory-value/inventory-value.module.code.ts"
+import { shardInventoryJson } from "akasha/temper/items-core/shard-inventory/shard-inventory.module.code.ts"
 import { inventorySnapshotName } from "../watcher-inventory-snapshot-name/watcher-inventory-snapshot-name.module.code.ts"
 import {
   capturedAtOf,

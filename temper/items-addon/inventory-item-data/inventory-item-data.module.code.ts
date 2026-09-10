@@ -1,4 +1,4 @@
-import type { PriceSource } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import type { PriceSource } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { captureOrNull } from "../inventory-match-capture/inventory-match-capture.module.code.ts"
 import { isItemLinkQuestRelevant } from "../inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import type { ItemData } from "../inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"

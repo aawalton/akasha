@@ -1,5 +1,5 @@
 import { assertNever } from "@akasha/utils/narrow/assert-never"
-import type { LocationTypeId } from "akasha/temper/temper-items-core/location-type-data/location-type-data.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
 import type {
   ItemAction,
   MoveToDestination,

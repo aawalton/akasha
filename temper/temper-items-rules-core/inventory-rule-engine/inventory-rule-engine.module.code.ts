@@ -1,4 +1,4 @@
-import type { ItemCategoryNode } from "akasha/temper/temper-items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
+import type { ItemCategoryNode } from "akasha/temper/items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,

@@ -8,15 +8,15 @@ import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
-import { parseInventoryContent } from "akasha/temper/temper-items-core/inventory-parser/inventory-parser.module.code.ts"
-import { computeInventoryTotalValue } from "akasha/temper/temper-items-core/inventory-value/inventory-value.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
+import { computeInventoryTotalValue } from "akasha/temper/items-core/inventory-value/inventory-value.module.code.ts"
 import {
   type ExistingChunkRow,
   type ExistingSnapshotRow,
   planChunkImport,
   planSnapshotImport,
-} from "akasha/temper/temper-items-core/plan-inventory-import/plan-inventory-import.module.code.ts"
-import { shardInventoryJson } from "akasha/temper/temper-items-core/shard-inventory/shard-inventory.module.code.ts"
+} from "akasha/temper/items-core/plan-inventory-import/plan-inventory-import.module.code.ts"
+import { shardInventoryJson } from "akasha/temper/items-core/shard-inventory/shard-inventory.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { InventoryImportResult } from "../inventory-import-types/inventory-import-types.module.code.ts"
 

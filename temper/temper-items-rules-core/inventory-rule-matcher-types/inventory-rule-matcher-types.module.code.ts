@@ -1,4 +1,4 @@
-import type { InventoryItemData } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
+import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import type { CharacterId } from "../use-destination-types/use-destination-types.module.code.ts"
 
 export interface AffectedItem {

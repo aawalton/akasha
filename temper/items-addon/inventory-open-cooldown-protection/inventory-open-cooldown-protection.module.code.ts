@@ -8,7 +8,7 @@ import {
   RFTW_GROUP as PURE_RFTW_GROUP,
   findCooldownGroup as pureFindCooldownGroup,
   matchesCooldownGroup as pureMatchesCooldownGroup,
-} from "akasha/temper/temper-items-core/cooldown-groups/cooldown-groups.module.code.ts"
+} from "akasha/temper/items-core/cooldown-groups/cooldown-groups.module.code.ts"
 import { getInventoryConfig } from "../inventory-config/inventory-config.module.code.ts"
 import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
 import { getQuestAnnotation } from "../inventory-quest-annotations/inventory-quest-annotations.module.code.ts"

@@ -6,7 +6,7 @@ import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/
 import type {
   ItemTooltipData,
   SetBonusEntry,
-} from "akasha/temper/temper-items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
+} from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 
 const EQUIP_TYPE_NAMES: Record<number, string> = {
   1: "Head",
