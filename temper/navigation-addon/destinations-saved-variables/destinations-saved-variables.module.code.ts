@@ -1,3 +1,4 @@
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { DEFAULTS } from "../destinations-defaults/destinations-defaults.module.code.ts"
 import { SAVED_VARIABLES_NAME } from "../destinations-names/destinations-names.module.code.ts"
 
@@ -64,16 +65,12 @@ export function getAccountWideSavedVariables(): DestinationsSavedVariables {
 export function getRawSavedVariablesRoot(): Record<string, unknown> {
   const globalTable: Record<string, unknown> = globalThis
   const existing = globalTable[SAVED_VARIABLES_NAME]
-  if (isLuaTable(existing)) {
+  if (isObjectRecord(existing)) {
     return existing
   }
   const root: Record<string, unknown> = {}
   globalTable[SAVED_VARIABLES_NAME] = root
   return root
-}
-
-function isLuaTable(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null
 }
 
 export function isSavedVarsInitialized(): boolean {

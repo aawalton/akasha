@@ -1,4 +1,5 @@
 import { luaNumberString } from "akasha/temper/lua-runner/lua-number-string/lua-number-string.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 
 const NUMERIC_KEY = /^-?\d+(\.\d+)?$/
 
@@ -6,12 +7,8 @@ const SHOWN = 8
 
 const SEPARATOR = "\t"
 
-export function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null
-}
-
 export function dumpJsWalk(value: unknown, path: string, out: string[]): undefined {
-  if (isRecord(value)) {
+  if (isObjectRecord(value)) {
     const keys = Object.keys(value)
     const numbers = keys.filter((one) => NUMERIC_KEY.test(one)).map(Number)
     const words = keys.filter((one) => !NUMERIC_KEY.test(one))

@@ -1,6 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 import { ROOT } from "../dockerfile-services/dockerfile-services.module.code.ts"
@@ -9,13 +10,9 @@ const JSON_VALUE_SCHEMA = z.unknown()
 
 const PACKAGES_DIR_RE = /\.\.\/\.\.\/packages\/([^/]+)/
 
-function isRecord(x: unknown): x is Record<string, unknown> {
-  return typeof x === "object" && x !== null
-}
-
 export function readJson(path: string): Record<string, unknown> {
   const parsed = JSON_VALUE_SCHEMA.parse(JSON.parse(readFileSync(path, "utf-8")))
-  return isRecord(parsed) ? parsed : {}
+  return isObjectRecord(parsed) ? parsed : {}
 }
 
 function asStringArray(value: unknown): readonly string[] {
@@ -23,7 +20,7 @@ function asStringArray(value: unknown): readonly string[] {
 }
 
 function asStringRecord(value: unknown): Record<string, string> {
-  if (!isRecord(value)) return {}
+  if (!isObjectRecord(value)) return {}
   const out: Record<string, string> = {}
   for (const [k, v] of Object.entries(value)) {
     if (typeof v === "string") out[k] = v
@@ -32,7 +29,7 @@ function asStringRecord(value: unknown): Record<string, string> {
 }
 
 function asStringArrayRecord(value: unknown): Record<string, readonly string[]> {
-  if (!isRecord(value)) return {}
+  if (!isObjectRecord(value)) return {}
   const out: Record<string, readonly string[]> = {}
   for (const [k, v] of Object.entries(value)) {
     out[k] = asStringArray(v)
@@ -78,7 +75,7 @@ export function getTsconfigPathDeps(
   if (!existsSync(tsconfigPath)) return deps
 
   const tsconfig = readJson(tsconfigPath)
-  const compilerOptions = isRecord(tsconfig.compilerOptions) ? tsconfig.compilerOptions : {}
+  const compilerOptions = isObjectRecord(tsconfig.compilerOptions) ? tsconfig.compilerOptions : {}
   const paths = asStringArrayRecord(compilerOptions.paths)
 
   for (const [alias, targets] of Object.entries(paths)) {

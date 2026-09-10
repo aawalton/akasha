@@ -1,3 +1,5 @@
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
+
 export const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const
 export type ServiceType = (typeof SERVICE_TYPES)[number]
 
@@ -46,10 +48,6 @@ export interface DockerfileExtensions {
   external_donors?: readonly { readonly name: string; readonly image: string }[]
 }
 
-function isRecord(x: unknown): x is Record<string, unknown> {
-  return typeof x === "object" && x !== null
-}
-
 function asStringArrayOrUndefined(value: unknown): readonly string[] | undefined {
   if (value === undefined) return undefined
   if (!Array.isArray(value)) return undefined
@@ -76,7 +74,7 @@ function asExternalDonorsOrUndefined(
     throw new Error("external_donors must be an array of { name, image } objects")
   }
   return value.map((entry, index) => {
-    if (!isRecord(entry)) {
+    if (!isObjectRecord(entry)) {
       throw new Error(`external_donors[${index}] must be an object with string name and image`)
     }
     const name = entry.name
@@ -89,7 +87,7 @@ function asExternalDonorsOrUndefined(
 }
 
 export function parseDockerfileExtensions(value: unknown): DockerfileExtensions {
-  if (!isRecord(value)) return {}
+  if (!isObjectRecord(value)) return {}
   return {
     extra_stages: asStringArrayOrUndefined(value.extra_stages),
     extra_install_copies: asStringArrayOrUndefined(value.extra_install_copies),

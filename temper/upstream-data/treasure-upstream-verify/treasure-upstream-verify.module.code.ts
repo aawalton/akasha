@@ -1,11 +1,12 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { BOOK_ID } from "../../lib-treasure/treasure-book-ids/treasure-book-ids.module.code.ts"
 import { ICONS } from "../../lib-treasure/treasure-icons/treasure-icons.module.code.ts"
 import { ALL_DATA } from "../../lib-treasure/treasure-pins-data/treasure-pins-data.module.code.ts"
 import type { AllData } from "../../lib-treasure/treasure-types/treasure-types.module.code.ts"
-import { isRecord } from "../leaf-dump/leaf-dump.module.code.ts"
+
 import {
   gathered,
   ruledOverValues,
@@ -74,7 +75,7 @@ export async function verifyTreasure(addons: string): Promise<Ruling> {
       end
       return { itemIds = tally(LibTreasure.data.ITEMS_DATA), textures = tally(LibTreasure.data.TEXTURE_NAME_DATA) }
     `)
-    if (!isRecord(counts)) throw new Error(`tallying LibTreasure answered ${typeof counts}`)
+    if (!isObjectRecord(counts)) throw new Error(`tallying LibTreasure answered ${typeof counts}`)
     const upstreamItemIds = counts.itemIds
     const upstreamTextures = counts.textures
     if (typeof upstreamItemIds !== "number" || typeof upstreamTextures !== "number") {

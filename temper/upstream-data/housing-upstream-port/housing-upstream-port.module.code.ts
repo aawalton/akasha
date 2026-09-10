@@ -2,6 +2,7 @@ import { mkdir, readdir, rm, writeFile } from "node:fs/promises"
 import { join } from "node:path"
 import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
+import { isObjectRecord } from "akasha/utils/narrow/is-object-record/is-object-record.module.code.ts"
 import { PACKAGE_OF } from "../upstream-libraries/upstream-libraries.module.code.ts"
 
 const UPSTREAM_PATH = join(addonsDir(), "PortToFriendsHouse", "PortToFriendsHouseLibraryData.lua")
@@ -43,16 +44,12 @@ GetWorldName = function() return "EU Megaserver" end
 return "ok"
 `
 
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null
-}
-
 function parseEntries(raw: unknown, label: string): LibraryEntry[] {
   if (!Array.isArray(raw)) {
     throw new Error(`${label} did not marshal as an array (got ${typeof raw})`)
   }
   return raw.map((item, i) => {
-    if (!isRecord(item)) {
+    if (!isObjectRecord(item)) {
       throw new Error(`${label}[${i}] is not a table`)
     }
     const { name, houseId, description, category } = item
