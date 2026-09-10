@@ -7,7 +7,7 @@ import type { EmailRuleCodeForwardTo } from "./properties/email-rule-code-forwar
 
 export type EmailRuleCode = EmailRule & {
   filing: EmailRuleCodeFiling
-  actions?: readonly EmailRuleCodeActions[]
+  actions?: EmailRuleCodeActions
   delay?: EmailRuleCodeDelay
   forwardTo?: EmailRuleCodeForwardTo
 }

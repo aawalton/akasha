@@ -1,3 +1,4 @@
+import type { List } from "@akasha/pages/page-property"
 import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const emailRuleCodeActions = {
@@ -16,4 +17,4 @@ export const emailRuleCodeActions = {
   ],
 } as const satisfies SelectProperty
 
-export type EmailRuleCodeActions = (typeof emailRuleCodeActions.values)[number]
+export type EmailRuleCodeActions = List<(typeof emailRuleCodeActions.values)[number]>
