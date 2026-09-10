@@ -1,3 +1,4 @@
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { LatestBuild } from "../asc-client/asc-client.module.code.ts"
 
 export const POLL_INTERVAL_MS = 30_000
@@ -108,10 +109,6 @@ export function pollElapsed(ms: number): string {
   return `${Math.floor(seconds / 60)}m${String(seconds % 60).padStart(2, "0")}s`
 }
 
-function readFailureMessage(err: unknown): string {
-  return err instanceof Error ? err.message : String(err)
-}
-
 export async function pollBuildUntilTerminal(deps: PollDeps): Promise<PollOutcome> {
   const start = deps.now()
   const everySeconds = Math.round(deps.intervalMs / 1000)
@@ -131,7 +128,7 @@ export async function pollBuildUntilTerminal(deps: PollDeps): Promise<PollOutcom
       if (failures >= POLL_READ_FAILURE_TOLERANCE) throw err
       read = false
       deps.onTick?.(
-        `[${at()}] could not read App Store Connect (${readFailureMessage(err)}) — retrying in ${everySeconds}s (${failures}/${POLL_READ_FAILURE_TOLERANCE})`
+        `[${at()}] could not read App Store Connect (${saidBy(err)}) — retrying in ${everySeconds}s (${failures}/${POLL_READ_FAILURE_TOLERANCE})`
       )
     }
     if (read) {
@@ -205,7 +202,7 @@ export async function pollUntilTesterVisible(deps: VisibilityPollDeps): Promise<
       if (failures >= POLL_READ_FAILURE_TOLERANCE) throw err
       read = false
       deps.onTick?.(
-        `[${at()}] could not read the build's beta detail (${readFailureMessage(err)}) — retrying in ${everySeconds}s (${failures}/${POLL_READ_FAILURE_TOLERANCE})`
+        `[${at()}] could not read the build's beta detail (${saidBy(err)}) — retrying in ${everySeconds}s (${failures}/${POLL_READ_FAILURE_TOLERANCE})`
       )
     }
     if (read) {
