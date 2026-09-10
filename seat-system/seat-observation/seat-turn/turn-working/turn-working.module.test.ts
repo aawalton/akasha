@@ -4,6 +4,7 @@ import {
   anyLiveSubagent,
   anyWorking,
   anyWorkingRead,
+  interruptedIn,
   keptWorkingIn,
   scanRecords,
   taskEndedIn,
@@ -19,6 +20,9 @@ const ENDED = '{"type":"assistant","message":{"stop_reason":"end_turn"}}'
 const MIDWAY = '{"type":"assistant","message":{"stop_reason":"tool_use"}}'
 
 const ASKED = '{"type":"user","message":{"role":"user"}}'
+
+const INTERRUPTED =
+  '{"type":"user","message":{"role":"user","content":[{"type":"text","text":"[Request interrupted by user]"}]}}'
 
 const BETWEEN = '{"type":"bridge-session"}\n{"type":"cost-state"}\n{"type":"atis-latch"}'
 
@@ -57,6 +61,31 @@ test("a prompt with nothing answering it yet is a turn still to finish", () => {
   const said = scanRecords(`${ENDED}\n${ASKED}`, {}).answer
 
   expect(said?.kind).toBe("user")
+  expect(said === null ? null : turnEnded(said)).toBe(false)
+})
+
+test("a prompt saying the user interrupted the request ends the turn", () => {
+  const said = scanRecords(`${MIDWAY}\n${INTERRUPTED}`, {}).answer
+
+  expect(said?.kind).toBe("user")
+  expect(said === null ? null : turnEnded(said)).toBe(true)
+})
+
+test("the interrupt is read whether its text is a string or a run of blocks", () => {
+  expect(interruptedIn({ message: { content: "[Request interrupted by user]" } })).toBe(true)
+  expect(
+    interruptedIn({ content: [{ type: "text", text: "[Request interrupted by user]" }] })
+  ).toBe(true)
+  expect(interruptedIn({ message: { content: [{ type: "text", text: "carry on" }] } })).toBe(false)
+  expect(interruptedIn({})).toBe(false)
+})
+
+test("an answer carrying the interrupt's words ends no turn of its own", () => {
+  const said = scanRecords(
+    '{"type":"assistant","message":{"stop_reason":"tool_use","content":[{"type":"text","text":"[Request interrupted by user]"}]}}',
+    {}
+  ).answer
+
   expect(said === null ? null : turnEnded(said)).toBe(false)
 })
 

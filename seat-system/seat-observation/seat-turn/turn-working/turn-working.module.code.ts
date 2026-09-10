@@ -13,6 +13,8 @@ const ANSWER_RECORD = "assistant"
 
 const ASKED_RECORD = "user"
 
+const INTERRUPTED_BY_USER = "[Request interrupted by user]"
+
 const TASK_ID_FROM = "<task-id>"
 
 const TASK_ID_TO = "</task-id>"
@@ -33,6 +35,7 @@ export interface TurnWorking {
 export interface Answer {
   readonly kind: string
   readonly stopReason: string | null
+  readonly interrupted?: boolean
 }
 
 export interface TaskStart {
@@ -47,6 +50,7 @@ export interface TurnScan {
 }
 
 export function turnEnded(answer: Answer): boolean {
+  if (answer.interrupted === true) return true
   return answer.kind === ANSWER_RECORD && answer.stopReason === ANSWER_ENDED
 }
 
@@ -144,7 +148,28 @@ function bodyOf(record: { message?: unknown; content?: unknown }): string {
   return typeof inner === "string" ? inner : ""
 }
 
-function answerOf(record: { type?: unknown; message?: unknown }): Answer | null {
+function textIn(said: unknown): string {
+  if (typeof said === "string") return said
+  if (!Array.isArray(said)) return ""
+  let text = ""
+  for (const block of said) {
+    if (block === null || typeof block !== "object") continue
+    const one = (block as { text?: unknown }).text
+    if (typeof one === "string") text += one
+  }
+  return text
+}
+
+export function interruptedIn(record: { message?: unknown; content?: unknown }): boolean {
+  const message = record.message
+  const held =
+    message !== null && typeof message === "object"
+      ? (message as { content?: unknown }).content
+      : record.content
+  return textIn(held).includes(INTERRUPTED_BY_USER)
+}
+
+function answerOf(record: { type?: unknown; message?: unknown; content?: unknown }): Answer | null {
   const kind = record.type
   if (kind !== ANSWER_RECORD && kind !== ASKED_RECORD) return null
   const message = record.message
@@ -152,7 +177,11 @@ function answerOf(record: { type?: unknown; message?: unknown }): Answer | null 
     message !== null && typeof message === "object"
       ? (message as { stop_reason?: unknown }).stop_reason
       : null
-  return { kind, stopReason: typeof reason === "string" ? reason : null }
+  return {
+    kind,
+    stopReason: typeof reason === "string" ? reason : null,
+    interrupted: kind === ASKED_RECORD && interruptedIn(record),
+  }
 }
 
 export function scanRecords(text: string, was: TurnWorking): TurnScan {

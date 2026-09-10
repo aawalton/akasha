@@ -20,6 +20,18 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
+      statement: "A prompt saying the user interrupted the request ends the turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer saying the user interrupted the request ends no turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record's words are read whether its content is text or a run of blocks.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A record that is neither a prompt nor an answer neither starts nor ends a turn.",
     },
     {
