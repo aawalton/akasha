@@ -30,6 +30,7 @@ import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 import { outsideRoot, writesOutside } from "../said-pathing/said-pathing.module.code.ts"
+import { allowedThrough } from "../stopping/command-stopping.module.code.ts"
 
 type Bodied = {
   readonly path: string
@@ -365,6 +366,7 @@ export async function landing(
       ],
     }
   }
+  allowedThrough()
   return holding(root, () => {
     const base = baseOf(root)
     const paths = edits.map((one) => one.path)

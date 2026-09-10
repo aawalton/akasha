@@ -159,6 +159,14 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "The ceiling on the call's seconds ends where the hold is taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing past the hold is left to finish however long that landing takes.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A change is judged against the commit the change read rather than the commit the change lands on.",
     },
