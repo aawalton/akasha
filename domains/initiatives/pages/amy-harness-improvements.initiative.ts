@@ -26,7 +26,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's phone drains its health samples into akasha every day.",
       workingMemory:
-        "The drain works: 777 readings for the 7th to the 9th landed at 08:16 today and `attribute-endurance` reads fresh again. It failed because this workstation's `pages-service` crash-looped through the rename wave, 171 failures, and `device-secret-context` turns an unreachable store into an uncaught 500 with no cache. The phone's anchor recovers any missed run. Left: debounce the watcher, cache the device secrets, and notice when the drain goes quiet.",
+        "The drain works: 777 readings landed at 08:16 today. The renames were not the cause — the headscale TLS certificate expired 2026-09-02 and tailscaled could not fetch its control key, so `workstation.alanwalton.ts.net` had no address for 23h43m while `page-listening` served loopback and systemd called it healthy. `device-secret-context` then turned the unreachable store into an uncaught 500. Left: make a refused bind fatal, and check the cert renews.",
     },
   ],
 } as const satisfies Initiative
