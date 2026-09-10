@@ -90,12 +90,12 @@ test("an entry that cannot be read reaches nothing", () => {
 })
 
 test("the root is the nearest folder above the entry whose manifest names workspaces", () => {
-  const ROOTED: Readonly<Record<string, string>> = {
+  const rooted: Readonly<Record<string, string>> = {
     "/r/package.json": '{"name":"root","workspaces":["**"]}',
     "/r/one/package.json": '{"name":"@akasha/one","exports":{"./deep":"./deep/deep.ts"}}',
     "/r/broken/package.json": "{not json",
   }
-  const read = (path: string): string | null => ROOTED[path] ?? null
+  const read = (path: string): string | null => rooted[path] ?? null
   expect(repoRootOf("/r/one/deep/deep.ts", read)).toBe("/r")
   expect(repoRootOf("/r/broken/deep.ts", read)).toBe("/r")
   expect(repoRootOf("/r/one/deep/deep.ts", () => null)).toBeNull()
