@@ -1,18 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { DoctrineVersion } from "./properties/doctrine-version.number-property.ts"
-import type { GateDimensions } from "./properties/gate-dimensions.file-property.ts"
-import type { Policies } from "./properties/policies.file-property.ts"
-import type { SheetTemplate } from "./properties/sheet-template.file-property.ts"
-import type { TallyCatalog } from "./properties/tally-catalog.file-property.ts"
-
-export type Doctrine = Page & {
-  doctrineVersion: DoctrineVersion
-  policies?: Policies
-  gateDimensions?: GateDimensions
-  sheetTemplate?: SheetTemplate
-  tallyCatalog?: TallyCatalog
-}
 
 export const doctrine = {
   id: "01a0826f-8d12-7268-918c-0b3a3574d5f6",
@@ -63,4 +49,5 @@ export const doctrine = {
       statement: "The words a doctrine has are the game master's rather than akasha's own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
