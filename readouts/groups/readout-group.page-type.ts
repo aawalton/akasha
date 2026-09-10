@@ -12,6 +12,7 @@ export const readoutGroup = {
     "readout-group/attributes",
     "readout-group/categorization",
     "readout-group/claude-usage",
+    "readout-group/cost",
     "readout-group/inboxes",
     "readout-group/safety",
     "readout-group/surplus",

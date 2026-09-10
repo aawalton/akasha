@@ -6,7 +6,7 @@ export const cost = {
   type: "domain",
   slug: "cost",
   definition: "what the stretch Alan is in costs him for each hour it runs",
-  parts: ["module/cost-color"],
+  parts: ["module/cost-color", "module/cost-reading", "readout/cost-multiplier"],
   invariants: [
     {
       invariantKind: "departure",
