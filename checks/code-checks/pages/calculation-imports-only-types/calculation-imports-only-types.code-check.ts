@@ -6,8 +6,6 @@ export const calculationImportsOnlyTypes = {
   type: "code-check",
   slug: "calculation-imports-only-types",
   definition: "the check refusing an import a calculation cannot fold into its own text",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
