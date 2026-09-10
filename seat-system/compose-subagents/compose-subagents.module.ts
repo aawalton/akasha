@@ -23,6 +23,14 @@ export const composeSubagents = {
     },
     {
       invariantKind: "departure",
+      statement: "A kind's definition in the map is the definition its page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A kind is named in the map with a model only where its page states one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Two kinds dispatched by one name is refused rather than settled by order.",
     },
     {

@@ -7,11 +7,8 @@ import { textAt, type Value, valueAt } from "../../pages/value/page-value.module
 
 const PAGE_TYPE = "subagent-kind"
 
-// The name a seat dispatches a kind by. The page type carried this as a gap until
-// \`dispatched-as\` closed it, so it is a property here rather than a slug to parse.
 const DISPATCHED_AS = "dispatchedAs"
 
-// The prompt is a file property: the page states the extension, and the file sits beside it.
 const PROMPT_KEY = "subagentPrompt"
 
 const PROMPT_SLUG = "subagent-prompt"
@@ -20,17 +17,9 @@ const MODEL = "model"
 
 const DEFINITION = "definition"
 
-// Every `subagent-kind` page there is, as the JSON object the client's `--agents` flag takes: a map
-// of the name a seat dispatches by to its definition, its prompt, and the model it runs on where it
-// states one.
-//
-// A kind's definition is what a dispatcher reads to choose, so the definition the page states is
-// what lands in the map. A kind's prompt is the whole of what its subagent starts with, and it sits
-// in the `subagent-prompt` file beside the page rather than in the page.
-
 export type Definition = { description: string; prompt: string; model?: string }
 
-function valueOf(root: string, path: string): Value {
+function pageValueOf(root: string, path: string): Value {
   let held: Value | null
   try {
     held = valueAt(path, root)
@@ -79,7 +68,7 @@ export function kindsIn(
 ): Readonly<Record<string, Definition>> {
   const definitions: Record<string, Definition> = {}
   for (const one of listed) {
-    const value = valueOf(root, one.path)
+    const value = pageValueOf(root, one.path)
     const name = textAt(value, DISPATCHED_AS)
     if (name === null || name === "") {
       throw new Error(
@@ -100,13 +89,9 @@ export function kindsIn(
   return definitions
 }
 
-// What an importer asks for: every kind there is, in one map. It throws rather than answering
-// with nothing, so a caller is the one that decides what nothing means for it.
 export function everyKind(): Readonly<Record<string, Definition>> {
   const root = rootFor(resolveRoots(), AKASHA)
   const listed: readonly Listed[] = everyOfType(root, PAGE_TYPE)
-  // An index naming none is not a cast of none: a seat that renders an empty map is told
-  // delegation is off, so refuse rather than answer with nothing.
   if (listed.length === 0)
     throw new Error(`no \`${PAGE_TYPE}\` page is there, so there is no kind to render`)
   return kindsIn(
