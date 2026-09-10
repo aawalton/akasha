@@ -1,8 +1,6 @@
 @import "tailwindcss";
 @import "@akasha/design-system/styles.css";
 
-@source "../../../../design/forms/**/*.{ts,tsx}";
+@source "../../../../alan/harness/**/*.{ts,tsx}";
 @source "../../../../design/layout/**/*.{ts,tsx}";
-@source "../../../../design/patterns/**/*.{ts,tsx}";
 @source "../../../../design/primitives/**/*.{ts,tsx}";
-@source "../../../../design/system/**/*.{ts,tsx}";

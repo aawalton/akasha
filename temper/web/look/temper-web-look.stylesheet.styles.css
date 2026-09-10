@@ -3,13 +3,18 @@
 @import "@akasha/design-system/styles.css";
 @import "tw-animate-css";
 
-@source "../../../alan/harness/supabase-rr/**/*.{ts,tsx}";
+@source "../../../alan/harness/**/*.{ts,tsx}";
+@source "../../../design/badges/**/*.{ts,tsx}";
 @source "../../../design/forms/**/*.{ts,tsx}";
 @source "../../../design/layout/**/*.{ts,tsx}";
 @source "../../../design/patterns/**/*.{ts,tsx}";
 @source "../../../design/primitives/**/*.{ts,tsx}";
-@source "../../../design/system/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";
+@source "../../characters-equipment-ui/**/*.{ts,tsx}";
+@source "../../player-completion-skills-morphs-ui/**/*.{ts,tsx}";
+@source "../../player-completion-ui/**/*.{ts,tsx}";
+@source "../../player-economics-ui/**/*.{ts,tsx}";
+@source "../../player-inventory-management-ui/**/*.{ts,tsx}";
 
 [data-label].enclosing {
   cursor: pointer;
