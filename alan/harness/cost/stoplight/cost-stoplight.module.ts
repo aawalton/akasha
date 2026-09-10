@@ -15,7 +15,8 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement: "The rule turning those two into a color is the cost color module's.",
+      statement:
+        "The rule turning the cost and the surplus into a color is the cost color module's.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +79,8 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement: "The surplus carried is the one answered rather than a second reach for it.",
+      statement:
+        "The surplus carried is the surplus answered rather than a second reach for the surplus.",
     },
     {
       invariantKind: "departure",
