@@ -52,7 +52,7 @@ export async function proxiedTerminal(): Promise<number> {
     terminal: {
       cols: cols(),
       rows: rows(),
-      data(term: BunPtyTerminal, chunk: Uint8Array): undefined {
+      data(pty: BunPtyTerminal, chunk: Uint8Array): undefined {
         try {
           process.stdout.write(chunk)
         } catch {
@@ -61,7 +61,7 @@ export async function proxiedTerminal(): Promise<number> {
         if (detector.push(chunk)) {
           setTimeout(() => {
             try {
-              term.write("\r")
+              pty.write("\r")
             } catch {}
           }, INJECT_DELAY_MS)
         }

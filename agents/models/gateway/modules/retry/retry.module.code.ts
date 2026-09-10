@@ -77,7 +77,7 @@ export type StreamObserver = {
 export type StreamClock = () => number
 
 function safeCall<A extends ReadonlyArray<unknown>>(
-  fn: ((...args: A) => void) | undefined,
+  fn: ((...given: A) => void) | undefined,
   ...args: A
 ): undefined {
   try {
