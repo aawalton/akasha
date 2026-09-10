@@ -1,4 +1,4 @@
-import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
+import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.types.ts"
 
 export const reduceFeatCost = {
   id: "019e5c85-d94f-717a-b384-c3148481347b",

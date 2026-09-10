@@ -1,4 +1,4 @@
-import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
+import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.types.ts"
 
 export const potionSpeed = {
   id: "019e5c85-d964-7132-a7c6-9891932a6a78",

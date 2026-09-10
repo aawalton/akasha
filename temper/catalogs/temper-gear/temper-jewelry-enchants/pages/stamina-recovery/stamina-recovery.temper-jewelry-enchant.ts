@@ -1,4 +1,4 @@
-import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
+import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.types.ts"
 
 export const staminaRecovery = {
   id: "019e5c85-d946-7a55-8269-7417f599aa31",

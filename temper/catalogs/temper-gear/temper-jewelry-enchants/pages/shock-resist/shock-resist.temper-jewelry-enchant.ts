@@ -1,4 +1,4 @@
-import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.ts"
+import type { TemperJewelryEnchant } from "../../temper-jewelry-enchant.page-type.types.ts"
 
 export const shockResist = {
   id: "019e5c85-d955-74d8-9a9a-3e66c22bcecb",
