@@ -37,8 +37,7 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "That reader answers the text at any path, so an import a calculation takes folds.",
+      statement: "That reader answers the text at any path.",
     },
     {
       invariantKind: "departure",

@@ -108,8 +108,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Both keys are stated here rather than kept from the page, which only a merge does.",
+      statement: "Both keys are stated here rather than kept from the page.",
     },
     {
       invariantKind: "departure",
