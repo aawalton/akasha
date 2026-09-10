@@ -1,9 +1,9 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const clusterManifests = {
   id: "01a06810-1263-7296-86ac-72d2a283e164",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "cluster-manifests",
   definition: "the Kubernetes manifests each part of the cluster is applied as",
 
@@ -22,4 +22,4 @@ export const clusterManifests = {
     "module/tunnel-route-discovery",
     "workstation-service/orphaned-resources-sweep",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

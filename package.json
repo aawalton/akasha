@@ -31,7 +31,6 @@
     "react": "^18 || ^19",
     "@radix-ui/react-slot": "*",
     "react-dom": "^18 || ^19",
-    "@akasha/cluster-manifests": "workspace:*",
     "sonner": "^2.0.7",
     "@happy-dom/global-registrator": "^20.8.3",
     "@testing-library/react": "^16.3.2",
