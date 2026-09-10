@@ -1,4 +1,4 @@
-import type { Day } from "./day.page-type.ts"
+import type { Day } from "./day.page-type.types.ts"
 import type { ActivityCalories } from "./properties/activity-calories.computed-property.ts"
 import type { FaithLevel } from "./properties/faith-level.computed-property.ts"
 import type { FaithStoplight } from "./properties/faith-stoplight.computed-property.ts"

@@ -1,5 +1,5 @@
 import type { Work } from "@akasha/pages/computed-property"
-import type { Day } from "../day.page-type.ts"
+import type { Day } from "../day.page-type.types.ts"
 
 export const work: Work<Day, number> = (page) => {
   const points = page.faithPoints ?? 0

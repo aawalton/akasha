@@ -1,4 +1,4 @@
-import type { Day } from "../../day.page-type.ts"
+import type { Day } from "../../day.page-type.types.ts"
 
 export const day20260118 = {
   id: "01a0827f-62ff-7327-84a7-8d1e602ee300",

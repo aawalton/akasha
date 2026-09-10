@@ -1,5 +1,5 @@
 import type { Work } from "@akasha/pages/computed-property"
-import type { Day } from "../day.page-type.ts"
+import type { Day } from "../day.page-type.types.ts"
 
 const NO_RUNG = 0
 
