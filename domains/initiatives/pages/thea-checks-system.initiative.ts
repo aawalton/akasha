@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check has a decision, a check and an audit, each its own module of files.",
       workingMemory:
-        "All 55 checks now hold decision, check and audit, each with its own code and test, and code-check states neither code nor test any more. Left: besideNamed and besideOf take no file-property key set, so file-arguing, log-day-sweeping and property-carrying's sectionedIn at :238 do not see a group's member files. Then decide whether the three groups become required. code-system/package.json still exports ./module/code, which nothing imports now.",
+        "All 55 checks now hold decision, check and audit, each with its own code and test, and code-check states neither code nor test any more. Left: besideNamed and besideOf take no file-property key set, so file-arguing, log-day-sweeping and property-carrying's sectionedIn at :238 do not see a group's member files. Then decide whether the three groups become required. A path in prose is repointed only after checking what it cites still lives there.",
     },
     {
       statement:
