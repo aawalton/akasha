@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.types.ts"
 
 export const meetupDigest = {
   id: "01a06860-54a2-7b18-b5ac-3b2fc978b9f4",

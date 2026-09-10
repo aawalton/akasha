@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.types.ts"
 
 export const tsaPrecheckClearPromo = {
   id: "01a06860-54a2-726f-a1c8-605e69131e95",

@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { EmailRule } from "../email-rule.page-type.types.ts"
-import type { EmailRuleCodeActions } from "./properties/email-rule-code-actions.select-property.ts"
-import type { EmailRuleCodeDelay } from "./properties/email-rule-code-delay.text-property.ts"
-import type { EmailRuleCodeFiling } from "./properties/email-rule-code-filing.select-property.ts"
-import type { EmailRuleCodeForwardTo } from "./properties/email-rule-code-forward-to.relation-property.ts"
-
-export type EmailRuleCode = EmailRule & {
-  filing: EmailRuleCodeFiling
-  actions?: EmailRuleCodeActions
-  delay?: EmailRuleCodeDelay
-  forwardTo?: EmailRuleCodeForwardTo
-}
 
 export const emailRuleCode = {
   id: "01a06828-59d3-7d52-bae3-818debc51db7",
@@ -59,4 +47,5 @@ export const emailRuleCode = {
       statement: "There is no forward action.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

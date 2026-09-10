@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.types.ts"
 
 export const appleDeveloperNoticesTestflightNoReply = {
   id: "01a06860-54a2-70ff-9565-a0c8d958fe8f",

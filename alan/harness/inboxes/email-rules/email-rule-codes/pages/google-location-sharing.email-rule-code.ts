@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.types.ts"
 
 export const googleLocationSharing = {
   id: "01a06860-54a2-79d8-97f8-7bdf524cc9b8",

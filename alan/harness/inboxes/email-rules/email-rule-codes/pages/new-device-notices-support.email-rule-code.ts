@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.types.ts"
 
 export const newDeviceNoticesSupport = {
   id: "01a06860-54a2-7a60-843a-096b18555b10",

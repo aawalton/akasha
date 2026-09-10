@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.types.ts"
 
 export const oakWardGoogleNoticeGoogleplayNoreply = {
   id: "01a06860-54a2-7bb6-8f89-369136e62ec4",
