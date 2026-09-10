@@ -240,3 +240,17 @@ export function taking(address: string): Reaching {
 export function worldTaking(root: string, address: string): World {
   return worldAt(root, textIn(root), taking(address))
 }
+
+export const FRESH_PAGE = "akasha/one/fresh.module.ts"
+
+export const FRESH_BODY = `export const fresh = ${JSON.stringify(
+  {
+    id: "01a07c9a-0001-7000-8000-000000000001",
+    pageTypeSlug: "module",
+    slug: "fresh",
+    definition: "a page an edit added",
+    code: "ts",
+  },
+  null,
+  2
+)} as const\n`

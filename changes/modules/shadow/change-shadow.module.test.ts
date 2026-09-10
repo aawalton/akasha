@@ -31,6 +31,8 @@ import {
 import {
   AUTHORED_AT,
   answeredOf,
+  FRESH_BODY,
+  FRESH_PAGE,
   GENERATED_AT,
   IN_ORDER,
   LOOSE,
@@ -116,20 +118,6 @@ test("a ledger added to twice carries both answers gathered", () => {
     ])
   )
 })
-
-const FRESH_PAGE = "akasha/one/fresh.module.ts"
-
-const FRESH_BODY = `export const fresh = ${JSON.stringify(
-  {
-    id: "01a07c9a-0001-7000-8000-000000000001",
-    pageTypeSlug: "module",
-    slug: "fresh",
-    definition: "a page an edit added",
-    code: "ts",
-  },
-  null,
-  2
-)} as const\n`
 
 test("an index a ledger answers knows the page an edit added", () => {
   const ledger = ledgerIn(indexedRepo())
