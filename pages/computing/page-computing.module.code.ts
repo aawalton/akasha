@@ -1,3 +1,4 @@
+import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Reach, Work } from "../computed-properties/computed-property.page-type.ts"
 
 export type Held = Record<string, unknown>
@@ -52,10 +53,6 @@ function nameOf(held: unknown): string {
   return typeof held
 }
 
-function faultIn(thrown: unknown): string {
-  return thrown instanceof Error ? thrown.message : String(thrown)
-}
-
 function presentIn(value: Held): Held {
   const held: Held = {}
   for (const [key, one] of Object.entries(value)) {
@@ -106,7 +103,7 @@ export function computingOver(source: Source): Computing {
       answers.set(frame, { held: answered })
       return answered
     } catch (thrown) {
-      const fault = faultIn(thrown)
+      const fault = saidBy(thrown)
       answers.set(frame, { fault })
       throw thrown instanceof Error ? thrown : new Error(fault)
     } finally {
@@ -158,7 +155,7 @@ export function computingOver(source: Source): Computing {
         const held = view[one.key]
         if (held !== undefined) value[one.key] = held
       } catch (thrown) {
-        dark.set(one.key, faultIn(thrown))
+        dark.set(one.key, saidBy(thrown))
       }
     }
     const working: Working = { value, dark }
