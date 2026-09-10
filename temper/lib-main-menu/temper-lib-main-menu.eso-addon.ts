@@ -6,7 +6,7 @@ export const temperLibMainMenu = {
   type: "eso-addon",
   slug: "temper-lib-main-menu",
   definition: "a shared library adding entries to the game's main menu bar",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "main-menu-entry",
   parts: [

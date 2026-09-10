@@ -6,7 +6,7 @@ export const temperLibMapPing = {
   type: "eso-addon",
   slug: "temper-lib-map-ping",
   definition: "the game's map ping functions wrapped in one place every addon reaches",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "map-ping-main",
   parts: [

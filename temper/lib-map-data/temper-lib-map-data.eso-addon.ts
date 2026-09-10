@@ -6,7 +6,7 @@ export const temperLibMapData = {
   type: "eso-addon",
   slug: "temper-lib-map-data",
   definition: "which map, zone and floor the player is on, and where that falls on Tamriel",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "map-data-main",
   parts: [
