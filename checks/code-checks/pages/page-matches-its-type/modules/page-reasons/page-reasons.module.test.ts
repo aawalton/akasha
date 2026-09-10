@@ -42,7 +42,7 @@ function over(value: Value, pageTypeSlug: string): readonly string[] {
   )
 }
 
-const ALLOWS: Formatting = () => (): boolean => true
+const allows: Formatting = () => (): boolean => true
 
 const HERE = shadowAt(rootOf(import.meta.path))
 
@@ -62,7 +62,7 @@ const GROUP: Carried = {
 }
 
 function grouped(held: Value): readonly string[] {
-  return reasonsIn(held, [GROUP], HERE, "page-type/code-check", ALLOWS, new Set<string>())
+  return reasonsIn(held, [GROUP], HERE, "page-type/code-check", allows, new Set<string>())
 }
 
 test("a group a page states is judged against the members that group declares", () => {
