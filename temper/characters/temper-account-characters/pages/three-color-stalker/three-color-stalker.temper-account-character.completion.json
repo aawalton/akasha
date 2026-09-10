@@ -1,11 +1,11 @@
 {
-  "buildHash": "ATAHcqUAAIBihZNm0_lZtP5WbmCVA5glIuYLWbmCVs5glEKjtUCpO1AqTtJhEx2xEEx1sAAAHNtZAAAAADjAAAAABE8AAgDUEgBAGAACQEIAAQAACEAADpwAjAGYABkABCAwsABDJIFAjEQAygAAICAMAHIAgAcAAADA4y6Neo1IsSZWPJlzS5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDCGSTw",
+  "buildHash": "ATAHcokAAIBihZNm0_lZtP5WbmCVA5glIuYLWbmCVs5glEKjtUCpO1AqTtJhEx2xEEx1sAAAHNtZAAAAADrgAAAABE8AAgDUEgBAGAACQEAAAwAACEAACpwAjAGYABkABCAwsABDJIFAjEQAygAAICAMAHIAgAcAAABA4y6Neo1IsSZWPJlzS5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDCGSTw",
   "gender": 1,
   "level": 50,
   "classId": 3,
   "allianceId": 1,
   "raceId": 9,
-  "curseState": "vampire",
+  "curseState": "werewolf",
   "className": "Nightblade",
   "classIcon": "/esoui/art/icons/class/class_nightblade.dds",
   "companionRapport": {
@@ -7340,22 +7340,22 @@
       "2": 28358,
       "3": 33819,
       "4": 42804,
-      "5": 28342,
+      "5": 28386,
       "6": 33484,
-      "7": 28398,
-      "8": 28350,
+      "7": 33484,
+      "8": 28398,
       "9": 33520,
       "10": 33581,
       "11": 33873,
       "12": 33885,
       "13": 33903,
       "14": 57085,
-      "15": 33921,
+      "15": 57085,
       "16": 57098,
-      "17": 43088,
+      "17": 57098,
       "18": 57111,
       "19": 57114,
-      "20": 43142,
+      "20": 57114,
       "21": 57123,
       "22": 57126,
       "23": 57135,
@@ -7364,7 +7364,7 @@
       "26": 68233,
       "27": 68234,
       "28": 68235,
-      "29": 28386
+      "29": 68235
     },
     "2": {
       "1": 33837,
@@ -8582,7 +8582,7 @@
     "groupDungeonTotal": 19,
     "tutorial": 0,
     "skyshardPoints": 184,
-    "unassigned": 174,
+    "unassigned": 178,
     "zoneQuestTotal": 109,
     "publicDungeons": {
       "EP4": 1,
@@ -17234,8 +17234,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-09",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-10"
   },
   "dailyWritStates": {
     "completed": {
@@ -17256,7 +17256,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-09"
+    "date": "2026-09-10"
   },
   "motifKnowledge": {
     "1": {
