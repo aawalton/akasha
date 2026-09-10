@@ -1,6 +1,6 @@
-import { existsSync, writeFileSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { textAt, valueAt } from "@akasha/pages/page-value"
+import { textAt, type Value, valueAt, valueIn } from "@akasha/pages/page-value"
 import { seatPathForName } from "@akasha/seat-system/seat-reading"
 import { type Stopped, stopping } from "@akasha/seat-system/seat-stopping"
 import { told } from "../../../../../git/running/git-running.module.code.ts"
@@ -43,7 +43,10 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
   }
   const page = seatPathForName(named.name)
   const at = join(given.root, page)
-  if (!existsSync(at)) {
+  let value: Value | null = null
+  if (existsSync(at)) {
+    value = valueAt(page, given.root)
+  } else {
     const held = told(given.root, ["show", `HEAD:${page}`])
     if (held === null) {
       return refused(
@@ -51,9 +54,8 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
         2
       )
     }
-    writeFileSync(at, held)
+    value = valueIn(held)
   }
-  const value = valueAt(page, given.root)
   const agentId = value === null ? null : textAt(value, ID)
   if (agentId === null || agentId === "") {
     return refused(
