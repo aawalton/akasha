@@ -7,4 +7,14 @@ export const claudeAccountUsage = {
   slug: "claude-account-usage",
   definition: "what the fleet of claude accounts has spent, read off the account pages",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An account carrying no reading is left out of the mean.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A checkout naming no account is refused rather than answered as a fleet.",
+    },
+  ],
 } as const satisfies Module
