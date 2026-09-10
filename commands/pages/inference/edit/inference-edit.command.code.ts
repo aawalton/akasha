@@ -14,6 +14,7 @@ import {
   sha256Hex,
 } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   calledAs,
   countAt,
@@ -112,8 +113,8 @@ export async function inferenceEdit(argv: readonly string[]): Promise<Answer> {
   const subject = images[0]
   if (subject === undefined) refusals.push(`this names \`${IMAGE}\`, and nothing did`)
 
-  const key = process.env[KEY]
-  if (key === undefined || key.length === 0) {
+  const key = optionalEnv(KEY)
+  if (key === undefined) {
     refusals.push(`nothing holds \`${KEY}\`, so the engine cannot be reached`)
   }
 
