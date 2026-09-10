@@ -1,6 +1,7 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import {
   alreadyRunning,
@@ -164,7 +165,7 @@ check("what a run spawns is marked as inside one", () => {
 
 check("the mark a run carries is read back by whoever is inside it", () => {
   expect(RUNNING).toBe("AKASHA_TESTS_RUNNING")
-  const was = process.env[RUNNING]
+  const was = optionalEnv(RUNNING)
   process.env[RUNNING] = "1"
   expect(alreadyRunning()).toBe(true)
   delete process.env[RUNNING]
