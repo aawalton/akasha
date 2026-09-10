@@ -66,6 +66,7 @@ export const lualib = {
     "lualib/function-bind",
     "lualib/instance-of",
     "lualib/instance-of-object",
+    "lualib/json",
     "lualib/lua-iterator-spread",
     "lualib/map",
     "lualib/map-group-by",
