@@ -6,6 +6,7 @@ export const file = {
   type: "domain",
   slug: "file",
   definition: "a file in the `akasha` folder",
+  pluralSlug: "files",
   parts: ["domain/folder-path"],
   invariants: [
     {
