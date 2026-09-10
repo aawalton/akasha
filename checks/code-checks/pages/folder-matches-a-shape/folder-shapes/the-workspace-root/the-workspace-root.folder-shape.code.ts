@@ -13,6 +13,7 @@ const ALLOWED = new Set<string>([
   "commands",
   "design",
   "domains",
+  "files",
   "graph",
   "infrastructure",
   "pages",
