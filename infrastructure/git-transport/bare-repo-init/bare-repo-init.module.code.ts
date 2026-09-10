@@ -39,6 +39,7 @@ CREDENTIAL_HELPER=${CREDENTIAL_HELPER}
 LOCK=/data/git/repositories/.init-lock
 hook_at() {
   mkdir -p "$(dirname "$2")"
+  rm -f "$2"
   printf '#!/bin/sh\\nexec /bin/sh "%s" "$@"\\n' "$1" > "$2"
   chmod +x "$2"
 }
@@ -113,6 +114,7 @@ touch "$LOCK"
   hook_at ${APPEND_ONLY_HOOK} "$CODE_REPO/hooks/pre-receive"
   hook_at ${MIRROR_HOOK} "$CODE_REPO/hooks/post-receive"
   for f in update proc-receive; do
+    rm -f "$CODE_REPO/hooks/$f"
     printf '#!/bin/sh\\nexit 0\\n' > "$CODE_REPO/hooks/$f"
     chmod +x "$CODE_REPO/hooks/$f"
   done

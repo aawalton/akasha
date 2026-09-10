@@ -53,5 +53,9 @@ export const bareRepoInit = {
       invariantKind: "departure",
       statement: "The folder a hook stub sits in is made before that stub is written.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Whatever a hook's name already reaches is taken away before the stub is written.",
+    },
   ],
 } as const satisfies Module
