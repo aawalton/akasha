@@ -100,6 +100,10 @@ export const repositoryIsWrittenByAChange = {
       statement: "The refusal names the line the write sits on.",
     },
     {
+      invariantKind: "departure",
+      statement: "A destination is judged only where the destination spells a name to judge.",
+    },
+    {
       invariantKind: "gap",
       statement: "A destination whose name is worked out at run time is not seen.",
     },

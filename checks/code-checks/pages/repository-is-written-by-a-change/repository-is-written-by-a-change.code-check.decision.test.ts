@@ -180,6 +180,18 @@ test("a root a body only hashes into a name under the home directory is no desti
   ).toEqual([])
 })
 
+test("a destination spelling no name at all is let through, the check reading nothing", () => {
+  expect(
+    only(
+      'import { rmSync } from "node:fs"\n' +
+        'import { join } from "node:path"\n' +
+        "export function one(given: { root: string }): void {\n" +
+        "  for (const at of besideOf(given.root)) rmSync(join(given.root, at))\n" +
+        "}\n"
+    )
+  ).toEqual([])
+})
+
 test("a TypeScript file written outside the checkout is let through", () => {
   expect(
     only(

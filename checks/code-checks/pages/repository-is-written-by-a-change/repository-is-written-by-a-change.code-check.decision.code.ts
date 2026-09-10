@@ -270,6 +270,10 @@ function noNode(): boolean {
   return false
 }
 
+function holdsName(node: ts.Node): boolean {
+  return textIn(node) !== null
+}
+
 function pointsRoot(node: ts.Node): boolean {
   return ts.isPropertyAccessExpression(node) && node.name.text === ROOT
 }
@@ -284,19 +288,22 @@ export function reasonsOver(at: string, text: string, aside: readonly string[]):
   const asideNamed = asideBy(aside)
   const named = spreadOver(stated, new Set<string>(), asideNamed)
   const away = spreadOver([...stated, ...answeringIn(source)], taken.away, noNode)
+  const spelled = spreadOver(stated, new Set<string>(), holdsName)
   const isRooted = (one: ts.Node): boolean =>
     pointsRoot(one) || (ts.isIdentifier(one) && rooted.has(one.text))
   const isAside = (one: ts.Node): boolean =>
     asideNamed(one) || (ts.isIdentifier(one) && named.has(one.text))
   const isAway = (one: ts.Node): boolean => ts.isIdentifier(one) && away.has(one.text)
+  const isSpelled = (one: ts.Node): boolean =>
+    holdsName(one) || (ts.isIdentifier(one) && spelled.has(one.text))
   const said: string[] = []
   const walk = (node: ts.Node): undefined => {
     if (ts.isCallExpression(node)) {
       for (const which of calledAs(node, taken) ?? []) {
         const given = node.arguments[which]
         if (given === undefined) continue
-        if (!heldIn(given, isRooted) || heldIn(given, isAside)) continue
-        if (heldIn(given, isAway)) continue
+        if (!heldIn(given, isRooted) || !heldIn(given, isSpelled)) continue
+        if (heldIn(given, isAside) || heldIn(given, isAway)) continue
         said.push(`line ${lineOf(source, node)} writes under the checkout root, ${SAID}`)
       }
     }
