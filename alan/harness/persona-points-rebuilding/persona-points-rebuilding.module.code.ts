@@ -4,6 +4,7 @@ import {
   pointsIn,
 } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import { personaAt } from "akasha/personas/reading/persona-reading.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   daysCounted,
   daysMessaged,
@@ -51,7 +52,7 @@ export function saidOf(rebuilt: number): string {
 }
 
 if (import.meta.main) {
-  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   const done = rebuildPoints(root, getEsoDayStr(new Date()))
   process.stdout.write(`${[saidOf(done.rebuilt), ...done.unread].join("\n")}\n`)
 }
