@@ -16,6 +16,8 @@ import {
   onDisk,
   overEachFile,
   overEachText,
+  overEveryText,
+  overEveryTextAsync,
   PAGES,
   pagesTailed,
   type Selector,
@@ -284,6 +286,22 @@ test("a walk over everything reads no index, so a path the tree does not hold is
   pathFiled(root, GONE_AT, [{ path: PAGE_AT, id: HELD_ID }])
   expect(everyFileIn(readingIn(root))).toContain(GONE_AT)
   expect(everythingIn(root).changed).not.toContain(GONE_AT)
+})
+
+test("a walk over every text reads each body in the tree and names the path a refusal is for", () => {
+  const said = overEveryText(treeWorld(), (path, text) => [`${path} says ${text.length}`])
+  const every = said.map((one) => one.path)
+  expect(every).toContain(CODE_AT)
+  expect(every).toContain(STRAY_AT)
+  expect(every).not.toContain(KEPT_AT)
+  expect(every).not.toContain(BUILT_AT)
+})
+
+test("a walk over every text awaits each judgement where the judge answers with a promise", async () => {
+  const said = await overEveryTextAsync(treeWorld(), (path) => Promise.resolve([path]))
+  const every = said.map((one) => one.path)
+  expect(every).toContain(CODE_AT)
+  expect(every).not.toContain(KEPT_AT)
 })
 
 test("a root that is no tree at all refuses the walk rather than taking nothing", () => {

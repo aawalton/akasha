@@ -101,6 +101,10 @@ export const changeWalking = {
       statement: "A refusal for a body that is not text names the path that body is at.",
     },
     {
+      invariantKind: "departure",
+      statement: "An audit reading each text in the tree reads it through this module.",
+    },
+    {
       invariantKind: "gap",
       statement: "Every check walks a change through this module.",
     },

@@ -229,6 +229,36 @@ export function overEachFile(
   return said
 }
 
+export function overEveryText(
+  root: string,
+  judge: (path: string, text: string) => readonly string[]
+): readonly Judged[] {
+  const change = everythingIn(root)
+  const said: Judged[] = []
+  for (const path of change.changed) {
+    if (!textNamed(path)) continue
+    const text = textIn(change, path)
+    if (text === null) continue
+    for (const reason of judge(path, text)) said.push({ path, reason })
+  }
+  return said
+}
+
+export async function overEveryTextAsync(
+  root: string,
+  judge: (path: string, text: string) => Promise<readonly string[]>
+): Promise<readonly Judged[]> {
+  const change = everythingIn(root)
+  const said: Judged[] = []
+  for (const path of change.changed) {
+    if (!textNamed(path)) continue
+    const text = textIn(change, path)
+    if (text === null) continue
+    for (const reason of await judge(path, text)) said.push({ path, reason })
+  }
+  return said
+}
+
 export function everyFileIn(given: Reading): readonly string[] {
   return sortedOnce(everyPath(given))
 }
