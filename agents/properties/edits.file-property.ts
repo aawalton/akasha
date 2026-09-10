@@ -46,7 +46,7 @@ export const edits = {
     },
     {
       invariantKind: "departure",
-      statement: "The lines are folded into one answer before a patch is worked out.",
+      statement: "The lines are folded into one answer before that answer is replayed.",
     },
     {
       invariantKind: "departure",
