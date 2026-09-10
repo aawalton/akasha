@@ -66,10 +66,6 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A row deleted is drawn away by the file the service writes rather than at once.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A file the service has not written leaves the rows drawn as they are.",
     },
     {
@@ -78,7 +74,20 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "That order is held until the file has it or the move is refused.",
+      statement: "An intent deleted is drawn away before the command deleting it answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An initiative deleted is drawn away with its intents before that command answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop and a deletion are held for an initiative in one place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is held is held until the file has it or the command is refused.",
     },
     {
       invariantKind: "departure",
@@ -86,15 +95,28 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A file with other intents than those releases the order held.",
+      statement: "A file still holding an intent held to be going is drawn without that intent.",
     },
     {
       invariantKind: "departure",
-      statement: "A refused move reads the file again and draws what that file has.",
+      statement: "A file with other intents than those releases what is held.",
     },
     {
       invariantKind: "departure",
-      statement: "An order held for one initiative leaves every other initiative alone.",
+      statement: "A refused move or deletion reads the file again and draws what that file has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is held for one initiative leaves every other initiative alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row is deleted by the slug and the statement that row is drawn with.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A row deleted while another deletion is settling names the intent that row is drawn as.",
     },
     {
       invariantKind: "departure",

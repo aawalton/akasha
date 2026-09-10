@@ -54,32 +54,12 @@ export const workTreeDragging = {
       statement: "The editor is handed in rather than imported, so a test runs outside the editor.",
     },
     {
-      invariantKind: "departure",
-      statement: "An intent is followed between two orders by its statement rather than its key.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The intents reordered are renumbered from one in their new order.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The rows beneath an initiative that are no intent keep their places.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An order with the same intents in another order is stale rather than gone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An order with other intents is gone rather than stale.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Rows are composed here and handed back rather than given to the editor.",
+      invariantKind: "absence",
+      statement: "Nothing here writes the initiative's page.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes the initiative's page.",
+      statement: "No row is composed here.",
     },
     {
       invariantKind: "departure",

@@ -61,9 +61,16 @@ export function initiativeFailureSaid(slug: string, why: string): string {
   return `${slug}: the initiative did not go. ${why}`
 }
 
+export interface WorkDeleteWatch {
+  readonly intentGoing: (one: IntentGone) => undefined
+  readonly initiativeGoing: (slug: string) => undefined
+  readonly stayed: (slug: string) => undefined
+}
+
 export function deletingInitiative(
   editor: Editor,
   say: (line: string) => undefined,
+  watch: WorkDeleteWatch,
   call: Calling = callHarness
 ): (row?: WorkTreeRow) => Promise<undefined> {
   return async (row?: WorkTreeRow) => {
@@ -75,12 +82,14 @@ export function deletingInitiative(
       CONFIRM
     )
     if (chosen !== CONFIRM) return undefined
+    watch.initiativeGoing(slug)
     try {
       const said = await call(INITIATIVE_MODULE, INITIATIVE_EXPORT, [slug], {
         timeout: LANDING_TIMEOUT_MS,
       })
       say(`[delete initiative] ${said.trim()}`)
     } catch (thrown) {
+      watch.stayed(slug)
       const why = initiativeFailureSaid(slug, String(thrown))
       say(`[delete initiative] ${why}`)
       void editor.window.showErrorMessage(`Work: ${why}`)
@@ -92,17 +101,20 @@ export function deletingInitiative(
 export function deletingIntent(
   editor: Editor,
   say: (line: string) => undefined,
+  watch: WorkDeleteWatch,
   call: Calling = callHarness
 ): (row?: WorkTreeRow) => Promise<undefined> {
   return async (row?: WorkTreeRow) => {
     const one = intentGoneOf(row)
     if (one === null) return undefined
+    watch.intentGoing(one)
     try {
       const said = await call(INTENT_MODULE, INTENT_EXPORT, [one.slug, one.statement], {
         timeout: LANDING_TIMEOUT_MS,
       })
       say(`[delete intent] ${said.trim()}`)
     } catch (thrown) {
+      watch.stayed(one.slug)
       const why = intentFailureSaid(one, String(thrown))
       say(`[delete intent] ${why}`)
       void editor.window.showErrorMessage(`Work: ${why}`)

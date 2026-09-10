@@ -76,7 +76,23 @@ export const workTreeDeleting = {
     },
     {
       invariantKind: "departure",
-      statement: "A row deleted leaves the panel when the file the service writes has it gone.",
+      statement: "The panel is told a row is going before the command that deletes it is called.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Alan answers the modal before the panel is told an initiative is going.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The panel is told the row stayed where the command refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row the command deleted is told to the panel once and no more.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The panel is told rather than drawn to, so a test runs outside the editor.",
     },
     {
       invariantKind: "absence",

@@ -10,6 +10,7 @@ import {
   initiativeGoneOf,
   intentFailureSaid,
   intentGoneOf,
+  type WorkDeleteWatch,
 } from "./work-tree-deleting.module.code.ts"
 
 function rowOf(kind: WorkTreeRow["kind"], key: string, label: string): WorkTreeRow {
@@ -54,6 +55,25 @@ function editorSaying(shown: string[], asked: Asked[] = [], chosen?: string): Ed
   }
 }
 
+type Told = { told: string; slug: string; statement: string | null }
+
+function watching(told: Told[] = []): WorkDeleteWatch {
+  return {
+    intentGoing: (one) => {
+      told.push({ told: "intent going", slug: one.slug, statement: one.statement })
+      return undefined
+    },
+    initiativeGoing: (slug) => {
+      told.push({ told: "initiative going", slug, statement: null })
+      return undefined
+    },
+    stayed: (slug) => {
+      told.push({ told: "stayed", slug, statement: null })
+      return undefined
+    },
+  }
+}
+
 test("an intent row answers its initiative and its statement", () => {
   expect(intentGoneOf(INTENT)).toEqual({ slug: "held", statement: "A thing is so." })
 })
@@ -73,15 +93,18 @@ test("a row drawn under no label answers nothing", () => {
 test("deleting an intent names the initiative and the statement to the command", async () => {
   const kept: Said[] = []
   const lines: string[] = []
+  const told: Told[] = []
   await deletingIntent(
     editorSaying([]),
     (line) => {
       lines.push(line)
       return undefined
     },
+    watching(told),
     callingWith("held: the intent is gone", kept)
   )(INTENT)
 
+  expect(told).toEqual([{ told: "intent going", slug: "held", statement: "A thing is so." }])
   expect(kept).toEqual([
     {
       module: "initiative-delete-intent",
@@ -93,29 +116,38 @@ test("deleting an intent names the initiative and the statement to the command",
   expect(lines).toEqual(["[delete intent] held: the intent is gone"])
 })
 
-test("a row that is no intent calls nothing", async () => {
+test("a row that is no intent calls nothing and tells the panel nothing", async () => {
   const kept: Said[] = []
+  const told: Told[] = []
   await deletingIntent(
     editorSaying([]),
     () => undefined,
+    watching(told),
     callingWith("", kept)
   )(rowOf("initiative", "held", "held"))
 
   expect(kept).toEqual([])
+  expect(told).toEqual([])
 })
 
 test("a deletion that failed is said to Alan once and written to the channel", async () => {
   const shown: string[] = []
   const lines: string[] = []
+  const told: Told[] = []
   await deletingIntent(
     editorSaying(shown),
     (line) => {
       lines.push(line)
       return undefined
     },
+    watching(told),
     callingWith(new Error("the page would not open"), [])
   )(INTENT)
 
+  expect(told).toEqual([
+    { told: "intent going", slug: "held", statement: "A thing is so." },
+    { told: "stayed", slug: "held", statement: null },
+  ])
   expect(shown).toEqual([
     "Work: held: the intent `A thing is so.` did not go. Error: the page would not open",
   ])
@@ -155,15 +187,18 @@ test("an initiative goes once Alan answers the modal with the confirming word", 
   const kept: Said[] = []
   const asked: Asked[] = []
   const lines: string[] = []
+  const told: Told[] = []
   await deletingInitiative(
     editorSaying([], asked, "Delete"),
     (line) => {
       lines.push(line)
       return undefined
     },
+    watching(told),
     callingWith("held is gone", kept)
   )(INITIATIVE)
 
+  expect(told).toEqual([{ told: "initiative going", slug: "held", statement: null }])
   expect(asked).toEqual([
     {
       said: "Delete the initiative held?",
@@ -182,51 +217,94 @@ test("an initiative goes once Alan answers the modal with the confirming word", 
   expect(lines).toEqual(["[delete initiative] held is gone"])
 })
 
-test("an initiative Alan does not confirm stays, and nothing is said", async () => {
+test("an initiative Alan does not confirm stays, and the panel is told nothing", async () => {
   const kept: Said[] = []
   const lines: string[] = []
+  const told: Told[] = []
   await deletingInitiative(
     editorSaying([], [], undefined),
     (line) => {
       lines.push(line)
       return undefined
     },
+    watching(told),
     callingWith("held is gone", kept)
   )(INITIATIVE)
 
   expect(kept).toEqual([])
   expect(lines).toEqual([])
+  expect(told).toEqual([])
 })
 
 test("an intent row is asked nothing and deletes no initiative", async () => {
   const kept: Said[] = []
   const asked: Asked[] = []
+  const told: Told[] = []
   await deletingInitiative(
     editorSaying([], asked, "Delete"),
     () => undefined,
+    watching(told),
     callingWith("", kept)
   )(INTENT)
 
   expect(asked).toEqual([])
   expect(kept).toEqual([])
+  expect(told).toEqual([])
 })
 
 test("an initiative that did not go is said to Alan once and written to the channel", async () => {
   const shown: string[] = []
   const lines: string[] = []
+  const told: Told[] = []
   await deletingInitiative(
     editorSaying(shown, [], "Delete"),
     (line) => {
       lines.push(line)
       return undefined
     },
+    watching(told),
     callingWith(new Error("a page still names it"), [])
   )(INITIATIVE)
 
+  expect(told).toEqual([
+    { told: "initiative going", slug: "held", statement: null },
+    { told: "stayed", slug: "held", statement: null },
+  ])
   expect(shown).toEqual(["Work: held: the initiative did not go. Error: a page still names it"])
   expect(lines).toEqual([
     "[delete initiative] held: the initiative did not go. Error: a page still names it",
   ])
+})
+
+test("Alan answers the modal before the panel is told the initiative is going", async () => {
+  const order: string[] = []
+  const editor: Editor = {
+    window: {
+      showErrorMessage: () => undefined,
+      showWarningMessage: () => {
+        order.push("asked")
+        return Promise.resolve("Delete")
+      },
+    },
+  }
+  await deletingInitiative(
+    editor,
+    () => undefined,
+    {
+      intentGoing: () => undefined,
+      initiativeGoing: () => {
+        order.push("told")
+        return undefined
+      },
+      stayed: () => undefined,
+    },
+    async () => {
+      order.push("called")
+      return "held is gone"
+    }
+  )(INITIATIVE)
+
+  expect(order).toEqual(["asked", "told", "called"])
 })
 
 test("a failure is said in words naming the initiative", () => {

@@ -10,15 +10,22 @@ import { describedAs } from "../tree-description/tree-description.module.code.ts
 import {
   deletingInitiative,
   deletingIntent,
+  type IntentGone,
+  type WorkDeleteWatch,
 } from "../work-tree-deleting/work-tree-deleting.module.code.ts"
 import {
-  agreementOf,
   createWorkDragging,
-  intentLabelsIn,
-  movedLabels,
   type Ordering,
-  reorderedTo,
 } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
+import {
+  agreementOf,
+  drawnAs,
+  HOLDING_NOTHING,
+  type Holding,
+  heldMoved,
+  heldWithout,
+  intentLabelsIn,
+} from "../work-tree-holding/work-tree-holding.module.code.ts"
 import {
   DELETE_INITIATIVE_COMMAND,
   DELETE_INTENT_COMMAND,
@@ -44,7 +51,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   output = vscode.window.createOutputChannel("Ops: Work Tree")
   context.subscriptions.push(output)
 
-  const holding = new Map<string, readonly string[]>()
+  const holding = new Map<string, Holding>()
   let drawn: readonly WorkTreeRow[] = []
 
   const tree = createWorkTree(akashaRoot())
@@ -58,7 +65,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       },
       {
         moving: (order) => holdMoved(order),
-        refused: (order) => letGo(order),
+        refused: (order) => letGo(order.slug),
       }
     ),
     showCollapseAll: true,
@@ -72,9 +79,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   const settled = (roots: readonly WorkTreeRow[]): readonly WorkTreeRow[] => {
     let rows = roots
-    for (const [slug, labels] of [...holding]) {
-      if (agreementOf(intentLabelsIn(rows, slug), labels) === "stale") {
-        rows = reorderedTo(rows, { slug, labels })
+    for (const [slug, held] of [...holding]) {
+      if (agreementOf(intentLabelsIn(rows, slug), held) === "stale") {
+        rows = drawnAs(rows, slug, held)
         continue
       }
       holding.delete(slug)
@@ -126,15 +133,38 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const holdMoved = (order: Ordering): undefined => {
-    const labels = movedLabels(intentLabelsIn(drawn, order.slug), order.from, order.to)
-    if (labels === null) return undefined
-    holding.set(order.slug, labels)
+    const held = heldMoved(
+      holding.get(order.slug),
+      intentLabelsIn(drawn, order.slug),
+      order.from,
+      order.to
+    )
+    if (held === null) return undefined
+    holding.set(order.slug, held)
     return draw({ roots: drawn }, "drop")
   }
 
-  const letGo = (order: Ordering): undefined => {
-    holding.delete(order.slug)
+  const holdWithout = (one: IntentGone): undefined => {
+    const held = heldWithout(holding.get(one.slug), intentLabelsIn(drawn, one.slug), one.statement)
+    if (held === null) return undefined
+    holding.set(one.slug, held)
+    return draw({ roots: drawn }, "delete")
+  }
+
+  const holdGone = (slug: string): undefined => {
+    holding.set(slug, HOLDING_NOTHING)
+    return draw({ roots: drawn }, "delete")
+  }
+
+  const letGo = (slug: string): undefined => {
+    holding.delete(slug)
     return refresh("refused")
+  }
+
+  const deleting: WorkDeleteWatch = {
+    intentGoing: (one) => holdWithout(one),
+    initiativeGoing: (slug) => holdGone(slug),
+    stayed: (slug) => letGo(slug),
   }
 
   const said = (line: string): undefined => {
@@ -157,10 +187,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     vscode.window.registerFileDecorationProvider(createWorkDecorationProvider()),
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
     vscode.commands.registerCommand(DELETE_INTENT_COMMAND, (row?: WorkTreeRow) =>
-      deletingIntent(vscode, said)(row)
+      deletingIntent(vscode, said, deleting)(row)
     ),
     vscode.commands.registerCommand(DELETE_INITIATIVE_COMMAND, (row?: WorkTreeRow) =>
-      deletingInitiative(vscode, said)(row)
+      deletingInitiative(vscode, said, deleting)(row)
     )
   )
   return undefined

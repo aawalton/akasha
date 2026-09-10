@@ -90,6 +90,7 @@ export const editorExtension = {
     "domain/status-bar",
     "type-declaration/vscode-api",
     "module/work-tree-deleting",
+    "module/work-tree-holding",
   ],
   invariants: [
     {
