@@ -10,7 +10,8 @@ export const alanwaltonRefusedView = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The tile names why the credential was refused rather than only that it was.",
+      statement:
+        "The tile names why the credential was refused rather than only that the credential was refused.",
     },
   ],
 } as const satisfies IosComponent
