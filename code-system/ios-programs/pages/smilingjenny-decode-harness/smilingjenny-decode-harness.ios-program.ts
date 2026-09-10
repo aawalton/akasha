@@ -18,5 +18,6 @@ export const smilingjennyDecodeHarness = {
     "ios-component/spacing",
     "ios-component/surplus-ring",
     "ios-component/tier",
+    "ios-component/cost-ring",
   ],
 } as const satisfies IosProgram

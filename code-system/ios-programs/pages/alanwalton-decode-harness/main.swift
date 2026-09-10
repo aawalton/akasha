@@ -194,5 +194,81 @@ check(
     } == nil,
     "a values entry offered to the upkeep decoder")
 
+func decodeCost(_ body: Data) -> CostResponse? {
+    try? JSONDecoder().decode(CostResponse.self, from: body)
+}
+
+func decodeSurplus(_ body: Data) -> SurplusResponse? {
+    try? JSONDecoder().decode(SurplusResponse.self, from: body)
+}
+
+func costState(_ json: String) -> FeedState<CostResponse> {
+    guard let payload = decodeCost(Data(json.utf8)) else { return .neverLoaded }
+    return .loaded(payload)
+}
+
+func surplusState(_ json: String) -> FeedState<SurplusResponse> {
+    guard let payload = decodeSurplus(Data(json.utf8)) else { return .neverLoaded }
+    return .loaded(payload)
+}
+
+func costPayload(_ tier: String, _ figure: String) -> String {
+    #"{"stoplights":[{"tier":"\#(tier)","reading":"\#(figure)","label":"Cost"}]}"#
+}
+
+let costAtZero = costReading(costState(costPayload("green", "0.00")))
+check(
+    "a cost of zero is drawn rather than hidden",
+    costAtZero?.reading == "0.00" && costAtZero?.tier == .green,
+    String(describing: costAtZero))
+
+let blackCostBody = costPayload("black", "1.40")
+let costPastOne = costReading(costState(blackCostBody))
+check(
+    "a cost past one keeps its figure at black",
+    costPastOne?.reading == "1.40" && costPastOne?.tier == .black,
+    String(describing: costPastOne))
+check(
+    "the black reading the surplus tile hides is the one the cost tile draws",
+    surplusReading(surplusState(blackCostBody)) == nil && costPastOne != nil,
+    String(describing: surplusReading(surplusState(blackCostBody))))
+
+check(
+    "a cost carrying an empty figure is drawn as no signal",
+    costReading(costState(costPayload("black", ""))) == nil,
+    "an empty reading")
+
+let costWithoutFigure = #"{"stoplights":[{"tier":"green","label":"Cost"}]}"#
+check(
+    "a cost carrying no figure at all is drawn as no signal",
+    costReading(costState(costWithoutFigure)) == nil,
+    "no reading at all")
+
+check(
+    "an empty cost payload is rejected",
+    decodeCost(Data(#"{"stoplights":[]}"#.utf8)) == nil,
+    "no stoplights")
+
+check(
+    "a cost never carried in reads nothing",
+    costReading(FeedState<CostResponse>.neverLoaded) == nil,
+    "neverLoaded")
+check(
+    "a refused cost reads nothing",
+    costReading(FeedState<CostResponse>.refused) == nil,
+    "refused")
+
+let staleCost = FeedResolution.resolve(
+    outcome: .unreachable, cached: Data(#"{"stoplights":[]}"#.utf8), decode: decodeCost)
+check(
+    "a cost cache that no longer decodes is not drawn",
+    costReading(staleCost.state) == nil,
+    "neverLoaded")
+
+check(
+    "a cost caption is the label the feed sent",
+    costCaption(costState(costPayload("green", "0.00"))) == "Cost",
+    String(describing: costCaption(costState(costPayload("green", "0.00")))))
+
 print(failures == 0 ? "\nOK — \(assertions) assertions passed" : "\n\(failures) of \(assertions) assertions failed")
 exit(failures == 0 ? 0 : 1)
