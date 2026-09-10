@@ -1,4 +1,4 @@
-import type { Episode } from "../episode.page-type.ts"
+import type { Episode } from "../episode.page-type.types.ts"
 
 export const swordArtOnlineS01e09 = {
   id: "019ea442-7403-79d8-9512-3a9d5e4cb702",
