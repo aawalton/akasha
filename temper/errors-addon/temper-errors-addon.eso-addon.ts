@@ -6,7 +6,7 @@ export const temperErrorsAddon = {
   type: "eso-addon",
   slug: "temper-errors-addon",
   definition: "the add-on that records every Lua error the game raises into saved variables",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "errors-addon-entry",
   parts: [

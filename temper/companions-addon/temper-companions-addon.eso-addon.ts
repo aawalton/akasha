@@ -6,7 +6,7 @@ export const temperCompanionsAddon = {
   type: "eso-addon",
   slug: "temper-companions-addon",
   definition: "the add-on a player reads a companion's gear and skills from and aims at a build",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "companions-entry",
   bindings: "xml",

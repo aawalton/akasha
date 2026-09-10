@@ -6,7 +6,7 @@ export const temperEventsAddon = {
   type: "eso-addon",
   slug: "temper-events-addon",
   definition: "the add-on counting down world content the game gates behind a timer",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "events-addon-entry",

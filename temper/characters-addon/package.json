@@ -1,8 +1,0 @@
-{
-  "name": "@akasha/temper-characters-addon",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "@akasha/temper-companions-addon": "workspace:*"
-  }
-}

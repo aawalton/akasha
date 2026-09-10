@@ -7,7 +7,7 @@ export const temperCharactersAddon = {
   slug: "temper-characters-addon",
   definition:
     "the add-on reading each character's completion out of the game and showing what is left to do",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "characters-entry",
   bindings: "xml",

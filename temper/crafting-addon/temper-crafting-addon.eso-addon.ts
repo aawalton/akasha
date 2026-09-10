@@ -6,7 +6,7 @@ export const temperCraftingAddon = {
   type: "eso-addon",
   slug: "temper-crafting-addon",
   definition: "the add-on that answers what a character can craft, learn and study",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "crafting-entry",

@@ -313,24 +313,6 @@
         "vite": "^8.0.3",
       },
     },
-    "temper/characters-addon": {
-      "name": "@akasha/temper-characters-addon",
-      "dependencies": {
-        "@akasha/temper-companions-addon": "workspace:*",
-      },
-    },
-    "temper/companions-addon": {
-      "name": "@akasha/temper-companions-addon",
-    },
-    "temper/crafting-addon": {
-      "name": "@akasha/temper-crafting-addon",
-    },
-    "temper/errors-addon": {
-      "name": "@akasha/temper-errors-addon",
-    },
-    "temper/events-addon": {
-      "name": "@akasha/temper-events-addon",
-    },
     "temper/housing-addon": {
       "name": "@akasha/temper-housing-addon",
       "dependencies": {
@@ -502,16 +484,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
-
-    "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:temper/characters-addon"],
-
-    "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/companions-addon"],
-
-    "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/crafting-addon"],
-
-    "@akasha/temper-errors-addon": ["@akasha/temper-errors-addon@workspace:temper/errors-addon"],
-
-    "@akasha/temper-events-addon": ["@akasha/temper-events-addon@workspace:temper/events-addon"],
 
     "@akasha/temper-housing-addon": ["@akasha/temper-housing-addon@workspace:temper/housing-addon"],
 
