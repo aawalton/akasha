@@ -9,13 +9,8 @@ export const dallaDraftIntoAPatch = {
   persona: "dalla",
   intents: [
     {
-      statement: "An applied patch runs the checks and the warrants its changes call for.",
-      workingMemory:
-        "`apply-running:30` reads `writerOwesReading` off the rows it folds, so the writer owes a reading where any row folded owes one; `change-running.stamped` writes that field off each change page's own kind. The warrant runs at the draft, in `change-running.appending`, gated on that same kind. `checks` stays flat true — no row states whether the checks run, and running every check is the safe side of the constraint.\n",
-    },
-    {
       statement:
-        "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
+        "All changes outside of `akasha change` are mechanical changes made through `runMechanicalChange`.",
       workingMemory:
         "`notification-feed-rows` names the feed's files uncommitted, so the append through `page-entry-queue:47` lands on a path the repository ignores rather than a file git tracks. `queueAt`'s other caller, `transport-log`, is reached by no log path. `landedMechanically` has no caller but its own test. `restore.command:206` writes HEAD's own body back, landing no change. `repository-is-written-by-a-change` holds the rest and sees no write of anything but TypeScript.\n",
     },
@@ -23,6 +18,11 @@ export const dallaDraftIntoAPatch = {
       statement: "Every change is a patch before it is applied.",
       workingMemory:
         "Every landing road works a patch out first and reaches `applied`: `apply-running` for `change-apply`, and `runMechanicalChange` for every other program, which `subagent-presence` takes on every road of its own. No road left writes a file git tracks with neither patch nor landing; the notification feed's rows are named uncommitted now. `restore.command:206` writes HEAD's own body back, landing no change.\n",
+    },
+    {
+      statement: "A seat's logs and socket are uncommitted properties beside that seat's page.",
+      workingMemory:
+        "`.supervisors/<seat id>/` holds `oauth-proxy.log`, `oauth-proxy.sock`, `oauth-proxy.stderr.log`, `subagent-presence.log` and `supervisor.log`. `supervisor-log-path:4` names the folder, and `supervisor-console`, `supervisor-log-sweeping`, `subagent-census` and `subagent-presence` reach it. The seat page type already holds uncommitted properties, and `page-entry-landing` already names and writes their files.\n",
     },
   ],
   constraints: [
