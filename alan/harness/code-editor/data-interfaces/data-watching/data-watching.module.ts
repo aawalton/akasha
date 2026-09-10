@@ -52,6 +52,18 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "The pages a picture is made from are the pages the index names of a page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding such a page is read because the index names that page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder here is walked to find which pages exist.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A picture built out of the index says so rather than naming a file in the index.",
     },
     {

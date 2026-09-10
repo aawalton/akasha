@@ -1,6 +1,10 @@
-import { mkdirSync, readdirSync, renameSync, writeFileSync } from "node:fs"
+import { mkdirSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  everyOfType,
+  indexNamed,
+  typeSlugOf,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import {
   akashaRoot,
@@ -9,6 +13,7 @@ import {
 import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 import { seatTurnStateOf } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 import {
+  dirsOf,
   followFolders,
   followWithin,
 } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
@@ -40,10 +45,10 @@ import {
 
 const INTERFACES_AT = "alan/harness/code-editor/data-interfaces/pages"
 const SCRATCH_AT = "alan/harness/code-editor/data-interfaces"
-const SEATS_AT = "seat-system/seats/pages"
-const SUBAGENTS_AT = "seat-system/subagents/pages"
-const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
-const INITIATIVES_AT = "domains/initiatives/pages"
+const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
+const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
+const TURN_STATE_TYPE = "01a06924-e882-736f-8cac-465ef2b5d799"
+const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const SETTLE_MS = 25
@@ -73,18 +78,17 @@ function within(folder: string, ...endings: readonly string[]): (at: string) => 
   return (at) => dirname(at) === folder && endings.some((ending) => at.endsWith(ending))
 }
 
-function underOne(folder: string, ...endings: readonly string[]): (at: string) => boolean {
-  return (at) => dirname(dirname(at)) === folder && endings.some((ending) => at.endsWith(ending))
+function pagesOfType(root: string, pageType: string): readonly string[] {
+  return everyOfType(root, typeSlugOf(root, pageType)).map((one) => join(root, one.path))
 }
 
-function foldersIn(folder: string): readonly string[] {
-  try {
-    return readdirSync(folder, { withFileTypes: true })
-      .filter((one) => one.isDirectory())
-      .map((one) => join(folder, one.name))
-  } catch {
-    return []
-  }
+function foldersOf(pages: readonly string[]): readonly string[] {
+  return [...dirsOf(pages)].sort()
+}
+
+function oneOf(pages: readonly string[]): (at: string) => boolean {
+  const held = new Set(pages)
+  return (at) => held.has(at)
 }
 
 function either(...tests: readonly ((at: string) => boolean)[]): (at: string) => boolean {
@@ -116,11 +120,15 @@ function terminalTabsLine(root: string): string | null {
 }
 
 export function picturesOf(root: string): ReadonlyMap<string, Picture> {
-  const seats = join(root, SEATS_AT)
-  const seatFolders = foldersIn(seats)
-  const turnStates = join(root, TURN_STATES_AT)
-  const subagents = join(root, SUBAGENTS_AT)
-  const initiatives = join(root, INITIATIVES_AT)
+  const seatPages = pagesOfType(root, SEAT_TYPE)
+  const seatFolders = foldersOf(seatPages)
+  const seatFiles = either(oneOf(seatPages), endingWithin(seatFolders, SIDECAR))
+  const turnStatePages = pagesOfType(root, TURN_STATE_TYPE)
+  const turnStateFolders = foldersOf(turnStatePages)
+  const subagentPages = pagesOfType(root, SUBAGENT_TYPE)
+  const subagentFolders = foldersOf(subagentPages)
+  const initiativePages = pagesOfType(root, INITIATIVE_TYPE)
+  const initiativeFolders = foldersOf(initiativePages)
   const terminals = seatMarksAt(root)
   const readings = watchedFoldersIn(root)
   return new Map<string, Picture>([
@@ -128,12 +136,8 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "agent-tree",
       {
         cooldownMs: 1_000,
-        folders: [seats, ...seatFolders, turnStates, subagents],
-        holds: either(
-          underOne(seats, SIDECAR, ".seat.ts"),
-          within(turnStates, ".seat-turn-state.ts"),
-          within(subagents, ".subagent.ts")
-        ),
+        folders: [...seatFolders, ...turnStateFolders, ...subagentFolders],
+        holds: either(seatFiles, oneOf(turnStatePages), oneOf(subagentPages)),
         movesWithIndex: true,
         line: () => agentTreeLine(root),
         held: NOTHING_WRITTEN,
@@ -155,12 +159,8 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "work-tree",
       {
         cooldownMs: 1_000,
-        folders: [seats, ...seatFolders, turnStates, initiatives],
-        holds: either(
-          underOne(seats, SIDECAR, ".seat.ts"),
-          within(turnStates, ".seat-turn-state.ts"),
-          within(initiatives, ".initiative.ts")
-        ),
+        folders: [...seatFolders, ...turnStateFolders, ...initiativeFolders],
+        holds: either(seatFiles, oneOf(turnStatePages), oneOf(initiativePages)),
         movesWithIndex: true,
         line: () => workTreeLine(root),
         held: NOTHING_WRITTEN,
@@ -207,12 +207,8 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "terminal-tabs",
       {
         cooldownMs: 1_000,
-        folders: [seats, ...seatFolders, turnStates, terminals],
-        holds: either(
-          underOne(seats, SIDECAR, ".seat.ts"),
-          within(turnStates, ".seat-turn-state.ts"),
-          within(terminals, MARK_TAIL)
-        ),
+        folders: [...seatFolders, ...turnStateFolders, terminals],
+        holds: either(seatFiles, oneOf(turnStatePages), within(terminals, MARK_TAIL)),
         line: () => terminalTabsLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
