@@ -1,14 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "../store-reaching/store-reaching.module.code.ts"
 import { noNap } from "../store-reaching/store-reaching.module.test-fixtures.ts"
-import {
-  askNamed,
-  askNaming,
-  askPage,
-  askPageTypes,
-  askShape,
-  askTaking,
-} from "./store-page-asking.module.code.ts"
+import { askNaming, askPage, askPageTypes, askShape } from "./store-page-asking.module.code.ts"
 
 const LIVE_ORIGIN = "http://127.0.0.1:8787"
 
@@ -59,15 +52,6 @@ test("a page is answered with no relation resolved", async () => {
   expect(asked.outcome).toBe("found")
   if (asked.outcome !== "found") return
   expect(asked.page.relations).toEqual({})
-})
-
-test("a query asked for by name is refused", async () => {
-  const named = await askNamed("some-saved-query")
-  expect(named.ok).toBe(false)
-  if (named.ok) return
-  expect(named.why).toContain("holds no page under `page-query`")
-  const taking = await askTaking("some-saved-query", { day: "2026-08-31" })
-  expect(taking.ok).toBe(false)
 })
 
 test("the roster names no repository and no glob", async () => {

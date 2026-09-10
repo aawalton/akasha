@@ -100,9 +100,6 @@ const PAGE_TYPE = "page-type"
 
 const PROPERTY_TAIL = "-property"
 
-const NO_SAVED_QUERY_SAYS =
-  "the store answers one composed query at a time and holds no page under `page-query`, so nothing here can look up a query by name"
-
 function textAt(values: Flat, key: string): string | null {
   const held = values[key]
   return typeof held === "string" && held !== "" ? held : null
@@ -283,21 +280,4 @@ export async function askNaming(
     naming.push({ pageType, key: ask.key, rows: rows.map((values) => ({ values: { ...values } })) })
   }
   return { ok: true, naming }
-}
-
-export async function askNamed(
-  slug: string,
-  _fetcher: Fetcher = pagesFetcher(),
-  _naps: Sleeper = sleep
-): Promise<Asked> {
-  return { ok: false, why: `\`${slug}\` went unasked: ${NO_SAVED_QUERY_SAYS}` }
-}
-
-export async function askTaking(
-  slug: string,
-  _given: Given,
-  _fetcher: Fetcher = pagesFetcher(),
-  _naps: Sleeper = sleep
-): Promise<Asked> {
-  return { ok: false, why: `\`${slug}\` went unasked: ${NO_SAVED_QUERY_SAYS}` }
 }

@@ -7,12 +7,6 @@ export interface Said {
   readonly status: number
 }
 
-const SEPARATOR = "/"
-
-const UNSAFE: readonly string[] = ["", ".", ".."]
-
-const BACKSLASH = "\\"
-
 export function said(body: unknown, status: number): Said {
   return { body, status }
 }
@@ -24,19 +18,6 @@ export function givenIn(params: URLSearchParams): Given {
     given[name] = all.length === 1 ? (all[0] as string) : all
   }
   return given
-}
-
-export function namedSafely(raw: string): string | null {
-  let name: string
-  try {
-    name = decodeURIComponent(raw)
-  } catch {
-    return null
-  }
-  const unsafe = name
-    .split(SEPARATOR)
-    .some((one) => UNSAFE.includes(one) || one.includes(BACKSLASH))
-  return unsafe ? null : name
 }
 
 export function isValue(one: unknown): one is Value {

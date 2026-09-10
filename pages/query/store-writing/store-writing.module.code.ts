@@ -1,8 +1,4 @@
 import {
-  askNamed as namedAnswer,
-  askTaking as takingAnswer,
-} from "../store-page-asking/store-page-asking.module.code.ts"
-import {
   ASK_CEILING_MS,
   pagesFetcher,
   postingTo,
@@ -339,21 +335,4 @@ export async function patchPageIfMatch(
     outcome: "failed",
     why: `\`patch-if ${pageType}/${name}\` compared nothing: ${NO_RENDER_SAYS} — ${INSTEAD_SAYS}`,
   }
-}
-
-export async function askNamed(
-  slug: string,
-  fetcher: Fetcher = pagesFetcher(),
-  naps: Sleeper = sleep
-): Promise<Asked> {
-  return namedAnswer(slug, fetcher, naps)
-}
-
-export async function askTaking(
-  slug: string,
-  given: Given,
-  fetcher: Fetcher = pagesFetcher(),
-  naps: Sleeper = sleep
-): Promise<Asked> {
-  return takingAnswer(slug, given, fetcher, naps)
 }

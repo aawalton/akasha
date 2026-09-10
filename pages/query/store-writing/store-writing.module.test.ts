@@ -2,8 +2,6 @@ import { expect, test } from "bun:test"
 import type { Fetcher } from "../store-reaching/store-reaching.module.code.ts"
 import { noNap } from "../store-reaching/store-reaching.module.test-fixtures.ts"
 import {
-  askNamed,
-  askTaking,
   patchFiles,
   patchPage,
   patchPageIfMatch,
@@ -279,13 +277,4 @@ test("a page standing nowhere is not taken away", async () => {
   expect(written.ok).toBe(false)
   if (written.ok) return
   expect(written.why).toContain("no page stands at finding/nowhere")
-})
-
-test("a query asked for by name is refused", async () => {
-  const named = await askNamed("some-saved-query")
-  expect(named.ok).toBe(false)
-  if (named.ok) return
-  expect(named.why).toContain("holds no page under `page-query`")
-  const taking = await askTaking("some-saved-query", { day: "2026-08-31" })
-  expect(taking.ok).toBe(false)
 })

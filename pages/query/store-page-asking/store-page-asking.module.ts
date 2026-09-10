@@ -39,10 +39,7 @@ export const storePageAsking = {
       invariantKind: "departure",
       statement: "The pages naming a page are found by asking each page type in turn.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A query asked for by name is refused.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A live ask names a page address this repository does not move.",
