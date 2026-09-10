@@ -17,7 +17,7 @@ export const devServerStating = {
     },
     {
       invariantKind: "departure",
-      statement: "A web app stating no base port has no dev server started for it.",
+      statement: "No dev server starts for a web app stating no base port.",
     },
     {
       invariantKind: "departure",
