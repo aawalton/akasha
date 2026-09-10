@@ -194,11 +194,15 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal names each file the output blames.",
+      statement: "The output blames a file only where a failure is printed under that file's name.",
     },
     {
       invariantKind: "departure",
       statement: "A run whose output blames no file is reported against the first file named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal blaming no file says the file it names is not the file that failed.",
     },
     {
       invariantKind: "departure",

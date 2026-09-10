@@ -29,6 +29,8 @@ import {
   FAILS,
   HOLDS,
   PASSES,
+  RAN_CHATTY_CLEAN,
+  RAN_CHATTY_PASSED,
   RAN_ONE_FAILED,
   RAN_TWO_FAILED,
   READS,
@@ -304,6 +306,24 @@ test("a run whose output blames no file is reported against the first test file 
 
 test("a file the output names that the run did not name is blamed by nothing", () => {
   expect(failedIn(RAN_ONE_FAILED, [SORTED_AT])).toEqual([])
+})
+
+test("a file that printed and passed is left out while the one that failed is named", () => {
+  expect(failedIn(RAN_CHATTY_PASSED, [SORTED_AT, COUNTED_AT])).toEqual([COUNTED_AT])
+})
+
+test("a run whose files only printed blames no file at all", () => {
+  expect(failedIn(RAN_CHATTY_CLEAN, [SORTED_AT, COUNTED_AT])).toEqual([])
+})
+
+test("what the runner said after a batch ended blames no file in that batch", () => {
+  const said = `${RAN_CHATTY_CLEAN}error: regex "^held$" matched 0 tests. Searched 2 files\n`
+  expect(failedIn(said, [SORTED_AT, COUNTED_AT])).toEqual([])
+})
+
+test("a refusal blaming no file says the file it names is not the one that failed", () => {
+  const ran = ranAs("fail", { files: 2, failed: 1, passed: 12 }, RAN_CHATTY_CLEAN)
+  expect(reasonOf(ran, [SORTED_AT], [])).toContain("prints no failure under any file")
 })
 
 test("the reason names a file where it stands in the change, not in the world it ran in", () => {

@@ -119,6 +119,43 @@ Received: "2 files"
 Ran 6 tests across 2 files. [26.00ms]
 `
 
+export const RAN_CHATTY_PASSED = `bun test v1.3.14 (0d9b296a)
+utils/narrow/sorted-once/sorted-once.module.test.ts:
+[test] bind to port 4321 hit EADDRINUSE; retrying
+[test] bind to port 4321 failed after 100ms — giving up
+.........
+utils/text/counted/counted.module.test.ts:
+1 | import { expect, test } from "bun:test"
+2 | import { counted } from "./counted.module.code.ts"
+3 | 
+4 | test("a count of one is said with the singular", () => {
+5 |   expect(counted(1, "file")).toBe("1 fileish")
+                                 ^
+error: expect(received).toBe(expected)
+Expected: "1 fileish"
+Received: "1 file"
+      at <anonymous> (utils/text/counted/counted.module.test.ts:5:30)
+(fail) a count of one is said with the singular [0.12ms]
+...
+12 pass
+1 fail
+13 expect() calls
+Ran 13 tests across 2 files. [31.00ms]
+`
+
+export const RAN_CHATTY_CLEAN = `bun test v1.3.14 (0d9b296a)
+utils/narrow/sorted-once/sorted-once.module.test.ts:
+[test] bind to port 4321 hit EADDRINUSE; retrying
+.........
+utils/text/counted/counted.module.test.ts:
+[forward-test] upstream-idle-timeout acct /v1/messages idleMs=5000
+....
+13 pass
+0 fail
+13 expect() calls
+Ran 13 tests across 2 files. [31.00ms]
+`
+
 export function withoutGuard<T>(run: () => T): T {
   const held = process.env[RUNNING]
   delete process.env[RUNNING]
