@@ -1,4 +1,4 @@
-import type { GameAchievement } from "../game-achievement.page-type.ts"
+import type { GameAchievement } from "../game-achievement.page-type.types.ts"
 
 export const projectEuler = {
   id: "01a06808-8818-700c-bbd4-3ff7aadd7f6e",

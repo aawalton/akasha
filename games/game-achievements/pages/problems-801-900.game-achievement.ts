@@ -1,4 +1,4 @@
-import type { GameAchievement } from "../game-achievement.page-type.ts"
+import type { GameAchievement } from "../game-achievement.page-type.types.ts"
 
 export const problems801900 = {
   id: "01a06808-8818-700a-9d13-b68b3f38bf74",

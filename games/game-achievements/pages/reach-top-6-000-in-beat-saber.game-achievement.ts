@@ -1,4 +1,4 @@
-import type { GameAchievement } from "../game-achievement.page-type.ts"
+import type { GameAchievement } from "../game-achievement.page-type.types.ts"
 
 export const reachTop6000InBeatSaber = {
   id: "01a06808-8818-7015-92ac-09b1cca89753",

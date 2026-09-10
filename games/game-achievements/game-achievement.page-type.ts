@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-
-export type GameAchievement = CollectionExternal & {
-  title: Title
-}
 
 export const gameAchievement = {
   id: "01a06807-be66-7009-aef9-4834eb342f4f",
@@ -15,4 +9,5 @@ export const gameAchievement = {
   pluralSlug: "game-achievements",
   extends: ["page-type/collection-external"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  types: "ts",
 } as const satisfies PageType
