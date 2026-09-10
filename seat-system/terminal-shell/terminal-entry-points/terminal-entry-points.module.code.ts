@@ -2,7 +2,7 @@ import {
   PTY_PROXY_REL,
   SEAT_RESUME_REL,
   SUPERVISOR_REL,
-} from "../../seat-launching/seat-launching.module.code.ts"
+} from "../../seat-entry-paths/seat-entry-paths.module.code.ts"
 
 export const ROOT = "${AKASHA_ROOT:-$HOME/repos/akasha}"
 

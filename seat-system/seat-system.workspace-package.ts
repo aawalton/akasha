@@ -120,6 +120,7 @@ export const seatSystem = {
     "module/seat-attached",
     "module/seat-answering",
     "module/seat-children",
+    "module/seat-entry-paths",
     "module/seat-launching",
     "module/seat-modes",
     "module/seat-name-claim",

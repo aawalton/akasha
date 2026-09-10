@@ -28,7 +28,7 @@ export const terminalEntryPoints = {
     {
       invariantKind: "departure",
       statement:
-        "The supervisor and the pty proxy are spelled from the paths seat-launching holds.",
+        "The supervisor and the pty proxy are spelled from the paths seat-entry-paths holds.",
     },
     {
       invariantKind: "departure",

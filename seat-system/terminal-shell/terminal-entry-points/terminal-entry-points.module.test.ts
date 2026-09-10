@@ -3,7 +3,7 @@ import {
   PTY_PROXY_REL,
   SEAT_RESUME_REL,
   SUPERVISOR_REL,
-} from "../../seat-launching/seat-launching.module.code.ts"
+} from "../../seat-entry-paths/seat-entry-paths.module.code.ts"
 import {
   AKASHA,
   PROXY,
@@ -25,11 +25,11 @@ describe("the checkout", () => {
 })
 
 describe("what a seat comes up under", () => {
-  test("is spelled from the supervisor path seat-launching holds", () => {
+  test("is spelled from the supervisor path seat-entry-paths holds", () => {
     expect(SUPERVISOR).toBe(`"$_root/${SUPERVISOR_REL}"`)
   })
 
-  test("is spelled from the pty proxy path seat-launching holds", () => {
+  test("is spelled from the pty proxy path seat-entry-paths holds", () => {
     expect(PROXY).toBe(`"$_root/${PTY_PROXY_REL}"`)
   })
 
