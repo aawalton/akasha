@@ -6,7 +6,7 @@ export const temperAntiquitiesAddon = {
   type: "eso-addon",
   slug: "temper-antiquities-addon",
   definition: "the add-on browsing antiquity leads and reporting where each one is found",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "antiquities-addon-entry",

@@ -313,9 +313,6 @@
         "vite": "^8.0.3",
       },
     },
-    "temper/antiquities-addon": {
-      "name": "@akasha/temper-antiquities-addon",
-    },
     "temper/capture-datamining-addon": {
       "name": "@akasha/temper-capture-datamining-addon",
     },
@@ -520,8 +517,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
-
-    "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
 
