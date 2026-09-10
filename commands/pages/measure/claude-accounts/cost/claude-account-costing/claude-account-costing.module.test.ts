@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../../../../modules/scratching/scratching.module.code.ts"
 import {
   costOf,

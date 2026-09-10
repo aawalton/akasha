@@ -1,5 +1,10 @@
 import { expect, test } from "bun:test"
-import { ARRIVES, CODE, HOLDER, TARGET } from "@akasha/testing-system/page-holding"
+import {
+  ARRIVES,
+  CODE,
+  HOLDER,
+  TARGET,
+} from "akasha/testing-system/page-holding/page-holding.module.code.ts"
 import { gathered } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"

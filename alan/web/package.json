@@ -74,7 +74,6 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@akasha/testing-system": "workspace:*",
     "@radix-ui/react-accordion": "*",
     "@radix-ui/react-alert-dialog": "*",
     "@radix-ui/react-avatar": "*",

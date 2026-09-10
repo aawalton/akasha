@@ -5,8 +5,8 @@ import type { Ran } from "@akasha/code/code-tests"
 import { RUNNING } from "@akasha/code/code-tests"
 import { noPathsFiled, pathFiled, repoAt } from "@akasha/indexes/testing"
 import { shadowAsked, shadowAt } from "@akasha/pages/shadow"
-import { bytesOf } from "@akasha/testing-system/bodying"
-import { typingUnder } from "@akasha/testing-system/declaring"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { typingUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   change,

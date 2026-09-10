@@ -1,5 +1,5 @@
 import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import type { CheckCost, Chosen, Costs } from "./check-measuring.module.code.ts"
 
 const ENTRIES = "entries"

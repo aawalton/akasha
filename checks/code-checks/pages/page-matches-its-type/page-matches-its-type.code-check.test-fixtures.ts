@@ -3,7 +3,7 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import type { Value } from "@akasha/pages/page-value"
 import { type Shadow, shadowAt } from "@akasha/pages/shadow"
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 
 export const FORMAT = "all-lower"
 

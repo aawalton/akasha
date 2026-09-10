@@ -1,13 +1,13 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import { bytesOf } from "@akasha/testing-system/bodying"
-import { mintedId } from "@akasha/testing-system/minting"
 import { said as saying } from "@akasha/utils/run/running"
 import {
   realAt,
   SEEDED_AT,
 } from "akasha/context/modules/warranting/warranting.module.test-fixtures.ts"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import type { Reading } from "../../modules/reading/reading.module.code.ts"
 import { blobIdOf, partly, readingIn } from "../../modules/reading/reading.module.code.ts"

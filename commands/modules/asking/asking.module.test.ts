@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { REFUSES_CODE } from "@akasha/testing-system/minting"
-import { put } from "@akasha/testing-system/putting"
+import { REFUSES_CODE } from "akasha/testing-system/minting/minting.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
 import { landingAsked } from "./asking.module.code.ts"
 import {

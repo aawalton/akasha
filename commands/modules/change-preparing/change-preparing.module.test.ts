@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { bytesOf } from "@akasha/testing-system/bodying"
-import { put } from "@akasha/testing-system/putting"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { applied } from "../applying/applying.module.code.ts"
 import {
   AGENT,

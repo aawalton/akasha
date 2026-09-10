@@ -1,4 +1,4 @@
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { agoOf, HOUR } from "../../checks/check-measuring/check-measuring.module.test-fixtures.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30d10"

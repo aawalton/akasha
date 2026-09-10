@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { bodiesAt } from "@akasha/testing-system/bodying"
+import { bodiesAt } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import {
   found as finding,
   judgedAt as judging,

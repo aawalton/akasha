@@ -5,7 +5,7 @@ export const aTestFileOverItsProcessorBudgetRefusesEveryLandingThatTouchesIt = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-test-file-over-its-processor-budget-refuses-every-landing-that-touches-it",
-  domain: "workspace-package/testing-system",
+  domain: "domain/testing-system",
   claim:
     "A test file already over its processor budget refuses every landing that touches it, so the file cannot be mended by the landing that would mend it. The budget is read only when a landing carries that file, so a file drifts over the budget with nothing saying so until someone is barred. The refusal names the file rather than the debt, so whoever arrives next reads the cost as their own and shortens what they wrote.",
   evidence:

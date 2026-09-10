@@ -1,7 +1,7 @@
 import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
-import { declaringUnder } from "@akasha/testing-system/declaring"
+import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import {
   keptAt,
   scratchWorld,

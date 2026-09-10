@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import {
   bodyOf,
   LOG_AT,

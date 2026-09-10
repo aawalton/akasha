@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { everythingFiled } from "@akasha/indexes/testing"
-import { bytesOf } from "@akasha/testing-system/bodying"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { landing } from "../landing/landing.module.code.ts"
 import {

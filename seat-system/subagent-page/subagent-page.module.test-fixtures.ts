@@ -7,7 +7,7 @@ import {
   valueTakenFrom,
 } from "@akasha/indexes/testing"
 import { valueAt } from "@akasha/pages/page-value"
-import { declaringUnder } from "@akasha/testing-system/declaring"
+import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "../../git/git-running/git-running.module.code.ts"
 import { said as outOf } from "../../utils/run/running/running.module.code.ts"

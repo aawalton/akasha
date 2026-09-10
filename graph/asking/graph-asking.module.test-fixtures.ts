@@ -1,5 +1,5 @@
 import { linesFiled } from "@akasha/indexes/testing"
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 
 const GRAPH_EDGE = "graph-edge"

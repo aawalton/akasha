@@ -3,7 +3,7 @@ import { dirname, join } from "node:path"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import { exportedAs } from "@akasha/pages/page-export-name"
-import { declaringUnder } from "@akasha/testing-system/declaring"
+import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import {
   keptAt,
   scratchWorld,

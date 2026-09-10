@@ -8,8 +8,8 @@ import {
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages/page-export-name"
-import { mintedId } from "@akasha/testing-system/minting"
 import { dataAt } from "akasha/file-system/data-place/data-place.module.code.ts"
+import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import { recordRead, SUBAGENT_MARK } from "../../../commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"

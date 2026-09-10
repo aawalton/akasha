@@ -11,7 +11,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import type { Reading } from "@akasha/indexes/shape"
 import { rebuiltIn } from "@akasha/indexes/testing"
-import { put, there } from "@akasha/testing-system/putting"
+import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "../change/change.module.code.ts"
 import { type Cast, shadowFor } from "./shadow.module.code.ts"

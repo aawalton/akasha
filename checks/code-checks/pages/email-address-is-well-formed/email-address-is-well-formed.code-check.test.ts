@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { shadowFor } from "@akasha/pages/shadow"
-import { bytesOf } from "@akasha/testing-system/bodying"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {

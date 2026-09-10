@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import type { Given } from "../calling/calling.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
 import { TERMINAL } from "../piping/piping.module.test-fixtures.ts"

@@ -1,14 +1,19 @@
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
-import { bytesOf as bytes } from "@akasha/testing-system/bodying"
-import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
-import { put } from "@akasha/testing-system/putting"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/context/modules/warranting/warranting.module.test-fixtures.ts"
+import { bytesOf as bytes } from "akasha/testing-system/bodying/bodying.module.code.ts"
+import {
+  ADMITS_CODE,
+  MINTED,
+  mintedId,
+  minting,
+} from "akasha/testing-system/minting/minting.module.code.ts"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
 import { folding } from "../apply-running/apply-running.module.code.ts"
 import { applying as applyingPatch } from "../applying/applying.module.code.ts"

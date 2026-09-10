@@ -3,7 +3,7 @@ import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { noPathsFiled, pathFiled } from "@akasha/indexes/testing"
 import { shadowAt } from "@akasha/pages/shadow"
-import { bytesOf } from "@akasha/testing-system/bodying"
+import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   change,

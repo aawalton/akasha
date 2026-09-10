@@ -24,7 +24,7 @@ export const akasha = {
     "page-type/command",
     "domain/hook-system",
     "domain/editor-extension",
-    "workspace-package/testing-system",
+    "domain/testing-system",
     "domain/verdict",
     "workspace-package/seat-system",
     "domain/persona",

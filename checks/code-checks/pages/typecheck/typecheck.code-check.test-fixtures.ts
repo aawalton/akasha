@@ -10,8 +10,8 @@ import {
   schemaFiled,
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
-import { put, there } from "@akasha/testing-system/putting"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
+import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"

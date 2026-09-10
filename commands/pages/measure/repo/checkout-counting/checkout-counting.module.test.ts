@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { symlinkSync } from "node:fs"
 import { join } from "node:path"
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { said as git } from "../../../../../git/git-running/git-running.module.code.ts"
 import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import { columnsOf, linesAt, linesIn, madeBy, pathsIn } from "./checkout-counting.module.code.ts"

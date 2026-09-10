@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const testingSystem = {
   id: "01a04ee7-be05-75c4-ba3c-3fd73f943961",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "testing-system",
   definition: "what a test sets up to try something, and what it takes away after",
-  manifest: "json",
   parts: [
     "domain/test",
     "domain/test-fixture",
@@ -61,4 +60,4 @@ export const testingSystem = {
       statement: "A fixture proving itself proves nothing about the system.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -55,7 +55,8 @@
     "@akasha/pages-ui": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "sonner": "^2.0.7",
-    "@akasha/testing-system": "workspace:*"
+    "@happy-dom/global-registrator": "^20.8.3",
+    "@testing-library/react": "^16.3.2"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"

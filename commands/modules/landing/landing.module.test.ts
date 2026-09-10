@@ -10,7 +10,7 @@ import {
   idFiledIn,
   listedFiledIn,
 } from "@akasha/indexes/testing"
-import { everyFileUnder } from "@akasha/testing-system/walking"
+import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"

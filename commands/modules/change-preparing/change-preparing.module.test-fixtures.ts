@@ -1,6 +1,6 @@
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { ADMITS_AT, REPO_AT, repoWith } from "../asking/asking.module.test-fixtures.ts"
 
 const MODULES = "node_modules"

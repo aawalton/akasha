@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { REFUSES_CODE } from "@akasha/testing-system/minting"
+import { REFUSES_CODE } from "akasha/testing-system/minting/minting.module.code.ts"
 import { landingAsked, MECHANICAL, NO_CHECKS } from "../asking/asking.module.code.ts"
 import {
   asking,

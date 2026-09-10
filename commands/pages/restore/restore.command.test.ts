@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { put } from "@akasha/testing-system/putting"
+import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
 import type { Given } from "../../modules/calling/calling.module.code.ts"
 import { scratchWorld } from "../../modules/scratching/scratching.module.code.ts"

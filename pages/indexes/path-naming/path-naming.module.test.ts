@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { HELD, THREE } from "@akasha/testing-system/page-holding"
+import { HELD, THREE } from "akasha/testing-system/page-holding/page-holding.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { heldIndexedAt } from "../reading/index-reading.module.test-fixtures.ts"
 import { importingOf, namingOf, spellingOf } from "./path-naming.module.code.ts"
