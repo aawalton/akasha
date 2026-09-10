@@ -20,7 +20,7 @@ export function refuseALiveTestWriteIn(
   roots: Readonly<Record<string, string | undefined>>,
   what: string,
   route: string
-): void {
+): undefined {
   if (!inATestRun()) return
   for (const [key, root] of Object.entries(roots)) {
     if (key === "target" || root === undefined) continue
@@ -28,7 +28,7 @@ export function refuseALiveTestWriteIn(
   }
 }
 
-export function refuseALiveTestWrite(root: string, what: string, route: string): void {
+export function refuseALiveTestWrite(root: string, what: string, route: string): undefined {
   if (!inATestRun()) return
   const repo = liveCheckoutAt(root)
   if (repo === null) return

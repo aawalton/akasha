@@ -45,7 +45,7 @@ function fileFor(root: string): string {
   )
 }
 
-export function writeJournal(one: Journal): void {
+export function writeJournal(one: Journal): undefined {
   mkdirSync(journalDir(), { recursive: true })
   const path = fileFor(one.root)
   const staging = `${path}.${process.pid}.staging`
@@ -53,7 +53,7 @@ export function writeJournal(one: Journal): void {
   renameSync(staging, path)
 }
 
-export function clearJournal(root: string): void {
+export function clearJournal(root: string): undefined {
   try {
     rmSync(fileFor(root))
   } catch {}

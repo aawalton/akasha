@@ -9,11 +9,11 @@ interface HeldAnswer {
 
 const held = new Map<string, HeldAnswer>()
 
-export function holdAnswers(ttlMs: number): void {
+export function holdAnswers(ttlMs: number): undefined {
   answerTtlMs = ttlMs
 }
 
-export function dropAnswers(): void {
+export function dropAnswers(): undefined {
   held.clear()
 }
 
