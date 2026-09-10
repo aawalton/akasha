@@ -44,7 +44,8 @@ export const workspaceDirs = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry no glob grammar reads breaks every caller at once rather than one.",
+      statement:
+        "An entry no glob grammar reads breaks every caller at once rather than one caller.",
     },
   ],
 } as const satisfies Module
