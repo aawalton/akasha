@@ -179,11 +179,15 @@ test("a figure is floored rather than rounded", () => {
   expect(readingSaid(-1.5)).toBe("-1.5")
 })
 
-test("a figure carries two significant figures at least", () => {
-  expect(readingSaid(0.10708000000000002)).toBe("0.10")
-  expect(readingSaid(-0.008333333333334636)).toBe("-0.0084")
+test("a figure carries one decimal place at most", () => {
+  expect(readingSaid(0.10708000000000002)).toBe("0.1")
+  expect(readingSaid(0.005965000000000001)).toBe("0.0")
   expect(placesFor(7.58)).toBe(1)
-  expect(placesFor(0.107)).toBe(2)
+  expect(placesFor(0.107)).toBe(1)
+})
+
+test("a figure too small to reach a place keeps the sign it fell from", () => {
+  expect(readingSaid(-0.008333333333334636)).toBe("-0.1")
 })
 
 test("a figure reaching ten is written whole", () => {

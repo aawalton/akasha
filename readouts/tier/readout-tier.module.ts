@@ -124,7 +124,7 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
-      statement: "A figure has two significant figures at least.",
+      statement: "A figure has one decimal place at most.",
     },
     {
       invariantKind: "departure",

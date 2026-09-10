@@ -22,9 +22,7 @@ const RUNGS: readonly (readonly [string, TierColor])[] = [
   ["blueAt", "blue"],
 ]
 
-export const LEAST_FIGURES = 2
-
-export const MOST_PLACES = 20
+export const MOST_PLACES = 1
 
 export function statedAt(value: unknown): number | null {
   if (typeof value === "number") return Number.isFinite(value) ? value : null
@@ -127,13 +125,7 @@ export function withoutSignedZero(said: number): number {
 export function placesFor(reading: number): number {
   const size = Math.abs(reading)
   if (size === 0 || size >= 10) return 0
-  let places = 0
-  let scaled = size
-  while (scaled < 1 && places < MOST_PLACES) {
-    scaled *= 10
-    places += 1
-  }
-  return places + LEAST_FIGURES - 1
+  return MOST_PLACES
 }
 
 export function readingSaid(reading: number): string {
