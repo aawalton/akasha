@@ -8,7 +8,7 @@ import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/supervisor-
 import { wireSessionRotatedWatcher } from "akasha/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
-import { liveDeferredRestartRule } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { LIVE_DEFERRED_RESTART_RULE } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { startPreCliffRestartMonitor } from "akasha/seat-system/supervising/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
 import { askPreCliffRestart } from "akasha/seat-system/supervising/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
 import type { ClearRebindHooks } from "akasha/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts"
@@ -53,7 +53,7 @@ export async function wireIteration(args: {
   const { proc, agentIdHandle, proxy } = args
   const actionSubsystem = buildAgentActionSubsystem({
     idleRule: LIVE_IDLE_RULE,
-    deferredRestartRule: liveDeferredRestartRule,
+    deferredRestartRule: LIVE_DEFERRED_RESTART_RULE,
     killProc: () => proc.kill("SIGTERM"),
     getClaudePid: () => proc.pid,
     getAgentId: () => agentIdHandle.id,
@@ -72,7 +72,8 @@ export async function wireIteration(args: {
   })
   const { handleAgentAction, pendingEvent, deferredRestart } = actionSubsystem
 
-  const { value: cliffConstants, notice: cliffNotice } = await liveDeferredRestartRule.constants()
+  const { value: cliffConstants, notice: cliffNotice } =
+    await LIVE_DEFERRED_RESTART_RULE.constants()
   if (cliffConstants === null)
     console.log(
       `${LOG} pre-cliff: monitor NOT started this iteration — the cliff age could not be ` +

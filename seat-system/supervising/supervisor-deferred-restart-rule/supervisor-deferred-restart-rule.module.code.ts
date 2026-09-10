@@ -147,7 +147,7 @@ export function askWindows(
   )
 }
 
-export const liveDeferredRestartRule: DeferredRestartRuleSource = {
+export const LIVE_DEFERRED_RESTART_RULE: DeferredRestartRuleSource = {
   constants: () => askConstants(),
   decide: (state, obs, config) => askDecide(state, obs, config),
   windows: (raw) => askWindows(raw),

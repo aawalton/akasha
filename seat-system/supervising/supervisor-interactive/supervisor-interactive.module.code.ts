@@ -5,7 +5,7 @@ import {
   SEAT_START_DIR,
 } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
-import { liveDeferredRestartRule } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { LIVE_DEFERRED_RESTART_RULE } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { buildLoopState } from "akasha/seat-system/supervising/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import type { CarriedAgentName } from "akasha/seat-system/supervising/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import { isShuttingDown } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
@@ -66,7 +66,7 @@ export async function runInteractive(
     getClaudePid: () => agentProc?.proc?.pid ?? null,
     getProxyPort: () => proxy.port,
     selfHealJitterRule: askReExecJitterMs,
-    deferredRestartRule: liveDeferredRestartRule,
+    deferredRestartRule: LIVE_DEFERRED_RESTART_RULE,
   })
 
   let agentId: string | null = boot.agentId
