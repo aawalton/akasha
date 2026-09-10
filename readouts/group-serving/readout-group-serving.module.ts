@@ -74,7 +74,8 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller handing in nothing has each reading read from the values the relay has.",
+      statement:
+        "A caller handing in nothing has the relay's reading read first and the row's reading second.",
     },
     {
       invariantKind: "departure",
@@ -229,6 +230,11 @@ export const readoutGroupServing = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a person or a device.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading answered as too old is one the relay or the row holds too old, with neither fresh.",
     },
   ],
 } as const satisfies Module

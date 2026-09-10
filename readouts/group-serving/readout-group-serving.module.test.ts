@@ -295,10 +295,47 @@ test("where each reading is read from is handed in rather than settled here", as
   expect(carried[0]?.readingHeld).toBeUndefined()
 })
 
-test("a caller handing in nothing has each reading read from what the relay holds", async () => {
-  ANSWERED.readouts = [{ ...READOUT_ROW, lastValue: 2.5, lastValueAt: new Date().toISOString() }]
-  const relayed = await stoplightsInGroup(GROUP)
-  expect(relayed[0]?.readingHeld).toBe("none")
+const rowReading = (value: number, at: Date = new Date()) => [
+  { ...READOUT_ROW, lastValue: value, lastValueAt: at.toISOString() },
+]
+
+test("a caller handing in nothing has the reading the relay holds read first", async () => {
+  ANSWERED.readouts = rowReading(2.5)
+  relayedFor(READOUT, 5)
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("5")
+  expect(one?.tier).toBe("blue")
+})
+
+test("a caller handing in nothing has the row's own reading read where the relay holds none", async () => {
+  ANSWERED.readouts = rowReading(2.5)
+  const drawnFromTheRow = await stoplightsInGroup(GROUP)
+  expect(drawnFromTheRow[0]?.reading).toBe("2.5")
+  expect(drawnFromTheRow[0]?.tier).toBe("yellow")
+  expect(drawnFromTheRow[0]?.readingHeld).toBeUndefined()
+})
+
+test("a reading on neither the relay nor the row is answered as never taken", async () => {
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("")
+  expect(one?.tier).toBe("black")
+  expect(one?.readingHeld).toBe("none")
+})
+
+test("a reading on the row older than the window is answered as too old", async () => {
+  ANSWERED.readouts = rowReading(2.5, agedOut())
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("")
+  expect(one?.tier).toBe("black")
+  expect(one?.readingHeld).toBe("stale")
+})
+
+test("a reading too old on the relay gives way to a fresh reading on the row", async () => {
+  ANSWERED.readouts = rowReading(2.5)
+  relayedFor(READOUT, 3, agedOut())
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("2.5")
+  expect(one?.readingHeld).toBeUndefined()
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {

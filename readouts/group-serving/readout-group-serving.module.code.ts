@@ -6,6 +6,7 @@ import {
   noReading,
   type RingAdmission,
   readingHeldFor,
+  readingHeldOn,
 } from "../serving/readout-serving.module.code.ts"
 import {
   BELOW_EVERY_RUNG,
@@ -45,7 +46,11 @@ export type Values = Readonly<Record<string, unknown>>
 export type ReadingHeld = (row: Values) => HeldReading
 
 export function relayedReading(row: Values): HeldReading {
-  return readingHeldFor(stated(row.slug) ?? "")
+  const relayed = readingHeldFor(stated(row.slug) ?? "")
+  if (relayed.held === "fresh") return relayed
+  const carried = readingHeldOn(row)
+  if (carried.held === "fresh") return carried
+  return relayed.held === "none" ? carried : relayed
 }
 
 export function inPlaceOrder(rows: readonly Values[]): readonly Values[] {
