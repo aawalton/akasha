@@ -84,6 +84,15 @@ export const claudeAccountCredentialFile = {
     },
     {
       invariantKind: "departure",
+      statement: "The watch asks the file system every three seconds whether the file moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file that cannot be read or parsed, or that names no expiry, reads as no expiry.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A write the watch made itself is not pushed back to the page.",
     },
     {

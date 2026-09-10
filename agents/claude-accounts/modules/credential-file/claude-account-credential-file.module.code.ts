@@ -26,25 +26,18 @@ import {
   type SecretsRead,
 } from "../reading/claude-account-reading.module.code.ts"
 
-/** The name a signed-in agent reads its credential from, inside the directory it is given. */
 export const CREDENTIAL_FILE_NAME = ".credentials.json"
 
-/** The file is readable by its owner and by nobody else. */
 const CREDENTIAL_FILE_MODE = 0o600
 
-/** How often the watch asks the file system whether the file moved. */
 const WATCH_POLL_MS = 3_000
 
-/** How long a run of writes settles before one push is made of it. */
 const PUSH_DEBOUNCE_MS = 2_000
 
-/** The mtime representing "this watch has pushed nothing yet". */
 const NO_MTIME_PUSHED = 0
 
-/** The expiry a file that says nothing is read as. */
 const NO_EXPIRY = 0
 
-/** The prefix a caller that names none gets on its lines. */
 const DEFAULT_LOG_PREFIX = "[oauth]"
 
 export const CREDENTIAL_FILE_SHAPE = z.looseObject({
@@ -74,7 +67,6 @@ function credentialPathIn(dir: string): string {
   return join(dir, CREDENTIAL_FILE_NAME)
 }
 
-/** The file's text, or null where nothing readable is at the path. */
 function rawFileIn(dir: string): string | null {
   try {
     return readFileSync(credentialPathIn(dir), "utf-8")
@@ -83,7 +75,6 @@ function rawFileIn(dir: string): string | null {
   }
 }
 
-/** The expiry the file names, or `NO_EXPIRY` where it is unreadable, malformed or silent. */
 function expiryIn(dir: string): number {
   const raw = rawFileIn(dir)
   if (raw === null) return NO_EXPIRY
