@@ -44,6 +44,7 @@ type Built = {
   readonly bundle: string
   readonly bytes: number
   readonly errors: readonly string[]
+  readonly said: readonly string[]
   readonly code: number
 }
 
@@ -107,18 +108,26 @@ function compiled(
 ): Built {
   const answered = ran(compilerCommand(compiler, config), { cwd: root, timeout: left })
   const lines = `${answered.out}\n${answered.err}`.split("\n").map((one) => one.trim())
+  const said = lines.filter((one) => one.length > 0)
   return {
     name,
     bundle,
     bytes: bytesAt(bundle),
-    errors: lines.filter((one) => one.includes(SAYS_ERROR)),
+    errors: said.filter((one) => one.includes(SAYS_ERROR)),
+    said,
     code: answered.code,
   }
 }
 
+function countOf(one: Built): string {
+  if (one.errors.length > 0) return `${String(one.errors.length)} error(s)`
+  if (one.code === 0) return "no error"
+  return "no line a report reads as an error, so what the compiler said is above"
+}
+
 function lineOf(one: Built): string {
-  const held = one.code === 0 ? "written" : "emitted despite the errors"
-  return `${one.name}: exit ${String(one.code)}, ${String(one.errors.length)} error(s), ${String(one.bytes)} byte(s) ${held} at ${one.bundle}`
+  const held = one.code === 0 ? "written" : "emitted despite the failure"
+  return `${one.name}: exit ${String(one.code)}, ${countOf(one)}, ${String(one.bytes)} byte(s) ${held} at ${one.bundle}`
 }
 
 function reportOf(all: readonly Built[], root: string, compiler: string): readonly string[] {
@@ -247,8 +256,9 @@ export async function temperAddonBuild(argv: readonly string[] = []): Promise<An
     )
     built.push(one)
     if (one.code !== 0) {
+      const told = one.errors.length > 0 ? one.errors : one.said
       return {
-        report: [...one.errors, ...reportOf(built, root, compiler)],
+        report: [...told, ...reportOf(built, root, compiler)],
         refusals: [
           `${one.name} did not compile (exit ${String(one.code)}), so the addons after it were left unbuilt`,
         ],

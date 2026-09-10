@@ -27,6 +27,7 @@ export const temperAddonBuild = {
     "`--watch` takes one addon, copies nothing and installs nothing, so `--all` and `--build-only` are refused beside it.",
     "an addon folder holding no `tsconfig.json` has one written into `dist/.lua-compiler/` from the bundle entry its page names.",
     "the answer says how many bytes of Lua each addon left, because a compiler writing nothing and a compiler finding nothing wrong read alike.",
+    "a compile failing with no line the answer reads as an error is answered with every line the compiler wrote, because a filter matching nothing reads as a clean build.",
     "installing waits on `temper-addon-install`, so `--build-only` is said or the call is refused before anything compiles.",
     "the addon's build output is emptied before the compiler runs, and the metadata is written back once the Lua is there.",
     "the whole run is bounded at an hour, and a run reaching that bound refuses with what it was compiling.",
@@ -60,6 +61,10 @@ export const temperAddonBuild = {
     {
       invariantKind: "departure",
       statement: "The first addon that does not compile ends the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A compile that fails is answered with what the compiler said about the failure.",
     },
     {
       invariantKind: "departure",
