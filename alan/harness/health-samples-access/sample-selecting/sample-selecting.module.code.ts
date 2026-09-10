@@ -1,6 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { z } from "zod"
 import { instantMs } from "../sample-identity/sample-identity.module.code.ts"
 import { ANCHOR_PAGE_TYPE, ROW_CEILING, recordOf } from "../sample-rows/sample-rows.module.code.ts"
 import type { HealthMetric, HealthSampleRecord } from "../sample-shape/sample-shape.module.code.ts"
@@ -14,6 +15,8 @@ export const DAY_SLUG_PREFIX = "day-"
 const HELD = "jsonl"
 
 const DAY_MS = 86400000
+
+const SAMPLE_ROW = z.record(z.string(), z.unknown())
 
 export function checkoutRoot(): string {
   const roots = resolveRoots()
@@ -64,13 +67,13 @@ export async function selectHealthSamples(args: {
     for (const line of readFileSync(path, "utf8").split("\n")) {
       const text = line.trim()
       if (text === "") continue
-      let values: unknown
+      let values: Readonly<Record<string, unknown>>
       try {
-        values = JSON.parse(text)
+        values = SAMPLE_ROW.parse(JSON.parse(text))
       } catch {
-        throw new Error(`selectHealthSamples: ${path} carries a line that is not JSON`)
+        throw new Error(`selectHealthSamples: ${path} carries a line that is no JSON object`)
       }
-      const held = recordOf(values as Readonly<Record<string, unknown>>)
+      const held = recordOf(values)
       if (held === null || held.metric !== args.metric) continue
       const startedMs = instantMs(held.startedAt)
       if (startedMs < fromMs || startedMs >= toMs) continue
