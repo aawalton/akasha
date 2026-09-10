@@ -61,6 +61,14 @@ export function commandIn(raw: string, key: string, hook: string): Read {
   return { command: held }
 }
 
+const REFUSAL_SHAPE = z.object({ decision: z.literal("block"), reason: z.string() })
+
+export type Refusal = { readonly decision: "block"; readonly reason: string }
+
+export function parseRefusal(raw: string): Refusal {
+  return REFUSAL_SHAPE.parse(JSON.parse(raw))
+}
+
 export function refusing(reason: string): Answer {
   return {
     out: JSON.stringify({ decision: "block", reason }, null, 2),
