@@ -1,6 +1,6 @@
 import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { PointsSourceAggregate } from "./properties/points-source-aggregate.select-property.ts"
-import type { PointsSourceKind } from "./properties/points-source-kind.text-property.ts"
+import type { PointsSourceKind } from "./properties/points-source-kind.select-property.ts"
 import type { PointsSourceMarker } from "./properties/points-source-marker.text-property.ts"
 import type { PointsSourcePathPrefix } from "./properties/points-source-path-prefix.text-property.ts"
 import type { PointsSourcePointField } from "./properties/points-source-point-field.text-property.ts"

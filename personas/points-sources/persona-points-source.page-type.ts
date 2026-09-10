@@ -10,7 +10,7 @@ export const personaPointsSource = {
   extends: ["page-type/domain"],
   parts: [
     "relation-property/source-persona",
-    "text-property/points-source-kind",
+    "select-property/points-source-kind",
     "text-property/points-source-marker",
     "select-property/points-source-aggregate",
     "text-property/points-source-path-prefix",
@@ -20,7 +20,7 @@ export const personaPointsSource = {
   ],
   properties: [
     { pageProperty: "relation-property/source-persona", required: true, many: false },
-    { pageProperty: "text-property/points-source-kind", required: true, many: false },
+    { pageProperty: "select-property/points-source-kind", required: true, many: false },
     { pageProperty: "text-property/points-source-marker", required: false, many: false },
     { pageProperty: "select-property/points-source-aggregate", required: false, many: false },
     { pageProperty: "text-property/points-source-path-prefix", required: false, many: false },
