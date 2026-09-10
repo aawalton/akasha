@@ -15,7 +15,6 @@ export const git = {
     "module/push-repo",
     "module/tree-sha",
     "module/git-capping",
-    "module/git-committing",
     "module/git-landing-lock",
     "module/git-pathspec",
     "module/git-push-handoff",
