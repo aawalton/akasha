@@ -1,4 +1,4 @@
-import type { TemperRecipeList } from "../../temper-recipe-list.page-type.ts"
+import type { TemperRecipeList } from "../../temper-recipe-list.page-type.types.ts"
 
 export const undercroft = {
   id: "01a0626e-c112-7e8e-86d2-442215220a3a",

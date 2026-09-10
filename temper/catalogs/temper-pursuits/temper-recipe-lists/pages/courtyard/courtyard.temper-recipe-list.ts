@@ -1,4 +1,4 @@
-import type { TemperRecipeList } from "../../temper-recipe-list.page-type.ts"
+import type { TemperRecipeList } from "../../temper-recipe-list.page-type.types.ts"
 
 export const courtyard = {
   id: "01a0626e-c111-7cdd-a904-5aeeb8809a3b",

@@ -1,4 +1,4 @@
-import type { TemperRecipeList } from "../../temper-recipe-list.page-type.ts"
+import type { TemperRecipeList } from "../../temper-recipe-list.page-type.types.ts"
 
 export const gallery = {
   id: "01a0626e-c112-7ec3-b3a7-14decfcf82eb",

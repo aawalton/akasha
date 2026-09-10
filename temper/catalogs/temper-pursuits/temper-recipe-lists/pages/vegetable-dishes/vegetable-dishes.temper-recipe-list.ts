@@ -1,4 +1,4 @@
-import type { TemperRecipeList } from "../../temper-recipe-list.page-type.ts"
+import type { TemperRecipeList } from "../../temper-recipe-list.page-type.types.ts"
 
 export const vegetableDishes = {
   id: "01a0626e-c111-74a4-8c68-3d49c9569ce6",

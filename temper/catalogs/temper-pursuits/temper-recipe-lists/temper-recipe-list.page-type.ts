@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.types.ts"
-import type { Recipes } from "./properties/recipes.page-property-entry.ts"
-
-export type TemperRecipeList = TemperPursuitThing & {
-  recipes: Recipes
-}
 
 export const temperRecipeList = {
   id: "01a0626e-c112-7de5-8901-fc3087a26629",
@@ -34,4 +28,5 @@ export const temperRecipeList = {
       statement: "A name more than one list carries is made a slug by adding the game's index.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

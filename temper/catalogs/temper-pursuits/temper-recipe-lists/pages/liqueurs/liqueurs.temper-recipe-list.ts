@@ -1,4 +1,4 @@
-import type { TemperRecipeList } from "../../temper-recipe-list.page-type.ts"
+import type { TemperRecipeList } from "../../temper-recipe-list.page-type.types.ts"
 
 export const liqueurs = {
   id: "01a0626e-c111-73df-8c9d-4a6b0b31794b",
