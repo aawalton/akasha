@@ -29,9 +29,6 @@ export const value = {
       many: true,
       maxCount: null,
     },
-    { pageProperty: "text-property/query-slug", required: false, many: false },
-    { pageProperty: "text-property/query-key", required: false, many: false },
-    { pageProperty: "text-property/query-argument", required: false, many: false },
     {
       pageProperty: "boolean-property/readout-enabled",
       required: false,
@@ -44,10 +41,7 @@ export const value = {
       invariantKind: "departure",
       statement: "A value states in one line the person a life serving that value makes.",
     },
-    {
-      invariantKind: "departure",
-      statement: "A value names the query answering that value rather than holding the question.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A value has the points earned against the value over the whole record.",

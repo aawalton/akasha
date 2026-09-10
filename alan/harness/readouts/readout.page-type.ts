@@ -25,9 +25,6 @@ export const readout = {
     "text-property/label",
     "text-property/none-left-emoji",
     "text-property/none-left-words",
-    "text-property/query-argument",
-    "text-property/query-key",
-    "text-property/query-slug",
     "text-property/unit",
     "text-property/wire-key",
   ],
@@ -56,9 +53,6 @@ export const readout = {
     { pageProperty: "text-property/none-left-words", required: false, many: false },
     { pageProperty: "text-property/none-left-emoji", required: false, many: false },
     { pageProperty: "text-property/wire-key", required: true, many: false },
-    { pageProperty: "text-property/query-slug", required: false, many: false },
-    { pageProperty: "text-property/query-key", required: false, many: false },
-    { pageProperty: "text-property/query-argument", required: false, many: false },
     { pageProperty: "relation-property/read-live-from", required: false, many: false },
     {
       pageProperty: "boolean-property/readout-enabled",
@@ -126,15 +120,7 @@ export const readout = {
       statement:
         "The place a readout has is where that readout sits rather than how wide its figure is.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "A readout names the query answering that readout rather than holding the question.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A readout names which of its query's numbers the readout takes.",
-    },
+
     {
       invariantKind: "departure",
       statement: "A readout states whether anything draws the readout.",

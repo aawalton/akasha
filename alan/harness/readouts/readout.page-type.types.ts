@@ -12,9 +12,6 @@ import type { LastValueFallsPerHour } from "./properties/last-value-falls-per-ho
 import type { NoneLeftEmoji } from "./properties/none-left-emoji.text-property.ts"
 import type { NoneLeftWords } from "./properties/none-left-words.text-property.ts"
 import type { Place } from "./properties/place.number-property.ts"
-import type { QueryArgument } from "./properties/query-argument.text-property.ts"
-import type { QueryKey } from "./properties/query-key.text-property.ts"
-import type { QuerySlug } from "./properties/query-slug.text-property.ts"
 import type { ReadLiveFrom } from "./properties/read-live-from.relation-property.ts"
 import type { ReadoutEnabled } from "./properties/readout-enabled.boolean-property.types.ts"
 import type { Scale } from "./properties/scale.relation-property.ts"
@@ -36,9 +33,6 @@ export type Readout = Module & {
   noneLeftWords?: NoneLeftWords
   noneLeftEmoji?: NoneLeftEmoji
   wireKey: WireKey
-  querySlug?: QuerySlug
-  queryKey?: QueryKey
-  queryArgument?: QueryArgument
   readLiveFrom?: ReadLiveFrom
   enabled?: ReadoutEnabled
   lastValue?: LastValue
