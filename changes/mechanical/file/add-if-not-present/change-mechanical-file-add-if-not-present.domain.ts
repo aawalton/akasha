@@ -10,8 +10,7 @@ export const changeMechanicalFileAddIfNotPresent = {
   invariants: [
     {
       invariantKind: "absence",
-      statement:
-        "No rung here reads a path as a page, a body already at the path settling the answer.",
+      statement: "No rung here reads a path as a page.",
     },
   ],
 } as const satisfies Domain

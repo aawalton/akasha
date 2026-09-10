@@ -68,8 +68,7 @@ export const moveFileCode = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A generated body importing what moved is written by the generator, so the answer names it nowhere.",
+      statement: "A generated body importing what moved is written by the generator.",
     },
   ],
   changeKind: "change-mechanical",

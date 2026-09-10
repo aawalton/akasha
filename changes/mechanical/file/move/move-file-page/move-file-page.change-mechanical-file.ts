@@ -15,7 +15,7 @@ export const moveFilePage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A move keeps the name the page has, so a landing naming it anew is refused.",
+      statement: "A move keeps the name the page has.",
     },
     {
       invariantKind: "departure",
