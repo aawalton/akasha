@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const stormhavenFirebrandKeep = {
   id: "019e2fc6-5239-7c5d-b08e-e506961a86a5",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const stormhavenKoeglinVillage = {
   id: "019e2fc6-523a-7b9d-80ae-d225d916f9fc",

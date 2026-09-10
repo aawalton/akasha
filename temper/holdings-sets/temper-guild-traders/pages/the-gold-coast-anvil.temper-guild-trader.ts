@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const theGoldCoastAnvil = {
   id: "019e2fc6-525a-70b9-9e00-a5608e76a4b5",

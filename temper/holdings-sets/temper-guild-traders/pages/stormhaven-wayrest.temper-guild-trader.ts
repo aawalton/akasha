@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const stormhavenWayrest = {
   id: "019e2fc6-5238-70e1-9f22-09a5ccc20d21",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const khenarthisRoostMistral = {
   id: "019e2fc6-522c-74b4-af38-a28bad77b6c2",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const glenumbraWyrdTree = {
   id: "019e2fc6-523e-7e83-a396-b4cedf81b21f",

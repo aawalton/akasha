@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const glenumbraLionGuardRedoubt = {
   id: "019e2fc6-523d-78c3-8e31-4a4b0a1bf098",

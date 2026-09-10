@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const bangkoraiBangkoraiPass = {
   id: "019e2fc6-522e-7f93-b8a6-46972c4fdc94",

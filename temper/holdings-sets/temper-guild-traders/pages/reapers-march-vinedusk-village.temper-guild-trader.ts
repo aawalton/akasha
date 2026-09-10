@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const reapersMarchVineduskVillage = {
   id: "019e2fc6-5218-7de6-8303-99da2ac91059",

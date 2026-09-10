@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const shadowfenStormholdOutlawsRefuge = {
   id: "019e2fc6-524a-7188-ae66-d3e4cfd5774e",

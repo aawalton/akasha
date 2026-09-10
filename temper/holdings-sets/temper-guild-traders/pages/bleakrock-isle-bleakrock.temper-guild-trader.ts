@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const bleakrockIsleBleakrock = {
   id: "019e2fc6-5254-7afb-9149-5081cbd22871",

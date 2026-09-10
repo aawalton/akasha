@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const greenshadeMarbruk = {
   id: "019e2fc6-5220-787b-ad2c-a253e3f1d27f",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const grahtwoodCormount = {
   id: "019e2fc6-5226-7d64-bbbd-927fcb403262",

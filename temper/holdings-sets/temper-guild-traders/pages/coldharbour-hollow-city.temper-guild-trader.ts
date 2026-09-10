@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const coldharbourHollowCity = {
   id: "019e2fc6-520f-7aa5-81e0-fdecb2b56015",

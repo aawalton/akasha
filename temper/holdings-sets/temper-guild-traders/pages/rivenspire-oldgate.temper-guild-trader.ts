@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const rivenspireOldgate = {
   id: "019e2fc6-5237-725f-8590-67263d8300fd",

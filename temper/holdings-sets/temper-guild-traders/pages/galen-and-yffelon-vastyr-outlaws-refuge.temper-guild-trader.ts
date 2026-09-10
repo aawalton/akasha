@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const galenAndYffelonVastyrOutlawsRefuge = {
   id: "019e2fc6-5274-7484-8060-752201f6f5b2",

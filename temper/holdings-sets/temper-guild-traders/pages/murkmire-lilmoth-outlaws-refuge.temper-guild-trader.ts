@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const murkmireLilmothOutlawsRefuge = {
   id: "019e2fc6-5266-734b-830d-e0d6f03525bb",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const westWealdSkingrad = {
   id: "019e2fc6-5276-7d8c-ba20-c57e3b1138b2",

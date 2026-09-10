@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const galenAndYffelonVastyr = {
   id: "019e2fc6-5273-7663-87cf-2bd0e2460429",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const craglornBelkarthOutlawsRefuge = {
   id: "019e2fc6-520d-73bc-b947-8ec1c79eccaf",

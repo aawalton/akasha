@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const bangkoraiEvermoreOutlawsRefuge = {
   id: "019e2fc6-522e-7187-978c-f1006be38154",

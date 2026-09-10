@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const theReachMarkarth = {
   id: "019e2fc6-526c-7760-b19d-c0d5b5f0153b",

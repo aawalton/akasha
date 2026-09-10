@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const solsticeSunport = {
   id: "019e2fc6-5278-7976-8ba1-f16b4944b04d",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const westernSkyrimSolitude = {
   id: "019e2fc6-526a-79e0-9513-3f2a6d2fa83d",

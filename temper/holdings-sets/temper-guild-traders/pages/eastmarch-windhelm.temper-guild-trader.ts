@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const eastmarchWindhelm = {
   id: "019e2fc6-5245-777d-8560-e711c39808d2",

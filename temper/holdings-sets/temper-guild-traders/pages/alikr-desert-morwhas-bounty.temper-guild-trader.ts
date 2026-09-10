@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const alikrDesertMorwhasBounty = {
   id: "019e2fc6-5232-7bfb-8ba1-89374f52772c",

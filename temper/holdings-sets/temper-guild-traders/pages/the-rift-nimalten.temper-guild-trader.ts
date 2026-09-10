@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const theRiftNimalten = {
   id: "019e2fc6-5243-7b6c-9aa5-4a66ea3313a3",

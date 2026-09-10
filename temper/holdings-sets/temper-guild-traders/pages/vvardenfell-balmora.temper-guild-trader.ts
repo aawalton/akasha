@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const vvardenfellBalmora = {
   id: "019e2fc6-525f-744c-822a-0d3f1eb49384",

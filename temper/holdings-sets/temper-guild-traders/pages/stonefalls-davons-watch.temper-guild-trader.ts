@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const stonefallsDavonsWatch = {
   id: "019e2fc6-5252-708a-97ff-429a8cd430a3",

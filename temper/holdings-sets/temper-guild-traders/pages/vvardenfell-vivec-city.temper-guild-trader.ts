@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const vvardenfellVivecCity = {
   id: "019e2fc6-525c-79aa-a61a-ef1b1276b007",

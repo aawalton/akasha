@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const summersetAlinorOutlawsRefuge = {
   id: "019e2fc6-5264-781c-89af-396809ecb60d",

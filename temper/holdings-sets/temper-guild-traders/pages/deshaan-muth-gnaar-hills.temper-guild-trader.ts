@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const deshaanMuthGnaarHills = {
   id: "019e2fc6-524f-7802-982d-7631db0a59d5",

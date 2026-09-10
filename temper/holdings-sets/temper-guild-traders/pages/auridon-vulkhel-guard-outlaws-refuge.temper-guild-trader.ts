@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const auridonVulkhelGuardOutlawsRefuge = {
   id: "019e2fc6-522b-7614-89a4-a28d4e829cc7",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const telvanniPeninsulaNecrom = {
   id: "019e2fc6-5275-728e-a687-763df0c5ff5a",

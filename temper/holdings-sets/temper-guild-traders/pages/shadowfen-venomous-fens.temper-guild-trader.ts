@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const shadowfenVenomousFens = {
   id: "019e2fc6-524a-7f16-980a-64b2bfdf4518",

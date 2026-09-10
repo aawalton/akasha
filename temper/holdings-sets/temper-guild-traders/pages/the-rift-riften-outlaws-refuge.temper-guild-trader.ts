@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const theRiftRiftenOutlawsRefuge = {
   id: "019e2fc6-5242-7d05-8adb-e13cfa96f258",

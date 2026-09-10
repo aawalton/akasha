@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const highIsleAndAmenosGonfalonBay = {
   id: "019e2fc6-5271-79a7-815a-c7af4ae9ff4a",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const grahtwoodSouthpoint = {
   id: "019e2fc6-5227-7b97-baa5-02fc9356b77d",

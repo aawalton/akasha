@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const grahtwoodEldenRootOutlawsRefuge = {
   id: "019e2fc6-5225-7dac-aa42-ece67d9ca139",

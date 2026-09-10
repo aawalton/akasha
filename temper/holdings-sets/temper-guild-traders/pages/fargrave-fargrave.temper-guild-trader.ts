@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const fargraveFargrave = {
   id: "019e2fc6-526f-7e30-9d30-85ec51aaa3ef",

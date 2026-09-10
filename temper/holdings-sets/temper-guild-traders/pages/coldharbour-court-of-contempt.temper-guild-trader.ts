@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const coldharbourCourtOfContempt = {
   id: "019e2fc6-5213-7d0d-ba07-c7514fee0644",

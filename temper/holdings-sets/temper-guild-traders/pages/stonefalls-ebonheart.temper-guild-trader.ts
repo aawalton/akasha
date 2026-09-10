@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const stonefallsEbonheart = {
   id: "019e2fc6-5250-75a6-9fa5-6b18865fdd32",

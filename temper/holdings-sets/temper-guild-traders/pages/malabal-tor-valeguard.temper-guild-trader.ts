@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const malabalTorValeguard = {
   id: "019e2fc6-521d-7f77-9210-22514ff217d4",

@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const rivenspireHoarfrostDowns = {
   id: "019e2fc6-5236-749f-89cd-55ab1bf8a54e",

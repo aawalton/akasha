@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const balFoyenDhalmora = {
   id: "019e2fc6-5253-7d6d-b498-e18754bf676e",

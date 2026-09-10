@@ -1,4 +1,4 @@
-import type { TemperGuildTrader } from "../temper-guild-trader.page-type.ts"
+import type { TemperGuildTrader } from "../temper-guild-trader.page-type.types.ts"
 
 export const summersetLillandril = {
   id: "019e2fc6-5261-7d3b-9f8d-b258c0ec6ff4",
