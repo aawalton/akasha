@@ -1,6 +1,10 @@
 import { accessSync, constants, mkdirSync, readFileSync, rmdirSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { relayed, SERVING_MARKER } from "../run-relaying/run-relaying.module.code.ts"
+import {
+  parseServingMarker,
+  relayed,
+  SERVING_MARKER,
+} from "../run-relaying/run-relaying.module.code.ts"
 
 export const NO_CODE = -1
 
@@ -182,7 +186,7 @@ export function bytes(argv: readonly string[], asked: Asked = {}): Held {
   const done = spawnedHere(argv, asked)
   if (!measured && asked.cpuCeiling === undefined) {
     measured = true
-    relaying = done.cpuSeconds > TOLL && process.env[SERVING_MARKER] === undefined
+    relaying = done.cpuSeconds > TOLL && !parseServingMarker(process.env[SERVING_MARKER])
   }
   return done
 }
