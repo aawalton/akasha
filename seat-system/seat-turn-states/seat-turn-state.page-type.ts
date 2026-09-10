@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { TurnStateColor } from "./properties/turn-state-color.relation-property.ts"
-
-export type SeatTurnState = Domain & {
-  color: TurnStateColor
-}
 
 export const seatTurnState = {
   id: "01a06924-e882-736f-8cac-465ef2b5d799",
@@ -47,4 +41,5 @@ export const seatTurnState = {
       statement: "Nothing here says which agent is in which state.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

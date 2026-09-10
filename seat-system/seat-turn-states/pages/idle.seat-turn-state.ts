@@ -1,4 +1,4 @@
-import type { SeatTurnState } from "../seat-turn-state.page-type.ts"
+import type { SeatTurnState } from "../seat-turn-state.page-type.types.ts"
 
 export const idle = {
   id: "01a06925-c777-7e84-b147-2a1c7af4f56c",
