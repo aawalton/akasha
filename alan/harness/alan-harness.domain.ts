@@ -114,7 +114,7 @@ export const alanHarness = {
     },
     {
       invariantKind: "departure",
-      statement: "Alan and Jenny have one widget between them for Alan's multiplier.",
+      statement: "Alan and Jenny share one widget for Alan's multiplier.",
     },
     {
       invariantKind: "departure",
