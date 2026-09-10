@@ -17,6 +17,22 @@ export const supervisorLogPath = {
       statement: "A supervisor's own folder is named for the id of its agent.",
     },
     {
+      invariantKind: "departure",
+      statement: "A supervisor's page is reached from the agent id and nothing else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each file a supervisor writes is beside that page, under its property's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file's name is worked out by the naming grammar rather than spelled here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property naming no file beside a page is thrown on rather than answered empty.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A path the kernel binds a socket at is at most 107 bytes.",
     },

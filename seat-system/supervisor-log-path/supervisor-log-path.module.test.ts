@@ -1,5 +1,11 @@
 import { expect, test } from "bun:test"
-import { runtimeRootDir, supervisorSocketPath } from "./supervisor-log-path.module.code.ts"
+import {
+  runtimeRootDir,
+  supervisorFilePath,
+  supervisorFileRelPath,
+  supervisorPageRelPath,
+  supervisorSocketPath,
+} from "./supervisor-log-path.module.code.ts"
 
 const AGENT = "01a07eb0-c517-7000-9ee4-cfc39576ac24"
 
@@ -17,6 +23,24 @@ test("the socket a caller names no base for is in the runtime directory", () => 
 
 test("the whole path is short enough for the kernel to bind", () => {
   expect(supervisorSocketPath(AGENT).length).toBeLessThanOrEqual(CEILING)
+})
+
+test("a supervisor's page is named for its agent and sits in a folder of that agent's id", () => {
+  expect(supervisorPageRelPath(AGENT)).toBe(
+    `seat-system/seats/supervisors/pages/${AGENT}/supervisor-${AGENT}.supervisor.ts`
+  )
+})
+
+test("a file a supervisor writes sits beside that supervisor's page, outside the commit", () => {
+  expect(supervisorFileRelPath(AGENT, "console")).toBe(
+    `seat-system/seats/supervisors/pages/${AGENT}/supervisor-${AGENT}.supervisor.console.uncommitted.log`
+  )
+})
+
+test("the whole path a caller opens is read against the root that caller names", () => {
+  expect(supervisorFilePath(AGENT, "presence", "/var/tmp/base")).toBe(
+    `/var/tmp/base/${supervisorFileRelPath(AGENT, "presence")}`
+  )
 })
 
 test("the runtime directory is worked out from the user rather than read from the environment", () => {
