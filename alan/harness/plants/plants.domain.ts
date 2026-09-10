@@ -9,7 +9,6 @@ export const plants = {
   parts: [
     "module/plants-reading",
     "readout/upkeep-plants",
-    "workstation-service/plants-reading-service",
     "workstation-service/plants-relay-service",
   ],
   invariants: [
