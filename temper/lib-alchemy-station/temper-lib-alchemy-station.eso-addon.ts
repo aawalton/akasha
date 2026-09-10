@@ -6,7 +6,7 @@ export const temperLibAlchemyStation = {
   type: "eso-addon",
   slug: "temper-lib-alchemy-station",
   definition: "the tabs other addons add to the game's alchemy crafting station",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "alchemy-station-entry",
   parts: [

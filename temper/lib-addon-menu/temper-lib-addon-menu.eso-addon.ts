@@ -6,7 +6,7 @@ export const temperLibAddonMenu = {
   type: "eso-addon",
   slug: "temper-lib-addon-menu",
   definition: "the settings panel other add-ons declare their options to",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "module/addon-menu-entry-point",
   parts: [
