@@ -32,7 +32,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan deletes an initiative from the Work Panel's right click menu.",
       workingMemory:
-        "The panel is `editor-extension/work-tree-panel`, with `work-tree-view`, `work-tree-ids` and `work-tree-reading` beside it. The initiative page type states `mortal: true`, so its pages are expected to be deleted, and `akasha change draft` already runs a `remove-page` act, so nothing new has to be written to do the deleting. Unsettled: whether the panel mutates a page anywhere today, and what becomes of a seat whose assignment is the initiative being deleted.",
+        "The panel is `editor-extension/work-tree-panel`, with `work-tree-view`, `work-tree-ids` and `work-tree-reading` beside it. Deleting runs the `remove-page` act, which takes `at`, claims every sibling file of the page, and un-names the page from each parent's `parts`. Mortality gates none of that; it only exempts a page from a dangling-reference refusal. Unsettled: what becomes of a seat whose assignment is the initiative deleted, and that a removal leaves the relation index stale.",
     },
     {
       statement: "Alan deletes one initiative intent from the Work Panel's right click menu.",
