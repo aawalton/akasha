@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const logSource = {
   id: "01a0657c-cb14-7c6f-83df-0d533f4f7821",

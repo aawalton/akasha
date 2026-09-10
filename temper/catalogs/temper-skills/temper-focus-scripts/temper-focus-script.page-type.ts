@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperFocusScript = {
   id: "01a05fca-cb89-7c54-89c6-5392b871f29f",

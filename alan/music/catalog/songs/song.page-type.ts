@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
 import type { ExternalId } from "../../../../collections/externals/properties/external-id.text-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"

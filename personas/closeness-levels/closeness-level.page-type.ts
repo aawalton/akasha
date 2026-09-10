@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const closenessLevel = {
   id: "01a0540e-5111-7164-acb3-f776b18d8b45",

@@ -1,4 +1,4 @@
-import type { PageType } from "../../pages/types/page-type.page-type.ts"
+import type { PageType } from "../../pages/types/page-type.page-type.types.ts"
 
 export const changeMechanical = {
   id: "01a078e8-e0c0-7001-9d36-808d02d6c285",

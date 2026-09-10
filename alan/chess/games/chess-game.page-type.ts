@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const chessGame = {
   id: "01a06582-bd62-7ffe-a236-e510097e9b91",

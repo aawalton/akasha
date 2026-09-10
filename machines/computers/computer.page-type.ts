@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const computer = {
   id: "01a0658c-329a-7d00-b3f3-8abf47bf46cf",

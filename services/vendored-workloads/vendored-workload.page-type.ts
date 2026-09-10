@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const vendoredWorkload = {
   id: "01a068e5-527b-7fd9-b67c-c38bcf39040a",

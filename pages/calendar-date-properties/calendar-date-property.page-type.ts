@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const calendarDateProperty = {
   id: "01a063de-2c60-7001-89b5-5efdc8482d83",

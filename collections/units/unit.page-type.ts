@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const unit = {
   id: "01a063de-2c60-7014-9620-56bbc19efcd1",

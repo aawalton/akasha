@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const persona = {
   id: "01a0532a-a54d-76e7-98f5-57ff3efc6492",

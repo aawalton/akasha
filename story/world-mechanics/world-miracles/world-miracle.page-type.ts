@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const worldMiracle = {
   id: "01a06558-a991-7a2a-abd8-460809b4f867",

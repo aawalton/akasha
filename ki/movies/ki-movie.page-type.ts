@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const kiMovie = {
   id: "01a06825-d0ec-7654-8084-1e099d039f38",

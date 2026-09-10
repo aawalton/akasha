@@ -1,4 +1,4 @@
-import type { PageType } from "./types/page-type.page-type.ts"
+import type { PageType } from "./types/page-type.page-type.types.ts"
 
 export const page = {
   id: "01a049b9-856c-7090-bd14-5a916f574259",

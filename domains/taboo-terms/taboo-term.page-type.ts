@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const tabooTerm = {
   id: "01a0592c-2737-7057-aa66-a46141334052",

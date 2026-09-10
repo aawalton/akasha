@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const nameFormat = {
   id: "01a04eaf-67bf-7b05-9aef-8137a7c25513",

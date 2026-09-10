@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCompanionArmorSlot = {
   id: "01a05fcd-aece-70c8-8784-e3afaec07950",

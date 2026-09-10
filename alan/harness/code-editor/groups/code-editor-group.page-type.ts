@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const codeEditorGroup = {
   id: "01a06826-92e5-7205-a945-38ff0c371a22",

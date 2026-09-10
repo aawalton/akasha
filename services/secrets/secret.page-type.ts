@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const secret = {
   id: "01a0684a-7d55-7000-bf3d-deee6d805174",

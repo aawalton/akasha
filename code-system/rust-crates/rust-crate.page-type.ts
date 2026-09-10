@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const rustCrate = {
   id: "01a0602d-6ad2-7a2e-8686-1b1cf565107a",

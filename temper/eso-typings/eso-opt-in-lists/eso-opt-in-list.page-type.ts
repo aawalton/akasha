@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const esoOptInList = {
   id: "01a081b0-6ef0-79f7-8191-4b78fb717423",

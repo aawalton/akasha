@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { WorldMechanic } from "../world-mechanic.page-type.types.ts"
 
 export type WorldSkill = WorldMechanic

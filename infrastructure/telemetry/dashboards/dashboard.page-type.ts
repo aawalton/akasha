@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const dashboard = {
   id: "01a07c67-a724-7337-8adc-5a5e3a393057",

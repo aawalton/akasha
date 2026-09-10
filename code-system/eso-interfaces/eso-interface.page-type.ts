@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const esoInterface = {
   id: "01a06036-9b76-7bf2-b21b-2f45a8b14ac4",

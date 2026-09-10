@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const notificationFeed = {
   id: "01a06861-e7cd-7f8b-a674-034ea5efe956",

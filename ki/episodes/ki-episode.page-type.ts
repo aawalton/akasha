@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const kiEpisode = {
   id: "01a06825-d0ec-79a7-aa75-2b13b1b20f22",

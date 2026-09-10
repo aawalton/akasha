@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const agentSettings = {
   id: "01a0657b-ad3f-7ce8-99f8-04da79375570",

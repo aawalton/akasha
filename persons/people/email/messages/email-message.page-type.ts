@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const emailMessage = {
   id: "01a06828-59d3-79b5-a23b-24604d220bf0",

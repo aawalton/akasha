@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const generatorKind = {
   id: "01a04f17-5b78-7c66-9145-7a386e55406e",

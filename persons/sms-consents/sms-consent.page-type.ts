@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const smsConsent = {
   id: "019f830f-5026-7e88-9c08-a7cb23b14ef1",

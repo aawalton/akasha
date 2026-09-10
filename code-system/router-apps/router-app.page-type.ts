@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const routerApp = {
   id: "01a063f3-c2ab-765b-9c87-954f96167da7",

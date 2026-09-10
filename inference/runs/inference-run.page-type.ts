@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const inferenceRun = {
   id: "019ea7d8-5e16-7237-b2e0-4ce47633aa58",

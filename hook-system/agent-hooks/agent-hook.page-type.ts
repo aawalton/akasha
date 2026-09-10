@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const agentHook = {
   id: "01a04e0a-f8fa-7fb8-a730-0e27c83701be",

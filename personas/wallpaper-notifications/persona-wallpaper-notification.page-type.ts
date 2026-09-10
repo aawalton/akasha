@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const personaWallpaperNotification = {
   id: "01a0655b-4a9b-700d-88c0-5e1a49f13be5",

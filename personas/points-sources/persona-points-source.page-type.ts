@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const personaPointsSource = {
   id: "01a00115-e648-7000-badd-cf9b31eda2f3",

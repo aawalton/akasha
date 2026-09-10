@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperRotationBreakdownRow = {
   id: "01a05fc9-9a03-795c-b95b-c04997733011",

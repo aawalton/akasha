@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const calendarEventSource = {
   id: "01a06836-795a-7684-9968-814f598da8e3",

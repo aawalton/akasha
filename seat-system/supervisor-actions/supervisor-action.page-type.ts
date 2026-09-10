@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const supervisorAction = {
   id: "01a05ecf-9a12-7710-b385-fd3a09307d1d",

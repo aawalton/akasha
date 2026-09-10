@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const equipmentItem = {
   id: "01a06834-ca86-76cb-a54a-6f86a5225afc",

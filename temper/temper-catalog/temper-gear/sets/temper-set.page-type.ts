@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { Bonuses } from "../../../catalogs/temper-gear/properties/bonuses.page-property-entry.ts"
 import type { EsoSetId } from "../../../catalogs/temper-gear/properties/eso-set-id.number-property.ts"
 import type { Icons } from "../../../catalogs/temper-gear/properties/icons.page-property-entry.ts"

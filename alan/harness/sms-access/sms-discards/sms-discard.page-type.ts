@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const smsDiscard = {
   id: "019fee8b-0d29-7123-afe0-de23c4c7338d",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const readout = {
   id: "01a05446-e760-7cb2-848b-4fcfc7ed45d4",

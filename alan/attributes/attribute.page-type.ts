@@ -1,4 +1,4 @@
-import type { PageType } from "../../pages/types/page-type.page-type.ts"
+import type { PageType } from "../../pages/types/page-type.page-type.types.ts"
 
 export const attribute = {
   id: "01a06841-a0fd-7d6d-83ba-fed205a8f26a",

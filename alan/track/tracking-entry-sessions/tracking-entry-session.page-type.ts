@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const trackingEntrySession = {
   id: "01a06827-ec0c-7524-b2fe-dacf7e89d157",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperArmorSlot = {
   id: "01a05fd1-d430-78b6-bef0-e0208b62ccf9",

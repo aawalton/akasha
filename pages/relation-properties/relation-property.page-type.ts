@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const relationProperty = {
   id: "01a04dff-9d7d-7809-9a88-4fd343f11772",

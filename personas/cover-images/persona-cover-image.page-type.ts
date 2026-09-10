@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const personaCoverImage = {
   id: "01a0655b-4a9b-700b-a9cc-a60c8e139737",

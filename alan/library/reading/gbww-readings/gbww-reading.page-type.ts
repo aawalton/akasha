@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const gbwwReading = {
   id: "01a0659f-93da-7019-b3d4-198e7acfbd4c",

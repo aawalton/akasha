@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const masteryLevel = {
   id: "01a0784a-cdb9-75af-be55-75cc37d93123",

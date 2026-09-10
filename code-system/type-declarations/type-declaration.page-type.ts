@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const typeDeclaration = {
   id: "01a0605a-98f4-7c54-8030-4fec48465bda",

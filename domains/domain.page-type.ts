@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const domain = {
   id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",

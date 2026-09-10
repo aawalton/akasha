@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const parserModel = {
   id: "01a06d3b-743e-7d49-b8e6-3703a4b4fbfb",

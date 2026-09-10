@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const scheduleDay = {
   id: "01a0657a-e62d-71ab-9830-6a438684618d",

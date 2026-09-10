@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperAntiquityCategory = {
   id: "01a06166-503c-7000-a696-166a5a6ce1df",

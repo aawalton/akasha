@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const carMake = {
   id: "01a0659e-e27a-7b1f-bb44-5601b4fc9699",

@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const pageQuery = {
   id: "01a063ee-2a3a-7dd7-8509-19858f61fe50",

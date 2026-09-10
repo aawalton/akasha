@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const computedPropertyModule = {
   id: "01a08202-ae3b-7dad-afcb-d0ad4adc1214",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperInventoryCurrency = {
   id: "01a05fcb-fd2c-79e2-b426-908dcfb8bf4a",

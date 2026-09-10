@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const movie = {
   id: "01a06599-ee09-7005-82e2-c1f83dc51c09",

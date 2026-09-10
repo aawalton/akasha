@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const royalRoadAccount = {
   id: "01a06838-e8da-73c2-8412-6234b402ec6a",

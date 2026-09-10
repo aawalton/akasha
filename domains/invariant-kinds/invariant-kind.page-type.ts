@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const invariantKind = {
   id: "01a04e11-9f98-775b-846d-a9985a5ebd21",

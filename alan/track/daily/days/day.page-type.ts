@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const day = {
   id: "01a05fd8-c30f-72ee-80d9-eb1c179b8359",

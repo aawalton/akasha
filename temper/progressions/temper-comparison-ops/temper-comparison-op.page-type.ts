@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperComparisonOp = {
   id: "01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4",

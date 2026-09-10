@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const characterBuild = {
   id: "01a06835-fae8-7243-8c39-219aa5e07daf",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperJewelryEnchant = {
   id: "01a05fd1-d432-7bca-b936-c66974cf77aa",

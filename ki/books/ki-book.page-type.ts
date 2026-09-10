@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const kiBook = {
   id: "01a06825-d0ec-7364-85c4-e2b19f12133e",

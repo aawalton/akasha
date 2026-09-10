@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCadwellLevel = {
   id: "01a0616b-2cde-7001-a076-c5cb204d81f9",

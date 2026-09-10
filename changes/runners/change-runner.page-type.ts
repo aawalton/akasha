@@ -1,4 +1,4 @@
-import type { PageType } from "../../pages/types/page-type.page-type.ts"
+import type { PageType } from "../../pages/types/page-type.page-type.types.ts"
 
 export const changeRunner = {
   id: "01a077c2-3a15-7c14-8900-ecb0624ff450",

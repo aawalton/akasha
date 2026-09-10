@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const runtimeError = {
   id: "01a05f3f-e3df-76da-ba22-9282e49c2d98",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperAffixScript = {
   id: "01a05fca-cb89-788f-9f0a-64f49f04b8a8",

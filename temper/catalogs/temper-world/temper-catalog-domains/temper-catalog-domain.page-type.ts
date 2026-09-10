@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCatalogDomain = {
   id: "01a05fc4-7a8e-7cdd-859d-6e17f19d2d93",

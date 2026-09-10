@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const codeFileProperty = {
   id: "01a0877d-0474-7e0b-9ce4-b84e15eed4ed",

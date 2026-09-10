@@ -1,4 +1,4 @@
-import type { PageType } from "../../pages/types/page-type.page-type.ts"
+import type { PageType } from "../../pages/types/page-type.page-type.types.ts"
 
 export const changeMode = {
   id: "01a07c24-30e1-7802-88da-aa05d0b289dd",

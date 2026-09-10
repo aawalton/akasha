@@ -1,5 +1,5 @@
-import type { PageType } from "@akasha/pages/page-type"
 import type { Page } from "akasha/pages/page.page-type.types.ts"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
 import type { Equipment } from "./properties/equipment.select-property.ts"
 import type { ExerciseCategory } from "./properties/exercise-category.select-property.ts"

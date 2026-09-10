@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const kiFranchise = {
   id: "01a06825-d0ec-72c3-a6e7-40399fe1a4d4",

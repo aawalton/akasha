@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const pagePropertyEntry = {
   id: "01a05f80-3969-7000-8ccd-6284909fc036",

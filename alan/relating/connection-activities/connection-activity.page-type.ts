@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const connectionActivity = {
   id: "01a0658e-c30d-7f83-bcba-db0766dbd484",

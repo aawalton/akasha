@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCompletionOverride = {
   id: "01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0",

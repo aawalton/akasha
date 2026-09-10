@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const finding = {
   id: "01a04bc5-f8c3-758c-b460-da70df03bb96",

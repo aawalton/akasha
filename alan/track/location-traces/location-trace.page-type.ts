@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const locationTrace = {
   id: "01a06836-795a-76ec-95fa-2b57e5a7dc38",

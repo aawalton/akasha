@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const iosHarness = {
   id: "01a0584d-22a8-7eb5-83f8-e9912fd9297c",

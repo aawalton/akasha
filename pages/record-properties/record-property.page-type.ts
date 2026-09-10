@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const recordProperty = {
   id: "01a04dff-9d7d-7801-928a-feeaaaa1c8f0",

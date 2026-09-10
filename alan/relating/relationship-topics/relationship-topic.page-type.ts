@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const relationshipTopic = {
   id: "01a0658a-170f-73cd-a458-8f98d995452e",

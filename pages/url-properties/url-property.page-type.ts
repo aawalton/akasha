@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const urlProperty = {
   id: "01a063de-2c60-7000-97f0-b6451df11654",

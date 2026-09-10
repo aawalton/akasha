@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const emailRule = {
   id: "01a06828-59d3-7486-8463-b59a1768c717",

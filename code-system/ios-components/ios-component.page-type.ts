@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const iosComponent = {
   id: "01a05472-ab84-78cc-8758-9f95622d1b04",

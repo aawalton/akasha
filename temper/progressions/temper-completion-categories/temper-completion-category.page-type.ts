@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperCompletionCategory = {
   id: "01a05fcb-d657-7209-8fac-d33d57fe464e",

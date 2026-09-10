@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const selectProperty = {
   id: "01a063de-2c60-7003-a9bc-92d52325a70d",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const ctwAchievement = {
   id: "01a06579-e4f7-7cac-8aa3-87b59725c97d",

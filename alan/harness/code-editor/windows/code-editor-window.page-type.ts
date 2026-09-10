@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const codeEditorWindow = {
   id: "01a06826-92e5-77ad-ad85-f1aa8cb5d359",

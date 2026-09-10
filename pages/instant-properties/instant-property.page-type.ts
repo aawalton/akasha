@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const instantProperty = {
   id: "01a053de-99ba-762f-9c2f-ba77a8468f7a",

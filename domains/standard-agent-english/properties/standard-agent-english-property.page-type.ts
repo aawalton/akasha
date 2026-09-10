@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const standardAgentEnglishProperty = {
   id: "01a07c99-fb58-79b6-a204-a2bf1f056902",

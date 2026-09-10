@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const rulesEngineRuleSet = {
   id: "01a06838-7a9e-7718-bfdd-784885fe5f76",

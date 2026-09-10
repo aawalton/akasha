@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const uniqueKind = {
   id: "01a04edd-897d-7e60-9206-d1b3a52bea1f",

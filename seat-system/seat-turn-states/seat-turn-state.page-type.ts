@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const seatTurnState = {
   id: "01a06924-e882-736f-8cac-465ef2b5d799",

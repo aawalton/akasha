@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const bookRecord = {
   id: "01a0657d-b91d-7500-8bc9-4bbfb71443f8",

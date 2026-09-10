@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const clusterService = {
   id: "01a05a41-58c2-7cbb-bfed-c234697164e3",

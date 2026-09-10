@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const phoneNumberProperty = {
   id: "01a053e9-5cd1-7137-9fbb-c33920c95575",

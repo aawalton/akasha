@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const shellScript = {
   id: "01a05849-1565-72f5-a51d-6ed25321a433",

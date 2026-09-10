@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const mobilityReading = {
   id: "01a06558-36e9-75e2-bcf3-ce91fd6e945b",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperItemCategoryTree = {
   id: "01a05fcb-fd33-7e42-b0df-2c021ee52730",

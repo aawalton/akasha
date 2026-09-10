@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const readoutScale = {
   id: "01a05446-e75f-756a-b8d9-4288a350957f",

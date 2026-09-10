@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const certificateAuthority = {
   id: "01a0685d-ab5d-7bd4-946d-fa56b367a1a2",

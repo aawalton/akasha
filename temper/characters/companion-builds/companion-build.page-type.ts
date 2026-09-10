@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const companionBuild = {
   id: "01a06835-fae8-7a27-90c7-c499c3e046cc",

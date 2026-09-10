@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const javascriptModule = {
   id: "01a06954-f7db-7006-ba1c-605a60e17fab",

@@ -1,4 +1,4 @@
-import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+import type { PageType } from "../../../pages/types/page-type.page-type.types.ts"
 
 export const gameDesignDrive = {
   id: "01a06746-de46-7a10-980b-3134872d9f6b",

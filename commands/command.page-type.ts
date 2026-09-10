@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const command = {
   id: "01a04bdd-596d-7b81-9204-1a882f474a5f",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperInventoryChunk = {
   id: "01a05fcb-fd2f-718b-84ca-d9cdeb890706",

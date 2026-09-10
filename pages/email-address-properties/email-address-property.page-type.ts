@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const emailAddressProperty = {
   id: "01a053ef-69a0-7d7d-ac01-f2cb92cc7c63",

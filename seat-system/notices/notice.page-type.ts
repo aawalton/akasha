@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const notice = {
   id: "019ffe7f-d49d-7000-ba76-13378b883aa0",

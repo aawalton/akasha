@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const filePropertyGroup = {
   id: "01a087b2-13af-7316-9986-2aadf342ea64",

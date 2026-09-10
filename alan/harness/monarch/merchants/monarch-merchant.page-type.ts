@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const monarchMerchant = {
   id: "01a0680c-3c00-700b-a937-4d1f6c8b310c",

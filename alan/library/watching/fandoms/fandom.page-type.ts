@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const fandom = {
   id: "01a06807-be66-7004-85ae-8df6ba0ad747",

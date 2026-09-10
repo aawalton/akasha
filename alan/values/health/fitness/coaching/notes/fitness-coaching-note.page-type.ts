@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const fitnessCoachingNote = {
   id: "01a08181-f205-7092-900f-58e2075a7529",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const learnEverythingTopic = {
   id: "01a0659f-93da-7011-b26e-605cb6f32b8f",

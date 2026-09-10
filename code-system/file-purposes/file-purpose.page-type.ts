@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const filePurpose = {
   id: "01a06837-0535-7469-ab8e-6bda76b453a7",

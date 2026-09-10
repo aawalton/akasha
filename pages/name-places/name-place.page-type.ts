@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const namePlace = {
   id: "01a04fc9-2ad4-7896-ae44-4569ddae3f7e",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const luaModule = {
   id: "01a06036-9b74-79ba-9f54-27289400cf14",

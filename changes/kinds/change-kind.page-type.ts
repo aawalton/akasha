@@ -1,4 +1,4 @@
-import type { PageType } from "../../pages/types/page-type.page-type.ts"
+import type { PageType } from "../../pages/types/page-type.page-type.types.ts"
 
 export const changeKind = {
   id: "01a05e11-d3f8-72af-b104-6cdd1255b0eb",

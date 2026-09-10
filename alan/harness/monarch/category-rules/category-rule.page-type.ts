@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const categoryRule = {
   id: "01a0680c-3c00-7007-a659-3e8d1c4f3108",

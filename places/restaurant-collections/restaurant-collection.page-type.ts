@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const restaurantCollection = {
   id: "01a06807-be66-700c-bf31-55485b34bab0",

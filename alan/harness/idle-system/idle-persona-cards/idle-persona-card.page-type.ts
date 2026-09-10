@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const idlePersonaCard = {
   id: "01a06596-f0d5-700c-a792-6d23205f3082",

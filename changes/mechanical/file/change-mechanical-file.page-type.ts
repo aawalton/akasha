@@ -1,4 +1,4 @@
-import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+import type { PageType } from "../../../pages/types/page-type.page-type.types.ts"
 
 export const changeMechanicalFile = {
   id: "01a07ba6-609b-7d7a-bf95-48bb415b1bc2",

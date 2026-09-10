@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const nav = {
   id: "01a0680e-5e00-7007-a253-4c7d9b1a5108",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const graphAttribute = {
   id: "01a04fe8-cec0-78cc-85d5-3ca1e47761ce",

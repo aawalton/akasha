@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const storyBuild = {
   id: "01a06578-d638-74fa-9fea-d5dfb9cf10ec",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const relationshipDeposit = {
   id: "01a0658d-16bc-7759-82e4-2d059f33ac84",

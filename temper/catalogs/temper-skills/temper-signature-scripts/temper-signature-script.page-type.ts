@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperSignatureScript = {
   id: "01a05fca-cb8a-7514-8c96-15d014bc0d9a",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const deviceSecret = {
   id: "01a05b39-f50b-77c0-826c-a526838d12ac",

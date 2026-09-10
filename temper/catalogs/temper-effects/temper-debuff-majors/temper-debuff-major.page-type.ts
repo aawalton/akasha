@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperDebuffMajor = {
   id: "01a05fc5-94cf-7021-9a7d-21e4794bdc95",

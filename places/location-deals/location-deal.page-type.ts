@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const locationDeal = {
   id: "01a06585-5fc5-715e-850c-9b88e5597728",

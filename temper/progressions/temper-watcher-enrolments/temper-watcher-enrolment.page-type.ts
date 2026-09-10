@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const temperWatcherEnrolment = {
   id: "01a05fd3-4364-713f-be23-5bd09e86ad23",

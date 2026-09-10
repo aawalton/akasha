@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const stylesheet = {
   id: "01a05b01-48b1-72b3-961d-f31190becdc7",

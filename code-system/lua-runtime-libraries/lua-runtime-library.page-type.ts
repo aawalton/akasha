@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const luaRuntimeLibrary = {
   id: "01a06759-2aa6-7000-9523-2fbcc69fd891",

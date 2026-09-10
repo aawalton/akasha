@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const graphEdge = {
   id: "01a04fe8-cebd-71d5-a040-d50b202e6eb1",

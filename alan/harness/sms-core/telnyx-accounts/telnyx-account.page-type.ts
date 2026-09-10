@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const telnyxAccount = {
   id: "01a06861-e7cd-7e44-b19a-09599abde817",

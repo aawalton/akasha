@@ -1,4 +1,4 @@
-import type { PageType } from "../../../pages/types/page-type.page-type.ts"
+import type { PageType } from "../../../pages/types/page-type.page-type.types.ts"
 
 export const changeMechanicalFolder = {
   id: "01a07ba6-609c-74fc-9684-d3a8d7baccfb",

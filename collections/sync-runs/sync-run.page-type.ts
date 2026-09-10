@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const syncRun = {
   id: "01a06835-e289-706f-b82b-cc895c8f24bf",

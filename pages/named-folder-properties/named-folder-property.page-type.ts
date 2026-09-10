@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const namedFolderProperty = {
   id: "01a081cc-8980-7180-b875-7b4681fea93d",

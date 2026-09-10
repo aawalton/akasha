@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const seatLogDay = {
   id: "01a0657c-cb14-7b5b-a206-18059a84a88a",

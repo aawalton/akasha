@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const greatCoursesCollection = {
   id: "01a06574-0291-7004-9508-74c1258e02c0",

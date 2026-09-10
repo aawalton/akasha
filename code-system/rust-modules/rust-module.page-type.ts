@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const rustModule = {
   id: "01a0602d-6acf-7594-86e8-07b54a35a700",

@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const ctwTeam = {
   id: "01a06579-e4f7-77d8-a696-adb848da2d3e",

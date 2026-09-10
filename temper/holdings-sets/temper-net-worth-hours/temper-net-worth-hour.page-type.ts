@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { TemperHoldingsThing } from "../things/temper-holdings-thing.page-type.types.ts"
 import type { Snapshots } from "./properties/snapshots.page-property-entry.ts"
 

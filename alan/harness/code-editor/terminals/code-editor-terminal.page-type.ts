@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const codeEditorTerminal = {
   id: "01a06826-92e5-7481-a7d4-68af91528f0b",

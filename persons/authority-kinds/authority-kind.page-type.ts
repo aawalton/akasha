@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const authorityKind = {
   id: "01a0542d-0f76-7ac0-97f4-c19e1d035437",

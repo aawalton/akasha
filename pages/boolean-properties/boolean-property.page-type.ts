@@ -1,4 +1,4 @@
-import type { PageType } from "../types/page-type.page-type.ts"
+import type { PageType } from "../types/page-type.page-type.types.ts"
 
 export const booleanProperty = {
   id: "01a04dff-9d7d-7fd5-9836-5f16e5cc63d0",

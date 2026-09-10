@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const doctrine = {
   id: "01a0826f-8d12-7268-918c-0b3a3574d5f6",

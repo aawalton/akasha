@@ -1,5 +1,5 @@
 import type { Held } from "@akasha/pages/page-file-name"
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export type Declaring = {
   readonly slug: string

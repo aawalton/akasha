@@ -1,4 +1,4 @@
-import type { PageType } from "@akasha/pages/page-type"
+import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 
 export const provisionedFile = {
   id: "01a06861-49aa-70de-9ba6-733c82989f81",
