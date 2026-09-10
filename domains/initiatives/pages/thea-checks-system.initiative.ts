@@ -14,6 +14,11 @@ export const theaChecksSystem = {
         "module-property-group declares three scoped ceilings whose keys stay short, so a check page states check.maxCpuSeconds; instant-property-slug-closes-with-at states 10 and nothing reads it. membersIfNamed answers a group's members, which declarationsIfNamed hides for the group's own page. Left: page-matches-its-type judging the nested value, then checking refusing a run over its ceiling and sending the author to Alan for the speed or the ceiling.",
     },
     {
+      statement: "Every test file is held to its ceiling by a refusal rather than by a kill.",
+      workingMemory:
+        "code-tests hands the spawn a cpuCeiling, so the watcher kills the run at the cap and the number reported is the cap rather than the cost: two files costing 7.1 and 15.0 both said 5.1, already filed as a finding. Checks now run to the end and refuse after, which reports what the run truly cost. Tests take that road too, and the measure flag goes with it, having existed only to get a number no kill had truncated.",
+    },
+    {
       statement: "Every check is cheap enough for audit.",
       workingMemory:
         "Split off the patch sequence, which ends at turning a check on at patch. The cost over the whole repository is judged here. runsOnAudit is false on every check by Alan's call, an audit being asked for one check at a time. file-has-its-page over the whole tree read 120804 paths, 4.15s wall and 1.74GB peak added, but that count is the change's size rather than the check's own. file-length reads it in 1.9s but peaks 2.8GB. It cannot reach audit until no tracked file is unclaimed.",
