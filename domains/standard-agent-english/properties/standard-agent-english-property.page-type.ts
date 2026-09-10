@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TextProperty } from "@akasha/pages/text-property"
-
-export type StandardAgentEnglishProperty = TextProperty
 
 export const standardAgentEnglishProperty = {
   id: "01a07c99-fb58-79b6-a204-a2bf1f056902",
@@ -29,4 +26,5 @@ export const standardAgentEnglishProperty = {
       statement: "A property is moved to this page type rather than named in a list.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
