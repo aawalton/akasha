@@ -34,7 +34,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "Folded: `pages`, `rules-engine`, `supabase-auth`, `utils`. Recipe: `change-file` taking `manifest` off the page, `change-page-page-type` to `domain`, `remove-package-manifest`. The lockfile and the root `workspace:*` entry follow. `vscode-typings` cannot fold: `@types/vscode` is how the typecheck resolves. `dockerfile-extensions` and `tunnel-routes` hold four more. `indexes` needs `no-index-path-spelled` mended, two string reaches the act cannot see respelled, and two files split.\n",
+        "68 manifests, not 12: `ios-app`, `eso-addon` and `router-app` extend `workspace-package`, so their pages are packages too. Folded: `pages`, `rules-engine`, `supabase-auth`, `utils`, by `change-file` taking `manifest` off, `change-page-page-type` to `domain`, then `remove-package-manifest`; the lockfile and the root `workspace:*` entry follow. `vscode-typings` cannot: `@types/vscode` is how the typecheck resolves. `indexes` needs `no-index-path-spelled` mended and two files split first.\n",
     },
     {
       statement: "One change replaces every relative path in a folder with an absolute path.",
