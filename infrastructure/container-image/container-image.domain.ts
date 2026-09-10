@@ -12,6 +12,7 @@ export const containerImage = {
     "manifest/buildkit",
     "manifest/buildkit-prune",
     "module/image-inputs",
+    "module/image-ref",
   ],
   invariants: [
     {
