@@ -1,4 +1,4 @@
-import type { TemperTargetType } from "../temper-target-type.page-type.ts"
+import type { TemperTargetType } from "../temper-target-type.page-type.types.ts"
 
 export const selfOrAlly = {
   id: "019e5d5a-d86b-7b3f-96d5-fe3c707bd864",
