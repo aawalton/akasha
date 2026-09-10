@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const hyundaiTucsonPlugInHybrid = {
   id: "019e4ae1-b0e0-79f4-a91f-462031182f78",

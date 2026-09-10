@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const mercedesBenzSClassPlugInHybrid = {
   id: "019e4af0-fcd1-78ca-8e3c-bc5fe6d7131d",

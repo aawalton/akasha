@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const toyota4runnerHybrid = {
   id: "019e4b10-4720-77d8-8296-f40ebcc2d40d",

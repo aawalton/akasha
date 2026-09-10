@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const bentleyContinentalGtc = {
   id: "019e4ad6-e705-7c58-8a9c-3426568faa5c",

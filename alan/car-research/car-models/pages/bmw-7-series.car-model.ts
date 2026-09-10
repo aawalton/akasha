@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const bmw7Series = {
   id: "019e4ad7-b132-7645-91eb-251721eb13a9",

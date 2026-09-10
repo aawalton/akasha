@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const karmaRevero = {
   id: "019e4ae2-2a0a-7d2f-bc23-8e9e2ff9ab15",

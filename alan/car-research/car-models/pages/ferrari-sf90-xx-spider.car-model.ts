@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const ferrariSf90XxSpider = {
   id: "019e4ada-c9e7-764e-bfd1-04404dba6af0",

@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const fordF150Hybrid = {
   id: "019e4add-c908-790e-9e4f-de0f677466a1",

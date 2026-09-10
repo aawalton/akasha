@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const astonMartinValhalla = {
   id: "019e4ad5-57ec-77c6-ac3c-2c5a6631c010",

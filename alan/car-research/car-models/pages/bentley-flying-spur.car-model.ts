@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const bentleyFlyingSpur = {
   id: "019e4ad7-03a7-7f9f-9d99-b67f16491176",

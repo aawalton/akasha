@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const dodgeChargerDaytona = {
   id: "019e4ad9-2b95-7a38-9c22-ad314b48b721",

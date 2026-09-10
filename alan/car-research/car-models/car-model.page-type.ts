@@ -1,24 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Car } from "../cars/car.page-type.types.ts"
-import type { BodyStyle } from "./properties/body-style.text-property.ts"
-import type { CarMake } from "./properties/car-make.relation-property.ts"
-import type { Generation } from "./properties/generation.text-property.ts"
-import type { ModelYearsAvailable } from "./properties/model-years-available.text-property.ts"
-import type { Overview } from "./properties/overview.text-property.ts"
-import type { PowertrainOptions } from "./properties/powertrain-options.text-property.ts"
-import type { Segment } from "./properties/segment.text-property.ts"
-
-export type CarModel = Car & {
-  title: Title
-  bodyStyle: BodyStyle
-  generation: Generation
-  modelYearsAvailable: ModelYearsAvailable
-  overview: Overview
-  powertrainOptions: PowertrainOptions
-  segment: Segment
-  carMake: CarMake
-}
 
 export const carModel = {
   id: "01a0659a-4bc5-745f-bbb3-18171fb52343",
@@ -57,4 +37,5 @@ export const carModel = {
       statement: "A model names the make above that model and never the years below.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

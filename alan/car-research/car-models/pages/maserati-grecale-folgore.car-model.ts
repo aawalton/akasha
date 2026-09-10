@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const maseratiGrecaleFolgore = {
   id: "019e4aed-65b5-7a78-ae79-44ebdeb5862b",

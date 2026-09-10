@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const volvoV60CrossCountry = {
   id: "019e4afd-71c2-7666-b623-f96a1126adc5",

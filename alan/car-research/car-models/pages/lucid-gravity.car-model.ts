@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const lucidGravity = {
   id: "019e4aea-8c67-75b4-93aa-5c9bfc3b0099",

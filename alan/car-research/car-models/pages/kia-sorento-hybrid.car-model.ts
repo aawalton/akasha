@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const kiaSorentoHybrid = {
   id: "019e4aec-c261-78f3-b097-f787824ab0c1",

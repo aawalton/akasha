@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const mercedesBenzEqsSuv = {
   id: "019e4aef-d3fb-70e6-95b1-70bdf05d9e2d",

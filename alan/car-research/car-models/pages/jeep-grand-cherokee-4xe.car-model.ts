@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const jeepGrandCherokee4xe = {
   id: "019e4ae6-2b29-709c-936e-93dc91188239",

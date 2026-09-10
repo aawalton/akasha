@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const lexusRx = {
   id: "019e4ae9-9d92-7e80-943e-ed4e7b50b761",

@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const gmcHummerEvSuv = {
   id: "019e4adf-2b77-71f8-8fbd-54b2f5bb85f0",

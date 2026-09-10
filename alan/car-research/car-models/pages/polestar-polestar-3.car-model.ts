@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const polestarPolestar3 = {
   id: "019e4af2-d31e-7635-80a0-f7452afa1768",

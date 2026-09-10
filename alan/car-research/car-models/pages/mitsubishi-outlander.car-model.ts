@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const mitsubishiOutlander = {
   id: "019e4af2-69b7-7a33-a7d5-e7497d727de0",

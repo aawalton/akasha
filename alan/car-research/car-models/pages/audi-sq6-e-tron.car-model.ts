@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const audiSq6ETron = {
   id: "019e4add-9009-7484-b985-a3084025444e",

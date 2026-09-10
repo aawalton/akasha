@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const lucidAir = {
   id: "019e4aea-664e-71a7-aca9-ebe03ab1a1df",

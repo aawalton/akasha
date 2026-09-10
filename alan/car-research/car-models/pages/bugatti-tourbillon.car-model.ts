@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const bugattiTourbillon = {
   id: "019e4ad5-a5fb-7df7-9d9b-0a8f4efa663b",

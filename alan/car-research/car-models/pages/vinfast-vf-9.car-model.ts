@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const vinfastVf9 = {
   id: "019e4afa-c38a-7d7e-9f50-029f4bdc7a2f",

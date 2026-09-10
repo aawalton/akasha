@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const lotusEletre = {
   id: "019e4aec-4045-73c9-ab8f-614a6347be1a",

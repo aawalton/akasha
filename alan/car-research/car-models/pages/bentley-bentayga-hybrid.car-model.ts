@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const bentleyBentaygaHybrid = {
   id: "019e4ad6-a173-7544-a821-a7152035acce",

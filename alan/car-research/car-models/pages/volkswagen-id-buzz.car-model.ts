@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const volkswagenIdBuzz = {
   id: "019e4afc-15d9-7521-9420-b66c8bd74491",

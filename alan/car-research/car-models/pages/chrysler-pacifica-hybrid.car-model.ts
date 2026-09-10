@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const chryslerPacificaHybrid = {
   id: "019e4ad6-a1d2-75ec-94ab-80cb1ad86583",

@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const cadillacOptiq = {
   id: "019e4ad6-cf7c-7645-82da-a1ed46b7024f",

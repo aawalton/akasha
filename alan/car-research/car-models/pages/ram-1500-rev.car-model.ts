@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const ram1500Rev = {
   id: "019e4af6-741e-76d6-a6af-e00acbbd798d",

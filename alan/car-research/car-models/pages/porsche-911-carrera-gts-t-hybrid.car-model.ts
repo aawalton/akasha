@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const porsche911CarreraGtsTHybrid = {
   id: "019e4afd-91e1-7b88-afa7-ff9ab3e7d724",

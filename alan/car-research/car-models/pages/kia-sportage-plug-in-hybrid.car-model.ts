@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const kiaSportagePlugInHybrid = {
   id: "019e4aeb-c0d7-7959-9658-f18f0834677b",

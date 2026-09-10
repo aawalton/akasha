@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const hyundaiSonataHybrid = {
   id: "019e4ae2-0564-7946-b5d4-7b521df0a784",

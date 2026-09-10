@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const cadillacEscaladeIql = {
   id: "019e4ad7-08b7-743f-9c1e-7615016c8d7b",

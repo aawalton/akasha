@@ -1,4 +1,4 @@
-import type { CarModel } from "../car-model.page-type.ts"
+import type { CarModel } from "../car-model.page-type.types.ts"
 
 export const subaruCrosstrekHybrid = {
   id: "019e4af7-41c8-7ca5-92a6-cb014763c3a9",
