@@ -60,6 +60,15 @@ export async function anchorEnding(filePath: string, offset: number): Promise<st
   return buffer.toString("base64")
 }
 
+function parseBook(text: string): z.infer<typeof BOOK> | null {
+  try {
+    const parsed = BOOK.safeParse(JSON.parse(text))
+    return parsed.success ? parsed.data : null
+  } catch {
+    return null
+  }
+}
+
 export async function readCheckpoints(): Promise<ReadonlyMap<string, Checkpoint>> {
   const held = new Map<string, Checkpoint>()
   let text: string
@@ -68,17 +77,11 @@ export async function readCheckpoints(): Promise<ReadonlyMap<string, Checkpoint>
   } catch {
     return held
   }
-  let read: unknown
-  try {
-    read = JSON.parse(text)
-  } catch {
+  const book = parseBook(text)
+  if (book === null) {
     return held
   }
-  const parsed = BOOK.safeParse(read)
-  if (!parsed.success) {
-    return held
-  }
-  for (const [key, one] of Object.entries(parsed.data.cursors)) {
+  for (const [key, one] of Object.entries(book.cursors)) {
     held.set(key, {
       path: one.path,
       offset: one.offset,
