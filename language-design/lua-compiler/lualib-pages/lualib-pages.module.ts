@@ -20,7 +20,7 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A scanned file no page names is taken as the scan found it.",
+      statement: "A scanned file no page names is taken from the scan unchanged.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A build for Lua 5.0 takes a page's Lua 5.0 code where the page has one.",
+      statement: "A build for Lua 5.0 takes a page's Lua 5.0 code where the page states that code.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +52,7 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's stated lua feature takes the place of the one its Lua export names.",
+      statement: "A page's stated lua feature takes the place of the feature its Lua export names.",
     },
     {
       invariantKind: "departure",
@@ -76,12 +76,11 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page naming a feature the scan found nowhere is added after what the scan found.",
+      statement: "A page naming a feature the scan found nowhere is added after the scanned files.",
     },
     {
       invariantKind: "departure",
-      statement: "A feature name is reached from a source file's name by what the pages say.",
+      statement: "The pages say how a source file's name reaches a feature name.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +88,7 @@ export const lualibPages = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here imports a page to read it.",
+      statement: "Nothing here imports a page to read that page.",
     },
   ],
 } as const satisfies Module

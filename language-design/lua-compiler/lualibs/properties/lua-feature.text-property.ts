@@ -14,11 +14,12 @@ export const luaFeature = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page stating none takes the feature its Lua export names.",
+      statement: "A page stating no feature takes the feature its Lua export names.",
     },
     {
       invariantKind: "departure",
-      statement: "A page states one where the export name it would take is another page's.",
+      statement:
+        "A page states a feature where the export name that page would take is another page's.",
     },
   ],
 } as const satisfies TextProperty
