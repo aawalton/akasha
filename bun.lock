@@ -136,12 +136,6 @@
         "vite": "^8.0.3",
       },
     },
-    "alan/harness/calendar-sync": {
-      "name": "@akasha/calendar-sync",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
@@ -538,8 +532,6 @@
     "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:infrastructure/networks/auth-proxy"],
 
     "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/storage/backups/retention"],
-
-    "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:alan/harness/calendar-sync"],
 
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 

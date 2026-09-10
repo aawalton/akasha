@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const calendarSync = {
   id: "01a05c22-7bc9-7008-a9a5-27f7d4d1c0c0",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "calendar-sync",
   definition: "the events a public library publishes, brought into the page store each day",
-  manifest: "json",
 
   parts: [
     "manifest/calendar-sync-manifests",
@@ -42,4 +41,4 @@ export const calendarSync = {
       statement: "The workload running the sync is outside akasha.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
