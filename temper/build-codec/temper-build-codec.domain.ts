@@ -22,6 +22,10 @@ export const temperBuildCodec = {
     },
     {
       invariantKind: "departure",
+      statement: "An update that changed no layout is read by the codec of the update it matches.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every past update stays readable and only the newest update is written.",
     },
     {
