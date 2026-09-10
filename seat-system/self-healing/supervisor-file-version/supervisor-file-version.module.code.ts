@@ -205,7 +205,7 @@ export async function pollSupervisorFileVersion(
   await deliver({ liveVersion: seen, deployedAt: nowMs })
 }
 
-export function _resetSupervisorFileGraphForTesting(): undefined {
+export function resetSupervisorFileGraphForTesting(): undefined {
   graph = null
   heldWatch = NOTHING_DELIVERED
 }
