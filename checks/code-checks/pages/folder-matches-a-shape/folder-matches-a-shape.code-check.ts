@@ -45,7 +45,7 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "The name a folder is asked for is never a name opening with what the page above it is named.",
+        "The name a folder is asked for is never a name opening with the name the page above that folder has.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +82,7 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "Passing it over as a part loses no judgement.",
+      statement: "Passing such a folder over as a part loses no judgement.",
     },
     {
       invariantKind: "departure",
@@ -184,7 +184,7 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "The files such a folder holds are judged where the page declaring them is judged.",
+        "The files such a folder holds are judged where the page declaring those files is judged.",
     },
     {
       invariantKind: "departure",
