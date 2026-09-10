@@ -33,7 +33,7 @@ export function usageIn(stated: unknown): UsageReading {
   }
 }
 
-export function keepSeatUsage(agent: string, reading: UsageReading, at?: number): void {
+export function keepSeatUsage(agent: string, reading: UsageReading, at?: number): undefined {
   const now = at ?? Date.now()
   if (reading.model !== null) keepSeatRecord(agent, MODEL_KEY, reading.model, now)
   if (reading.contextTokens !== null)

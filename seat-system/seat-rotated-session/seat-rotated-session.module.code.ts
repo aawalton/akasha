@@ -16,11 +16,11 @@ export function rotatedOf(agent: string): SessionRecord | null {
   return stood ?? sessionRecordOf(pageTextOf(agent, KEY))
 }
 
-export function keepRotated(agent: string, value: string, at?: number): void {
+export function keepRotated(agent: string, value: string, at?: number): undefined {
   if (sessionRecordOf(value) === null) return
   keepSeatRecord(agent, KEY, value, at)
 }
 
-export function clearRotated(agent: string): void {
+export function clearRotated(agent: string): undefined {
   dropSeatRecord(agent, KEY)
 }

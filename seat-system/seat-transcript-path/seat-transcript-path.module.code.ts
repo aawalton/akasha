@@ -16,7 +16,7 @@ export function transcriptOf(agent: string): TranscriptRecord | null {
   return held === null ? null : { value: held }
 }
 
-export function keepTranscript(agent: string, value: string, at?: number): void {
+export function keepTranscript(agent: string, value: string, at?: number): undefined {
   keepSeatRecord(agent, KEY, value, at)
 }
 

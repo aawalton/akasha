@@ -80,7 +80,7 @@ export function buildClaudeArgv(opts: {
   ]
 }
 
-export function refuseMissingCwd(cwd: string, argv: readonly string[]): void {
+export function refuseMissingCwd(cwd: string, argv: readonly string[]): undefined {
   if (existsSync(cwd)) return
   const executable = argv[0] ?? "the child"
   throw new Error(

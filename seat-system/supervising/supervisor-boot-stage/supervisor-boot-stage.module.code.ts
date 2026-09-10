@@ -2,7 +2,7 @@ import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 const PENDING_NOTICE_MS = 5_000
 
-function note(line: string): void {
+function note(line: string): undefined {
   console.log(`${LOG} boot-stage: ${line}`)
 }
 
