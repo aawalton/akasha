@@ -1,4 +1,4 @@
-import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
+import type { CalendarDateProperty } from "akasha/pages/calendar-date-properties/calendar-date-property.page-type.types.ts"
 
 export type AppearanceExperimentDay = string
 
