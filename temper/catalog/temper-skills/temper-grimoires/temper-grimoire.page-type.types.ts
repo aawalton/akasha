@@ -1,5 +1,5 @@
-import type { SkillLineId } from "../../../catalog/things/properties/skill-line-id.text-property.ts"
 import type { Icon } from "../../../things/properties/icon.text-property.ts"
+import type { SkillLineId } from "../../things/properties/skill-line-id.text-property.ts"
 import type { AbilityIcon } from "../properties/ability-icon.text-property.ts"
 import type { AffixScripts } from "../properties/affix-scripts.page-property-entry.ts"
 import type { FocusScripts } from "../properties/focus-scripts.text-property.ts"
