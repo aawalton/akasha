@@ -57,5 +57,9 @@ export const gitCommitting = {
       invariantKind: "departure",
       statement: "Two locks in a row do not double the wait promised.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A wait that runs out answers with the last result unaltered.",
+    },
   ],
 } as const satisfies Module

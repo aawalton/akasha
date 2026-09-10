@@ -7,7 +7,7 @@ import {
   unknownToGit,
 } from "../git-pathspec/git-pathspec.module.code.ts"
 
-function sleepSync(ms: number): void {
+function sleepSync(ms: number): undefined {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms)
 }
 
@@ -17,11 +17,6 @@ export type CommitResult =
 
 const NAMED_AUTHOR = /^\s*(.*?)\s*<([^>]*)>\s*$/
 
-// `--author` names the author and leaves the committer to whatever git config the machine
-// carries. A deployed pod carries none, so the commit dies on "unable to auto-detect email
-// address" after the write has already been applied to the tree, and the caller sees a
-// failure with the file changed and nothing committed. The committer is taken from the
-// author already named rather than added as a second thing to configure.
 export function identifyingAs(author: string): readonly string[] {
   const found = NAMED_AUTHOR.exec(author)
   if (found === null) return []
@@ -31,17 +26,6 @@ export function identifyingAs(author: string): readonly string[] {
   return ["-c", `user.name=${name}`, "-c", `user.email=${email}`]
 }
 
-// THE INDEX LOCK IS CONTENTION, NOT A FAULT, AND IS WAITED OUT RATHER THAN REPORTED.
-// `whileHoldingLanding` serialises the landings that go through it, but nothing that writes this
-// checkout is obliged to: the agent lanes stage and commit with git directly, and the queue drain
-// calls `commitPaths` with no landing lock at all. So a moment where `.git/index.lock` belongs to
-// somebody else is ordinary, and a job that exits 1 on it has reported a collision as though it
-// were a broken commit.
-//
-// ONLY THIS ONE STDERR RETRIES. Every other non-zero exit returns on the first attempt, because a
-// commit that fails for a real reason and is tried again is a fault turned into a wait — and a
-// wait is the harder failure to see. The give-up returns the last result unaltered, so the caller
-// raises the same words it always did, naming the applied-and-uncommitted paths and the remedy.
 const INDEX_LOCK_CEILING_MS = 30_000
 const INDEX_LOCK_FIRST_WAIT_MS = 100
 const INDEX_LOCK_LONGEST_WAIT_MS = 2_000
@@ -85,8 +69,6 @@ export function commitPaths(
     return { ok: false, reason: `git ls-files failed: ${others.stderr}`, nothing }
   }
   const creating = others.stdout.split("\0").filter((name) => name !== "")
-  // One deadline for the whole call, not one per git invocation: a new path takes the index lock
-  // twice, and two ceilings in a row would keep a caller waiting for double what this promises.
   const lockUntil = Date.now() + INDEX_LOCK_CEILING_MS
   if (creating.length > 0) {
     const intent = whileIndexLockClears(
