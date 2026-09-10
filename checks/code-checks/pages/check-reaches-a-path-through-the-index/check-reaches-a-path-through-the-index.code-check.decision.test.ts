@@ -145,6 +145,18 @@ test("a file beside a page that is no code file is not judged", () => {
   expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.ts")).toBe(false)
 })
 
+test("the code of a property group a page carries is judged", () => {
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.decision.code.ts")).toBe(true)
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.check.code.ts")).toBe(true)
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.audit.code.ts")).toBe(true)
+})
+
+test("a file whose last section is no code is not judged", () => {
+  const logs = "checks/code-checks/pages/a/a.code-check.check.logs.uncommitted.jsonl"
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.decision.test.ts")).toBe(false)
+  expect(judgedBy(TYPES)(logs)).toBe(false)
+})
+
 test("a file named for a page type the index does not know is not judged", () => {
   expect(judgedBy(TYPES)("akasha/a.thing.code.ts")).toBe(false)
 })

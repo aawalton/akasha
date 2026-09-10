@@ -163,6 +163,6 @@ export function judgedBy(types: ReadonlySet<string>): (path: string) => boolean 
   return (path) => {
     const said = partedIn(path)
     if (said === null || !types.has(said.pageType)) return false
-    return said.sections.length === 1 && said.sections[0] === CODE
+    return said.sections[said.sections.length - 1] === CODE
   }
 }
