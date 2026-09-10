@@ -20,7 +20,7 @@ export const aranyaOnePackage = {
     {
       statement: "A cluster service deploys naming no package but the root.",
       workingMemory:
-        "`dockerfile-bun-service` copies `bun.lock`, `tsconfig.base.json`, the root manifest and every member manifest, runs one `bun install --production --frozen-lockfile`, then copies each `depDirs` folder and `${appDir}`. `appDir` is the `folder` the built-image page states, not anything a manifest says. `depDirs` is `collectExecutedDeps`, which reads only `@akasha/` specifiers, and every service now spells its reaches `akasha/...`, so an image carries its own folder alone.\n",
+        "`collectExecutedDeps` reads only `@akasha/` specifiers, so with every reach now spelled `akasha/...` an image carries its own folder alone. Both bun-service images are broken by that: auth-proxy's `config` and `session-identity`, and retention's `barman-output` and `copy-longtail`, all import `akasha/utils/narrow/...` at runtime. Following the specifier is not enough — `emitWorkspaceInstall` writes a `workspaces` list of each depDir, and those folders are no longer packages.\n",
     },
     {
       statement: "A native app deploys naming no package but the root.",
