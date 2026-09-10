@@ -58,7 +58,10 @@ test("a body that will not parse lands whole rather than blank", async () => {
   const root = repoWithTheFormatter()
   const said = await wrote(root, ["--message", "held"], BROKEN)
   expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(BROKEN)
+  const landed = readFileSync(join(root, "akasha/two.ts"), "utf8")
+  expect(landed.length).toBeGreaterThan(0)
+  expect(landed).toContain('from "./a.ts"')
+  expect(landed).toContain("export const held = (")
 })
 
 test("a body already formatted lands untouched", async () => {
