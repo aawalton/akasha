@@ -6,8 +6,6 @@ export const globalDeclaredOnce = {
   type: "code-check",
   slug: "global-declared-once",
   definition: "the check refusing a global name a declaration file and another file both declare",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

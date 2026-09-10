@@ -15,7 +15,7 @@ import {
   scratch,
   staged,
 } from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
-import { globalDeclaredOnce, readingIn } from "./global-declared-once.code-check.code.ts"
+import { globalDeclaredOnce, readingIn } from "./global-declared-once.code-check.check.code.ts"
 
 afterAll(scratch.sweep)
 
