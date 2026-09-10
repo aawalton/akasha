@@ -20,6 +20,8 @@ const PROPERTY_AT = "pageProperty"
 
 const MANY = "many"
 
+const NULLABLE = "nullable"
+
 const LIST_AT = "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 const CHOSEN = new Set(["rank-property", "select-property"])
@@ -31,6 +33,7 @@ const HELD = new Map<string, string>([
   ["calendar-time-property", "string"],
   ["email-address-property", "string"],
   ["instant-property", "string"],
+  ["number-property", "number"],
   ["page-property-entry", '"jsonl"'],
   ["phone-number-property", "string"],
   ["process-property", "string"],
@@ -76,11 +79,12 @@ export function writtenFor(kind: string, path: string, slug: string): Written | 
   }
 }
 
-export function bodyFor(slug: string, written: Written, many: boolean): string {
+export function bodyFor(slug: string, written: Written, many: boolean, nothing: boolean): string {
   const imports = many
     ? [`import type { List } from "${LIST_AT}"`, ...written.imports]
     : [...written.imports]
-  const said = many ? `List<${written.held}>` : written.held
+  const listed = many ? `List<${written.held}>` : written.held
+  const said = nothing ? `${listed} | null` : listed
   const lines = [...imports, ...(imports.length === 0 ? [] : [""])]
   return `${[...lines, `export type ${typedAs(slug)} = ${said}`].join("\n")}\n`
 }
@@ -101,7 +105,7 @@ export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] 
       written.push({
         kind: "add",
         path: at,
-        content: bodyFor(slug, held, many.has(`${kind}/${slug}`)),
+        content: bodyFor(slug, held, many.has(`${kind}/${slug}`), value[NULLABLE] === true),
       })
     }
   }

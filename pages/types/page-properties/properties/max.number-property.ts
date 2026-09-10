@@ -9,5 +9,6 @@ export const max = {
   slug: "max",
   propertySlug: "max",
   definition: "the largest a number may be",
+  nullable: true,
   max: null,
 } as const satisfies NumberProperty
