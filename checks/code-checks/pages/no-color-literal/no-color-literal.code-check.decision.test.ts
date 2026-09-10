@@ -100,7 +100,7 @@ test("the palette's own home is judged by nothing", () => {
 
 test("a test body and a generated body are judged by nothing", () => {
   expect(judgedAt("alan/web/held/held.module.test.ts")).toBe(false)
-  expect(judgedAt("pages/core/generated/entries-00/entries-00.module.code.ts")).toBe(false)
+  expect(judgedAt("alan/web/generated/held/held.module.code.ts")).toBe(false)
   expect(judgedAt("alan/web/held/held.generated.ts")).toBe(false)
 })
 
