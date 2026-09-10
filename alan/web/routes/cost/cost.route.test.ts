@@ -134,7 +134,7 @@ test("nothing carried in shows an empty ring rather than a cost of zero", async 
 test("a cost carried in is colored with the surplus carried in beside it", async () => {
   await carryNow(0.5, 5)
   const [one] = await tile.drawn()
-  expect(one?.reading).toBe("0.50")
+  expect(one?.reading).toBe("0.5")
   expect(one?.tier).toBe("yellow")
 })
 

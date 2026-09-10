@@ -267,7 +267,7 @@ test("an attribute under the first rung the scale states climbs toward that rung
   relayedFor("attribute-endurance", 0.17)
   const one = await tile.ringFor("endurance")
   expect(one?.tier).toBe("black")
-  expect(one?.reading).toBe("0.17")
+  expect(one?.reading).toBe("0.1")
   expect(one?.nextTier).toBe("red")
   expect(one?.progress).toBeCloseTo(0.68, 12)
 })
@@ -301,13 +301,13 @@ test("a figure reaches the tile as a string, which is what the tile reads", asyn
   for (const one of await tile.drawn()) expect(typeof one.reading).toBe("string")
 })
 
-test("a figure is floored to two significant figures at least", async () => {
+test("a figure is floored to one decimal place at most", async () => {
   relayedFor("attribute-strength", 1.23456)
   expect((await tile.ringFor("strength"))?.reading).toBe("1.2")
   relayedFor("attribute-endurance", 1.5)
   expect((await tile.ringFor("endurance"))?.reading).toBe("1.5")
   relayedFor("attribute-wisdom", 0.10708)
-  expect((await tile.ringFor("wisdom"))?.reading).toBe("0.10")
+  expect((await tile.ringFor("wisdom"))?.reading).toBe("0.1")
 })
 
 test("a reading past forty-five minutes shows an empty ring rather than the figure it held", async () => {

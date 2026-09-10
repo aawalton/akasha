@@ -174,10 +174,10 @@ test("a surplus of zero and a surplus never carried are told apart on the wire",
   expect(absent?.readingHeld).toBe("none")
 })
 
-test("a surplus added up out of hours is floored to two significant figures", async () => {
+test("a surplus added up out of hours is floored to one decimal place", async () => {
   await carryNow(-0.008333333333334636)
   const [one] = await tile.drawn()
-  expect(one?.reading).toBe("-0.0084")
+  expect(one?.reading).toBe("-0.1")
 })
 
 test("a surplus is never sent to the tile as the whole tail of a float", async () => {
@@ -187,9 +187,9 @@ test("a surplus is never sent to the tile as the whole tail of a float", async (
   expect(said.length).toBeLessThanOrEqual(6)
 })
 
-test("a surplus smaller than a hundredth still carries two figures", async () => {
+test("a surplus smaller than a place floors to the place below rather than reading as none", async () => {
   await carryNow(-0.0004)
-  expect((await tile.drawn())[0]?.reading).toBe("-0.00040")
+  expect((await tile.drawn())[0]?.reading).toBe("-0.1")
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {
