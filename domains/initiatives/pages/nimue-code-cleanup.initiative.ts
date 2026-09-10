@@ -11,7 +11,7 @@ export const nimueCodeCleanup = {
     {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
-        "The move drafts 3,070 paths. Its apply runs 104 seconds on 9 CPU-seconds and 0.76 in its children, so the wall time is waiting rather than working, and the checks are not it: `runsChecks: false` makes the gate `NO_GATE`. The median apply over 2,231 runs is 6.3 seconds. `applied` writes a `timing:` line for each phase it lands through. The index goes stale within minutes as other seats land, and `akasha index refresh` repairs it.",
+        "`move-folder-package` at `code-system/code-system.workspace-package.ts` to `code` is refused before it drafts anything, by the guard `folder-not-left-named`, over `code-system/ios-apps/scripts` spelled in `app-building.module.code.ts`. Twenty-four such literals sit in twelve TypeScript bodies, nine of those files outside code-system, and the guard names the first and stops. So this waits on the intent repointing a path spelled outside an import.",
     },
     {
       statement: "The code folder tree passes the folder-matches-a-shape check.",
