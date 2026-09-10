@@ -1,10 +1,10 @@
 import type { Seat } from "../../seat.page-type.types.ts"
 
-export const aranya = {
+export const aranya/aranya = {
   id: "01a06cf3-4196-7000-b027-4bdf82d518a6",
   pageTypeSlug: "seat",
   type: "seat",
-  slug: "aranya",
+  slug: "aranya/aranya",
   persona: "aranya",
   assignmentSlug: "initiative/aranya-one-package",
   role: "definer",
