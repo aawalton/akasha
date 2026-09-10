@@ -12,8 +12,6 @@ import {
   takeSeatPage,
 } from "../supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
-// A seat's name is its page's stem while that page is there, and the slug its akasha page is named
-// for once it is not. Both spell the same name.
 function nameOf(agentId: string): string | null {
   return seatNameForAgent(agentId)
 }
@@ -69,9 +67,6 @@ async function readPredecessor(agentId: string): Promise<{
   persona: string | null
   principal: string | null
 } | null> {
-  // Through the funnel rather than off the old page. A rebind reads a seat in order to stand a
-  // successor up in its place, so a seat read as stating nothing is a rebind that loses the name,
-  // the role and the persona it was meant to carry over.
   const stated = pageValuesOf(agentId)
   if (stated === null) return null
   const name = nameOf(agentId)
@@ -81,8 +76,6 @@ async function readPredecessor(agentId: string): Promise<{
     name,
     title: slugAt(stated, "title") ?? name,
     launch: launchFrom(stated),
-    // The seat above is named rather than identified, and akasha says who holds that name. Both
-    // systems were asked, the old pages first; there is one system to ask now.
     parent: above === null ? null : akashaSeatIdForName(above),
     role: slugAt(stated, "role-slug"),
     persona: slugAt(stated, "persona-slug"),
