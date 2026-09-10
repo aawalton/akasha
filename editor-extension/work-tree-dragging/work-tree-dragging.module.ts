@@ -27,11 +27,12 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
-      statement: "A key is its initiative's slug, a mark, and the place counted from one.",
+      statement: "A key is its initiative's slug and a mark and the place counted from `1`.",
     },
     {
       invariantKind: "departure",
-      statement: "A drop onto an intent of the same initiative moves the intent among them.",
+      statement:
+        "A drop onto an intent of the same initiative moves the intent among that initiative's intents.",
     },
     {
       invariantKind: "departure",
@@ -83,11 +84,11 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
-      statement: "The editor is handed in rather than imported, so a test runs outside the editor.",
+      statement: "The editor is handed in rather than imported.",
     },
     {
       invariantKind: "departure",
-      statement: "The harness call is handed in rather than imported, for that same reason.",
+      statement: "The harness call is handed in rather than imported.",
     },
     {
       invariantKind: "absence",
@@ -107,7 +108,7 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
-      statement: "A drop waits the ceiling the harness names rather than one named here.",
+      statement: "A drop waits the ceiling the harness names rather than a ceiling named here.",
     },
     {
       invariantKind: "departure",
@@ -115,7 +116,7 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
-      statement: "A refused move or hand tells the panel to let go of what it held.",
+      statement: "A refused move or hand tells the panel to let go of the hold.",
     },
     {
       invariantKind: "departure",
@@ -140,7 +141,7 @@ export const workTreeDragging = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal is known by the words the freshness rules close it with.",
+      statement: "That refusal is known by the words the freshness rules close that refusal with.",
     },
     {
       invariantKind: "departure",
