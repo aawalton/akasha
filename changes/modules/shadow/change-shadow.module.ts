@@ -332,5 +332,15 @@ export const changeShadow = {
       statement:
         "Which bodies are generated is read from the world before the change rather than after.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A seed reaches a guard through a ledger, a world built over an answer being left behind.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A test of seeding built on `worldAt` proves nothing of the guards and is built on a ledger.",
+    },
   ],
 } as const satisfies Module
