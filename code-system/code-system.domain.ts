@@ -1,10 +1,10 @@
 import type { Domain } from "../domains/domain.page-type.types.ts"
 
-export const code = {
+export const codeSystem = {
   id: "01a04a26-9105-7002-aa57-d2c5a03907ce",
   pageTypeSlug: "domain",
   type: "domain",
-  slug: "code",
+  slug: "code-system",
   definition: "the code a machine runs",
 
   parts: [
