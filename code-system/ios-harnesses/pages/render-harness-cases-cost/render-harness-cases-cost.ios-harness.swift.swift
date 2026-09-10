@@ -13,10 +13,14 @@ import WidgetKit
 // A case's name is the only thing carried from here to the file the harness writes, so each
 // name says what its picture is meant to show. Read the name, then look at the image and say
 // whether it shows that.
-private let SURPLUS_RUNGS = #"""
-[{"at":-12,"color":"black"},{"at":-8,"color":"red"},{"at":-4,"color":"yellow"},\
-{"at":0,"color":"green"},{"at":4,"color":"blue"}]
-"""#
+// A BODY IS JOINED FROM SINGLE LINE RAW STRINGS, BECAUSE A RAW STRING TAKES NO BARE `\`.
+//
+// `#"""` opens a string whose escape is `\#`, so a `\` ending a line inside one is a
+// backslash in the text rather than the line continuation it looks like, and every body
+// written that way reaches the decoder malformed.
+private let SURPLUS_RUNGS =
+    #"[{"at":-12,"color":"black"},{"at":-8,"color":"red"},{"at":-4,"color":"yellow"},"#
+    + #"{"at":0,"color":"green"},{"at":4,"color":"blue"}]"#
 
 private let costInstant: ISO8601DateFormatter = {
     let writer = ISO8601DateFormatter()
@@ -26,10 +30,8 @@ private let costInstant: ISO8601DateFormatter = {
 
 private func costBody(tier: String, reading: String, coloredWith: String? = nil) -> String {
     let colored = coloredWith.map { #","coloredWith":\#($0)"# } ?? ""
-    return #"""
-        {"stoplights":[{"habit":"cost","tier":"\#(tier)","reading":"\#(reading)",\
-        "label":"Cost"\#(colored)}]}
-        """#
+    return #"{"stoplights":[{"habit":"cost","tier":"\#(tier)","reading":"\#(reading)","#
+        + #""label":"Cost"\#(colored)}]}"#
 }
 
 // A SURPLUS WHOSE FIGURE IS CHOSEN SO THE WAIT COMES OUT AT THE WIDTH THE CASE WANTS.
@@ -43,10 +45,9 @@ private func fallingSurplus(
     sent: String, over rung: Double, reaching seconds: Double, at rate: Double, from now: Date
 ) -> String {
     let figure = rung + rate * seconds / 3600
-    return #"""
-        {"tier":"\#(sent)","reading":"\#(figure)","takenAt":"\#(costInstant.string(from: now))",\
-        "fallsPerHour":\#(rate),"rungs":\#(SURPLUS_RUNGS)}
-        """#
+    let taken = costInstant.string(from: now)
+    return #"{"tier":"\#(sent)","reading":"\#(figure)","takenAt":"\#(taken)","#
+        + #""fallsPerHour":\#(rate),"rungs":\#(SURPLUS_RUNGS)}"#
 }
 
 private func restingSurplus(sent: String, reading: String) -> String {
