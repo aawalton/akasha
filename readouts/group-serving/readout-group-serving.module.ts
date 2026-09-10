@@ -160,8 +160,11 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "No stoplight carries when a reading reaches a rung, a tile with the rungs working it.",
+      statement: "No stoplight carries when a reading reaches a rung.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tile with the rungs works out when a reading reaches a rung.",
     },
     {
       invariantKind: "departure",
@@ -169,11 +172,11 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A falling stoplight carries the rungs of its scale, so the tile can color it.",
+      statement: "A falling stoplight carries the rungs of its scale.",
     },
     {
       invariantKind: "departure",
-      statement: "A stoplight that is not falling carries no rungs, its color never going stale.",
+      statement: "A stoplight that is not falling carries no rungs.",
     },
     {
       invariantKind: "departure",
@@ -181,8 +184,11 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The tier answered is read at the moment taken, and a tile with the rungs reads its own.",
+      statement: "The tier answered is read at the moment taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tile with the rungs reads its own tier.",
     },
     {
       invariantKind: "departure",
@@ -273,7 +279,7 @@ export const readoutGroupServing = {
     {
       invariantKind: "departure",
       statement:
-        "A reading answered as too old is one the relay or the row holds too old, with neither fresh.",
+        "A reading is answered as too old where neither the relay nor the row holds a fresh reading.",
     },
   ],
 } as const satisfies Module
