@@ -1,4 +1,4 @@
-import type { ScheduleDay } from "../schedule-day.page-type.ts"
+import type { ScheduleDay } from "../schedule-day.page-type.types.ts"
 
 export const pushPullLegs3beb3d9aSunday = {
   id: "019ee083-1c1f-7882-afef-c445c9aadc17",

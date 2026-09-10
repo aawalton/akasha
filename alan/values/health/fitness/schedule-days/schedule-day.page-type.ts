@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../../../../pages/properties/title.text-property.ts"
-import type { DayOfWeek } from "./properties/day-of-week.select-property.ts"
-import type { Focus } from "./properties/focus.select-property.ts"
-
-export type ScheduleDay = Page & {
-  title: Title
-  dayOfWeek: DayOfWeek
-  focus: Focus
-}
 
 export const scheduleDay = {
   id: "01a0657a-e62d-71ab-9830-6a438684618d",
@@ -34,4 +24,5 @@ export const scheduleDay = {
       statement: "A day names no rotation the day belongs to.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
