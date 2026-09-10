@@ -15,7 +15,6 @@ export const alanHarness = {
     "domain/capacity",
     "domain/cost",
     "domain/plants",
-    "domain/activity",
     "domain/sleep",
     "domain/inbox",
     "domain/alan-harness-stoplights",
