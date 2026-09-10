@@ -1,4 +1,4 @@
-import type { RelationshipDeposit } from "../relationship-deposit.page-type.ts"
+import type { RelationshipDeposit } from "../relationship-deposit.page-type.types.ts"
 
 export const deposit20260630SecondHalfOfRemovingCarpetFromPorch = {
   id: "019f1a16-080d-70a2-aeb9-7dbc65e751a1",

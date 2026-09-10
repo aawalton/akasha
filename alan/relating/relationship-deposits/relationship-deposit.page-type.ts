@@ -1,20 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { RelationshipDepositDate } from "./properties/relationship-deposit-date.calendar-date-property.ts"
-import type { RelationshipDepositPersona } from "./properties/relationship-deposit-persona.relation-property.ts"
-import type { RelationshipDepositRelationship } from "./properties/relationship-deposit-relationship.relation-property.ts"
-import type { RelationshipDepositSize } from "./properties/relationship-deposit-size.select-property.ts"
-import type { RelationshipDepositValue } from "./properties/relationship-deposit-value.relation-property.ts"
-
-export type RelationshipDeposit = Page & {
-  title: Title
-  relationshipDepositDate: RelationshipDepositDate
-  relationshipDepositPersona: RelationshipDepositPersona
-  relationshipDepositRelationship: RelationshipDepositRelationship
-  relationshipDepositSize: RelationshipDepositSize
-  relationshipDepositValue: RelationshipDepositValue
-}
 
 export const relationshipDeposit = {
   id: "01a0658d-16bc-7759-82e4-2d059f33ac84",
@@ -65,4 +49,5 @@ export const relationshipDeposit = {
       statement: "A deposit names the value that deposit served.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
