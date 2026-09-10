@@ -29,7 +29,11 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost readout names no scale, so the shared group serving colors none of them.",
+      statement: "A cost readout names no scale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shared group serving colors no cost readout.",
     },
     {
       invariantKind: "departure",
@@ -92,8 +96,11 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "No wait is worked out here, the tile having what it needs to work its own from now.",
+      statement: "No wait is worked out here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The stoplight carries everything the tile needs to work a wait.",
     },
     {
       invariantKind: "departure",
@@ -102,8 +109,11 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A cost above nothing means a surplus falling, the block priced being one it sums.",
+      statement: "A cost above nothing means a surplus falling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The block priced is a block the surplus sums.",
     },
     {
       invariantKind: "departure",
