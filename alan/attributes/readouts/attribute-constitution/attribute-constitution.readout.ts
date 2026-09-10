@@ -30,7 +30,7 @@ export const attributeConstitution = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works out what a day earned.",
+      statement: "Nothing here works out the points a day earned.",
     },
     {
       invariantKind: "absence",
