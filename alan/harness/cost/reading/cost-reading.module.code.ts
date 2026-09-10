@@ -1,5 +1,6 @@
 import { multiplierIn } from "akasha/readouts/pages/cost-multiplier/cost-multiplier.readout.code.ts"
 import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { openSession } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
 export const READOUT_PAGE = "readouts/pages/cost-multiplier/cost-multiplier.readout.ts"
@@ -22,7 +23,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
 }
 
 if (import.meta.main) {
-  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   try {
     const multiplier = await takeReading(root)
     if (multiplier === null) {
