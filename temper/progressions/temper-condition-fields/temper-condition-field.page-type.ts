@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.types.ts"
-
-export type TemperConditionField = TemperProgressThing
 
 export const temperConditionField = {
   id: "01a07202-f0fd-7b35-bff8-c4cc5e25da86",
@@ -33,4 +30,5 @@ export const temperConditionField = {
       statement: "A field whose key ends in Op says how another field's number is compared.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const questRelevant = {
   id: "01a07209-6b52-7d14-ae71-270876892ccc",

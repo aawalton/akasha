@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const maxValue = {
   id: "01a07209-6b52-733e-bd26-b8536d049bb5",

@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const stackFullness = {
   id: "01a07209-6b53-718d-9f85-b9e62d85b39d",

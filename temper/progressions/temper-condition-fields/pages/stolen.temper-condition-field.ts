@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const stolen = {
   id: "01a07209-6b53-79c6-bc43-1fb7b950c67c",

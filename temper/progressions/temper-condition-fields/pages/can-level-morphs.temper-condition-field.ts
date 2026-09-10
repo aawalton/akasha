@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const canLevelMorphs = {
   id: "01a07209-6b50-714b-a5c1-cce39abe7406",

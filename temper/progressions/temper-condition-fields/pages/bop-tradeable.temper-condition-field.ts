@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const bopTradeable = {
   id: "01a07209-6b4f-7d66-92c5-c4baca31c3f7",

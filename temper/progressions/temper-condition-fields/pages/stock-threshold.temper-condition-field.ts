@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const stockThreshold = {
   id: "01a07209-6b53-7b82-a04a-06279f6e58f0",

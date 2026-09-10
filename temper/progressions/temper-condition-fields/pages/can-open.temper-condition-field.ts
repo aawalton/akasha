@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const canOpen = {
   id: "01a07209-6b50-72dd-a9b2-44554e1af2e7",

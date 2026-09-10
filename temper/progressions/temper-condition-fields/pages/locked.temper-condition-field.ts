@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const locked = {
   id: "01a07209-6b51-7d08-96a3-0a7e0f11b81a",

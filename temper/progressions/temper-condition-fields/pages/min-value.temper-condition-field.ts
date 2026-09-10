@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const minValue = {
   id: "01a07209-6b52-7b71-b676-74e1a6ecc1f3",

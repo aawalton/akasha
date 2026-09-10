@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const transmuted = {
   id: "01a07209-6b53-75c2-b772-5772cebcdd26",

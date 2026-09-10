@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const isTargetEquip = {
   id: "01a07209-6b51-7771-9690-c8e62b7b363f",

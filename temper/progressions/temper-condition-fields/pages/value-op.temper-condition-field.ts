@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const valueOp = {
   id: "01a07209-6b53-7d35-9a37-3f29156126d1",

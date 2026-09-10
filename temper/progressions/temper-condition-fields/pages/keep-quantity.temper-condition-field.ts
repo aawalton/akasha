@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const keepQuantity = {
   id: "01a07209-6b51-795a-b1ac-3a82ccdac7c2",

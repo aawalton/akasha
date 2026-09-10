@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const merchantValue = {
   id: "01a07209-6b52-7464-a508-0f1d30c57d14",

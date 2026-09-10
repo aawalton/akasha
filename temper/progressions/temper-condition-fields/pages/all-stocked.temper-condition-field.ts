@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const allStocked = {
   id: "01a07209-6b4e-7e7e-ab26-44d84361ab3e",

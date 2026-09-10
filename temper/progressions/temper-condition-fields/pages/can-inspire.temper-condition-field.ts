@@ -1,4 +1,4 @@
-import type { TemperConditionField } from "../temper-condition-field.page-type.ts"
+import type { TemperConditionField } from "../temper-condition-field.page-type.types.ts"
 
 export const canInspire = {
   id: "01a07209-6b50-7b62-878d-1019c1380dd7",
