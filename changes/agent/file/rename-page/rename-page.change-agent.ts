@@ -20,7 +20,11 @@ export const renamePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type is refused here, and the refusal names the change renaming one.",
+      statement: "A page type is refused here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the change renaming a page type.",
     },
     {
       invariantKind: "departure",

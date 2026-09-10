@@ -70,7 +70,7 @@ export const addPageTypeTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the key, the shape spelled and the file spelling it.",
+      statement: "The refusal names the key and the shape spelled and the file spelling it.",
     },
   ],
   changeKind: "change-checked",

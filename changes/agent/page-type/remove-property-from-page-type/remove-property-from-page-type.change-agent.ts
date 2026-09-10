@@ -47,7 +47,7 @@ export const removePropertyFromPageType = {
     },
     {
       invariantKind: "departure",
-      statement: "The member goes first, then the part, then the declaration.",
+      statement: "The member goes first then the part then the declaration.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +71,7 @@ export const removePropertyFromPageType = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here spells an import, the mechanical taking that import away.",
+      statement: "Nothing here spells an import.",
     },
     {
       invariantKind: "absence",

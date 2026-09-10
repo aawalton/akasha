@@ -57,7 +57,7 @@ export const copyPropertyOnEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "The key read from is left where it is, with the value that key has.",
+      statement: "The key read from is left where it is with the value that key has.",
     },
     {
       invariantKind: "departure",

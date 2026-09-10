@@ -30,7 +30,7 @@ export const removePackageManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A fold into the root adds no way in, the root naming every file already.",
+      statement: "A fold into the root adds no way in.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const removePackageManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest names the root nowhere, the root being reached without being named.",
+      statement: "A manifest names the root nowhere.",
     },
     {
       invariantKind: "departure",

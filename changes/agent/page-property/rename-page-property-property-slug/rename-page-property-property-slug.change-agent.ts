@@ -145,7 +145,7 @@ export const renamePagePropertyPropertySlug = {
     {
       invariantKind: "departure",
       statement:
-        "A property no page type, record or entry shape declares is refused rather than answered empty.",
+        "A property no page type or record or entry shape declares is refused rather than answered empty.",
     },
     {
       invariantKind: "departure",
