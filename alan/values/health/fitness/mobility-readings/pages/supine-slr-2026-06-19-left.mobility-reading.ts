@@ -1,4 +1,4 @@
-import type { MobilityReading } from "../mobility-reading.page-type.ts"
+import type { MobilityReading } from "../mobility-reading.page-type.types.ts"
 
 export const supineSlr20260619Left = {
   id: "019f01e1-c05e-70ef-a211-dc2beadb1f9c",

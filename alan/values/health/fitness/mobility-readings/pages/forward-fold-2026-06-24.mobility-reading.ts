@@ -1,4 +1,4 @@
-import type { MobilityReading } from "../mobility-reading.page-type.ts"
+import type { MobilityReading } from "../mobility-reading.page-type.types.ts"
 
 export const forwardFold20260624 = {
   id: "019f01e1-bf93-7c77-be65-a55416223b29",

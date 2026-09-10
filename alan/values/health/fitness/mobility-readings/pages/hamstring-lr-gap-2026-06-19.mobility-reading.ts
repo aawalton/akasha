@@ -1,4 +1,4 @@
-import type { MobilityReading } from "../mobility-reading.page-type.ts"
+import type { MobilityReading } from "../mobility-reading.page-type.types.ts"
 
 export const hamstringLrGap20260619 = {
   id: "019f01e1-c2b6-79a2-8cb4-6e84310a8ab1",

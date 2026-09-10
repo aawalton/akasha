@@ -1,24 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../../../../pages/properties/title.text-property.ts"
-import type { Note } from "../set-logs/properties/note.text-property.ts"
-import type { Context } from "./properties/context.select-property.ts"
-import type { MobilityReadingDate } from "./properties/mobility-reading-date.calendar-date-property.ts"
-import type { MobilityReadingMetric } from "./properties/mobility-reading-metric.select-property.ts"
-import type { MobilityReadingValueNum } from "./properties/mobility-reading-value-num.number-property.ts"
-import type { MobilityReadingValueText } from "./properties/mobility-reading-value-text.text-property.ts"
-import type { Side } from "./properties/side.select-property.ts"
-
-export type MobilityReading = Page & {
-  title: Title
-  context: Context
-  mobilityReadingDate: MobilityReadingDate
-  mobilityReadingMetric: MobilityReadingMetric
-  side: Side
-  mobilityReadingValueNum?: MobilityReadingValueNum
-  mobilityReadingValueText: MobilityReadingValueText
-  note?: Note
-}
 
 export const mobilityReading = {
   id: "01a06558-36e9-75e2-bcf3-ce91fd6e945b",
@@ -69,4 +49,5 @@ export const mobilityReading = {
         "A reading has a number beside its human read where the metric is measured in numbers.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

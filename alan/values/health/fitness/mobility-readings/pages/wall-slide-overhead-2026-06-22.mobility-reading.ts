@@ -1,4 +1,4 @@
-import type { MobilityReading } from "../mobility-reading.page-type.ts"
+import type { MobilityReading } from "../mobility-reading.page-type.types.ts"
 
 export const wallSlideOverhead20260622 = {
   id: "019f01e1-c1ee-7409-a4e1-38b095c7fd9a",
