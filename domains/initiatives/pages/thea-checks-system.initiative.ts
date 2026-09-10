@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "A bare audit is still killed at its 300 second ceiling, 5:01 wall. 48 of the 51 live checks ran, 204 seconds of check wall between them, since brought to about 158. tests-pass, typecheck and types-file-runs-nothing never ran and are still last alphabetically. The peakBytes a cost row carries is the whole run's high water mark rather than one check's own, and peakAddedBytes is the per check figure. no-rule-in-two-files is 918. Alan holds the ceiling.",
+        "The audit runs to the end now under no ceiling on the clock: 5:29.75 wall, 1113 refusals. 58 checks gather and 52 run at audit, and a check that will not load refuses from itself rather than aborting the gather for every check. no-rule-in-two-files is 905, of which 86 are the LCCC copy two ESO libraries each carry; Alan has ruled that no copy is tolerated. file-has-its-page is 45.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
