@@ -19,11 +19,6 @@ export const theaChecksSystem = {
         "Both shipped addons write version 48. TemperCharacters.lua and TemperCompanions.lua each set ESO_VERSION to 48 and write it as 8 bits. The web app writes character v52 and companion v49. That constant is generated from codec-constants, so the move is a regeneration and a rebuild rather than an edit to the Lua. A build captured by the old addon stays v48 after the move.",
     },
     {
-      statement: "Every codec version the tree holds has a writer.",
-      workingMemory:
-        "Character v49, v50 and v51 have no writer and no recorded hash. Taking them out clears about 135 no-rule-in-two-files refusals, as the equipment, skills and champion point files are byte-identical across v48 to v50 and across v51 to v52. Character v48 stays until the addon writes v52. Companion v48 and v49 both have a writer today.",
-    },
-    {
       statement: "Every route file is claimed by a page.",
       workingMemory:
         "186 files under routes/ across seven web apps and code-system, against 12 route pages. Split off the wider claiming because it waits on Alan rather than on reading: one route page type is shared, a slug is unique per page type, and so `home` cannot be written seven times. Alan is settling that separately, under uniquePropertySlug, which names the property a value is unique within. Resume once a route slug is unique within its app rather than across every app.",
