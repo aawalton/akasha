@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { RelationProperty } from "@akasha/pages/relation-property"
+import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 import type { PageDomain } from "./page-domain.relation-property.ts"
 
 export type Parts = List<PageDomain>

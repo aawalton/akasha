@@ -1,6 +1,6 @@
 import type { List } from "@akasha/pages/page-property"
 import type { Slug } from "../../../pages/properties/slug.text-property.ts"
-import type { RelationProperty } from "../../../pages/relation-properties/relation-property.page-type.ts"
+import type { RelationProperty } from "../../../pages/relation-properties/relation-property.page-type.types.ts"
 
 export type Guards = List<Slug>
 

@@ -1,10 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { TargetPageType } from "./properties/target-page-type.relation-property.ts"
-
-export type RelationProperty = PageProperty & {
-  targetPageType: TargetPageType
-}
 
 export const relationProperty = {
   id: "01a04dff-9d7d-7809-9a88-4fd343f11772",
@@ -27,4 +21,5 @@ export const relationProperty = {
         "Two edges meaning different things are two relations though each edge reaches one type.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
