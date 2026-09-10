@@ -13,15 +13,15 @@ import type { TraitTypeRange } from "./properties/trait-type-range.number-proper
 import type { WeaponTypes } from "./properties/weapon-types.number-property.ts"
 
 export type TemperItemCategoryTree = TemperThing & {
-  armorTypes?: readonly ArmorTypes[]
-  equipTypes?: readonly EquipTypes[]
-  filterTypes?: readonly FilterTypes[]
-  furnitureCategoryIds?: readonly FurnitureCategoryIds[]
-  furnitureSubcategoryIds?: readonly FurnitureSubcategoryIds[]
-  itemTypes?: readonly ItemTypes[]
-  specializedItemTypes?: readonly SpecializedItemTypes[]
-  traitTypeRange?: readonly TraitTypeRange[]
-  weaponTypes?: readonly WeaponTypes[]
+  armorTypes?: ArmorTypes
+  equipTypes?: EquipTypes
+  filterTypes?: FilterTypes
+  furnitureCategoryIds?: FurnitureCategoryIds
+  furnitureSubcategoryIds?: FurnitureSubcategoryIds
+  itemTypes?: ItemTypes
+  specializedItemTypes?: SpecializedItemTypes
+  traitTypeRange?: TraitTypeRange
+  weaponTypes?: WeaponTypes
   priorityOrder?: PriorityOrder
   itemNameContains?: ItemNameContains
 }
