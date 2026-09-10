@@ -56,4 +56,5 @@ export const fileHasItsPage = {
       statement: "The audit sees a file that no page claims.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

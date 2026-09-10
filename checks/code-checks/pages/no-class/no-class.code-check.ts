@@ -60,4 +60,5 @@ export const noClass = {
         "The name a class extends is judged as written rather than by the type that name resolves to.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

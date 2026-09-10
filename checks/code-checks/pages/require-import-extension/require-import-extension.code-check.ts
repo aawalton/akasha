@@ -54,4 +54,5 @@ export const requireImportExtension = {
       statement: "No compiler setting decides the answer.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -212,4 +212,5 @@ export const typecheck = {
       statement: "A type error never lands.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

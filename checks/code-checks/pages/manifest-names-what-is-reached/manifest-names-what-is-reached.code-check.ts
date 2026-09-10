@@ -188,4 +188,5 @@ export const manifestNamesWhatIsReached = {
       statement: "An index naming no package judges clean.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

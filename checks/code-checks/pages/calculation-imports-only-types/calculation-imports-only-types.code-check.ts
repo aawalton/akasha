@@ -78,4 +78,5 @@ export const calculationImportsOnlyTypes = {
       statement: "Nothing here judges a calculation's exports.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

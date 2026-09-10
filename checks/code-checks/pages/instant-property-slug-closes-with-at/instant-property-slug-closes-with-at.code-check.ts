@@ -11,7 +11,6 @@ export const instantPropertySlugClosesWithAt = {
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
-  check: { maxCpuSeconds: 10 },
   invariants: [
     {
       invariantKind: "departure",
@@ -37,4 +36,5 @@ export const instantPropertySlugClosesWithAt = {
         "A file named otherwise than the slug the page states is `page-named-as-stated`'s to refuse.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

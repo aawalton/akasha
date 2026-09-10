@@ -102,4 +102,5 @@ export const keyNamesOneProperty = {
         "Nothing here judges a key's format nor whether any page type declares the property.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -72,4 +72,5 @@ export const nameFormatJudgesByOneShape = {
       statement: "Whether two formats have one shape is not judged here.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

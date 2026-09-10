@@ -61,4 +61,5 @@ export const emailAddressIsWellFormed = {
       statement: "Whether the domain an address stands at is reachable is not judged here.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -46,4 +46,5 @@ export const noReExport = {
         "An imported value bound to a fresh exported name is a declaration this file made.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

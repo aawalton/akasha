@@ -53,4 +53,5 @@ export const noIndexPathSpelled = {
       statement: "The use a caller makes of a path the caller was given is not judged.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

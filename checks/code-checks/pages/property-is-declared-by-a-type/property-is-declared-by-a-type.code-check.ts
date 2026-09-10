@@ -98,4 +98,5 @@ export const propertyIsDeclaredByAType = {
       statement: "A property is declared by an address naming the page type that property is.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

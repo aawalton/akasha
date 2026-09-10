@@ -61,4 +61,5 @@ export const manifestLandsOnAFile = {
       statement: "A file named by `main` or `bin` is judged as a file named by `exports` is.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -93,4 +93,5 @@ export const domainIsNamedByAParent = {
       statement: "A page arriving under no parent is refused before the page lands.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

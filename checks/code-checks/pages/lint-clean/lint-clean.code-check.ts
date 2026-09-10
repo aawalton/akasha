@@ -87,4 +87,5 @@ export const lintClean = {
       statement: "Only the files the linter is configured to read are judged.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -32,4 +32,5 @@ export const noMethodSignature = {
       statement: "The method form is refused and the function-type property is not.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

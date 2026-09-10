@@ -68,4 +68,5 @@ export const noGlobalInAModule = {
       statement: "No module body declares a global.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

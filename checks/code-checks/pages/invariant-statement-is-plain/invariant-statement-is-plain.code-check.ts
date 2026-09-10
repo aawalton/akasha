@@ -71,4 +71,5 @@ export const invariantStatementIsPlain = {
       statement: "This check runs on no phase while Alan settles how a statement is judged.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

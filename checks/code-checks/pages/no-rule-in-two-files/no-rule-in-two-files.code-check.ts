@@ -86,4 +86,5 @@ export const noRuleInTwoFiles = {
         "A rule in two files during a move from the first file to the second is a landing partway.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

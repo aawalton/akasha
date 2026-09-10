@@ -95,4 +95,5 @@ export const specifierNamesAPackage = {
       statement: "A specifier spelled with an escape is not found by the scan deciding to parse.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -73,4 +73,5 @@ export const pagePropertyHasItsFile = {
       statement: "A file a page has stopped claiming is refused.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

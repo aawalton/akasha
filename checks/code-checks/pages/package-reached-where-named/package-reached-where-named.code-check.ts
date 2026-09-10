@@ -130,4 +130,5 @@ export const packageReachedWhereNamed = {
         "A file beside a page under another section is reached only where a manifest names it.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -148,4 +148,5 @@ export const repositoryIsWrittenByAChange = {
       statement: "A write from a language other than TypeScript is not seen.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

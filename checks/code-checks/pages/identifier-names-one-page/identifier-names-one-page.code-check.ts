@@ -62,4 +62,5 @@ export const identifierNamesOnePage = {
         "Working the index out does open the page type and record property pages that index names.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

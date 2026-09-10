@@ -76,4 +76,5 @@ export const heldAddonNamesARosterAddon = {
       statement: "No folder is walked, and no path is spelled here.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

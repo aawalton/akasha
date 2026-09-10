@@ -58,4 +58,5 @@ export const noRawNulBytes = {
       statement: "A NUL is counted in the bytes rather than in the decoded text.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

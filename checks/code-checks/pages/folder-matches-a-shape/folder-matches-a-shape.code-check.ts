@@ -205,4 +205,5 @@ export const folderMatchesAShape = {
       statement: "A folder looked through to find the page above is judged all the same.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -77,4 +77,5 @@ export const clientReachesPagesThroughItsHooks = {
       statement: "No file is let off by name.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

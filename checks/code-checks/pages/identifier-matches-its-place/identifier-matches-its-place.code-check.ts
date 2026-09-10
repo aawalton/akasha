@@ -158,4 +158,5 @@ export const identifierMatchesItsPlace = {
         "A parameter opening with an underscore is passed over where the body does not read the parameter.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

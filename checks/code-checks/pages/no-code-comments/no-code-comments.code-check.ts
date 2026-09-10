@@ -49,4 +49,5 @@ export const noCodeComments = {
       statement: "The code comment forms are read from a page rather than copied into this check.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

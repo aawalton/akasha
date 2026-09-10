@@ -186,4 +186,5 @@ export const testsPass = {
         "That refusal says deleting a test nothing needs is the best way to make a file cheaper.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

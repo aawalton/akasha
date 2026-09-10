@@ -61,4 +61,5 @@ export const noRefusedSyntax = {
       statement: "A file whose bytes are not valid UTF-8 refuses the check rather than passing.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

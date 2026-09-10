@@ -125,4 +125,5 @@ export const clientReachesAServerModuleThroughARoute = {
       statement: "An index naming no router app judges clean.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -28,4 +28,5 @@ export const noEnumOrNamespace = {
       statement: "An enum and a namespace are one check.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

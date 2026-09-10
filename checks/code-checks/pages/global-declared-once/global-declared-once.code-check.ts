@@ -124,4 +124,5 @@ export const globalDeclaredOnce = {
       statement: "A global name two files declare never lands.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

@@ -107,4 +107,5 @@ export const checkReachesAPathThroughTheIndex = {
       statement: "A path no page of the index sits at is seen by nothing here.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

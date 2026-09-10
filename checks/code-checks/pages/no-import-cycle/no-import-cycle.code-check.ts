@@ -61,4 +61,5 @@ export const noImportCycle = {
         "A loop closed through a deferred import alone is not refused though the code still loops.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

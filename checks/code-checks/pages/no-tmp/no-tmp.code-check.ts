@@ -61,4 +61,5 @@ export const noTmp = {
       statement: "A reach for /tmp outside TypeScript is not seen.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

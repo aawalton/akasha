@@ -65,4 +65,5 @@ export const noColorLiteral = {
       statement: "No check has a design token value to the color page that value is read from.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

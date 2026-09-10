@@ -40,4 +40,5 @@ export const noSecondSpellingOfANameFormat = {
       statement: "A shape reached rather than spelled is nothing to read.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

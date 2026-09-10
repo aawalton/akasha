@@ -86,4 +86,5 @@ export const restatementNarrowsSomething = {
         "A restatement raising a length while that restatement narrows something else is refused.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

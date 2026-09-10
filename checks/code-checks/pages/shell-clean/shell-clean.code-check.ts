@@ -103,4 +103,5 @@ export const shellClean = {
       statement: "Only shell scripts are judged.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

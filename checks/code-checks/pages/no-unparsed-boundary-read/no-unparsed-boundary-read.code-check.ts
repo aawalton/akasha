@@ -83,4 +83,5 @@ export const noUnparsedBoundaryRead = {
       statement: "A read followed through a second variable is not seen.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

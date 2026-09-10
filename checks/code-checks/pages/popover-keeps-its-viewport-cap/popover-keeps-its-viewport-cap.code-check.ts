@@ -55,4 +55,5 @@ export const popoverKeepsItsViewportCap = {
       statement: "A change to a wrapper's own cap is judged over the files using that wrapper.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

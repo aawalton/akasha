@@ -95,4 +95,5 @@ export const fileLength = {
       statement: "Which files a machine writes is a question asked elsewhere.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

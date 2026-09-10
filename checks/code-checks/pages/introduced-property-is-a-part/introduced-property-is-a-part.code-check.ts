@@ -83,4 +83,5 @@ export const introducedPropertyIsAPart = {
         "A property two page types introduce is a part of the page type that introduces that property.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

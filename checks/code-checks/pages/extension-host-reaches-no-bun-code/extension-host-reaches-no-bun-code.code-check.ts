@@ -64,4 +64,5 @@ export const extensionHostReachesNoBunCode = {
       statement: "Pure data crosses into the host freely, reaching no bun of its own.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

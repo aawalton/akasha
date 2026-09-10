@@ -79,4 +79,5 @@ export const pageNamedAsStated = {
       statement: "The name a file has is judged against the first page the file states.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

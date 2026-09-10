@@ -72,4 +72,5 @@ export const noSpacingLiteral = {
         "No check counts how many times a granted value is written in the file granted it.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck

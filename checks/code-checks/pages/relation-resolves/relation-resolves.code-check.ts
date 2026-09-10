@@ -72,4 +72,5 @@ export const relationResolves = {
       statement: "The id of a page being taken away is read from the body the change takes away.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
 } as const satisfies CodeCheck
