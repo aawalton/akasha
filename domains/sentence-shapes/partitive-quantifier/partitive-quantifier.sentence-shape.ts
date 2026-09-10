@@ -1,4 +1,4 @@
-import type { SentenceShape } from "../sentence-shape.page-type.ts"
+import type { SentenceShape } from "../sentence-shape.page-type.types.ts"
 
 export const partitiveQuantifier = {
   id: "01a05dbf-e1d9-7c3c-bbef-a99bc4bf3d63",

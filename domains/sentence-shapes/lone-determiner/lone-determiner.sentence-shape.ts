@@ -1,4 +1,4 @@
-import type { SentenceShape } from "../sentence-shape.page-type.ts"
+import type { SentenceShape } from "../sentence-shape.page-type.types.ts"
 
 export const loneDeterminer = {
   id: "01a05def-c4fe-72b3-95b3-cfd7e5157ced",

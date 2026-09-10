@@ -1,13 +1,4 @@
-import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Allowed } from "./properties/allowed.boolean-property.ts"
-import type { Reason } from "./properties/reason.text-property.ts"
-
-export type SentenceShape = Module & {
-  test: NonNullable<Module["test"]>
-  allowed?: Allowed
-  reason?: Reason
-}
 
 export const sentenceShape = {
   id: "01a05da1-60fc-76ca-8503-b43deb6d5f53",
@@ -116,4 +107,5 @@ export const sentenceShape = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType

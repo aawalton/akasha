@@ -1,4 +1,4 @@
-import type { SentenceShape } from "../sentence-shape.page-type.ts"
+import type { SentenceShape } from "../sentence-shape.page-type.types.ts"
 
 export const closingCount = {
   id: "01a06e4c-4b93-7d7a-a9a6-9456474b061a",
