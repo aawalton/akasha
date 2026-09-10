@@ -3,7 +3,13 @@ import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { said } from "akasha/utils/run/running/running.module.code.ts"
 import { writingUnder } from "../../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.test-fixtures.ts"
-import { type Apps, IOS_APP, kindNamed, WEB_APP } from "./deploy-kind-reading.module.code.ts"
+import {
+  type Apps,
+  CLUSTER_SERVICE,
+  IOS_APP,
+  kindNamed,
+  WEB_APP,
+} from "./deploy-kind-reading.module.code.ts"
 
 const HOLD = "/var/tmp"
 
@@ -12,6 +18,8 @@ const PREFIX = "akasha-deploy-kind-"
 const WEB_APPS_AT = "akasha/service-system/web-apps/pages"
 
 const IOS_PAGES_AT = "akasha:pages/ios-app"
+
+const SERVICES_AT = "akasha/infrastructure/cluster/services/pages"
 
 type World = {
   readonly root: string
@@ -33,6 +41,18 @@ function seededWorld(): World {
   const written = writingUnder(root)
   written(`${WEB_APPS_AT}/one-web.web-app.ts`, pageOf("oneWeb", "one-web", "web-app"))
   written(`${WEB_APPS_AT}/both-app.web-app.ts`, pageOf("bothApp", "both-app", "web-app"))
+  written(
+    `${SERVICES_AT}/one-service.cluster-service.ts`,
+    pageOf("oneService", "one-service", "cluster-service")
+  )
+  written(
+    `${SERVICES_AT}/one-web.cluster-service.ts`,
+    pageOf("oneWebService", "one-web", "cluster-service")
+  )
+  written(
+    `${SERVICES_AT}/both-ways.cluster-service.ts`,
+    pageOf("bothWays", "both-ways", "cluster-service")
+  )
   said(["git", "-C", root, "init", "-q"])
   said(["git", "-C", root, "add", "-A"])
   return {
@@ -46,6 +66,7 @@ function seededWorld(): World {
 const SEEDED: Apps = {
   "phone-app": { pagePath: `${IOS_PAGES_AT}/phone-app-ios.ios-app.md` },
   "both-app": { pagePath: `${IOS_PAGES_AT}/both-app-ios.ios-app.md` },
+  "both-ways": { pagePath: `${IOS_PAGES_AT}/both-ways-ios.ios-app.md` },
 }
 
 const ios = (): Apps => SEEDED
@@ -86,15 +107,39 @@ test("a slug both kinds carry is refused rather than chosen between", () => {
   expect(why).toContain(`${IOS_PAGES_AT}/both-app-ios.ios-app.md`)
 })
 
-test("a slug neither kind carries is refused by naming both kinds", () => {
+test("a slug no kind carries is refused by naming all three kinds", () => {
   const read = kindNamed(WORLD.root, "no-such-app", ios)
   expect(read).toHaveProperty("refused")
   const why = (read as { refused: string }).refused
   expect(why).toContain("no-such-app")
   expect(why).toContain("web app")
   expect(why).toContain("ios app")
+  expect(why).toContain("cluster service")
   expect(why).toContain("one-web")
   expect(why).toContain("phone-app")
+  expect(why).toContain("one-service")
+})
+
+test("a slug only a cluster service page carries is answered as a cluster service", () => {
+  const read = kindNamed(WORLD.root, "one-service", ios)
+  expect(read).toEqual({
+    kind: CLUSTER_SERVICE,
+    pagePath: `${SERVICES_AT}/one-service.cluster-service.ts`,
+  })
+})
+
+test("a slug a web app and a cluster service both carry is answered as the web app", () => {
+  const read = kindNamed(WORLD.root, "one-web", ios)
+  expect(read).toEqual({ kind: WEB_APP, pagePath: `${WEB_APPS_AT}/one-web.web-app.ts` })
+})
+
+test("a slug an ios app and a cluster service both carry is refused rather than chosen between", () => {
+  const read = kindNamed(WORLD.root, "both-ways", ios)
+  expect(read).toHaveProperty("refused")
+  const why = (read as { refused: string }).refused
+  expect(why).toContain("unsettled")
+  expect(why).toContain(`${IOS_PAGES_AT}/both-ways-ios.ios-app.md`)
+  expect(why).toContain(`${SERVICES_AT}/both-ways.cluster-service.ts`)
 })
 
 test("a root git will not list is refused by naming git", () => {

@@ -1,6 +1,7 @@
 import { basename } from "node:path"
 import { mobileApps } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
+  CLUSTER_SERVICE_SUFFIX,
   namedAmong,
   pagesUnder,
 } from "../../../../../infrastructure/cluster/services/web-app-reading/web-app-reading.module.code.ts"
@@ -9,9 +10,11 @@ export const WEB_APP = "web-app"
 
 export const IOS_APP = "ios-app"
 
+export const CLUSTER_SERVICE = "cluster-service"
+
 const WEB_APP_SUFFIX = ".web-app.ts"
 
-export type Kind = typeof WEB_APP | typeof IOS_APP
+export type Kind = typeof WEB_APP | typeof IOS_APP | typeof CLUSTER_SERVICE
 
 export type Named = {
   readonly kind: Kind
@@ -36,6 +39,10 @@ function having(label: string, slugs: readonly string[]): string {
 export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileApps): Read {
   const webApps = pagesUnder(root, WEB_APP_SUFFIX)
   if (webApps === null) return { refused: `git could not list the web app pages under ${root}` }
+  const services = pagesUnder(root, CLUSTER_SERVICE_SUFFIX)
+  if (services === null) {
+    return { refused: `git could not list the cluster service pages under ${root}` }
+  }
   let ios: Apps
   try {
     ios = iosApps()
@@ -47,16 +54,26 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
   }
   const webNamed = namedAmong(webApps, slug, WEB_APP_SUFFIX)
   const iosNamed = ios[slug]
+  const serviceNamed = namedAmong(services, slug, CLUSTER_SERVICE_SUFFIX)
   if (webNamed.length > 0 && iosNamed !== undefined) {
     return {
       refused: `a web app page and an ios app page are both named \`${slug}\`, so which app is meant is unsettled: ${[...webNamed, iosNamed.pagePath].join(", ")}`,
     }
   }
+  if (iosNamed !== undefined && serviceNamed.length > 0) {
+    return {
+      refused: `an ios app page and a cluster service page are both named \`${slug}\`, so what is meant is unsettled: ${[iosNamed.pagePath, ...serviceNamed].join(", ")}`,
+    }
+  }
   if (webNamed.length > 0) return { kind: WEB_APP, pagePath: webNamed[0] as string }
   if (iosNamed !== undefined) return { kind: IOS_APP, pagePath: iosNamed.pagePath }
+  if (serviceNamed.length > 0) {
+    return { kind: CLUSTER_SERVICE, pagePath: serviceNamed[0] as string }
+  }
   const webs = having("web app", slugsOf(webApps, WEB_APP_SUFFIX))
   const ioses = having("ios app", Object.keys(ios).sort())
+  const servers = having("cluster service", slugsOf(services, CLUSTER_SERVICE_SUFFIX))
   return {
-    refused: `no web app page and no ios app page is named \`${slug}\` — ${webs}, and ${ioses}`,
+    refused: `no web app page, no ios app page and no cluster service page is named \`${slug}\` — ${webs}, ${ioses}, and ${servers}`,
   }
 }

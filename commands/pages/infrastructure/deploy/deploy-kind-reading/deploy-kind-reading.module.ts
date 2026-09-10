@@ -5,17 +5,22 @@ export const deployKindReading = {
   pageTypeSlug: "module",
   type: "module",
   slug: "deploy-kind-reading",
-  definition: "the kind of app a slug names, with the page carrying that slug",
+  definition: "the kind of thing a slug names, with the page carrying that slug",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A slug is looked for among the web app pages and the ios app pages alike.",
+      statement:
+        "A slug is looked for among the web app pages, the ios app pages and the cluster service pages alike.",
     },
     {
       invariantKind: "departure",
       statement: "A web app page is found by the suffix its filename has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cluster service page is found by the suffix its filename has.",
     },
     {
       invariantKind: "departure",
@@ -39,11 +44,19 @@ export const deployKindReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug both kinds have is refused rather than chosen between.",
+      statement: "A slug a web app page and an ios app page both carry is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A slug neither kind has is refused by naming the slugs each kind has.",
+      statement: "A slug an ios app page and a cluster service page both carry is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug a web app page and a cluster service page both carry names the web app.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug no kind has is refused by naming the slugs each kind has.",
     },
     {
       invariantKind: "departure",

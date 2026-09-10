@@ -1,8 +1,16 @@
+import {
+  appliedWorkload,
+  servableNamed,
+} from "../../../../infrastructure/cluster/services/workload-applying/workload-applying.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
 import { allowedThrough } from "../../../modules/stopping/command-stopping.module.code.ts"
 import { shipIosApp } from "./deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
-import { IOS_APP, kindNamed } from "./deploy-kind-reading/deploy-kind-reading.module.code.ts"
+import {
+  CLUSTER_SERVICE,
+  IOS_APP,
+  kindNamed,
+} from "./deploy-kind-reading/deploy-kind-reading.module.code.ts"
 import { putUpWebApp } from "./deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
 
 const INPUT = 1
@@ -83,17 +91,25 @@ export async function infrastructureDeploy(argv: readonly string[], given: Given
     }
     return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), ref)
   }
+  const what = read.kind === CLUSTER_SERVICE ? "a cluster service" : "a web app"
   if (rest.includes(NO_UPLOAD)) {
     return refused(
-      `\`${slug}\` names a web app, which is put up rather than uploaded, so \`${NO_UPLOAD}\` says nothing about it — a run that applies nothing is \`${DRY_RUN}\``,
+      `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${NO_UPLOAD}\` says nothing about it — a run that applies nothing is \`${DRY_RUN}\``,
       INPUT
     )
   }
   if (ref !== null) {
     return refused(
-      `\`${slug}\` names a web app, which is built from the commit this workstation's HEAD is at rather than from one told, so \`${REF}\` says nothing about it`,
+      read.kind === CLUSTER_SERVICE
+        ? `\`${slug}\` names a cluster service, which runs the image its page names rather than a commit built here, so \`${REF}\` says nothing about it`
+        : `\`${slug}\` names a web app, which is built from the commit this workstation's HEAD is at rather than from one told, so \`${REF}\` says nothing about it`,
       INPUT
     )
+  }
+  if (read.kind === CLUSTER_SERVICE) {
+    const servable = servableNamed(given.root, slug)
+    if ("refused" in servable) return refused(servable.refused, DATA)
+    return appliedWorkload(given.root, slug, servable.servable, rest.includes(DRY_RUN))
   }
   return putUpWebApp(slug, given, rest.includes(DRY_RUN))
 }

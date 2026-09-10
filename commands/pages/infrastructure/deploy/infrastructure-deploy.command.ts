@@ -5,7 +5,7 @@ export const infrastructureDeploy = {
   pageTypeSlug: "command",
   type: "command",
   slug: "infrastructure-deploy",
-  definition: "the command putting up the app a page describes",
+  definition: "the command putting up what a page describes",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -17,8 +17,11 @@ export const infrastructureDeploy = {
     "module/deploy-web-putting-up",
   ],
   taking: [
-    { said: "<slug>", takes: "the app to put up, named by the slug its page carries" },
-    { said: "--dry-run", takes: "say what a web app would have applied and change nothing" },
+    {
+      said: "<slug>",
+      takes: "the app or cluster service to put up, named by the slug its page carries",
+    },
+    { said: "--dry-run", takes: "say what would have been applied and change nothing" },
     { said: "--no-upload", takes: "build and validate an ios app without uploading it" },
     { said: "--ref <rev>", takes: "the commit an ios app is built at" },
     {
@@ -27,8 +30,10 @@ export const infrastructureDeploy = {
     },
   ],
   helpNotes: [
-    "one call names one app, and a second name is refused rather than chosen between.",
-    "which kind of app a slug names is read from the pages carrying that slug, and a slug both a web app and an ios app carry is refused rather than chosen between.",
+    "one call names one thing, and a second name is refused rather than chosen between.",
+    "which kind of thing a slug names is read from the pages carrying that slug, and a slug both a web app and an ios app carry is refused rather than chosen between.",
+    "a slug a web app and a cluster service both carry names the web app, because putting up that web app puts up the cluster service it names.",
+    "a cluster service no web app names is put up here too, its manifests applied and nothing built, since it runs the image its page names.",
     "an ios app is named by the `app-slug` its page states, which is its short name rather than the page's own slug.",
     "an ios app is built on the MacBook at Release at the commit `--ref` names, and the build takes its own number.",
     "`--ref` takes whatever git resolves — a branch, a tag or a sha — and a call naming none builds the commit HEAD is at.",
@@ -38,7 +43,7 @@ export const infrastructureDeploy = {
     "the report names the commit asked for before the build begins and the commit each half was pinned to once it has.",
     "nothing is said until an ios build has finished, because a command prints nothing itself, and what the build said is the report.",
     "an upload reaches every internal tester, since each app's one group holds all builds and each build notifies, so `--no-upload` is what holds a build back from a phone.",
-    "`--dry-run` belongs to a web app, `--no-upload` and `--ref` to an ios app, and one named on the other kind is refused rather than ignored.",
+    "`--dry-run` belongs to a web app and to a cluster service, `--no-upload` and `--ref` to an ios app, and one named on another kind is refused rather than ignored.",
     "`--measured` lifts the ceiling the call runs under, so a deploy longer than that ceiling finishes rather than being stopped part way.",
     "`--measured` belongs to a deploy of either kind, since either kind can run past the ceiling.",
     "an ios deploy that archived, exported and uploaded measured 228 seconds on 2026-09-09, which is what the seconds this page states leave room over.",
@@ -54,11 +59,11 @@ export const infrastructureDeploy = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A deploy names one app.",
+      statement: "A deploy names one thing.",
     },
     {
       invariantKind: "departure",
-      statement: "Which kind of app a slug names settles how that app is put up.",
+      statement: "Which kind of thing a slug names settles how that thing is put up.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +72,11 @@ export const infrastructureDeploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug no app page of either kind carries is refused by naming both kinds.",
+      statement: "A slug no page of any of the three kinds carries is refused by naming all three.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cluster service is put up with nothing built.",
     },
     {
       invariantKind: "departure",
