@@ -1,4 +1,4 @@
-import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.ts"
+import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.types.ts"
 
 export const characterClass = {
   id: "01a05fce-2962-7125-8f42-408279e72b57",

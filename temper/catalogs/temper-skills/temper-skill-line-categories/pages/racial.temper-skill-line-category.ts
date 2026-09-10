@@ -1,4 +1,4 @@
-import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.ts"
+import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.types.ts"
 
 export const racial = {
   id: "019e2fc7-4af8-7d18-b7ae-5f611085b256",

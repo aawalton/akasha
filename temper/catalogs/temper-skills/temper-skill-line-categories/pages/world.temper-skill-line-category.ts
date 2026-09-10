@@ -1,4 +1,4 @@
-import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.ts"
+import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.types.ts"
 
 export const world = {
   id: "019e2fc7-4af7-70cf-b198-c892549a0a6e",

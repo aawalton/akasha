@@ -1,4 +1,4 @@
-import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.ts"
+import type { TemperSkillLineCategory } from "../temper-skill-line-category.page-type.types.ts"
 
 export const armor = {
   id: "019e2fc7-4af6-764e-92b8-3f46c0f643cf",
