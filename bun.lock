@@ -13,7 +13,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/git": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/object-store": "workspace:*",
@@ -475,14 +474,6 @@
       "name": "@types/vscode",
       "version": "1.110.0",
     },
-    "git": {
-      "name": "@akasha/git",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "infrastructure/cluster/manifests": {
       "name": "@akasha/cluster-manifests",
       "dependencies": {
@@ -572,7 +563,6 @@
       "name": "@akasha/pages-service",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/git": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
       },
@@ -1056,8 +1046,6 @@
     "@akasha/errors-client": ["@akasha/errors-client@workspace:alan/harness/errors-client"],
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:alan/harness/errors-core"],
-
-    "@akasha/git": ["@akasha/git@workspace:git"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
 

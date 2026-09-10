@@ -30,7 +30,6 @@
     "rrule": "^2.8.1",
     "yaml": "^2.8.1",
     "zod": "^4.3.6",
-    "@akasha/git": "workspace:*",
     "@akasha/code": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "class-variance-authority": "^0.7.1",

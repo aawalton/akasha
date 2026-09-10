@@ -1,10 +1,10 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { textIn, textOf } from "@akasha/code/body-text"
-import { gitIgnoring } from "@akasha/git/git-pathspec"
 import type { Change } from "@akasha/pages/change"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { gitIgnoring } from "akasha/git/git-pathspec/git-pathspec.module.code.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type {
   Adding,
