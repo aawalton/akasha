@@ -1,8 +1,4 @@
 import type { OneOfProperty } from "akasha/pages/one-of-properties/one-of-property.page-type.types.ts"
-import type { PublishedAt } from "./published-at.instant-property.types.ts"
-import type { PublishedDay } from "./published-day.calendar-date-property.types.ts"
-
-export type CollectionPublishedAt = PublishedDay | PublishedAt
 
 export const collectionPublishedAt = {
   id: "01a063de-2c60-700f-a1f5-3c8c3ba8a091",
@@ -18,4 +14,5 @@ export const collectionPublishedAt = {
       statement: "A release known only to the day is written as a day rather than as midnight.",
     },
   ],
+  types: "ts",
 } as const satisfies OneOfProperty

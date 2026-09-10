@@ -3,7 +3,7 @@ import type { Description } from "../../pages/properties/description.text-proper
 import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
 import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.types.ts"
 import type { CollectionCompletion } from "./properties/collection-completion.computed-property.types.ts"
-import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
+import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.types.ts"
 import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
 import type { CollectionType } from "./properties/collection-type.relation-property.types.ts"
 import type { CollectionUnit } from "./properties/collection-unit.relation-property.types.ts"

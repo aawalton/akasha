@@ -1,8 +1,4 @@
-import type { Initiative } from "akasha/domains/initiatives/properties/initiative.relation-property.types.ts"
-import type { PageDomain } from "akasha/domains/properties/page-domain.relation-property.types.ts"
 import type { OneOfProperty } from "akasha/pages/one-of-properties/one-of-property.page-type.types.ts"
-
-export type AssignmentSlug = PageDomain | Initiative
 
 export const assignmentSlug = {
   id: "01a053a2-d0e7-7948-a966-74efed3c62f0",
@@ -34,4 +30,5 @@ export const assignmentSlug = {
       statement: "A subagent may name an assignment that is no page.",
     },
   ],
+  types: "ts",
 } as const satisfies OneOfProperty
