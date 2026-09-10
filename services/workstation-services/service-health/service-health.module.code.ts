@@ -1,3 +1,4 @@
+import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { everyService } from "../service-reading/service-reading.module.code.ts"
 import { isScheduled, type Service } from "../unit-writing/unit-writing.module.code.ts"
@@ -7,6 +8,7 @@ const ID = "Id"
 const ACTIVE_STATE = "ActiveState"
 const RESULT = "Result"
 const WELL = new Set(["active", "activating", "reloading"])
+const UNBOUND = "unbound"
 
 export type UnitState = {
   readonly activeState: string
@@ -18,6 +20,7 @@ export type Watched = {
   readonly unit: string
   readonly pagePath: string
   readonly scheduled: boolean
+  readonly unbound: readonly string[]
 }
 
 export type Health = {
@@ -27,7 +30,13 @@ export type Health = {
   readonly broken: string | null
 }
 
-export function watchedIn(services: readonly Service[]): readonly Watched[] {
+export function unboundAt(root: string, pagePath: string): readonly string[] {
+  const held = uncommittedIn(root, pagePath)?.[UNBOUND]
+  if (!Array.isArray(held)) return []
+  return held.filter((one): one is string => typeof one === "string")
+}
+
+export function watchedIn(root: string, services: readonly Service[]): readonly Watched[] {
   const found: Watched[] = []
   for (const one of services) {
     if (!one.service.enabled) continue
@@ -36,6 +45,7 @@ export function watchedIn(services: readonly Service[]): readonly Watched[] {
       unit: `${one.service.slug}${SERVICE_SUFFIX}`,
       pagePath: one.pagePath,
       scheduled: isScheduled(one),
+      unbound: unboundAt(root, one.pagePath),
     })
   }
   return found
@@ -60,6 +70,9 @@ export function brokenIn(one: Watched, state: UnitState | undefined): string | n
   if (state === undefined) return `${one.unit} is no unit systemd knows`
   if (state.activeState === "failed") {
     return `${one.unit} failed, and systemd says \`${state.result}\``
+  }
+  if (one.unbound.length > 0) {
+    return `${one.unit} is not listening at ${one.unbound.join(", ")}, which its page states`
   }
   if (one.scheduled) return null
   if (WELL.has(state.activeState)) return null
@@ -89,6 +102,6 @@ export function healthFor(
 ): readonly Health[] | string {
   const read = everyService(root)
   if ("refused" in read) return read.refused
-  const watched = watchedIn(read.services)
+  const watched = watchedIn(root, read.services)
   return healthIn(watched, statesIn(show(watched.map((one) => one.unit))))
 }

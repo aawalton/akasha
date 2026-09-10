@@ -22,6 +22,18 @@ export const serviceHealth = {
     },
     {
       invariantKind: "departure",
+      statement: "A service publishing a host name it could not bind is broken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host name unbound is broken whether or not that service is scheduled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a service published beside its page is read from the checkout looked at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A scheduled service resting between its runs is well.",
     },
     {

@@ -1,8 +1,23 @@
 import { expect, test } from "bun:test"
+import { mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { bindsFor, LOOPBACK, portFor, serversFor } from "./page-listening.module.code.ts"
+import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import {
+  bindsFor,
+  boundAgain,
+  LOOPBACK,
+  portFor,
+  saying,
+  serversFor,
+  UNBOUND,
+  unboundIn,
+} from "./page-listening.module.code.ts"
 
 const ROOT = join(import.meta.dir, "..", "..", "..")
+
+const NOWHERE = "this-name-is-nowhere.invalid"
+
+const PAGE = "held/a.workstation-service.ts"
 
 function onlyOne() {
   const bound = serversFor({ root: ROOT, port: 0, binds: [LOOPBACK] })
@@ -47,7 +62,7 @@ test("the host names bound are read from the page rather than written here", () 
   expect(held).not.toContain("0.0.0.0")
 })
 
-test("what is bound stands at the host name it was given and at no other", () => {
+test("what is bound is at the host name it was given and at no other", () => {
   const bound = serversFor({ root: ROOT, port: 0, binds: [LOOPBACK] })
   try {
     expect(bound.servers.length).toBe(1)
@@ -57,18 +72,59 @@ test("what is bound stands at the host name it was given and at no other", () =>
   }
 })
 
-test("a host name that will not bind is said while the rest are bound", () => {
-  const bound = serversFor({
-    root: ROOT,
-    port: 0,
-    binds: ["this-name-stands-nowhere.invalid", LOOPBACK],
-  })
+test("a host name that will not bind leaves the rest of the host names bound", () => {
+  const bound = serversFor({ root: ROOT, port: 0, binds: [NOWHERE, LOOPBACK] })
   try {
     expect(bound.refused.length).toBe(1)
+    expect(bound.refused[0]?.hostname).toBe(NOWHERE)
+    expect(unboundIn(bound)).toEqual([NOWHERE])
     expect(bound.servers.length).toBe(1)
   } finally {
     for (const one of bound.servers) one.stop(true)
   }
+})
+
+test("a host name that will not bind is published beside the page", () => {
+  const root = mkdtempSync("/var/tmp/page-listening-unbound-")
+  try {
+    saying(root, PAGE, [NOWHERE])
+    expect(uncommittedIn(root, PAGE)?.[UNBOUND]).toEqual([NOWHERE])
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("a service listening on every host name it states publishes none unbound", () => {
+  const root = mkdtempSync("/var/tmp/page-listening-bound-")
+  try {
+    saying(root, PAGE, [NOWHERE])
+    saying(root, PAGE, [])
+    expect(uncommittedIn(root, PAGE)?.[UNBOUND]).toBe(undefined)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("a host name that would not bind is tried again and binds once it can", () => {
+  const given = { root: ROOT, port: 0, binds: [] }
+  const empty = serversFor(given)
+  const mended = boundAgain(given, {
+    ...empty,
+    refused: [{ hostname: LOOPBACK, why: "nothing was listening" }],
+  })
+  try {
+    expect(unboundIn(mended)).toEqual([])
+    expect(mended.servers.length).toBe(1)
+  } finally {
+    for (const one of mended.servers) one.stop(true)
+  }
+})
+
+test("a host name that will not bind is unbound again after another try", () => {
+  const given = { root: ROOT, port: 0, binds: [NOWHERE] }
+  const again = boundAgain(given, serversFor(given))
+  expect(unboundIn(again)).toEqual([NOWHERE])
+  expect(again.servers.length).toBe(0)
 })
 
 test("a question is answered while another is still being answered", async () => {

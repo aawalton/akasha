@@ -41,6 +41,7 @@ export const workstationService = {
     "text-property/runs",
     "text-property/schedule",
     "text-property/stops",
+    "text-property/unbound",
     "text-property/wanted-by",
     "text-property/wants",
     "module/tick-ratchet",
@@ -53,6 +54,13 @@ export const workstationService = {
     { pageProperty: "boolean-property/needs-secrets", required: false, many: false },
     { pageProperty: "number-property/port", required: false, many: false },
     { pageProperty: "text-property/binds", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "text-property/unbound",
+      required: false,
+      many: true,
+      maxCount: null,
+      uncommitted: true,
+    },
     {
       pageProperty: "boolean-property/well",
       required: false,
@@ -111,6 +119,15 @@ export const workstationService = {
       invariantKind: "departure",
       statement:
         "A service that is not to be running says so on its page rather than in a verdict.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service publishes beside its page every host name it states and could not bind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service publishing a host name it could not bind is broken.",
     },
     {
       invariantKind: "gap",

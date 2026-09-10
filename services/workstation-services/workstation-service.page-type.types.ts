@@ -6,6 +6,7 @@ import type { NeedsSecrets } from "./properties/needs-secrets.boolean-property.t
 import type { Port } from "./properties/port.number-property.ts"
 import type { Runs } from "./properties/runs.text-property.ts"
 import type { Systemd } from "./properties/systemd.record-property.ts"
+import type { Unbound } from "./properties/unbound.text-property.ts"
 import type { Well } from "./properties/well.boolean-property.ts"
 
 export type WorkstationService = Service & {
@@ -15,6 +16,7 @@ export type WorkstationService = Service & {
   needsSecrets?: NeedsSecrets
   port?: Port
   binds?: Binds
+  unbound?: Unbound
   well?: Well
   lookedAt?: LookedAt
 }

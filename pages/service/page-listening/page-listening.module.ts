@@ -27,7 +27,24 @@ export const pageListening = {
     },
     {
       invariantKind: "departure",
-      statement: "A host name that will not bind is said rather than stopping the rest.",
+      statement: "A host name that will not bind leaves the rest of the host names bound.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A host name that will not bind is published beside the page describing the service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host name that will not bind is tried again until that host name binds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service listening on every host name its page states publishes none unbound.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is published is what this run found rather than what an earlier run found.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +52,7 @@ export const pageListening = {
     },
     {
       invariantKind: "departure",
-      statement: "One writer stands behind every host name bound.",
+      statement: "One writer is behind every host name bound.",
     },
     {
       invariantKind: "departure",

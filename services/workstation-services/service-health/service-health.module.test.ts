@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { mkdtempSync, rmSync } from "node:fs"
+import { keepUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import type { WorkstationService } from "../workstation-service.page-type.types.ts"
 import {
   brokenIn,
@@ -20,6 +22,10 @@ const BASE = {
 
 const PAGE = "akasha/a.workstation-service.ts"
 
+const ROOT = process.cwd()
+
+const OFF = "workstation.alanwalton.ts.net"
+
 function pageOf(more: Partial<WorkstationService>) {
   return { service: { ...BASE, ...more }, pagePath: PAGE }
 }
@@ -29,9 +35,12 @@ const RUNNING: Watched = {
   unit: "held-service.service",
   pagePath: PAGE,
   scheduled: false,
+  unbound: [],
 }
 
 const TIMED: Watched = { ...RUNNING, scheduled: true }
+
+const REFUSED: Watched = { ...RUNNING, unbound: [OFF] }
 
 const SHOWN =
   "Id=a.service\nActiveState=active\nResult=success\n\nId=b.service\nActiveState=failed\nResult=exit-code"
@@ -72,25 +81,57 @@ test("a unit systemd does not know is broken rather than well", () => {
 })
 
 test("a service that is not to be running is watched by nothing", () => {
-  expect(watchedIn([pageOf({ enabled: false })])).toEqual([])
+  expect(watchedIn(ROOT, [pageOf({ enabled: false })])).toEqual([])
 })
 
 test("a service stating a schedule is watched as a scheduled one", () => {
-  const watched = watchedIn([pageOf({ systemd: { schedule: "daily" } })])
+  const watched = watchedIn(ROOT, [pageOf({ systemd: { schedule: "daily" } })])
   expect(watched[0]?.scheduled).toBe(true)
   expect(watched[0]?.unit).toBe("held-service.service")
 })
 
 test("the page a service is stated on is carried with that service's health", () => {
-  expect(watchedIn([pageOf({})])[0]?.pagePath).toBe(PAGE)
-  expect(healthIn(watchedIn([pageOf({})]), statesIn(""))[0]?.pagePath).toBe(PAGE)
+  expect(watchedIn(ROOT, [pageOf({})])[0]?.pagePath).toBe(PAGE)
+  expect(healthIn(watchedIn(ROOT, [pageOf({})]), statesIn(""))[0]?.pagePath).toBe(PAGE)
 })
 
 test("the health of every unit watched is answered together", () => {
   const states = statesIn("Id=held-service.service\nActiveState=failed\nResult=exit-code")
-  const health = healthIn(watchedIn([pageOf({})]), states)
+  const health = healthIn(watchedIn(ROOT, [pageOf({})]), states)
   expect(health.length).toBe(1)
   expect(health[0]?.broken).toContain("failed")
+})
+
+test("a service saying it could not bind a host name its page states is broken", () => {
+  const said = brokenIn(REFUSED, { activeState: "active", result: "success" })
+  expect(said).toContain("not listening")
+  expect(said).toContain(OFF)
+})
+
+test("a host name unbound is broken though that service is scheduled", () => {
+  const said = brokenIn({ ...REFUSED, scheduled: true }, { activeState: "inactive", result: "" })
+  expect(said).toContain(OFF)
+})
+
+test("a service listening on every host name its page states is well", () => {
+  expect(brokenIn(RUNNING, { activeState: "active", result: "success" })).toBe(null)
+})
+
+test("what a service published as unbound is carried into what is watched", () => {
+  const root = mkdtempSync("/var/tmp/service-health-unbound-")
+  try {
+    keepUncommitted(root, PAGE, { unbound: [OFF] })
+    const watched = watchedIn(root, [pageOf({})])
+    expect(watched[0]?.unbound).toEqual([OFF])
+    const health = healthIn(watched, statesIn("Id=held-service.service\nActiveState=active"))
+    expect(health[0]?.broken).toContain(OFF)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("a service publishing nothing unbound carries no host name", () => {
+  expect(watchedIn(ROOT, [pageOf({})])[0]?.unbound).toEqual([])
 })
 
 test("the services there today are read, and what systemd is asked is what they are installed as", () => {
