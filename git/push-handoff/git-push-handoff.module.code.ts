@@ -14,6 +14,7 @@ import { holderProcessRuns } from "akasha/file-system/lock-holder-runs/lock-hold
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { remoteOf } from "akasha/git/pushing/git-pushing.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const STATE_DIR = "harness-push"
 
@@ -110,7 +111,7 @@ export function releasePushLock(root: string): undefined {
 }
 
 function onPath(name: string): string | null {
-  for (const dir of (process.env["PATH"] ?? "").split(":")) {
+  for (const dir of (optionalEnv("PATH") ?? "").split(":")) {
     if (dir === "") continue
     const at = join(dir, name)
     try {

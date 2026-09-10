@@ -1,12 +1,13 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const REPO_RELATIVE_CA = "infrastructure/cluster/provisioning/cluster-ca/ca.crt"
 
 export function registryCaPath(): string {
-  const explicit = process.env.CLUSTER_CA_PATH
-  if (explicit !== undefined && explicit !== "") return explicit
+  const explicit = optionalEnv("CLUSTER_CA_PATH")
+  if (explicit !== undefined) return explicit
   return resolve(ownRepoRoot(), REPO_RELATIVE_CA)
 }
 
