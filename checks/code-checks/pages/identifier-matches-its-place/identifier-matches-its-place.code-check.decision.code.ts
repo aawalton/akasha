@@ -203,6 +203,16 @@ export function declaring(at: string): boolean {
   return at.endsWith(DECLARED)
 }
 
+function stating(node: ts.Node): boolean {
+  const modifiers = ts.canHaveModifiers(node) ? ts.getModifiers(node) : undefined
+  if (modifiers !== undefined) {
+    for (const one of modifiers) {
+      if (one.kind === ts.SyntaxKind.DeclareKeyword) return true
+    }
+  }
+  return ts.isFunctionDeclaration(node) && node.body === undefined
+}
+
 export function refusedIn(at: string, text: string, places: Places): readonly string[] {
   if (declaring(at)) return []
   const source = parsedAs(at, text)
@@ -225,6 +235,7 @@ export function refusedIn(at: string, text: string, places: Places): readonly st
     return take(name, "function", places.functionIdentifier)
   }
   const walk = (node: ts.Node, holding: ts.Node | null): undefined => {
+    if (stating(node)) return
     if (ts.isTypeAliasDeclaration(node)) take(node.name, "type", places.typeIdentifier)
     if (ts.isInterfaceDeclaration(node)) take(node.name, "interface", places.typeIdentifier)
     if (ts.isFunctionDeclaration(node) && node.name !== undefined) {

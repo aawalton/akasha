@@ -289,10 +289,16 @@ test("a name is a component only where the element opening with it is in the sam
 })
 
 test("a declaration file states names another writer chose, so none of them is judged", () => {
-  const body =
-    "declare function GetItemLink(id: number): string\ndeclare const BAG_BACKPACK: number\n"
+  const body = "type bag_slot = number\n"
   expect(refusedIn("akasha/eso-writ.type-declaration.d.ts", body, PLACES)).toEqual([])
   expect(refusedIn(AT, body, PLACES)).toHaveLength(1)
+})
+
+test("a declaration in an ordinary file is passed over, and a name beside it is not", () => {
+  const body =
+    "declare function zo_callLater(): undefined\nexport function GetItemLink(): string\n" +
+    "function BadName() {}\n"
+  expect(refusedIn(AT, body, PLACES)[0]).toContain("the function `BadName`")
 })
 
 test("a function answering with an object holding an element draws nothing", () => {
