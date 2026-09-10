@@ -1,4 +1,4 @@
-import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
+import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.types.ts"
 
 export const loreLibrary = {
   id: "01a05fc5-7430-7f7e-8208-2bf680e93a3d",

@@ -1,4 +1,4 @@
-import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
+import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.types.ts"
 
 export const cadwell = {
   id: "01a05fc5-742e-769c-8da2-55e39d84295a",

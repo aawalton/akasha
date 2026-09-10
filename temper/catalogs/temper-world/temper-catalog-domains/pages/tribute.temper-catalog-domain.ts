@@ -1,4 +1,4 @@
-import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
+import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.types.ts"
 
 export const tribute = {
   id: "01a05fc5-7432-75e7-9867-6afe94511048",

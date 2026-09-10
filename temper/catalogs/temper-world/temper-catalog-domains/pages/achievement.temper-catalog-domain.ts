@@ -1,4 +1,4 @@
-import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
+import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.types.ts"
 
 export const achievement = {
   id: "01a05fc5-742e-7187-a89f-e39a11d5559f",

@@ -1,4 +1,4 @@
-import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
+import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.types.ts"
 
 export const recipe = {
   id: "01a05fc5-7431-7a5c-80fa-9ef426145ff9",
