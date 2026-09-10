@@ -231,8 +231,8 @@ test("a path only an authored body imports could turn nothing", () => {
   expect(couldTurn(leaving(rootWhereTypesAreGenerated(AN_AUTHORED_BODY), null))).toBe(false)
 })
 
-test("a path the change still leaves a body at could turn nothing", () => {
+test("a path a generated body imports could turn a type though a body is left there", () => {
   const root = rootWhereTypesAreGenerated(A_GENERATED_BODY)
 
-  expect(couldTurn(leaving(root, "export type Held = number\n"))).toBe(false)
+  expect(couldTurn(leaving(root, "export type Held = number\n"))).toBe(true)
 })

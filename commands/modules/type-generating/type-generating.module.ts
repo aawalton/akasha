@@ -84,7 +84,7 @@ export const typeGenerating = {
     {
       invariantKind: "departure",
       statement:
-        "A path the change leaves no body at, that a generated body imports, could turn a type.",
+        "A path a generated body imports could turn a type whether the change writes or takes it.",
     },
     {
       invariantKind: "departure",

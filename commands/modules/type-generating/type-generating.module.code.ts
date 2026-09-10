@@ -129,17 +129,17 @@ function generatedReader(facing: Facing, reading: Reading, path: string): boolea
   return false
 }
 
-function readByGenerated(root: string, gone: readonly string[]): boolean {
+function readByGenerated(root: string, paths: readonly string[]): boolean {
   const reading = readingIn(root)
   const facing = facingOn(reading)
-  for (const path of gone) {
+  for (const path of paths) {
     if (generatedReader(facing, reading, path)) return true
   }
   return false
 }
 
 export function couldTurn(change: Change): boolean {
-  const gone: string[] = []
+  const pages: string[] = []
   for (const path of change.changed) {
     const said = partedIn(path)
     if (said === null || said.held !== HOLDS) continue
@@ -147,9 +147,9 @@ export function couldTurn(change: Change): boolean {
     if (said.sections.includes(TYPES)) return true
     if (said.sections.length > 0) continue
     if (said.pageType === PAGE_TYPE) return true
-    if (change.after(path) === null && change.before(path) !== null) gone.push(path)
+    pages.push(path)
   }
-  return gone.length > 0 && readByGenerated(change.root, gone)
+  return pages.length > 0 && readByGenerated(change.root, pages)
 }
 
 export function typesFor(change: Change): Typed {
