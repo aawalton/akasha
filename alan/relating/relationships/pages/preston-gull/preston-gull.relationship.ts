@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const prestonGull = {
   id: "019db533-f385-711d-a194-f8a224691db0",

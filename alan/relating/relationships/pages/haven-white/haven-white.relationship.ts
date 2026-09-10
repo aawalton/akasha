@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const havenWhite = {
   id: "019db533-f383-78ad-ab62-70961d388af1",

@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const macComly = {
   id: "019db533-f382-7f1e-b2bc-c614428a2f97",

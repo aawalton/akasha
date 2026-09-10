@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const lexisMoody = {
   id: "019db533-f384-7064-be9c-29367494ee8b",

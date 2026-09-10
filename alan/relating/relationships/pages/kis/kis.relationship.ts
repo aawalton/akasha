@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const kis = {
   id: "019f4cf4-156b-702f-b8c5-482e6569368d",

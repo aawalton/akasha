@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const dandan = {
   id: "019f4d3d-f4ad-7f43-beeb-0782e7c6b620",

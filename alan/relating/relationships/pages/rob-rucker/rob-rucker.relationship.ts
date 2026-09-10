@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const robRucker = {
   id: "019db533-f383-79c8-9e58-2bfd94b5fd2d",

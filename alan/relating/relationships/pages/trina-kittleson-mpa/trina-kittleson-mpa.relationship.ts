@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const trinaKittlesonMpa = {
   id: "019db533-f384-7a31-bac7-e0e2b80e1141",

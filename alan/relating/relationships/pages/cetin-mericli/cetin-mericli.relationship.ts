@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const cetinMericli = {
   id: "019db533-f383-741d-b948-9dcc9bbd1a39",

@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const kiGoff = {
   id: "019db533-f382-78a6-bdb3-e611dc025c4d",

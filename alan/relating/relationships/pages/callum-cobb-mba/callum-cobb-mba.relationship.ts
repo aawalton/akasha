@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const callumCobbMba = {
   id: "019db533-f383-7fc0-a44c-146f264281b2",

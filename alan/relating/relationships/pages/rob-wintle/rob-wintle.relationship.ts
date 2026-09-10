@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const robWintle = {
   id: "019db533-f383-718b-8a0c-a974b0c1f3a7",

@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const joshWood = {
   id: "019db533-f384-75fa-a9fe-5517127a239c",

@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const danNgMpa = {
   id: "019db533-f383-7a9b-971a-4991fd712e12",

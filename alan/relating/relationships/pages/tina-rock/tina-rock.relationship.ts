@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const tinaRock = {
   id: "019db533-f383-7668-aeae-da563b6b5dd1",

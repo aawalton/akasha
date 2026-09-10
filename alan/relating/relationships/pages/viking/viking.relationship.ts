@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const viking = {
   id: "019f4cd2-ecd2-7bcd-a54e-970343daa133",

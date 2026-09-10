@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const webDay = {
   id: "019db533-f384-7769-9eab-72090f5b6a93",

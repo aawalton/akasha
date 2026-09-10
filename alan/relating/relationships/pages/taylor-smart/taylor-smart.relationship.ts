@@ -1,4 +1,4 @@
-import type { Relationship } from "../../relationship.page-type.ts"
+import type { Relationship } from "../../relationship.page-type.types.ts"
 
 export const taylorSmart = {
   id: "019db533-f383-7729-9420-4f9ba529fae3",
