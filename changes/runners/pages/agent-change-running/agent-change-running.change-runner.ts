@@ -1,4 +1,4 @@
-import type { ChangeRunner } from "../../change-runner.page-type.ts"
+import type { ChangeRunner } from "../../change-runner.page-type.types.ts"
 
 export const agentChangeRunning = {
   id: "01a077c9-cb05-7a92-a69e-7d25da444d7e",

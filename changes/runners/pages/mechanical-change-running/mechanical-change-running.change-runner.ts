@@ -1,4 +1,4 @@
-import type { ChangeRunner } from "../../change-runner.page-type.ts"
+import type { ChangeRunner } from "../../change-runner.page-type.types.ts"
 
 export const mechanicalChangeRunning = {
   id: "01a08165-1d8f-730e-ad94-1bd3d2d9513b",

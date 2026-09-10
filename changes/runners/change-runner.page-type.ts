@@ -1,12 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { Addressed } from "./properties/addressed.file-property.ts"
-import type { Reached } from "./properties/reached.relation-property.ts"
-
-export type ChangeRunner = Module & {
-  addressed: Addressed
-  reached: Reached
-}
 
 export const changeRunner = {
   id: "01a077c2-3a15-7c14-8900-ecb0624ff450",
@@ -67,4 +59,5 @@ export const changeRunner = {
       statement: "Nothing here reads an argument off the command line.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
