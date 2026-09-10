@@ -45,5 +45,9 @@ export const temperBuildCodec = {
       invariantKind: "upkeep",
       statement: "Every update a character or companion codec reads is round-tripped by a test.",
     },
+    {
+      invariantKind: "upkeep",
+      statement: "Every codec kept for a character or a companion build both writes and reads.",
+    },
   ],
 } as const satisfies Domain
