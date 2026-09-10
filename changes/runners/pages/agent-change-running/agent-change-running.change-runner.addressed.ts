@@ -44,6 +44,9 @@ export type Changes = {
   "change-agent/copy-property-on-every-page": Parameters<
     typeof import("../../../agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/migrate-check-logs": Parameters<
+    typeof import("../../../agent/file-content/migrate-check-logs/migrate-check-logs.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/move-code-export": Parameters<
     typeof import("../../../agent/file-content/move-code-export/move-code-export.change-agent.code.ts")["runChange"]
   >[1]
