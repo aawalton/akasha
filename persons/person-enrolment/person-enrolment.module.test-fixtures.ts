@@ -3,6 +3,8 @@ import {
   type Fetcher,
   type Sleeper,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ACCOUNT_KEY } from "./person-enrolment.module.code.ts"
 
 const LIVE_ORIGIN = "http://127.0.0.1:8787"
@@ -15,7 +17,7 @@ export interface Recording {
 export const noNap: Sleeper = async () => undefined
 
 export async function overTheLiveStore<T>(taking: () => Promise<T>): Promise<T> {
-  const held = process.env.PAGE_STORE_ORIGIN
+  const held = optionalEnv("PAGE_STORE_ORIGIN")
   process.env.PAGE_STORE_ORIGIN = LIVE_ORIGIN
   try {
     return await taking()
@@ -39,10 +41,16 @@ export async function accountStatedBy(personSlug: string): Promise<string> {
   return stated
 }
 
+function parseAsked(held: unknown): Record<string, unknown> {
+  const one = asObjectRecord(held)
+  if (one === undefined) throw new Error("the body a fetch was handed is no object")
+  return one
+}
+
 export function recordingFetcher(): Recording {
   let asked: Record<string, unknown> = {}
   const fetcher: Fetcher = async (_url, init) => {
-    asked = JSON.parse(String(init.body))
+    asked = parseAsked(JSON.parse(String(init.body)))
     return new Response(JSON.stringify({ rows: [] }), {
       headers: { "content-type": "application/json" },
     })
