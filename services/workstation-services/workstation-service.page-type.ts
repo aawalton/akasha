@@ -57,6 +57,7 @@ export const workstationService = {
     "text-property/wanted-by",
     "text-property/wants",
     "module/tick-ratchet",
+    "module/run-path-reading",
   ],
   properties: [
     { pageProperty: "text-property/runs", required: true, many: true, maxCount: null },
