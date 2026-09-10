@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { PersonAuthorityKind } from "./properties/person-authority-kind.relation-property.ts"
 import type { PersonAuthorityPerson } from "./properties/person-authority-person.relation-property.ts"
 import type { PersonAuthorityTarget } from "./properties/person-authority-target.text-property.ts"

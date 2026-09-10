@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
 import type { DayOfWeek } from "./properties/day-of-week.select-property.ts"
 import type { Focus } from "./properties/focus.select-property.ts"

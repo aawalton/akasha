@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { ErrorApp } from "./properties/error-app.text-property.ts"
 import type { ErrorCount } from "./properties/error-count.number-property.ts"
 import type { ErrorFingerprint } from "./properties/error-fingerprint.text-property.ts"

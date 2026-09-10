@@ -1,4 +1,4 @@
-import type { Page } from "../../../pages/page.page-type.ts"
+import type { Page } from "../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { CalendarSourceBaseUrl } from "./properties/calendar-source-base-url.url-property.ts"
 import type { CalendarSourceColor } from "./properties/calendar-source-color.text-property.ts"

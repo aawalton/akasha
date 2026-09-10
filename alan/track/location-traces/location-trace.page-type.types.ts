@@ -1,4 +1,4 @@
-import type { Page } from "../../../pages/page.page-type.ts"
+import type { Page } from "../../../pages/page.page-type.types.ts"
 import type { AccuracyM } from "./properties/accuracy-m.number-property.ts"
 import type { AltitudeAccuracyM } from "./properties/altitude-accuracy-m.number-property.ts"
 import type { AltitudeM } from "./properties/altitude-m.number-property.ts"

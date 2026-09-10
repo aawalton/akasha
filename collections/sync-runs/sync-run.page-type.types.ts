@@ -1,4 +1,4 @@
-import type { Page } from "../../pages/page.page-type.ts"
+import type { Page } from "../../pages/page.page-type.types.ts"
 import type { CreatedCount } from "./properties/created-count.number-property.ts"
 import type { DurationMs } from "./properties/duration-ms.number-property.ts"
 import type { FailedCount } from "./properties/failed-count.number-property.ts"

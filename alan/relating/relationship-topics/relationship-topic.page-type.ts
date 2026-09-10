@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { RelationshipTopicParent } from "./properties/relationship-topic-parent.relation-property.ts"
 import type { RelationshipTopicPeople } from "./properties/relationship-topic-people.relation-property.ts"

@@ -1,4 +1,4 @@
-import type { Page } from "../../pages/page.page-type.ts"
+import type { Page } from "../../pages/page.page-type.types.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Attempt } from "./properties/attempt.number-property.ts"
 import type { Derivation } from "./properties/derivation.file-property.ts"

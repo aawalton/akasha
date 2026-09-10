@@ -1,3 +1,3 @@
-import type { Page } from "../../../../pages/page.page-type.ts"
+import type { Page } from "../../../../pages/page.page-type.types.ts"
 
 export type CodeEditorTerminal = Page & {}

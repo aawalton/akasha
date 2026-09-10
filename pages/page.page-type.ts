@@ -1,21 +1,4 @@
-import type { Cover } from "./properties/cover.text-property.ts"
-import type { Description } from "./properties/description.text-property.ts"
-import type { Id } from "./properties/id.text-property.ts"
-import type { PagePageType } from "./properties/page-page-type.relation-property.ts"
-import type { PageTypeSlug } from "./properties/page-type-slug.relation-property.ts"
-import type { Slug } from "./properties/slug.text-property.ts"
-import type { Title } from "./properties/title.text-property.ts"
 import type { PageType } from "./types/page-type.page-type.ts"
-
-export type Page = {
-  id: Id
-  pageTypeSlug: PageTypeSlug
-  type?: PagePageType
-  slug: Slug
-  title?: Title
-  description?: Description
-  cover?: Cover
-}
 
 export const page = {
   id: "01a049b9-856c-7090-bd14-5a916f574259",
@@ -97,4 +80,5 @@ export const page = {
       statement: "A page file that runs code beyond the value declaration does not land.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

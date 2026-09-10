@@ -1,4 +1,4 @@
-import type { Page } from "../../../../../pages/page.page-type.ts"
+import type { Page } from "../../../../../pages/page.page-type.types.ts"
 import type { AnchorBlockWeeks } from "./properties/anchor-block-weeks.number-property.ts"
 import type { AnchorEscapeRpeCeiling } from "./properties/anchor-escape-rpe-ceiling.number-property.ts"
 import type { LayoffGraceDays } from "./properties/layoff-grace-days.number-property.ts"

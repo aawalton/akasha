@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Date as TrackedDate } from "../../alan/track/daily/days/properties/date.text-property.ts"
 import type { Lines } from "./properties/lines.file-property.ts"
 import type { LogSource } from "./properties/log-source.relation-property.ts"

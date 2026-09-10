@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { ConnectionActivityAttn } from "./properties/connection-activity-attn.number-property.ts"
 import type { ConnectionActivityAttractiveness } from "./properties/connection-activity-attractiveness.number-property.ts"

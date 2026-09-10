@@ -1,4 +1,4 @@
-import type { Page } from "../pages/page.page-type.ts"
+import type { Page } from "../pages/page.page-type.types.ts"
 import type { AssignmentSlug } from "../seat-system/seats/properties/assignment-slug.one-of-property.ts"
 import type { PrincipalSeatName } from "../seat-system/seats/properties/principal-seat-name.relation-property.ts"
 import type { Edits } from "./properties/edits.file-property.ts"

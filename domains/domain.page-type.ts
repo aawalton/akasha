@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Definition } from "./properties/definition.standard-agent-english-property.ts"
 import type { Directives } from "./properties/directives.record-property.ts"
 import type { Expands } from "./properties/expands.boolean-property.ts"

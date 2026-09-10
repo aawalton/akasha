@@ -1,4 +1,4 @@
-import type { Page } from "../../pages/page.page-type.ts"
+import type { Page } from "../../pages/page.page-type.types.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { SmsConsentConsent } from "./properties/sms-consent-consent.boolean-property.ts"
 import type { SmsConsentIpAddress } from "./properties/sms-consent-ip-address.text-property.ts"

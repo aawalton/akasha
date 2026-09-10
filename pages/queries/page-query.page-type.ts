@@ -1,4 +1,4 @@
-import type { Page } from "../page.page-type.ts"
+import type { Page } from "../page.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 import type { AsksOfSlug } from "./properties/asks-of-slug.text-property.ts"
 import type { CountBy } from "./properties/count-by.text-property.ts"

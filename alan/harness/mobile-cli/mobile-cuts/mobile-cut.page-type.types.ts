@@ -1,4 +1,4 @@
-import type { Page } from "../../../../pages/page.page-type.ts"
+import type { Page } from "../../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { App } from "../../../../readouts/widgets/properties/app.relation-property.ts"
 import type { BuildInputTreeHash } from "./properties/build-input-tree-hash.text-property.ts"

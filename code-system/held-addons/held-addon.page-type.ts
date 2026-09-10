@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { AddonKind } from "./properties/addon-kind.text-property.ts"
 import type { AddonName } from "./properties/addon-name.text-property.ts"
 import type { Adjacents } from "./properties/adjacents.relation-property.ts"

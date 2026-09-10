@@ -1,4 +1,4 @@
-import type { Page } from "../../pages/page.page-type.ts"
+import type { Page } from "../../pages/page.page-type.types.ts"
 import type { AccountPage } from "./properties/account-page.text-property.ts"
 import type { Category } from "./properties/category.text-property.ts"
 import type { CategoryId } from "./properties/category-id.text-property.ts"

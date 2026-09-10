@@ -1,4 +1,4 @@
-import type { Page } from "../../../pages/page.page-type.ts"
+import type { Page } from "../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Puzzles } from "./properties/puzzles.page-property-entry.ts"
 

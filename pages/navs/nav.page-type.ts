@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Icon } from "../../temper/things/properties/icon.text-property.ts"
 import type { Title } from "../properties/title.text-property.ts"
 import type { BackHref } from "./properties/back-href.text-property.ts"

@@ -1,4 +1,4 @@
-import type { Page } from "../../pages/page.page-type.ts"
+import type { Page } from "../../pages/page.page-type.types.ts"
 import type { AutoCompactWindow } from "./properties/auto-compact-window.number-property.ts"
 import type { EffortLevel } from "./properties/effort-level.text-property.ts"
 import type { ExtendedContextAvailable } from "./properties/extended-context-available.boolean-property.ts"

@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { DeviceSecretDeviceId } from "./properties/device-secret-device-id.text-property.ts"
 import type { DeviceSecretHash } from "./properties/device-secret-hash.text-property.ts"
 import type { DeviceSecretRevokedAt } from "./properties/device-secret-revoked-at.instant-property.ts"

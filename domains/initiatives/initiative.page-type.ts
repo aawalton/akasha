@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { PageDomain } from "../properties/page-domain.relation-property.ts"
 import type { Constraints } from "./properties/constraints.standard-agent-english-property.ts"
 import type { InitiativeParent } from "./properties/initiative-parent.relation-property.ts"

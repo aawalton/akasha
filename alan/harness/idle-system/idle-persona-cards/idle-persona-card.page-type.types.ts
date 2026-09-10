@@ -1,4 +1,4 @@
-import type { Page } from "../../../../pages/page.page-type.ts"
+import type { Page } from "../../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { CardPersona } from "./properties/card-persona.relation-property.ts"
 import type { CardRank } from "./properties/card-rank.number-property.ts"

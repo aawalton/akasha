@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { AccessToken } from "./properties/access-token.text-property.ts"
 import type { AccessTokenExpiresAt } from "./properties/access-token-expires-at.instant-property.ts"
 import type { AccountUuid } from "./properties/account-uuid.text-property.ts"

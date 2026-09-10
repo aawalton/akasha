@@ -1,4 +1,4 @@
-import type { Page } from "../pages/page.page-type.ts"
+import type { Page } from "../pages/page.page-type.types.ts"
 import type { Description } from "../pages/properties/description.text-property.ts"
 import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
 import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"

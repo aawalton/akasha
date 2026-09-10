@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { RelationshipDepositDate } from "./properties/relationship-deposit-date.calendar-date-property.ts"
 import type { RelationshipDepositPersona } from "./properties/relationship-deposit-persona.relation-property.ts"

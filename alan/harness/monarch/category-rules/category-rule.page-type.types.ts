@@ -1,4 +1,4 @@
-import type { Page } from "../../../../pages/page.page-type.ts"
+import type { Page } from "../../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { TransactionCategory } from "../months/properties/transaction-category.relation-property.ts"
 import type { CounterpartWithinDays } from "./properties/counterpart-within-days.number-property.ts"

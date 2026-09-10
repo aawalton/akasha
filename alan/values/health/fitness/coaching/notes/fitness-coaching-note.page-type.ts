@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Page } from "akasha/pages/page.page-type.types.ts"
 import type { Title } from "../../../../../../pages/properties/title.text-property.ts"
 import type { FitnessCoachingNoteActive } from "./properties/fitness-coaching-note-active.boolean-property.ts"
 import type { FitnessCoachingNoteDate } from "./properties/fitness-coaching-note-date.calendar-date-property.ts"
