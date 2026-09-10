@@ -183,14 +183,28 @@ test("an import the body left behind still names is kept", async () => {
   expect(takenAt(said, FROM)).not.toContain(`${DEEP}\n`)
 })
 
+const LANDED_FAR = `import type { Deep } from "../one/deep.held.ts"
+
+export type Kept = {
+  readonly deep: Deep
+}
+`
+
 test("a landing path in another folder is taken and every importer repointed", async () => {
   const world = worldOf({ [FROM]: HELD, [USES]: USING }, [USES])
 
   const said = await runChange(world, { from: FROM, to: ELSEWHERE, of: "Kept" })
 
   expect(said.refused).toBeNull()
-  expect(addedAt(said, ELSEWHERE)).toBe(LANDED)
   expect(puttingAt(said, USES)).toEqual([`import type { Kept } from "../two/two.held.ts"`])
+})
+
+test("an import carried to another folder is spelled from the folder it landed in", async () => {
+  const world = worldOf({ [FROM]: HELD, [USES]: USING }, [USES])
+
+  const said = await runChange(world, { from: FROM, to: ELSEWHERE, of: "Kept" })
+
+  expect(addedAt(said, ELSEWHERE)).toBe(LANDED_FAR)
 })
 
 const STILL = `${DEEP}

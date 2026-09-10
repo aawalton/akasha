@@ -130,10 +130,16 @@ function lineFor(name: string, spelled: string, type: boolean): string {
   return `import ${type ? "type " : ""}{ ${name} } from ${JSON.stringify(spelled)}`
 }
 
-function bodyFor(carried: ReadonlyMap<string, Carried>, passage: string): string {
+function spelledFor(given: Asked, from: string): string {
+  if (!from.startsWith(BESIDE)) return from
+  const held = landingOf(given.from, from)
+  return held === null ? from : specifierFor(dirname(given.to), held)
+}
+
+function bodyFor(carried: ReadonlyMap<string, Carried>, passage: string, given: Asked): string {
   const lines = [...carried]
     .sort((one, two) => one[1].from.localeCompare(two[1].from))
-    .map(([name, named]) => lineFor(name, named.from, named.type))
+    .map(([name, named]) => lineFor(name, spelledFor(given, named.from), named.type))
   const held = `${passage.replace(/^\n+/, "").trimEnd()}${LINE}`
   return lines.length === 0 ? held : `${lines.join(LINE)}${LINE}${LINE}${held}`
 }
@@ -302,7 +308,7 @@ function planFor(
   const back = backIn(rest, parsedAs(given.from, rest), given, typed(declared))
   return {
     taken: { at: given.from, old: passage, new: "" },
-    body: bodyFor(carried, passage),
+    body: bodyFor(carried, passage, given),
     adding,
     after: [...gone, ...(back === null ? [] : [back]), ...repointed],
   }

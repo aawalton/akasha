@@ -51,6 +51,10 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
+      statement: "A carried import is spelled from the folder the declaration landed in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An import the body left behind no longer names goes with the declaration.",
     },
     {
