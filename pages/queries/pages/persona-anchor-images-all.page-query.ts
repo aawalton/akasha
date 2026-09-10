@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const personaAnchorImagesAll = {
   id: "01a063f9-220c-7b23-ad90-0c7ca348e603",

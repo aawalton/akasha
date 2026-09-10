@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const characterBuildAll = {
   id: "01a063f9-2209-7a2f-a8d7-cf3b5b13cd56",

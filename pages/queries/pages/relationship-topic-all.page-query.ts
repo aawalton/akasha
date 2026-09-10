@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const relationshipTopicAll = {
   id: "01a063f9-220c-7082-8591-68fcdcc593d2",

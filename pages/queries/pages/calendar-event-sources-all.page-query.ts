@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const calendarEventSourcesAll = {
   id: "01a063f9-2209-7252-b25c-3bb613dbf522",

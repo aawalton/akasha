@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const companionBuildAll = {
   id: "01a063f9-220a-7495-8816-068ed45db720",

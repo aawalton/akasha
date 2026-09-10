@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const surplusHoursOnDay = {
   id: "01a063f9-220d-7853-8282-f15b83e81f77",

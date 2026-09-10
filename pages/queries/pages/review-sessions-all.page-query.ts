@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const reviewSessionsAll = {
   id: "01a063f9-220c-7c22-97a7-3aba95424529",

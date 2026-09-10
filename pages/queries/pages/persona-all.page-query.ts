@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const personaAll = {
   id: "01a063f9-220c-793c-9f67-ca3d66d40f3a",

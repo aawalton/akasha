@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const personaCraftDaysAll = {
   id: "01a063f9-220c-7613-8f1a-880c8e05ce8f",

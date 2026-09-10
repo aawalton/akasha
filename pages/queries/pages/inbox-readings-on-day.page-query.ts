@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const inboxReadingsOnDay = {
   id: "01a063f9-220d-72fc-b11b-62012a039ce7",

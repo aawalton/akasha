@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const rulesEngineRuleSetAll = {
   id: "01a063f9-220c-7844-a3fa-e7f65dd52192",

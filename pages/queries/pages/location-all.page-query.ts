@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const locationAll = {
   id: "01a063f9-220b-7f1c-bb77-ecc22d320b02",

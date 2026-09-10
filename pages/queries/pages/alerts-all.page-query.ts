@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const alertsAll = {
   id: "01a063f9-2209-7b79-afe3-7470b7df379f",

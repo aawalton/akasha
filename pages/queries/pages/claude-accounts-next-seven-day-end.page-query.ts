@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const claudeAccountsNextSevenDayEnd = {
   id: "01a063f9-220d-7cb8-b85a-de226f25388c",

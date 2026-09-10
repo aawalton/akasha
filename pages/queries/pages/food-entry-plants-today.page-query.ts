@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const foodEntryPlantsToday = {
   id: "01a063f9-220d-70b7-a692-7772b9b9a8c5",

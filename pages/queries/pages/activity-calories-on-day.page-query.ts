@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const activityCaloriesOnDay = {
   id: "01a063f9-220d-70cb-88de-b2365ec2e308",

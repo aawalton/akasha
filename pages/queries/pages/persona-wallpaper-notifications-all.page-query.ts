@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const personaWallpaperNotificationsAll = {
   id: "01a063f9-220c-70be-ac40-abf26166d758",

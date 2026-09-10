@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const readoutsAll = {
   id: "01a063f9-220d-7598-8371-953813136f0c",

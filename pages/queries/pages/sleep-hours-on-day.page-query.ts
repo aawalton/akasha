@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const sleepHoursOnDay = {
   id: "01a063f9-220d-73a5-8501-646453f11ef4",

@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const messagesTo = {
   id: "01a063f9-220b-747c-beda-e839ea2c4720",

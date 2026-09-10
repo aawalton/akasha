@@ -1,4 +1,4 @@
-import type { PageQuery } from "../page-query.page-type.ts"
+import type { PageQuery } from "../page-query.page-type.types.ts"
 
 export const kiAuthorsAll = {
   id: "01a063f9-220b-7a8c-af57-0fd850e3c6f4",
