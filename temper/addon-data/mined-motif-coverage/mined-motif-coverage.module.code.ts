@@ -6,10 +6,21 @@ import {
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { partAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/completion/lore-library-data/lore-library-data.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items-core/motif-name-parser/motif-name-parser.module.code.ts"
 
-const MINE_PAGE = "temper/characters/temper-mines/pages/eso/eso.temper-mine.ts"
+const MINE = "temper-mine"
+
+const MINE_SLUG = "eso"
+
+function minePageAt(root: string): string {
+  const listed = listedAt(root, MINE, MINE_SLUG)[0]
+  if (listed === undefined) {
+    throw new Error(`no \`${MINE}\` is slugged \`${MINE_SLUG}\`, so the sweep's rows sit nowhere`)
+  }
+  return listed.path
+}
 
 const ITEMS = "items"
 
@@ -60,9 +71,10 @@ export function isMotifShapedLoreName(name: string): boolean {
 }
 
 export function minedItemParts(root: string): readonly string[] {
+  const page = minePageAt(root)
   const found: string[] = []
   for (let part = FIRST_PART; ; part += 1) {
-    const at = partAt(MINE_PAGE, ITEMS, HELD, part)
+    const at = partAt(page, ITEMS, HELD, part)
     if (at === null) break
     const whole = join(root, at)
     if (!existsSync(whole)) break
@@ -74,7 +86,9 @@ export function minedItemParts(root: string): readonly string[] {
 export function minedMotifTitles(root: string): readonly string[] {
   const parts = minedItemParts(root)
   if (parts.length === 0) {
-    throw new Error(`no page carries the sweep's \`${ITEMS}\` rows — looked beside ${MINE_PAGE}`)
+    throw new Error(
+      `no page carries the sweep's \`${ITEMS}\` rows — looked beside ${minePageAt(root)}`
+    )
   }
   const titles: string[] = []
   for (const path of parts) {

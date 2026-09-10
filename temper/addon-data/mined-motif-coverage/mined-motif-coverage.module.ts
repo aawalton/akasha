@@ -14,6 +14,10 @@ export const minedMotifCoverage = {
     },
     {
       invariantKind: "departure",
+      statement: "Where that mine page sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The rows are read from the files beside the page rather than asked of the store.",
     },
     {
