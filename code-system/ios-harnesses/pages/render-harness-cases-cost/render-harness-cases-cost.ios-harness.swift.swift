@@ -61,7 +61,7 @@ func costCases(now: Date) -> [RenderCase] {
     let overFiveHours = 5 * 3600 + 18.0 * 60 + 30
     let justOverAnHour = 3600.0 + 30
 
-    return [
+    var all: [RenderCase] = [
         RenderCase(
             name: "cost-small-counting-46m-left", widget: "CostWidget",
             familySource: "systemSmall",
@@ -98,4 +98,36 @@ func costCases(now: Date) -> [RenderCase] {
             familySource: "systemSmall",
             body: costBody(tier: "black", reading: "1.40")),
     ]
+
+    // THE SAME THREE WAITS AGAIN, EACH IN A TIMER FORM, SO TWO PICTURES ARE COMPARED.
+    //
+    // A case's name says which form drew it, so one wait's pair reads together:
+    // `cost-small-counting-46m-left` above and `cost-small-timer-46m-left` here are one
+    // payload written two ways. The three forms are the timer with the trailing word, the
+    // timer with nothing after it, and the timer asked for no hours.
+    let waits: [(name: String, reading: String, rung: Double, seconds: Double, rate: Double)] = [
+        (name: "46m-left", reading: "0.50", rung: 4, seconds: underAnHour, rate: 3),
+        (name: "5h18m-left-widest", reading: "0.85", rung: 4, seconds: overFiveHours, rate: 0.75),
+        (name: "1h-left-reaims-red", reading: "0.50", rung: 0, seconds: justOverAnHour, rate: 3),
+    ]
+    let forms: [(name: String, widget: String)] = [
+        (name: "timer", widget: "CostTimerWidget"),
+        (name: "timer-alone", widget: "CostTimerAloneWidget"),
+        (name: "timer-no-hours", widget: "CostTimerNoHoursWidget"),
+    ]
+    for form in forms {
+        for wait in waits {
+            all.append(
+                RenderCase(
+                    name: "cost-small-\(form.name)-\(wait.name)", widget: form.widget,
+                    familySource: "systemSmall",
+                    body: costBody(
+                        tier: "yellow", reading: wait.reading,
+                        coloredWith: fallingSurplus(
+                            sent: "blue", over: wait.rung, reaching: wait.seconds, at: wait.rate,
+                            from: now))))
+        }
+    }
+
+    return all
 }

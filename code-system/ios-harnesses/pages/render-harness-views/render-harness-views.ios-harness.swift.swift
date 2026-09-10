@@ -35,6 +35,19 @@ func feedState<Payload: Decodable>(
     return .loaded(try JSONDecoder().decode(type, from: body))
 }
 
+// THE COST TILE IS DRAWN UNDER FOUR NAMES, ONE FOR EACH FORM ITS COUNTDOWN IS WRITTEN IN.
+//
+// The bundle ships `CostWidget` alone, so the three others ask for no coverage line and are
+// reached only by a case naming one of them.
+private func costCountdown(_ widget: String) -> RingCountdown {
+    switch widget {
+    case "CostTimerWidget": return .timer
+    case "CostTimerAloneWidget": return .timerAlone
+    case "CostTimerNoHoursWidget": return .timerWithoutHours
+    default: return .relative
+    }
+}
+
 @MainActor
 func makeView(
     widget: String, body: Data, family: WidgetFamily, at date: Date, unreadable: Bool,
@@ -57,9 +70,11 @@ func makeView(
     case "SafetyLevelWidget":
         let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(SafetyLevelHomeView(entry: FeedEntry(date: date, state: state)))
-    case "CostWidget":
+    case "CostWidget", "CostTimerWidget", "CostTimerAloneWidget", "CostTimerNoHoursWidget":
         let state = try feedState(CostResponse.self, body: body, unreadable: unreadable, refused: refused)
-        return AnyView(CostHomeView(entry: FeedEntry(date: date, state: state)))
+        return AnyView(
+            CostHomeView(
+                entry: FeedEntry(date: date, state: state), countdown: costCountdown(widget)))
     case "SurplusWidget":
         let state = try feedState(SurplusResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(SurplusHomeView(entry: FeedEntry(date: date, state: state)))

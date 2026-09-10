@@ -26,6 +26,10 @@ export const ring = {
     },
     {
       invariantKind: "departure",
+      statement: "A caption counting down is written in the form the caption names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A ring with nothing left keeps its own words rather than counting.",
     },
     {

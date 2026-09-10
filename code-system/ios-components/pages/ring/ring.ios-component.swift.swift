@@ -19,6 +19,22 @@ struct RingArc {
     let color: Color
 }
 
+// THE TWO WAYS SWIFTUI COUNTS A WAIT DOWN BY ITSELF, KEPT SIDE BY SIDE TO BE COMPARED.
+//
+// `.relative` always spells two units in words, so a wait under an hour reads
+// `46 min, 29 sec` and the second ticks. A timer interval reads `46:29` instead. Both are
+// handed the moment rather than a spelled wait, so both redraw with no tile rebuilt.
+//
+// The forms past `.timer` are here to be drawn and looked at. `.timerAlone` drops the
+// trailing word, which parts a picture that lost the timer from one that lost the joining,
+// and `.timerWithoutHours` asks the timer for minutes and seconds whatever the wait is.
+enum RingCountdown {
+    case relative
+    case timer
+    case timerAlone
+    case timerWithoutHours
+}
+
 struct RingCaption {
     let spacing: CGFloat
     let text: String?
@@ -31,6 +47,8 @@ struct RingCaption {
     // into text would sit frozen at whatever it read when it was drawn. SwiftUI redraws a
     // `Text` given a date on its own, so the moment is what is handed in.
     var until: Date? = nil
+
+    var countdown: RingCountdown = .relative
 }
 
 struct RingGlow {
@@ -117,13 +135,30 @@ struct Ring<Figure: View>: View {
             VStack(spacing: caption.spacing) {
                 figured
                 if let until = caption.until, noneLeft == nil {
-                    worded(Text(until, style: .relative) + Text(" Left"), caption)
+                    worded(counting(until, caption.countdown), caption)
                 } else if let text = labelled(caption) {
                     worded(Text(text), caption)
                 }
             }
         } else {
             figured
+        }
+    }
+
+    // A TIMER TAKES A RANGE, AND A RANGE ENDING BEHIND ITS START IS A CRASH RATHER THAN A
+    // COUNT UP, SO THE RANGE OPENS AT THE EARLIER OF NOW AND THE MOMENT COUNTED TO.
+    private func counting(_ until: Date, _ form: RingCountdown) -> Text {
+        let opens = min(Date(), until)
+        switch form {
+        case .relative:
+            return Text(until, style: .relative) + Text(" Left")
+        case .timer:
+            return Text(timerInterval: opens...until, countsDown: true) + Text(" Left")
+        case .timerAlone:
+            return Text(timerInterval: opens...until, countsDown: true)
+        case .timerWithoutHours:
+            return Text(timerInterval: opens...until, countsDown: true, showsHours: false)
+                + Text(" Left")
         }
     }
 

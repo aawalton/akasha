@@ -119,6 +119,8 @@ struct SurplusRing: View {
     // A TILE HANDING IN A MOMENT HAS ITS CAPTION COUNT DOWN TO THAT MOMENT INSTEAD.
     var until: Date? = nil
 
+    var countdown: RingCountdown = .relative
+
     private var arc: (tier: Tier, progress: Double)? {
         guard let nextTier, let progress, progress > 0 else { return nil }
         return (nextTier, progress)
@@ -136,7 +138,8 @@ struct SurplusRing: View {
                 text: caption,
                 font: .system(size: 13, weight: .medium),
                 style: AnyShapeStyle(Color(.secondaryLabel)),
-                until: until
+                until: until,
+                countdown: countdown
             ),
             glow: RingGlow(
                 color: tier == .blue ? Color(.systemBlue).opacity(0.40) : .clear,

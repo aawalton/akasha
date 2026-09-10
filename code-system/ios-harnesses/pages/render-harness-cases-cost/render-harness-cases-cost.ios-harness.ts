@@ -54,6 +54,14 @@ export const renderHarnessCasesCost = {
       statement: "A surplus is stated by the wait wanted, the figure being worked back from it.",
     },
     {
+      invariantKind: "departure",
+      statement: "Each wait counted down is also drawn in every timer form of the caption.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A case naming a widget the bundle does not ship is asked for by no coverage.",
+    },
+    {
       invariantKind: "gap",
       statement: "Nothing here judges an image, and a person reads what was drawn.",
     },
