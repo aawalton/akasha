@@ -1,12 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { RoyalRoadEmail } from "./properties/royal-road-email.email-address-property.ts"
-import type { RoyalRoadPassword } from "./properties/royal-road-password.text-property.ts"
-
-export type RoyalRoadAccount = Page & {
-  email: RoyalRoadEmail
-  password?: RoyalRoadPassword
-}
 
 export const royalRoadAccount = {
   id: "01a06838-e8da-73c2-8412-6234b402ec6a",
@@ -50,4 +42,5 @@ export const royalRoadAccount = {
       statement: "The address an account signs in as is in the cluster's secrets too.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
