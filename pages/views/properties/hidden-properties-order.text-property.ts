@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type HiddenPropertiesOrder = string
+export type HiddenPropertiesOrder = List<string>
 
 export const hiddenPropertiesOrder = {
   id: "01a0680d-4d00-700c-a856-2e9f4b7d410d",
