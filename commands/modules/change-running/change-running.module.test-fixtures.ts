@@ -2,11 +2,8 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
 import { removePage } from "akasha/changes/agent/file/remove-page/remove-page.change-agent.code.ts"
-import {
-  editsIn,
-  keptEdits,
-} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { handedPageOf } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
+import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { handedFrom } from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
 import {
   type Loaded,
   loadedAt,
@@ -192,7 +189,7 @@ export function pathsIn(root: string): readonly string[] {
 export const SUB = "tester-one"
 
 export function handing(root: string, under: string, rows: readonly FileChange[]): undefined {
-  keptEdits(root, handedPageOf(under), () => rows)
+  handedFrom(root, under, rows)
 }
 
 export const HANDED_AT = "akasha/three/handed.md"

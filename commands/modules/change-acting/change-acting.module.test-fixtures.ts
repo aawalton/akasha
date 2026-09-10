@@ -4,6 +4,7 @@ import {
   editsIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { handedPageOf } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
+import { handedFrom } from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { mistaking } from "../asking/asking.module.code.ts"
@@ -97,7 +98,7 @@ export function handedIn(root: string): readonly string[] {
 }
 
 export function handing(root: string, under: string, rows: readonly FileChange[]): undefined {
-  appendEdits(root, handedPageOf(under), rows)
+  handedFrom(root, under, rows)
 }
 
 export function handingBoth(root: string): string {

@@ -8,6 +8,7 @@ export const subagentHanded = {
   definition: "the edits a subagent left for the seat that dispatched it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
