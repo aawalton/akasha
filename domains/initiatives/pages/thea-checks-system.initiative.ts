@@ -9,11 +9,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "Every check has a decision, a check and an audit, each its own module of files.",
-      workingMemory:
-        "All 55 checks now hold decision, check and audit, each with its own code and test, and code-check states neither code nor test any more. besideOf and besideAll take a file-property key set now, handed in by file-arguing and log-day-sweeping off fileKeysAt, so removing a page takes its group's files with it. Left: code and test are required in each group by Alan's call and test-fixtures is not. sectionHeld in property-carrying is right as it is: no group member holds bytes or is generated.",
-    },
-    {
       statement:
         "Each check runs as its own spawned process, held to the ceilings its page states.",
       workingMemory:
