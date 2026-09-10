@@ -1,4 +1,4 @@
-import type { EsoAddon } from "@akasha/code/eso-addon"
+import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type.types.ts"
 
 export const temperLibScrollableMenu = {
   id: "01a06275-c44a-71b2-a8e1-108e1c1dfd4b",

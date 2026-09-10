@@ -1,22 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.types.ts"
-import type { AddonGitIgnore } from "./properties/addon-git-ignore.file-property.ts"
-import type { AddonManifest } from "./properties/addon-manifest.file-property.ts"
-import type { Bindings } from "./properties/bindings.file-property.ts"
-import type { BundleEntry } from "./properties/bundle-entry.relation-property.ts"
-import type { EsoInterfaces } from "./properties/eso-interfaces.relation-property.ts"
-import type { LuaModules } from "./properties/lua-modules.relation-property.ts"
-import type { SiblingManifest } from "./properties/sibling-manifest.file-property.ts"
-
-export type EsoAddon = WorkspacePackage & {
-  addonManifest: AddonManifest
-  bundleEntry?: BundleEntry
-  bindings?: Bindings
-  interfaces?: EsoInterfaces
-  luaModules?: LuaModules
-  gitIgnore?: AddonGitIgnore
-  siblingManifest?: SiblingManifest
-}
 
 export const esoAddon = {
   id: "01a06036-9b77-710a-8ddc-ee7c58591896",
@@ -98,4 +80,5 @@ export const esoAddon = {
       statement: "The game reloads an addon only when the whole client reloads.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

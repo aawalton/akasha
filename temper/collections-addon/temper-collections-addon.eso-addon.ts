@@ -1,4 +1,4 @@
-import type { EsoAddon } from "@akasha/code/eso-addon"
+import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type.types.ts"
 
 export const temperCollectionsAddon = {
   id: "01a0624c-a660-70e0-bf26-d959d1027e91",

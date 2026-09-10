@@ -1,4 +1,4 @@
-import type { EsoAddon } from "@akasha/code/eso-addon"
+import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type.types.ts"
 
 export const temperLibExtendedJournal = {
   id: "01a0617d-5454-7d6e-a26b-24878ddb747f",

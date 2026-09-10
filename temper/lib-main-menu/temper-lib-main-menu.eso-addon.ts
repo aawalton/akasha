@@ -1,4 +1,4 @@
-import type { EsoAddon } from "@akasha/code/eso-addon"
+import type { EsoAddon } from "akasha/code-system/eso-addons/eso-addon.page-type.types.ts"
 
 export const temperLibMainMenu = {
   id: "01a0605b-c805-73f4-b1b0-5aa7831a19d4",
