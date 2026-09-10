@@ -57,7 +57,7 @@ export const addTypeMember = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here puts the imports in order, the landing formatting the body.",
+      statement: "Nothing here puts the imports in order.",
     },
     {
       invariantKind: "departure",

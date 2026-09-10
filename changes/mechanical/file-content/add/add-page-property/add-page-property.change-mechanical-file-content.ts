@@ -74,11 +74,11 @@ export const addPageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A value is text, a number, a boolean, null, a list, or a record of those.",
+      statement: "A value is text or a number or a boolean or null or a list or a record of those.",
     },
     {
       invariantKind: "departure",
-      statement: "A name is no value, so a bare word is refused rather than written in.",
+      statement: "A bare word is refused rather than written in.",
     },
     {
       invariantKind: "departure",
