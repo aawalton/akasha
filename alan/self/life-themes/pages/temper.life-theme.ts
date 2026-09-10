@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.ts"
+import type { LifeTheme } from "../life-theme.page-type.types.ts"
 
 export const temper = {
   id: "019db533-f3a2-7ad2-a517-0b76c641c291",

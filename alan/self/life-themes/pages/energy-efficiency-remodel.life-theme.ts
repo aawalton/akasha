@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.ts"
+import type { LifeTheme } from "../life-theme.page-type.types.ts"
 
 export const energyEfficiencyRemodel = {
   id: "019db533-f3a2-7a4a-a4df-e0d5f70efd51",

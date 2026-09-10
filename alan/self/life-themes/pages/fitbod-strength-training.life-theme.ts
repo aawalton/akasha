@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.ts"
+import type { LifeTheme } from "../life-theme.page-type.types.ts"
 
 export const fitbodStrengthTraining = {
   id: "019db533-f3a2-7aea-860e-282c1f9a8677",

@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.ts"
+import type { LifeTheme } from "../life-theme.page-type.types.ts"
 
 export const listenTo1000HoursOfMusic = {
   id: "019db533-f3a2-7b01-a997-c1f42031ccf9",

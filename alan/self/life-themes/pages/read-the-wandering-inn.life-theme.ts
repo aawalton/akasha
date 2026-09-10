@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.ts"
+import type { LifeTheme } from "../life-theme.page-type.types.ts"
 
 export const readTheWanderingInn = {
   id: "019db533-f3a2-7ab5-8a49-3c80588e93bf",

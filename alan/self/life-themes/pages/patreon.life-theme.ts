@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.ts"
+import type { LifeTheme } from "../life-theme.page-type.types.ts"
 
 export const patreon = {
   id: "019db533-f3a2-7a8b-9d85-d4bec04a33b3",

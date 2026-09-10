@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.ts"
+import type { LifeTheme } from "../life-theme.page-type.types.ts"
 
 export const theWanderingInnWiki = {
   id: "019db533-f3a2-7aa5-a7f1-8aa0b3358c19",

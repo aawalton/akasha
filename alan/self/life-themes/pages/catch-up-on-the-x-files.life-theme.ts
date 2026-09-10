@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.ts"
+import type { LifeTheme } from "../life-theme.page-type.types.ts"
 
 export const catchUpOnTheXFiles = {
   id: "019db533-f3a2-7b45-b9f9-a430d4d2c106",

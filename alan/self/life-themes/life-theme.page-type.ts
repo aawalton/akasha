@@ -1,20 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { EndDate } from "./properties/end-date.calendar-date-property.ts"
-import type { LifeThemeParent } from "./properties/life-theme-parent.relation-property.ts"
-import type { LifeThemeStatus } from "./properties/life-theme-status.select-property.ts"
-import type { LifeThemeValue } from "./properties/life-theme-value.relation-property.ts"
-import type { StartDate } from "./properties/start-date.calendar-date-property.ts"
-
-export type LifeTheme = Page & {
-  title: Title
-  endDate?: EndDate
-  lifeThemeParent?: LifeThemeParent
-  startDate?: StartDate
-  lifeThemeStatus: LifeThemeStatus
-  lifeThemeValue: LifeThemeValue
-}
 
 export const lifeTheme = {
   id: "01a06575-c2c0-7479-ae1f-92956ac3d48e",
@@ -49,4 +33,5 @@ export const lifeTheme = {
       statement: "A life theme is under another life theme or under no life theme.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

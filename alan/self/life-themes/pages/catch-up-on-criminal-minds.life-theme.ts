@@ -1,4 +1,4 @@
-import type { LifeTheme } from "../life-theme.page-type.ts"
+import type { LifeTheme } from "../life-theme.page-type.types.ts"
 
 export const catchUpOnCriminalMinds = {
   id: "019db533-f3a2-7aad-804e-ec177ba8041a",
