@@ -9,7 +9,7 @@ import {
   rooted,
   scratch,
   TEXT,
-} from "./key-names-one-property.code-check.test-fixtures.ts"
+} from "./key-names-one-property.code-check.decision.test-fixtures.ts"
 
 const UNDER = "akasha-keyed-audit-"
 

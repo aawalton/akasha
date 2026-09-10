@@ -5,7 +5,7 @@ import {
   PAGE_TYPE,
   RECORD,
   TEXT,
-} from "../key-names-one-property/key-names-one-property.code-check.test-fixtures.ts"
+} from "../key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
 
 export const scratch = scratchWorld()
 

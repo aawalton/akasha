@@ -13,7 +13,7 @@ import {
   TEXT,
   TWO,
   typing,
-} from "./key-names-one-property.code-check.test-fixtures.ts"
+} from "./key-names-one-property.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

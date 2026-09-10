@@ -15,7 +15,7 @@ import {
   THREE,
   TWO,
   typing,
-} from "../key-names-one-property/key-names-one-property.code-check.test-fixtures.ts"
+} from "../key-names-one-property/key-names-one-property.code-check.decision.test-fixtures.ts"
 import { refusalsOver } from "./restatement-narrows-something.code-check.decision.code.ts"
 import {
   rooted,
