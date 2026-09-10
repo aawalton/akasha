@@ -31,7 +31,7 @@ export const akasha = {
     "domain/service",
     "domain/alan",
     "domain/design",
-    "domain/id-minting",
+    "domain/id",
     "domain/temper",
     "domain/story",
     "domain/places",
