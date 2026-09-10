@@ -7,4 +7,10 @@ export const dallaDeployCleanup = {
   slug: "dalla-deploy-cleanup",
   domain: "page-type/change",
   persona: "dalla",
+  intents: [
+    { statement: "Every workstation service has deployed through `akasha deploy`." },
+    { statement: "Every cluster service has deployed through `akasha deploy`." },
+    { statement: "Every ios app has deployed through `akasha deploy`." },
+    { statement: "No competing akasha build or deploy command exists." },
+  ],
 } as const satisfies Initiative
