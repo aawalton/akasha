@@ -14,11 +14,11 @@ export const runRelaying = {
     },
     {
       invariantKind: "departure",
-      statement: "The server is started at the first run asked of it rather than before it.",
+      statement: "The server is started at the first run relayed rather than before that run.",
     },
     {
       invariantKind: "departure",
-      statement: "A request goes one way and an answer comes back the other, over a pipe each.",
+      statement: "A request goes over one pipe and an answer comes back over another pipe.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +26,11 @@ export const runRelaying = {
     },
     {
       invariantKind: "departure",
-      statement: "The C library those pipes are made through is the one already mapped.",
+      statement: "The C library those pipes are made through is the library already mapped.",
     },
     {
       invariantKind: "departure",
-      statement: "A server inheriting the write end this one keeps would never read an end.",
+      statement: "A server inheriting the write end this process keeps would never read an end.",
     },
     {
       invariantKind: "departure",
@@ -38,12 +38,11 @@ export const runRelaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A frame is a JSON head and two runs of bytes, each with its length before it.",
+      statement: "A frame is a JSON head and two runs of bytes each preceded by its own length.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A write goes on until every byte is written, because a pipe takes 64 KiB at once.",
+      statement: "A write goes on until every byte is written.",
     },
     {
       invariantKind: "departure",
@@ -55,15 +54,17 @@ export const runRelaying = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing on the way to an answer is awaited, because every caller here is not.",
+      statement: "Nothing on the way to an answer is awaited.",
     },
     {
       invariantKind: "departure",
-      statement: "A lost channel is answered as no code, no signal, no bytes, and why it was lost.",
+      statement:
+        "A lost channel is answered as no code and no signal and no bytes and why the channel was lost.",
     },
     {
       invariantKind: "departure",
-      statement: "Both ends of a lost channel are closed and the server behind it is forgotten.",
+      statement:
+        "Both ends of a lost channel are closed and the server behind that channel is forgotten.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +84,8 @@ export const runRelaying = {
     },
     {
       invariantKind: "departure",
-      statement: "Whoever counts what a run spawned reads them here as well as from the kernel.",
+      statement:
+        "A caller counting the seconds a run spawned reads those seconds here as well as from the kernel.",
     },
     {
       invariantKind: "departure",
@@ -91,19 +93,24 @@ export const runRelaying = {
     },
     {
       invariantKind: "absence",
-      statement: "A lost channel adds nothing, having been told no seconds.",
+      statement: "A lost channel that was told no seconds adds no seconds.",
     },
     {
       invariantKind: "departure",
-      statement: "The output stream is bytes the whole way, and the error stream is text.",
+      statement: "The output stream is bytes the whole way.",
     },
     {
       invariantKind: "departure",
-      statement: "An environment entry stated as undefined goes over as a pair, not dropped.",
+      statement: "The error stream is text.",
     },
     {
       invariantKind: "departure",
-      statement: "The server is started with a mark in the environment naming what it is.",
+      statement:
+        "An environment entry stated as undefined goes over as a pair rather than being dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The server is started with a mark in the environment naming the server.",
     },
     {
       invariantKind: "constraint",
@@ -111,7 +118,7 @@ export const runRelaying = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here builds a command from the path of the file that asked for it.",
+      statement: "Nothing here builds a command from the path of the file asking for the run.",
     },
   ],
 } as const satisfies Module
