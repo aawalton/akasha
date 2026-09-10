@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Description } from "../../pages/properties/description.text-property.ts"
-import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
-import type { Stage } from "../closeness-levels/properties/stage.text-property.ts"
-import type { PersonaImage } from "../images/persona-image.page-type.types.ts"
-import type { ValueSlug } from "../properties/value-slug.text-property.ts"
-import type { EsoDay } from "./properties/eso-day.text-property.ts"
-
-export type PersonaWallpaper = PersonaImage & {
-  relationshipLevel?: RelationshipLevel
-  stage?: Stage
-  esoDay?: EsoDay
-  description?: Description
-  valueSlug?: ValueSlug
-}
 
 export const personaWallpaper = {
   id: "01a0655b-4a9b-700c-8243-c78f27e30dd7",
@@ -44,4 +30,5 @@ export const personaWallpaper = {
       statement: "A description here is the persona's own words about her picture.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

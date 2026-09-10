@@ -1,4 +1,4 @@
-import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
+import type { PersonaWallpaper } from "../persona-wallpaper.page-type.types.ts"
 
 export const emberL0120260705t174635z = {
   id: "019f23fe-956c-779a-8039-f751e1a60a02",

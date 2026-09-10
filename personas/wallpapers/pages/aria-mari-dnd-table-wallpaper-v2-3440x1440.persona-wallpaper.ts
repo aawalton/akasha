@@ -1,4 +1,4 @@
-import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
+import type { PersonaWallpaper } from "../persona-wallpaper.page-type.types.ts"
 
 export const ariaMariDndTableWallpaperV23440x1440 = {
   id: "019ef90e-4fc1-7711-8db3-f4e9af0ad9de",

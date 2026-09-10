@@ -1,4 +1,4 @@
-import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
+import type { PersonaWallpaper } from "../persona-wallpaper.page-type.types.ts"
 
 export const aranyaL0120260705t173828z = {
   id: "019f23ca-79d9-75d2-b83e-620811bff09f",

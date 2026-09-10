@@ -1,4 +1,4 @@
-import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
+import type { PersonaWallpaper } from "../persona-wallpaper.page-type.types.ts"
 
 export const rhiaL0120260705t180151z = {
   id: "019f2db3-9f5f-73e2-a1d1-0952c3c7c381",

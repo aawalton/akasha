@@ -1,4 +1,4 @@
-import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
+import type { PersonaWallpaper } from "../persona-wallpaper.page-type.types.ts"
 
 export const nimueL0120260705t175732z = {
   id: "019f057d-b019-7345-91ca-61ee55f3c0be",

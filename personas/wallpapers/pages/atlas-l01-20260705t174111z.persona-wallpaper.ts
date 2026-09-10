@@ -1,4 +1,4 @@
-import type { PersonaWallpaper } from "../persona-wallpaper.page-type.ts"
+import type { PersonaWallpaper } from "../persona-wallpaper.page-type.types.ts"
 
 export const atlasL0120260705t174111z = {
   id: "019f28f9-e06d-7ae0-9295-373a93b9e416",
