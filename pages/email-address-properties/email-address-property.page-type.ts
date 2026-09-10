@@ -1,7 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type EmailAddressProperty = PageProperty
 
 export const emailAddressProperty = {
   id: "01a053ef-69a0-7d7d-ac01-f2cb92cc7c63",
@@ -41,4 +38,5 @@ export const emailAddressProperty = {
       statement: "An address states no max.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
