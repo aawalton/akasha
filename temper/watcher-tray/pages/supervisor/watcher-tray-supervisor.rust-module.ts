@@ -1,4 +1,4 @@
-import type { RustModule } from "../../../../code-system/rust-modules/rust-module.page-type.ts"
+import type { RustModule } from "../../../../code-system/rust-modules/rust-module.page-type.types.ts"
 
 export const watcherTraySupervisor = {
   id: "01a06034-87f3-7170-a8fa-a5f3354324b8",

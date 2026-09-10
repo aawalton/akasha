@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Rust } from "./properties/rust.code-file-property.ts"
-import type { RustModuleName } from "./properties/rust-module-name.text-property.ts"
-
-export type RustModule = Domain & {
-  rust: Rust
-  moduleName?: RustModuleName
-}
 
 export const rustModule = {
   id: "01a0602d-6acf-7594-86e8-07b54a35a700",
@@ -47,4 +39,5 @@ export const rustModule = {
       statement: "Every Rust module states the name Cargo reads.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
