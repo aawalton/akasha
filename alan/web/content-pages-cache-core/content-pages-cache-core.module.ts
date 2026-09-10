@@ -24,7 +24,7 @@ export const contentPagesCacheCore = {
     },
     {
       invariantKind: "departure",
-      statement: "`id` is the one key a held page must have, because nothing reads another.",
+      statement: "`id` is the one key a held page must have.",
     },
     {
       invariantKind: "departure",
