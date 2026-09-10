@@ -1,10 +1,10 @@
 import { git } from "../git-capping/git-capping.module.code.ts"
+import { pushBranch, remoteOf } from "../git-pushing/git-pushing.module.code.ts"
 import {
   releasePushLock,
   takePushLock,
   writePushState,
-} from "../git-push-handoff/git-push-handoff.module.code.ts"
-import { pushBranch, remoteOf } from "../git-pushing/git-pushing.module.code.ts"
+} from "../push-handoff/git-push-handoff.module.code.ts"
 
 const PUSH_CEILING_MS = 120_000
 
