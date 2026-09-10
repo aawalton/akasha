@@ -1,4 +1,4 @@
-import type { ProcessProperty } from "@akasha/pages/process-property"
+import type { ProcessProperty } from "akasha/pages/process-properties/process-property.page-type.types.ts"
 
 export type SupervisorProcess = string
 

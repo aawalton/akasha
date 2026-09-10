@@ -1,7 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type ProcessProperty = PageProperty
 
 export const processProperty = {
   id: "01a05406-9bc6-71c5-8fcf-b15b97d86578",
@@ -35,4 +32,5 @@ export const processProperty = {
         "An existing process is the process named only where the start time read now matches the time held.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
