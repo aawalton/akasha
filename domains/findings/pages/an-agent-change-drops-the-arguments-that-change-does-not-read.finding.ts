@@ -1,0 +1,13 @@
+import type { Finding } from "../finding.page-type.types.ts"
+
+export const anAgentChangeDropsTheArgumentsThatChangeDoesNotRead = {
+  id: "01a08dc1-bf0c-76d3-91d4-9e0e2032c85d",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "an-agent-change-drops-the-arguments-that-change-does-not-read",
+  domain: "domain/change-agent-file-content",
+  claim:
+    "No agent change adds a field to a record a list already carries. `change-property-record-field` refuses where the record carries nothing under that field, and `add-property-value` takes `where`, `is` and `field` without reading one of them, so the value is appended as a new element of the list and a record property gets a bare string where a record belongs. Nothing says the three arguments were dropped. The page that results is invalid, and the landing's typecheck is the first thing that says so. The way through is `change-file` on the page body, which is the act a page-shaped change is supposed to spare an agent.",
+  evidence:
+    "Met on 2026-09-10 adding `workingMemory` to an intent of `domains/initiatives/pages/aranya-one-package.initiative.ts` that carried a statement alone.\n\n`change-property-record-field` with `key: intents`, `where: statement`, `is: <the statement>`, `field: workingMemory` answers `that record states no text under workingMemory`. So the act that changes a field will not add one.\n\n`add-property-value` with those same arguments plus `value` was taken without a word and drafted. The apply refused with `domains/initiatives/pages/aranya-one-package.initiative.ts — line 42: TS2322: Type 'string' is not assignable to type 'Intent'`, so the value had been appended to `intents` as an element.\n\nThe reason is at `changes/agent/file-content/add-property-value/add-property-value.change-agent.code.ts`: `AddPropertyValueAsked` declares `at`, `key`, `value` and `after`, and nothing else. That change does carry a guard for this shape — `A field inside a record is reached through the record rather than as a key of its own` — but the guard fires on `declaresIn(world, read.value, given.key) === false`, and `intents` is a property `initiative` declares, so the guard passed. The guard catches a field named as the key; it does not catch a key named rightly with a field beside it.\n\nWhat was not read: whether the argument reader every agent change shares could refuse an argument the change does not declare, and what that would refuse across the changes that already take arguments loosely.",
+} as const satisfies Finding
