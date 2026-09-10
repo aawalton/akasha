@@ -41,6 +41,7 @@ type Listener = {
 
 const listeners = new Map<string, Set<Listener>>()
 const watchers = new Map<string, FSWatcher>()
+const above = new Map<string, FSWatcher>()
 
 function tell(listener: Listener): undefined {
   let body: string
@@ -57,18 +58,45 @@ function tell(listener: Listener): undefined {
   return undefined
 }
 
-function watchFolder(folder: string): undefined {
-  if (watchers.has(folder)) return undefined
-  const watcher = watch(folder, (_kind, name) => {
-    if (name === null) return
-    const here = listeners.get(folder)
-    if (here === undefined) return
-    for (const listener of here) {
-      if (listener.name === name) tell(listener)
-    }
-  })
+function armFolder(folder: string): undefined {
+  watchers.get(folder)?.close()
+  watchers.delete(folder)
+  let watcher: FSWatcher
+  try {
+    watcher = watch(folder, (_kind, name) => {
+      if (name === null) return
+      const here = listeners.get(folder)
+      if (here === undefined) return
+      for (const listener of here) {
+        if (listener.name === name) tell(listener)
+      }
+    })
+  } catch {
+    return undefined
+  }
   watcher.unref()
   watchers.set(folder, watcher)
+  return undefined
+}
+
+function armAbove(folder: string): undefined {
+  const over = dirname(folder)
+  if (above.has(over)) return undefined
+  let watcher: FSWatcher
+  try {
+    watcher = watch(over, (_kind, name) => {
+      if (name === null) return
+      const under = join(over, name)
+      const here = listeners.get(under)
+      if (here === undefined) return
+      armFolder(under)
+      for (const listener of here) tell(listener)
+    })
+  } catch {
+    return undefined
+  }
+  watcher.unref()
+  above.set(over, watcher)
   return undefined
 }
 
@@ -88,7 +116,8 @@ export function followState<Held>(
   const here = listeners.get(folder) ?? new Set<Listener>()
   here.add(listener)
   listeners.set(folder, here)
-  watchFolder(folder)
+  armAbove(folder)
+  armFolder(folder)
   tell(listener)
   return {
     stop: (): undefined => {
@@ -99,6 +128,10 @@ export function followState<Held>(
       listeners.delete(folder)
       watchers.get(folder)?.close()
       watchers.delete(folder)
+      const over = dirname(folder)
+      for (const one of listeners.keys()) if (dirname(one) === over) return undefined
+      above.get(over)?.close()
+      above.delete(over)
       return undefined
     },
   }

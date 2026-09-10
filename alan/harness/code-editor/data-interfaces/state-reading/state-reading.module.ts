@@ -15,6 +15,15 @@ export const stateReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The folder above is watched too, so a folder taken away and put back is watched again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A part whose folder is not there yet is told once that folder arrives.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A write replaces the file itself.",
     },
     {

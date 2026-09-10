@@ -1,5 +1,5 @@
 import { afterAll, beforeEach, expect, test } from "bun:test"
-import { mkdirSync, renameSync, writeFileSync } from "node:fs"
+import { mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../../../commands/modules/scratching/scratching.module.code.ts"
 import { followState, readState, stateAt } from "./state-reading.module.code.ts"
@@ -168,4 +168,36 @@ test("a part is not redrawn when another part's file is written", async () => {
   await until(() => seen.length >= 2, 300)
   reading.stop()
   expect(seen.length).toBe(1)
+})
+
+test("a folder taken away and put back is followed again", async () => {
+  serviceWrites('{"roots":[{"key":"first"}]}')
+  const seen: { roots: { key: string }[] }[] = []
+  const reading = followState<{ roots: { key: string }[] }>(root, SLUG, (held) => {
+    seen.push(held)
+    return undefined
+  })
+  rmSync(join(root, PAGES_AT, SLUG), { recursive: true, force: true })
+  mkdirSync(join(root, PAGES_AT, SLUG), { recursive: true })
+  await until(() => false, 200)
+  serviceWrites('{"roots":[{"key":"second"}]}')
+  await until(() => seen.length >= 2)
+  reading.stop()
+  expect(seen[1]?.roots[0]?.key).toBe("second")
+})
+
+test("a folder that is not there yet is followed once that folder arrives", async () => {
+  const late = "status-bar"
+  const seen: { roots: { key: string }[] }[] = []
+  const reading = followState<{ roots: { key: string }[] }>(root, late, (held) => {
+    seen.push(held)
+    return undefined
+  })
+  expect(seen.length).toBe(0)
+  mkdirSync(join(root, PAGES_AT, late), { recursive: true })
+  await until(() => false, 200)
+  writeFileSync(stateAt(root, late), '{"roots":[{"key":"late"}]}\n', "utf8")
+  await until(() => seen.length >= 1)
+  reading.stop()
+  expect(seen[0]?.roots[0]?.key).toBe("late")
 })
