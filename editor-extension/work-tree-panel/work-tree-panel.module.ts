@@ -83,7 +83,17 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A drop and a deletion are held for an initiative in one place.",
+      statement:
+        "An intent dropped onto another initiative leaves the initiative handing it at once.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That intent reaches the initiative taking it when the file the service writes has it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A drop, a hand and a deletion are held for an initiative in one place.",
     },
     {
       invariantKind: "departure",

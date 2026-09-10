@@ -2,13 +2,21 @@ import { expect, test } from "bun:test"
 import {
   DRAG_MIME,
   draggedIn,
+  droppedAs,
   failureSaid,
+  handFailureSaid,
+  handingOf,
+  initiativeOf,
   keyedAs,
   orderingOf,
 } from "./work-tree-dragging.module.code.ts"
 
 function rowOf(kind: WorkTreeRow["kind"], key: string): WorkTreeRow {
   return { kind, key, label: key, at: null, color: null, detail: null, note: null, children: [] }
+}
+
+function labelled(kind: WorkTreeRow["kind"], key: string, label: string): WorkTreeRow {
+  return { ...rowOf(kind, key), label }
 }
 
 const FIRST = rowOf("intent", "held#1")
@@ -18,6 +26,10 @@ const SECOND = rowOf("intent", "held#2")
 const ELSEWHERE = rowOf("intent", "other#1")
 
 const INITIATIVE = rowOf("initiative", "held")
+
+const OTHER_INITIATIVE = rowOf("initiative", "other")
+
+const CARRIED = labelled("intent", "held#1", "A thing is so.")
 
 test("the drag is carried under the name the editor gives this view's tree", () => {
   expect(DRAG_MIME).toBe("application/vnd.code.tree.opsworktree")
@@ -83,4 +95,91 @@ test("a move that failed is said with the initiative, both places and the reason
   expect(failureSaid({ slug: "held", from: 1, to: 2 }, "it broke")).toBe(
     "held: the intent at place 1 did not move to place 2. it broke"
   )
+})
+
+test("an initiative's own row answers that initiative", () => {
+  expect(initiativeOf(OTHER_INITIATIVE)).toBe("other")
+})
+
+test("an intent's row answers the initiative stating it", () => {
+  expect(initiativeOf(ELSEWHERE)).toBe("other")
+})
+
+test("no row, and a row keyed by nothing, answer no initiative", () => {
+  expect(initiativeOf(undefined)).toBe(null)
+  expect(initiativeOf(rowOf("initiative", ""))).toBe(null)
+})
+
+test("an intent dropped onto another initiative's own row is handed to it", () => {
+  expect(handingOf([CARRIED], OTHER_INITIATIVE)).toEqual({
+    from: "held",
+    statement: "A thing is so.",
+    to: "other",
+  })
+})
+
+test("an intent dropped onto an intent of another initiative is handed to that initiative", () => {
+  expect(handingOf([CARRIED], ELSEWHERE)).toEqual({
+    from: "held",
+    statement: "A thing is so.",
+    to: "other",
+  })
+})
+
+test("an intent dropped onto its own initiative's row is handed nowhere", () => {
+  expect(handingOf([CARRIED], INITIATIVE)).toBe(null)
+})
+
+test("an intent dropped onto an intent of its own initiative is handed nowhere", () => {
+  expect(handingOf([CARRIED], SECOND)).toBe(null)
+})
+
+test("a row drawn under no label is handed nowhere", () => {
+  expect(handingOf([FIRST], OTHER_INITIATIVE)).toEqual({
+    from: "held",
+    statement: "held#1",
+    to: "other",
+  })
+  expect(handingOf([labelled("intent", "held#1", "")], OTHER_INITIATIVE)).toBe(null)
+})
+
+test("an initiative dragged, and more than one row dragged, are handed nowhere", () => {
+  expect(handingOf([INITIATIVE], OTHER_INITIATIVE)).toBe(null)
+  expect(handingOf([CARRIED, SECOND], OTHER_INITIATIVE)).toBe(null)
+  expect(handingOf([], OTHER_INITIATIVE)).toBe(null)
+})
+
+test("a drop over no row hands nothing", () => {
+  expect(handingOf([CARRIED], undefined)).toBe(null)
+})
+
+test("a drop within one initiative is read as a move rather than a hand", () => {
+  expect(droppedAs([CARRIED], SECOND)).toEqual({
+    kind: "move",
+    order: { slug: "held", from: 1, to: 2 },
+  })
+})
+
+test("a drop onto another initiative is read as a hand", () => {
+  expect(droppedAs([CARRIED], OTHER_INITIATIVE)).toEqual({
+    kind: "hand",
+    handing: { from: "held", statement: "A thing is so.", to: "other" },
+  })
+  expect(droppedAs([CARRIED], ELSEWHERE)).toEqual({
+    kind: "hand",
+    handing: { from: "held", statement: "A thing is so.", to: "other" },
+  })
+})
+
+test("a drop that is neither a move nor a hand is read as nothing", () => {
+  expect(droppedAs([CARRIED], INITIATIVE)).toBe(null)
+  expect(droppedAs([CARRIED], CARRIED)).toBe(null)
+  expect(droppedAs([CARRIED], undefined)).toBe(null)
+  expect(droppedAs([], OTHER_INITIATIVE)).toBe(null)
+})
+
+test("a hand that failed is said with both initiatives, the statement and the reason", () => {
+  expect(
+    handFailureSaid({ from: "held", statement: "A thing is so.", to: "other" }, "it broke")
+  ).toBe("held: the intent `A thing is so.` did not reach other. it broke")
 })

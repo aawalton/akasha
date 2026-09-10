@@ -65,7 +65,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       },
       {
         moving: (order) => holdMoved(order),
-        refused: (order) => letGo(order.slug),
+        handing: (one) => holdWithout({ slug: one.from, statement: one.statement }),
+        refused: (slug) => letGo(slug),
       }
     ),
     showCollapseAll: true,

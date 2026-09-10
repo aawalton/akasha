@@ -8,6 +8,10 @@ const MOVE_MODULE = "initiative-move-intent"
 
 const MOVE_EXPORT = "initiativeMoveIntent"
 
+const HAND_MODULE = "initiative-hand-intent"
+
+const HAND_EXPORT = "initiativeHandIntent"
+
 const INTENT_MARK = "#"
 
 export type Keyed = {
@@ -43,6 +47,45 @@ export function orderingOf(
   return { slug: one.slug, from: one.place, to: other.place }
 }
 
+export type Handing = {
+  readonly from: string
+  readonly statement: string
+  readonly to: string
+}
+
+export function initiativeOf(onto: WorkTreeRow | undefined): string | null {
+  if (onto === undefined) return null
+  if (onto.kind === "initiative") return onto.key === "" ? null : onto.key
+  return keyedAs(onto)?.slug ?? null
+}
+
+export function handingOf(
+  dragged: readonly WorkTreeRow[],
+  onto: WorkTreeRow | undefined
+): Handing | null {
+  if (dragged.length !== 1) return null
+  const one = dragged[0]
+  const keyed = keyedAs(one)
+  if (one === undefined || keyed === null || one.label === "") return null
+  const to = initiativeOf(onto)
+  if (to === null || to === keyed.slug) return null
+  return { from: keyed.slug, statement: one.label, to }
+}
+
+export type Dropped =
+  | { readonly kind: "move"; readonly order: Ordering }
+  | { readonly kind: "hand"; readonly handing: Handing }
+
+export function droppedAs(
+  dragged: readonly WorkTreeRow[],
+  onto: WorkTreeRow | undefined
+): Dropped | null {
+  const order = orderingOf(dragged, onto)
+  if (order !== null) return { kind: "move", order }
+  const handing = handingOf(dragged, onto)
+  return handing === null ? null : { kind: "hand", handing }
+}
+
 export function draggedIn(held: unknown): readonly WorkTreeRow[] {
   return Array.isArray(held) ? (held as readonly WorkTreeRow[]) : []
 }
@@ -51,19 +94,39 @@ export function failureSaid(order: Ordering, why: string): string {
   return `${order.slug}: the intent at place ${order.from} did not move to place ${order.to}. ${why}`
 }
 
+export function handFailureSaid(handing: Handing, why: string): string {
+  return `${handing.from}: the intent \`${handing.statement}\` did not reach ${handing.to}. ${why}`
+}
+
 export interface WorkDropWatch {
   readonly moving: (order: Ordering) => undefined
-  readonly refused: (order: Ordering) => undefined
+  readonly handing: (one: Handing) => undefined
+  readonly refused: (slug: string) => undefined
+}
+
+export type Calling = (
+  module: string,
+  exported: string,
+  args: readonly string[],
+  options: { readonly timeout: number }
+) => Promise<string>
+
+export type Editor = {
+  readonly window: {
+    readonly showErrorMessage: (said: string) => unknown
+  }
+  readonly DataTransferItem: new (value: readonly WorkTreeRow[]) => vscode.DataTransferItem
 }
 
 export function createWorkDragging(
-  editor: typeof vscode,
+  editor: Editor,
   say: (line: string) => undefined,
-  watch: WorkDropWatch
+  watch: WorkDropWatch,
+  call: Calling = callHarness
 ): vscode.TreeDragAndDropController<WorkTreeRow> {
   const dropped = async (order: Ordering): Promise<undefined> => {
     try {
-      const said = await callHarness(
+      const said = await call(
         MOVE_MODULE,
         MOVE_EXPORT,
         [order.slug, String(order.from), String(order.to)],
@@ -71,13 +134,32 @@ export function createWorkDragging(
       )
       say(`[drop] ${said.trim()}`)
     } catch (thrown) {
-      watch.refused(order)
+      watch.refused(order.slug)
       const why = failureSaid(order, String(thrown))
       say(`[drop] ${why}`)
       void editor.window.showErrorMessage(`Work: ${why}`)
     }
     return undefined
   }
+
+  const handed = async (handing: Handing): Promise<undefined> => {
+    try {
+      const said = await call(
+        HAND_MODULE,
+        HAND_EXPORT,
+        [handing.from, handing.statement, handing.to],
+        { timeout: LANDING_TIMEOUT_MS }
+      )
+      say(`[drop] ${said.trim()}`)
+    } catch (thrown) {
+      watch.refused(handing.from)
+      const why = handFailureSaid(handing, String(thrown))
+      say(`[drop] ${why}`)
+      void editor.window.showErrorMessage(`Work: ${why}`)
+    }
+    return undefined
+  }
+
   return {
     dragMimeTypes: [DRAG_MIME],
     dropMimeTypes: [DRAG_MIME],
@@ -87,10 +169,15 @@ export function createWorkDragging(
     },
     handleDrop: (target, carried) => {
       const held: unknown = carried.get(DRAG_MIME)?.value
-      const order = orderingOf(draggedIn(held), target)
-      if (order === null) return undefined
-      watch.moving(order)
-      void dropped(order)
+      const read = droppedAs(draggedIn(held), target)
+      if (read === null) return undefined
+      if (read.kind === "move") {
+        watch.moving(read.order)
+        void dropped(read.order)
+        return undefined
+      }
+      watch.handing(read.handing)
+      void handed(read.handing)
       return undefined
     },
   }
