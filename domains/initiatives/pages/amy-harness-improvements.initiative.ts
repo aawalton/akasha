@@ -24,5 +24,10 @@ export const amyHarnessImprovements = {
       workingMemory:
         "The drain works: 777 readings landed at 08:16 today. The renames were not the cause — the headscale TLS certificate expired and tailscaled could not fetch its control key, so `workstation.alanwalton.ts.net` had no address for 23h43m while `page-listening` served loopback and systemd called it healthy. Alan holds the certificate. `device-secret-context` answers 503 now rather than 500. Left: make a refused bind fatal, so a store off the tailnet is said.",
     },
+    {
+      statement: "Every stoplight takes its reading on a watch rather than on a timer.",
+      workingMemory:
+        "Twelve readouts take a reading on a `*:0/5` timer and relay it on `*:2/5`. Two watches already run: `inbox-count-watch` follows the index and re-takes the task counts, and `data-watching` recomputes each code editor picture from the folders that picture declares it reads. The second is the general mechanism and the one to reach for. Left: whether each reading has a source in the checkout to watch, since Monarch, Claude usage and the health samples arrive from outside it.",
+    },
   ],
 } as const satisfies Initiative
