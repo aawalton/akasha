@@ -20,9 +20,9 @@ test("a clear that faults does not hold up the signal", async () => {
 
 test("a clear that never answers stops holding up the signal", async () => {
   const started = Date.now()
-  await clearBeforeSigterm(() => new Promise(() => {}), "a")
-  expect(Date.now() - started).toBeLessThan(20_000)
-}, 30_000)
+  await clearBeforeSigterm(() => new Promise(() => {}), "a", 10)
+  expect(Date.now() - started).toBeLessThan(5_000)
+})
 
 test("a proxy swap happens only after the request asking for it is consumed", async () => {
   const order: string[] = []

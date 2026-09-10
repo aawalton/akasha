@@ -8,12 +8,13 @@ export async function clearRequestedAction(agentId: string): Promise<void> {
 const CLEAR_AT_FIRE_TIMEOUT_MS = 5_000
 
 export async function clearBeforeSigterm(
-  clearAction: (agentId: string) => Promise<void>,
-  agentId: string
+  clearAction: (given: string) => Promise<void>,
+  agentId: string,
+  boundMs: number = CLEAR_AT_FIRE_TIMEOUT_MS
 ): Promise<void> {
   let timer: ReturnType<typeof setTimeout> | undefined
   const deadline = new Promise<void>((resolve) => {
-    timer = setTimeout(resolve, CLEAR_AT_FIRE_TIMEOUT_MS)
+    timer = setTimeout(resolve, boundMs)
     timer.unref?.()
   })
   try {

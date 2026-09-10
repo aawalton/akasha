@@ -14,6 +14,10 @@ export const supervisorAgentActionClear = {
     },
     {
       invariantKind: "departure",
+      statement: "The bound is handed in so a test needs no wait.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A proxy swap happens only after the request that asked for that swap is consumed.",
     },
