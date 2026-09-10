@@ -37,7 +37,7 @@ export const harnessCall = {
     },
     {
       invariantKind: "departure",
-      statement: "One held-open server answers every call rather than one server per call.",
+      statement: "One held-open server answers the calls rather than a server for each call.",
     },
     {
       invariantKind: "absence",
@@ -45,7 +45,11 @@ export const harnessCall = {
     },
     {
       invariantKind: "departure",
-      statement: "A call names the page whose code holds the export, and names the export.",
+      statement: "A call names the page whose code holds the export.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call names the export that call asks for.",
     },
     {
       invariantKind: "departure",
@@ -61,11 +65,13 @@ export const harnessCall = {
     },
     {
       invariantKind: "departure",
-      statement: "One ceiling here is what every such caller is given, rather than one each.",
+      statement:
+        "The ceiling stated here is the ceiling given to a caller reaching a command that lands.",
     },
     {
       invariantKind: "constraint",
-      statement: "A landing queued behind another lands after the caller that gave up on it.",
+      statement:
+        "A landing queued behind another landing lands after the caller gave up on that landing.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +83,8 @@ export const harnessCall = {
     },
     {
       invariantKind: "departure",
-      statement: "That error says what the command said rather than naming the export and a code.",
+      statement:
+        "That error says the words the command said rather than naming the export and a code.",
     },
     {
       invariantKind: "departure",
