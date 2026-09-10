@@ -12,12 +12,12 @@ import {
   AlertDialogTitle,
 } from "@akasha/design-primitives/alert-dialog"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
-import type { Skill } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,
-} from "akasha/temper/temper-character-skills/skill-line-queries/skill-line-queries.module.code.ts"
+} from "akasha/temper/character-skills/skill-line-queries/skill-line-queries.module.code.ts"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import {
   type SkillLineId,

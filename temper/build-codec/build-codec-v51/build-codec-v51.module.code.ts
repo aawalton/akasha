@@ -10,7 +10,7 @@ import {
   writeBits,
 } from "akasha/temper/build-hash/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
+import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import type { RoleId } from "../../character-sources/character-roles/character-roles.module.code.ts"
 import type { TargetArmorId } from "../../character-sources/target-armors/target-armors.module.code.ts"
 import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"

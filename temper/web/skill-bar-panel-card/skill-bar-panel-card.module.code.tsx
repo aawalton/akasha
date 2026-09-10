@@ -4,7 +4,7 @@ import { PanelCard } from "@akasha/design-layout/panel-card"
 import type {
   Skill,
   SkillId,
-} from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+} from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import {
   activeSkillSlots,
   type SkillSlotId,

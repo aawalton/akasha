@@ -8,13 +8,13 @@ import {
 } from "@akasha/design-primitives/collapsible"
 import { Heading } from "@akasha/design-primitives/heading"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
-import type { Skill } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
-import { skills } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
+import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
+import { skills } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import {
   countArmorPiecesByWeight,
   getRacialSkillLineIdForRace,
-} from "akasha/temper/temper-character-skills/passive-queries/passive-queries.module.code.ts"
-import { getWeaponSkillLineIdsForBar } from "akasha/temper/temper-character-skills/skill-line-queries/skill-line-queries.module.code.ts"
+} from "akasha/temper/character-skills/passive-queries/passive-queries.module.code.ts"
+import { getWeaponSkillLineIdsForBar } from "akasha/temper/character-skills/skill-line-queries/skill-line-queries.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import {

@@ -17,12 +17,12 @@ import {
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
-import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
+import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import {
   getGrimoireCompatibleScripts,
   grimoires,
-} from "akasha/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
-import { getCombinedScriptDescription } from "akasha/temper/temper-character-skills/scribing-script-description/scribing-script-description.module.code.ts"
+} from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
+import { getCombinedScriptDescription } from "akasha/temper/character-skills/scribing-script-description/scribing-script-description.module.code.ts"
 import { useMemo } from "react"
 import {
   type AffixScriptId,

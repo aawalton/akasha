@@ -13,9 +13,9 @@ import {
   type CharacterVisibility,
   toCharacterVisibility,
 } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
+import type { Skill } from "akasha/temper/character-skills/character-skills/character-skills.module.code.ts"
 import { useCharacter as useCharacterZero } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
-import type { Skill } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
 import { createContext, type ReactNode, useCallback, useReducer } from "react"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
