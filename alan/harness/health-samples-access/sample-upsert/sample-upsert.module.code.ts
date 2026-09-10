@@ -4,6 +4,7 @@ import {
   readingFor,
   writingFor,
 } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { z } from "zod"
 import { sampleIdentity } from "../sample-identity/sample-identity.module.code.ts"
 import { numberAt, textAt } from "../sample-rows/sample-rows.module.code.ts"
 import { sampleRowsIn } from "../sample-selecting/sample-selecting.module.code.ts"
@@ -54,17 +55,19 @@ function linesIn(content: string | null): readonly string[] {
   return content.split("\n").filter((one) => one.trim() !== "")
 }
 
+const SAMPLE_ROW = z.record(z.string(), z.unknown())
+
 function valuesOf(line: string, path: string): Readonly<Record<string, unknown>> {
-  let held: unknown
+  let held: Record<string, unknown> | null
   try {
-    held = JSON.parse(line)
+    held = SAMPLE_ROW.safeParse(JSON.parse(line)).data ?? null
   } catch {
     throw new Error(`upsertHealthSamples: ${path} carries a line that is not JSON`)
   }
-  if (held === null || typeof held !== "object" || Array.isArray(held)) {
+  if (held === null) {
     throw new Error(`upsertHealthSamples: ${path} carries a line that is not a row`)
   }
-  return held as Readonly<Record<string, unknown>>
+  return held
 }
 
 function identityOf(values: Readonly<Record<string, unknown>>): string {
