@@ -2,6 +2,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { domainsDrawn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
 import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   championing,
   deciding,
@@ -35,13 +36,7 @@ export function ledgerAt(home: string): string {
   return join(home, LEDGER)
 }
 
-export function ledgerIn(text: string): Ledger {
-  let held: unknown
-  try {
-    held = JSON.parse(text)
-  } catch {
-    return {}
-  }
+export function parseLedger(held: unknown): Ledger {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return {}
   const kept: Record<string, { brokenSince: string; toldAt: string | null }> = {}
   for (const [slug, one] of Object.entries(held as Record<string, unknown>)) {
@@ -54,6 +49,14 @@ export function ledgerIn(text: string): Ledger {
     }
   }
   return kept
+}
+
+export function ledgerIn(text: string): Ledger {
+  try {
+    return parseLedger(JSON.parse(text))
+  } catch {
+    return {}
+  }
 }
 
 export function ledgerRead(home: string): Ledger {
@@ -127,13 +130,11 @@ export async function ticking(given: {
 }
 
 export function homeAt(): string {
-  const stated = process.env.HOME
-  return stated === undefined || stated === "" ? process.cwd() : stated
+  return optionalEnv("HOME") ?? process.cwd()
 }
 
 export function rootAt(): string {
-  const stated = process.env.AKASHA_ROOT
-  return stated === undefined || stated === "" ? process.cwd() : stated
+  return optionalEnv("AKASHA_ROOT") ?? process.cwd()
 }
 
 if (import.meta.main) {
