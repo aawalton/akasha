@@ -8,8 +8,8 @@ export const personaAnchorImage = {
   definition: "the picture every other picture of a persona is drawn to match",
   pluralSlug: "persona-anchor-images",
   extends: ["page-type/persona-image"],
-  parts: ["text-property/grade"],
-  properties: [{ pageProperty: "text-property/grade", required: false, many: false }],
+  parts: ["rank-property/grade"],
+  properties: [{ pageProperty: "rank-property/grade", required: false, many: false }],
   invariants: [
     {
       invariantKind: "departure",
