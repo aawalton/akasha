@@ -147,6 +147,7 @@ export const temper = {
     "domain/temper-build-hash",
     "domain/temper-build-codec",
     "domain/temper-companion-codec",
+    "domain/temper-lccc",
     "eso-addon/temper-characters-addon",
     "eso-addon/temper-capture-datamining-addon",
     "eso-addon/temper-quests-addon",
