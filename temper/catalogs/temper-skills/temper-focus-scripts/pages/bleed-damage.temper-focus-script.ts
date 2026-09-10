@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const bleedDamage = {
   id: "01a05fce-2950-7e3d-9043-e3769bffcb04",

@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const stun = {
   id: "01a05fce-2955-7763-98fa-53c47538540c",

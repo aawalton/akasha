@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const multiTarget = {
   id: "01a05fce-2953-7638-909f-a08a1f297d0d",

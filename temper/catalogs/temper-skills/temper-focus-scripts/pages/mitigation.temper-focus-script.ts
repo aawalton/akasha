@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const mitigation = {
   id: "01a05fce-2953-7f6e-ad5f-316fa41f01f1",

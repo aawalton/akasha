@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const frostDamage = {
   id: "01a05fce-2951-7c52-bd98-7180c06370f0",

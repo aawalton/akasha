@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const generateUltimate = {
   id: "01a05fce-2951-7cb5-82dc-13ae1c16d943",

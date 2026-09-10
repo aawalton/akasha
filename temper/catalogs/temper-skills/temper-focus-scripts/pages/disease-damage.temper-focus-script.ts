@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const diseaseDamage = {
   id: "01a05fce-2950-77c6-882a-0d144ddbe6bd",

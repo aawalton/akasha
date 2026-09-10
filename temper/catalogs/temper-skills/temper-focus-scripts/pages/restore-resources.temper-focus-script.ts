@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const restoreResources = {
   id: "01a05fce-2954-7a3f-b5c4-f69c5f0b9b81",

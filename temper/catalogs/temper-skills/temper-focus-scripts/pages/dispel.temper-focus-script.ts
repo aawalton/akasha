@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const dispel = {
   id: "01a05fce-2951-7081-a3fa-0882b13ba0ac",

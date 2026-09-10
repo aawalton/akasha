@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const poisonDamage = {
   id: "01a05fce-2954-7568-80f9-e8b6e7fe70f3",

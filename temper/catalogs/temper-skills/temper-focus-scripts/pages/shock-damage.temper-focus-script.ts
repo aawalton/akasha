@@ -1,4 +1,4 @@
-import type { TemperFocusScript } from "../temper-focus-script.page-type.ts"
+import type { TemperFocusScript } from "../temper-focus-script.page-type.types.ts"
 
 export const shockDamage = {
   id: "01a05fce-2954-76fc-b4b7-83e6b975b207",
