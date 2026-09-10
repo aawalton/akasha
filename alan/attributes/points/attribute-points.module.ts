@@ -40,7 +40,7 @@ export const attributePoints = {
     },
     {
       invariantKind: "departure",
-      statement: "Keeping today's points again replaces the total rather than adding to it.",
+      statement: "Keeping today's points again replaces the total rather than adding to the total.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const attributePoints = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works out what an attribute earned.",
+      statement: "Nothing here works out the points an attribute earned.",
     },
     {
       invariantKind: "absence",
