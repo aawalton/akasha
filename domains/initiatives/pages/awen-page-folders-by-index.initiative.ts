@@ -13,7 +13,7 @@ export const awenPageFoldersByIndex = {
       statement:
         "Code reaching the pages of a type asks the index for them rather than spelling their folder.",
       workingMemory:
-        "`valuesOfType` and `everyOfType` answer by page type slug from one index read. Six sites listed a page folder to read its pages. `monarch-files` and `monarch-merchant-naming` are converted and run true: 56 categories, 32 accounts, 2 tags, 3 holdings, 1 direction, 50 merchants, and every merchant names itself from its own pattern. Four are left, and each has a folder that is a runtime value rather than a literal. No site anywhere spells a folder to write a page into.\n",
+        "Six sites listed a page folder to read its pages. Three are converted and verified through `valuesOfType`: monarch-files, monarch-merchant-naming, and email-rule-reading, whose 108 rules for Alan read byte-identical after. Three are left, and each deliberately serves a tree wider than this checkout: lualib-pages reads the folder beside the compiler, and the two addon modules take an arbitrary code root. The index does hold 135 lualib, 48 eso-addon, 40 eso-interface and 6 lua-module pages.\n",
     },
     {
       statement:
