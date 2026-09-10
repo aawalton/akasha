@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const ebonheartPact = {
   id: "019e5a46-c3c5-70f9-8e30-f19a68a574d6",

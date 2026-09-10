@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const drownedMariner = {
   id: "019e5a46-c4a7-791f-ab62-5c35a5ffc24f",

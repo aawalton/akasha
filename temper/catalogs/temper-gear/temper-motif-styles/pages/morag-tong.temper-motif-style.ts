@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const moragTong = {
   id: "019e5a46-c3bd-7815-b1c9-1d043f131ac4",

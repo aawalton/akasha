@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const sulXan = {
   id: "019e5a46-c486-7deb-9fc0-fbe8dcf58196",

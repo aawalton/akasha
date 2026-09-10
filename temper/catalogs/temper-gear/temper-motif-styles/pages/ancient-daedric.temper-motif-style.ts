@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const ancientDaedric = {
   id: "019e5a46-c47e-706c-829f-952adfe3610f",

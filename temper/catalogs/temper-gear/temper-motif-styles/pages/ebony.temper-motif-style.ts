@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const ebony = {
   id: "019e5a46-c3cd-72b9-84e4-c5a7620de32c",

@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const deadKeeper = {
   id: "019e5a46-c4b9-76dd-862a-8a73e36a670b",

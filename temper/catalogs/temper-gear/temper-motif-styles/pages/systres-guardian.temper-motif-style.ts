@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const systresGuardian = {
   id: "019e5a46-c4a1-795a-aebc-0b489c59ff75",

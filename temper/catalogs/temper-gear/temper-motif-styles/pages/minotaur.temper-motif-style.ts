@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const minotaur = {
   id: "019e5a46-c3d9-7cc0-b8c3-f7c852e633c6",

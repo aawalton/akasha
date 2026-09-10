@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const bloodforge = {
   id: "019e5a46-c3fb-794f-bbea-bb19bff5ca52",

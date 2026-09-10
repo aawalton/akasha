@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const firesong = {
   id: "019e5a46-c4aa-77ed-98d5-24d3daa03b44",

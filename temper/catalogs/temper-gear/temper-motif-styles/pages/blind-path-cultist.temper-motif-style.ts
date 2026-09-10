@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const blindPathCultist = {
   id: "019e5a46-c4c2-76e5-a86d-148489fe3374",

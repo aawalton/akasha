@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const houseTelvanni = {
   id: "019e5a46-c3e8-7c17-98b1-3d55acef4fe0",

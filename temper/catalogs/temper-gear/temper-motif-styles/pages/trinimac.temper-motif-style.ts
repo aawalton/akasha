@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const trinimac = {
   id: "019e5a46-c3b8-7505-aeb9-66bc38b0d942",

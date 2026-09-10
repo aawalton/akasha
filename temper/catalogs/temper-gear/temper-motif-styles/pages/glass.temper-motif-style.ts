@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const glass = {
   id: "019e5a46-c3a9-7fd6-8485-33f9cb77bcfe",

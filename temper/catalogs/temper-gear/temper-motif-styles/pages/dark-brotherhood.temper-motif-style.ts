@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const darkBrotherhood = {
   id: "019e5a46-c3e0-7f87-aa94-5615d28fd39f",

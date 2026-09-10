@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const dwemer = {
   id: "019e5a46-c39f-7ccd-a732-c68d4c46f23c",

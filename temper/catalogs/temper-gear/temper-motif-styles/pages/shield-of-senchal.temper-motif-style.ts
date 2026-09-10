@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const shieldOfSenchal = {
   id: "019e5a46-c441-72e8-9c91-d0653df36b69",

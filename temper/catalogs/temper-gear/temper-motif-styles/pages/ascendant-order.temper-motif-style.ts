@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const ascendantOrder = {
   id: "019e5a46-c498-7ba8-9d92-ef354ac992b1",

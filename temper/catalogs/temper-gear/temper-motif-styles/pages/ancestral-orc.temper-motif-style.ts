@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const ancestralOrc = {
   id: "019e5a46-c459-765e-8735-3e1c95f3bc22",

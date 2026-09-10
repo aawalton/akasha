@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const steadfastSociety = {
   id: "019e5a46-c49e-7955-94d7-8542f8d1c913",

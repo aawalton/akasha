@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const elderArgonian = {
   id: "019e5a46-c424-7b51-a65e-ce8306f57651",

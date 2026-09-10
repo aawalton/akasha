@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const droMathra = {
   id: "019e5a46-c3ca-7434-8ac6-a5daaa81ecfa",

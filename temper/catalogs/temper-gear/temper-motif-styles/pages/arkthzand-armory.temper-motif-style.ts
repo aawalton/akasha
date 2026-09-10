@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const arkthzandArmory = {
   id: "019e5a46-c46e-7f85-8967-30912a6624c6",

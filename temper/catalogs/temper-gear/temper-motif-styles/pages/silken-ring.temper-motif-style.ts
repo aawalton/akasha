@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const silkenRing = {
   id: "019e5a46-c3e3-78a9-bd96-3e2ecc7ec310",

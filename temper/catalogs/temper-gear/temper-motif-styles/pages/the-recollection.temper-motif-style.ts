@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const theRecollection = {
   id: "019e5a46-c4bf-77dd-a204-ed1f734b4b20",

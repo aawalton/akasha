@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const stagsOfZen = {
   id: "019e5a46-c438-7d11-b95b-61e17488a01e",

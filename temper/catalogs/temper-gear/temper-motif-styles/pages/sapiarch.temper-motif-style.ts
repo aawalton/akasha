@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const sapiarch = {
   id: "019e5a46-c40e-79cb-8aa9-3a4a9eb6fa76",

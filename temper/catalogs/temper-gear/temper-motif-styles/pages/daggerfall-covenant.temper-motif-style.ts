@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const daggerfallCovenant = {
   id: "019e5a46-c3c2-782b-9f37-05a93d6bff22",

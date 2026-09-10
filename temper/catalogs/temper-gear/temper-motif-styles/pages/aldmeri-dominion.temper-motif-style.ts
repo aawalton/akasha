@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const aldmeriDominion = {
   id: "019e5a46-c3c0-703e-9a10-4b765d49bd97",

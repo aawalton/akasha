@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const akaviri = {
   id: "019e5a46-c3a3-76fe-8d73-a4f54445187a",

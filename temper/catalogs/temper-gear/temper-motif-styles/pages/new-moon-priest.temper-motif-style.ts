@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const newMoonPriest = {
   id: "019e5a46-c43e-725a-8482-958f58a55ffe",

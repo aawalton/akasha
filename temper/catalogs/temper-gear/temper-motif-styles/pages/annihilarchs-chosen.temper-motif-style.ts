@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const annihilarchsChosen = {
   id: "019e5a46-c48f-7dc7-95a0-46f94c8bc883",

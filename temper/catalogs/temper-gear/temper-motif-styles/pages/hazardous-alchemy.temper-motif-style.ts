@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const hazardousAlchemy = {
   id: "019e5a46-c460-7144-a15f-ff50f344df89",

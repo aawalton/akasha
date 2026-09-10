@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const ashlander = {
   id: "019e5a46-c3f0-7f85-96ad-0f3980c6e24f",

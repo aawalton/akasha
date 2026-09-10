@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const exilesRevenge = {
   id: "019e5a46-c4ce-7a6d-8851-52d7fd0e9952",

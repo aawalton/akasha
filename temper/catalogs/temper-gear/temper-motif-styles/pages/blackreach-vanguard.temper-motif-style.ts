@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const blackreachVanguard = {
   id: "019e5a46-c44a-7266-8952-4262d00dd907",

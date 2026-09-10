@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const buoyantArmiger = {
   id: "019e5a46-c3ee-7526-9559-9b355f12fb2f",

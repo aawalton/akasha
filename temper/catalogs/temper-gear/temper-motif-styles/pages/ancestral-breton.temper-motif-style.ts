@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const ancestralBreton = {
   id: "019e5a46-c465-7f21-8fea-9557d3036b0b",

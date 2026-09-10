@@ -1,4 +1,4 @@
-import type { TemperMotifStyle } from "../temper-motif-style.page-type.ts"
+import type { TemperMotifStyle } from "../temper-motif-style.page-type.types.ts"
 
 export const wakingFlame = {
   id: "019e5a46-c47a-7f60-ba76-979afa8d9d20",
