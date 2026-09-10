@@ -7,5 +7,5 @@ export const scratchTwo = {
   slug: "scratch-two",
   domain: "domain/alan-harness",
   persona: "amy",
-  intents: [{ statement: "Scratch two alpha." }, { statement: "Scratch two beta." }],
+  intents: [{ statement: "Scratch two beta." }],
 } as const satisfies Initiative
