@@ -1,2 +1,2 @@
 [test]
-preload = ["@akasha/testing-system/dom-registering"]
+preload = ["akasha/testing-system/dom-registering/dom-registering.module.code.ts"]
