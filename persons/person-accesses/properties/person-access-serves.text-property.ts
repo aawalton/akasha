@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type Serves = string
+export type PersonAccessServes = string
 
 export const personAccessServes = {
   id: "01a05430-c0ef-7fbe-8836-045d9e351ad7",
