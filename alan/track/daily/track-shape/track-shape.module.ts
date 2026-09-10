@@ -75,7 +75,7 @@ export const trackShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A day with no slug takes one minted from that day's date.",
+      statement: "A day with no slug takes a slug minted from that day's date.",
     },
     {
       invariantKind: "departure",
@@ -87,11 +87,11 @@ export const trackShape = {
     },
     {
       invariantKind: "departure",
-      statement: "The fields are in the order the rendered page states them.",
+      statement: "The fields are in the order the rendered page states the fields.",
     },
     {
       invariantKind: "departure",
-      statement: "Text that reads as a number is carried across as the text it is.",
+      statement: "Text that reads as a number is carried across as text.",
     },
     {
       invariantKind: "departure",
