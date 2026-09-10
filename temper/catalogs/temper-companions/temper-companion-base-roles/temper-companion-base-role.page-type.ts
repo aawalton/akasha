@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Abbreviation } from "../temper-companion-things/properties/abbreviation.text-property.ts"
-import type { ValidArmorWeights } from "../temper-companion-things/properties/valid-armor-weights.text-property.ts"
-import type { ValidTraitIds } from "../temper-companion-things/properties/valid-trait-ids.text-property.ts"
-import type { ValidWeaponRoleIds } from "../temper-companion-things/properties/valid-weapon-role-ids.text-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-
-export type TemperCompanionBaseRole = TemperCompanionThing & {
-  abbreviation: Abbreviation
-  validArmorWeights: ValidArmorWeights
-  validTraitIds: ValidTraitIds
-  validWeaponRoleIds: ValidWeaponRoleIds
-}
 
 export const temperCompanionBaseRole = {
   id: "01a05fce-1851-7d9f-9f36-f8f9bf8792ea",
@@ -50,4 +38,5 @@ export const temperCompanionBaseRole = {
       maxCount: null,
     },
   ],
+  types: "ts",
 } as const satisfies PageType

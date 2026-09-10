@@ -1,4 +1,4 @@
-import type { TemperCompanionBaseRole } from "../temper-companion-base-role.page-type.ts"
+import type { TemperCompanionBaseRole } from "../temper-companion-base-role.page-type.types.ts"
 
 export const dps = {
   id: "01a05fce-c49a-791b-a58b-9a311f674333",

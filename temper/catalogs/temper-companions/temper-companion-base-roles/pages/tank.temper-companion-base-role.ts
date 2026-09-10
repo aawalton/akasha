@@ -1,4 +1,4 @@
-import type { TemperCompanionBaseRole } from "../temper-companion-base-role.page-type.ts"
+import type { TemperCompanionBaseRole } from "../temper-companion-base-role.page-type.types.ts"
 
 export const tank = {
   id: "01a05fce-c49c-7f82-966a-54778069c10a",
