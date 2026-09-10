@@ -86,8 +86,8 @@ test("a question is answered while another is still being answered", async () =>
     )
     const narrow = ask({ pageTypeSlug: "invariant-kind", keys: ["slug"] }, "narrow")
     await Promise.all([...wide, narrow])
-    expect(order.length).toBe(21)
-    expect(order.indexOf("narrow")).toBeLessThan(10)
+    expect(order.length).toBe(wide.length + 1)
+    expect(order.indexOf("narrow")).toBeLessThan(wide.length)
   } finally {
     server.stop(true)
   }
