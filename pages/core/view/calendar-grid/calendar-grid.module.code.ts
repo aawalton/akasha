@@ -1,4 +1,4 @@
-import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
+import { padTwo } from "akasha/utils/digit-padding/pad-two/pad-two.module.code.ts"
 import { requireMatchPositional } from "akasha/utils/narrow/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 

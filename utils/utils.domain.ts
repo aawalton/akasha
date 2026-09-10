@@ -15,5 +15,6 @@ export const utils = {
     "domain/utils-system",
     "domain/utils-sync",
     "domain/utils-text",
+    "domain/digit-padding",
   ],
 } as const satisfies Domain

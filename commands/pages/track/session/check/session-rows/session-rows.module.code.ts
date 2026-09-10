@@ -6,13 +6,13 @@ import {
   namesNoDay,
   readMountainWallTime,
 } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
-import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
 import {
   statesVersionSeven,
   uuidVersion7,
 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import { valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { numberAt, textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { padTwo } from "akasha/utils/digit-padding/pad-two/pad-two.module.code.ts"
 import {
   type ActivityDifficulty,
   difficultyForTitle,
