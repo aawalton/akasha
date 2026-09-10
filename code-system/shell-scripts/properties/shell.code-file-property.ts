@@ -1,4 +1,4 @@
-import type { CodeFileProperty } from "@akasha/pages/code-file-property"
+import type { CodeFileProperty } from "akasha/pages/code-file-properties/code-file-property.page-type.types.ts"
 
 export type Shell = "sh"
 
