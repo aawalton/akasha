@@ -1,4 +1,4 @@
-import { askingFor, type Fetcher } from "@akasha/pages-service/calling"
+import { askingFor, type Fetcher } from "@akasha/pages/service/calling"
 
 const READOUT = "readout"
 

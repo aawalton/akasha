@@ -1,4 +1,4 @@
-import { askingFor, type Fetcher, type Sleeper } from "@akasha/pages-service/calling"
+import { askingFor, type Fetcher, type Sleeper } from "@akasha/pages/service/calling"
 
 export const PERSON_PAGE_TYPE = "person"
 

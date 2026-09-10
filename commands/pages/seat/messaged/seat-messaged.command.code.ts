@@ -1,4 +1,4 @@
-import { asking } from "@akasha/pages-service/asking"
+import { asking } from "@akasha/pages/service/asking"
 import {
   keepPointsToday,
   pointsIn,

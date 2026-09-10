@@ -1,14 +1,14 @@
 import { createHash, randomBytes, timingSafeEqual } from "node:crypto"
 import { upperUuid } from "@akasha/pages/name-format/upper-uuid"
 import { exportedAs } from "@akasha/pages/page-export-name"
-import type { Test } from "@akasha/pages-service/asking"
+import type { Test } from "@akasha/pages/service/asking"
 import {
   askingFor,
   type Fetcher,
   readingFor,
   type Sleeper,
   writingFor,
-} from "@akasha/pages-service/calling"
+} from "@akasha/pages/service/calling"
 import { textAt } from "@akasha/utils/narrow/text-at"
 import {
   DEVICE_SECRET_PREFIX,

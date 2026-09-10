@@ -1,5 +1,5 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { asking } from "@akasha/pages-service/asking"
+import { asking } from "@akasha/pages/service/asking"
 import { dayAfter } from "akasha/alan/harness/day/string/day-string.module.code.ts"
 import { makeGmailClient } from "akasha/google/email/gmail-client/gmail-client.module.code.ts"
 import {

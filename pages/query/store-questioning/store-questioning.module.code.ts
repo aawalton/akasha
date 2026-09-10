@@ -1,4 +1,4 @@
-import { bare, matches, weigh } from "@akasha/pages-service/where-testing"
+import { bare, matches, weigh } from "@akasha/pages/service/where-testing"
 import {
   ASK_CEILING_MS,
   type Fetcher,

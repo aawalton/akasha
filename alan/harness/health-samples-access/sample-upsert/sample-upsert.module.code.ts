@@ -1,5 +1,5 @@
 import { randomUUID } from "node:crypto"
-import { readingFor, writingFor } from "@akasha/pages-service/calling"
+import { readingFor, writingFor } from "@akasha/pages/service/calling"
 import { getEsoDayStrAt } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { sampleIdentity } from "../sample-identity/sample-identity.module.code.ts"
 import { numberAt, textAt } from "../sample-rows/sample-rows.module.code.ts"

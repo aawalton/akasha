@@ -1,4 +1,4 @@
-import { askingFor, type Fetcher } from "@akasha/pages-service/calling"
+import { askingFor, type Fetcher } from "@akasha/pages/service/calling"
 import type { RingScale } from "../body/readout-body.module.code.ts"
 import { statedAt } from "../tier/readout-tier.module.code.ts"
 

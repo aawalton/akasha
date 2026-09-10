@@ -1,4 +1,4 @@
-import type { Fetcher } from "@akasha/pages-service/calling"
+import type { Fetcher } from "@akasha/pages/service/calling"
 import {
   deviceTokensFor,
   dropDeviceToken,

@@ -5,7 +5,7 @@ export const pageAskingReadsTheCheckoutWhilePageCallingFetchesFromTheSamePackage
   pageTypeSlug: "finding",
   type: "finding",
   slug: "page-asking-reads-the-checkout-while-page-calling-fetches-from-the-same-package",
-  domain: "workspace-package/pages-service",
+  domain: "domain/pages-service",
   claim:
     "`@akasha/pages-service` holds both roads constraint 19 parts. `./asking` is the query engine and reads this checkout in the calling process; `./calling` is the HTTP client to the pod. So an import from that package is no evidence either way, and the package name is the trap rather than the guide: a lane reading the name will repair a compliant import, and a fetching export added to the package later makes every importer a violator with nothing to say so. Read the closure, not the name.",
   evidence:

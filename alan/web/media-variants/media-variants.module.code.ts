@@ -1,8 +1,8 @@
+import type { Asked, Query } from "@akasha/pages/service/asking"
+import { askingFor } from "@akasha/pages/service/calling"
 import { getPage } from "@akasha/pages-access/get"
 import { MEDIA_FORMATS } from "@akasha/pages-core/media-formats"
 import type { Page } from "@akasha/pages-core/page-types"
-import type { Asked, Query } from "@akasha/pages-service/asking"
-import { askingFor } from "@akasha/pages-service/calling"
 import { getAvailableRenditions, pickDefaultVariant } from "@akasha/pages-ui/media/media-renditions"
 import {
   KOKORO_STREAM_LABEL,

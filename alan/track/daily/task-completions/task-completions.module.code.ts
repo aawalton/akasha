@@ -1,5 +1,5 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { asking } from "@akasha/pages-service/asking"
+import { asking } from "@akasha/pages/service/asking"
 import { completedTasksInSpan } from "../day-completions/day-completions.module.code.ts"
 import { openedWindowOn } from "../day-opening/day-opening.module.code.ts"
 import { textOf } from "../day-scan-window/day-scan-window.module.code.ts"

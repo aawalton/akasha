@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Asked } from "@akasha/pages-service/asking"
+import type { Asked } from "@akasha/pages/service/asking"
 import {
   ACCOUNT,
   askingsAt,

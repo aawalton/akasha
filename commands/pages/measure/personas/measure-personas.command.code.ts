@@ -1,4 +1,4 @@
-import { asking } from "@akasha/pages-service/asking"
+import { asking } from "@akasha/pages/service/asking"
 import { pointsTotalKept } from "akasha/personas/points/keeping/persona-points-keeping.module.code.ts"
 import { levelOf } from "akasha/personas/properties/persona-relationship-level.computed-property.code.ts"
 import {

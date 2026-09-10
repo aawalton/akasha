@@ -109,10 +109,19 @@
     "./url/page-href": "./url/page-href/page-href.module.code.ts",
     "./url/page-listing-href": "./url/page-listing-href/page-listing-href.module.code.ts",
     "./url/page-type-slug": "./url/page-type-slug/page-type-slug.module.code.ts",
-    "./url/safe-target": "./url/safe-target/safe-target.module.code.ts"
+    "./url/safe-target": "./url/safe-target/safe-target.module.code.ts",
+    "./service/asking": "./service/page-asking/page-asking.module.code.ts",
+    "./service/calling": "./service/page-calling/page-calling.module.code.ts",
+    "./service/composing": "./service/page-composing/page-composing.module.code.ts",
+    "./service/listening": "./service/page-listening/page-listening.module.code.ts",
+    "./service/reading": "./service/page-reading/page-reading.module.code.ts",
+    "./service/serving": "./service/page-serving/page-serving.module.code.ts",
+    "./service/writing": "./service/page-writing/page-writing.module.code.ts",
+    "./service/where-testing": "./service/where-testing/where-testing.module.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
-    "@akasha/utils": "workspace:*"
+    "@akasha/utils": "workspace:*",
+    "@akasha/indexes": "workspace:*"
   }
 }

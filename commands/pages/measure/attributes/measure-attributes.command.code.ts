@@ -1,4 +1,4 @@
-import { asking } from "@akasha/pages-service/asking"
+import { asking } from "@akasha/pages/service/asking"
 import { pointsTotalKept } from "../../../../alan/attributes/points/attribute-points.module.code.ts"
 import { levelOf } from "../../../../alan/attributes/properties/attribute-level.computed-property.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"

@@ -1,6 +1,6 @@
 import { kebabisedRow } from "@akasha/pages/akasha-page-values"
 import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
-import { asking } from "@akasha/pages-service/asking"
+import { asking } from "@akasha/pages/service/asking"
 import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { charismaIn } from "../../../attributes/pages/charisma/charisma.attribute.code.ts"
 import { fetchConstitutionPoints } from "../../../attributes/pages/constitution/constitution.attribute.code.ts"

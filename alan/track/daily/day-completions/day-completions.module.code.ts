@@ -1,4 +1,4 @@
-import { asking } from "@akasha/pages-service/asking"
+import { asking } from "@akasha/pages/service/asking"
 import { dataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { entryKeysDeclared } from "../day-entry-keys/day-entry-keys.module.code.ts"
 import { checkoutRoot, DAY_PAGE_TYPE } from "../day-place/day-place.module.code.ts"

@@ -3,7 +3,7 @@ import { AKASHA, akashaRoot } from "@akasha/pages/checkout-roots"
 import { valuesOfType } from "@akasha/pages/index-reading"
 import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { textAt } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages-service/composing"
+import { composedFor } from "@akasha/pages/service/composing"
 import { landBodies, landRemovals } from "@akasha/seat-system/gated-landing"
 import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 

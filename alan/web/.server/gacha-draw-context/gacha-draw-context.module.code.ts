@@ -1,5 +1,5 @@
-import type { Query } from "@akasha/pages-service/asking"
-import { askingFor } from "@akasha/pages-service/calling"
+import type { Query } from "@akasha/pages/service/asking"
+import { askingFor } from "@akasha/pages/service/calling"
 import type { DerivedMechanics } from "akasha/alan/harness/idle-system/idle-deriving/idle-deriving.module.code.ts"
 import type { DrawContext } from "akasha/alan/harness/idle-system/idle-draw/idle-draw.module.code.ts"
 import { unheld } from "../../pages-unheld/pages-unheld.module.code.ts"

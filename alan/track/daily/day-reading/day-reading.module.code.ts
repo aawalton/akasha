@@ -1,6 +1,6 @@
 import { kebabisedRow } from "@akasha/pages/akasha-page-values"
+import { asking } from "@akasha/pages/service/asking"
 import { camelizeKey } from "@akasha/pages-access/file-rows"
-import { asking } from "@akasha/pages-service/asking"
 import { dataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type {
   Answered,

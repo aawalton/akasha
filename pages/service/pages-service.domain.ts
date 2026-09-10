@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const pagesService = {
   id: "01a059f5-b807-7dee-b0fc-4f45379fca1c",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-service",
   definition: "the pages reached over HTTP",
-  manifest: "json",
+
   parts: [
     "manifest/page-store",
     "module/file-answering",
@@ -128,4 +128,4 @@ export const pagesService = {
         "The pages system service is started again for as long as that service is failing.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

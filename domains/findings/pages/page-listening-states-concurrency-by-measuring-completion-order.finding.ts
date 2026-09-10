@@ -5,7 +5,7 @@ export const pageListeningStatesConcurrencyByMeasuringCompletionOrder = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "page-listening-states-concurrency-by-measuring-completion-order",
-  domain: "workspace-package/pages-service",
+  domain: "domain/pages-service",
   claim:
     "`page-listening`'s test for concurrent reads asserts that a narrow question finishes inside the first ten of 21 real HTTP round-trips. That measures completion order under load rather than concurrency. It failed 3 of 4 whole-tree runs on 2026-09-01 and passed 7 of 7 every time it was run alone. The invariant it reaches for is real and is written on the package: a read is answered while another read is being answered.",
   evidence:
