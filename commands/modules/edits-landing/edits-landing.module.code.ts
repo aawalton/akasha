@@ -39,7 +39,7 @@ export function owingIn(said: Said): ReadonlyMap<string, boolean> {
 export type Landing = {
   readonly rows: readonly FileChange[]
   readonly moves: readonly FileMove[]
-  readonly formatted: ReadonlyMap<string, Uint8Array>
+  readonly formatted: ReadonlySet<string>
   readonly owed: ReadonlyMap<string, boolean>
 }
 
@@ -122,7 +122,7 @@ export function landingFrom(
     return { why: [after.refused, ...goneSaid(root, head, said, over)].join("\n") }
   }
   const rows: FileChange[] = []
-  const formatted = new Map<string, Uint8Array>()
+  const formatted = new Set<string>()
   for (const [path, body] of after) {
     if (moved.has(path)) continue
     if (notText(body)) return { why: `\`${path}\` ${NOT_TEXT_SAID}` }
@@ -131,7 +131,7 @@ export function landingFrom(
       continue
     }
     const done = formattedBody(root, path, BYTES.encode(body))
-    formatted.set(path, done.body)
+    formatted.add(path)
     rows.push({ kind: "add", path, content: textIn(done.body) })
   }
   return { rows, moves, formatted, owed: owingIn(said) }

@@ -40,7 +40,7 @@ export const editsLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "What the formatter left for each path is handed on beside the bodies.",
+      statement: "Which paths the formatter has already left are handed on beside the rows.",
     },
     {
       invariantKind: "departure",

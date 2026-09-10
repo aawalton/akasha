@@ -24,11 +24,6 @@ export type Formatting = {
   readonly formatted: readonly string[]
 }
 
-function sameAs(one: Uint8Array, other: Uint8Array): boolean {
-  if (one.byteLength !== other.byteLength) return false
-  return one.every((byte, at) => byte === other[at])
-}
-
 const BYTES = new TextEncoder()
 
 const FATAL = new TextDecoder("utf-8", { fatal: true })
@@ -74,15 +69,14 @@ export function rowsFrom(root: string, base: string, changes: readonly FileChang
 export function formattingIn(
   root: string,
   changes: readonly FileChange[],
-  already: ReadonlyMap<string, Uint8Array> = new Map()
+  already: ReadonlySet<string> = new Set()
 ): Formatting {
   const edits: Replacing[] = []
   const formatted: string[] = []
   for (const one of changes) {
     if (one.kind === "move" || one.kind === "remove") continue
+    if (already.has(one.path)) continue
     const body = BYTES.encode(bodyIn(one))
-    const was = already.get(one.path)
-    if (was !== undefined && sameAs(was, body)) continue
     const said = formattedBody(root, one.path, body)
     if (!said.changed) continue
     edits.push({
@@ -126,7 +120,7 @@ export function preparing(
   base: string,
   changes: readonly FileChange[],
   moves: readonly FileMove[] = [],
-  already: ReadonlyMap<string, Uint8Array> = new Map()
+  already: ReadonlySet<string> = new Set()
 ): Prepared | Refused {
   const formatting = formattingIn(root, changes, already)
   const folded = foldedOver(changes, formatting.edits)

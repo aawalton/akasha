@@ -181,7 +181,7 @@ export type Carried = {
   readonly rows: readonly FileChange[]
   readonly running: Running
   readonly moves?: readonly FileMove[]
-  readonly formatted?: ReadonlyMap<string, Uint8Array>
+  readonly formatted?: ReadonlySet<string>
   readonly owed?: ReadonlyMap<string, boolean>
 }
 
