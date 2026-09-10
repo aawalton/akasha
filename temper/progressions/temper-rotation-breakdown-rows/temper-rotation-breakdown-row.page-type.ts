@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.types.ts"
-import type { FullName } from "./properties/full-name.text-property.ts"
-
-export type TemperRotationBreakdownRow = TemperProgressThing & {
-  fullName: FullName
-}
 
 export const temperRotationBreakdownRow = {
   id: "01a05fc9-9a03-795c-b95b-c04997733011",
@@ -26,4 +20,5 @@ export const temperRotationBreakdownRow = {
       statement: "The title is the short name a narrow column is headed by.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

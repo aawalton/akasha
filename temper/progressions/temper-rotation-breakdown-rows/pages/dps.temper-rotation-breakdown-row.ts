@@ -1,4 +1,4 @@
-import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
+import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.types.ts"
 
 export const dps = {
   id: "019e5d79-3e4d-7336-9e7b-c551cecef7d7",

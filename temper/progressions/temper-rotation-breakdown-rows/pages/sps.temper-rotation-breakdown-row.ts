@@ -1,4 +1,4 @@
-import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
+import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.types.ts"
 
 export const sps = {
   id: "019e5d79-3e55-7eb3-863e-aaba96922048",

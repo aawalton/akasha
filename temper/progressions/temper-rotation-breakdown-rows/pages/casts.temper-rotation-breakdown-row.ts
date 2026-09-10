@@ -1,4 +1,4 @@
-import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
+import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.types.ts"
 
 export const casts = {
   id: "019e5d79-3e5a-75c8-be5d-d7cf27860199",

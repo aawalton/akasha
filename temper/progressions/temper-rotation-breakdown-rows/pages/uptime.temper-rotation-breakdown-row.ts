@@ -1,4 +1,4 @@
-import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
+import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.types.ts"
 
 export const uptime = {
   id: "019e5d79-3e5b-7c6e-b98e-2fbe5c695e05",

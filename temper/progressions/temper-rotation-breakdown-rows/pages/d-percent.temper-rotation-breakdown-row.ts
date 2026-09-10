@@ -1,4 +1,4 @@
-import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.ts"
+import type { TemperRotationBreakdownRow } from "../temper-rotation-breakdown-row.page-type.types.ts"
 
 export const dPercent = {
   id: "019e5d79-3e4a-7771-8cbe-fa00b9e453b4",
