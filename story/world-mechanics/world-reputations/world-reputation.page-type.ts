@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { WorldMechanic } from "../world-mechanic.page-type.types.ts"
-
-export type WorldReputation = WorldMechanic
 
 export const worldReputation = {
   id: "01a06558-a991-7177-b114-17a075e47791",
@@ -12,4 +9,5 @@ export const worldReputation = {
   pluralSlug: "world-reputations",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
+  types: "ts",
 } as const satisfies PageType
