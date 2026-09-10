@@ -1,22 +1,4 @@
-import type { ModulePropertyGroupCeilings } from "akasha/code-system/module-property-groups/module-property-group.page-type.ts"
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-import type { Entries } from "./properties/entries.file-property.ts"
-import type { RunsOnAudit } from "./properties/runs-on-audit.boolean-property.ts"
-import type { RunsOnChange } from "./properties/runs-on-change.boolean-property.ts"
-import type { RunsOnDeploy } from "./properties/runs-on-deploy.boolean-property.ts"
-import type { RunsOnWorktree } from "./properties/runs-on-worktree.boolean-property.ts"
-
-export type CodeCheck = Domain & {
-  decision?: ModulePropertyGroupCeilings
-  check?: ModulePropertyGroupCeilings
-  audit?: ModulePropertyGroupCeilings
-  runsOnChange: RunsOnChange
-  runsOnWorktree: RunsOnWorktree
-  runsOnDeploy: RunsOnDeploy
-  runsOnAudit: RunsOnAudit
-  entries?: Entries
-}
 
 export const codeCheck = {
   id: "01a04bc4-7e86-7beb-8dfb-3666785dd3d5",
@@ -247,4 +229,5 @@ export const codeCheck = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType

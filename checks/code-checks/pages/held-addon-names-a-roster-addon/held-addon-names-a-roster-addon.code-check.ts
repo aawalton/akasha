@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const heldAddonNamesARosterAddon = {
   id: "01a0824c-b5c0-7a41-9d3e-5c8f0b621e74",

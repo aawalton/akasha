@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const noRefusedSyntax = {
   id: "01a0500d-738b-7831-b8d7-66fe5737a5c8",

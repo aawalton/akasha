@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const phoneNumberIsE164 = {
   id: "01a058ff-c2b0-7d9c-814a-e78f75d41f67",

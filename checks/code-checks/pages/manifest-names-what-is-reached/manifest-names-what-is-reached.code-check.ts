@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const manifestNamesWhatIsReached = {
   id: "01a0597b-d723-72c8-ab64-118c9e5eb650",

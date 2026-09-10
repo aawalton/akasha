@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const idIsAUuidVersion7 = {
   id: "01a04bcb-c6f6-726e-ad7e-718958087eb4",

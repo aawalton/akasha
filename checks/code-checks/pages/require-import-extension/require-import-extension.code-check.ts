@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const requireImportExtension = {
   id: "01a04bcb-c714-7fdf-aa64-e2ff68d4f69b",

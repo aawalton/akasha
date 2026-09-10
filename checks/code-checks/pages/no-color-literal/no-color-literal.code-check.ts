@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const noColorLiteral = {
   id: "01a08227-08ad-7b40-b746-98282c6ab4de",

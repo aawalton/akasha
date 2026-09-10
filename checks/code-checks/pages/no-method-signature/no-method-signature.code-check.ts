@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const noMethodSignature = {
   id: "01a04bc8-6c64-7482-a9b8-f0d6e14e546d",

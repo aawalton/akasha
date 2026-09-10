@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const propertyIsDeclaredByAType = {
   id: "01a04ef8-1a07-722c-a247-40e6a9069ce4",

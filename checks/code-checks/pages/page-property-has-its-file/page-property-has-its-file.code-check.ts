@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const pagePropertyHasItsFile = {
   id: "01a04d86-434f-7119-b8cc-858d63edf631",

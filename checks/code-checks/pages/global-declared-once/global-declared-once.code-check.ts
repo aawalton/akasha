@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const globalDeclaredOnce = {
   id: "01a061ca-2484-773a-8dc7-e6a08fe588f9",

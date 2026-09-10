@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const testsPass = {
   id: "01a04eb6-9214-7000-be71-821a1a582fbe",

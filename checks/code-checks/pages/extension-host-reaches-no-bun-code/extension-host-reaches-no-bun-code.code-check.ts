@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const extensionHostReachesNoBunCode = {
   id: "01a08bad-b6e5-7ef8-a15c-48d03c50fc1c",

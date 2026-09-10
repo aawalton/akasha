@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const noReExport = {
   id: "01a04eea-b718-7687-bb51-e4efaeaf429e",

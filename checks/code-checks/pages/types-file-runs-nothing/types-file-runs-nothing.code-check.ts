@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const typesFileRunsNothing = {
   id: "01a07724-a8ae-7f5e-93f2-c483420afe89",

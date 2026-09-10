@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const noClass = {
   id: "01a04bc8-6c37-77b0-9ff6-5922a789c962",

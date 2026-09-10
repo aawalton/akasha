@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const clientReachesPagesThroughItsHooks = {
   id: "01a0820f-3f92-7000-bc58-d6e15f27ad99",

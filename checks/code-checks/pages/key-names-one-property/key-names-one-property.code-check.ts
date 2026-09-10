@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const keyNamesOneProperty = {
   id: "01a05424-3456-7724-8023-7e085329bffc",

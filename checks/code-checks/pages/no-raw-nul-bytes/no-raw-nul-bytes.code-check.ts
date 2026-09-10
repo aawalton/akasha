@@ -1,4 +1,4 @@
-import type { CodeCheck } from "../../code-check.page-type.ts"
+import type { CodeCheck } from "../../code-check.page-type.types.ts"
 
 export const noRawNulBytes = {
   id: "01a04bc8-6c71-7973-85d5-6d17ea5fea65",
