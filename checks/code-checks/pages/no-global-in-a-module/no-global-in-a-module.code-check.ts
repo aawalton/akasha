@@ -39,7 +39,11 @@ export const noGlobalInAModule = {
     },
     {
       invariantKind: "departure",
-      statement: "Only the paths the change has are judged.",
+      statement: "The check judges only the paths the change has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The audit judges every module the tree holds.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +55,7 @@ export const noGlobalInAModule = {
     },
     {
       invariantKind: "absence",
-      statement: "The tree is never read for a block the change does not carry.",
+      statement: "The check reads no path beyond the ones the change carries.",
     },
     {
       invariantKind: "stopgap",
