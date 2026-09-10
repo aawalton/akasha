@@ -221,7 +221,7 @@ export function modelChecksIn(root: string): readonly Judgement[] {
     if (stated === null) throw new Error(`${path} is a model check, and answers to no value`)
     const named = slugsIn(stated, "modelTests")
     if (named === null) throw new Error(`${path} is a model check, and names no test`)
-    const onChange = countIn(stated, "patchRuns")
+    const onChange = countIn(stated, "changeRuns")
     const onAudit = countIn(stated, "auditRuns")
     if (onChange < 0 || onAudit < 0) {
       throw new Error(`${path} is a model check, and states no count of runs a runner can honour`)

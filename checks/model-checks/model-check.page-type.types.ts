@@ -5,6 +5,6 @@ import type { PatchRuns } from "./properties/patch-runs.number-property.ts"
 
 export type ModelCheck = Domain & {
   modelTests: ModelTests
-  patchRuns: PatchRuns
+  changeRuns: PatchRuns
   auditRuns: AuditRuns
 }

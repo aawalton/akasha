@@ -7,7 +7,7 @@ export const patchRuns = {
   pageTypeSlug: "number-property",
   type: "number-property",
   slug: "patch-runs",
-  propertySlug: "patch-runs",
+  propertySlug: "change-runs",
   definition: "how many times a change is judged",
   max: null,
 } as const satisfies NumberProperty
