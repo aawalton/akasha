@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const companionsCompanionRapport = {
   id: "01a05fcb-e4c6-7f72-a3da-23d1761e9a13",

@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.types.ts"
-import type { Tab } from "./properties/tab.text-property.ts"
-
-export type TemperCompletionCategory = TemperProgressThing & {
-  tab: Tab
-}
 
 export const temperCompletionCategory = {
   id: "01a05fcb-d657-7209-8fac-d33d57fe464e",
@@ -34,4 +28,5 @@ export const temperCompletionCategory = {
       statement: "A node has the tab of the root the node hangs beneath.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const accountAntiquityLeadsMotifs = {
   id: "01a05fcb-e4ba-721f-9414-4a38ccc4ce92",

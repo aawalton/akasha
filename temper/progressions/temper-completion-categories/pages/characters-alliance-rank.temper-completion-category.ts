@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const charactersAllianceRank = {
   id: "01a05fcb-e4be-7e4d-992b-7b9ec6fe2b92",

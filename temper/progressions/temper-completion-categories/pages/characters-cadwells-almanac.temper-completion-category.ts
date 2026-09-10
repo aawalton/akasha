@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const charactersCadwellsAlmanac = {
   id: "01a05fcb-e4be-73bb-94dc-a2d852ea0de6",

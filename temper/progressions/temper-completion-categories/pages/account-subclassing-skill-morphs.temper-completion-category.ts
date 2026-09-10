@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const accountSubclassingSkillMorphs = {
   id: "01a05fcb-e4bd-7c1d-8a04-78c91b2500c1",

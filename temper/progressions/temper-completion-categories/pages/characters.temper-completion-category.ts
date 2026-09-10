@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const characters = {
   id: "01a05fcb-e4c5-7cb1-8ff2-ea9d3e227623",

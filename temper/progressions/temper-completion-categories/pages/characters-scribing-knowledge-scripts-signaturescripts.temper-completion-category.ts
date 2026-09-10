@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const charactersScribingKnowledgeScriptsSignaturescripts = {
   id: "01a05fcb-e4c2-705c-88a7-0b64788cb96b",

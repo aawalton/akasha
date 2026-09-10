@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const accountAccountZoneCompletion = {
   id: "01a05fcb-e4ba-7505-a1f8-217c31fef49f",

@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const accountAntiquityLore = {
   id: "01a05fcb-e4bb-74ce-88f2-146b59cb8dcf",

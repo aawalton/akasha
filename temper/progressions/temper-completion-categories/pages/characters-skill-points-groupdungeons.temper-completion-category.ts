@@ -1,4 +1,4 @@
-import type { TemperCompletionCategory } from "../temper-completion-category.page-type.ts"
+import type { TemperCompletionCategory } from "../temper-completion-category.page-type.types.ts"
 
 export const charactersSkillPointsGroupdungeons = {
   id: "01a05fcb-e4c4-7ef7-8fbf-aeeb7f4b69d1",
