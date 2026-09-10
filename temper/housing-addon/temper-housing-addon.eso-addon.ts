@@ -6,7 +6,7 @@ export const temperHousingAddon = {
   type: "eso-addon",
   slug: "temper-housing-addon",
   definition: "the add-on for travelling to a house, whether a friend's, your own or a shared one",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "housing-entry",
   bindings: "xml",

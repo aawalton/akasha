@@ -1,6 +1,6 @@
 import { join } from "node:path"
-import { EU_LIBRARY_DATA } from "@akasha/temper-housing-addon/housing-library-data-eu"
-import { NA_LIBRARY_DATA } from "@akasha/temper-housing-addon/housing-library-data-na"
+import { EU_LIBRARY_DATA } from "akasha/temper/housing-addon/housing-library-data-eu/housing-library-data-eu.module.code.ts"
+import { NA_LIBRARY_DATA } from "akasha/temper/housing-addon/housing-library-data-na/housing-library-data-na.module.code.ts"
 import { makeLuaVm } from "akasha/temper/lua-runner/lua-vm/lua-vm.module.code.ts"
 import {
   gathered,

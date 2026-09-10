@@ -6,7 +6,7 @@ export const temperInterfaceAddon = {
   type: "eso-addon",
   slug: "temper-interface-addon",
   definition: "the add-on holding the interface tweaks that no other add-on has a home for",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "module/interface-entry",
   bindings: "xml",

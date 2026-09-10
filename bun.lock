@@ -6,6 +6,7 @@
       "name": "akasha",
       "dependencies": {
         "@akasha/cluster-manifests": "workspace:*",
+        "@akasha/temper-lib-custom-menu": "workspace:*",
         "@dnd-kit/core": ">=6",
         "@dnd-kit/modifiers": ">=7",
         "@dnd-kit/sortable": ">=8",
@@ -313,18 +314,6 @@
         "vite": "^8.0.3",
       },
     },
-    "temper/housing-addon": {
-      "name": "@akasha/temper-housing-addon",
-      "dependencies": {
-        "@akasha/temper-lib-custom-menu": "workspace:*",
-      },
-    },
-    "temper/hud-addon": {
-      "name": "@akasha/temper-hud-addon",
-    },
-    "temper/interface-addon": {
-      "name": "@akasha/temper-interface-addon",
-    },
     "temper/items-addon": {
       "name": "@akasha/temper-items-addon",
     },
@@ -484,12 +473,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
-
-    "@akasha/temper-housing-addon": ["@akasha/temper-housing-addon@workspace:temper/housing-addon"],
-
-    "@akasha/temper-hud-addon": ["@akasha/temper-hud-addon@workspace:temper/hud-addon"],
-
-    "@akasha/temper-interface-addon": ["@akasha/temper-interface-addon@workspace:temper/interface-addon"],
 
     "@akasha/temper-items-addon": ["@akasha/temper-items-addon@workspace:temper/items-addon"],
 

@@ -92,7 +92,8 @@
     "react-markdown": "^10.1.0",
     "remark-gfm": "^4.0.1",
     "unified": "^11.0.5",
-    "@dnd-kit/utilities": ">=3"
+    "@dnd-kit/utilities": ">=3",
+    "@akasha/temper-lib-custom-menu": "workspace:*"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"
