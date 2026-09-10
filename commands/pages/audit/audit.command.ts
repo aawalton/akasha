@@ -29,6 +29,7 @@ export const audit = {
     "a check forced by name over every file measured 620 MB and 4.5s at the cheapest and 47s at the slowest, on 2026-09-08 and 09.",
     "a seat runs it in the background and a subagent does not run it at all, several at once costing the swarm its model service.",
   ],
+  timeout: 300,
   invariants: [
     {
       invariantKind: "departure",
