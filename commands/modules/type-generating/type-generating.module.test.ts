@@ -18,11 +18,11 @@ afterAll(scratch.sweep)
 
 const ROOT = "/nowhere"
 
-const AT = "pages/types/page-type.page-type.ts"
+const AT = "thrumming/types/page-type.page-type.ts"
 
-const OWN = "pages/types/page-type.page-type.types.ts"
+const OWN = "thrumming/types/page-type.page-type.types.ts"
 
-const OTHER = "code-system/modules/module.page-type.types.ts"
+const OTHER = "thrumming/modules/module.page-type.types.ts"
 
 const BYTES = new TextEncoder()
 
@@ -57,7 +57,7 @@ function only(page: Record<string, unknown>): ReadonlyMap<string, Record<string,
 }
 
 test("the generator sits beside the page type as that page type's `type-generator` section", () => {
-  expect(generatorAt(AT)).toBe("pages/types/page-type.page-type.type-generator.ts")
+  expect(generatorAt(AT)).toBe("thrumming/types/page-type.page-type.type-generator.ts")
 })
 
 test("a page type stating no type generator has no generator run for it", () => {

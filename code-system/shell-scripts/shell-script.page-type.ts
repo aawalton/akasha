@@ -14,11 +14,13 @@ export const shellScript = {
     "shell-script/repos-empty-dir-purge",
     "shell-script/statusline",
     "workstation-service/repos-empty-dir-purge",
+    "module-property-group/scripting",
   ],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "code-file-property/shell", required: true, many: false },
     { pageProperty: "boolean-property/sourced", required: true, many: false },
+    { pageProperty: "module-property-group/scripting", required: false, many: false },
   ],
   invariants: [
     {
