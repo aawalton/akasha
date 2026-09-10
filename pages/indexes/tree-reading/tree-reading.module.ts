@@ -23,7 +23,7 @@ export const treeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Git's own store and the agents' working state are left out.",
+      statement: "Git's own store is left out.",
     },
     {
       invariantKind: "departure",
@@ -49,10 +49,6 @@ export const treeReading = {
     {
       invariantKind: "departure",
       statement: "`.server/` under a router app has module pages a dot rule would drop.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`.supervisors/` keeps copies of module pages that collide with the originals.",
     },
     {
       invariantKind: "departure",

@@ -7,7 +7,6 @@
 
 # Agent runtime state. `pages/repo/akasha-repo.repo.md` holds that nothing under
 # `.claude` is tracked here.
-.supervisors/
 .claude/
 
 # Installed dependencies and compiled output.

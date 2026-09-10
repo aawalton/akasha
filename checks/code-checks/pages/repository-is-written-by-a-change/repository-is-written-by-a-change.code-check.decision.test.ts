@@ -8,7 +8,7 @@ import {
 const AT = "commands/pages/one/one.command.code.ts"
 
 const IGNORED =
-  "# a note\n\n*.uncommitted.*\n.supervisors/\nnode_modules/\ndist/\n!keep/a.uncommitted.js\n"
+  "# a note\n\n*.uncommitted.*\n.claude/\nnode_modules/\ndist/\n!keep/a.uncommitted.js\n"
 
 const ASIDE = asideIn(IGNORED)
 
@@ -17,7 +17,7 @@ function only(text: string): readonly string[] {
 }
 
 test("the names the repository ignores are read with `.git` and without an un-ignoring rule", () => {
-  expect(ASIDE).toEqual([".git", ".uncommitted.", ".supervisors", "node_modules", "dist"])
+  expect(ASIDE).toEqual([".git", ".uncommitted.", ".claude", "node_modules", "dist"])
 })
 
 test("an ignored folder is named where a whole part of the path is that folder", () => {
@@ -147,7 +147,7 @@ test("a file under a folder the repository ignores is let through", () => {
       'import { writeFileSync } from "node:fs"\n' +
         'import { join } from "node:path"\n' +
         "export function one(given: { root: string }): void {\n" +
-        '  writeFileSync(join(given.root, ".supervisors", "a", "b.log"), "")\n' +
+        '  writeFileSync(join(given.root, ".claude", "a", "b.log"), "")\n' +
         "}\n"
     )
   ).toEqual([])

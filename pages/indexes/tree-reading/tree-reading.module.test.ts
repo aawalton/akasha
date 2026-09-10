@@ -34,13 +34,12 @@ test("every file a caller takes is found however deep it sits", () => {
   ).toEqual(["a.module.ts", "deep/down/b.module.ts"])
 })
 
-test("the four folders left out are read by nothing", () => {
+test("the three folders left out are read by nothing", () => {
   const root = treeOf([
     "a.module.ts",
     `${VENDOR_ROOT}/b.module.ts`,
     `${QUARANTINE_ROOT}/c.module.ts`,
     ".git/d.module.ts",
-    ".supervisors/e.module.ts",
   ])
 
   expect(

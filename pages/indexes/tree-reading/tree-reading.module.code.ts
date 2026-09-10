@@ -5,7 +5,7 @@ import { partedIn } from "@akasha/pages/page-file-name"
 
 const PAGE_TYPE = "page-type"
 
-const UNWALKED = new Set<string>([VENDOR_ROOT, ".git", ".supervisors"])
+const UNWALKED = new Set<string>([VENDOR_ROOT, ".git"])
 
 export function walkedUnder(
   at: string,
