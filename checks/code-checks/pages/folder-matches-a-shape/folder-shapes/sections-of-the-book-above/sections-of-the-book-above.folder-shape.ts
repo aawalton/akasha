@@ -44,17 +44,8 @@ export const sectionsOfTheBookAbove = {
       statement: "A folder named `sections` with no section is refused.",
     },
     {
-      invariantKind: "gap",
-      statement: "A folder inside `sections` is named for one section of this book.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A section inside a folder is held by the section the folder is named for.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A section under another section names that section by an address rather than a slug.",
+      invariantKind: "departure",
+      statement: "A folder inside is judged by the shape for the sections of a section.",
     },
   ],
 } as const satisfies FolderShape

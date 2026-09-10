@@ -67,6 +67,7 @@ export type Shaping = {
   readonly partOf?: Standing["partOf"]
   readonly held?: ReadonlySet<string>
   readonly deep?: readonly string[]
+  readonly above?: readonly string[]
 }
 
 export const HELD_IN_TESTS = new Set<string>([
@@ -91,7 +92,8 @@ export function folderFrom(shaping: Shaping): (names: readonly string[]) => Stan
     )
     const files = held.map((each) => each.path)
     const deep = (shaping.deep ?? []).map((each) => `${shaping.folder}/${each}`)
-    const grouped = groupedBy([...files, ...deep])
+    const above = (shaping.above ?? []).map((each) => `${folderOf(shaping.folder)}/${each}`)
+    const grouped = groupedBy([...files, ...deep, ...above])
     return {
       folder: shaping.folder,
       files,
