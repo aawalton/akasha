@@ -11,7 +11,18 @@ const HOLDS = "ts"
 
 const SLUG = "slug"
 
-const HELD = new Map<string, string>([["boolean-property", "boolean"]])
+const HELD = new Map<string, string>([
+  ["boolean-property", "boolean"],
+  ["build-folder-property", "true"],
+  ["calendar-date-property", "string"],
+  ["calendar-time-property", "string"],
+  ["email-address-property", "string"],
+  ["instant-property", "string"],
+  ["page-property-entry", '"jsonl"'],
+  ["phone-number-property", "string"],
+  ["process-property", "string"],
+  ["url-property", "string"],
+])
 
 export function typesAtOf(path: string): string | null {
   return besideAt(path, SECTION, HOLDS)
