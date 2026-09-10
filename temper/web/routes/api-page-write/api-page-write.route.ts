@@ -16,7 +16,7 @@ export const apiPageWrite = {
     {
       invariantKind: "constraint",
       statement:
-        "React Router strips only `loader`, `action`, `middleware` and `headers` from the browser bundle.",
+        "React Router strips only `loader` and `action` and `middleware` and `headers` from the browser.",
     },
   ],
 } as const satisfies Route
