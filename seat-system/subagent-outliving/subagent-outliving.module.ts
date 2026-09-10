@@ -37,7 +37,11 @@ export const subagentOutliving = {
     },
     {
       invariantKind: "absence",
-      statement: "No span of time is read here, only which of two moments came first.",
+      statement: "No span of time is read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The order of two moments is read here.",
     },
     {
       invariantKind: "departure",
