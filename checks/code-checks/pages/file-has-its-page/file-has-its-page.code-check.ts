@@ -51,10 +51,6 @@ export const fileHasItsPage = {
       invariantKind: "departure",
       statement: "A path the change takes away is passed over.",
     },
-    {
-      invariantKind: "gap",
-      statement: "The audit sees a file that no page claims.",
-    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
