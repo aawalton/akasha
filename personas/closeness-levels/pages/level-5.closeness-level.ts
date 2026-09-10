@@ -1,4 +1,4 @@
-import type { ClosenessLevel } from "../closeness-level.page-type.ts"
+import type { ClosenessLevel } from "../closeness-level.page-type.types.ts"
 
 export const level5 = {
   id: "01a0540e-e430-7baf-8725-6920118116c8",
