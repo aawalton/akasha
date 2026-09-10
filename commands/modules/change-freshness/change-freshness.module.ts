@@ -35,7 +35,7 @@ export const changeFreshness = {
     },
     {
       invariantKind: "departure",
-      statement: "A path a change creates is held to no body, because no body was ever there.",
+      statement: "A path a change creates is held to no body.",
     },
     {
       invariantKind: "absence",
@@ -60,7 +60,7 @@ export const changeFreshness = {
     },
     {
       invariantKind: "departure",
-      statement: "Two bodies are one body where the bytes are the bytes, and neither is no body.",
+      statement: "Two bodies are one body where the bytes match and both bodies are there.",
     },
     {
       invariantKind: "departure",
