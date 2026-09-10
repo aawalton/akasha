@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const bodyNotUtf8 = {
   id: "01a06611-3980-752b-ad7d-cba8543426fb",

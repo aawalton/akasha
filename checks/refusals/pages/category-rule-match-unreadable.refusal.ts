@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const categoryRuleMatchUnreadable = {
   id: "01a06611-3981-7237-ac17-80f6c64d85f6",

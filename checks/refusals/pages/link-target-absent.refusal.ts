@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const linkTargetAbsent = {
   id: "01a06611-398d-70f0-8ada-582dd41d591a",

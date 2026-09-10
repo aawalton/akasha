@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const pageRowRequiredDropped = {
   id: "01a06611-3999-783d-8ba6-ae80e9c6241f",

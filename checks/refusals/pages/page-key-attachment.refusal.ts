@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const pageKeyAttachment = {
   id: "01a06611-3990-782d-bd8b-1fa5df2dbfbe",

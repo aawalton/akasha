@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const pageBlockNarrowingUnresolved = {
   id: "01a06611-398e-78c1-bb84-671b5df5f4f7",

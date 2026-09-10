@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const categoryTransactionUnclaimed = {
   id: "01a06611-3984-7da5-ac94-b9c5f9324309",

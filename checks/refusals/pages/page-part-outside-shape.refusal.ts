@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const pagePartOutsideShape = {
   id: "01a06611-3997-7a00-bd4f-6d0750b8e9a4",

@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const pageBlockRedeclarationSilent = {
   id: "01a06611-398f-7e33-a226-f31a9a556eb8",

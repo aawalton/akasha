@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const linkOutsideRoots = {
   id: "01a06611-398b-77f2-9c4e-5aa9a9baaf0f",

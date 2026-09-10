@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { RefusalText } from "./properties/refusal-text.text-property.ts"
-
-export type Refusal = Page & {
-  title: Title
-  text: RefusalText
-}
 
 export const refusal = {
   id: "01a0699d-4000-7a11-9c02-3f61b0d24e77",
@@ -45,4 +37,5 @@ export const refusal = {
       statement: "One refusal is printed at more than one place.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

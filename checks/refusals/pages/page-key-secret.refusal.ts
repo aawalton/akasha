@@ -1,4 +1,4 @@
-import type { Refusal } from "../refusal.page-type.ts"
+import type { Refusal } from "../refusal.page-type.types.ts"
 
 export const pageKeySecret = {
   id: "01a06611-3993-7d12-b5b0-79840eceaa95",
