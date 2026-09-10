@@ -1,12 +1,19 @@
 import { readFileSync } from "node:fs"
 import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { z } from "zod"
 import type { McpServerConfig } from "../../claude-launch-args/claude-launch-args.module.code.ts"
 import { expandHome } from "../supervisor-claude-config/supervisor-claude-config.module.code.ts"
 import { HOME_DIR } from "../supervisor-config/supervisor-config.module.code.ts"
 
-const DECLARED =
-  "seat-system/agent-settings/pages/mcp-servers/mcp-servers.agent-settings.harness-settings.json"
+const SETTINGS = "agent-settings"
+
+const SETTINGS_SLUG = "mcp-servers"
+
+const HARNESS_SETTINGS = "harness-settings"
+
+const HELD = "json"
 
 const INSTRUCTIONS_TOKEN = "$INSTRUCTIONS"
 
@@ -27,8 +34,19 @@ const Declaration = z.record(z.string(), DeclaredServer)
 
 type Declared = z.infer<typeof Declaration>
 
+function declaredAt(): string {
+  const page = listedAt(ownRepoRoot(), SETTINGS, SETTINGS_SLUG)[0]
+  const at = page === undefined ? null : besideAt(page.path, HARNESS_SETTINGS, HELD)
+  if (at === null) {
+    throw new Error(
+      `no \`${SETTINGS}\` is slugged \`${SETTINGS_SLUG}\`, so the servers a seat gets are unknown`
+    )
+  }
+  return at
+}
+
 function declaration(): Declared {
-  const at = `${ownRepoRoot()}/${DECLARED}`
+  const at = `${ownRepoRoot()}/${declaredAt()}`
   return Declaration.parse(JSON.parse(readFileSync(at, "utf8")))
 }
 
@@ -65,7 +83,7 @@ export function storageStatePathOf(server: string): string | null {
 export function playwrightStorageStatePath(): string {
   const path = storageStatePathOf(PLAYWRIGHT)
   if (path === null) {
-    throw new Error(`${DECLARED} states no storage state for \`${PLAYWRIGHT}\``)
+    throw new Error(`${declaredAt()} states no storage state for \`${PLAYWRIGHT}\``)
   }
   return path
 }
@@ -74,7 +92,7 @@ export function messagesMcpPath(): string {
   const args = getMcpServerRegistry().messages
   const spawned = args?.type === "stdio" ? args.args[1] : undefined
   if (spawned === undefined) {
-    throw new Error(`${DECLARED} states no script for \`messages\``)
+    throw new Error(`${declaredAt()} states no script for \`messages\``)
   }
   return spawned
 }

@@ -13,6 +13,10 @@ export const mcpRegistry = {
     },
     {
       invariantKind: "departure",
+      statement: "Where that page sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A declaration that does not read as a server declaration is refused.",
     },
     {
