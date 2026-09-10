@@ -1,4 +1,4 @@
-import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.ts"
+import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.types.ts"
 
 export const veraAnchor = {
   id: "019f324d-8ef6-75e4-a25f-612e3eacc8ae",

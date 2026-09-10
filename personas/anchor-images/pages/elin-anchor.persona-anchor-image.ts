@@ -1,4 +1,4 @@
-import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.ts"
+import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.types.ts"
 
 export const elinAnchor = {
   id: "019f324d-8bd6-77a2-807a-ee21152192fb",

@@ -1,4 +1,4 @@
-import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.ts"
+import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.types.ts"
 
 export const zadiAnchor = {
   id: "019f324d-43ee-7aed-84f9-064a57cb97f7",

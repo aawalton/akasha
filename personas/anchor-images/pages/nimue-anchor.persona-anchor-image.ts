@@ -1,4 +1,4 @@
-import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.ts"
+import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.types.ts"
 
 export const nimueAnchor = {
   id: "019f324d-4aa0-7b34-bede-00c0fa5d9492",

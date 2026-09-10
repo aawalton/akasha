@@ -1,4 +1,4 @@
-import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.ts"
+import type { PersonaAnchorImage } from "../persona-anchor-image.page-type.types.ts"
 
 export const zeliAnchor = {
   id: "019f324d-45eb-73fa-ab13-e5d6960b6380",

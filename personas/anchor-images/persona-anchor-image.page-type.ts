@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { PersonaImage } from "../images/persona-image.page-type.types.ts"
-import type { Grade } from "./properties/grade.text-property.ts"
-
-export type PersonaAnchorImage = PersonaImage & {
-  grade?: Grade
-}
 
 export const personaAnchorImage = {
   id: "01a0655b-4a9b-700a-b7af-04be2a9c0df4",
@@ -26,4 +20,5 @@ export const personaAnchorImage = {
       statement: "A persona has one anchor.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
