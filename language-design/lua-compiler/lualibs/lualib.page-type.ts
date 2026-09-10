@@ -116,6 +116,7 @@ export const lualib = {
     "lualib/clone-descriptor",
     "lualib/descriptor-get",
     "lualib/descriptor-set",
+    "lualib/set",
     "lualib/set-descriptor",
     "lualib/object-define-property",
     "lualib/object-get-own-property-descriptor",
