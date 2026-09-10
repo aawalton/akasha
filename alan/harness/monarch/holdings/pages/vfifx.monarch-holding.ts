@@ -1,4 +1,4 @@
-import type { MonarchHolding } from "../monarch-holding.page-type.types.ts"
+import type { MonarchHolding } from "../monarch-holding.page-type.ts"
 
 export const vfifx = {
   id: "01a06559-5ea9-700b-968f-62b276e5ab33",
@@ -12,5 +12,5 @@ export const vfifx = {
   ticker: "VFIFX",
   quantity: 361.415,
   costBasis: 21557.31,
-  holdingValue: 24287.088,
+  holdingValue: 24146.136150000002,
 } as const satisfies MonarchHolding
