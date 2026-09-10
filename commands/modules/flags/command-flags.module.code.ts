@@ -1,4 +1,6 @@
-import { BREAK_GLASS, textAt } from "../asking/asking.module.code.ts"
+import { textAt } from "../asking/asking.module.code.ts"
+
+export const BREAK_GLASS = "--break-the-glass"
 
 export const FILE_PATH = "--file-path"
 

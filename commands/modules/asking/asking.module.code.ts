@@ -5,8 +5,6 @@ import type { Answer, Kind } from "../calling/calling.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 
-export const BREAK_GLASS = "--break-the-glass"
-
 const NOTHING = "nothing was judged and nothing was written"
 
 export type Trouble = {

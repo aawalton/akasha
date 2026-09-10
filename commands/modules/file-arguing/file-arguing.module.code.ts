@@ -4,10 +4,11 @@ import { fileKeysAt } from "@akasha/indexes/entries"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { besideAll } from "akasha/pages/beside/page-beside.module.code.ts"
-import { BREAK_GLASS, bytesAt, mistaking, textOf, troubling } from "../asking/asking.module.code.ts"
+import { bytesAt, mistaking, textOf, troubling } from "../asking/asking.module.code.ts"
 import { type Answer, type Given, kindNamed } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import {
+  BREAK_GLASS,
   CONTENT_FILE,
   FILE_PATH,
   glassIn,

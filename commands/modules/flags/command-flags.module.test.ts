@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { BREAK_GLASS } from "../asking/asking.module.code.ts"
 import {
+  BREAK_GLASS,
   CONTENT_FILE,
   FILE_PATH,
   glassIn,
