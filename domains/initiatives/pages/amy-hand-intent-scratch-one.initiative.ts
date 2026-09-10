@@ -12,10 +12,5 @@ export const amyHandIntentScratchOne = {
       statement: "This scratch intent stays where it is.",
     },
     { statement: "This scratch intent was already here." },
-    {
-      statement: "This scratch intent is handed to the other scratch initiative.",
-      workingMemory:
-        "This memory rides along with the intent, and reaching the other initiative unchanged is what proves it.",
-    },
   ],
 } as const satisfies Initiative
