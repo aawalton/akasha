@@ -11,5 +11,6 @@ export const amyHandIntentScratchOne = {
     {
       statement: "This scratch intent stays where it is.",
     },
+    { statement: "This scratch intent was already here." },
   ],
 } as const satisfies Initiative
