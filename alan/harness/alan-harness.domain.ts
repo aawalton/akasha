@@ -129,6 +129,11 @@ export const alanHarness = {
       invariantKind: "absence",
       statement: "A tile shows its last reading rather than going dark when the taker dies.",
     },
+    { invariantKind: "departure", statement: "Alan's app fills his password in from 1Password." },
+    {
+      invariantKind: "departure",
+      statement: "Alan's phone drains its health samples into akasha every day.",
+    },
   ],
   directives: [
     {
