@@ -9,7 +9,6 @@ export const relationResolves = {
     "the check refusing a name that reaches no page, and a non-mortal page that names a mortal one",
   code: "ts",
   test: "ts",
-  testFixtures: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

@@ -6,7 +6,7 @@ import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { declaring } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
+import { carriedBy } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 import {
   everyType,
   refusalsOver,

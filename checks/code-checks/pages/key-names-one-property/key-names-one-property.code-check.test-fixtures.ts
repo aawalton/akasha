@@ -14,7 +14,7 @@ import {
   put,
   typed,
 } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
+import { carriedBy } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 import {
   judgedIn,
   refusalsOver,

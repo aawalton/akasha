@@ -11,7 +11,7 @@ import {
 import { slugsIn, textAt, type Value } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import type { Carried } from "../relation-resolves/relation-resolves.code-check.code.ts"
+import type { Carried } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 
 export const PAGE_TYPE = "page-type"
 

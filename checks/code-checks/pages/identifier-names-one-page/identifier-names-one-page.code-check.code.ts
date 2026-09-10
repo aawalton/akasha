@@ -3,7 +3,7 @@ import { identifyingFrom } from "@akasha/pages/page-type-properties"
 import type { Shadow } from "@akasha/pages/shadow"
 import { input, PAGES } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { carriedBy } from "../relation-resolves/relation-resolves.code-check.code.ts"
+import { carriedBy } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 import { refusalsOf, statedBy } from "./identifier-names-one-page.code-check.decision.code.ts"
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
