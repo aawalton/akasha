@@ -1,3 +1,4 @@
+import type { List } from "@akasha/pages/page-property"
 import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
 
 export const secondaryMuscles = {
@@ -28,4 +29,6 @@ export const secondaryMuscles = {
   ],
 } as const satisfies SelectProperty
 
-export type SecondaryMuscles = (typeof secondaryMuscles.values)[number]
+export type SecondaryMuscle = (typeof secondaryMuscles.values)[number]
+
+export type SecondaryMuscles = List<SecondaryMuscle>

@@ -47,9 +47,9 @@ export type Exercise = Page & {
   mechanic?: Mechanic
   movementPattern: MovementPattern
   muscleFocus: MuscleFocus
-  primaryMuscles: readonly PrimaryMuscles[]
+  primaryMuscles: PrimaryMuscles
   scoringMode: ScoringMode
-  secondaryMuscles?: readonly SecondaryMuscles[]
+  secondaryMuscles?: SecondaryMuscles
   secondaryPattern?: SecondaryPattern
   sfrScore: SfrScore
   skillCost: SkillCost
