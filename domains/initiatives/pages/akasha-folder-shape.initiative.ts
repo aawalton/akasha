@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "`akasha audit` gives the true count only on its last line. A folder move leaves an `akasha/...` specifier as it is, and typecheck judges only what a change reaches, so a break lands green and shows up elsewhere. A page whose slug is unique within a scope is addressed `<page type>/<scope>/<slug>`, and `namedAs` is the one place an address is composed. 64 folders match no shape, ten of them `.server`.\n",
+        "Piped, `akasha audit` gives every line; only the answer to a terminal truncates. A folder move leaves an `akasha/...` specifier as it is, and typecheck judges only what a change reaches, so a break lands green and shows up elsewhere. A page whose slug is unique within a scope is addressed `<page type>/<scope>/<slug>`. 46 folders match no shape: 20 group pages under no page of their own, 11 are those folders' parents, 11 hold many pages of one type.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
