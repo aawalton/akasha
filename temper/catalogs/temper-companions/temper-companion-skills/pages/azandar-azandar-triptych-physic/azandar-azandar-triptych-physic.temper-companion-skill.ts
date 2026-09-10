@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const azandarAzandarTriptychPhysic = {
   id: "019e6484-3842-79f2-9ad8-f809263c772e",

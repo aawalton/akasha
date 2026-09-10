@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const azandarAzandarFearOfTheUnknown = {
   id: "019e6484-383a-7134-9d92-171076d39e48",

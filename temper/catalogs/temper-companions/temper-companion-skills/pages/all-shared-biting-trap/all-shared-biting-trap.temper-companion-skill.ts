@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const allSharedBitingTrap = {
   id: "019e6688-86ef-7413-98b6-627022a4ae10",

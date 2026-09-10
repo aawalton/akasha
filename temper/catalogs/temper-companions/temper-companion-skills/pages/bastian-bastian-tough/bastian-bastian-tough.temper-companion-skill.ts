@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const bastianBastianTough = {
   id: "019e6484-3854-7de8-b88a-9a80cc6ffa59",

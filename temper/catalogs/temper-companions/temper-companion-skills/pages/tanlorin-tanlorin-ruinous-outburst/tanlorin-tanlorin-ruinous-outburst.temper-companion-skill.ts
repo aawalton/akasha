@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const tanlorinTanlorinRuinousOutburst = {
   id: "019e6484-38a8-733f-bac6-da554a2d8bdf",

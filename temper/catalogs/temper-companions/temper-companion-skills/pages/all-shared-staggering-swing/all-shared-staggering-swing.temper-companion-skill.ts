@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const allSharedStaggeringSwing = {
   id: "019e668d-c55b-7dbc-83c4-7074c38cf26a",

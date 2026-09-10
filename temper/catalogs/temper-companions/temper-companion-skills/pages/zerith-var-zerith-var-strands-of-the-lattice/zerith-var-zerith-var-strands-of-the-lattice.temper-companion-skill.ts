@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const zerithVarZerithVarStrandsOfTheLattice = {
   id: "019e6484-38b6-706c-8599-a9bf960b653e",

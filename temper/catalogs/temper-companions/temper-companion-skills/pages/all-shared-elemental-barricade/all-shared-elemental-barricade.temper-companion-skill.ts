@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const allSharedElementalBarricade = {
   id: "019e668d-c553-7e7c-819d-0fca148827c8",

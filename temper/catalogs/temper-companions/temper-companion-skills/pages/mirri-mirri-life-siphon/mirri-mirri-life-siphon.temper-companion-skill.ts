@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const mirriMirriLifeSiphon = {
   id: "019e6484-3885-7f99-a15f-f9405b4b6a72",

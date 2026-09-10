@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const sharpAsNightSharpPetalsOfTheHunter = {
   id: "019e6484-389b-7e6f-afeb-c65964fc717d",

@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const isobelIsobelDivineDestruction = {
   id: "019e6484-3871-7070-bb6d-98c87f3d6e85",

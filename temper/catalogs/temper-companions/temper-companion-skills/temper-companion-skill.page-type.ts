@@ -1,20 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { AbilityId } from "../temper-companion-things/properties/ability-id.number-property.ts"
-import type { AlternateAbilityIds } from "../temper-companion-things/properties/alternate-ability-ids.number-property.ts"
-import type { Tags } from "../temper-companion-things/properties/tags.text-property.ts"
-import type { ValidRoles } from "../temper-companion-things/properties/valid-roles.text-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-import type { CastConditions } from "./properties/cast-conditions.page-property-entry.ts"
-import type { SkillEffects } from "./properties/skill-effects.page-property-entry.ts"
-
-export type TemperCompanionSkill = TemperCompanionThing & {
-  abilityId: AbilityId
-  validRoles?: ValidRoles
-  tags?: Tags
-  alternateAbilityIds?: AlternateAbilityIds
-  skillEffects?: SkillEffects
-  castConditions?: CastConditions
-}
 
 export const temperCompanionSkill = {
   id: "01a05fcf-90fc-73a8-ad6a-e3869228a309",
@@ -101,4 +85,5 @@ export const temperCompanionSkill = {
     { pageProperty: "page-property-entry/skill-effects", required: false, many: false },
     { pageProperty: "page-property-entry/cast-conditions", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

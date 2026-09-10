@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const zerithVarZerithVarThirdMoonsChosen = {
   id: "019e6484-38b7-7438-8c87-ea6e71b14459",

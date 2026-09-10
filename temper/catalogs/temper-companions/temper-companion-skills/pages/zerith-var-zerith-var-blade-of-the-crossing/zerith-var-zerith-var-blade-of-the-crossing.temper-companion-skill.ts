@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const zerithVarZerithVarBladeOfTheCrossing = {
   id: "019e6484-38ae-78e1-bcea-00334a19c551",

@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const bastianBastianScorchingStrike = {
   id: "019e6484-3851-7f30-8fd9-32c2f824b762",

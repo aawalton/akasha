@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const emberEmberCunning = {
   id: "019e6484-3859-79c2-8c47-1308c07b5fcd",

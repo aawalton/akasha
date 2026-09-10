@@ -1,4 +1,4 @@
-import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.ts"
+import type { TemperCompanionSkill } from "../../temper-companion-skill.page-type.types.ts"
 
 export const emberEmberSharedWards = {
   id: "019e6484-3863-79ea-ba1a-bcd91761da8a",
