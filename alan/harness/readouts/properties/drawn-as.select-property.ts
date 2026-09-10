@@ -1,16 +1,15 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { SelectProperty } from "../../../../pages/select-properties/select-property.page-type.types.ts"
 
 export type DrawnAs = "stoplight" | "number"
 
 export const drawnAs = {
   id: "01a063bd-a526-78b3-ad87-dc9525cc297e",
-  pageTypeSlug: "text-property",
-  type: "text-property",
+  pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "drawn-as",
   propertySlug: "drawn-as",
   definition: "whether a reading is drawn as a stoplight or as a bare number",
-  maxLength: 100,
-  nameFormat: "name-format/lower-kebab-case",
+  values: ["stoplight", "number"],
   invariants: [
     {
       invariantKind: "departure",
@@ -21,4 +20,4 @@ export const drawnAs = {
       statement: "A reading drawn as a number is drawn without a rung behind the figure.",
     },
   ],
-} as const satisfies TextProperty
+} as const satisfies SelectProperty

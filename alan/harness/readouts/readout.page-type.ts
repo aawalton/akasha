@@ -20,7 +20,7 @@ export const readout = {
     "relation-property/read-live-from",
     "relation-property/scale",
     "text-property/color-slug",
-    "text-property/drawn-as",
+    "select-property/drawn-as",
     "text-property/earned-key",
     "text-property/label",
     "text-property/none-left-emoji",
@@ -34,7 +34,7 @@ export const readout = {
     { pageProperty: "text-property/unit", required: false, many: false },
     { pageProperty: "number-property/place", required: true, many: false },
     {
-      pageProperty: "text-property/drawn-as",
+      pageProperty: "select-property/drawn-as",
       required: false,
       many: false,
       default: "stoplight",

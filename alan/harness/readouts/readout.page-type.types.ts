@@ -2,7 +2,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.types
 import type { Attribute } from "./properties/attribute.relation-property.types.ts"
 import type { ColorFrom } from "./properties/color-from.relation-property.types.ts"
 import type { ColorSlug } from "./properties/color-slug.text-property.ts"
-import type { DrawnAs } from "./properties/drawn-as.text-property.ts"
+import type { DrawnAs } from "./properties/drawn-as.select-property.ts"
 import type { EarnedKey } from "./properties/earned-key.text-property.ts"
 import type { Groups } from "./properties/groups.relation-property.types.ts"
 import type { Label } from "./properties/label.text-property.ts"
