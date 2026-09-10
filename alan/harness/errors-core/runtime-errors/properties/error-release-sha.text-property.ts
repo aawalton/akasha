@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type ReleaseSha = string
+export type ErrorReleaseSha = string
 
 export const errorReleaseSha = {
   id: "01a05f3f-e3e0-7d68-b1de-729068552c64",
