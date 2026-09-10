@@ -34,7 +34,7 @@ export const edits = {
     },
     {
       invariantKind: "departure",
-      statement: "A line has the paths and bodies that edit names and no others.",
+      statement: "A line has the paths and bodies that edit names and nothing else.",
     },
     {
       invariantKind: "departure",
