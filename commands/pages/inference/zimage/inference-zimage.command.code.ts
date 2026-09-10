@@ -13,6 +13,7 @@ import {
   MODELS,
   toModelId,
 } from "akasha/inference/generations/zimage/models/zimage-models.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
@@ -150,13 +151,11 @@ export function at(given: Given, path: string): string {
 }
 
 function portIn(): string {
-  const held = process.env.ZIMAGE_PORT
-  return held === undefined || held === "" ? DEFAULT_PORT : held
+  return optionalEnv("ZIMAGE_PORT") ?? DEFAULT_PORT
 }
 
 function homeIn(): string {
-  const held = process.env.ZIMAGE_HOME
-  return held === undefined || held === "" ? join(homedir(), ".local", "share", "zimage") : held
+  return optionalEnv("ZIMAGE_HOME") ?? join(homedir(), ".local", "share", "zimage")
 }
 
 async function staged(
