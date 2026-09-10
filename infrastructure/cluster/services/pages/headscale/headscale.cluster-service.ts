@@ -27,7 +27,8 @@ export const headscale = {
     },
     {
       invariantKind: "constraint",
-      statement: "The server reads its certificate once and serves that one until the server ends.",
+      statement:
+        "The server reads its certificate once and serves that certificate until the server ends.",
     },
     {
       invariantKind: "departure",

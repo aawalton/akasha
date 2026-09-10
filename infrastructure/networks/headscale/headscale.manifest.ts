@@ -18,7 +18,7 @@ export const headscale = {
     {
       invariantKind: "departure",
       statement:
-        "A renewed certificate reaches the server in a new pod rather than in the running one.",
+        "A renewed certificate reaches the server in a new pod rather than in the running pod.",
     },
     {
       invariantKind: "departure",
