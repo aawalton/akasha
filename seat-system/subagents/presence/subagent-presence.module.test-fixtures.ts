@@ -2,6 +2,7 @@ import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
+import { PUT_BACK } from "../../../commands/modules/change-freshness/change-freshness.module.code.ts"
 import {
   keptAt,
   scratchWorld,
@@ -161,6 +162,10 @@ export const GOING: Went = { went: true }
 
 export const LOCKED: Went = {
   why: "another landing has held `.git/akasha-landing.lock` for longer than 120s",
+}
+
+export const MOVED: Went = {
+  why: `one.subagent.ts — read against \`abc\`, and what is at \`def\` is not what was read, ${PUT_BACK}`,
 }
 
 export const REFUSED: Went = { why: "no assignment is stated for the akasha seat" }

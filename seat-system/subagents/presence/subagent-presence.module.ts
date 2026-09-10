@@ -181,7 +181,15 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal naming no lock is answered at once.",
+      statement: "A landing refused because the tree moved under it is asked for again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The words each of those refusals is known by come from the module wording it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal naming neither is answered at once.",
     },
     {
       invariantKind: "departure",

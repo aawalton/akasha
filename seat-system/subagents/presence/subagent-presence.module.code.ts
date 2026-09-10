@@ -11,6 +11,7 @@ import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.modu
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { textAt } from "akasha/utils/narrow/text-at/text-at.module.code.ts"
+import { PUT_BACK } from "../../../commands/modules/change-freshness/change-freshness.module.code.ts"
 import {
   dropReadings,
   SUBAGENT_MARK,
@@ -291,7 +292,7 @@ export const TRIES = 5
 export const WAIT_MS = 30_000
 
 export function worthAnotherTry(why: string): boolean {
-  return why.includes(LOCK_HELD)
+  return why.includes(LOCK_HELD) || why.includes(PUT_BACK)
 }
 
 export async function sleeping(ms: number): Promise<void> {

@@ -52,6 +52,7 @@ import {
   landingNaming,
   loggedAt,
   MECHANICAL,
+  MOVED,
   messageIn,
   OWN,
   pastTheStamp,
@@ -362,6 +363,12 @@ test("a landing refused for a held lock every time is asked for five times and n
   const run = counting([LOCKED])
   expect(await landingAgain(run.ask, run.waited)).toEqual(LOCKED)
   expect(run.count()).toBe(TRIES)
+})
+
+test("a landing refused because the tree moved under it is asked for again", async () => {
+  const run = counting([MOVED, GOING])
+  expect(await landingAgain(run.ask, run.waited)).toEqual(GOING)
+  expect(run.count()).toBe(2)
 })
 
 test("a refusal naming no held lock is answered at once and waits for nothing", async () => {
