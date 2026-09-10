@@ -48,7 +48,6 @@ export const attribute = {
     },
     { pageProperty: "computed-property/attribute-level", required: false, many: false },
   ],
-  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",
