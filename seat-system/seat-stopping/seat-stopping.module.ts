@@ -38,7 +38,24 @@ export const seatStopping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page taken away goes through the change removing a file.",
+      statement: "A page taken away goes through the change removing a file of any kind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files a page claims go with that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "What a subagent left unlanded is moved onto its seat before that subagent's page goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What was moved onto the seat is said back to whoever asked for the stop.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing is moved onto a seat whose page is not there to hold it.",
     },
     {
       invariantKind: "departure",

@@ -1,4 +1,11 @@
 import { expect, test } from "bun:test"
+import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import {
+  appendEdits,
+  linesIn,
+} from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Applied } from "../../commands/modules/applying/applying.module.code.ts"
 import type { Given } from "../../commands/modules/calling/calling.module.code.ts"
@@ -6,10 +13,12 @@ import type { Refused } from "../../commands/modules/landing/landing.module.code
 import { readingIn, recordRead } from "../../commands/modules/reading/reading.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { seatEditsAt } from "../subagent-recovering/subagent-recovering.module.code.ts"
 import {
   isAgentProcess,
   killTarget,
   type Landing,
+  moving,
   subagentGuard,
   TAKE,
   took,
@@ -149,6 +158,10 @@ function heldIn(): { root: string; oid: string } {
   return { root, oid: writing(root, HELD_AT, HELD_BODY) }
 }
 
+test("a page taken away goes through the change that dispatches by what the file is", () => {
+  expect(TAKE).toBe("change-mechanical/remove-file-of-any-kind")
+})
+
 test("a page taken away is named to the landing at the change removing a file", async () => {
   const { root } = heldIn()
   const held: Handed[] = []
@@ -189,5 +202,53 @@ test("a landing answering something wrong leaves the reading where it is", async
   const held = noting([], { ...LANDED, wrong: ["the check refused"] })
   expect(await took(givenIn(root), [HELD_AT], MESSAGE, held)).toBe(false)
   expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
+  world.sweep()
+})
+
+const SEAT_AT = "seat-system/seats/pages/tester/tester.seat.ts"
+
+const UNDER_AT = "seat-system/subagents/pages/tester-abc/tester-abc.subagent.ts"
+
+const SEAT_BODY = "export const tester = {} as const\n"
+
+const ROW: FileChange = { kind: "remove", path: "one.md" }
+
+const UNDER: readonly Working[] = [{ path: UNDER_AT, dispatchedAs: "Explore" }]
+
+test("what a subagent left unlanded is moved onto its seat and said back", () => {
+  const root = world.rootFor("seat-stopping-")
+  writing(root, SEAT_AT, SEAT_BODY)
+  appendEdits(root, UNDER_AT, [ROW])
+  expect(moving(givenIn(root), SEAT_AT, UNDER)).toEqual([
+    "tester-abc left 1 edit(s) unlanded, and the seat keeps them",
+  ])
+  expect(linesIn(root, UNDER_AT)).toEqual([])
+  world.sweep()
+})
+
+test("the seat keeps what moved beside its own page", () => {
+  const root = world.rootFor("seat-stopping-")
+  writing(root, SEAT_AT, SEAT_BODY)
+  appendEdits(root, UNDER_AT, [ROW])
+  moving(givenIn(root), SEAT_AT, UNDER)
+  const at = seatEditsAt(SEAT_AT)
+  expect(at).toBe("seat-system/seats/pages/tester/tester.seat.subagent-edits.uncommitted.jsonl")
+  expect(readFileSync(join(root, at ?? ""), "utf8")).toBe(`${JSON.stringify(ROW)}\n`)
+  world.sweep()
+})
+
+test("nothing is moved onto a seat whose page is not there to hold it", () => {
+  const root = world.rootFor("seat-stopping-")
+  appendEdits(root, UNDER_AT, [ROW])
+  expect(moving(givenIn(root), SEAT_AT, UNDER)).toEqual([])
+  expect(linesIn(root, UNDER_AT)).toEqual([JSON.stringify(ROW)])
+  expect(existsSync(join(root, seatEditsAt(SEAT_AT) ?? ""))).toBe(false)
+  world.sweep()
+})
+
+test("a seat with nothing dispatched under it moves nothing and says nothing", () => {
+  const root = world.rootFor("seat-stopping-")
+  writing(root, SEAT_AT, SEAT_BODY)
+  expect(moving(givenIn(root), SEAT_AT, [])).toEqual([])
   world.sweep()
 })

@@ -16,6 +16,7 @@ export const seatSupervisorStop = {
   helpNotes: [
     "a stop reaches one seat, where a restart reaches every seat akasha carries.",
     "a stop ends what the seat dispatched before it ends the seat, so nothing is left orphaned.",
+    "what a subagent had not landed is moved onto the seat before that subagent's page goes, and the stop says what moved.",
     "a name no seat holds a page for answers as a data refusal, which a caller can tell from a misspelling.",
     "a stop names one seat, spelled as that seat's page is spelled rather than as an id.",
   ],

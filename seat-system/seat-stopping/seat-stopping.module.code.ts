@@ -10,6 +10,11 @@ import { ending } from "akasha/utils/process/process-ending/process-ending.modul
 import type { Given } from "../../commands/modules/calling/calling.module.code.ts"
 import { dropReadings } from "../../commands/modules/reading/reading.module.code.ts"
 import { seatPathForName, supervisorAlive } from "../seat-reading/seat-reading.module.code.ts"
+import {
+  movedOnto,
+  namedAt,
+  saidOf,
+} from "../subagent-recovering/subagent-recovering.module.code.ts"
 
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 
@@ -116,7 +121,7 @@ export async function endedSession(name: string): Promise<boolean> {
   return !(await sessionHeld(name))
 }
 
-export const TAKE = "change-mechanical-file/remove-file"
+export const TAKE = "change-mechanical/remove-file-of-any-kind"
 
 export type Landing = (
   root: string,
@@ -140,11 +145,21 @@ export async function took(
   return gone
 }
 
+export function moving(given: Given, page: string, working: readonly Working[]): readonly string[] {
+  if (!existsSync(join(given.root, page))) return []
+  const said: string[] = []
+  for (const one of working) {
+    said.push(...saidOf(namedAt(one.path), movedOnto(given.root, page, one.path)))
+  }
+  return said
+}
+
 export type Stopped = {
   readonly name: string
   readonly pids: readonly number[]
   readonly signalled: boolean
   readonly how: "ended" | "already-gone" | "reconciled"
+  readonly moved: readonly string[]
 }
 
 export type Stopping = { readonly stopped: Stopped } | { readonly refused: string }
@@ -162,6 +177,7 @@ export async function stopping(
   const guard = subagentGuard({ working, seatAlive, force, seatName: name })
   if (guard.kind === "refuse") return { refused: guard.said }
 
+  const moved = moving(given, page, working)
   await took(
     given,
     working.map((one) => one.path),
@@ -176,7 +192,7 @@ export async function stopping(
       await took(given, [page], `${name} was stopped, so the page it held goes`)
     }
     return {
-      stopped: { name, pids: target.pids, signalled: ended.asked, how: "ended" },
+      stopped: { name, pids: target.pids, signalled: ended.asked, how: "ended", moved },
     }
   }
   if (target.kind === "session") {
@@ -190,10 +206,10 @@ export async function stopping(
         : `${name} had no process and no session, so the page it held goes`
     )
     return {
-      stopped: { name, pids: [], signalled: ended, how: ended ? "ended" : "already-gone" },
+      stopped: { name, pids: [], signalled: ended, how: ended ? "ended" : "already-gone", moved },
     }
   }
   removeUncommitted(given.root, page)
   await took(given, [page], `no process and no session were left for ${name}`)
-  return { stopped: { name, pids: [], signalled: false, how: "reconciled" } }
+  return { stopped: { name, pids: [], signalled: false, how: "reconciled", moved } }
 }

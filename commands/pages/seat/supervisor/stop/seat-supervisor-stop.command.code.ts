@@ -68,5 +68,5 @@ export async function seatSupervisorStop(argv: readonly string[], given: Given):
   }
   const said = await stopping(given, agentId, named.name, flags.includes(FORCE))
   if ("refused" in said) return refused(said.refused, 1)
-  return { report: [saidOf(said.stopped)], refusals: [], code: 0 }
+  return { report: [...said.stopped.moved, saidOf(said.stopped)], refusals: [], code: 0 }
 }
