@@ -28,5 +28,10 @@ export const types = {
       invariantKind: "departure",
       statement: "A key held as a secret is written as optional, since no page's file has it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A type whose name shadows a global is named here by the page type's name joined to it.",
+    },
   ],
 } as const satisfies FileProperty

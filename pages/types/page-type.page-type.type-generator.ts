@@ -24,6 +24,27 @@ const REQUIRED = "required"
 
 const SECRET = "secret"
 
+const SHADOWING = new Set([
+  "Array",
+  "Boolean",
+  "Date",
+  "Error",
+  "Function",
+  "JSON",
+  "Map",
+  "Math",
+  "Number",
+  "Object",
+  "Promise",
+  "Proxy",
+  "RegExp",
+  "Set",
+  "String",
+  "Symbol",
+  "WeakMap",
+  "WeakSet",
+])
+
 export type Taken = {
   readonly typeName: string
   readonly at: string
@@ -109,13 +130,23 @@ export function keysFor(
   return found
 }
 
-function importsOf(at: string, taken: readonly Taken[]): readonly string[] {
+function calledIn(slug: string, typeName: string): string {
+  return SHADOWING.has(typeName) ? `${typedAs(slug)}${typeName}` : typeName
+}
+
+function importedAs(slug: string, typeName: string): string {
+  const called = calledIn(slug, typeName)
+  return called === typeName ? typeName : `${typeName} as ${called}`
+}
+
+function importsOf(at: string, slug: string, taken: readonly Taken[]): readonly string[] {
   const names = new Map<string, string[]>()
   for (const one of taken) {
     const spec = specifierFor(at, one.at)
+    const said = importedAs(slug, one.typeName)
     const held = names.get(spec)
-    if (held === undefined) names.set(spec, [one.typeName])
-    else if (!held.includes(one.typeName)) held.push(one.typeName)
+    if (held === undefined) names.set(spec, [said])
+    else if (!held.includes(said)) held.push(said)
   }
   return [...names]
     .sort((one, two) => (one[0] < two[0] ? -1 : one[0] > two[0] ? 1 : 0))
@@ -129,13 +160,13 @@ export function bodyFor(
   keys: readonly Key[]
 ): string {
   const at = typesAtOf(pageTypePath) ?? pageTypePath
-  const imports = importsOf(at, [...parents, ...keys])
-  const head = [...parents.map((one) => one.typeName), "{"].join(" & ")
+  const imports = importsOf(at, slug, [...parents, ...keys])
+  const head = [...parents.map((one) => calledIn(slug, one.typeName)), "{"].join(" & ")
   const lines = [
     ...imports,
     ...(imports.length === 0 ? [] : [""]),
     `export type ${typedAs(slug)} = ${head}`,
-    ...keys.map((one) => `  ${one.key}${one.optional ? "?" : ""}: ${one.typeName}`),
+    ...keys.map((one) => `  ${one.key}${one.optional ? "?" : ""}: ${calledIn(slug, one.typeName)}`),
     "}",
   ]
   return `${lines.join("\n")}\n`
