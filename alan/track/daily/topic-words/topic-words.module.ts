@@ -19,7 +19,7 @@ export const topicWords = {
     {
       invariantKind: "departure",
       statement:
-        "A day's window opens when Alan's sleep opened it and closes when the next day did.",
+        "A day's window opens when Alan's sleep opened that day and closes when the next day opened.",
     },
     {
       invariantKind: "departure",
