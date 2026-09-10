@@ -153,13 +153,14 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
     return { report, refusals: [], code: 0 }
   }
 
+  let builtNow = false
   if (target !== null && !isBuilt) {
     const built = buildInPod(target, sha, resolved, !differs && up)
     for (const one of built.ran) {
       report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
     }
     if (built.why !== null) return { report, refusals: [built.why], code: OPERATIONAL }
-    report.push(`built\t${target.packagePath}\tin ${built.pod} from ${sha}`)
+    builtNow = true
   }
 
   if (differs || !up) {
@@ -172,6 +173,15 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
       }
     }
     if (refusals.length > 0) return { report, refusals, code: OPERATIONAL }
+  }
+
+  if (target !== null && builtNow) {
+    const serving = livePod(target)
+    report.push(
+      serving === null
+        ? `built\t${target.packagePath}\tfrom ${sha}, and no pod the cluster calls running has it`
+        : `built\t${target.packagePath}\tin ${serving} from ${sha}`
+    )
   }
 
   report.push(

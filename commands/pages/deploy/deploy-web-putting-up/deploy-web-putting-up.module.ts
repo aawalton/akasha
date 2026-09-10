@@ -67,6 +67,14 @@ export const deployWebPuttingUp = {
       statement: "A build is made before a manifest is applied.",
     },
     {
+      invariantKind: "departure",
+      statement: "The pod a build is reported in is the pod serving once every rollout is done.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The pod a build ran in is named by nothing the report carries.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A pod starts on a build kept beside the package that pod runs from.",
     },
