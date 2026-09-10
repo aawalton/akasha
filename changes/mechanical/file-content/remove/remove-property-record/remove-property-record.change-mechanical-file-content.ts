@@ -55,12 +55,11 @@ export const removePropertyRecord = {
     },
     {
       invariantKind: "absence",
-      statement: "The only text written here is the empty string, so no relation value arrives.",
+      statement: "The only text written here is the empty string.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "No page is taken away here, so a guard reading what an answer takes away reads nothing.",
+      statement: "No page is taken away here.",
     },
   ],
   changeKind: "change-mechanical",

@@ -14,7 +14,7 @@ export const removePageProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key goes with every value that key has, however many those are.",
+      statement: "A key goes with every value that key has.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const removePageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "The key alone is read here, and the values that key has are not read.",
+      statement: "The key alone is read here.",
     },
     {
       invariantKind: "departure",
@@ -66,12 +66,11 @@ export const removePageProperty = {
     },
     {
       invariantKind: "absence",
-      statement: "The only text written here is the empty string, so no relation value arrives.",
+      statement: "The only text written here is the empty string.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "No page is taken away here, so a guard reading what an answer takes away reads nothing.",
+      statement: "No page is taken away here.",
     },
   ],
   changeKind: "change-mechanical",
