@@ -34,6 +34,12 @@ const CHOSEN = new Set(["rank-property", "select-property"])
 
 const COMPUTED = "computed-property"
 
+const ONE_OF = "one-of-property"
+
+const MEMBERS = "members"
+
+const PACKAGE = "akasha/"
+
 const HOLDS_AT = "holds"
 
 const VALUES = "values"
@@ -96,21 +102,52 @@ function chosenIn(path: string, slug: string): Written {
   }
 }
 
-export function writtenFor(
-  kind: string,
-  path: string,
-  slug: string,
-  value: Record<string, unknown>
-): Written | null {
-  const held = HELD.get(kind)
+function memberIn(shadow: Shadow, named: string): Written | null {
+  const cut = named.indexOf("/")
+  if (cut < 0) return null
+  const listed = shadow.index.listedAt(named.slice(0, cut), named.slice(cut + 1))[0]
+  if (listed === undefined) return null
+  const value = shadow.pageOf(listed.path)
+  const slug = value?.[SLUG]
+  if (typeof slug !== "string") return null
+  const at = value?.[SECTION] === HOLDS ? typesAtOf(listed.path) : listed.path
+  if (at === null) return null
+  const typed = typedAs(slug)
+  return { held: typed, imports: [`import type { ${typed} } from "${PACKAGE}${at}"`] }
+}
+
+function oneOfIn(shadow: Shadow, value: Record<string, unknown>): Written | null {
+  const named = value[MEMBERS]
+  if (!Array.isArray(named) || named.length === 0) return null
+  const held: string[] = []
+  const imports: string[] = []
+  for (const one of named) {
+    const member = typeof one === "string" ? memberIn(shadow, one) : null
+    if (member === null) return null
+    held.push(member.held)
+    imports.push(...member.imports)
+  }
+  return { held: held.join(" | "), imports }
+}
+
+export type Asked = {
+  readonly kind: string
+  readonly path: string
+  readonly slug: string
+  readonly value: Record<string, unknown>
+}
+
+export function writtenFor(shadow: Shadow, asked: Asked): Written | null {
+  const held = HELD.get(asked.kind)
   if (held !== undefined) return { held, imports: [] }
-  if (kind === RELATION) {
+  if (asked.kind === RELATION) {
     return { held: SLUG_HELD, imports: [`import type { ${SLUG_HELD} } from "${SLUG_AT}"`] }
   }
-  if (CHOSEN.has(kind)) return chosenIn(path, slug)
-  if (kind !== COMPUTED) return null
-  if (Array.isArray(value[VALUES])) return chosenIn(path, slug)
-  const worked = WORKED.get(String(value[HOLDS_AT]))
+  if (CHOSEN.has(asked.kind)) return chosenIn(asked.path, asked.slug)
+  if (asked.kind === ONE_OF) return oneOfIn(shadow, asked.value)
+  if (asked.kind !== COMPUTED) return null
+  if (Array.isArray(asked.value[VALUES])) return chosenIn(asked.path, asked.slug)
+  const worked = WORKED.get(String(asked.value[HOLDS_AT]))
   return worked === undefined ? null : { held: worked, imports: [] }
 }
 
@@ -147,7 +184,7 @@ export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] 
       if (typeof slug !== "string") continue
       const at = typesAtOf(listed.path)
       if (at === null) continue
-      const held = writtenFor(kind, listed.path, slug, value)
+      const held = writtenFor(shadow, { kind, path: listed.path, slug, value })
       if (held === null) continue
       written.push({
         kind: "add",
