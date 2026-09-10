@@ -260,36 +260,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A change may be drafted into an agent's patch rather than written onto the tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A draft is judged by the checks a landing is judged by.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A draft is judged against the bodies the patch would have rather than the change alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path the patch has is judged whether or not the draft names that path.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A draft and an apply are judged over the same bodies.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The paths a draft was judged over are answered alongside the paths drafted.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A check refusing over a draft is answered rather than refusing the draft.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A draft a check refused is kept in the patch as a draft no check refused is.",
+      statement: "A change may be kept as an agent's edits rather than written onto the tree.",
     },
     {
       invariantKind: "departure",
@@ -301,6 +272,10 @@ export const landing = {
     },
     {
       invariantKind: "departure",
+      statement: "A draft answers which paths the change it kept names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A draft takes no hold over the worktree.",
     },
     {
@@ -308,21 +283,12 @@ export const landing = {
       statement: "A draft writes no body the change carries into the worktree.",
     },
     {
-      invariantKind: "departure",
-      statement: "A draft commits the patch rather than the bodies the change has.",
+      invariantKind: "absence",
+      statement: "A draft commits nothing, as the edits it keeps are an uncommitted file.",
     },
     {
-      invariantKind: "departure",
-      statement: "A draft a conflict refused leaves the patch as the patch was.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A draft answers which paths the patch has a conflict at.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A draft says which checks the change drafted into the patch runs and the reading owed.",
+      invariantKind: "absence",
+      statement: "No check runs over a draft, as the apply folding those edits runs every check.",
     },
     {
       invariantKind: "departure",
