@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Instead } from "../../../taboo-terms/properties/instead.text-property.ts"
-import type { Term } from "../term.page-type.ts"
-import type { ReplacementPatterns } from "./properties/replacement-patterns.record-property.ts"
-
-export type BannedTerm = Term & {
-  instead: Instead
-  replacementPatterns?: ReplacementPatterns
-}
 
 export const bannedTerm = {
   id: "01a081ea-d66b-7bae-bde1-753ebd310536",
@@ -46,4 +38,5 @@ export const bannedTerm = {
       statement: "A sense this page does not name is a sense akasha still writes.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

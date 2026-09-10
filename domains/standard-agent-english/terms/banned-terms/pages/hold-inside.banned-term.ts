@@ -1,4 +1,4 @@
-import type { BannedTerm } from "../banned-term.page-type.ts"
+import type { BannedTerm } from "../banned-term.page-type.types.ts"
 
 export const holdInside = {
   id: "01a081fe-3ea9-770a-9afd-6d05c8f610b6",

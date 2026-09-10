@@ -1,4 +1,4 @@
-import type { BannedTerm } from "../banned-term.page-type.ts"
+import type { BannedTerm } from "../banned-term.page-type.types.ts"
 
 export const carryHaving = {
   id: "01a08201-dca4-73e6-9ae8-de460a3cf483",
