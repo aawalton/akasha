@@ -2,8 +2,6 @@
   "webDir": "www",
   "server": {
     "cleartext": false,
-    "iosScheme": "https",
-    "hostname": "smilingjenny.me",
     "allowNavigation": ["smilingjenny.me", "*.smilingjenny.me"]
   },
   "ios": {

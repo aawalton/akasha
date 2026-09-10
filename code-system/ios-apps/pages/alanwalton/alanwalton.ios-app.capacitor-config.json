@@ -2,8 +2,6 @@
   "webDir": "www",
   "server": {
     "cleartext": false,
-    "iosScheme": "https",
-    "hostname": "alanwalton.com",
     "allowNavigation": ["alanwalton.com", "*.alanwalton.com"]
   },
   "ios": {
