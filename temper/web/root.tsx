@@ -34,6 +34,7 @@ import {
   PagesUIRouterProvider,
 } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect, useMemo } from "react"
 import {
@@ -63,7 +64,7 @@ const AUTH_CONFIG: AuthRouteConfig = {
   signInOnInvalidSession: true,
 }
 
-const SHOWING_STACK = process.env.NODE_ENV !== "production"
+const SHOWING_STACK = optionalEnv("NODE_ENV") !== "production"
 
 export const links: LinksFunction = () => [
   {
