@@ -9,6 +9,7 @@ export const changeApply = {
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",
+  timeout: 300,
   helpNotes: [
     "an apply naming no change lands the edits already kept beside this agent's page.",
     "an apply naming a change answers that change first, then lands every edit kept, and `measure` measures that landing rather than landing it.",
