@@ -15,6 +15,8 @@ import {
 
 export const SETTLE_MS = 250
 
+export const ENDING_GRACE_MS = 10_000
+
 export type WatchLogger = (level: "INFO" | "ERROR", message: string) => undefined
 
 export type WatchedReadout = {
@@ -37,6 +39,8 @@ export type Carried = (
   fallsPerHour: number
 ) => Promise<undefined>
 
+export type Beat = (silent: ReadonlySet<string>, at: Date) => undefined
+
 export type WatchSetup = {
   readonly root: string
   readonly watched: readonly WatchedReadout[]
@@ -46,6 +50,8 @@ export type WatchSetup = {
   readonly kept?: Kept
   readonly carried?: Carried
   readonly settleMs?: number
+  readonly beat?: Beat
+  readonly endingGraceMs?: number
 }
 
 export type Taking = {
@@ -53,10 +59,12 @@ export type Taking = {
   readonly moved: (what: readonly string[]) => undefined
   readonly indexMoved: (what: readonly string[]) => undefined
   readonly settled: () => Promise<undefined>
+  readonly stop: () => undefined
 }
 
 export type Watching = {
   readonly stop: () => undefined
+  readonly retake: () => undefined
   readonly settled: () => Promise<undefined>
   readonly unfollowed: readonly string[]
 }
@@ -104,6 +112,10 @@ export function takenSaid(page: string, value: number): string {
   return `${readoutNamedBy(page)}=${value}`
 }
 
+export function unbeatenSaid(thrown: unknown): string {
+  return `the round of takes landed and saying so did not: ${saidBy(thrown)}`
+}
+
 export function carryReading(
   to: string,
   secret: string,
@@ -131,6 +143,8 @@ export function takingOf(setup: WatchSetup): Taking {
   const running = new Set<Promise<undefined>>()
   const valued = new Map<string, ReadonlySet<string>>()
   for (const one of setup.watched) valued.set(one.page, valuesRead(setup.root, one))
+  let faulted: { readonly what: unknown } | null = null
+  let ending: ReturnType<typeof setTimeout> | null = null
 
   const takeOne = async (one: WatchedReadout): Promise<undefined> => {
     if (taking.has(one.page)) {
@@ -166,15 +180,56 @@ export function takingOf(setup: WatchSetup): Taking {
     return undefined
   }
 
+  const silentIn = (): ReadonlySet<string> => {
+    const held = new Set<string>()
+    for (const one of setup.watched) {
+      if (typeof before.get(one.page) !== "number") held.add(one.page)
+    }
+    return held
+  }
+
+  const beat = (): undefined => {
+    const say = setup.beat
+    if (say === undefined) return undefined
+    try {
+      say(silentIn(), new Date())
+    } catch (what) {
+      setup.said("ERROR", unbeatenSaid(what))
+    }
+    return undefined
+  }
+
+  const end = (): undefined => {
+    const held = faulted
+    if (held === null) return undefined
+    faulted = null
+    if (ending !== null) {
+      clearTimeout(ending)
+      ending = null
+    }
+    setup.ended(held.what)
+    return undefined
+  }
+
+  const drained = (): undefined => {
+    if (running.size > 0) return undefined
+    if (faulted !== null) return end()
+    return beat()
+  }
+
   const run = (one: WatchedReadout): undefined => {
     const held: Promise<undefined> = takeOne(one)
-      .catch((thrown: unknown): undefined => {
-        setup.said("ERROR", saidBy(thrown))
-        setup.ended(thrown)
+      .catch((what: unknown): undefined => {
+        setup.said("ERROR", saidBy(what))
+        if (faulted === null) {
+          faulted = { what }
+          ending = setTimeout(end, setup.endingGraceMs ?? ENDING_GRACE_MS)
+        }
         return undefined
       })
       .then((): undefined => {
         running.delete(held)
+        drained()
         return undefined
       })
     running.add(held)
@@ -199,6 +254,13 @@ export function takingOf(setup: WatchSetup): Taking {
     },
     settled: async (): Promise<undefined> => {
       while (running.size > 0) await Promise.all([...running])
+      return undefined
+    },
+    stop: (): undefined => {
+      if (ending !== null) {
+        clearTimeout(ending)
+        ending = null
+      }
       return undefined
     },
   }
@@ -230,8 +292,10 @@ export function watchReadings(setup: WatchSetup): Watching {
     stop: (): undefined => {
       following.stop()
       indexed?.stop()
+      taking.stop()
       return undefined
     },
+    retake: taking.open,
     settled: taking.settled,
     unfollowed,
   }

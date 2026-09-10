@@ -1,7 +1,10 @@
 import {
+  dropUncommitted,
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+
+export const WENT_SILENT_AT = "wentSilentAt"
 
 const LAST_VALUE = "lastValue"
 
@@ -58,6 +61,38 @@ export function readingOn(values: Readonly<Record<string, unknown>>): Reading | 
   const at = values[LAST_VALUE_AT]
   if (typeof value !== "number" || typeof at !== "string") return null
   return { value, at, fallsPerHour: fallsPerHourOn(values) }
+}
+
+export function wentSilentAtOn(values: Readonly<Record<string, unknown>>): string | null {
+  const held = values[WENT_SILENT_AT]
+  return typeof held === "string" ? held : null
+}
+
+export function wentSilentAtKept(root: string, page: string): string | null {
+  const held = uncommittedIn(root, page)
+  return held === null ? null : wentSilentAtOn(held)
+}
+
+export function keepSilence(
+  root: string,
+  pages: readonly string[],
+  silent: ReadonlySet<string>,
+  at: Date
+): readonly string[] {
+  const wrote: string[] = []
+  for (const page of pages) {
+    const since = wentSilentAtKept(root, page)
+    if (silent.has(page)) {
+      if (since !== null) continue
+      mergeUncommitted(root, page, { [WENT_SILENT_AT]: at.toISOString() })
+      wrote.push(page)
+      continue
+    }
+    if (since === null) continue
+    dropUncommitted(root, page, [WENT_SILENT_AT])
+    wrote.push(page)
+  }
+  return wrote
 }
 
 export function readingAged(kept: Reading, now: Date): number {

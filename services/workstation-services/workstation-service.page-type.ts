@@ -11,6 +11,7 @@ export const workstationService = {
   parts: [
     "module/file-following",
     "module/service-alerting",
+    "module/service-beating",
     "module/service-health",
     "module/service-installing",
     "module/service-reaching",
@@ -25,6 +26,7 @@ export const workstationService = {
     "boolean-property/needs-secrets",
     "boolean-property/well",
     "instant-property/looked-at",
+    "instant-property/worked-at",
     "number-property/accuracy-seconds",
     "number-property/jitter-seconds",
     "number-property/port",
@@ -33,6 +35,7 @@ export const workstationService = {
     "number-property/start-limit-interval-seconds",
     "number-property/start-timeout-seconds",
     "number-property/success-exit-status",
+    "number-property/works-within-seconds",
     "record-property/systemd",
     "text-property/after",
     "text-property/binds",
@@ -54,6 +57,7 @@ export const workstationService = {
     { pageProperty: "boolean-property/needs-secrets", required: false, many: false },
     { pageProperty: "number-property/port", required: false, many: false },
     { pageProperty: "text-property/binds", required: false, many: true, maxCount: null },
+    { pageProperty: "number-property/works-within-seconds", required: false, many: false },
     {
       pageProperty: "text-property/unbound",
       required: false,
@@ -69,6 +73,12 @@ export const workstationService = {
     },
     {
       pageProperty: "instant-property/looked-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "instant-property/worked-at",
       required: false,
       many: false,
       uncommitted: true,
@@ -132,6 +142,24 @@ export const workstationService = {
     {
       invariantKind: "departure",
       statement: "A service publishing a host name it could not bind is broken.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A service whose work lands in rounds publishes beside its page when a round last landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service says on its page how long it may go without a round landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service going longer than that without a round landing is broken.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A moment saying work landed is evidence of work rather than evidence of a process.",
     },
     {
       invariantKind: "gap",

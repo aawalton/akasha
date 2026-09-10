@@ -42,6 +42,7 @@ function setupOf(one: Partial<WatchSetup> & { readonly watched: readonly Watched
   const ends: unknown[] = []
   const written: (readonly [string, number])[] = []
   const carriedTo: string[] = []
+  const beats: (readonly string[])[] = []
   const setup: WatchSetup = {
     root: ROOT,
     said: (level, message): undefined => {
@@ -61,14 +62,36 @@ function setupOf(one: Partial<WatchSetup> & { readonly watched: readonly Watched
       carriedTo.push(to)
       return Promise.resolve(undefined)
     },
+    beat: (silent): undefined => {
+      beats.push([...silent].sort())
+      return undefined
+    },
     ...one,
   }
-  return { said, ends, written, carriedTo, taking: takingOf(setup) }
+  return { said, ends, written, carriedTo, beats, taking: takingOf(setup) }
 }
 
 async function idle(): Promise<undefined> {
   for (let turn = 0; turn < 12; turn += 1) await Promise.resolve()
   return undefined
+}
+
+function after(ms: number): Promise<undefined> {
+  return new Promise<undefined>((keep) => {
+    setTimeout(() => keep(undefined), ms)
+  })
+}
+
+type Gate = (value: number | null) => undefined
+
+function gatedOf(gates: Gate[]): (now: Date) => Promise<number | null> {
+  return () =>
+    new Promise<number | null>((keep) => {
+      gates.push((value): undefined => {
+        keep(value)
+        return undefined
+      })
+    })
 }
 
 test("the folders every watched readout reads are gathered into one set", () => {
@@ -270,6 +293,119 @@ test("a value moving takes a readout no moved file would have taken", async () =
   held.taking.indexMoved([valueFileOf(ROOT, FOOD)])
   await held.taking.settled()
   expect(takes).toBe(2)
+})
+
+test("a take that throws costs its own reading rather than the readings beside it", async () => {
+  const thrown = new Error("the tracking day could not be read")
+  const gates: Gate[] = []
+  const held = setupOf({
+    watched: [
+      watchedOf(() => Promise.reject(thrown)),
+      { ...watchedOf(gatedOf(gates)), page: OTHER_PAGE },
+    ],
+  })
+  held.taking.open()
+  await idle()
+  expect(held.ends).toEqual([])
+  expect(held.written).toEqual([])
+  gates[0]?.(11)
+  await held.taking.settled()
+  expect(held.written).toEqual([[OTHER_PAGE, 11]])
+  expect(held.ends).toEqual([thrown])
+})
+
+test("the run ends at the grace where a take beside a thrown one has not settled", async () => {
+  const thrown = new Error("the tracking day could not be read")
+  const gates: Gate[] = []
+  const held = setupOf({
+    watched: [
+      watchedOf(() => Promise.reject(thrown)),
+      { ...watchedOf(gatedOf(gates)), page: OTHER_PAGE },
+    ],
+    endingGraceMs: 5,
+  })
+  held.taking.open()
+  await idle()
+  expect(held.ends).toEqual([])
+  await after(40)
+  expect(held.ends).toEqual([thrown])
+  held.taking.stop()
+})
+
+test("the first take to throw is the one the ending is handed", async () => {
+  const first = new Error("the first take")
+  const second = new Error("the second take")
+  const held = setupOf({
+    watched: [
+      watchedOf(() => Promise.reject(first)),
+      { ...watchedOf(() => Promise.reject(second)), page: OTHER_PAGE },
+    ],
+  })
+  held.taking.open()
+  await held.taking.settled()
+  expect(held.ends).toEqual([first])
+})
+
+test("a round of takes that all settled leaves the watch saying the round landed", async () => {
+  const held = setupOf({ watched: [watchedOf(() => Promise.resolve(4))] })
+  held.taking.open()
+  await held.taking.settled()
+  expect(held.beats).toEqual([[]])
+})
+
+test("the readouts that answered nothing are named with the round that landed", async () => {
+  const held = setupOf({
+    watched: [
+      watchedOf(() => Promise.resolve(4)),
+      { ...watchedOf(() => Promise.resolve(null)), page: OTHER_PAGE },
+    ],
+  })
+  held.taking.open()
+  await held.taking.settled()
+  expect(held.beats).toEqual([[OTHER_PAGE]])
+})
+
+test("a readout answering a number and then nothing is named as answering nothing", async () => {
+  let takes = 0
+  const held = setupOf({
+    watched: [
+      watchedOf(() => {
+        takes += 1
+        return Promise.resolve(takes === 1 ? 4 : null)
+      }),
+    ],
+  })
+  held.taking.open()
+  await held.taking.settled()
+  held.taking.moved([MADE_OF])
+  await held.taking.settled()
+  expect(held.beats).toEqual([[], [PAGE]])
+})
+
+test("a round in which any take threw leaves the watch saying nothing", async () => {
+  const held = setupOf({
+    watched: [
+      watchedOf(() => Promise.resolve(4)),
+      { ...watchedOf(() => Promise.reject(new Error("no day"))), page: OTHER_PAGE },
+    ],
+  })
+  held.taking.open()
+  await held.taking.settled()
+  expect(held.beats).toEqual([])
+  expect(held.ends.length).toBe(1)
+})
+
+test("saying a round landed that itself throws is said rather than ending the run", async () => {
+  const held = setupOf({
+    watched: [watchedOf(() => Promise.resolve(4))],
+    beat: (): undefined => {
+      throw new Error("the lock would not open")
+    },
+  })
+  held.taking.open()
+  await held.taking.settled()
+  expect(held.ends).toEqual([])
+  expect(held.said.some((one) => one.includes("the lock would not open"))).toBe(true)
 })
 
 test("nothing is carried where no relay secret is stated", async () => {

@@ -10,6 +10,7 @@ export const readout = {
   parts: [
     "boolean-property/readout-enabled",
     "instant-property/last-value-at",
+    "instant-property/went-silent-at",
     "number-property/last-value",
     "number-property/last-value-falls-per-hour",
     "number-property/place",
@@ -83,6 +84,12 @@ export const readout = {
       many: false,
       uncommitted: true,
     },
+    {
+      pageProperty: "instant-property/went-silent-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   invariants: [
     {
@@ -135,6 +142,14 @@ export const readout = {
     {
       invariantKind: "departure",
       statement: "The reading a readout last took is carried outside the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout answering nothing carries when it began to, outside the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout answering nothing keeps the reading it last took.",
     },
     {
       invariantKind: "gap",

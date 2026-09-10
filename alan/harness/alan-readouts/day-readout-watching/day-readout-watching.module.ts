@@ -113,8 +113,41 @@ export const dayReadoutWatching = {
       statement: "Nothing here dispatches a change to a readout.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every readout here is taken again on a beat as well as when its files move.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The beat is there so a round landing says the watch is alive and working.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round that landed writes the moment beside this watch's own service page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That moment is written after the readouts answering nothing are written.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A readout answering nothing carries the moment it began to, beside the readout itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is written for a readout whose answering is what it already was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A beat writes one moment however many readouts the watch has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take on the beat that finds the value before it writes no reading.",
+    },
+    {
       invariantKind: "absence",
-      statement: "No readout here is taken on a beat.",
+      statement: "No reading here is shown or withheld for how old that reading is.",
     },
   ],
 } as const satisfies Module

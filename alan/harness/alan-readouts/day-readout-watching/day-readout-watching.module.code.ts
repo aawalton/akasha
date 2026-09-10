@@ -8,6 +8,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { keepSilence } from "akasha/readouts/reading/readout-reading.module.code.ts"
 import {
   SETTLE_MS,
   type WatchedReadout,
@@ -16,6 +17,7 @@ import {
   watchReadings,
 } from "akasha/readouts/watching/readout-watching.module.code.ts"
 import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
+import { keepBeat } from "akasha/services/workstation-services/service-beating/service-beating.module.code.ts"
 import { DAY_PAGE_TYPE } from "../../../track/daily/day-place/day-place.module.code.ts"
 import {
   CHARISMA_PAGE,
@@ -60,6 +62,11 @@ export const JENNY_SITE = "https://smilingjenny.me"
 export const ROLL_GRACE_MS = 5_000
 
 export const ROLL_NO_SOONER_MS = 60_000
+
+export const BEAT_MS = 5 * 60_000
+
+export const WATCH_PAGE =
+  "alan/harness/alan-readouts/day-readout-watch-service/day-readout-watch-service.workstation-service.ts"
 
 const BOTH_SITES: readonly string[] = [ALAN_SITE, JENNY_SITE]
 
@@ -228,15 +235,33 @@ export function watchDayReadings(
 ): () => undefined {
   const root = rootFor(resolveRoots(), AKASHA)
   let day = getEsoDayStr(new Date())
-  let running: Watching = watchReadings({ root, watched: dayReadouts(root, day), said, ended })
+  let watched = dayReadouts(root, day)
+
+  const beat = (silent: ReadonlySet<string>, at: Date): undefined => {
+    keepSilence(
+      root,
+      watched.map((one) => one.page),
+      silent,
+      at
+    )
+    keepBeat(root, WATCH_PAGE, at)
+    return undefined
+  }
+
+  let running: Watching = watchReadings({ root, watched, said, ended, beat })
   let rolling: ReturnType<typeof setTimeout> | null = null
+  const beating = setInterval((): undefined => {
+    running.retake()
+    return undefined
+  }, BEAT_MS)
 
   const renew = (): undefined => {
     const opened = getEsoDayStr(new Date())
     if (opened === day && running.unfollowed.length === 0) return undefined
     day = opened
     running.stop()
-    running = watchReadings({ root, watched: dayReadouts(root, day), said, ended })
+    watched = dayReadouts(root, day)
+    running = watchReadings({ root, watched, said, ended, beat })
     said("INFO", `the readings are taken off ${day} from here on`)
     return undefined
   }
@@ -266,6 +291,7 @@ export function watchDayReadings(
 
   return (): undefined => {
     if (rolling !== null) clearTimeout(rolling)
+    clearInterval(beating)
     following.stop()
     running.stop()
     return undefined

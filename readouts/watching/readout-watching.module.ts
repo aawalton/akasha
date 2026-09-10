@@ -127,7 +127,47 @@ export const readoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A take that throws is said and ends the run.",
+      statement: "A take that throws is said, and ends the run once the takes beside it settle.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take that throws costs its own reading rather than the readings beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The run ends at the grace where the takes beside a thrown take have not settled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first take to throw is the one the ending is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round of takes that all settled leaves the watch saying the round landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round in which any take threw leaves the watch saying nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The readouts that answered nothing are named with the round that landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout whose last take answered a number is not among them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout the watch has taken no time yet is among them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Saying a round landed that itself throws is said rather than ending the run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every watched readout is taken again on being asked rather than on a beat here.",
     },
     {
       invariantKind: "departure",
@@ -144,6 +184,14 @@ export const readoutWatching = {
     {
       invariantKind: "absence",
       statement: "Nothing here waits on a beat.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes what a round that landed leaves published.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here judges how long a readout may answer nothing.",
     },
     {
       invariantKind: "absence",

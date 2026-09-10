@@ -19,6 +19,7 @@ import type { ReadLiveFrom } from "./properties/read-live-from.relation-property
 import type { ReadoutEnabled } from "./properties/readout-enabled.boolean-property.ts"
 import type { Scale } from "./properties/scale.relation-property.ts"
 import type { Unit } from "./properties/unit.text-property.ts"
+import type { WentSilentAt } from "./properties/went-silent-at.instant-property.ts"
 import type { WireKey } from "./properties/wire-key.text-property.ts"
 
 export type Readout = Module & {
@@ -43,4 +44,5 @@ export type Readout = Module & {
   lastValue?: LastValue
   lastValueAt?: LastValueAt
   lastValueFallsPerHour?: LastValueFallsPerHour
+  wentSilentAt?: WentSilentAt
 }

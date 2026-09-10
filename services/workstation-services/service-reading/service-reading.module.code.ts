@@ -60,6 +60,7 @@ export function serviceIn(value: Value): WorkstationService | null {
   const systemd = systemdIn(value)
   const needsSecrets = value.needsSecrets
   const port = value.port
+  const worksWithinSeconds = value.worksWithinSeconds
   return {
     id,
     pageTypeSlug: SERVICE_PAGE_TYPE,
@@ -70,6 +71,7 @@ export function serviceIn(value: Value): WorkstationService | null {
     ...(systemd === undefined ? {} : { systemd }),
     ...(typeof needsSecrets === "boolean" ? { needsSecrets } : {}),
     ...(typeof port === "number" ? { port } : {}),
+    ...(typeof worksWithinSeconds === "number" ? { worksWithinSeconds } : {}),
   }
 }
 

@@ -34,6 +34,26 @@ export const serviceHealth = {
     },
     {
       invariantKind: "departure",
+      statement: "A service is judged by a round of its work only where its page states a window.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service going longer than its window without a round landing is broken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service stating a window and having landed no round at all is broken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round overdue is broken whether or not that service is scheduled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round overdue is broken though systemd calls the unit active or activating.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A scheduled service resting between its runs is well.",
     },
     {

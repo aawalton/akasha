@@ -65,6 +65,31 @@ export const readoutReading = {
     {
       invariantKind: "departure",
       statement:
+        "A readout whose take answered nothing carries the moment it began answering nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout whose take answered a number carries no such moment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout answering nothing again leaves that moment where it already was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That moment is taken away rather than blanked when a number is answered again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is written for a readout whose answering is what it already was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key that moment is carried under is named here alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A reading in the file with one half alone is refused rather than read as no reading.",
     },
     {

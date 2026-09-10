@@ -1,11 +1,27 @@
 import { afterAll, expect, test } from "bun:test"
-import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import {
+  mergeUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
-import { keepReading, readingAged, readingKept, readingOn } from "./readout-reading.module.code.ts"
+import {
+  keepReading,
+  keepSilence,
+  readingAged,
+  readingKept,
+  readingOn,
+  WENT_SILENT_AT,
+  wentSilentAtKept,
+  wentSilentAtOn,
+} from "./readout-reading.module.code.ts"
 
 const PAGE = "readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
 
+const OTHER = "readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
+
 const TAKEN = "2026-08-31T12:00:00.000Z"
+
+const LATER = "2026-08-31T12:05:00.000Z"
 
 const scratch = scratchWorld()
 
@@ -104,4 +120,57 @@ test("values carrying neither half carry no reading", () => {
 test("values carrying one half alone carry no reading", () => {
   expect(readingOn({ lastValue: 19 })).toBeNull()
   expect(readingOn({ lastValueAt: TAKEN })).toBeNull()
+})
+
+test("the key the moment of silence is carried under is named here alone", () => {
+  expect(WENT_SILENT_AT).toBe("wentSilentAt")
+  expect(wentSilentAtOn({ [WENT_SILENT_AT]: TAKEN })).toBe(TAKEN)
+  expect(wentSilentAtOn({ [WENT_SILENT_AT]: 7 })).toBeNull()
+  expect(wentSilentAtOn({})).toBeNull()
+})
+
+test("a readout that answered nothing carries when it began answering nothing", () => {
+  const root = scratch.rootFor("readout-silence-")
+  expect(keepSilence(root, [PAGE], new Set([PAGE]), new Date(TAKEN))).toEqual([PAGE])
+  expect(wentSilentAtKept(root, PAGE)).toBe(TAKEN)
+})
+
+test("a readout that answered a number carries no such moment", () => {
+  const root = scratch.rootFor("readout-silence-")
+  expect(keepSilence(root, [PAGE], new Set(), new Date(TAKEN))).toEqual([])
+  expect(wentSilentAtKept(root, PAGE)).toBeNull()
+})
+
+test("a readout answering nothing again leaves that moment where it already was", () => {
+  const root = scratch.rootFor("readout-silence-")
+  keepSilence(root, [PAGE], new Set([PAGE]), new Date(TAKEN))
+  expect(keepSilence(root, [PAGE], new Set([PAGE]), new Date(LATER))).toEqual([])
+  expect(wentSilentAtKept(root, PAGE)).toBe(TAKEN)
+})
+
+test("that moment is taken away by the take that answers a number again", () => {
+  const root = scratch.rootFor("readout-silence-")
+  keepReading(root, PAGE, 19, new Date(TAKEN))
+  keepSilence(root, [PAGE], new Set([PAGE]), new Date(TAKEN))
+  expect(keepSilence(root, [PAGE], new Set(), new Date(LATER))).toEqual([PAGE])
+  expect(wentSilentAtKept(root, PAGE)).toBeNull()
+  expect(readingKept(root, PAGE)?.value).toBe(19)
+})
+
+test("one readout answering nothing leaves the readouts beside it carrying nothing", () => {
+  const root = scratch.rootFor("readout-silence-")
+  keepSilence(root, [PAGE, OTHER], new Set([OTHER]), new Date(TAKEN))
+  expect(wentSilentAtKept(root, PAGE)).toBeNull()
+  expect(wentSilentAtKept(root, OTHER)).toBe(TAKEN)
+})
+
+test("the moment of silence sits beside the reading rather than replacing it", () => {
+  const root = scratch.rootFor("readout-silence-")
+  keepReading(root, PAGE, 19, new Date(TAKEN))
+  keepSilence(root, [PAGE], new Set([PAGE]), new Date(LATER))
+  expect(uncommittedIn(root, PAGE)).toEqual({
+    lastValue: 19,
+    lastValueAt: TAKEN,
+    [WENT_SILENT_AT]: LATER,
+  })
 })

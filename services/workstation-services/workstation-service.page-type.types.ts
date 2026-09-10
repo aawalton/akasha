@@ -8,6 +8,8 @@ import type { Runs } from "./properties/runs.text-property.ts"
 import type { Systemd } from "./properties/systemd.record-property.ts"
 import type { Unbound } from "./properties/unbound.text-property.ts"
 import type { Well } from "./properties/well.boolean-property.ts"
+import type { WorkedAt } from "./properties/worked-at.instant-property.ts"
+import type { WorksWithinSeconds } from "./properties/works-within-seconds.number-property.ts"
 
 export type WorkstationService = Service & {
   runs: Runs
@@ -16,7 +18,9 @@ export type WorkstationService = Service & {
   needsSecrets?: NeedsSecrets
   port?: Port
   binds?: Binds
+  worksWithinSeconds?: WorksWithinSeconds
   unbound?: Unbound
   well?: Well
   lookedAt?: LookedAt
+  workedAt?: WorkedAt
 }

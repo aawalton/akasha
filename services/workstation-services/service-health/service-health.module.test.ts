@@ -36,11 +36,25 @@ const RUNNING: Watched = {
   pagePath: PAGE,
   scheduled: false,
   unbound: [],
+  worksWithinMs: null,
+  workedAt: null,
 }
 
 const TIMED: Watched = { ...RUNNING, scheduled: true }
 
 const REFUSED: Watched = { ...RUNNING, unbound: [OFF] }
+
+const UP = { activeState: "active", result: "success" } as const
+
+const COMING_UP = { activeState: "activating", result: "auto-restart" } as const
+
+const NOW = new Date("2026-09-10T18:10:00.000Z")
+
+const BEAT = "2026-09-10T18:05:00.000Z"
+
+const OLD_BEAT = "2026-09-10T17:30:00.000Z"
+
+const BEATS: Watched = { ...RUNNING, worksWithinMs: 900_000, workedAt: BEAT }
 
 const SHOWN =
   "Id=a.service\nActiveState=active\nResult=success\n\nId=b.service\nActiveState=failed\nResult=exit-code"
@@ -132,6 +146,65 @@ test("what a service published as unbound is carried into what is watched", () =
 
 test("a service publishing nothing unbound carries no host name", () => {
   expect(watchedIn(ROOT, [pageOf({})])[0]?.unbound).toEqual([])
+})
+
+test("a service stating no window is judged by no round of work", () => {
+  expect(brokenIn(RUNNING, UP, NOW)).toBe(null)
+  expect(brokenIn({ ...RUNNING, workedAt: OLD_BEAT }, UP, NOW)).toBe(null)
+})
+
+test("a service whose last round landed inside its window is well", () => {
+  expect(brokenIn(BEATS, UP, NOW)).toBe(null)
+})
+
+test("a service whose last round landed longer ago than its window is broken", () => {
+  const said = brokenIn({ ...BEATS, workedAt: OLD_BEAT }, UP, NOW)
+  expect(said).toContain("last said its work landed")
+  expect(said).toContain(OLD_BEAT)
+})
+
+test("a service stating a window and having landed no round at all is broken", () => {
+  expect(brokenIn({ ...BEATS, workedAt: null }, UP, NOW)).toContain("no round of its work landed")
+})
+
+test("a moment that is no instant is broken rather than read as recent", () => {
+  expect(brokenIn({ ...BEATS, workedAt: "lately" }, UP, NOW)).toContain("no moment")
+})
+
+test("a service coming up over and over without a round landing is broken", () => {
+  expect(brokenIn({ ...BEATS, workedAt: OLD_BEAT }, COMING_UP, NOW)).toContain(
+    "longer ago than the 900s it may go"
+  )
+})
+
+test("a round landing while the unit keeps coming up is well", () => {
+  expect(brokenIn(BEATS, COMING_UP, NOW)).toBe(null)
+})
+
+test("a round that has not landed is broken though that service is scheduled", () => {
+  const timed = { ...BEATS, scheduled: true, workedAt: OLD_BEAT }
+  expect(brokenIn(timed, { activeState: "inactive", result: "success" }, NOW)).toContain(
+    "last said its work landed"
+  )
+})
+
+test("the seconds a service states are read as the window it may go", () => {
+  const watched = watchedIn(ROOT, [pageOf({ worksWithinSeconds: 900 })])
+  expect(watched[0]?.worksWithinMs).toBe(900_000)
+  expect(watchedIn(ROOT, [pageOf({})])[0]?.worksWithinMs).toBe(null)
+})
+
+test("a moment published beside a service page is carried into what is watched", () => {
+  const root = mkdtempSync("/var/tmp/service-health-beat-")
+  try {
+    keepUncommitted(root, PAGE, { workedAt: OLD_BEAT })
+    const watched = watchedIn(root, [pageOf({ worksWithinSeconds: 900 })])
+    expect(watched[0]?.workedAt).toBe(OLD_BEAT)
+    const states = statesIn("Id=held-service.service\nActiveState=active")
+    expect(healthIn(watched, states, NOW)[0]?.broken).toContain("last said its work landed")
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
 })
 
 test("the services there today are read, and what systemd is asked is what they are installed as", () => {

@@ -9,6 +9,7 @@ export const dayReadoutWatchService = {
   runs: ["bun alan/harness/alan-readouts/day-readout-watching/day-readout-watching.module.code.ts"],
   enabled: true,
   needsSecrets: true,
+  worksWithinSeconds: 900,
   systemd: {
     restart: "on-failure",
     restartDelaySeconds: 5,
@@ -22,6 +23,22 @@ export const dayReadoutWatchService = {
     {
       invariantKind: "departure",
       statement: "Repeated starts are counted over no window.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A round of takes landing is what says this watch is working.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The window holds three beats, so two missed rounds are not yet broken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A watch that starts over and over without a round landing reads as broken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A watch left again on a file changing lands a round and reads as well.",
     },
     {
       invariantKind: "departure",
