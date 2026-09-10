@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type WeightFunctionality = number
-
 export const weightFunctionality = {
   id: "01a06865-7f45-7940-abd7-09b6c5b199ce",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const weightFunctionality = {
   propertySlug: "weight-functionality",
   definition: "how much moving well counts when a movement is weighed",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

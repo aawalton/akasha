@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ErrorCount = number
-
 export const errorCount = {
   id: "01a05f3f-e3e0-79b8-92d7-8141ecd449e9",
   pageTypeSlug: "number-property",
@@ -32,4 +30,5 @@ export const errorCount = {
       statement: "A report arriving while another report raises the count is lost.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

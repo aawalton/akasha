@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type SpeedMps = number
-
 export const speedMps = {
   id: "01a06935-68b5-7fcb-aea6-a3c534c1c03b",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const speedMps = {
   propertySlug: "speed-mps",
   definition: "how fast the device was moving, in metres a second",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

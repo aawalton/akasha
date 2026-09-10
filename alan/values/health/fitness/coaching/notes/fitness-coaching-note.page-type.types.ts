@@ -3,7 +3,7 @@ import type { Title } from "../../../../../../pages/properties/title.text-proper
 import type { FitnessCoachingNoteActive } from "./properties/fitness-coaching-note-active.boolean-property.types.ts"
 import type { FitnessCoachingNoteDate } from "./properties/fitness-coaching-note-date.calendar-date-property.types.ts"
 import type { FitnessCoachingNoteKind } from "./properties/fitness-coaching-note-kind.select-property.types.ts"
-import type { FitnessCoachingNoteSortOrder } from "./properties/fitness-coaching-note-sort-order.number-property.ts"
+import type { FitnessCoachingNoteSortOrder } from "./properties/fitness-coaching-note-sort-order.number-property.types.ts"
 import type { FocusTags } from "./properties/focus-tags.select-property.types.ts"
 import type { Says } from "./properties/says.file-property.ts"
 

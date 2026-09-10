@@ -1,0 +1,1 @@
+export type GbwwReadingNumber = number

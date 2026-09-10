@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type PageCount = number
-
 export const pageCount = {
   id: "01a06741-dd0f-7005-b740-1e4345152777",
   pageTypeSlug: "number-property",
@@ -20,4 +18,5 @@ export const pageCount = {
       statement: "No length counted in words is read off a page count.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

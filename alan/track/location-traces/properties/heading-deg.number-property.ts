@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type HeadingDeg = number
-
 export const headingDeg = {
   id: "01a06935-68b4-7370-a96d-a05e0ee03b6d",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const headingDeg = {
   propertySlug: "heading-deg",
   definition: "which way the device was moving, in degrees clockwise from north",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

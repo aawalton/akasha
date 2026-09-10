@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type YellowAt = number
-
 export const yellowAt = {
   id: "01a0544e-f1f3-789d-8800-4f003a1e21c9",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const yellowAt = {
   propertySlug: "yellow-at",
   definition: "the reading at which a scale turns yellow",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

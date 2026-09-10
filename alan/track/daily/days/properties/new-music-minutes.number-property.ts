@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type NewMusicMinutes = number
-
 export const newMusicMinutes = {
   id: "01a06240-340f-7006-a08a-3236a3341467",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const newMusicMinutes = {
       statement: "A play that is no first listen scores no new music minutes.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

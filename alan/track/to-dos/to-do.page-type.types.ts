@@ -10,7 +10,7 @@ import type { ToDoDueDate } from "./properties/to-do-due-date.calendar-date-prop
 import type { ToDoLastCompletedAt } from "./properties/to-do-last-completed-at.instant-property.types.ts"
 import type { ToDoPriority } from "./properties/to-do-priority.select-property.types.ts"
 import type { ToDoRecurrence } from "./properties/to-do-recurrence.text-property.ts"
-import type { ToDoSortOrder } from "./properties/to-do-sort-order.number-property.ts"
+import type { ToDoSortOrder } from "./properties/to-do-sort-order.number-property.types.ts"
 import type { ToDoValue } from "./properties/to-do-value.relation-property.ts"
 import type { WhatItTakes } from "./properties/what-it-takes.file-property.ts"
 

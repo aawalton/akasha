@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type OwnLength = number
-
 export const ownLength = {
   id: "01a06553-4713-7000-832b-753158e3fec9",
   pageTypeSlug: "number-property",
@@ -17,4 +15,5 @@ export const ownLength = {
         "A length is the collection's own rather than the sum of the parts that collection has.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

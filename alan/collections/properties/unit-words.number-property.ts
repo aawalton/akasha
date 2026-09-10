@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type UnitWords = number
-
 export const unitWords = {
   id: "01a06959-98a7-7ec0-bc21-02de65c2abf5",
   pageTypeSlug: "number-property",
@@ -34,4 +32,5 @@ export const unitWords = {
       statement: "A formula cannot yet read a property off the page a relation reaches.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

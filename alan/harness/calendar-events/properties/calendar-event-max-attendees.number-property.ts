@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CalendarEventMaxAttendees = number
-
 export const calendarEventMaxAttendees = {
   id: "01a06868-aec4-74dc-ba62-1808b5194318",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const calendarEventMaxAttendees = {
   propertySlug: "max-attendees",
   definition: "the most people an event takes",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

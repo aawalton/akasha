@@ -1,7 +1,4 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type EquipmentLoads = List<number>
 
 export const equipmentLoads = {
   id: "01a06865-7f45-7d1f-b0db-1e4af78cdf9c",
@@ -25,4 +22,5 @@ export const equipmentLoads = {
       statement: "A load is the weight one side carries rather than the weight the pair has.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

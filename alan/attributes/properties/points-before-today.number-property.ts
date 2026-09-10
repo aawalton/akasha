@@ -1,7 +1,5 @@
 import type { NumberProperty } from "../../../pages/number-properties/number-property.page-type.types.ts"
 
-export type PointsBeforeToday = number
-
 export const pointsBeforeToday = {
   id: "01a08205-3006-72d5-930b-892c6e875b17",
   pageTypeSlug: "number-property",
@@ -24,4 +22,5 @@ export const pointsBeforeToday = {
       statement: "A rebuild alone moves this figure on.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

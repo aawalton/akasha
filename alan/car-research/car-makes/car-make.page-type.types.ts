@@ -3,7 +3,7 @@ import type { ChargingNetworkAccess } from "./properties/charging-network-access
 import type { Country } from "./properties/country.text-property.ts"
 import type { DrmPolicy } from "./properties/drm-policy.text-property.ts"
 import type { ElectrificationStrategy } from "./properties/electrification-strategy.text-property.ts"
-import type { FoundingYear } from "./properties/founding-year.number-property.ts"
+import type { FoundingYear } from "./properties/founding-year.number-property.types.ts"
 import type { KillSwitchPolicy } from "./properties/kill-switch-policy.text-property.ts"
 import type { NacsAdoption } from "./properties/nacs-adoption.text-property.ts"
 import type { ParentCorporation } from "./properties/parent-corporation.text-property.ts"

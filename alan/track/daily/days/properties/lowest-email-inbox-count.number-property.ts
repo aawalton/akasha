@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type LowestEmailInboxCount = number
-
 export const lowestEmailInboxCount = {
   id: "01a06828-59d2-7157-9085-6ef017a64ed4",
   pageTypeSlug: "number-property",
@@ -37,4 +35,5 @@ export const lowestEmailInboxCount = {
       statement: "A lowest inbox count is captured by trace.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

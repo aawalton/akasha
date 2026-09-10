@@ -1,0 +1,1 @@
+export type NutritionPoints = number

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ConnectionActivitySeq = number
-
 export const connectionActivitySeq = {
   id: "01a0658e-c30e-7dff-a22d-3fe7c89f2028",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const connectionActivitySeq = {
   propertySlug: "connection-activity-seq",
   definition: "where this activity is in the order they are listed",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

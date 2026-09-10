@@ -4,7 +4,7 @@ import type { Genres } from "../properties/genres.text-property.ts"
 import type { ImdbId } from "../properties/imdb-id.text-property.ts"
 import type { PosterPath } from "../properties/poster-path.text-property.ts"
 import type { ProductionStatus } from "../properties/production-status.select-property.types.ts"
-import type { VoteAverage } from "../properties/vote-average.number-property.ts"
+import type { VoteAverage } from "../properties/vote-average.number-property.types.ts"
 
 export type Movie = CollectionExternal & {
   title: Title

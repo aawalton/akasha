@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type DurationMs = number
-
 export const durationMs = {
   id: "01a06861-f664-78b6-bf59-b910c14b945d",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const durationMs = {
   propertySlug: "duration-ms",
   definition: "how long a pull took, in milliseconds",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

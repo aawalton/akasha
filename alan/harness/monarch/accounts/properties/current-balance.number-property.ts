@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CurrentBalance = number
-
 export const currentBalance = {
   id: "01a0680a-1a00-7003-ab52-6d3f8c9a1104",
   pageTypeSlug: "number-property",
@@ -21,4 +19,5 @@ export const currentBalance = {
         "A balance is the figure the sync last read rather than the figure any row sums to.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

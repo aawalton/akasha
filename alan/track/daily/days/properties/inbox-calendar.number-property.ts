@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type InboxCalendar = number
-
 export const inboxCalendar = {
   id: "01a05fd8-c30f-7a59-9f28-a980a25644ee",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const inboxCalendar = {
   propertySlug: "inbox-calendar",
   definition: "the invitations left unanswered at the end of a day",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

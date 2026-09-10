@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type OwnProgress = number
-
 export const ownProgress = {
   id: "01a06553-4713-7001-b03b-f1f7f97f1aa8",
   pageTypeSlug: "number-property",
@@ -17,4 +15,5 @@ export const ownProgress = {
         "Progress is read against the collection's own length rather than against its parts.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

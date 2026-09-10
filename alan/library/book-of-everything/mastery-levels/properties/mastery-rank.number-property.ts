@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type MasteryRank = number
-
 export const masteryRank = {
   id: "01a0784a-cdba-7793-b19f-df140bde480c",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const masteryRank = {
       statement: "The arithmetic folding a topic's coverage reads this number.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

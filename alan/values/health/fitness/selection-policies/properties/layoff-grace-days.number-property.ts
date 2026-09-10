@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type LayoffGraceDays = number
-
 export const layoffGraceDays = {
   id: "01a06865-7f45-7c7b-a9b1-bb749191fdbd",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const layoffGraceDays = {
   propertySlug: "layoff-grace-days",
   definition: "how many days off a movement takes before its load is cut at all",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

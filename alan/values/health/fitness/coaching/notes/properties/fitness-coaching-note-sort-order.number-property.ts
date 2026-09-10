@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type FitnessCoachingNoteSortOrder = number
-
 export const fitnessCoachingNoteSortOrder = {
   id: "01a0657a-fe00-7033-a6a0-27db2cfe8791",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const fitnessCoachingNoteSortOrder = {
   propertySlug: "sort-order",
   definition: "where a note sits when they are read as a list",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

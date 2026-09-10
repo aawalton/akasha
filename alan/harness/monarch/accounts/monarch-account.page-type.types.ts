@@ -4,7 +4,7 @@ import type { AccountDisplayName } from "./properties/account-display-name.text-
 import type { AccountHidden } from "./properties/account-hidden.boolean-property.types.ts"
 import type { AccountType } from "./properties/account-type.select-property.types.ts"
 import type { Asset } from "./properties/asset.boolean-property.types.ts"
-import type { CurrentBalance } from "./properties/current-balance.number-property.ts"
+import type { CurrentBalance } from "./properties/current-balance.number-property.types.ts"
 
 export type MonarchAccount = MonarchRecord & {
   accountDisplayName: AccountDisplayName

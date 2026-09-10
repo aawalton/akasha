@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ToDoSortOrder = number
-
 export const toDoSortOrder = {
   id: "01a065a1-49b7-786c-882a-8a97ac2930ad",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const toDoSortOrder = {
   propertySlug: "to-do-sort-order",
   definition: "where a to-do sits among the others Alan is shown",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

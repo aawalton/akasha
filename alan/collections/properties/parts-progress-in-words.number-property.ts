@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type PartsProgressInWords = number
-
 export const partsProgressInWords = {
   id: "01a06959-98a7-7e83-8ec2-6370d810f6b3",
   pageTypeSlug: "number-property",
@@ -25,4 +23,5 @@ export const partsProgressInWords = {
       statement: "A formula cannot yet add a property up over the pages a relation reaches.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "../../../pages/number-properties/number-property.page-type.types.ts"
 
-export type PointsTotal = number
-
 export const pointsTotal = {
   id: "01a081cb-66ae-7cee-8e11-431ab034165b",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const pointsTotal = {
       statement: "This figure is kept rather than added up wherever the figure is read.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

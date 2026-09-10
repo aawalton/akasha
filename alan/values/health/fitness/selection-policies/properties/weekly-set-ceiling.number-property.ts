@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type WeeklySetCeiling = number
-
 export const weeklySetCeiling = {
   id: "01a06865-7f46-7c19-ad85-e0ddc6bf4bda",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const weeklySetCeiling = {
   propertySlug: "weekly-set-ceiling",
   definition: "how many sets a week a muscle may take before it is over-worked",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

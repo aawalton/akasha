@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type MessagesSent = number
-
 export const messagesSent = {
   id: "01a082db-9816-7ab2-b6ed-8a897a78de90",
   pageTypeSlug: "number-property",
@@ -20,4 +18,5 @@ export const messagesSent = {
       statement: "A message a persona wrote back is counted nowhere.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

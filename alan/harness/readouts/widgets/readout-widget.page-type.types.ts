@@ -1,6 +1,6 @@
 import type { Domain } from "../../../../domains/domain.page-type.types.ts"
 import type { Groups } from "../properties/groups.relation-property.ts"
-import type { Place } from "../properties/place.number-property.ts"
+import type { Place } from "../properties/place.number-property.types.ts"
 import type { App } from "./properties/app.relation-property.ts"
 import type { Caption } from "./properties/caption.text-property.ts"
 import type { Component } from "./properties/component.relation-property.ts"
@@ -11,7 +11,7 @@ import type { GalleryName } from "./properties/gallery-name.text-property.ts"
 import type { Kind } from "./properties/kind.text-property.ts"
 import type { LastTappedAt } from "./properties/last-tapped-at.instant-property.types.ts"
 import type { Opens } from "./properties/opens.text-property.ts"
-import type { Taps } from "./properties/taps.number-property.ts"
+import type { Taps } from "./properties/taps.number-property.types.ts"
 
 export type ReadoutWidget = Domain & {
   app: App

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type WisdomWords = number
-
 export const wisdomWords = {
   id: "01a0683b-dafc-75d4-8d75-4397a5661173",
   pageTypeSlug: "number-property",
@@ -21,4 +19,5 @@ export const wisdomWords = {
       statement: "No day before 2026-09-06 has this reading.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

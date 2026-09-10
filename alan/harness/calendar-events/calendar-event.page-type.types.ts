@@ -7,7 +7,7 @@ import type { CalendarEventExternalLink } from "./properties/calendar-event-exte
 import type { CalendarEventImageUrl } from "./properties/calendar-event-image-url.url-property.types.ts"
 import type { CalendarEventLastSyncedAt } from "./properties/calendar-event-last-synced-at.instant-property.types.ts"
 import type { CalendarEventLocation } from "./properties/calendar-event-location.text-property.ts"
-import type { CalendarEventMaxAttendees } from "./properties/calendar-event-max-attendees.number-property.ts"
+import type { CalendarEventMaxAttendees } from "./properties/calendar-event-max-attendees.number-property.types.ts"
 import type { CalendarEventRegistrationOpensAt } from "./properties/calendar-event-registration-opens-at.instant-property.types.ts"
 import type { CalendarEventRegistrationRequired } from "./properties/calendar-event-registration-required.boolean-property.types.ts"
 import type { CalendarEventRegistrationUrl } from "./properties/calendar-event-registration-url.url-property.types.ts"

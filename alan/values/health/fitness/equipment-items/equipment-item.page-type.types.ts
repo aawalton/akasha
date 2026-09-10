@@ -3,9 +3,9 @@ import type { Title } from "../../../../../pages/properties/title.text-property.
 import type { EquipmentAvailable } from "./properties/equipment-available.boolean-property.types.ts"
 import type { EquipmentCategory } from "./properties/equipment-category.select-property.types.ts"
 import type { EquipmentConfiguration } from "./properties/equipment-configuration.select-property.types.ts"
-import type { EquipmentLoads } from "./properties/equipment-loads.number-property.ts"
+import type { EquipmentLoads } from "./properties/equipment-loads.number-property.types.ts"
 import type { EquipmentNotes } from "./properties/equipment-notes.text-property.ts"
-import type { EquipmentSortOrder } from "./properties/equipment-sort-order.number-property.ts"
+import type { EquipmentSortOrder } from "./properties/equipment-sort-order.number-property.types.ts"
 
 export type EquipmentItem = Page & {
   title: Title

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Quantity = number
-
 export const quantity = {
   id: "01a0680a-1a00-7013-b452-9d3f7a8c1113",
   pageTypeSlug: "number-property",
@@ -16,4 +14,5 @@ export const quantity = {
       statement: "A quantity runs to fractions of a share.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

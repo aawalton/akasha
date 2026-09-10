@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type ConnectionActivityFitness = number
-
 export const connectionActivityFitness = {
   id: "01a0658e-c30e-7453-bc3a-31fbbe76d6b8",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const connectionActivityFitness = {
   propertySlug: "connection-activity-fitness",
   definition: "how fit they are",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

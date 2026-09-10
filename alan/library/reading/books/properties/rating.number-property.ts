@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Rating = number
-
 export const rating = {
   id: "01a06741-dd0f-7004-9b9b-26579c448c7b",
   pageTypeSlug: "number-property",
@@ -20,4 +18,5 @@ export const rating = {
       statement: "A book Alan has not scored states no rating.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

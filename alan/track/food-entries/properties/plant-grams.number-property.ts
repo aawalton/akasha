@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type PlantGrams = number
-
 export const plantGrams = {
   id: "01a065a3-6e8b-7b5a-a3cc-f1016adcd288",
   pageTypeSlug: "number-property",
@@ -24,4 +22,5 @@ export const plantGrams = {
       statement: "A plant grams figure is captured by judgment.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

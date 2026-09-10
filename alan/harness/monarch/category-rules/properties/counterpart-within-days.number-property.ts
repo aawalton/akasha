@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CounterpartWithinDays = number
-
 export const counterpartWithinDays = {
   id: "01a0680c-3c00-7004-9a36-5b8e2c7f3105",
   pageTypeSlug: "number-property",
@@ -25,4 +23,5 @@ export const counterpartWithinDays = {
       statement: "A window is never widened to make a pair.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CostBasis = number
-
 export const costBasis = {
   id: "01a0680a-1a00-7014-8a71-2b6d5e9f1114",
   pageTypeSlug: "number-property",
@@ -17,4 +15,5 @@ export const costBasis = {
         "A holding reports nothing paid where the account never told Monarch the cost basis.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

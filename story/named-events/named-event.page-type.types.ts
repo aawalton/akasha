@@ -1,4 +1,4 @@
-import type { Seq } from "../../alan/track/daily/days/properties/seq.number-property.ts"
+import type { Seq } from "../../alan/track/daily/days/properties/seq.number-property.types.ts"
 import type { Page } from "../../pages/page.page-type.types.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { World } from "../stories-played/properties/world.relation-property.ts"

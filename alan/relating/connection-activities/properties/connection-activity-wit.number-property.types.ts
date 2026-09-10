@@ -1,0 +1,1 @@
+export type ConnectionActivityWit = number

@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type FailedCount = number
-
 export const failedCount = {
   id: "01a06861-f664-79a4-bf61-064bcd7e6204",
   pageTypeSlug: "number-property",
@@ -10,4 +8,5 @@ export const failedCount = {
   propertySlug: "failed-count",
   definition: "how many items a pull could not take",
   max: null,
+  types: "ts",
 } as const satisfies NumberProperty

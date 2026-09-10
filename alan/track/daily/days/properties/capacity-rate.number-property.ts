@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type CapacityRate = number
-
 export const capacityRate = {
   id: "01a05fd8-c30f-7486-b22b-7e17134582db",
   pageTypeSlug: "number-property",
@@ -24,4 +22,5 @@ export const capacityRate = {
       statement: "A session naming several recovery activities credits at the sum of its rates.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

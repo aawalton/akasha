@@ -1,7 +1,5 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type VoteAverage = number
-
 export const voteAverage = {
   id: "01a06599-ee09-700a-8a23-63fc2cc72b2f",
   pageTypeSlug: "number-property",
@@ -20,4 +18,5 @@ export const voteAverage = {
       statement: "A collection nobody voted on scores nothing rather than stating no score.",
     },
   ],
+  types: "ts",
 } as const satisfies NumberProperty

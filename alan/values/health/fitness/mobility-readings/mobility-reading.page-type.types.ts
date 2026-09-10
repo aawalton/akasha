@@ -4,7 +4,7 @@ import type { Note } from "../set-logs/properties/note.text-property.ts"
 import type { Context } from "./properties/context.select-property.types.ts"
 import type { MobilityReadingDate } from "./properties/mobility-reading-date.calendar-date-property.types.ts"
 import type { MobilityReadingMetric } from "./properties/mobility-reading-metric.select-property.types.ts"
-import type { MobilityReadingValueNum } from "./properties/mobility-reading-value-num.number-property.ts"
+import type { MobilityReadingValueNum } from "./properties/mobility-reading-value-num.number-property.types.ts"
 import type { MobilityReadingValueText } from "./properties/mobility-reading-value-text.text-property.ts"
 import type { Side } from "./properties/side.select-property.types.ts"
 
