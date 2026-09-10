@@ -4,12 +4,12 @@ export const TURN_SCHEME_PATH = "turn"
 
 export const COLOR_ID_PREFIX = "ops.color."
 
+function parsePaletteName(found: RegExpExecArray | null): string {
+  return found?.[1] ?? ""
+}
+
 export function turnColorIn(path: string): string | undefined {
-  const found = /^\/(?:turn|subagent)\/([a-z-]+)\//.exec(path)
-  if (found === null) {
-    return undefined
-  }
-  const name = found[1] ?? ""
+  const name = parsePaletteName(/^\/(?:turn|subagent)\/([a-z-]+)\//.exec(path))
   return PALETTE_NAMES.has(name) ? `${COLOR_ID_PREFIX}${name}` : undefined
 }
 
