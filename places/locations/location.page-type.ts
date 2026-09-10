@@ -13,7 +13,7 @@ import type { ReviewDate } from "./properties/review-date.calendar-date-property
 import type { ReviewFlag } from "./properties/review-flag.text-property.ts"
 import type { ReviewRating } from "./properties/review-rating.number-property.ts"
 import type { ReviewText } from "./properties/review-text.text-property.ts"
-import type { ScheduledEnd } from "./properties/scheduled-end-at.instant-property.ts"
+import type { ScheduledEndAt } from "./properties/scheduled-end-at.instant-property.ts"
 import type { ScheduledStart } from "./properties/scheduled-start-at.instant-property.ts"
 import type { SourcePlaceId } from "./properties/source-place-id.text-property.ts"
 import type { SourceUrl } from "./properties/source-url.url-property.ts"
@@ -32,7 +32,7 @@ export type Location = Page & {
   reviewFlag?: ReviewFlag
   reviewRating?: ReviewRating
   reviewText?: ReviewText
-  scheduledEndAt?: ScheduledEnd
+  scheduledEndAt?: ScheduledEndAt
   scheduledStartAt?: ScheduledStart
   sourcePlaceId?: SourcePlaceId
   sourceUrl?: SourceUrl
