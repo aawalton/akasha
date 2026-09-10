@@ -48,8 +48,6 @@ export function writerOf(stated: string | undefined): string {
   return named === undefined || named.trim() === "" ? DEFAULT_WRITER : named.trim()
 }
 
-// A write names its writer as a name and an address — `page-writing` refuses every other shape
-// (`refusalIn`). What this package holds is a bare name, so the address is composed from it.
 export function writerLine(stated: string | undefined): string {
   const named = writerOf(stated).replace(/[<>\s]+/g, "-")
   return `${named} <${named}@${WRITER_HOST}>`
@@ -113,9 +111,6 @@ function refuseTooMany(
   )
 }
 
-// THE SHAPE `deps.write` TAKES IS THE SHAPE NAMED HERE. A copy of it was here and left out
-// `bodies`, so a write handing over the body of a file a property is held in was refused by the
-// copy rather than by the service, which has taken `bodies` all along.
 type Naming = NonNullable<Writing["pages"]>[number]
 
 async function landed(
@@ -177,8 +172,6 @@ export function slugInWhere(where: PageWhere | undefined): string | null {
   return null
 }
 
-// A NEW PAGE IS ADDRESSED BY ITS SLUG. `composedFor` places a page from the index and from the
-// folder its type is declared in, so a create owes a slug rather than a path.
 export function slugForNew(
   op: string,
   pageTypeSlug: string,

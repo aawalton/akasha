@@ -19,12 +19,6 @@ function textsOf(values: readonly unknown[]): readonly string[] | null {
 
 export type Lowered = { readonly key: string; readonly test: Test } | { readonly refused: string }
 
-// EVERY CONDITION IS LOWERED OR THE WRITE IS REFUSED. Nothing here drops a condition it cannot
-// carry. The road this replaces narrowed through `askableNarrows`, which strips a condition on a
-// key the repository settles rather than lowering it, so a scoped read widened to every account's
-// rows instead of matching none — see
-// `finding/lifting-the-shape-tombstone-uncovers-a-read-that-crosses-accounts`. On a write that
-// same strip would reach pages the caller never named, so a narrow this cannot carry refuses.
 export function loweredFrom(condition: PageCondition): Lowered {
   if ("or" in condition) {
     return {
