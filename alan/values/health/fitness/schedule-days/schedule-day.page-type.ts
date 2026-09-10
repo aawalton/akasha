@@ -17,7 +17,7 @@ export const scheduleDay = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A day states the weekday that day falls on and what that day trains.",
+      statement: "A day states the weekday that day falls on and the focus that day trains.",
     },
     {
       invariantKind: "absence",
