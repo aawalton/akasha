@@ -25,7 +25,7 @@ export const landingReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A body appended to is recorded as read by nobody, as no row here has that body.",
+      statement: "A body appended to is recorded as read by nobody.",
     },
     {
       invariantKind: "departure",
