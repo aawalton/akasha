@@ -18,7 +18,8 @@ export const libcMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A mapping the loader has since deleted is named by the path it was mapped from.",
+      statement:
+        "A mapping the loader has already deleted is named by the path that mapping came from.",
     },
     {
       invariantKind: "departure",
