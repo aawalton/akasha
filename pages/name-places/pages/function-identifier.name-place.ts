@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const functionIdentifier = {
   id: "01a04fc9-2ad7-7c2a-aab9-6def70b88cca",

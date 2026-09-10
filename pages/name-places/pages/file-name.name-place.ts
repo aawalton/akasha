@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const fileName = {
   id: "01a04fd0-c6e7-7e50-89dc-16bd43ca72b7",

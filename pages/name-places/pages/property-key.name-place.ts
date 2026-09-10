@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const propertyKey = {
   id: "01a04fed-2fbf-7545-aff5-168ae23e9052",

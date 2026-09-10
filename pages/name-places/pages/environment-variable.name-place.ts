@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const environmentVariable = {
   id: "01a04fed-2fc0-7d40-b4e0-e630cdde2957",

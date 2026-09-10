@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const derivedIdentifier = {
   id: "01a04fc9-2ad9-76c1-9144-cbcca3d44196",

@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const routeSegment = {
   id: "01a04fd4-3d73-79db-a3a7-e6f88084420c",

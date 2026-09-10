@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const constantIdentifier = {
   id: "01a04fc9-2ad8-7f99-9d3a-bbae29319b17",

@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const folderName = {
   id: "01a04fd0-c6ea-77f5-8c92-d3fab1cd61b5",

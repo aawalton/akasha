@@ -1,10 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { NameFormat } from "../text-properties/properties/name-format.relation-property.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type NamePlace = Domain & {
-  nameFormat: NameFormat
-}
 
 export const namePlace = {
   id: "01a04fc9-2ad4-7896-ae44-4569ddae3f7e",
@@ -51,4 +45,5 @@ export const namePlace = {
       statement: "A place says in prose where the place holds.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

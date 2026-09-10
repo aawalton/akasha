@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const fileRole = {
   id: "01a04fd0-c6e8-7989-926c-76c5d7b35075",

@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const routeParameter = {
   id: "01a04fd4-3d74-7647-b787-d329d989e09e",

@@ -1,4 +1,4 @@
-import type { NamePlace } from "../name-place.page-type.ts"
+import type { NamePlace } from "../name-place.page-type.types.ts"
 
 export const foreignName = {
   id: "01a04feb-819f-7c88-a837-385bf1c6a294",
