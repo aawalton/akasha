@@ -1,13 +1,13 @@
 import type { BitReaderState } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import { readBits } from "akasha/temper/build-hash/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import { recordFromKeys } from "akasha/temper/build-hash/record-from-keys/record-from-keys.module.code.ts"
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
   WeaponSlot,
   WeaponSlotItem,
-} from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type { ArmorSlotId } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
 import type {
   EquipmentQualityId,

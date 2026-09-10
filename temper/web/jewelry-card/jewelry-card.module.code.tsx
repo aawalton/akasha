@@ -9,6 +9,16 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  convertIconPathToUrl,
+  getEquipmentIcon,
+} from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
+import type { JewelryItem } from "akasha/temper/characters-equipment/item-composites/item-composites.module.code.ts"
+import {
+  type JewelryEnchantId,
+  jewelryEnchants,
+} from "akasha/temper/characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
+import { getValidSetsForSlot } from "akasha/temper/characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   AVAILABLE_QUALITY_OPTIONS,
@@ -17,16 +27,6 @@ import {
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
-import {
-  convertIconPathToUrl,
-  getEquipmentIcon,
-} from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
-import type { JewelryItem } from "akasha/temper/temper-characters-equipment/item-composites/item-composites.module.code.ts"
-import {
-  type JewelryEnchantId,
-  jewelryEnchants,
-} from "akasha/temper/temper-characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
-import { getValidSetsForSlot } from "akasha/temper/temper-characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import {
   type JewelryTraitId,
   jewelryTraits,

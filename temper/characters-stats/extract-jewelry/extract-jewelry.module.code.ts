@@ -1,4 +1,4 @@
-import { createJewelrySource } from "akasha/temper/temper-characters-equipment/jewelry-source/jewelry-source.module.code.ts"
+import { createJewelrySource } from "akasha/temper/characters-equipment/jewelry-source/jewelry-source.module.code.ts"
 import { valuesOf } from "../../formula-framework/record-parts/record-parts.module.code.ts"
 import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
 

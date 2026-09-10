@@ -2,11 +2,11 @@ import type {
   ArmorSlotItem,
   JewelrySlotItem,
   WeaponSlotItem,
-} from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
 import {
   createSetSource,
   type SetSource,
-} from "akasha/temper/temper-characters-equipment/set-source/set-source.module.code.ts"
+} from "akasha/temper/characters-equipment/set-source/set-source.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import {
   type EquipmentQualityId,

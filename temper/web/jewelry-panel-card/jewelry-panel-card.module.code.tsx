@@ -3,21 +3,21 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityVariant,
-} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import {
   bulkUpdateJewelryEnchant,
   bulkUpdateJewelryQuality,
   bulkUpdateJewelrySet,
   bulkUpdateJewelryTrait,
-} from "akasha/temper/temper-characters-equipment/bulk-update-jewelry/bulk-update-jewelry.module.code.ts"
+} from "akasha/temper/characters-equipment/bulk-update-jewelry/bulk-update-jewelry.module.code.ts"
 import {
   type JewelryEnchantId,
   jewelryEnchants,
-} from "akasha/temper/temper-characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
-import { mergeItemData } from "akasha/temper/temper-characters-equipment/merge-item-data/merge-item-data.module.code.ts"
-import { getMythicSlots } from "akasha/temper/temper-characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+} from "akasha/temper/characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
+import { mergeItemData } from "akasha/temper/characters-equipment/merge-item-data/merge-item-data.module.code.ts"
+import { getMythicSlots } from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import {
   type JewelryTraitId,
   jewelryTraits,

@@ -9,6 +9,28 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  type ArmorEnchantId,
+  armorEnchants,
+} from "akasha/temper/characters-equipment/armor-enchants/armor-enchants.module.code.ts"
+import {
+  convertIconPathToUrl,
+  getEquipmentIcon,
+} from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
+import type {
+  WeaponSlotItem,
+  WeaponSlotUpdateParams,
+} from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import {
+  getValidSetsForSlot,
+  getValidTypesForSet,
+  isShieldValidForSet,
+} from "akasha/temper/characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+import {
+  type WeaponEnchantmentId,
+  weaponEnchantments,
+} from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
+import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   AVAILABLE_QUALITY_OPTIONS,
@@ -16,28 +38,6 @@ import {
   getQualityLabel,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import {
-  type ArmorEnchantId,
-  armorEnchants,
-} from "akasha/temper/temper-characters-equipment/armor-enchants/armor-enchants.module.code.ts"
-import {
-  convertIconPathToUrl,
-  getEquipmentIcon,
-} from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
-import type {
-  WeaponSlotItem,
-  WeaponSlotUpdateParams,
-} from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
-import {
-  getValidSetsForSlot,
-  getValidTypesForSet,
-  isShieldValidForSet,
-} from "akasha/temper/temper-characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
-import {
-  type WeaponEnchantmentId,
-  weaponEnchantments,
-} from "akasha/temper/temper-characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
-import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import {
   type ArmorTraitId,
   armorTraits,

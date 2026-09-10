@@ -2,26 +2,26 @@
 
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityVariant,
-} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
-import {
   bulkUpdateAllQuality,
   bulkUpdateAllSets,
-} from "akasha/temper/temper-characters-equipment/bulk-update-functions/bulk-update-functions.module.code.ts"
-import type { WeaponBars } from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
+} from "akasha/temper/characters-equipment/bulk-update-functions/bulk-update-functions.module.code.ts"
+import type { WeaponBars } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
 import {
   getMythicSlots,
   getWeaponMythicSlots,
-} from "akasha/temper/temper-characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+} from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   getWeaponItem,
   isShieldSlot,
   isWeaponSlot,
   shouldHideWeaponSlot,
-} from "akasha/temper/temper-characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
-import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+} from "akasha/temper/characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
+import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { useMemo } from "react"

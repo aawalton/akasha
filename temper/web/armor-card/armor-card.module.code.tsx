@@ -8,6 +8,19 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  type ArmorEnchantId,
+  armorEnchants,
+} from "akasha/temper/characters-equipment/armor-enchants/armor-enchants.module.code.ts"
+import { standardArmorWeights } from "akasha/temper/characters-equipment/armor-weights/armor-weights.module.code.ts"
+import {
+  convertIconPathToUrl,
+  getEquipmentIcon,
+} from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
+import {
+  getValidSetsForArmorSlot,
+  getValidWeightsForSet,
+} from "akasha/temper/characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   AVAILABLE_QUALITY_OPTIONS,
@@ -16,19 +29,6 @@ import {
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
-import {
-  type ArmorEnchantId,
-  armorEnchants,
-} from "akasha/temper/temper-characters-equipment/armor-enchants/armor-enchants.module.code.ts"
-import { standardArmorWeights } from "akasha/temper/temper-characters-equipment/armor-weights/armor-weights.module.code.ts"
-import {
-  convertIconPathToUrl,
-  getEquipmentIcon,
-} from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
-import {
-  getValidSetsForArmorSlot,
-  getValidWeightsForSet,
-} from "akasha/temper/temper-characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import {
   type ArmorTraitId,
   armorTraits,

@@ -1,8 +1,8 @@
 "use client"
 
 import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
+import { convertIconPathToUrl } from "akasha/temper/characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
-import { convertIconPathToUrl } from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { useMemo } from "react"
 import {
   type FoodOrDrinkId,

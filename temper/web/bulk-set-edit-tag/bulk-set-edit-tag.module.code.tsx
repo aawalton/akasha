@@ -1,18 +1,18 @@
 "use client"
 
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { canClassEquipSet } from "akasha/temper/temper-characters-equipment/set-class-restrictions/set-class-restrictions.module.code.ts"
+import { canClassEquipSet } from "akasha/temper/characters-equipment/set-class-restrictions/set-class-restrictions.module.code.ts"
 import {
   createSetSelectConfig,
   getMaxBonusPieceCount,
   NO_SET_SOURCE,
-} from "akasha/temper/temper-characters-equipment/set-select-helpers/set-select-helpers.module.code.ts"
+} from "akasha/temper/characters-equipment/set-select-helpers/set-select-helpers.module.code.ts"
 import {
   isSetSourceId,
   type SetSource,
   type SetSourceId,
-} from "akasha/temper/temper-characters-equipment/set-source/set-source.module.code.ts"
-import { isSetsAllId } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
+} from "akasha/temper/characters-equipment/set-source/set-source.module.code.ts"
+import { isSetsAllId } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { useMemo, useState } from "react"

@@ -3,32 +3,32 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
-  getQualityVariant,
-} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
-import {
   bulkUpdateWeaponEnchant,
   bulkUpdateWeaponQuality,
   bulkUpdateWeaponSet,
   bulkUpdateWeaponTrait,
-} from "akasha/temper/temper-characters-equipment/bulk-update-weapons/bulk-update-weapons.module.code.ts"
-import type { WeaponBars } from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
-import { getWeaponMythicSlots } from "akasha/temper/temper-characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+} from "akasha/temper/characters-equipment/bulk-update-weapons/bulk-update-weapons.module.code.ts"
+import type { WeaponBars } from "akasha/temper/characters-equipment/loadout-types/loadout-types.module.code.ts"
+import { getWeaponMythicSlots } from "akasha/temper/characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
   type WeaponEnchantmentId,
   weaponEnchantments,
-} from "akasha/temper/temper-characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
+} from "akasha/temper/characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import {
   getWeaponItem,
   isShieldSlot,
   isWeaponSlot,
   shouldHideWeaponSlot,
-} from "akasha/temper/temper-characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
+} from "akasha/temper/characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
 import {
   removeWeaponItem,
   updateWeaponItem,
-} from "akasha/temper/temper-characters-equipment/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
-import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+} from "akasha/temper/characters-equipment/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
+import { weaponTypes } from "akasha/temper/characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import {
+  AVAILABLE_QUALITY_OPTIONS,
+  getQualityVariant,
+} from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import {
   type WeaponTraitId,

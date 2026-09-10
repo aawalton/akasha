@@ -1,4 +1,4 @@
-import { setsAll } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
+import { setsAll } from "akasha/temper/characters-equipment/sets-all/sets-all.module.code.ts"
 
 export function generateSetCategoryMappings(): string {
   const entries: string[] = []
