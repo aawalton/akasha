@@ -11,7 +11,7 @@ export type StoryRead = CollectionExternal & {
   title: Title
   world?: World
   source: Source
-  externalTags?: readonly ExternalTags[]
+  externalTags?: ExternalTags
   publicationStatus?: PublicationStatus
   prose?: Prose
 }
