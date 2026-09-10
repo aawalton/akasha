@@ -44,7 +44,7 @@ export type Game = Collection & {
   premise?: Premise
   tone?: Tone
   readerFraming?: ReaderFraming
-  genre?: readonly Genre[]
+  genre?: Genre
   themes?: Themes
   maintainsLore?: MaintainsLore
   maintainsDesign?: MaintainsDesign
