@@ -16,7 +16,7 @@ export const pagesUnheld = {
     { invariantKind: "departure", statement: "A refusal takes the shape its caller can carry." },
     {
       invariantKind: "absence",
-      statement: "Nothing answers zero, null or the empty set for a page type it cannot see.",
+      statement: "Nothing answers zero or null or the empty set for a page type it cannot see.",
     },
   ],
 } as const satisfies Module
