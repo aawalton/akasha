@@ -1,4 +1,4 @@
-import type { WebApp } from "../web-app.page-type.ts"
+import type { WebApp } from "../web-app.page-type.types.ts"
 
 export const temperWeb = {
   id: "01a05b26-f8b6-7a52-a21e-599a20af3732",

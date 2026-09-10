@@ -1,4 +1,4 @@
-import type { WebApp } from "../web-app.page-type.ts"
+import type { WebApp } from "../web-app.page-type.types.ts"
 
 export const alanwaltonAtlasWeb = {
   id: "01a05b26-f8b6-728b-8cfa-601811ce0f90",

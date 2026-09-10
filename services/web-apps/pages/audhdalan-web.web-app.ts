@@ -1,4 +1,4 @@
-import type { WebApp } from "../web-app.page-type.ts"
+import type { WebApp } from "../web-app.page-type.types.ts"
 
 export const audhdalanWeb = {
   id: "01a05b26-f8b6-779c-b687-646b4c535258",

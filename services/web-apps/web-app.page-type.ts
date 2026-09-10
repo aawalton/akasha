@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { BuildCommand } from "./properties/build-command.text-property.ts"
-import type { ClusterServices } from "./properties/cluster-services.relation-property.ts"
-import type { Hostnames } from "./properties/hostnames.text-property.ts"
-import type { SourceDirectory } from "./properties/source-directory.text-property.ts"
-
-export type WebApp = Domain & {
-  sourceDirectory: SourceDirectory
-  buildCommand: BuildCommand
-  clusterServices: ClusterServices
-  hostnames?: Hostnames
-}
 
 export const webApp = {
   id: "01a05b26-f8b6-7d74-a301-0488daed8bbc",
@@ -71,4 +59,5 @@ export const webApp = {
       statement: "The tunnel is routed from the host names stated here.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
