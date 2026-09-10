@@ -55307,12 +55307,12 @@
     },
     "402": {
       "name": "Moon Hunter",
-      "slotsUnlocked": 7,
+      "slotsUnlocked": 9,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
           "name": "Moon Hunter Hat",
-          "unlocked": false
+          "unlocked": true
         },
         "2": {
           "name": "Moon Hunter Epaulets",
@@ -55336,7 +55336,7 @@
         },
         "7": {
           "name": "Moon Hunter Shoes",
-          "unlocked": false
+          "unlocked": true
         },
         "8": {
           "name": "Moon Hunter Necklace",
@@ -55501,7 +55501,7 @@
     },
     "404": {
       "name": "Jailer's Tenacity",
-      "slotsUnlocked": 6,
+      "slotsUnlocked": 9,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55522,11 +55522,11 @@
         },
         "5": {
           "name": "Jailer's Girdle",
-          "unlocked": false
+          "unlocked": true
         },
         "6": {
           "name": "Jailer's Greaves",
-          "unlocked": false
+          "unlocked": true
         },
         "7": {
           "name": "Jailer's Sabatons",
@@ -55538,7 +55538,7 @@
         },
         "9": {
           "name": "Jailer's Ring",
-          "unlocked": false
+          "unlocked": true
         },
         "10": {
           "name": "Jailer's Dagger",
