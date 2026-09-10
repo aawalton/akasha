@@ -183,7 +183,12 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "The phase being run decides which of the groups states the ceiling.",
+      statement: "Which group's code ran decides which of the groups states the ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run over some of the files runs the check group's code, so that group holds it.",
     },
     {
       invariantKind: "departure",

@@ -257,6 +257,17 @@ const BURNS_CPU =
 
 export const BURNS_CHECK = [{ slug: BURNS, runsOn: ["change"], body: BURNS_CPU, checkCeiling: 0 }]
 
+export const BURNS_AT_AUDIT = [
+  {
+    slug: BURNS,
+    runsOn: ["audit"],
+    body: BURNS_CPU,
+    audit: ADMITS_ALL,
+    checkCeiling: 0,
+    auditCeiling: 60,
+  },
+]
+
 export const GATHERED: Gathered = {
   slug: BURNS,
   page: checkAt(BURNS),

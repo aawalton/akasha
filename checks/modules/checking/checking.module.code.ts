@@ -90,17 +90,13 @@ function ceilingIn(stated: Record<string, unknown>, group: string): number | nul
   return typeof held === "number" ? held : null
 }
 
-function groupOf(phase: Phase): string {
-  return phase === "audit" ? AUDIT_GROUP : CHECK_GROUP
-}
-
-function logsUnder(one: Gathered, phase: Phase): string | undefined {
+function logsUnder(one: Gathered, group: string): string | undefined {
   const code = one.code ?? null
-  return code === null ? undefined : `${groupOf(phase)}.${LOGS}`
+  return code === null ? undefined : `${group}.${LOGS}`
 }
 
-export function ranOver(one: Gathered, phase: Phase, cost: Cost): Judged | null {
-  const ceiling = groupOf(phase) === AUDIT_GROUP ? one.auditCeiling : one.checkCeiling
+export function ranOver(one: Gathered, group: string, cost: Cost): Judged | null {
+  const ceiling = group === AUDIT_GROUP ? one.auditCeiling : one.checkCeiling
   if (ceiling === undefined || ceiling === null) return null
   const spent = Number((cost.cpuSeconds + cost.childCpuSeconds).toFixed(3))
   if (spent <= ceiling) return null
@@ -318,6 +314,7 @@ export function judgingBy(
         const before = opening()
         const found: Judged[] = []
         const audit = auditingOver(one, wholly)
+        const group = audit === null ? CHECK_GROUP : AUDIT_GROUP
         try {
           found.push(...(await (audit === null ? one.run(change, shadow) : audit())))
         } catch (thrown) {
@@ -332,8 +329,8 @@ export function judgingBy(
           change.changed.length,
           found.length
         )
-        recordCost(one.root, one.page, cost, logsUnder(one, phase))
-        const over = ranOver(one, phase, cost)
+        recordCost(one.root, one.page, cost, logsUnder(one, group))
+        const over = ranOver(one, group, cost)
         if (over !== null) found.push(over)
         said.push(...found)
       }
