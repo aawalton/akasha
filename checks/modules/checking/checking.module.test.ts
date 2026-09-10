@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { rmSync } from "node:fs"
-import { join } from "node:path"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   idTakenFrom,
@@ -36,6 +34,7 @@ import {
   HELD_PAGE_AT,
   INPUT_THROWS_CHECKS,
   judgedAsleep,
+  judgedOver,
   NO_PHASE_CHECK,
   ONE_MD,
   ONE_TS,
@@ -167,23 +166,25 @@ test("a change taking away every check is refused rather than judged clean", asy
   expect(said[0]?.reason).toContain("takes away every check")
 })
 
-test("a check page stating a phase whose code is not there stops the whole run", () => {
-  const root = rootWith(ADMITS_CHECK)
-  rmSync(join(root, checkCodeAt(ADMITS)))
-  expect(() => checksIn(root)).toThrow(
-    "admits-all.code-check.ts is a check page stating a phase, and no code sits beside that page"
-  )
+test("a check whose code is not there refuses from itself, its neighbour judging on", async () => {
+  const one = await judgedOver(BOTH_CHECKS, ADMITS)
+  expect(one.slugs).toEqual([ADMITS, REFUSES])
+  expect(one.reasons).toContain("refused")
+  expect(one.broke.map((two) => two.path)).toEqual([checkAt(ADMITS)])
+  expect(one.broke[0]?.reason).toContain("no code sits beside that page")
 })
 
-test("why a check's code would not load is carried into the refusal", async () => {
-  const root = rootWith(UNLOADABLE_CHECK)
-  expect(() => checksIn(root)).toThrow("would not load")
-  expect(() => checksIn(root)).not.toThrow("answers to nothing that can be run")
+test("why a check's code would not load is carried into its own refusal", async () => {
+  const one = await judgedOver(UNLOADABLE_CHECK)
+  expect(one.slugs).toEqual([ADMITS, REFUSES])
+  expect(one.reasons).toContain("refused")
+  expect(one.broke[0]?.reason).toContain("would not load")
 })
 
-test("a check page stating no phase a runner can honour is refused", () => {
-  const root = rootWith(NO_PHASE_CHECK)
-  expect(() => checksIn(root)).toThrow("states no phase")
+test("a check page stating no phase a runner can honour refuses from itself", async () => {
+  const one = await judgedOver(NO_PHASE_CHECK)
+  expect(one.reasons).toContain("refused")
+  expect(one.broke[0]?.reason).toContain("states no phase")
 })
 
 test("an index holding no check directory names no check, and refuses what it would leave unjudged", () => {

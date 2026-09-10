@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
@@ -17,7 +17,7 @@ import { scratchWorld } from "../../../commands/modules/scratching/scratching.mo
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 import type { Cost } from "../cost/check-cost.module.code.ts"
 import type { Judged } from "../judging/judging.module.code.ts"
-import { checksIn, type Gathered } from "./checking.module.code.ts"
+import { checksAt, checksIn, type Gathered, judgingBy } from "./checking.module.code.ts"
 
 export const CHECK = "code-check"
 
@@ -216,11 +216,37 @@ export const ADMITS_CHECK = [{ slug: ADMITS, runsOn: ["change"], body: ADMITS_AL
 
 export const SLEEPING_CHECK = [{ slug: ADMITS, runsOn: [], body: ADMITS_ALL }]
 
-export const NO_PHASE_CHECK = [{ slug: ADMITS, runsOn: [], raw: "", body: ADMITS_ALL }]
+export const NO_PHASE_CHECK = [
+  { slug: ADMITS, runsOn: [], raw: "", body: ADMITS_ALL },
+  { slug: REFUSES, runsOn: ["change"], body: REFUSES_ALL },
+]
 
 export const UNLOADABLE_CHECK = [
   { slug: ADMITS, runsOn: ["change"], body: "export function admitsAll( {\n" },
+  { slug: REFUSES, runsOn: ["change"], body: REFUSES_ALL },
 ]
+
+export type Broken = {
+  readonly slugs: readonly string[]
+  readonly reasons: readonly string[]
+  readonly broke: readonly Judged[]
+}
+
+export async function judgedOver(
+  named: readonly Named[],
+  without: string | null = null
+): Promise<Broken> {
+  const root = rootHolding(named, [ONE_TS])
+  if (without !== null) rmSync(join(root, checkCodeAt(without)))
+  const every = checksIn(root)
+  const gate = judgingBy(checksAt(every, "change"), "change")
+  const said = await gate.over(overIn(root, [ONE_TS]))
+  return {
+    slugs: every.map((one) => one.slug),
+    reasons: said.map((one) => one.reason),
+    broke: said.filter((one) => one.threw === true),
+  }
+}
 
 export const REFUSES_CHECK = [{ slug: REFUSES, runsOn: ["change"], body: REFUSES_ALL }]
 

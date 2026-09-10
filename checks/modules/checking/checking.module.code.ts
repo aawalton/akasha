@@ -56,6 +56,10 @@ const FRAMES_AT_MOST = 3
 const TAKES_EVERY_CHECK =
   "this change takes away every check that would judge it, so a clean answer would mean nothing"
 
+const NOT_GATHERED = "could not be gathered, so it judged nothing"
+
+const EVERY_PHASE: readonly Phase[] = ["change", "worktree", "deploy", "audit"]
+
 const loadFrom = createRequire(import.meta.url)
 
 export function checkSlugIn(root: string): string {
@@ -117,29 +121,36 @@ function inputIn(run: AnyRunning): Input | null {
   return typeof said === "function" ? (said as Input) : null
 }
 
-function statedIn(at: string, slug: string, page: string): Record<string, unknown> | null {
+type Held<T> = { readonly held: T } | { readonly why: string }
+
+function statedIn(at: string, slug: string, page: string): Held<Record<string, unknown>> {
   let mod: Record<string, unknown>
   try {
     mod = loadFrom(at) as Record<string, unknown>
   } catch (thrown) {
-    throw new Error(`${page} is a check page, and would not load — ${saidBy(thrown)}`)
+    return { why: `${page} is a check page, and would not load — ${saidBy(thrown)}` }
   }
   const named = mod[exportedAs(slug)]
-  if (named === null || typeof named !== "object") return null
-  return named as Record<string, unknown>
+  if (named === null || typeof named !== "object") {
+    return {
+      why: `${page} is a check page, and answers to no \`${exportedAs(slug)}\` a runner can read`,
+    }
+  }
+  return { held: named as Record<string, unknown> }
 }
 
-function runningIn<T>(at: string, slug: string, beside: string): T | null {
+function runningIn<T>(at: string, slug: string, beside: string, page: string): Held<T> {
   let mod: Record<string, unknown>
   try {
     mod = loadFrom(at) as Record<string, unknown>
   } catch (thrown) {
-    throw new Error(`${beside} is a check's code, and would not load — ${saidBy(thrown)}`)
+    return { why: `${beside} is a check's code, and would not load — ${saidBy(thrown)}` }
   }
   const named = mod[exportedAs(slug)]
-  if (typeof named === "function") return named as T
+  if (typeof named === "function") return { held: named as T }
   const every = Object.values(mod).filter((one) => typeof one === "function")
-  return every.length === 1 && every[0] !== undefined ? (every[0] as T) : null
+  if (every.length === 1 && every[0] !== undefined) return { held: every[0] as T }
+  return { why: `${page} is a check page, and ${beside} answers to nothing that can be run` }
 }
 
 export function codeOf(root: string, page: string): string | null {
@@ -154,14 +165,56 @@ export function auditCodeOf(root: string, page: string): string | null {
   return held !== null && existsSync(join(root, held)) ? held : null
 }
 
-function auditingIfThere(root: string, page: string, slug: string): AnyAuditing | null {
+function auditingIfThere(root: string, page: string, slug: string): Held<AnyAuditing | null> {
   const beside = auditCodeOf(root, page)
-  if (beside === null) return null
-  const found = runningIn<AnyAuditing>(join(root, beside), slug, beside)
-  if (found === null) {
-    throw new Error(`${page} is a check page, and ${beside} answers to nothing that can be run`)
+  if (beside === null) return { held: null }
+  return runningIn<AnyAuditing>(join(root, beside), slug, beside, page)
+}
+
+function refusing(
+  root: string,
+  page: string,
+  slug: string,
+  code: string | null,
+  why: string
+): Gathered {
+  const said: readonly Judged[] = [
+    { path: page, reason: `the check \`${slug}\` ${NOT_GATHERED} — ${why}`, threw: true },
+  ]
+  const run = (): readonly Judged[] => said
+  return { slug, page, root, code, runsOn: EVERY_PHASE, isInput: null, run, audit: null }
+}
+
+function gatheredFrom(root: string, path: string, slug: string): Gathered | null {
+  const broken = (why: string, code: string | null = null): Gathered =>
+    refusing(root, path, slug, code, why)
+  const stated = statedIn(join(root, path), slug, path)
+  if ("why" in stated) return broken(stated.why)
+  const runsOn = runsOnIn(stated.held)
+  if (runsOn === null) {
+    return broken(`${path} is a check page, and states no phase a runner can honour`)
   }
-  return found
+  const beside = codeOf(root, path)
+  if (beside === null) {
+    if (runsOn.length === 0) return null
+    return broken(`${path} is a check page stating a phase, and no code sits beside that page`)
+  }
+  const run = runningIn<AnyRunning>(join(root, beside), slug, beside, path)
+  if ("why" in run) return broken(run.why, beside)
+  const audit = auditingIfThere(root, path, slug)
+  if ("why" in audit) return broken(audit.why, beside)
+  return {
+    slug,
+    page: path,
+    root,
+    code: beside,
+    runsOn,
+    isInput: inputIn(run.held),
+    run: run.held,
+    audit: audit.held,
+    checkCeiling: ceilingIn(stated.held, CHECK_GROUP),
+    auditCeiling: ceilingIn(stated.held, AUDIT_GROUP),
+  }
 }
 
 export function checksIn(root: string): readonly Gathered[] {
@@ -171,39 +224,8 @@ export function checksIn(root: string): readonly Gathered[] {
     if (said === null) {
       throw new Error(`${path} is a check page, and its name says no slug a runner can read`)
     }
-    const slug = said.slug
-    const full = join(root, path)
-    const stated = statedIn(full, slug, path)
-    if (stated === null) {
-      throw new Error(
-        `${path} is a check page, and answers to no \`${exportedAs(slug)}\` a runner can read`
-      )
-    }
-    const runsOn = runsOnIn(stated)
-    if (runsOn === null) {
-      throw new Error(`${path} is a check page, and states no phase a runner can honour`)
-    }
-    const beside = codeOf(root, path)
-    if (beside === null) {
-      if (runsOn.length === 0) continue
-      throw new Error(`${path} is a check page stating a phase, and no code sits beside that page`)
-    }
-    const run = runningIn<AnyRunning>(join(root, beside), slug, beside)
-    if (run === null) {
-      throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
-    }
-    found.push({
-      slug,
-      page: path,
-      root,
-      code: beside,
-      runsOn,
-      isInput: inputIn(run),
-      run,
-      audit: auditingIfThere(root, path, slug),
-      checkCeiling: ceilingIn(stated, CHECK_GROUP),
-      auditCeiling: ceilingIn(stated, AUDIT_GROUP),
-    })
+    const one = gatheredFrom(root, path, said.slug)
+    if (one !== null) found.push(one)
   }
   for (const one of modelChecksIn(root)) {
     const runsOn: Phase[] = []
