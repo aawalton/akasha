@@ -11,9 +11,6 @@ export interface PageTreeView {
   readonly dispose: () => undefined
 }
 
-// THE ROW THE FILE CARRIES IS THE ROW DRAWN, WITH NOTHING SPELLED AGAIN BETWEEN THE TWO. The file
-// and the panel once differed over one field name, and five thousand rows were built again on the
-// thread that draws them to rename it.
 export function createPageTree(): PageTreeView {
   const emitter = new vscode.EventEmitter<undefined>()
   let held: readonly PageTreeRow[] = []
