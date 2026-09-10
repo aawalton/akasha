@@ -47,7 +47,7 @@ export const proxyHeaders = {
     },
     {
       invariantKind: "departure",
-      statement: "A response with several `set-cookie` headers copies every one.",
+      statement: "A response with several `set-cookie` headers copies every header.",
     },
   ],
 } as const satisfies Module
