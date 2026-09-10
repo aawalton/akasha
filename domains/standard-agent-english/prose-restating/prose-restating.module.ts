@@ -11,7 +11,7 @@ export const proseRestating = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A passage is parsed whole, so a word is read beside the sentence it sits in.",
+      statement: "A passage is parsed whole.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +24,7 @@ export const proseRestating = {
     },
     {
       invariantKind: "departure",
-      statement: "Who parses is handed in, so this is proved without the parser's model.",
+      statement: "Who parses is handed in.",
     },
     {
       invariantKind: "absence",

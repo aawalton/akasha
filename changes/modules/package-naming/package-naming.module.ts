@@ -24,7 +24,7 @@ export const packageNaming = {
     {
       invariantKind: "departure",
       statement:
-        "An alias is parted into the text up to its first colon, the package named, and the range.",
+        "An alias is parted into the text up to its first colon and the package named and the range.",
     },
     {
       invariantKind: "departure",

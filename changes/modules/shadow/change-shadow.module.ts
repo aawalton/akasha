@@ -159,7 +159,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A world that is no ledger answers itself, its bodies changing under no reach.",
+      statement: "A world that is no ledger answers itself.",
     },
     {
       invariantKind: "departure",
@@ -309,8 +309,11 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Carrying a world onto an answer is one act, and a reach is one caller of that act.",
+      statement: "Carrying a world onto an answer is one act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach is one caller of that act.",
     },
     {
       invariantKind: "departure",
@@ -366,8 +369,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reach withholding a body works on a ledger, a world built over an answer being left behind.",
+      statement: "A reach withholding a body works on a ledger.",
     },
     {
       invariantKind: "departure",

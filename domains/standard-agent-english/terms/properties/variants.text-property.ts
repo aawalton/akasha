@@ -19,7 +19,11 @@ export const variants = {
     },
     {
       invariantKind: "departure",
-      statement: "The plainest spelling is stated once, and no variant repeats it.",
+      statement: "The plainest spelling is stated once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No variant repeats the plainest spelling.",
     },
     {
       invariantKind: "departure",

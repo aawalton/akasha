@@ -125,7 +125,7 @@ export const changeLoading = {
     },
     {
       invariantKind: "absence",
-      statement: "A change acting on a file of any kind has no path judged, as every kind is one.",
+      statement: "A change acting on a file of any kind has no path judged.",
     },
     {
       invariantKind: "absence",

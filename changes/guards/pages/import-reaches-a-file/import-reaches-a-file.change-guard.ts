@@ -40,7 +40,8 @@ export const importReachesAFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing carrying no extension is looked for under `.ts`, `.tsx` and `.d.ts`.",
+      statement:
+        "A landing carrying no extension is looked for under `.ts` and `.tsx` and `.d.ts`.",
     },
     {
       invariantKind: "departure",
@@ -65,8 +66,11 @@ export const importReachesAFile = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A specifier a root resolves carries no extension, and the file it names carries one.",
+      statement: "A specifier a root resolves carries no extension.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The file that specifier names carries one.",
     },
     {
       invariantKind: "departure",

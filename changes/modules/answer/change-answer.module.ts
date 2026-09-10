@@ -29,7 +29,7 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "Gathering reconciles nothing, as an edit claims no body it does not name.",
+      statement: "Gathering reconciles nothing.",
     },
     {
       invariantKind: "departure",
@@ -98,7 +98,7 @@ export const changeAnswer = {
     {
       invariantKind: "departure",
       statement:
-        "Of two splices opening at one place, the one handed in later is dropped rather than joined.",
+        "Of two splices opening at one place the one handed in later is dropped rather than joined.",
     },
     {
       invariantKind: "departure",

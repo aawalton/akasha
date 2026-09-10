@@ -23,7 +23,11 @@ export const proseReach = {
     },
     {
       invariantKind: "departure",
-      statement: "A record inside a record is walked, and a record naming itself is walked once.",
+      statement: "A record inside a record is walked.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record naming itself is walked once.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +35,7 @@ export const proseReach = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a page, so nothing here says which page states prose.",
+      statement: "Nothing here reads a page.",
     },
   ],
 } as const satisfies Module

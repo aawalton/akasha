@@ -36,7 +36,11 @@ export const replacementPatterns = {
     },
     {
       invariantKind: "departure",
-      statement: "A bracketed word names a word class, and a bare word matches itself.",
+      statement: "A bracketed word names a word class.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A bare word matches itself.",
     },
     {
       invariantKind: "departure",

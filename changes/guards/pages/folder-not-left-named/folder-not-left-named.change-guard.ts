@@ -59,7 +59,7 @@ export const folderNotLeftNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the body, the string it spells and the folder left empty.",
+      statement: "The refusal names the body and the string it spells and the folder left empty.",
     },
     {
       invariantKind: "departure",

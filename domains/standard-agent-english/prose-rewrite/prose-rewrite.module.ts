@@ -27,11 +27,11 @@ export const proseRewrite = {
     },
     {
       invariantKind: "departure",
-      statement: "A passage is rewritten from its end, so an earlier rewrite keeps its place.",
+      statement: "A passage is rewritten from its end.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a sentence's tree, so what was found is handed in.",
+      statement: "Nothing here reads a sentence's tree.",
     },
   ],
 } as const satisfies Module

@@ -23,7 +23,11 @@ export const targetNarrowing = {
     },
     {
       invariantKind: "departure",
-      statement: "A parent is named as an address, and the slug is the part past the page type.",
+      statement: "A parent is named as an address.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The slug is the part of that address past the page type.",
     },
     {
       invariantKind: "departure",

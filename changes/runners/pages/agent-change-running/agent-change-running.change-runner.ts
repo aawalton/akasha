@@ -33,7 +33,7 @@ export const agentChangeRunning = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here is proven by a test, as nothing here runs that a type does not say.",
+      statement: "Nothing here is proven by a test.",
     },
   ],
 } as const satisfies ChangeRunner
