@@ -29,15 +29,23 @@ export const drafting = {
     },
     {
       invariantKind: "absence",
-      statement: "No whole body is carried here, as a change is edits until the write.",
+      statement: "No whole body is carried here.",
     },
     {
       invariantKind: "gap",
-      statement: "Reading the commit at HEAD is a second concern, so this is more than one module.",
+      statement: "Reading the commit at HEAD is a second concern.",
     },
     {
       invariantKind: "gap",
-      statement: "The slug names drafting, and nothing here drafts.",
+      statement: "This module holds more than one concern.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The slug names drafting.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing here drafts.",
     },
   ],
 } as const satisfies Module
