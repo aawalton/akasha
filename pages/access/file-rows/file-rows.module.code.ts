@@ -1,7 +1,7 @@
 import {
   idOfFilePage,
   slugOfFilePage,
-} from "akasha/file-page-identity/file-page/file-page.module.code.ts"
+} from "akasha/pages/identity/file-page/file-page.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
 import type { PropertyDefinition } from "../page-type-config/page-type-config.module.code.ts"
