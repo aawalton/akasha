@@ -1,4 +1,4 @@
-export const DECLARATION_RELATIVE_PATH = "tools/lib/skill-token-guard.ts"
+export const DECLARING_MODULE = "skill-token-guard"
 
 const RETIRED_SKILL_REPLACEMENTS: Readonly<Record<string, string>> = {
   p: "/manage (parent project) or /deliver (child project)",

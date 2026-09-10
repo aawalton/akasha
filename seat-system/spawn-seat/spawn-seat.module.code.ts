@@ -25,7 +25,7 @@ import { refuseParentless } from "../seat-parentless-refusal/seat-parentless-ref
 import { composedNameOf } from "../seat-rename/seat-rename.module.code.ts"
 import {
   decideSkillTokenGuard,
-  DECLARATION_RELATIVE_PATH as SKILL_TOKEN_GUARD_DECLARATION,
+  DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
 } from "../skill-token-guard/skill-token-guard.module.code.ts"
 import { stateSpawnedSeat } from "../state-spawned-seat/state-spawned-seat.module.code.ts"
 
@@ -83,7 +83,7 @@ export async function spawnSeat(input: SpawnSeatInput): Promise<SpawnSeatResult>
     throw inputError(
       ruleText(skill.reason, "reason", {
         command: "seat start",
-        where: SKILL_TOKEN_GUARD_DECLARATION,
+        where: SKILL_TOKEN_GUARD_DECLARING,
         call: "decideSkillTokenGuard",
       })
     )

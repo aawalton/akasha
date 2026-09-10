@@ -6,4 +6,10 @@ export const skillTokenGuard = {
   slug: "skill-token-guard",
   definition: "a prompt opening with a retired slash-skill token, refused",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A refusal names this module by its slug rather than by its path.",
+    },
+  ],
 } as const satisfies Module
