@@ -1,4 +1,4 @@
-import { existsSync, readdirSync, readFileSync } from "node:fs"
+import { type Dirent, existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { z } from "zod"
 
@@ -15,6 +15,8 @@ const DEEP_ALONE = "**"
 const HIDDEN = "."
 
 const LINKED_FOLDER = "node_modules"
+
+const GONE = ["ENOENT", "ENOTDIR"]
 
 function unsupported(entry: string): Error {
   return new Error(
@@ -45,11 +47,24 @@ function walkedInto(name: string): boolean {
   return name !== LINKED_FOLDER && !name.startsWith(HIDDEN)
 }
 
+function isGone(thrown: unknown): boolean {
+  if (!(thrown instanceof Error) || !("code" in thrown)) return false
+  const code: unknown = thrown.code
+  return typeof code === "string" && GONE.includes(code)
+}
+
+function childrenOf(abs: string): readonly Dirent[] {
+  try {
+    return readdirSync(abs, { withFileTypes: true })
+  } catch (thrown) {
+    if (isGone(thrown)) return []
+    throw thrown
+  }
+}
+
 function foldersBelow(repoRoot: string, prefix: string): readonly string[] {
   const found: string[] = []
-  const abs = join(repoRoot, prefix)
-  if (!existsSync(abs)) return found
-  for (const child of readdirSync(abs, { withFileTypes: true })) {
+  for (const child of childrenOf(join(repoRoot, prefix))) {
     if (!child.isDirectory() || !walkedInto(child.name)) continue
     const rel = prefix === "" ? child.name : `${prefix}/${child.name}`
     found.push(rel)

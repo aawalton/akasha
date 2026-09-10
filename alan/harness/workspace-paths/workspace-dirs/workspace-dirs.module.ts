@@ -47,5 +47,13 @@ export const workspaceDirs = {
       statement:
         "An entry no glob grammar reads breaks every caller at once rather than one caller.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A folder taken away while the walk is under way is left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder unreadable for any other reason breaks the walk.",
+    },
   ],
 } as const satisfies Module
