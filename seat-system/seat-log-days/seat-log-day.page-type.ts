@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Date as TrackedDate } from "../../alan/track/daily/days/properties/date.text-property.ts"
-import type { Lines } from "./properties/lines.file-property.ts"
-import type { LogSource } from "./properties/log-source.relation-property.ts"
-import type { SeatName } from "./properties/seat-name.text-property.ts"
-
-export type SeatLogDay = Page & {
-  source: LogSource
-  seatName: SeatName
-  date: TrackedDate
-  lines?: Lines
-}
 
 export const seatLogDay = {
   id: "01a0657c-cb14-7b5b-a206-18059a84a88a",
@@ -82,4 +70,5 @@ export const seatLogDay = {
       statement: "Nothing reads the lines a day has.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

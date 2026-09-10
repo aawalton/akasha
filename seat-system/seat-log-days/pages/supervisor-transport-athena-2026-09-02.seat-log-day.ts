@@ -1,4 +1,4 @@
-import type { SeatLogDay } from "../seat-log-day.page-type.ts"
+import type { SeatLogDay } from "../seat-log-day.page-type.types.ts"
 
 export const supervisorTransportAthena20260902 = {
   id: "01a065a2-eda7-7e0a-a15f-25ef17169907",

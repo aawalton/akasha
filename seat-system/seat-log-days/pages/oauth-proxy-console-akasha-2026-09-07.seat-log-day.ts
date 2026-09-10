@@ -1,4 +1,4 @@
-import type { SeatLogDay } from "../seat-log-day.page-type.ts"
+import type { SeatLogDay } from "../seat-log-day.page-type.types.ts"
 
 export const oauthProxyConsoleAkasha20260907 = {
   id: "01a07c15-757a-7bee-b001-caf9b0e07c93",
