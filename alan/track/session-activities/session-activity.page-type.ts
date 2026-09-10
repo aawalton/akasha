@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Icon } from "../../../temper/things/properties/icon.text-property.ts"
-import type { Seq } from "../days/properties/seq.number-property.ts"
+import type { Seq } from "../daily/days/properties/seq.number-property.ts"
 import type { DefaultDifficulty } from "./properties/default-difficulty.number-property.ts"
 
 export type SessionActivity = Page & {

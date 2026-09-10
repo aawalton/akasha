@@ -32,7 +32,7 @@ export type LevelsReading =
   | { readonly read: "levels"; readonly levels: { safetyLevel?: string; difficultyLevel?: string } }
   | { readonly read: "refused"; readonly refusals: readonly string[] }
 
-export const DAYS_AT = "alan/track/days/pages"
+export const DAYS_AT = "alan/track/daily/days/pages"
 
 const ACTIVITY_TYPE = "session-activity"
 

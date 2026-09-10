@@ -5,7 +5,7 @@ import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-cha
 import { mistaking } from "../../../commands/modules/asking/asking.module.code.ts"
 import { type Answer, answering } from "../../../commands/modules/calling/calling.module.code.ts"
 
-export const DAYS_AT = "alan/track/days/pages/"
+export const DAYS_AT = "alan/track/daily/days/pages/"
 
 export const FOOD_ENTRIES_AT = "alan/track/food-entries/pages/"
 

@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Date as TrackedDate } from "../../alan/track/days/properties/date.text-property.ts"
+import type { Date as TrackedDate } from "../../alan/track/daily/days/properties/date.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Icon } from "../../temper/things/properties/icon.text-property.ts"
 import type { ValueSlug } from "../properties/value-slug.text-property.ts"
