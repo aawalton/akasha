@@ -16,6 +16,22 @@ export const changeFile = {
     },
     {
       invariantKind: "departure",
+      statement: "A passage drops the newline its fence leaves on the last line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body keeps the newline its fence leaves, where a passage does not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A passage whose fence closed with `no-newline` is left as the caller wrote it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A passage ending in a newline is written with a blank line before its fence.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Working the passage is left to the change reached.",
     },
     {
