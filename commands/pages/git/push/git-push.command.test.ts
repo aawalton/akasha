@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
-import { push } from "./git-push.command.code.ts"
+import { gitPush } from "./git-push.command.code.ts"
 
 const scratch = scratchWorld()
 
@@ -44,7 +44,7 @@ function given(root: string): Given {
 check("an argument naming what is carried is refused, and nothing is carried", () => {
   const root = checkout()
   const bare = remoted(root)
-  const said = push(["origin", "main"], given(root))
+  const said = gitPush(["origin", "main"], given(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("--dry-run")
   expect(gitIn(bare, ["rev-list", "--count", "--all"])).toBe("0")
@@ -52,7 +52,7 @@ check("an argument naming what is carried is refused, and nothing is carried", (
 
 check("a checkout naming no remote is refused rather than reported as done", () => {
   const root = checkout()
-  const said = push([], given(root))
+  const said = gitPush([], given(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("no remote")
 })
@@ -61,7 +61,7 @@ check("a HEAD on no branch is refused", () => {
   const root = checkout()
   remoted(root)
   gitIn(root, ["checkout", "--detach"])
-  const said = push([], given(root))
+  const said = gitPush([], given(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("no branch")
 })
@@ -69,7 +69,7 @@ check("a HEAD on no branch is refused", () => {
 check("`--dry-run` reads how far ahead the branch is and carries nothing", () => {
   const root = checkout()
   const bare = remoted(root)
-  const said = push(["--dry-run"], given(root))
+  const said = gitPush(["--dry-run"], given(root))
   expect(said.code).toBe(0)
   expect(said.report[0]).toContain("would be carried")
   expect(gitIn(bare, ["rev-list", "--count", "--all"])).toBe("0")
@@ -78,14 +78,14 @@ check("`--dry-run` reads how far ahead the branch is and carries nothing", () =>
 check("a push carries the branch this checkout is on to the remote", () => {
   const root = checkout()
   const bare = remoted(root)
-  expect(push([], given(root)).code).toBe(0)
+  expect(gitPush([], given(root)).code).toBe(0)
   expect(gitIn(bare, ["rev-list", "--count", "main"])).toBe("1")
 })
 
 check("a remote that has moved ahead refuses the push and keeps what it carries", () => {
   const root = checkout()
   const bare = remoted(root)
-  expect(push([], given(root)).code).toBe(0)
+  expect(gitPush([], given(root)).code).toBe(0)
 
   const other = scratch.rootFor("akasha-push-other-")
   ran(["git", "clone", bare, other])
@@ -97,7 +97,7 @@ check("a remote that has moved ahead refuses the push and keeps what it carries"
   expect(gitIn(bare, ["rev-list", "--count", "main"])).toBe("2")
 
   committed(root, "three.txt")
-  const said = push([], given(root))
+  const said = gitPush([], given(root))
   expect(said.code).toBe(1)
   expect(gitIn(bare, ["rev-parse", "main"])).toBe(carried)
 })

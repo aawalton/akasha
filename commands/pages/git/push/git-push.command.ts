@@ -5,7 +5,7 @@ export const gitPush = {
   pageTypeSlug: "command",
   type: "command",
   slug: "git-push",
-  definition: "the command with this checkout's commits to the remote its branch tracks",
+  definition: "the act carrying this checkout's commits to the remote its branch tracks",
   code: "ts",
   test: "ts",
   changeKind: "change-none",

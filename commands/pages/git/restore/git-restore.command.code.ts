@@ -256,7 +256,7 @@ export function reportOf(going: readonly Held[], left: readonly Held[]): readonl
   return report
 }
 
-export function restore(argv: readonly string[], given: Given): Answer {
+export function gitRestore(argv: readonly string[], given: Given): Answer {
   const read = namedIn(argv)
   if ("refused" in read) return answering([], [read.refused], 1)
   if (read.named.length === 0) {

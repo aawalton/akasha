@@ -18,7 +18,7 @@ export function aheadIn(root: string, remote: string, branch: string): string {
   return counted.stdout === "1" ? "1 commit" : `${counted.stdout} commits`
 }
 
-export function push(argv: readonly string[], given: Given): Answer {
+export function gitPush(argv: readonly string[], given: Given): Answer {
   const dry = argv.length === 1 && argv[0] === DRY_RUN
   if (argv.length > 0 && !dry) {
     return refused(
