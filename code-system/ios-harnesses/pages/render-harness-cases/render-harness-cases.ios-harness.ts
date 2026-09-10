@@ -1,4 +1,4 @@
-import type { IosHarness } from "../../ios-harness.page-type.ts"
+import type { IosHarness } from "../../ios-harness.page-type.types.ts"
 
 export const renderHarnessCases = {
   id: "01a0584d-727d-7acf-803c-ec40d9d0ebf0",

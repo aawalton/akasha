@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Swift } from "../ios-components/properties/swift.code-file-property.ts"
-import type { Main } from "../ios-programs/properties/main.code-file-property.ts"
-
-export type IosHarness = Domain & {
-  swift?: Swift
-  main?: Main
-}
 
 export const iosHarness = {
   id: "01a0584d-22a8-7eb5-83f8-e9912fd9297c",
@@ -58,4 +50,5 @@ export const iosHarness = {
       statement: "No blessed image exists to be compared against.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
