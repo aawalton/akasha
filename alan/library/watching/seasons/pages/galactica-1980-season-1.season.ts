@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const galactica1980Season1 = {
   id: "01a06802-b8ba-7012-8412-a018dcd0607f",

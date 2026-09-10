@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const eurekaSeason3 = {
   id: "01a06802-b8b9-703e-8745-c23ba79f2085",

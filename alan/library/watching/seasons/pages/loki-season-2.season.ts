@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const lokiSeason2 = {
   id: "01a06802-b8ba-7031-89e0-ec5a31ef2508",

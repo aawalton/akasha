@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const ironheartSpecials = {
   id: "01a06802-b8ba-702c-89fb-9870f9fee766",

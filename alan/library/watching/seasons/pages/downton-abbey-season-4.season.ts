@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const downtonAbbeySeason4 = {
   id: "01a06802-b8b9-702b-9a47-af20e085d9d1",

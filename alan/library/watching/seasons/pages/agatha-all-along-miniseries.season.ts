@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const agathaAllAlongMiniseries = {
   id: "01a06802-b8b7-700c-a9d0-92b7f96bf108",

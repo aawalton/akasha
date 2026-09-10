@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const piratesOfLeviathan = {
   id: "01a06802-b8bc-7019-8624-71139c8e348c",

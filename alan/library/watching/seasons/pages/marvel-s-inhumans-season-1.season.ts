@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const marvelSInhumansSeason1 = {
   id: "01a06802-b8ba-7045-8ff7-dc38cea2a068",

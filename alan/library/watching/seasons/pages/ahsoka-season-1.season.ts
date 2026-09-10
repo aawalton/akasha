@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const ahsokaSeason1 = {
   id: "01a06802-b8b7-700d-b48f-147e9bff9546",

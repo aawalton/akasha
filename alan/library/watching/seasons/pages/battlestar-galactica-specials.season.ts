@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const battlestarGalacticaSpecials = {
   id: "01a06802-b8b8-7002-a97b-c1d7440f42ee",

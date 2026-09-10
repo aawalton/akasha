@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const book7Dark = {
   id: "01a06802-b8b8-7016-96c3-489d25046de3",

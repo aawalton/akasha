@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const ruriRocksSeason1 = {
   id: "01a06802-b8bc-701e-8574-32ddc4b73a52",

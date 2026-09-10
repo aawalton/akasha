@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const starWarsTheBadBatchSeason3 = {
   id: "01a06802-b8bd-703b-991b-0afca3f525e3",

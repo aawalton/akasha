@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const theMandalorianSeason1 = {
   id: "01a06802-b8bf-7018-bd30-0415580c9e5e",

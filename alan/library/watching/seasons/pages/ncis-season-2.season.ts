@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const ncisSeason2 = {
   id: "01a06802-b8bb-702c-bbf7-5f80474e27af",

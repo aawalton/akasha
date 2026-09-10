@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const misfitsAndMagic = {
   id: "01a06802-b8bb-7003-ae35-fdd245411408",

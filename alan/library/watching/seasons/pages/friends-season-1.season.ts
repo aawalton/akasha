@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const friendsSeason1 = {
   id: "01a06802-b8ba-7003-946b-e3dd07f6df21",

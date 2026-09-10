@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const frankHerbertSChildrenOfDuneSpecials = {
   id: "01a06802-b8ba-7001-aaf2-35fbebe50f08",

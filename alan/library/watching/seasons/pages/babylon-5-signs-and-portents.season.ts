@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const babylon5SignsAndPortents = {
   id: "01a06802-b8b7-7016-bd46-d1dfa2fd130a",

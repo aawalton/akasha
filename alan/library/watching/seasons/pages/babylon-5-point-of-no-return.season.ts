@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const babylon5PointOfNoReturn = {
   id: "01a06802-b8b7-7015-9eaa-d442214222c3",

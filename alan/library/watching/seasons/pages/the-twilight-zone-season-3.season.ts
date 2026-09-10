@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const theTwilightZoneSeason3 = {
   id: "01a06802-b8bf-7045-b282-54f847b65f0d",

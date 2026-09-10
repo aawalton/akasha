@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const doctorWhoSeason32 = {
   id: "01a06802-b8b9-7019-899c-1812fe31273a",

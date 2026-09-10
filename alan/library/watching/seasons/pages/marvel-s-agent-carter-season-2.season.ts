@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const marvelSAgentCarterSeason2 = {
   id: "01a06802-b8ba-7037-be6f-f85b47cc2668",

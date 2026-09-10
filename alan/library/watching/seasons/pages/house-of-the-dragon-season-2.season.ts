@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const houseOfTheDragonSeason2 = {
   id: "01a06802-b8ba-7028-9ba9-a44b21a6ef93",

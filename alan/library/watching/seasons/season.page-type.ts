@@ -1,14 +1,4 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { PosterPath } from "../properties/poster-path.text-property.ts"
-import type { VoteAverage } from "../properties/vote-average.number-property.ts"
-
-export type Season = CollectionExternal & {
-  title: Title
-  posterPath?: PosterPath
-  voteAverage?: VoteAverage
-}
 
 export const season = {
   id: "01a06599-ee09-7003-a52a-e6a01a72f7da",
@@ -38,4 +28,5 @@ export const season = {
       statement: "A season's number is its position among the seasons of its show.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

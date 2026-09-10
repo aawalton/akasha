@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const coffinRun = {
   id: "01a06802-b8b8-7030-a766-b8b622bec340",

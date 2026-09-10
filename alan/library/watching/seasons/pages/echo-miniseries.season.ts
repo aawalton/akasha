@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const echoMiniseries = {
   id: "01a06802-b8b9-7032-91cb-4e057707851b",

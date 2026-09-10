@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const marvelSIronFistSeason1 = {
   id: "01a06802-b8ba-7046-97ca-c0a071674a85",

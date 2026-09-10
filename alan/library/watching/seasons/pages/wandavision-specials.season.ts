@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const wandavisionSpecials = {
   id: "01a06802-b8c0-700f-b630-9d1ea3f0dc87",

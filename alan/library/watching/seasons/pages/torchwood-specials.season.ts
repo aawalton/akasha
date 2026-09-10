@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const torchwoodSpecials = {
   id: "01a06802-b8c0-7009-96c4-2f93898490c6",

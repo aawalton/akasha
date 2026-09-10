@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const cloudwardHo = {
   id: "01a06802-b8b8-702f-896d-c9af684ac7ec",

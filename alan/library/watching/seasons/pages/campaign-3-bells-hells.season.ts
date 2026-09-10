@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const campaign3BellsHells = {
   id: "01a06802-b8b8-7021-8322-fbddaadb8e3d",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const neverStopBlowingUp = {
   id: "01a06802-b8bb-703a-a109-2ff9393da0d5",

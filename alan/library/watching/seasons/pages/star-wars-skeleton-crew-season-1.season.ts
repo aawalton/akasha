@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const starWarsSkeletonCrewSeason1 = {
   id: "01a06802-b8bd-7037-937b-0d59df6ca329",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const squidGameSeason3 = {
   id: "01a06802-b8bc-7044-b373-39710ab011ef",

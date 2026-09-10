@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const blackMirrorSeason6 = {
   id: "01a06802-b8b8-7008-b02e-4e6a5b855716",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const escapeFromTheBloodkeep = {
   id: "01a06802-b8b9-703b-a622-78a431132f08",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const miracleDay = {
   id: "01a06802-b8bb-7002-a6f7-6d575623184a",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const arcaneSpecials = {
   id: "01a06802-b8b7-7011-af9b-8f724c35a637",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const stargateAtlantisSeason4 = {
   id: "01a06802-b8bd-7047-ab6b-5fb7e4f47eb5",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const frierenBeyondJourneySEndSpecials2 = {
   id: "01a06802-b8ba-7011-931f-f466a95c9cbd",

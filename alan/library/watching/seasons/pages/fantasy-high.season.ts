@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const fantasyHigh = {
   id: "01a06802-b8b9-7044-ad65-48648f25fa91",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const soloLevelingSpecials = {
   id: "01a06802-b8bc-7040-9acc-701fc9eaf459",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const hawkeyeMiniseries = {
   id: "01a06802-b8ba-7023-ad8c-2bc62d512325",

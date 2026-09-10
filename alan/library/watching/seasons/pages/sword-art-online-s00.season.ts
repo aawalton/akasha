@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const swordArtOnlineS00 = {
   id: "019ea442-6923-727e-84c7-bc33460588de",

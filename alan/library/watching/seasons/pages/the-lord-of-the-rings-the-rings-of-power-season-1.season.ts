@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const theLordOfTheRingsTheRingsOfPowerSeason1 = {
   id: "01a06802-b8bf-7015-8b42-3f2576fa908a",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const gravityFallsSeason2 = {
   id: "01a06802-b8ba-7021-80ac-5971dab92478",

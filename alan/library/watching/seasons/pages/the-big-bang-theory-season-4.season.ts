@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const theBigBangTheorySeason4 = {
   id: "01a06802-b8be-703b-9f03-ce185fb42ce8",

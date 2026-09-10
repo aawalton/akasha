@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const gameOfThronesSeason7 = {
   id: "01a06802-b8ba-7019-ab75-2252effaec09",

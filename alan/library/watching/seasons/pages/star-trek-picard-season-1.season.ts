@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const starTrekPicardSeason1 = {
   id: "01a06802-b8bd-7009-a860-2a323e18d120",

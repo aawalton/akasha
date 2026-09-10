@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const theFalconAndTheWinterSoldierMiniseries = {
   id: "01a06802-b8bf-7010-8276-9cb93a09f2c6",

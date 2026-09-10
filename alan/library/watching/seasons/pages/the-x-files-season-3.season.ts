@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const theXFilesSeason3 = {
   id: "01a06802-b8bf-7055-8513-d123899cfbae",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const manifestSeason4 = {
   id: "01a06802-b8ba-7035-933d-688128e130ef",

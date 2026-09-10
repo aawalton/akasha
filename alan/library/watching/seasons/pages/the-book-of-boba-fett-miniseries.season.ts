@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const theBookOfBobaFettMiniseries = {
   id: "01a06802-b8bf-7003-8b63-6f2b290bb08c",

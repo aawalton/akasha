@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const swordArtOnlineAlternativeGunGaleOnlineSpecials = {
   id: "01a06802-b8be-7030-8c66-40a7ac30c89e",

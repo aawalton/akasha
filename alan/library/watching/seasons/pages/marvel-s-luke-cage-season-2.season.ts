@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const marvelSLukeCageSeason2 = {
   id: "01a06802-b8ba-704c-b54b-ca0d0c23023a",

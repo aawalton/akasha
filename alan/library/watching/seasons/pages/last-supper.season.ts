@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const lastSupper = {
   id: "01a06802-b8ba-702f-9208-6a3891f5bdd1",

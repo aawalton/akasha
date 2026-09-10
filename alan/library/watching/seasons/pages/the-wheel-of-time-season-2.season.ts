@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const theWheelOfTimeSeason2 = {
   id: "01a06802-b8bf-704e-b88a-8b7c6ad88577",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const campaign1VoxMachina = {
   id: "01a06802-b8b8-701f-b928-c93ee7b5d14b",

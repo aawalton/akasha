@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const capricaSpecials = {
   id: "01a06802-b8b8-7024-a2bc-093c94fbd674",

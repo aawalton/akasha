@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const thirdRockFromTheSunSeason2 = {
   id: "01a06802-b8b7-7001-bba0-1ee957c908d4",

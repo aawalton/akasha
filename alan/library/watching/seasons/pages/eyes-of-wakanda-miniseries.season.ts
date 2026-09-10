@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const eyesOfWakandaMiniseries = {
   id: "01a06802-b8b9-7043-af38-dd3fa81cc046",

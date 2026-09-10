@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const marvelSRunawaysSeason1 = {
   id: "01a06802-b8ba-704d-9623-94e81f77e766",

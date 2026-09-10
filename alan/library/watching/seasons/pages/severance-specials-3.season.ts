@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const severanceSpecials3 = {
   id: "01a06802-b8bc-7037-9e02-2fe1b4dec674",

@@ -1,4 +1,4 @@
-import type { Season } from "../season.page-type.ts"
+import type { Season } from "../season.page-type.types.ts"
 
 export const starTrekDeepSpaceNineSeason5 = {
   id: "01a06802-b8bc-7049-9f43-df954ab2d252",
