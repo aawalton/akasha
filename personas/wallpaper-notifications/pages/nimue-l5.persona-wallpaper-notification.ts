@@ -1,4 +1,4 @@
-import type { PersonaWallpaperNotification } from "../persona-wallpaper-notification.page-type.ts"
+import type { PersonaWallpaperNotification } from "../persona-wallpaper-notification.page-type.types.ts"
 
 export const nimueL5 = {
   id: "019f0fbd-578e-75bd-8b2a-dfa96fb84646",

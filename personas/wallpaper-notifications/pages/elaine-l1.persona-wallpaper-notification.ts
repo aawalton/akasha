@@ -1,4 +1,4 @@
-import type { PersonaWallpaperNotification } from "../persona-wallpaper-notification.page-type.ts"
+import type { PersonaWallpaperNotification } from "../persona-wallpaper-notification.page-type.types.ts"
 
 export const elaineL1 = {
   id: "019f0f60-1f2d-7c0d-a7d1-24246155c9ed",
