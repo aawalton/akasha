@@ -9,7 +9,7 @@ export const invariantStatementIsPlain = {
   runsOnChange: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: true,
+  runsOnAudit: false,
   invariants: [
     {
       invariantKind: "departure",
@@ -65,6 +65,10 @@ export const invariantStatementIsPlain = {
     {
       invariantKind: "departure",
       statement: "Every invariant under akasha is plain.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "This check runs on no phase while Alan settles how a statement is judged.",
     },
   ],
   check: { maxCpuSeconds: 10 },
