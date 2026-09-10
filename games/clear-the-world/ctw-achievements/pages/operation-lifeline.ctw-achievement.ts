@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const operationLifeline = {
   id: "019dbb6d-aee1-75c7-9c8f-0ebb3d5a31d4",

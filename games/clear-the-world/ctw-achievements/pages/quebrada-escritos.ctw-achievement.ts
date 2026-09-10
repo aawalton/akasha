@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const quebradaEscritos = {
   id: "019dbb6d-d10d-7e9b-802d-ac0b3316bb95",

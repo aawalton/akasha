@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const safeLane = {
   id: "019dbb6d-929f-776f-b9b7-cd5f05210f33",

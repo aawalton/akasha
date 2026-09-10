@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const cuanzaSul = {
   id: "019dbb6d-ac52-7305-a1d2-6ea14cbb2af0",

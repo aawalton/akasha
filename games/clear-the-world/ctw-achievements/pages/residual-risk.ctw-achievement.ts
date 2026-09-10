@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const residualRisk = {
   id: "019dbb6d-ed3e-775b-ba18-91c3bf38c6e8",

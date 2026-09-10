@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const fastestTreaty = {
   id: "019dbb6e-3df8-75db-83a6-c598b6531840",

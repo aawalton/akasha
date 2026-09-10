@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const penjwin = {
   id: "019dbb6d-c919-707c-b32e-85fc229bfd48",

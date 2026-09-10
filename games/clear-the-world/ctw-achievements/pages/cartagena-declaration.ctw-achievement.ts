@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const cartagenaDeclaration = {
   id: "019dbb6e-0243-78a0-9503-4ec2aedb9683",

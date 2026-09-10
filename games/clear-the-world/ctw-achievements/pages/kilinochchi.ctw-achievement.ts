@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const kilinochchi = {
   id: "019dbb6d-c3e8-7070-9f07-1abdbc5d5f58",

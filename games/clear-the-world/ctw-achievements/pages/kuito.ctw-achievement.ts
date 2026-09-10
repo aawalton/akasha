@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const kuito = {
   id: "019dbb6d-733b-7bbc-9864-86810bb30d3e",

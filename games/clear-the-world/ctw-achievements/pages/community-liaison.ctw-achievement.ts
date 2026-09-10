@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const communityLiaison = {
   id: "019dbb6d-d392-73db-a76d-53718806fa5f",

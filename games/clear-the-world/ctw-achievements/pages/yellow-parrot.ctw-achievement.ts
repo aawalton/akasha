@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const yellowParrot = {
   id: "019dbb6d-85c7-7407-9eb3-661f84a67965",

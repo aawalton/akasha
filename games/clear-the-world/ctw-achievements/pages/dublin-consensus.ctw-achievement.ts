@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const dublinConsensus = {
   id: "019dbb6e-4591-7024-8ad4-f8df1122b008",

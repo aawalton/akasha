@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const thePaceOfProgress = {
   id: "019dbb6e-1ef7-7b4c-873d-045e5ae195a7",

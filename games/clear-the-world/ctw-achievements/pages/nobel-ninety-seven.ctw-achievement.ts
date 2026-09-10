@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const nobelNinetySeven = {
   id: "019dbb6e-3603-706e-9046-a8d947745b47",

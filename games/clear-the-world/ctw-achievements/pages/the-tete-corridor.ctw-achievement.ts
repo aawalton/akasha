@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const theTeteCorridor = {
   id: "019dbb6d-b163-79d1-91f7-0ec011336e9d",

@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const magawasField = {
   id: "019dbb6d-b415-7d2c-bd70-4e4b1c25434d",

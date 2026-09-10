@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const postClearanceInspection = {
   id: "019dbb6d-f4d4-7320-8306-236f1d87cb01",

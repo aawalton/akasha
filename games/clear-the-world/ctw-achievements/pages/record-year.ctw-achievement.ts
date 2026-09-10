@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const recordYear = {
   id: "019dbb6e-0ce2-7eab-83c0-b9aebe11d8f8",

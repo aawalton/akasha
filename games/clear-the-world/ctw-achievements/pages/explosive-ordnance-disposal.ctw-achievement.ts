@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const explosiveOrdnanceDisposal = {
   id: "019dbb6d-9a33-773f-bc6b-ec2174b215fd",

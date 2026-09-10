@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const cancelledLand = {
   id: "019dbb6d-d8d2-7dd0-981f-1a6851c0b732",

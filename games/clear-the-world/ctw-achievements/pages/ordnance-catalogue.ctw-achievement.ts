@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const ordnanceCatalogue = {
   id: "019dbb6d-9009-70af-8976-812ed1b2c671",

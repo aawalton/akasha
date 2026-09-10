@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const mostar = {
   id: "019dbb6d-a9a6-7a00-89d2-b4bc506bc020",

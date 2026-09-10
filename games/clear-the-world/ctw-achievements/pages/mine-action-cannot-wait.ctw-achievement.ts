@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const mineActionCannotWait = {
   id: "019dbb6e-2bd9-75c4-9abc-d32e77df6c46",

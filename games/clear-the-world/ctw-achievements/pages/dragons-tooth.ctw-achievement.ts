@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const dragonsTooth = {
   id: "019dbb6d-8322-7a14-bad4-aa8807331813",

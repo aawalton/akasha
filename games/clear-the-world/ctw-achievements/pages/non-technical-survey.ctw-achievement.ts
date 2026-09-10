@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const nonTechnicalSurvey = {
   id: "019dbb6d-d619-780b-87da-7d4c4dbbafda",

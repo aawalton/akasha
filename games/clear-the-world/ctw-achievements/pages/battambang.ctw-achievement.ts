@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const battambang = {
   id: "019dbb6d-75fe-7172-b913-a6131cbbf977",

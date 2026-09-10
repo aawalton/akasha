@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const sharedGround = {
   id: "019dbb6e-2e6e-783b-b3aa-ac44ae2f46e3",

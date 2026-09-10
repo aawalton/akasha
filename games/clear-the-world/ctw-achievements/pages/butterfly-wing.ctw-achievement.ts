@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const butterflyWing = {
   id: "019dbb6d-8075-7aa9-81ee-471785c4839b",

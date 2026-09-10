@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const mineAwarenessDay = {
   id: "019dbb6e-4069-7eed-868a-53344fe2196b",

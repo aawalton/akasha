@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const certificateOfCompletion = {
   id: "019dbb6d-9cb9-7e22-8ce9-c014b4ff7ec2",

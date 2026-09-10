@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const ottawaTreaty = {
   id: "019dbb6d-fa11-7b4b-b76e-672546d9c0af",

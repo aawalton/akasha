@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const qualityAssurance = {
   id: "019dbb6d-f245-7ba0-95f5-fd4a1a7c900d",

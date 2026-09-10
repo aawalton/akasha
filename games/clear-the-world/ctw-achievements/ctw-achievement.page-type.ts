@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Metric } from "../../../alan/track/daily/days/properties/metric.text-property.ts"
-import type { Description } from "../../../pages/properties/description.text-property.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Scope } from "../../../temper/progressions/things/properties/scope.text-property.ts"
-import type { Threshold } from "./properties/threshold.number-property.ts"
-
-export type CtwAchievement = Page & {
-  title: Title
-  scope: Scope
-  metric: Metric
-  threshold: Threshold
-  description?: Description
-}
 
 export const ctwAchievement = {
   id: "01a06579-e4f7-7cac-8aa3-87b59725c97d",
@@ -48,4 +34,5 @@ export const ctwAchievement = {
       statement: "The prose here is quoted from the world rather than written to the taboo terms.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

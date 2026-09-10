@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const districtFocusedApproach = {
   id: "019dbb6d-db74-76b9-8b83-56b6db938b38",

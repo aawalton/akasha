@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const fourCorners = {
   id: "019dbb6d-a452-7beb-ad6f-5234ab51d3e4",

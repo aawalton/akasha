@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const firstFootprint = {
   id: "019dbb6d-9f3c-7e1b-b9f3-732d208447f8",

@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const throughTheSmoke = {
   id: "019dbb6d-a1cd-704d-8f46-649da7982c47",

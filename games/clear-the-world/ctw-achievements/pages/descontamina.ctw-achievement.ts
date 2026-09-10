@@ -1,4 +1,4 @@
-import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
+import type { CtwAchievement } from "../ctw-achievement.page-type.types.ts"
 
 export const descontamina = {
   id: "019dbb6d-e5b2-7aad-98ab-21615b721f3a",
