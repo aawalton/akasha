@@ -6,5 +6,4 @@ export const alan = {
   type: "notification-feed",
   slug: "alan",
   person: "alan",
-  notifications: "jsonl",
 } as const satisfies NotificationFeed

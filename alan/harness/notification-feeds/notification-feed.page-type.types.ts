@@ -4,5 +4,5 @@ import type { Notifications } from "./properties/notifications.page-property-ent
 
 export type NotificationFeed = Page & {
   person: Person
-  notifications: Notifications
+  notifications?: Notifications
 }
