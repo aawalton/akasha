@@ -38,7 +38,7 @@ function described(given: Service): string {
 }
 
 function header(given: Service): string {
-  return `${WRITTEN_PREFIX}${given.pagePath} by akasha service install. Edits here are lost.`
+  return `${WRITTEN_PREFIX}${given.pagePath} by akasha deploy. Edits here are lost.`
 }
 
 export function isWrapped(given: Service): boolean {
