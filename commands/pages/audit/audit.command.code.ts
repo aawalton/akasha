@@ -118,6 +118,10 @@ export function narrowedOver(change: Change, paths: readonly string[]): Over {
   return { change: { ...change, changed: [...held].sort() }, refusals }
 }
 
+export function whollyFor(paths: readonly string[], root: string): string | null {
+  return paths.length === 0 ? root : null
+}
+
 export function leftOutOf(atAudit: readonly Gathered[], ran: readonly Gathered[]): number {
   const slugs = new Set(ran.map((one) => one.slug))
   return atAudit.filter((one) => !slugs.has(one.slug)).length
@@ -205,5 +209,6 @@ export async function audit(argv: readonly string[], given: Given): Promise<Answ
     over.change.changed.length,
     change.changed.length
   )
-  return await judgedOver(judgingBy(narrowed.checks, "audit"), over.change, also)
+  const wholly = whollyFor(meant.paths, root)
+  return await judgedOver(judgingBy(narrowed.checks, "audit", wholly), over.change, also)
 }

@@ -14,6 +14,7 @@ import {
   narrowedTo,
   notAnAuditIn,
   underOf,
+  whollyFor,
 } from "./audit.command.code.ts"
 
 const ROOT = "/elsewhere/nowhere-an-audit-reaches"
@@ -242,6 +243,14 @@ test("a path naming no file and no folder is refused", () => {
   const change = over(["a/one.ts"])
   const said = narrowedOver(change, ["c/four.ts"])
   expect(said.refusals[0]).toContain("`c/four.ts` is no file this repository holds")
+})
+
+test("a run naming no path is handed the root, so each check's audit reads the whole tree", () => {
+  expect(whollyFor([], ROOT)).toBe(ROOT)
+})
+
+test("a run naming a path is handed no root, so the checks judge that change instead", () => {
+  expect(whollyFor(["a/one.ts"], ROOT)).toBe(null)
 })
 
 test("a file is told from a folder holding one under it", () => {

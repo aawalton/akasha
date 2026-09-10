@@ -64,6 +64,14 @@ export const audit = {
     },
     {
       invariantKind: "departure",
+      statement: "A run naming no file runs each check's audit over the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run naming a file runs the checks over that file rather than the audits.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run no check takes input from is refused rather than answered clean.",
     },
     {
