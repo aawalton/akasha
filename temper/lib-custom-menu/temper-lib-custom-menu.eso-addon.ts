@@ -6,7 +6,7 @@ export const temperLibCustomMenu = {
   type: "eso-addon",
   slug: "temper-lib-custom-menu",
   definition: "an addon library adding sub-menus, dividers and headers to the game's context menus",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "custom-menu-main",
   parts: [

@@ -6,7 +6,7 @@ export const temperLibDebugLogger = {
   type: "eso-addon",
   slug: "temper-lib-debug-logger",
   definition: "the in-game log every other addon writes to and the errors the client raises",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "debug-logger-main",
   parts: [

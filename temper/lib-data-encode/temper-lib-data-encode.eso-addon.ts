@@ -6,7 +6,7 @@ export const temperLibDataEncode = {
   type: "eso-addon",
   slug: "temper-lib-data-encode",
   definition: "an arbitrary Lua table packed into text the game may carry and read back",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "data-encode-entry",
   parts: [
