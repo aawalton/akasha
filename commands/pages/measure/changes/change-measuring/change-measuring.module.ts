@@ -56,7 +56,7 @@ export const changeMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A row naming the change phase or the apply phase is read, and no other row is.",
+      statement: "A row naming the change phase or the apply phase is read and no other row is.",
     },
     {
       invariantKind: "departure",
