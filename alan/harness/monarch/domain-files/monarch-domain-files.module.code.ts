@@ -65,7 +65,7 @@ export function pageText(pageTypeSlug: string, value: Readonly<Record<string, un
   const slug = String(value.slug)
   const lines = ordered(value).flatMap((key) => stated(key, value[key]))
   return [
-    `import type { ${typedAs(pageTypeSlug)} } from "../${pageTypeSlug}.page-type.ts"`,
+    `import type { ${typedAs(pageTypeSlug)} } from "../${pageTypeSlug}.page-type.types.ts"`,
     "",
     `export const ${exportedAs(slug)} = {`,
     ...lines,
