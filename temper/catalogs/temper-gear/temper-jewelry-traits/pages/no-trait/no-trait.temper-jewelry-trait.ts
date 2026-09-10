@@ -1,4 +1,4 @@
-import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts"
+import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.types.ts"
 
 export const noTrait = {
   id: "019e5b97-6d7e-7613-b76b-ddcb08859d6a",

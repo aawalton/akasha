@@ -1,4 +1,4 @@
-import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts"
+import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.types.ts"
 
 export const arcane = {
   id: "019e5b97-6d83-7436-af5e-2eba1e7e972e",

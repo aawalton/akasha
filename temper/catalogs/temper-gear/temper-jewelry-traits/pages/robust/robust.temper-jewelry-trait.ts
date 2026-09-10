@@ -1,4 +1,4 @@
-import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts"
+import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.types.ts"
 
 export const robust = {
   id: "019e5b97-6d93-7d2a-a0f9-b218db3d4370",

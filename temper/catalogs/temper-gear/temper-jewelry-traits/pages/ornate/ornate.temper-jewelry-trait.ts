@@ -1,4 +1,4 @@
-import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts"
+import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.types.ts"
 
 export const ornate = {
   id: "019e5b97-6d98-7607-a4f1-04b7bf79f0a3",

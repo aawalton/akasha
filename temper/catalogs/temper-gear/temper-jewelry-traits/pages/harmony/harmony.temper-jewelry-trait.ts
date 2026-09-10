@@ -1,4 +1,4 @@
-import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts"
+import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.types.ts"
 
 export const harmony = {
   id: "019e5b97-6d8a-77b7-8303-2086b16d9817",

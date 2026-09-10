@@ -1,4 +1,4 @@
-import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.ts"
+import type { TemperJewelryTrait } from "../../temper-jewelry-trait.page-type.types.ts"
 
 export const bloodthirsty = {
   id: "019e5b97-6d87-7ebe-8b8a-90f7afd5b457",
