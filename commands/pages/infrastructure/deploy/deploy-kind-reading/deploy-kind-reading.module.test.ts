@@ -9,6 +9,7 @@ import {
   IOS_APP,
   kindNamed,
   WEB_APP,
+  WORKSTATION_SERVICE,
 } from "./deploy-kind-reading.module.code.ts"
 
 const HOLD = "/var/tmp"
@@ -20,6 +21,8 @@ const WEB_APPS_AT = "akasha/service-system/web-apps/pages"
 const IOS_PAGES_AT = "akasha:pages/ios-app"
 
 const SERVICES_AT = "akasha/infrastructure/cluster/services/pages"
+
+const UNITS_AT = "akasha/services/workstation-services/pages"
 
 type World = {
   readonly root: string
@@ -52,6 +55,10 @@ function seededWorld(): World {
   written(
     `${SERVICES_AT}/both-ways.cluster-service.ts`,
     pageOf("bothWays", "both-ways", "cluster-service")
+  )
+  written(
+    `${UNITS_AT}/one-unit.workstation-service.ts`,
+    pageOf("oneUnit", "one-unit", "workstation-service")
   )
   said(["git", "-C", root, "init", "-q"])
   said(["git", "-C", root, "add", "-A"])
@@ -131,6 +138,14 @@ test("a slug only a cluster service page carries is answered as a cluster servic
 test("a slug a web app and a cluster service both carry is answered as the web app", () => {
   const read = kindNamed(WORLD.root, "one-web", ios)
   expect(read).toEqual({ kind: WEB_APP, pagePath: `${WEB_APPS_AT}/one-web.web-app.ts` })
+})
+
+test("a slug only a workstation service page carries is answered as a workstation service", () => {
+  const read = kindNamed(WORLD.root, "one-unit", ios)
+  expect(read).toEqual({
+    kind: WORKSTATION_SERVICE,
+    pagePath: `${UNITS_AT}/one-unit.workstation-service.ts`,
+  })
 })
 
 test("a slug an ios app and a cluster service both carry is refused rather than chosen between", () => {

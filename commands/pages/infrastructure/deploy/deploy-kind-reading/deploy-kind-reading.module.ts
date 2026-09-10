@@ -11,16 +11,16 @@ export const deployKindReading = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A slug is looked for among the pages of every kind a deploy puts up.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A slug is looked for among the web app pages, the ios app pages and the cluster service pages alike.",
+        "The kinds are the web app, the ios app, the cluster service and the workstation service.",
     },
     {
       invariantKind: "departure",
-      statement: "A web app page is found by the suffix its filename has.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A cluster service page is found by the suffix its filename has.",
+      statement: "A page of any kind but the ios app is found by the suffix its filename has.",
     },
     {
       invariantKind: "departure",
@@ -44,15 +44,15 @@ export const deployKindReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug a web app page and an ios app page both carry is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A slug an ios app page and a cluster service page both carry is refused.",
+      statement: "A slug more than one kind carries is refused by naming every page that has it.",
     },
     {
       invariantKind: "departure",
       statement: "A slug a web app page and a cluster service page both carry names the web app.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That pair is the only one settled rather than refused.",
     },
     {
       invariantKind: "departure",

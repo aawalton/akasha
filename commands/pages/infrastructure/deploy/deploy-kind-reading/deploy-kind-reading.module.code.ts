@@ -12,9 +12,17 @@ export const IOS_APP = "ios-app"
 
 export const CLUSTER_SERVICE = "cluster-service"
 
+export const WORKSTATION_SERVICE = "workstation-service"
+
 const WEB_APP_SUFFIX = ".web-app.ts"
 
-export type Kind = typeof WEB_APP | typeof IOS_APP | typeof CLUSTER_SERVICE
+const WORKSTATION_SERVICE_SUFFIX = ".workstation-service.ts"
+
+export type Kind =
+  | typeof WEB_APP
+  | typeof IOS_APP
+  | typeof CLUSTER_SERVICE
+  | typeof WORKSTATION_SERVICE
 
 export type Named = {
   readonly kind: Kind
@@ -43,6 +51,10 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
   if (services === null) {
     return { refused: `git could not list the cluster service pages under ${root}` }
   }
+  const units = pagesUnder(root, WORKSTATION_SERVICE_SUFFIX)
+  if (units === null) {
+    return { refused: `git could not list the workstation service pages under ${root}` }
+  }
   let ios: Apps
   try {
     ios = iosApps()
@@ -52,28 +64,35 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
       refused: `the ios app pages would not be read, so which ios apps there are is unsaid: ${said}`,
     }
   }
-  const webNamed = namedAmong(webApps, slug, WEB_APP_SUFFIX)
   const iosNamed = ios[slug]
-  const serviceNamed = namedAmong(services, slug, CLUSTER_SERVICE_SUFFIX)
-  if (webNamed.length > 0 && iosNamed !== undefined) {
+  const found: Named[] = []
+  for (const one of namedAmong(webApps, slug, WEB_APP_SUFFIX)) {
+    found.push({ kind: WEB_APP, pagePath: one })
+  }
+  if (iosNamed !== undefined) found.push({ kind: IOS_APP, pagePath: iosNamed.pagePath })
+  for (const one of namedAmong(services, slug, CLUSTER_SERVICE_SUFFIX)) {
+    found.push({ kind: CLUSTER_SERVICE, pagePath: one })
+  }
+  for (const one of namedAmong(units, slug, WORKSTATION_SERVICE_SUFFIX)) {
+    found.push({ kind: WORKSTATION_SERVICE, pagePath: one })
+  }
+
+  const web = found.some((one) => one.kind === WEB_APP)
+  const left = web ? found.filter((one) => one.kind !== CLUSTER_SERVICE) : found
+  const only = left[0]
+  if (only === undefined) {
+    const webs = having("web app", slugsOf(webApps, WEB_APP_SUFFIX))
+    const ioses = having("ios app", Object.keys(ios).sort())
+    const servers = having("cluster service", slugsOf(services, CLUSTER_SERVICE_SUFFIX))
+    const runners = having("workstation service", slugsOf(units, WORKSTATION_SERVICE_SUFFIX))
     return {
-      refused: `a web app page and an ios app page are both named \`${slug}\`, so which app is meant is unsettled: ${[...webNamed, iosNamed.pagePath].join(", ")}`,
+      refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, and ${runners}`,
     }
   }
-  if (iosNamed !== undefined && serviceNamed.length > 0) {
+  if (left.length > 1) {
     return {
-      refused: `an ios app page and a cluster service page are both named \`${slug}\`, so what is meant is unsettled: ${[iosNamed.pagePath, ...serviceNamed].join(", ")}`,
+      refused: `${left.length} pages are named \`${slug}\`, so what is meant is unsettled: ${left.map((one) => `${one.kind} ${one.pagePath}`).join(", ")}`,
     }
   }
-  if (webNamed.length > 0) return { kind: WEB_APP, pagePath: webNamed[0] as string }
-  if (iosNamed !== undefined) return { kind: IOS_APP, pagePath: iosNamed.pagePath }
-  if (serviceNamed.length > 0) {
-    return { kind: CLUSTER_SERVICE, pagePath: serviceNamed[0] as string }
-  }
-  const webs = having("web app", slugsOf(webApps, WEB_APP_SUFFIX))
-  const ioses = having("ios app", Object.keys(ios).sort())
-  const servers = having("cluster service", slugsOf(services, CLUSTER_SERVICE_SUFFIX))
-  return {
-    refused: `no web app page, no ios app page and no cluster service page is named \`${slug}\` — ${webs}, ${ioses}, and ${servers}`,
-  }
+  return only
 }

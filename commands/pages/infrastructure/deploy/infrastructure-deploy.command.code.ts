@@ -1,3 +1,4 @@
+import { putUpService } from "akasha/services/workstation-services/service-putting-up/service-putting-up.module.code.ts"
 import {
   appliedWorkload,
   servableNamed,
@@ -10,6 +11,8 @@ import {
   CLUSTER_SERVICE,
   IOS_APP,
   kindNamed,
+  WEB_APP,
+  WORKSTATION_SERVICE,
 } from "./deploy-kind-reading/deploy-kind-reading.module.code.ts"
 import { putUpWebApp } from "./deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
 
@@ -20,6 +23,11 @@ const NO_UPLOAD = "--no-upload"
 const MEASURED = "--measured"
 const REF = "--ref"
 const FLAGS = [DRY_RUN, NO_UPLOAD, MEASURED]
+const NAMED: Readonly<Record<string, string>> = {
+  [CLUSTER_SERVICE]: "a cluster service",
+  [WORKSTATION_SERVICE]: "a workstation service",
+  [WEB_APP]: "a web app",
+}
 
 export interface RefNamed {
   readonly ref: string | null
@@ -91,7 +99,7 @@ export async function infrastructureDeploy(argv: readonly string[], given: Given
     }
     return shipIosApp(slug, read.pagePath, rest.includes(NO_UPLOAD), ref)
   }
-  const what = read.kind === CLUSTER_SERVICE ? "a cluster service" : "a web app"
+  const what = NAMED[read.kind] as string
   if (rest.includes(NO_UPLOAD)) {
     return refused(
       `\`${slug}\` names ${what}, which is put up rather than uploaded, so \`${NO_UPLOAD}\` says nothing about it — a run that applies nothing is \`${DRY_RUN}\``,
@@ -100,11 +108,14 @@ export async function infrastructureDeploy(argv: readonly string[], given: Given
   }
   if (ref !== null) {
     return refused(
-      read.kind === CLUSTER_SERVICE
-        ? `\`${slug}\` names a cluster service, which runs the image its page names rather than a commit built here, so \`${REF}\` says nothing about it`
-        : `\`${slug}\` names a web app, which is built from the commit this workstation's HEAD is at rather than from one told, so \`${REF}\` says nothing about it`,
+      read.kind === WEB_APP
+        ? `\`${slug}\` names a web app, which is built from the commit this workstation's HEAD is at rather than from one told, so \`${REF}\` says nothing about it`
+        : `\`${slug}\` names ${what}, which runs what its page describes rather than a commit built here, so \`${REF}\` says nothing about it`,
       INPUT
     )
+  }
+  if (read.kind === WORKSTATION_SERVICE) {
+    return putUpService(given.root, slug, rest.includes(DRY_RUN))
   }
   if (read.kind === CLUSTER_SERVICE) {
     const servable = servableNamed(given.root, slug)
