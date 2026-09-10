@@ -28,7 +28,7 @@ const SENTENCE_SCROLL_VIEWPORT_BIAS = 0.35
 
 const DEFAULT_PARAGRAPH_GAP_PX = 20
 
-const MemoProseBlock = memo(function MemoProseBlock({
+const MemoProseBlock = memo(function ProseBlockRow({
   block,
   sentenceLayout,
 }: {

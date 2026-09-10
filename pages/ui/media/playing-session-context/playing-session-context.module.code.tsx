@@ -121,11 +121,11 @@ export function PlayingSessionProvider({
     restorePendingRef.current = true
     dispatch({ type: "start", session: init })
   }, [])
-  const setVariant = useCallback((variant: string) => {
-    dispatch({ type: "setVariant", variant })
+  const setVariant = useCallback((chosen: string) => {
+    dispatch({ type: "setVariant", variant: chosen })
   }, [])
-  const setSpeed = useCallback((speed: number) => {
-    dispatch({ type: "setSpeed", speed })
+  const setSpeed = useCallback((rate: number) => {
+    dispatch({ type: "setSpeed", speed: rate })
   }, [])
   const stop = useCallback(() => {
     dispatch({ type: "stop" })
