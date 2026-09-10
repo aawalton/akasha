@@ -23,7 +23,7 @@ const HOLDS = "ts"
 
 const SLUG = "slug"
 
-const PAGE_TYPE = "pageType"
+const PAGE_TYPE = "page-type"
 
 export type AddPagePropertyTypesAsked = {
   readonly pageType: string

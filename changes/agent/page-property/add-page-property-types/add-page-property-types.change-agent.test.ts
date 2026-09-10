@@ -126,5 +126,5 @@ test("every page is reached rather than the first alone", async () => {
 test("arguments holding no page type are refused by the name of the argument", async () => {
   const said = await runChange(worldFor(catching([]), [KIND], [AT]), {})
 
-  expect(said.refused ?? "").toMatch(/`pageType`/)
+  expect(said.refused ?? "").toMatch(/`page-type`/)
 })
