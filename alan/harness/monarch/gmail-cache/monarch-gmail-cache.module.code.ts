@@ -3,6 +3,7 @@ import {
   getMessage,
   listMessages,
 } from "akasha/google/email/email-message-fetching/email-message-fetching.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 export interface EmailMessage {
   readonly id: string
@@ -10,6 +11,13 @@ export interface EmailMessage {
   readonly date: string
   readonly body: string
 }
+
+const CACHED_MESSAGE = shape.object({
+  id: shape.string(),
+  subject: shape.string().default(""),
+  date: shape.string().default(""),
+  body: shape.string().default(""),
+})
 
 const FETCH_WIDTH = 8
 
@@ -34,7 +42,7 @@ export async function cachedMessages(options: {
     )
     if (at % 80 === 0 && at > 0) console.log(`  fetched ${at} of ${wanted.length}`)
   }
-  return ids.map(
-    (id) => JSON.parse(readFileSync(`${options.cacheDir}/${id}.json`, "utf8")) as EmailMessage
+  return ids.map((id) =>
+    CACHED_MESSAGE.parse(JSON.parse(readFileSync(`${options.cacheDir}/${id}.json`, "utf8")))
   )
 }
