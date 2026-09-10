@@ -37,6 +37,7 @@ export const alanwalton = {
     "@capacitor/status-bar",
   ],
   webDirectory: true,
+  webEntry: "html",
   webEnvPath: "alan/web/.env.local",
   widgetBundleId: "com.alanwalton.app.widgets",
   widgetProfileName: "alanwalton widget App Store",
@@ -79,5 +80,4 @@ export const alanwalton = {
     "shell-script/alanwalton-widget-refresh",
     "shell-script/alanwalton-widget-target",
   ],
-  webEntry: "html",
 } as const satisfies IosApp
