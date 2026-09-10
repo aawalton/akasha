@@ -28,7 +28,8 @@ export const contentPagesCacheCore = {
     },
     {
       invariantKind: "departure",
-      statement: "Every other page key is optional here and judged only where a held page has it.",
+      statement:
+        "Every other page key is optional here and judged only where a held page has that key.",
     },
     {
       invariantKind: "departure",
