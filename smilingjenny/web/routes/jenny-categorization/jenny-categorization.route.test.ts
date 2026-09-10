@@ -4,6 +4,7 @@ import {
   RELAY_PATH,
   relayReading,
 } from "akasha/readouts/relay/readout-relay.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { action } from "../jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "./jenny-categorization.route.code.ts"
 
@@ -38,7 +39,7 @@ beforeAll(() => {
       return Response.json({ rows: [SCALE_ROW] })
     },
   })
-  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
+  heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
   process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
   server = Bun.serve({
     port: 0,

@@ -1,5 +1,6 @@
 import { expect } from "bun:test"
 import { join } from "node:path"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { Glob } from "bun"
 import { relayedFor } from "../relay/readout-relay.module.test-fixtures.ts"
 import {
@@ -65,7 +66,7 @@ export function servingStore(): ReturnType<typeof Bun.serve> {
       return Response.json({ rows: [] })
     },
   })
-  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
+  heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
   process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
   return store
 }

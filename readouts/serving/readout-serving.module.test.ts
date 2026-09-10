@@ -1,4 +1,5 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { RING_CREDENTIAL_HEADER } from "../credential/readout-credential.module.code.ts"
 import { dropRelayed, holdRelayed } from "../relay/readout-relay.module.code.ts"
 import { relayedFor } from "../relay/readout-relay.module.test-fixtures.ts"
@@ -45,7 +46,7 @@ beforeAll(() => {
       return Response.json({ rows: [SCALE_ROW] })
     },
   })
-  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
+  heldOrigin = optionalEnv("PAGES_SERVICE_ORIGIN")
   process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
   server = Bun.serve({
     port: 0,
