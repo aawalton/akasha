@@ -8,7 +8,7 @@ import {
   overEachText,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 
-const PACKAGE = "workspace-package"
+const PAGE_TYPE = "page-type"
 
 const INDEX = "index"
 
@@ -71,9 +71,9 @@ const INDEXES = new WeakMap<Shadow, string>()
 export function indexesAt(shadow: Shadow): string {
   const held = INDEXES.get(shadow)
   if (held !== undefined) return held
-  const one = shadow.index.listedAt(PACKAGE, INDEX)[0]
+  const one = shadow.index.listedAt(PAGE_TYPE, INDEX)[0]
   if (one === undefined) {
-    throw new Error(`the index files no \`${PACKAGE}/${INDEX}\`, so where it sits is unknown`)
+    throw new Error(`the index files no \`${PAGE_TYPE}/${INDEX}\`, so where it sits is unknown`)
   }
   const made = `${dirname(one.path)}/`
   INDEXES.set(shadow, made)

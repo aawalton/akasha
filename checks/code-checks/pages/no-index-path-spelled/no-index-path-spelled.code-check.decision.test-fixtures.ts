@@ -27,9 +27,9 @@ export const reasonsIn = reasonsOver(INDEXES, PAGE_TYPES)
 
 export const scratch = scratchWorld()
 
-const PACKAGE_AT = `${INDEXES}index.workspace-package.ts`
+const TYPED_AT = `${INDEXES}index.page-type.ts`
 
-const PACKAGE_ID = "01a08850-6d1a-7c44-8f21-4a7b2e9c0d63"
+const TYPED_ID = "01a08850-6d1a-7c44-8f21-4a7b2e9c0d63"
 
 export function rooted(
   files: Readonly<Record<string, string>>,
@@ -38,13 +38,12 @@ export function rooted(
   const root = scratch.rootFor(prefix)
   founded(root)
   typed(root, "module", "page")
-  typed(root, "workspace-package", "page")
-  listedFiled(root, "workspace-package", "index", [{ path: PACKAGE_AT, id: PACKAGE_ID }])
+  typed(root, "page-type", "page")
+  listedFiled(root, "page-type", "index", [{ path: TYPED_AT, id: TYPED_ID }])
   writing(
     root,
-    PACKAGE_AT,
-    `export const held = { id: "${PACKAGE_ID}", pageTypeSlug: "workspace-package",` +
-      ' slug: "index" }\n'
+    TYPED_AT,
+    `export const held = { id: "${TYPED_ID}", pageTypeSlug: "page-type", slug: "index" }\n`
   )
   for (const [path, body] of Object.entries(files)) writing(root, path, body)
   return root
