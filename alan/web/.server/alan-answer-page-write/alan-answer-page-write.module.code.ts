@@ -1,37 +1,7 @@
-import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
-import {
-  readPageWrite,
-  runPageWrite,
-  TAKES,
-  writesAs,
-} from "akasha/pages/access/answer-write/answer-write.module.code.ts"
+import { answerPageWrite as answerFrom } from "akasha/alan/harness/web-page-answers/.server/answer-page-write/answer-page-write.module.code.ts"
 
-writesAs("alanwalton-web")
+const ALANWALTON_WRITER = "alanwalton-web"
 
-export async function answerPageWrite(request: Request): Promise<Response> {
-  const { user, headers } = await resolveRequestUser(request)
-  if (user === null) {
-    return Response.json(
-      { error: "this route answers a signed-in writer only" },
-      { status: 401, headers }
-    )
-  }
-  let body: unknown
-  try {
-    body = await request.json()
-  } catch {
-    return Response.json({ error: TAKES }, { status: 400, headers })
-  }
-  const asked = readPageWrite(body)
-  if (asked === null) {
-    return Response.json({ error: TAKES }, { status: 400, headers })
-  }
-  try {
-    return Response.json({ result: await runPageWrite(asked) }, { headers })
-  } catch (err: unknown) {
-    return Response.json(
-      { error: err instanceof Error ? err.message : String(err) },
-      { status: 400, headers }
-    )
-  }
+export function answerPageWrite(request: Request): Promise<Response> {
+  return answerFrom(request, ALANWALTON_WRITER)
 }
