@@ -1,4 +1,4 @@
-import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.ts"
+import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.types.ts"
 
 export const almalexia = {
   id: "01a06153-0ea9-7009-a905-fc732e55d6b7",

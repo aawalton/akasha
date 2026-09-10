@@ -1,4 +1,4 @@
-import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.ts"
+import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.types.ts"
 
 export const dukeOfCrows = {
   id: "01a06153-0eaa-7001-8805-706f7471901d",

@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.types.ts"
-import type { Cards } from "./properties/cards.page-property-entry.ts"
-import type { EsoPatronId } from "./properties/eso-patron-id.number-property.ts"
-
-export type TemperTributePatron = TemperPursuitThing & {
-  esoPatronId: EsoPatronId
-  cards: Cards
-}
 
 export const temperTributePatron = {
   id: "01a06153-0ea9-7008-ab66-7b7e073ebf51",
@@ -35,4 +27,5 @@ export const temperTributePatron = {
       statement: "A patron is reached by the collectible the game grants when the patron is won.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

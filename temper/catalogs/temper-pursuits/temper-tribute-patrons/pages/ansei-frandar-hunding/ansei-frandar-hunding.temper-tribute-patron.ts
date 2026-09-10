@@ -1,4 +1,4 @@
-import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.ts"
+import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.types.ts"
 
 export const anseiFrandarHunding = {
   id: "01a06153-0eaa-7000-a315-b4d2475a08af",

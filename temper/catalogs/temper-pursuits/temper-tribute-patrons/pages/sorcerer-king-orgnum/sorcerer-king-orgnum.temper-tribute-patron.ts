@@ -1,4 +1,4 @@
-import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.ts"
+import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.types.ts"
 
 export const sorcererKingOrgnum = {
   id: "01a06153-0eaa-7009-b0f9-e1f1f7de9566",

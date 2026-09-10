@@ -1,4 +1,4 @@
-import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.ts"
+import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.types.ts"
 
 export const theDruidKing = {
   id: "01a06153-0eaa-700a-9109-247000ac4a81",

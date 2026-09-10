@@ -1,4 +1,4 @@
-import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.ts"
+import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.types.ts"
 
 export const grandmasterDelmeneHlaalu = {
   id: "01a06153-0eaa-7002-9772-91e6f630a0fe",
