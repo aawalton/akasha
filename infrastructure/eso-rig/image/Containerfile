@@ -111,8 +111,8 @@ ENV WINEDEBUG=-all
 # The build context is the package folder, so each path below is a sibling page's
 # file. Both land in one directory because the entrypoint reaches the probe as
 # `$SELF_DIR/rig-probe.py` — the in-image names are the contract, not these.
-COPY eso-rig-entrypoint/eso-rig-entrypoint.shell-script.shell.sh /opt/eso-rig/entrypoint.sh
-COPY eso-rig-probe/eso-rig-probe.python-module.python.py /opt/eso-rig/rig-probe.py
+COPY entrypoint/eso-rig-entrypoint.shell-script.shell.sh /opt/eso-rig/entrypoint.sh
+COPY probe/eso-rig-probe.python-module.python.py /opt/eso-rig/rig-probe.py
 
 # Build-time smoke: prove the pieces the rig cannot start without are actually
 # on disk under THIS package set. A dropped file or a renamed module surfaces
