@@ -1,11 +1,11 @@
 import type { InventoryItemData } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type {
   CategoryRule,
   MoveToDestination,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import fc from "fast-check"
 import { makeStackableItem } from "../inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
 import {

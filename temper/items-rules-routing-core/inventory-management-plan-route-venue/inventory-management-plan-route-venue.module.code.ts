@@ -3,7 +3,7 @@ import type { LocationTypeId } from "akasha/temper/items-core/location-type-data
 import type {
   ItemAction,
   MoveToDestination,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   PlanItem,
   VenueType,

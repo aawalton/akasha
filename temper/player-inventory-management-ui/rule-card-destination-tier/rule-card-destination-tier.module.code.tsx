@@ -8,7 +8,7 @@ import type {
   CharEligibility,
   MoveToDestination,
   Tier,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ArrowDown, ArrowUp, ChevronRight, Trash2 } from "lucide-react"
 import { CharacterTargetSelect } from "../character-target-select/character-target-select.module.code.tsx"
 import { DestinationCascade } from "../destination-cascade/destination-cascade.module.code.tsx"

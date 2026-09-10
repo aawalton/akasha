@@ -14,7 +14,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { POTION_EFFECTS_OPTIONS } from "akasha/temper/temper-items-rules-core/potion-effects-filter/potion-effects-filter.module.code.ts"
+import { POTION_EFFECTS_OPTIONS } from "akasha/temper/items-rules-core/potion-effects-filter/potion-effects-filter.module.code.ts"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 

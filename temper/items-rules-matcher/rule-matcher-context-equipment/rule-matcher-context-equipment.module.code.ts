@@ -8,17 +8,17 @@ import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/c
 import {
   compileWantedCompanionEquipmentForBuild,
   compileWantedEquipmentForBuild,
-} from "akasha/temper/temper-items-rules-core/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"
+} from "akasha/temper/items-rules-core/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   CharacterBuildInput,
   CompanionBuildInput,
   CompletionCharacterInput,
   CompletionCompanionInput,
-} from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 export function compileWantedEquipment(

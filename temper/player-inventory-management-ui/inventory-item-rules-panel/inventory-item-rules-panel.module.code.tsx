@@ -5,7 +5,7 @@ import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design
 import { Button } from "@akasha/design-primitives/button"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
-import type { ItemRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { Plus } from "lucide-react"
 import { useState } from "react"
 import type {

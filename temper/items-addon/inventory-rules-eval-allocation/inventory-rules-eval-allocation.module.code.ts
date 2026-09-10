@@ -2,19 +2,19 @@ import {
   type CharEligibilityConditions,
   composeCharEligibilityPredicate,
   type EligibilityResolvers,
-} from "akasha/temper/temper-items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
-import type { ResolvedEntry } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
+import type { ResolvedEntry } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   DestinationChain,
   ItemAction,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { planStockChainVisit } from "akasha/temper/temper-items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
-import { planUseDestinationsForStack } from "akasha/temper/temper-items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { planStockChainVisit } from "akasha/temper/items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
+import { planUseDestinationsForStack } from "akasha/temper/items-rules-core/use-destination-resolver/use-destination-resolver.module.code.ts"
 import {
   type CharacterId,
   characterId,
   type ItemKey,
-} from "akasha/temper/temper-items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 import { buildCompiledCharacterPriority } from "../inventory-character-priority/inventory-character-priority.module.code.ts"
 import { buildGetCharacterCurseState } from "../inventory-curse-state/inventory-curse-state.module.code.ts"
 import { buildUnlockContext } from "../inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"

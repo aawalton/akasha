@@ -12,7 +12,7 @@ import {
 } from "@akasha/design-primitives/alert-dialog"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import type { CategoryRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getActionLabel } from "../action-options/action-options.module.code.ts"
 
 interface RuleCardDeleteDialogProps {

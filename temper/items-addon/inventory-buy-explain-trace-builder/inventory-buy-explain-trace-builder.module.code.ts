@@ -1,4 +1,4 @@
-import { computeBuyShortfall } from "akasha/temper/temper-items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
+import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
 import {
   computeBuyQuantity,
   computeGlobalTotal,

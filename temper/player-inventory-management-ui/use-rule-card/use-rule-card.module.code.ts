@@ -10,19 +10,19 @@ import {
   type ItemAction,
   type MoveToDestination,
   type StockScope,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   getNodeChildren,
   getNodePath,
-} from "akasha/temper/temper-items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
-import { LOCATION_OPTIONS } from "akasha/temper/temper-items-rules-core/location-filter/location-filter.module.code.ts"
-import { INVENTORY_RULE_FILTERS } from "akasha/temper/temper-items-rules-core/rule-filter-registry/rule-filter-registry.module.code.ts"
-import type { FilterId } from "akasha/temper/temper-items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
-import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/temper-items-rules-core/set-sources-filter/set-sources-filter.module.code.ts"
+} from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+import { LOCATION_OPTIONS } from "akasha/temper/items-rules-core/location-filter/location-filter.module.code.ts"
+import { INVENTORY_RULE_FILTERS } from "akasha/temper/items-rules-core/rule-filter-registry/rule-filter-registry.module.code.ts"
+import type { FilterId } from "akasha/temper/items-rules-core/rule-filter-types/rule-filter-types.module.code.ts"
+import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items-rules-core/set-sources-filter/set-sources-filter.module.code.ts"
 import {
   getTraitFamily,
   TRAIT_OPTIONS_BY_FAMILY,
-} from "akasha/temper/temper-items-rules-core/traits-filter/traits-filter.module.code.ts"
+} from "akasha/temper/items-rules-core/traits-filter/traits-filter.module.code.ts"
 import { useMemo, useState } from "react"
 import {
   ACTION_OPTIONS,

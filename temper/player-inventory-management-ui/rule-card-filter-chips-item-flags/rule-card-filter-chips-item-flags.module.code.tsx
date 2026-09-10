@@ -9,9 +9,9 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { KNOWN_OPTIONS } from "akasha/temper/temper-items-rules-core/known-filter/known-filter.module.code.ts"
-import { RECONSTRUCTED_OPTIONS } from "akasha/temper/temper-items-rules-core/reconstructed-filter/reconstructed-filter.module.code.ts"
-import { TRANSMUTED_OPTIONS } from "akasha/temper/temper-items-rules-core/transmuted-filter/transmuted-filter.module.code.ts"
+import { KNOWN_OPTIONS } from "akasha/temper/items-rules-core/known-filter/known-filter.module.code.ts"
+import { RECONSTRUCTED_OPTIONS } from "akasha/temper/items-rules-core/reconstructed-filter/reconstructed-filter.module.code.ts"
+import { TRANSMUTED_OPTIONS } from "akasha/temper/items-rules-core/transmuted-filter/transmuted-filter.module.code.ts"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 

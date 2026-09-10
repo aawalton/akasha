@@ -4,10 +4,10 @@ import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-pat
 import { classifyItemToNodeIds } from "akasha/temper/items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type { ClassifiedInventoryItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import type { ItemRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { RuleMatcherContext } from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   type CharacterKnowledge,
   loadTemperCharactersFromPath,

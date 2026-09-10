@@ -6,7 +6,7 @@ import type {
   CompletionCharacterInput,
   CompletionCompanionInput,
   RuleMatcherContext,
-} from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import {
   buildGetCharacterCanLevelMorphs,
   compileCharacterCanLevelMorphs,

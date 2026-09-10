@@ -1,9 +1,9 @@
-import { narrowDestination } from "akasha/temper/temper-items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
+import { narrowDestination } from "akasha/temper/items-rules-core/inventory-destination-parse/inventory-destination-parse.module.code.ts"
 import {
   addItemRule,
   bulkUpdateItemRules,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-import type { ItemRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   ACTIVE,
   answering,

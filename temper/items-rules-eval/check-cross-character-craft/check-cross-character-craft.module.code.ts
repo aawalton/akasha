@@ -1,4 +1,4 @@
-import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ConditionCheckResult } from "../check-result/check-result.module.code.ts"
 import {
   getTraitMapForCraftingType,

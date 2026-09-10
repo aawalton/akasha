@@ -11,7 +11,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { TRAIT_OPTIONS_BY_FAMILY } from "akasha/temper/temper-items-rules-core/traits-filter/traits-filter.module.code.ts"
+import { TRAIT_OPTIONS_BY_FAMILY } from "akasha/temper/items-rules-core/traits-filter/traits-filter.module.code.ts"
 import { useState } from "react"
 import {
   type InventoryViewFilterDef,

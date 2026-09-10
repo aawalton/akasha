@@ -4,7 +4,7 @@ import type {
   InventoryItemData,
 } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
 import { classifyLocation } from "akasha/temper/items-core/location-classify/location-classify.module.code.ts"
-import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 export function isItemStackable(item: InventoryItemData): boolean {
   return item.equipType == null || item.equipType === 0

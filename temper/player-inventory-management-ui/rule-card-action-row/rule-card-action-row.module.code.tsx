@@ -16,7 +16,7 @@ import type {
   DestinationChain,
   MoveToDestination,
   StockScope,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import {
   ACTION_OPTIONS,

@@ -10,7 +10,7 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { Text } from "@akasha/design-primitives/text-body"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import type { RequiredCurseStateCondition } from "akasha/temper/temper-items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
+import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 

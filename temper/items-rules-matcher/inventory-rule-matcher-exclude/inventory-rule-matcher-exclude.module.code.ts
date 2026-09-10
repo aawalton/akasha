@@ -8,9 +8,9 @@ import type { LocationTypeId } from "akasha/temper/items-core/location-type-data
 import type {
   AffectedItem,
   ClassifiedInventoryItem,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import type { ItemAction } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type { CharacterId } from "akasha/temper/temper-items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CharacterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 
 export function toAffectedItem(
   ci: ClassifiedInventoryItem,

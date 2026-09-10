@@ -5,7 +5,7 @@ import { classifyLocation } from "akasha/temper/items-core/location-classify/loc
 import type {
   DestinationCategory,
   MoveToDestination,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { useMemo } from "react"
 import { useInventory } from "../hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "../hooks-inventory-settings/hooks-inventory-settings.module.code.ts"

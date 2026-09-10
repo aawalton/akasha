@@ -4,8 +4,8 @@ import {
   ALL_CATEGORIES_NODE,
   type CategoryRule,
   type ItemRule,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { getNodePath } from "akasha/temper/temper-items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { getNodePath } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { getActionLabel } from "../action-options/action-options.module.code.ts"
 
 function describeCategoryRule(rule: CategoryRule): string {

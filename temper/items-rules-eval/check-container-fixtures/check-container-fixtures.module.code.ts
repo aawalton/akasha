@@ -1,4 +1,4 @@
-import type { CompiledOrderedRule } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { EvalContext, EvalEnv } from "../eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "../item-facts/item-facts.module.code.ts"
 

@@ -1,4 +1,4 @@
-import { ALL_CATEGORIES_ID } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { ALL_CATEGORIES_ID } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   CATEGORY_ROOTS,
   CATEGORY_TREE,

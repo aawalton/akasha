@@ -8,7 +8,7 @@ import { getScriptItemIdByName } from "akasha/temper/items-core/script-knowledge
 import type {
   CharacterBuildInput,
   CompletionCharacterInput,
-} from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
 import { foodOrDrink } from "../../character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 

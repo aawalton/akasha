@@ -15,12 +15,12 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import type { CanLevelMorphsCondition } from "akasha/temper/temper-items-rules-core/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
-import type { CharEligibility } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
+import type { CharEligibility } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   RequiredSkillLinesCondition,
   RequiredSkillLinesMode,
-} from "akasha/temper/temper-items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
+} from "akasha/temper/items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import type { ReactNode } from "react"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 

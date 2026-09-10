@@ -1,4 +1,4 @@
-import type { CharacterScope } from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { CharacterScope } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 export function isItemKnown(itemLink: string, itemType: number): boolean | undefined {
   if (itemType === ITEMTYPE_RECIPE) {
     return IsItemLinkRecipeKnown(itemLink)

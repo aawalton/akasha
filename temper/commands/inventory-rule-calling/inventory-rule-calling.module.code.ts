@@ -3,9 +3,9 @@ import {
   duplicateBuyRule,
   lockBuyRule,
   removeBuyRule,
-} from "akasha/temper/temper-items-rules-core/buy-rule-settings/buy-rule-settings.module.code.ts"
-import type { BuyRule } from "akasha/temper/temper-items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
-import { buildAllControlledRules } from "akasha/temper/temper-items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+} from "akasha/temper/items-rules-core/buy-rule-settings/buy-rule-settings.module.code.ts"
+import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import { buildAllControlledRules } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import {
   duplicateCategoryRule,
   duplicateItemRule,
@@ -13,12 +13,12 @@ import {
   lockItemRule,
   removeCategoryRule,
   removeItemRule,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type {
   CategoryRule,
   InventoryRuleSettings,
   ItemRule,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { Answer } from "../../../commands/modules/calling/calling.module.code.ts"
 import { refused } from "../../../commands/modules/calling/calling.module.code.ts"
 import { emitJson, emitTsv } from "../format-output/format-output.module.code.ts"

@@ -1,20 +1,20 @@
 import { getPage } from "@akasha/pages-access/get"
 import { collectPages } from "@akasha/pages-access/iterate"
 import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
-import {
-  compileWantedEquipment as compileCharacterSignatures,
-  compileWantedCompanionEquipment as compileCompanionSignatures,
-} from "akasha/temper/items-rules-matcher/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type {
   CharacterBuildInput,
   CompanionBuildInput,
   CompletionCharacterInput,
   CompletionCompanionInput,
-} from "akasha/temper/temper-items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+} from "akasha/temper/items-rules-core/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import {
+  compileWantedEquipment as compileCharacterSignatures,
+  compileWantedCompanionEquipment as compileCompanionSignatures,
+} from "akasha/temper/items-rules-matcher/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 
 export const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 export const COMPANION_PAGE_TYPE_SLUG = "temper-companion-progress"

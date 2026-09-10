@@ -1,11 +1,11 @@
-import type { CanLevelMorphsCondition } from "akasha/temper/temper-items-rules-core/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
+import type { CanLevelMorphsCondition } from "akasha/temper/items-rules-core/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import {
   composeCharEligibilityPredicate,
   type EligibilityResolvers,
-} from "akasha/temper/temper-items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
-import type { RequiredCurseStateCondition } from "akasha/temper/temper-items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
-import type { RequiredSkillLinesCondition } from "akasha/temper/temper-items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
-import { characterId } from "akasha/temper/temper-items-rules-core/use-destination-types/use-destination-types.module.code.ts"
+} from "akasha/temper/items-rules-core/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
+import type { RequiredCurseStateCondition } from "akasha/temper/items-rules-core/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
+import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
+import { characterId } from "akasha/temper/items-rules-core/use-destination-types/use-destination-types.module.code.ts"
 import { buildCompiledCharacterPriority } from "../inventory-character-priority/inventory-character-priority.module.code.ts"
 import { buildGetCharacterCurseState } from "../inventory-curse-state/inventory-curse-state.module.code.ts"
 import { getCompiledConfig } from "../inventory-rules-core/inventory-rules-core.module.code.ts"

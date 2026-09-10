@@ -4,18 +4,18 @@ import {
   type LocationTypeId,
   locationTypes,
 } from "akasha/temper/items-core/location-type-data/location-type-data.module.code.ts"
-import { GOAL_NONE_ID } from "akasha/temper/temper-items-rules-core/inventory-rule-goals/inventory-rule-goals.module.code.ts"
-import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { GOAL_NONE_ID } from "akasha/temper/items-rules-core/inventory-rule-goals/inventory-rule-goals.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
   type CategoryRule,
   type ItemRule,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   getCategoryDescendantIds,
   getNodePath,
-} from "akasha/temper/temper-items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+} from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { getActionLabel, SELL_ACTIONS } from "../action-options/action-options.module.code.ts"
 
 const SELL_ACTION_VALUES: ReadonlySet<string> = SELL_ACTIONS

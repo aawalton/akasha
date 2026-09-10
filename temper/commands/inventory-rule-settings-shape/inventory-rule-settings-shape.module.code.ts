@@ -1,9 +1,9 @@
-import type { BuyRule } from "akasha/temper/temper-items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import type {
   CategoryRule,
   InventoryRuleSettings,
   ItemRule,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { z } from "zod"
 
 const SETTINGS_VERSION = 2

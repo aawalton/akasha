@@ -1,8 +1,8 @@
 "use client"
 
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import type { ControlledRule } from "akasha/temper/temper-items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
-import { QUALITY_OPTIONS } from "akasha/temper/temper-items-rules-core/rule-quality-filter/rule-quality-filter.module.code.ts"
+import type { ControlledRule } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
+import { QUALITY_OPTIONS } from "akasha/temper/items-rules-core/rule-quality-filter/rule-quality-filter.module.code.ts"
 
 interface ControlledRuleConditionsProps {
   conditions: NonNullable<ControlledRule["conditions"]>

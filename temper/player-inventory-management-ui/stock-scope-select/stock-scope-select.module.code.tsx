@@ -12,7 +12,7 @@ import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type {
   MoveToDestination,
   StockScope,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 import type { ActionVariant } from "../action-options/action-options.module.code.ts"

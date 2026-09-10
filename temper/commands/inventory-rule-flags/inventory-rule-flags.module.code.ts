@@ -1,5 +1,5 @@
 import { InputError } from "@akasha/errors-core/exit-code"
-import type { BuySource } from "akasha/temper/temper-items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
+import type { BuySource } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import {
   type CategoryRule,
   type DestinationChain,
@@ -7,8 +7,8 @@ import {
   type ItemAction,
   type MoveToDestination,
   type StockScope,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { RULE_CONSTANT_KEYS } from "akasha/temper/temper-items-rules-core/rule-constants/rule-constants.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { RULE_CONSTANT_KEYS } from "akasha/temper/items-rules-core/rule-constants/rule-constants.module.code.ts"
 import { z } from "zod"
 
 export const STOCK_SCOPE_VALUES = ["current-character", "any-character"] as const

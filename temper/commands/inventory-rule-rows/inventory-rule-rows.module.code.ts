@@ -1,4 +1,4 @@
-import type { ItemRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export const ITEM_RULE_COLUMNS = [
   "id",

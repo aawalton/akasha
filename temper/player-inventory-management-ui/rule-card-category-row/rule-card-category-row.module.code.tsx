@@ -12,8 +12,8 @@ import { ITEM_CATEGORY_TREE } from "akasha/temper/items-core/item-category-tree-
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { getNodeChildren } from "akasha/temper/temper-items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { getNodeChildren } from "akasha/temper/items-rules-core/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { ChevronRight } from "lucide-react"
 
 interface RuleCardCategoryRowProps {

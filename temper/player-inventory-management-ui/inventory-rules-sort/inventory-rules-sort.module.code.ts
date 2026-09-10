@@ -3,7 +3,7 @@ import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type {
   CategoryRule,
   ItemRule,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getActionLabel } from "../action-options/action-options.module.code.ts"
 import type { RuleSortField } from "../inventory-filter-types/inventory-filter-types.module.code.ts"
 

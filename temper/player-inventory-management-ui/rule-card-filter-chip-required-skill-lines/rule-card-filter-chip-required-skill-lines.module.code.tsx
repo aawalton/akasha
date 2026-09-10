@@ -14,7 +14,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import type { RequiredSkillLinesCondition } from "akasha/temper/temper-items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
+import type { RequiredSkillLinesCondition } from "akasha/temper/items-rules-core/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import type { ReactNode } from "react"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"

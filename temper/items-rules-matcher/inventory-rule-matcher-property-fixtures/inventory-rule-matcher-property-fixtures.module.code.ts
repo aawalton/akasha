@@ -1,13 +1,13 @@
 import { ESO_ITEMTYPE_RECIPE } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import type { ClassifiedInventoryItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import { makeItem } from "akasha/temper/temper-items-rules-core/inventory-rule-test-utils/inventory-rule-test-utils.module.code.ts"
+import type { ClassifiedInventoryItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { makeItem } from "akasha/temper/items-rules-core/inventory-rule-test-utils/inventory-rule-test-utils.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
   IMPLICIT_TERMINAL_RULE_ID,
   type ItemAction,
   type ItemRule,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import fc from "fast-check"
 
 const CATEGORY_PATHS: readonly (readonly string[])[] = [

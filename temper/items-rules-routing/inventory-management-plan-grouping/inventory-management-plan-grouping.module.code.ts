@@ -1,9 +1,9 @@
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   ActionGroup,
   PlanItem,
 } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
-import type { ItemAction } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 function getGroupLabel(action: ItemAction): string {
   switch (action) {

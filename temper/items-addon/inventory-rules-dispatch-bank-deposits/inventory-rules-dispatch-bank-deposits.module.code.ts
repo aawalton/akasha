@@ -1,6 +1,6 @@
+import type { ItemAction } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { planStockChainVisit } from "akasha/temper/items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
-import type { ItemAction } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { planStockChainVisit } from "akasha/temper/temper-items-rules-core/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,

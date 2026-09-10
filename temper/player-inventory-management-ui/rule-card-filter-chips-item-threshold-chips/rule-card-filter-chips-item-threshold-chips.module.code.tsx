@@ -8,8 +8,8 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { LEVEL_OPTIONS } from "akasha/temper/temper-items-rules-core/level-filter/level-filter.module.code.ts"
-import { QUALITY_OPTIONS } from "akasha/temper/temper-items-rules-core/rule-quality-filter/rule-quality-filter.module.code.ts"
+import { LEVEL_OPTIONS } from "akasha/temper/items-rules-core/level-filter/level-filter.module.code.ts"
+import { QUALITY_OPTIONS } from "akasha/temper/items-rules-core/rule-quality-filter/rule-quality-filter.module.code.ts"
 import type { ReactNode } from "react"
 import { ComparisonOpPicker } from "../comparison-op-picker/comparison-op-picker.module.code.tsx"
 import type { RuleCardState } from "../rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"

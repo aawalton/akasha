@@ -4,8 +4,8 @@ import type {
   InventoryItemData,
   InventoryLocationData,
 } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"
-import { computeBuyShortfall } from "akasha/temper/temper-items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { computeBuyShortfall } from "akasha/temper/items-rules-core/buy-rule-eval/buy-rule-eval.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   ReadFiles,
   ReadPages,

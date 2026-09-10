@@ -30,9 +30,9 @@ import {
 import {
   heldFromRows,
   rulesFromPages,
-} from "akasha/temper/temper-items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { writesFor } from "akasha/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+} from "akasha/temper/items-rules-core/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import type { InventoryRuleSettings } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { writesFor } from "akasha/temper/items-rules-core/inventory-rule-writes/inventory-rule-writes.module.code.ts"
 import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"

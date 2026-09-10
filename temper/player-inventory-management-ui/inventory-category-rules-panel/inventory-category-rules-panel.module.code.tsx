@@ -5,8 +5,8 @@ import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design
 import { Button } from "@akasha/design-primitives/button"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
-import type { AffectedItem } from "akasha/temper/temper-items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
-import type { CategoryRule } from "akasha/temper/temper-items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { Plus } from "lucide-react"
 import { useCallback, useState } from "react"
 import type {
