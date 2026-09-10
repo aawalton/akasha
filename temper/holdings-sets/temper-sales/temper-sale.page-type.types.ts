@@ -1,5 +1,5 @@
+import type { ItemId } from "../../catalog/things/properties/item-id.number-property.ts"
 import type { ItemName } from "../../characters/temper-mines/properties/item-name.text-property.ts"
-import type { ItemId } from "../../temper-catalog/things/properties/item-id.number-property.ts"
 import type { AccountPage } from "../../things/properties/account-page.text-property.ts"
 import type { TemperThing } from "../../things/temper-thing.page-type.types.ts"
 import type { BuyerName } from "./properties/buyer-name.text-property.ts"

@@ -1,4 +1,4 @@
-import type { IsTwoHanded } from "../../../temper-catalog/things/properties/is-two-handed.boolean-property.ts"
+import type { IsTwoHanded } from "../../../catalog/things/properties/is-two-handed.boolean-property.ts"
 import type { Key } from "../../../things/properties/key.text-property.ts"
 import type { EnchantmentMultiplier } from "../properties/enchantment-multiplier.number-property.ts"
 import type { EsoWeaponType } from "../properties/eso-weapon-type.text-property.ts"

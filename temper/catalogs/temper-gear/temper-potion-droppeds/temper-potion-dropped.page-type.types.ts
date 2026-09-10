@@ -1,5 +1,5 @@
 import type { Description } from "../../../../pages/properties/description.text-property.ts"
-import type { ItemId } from "../../../temper-catalog/things/properties/item-id.number-property.ts"
+import type { ItemId } from "../../../catalog/things/properties/item-id.number-property.ts"
 import type { DisplayOrder } from "../../../things/properties/display-order.number-property.ts"
 import type { Icon } from "../../../things/properties/icon.text-property.ts"
 import type { Key } from "../../../things/properties/key.text-property.ts"
