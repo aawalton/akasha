@@ -41,7 +41,7 @@ export const sourceGlobbing = {
     },
     {
       invariantKind: "departure",
-      statement: "The app's own tree is named by no glob, because the build already reads it.",
+      statement: "The app's own tree is named by no glob.",
     },
     {
       invariantKind: "departure",
@@ -58,12 +58,12 @@ export const sourceGlobbing = {
     {
       invariantKind: "departure",
       statement:
-        "The globs go where the first of them was, or after the last import where there was none.",
+        "The globs go where the first glob was or after the last import where there was no glob.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The globs are worked out again only where the change carries code, a manifest or a stylesheet.",
+        "The globs are worked out again only where the change carries code or a manifest or a stylesheet.",
     },
     {
       invariantKind: "departure",
