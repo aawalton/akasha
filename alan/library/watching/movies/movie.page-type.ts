@@ -9,7 +9,7 @@ import type { VoteAverage } from "../properties/vote-average.number-property.ts"
 
 export type Movie = CollectionExternal & {
   title: Title
-  genres?: readonly Genres[]
+  genres?: Genres
   imdbId?: ImdbId
   posterPath?: PosterPath
   productionStatus?: ProductionStatus

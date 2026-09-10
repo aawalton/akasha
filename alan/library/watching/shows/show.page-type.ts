@@ -10,7 +10,7 @@ import type { LastAirDate } from "./properties/last-air-date.calendar-date-prope
 
 export type Show = CollectionExternal & {
   title: Title
-  genres?: readonly Genres[]
+  genres?: Genres
   imdbId?: ImdbId
   lastAirDate?: LastAirDate
   posterPath?: PosterPath
