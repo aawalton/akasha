@@ -1,4 +1,4 @@
-import { runGitRaw } from "../git-answering/git-answering.module.code.ts"
+import { runGitRaw } from "../answering/git-answering.module.code.ts"
 import {
   PORCELAIN_STATUS_ARGS,
   type PorcelainEntry,
