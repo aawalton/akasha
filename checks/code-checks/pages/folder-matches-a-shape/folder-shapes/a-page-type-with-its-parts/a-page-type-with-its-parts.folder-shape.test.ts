@@ -100,8 +100,18 @@ test("a workspace package slugged anything else is a second page and is refused"
   expect(said[0]).toContain("2 pages rather than one")
 })
 
-test("a second page that is no workspace package is refused beside a page type", () => {
+test("a domain slugged the page type's slug may sit beside it", () => {
+  expect(judgedBy([], ["model.page-type.ts", "model.domain.ts"], DECLARING)).toEqual([])
+})
+
+test("a second page that is neither a workspace package nor a domain is refused", () => {
   const said = judgedBy([], ["model.page-type.ts", "models.page-type.ts"], DECLARING)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("2 pages rather than one")
+})
+
+test("a domain slugged anything else is a second page and is refused", () => {
+  const said = judgedBy([], ["model.page-type.ts", "other.domain.ts"], DECLARING)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("2 pages rather than one")
 })

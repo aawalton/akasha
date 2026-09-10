@@ -21,11 +21,15 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder may have a workspace package beside that page type.",
+      statement: "The folder may have a second page beside that page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A second page that is no such workspace package is refused.",
+      statement: "That second page is a workspace package or a domain of the page type's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Any other second page is refused.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +37,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "The workspace package beside that page type names no folder.",
+      statement: "That second page names no folder.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +49,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "A file that workspace package states is a part of the folder too.",
+      statement: "A file that second page states is a part of the folder too.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +73,7 @@ export const aPageTypeWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "A subfolder with a page that workspace package declares a part is a part too.",
+      statement: "A subfolder with a page that second page declares a part is a part too.",
     },
 
     {
