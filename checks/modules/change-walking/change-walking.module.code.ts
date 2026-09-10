@@ -229,7 +229,7 @@ export function overEachFile(
   return said
 }
 
-function overEvery(
+export function overEveryNamed(
   root: string,
   taken: (path: string) => boolean,
   judge: (path: string, text: string) => readonly string[]
@@ -249,14 +249,14 @@ export function overEveryText(
   root: string,
   judge: (path: string, text: string) => readonly string[]
 ): readonly Judged[] {
-  return overEvery(root, textNamed, judge)
+  return overEveryNamed(root, textNamed, judge)
 }
 
 export function overEveryBody(
   root: string,
   judge: (path: string, text: string) => readonly string[]
 ): readonly Judged[] {
-  return overEvery(root, bodyNamed, judge)
+  return overEveryNamed(root, bodyNamed, judge)
 }
 
 export async function overEveryTextAsync(
