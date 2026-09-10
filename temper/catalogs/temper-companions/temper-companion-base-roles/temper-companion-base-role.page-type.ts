@@ -7,7 +7,7 @@ import type { TemperCompanionThing } from "../temper-companion-things/temper-com
 
 export type TemperCompanionBaseRole = TemperCompanionThing & {
   abbreviation: Abbreviation
-  validArmorWeights: readonly ValidArmorWeights[]
+  validArmorWeights: ValidArmorWeights
   validTraitIds: readonly ValidTraitIds[]
   validWeaponRoleIds: readonly ValidWeaponRoleIds[]
 }

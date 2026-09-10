@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type ValidArmorWeights = string
+export type ValidArmorWeights = List<string>
 
 export const validArmorWeights = {
   id: "01a05fce-1853-7880-bba6-4f23630e1dbf",
