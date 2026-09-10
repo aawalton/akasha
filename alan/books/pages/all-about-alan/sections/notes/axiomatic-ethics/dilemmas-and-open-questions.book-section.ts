@@ -7,7 +7,7 @@ export const dilemmasAndOpenQuestions = {
   slug: "dilemmas-and-open-questions",
   title: "Dilemmas, settled dials, and open questions",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

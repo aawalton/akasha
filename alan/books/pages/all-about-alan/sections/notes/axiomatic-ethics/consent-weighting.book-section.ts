@@ -7,7 +7,7 @@ export const consentWeighting = {
   slug: "consent-weighting",
   title: "Consent-weighting — the keystone",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

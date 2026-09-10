@@ -7,7 +7,7 @@ export const sensoryCostModulation = {
   slug: "sensory-cost-modulation",
   title: "Safety modulates sensory cost",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/safety"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const aftershockDynamics = {
   slug: "aftershock-dynamics",
   title: "Safety — aftershock dynamics after exposure damage",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/safety"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

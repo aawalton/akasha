@@ -7,7 +7,7 @@ export const perfectKnowledge = {
   slug: "perfect-knowledge",
   title: "Perfect knowledge — the two oracles, the tick, and scale-freedom",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

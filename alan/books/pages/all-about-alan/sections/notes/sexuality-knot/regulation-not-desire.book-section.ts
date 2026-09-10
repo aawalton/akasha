@@ -7,7 +7,7 @@ export const regulationNotDesire = {
   slug: "regulation-not-desire",
   title: "Regulation, not desire",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/sexuality-knot"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

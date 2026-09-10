@@ -7,7 +7,7 @@ export const identityAsTapestry = {
   slug: "identity-as-tapestry",
   title: "Identity, duty, and partiality",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/axiomatic-ethics"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection
