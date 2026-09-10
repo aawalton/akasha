@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { amazonMovements } from "../amazon-lines/monarch-amazon-lines.module.code.ts"
 import type { Movement } from "../amazon-match/monarch-amazon-match.module.code.ts"
 import {
@@ -26,7 +27,7 @@ import { liveTransaction, mayWriteNotes } from "../notes-write/monarch-notes-wri
 
 const GMAIL_QUERY = "from:auto-confirm@amazon.com subject:Ordered after:2025/01/01"
 
-const HOME = process.env.HOME ?? "/home/walton"
+const HOME = shape.string().default("/home/walton").parse(process.env.HOME)
 const BODY_CACHE = `${HOME}/.cache/monarch-amazon-orders`
 
 export async function orderEmails(): Promise<readonly EmailMessage[]> {
