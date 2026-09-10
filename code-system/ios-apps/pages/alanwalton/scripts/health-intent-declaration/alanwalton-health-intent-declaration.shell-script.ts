@@ -20,7 +20,7 @@ export const alanwaltonHealthIntentDeclaration = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing on the phone decides what a day is.",
+      statement: "Nothing on the phone decides the bounds of a day.",
     },
     {
       invariantKind: "departure",
