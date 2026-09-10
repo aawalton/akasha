@@ -17,12 +17,12 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "Three roads land on tracked files outside `runChange`. `landedMechanically` at `command-system/mechanical-landing` has one production caller, `subagent-presence:110`, and moving it is no repoint: `runMechanicalChange` takes named change askings rather than raw bodies and reaches `applying`, where no id is minted. `notification-feed-rows:73` appends a tracked jsonl through `page-entry-queue:47`. `restore.command:207` writes bodies and the git index.\n",
+        "`subagent-presence` lands through `runMechanicalChange` on every road now, naming the change adding a file of any kind and the change taking a page away, so `landedMechanically` at `commands/modules/mechanical-landing` has no caller but its own test, which proves the `MECHANICAL` change kind rather than the function. Two roads are left: `notification-feed-rows:73` appends a tracked jsonl through `page-entry-queue:47`, and `restore.command:207` writes bodies and the git index.\n",
     },
     {
       statement: "Every change is a patch before it is applied.",
       workingMemory:
-        "`landedMechanically` lands raw bodies straight onto the tree at `subagent-presence:110`, through `landingAsked`. Two roads work a patch out first and reach `applied`: `apply-running` for `change-apply`, and `runMechanicalChange` for every other program. Two more write tracked files with neither patch nor landing: `notification-feed-rows:73` appends through `page-entry-queue:47`, and `restore.command:207` writes bodies and the git index.\n",
+        "Every landing road works a patch out first and reaches `applied`: `apply-running` for `change-apply`, and `runMechanicalChange` for every other program, which `subagent-presence` now takes on every road of its own. Two roads write tracked files with neither patch nor landing: `notification-feed-rows:73` appends through `page-entry-queue:47`, and `restore.command:207` writes bodies and the git index.\n",
     },
   ],
   constraints: [
