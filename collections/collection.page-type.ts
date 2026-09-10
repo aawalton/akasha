@@ -109,7 +109,6 @@ export const collection = {
     { pageProperty: "number-property/parts-progress-in-words", required: false, many: false },
     { pageProperty: "number-property/unit-words", required: false, many: false },
   ],
-  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",

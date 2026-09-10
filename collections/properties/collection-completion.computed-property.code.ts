@@ -1,8 +1,8 @@
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { WorkedCollection } from "../collection.page-type.worked.ts"
+import type { Collection } from "../collection.page-type.types.ts"
 import type { CollectionCompletion } from "./collection-completion.computed-property.ts"
 
-export const work: Work<WorkedCollection, CollectionCompletion> = (page) => {
+export const work: Work<Collection, CollectionCompletion> = (page) => {
   const length = page.totalLengthInWords
   const remaining = page.totalRemainingInWords
   if (typeof length === "number" && length > 0) {
