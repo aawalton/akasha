@@ -33,8 +33,6 @@ export const athenaCommandsAtTheRoot = {
     "A new check needs Alan's. Changing a check that is there needs no approval.",
     "The glass is not broken without Alan saying so, and the reason is written in the commit.",
     "A deletion needs no approval. A directive needs Alan's.",
-    "A command's parent is its namespace unless Alan approved it at the root, and a namespace's is the command page type.",
-    "Command and namespace slugs are fully qualified, with no new scope to be unique within.",
     "Packages dissolve, and the root tsconfig covers the commands folder.",
     "The pipeline concept is ablated. `workflow-language` and `workflow-templates` stay.",
     "A clean reading is not believed until the instrument is shown to see a seeded fault.",
