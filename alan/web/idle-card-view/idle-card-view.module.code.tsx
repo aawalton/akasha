@@ -32,7 +32,7 @@ import { buildRosterViewConfig } from "../idle-roster-view-config/idle-roster-vi
 
 const EMPTY_AGGREGATES: ReadonlyMap<string, Record<string, number | null>> = new Map()
 const EMPTY_PLURAL_SLUGS: ReadonlyMap<string, string> = new Map()
-const NO_HREF = (): string => ""
+const noHref = (): string => ""
 
 const ROW_PAGE_TYPE_SLUG = toPageTypeSlug(IDLE_PERSONA_CARD_PAGE_TYPE_SLUG)
 
@@ -170,7 +170,7 @@ export function IdleCardView({ view, now }: { view: "lineup" | "roster"; now: nu
           rowPageTypeSlug={ROW_PAGE_TYPE_SLUG}
           rowAggregates={EMPTY_AGGREGATES}
           pageTypeIconName={IDLE_PERSONA_CARD_ICON}
-          pageHrefById={NO_HREF}
+          pageHrefById={noHref}
           pageTypePluralSlugById={EMPTY_PLURAL_SLUGS}
         />
       )}
