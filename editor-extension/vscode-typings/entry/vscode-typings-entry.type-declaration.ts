@@ -1,10 +1,10 @@
-import type { TypeDeclaration } from "../../code-system/type-declarations/type-declaration.page-type.types.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.types.ts"
 
-export const vscodeTypings = {
+export const vscodeTypingsEntry = {
   id: "01a06977-65e5-7025-9a56-e64197ec6b72",
   pageTypeSlug: "type-declaration",
   type: "type-declaration",
-  slug: "vscode-typings",
+  slug: "vscode-typings-entry",
   definition: "the editor api reached under the name a typecheck looks it up by",
   d: "ts",
   invariants: [
@@ -20,6 +20,15 @@ export const vscodeTypings = {
     {
       invariantKind: "absence",
       statement: "Nothing here is written by hand beyond the one reference.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reference path is read against the real folder of the file holding it, never against the link.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest's types field is read against the installed link instead.",
     },
   ],
 } as const satisfies TypeDeclaration

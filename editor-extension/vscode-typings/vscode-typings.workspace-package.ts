@@ -7,7 +7,7 @@ export const vscodeTypings = {
   slug: "vscode-typings",
   definition: "the editor api presented to a typecheck under the package name it resolves",
   manifest: "json",
-  parts: ["type-declaration/vscode-typings"],
+  parts: ["type-declaration/vscode-typings-entry"],
   invariants: [
     {
       invariantKind: "departure",
