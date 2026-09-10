@@ -41,7 +41,7 @@ test("a folder is listed with or without the separator closing it", () => {
   expect(only('readdirSync("utils/run/running/")\n')).toHaveLength(1)
 })
 
-test("a listing of a path the index knows a path ending with is refused", () => {
+test("a literal the index knows a path ending with is refused", () => {
   expect(only('readdirSync("name-matching/name-matching.module.code.ts")\n')).toHaveLength(1)
 })
 
@@ -126,6 +126,27 @@ test("a long literal is shortened where the refusal names that literal", () => {
   const long = `${"pages/name-formats/modules/name-matching/name-matching.module.code.ts"} is here`
   const said = reasonsIn(askingOver([...HELD, long]), AT, `readdirSync("${long}")\n`)
   expect(said).toHaveLength(1)
+})
+
+test("a literal naming a path the index has a page at is refused", () => {
+  expect(only('const at = "design/colors/pages/yellow.color.ts"\n')).toHaveLength(1)
+})
+
+test("a literal naming a page is refused wherever that literal sits", () => {
+  expect(only('writeFileSync("utils/run/running/running.module.code.ts", body)\n')).toHaveLength(1)
+})
+
+test("a literal naming a folder above a page is let through", () => {
+  expect(only('const at = "design/colors/pages"\n')).toEqual([])
+})
+
+test("a literal a listing reaches that names a page is refused once", () => {
+  const named = 'const AT = "design/colors/pages/yellow.color.ts"\n'
+  expect(only(`${named}readdirSync(AT)\n`)).toHaveLength(1)
+})
+
+test("a literal ending in a separator names a folder rather than a page", () => {
+  expect(only('const at = "design/colors/pages/yellow.color.ts/"\n')).toEqual([])
 })
 
 test("every folder above a path is derived from that path", () => {

@@ -10,11 +10,15 @@ const MOST = 60
 
 const SAID = "what sits under a path the index answers for is asked rather than listed"
 
+const SPELT = "where a page the index answers for sits is asked rather than spelled"
+
 const LISTING: ReadonlySet<string> = new Set(["readdirSync", "readdir", "Glob"])
 
-export type Asking = (said: string) => string | null
+type Found = { readonly at: string; readonly page: boolean }
 
-type Reached = { readonly said: string; readonly at: string }
+export type Asking = (said: string) => Found | null
+
+type Reached = { readonly said: string; readonly at: string; readonly page: boolean }
 
 function shortened(said: string): string {
   return said.length > MOST ? `${said.slice(0, MOST)}…` : said
@@ -44,14 +48,18 @@ export function basedOn(paths: readonly string[]): ReadonlyMap<string, readonly 
 }
 
 export function askingOver(paths: readonly string[]): Asking {
+  const pages = new Set(paths)
   const based = basedOn([...paths, ...foldersOf(paths)])
   return (said) => {
     if (!said.includes(PARTED_BY)) return null
     if (said.startsWith(PARTED_BY) || said.startsWith(".")) return null
-    const at = said.endsWith(PARTED_BY) ? said.slice(0, -PARTED_BY.length) : said
+    const closed = said.endsWith(PARTED_BY)
+    const at = closed ? said.slice(0, -PARTED_BY.length) : said
     const base = at.slice(at.lastIndexOf(PARTED_BY) + 1)
     for (const one of based.get(base) ?? []) {
-      if (one === at || one.endsWith(`${PARTED_BY}${at}`)) return one
+      if (one === at || one.endsWith(`${PARTED_BY}${at}`)) {
+        return { at: one, page: !closed && pages.has(one) }
+      }
     }
     return null
   }
@@ -68,8 +76,8 @@ function specified(node: ts.Node): boolean {
 function namingIn(node: ts.Node, asking: Asking): Reached | null {
   if (!ts.isStringLiteral(node) && !ts.isNoSubstitutionTemplateLiteral(node)) return null
   if (specified(node)) return null
-  const at = asking(node.text)
-  return at === null ? null : { said: node.text, at }
+  const found = asking(node.text)
+  return found === null ? null : { said: node.text, at: found.at, page: found.page }
 }
 
 function reachedIn(
@@ -146,12 +154,19 @@ export function reasonsIn(asking: Asking, path: string, text: string): readonly 
   const visit = (node: ts.Node): undefined => {
     for (const one of listedBy(node)) {
       const found = reachedIn(one, asking, held)
-      if (found === null) continue
+      if (found === null || found.page) continue
       said.push(
         `line ${lineOf(source, node)} lists \`${shortened(found.said)}\`, ` +
           `where \`${found.at}\` sits — ${SAID}`
       )
       break
+    }
+    const own = namingIn(node, asking)
+    if (own?.page === true) {
+      said.push(
+        `line ${lineOf(source, node)} spells \`${shortened(own.said)}\`, ` +
+          `where the page \`${own.at}\` sits — ${SPELT}`
+      )
     }
     ts.forEachChild(node, visit)
   }
