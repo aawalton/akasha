@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code/type-declaration"
+import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const esoOptionsMenu = {
   id: "01a06259-bfbb-741e-b9cc-630b4b8a9583",

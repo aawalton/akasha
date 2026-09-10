@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../type-declarations/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../type-declarations/type-declaration.page-type.types.ts"
 
 export const viteClient = {
   id: "01a0691f-7e97-7738-b113-fb70b4cf4446",

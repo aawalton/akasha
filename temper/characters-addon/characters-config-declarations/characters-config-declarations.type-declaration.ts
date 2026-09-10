@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const charactersConfigDeclarations = {
   id: "01a062f9-1962-700e-9198-73c4008d0dd7",

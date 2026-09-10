@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code/type-declaration"
+import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const addonMenuEsoControls = {
   id: "01a06100-0000-7000-8000-000000000029",

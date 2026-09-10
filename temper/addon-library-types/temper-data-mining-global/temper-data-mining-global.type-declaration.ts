@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const temperDataMiningGlobal = {
   id: "01a06341-d9e8-7009-9c2e-4d2e61191279",

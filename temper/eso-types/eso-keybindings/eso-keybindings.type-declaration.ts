@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const esoKeybindings = {
   id: "01a06381-67c1-7c64-b1db-c19ebd0acd9e",

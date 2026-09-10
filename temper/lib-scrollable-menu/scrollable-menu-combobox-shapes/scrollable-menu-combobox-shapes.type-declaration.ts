@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code/type-declaration"
+import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const scrollableMenuComboboxShapes = {
   id: "01a06275-c446-77dc-a0f6-73bfe2f4f30e",

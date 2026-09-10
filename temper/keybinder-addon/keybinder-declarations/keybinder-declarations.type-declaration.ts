@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const keybinderDeclarations = {
   id: "01a06381-67c1-7169-bc94-c11e7fb0d171",

@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const libScrollableMenu = {
   id: "01a06115-1ac1-7d7e-b5db-dc9ae4496a73",

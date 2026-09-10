@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code/type-declaration"
+import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const orderListBoxPublished = {
   id: "01a06207-bdf6-7c8f-8f0c-3a655587329d",

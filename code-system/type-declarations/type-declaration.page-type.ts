@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { AmbientTypes } from "./properties/ambient-types.file-property.ts"
-import type { Generated } from "./properties/generated.record-property.ts"
-
-export type TypeDeclaration = Domain & {
-  d: AmbientTypes
-  generated?: Generated
-}
 
 export const typeDeclaration = {
   id: "01a0605a-98f4-7c54-8030-4fec48465bda",
@@ -49,4 +41,5 @@ export const typeDeclaration = {
       statement: "A module states the types that module alone uses.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

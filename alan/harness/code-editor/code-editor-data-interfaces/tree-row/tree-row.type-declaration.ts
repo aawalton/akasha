@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../../../../code-system/type-declarations/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../../../../code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const treeRow = {
   id: "01a07254-9a16-7f32-8d54-29daa3227516",

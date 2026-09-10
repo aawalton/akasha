@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code/type-declaration"
+import type { TypeDeclaration } from "akasha/code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const collectionsAddonDeclarations = {
   id: "01a0624c-a660-7de2-9dfa-409076eab77b",

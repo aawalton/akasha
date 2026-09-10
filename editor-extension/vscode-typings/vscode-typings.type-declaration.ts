@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "../../code-system/type-declarations/type-declaration.page-type.ts"
+import type { TypeDeclaration } from "../../code-system/type-declarations/type-declaration.page-type.types.ts"
 
 export const vscodeTypings = {
   id: "01a06977-65e5-7025-9a56-e64197ec6b72",
