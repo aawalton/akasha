@@ -7,6 +7,7 @@ export default [
   route("api/health", "routes/jenny-api-health/jenny-api-health.route.code.ts"),
   route("api/live-version", "routes/jenny-api-live-version/jenny-api-live-version.route.code.ts"),
   route("api/categorization", "routes/jenny-categorization/jenny-categorization.route.code.ts"),
+  route("api/cost", "routes/jenny-cost/jenny-cost.route.code.ts"),
   route("api/readout-relay", "routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"),
   route("api/safety-level", "routes/jenny-safety-level/jenny-safety-level.route.code.ts"),
   route("api/surplus", "routes/jenny-surplus/jenny-surplus.route.code.ts"),
