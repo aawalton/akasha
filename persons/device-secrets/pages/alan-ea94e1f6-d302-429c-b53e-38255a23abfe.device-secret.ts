@@ -1,4 +1,4 @@
-import type { DeviceSecret } from "../device-secret.page-type.ts"
+import type { DeviceSecret } from "../device-secret.page-type.types.ts"
 
 export const alanEa94e1f6D302429cB53e38255a23abfe = {
   id: "01a05b5b-b5e0-7b55-9339-498995e976f4",
