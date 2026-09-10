@@ -1,6 +1,5 @@
 import { addressIn } from "akasha/pages/address/page-address.module.code.ts"
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import { textAt, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
@@ -11,8 +10,6 @@ import {
   type World,
 } from "../../../modules/shadow/change-shadow.module.code.ts"
 
-const REMOVE_MEMBER = "change-mechanical-file-content/remove-type-member"
-
 const REMOVE_VALUE = "change-mechanical-file-content/remove-property-value"
 
 const REMOVE_RECORD = "change-mechanical-file-content/remove-property-record"
@@ -21,11 +18,7 @@ const PROPERTIES = "properties"
 
 const PARTS = "parts"
 
-const PROPERTY_SLUG = "property-slug"
-
 const PAGE_PROPERTY = "pageProperty"
-
-const SLUG = "slug"
 
 const QUALIFIED = "qualified"
 
@@ -46,26 +39,12 @@ export async function removePropertyFromPageType(
   if (named.kind !== QUALIFIED) return refusing(`\`${given.property}\` names no page property`)
   const listed = world.index.listedAt(named.pageTypeSlug, named.slug)[0]
   if (listed === undefined) return refusing(`\`${given.property}\` names no page property`)
-  const held = pageIn(world, listed.path)
-  if (held === null) return refusing(`\`${listed.path}\` names no page property`)
-  const key = textAt(held, exportedAs(PROPERTY_SLUG))
-  if (key === null) return refusing(`\`${given.property}\` states no property slug`)
   const owner = pageIn(world, given.at)
   if (owner === null) return refusing(`\`${given.at}\` names no page type`)
-  const owning = textAt(owner, SLUG)
-  if (owning === null) return refusing(`\`${given.at}\` states no slug`)
   const answers: Answer[] = []
   let over: World = isLedger(world)
     ? world
     : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
-  const member = await reach(over, REMOVE_MEMBER, {
-    at: given.at,
-    type: typedAs(owning),
-    key: exportedAs(key),
-  })
-  if (member.said.refused !== null) return member.said
-  over = member.world
-  answers.push(member.said)
   const parted = textsAt(owner, PARTS)
   if (parted?.includes(given.property) === true) {
     const part = await reach(over, REMOVE_VALUE, {

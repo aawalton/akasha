@@ -14,7 +14,7 @@ export const removePropertyFromPageType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property goes from the page type's data and from its type in one answer.",
+      statement: "A property goes from the page type's data.",
     },
     {
       invariantKind: "departure",
@@ -39,15 +39,7 @@ export const removePropertyFromPageType = {
     },
     {
       invariantKind: "departure",
-      statement: "The member taken out is the one keyed by the key the property answers to.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The object type worked is the one the page type's slug names.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The member goes first then the part then the declaration.",
+      statement: "The part goes first then the declaration.",
     },
     {
       invariantKind: "departure",
@@ -72,6 +64,14 @@ export const removePropertyFromPageType = {
     {
       invariantKind: "absence",
       statement: "Nothing here spells an import.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes the type a page type has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The generator writes that type again from the page type this leaves.",
     },
     {
       invariantKind: "absence",

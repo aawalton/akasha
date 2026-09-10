@@ -13,8 +13,6 @@ const PROPERTY_AT = "held/ios-apps/properties/web-directory.build-folder-propert
 
 const PROPERTY = "build-folder-property/web-directory"
 
-const MEMBER = "change-mechanical-file-content/remove-type-member"
-
 const VALUE = "change-mechanical-file-content/remove-property-value"
 
 const RECORD = "change-mechanical-file-content/remove-property-record"
@@ -45,7 +43,7 @@ function worldFor(seen: Reached[], holding: Holding = {}): World {
     index: {
       listedAt: () => (holding.listed === false ? [] : [{ path, id: path }]),
       pageByPath: (one: string) => {
-        if (one !== OWNER_AT) return { propertySlug: "web-directory" }
+        if (one !== OWNER_AT) return null
         if (holding.owner === false) return null
         if (holding.parted === false) return { slug: "ios-app" }
         return { slug: "ios-app", parts: [PROPERTY] }
@@ -67,50 +65,43 @@ async function answering(
   })
 }
 
-test("the member taken out is the one keyed by the key the property answers to", async () => {
-  const seen: Reached[] = []
-  await answering(seen)
-  expect(seen[0]?.at).toBe(MEMBER)
-  expect(seen[0]?.given.key).toBe("webDirectory")
-})
-
-test("the object type worked is the one the page type's slug names", async () => {
-  const seen: Reached[] = []
-  await answering(seen)
-  expect(seen[0]?.given.type).toBe("IosApp")
-  expect(seen[0]?.given.at).toBe(OWNER_AT)
-})
-
 test("the property goes from among the page type's parts in the same answer", async () => {
   const seen: Reached[] = []
   await answering(seen)
-  expect(seen[1]?.at).toBe(VALUE)
-  expect(seen[1]?.given.key).toBe("parts")
-  expect(seen[1]?.given.value).toBe(PROPERTY)
+  expect(seen[0]?.at).toBe(VALUE)
+  expect(seen[0]?.given.at).toBe(OWNER_AT)
+  expect(seen[0]?.given.key).toBe("parts")
+  expect(seen[0]?.given.value).toBe(PROPERTY)
 })
 
 test("a page type that declares a property without parting it loses the declaration alone", async () => {
   const seen: Reached[] = []
   const said = await answering(seen, {}, { parted: false })
   expect(said.refused).toBe(null)
-  expect(seen.map((one) => one.at)).toEqual([MEMBER, RECORD])
-  expect(seen[1]?.given.key).toBe("properties")
-  expect(seen[1]?.given.is).toBe(PROPERTY)
+  expect(seen.map((one) => one.at)).toEqual([RECORD])
+  expect(seen[0]?.given.key).toBe("properties")
+  expect(seen[0]?.given.is).toBe(PROPERTY)
 })
 
 test("the declaration taken out is the one naming that property", async () => {
   const seen: Reached[] = []
   await answering(seen)
-  expect(seen[2]?.at).toBe(RECORD)
-  expect(seen[2]?.given.key).toBe("properties")
-  expect(seen[2]?.given.where).toBe("pageProperty")
-  expect(seen[2]?.given.is).toBe(PROPERTY)
+  expect(seen[1]?.at).toBe(RECORD)
+  expect(seen[1]?.given.key).toBe("properties")
+  expect(seen[1]?.given.where).toBe("pageProperty")
+  expect(seen[1]?.given.is).toBe(PROPERTY)
 })
 
-test("the member goes first, then the part, then the declaration", async () => {
+test("the part goes first, then the declaration", async () => {
   const seen: Reached[] = []
   await answering(seen)
-  expect(seen.map((one) => one.at)).toEqual([MEMBER, VALUE, RECORD])
+  expect(seen.map((one) => one.at)).toEqual([VALUE, RECORD])
+})
+
+test("the type a page type has is left to the generator that writes it", async () => {
+  const seen: Reached[] = []
+  await answering(seen)
+  expect(seen.some((one) => one.at.endsWith("type-member"))).toBe(false)
 })
 
 test("a refusal from a change this reaches is the refusal this gives", async () => {
