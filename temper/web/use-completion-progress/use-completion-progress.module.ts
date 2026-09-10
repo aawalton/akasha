@@ -22,8 +22,11 @@ export const useCompletionProgress = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "An account ask answers at most one row, so the first body answered with is that account's.",
+      statement: "An account ask answers at most one row.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The first body answered with is that account's.",
     },
   ],
 } as const satisfies Module

@@ -13,7 +13,7 @@ export const addonsBundleDir = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder is read from the environment once, when this module loads.",
+      statement: "The folder is read from the environment once when this module loads.",
     },
     {
       invariantKind: "departure",
