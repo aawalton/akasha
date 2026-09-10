@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const shadowWalker = {
   id: "019e66ec-78d7-72fd-8318-6c4500895be1",

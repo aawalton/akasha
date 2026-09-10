@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const lefthandersAegisBelt = {
   id: "019e6484-602e-7ed5-9334-3cdff22510e8",

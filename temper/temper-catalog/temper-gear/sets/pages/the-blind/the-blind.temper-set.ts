@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const theBlind = {
   id: "019e6484-601e-7086-ade9-8811453e87ee",

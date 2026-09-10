@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const stingingSlashes = {
   id: "019e6484-5fd5-75d6-b949-b347d26d5ff6",

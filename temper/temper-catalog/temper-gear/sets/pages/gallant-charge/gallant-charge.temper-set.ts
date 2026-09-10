@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const gallantCharge = {
   id: "019e6484-5fb0-787e-b53f-f6e970161ac3",

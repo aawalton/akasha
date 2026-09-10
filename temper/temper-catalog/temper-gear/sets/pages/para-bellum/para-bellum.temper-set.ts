@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const paraBellum = {
   id: "019e6484-5fb8-7204-85d9-e817937fbfe0",

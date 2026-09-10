@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedSpectralCloak = {
   id: "019e6484-5fc6-77a5-a884-a90aa67d7e92",

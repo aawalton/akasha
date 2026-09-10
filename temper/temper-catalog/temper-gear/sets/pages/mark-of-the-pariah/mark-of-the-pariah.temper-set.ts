@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const markOfThePariah = {
   id: "019e66e7-6a70-731e-b9ee-f93458e0097b",

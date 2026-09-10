@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ashenGrip = {
   id: "019e668e-9a36-7ae5-b98c-b140c60c3a9e",

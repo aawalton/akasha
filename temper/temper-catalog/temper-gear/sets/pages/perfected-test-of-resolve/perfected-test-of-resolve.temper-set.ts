@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedTestOfResolve = {
   id: "019e66ec-7d6c-76cd-ad1e-4402fb694a13",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const steadfastsMettle = {
   id: "019e66e7-6a91-7c59-9dfa-6803036c47e2",

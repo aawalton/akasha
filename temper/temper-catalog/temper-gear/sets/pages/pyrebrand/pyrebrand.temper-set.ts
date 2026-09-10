@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const pyrebrand = {
   id: "019e6484-5fe5-721d-860a-1fb9c62aa22f",

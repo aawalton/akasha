@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const nobilityInDecay = {
   id: "019e6484-5fe4-71d7-bd87-5305193f871a",

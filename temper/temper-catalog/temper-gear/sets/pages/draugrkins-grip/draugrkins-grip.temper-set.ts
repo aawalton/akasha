@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const draugrkinsGrip = {
   id: "019e66e6-a073-7cd7-ba5c-0bb4d134e064",

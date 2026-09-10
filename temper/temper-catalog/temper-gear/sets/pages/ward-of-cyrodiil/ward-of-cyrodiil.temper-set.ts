@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const wardOfCyrodiil = {
   id: "019e66ec-79de-7618-98ff-fb21dc76f701",

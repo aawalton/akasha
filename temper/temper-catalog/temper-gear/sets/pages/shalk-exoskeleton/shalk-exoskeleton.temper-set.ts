@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const shalkExoskeleton = {
   id: "019e66e7-6a89-77c5-a272-6b270c3899b5",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const duroksBane = {
   id: "019e66e6-a079-7af6-b3d6-f7873e4c6244",

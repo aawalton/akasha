@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const roksaTheWarped = {
   id: "019e6484-6011-7dba-bc5a-b8fd5b596ca9",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const wilderqueensArch = {
   id: "019e66e7-6ab1-76ce-863f-964ef7a17e53",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const sanctuary = {
   id: "019e66e6-a0ba-7ca6-80d6-b42b654424df",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const draugrsHeritage = {
   id: "019e66e7-6a59-7486-8d2a-ceb78960580c",

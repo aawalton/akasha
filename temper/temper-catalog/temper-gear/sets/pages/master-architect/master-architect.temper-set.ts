@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const masterArchitect = {
   id: "019e66ec-7bb5-7eb1-a3f2-47c16c0a6e5c",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const stendarrsEmbrace = {
   id: "019e66e7-6a92-7ff0-a3e5-71fd3ad9d72d",

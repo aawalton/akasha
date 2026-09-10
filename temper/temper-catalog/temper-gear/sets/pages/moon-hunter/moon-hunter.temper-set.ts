@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const moonHunter = {
   id: "019e66e6-a0a5-781a-b267-8dbffaacedd9",

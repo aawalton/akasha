@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const macabreVintage = {
   id: "019e66e7-6a6c-7791-a85f-4d8c093a8e1c",

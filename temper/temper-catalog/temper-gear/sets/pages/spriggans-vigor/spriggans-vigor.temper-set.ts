@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const spriggansVigor = {
   id: "019e66e6-a0c8-7b48-ae42-aaba60d95bd4",

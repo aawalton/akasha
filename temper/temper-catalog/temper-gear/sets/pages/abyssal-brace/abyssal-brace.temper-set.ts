@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const abyssalBrace = {
   id: "019e66e6-a053-73b6-93ec-2671978663d1",

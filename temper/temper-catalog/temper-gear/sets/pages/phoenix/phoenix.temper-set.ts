@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const phoenix = {
   id: "019e66ec-785d-740d-a4d5-46584fdd03cb",

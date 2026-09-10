@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const baronThirsk = {
   id: "019e6484-5fee-7a8b-8960-847177b4607f",

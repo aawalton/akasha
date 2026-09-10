@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const elementalCatalyst = {
   id: "019e66e6-a07b-7d69-ba01-6eea8194b308",

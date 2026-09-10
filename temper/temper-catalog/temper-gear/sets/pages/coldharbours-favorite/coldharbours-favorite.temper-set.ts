@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const coldharboursFavorite = {
   id: "019e668e-9a3b-7084-9d38-41c74bbb3323",

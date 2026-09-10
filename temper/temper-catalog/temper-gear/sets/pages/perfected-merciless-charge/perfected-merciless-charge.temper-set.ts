@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedMercilessCharge = {
   id: "019e6484-5fc1-7768-9bf0-bb6c124a27d6",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const cindersOfAnthelmir = {
   id: "019e66e6-a068-78d6-b3af-c5fe80633b0d",

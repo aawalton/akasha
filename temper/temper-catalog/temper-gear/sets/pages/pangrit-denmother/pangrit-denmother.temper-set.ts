@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const pangritDenmother = {
   id: "019e66e6-a0ad-70f9-8137-ffd6f8e9997d",

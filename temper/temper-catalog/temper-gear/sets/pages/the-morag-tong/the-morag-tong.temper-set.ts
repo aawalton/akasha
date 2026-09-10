@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const theMoragTong = {
   id: "019e66ec-797c-7561-83dd-845686823519",

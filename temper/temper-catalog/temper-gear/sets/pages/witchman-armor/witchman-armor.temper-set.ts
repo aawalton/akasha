@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const witchmanArmor = {
   id: "019e66e7-6ab6-79a6-a18e-105ab54f1315",

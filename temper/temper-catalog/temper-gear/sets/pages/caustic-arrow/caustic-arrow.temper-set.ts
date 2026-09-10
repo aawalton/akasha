@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const causticArrow = {
   id: "019e6484-5fa0-7643-93fd-b0ed3447e9a1",

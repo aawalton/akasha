@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const quickSerpent = {
   id: "019e66ec-7e1b-77cc-a52c-3fea102bb73d",

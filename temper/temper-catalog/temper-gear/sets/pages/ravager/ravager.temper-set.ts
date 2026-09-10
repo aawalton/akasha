@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ravager = {
   id: "019e66ec-7891-78fa-b0bb-d508898559a5",

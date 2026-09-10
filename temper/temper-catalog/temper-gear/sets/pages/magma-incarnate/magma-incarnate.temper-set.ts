@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const magmaIncarnate = {
   id: "019e6484-6005-7c9d-b484-31d4bdef80ae",

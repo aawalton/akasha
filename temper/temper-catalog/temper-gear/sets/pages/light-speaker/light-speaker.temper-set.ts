@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const lightSpeaker = {
   id: "019e66e6-a09f-7e46-a6bc-ee9684c1539b",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const sharedPain = {
   id: "019e66ec-78e4-7862-ba58-c21ff718831f",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const histWhisperer = {
   id: "019e668e-9a49-7c43-9da7-5ed1b607b626",

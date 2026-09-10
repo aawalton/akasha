@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const curseEater = {
   id: "019e66ec-76c4-71fb-b5dd-82b0b0004ad1",

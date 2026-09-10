@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const shellSplitter = {
   id: "019e66ec-78f2-7a1c-ad7b-d38c565e7436",

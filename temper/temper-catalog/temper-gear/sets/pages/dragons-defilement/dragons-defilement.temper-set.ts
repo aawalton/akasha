@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const dragonsDefilement = {
   id: "019e66e6-a070-7b41-8402-398b175eca17",

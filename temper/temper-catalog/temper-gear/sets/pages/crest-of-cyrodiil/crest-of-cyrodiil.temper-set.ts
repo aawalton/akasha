@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const crestOfCyrodiil = {
   id: "019e66ec-76b7-7e0b-ad0c-b4d0fcc691c9",

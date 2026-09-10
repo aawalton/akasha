@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const basaltBloodedWarrior = {
   id: "019e6484-5fde-7b83-a3ef-2dd11eccaf68",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const grothdarr = {
   id: "019e6484-5ff9-70e7-831e-db83ac174eb8",

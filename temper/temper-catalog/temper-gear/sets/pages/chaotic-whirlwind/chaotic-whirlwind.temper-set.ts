@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const chaoticWhirlwind = {
   id: "019e66ec-7a7e-7fdb-8130-826ad69f596b",

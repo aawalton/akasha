@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const vampireCloak = {
   id: "019e66e7-6aa3-75db-9d5c-e50988de7fad",

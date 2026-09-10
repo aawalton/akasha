@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const theSaintAndTheSeducer = {
   id: "019e6484-603d-7973-abd5-92bf0f4d2712",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const bulwarkRuination = {
   id: "019e66ec-7693-7a66-9979-3c8c44d31b07",

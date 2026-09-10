@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const heemJasRetribution = {
   id: "019e66e6-a08d-7a90-a05e-a469b383adb5",

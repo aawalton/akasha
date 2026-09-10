@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedDestructiveImpact = {
   id: "019e6484-5fbb-79a8-a260-9245e3b56d97",

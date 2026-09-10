@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const thrassianStranglers = {
   id: "019e6484-6040-74ee-909a-85daf743d6b4",

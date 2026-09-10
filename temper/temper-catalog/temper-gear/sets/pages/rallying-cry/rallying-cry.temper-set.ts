@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const rallyingCry = {
   id: "019e66ec-7884-74c9-b7ee-06071ca0fe34",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const lucillasWindshield = {
   id: "019e66e7-6a0f-7595-ac77-99a0b0210393",

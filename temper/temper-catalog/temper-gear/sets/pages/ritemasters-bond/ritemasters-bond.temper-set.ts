@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ritemastersBond = {
   id: "019e66e6-a0b7-76d9-b203-e068a1eb7065",

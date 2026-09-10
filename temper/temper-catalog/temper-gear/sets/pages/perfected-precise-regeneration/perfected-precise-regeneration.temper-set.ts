@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedPreciseRegeneration = {
   id: "019e6484-5fc3-7108-91f9-bb0c198332f0",

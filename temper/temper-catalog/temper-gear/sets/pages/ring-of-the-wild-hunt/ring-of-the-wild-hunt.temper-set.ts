@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ringOfTheWildHunt = {
   id: "019e6484-6035-772c-977d-ed961a48b434",

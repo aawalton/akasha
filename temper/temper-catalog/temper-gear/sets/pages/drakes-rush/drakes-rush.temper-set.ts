@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const drakesRush = {
   id: "019e66e6-a071-7be2-b7c8-1722c6516694",

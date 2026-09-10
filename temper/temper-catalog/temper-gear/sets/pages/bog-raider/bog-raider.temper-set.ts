@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const bogRaider = {
   id: "019e66e7-6a4b-7095-8a60-cbaecfb51d3a",

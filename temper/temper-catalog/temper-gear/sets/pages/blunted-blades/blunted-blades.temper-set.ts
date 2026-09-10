@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const bluntedBlades = {
   id: "019e66ec-767b-7b43-911b-a62d244d491b",

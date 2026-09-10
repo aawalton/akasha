@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedPearlescentWard = {
   id: "019e66ec-7cf1-7d5a-bcd8-6b3287ba1f30",

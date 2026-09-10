@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedCrushingWall = {
   id: "019e6484-5fba-7b2f-9cf2-8108665bbf47",

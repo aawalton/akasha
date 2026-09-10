@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const spellStrategist = {
   id: "019e66ec-7946-7c36-a19a-cbde43c47c67",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const magickaFurnace = {
   id: "019e66e6-a0a1-70bc-9884-1bdf3e1ab117",

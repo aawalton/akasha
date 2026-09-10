@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const backAlleyGourmand = {
   id: "019e66e7-6a43-78a3-93c7-07d3fdfc6d3b",

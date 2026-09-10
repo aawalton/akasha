@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const vrolsCommand = {
   id: "019e66ec-7efc-7843-82cc-11bdff707804",

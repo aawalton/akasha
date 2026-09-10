@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const thunderbugsCarapace = {
   id: "019e66e7-6a9e-76b3-9089-a0a4054a9a45",

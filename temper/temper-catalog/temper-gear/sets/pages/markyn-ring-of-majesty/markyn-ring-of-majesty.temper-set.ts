@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const markynRingOfMajesty = {
   id: "019e6484-6030-7be9-a8fb-89597d47ce9a",

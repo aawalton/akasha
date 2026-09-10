@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const molagKena = {
   id: "019e6484-6008-7ca5-9aab-b19eb4cf77f1",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const cleverAlchemist = {
   id: "019e668e-9a3a-71a5-b679-d9ec13c550ab",

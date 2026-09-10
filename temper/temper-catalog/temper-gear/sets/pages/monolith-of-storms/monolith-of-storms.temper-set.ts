@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const monolithOfStorms = {
   id: "019e6484-5fe3-7102-acad-95bab72dbb1c",

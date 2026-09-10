@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const spriggansThorns = {
   id: "019e66e7-6a90-792c-97d5-d5a683132261",

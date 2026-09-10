@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const nagaShaman = {
   id: "019e668e-9a54-78b8-8f2d-ee3fa1d103af",

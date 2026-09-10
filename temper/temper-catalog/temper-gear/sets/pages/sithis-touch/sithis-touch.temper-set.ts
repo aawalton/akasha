@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const sithisTouch = {
   id: "019e66e7-6a8b-7ddc-8cde-e4c5783d7efe",

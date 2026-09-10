@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const redistributor = {
   id: "019e668e-9a5e-7f24-beba-944d62bfc8b4",

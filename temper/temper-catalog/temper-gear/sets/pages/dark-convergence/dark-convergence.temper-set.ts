@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const darkConvergence = {
   id: "019e66ec-76d0-7617-9cc6-1e8555e0cb36",

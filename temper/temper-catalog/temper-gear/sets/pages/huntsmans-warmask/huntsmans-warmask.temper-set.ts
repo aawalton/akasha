@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const huntsmansWarmask = {
   id: "019e66e7-6a0a-7768-a22e-ade56e964aa5",

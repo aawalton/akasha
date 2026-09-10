@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const hexSiphon = {
   id: "019e6484-5fb4-772d-81ca-4320128a2ddb",

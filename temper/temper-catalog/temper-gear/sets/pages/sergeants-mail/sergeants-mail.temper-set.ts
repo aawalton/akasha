@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const sergeantsMail = {
   id: "019e66e6-a0c0-72a3-82d6-fa3100a51eaf",

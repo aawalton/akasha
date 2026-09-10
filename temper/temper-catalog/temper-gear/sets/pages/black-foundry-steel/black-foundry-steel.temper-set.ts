@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const blackFoundrySteel = {
   id: "019e66e7-69fc-7757-b1d1-f34d785c6d8b",

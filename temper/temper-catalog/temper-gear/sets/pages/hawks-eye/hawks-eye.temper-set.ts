@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const hawksEye = {
   id: "019e66ec-775e-78af-9f85-3fffbdb0411d",

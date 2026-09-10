@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const hircinesVeneer = {
   id: "019e66e6-a08e-7bb2-abb4-0017e8855ce6",

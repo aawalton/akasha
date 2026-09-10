@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const crimsonOathsRive = {
   id: "019e66e6-a06a-78f7-bc1e-ce1221d61f9d",

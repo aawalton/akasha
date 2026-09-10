@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const curseOfDoylemish = {
   id: "019e66e6-a06d-7a30-95a8-65944f4d7256",

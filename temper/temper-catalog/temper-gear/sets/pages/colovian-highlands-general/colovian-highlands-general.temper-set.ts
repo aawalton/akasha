@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const colovianHighlandsGeneral = {
   id: "019e66ec-769f-7bce-a8b6-09534d0e3ac2",

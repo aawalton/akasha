@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const clawOfTheForestWraith = {
   id: "019e668e-9a39-741e-b14d-6de9d5880d71",

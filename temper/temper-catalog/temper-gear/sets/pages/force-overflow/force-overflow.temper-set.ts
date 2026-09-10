@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const forceOverflow = {
   id: "019e6484-5fae-721a-b197-2f6cf55360c4",

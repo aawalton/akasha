@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const marksmansCrest = {
   id: "019e66ec-780f-7936-9456-00ffc220186c",

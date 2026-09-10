@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const savageWerewolf = {
   id: "019e66e6-a0bb-7e39-84b0-d65b08178fe1",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedStoneTalkersOath = {
   id: "019e66ec-7d49-7d79-bd6a-3622410cebdd",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const balorgh = {
   id: "019e6484-5fed-7af8-b50c-5b22a0e924e8",

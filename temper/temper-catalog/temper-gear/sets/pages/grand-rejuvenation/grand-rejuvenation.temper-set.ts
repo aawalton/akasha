@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const grandRejuvenation = {
   id: "019e6484-5fb2-7b67-b3dc-9175b48a5c4f",

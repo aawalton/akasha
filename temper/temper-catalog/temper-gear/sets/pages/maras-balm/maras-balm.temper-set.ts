@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const marasBalm = {
   id: "019e66ec-7802-7ef2-8558-b166c472f418",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const hideOfMorihaus = {
   id: "019e66e7-6a67-79e6-99a8-32a55eacbe40",

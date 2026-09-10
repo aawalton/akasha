@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const theTrollKing = {
   id: "019e6484-601e-7f70-8d03-6938221af37d",

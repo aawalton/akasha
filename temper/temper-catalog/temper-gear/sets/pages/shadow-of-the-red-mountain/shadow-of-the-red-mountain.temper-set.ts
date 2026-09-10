@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const shadowOfTheRedMountain = {
   id: "019e66e7-6a88-7480-bd52-9f7eb52f6a56",

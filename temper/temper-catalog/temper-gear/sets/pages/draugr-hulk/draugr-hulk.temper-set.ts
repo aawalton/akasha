@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const draugrHulk = {
   id: "019e66e6-a072-7ccc-afc0-0ff77b738cbf",

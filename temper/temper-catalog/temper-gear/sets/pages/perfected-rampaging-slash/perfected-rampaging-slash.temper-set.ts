@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedRampagingSlash = {
   id: "019e6484-5fc5-7a71-b54f-6c9e3fd26a05",

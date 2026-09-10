@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const battlefieldAcrobat = {
   id: "019e66ec-764b-7068-bfe7-2f1261441e0e",

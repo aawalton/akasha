@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedToothOfLokkestiiz = {
   id: "019e66ec-7d89-77aa-93c7-faf3b3f83b79",

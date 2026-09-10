@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const jerallMountainsWarchief = {
   id: "019e66ec-77aa-7c9f-8b90-b78aae664f61",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const azureblightReaper = {
   id: "019e66e6-a05d-7565-a46b-7d5ac1af3de1",

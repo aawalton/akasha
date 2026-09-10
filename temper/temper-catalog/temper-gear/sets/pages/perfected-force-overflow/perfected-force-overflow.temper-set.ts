@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedForceOverflow = {
   id: "019e6484-5fbd-738d-b172-5650ea4cd594",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const undauntedInfiltrator = {
   id: "019e66e6-a0e1-7ab2-a4f7-5e8a53903251",

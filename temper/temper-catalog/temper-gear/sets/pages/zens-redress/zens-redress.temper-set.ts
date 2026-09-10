@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const zensRedress = {
   id: "019e66e6-a0e9-764e-976e-fa8493df0ea8",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const stuhnsFavor = {
   id: "019e668e-9a68-7cce-913f-a9f1e0995883",

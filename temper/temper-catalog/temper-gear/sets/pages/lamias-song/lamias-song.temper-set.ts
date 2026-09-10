@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const lamiasSong = {
   id: "019e66e6-a09c-7c84-86d8-8a7ccd77391a",

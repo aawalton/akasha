@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const vastariesTutelage = {
   id: "019e668e-9a73-79c9-b6d2-64bd85a65bfc",

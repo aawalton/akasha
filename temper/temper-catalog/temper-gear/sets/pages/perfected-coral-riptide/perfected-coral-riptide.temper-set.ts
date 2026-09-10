@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedCoralRiptide = {
   id: "019e66ec-7c63-7375-921a-e0b7226a39c2",

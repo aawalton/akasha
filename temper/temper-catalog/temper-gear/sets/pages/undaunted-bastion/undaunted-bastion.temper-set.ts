@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const undauntedBastion = {
   id: "019e66e6-a0e0-7874-bd02-a8b1d11a439b",

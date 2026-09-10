@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const affliction = {
   id: "019e66ec-75f2-76dd-8728-c3fc3e33b1df",

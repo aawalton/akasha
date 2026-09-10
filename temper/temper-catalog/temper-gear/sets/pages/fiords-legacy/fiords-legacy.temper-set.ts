@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const fiordsLegacy = {
   id: "019e66e7-6a5e-7043-9e2c-eefaca335082",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const bufferOfTheSwift = {
   id: "019e66ec-7687-7b47-b71d-ee249f3aa419",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const pelinalsWrath = {
   id: "019e668e-9a5d-73a2-b718-53571d92ebe6",

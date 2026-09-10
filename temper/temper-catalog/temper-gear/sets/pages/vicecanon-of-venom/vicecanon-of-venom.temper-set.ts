@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const vicecanonOfVenom = {
   id: "019e66ec-79c1-7ba3-aaea-cc3b891d7534",

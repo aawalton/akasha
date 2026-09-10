@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const graceOfGloom = {
   id: "019e66e7-6a61-78f3-ae5d-98282dedaddc",

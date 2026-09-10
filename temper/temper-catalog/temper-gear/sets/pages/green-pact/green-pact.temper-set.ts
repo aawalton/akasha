@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const greenPact = {
   id: "019e66e7-6a62-7c22-b914-0f105e1e4e51",

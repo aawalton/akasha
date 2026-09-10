@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedYandirsMight = {
   id: "019e66ec-7de0-7c1f-bad7-4c9b72c54132",

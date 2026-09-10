@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const swampRaider = {
   id: "019e66e7-6a96-788c-855b-5b5d24fb3f36",

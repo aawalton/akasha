@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const archdruidDevyric = {
   id: "019e6484-5fec-7c16-b071-ab7edee0fff0",

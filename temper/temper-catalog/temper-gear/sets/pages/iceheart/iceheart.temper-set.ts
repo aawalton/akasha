@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const iceheart = {
   id: "019e6484-5ffb-7041-8601-b4cfcaf14038",

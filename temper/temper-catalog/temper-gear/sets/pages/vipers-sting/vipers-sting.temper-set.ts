@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const vipersSting = {
   id: "019e66e6-a0e7-7221-ae4d-d6bdffdef2b2",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const defiler = {
   id: "019e66e7-6a56-7f70-bb01-3a901eb5d8bd",

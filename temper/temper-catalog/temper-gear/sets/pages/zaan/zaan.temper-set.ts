@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const zaan = {
   id: "019e6484-6024-7bdf-9c36-548ec92d46ea",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const lucentEchoes = {
   id: "019e66ec-7b89-755e-a65f-b777f6015ff7",

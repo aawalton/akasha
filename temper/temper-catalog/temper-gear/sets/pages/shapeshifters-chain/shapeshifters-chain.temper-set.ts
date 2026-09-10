@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const shapeshiftersChain = {
   id: "019e6484-6038-73fd-b041-0c8aeba7a231",

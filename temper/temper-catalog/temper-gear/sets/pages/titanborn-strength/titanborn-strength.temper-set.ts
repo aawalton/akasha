@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const titanbornStrength = {
   id: "019e66e6-a0d6-7d7f-85a6-2f6ed988f791",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const alessiasBulwark = {
   id: "019e668e-9a32-7370-9df7-cea170ae527d",

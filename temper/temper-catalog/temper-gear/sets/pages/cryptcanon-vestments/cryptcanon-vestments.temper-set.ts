@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const cryptcanonVestments = {
   id: "019e6484-6028-76b1-b968-c2db0d0ac512",

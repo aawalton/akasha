@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const warriorPoet = {
   id: "019e66e7-6aac-752c-a6c7-838e1635f1c8",

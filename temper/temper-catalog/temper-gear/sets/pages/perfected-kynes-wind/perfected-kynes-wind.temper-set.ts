@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedKynesWind = {
   id: "019e66ec-7caa-73f0-8785-2a06377318b1",

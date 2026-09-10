@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const legacyOfKarth = {
   id: "019e668e-9a4f-7e74-a2df-6c165a9a997e",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const stormweaversCavort = {
   id: "019e6484-603b-72d9-9f93-df2e269c50eb",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const falseGodsDevotion = {
   id: "019e66ec-7b22-7975-ba6b-a531670ceb50",

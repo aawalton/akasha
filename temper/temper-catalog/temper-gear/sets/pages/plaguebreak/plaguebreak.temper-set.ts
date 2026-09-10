@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const plaguebreak = {
   id: "019e66ec-786a-7430-977a-ef3c4b107a05",

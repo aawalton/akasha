@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const pestilentHost = {
   id: "019e6484-5fce-7134-abc8-d125771447ae",

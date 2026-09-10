@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const thewsOfTheHarbinger = {
   id: "019e66ec-798b-7286-964a-74be836e8419",

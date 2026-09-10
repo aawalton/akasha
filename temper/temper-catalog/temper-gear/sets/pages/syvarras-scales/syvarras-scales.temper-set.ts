@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const syvarrasScales = {
   id: "019e66e7-6a9d-710d-966e-c48574701466",

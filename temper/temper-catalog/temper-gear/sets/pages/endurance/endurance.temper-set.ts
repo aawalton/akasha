@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const endurance = {
   id: "019e66ec-770e-7e38-87c5-688389338db7",

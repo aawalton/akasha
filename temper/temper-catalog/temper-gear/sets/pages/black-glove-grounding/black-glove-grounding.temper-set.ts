@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const blackGloveGrounding = {
   id: "019e66e6-a060-7649-ac9b-c8cf5ef4d955",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const voidcaller = {
   id: "019e66e7-6aa9-7dcb-8aab-e65afd08ce04",

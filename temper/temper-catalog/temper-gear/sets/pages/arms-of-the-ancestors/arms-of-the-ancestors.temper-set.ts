@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const armsOfTheAncestors = {
   id: "019e6484-6048-741b-b539-5ae38154b1ca",

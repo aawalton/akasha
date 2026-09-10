@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const eternalWarrior = {
   id: "019e66ec-7afd-70a5-ab5b-92eb49017547",

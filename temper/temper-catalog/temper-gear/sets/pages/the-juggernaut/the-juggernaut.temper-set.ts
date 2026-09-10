@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const theJuggernaut = {
   id: "019e66ec-796e-7dfb-b927-e234c3eae100",

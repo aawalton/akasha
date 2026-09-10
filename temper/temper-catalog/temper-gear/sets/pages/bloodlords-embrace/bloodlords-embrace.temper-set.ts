@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const bloodlordsEmbrace = {
   id: "019e6484-6027-780d-adf4-1ec68ce09503",

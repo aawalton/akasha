@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const sentry = {
   id: "019e66ec-78c9-7b84-8c2b-c792afccec8f",

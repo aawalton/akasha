@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const monomythReforged = {
   id: "019e66e7-6a12-7f86-a40a-91390da3f7e2",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const pointBlankSnipe = {
   id: "019e6484-5fcf-7246-9958-304dca92ca90",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedFrenziedMomentum = {
   id: "019e6484-5fbe-7079-a258-8fa44d738993",

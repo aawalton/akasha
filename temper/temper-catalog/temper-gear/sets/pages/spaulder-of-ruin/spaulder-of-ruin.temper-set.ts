@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const spaulderOfRuin = {
   id: "019e6484-603a-72f3-811b-8e500643bc62",

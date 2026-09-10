@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const concentratedForce = {
   id: "019e66ec-7a9e-7489-bbe0-1ffc779498e8",

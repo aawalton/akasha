@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const brightThroatsBoast = {
   id: "019e66e7-6a4d-7814-804c-b44ae5c3e90a",

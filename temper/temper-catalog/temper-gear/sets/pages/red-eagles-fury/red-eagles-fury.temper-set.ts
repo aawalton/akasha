@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const redEaglesFury = {
   id: "019e668e-9a5e-71a2-a4b8-9bfc6704fc6c",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const fullBellyBarricade = {
   id: "019e66e7-6a06-7dac-8f10-2a0b6bc5fe17",

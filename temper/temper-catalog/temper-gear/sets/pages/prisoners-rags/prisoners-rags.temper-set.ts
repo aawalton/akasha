@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const prisonersRags = {
   id: "019e66e7-6a7b-703e-9f22-6987d030e05e",

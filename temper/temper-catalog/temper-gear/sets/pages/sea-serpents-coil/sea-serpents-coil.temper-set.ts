@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const seaSerpentsCoil = {
   id: "019e6484-6037-7526-995c-d67f3cf3bc1a",

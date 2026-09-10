@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const stonehulkDomination = {
   id: "019e66e7-6a21-76b7-a3a2-e3aa4f296a2c",

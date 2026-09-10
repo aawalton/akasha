@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const anthelmirsConstruct = {
   id: "019e6484-5feb-7c88-940a-e74e9af364d7",

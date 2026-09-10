@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const joltingArms = {
   id: "019e66e6-a096-731b-bea0-3dda054ba36b",

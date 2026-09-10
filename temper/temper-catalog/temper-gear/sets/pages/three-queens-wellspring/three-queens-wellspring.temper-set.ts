@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const threeQueensWellspring = {
   id: "019e66e7-6a22-7ba9-a5bc-0d880c8902e8",

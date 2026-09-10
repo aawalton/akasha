@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const nunatak = {
   id: "019e6484-600e-71a5-b264-37fe9c87833a",

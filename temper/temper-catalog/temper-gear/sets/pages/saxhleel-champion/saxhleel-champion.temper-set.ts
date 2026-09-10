@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const saxhleelChampion = {
   id: "019e66ec-7e47-7cfe-bfcd-3603797a1001",

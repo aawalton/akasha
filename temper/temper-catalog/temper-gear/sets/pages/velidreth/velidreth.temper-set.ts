@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const velidreth = {
   id: "019e6484-6022-7d0b-a062-73b5e900418f",

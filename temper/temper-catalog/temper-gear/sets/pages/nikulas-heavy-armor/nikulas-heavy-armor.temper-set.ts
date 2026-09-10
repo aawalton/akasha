@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const nikulasHeavyArmor = {
   id: "019e66e6-a0a7-7a85-989a-f4784908d789",

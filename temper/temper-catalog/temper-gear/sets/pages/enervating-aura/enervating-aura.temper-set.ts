@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const enervatingAura = {
   id: "019e66ec-771b-7fbf-9254-0d86cce5fb5b",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const wyrdTreesBlessing = {
   id: "019e66e7-6ab7-7da9-afc0-7b5e12e7aff2",

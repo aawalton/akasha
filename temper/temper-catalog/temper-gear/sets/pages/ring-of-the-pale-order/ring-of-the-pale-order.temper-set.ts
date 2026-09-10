@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ringOfThePaleOrder = {
   id: "019e6484-6034-77d9-99cf-58562ae24bf3",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const pillagersProfit = {
   id: "019e66ec-7dfe-70a3-bf0e-d56b701c1e02",

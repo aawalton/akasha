@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const relicsOfThePhysicianAnsur = {
   id: "019e6484-604d-737a-958e-837a9c216a01",

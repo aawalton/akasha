@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const healingMage = {
   id: "019e66ec-7b33-7c6c-91c1-fc2803cb1ead",

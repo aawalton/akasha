@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedMoraScribesThesis = {
   id: "019e66ec-7cd5-7220-83c1-7a230b46cda5",

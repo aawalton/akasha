@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const eternalVigor = {
   id: "019e66e7-6a5b-7a03-b55e-1a45ede47de3",

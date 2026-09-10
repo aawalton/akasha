@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const vykosa = {
   id: "019e6484-6023-7be5-bdc9-8b82c7dfb234",

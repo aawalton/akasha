@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const scourgeHarvester = {
   id: "019e6484-6012-7cbf-a3d0-7329da41c373",

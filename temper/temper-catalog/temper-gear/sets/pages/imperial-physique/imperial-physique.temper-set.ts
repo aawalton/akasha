@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const imperialPhysique = {
   id: "019e66ec-7785-70ad-bd7a-7bd02f6eba38",

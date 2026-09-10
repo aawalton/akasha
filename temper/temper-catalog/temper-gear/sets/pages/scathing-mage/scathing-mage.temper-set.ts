@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const scathingMage = {
   id: "019e66e6-a0bc-7f4f-b296-9fbda438d9aa",

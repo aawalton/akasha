@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedExecutionersBlade = {
   id: "019e6484-5fbc-76be-9478-521e7cb7b8ce",

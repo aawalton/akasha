@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const radiantBastion = {
   id: "019e66e7-6a7d-776a-a67e-35cf3a094c05",

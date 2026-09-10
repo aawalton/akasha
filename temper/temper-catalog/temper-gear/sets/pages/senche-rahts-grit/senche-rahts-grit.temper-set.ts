@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const sencheRahtsGrit = {
   id: "019e668e-9a60-7a45-8ce8-afc95467f855",

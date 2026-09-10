@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const trueSwornFury = {
   id: "019e66e6-a0dc-724c-b769-a8fc11fb54c3",

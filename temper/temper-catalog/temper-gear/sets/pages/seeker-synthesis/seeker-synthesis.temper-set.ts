@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const seekerSynthesis = {
   id: "019e668e-9a5f-7c09-8ed4-c516626f0923",

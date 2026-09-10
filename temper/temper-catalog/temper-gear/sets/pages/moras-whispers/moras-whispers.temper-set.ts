@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const morasWhispers = {
   id: "019e6484-6031-7a65-80fd-18f965f0ea8a",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const scorionsFeast = {
   id: "019e66e6-a0bf-70ea-af44-fe1ab7fd0a83",

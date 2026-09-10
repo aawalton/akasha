@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const amberPlasm = {
   id: "019e66e6-a056-71ef-bf01-a3f69806e63c",

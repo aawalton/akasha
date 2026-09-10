@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const criticalRiposte = {
   id: "019e668e-9a3b-7e2b-8d45-bdd2abce0be9",

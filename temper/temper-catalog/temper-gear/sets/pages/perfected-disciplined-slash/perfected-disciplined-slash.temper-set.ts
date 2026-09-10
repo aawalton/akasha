@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedDisciplinedSlash = {
   id: "019e66ec-7c7f-787f-86da-557a9ec99bf3",

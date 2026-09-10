@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const flameBlossom = {
   id: "019e66e6-a07f-709b-9af6-c7f0d5cc24ed",

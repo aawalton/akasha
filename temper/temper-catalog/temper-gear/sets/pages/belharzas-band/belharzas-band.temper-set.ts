@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const belharzasBand = {
   id: "019e6484-6026-798d-a062-476c6c37f56b",

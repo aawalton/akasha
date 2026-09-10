@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const kagrenacsHope = {
   id: "019e668e-9a4d-7367-99ed-016a9515db13",

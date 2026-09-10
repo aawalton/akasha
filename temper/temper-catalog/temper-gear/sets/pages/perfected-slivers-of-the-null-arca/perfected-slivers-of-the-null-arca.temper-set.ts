@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedSliversOfTheNullArca = {
   id: "019e66ec-7d3a-713f-91c3-15fc7332da45",

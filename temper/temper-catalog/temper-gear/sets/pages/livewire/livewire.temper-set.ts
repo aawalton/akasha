@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const livewire = {
   id: "019e66e7-6a6b-7503-ba5d-dc13eeda4594",

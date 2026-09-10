@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const faunsLarkCladding = {
   id: "019e6484-602c-720b-877a-fbc6a1a31270",

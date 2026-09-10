@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedCausticArrow = {
   id: "019e6484-5fb9-708f-9d5b-aad9f2a2071b",

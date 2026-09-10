@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const strengthOfTheAutomaton = {
   id: "019e66e6-a0cd-729a-8fda-cd82ea656329",

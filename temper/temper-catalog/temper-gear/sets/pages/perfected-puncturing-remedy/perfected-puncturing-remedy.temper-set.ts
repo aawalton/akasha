@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedPuncturingRemedy = {
   id: "019e6484-5fc3-7dfd-a667-6e2ecf5723f5",

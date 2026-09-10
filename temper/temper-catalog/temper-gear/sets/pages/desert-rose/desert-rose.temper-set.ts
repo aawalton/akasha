@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const desertRose = {
   id: "019e66ec-76e9-752f-8afe-b2fdd490a0fd",

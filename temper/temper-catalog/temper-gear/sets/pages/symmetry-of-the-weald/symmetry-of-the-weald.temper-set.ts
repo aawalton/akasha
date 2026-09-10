@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const symmetryOfTheWeald = {
   id: "019e66e7-6a99-7174-bd3c-5c1808fe4e3d",

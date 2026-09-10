@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const toolsOfTheTrapmaster = {
   id: "019e66e7-6a25-72ce-b975-d54a43d19e24",

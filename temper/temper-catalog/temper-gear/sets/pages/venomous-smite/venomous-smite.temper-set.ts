@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const venomousSmite = {
   id: "019e66e7-6aa6-703e-b908-00a4e663921d",

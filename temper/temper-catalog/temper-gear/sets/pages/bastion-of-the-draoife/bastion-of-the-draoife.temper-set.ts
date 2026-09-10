@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const bastionOfTheDraoife = {
   id: "019e66e7-6a46-708e-ab2b-0c97e970a9e2",

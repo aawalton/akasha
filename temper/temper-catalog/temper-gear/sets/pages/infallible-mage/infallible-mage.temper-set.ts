@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const infallibleMage = {
   id: "019e66ec-7b57-7669-9c39-ee235c827c35",

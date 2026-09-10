@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const talfygsTreachery = {
   id: "019e66e6-a0d0-757f-b6cd-f6c5c33a91f9",

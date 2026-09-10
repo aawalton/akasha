@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const crusader = {
   id: "019e66e6-a06c-7a13-8176-8c3a94c01bcc",

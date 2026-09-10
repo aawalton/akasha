@@ -1,18 +1,4 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-import type { Bonuses } from "../../../catalogs/temper-gear/properties/bonuses.page-property-entry.ts"
-import type { EsoSetId } from "../../../catalogs/temper-gear/properties/eso-set-id.number-property.ts"
-import type { Icons } from "../../../catalogs/temper-gear/properties/icons.page-property-entry.ts"
-import type { SetClassId } from "../../../catalogs/temper-gear/properties/set-class-id.text-property.ts"
-import type { ValidPieces } from "../../../catalogs/temper-gear/properties/valid-pieces.text-property.ts"
-import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
-
-export type TemperSet = TemperCatalogThing & {
-  esoSetId: EsoSetId
-  bonuses: Bonuses
-  icons: Icons
-  valid: ValidPieces
-  classId?: SetClassId
-}
 
 export const temperSet = {
   id: "01a05fd1-d441-7c97-bedf-3316d7b4361a",
@@ -42,4 +28,5 @@ export const temperSet = {
     { pageProperty: "text-property/valid-pieces", required: true, many: true, maxCount: null },
     { pageProperty: "text-property/set-class-id", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

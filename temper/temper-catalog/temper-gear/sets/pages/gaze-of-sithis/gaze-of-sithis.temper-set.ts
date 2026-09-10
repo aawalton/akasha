@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const gazeOfSithis = {
   id: "019e6484-602d-709f-b5b4-039483724c7c",

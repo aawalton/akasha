@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const lunarBastion = {
   id: "019e66ec-7b97-7c6b-ad88-f60f56c5afd0",

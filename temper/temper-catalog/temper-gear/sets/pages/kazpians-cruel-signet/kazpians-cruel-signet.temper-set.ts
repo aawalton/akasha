@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const kazpiansCruelSignet = {
   id: "019e66e7-6a0c-7d62-960b-33d5a1b0500f",

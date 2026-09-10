@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const spawnOfMephala = {
   id: "019e6484-6018-760d-a1f8-6c5bbe40f530",

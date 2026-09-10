@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const trackersLash = {
   id: "019e66ec-7998-7d77-8339-ffe5f60369ec",

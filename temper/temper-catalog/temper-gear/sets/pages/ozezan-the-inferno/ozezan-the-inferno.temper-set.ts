@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ozezanTheInferno = {
   id: "019e6484-600f-70ef-afe1-51a02ad789b0",

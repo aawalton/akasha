@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const brandsOfImperium = {
   id: "019e66e6-a065-77ce-99a0-39a5608af262",

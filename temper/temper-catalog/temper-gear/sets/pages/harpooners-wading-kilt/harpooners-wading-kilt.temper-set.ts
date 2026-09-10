@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const harpoonersWadingKilt = {
   id: "019e6484-602e-7043-895a-166b947d21e2",

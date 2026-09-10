@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const immolatorCharr = {
   id: "019e6484-5ffc-7f81-a83e-d0c3f81ac2bd",

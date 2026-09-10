@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const knightmare = {
   id: "019e66e6-a09a-7a92-9c53-42cfd1114bf9",

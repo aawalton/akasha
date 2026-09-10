@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const tharrikersStrike = {
   id: "019e668e-9a6b-78e1-b9fe-5f24c50aec4b",

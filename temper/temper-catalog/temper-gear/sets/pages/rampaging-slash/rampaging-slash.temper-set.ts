@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const rampagingSlash = {
   id: "019e6484-5fd2-78c7-84d7-27bb6ca4c102",

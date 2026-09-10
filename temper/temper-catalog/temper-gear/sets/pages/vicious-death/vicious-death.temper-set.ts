@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const viciousDeath = {
   id: "019e66ec-79cf-73fc-aa20-8896ee6a8435",

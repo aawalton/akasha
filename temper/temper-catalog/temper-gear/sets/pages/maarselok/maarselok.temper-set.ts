@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const maarselok = {
   id: "019e6484-6004-7cc8-86a2-48695c6517fa",

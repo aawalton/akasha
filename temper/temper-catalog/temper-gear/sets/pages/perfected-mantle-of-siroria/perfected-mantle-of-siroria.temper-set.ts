@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedMantleOfSiroria = {
   id: "019e66ec-7cc6-7e88-9866-53bb1738d29c",

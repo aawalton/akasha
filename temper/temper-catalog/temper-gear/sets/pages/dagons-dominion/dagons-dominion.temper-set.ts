@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const dagonsDominion = {
   id: "019e66e6-a06e-7a90-817a-f056eb23ee90",

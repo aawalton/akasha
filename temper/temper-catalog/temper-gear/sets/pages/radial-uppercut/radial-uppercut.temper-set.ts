@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const radialUppercut = {
   id: "019e6484-5fd1-7a98-b11b-fabe3f1cba02",

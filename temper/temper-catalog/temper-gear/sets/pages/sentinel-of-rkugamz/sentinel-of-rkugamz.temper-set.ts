@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const sentinelOfRkugamz = {
   id: "019e6484-6015-79bb-b853-1c957e149bda",

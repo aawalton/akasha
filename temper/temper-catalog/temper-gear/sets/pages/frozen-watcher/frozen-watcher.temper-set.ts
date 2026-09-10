@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const frozenWatcher = {
   id: "019e66e6-a081-7c2d-bf69-f10bbe475a45",

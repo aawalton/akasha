@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const vivecsDuality = {
   id: "019e66e7-6aa8-7996-96d5-d7e516b7bf6e",

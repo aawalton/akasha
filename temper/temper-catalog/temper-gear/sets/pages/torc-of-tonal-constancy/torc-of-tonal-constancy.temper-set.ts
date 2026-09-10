@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const torcOfTonalConstancy = {
   id: "019e6484-6043-7243-9e9b-5c40fa86ada0",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const velothiUrMagesAmulet = {
   id: "019e6484-6044-7b18-ab3b-6139519f6ab3",

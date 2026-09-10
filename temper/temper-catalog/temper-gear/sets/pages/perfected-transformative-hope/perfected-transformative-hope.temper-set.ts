@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedTransformativeHope = {
   id: "019e66ec-7d97-7fc5-94e5-326537014040",

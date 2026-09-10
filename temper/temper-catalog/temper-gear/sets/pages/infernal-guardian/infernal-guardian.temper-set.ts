@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const infernalGuardian = {
   id: "019e6484-5ffd-7eba-99d5-fbe17911d79c",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const phylacterysGrasp = {
   id: "019e66e6-a0ae-722d-a920-5c4cb7622d93",

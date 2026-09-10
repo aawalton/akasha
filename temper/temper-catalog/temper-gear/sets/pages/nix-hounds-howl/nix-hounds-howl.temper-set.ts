@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const nixHoundsHowl = {
   id: "019e66e6-a0a8-7bd3-94b5-d929f8fea3a9",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const thurvokun = {
   id: "019e6484-601f-7eae-858b-051b4dcf3674",

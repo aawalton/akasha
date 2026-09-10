@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const unflinchingUltimate = {
   id: "019e66e7-6a26-771d-a8dc-dc3ff4b4e5cc",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const orderOfDiagna = {
   id: "019e66e7-6a77-7571-be7c-c84bb672205a",

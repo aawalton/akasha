@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const leechingPlate = {
   id: "019e66e6-a09d-7d91-a011-3944309adfd6",

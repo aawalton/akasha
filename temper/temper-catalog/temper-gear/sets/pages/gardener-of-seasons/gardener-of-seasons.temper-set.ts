@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const gardenerOfSeasons = {
   id: "019e6484-5fe1-7eef-a50e-ad3fa62701fb",

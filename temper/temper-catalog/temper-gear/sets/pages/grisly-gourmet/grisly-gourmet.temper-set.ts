@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const grislyGourmet = {
   id: "019e66e6-a087-7567-98a1-8d730dbbf9d0",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const blindPathInduction = {
   id: "019e66e6-a061-76a6-abd0-5f103991244d",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const sharedBurden = {
   id: "019e66e7-6a1d-7e97-a936-9e0475278d7d",

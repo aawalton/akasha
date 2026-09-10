@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const trinimacsValor = {
   id: "019e66e7-6a9f-79b3-a491-70e7cafef46a",

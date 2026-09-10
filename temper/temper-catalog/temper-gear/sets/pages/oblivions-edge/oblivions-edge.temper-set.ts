@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const oblivionsEdge = {
   id: "019e66e6-a0aa-7f0b-a040-70cd77ca65f5",

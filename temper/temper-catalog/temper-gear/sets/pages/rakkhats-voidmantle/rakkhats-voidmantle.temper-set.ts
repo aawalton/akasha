@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const rakkhatsVoidmantle = {
   id: "019e66e7-6a1b-790a-b975-f93527410294",

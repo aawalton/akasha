@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const mothersSorrow = {
   id: "019e66e7-6a72-786b-bfb9-86258a0e4cc4",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const barSakka = {
   id: "019e66e7-69fb-7061-8c1d-cfc0e6d93b3a",

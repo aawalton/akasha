@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const eyeOfNahviintaas = {
   id: "019e66ec-7b0f-7cb7-88a6-c9ed791d8c32",

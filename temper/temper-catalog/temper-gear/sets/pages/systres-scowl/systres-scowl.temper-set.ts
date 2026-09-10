@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const systresScowl = {
   id: "019e66e7-6a9b-7c3b-8ca9-d034aeb5cce3",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const senchesBite = {
   id: "019e66e7-6a84-7a17-8997-cd3a95c7f098",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const embershield = {
   id: "019e66e6-a07c-7e33-a10a-7248690b441c",

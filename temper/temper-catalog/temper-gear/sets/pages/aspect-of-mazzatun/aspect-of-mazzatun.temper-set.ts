@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const aspectOfMazzatun = {
   id: "019e66e6-a05b-72fd-b6e2-93703b94edcf",

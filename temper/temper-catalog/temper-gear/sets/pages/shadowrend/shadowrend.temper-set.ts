@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const shadowrend = {
   id: "019e6484-6016-78cf-b4ea-3026cd5c80d7",

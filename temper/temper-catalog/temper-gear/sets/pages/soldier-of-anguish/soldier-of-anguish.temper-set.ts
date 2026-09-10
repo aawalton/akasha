@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const soldierOfAnguish = {
   id: "019e66ec-7939-75d0-aeac-0b692503ac4a",

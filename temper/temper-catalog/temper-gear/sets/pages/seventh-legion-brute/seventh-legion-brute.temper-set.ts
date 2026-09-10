@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const seventhLegionBrute = {
   id: "019e66e7-6a85-7dd7-98c0-e60a58ae6ad5",

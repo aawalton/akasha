@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const diamondsVictory = {
   id: "019e668e-9a41-713c-aa67-f7b23b0e31d9",

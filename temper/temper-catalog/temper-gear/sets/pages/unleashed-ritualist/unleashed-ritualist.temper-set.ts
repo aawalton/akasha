@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const unleashedRitualist = {
   id: "019e66e6-a0e3-7bfe-b869-2f840dab8218",

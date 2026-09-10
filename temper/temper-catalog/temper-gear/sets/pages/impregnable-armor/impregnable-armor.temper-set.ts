@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const impregnableArmor = {
   id: "019e66ec-7791-7b37-a1ab-1a2550855033",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const innateAxiom = {
   id: "019e668e-9a4b-7807-9909-0827a7901901",

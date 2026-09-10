@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const corpseburster = {
   id: "019e6484-5fe0-7edb-82e0-ca0b3d2c4fe9",

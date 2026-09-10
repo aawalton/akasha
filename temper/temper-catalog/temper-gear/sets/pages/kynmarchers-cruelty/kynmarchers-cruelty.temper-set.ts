@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const kynmarchersCruelty = {
   id: "019e66e7-6a6a-7109-b47a-413c1f8aade8",

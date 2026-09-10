@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const perfectedBahseisMania = {
   id: "019e66ec-7c2a-7458-bf85-a92d972c42b0",

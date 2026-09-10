@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ulfnorsFavor = {
   id: "019e66e6-a0df-777d-871a-c914dec9c539",

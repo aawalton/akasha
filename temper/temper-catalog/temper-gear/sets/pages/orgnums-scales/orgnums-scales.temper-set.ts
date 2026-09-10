@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const orgnumsScales = {
   id: "019e668e-9a5c-7626-8023-c32eb4d23f50",

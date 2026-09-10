@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const sellistrix = {
   id: "019e6484-6014-79e0-91fd-043beb02a7e2",

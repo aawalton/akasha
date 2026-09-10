@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const nightsSilence = {
   id: "019e668e-9a57-7218-8780-f2b6d6eaff72",

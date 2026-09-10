@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const unfathomableDarkness = {
   id: "019e66e7-6aa2-7138-ae0e-1e1ca5e5ae6f",

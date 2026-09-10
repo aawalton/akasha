@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const archersMind = {
   id: "019e6484-5f9d-7b4e-bc32-c17f13b5f242",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const zoalTheEverWakeful = {
   id: "019e6484-6025-7ab5-b405-f87c856dac02",

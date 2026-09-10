@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const bastionOfTheHeartland = {
   id: "019e66ec-7632-79af-a1a2-50d031559c64",

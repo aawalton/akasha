@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const hitisHearth = {
   id: "019e66e6-a08f-7cf1-8344-ca95a3d12170",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const varensLegacy = {
   id: "019e668e-9a72-7b18-b371-4adc22e15d16",

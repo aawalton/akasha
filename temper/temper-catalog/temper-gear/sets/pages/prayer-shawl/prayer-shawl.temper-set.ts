@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const prayerShawl = {
   id: "019e66e6-a0b1-7c3b-8884-490d4383b136",

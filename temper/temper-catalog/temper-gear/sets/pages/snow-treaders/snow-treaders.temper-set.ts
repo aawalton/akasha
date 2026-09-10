@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const snowTreaders = {
   id: "019e6484-6039-7275-85f1-2bca337b1477",

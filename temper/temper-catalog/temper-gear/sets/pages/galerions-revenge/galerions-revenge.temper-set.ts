@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const galerionsRevenge = {
   id: "019e66ec-7744-7a9b-8473-140f8152bab2",

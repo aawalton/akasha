@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const renaldsResolve = {
   id: "019e66e6-a0b6-7433-b8b0-94ed07600eeb",

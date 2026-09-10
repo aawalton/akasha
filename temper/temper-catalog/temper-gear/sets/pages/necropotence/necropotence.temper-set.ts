@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const necropotence = {
   id: "019e66e7-6a73-7bbc-86bc-b8e13d1c522a",

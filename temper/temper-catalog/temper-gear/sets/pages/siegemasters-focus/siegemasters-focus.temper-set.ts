@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const siegemastersFocus = {
   id: "019e66ec-791d-729e-ac11-d892f1e96511",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const bonePiratesTatters = {
   id: "019e66e6-a064-7782-aaab-f78e05ab34ab",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const caluurionsLegacy = {
   id: "019e66e6-a067-77e3-ac4b-94827454e133",

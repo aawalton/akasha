@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ebonArmory = {
   id: "019e66e6-a07a-7c67-a6ba-cc925d7d3b03",

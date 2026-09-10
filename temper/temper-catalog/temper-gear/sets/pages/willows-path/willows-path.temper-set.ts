@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const willowsPath = {
   id: "019e668e-9a76-7b8a-9f2e-f5c1e6f0ae06",

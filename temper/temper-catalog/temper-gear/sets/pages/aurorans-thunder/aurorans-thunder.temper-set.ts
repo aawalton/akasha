@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const auroransThunder = {
   id: "019e66e6-a05c-73a2-9f28-66af896f0877",

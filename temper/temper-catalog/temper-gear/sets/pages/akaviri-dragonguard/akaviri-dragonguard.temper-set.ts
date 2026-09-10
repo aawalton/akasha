@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const akaviriDragonguard = {
   id: "019e66e7-6a3e-7cd9-89ee-04276d727ade",

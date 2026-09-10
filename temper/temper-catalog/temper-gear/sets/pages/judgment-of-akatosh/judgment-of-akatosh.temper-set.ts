@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const judgmentOfAkatosh = {
   id: "019e66ec-77b7-747c-9f0c-cdd5e4c26953",

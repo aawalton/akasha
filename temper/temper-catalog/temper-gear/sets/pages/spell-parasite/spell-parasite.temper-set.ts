@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const spellParasite = {
   id: "019e668e-9a67-7cb9-9b87-4ee35fadd35f",

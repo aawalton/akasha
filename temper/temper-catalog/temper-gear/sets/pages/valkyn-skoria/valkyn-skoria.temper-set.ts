@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const valkynSkoria = {
   id: "019e6484-6021-7dd6-8949-0a91264ce102",

@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ironFlask = {
   id: "019e668e-9a4c-75a3-8756-94ae97036a6e",

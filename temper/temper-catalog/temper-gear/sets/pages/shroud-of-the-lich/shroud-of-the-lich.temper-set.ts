@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const shroudOfTheLich = {
   id: "019e66e6-a0c2-7579-8327-b7e4f131c8b8",

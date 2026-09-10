@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const blessingOfHighIsle = {
   id: "019e66e7-6a48-760e-9604-90de3dd4e258",

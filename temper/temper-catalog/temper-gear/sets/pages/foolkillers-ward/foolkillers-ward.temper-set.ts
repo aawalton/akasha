@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const foolkillersWard = {
   id: "019e66e6-a080-7671-8dc6-fc6ab289847a",

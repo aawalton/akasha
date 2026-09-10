@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const healersHabit = {
   id: "019e6484-5fb3-787d-a6b4-5f7260be75df",

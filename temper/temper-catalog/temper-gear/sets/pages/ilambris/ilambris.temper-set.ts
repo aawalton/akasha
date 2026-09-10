@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const ilambris = {
   id: "019e6484-5ffb-7fb2-b363-b681369b1a02",

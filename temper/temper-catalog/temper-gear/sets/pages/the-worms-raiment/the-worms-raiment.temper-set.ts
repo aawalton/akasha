@@ -1,4 +1,4 @@
-import type { TemperSet } from "../../temper-set.page-type.ts"
+import type { TemperSet } from "../../temper-set.page-type.types.ts"
 
 export const theWormsRaiment = {
   id: "019e66e6-a0d4-7a5a-adfe-c995ce7145e1",
