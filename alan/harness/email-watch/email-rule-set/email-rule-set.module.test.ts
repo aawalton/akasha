@@ -39,12 +39,8 @@ describe("where a person's rules of each kind are", () => {
   })
 
   test("a kind's folder names the person and the kind", () => {
-    expect(ruleFolderIn("alan", "code")).toBe(
-      "alan/harness/inboxes/email-rules/email-rule-codes/pages"
-    )
-    expect(ruleFolderIn("jenny", "agent")).toBe(
-      "jenny/harness/inboxes/email-rules/email-rule-agents/pages"
-    )
+    expect(ruleFolderIn("alan", "code")).toBe("alan/harness/inboxes/email-rules/codes/pages")
+    expect(ruleFolderIn("jenny", "agent")).toBe("jenny/harness/inboxes/email-rules/agents/pages")
   })
 
   test("a kind's file suffix carries that kind", () => {
