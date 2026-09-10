@@ -4,6 +4,7 @@ import {
   surplusIn,
 } from "akasha/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
 import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
 export const READOUT_PAGE = "readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
@@ -28,7 +29,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
 }
 
 if (import.meta.main) {
-  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   try {
     const hours = await takeReading(root)
     if (hours === null) {
