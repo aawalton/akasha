@@ -7,10 +7,23 @@ export const capacitorCors = {
   slug: "capacitor-cors",
   definition: "the cross-origin headers a request from the native shell is answered with",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A request from another origin is answered without a cross-origin header.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The native shell's origin is the https origin of the site it serves.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "The custom scheme an installed build still sends is admitted beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The origin an answer names is the origin the request carried.",
     },
     {
       invariantKind: "departure",

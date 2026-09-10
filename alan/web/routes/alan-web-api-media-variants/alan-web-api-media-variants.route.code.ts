@@ -1,12 +1,13 @@
 import { resolveMediaPage } from "../../media-page/media-page.module.code.ts"
 import { resolveMediaVariants } from "../../media-variants/media-variants.module.code.ts"
 
-const CAPACITOR_ORIGIN = "capacitor://localhost"
+const SHELL_ORIGINS: readonly string[] = ["https://alanwalton.com", "capacitor://localhost"]
 
 function corsHeaders(request: Request): Record<string, string> {
-  return request.headers.get("Origin") === CAPACITOR_ORIGIN
+  const origin = request.headers.get("Origin")
+  return origin !== null && SHELL_ORIGINS.includes(origin)
     ? {
-        "Access-Control-Allow-Origin": CAPACITOR_ORIGIN,
+        "Access-Control-Allow-Origin": origin,
         "Access-Control-Allow-Methods": "GET, OPTIONS",
         "Access-Control-Allow-Headers": "Content-Type",
         "Access-Control-Max-Age": "86400",

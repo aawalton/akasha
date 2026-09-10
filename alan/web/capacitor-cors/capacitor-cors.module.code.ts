@@ -1,4 +1,4 @@
-const CAPACITOR_ORIGIN = "capacitor://localhost"
+const SHELL_ORIGINS: readonly string[] = ["https://alanwalton.com", "capacitor://localhost"]
 
 type OriginBearing = { headers: Pick<Headers, "get"> }
 
@@ -7,9 +7,10 @@ export function capacitorCorsHeaders(
   methods: string,
   opts?: { allowHeaders?: string; exposeHeaders?: string }
 ): Record<string, string> {
-  if (request.headers.get("Origin") !== CAPACITOR_ORIGIN) return {}
+  const origin = request.headers.get("Origin")
+  if (origin === null || !SHELL_ORIGINS.includes(origin)) return {}
   const headers: Record<string, string> = {
-    "Access-Control-Allow-Origin": CAPACITOR_ORIGIN,
+    "Access-Control-Allow-Origin": origin,
     "Access-Control-Allow-Methods": methods,
     "Access-Control-Allow-Headers": opts?.allowHeaders ?? "Authorization, Content-Type",
     "Access-Control-Max-Age": "86400",

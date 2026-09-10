@@ -2,12 +2,13 @@ import { computeFingerprint } from "@akasha/errors-core/error-fingerprint"
 import { ErrorReportSchema } from "@akasha/errors-core/error-report"
 import { captureError, type ErrorCapturePayload } from "@akasha/pages-access/capture-error"
 
-const CAPACITOR_ORIGIN = "capacitor://localhost"
+const SHELL_ORIGINS: readonly string[] = ["https://smilingjenny.me", "capacitor://localhost"]
 
 function corsHeaders(request: Request): Record<string, string> {
-  return request.headers.get("Origin") === CAPACITOR_ORIGIN
+  const origin = request.headers.get("Origin")
+  return origin !== null && SHELL_ORIGINS.includes(origin)
     ? {
-        "Access-Control-Allow-Origin": CAPACITOR_ORIGIN,
+        "Access-Control-Allow-Origin": origin,
         "Access-Control-Allow-Methods": "POST, OPTIONS",
         "Access-Control-Allow-Headers": "Content-Type",
         "Access-Control-Max-Age": "86400",

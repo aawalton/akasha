@@ -6,12 +6,13 @@ import {
 } from "../../kokoro-render/kokoro-render.module.code.ts"
 import { resolveMediaPage } from "../../media-page/media-page.module.code.ts"
 
-const CAPACITOR_ORIGIN = "capacitor://localhost"
+const SHELL_ORIGINS: readonly string[] = ["https://alanwalton.com", "capacitor://localhost"]
 
 function corsHeaders(request: Request): Record<string, string> {
-  return request.headers.get("Origin") === CAPACITOR_ORIGIN
+  const origin = request.headers.get("Origin")
+  return origin !== null && SHELL_ORIGINS.includes(origin)
     ? {
-        "Access-Control-Allow-Origin": CAPACITOR_ORIGIN,
+        "Access-Control-Allow-Origin": origin,
         "Access-Control-Allow-Methods": "POST, OPTIONS",
         "Access-Control-Allow-Headers": "Authorization, Content-Type",
         "Access-Control-Max-Age": "86400",
