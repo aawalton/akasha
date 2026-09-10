@@ -4,7 +4,7 @@ import type { ErrorApp } from "./properties/error-app.text-property.ts"
 import type { ErrorCount } from "./properties/error-count.number-property.ts"
 import type { ErrorFingerprint } from "./properties/error-fingerprint.text-property.ts"
 import type { ErrorFirstSeenAt } from "./properties/error-first-seen-at.instant-property.ts"
-import type { Kind } from "./properties/error-kind.text-property.ts"
+import type { ErrorKind } from "./properties/error-kind.text-property.ts"
 import type { LastSeenAt } from "./properties/error-last-seen-at.instant-property.ts"
 import type { Message } from "./properties/error-message.text-property.ts"
 import type { ReleaseSha } from "./properties/error-release-sha.text-property.ts"
@@ -14,7 +14,7 @@ import type { UserAgent } from "./properties/error-user-agent.text-property.ts"
 export type RuntimeError = Page & {
   fingerprint: ErrorFingerprint
   app: ErrorApp
-  kind: Kind
+  kind: ErrorKind
   message: Message
   url?: Url
   userAgent: UserAgent
