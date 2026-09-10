@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0029Chapter28NewHires = {
   id: "01a06731-ae80-7006-824c-8fe0bbe58fd7",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const hellHoundEvolutionLitrpg0062Chapter138 = {
   id: "01a06731-af9b-7002-8b6a-5fc0c23a9de2",

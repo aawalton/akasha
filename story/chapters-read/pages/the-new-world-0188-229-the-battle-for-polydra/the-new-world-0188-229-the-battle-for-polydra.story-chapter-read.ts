@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0188229TheBattleForPolydra = {
   id: "01a06730-4e93-7c22-8d55-f8e595daa1e0",

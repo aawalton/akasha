@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0086Chapter71AMatterOfValidation = {
   id: "01a06731-ae11-7000-9af1-5c533aa2e0ea",

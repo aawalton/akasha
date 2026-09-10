@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delve0257257Blunt = {
   id: "01a06731-afda-7000-9c9f-5682062b6d9b",

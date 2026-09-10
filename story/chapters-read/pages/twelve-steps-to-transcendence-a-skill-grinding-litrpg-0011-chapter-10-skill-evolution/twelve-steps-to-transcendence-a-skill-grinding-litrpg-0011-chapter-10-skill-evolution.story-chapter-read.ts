@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0011Chapter10SkillEvolution = {
   id: "01a06585-ef10-7eb4-bb60-57e99ce7ee92",

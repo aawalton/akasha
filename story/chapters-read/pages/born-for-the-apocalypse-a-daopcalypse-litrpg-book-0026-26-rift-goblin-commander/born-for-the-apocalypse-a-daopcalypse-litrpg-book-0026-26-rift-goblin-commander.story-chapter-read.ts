@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook002626RiftGoblinCommander = {
   id: "01a06731-af09-7009-b3b6-26d42a294711",

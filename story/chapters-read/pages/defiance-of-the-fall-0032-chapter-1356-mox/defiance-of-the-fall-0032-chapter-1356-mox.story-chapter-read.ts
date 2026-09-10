@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0032Chapter1356Mox = {
   id: "01a06591-3c6e-7c26-98e0-13db3a5098f0",

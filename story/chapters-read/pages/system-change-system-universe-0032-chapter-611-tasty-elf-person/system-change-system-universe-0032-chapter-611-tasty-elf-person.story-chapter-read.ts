@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0032Chapter611TastyElfPerson = {
   id: "01a06730-4fba-7f62-b7c8-477c16ed6f48",

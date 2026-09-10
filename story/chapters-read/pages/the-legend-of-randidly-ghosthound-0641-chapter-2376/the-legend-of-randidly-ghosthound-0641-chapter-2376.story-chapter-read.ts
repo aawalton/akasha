@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theLegendOfRandidlyGhosthound0641Chapter2376 = {
   id: "01a06591-4375-72ea-a198-40733b7fab4b",

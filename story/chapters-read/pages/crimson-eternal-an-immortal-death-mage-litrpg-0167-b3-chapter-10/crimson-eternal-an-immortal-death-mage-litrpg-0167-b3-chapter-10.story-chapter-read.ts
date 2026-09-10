@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const crimsonEternalAnImmortalDeathMageLitrpg0167B3Chapter10 = {
   id: "01a0672c-ec74-701e-a9e5-b6f8b95b9fee",

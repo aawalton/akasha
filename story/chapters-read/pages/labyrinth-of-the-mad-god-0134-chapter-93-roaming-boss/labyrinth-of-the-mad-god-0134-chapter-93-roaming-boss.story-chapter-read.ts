@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0134Chapter93RoamingBoss = {
   id: "01a06731-ad62-7001-86a3-6f39485c2ff8",

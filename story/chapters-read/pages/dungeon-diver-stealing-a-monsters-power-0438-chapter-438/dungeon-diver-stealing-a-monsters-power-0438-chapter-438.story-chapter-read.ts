@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonDiverStealingAMonstersPower0438Chapter438 = {
   id: "01a0672b-44f3-700c-911d-d5b19e7bb85c",

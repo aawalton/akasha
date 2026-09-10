@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0354Chapter317TheArtOfCalligraphy = {
   id: "01a0672c-ebee-7002-9c3c-36932f3f1d90",

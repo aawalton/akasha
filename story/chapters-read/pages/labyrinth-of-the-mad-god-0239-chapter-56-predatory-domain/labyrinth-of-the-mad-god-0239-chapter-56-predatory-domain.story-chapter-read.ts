@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0239Chapter56PredatoryDomain = {
   id: "01a06731-ad7b-7001-9eff-05853a61dfa1",

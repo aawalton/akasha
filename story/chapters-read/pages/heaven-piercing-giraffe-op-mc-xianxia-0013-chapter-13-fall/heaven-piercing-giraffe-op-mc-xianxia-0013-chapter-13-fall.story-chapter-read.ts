@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const heavenPiercingGiraffeOpMcXianxia0013Chapter13Fall = {
   id: "01a06731-b11d-7009-8d03-9f475358ff31",

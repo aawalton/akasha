@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const levelingUpTheWorld0018384MusicResonnance = {
   id: "01a06731-ae8e-7003-9ea1-afbd5309b19f",

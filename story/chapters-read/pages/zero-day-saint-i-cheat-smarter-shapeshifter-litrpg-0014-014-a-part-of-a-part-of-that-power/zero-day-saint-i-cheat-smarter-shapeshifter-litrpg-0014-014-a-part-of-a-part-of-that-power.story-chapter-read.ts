@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0014014APartOfAPartOfThatPower = {
   id: "01a06730-50ae-763e-9d64-d055728d452f",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0111Chapter1463TheRoyalWeInWuffer = {
   id: "01a0672c-eb5e-700b-ad25-4efcec11f86d",

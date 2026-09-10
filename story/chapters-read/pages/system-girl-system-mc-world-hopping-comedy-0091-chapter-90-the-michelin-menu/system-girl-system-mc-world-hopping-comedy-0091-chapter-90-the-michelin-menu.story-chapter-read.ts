@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemGirlSystemMcWorldHoppingComedy0091Chapter90TheMichelinMenu = {
   id: "01a06730-4dfe-7464-995b-55dbdd1aa232",

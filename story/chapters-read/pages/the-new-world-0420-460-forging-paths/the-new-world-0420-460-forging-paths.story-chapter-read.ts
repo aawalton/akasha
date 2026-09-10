@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0420460ForgingPaths = {
   id: "01a06730-4f0b-7353-bae4-9beaae1c13a7",

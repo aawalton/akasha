@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const phoenixAscensionCultivationLitrpg0116Chapter116Merge = {
   id: "01a06730-4dfd-7516-825e-36442a1d5a05",

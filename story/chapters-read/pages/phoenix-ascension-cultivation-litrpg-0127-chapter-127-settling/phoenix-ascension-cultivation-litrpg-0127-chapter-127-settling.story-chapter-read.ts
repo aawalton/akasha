@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const phoenixAscensionCultivationLitrpg0127Chapter127Settling = {
   id: "01a06730-4dff-7186-9e92-c92ec8f1c5b4",

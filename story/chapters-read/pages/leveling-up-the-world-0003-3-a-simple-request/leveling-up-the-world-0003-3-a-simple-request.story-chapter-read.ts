@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const levelingUpTheWorld00033ASimpleRequest = {
   id: "01a06731-ae89-7003-b839-5b167c2b1cd0",

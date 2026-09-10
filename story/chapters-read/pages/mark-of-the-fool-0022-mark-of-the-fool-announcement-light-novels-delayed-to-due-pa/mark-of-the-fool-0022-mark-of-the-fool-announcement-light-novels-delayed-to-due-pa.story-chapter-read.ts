@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const markOfTheFool0022MarkOfTheFoolAnnouncementLightNovelsDelayedToDuePa = {
   id: "01a06731-ae97-700e-a755-6810724635d9",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bunnyGirlEvolution0023157RabbitVsElf1 = {
   id: "01a06743-b386-7002-a455-fecb11cccafd",

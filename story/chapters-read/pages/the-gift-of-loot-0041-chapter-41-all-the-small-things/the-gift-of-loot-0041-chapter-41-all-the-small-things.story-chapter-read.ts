@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theGiftOfLoot0041Chapter41AllTheSmallThings = {
   id: "01a06730-4ee8-7444-be2d-c4b073713c2e",

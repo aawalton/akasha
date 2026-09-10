@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const underworldBreadMageYuriProgfanSliceOfLife0004Chapter4TheQuestForCornbread = {
   id: "01a06730-4f12-7e84-a9ef-5f6f50d7756b",

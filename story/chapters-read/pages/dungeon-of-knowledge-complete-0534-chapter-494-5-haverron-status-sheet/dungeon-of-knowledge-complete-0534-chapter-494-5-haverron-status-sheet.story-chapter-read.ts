@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0534Chapter4945HaverronStatusSheet = {
   id: "01a0672c-ec34-7001-9c50-b2232e8b6dd5",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const metaworldHopecore0130Chapter77FatherAndSon2 = {
   id: "01a06731-af1a-7000-9b30-a05eb8a1772d",

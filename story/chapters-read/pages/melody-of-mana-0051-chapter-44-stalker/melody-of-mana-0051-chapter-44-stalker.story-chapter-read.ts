@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const melodyOfMana0051Chapter44Stalker = {
   id: "01a0672c-ed5c-701d-b3d0-d3d3667f87b7",

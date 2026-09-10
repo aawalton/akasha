@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0009CampAtTheBailey = {
   id: "01a06730-4fb7-74c4-948c-57490e42971e",

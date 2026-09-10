@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bunnyGirlEvolution0034168SkillsAndSoulMeditation = {
   id: "01a06743-b3a6-7000-ad0b-f7da7218c2f9",

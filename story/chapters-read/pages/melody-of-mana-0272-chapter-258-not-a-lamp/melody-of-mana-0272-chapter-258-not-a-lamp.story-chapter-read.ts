@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const melodyOfMana0272Chapter258NotALamp = {
   id: "01a06731-ad85-7012-9eb7-889dcb75d503",

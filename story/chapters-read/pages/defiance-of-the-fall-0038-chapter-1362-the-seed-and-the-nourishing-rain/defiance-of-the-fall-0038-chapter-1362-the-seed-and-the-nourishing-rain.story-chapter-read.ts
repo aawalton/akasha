@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0038Chapter1362TheSeedAndTheNourishingRain = {
   id: "01a06591-3c6f-7785-84b7-feb7927d68d2",

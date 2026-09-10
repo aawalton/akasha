@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0532InterludeOfVampiresAndFraerlings = {
   id: "01a0659c-49d4-74df-bafb-8cc079aef8d7",

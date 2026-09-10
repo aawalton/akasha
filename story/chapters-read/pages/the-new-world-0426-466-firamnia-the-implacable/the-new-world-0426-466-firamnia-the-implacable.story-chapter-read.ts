@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0426466FiramniaTheImplacable = {
   id: "01a06730-4f10-78bb-9402-06338782dc12",

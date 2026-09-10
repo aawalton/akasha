@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0022Chapter22Autonomy = {
   id: "01a06731-ae7e-7000-92ec-8e841d969c44",

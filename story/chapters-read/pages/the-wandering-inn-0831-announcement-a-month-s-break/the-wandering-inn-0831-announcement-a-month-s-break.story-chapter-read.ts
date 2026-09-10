@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0831AnnouncementAMonthSBreak = {
   id: "01a065a0-4093-7a7a-9a58-28c77addeaf1",

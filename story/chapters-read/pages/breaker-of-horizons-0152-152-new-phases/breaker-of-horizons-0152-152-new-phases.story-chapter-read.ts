@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons0152152NewPhases = {
   id: "01a06731-adb0-7002-9de3-87221966b20c",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const fiveElementOverlordICanUpgradeEverything0071Ch71Backlash = {
   id: "01a06731-adb6-700b-b182-e58b50337e60",

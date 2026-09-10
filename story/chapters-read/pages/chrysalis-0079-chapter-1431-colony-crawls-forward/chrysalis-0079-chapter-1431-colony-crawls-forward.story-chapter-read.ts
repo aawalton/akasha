@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0079Chapter1431ColonyCrawlsForward = {
   id: "01a0672c-eb5c-7018-8eab-0db8363e5c3b",

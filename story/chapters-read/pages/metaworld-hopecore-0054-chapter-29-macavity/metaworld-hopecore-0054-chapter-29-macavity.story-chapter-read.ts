@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const metaworldHopecore0054Chapter29Macavity = {
   id: "01a06731-aee3-7002-968b-cdbc6dc1ff6d",

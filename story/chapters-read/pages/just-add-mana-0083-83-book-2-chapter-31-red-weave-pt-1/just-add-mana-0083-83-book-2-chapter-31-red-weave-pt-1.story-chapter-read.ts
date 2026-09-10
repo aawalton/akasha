@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const justAddMana008383Book2Chapter31RedWeavePt1 = {
   id: "01a06731-adff-7000-97ec-0556d65f29ba",

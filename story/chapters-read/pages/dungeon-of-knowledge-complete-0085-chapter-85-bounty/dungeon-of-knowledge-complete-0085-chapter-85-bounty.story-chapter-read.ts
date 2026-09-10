@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0085Chapter85Bounty = {
   id: "01a0672c-eb60-7000-9cdb-43b3ce9efdbb",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons005252SeismicShifts = {
   id: "01a06731-adaa-7000-8ff3-2c888695b511",

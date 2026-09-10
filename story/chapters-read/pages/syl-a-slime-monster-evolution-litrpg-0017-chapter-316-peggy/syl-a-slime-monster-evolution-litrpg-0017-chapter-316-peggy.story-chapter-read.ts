@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const sylASlimeMonsterEvolutionLitrpg0017Chapter316Peggy = {
   id: "01a06730-4e1a-7fb2-bd7c-7a56578d8380",

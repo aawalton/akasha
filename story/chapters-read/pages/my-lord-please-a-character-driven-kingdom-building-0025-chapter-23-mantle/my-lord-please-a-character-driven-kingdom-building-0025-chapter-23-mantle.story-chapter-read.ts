@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const myLordPleaseACharacterDrivenKingdomBuilding0025Chapter23Mantle = {
   id: "01a06591-3f72-7a51-9b02-c7da30bf1374",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const quietLifeOfTheMuteArchmageOpArchmageAcademy0030Chapter28BattleAgainstTheWyverns = {
   id: "01a06730-4ddb-7067-b5ab-866c5a966938",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheDragonQueenEvolutionprogression001313ExtraSpecialIngredient = {
   id: "01a06730-4e07-7a12-a4bc-a67cc82f5ca3",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0391431LivingByTheSkinOfYourTeeth = {
   id: "01a06730-4ef2-729f-b874-85ab350f0275",

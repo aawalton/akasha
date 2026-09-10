@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const incrementalTortureAnIdleSystemTowerClimbing0027027SizeIsntEverything = {
   id: "01a06731-ae09-700a-b1f5-a525ad840b2b",

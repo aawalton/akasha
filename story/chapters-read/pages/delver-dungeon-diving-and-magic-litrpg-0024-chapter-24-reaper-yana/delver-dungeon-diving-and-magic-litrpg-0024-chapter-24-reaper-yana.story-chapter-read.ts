@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delverDungeonDivingAndMagicLitrpg0024Chapter24ReaperYana = {
   id: "01a06731-af0f-700f-891c-c5024ecbfd51",

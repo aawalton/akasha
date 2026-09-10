@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0051Chapter36HeartsOfDarkness = {
   id: "01a06731-aded-7000-948a-3e5591576de2",

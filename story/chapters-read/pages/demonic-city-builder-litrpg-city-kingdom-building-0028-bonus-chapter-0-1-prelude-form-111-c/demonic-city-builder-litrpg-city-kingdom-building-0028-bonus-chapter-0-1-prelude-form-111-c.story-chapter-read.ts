@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const demonicCityBuilderLitrpgCityKingdomBuilding0028BonusChapter01PreludeForm111C = {
   id: "01a06731-ae80-7005-853a-f53e5601eca5",

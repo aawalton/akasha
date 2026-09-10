@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const passiveAggressiveReversePortalInvasionLitrpg0045Chapter38 = {
   id: "01a06730-4dd6-7351-b2e6-45c5b23d7d08",

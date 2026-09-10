@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thereIsNoEpicLootHereOnlyPuns010490TheDungeonAndHerVillage = {
   id: "01a06730-5149-7ee6-b1ba-2df6e7563d37",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const manaDevourerLitrpgmanaCultivation004242Lexi = {
   id: "01a06731-ae63-7000-933e-0eefc0cb8fe2",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0191Chapter9FinishingMove = {
   id: "01a06731-ad73-7002-8bc8-82ebe4cf38fb",

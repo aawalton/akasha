@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0091Epilogue3EightyOneYearsLater = {
   id: "01a06731-ae19-7000-990b-f3a0ecfe8b72",

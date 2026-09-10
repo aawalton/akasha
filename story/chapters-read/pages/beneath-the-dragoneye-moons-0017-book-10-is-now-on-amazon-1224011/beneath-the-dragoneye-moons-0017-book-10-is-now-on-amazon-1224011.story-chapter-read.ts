@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const beneathTheDragoneyeMoons0017Book10IsNowOnAmazon1224011 = {
   id: "01a08396-510f-7d8f-a598-af8792721c84",

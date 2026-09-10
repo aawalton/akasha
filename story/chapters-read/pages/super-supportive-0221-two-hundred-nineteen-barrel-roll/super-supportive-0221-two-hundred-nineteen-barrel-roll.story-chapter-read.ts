@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const superSupportive0221TwoHundredNineteenBarrelRoll = {
   id: "01a06730-4efd-7a0f-ad53-725a3de68ae8",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0594Chapter553TheAuthorityOfTheLiving = {
   id: "01a0672c-ec5c-7000-ba56-3019fd7ba50c",

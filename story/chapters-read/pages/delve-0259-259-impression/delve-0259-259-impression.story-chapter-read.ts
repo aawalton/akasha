@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delve0259259Impression = {
   id: "01a06731-afdb-7001-8783-8c3cddf4e9c9",

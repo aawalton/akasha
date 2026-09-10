@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theUnexpectedEngagementOfTheMarvelousMr0028Chapter27WhyDidYouRefuseThem = {
   id: "01a06730-4e3d-721a-ac04-1916385e1af9",

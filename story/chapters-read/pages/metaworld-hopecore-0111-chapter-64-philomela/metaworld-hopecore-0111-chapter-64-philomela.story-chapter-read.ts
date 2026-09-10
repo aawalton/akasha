@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const metaworldHopecore0111Chapter64Philomela = {
   id: "01a06731-af0b-7000-9ac9-1028ffa8cc1d",

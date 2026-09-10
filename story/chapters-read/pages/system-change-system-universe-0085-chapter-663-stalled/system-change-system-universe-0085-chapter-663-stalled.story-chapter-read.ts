@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0085Chapter663Stalled = {
   id: "01a06730-4fbc-794e-ba13-32def13c56a0",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const lazyLoopsAnIdleLitrpgOpToArchmage003030Loop1Part10 = {
   id: "01a06731-b0d9-700a-840d-b60ee362bec5",

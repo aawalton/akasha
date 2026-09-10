@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0289Chapter257OminousMissives = {
   id: "01a0672c-ebdd-7002-903f-b095d85a00e7",

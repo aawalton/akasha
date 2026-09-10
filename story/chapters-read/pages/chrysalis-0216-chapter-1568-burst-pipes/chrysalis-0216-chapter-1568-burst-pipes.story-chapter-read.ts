@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0216Chapter1568BurstPipes = {
   id: "01a0672c-eb62-7013-a3eb-b590ac32e690",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0385425AMomentBetween = {
   id: "01a06730-4eef-78e5-9e1c-94556bc64434",

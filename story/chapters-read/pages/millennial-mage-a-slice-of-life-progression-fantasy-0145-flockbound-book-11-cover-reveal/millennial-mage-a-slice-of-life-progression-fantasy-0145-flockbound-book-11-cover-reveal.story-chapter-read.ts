@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const millennialMageASliceOfLifeProgressionFantasy0145FlockboundBook11CoverReveal = {
   id: "01a06731-ae2d-7000-87ff-95d179453ad5",

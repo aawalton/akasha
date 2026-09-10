@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const superSupportive0222TwoHundredTwentyARarePairing = {
   id: "01a06730-4efe-744e-b4be-4c8ad9c14536",

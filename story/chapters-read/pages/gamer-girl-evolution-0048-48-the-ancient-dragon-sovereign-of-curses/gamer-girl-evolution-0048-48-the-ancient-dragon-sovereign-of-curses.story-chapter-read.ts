@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const gamerGirlEvolution004848TheAncientDragonSovereignOfCurses = {
   id: "01a06731-b0de-7004-9ff6-ef25c3665ad5",

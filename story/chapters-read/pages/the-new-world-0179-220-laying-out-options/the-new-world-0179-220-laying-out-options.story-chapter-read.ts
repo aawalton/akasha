@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0179220LayingOutOptions = {
   id: "01a06730-4e8e-7709-82b3-988ef195034d",

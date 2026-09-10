@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delverDungeonDivingAndMagicLitrpg0032Chapter32CrystalForest = {
   id: "01a06731-af10-7001-918b-0df8153088c5",

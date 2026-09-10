@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0357InterludeRufelt = {
   id: "01a0659c-65b0-7a32-ad1c-c5e6b1e2774f",

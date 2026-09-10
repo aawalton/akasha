@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bewareOfChicken0018V4c12Induction = {
   id: "01a0672c-ec86-7000-b1b1-23be062d5f6f",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theSpeedOfLightMonsterEvolutionLitrpg0016Chapter16 = {
   id: "01a06730-4ed5-7cff-8a1b-65d0135377e8",

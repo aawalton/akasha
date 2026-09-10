@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0035Chapter20AHeadlessCity = {
   id: "01a06731-addb-7000-9d66-86638ffbd282",

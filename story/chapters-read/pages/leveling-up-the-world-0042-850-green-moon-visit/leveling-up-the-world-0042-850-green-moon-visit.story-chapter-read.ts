@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const levelingUpTheWorld0042850GreenMoonVisit = {
   id: "01a06731-ae8f-700f-bd1a-930f5a75cfc3",

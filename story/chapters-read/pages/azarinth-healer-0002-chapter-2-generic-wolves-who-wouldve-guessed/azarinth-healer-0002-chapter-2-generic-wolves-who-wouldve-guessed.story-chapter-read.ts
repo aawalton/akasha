@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const azarinthHealer0002Chapter2GenericWolvesWhoWouldveGuessed = {
   id: "01a08395-fc44-7289-bf17-15c36f3c8127",

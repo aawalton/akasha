@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0150191AFeverPitch = {
   id: "01a06730-4e7f-7e25-920f-9a77f9fe3b96",

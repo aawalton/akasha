@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0417Chapter380TheManaEater = {
   id: "01a0672c-ec03-7000-93a4-42ca6c68b5ba",

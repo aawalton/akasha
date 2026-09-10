@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0118Chapter118GuestsOfThalasarra = {
   id: "01a06730-4fe2-7c52-8733-24c860fcb41c",

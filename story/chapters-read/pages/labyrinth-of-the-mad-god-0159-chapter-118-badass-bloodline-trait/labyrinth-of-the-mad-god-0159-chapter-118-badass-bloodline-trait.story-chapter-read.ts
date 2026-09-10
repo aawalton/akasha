@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0159Chapter118BadassBloodlineTrait = {
   id: "01a06731-ad64-7007-8f9f-8fe97303e91a",

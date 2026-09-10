@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theUnexpectedEngagementOfTheMarvelousMr0050NewsMrPennNowHasAnAudiobook = {
   id: "01a06730-4e48-7de7-b124-9609760942ba",

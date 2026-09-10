@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const myLordPleaseACharacterDrivenKingdomBuilding0038Chapter36Abandoned = {
   id: "01a06591-3f75-7bc6-aa2c-3bc930afc482",

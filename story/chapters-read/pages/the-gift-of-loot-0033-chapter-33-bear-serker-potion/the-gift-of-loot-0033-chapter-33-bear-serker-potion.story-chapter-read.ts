@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theGiftOfLoot0033Chapter33BearSerkerPotion = {
   id: "01a06730-4ee4-7a59-821e-bb999e5afa3e",

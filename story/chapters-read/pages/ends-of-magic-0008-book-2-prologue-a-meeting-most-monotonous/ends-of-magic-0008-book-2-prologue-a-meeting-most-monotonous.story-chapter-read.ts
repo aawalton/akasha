@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0008Book2PrologueAMeetingMostMonotonous = {
   id: "01a06731-adc3-7000-b45a-ca599fd4ada2",

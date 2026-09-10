@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delverDungeonDivingAndMagicLitrpg0057Chapter55MasterDelver = {
   id: "01a06731-af11-7004-ad45-8a56c7dd36a5",

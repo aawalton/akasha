@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const fiveElementOverlordICanUpgradeEverything0118Ch11812thLevelQiRefiner = {
   id: "01a06731-adb9-7005-8c3b-4fa12ed3c54a",

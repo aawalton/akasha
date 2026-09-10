@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const forgeOfDestiny0069BonusCharacterSheet = {
   id: "01a0672c-eb23-7001-aec8-e66f3226da66",

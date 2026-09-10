@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0271312APieceOfPlazia = {
   id: "01a06730-4ebe-71b7-ac24-fc75ef4a3f60",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0002Chapter2ANewSystem = {
   id: "01a06731-adc1-7001-8ef6-2078b1c8c7ee",

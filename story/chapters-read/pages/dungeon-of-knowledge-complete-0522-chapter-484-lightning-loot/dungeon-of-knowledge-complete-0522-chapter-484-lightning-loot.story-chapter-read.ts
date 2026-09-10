@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0522Chapter484LightningLoot = {
   id: "01a0672c-ec2d-7000-91b6-01072d76ef10",

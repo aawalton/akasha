@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0019EndOfBook2PopularityPoll = {
   id: "01a06585-ef23-7d5e-b71a-56ba39c8e28c",

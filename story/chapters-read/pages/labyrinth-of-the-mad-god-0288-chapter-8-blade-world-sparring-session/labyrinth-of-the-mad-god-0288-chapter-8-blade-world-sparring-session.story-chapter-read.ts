@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0288Chapter8BladeWorldSparringSession = {
   id: "01a06731-ad85-7000-bed6-9916021a738a",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const rockFallsEveryoneDies0018Chapter17NumbersGoUp = {
   id: "01a0672f-8c2f-71fa-8ec5-239a8031a977",

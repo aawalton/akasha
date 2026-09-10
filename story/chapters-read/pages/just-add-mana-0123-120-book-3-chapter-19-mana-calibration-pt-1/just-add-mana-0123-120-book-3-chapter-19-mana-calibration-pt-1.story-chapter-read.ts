@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const justAddMana0123120Book3Chapter19ManaCalibrationPt1 = {
   id: "01a06731-ae2b-7000-bdc8-59a011c1cb39",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const cinnamonBun0494ChapterFourHundredAndEightyPublicComment = {
   id: "01a0672c-eb23-700e-9db3-4c8d96cb3396",

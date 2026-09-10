@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0172Chapter1299DeathOfTheDeathstalkers = {
   id: "01a06730-4e23-77dc-ab9c-ea5b10aff4b2",

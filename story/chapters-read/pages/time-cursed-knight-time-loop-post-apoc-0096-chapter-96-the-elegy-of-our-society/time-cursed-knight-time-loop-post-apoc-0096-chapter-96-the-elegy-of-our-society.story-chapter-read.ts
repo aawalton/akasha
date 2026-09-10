@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const timeCursedKnightTimeLoopPostApoc0096Chapter96TheElegyOfOurSociety = {
   id: "01a06730-55db-7e9e-8992-b4e84d85aee0",

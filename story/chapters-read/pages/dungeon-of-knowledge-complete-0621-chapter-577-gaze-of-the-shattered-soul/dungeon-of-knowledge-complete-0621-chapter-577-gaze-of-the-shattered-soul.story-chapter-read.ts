@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0621Chapter577GazeOfTheShatteredSoul = {
   id: "01a0672c-ec67-7003-b23d-b204697b9f6f",

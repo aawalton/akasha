@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const alexaThymeFormerlyAlexithymia0007Chapter124TheArrivalFourHoursEarlier = {
   id: "01a06585-ef15-7e28-8d45-d808adbc1808",

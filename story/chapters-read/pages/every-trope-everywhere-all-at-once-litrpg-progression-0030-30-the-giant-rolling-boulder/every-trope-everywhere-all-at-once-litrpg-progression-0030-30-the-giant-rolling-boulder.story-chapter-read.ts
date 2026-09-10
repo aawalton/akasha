@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const everyTropeEverywhereAllAtOnceLitrpgProgression003030TheGiantRollingBoulder = {
   id: "01a06731-ae0d-700c-9f4a-9700e4eebaa7",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0049Chapter4822ndTimeSTheCharm = {
   id: "01a06730-4e0b-7898-a409-a74c5484a0e8",

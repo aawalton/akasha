@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0097Chapter1225SacredMeditation = {
   id: "01a06730-4dfc-7cd1-a2dd-b82d2bba2722",

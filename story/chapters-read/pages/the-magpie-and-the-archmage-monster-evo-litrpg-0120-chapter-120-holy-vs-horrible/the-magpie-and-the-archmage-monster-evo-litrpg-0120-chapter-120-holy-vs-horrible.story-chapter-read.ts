@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theMagpieAndTheArchmageMonsterEvoLitrpg0120Chapter120HolyVsHorrible = {
   id: "01a06730-4fe2-741b-9bac-0dd1b5abf609",

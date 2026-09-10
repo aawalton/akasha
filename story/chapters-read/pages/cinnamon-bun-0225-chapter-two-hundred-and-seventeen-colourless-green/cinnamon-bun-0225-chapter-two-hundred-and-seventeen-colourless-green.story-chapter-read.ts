@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const cinnamonBun0225ChapterTwoHundredAndSeventeenColourlessGreen = {
   id: "01a0672c-eb13-7008-9a09-894a7e6caff0",

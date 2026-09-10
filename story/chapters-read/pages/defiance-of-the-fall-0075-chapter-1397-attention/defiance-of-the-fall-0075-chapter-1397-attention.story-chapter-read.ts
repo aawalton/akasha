@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0075Chapter1397Attention = {
   id: "01a06591-3c76-7a71-b27f-33c0293f80b1",

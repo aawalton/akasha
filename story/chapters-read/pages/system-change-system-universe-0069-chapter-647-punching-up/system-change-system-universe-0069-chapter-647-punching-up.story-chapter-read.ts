@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0069Chapter647PunchingUp = {
   id: "01a06730-4fbc-71ed-a97b-a2c31282f9a8",

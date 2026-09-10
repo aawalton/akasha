@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0092Chapter91VivianSDecision = {
   id: "01a0672c-eb64-7001-903c-2fca31c4c24d",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons002121ArcanaReframed = {
   id: "01a06731-ad9c-7002-8c9b-4a36a3fa6fdf",

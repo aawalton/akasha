@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theStubbornSkillGrinderInATimeLoopBook0031Chapter100TheDefenseOfAlastaiaPartIii = {
   id: "01a06730-4f2a-742e-8bd7-63acfeb87a95",

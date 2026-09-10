@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bewareOfChicken0097InterludeTheManOfIronAndStone = {
   id: "01a06731-ad89-7006-9d1e-636d50b92ba6",

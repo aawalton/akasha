@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const forgeOfDestiny0077InterludeOuterSect = {
   id: "01a0672c-eb24-7005-b2b5-f8d44009cdb9",

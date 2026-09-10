@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0041Chapter1364MercurialSacks = {
   id: "01a06591-3c6f-79aa-aacd-d42226bdbe1e",

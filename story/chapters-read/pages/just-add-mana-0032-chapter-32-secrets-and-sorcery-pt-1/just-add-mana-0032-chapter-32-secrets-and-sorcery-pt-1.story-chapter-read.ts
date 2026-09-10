@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const justAddMana0032Chapter32SecretsAndSorceryPt1 = {
   id: "01a06731-adbb-7000-a2cf-54752141c1c8",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0257298ApplyingInput = {
   id: "01a06730-4eb7-7e26-a46c-4cfd5d27918a",

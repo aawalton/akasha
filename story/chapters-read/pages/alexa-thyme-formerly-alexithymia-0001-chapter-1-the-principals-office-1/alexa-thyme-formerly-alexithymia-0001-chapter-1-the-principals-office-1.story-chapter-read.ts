@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const alexaThymeFormerlyAlexithymia0001Chapter1ThePrincipalsOffice1 = {
   id: "01a08391-da07-7fd0-a010-865729611ed8",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0038TheLevelZeroHeroChapter2501771146 = {
   id: "01a08392-3b93-783f-bf01-09b0872ddd09",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0189Chapter7PickingAProfession = {
   id: "01a06731-ad73-7000-96f8-bc5c7fe24764",

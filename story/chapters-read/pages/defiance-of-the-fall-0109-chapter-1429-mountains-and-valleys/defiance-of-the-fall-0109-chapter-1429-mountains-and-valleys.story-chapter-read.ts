@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0109Chapter1429MountainsAndValleys = {
   id: "01a06731-adab-7000-91b2-51c7d77845df",

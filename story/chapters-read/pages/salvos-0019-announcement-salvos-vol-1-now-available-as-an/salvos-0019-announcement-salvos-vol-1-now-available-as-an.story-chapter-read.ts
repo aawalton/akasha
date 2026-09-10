@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0019AnnouncementSalvosVol1NowAvailableAsAn = {
   id: "01a06730-4dd9-7d49-bc60-4f053f5cb52f",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bornForTheApocalypseADaopcalypseLitrpgBook005454Connection = {
   id: "01a06731-af0b-7002-9c36-9f7ed0c7f7bc",

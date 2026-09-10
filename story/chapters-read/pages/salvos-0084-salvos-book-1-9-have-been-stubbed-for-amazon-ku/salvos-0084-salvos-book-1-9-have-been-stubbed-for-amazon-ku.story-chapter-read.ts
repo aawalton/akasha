@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0084SalvosBook19HaveBeenStubbedForAmazonKu = {
   id: "01a06730-4de7-7735-932d-d6d972f20593",

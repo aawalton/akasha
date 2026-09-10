@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0073Chapter1395RiversAndMoons = {
   id: "01a06591-3c75-7423-9269-e550bc47cc28",

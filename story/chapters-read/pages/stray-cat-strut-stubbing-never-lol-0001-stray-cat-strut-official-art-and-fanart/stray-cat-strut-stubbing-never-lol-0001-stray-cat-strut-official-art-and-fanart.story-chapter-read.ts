@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const strayCatStrutStubbingNeverLol0001StrayCatStrutOfficialArtAndFanart = {
   id: "01a06730-4e0b-7bcf-ab1a-4443974535ca",

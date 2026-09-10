@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0232Chapter213BonePart2 = {
   id: "01a0672c-ebcf-7003-aed0-62bd7d83bf27",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const newGam3Plus0003QuestionsAndAnswers = {
   id: "01a06730-4dcb-76d0-b8fc-00323df9b33a",

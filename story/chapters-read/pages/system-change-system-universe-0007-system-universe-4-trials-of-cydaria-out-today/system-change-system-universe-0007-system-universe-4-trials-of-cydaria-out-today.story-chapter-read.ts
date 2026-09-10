@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0007SystemUniverse4TrialsOfCydariaOutToday = {
   id: "01a06730-4fb7-7a48-b8b7-125fe4fba675",

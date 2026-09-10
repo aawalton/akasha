@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0409Chapter372TheBattleForLytonRuinsPart4 = {
   id: "01a0672c-ec00-7003-8652-887c9121b859",

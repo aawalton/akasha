@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theCalamitousBobStubbed0126Chapter201Elemental = {
   id: "01a06730-4fb2-78f0-bed4-f69fbb01ff10",

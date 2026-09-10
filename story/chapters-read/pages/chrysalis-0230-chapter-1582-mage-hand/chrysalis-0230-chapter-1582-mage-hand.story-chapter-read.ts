@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0230Chapter1582MageHand = {
   id: "01a0672c-eb63-7004-8881-2fe681bebf08",

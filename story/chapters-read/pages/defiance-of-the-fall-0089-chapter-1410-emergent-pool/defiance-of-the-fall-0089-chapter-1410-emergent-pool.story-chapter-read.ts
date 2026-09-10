@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0089Chapter1410EmergentPool = {
   id: "01a06731-ad93-7000-a530-744cf1bb8025",

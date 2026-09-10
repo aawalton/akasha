@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thereIsNoEpicLootHereOnlyPuns00088WhatWickedWebWeWeave = {
   id: "01a06730-4f4b-7b45-8e40-f2e001360951",

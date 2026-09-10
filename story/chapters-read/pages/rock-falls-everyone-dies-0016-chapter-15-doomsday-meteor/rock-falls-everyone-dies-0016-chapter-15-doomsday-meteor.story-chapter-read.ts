@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const rockFallsEveryoneDies0016Chapter15DoomsdayMeteor = {
   id: "01a0672f-8c2d-7064-b58f-1a14319f1003",

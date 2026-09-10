@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0572Chapter532TheCorruptionOfTheWell = {
   id: "01a0672c-ec4a-7000-bee3-93b6c92b36e4",

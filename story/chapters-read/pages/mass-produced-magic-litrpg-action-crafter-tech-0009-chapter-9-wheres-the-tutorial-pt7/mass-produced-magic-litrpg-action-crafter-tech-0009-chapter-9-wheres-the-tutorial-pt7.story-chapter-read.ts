@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const massProducedMagicLitrpgActionCrafterTech0009Chapter9WheresTheTutorialPt7 = {
   id: "01a06731-afaa-7000-91f6-d02f386c201e",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0068Chapter1391Fateseizer = {
   id: "01a06591-3c74-7c29-8282-054b58596924",

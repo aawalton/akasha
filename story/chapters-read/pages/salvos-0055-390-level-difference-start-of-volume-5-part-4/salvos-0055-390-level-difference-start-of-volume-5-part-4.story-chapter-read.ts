@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0055390LevelDifferenceStartOfVolume5Part4 = {
   id: "01a06730-4ddd-751a-9f1a-e65e09b3274d",

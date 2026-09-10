@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0025Chapter1349NewNeighbor = {
   id: "01a06591-3c6d-74f2-a5f2-b11bdc33e0a6",

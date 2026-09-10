@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chloeTheZombieAMonsterEvolutionLitrpg007272HelloAndGoodbyeStartOfBook2 = {
   id: "01a06731-ad7a-7003-bb53-2ea46a39ef53",

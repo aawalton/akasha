@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons00077DinnerAndDuel = {
   id: "01a06731-ad9a-7002-89bb-60480f7c111c",

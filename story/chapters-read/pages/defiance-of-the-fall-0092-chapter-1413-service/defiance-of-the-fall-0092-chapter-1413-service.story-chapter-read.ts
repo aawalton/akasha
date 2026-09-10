@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0092Chapter1413Service = {
   id: "01a06731-ad95-7000-a4c0-a67f6e195bb3",

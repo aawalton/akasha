@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0139180HeliosRulerOfWorlds = {
   id: "01a06730-4e7b-791c-9b88-e781d924394e",

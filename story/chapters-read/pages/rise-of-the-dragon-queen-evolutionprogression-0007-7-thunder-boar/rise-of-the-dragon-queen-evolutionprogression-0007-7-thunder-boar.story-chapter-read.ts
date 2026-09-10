@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheDragonQueenEvolutionprogression00077ThunderBoar = {
   id: "01a06730-4e05-720e-8022-57c8a7401348",

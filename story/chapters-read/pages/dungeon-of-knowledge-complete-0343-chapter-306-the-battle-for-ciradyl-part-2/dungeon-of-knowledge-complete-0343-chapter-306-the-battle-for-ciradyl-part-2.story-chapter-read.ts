@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0343Chapter306TheBattleForCiradylPart2 = {
   id: "01a0672c-ebea-7001-8c33-c40078d0992c",

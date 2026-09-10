@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0388Chapter351TeaCookiesAndAncientMemories = {
   id: "01a0672c-ebf7-7004-a71d-5ffe464a2667",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const underworldBreadMageYuriProgfanSliceOfLife0010Chapter10CreditWhereCreditIsDue = {
   id: "01a06730-4f13-7d9b-87c0-e08169961298",

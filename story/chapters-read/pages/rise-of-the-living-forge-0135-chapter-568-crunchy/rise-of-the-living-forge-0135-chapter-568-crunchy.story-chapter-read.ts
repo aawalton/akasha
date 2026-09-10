@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0135Chapter568Crunchy = {
   id: "01a06730-4e10-7196-9089-5e5adaa8244a",

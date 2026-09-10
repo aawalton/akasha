@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const levelingUpTheWorld0016382GriffinNests = {
   id: "01a06731-ae8e-7001-bb24-c21919f03089",

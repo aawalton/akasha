@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0111663TheFallOfTheFairiesPartTwo = {
   id: "01a06730-4de8-70b1-a104-593e710031b4",

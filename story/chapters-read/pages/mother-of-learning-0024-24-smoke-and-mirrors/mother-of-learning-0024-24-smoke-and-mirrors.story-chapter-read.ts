@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const motherOfLearning002424SmokeAndMirrors = {
   id: "01a06731-b044-7000-b692-774a7b8463cc",

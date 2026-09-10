@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0025Chapter604MarrickSDilemma = {
   id: "01a06730-4fb9-76fd-80ca-1198e0c27995",

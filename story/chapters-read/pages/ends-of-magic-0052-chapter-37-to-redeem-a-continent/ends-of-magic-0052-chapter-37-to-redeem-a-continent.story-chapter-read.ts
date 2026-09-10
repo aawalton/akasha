@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0052Chapter37ToRedeemAContinent = {
   id: "01a06731-aded-7001-a5db-bd10a4a15c3c",

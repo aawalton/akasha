@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0055Chapter55TheGrandLibraryArcana = {
   id: "01a0672c-eb47-7000-88ad-2ca6986aeb0e",

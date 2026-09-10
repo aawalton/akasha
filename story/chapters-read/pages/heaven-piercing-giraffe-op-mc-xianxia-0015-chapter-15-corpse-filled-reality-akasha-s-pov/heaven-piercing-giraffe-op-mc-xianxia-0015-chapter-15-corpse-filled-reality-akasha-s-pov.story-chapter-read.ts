@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const heavenPiercingGiraffeOpMcXianxia0015Chapter15CorpseFilledRealityAkashaSPov = {
   id: "01a06731-b11d-700b-9fb7-6e7641ef8fe1",

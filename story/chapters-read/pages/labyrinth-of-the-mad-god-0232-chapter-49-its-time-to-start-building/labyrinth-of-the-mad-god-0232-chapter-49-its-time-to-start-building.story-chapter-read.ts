@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0232Chapter49ItsTimeToStartBuilding = {
   id: "01a06731-ad79-700a-bb90-a880a8385c07",

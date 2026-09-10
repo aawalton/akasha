@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0100Announcement1000SalvosComicYtShortstiktok = {
   id: "01a06730-4de7-7d3e-9ab1-ca0b3a428ee9",

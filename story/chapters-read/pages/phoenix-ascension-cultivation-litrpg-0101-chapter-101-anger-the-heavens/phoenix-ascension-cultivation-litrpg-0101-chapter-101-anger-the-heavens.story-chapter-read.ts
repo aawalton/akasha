@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const phoenixAscensionCultivationLitrpg0101Chapter101AngerTheHeavens = {
   id: "01a06730-4dfb-7d66-a83b-44a2a1d51f15",

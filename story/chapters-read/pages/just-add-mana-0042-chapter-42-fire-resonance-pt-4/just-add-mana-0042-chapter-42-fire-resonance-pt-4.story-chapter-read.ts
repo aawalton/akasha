@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const justAddMana0042Chapter42FireResonancePt4 = {
   id: "01a06731-adcc-7000-a323-5848d602c61a",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0041Chapter474ScarredHand = {
   id: "01a06730-4e0b-7d4a-bd7b-d5a6d6a32f84",

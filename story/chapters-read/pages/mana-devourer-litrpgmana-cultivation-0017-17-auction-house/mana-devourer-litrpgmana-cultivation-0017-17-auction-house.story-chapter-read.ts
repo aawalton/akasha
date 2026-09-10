@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const manaDevourerLitrpgmanaCultivation001717AuctionHouse = {
   id: "01a06731-ae3f-7000-8acf-63d6b80333f0",

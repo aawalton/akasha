@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0002Chapter1355SetbackWhatSetback = {
   id: "01a0672c-eb5a-7000-aa8c-05b567b9809c",

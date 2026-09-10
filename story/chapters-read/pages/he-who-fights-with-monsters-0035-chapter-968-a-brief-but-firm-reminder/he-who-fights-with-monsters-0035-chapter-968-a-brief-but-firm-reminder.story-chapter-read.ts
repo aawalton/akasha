@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const heWhoFightsWithMonsters0035Chapter968ABriefButFirmReminder = {
   id: "01a06731-adcc-7000-871c-824d83d32ab7",

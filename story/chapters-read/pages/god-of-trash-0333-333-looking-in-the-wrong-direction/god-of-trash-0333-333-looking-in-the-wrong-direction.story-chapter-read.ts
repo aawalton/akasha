@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const godOfTrash0333333LookingInTheWrongDirection = {
   id: "01a06731-ae05-7000-acf8-3d18122add74",

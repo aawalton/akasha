@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0077EndOfVolume5PopularityPoll = {
   id: "01a06730-4de5-79ad-b5a3-15335d1cd9d6",

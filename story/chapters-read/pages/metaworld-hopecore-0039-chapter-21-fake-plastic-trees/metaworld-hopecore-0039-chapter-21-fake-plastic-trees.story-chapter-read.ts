@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const metaworldHopecore0039Chapter21FakePlasticTrees = {
   id: "01a06731-aedc-7001-a51e-91a7a50d2621",

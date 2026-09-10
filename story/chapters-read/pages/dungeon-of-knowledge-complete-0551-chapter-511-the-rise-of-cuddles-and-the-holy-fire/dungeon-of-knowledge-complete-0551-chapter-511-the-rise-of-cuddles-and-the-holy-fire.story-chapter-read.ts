@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0551Chapter511TheRiseOfCuddlesAndTheHolyFire = {
   id: "01a0672c-ec3e-7001-833d-21ba9c213549",

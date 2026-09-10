@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const justAddMana0004Chapter4RoommateEtiquettePt1 = {
   id: "01a06731-ad92-7000-989f-150c0b70ae41",

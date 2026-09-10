@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons0191AKnotInFatesWeave = {
   id: "01a06731-adb3-7002-a00a-ef536372ef38",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0099Chapter1227AFundamentalEvolutionaryDifference = {
   id: "01a06730-4dfc-7af5-aa28-9989c60c62a6",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const strayCatStrutStubbingNeverLol0727ChapterEightPreemptiveBitching = {
   id: "01a06730-4ed7-72a3-a759-8f5667fa7d39",

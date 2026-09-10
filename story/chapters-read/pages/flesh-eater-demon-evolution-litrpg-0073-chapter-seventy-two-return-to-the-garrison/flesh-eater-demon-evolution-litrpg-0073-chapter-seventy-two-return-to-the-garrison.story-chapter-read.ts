@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const fleshEaterDemonEvolutionLitrpg0073ChapterSeventyTwoReturnToTheGarrison = {
   id: "01a06731-af60-7000-9e04-c5c52eba1da1",

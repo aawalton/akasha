@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete00033Analyse = {
   id: "01a06730-4e2b-764f-9ecd-d5e39d929172",

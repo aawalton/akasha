@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0416456TheBestAndBrightestAmongUs = {
   id: "01a06730-4f0a-7d6c-8840-a17a81ff45b6",

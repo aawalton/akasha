@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0185Chapter1537TheMoustacheSong = {
   id: "01a0672c-eb61-7012-8ed1-122088c5a950",

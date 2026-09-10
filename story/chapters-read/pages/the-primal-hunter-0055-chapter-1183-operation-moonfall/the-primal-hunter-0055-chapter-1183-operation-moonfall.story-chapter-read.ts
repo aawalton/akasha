@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0055Chapter1183OperationMoonfall = {
   id: "01a06730-4de7-71dc-b176-5918d0e6b697",

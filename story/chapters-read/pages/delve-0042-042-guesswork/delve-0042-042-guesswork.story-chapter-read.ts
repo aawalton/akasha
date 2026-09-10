@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delve0042042Guesswork = {
   id: "01a06731-adcb-7000-850a-aa7db41ca52e",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0287Chapter255JoraaTheBetrayerPart2 = {
   id: "01a0672c-ebdd-7000-a6ee-04c587f82c7c",

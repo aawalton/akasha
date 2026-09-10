@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const millennialMageASliceOfLifeProgressionFantasy0168Chapter662ForTheSakeOfIt = {
   id: "01a06731-ae59-7000-8ddf-e68cc4005ea8",

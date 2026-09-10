@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0028172CosmicCompression = {
   id: "01a06730-4dd9-70b6-859a-fa819b7c5955",

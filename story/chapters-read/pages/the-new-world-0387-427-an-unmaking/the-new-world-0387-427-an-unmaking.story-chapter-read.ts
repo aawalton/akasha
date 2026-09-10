@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0387427AnUnmaking = {
   id: "01a06730-4ef0-7637-a559-daa9a87114e9",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0131Chapter1450Starseed = {
   id: "01a06731-adb8-7002-8d70-2b97e577e415",

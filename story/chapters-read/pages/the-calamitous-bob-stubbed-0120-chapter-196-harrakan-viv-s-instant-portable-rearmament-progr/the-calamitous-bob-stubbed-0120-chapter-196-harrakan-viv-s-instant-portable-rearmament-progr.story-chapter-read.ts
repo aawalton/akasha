@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theCalamitousBobStubbed0120Chapter196HarrakanVivSInstantPortableRearmamentProgr = {
   id: "01a06730-4fae-7b7c-b0db-8e6b54a4b82f",

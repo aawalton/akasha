@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const mythransMasterOfAllContinuedCompleted0419Chapter422ANecessaryWarning = {
   id: "01a0672c-eca0-7000-bcb0-9ab267d53900",

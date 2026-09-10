@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const azarinthHealer0017Chapter935Legend = {
   id: "01a06731-affa-7002-8f5b-6d3b2aeccf6b",

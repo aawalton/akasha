@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theStubbornSkillGrinderInATimeLoopBook0016Chapter88PeaceQuietAndConsolidationI = {
   id: "01a06730-4f08-7e4f-b16d-5160fb0a61c0",

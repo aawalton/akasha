@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theGiftOfLoot0052Chapter52ItS1000ATrap = {
   id: "01a06730-4ef2-74b4-b81c-b2a49991bcea",

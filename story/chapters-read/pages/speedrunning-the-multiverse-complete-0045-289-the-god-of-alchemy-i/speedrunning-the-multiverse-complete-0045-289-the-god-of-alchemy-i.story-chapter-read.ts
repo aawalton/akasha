@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const speedrunningTheMultiverseComplete0045289TheGodOfAlchemyI = {
   id: "01a06730-4de3-787f-bd58-5a99d54a8d09",

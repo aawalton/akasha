@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const levelingUpTheWorld0037845AChaliceRealmEncounter = {
   id: "01a06731-ae8f-700a-be59-b71704690b99",

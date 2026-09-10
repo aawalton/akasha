@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bunnyGirlEvolution0026NotAChapterB4EpubAvailableOnPatreonFor8MoreHours = {
   id: "01a06743-b38c-7002-9a56-1068d13fc255",

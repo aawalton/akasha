@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0044Chapter44TheGoblinHorde = {
   id: "01a0672c-eb3d-7000-8eaa-dd2f826070f4",

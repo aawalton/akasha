@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0077Chapter655SkillRequirements = {
   id: "01a06730-4fbc-77ec-872c-fd5ce33c338b",

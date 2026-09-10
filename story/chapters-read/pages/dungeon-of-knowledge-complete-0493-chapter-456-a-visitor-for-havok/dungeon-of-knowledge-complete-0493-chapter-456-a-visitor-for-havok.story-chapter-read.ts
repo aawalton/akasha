@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0493Chapter456AVisitorForHavok = {
   id: "01a0672c-ec21-7000-b5ca-b31e700f2ea8",

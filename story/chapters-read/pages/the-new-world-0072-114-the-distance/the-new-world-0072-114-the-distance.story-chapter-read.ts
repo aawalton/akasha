@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0072114TheDistance = {
   id: "01a06730-4e5b-7190-baf9-e83dafe73a5e",

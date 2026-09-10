@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld001457MountainsOfMadness = {
   id: "01a06730-4e36-7b87-ac6e-7bfa0c3cb194",

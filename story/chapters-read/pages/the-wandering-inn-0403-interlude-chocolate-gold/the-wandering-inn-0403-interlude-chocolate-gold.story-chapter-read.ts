@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0403InterludeChocolateGold = {
   id: "01a0659d-4cce-7325-ac53-b02f730b51c4",

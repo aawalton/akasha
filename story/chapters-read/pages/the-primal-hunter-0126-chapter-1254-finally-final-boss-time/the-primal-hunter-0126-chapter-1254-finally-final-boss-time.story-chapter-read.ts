@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0126Chapter1254FinallyFinalBossTime = {
   id: "01a06730-4e0c-7b24-b8b8-d06971e2c3a8",

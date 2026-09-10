@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0237278GraspingTheEthereal = {
   id: "01a06730-4eaa-73cc-a993-bb97a465e4ef",

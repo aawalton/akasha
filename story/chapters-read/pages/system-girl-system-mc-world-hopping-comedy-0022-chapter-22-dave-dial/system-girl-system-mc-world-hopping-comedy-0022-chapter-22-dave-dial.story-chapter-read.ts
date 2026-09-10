@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemGirlSystemMcWorldHoppingComedy0022Chapter22DaveDial = {
   id: "01a06730-4ded-7c7e-a5e7-eb96a1de7e33",

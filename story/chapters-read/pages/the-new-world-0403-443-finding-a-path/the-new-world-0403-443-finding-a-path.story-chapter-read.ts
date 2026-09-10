@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0403443FindingAPath = {
   id: "01a06730-4eff-7b6c-839b-8cd23dcfb4ed",

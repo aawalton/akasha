@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const allTheSkillsADeckbuildingLitrpg0027B6Ch20RowantreeEstate = {
   id: "01a06585-ef18-7c66-99eb-a352d497ab9c",

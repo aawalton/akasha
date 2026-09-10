@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const sylASlimeMonsterEvolutionLitrpg0121Chapter419RaysOfPower = {
   id: "01a06730-4e2a-7d55-b3de-e33b4552e7a2",

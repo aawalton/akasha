@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0110Chapter109ForestGuardian = {
   id: "01a0672c-eb73-7000-96cf-6e14bcfa04cb",

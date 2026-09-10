@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const arkendrithyst0020020397061 = {
   id: "01a08392-5b41-7a14-83c8-dbbf0e6cddf1",

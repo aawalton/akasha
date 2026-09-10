@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0030Chapter463EsmereldaSFavor = {
   id: "01a06730-4e09-7c8c-9cd6-05f1c615445a",

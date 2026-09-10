@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0079Chapter64AChallengingBalance = {
   id: "01a06731-ae0d-7000-abf8-e26e46d020d4",

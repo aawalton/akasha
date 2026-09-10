@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0352Chapter315InfinitePerception = {
   id: "01a0672c-ebee-7000-80dd-5c5b56ff1147",

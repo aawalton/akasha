@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const justAddMana0016Chapter16AlinaTheLunchladyArchdemonOfShelves = {
   id: "01a06731-ada8-7000-b918-f038ec5946aa",

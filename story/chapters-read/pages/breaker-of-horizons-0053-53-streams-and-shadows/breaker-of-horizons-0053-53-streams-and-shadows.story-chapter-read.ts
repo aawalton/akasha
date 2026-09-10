@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons005353StreamsAndShadows = {
   id: "01a06731-adaa-7001-b51e-80b776c40b0b",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0051NotAChapterDeletingCommentingRulesQuick = {
   id: "01a06730-4ddd-7fd6-807b-1aea93c38d73",

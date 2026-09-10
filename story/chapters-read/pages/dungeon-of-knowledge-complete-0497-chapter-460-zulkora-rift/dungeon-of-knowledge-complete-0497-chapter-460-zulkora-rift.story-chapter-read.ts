@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0497Chapter460ZulkoraRift = {
   id: "01a0672c-ec22-7002-9c39-95da71f23297",

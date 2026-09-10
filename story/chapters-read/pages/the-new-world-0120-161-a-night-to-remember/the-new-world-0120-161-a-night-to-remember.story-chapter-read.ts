@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0120161ANightToRemember = {
   id: "01a06730-4e72-743b-8dd2-aee04ca18cb2",

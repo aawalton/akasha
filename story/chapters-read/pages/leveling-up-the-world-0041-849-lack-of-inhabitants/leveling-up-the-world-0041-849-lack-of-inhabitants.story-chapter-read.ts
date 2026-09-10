@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const levelingUpTheWorld0041849LackOfInhabitants = {
   id: "01a06731-ae8f-700e-b4a8-ddbcd48c0456",

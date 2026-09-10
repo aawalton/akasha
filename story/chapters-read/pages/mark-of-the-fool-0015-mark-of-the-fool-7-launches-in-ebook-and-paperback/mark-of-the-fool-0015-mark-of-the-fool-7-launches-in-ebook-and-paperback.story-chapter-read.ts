@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const markOfTheFool0015MarkOfTheFool7LaunchesInEbookAndPaperback = {
   id: "01a06731-ae97-7007-907b-f18e4a100b79",

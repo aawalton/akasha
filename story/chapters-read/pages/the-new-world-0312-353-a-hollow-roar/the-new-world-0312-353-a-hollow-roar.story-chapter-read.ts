@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0312353AHollowRoar = {
   id: "01a06730-4eca-7fe2-9b07-b347a7475506",

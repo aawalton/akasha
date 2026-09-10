@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemGirlSystemMcWorldHoppingComedy0100Chapter99TheCostOfGrainAndMercy = {
   id: "01a06730-4e05-7d5f-986a-64a9da2604e5",

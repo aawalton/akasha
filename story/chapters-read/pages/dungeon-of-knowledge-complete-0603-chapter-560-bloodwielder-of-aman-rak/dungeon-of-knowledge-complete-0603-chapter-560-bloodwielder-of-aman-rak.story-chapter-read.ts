@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0603Chapter560BloodwielderOfAmanRak = {
   id: "01a0672c-ec61-7002-b089-d39c552a7b5d",

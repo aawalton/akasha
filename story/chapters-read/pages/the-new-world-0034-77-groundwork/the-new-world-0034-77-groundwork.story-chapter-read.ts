@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld003477Groundwork = {
   id: "01a06730-4e46-7e57-81f3-3642f8d1dc9b",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0393Chapter356TheSpearOfSilentExtinctionPart1 = {
   id: "01a0672c-ebf9-7000-9880-340205185f40",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0119670DangersAroundMavosAcademy = {
   id: "01a06730-4de8-76a0-980f-0021c4f6c13a",

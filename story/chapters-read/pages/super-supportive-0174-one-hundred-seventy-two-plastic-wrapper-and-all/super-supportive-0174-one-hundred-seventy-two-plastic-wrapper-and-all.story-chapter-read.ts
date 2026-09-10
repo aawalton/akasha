@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const superSupportive0174OneHundredSeventyTwoPlasticWrapperAndAll = {
   id: "01a06730-4ed7-7bc5-94ab-0f6e25c8c87a",

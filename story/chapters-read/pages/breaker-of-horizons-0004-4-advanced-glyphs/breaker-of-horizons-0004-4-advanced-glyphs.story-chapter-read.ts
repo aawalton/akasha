@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons00044AdvancedGlyphs = {
   id: "01a06731-ad99-7003-9f1e-18d4e469a7a3",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0271Chapter88BonusObjective = {
   id: "01a06731-ad7f-7004-8608-9e1f225485d5",

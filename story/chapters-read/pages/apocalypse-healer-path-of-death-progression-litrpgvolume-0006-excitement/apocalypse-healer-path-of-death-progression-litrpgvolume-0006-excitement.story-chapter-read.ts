@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0006Excitement = {
   id: "01a06585-ef26-756e-989c-079a7ab39391",

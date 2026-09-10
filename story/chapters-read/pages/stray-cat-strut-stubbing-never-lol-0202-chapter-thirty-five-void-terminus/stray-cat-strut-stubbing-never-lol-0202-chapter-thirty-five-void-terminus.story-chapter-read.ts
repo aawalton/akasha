@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const strayCatStrutStubbingNeverLol0202ChapterThirtyFiveVoidTerminus = {
   id: "01a06730-4e13-76fe-92e1-3aa791a62981",

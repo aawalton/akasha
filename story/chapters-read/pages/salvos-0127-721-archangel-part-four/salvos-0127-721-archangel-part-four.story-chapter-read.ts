@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0127721ArchangelPartFour = {
   id: "01a06730-4de9-7e8c-938d-77b805e617a6",

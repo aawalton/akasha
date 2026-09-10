@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0006SystemUniverseBook2TorithIsFinallyOut = {
   id: "01a06730-4fb7-7eb8-bdc5-fc3ba407bf2d",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0055Chapter1408TidalWave = {
   id: "01a0672c-eb5c-7000-9c64-5d5257184899",

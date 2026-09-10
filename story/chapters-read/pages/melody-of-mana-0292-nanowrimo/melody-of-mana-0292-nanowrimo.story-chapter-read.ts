@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const melodyOfMana0292Nanowrimo = {
   id: "01a06731-ad86-700c-9ba8-51b97d67ec89",

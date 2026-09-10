@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const pathOfTheDeathlessBook4Completed0182194IEuthanasiaIi2764011 = {
   id: "01a06730-4e1f-7fd8-bbb5-e664b34b1470",

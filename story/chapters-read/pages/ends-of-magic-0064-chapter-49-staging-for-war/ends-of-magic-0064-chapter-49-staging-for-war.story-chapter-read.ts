@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0064Chapter49StagingForWar = {
   id: "01a06731-adfd-7000-8ac7-ab04cf8ae855",

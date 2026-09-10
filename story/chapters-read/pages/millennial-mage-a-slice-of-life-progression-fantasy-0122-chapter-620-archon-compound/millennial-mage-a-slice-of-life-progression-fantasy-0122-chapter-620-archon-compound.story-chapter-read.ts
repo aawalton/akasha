@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const millennialMageASliceOfLifeProgressionFantasy0122Chapter620ArchonCompound = {
   id: "01a06731-ae0b-7000-9a17-7a2c9003a8c2",

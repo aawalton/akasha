@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0306InterludePebblesnatchAndGarry = {
   id: "01a06599-fe27-7c91-afe0-d099496fa7d1",

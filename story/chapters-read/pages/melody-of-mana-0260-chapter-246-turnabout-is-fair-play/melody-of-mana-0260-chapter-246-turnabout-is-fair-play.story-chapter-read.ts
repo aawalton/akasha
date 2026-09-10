@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const melodyOfMana0260Chapter246TurnaboutIsFairPlay = {
   id: "01a06731-ad85-7006-9e1d-8e17c793dce3",

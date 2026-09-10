@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const millennialMageASliceOfLifeProgressionFantasy0131NotAChapterShamelessSelfPlug = {
   id: "01a06731-ae18-7000-8099-ec2842ad2d68",

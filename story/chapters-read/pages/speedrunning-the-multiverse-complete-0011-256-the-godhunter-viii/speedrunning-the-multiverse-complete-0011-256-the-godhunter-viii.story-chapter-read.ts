@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const speedrunningTheMultiverseComplete0011256TheGodhunterViii = {
   id: "01a06730-4de0-7889-ade2-6e5c9df4d5c8",

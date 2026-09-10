@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const gamerGirlEvolution004343BlingBlingMaxingTheSequel = {
   id: "01a06731-b0dd-701c-8c3a-a6b8a8460f21",

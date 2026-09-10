@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0101TheSalvosPaperbackHardcoverKickstarterIs = {
   id: "01a06730-4de7-73b1-9d76-850d6bcd2a67",

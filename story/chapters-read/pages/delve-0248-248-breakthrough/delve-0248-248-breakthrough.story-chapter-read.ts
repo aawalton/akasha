@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delve0248248Breakthrough = {
   id: "01a06731-afd1-7000-a1c9-8e9829045caf",

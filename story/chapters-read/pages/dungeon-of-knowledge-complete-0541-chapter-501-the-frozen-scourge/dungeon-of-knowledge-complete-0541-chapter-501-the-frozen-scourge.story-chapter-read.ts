@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0541Chapter501TheFrozenScourge = {
   id: "01a0672c-ec38-7001-aa87-a68ebf86fe26",

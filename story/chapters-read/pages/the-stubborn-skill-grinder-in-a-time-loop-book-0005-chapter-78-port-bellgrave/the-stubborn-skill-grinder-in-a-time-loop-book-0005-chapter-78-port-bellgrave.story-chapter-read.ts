@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theStubbornSkillGrinderInATimeLoopBook0005Chapter78PortBellgrave = {
   id: "01a06730-4ee2-79a7-9948-1bcfbc80cec4",

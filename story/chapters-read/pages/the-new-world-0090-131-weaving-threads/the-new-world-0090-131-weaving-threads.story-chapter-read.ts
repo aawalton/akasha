@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0090131WeavingThreads = {
   id: "01a06730-4e60-76a9-9f36-68b6f89d6705",

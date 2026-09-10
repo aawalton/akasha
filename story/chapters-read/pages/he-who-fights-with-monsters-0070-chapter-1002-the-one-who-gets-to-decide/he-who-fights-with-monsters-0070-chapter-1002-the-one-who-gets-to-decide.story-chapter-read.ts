@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const heWhoFightsWithMonsters0070Chapter1002TheOneWhoGetsToDecide = {
   id: "01a06731-aded-7000-b130-240bbff4c486",

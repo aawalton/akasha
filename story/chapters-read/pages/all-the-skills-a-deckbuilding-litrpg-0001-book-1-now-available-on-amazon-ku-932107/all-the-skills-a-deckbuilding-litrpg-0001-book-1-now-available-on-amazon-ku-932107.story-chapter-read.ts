@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const allTheSkillsADeckbuildingLitrpg0001Book1NowAvailableOnAmazonKu932107 = {
   id: "01a08391-e3f9-79a4-b403-ee113faff758",

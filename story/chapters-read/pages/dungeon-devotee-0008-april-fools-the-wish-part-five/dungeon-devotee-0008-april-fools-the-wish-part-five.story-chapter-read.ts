@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonDevotee0008AprilFoolsTheWishPartFive = {
   id: "01a06731-b0e8-7000-932a-5d676570f1df",

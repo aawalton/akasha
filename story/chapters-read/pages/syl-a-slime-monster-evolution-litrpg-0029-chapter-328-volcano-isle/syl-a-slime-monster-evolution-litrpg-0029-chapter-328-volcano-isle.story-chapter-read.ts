@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const sylASlimeMonsterEvolutionLitrpg0029Chapter328VolcanoIsle = {
   id: "01a06730-4e1a-76ca-8164-1a8fe3f16661",

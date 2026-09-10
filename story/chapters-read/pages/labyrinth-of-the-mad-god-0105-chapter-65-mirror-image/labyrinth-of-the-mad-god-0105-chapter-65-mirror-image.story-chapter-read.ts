@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0105Chapter65MirrorImage = {
   id: "01a0672c-eb75-7005-ac2e-db2fff18f611",

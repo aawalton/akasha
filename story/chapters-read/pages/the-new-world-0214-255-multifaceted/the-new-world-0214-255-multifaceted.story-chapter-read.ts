@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0214255Multifaceted = {
   id: "01a06730-4e9b-7b69-9dcf-072bfd484990",

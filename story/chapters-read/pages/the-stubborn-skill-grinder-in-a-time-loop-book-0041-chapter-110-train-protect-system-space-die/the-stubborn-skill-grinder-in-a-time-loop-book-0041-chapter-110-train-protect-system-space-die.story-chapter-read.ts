@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theStubbornSkillGrinderInATimeLoopBook0041Chapter110TrainProtectSystemSpaceDie = {
   id: "01a06730-4f41-7c54-9d0e-617061efb2b6",

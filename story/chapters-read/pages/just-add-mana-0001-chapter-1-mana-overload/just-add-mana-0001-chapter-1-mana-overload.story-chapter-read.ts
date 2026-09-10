@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const justAddMana0001Chapter1ManaOverload = {
   id: "01a06731-ad90-7000-9353-692938a77ebe",

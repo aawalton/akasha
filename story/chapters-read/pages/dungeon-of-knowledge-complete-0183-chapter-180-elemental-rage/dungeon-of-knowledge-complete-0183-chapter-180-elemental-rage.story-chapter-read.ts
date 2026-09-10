@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0183Chapter180ElementalRage = {
   id: "01a0672c-ebb6-7000-a586-3c3cbb2cee7e",

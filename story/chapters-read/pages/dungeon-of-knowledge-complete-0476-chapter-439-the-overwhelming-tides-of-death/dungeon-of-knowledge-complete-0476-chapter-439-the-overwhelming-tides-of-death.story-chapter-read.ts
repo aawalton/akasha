@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0476Chapter439TheOverwhelmingTidesOfDeath = {
   id: "01a0672c-ec1d-7001-9dda-3d8119cacfdb",

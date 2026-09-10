@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons0189187aRedrawingLines = {
   id: "01a06731-adb3-7000-8edf-9aa14f158e2a",

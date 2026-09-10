@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0528Chapter489ForgingAPlan = {
   id: "01a0672c-ec2f-7001-a80c-cc7b4a2e6bd1",

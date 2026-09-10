@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0524Chapter4855MatoStatusSheetTreeForm = {
   id: "01a0672c-ec2e-7000-8573-73cbd7a51365",

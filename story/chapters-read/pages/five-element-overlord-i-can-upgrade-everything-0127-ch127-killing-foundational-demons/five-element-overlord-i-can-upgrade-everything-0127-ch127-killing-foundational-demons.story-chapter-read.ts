@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const fiveElementOverlordICanUpgradeEverything0127Ch127KillingFoundationalDemons = {
   id: "01a06731-adbc-7003-9185-062c6f746b4f",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const superSupportive0108OneHundredSevenOppositeStone = {
   id: "01a06730-4e71-7396-95e4-bf8345a8a55e",

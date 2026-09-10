@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delve0016016Cleanup = {
   id: "01a06731-ad87-7000-aff7-1b6988b433b0",

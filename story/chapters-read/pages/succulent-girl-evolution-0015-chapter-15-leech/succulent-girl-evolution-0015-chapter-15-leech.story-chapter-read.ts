@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const succulentGirlEvolution0015Chapter15Leech = {
   id: "01a06730-4dea-7e23-a4a9-b4a0f1f2716b",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const markOfTheCrijik0001MarkOfTheCrijikGeneralUpdateBook4And5Update = {
   id: "01a06731-b11e-7008-8190-1e48efbfd88a",

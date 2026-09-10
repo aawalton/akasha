@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const defianceOfTheFall0117Chapter1437SecondSingularity = {
   id: "01a06731-adaf-7001-b25f-28a8f6cd81df",

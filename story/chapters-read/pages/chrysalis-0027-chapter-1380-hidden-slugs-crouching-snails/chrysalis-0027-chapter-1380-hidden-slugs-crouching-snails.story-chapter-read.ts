@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0027Chapter1380HiddenSlugsCrouchingSnails = {
   id: "01a0672c-eb5b-7001-ac01-31e10c0c41f1",

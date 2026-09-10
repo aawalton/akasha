@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const mythransMasterOfAllContinuedCompleted0573Chapter573TheWaterRealmVersion2 = {
   id: "01a0672c-ed0f-7001-a631-5bec4ac80b5e",

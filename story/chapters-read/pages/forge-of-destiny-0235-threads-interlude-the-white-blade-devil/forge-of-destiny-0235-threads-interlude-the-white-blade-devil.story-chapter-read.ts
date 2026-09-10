@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const forgeOfDestiny0235ThreadsInterludeTheWhiteBladeDevil = {
   id: "01a06591-3dfb-7c59-8615-152e2d66cc76",

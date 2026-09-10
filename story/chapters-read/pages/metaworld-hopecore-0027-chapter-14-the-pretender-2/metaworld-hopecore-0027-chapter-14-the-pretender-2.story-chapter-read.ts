@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const metaworldHopecore0027Chapter14ThePretender2 = {
   id: "01a06731-aed7-7002-8737-681ea27db856",

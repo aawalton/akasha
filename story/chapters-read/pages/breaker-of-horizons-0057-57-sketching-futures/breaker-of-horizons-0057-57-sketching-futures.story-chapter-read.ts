@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons005757SketchingFutures = {
   id: "01a06731-adab-7002-9ae7-1b50f9d1f3c8",

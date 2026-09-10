@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0235Chapter1361GoldenFlowersOfAbundance = {
   id: "01a06730-4e42-7cf6-ad89-dd2767e99cf7",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bookboundBunny0003B2Chapter1JourneyOfTime = {
   id: "01a06731-b0c9-7004-a3ff-b814b3d3f6fd",

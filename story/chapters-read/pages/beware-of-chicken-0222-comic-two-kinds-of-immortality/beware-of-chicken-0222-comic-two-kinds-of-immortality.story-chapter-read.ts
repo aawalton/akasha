@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bewareOfChicken0222ComicTwoKindsOfImmortality = {
   id: "01a06731-adc1-7000-9b59-6d7c219fe175",

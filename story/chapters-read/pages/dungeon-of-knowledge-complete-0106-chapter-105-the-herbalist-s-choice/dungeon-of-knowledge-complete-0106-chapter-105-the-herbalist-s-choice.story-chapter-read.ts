@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0106Chapter105TheHerbalistSChoice = {
   id: "01a0672c-eb70-7000-b219-b4ac608b87ee",

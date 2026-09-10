@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const catGirlEvolution0105103TheGoddessOfFemaleDogsB2End = {
   id: "01a06731-b012-7000-90ae-41a61df98640",

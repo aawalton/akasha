@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const motherOfLearning004242SumOfItsParts = {
   id: "01a06731-b05f-7000-9b5c-a714b02abcb6",

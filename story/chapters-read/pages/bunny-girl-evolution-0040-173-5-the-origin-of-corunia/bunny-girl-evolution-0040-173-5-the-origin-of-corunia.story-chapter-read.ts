@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bunnyGirlEvolution00401735TheOriginOfCorunia = {
   id: "01a06743-b3ac-7000-bf75-458314e20469",

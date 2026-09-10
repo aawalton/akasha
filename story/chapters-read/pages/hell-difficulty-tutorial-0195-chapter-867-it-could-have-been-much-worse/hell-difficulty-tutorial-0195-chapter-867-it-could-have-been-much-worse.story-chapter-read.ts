@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const hellDifficultyTutorial0195Chapter867ItCouldHaveBeenMuchWorse = {
   id: "01a06731-ad96-7000-a8bd-3f701efabb68",

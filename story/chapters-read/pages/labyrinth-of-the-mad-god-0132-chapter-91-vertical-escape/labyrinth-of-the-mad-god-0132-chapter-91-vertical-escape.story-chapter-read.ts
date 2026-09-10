@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0132Chapter91VerticalEscape = {
   id: "01a0672c-eb76-700c-9f06-4c497d75b62d",

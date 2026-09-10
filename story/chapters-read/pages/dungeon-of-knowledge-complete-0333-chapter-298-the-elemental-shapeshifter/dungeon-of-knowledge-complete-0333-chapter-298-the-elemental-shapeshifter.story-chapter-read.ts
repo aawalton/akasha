@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0333Chapter298TheElementalShapeshifter = {
   id: "01a0672c-ebe6-7004-b76d-fe55009743c5",

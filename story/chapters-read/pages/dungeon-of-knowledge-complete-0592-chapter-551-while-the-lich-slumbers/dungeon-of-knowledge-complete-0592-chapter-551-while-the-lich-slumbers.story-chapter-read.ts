@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0592Chapter551WhileTheLichSlumbers = {
   id: "01a0672c-ec5b-7001-92c8-153440024c72",

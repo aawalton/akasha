@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0046Book4Chapter41MinorInterludeAvyna = {
   id: "01a06731-aed8-7000-8bfd-0b4dd673a3f2",

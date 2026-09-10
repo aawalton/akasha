@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const shapeshifterANonHumanLitrpg0038Chapter33LivingInTheShadows = {
   id: "01a06730-4e0a-7995-b7c9-9616fe4f2df5",

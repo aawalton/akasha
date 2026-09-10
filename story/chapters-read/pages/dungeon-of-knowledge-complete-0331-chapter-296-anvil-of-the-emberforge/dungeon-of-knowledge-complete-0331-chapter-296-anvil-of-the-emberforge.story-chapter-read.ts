@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0331Chapter296AnvilOfTheEmberforge = {
   id: "01a0672c-ebe6-7002-9e12-095d1acca5ff",

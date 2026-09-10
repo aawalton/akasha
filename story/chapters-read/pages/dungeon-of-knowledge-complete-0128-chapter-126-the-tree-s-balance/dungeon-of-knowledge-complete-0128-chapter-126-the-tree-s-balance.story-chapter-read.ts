@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0128Chapter126TheTreeSBalance = {
   id: "01a0672c-eb81-7001-b79d-25746b1da83e",

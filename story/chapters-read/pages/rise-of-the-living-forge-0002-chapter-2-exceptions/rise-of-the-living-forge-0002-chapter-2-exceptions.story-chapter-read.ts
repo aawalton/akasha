@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0002Chapter2Exceptions = {
   id: "01a06730-4e07-7588-914b-f5c77a7b128c",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const metaworldHopecore0041Chapter22KillingInTheName = {
   id: "01a06731-aedd-7001-ae06-c2be7b07adae",

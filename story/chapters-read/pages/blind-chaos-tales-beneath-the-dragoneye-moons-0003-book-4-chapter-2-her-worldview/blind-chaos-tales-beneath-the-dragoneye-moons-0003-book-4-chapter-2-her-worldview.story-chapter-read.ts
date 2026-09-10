@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const blindChaosTalesBeneathTheDragoneyeMoons0003Book4Chapter2HerWorldview = {
   id: "01a06731-ae9d-7000-9088-98ebe65c9d1b",

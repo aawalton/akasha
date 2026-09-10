@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const strayCatStrutStubbingNeverLol0697TheStrayCatStrutRoleplayingGameKickstarter = {
   id: "01a06730-4ed6-7a2e-8e55-75da6daabfbf",

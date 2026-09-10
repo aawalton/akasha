@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const mythransMasterOfAllContinuedCompleted0720Chapter719GoingBackHome = {
   id: "01a0672c-ed72-7001-a2e6-5d44a2bace4e",

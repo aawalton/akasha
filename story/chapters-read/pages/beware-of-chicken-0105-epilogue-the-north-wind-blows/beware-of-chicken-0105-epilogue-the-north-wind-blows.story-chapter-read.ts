@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const bewareOfChicken0105EpilogueTheNorthWindBlows = {
   id: "01a06731-ad89-700e-b7d0-a4c54fc57a51",

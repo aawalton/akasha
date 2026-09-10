@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0365405APalpableEncroach = {
   id: "01a06730-4ee2-713d-bea8-74e55cca08b5",

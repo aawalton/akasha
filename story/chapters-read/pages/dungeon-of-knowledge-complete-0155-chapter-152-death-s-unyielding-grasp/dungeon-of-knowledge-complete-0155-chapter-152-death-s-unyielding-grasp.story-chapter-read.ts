@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0155Chapter152DeathSUnyieldingGrasp = {
   id: "01a0672c-eb99-7000-8636-7923e9a2516b",

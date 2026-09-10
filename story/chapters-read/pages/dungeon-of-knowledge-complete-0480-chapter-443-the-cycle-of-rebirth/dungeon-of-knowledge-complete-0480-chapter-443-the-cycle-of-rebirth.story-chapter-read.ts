@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0480Chapter443TheCycleOfRebirth = {
   id: "01a0672c-ec1e-7002-af5f-c347825f9916",

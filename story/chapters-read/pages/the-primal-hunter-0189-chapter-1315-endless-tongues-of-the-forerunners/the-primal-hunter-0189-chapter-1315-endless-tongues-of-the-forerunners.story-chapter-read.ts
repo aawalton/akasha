@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0189Chapter1315EndlessTonguesOfTheForerunners = {
   id: "01a06730-4e2a-75a3-ad13-e7f1699ff6ad",

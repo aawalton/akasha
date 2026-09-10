@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const rebornAsADemonicTree0065Chapter542BlackToken = {
   id: "01a06730-4de3-710a-bf4e-c92bfe749d45",

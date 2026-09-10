@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0065Chapter1417SolantSPlotting = {
   id: "01a0672c-eb5c-700a-a364-682000b5e766",

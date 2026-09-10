@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const forgeOfDestiny0264InTheShadowOfXiangmenIii = {
   id: "01a06591-3dfe-748a-85dc-5671961b004f",

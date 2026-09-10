@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0235InterludeTheAntiniumWarsPt4 = {
   id: "01a06599-75ed-789c-a364-1b070c446142",

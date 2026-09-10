@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0122Chapter121LiraSRequest = {
   id: "01a0672c-eb7b-7000-8d9e-8019661e210f",

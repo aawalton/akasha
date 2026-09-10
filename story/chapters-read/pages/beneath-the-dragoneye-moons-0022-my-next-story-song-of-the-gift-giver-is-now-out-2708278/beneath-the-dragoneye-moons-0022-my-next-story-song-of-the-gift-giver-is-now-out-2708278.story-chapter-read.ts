@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const beneathTheDragoneyeMoons0022MyNextStorySongOfTheGiftGiverIsNowOut2708278 = {
   id: "01a08396-559b-7f6e-9158-7991a97dafc5",

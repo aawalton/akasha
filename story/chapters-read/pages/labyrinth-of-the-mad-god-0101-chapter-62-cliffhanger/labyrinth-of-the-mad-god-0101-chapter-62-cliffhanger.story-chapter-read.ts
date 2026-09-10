@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0101Chapter62Cliffhanger = {
   id: "01a0672c-eb75-7001-a472-6412cd323d77",

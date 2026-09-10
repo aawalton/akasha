@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const librarySystemResetOverdueBookFourStubbed0009HealthUpdate = {
   id: "01a06731-ae86-7001-b5ba-73f6052369e5",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const markOfTheFool0027AnnouncementOathsLaunchesToday = {
   id: "01a06731-ae97-7013-8935-17965e751cf5",

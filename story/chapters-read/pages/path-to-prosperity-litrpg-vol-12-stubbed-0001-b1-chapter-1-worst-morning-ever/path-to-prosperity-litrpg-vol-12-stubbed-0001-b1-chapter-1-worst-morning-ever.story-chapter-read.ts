@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const pathToProsperityLitrpgVol12Stubbed0001B1Chapter1WorstMorningEver = {
   id: "01a06730-4dc7-72bf-899b-82fa2e2eb1b9",

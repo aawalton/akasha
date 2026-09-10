@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const superSupportive0011ElevenLastAndLeast = {
   id: "01a06730-4de8-72ba-bfcf-5edbc37f7855",

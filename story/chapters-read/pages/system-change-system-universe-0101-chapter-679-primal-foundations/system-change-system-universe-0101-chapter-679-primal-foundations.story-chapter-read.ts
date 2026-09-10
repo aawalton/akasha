@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0101Chapter679PrimalFoundations = {
   id: "01a06730-4fbd-7ee4-bda1-6f7638de018f",

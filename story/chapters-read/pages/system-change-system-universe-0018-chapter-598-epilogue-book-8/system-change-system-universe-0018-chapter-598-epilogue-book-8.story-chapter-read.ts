@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0018Chapter598EpilogueBook8 = {
   id: "01a06730-4fb8-7d12-852b-a1cc9cc39381",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0341Chapter304TheArchmageSChoice = {
   id: "01a0672c-ebe8-7002-8239-b313b51d45e7",

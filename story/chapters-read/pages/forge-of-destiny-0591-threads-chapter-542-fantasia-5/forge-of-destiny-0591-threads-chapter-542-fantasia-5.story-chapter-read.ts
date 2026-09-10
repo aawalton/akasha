@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const forgeOfDestiny0591ThreadsChapter542Fantasia5 = {
   id: "01a0672c-eb59-7019-8f04-81c69f5652cb",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const metaworldHopecore0072Chapter39TheSoundOfSilence = {
   id: "01a06731-aeea-7002-be17-61edfc7f82b8",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0212Chapter1338NightmareNeighbor = {
   id: "01a06730-4e36-7d9b-afd8-d855ca8c5b72",

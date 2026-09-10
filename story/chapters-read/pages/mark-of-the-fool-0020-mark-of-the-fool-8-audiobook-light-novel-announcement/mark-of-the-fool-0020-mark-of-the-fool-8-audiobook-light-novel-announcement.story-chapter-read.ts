@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const markOfTheFool0020MarkOfTheFool8AudiobookLightNovelAnnouncement = {
   id: "01a06731-ae97-700c-a169-4da906dd3752",

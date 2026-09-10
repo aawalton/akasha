@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theGiftOfLoot0015Chapter15ChipmunkFireDungeon = {
   id: "01a06730-4edb-7415-b3a9-f331be04ba04",

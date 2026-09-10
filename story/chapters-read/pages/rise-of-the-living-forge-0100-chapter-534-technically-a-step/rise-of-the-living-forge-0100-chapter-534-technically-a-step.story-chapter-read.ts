@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0100Chapter534TechnicallyAStep = {
   id: "01a06730-4e0e-78a4-9ac2-2c2fefb21e03",

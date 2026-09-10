@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0024Chapter456ClassAct = {
   id: "01a06730-4e08-78c2-ba47-c388796ec8f7",

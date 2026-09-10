@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0218Chapter1344NotHisPeers = {
   id: "01a06730-4e37-726b-a1de-b20a4333de31",

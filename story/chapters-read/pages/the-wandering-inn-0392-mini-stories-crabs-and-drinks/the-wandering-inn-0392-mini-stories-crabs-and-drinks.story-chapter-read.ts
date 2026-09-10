@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theWanderingInn0392MiniStoriesCrabsAndDrinks = {
   id: "01a0659d-4c74-719f-be7a-27657b51dc71",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0128Chapter1256ImportantRuleForProperDungeonBosses = {
   id: "01a06730-4e0c-7fd4-845f-aae61706174f",

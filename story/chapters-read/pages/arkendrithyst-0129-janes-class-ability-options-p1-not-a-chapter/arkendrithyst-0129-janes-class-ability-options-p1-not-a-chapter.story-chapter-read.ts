@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const arkendrithyst0129JanesClassAbilityOptionsP1NotAChapter = {
   id: "01a08393-1f88-77ff-b648-565c7a3a39bf",

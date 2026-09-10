@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0058Chapter636OriginSystemOath = {
   id: "01a06730-4fbb-7293-822b-ace14adf03dc",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0010Chapter484EchoingWillow = {
   id: "01a06730-4fb7-7a82-9645-b4f3e238bfea",

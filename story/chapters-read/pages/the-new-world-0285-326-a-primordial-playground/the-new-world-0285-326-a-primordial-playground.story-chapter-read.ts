@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0285326APrimordialPlayground = {
   id: "01a06730-4ec1-74eb-9199-9db43fd341ac",

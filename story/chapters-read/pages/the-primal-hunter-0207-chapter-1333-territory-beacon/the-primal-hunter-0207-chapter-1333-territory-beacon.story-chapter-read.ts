@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0207Chapter1333TerritoryBeacon = {
   id: "01a06730-4e34-7173-a4e6-cd78254d8c26",

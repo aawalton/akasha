@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const heWhoFightsWithMonsters0030Chapter963MinimumCollateralDamage = {
   id: "01a06731-adc7-7000-8171-a94f0052a899",

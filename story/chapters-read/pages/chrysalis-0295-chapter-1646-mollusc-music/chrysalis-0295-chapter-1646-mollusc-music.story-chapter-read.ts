@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0295Chapter1646MolluscMusic = {
   id: "01a0672c-eb65-700d-8720-751e0b759ab2",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const azarinthHealer0011Book2IsOutAudiobookAsWellNow = {
   id: "01a06731-aff8-7001-a471-f6ed7b0daf2d",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const justAddMana0038Chapter38StatusUpdate = {
   id: "01a06731-adc7-7000-b048-6f841b50d13a",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0108660ExpandingDomain = {
   id: "01a06730-4de8-76be-aa05-ebb67cc2b6dc",

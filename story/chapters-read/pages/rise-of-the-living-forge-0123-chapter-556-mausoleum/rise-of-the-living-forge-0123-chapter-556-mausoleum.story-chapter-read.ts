@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0123Chapter556Mausoleum = {
   id: "01a06730-4e10-798f-96b9-b6b424c788c5",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const heWhoFightsWithMonsters0020Chapter953PerfectHumanoidSpecimens = {
   id: "01a06731-adc1-7001-ad1d-1ff2b1448f55",

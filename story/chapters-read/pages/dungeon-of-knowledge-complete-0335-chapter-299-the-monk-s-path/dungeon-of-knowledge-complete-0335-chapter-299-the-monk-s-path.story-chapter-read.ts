@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0335Chapter299TheMonkSPath = {
   id: "01a0672c-ebe7-7000-948a-e0b61e7bfa0a",

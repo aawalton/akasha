@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheLivingForge0158Chapter590Resonant = {
   id: "01a06730-4e11-71d9-802b-d8b68f5d8d71",

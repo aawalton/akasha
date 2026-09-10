@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0481Chapter444TheWeightOfAnAcorn = {
   id: "01a0672c-ec1f-7000-8510-48d9a47ffb60",

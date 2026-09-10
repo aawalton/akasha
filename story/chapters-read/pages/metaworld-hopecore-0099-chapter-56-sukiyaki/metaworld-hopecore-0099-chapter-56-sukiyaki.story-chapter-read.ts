@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const metaworldHopecore0099Chapter56Sukiyaki = {
   id: "01a06731-aeff-7000-b36c-1443eb2c87ae",

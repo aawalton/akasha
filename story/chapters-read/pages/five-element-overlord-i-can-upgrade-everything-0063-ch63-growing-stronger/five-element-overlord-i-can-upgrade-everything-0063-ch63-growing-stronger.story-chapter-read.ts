@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const fiveElementOverlordICanUpgradeEverything0063Ch63GrowingStronger = {
   id: "01a06731-adb6-7003-8b08-3ea2d8bd20a4",

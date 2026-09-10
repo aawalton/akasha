@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0295Chapter15TheLostCityOfEroquis = {
   id: "01a06731-ad86-7000-85b3-7b66d65b0b8f",

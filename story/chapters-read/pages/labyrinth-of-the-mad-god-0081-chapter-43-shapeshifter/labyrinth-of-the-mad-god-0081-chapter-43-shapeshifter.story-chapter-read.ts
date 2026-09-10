@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0081Chapter43Shapeshifter = {
   id: "01a0672c-eb72-7003-bdd3-9ee1b786c5c6",

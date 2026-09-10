@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const riseOfTheDragonQueenEvolutionprogression00022SurvivalistExtraordinaire = {
   id: "01a06730-4e05-7a9c-af72-78ffd2702b3e",

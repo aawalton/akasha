@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const rockFallsEveryoneDies0002Chapter2GatheringMoss = {
   id: "01a0672f-8c2d-71b9-9811-cc35e9fc85e9",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const heavenPiercingGiraffeOpMcXianxia0024Chapter24InhalerTypePills = {
   id: "01a06731-b11e-7001-a3bf-b8c5825aa0f2",

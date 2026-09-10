@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0589Chapter5485AliandraStatusSheet = {
   id: "01a0672c-ec5a-7000-897d-95b3a75fe94d",

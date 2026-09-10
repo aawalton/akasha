@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0351391NormalcySMight = {
   id: "01a06730-4ed7-7bf1-b8b7-af342acbff0b",

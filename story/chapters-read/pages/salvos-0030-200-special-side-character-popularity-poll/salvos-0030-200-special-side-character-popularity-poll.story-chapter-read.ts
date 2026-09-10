@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const salvos0030200SpecialSideCharacterPopularityPoll = {
   id: "01a06730-4dd9-70f4-9c0d-a82acb77a9de",

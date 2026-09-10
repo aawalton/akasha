@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const labyrinthOfTheMadGod0190Chapter8MagicArmorAndArcaneShield = {
   id: "01a06731-ad73-7001-9037-b54109f854d4",

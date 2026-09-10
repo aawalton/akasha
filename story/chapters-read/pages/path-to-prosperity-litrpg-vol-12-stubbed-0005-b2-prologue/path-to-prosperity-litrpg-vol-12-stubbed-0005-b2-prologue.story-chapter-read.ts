@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const pathToProsperityLitrpgVol12Stubbed0005B2Prologue = {
   id: "01a06730-4dc7-7752-8775-2b0e0f34940d",

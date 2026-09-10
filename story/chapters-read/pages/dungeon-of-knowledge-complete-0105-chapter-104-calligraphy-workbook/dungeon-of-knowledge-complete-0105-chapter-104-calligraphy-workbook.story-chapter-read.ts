@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0105Chapter104CalligraphyWorkbook = {
   id: "01a0672c-eb6e-7001-bd24-8c1c2fb9b266",

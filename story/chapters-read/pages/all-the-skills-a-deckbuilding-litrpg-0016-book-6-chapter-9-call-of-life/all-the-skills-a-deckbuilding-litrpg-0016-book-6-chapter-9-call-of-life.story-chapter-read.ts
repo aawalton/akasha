@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const allTheSkillsADeckbuildingLitrpg0016Book6Chapter9CallOfLife = {
   id: "01a06585-ef17-7717-9959-1eaac4f58eab",

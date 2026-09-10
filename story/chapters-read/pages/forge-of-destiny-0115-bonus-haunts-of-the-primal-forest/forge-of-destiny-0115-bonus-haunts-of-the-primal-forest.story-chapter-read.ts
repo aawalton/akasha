@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const forgeOfDestiny0115BonusHauntsOfThePrimalForest = {
   id: "01a0672c-eb30-7001-8fd4-06a8f5f57006",

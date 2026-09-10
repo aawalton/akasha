@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0105Chapter104DailyStrugglesOfPatient = {
   id: "01a06730-55ea-7b58-a92f-260e4aabf6d8",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const arkendrithyst0445255bYggdrasilSGuideToMargleknot = {
   id: "01a0672c-ecd6-7000-9fee-9ca92a53c901",

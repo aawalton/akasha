@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0555Chapter515Synchronization = {
   id: "01a0672c-ec3f-7003-a83b-10cdce7355f0",

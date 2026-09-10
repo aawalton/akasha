@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const levelingUpTheWorld000687TheIcepickerGuild = {
   id: "01a06731-ae89-7006-b35c-f7601e7c1235",

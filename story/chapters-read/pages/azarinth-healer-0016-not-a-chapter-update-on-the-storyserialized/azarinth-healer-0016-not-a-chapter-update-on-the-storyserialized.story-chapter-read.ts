@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const azarinthHealer0016NotAChapterUpdateOnTheStoryserialized = {
   id: "01a08396-093d-7001-82f0-d2995611f5fa",

@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const millennialMageASliceOfLifeProgressionFantasy0033IronboundMm8AudiobookLaunch = {
   id: "01a06731-ad83-7001-a14d-e9fcfd700cc7",

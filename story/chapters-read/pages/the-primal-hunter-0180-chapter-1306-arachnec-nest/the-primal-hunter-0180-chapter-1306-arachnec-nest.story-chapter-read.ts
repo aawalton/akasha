@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const thePrimalHunter0180Chapter1306ArachnecNest = {
   id: "01a06730-4e26-72e5-aab0-69227e64a4de",

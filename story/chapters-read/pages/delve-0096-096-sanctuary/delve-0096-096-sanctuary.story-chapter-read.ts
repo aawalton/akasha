@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delve0096096Sanctuary = {
   id: "01a06731-ae70-7000-a473-2f91db7b8f41",

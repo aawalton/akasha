@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const rebornAsADemonicTree0017Chapter253InnerWorldEndOfBook3 = {
   id: "01a06730-4dc7-7fbd-8979-bdd45bbf6616",

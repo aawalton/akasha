@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const systemChangeSystemUniverse0092Chapter670TanyaTheNotSoEvil = {
   id: "01a06730-4fbd-7349-924f-bbb665c2d866",

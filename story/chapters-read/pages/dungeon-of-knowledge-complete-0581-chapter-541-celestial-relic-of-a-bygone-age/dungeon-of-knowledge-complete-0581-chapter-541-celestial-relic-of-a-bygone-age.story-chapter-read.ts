@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0581Chapter541CelestialRelicOfABygoneAge = {
   id: "01a0672c-ec51-7001-8cc4-d8a1f45adb69",

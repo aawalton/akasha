@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const forgeOfDestiny0118BonusSnakeAndSpiderPart3 = {
   id: "01a0672c-eb30-7004-bd0c-fd19228486b3",

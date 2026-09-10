@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const endsOfMagic0088Chapter73BestowingMorality = {
   id: "01a06731-ae13-7001-a669-75660b19a9ee",

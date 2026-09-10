@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonDevotee0002Chapter1AllThereWasToTake = {
   id: "01a06731-b0e0-7000-adb1-e905153c3889",

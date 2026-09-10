@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const hellHorizonHealer0023Chapter23WhenAllElseFailsTrain = {
   id: "01a06731-ae7d-7001-b283-a562eb29ea5b",

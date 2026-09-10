@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theGiftOfLoot0079Chapter79BrilliantHealthOfTheAdaptive = {
   id: "01a08791-2567-7936-9ef2-0b1a81f868d3",

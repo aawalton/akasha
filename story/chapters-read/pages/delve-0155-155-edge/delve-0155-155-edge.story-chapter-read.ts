@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const delve0155155Edge = {
   id: "01a06731-af2f-7000-b8e9-f4a670ae5f78",

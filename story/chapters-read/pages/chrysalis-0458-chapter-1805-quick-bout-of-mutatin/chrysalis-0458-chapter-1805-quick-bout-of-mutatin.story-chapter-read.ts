@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const chrysalis0458Chapter1805QuickBoutOfMutatin = {
   id: "01a0672c-eb6b-700b-98a9-76829eb3d2dc",

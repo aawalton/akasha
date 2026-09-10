@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const justAddMana0052Chapter52Epilogue4Akkau = {
   id: "01a06731-add6-7003-a02e-81f495a64ad6",

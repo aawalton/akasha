@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const gamerGirlEvolution00066IDonTBelieveInGhosts = {
   id: "01a06731-b0db-7017-8e80-65dfa45c88bc",

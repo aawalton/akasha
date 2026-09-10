@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0001DigitalSquid = {
   id: "01a06730-4fb6-783c-8618-8c8e6828382e",

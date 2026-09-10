@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const roadToMasteryALitrpgApocalypse0005Chapter5BeatingTheShitOutOfStuff = {
   id: "01a0672f-8c2c-7ae6-b6ff-edfdf844fc91",

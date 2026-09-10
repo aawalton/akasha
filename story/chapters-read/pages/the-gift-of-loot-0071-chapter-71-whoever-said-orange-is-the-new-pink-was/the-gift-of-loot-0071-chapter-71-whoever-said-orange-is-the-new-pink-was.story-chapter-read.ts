@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theGiftOfLoot0071Chapter71WhoeverSaidOrangeIsTheNewPinkWas = {
   id: "01a06730-4efa-7239-bbbf-d4deb669cade",

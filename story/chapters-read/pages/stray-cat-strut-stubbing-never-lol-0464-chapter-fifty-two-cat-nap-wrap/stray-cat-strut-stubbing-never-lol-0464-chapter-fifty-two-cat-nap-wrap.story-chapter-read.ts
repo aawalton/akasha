@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const strayCatStrutStubbingNeverLol0464ChapterFiftyTwoCatNapWrap = {
   id: "01a06730-4e5a-769d-b13c-d0640e770c85",

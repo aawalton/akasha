@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theLegendaryFoolADeckbuildingLitrpgB2Complete000686AFoolishPursuit = {
   id: "01a06730-4e2b-75b0-8342-09c0f9526ff6",

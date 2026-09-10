@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const dungeonOfKnowledgeComplete0559Chapter519GaldroneTetrad = {
   id: "01a0672c-ec41-7000-af7f-e1e9185f8d26",

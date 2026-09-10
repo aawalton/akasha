@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const sylASlimeMonsterEvolutionLitrpg0098Chapter396EndlessSlime = {
   id: "01a06730-4e22-7328-82dc-ffcbc6e8625a",

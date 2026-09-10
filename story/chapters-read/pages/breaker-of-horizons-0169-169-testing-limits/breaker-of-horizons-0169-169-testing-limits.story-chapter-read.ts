@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const breakerOfHorizons0169169TestingLimits = {
   id: "01a06731-adb0-7013-88cc-fa42b5f2cd19",

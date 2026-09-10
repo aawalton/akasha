@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const theNewWorld0269310ParsingPiecesOfAPuzzle = {
   id: "01a06730-4ebd-70b3-a3aa-6ff7a1fc870a",

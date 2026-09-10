@@ -1,4 +1,4 @@
-import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
+import type { StoryChapterRead } from "../../story-chapter-read.page-type.types.ts"
 
 export const roadToMasteryALitrpgApocalypse0006Chapter6TheHighGoblins = {
   id: "01a0672f-8c2c-73e5-aff6-ca7fda88df96",
