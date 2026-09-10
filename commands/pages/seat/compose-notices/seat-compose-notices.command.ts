@@ -21,7 +21,7 @@ export const seatComposeNotices = {
     "the JSON is indented two spaces, unlike the other verbs the editor asks, so a caller diffing it reads a match as a match.",
     "named `--out`, it writes there and says nothing, so a run that wrote prints no line at all.",
     "a relative `--out` path is read against the repository root rather than the calling folder.",
-    "nothing calls this from code: the editor's seat revive and the supervisor both import the compose module and call it.",
+    "the editor's seat revive asks for this across the command server, and the supervisor imports the compose module and calls it.",
     "the editor reads the `editor-revive` key alone, and the supervisor `restart-immediate`, `restart-deferred` and `restart-recovery-clause`.",
   ],
   invariants: [

@@ -7,11 +7,15 @@ import { columnForSeat } from "../seat-showing/seat-showing.module.code.ts"
 import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
 import {
   attachCommandLine,
-  resumePrompt,
+  resumePromptIn,
   type SeatStep,
 } from "../seat-toggles/seat-toggles.module.code.ts"
 
 const SEAT_TIMEOUT_MS = 120_000
+
+const NOTICES_MODULE = "seat-compose-notices"
+
+const NOTICES_EXPORT = "seatComposeNotices"
 
 const RESUME_MODULE = "seat-resume"
 
@@ -57,7 +61,10 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
       await runSeat(STOP_MODULE, STOP_EXPORT, [seat.name])
       return undefined
     case "revive": {
-      const prompt = resumePrompt()
+      const said = await callHarness(NOTICES_MODULE, NOTICES_EXPORT, [], {
+        timeout: SEAT_TIMEOUT_MS,
+      })
+      const prompt = resumePromptIn(said)
       await runSeat(RESUME_MODULE, RESUME_EXPORT, [seat.name, "--prompt", prompt])
       return undefined
     }

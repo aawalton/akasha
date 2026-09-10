@@ -1,4 +1,3 @@
-import { notices } from "@akasha/seat-system/compose-notices"
 import { z } from "zod"
 import { SEAT_ATTACH_FN } from "../../seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
 import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
@@ -29,8 +28,8 @@ export function planReset(state: SeatToggleState): readonly SeatStep[] {
 
 const EditorReviveZ = z.object({ "editor-revive": z.string().min(1) })
 
-export function resumePrompt(): string {
-  return EditorReviveZ.parse(notices())["editor-revive"]
+export function resumePromptIn(said: string): string {
+  return EditorReviveZ.parse(JSON.parse(said))["editor-revive"]
 }
 
 const SEAT_NAME_RE = /^[a-z0-9][a-z0-9-]*$/
