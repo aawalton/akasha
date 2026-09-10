@@ -3,12 +3,7 @@ import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { indexThere, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { slugOf, textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
-
-export const SHARED_PATHS: readonly string[] = [
-  "code-system/ios-apps/scripts",
-  "code-system/ios-components/pages",
-  "code-system/ios-programs/pages",
-]
+import { sharedBuildFiles } from "../shared-build-files/shared-build-files.module.code.ts"
 
 const COMPONENT = "ios-component/"
 
@@ -25,6 +20,7 @@ export type Plan = {
   readonly buildScriptPath: string
   readonly staging: Staging | null
   readonly deliverPaths: readonly string[]
+  readonly deliverFiles: readonly string[]
   readonly exports: readonly string[]
 }
 
@@ -146,14 +142,16 @@ export function planFor(root: string, appSlug: string): Planned {
   if ("why" in built) return { refused: [built.why] }
   const programs = programsOf(root, app, appSlug)
   if ("why" in programs) return { refused: [programs.why] }
+  const shared = sharedBuildFiles(root)
+  if ("why" in shared) return { refused: [shared.why] }
   const shellPath = dirname(appPath)
-  const deliver = [shellPath, ...SHARED_PATHS]
   return {
     appSlug,
     shellPath,
     buildScriptPath: built.at,
     staging: staged.staging,
-    deliverPaths: deliver,
+    deliverPaths: [shellPath],
+    deliverFiles: shared.files,
     exports: exportsOf(app, programs.shipped, programs.hosting),
   }
 }

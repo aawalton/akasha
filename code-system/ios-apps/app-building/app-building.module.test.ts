@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
-import { planFor, SHARED_PATHS } from "./app-building.module.code.ts"
+import { planFor } from "./app-building.module.code.ts"
 
 const root = join(import.meta.dir, "..", "..", "..")
 
@@ -76,11 +76,28 @@ test("the build script is the shell file beside the page the app names", () => {
   )
 })
 
-test("what is delivered carries the app's package and every shared directory", () => {
+test("the only directory delivered whole is the app's own package", () => {
   const held = planned("alanwalton")
   expect(held.shellPath).toBe("code-system/ios-apps/pages/alanwalton")
-  expect(held.deliverPaths).toContain(held.shellPath)
-  for (const one of SHARED_PATHS) expect(held.deliverPaths).toContain(one)
+  expect(held.deliverPaths).toEqual([held.shellPath])
+})
+
+test("the shell, the Swift and the plists the mac reads are each delivered", () => {
+  const said = planned("alanwalton").deliverFiles.join("\n")
+  expect(said).toContain("widget-components/widget-components.shell-script.shell.sh")
+  expect(said).toContain("ring/ring.ios-component.swift.swift")
+  expect(said).toContain("alanwalton-widget.ios-program.info-plist.plist")
+  expect(said).toContain("alanwalton-widget.ios-program.entitlements.entitlements")
+  expect(said).toContain("alanwalton-decode-harness/main.swift")
+})
+
+test("a shell script no app build shares reaches no mac", () => {
+  const said = planned("alanwalton").deliverFiles.join("\n")
+  expect(said).not.toContain("statusline.shell-script.shell.sh")
+})
+
+test("no page's own file is delivered, because the mac reads no TypeScript", () => {
+  for (const one of planned("alanwalton").deliverFiles) expect(one.endsWith(".ts")).toBe(false)
 })
 
 test("the team and the shipped program's name are read off the pages", () => {

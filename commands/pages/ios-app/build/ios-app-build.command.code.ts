@@ -99,6 +99,17 @@ function delivered(root: string, plan: Plan, host: string): readonly string[] {
     ])
     if (sent.code !== 0) return [`${rel} did not reach ${host} — ${sent.out.trim()}`]
   }
+  if (plan.deliverFiles.length === 0) return []
+  const carried = ran([
+    "rsync",
+    "-az",
+    "--relative",
+    ...plan.deliverFiles.map((rel) => `${root}/./${rel}`),
+    `${host}:${RUN_ROOT}/`,
+  ])
+  if (carried.code !== 0) {
+    return [`the files every build shares did not reach ${host} — ${carried.out.trim()}`]
+  }
   return []
 }
 
@@ -107,7 +118,16 @@ function stampOf(root: string, plan: Plan): string | null {
   if (head.code !== 0) return null
   const at = head.out.trim()
   if (at === "") return null
-  const held = ran(["git", "-C", root, "status", "--porcelain", "--", ...plan.deliverPaths])
+  const held = ran([
+    "git",
+    "-C",
+    root,
+    "status",
+    "--porcelain",
+    "--",
+    ...plan.deliverPaths,
+    ...plan.deliverFiles,
+  ])
   return held.out.trim() === "" ? at : `${at}-dirty`
 }
 
@@ -144,7 +164,8 @@ export function iosAppBuild(argv: readonly string[], given: Given): Answer {
   if ("refused" in plan) return { report: [], refusals: [...plan.refused], code: 2 }
   const host = hostIn()
   const report = [
-    `building ${plan.appSlug} on ${host} from ${plan.deliverPaths.length} directories`,
+    `building ${plan.appSlug} on ${host} from ${plan.deliverPaths.length} directories` +
+      ` and ${plan.deliverFiles.length} files of the pages every build compiles`,
   ]
   if (read.www === null && plan.staging !== null) {
     const from = join(given.root, plan.staging.sourcePath)

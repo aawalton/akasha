@@ -16,6 +16,7 @@ export const iosApp = {
     "ios-app/atlas",
     "ios-app/smilingjenny",
     "module/app-building",
+    "module/shared-build-files",
     "file-property/git-ignore",
     "relation-property/build-script",
     "relation-property/programs",
@@ -120,6 +121,10 @@ export const iosApp = {
     {
       invariantKind: "departure",
       statement: "A build names a commit rather than a branch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shell scripts every app build shares are the shell scripts named here.",
     },
   ],
   types: "ts",
