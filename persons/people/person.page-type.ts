@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { EmailAddress } from "akasha/personas/properties/email-address.email-address-property.ts"
-import type { AnsweredBy } from "./properties/answered-by.relation-property.ts"
-import type { Bodyweight } from "./properties/bodyweight.number-property.ts"
-import type { Phone } from "./properties/phone.phone-number-property.ts"
-import type { SupabaseAuthUserId } from "./properties/supabase-auth-user-id.text-property.ts"
-
-export type Person = Domain & {
-  answeredBy: AnsweredBy
-  phone?: Phone
-  email?: EmailAddress
-  supabaseAuthUserId?: SupabaseAuthUserId
-  bodyweight?: Bodyweight
-}
 
 export const person = {
   id: "01a053e0-6cf7-7062-90af-db1def200572",
@@ -49,4 +35,5 @@ export const person = {
       statement: "A person whose body nothing here counts against states no weight.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

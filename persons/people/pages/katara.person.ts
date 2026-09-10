@@ -1,4 +1,4 @@
-import type { Person } from "../person.page-type.ts"
+import type { Person } from "../person.page-type.types.ts"
 
 export const katara = {
   id: "01a053fe-00f1-74b6-a49f-9f577dba1047",

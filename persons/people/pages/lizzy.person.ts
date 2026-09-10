@@ -1,4 +1,4 @@
-import type { Person } from "../person.page-type.ts"
+import type { Person } from "../person.page-type.types.ts"
 
 export const lizzy = {
   id: "01a053fe-00f2-7cf3-92bc-694ea856500c",

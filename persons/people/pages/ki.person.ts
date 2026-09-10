@@ -1,4 +1,4 @@
-import type { Person } from "../person.page-type.ts"
+import type { Person } from "../person.page-type.types.ts"
 
 export const ki = {
   id: "01a053fe-00f2-7278-a312-a9d344de7526",
