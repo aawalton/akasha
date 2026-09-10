@@ -10,7 +10,7 @@ export const modelCheck = {
   parts: [
     "model-check/invariant-earns-its-place",
     "number-property/audit-runs",
-    "number-property/patch-runs",
+    "number-property/change-runs",
     "relation-property/model-tests",
   ],
   extends: ["page-type/domain"],
@@ -21,7 +21,7 @@ export const modelCheck = {
       many: true,
       maxCount: null,
     },
-    { pageProperty: "number-property/patch-runs", required: true, many: false },
+    { pageProperty: "number-property/change-runs", required: true, many: false },
     { pageProperty: "number-property/audit-runs", required: true, many: false },
   ],
   invariants: [
