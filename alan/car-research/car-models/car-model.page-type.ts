@@ -15,7 +15,7 @@ export type CarModel = Car & {
   generation: Generation
   modelYearsAvailable: ModelYearsAvailable
   overview: Overview
-  powertrainOptions: readonly PowertrainOptions[]
+  powertrainOptions: PowertrainOptions
   segment: Segment
   carMake: CarMake
 }
