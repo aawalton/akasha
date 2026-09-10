@@ -1,4 +1,4 @@
-import type { ReleaseCollection } from "../release-collection.page-type.ts"
+import type { ReleaseCollection } from "../release-collection.page-type.types.ts"
 
 export const especiallyForYouEfy = {
   id: "01a06808-805e-7000-b4ce-7ce02b996bd4",
