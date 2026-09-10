@@ -201,6 +201,7 @@ const GROUPING = [
     properties: [
       { pageProperty: "code-file-property/code", fixed: "ts" },
       { pageProperty: "code-file-property/test", fixed: "ts" },
+      { pageProperty: "file-property/logs", uncommitted: true, default: "jsonl" },
     ],
   },
   {
@@ -215,6 +216,7 @@ test("a page type declaring a file property group has a file beside it for every
   expect([...(sidecarsIn(GROUPING).get("code-check")?.besides ?? [])]).toEqual([
     ["audit.code", { held: "ts", uncommitted: false }],
     ["audit.test", { held: "ts", uncommitted: false }],
+    ["audit.logs", { held: "jsonl", uncommitted: true }],
   ])
 })
 
@@ -224,13 +226,20 @@ test("a page of a file property group page type has no file of its own beside it
 
 test("a page carrying a group claims a file for each member while stating none of them", () => {
   const value = { id: A, pageTypeSlug: "code-check", slug: "a" }
-  const filed = filedAs("code-check", { "audit.code": null, "audit.test": null })
+  const keys = { "audit.code": null, "audit.test": null, "audit.logs": null }
 
   expect(
-    claimsOf(value, "/repo/deep/a.code-check.ts", "/repo", filed, sidecarsIn(GROUPING))
+    claimsOf(
+      value,
+      "/repo/deep/a.code-check.ts",
+      "/repo",
+      filedAs("code-check", keys),
+      sidecarsIn(GROUPING)
+    )
   ).toEqual([
     "deep/a.code-check.ts",
     "deep/a.code-check.audit.code.ts",
     "deep/a.code-check.audit.test.ts",
+    "deep/a.code-check.audit.logs.uncommitted.jsonl",
   ])
 })

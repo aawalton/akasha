@@ -8,6 +8,7 @@ import {
   filePropertiesIn,
   filePropertiesOver,
   schemaAt,
+  uncommittedFiledIn,
   uniquePropertiesAt,
 } from "./index-entries.module.code.ts"
 import {
@@ -292,17 +293,22 @@ test("a property two page types equally near declare is taken from the last one 
 const GROUPED = [
   { id: "1", pageTypeSlug: "file-property", slug: "code", propertySlug: "code" },
   { id: "2", pageTypeSlug: "file-property", slug: "test", propertySlug: "test" },
-  { id: "3", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
+  { id: "3", pageTypeSlug: "file-property", slug: "logs", propertySlug: "logs" },
+  { id: "4", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
   {
-    id: "4",
+    id: "5",
     pageTypeSlug: "page-type",
     slug: "module-property-group",
     extends: ["page-type/file-property-group"],
-    properties: [{ pageProperty: "file-property/code" }, { pageProperty: "file-property/test" }],
+    properties: [
+      { pageProperty: "file-property/code" },
+      { pageProperty: "file-property/test" },
+      { pageProperty: "file-property/logs", uncommitted: true },
+    ],
   },
-  { id: "5", pageTypeSlug: "module-property-group", slug: "audit", propertySlug: "audit" },
+  { id: "6", pageTypeSlug: "module-property-group", slug: "audit", propertySlug: "audit" },
   {
-    id: "6",
+    id: "7",
     pageTypeSlug: "page-type",
     slug: "code-check",
     properties: [{ pageProperty: "module-property-group/audit" }],
@@ -313,7 +319,12 @@ test("a page type declaring a file property group holds every member of that gro
   expect([...(filePropertiesIn(GROUPED).get("code-check") ?? [])]).toEqual([
     ["audit.code", null],
     ["audit.test", null],
+    ["audit.logs", null],
   ])
+})
+
+test("a member the group declares uncommitted is kept outside the commit under its group's key", () => {
+  expect([...(uncommittedFiledIn(GROUPED).get("code-check") ?? [])]).toEqual(["audit.logs"])
 })
 
 test("a page type that is a file property group holds nothing of its own in a file", () => {
@@ -324,7 +335,9 @@ test("a group's own key names no file, and each member of it names one", () => {
   expect([...fileKeysIn(GROUPED)]).toEqual([
     ["code", null],
     ["test", null],
+    ["logs", null],
     ["audit.code", null],
     ["audit.test", null],
+    ["audit.logs", null],
   ])
 })

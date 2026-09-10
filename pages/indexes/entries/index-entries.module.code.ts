@@ -235,6 +235,11 @@ type Stated = {
   readonly withheld: boolean
 }
 
+type Member = {
+  readonly fileName: string | null
+  readonly withheld: boolean
+}
+
 function statedIn(
   slug: string,
   types: ReadonlyMap<string, Value>,
@@ -275,16 +280,17 @@ function carriedBy(
   const filed = new Map<string, ReadonlyMap<string, string | null>>()
   const withheld = new Map<string, ReadonlySet<string>>()
   const foldered = new Map<string, ReadonlyMap<string, string>>()
-  const membered = new Map<string, ReadonlyMap<string, string | null>>()
-  const membersOf = (named: string): ReadonlyMap<string, string | null> => {
+  const membered = new Map<string, ReadonlyMap<string, Member>>()
+  const membersOf = (named: string): ReadonlyMap<string, Member> => {
     const done = membered.get(named)
     if (done !== undefined) return done
-    const made = new Map<string, string | null>()
+    const made = new Map<string, Member>()
     membered.set(named, made)
-    for (const { hit } of statedIn(named, types, properties, bare, above)) {
+    for (const said of statedIn(named, types, properties, bare, above)) {
+      const hit = said.hit
       if (hit.fileName === null && !beside(hit.pageTypeSlug)) continue
       if (made.has(hit.propertySlug)) continue
-      made.set(hit.propertySlug, hit.fileName)
+      made.set(hit.propertySlug, { fileName: hit.fileName, withheld: said.withheld })
     }
     return made
   }
@@ -298,11 +304,11 @@ function carriedBy(
         folders.set(hit.propertySlug, hit.folderName)
       }
       if (grouped(hit.pageTypeSlug)) {
-        for (const [member, fileName] of membersOf(hit.pageTypeSlug)) {
+        for (const [member, said] of membersOf(hit.pageTypeSlug)) {
           const key = `${hit.propertySlug}.${member}`
           if (held.has(key)) continue
-          held.set(key, fileName)
-          if (one.withheld) outside.add(key)
+          held.set(key, said.fileName)
+          if (one.withheld || said.withheld) outside.add(key)
         }
         continue
       }

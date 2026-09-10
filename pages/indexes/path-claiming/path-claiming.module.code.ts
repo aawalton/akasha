@@ -150,7 +150,8 @@ function declaredIn(value: Value, members: Members): Sidecars {
     const group = named === null ? null : members(named)
     if (group !== null) {
       for (const [member, beside] of group) {
-        found.set(`${slugOf(slug)}.${member}`, { held: beside.held, uncommitted: withheld })
+        const outside = withheld || beside.uncommitted
+        found.set(`${slugOf(slug)}.${member}`, { held: beside.held, uncommitted: outside })
       }
       continue
     }

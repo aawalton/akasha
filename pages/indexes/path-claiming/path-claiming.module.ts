@@ -60,6 +60,11 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A member the group declares uncommitted is claimed under the name an uncommitted file has.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page of a group's own page type claims no member's file beside that page.",
     },
     {

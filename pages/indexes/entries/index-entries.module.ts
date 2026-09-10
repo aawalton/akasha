@@ -85,6 +85,11 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A member is kept outside the commit where its own declaration says so or the group's does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The keys any page type holds in a file have each member under that same key.",
     },
     {
