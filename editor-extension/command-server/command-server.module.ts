@@ -243,6 +243,14 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
+      statement: "A throw anywhere in serving an ask refuses that ask and leaves the server up.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A rejection nothing catches ends the runtime, so every ask is served inside one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer says the server ran the export, whatever code that export answered.",
     },
     {

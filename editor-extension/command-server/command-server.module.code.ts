@@ -257,7 +257,11 @@ async function pump(): Promise<undefined> {
     for (;;) {
       const ask = WAITING.shift()
       if (ask === undefined) break
-      await serve(ask)
+      try {
+        await serve(ask)
+      } catch (thrown) {
+        refuse(ask, "threw", `${asked(ask)} was not served: ${String(thrown)}`)
+      }
     }
   } finally {
     running = false
