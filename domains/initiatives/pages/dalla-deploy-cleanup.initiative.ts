@@ -11,7 +11,7 @@ export const dallaDeployCleanup = {
     {
       statement: "Every workstation service has deployed through `akasha infrastructure deploy`.",
       workingMemory:
-        "52 workstation service pages, 28 under `services/workstation-services/pages/` and 24 filed beside the code they run, found by the page-type index rather than by folder. One road reaches them: `infrastructure-service install`, which writes systemd user units under `~/.local/state` and links them where systemd reads them. 37 are scheduled and take a timer beside the unit, and 15 run long. That command's page carries the gap that a service akasha carries is reached from the cluster.\n",
+        "52 workstation service pages, found by the page-type index rather than by folder. `akasha infrastructure deploy` reaches one of them as of eab3fea, writing its systemd units through `module/service-putting-up`, and a dry run over pages-service on 2026-09-10 planned its unit and its enable. `akasha infrastructure service install` still holds the same road, and `--all` holds a second act beside it: sweeping the units of a service the pages no longer account for.\n",
     },
     {
       statement: "Every cluster service has deployed through `akasha infrastructure deploy`.",
