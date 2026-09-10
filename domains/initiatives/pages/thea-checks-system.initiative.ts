@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "Was the last of the steps taken over each check, split off because a check goes on at patch before the tree reaches zero and so is on while still refusing. Nothing measures greenness per check yet. file-has-its-page is the worked case: 629 files claimed by no page, none refused today because patch judges only what a change has. instant-property-slug-closes-with-at is on and green. Touching a file no page claims is refused, so a rename cannot reach one: atlas-web has 21 routes and no pages.",
+        "Greenness per check is measured now, read off the log each audit run writes: 41 of 56 are green over the whole tree and 15 refuse, 3824 refusals in all. Six hold 96% of them: invariant-statement-is-plain 1069, no-rule-in-two-files 1036, identifier-matches-its-place 473, no-unparsed-boundary-read 462, no-code-comments 327, no-method-signature 298. The other nine are a tail from 67 down to 1, so take the tail first.",
     },
     {
       statement: "Every route file is claimed by a page.",
