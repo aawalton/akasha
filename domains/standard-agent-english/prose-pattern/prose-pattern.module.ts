@@ -29,7 +29,7 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A word taking a particle is left alone, because the particle sets the sense.",
+      statement: "A word taking a particle is left alone.",
     },
     {
       invariantKind: "departure",
@@ -45,12 +45,11 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A `to` phrase names no place, so it binds the word rather than placing a thing.",
+      statement: "A `to` phrase binds the word rather than placing a thing.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A word whose only subject is the relativizer has no object anywhere, so it is left alone.",
+      statement: "A word whose only subject is the relativizer is left alone.",
     },
     {
       invariantKind: "departure",
@@ -59,21 +58,19 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A bare adverb after a word is a particle, whatever the parser calls it.",
+      statement: "A bare adverb after a word is a particle whatever the parser calls it.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A word a person or an unknown is the holder of is another sense, so it is left alone.",
+      statement: "A word a person or an unknown is the holder of is left alone.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A word a preposition stands before names an act, so it describes no thing before it.",
+      statement: "A word a preposition comes before names an act.",
     },
     {
       invariantKind: "departure",
-      statement: "A word whose object before it is a pronoun names no thing, so it is left alone.",
+      statement: "A word whose object before it is a pronoun is left alone.",
     },
     {
       invariantKind: "departure",
@@ -87,7 +84,7 @@ export const prosePattern = {
     {
       invariantKind: "departure",
       statement:
-        "A particle right after a word is that word's particle, whatever the parser calls it.",
+        "A particle right after a word is that word's particle whatever the parser calls it.",
     },
     {
       invariantKind: "departure",
@@ -120,8 +117,7 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A preposition the parser hung on a word as an adverb strands that word, so it is left alone.",
+      statement: "A word a preposition the parser hung on as an adverb strands is left alone.",
     },
     {
       invariantKind: "departure",
@@ -129,8 +125,7 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A word whose object a preposition hangs off sends that object on, so it is left alone.",
+      statement: "A word whose object a preposition hangs off is left alone.",
     },
     {
       invariantKind: "departure",
@@ -150,7 +145,7 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A participle read as a clause of its own names an act, so it describes no thing.",
+      statement: "A participle read as a clause of its own names an act.",
     },
     {
       invariantKind: "departure",
@@ -166,18 +161,15 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A word whose object is a question answers rather than holds, so it is left alone.",
+      statement: "A word whose object is a question is left alone.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A word the parser gave two objects a name could fill is misread, so it is left alone.",
+      statement: "A word the parser gave two objects a name could fill is left alone.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A word whose object is read as neither a thing nor a pronoun is misread, so it is left alone.",
+      statement: "A word whose object is read as neither a thing nor a pronoun is left alone.",
     },
     {
       invariantKind: "departure",
@@ -185,20 +177,19 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A word spelled with a trailing `ing` is a participle, whatever it hangs on.",
+      statement: "A word spelled with a trailing `ing` is a participle whatever it hangs on.",
     },
     {
       invariantKind: "departure",
-      statement: "A participle under a form of `be` names an act, so it describes no thing.",
+      statement: "A participle under a form of `be` names an act.",
     },
     {
       invariantKind: "departure",
-      statement: "A participle with no word before it names an act, so it describes no thing.",
+      statement: "A participle with no word before it names an act.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A participle read as a clause's own subject names an act, so it describes no thing.",
+      statement: "A participle read as a clause's own subject names an act.",
     },
   ],
 } as const satisfies Module
