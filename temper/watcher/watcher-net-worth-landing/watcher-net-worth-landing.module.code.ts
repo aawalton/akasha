@@ -20,7 +20,7 @@ import {
   writingFor,
 } from "../watcher-page-landing/watcher-page-landing.module.code.ts"
 
-const FOLDER = "temper/holdings-sets/net-worth-hours/pages"
+const FOLDER = "temper/holdings-sets/temper-net-worth-hours/pages"
 
 const ROWS_PROPERTY = "snapshots"
 

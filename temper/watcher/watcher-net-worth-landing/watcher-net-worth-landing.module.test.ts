@@ -19,9 +19,9 @@ const FIRST_AT = "2026-04-29T14:41:45.275Z"
 
 const HOUR_SLUG = "hour-2026-04-29-14"
 
-const PAGE_PATH = `temper/holdings-sets/net-worth-hours/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.ts`
+const PAGE_PATH = `temper/holdings-sets/temper-net-worth-hours/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.ts`
 
-const LINES_PATH = `temper/holdings-sets/net-worth-hours/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.snapshots.jsonl`
+const LINES_PATH = `temper/holdings-sets/temper-net-worth-hours/pages/${HOUR_SLUG}/${HOUR_SLUG}.temper-net-worth-hour.snapshots.jsonl`
 
 const FIRST = {
   id: "01a06009-45d7-758a-9196-9597c258a996",
