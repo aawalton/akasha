@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const dwemer = {
   id: "01a06343-f9fa-7079-b291-22dd8d434b26",

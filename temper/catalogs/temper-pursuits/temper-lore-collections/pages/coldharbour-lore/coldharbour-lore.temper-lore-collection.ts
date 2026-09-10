@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const coldharbourLore = {
   id: "01a06343-f9fa-713a-bbf4-380237d13ef6",

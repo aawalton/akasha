@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const stormhavenLore = {
   id: "01a06343-f9fa-700a-9a28-10e210aff1a2",

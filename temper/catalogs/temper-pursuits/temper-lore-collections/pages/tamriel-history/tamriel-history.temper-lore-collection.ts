@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const tamrielHistory = {
   id: "01a06343-f9fa-70cc-8f2e-1824bfa2e28c",

@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const auridonLore = {
   id: "01a06343-f9fa-710e-b937-b3df2f796107",

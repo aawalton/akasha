@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const magicAndMagicka = {
   id: "01a06343-f9fa-70a0-9229-2208e9020b0a",

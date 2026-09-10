@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const theTrialOfEyevea = {
   id: "01a06343-f9fa-7041-8479-380cad790bf0",

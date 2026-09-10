@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const reapersMarchLore = {
   id: "01a06343-f9fa-712f-a2e0-8153563abeb9",

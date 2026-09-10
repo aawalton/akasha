@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const deshaanLore = {
   id: "01a06343-f9fa-70f8-a7b9-4b9231dce65a",

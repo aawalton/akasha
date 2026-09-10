@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const legendsOfNirn = {
   id: "01a06343-f9fa-708a-b0d2-238c09c23aa0",

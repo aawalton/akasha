@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const alikrDesertLore = {
   id: "01a06343-f9fa-702b-8f74-57d18cde0d2a",

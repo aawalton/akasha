@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const glenumbraLore = {
   id: "01a06343-f9f9-7000-9866-8c0c978d0cda",

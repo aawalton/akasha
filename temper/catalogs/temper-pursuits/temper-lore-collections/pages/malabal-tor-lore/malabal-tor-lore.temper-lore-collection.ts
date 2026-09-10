@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const malabalTorLore = {
   id: "01a06343-f9fa-70e2-ac1c-ccd90510810e",

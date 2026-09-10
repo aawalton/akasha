@@ -1,4 +1,4 @@
-import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.ts"
+import type { TemperLoreCollection } from "../../temper-lore-collection.page-type.types.ts"
 
 export const mythsOfTheMundus = {
   id: "01a06343-f9fa-70ab-97a3-9da5448391df",
