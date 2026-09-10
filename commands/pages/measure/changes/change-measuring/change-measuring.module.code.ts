@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   byCpu,
   type Chosen,
@@ -22,10 +23,13 @@ export const APPLY = "apply"
 
 const ENTRIES = "entries"
 
-export const PAGES: readonly string[] = [
-  "commands/pages/change-draft/change-draft.command.ts",
-  "commands/pages/change-apply/change-apply.command.ts",
-]
+const COMMAND = "command"
+
+export const SLUGS: readonly string[] = ["change-draft", "change-apply"]
+
+export function pagesIn(root: string): readonly string[] {
+  return SLUGS.flatMap((slug) => listedAt(root, COMMAND, slug).map((one) => one.path))
+}
 
 export interface Reading {
   readonly runs: readonly Run[]
@@ -35,7 +39,7 @@ export interface Reading {
 export function heldIn(root: string): Reading {
   const runs: Run[] = []
   const unread: string[] = []
-  for (const page of PAGES) {
+  for (const page of pagesIn(root)) {
     for (const at of partsIn(root, page, ENTRIES)) {
       try {
         for (const one of runsIn(readFileSync(join(root, at), "utf8"))) runs.push(one)

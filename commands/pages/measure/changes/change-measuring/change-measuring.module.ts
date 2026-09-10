@@ -20,6 +20,10 @@ export const changeMeasuring = {
     },
     {
       invariantKind: "departure",
+      statement: "Where each of those pages sits is read from the index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every numbered file of a page's rows is read rather than the first alone.",
     },
     {

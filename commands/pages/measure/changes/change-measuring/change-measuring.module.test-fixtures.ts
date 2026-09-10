@@ -1,3 +1,7 @@
+import {
+  listedFiled,
+  nothingFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import {
   agoOf,
@@ -10,9 +14,34 @@ export const TWO = "01a08071-39a4-7000-9c6b-6cee59d30c20"
 
 export const THREE = "01a08071-39a4-7000-9c6b-6cee59d30c30"
 
-export const CHANGE_AT = "commands/pages/change-draft/change-draft.command"
+const COMMAND = "command"
 
-export const APPLY_AT = "commands/pages/change-apply/change-apply.command"
+const CHANGE_SLUG = "change-draft"
+
+const APPLY_SLUG = "change-apply"
+
+export const CHANGE_AT = `commands/pages/change/draft/${CHANGE_SLUG}.${COMMAND}`
+
+export const APPLY_AT = `commands/pages/change/apply/${APPLY_SLUG}.${COMMAND}`
+
+const SLUGGED: Readonly<Record<string, string>> = {
+  [CHANGE_AT]: CHANGE_SLUG,
+  [APPLY_AT]: APPLY_SLUG,
+}
+
+const IDS: Readonly<Record<string, string>> = {
+  [CHANGE_SLUG]: "01a08071-39a4-7000-9c6b-6cee59d30d10",
+  [APPLY_SLUG]: "01a08071-39a4-7000-9c6b-6cee59d30d20",
+}
+
+export function commandFiled(root: string, at: string): string {
+  nothingFiled(root)
+  const slug = SLUGGED[at]
+  if (slug !== undefined) {
+    listedFiled(root, COMMAND, slug, [{ path: `${at}.ts`, id: IDS[slug] }])
+  }
+  return root
+}
 
 export function lineOf(one: Record<string, unknown>): string {
   return JSON.stringify({
@@ -45,6 +74,7 @@ export function rowsInto(
   rows: readonly Record<string, unknown>[],
   part = 1
 ): string {
+  commandFiled(root, at)
   put(root, partAt(at, part), `${rows.map(lineOf).join("\n")}\n`)
   return root
 }

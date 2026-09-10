@@ -14,10 +14,11 @@ import {
   spacedOnce,
 } from "../../../../../checks/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
-import { costsIn, heldIn } from "./change-measuring.module.code.ts"
+import { costsIn, heldIn, pagesIn } from "./change-measuring.module.code.ts"
 import {
   APPLY_AT,
   CHANGE_AT,
+  commandFiled,
   ONE,
   partAt,
   rowsInto,
@@ -73,8 +74,14 @@ test("a numbered file that is not there is no file left unread", () => {
   expect(heldIn(root).unread).toEqual([])
 })
 
+test("the pages read are the ones the index names for the change and the apply", () => {
+  const root = rowsInto(rootFor(), CHANGE_AT, [{}])
+
+  expect(pagesIn(root)).toEqual([`${CHANGE_AT}.ts`])
+})
+
 test("a file that would not read is named rather than counting as no runs", () => {
-  const root = rootFor()
+  const root = commandFiled(rootFor(), CHANGE_AT)
   put(root, `${partAt(CHANGE_AT, 1)}/inner`, "")
 
   const reading = heldIn(root)
@@ -84,7 +91,7 @@ test("a file that would not read is named rather than counting as no runs", () =
 })
 
 test("a row a write left half appended leaves the file it is in unread", () => {
-  const root = rootFor()
+  const root = commandFiled(rootFor(), CHANGE_AT)
   put(root, partAt(CHANGE_AT, 1), '{"runId":"one","ranAt":"2026-09-05T11')
 
   expect(heldIn(root).unread).toEqual([partAt(CHANGE_AT, 1)])
