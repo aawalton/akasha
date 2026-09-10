@@ -13,6 +13,10 @@ export const widgetTapAnswering = {
       statement: "The test proving this code sits beside the route serving this code.",
     },
     {
+      invariantKind: "constraint",
+      statement: "The `Request` happy-dom builds for a test drops the `Origin` header.",
+    },
+    {
       invariantKind: "departure",
       statement: "A tap is admitted on the account the caller is signed in as.",
     },
