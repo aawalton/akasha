@@ -1,6 +1,5 @@
 "use client"
 
-import { createSaveQueue, type SaveQueue } from "@akasha/pages-ui/block-editor/save-queue"
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import type { RichDocument } from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
 import {
@@ -9,6 +8,10 @@ import {
   normalizeRichDocument,
 } from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import {
+  createSaveQueue,
+  type SaveQueue,
+} from "akasha/pages/ui/block-editor/save-queue/save-queue.module.code.ts"
 import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 import { useCallback, useRef } from "react"

@@ -1,16 +1,16 @@
 "use client"
 
-import { useOptimisticDeletePages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-pages"
-import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
-import { useOptimisticUpsertPages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-pages"
-import { usePages } from "@akasha/pages-ui/supabase/use-pages"
-import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { listenerSet } from "akasha/design/primitives/listener-set/listener-set.module.code.ts"
 import { useSingleFlight } from "akasha/design/primitives/use-single-flight/use-single-flight.module.code.ts"
 import { deletePages } from "akasha/pages/access/deleting/deleting.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import { upsertPage, upsertPages } from "akasha/pages/access/upsert/upsert.module.code.ts"
 import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { useOptimisticDeletePages } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts"
+import { useOptimisticUpsertPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
+import { useOptimisticUpsertPages } from "akasha/pages/ui/supabase/mutations/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"
+import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
+import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,

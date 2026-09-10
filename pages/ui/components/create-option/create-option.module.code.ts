@@ -1,10 +1,10 @@
-import type { CreateSelectOptionEffect } from "@akasha/pages-ui/option-create-context"
 import type { PatchPropertyDefinitionArgs } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
 import type {
   PageDataJSON,
   PropertyDefinition,
 } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { CreateSelectOptionEffect } from "akasha/pages/ui/option-create-context/option-create-context.module.code.tsx"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"
 
 type OptionRow = { id: string; label: string; variant?: string; [k: string]: Json | undefined }

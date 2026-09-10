@@ -1,6 +1,5 @@
 "use client"
 
-import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
@@ -15,6 +14,7 @@ import {
   type NumberConfig,
   numberConfigSchema,
 } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 
 function getConfig(definition: PropertyDefinition): NumberConfig {
   return parseConfig(numberConfigSchema, definition.config, { format: "number" })

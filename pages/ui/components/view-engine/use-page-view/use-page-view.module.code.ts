@@ -1,7 +1,5 @@
 "use client"
 
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
-import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import type {
@@ -27,6 +25,8 @@ import {
   generateSortOptions,
   type SortOption,
 } from "akasha/pages/core/view/generate-sort-options/generate-sort-options.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import { usePageResolverOptional } from "akasha/pages/ui/contexts/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useCallback, useMemo, useRef } from "react"
 
 export interface UsePageViewProps {

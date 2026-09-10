@@ -1,10 +1,10 @@
 "use client"
 
-import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import { pageRowToPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import type { ReactElement } from "react"
 import { PageCard } from "../page-card/page-card.module.code.tsx"

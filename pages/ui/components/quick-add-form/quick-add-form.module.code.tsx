@@ -1,7 +1,5 @@
 "use client"
 
-import { SelectPropertyBadge } from "@akasha/pages-ui/components/select-property-badge"
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { Badge, BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { BadgeLayoutProvider } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
@@ -12,6 +10,8 @@ import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.m
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
+import { SelectPropertyBadge } from "akasha/pages/ui/components/select-property-badge/select-property-badge.module.code.tsx"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo, useRef, useState } from "react"
 import { computeQuickAddPayload } from "../quick-add/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"
 import { parseInlineTokens } from "../quick-add/parse-inline-tokens/parse-inline-tokens.module.code.ts"

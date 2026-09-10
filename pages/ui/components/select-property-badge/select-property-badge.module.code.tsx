@@ -1,6 +1,5 @@
 "use client"
 
-import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import {
@@ -17,6 +16,7 @@ import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/c
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { selectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
 import type { SelectOption } from "akasha/pages/core/schema/select-option-create/select-option-create.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 
 function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
   return parseConfig(selectConfigSchema, definition.config, { options: [] }).options

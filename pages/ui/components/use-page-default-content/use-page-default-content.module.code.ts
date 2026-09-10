@@ -1,23 +1,5 @@
 "use client"
 
-import { createOptionOnDefinition } from "@akasha/pages-ui/components/create-option"
-import {
-  toAggregateInputs,
-  toPageDataJSON,
-  toPageDataRecord,
-} from "@akasha/pages-ui/components/page-data-json"
-import {
-  DETAIL_EXCLUDED_IDS,
-  extractPageTypeId,
-  PAGE_TYPE_SLUG,
-} from "@akasha/pages-ui/components/page-detail-content-helpers"
-import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { useHostCreateSelectOption } from "@akasha/pages-ui/option-create-context"
-import { useAllPages, useRelatedPages } from "@akasha/pages-ui/supabase/hooks"
-import { useOptimisticPatchPropertyDefinition } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-property-definition"
-import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
-import { usePage } from "@akasha/pages-ui/supabase/use-page"
-import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { patchPropertyDefinitionById } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
 import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
@@ -25,6 +7,24 @@ import { computeAggregatesForPage } from "akasha/pages/core/property-types/aggre
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
+import { createOptionOnDefinition } from "akasha/pages/ui/components/create-option/create-option.module.code.ts"
+import {
+  toAggregateInputs,
+  toPageDataJSON,
+  toPageDataRecord,
+} from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import {
+  DETAIL_EXCLUDED_IDS,
+  extractPageTypeId,
+  PAGE_TYPE_SLUG,
+} from "akasha/pages/ui/components/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
+import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { useHostCreateSelectOption } from "akasha/pages/ui/option-create-context/option-create-context.module.code.tsx"
+import { useAllPages, useRelatedPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useOptimisticPatchPropertyDefinition } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-property-definition/use-optimistic-patch-property-definition.module.code.ts"
+import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
+import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
+import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import {
   type PageTypeSlug,

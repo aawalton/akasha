@@ -1,7 +1,5 @@
 "use client"
 
-import { selectVisibleCardProperties } from "@akasha/pages-ui/components/card-property-columns"
-import { isEmptyValue, PropertyBadge } from "@akasha/pages-ui/components/property-badge"
 import { BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type {
   PageDataJSON,
@@ -10,6 +8,11 @@ import type {
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { propertyTypeRendersWhenEmpty } from "akasha/pages/core/property-types/registry/registry.module.code.ts"
 import { resolvePropertyVisibilityMode } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { selectVisibleCardProperties } from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
+import {
+  isEmptyValue,
+  PropertyBadge,
+} from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { useMemo } from "react"
 
 interface PageCardPropertiesProps {

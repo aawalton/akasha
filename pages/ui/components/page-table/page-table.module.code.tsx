@@ -1,15 +1,5 @@
 "use client"
 
-import { orderTableColumns } from "@akasha/pages-ui/components/card-property-columns"
-import { PageActionsMenu } from "@akasha/pages-ui/components/page-actions-menu"
-import { PageTableColGroup } from "@akasha/pages-ui/components/page-table-colgroup"
-import {
-  ACTIONS_COLUMN_PX,
-  type PageTableColumn,
-} from "@akasha/pages-ui/components/page-table-shared"
-import { tableMinWidthPx } from "@akasha/pages-ui/components/page-table-widths"
-import { PropertyBadge } from "@akasha/pages-ui/components/property-badge"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
 import { useLoadMore } from "akasha/design/layout/use-load-more/use-load-more.module.code.ts"
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
@@ -31,6 +21,16 @@ import {
   readsAsDone,
 } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { orderTableColumns } from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
+import { PageActionsMenu } from "akasha/pages/ui/components/page-actions-menu/page-actions-menu.module.code.tsx"
+import { PageTableColGroup } from "akasha/pages/ui/components/page-table-colgroup/page-table-colgroup.module.code.tsx"
+import {
+  ACTIONS_COLUMN_PX,
+  type PageTableColumn,
+} from "akasha/pages/ui/components/page-table-shared/page-table-shared.module.code.ts"
+import { tableMinWidthPx } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
+import { PropertyBadge } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { CheckCircle2, Circle } from "lucide-react"
 import type { ReactNode } from "react"
 import { ReorderableColumnTable } from "../page-table-header/page-table-header.module.code.tsx"

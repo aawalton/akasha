@@ -1,7 +1,7 @@
 "use client"
 
-import { PagesFilteredContent } from "@akasha/pages-ui/components/pages-by-relation-content"
-import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
+import { PagesFilteredContent } from "akasha/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
+import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 import { useParams, useSearchParams } from "react-router"

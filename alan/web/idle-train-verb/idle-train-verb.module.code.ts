@@ -1,9 +1,9 @@
+import { formatShortNumber as fmt } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import {
   type ActionPresentation,
   type ActionVerbContext,
   registerActionVerb,
-} from "@akasha/pages-ui/action-verbs/action-verb-registry"
-import { formatShortNumber as fmt } from "akasha/pages/core/property-types/number/number.module.code.ts"
+} from "akasha/pages/ui/action-verbs/action-verb-registry/action-verb-registry.module.code.ts"
 import { z } from "zod"
 import {
   IDLE_LOCK_STATE_UNLOCKED,

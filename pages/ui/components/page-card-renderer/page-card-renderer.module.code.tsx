@@ -1,14 +1,5 @@
 "use client"
 
-import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
-import {
-  buildRelationBackLinkHref,
-  buildRowHref,
-  readRelationConfig,
-} from "@akasha/pages-ui/components/view-tab-content-href"
-import { getCoverClickHandler } from "@akasha/pages-ui/cover-click/cover-click-registry"
-import { getCoverMask } from "@akasha/pages-ui/cover-click/cover-mask-registry"
 import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
 import type {
   PageDataJSON,
@@ -19,6 +10,15 @@ import {
   type GalleryCardSize,
   resolveGalleryCoverUrl,
 } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import { pageRowToPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import {
+  buildRelationBackLinkHref,
+  buildRowHref,
+  readRelationConfig,
+} from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
+import { getCoverClickHandler } from "akasha/pages/ui/cover-click/cover-click-registry/cover-click-registry.module.code.ts"
+import { getCoverMask } from "akasha/pages/ui/cover-click/cover-mask-registry/cover-mask-registry.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { PageCard } from "../page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "../page-card-notes/page-card-notes.module.code.tsx"

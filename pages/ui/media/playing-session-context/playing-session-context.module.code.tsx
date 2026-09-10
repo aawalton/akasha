@@ -1,29 +1,29 @@
 import {
   fractionToTime,
   POSITION_RESUME_MIN_FRACTION,
-} from "@akasha/pages-ui/components/position-fraction"
-import { STORED_READ_ALOUD_VARIANT } from "@akasha/pages-ui/media/media-src"
-import type { NativeTtsAdapter } from "@akasha/pages-ui/media/native-tts-adapter"
+} from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
+import { STORED_READ_ALOUD_VARIANT } from "akasha/pages/ui/media/media-src/media-src.module.code.ts"
+import type { NativeTtsAdapter } from "akasha/pages/ui/media/native-tts-adapter/native-tts-adapter.module.code.ts"
 import {
   type ActiveSessionInit,
   IDLE_PLAYING_SESSION,
   type PlayingSessionState,
   playingSessionReducer,
-} from "@akasha/pages-ui/media/playing-session"
+} from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
 import {
   persistedToSessionInit,
   readPersistedSession,
-} from "@akasha/pages-ui/media/playing-session-storage"
-import { useAudioAutoAdvance } from "@akasha/pages-ui/media/use-audio-auto-advance"
-import { useAudioSeekAndPlay } from "@akasha/pages-ui/media/use-audio-seek-and-play"
-import { useAudioTimeSubscription } from "@akasha/pages-ui/media/use-audio-time-subscription"
-import { useAudioTransport } from "@akasha/pages-ui/media/use-audio-transport"
-import { useCrossModePositionWrite } from "@akasha/pages-ui/media/use-cross-mode-position-write"
-import { usePersistAudioSession } from "@akasha/pages-ui/media/use-persist-audio-session"
-import { usePersistentAudioContainer } from "@akasha/pages-ui/media/use-persistent-audio-container"
-import type { MediaSrcResolver } from "@akasha/pages-ui/media/use-shell-media-src"
-import type { EnsureRenditionFn } from "@akasha/pages-ui/media/use-webkit-read-aloud-ensure"
-import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
+} from "akasha/pages/ui/media/playing-session-storage/playing-session-storage.module.code.ts"
+import { useAudioAutoAdvance } from "akasha/pages/ui/media/use-audio-auto-advance/use-audio-auto-advance.module.code.ts"
+import { useAudioSeekAndPlay } from "akasha/pages/ui/media/use-audio-seek-and-play/use-audio-seek-and-play.module.code.ts"
+import { useAudioTimeSubscription } from "akasha/pages/ui/media/use-audio-time-subscription/use-audio-time-subscription.module.code.ts"
+import { useAudioTransport } from "akasha/pages/ui/media/use-audio-transport/use-audio-transport.module.code.ts"
+import { useCrossModePositionWrite } from "akasha/pages/ui/media/use-cross-mode-position-write/use-cross-mode-position-write.module.code.ts"
+import { usePersistAudioSession } from "akasha/pages/ui/media/use-persist-audio-session/use-persist-audio-session.module.code.ts"
+import { usePersistentAudioContainer } from "akasha/pages/ui/media/use-persistent-audio-container/use-persistent-audio-container.module.code.ts"
+import type { MediaSrcResolver } from "akasha/pages/ui/media/use-shell-media-src/use-shell-media-src.module.code.ts"
+import type { EnsureRenditionFn } from "akasha/pages/ui/media/use-webkit-read-aloud-ensure/use-webkit-read-aloud-ensure.module.code.ts"
+import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import {
   createContext,
   useCallback,

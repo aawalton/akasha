@@ -1,20 +1,20 @@
 "use client"
 
-import type {
-  PageSystemTabContentProps,
-  ServerGroupedSection,
-} from "@akasha/pages-ui/components/page-system-tab-content-props"
-import {
-  PageViewEmpty,
-  TimelineLayoutBody,
-} from "@akasha/pages-ui/components/page-system-view-helpers"
-import type { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { createGenericLayout } from "akasha/design/layout/column-layout/column-layout.module.code.ts"
 import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
 import { ResponsiveColumnsSkeleton } from "akasha/design/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import { CollapsibleGroupSection } from "akasha/design/patterns/collapsible-group-section/collapsible-group-section.module.code.tsx"
 import type { useCollapsedGroups } from "akasha/design/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
+import type {
+  PageSystemTabContentProps,
+  ServerGroupedSection,
+} from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import {
+  PageViewEmpty,
+  TimelineLayoutBody,
+} from "akasha/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
+import type { withColumnWidths } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 import { PageBoard } from "../page-board/page-board.module.code.tsx"
 import { PageCalendar } from "../page-calendar/page-calendar.module.code.tsx"

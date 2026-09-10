@@ -1,8 +1,8 @@
 "use client"
 
-import type { InteractionToken } from "@akasha/pages-ui/perf/page-card-perf"
-import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { type PatchPageArgs, patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
+import type { InteractionToken } from "akasha/pages/ui/perf/page-card-perf/page-card-perf.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import { useCallback, useMemo } from "react"
 

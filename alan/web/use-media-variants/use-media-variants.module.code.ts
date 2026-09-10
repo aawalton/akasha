@@ -1,6 +1,6 @@
 "use client"
 
-import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
+import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
 import { useEffect, useState } from "react"
 import { z } from "zod"
 import { API_ORIGIN } from "../api-origin/api-origin.module.code.ts"

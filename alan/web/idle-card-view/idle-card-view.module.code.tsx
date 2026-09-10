@@ -1,9 +1,5 @@
 "use client"
 
-import { PageCardRenderer } from "@akasha/pages-ui/components/page-card-renderer"
-import { PageSystemTabContent } from "@akasha/pages-ui/components/page-system-view"
-import { useReorderViewWiring } from "@akasha/pages-ui/components/use-reorder-view-wiring"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import {
   cumulativeTrainCost,
   maxAffordableTrainCount,
@@ -11,6 +7,10 @@ import {
 import { displayedResource } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
 import { resolveGalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import { PageCardRenderer } from "akasha/pages/ui/components/page-card-renderer/page-card-renderer.module.code.tsx"
+import { PageSystemTabContent } from "akasha/pages/ui/components/page-system-view/page-system-view.module.code.tsx"
+import { useReorderViewWiring } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react"
 import { bucketPageRowsByGroup } from "../idle-card-grouping/idle-card-grouping.module.code.ts"

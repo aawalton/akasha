@@ -1,7 +1,5 @@
 "use client"
 
-import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui/components/drop-zones"
-import { PagesUILink, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,
@@ -23,6 +21,14 @@ import {
   PopoverTrigger,
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import {
+  type DropZoneInfo,
+  findDropZone,
+} from "akasha/pages/ui/components/drop-zones/drop-zones.module.code.ts"
+import {
+  PagesUILink,
+  usePagesUIRouter,
+} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 function SortableNavItem({

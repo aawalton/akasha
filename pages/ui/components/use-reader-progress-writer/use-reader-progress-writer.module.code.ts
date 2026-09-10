@@ -1,10 +1,10 @@
 "use client"
 
-import { clampFraction } from "@akasha/pages-ui/components/position-fraction"
-import { emitPositionWrite } from "@akasha/pages-ui/components/position-write-event"
-import { computeReadProgress } from "@akasha/pages-ui/components/read-progress"
-import type { ReaderPositionAnchor } from "@akasha/pages-ui/components/reader-prose-body"
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
+import { clampFraction } from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
+import { emitPositionWrite } from "akasha/pages/ui/components/position-write-event/position-write-event.module.code.ts"
+import { computeReadProgress } from "akasha/pages/ui/components/read-progress/read-progress.module.code.ts"
+import type { ReaderPositionAnchor } from "akasha/pages/ui/components/reader-prose-body/reader-prose-body.module.code.tsx"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { type RefObject, useEffect, useRef } from "react"
 
 export interface ReaderProgressWriterArgs {

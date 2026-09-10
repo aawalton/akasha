@@ -1,12 +1,12 @@
 "use client"
 
-import { BlockEditor } from "@akasha/pages-ui/block-editor/block-editor"
-import { MarkdownPropertyBadge } from "@akasha/pages-ui/components/markdown-property-badge"
-import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { BlockEditor } from "akasha/pages/ui/block-editor/block-editor/block-editor.module.code.tsx"
+import { MarkdownPropertyBadge } from "akasha/pages/ui/components/markdown-property-badge/markdown-property-badge.module.code.tsx"
+import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 
 interface PageCardNotesProps {

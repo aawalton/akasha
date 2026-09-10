@@ -1,15 +1,5 @@
 "use client"
 
-import { BlockEditor } from "@akasha/pages-ui/block-editor/block-editor"
-import { MultiRelationPropertyBadge } from "@akasha/pages-ui/components/multi-relation-property-badge"
-import { PageDetailHeaderMenu } from "@akasha/pages-ui/components/page-detail-header-menu"
-import {
-  hasValue,
-  JsonSectionRenderer,
-  ToggleSection,
-} from "@akasha/pages-ui/components/page-detail-sections"
-import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
-import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import { BadgeLayoutProvider } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
@@ -23,6 +13,16 @@ import {
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { IconPicker } from "akasha/design/patterns/icon-picker/icon-picker.module.code.tsx"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { BlockEditor } from "akasha/pages/ui/block-editor/block-editor/block-editor.module.code.tsx"
+import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"
+import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
+import {
+  hasValue,
+  JsonSectionRenderer,
+  ToggleSection,
+} from "akasha/pages/ui/components/page-detail-sections/page-detail-sections.module.code.tsx"
+import { MarkdownRenderer } from "akasha/pages/ui/markdown/markdown-renderer/markdown-renderer.module.code.tsx"
+import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
 import {
   type PageTypeSlug,
   toPageTypeSlug,

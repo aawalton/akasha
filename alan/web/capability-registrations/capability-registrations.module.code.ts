@@ -8,7 +8,7 @@ import "../idle-lock-verb/idle-lock-verb.module.code.ts"
 import "../idle-reorder-verb/idle-reorder-verb.module.code.ts"
 import "../declared-effects/declared-effects.module.code.ts"
 
-import { registerCapabilityHost } from "@akasha/pages-ui/capabilities/capability-hosts"
+import { registerCapabilityHost } from "akasha/pages/ui/capabilities/capability-hosts/capability-hosts.module.code.tsx"
 import { ROSTER_GALLERY_CAPABILITY } from "../idle-card-page-type/idle-card-page-type.module.code.ts"
 import { RevealHost } from "../reveal-host/reveal-host.module.code.tsx"
 import { RosterGalleryHost } from "../roster-gallery/roster-gallery.module.code.tsx"

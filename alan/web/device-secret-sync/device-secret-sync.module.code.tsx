@@ -1,6 +1,6 @@
 "use client"
 
-import { UserIdContext } from "@akasha/pages-ui/use-user-id"
+import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import {
   mintDeviceSecretResponseSchema,
   mintDeviceSecretSchema,

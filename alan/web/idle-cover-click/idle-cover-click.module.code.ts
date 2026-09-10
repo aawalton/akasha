@@ -1,8 +1,8 @@
 import {
   type CoverClickContext,
   registerCoverClickHandler,
-} from "@akasha/pages-ui/cover-click/cover-click-registry"
-import { registerCoverMask } from "@akasha/pages-ui/cover-click/cover-mask-registry"
+} from "akasha/pages/ui/cover-click/cover-click-registry/cover-click-registry.module.code.ts"
+import { registerCoverMask } from "akasha/pages/ui/cover-click/cover-mask-registry/cover-mask-registry.module.code.ts"
 import { z } from "zod"
 import {
   IDLE_LOCK_STATE_UNLOCKED,

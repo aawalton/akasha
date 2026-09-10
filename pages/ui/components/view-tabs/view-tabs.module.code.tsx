@@ -1,12 +1,5 @@
 "use client"
 
-import { CreateViewPopover } from "@akasha/pages-ui/components/create-view-popover"
-import {
-  VIEW_FALLBACK_ICON_NAME,
-  ViewTabContextMenu,
-  type ViewTabItem,
-} from "@akasha/pages-ui/components/view-tab-context-menu"
-import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
 import type { DragEndEvent } from "@dnd-kit/core"
 import {
   closestCenter,
@@ -28,6 +21,13 @@ import {
   DropdownMenuTrigger,
 } from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { CreateViewPopover } from "akasha/pages/ui/components/create-view-popover/create-view-popover.module.code.tsx"
+import {
+  VIEW_FALLBACK_ICON_NAME,
+  ViewTabContextMenu,
+  type ViewTabItem,
+} from "akasha/pages/ui/components/view-tab-context-menu/view-tab-context-menu.module.code.tsx"
+import type { ViewCallbacks } from "akasha/pages/ui/mutators/view-callbacks/view-callbacks.module.code.ts"
 import { Ellipsis } from "lucide-react"
 import { type CSSProperties, useCallback, useEffect, useRef, useState } from "react"
 

@@ -1,10 +1,10 @@
 "use client"
 
-import type { FrameFollowMode } from "@akasha/pages-ui/frame/frame-config"
+import type { FrameFollowMode } from "akasha/pages/ui/frame/frame-config/frame-config.module.code.ts"
 import {
   computeAnchorBelowViewport,
   computePinned,
-} from "@akasha/pages-ui/frame/viewport-thresholds"
+} from "akasha/pages/ui/frame/viewport-thresholds/viewport-thresholds.module.code.ts"
 import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
 
 const PIN_THRESHOLD_PX = 120

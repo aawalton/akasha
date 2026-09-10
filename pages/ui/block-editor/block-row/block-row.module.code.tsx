@@ -1,6 +1,5 @@
 "use client"
 
-import { useCoarsePointer } from "@akasha/pages-ui/block-editor/use-coarse-pointer"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Textarea } from "akasha/design/primitives/textarea/textarea.module.code.tsx"
 import { isTodoChecked } from "akasha/pages/core/property-types/block-markers/block-markers.module.code.ts"
@@ -10,6 +9,7 @@ import type {
   HeadingLevel,
   V1BlockType,
 } from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
+import { useCoarsePointer } from "akasha/pages/ui/block-editor/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useTextareaInput } from "../use-textarea-input/use-textarea-input.module.code.ts"
 
 const BASE_TEXTAREA =

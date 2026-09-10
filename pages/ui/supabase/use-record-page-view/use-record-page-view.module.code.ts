@@ -1,10 +1,10 @@
 "use client"
 
+import { recordPageView } from "akasha/pages/access/patch/patch.module.code.ts"
 import {
   shouldRecordView,
   VIEW_RECORD_STALENESS_MS,
-} from "@akasha/pages-ui/supabase/record-view-staleness"
-import { recordPageView } from "akasha/pages/access/patch/patch.module.code.ts"
+} from "akasha/pages/ui/supabase/record-view-staleness/record-view-staleness.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useRef } from "react"
 

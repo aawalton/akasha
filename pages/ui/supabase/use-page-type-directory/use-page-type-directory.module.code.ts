@@ -1,6 +1,6 @@
 "use client"
 
-import type { PageTypeIdBySlug } from "@akasha/pages-ui/supabase/view-data-of-page"
+import type { PageTypeIdBySlug } from "akasha/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { useEffect, useState } from "react"
 

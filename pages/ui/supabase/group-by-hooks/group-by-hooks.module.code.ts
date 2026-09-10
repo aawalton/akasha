@@ -1,15 +1,5 @@
 "use client"
 
-import {
-  adjustTotalForClientFilters,
-  applyClientViewFilters,
-} from "@akasha/pages-ui/supabase/apply-client-view-filters"
-import {
-  type PageWithProperties,
-  toPageWithProperties,
-} from "@akasha/pages-ui/supabase/page-with-properties"
-import { type UsePagesSupabaseOptions, usePages } from "@akasha/pages-ui/supabase/use-pages"
-import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
 import type { PageOrder } from "akasha/pages/access/types/types.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type {
@@ -25,6 +15,19 @@ import type {
 import { GROUP_NONE_KEY } from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
 import { pageDayKey } from "akasha/pages/core/view/calendar-date-to-value/calendar-date-to-value.module.code.ts"
 import { applyGranularityBucket } from "akasha/pages/core/view/group-granularity/group-granularity.module.code.ts"
+import {
+  adjustTotalForClientFilters,
+  applyClientViewFilters,
+} from "akasha/pages/ui/supabase/apply-client-view-filters/apply-client-view-filters.module.code.ts"
+import {
+  type PageWithProperties,
+  toPageWithProperties,
+} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import {
+  type UsePagesSupabaseOptions,
+  usePages,
+} from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
+import { viewFilterToCondition } from "akasha/pages/ui/supabase/view-filter-to-condition/view-filter-to-condition.module.code.ts"
 import { useMemo } from "react"
 
 interface GroupByArgs {

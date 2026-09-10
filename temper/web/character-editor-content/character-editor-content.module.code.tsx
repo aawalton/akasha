@@ -1,6 +1,5 @@
 "use client"
 
-import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { COLUMN_WIDTH } from "akasha/design/layout/layout-data/layout-data.module.code.ts"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
@@ -12,6 +11,7 @@ import { FilterButton } from "akasha/design/patterns/filter-button/filter-button
 import { SearchButton } from "akasha/design/patterns/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { Tabs } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { encodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"

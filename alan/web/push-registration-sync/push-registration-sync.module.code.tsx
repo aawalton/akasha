@@ -1,6 +1,6 @@
 "use client"
 
-import { UserIdContext } from "@akasha/pages-ui/use-user-id"
+import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { decidePermissionAction } from "akasha/persons/push-permission/push-permission.module.code.ts"
 import { registerDeviceTokenSchema } from "akasha/persons/push-register-body/push-register-body.module.code.ts"
 import { decidePushRoute } from "akasha/persons/push-routing/push-routing.module.code.ts"

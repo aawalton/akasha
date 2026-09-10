@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const pagesUi = {
   id: "01a05c0f-884e-7019-b4e6-08b3faac2e0b",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-ui",
   definition: "what draws pages in a browser and takes what a reader does to them",
-  manifest: "json",
+
   parts: [
     "domain/components",
     "domain/pages-ui-action-verbs",
@@ -29,4 +29,4 @@ export const pagesUi = {
     "module/use-user-id",
     "domain/pages-ui-mutators",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

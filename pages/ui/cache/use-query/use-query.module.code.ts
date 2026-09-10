@@ -1,8 +1,11 @@
 "use client"
 
-import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
 import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import {
+  useAcquireSlug,
+  usePipelineLive,
+} from "akasha/pages/ui/cache/tanstack-live/tanstack-live.module.code.ts"
 import {
   createRegularPipeline,
   type RegularResult,

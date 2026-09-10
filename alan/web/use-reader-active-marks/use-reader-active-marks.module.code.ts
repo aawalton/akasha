@@ -1,11 +1,11 @@
 "use client"
 
-import { KOKORO_STREAM_VARIANT } from "@akasha/pages-ui/media/media-src"
-import { useOptionalPlayingSession } from "@akasha/pages-ui/media/playing-session-context"
 import {
   type SentenceMark,
   sentenceMarkSchema,
 } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
+import { KOKORO_STREAM_VARIANT } from "akasha/pages/ui/media/media-src/media-src.module.code.ts"
+import { useOptionalPlayingSession } from "akasha/pages/ui/media/playing-session-context/playing-session-context.module.code.tsx"
 import { useEffect, useState } from "react"
 import { z } from "zod"
 

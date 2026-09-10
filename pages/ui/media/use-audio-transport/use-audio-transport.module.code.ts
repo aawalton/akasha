@@ -1,14 +1,23 @@
-import { isWebKitClient } from "@akasha/pages-ui/media/is-webkit"
-import { mediaHlsSrcForVariant, mediaSrcForVariant } from "@akasha/pages-ui/media/media-src"
-import type { NativeTtsAdapter } from "@akasha/pages-ui/media/native-tts-adapter"
-import type { PlayingSessionState } from "@akasha/pages-ui/media/playing-session"
-import { selectTransport, type Transport } from "@akasha/pages-ui/media/transport-selection"
-import { useNativeTtsTransport } from "@akasha/pages-ui/media/use-native-tts-transport"
-import { type MediaSrcResolver, useShellMediaSrc } from "@akasha/pages-ui/media/use-shell-media-src"
+import { isWebKitClient } from "akasha/pages/ui/media/is-webkit/is-webkit.module.code.ts"
+import {
+  mediaHlsSrcForVariant,
+  mediaSrcForVariant,
+} from "akasha/pages/ui/media/media-src/media-src.module.code.ts"
+import type { NativeTtsAdapter } from "akasha/pages/ui/media/native-tts-adapter/native-tts-adapter.module.code.ts"
+import type { PlayingSessionState } from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
+import {
+  selectTransport,
+  type Transport,
+} from "akasha/pages/ui/media/transport-selection/transport-selection.module.code.ts"
+import { useNativeTtsTransport } from "akasha/pages/ui/media/use-native-tts-transport/use-native-tts-transport.module.code.ts"
+import {
+  type MediaSrcResolver,
+  useShellMediaSrc,
+} from "akasha/pages/ui/media/use-shell-media-src/use-shell-media-src.module.code.ts"
 import {
   type EnsureRenditionFn,
   useWebKitReadAloudDivert,
-} from "@akasha/pages-ui/media/use-webkit-read-aloud-ensure"
+} from "akasha/pages/ui/media/use-webkit-read-aloud-ensure/use-webkit-read-aloud-ensure.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { useCallback, useEffect, useState } from "react"
 

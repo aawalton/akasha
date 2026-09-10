@@ -1,19 +1,19 @@
 "use client"
 
-import {
-  PAGE_TYPE_SLUG,
-  selectDetailBody,
-} from "@akasha/pages-ui/components/page-detail-content-helpers"
-import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
-import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
-import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
-import { usePage } from "@akasha/pages-ui/supabase/use-page"
-import { useRecordPageView } from "@akasha/pages-ui/supabase/use-record-page-view"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { resolveDisplayKind } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import {
+  PAGE_TYPE_SLUG,
+  selectDetailBody,
+} from "akasha/pages/ui/components/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
+import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
+import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
+import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
+import { useRecordPageView } from "akasha/pages/ui/supabase/use-record-page-view/use-record-page-view.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"

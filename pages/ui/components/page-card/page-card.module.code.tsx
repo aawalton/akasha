@@ -1,7 +1,5 @@
 "use client"
 
-import { PageActionsMenu } from "@akasha/pages-ui/components/page-actions-menu"
-import { PagesUILink } from "@akasha/pages-ui/navigation-context"
 import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/layout/panel-card-data/panel-card-data.module.code.ts"
 import { IconPicker } from "akasha/design/patterns/icon-picker/icon-picker.module.code.tsx"
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
@@ -23,6 +21,8 @@ import type { CompletionShape } from "akasha/pages/core/task-lifecycle/task-life
 import { readsAsDone } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import { PageActionsMenu } from "akasha/pages/ui/components/page-actions-menu/page-actions-menu.module.code.tsx"
+import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
 import type * as React from "react"
 import { type ReactNode, useMemo } from "react"

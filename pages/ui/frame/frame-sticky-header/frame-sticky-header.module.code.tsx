@@ -1,8 +1,11 @@
 "use client"
 
-import { PagesUILink, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import {
+  PagesUILink,
+  usePagesUIRouter,
+} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { ArrowLeft } from "lucide-react"
 import type { ReactNode } from "react"
 

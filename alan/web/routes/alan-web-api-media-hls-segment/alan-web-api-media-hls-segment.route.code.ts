@@ -1,11 +1,17 @@
-import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
-import { MEDIA_VARIANT_PATTERN, mediaPageExists } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { hlsSegmentObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import {
   type ObjectStreamResult,
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
+import {
+  mediaTokenSecret,
+  verifyMediaToken,
+} from "akasha/pages/ui/media/media-token/media-token.module.code.ts"
+import {
+  MEDIA_VARIANT_PATTERN,
+  mediaPageExists,
+} from "akasha/pages/ui/media/serve-media/serve-media.module.code.ts"
 import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 import { isMediaPageId } from "../../media-page/media-page.module.code.ts"
 

@@ -2,8 +2,6 @@
 
 import { ALANWALTON_APP_SLUG } from "@akasha/alanwalton-web/alan-app-id"
 import { HOME_NAV_SLUG } from "@akasha/alanwalton-web/home-dni"
-import { ViewPageContent } from "@akasha/pages-ui/components/view-page-content"
-import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import {
   PageLayout,
@@ -12,6 +10,8 @@ import {
 } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
+import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
 import { buildPageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo } from "react"

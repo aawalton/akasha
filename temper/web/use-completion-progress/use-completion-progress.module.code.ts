@@ -1,5 +1,5 @@
-import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type {
   AccountCompletion,
   CharacterCompletion,

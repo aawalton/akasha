@@ -1,6 +1,6 @@
 "use client"
 
-import { BOOT_GATE_TIMEOUT_MS } from "@akasha/pages-ui/cache/boot-gate"
+import { BOOT_GATE_TIMEOUT_MS } from "akasha/pages/ui/cache/boot-gate/boot-gate.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 import {
   awaitPagesStoreReady,

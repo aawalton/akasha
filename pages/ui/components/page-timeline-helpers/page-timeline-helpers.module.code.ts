@@ -1,5 +1,5 @@
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 
 const DATE_ONLY_REGEX = /^\d{4}-\d{2}-\d{2}$/
 const DAY_MS = 86_400_000

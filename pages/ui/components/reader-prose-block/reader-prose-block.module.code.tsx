@@ -1,11 +1,5 @@
 "use client"
 
-import { type ProseBlock, splitInlineEmphasis } from "@akasha/pages-ui/components/reader-prose"
-import type {
-  BlockSentenceLayout,
-  SentenceRun,
-} from "@akasha/pages-ui/components/reader-sentence-layout"
-import { useSentenceNarration } from "@akasha/pages-ui/media/sentence-narration-context"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import {
   ContextMenu,
@@ -15,6 +9,15 @@ import {
 } from "akasha/design/primitives/context-menu/context-menu.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import {
+  type ProseBlock,
+  splitInlineEmphasis,
+} from "akasha/pages/ui/components/reader-prose/reader-prose.module.code.ts"
+import type {
+  BlockSentenceLayout,
+  SentenceRun,
+} from "akasha/pages/ui/components/reader-sentence-layout/reader-sentence-layout.module.code.ts"
+import { useSentenceNarration } from "akasha/pages/ui/media/sentence-narration-context/sentence-narration-context.module.code.tsx"
 import { Fragment } from "react"
 
 const SENTENCE_SPAN_CLASS =

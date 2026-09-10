@@ -1,10 +1,13 @@
 "use client"
 
-import { ToggleSection } from "@akasha/pages-ui/components/page-detail-sections"
-import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { type Referrer, useReferrers } from "@akasha/pages-ui/supabase/use-referrers"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import { ToggleSection } from "akasha/pages/ui/components/page-detail-sections/page-detail-sections.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import {
+  type Referrer,
+  useReferrers,
+} from "akasha/pages/ui/supabase/use-referrers/use-referrers.module.code.ts"
 import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import {
   type PageTypeSlug,

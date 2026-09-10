@@ -1,9 +1,9 @@
 "use client"
 
-import type { SentenceLayout } from "@akasha/pages-ui/components/reader-sentence-layout"
-import { useOptionalPlayingSession } from "@akasha/pages-ui/media/playing-session-context"
-import { resolveActiveSentence } from "@akasha/pages-ui/media/resolve-active-sentence"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
+import type { SentenceLayout } from "akasha/pages/ui/components/reader-sentence-layout/reader-sentence-layout.module.code.ts"
+import { useOptionalPlayingSession } from "akasha/pages/ui/media/playing-session-context/playing-session-context.module.code.tsx"
+import { resolveActiveSentence } from "akasha/pages/ui/media/resolve-active-sentence/resolve-active-sentence.module.code.ts"
 import { type RefObject, useEffect } from "react"
 
 export function useSentenceHighlight(args: {

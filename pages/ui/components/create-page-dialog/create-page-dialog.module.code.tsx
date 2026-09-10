@@ -1,6 +1,5 @@
 "use client"
 
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import {
   Dialog,
@@ -14,6 +13,7 @@ import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.ts
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { useState } from "react"
 import { QuickAddForm } from "../quick-add-form/quick-add-form.module.code.tsx"
 

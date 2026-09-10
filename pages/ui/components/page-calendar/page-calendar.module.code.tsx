@@ -1,7 +1,5 @@
 "use client"
 
-import { usePageCalendarState } from "@akasha/pages-ui/components/use-page-calendar-state"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { DndContext, DragOverlay, useDraggable } from "@dnd-kit/core"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
@@ -24,6 +22,8 @@ import {
   monthKeyOf,
   shiftMonth,
 } from "akasha/pages/core/view/calendar-grid/calendar-grid.module.code.ts"
+import { usePageCalendarState } from "akasha/pages/ui/components/use-page-calendar-state/use-page-calendar-state.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { Calendar as CalendarIcon, ChevronLeft, ChevronRight } from "lucide-react"
 import {
   type KeyboardEvent as ReactKeyboardEvent,

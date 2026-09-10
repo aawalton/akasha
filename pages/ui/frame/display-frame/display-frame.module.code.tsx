@@ -1,14 +1,20 @@
 "use client"
 
-import { useChromeToggle } from "@akasha/pages-ui/components/use-chrome-toggle"
-import { frameFollowMode, frameSupportsFocusMode } from "@akasha/pages-ui/frame/frame-config"
-import { FrameSafeAreaMasks } from "@akasha/pages-ui/frame/frame-safe-area-masks"
-import { FrameStickyFooter } from "@akasha/pages-ui/frame/frame-sticky-footer"
-import { type FrameHeader, FrameStickyHeader } from "@akasha/pages-ui/frame/frame-sticky-header"
-import { useFollowAnchor } from "@akasha/pages-ui/frame/use-follow-anchor"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import type { FrameConfig } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
+import { useChromeToggle } from "akasha/pages/ui/components/use-chrome-toggle/use-chrome-toggle.module.code.ts"
+import {
+  frameFollowMode,
+  frameSupportsFocusMode,
+} from "akasha/pages/ui/frame/frame-config/frame-config.module.code.ts"
+import { FrameSafeAreaMasks } from "akasha/pages/ui/frame/frame-safe-area-masks/frame-safe-area-masks.module.code.tsx"
+import { FrameStickyFooter } from "akasha/pages/ui/frame/frame-sticky-footer/frame-sticky-footer.module.code.tsx"
+import {
+  type FrameHeader,
+  FrameStickyHeader,
+} from "akasha/pages/ui/frame/frame-sticky-header/frame-sticky-header.module.code.tsx"
+import { useFollowAnchor } from "akasha/pages/ui/frame/use-follow-anchor/use-follow-anchor.module.code.ts"
 import { ArrowDown } from "lucide-react"
 import { type ReactNode, type RefObject, useCallback } from "react"
 

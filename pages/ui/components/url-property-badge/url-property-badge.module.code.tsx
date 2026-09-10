@@ -1,9 +1,9 @@
 "use client"
 
-import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { InputBadge } from "akasha/design/badges/input-badge/input-badge.module.code.tsx"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { ExternalLink } from "lucide-react"
 import { useEffect, useState } from "react"
 

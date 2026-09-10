@@ -1,18 +1,18 @@
 "use client"
 
-import {
-  buildTableColumns,
-  isCardEligibleProperty,
-} from "@akasha/pages-ui/components/card-property-columns"
-import type { PageSystemTabContentProps } from "@akasha/pages-ui/components/page-system-tab-content-props"
-import { sortServerGrouped } from "@akasha/pages-ui/components/page-system-view-helpers"
-import { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"
-import { usePageView } from "@akasha/pages-ui/components/view-engine/use-page-view"
-import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { useCollapsedGroups } from "akasha/design/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { applySearch } from "akasha/pages/core/view/apply-search/apply-search.module.code.ts"
+import {
+  buildTableColumns,
+  isCardEligibleProperty,
+} from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
+import type { PageSystemTabContentProps } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import { sortServerGrouped } from "akasha/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
+import { withColumnWidths } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
+import { usePageView } from "akasha/pages/ui/components/view-engine/use-page-view/use-page-view.module.code.ts"
+import { usePageResolverOptional } from "akasha/pages/ui/contexts/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { PageSystemViewBody } from "../page-system-view-body/page-system-view-body.module.code.tsx"
 import { PageSystemViewHeader } from "../page-system-view-header/page-system-view-header.module.code.tsx"

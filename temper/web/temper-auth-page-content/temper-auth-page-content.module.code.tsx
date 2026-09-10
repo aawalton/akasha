@@ -1,6 +1,5 @@
 "use client"
 
-import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import {
   signInWithPassword,
   signUpWithPassword,
@@ -10,6 +9,7 @@ import {
   type AuthSubmitPayload,
   AuthPageContent as DSAuthPageContent,
 } from "akasha/design/patterns/auth-page-content/auth-page-content.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { safeInternalPath } from "akasha/pages/url/safe-target/safe-target.module.code.ts"
 import type { ReactNode } from "react"
 import { useState } from "react"

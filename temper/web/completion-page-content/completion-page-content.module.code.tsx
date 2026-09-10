@@ -1,6 +1,5 @@
 "use client"
 
-import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import {
   PageLayout,
@@ -15,6 +14,7 @@ import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tab
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/primitives/use-debounced-value/use-debounced-value.module.code.ts"
 import { useKeyboardBinding } from "akasha/design/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
+import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,

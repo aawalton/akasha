@@ -1,16 +1,22 @@
 "use client"
 
-import { buildTableColumns } from "@akasha/pages-ui/components/card-property-columns"
-import { pageRowToPageDataJSON, toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
-import { ToggleSection } from "@akasha/pages-ui/components/page-detail-sections"
-import { TITLE_COLUMN_ID } from "@akasha/pages-ui/components/page-table-shared"
-import { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
-import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { type Subpage, useSubpages } from "@akasha/pages-ui/supabase/use-subpages"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import { buildTableColumns } from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
+import {
+  pageRowToPageDataJSON,
+  toPageDataRecord,
+} from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import { ToggleSection } from "akasha/pages/ui/components/page-detail-sections/page-detail-sections.module.code.tsx"
+import { TITLE_COLUMN_ID } from "akasha/pages/ui/components/page-table-shared/page-table-shared.module.code.ts"
+import { withColumnWidths } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import {
+  type Subpage,
+  useSubpages,
+} from "akasha/pages/ui/supabase/use-subpages/use-subpages.module.code.ts"
 import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import {
   type PageTypeSlug,

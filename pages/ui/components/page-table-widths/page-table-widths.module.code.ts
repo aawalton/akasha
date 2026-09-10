@@ -1,8 +1,3 @@
-import {
-  type PageTableColumn,
-  TITLE_COLUMN_ID,
-} from "@akasha/pages-ui/components/page-table-shared"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { formatTime12h } from "akasha/design/forms/format-time/format-time.module.code.ts"
 import { formatRelativeTime } from "akasha/design/primitives/format-relative-time/format-relative-time.module.code.ts"
 import type {
@@ -27,6 +22,11 @@ import {
   selectConfigSchema,
 } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
 import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
+import {
+  type PageTableColumn,
+  TITLE_COLUMN_ID,
+} from "akasha/pages/ui/components/page-table-shared/page-table-shared.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/

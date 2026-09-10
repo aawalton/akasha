@@ -1,6 +1,6 @@
-import { PlayingSessionProvider } from "@akasha/pages-ui/media/playing-session-context"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { Toaster } from "akasha/design/primitives/sonner/sonner.module.code.tsx"
+import { PlayingSessionProvider } from "akasha/pages/ui/media/playing-session-context/playing-session-context.module.code.tsx"
 import { useMemo } from "react"
 import { Outlet } from "react-router"
 import { loader as appLayoutLoader } from "../.server/app-layout-loading/app-layout-loading.module.code.ts"

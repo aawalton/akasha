@@ -1,4 +1,3 @@
-import { configureLocalPositionReader } from "@akasha/pages-ui/components/local-position-port"
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
@@ -10,6 +9,7 @@ import {
 import { CommandPalette } from "akasha/design/primitives/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { configureLocalPositionReader } from "akasha/pages/ui/components/local-position-port/local-position-port.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 import {
   configureContentPersistence,
@@ -34,7 +34,7 @@ import { readLocalPosition } from "./offline-text/offline-text.module.code.ts"
 import { createNativeFsPagesPersistence } from "./pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import "./look/alan-web-look.stylesheet.styles.css"
 import "./capability-registrations/capability-registrations.module.code.ts"
-import { PagesUICapabilityHosts } from "@akasha/pages-ui/capabilities/capability-hosts"
+import { PagesUICapabilityHosts } from "akasha/pages/ui/capabilities/capability-hosts/capability-hosts.module.code.tsx"
 import { NavCommands } from "./nav-commands/nav-commands.module.code.tsx"
 import { StatusBarSync } from "./status-bar-sync/status-bar-sync.module.code.tsx"
 

@@ -1,16 +1,16 @@
 "use client"
 
-import { buildTableColumns } from "@akasha/pages-ui/components/card-property-columns"
-import type { PageTableColumn } from "@akasha/pages-ui/components/page-table-shared"
-import { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"
-import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { ViewLayout } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import {
   DEFAULT_GALLERY_CARD_SIZE,
   type GalleryCardSize,
 } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import { buildTableColumns } from "akasha/pages/ui/components/card-property-columns/card-property-columns.module.code.ts"
+import type { PageTableColumn } from "akasha/pages/ui/components/page-table-shared/page-table-shared.module.code.ts"
+import { withColumnWidths } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
+import type { ReorderCardsHandler } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { ReactNode } from "react"
 import { PageCardGrid } from "../page-card-grid/page-card-grid.module.code.tsx"
 import { PageGallery } from "../page-gallery/page-gallery.module.code.tsx"

@@ -1,9 +1,9 @@
 "use client"
 
-import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import { getOrderedNeighbors } from "akasha/pages/access/ordered/ordered.module.code.ts"
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
 import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useRef, useState } from "react"

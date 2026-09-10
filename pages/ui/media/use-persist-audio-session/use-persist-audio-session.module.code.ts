@@ -1,8 +1,8 @@
-import type { PlayingSessionState } from "@akasha/pages-ui/media/playing-session"
+import type { PlayingSessionState } from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
 import {
   clearPersistedSession,
   writePersistedSession,
-} from "@akasha/pages-ui/media/playing-session-storage"
+} from "akasha/pages/ui/media/playing-session-storage/playing-session-storage.module.code.ts"
 import { type RefObject, useEffect } from "react"
 
 const PERSIST_INTERVAL_SECONDS = 5

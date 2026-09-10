@@ -1,10 +1,10 @@
 "use client"
 
-import { PagesUILink } from "@akasha/pages-ui/navigation-context"
 import { buttonVariants } from "akasha/design/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 import { useEffect, useState } from "react"
 

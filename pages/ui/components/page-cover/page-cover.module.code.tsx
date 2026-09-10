@@ -1,6 +1,5 @@
 "use client"
 
-import { DegradingImage } from "@akasha/pages-ui/components/degrading-image"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
@@ -11,6 +10,7 @@ import {
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { DegradingImage } from "akasha/pages/ui/components/degrading-image/degrading-image.module.code.tsx"
 import { ImagePlus, Pencil, Trash2 } from "lucide-react"
 import { useState } from "react"
 

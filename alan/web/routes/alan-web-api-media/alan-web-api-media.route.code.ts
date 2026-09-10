@@ -1,5 +1,5 @@
-import { serveMedia } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { serveMedia } from "akasha/pages/ui/media/serve-media/serve-media.module.code.ts"
 import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 import { isMediaPageId } from "../../media-page/media-page.module.code.ts"
 

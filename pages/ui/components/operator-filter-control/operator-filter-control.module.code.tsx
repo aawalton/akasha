@@ -1,25 +1,6 @@
 "use client"
 
 import {
-  BetweenDateValueInput,
-  BetweenInstantValueInput,
-  DateSentinelInput,
-  InstantSentinelInput,
-  RelativeToTodayInput,
-} from "@akasha/pages-ui/components/date-time-filter-inputs"
-import {
-  MultiRelationValueInput,
-  RelationValueInput,
-} from "@akasha/pages-ui/components/relation-filter-inputs"
-import {
-  CalendarTimeValueInput,
-  DateValueInput,
-  InstantValueInput,
-  NumberValueInput,
-  SelectBadgePicker,
-  TextValueInput,
-} from "@akasha/pages-ui/components/value-filter-inputs"
-import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
@@ -35,6 +16,25 @@ import type { FilterOperator } from "akasha/pages/core/property-types/property-t
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { PageFilterDimension } from "akasha/pages/core/view/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
+import {
+  BetweenDateValueInput,
+  BetweenInstantValueInput,
+  DateSentinelInput,
+  InstantSentinelInput,
+  RelativeToTodayInput,
+} from "akasha/pages/ui/components/date-time-filter-inputs/date-time-filter-inputs.module.code.tsx"
+import {
+  MultiRelationValueInput,
+  RelationValueInput,
+} from "akasha/pages/ui/components/relation-filter-inputs/relation-filter-inputs.module.code.tsx"
+import {
+  CalendarTimeValueInput,
+  DateValueInput,
+  InstantValueInput,
+  NumberValueInput,
+  SelectBadgePicker,
+  TextValueInput,
+} from "akasha/pages/ui/components/value-filter-inputs/value-filter-inputs.module.code.tsx"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { requireFirst } from "akasha/utils/narrow/require-first/require-first.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"

@@ -1,20 +1,26 @@
 "use client"
 
-import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
+import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import {
+  useAcquireSlug,
+  usePipelineLive,
+} from "akasha/pages/ui/cache/tanstack-live/tanstack-live.module.code.ts"
 import {
   collectRelatedIds,
   RELATED_IDS_PER_PROPERTY_CAP,
   type RelationSpec,
-} from "@akasha/pages-ui/supabase/collect-related-ids"
+} from "akasha/pages/ui/supabase/collect-related-ids/collect-related-ids.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,
-} from "@akasha/pages-ui/supabase/page-with-properties"
-import { getRelatedPagesByIdCoalesced } from "@akasha/pages-ui/supabase/related-pages-coalesce"
-import { type UsePagesSupabaseOptions, usePages } from "@akasha/pages-ui/supabase/use-pages"
-import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
-import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
-import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import { getRelatedPagesByIdCoalesced } from "akasha/pages/ui/supabase/related-pages-coalesce/related-pages-coalesce.module.code.ts"
+import {
+  type UsePagesSupabaseOptions,
+  usePages,
+} from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"
 import {
   createIdSuffixPipeline,
   type IdSuffixResult,

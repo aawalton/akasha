@@ -1,10 +1,10 @@
 "use client"
 
+import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import {
   decideReadRestore,
   fractionToScrollTop,
-} from "@akasha/pages-ui/components/position-fraction"
-import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
+} from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
 import { type RefObject, useEffect, useRef, useState } from "react"
 
 const LAYOUT_MAX_FRAMES = 30

@@ -1,6 +1,6 @@
 "use client"
 
-import { BOOT_GATE_TIMEOUT_MS } from "@akasha/pages-ui/cache/boot-gate"
+import { BOOT_GATE_TIMEOUT_MS } from "akasha/pages/ui/cache/boot-gate/boot-gate.module.code.ts"
 import type { ShapeDescriptor } from "akasha/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PagesStore } from "akasha/pages/ui-store/collection/store/store.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"

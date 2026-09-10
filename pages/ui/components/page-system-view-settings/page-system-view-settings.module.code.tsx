@@ -1,17 +1,5 @@
 "use client"
 
-import { GalleryOptionsPicker } from "@akasha/pages-ui/components/gallery-options-picker"
-import { GroupByPicker } from "@akasha/pages-ui/components/group-by-picker"
-import { NotesOptionsPicker } from "@akasha/pages-ui/components/notes-options-picker"
-import { PageSizePicker } from "@akasha/pages-ui/components/page-size-picker"
-import { PropertyVisibilityPicker } from "@akasha/pages-ui/components/property-visibility-picker"
-import { TimelinePicker } from "@akasha/pages-ui/components/timeline-picker"
-import {
-  DEFAULT_LAYOUT,
-  LAYOUT_OPTIONS,
-  type ViewSettingsButtonProps,
-  type ViewSettingsView,
-} from "@akasha/pages-ui/components/view-settings-options"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import {
   FilterableList,
@@ -25,6 +13,18 @@ import {
 import { SubView } from "akasha/design/primitives/sub-view/sub-view.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { GalleryOptionsPicker } from "akasha/pages/ui/components/gallery-options-picker/gallery-options-picker.module.code.tsx"
+import { GroupByPicker } from "akasha/pages/ui/components/group-by-picker/group-by-picker.module.code.tsx"
+import { NotesOptionsPicker } from "akasha/pages/ui/components/notes-options-picker/notes-options-picker.module.code.tsx"
+import { PageSizePicker } from "akasha/pages/ui/components/page-size-picker/page-size-picker.module.code.tsx"
+import { PropertyVisibilityPicker } from "akasha/pages/ui/components/property-visibility-picker/property-visibility-picker.module.code.tsx"
+import { TimelinePicker } from "akasha/pages/ui/components/timeline-picker/timeline-picker.module.code.tsx"
+import {
+  DEFAULT_LAYOUT,
+  LAYOUT_OPTIONS,
+  type ViewSettingsButtonProps,
+  type ViewSettingsView,
+} from "akasha/pages/ui/components/view-settings-options/view-settings-options.module.code.ts"
 import {
   ChevronRight,
   Eye,

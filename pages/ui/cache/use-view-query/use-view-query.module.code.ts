@@ -1,14 +1,14 @@
 "use client"
 
+import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import {
   useAcquireFilteredStream,
   useAcquireSlug,
   useAcquireSlugs,
   usePipelineLive,
-} from "@akasha/pages-ui/cache/tanstack-live"
-import { useCoreDefinitionsReady } from "@akasha/pages-ui/cache/use-core-definitions-ready"
-import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
-import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+} from "akasha/pages/ui/cache/tanstack-live/tanstack-live.module.code.ts"
+import { useCoreDefinitionsReady } from "akasha/pages/ui/cache/use-core-definitions-ready/use-core-definitions-ready.module.code.ts"
 import {
   createViewPipeline,
   type ViewResult,

@@ -1,7 +1,5 @@
 "use client"
 
-import { planEnterSplit } from "@akasha/pages-ui/block-editor/block-type-helpers"
-import type { SlashChoice } from "@akasha/pages-ui/block-editor/slash-menu"
 import {
   isBlankBlock,
   type RichDocument,
@@ -18,6 +16,8 @@ import {
   flattenBlockIds,
   getBlockAtPath,
 } from "akasha/pages/core/property-types/rich-document-tree/rich-document-tree.module.code.ts"
+import { planEnterSplit } from "akasha/pages/ui/block-editor/block-type-helpers/block-type-helpers.module.code.ts"
+import type { SlashChoice } from "akasha/pages/ui/block-editor/slash-menu/slash-menu.module.code.tsx"
 import { type RefObject, useCallback, useState } from "react"
 
 export type FocusCaret = "start" | "end" | number

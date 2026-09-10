@@ -1,17 +1,5 @@
 "use client"
 
-import { BlockAccessoryBar } from "@akasha/pages-ui/block-editor/block-accessory-bar"
-import { BlockTree } from "@akasha/pages-ui/block-editor/block-tree"
-import { collectToggleIds } from "@akasha/pages-ui/block-editor/block-type-helpers"
-import { SlashMenu } from "@akasha/pages-ui/block-editor/slash-menu"
-import { useBlockCollapse } from "@akasha/pages-ui/block-editor/use-block-collapse"
-import { useBlockFocus } from "@akasha/pages-ui/block-editor/use-block-focus"
-import { useBlockKeys } from "@akasha/pages-ui/block-editor/use-block-keys"
-import { useBlockOps } from "@akasha/pages-ui/block-editor/use-block-ops"
-import { useBlockPersistence } from "@akasha/pages-ui/block-editor/use-block-persistence"
-import { useBlockSelection } from "@akasha/pages-ui/block-editor/use-block-selection"
-import { useCoarsePointer } from "@akasha/pages-ui/block-editor/use-coarse-pointer"
-import { useKeyboardInset } from "@akasha/pages-ui/block-editor/use-keyboard-inset"
 import { useDebouncedCallback } from "akasha/design/primitives/use-debounced-callback/use-debounced-callback.module.code.ts"
 import type {
   Block,
@@ -22,6 +10,18 @@ import {
   type EditorOp,
   normalizeRichDocument,
 } from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
+import { BlockAccessoryBar } from "akasha/pages/ui/block-editor/block-accessory-bar/block-accessory-bar.module.code.tsx"
+import { BlockTree } from "akasha/pages/ui/block-editor/block-tree/block-tree.module.code.tsx"
+import { collectToggleIds } from "akasha/pages/ui/block-editor/block-type-helpers/block-type-helpers.module.code.ts"
+import { SlashMenu } from "akasha/pages/ui/block-editor/slash-menu/slash-menu.module.code.tsx"
+import { useBlockCollapse } from "akasha/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.code.ts"
+import { useBlockFocus } from "akasha/pages/ui/block-editor/use-block-focus/use-block-focus.module.code.ts"
+import { useBlockKeys } from "akasha/pages/ui/block-editor/use-block-keys/use-block-keys.module.code.ts"
+import { useBlockOps } from "akasha/pages/ui/block-editor/use-block-ops/use-block-ops.module.code.ts"
+import { useBlockPersistence } from "akasha/pages/ui/block-editor/use-block-persistence/use-block-persistence.module.code.ts"
+import { useBlockSelection } from "akasha/pages/ui/block-editor/use-block-selection/use-block-selection.module.code.ts"
+import { useCoarsePointer } from "akasha/pages/ui/block-editor/use-coarse-pointer/use-coarse-pointer.module.code.ts"
+import { useKeyboardInset } from "akasha/pages/ui/block-editor/use-keyboard-inset/use-keyboard-inset.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import { BlockRow } from "../block-row/block-row.module.code.tsx"
 

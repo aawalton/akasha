@@ -1,28 +1,28 @@
 "use client"
 
-import { buildBaseConditions } from "@akasha/pages-ui/components/base-conditions"
-import { buildServerGroupedSections } from "@akasha/pages-ui/components/build-server-grouped-sections"
-import { buildFlatQueryArgs } from "@akasha/pages-ui/components/flat-query-args"
-import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
-import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
-import {
-  buildBaseFilters,
-  buildSyntheticConfig,
-} from "@akasha/pages-ui/components/synthetic-config"
-import { useEffectiveListing } from "@akasha/pages-ui/components/use-effective-listing"
-import { useViewRowAggregates } from "@akasha/pages-ui/components/view-engine/use-view-row-aggregates"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
-import { buildPageTypeSlugMaps } from "@akasha/pages-ui/components/view-tab-content-href"
-import { useGroupByPaginatedQuery } from "@akasha/pages-ui/supabase/group-by-hooks"
-import { useAllPages, useRelatedPages } from "@akasha/pages-ui/supabase/hooks"
-import { usePageViewQuery } from "@akasha/pages-ui/supabase/hooks-view-query"
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { buildBaseConditions } from "akasha/pages/ui/components/base-conditions/base-conditions.module.code.ts"
+import { buildServerGroupedSections } from "akasha/pages/ui/components/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
+import { buildFlatQueryArgs } from "akasha/pages/ui/components/flat-query-args/flat-query-args.module.code.ts"
+import { toPageDataRecord } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import type { ServerGroupedSection } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import {
+  buildBaseFilters,
+  buildSyntheticConfig,
+} from "akasha/pages/ui/components/synthetic-config/synthetic-config.module.code.ts"
+import { useEffectiveListing } from "akasha/pages/ui/components/use-effective-listing/use-effective-listing.module.code.ts"
+import { useViewRowAggregates } from "akasha/pages/ui/components/view-engine/use-view-row-aggregates/use-view-row-aggregates.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import { buildPageTypeSlugMaps } from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
+import { useGroupByPaginatedQuery } from "akasha/pages/ui/supabase/group-by-hooks/group-by-hooks.module.code.ts"
+import { useAllPages, useRelatedPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { usePageViewQuery } from "akasha/pages/ui/supabase/hooks-view-query/hooks-view-query.module.code.ts"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 

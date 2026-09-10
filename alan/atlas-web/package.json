@@ -15,7 +15,6 @@
     "test": "bun test"
   },
   "dependencies": {
-    "@akasha/pages-ui": "workspace:*",
     "@capacitor/core": "^8.4.1",
     "@capacitor/preferences": "^8.0.1",
     "@capgo/background-geolocation": "^8.3.1",

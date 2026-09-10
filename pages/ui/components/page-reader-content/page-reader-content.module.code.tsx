@@ -1,32 +1,5 @@
 "use client"
 
-import { toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
-import {
-  decideReadRestore,
-  decideRestoreReady,
-  fractionToScrollTop,
-  resolveResumeFraction,
-} from "@akasha/pages-ui/components/position-fraction"
-import { ReaderAudioBlock } from "@akasha/pages-ui/components/reader-audio-block"
-import {
-  type ReaderNeighborLink,
-  ReaderPager,
-  ReadingProgressBar,
-} from "@akasha/pages-ui/components/reader-chrome"
-import { useReaderPageSource } from "@akasha/pages-ui/components/reader-page-source"
-import { ReaderProseBody, ReaderProseStatic } from "@akasha/pages-ui/components/reader-prose-body"
-import { layoutSentenceSpans } from "@akasha/pages-ui/components/reader-sentence-layout"
-import { READER_PROSE_TYPOGRAPHY } from "@akasha/pages-ui/components/reader-typography"
-import { useReadEndOnScroll } from "@akasha/pages-ui/components/use-read-end-on-scroll"
-import { useReaderProgressWriter } from "@akasha/pages-ui/components/use-reader-progress-writer"
-import { useRestoreReadPosition } from "@akasha/pages-ui/components/use-restore-read-position"
-import { useSentenceHighlight } from "@akasha/pages-ui/components/use-sentence-highlight"
-import { DisplayFrame } from "@akasha/pages-ui/frame/display-frame"
-import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
-import {
-  SentenceNarrationProvider,
-  type SentenceNarrationValue,
-} from "@akasha/pages-ui/media/sentence-narration-context"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
@@ -39,6 +12,36 @@ import {
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { bodyPropertyIsContentTier } from "akasha/pages/core/schema/content-tier/content-tier.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import {
+  decideReadRestore,
+  decideRestoreReady,
+  fractionToScrollTop,
+  resolveResumeFraction,
+} from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
+import { ReaderAudioBlock } from "akasha/pages/ui/components/reader-audio-block/reader-audio-block.module.code.tsx"
+import {
+  type ReaderNeighborLink,
+  ReaderPager,
+  ReadingProgressBar,
+} from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
+import { useReaderPageSource } from "akasha/pages/ui/components/reader-page-source/reader-page-source.module.code.tsx"
+import {
+  ReaderProseBody,
+  ReaderProseStatic,
+} from "akasha/pages/ui/components/reader-prose-body/reader-prose-body.module.code.tsx"
+import { layoutSentenceSpans } from "akasha/pages/ui/components/reader-sentence-layout/reader-sentence-layout.module.code.ts"
+import { READER_PROSE_TYPOGRAPHY } from "akasha/pages/ui/components/reader-typography/reader-typography.module.code.ts"
+import { useReadEndOnScroll } from "akasha/pages/ui/components/use-read-end-on-scroll/use-read-end-on-scroll.module.code.ts"
+import { useReaderProgressWriter } from "akasha/pages/ui/components/use-reader-progress-writer/use-reader-progress-writer.module.code.ts"
+import { useRestoreReadPosition } from "akasha/pages/ui/components/use-restore-read-position/use-restore-read-position.module.code.ts"
+import { useSentenceHighlight } from "akasha/pages/ui/components/use-sentence-highlight/use-sentence-highlight.module.code.ts"
+import { DisplayFrame } from "akasha/pages/ui/frame/display-frame/display-frame.module.code.tsx"
+import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
+import {
+  SentenceNarrationProvider,
+  type SentenceNarrationValue,
+} from "akasha/pages/ui/media/sentence-narration-context/sentence-narration-context.module.code.tsx"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { type ReactNode, useCallback, useMemo, useRef } from "react"
 

@@ -1,6 +1,5 @@
 "use client"
 
-import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import {
   AlertDialog,
@@ -15,6 +14,7 @@ import {
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useCompanion } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import { useState } from "react"
 import { toast } from "sonner"

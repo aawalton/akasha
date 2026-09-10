@@ -1,16 +1,5 @@
 "use client"
 
-import { toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
-import type { PageTypeOption } from "@akasha/pages-ui/components/view-settings-options"
-import type { ViewTabItem } from "@akasha/pages-ui/components/view-tab-context-menu"
-import { PagesUILink } from "@akasha/pages-ui/navigation-context"
-import { useAllPages, usePageByIdSuffix, useViewsForNavItem } from "@akasha/pages-ui/supabase/hooks"
-import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
-import { usePageTypeDirectory } from "@akasha/pages-ui/supabase/use-page-type-directory"
-import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
-import { useSupabaseViewCallbacks } from "@akasha/pages-ui/supabase/use-view-callbacks"
-import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
-import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { PageTitleBadges } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { useLayoutSearchParams } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
@@ -20,6 +9,21 @@ import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.c
 import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
+import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import type { PageTypeOption } from "akasha/pages/ui/components/view-settings-options/view-settings-options.module.code.ts"
+import type { ViewTabItem } from "akasha/pages/ui/components/view-tab-context-menu/view-tab-context-menu.module.code.tsx"
+import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import {
+  useAllPages,
+  usePageByIdSuffix,
+  useViewsForNavItem,
+} from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useOptionListLookup } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
+import { usePageTypeDirectory } from "akasha/pages/ui/supabase/use-page-type-directory/use-page-type-directory.module.code.ts"
+import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
+import { useSupabaseViewCallbacks } from "akasha/pages/ui/supabase/use-view-callbacks/use-view-callbacks.module.code.ts"
+import { viewDataOfPage } from "akasha/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts"
+import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { ArrowLeft } from "lucide-react"

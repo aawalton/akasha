@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  type PageWithProperties,
-  toPageWithProperties,
-} from "@akasha/pages-ui/supabase/page-with-properties"
 import { getPages } from "akasha/pages/access/get/get.module.code.ts"
 import {
   extractRelationContainment,
@@ -18,6 +14,10 @@ import {
 } from "akasha/pages/core/schema/listing-config/listing-config.module.code.ts"
 import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/page-type-inheritance/page-type-inheritance.module.code.ts"
 import type { ViewSort } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import {
+  type PageWithProperties,
+  toPageWithProperties,
+} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import {
   type PageTypeSlug,
   toPageTypeSlug,

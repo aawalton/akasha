@@ -1,6 +1,5 @@
 "use client"
 
-import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
@@ -19,6 +18,7 @@ import {
   TabsList,
 } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { ChevronLeft, FlaskConical, TriangleAlert } from "lucide-react"
 import { COMPANION_ENGINE_METHODOLOGY_PANELS } from "../companion-engine-methodology/companion-engine-methodology.module.code.tsx"
 import { KNOWN_ISSUES_METHODOLOGY_PANELS } from "../known-issues-methodology/known-issues-methodology.module.code.tsx"

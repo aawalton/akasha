@@ -1,12 +1,12 @@
 "use client"
 
-import { useAppVersionCheck } from "@akasha/pages-ui/app-version/use-app-version-check"
-import { SortableNavs } from "@akasha/pages-ui/components/sortable-navs"
-import { useAppNavItems } from "@akasha/pages-ui/components/use-app-nav-items"
 import { signOut } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
 import { AppShell as SharedAppShell } from "akasha/design/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
 import { useSidebarState } from "akasha/design/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { useAppVersionCheck } from "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
+import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
+import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import { LogOut } from "lucide-react"
 import { useMemo } from "react"
 import {

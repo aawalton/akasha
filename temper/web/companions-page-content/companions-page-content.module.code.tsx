@@ -1,6 +1,5 @@
 "use client"
 
-import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { listPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
@@ -9,6 +8,7 @@ import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types
 import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { useFilterPersistence } from "akasha/design/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
 import { CompanionsDataContent } from "../companions-data-content/companions-data-content.module.code.tsx"

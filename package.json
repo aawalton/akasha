@@ -32,7 +32,6 @@
     "@radix-ui/react-slot": "*",
     "react-dom": "^18 || ^19",
     "@akasha/cluster-manifests": "workspace:*",
-    "@akasha/pages-ui": "workspace:*",
     "sonner": "^2.0.7",
     "@happy-dom/global-registrator": "^20.8.3",
     "@testing-library/react": "^16.3.2",
@@ -87,7 +86,13 @@
     "@fontsource-variable/geist-mono": "5.2.8",
     "tailwindcss": "^4.0",
     "@tanstack/db": "^0.6.14",
-    "vite": "^8.0.3"
+    "vite": "^8.0.3",
+    "@types/mdast": "^4.0.4",
+    "mdast-util-to-hast": "^13.2.1",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "unified": "^11.0.5",
+    "@dnd-kit/utilities": ">=3"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"

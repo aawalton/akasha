@@ -1,10 +1,3 @@
-import { getAvailableRenditions, pickDefaultVariant } from "@akasha/pages-ui/media/media-renditions"
-import {
-  KOKORO_STREAM_LABEL,
-  KOKORO_STREAM_VARIANT,
-  STORED_READ_ALOUD_VARIANT,
-} from "@akasha/pages-ui/media/media-src"
-import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
@@ -13,6 +6,16 @@ import { MEDIA_FORMATS } from "akasha/pages/core/media-formats/media-formats.mod
 import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import {
+  getAvailableRenditions,
+  pickDefaultVariant,
+} from "akasha/pages/ui/media/media-renditions/media-renditions.module.code.ts"
+import {
+  KOKORO_STREAM_LABEL,
+  KOKORO_STREAM_VARIANT,
+  STORED_READ_ALOUD_VARIANT,
+} from "akasha/pages/ui/media/media-src/media-src.module.code.ts"
+import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
 import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { resolveReadAloudSentenceMarks } from "../read-aloud-marks/read-aloud-marks.module.code.ts"
 

@@ -1,11 +1,5 @@
 "use client"
 
-import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
-import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
-import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
-import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { type CreatePageArgs, createPage } from "akasha/pages/access/create/create.module.code.ts"
 import {
   type DeletePageArgs,
@@ -26,6 +20,12 @@ import type {
   ViewEffect,
   ViewRow,
 } from "akasha/pages/core/view-state/view-state-change/view-state-change.module.code.ts"
+import type { ViewCallbacks } from "akasha/pages/ui/mutators/view-callbacks/view-callbacks.module.code.ts"
+import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
+import { useOptimisticDeletePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import { isJson } from "akasha/utils/narrow/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/utils/narrow/json-value/json-value.module.code.ts"

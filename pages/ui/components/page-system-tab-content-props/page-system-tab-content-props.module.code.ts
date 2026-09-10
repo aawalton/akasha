@@ -1,6 +1,3 @@
-import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
-import type { PageTypeOption } from "@akasha/pages-ui/components/view-settings-options"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import type {
@@ -10,6 +7,9 @@ import type {
   VisibilityChange,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import type { ReorderCardsHandler } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageTypeOption } from "akasha/pages/ui/components/view-settings-options/view-settings-options.module.code.ts"
 import type { ReactNode } from "react"
 
 export interface ServerGroupedSection {

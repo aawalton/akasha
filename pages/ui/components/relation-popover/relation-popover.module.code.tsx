@@ -1,7 +1,5 @@
 "use client"
 
-import type { PageResolverValue } from "@akasha/pages-ui/contexts/page-resolver-context"
-import { useRelationPicker } from "@akasha/pages-ui/contexts/relation-picker-context"
 import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
 import {
   Popover,
@@ -9,6 +7,8 @@ import {
   PopoverTrigger,
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/primitives/use-debounced-value/use-debounced-value.module.code.ts"
+import type { PageResolverValue } from "akasha/pages/ui/contexts/page-resolver-context/page-resolver-context.module.code.tsx"
+import { useRelationPicker } from "akasha/pages/ui/contexts/relation-picker-context/relation-picker-context.module.code.tsx"
 import { Plus, X } from "lucide-react"
 import { useMemo, useState } from "react"
 

@@ -1,6 +1,5 @@
 "use client"
 
-import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { formatRelativeTime } from "akasha/design/primitives/format-relative-time/format-relative-time.module.code.ts"
 import {
@@ -19,6 +18,7 @@ import {
   type InstantFormat,
   instantConfigSchema,
 } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
 import { useState } from "react"
 
 function getInstantFormat(definition: PropertyDefinition): InstantFormat {

@@ -1,6 +1,5 @@
 "use client"
 
-import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import {
   Empty,
@@ -14,6 +13,7 @@ import { CardDescription } from "akasha/design/primitives/card/card.module.code.
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
+import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { getBaseRoleName } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/companions-core/companion-types/companion-types.module.code.ts"

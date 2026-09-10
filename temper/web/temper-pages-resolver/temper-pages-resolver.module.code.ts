@@ -1,9 +1,9 @@
 "use client"
 
-import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"

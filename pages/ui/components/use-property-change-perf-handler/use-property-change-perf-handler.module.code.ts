@@ -1,6 +1,6 @@
 "use client"
 
-import { startInteraction } from "@akasha/pages-ui/perf/page-card-perf"
+import { startInteraction } from "akasha/pages/ui/perf/page-card-perf/page-card-perf.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 

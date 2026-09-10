@@ -1,19 +1,5 @@
 "use client"
 
-import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
-import { useReorderViewWiring } from "@akasha/pages-ui/components/use-reorder-view-wiring"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
-import type { PageTypeOption } from "@akasha/pages-ui/components/view-settings-options"
-import {
-  buildRelationBackLinkHref,
-  buildRowHref,
-  readRelationConfig,
-} from "@akasha/pages-ui/components/view-tab-content-href"
-import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { useCompletePageOptimistic } from "@akasha/pages-ui/supabase/use-complete-page-optimistic"
-import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
-import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { parseListingConfig } from "akasha/pages/core/schema/listing-config/listing-config.module.code.ts"
 import {
   isLocked,
@@ -22,6 +8,20 @@ import {
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
 import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import { pageRowToPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import { useReorderViewWiring } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
+import type { PageTypeOption } from "akasha/pages/ui/components/view-settings-options/view-settings-options.module.code.ts"
+import {
+  buildRelationBackLinkHref,
+  buildRowHref,
+  readRelationConfig,
+} from "akasha/pages/ui/components/view-tab-content-href/view-tab-content-href.module.code.ts"
+import { SupabasePageResolverProvider } from "akasha/pages/ui/supabase/page-resolver-provider/page-resolver-provider.module.code.tsx"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import { useCompletePageOptimistic } from "akasha/pages/ui/supabase/use-complete-page-optimistic/use-complete-page-optimistic.module.code.tsx"
+import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
+import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { PageCardRenderer } from "../page-card-renderer/page-card-renderer.module.code.tsx"
 import { PageSystemTabContent } from "../page-system-view/page-system-view.module.code.tsx"

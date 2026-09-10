@@ -1,4 +1,4 @@
-import type { ActiveSessionInit } from "@akasha/pages-ui/media/playing-session"
+import type { ActiveSessionInit } from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
 import { z } from "zod"
 
 const CHAIN_LOADER_SCHEMA = z

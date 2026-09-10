@@ -1,4 +1,4 @@
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 
 type FlatViewResult = {

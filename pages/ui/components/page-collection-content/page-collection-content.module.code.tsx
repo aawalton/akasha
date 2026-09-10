@@ -1,13 +1,5 @@
 "use client"
 
-import { DegradingImage } from "@akasha/pages-ui/components/degrading-image"
-import { toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
-import { PageDetailHeaderMenu } from "@akasha/pages-ui/components/page-detail-header-menu"
-import { PropertyBadge } from "@akasha/pages-ui/components/property-badge"
-import { PagesUILink } from "@akasha/pages-ui/navigation-context"
-import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
-import { useResolvedDefinitions } from "@akasha/pages-ui/supabase/use-option-list-lookup"
-import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import {
   Empty,
@@ -23,6 +15,14 @@ import { useSurface } from "akasha/design/primitives/surface-provider/surface-pr
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import { DegradingImage } from "akasha/pages/ui/components/degrading-image/degrading-image.module.code.tsx"
+import { toPageDataJSON } from "akasha/pages/ui/components/page-data-json/page-data-json.module.code.ts"
+import { PageDetailHeaderMenu } from "akasha/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
+import { PropertyBadge } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import { PagesUILink } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useResolvedDefinitions } from "akasha/pages/ui/supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts"
+import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import {
   type PageTypeSlug,
   toPageTypeSlug,

@@ -1,11 +1,5 @@
 "use client"
 
-import { PagesFilterBar } from "@akasha/pages-ui/components/page-filter-bar"
-import type { PageSystemTabContentProps } from "@akasha/pages-ui/components/page-system-tab-content-props"
-import { CreatePageButton } from "@akasha/pages-ui/components/page-system-view-helpers"
-import { ViewSettingsButton } from "@akasha/pages-ui/components/page-system-view-settings"
-import type { UsePageViewResult } from "@akasha/pages-ui/components/view-engine/use-page-view"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { SearchButton } from "akasha/design/patterns/search-button/search-button.module.code.tsx"
@@ -15,6 +9,12 @@ import type {
   ViewConfig,
   ViewFilter,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { PagesFilterBar } from "akasha/pages/ui/components/page-filter-bar/page-filter-bar.module.code.tsx"
+import type { PageSystemTabContentProps } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import { CreatePageButton } from "akasha/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.code.tsx"
+import { ViewSettingsButton } from "akasha/pages/ui/components/page-system-view-settings/page-system-view-settings.module.code.tsx"
+import type { UsePageViewResult } from "akasha/pages/ui/components/view-engine/use-page-view/use-page-view.module.code.ts"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 
 export interface PageSystemViewHeaderProps

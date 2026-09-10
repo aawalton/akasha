@@ -1,12 +1,12 @@
 "use client"
 
-import { useViewQuery } from "@akasha/pages-ui/cache/use-view-query"
 import type {
   GetPagesForViewArgs,
   GetPagesForViewResult,
 } from "akasha/pages/access/get-for-view/get-for-view.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import { useViewQuery } from "akasha/pages/ui/cache/use-view-query/use-view-query.module.code.ts"
 import type { ShapeDescriptor } from "akasha/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.code.ts"
 
 export type UseViewPagesSupabaseOptions = Omit<GetPagesForViewArgs, "cursor"> & {

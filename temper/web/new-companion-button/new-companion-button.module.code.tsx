@@ -1,9 +1,9 @@
 "use client"
 
-import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
+import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"

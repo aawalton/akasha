@@ -1,6 +1,5 @@
 "use client"
 
-import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { MenuTabsTrigger } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
@@ -19,6 +18,7 @@ import {
 } from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
 import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
+import type { ViewCallbacks } from "akasha/pages/ui/mutators/view-callbacks/view-callbacks.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 
 export const VIEW_FALLBACK_ICON_NAME = "layout-list"

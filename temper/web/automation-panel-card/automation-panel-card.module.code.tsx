@@ -1,9 +1,9 @@
 "use client"
 
-import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/primitives/card/card.module.code.tsx"
 import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
+import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useAutomationSettings } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { AutomationSelect } from "../automation-select/automation-select.module.code.tsx"
 

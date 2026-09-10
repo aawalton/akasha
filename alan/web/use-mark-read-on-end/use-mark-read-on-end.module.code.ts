@@ -1,10 +1,10 @@
 "use client"
 
-import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
-import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
-import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
+import { usePage } from "akasha/pages/ui/supabase/use-page/use-page.module.code.ts"
 import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"

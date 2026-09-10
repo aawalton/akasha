@@ -1,6 +1,6 @@
 "use client"
 
-import { shouldToggleChrome } from "@akasha/pages-ui/components/chrome-toggle-decider"
+import { shouldToggleChrome } from "akasha/pages/ui/components/chrome-toggle-decider/chrome-toggle-decider.module.code.ts"
 import { type MouseEvent as ReactMouseEvent, useEffect, useState } from "react"
 
 export function useChromeToggle(): {

@@ -1,15 +1,3 @@
-import { CreatePageDialog } from "@akasha/pages-ui/components/create-page-dialog"
-import { useActiveQuickAddPageType } from "@akasha/pages-ui/components/quick-add/use-active-quick-add-page-type"
-import { SortableNavs } from "@akasha/pages-ui/components/sortable-navs"
-import { useAppNavItems } from "@akasha/pages-ui/components/use-app-nav-items"
-import { PagesUILinkProvider, PagesUIRouterProvider } from "@akasha/pages-ui/navigation-context"
-import {
-  type CreateSelectOptionEffect,
-  PagesUIOptionCreateProvider,
-} from "@akasha/pages-ui/option-create-context"
-import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
-import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
-import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { signOut } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
 import { AppShell as SharedAppShell } from "akasha/design/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
@@ -22,6 +10,21 @@ import { useSidebarState } from "akasha/design/layout/use-sidebar-state/use-side
 import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { CreatePageDialog } from "akasha/pages/ui/components/create-page-dialog/create-page-dialog.module.code.tsx"
+import { useActiveQuickAddPageType } from "akasha/pages/ui/components/quick-add/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"
+import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
+import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
+import {
+  PagesUILinkProvider,
+  PagesUIRouterProvider,
+} from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
+import {
+  type CreateSelectOptionEffect,
+  PagesUIOptionCreateProvider,
+} from "akasha/pages/ui/option-create-context/option-create-context.module.code.tsx"
+import { useAllPages } from "akasha/pages/ui/supabase/hooks/hooks.module.code.ts"
+import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
+import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { LogIn, LogOut } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useMemo, useState } from "react"
 import { Link, useLocation, useNavigate, useSearchParams } from "react-router"

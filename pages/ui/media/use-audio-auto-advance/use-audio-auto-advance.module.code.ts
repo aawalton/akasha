@@ -1,8 +1,8 @@
 import type {
   PlayingSessionAction,
   PlayingSessionState,
-} from "@akasha/pages-ui/media/playing-session"
-import { parseNextSessionFromLoaderData } from "@akasha/pages-ui/media/playing-session-chain"
+} from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
+import { parseNextSessionFromLoaderData } from "akasha/pages/ui/media/playing-session-chain/playing-session-chain.module.code.ts"
 import { type Dispatch, useEffect, useRef } from "react"
 import type { Location, NavigateFunction, useFetcher } from "react-router"
 

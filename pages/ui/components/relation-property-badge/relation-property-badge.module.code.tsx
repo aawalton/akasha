@@ -1,17 +1,5 @@
 "use client"
 
-import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
-import {
-  getRelationId,
-  type RelationValue,
-  resolveRelationName,
-  resolveRelationVariant,
-} from "@akasha/pages-ui/components/relation-display"
-import { RelationPopover } from "@akasha/pages-ui/components/relation-popover"
-import {
-  type PageResolverValue,
-  usePageResolverOptional,
-} from "@akasha/pages-ui/contexts/page-resolver-context"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
@@ -20,6 +8,18 @@ import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.m
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { relationConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import {
+  getRelationId,
+  type RelationValue,
+  resolveRelationName,
+  resolveRelationVariant,
+} from "akasha/pages/ui/components/relation-display/relation-display.module.code.ts"
+import { RelationPopover } from "akasha/pages/ui/components/relation-popover/relation-popover.module.code.tsx"
+import {
+  type PageResolverValue,
+  usePageResolverOptional,
+} from "akasha/pages/ui/contexts/page-resolver-context/page-resolver-context.module.code.tsx"
 
 function isRelationObject(value: unknown): value is { id: string; title: string } {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return false

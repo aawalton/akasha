@@ -1,9 +1,5 @@
 "use client"
 
-import { deriveShellEmptyState } from "@akasha/pages-ui/components/page-system-shell-helpers"
-import type { ViewTabItem } from "@akasha/pages-ui/components/view-tab-context-menu"
-import { ViewTabs } from "@akasha/pages-ui/components/view-tabs"
-import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import {
@@ -14,6 +10,10 @@ import {
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { deriveShellEmptyState } from "akasha/pages/ui/components/page-system-shell-helpers/page-system-shell-helpers.module.code.ts"
+import type { ViewTabItem } from "akasha/pages/ui/components/view-tab-context-menu/view-tab-context-menu.module.code.tsx"
+import { ViewTabs } from "akasha/pages/ui/components/view-tabs/view-tabs.module.code.tsx"
+import type { ViewCallbacks } from "akasha/pages/ui/mutators/view-callbacks/view-callbacks.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 

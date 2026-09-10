@@ -1,8 +1,8 @@
 import { beforeEach, expect, mock, test } from "bun:test"
 import * as apiFetchModule from "@akasha/alanwalton-web/api-fetch"
 import * as capacitorBridge from "@akasha/alanwalton-web/capacitor-bridge"
-import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { render } from "@testing-library/react"
+import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { act } from "react"
 
 let clearCount = 0

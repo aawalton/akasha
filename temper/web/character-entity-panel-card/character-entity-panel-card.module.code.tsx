@@ -1,4 +1,3 @@
-import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
@@ -9,6 +8,7 @@ import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.cod
 import { CardContent, CardTitle } from "akasha/design/primitives/card/card.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import {

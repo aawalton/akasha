@@ -1,20 +1,5 @@
 "use client"
 
-import {
-  applySectionDrop,
-  computePickerDropZone,
-  dropZoneToAnchor,
-  type PickerDropZone,
-  type PropertyVisibilityOption,
-  type SectionMeasure,
-  sectionsToLists,
-  splitShownSections,
-  type VisibilitySectionArrays,
-} from "@akasha/pages-ui/components/property-visibility-picker-helpers"
-import {
-  PropertyRowGhost,
-  SortablePropertyRow,
-} from "@akasha/pages-ui/components/property-visibility-picker-rows"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,
@@ -33,6 +18,21 @@ import type {
   PropertyVisibilityMode,
   VisibilityChange,
 } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import {
+  applySectionDrop,
+  computePickerDropZone,
+  dropZoneToAnchor,
+  type PickerDropZone,
+  type PropertyVisibilityOption,
+  type SectionMeasure,
+  sectionsToLists,
+  splitShownSections,
+  type VisibilitySectionArrays,
+} from "akasha/pages/ui/components/property-visibility-picker-helpers/property-visibility-picker-helpers.module.code.ts"
+import {
+  PropertyRowGhost,
+  SortablePropertyRow,
+} from "akasha/pages/ui/components/property-visibility-picker-rows/property-visibility-picker-rows.module.code.tsx"
 import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from "react"
 

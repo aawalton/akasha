@@ -1,6 +1,5 @@
 "use client"
 
-import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { COLUMN_WIDTH } from "akasha/design/layout/layout-data/layout-data.module.code.ts"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
@@ -15,6 +14,7 @@ import {
   TabsList,
 } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"

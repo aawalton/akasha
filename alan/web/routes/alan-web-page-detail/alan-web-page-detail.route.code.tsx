@@ -1,6 +1,6 @@
-import { PageDetailContent } from "@akasha/pages-ui/components/page-detail-content"
-import { ViewPageContent } from "@akasha/pages-ui/components/view-page-content"
-import { ViewPageFrame } from "@akasha/pages-ui/components/view-page-frame"
+import { PageDetailContent } from "akasha/pages/ui/components/page-detail-content/page-detail-content.module.code.tsx"
+import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
+import { ViewPageFrame } from "akasha/pages/ui/components/view-page-frame/view-page-frame.module.code.tsx"
 import {
   DISPLAY_PARAM,
   parseDisplayMode,

@@ -1,21 +1,24 @@
 "use client"
 
-import { clampFraction, fractionToScrollTop } from "@akasha/pages-ui/components/position-fraction"
+import { useWindowVirtualizer } from "@tanstack/react-virtual"
+import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import {
+  clampFraction,
+  fractionToScrollTop,
+} from "akasha/pages/ui/components/position-fraction/position-fraction.module.code.ts"
 import {
   blockPositionForFraction,
   buildProseCharTable,
   fractionForBlockPosition,
-} from "@akasha/pages-ui/components/reader-char-table"
+} from "akasha/pages/ui/components/reader-char-table/reader-char-table.module.code.ts"
 import {
   estimateProseBlockHeight,
   type ProseBlock,
   parseProseBlocks,
   proseBlockSource,
-} from "@akasha/pages-ui/components/reader-prose"
-import { ProseBlockView } from "@akasha/pages-ui/components/reader-prose-block"
-import type { BlockSentenceLayout } from "@akasha/pages-ui/components/reader-sentence-layout"
-import { useWindowVirtualizer } from "@tanstack/react-virtual"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+} from "akasha/pages/ui/components/reader-prose/reader-prose.module.code.ts"
+import { ProseBlockView } from "akasha/pages/ui/components/reader-prose-block/reader-prose-block.module.code.tsx"
+import type { BlockSentenceLayout } from "akasha/pages/ui/components/reader-sentence-layout/reader-sentence-layout.module.code.ts"
 import { memo, type RefObject, useImperativeHandle, useMemo, useRef } from "react"
 
 export interface ReaderPositionAnchor {

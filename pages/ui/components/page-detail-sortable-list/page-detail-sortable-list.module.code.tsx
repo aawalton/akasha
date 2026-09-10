@@ -1,6 +1,5 @@
 "use client"
 
-import { type DropZoneInfo, findDropZone } from "@akasha/pages-ui/components/drop-zones"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,
@@ -13,6 +12,10 @@ import {
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import {
+  type DropZoneInfo,
+  findDropZone,
+} from "akasha/pages/ui/components/drop-zones/drop-zones.module.code.ts"
 import { GripVertical } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 

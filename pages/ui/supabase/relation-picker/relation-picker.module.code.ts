@@ -1,15 +1,15 @@
 "use client"
 
-import { useQuery } from "@akasha/pages-ui/cache/use-query"
-import {
-  type PageWithProperties,
-  toPageWithProperties,
-} from "@akasha/pages-ui/supabase/page-with-properties"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type {
   PageCondition,
   PageWhere,
 } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { useQuery } from "akasha/pages/ui/cache/use-query/use-query.module.code.ts"
+import {
+  type PageWithProperties,
+  toPageWithProperties,
+} from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo } from "react"
 
 interface RelationPickerArgs {

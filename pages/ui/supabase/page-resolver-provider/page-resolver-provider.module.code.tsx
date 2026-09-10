@@ -1,18 +1,18 @@
 "use client"
 
-import { buildPageResolver } from "@akasha/pages-ui/components/view-engine/build-page-resolver"
+import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/page-type-inheritance/page-type-inheritance.module.code.ts"
+import { buildPageResolver } from "akasha/pages/ui/components/view-engine/build-page-resolver/build-page-resolver.module.code.ts"
 import {
   PageResolverProvider,
   type PageResolverValue,
-} from "@akasha/pages-ui/contexts/page-resolver-context"
+} from "akasha/pages/ui/contexts/page-resolver-context/page-resolver-context.module.code.tsx"
 import {
   type RelationPickerArgs,
   RelationPickerProvider,
   type RelationPickerResult,
-} from "@akasha/pages-ui/contexts/relation-picker-context"
-import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import { usePaginatedRelationPicker } from "@akasha/pages-ui/supabase/relation-picker"
-import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/page-type-inheritance/page-type-inheritance.module.code.ts"
+} from "akasha/pages/ui/contexts/relation-picker-context/relation-picker-context.module.code.tsx"
+import type { PageWithProperties } from "akasha/pages/ui/supabase/page-with-properties/page-with-properties.module.code.ts"
+import { usePaginatedRelationPicker } from "akasha/pages/ui/supabase/relation-picker/relation-picker.module.code.ts"
 import { createContext, useCallback, useContext, useMemo } from "react"
 
 interface SupabasePageResolverProviderProps {

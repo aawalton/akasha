@@ -1,5 +1,3 @@
-import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
-import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
 import {
   getRequestServerClient,
   resolveRequestSession,
@@ -20,6 +18,8 @@ import {
   getPropertyDefinitions,
   getSequenceConfig,
 } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import type { ReaderNeighborLink } from "akasha/pages/ui/components/reader-chrome/reader-chrome.module.code.tsx"
+import type { MediaVariant } from "akasha/pages/ui/media/page-media-player/page-media-player.module.code.tsx"
 import {
   buildPageHref,
   parsePageHrefParam,

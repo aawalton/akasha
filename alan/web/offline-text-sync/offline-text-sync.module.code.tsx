@@ -1,10 +1,6 @@
 "use client"
 
 import {
-  POSITION_WRITE_EVENT,
-  parsePositionWriteDetail,
-} from "@akasha/pages-ui/components/position-write-event"
-import {
   selectReadAheadChapterIds,
   selectUnreadChapters,
 } from "akasha/alan/library/reading/chapter-choosing/chapter-choosing.module.code.ts"
@@ -16,6 +12,10 @@ import {
   writeChapterPosition,
 } from "akasha/alan/library/reading/offline-reading/offline-reading.module.code.ts"
 import { loadStoryCatalog } from "akasha/alan/library/reading/story-catalog/story-catalog.module.code.ts"
+import {
+  POSITION_WRITE_EVENT,
+  parsePositionWriteDetail,
+} from "akasha/pages/ui/components/position-write-event/position-write-event.module.code.ts"
 import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 import { useEffect, useRef } from "react"
 import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"

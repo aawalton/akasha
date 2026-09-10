@@ -1,9 +1,12 @@
 "use client"
 
-import type { MentionResolver, MentionType } from "@akasha/pages-ui/markdown/remark-mentions"
-import { isMentionType } from "@akasha/pages-ui/markdown/remark-mentions"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
+import type {
+  MentionResolver,
+  MentionType,
+} from "akasha/pages/ui/markdown/remark-mentions/remark-mentions.module.code.ts"
+import { isMentionType } from "akasha/pages/ui/markdown/remark-mentions/remark-mentions.module.code.ts"
 
 const VARIANT_BY_MENTION_TYPE: Record<MentionType, "accent" | "green" | "blue"> = {
   page: "accent",

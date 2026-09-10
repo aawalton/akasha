@@ -1,6 +1,6 @@
 import { beforeEach, expect, mock, test } from "bun:test"
-import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { render } from "@testing-library/react"
+import { UserIdContext } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { act, useContext, useEffect } from "react"
 
 process.env.BASE_URL = "/"
@@ -38,7 +38,9 @@ mock.module(
   })
 )
 
-const appVersionCheck = await import("@akasha/pages-ui/app-version/use-app-version-check")
+const appVersionCheck = await import(
+  "akasha/pages/ui/app-version/use-app-version-check/use-app-version-check.module.code.ts"
+)
 mock.module("@akasha/pages-ui/app-version/use-app-version-check", () => ({
   ...appVersionCheck,
   useAppVersionCheck: () => undefined,

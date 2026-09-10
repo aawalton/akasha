@@ -1,6 +1,5 @@
 "use client"
 
-import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   Select,
@@ -9,6 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import type { MoveToDestination } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"

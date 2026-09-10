@@ -1,6 +1,5 @@
 "use client"
 
-import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
 import {
   DndContext,
   type DragEndEvent,
@@ -26,6 +25,7 @@ import {
   type GalleryCardSize,
   galleryCardMinWidth,
 } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import type { ReorderCardsHandler } from "akasha/pages/ui/components/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
 import { type ReactNode, useEffect, useMemo, useRef, useState } from "react"
 
 interface SortableCardCollectionProps<T> {

@@ -1,8 +1,5 @@
 "use client"
 
-import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
-import { PageTimeline } from "@akasha/pages-ui/components/page-timeline"
-import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import {
   Empty,
   EmptyDescription,
@@ -19,6 +16,9 @@ import {
   getDefaultGroupSorts,
   sortGroupedResults,
 } from "akasha/pages/core/view/apply-grouping-sort/apply-grouping-sort.module.code.ts"
+import type { ServerGroupedSection } from "akasha/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"
+import { PageTimeline } from "akasha/pages/ui/components/page-timeline/page-timeline.module.code.tsx"
+import type { PageRow } from "akasha/pages/ui/components/view-engine/view-row/view-row.module.code.ts"
 import { Plus } from "lucide-react"
 import type { ReactNode } from "react"
 

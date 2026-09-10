@@ -1,17 +1,5 @@
 "use client"
 
-import { PageTableColGroup } from "@akasha/pages-ui/components/page-table-colgroup"
-import {
-  applyColumnDrop,
-  type ColumnDropZone,
-  type ColumnRectMeasure,
-  computeColumnDropZone,
-} from "@akasha/pages-ui/components/page-table-column-dnd-helpers"
-import {
-  ACTIONS_COLUMN_PX,
-  type PageTableColumn,
-} from "@akasha/pages-ui/components/page-table-shared"
-import { tableMinWidthPx } from "@akasha/pages-ui/components/page-table-widths"
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core"
 import {
   DndContext,
@@ -30,6 +18,18 @@ import {
   TableHeader,
   TableRow,
 } from "akasha/design/primitives/table/table.module.code.tsx"
+import { PageTableColGroup } from "akasha/pages/ui/components/page-table-colgroup/page-table-colgroup.module.code.tsx"
+import {
+  applyColumnDrop,
+  type ColumnDropZone,
+  type ColumnRectMeasure,
+  computeColumnDropZone,
+} from "akasha/pages/ui/components/page-table-column-dnd-helpers/page-table-column-dnd-helpers.module.code.ts"
+import {
+  ACTIONS_COLUMN_PX,
+  type PageTableColumn,
+} from "akasha/pages/ui/components/page-table-shared/page-table-shared.module.code.ts"
+import { tableMinWidthPx } from "akasha/pages/ui/components/page-table-widths/page-table-widths.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 interface SortableColumnHeaderProps {

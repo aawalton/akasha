@@ -1,12 +1,6 @@
 "use client"
 
 import {
-  getActionVerb,
-  getActionVerbPresentation,
-} from "@akasha/pages-ui/action-verbs/action-verb-registry"
-import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
-import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
-import {
   BadgeLayoutProvider,
   useBadgeLayoutContext,
 } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
@@ -14,6 +8,12 @@ import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.modu
 import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { actionButtonConfigSchema } from "akasha/pages/core/schema/action-button-config/action-button-config.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import {
+  getActionVerb,
+  getActionVerbPresentation,
+} from "akasha/pages/ui/action-verbs/action-verb-registry/action-verb-registry.module.code.ts"
+import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"
+import { useSetPropertyOptimistic } from "akasha/pages/ui/supabase/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { type MouseEvent, useEffect } from "react"
 
 export function ActionButtonPropertyBadge({

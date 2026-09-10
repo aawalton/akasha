@@ -1,9 +1,9 @@
-import { shouldSeekInPlace } from "@akasha/pages-ui/media/play-from-sentence"
+import { shouldSeekInPlace } from "akasha/pages/ui/media/play-from-sentence/play-from-sentence.module.code.ts"
 import type {
   ActiveSessionInit,
   PlayingSessionAction,
   PlayingSessionState,
-} from "@akasha/pages-ui/media/playing-session"
+} from "akasha/pages/ui/media/playing-session/playing-session.module.code.ts"
 import { type Dispatch, type RefObject, useCallback, useRef } from "react"
 
 export function useAudioSeekAndPlay(

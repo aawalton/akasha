@@ -1,6 +1,5 @@
 "use client"
 
-import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import {
@@ -16,6 +15,7 @@ import {
   TableTotalCell,
   TableValue,
 } from "akasha/design/primitives/table/table.module.code.tsx"
+import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import {
   type ComboRankingsMap,
