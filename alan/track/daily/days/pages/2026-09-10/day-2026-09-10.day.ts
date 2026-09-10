@@ -10,7 +10,7 @@ export const day20260910 = {
   version: "3.0",
   wisdomWords: 0,
   intelligenceTopics: 0,
-  inboxTasks: 9,
+  inboxTasks: 8,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 17,
   inboxTemperTasksClearedToday: false,
