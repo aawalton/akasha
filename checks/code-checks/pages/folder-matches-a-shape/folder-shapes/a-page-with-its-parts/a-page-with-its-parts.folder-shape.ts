@@ -49,8 +49,11 @@ export const aPageWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A subfolder named `sections` is a part of that page, and `sections-of-the-book-above` judges it.",
+      statement: "A subfolder named `sections` is a part of that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`sections-of-the-book-above` judges a subfolder named `sections`.",
     },
     {
       invariantKind: "departure",

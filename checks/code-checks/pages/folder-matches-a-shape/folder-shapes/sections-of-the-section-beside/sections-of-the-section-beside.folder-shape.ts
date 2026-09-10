@@ -32,7 +32,7 @@ export const sectionsOfTheSectionBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "That name is an address of the page type, then the book, then the section.",
+      statement: "That name is an address of the page type and then the book and then the section.",
     },
     {
       invariantKind: "departure",

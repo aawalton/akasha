@@ -12,7 +12,7 @@ export const theWorkspaceRoot = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder is the one every other folder in the workspace sits under.",
+      statement: "The folder is the folder every other folder in the workspace sits under.",
     },
     {
       invariantKind: "departure",

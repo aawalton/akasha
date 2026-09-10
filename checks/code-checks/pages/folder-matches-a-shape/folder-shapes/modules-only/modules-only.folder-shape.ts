@@ -12,7 +12,7 @@ export const modulesOnly = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder is named `modules`, or `.server` for what a server alone runs.",
+      statement: "The folder is named `modules` or `.server`.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +20,7 @@ export const modulesOnly = {
     },
     {
       invariantKind: "departure",
-      statement: "No page claims that name, a slug being lower kebab case.",
+      statement: "No page claims that name.",
     },
     {
       invariantKind: "departure",
