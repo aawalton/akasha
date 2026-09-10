@@ -8,7 +8,7 @@ import {
   scratch,
   staged,
 } from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
-import { checkReachesAPathThroughTheIndex } from "./check-reaches-a-path-through-the-index.code-check.code.ts"
+import { checkReachesAPathThroughTheIndex } from "./check-reaches-a-path-through-the-index.code-check.check.code.ts"
 
 afterAll(scratch.sweep)
 
