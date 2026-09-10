@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const practicingMindfulnessAnIntroductionToMeditation = {
   id: "019db533-f3a0-7830-ab51-84b2b97413be",

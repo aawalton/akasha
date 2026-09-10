@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theWorldOfBeerTastesOfHistoryScienceAndCulture = {
   id: "019db533-f39f-76f6-928f-c02826ba366d",

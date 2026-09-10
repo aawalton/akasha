@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const solderingSuccessInEveryScenario = {
   id: "019db533-f39e-75fa-a477-7d0bc6f9e2f4",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theHistoryOfChristianityIiFromTheReformationToTheModernMega = {
   id: "019db533-f3a0-7013-99a7-a0d136c4b1bf",

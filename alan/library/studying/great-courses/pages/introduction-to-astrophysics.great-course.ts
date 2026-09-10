@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const introductionToAstrophysics = {
   id: "019db533-f39e-7f4d-ac81-921a7828df8f",

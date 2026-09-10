@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theRiseOfModernJapan = {
   id: "019db533-f39f-7c90-a11b-d70074a5d14a",

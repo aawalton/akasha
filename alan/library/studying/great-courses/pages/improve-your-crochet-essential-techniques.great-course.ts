@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const improveYourCrochetEssentialTechniques = {
   id: "019db533-f39e-7574-98b5-5fa49c386a45",

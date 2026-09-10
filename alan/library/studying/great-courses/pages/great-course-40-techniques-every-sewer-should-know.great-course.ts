@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const greatCourse40TechniquesEverySewerShouldKnow = {
   id: "019db533-f39e-7794-8e00-c3baf3824ade",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const cookingAcrossTheAges = {
   id: "019db533-f39f-7a1e-8c5c-ae144817e45e",

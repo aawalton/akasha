@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingTheOldTestament = {
   id: "019db533-f39e-7b97-93a0-e09d1a9f80eb",

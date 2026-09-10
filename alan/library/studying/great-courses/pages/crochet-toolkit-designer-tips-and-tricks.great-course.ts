@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const crochetToolkitDesignerTipsAndTricks = {
   id: "019db533-f39e-7694-88d1-709d48f167da",

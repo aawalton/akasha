@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureUnderwaterArchaeologyTheNorthAmericanGreatLakes = {
   id: "019db533-f39e-7c4c-b283-8e1c6589615c",

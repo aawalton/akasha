@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howYouDecideTheScienceOfHumanDecisionMaking = {
   id: "019db533-f39e-7cc5-9ea5-43896df8456a",

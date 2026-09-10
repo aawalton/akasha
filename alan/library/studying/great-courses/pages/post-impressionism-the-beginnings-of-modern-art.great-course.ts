@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const postImpressionismTheBeginningsOfModernArt = {
   id: "019db533-f39f-7537-a877-64698ad015cd",

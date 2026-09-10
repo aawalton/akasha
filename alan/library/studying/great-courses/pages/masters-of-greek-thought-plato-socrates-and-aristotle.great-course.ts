@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const mastersOfGreekThoughtPlatoSocratesAndAristotle = {
   id: "019db533-f39e-7a8c-94f7-e5a2843650f7",

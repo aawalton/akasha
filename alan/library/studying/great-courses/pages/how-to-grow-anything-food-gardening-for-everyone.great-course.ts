@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howToGrowAnythingFoodGardeningForEveryone = {
   id: "019db533-f39f-7988-be0d-bd3ce595ab2f",

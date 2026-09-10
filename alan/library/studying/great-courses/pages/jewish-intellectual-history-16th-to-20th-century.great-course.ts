@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const jewishIntellectualHistory16thTo20thCentury = {
   id: "019db533-f3a0-735e-8368-87d14b866ca2",

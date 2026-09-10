@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const artisanBreadMaking = {
   id: "019db533-f39f-7b13-8f9a-e4fbbfc910b9",

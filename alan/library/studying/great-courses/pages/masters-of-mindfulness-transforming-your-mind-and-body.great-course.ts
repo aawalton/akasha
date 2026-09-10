@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const mastersOfMindfulnessTransformingYourMindAndBody = {
   id: "019db533-f3a0-787b-95f0-d256c29cd94d",

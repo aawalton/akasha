@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const handEmbroidery = {
   id: "019db533-f39e-7746-b5e4-30a18a126c38",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const greatUtopianAndDystopianWorksOfLiterature = {
   id: "019db533-f39e-79d2-a55a-b9244333e2ff",

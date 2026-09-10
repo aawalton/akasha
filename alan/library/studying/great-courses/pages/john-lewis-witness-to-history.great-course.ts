@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const johnLewisWitnessToHistory = {
   id: "019db533-f3a0-70ea-b306-6ff7bf727d4d",

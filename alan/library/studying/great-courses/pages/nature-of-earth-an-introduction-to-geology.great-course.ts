@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const natureOfEarthAnIntroductionToGeology = {
   id: "019db533-f39e-7c54-a276-342ceeb5f794",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const amigurumiWoodlandAnimals = {
   id: "019db533-f39e-768c-a22b-b8ac0d8b25df",

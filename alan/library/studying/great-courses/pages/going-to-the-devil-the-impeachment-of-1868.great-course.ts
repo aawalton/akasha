@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const goingToTheDevilTheImpeachmentOf1868 = {
   id: "019db533-f3a0-713b-aca5-8316101ee7cc",

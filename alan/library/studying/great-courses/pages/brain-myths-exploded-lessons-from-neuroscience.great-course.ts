@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const brainMythsExplodedLessonsFromNeuroscience = {
   id: "019db533-f39f-708a-b0e5-8a6d4badbb8a",

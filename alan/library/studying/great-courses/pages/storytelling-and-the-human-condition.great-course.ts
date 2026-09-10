@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const storytellingAndTheHumanCondition = {
   id: "019db533-f39e-7855-ad25-0ee5d4f0b5b0",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theAgencyAHistoryOfTheCia = {
   id: "019db533-f3a0-710d-bed5-6839d7bedab6",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const academyOfHopeTakingOnAmericaSAdultEducationProblem = {
   id: "019db533-f39e-751e-9906-dfe0bbb55d20",

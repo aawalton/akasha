@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theWorldSGreatestGeologicalWonders = {
   id: "019db533-f39f-73a6-964c-cf9a3996f535",

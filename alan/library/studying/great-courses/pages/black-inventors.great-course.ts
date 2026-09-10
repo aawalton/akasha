@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const blackInventors = {
   id: "019db533-f3a0-74ff-82df-7bb550784d87",

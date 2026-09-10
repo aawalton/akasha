@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const learningJapaneseAGatewayIntoCulture = {
   id: "019db533-f39f-750d-b24d-c707924c4fb1",

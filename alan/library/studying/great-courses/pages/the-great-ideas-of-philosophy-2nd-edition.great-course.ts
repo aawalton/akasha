@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theGreatIdeasOfPhilosophy2ndEdition = {
   id: "019db533-f39e-7b8f-a752-c2e889e653b2",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theEvolutionOfAmericanFederalism = {
   id: "019db533-f39f-7792-8d80-c02fe19e233b",

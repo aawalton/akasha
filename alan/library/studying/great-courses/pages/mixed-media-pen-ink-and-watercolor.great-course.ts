@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const mixedMediaPenInkAndWatercolor = {
   id: "019db533-f39f-7576-8aa1-e0e5a6c75070",

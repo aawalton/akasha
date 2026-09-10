@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theWorldWasNeverTheSameEventsThatChangedHistory = {
   id: "019db533-f3a0-7087-80c8-7cee7a7403e5",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const monstersWithin = {
   id: "019db533-f39f-78b3-b304-b2f44f476574",

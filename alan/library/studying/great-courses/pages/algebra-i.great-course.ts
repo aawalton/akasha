@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const algebraI = {
   id: "019db533-f3a0-749f-9bac-63eacc66429c",

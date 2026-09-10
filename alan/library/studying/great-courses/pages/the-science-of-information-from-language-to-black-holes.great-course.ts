@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theScienceOfInformationFromLanguageToBlackHoles = {
   id: "019db533-f39e-7ba9-87dc-2a3beacf94dc",

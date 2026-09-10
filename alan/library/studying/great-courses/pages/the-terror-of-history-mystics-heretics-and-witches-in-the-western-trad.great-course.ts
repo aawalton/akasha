@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theTerrorOfHistoryMysticsHereticsAndWitchesInTheWesternTrad = {
   id: "019db533-f387-7f83-bff2-1787458b9dc9",

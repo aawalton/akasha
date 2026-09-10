@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const privacyPropertyAndFreeSpeechLawAndTheConstitution = {
   id: "019db533-f3a0-7136-af78-6c615f35ca7f",

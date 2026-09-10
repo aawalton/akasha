@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const darkMatterDarkEnergyTheDarkSideOfTheUniverse = {
   id: "019db533-f39f-70bf-b694-00e02f724f1d",

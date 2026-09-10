@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const playingGuitarLikeAProLeadSoloAndGroupPerformance = {
   id: "019db533-f3a0-7288-b1f9-50806231f0d3",

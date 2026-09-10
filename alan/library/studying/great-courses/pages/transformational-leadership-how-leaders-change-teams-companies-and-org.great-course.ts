@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const transformationalLeadershipHowLeadersChangeTeamsCompaniesAndOrg = {
   id: "019db533-f39e-7301-9f63-c1082b57497e",

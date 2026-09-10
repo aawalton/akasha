@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const airFryerEssentials = {
   id: "019db533-f398-73fe-977f-d16feccbc07d",

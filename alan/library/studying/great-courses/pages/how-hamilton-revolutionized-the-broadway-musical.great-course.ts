@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howHamiltonRevolutionizedTheBroadwayMusical = {
   id: "019db533-f3a0-7350-bd3e-dfcf0b7f536a",

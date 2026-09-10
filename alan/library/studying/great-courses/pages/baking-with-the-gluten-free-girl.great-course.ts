@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const bakingWithTheGlutenFreeGirl = {
   id: "019db533-f398-73d9-900e-cc0c24e91ed5",

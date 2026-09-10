@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const meaningOfLifePerspectivesFromTheWorldSGreatIntellectualTradi = {
   id: "019db533-f39e-7c88-b536-041ade4d1d2c",

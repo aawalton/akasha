@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const crochetInTheRoundBasicsAndBeyond = {
   id: "019db533-f39e-77c4-a768-8cef51a4b381",

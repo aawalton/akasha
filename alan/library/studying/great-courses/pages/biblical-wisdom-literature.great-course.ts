@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const biblicalWisdomLiterature = {
   id: "019db533-f39e-7aca-b9d8-2eb4fb60f78e",

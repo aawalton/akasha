@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const dutchMastersTheAgeOfRembrandt = {
   id: "019db533-f39f-7680-84b1-400c5827b97c",

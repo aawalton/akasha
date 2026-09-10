@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const outsmartYourselfBrainBasedStrategiesToABetterYou = {
   id: "019db533-f3a0-7767-b9d3-b312481dbd46",

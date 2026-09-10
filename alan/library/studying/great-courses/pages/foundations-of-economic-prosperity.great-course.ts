@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const foundationsOfEconomicProsperity = {
   id: "019db533-f39e-74f1-b127-76f1a94a4024",

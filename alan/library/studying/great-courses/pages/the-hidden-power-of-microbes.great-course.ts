@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theHiddenPowerOfMicrobes = {
   id: "019db533-f39e-7be5-ab1d-ba5681f117ba",

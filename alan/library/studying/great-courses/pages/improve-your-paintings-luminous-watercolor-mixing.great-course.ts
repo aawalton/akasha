@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const improveYourPaintingsLuminousWatercolorMixing = {
   id: "019db533-f39f-7561-ad29-232a5f53ce88",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const showStoppingMakeAheadDesserts = {
   id: "019db533-f39f-795d-9f86-9f373c96f769",

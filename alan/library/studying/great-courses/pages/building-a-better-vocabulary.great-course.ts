@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const buildingABetterVocabulary = {
   id: "019db533-f39e-78d6-bee3-6578e8ed08b6",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const fightingMisinformationDigitalMediaLiteracy = {
   id: "019db533-f39e-749a-a215-a85b34ea485f",

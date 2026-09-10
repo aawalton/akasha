@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const epigeneticsHowEnvironmentChangesYourBiology = {
   id: "019db533-f39f-733c-aa9d-289327b64213",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureTheMythOfPrometheusAndPandora = {
   id: "019db533-f39f-797d-a4dd-8c2b268db9b2",

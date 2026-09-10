@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const coloredPencilBasics = {
   id: "019db533-f39f-768b-9e18-92f7216f9b1d",

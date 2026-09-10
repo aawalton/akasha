@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const forgottenWarTheLastingLegacyOfWorldWarI = {
   id: "019db533-f39f-79be-ad80-94d7ef6f3f14",

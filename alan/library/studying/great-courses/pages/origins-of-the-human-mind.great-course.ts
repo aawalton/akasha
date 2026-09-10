@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const originsOfTheHumanMind = {
   id: "019db533-f39f-7011-ae84-765c07145673",

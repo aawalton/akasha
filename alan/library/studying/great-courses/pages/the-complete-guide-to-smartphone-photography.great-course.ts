@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theCompleteGuideToSmartphonePhotography = {
   id: "019db533-f39e-76c3-9bd3-f6fe4fcae9eb",

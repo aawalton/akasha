@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theInklingsCSLewisJRRTolkienAndTheirCircle = {
   id: "01a06578-671b-7000-8012-dbae1c03265d",

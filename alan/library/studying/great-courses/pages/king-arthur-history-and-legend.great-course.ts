@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const kingArthurHistoryAndLegend = {
   id: "019db533-f3a0-7349-8468-f2a44d6c7b1a",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const mysticalTraditionJudaismChristianityIslam = {
   id: "019db533-f388-7034-a44e-9477938ee651",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const englandThe1960sAndTheTriumphOfTheBeatles = {
   id: "019db533-f3a0-74b9-8e03-a38dc656c311",

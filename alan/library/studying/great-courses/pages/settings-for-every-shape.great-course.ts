@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const settingsForEveryShape = {
   id: "019db533-f39e-7636-bb7e-f93d53209be0",

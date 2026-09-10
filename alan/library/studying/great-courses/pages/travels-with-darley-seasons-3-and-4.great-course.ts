@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const travelsWithDarleySeasons3And4 = {
   id: "019db533-f39f-7391-ae3c-30b2d06d94ff",

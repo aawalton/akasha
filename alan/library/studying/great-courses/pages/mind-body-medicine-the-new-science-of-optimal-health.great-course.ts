@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const mindBodyMedicineTheNewScienceOfOptimalHealth = {
   id: "019db533-f3a0-7787-8e1b-18a115077e48",

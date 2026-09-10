@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const historySGreatestVoyagesOfExploration = {
   id: "019db533-f3a0-73a8-b072-9bfc942a0a19",

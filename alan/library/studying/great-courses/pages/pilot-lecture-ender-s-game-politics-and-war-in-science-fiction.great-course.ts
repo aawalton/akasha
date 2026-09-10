@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureEnderSGamePoliticsAndWarInScienceFiction = {
   id: "019db533-f3a0-72bf-8c19-d2639e67f14d",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theoryOfEvolutionAHistoryOfControversy = {
   id: "019db533-f39e-7bb8-a877-1e8c8eba7cca",

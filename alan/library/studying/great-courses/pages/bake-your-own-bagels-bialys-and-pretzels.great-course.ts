@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const bakeYourOwnBagelsBialysAndPretzels = {
   id: "019db533-f39f-7b08-a2e8-fa4f09ab801c",

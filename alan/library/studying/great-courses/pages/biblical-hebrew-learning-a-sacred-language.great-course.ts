@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const biblicalHebrewLearningASacredLanguage = {
   id: "019db533-f3a0-7167-8ccc-e9d2e0a90d0b",

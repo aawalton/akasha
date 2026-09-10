@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const raisingEmotionallyAndSociallyHealthyKids = {
   id: "019db533-f39e-7c27-969c-9db498b5b588",

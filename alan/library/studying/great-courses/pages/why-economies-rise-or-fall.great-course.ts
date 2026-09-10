@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const whyEconomiesRiseOrFall = {
   id: "019db533-f39e-7311-a024-18d705298dc0",

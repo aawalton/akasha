@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const englandFromTheFallOfRomeToTheNormanConquest = {
   id: "019db533-f3a0-714f-8e4e-eff718023b65",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const greeceRomeAndTheBirthOfWesternPhilosophy = {
   id: "019db533-f398-73a1-be3a-11abd5a61343",

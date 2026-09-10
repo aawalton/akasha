@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const natureInWatercolorPaintingTrees = {
   id: "019db533-f398-7376-8d64-deb766fd64f5",

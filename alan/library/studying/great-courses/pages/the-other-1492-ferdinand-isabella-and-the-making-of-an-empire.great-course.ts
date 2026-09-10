@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theOther1492FerdinandIsabellaAndTheMakingOfAnEmpire = {
   id: "019db533-f387-7f59-a3d5-ff5cd0286daf",

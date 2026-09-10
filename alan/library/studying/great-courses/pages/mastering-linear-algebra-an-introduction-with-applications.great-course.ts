@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const masteringLinearAlgebraAnIntroductionWithApplications = {
   id: "019db533-f3a0-72b8-813f-c5b80915a220",

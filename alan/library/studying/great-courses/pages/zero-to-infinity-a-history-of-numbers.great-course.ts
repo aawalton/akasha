@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const zeroToInfinityAHistoryOfNumbers = {
   id: "019db533-f3a0-74f4-8746-d3bd24d2f90d",

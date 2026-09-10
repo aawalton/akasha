@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const changingBodyCompositionThroughDietAndExercise = {
   id: "019db533-f3a0-794e-9d67-1cd4e99c34c1",

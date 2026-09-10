@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const communismInPowerFromStalinToMao = {
   id: "019db533-f3a0-753f-82b2-0b08922096bf",

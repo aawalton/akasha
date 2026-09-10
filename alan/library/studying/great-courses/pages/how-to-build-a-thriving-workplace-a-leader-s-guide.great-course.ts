@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howToBuildAThrivingWorkplaceALeaderSGuide = {
   id: "019db533-f39e-75b3-8d21-5a53b413e947",

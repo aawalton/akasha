@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theEarlyMiddleAges = {
   id: "019db533-f39f-7e2e-b5cd-27f7d0bf5bfb",

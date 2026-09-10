@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const worldHeritageSitesIi12MoreOfTheWorldSGreatestPlaces = {
   id: "019db533-f39f-739b-bd7d-76f6b93b99ad",

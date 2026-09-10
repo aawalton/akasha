@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const radioAstronomyObservingTheInvisibleUniverse = {
   id: "019db533-f39e-7e83-85e5-aaeb2f0ce87d",

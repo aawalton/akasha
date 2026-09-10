@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howToBreakTheHabitOfSelfDoubtAndBuildRealConfidence = {
   id: "019db533-f39e-770f-9114-29aec435f60e",

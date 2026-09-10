@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const trueCrimeDecodingTheEvidence = {
   id: "019db533-f39f-7fc2-8b95-5bca54e52a62",

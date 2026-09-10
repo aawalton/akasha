@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const greatPharaohsOfAncientEgypt = {
   id: "019db533-f3a0-7188-b214-31f28e7b4766",

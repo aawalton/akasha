@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const africaSCulinaryDiasporaInTheAmericas = {
   id: "019db533-f39f-7b1e-b3ca-05d516f1cfe4",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const illustratedNatureJournaling = {
   id: "019db533-f39f-762a-b341-7d91b125f919",

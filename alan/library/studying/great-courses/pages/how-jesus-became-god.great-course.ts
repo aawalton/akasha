@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howJesusBecameGod = {
   id: "019db533-f39f-7868-9f07-058dbefd6895",

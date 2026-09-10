@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const museumMasterpiecesTheLouvre = {
   id: "019db533-f39f-7542-b179-3555e41c6f1f",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theSkepticSGuideToAmericanHistory = {
   id: "019db533-f3a0-7273-a078-b1914b4a3346",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureTheHagiaSophiaAndTheBlueMosque = {
   id: "019db533-f3a0-7108-a015-890aac3f369f",

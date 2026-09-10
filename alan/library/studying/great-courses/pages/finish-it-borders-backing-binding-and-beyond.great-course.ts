@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const finishItBordersBackingBindingAndBeyond = {
   id: "019db533-f39e-776c-9d28-d9a503cbb1f2",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingAndApplyingSelfDefenseStrategies = {
   id: "019db533-f3a0-7634-b010-8754c88b1282",

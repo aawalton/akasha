@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howToPlanForThePerfectRetirement = {
   id: "019db533-f39e-774d-9230-d3acc6a196c6",

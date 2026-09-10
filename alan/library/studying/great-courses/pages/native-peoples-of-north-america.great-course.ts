@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const nativePeoplesOfNorthAmerica = {
   id: "019db533-f3a0-72d4-b6bd-3ec83332d6bf",

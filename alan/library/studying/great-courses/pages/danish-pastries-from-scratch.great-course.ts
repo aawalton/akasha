@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const danishPastriesFromScratch = {
   id: "019db533-f38a-7553-a44a-c0d39a2492c4",

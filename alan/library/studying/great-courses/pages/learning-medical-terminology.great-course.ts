@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const learningMedicalTerminology = {
   id: "019db533-f388-704f-b81b-d9266fd58536",

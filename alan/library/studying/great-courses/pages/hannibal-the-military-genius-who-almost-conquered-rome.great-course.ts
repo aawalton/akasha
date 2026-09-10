@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const hannibalTheMilitaryGeniusWhoAlmostConqueredRome = {
   id: "019db533-f39f-7e82-afae-3e544484554c",

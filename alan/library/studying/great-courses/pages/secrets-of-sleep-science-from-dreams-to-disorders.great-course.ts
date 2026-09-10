@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const secretsOfSleepScienceFromDreamsToDisorders = {
   id: "019db533-f3a0-78a5-9bd5-d9d67d5db449",

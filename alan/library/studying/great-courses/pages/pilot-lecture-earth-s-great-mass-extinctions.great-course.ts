@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureEarthSGreatMassExtinctions = {
   id: "019db533-f39f-7d5a-b0b5-9421d444ee43",

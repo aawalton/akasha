@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theHistoryOfSpainLandOnACrossroad = {
   id: "019db533-f39f-7c13-8a1b-fa3e6f6bfd67",

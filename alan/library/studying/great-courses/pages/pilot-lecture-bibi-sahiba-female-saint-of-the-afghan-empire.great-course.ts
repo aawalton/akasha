@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureBibiSahibaFemaleSaintOfTheAfghanEmpire = {
   id: "019db533-f3a0-728f-9c8e-360e1fcccd58",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const realZenForRealLife = {
   id: "019db533-f39e-7a66-99e9-d3db2309b4a0",

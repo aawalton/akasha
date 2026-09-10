@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const utopiaAndTerrorInThe20thCentury = {
   id: "019db533-f39f-7832-afe7-2fdab420b03f",

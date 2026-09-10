@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const existentialismAndTheAuthenticLife = {
   id: "019db533-f39e-7b10-849b-44c9c68fffe5",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theBarbarianEmpiresOfTheSteppes = {
   id: "019db533-f3a0-71be-af1b-2680504f45e0",

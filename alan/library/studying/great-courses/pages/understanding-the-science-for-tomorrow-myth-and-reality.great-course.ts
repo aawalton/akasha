@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingTheScienceForTomorrowMythAndReality = {
   id: "019db533-f39e-7d5e-9c27-5c2ad1ded3c9",

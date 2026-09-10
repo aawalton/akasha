@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const godAgainstTheGodsTheHistoryOfMonotheismAndPolytheism = {
   id: "019db533-f39e-7ac3-810e-3881821f8c77",

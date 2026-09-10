@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const libertyOnTrialInAmericaCasesThatDefinedFreedom = {
   id: "019db533-f39f-7eec-8a39-3c68e38b9538",

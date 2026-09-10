@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const taiChiFitnessWorkouts = {
   id: "019db533-f3a0-7694-a693-ee0a1a59b698",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureMarijuanaAndTheUnitedStates = {
   id: "019db533-f39f-7953-a0fb-a5144a0dd367",

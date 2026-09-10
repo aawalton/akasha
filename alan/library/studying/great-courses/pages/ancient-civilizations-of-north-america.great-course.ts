@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const ancientCivilizationsOfNorthAmerica = {
   id: "019db533-f39f-7ec2-a174-a2a3b62d3f4f",

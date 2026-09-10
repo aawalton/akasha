@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const americaInTheGildedAgeAndProgressiveEra = {
   id: "019db533-f3a0-7048-b2f5-a28d991bc8cc",

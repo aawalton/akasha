@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLecturePicturingTheBibleHowArtistsTellTheStory = {
   id: "019db533-f39f-7948-a76b-342c4ffbf799",

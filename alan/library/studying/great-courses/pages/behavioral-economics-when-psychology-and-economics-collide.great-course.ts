@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const behavioralEconomicsWhenPsychologyAndEconomicsCollide = {
   id: "019db533-f39f-7075-bc49-036889b1e2ac",

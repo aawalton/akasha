@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theScienceOfNaturalHealing = {
   id: "019db533-f3a0-76e8-abe3-35f8ce7e490e",

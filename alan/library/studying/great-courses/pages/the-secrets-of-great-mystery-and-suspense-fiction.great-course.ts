@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theSecretsOfGreatMysteryAndSuspenseFiction = {
   id: "019db533-f39e-777d-b7da-53f2d90d795c",

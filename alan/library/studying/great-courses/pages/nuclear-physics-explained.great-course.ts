@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const nuclearPhysicsExplained = {
   id: "019db533-f39f-711f-a376-7036f650d73f",

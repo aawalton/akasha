@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const unlockingTheHiddenHistoryOfDna = {
   id: "019db533-f39e-7e23-b2cf-fff52c2f4272",

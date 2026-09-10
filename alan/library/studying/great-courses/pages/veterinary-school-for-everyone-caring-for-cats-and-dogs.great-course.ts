@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const veterinarySchoolForEveryoneCaringForCatsAndDogs = {
   id: "019db533-f39e-754c-b8c5-78911e2985ad",

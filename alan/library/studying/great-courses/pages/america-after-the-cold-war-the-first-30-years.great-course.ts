@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const americaAfterTheColdWarTheFirst30Years = {
   id: "019db533-f3a0-71fc-81c0-6ebf103d884f",

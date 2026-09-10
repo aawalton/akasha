@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const turningPointsInMiddleEasternHistory = {
   id: "019db533-f39f-7b53-944d-53788f02e0ce",

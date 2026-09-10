@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureAntioxidantsWhatAreTheyAndWhyDoWeNeedThem = {
   id: "019db533-f3a0-77d1-a45a-03d0461d1743",

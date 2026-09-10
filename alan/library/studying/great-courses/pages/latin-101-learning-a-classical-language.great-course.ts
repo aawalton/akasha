@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const latin101LearningAClassicalLanguage = {
   id: "019db533-f39f-7e78-b1b0-0f0659247ad4",

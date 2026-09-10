@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howRailwaysTransformedTheWorld = {
   id: "019db533-f3a0-70e5-9a13-5c1e457b6950",

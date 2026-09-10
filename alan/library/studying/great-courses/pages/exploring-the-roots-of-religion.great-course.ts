@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const exploringTheRootsOfReligion = {
   id: "019db533-f39e-7ae2-a5b7-090427a24a21",

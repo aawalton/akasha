@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const europeanThoughtAndCultureInThe20thCentury = {
   id: "019db533-f388-7022-99c3-49507983d540",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const stackedStitchesKnittingInWildColor = {
   id: "019db533-f39e-758c-bf89-f1b7167a290c",

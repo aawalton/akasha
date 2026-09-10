@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const masteringStagePresenceHowToPresentToAnyAudience = {
   id: "019db533-f39e-72cf-86f7-46a97cb5fd44",

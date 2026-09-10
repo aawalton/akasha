@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const reflectionsInAcrylicDepictingLightOnWater = {
   id: "019db533-f39f-74ed-9fc5-e260c1e66356",

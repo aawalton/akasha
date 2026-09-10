@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const worldWarIiAMilitaryAndSocialHistory = {
   id: "019db533-f3a0-7234-8c7f-d5c2d1956868",

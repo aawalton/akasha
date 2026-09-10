@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theModernPoliticalTraditionHobbesToHabermas = {
   id: "019db533-f39e-7bfc-aa60-7398f173ad2e",

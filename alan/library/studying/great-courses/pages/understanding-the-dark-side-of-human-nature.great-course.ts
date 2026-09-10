@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingTheDarkSideOfHumanNature = {
   id: "019db533-f39e-79f5-b52c-cf038be581f1",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingCulturalAndHumanGeography = {
   id: "019db533-f39f-7b68-9cbb-2e418c525660",

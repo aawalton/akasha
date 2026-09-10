@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howConversationWorks6LessonsForBetterCommunication = {
   id: "019db533-f39e-7881-a6aa-39f67066f9f9",

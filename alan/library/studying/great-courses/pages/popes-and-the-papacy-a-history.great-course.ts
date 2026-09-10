@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const popesAndThePapacyAHistory = {
   id: "019db533-f39e-7a1b-afa5-7fb4948ed370",

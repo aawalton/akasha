@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theShapeOfNature = {
   id: "019db533-f39e-7b80-9058-57783f520c5e",

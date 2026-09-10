@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLecturePreventingAlzheimerSWhatYouCanDo = {
   id: "019db533-f3a0-789a-b0b3-a34becf23f17",

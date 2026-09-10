@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const georgeOrwellASageForAllSeasons = {
   id: "019db533-f39e-79e7-adc9-76fa963166dc",

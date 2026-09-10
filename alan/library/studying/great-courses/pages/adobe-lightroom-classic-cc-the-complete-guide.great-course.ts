@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const adobeLightroomClassicCcTheCompleteGuide = {
   id: "019db533-f39e-7802-b7ab-63d821b48651",

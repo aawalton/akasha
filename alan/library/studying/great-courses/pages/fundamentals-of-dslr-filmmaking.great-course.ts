@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const fundamentalsOfDslrFilmmaking = {
   id: "019db533-f39e-7322-b887-9a8be637a6ee",

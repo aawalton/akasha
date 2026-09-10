@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const blackHolesTidesAndCurvedSpacetimeUnderstandingGravity = {
   id: "019db533-f39f-7060-b4a0-bf4927f156e7",

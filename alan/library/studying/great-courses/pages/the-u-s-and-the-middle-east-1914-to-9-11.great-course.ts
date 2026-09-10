@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theUSAndTheMiddleEast1914To911 = {
   id: "019db533-f3a0-7065-a9c9-cade8cc9d4f1",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const ancientWritingAndTheHistoryOfTheAlphabet = {
   id: "019db533-f39e-79e0-a9ec-646b28692d70",

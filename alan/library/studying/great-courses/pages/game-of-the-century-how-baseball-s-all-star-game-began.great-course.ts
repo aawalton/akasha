@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const gameOfTheCenturyHowBaseballSAllStarGameBegan = {
   id: "019db533-f3a0-7493-94d0-c3b5fee67336",

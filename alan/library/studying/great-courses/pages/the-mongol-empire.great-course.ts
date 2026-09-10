@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theMongolEmpire = {
   id: "019db533-f39f-7c29-9aa7-899cb31b4857",

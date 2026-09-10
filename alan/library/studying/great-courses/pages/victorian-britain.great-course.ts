@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const victorianBritain = {
   id: "019db533-f39f-7b33-a5fe-b74a5d754099",

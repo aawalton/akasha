@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const discoveringWestAfricaGhanaSenegalCameroon = {
   id: "019db533-f39f-72a9-8d72-7ec5db3cd4de",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theModernIntellectualTraditionFromDescartesToDerrida = {
   id: "019db533-f39e-79cb-b083-3260ab3c3ae2",

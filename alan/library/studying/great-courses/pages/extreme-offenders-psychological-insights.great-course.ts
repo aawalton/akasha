@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const extremeOffendersPsychologicalInsights = {
   id: "019db533-f39f-72f2-abc5-b60249916918",

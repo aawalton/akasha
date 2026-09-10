@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howMemoryWorksAndWhyYourBrainRemembersWrong = {
   id: "019db533-f39f-72e8-a344-0011a8b61e1e",

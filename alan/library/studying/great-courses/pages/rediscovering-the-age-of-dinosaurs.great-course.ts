@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const rediscoveringTheAgeOfDinosaurs = {
   id: "019db533-f39e-7eae-963b-b2ffe7c16f50",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureTheRiseOfNewtonianPhysics = {
   id: "019db533-f39f-71f5-9784-22414563e3aa",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const propagandaAndPersuasion = {
   id: "019db533-f39e-759b-be93-9e7fed581fa5",

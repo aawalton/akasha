@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const scientificSecretsForAPowerfulMemory = {
   id: "019db533-f3a0-7811-89a5-780701eefc62",

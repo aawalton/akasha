@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const qiGongForBetterHealthAndWellness = {
   id: "019db533-f3a0-7890-8fdb-674d5dfb657d",

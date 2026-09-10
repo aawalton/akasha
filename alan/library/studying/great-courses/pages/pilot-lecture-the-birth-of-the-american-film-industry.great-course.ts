@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureTheBirthOfTheAmericanFilmIndustry = {
   id: "019db533-f387-7ef8-bfa8-b704bbf8ec9d",

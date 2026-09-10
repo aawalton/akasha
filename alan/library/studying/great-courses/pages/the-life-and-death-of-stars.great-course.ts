@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theLifeAndDeathOfStars = {
   id: "019db533-f39e-7bd5-aae1-c576eaa5aacc",

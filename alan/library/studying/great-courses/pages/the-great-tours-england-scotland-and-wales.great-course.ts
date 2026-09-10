@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theGreatToursEnglandScotlandAndWales = {
   id: "019db533-f39f-7bfe-95be-91d2526c9118",

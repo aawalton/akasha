@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const machiavelliInContext = {
   id: "019db533-f388-7067-9fe1-8dc78761deb4",

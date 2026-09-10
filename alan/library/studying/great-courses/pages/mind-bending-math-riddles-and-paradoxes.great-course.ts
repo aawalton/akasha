@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const mindBendingMathRiddlesAndParadoxes = {
   id: "019db533-f3a0-7846-82db-1c5e570aa9bf",

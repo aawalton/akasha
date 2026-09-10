@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const europeanHistoryAndEuropeanLives1715To1914 = {
   id: "019db533-f388-70fa-b391-127ff480d0f0",

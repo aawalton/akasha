@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theUsConstitutionThroughHistory = {
   id: "019db533-f39f-7f82-b63d-2d90184d0923",

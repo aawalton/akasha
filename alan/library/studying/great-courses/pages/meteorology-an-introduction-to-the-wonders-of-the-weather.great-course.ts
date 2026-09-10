@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const meteorologyAnIntroductionToTheWondersOfTheWeather = {
   id: "019db533-f39e-7c9e-ad13-1b44ec472b4e",

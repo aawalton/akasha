@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theLifeAndWorksOfJaneAusten = {
   id: "019db533-f39e-778c-8157-07692855a6f7",

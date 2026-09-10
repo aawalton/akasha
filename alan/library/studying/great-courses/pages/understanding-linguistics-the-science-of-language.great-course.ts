@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingLinguisticsTheScienceOfLanguage = {
   id: "019db533-f39e-77fa-97f2-22c0b75bf7b7",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const the23GreatestSoloPianoWorks = {
   id: "019db533-f3a0-729d-9539-8be2a167d04a",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureTheGeneticsOfCancer = {
   id: "019db533-f39f-71ff-a29c-f7b1715431e1",

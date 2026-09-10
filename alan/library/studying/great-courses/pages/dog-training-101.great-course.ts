@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const dogTraining101 = {
   id: "019db533-f39e-7717-a391-e00c4cc908aa",

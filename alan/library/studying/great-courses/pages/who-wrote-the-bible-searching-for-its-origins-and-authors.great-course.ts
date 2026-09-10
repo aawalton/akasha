@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const whoWroteTheBibleSearchingForItsOriginsAndAuthors = {
   id: "019db533-f389-7116-b645-21db310ef652",

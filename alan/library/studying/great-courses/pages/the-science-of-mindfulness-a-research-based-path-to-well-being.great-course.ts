@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theScienceOfMindfulnessAResearchBasedPathToWellBeing = {
   id: "019db533-f3a0-76fd-b6a1-3bd0f3c21597",

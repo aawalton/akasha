@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const americanIdealsFoundingARepublicOfVirtue = {
   id: "019db533-f3a0-7192-a12c-5069d7c3e0b6",

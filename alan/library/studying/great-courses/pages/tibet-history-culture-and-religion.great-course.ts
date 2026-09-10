@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const tibetHistoryCultureAndReligion = {
   id: "019db533-f39f-7bbe-b591-e8974981845e",

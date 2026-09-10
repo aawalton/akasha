@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const civilLibertiesAndTheBillOfRights = {
   id: "01a06578-6717-7002-95d0-d54d3f0aacae",

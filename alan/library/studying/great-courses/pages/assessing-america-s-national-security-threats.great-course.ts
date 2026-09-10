@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const assessingAmericaSNationalSecurityThreats = {
   id: "019db533-f39f-7e62-a4de-d08253eb0ae8",

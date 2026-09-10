@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theOpioidEpidemicAmericaSDeadlyAddiction = {
   id: "019db533-f3a0-76c8-bd6e-dc960071467b",

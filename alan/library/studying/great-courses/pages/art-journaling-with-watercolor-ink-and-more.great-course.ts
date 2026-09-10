@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const artJournalingWithWatercolorInkAndMore = {
   id: "019db533-f39f-75f5-9e8a-b90930e10f7e",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const willToPowerThePhilosophyOfFriedrichNietzsche = {
   id: "019db533-f387-7f18-87ad-84cadc2cd044",

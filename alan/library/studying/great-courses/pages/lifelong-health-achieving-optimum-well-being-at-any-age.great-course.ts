@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const lifelongHealthAchievingOptimumWellBeingAtAnyAge = {
   id: "019db533-f3a0-78c5-b00d-2d8506dcf091",

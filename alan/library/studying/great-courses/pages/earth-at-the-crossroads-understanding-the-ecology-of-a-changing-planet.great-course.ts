@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const earthAtTheCrossroadsUnderstandingTheEcologyOfAChangingPlanet = {
   id: "019db533-f39f-7386-9416-64dfa66e5881",

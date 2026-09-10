@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theStoryOfHumanLanguage = {
   id: "019db533-f39f-7b9e-9ec4-3f763779f48a",

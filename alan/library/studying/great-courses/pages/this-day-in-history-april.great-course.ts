@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const thisDayInHistoryApril = {
   id: "019db533-f39f-781d-ab3a-d57be1c6f4ad",

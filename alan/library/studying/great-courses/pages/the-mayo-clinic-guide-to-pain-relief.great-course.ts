@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theMayoClinicGuideToPainRelief = {
   id: "019db533-f3a0-76f3-a63d-86a3838acdaf",

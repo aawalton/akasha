@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const getStartedWatercoloringFreshFlorals = {
   id: "019db533-f39f-7696-aa4e-b624b6eea1c4",

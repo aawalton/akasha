@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theGreatDebateAdvocatesAndOpponentsOfTheAmericanConstitution = {
   id: "019db533-f39f-7db9-8024-8aa74e7e7cde",

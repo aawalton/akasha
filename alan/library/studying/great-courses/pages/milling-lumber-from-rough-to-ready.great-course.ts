@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const millingLumberFromRoughToReady = {
   id: "019db533-f39e-7428-b47e-af82c7b9f686",

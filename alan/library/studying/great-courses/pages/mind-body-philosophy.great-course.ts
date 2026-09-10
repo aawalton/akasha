@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const mindBodyPhilosophy = {
   id: "019db533-f3a0-773d-8070-2eab9a2cd090",

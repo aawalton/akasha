@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureTheGeniusOfSocrates = {
   id: "019db533-f39e-7a3e-9e9c-49f01a2683a1",

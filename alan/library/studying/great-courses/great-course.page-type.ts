@@ -1,10 +1,4 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-
-export type GreatCourse = CollectionExternal & {
-  title: Title
-}
 
 export const greatCourse = {
   id: "01a06574-0291-7002-a1fa-cbd1f9cc0fb4",
@@ -29,4 +23,5 @@ export const greatCourse = {
       statement: "A course Alan has not graded states no rank.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

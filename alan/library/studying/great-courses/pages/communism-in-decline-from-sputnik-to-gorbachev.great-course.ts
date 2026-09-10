@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const communismInDeclineFromSputnikToGorbachev = {
   id: "019db533-f3a0-71b4-84e9-284f28fe0a5d",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theEntrepreneurSToolkit = {
   id: "019db533-f39e-77f2-9765-65159dc440e3",

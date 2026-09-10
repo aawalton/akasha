@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theSearchForExoplanetsWhatAstronomersKnow = {
   id: "019db533-f39e-7d75-b9d3-dd50beb927ed",

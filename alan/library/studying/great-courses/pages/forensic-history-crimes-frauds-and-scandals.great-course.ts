@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const forensicHistoryCrimesFraudsAndScandals = {
   id: "019db533-f3a0-74d3-a6ae-2873a93f6d77",

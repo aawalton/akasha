@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const giftableProjectsZipperedBagsAndPurseOrganizer = {
   id: "019db533-f39e-771f-abd8-cfe5d678fec8",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const londonAShortHistoryOfTheGreatestCityInTheWesternWorld = {
   id: "019db533-f3a0-70cc-a770-ec92c732a647",

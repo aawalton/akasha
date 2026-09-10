@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const greatBoardGamesOfTheAncientWorld = {
   id: "019db533-f3a0-7487-bdd3-584c5e43448a",

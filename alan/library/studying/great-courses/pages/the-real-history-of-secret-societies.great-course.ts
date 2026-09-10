@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theRealHistoryOfSecretSocieties = {
   id: "019db533-f39f-7c9b-a614-b17b8297cfa1",

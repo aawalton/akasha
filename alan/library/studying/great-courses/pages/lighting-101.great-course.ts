@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const lighting101 = {
   id: "019db533-f39e-72c0-8deb-c4652ea69124",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const wondriumInsightsPromisesAndPerilsOfTechnology = {
   id: "019db533-f39f-70ff-ab83-df186833d3e7",

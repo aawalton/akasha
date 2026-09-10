@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const democracyAndItsAlternatives = {
   id: "019db533-f3a0-719c-b59e-7cf0c8a58cc3",

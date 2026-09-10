@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const adobePhotoshopCcTheCompleteGuide = {
   id: "019db533-f39e-750f-a43b-1e90172e91a9",

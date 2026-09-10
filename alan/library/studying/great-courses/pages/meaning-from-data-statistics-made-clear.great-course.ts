@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const meaningFromDataStatisticsMadeClear = {
   id: "019db533-f3a0-785b-8c23-e7d80747aa5a",

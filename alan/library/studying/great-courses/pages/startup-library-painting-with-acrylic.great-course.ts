@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const startupLibraryPaintingWithAcrylic = {
   id: "019db533-f39f-740f-91b3-68f4a74e9b47",

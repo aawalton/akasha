@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const fundamentalsOfHomeMaintenanceFromRepairsToRenovations = {
   id: "019db533-f39e-76f9-a8cc-952aacb64273",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theBookOfGenesis = {
   id: "019db533-f39e-7c0a-b532-0ec73722880f",

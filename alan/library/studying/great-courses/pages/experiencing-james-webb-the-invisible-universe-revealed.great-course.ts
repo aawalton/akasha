@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const experiencingJamesWebbTheInvisibleUniverseRevealed = {
   id: "01a06578-6719-7001-838b-c818f510b6c0",

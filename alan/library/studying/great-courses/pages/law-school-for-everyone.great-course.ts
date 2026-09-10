@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const lawSchoolForEveryone = {
   id: "019db533-f39e-7a55-8120-72daf4ecbe04",

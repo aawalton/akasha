@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theRomanEmpireFromAugustusToTheFallOfRome = {
   id: "019db533-f39f-7c7b-8c6b-975db0bbf815",

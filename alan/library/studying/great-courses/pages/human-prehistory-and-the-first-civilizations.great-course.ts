@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const humanPrehistoryAndTheFirstCivilizations = {
   id: "019db533-f39e-7ec4-b716-15711fb458c2",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theSpiritualBrainScienceAndReligiousExperience = {
   id: "019db533-f3a0-7653-bd0c-c92e78611194",

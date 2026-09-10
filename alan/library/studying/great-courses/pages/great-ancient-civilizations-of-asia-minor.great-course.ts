@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const greatAncientCivilizationsOfAsiaMinor = {
   id: "019db533-f39f-7e38-bd4d-b669c4f3bb90",

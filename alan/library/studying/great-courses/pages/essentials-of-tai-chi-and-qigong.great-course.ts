@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const essentialsOfTaiChiAndQigong = {
   id: "019db533-f3a0-790f-90a3-998438e7a153",

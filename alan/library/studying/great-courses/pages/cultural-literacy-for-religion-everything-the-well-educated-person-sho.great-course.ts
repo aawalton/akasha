@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const culturalLiteracyForReligionEverythingTheWellEducatedPersonSho = {
   id: "019db533-f39e-7cbe-a825-f1df277cc5a8",

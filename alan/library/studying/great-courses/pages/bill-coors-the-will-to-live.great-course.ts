@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const billCoorsTheWillToLive = {
   id: "019db533-f3a0-7a4e-8a64-be099e3476f1",

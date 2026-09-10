@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const learningSpanishHowToUnderstandAndSpeakANewLanguage = {
   id: "019db533-f39f-754c-b66a-d7f367c96d9d",

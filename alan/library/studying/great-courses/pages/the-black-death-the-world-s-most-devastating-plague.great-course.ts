@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theBlackDeathTheWorldSMostDevastatingPlague = {
   id: "019db533-f3a0-722d-883e-e56bb8c43352",

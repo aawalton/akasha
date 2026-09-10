@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureUnderstandingYourVitalSignsHowBloodPressureWorks = {
   id: "019db533-f3a0-7870-9864-a2be3ddbdfb3",

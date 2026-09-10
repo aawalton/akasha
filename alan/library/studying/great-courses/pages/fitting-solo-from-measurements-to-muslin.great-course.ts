@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const fittingSoloFromMeasurementsToMuslin = {
   id: "019db533-f39e-74ea-9348-5b2253beefc2",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const whatCanTheJamesWebbTelescopeSee = {
   id: "019db533-f39e-7c8f-b49c-5efc542f77f8",

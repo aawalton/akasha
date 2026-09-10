@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theVaticanAndTheWorldOfItalianArt = {
   id: "01a06578-6719-7008-8a32-cba3895c1746",

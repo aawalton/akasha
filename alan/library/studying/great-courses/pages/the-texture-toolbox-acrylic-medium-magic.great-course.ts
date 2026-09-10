@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theTextureToolboxAcrylicMediumMagic = {
   id: "019db533-f39f-73f0-a0f5-addf43e9fdd2",

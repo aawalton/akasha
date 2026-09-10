@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theEnlightenmentInventionOfTheModernSelf = {
   id: "019db533-f387-7f40-8169-0cb6e80853c7",

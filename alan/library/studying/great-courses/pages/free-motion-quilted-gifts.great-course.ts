@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const freeMotionQuiltedGifts = {
   id: "019db533-f39e-7492-840c-90c2f970fcb4",

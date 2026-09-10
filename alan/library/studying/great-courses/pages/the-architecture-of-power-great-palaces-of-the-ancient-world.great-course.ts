@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theArchitectureOfPowerGreatPalacesOfTheAncientWorld = {
   id: "019db533-f3a0-72e2-862d-cf191299ce12",

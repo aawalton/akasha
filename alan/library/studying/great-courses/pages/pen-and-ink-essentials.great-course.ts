@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const penAndInkEssentials = {
   id: "019db533-f39f-74cd-ae64-5278d998b7bb",

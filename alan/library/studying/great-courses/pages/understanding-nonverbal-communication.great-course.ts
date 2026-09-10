@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingNonverbalCommunication = {
   id: "019db533-f39e-72e0-9192-859b07268573",

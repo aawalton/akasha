@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const biologicalAnthropologyAnEvolutionaryPerspective = {
   id: "019db533-f39e-7d0e-967f-38964db5e266",

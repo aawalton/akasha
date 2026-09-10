@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const interconnectedThePastPresentAndFutureOfTheInternet = {
   id: "019db533-f39f-7269-99b4-5c41f62f524b",

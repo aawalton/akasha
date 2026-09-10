@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const knitFasterWithContinentalKnitting = {
   id: "019db533-f39e-75ea-a98a-ea7ae83335d2",

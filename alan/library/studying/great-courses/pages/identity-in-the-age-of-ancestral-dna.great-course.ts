@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const identityInTheAgeOfAncestralDna = {
   id: "019db533-f39e-7d1b-8144-124b48ffb899",

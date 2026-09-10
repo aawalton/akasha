@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theVietnamWar = {
   id: "019db533-f3a0-702f-9d46-29165fa44723",

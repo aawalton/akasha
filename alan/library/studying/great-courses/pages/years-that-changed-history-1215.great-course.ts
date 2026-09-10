@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const yearsThatChangedHistory1215 = {
   id: "019db533-f39f-7a93-8f1b-0a3991095f6d",

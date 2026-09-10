@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const lostArtTheStoriesOfMissingMasterpieces = {
   id: "019db533-f39f-756c-97e0-7b8e073c0a83",

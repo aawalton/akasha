@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const fibonacciNumbersAndTheGoldenRatio = {
   id: "019db533-f3a0-754a-b9ea-48824b66f934",

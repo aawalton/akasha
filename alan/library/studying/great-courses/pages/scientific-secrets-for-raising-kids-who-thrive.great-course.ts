@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const scientificSecretsForRaisingKidsWhoThrive = {
   id: "019db533-f39f-7003-bd79-20d396bf709d",

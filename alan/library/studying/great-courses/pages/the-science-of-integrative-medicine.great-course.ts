@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theScienceOfIntegrativeMedicine = {
   id: "019db533-f3a0-761e-b22f-f8c807603920",

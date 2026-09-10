@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const anthropologyAndTheStudyOfHumanity = {
   id: "019db533-f39f-7f62-802a-4a787423b9f0",

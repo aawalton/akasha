@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const classicalMythology = {
   id: "019db533-f39e-79c4-9b16-fddf360be6a9",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const famousGreeks = {
   id: "019db533-f3a0-717f-9c03-9ed983ccf9a5",

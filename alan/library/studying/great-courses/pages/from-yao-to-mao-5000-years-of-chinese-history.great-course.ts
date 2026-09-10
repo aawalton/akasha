@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const fromYaoToMao5000YearsOfChineseHistory = {
   id: "019db533-f388-70a0-81c0-da986cc3e9b8",

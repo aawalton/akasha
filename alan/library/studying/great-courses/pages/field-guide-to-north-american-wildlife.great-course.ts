@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const fieldGuideToNorthAmericanWildlife = {
   id: "019db533-f39e-7ea3-9ff8-662c736ebb8c",

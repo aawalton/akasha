@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const medicalSchoolForEveryonePediatricsGrandRounds = {
   id: "019db533-f3a0-7a6e-8082-5069bc48b3e2",

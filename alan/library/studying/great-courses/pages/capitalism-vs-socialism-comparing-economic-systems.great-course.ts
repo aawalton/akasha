@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const capitalismVsSocialismComparingEconomicSystems = {
   id: "019db533-f39e-7483-b0f2-3b2ff0057905",

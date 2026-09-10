@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureSusanBAnthonyAndSuffragistImages = {
   id: "019db533-f3a0-709b-b133-efd0933bdfcd",

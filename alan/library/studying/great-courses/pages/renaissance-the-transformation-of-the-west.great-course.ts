@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const renaissanceTheTransformationOfTheWest = {
   id: "019db533-f39f-78f3-a410-10c7f3f18963",

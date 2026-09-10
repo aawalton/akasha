@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const redefiningRealityTheIntellectualImplicationsOfModernScience = {
   id: "019db533-f39e-7f0e-8ab4-cb0dd094ffc7",

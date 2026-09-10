@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theArtOfInvestingLessonsFromHistorySGreatestTraders = {
   id: "019db533-f39e-73ea-b133-1d063675339d",

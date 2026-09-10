@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const startupLibraryCrochet = {
   id: "019db533-f39e-74ff-a67a-f3d31d81a856",

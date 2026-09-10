@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingThePeriodicTable = {
   id: "019db533-f39f-709f-9e5e-2624fd586058",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const martialArtsForYourMindAndBody = {
   id: "019db533-f3a0-79d8-b4c0-a7dc5cad1a5a",

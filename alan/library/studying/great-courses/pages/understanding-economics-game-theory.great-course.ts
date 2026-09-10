@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingEconomicsGameTheory = {
   id: "019db533-f39e-733a-8671-5f8cc6d052b5",

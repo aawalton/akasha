@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const integratingPhotoshopAndLightroom = {
   id: "019db533-f39e-72c7-8e2f-50e4c1316637",

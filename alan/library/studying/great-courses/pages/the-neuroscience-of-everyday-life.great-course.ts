@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theNeuroscienceOfEverydayLife = {
   id: "019db533-f39e-7d8d-b8e0-f59810f85c54",

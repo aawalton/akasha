@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const chaos = {
   id: "019db533-f39f-7352-a7e4-ebaec20d2199",

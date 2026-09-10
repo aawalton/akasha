@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const bobKristSOffTheBeatenPath = {
   id: "019db533-f39f-76b6-bf59-aa3f0387dd03",

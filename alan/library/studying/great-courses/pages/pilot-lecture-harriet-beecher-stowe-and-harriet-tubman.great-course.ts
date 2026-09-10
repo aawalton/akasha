@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pilotLectureHarrietBeecherStoweAndHarrietTubman = {
   id: "019db533-f39f-7e03-a5ef-744fa6e0fe2c",

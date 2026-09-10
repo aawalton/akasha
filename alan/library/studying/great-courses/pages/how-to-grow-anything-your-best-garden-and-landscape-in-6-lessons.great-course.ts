@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const howToGrowAnythingYourBestGardenAndLandscapeIn6Lessons = {
   id: "019db533-f39e-76ea-a989-716affbd7645",

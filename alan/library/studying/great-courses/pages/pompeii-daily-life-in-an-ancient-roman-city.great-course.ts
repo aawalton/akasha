@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const pompeiiDailyLifeInAnAncientRomanCity = {
   id: "019db533-f39f-7e23-84f5-8306422762b3",

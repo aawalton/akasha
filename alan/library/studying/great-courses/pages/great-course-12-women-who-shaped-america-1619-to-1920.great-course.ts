@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const greatCourse12WomenWhoShapedAmerica1619To1920 = {
   id: "019db533-f3a0-71e4-9349-1a7d4bfb57b7",

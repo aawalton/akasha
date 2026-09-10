@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const nationalGeographicPolarExplorations = {
   id: "019db533-f39f-74c3-94a7-e1920a323c37",

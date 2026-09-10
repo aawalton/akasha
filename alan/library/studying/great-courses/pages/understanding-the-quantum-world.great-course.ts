@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingTheQuantumWorld = {
   id: "019db533-f39f-707f-8dd8-6c2b1cfa68af",

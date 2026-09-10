@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const blackHolesExplained = {
   id: "019db533-f39f-7332-a5a8-086a1aafc356",

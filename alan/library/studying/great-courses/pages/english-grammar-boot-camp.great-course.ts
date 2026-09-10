@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const englishGrammarBootCamp = {
   id: "019db533-f39e-7765-a92b-ace7a7c97a99",

@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const natureWatchingHowToFindAndObserveWildlife = {
   id: "019db533-f39e-7c72-b123-2c371c90fada",

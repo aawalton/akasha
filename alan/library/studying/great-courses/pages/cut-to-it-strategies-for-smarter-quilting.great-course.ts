@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const cutToItStrategiesForSmarterQuilting = {
   id: "019db533-f39e-7646-a503-bceb36cbdaa7",

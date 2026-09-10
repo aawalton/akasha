@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const essentialSeedBeadTechniques = {
   id: "019db533-f39f-7a33-8594-188211404bf0",

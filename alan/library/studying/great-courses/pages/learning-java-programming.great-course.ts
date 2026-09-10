@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const learningJavaProgramming = {
   id: "019db533-f39e-72b0-b9f1-d46d93939b61",

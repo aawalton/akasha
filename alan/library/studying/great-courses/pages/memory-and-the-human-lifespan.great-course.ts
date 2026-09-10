@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const memoryAndTheHumanLifespan = {
   id: "019db533-f3a0-7806-8b6e-0c04502dfb61",

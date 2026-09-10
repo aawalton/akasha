@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingCognitiveBiases = {
   id: "019db533-f39e-7bf4-9d50-e448405a2c1d",

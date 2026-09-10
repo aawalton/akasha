@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const fairIsleFundamentals = {
   id: "019db533-f39e-76e2-ad3c-aaf06f68e6e3",

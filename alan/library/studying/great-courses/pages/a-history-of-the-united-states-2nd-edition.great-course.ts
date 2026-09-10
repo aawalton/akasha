@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const aHistoryOfTheUnitedStates2ndEdition = {
   id: "019db533-f3a0-71e9-bb3f-f3cfc8797f8d",

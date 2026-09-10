@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const theApocalypseControversiesAndMeaningInWesternHistory = {
   id: "019db533-f39e-7c36-b1de-cf55b67a6da0",

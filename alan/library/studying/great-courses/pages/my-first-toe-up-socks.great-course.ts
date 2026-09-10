@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const myFirstToeUpSocks = {
   id: "019db533-f39e-7438-9119-ac8ca241a4ae",

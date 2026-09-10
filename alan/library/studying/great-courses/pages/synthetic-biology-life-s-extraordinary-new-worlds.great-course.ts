@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const syntheticBiologyLifeSExtraordinaryNewWorlds = {
   id: "019db533-f39f-71ea-9358-edb54b604307",

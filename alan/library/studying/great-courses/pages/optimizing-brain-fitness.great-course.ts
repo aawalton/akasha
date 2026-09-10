@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const optimizingBrainFitness = {
   id: "019db533-f3a0-783b-b9a1-4aa5fd6b5d7a",

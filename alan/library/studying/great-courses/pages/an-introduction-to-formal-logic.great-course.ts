@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const anIntroductionToFormalLogic = {
   id: "019db533-f3a0-79e3-b9bc-f0f2e2a6a5cf",

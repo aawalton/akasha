@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.types.ts"
 
 export const understandingTheHumanBodyAnIntroductionToAnatomyAndPhysiology = {
   id: "019db533-f3a0-769e-a215-2eecc3547a5b",
