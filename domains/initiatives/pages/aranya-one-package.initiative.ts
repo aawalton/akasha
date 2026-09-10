@@ -10,14 +10,6 @@ export const aranyaOnePackage = {
   parent: "initiative/akasha-folder-shape",
   intents: [
     {
-      statement: "The root manifest names every file reached from outside the folder with it.",
-      workingMemory:
-        'The root manifest now states `exports: {"./*": "./*"}`, naming every file by wildcard rather than by enumeration, so that intent is part met in the form that gives up the boundary. The 277 non-root manifests are what make every `@akasha/…` name resolve, and 261 enumerate their ways in by hand with no wildcard among them. `tsconfig.base.json` declares no `paths`, so a manifest taken away takes its share of 21055 import sites dark.',
-    },
-    {
-      statement: "A workstation service deploys naming no package but the root.",
-    },
-    {
       statement: "A cluster service deploys naming no package but the root.",
       workingMemory:
         "`collectExecutedDeps` reads only `@akasha/` specifiers, so with every reach now spelled `akasha/...` an image carries its own folder alone. Both bun-service images are broken by that: auth-proxy's `config` and `session-identity`, and retention's `barman-output` and `copy-longtail`, all import `akasha/utils/narrow/...` at runtime. Following the specifier is not enough — `emitWorkspaceInstall` writes a `workspaces` list of each depDir, and those folders are no longer packages.\n",
