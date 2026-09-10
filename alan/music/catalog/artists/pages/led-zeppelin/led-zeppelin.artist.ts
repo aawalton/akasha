@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const ledZeppelin = {
   id: "01a06803-676b-7022-8845-9dd2a932aa91",

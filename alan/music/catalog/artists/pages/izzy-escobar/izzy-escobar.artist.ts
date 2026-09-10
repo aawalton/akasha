@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const izzyEscobar = {
   id: "01a06803-676b-7016-9f04-01fd94a93f0c",

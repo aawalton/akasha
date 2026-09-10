@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const kDa = {
   id: "01a06803-676b-701e-902e-5bf1a8b9d455",

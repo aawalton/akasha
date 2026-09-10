@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const linkinPark = {
   id: "01a06803-676b-7026-9fda-d9e54409307d",

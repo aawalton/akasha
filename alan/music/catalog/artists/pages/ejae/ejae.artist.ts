@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const ejae = {
   id: "01a06803-676b-7009-8e70-d18d53808cd9",

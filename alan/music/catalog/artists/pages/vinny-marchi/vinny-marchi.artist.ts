@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const vinnyMarchi = {
   id: "01a06803-676c-7011-ac08-53a302031f1d",

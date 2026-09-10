@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const rockapella = {
   id: "01a06803-676c-7006-82e2-fe202a434cd6",

@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const yaelokre = {
   id: "01a06803-676c-7013-9310-2bf5cfbb8d9b",

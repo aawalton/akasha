@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const theHoldernessFamily = {
   id: "01a06803-676c-700d-98bd-82236ce453c1",

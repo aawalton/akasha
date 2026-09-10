@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const jisoo = {
   id: "01a06803-676b-701c-b06a-7f4bf3c6d543",

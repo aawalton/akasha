@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const greenDay = {
   id: "01a06803-676b-7013-ab1e-a09abef060e4",

@@ -1,4 +1,4 @@
-import type { Artist } from "../../catalog/artists/artist.page-type.ts"
+import type { Artist } from "../../catalog/artists/artist.page-type.types.ts"
 import type { Song } from "../../catalog/songs/song.page-type.ts"
 import { isLiked, ratingRung } from "../rating-ladder/rating-ladder.module.code.ts"
 

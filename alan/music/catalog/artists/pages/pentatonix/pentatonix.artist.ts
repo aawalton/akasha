@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const pentatonix = {
   id: "01a06803-676c-7003-af76-ca9b4c453f63",

@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const lindseyStirling2 = {
   id: "01a06803-676b-7025-8921-64f7cb1796c6",

@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const byuVocalPoint = {
   id: "01a06803-676b-7004-bb76-903473ed7ee8",

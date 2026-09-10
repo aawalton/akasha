@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquare = {
   id: "01a06803-676c-700f-bd57-49bbfc8299f2",

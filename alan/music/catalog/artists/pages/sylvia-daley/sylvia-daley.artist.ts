@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const sylviaDaley = {
   id: "01a06803-676c-700a-a8bc-f7583737dc27",

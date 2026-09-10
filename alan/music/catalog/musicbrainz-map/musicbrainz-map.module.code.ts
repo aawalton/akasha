@@ -1,4 +1,4 @@
-import type { Artist } from "../artists/artist.page-type.ts"
+import type { Artist } from "../artists/artist.page-type.types.ts"
 import type {
   MbArtist,
   MbArtistSearchHit,

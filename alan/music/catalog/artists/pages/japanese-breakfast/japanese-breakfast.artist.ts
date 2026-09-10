@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const japaneseBreakfast = {
   id: "01a06803-676b-7019-b91e-e4dd7e2c7c7e",

@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const braveSingle = {
   id: "01a06803-676b-7003-bfe1-e843e3ea3d14",

@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { ArtistGenre } from "./properties/artist-genre.text-property.ts"
-import type { Reaction } from "./properties/reaction.file-property.ts"
-
-export type Artist = CollectionExternal & {
-  title: Title
-  genre?: ArtistGenre
-  reaction?: Reaction
-}
 
 export const artist = {
   id: "01a06243-144b-7013-99b2-e1b52805e43b",
@@ -24,4 +14,5 @@ export const artist = {
     { pageProperty: "text-property/artist-genre", required: false, many: true, maxCount: null },
     { pageProperty: "file-property/reaction", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

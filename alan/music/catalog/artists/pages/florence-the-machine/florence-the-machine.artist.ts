@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const florenceTheMachine = {
   id: "01a06803-676b-7010-814c-1bf9cae3ee99",

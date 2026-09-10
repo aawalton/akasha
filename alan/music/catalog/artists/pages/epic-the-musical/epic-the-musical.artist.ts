@@ -1,4 +1,4 @@
-import type { Artist } from "../../artist.page-type.ts"
+import type { Artist } from "../../artist.page-type.types.ts"
 
 export const epicTheMusical = {
   id: "01a06803-676b-700f-b172-404ed94c6bfa",
