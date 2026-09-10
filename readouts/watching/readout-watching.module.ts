@@ -127,7 +127,11 @@ export const readoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A take that throws is said, and ends the run once the takes beside it settle.",
+      statement: "A take that throws is said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take that throws ends the run once the takes beside it settle.",
     },
     {
       invariantKind: "departure",

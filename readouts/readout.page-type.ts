@@ -145,7 +145,7 @@ export const readout = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout answering nothing carries when it began to, outside the commit.",
+      statement: "When a readout began answering nothing is carried outside the commit.",
     },
     {
       invariantKind: "departure",
