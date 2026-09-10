@@ -9,14 +9,9 @@ export const dallaDraftIntoAPatch = {
   persona: "dalla",
   intents: [
     {
-      statement: "Nothing carries a whole body between the edits and the write.",
+      statement: "Nothing here calls a change a patch.",
       workingMemory:
-        "`bodiesFrom` in `edits-landing` replays the folded edits against the bodies on disk into `Bodies`; `folding` carries that; `applying` rebases it through `rebasedHeld` and hashes `one.was` in `warrantedAgain`; `change-preparing`'s `rowsOf` turns it back into `FileChange` rows, flattening every replace into an add. `drafting` declares `Body` and `Bodies`. Edits go in and edits come out, and only the rebase happens between.\n",
-    },
-    {
-      statement: "No code here works out a unified diff.",
-      workingMemory:
-        "`commands/modules/patching` writes and reads a unified diff; `agents/modules/patch-keeping` keeps one at `<page>.patch.diff`. Only `commands/modules/drafting` calls either. Ten of drafting's exports — `droppedPatch`, `putBack`, `heldIn`, `rebasedOnto`, `wouldHold`, `runningIn`, `drafted`, `tookIn`, `resolved`, `droppedAt` — reach nothing outside those two. Live code takes four types plus `rebasedHeld`, `owedOf`, `runningOf` and `headOf`.\n",
+        "`runsOnPatch`, a required boolean on `code-check.page-type`, is stated by every `.code-check.ts` page; sixty-five files name it. Prose still says patch on eight lines of `applying.module.ts`, eight of `landing.module.ts`, three invariants on `change-guard.page-type`, one on `agent.page-type` and five of this initiative's constraints. Nothing under any of them is a patch: a change is edits until the apply replays them onto HEAD.\n",
     },
     {
       statement: "A seat's logs and socket are uncommitted properties beside that seat's page.",
