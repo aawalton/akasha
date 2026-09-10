@@ -17,7 +17,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "One array carries every row, whether that row writes, takes away or moves.",
+      statement: "One array carries every row whether that row writes or takes away or moves.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "Such a change writes nothing, commits nothing and takes no hold.",
+      statement: "Such a change writes nothing and commits nothing and takes no hold.",
     },
     {
       invariantKind: "departure",
@@ -296,11 +296,11 @@ export const landing = {
     },
     {
       invariantKind: "absence",
-      statement: "A draft commits nothing, as the edits it keeps are an uncommitted file.",
+      statement: "A draft commits nothing.",
     },
     {
       invariantKind: "absence",
-      statement: "No check runs over a draft, as the apply folding those edits runs every check.",
+      statement: "No check runs over a draft.",
     },
     {
       invariantKind: "departure",
