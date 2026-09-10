@@ -1,4 +1,4 @@
-import type { TemperDebuffMajor } from "../../temper-debuff-major.page-type.ts"
+import type { TemperDebuffMajor } from "../../temper-debuff-major.page-type.types.ts"
 
 export const majorMaim = {
   id: "01a05fc6-42c2-794d-84af-249d34bd9a2f",

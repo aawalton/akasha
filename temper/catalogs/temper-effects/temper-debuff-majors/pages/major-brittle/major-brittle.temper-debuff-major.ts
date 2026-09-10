@@ -1,4 +1,4 @@
-import type { TemperDebuffMajor } from "../../temper-debuff-major.page-type.ts"
+import type { TemperDebuffMajor } from "../../temper-debuff-major.page-type.types.ts"
 
 export const majorBrittle = {
   id: "01a05fc6-42c1-7b9e-a7e6-30fcae793727",
