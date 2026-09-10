@@ -1,4 +1,4 @@
-import type { CollectionType } from "../collection-type.page-type.ts"
+import type { CollectionType } from "../collection-type.page-type.types.ts"
 
 export const releaseCollection = {
   id: "01a06579-855d-7011-a8f6-26412a1a4a6f",

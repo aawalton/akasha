@@ -1,4 +1,4 @@
-import type { CollectionType } from "../collection-type.page-type.ts"
+import type { CollectionType } from "../collection-type.page-type.types.ts"
 
 export const showCollection = {
   id: "01a06579-855d-7019-991c-1f9f7b13c39c",

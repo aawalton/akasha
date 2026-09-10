@@ -1,4 +1,4 @@
-import type { CollectionType } from "../collection-type.page-type.ts"
+import type { CollectionType } from "../collection-type.page-type.types.ts"
 
 export const elderScrollsOnlineCollection = {
   id: "01a06579-855d-7005-bca6-bb824f7e45bb",

@@ -1,4 +1,4 @@
-import type { CollectionType } from "../collection-type.page-type.ts"
+import type { CollectionType } from "../collection-type.page-type.types.ts"
 
 export const greatCoursesCollection = {
   id: "01a06579-855d-700a-bca4-86ddbc615484",

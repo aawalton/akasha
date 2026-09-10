@@ -1,4 +1,4 @@
-import type { CollectionType } from "../collection-type.page-type.ts"
+import type { CollectionType } from "../collection-type.page-type.types.ts"
 
 export const restaurantMenuItem = {
   id: "01a06579-855d-7014-8763-cf229a87fd77",

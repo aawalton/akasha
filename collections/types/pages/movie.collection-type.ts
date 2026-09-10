@@ -1,4 +1,4 @@
-import type { CollectionType } from "../collection-type.page-type.ts"
+import type { CollectionType } from "../collection-type.page-type.types.ts"
 
 export const movie = {
   id: "01a06579-855d-700e-9aa9-9c4a0d2b2c36",

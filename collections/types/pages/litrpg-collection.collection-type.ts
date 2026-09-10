@@ -1,4 +1,4 @@
-import type { CollectionType } from "../collection-type.page-type.ts"
+import type { CollectionType } from "../collection-type.page-type.types.ts"
 
 export const litrpgCollection = {
   id: "01a06579-855d-700c-b5f9-b1bd806cca83",
