@@ -8,14 +8,14 @@ export const moveCodeExport = {
   changeMode: "change-mode-move",
   changeTargetType: "change-target-type/file-content",
   definition:
-    "one exported type moved from one code body to a sibling body, with every importer repointed",
+    "one exported type moved from one code body to another, with every importer repointed",
   code: "ts",
   test: "ts",
   guards: ["change-guard/import-not-left-hanging"],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A landing path outside the folder the body sits in is refused.",
+      statement: "A landing path anywhere in the repository is taken.",
     },
     {
       invariantKind: "departure",

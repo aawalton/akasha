@@ -183,13 +183,34 @@ test("an import the body left behind still names is kept", async () => {
   expect(takenAt(said, FROM)).not.toContain(`${DEEP}\n`)
 })
 
-test("a landing path in another folder is refused", async () => {
-  const world = worldOf({ [FROM]: HELD })
+test("a landing path in another folder is taken and every importer repointed", async () => {
+  const world = worldOf({ [FROM]: HELD, [USES]: USING }, [USES])
 
   const said = await runChange(world, { from: FROM, to: ELSEWHERE, of: "Kept" })
 
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${ELSEWHERE}\` sits in another folder than \`${FROM}\``)
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, ELSEWHERE)).toBe(LANDED)
+  expect(puttingAt(said, USES)).toEqual([`import type { Kept } from "../two/two.held.ts"`])
+})
+
+const STILL = `${DEEP}
+
+export type Kept = {
+  readonly deep: Deep
+}
+
+export type Other = {
+  readonly kept: Kept
+}
+`
+
+test("the body left behind names the type where it landed in another folder", async () => {
+  const world = worldOf({ [FROM]: STILL })
+
+  const said = await runChange(world, { from: FROM, to: ELSEWHERE, of: "Kept" })
+
+  expect(said.refused).toBeNull()
+  expect(puttingAt(said, FROM).join("")).toContain(`import type { Kept } from "../two/two.held.ts"`)
 })
 
 test("a landing path holding a body declaring no such type is refused", async () => {

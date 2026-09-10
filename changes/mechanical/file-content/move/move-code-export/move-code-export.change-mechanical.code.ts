@@ -1,5 +1,6 @@
-import { basename, dirname } from "node:path"
+import { dirname } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
+import { landingOf, specifierFor } from "@akasha/code/code-specifier"
 import { reachingOf } from "@akasha/indexes/package-reaching"
 import ts from "typescript"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
@@ -165,7 +166,8 @@ function leftBy(text: string, gone: readonly Passage[]): string {
 
 function backIn(text: string, source: ts.SourceFile, given: Asked): Passage | null {
   if (!namesIn(source).includes(given.of)) return null
-  const line = `import type { ${given.of} } from ${JSON.stringify(`./${basename(given.to)}`)}`
+  const spelled = specifierFor(dirname(given.from), given.to)
+  const line = `import type { ${given.of} } from ${JSON.stringify(spelled)}`
   const anchor = anchorIn(text, source)
   if (anchor === null) return { at: given.from, old: text, new: `${line}${LINE}${LINE}${text}` }
   return { at: given.from, old: anchor, new: `${anchor}${LINE}${line}` }
@@ -188,11 +190,6 @@ function pointedAt(
   return `${withoutName(text, one, bound, given.of)}${LINE}${line}`
 }
 
-function landingIn(spelled: string, given: Asked): string {
-  const stem = basename(given.from)
-  return JSON.stringify(`${spelled.slice(0, -stem.length)}${basename(given.to)}`)
-}
-
 function rootedIn(naming: ReadonlyMap<string, string>): string | null {
   for (const [specifier, path] of naming) {
     if (path === EVERY && specifier.endsWith(`/${EVERY}`)) return specifier.slice(0, -EVERY.length)
@@ -201,12 +198,14 @@ function rootedIn(naming: ReadonlyMap<string, string>): string | null {
 }
 
 function landingFor(
+  at: string,
   spelled: string,
   given: Asked,
   naming: ReadonlyMap<string, string>
 ): string | null {
   if (spelled.startsWith(BESIDE)) {
-    return spelled.endsWith(basename(given.from)) ? landingIn(spelled, given) : null
+    if (landingOf(at, spelled) !== given.from) return null
+    return JSON.stringify(specifierFor(dirname(at), given.to))
   }
   const rooted = rootedIn(naming)
   if (rooted === null) return null
@@ -227,7 +226,7 @@ function repointedAt(
     const named = one.moduleSpecifier
     if (bound === null || !ts.isStringLiteral(named)) continue
     if (!bound.elements.some((each) => each.name.text === given.of)) continue
-    const landing = landingFor(named.text, given, naming)
+    const landing = landingFor(at, named.text, given, naming)
     if (landing === null) continue
     return { at, old: textOfNode(text, one), new: pointedAt(text, one, bound, given, landing) }
   }
@@ -275,9 +274,6 @@ function exportedIn(at: string, text: string, of: string): boolean {
 
 function planned(world: World, given: Asked): Plan | Refused {
   if (given.from === given.to) return { refused: `\`${given.to}\` is the path it already sits at` }
-  if (dirname(given.from) !== dirname(given.to)) {
-    return { refused: `\`${given.to}\` sits in another folder than \`${given.from}\`` }
-  }
   const text = world.textOf(given.from)
   if (text === null) return { refused: `\`${given.from}\` could not be read` }
   const landed = world.textOf(given.to)
