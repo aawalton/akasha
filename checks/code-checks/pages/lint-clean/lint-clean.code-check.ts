@@ -35,6 +35,14 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
+      statement: "The mirror is named to the linter as one folder rather than as every path in it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The linter judges its own config there beside the files the change has.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The linter itself is found under the tree rather than in the mirror.",
     },
     {

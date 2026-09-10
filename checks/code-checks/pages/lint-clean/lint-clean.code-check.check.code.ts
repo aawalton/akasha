@@ -16,6 +16,8 @@ const IGNORE = ".gitignore"
 
 const CONFIGURED: readonly string[] = [CONFIG, IGNORE]
 
+const HERE: readonly string[] = ["."]
+
 const LOOKED: Selector<Body> = {
   named: "the files the linter reads and the configuration naming them",
   isInput: () => true,
@@ -29,7 +31,7 @@ function refusalsIn(change: Change): readonly Judged[] {
   if (first === undefined) return []
   const mirror = mirroredOf(change.root, carried, change.after, CONFIGURED)
   try {
-    return judgedOf(lintedOver(mirror.root, carried, change.root), first, mirror.root)
+    return judgedOf(lintedOver(mirror.root, HERE, change.root), first, mirror.root)
   } finally {
     mirror.sweep()
   }
