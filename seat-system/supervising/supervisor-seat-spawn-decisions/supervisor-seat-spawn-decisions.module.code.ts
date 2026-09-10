@@ -28,14 +28,14 @@ function fallback(headless: boolean): SeatSpawnDecisions {
   return { remoteControl: remoteControlFallback(headless) }
 }
 
-export const defaultSeatSpawnDeps: SeatSpawnDeps = {
+export const DEFAULT_SEAT_SPAWN_DEPS: SeatSpawnDeps = {
   ask: askSupervisorDecide,
 }
 
 export async function resolveSeatSpawnDecisions(
   agentId: string | null,
   opts: { headless: boolean },
-  deps: SeatSpawnDeps = defaultSeatSpawnDeps
+  deps: SeatSpawnDeps = DEFAULT_SEAT_SPAWN_DEPS
 ): Promise<SeatSpawnDecisions> {
   const seat = seatLabel(agentId)
   const question = readRemoteControlQuestion(opts)
