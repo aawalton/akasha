@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { TextProperty } from "@akasha/pages/text-property"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export type AlwaysShowProperties = List<string>
 

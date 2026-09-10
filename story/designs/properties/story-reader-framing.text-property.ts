@@ -1,4 +1,4 @@
-import type { TextProperty } from "@akasha/pages/text-property"
+import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export type StoryReaderFraming = string
 
