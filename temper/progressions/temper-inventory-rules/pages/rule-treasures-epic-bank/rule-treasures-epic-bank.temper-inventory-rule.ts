@@ -1,4 +1,4 @@
-import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.types.ts"
 
 export const ruleTreasuresEpicBank = {
   id: "01a0728b-8ec0-751b-8b72-78d2913de4d2",

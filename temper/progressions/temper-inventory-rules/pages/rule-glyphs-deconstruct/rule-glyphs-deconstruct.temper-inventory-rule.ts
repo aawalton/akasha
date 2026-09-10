@@ -1,4 +1,4 @@
-import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.types.ts"
 
 export const ruleGlyphsDeconstruct = {
   id: "01a0728b-4fbc-77ff-8a3c-78b19009ed0e",

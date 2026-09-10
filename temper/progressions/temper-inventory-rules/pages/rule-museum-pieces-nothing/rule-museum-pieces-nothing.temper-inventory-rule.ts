@@ -1,4 +1,4 @@
-import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.types.ts"
 
 export const ruleMuseumPiecesNothing = {
   id: "01a0728b-4fbd-7048-8c55-e0eb6494b565",

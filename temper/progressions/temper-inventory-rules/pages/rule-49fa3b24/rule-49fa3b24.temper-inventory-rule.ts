@@ -1,4 +1,4 @@
-import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.types.ts"
 
 export const rule49fa3b24 = {
   id: "01a0728a-f56c-71f5-bd7c-37738ebdef31",

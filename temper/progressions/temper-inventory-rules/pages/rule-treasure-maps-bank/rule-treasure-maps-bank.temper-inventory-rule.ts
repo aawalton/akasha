@@ -1,4 +1,4 @@
-import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.types.ts"
 
 export const ruleTreasureMapsBank = {
   id: "01a0728b-8ebf-7ddd-8ba9-20cfde237207",

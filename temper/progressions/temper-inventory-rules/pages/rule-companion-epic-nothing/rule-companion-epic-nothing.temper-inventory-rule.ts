@@ -1,4 +1,4 @@
-import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.types.ts"
 
 export const ruleCompanionEpicNothing = {
   id: "01a0728b-10d1-750f-b02c-48d90d221ac4",

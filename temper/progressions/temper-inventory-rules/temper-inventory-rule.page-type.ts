@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperRule } from "../temper-rules/temper-rule.page-type.types.ts"
-import type { DestinationChain } from "./properties/destination-chain.page-property-entry.ts"
-import type { FromTemplate } from "./properties/from-template.relation-property.ts"
-import type { RuleLocked } from "./properties/rule-locked.boolean-property.ts"
-import type { UpdatedAt } from "./properties/updated-at.instant-property.ts"
-
-export type TemperInventoryRule = TemperRule & {
-  updatedAt: UpdatedAt
-  locked?: RuleLocked
-  fromTemplate?: FromTemplate
-  destinationChain?: DestinationChain
-}
 
 export const temperInventoryRule = {
   id: "01a07283-f299-703a-a255-0c48075885be",
@@ -64,4 +52,5 @@ export const temperInventoryRule = {
       statement: "A rule adopted from a template and later edited says the changes that rule made.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

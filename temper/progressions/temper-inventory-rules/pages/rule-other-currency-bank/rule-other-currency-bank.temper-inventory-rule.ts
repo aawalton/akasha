@@ -1,4 +1,4 @@
-import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.types.ts"
 
 export const ruleOtherCurrencyBank = {
   id: "01a0728b-6d6d-7c4b-ad71-6b92012f5852",

@@ -1,4 +1,4 @@
-import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.ts"
+import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.types.ts"
 
 export const ruleSoulGemsEmptyBank = {
   id: "01a0728b-6d6f-7226-88d1-5d7267781a0e",
