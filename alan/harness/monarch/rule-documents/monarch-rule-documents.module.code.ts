@@ -1,4 +1,4 @@
-import { valuesByPath } from "@akasha/indexes"
+import { valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { AKASHA } from "../files/monarch-files.module.code.ts"
 import { ruleFromMatches, statedMatches } from "../rule-clauses/monarch-rule-clauses.module.code.ts"

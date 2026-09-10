@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled, pathFiled } from "@akasha/indexes/testing"
+import {
+  listedFiled,
+  pathFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import {

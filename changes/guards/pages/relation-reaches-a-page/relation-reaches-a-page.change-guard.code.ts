@@ -1,5 +1,11 @@
-import { eachTarget, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  eachTarget,
+  namesIn,
+  namingsIn,
+  reaches,
+  type Shaped,
+} from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { unreadable, writtenIn } from "../../../modules/guarding/change-guarding.module.code.ts"
 import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 

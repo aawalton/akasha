@@ -1,6 +1,6 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { FILE_PROPERTY } from "@akasha/indexes/entries"
+import { FILE_PROPERTY } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import { besideAt } from "../file-name/page-file-name.module.code.ts"
 import { partsOf } from "../file-parts/page-file-parts.module.code.ts"
 import type { Value } from "../value/page-value.module.code.ts"

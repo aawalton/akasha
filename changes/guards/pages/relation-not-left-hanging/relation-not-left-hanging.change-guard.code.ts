@@ -1,6 +1,6 @@
-import type { Named } from "@akasha/indexes"
-import type { Known } from "@akasha/indexes/reaching"
 import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Known } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import type { Named } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { judging } from "../../../modules/guarding/change-guarding.module.code.ts"
 import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 

@@ -1,5 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import {
+  bodyOf,
+  indexedRepo,
+  pageOf,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   NOTHING_OVER,
   type World,

@@ -1,7 +1,10 @@
 import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { RUNNING } from "@akasha/code/code-tests"
-import { noPathsFiled, pathFiled } from "@akasha/indexes/testing"
+import {
+  noPathsFiled,
+  pathFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 

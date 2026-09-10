@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import { pageFiled } from "@akasha/indexes/testing"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   blobIdOf,
   recordRead,

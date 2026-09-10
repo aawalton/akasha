@@ -1,5 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { bodyOf, idOf, indexedRepo, scratch } from "@akasha/indexes/indexing/testing"
+import {
+  bodyOf,
+  idOf,
+  indexedRepo,
+  scratch,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { typeSlugsIn, typesAmong, typeValuesIn } from "./page-type-gathering.module.code.ts"
 
 afterAll(scratch.sweep)

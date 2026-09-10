@@ -1,9 +1,14 @@
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { readingIn } from "@akasha/indexes"
-import type { PageOf } from "@akasha/indexes/answering"
-import type { Child, Reading } from "@akasha/indexes/shape"
-import { listedFiled, pageFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  listedFiled,
+  pageFiled,
+  schemaFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Child, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"

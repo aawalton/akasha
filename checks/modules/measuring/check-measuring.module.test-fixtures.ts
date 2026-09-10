@@ -1,4 +1,7 @@
-import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import {
+  nothingFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import type { CheckCost, Chosen, Costs } from "./check-measuring.module.code.ts"
 

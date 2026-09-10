@@ -1,7 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { idFiled, listedFiled, noneOfTypeFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import {
+  idFiled,
+  listedFiled,
+  noneOfTypeFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { Kind, Surface } from "./calling.module.code.ts"
 

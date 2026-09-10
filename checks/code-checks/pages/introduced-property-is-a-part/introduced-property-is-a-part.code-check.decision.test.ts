@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { listedTakenFrom } from "@akasha/indexes/testing"
+import { listedTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { landing } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   declaresIn,

@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled } from "@akasha/indexes/testing"
+import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { keepPointsToday } from "../../points/attribute-points.module.code.ts"
 import { intelligenceShown } from "./attribute-intelligence.readout.code.ts"
 import { attributeIntelligence } from "./attribute-intelligence.readout.ts"

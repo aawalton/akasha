@@ -1,4 +1,4 @@
-import { listedAt } from "@akasha/indexes"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   dropUncommitted,
   mergeUncommitted,

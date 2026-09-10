@@ -5,7 +5,7 @@ export const anIndexRefilingOnlyThePagesAChangeWroteGoesStaleWhenANameItFilesByT
   pageTypeSlug: "finding",
   type: "finding",
   slug: "an-index-refiling-only-the-pages-a-change-wrote-goes-stale-when-a-name-it-files-by-turns",
-  domain: "workspace-package/index",
+  domain: "domain/index",
   claim:
     "An index that refiles only the pages a change wrote goes stale when the change turns a name that index files by. `settlingOver` reaches past the pages a change carries for the identity, path, listing and import indexes, through `turningIn`, `besidesTurned`, `pagesTurned` and `rereadOver`, and for the relation index it does not. So renaming a property page re-keys the edge directory of every page carrying that property and refiles none of them. The subtler half is that the withdrawal is worked out against the slugs the index has now, so even a page the change does carry keeps its orphan once an earlier landing moved the name. What makes this dangerous rather than merely wrong is that the answer was silent: an audit refused a page the tree was right about, and a `rename-page-property-property-slug` draft gathered zero pages and reported success.",
   evidence:

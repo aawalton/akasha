@@ -5,7 +5,7 @@ import {
   NAMER_CODE,
   scratch,
   textIn,
-} from "@akasha/indexes/indexing/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { runChange as addFile } from "../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
 import { runChange as removeFile } from "../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import {

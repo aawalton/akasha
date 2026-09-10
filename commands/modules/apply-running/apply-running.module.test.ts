@@ -1,10 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import {
   appendEdits,
   editsIn,
   foldedIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  nothingFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
 import { type Landing, landingFrom } from "../edits-landing/edits-landing.module.code.ts"

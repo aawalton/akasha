@@ -1,5 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { listedFiled, pathFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import {
+  listedFiled,
+  pathFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { scratch, staged } from "../typecheck/typecheck.code-check.decision.test-fixtures.ts"
 import {
   askingAt,

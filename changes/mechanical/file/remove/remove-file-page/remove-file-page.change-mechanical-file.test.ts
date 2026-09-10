@@ -12,7 +12,7 @@ import {
   pageOf,
   scratch,
   textIn,
-} from "@akasha/indexes/indexing/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { claimedFileNotLeftBehind } from "../../../../guards/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"
 import { importNotLeftHanging } from "../../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import { relationNotLeftHanging } from "../../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"

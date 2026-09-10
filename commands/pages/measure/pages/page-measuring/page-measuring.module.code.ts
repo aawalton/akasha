@@ -1,5 +1,5 @@
-import { fileKeysAt, pageTypesIn } from "@akasha/indexes/entries"
 import { heldIn, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { fileKeysAt, pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
 import {
   columnsOf,
   linesAt,

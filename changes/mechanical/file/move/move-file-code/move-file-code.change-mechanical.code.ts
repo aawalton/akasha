@@ -1,6 +1,6 @@
 import { dirname, extname } from "node:path"
 import { reachesIn } from "@akasha/code/package-manifest"
-import { manifestsIn } from "@akasha/indexes/package-reaching"
+import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"

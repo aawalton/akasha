@@ -1,6 +1,6 @@
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { indexNamed } from "@akasha/indexes"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 

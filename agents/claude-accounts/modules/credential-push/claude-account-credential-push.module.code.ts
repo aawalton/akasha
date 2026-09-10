@@ -1,12 +1,12 @@
 import { chmodSync, existsSync } from "node:fs"
 import { join } from "node:path"
-import type { PageOf } from "@akasha/indexes/answering"
-import type { Reading } from "@akasha/indexes/shape"
 import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { secretAt, uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import {
   type Composed,
   cipherFor,

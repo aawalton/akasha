@@ -1,5 +1,9 @@
-import { everyOfType, everyPath, valuesByPath } from "@akasha/indexes"
-import { filePropertiesAt } from "@akasha/indexes/entries"
+import { filePropertiesAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import {
+  everyOfType,
+  everyPath,
+  valuesByPath,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { bodyOf, onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {

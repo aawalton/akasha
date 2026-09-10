@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled } from "@akasha/indexes/testing"
+import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   keepPointsBeforeToday,
   keepPointsToday,

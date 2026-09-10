@@ -1,4 +1,4 @@
-import { reaches } from "@akasha/indexes/reaching"
+import { reaches } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {

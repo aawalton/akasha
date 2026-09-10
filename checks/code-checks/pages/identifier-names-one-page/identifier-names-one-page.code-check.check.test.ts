@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled, pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import {
+  listedFiled,
+  pageFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"

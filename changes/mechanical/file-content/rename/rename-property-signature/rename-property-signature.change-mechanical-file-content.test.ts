@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "@akasha/indexes/indexing/testing"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import ts from "typescript"
 import { worldAt } from "../../../../modules/shadow/change-shadow.module.code.ts"
 import {

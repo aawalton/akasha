@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { readingIn } from "@akasha/indexes"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { routingIn } from "../marking/claude-account-marking.module.code.ts"
 import {
   ACCOUNT_DECLARED,

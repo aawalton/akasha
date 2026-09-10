@@ -1,4 +1,9 @@
-import { filedById, namesIn, reaches, type Shaped } from "@akasha/indexes/reaching"
+import {
+  filedById,
+  namesIn,
+  reaches,
+  type Shaped,
+} from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"

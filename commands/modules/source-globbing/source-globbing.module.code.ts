@@ -1,8 +1,11 @@
 import { textOf } from "@akasha/code/body-text"
 import type { Naming } from "@akasha/code/code-specifier"
-import { edgesIn } from "@akasha/indexes/import"
-import { manifestsAmong, reachingOf } from "@akasha/indexes/package-reaching"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
+import {
+  manifestsAmong,
+  reachingOf,
+} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import type { Replacing } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
 

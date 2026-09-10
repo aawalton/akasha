@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { parsedAs } from "@akasha/code/code-source"
-import { noneOfTypeFiled } from "@akasha/indexes/testing"
+import { noneOfTypeFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { SourceFile } from "typescript"
 import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.code-check.decision.code.ts"

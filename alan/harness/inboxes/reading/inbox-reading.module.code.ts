@@ -1,6 +1,6 @@
-import { listedAt } from "@akasha/indexes"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { lowestIn, mailOn } from "akasha/readouts/pages/inboxes-email/inboxes-email.readout.code.ts"
 import { tasksIn } from "akasha/readouts/pages/inboxes-tasks/inboxes-tasks.readout.code.ts"

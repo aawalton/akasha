@@ -1,5 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { HELD_CODE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import {
+  HELD_CODE,
+  indexedRepo,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import {
   type Reaching,

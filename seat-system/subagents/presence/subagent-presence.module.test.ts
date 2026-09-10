@@ -1,8 +1,12 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled, pageFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  listedFiled,
+  pageFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   keepUncommitted,
   uncommittedIn,

@@ -1,4 +1,4 @@
-import { valueAlsoFiled } from "@akasha/indexes/testing"
+import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { keepUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { subagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.ts"
 import type { FileChange } from "../answer/change-answer.module.types.ts"

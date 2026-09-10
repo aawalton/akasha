@@ -146,12 +146,12 @@ test("a subfolder a file the page's own property names sits under is a part", ()
 })
 
 test("a subfolder declared by the workspace package beside its page type takes the shape", () => {
-  const paired = ["page-type/index", "workspace-package/index"]
+  const paired = ["page-type/index", "domain/index"]
   const made = folderFrom({
     folder: FOLDER,
     pageTypes: PAGE_TYPES,
     extending: (pageTypeSlug, wanted) => wanted === "page-type" && TYPES.has(pageTypeSlug),
-    declared: () => new Set<string>(["workspace-package/index"]),
+    declared: () => new Set<string>(["domain/index"]),
     holds: (at) => (at.endsWith("/indexes") ? paired : []),
     deep: ["indexes/index.page-type.ts", "indexes/index.workspace-package.ts"],
   })

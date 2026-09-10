@@ -1,6 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import {
+  nothingFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import {
   bodyOf,

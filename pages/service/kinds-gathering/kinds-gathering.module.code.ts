@@ -1,14 +1,6 @@
 import { readFileSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import {
-  idsNaming,
-  listedAt,
-  listedById,
-  readingIn,
-  type Valued,
-  valuesOfType,
-} from "@akasha/indexes"
-import {
   type TextOf,
   workIn,
 } from "akasha/pages/calculation-loading/calculation-loading.module.code.ts"
@@ -22,6 +14,14 @@ import {
 import { entriedValue } from "akasha/pages/entries/page-entries.module.code.ts"
 import { filedValue } from "akasha/pages/file-body/page-file-body.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  idsNaming,
+  listedAt,
+  listedById,
+  readingIn,
+  type Valued,
+  valuesOfType,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   type Carried,
   propertiesFrom,

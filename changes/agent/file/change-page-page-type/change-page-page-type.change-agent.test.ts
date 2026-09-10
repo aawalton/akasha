@@ -1,5 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import {
+  bodyOf,
+  idOf,
+  indexedRepo,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { runChange as restatePageType } from "../../../mechanical/file-content/change/change-page-page-type/change-page-page-type.change-mechanical-file-content.code.ts"

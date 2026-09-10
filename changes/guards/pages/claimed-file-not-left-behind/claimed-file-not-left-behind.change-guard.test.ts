@@ -8,7 +8,7 @@ import {
   pageOf,
   scratch,
   textIn,
-} from "@akasha/indexes/indexing/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { pathsIn, stating } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/guarding/change-guarding.module.code.ts"

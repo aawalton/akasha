@@ -1,5 +1,5 @@
 import { isAbsolute, join, relative } from "node:path"
-import { valuesOfType } from "@akasha/indexes"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export const DISCOVERY_GLOBS: readonly string[] = [
   "infrastructure/cluster/manifests/*-synth/*-synth.module.code.ts",

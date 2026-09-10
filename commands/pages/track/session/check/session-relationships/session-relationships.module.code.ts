@@ -1,5 +1,5 @@
-import { valuesByPath } from "@akasha/indexes"
 import { statesVersionSeven } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import { valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   textIn,

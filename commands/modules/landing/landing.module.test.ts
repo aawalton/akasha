@@ -1,15 +1,15 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { rebuiltFrom } from "@akasha/indexes/indexing"
-import { butTheStamp } from "@akasha/indexes/indexing/testing"
+import { butTheStamp } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { rebuiltFrom } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import {
   everythingFiled,
   fileWhereTheIndexIs,
   identitiesListedIn,
   idFiledIn,
   listedFiledIn,
-} from "@akasha/indexes/testing"
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { everyFileUnder } from "akasha/testing-system/walking/walking.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { readingEnded } from "../commit-reading/commit-reading.module.code.ts"

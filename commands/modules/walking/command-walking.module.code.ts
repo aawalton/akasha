@@ -1,4 +1,4 @@
-import { listedAt } from "@akasha/indexes"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 const WORD = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
 

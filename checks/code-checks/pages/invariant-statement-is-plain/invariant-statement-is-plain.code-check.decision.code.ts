@@ -1,11 +1,11 @@
 import { join } from "node:path"
 import { lineOf, parsedAs } from "@akasha/code/code-source"
-import type { Answering } from "@akasha/indexes/answering"
 import { makeSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import { loadParser } from "akasha/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts"
 import type { ShapePredicate } from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
 import { shapesIn } from "akasha/domains/plain-language/shape-reading/shape-reading.module.code.ts"
 import { scanned } from "akasha/domains/plain-language/spelt-scanning/spelt-scanning.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import ts from "typescript"
 
 const KIND = "invariantKind"

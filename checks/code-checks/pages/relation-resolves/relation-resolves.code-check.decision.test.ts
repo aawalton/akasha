@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Shaped } from "@akasha/indexes/reaching"
-import { pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
+import { pathFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { type Shadow, shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {

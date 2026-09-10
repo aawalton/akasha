@@ -1,10 +1,10 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, relative, resolve } from "node:path"
-import { typeSlugOf } from "@akasha/indexes"
 import {
   DataError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export const AKASHA_FILE_CEILING_BYTES = 15_000
 

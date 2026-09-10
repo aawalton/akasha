@@ -7,7 +7,7 @@ import {
   pageOf,
   scratch,
   textIn,
-} from "@akasha/indexes/indexing/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as moveFileCode } from "../../../mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
 import { runChange as moveFileOfAnyKind } from "../../../mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"

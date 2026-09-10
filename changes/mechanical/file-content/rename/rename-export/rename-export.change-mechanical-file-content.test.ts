@@ -9,7 +9,7 @@ import {
   NAMER_CODE,
   scratch,
   textIn,
-} from "@akasha/indexes/indexing/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { bodiesIn } from "../../../../modules/shadow/change-shadow.module.code.ts"

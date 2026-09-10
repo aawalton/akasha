@@ -1,4 +1,4 @@
-import type { Filed } from "@akasha/indexes/identity"
+import type { Filed } from "akasha/pages/indexes/identity/index-identity.index.code.ts"
 import {
   filedInPage,
   type InPage,

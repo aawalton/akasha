@@ -1,6 +1,6 @@
-import { namesIn } from "@akasha/indexes/reaching"
 import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { partedIn as nameParted } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { namesIn } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   declarationsFrom,

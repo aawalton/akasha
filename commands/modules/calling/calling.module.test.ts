@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { idTakenFrom } from "@akasha/indexes/testing"
+import { idTakenFrom } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { calling, commandsIn, HELP, HELP_SHORT, type Surface } from "./calling.module.code.ts"
 import {
   ANSWERS,

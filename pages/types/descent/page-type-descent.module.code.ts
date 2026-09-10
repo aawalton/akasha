@@ -1,5 +1,5 @@
-import { everyOfType } from "@akasha/indexes"
-import type { Reading } from "@akasha/indexes/shape"
+import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { slugsIn, type Value } from "../../value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"

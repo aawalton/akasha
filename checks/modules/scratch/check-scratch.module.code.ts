@@ -1,13 +1,13 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,
   pathFiled,
   relationFiled,
   schemaFiled,
   valueAlsoFiled,
-} from "@akasha/indexes/testing"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 

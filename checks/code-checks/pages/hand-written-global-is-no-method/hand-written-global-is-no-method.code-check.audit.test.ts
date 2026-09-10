@@ -1,5 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { noPathsFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import {
+  noPathsFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { filing } from "../../../modules/scratch/check-scratch.module.code.ts"

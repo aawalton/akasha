@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { indexedRepo, pageOf, scratch } from "@akasha/indexes/indexing/testing"
+import {
+  indexedRepo,
+  pageOf,
+  scratch,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { landingFrom } from "../../../../commands/modules/edits-landing/edits-landing.module.code.ts"
 import { baseOf } from "../../../../commands/modules/landing/landing.module.code.ts"
 import { movedOnto } from "../../../../commands/modules/path-moving/path-moving.module.code.ts"

@@ -1,7 +1,7 @@
 import { placedIn } from "@akasha/code/code-specifier"
 import { typed } from "@akasha/code/code-typing"
 import { calledIn, DEPENDING, objectIn } from "@akasha/code/package-manifest"
-import { manifestsIn } from "@akasha/indexes/package-reaching"
+import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 import {
   missing,

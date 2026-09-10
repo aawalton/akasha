@@ -1,5 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import {
+  indexedRepo,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
 import {
   folderFor,

@@ -1,7 +1,7 @@
 import { dirname } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
 import { landingOf, specifierFor } from "@akasha/code/code-specifier"
-import { reachingOf } from "@akasha/indexes/package-reaching"
+import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"

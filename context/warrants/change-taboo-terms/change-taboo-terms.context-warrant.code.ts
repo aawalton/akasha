@@ -1,6 +1,6 @@
 import { dirname, join } from "node:path"
-import { everyOfType, listedAt } from "@akasha/indexes"
 import { besideAt, pageOf, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { everyOfType, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {

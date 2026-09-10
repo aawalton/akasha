@@ -1,11 +1,14 @@
 import { cpSync, existsSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/context/modules/warranting/warranting.module.test-fixtures.ts"
+import {
+  noImportersFiled,
+  pageFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf as bytes } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import {
   ADMITS_CODE,

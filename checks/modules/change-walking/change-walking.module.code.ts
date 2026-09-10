@@ -1,14 +1,14 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { everyPath } from "@akasha/indexes"
-import type { Answering } from "@akasha/indexes/answering"
-import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   pageNamed,
   partedIn,
   uncommittedHeld,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { type Loaded, loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"

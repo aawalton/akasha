@@ -1,7 +1,7 @@
 import { dirname, join, relative } from "node:path"
 import { typed } from "@akasha/code/code-typing"
 import { calledIn, objectIn } from "@akasha/code/package-manifest"
-import { manifestsIn } from "@akasha/indexes/package-reaching"
+import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 import {
   missing,

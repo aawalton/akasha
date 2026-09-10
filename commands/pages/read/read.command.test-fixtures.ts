@@ -1,10 +1,13 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import {
   realAt,
   SEEDED_AT,
 } from "akasha/context/modules/warranting/warranting.module.test-fixtures.ts"
+import {
+  listedFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import { said as saying } from "akasha/utils/run/running/running.module.code.ts"

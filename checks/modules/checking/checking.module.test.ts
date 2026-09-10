@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
-import { indexNamed } from "@akasha/indexes"
-import { idTakenFrom, indexTakenFrom } from "@akasha/indexes/testing"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  idTakenFrom,
+  indexTakenFrom,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   checkPagesIn,

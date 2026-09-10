@@ -58,7 +58,7 @@ export const page = {
     "page-type/unique-kind",
     "page-type/page-address-kind",
     "page-type/page-query",
-    "workspace-package/index",
+    "domain/index",
     "domain/pages-query",
     "domain/pages-service",
     "domain/pages-core",

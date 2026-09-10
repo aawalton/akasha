@@ -7,7 +7,7 @@ import {
   relationFiled,
   schemaFiled,
   valueAlsoFiled,
-} from "@akasha/indexes/testing"
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { carriedFor, computedInto, gatheredFor, kindsFor } from "./kinds-gathering.module.code.ts"
 

@@ -1,4 +1,3 @@
-import { readingIn } from "@akasha/indexes"
 import {
   DOORS,
   fileRefreshedFrom,
@@ -14,6 +13,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "../../oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {

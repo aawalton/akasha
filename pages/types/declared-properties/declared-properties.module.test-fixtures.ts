@@ -1,6 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
+import {
+  listedFiled,
+  schemaFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { valueAt } from "../../value/page-value.module.code.ts"
 import {

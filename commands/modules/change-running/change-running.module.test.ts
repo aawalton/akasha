@@ -1,8 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { NAMER_CODE, NAMER_PAGE, scratch } from "@akasha/indexes/indexing/testing"
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  NAMER_CODE,
+  NAMER_PAGE,
+  scratch,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   appending,
   changing,

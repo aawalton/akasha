@@ -1,8 +1,11 @@
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { rebuiltIn, valueAlsoFiled } from "@akasha/indexes/testing"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/editor-extension/subagent-reading/subagent-reading.module.code.ts"
+import {
+  rebuiltIn,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { said as gitIn } from "../../../../git/running/git-running.module.code.ts"
 import type { Applied } from "../../../modules/applying/applying.module.code.ts"

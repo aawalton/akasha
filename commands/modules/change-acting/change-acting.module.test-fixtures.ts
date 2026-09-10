@@ -1,4 +1,3 @@
-import { indexedRepo } from "@akasha/indexes/indexing/testing"
 import {
   appendEdits,
   editsIn,
@@ -7,6 +6,7 @@ import {
   handedFrom,
   pageOf,
 } from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
+import { indexedRepo } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import type { Answer } from "../calling/calling.module.code.ts"

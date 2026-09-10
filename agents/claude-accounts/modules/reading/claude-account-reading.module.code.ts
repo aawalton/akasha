@@ -1,6 +1,10 @@
-import { everyOfType, listedAt, typeSlugOf } from "@akasha/indexes"
-import type { Reading } from "@akasha/indexes/shape"
 import { partedIn, secretAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  everyOfType,
+  listedAt,
+  typeSlugOf,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { z } from "zod"

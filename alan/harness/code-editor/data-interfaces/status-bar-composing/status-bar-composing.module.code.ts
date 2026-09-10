@@ -1,6 +1,6 @@
 import { dirname, join } from "node:path"
-import { typeSlugOf, valuesOfType } from "@akasha/indexes"
 import { readFleetUsage } from "akasha/agents/claude-accounts/modules/usage/claude-account-usage.module.code.ts"
+import { typeSlugOf, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import {
   HABIT,

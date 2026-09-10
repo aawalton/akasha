@@ -1,6 +1,5 @@
 import { cpSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { keepingIn } from "@akasha/indexes/indexing"
 import {
   aType,
   bodyOf,
@@ -8,9 +7,10 @@ import {
   idOf,
   type Named,
   VOCABULARY,
-} from "@akasha/indexes/indexing/testing"
-import type { Reading } from "@akasha/indexes/shape"
-import { rebuiltIn } from "@akasha/indexes/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { keepingIn } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
+import { rebuiltIn } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import type { Change } from "../change/change.module.code.ts"

@@ -1,5 +1,5 @@
-import { valueAlsoFiled } from "@akasha/indexes/testing"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"

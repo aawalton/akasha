@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { indexNamed } from "@akasha/indexes"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { repoWith, scratch } from "../landing/landing.module.test-fixtures.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import {

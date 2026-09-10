@@ -1,6 +1,5 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
 import { removePage } from "akasha/changes/agent/file/remove-page/remove-page.change-agent.code.ts"
 import { editsIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { handedFrom } from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
@@ -8,6 +7,13 @@ import {
   type Loaded,
   loadedAt,
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
+import {
+  idOf,
+  indexedRepo,
+  NAMER_CODE,
+  NAMER_PAGE,
+  pageOf,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import type { World } from "../../../changes/modules/shadow/change-shadow.module.code.ts"

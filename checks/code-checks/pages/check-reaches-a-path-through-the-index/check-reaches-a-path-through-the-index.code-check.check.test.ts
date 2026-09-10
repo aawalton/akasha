@@ -1,6 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { listedFiled, pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import {
+  listedFiled,
+  pathFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {

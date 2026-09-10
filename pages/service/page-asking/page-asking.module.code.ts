@@ -1,4 +1,4 @@
-import { listedAt, type Valued } from "@akasha/indexes"
+import { listedAt, type Valued } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import {
   slugAt,

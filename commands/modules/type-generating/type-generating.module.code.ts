@@ -2,11 +2,15 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import { textOf } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
-import { importersIn, readingIn } from "@akasha/indexes"
-import { type Facing, facingOn, generatedIn } from "@akasha/indexes/property-carrying"
-import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  type Facing,
+  facingOn,
+  generatedIn,
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import { importersIn, readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type {

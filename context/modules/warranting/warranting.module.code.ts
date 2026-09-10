@@ -1,10 +1,15 @@
 import { readFileSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  everyOfType,
+  listedAt,
+  listedById,
+  slugsOfType,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import {
   blobIdOf,

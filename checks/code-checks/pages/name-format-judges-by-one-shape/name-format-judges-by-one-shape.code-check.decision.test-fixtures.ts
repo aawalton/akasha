@@ -1,4 +1,9 @@
-import { idFiled, listedFiled, pathFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import {
+  idFiled,
+  listedFiled,
+  pathFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"

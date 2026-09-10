@@ -1,10 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { readingIn } from "@akasha/indexes"
-import type { Reading } from "@akasha/indexes/shape"
-import { indexTakenFrom, listingFiled, pathFiled } from "@akasha/indexes/testing"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  indexTakenFrom,
+  listingFiled,
+  pathFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   everyFileIn,

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "@akasha/indexes/indexing/testing"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import type { FileChange } from "../answer/change-answer.module.types.ts"
 import { appendEdits } from "../edits-keeping/edits-keeping.module.code.ts"
 import { handedPageOf, handedUnder } from "./subagent-handed.module.code.ts"

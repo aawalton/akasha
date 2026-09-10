@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { pageFiled } from "@akasha/indexes/testing"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { SEAT_NAMED } from "../../../commands/modules/reading/reading.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { actIn, askedOf, SCOPE } from "./state-subagent.agent-hook.code.ts"

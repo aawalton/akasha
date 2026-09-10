@@ -1,9 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { readingIn } from "@akasha/indexes"
-import type { Child, Reading } from "@akasha/indexes/shape"
-import { listedFiled, pageFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  listedFiled,
+  pageFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Child, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   accountBesideIn,

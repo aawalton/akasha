@@ -1,9 +1,12 @@
 import { textOf } from "@akasha/code/body-text"
 import { digestOf } from "@akasha/code/carried-file"
-import { readingIn, valuesByPath } from "@akasha/indexes"
-import { type Answering, answeringOver } from "@akasha/indexes/answering"
-import { settlingOver } from "@akasha/indexes/index-settling"
-import type { Filing, Reading } from "@akasha/indexes/shape"
+import {
+  type Answering,
+  answeringOver,
+} from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { readingIn, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { settlingOver } from "akasha/pages/indexes/settling/index-settling.module.code.ts"
+import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Change } from "../change/change.module.code.ts"
 import { partedIn } from "../file-name/page-file-name.module.code.ts"
 import { type Value, valueAt, valueIn } from "../value/page-value.module.code.ts"

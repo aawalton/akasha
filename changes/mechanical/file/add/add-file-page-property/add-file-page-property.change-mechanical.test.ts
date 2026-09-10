@@ -1,5 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { indexedRepo, scratch } from "@akasha/indexes/indexing/testing"
+import {
+  indexedRepo,
+  scratch,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { worldIn } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { runChange } from "./add-file-page-property.change-mechanical.code.ts"
 

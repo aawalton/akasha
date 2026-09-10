@@ -1,5 +1,5 @@
-import { valuesOfType } from "@akasha/indexes"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   mergeUncommitted,
   removeUncommitted,

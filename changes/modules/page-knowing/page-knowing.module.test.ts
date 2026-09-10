@@ -6,7 +6,7 @@ import {
   NAMER_PAGE,
   scratch,
   textIn,
-} from "@akasha/indexes/indexing/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { type World, worldAt } from "../shadow/change-shadow.module.code.ts"
 import { namersIn, pageIn, readFor, singleIn, targetsIn } from "./page-knowing.module.code.ts"
 

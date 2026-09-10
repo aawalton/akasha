@@ -1,4 +1,4 @@
-import { everyOfType } from "@akasha/indexes"
+import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { akashaSeatPathForAgent } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"

@@ -1,5 +1,9 @@
-import { everyOfType, listedById, typeSlugOf } from "@akasha/indexes"
 import { alive, type Holder } from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
+import {
+  everyOfType,
+  listedById,
+  typeSlugOf,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"

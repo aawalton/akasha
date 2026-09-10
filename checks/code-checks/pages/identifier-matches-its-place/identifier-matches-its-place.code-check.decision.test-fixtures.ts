@@ -1,4 +1,4 @@
-import { noPathsFiled } from "@akasha/indexes/testing"
+import { noPathsFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { lowerCamelCase } from "akasha/pages/name-formats/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { upperCamelCase } from "akasha/pages/name-formats/pages/upper-camel-case/upper-camel-case.name-format.code.ts"
 import { upperSnakeCase } from "akasha/pages/name-formats/pages/upper-snake-case/upper-snake-case.name-format.code.ts"

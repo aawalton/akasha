@@ -5,7 +5,7 @@ import {
   NAMER_CODE,
   scratch,
   textIn,
-} from "@akasha/indexes/indexing/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   type BodyOf,
   gathered,

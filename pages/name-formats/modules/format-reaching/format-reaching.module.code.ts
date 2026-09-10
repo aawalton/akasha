@@ -1,6 +1,6 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import type { Answering } from "@akasha/indexes/answering"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
 import { slugIn } from "../../../address/page-address.module.code.ts"
 import { exportedAs } from "../../../export-name/page-export-name.module.code.ts"
 import { besideAt } from "../../../file-name/page-file-name.module.code.ts"

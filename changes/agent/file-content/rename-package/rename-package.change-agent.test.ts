@@ -1,5 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import {
+  bodyOf,
+  indexedRepo,
+  pageOf,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import type { Said } from "../../../modules/answer/change-answer.module.types.ts"
 import { bodiesIn, type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
 import { renamePackage, runChange } from "./rename-package.change-agent.code.ts"

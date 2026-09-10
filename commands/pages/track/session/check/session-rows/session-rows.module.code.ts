@@ -1,6 +1,5 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { valuesByPath } from "@akasha/indexes"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   mountainWallAt,
@@ -12,6 +11,7 @@ import {
   statesVersionSeven,
   uuidVersion7,
 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import { valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { numberAt, textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   type ActivityDifficulty,

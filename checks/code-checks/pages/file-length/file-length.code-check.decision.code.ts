@@ -1,3 +1,5 @@
+import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
+import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   type Carried,
   heldBeside,
@@ -6,9 +8,7 @@ import {
   namingUnder,
   sectionHeld,
   slugsWhere,
-} from "@akasha/indexes/property-carrying"
-import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
-import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"

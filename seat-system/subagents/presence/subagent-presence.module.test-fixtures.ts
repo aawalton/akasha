@@ -1,6 +1,9 @@
 import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
+import {
+  listedFiled,
+  rebuiltIn,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { PUT_BACK } from "../../../commands/modules/change-freshness/change-freshness.module.code.ts"
 import {

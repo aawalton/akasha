@@ -1,5 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
-import { indexedRepo, NAMER_PAGE, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import {
+  indexedRepo,
+  NAMER_PAGE,
+  pageOf,
+  scratch,
+  textIn,
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { runChange as addPropertyValue } from "../../../mechanical/file-content/add/add-property-value/add-property-value.change-mechanical-file-content.code.ts"
 import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {

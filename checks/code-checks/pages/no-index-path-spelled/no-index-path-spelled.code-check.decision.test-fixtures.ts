@@ -1,5 +1,5 @@
-import { indexNamed } from "@akasha/indexes"
-import { listedFiled } from "@akasha/indexes/testing"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { bodiesIn } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"

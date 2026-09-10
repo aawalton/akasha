@@ -1,7 +1,12 @@
 import { basename } from "node:path"
 import { typed } from "@akasha/code/code-typing"
-import type { Listed } from "@akasha/indexes"
-import { everyPath, importersOf, listedByPath, readingIn } from "@akasha/indexes"
+import type { Listed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  everyPath,
+  importersOf,
+  listedByPath,
+  readingIn,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textOf } from "../../../commands/modules/body-reaching/body-reaching.module.code.ts"
 import { bodyAt } from "../../../commands/modules/commit-reading/commit-reading.module.code.ts"
 import type { Answering } from "../answering/index-answering.module.code.ts"

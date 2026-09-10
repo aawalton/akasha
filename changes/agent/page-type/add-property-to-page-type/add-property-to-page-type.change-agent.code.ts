@@ -1,7 +1,10 @@
 import { dirname } from "node:path"
-import { manifestsIn, reachingOf } from "@akasha/indexes/package-reaching"
 import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
 import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import {
+  manifestsIn,
+  reachingOf,
+} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"

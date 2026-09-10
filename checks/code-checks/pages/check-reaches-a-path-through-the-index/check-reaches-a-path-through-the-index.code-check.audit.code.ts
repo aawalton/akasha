@@ -1,5 +1,5 @@
-import { everyPath } from "@akasha/indexes"
-import { pageTypesIn } from "@akasha/indexes/entries"
+import { pageTypesIn } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { overEveryNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {

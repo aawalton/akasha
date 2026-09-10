@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Valued } from "@akasha/indexes"
+import type { Valued } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   answersFrom,

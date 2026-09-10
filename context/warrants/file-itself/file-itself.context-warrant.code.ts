@@ -1,4 +1,4 @@
-import { generatedAt } from "@akasha/indexes/property-carrying"
+import { generatedAt } from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
 import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 
 export const ITSELF =

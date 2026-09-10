@@ -1,9 +1,9 @@
-import { listedAt } from "@akasha/indexes"
 import {
   AKASHA,
   rootFor,
   rootsHere,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const REFUSAL = "refusal"

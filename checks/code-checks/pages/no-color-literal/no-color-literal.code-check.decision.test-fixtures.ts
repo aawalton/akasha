@@ -1,4 +1,4 @@
-import { listedFiled } from "@akasha/indexes/testing"
+import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bodiesAt } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"

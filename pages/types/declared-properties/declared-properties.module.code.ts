@@ -1,6 +1,9 @@
-import { listedAt, schemaOf } from "@akasha/indexes"
-import type { Identifier, ScopedBy } from "@akasha/indexes/entries"
-import type { Reading, Schema } from "@akasha/indexes/shape"
+import type {
+  Identifier,
+  ScopedBy,
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { listedAt, schemaOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading, Schema } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { addressIn, slugIn } from "../../address/page-address.module.code.ts"
 import { exportedAs } from "../../export-name/page-export-name.module.code.ts"
 import {

@@ -1,3 +1,5 @@
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   eachTarget,
   filedById,
@@ -6,9 +8,7 @@ import {
   namingsIn,
   reaches,
   type Shaped,
-} from "@akasha/indexes/reaching"
-import type { Change } from "akasha/pages/change/change.module.code.ts"
-import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+} from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textAt, type Value, valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { bodyOf } from "../../../modules/change-walking/change-walking.module.code.ts"

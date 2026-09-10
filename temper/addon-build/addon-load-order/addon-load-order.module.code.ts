@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { valuesOfType } from "@akasha/indexes"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { numberAt, textAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { AddonManifest } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"

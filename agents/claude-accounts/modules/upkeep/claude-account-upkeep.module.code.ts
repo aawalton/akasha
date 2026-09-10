@@ -1,6 +1,6 @@
-import { readingIn } from "@akasha/indexes"
-import type { PageOf } from "@akasha/indexes/answering"
-import type { Reading } from "@akasha/indexes/shape"
+import type { PageOf } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {

@@ -1,6 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { listedAt } from "@akasha/indexes"
 import {
   getEsoDayStr,
   getEsoDayWindow,
@@ -9,6 +8,7 @@ import { nyWallToInstant } from "akasha/alan/harness/day/new-york-wall/new-york-
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { entriesIn } from "akasha/pages/entries/page-entries.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
 export interface DayWindow {
   readonly from: string

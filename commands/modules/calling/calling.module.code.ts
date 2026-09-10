@@ -1,8 +1,14 @@
 import { createRequire } from "node:module"
 import { join, resolve } from "node:path"
-import { indexNamed, indexThere, listedAt, slugsOfType, typeSlugById } from "@akasha/indexes"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  indexNamed,
+  indexThere,
+  listedAt,
+  slugsOfType,
+  typeSlugById,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
 import type { HelpNotes } from "../../properties/help-notes.text-property.ts"
 import type { Taking } from "../../properties/taking.record-property.ts"

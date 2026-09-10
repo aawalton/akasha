@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { indexNamed, indexThere } from "@akasha/indexes"
+import { indexNamed, indexThere } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   everythingFiled,
   importUnreadableFiled,
@@ -10,7 +10,7 @@ import {
   listedUnreadableFiled,
   rebuiltApart,
   rebuiltIn,
-} from "@akasha/indexes/testing"
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { textProperty } from "akasha/pages/text-properties/text-property.page-type.ts"

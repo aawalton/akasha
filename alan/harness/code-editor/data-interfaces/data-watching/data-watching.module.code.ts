@@ -1,7 +1,7 @@
 import { mkdirSync, readdirSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { indexNamed } from "@akasha/indexes"
-import { indexValue } from "@akasha/indexes/value/page"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { indexValue } from "akasha/pages/indexes/value/index-value.index.ts"
 import {
   akashaRoot,
   akashaSeatsThatExist,

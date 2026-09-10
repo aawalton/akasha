@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { pageFiled } from "@akasha/indexes/testing"
+import { pageFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import {
   declaring,
   edging,

@@ -1,8 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
-import { readingIn } from "@akasha/indexes"
-import { type Answering, answeringOver, type PageOf } from "@akasha/indexes/answering"
-import type { Reading } from "@akasha/indexes/shape"
-import { readingLaidOver } from "@akasha/indexes/testing"
+import {
+  type Answering,
+  answeringOver,
+  type PageOf,
+} from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import { readingIn } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { readingLaidOver } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
 import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"

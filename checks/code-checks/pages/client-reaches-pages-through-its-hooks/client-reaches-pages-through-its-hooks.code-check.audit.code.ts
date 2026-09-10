@@ -1,6 +1,6 @@
 import { dirname } from "node:path"
-import { everyPath, listedAt } from "@akasha/indexes"
-import { fileKeysAt } from "@akasha/indexes/entries"
+import { fileKeysAt } from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { everyPath, listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   bodyOf,
   onDisk,

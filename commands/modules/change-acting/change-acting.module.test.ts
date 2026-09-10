@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { scratch } from "@akasha/indexes/indexing/testing"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { scratch } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   forgetting,
   listing,

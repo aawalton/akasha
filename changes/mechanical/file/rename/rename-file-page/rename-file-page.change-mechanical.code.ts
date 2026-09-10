@@ -1,14 +1,14 @@
 import { basename, dirname, extname, join, relative } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
 import { reachesIn } from "@akasha/code/package-manifest"
-import { manifestsIn } from "@akasha/indexes/package-reaching"
-import type { Shaped } from "@akasha/indexes/reaching"
 import { namedAs, slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import {
   besideAt,
   secretAt,
   uncommittedAt,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
 import ts from "typescript"
 import {

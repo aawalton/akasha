@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { indexedRepo } from "@akasha/indexes/indexing/testing"
+import { indexedRepo } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { rootOf } from "../../../../../modules/rooting/rooting.module.code.ts"
 import { DAYS_AT } from "./session-rows.module.code.ts"
 

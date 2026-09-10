@@ -5,7 +5,7 @@ import {
   rebuiltIn,
   valueAlsoFiled,
   valueTakenFrom,
-} from "@akasha/indexes/testing"
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"

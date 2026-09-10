@@ -1,6 +1,6 @@
-import { everyOfType, typeSlugOf } from "@akasha/indexes"
 import type { Holder } from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
 import { alive } from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
+import { everyOfType, typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { nameOf, supervisorOf } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"

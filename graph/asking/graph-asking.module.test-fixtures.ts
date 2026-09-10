@@ -1,4 +1,4 @@
-import { linesFiled } from "@akasha/indexes/testing"
+import { linesFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 

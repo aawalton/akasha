@@ -5,7 +5,7 @@ import {
   NAMER_CODE,
   scratch,
   textIn,
-} from "@akasha/indexes/indexing/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { importNotLeftHanging } from "../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import { refusing, stating } from "../answer/change-answer.module.code.ts"
 import { type World, worldAt, worldOver } from "../shadow/change-shadow.module.code.ts"

@@ -1,9 +1,12 @@
 import { dirname, join } from "node:path"
-import type { Answering } from "@akasha/indexes/answering"
-import type { FilePropertiesBy, UncommittedBy } from "@akasha/indexes/entries"
-import { filesClaimedIn } from "@akasha/indexes/path-claiming"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"
+import type {
+  FilePropertiesBy,
+  UncommittedBy,
+} from "akasha/pages/indexes/entries/index-entries.module.code.ts"
+import { filesClaimedIn } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { bodyOf } from "../../../modules/change-walking/change-walking.module.code.ts"

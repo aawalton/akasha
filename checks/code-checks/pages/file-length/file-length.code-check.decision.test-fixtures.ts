@@ -4,7 +4,7 @@ import {
   relationFiled,
   schemaFiled,
   valueAlsoFiled,
-} from "@akasha/indexes/testing"
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 

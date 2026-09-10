@@ -1,6 +1,10 @@
 import { resolve } from "node:path"
-import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
 import { AKASHA } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import {
+  readingIn,
+  type Valued,
+  valuesOfType,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { slugAt, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { sayAnswer } from "../../../modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"

@@ -1,8 +1,8 @@
 import { expect } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { scratch, textIn } from "@akasha/indexes/indexing/testing"
-import type { Shaped } from "@akasha/indexes/reaching"
+import { scratch, textIn } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -10,7 +10,7 @@ import {
   relationFiled,
   schemaFiled,
   valueAlsoFiled,
-} from "@akasha/indexes/testing"
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { type BodyOf, refusing, replayed, stating } from "../answer/change-answer.module.code.ts"

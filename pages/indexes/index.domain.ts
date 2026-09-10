@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const index = {
   id: "01a04a4a-23e9-7114-90a5-11acf49a937d",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "index",
   definition: "the indexes the pages are read through, each answering one question of them",
-  manifest: "json",
+
   parts: [
     "index/index-identity",
     "index/index-relation",
@@ -155,4 +155,4 @@ export const index = {
       statement: "A question answered once over one reading is held rather than worked out again.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

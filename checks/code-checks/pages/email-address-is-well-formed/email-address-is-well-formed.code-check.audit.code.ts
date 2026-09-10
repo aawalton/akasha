@@ -1,5 +1,5 @@
-import { everyPath } from "@akasha/indexes"
 import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { everyPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {

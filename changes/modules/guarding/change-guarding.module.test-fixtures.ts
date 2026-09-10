@@ -1,4 +1,4 @@
-import { textIn } from "@akasha/indexes/indexing/testing"
+import { textIn } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import { stating } from "../answer/change-answer.module.code.ts"
 import type { Answer } from "../answer/change-answer.module.types.ts"
 import { worldAt } from "../shadow/change-shadow.module.code.ts"

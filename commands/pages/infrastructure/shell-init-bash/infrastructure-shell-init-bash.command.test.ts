@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import { listedFiled, pageFiled } from "@akasha/indexes/testing"
+import {
+  listedFiled,
+  pageFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../modules/scratching/scratching.module.test-fixtures.ts"

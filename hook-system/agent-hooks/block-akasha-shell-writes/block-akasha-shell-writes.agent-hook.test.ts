@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { indexNamed } from "@akasha/indexes"
+import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   editsInPlace,

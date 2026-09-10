@@ -11,7 +11,7 @@ import {
   pageOf,
   scratch,
   textIn,
-} from "@akasha/indexes/indexing/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
 import {
   bodiesIn,
   ledgerAt,

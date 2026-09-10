@@ -8,8 +8,8 @@ import {
   NAMER_PAGE,
   pageOf,
   scratch,
-} from "@akasha/indexes/indexing/testing"
-import { schemaFiled } from "@akasha/indexes/testing"
+} from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
+import { schemaFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { NOT_WORKED_OUT } from "akasha/pages/shadow/shadow.module.code.ts"
 import { stating } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"

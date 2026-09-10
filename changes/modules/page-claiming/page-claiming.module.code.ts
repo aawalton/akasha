@@ -1,4 +1,4 @@
-import { claimsOf } from "@akasha/indexes/path-claiming"
+import { claimsOf } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { World } from "../shadow/change-shadow.module.code.ts"
 

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { noImportersFiled } from "@akasha/indexes/testing"
+import { noImportersFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
 import type { Running } from "../drafting/drafting.module.code.ts"

@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
-import { listedFiled } from "@akasha/indexes/testing"
+import { listedFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { planFor, SHARED_PATHS } from "./app-building.module.code.ts"

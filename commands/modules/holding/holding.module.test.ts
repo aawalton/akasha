@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, utimesSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { idFiledIn, listedFiledIn } from "@akasha/indexes/testing"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import {
+  idFiledIn,
+  listedFiledIn,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { until } from "akasha/testing-system/waiting/waiting.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as git } from "../../../git/running/git-running.module.code.ts"

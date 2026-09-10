@@ -1,11 +1,11 @@
 import { readdir, readFile } from "node:fs/promises"
 import { join } from "node:path"
-import { slugsOfType } from "@akasha/indexes"
 import {
   AKASHA as AKASHA_REPO,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const roots = resolveRoots()
