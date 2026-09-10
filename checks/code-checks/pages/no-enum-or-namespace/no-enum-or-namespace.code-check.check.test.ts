@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noEnumOrNamespace } from "./no-enum-or-namespace.code-check.code.ts"
+import { noEnumOrNamespace } from "./no-enum-or-namespace.code-check.check.code.ts"
 import { AT, rooted, scratch } from "./no-enum-or-namespace.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
