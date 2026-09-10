@@ -2,5 +2,5 @@
 @import "akasha/design/system/design-look/design-look.stylesheet.styles.css";
 
 @source "../../../../alan/harness/**/*.{ts,tsx}";
-@source "../../../../design/layout/**/*.{ts,tsx}";
+@source "../../../../design/interfaces/**/*.{ts,tsx}";
 @source "../../../../design/primitives/**/*.{ts,tsx}";

@@ -1,6 +1,6 @@
 "use client"
 
-import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
 import type { ReactNode } from "react"

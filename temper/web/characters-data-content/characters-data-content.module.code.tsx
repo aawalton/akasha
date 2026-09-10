@@ -1,11 +1,11 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { ListContentSkeleton } from "akasha/design/interfaces/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import {
   PageTabHeader,
   PageTabTitleBadges,
-} from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
+} from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
 import {
   Empty,
   EmptyDescription,

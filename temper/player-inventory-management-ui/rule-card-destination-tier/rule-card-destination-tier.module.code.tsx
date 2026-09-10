@@ -1,8 +1,8 @@
 "use client"
 
-import { EditableNumber } from "akasha/design/forms/editable-number/editable-number.module.code.tsx"
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
+import { EditableNumber } from "akasha/design/interfaces/forms/editable-number/editable-number.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import type {
   CharEligibility,

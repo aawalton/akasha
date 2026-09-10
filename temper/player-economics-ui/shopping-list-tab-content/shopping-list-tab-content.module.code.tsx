@@ -1,10 +1,10 @@
 "use client"
 
 import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
-import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
-import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import {
   Empty,
   EmptyDescription,

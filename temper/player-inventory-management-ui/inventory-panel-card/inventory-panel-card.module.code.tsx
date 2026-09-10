@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
 import { buildNodePath } from "akasha/design/patterns/path/path.module.code.ts"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"

@@ -1,8 +1,8 @@
 "use client"
 
-import { formatTime12h } from "akasha/design/forms/format-time/format-time.module.code.ts"
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { TimeBadge } from "akasha/design/interfaces/badges/time-badge/time-badge.module.code.tsx"
+import { formatTime12h } from "akasha/design/interfaces/forms/format-time/format-time.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
 import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"

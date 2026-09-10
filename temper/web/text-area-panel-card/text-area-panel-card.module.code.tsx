@@ -3,7 +3,7 @@
 import {
   PanelCard,
   type PanelCardProps,
-} from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+} from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Textarea } from "akasha/design/primitives/textarea/textarea.module.code.tsx"
 import { type ChangeEvent, useEffect, useState } from "react"

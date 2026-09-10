@@ -1,6 +1,6 @@
 "use client"
 
-import type { AppNavItem } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
+import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { useKeyboardBinding } from "akasha/design/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { useNavigate } from "react-router"
 import { primaryNavItems } from "../archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"

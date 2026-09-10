@@ -1,10 +1,10 @@
 "use client"
 
+import { InputBadge } from "akasha/design/interfaces/badges/input-badge/input-badge.module.code.tsx"
 import {
   SearchMultiSelect,
   type SearchMultiSelectItem,
-} from "akasha/design/forms/search-multi-select/search-multi-select.module.code.tsx"
-import { InputBadge } from "akasha/design/interfaces/badges/input-badge/input-badge.module.code.tsx"
+} from "akasha/design/interfaces/forms/search-multi-select/search-multi-select.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/primitives/use-debounced-value/use-debounced-value.module.code.ts"
 import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"

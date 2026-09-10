@@ -1,7 +1,7 @@
 "use client"
 
 import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import {
   Empty,
   EmptyDescription,

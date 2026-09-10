@@ -1,7 +1,10 @@
 "use client"
 
-import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
-import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import {
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
 import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"

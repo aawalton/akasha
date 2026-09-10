@@ -1,6 +1,6 @@
 import "../idle-look/idle-look.stylesheet.styles.css"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
-import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import {
   Tabs,
   TabsContent,

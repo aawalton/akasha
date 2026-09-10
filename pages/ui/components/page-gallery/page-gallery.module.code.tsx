@@ -1,8 +1,8 @@
 "use client"
 
-import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
-import { PanelDefaultOpenProvider } from "akasha/design/layout/panel-default-open-context/panel-default-open-context.module.code.tsx"
-import { useLoadMore } from "akasha/design/layout/use-load-more/use-load-more.module.code.ts"
+import { LoadMoreButton } from "akasha/design/interfaces/layout/load-more-button/load-more-button.module.code.tsx"
+import { PanelDefaultOpenProvider } from "akasha/design/interfaces/layout/panel-default-open-context/panel-default-open-context.module.code.tsx"
+import { useLoadMore } from "akasha/design/interfaces/layout/use-load-more/use-load-more.module.code.ts"
 import {
   type GalleryCardSize,
   galleryCardMinWidth,

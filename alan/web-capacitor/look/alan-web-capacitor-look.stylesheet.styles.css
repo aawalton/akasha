@@ -18,9 +18,7 @@
 @source "../../chess/**/*.{ts,tsx}";
 @source "../../harness/**/*.{ts,tsx}";
 @source "../../web/**/*.{ts,tsx}";
-@source "../../../design/forms/**/*.{ts,tsx}";
 @source "../../../design/interfaces/**/*.{ts,tsx}";
-@source "../../../design/layout/**/*.{ts,tsx}";
 @source "../../../design/patterns/**/*.{ts,tsx}";
 @source "../../../design/primitives/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";

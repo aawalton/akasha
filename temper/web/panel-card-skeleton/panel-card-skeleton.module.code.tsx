@@ -1,6 +1,6 @@
 "use client"
 
-import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/layout/panel-card-data/panel-card-data.module.code.ts"
+import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interfaces/layout/panel-card-data/panel-card-data.module.code.ts"
 import {
   Card,
   CardAction,

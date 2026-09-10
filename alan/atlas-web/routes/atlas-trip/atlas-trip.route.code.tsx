@@ -1,5 +1,8 @@
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
-import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import {
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { getPageByIdSuffix } from "akasha/pages/access/get/get.module.code.ts"
 import { getPagesByRelation } from "akasha/pages/access/get-by-relation/get-by-relation.module.code.ts"
 import { parsePageHrefParam } from "akasha/pages/url/page-href/page-href.module.code.ts"

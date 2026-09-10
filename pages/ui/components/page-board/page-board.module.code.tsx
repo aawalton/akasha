@@ -12,7 +12,7 @@ import {
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
+import { LoadMoreButton } from "akasha/design/interfaces/layout/load-more-button/load-more-button.module.code.tsx"
 import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import {

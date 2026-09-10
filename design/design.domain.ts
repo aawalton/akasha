@@ -7,8 +7,6 @@ export const design = {
   slug: "design",
   definition: "how something is done well",
   parts: [
-    "domain/design-forms",
-    "domain/design-layout",
     "domain/design-patterns",
     "domain/design-primitives",
     "domain/design-system",

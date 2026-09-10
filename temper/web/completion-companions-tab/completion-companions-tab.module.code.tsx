@@ -4,9 +4,9 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
-import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { AddFilterButton } from "akasha/design/patterns/add-filter-button/add-filter-button.module.code.tsx"
 import { FilterButton } from "akasha/design/patterns/filter-button/filter-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"

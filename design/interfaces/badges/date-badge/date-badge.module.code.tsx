@@ -1,6 +1,6 @@
 "use client"
 
-import { Calendar } from "akasha/design/forms/calendar/calendar.module.code.tsx"
+import { Calendar } from "akasha/design/interfaces/forms/calendar/calendar.module.code.tsx"
 import {
   Popover,
   PopoverContent,

@@ -1,6 +1,6 @@
 "use client"
 
-import type { AppNavItem } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
+import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import type { KeyLayer } from "akasha/design/primitives/keyboard-registry/keyboard-registry.module.code.ts"
 import { useKeyboardBindings } from "akasha/design/primitives/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import { navItemsToCommandBindings } from "../nav-command-bindings/nav-command-bindings.module.code.ts"

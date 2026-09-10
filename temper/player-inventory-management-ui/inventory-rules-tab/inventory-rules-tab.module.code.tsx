@@ -1,7 +1,7 @@
 "use client"
 
-import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
-import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import {
   Alert,

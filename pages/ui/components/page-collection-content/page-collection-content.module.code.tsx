@@ -1,6 +1,6 @@
 "use client"
 
-import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import {
   Empty,
   EmptyDescription,

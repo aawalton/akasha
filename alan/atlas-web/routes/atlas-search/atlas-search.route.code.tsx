@@ -3,8 +3,11 @@ import {
   InputGroupAddon,
   InputGroupButton,
   InputGroupInput,
-} from "akasha/design/forms/input-group/input-group.module.code.tsx"
-import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+} from "akasha/design/interfaces/forms/input-group/input-group.module.code.tsx"
+import {
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { Card } from "akasha/design/primitives/card/card.module.code.tsx"
 import { Search } from "lucide-react"

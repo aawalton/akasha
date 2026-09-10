@@ -1,11 +1,11 @@
-import { AppShell as SharedAppShell } from "akasha/design/layout/app-shell/app-shell.module.code.tsx"
-import type { AppNavConfig } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
+import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/app-shell/app-shell.module.code.tsx"
+import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import {
   LayoutLinkProvider,
   type LayoutRouter,
   LayoutRouterProvider,
-} from "akasha/design/layout/router-context/router-context.module.code.tsx"
-import { useSidebarState } from "akasha/design/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
+} from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { SortableNavs } from "akasha/pages/ui/components/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import {

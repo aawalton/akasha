@@ -1,7 +1,10 @@
 "use client"
 
-import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import {
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { ChevronLeft } from "lucide-react"

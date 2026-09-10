@@ -8,9 +8,9 @@ import {
   FormItem,
   FormLabel,
   FormMessage,
-} from "akasha/design/forms/form/form.module.code.tsx"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
-import { SidebarNavGroup } from "akasha/design/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+} from "akasha/design/interfaces/forms/form/form.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Input } from "akasha/design/primitives/input/input.module.code.tsx"

@@ -1,7 +1,7 @@
 "use client"
 
-import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { ComponentsCompoundNavPanels } from "../components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"
 import { ComponentsCompoundPanels } from "../components-compound-panels/components-compound-panels.module.code.tsx"

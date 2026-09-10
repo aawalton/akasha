@@ -1,7 +1,7 @@
 "use client"
 
 import * as TabsPrimitive from "@radix-ui/react-tabs"
-import { useLayoutRouter } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import { useLayoutRouter } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import {
   DropdownMenu,

@@ -1,5 +1,5 @@
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { CardContent, CardTitle } from "akasha/design/primitives/card/card.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"

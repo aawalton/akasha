@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"

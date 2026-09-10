@@ -1,5 +1,5 @@
-import { PageLayoutSkeleton } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
-import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { PageLayoutSkeleton } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 import { CompletionPageContent } from "../../completion-page-content/completion-page-content.module.code.tsx"

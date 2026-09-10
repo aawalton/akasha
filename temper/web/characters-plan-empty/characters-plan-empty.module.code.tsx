@@ -1,6 +1,6 @@
 "use client"
 
-import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
 import {
   Empty,
   EmptyContent,

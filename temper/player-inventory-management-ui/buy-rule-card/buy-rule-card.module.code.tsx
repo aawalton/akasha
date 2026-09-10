@@ -1,9 +1,9 @@
 "use client"
 
-import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import { NumberBadge } from "akasha/design/interfaces/badges/number-badge/number-badge.module.code.tsx"
+import { InlineEditableText } from "akasha/design/interfaces/forms/inline-editable-text/inline-editable-text.module.code.tsx"
 import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
 import {
   AlertDialog,

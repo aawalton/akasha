@@ -4,9 +4,9 @@ import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.t
 import {
   PageTabHeader,
   PageTabTitleBadges,
-} from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
-import { PaginatedCardGrid } from "akasha/design/layout/paginated-card-grid/paginated-card-grid.module.code.tsx"
-import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+} from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PaginatedCardGrid } from "akasha/design/interfaces/layout/paginated-card-grid/paginated-card-grid.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import {
   Empty,
   EmptyContent,

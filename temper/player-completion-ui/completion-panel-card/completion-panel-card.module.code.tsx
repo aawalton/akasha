@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { buildNodePath } from "akasha/design/patterns/path/path.module.code.ts"
 import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { StatRow } from "akasha/design/patterns/stat-row/stat-row.module.code.tsx"

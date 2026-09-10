@@ -1,7 +1,7 @@
 "use client"
 
-import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
-import { scrollToCard } from "akasha/design/layout/scroll-to-card/scroll-to-card.module.code.ts"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { scrollToCard } from "akasha/design/interfaces/layout/scroll-to-card/scroll-to-card.module.code.ts"
 import {
   Empty,
   EmptyContent,

@@ -1,12 +1,12 @@
 "use client"
 
-import { COLUMN_WIDTH } from "akasha/design/layout/layout-data/layout-data.module.code.ts"
-import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
-import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
-import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
-import { editorPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
-import { useColumnCount } from "akasha/design/layout/use-column-count/use-column-count.module.code.tsx"
+import { COLUMN_WIDTH } from "akasha/design/interfaces/layout/layout-data/layout-data.module.code.ts"
+import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/interfaces/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { editorPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
 import {
   PageTabsTrigger,
   Tabs,

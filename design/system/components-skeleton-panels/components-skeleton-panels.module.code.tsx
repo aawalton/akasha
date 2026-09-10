@@ -1,9 +1,9 @@
 "use client"
 
-import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
-import { LoadingContainer } from "akasha/design/layout/loading-container/loading-container.module.code.tsx"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
-import { SkeletonText } from "akasha/design/layout/skeleton-text/skeleton-text.module.code.tsx"
+import { ListContentSkeleton } from "akasha/design/interfaces/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { LoadingContainer } from "akasha/design/interfaces/layout/loading-container/loading-container.module.code.tsx"
+import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
+import { SkeletonText } from "akasha/design/interfaces/layout/skeleton-text/skeleton-text.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"

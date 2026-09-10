@@ -7,8 +7,8 @@ import {
   PageLayout,
   PageLayoutSkeleton,
   PageTitle,
-} from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
-import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+} from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
+import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { ViewPageContent } from "akasha/pages/ui/components/view-page-content/view-page-content.module.code.tsx"
 import { usePages } from "akasha/pages/ui/supabase/use-pages/use-pages.module.code.ts"

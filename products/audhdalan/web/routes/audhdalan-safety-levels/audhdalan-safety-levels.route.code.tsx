@@ -1,4 +1,4 @@
-import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { PageLayout } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
 import { Separator } from "akasha/design/primitives/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"

@@ -1,6 +1,6 @@
 "use client"
 
-import { PaginatedCardGrid } from "akasha/design/layout/paginated-card-grid/paginated-card-grid.module.code.tsx"
+import { PaginatedCardGrid } from "akasha/design/interfaces/layout/paginated-card-grid/paginated-card-grid.module.code.tsx"
 import {
   Empty,
   EmptyContent,

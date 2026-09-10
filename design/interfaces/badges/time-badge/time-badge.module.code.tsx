@@ -1,8 +1,8 @@
 "use client"
 
-import { parseDateExpression } from "akasha/design/forms/date-parser/date-parser.module.code.ts"
-import { formatTime12h } from "akasha/design/forms/format-time/format-time.module.code.ts"
-import { normalizeBareNumericTime } from "akasha/design/forms/normalize-bare-numeric-time/normalize-bare-numeric-time.module.code.ts"
+import { parseDateExpression } from "akasha/design/interfaces/forms/date-parser/date-parser.module.code.ts"
+import { formatTime12h } from "akasha/design/interfaces/forms/format-time/format-time.module.code.ts"
+import { normalizeBareNumericTime } from "akasha/design/interfaces/forms/normalize-bare-numeric-time/normalize-bare-numeric-time.module.code.ts"
 import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
 import {
   Popover,

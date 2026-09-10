@@ -1,12 +1,12 @@
 import { signOut } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
-import { AppShell as SharedAppShell } from "akasha/design/layout/app-shell/app-shell.module.code.tsx"
-import type { AppNavConfig } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
+import { AppShell as SharedAppShell } from "akasha/design/interfaces/layout/app-shell/app-shell.module.code.tsx"
+import type { AppNavConfig } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import {
   LayoutLinkProvider,
   type LayoutRouter,
   LayoutRouterProvider,
-} from "akasha/design/layout/router-context/router-context.module.code.tsx"
-import { useSidebarState } from "akasha/design/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
+} from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"

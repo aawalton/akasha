@@ -11,9 +11,9 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
-import type { AppNavItem } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
-import { SidebarNavGroup } from "akasha/design/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
-import { useSidebarState } from "akasha/design/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
+import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
+import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import {
   Popover,

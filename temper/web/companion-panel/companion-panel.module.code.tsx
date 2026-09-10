@@ -3,7 +3,7 @@
 import {
   MultiSelect,
   type MultiSelectItem,
-} from "akasha/design/forms/multi-select/multi-select.module.code.tsx"
+} from "akasha/design/interfaces/forms/multi-select/multi-select.module.code.tsx"
 import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
 import {
   Select,

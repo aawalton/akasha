@@ -1,10 +1,10 @@
 "use client"
 
-import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
-import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
-import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
-import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
-import { scrollToCard } from "akasha/design/layout/scroll-to-card/scroll-to-card.module.code.ts"
+import { ListContentSkeleton } from "akasha/design/interfaces/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { LayoutLink } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
+import { scrollToCard } from "akasha/design/interfaces/layout/scroll-to-card/scroll-to-card.module.code.ts"
 import {
   Empty,
   EmptyContent,
