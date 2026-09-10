@@ -39,6 +39,10 @@ export const servicePuttingUp = {
     },
     {
       invariantKind: "absence",
+      statement: "A service whose units are unchanged is restarted by nothing here.",
+    },
+    {
+      invariantKind: "absence",
       statement: "Nothing here reaches every service at once.",
     },
     {
