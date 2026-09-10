@@ -1,9 +1,4 @@
-import {
-  asCallback,
-  asNumber,
-  asRecord,
-  asString,
-} from "../journal-casts/journal-casts.module.code.ts"
+import { asCallback, asNumber, asRecord, asString } from "../lccc-casts/lccc-casts.module.code.ts"
 
 const NAME = "LibCodesCommonCode"
 const VERSION = 36

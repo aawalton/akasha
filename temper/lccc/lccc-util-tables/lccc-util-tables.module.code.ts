@@ -1,4 +1,4 @@
-import { asNumber, asRecord, asTable } from "../journal-casts/journal-casts.module.code.ts"
+import { asNumber, asRecord, asTable } from "../lccc-casts/lccc-casts.module.code.ts"
 
 export function getSortedKeys(
   this: void,

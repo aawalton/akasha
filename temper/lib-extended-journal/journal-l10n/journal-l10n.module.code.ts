@@ -1,4 +1,4 @@
-import { LCCC } from "../journal-lccc/journal-lccc.module.code.ts"
+import { LCCC } from "../../lccc/lccc/lccc.module.code.ts"
 
 const DEFAULTS: ReadonlyArray<[string, string]> = [
   ["SI_LEJ_NAME", "Extended Journal"],

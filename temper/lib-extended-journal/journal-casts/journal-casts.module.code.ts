@@ -29,11 +29,6 @@ export function asPublicTable(value: unknown): PublicTable {
   return value as PublicTable
 }
 
-type Lua1Based = Record<number, string>
-export function asLua1Based(value: unknown): Lua1Based {
-  return value as Lua1Based
-}
-
 export function asTabData(value: unknown): TabData {
   return value as TabData
 }
@@ -48,16 +43,6 @@ export function asNumber(value: unknown): number {
 
 export function asRecord(value: unknown): Record<string, unknown> {
   return value as Record<string, unknown>
-}
-
-type Table = Record<string | number, unknown>
-export function asTable(value: unknown): Table {
-  return value as Table
-}
-
-type StringArray = string[]
-export function asStringArray(value: unknown): StringArray {
-  return value as StringArray
 }
 
 type Callback = (this: void, ...args: unknown[]) => void

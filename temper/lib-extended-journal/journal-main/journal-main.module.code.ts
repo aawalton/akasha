@@ -1,4 +1,4 @@
-import "../journal-lccc/journal-lccc.module.code.ts"
+import "../../lccc/lccc/lccc.module.code.ts"
 
 import "../journal-l10n/journal-l10n.module.code.ts"
 

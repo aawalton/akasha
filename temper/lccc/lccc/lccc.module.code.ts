@@ -1,4 +1,4 @@
-import { asNumber } from "../journal-casts/journal-casts.module.code.ts"
+import { asGlobalTable, asNumber } from "../lccc-casts/lccc-casts.module.code.ts"
 import {
   chunk,
   decode,
@@ -8,7 +8,7 @@ import {
   readAndDecode,
   readBitFromEncodedData,
   unchunk,
-} from "../journal-lccc-codec/journal-lccc-codec.module.code.ts"
+} from "../lccc-codec/lccc-codec.module.code.ts"
 import {
   hslToRgb,
   int24ToHsl,
@@ -20,7 +20,7 @@ import {
   int32ToRgba,
   rgbaToInt32,
   rgbToInt24,
-} from "../journal-lccc-color/journal-lccc-color.module.code.ts"
+} from "../lccc-color/lccc-color.module.code.ts"
 import {
   clamp,
   compareCharIds,
@@ -41,7 +41,7 @@ import {
   registerString,
   runAfterInitialLoadscreen,
   tokenizeSlashCommandParameters,
-} from "../journal-lccc-util/journal-lccc-util.module.code.ts"
+} from "../lccc-util/lccc-util.module.code.ts"
 import {
   concatTables,
   countTable,
@@ -49,15 +49,10 @@ import {
   mergeTables,
   processNumericTable,
   setupOnDemandDataTable,
-} from "../journal-lccc-util-tables/journal-lccc-util-tables.module.code.ts"
+} from "../lccc-util-tables/lccc-util-tables.module.code.ts"
 
 const NAME = "LibCodesCommonCode"
 const VERSION = 36
-
-type GlobalTable = Record<string, unknown>
-function asGlobalTable(value: unknown): GlobalTable {
-  return value as GlobalTable
-}
 
 type Versioned = { version?: unknown } | undefined
 function asVersioned(value: unknown): Versioned {

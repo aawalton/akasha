@@ -1,5 +1,5 @@
+import { LCCC } from "../../lccc/lccc/lccc.module.code.ts"
 import { asGlobalTable, asNumber } from "../journal-casts/journal-casts.module.code.ts"
-import { LCCC } from "../journal-lccc/journal-lccc.module.code.ts"
 import { Internal, Public } from "../journal-state/journal-state.module.code.ts"
 
 const DEFAULTS: Record<number, Record<number, number>> = {

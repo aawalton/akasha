@@ -13,11 +13,6 @@ export const temperLibExtendedJournal = {
   parts: [
     "module/journal-shape",
     "module/journal-casts",
-    "module/journal-lccc-codec",
-    "module/journal-lccc-color",
-    "module/journal-lccc-util",
-    "module/journal-lccc-util-tables",
-    "module/journal-lccc",
     "module/journal-l10n",
     "module/journal-state",
     "module/journal-main-menu",
@@ -56,10 +51,6 @@ export const temperLibExtendedJournal = {
     {
       invariantKind: "departure",
       statement: "The colors a tooltip is drawn in are kept between sessions.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "This library has its own copy of the codes library.",
     },
     {
       invariantKind: "constraint",

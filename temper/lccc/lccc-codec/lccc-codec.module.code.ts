@@ -3,7 +3,7 @@ import {
   asNumber,
   asString,
   asStringArray,
-} from "../journal-casts/journal-casts.module.code.ts"
+} from "../lccc-casts/lccc-casts.module.code.ts"
 
 const DICT = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz#%"
 
