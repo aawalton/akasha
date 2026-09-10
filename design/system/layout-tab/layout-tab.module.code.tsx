@@ -6,7 +6,7 @@ import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/p
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { useColumnCount } from "akasha/design/interfaces/layout/use-column-count/use-column-count.module.code.tsx"
-import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"

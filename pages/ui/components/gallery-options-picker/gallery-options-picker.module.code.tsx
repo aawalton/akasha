@@ -1,6 +1,6 @@
 "use client"
 
-import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
+import { FilterGroup } from "akasha/design/interfaces/patterns/filter-group/filter-group.module.code.tsx"
 import {
   FilterableList,
   FilterableListItem,

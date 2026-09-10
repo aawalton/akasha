@@ -6,8 +6,8 @@ import {
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/patterns/empty/empty.module.code.tsx"
-import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { buttonVariants } from "akasha/design/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"

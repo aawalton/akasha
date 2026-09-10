@@ -1,4 +1,4 @@
-import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
+import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import {
   Command,

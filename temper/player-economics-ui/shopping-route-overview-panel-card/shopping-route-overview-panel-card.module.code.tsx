@@ -3,7 +3,7 @@
 import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { scrollToCard } from "akasha/design/interfaces/layout/scroll-to-card/scroll-to-card.module.code.ts"
-import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
+import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/primitives/card/card.module.code.tsx"
 import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/shopping/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"

@@ -1,7 +1,7 @@
 "use client"
 
 import type { DrawReveal } from "akasha/alan/harness/idle-system/idle-draw/idle-draw.module.code.ts"
-import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"

@@ -12,7 +12,7 @@ import {
   Tabs,
   TabsContent,
   TabsList,
-} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"

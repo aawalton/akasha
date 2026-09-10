@@ -8,8 +8,8 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/patterns/empty/empty.module.code.tsx"
-import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+import { InputPanelCard } from "akasha/design/interfaces/patterns/input-panel-card/input-panel-card.module.code.tsx"
 import { Skeleton } from "akasha/design/primitives/skeleton/skeleton.module.code.tsx"
 import { Switch } from "akasha/design/primitives/switch-control/switch-control.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"

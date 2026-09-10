@@ -1,7 +1,7 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
+import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
 import {
   Select,
   SelectContent,

@@ -2,9 +2,9 @@
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
-import { SearchButton } from "akasha/design/patterns/search-button/search-button.module.code.tsx"
-import { SearchSortFilterRow } from "akasha/design/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { SortButton } from "akasha/design/patterns/sort-button/sort-button.module.code.tsx"
+import { SearchButton } from "akasha/design/interfaces/patterns/search-button/search-button.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
+import { SortButton } from "akasha/design/interfaces/patterns/sort-button/sort-button.module.code.tsx"
 import type {
   ViewConfig,
   ViewFilter,

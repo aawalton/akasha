@@ -8,7 +8,7 @@ import {
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/patterns/empty/empty.module.code.tsx"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { bodyPropertyIsContentTier } from "akasha/pages/core/schema/content-tier/content-tier.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"

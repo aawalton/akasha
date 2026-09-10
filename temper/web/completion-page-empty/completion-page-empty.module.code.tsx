@@ -9,7 +9,7 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/patterns/empty/empty.module.code.tsx"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
 import { Globe } from "lucide-react"
 

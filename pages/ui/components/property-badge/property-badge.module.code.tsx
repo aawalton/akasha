@@ -2,7 +2,7 @@
 
 import { BadgeLayoutProvider } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { EmptyBadge } from "akasha/design/interfaces/badges/empty-badge/empty-badge.module.code.tsx"
-import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import type {
   PageDataJSON,
   PropertyDefinition,

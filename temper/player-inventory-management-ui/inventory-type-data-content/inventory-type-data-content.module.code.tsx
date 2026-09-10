@@ -12,8 +12,8 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/patterns/empty/empty.module.code.tsx"
-import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { computeCurrencyGoldTotal } from "akasha/temper/items-core/inventory-currencies/inventory-currencies.module.code.ts"

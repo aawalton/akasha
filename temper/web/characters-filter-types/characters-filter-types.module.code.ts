@@ -2,7 +2,7 @@ import type { BadgeToggleGroupItem } from "akasha/design/interfaces/badges/badge
 import type {
   SortDirection,
   SortOption,
-} from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import type { ReactNode } from "react"
 import {

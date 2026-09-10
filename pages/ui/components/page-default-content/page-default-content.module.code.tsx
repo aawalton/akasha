@@ -10,8 +10,8 @@ import {
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/patterns/empty/empty.module.code.tsx"
-import { IconPicker } from "akasha/design/patterns/icon-picker/icon-picker.module.code.tsx"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-picker.module.code.tsx"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { BlockEditor } from "akasha/pages/ui/block-editor/block-editor/block-editor.module.code.tsx"
 import { MultiRelationPropertyBadge } from "akasha/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx"

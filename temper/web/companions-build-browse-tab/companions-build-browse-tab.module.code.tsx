@@ -14,9 +14,9 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/patterns/empty/empty.module.code.tsx"
-import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
-import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
+import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"

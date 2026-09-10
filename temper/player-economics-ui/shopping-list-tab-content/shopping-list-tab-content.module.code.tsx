@@ -11,8 +11,8 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "akasha/design/patterns/empty/empty.module.code.tsx"
-import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
+import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
 import {
   AlertDialog,
   AlertDialogAction,

@@ -5,7 +5,7 @@ import {
   useBadgeLayoutContext,
 } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
-import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { actionButtonConfigSchema } from "akasha/pages/core/schema/action-button-config/action-button-config.module.code.ts"
 import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import {

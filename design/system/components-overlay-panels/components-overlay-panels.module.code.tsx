@@ -6,7 +6,7 @@ import {
   TabsContent,
   TabsList,
   TabsTrigger,
-} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import {

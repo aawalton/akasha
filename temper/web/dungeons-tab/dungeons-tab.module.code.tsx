@@ -3,7 +3,7 @@
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
-import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
 import {
   TEMPER_DUNGEONS,

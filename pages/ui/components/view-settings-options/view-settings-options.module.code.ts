@@ -1,8 +1,8 @@
-import type { GroupOption } from "akasha/design/patterns/group-button/group-button.module.code.tsx"
+import type { GroupOption } from "akasha/design/interfaces/patterns/group-button/group-button.module.code.tsx"
 import type {
   SortEntry,
   SortOption,
-} from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
+} from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import type {
   GroupGranularity,
   ViewLayout,

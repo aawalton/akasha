@@ -1,14 +1,14 @@
 "use client"
 
-import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
-import { buildNodePath } from "akasha/design/patterns/path/path.module.code.ts"
+import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
+import { buildNodePath } from "akasha/design/interfaces/patterns/path/path.module.code.ts"
 import {
   Tabs,
   TabsContent,
   TabsList,
   TabsTrigger,
-} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
-import { useSetToggle } from "akasha/design/patterns/use-set-toggle/use-set-toggle.module.code.ts"
+} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { formatGold } from "akasha/design/primitives/format-gold/format-gold.module.code.ts"
 import { ScrollArea } from "akasha/design/primitives/scroll-area/scroll-area.module.code.tsx"

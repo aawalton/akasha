@@ -1,6 +1,9 @@
 "use client"
 
-import { PageTabsTrigger, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import {
+  PageTabsTrigger,
+  TabsList,
+} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { BarChart3, Info, ShieldHalf, Star, Swords, User } from "lucide-react"
 

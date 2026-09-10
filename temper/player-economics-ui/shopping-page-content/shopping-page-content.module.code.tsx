@@ -6,14 +6,14 @@ import {
   PageTitle,
 } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
-import { QueryErrorBoundary } from "akasha/design/patterns/query-error-boundary/query-error-boundary.module.code.tsx"
+import { QueryErrorBoundary } from "akasha/design/interfaces/patterns/query-error-boundary/query-error-boundary.module.code.tsx"
 import {
   PageTabsTrigger,
   Tabs,
   TabsContent,
   TabsList,
-} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
-import { useFilterPersistence } from "akasha/design/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
+} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,

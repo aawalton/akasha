@@ -2,7 +2,7 @@
 
 import { PageTitleBadges } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { useLayoutSearchParams } from "akasha/design/interfaces/layout/router-context/router-context.module.code.tsx"
-import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { parseNavConfig } from "akasha/pages/core/schema/nav-config/nav-config.module.code.ts"
 import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"

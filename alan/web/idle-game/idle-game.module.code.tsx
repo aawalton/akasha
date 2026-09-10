@@ -6,7 +6,7 @@ import {
   TabsContent,
   TabsList,
   TabsTrigger,
-} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import type { FrameConfig } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
 import { DisplayFrame } from "akasha/pages/ui/frame/display-frame/display-frame.module.code.tsx"
 import { FrameViewPropertiesMenu } from "akasha/pages/ui/frame/frame-view-properties-menu/frame-view-properties-menu.module.code.tsx"

@@ -1,7 +1,11 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { Tabs, TabsList, TabsTrigger } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import {
+  Tabs,
+  TabsList,
+  TabsTrigger,
+} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import {
   CardContent,
   CardHeader,

@@ -19,6 +19,5 @@
 @source "../../harness/**/*.{ts,tsx}";
 @source "../../web/**/*.{ts,tsx}";
 @source "../../../design/interfaces/**/*.{ts,tsx}";
-@source "../../../design/patterns/**/*.{ts,tsx}";
 @source "../../../design/primitives/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";

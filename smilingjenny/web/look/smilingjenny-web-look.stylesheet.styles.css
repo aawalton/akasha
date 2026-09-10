@@ -3,5 +3,4 @@
 
 @source "../../../alan/harness/**/*.{ts,tsx}";
 @source "../../../design/interfaces/**/*.{ts,tsx}";
-@source "../../../design/patterns/**/*.{ts,tsx}";
 @source "../../../design/primitives/**/*.{ts,tsx}";

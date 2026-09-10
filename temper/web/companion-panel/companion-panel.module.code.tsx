@@ -4,7 +4,7 @@ import {
   MultiSelect,
   type MultiSelectItem,
 } from "akasha/design/interfaces/forms/multi-select/multi-select.module.code.tsx"
-import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
+import { InputPanelCard } from "akasha/design/interfaces/patterns/input-panel-card/input-panel-card.module.code.tsx"
 import {
   Select,
   SelectContent,

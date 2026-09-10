@@ -5,8 +5,12 @@ import {
   PageTitle,
 } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
-import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
-import { useFilterPersistence } from "akasha/design/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsList,
+} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
+import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { ChevronLeft, Swords } from "lucide-react"

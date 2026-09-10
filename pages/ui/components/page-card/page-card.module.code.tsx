@@ -1,8 +1,8 @@
 "use client"
 
 import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/interfaces/layout/panel-card-data/panel-card-data.module.code.ts"
-import { IconPicker } from "akasha/design/patterns/icon-picker/icon-picker.module.code.tsx"
-import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-picker.module.code.tsx"
+import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import {
   Card,
   CardContent,

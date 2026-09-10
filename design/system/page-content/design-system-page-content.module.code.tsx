@@ -5,7 +5,11 @@ import {
   PageTitle,
 } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interfaces/layout/skeleton-presets/skeleton-presets.module.code.ts"
-import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsList,
+} from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { BookOpen, Component, LayoutGrid, Palette, Puzzle } from "lucide-react"
 import { BrandTabContent } from "../brand-tab/brand-tab.module.code.tsx"
 import { ComponentsTabContent } from "../components-tab/components-tab.module.code.tsx"

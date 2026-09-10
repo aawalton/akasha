@@ -12,8 +12,8 @@ import {
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
 import { horizontalListSortingStrategy, SortableContext, useSortable } from "@dnd-kit/sortable"
 import { CSS } from "@dnd-kit/utilities"
-import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
-import { TabsList, TabsTrigger } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { TabsList, TabsTrigger } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuContent,

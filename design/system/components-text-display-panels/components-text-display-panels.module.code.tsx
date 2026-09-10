@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { Kbd, KbdGroup } from "akasha/design/patterns/kbd/kbd.module.code.tsx"
+import { Kbd, KbdGroup } from "akasha/design/interfaces/patterns/kbd/kbd.module.code.tsx"
 import {
   Alert,
   AlertDescription,

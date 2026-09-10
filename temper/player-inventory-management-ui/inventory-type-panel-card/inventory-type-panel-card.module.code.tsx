@@ -1,6 +1,6 @@
 "use client"
 
-import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
+import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import type { InventoryTypeGroup } from "akasha/temper/items-core/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import { buildInventoryTypeNodes } from "akasha/temper/items-core/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
 import { useMemo } from "react"

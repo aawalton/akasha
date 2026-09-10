@@ -6,7 +6,7 @@ import {
   EmptyDescription,
   EmptyHeader,
   EmptyTitle,
-} from "akasha/design/patterns/empty/empty.module.code.tsx"
+} from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/primitives/card/card.module.code.tsx"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"

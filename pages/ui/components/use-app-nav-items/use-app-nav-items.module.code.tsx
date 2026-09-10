@@ -1,8 +1,8 @@
 "use client"
 
 import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
-import { IconPicker } from "akasha/design/patterns/icon-picker/icon-picker.module.code.tsx"
-import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { IconPicker } from "akasha/design/interfaces/patterns/icon-picker/icon-picker.module.code.tsx"
+import { Icon } from "akasha/design/interfaces/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { triggerSafeNode } from "akasha/design/primitives/trigger-safe-node/trigger-safe-node.module.code.ts"
 import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"

@@ -12,6 +12,7 @@ export const designInterfaces = {
     "domain/design-badges",
     "domain/design-forms",
     "domain/design-layout",
+    "domain/design-patterns",
   ],
   invariants: [
     {

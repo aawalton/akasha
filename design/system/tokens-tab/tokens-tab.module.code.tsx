@@ -2,7 +2,7 @@
 
 import { PageTabHeader } from "akasha/design/interfaces/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
-import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { TabsContent } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { BordersPanel } from "../borders/borders.module.code.tsx"
 import { GemstoneColorsPanel } from "../gemstone-colors/gemstone-colors.module.code.tsx"
 import { SpacingRadiusPanel } from "../spacing-radius/spacing-radius.module.code.tsx"
