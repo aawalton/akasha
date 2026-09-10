@@ -1,3 +1,4 @@
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const TOKEN_ENV = "PIPELINE_SA_TOKEN"
@@ -28,8 +29,8 @@ interface ClusterConfig {
 let held: ClusterConfig | null = null
 
 function required(name: string): string {
-  const value = process.env[name]
-  if (typeof value !== "string" || value === "") {
+  const value = optionalEnv(name)
+  if (value === undefined) {
     throw new Error(`${name} is not set, and the cluster is not reachable without it`)
   }
   return value
@@ -37,14 +38,11 @@ function required(name: string): string {
 
 function clusterConfig(): ClusterConfig {
   if (held !== null) return held
-  const caCertB64 = process.env[CA_CERT_ENV]
+  const caCertB64 = optionalEnv(CA_CERT_ENV)
   held = {
     token: required(TOKEN_ENV),
     apiBase: required(API_BASE_ENV).replace(/\/+$/, ""),
-    caCert:
-      typeof caCertB64 === "string" && caCertB64 !== ""
-        ? Buffer.from(caCertB64, "base64").toString("utf8")
-        : undefined,
+    caCert: caCertB64 === undefined ? undefined : Buffer.from(caCertB64, "base64").toString("utf8"),
   }
   return held
 }
