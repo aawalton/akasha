@@ -1,0 +1,266 @@
+import { afterAll, expect, test } from "bun:test"
+import type { Change } from "@akasha/pages/change"
+import { shadowFor } from "@akasha/pages/shadow"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { declaring } from "../../../modules/scratch/check-scratch.module.code.ts"
+import {
+  pagesTouchedBy,
+  refusalsOver,
+  statedBy,
+} from "./page-property-has-its-file.code-check.decision.code.ts"
+import {
+  BESIDE,
+  body,
+  CODE,
+  ID,
+  landed,
+  NAMED,
+  over,
+  PAGE,
+  rooted,
+  scratch,
+  TEST,
+} from "./page-property-has-its-file.code-check.decision.test-fixtures.ts"
+
+afterAll(scratch.sweep)
+
+function judged(change: Change): readonly Judged[] {
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return refusalsOver(change, cast.shadow)
+}
+
+function touched(change: Change, pageTypes: ReadonlySet<string>): readonly string[] {
+  const cast = shadowFor(change)
+  if ("refused" in cast) throw new Error(cast.refused)
+  return pagesTouchedBy(change, pageTypes, cast.shadow.index)
+}
+
+test("a page whose stated code file stands in the change is let through", () => {
+  const root = rooted()
+  expect(judged(over(root, [PAGE, CODE], { [PAGE]: body(', code: "ts"') }))).toEqual([])
+})
+
+test("a page stating a code file that stands nowhere is refused, and the refusal names both", () => {
+  const root = rooted()
+  const said = judged(over(root, [PAGE], { [PAGE]: body(', code: "ts"'), [CODE]: null }))
+  expect(said).toEqual([
+    { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
+  ])
+})
+
+test("a change taking away a code file refuses the page still stating it, unnamed by that change", () => {
+  const root = rooted()
+  landed(root)
+  const said = judged(over(root, [CODE], { [PAGE]: body(', code: "ts"'), [CODE]: null }))
+  expect(said).toEqual([
+    { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
+  ])
+})
+
+test("a change taking away the page and its code file together is silent", () => {
+  const root = rooted()
+  expect(judged(over(root, [PAGE, CODE], { [PAGE]: null, [CODE]: null }))).toEqual([])
+})
+
+test("an empty file is a file, and presence is the whole test", () => {
+  const root = rooted()
+  expect(
+    judged(over(root, [PAGE, CODE], { [PAGE]: body(', code: "ts"'), [CODE]: new Uint8Array(0) }))
+  ).toEqual([])
+})
+
+test("every file property a page states is judged, not only the first", () => {
+  const root = rooted()
+  const said = judged(
+    over(root, [PAGE], { [PAGE]: body(', code: "ts", test: "ts"'), [CODE]: null, [TEST]: null })
+  )
+  expect(said.map((one) => one.reason)).toEqual([
+    `states \`code: "ts"\`, and no file stands at ${CODE}`,
+    `states \`test: "ts"\`, and no file stands at ${TEST}`,
+  ])
+})
+
+test("which properties are held in a file is read from the index, not from a list in the check", () => {
+  const root = rooted(["code", "notes"])
+  const said = judged(
+    over(root, [PAGE], { [PAGE]: body(', notes: "md"'), "akasha/a/held.module.notes.md": null })
+  )
+  expect(said.map((one) => one.reason)).toEqual([
+    'states `notes: "md"`, and no file stands at akasha/a/held.module.notes.md',
+  ])
+})
+
+const DECLARES_CODE = ', properties: [{ pagePropertySlug: "code", required: false, many: false }]'
+
+test("a page named for a page type the change itself carries is judged", () => {
+  const root = rooted()
+  const type = "akasha/x/oddity.page-type.ts"
+  const page = "akasha/b/new.oddity.ts"
+  const code = "akasha/b/new.oddity.code.ts"
+  const said = judged(
+    over(root, [type, page], {
+      [type]: body(DECLARES_CODE, "oddity", "page-type", `${ID.slice(0, -1)}5`),
+      [page]: body(', code: "ts"', "new", "oddity", `${ID.slice(0, -1)}6`),
+      [code]: null,
+    })
+  )
+  expect(said).toEqual([
+    { path: page, reason: `states \`code: "ts"\`, and no file stands at ${code}` },
+  ])
+})
+
+const DECLARES_CODE_UNCOMMITTED =
+  ', properties: [{ pagePropertySlug: "code", required: false, many: false, uncommitted: true }]'
+
+const ODDITY = "akasha/x/oddity.page-type.ts"
+
+const ODD_PAGE = "akasha/b/new.oddity.ts"
+
+const ODD_CODE = "akasha/b/new.oddity.code.ts"
+
+function oddly(stated: string): Record<string, Uint8Array | null> {
+  return {
+    [ODDITY]: body(stated, "oddity", "page-type", `${ID.slice(0, -1)}5`),
+    [ODD_PAGE]: body(', code: "ts"', "new", "oddity", `${ID.slice(0, -1)}6`),
+    [ODD_CODE]: null,
+  }
+}
+
+test("a page stating a file its type declares uncommitted is let through though nothing is there", () => {
+  const root = rooted()
+
+  expect(judged(over(root, [ODDITY, ODD_PAGE], oddly(DECLARES_CODE_UNCOMMITTED)))).toEqual([])
+})
+
+test("that same property is still asked for its file under a page type declaring it committed", () => {
+  const root = rooted()
+  const said = judged(
+    over(root, [ODDITY, ODD_PAGE, PAGE], {
+      ...oddly(DECLARES_CODE_UNCOMMITTED),
+      [PAGE]: body(', code: "ts"'),
+      [CODE]: null,
+    })
+  )
+
+  expect(said).toEqual([
+    { path: PAGE, reason: `states \`code: "ts"\`, and no file stands at ${CODE}` },
+  ])
+})
+
+test("a file property the change itself introduces is asked for its file", () => {
+  const root = rooted(["code"], ["code", "notes"])
+  const property = "akasha/x/notes.file-property.ts"
+  const notes = "akasha/a/held.module.notes.md"
+  const said = judged(
+    over(root, [property, PAGE], {
+      [property]: body("", "notes", "file-property", `${ID.slice(0, -1)}7`),
+      [PAGE]: body(', notes: "md"'),
+      [notes]: null,
+    })
+  )
+  expect(said).toEqual([
+    { path: PAGE, reason: `states \`notes: "md"\`, and no file stands at ${notes}` },
+  ])
+})
+
+test("a property whose shape is not a file is not asked for a file", () => {
+  const root = rooted(["code"])
+  expect(judged(over(root, [PAGE], { [PAGE]: body(', code: "ts", definition: "held"') }))).toEqual(
+    []
+  )
+})
+
+test("an index entry pointing at a page the change takes away raises nothing", () => {
+  const root = rooted()
+  landed(root)
+  expect(judged(over(root, [CODE], { [PAGE]: null, [CODE]: null }))).toEqual([])
+})
+
+test("an index entry pointing at a page whose body will not load raises nothing", () => {
+  const root = rooted()
+  landed(root)
+  const broken = new TextEncoder().encode("export const it = (\n")
+  expect(judged(over(root, [CODE], { [PAGE]: broken, [CODE]: null }))).toEqual([])
+})
+
+test("a path outside the akasha folder is passed over", () => {
+  const root = rooted()
+  expect(
+    judged(
+      over(
+        root,
+        ["machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh"],
+        {}
+      )
+    )
+  ).toEqual([])
+})
+
+test("a page is judged once, whether the change names the page, the file, or both", () => {
+  const root = rooted()
+  landed(root)
+  const bodies = { [PAGE]: body(', code: "ts"'), [CODE]: null }
+  for (const changed of [[PAGE], [CODE], [PAGE, CODE]]) {
+    expect(judged(over(root, changed, bodies))).toHaveLength(1)
+  }
+})
+
+test("the pages to judge are the pages in the change and the pages the index says carry its paths", () => {
+  const root = rooted()
+  landed(root)
+  const pageTypes = new Set(["module"])
+  expect(touched(over(root, [CODE], {}), pageTypes)).toEqual([PAGE])
+  expect(touched(over(root, ["akasha/b/new.module.ts"], {}), pageTypes)).toEqual([
+    "akasha/b/new.module.ts",
+  ])
+  expect(touched(over(root, ["akasha/a/loose.txt"], {}), pageTypes)).toEqual([])
+})
+
+test("a page the index says carries a changed path is judged though the change never names it", () => {
+  const root = rooted()
+  landed(root)
+  expect(touched(over(root, [CODE], {}), new Set<string>())).toEqual([PAGE])
+})
+
+test("the label on a refusal is the property and the value the page states", () => {
+  expect(statedBy(PAGE, CODE, BESIDE)).toBe('`code: "ts"`')
+  expect(statedBy("akasha/a/b.check.ts", "akasha/a/b.check.test.ts", BESIDE)).toBe('`test: "ts"`')
+  expect(statedBy("akasha/a/b.module.ts", "akasha/a/b.module.notes.md", BESIDE)).toBe(
+    '`notes: "md"`'
+  )
+})
+
+test("the label on a refusal for a file a property names is that property alone", () => {
+  expect(statedBy("akasha/a/held.workspace-package.ts", "akasha/a/package.json", NAMED)).toBe(
+    "`manifest`"
+  )
+})
+
+test("a property naming a file relabels no file the grammar built", () => {
+  expect(statedBy(PAGE, CODE, NAMED)).toBe('`code: "ts"`')
+})
+
+test("a page stating a file its property names, standing nowhere, is refused by that property", () => {
+  const root = rooted(["code", "test"], ["code", "test", "manifest"])
+  declaring(root, "manifest", {
+    pageTypeSlug: "file-property",
+    unique: null,
+    fileName: "package.json",
+  })
+  const said = judged(
+    over(root, [PAGE], { [PAGE]: body(', manifest: "json"'), "akasha/a/package.json": null })
+  )
+  expect(said).toEqual([
+    { path: PAGE, reason: "states `manifest`, and no file stands at akasha/a/package.json" },
+  ])
+})
+
+test("the check reads the index under the root it was given, and no other", () => {
+  const named = rooted()
+  landed(named)
+  const bare = rooted()
+  const bodies = { [PAGE]: body(', code: "ts"'), [CODE]: null }
+  expect(judged(over(named, [CODE], bodies))).toHaveLength(1)
+  expect(judged(over(bare, [CODE], bodies))).toEqual([])
+})
