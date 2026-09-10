@@ -16,7 +16,7 @@ import {
 } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import type { Known } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
-import { textAt, textsAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import type { Declaring, Standing } from "./folder-shapes/folder-shape.page-type.ts"
 import {

@@ -7,7 +7,11 @@ import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { numberAt, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  numberAt,
+  textAt,
+  type Value,
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 
 const FORMAT = "nameFormat"
 
