@@ -24,6 +24,8 @@ const SERVER = join(import.meta.dir, "command-server.module.code.ts")
 
 const ASK_MS = 20_000
 
+const AT = Date.now()
+
 const STARTED: Serving[] = []
 
 const scratch = scratchWorld()
@@ -46,6 +48,9 @@ function clientAt(root: string, more: { readonly serverLeaseMs?: number } = {}):
       ...(more.serverLeaseMs === undefined ? {} : { [LEASE_ENV]: String(more.serverLeaseMs) }),
     },
     startTimeoutMs: 20_000,
+    onNoise: (text) => {
+      console.log(`noise ${String(Date.now() - AT)}ms: ${text}`)
+    },
   })
   STARTED.push(client)
   return client
@@ -129,6 +134,7 @@ describe("the command server where it cannot answer", () => {
     expect(first.color).toBe("chartreuse")
 
     await rested(1_800)
+    console.log(`asking at ${String(Date.now() - AT)}ms, first pid ${String(first.pid)}`)
 
     const thrown = await client.ask("agent-turn-colors", ["--state", "working"], ASK_MS).then(
       (answer) => ({ refused: false, saying: JSON.stringify(answer) as unknown }),
