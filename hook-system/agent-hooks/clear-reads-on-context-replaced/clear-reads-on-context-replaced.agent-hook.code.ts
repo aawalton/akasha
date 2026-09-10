@@ -2,7 +2,7 @@ import { appendFileSync, existsSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { READS_AT, SUBAGENT_MARK } from "../../../commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
-import { ASIDE, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
+import { ASIDE, parseHookPayload, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "clear-reads-on-context-replaced"
 
@@ -105,8 +105,8 @@ export function seatIn(env: Readonly<Record<string, string | undefined>>): strin
 
 function saidIn(raw: string, key: string): string {
   try {
-    const payload: unknown = JSON.parse(raw)
-    const said = (payload as Record<string, unknown> | null)?.[key]
+    const payload = parseHookPayload(raw)
+    const said = payload?.[key]
     return typeof said === "string" ? said : ""
   } catch {
     return ""
