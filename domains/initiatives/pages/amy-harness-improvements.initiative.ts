@@ -13,11 +13,6 @@ export const amyHarnessImprovements = {
       workingMemory:
         "The bridge is injected on a remote origin with no origin check and `allowNavigation` already lists the site, so the move works and no deep link changes. The cost is the shell: `alan/web` wires none of native TTS, the download button, the media resolvers or `useIsOnline`, and serves HTML `no-store` behind a per-request nonce. The entry must fall back to the bundled shell when offline and those wirings must land with it, or Alan trades read-aloud for 1Password.",
     },
-    {
-      statement: "All of Jenny's widgets work.",
-      workingMemory:
-        "Her pod ran a September 2 checkout querying the store with `groupSlugs` and reading `row.scaleSlug`, both since renamed; the store 400s and the route turns any refusal into 503. Categorize survived by looking up on `slug`. Both sites are deployed, and a restart no longer blanks a tile, since a group with no relayed reading now reads the readout's own row. Left: whether her three tiles draw on her phone.",
-    },
 
     {
       statement: "Alan's phone drains its health samples into akasha every day.",
