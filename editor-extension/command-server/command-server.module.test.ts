@@ -7,6 +7,7 @@ import {
   colorIn,
   WORKING_PAGE,
 } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.test-fixtures.ts"
+import { z } from "zod"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import {
   askServed,
@@ -28,6 +29,12 @@ const STARTED: Serving[] = []
 
 const scratch = scratchWorld()
 
+const COLORS_SAID = z.object({ colors: z.record(z.string(), z.string()) })
+
+function parseInheritedPath(inherited: string | undefined): string {
+  return `${dirname(BUN)}:${inherited ?? ""}`
+}
+
 function rootWith(color: string): string {
   const at = scratch.rootFor("command-server-test-")
   mkdirSync(join(at, dirname(WORKING_PAGE)), { recursive: true })
@@ -41,7 +48,7 @@ function clientAt(root: string, more: { readonly serverLeaseMs?: number } = {}):
     serverFile: SERVER,
     env: {
       ...process.env,
-      PATH: `${dirname(BUN)}:${process.env["PATH"] ?? ""}`,
+      PATH: parseInheritedPath(process.env["PATH"]),
       AKASHA_ROOT: root,
       ...(more.serverLeaseMs === undefined ? {} : { [LEASE_ENV]: String(more.serverLeaseMs) }),
     },
@@ -61,7 +68,7 @@ async function colorSaid(
     ["--state", "working"],
     ASK_MS
   )
-  const said = JSON.parse(answer.stdout) as { colors: Record<string, string> }
+  const said = COLORS_SAID.parse(JSON.parse(answer.stdout))
   return { color: said.colors["working"] ?? "", pid: answer.pid }
 }
 
@@ -160,7 +167,7 @@ describe("the command server when its lease turns over under a caller", () => {
       ["--state", "working"],
       ASK_MS
     )
-    const said = JSON.parse(answer.stdout) as { colors: Record<string, string> }
+    const said = COLORS_SAID.parse(JSON.parse(answer.stdout))
     expect(said.colors["working"]).toBe("vermilion")
     expect(answer.pid).not.toBe(first.pid)
   }, 60_000)
