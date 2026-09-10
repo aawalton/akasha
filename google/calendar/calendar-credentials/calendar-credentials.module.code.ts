@@ -2,6 +2,7 @@ import {
   type GoogleOauthAppCredentials,
   readGoogleOauthAppCredentials,
 } from "akasha/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
+import { readGoogleRefreshToken } from "akasha/google/oauth/oauth-refresh-token/oauth-refresh-token.module.code.ts"
 import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import * as z from "zod"
 
@@ -29,7 +30,7 @@ export function readCalendarCredentials(): CalendarCredentials {
 export function readCalendarOauthCredentials(): CalendarOauthCredentials {
   return {
     ...readGoogleOauthAppCredentials(),
-    refreshToken: requireEnv("GOOGLE_CALENDAR_OAUTH_REFRESH_TOKEN"),
+    refreshToken: readGoogleRefreshToken("GOOGLE_CALENDAR_OAUTH_REFRESH_TOKEN"),
   }
 }
 

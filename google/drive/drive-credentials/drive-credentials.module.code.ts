@@ -2,7 +2,7 @@ import {
   type GoogleOauthAppCredentials,
   readGoogleOauthAppCredentials,
 } from "akasha/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
-import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { readGoogleRefreshToken } from "akasha/google/oauth/oauth-refresh-token/oauth-refresh-token.module.code.ts"
 
 export const DRIVE_SCOPES = ["https://www.googleapis.com/auth/drive.readonly"] as const
 
@@ -13,6 +13,6 @@ export interface DriveCredentials extends GoogleOauthAppCredentials {
 export function readDriveCredentials(): DriveCredentials {
   return {
     ...readGoogleOauthAppCredentials(),
-    refreshToken: requireEnv("GOOGLE_DRIVE_OAUTH_REFRESH_TOKEN"),
+    refreshToken: readGoogleRefreshToken("GOOGLE_DRIVE_OAUTH_REFRESH_TOKEN"),
   }
 }

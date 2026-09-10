@@ -112,6 +112,7 @@ export const command = {
     "command/performance",
     "namespace/index",
     "module/complexity-rowing",
+    "namespace/google",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

@@ -2,7 +2,7 @@ import {
   type GoogleOauthAppCredentials,
   readGoogleOauthAppCredentials,
 } from "akasha/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
-import { requireEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { readGoogleRefreshToken } from "akasha/google/oauth/oauth-refresh-token/oauth-refresh-token.module.code.ts"
 
 export const GMAIL_SCOPES = [
   "https://www.googleapis.com/auth/gmail.readonly",
@@ -17,6 +17,6 @@ export interface GmailCredentials extends GoogleOauthAppCredentials {
 export function readGmailCredentials(): GmailCredentials {
   return {
     ...readGoogleOauthAppCredentials(),
-    refreshToken: requireEnv("GOOGLE_GMAIL_OAUTH_REFRESH_TOKEN"),
+    refreshToken: readGoogleRefreshToken("GOOGLE_GMAIL_OAUTH_REFRESH_TOKEN"),
   }
 }

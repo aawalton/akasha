@@ -11,6 +11,7 @@ export const googleOauth = {
     "module/oauth-app-credentials",
     "module/oauth-client",
     "module/oauth-consent",
+    "module/oauth-refresh-token",
   ],
   invariants: [
     {
@@ -19,7 +20,7 @@ export const googleOauth = {
     },
     {
       invariantKind: "departure",
-      statement: "A refresh token belongs to the product that minted the refresh token.",
+      statement: "One consent covers calendar, drive and mail, and one token comes of it.",
     },
   ],
 } as const satisfies Domain
