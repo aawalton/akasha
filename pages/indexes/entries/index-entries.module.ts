@@ -71,8 +71,7 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The first line a property is filed under answers for it, as the schema index reads.",
+      statement: "The first line a property is filed under answers for that property.",
     },
     {
       invariantKind: "departure",
@@ -94,7 +93,7 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "A group's own key is among them nowhere, no file being held under it.",
+      statement: "A group's own key is among those keys nowhere.",
     },
     {
       invariantKind: "departure",

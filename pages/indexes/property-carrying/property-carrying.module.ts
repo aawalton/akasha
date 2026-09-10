@@ -80,7 +80,7 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "Every kind under a file property is read here, rather than that one kind.",
+      statement: "Every kind under a file property is read here rather than that one kind.",
     },
     {
       invariantKind: "departure",
@@ -123,8 +123,7 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A face over a reading is answered on its own, so a caller asking of many paths builds it once.",
+      statement: "A face over a reading is answered on its own.",
     },
     {
       invariantKind: "departure",

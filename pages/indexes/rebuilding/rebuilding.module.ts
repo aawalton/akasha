@@ -24,11 +24,15 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "The body an entry file has is its lines, one to a line, closed by a line end.",
+      statement: "The body an entry file has is its lines closed by a line end.",
     },
     {
       invariantKind: "departure",
-      statement: "That body is spelled here once, for the file written and the file compared.",
+      statement: "An entry file holds one line for each entry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That body is spelled here once for the file written and the file compared.",
     },
     {
       invariantKind: "departure",
