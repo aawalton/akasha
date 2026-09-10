@@ -55404,7 +55404,7 @@
     },
     "403": {
       "name": "Savage Werewolf",
-      "slotsUnlocked": 11,
+      "slotsUnlocked": 12,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55477,7 +55477,7 @@
         },
         "18": {
           "name": "Savage Werewolf's Restoration Staff",
-          "unlocked": false
+          "unlocked": true
         },
         "19": {
           "name": "Savage Werewolf's Inferno Staff",
