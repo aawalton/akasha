@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "../domain.page-type.ts"
-
-export type DirectiveKind = Domain
 
 export const directiveKind = {
   id: "01a04e1f-cbf6-755d-bd7d-e46ba13c0087",
@@ -19,4 +16,5 @@ export const directiveKind = {
         "Every kind of directive is the same four lines and differs in that kind's definition.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
