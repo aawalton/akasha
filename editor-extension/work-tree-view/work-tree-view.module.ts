@@ -43,7 +43,11 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carries the kind that row is, which is what a menu is matched against.",
+      statement: "A row carries the kind that row is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A menu is matched against the kind a row carries.",
     },
     {
       invariantKind: "departure",

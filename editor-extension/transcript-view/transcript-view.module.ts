@@ -83,8 +83,11 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A watcher whose folder went is closed, and the next read watches that folder again.",
+      statement: "A watcher whose folder went is closed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The next read watches a folder that went again.",
     },
     {
       invariantKind: "departure",

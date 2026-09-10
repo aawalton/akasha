@@ -19,11 +19,15 @@ export const treeDescription = {
     },
     {
       invariantKind: "departure",
-      statement: "A panel under a filter says how many rows matched of how many were drawn.",
+      statement: "A panel under a filter says the rows that matched of the rows drawn.",
     },
     {
       invariantKind: "departure",
-      statement: "A count of nothing matched is a count, so a filter matching none says so.",
+      statement: "A count of no rows matched is a count.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A filter matching no row says a count of no rows.",
     },
     {
       invariantKind: "absence",

@@ -10,7 +10,7 @@ export const commandTreeReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "How many rows the tree has is counted apart from how many are commands.",
+      statement: "The rows the tree has are counted apart from the commands among the rows.",
     },
     {
       invariantKind: "absence",
