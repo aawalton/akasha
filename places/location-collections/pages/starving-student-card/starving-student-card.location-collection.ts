@@ -1,4 +1,4 @@
-import type { LocationCollection } from "../../location-collection.page-type.ts"
+import type { LocationCollection } from "../../location-collection.page-type.types.ts"
 
 export const starvingStudentCard = {
   id: "019f322c-90db-7760-821d-b9958995fee8",
