@@ -9,11 +9,6 @@ export const dallaDraftIntoAPatch = {
   persona: "dalla",
   intents: [
     {
-      statement: "Nothing here calls a change a patch.",
-      workingMemory:
-        "`patchRuns`, a required number on `model-check.page-type`, is the last key naming the phase, and `model-running` reads it into `onChange`. The act renaming a property slug refuses it, as `ModelCheck` is declared in the generated `model-check.page-type.types.ts` rather than in the page type's own file, where the act looks. Everything else says change.\n",
-    },
-    {
       statement: "A seat's logs and socket are uncommitted properties beside that seat's page.",
       workingMemory:
         "`.supervisors/<seat id>/` holds `oauth-proxy.log`, `oauth-proxy.sock`, `oauth-proxy.stderr.log`, `subagent-presence.log` and `supervisor.log`. `supervisor-log-path:4` names the folder, and `supervisor-console`, `supervisor-log-sweeping`, `subagent-census` and `subagent-presence` reach it. The seat page type already holds uncommitted properties, and `page-entry-landing` already names and writes their files.\n",
