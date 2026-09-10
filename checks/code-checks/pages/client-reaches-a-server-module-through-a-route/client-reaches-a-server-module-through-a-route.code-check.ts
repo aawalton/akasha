@@ -43,7 +43,7 @@ export const clientReachesAServerModuleThroughARoute = {
     {
       invariantKind: "departure",
       statement:
-        "A route module is the root route, the server entry, the app layout, or one the table names.",
+        "A route module is the root route or the server entry or the app layout or a module the table names.",
     },
     {
       invariantKind: "departure",
@@ -73,12 +73,12 @@ export const clientReachesAServerModuleThroughARoute = {
     {
       invariantKind: "departure",
       statement:
-        "A specifier is judged by the text it holds rather than by the file it resolves to.",
+        "A specifier is judged by its own text rather than by the file that specifier resolves to.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A value import, a value re-export and a dynamic import each reach a server module.",
+        "A value import and a value re-export and a dynamic import each reach a server module.",
     },
     {
       invariantKind: "departure",
