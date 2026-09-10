@@ -130,16 +130,6 @@ export function carrying(world: World, said: Answer): World {
   return isLedger(world) ? addedTo(world, said) : worldOver(world, said)
 }
 
-export async function reach(world: World, at: Reaches, given: unknown): Promise<Reached> {
-  const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
-  if (said.refused !== null) return { said, world }
-  try {
-    return { said, world: carrying(world, said) }
-  } catch (cause) {
-    return { said: refusing(cause instanceof Error ? cause.message : String(cause)), world }
-  }
-}
-
 function tidied(world: World, path: string): World {
   const was = world.textOf(path)
   if (was === null) return world
@@ -152,24 +142,29 @@ function tidied(world: World, path: string): World {
   return carrying(world, said)
 }
 
-export async function seeding(
-  world: World,
-  facing: Facing,
-  at: Reaches,
-  given: unknown
-): Promise<Reached> {
-  const answer = await reach(world, at, given)
-  if (answer.said.refused !== null) return answer
+function withheld(world: World, facing: Facing, said: Answer): Reached {
   const held: FileChange[] = []
   const sown: string[] = []
-  for (const one of answer.said.edits) {
-    if (one.kind === "replace" && generatedIn(facing, one.path)) sown.push(one.path)
+  for (const one of said.edits) {
+    if (one.kind !== "replace" && one.kind !== "append") held.push(one)
+    else if (generatedIn(facing, one.path)) sown.push(one.path)
     else held.push(one)
   }
-  if (sown.length === 0) return answer
-  let seen = answer.world
+  if (sown.length === 0) return { said, world }
+  let seen = world
   for (const path of sown) seen = tidied(seen, path)
   return { said: { edits: held, refused: null }, world: seen }
+}
+
+export async function reach(world: World, at: Reaches, given: unknown): Promise<Reached> {
+  const facing = facingIn(world)
+  const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
+  if (said.refused !== null) return { said, world }
+  try {
+    return withheld(carrying(world, said), facing, said)
+  } catch (cause) {
+    return { said: refusing(cause instanceof Error ? cause.message : String(cause)), world }
+  }
 }
 
 export function bytesOf(body: Held | null): Uint8Array | null {

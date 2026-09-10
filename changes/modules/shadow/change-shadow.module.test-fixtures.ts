@@ -2,8 +2,15 @@ import { expect } from "bun:test"
 import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratch, textIn } from "@akasha/indexes/indexing/testing"
-import type { Facing } from "@akasha/indexes/property-carrying"
 import type { Shaped } from "@akasha/indexes/reaching"
+import {
+  idFiled,
+  listedFiled,
+  nothingFiled,
+  relationFiled,
+  schemaFiled,
+  valueAlsoFiled,
+} from "@akasha/indexes/testing"
 import type { Value } from "@akasha/pages/page-value"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { type BodyOf, refusing, replayed, stating } from "../answer/change-answer.module.code.ts"
@@ -13,7 +20,7 @@ import {
   NOTHING_OVER,
   type Reached,
   type Reaching,
-  seeding,
+  reach,
   type World,
   worldAt,
 } from "./change-shadow.module.code.ts"
@@ -60,21 +67,61 @@ const FORMATS = JSON.stringify({
   javascript: { formatter: { quoteStyle: "double", semicolons: "asNeeded" } },
 })
 
-function rootThatFormats(): string {
-  const root = scratch.rootFor("change-shadow-seeding-")
-  symlinkSync(join(rootOf(import.meta.dir), MODULES), join(root, MODULES))
-  writeFileSync(join(root, CONFIG), FORMATS)
-  return root
+const TYPES_ID = "01a058c0-0000-7000-8000-000000000009"
+
+const THING_ID = "01a058c0-0000-7000-8000-000000000002"
+
+const ONE_ID = "01a058c0-0000-7000-8000-000000000005"
+
+const PAGE_TYPE_AT = "akasha/thing.page-type.ts"
+
+const PAGE_AT = "akasha/one.thing.ts"
+
+const FILE_PROPERTY = "file-property"
+
+function listedAndValued(root: string, kind: string, slug: string, path: string, id: string) {
+  listedFiled(root, kind, slug, [{ path, id }])
+  valueAlsoFiled(root, kind, [{ path, value: { id, pageTypeSlug: kind, slug } }])
 }
 
-const FACE: Facing = {
-  kindsUnder: () => ["file-property"],
-  everyOfType: () => [{ path: PROPERTY_AT }],
-  valueAt: (path) =>
-    path === PROPERTY_AT ? { generated: true, propertySlug: "types", slug: "types" } : null,
-  carryingOf: () => ({
-    carrying: [{ pageTypeSlug: "thing", path: "akasha/one.thing.ts", id: "one", within: null }],
-  }),
+function propertyFiled(root: string): undefined {
+  schemaFiled(root, FILE_PROPERTY, "types", [
+    {
+      pageTypeSlug: FILE_PROPERTY,
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "types",
+      propertySlug: "types",
+      fileName: null,
+    },
+  ])
+  listedFiled(root, FILE_PROPERTY, "types", [{ path: PROPERTY_AT, id: TYPES_ID }])
+  valueAlsoFiled(root, FILE_PROPERTY, [
+    {
+      path: PROPERTY_AT,
+      value: {
+        id: TYPES_ID,
+        pageTypeSlug: FILE_PROPERTY,
+        slug: "types",
+        propertySlug: "types",
+        generated: true,
+      },
+    },
+  ])
+  idFiled(root, TYPES_ID, [{ path: PROPERTY_AT, id: TYPES_ID }])
+  relationFiled(root, TYPES_ID, "page-property", THING_ID, [{ path: PAGE_TYPE_AT }])
+}
+
+function rootThatFormats(): string {
+  const root = scratch.rootFor("change-shadow-generated-")
+  symlinkSync(join(rootOf(import.meta.dir), MODULES), join(root, MODULES))
+  writeFileSync(join(root, CONFIG), FORMATS)
+  nothingFiled(root)
+  listedAndValued(root, "page-type", "thing", PAGE_TYPE_AT, THING_ID)
+  idFiled(root, THING_ID, [{ path: PAGE_TYPE_AT, id: THING_ID }])
+  listedAndValued(root, "thing", "one", PAGE_AT, ONE_ID)
+  propertyFiled(root)
+  return root
 }
 
 function repointingTo(path: string, now: string): Reaching {
@@ -86,20 +133,20 @@ function repointingTo(path: string, now: string): Reaching {
   }
 }
 
-async function seedingOver(path: string, now: string): Promise<Reached> {
+async function reachingOver(path: string, now: string): Promise<Reached> {
   const held: Record<string, string> = { [path]: WAS }
   const ledger = ledgerAt(rootThatFormats(), (one) => held[one] ?? null, repointingTo(path, now))
-  return await seeding(ledger, FACE, CHANGE_IMPORTS as never, {})
+  return await reach(ledger, CHANGE_IMPORTS as never, {})
 }
 
-export async function seedsExactly(now: string, want: string): Promise<undefined> {
-  const said = await seedingOver(GENERATED_AT, now)
+export async function withheldExactly(now: string, want: string): Promise<undefined> {
+  const said = await reachingOver(GENERATED_AT, now)
   expect(said.said.refused).toBeNull()
   expect(said.world.textOf(GENERATED_AT)).toBe(want)
 }
 
 export async function answeredOf(now: string, at: string): Promise<number> {
-  const said = await seedingOver(at, now)
+  const said = await reachingOver(at, now)
   expect(said.said.refused).toBeNull()
   return said.said.edits.length
 }

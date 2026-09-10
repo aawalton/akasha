@@ -320,7 +320,11 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "A generated body a change repoints is carried onto the world and withheld from the answer.",
+        "A generated body a change writes is carried onto the world and withheld from the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Withholding is what a reach does rather than what each change asks for.",
     },
     {
       invariantKind: "departure",
@@ -335,12 +339,11 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "A seed reaches a guard through a ledger, a world built over an answer being left behind.",
+        "A reach withholding a body works on a ledger, a world built over an answer being left behind.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A test of seeding built on `worldAt` proves nothing of the guards and is built on a ledger.",
+      statement: "A test of withholding built on `worldAt` proves nothing of the guards.",
     },
   ],
 } as const satisfies Module
