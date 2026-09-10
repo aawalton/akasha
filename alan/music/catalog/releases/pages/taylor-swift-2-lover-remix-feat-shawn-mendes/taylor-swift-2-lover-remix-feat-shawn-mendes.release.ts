@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2LoverRemixFeatShawnMendes = {
   id: "01a0676a-d724-700c-a07d-6f3c352e954b",

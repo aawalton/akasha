@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const musicalTheaterFrozenOriginalMotionPictureSoundtrackDeluxeEdition = {
   id: "01a0676a-d71e-7043-9a42-e323cbfd0076",

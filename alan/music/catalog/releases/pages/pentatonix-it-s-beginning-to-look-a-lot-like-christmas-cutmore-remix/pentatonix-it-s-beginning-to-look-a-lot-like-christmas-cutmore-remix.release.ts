@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixItSBeginningToLookALotLikeChristmasCutmoreRemix = {
   id: "01a0676a-d722-700e-a41d-6b67da6c94a1",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const enyaWatermark2009Remaster = {
   id: "01a0676a-d730-7022-895d-4f3ec07994e2",

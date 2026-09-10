@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const katyPerryCosmicEnergy = {
   id: "01a0676a-d71b-702c-a6d8-c23ff45adc2c",

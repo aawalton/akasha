@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const sabrinaCarpenterEmailsICanTSend = {
   id: "01a0676a-d71d-7009-9d0a-88191bd19a7b",

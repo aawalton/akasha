@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const coldplaySpeedOfSound2 = {
   id: "01a0676a-d729-707a-94c6-e607029fcb24",

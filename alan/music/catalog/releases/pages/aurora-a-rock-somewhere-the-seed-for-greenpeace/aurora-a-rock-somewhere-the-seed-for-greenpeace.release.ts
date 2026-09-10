@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraARockSomewhereTheSeedForGreenpeace = {
   id: "01a0676a-d715-703b-b9b9-6349dba9bb49",

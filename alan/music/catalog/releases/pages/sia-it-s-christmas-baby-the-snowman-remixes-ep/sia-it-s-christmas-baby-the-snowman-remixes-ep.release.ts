@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaItSChristmasBabyTheSnowmanRemixesEp = {
   id: "01a0676a-d722-700f-b1da-fc3bb60481ee",

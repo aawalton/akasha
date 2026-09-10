@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaThe598EpGarageDaysReRevisitedRemastered = {
   id: "01a0676a-d72c-7024-9b42-26d91cb795b2",

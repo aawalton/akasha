@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixAuldLangSyne = {
   id: "01a0676a-d717-7040-b704-fa50c06c6ba0",

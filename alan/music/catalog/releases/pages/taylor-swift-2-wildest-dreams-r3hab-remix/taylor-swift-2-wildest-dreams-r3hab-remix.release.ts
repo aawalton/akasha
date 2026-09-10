@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2WildestDreamsR3habRemix = {
   id: "01a0676a-d731-701e-b4cd-2e0417a5dce0",

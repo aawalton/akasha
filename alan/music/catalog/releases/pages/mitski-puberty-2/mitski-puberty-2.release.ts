@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const mitskiPuberty2 = {
   id: "01a0676a-d727-7032-8b3f-8a445897445d",

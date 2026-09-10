@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const nickelCreek2WhyShouldTheFireDie = {
   id: "01a0676a-d731-7015-8590-87461ab57aeb",

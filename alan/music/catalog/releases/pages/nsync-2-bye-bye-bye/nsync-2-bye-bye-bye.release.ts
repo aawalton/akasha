@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const nsync2ByeByeBye = {
   id: "01a0676a-d719-704f-ae71-e68201cd7a6a",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jisooAmortage = {
   id: "01a0676a-d717-700e-97e1-25c52ba10744",

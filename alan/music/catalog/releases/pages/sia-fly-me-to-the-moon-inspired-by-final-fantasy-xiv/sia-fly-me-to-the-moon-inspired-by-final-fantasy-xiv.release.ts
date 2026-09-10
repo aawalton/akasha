@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaFlyMeToTheMoonInspiredByFinalFantasyXiv = {
   id: "01a0676a-d71e-7018-b5b5-acdb6190da35",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theHoldernessFamilyIMAdulting = {
   id: "01a0676a-d721-702f-baaa-c0030e0ded41",

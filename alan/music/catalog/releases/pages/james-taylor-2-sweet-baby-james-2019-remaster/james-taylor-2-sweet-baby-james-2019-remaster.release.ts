@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jamesTaylor2SweetBabyJames2019Remaster = {
   id: "01a0676a-d72a-704d-8e54-99517925d313",

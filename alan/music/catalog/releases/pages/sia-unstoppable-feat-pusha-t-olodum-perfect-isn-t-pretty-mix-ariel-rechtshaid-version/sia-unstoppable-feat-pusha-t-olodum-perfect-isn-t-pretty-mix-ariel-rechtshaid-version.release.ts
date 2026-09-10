@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaUnstoppableFeatPushaTOlodumPerfectIsnTPrettyMixArielRechtshaidVersion = {
   id: "01a0676a-d72f-704d-beec-601ce044b9bd",

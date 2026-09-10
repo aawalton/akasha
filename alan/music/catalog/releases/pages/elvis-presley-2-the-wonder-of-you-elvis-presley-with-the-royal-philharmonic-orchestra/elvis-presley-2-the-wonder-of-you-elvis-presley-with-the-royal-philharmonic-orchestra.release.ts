@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const elvisPresley2TheWonderOfYouElvisPresleyWithTheRoyalPhilharmonicOrchestra = {
   id: "01a0676a-d72e-7021-a254-7479c9b98c40",

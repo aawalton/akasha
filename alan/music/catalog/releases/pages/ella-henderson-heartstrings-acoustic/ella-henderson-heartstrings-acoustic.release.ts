@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHendersonHeartstringsAcoustic = {
   id: "01a0676a-d720-700f-a3ed-12e5849fcaa1",

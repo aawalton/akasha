@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lindseyStirling2PokemonTheme = {
   id: "01a0676a-d727-7000-bf9b-f6b466cc4f8d",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const linkinParkHybridTheoryLiveAroundTheWorld = {
   id: "01a0676a-d720-707e-a5ce-3311d9903d44",

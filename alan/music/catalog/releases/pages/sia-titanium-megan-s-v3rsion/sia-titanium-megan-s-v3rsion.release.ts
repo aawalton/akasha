@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaTitaniumMeganSV3rsion = {
   id: "01a0676a-d72e-7045-942d-c91f541466a0",

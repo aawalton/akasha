@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquareBrahmsAGermanRequiem2023RemasteredVersion = {
   id: "01a0676a-d719-702b-af30-f8ce58c28418",

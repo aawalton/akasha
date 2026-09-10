@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2TheLifeOfAShowgirlAcousticCollection = {
   id: "01a0676a-d72d-7033-b6d6-640d89348a3c",

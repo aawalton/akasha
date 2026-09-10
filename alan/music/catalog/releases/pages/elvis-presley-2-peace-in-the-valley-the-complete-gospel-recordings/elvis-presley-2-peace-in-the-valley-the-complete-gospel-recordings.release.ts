@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const elvisPresley2PeaceInTheValleyTheCompleteGospelRecordings = {
   id: "01a0676a-d726-7066-adbc-9c07869af525",

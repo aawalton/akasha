@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayCastawayDemo = {
   id: "01a0676a-d71a-7004-b188-eede52945fe9",

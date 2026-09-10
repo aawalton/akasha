@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const celticWoman2ChristmasCardsFromIreland = {
   id: "01a0676a-d71a-7035-b4a8-e08cabea0a2a",

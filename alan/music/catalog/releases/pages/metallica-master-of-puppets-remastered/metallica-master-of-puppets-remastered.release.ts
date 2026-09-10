@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaMasterOfPuppetsRemastered = {
   id: "01a0676a-d724-703a-ba60-651feca4ab36",

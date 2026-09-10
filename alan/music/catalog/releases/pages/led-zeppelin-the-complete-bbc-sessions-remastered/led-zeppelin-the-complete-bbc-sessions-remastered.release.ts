@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ledZeppelinTheCompleteBbcSessionsRemastered = {
   id: "01a0676a-d72c-7042-9638-5efb1e0a2b07",

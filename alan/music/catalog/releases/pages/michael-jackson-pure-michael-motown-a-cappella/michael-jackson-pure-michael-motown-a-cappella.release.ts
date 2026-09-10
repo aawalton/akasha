@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const michaelJacksonPureMichaelMotownACappella = {
   id: "01a0676a-d727-7034-a64b-11963678b2ab",

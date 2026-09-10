@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquareSibeliusSymphoniesNos127 = {
   id: "01a0676a-d729-7000-9949-03e4f89e7458",

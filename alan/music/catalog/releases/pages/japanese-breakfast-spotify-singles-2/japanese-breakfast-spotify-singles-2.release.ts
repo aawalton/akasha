@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const japaneseBreakfastSpotifySingles2 = {
   id: "01a0676a-d72a-700a-9dde-0e4c996bf065",

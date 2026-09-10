@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaTheMetallicaBlacklist = {
   id: "01a0676a-d72d-7042-b209-b1a4d65a0846",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaUnstoppableClarenceClarityRemix = {
   id: "01a0676a-d72f-704c-a988-ee63085098b0",

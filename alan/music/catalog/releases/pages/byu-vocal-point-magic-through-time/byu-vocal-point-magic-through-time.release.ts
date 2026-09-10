@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const byuVocalPointMagicThroughTime = {
   id: "01a0676a-d724-7025-a90d-b214e4acb89d",

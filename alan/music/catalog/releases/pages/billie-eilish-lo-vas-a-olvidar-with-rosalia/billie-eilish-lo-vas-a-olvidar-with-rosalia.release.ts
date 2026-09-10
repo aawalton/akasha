@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const billieEilishLoVasAOlvidarWithRosalia = {
   id: "01a0676a-d723-705c-9cbb-9a637893cdc1",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerBeAlrightSpedUpVersion = {
   id: "01a0676a-d718-701a-8f84-3abaa18ff773",

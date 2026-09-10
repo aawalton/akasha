@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const billyJoelLiveAtTheGreatAmericanMusicHall = {
   id: "01a0676a-d723-7046-a917-9463eb0d1293",

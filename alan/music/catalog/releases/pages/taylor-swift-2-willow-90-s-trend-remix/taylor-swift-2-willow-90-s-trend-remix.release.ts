@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2Willow90STrendRemix = {
   id: "01a0676a-d731-7020-b053-bc6cfa3d48ad",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersion = {
   id: "01a0676a-d72b-700b-9f2c-4874d373216b",

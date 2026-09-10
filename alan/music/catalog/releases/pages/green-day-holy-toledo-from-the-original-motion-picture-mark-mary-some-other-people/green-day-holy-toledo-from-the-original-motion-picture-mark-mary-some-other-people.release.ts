@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayHolyToledoFromTheOriginalMotionPictureMarkMarySomeOtherPeople = {
   id: "01a0676a-d720-704f-8278-094aec2f4a8c",

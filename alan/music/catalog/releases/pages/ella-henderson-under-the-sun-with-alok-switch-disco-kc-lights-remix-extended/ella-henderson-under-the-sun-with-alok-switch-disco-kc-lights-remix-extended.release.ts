@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHendersonUnderTheSunWithAlokSwitchDiscoKcLightsRemixExtended = {
   id: "01a0676a-d72f-7039-9d18-9262c09cbeb0",

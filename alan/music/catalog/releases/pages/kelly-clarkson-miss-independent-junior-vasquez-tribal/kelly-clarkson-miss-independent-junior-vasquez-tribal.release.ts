@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const kellyClarksonMissIndependentJuniorVasquezTribal = {
   id: "01a0676a-d724-7077-9a28-36ae3bd1af51",

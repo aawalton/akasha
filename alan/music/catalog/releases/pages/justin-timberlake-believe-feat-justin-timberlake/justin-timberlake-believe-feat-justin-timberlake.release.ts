@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const justinTimberlakeBelieveFeatJustinTimberlake = {
   id: "01a0676a-d718-7039-ab6f-f2fa79259a19",

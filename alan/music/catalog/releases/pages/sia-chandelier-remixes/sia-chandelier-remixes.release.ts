@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaChandelierRemixes = {
   id: "01a0676a-d71a-7015-b5e7-1cbf33085c53",

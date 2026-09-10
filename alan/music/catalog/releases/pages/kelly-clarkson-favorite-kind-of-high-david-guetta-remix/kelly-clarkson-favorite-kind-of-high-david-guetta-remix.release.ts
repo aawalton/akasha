@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const kellyClarksonFavoriteKindOfHighDavidGuettaRemix = {
   id: "01a0676a-d71d-7068-a7ed-311a8a57b19b",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayTheSimpsonsTheme = {
   id: "01a0676a-d72e-700b-9af8-b17ad8696a60",

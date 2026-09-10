@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaUnstoppable = {
   id: "01a0676a-d72f-7049-8659-64ede34cf822",

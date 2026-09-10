@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHendersonReactTeedeeRemix = {
   id: "01a0676a-d727-704d-b672-331d2418c95b",

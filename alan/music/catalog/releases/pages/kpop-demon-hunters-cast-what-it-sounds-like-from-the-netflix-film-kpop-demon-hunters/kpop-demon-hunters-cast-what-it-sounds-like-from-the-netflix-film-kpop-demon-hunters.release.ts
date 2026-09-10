@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const kpopDemonHuntersCastWhatItSoundsLikeFromTheNetflixFilmKpopDemonHunters = {
   id: "01a0676a-d730-7048-a677-0611f0d4e766",

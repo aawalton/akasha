@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2IfThisWasAMovieTaylorSVersion = {
   id: "01a0676a-d721-7055-8ba2-98339885e7df",

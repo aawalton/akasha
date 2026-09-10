@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const kDaAllOut = {
   id: "01a0676a-d716-7024-9785-d113f7278972",

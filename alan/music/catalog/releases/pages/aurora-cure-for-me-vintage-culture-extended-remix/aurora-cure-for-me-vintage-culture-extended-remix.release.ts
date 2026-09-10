@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraCureForMeVintageCultureExtendedRemix = {
   id: "01a0676a-d71b-7047-b3e3-2306647f9ceb",

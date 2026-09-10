@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaDuskTillDawnTheRemixesFeatSia = {
   id: "01a0676a-d71c-7043-9622-fe3b01428f8e",

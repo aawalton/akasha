@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraTheRiverAskjellRemix = {
   id: "01a0676a-d72e-7001-8885-24bd627ba690",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2ChristmasTreeFarmOldTimeyVersion = {
   id: "01a0676a-d71a-7045-afe9-348b26749239",

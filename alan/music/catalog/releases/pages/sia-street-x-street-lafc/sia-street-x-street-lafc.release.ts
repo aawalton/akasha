@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaStreetXStreetLafc = {
   id: "01a0676a-d72a-702f-9053-2b3b85e9226d",

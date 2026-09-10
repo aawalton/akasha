@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const leonardCohenNewSkinForTheOldCeremony = {
   id: "01a0676a-d725-7056-bb0f-2ca4edca8886",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2AllOfTheGirlsYouLovedBefore = {
   id: "01a0676a-d716-7023-83ae-68477b1dd9ea",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theHoldernessFamilyTheGreatestHitsVolOne = {
   id: "01a0676a-d72d-7019-b8ba-ca2f8c596c40",

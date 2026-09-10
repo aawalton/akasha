@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const weirdAlYankovic2Polkamania = {
   id: "01a0676a-d727-7002-84c7-6b62db4fc59b",

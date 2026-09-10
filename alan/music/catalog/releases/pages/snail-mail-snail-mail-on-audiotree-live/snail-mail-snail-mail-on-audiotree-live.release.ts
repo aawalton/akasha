@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const snailMailSnailMailOnAudiotreeLive = {
   id: "01a0676a-d729-7038-b193-e30307f5f667",

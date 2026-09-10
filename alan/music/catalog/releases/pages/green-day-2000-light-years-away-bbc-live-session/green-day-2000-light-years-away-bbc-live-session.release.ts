@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDay2000LightYearsAwayBbcLiveSession = {
   id: "01a0676a-d714-701f-9dec-a3ef61fee3b5",

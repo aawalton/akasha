@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const yaelokreHayfields = {
   id: "01a0676a-d720-7002-9e67-50b8fa6df917",

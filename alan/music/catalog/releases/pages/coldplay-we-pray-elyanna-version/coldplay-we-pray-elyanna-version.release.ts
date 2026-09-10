@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const coldplayWePrayElyannaVersion = {
   id: "01a0676a-d730-7036-b179-bd518bbdc133",

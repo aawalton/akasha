@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const billyJoelFantasiesDelusionsOpus110MusicForSoloPiano = {
   id: "01a0676a-d71d-7060-b3b8-a64972f76028",

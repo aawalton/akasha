@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayNuclearFamily = {
   id: "01a0676a-d726-7003-9932-a336656fa492",

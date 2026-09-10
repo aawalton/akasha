@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaSpotifySessions = {
   id: "01a0676a-d729-707f-aea6-feec2a042cf2",

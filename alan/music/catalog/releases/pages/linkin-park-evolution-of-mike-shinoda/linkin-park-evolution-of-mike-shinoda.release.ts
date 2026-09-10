@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const linkinParkEvolutionOfMikeShinoda = {
   id: "01a0676a-d71d-7048-9cd5-a3d5bb2445c0",

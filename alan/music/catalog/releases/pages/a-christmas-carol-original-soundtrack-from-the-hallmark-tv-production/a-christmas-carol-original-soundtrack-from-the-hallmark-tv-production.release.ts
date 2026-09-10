@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const aChristmasCarolOriginalSoundtrackFromTheHallmarkTvProduction = {
   id: "01a0676a-d715-701c-a725-99431cf84524",

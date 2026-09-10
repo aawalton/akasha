@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2SpeakNowWorldTourLive = {
   id: "01a0676a-d729-7076-8a5a-7d01ead609d2",

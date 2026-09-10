@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const thePianoGuys3MainTitleFromJurassicPark = {
   id: "01a0676a-d724-702b-845e-b8c6c71965cd",

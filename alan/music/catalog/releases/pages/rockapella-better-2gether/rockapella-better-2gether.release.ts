@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const rockapellaBetter2gether = {
   id: "01a0676a-d718-704b-88db-752c16a263ed",

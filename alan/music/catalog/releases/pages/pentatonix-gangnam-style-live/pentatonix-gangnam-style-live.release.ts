@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixGangnamStyleLive = {
   id: "01a0676a-d71e-704d-ba8d-69d3d915c104",

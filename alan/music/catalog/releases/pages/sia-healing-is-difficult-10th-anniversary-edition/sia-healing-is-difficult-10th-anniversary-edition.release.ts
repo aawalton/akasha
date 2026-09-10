@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaHealingIsDifficult10thAnniversaryEdition = {
   id: "01a0676a-d720-700a-96f5-f8995c7eaa98",

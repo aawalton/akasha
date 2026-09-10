@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const nickelCreek2LiveFromTheFoxTheater = {
   id: "01a0676a-d723-704e-ad9c-e7ea38a1d00b",

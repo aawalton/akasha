@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixIRise = {
   id: "01a0676a-d721-703b-833c-93f127e5630f",

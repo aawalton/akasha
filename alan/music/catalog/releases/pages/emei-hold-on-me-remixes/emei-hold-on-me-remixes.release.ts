@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emeiHoldOnMeRemixes = {
   id: "01a0676a-d720-704a-bb46-466f32b49463",

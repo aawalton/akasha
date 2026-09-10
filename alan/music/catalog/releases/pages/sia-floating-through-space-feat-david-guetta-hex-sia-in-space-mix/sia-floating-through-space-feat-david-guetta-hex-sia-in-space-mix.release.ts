@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaFloatingThroughSpaceFeatDavidGuettaHexSiaInSpaceMix = {
   id: "01a0676a-d71e-7014-9048-81faac76bbaf",

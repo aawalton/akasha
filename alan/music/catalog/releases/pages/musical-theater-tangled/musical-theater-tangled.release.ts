@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const musicalTheaterTangled = {
   id: "01a0676a-d72c-7002-bacc-04a5342562c3",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHenderson21ReasonsFeatEllaHendersonToyboyRobinRemixExtended = {
   id: "01a0676a-d715-7003-b46d-b381d3b7a7d1",

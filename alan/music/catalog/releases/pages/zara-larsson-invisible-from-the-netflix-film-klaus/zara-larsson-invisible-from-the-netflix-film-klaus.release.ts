@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const zaraLarssonInvisibleFromTheNetflixFilmKlaus = {
   id: "01a0676a-d722-7000-b711-69080d2ba84f",

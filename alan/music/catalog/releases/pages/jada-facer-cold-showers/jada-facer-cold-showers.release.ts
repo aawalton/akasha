@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerColdShowers = {
   id: "01a0676a-d71b-700c-9f44-b7472170b431",

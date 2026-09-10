@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const justinTimberlakeTrueColors = {
   id: "01a0676a-d72f-701e-bd39-1c24e58d48d8",

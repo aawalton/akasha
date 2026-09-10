@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraStories = {
   id: "01a0676a-d72a-7022-9275-627868296ae4",

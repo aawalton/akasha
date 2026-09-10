@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2ChristmasTreeFarmRecordedLiveAtThe2019IheartradioJingleBall = {
   id: "01a0676a-d71a-7046-baa5-1eb7e1f2d0fe",

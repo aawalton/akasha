@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const byuVocalPointSpectrum = {
   id: "01a0676a-d729-7077-978d-75f49afafbe9",

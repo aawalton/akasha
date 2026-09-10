@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emBeiholdPainfulTruth = {
   id: "01a0676a-d726-7058-a970-e5a2986b0e34",

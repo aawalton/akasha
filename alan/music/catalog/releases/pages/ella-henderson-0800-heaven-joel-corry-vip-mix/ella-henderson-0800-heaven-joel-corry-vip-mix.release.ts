@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHenderson0800HeavenJoelCorryVipMix = {
   id: "01a0676a-d714-7002-8105-04047749f06d",

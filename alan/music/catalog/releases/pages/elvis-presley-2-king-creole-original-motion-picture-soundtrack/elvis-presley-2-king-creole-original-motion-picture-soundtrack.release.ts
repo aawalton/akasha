@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const elvisPresley2KingCreoleOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d722-7046-82f5-20396386def1",

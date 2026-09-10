@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const coldplayVivaLaVidaProspektSMarchEdition = {
   id: "01a0676a-d730-7009-8465-4f6800e08e41",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const linkinParkHybridTheoryBonusEdition = {
   id: "01a0676a-d720-707d-873e-c9f1338f5e4c",

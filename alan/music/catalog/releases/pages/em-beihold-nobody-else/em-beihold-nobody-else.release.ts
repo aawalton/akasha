@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emBeiholdNobodyElse = {
   id: "01a0676a-d725-706d-b82e-ab1f2c1b6254",

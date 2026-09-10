@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const kellyClarksonIVeLovedYouSinceForever = {
   id: "01a0676a-d721-7042-858d-32b05e037291",

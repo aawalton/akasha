@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayKidsInAmerica = {
   id: "01a0676a-d722-703f-8290-936df04a30d8",

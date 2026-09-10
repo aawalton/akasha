@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const yaelokreHearken = {
   id: "01a0676a-d720-700c-9b93-7e5eae958628",

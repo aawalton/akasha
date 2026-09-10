@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2BadBlood = {
   id: "01a0676a-d718-7004-bdae-65f5596e4804",

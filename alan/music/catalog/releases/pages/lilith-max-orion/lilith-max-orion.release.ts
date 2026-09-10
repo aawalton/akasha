@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lilithMaxOrion = {
   id: "01a0676a-d726-704c-af77-d3d4a92a54c2",

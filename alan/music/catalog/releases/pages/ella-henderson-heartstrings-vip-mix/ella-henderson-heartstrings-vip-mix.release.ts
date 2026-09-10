@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHendersonHeartstringsVipMix = {
   id: "01a0676a-d720-7010-a7d1-8f3c2e3cc78f",

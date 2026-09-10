@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emBeiholdInfrared = {
   id: "01a0676a-d721-7073-b502-a4598616b640",

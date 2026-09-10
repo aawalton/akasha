@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixWeNeedALittleChristmas = {
   id: "01a0676a-d730-7034-99d5-d25c81319d87",

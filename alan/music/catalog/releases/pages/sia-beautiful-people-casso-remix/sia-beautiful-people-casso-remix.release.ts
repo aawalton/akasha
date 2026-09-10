@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaBeautifulPeopleCassoRemix = {
   id: "01a0676a-d718-7029-9ddb-12ad08c6bf7b",

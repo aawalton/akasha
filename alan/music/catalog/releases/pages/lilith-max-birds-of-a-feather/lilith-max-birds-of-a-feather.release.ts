@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lilithMaxBirdsOfAFeather = {
   id: "01a0676a-d719-700b-bc42-b312f47c5073",

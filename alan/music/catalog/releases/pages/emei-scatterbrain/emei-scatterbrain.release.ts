@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emeiScatterbrain = {
   id: "01a0676a-d728-7054-9244-2e2006b40ea4",

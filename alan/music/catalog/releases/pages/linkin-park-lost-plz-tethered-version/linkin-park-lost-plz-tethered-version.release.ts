@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const linkinParkLostPlzTetheredVersion = {
   id: "01a0676a-d723-706a-a6cc-825b59b209ae",

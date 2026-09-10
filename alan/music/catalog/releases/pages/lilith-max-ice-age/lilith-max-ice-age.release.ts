@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lilithMaxIceAge = {
   id: "01a0676a-d721-704c-a74a-bd11f88ef6a1",

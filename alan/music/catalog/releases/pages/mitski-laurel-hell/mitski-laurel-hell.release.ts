@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const mitskiLaurelHell = {
   id: "01a0676a-d722-7061-91fc-f73558473a10",

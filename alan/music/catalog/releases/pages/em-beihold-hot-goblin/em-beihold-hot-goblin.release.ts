@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emBeiholdHotGoblin = {
   id: "01a0676a-d720-7060-9007-602f2dc69cd5",

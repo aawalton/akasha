@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lilithMaxCallDownTheDragon = {
   id: "01a0676a-d719-7052-b073-396d1a96fd32",

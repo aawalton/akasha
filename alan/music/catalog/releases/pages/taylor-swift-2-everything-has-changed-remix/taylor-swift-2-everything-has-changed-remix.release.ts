@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2EverythingHasChangedRemix = {
   id: "01a0676a-d71d-703c-ad3d-eeb74e84d392",

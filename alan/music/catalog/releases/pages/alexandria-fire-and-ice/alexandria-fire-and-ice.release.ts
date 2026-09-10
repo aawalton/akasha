@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const alexandriaFireAndIce = {
   id: "01a0676a-d71d-707b-b98c-50993da83f36",

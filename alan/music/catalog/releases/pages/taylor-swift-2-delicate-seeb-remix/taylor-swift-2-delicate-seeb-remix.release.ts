@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2DelicateSeebRemix = {
   id: "01a0676a-d71c-7005-b019-fb80d5410e70",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const linkinParkPapercutsInstrumentals = {
   id: "01a0676a-d726-705a-aa62-70d2fc038c89",

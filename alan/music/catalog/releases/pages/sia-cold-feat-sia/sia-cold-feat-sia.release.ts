@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaColdFeatSia = {
   id: "01a0676a-d71b-700a-ada9-90134553174d",

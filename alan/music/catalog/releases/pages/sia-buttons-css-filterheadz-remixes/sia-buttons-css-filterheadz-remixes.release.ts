@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaButtonsCssFilterheadzRemixes = {
   id: "01a0676a-d719-704b-9c7d-7f3e4842a53d",

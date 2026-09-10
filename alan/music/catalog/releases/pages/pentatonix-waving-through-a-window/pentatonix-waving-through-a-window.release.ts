@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixWavingThroughAWindow = {
   id: "01a0676a-d730-7024-946e-fa2efa2ffa96",

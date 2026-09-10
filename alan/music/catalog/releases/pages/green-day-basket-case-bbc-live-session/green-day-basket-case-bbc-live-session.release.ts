@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayBasketCaseBbcLiveSession = {
   id: "01a0676a-d718-7017-8304-e2597fe784c0",

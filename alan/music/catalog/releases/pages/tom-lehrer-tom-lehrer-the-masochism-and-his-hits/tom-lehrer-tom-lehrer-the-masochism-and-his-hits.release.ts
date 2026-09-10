@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const tomLehrerTomLehrerTheMasochismAndHisHits = {
   id: "01a0676a-d72f-700f-bca8-3921ed96964c",

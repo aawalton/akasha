@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquareBelovedChorusesVolIi2025Remastererd = {
   id: "01a0676a-d718-703e-95cd-0c92241180c5",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraAppleTreeGeorgiaRemix = {
   id: "01a0676a-d717-702f-8ba7-3032da3a1cd1",

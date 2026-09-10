@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaHardwiredToSelfDestructDeluxe = {
   id: "01a0676a-d71f-7050-a7e5-506baca281f2",

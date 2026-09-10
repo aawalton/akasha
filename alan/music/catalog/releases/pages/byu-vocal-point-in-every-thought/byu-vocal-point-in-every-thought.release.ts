@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const byuVocalPointInEveryThought = {
   id: "01a0676a-d721-7067-8310-43696cc88ac4",

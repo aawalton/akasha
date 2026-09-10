@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardall = {
   id: "01a0676a-d71b-7059-a0c5-4099da267ee0",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const billieEilishCopycatSofiTukkerRemix = {
   id: "01a0676a-d71b-7028-b84c-385f85adfb21",

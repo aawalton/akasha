@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const katyPerrySmileM22Remix = {
   id: "01a0676a-d729-702f-ba28-95ea00addbb4",

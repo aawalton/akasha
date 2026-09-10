@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHendersonLetSGoHomeTogetherStripped = {
   id: "01a0676a-d723-701c-be95-8d753e4288c2",

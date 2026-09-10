@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const phoebeBridgersLittleTroubleBWSleepwalkinDaydreaminVersion = {
   id: "01a0676a-d723-703b-b0fd-ef529e4f4ee5",

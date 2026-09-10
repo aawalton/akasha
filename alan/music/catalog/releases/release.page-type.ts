@@ -1,10 +1,4 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-
-export type Release = CollectionExternal & {
-  title: Title
-}
 
 export const release = {
   id: "01a06769-ed1a-7000-825b-b75cf6badf16",
@@ -25,4 +19,5 @@ export const release = {
       statement: "A release names the artist the release is part of.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

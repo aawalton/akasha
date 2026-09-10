@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2AntiHeroFeatBleachers = {
   id: "01a0676a-d717-7027-a775-e3ab67f130c9",

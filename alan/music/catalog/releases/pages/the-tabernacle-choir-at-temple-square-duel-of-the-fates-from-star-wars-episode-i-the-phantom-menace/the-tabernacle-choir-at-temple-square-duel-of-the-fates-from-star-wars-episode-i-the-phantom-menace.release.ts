@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquareDuelOfTheFatesFromStarWarsEpisodeIThePhantomMenace = {
   id: "01a0676a-d71c-7041-a9a4-29cda1d8453b",

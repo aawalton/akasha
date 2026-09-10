@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCSharpMinorOp3 = {
   id: "01a0676a-d728-7018-8e1c-3f2ed219bbfc",

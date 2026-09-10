@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquareHeavensongMusicOfContemplationAndLight = {
   id: "01a0676a-d720-7023-bdf7-2bf937da5243",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerTimeAfterTimeAcoustic = {
   id: "01a0676a-d72e-7044-8701-51f9d5914025",

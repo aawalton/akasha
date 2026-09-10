@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaSomersault = {
   id: "01a0676a-d729-7058-8721-d46a33b60007",

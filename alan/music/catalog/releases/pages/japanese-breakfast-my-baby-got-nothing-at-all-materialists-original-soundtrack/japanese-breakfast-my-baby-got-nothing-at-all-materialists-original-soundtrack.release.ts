@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const japaneseBreakfastMyBabyGotNothingAtAllMaterialistsOriginalSoundtrack = {
   id: "01a0676a-d725-7022-b0f7-29821e4ad86d",

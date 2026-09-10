@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const coldplaySomethingJustLikeThisTokyoRemix = {
   id: "01a0676a-d729-705e-981a-578866d3312b",

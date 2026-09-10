@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const sia1000FormsOfFearDeluxeVersion = {
   id: "01a0676a-d714-7010-90f4-9b7fb18878c0",

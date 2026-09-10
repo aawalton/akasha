@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaBlackened2020 = {
   id: "01a0676a-d719-7013-9b3f-e03e04df9f42",

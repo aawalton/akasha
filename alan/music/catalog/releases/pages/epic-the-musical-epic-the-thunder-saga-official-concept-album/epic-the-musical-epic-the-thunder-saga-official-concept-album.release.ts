@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const epicTheMusicalEpicTheThunderSagaOfficialConceptAlbum = {
   id: "01a0676a-d71d-701c-ab54-f7eac89cf621",

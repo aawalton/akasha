@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraRunawayLvl2 = {
   id: "01a0676a-d728-702d-aa5c-24941b5d6a7d",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theBeatles2Beatles64MusicFromTheDisneyDocumentary = {
   id: "01a0676a-d718-7025-882b-be9b66cafad4",

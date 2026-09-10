@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const weirdAlYankovic2TheEssentialWeirdAlYankovic = {
   id: "01a0676a-d72d-700d-9d84-866247bd76ae",

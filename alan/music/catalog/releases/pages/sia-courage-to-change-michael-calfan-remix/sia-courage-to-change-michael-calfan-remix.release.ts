@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaCourageToChangeMichaelCalfanRemix = {
   id: "01a0676a-d71b-702f-baf3-37044b8ef0f4",

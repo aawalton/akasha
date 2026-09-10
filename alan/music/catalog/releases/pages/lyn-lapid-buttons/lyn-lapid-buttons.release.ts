@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lynLapidButtons = {
   id: "01a0676a-d719-704a-8f84-4277b2ecf8e1",

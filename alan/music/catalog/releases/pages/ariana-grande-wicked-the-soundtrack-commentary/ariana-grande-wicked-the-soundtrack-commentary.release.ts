@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const arianaGrandeWickedTheSoundtrackCommentary = {
   id: "01a0676a-d731-701b-8ecd-33790bac2fe6",

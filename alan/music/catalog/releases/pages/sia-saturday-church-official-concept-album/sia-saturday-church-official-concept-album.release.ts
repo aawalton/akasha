@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaSaturdayChurchOfficialConceptAlbum = {
   id: "01a0676a-d728-7041-a3e7-21cfb85291f4",

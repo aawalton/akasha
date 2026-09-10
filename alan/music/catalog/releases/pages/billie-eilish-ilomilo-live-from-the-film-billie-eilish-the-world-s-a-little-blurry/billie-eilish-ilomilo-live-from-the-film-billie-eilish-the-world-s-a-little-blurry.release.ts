@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const billieEilishIlomiloLiveFromTheFilmBillieEilishTheWorldSALittleBlurry = {
   id: "01a0676a-d721-7057-8e56-ff49df251344",

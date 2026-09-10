@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerHeavenIsAPlaceOnEarth = {
   id: "01a0676a-d720-7020-ae75-bdd65bc2437e",

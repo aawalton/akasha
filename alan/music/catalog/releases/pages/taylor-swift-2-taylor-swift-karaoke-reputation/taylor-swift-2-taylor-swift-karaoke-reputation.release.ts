@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2TaylorSwiftKaraokeReputation = {
   id: "01a0676a-d72c-7005-a874-49897296c1ba",

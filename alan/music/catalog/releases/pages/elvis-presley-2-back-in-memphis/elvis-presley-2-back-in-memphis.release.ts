@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const elvisPresley2BackInMemphis = {
   id: "01a0676a-d717-704a-b559-ae773b6e8089",

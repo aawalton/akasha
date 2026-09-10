@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lynLapidTheOutsiderEp = {
   id: "01a0676a-d72d-7051-b08a-b07fb86b477c",

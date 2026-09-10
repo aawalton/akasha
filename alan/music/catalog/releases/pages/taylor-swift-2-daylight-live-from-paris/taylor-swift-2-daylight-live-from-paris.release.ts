@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2DaylightLiveFromParis = {
   id: "01a0676a-d71b-706e-8692-c08821153a8c",

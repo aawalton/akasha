@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const adeleColdShoulder = {
   id: "01a0676a-d71b-700b-9443-a2951fb0d20c",

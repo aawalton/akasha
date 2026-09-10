@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaBeyondMagnetic = {
   id: "01a0676a-d718-7054-9c08-3eaf90c58955",

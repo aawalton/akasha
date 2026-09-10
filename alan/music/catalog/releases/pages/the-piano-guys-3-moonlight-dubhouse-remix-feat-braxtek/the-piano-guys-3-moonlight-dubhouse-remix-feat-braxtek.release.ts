@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const thePianoGuys3MoonlightDubhouseRemixFeatBraxtek = {
   id: "01a0676a-d724-7085-ac9c-8275c351fd6b",

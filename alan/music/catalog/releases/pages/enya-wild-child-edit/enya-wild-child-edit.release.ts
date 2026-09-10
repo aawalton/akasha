@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const enyaWildChildEdit = {
   id: "01a0676a-d731-701d-9420-780e08790610",

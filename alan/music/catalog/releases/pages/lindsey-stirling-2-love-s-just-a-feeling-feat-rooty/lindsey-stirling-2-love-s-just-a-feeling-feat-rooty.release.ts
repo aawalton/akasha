@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lindseyStirling2LoveSJustAFeelingFeatRooty = {
   id: "01a0676a-d723-707a-81e3-d9272c37488c",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const justinTimberlakeTheOtherSideFromTrollsWorldTourOliverHeldensRemix = {
   id: "01a0676a-d72d-704e-9106-e6bf2a054d95",

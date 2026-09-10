@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const elvisPresley2GIBluesOriginalSoundtrack = {
   id: "01a0676a-d71e-704c-9993-5fd27d617250",

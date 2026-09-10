@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const enyaTheVeryBestOfEnyaDeluxeEdition = {
   id: "01a0676a-d72e-701b-a797-580b13c83186",

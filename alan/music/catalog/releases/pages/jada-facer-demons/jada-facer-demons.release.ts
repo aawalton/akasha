@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerDemons = {
   id: "01a0676a-d71c-700a-9884-8aaa3b939ea9",

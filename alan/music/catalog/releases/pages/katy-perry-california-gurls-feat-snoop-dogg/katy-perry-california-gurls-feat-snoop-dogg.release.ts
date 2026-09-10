@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const katyPerryCaliforniaGurlsFeatSnoopDogg = {
   id: "01a0676a-d719-7051-a10d-6cdf1bac5d20",

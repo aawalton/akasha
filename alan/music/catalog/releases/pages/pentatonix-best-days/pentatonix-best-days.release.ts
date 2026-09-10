@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixBestDays = {
   id: "01a0676a-d718-7041-bb55-aeffd138e4d2",

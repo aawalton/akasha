@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const harryStyles2HarryStyles = {
   id: "01a0676a-d71f-7056-b3b5-b70286899700",

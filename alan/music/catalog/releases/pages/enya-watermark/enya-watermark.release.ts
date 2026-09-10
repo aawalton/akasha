@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const enyaWatermark = {
   id: "01a0676a-d730-7021-b4df-40b283769c84",

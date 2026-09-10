@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraExistForLoveBenjaminMRkAcousticRemix = {
   id: "01a0676a-d71d-704d-868f-ac7e3a76bb73",

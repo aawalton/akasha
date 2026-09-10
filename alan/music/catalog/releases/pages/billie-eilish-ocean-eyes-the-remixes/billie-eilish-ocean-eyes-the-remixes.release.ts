@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const billieEilishOceanEyesTheRemixes = {
   id: "01a0676a-d726-7013-8410-b1f2102ca5f8",

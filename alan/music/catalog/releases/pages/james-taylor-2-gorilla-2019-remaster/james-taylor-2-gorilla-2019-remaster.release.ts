@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jamesTaylor2Gorilla2019Remaster = {
   id: "01a0676a-d71f-7021-b32d-d6fd5cf0ba0a",

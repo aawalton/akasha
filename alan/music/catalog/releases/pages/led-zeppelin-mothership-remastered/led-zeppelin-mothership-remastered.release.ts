@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ledZeppelinMothershipRemastered = {
   id: "01a0676a-d725-7009-a8a9-90b9c017c34a",

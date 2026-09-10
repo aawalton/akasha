@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixTheChipmunkSongChristmasDonTBeLate = {
   id: "01a0676a-d72c-703e-84d9-8354e8986eae",

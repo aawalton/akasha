@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lilithMaxSeraph = {
   id: "01a0676a-d728-7062-91d1-20cc16856160",

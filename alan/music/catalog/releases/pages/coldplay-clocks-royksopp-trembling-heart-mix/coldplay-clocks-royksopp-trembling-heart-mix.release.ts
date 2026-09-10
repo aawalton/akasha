@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const coldplayClocksRoyksoppTremblingHeartMix = {
   id: "01a0676a-d71b-7002-a64a-18eb074ee0a3",

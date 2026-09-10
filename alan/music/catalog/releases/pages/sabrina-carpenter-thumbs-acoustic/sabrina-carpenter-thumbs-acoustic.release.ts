@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const sabrinaCarpenterThumbsAcoustic = {
   id: "01a0676a-d72e-703b-84d8-6fc2182122a9",

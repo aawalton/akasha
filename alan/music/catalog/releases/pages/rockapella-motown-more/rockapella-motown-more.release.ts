@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const rockapellaMotownMore = {
   id: "01a0676a-d725-700b-9973-ee2300fa0d68",

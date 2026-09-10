@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixWettenDassMedley = {
   id: "01a0676a-d730-703e-8b79-67ba79b6f7e1",

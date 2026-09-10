@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2BettyLiveFromThe2020AcademyOfCountryMusicAwards = {
   id: "01a0676a-d718-7051-80f7-1b892c534e92",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const katyPerryHarleysInHawaiiWinAndWooRemix = {
   id: "01a0676a-d71f-7053-b4e4-4b2bc1f43896",

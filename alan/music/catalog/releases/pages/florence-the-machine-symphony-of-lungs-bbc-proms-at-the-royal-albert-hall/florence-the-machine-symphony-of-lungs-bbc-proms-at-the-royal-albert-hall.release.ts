@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHall = {
   id: "01a0676a-d72b-700c-9f8e-141029c59493",

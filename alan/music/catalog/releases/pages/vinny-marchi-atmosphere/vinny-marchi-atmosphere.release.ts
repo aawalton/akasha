@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const vinnyMarchiAtmosphere = {
   id: "01a0676a-d717-703c-9932-4307a58abe3d",

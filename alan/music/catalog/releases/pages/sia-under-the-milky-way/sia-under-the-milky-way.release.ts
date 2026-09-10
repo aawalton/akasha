@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaUnderTheMilkyWay = {
   id: "01a0676a-d72f-7034-a8df-11b5f2576969",

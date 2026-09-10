@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2LoveStoryDigitalDogRemix = {
   id: "01a0676a-d724-7000-84cd-5a34f8d5f2ce",

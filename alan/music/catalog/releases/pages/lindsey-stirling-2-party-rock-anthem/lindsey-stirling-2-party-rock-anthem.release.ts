@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lindseyStirling2PartyRockAnthem = {
   id: "01a0676a-d726-7062-aa73-2f532dc18c3f",

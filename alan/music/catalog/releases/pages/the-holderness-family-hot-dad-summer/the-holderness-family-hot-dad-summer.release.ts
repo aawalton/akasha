@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theHoldernessFamilyHotDadSummer = {
   id: "01a0676a-d720-705f-a761-df0f309088c0",

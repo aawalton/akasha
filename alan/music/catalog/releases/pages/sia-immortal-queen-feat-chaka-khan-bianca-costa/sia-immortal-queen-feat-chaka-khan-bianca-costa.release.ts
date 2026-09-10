@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaImmortalQueenFeatChakaKhanBiancaCosta = {
   id: "01a0676a-d721-705d-9e9c-5dece1138765",

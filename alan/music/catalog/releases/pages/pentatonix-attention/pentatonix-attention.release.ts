@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixAttention = {
   id: "01a0676a-d717-703e-afbb-ce1c6978b9c2",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theBeatles2LetItBeNakedRemastered = {
   id: "01a0676a-d723-7007-93bc-85d2f861ab8e",

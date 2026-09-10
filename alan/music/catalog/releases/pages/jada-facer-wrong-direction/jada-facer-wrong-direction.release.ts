@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerWrongDirection = {
   id: "01a0676a-d731-703f-a94c-91bf14b67ce0",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHendersonCrazyWhatLoveCanDoWithBeckyHillGrafixRemix = {
   id: "01a0676a-d71b-7039-90b8-e61939cf2b3a",

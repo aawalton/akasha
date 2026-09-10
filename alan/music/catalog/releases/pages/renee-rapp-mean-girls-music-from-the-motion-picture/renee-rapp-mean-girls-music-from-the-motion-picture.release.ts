@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const reneeRappMeanGirlsMusicFromTheMotionPicture = {
   id: "01a0676a-d724-7043-8dc8-cbdd83e5da79",

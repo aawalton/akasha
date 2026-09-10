@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emeiBacktrack = {
   id: "01a0676a-d718-7002-b310-3e1d3d08dcde",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const coldplayTheBlueRoom = {
   id: "01a0676a-d72c-7033-9c91-604351eaf60f",

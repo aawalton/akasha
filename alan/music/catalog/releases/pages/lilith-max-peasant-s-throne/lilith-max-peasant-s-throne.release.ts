@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lilithMaxPeasantSThrone = {
   id: "01a0676a-d726-7069-9249-d79450d26356",

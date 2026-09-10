@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRoma = {
   id: "01a0676a-d730-7055-9afd-85fb9eb9a9b5",

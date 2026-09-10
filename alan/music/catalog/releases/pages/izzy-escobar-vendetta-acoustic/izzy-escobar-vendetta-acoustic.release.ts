@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const izzyEscobarVendettaAcoustic = {
   id: "01a0676a-d730-7001-aa59-b1c1d75124e5",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const coldplayHigherPowerZhuRemix = {
   id: "01a0676a-d720-703f-bd96-1d1f1fe2cb2f",

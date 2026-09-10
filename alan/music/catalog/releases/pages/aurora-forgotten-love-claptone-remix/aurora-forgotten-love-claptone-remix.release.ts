@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraForgottenLoveClaptoneRemix = {
   id: "01a0676a-d71e-702f-ac3c-eff4b5877dfb",

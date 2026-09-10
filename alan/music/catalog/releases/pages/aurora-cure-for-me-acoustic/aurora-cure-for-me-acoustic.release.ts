@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraCureForMeAcoustic = {
   id: "01a0676a-d71b-7045-be35-df9a6397005e",

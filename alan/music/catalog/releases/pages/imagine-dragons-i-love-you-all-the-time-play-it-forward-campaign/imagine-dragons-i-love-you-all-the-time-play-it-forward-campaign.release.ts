@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaign = {
   id: "01a0676a-d721-702c-b6ca-88d60295aeb2",

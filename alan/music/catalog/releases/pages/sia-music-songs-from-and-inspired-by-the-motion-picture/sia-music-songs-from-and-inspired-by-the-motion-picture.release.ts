@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaMusicSongsFromAndInspiredByTheMotionPicture = {
   id: "01a0676a-d725-701e-a428-1976ce0d6e0b",

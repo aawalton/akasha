@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const linkinParkRecharged = {
   id: "01a0676a-d727-7059-8f91-adb41416c603",

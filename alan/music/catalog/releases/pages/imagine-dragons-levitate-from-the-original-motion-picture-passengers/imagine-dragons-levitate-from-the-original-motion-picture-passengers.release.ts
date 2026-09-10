@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const imagineDragonsLevitateFromTheOriginalMotionPicturePassengers = {
   id: "01a0676a-d723-7029-8fda-0bc97df47773",

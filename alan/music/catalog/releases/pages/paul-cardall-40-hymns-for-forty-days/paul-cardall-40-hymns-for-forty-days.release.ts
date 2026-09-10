@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const paulCardall40HymnsForFortyDays = {
   id: "01a0676a-d715-700b-8a94-991029e7934e",

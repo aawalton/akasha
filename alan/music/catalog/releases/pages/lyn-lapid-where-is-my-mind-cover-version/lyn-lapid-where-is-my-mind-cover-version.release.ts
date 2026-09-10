@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lynLapidWhereIsMyMindCoverVersion = {
   id: "01a0676a-d731-700e-af67-a0a613e954d3",

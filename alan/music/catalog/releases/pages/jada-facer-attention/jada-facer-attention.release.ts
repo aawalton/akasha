@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerAttention = {
   id: "01a0676a-d717-703d-9609-150e360fa33c",

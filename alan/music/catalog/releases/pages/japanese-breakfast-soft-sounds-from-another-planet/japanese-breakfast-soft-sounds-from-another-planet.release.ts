@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const japaneseBreakfastSoftSoundsFromAnotherPlanet = {
   id: "01a0676a-d729-704b-bc32-27f66a3e9602",

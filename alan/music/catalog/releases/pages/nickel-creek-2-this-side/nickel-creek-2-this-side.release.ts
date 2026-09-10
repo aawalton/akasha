@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const nickelCreek2ThisSide = {
   id: "01a0676a-d72e-7033-8fa0-e0236988243c",

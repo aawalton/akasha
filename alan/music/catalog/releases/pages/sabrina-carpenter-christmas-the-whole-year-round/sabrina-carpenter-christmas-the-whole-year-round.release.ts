@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const sabrinaCarpenterChristmasTheWholeYearRound = {
   id: "01a0676a-d71a-7042-aadf-c889096fd536",

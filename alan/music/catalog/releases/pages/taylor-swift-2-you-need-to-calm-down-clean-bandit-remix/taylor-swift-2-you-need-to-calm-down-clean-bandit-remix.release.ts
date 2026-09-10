@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2YouNeedToCalmDownCleanBanditRemix = {
   id: "01a0676a-d732-7010-a1c7-f1891b0021aa",

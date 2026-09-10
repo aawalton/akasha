@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquareJoy = {
   id: "01a0676a-d722-7027-8104-58d589d0b3fa",

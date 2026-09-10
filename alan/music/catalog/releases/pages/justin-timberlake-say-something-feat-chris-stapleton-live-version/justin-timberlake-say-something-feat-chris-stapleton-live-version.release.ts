@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const justinTimberlakeSaySomethingFeatChrisStapletonLiveVersion = {
   id: "01a0676a-d728-704f-83e3-7c25b97f5d95",

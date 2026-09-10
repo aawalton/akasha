@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerItLlBeAlrightSlowedReverb = {
   id: "01a0676a-d722-700a-b9ce-2f3f1b99220a",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerHaloAcoustic = {
   id: "01a0676a-d71f-703f-903d-93358046541a",

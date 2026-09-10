@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayWakeMeUpWhenSeptemberEndsLiveAtFoxboroMa9305 = {
   id: "01a0676a-d730-700e-841d-ada20187890a",

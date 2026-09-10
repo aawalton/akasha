@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jessicaBaioCatalyst = {
   id: "01a0676a-d71a-7005-bdf9-e2fe09d16264",

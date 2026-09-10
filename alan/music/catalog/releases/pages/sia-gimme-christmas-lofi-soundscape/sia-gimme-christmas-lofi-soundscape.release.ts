@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaGimmeChristmasLofiSoundscape = {
   id: "01a0676a-d71e-705d-ba4a-9e7bef4e2dd1",

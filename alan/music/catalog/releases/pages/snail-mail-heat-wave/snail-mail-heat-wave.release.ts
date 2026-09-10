@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const snailMailHeatWave = {
   id: "01a0676a-d720-701a-9927-be79a67ac08f",

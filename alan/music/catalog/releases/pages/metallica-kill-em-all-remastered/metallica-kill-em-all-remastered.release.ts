@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaKillEmAllRemastered = {
   id: "01a0676a-d722-7041-b239-6736357c286a",

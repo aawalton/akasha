@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2LiveFromClearChannelStripped2008 = {
   id: "01a0676a-d723-704b-98a8-4bc9d2410c82",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lynLapidInfinite = {
   id: "01a0676a-d721-7071-962d-eb377e8e65ef",

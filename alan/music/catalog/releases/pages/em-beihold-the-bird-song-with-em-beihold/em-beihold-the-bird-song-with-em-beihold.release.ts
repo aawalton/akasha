@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emBeiholdTheBirdSongWithEmBeihold = {
   id: "01a0676a-d72c-7032-a15f-60dfcfdd73d4",

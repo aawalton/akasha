@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theHoldernessFamilyBestOf2023 = {
   id: "01a0676a-d718-7045-bb92-057ad721ca0f",

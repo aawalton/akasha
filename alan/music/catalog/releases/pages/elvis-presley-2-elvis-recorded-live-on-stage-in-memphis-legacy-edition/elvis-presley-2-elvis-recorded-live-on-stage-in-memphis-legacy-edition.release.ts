@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const elvisPresley2ElvisRecordedLiveOnStageInMemphisLegacyEdition = {
   id: "01a0676a-d71d-7005-bce2-4a49448130a2",

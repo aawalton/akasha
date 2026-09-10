@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const weirdAlYankovic2WeirdTheAlYankovicStoryOriginalSoundtrack = {
   id: "01a0676a-d730-703c-8e25-55433d527dc6",

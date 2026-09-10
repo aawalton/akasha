@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const snailMailAdoreYouValentineDemo = {
   id: "01a0676a-d715-704e-83c5-061abb1d9f32",

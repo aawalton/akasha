@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const coldplayARushOfBloodToTheHead = {
   id: "01a0676a-d715-703d-b121-10d3e8029558",

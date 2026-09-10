@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaDistractions = {
   id: "01a0676a-d71c-7016-b712-3376a2c9817e",

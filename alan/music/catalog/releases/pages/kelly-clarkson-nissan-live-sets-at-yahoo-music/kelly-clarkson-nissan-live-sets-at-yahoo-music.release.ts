@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const kellyClarksonNissanLiveSetsAtYahooMusic = {
   id: "01a0676a-d725-7061-8162-31ff7d9a5ff1",

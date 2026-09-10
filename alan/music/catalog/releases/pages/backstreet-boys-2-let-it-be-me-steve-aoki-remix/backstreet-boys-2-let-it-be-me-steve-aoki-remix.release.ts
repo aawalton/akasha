@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const backstreetBoys2LetItBeMeSteveAokiRemix = {
   id: "01a0676a-d723-7006-b102-15e5aa20d7c6",

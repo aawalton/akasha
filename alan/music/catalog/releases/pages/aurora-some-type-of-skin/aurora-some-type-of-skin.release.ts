@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraSomeTypeOfSkin = {
   id: "01a0676a-d729-7052-8b24-4edaddf10eeb",

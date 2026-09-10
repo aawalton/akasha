@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ledZeppelinLedZeppelinIvDeluxeEdition = {
   id: "01a0676a-d722-706f-8f36-39dc56825820",

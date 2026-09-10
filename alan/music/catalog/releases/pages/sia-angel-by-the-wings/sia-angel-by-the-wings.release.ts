@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaAngelByTheWings = {
   id: "01a0676a-d717-701c-99af-290caf4814e3",

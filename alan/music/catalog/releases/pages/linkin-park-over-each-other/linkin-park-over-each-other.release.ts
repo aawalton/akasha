@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const linkinParkOverEachOther = {
   id: "01a0676a-d726-7053-8ddb-3c0f74ac2849",

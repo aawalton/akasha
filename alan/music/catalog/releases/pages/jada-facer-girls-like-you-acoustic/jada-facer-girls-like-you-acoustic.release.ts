@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerGirlsLikeYouAcoustic = {
   id: "01a0676a-d71e-706c-be5c-9693f160f238",

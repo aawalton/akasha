@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const vinnyMarchiTheHighSongMendeleyevRemix = {
   id: "01a0676a-d72d-7021-b9fb-251db8dc7b5b",

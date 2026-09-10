@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaIForgiveYouChromeoRemixRadioEdit = {
   id: "01a0676a-d721-7019-8a50-2f6b02ac0ea4",

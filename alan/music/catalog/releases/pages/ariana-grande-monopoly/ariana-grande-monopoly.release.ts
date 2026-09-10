@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const arianaGrandeMonopoly = {
   id: "01a0676a-d724-7080-824a-5ec9aa99ca52",

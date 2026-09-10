@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lindseyStirling2WhatYouReMadeOfFeatKieszaAzurLaneSoundtrack = {
   id: "01a0676a-d730-704d-ae2d-03aa5f9aa3a2",

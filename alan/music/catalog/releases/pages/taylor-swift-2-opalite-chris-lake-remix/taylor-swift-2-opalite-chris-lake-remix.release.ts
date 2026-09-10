@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2OpaliteChrisLakeRemix = {
   id: "01a0676a-d726-703f-8b58-51588cc69fd0",

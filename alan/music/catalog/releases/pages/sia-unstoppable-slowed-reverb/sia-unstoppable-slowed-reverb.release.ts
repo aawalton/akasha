@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaUnstoppableSlowedReverb = {
   id: "01a0676a-d72f-704f-b0ea-4728205f57af",

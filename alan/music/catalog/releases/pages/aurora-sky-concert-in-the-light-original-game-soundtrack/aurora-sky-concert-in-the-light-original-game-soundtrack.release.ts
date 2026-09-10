@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const auroraSkyConcertInTheLightOriginalGameSoundtrack = {
   id: "01a0676a-d729-701c-a934-9c76018b9d15",

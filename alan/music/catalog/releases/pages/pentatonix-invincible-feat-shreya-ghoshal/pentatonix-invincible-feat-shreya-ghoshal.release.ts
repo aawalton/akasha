@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixInvincibleFeatShreyaGhoshal = {
   id: "01a0676a-d721-707f-a8cd-3ea64b0cefa4",

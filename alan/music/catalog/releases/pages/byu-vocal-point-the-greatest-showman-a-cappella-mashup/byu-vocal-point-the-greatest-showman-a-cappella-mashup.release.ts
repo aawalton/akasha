@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const byuVocalPointTheGreatestShowmanACappellaMashup = {
   id: "01a0676a-d72d-701c-9f53-0bd84101866f",

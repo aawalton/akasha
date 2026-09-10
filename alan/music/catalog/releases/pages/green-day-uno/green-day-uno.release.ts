@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayUno = {
   id: "01a0676a-d72f-7042-bf2b-793768df75af",

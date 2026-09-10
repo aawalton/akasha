@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const snailMailThe2ndMostBeautifulGirlInTheWorld = {
   id: "01a0676a-d72c-7023-8173-af47af89a322",

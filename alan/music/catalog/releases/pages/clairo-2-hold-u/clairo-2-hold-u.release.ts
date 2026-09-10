@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const clairo2HoldU = {
   id: "01a0676a-d714-701b-8654-e3ee4dc5c8cc",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const byuVocalPointWickedMedley = {
   id: "01a0676a-d731-7018-b0a6-da7265a747ec",

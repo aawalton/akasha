@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emeiCynical = {
   id: "01a0676a-d71b-7049-8655-af08f51b1bd4",

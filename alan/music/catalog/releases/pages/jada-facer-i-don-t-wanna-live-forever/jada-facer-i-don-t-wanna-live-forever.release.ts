@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerIDonTWannaLiveForever = {
   id: "01a0676a-d721-7017-a32a-131c4b32779a",

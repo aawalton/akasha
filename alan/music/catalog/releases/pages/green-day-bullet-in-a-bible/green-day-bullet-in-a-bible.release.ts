@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayBulletInABible = {
   id: "01a0676a-d719-7042-80f2-416277fb75ff",

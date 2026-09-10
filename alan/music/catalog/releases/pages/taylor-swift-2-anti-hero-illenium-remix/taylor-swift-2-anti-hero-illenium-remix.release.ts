@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2AntiHeroIlleniumRemix = {
   id: "01a0676a-d717-7028-bfaa-dbc7d4f177f0",

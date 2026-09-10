@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2LavenderHazeAcousticVersion = {
   id: "01a0676a-d722-7062-94d5-4442380a40ad",

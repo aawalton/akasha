@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHendersonDreamOnMePaulWoolfordExtendedRemix = {
   id: "01a0676a-d71c-7032-8c80-ef6cda9fd81d",

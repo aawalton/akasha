@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theLordOfTheRingsMusicTheHobbitTheDesolationOfSmaug = {
   id: "01a0676a-d72d-7026-b3dc-a2f90acc7121",

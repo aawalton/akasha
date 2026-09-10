@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaNeverGiveUpFromLionSoundtrack = {
   id: "01a0676a-d725-7048-a0ed-28678bf3f7ad",

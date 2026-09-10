@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const thePianoGuys3AvengersPortals = {
   id: "01a0676a-d717-7043-aac8-4096ac20bcba",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const arianaGrandeHotelRockBottom = {
   id: "01a0676a-d720-7064-b8b0-9be219cbcc51",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const florenceTheMachineMorningElvisLiveAtDenverBallArena = {
   id: "01a0676a-d725-7007-9971-958c9eb143f7",

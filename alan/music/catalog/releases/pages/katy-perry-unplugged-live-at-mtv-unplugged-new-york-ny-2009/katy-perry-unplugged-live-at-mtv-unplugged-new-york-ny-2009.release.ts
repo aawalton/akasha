@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const katyPerryUnpluggedLiveAtMtvUnpluggedNewYorkNy2009 = {
   id: "01a0676a-d72f-7044-8620-b34e893b99e5",

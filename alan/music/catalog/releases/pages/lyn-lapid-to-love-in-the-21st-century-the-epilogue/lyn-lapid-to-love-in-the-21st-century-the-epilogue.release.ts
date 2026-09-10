@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lynLapidToLoveInThe21stCenturyTheEpilogue = {
   id: "01a0676a-d72f-7006-9ab3-c616e4c88de7",

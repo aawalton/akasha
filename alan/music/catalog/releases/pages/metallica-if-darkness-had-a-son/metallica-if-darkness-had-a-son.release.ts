@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaIfDarknessHadASon = {
   id: "01a0676a-d721-7050-8dd3-b2b43970a373",

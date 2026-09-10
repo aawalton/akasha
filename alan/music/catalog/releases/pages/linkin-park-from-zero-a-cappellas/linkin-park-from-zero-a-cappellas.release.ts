@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const linkinParkFromZeroACappellas = {
   id: "01a0676a-d71e-703f-a1e7-9c722457fee2",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lindseyStirling2TheUpsideTheUpsideUndergroundFeatElleKing = {
   id: "01a0676a-d72e-7019-b801-24d8593ff4bc",

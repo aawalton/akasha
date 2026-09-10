@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const florenceTheMachineJustAGirlFromTheOriginalSeriesYellowjackets = {
   id: "01a0676a-d722-702f-8321-d70a329618b3",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const rockapellaWhereInTheWorldIsCarmenSandiegoEp = {
   id: "01a0676a-d731-700c-97fb-330e1185a251",

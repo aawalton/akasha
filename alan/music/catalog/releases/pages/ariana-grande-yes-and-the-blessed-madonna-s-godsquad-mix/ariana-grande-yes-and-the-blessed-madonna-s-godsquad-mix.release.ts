@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const arianaGrandeYesAndTheBlessedMadonnaSGodsquadMix = {
   id: "01a0676a-d731-7050-b292-07a3bf2ca6eb",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixTheSoundOfSilence = {
   id: "01a0676a-d72e-700f-83fc-e0a3f8421d21",

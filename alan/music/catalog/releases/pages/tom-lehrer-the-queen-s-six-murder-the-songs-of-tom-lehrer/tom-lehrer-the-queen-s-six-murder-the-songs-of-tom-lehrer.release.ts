@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const tomLehrerTheQueenSSixMurderTheSongsOfTomLehrer = {
   id: "01a0676a-d72e-7000-9ff1-4e23e0ad5c5e",

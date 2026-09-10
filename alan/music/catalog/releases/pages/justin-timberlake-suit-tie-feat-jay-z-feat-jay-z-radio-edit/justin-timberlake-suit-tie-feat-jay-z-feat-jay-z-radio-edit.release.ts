@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const justinTimberlakeSuitTieFeatJayZFeatJayZRadioEdit = {
   id: "01a0676a-d72a-703f-9629-e0dc2630be80",

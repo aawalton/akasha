@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const zaraLarssonEndOfTimeJustinCarusoRemix = {
   id: "01a0676a-d71d-7010-a59a-2bb580e283ca",

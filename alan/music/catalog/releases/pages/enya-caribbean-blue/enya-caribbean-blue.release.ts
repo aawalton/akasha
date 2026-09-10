@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const enyaCaribbeanBlue = {
   id: "01a0676a-d719-7064-a7c4-9b77a0c21996",

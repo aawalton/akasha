@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const lilithMaxInMemory = {
   id: "01a0676a-d721-7068-aed1-3ab08e4514a1",

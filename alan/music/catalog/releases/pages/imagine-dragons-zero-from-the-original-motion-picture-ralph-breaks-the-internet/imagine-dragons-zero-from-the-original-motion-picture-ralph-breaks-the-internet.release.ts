@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInternet = {
   id: "01a0676a-d732-702a-9e0b-4b51c6e3c554",

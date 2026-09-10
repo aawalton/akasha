@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const vinnyMarchiAllIGaveToYou = {
   id: "01a0676a-d716-701a-8f65-5a1a74d04e70",

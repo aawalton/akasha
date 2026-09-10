@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const imagineDragonsEnemyWithJidOpeningTitleVersionFromTheSeriesArcaneLeagueOfLegends = {
   id: "01a0676a-d71d-7017-894d-f0a81e79e342",

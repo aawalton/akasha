@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theBeatles2SgtPepperSLonelyHeartsClubBandDeluxeEdition = {
   id: "01a0676a-d728-7066-88a8-0cf82199ff96",

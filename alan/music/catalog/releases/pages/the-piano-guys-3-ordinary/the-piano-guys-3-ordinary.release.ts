@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const thePianoGuys3Ordinary = {
   id: "01a0676a-d726-7044-bc5a-74e57e0c0557",

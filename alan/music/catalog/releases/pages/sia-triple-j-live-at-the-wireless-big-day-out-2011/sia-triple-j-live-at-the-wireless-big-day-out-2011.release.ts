@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaTripleJLiveAtTheWirelessBigDayOut2011 = {
   id: "01a0676a-d72f-701b-8b86-d6b7db85761c",

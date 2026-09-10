@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ledZeppelinHowTheWestWasWonRemaster = {
   id: "01a0676a-d720-7072-9a29-fd9a67b51162",

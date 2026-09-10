@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const imagineDragonsChildrenOfTheSkyAStarfieldSong = {
   id: "01a0676a-d71a-702a-bf78-d28804b24614",

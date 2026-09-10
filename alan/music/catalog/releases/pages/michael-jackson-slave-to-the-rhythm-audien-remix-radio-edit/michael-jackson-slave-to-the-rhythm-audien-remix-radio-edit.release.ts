@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const michaelJacksonSlaveToTheRhythmAudienRemixRadioEdit = {
   id: "01a0676a-d729-701f-b04a-f75cfb5a42c2",

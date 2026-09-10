@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaSnowmanSpedUpVersion = {
   id: "01a0676a-d729-7040-810d-24b8b8f342e3",

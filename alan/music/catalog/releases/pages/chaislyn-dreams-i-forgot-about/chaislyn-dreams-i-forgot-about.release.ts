@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const chaislynDreamsIForgotAbout = {
   id: "01a0676a-d71c-7039-9feb-bede978e416a",

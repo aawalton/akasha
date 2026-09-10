@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaForWhomTheBellTollsLive = {
   id: "01a0676a-d71e-7029-987e-09568b59a3a4",

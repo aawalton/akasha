@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersion = {
   id: "01a0676a-d724-7044-974c-ec8aa14bf3c7",

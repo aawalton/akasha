@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaButtons = {
   id: "01a0676a-d719-7049-aa8a-9bffae702d26",

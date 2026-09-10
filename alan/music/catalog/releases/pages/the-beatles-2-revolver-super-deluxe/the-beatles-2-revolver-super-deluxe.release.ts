@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theBeatles2RevolverSuperDeluxe = {
   id: "01a0676a-d728-7000-a9ae-2cb270d32ff7",

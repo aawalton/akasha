@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerLandslide = {
   id: "01a0676a-d722-7059-b32b-71fe5514ec64",

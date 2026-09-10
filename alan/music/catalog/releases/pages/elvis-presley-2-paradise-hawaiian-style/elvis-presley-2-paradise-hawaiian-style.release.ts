@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const elvisPresley2ParadiseHawaiianStyle = {
   id: "01a0676a-d726-705d-8e3f-1b960e2e022a",

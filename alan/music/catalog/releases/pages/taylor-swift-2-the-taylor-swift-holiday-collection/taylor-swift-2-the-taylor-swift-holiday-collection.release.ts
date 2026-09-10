@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2TheTaylorSwiftHolidayCollection = {
   id: "01a0676a-d72e-7014-91cc-d30a842b7b3b",

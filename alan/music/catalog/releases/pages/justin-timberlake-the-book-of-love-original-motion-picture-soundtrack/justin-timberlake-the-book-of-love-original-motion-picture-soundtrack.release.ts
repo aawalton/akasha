@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const justinTimberlakeTheBookOfLoveOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d72c-7034-bf36-4e57aacaa935",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emBeiholdUntilIFoundYouEmBeiholdVersion = {
   id: "01a0676a-d72f-7053-acf1-cf18eea9501b",

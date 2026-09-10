@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const phoebeBridgersCopycatKiller = {
   id: "01a0676a-d71b-7027-97c7-d0b7ceb10ba9",

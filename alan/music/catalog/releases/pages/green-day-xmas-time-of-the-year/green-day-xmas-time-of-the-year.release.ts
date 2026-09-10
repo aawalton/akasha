@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayXmasTimeOfTheYear = {
   id: "01a0676a-d731-7042-813f-9b9e682b7ed4",

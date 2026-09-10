@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const emBeiholdDriveByLovers = {
   id: "01a0676a-d71c-703a-9082-33ecb610152b",

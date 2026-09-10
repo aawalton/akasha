@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019Remaster = {
   id: "01a0676a-d725-7016-b5c9-2513227dfef8",

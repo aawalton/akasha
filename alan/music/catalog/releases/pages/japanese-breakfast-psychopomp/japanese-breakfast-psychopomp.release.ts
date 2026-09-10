@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const japaneseBreakfastPsychopomp = {
   id: "01a0676a-d727-702a-9f54-f89d39061f53",

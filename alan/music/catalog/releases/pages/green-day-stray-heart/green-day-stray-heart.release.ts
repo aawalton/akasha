@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const greenDayStrayHeart = {
   id: "01a0676a-d72a-702e-862b-c64d34db7ad9",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const mitskiMitskiOnAudiotreeLive = {
   id: "01a0676a-d724-707c-92f0-29a017f12c59",

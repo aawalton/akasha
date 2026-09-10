@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const byuVocalPointBrillanRayosDeClemencia = {
   id: "01a0676a-d719-7038-bdb3-537c669fce7f",

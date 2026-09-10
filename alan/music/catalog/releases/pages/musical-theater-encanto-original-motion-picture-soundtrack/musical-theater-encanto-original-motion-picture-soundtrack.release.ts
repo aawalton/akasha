@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const musicalTheaterEncantoOriginalMotionPictureSoundtrack = {
   id: "01a0676a-d71d-700d-ac34-24b89ba4ef43",

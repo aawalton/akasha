@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixThunderFromRyanSWorldTheMovieTitanUniverseAdventure = {
   id: "01a0676a-d72e-703c-afee-aae2c979c48d",

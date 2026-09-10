@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const theTabernacleChoirAtTempleSquareTheLordSPrayer2023RemasteredVersion = {
   id: "01a0676a-d72d-7039-80ba-34a3d2e38b36",

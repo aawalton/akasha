@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2FortnightAcousticVersion = {
   id: "01a0676a-d71e-7030-b356-8b19ff8e3e3f",

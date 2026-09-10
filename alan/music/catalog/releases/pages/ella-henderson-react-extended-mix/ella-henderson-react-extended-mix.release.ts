@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const ellaHendersonReactExtendedMix = {
   id: "01a0676a-d727-704c-b6c1-a9b7e643546d",

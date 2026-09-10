@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const metallicaMetallicaRemasteredDeluxeBoxSet = {
   id: "01a0676a-d724-7054-9cf4-c161b637a87b",

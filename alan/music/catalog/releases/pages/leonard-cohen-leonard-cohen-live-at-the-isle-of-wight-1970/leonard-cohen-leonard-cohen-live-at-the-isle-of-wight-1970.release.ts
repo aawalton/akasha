@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const leonardCohenLeonardCohenLiveAtTheIsleOfWight1970 = {
   id: "01a0676a-d722-7075-b58d-ec8a5e212645",

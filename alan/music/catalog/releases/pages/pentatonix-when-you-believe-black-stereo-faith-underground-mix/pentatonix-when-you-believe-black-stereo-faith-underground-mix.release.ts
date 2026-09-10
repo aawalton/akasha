@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const pentatonixWhenYouBelieveBlackStereoFaithUndergroundMix = {
   id: "01a0676a-d731-7001-bd85-0fc6e45a1059",

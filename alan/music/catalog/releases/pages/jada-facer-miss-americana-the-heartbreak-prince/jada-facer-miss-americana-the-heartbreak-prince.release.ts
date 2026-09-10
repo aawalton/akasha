@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const jadaFacerMissAmericanaTheHeartbreakPrince = {
   id: "01a0676a-d724-7076-8043-68112327e2ac",

@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const siaReaper = {
   id: "01a0676a-d727-7052-b01e-ed87e3fe189f",

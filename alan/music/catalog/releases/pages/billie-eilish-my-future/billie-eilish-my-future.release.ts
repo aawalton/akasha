@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const billieEilishMyFuture = {
   id: "01a0676a-d725-702a-bc7d-247437f76bba",

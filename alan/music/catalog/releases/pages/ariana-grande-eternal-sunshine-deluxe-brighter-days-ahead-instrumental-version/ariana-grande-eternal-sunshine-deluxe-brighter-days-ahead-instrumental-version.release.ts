@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersion = {
   id: "01a0676a-d71d-7027-baa9-7131c1bbe26d",

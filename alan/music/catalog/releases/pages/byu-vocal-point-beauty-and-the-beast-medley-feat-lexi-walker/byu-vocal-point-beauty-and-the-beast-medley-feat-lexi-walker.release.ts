@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const byuVocalPointBeautyAndTheBeastMedleyFeatLexiWalker = {
   id: "01a0676a-d718-7031-9bff-f37878414bf1",

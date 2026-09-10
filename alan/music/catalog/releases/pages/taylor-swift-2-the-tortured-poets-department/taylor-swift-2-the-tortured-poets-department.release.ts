@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const taylorSwift2TheTorturedPoetsDepartment = {
   id: "01a0676a-d72e-7016-aa48-f99ebd7f5903",

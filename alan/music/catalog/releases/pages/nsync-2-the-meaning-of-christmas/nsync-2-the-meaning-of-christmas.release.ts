@@ -1,4 +1,4 @@
-import type { Release } from "../../release.page-type.ts"
+import type { Release } from "../../release.page-type.types.ts"
 
 export const nsync2TheMeaningOfChristmas = {
   id: "01a0676a-d72d-7040-9ade-47b3c5e4bb5e",
