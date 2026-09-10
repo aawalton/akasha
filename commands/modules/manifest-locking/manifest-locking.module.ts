@@ -65,7 +65,7 @@ export const manifestLocking = {
     },
     {
       invariantKind: "absence",
-      statement: "A row appending states no manifest, as a manifest is written whole.",
+      statement: "A row appending states no manifest.",
     },
     {
       invariantKind: "absence",
