@@ -5,6 +5,7 @@ import {
   RELAY_PATH,
   relayReading,
 } from "akasha/readouts/relay/readout-relay.module.code.ts"
+import { z } from "zod"
 import { action } from "../readout-relay/readout-relay.route.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
@@ -31,6 +32,8 @@ const SCALE_ROW = { slug: "safety-level", redAt: 1, yellowAt: 2, greenAt: 3, blu
 
 const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: [READOUT_ROW] }
 
+const heldEnv = z.string().optional()
+
 let store: ReturnType<typeof Bun.serve>
 let server: ReturnType<typeof Bun.serve>
 let origin: string
@@ -45,7 +48,7 @@ beforeAll(() => {
       return Response.json({ rows: [SCALE_ROW] })
     },
   })
-  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
+  heldOrigin = heldEnv.parse(process.env.PAGES_SERVICE_ORIGIN)
   process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
   server = Bun.serve({
     port: 0,
