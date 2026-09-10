@@ -9,6 +9,11 @@ export const nimueCodeCleanup = {
   persona: "nimue",
   intents: [
     {
+      statement: "A change moving a folder repoints a path spelled outside a TypeScript body.",
+      workingMemory:
+        '"`change-imports` rewrites a repo-relative path spelled as a string literal, but only in a `.ts` or `.tsx` body, so a path in a comment, a shell script or a manifest still names the old folder. The move visits an outside file only where the import index names it, so a body spelling a moved path without importing it is never reached. `spellingOf` in `path-naming` scans for those bodies and nothing but its own test calls it. The ios app directives are script-relative, so none blocks the move."',
+    },
+    {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
         "`move-folder-package` at `code-system/code-system.workspace-package.ts` to `code` is refused before it drafts anything, by the guard `folder-not-left-named`, over `code-system/ios-apps/scripts` spelled in `app-building.module.code.ts`. Twenty-four such literals sit in twelve TypeScript bodies, nine of those files outside code-system, and the guard names the first and stops. So this waits on the intent repointing a path spelled outside an import.",
@@ -27,11 +32,6 @@ export const nimueCodeCleanup = {
       statement: "The check asking which page claims a file reads the build folder property.",
       workingMemory:
         "`file-has-its-page` reads a hardcoded `node_modules` today, and reading the property instead retires that constant and covers every build folder at once. `folder-matches-a-shape` has the same gap: it refuses the two ios app folders over their `www`, which is declared a build folder already. Both checks want the property rather than one.",
-    },
-    {
-      statement: "A change moving a folder repoints a path spelled outside a TypeScript body.",
-      workingMemory:
-        '"`change-imports` rewrites a repo-relative path spelled as a string literal, but only in a `.ts` or `.tsx` body, so a path in a comment, a shell script or a manifest still names the old folder. The move visits an outside file only where the import index names it, so a body spelling a moved path without importing it is never reached. `spellingOf` in `path-naming` scans for those bodies and nothing but its own test calls it. The ios app directives are script-relative, so none blocks the move."',
     },
     {
       statement: "A change moving a folder repoints the manifest naming that folder.",
