@@ -4,8 +4,11 @@ import {
   colocationAffinityPreferred,
 } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
 
 const NAMESPACE = "postgrest"
+const SECRETS_NAME = "postgrest-secrets"
+const SECRETS_KEYS = ["DATABASE_URL", "PGRST_JWT_SECRET"]
 const APP_NAME = "postgrest"
 const INSTANCE_NAME = "postgrest"
 const COMPONENT = "api"
@@ -53,7 +56,7 @@ function deploymentYaml(): string {
         metadata: {
           labels: RESOURCE_LABELS,
           annotations: {
-            "checksum/postgrest-secrets": "placeholder",
+            "checksum/postgrest-secrets": secretChecksum(NAMESPACE, SECRETS_NAME, SECRETS_KEYS),
           },
         },
         spec: {
@@ -68,19 +71,19 @@ function deploymentYaml(): string {
                 {
                   name: "DATABASE_URL",
                   valueFrom: {
-                    secretKeyRef: { name: "postgrest-secrets", key: "DATABASE_URL" },
+                    secretKeyRef: { name: SECRETS_NAME, key: "DATABASE_URL" },
                   },
                 },
                 {
                   name: "PGRST_DB_URI",
                   valueFrom: {
-                    secretKeyRef: { name: "postgrest-secrets", key: "DATABASE_URL" },
+                    secretKeyRef: { name: SECRETS_NAME, key: "DATABASE_URL" },
                   },
                 },
                 {
                   name: "PGRST_JWT_SECRET",
                   valueFrom: {
-                    secretKeyRef: { name: "postgrest-secrets", key: "PGRST_JWT_SECRET" },
+                    secretKeyRef: { name: SECRETS_NAME, key: "PGRST_JWT_SECRET" },
                   },
                 },
                 { name: "PGRST_DB_SCHEMAS", value: "public" },
