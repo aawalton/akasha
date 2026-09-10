@@ -1,6 +1,6 @@
 import { lstatSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
-import { gitIgnoring } from "akasha/git/git-pathspec/git-pathspec.module.code.ts"
+import { gitIgnoring } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import {
