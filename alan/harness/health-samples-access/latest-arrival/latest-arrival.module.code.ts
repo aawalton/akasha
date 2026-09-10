@@ -1,10 +1,13 @@
 import { existsSync, readFileSync } from "node:fs"
+import { z } from "zod"
 import { instantMs } from "../sample-identity/sample-identity.module.code.ts"
 import { recordOf } from "../sample-rows/sample-rows.module.code.ts"
 import { checkoutRoot, sampleRowsAt } from "../sample-selecting/sample-selecting.module.code.ts"
 import type { HealthMetric } from "../sample-shape/sample-shape.module.code.ts"
 
 const DAY_MS = 86400000
+
+const SAMPLE_ROW = z.record(z.string(), z.unknown())
 
 export function selectLatestArrivalAt(args: {
   readonly metric: HealthMetric
@@ -21,13 +24,13 @@ export function selectLatestArrivalAt(args: {
     for (const line of readFileSync(path, "utf8").split("\n")) {
       const text = line.trim()
       if (text === "") continue
-      let values: unknown
+      let values: Readonly<Record<string, unknown>>
       try {
-        values = JSON.parse(text)
+        values = SAMPLE_ROW.parse(JSON.parse(text))
       } catch {
-        throw new Error(`selectLatestArrivalAt: ${path} carries a line that is not JSON`)
+        throw new Error(`selectLatestArrivalAt: ${path} carries a line that is no JSON object`)
       }
-      const held = recordOf(values as Readonly<Record<string, unknown>>)
+      const held = recordOf(values)
       if (held === null || held.metric !== args.metric) continue
       if (held.arrivedAt === "") continue
       if (latest === null || held.arrivedAt > latest) latest = held.arrivedAt
