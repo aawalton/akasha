@@ -21,7 +21,12 @@ export const NO_READING = { ok: false, error: "No reading." } as const
 export type RingAdmission = (request: Request) => Response | null | Promise<Response | null>
 
 export type HeldReading =
-  | { readonly held: "fresh"; readonly value: number }
+  | {
+      readonly held: "fresh"
+      readonly value: number
+      readonly at: string
+      readonly fallsPerHour: number
+    }
   | { readonly held: "stale" }
   | { readonly held: "none" }
 
@@ -35,7 +40,7 @@ export function refuseUncredentialedRingCaller(
 function heldWithin(kept: Reading | null, now: Date): HeldReading {
   if (kept === null) return { held: "none" }
   if (readingAged(kept, now) >= STALE_AFTER_MS) return { held: "stale" }
-  return { held: "fresh", value: kept.value }
+  return { held: "fresh", value: kept.value, at: kept.at, fallsPerHour: kept.fallsPerHour }
 }
 
 export function readingHeldFor(readoutSlug: string, now: Date = new Date()): HeldReading {

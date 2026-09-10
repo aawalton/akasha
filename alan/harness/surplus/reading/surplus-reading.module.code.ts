@@ -1,5 +1,8 @@
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
-import { surplusIn } from "akasha/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
+import {
+  fallsPerHourIn,
+  surplusIn,
+} from "akasha/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
 import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
@@ -20,7 +23,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
   if (row === undefined) return null
   const hours = surplusIn(row.values)
   if (hours === null) return null
-  keepReading(root, READOUT_PAGE, hours, now)
+  keepReading(root, READOUT_PAGE, hours, now, fallsPerHourIn(row.values))
   return hours
 }
 

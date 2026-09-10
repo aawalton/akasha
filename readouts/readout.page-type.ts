@@ -11,6 +11,7 @@ export const readout = {
     "boolean-property/readout-enabled",
     "instant-property/last-value-at",
     "number-property/last-value",
+    "number-property/last-value-falls-per-hour",
     "number-property/place",
     "relation-property/attribute",
     "relation-property/color-from",
@@ -72,6 +73,12 @@ export const readout = {
     },
     {
       pageProperty: "instant-property/last-value-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "number-property/last-value-falls-per-hour",
       required: false,
       many: false,
       uncommitted: true,

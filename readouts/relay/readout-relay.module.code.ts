@@ -3,7 +3,7 @@ import { resolve } from "node:path"
 import { z } from "zod"
 import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { RELAY_SECRET_HEADER } from "../credential/readout-credential.module.code.ts"
-import { type Reading, readingKept } from "../reading/readout-reading.module.code.ts"
+import { NOT_FALLING, type Reading, readingKept } from "../reading/readout-reading.module.code.ts"
 
 export const RELAY_PATH = "/api/readout-relay"
 
@@ -32,12 +32,15 @@ export function noReadoutPageAt(page: string): string {
 
 export type Relayed = Reading & { readonly readout: string }
 
+export type Carrying = Omit<Relayed, "fallsPerHour"> & { readonly fallsPerHour?: number }
+
 export type Sent = (to: URL, init: RequestInit) => Promise<Response>
 
 const relayed = z.object({
   readout: z.string().trim().min(1),
   value: z.number().finite(),
   at: z.string().trim().min(1),
+  fallsPerHour: z.number().finite().default(NOT_FALLING),
 })
 
 const held = new Map<string, Reading>()
@@ -50,7 +53,11 @@ export function relayedIn(body: unknown): Relayed | null {
 }
 
 export function holdRelayed(carried: Relayed): undefined {
-  held.set(carried.readout, { value: carried.value, at: carried.at })
+  held.set(carried.readout, {
+    value: carried.value,
+    at: carried.at,
+    fallsPerHour: carried.fallsPerHour,
+  })
 }
 
 export function relayedHeld(readout: string): Reading | null {
@@ -72,7 +79,7 @@ export function readoutNamedBy(page: string): string {
 export async function relayReading(
   to: string,
   secret: string,
-  carried: Relayed,
+  carried: Carrying,
   send: Sent = fetch,
   timeoutMs = 10_000
 ): Promise<undefined> {

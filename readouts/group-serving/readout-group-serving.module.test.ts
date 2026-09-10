@@ -5,22 +5,29 @@ import { readingHeldOn } from "../serving/readout-serving.module.code.ts"
 import {
   answerStoplightsAdmittedBy,
   inPlaceOrder,
-  type Stoplight,
   stoplightsInGroup,
 } from "./readout-group-serving.module.code.ts"
 import {
   ANSWERED,
+  agedOut,
   answeredAfresh,
+  drawn,
   figureOffScaleOn,
   GROUP,
   GROUP_ROW,
+  keysAnswered,
+  keysDrawn,
   OTHER,
   OTHER_ROW,
+  offScaleDrawn,
   READOUT,
   READOUT_ROW,
+  rowReading,
   SCALE_ROW,
   servingStore,
+  stoplights,
   storeGoes,
+  WIRE_KEY_NAME,
 } from "./readout-group-serving.module.test-fixtures.ts"
 
 let store: ReturnType<typeof Bun.serve>
@@ -37,16 +44,6 @@ beforeEach(() => {
   dropRelayed()
   answeredAfresh()
 })
-
-const drawn = () => answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP)
-
-async function stoplights(): Promise<readonly Stoplight[]> {
-  const answered = await drawn()
-  expect(answered.status).toBe(200)
-  return ((await answered.json()) as { stoplights: readonly Stoplight[] }).stoplights
-}
-
-const agedOut = () => new Date(Date.now() - 46 * 60_000)
 
 test("a refusal a guard answers is served whole rather than made again here", async () => {
   const refused = await answerStoplightsAdmittedBy(
@@ -169,20 +166,6 @@ test("the label and the key answered are the ones the readout's own page carries
   expect(one?.habit).toBe("safety")
 })
 
-const WIRE_KEY_NAME = "a-key-named-only-in-this-test"
-
-async function keysAnswered(wireKeyName?: string): Promise<readonly string[]> {
-  const answered = await answerStoplightsAdmittedBy(
-    new Request("http://a.test/"),
-    () => null,
-    GROUP,
-    wireKeyName
-  )
-  expect(answered.status).toBe(200)
-  const body = (await answered.json()) as { stoplights: readonly Record<string, unknown>[] }
-  return Object.keys(body.stoplights[0] ?? {})
-}
-
 test("the wire key is answered under the key the caller names", async () => {
   relayedFor(READOUT, 3)
   const keys = await keysAnswered(WIRE_KEY_NAME)
@@ -295,10 +278,6 @@ test("where each reading is read from is handed in rather than settled here", as
   expect(carried[0]?.readingHeld).toBeUndefined()
 })
 
-const rowReading = (value: number, at: Date = new Date()) => [
-  { ...READOUT_ROW, lastValue: value, lastValueAt: at.toISOString() },
-]
-
 test("a caller handing in nothing has the reading the relay holds read first", async () => {
   ANSWERED.readouts = rowReading(2.5)
   relayedFor(READOUT, 5)
@@ -345,10 +324,6 @@ test("nothing between here and the tile is allowed to keep an answer", async () 
   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
 })
 
-async function keysDrawn(): Promise<readonly (string | undefined)[]> {
-  return (await stoplights()).map((one) => one.habit)
-}
-
 test("a readout whose page stills the readout is left out rather than answered", async () => {
   relayedFor(READOUT, 3)
   relayedFor(OTHER, 3)
@@ -384,9 +359,6 @@ test("a group every readout of which is stilled is answered as no reading", asyn
   ANSWERED.readouts = [{ ...READOUT_ROW, enabled: false }]
   expect((await drawn()).status).toBe(503)
 })
-
-const offScaleDrawn = async (): Promise<unknown> =>
-  figureOffScaleOn((await stoplightsInGroup(GROUP))[0])
 
 test("a group stating it draws a figure off scale carries that on each reading", async () => {
   relayedFor(READOUT, 5)
@@ -425,4 +397,31 @@ test("a scale is still answered as a scale now that groups are answered too", as
   expect((await stoplights())[0]?.tier).toBe("yellow")
   ANSWERED.scales = [SCALE_ROW]
   expect((await stoplights())[0]?.nextTier).toBe("green")
+})
+
+test("a stoplight whose reading falls with the clock carries the moment and the rate", async () => {
+  const took = new Date()
+  relayedFor(READOUT, 2.5, took, 2)
+  const [one] = await stoplights()
+  expect(one?.takenAt).toBe(took.toISOString())
+  expect(one?.fallsPerHour).toBe(2)
+})
+
+test("a stoplight whose reading falls at nothing an hour carries neither", async () => {
+  relayedFor(READOUT, 2.5, new Date(), 0)
+  const keys = await keysAnswered()
+  expect(keys).not.toContain("takenAt")
+  expect(keys).not.toContain("fallsPerHour")
+})
+
+test("a stoplight carrying no figure carries no moment and no rate", async () => {
+  relayedFor(READOUT, 2.5, agedOut(), 2)
+  const [one] = await stoplights()
+  expect(one?.takenAt).toBeUndefined()
+  expect(one?.fallsPerHour).toBeUndefined()
+})
+
+test("a rate on the readout's own row is carried as the relay's rate is", async () => {
+  ANSWERED.readouts = rowReading(2.5, new Date(), 4)
+  expect((await stoplightsInGroup(GROUP))[0]?.fallsPerHour).toBe(4)
 })

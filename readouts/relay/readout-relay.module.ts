@@ -45,6 +45,14 @@ export const readoutRelay = {
     },
     {
       invariantKind: "departure",
+      statement: "How fast a reading falls with the clock is carried beside that reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body naming no rate is carried as a reading falling at nothing an hour.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading between two whole numbers is carried rather than refused.",
     },
     {

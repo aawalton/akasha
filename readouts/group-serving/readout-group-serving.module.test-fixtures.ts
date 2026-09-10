@@ -1,6 +1,11 @@
+import { expect } from "bun:test"
 import { join } from "node:path"
 import { Glob } from "bun"
-import type { Stoplight } from "./readout-group-serving.module.code.ts"
+import {
+  answerStoplightsAdmittedBy,
+  type Stoplight,
+  stoplightsInGroup,
+} from "./readout-group-serving.module.code.ts"
 
 export const GROUP = "a-group-named-only-in-this-test"
 
@@ -73,6 +78,50 @@ export function storeGoes(store: ReturnType<typeof Bun.serve>): undefined {
 
 export function figureOffScaleOn(one: Stoplight | undefined): unknown {
   return (one as Record<string, unknown> | undefined)?.figureOffScale
+}
+
+export const WIRE_KEY_NAME = "a-key-named-only-in-this-test"
+
+export const agedOut = (): Date => new Date(Date.now() - 46 * 60_000)
+
+export function drawn(wireKeyName?: string): Promise<Response> {
+  return answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP, wireKeyName)
+}
+
+export async function stoplights(): Promise<readonly Stoplight[]> {
+  const answered = await drawn()
+  expect(answered.status).toBe(200)
+  return ((await answered.json()) as { stoplights: readonly Stoplight[] }).stoplights
+}
+
+export async function keysAnswered(wireKeyName?: string): Promise<readonly string[]> {
+  const answered = await drawn(wireKeyName)
+  expect(answered.status).toBe(200)
+  const body = (await answered.json()) as { stoplights: readonly Record<string, unknown>[] }
+  return Object.keys(body.stoplights[0] ?? {})
+}
+
+export async function keysDrawn(): Promise<readonly (string | undefined)[]> {
+  return (await stoplights()).map((one) => one.habit)
+}
+
+export function rowReading(
+  value: number,
+  at: Date = new Date(),
+  fallsPerHour?: number
+): readonly Record<string, unknown>[] {
+  return [
+    {
+      ...READOUT_ROW,
+      lastValue: value,
+      lastValueAt: at.toISOString(),
+      ...(fallsPerHour === undefined ? {} : { lastValueFallsPerHour: fallsPerHour }),
+    },
+  ]
+}
+
+export async function offScaleDrawn(): Promise<unknown> {
+  return figureOffScaleOn((await stoplightsInGroup(GROUP))[0])
 }
 
 export type Drawn = Record<string, unknown>

@@ -17,6 +17,7 @@ test("the count taken is the count kept on the readout", async () => {
   expect(readingKept(root, READOUT_PAGE)).toEqual({
     value: 19,
     at: "2026-08-31T12:00:00.000Z",
+    fallsPerHour: 0,
   })
 })
 

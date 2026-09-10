@@ -151,6 +151,19 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A stoplight whose reading falls with the clock carries the moment taken and the rate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stoplight whose reading falls at nothing an hour carries neither.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tier and the fraction climbed are read at the moment the reading was taken.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A readout whose page names no wire key is left out rather than answered keyless.",
     },
     {

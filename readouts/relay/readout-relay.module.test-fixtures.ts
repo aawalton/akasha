@@ -1,7 +1,12 @@
 import { holdRelayed, relayReading } from "./readout-relay.module.code.ts"
 
-export function relayedFor(readout: string, value: number, at: Date = new Date()): undefined {
-  holdRelayed({ readout, value, at: at.toISOString() })
+export function relayedFor(
+  readout: string,
+  value: number,
+  at: Date = new Date(),
+  fallsPerHour = 0
+): undefined {
+  holdRelayed({ readout, value, at: at.toISOString(), fallsPerHour })
 }
 
 export type Relaying = (
@@ -12,5 +17,5 @@ export type Relaying = (
 
 export function relayingTo(origin: string, secret: string): Relaying {
   return (readout, value, at = new Date()) =>
-    relayReading(origin, secret, { readout, value, at: at.toISOString() })
+    relayReading(origin, secret, { readout, value, at: at.toISOString(), fallsPerHour: 0 })
 }

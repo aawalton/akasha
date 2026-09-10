@@ -90,6 +90,15 @@ export const readoutWatching = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "How fast a reading falls with the clock is read back off the readout and carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rate carried is the one the take wrote rather than one worked out here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A carry that fails to one site does not stop the carry to another site.",
     },
     {

@@ -39,6 +39,8 @@ export type Stoplight = {
   readonly nextTier?: TierColor
   readonly progress?: number
   readonly figureOffScale?: boolean
+  readonly takenAt?: string
+  readonly fallsPerHour?: number
 }
 
 export type Values = Readonly<Record<string, unknown>>
@@ -59,6 +61,13 @@ export function inPlaceOrder(rows: readonly Values[]): readonly Values[] {
 
 function wireKeyed(wireKeyName: string, wireKey: string): Pick<Stoplight, "habit"> {
   return { [wireKeyName]: wireKey }
+}
+
+export function fallingWith(
+  reading: Extract<HeldReading, { held: "fresh" }>
+): Pick<Stoplight, "takenAt" | "fallsPerHour"> {
+  if (reading.fallsPerHour === 0) return {}
+  return { takenAt: reading.at, fallsPerHour: reading.fallsPerHour }
 }
 
 async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
@@ -106,6 +115,7 @@ export function stoplightWith(
     reading: readingSaid(reading.value),
     ...(reached.nextTier === null ? {} : { nextTier: reached.nextTier }),
     ...(reached.progress === null ? {} : { progress: reached.progress }),
+    ...fallingWith(reading),
   }
 }
 

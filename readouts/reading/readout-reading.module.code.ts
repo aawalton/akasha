@@ -4,15 +4,35 @@ const LAST_VALUE = "lastValue"
 
 const LAST_VALUE_AT = "lastValueAt"
 
+const LAST_VALUE_FALLS_PER_HOUR = "lastValueFallsPerHour"
+
 export const STALE_AFTER_MS = 45 * 60_000
+
+export const NOT_FALLING = 0
 
 export type Reading = {
   readonly value: number
   readonly at: string
+  readonly fallsPerHour: number
 }
 
-export function keepReading(root: string, page: string, value: number, at: Date): undefined {
-  mergeUncommitted(root, page, { [LAST_VALUE]: value, [LAST_VALUE_AT]: at.toISOString() })
+export function fallsPerHourOn(values: Readonly<Record<string, unknown>>): number {
+  const falls = values[LAST_VALUE_FALLS_PER_HOUR]
+  return typeof falls === "number" && Number.isFinite(falls) ? falls : NOT_FALLING
+}
+
+export function keepReading(
+  root: string,
+  page: string,
+  value: number,
+  at: Date,
+  fallsPerHour?: number
+): undefined {
+  mergeUncommitted(root, page, {
+    [LAST_VALUE]: value,
+    [LAST_VALUE_AT]: at.toISOString(),
+    ...(fallsPerHour === undefined ? {} : { [LAST_VALUE_FALLS_PER_HOUR]: fallsPerHour }),
+  })
 }
 
 export function readingKept(root: string, page: string): Reading | null {
@@ -27,14 +47,14 @@ export function readingKept(root: string, page: string): Reading | null {
         "read is unknown rather than nothing"
     )
   }
-  return { value, at }
+  return { value, at, fallsPerHour: fallsPerHourOn(held) }
 }
 
 export function readingOn(values: Readonly<Record<string, unknown>>): Reading | null {
   const value = values[LAST_VALUE]
   const at = values[LAST_VALUE_AT]
   if (typeof value !== "number" || typeof at !== "string") return null
-  return { value, at }
+  return { value, at, fallsPerHour: fallsPerHourOn(values) }
 }
 
 export function readingAged(kept: Reading, now: Date): number {

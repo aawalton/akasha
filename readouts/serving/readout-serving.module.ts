@@ -55,6 +55,11 @@ export const readoutServing = {
     {
       invariantKind: "departure",
       statement:
+        "A reading held fresh carries the moment it was taken and how fast it falls with the clock.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "The route for a single readout answers no reading for a reading too old or never taken.",
     },
     {

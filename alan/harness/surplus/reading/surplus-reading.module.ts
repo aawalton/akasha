@@ -34,6 +34,14 @@ export const surplusReading = {
     },
     {
       invariantKind: "departure",
+      statement: "How fast the surplus falls with the clock is kept beside the surplus.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That rate is read off the same day the surplus was read off.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A day holding neither sleep hours nor spend hours is absent rather than zero.",
     },
     {

@@ -43,6 +43,26 @@ export const upkeepSurplus = {
       invariantKind: "departure",
       statement: "A day with neither sleep nor spend is no reading rather than a surplus of zero.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A surplus falls with the clock while a stretch of the day is still running.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How fast it falls is what an hour of each running stretch costs, added up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A running stretch whose hour costs nothing has the surplus fall at nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The cost of an hour is read from the one module the day's spend reads it from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stretch with no end is the stretch running now.",
+    },
 
     {
       invariantKind: "absence",

@@ -213,7 +213,7 @@ test("a reading too old on the relay gives way to a fresh reading on the row", a
 })
 
 test("the moment a reading is judged against is handed in rather than read here", () => {
-  holdRelayed({ readout: READOUT, value: 19, at: TAKEN })
+  holdRelayed({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: 0 })
   expect(relayedFresh(READOUT, new Date("2026-08-31T12:44:00.000Z"))).toBe(19)
   expect(relayedFresh(READOUT, new Date("2026-08-31T12:46:00.000Z"))).toBeNull()
 })
@@ -223,7 +223,15 @@ test("a reading carried on a readout's own row is read as a reading", () => {
     { lastValue: 19, lastValueAt: TAKEN },
     new Date("2026-08-31T12:44:00.000Z")
   )
-  expect(held).toEqual({ held: "fresh", value: 19 })
+  expect(held).toEqual({ held: "fresh", value: 19, at: TAKEN, fallsPerHour: 0 })
+})
+
+test("a reading held fresh carries the moment it was taken and how fast it falls", () => {
+  const held = readingHeldOn(
+    { lastValue: 19, lastValueAt: TAKEN, lastValueFallsPerHour: 2 },
+    new Date("2026-08-31T12:44:00.000Z")
+  )
+  expect(held).toEqual({ held: "fresh", value: 19, at: TAKEN, fallsPerHour: 2 })
 })
 
 test("a reading carried on a row is aged by the window a relayed reading is aged by", () => {
@@ -244,7 +252,7 @@ test("a reading of nothing carried on a row is a reading rather than an absence"
     { lastValue: 0, lastValueAt: TAKEN },
     new Date("2026-08-31T12:01:00.000Z")
   )
-  expect(held).toEqual({ held: "fresh", value: 0 })
+  expect(held).toEqual({ held: "fresh", value: 0, at: TAKEN, fallsPerHour: 0 })
 })
 
 test("nothing between here and the tile is allowed to keep an answer", async () => {

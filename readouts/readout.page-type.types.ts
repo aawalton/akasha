@@ -8,6 +8,7 @@ import type { Groups } from "./properties/groups.relation-property.ts"
 import type { Label } from "./properties/label.text-property.ts"
 import type { LastValue } from "./properties/last-value.number-property.ts"
 import type { LastValueAt } from "./properties/last-value-at.instant-property.ts"
+import type { LastValueFallsPerHour } from "./properties/last-value-falls-per-hour.number-property.ts"
 import type { NoneLeftEmoji } from "./properties/none-left-emoji.text-property.ts"
 import type { NoneLeftWords } from "./properties/none-left-words.text-property.ts"
 import type { Place } from "./properties/place.number-property.ts"
@@ -41,4 +42,5 @@ export type Readout = Module & {
   enabled?: ReadoutEnabled
   lastValue?: LastValue
   lastValueAt?: LastValueAt
+  lastValueFallsPerHour?: LastValueFallsPerHour
 }

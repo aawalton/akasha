@@ -37,29 +37,56 @@ test("a machine that starts again holds no reading", () => {
   expect(relayedHeld(READOUT)).toBeNull()
 })
 
+const carried = (value: number, at: string = TAKEN, fallsPerHour = 0) => ({
+  readout: READOUT,
+  value,
+  at,
+  fallsPerHour,
+})
+
 test("a reading arriving is held under the name of the readout it was taken for", () => {
-  holdRelayed({ readout: READOUT, value: 19, at: TAKEN })
-  expect(relayedHeld(READOUT)).toEqual({ value: 19, at: TAKEN })
+  holdRelayed(carried(19))
+  expect(relayedHeld(READOUT)).toEqual({ value: 19, at: TAKEN, fallsPerHour: 0 })
   expect(relayedHeld("some-other-readout")).toBeNull()
 })
 
 test("a reading arriving replaces the one held before it", () => {
-  holdRelayed({ readout: READOUT, value: 19, at: TAKEN })
-  holdRelayed({ readout: READOUT, value: 4, at: "2026-08-31T12:05:00.000Z" })
-  expect(relayedHeld(READOUT)).toEqual({ value: 4, at: "2026-08-31T12:05:00.000Z" })
+  holdRelayed(carried(19))
+  holdRelayed(carried(4, "2026-08-31T12:05:00.000Z"))
+  expect(relayedHeld(READOUT)).toEqual({
+    value: 4,
+    at: "2026-08-31T12:05:00.000Z",
+    fallsPerHour: 0,
+  })
 })
 
 test("a reading of nothing is a reading rather than an absent one", () => {
-  holdRelayed({ readout: READOUT, value: 0, at: TAKEN })
+  holdRelayed(carried(0))
   expect(relayedHeld(READOUT)?.value).toBe(0)
 })
 
+test("how fast a reading falls with the clock is held beside that reading", () => {
+  holdRelayed(carried(19, TAKEN, 2))
+  expect(relayedHeld(READOUT)?.fallsPerHour).toBe(2)
+})
+
 test("a whole reading is taken off the wire", () => {
-  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN })).toEqual({
-    readout: READOUT,
-    value: 19,
-    at: TAKEN,
-  })
+  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN })).toEqual(carried(19))
+})
+
+test("a body naming a rate carries that rate rather than dropping it", () => {
+  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: 2 })).toEqual(
+    carried(19, TAKEN, 2)
+  )
+})
+
+test("a body naming no rate is carried as a reading falling at nothing an hour", () => {
+  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN })?.fallsPerHour).toBe(0)
+})
+
+test("a rate that is no finite number is refused rather than carried", () => {
+  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: "2" })).toBeNull()
+  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: Number.NaN })).toBeNull()
 })
 
 test("a body that is not a whole reading is refused rather than held", () => {
@@ -75,19 +102,11 @@ test("a body that is not a whole reading is refused rather than held", () => {
 })
 
 test("a reading below zero is carried rather than refused", () => {
-  expect(relayedIn({ readout: READOUT, value: -2, at: TAKEN })).toEqual({
-    readout: READOUT,
-    value: -2,
-    at: TAKEN,
-  })
+  expect(relayedIn({ readout: READOUT, value: -2, at: TAKEN })).toEqual(carried(-2))
 })
 
 test("a reading between two whole numbers is carried rather than refused", () => {
-  expect(relayedIn({ readout: READOUT, value: -1.5, at: TAKEN })).toEqual({
-    readout: READOUT,
-    value: -1.5,
-    at: TAKEN,
-  })
+  expect(relayedIn({ readout: READOUT, value: -1.5, at: TAKEN })).toEqual(carried(-1.5))
 })
 
 test("a moment that cannot be read is no reading", () => {
@@ -112,17 +131,12 @@ test("a carrier presents the relay secret and the moment the reading was taken",
     })
     return new Response(null, { status: 204 })
   }
-  await relayReading(
-    "https://alanwalton.com",
-    SECRET,
-    { readout: READOUT, value: 19, at: TAKEN },
-    send
-  )
+  await relayReading("https://alanwalton.com", SECRET, carried(19, TAKEN, 2), send)
   expect(sent).toEqual([
     {
       to: `https://alanwalton.com${RELAY_PATH}`,
       secret: SECRET,
-      body: { readout: READOUT, value: 19, at: TAKEN },
+      body: { readout: READOUT, value: 19, at: TAKEN, fallsPerHour: 2 },
     },
   ])
 })
@@ -134,20 +148,15 @@ test("what a carrier sends is what a receiver takes off the wire", async () => {
     holdRelayed(taken)
     return new Response(null, { status: 204 })
   }
-  await relayReading(
-    "https://alanwalton.com",
-    SECRET,
-    { readout: READOUT, value: 19, at: TAKEN },
-    send
-  )
-  expect(relayedHeld(READOUT)).toEqual({ value: 19, at: TAKEN })
+  await relayReading("https://alanwalton.com", SECRET, carried(19, TAKEN, 2), send)
+  expect(relayedHeld(READOUT)).toEqual({ value: 19, at: TAKEN, fallsPerHour: 2 })
 })
 
 test("an answer that is not OK is refused rather than counted as carried", async () => {
   const send: Sent = async () => new Response(null, { status: 401 })
-  await expect(
-    relayReading("https://alanwalton.com", SECRET, { readout: READOUT, value: 19, at: TAKEN }, send)
-  ).rejects.toThrow("401")
+  await expect(relayReading("https://alanwalton.com", SECRET, carried(19), send)).rejects.toThrow(
+    "401"
+  )
 })
 
 test("a secret that is unset or empty is stated as none", () => {

@@ -4,7 +4,7 @@ import { fileFor } from "@akasha/indexes/value"
 import { indexValue } from "@akasha/indexes/value/page"
 import { followWithin } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
 import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
-import { keepReading } from "../reading/readout-reading.module.code.ts"
+import { keepReading, NOT_FALLING, readingKept } from "../reading/readout-reading.module.code.ts"
 import {
   NO_SECRET_TO_CARRY_ON,
   RELAY_SECRET_NAME,
@@ -33,7 +33,8 @@ export type Carried = (
   secret: string,
   page: string,
   value: number,
-  at: string
+  at: string,
+  fallsPerHour: number
 ) => Promise<undefined>
 
 export type WatchSetup = {
@@ -108,9 +109,14 @@ export function carryReading(
   secret: string,
   page: string,
   value: number,
-  at: string
+  at: string,
+  fallsPerHour: number
 ): Promise<undefined> {
-  return relayReading(to, secret, { readout: readoutNamedBy(page), value, at })
+  return relayReading(to, secret, { readout: readoutNamedBy(page), value, at, fallsPerHour })
+}
+
+export function fallsPerHourKept(root: string, page: string): number {
+  return readingKept(root, page)?.fallsPerHour ?? NOT_FALLING
 }
 
 export function takingOf(setup: WatchSetup): Taking {
@@ -142,10 +148,11 @@ export function takingOf(setup: WatchSetup): Taking {
         if (value === null) continue
         kept(setup.root, one.page, value, now)
         const at = now.toISOString()
+        const falls = fallsPerHourKept(setup.root, one.page)
         if (secret !== null) {
           for (const to of one.to) {
             try {
-              await carried(to, secret, one.page, value, at)
+              await carried(to, secret, one.page, value, at, falls)
             } catch (thrown) {
               setup.said("ERROR", uncarriedSaid(one.page, to, thrown))
             }

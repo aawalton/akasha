@@ -27,6 +27,23 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
+      statement: "How fast a reading falls with the clock is kept beside its value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading no one says falls with the clock falls at nothing an hour.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A take naming a rate writes that rate, and a take naming none leaves it as it is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout whose reading can fall names its rate on every take of that reading.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading replaces the reading before that reading.",
     },
     {
