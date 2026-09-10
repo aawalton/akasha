@@ -1,13 +1,13 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { IosAppSlug } from "./properties/device-token-ios-app.relation-property.ts"
+import type { DeviceTokenIosApp } from "./properties/device-token-ios-app.relation-property.ts"
 import type { LastSeenAt } from "./properties/device-token-last-seen-at.instant-property.ts"
 import type { PersonSlug } from "./properties/device-token-person.relation-property.ts"
 import type { Token } from "./properties/device-token-token.text-property.ts"
 
 export type DeviceToken = Page & {
   person: PersonSlug
-  iosApp: IosAppSlug
+  iosApp: DeviceTokenIosApp
   token: Token
   lastSeenAt?: LastSeenAt
 }

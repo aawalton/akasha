@@ -1,7 +1,7 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type IosAppSlug = Slug
+export type DeviceTokenIosApp = Slug
 
 export const deviceTokenIosApp = {
   id: "01a05dc7-77db-7e0b-a9c2-97d83c1cd9fd",
