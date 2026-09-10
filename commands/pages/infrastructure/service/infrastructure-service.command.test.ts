@@ -17,7 +17,7 @@ const HERE = given(process.cwd())
 test("a call naming no act is refused as the caller's fault", () => {
   const answer = infrastructureService([], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("install")
+  expect(answer.refusals[0]).toContain("sweep")
 })
 
 test("an act this command does not carry is refused by name", () => {
@@ -26,48 +26,38 @@ test("an act this command does not carry is refused by name", () => {
   expect(answer.refusals[0]).toContain("`uninstall`")
 })
 
-test("naming no service and not saying every one is refused", () => {
-  const answer = infrastructureService(["install"], HERE)
+test("installing is no act this command carries any more", () => {
+  const answer = infrastructureService(["install", "pages-service"], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("--all")
+  expect(answer.refusals[0]).toContain("`install` is no act")
 })
 
-test("naming a service beside every service is refused", () => {
-  const answer = infrastructureService(["install", "pages-service", "--all"], HERE)
+test("a sweep naming a service is refused as the caller's fault", () => {
+  const answer = infrastructureService(["sweep", "pages-service"], HERE)
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("two things")
-})
-
-test("naming two services is refused", () => {
-  const answer = infrastructureService(["install", "one", "two"], HERE)
-  expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("one service at a time")
+  expect(answer.refusals[0]).toContain("every unit akasha owns")
 })
 
 test("a flag this command does not take is refused by name", () => {
-  const answer = infrastructureService(["install", "--apply"], HERE)
+  const answer = infrastructureService(["sweep", "--apply"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`--apply`")
 })
 
-test("a slug no service page carries is refused as the data's fault", () => {
-  const answer = infrastructureService(["install", "no-such-service-is-here", "--dry-run"], HERE)
-  expect(answer.code).toBe(2)
-  expect(answer.refusals[0]).toContain("no-such-service-is-here")
-})
-
-test("a dry run reports the plan and writes nothing", () => {
-  const answer = infrastructureService(["install", "pages-service", "--dry-run"], HERE)
+test("a dry run of a sweep writes nothing and asks systemd nothing", () => {
+  const answer = infrastructureService(["sweep", "--dry-run"], HERE)
   expect(answer.code).toBe(0)
   expect(answer.refusals).toEqual([])
-  expect(answer.report).toContain("write\tpages-service.service")
-  expect(answer.report).toContain("enable\tpages-service.service")
-  expect(answer.report[answer.report.length - 1]).toContain("dry-run")
 })
 
-test("a dry run naming one service plans nothing for any other", () => {
-  const answer = infrastructureService(["install", "pages-service", "--dry-run"], HERE)
-  for (const line of answer.report) expect(line).not.toContain("remove\t")
+test("a sweep plans no unit to be written", () => {
+  const answer = infrastructureService(["sweep", "--dry-run"], HERE)
+  for (const line of answer.report) expect(line).not.toContain("write\t")
+})
+
+test("a sweep plans no unit to be enabled", () => {
+  const answer = infrastructureService(["sweep", "--dry-run"], HERE)
+  for (const line of answer.report) expect(line).not.toContain("enable\t")
 })
 
 test("an act asking systemd for no named service is refused as the caller's fault", () => {

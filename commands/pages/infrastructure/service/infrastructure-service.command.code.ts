@@ -5,7 +5,6 @@ import {
   planFor,
   systemctl,
 } from "akasha/services/workstation-services/service-installing/service-installing.module.code.ts"
-import { putUpService } from "akasha/services/workstation-services/service-putting-up/service-putting-up.module.code.ts"
 import {
   everyService,
   readFor,
@@ -18,49 +17,38 @@ import { namesDrawn } from "./name-drawing/name-drawing.module.code.ts"
 const INPUT = 1
 const DATA = 2
 const OPERATIONAL = 3
-const INSTALL = "install"
+const SWEEP = "sweep"
 const RESTART = "restart"
 const START = "start"
 const STOP = "stop"
 const ASKED: readonly string[] = [RESTART, START, STOP]
-const ACTS: readonly string[] = [INSTALL, ...ASKED]
-const ALL = "--all"
+const ACTS: readonly string[] = [SWEEP, ...ASKED]
 const DRY_RUN = "--dry-run"
 const NOT_ASKED = "dry-run\tsystemd was not asked; run it again without `--dry-run` to carry it out"
-const NOT_WRITTEN = "dry-run\tnothing was written; run it again without `--dry-run` to carry it out"
+const NOT_SWEPT =
+  "dry-run\tnothing was taken away; run it again without `--dry-run` to carry it out"
+const ALL_ACCOUNTED = "nothing\tevery unit akasha owns is accounted for by a page"
 
 function acts(): string {
   return namesDrawn(ACTS)
 }
 
-function installed(argv: readonly string[], given: Given): Answer {
+function swept(argv: readonly string[], given: Given): Answer {
   const dryRun = argv.includes(DRY_RUN)
-  const all = argv.includes(ALL)
   const named = argv.filter((one) => !one.startsWith("-"))
-  const strange = argv.find((one) => one.startsWith("-") && one !== ALL && one !== DRY_RUN)
+  const strange = argv.find((one) => one.startsWith("-") && one !== DRY_RUN)
 
   if (strange !== undefined) {
-    return refused(
-      `\`${strange}\` is nothing \`akasha infrastructure service install\` takes`,
-      INPUT
-    )
+    return refused(`\`${strange}\` is nothing \`akasha infrastructure service sweep\` takes`, INPUT)
   }
 
   const slug = named[0]
-  if (slug === undefined && !all) {
-    return refused("name the service to install by its slug, or say `--all` for every one", INPUT)
-  }
-  if (slug !== undefined && all) {
+  if (slug !== undefined) {
     return refused(
-      `\`--all\` reaches every service, so naming \`${slug}\` beside it says two things`,
+      `a sweep reaches every unit akasha owns rather than one service, and \`${slug}\` was named`,
       INPUT
     )
   }
-  if (named.length > 1) {
-    return refused("this installs one service at a time, or every one with `--all`", INPUT)
-  }
-
-  if (slug !== undefined) return putUpService(given.root, slug, dryRun)
 
   const read = everyService(given.root)
   if ("refused" in read) return refused(read.refused, DATA)
@@ -70,17 +58,13 @@ function installed(argv: readonly string[], given: Given): Answer {
     return refused("no home directory is stated, so no unit has anywhere to sit", OPERATIONAL)
   }
 
-  const plan = planFor(read.services, ourInstalled(home))
+  const remove = planFor(read.services, ourInstalled(home)).remove
+  if (remove.length === 0) return { report: [ALL_ACCOUNTED], refusals: [], code: 0 }
 
-  const report: string[] = []
-  for (const name of plan.write.keys()) report.push(`write\t${name}`)
-  for (const name of plan.enable) report.push(`enable\t${name}`)
-  for (const name of plan.stop) report.push(`stop\t${name}`)
-  for (const name of plan.remove) report.push(`remove\t${name}`)
+  const report = remove.map((name) => `remove\t${name}`)
+  if (dryRun) return { report: [...report, NOT_SWEPT], refusals: [], code: 0 }
 
-  if (dryRun) return { report: [...report, NOT_WRITTEN], refusals: [], code: 0 }
-
-  const done = installing(home, plan)
+  const done = installing(home, { write: new Map(), enable: [], stop: [], remove })
   const said = [...report, ...done.did.map((what) => `did\t${what}`)]
   if (done.refused.length > 0) return { report: said, refusals: done.refused, code: OPERATIONAL }
   return { report: said, refusals: [], code: 0 }
@@ -129,5 +113,5 @@ export function infrastructureService(argv: readonly string[], given: Given): An
     )
   }
   const rest = argv.slice(1)
-  return act === INSTALL ? installed(rest, given) : asked(act, rest, given)
+  return act === SWEEP ? swept(rest, given) : asked(act, rest, given)
 }

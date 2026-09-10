@@ -110,10 +110,22 @@ fi
 
 echo "==> Projecting the workstation-service pages into systemd units..."
 if [ -f "$DISPATCHER" ]; then
-  if ! (cd "$AKASHA" && bun "$DISPATCHER" infrastructure service install --all); then
-    echo "WARN: 'akasha infrastructure service install --all' failed — every service that a" >&2
-    echo "      workstation-service page describes is uninstalled on this box." >&2
-    echo "      Re-run it once the cause is cleared." >&2
+  services_failed=0
+  while IFS= read -r page; do
+    slug="$(basename "$page" .workstation-service.ts)"
+    if ! (cd "$AKASHA" && bun "$DISPATCHER" infrastructure deploy "$slug"); then
+      echo "WARN: 'akasha infrastructure deploy $slug' failed — that service is uninstalled" >&2
+      echo "      on this box." >&2
+      services_failed=1
+    fi
+  done < <(cd "$AKASHA" && git ls-files -- '*.workstation-service.ts')
+  if ! (cd "$AKASHA" && bun "$DISPATCHER" infrastructure service sweep); then
+    echo "WARN: 'akasha infrastructure service sweep' failed — a unit akasha owns that no page" >&2
+    echo "      accounts for may still sit on this box." >&2
+    services_failed=1
+  fi
+  if [ "$services_failed" -ne 0 ]; then
+    echo "      Re-run what failed once the cause is cleared." >&2
   fi
 else
   echo "WARN: no akasha checkout at $AKASHA, so the workstation-service pages cannot" >&2

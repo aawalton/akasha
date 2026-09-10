@@ -12,24 +12,23 @@ export const infrastructureService = {
   parts: ["module/name-drawing"],
   taking: [
     {
-      said: "install",
-      takes: "the act, which is to put a service's units where systemd reads them",
+      said: "sweep",
+      takes: "the act, which is to take away every unit of ours no page accounts for",
     },
     { said: "restart", takes: "the act, which is to ask systemd to run a service's unit afresh" },
     { said: "start", takes: "the act, which is to ask systemd to run a service's unit" },
     { said: "stop", takes: "the act, which is to ask systemd to end a service's unit" },
     { said: "<slug>", takes: "the service acted on, named by the slug its page carries" },
-    { said: "--all", takes: "every workstation service akasha carries" },
     { said: "--dry-run", takes: "say what would happen and change nothing" },
   ],
   helpNotes: [
     "the act is first and one call names one act.",
-    "a service is named or `--all` is said, never both.",
-    "`--all` belongs to `install`, and one service is started, stopped or restarted at a time.",
+    "a service is named for `start`, `stop` and `restart`, and one is started, stopped or restarted at a time.",
+    "`sweep` names no service, since it reaches every unit of ours at once.",
     "a scheduled service is reached by its timer, and one that is not by its service unit.",
     "a unit is written under your home and reached by a link systemd reads, which is how it is known to be ours.",
-    "a unit of ours that the pages no longer account for is disabled and taken away.",
-    "a page stating `enabled: false` is installed and stopped rather than left uninstalled.",
+    "a unit of ours that the pages no longer account for is disabled and taken away by `sweep`.",
+    "putting a service's units where systemd reads them is `akasha infrastructure deploy`, which nothing here does.",
     "a systemctl that refuses is carried back as a refusal rather than printed beside a success.",
   ],
   invariants: [
@@ -39,7 +38,11 @@ export const infrastructureService = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming a service and every service at the same time is refused.",
+      statement: "A sweep naming a service is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A sweep takes away a unit of ours and writes none.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +70,7 @@ export const infrastructureService = {
     },
     {
       invariantKind: "absence",
-      statement: "An install restarts no service whose units are unchanged.",
+      statement: "Nothing here puts a service's units where systemd reads them.",
     },
     {
       invariantKind: "gap",
