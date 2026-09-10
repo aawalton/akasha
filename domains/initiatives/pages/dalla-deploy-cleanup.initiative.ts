@@ -8,9 +8,9 @@ export const dallaDeployCleanup = {
   domain: "namespace/infrastructure",
   persona: "dalla",
   intents: [
-    { statement: "Every workstation service has deployed through `akasha deploy`." },
-    { statement: "Every cluster service has deployed through `akasha deploy`." },
-    { statement: "Every ios app has deployed through `akasha deploy`." },
+    { statement: "Every workstation service has deployed through `akasha infrastructure deploy`." },
+    { statement: "Every cluster service has deployed through `akasha infrastructure deploy`." },
+    { statement: "Every ios app has deployed through `akasha infrastructure deploy`." },
     {
       statement: "No competing akasha build or deploy command exists.",
       workingMemory:
