@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check has a decision, a check and an audit, each its own module of files.",
       workingMemory:
-        "code-check holds nine member files from its type alone; heldIn reads .audit.code.ts as a property. judging states Auditing and AuditingAsync, each taking the root alone. All 55 are split and the callers are done. The extends had to go first: a page cannot drop code while the type requires it, so code-check now extends domain and states code and test optional. Left: move each check code and test under .check, one a landing, then drop both from the type. 51 of 55 moved.",
+        "All 55 checks now hold decision, check and audit, each with its own code and test, and code-check states neither code nor test any more. Left: besideNamed and besideOf take no file-property key set, so file-arguing, log-day-sweeping and property-carrying's sectionedIn at :238 do not see a group's member files. Then decide whether the three groups become required. code-system/package.json still exports ./module/code, which nothing imports now.",
     },
     {
       statement:
