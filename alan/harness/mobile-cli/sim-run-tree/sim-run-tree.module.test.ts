@@ -4,10 +4,9 @@ import {
   shellRepoPath,
   simRunNativeShellDir,
   simRunRootRel,
+  simRunSharedRepoPaths,
   simRunSourceRepoPaths,
 } from "./sim-run-tree.module.code.ts"
-
-const SEAM_SHARED_COUNT = 3
 
 const APP: MobileApp = {
   slug: "example",
@@ -56,18 +55,25 @@ describe("simRunSourceRepoPaths", () => {
     expect(paths[0]).toBe("native-shell/example")
   })
 
-  test("delivers the seam scripts and components every shell shares, named from the repo root", () => {
-    expect(paths).toContain("code-system/ios-apps/scripts")
-    expect(paths).toContain("code-system/ios-components/pages")
-    expect(paths).toContain("code-system/ios-programs/pages")
+  test("delivers the shell, the Swift and the plists every shell compiles", () => {
+    const said = paths.join("\n")
+    expect(said).toContain("widget-components/widget-components.shell-script.shell.sh")
+    expect(said).toContain("ring/ring.ios-component.swift.swift")
+    expect(said).toContain("alanwalton-widget.ios-program.info-plist.plist")
+    expect(said).toContain("alanwalton-decode-harness/main.swift")
   })
 
   test("no delivered path reaches above the repo root", () => {
     for (const path of paths) expect(path.startsWith("..")).toBe(false)
   })
 
-  test("an app delivers its own shell and the shared seam trees and nothing else", () => {
-    expect(paths.length).toBe(1 + SEAM_SHARED_COUNT)
+  test("no page's own TypeScript file is delivered, because the macbook reads none", () => {
+    for (const path of paths) expect(path.endsWith(".ts")).toBe(false)
+  })
+
+  test("an app delivers its own shell and the shared files and nothing else", () => {
+    expect(new Set(paths).size).toBe(paths.length)
+    expect(paths.slice(1)).toEqual([...simRunSharedRepoPaths()])
   })
 })
 

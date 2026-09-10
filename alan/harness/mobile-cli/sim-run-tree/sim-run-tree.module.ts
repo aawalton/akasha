@@ -5,13 +5,25 @@ export const simRunTree = {
   pageTypeSlug: "module",
   type: "module",
   slug: "sim-run-tree",
-  definition: "the repo-root paths a mobile sim run is built from, delivered whole to the macbook",
+  definition: "the repo-root paths a mobile sim run is built from, delivered to the macbook",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The seam scripts and iOS components are named from the repo root.",
+      statement: "A path is named from the repo root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shell package the app names reaches the macbook whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages every shell compiles reach the macbook as the files those pages carry.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page's own TypeScript file reaches the macbook.",
     },
     {
       invariantKind: "constraint",

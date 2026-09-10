@@ -149,27 +149,13 @@ export interface RsyncOptions {
   readonly quiet?: boolean
 }
 
-export function rsyncToHost(
+function rsyncRun(
   target: SshTarget,
-  localDir: string,
-  remoteDir: string,
-  options: RsyncOptions = {}
+  args: readonly string[],
+  quiet: boolean | undefined
 ): Promise<void> {
   return new Promise<void>((resolve, reject) => {
-    const excludeArgs = (options.excludes ?? []).flatMap((pattern) => ["--exclude", pattern])
-    const child = spawn(
-      "rsync",
-      [
-        "-az",
-        "--delete",
-        ...excludeArgs,
-        "-e",
-        rsyncSshTransport(expandTilde(target.keyPath)),
-        `${localDir}/`,
-        `${target.user}@${target.host}:${remoteDir}/`,
-      ],
-      { stdio: stdioFor(options.quiet) }
-    )
+    const child = spawn("rsync", [...args], { stdio: stdioFor(quiet) })
     child.on("error", (err: Error & { code?: string }) => {
       if (err.code === "ENOENT") {
         reject(new OperationalError("rsync not found on PATH"))
@@ -185,6 +171,50 @@ export function rsyncToHost(
       reject(new OperationalError(`rsync exited ${code} (host: ${target.user}@${target.host})`))
     })
   })
+}
+
+export function rsyncToHost(
+  target: SshTarget,
+  localDir: string,
+  remoteDir: string,
+  options: RsyncOptions = {}
+): Promise<void> {
+  const excludeArgs = (options.excludes ?? []).flatMap((pattern) => ["--exclude", pattern])
+  return rsyncRun(
+    target,
+    [
+      "-az",
+      "--delete",
+      ...excludeArgs,
+      "-e",
+      rsyncSshTransport(expandTilde(target.keyPath)),
+      `${localDir}/`,
+      `${target.user}@${target.host}:${remoteDir}/`,
+    ],
+    options.quiet
+  )
+}
+
+export function rsyncFilesToHost(
+  target: SshTarget,
+  localRoot: string,
+  paths: readonly string[],
+  remoteDir: string,
+  options: RsyncOptions = {}
+): Promise<void> {
+  if (paths.length === 0) return Promise.resolve()
+  return rsyncRun(
+    target,
+    [
+      "-az",
+      "--relative",
+      "-e",
+      rsyncSshTransport(expandTilde(target.keyPath)),
+      ...paths.map((rel) => `${localRoot}/./${rel}`),
+      `${target.user}@${target.host}:${remoteDir}/`,
+    ],
+    options.quiet
+  )
 }
 
 export async function runSshCapture(

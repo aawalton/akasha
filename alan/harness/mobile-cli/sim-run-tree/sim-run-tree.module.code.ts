@@ -1,19 +1,23 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { sharedBuildFiles } from "akasha/code-system/ios-apps/shared-build-files/shared-build-files.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { said } from "akasha/utils/run/running/running.module.code.ts"
 import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
 import {
   type MobileApp,
   shellRepoPath as shellRepoPathOf,
 } from "../mobile-app/mobile-app.module.code.ts"
-import { rsyncToHost, runSshCapture } from "../mobile-ssh/mobile-ssh.module.code.ts"
-
-const SEAM_SHARED_REPO_PATHS: readonly string[] = [
-  "code-system/ios-apps/scripts",
-  "code-system/ios-components/pages",
-  "code-system/ios-programs/pages",
-]
+import {
+  rsyncFilesToHost,
+  rsyncToHost,
+  runSshCapture,
+} from "../mobile-ssh/mobile-ssh.module.code.ts"
 
 const DERIVED_DIR_NAMES: readonly string[] = ["node_modules", "ios", "www", "build", ".DS_Store"]
 
@@ -30,8 +34,14 @@ export function shellRepoPath(app: MobileApp): string {
   return shellRepoPathOf(app).path
 }
 
+export function simRunSharedRepoPaths(): readonly string[] {
+  const shared = sharedBuildFiles(rootFor(resolveRoots(), AKASHA))
+  if ("why" in shared) throw new InputError(shared.why)
+  return shared.files
+}
+
 export function simRunSourceRepoPaths(app: MobileApp): readonly string[] {
-  return [shellRepoPath(app), ...SEAM_SHARED_REPO_PATHS]
+  return [shellRepoPath(app), ...simRunSharedRepoPaths()]
 }
 
 export function simRunNativeShellDir(app: MobileApp): string {
@@ -51,7 +61,9 @@ export async function deliverSimRunTree(opts: {
 }): Promise<readonly string[]> {
   const { app, repoRoot, report } = opts
   const root = simRunRootRel(app)
-  const wanted = simRunSourceRepoPaths(app)
+  const shell = shellRepoPath(app)
+  const shared = simRunSharedRepoPaths()
+  const wanted = [shell, ...shared]
   const missing = wanted.filter((rel) => !existsSync(join(repoRoot, rel)))
   if (missing.length > 0) {
     throw new InputError(
@@ -60,13 +72,13 @@ export async function deliverSimRunTree(opts: {
   }
   await runSshCapture(
     MACBOOK,
-    ["set -euo pipefail", ...wanted.map((rel) => `mkdir -p "$HOME/${root}/${rel}"`)].join("\n")
+    ["set -euo pipefail", `mkdir -p "$HOME/${root}/${shell}"`].join("\n")
   )
-  for (const rel of wanted) {
-    report(`  ${rel} → ${MACBOOK.host}:~/${root}/${rel}\n`)
-    await rsyncToHost(MACBOOK, join(repoRoot, rel), `${root}/${rel}`, {
-      excludes: DERIVED_DIR_NAMES,
-    })
-  }
+  report(`  ${shell} → ${MACBOOK.host}:~/${root}/${shell}\n`)
+  await rsyncToHost(MACBOOK, join(repoRoot, shell), `${root}/${shell}`, {
+    excludes: DERIVED_DIR_NAMES,
+  })
+  report(`  ${shared.length} files every shell compiles → ${MACBOOK.host}:~/${root}\n`)
+  await rsyncFilesToHost(MACBOOK, repoRoot, shared, root)
   return wanted
 }
