@@ -9,12 +9,6 @@ export const athenaCommandsAtTheRoot = {
   persona: "athena",
   intents: [
     {
-      statement:
-        "Every command sits in one folder at the root, named by the namespace it is under.",
-      workingMemory:
-        "Measured at 4e0b3ddd1a: 233 command and 57 namespace slugs are exactly their folder path under `commands/pages/` hyphen-joined, and equal their filename stem. The parts close both ways, no orphan and no dangling part. Three commands sit at the root, `audit`, `read` and `deploy`, each one Alan approved by name. Nothing mechanical holds it: `page-named-as-stated` judges the stem alone, and no check re-derives a slug from its path.\n",
-    },
-    {
       statement: "A seat has the commands its domain and role need, without being handed them.",
       workingMemory:
         "Every seat is handed one document, `agents.agent-settings.harness-settings.json`, whose `permissions.allow` is empty and whose deny list is global; a spawn merges only `remoteControlAtStartup` into it. A seat's persona, role and assignment reach none of it. No relation property targets `page-type/command`, and `alan.domain.ts`, `alan.seat.ts` and `handler.role.ts` name no command. Alan wants narrow warrants per use case and rejected `parts` as too broad. `track session` is a namespace of ten.\n",

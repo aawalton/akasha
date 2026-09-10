@@ -139,6 +139,14 @@ export const command = {
     },
     {
       invariantKind: "departure",
+      statement: "A command's slug is its folder path under `commands/pages/`, hyphen-joined.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No check re-derives a command's slug from the folder that command sits in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A command that refuses or throws changes nothing.",
     },
     {
