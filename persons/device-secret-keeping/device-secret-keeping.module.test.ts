@@ -124,7 +124,7 @@ test("a rendered body declares the page and names no secret", () => {
     revokedAt: null,
   }
   const body = deviceSecretBody(page)
-  expect(body).toContain('import type { DeviceSecret } from "../device-secret.page-type.ts"')
+  expect(body).toContain('import type { DeviceSecret } from "../device-secret.page-type.types.ts"')
   expect(body).toContain("export const alanA1b2 = {")
   expect(body).toContain(`  secretHash: "${page.secretHash}",`)
   expect(body).toContain("} as const satisfies DeviceSecret")

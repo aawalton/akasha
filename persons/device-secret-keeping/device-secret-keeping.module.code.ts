@@ -129,7 +129,7 @@ export function deviceSecretPath(slug: string): string {
 
 export function deviceSecretBody(page: DeviceSecretPage): string {
   const lines = [
-    'import type { DeviceSecret } from "../device-secret.page-type.ts"',
+    'import type { DeviceSecret } from "../device-secret.page-type.types.ts"',
     "",
     `export const ${exportedAs(page.slug)} = {`,
     `  id: ${JSON.stringify(page.id)},`,
