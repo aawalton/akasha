@@ -16,7 +16,7 @@ export const theaChecksSystem = {
     {
       statement: "Every route file is claimed by a page.",
       workingMemory:
-        "186 files under routes/ across seven web apps and code-system, against 12 route pages. Split off the wider claiming because it waits on Alan rather than on reading: one route page type is shared, a slug is unique per page type, and so `home` cannot be written seven times. Alan is settling that separately, under uniquePropertySlug, which names the property a value is unique within. Resume once a route slug is unique within its app rather than across every app.",
+        "Alan's blocker cleared: relation-property/unique-property landed and book-section already uses it. But a route names no app, so nothing can go in uniqueProperty yet: that wants a new required single-valued relation on the route type plus a value on all 156 route pages. Measured: 156 route pages, 7 app-routes pages, and every tracked file under a source routes/ already claimed. The old 186 counted gitignored build output. De-prefixing web-capacitor's 4 slugs is the proof.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
