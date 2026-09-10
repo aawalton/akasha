@@ -16,19 +16,20 @@ export const well = {
     },
     {
       invariantKind: "departure",
-      statement: "This is what one look found rather than what is so now.",
+      statement: "The verdict holds one look's finding rather than the service's state now.",
     },
     {
       invariantKind: "departure",
-      statement: "This is written only where what a look found differs from what is already here.",
+      statement:
+        "A look writes the verdict only where the look's finding differs from the verdict written.",
     },
     {
       invariantKind: "departure",
-      statement: "This carries no moment.",
+      statement: "The verdict carries no moment.",
     },
     {
       invariantKind: "departure",
-      statement: "How long ago this was written says nothing.",
+      statement: "How long ago the verdict was written says nothing.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +38,7 @@ export const well = {
     {
       invariantKind: "departure",
       statement:
-        "A service no longer looked at keeps the value the last look that reached it left.",
+        "A service no longer looked at keeps the verdict the last look reaching that service left.",
     },
   ],
 } as const satisfies BooleanProperty
