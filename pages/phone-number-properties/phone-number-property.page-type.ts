@@ -1,7 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type PhoneNumberProperty = PageProperty
 
 export const phoneNumberProperty = {
   id: "01a053e9-5cd1-7137-9fbb-c33920c95575",
@@ -37,4 +34,5 @@ export const phoneNumberProperty = {
       statement: "A number states no max.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
