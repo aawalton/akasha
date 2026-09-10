@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { ErrorApp } from "./properties/error-app.text-property.ts"
 import type { ErrorCount } from "./properties/error-count.number-property.ts"
-import type { Fingerprint } from "./properties/error-fingerprint.text-property.ts"
+import type { ErrorFingerprint } from "./properties/error-fingerprint.text-property.ts"
 import type { FirstSeenAt } from "./properties/error-first-seen-at.instant-property.ts"
 import type { Kind } from "./properties/error-kind.text-property.ts"
 import type { LastSeenAt } from "./properties/error-last-seen-at.instant-property.ts"
@@ -12,7 +12,7 @@ import type { Url } from "./properties/error-url.text-property.ts"
 import type { UserAgent } from "./properties/error-user-agent.text-property.ts"
 
 export type RuntimeError = Page & {
-  fingerprint: Fingerprint
+  fingerprint: ErrorFingerprint
   app: ErrorApp
   kind: Kind
   message: Message
