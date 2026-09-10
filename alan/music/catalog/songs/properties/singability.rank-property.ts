@@ -1,25 +1,37 @@
 import type { Rank } from "akasha/alan/collections/properties/rank.rank-property.types.ts"
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { RankProperty } from "../../../../../pages/rank-properties/rank-property.page-type.types.ts"
 
 export type Singability = Rank
 
 export const singability = {
   id: "01a06243-144b-700b-83e8-f1b91786511f",
-  pageTypeSlug: "text-property",
-  type: "text-property",
+  pageTypeSlug: "rank-property",
+  type: "rank-property",
   slug: "singability",
   propertySlug: "singability",
   definition: "Alan's grade for how well a song sits in his own voice",
-  maxLength: 2,
-  nameFormat: null,
+  values: [
+    "F",
+    "D-",
+    "D",
+    "D+",
+    "C-",
+    "C",
+    "C+",
+    "B-",
+    "B",
+    "B+",
+    "A-",
+    "A",
+    "A+",
+    "S-",
+    "S",
+    "S+",
+  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A singability is graded on the ladder a rank is graded on.",
     },
-    {
-      invariantKind: "gap",
-      statement: "This property is a rank rather than text.",
-    },
   ],
-} as const satisfies TextProperty
+} as const satisfies RankProperty
