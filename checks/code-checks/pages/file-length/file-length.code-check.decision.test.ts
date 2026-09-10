@@ -17,7 +17,7 @@ import {
   SKETCHBOOK,
   scratch,
   seeded,
-} from "./file-length.code-check.test-fixtures.ts"
+} from "./file-length.code-check.decision.test-fixtures.ts"
 
 const HELD = "akasha/held.ts"
 

@@ -3,7 +3,12 @@ import { writing } from "../../../../commands/modules/scratching/scratching.modu
 import { said as git } from "../../../../git/running/git-running.module.code.ts"
 import { fileLength } from "./file-length.code-check.audit.code.ts"
 import { CEILING } from "./file-length.code-check.decision.code.ts"
-import { ELSEWHERE, LOCKFILE, letOff, scratch } from "./file-length.code-check.test-fixtures.ts"
+import {
+  ELSEWHERE,
+  LOCKFILE,
+  letOff,
+  scratch,
+} from "./file-length.code-check.decision.test-fixtures.ts"
 
 const STRAY = "akasha/stray.ts"
 
