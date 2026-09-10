@@ -142,9 +142,9 @@ async function clearPartial(
 
 function bytesToBase64(bytes: Uint8Array): string {
   let binary = ""
-  const STRIDE = 0x8000
-  for (let i = 0; i < bytes.length; i += STRIDE) {
-    binary += String.fromCharCode(...bytes.subarray(i, i + STRIDE))
+  const stride = 0x8000
+  for (let i = 0; i < bytes.length; i += stride) {
+    binary += String.fromCharCode(...bytes.subarray(i, i + stride))
   }
   return btoa(binary)
 }
