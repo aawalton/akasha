@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const lokiService = {
   id: "01a06816-68b1-7121-a3e4-61d3cc74c4c8",

@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesUiReorderVerbs = {
   id: "01a071d1-41ad-7a7c-a189-9c75005c96c3",

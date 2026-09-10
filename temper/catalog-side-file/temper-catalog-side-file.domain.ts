@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperCatalogSideFile = {
   id: "01a060ce-b8ca-70c9-aff9-a8d013b9d7e5",

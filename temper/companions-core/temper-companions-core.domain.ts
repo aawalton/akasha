@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperCompanionsCore = {
   id: "01a06108-0770-7896-af0b-609e72d8fa97",

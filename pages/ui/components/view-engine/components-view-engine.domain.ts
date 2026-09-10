@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const componentsViewEngine = {
   id: "01a071d3-819f-77d0-818b-e7da6441196a",

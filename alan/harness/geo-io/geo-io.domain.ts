@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const geoIo = {
   id: "01a05c48-deeb-7000-a8e9-296daa14b0c7",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 import type { Generator } from "./properties/generator.relation-property.ts"
 import type { PropertySlug } from "./properties/property-slug.text-property.ts"
 import type { Unique } from "./properties/unique.relation-property.ts"

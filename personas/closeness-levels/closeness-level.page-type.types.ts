@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { Level } from "./properties/level.number-property.ts"
 import type { PointsToHere } from "./properties/points-to-here.number-property.ts"
 import type { PointsToNext } from "./properties/points-to-next.number-property.ts"

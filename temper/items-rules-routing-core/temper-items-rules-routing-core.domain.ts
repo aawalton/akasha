@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperItemsRulesRoutingCore = {
   id: "01a06151-370b-7fa6-ad43-f200b0ae0fb9",

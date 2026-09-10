@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const modelGateway = {
   id: "01a06227-7bc1-72a3-8056-41b5ba88f99d",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const smsAccess = {
   id: "01a05b73-2ec6-753d-93f8-fc22c4035cad",

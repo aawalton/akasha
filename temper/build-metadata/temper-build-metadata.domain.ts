@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperBuildMetadata = {
   id: "01a061c0-88d8-71f3-9d1b-7474ad4a82e1",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const reminderSystem = {
   id: "01a05f42-d941-7000-8906-8852e706c156",

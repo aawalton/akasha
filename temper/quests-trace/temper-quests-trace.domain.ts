@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperQuestsTrace = {
   id: "01a06098-98a2-7c25-8f77-066842973eb3",

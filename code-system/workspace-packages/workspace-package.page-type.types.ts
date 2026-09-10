@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { DockerfileExtensions } from "./properties/dockerfile-extensions.file-property.ts"
 import type { Manifest } from "./properties/manifest.file-property.ts"
 import type { ToolReached } from "./properties/tool-reached.text-property.ts"

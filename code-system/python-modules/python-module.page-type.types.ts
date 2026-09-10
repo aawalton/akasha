@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { BytecodeDirectory } from "./properties/bytecode-directory.build-folder-property.ts"
 import type { Python } from "./properties/python.code-file-property.ts"
 

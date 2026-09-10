@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperEquipmentKinds = {
   id: "01a060b8-08c3-7a47-a8fa-29a32e398b30",

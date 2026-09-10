@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const sshAccess = {
   id: "01a05c2f-0f02-7fb7-aaea-fff4b50ef0c6",

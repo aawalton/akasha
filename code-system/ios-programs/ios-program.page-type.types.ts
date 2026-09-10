@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { BundleId } from "../ios-apps/properties/bundle-id.text-property.ts"
 import type { Components } from "./properties/components.relation-property.ts"
 import type { Entitlements } from "./properties/entitlements.file-property.ts"

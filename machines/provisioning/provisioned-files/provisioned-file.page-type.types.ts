@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 import type { Content } from "./properties/content.file-property.ts"
 import type { InstallPath } from "./properties/install-path.text-property.ts"
 import type { OnlyOn } from "./properties/only-on.select-property.ts"

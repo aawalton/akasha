@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const pageCommands = {
   id: "01a06812-3ce8-79c7-b7c0-ca183f330ca5",

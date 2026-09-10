@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const ciBenchmark = {
   id: "01a0675b-16d8-704b-a679-f300bf41cd88",

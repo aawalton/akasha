@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperCharactersCaptureAddon = {
   id: "01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4",

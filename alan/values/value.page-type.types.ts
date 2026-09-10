@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { Groups } from "../../readouts/properties/groups.relation-property.ts"
 import type { Label } from "../../readouts/properties/label.text-property.ts"
 import type { Place } from "../../readouts/properties/place.number-property.ts"

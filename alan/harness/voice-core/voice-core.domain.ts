@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const voiceCore = {
   id: "01a05b55-e06e-741c-b7db-8e5f91fea0b7",

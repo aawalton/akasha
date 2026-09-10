@@ -1,4 +1,4 @@
-import type { Domain } from "../domain.page-type.ts"
+import type { Domain } from "../domain.page-type.types.ts"
 
 export const plainLanguage = {
   id: "01a05d93-dbec-79d5-a299-9264b3de7464",

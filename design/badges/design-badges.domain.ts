@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const designBadges = {
   id: "01a05b55-a539-766c-98d3-a4d3e2fc6c4b",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const postgresAnnualDump = {
   id: "01a06865-c012-7000-8a01-503775ee557e",

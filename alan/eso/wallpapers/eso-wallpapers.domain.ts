@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const esoWallpapers = {
   id: "01a06865-abff-7020-a570-1cce5bbc9b8a",

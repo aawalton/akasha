@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperSavedVariables = {
   id: "01a06053-3633-77f0-8acd-df36807c5f6c",

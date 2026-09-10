@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { LoadedAs } from "../eso-interfaces/properties/loaded-as.text-property.ts"
 import type { Lua } from "./properties/lua.code-file-property.ts"
 

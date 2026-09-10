@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const locationTracesAccess = {
   id: "01a05bc7-9129-700a-81c5-e2dfa20709ec",

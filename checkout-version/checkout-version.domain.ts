@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.types.ts"
 
 export const checkoutVersion = {
   id: "01a05c9d-dccd-7864-8e73-f8fd81e86a9c",

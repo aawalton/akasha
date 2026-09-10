@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const webStaticAssets = {
   id: "01a05c48-deeb-7005-87e8-e99206ff06ca",

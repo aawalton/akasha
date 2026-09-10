@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { PointsSourceAggregate } from "./properties/points-source-aggregate.text-property.ts"
 import type { PointsSourceKind } from "./properties/points-source-kind.text-property.ts"
 import type { PointsSourceMarker } from "./properties/points-source-marker.text-property.ts"

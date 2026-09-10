@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../../../domains/domain.page-type.types.ts"
 
 export const fitnessCoaching = {
   id: "01a08181-38f5-7959-999a-59779918cada",

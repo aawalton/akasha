@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const comfy = {
   id: "01a06810-0b68-7eaa-8bd1-c312063e493d",

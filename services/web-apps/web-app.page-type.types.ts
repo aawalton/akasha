@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { BuildCommand } from "./properties/build-command.text-property.ts"
 import type { ClusterServices } from "./properties/cluster-services.relation-property.ts"
 import type { Hostnames } from "./properties/hostnames.text-property.ts"

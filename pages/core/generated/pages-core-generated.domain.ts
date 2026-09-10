@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesCoreGenerated = {
   id: "01a071ca-ec89-7025-aea5-fdec003f5ade",

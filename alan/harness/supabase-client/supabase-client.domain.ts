@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const supabaseClient = {
   id: "01a05c91-61cc-7d0c-bbf1-b3f2103ad9d0",

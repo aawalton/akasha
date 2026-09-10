@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const changeTarget = {
   id: "01a0814e-c10e-7ebb-9a24-ec1c319fb801",

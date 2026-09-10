@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const greatCourses = {
   id: "01a06579-f3d9-7008-be12-f37f13da607b",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { Code } from "../modules/properties/code.code-file-property.ts"
 import type { CompiledLua } from "./properties/compiled-lua.code-file-property.ts"
 import type { LuaExport } from "./properties/lua-export.text-property.ts"

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperAddonGenerators = {
   id: "01a06073-2499-7d6c-8220-9fb541b99067",

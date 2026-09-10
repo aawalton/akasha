@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesUiCoverClick = {
   id: "01a071cf-77a2-79dd-9156-cf09563bb150",

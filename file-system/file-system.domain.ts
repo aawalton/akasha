@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.types.ts"
 
 export const fileSystem = {
   id: "01a05231-61c5-775c-a479-ffa46b4fe6bc",

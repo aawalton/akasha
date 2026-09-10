@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperItemsRulesMatcher = {
   id: "01a06151-370e-7f21-be1d-3df9be256684",

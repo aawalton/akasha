@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const changeAgentFolder = {
   id: "01a07cc2-5592-76c0-9945-aa8a44a111d0",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const changeAgentFile = {
   id: "01a07cc2-47e0-7c08-b48a-bacf9c0f9386",

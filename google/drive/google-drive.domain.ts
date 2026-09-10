@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const googleDrive = {
   id: "01a05bec-fc09-7a61-8e09-909bc24a66c2",

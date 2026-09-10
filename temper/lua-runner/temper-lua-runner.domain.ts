@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperLuaRunner = {
   id: "01a06059-248e-7afb-9115-253f8636048f",

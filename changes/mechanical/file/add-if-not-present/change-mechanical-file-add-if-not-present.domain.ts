@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../../domains/domain.page-type.types.ts"
 
 export const changeMechanicalFileAddIfNotPresent = {
   id: "01a08187-e826-7d84-a62f-ac5fdb10c36d",

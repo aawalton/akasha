@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const inferenceClients = {
   id: "01a0682d-8f07-7000-ab6b-b7ebbf0863a0",

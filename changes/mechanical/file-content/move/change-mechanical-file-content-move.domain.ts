@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../../domains/domain.page-type.types.ts"
 
 export const changeMechanicalFileContentMove = {
   id: "01a081e2-c23a-7af0-ba22-629889727cb3",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const eso = {
   id: "01a0675b-16ea-77df-9153-bac46e026794",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const day = {
   id: "01a05c77-31e4-7f97-8fe6-c273915285af",

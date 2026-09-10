@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const smsCore = {
   id: "01a05b6f-999c-7a6b-9de1-eb062ff820b3",

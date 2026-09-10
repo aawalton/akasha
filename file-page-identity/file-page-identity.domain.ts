@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.types.ts"
 
 export const filePageIdentity = {
   id: "01a05c69-e870-7637-b745-5f768a4c4a67",

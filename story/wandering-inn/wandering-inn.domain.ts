@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const wanderingInn = {
   id: "01a06578-5721-7000-ac18-7acf6bd4ad0b",

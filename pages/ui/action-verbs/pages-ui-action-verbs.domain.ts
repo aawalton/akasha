@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesUiActionVerbs = {
   id: "01a071ce-d674-7d9d-a3d0-a213b0a22dcf",

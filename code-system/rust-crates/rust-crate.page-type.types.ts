@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { CargoBuildScript } from "./properties/cargo-build-script.code-file-property.ts"
 import type { CargoManifest } from "./properties/cargo-manifest.file-property.ts"
 import type { CrateIcon } from "./properties/crate-icon.file-property.ts"

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperPlayerInventoryManagementUi = {
   id: "01a0636c-5da1-77be-aadf-aea8caa7006f",

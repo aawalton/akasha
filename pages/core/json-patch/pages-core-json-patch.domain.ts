@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesCoreJsonPatch = {
   id: "01a071cb-06e1-77a7-9b87-356db476d706",

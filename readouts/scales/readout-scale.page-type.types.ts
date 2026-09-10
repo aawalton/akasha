@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { BlackAt } from "./properties/black-at.number-property.ts"
 import type { BlueAt } from "./properties/blue-at.number-property.ts"
 import type { EarnedColorSlug } from "./properties/earned-color-slug.text-property.ts"

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const clusterApi = {
   id: "01a068d4-d2aa-79d4-b241-bf8c8672b7fd",

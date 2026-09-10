@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const seatCredential = {
   id: "01a08866-f117-71ad-a4ee-7c213a9155b8",

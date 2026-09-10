@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const webPageAnswers = {
   id: "01a0655a-b2a8-78a3-9dec-43e67b15bf10",

@@ -1,7 +1,7 @@
 import type { Code } from "@akasha/code/module/code"
 import type { Test } from "@akasha/code/module/test"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { Entries } from "./properties/entries.file-property.ts"
 import type { RunsOnAudit } from "./properties/runs-on-audit.boolean-property.ts"
 import type { RunsOnDeploy } from "./properties/runs-on-deploy.boolean-property.ts"

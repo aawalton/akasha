@@ -1,7 +1,7 @@
 import type { PointsBeforeToday } from "../alan/attributes/properties/points-before-today.number-property.ts"
 import type { PointsToday } from "../alan/attributes/properties/points-today.number-property.ts"
 import type { PointsTotal } from "../alan/attributes/properties/points-total.number-property.ts"
-import type { Domain } from "../domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.types.ts"
 import type { Phone } from "../persons/people/properties/phone.phone-number-property.ts"
 import type { Role } from "../seat-system/seats/properties/role.relation-property.ts"
 import type { Appearance } from "./properties/appearance.file-property.ts"

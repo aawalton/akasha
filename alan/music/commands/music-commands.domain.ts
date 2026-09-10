@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const musicCommands = {
   id: "01a062f5-7bb2-750a-ba0b-8e132d65105f",

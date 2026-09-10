@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperBuildCodec = {
   id: "01a062e7-4dd4-7379-91b1-47690a52822a",

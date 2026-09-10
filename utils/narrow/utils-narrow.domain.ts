@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const utilsNarrow = {
   id: "01a05c94-2c03-7ab7-b93f-49a8ed498a29",

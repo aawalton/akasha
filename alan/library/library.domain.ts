@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const library = {
   id: "01a06574-0291-7000-bfeb-0932b2156cac",

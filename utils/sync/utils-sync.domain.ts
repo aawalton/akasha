@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const utilsSync = {
   id: "01a05c6a-2bb3-7c64-b97e-cdaaf5e58872",

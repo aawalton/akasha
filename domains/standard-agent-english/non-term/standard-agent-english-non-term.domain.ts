@@ -1,4 +1,4 @@
-import type { Domain } from "../../domain.page-type.ts"
+import type { Domain } from "../../domain.page-type.types.ts"
 
 export const standardAgentEnglishNonTerm = {
   id: "01a07c78-2ba0-77ce-8ff3-02364664537f",

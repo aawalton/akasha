@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const namedFor = {
   id: "01a05c53-bc6a-7abd-bdd4-f484ded3d33b",

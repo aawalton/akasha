@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const webBuildVersion = {
   id: "01a05c48-deeb-700d-9df1-fad9c81a0a32",

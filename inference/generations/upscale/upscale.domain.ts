@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const upscale = {
   id: "01a06815-9efd-7040-a13c-1048a109ba86",

@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const memoryReaping = {
   id: "01a0886f-b428-7780-8b2e-1e374e2ff056",

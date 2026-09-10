@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperSavedVarsMigration = {
   id: "01a06072-5abb-776e-b9a1-6393d03e042b",

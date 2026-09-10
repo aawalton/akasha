@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperCaptureDatamining = {
   id: "01a0608a-15b0-78f6-8e8e-282460347005",

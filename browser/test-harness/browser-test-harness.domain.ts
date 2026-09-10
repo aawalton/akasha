@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const browserTestHarness = {
   id: "01a05ca9-d801-7799-a4a3-de2a41d35502",

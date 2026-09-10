@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperTradingPricingClient = {
   id: "01a0609f-a418-7b2b-bf39-1273854058c4",

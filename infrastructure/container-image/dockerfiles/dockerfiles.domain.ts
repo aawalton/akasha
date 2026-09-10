@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const dockerfiles = {
   id: "01a06865-abff-7000-a441-7a4caa49c9d9",

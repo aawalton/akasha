@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesUiStoreCollection = {
   id: "01a071cd-798c-75bd-88c7-7e266f938b90",

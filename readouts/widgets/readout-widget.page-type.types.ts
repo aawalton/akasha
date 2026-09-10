@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { Groups } from "../properties/groups.relation-property.ts"
 import type { Place } from "../properties/place.number-property.ts"
 import type { App } from "./properties/app.relation-property.ts"

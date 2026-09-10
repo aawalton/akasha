@@ -1,4 +1,4 @@
-import type { Domain } from "../../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../../domains/domain.page-type.types.ts"
 
 export const talos = {
   id: "01a06813-7b0e-79e0-ae0d-60b8f8c4a138",

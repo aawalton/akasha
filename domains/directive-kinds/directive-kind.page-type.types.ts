@@ -1,3 +1,3 @@
-import type { Domain } from "../domain.page-type.ts"
+import type { Domain } from "../domain.page-type.types.ts"
 
 export type DirectiveKind = Domain & {}

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { LoadedAs } from "./properties/loaded-as.text-property.ts"
 import type { Markup } from "./properties/markup.file-property.ts"
 

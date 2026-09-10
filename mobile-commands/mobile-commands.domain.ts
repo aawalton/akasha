@@ -1,4 +1,4 @@
-import type { Domain } from "../domains/domain.page-type.ts"
+import type { Domain } from "../domains/domain.page-type.types.ts"
 
 export const mobileCommands = {
   id: "01a0685d-ceae-7000-bca6-75f9319e56ca",

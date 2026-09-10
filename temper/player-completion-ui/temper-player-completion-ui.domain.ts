@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperPlayerCompletionUi = {
   id: "01a06267-372c-7003-8a9e-15b2f42d8750",

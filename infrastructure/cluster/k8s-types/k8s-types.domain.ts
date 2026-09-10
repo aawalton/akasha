@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const k8sTypes = {
   id: "01a06735-dd9c-700c-89ca-ed7f38cab9b1",

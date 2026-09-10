@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const healthSamplesAccess = {
   id: "01a05bc7-9129-7000-a4ef-ca6a1a3463b1",

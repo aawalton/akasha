@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { BiomeConfig } from "./properties/biome-config.file-property.ts"
 import type { BunConfig } from "./properties/bun-config.file-property.ts"
 import type { DockerIgnore } from "./properties/docker-ignore.file-property.ts"

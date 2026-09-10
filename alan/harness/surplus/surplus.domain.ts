@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const surplus = {
   id: "01a05fc3-145a-7fb1-9715-e7a44e378f74",

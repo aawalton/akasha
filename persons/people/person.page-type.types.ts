@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 import type { EmailAddress } from "../../personas/properties/email-address.email-address-property.ts"
 import type { AnsweredBy } from "./properties/answered-by.relation-property.ts"
 import type { Bodyweight } from "./properties/bodyweight.number-property.ts"

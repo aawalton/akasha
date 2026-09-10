@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperProgress = {
   id: "01a05fac-7582-726f-ac10-d5261c7e1f65",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const browserLaunchEnv = {
   id: "01a05c48-deeb-7003-a5da-3a33a507b7c8",

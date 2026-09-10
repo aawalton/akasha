@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperAddonLibraryTypes = {
   id: "01a06090-f5ac-7f47-be1b-dc303670f2ad",

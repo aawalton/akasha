@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const voiceInference = {
   id: "01a06815-9efd-701e-a4d4-a26f49e97554",

@@ -1,4 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
+import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 
 export const pagesUiMedia = {
   id: "01a071d0-4b6a-724c-8d8b-5d9ece92248e",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const browserCommands = {
   id: "01a06862-06c8-7000-8f27-5543118e4614",

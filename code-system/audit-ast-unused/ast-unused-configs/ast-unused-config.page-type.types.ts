@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 import type { Curation } from "./properties/curation.file-property.ts"
 import type { Workspaces } from "./properties/workspaces.file-property.ts"
 

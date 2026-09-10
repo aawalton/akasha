@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperNarrow = {
   id: "01a060b6-99a1-7f39-a4b3-1a7f8d33b445",

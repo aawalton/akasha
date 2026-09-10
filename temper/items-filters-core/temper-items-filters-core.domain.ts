@@ -1,4 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const temperItemsFiltersCore = {
   id: "01a0613a-e0b3-78d9-aaac-decd150b1b76",

@@ -1,4 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const mobileCli = {
   id: "01a05cee-e560-7302-ad38-fd2e2a149eed",
