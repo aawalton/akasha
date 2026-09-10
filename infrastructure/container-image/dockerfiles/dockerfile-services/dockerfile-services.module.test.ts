@@ -30,14 +30,20 @@ describe("SERVICES", () => {
 
   test("gives every image stating extensions a file the writer finds", () => {
     const named = entries.flatMap(([slug, config]) =>
-      config.extensionFile === undefined
-        ? []
-        : [{ slug, dir: config.dir, at: config.extensionFile }]
+      config.extensionFile === undefined ? [] : [{ slug, at: config.extensionFile }]
     )
     const absent = named
-      .filter((one) => !existsSync(join(ROOT, one.dir, "deploy", one.at)))
+      .filter((one) => !existsSync(join(ROOT, one.at)))
       .map((one) => `${one.slug}: ${one.at}`)
     expect(named.length).toBeGreaterThan(0)
     expect(absent).toEqual([])
+  })
+
+  test("names an image's extensions file from the root rather than from that image's folder", () => {
+    const named = entries.flatMap(([, config]) =>
+      config.extensionFile === undefined ? [] : [config.extensionFile]
+    )
+
+    expect(named.filter((one) => one.startsWith("."))).toEqual([])
   })
 })

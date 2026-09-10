@@ -82,8 +82,10 @@ if (targetService != null) {
 }
 
 for (const [name, config] of servicesToGenerate) {
-  const extFilename = config.extensionFile ?? "dockerfile-extensions.json"
-  const extPath = join(ROOT, config.dir, "deploy", extFilename)
+  const extPath =
+    config.extensionFile === undefined
+      ? join(ROOT, config.dir, "deploy", "dockerfile-extensions.json")
+      : join(ROOT, config.extensionFile)
   const ext: DockerfileExtensions = existsSync(extPath)
     ? parseDockerfileExtensions(readJson(extPath))
     : {}

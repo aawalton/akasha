@@ -22,7 +22,7 @@ const IMAGES: readonly BuiltImage[] = [
   kubectl,
 ]
 
-const IMAGES_FROM_DEPLOY = "../built-images"
+const BUILT_IMAGES = "infrastructure/container-image/dockerfiles/built-images"
 
 function configOf(image: BuiltImage): ServiceConfig {
   if (image.extensions === undefined) return { type: image.kind, dir: image.folder }
@@ -30,7 +30,7 @@ function configOf(image: BuiltImage): ServiceConfig {
   return {
     type: image.kind,
     dir: image.folder,
-    extensionFile: `${IMAGES_FROM_DEPLOY}/${image.slug}/${named}`,
+    extensionFile: `${BUILT_IMAGES}/${image.slug}/${named}`,
   }
 }
 
