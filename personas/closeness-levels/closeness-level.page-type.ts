@@ -42,7 +42,11 @@ export const closenessLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona below the first rung is at level 0, and level 0 is no page.",
+      statement: "A persona below the first rung is at level 0.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Level 0 is no page.",
     },
     {
       invariantKind: "departure",

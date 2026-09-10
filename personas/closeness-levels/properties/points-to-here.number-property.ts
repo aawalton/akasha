@@ -17,7 +17,11 @@ export const pointsToHere = {
     },
     {
       invariantKind: "departure",
-      statement: "Points short of the first rung are level 0, where everyone starts.",
+      statement: "Points short of the first rung are level 0.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Everyone starts at level 0.",
     },
   ],
 } as const satisfies NumberProperty
