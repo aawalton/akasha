@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const characterGreymoorGeneral = {
   id: "01a06168-7251-701e-a5cf-075d93f6a310",

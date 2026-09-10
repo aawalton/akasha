@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountSolsticePrologues = {
   id: "01a06168-724d-700d-b33e-e44ccf5c3438",

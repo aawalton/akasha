@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const characterElsweyrExploration = {
   id: "01a06168-7252-7003-9593-108c9e4f661b",

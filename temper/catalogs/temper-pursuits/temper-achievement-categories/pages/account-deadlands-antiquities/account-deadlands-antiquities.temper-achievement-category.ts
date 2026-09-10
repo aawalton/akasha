@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountDeadlandsAntiquities = {
   id: "01a06168-7250-7005-bf48-3b5023ac09fd",

@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountDlcDungeonsEarthenRootEnclave = {
   id: "01a06168-7249-700f-be5b-055961e2417d",

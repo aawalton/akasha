@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountTrialsDreadsailReef = {
   id: "01a06168-724a-7015-a8df-dff169d2486c",

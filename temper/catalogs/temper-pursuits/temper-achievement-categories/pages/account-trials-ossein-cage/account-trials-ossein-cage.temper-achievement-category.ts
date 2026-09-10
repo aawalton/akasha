@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountTrialsOsseinCage = {
   id: "01a06168-724b-7004-9bdd-b58b320d63b1",

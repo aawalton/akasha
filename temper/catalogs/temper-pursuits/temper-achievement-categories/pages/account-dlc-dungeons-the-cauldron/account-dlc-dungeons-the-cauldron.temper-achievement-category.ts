@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountDlcDungeonsTheCauldron = {
   id: "01a06168-724a-700d-a6a0-82d1a8756ca4",

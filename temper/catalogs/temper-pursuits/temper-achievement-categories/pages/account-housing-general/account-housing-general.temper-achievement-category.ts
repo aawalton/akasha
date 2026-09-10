@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountHousingGeneral = {
   id: "01a06168-724c-7015-86a6-a9ad9ee6cdf8",

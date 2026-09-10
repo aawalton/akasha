@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountDlcDungeonsCradleOfShadows = {
   id: "01a06168-7249-700c-9a30-39e9cf6a4b1b",

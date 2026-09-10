@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const characterQuestsMainQuest = {
   id: "01a06168-7251-7012-9245-8ea8727ade83",

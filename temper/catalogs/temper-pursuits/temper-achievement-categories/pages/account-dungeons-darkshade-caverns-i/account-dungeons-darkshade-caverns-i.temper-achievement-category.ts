@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountDungeonsDarkshadeCavernsI = {
   id: "01a06168-7248-700b-9c44-45a7afd81d1d",

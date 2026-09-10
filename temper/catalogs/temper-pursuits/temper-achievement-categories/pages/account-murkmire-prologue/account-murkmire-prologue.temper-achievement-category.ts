@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountMurkmirePrologue = {
   id: "01a06168-7250-7014-a03a-aa4ed2bc0337",

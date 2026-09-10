@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountBlackwoodAntiquities = {
   id: "01a06168-724e-7014-a651-83b213bc94e7",

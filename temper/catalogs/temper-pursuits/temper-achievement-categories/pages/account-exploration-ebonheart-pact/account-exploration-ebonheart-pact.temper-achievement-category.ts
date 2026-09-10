@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountExplorationEbonheartPact = {
   id: "01a06168-724b-7012-ad35-2736034b06cc",

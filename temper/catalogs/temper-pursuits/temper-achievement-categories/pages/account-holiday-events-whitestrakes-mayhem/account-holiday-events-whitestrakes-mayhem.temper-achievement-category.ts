@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountHolidayEventsWhitestrakesMayhem = {
   id: "01a06168-724d-7003-8081-b173ad5deea4",

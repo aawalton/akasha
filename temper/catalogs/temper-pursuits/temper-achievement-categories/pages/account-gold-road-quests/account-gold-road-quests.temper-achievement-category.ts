@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountGoldRoadQuests = {
   id: "01a06168-724d-7016-b1c5-2a5e4b94f8a7",

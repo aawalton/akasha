@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const characterClockworkCityGeneral = {
   id: "01a06168-7252-7010-a5b8-158eecc215f7",

@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountDlcDungeonsRuinsOfMazzatun = {
   id: "01a06168-724a-7008-8ed1-7af1c4ce01c5",

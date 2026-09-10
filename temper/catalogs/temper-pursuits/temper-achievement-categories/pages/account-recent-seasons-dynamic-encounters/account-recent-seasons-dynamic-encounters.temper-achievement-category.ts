@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountRecentSeasonsDynamicEncounters = {
   id: "01a06168-7246-7004-891a-9ac49265eade",

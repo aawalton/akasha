@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountOrsiniumGeneral = {
   id: "01a06168-7251-7006-90c4-2bd22993fc1d",

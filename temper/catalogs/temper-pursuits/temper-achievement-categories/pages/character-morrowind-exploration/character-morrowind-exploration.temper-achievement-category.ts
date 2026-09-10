@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const characterMorrowindExploration = {
   id: "01a06168-7252-7009-96a5-8fd4fa18bc5c",

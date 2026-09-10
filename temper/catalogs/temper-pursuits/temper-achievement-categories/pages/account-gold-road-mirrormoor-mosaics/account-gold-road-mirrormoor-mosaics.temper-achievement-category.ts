@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountGoldRoadMirrormoorMosaics = {
   id: "01a06168-724d-7017-90c1-e5afc327af31",

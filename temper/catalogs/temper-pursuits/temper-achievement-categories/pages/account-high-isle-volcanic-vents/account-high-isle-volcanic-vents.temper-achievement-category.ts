@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountHighIsleVolcanicVents = {
   id: "01a06168-724e-700f-be80-80a48e1c49e0",

@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.types.ts"
-import type { Achievements } from "./properties/achievements.page-property-entry.ts"
-
-export type TemperAchievementCategory = TemperPursuitThing & {
-  achievements?: Achievements
-}
 
 export const temperAchievementCategory = {
   id: "01a06168-7245-7000-bc3b-b40339a88d31",
@@ -39,4 +33,5 @@ export const temperAchievementCategory = {
       statement: "The category tells apart the account tally from the character tally.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

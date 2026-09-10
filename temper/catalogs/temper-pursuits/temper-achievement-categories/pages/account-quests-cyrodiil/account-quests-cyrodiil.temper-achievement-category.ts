@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountQuestsCyrodiil = {
   id: "01a06168-724c-700a-8be1-bb66f28868d0",

@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountExplorationDaggerfallCovenant = {
   id: "01a06168-724b-7011-8290-888b15f66b5d",

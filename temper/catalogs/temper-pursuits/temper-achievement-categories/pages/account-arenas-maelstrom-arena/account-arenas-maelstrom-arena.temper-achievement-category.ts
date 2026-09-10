@@ -1,4 +1,4 @@
-import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.ts"
+import type { TemperAchievementCategory } from "../../temper-achievement-category.page-type.types.ts"
 
 export const accountArenasMaelstromArena = {
   id: "01a06168-724b-700c-bcaa-44073f1e56f8",
