@@ -1,35 +1,34 @@
-import { requireGet } from "akasha/utils/narrow/require-get/require-get.module.code.ts"
 import {
   emitBuilderPreamble,
   emitPackageJsonCopies,
   emitSourceCopies,
   emitWorkspaceInstall,
 } from "../dockerfile-builder/dockerfile-builder.module.code.ts"
-import { collectAllDeps } from "../dockerfile-deps/dockerfile-deps.module.code.ts"
 import type {
   DockerfileExtensions,
   ServiceConfig,
 } from "../dockerfile-extensions/dockerfile-extensions.module.code.ts"
+import { collectExecutedDeps } from "../dockerfile-imports/dockerfile-imports.module.code.ts"
 import { HEADER } from "../dockerfile-services/dockerfile-services.module.code.ts"
 
 export function generateNextjsDockerfile(
   appName: string,
   config: ServiceConfig,
   nameMap: Map<string, string>,
-  ext: DockerfileExtensions
+  ext: DockerfileExtensions,
+  allWorkspaceDirs: readonly string[]
 ): string {
   const appDir = config.dir
   const skipDefaultArgs = ext.no_default_build_args === true
 
-  const deps = collectAllDeps(appDir, nameMap)
-  const depDirs = deps.map((d) => requireGet(nameMap, d, "nameMap")).sort()
+  const depDirs = collectExecutedDeps(appDir, nameMap)
 
   const runtimeAlias = ext.runtime_stage_alias ?? "runtime"
   const lines: string[] = []
 
   lines.push(...emitBuilderPreamble(ext))
-  lines.push(...emitPackageJsonCopies(depDirs, appDir, ext))
-  lines.push(...emitWorkspaceInstall(depDirs, appDir, ext))
+  lines.push(...emitPackageJsonCopies(allWorkspaceDirs, appDir, ext))
+  lines.push(...emitWorkspaceInstall(ext))
   lines.push(...emitSourceCopies(depDirs, appDir, appName, ext))
 
   if (!skipDefaultArgs && !ext.no_supabase_url) {

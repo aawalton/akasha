@@ -27,7 +27,7 @@ export function dockerfileFor(slug: string): string {
   const dirs = [...listWorkspaceDirs(ROOT)].sort()
   switch (config.type) {
     case "nextjs":
-      return generateNextjsDockerfile(slug, config, names, ext)
+      return generateNextjsDockerfile(slug, config, names, ext, dirs)
     case "bun-service":
       return generateBunServiceDockerfile(slug, config, names, ext, dirs)
     case "tool-image":

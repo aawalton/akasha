@@ -7,4 +7,14 @@ export const dockerfileBuilder = {
   slug: "dockerfile-builder",
   definition: "the install and copy stages a Next.js build shares",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The image installs against the root manifest the checkout carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every workspace member's manifest is copied before the install runs.",
+    },
+  ],
 } as const satisfies Module

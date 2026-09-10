@@ -25,7 +25,7 @@ export function emitBuilderPreamble(ext: DockerfileExtensions): readonly string[
 }
 
 export function emitPackageJsonCopies(
-  depDirs: readonly string[],
+  memberDirs: readonly string[],
   appDir: string,
   ext: DockerfileExtensions
 ): readonly string[] {
@@ -37,8 +37,10 @@ export function emitPackageJsonCopies(
   }
   lines.push("")
 
-  lines.push("# Copy ALL shared package.json files")
-  for (const dir of depDirs) {
+  lines.push("# Copy the root manifest and every workspace member's manifest")
+  lines.push("COPY package.json ./")
+  for (const dir of memberDirs) {
+    if (dir === appDir) continue
     lines.push(`COPY ${dir}/package.json ./${dir}/package.json`)
   }
   lines.push(`COPY ${appDir}/package.json ./${appDir}/package.json`)
@@ -56,17 +58,8 @@ export function emitPackageJsonCopies(
   return lines
 }
 
-export function emitWorkspaceInstall(
-  depDirs: readonly string[],
-  appDir: string,
-  ext: DockerfileExtensions
-): readonly string[] {
+export function emitWorkspaceInstall(ext: DockerfileExtensions): readonly string[] {
   const lines: string[] = []
-  const workspacesList = [...depDirs, appDir].map((d) => `"${d}"`).join(",")
-  lines.push("# Write a trimmed workspace package.json listing all shared packages + app.")
-  lines.push(`RUN printf '{"private":true,"workspaces":[${workspacesList}]}\\n' > package.json`)
-  lines.push("")
-
   const installCmd =
     ext.install_flags != null
       ? `RUN --mount=type=cache,target=/root/.bun/install/cache bun install --backend=copyfile ${ext.install_flags}`
