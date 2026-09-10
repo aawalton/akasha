@@ -13,7 +13,7 @@ import type { NamedEventKind } from "./properties/named-event-kind.select-proper
 
 export type NamedEvent = Page & {
   title: Title
-  aliases?: readonly EventAliases[]
+  aliases?: EventAliases
   evidenceBeat: EvidenceBeat
   evidenceChapter: EvidenceChapter
   evidenceNote: EvidenceNote

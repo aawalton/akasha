@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type EventAliases = string
+export type EventAliases = List<string>
 
 export const eventAliases = {
   id: "01a0658b-9f41-7a18-8fa2-3605f3a3bf72",
