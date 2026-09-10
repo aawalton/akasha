@@ -285,6 +285,7 @@ function repointedIn(world: World, given: Asked): { readonly found: readonly Pas
   const found: Passage[] = []
   const naming = reachingOf(world.index.manifestsBeside(world.index.fileKeysAt()), world.textOf)
   for (const at of world.index.importersOf(given.from)) {
+    if (at === given.to) continue
     const held = world.textOf(at)
     if (held === null) return { refused: `\`${at}\` names what moved and could not be read` }
     const one = repointedAt(held, at, given, naming)
@@ -300,12 +301,21 @@ function openedIn(landed: string, source: ts.SourceFile, lines: readonly string[
   return landed.replace(anchor, `${anchor}${LINE}${lines.join(LINE)}`)
 }
 
+function afterImports(at: string, text: string, passage: string): string {
+  const anchor = anchorIn(text, parsedAs(at, text))
+  if (anchor === null) return `${passage}${LINE}${LINE}${text}`
+  return text.replace(anchor, `${anchor}${LINE}${LINE}${passage}`)
+}
+
 function ontoFor(
   given: Asked,
-  landed: string,
+  whole: string,
   carried: ReadonlyMap<string, Carried>,
   passage: string
 ): Passage | Refused {
+  const first = parsedAs(given.to, whole)
+  const gone = droppedFor(whole, first, given.to, given.of)
+  const landed = gone === null ? whole : whole.replace(gone.old, gone.new)
   const source = parsedAs(given.to, landed)
   const held = importsIn(source)
   const lines: string[] = []
@@ -322,7 +332,7 @@ function ontoFor(
   }
   const opened = openedIn(landed, source, lines)
   const trimmed = passage.replace(/^\n+/, "").trimEnd()
-  return { at: given.to, old: landed, new: `${opened.trimEnd()}${LINE}${LINE}${trimmed}${LINE}` }
+  return { at: given.to, old: whole, new: afterImports(given.to, opened, trimmed) }
 }
 
 function planFor(

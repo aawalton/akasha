@@ -240,13 +240,20 @@ const CLASHES = `import { join } from "./other.held.ts"
 export const OTHER = join("x", "y")
 `
 
-test("a landing body already naming the import a value carries takes that value at its end", async () => {
+const IMPORTS_IT = `import { AT } from "./one.held.ts"
+
+export const OTHER = AT
+`
+
+test("a landing body already naming that import takes the declaration after its imports", async () => {
   const world = worldOf({ [FROM]: VALUED, [TO]: ALREADY })
 
   const said = await runChange(world, { from: FROM, to: TO, of: "AT" })
 
   expect(said.refused).toBeNull()
-  expect(puttingAt(said, TO)).toEqual([`${ALREADY}\nexport const AT = join("a", "b")\n`])
+  expect(puttingAt(said, TO)).toEqual([
+    `import { join } from "node:path"\n\nexport const AT = join("a", "b")\n\nexport const OTHER = join("x", "y")\n`,
+  ])
 })
 
 test("a landing body naming no such import takes the import with the declaration", async () => {
@@ -256,8 +263,19 @@ test("a landing body naming no such import takes the import with the declaration
 
   expect(said.refused).toBeNull()
   expect(puttingAt(said, TO)).toEqual([
-    `import { join } from "node:path"\n\n${BARE}\nexport const AT = join("a", "b")\n`,
+    `import { join } from "node:path"\n\nexport const AT = join("a", "b")\n\nexport const OTHER = 1\n`,
   ])
+})
+
+test("a landing body that imported what moved no longer imports it", async () => {
+  const world = worldOf({ [FROM]: VALUED, [TO]: IMPORTS_IT }, [TO])
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "AT" })
+
+  expect(said.refused).toBeNull()
+  const put = puttingAt(said, TO).join("")
+  expect(put).not.toContain(`from "./one.held.ts"`)
+  expect(put).toContain(`export const AT = join("a", "b")`)
 })
 
 test("a landing body naming that import from another path is refused", async () => {
