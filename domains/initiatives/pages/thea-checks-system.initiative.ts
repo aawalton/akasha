@@ -14,11 +14,6 @@ export const theaChecksSystem = {
         "2614 refusals remain. 40 of the 53 checks that ran are green. A bare audit no longer finishes. The run is killed at the 300 second ceiling the audit command states, so tests-pass, typecheck and types-file-runs-nothing go unrun and no answer is printed. Two checks hold 53%: no-rule-in-two-files 1046, identifier-matches-its-place 340. A check refusing what no file can change is mended in the check rather than in the files. 414 such refusals are left. Take the worst files first.",
     },
     {
-      statement: "Every codec version the tree reads is round-tripped by a test.",
-      workingMemory:
-        "No codec has a round trip test at any version. The tree reads character v48 and v52 and companion v48 and v49. Real hashes are recorded on the character build pages and every one of them is v52. A test file is held to 5 processor seconds.",
-    },
-    {
       statement: "The addons write the newest codec version.",
       workingMemory:
         "Both shipped addons write version 48. TemperCharacters.lua and TemperCompanions.lua each set ESO_VERSION to 48 and write it as 8 bits. The web app writes character v52 and companion v49. That constant is generated from codec-constants, so the move is a regeneration and a rebuild rather than an edit to the Lua. A build captured by the old addon stays v48 after the move.",
