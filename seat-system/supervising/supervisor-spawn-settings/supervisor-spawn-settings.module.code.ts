@@ -1,7 +1,10 @@
 import { createHash } from "node:crypto"
 import { existsSync, renameSync, writeFileSync } from "node:fs"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
-import { agentSettings } from "../supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
+import {
+  agentSettings,
+  isSettingsDocumentFault,
+} from "../supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 
 const LOG = "[spawn-settings]"
 
@@ -32,6 +35,7 @@ export function refreshedSettings(
 export type SpawnSettingsBase =
   | { readonly kind: "loaded"; readonly settings: Record<string, unknown> }
   | { readonly kind: "absent"; readonly reason: string }
+  | { readonly kind: "refused"; readonly reason: string }
 
 const SETTINGS_OBJECT = shape.record(shape.string(), shape.unknown())
 
@@ -52,10 +56,9 @@ export function readAgentSettingsBase(
   try {
     document = ask()
   } catch (err) {
-    return Promise.resolve({
-      kind: "absent",
-      reason: `\`${AGENT_SETTINGS_MODULE}\` threw: ${err instanceof Error ? err.message : String(err)}`,
-    })
+    const reason = `\`${AGENT_SETTINGS_MODULE}\` threw: ${err instanceof Error ? err.message : String(err)}`
+    if (isSettingsDocumentFault(err)) return Promise.resolve({ kind: "absent", reason })
+    return Promise.resolve({ kind: "refused", reason })
   }
   return Promise.resolve(checkAgentSettings(document))
 }
@@ -76,11 +79,20 @@ function warnAbsent(reason: string): undefined {
   )
 }
 
+function refusalOf(reason: string): string {
+  return (
+    `${LOG} this seat will not spawn: ${reason}.\n` +
+    `${LOG} akasha's hooks and bash environment reach a seat through the agent settings, so a ` +
+    "seat spawned without either looks healthy and guards nothing."
+  )
+}
+
 export async function materializeSpawnSettings(
   overrides: SpawnSettingsOverrides,
   opts?: { readonly ask?: AskAgentSettings; readonly tmpDir?: string }
 ): Promise<string> {
   const base = await readAgentSettingsBase(opts?.ask ?? agentSettings)
+  if (base.kind === "refused") throw new Error(refusalOf(base.reason))
   if (base.kind === "absent") warnAbsent(base.reason)
 
   const payload = composeSpawnSettings(base.kind === "loaded" ? base.settings : null, overrides)

@@ -47,6 +47,15 @@ function refuse(message: string, code: number): never {
   process.exit(code)
 }
 
+export class SettingsDocumentFault extends Error {
+  readonly documentFault = true
+}
+
+export function isSettingsDocumentFault(cause: unknown): boolean {
+  if (cause === null || typeof cause !== "object") return false
+  return (cause as { readonly documentFault?: unknown }).documentFault === true
+}
+
 function parseSettingsDocument(held: unknown, path: string): Record<string, unknown> {
   if (typeof held === "object" && held !== null && !Array.isArray(held)) {
     return held as Record<string, unknown>
@@ -62,7 +71,7 @@ function settingsDocument(raw: string, path: string): Record<string, unknown> {
     const parsed: unknown = JSON.parse(raw)
     return parseSettingsDocument(parsed, path)
   } catch (cause) {
-    throw new Error(
+    throw new SettingsDocumentFault(
       `the agent settings document at ${path} is not a readable JSON object, so nothing is ` +
         `answered about what the fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`
     )
@@ -113,7 +122,7 @@ export function agentSettings(): Record<string, unknown> {
   try {
     raw = readFileSync(path, "utf8")
   } catch (cause) {
-    throw new Error(
+    throw new SettingsDocumentFault(
       `the agent settings document at ${path} could not be read, so nothing is answered ` +
         `about what the fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`
     )

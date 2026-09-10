@@ -39,6 +39,10 @@ export const supervisorAgentSettings = {
       statement: "A document that is absent or is no JSON object is refused rather than emptied.",
     },
     {
+      invariantKind: "departure",
+      statement: "A fault over the settings document carries a mark no fault over a page carries.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes the document or spawns a seat.",
     },

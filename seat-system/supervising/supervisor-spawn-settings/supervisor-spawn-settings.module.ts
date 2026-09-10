@@ -6,6 +6,7 @@ export const supervisorSpawnSettings = {
   slug: "supervisor-spawn-settings",
   definition: "the settings one agent spawn is composed from and written out with",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -18,7 +19,16 @@ export const supervisorSpawnSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "A read that throws leaves the spawn with only its per-spawn overrides.",
+      statement:
+        "A settings document that will not read leaves the spawn carrying the per-spawn overrides.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page or a file the agent settings reach for and miss refuses the spawn.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A document fault is told from a page fault by a mark rather than by a message.",
     },
   ],
 } as const satisfies Module
