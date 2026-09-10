@@ -84,11 +84,11 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost of nothing carries no surplus, an hour of it costing Alan nothing.",
+      statement: "A cost of nothing carries no surplus.",
     },
     {
       invariantKind: "departure",
-      statement: "A surplus missing or too old is not carried, there being no figure to read on.",
+      statement: "A surplus missing or too old is not carried.",
     },
     {
       invariantKind: "departure",
@@ -107,7 +107,7 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement: "No stoplight carries a tier above or a fraction climbed, there being no scale.",
+      statement: "No stoplight carries a tier above or a fraction climbed.",
     },
     {
       invariantKind: "departure",
