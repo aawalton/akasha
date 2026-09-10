@@ -40,8 +40,6 @@ const PACKAGE = "workspace-package"
 
 const DOMAIN = "domain"
 
-const RECORD_PROPERTY = "record-property"
-
 const ONE_OF_PROPERTY = "one-of-property"
 
 const MEMBERS = "members"
@@ -128,7 +126,6 @@ export function declaredBesideIn(
       }
       continue
     }
-    if (said.pageType !== RECORD_PROPERTY) continue
     const value = index.pageByPath(one)
     if (value === null) continue
     for (const carried of index.carriedIn(value, said.slug)) found.push(carried.pagePropertySlug)

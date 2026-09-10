@@ -11,6 +11,7 @@ export const bookOfEverything = {
     "page-type/mastery-level",
     "module/topic-tree",
     "module/seeded-draw",
+    "domain/book-of-everything-commands",
   ],
   invariants: [
     {

@@ -11,7 +11,6 @@ export const library = {
     "domain/watching",
     "domain/reading",
     "domain/book-of-everything",
-    "domain/book-of-everything-commands",
     "domain/learn-everything",
     "domain/litrpg-books",
     "page-type/litrpg-collection",

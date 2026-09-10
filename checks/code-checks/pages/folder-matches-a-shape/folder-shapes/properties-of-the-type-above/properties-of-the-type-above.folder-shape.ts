@@ -35,7 +35,7 @@ export const propertiesOfTheTypeAbove = {
     {
       invariantKind: "departure",
       statement:
-        "A field declared by a record property beside a property page is declared by that page type too.",
+        "A field declared by a property page beside a property page is declared by that page type too.",
     },
     {
       invariantKind: "departure",
