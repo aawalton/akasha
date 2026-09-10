@@ -81,22 +81,6 @@ function byText(a: string, b: string): number {
   return a.localeCompare(b)
 }
 
-function propertiesNode(id: string, rows: readonly PropertyRow[]): PageNode | null {
-  if (rows.length === 0) {
-    return null
-  }
-  const children = [...rows]
-    .sort((a, b) => byText(a.key, b.key) || byText(a.slug, b.slug))
-    .map((row) => ({
-      id: `${id}/${row.slug}`,
-      label: row.key,
-      at: row.at,
-      detail: row.type,
-      children: [],
-    }))
-  return { id, label: "properties", at: null, detail: null, children }
-}
-
 function detailOfType(row: PropertyTypeRow): string | null {
   if (row.kind === "constant" && row.of !== null && row.value !== null) {
     return `${row.of} = ${row.value}`
@@ -195,7 +179,6 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
   const build = (slug: string, id: string, own: boolean, opened: readonly string[]): PageNode => {
     reached.add(slug)
     const row = types.get(slug) as TypeRow
-    const props = propertiesNode(`${id}/properties`, definedOn.get(`${ON_TYPE}/${slug}`) ?? [])
     const under = [...opened, slug]
     const kids = (children.get(slug) ?? [])
       .filter((one) => !under.includes(one))
@@ -208,7 +191,7 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
       label: slug,
       at: row.at,
       detail: null,
-      children: props === null ? kids : [props, ...kids],
+      children: kids,
     }
   }
   const typeRoots = rootSlugs.map((slug) => build(slug, `${TYPE_ID}/${slug}`, true, []))
@@ -226,19 +209,13 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
       children: propertyTypes
         .filter((row) => row.kind === kind)
         .sort((a, b) => byText(a.typeSlug, b.typeSlug))
-        .map((row) => {
-          const props = propertiesNode(
-            `ptype/${row.typeSlug}/properties`,
-            definedOn.get(`${ON_PROPERTY_TYPE}/${row.typeSlug}`) ?? []
-          )
-          return {
-            id: `ptype/${row.typeSlug}`,
-            label: row.typeSlug,
-            at: row.at,
-            detail: detailOfType(row),
-            children: props === null ? [] : [props],
-          }
-        }),
+        .map((row) => ({
+          id: `ptype/${row.typeSlug}`,
+          label: row.typeSlug,
+          at: row.at,
+          detail: detailOfType(row),
+          children: [],
+        })),
     })),
   }
 

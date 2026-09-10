@@ -84,11 +84,32 @@ test("everything under a second drawing carries an id of its own", () => {
 
   const ids = idsIn(said.roots)
 
-  expect(ids).toContain("type/computed-property/properties/holds")
-  expect(ids).toContain("type/page-property/computed-property/properties/holds")
   expect(ids).toContain("type/faith-points")
   expect(ids).toContain("type/page-property/computed-property/faith-points")
   expect(new Set(ids).size).toBe(ids.length)
+})
+
+test("a property a page type declares is drawn nowhere", () => {
+  const said = assemblePageTree(
+    answersOf(
+      [typeRow("page", []), typeRow("computed-property", ["page"])],
+      [
+        {
+          at: "akasha:one/holds.text-property.ts",
+          values: {
+            slug: "holds",
+            key: "holds",
+            "defined-on-slug": "page-type/computed-property",
+            type: "text",
+          },
+        },
+      ]
+    ),
+    REPO
+  )
+
+  expect(idsIn(said.roots)).toEqual(["type/page", "type/computed-property", "vocabulary"])
+  expect(said.unreached).toEqual([])
 })
 
 test("a ring among the types above ends the drawing rather than going round again", () => {
