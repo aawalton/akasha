@@ -33,9 +33,13 @@ export function dayGap(a: string, b: string): number {
 
 const LAST_FOUR = /\(\.\.\.(\d{4})\)\s*$/
 
+function parseLastFour(found: RegExpExecArray | null): string | null {
+  return found?.[1] ?? null
+}
+
 export function accountKey(title: string): string {
-  const found = LAST_FOUR.exec(title.trim())
-  return found?.[1] ?? title.trim().toLowerCase()
+  const titled = title.trim()
+  return parseLastFour(LAST_FOUR.exec(titled)) ?? titled.toLowerCase()
 }
 
 export const UNCATEGORIZED = "Uncategorized"
