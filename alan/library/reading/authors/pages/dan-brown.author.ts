@@ -1,4 +1,4 @@
-import type { Author } from "../author.page-type.ts"
+import type { Author } from "../author.page-type.types.ts"
 
 export const danBrown = {
   id: "01a06807-f091-7005-99a3-b9b3592c2280",

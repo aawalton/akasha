@@ -1,4 +1,4 @@
-import type { Author } from "../author.page-type.ts"
+import type { Author } from "../author.page-type.types.ts"
 
 export const garthNix = {
   id: "01a06807-f091-700f-a911-bbe08202a969",
