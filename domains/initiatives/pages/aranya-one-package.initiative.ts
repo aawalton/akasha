@@ -16,6 +16,8 @@ export const aranyaOnePackage = {
     },
     {
       statement: "A native app deploys naming no package but the root.",
+      workingMemory:
+        "The mac build does `cd <nativeShellDir>`, `bun install`, `bun run ios:add` in `foundation.module.code.ts`, so each of the three ios-app folders is installed on its own — which `Package Only When Needed` names as exactly when a folder needs to be a package. Nothing reaches them by name: they are `@alanwalton/*-native-shell`, their dependencies are Capacitor plugins and their scripts are `cap` calls. So this intent waits on the mac build installing at the root instead.",
     },
     {
       statement:
