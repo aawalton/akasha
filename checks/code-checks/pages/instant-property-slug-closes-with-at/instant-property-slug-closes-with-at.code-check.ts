@@ -10,7 +10,7 @@ export const instantPropertySlugClosesWithAt = {
   runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
