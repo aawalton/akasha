@@ -38,7 +38,7 @@ export const serviceAlerting = {
     },
     {
       invariantKind: "departure",
-      statement: "A service that mends is held by nothing, so breaking again is told at once.",
+      statement: "A service that mends is held by nothing.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +54,7 @@ export const serviceAlerting = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here sends a message, reads a unit or opens a file.",
+      statement: "Nothing here sends a message or reads a unit or opens a file.",
     },
   ],
 } as const satisfies Module

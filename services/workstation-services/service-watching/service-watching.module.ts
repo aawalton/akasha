@@ -51,8 +51,11 @@ export const serviceWatching = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A verdict is left before any telling, so a run that cannot tell still leaves one.",
+      statement: "A verdict is left before any telling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that cannot tell still leaves a verdict.",
     },
     {
       invariantKind: "gap",
