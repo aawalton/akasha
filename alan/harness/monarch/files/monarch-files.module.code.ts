@@ -7,6 +7,7 @@ import {
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const roots = resolveRoots()
 
@@ -44,6 +45,32 @@ export type TransactionLine = {
   readonly split?: boolean
   readonly needsReview?: boolean
   readonly amazonOrderNumber?: string
+}
+
+const TRANSACTION_LINE = shape.object({
+  id: shape.string(),
+  monarchId: shape.string(),
+  monarchUpdatedAt: shape.string().optional(),
+  transactionDay: shape.string(),
+  amount: shape.number(),
+  statementLine: shape.string().optional(),
+  merchant: shape.string().optional(),
+  accountName: shape.string().optional(),
+  account: shape.string().optional(),
+  category: shape.string().optional(),
+  categorySource: shape.string().optional(),
+  categoryDecidedBy: shape.string().optional(),
+  tags: shape.array(shape.string()).optional(),
+  transactionNote: shape.string().optional(),
+  pending: shape.boolean().optional(),
+  recurring: shape.boolean().optional(),
+  split: shape.boolean().optional(),
+  needsReview: shape.boolean().optional(),
+  amazonOrderNumber: shape.string().optional(),
+})
+
+export function parseTransactionLine(line: string): TransactionLine {
+  return TRANSACTION_LINE.parse(JSON.parse(line))
 }
 
 export interface MonthPage {
@@ -140,7 +167,7 @@ async function linesOf(slug: string): Promise<readonly TransactionLine[]> {
     .filter((line) => line.trim() !== "")
     .map((line, i) => {
       try {
-        return JSON.parse(line) as TransactionLine
+        return parseTransactionLine(line)
       } catch {
         throw new Error(`${sidecarOf(slug)} line ${i + 1} is not one JSON object`)
       }

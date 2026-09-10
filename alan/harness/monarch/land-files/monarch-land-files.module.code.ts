@@ -4,6 +4,7 @@ import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-cha
 import { AKASHA as AKASHA_REPO } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
 import type { MonarchTransaction } from "../client/monarch-client.module.code.ts"
 import type { PageFile, TransactionLine } from "../files/monarch-files.module.code.ts"
 import {
@@ -14,6 +15,7 @@ import {
   monthOf,
   monthPagePath,
   monthSlugs,
+  parseTransactionLine,
   sidecarOf,
   tagPages,
 } from "../files/monarch-files.module.code.ts"
@@ -116,15 +118,17 @@ export function lineOf(t: MonarchTransaction, maps: SlugMaps): TransactionLine |
 }
 
 async function existing(slug: string): Promise<readonly TransactionLine[]> {
+  let text: string
   try {
-    const text = await readFile(join(AKASHA, sidecarOf(slug)), "utf8")
-    return text
-      .split("\n")
-      .filter((one) => one.trim() !== "")
-      .map((one) => JSON.parse(one) as TransactionLine)
-  } catch {
-    return []
+    text = await readFile(join(AKASHA, sidecarOf(slug)), "utf8")
+  } catch (thrown) {
+    if (isMissing(thrown)) return []
+    throw thrown
   }
+  return text
+    .split("\n")
+    .filter((one) => one.trim() !== "")
+    .map((one) => parseTransactionLine(one))
 }
 
 function monthPage(slug: string): string {
