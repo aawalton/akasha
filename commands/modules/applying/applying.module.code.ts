@@ -20,7 +20,7 @@ import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import { refusalsKept } from "../refusals-keeping/refusals-keeping.module.code.ts"
 
-const NOTHING_HELD = "no bodies were handed in, so nothing is there to apply"
+const NOTHING_HELD = "no rows were handed in, so nothing is there to apply"
 
 const UNEXPORTABLE = "nothing was applied — a page whose slug names no export does not apply"
 

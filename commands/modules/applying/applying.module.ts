@@ -5,7 +5,7 @@ export const applying = {
   pageTypeSlug: "module",
   type: "module",
   slug: "applying",
-  definition: "the bodies an agent has answered landed onto the tree as one commit",
+  definition: "the rows an agent has answered landed onto the tree as one commit",
   code: "ts",
   test: "ts",
   invariants: [
@@ -20,7 +20,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "The message saying no patch is kept is worded here rather than by a command.",
+      statement: "The message saying no edits are kept is worded here rather than by a command.",
     },
     {
       invariantKind: "departure",
@@ -36,11 +36,11 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "The bodies an apply lands are handed in.",
+      statement: "The rows an apply lands are handed in.",
     },
     {
       invariantKind: "departure",
-      statement: "An apply handed no bodies refuses rather than reading a patch off disk.",
+      statement: "An apply handed no rows refuses rather than reading edits off disk.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +60,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A move the bodies handed in name is handed on beside the caller's moves.",
+      statement: "A move handed in beside the rows is handed on beside the caller's moves.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +80,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the patch leaves is formatted before the gate judges that body.",
+      statement: "A body a row leaves is formatted before the gate judges that body.",
     },
     {
       invariantKind: "departure",
@@ -150,11 +150,11 @@ export const applying = {
     {
       invariantKind: "departure",
       statement:
-        "An apply whose patch owes its readers no reading carries their readings onto the bodies applied.",
+        "An apply whose rows owe their readers no reading carries those readings onto the bodies applied.",
     },
     {
       invariantKind: "departure",
-      statement: "An apply whose patch owes its readers reading has no reading.",
+      statement: "An apply whose rows owe their readers a reading carries no reading.",
     },
     {
       invariantKind: "departure",
@@ -163,15 +163,15 @@ export const applying = {
     },
     {
       invariantKind: "gap",
-      statement: "A path the patch renamed has the reading of the body that path came from.",
+      statement: "A path a move renamed has the reading of the body that path came from.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing is applied where no bodies are handed in.",
+      statement: "Nothing is applied where no rows are handed in.",
     },
     {
       invariantKind: "departure",
-      statement: "An apply over a patch that is mechanical runs no check.",
+      statement: "An apply over rows that are mechanical runs no check.",
     },
     {
       invariantKind: "departure",
@@ -179,7 +179,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply over a patch that is not mechanical is judged as any authored apply is.",
+      statement: "An apply over rows that are not mechanical is judged as any authored apply is.",
     },
     {
       invariantKind: "departure",
