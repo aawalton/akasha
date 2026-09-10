@@ -45,7 +45,7 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "A section list is a property slug, or a group slug and then a member slug.",
+      statement: "A section list is a property slug or a group slug and then a member slug.",
     },
     {
       invariantKind: "departure",
