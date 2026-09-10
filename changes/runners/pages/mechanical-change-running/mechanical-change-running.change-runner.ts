@@ -25,7 +25,7 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "absence",
-      statement: "No agent change is named here, as the map beside this has none.",
+      statement: "No agent change is named here.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A change that refuses stops the fold, so no change after that change runs.",
+      statement: "A change that refuses stops the fold.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +69,7 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A mechanical change runs no check, as the kind of change it is declares.",
+      statement: "A mechanical change runs no check.",
     },
     {
       invariantKind: "departure",
@@ -85,7 +85,7 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that moved since the read a caller states refuses the landing.",
+      statement: "A body that moved after the read a caller states refuses the landing.",
     },
     {
       invariantKind: "departure",
@@ -93,11 +93,11 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "absence",
-      statement: "No page is named here, as a landing keeps nothing beside a page.",
+      statement: "No page is named here.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes the tree, as the landing this reaches writes the tree.",
+      statement: "Nothing here writes the tree.",
     },
   ],
 } as const satisfies ChangeRunner
