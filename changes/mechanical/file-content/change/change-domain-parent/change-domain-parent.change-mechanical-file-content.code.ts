@@ -7,7 +7,11 @@ import {
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { heldIn, readFor } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
+import {
+  afterIn,
+  heldIn,
+  readFor,
+} from "../../../../modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
@@ -93,10 +97,16 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   })
   if (taken.said.refused !== null) return taken.said
   const bare = gaining.value[PARTS] === undefined
-  const put = await reach(taken.world, bare ? ADD_PAGE_PROPERTY : ADD_PROPERTY_VALUE, {
+  const placed = afterIn(world, gaining.value, PARTS)
+  const asked = {
     at: to.path,
     key: PARTS,
     value: bare ? JSON.stringify([spelled]) : spelled,
-  })
+  }
+  const put = await reach(
+    taken.world,
+    bare ? ADD_PAGE_PROPERTY : ADD_PROPERTY_VALUE,
+    placed === null ? asked : { ...asked, after: placed }
+  )
   return gathered([taken.said, put.said])
 }

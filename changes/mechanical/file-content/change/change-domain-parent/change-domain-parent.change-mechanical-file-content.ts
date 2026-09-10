@@ -68,6 +68,10 @@ export const changeDomainParent = {
       invariantKind: "departure",
       statement: "The list is put in by the change putting a key in rather than a value.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The list gained is written where the pages of the parent's type write that key.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

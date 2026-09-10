@@ -1,5 +1,6 @@
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
+import { afterIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 import {
   isLedger,
   ledgerAt,
@@ -24,9 +25,13 @@ export type AddPropertyToEveryPageAsked = {
   readonly after?: string
 }
 
-function asking(given: AddPropertyToEveryPageAsked, at: string): Record<string, string> {
+function asking(
+  given: AddPropertyToEveryPageAsked,
+  at: string,
+  placed: string | null
+): Record<string, string> {
   const held = { at, key: given.key, value: given.value }
-  return given.after === undefined ? held : { ...held, after: given.after }
+  return placed === null ? held : { ...held, after: placed }
 }
 
 export async function addPropertyToEveryPage(
@@ -48,8 +53,11 @@ export async function addPropertyToEveryPage(
   let over: World = isLedger(world)
     ? world
     : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
+  const valued = world.index.valuesByPath(given.pageType)
   for (const one of listed) {
-    const reached = await reach(over, ADD_PAGE_PROPERTY, asking(given, one.path))
+    const value = valued.get(one.path)
+    const placed = given.after ?? (value === undefined ? null : afterIn(world, value, given.key))
+    const reached = await reach(over, ADD_PAGE_PROPERTY, asking(given, one.path, placed))
     if (reached.said.refused !== null) {
       return refusing(`\`${one.path}\` is refused, and ${reached.said.refused}`)
     }

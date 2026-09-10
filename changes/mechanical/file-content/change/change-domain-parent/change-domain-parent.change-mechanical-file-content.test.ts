@@ -56,6 +56,7 @@ type Told = {
   readonly namers: readonly string[]
   readonly page?: Value | null
   readonly under?: Value
+  readonly valued?: ReadonlyMap<string, Value>
 }
 
 function pageAt(told: Told, at: string): Value | null | undefined {
@@ -83,6 +84,7 @@ function worldTold(told: Told): World {
       idsNaming: () => told.namers,
       knownIn: () => known,
       pageByPath: (at: string) => pageAt(told, at),
+      valuesByPath: () => told.valued ?? new Map<string, Value>(),
     } as never,
     textOf: () => null,
     bodyOf: () => null,
@@ -146,6 +148,29 @@ test("a parent stating no parts gains the list rather than being refused", async
     at: UNDER,
     key: "parts",
     value: `["command/imessage-contacts"]`,
+  })
+})
+
+const NAMESPACES = new Map<string, Value>([
+  [
+    "command-system/namespaces/pages/other.namespace.ts",
+    { id: NAMESPACE, pageTypeSlug: "namespace", slug: "other", parts: [], definition: "one" },
+  ],
+])
+
+test("the parts key gained is written where the pages of that type write it", async () => {
+  const kept: Reached[] = []
+
+  await runChange(
+    watching(worldTold({ namers: [PACKAGE], under: EMPTY, valued: NAMESPACES }), kept),
+    ASKED
+  )
+
+  expect(kept[1]?.given).toEqual({
+    at: UNDER,
+    key: "parts",
+    value: `["command/imessage-contacts"]`,
+    after: "slug",
   })
 })
 

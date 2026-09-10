@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { runChange as addKey } from "../../../mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {
@@ -54,17 +55,35 @@ const MANY: Carried = { ...DECLARED, key: "partOfSlugs", many: true }
 
 function pagesIn(
   bodies: Readonly<Record<string, string>>,
-  carried: readonly Carried[] | null
+  carried: readonly Carried[] | null,
+  valued: ReadonlyMap<string, Value> = new Map<string, Value>()
 ): World {
   return {
     ...worldOf(bodies),
     index: {
       everyOfType: () => Object.keys(bodies).map((path) => ({ path, id: path })),
       propertiesIfNamed: () => carried,
+      valuesByPath: () => valued,
     } as never,
     reaching: RUNS,
   }
 }
+
+const THREE_AT = "alan/books/three.book-section.ts"
+
+const VALUED = new Map<string, Value>([
+  [ONE_AT, { pageTypeSlug: "book-section", slug: "one", partOfSlugs: ["solar-power"] }],
+  [TWO_AT, { pageTypeSlug: "book-section", slug: "two", partOfSlugs: ["my-faith"] }],
+  [
+    THREE_AT,
+    {
+      pageTypeSlug: "book-section",
+      slug: "three",
+      sectionOfSlug: "solar-power",
+      partOfSlugs: ["my-faith"],
+    },
+  ],
+])
 
 const SECTION_OF = { pageType: "book-section", key: "sectionOfSlug", value: '"solar-power"' }
 
@@ -86,6 +105,26 @@ test("the key is written after the property `after` names", async () => {
 
   expect(bodiesIn(said, world.base).get(ONE_AT) ?? "").toContain(
     `slug: "one",\n  sectionOfSlug: "solar-power",`
+  )
+})
+
+test("the key is written where the pages of that page type write that key", async () => {
+  const world = pagesIn(BODIES, [DECLARED], VALUED)
+
+  const said = await addPropertyToEveryPage(world, SECTION_OF)
+
+  const bodies = bodiesIn(said, world.base)
+  expect(bodies.get(ONE_AT) ?? "").toContain(`slug: "one",\n  sectionOfSlug: "solar-power",`)
+  expect(bodies.get(TWO_AT) ?? "").toContain(`slug: "two",\n  sectionOfSlug: "solar-power",`)
+})
+
+test("a page the index files no value for is written last", async () => {
+  const world = pagesIn(BODIES, [DECLARED], new Map<string, Value>())
+
+  const said = await addPropertyToEveryPage(world, SECTION_OF)
+
+  expect(bodiesIn(said, world.base).get(ONE_AT) ?? "").toContain(
+    `partOfSlugs: ["solar-power"],\n  sectionOfSlug: "solar-power",`
   )
 })
 

@@ -60,6 +60,26 @@ export const addPropertyToEveryPage = {
       invariantKind: "departure",
       statement: "The value is handed on as the body spells it rather than as text to quote.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The key is put in where the pages of that page type write that key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An `after` the caller states is handed on rather than worked out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which keys a page writes is read from the value the index files for that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page the index files no value for gains the key last.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every page is placed by the pages as they were before this change ran.",
+    },
   ],
   changeKind: "change-checked",
 } as const satisfies ChangeAgent
