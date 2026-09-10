@@ -49,7 +49,7 @@ export const landingSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a draft's patch is kept is named in the report.",
+      statement: "Where a draft's edits are kept is named in the report.",
     },
     {
       invariantKind: "departure",

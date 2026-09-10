@@ -37,7 +37,7 @@ test("checks that will not load refuse the change, and nothing reaches the disk"
   expect(headOf(root)).toBe(was)
 })
 
-test("the glass carries a patch past checks that will not load, and the commit says why", async () => {
+test("the glass carries a change past checks that will not load, and the commit says why", async () => {
   const root = repoNoCheckLoads()
   expect(seeded(root)).toBe(true)
   const said = await applied(

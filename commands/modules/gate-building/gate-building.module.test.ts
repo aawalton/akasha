@@ -46,7 +46,7 @@ test("the index is kept by what that path answers, loaded rather than imported",
   expect(typeof indexingLoaded()).toBe("function")
 })
 
-test("a gate is built over the pages, naming the checks that will judge a patch", () => {
+test("a gate is built over the pages, naming the checks that will judge a change", () => {
   const said = gateBuilt(HERE)
   expect("gate" in said).toBe(true)
   expect("gate" in said ? said.gate.named.length : 0).toBeGreaterThan(0)

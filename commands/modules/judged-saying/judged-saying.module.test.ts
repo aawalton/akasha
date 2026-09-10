@@ -39,12 +39,12 @@ test("a landing names what judged it, and says so when nothing did", () => {
   )
 })
 
-test("a draft names how many paths the patch would leave were judged", () => {
+test("a draft names how many paths the change would leave were judged", () => {
   expect(judgedOver(count, 1, 1, 1)).toBe(
-    "1 check judged the 1 path the patch would leave, and none refused"
+    "1 check judged the 1 path the change would leave, and none refused"
   )
   expect(judgedOver(count, 0, 2, 2)).toBe(
-    "no check runs at this phase, so the 2 paths the patch would leave went unjudged"
+    "no check runs at this phase, so the 2 paths the change would leave went unjudged"
   )
 })
 
@@ -56,7 +56,7 @@ test("a count over paths no check reached says nothing was judged rather than co
     "no check judges a path outside this checkout, so the 1 path asked for would go unjudged"
   )
   expect(judgedOver(count, 40, 0, 2)).toBe(
-    "no check judges a path outside this checkout, so the 2 paths the patch would leave went unjudged"
+    "no check judges a path outside this checkout, so the 2 paths the change would leave went unjudged"
   )
 })
 
@@ -66,23 +66,23 @@ test("a count over a mix says how many of what was asked for was judged", () => 
   )
   expect(passedOver(count, 12, 3, 5)).toBe("12 checks passed over 3 of the 5 paths asked for")
   expect(judgedOver(count, 40, 1, 3)).toBe(
-    "40 checks judged 1 of the 3 paths the patch would leave, and none refused"
+    "40 checks judged 1 of the 3 paths the change would leave, and none refused"
   )
 })
 
 test("a draft nothing refused is counted and says nothing more", () => {
   expect(draftSaid(count, 2, [INSIDE], [], [])).toEqual([
-    "2 checks judged the 1 path the patch would leave, and none refused",
+    "2 checks judged the 1 path the change would leave, and none refused",
   ])
 })
 
-test("a draft a check refused names what refused and says the patch waits on it", () => {
+test("a draft a check refused names what refused and says the change waits on it", () => {
   const refused = [{ path: INSIDE, reason: "refused for the test" }]
   expect(draftSaid(count, 2, [INSIDE], refused, ["akasha/two.ts"])).toEqual([
-    "2 checks judged the 1 path the patch would leave, and these refused",
+    "2 checks judged the 1 path the change would leave, and these refused",
     "akasha/one.ts — refused for the test",
-    "the patch is judged whole, so it applies once every path it holds passes",
-    "akasha/two.ts carries a conflict — resolve it in the patch before the patch applies",
+    "the change is judged whole, so it applies once every path it holds passes",
+    "akasha/two.ts carries a conflict — resolve it in the change before the change applies",
   ])
 })
 

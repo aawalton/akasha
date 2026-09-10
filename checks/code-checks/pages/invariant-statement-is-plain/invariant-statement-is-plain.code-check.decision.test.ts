@@ -58,12 +58,12 @@ test("`since` states a reason as `because` does", () => {
 
 test("a comma joins a second fact and is refused", () => {
   const body = paged(
-    JSON.stringify("Patch judges only the paths a change carries, so it is turned on.")
+    JSON.stringify("The change phase judges only the paths a change carries, so it is on.")
   )
   const said = marked(AT, body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("line 3 joins a second fact at `,`")
-  expect(said[0]).toContain("so it is turned on.")
+  expect(said[0]).toContain("so it is on.")
   expect(said[0]).toContain("cut what only explains or follows from the first")
 })
 

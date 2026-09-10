@@ -12,9 +12,9 @@ const THESE_REFUSED = ", and these refused"
 
 const ASKED = "asked for"
 
-const CLASHED = " carries a conflict — resolve it in the patch before the patch applies"
+const CLASHED = " carries a conflict — resolve it in the change before the change applies"
 
-const HOLDS_BACK = "the patch is judged whole, so it applies once every path it holds passes"
+const HOLDS_BACK = "the change is judged whole, so it applies once every path it holds passes"
 
 type Said = {
   readonly of: string
@@ -27,7 +27,7 @@ const OVER: Said = { of: ASKED, went: "would go", did: "passed over", tail: "" }
 
 const LANDED: Said = { of: ASKED, went: "landed", did: "judged", tail: NONE_REFUSED }
 
-const LEFT = "the patch would leave"
+const LEFT = "the change would leave"
 
 const DRAFTED: Said = { of: LEFT, went: "went", did: "judged", tail: NONE_REFUSED }
 
