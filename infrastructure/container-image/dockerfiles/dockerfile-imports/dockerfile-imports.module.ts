@@ -7,6 +7,7 @@ export const dockerfileImports = {
   slug: "dockerfile-imports",
   definition: "the folders a service's entry files actually reach by import",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
