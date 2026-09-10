@@ -42,7 +42,6 @@ export const akasha = {
     "domain/inference",
     "domain/mathematics",
     "domain/technology",
-    "domain/all-about-alan",
     "domain/machines",
     "domain/games",
     "domain/language-design",

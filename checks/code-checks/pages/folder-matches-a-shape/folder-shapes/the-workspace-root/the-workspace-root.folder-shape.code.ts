@@ -7,7 +7,6 @@ const ROOT = ""
 const ALLOWED = new Set<string>([
   "agents",
   "alan",
-  "all-about-alan",
   "changes",
   "checks",
   "commands",
