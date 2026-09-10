@@ -19,8 +19,11 @@ export const stateReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "One watcher serves every part of the editor rather than one watcher for each part.",
+      statement: "Each part's file sits in a folder of that part's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One watcher serves every part reading one folder rather than one for each part.",
     },
     {
       invariantKind: "departure",
@@ -51,12 +54,8 @@ export const stateReading = {
       statement: "A read that is saved changes nothing a caller can see.",
     },
     {
-      invariantKind: "gap",
-      statement: "A test fails where the name filter is taken out.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "The name filter is shown by the count of events a folder raises.",
+      invariantKind: "departure",
+      statement: "A part is told of no write another part's folder takes.",
     },
   ],
 } as const satisfies Module

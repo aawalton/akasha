@@ -59,7 +59,7 @@ type Picture = {
 }
 
 function stateFileFor(root: string, slug: string): string {
-  return join(root, INTERFACES_AT, `${slug}${STATE_TAIL}`)
+  return join(root, INTERFACES_AT, slug, `${slug}${STATE_TAIL}`)
 }
 
 function writeLine(root: string, slug: string, line: string): undefined {

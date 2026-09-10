@@ -18,7 +18,8 @@ let at: string
 
 beforeEach(() => {
   root = scratch.rootFor("state-reading-")
-  mkdirSync(join(root, PAGES_AT), { recursive: true })
+  mkdirSync(join(root, PAGES_AT, SLUG), { recursive: true })
+  mkdirSync(join(root, PAGES_AT, "agent-tree"), { recursive: true })
   at = stateAt(root, SLUG)
 })
 

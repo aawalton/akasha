@@ -1,5 +1,3 @@
-// The agents panel. A seat holds its subagents as children.
-
 declare type AgentTreeRow = TreeRow & {
   readonly kind: "seat" | "subagent"
   readonly live: boolean
