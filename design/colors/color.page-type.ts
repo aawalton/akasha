@@ -24,12 +24,19 @@ export const color = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Each hex here is a shade the palette draws, under a plain name rather than the source's.",
+      statement: "Each hex here is a shade the palette draws.",
     },
     {
       invariantKind: "departure",
-      statement: "The neutrals run from soot up to chalk, and grey sits between stone and silver.",
+      statement: "A hex here has a plain name rather than the source's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The neutrals run from soot up to chalk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Grey sits between stone and silver.",
     },
     {
       invariantKind: "departure",
