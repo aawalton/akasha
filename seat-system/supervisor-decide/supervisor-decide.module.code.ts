@@ -35,13 +35,13 @@ import { decideClaimedRedelivery } from "../messaging/supervisor-claimed-redeliv
 
 const NUDGE_NOTICE = "limit-resume-nudge"
 const WAIT_NUDGE_NOTICE = "wait-resume-nudge"
-const NOTICE_OWNER = "seat-system/compose-notices/compose-notices.module.code.ts"
+const NOTICE_OWNER = "compose-notices"
 
 function requireNotice(all: Readonly<Record<string, string>>, key: string): string {
   const text = all[key]
   if (text === undefined) {
     throw new Error(
-      `no notice is called \`${key}\` — ${NOTICE_OWNER} owns that name and the document behind ` +
+      `no notice is called \`${key}\` — \`${NOTICE_OWNER}\` owns that name and the document behind ` +
         "it, and a notice carrying nothing would reach a seat as an empty turn"
     )
   }

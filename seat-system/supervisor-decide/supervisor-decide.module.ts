@@ -34,6 +34,10 @@ export const supervisorDecide = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal names the module owning the notice by slug rather than by path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The notices are rendered by the compose module beside this module.",
     },
   ],
