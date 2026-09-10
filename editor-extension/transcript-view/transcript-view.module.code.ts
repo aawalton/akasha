@@ -71,12 +71,6 @@ export function openTranscriptPanel(
     return undefined
   }
 
-  // WHERE THE TRANSCRIPT IS COSTS A CHILD PROCESS, SO IT IS ASKED FOR ONLY WHERE IT CAN HAVE
-  // MOVED. An append changes the file already being read and moves nothing, while a rotation
-  // writes a file beside it under a name of its own. So the answer is asked for again only where
-  // the folder holding the transcript raises a name other than the one in hand, and where it
-  // raises no name at all, which some hosts do: a rotation gone unnoticed would freeze this
-  // panel on a file nothing writes to any more.
   let owedResolve = true
 
   const resolvePath = async (): Promise<string | null> => {
@@ -90,13 +84,6 @@ export function openTranscriptPanel(
     return (await seatTranscriptOf(target.agentId))?.transcriptPath ?? null
   }
 
-  // THE FOLDERS THIS PANEL IS FED BY. A transcript is appended to rather than replaced, so the
-  // file keeps its inode and could be watched directly; the folder is watched instead because a
-  // rotation writes a file beside it, and one watcher then catches the append and the rotation
-  // alike. The subagents folder is the reader's second source and is watched the same way.
-  //
-  // A folder that is not there yet throws rather than being waited for, and the next read tries
-  // again — which is what brings the subagents folder under watch the moment it is made.
   const watching = new Set<string>()
   const watchers: FSWatcher[] = []
 
@@ -194,10 +181,6 @@ export function openTranscriptPanel(
     return undefined
   }
 
-  // A WRITE ARRIVING MID-READ IS READ FOR RATHER THAN DROPPED. Appends land in bursts, so waiting
-  // on the read in flight and returning would lose whatever arrived while it ran, and the panel
-  // would sit behind the file until the next write. The rule was spelled here and again in two
-  // other panels, and both of those spellings dropped what arrived; it is one module now.
   const reading = newestWins<undefined>(runOnce)
 
   const tick = (): Promise<undefined> => reading(undefined)
