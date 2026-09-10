@@ -1,21 +1,19 @@
 import { homedir } from "node:os"
 import { join } from "node:path"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const DEFAULT_PORT = "8676"
 
 export function portIn(): string {
-  const held = process.env.WAN_PORT
-  return held === undefined || held === "" ? DEFAULT_PORT : held
+  return optionalEnv("WAN_PORT") ?? DEFAULT_PORT
 }
 
 export function homeIn(): string {
-  const held = process.env.WAN_HOME
-  return held === undefined || held === "" ? join(homedir(), ".local", "share", "wan") : held
+  return optionalEnv("WAN_HOME") ?? join(homedir(), ".local", "share", "wan")
 }
 
 export function imageIn(): string {
-  const held = process.env.WAN_IMAGE
-  return held === undefined || held === "" ? "wan:local" : held
+  return optionalEnv("WAN_IMAGE") ?? "wan:local"
 }
 
 export function spawned(argv: readonly string[]): Bun.Subprocess<"ignore", "pipe", "pipe"> | null {
