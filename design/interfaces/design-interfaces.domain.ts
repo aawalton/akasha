@@ -14,6 +14,7 @@ export const designInterfaces = {
     "domain/design-layout",
     "domain/design-patterns",
     "domain/design-primitives",
+    "domain/design-system",
   ],
   invariants: [
     {
