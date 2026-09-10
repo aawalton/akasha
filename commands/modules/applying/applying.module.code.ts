@@ -7,9 +7,9 @@ import { said as gitSaid } from "../../../git/running/git-running.module.code.ts
 import type { Given as Arguments } from "../argument-reading/argument-reading.module.code.ts"
 import { bypassedIn, glassSaid, mistaking, unloadableIn } from "../asking/asking.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { preparing, rowsOf } from "../change-preparing/change-preparing.module.code.ts"
+import { preparing } from "../change-preparing/change-preparing.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import { type Bodies, owedOf, type Running } from "../drafting/drafting.module.code.ts"
+import type { Running } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { landing, type Refused } from "../landing/landing.module.code.ts"
@@ -21,8 +21,6 @@ import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/readin
 import { refusalsKept } from "../refusals-keeping/refusals-keeping.module.code.ts"
 
 const NOTHING_HELD = "no bodies were handed in, so nothing is there to apply"
-
-const KEPT_AS_IT_WAS = "nothing was applied — the edits are as the edits were"
 
 const UNEXPORTABLE = "nothing was applied — a page whose slug names no export does not apply"
 
@@ -66,12 +64,16 @@ export function noneSaid(root: string, page: string): string {
   return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
 }
 
+export function pathsIn(rows: readonly FileChange[]): readonly string[] {
+  return rows.map((one) => (one.kind === "move" ? one.pathTo : one.path))
+}
+
 export function messageFor(
   said: string | null,
-  held: Bodies,
+  rows: readonly FileChange[],
   moves: readonly FileMove[] = []
 ): string {
-  return said ?? defaultMessage(APPLIES, [...held.keys(), ...moves.map((one) => one.to)])
+  return said ?? defaultMessage(APPLIES, [...pathsIn(rows), ...moves.map((one) => one.to)])
 }
 
 export type Applying = Answer & { readonly landed: boolean }
@@ -141,7 +143,7 @@ export async function applying(
   const built0 = broken === null && "gate" in built ? built.gate : NO_GATE
   const gate = asked.measure ? measured(built0) : built0
   const unloaded = "gate" in built ? null : built.broken
-  const said0 = messageFor(asked.message, carried.held, carried.moves)
+  const said0 = messageFor(asked.message, carried.rows, carried.moves)
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   if (asked.measure) process.env[MEASURING] = MARK
@@ -176,10 +178,11 @@ export async function applying(
 }
 
 export type Carried = {
-  readonly held: Bodies
+  readonly rows: readonly FileChange[]
   readonly running: Running
   readonly moves?: readonly FileMove[]
   readonly formatted?: ReadonlyMap<string, Uint8Array>
+  readonly owed?: ReadonlyMap<string, boolean>
 }
 
 export type Applied = {
@@ -195,10 +198,10 @@ export function warrantedAgain(
   root: string,
   head: string,
   agentId: string,
-  held: Bodies
+  paths: readonly string[]
 ): readonly string[] {
   const again: string[] = []
-  for (const path of held.keys()) {
+  for (const path of paths) {
     const now = bodyAt(root, head, path)
     if (now === null) continue
     recordRead(root, agentId, {
@@ -212,9 +215,9 @@ export function warrantedAgain(
   return again.sort()
 }
 
-function asReadOf(root: string, agentId: string, held: Bodies): readonly Reading[] {
+function asReadOf(root: string, agentId: string, paths: readonly string[]): readonly Reading[] {
   const out: Reading[] = []
-  for (const path of held.keys()) {
+  for (const path of paths) {
     const seen = readingIn(root, agentId, path)
     if (seen !== null) out.push(seen)
   }
@@ -255,14 +258,12 @@ export async function applied(
   const running = holding.running
   const gate = running.checks ? judging : NO_GATE
   const moving = [...moves, ...(holding.moves ?? [])]
-  const stated = rowsOf(holding.held)
-  if ("why" in stated) return { refusals: [stated.why, KEPT_AS_IT_WAS] }
-  const prepared = preparing(root, head, stated.rows, moving, holding.formatted)
+  const paths = pathsIn(holding.rows)
+  const prepared = preparing(root, head, holding.rows, moving, holding.formatted)
   if ("refusals" in prepared) return { refusals: [...prepared.refusals, UNEXPORTABLE] }
   const formatting = prepared.formatting
-  if (running.writerOwesReading && agentId !== null)
-    warrantedAgain(root, head, agentId, holding.held)
-  const asRead = agentId === null ? [] : asReadOf(root, agentId, holding.held)
+  if (running.writerOwesReading && agentId !== null) warrantedAgain(root, head, agentId, paths)
+  const asRead = agentId === null ? [] : asReadOf(root, agentId, paths)
   const done = await landing(
     root,
     prepared.changes,
@@ -275,7 +276,7 @@ export async function applied(
     prepared.over
   )
   if ("refusals" in done) return done
-  carryLanded(root, head, running, prepared.changes, [], owedOf(holding.held))
+  carryLanded(root, head, running, prepared.changes, [], holding.owed ?? new Map())
   if (agentId !== null) recordedAsLanded(root, agentId, prepared.authored)
   const put = installingIn(root, prepared.changes)
   return {

@@ -5,20 +5,11 @@ export const drafting = {
   pageTypeSlug: "module",
   type: "module",
   slug: "drafting",
-  definition: "the bodies a change leaves, and what a run of those bodies does",
+  definition: "what a run of a change does about the checks and the readings owed",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "A body is carried as the bytes that body is rather than as text.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A body carries the body its path held at the commit the change was worked out on.",
-    },
     {
       invariantKind: "departure",
       statement:
@@ -30,10 +21,6 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "What a path's readers owe is read off only the paths saying so.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The commit at HEAD is read from git rather than carried by a caller.",
     },
     {
@@ -42,12 +29,11 @@ export const drafting = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here merges, as a change is replayed onto the commit at HEAD instead.",
+      statement: "No whole body is carried here, as a change is edits until the write.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "What a run does about checks and readings is a second concern, so this is more than one module.",
+      statement: "Reading the commit at HEAD is a second concern, so this is more than one module.",
     },
     {
       invariantKind: "gap",

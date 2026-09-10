@@ -1,3 +1,4 @@
+import { textIn } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
 import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
@@ -7,10 +8,12 @@ import {
   pathsOf,
   replayed,
 } from "../../../changes/modules/answer/change-answer.module.code.ts"
-import type { Answer as Said } from "../../../changes/modules/answer/change-answer.module.types.ts"
+import type {
+  FileChange,
+  Answer as Said,
+} from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import type { Bodies, Body } from "../drafting/drafting.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 
 const BYTES = new TextEncoder()
@@ -34,9 +37,10 @@ export function owingIn(said: Said): ReadonlyMap<string, boolean> {
 }
 
 export type Landing = {
-  readonly held: Bodies
+  readonly rows: readonly FileChange[]
   readonly moves: readonly FileMove[]
   readonly formatted: ReadonlyMap<string, Uint8Array>
+  readonly owed: ReadonlyMap<string, boolean>
 }
 
 export function movesIn(said: Said): readonly FileMove[] {
@@ -103,7 +107,7 @@ function goneSaid(root: string, head: string, said: Said, over: BodyOf): readonl
   return notes
 }
 
-export function bodiesFrom(
+export function landingFrom(
   root: string,
   head: string,
   said: Said
@@ -117,20 +121,18 @@ export function bodiesFrom(
   if ("refused" in after) {
     return { why: [after.refused, ...goneSaid(root, head, said, over)].join("\n") }
   }
-  const owed = owingIn(said)
-  const held = new Map<string, Body>()
+  const rows: FileChange[] = []
   const formatted = new Map<string, Uint8Array>()
   for (const [path, body] of after) {
     if (moved.has(path)) continue
     if (notText(body)) return { why: `\`${path}\` ${NOT_TEXT_SAID}` }
-    const done = body === null ? null : formattedBody(root, path, BYTES.encode(body))
-    if (done !== null) formatted.set(path, done.body)
-    const owes = owed.get(path)
-    held.set(path, {
-      was: bodyAt(root, head, path),
-      body: done === null ? null : done.body,
-      ...(owes === undefined ? {} : { readersOweReading: owes }),
-    })
+    if (body === null) {
+      rows.push({ kind: "remove", path })
+      continue
+    }
+    const done = formattedBody(root, path, BYTES.encode(body))
+    formatted.set(path, done.body)
+    rows.push({ kind: "add", path, content: textIn(done.body) })
   }
-  return { held, moves, formatted }
+  return { rows, moves, formatted, owed: owingIn(said) }
 }

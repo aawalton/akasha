@@ -9,7 +9,6 @@ import type {
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
-import type { Bodies } from "../drafting/drafting.module.code.ts"
 import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import type { Refused } from "../landing/landing.module.code.ts"
 import { changeOf } from "../landing/landing.module.code.ts"
@@ -34,7 +33,8 @@ const BYTES = new TextEncoder()
 
 const FATAL = new TextDecoder("utf-8", { fatal: true })
 
-const NO_TEXT = "spells no text, so its body is edited by nothing; a move or a removal takes it"
+export const NO_TEXT =
+  "spells no text, so its body is edited by nothing; a move or a removal takes it"
 
 function textFrom(bytes: Uint8Array): string | null {
   try {
@@ -49,20 +49,6 @@ function bodyIn(one: Adding | Replacing): string {
 }
 
 export type Stated = { readonly rows: readonly FileChange[] } | { readonly why: string }
-
-export function rowsOf(held: Bodies): Stated {
-  const rows: FileChange[] = []
-  for (const [path, one] of held) {
-    if (one.body === null) {
-      rows.push({ kind: "remove", path })
-      continue
-    }
-    const content = textFrom(one.body)
-    if (content === null) return { why: `${path} ${NO_TEXT}` }
-    rows.push({ kind: "add", path, content })
-  }
-  return { rows }
-}
 
 export function rowsFrom(root: string, base: string, changes: readonly FileChange[]): Stated {
   const rows: FileChange[] = []

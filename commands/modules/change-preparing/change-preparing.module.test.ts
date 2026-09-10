@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { applied } from "../applying/applying.module.code.ts"
@@ -123,8 +124,10 @@ test("every road that lands refuses a slug naming no export", async () => {
     "held",
   ])
   expect(kept.refusals.join("\n")).toContain(NO_EXPORT)
-  const held = new Map([[UNEXPORTABLE_AT, { was: null, body: bytesOf(UNEXPORTABLE) }]])
-  const over = await applied(root, AGENT, "held", NO_GATE, null, [], { held, running: NO_CHECK })
+  const rows: readonly FileChange[] = [
+    { kind: "add", path: UNEXPORTABLE_AT, content: UNEXPORTABLE },
+  ]
+  const over = await applied(root, AGENT, "held", NO_GATE, null, [], { rows, running: NO_CHECK })
   if (!("refusals" in over)) throw new Error("the apply landed a page naming no export")
   expect(over.refusals.join("\n")).toContain(NO_EXPORT)
   expect(existsSync(join(root, UNEXPORTABLE_AT))).toBe(false)

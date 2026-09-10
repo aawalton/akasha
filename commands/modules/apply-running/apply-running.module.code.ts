@@ -10,7 +10,7 @@ import { pathsOf } from "../../../changes/modules/answer/change-answer.module.co
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
 import { writtenPathsIn } from "../address-mapping/address-mapping.module.code.ts"
-import { applying, askedIn, type Carried } from "../applying/applying.module.code.ts"
+import { applying, askedIn, type Carried, pathsIn } from "../applying/applying.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,
@@ -21,7 +21,7 @@ import { waitingSaid } from "../change-acting/change-acting.module.code.ts"
 import { APPLY, CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
 import { noPageSaid } from "../change-running/change-running.module.code.ts"
 import { headOf, type Running } from "../drafting/drafting.module.code.ts"
-import { bodiesFrom } from "../edits-landing/edits-landing.module.code.ts"
+import { landingFrom } from "../edits-landing/edits-landing.module.code.ts"
 import { inputIn, type Piping } from "../piping/piping.module.code.ts"
 import { allowedAgain, MEASURED_ALLOWED } from "../stopping/command-stopping.module.code.ts"
 
@@ -62,20 +62,21 @@ export function folding(root: string, page: string): Folded {
       answer = { refusals: [said.refused] }
       return had
     }
-    const bodies = bodiesFrom(root, head, said)
-    if ("why" in bodies) {
-      answer = { refusals: [bodies.why] }
+    const worked = landingFrom(root, head, said)
+    if ("why" in worked) {
+      answer = { refusals: [worked.why] }
       return had
     }
     answer = {
-      folded: [...bodies.held.keys(), ...bodies.moves.map((one) => one.to)].sort(),
+      folded: [...pathsIn(worked.rows), ...worked.moves.map((one) => one.to)].sort(),
       dropped,
       unfold: { went: linesIn(root, page) },
       carried: {
-        held: bodies.held,
+        rows: worked.rows,
         running: runningOver(held),
-        moves: bodies.moves,
-        formatted: bodies.formatted,
+        moves: worked.moves,
+        formatted: worked.formatted,
+        owed: worked.owed,
       },
     }
     return had

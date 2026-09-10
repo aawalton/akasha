@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexedRepo, pageOf, scratch } from "@akasha/indexes/indexing/testing"
-import { bodiesFrom } from "../../../../commands/modules/edits-landing/edits-landing.module.code.ts"
+import { landingFrom } from "../../../../commands/modules/edits-landing/edits-landing.module.code.ts"
 import { baseOf } from "../../../../commands/modules/landing/landing.module.code.ts"
 import { movedOnto } from "../../../../commands/modules/path-moving/path-moving.module.code.ts"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
@@ -94,14 +94,14 @@ test("a body that is not text moves with its bytes unchanged", async () => {
   writeFileSync(join(root, NOT_TEXT), PNG)
   const said = await moveFolder(worldIn(root), { at: FROM, to: INTO })
   const landed = `${INTO}/deep/held.png`
-  const held = bodiesFrom(root, baseOf(root), said)
+  const held = landingFrom(root, baseOf(root), said)
   if ("why" in held) throw new Error(held.why)
   movedOnto(root, held.moves)
 
   expect(said.refused).toBeNull()
   expect(pathsIn(said)).toContain(landed)
   expect(held.moves).toContainEqual({ from: NOT_TEXT, to: landed })
-  expect(held.held.has(landed)).toBe(false)
+  expect(held.rows.some((one) => one.kind !== "move" && one.path === landed)).toBe(false)
   expect(new Uint8Array(readFileSync(join(root, landed)))).toEqual(PNG)
 })
 

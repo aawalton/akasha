@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { noImportersFiled } from "@akasha/indexes/testing"
+import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
 import type { Running } from "../drafting/drafting.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
@@ -20,27 +21,21 @@ import {
 import { readingIn } from "../reading/reading.module.code.ts"
 import { applied, askedIn, type Carried, messageFor } from "./applying.module.code.ts"
 
-const HELD = { was: null, body: null, readersOweReading: true }
-
 const AGENT = "01a05f00-0000-7000-8000-000000000001"
 
 const MORE = `${A}// drafted\n`
 
 const OWES: Running = { checks: true, writerOwesReading: true, readersOweReading: true }
 
+function rowAt(path: string, content = ""): FileChange {
+  return { kind: "add", path, content }
+}
+
 function carrying(body: string, running: Running = OWES, owed?: boolean): Carried {
   return {
-    held: new Map([
-      [
-        PAGE,
-        {
-          was: bytes(A),
-          body: bytes(body),
-          ...(owed === undefined ? {} : { readersOweReading: owed }),
-        },
-      ],
-    ]),
+    rows: [rowAt(PAGE, body)],
     running,
+    ...(owed === undefined ? {} : { owed: new Map([[PAGE, owed]]) }),
   }
 }
 
@@ -75,20 +70,22 @@ test("a measure saying anything but true is refused", () => {
 })
 
 test("an apply given no message says the act and the paths that apply lands", () => {
-  const held = new Map([
-    ["akasha/two.ts", HELD],
-    ["akasha/one.ts", HELD],
-  ])
-  expect(messageFor(null, held)).toBe("apply akasha/one.ts, akasha/two.ts")
+  const rows = [rowAt("akasha/two.ts"), rowAt("akasha/one.ts")]
+  expect(messageFor(null, rows)).toBe("apply akasha/one.ts, akasha/two.ts")
 })
 
 test("an apply carrying more than three paths says the act and how many landed", () => {
   const named = ["a.ts", "b.ts", "c.ts", "d.ts"]
-  expect(messageFor(null, new Map(named.map((one) => [one, HELD])))).toBe("apply 4 files")
+  expect(
+    messageFor(
+      null,
+      named.map((one) => rowAt(one))
+    )
+  ).toBe("apply 4 files")
 })
 
 test("an apply given a message commits that message rather than a composed one", () => {
-  expect(messageFor("held", new Map([["akasha/one.ts", HELD]]))).toBe("held")
+  expect(messageFor("held", [rowAt("akasha/one.ts")])).toBe("held")
 })
 
 test("an apply lands the bodies handed in, names and records them, and moves a path", async () => {
@@ -139,8 +136,8 @@ const UNEXPORTABLE =
 
 test("an apply refuses a page whose slug names no export", async () => {
   const root = pagesRepo()
-  const held = new Map([[UNEXPORTABLE_AT, { was: null, body: bytes(UNEXPORTABLE) }]])
-  const said = await applied(root, AGENT, "applied", ADMITS, null, [], { held, running: OWES })
+  const rows = [rowAt(UNEXPORTABLE_AT, UNEXPORTABLE)]
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], { rows, running: OWES })
   if (!("refusals" in said)) throw new Error("the apply landed a page naming no export")
   expect(said.refusals.join("\n")).toContain("which no `export const` may be declared under")
   expect(existsSync(join(root, UNEXPORTABLE_AT))).toBe(false)

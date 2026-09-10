@@ -7,7 +7,7 @@ import {
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
-import { bodiesFrom, type Landing } from "../edits-landing/edits-landing.module.code.ts"
+import { type Landing, landingFrom } from "../edits-landing/edits-landing.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { writing as putting } from "../scratching/scratching.module.test-fixtures.ts"
@@ -43,8 +43,6 @@ const BOTH = "a\nB\nc\nd\n"
 
 const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
 
-const TEXT = new TextDecoder()
-
 const scratch = scratchWorld()
 
 afterAll(() => {
@@ -65,7 +63,12 @@ function replayedOnto(
 ): Landing | { readonly why: string } {
   const said = foldedIn(rows)
   if (said.refused !== null) return { why: said.refused }
-  return bodiesFrom(root, baseOf(root), said)
+  return landingFrom(root, baseOf(root), said)
+}
+
+function bodyOf(rows: readonly FileChange[], path: string): string {
+  const row = rows.find((one) => one.kind === "add" && one.path === path)
+  return row !== undefined && row.kind === "add" ? row.content : ""
 }
 
 test("a row worked out from an older body is replayed onto the commit at HEAD", async () => {
@@ -75,7 +78,7 @@ test("a row worked out from an older body is replayed onto the commit at HEAD", 
   await committing(root, NOTES, FOUR)
   const said = replayedOnto(root, rows)
   if ("why" in said) throw new Error(said.why)
-  expect(TEXT.decode(said.held.get(NOTES)?.body ?? new Uint8Array())).toBe(BOTH)
+  expect(bodyOf(said.rows, NOTES)).toBe(BOTH)
 })
 
 test("two rows for one path are replayed as the fold lands them", async () => {
@@ -84,7 +87,7 @@ test("two rows for one path are replayed as the fold lands them", async () => {
   const rows = [replacing(NOTES, THREE, MINE), replacing(NOTES, MINE, BOTH)]
   const said = replayedOnto(root, rows)
   if ("why" in said) throw new Error(said.why)
-  expect(TEXT.decode(said.held.get(NOTES)?.body ?? new Uint8Array())).toBe(BOTH)
+  expect(bodyOf(said.rows, NOTES)).toBe(BOTH)
 })
 
 test("a row worked out from the body at HEAD is replayed as that row states", async () => {
@@ -93,7 +96,7 @@ test("a row worked out from the body at HEAD is replayed as that row states", as
   const rows = [replacing(NOTES, FOUR, MINE)]
   const said = replayedOnto(root, rows)
   if ("why" in said) throw new Error(said.why)
-  expect(TEXT.decode(said.held.get(NOTES)?.body ?? new Uint8Array())).toBe(MINE)
+  expect(bodyOf(said.rows, NOTES)).toBe(MINE)
 })
 
 test("a row whose passage the commit at HEAD holds nowhere refuses the replay", async () => {
@@ -132,7 +135,7 @@ function foldOf(said: Folded): unknown {
 
 function landing(said: Folded): string {
   if (!("carried" in said) || said.carried === null) throw new Error("the fold carried nothing")
-  return TEXT.decode(said.carried.held.get(NOTES)?.body ?? new Uint8Array())
+  return bodyOf(said.carried.rows, NOTES)
 }
 
 test("a run that stops between the fold and the landing keeps the edits", async () => {
@@ -157,7 +160,7 @@ test("the fold hands the landing the body the replay the checks judged left", as
   const said = landing(folding(root, PAGE))
 
   expect(said).toBe(BOTH)
-  expect(said).toBe(TEXT.decode(judged.held.get(NOTES)?.body ?? new Uint8Array()))
+  expect(said).toBe(bodyOf(judged.rows, NOTES))
 })
 
 test("a fold over a row nothing moved under hands the body that row states", async () => {

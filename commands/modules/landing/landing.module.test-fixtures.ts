@@ -14,8 +14,7 @@ import type { Judged, Judging } from "akasha/checks/modules/judging/judging.modu
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
 import type { Stated } from "../change-preparing/change-preparing.module.code.ts"
-import { rowsFrom, rowsOf } from "../change-preparing/change-preparing.module.code.ts"
-import type { Bodies, Body } from "../drafting/drafting.module.code.ts"
+import { NO_TEXT, rowsFrom } from "../change-preparing/change-preparing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { Drafted, Landed, Refused } from "./landing.module.code.ts"
 import { baseOf, landing } from "./landing.module.code.ts"
@@ -57,14 +56,28 @@ export const DRAFT = { page: PAGE }
 
 export type Held = { readonly path: string; readonly body: Uint8Array | null }
 
-function bodiesOf(changes: readonly Held[]): Bodies {
-  return new Map(changes.map((one): [string, Body] => [one.path, { was: null, body: one.body }]))
+const FATAL = new TextDecoder("utf-8", { fatal: true })
+
+function rowsOver(changes: readonly Held[]): Stated {
+  const rows: FileChange[] = []
+  for (const one of changes) {
+    if (one.body === null) {
+      rows.push({ kind: "remove", path: one.path })
+      continue
+    }
+    try {
+      rows.push({ kind: "add", path: one.path, content: FATAL.decode(one.body) })
+    } catch {
+      return { why: `${one.path} ${NO_TEXT}` }
+    }
+  }
+  return { rows }
 }
 
 function statedIn(root: string, changes: readonly Held[]): Stated {
-  const held = rowsOf(bodiesOf(changes))
-  if ("why" in held) return held
-  return rowsFrom(root, baseOf(root), held.rows)
+  const said = rowsOver(changes)
+  if ("why" in said) return said
+  return rowsFrom(root, baseOf(root), said.rows)
 }
 
 export function rowsIn(root: string, changes: readonly Held[]): readonly FileChange[] {
