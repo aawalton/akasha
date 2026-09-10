@@ -4,7 +4,7 @@ import { shadowFor } from "@akasha/pages/shadow"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { landing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { pageNamedAsStated } from "./page-named-as-stated.code-check.code.ts"
+import { pageNamedAsStated } from "./page-named-as-stated.code-check.check.code.ts"
 import {
   LEDGER_AT,
   page,

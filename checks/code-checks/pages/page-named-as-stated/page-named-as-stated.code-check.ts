@@ -6,8 +6,6 @@ export const pageNamedAsStated = {
   type: "code-check",
   slug: "page-named-as-stated",
   definition: "the check refusing a page whose file name or export name is not the name it states",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
