@@ -6,8 +6,6 @@ export const noReExport = {
   type: "code-check",
   slug: "no-re-export",
   definition: "the check refusing a file that exports a name it did not declare itself",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

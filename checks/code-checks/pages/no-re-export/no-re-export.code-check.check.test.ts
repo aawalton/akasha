@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noReExport } from "./no-re-export.code-check.code.ts"
+import { noReExport } from "./no-re-export.code-check.check.code.ts"
 import { AT, rooted, SENT, scratch } from "./no-re-export.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
