@@ -10,7 +10,6 @@ export const command = {
   parts: [
     "command/audit",
     "command/calendar",
-    "command/complexity",
     "command/drive",
     "command/icloud",
     "command/ios-app",
@@ -112,6 +111,7 @@ export const command = {
     "namespace/infrastructure",
     "command/performance",
     "namespace/index",
+    "module/complexity-rowing",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

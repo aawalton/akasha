@@ -17,5 +17,6 @@ export const measure = {
     "command/measure-attributes",
     "command/measure-personas",
     "command/measure-learning",
+    "namespace/measure-complexity",
   ],
 } as const satisfies Namespace
