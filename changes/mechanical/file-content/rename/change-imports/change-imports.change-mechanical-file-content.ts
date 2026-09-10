@@ -37,7 +37,7 @@ export const changeImports = {
     {
       invariantKind: "departure",
       statement:
-        "A specifier naming a package other than the root is left as it is, whatever moved.",
+        "A specifier naming a package other than the root is left as it is whatever moved.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
-      statement: "A way in is repointed at the file, so the specifier naming it needs no rewrite.",
+      statement: "A way in is repointed at the file.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const changeImports = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that is not text names no path, so nothing in it is repointed.",
+      statement: "A body that is not text names no path.",
     },
     {
       invariantKind: "departure",

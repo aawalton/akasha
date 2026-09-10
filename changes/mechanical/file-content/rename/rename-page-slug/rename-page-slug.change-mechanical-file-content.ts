@@ -18,7 +18,7 @@ export const renamePageSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A rename composes no page, so that length is bounded here as well.",
+      statement: "A slug's length is bounded here as it is where a page is composed.",
     },
     {
       invariantKind: "departure",

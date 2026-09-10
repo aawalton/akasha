@@ -13,7 +13,7 @@ export const renameEntryKey = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The key alone is respelled, and the value stated under it is left as it is.",
+      statement: "The key alone is respelled.",
     },
     {
       invariantKind: "departure",

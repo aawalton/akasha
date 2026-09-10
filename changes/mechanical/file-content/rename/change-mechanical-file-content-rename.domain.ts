@@ -24,7 +24,7 @@ export const changeMechanicalFileContentRename = {
     },
     {
       invariantKind: "absence",
-      statement: "No rung here has a file, so no rung here leaves an edge into a file hanging.",
+      statement: "No rung here has a file.",
     },
     {
       invariantKind: "absence",

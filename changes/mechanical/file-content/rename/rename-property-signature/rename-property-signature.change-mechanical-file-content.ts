@@ -18,7 +18,7 @@ export const renamePropertySignature = {
     },
     {
       invariantKind: "departure",
-      statement: "A name standing alone is refused, since one file declares one name on two types.",
+      statement: "A property name with no type is refused.",
     },
     {
       invariantKind: "departure",
@@ -26,8 +26,7 @@ export const renamePropertySignature = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A star is asked for rather than fallen into, so the caller says it means them all.",
+      statement: "A star is asked for rather than fallen into.",
     },
     {
       invariantKind: "departure",
