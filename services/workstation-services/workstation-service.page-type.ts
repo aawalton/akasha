@@ -8,7 +8,7 @@ import type { Runs } from "./properties/runs.text-property.ts"
 import type { Systemd } from "./properties/systemd.record-property.ts"
 
 export type WorkstationService = Service & {
-  runs: readonly Runs[]
+  runs: Runs
   enabled: Enabled
   systemd?: Systemd
   needsSecrets?: NeedsSecrets
