@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../../../../../../persons/people/email/rules/agents/email-rule-agent.page-type.types.ts"
+import type { EmailRuleAgent } from "../../agents/email-rule-agent.page-type.types.ts"
 
 export const familyLinkOther = {
   id: "01a06863-fbe9-74e9-a0dd-8933309fbd22",

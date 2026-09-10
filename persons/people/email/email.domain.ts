@@ -11,7 +11,6 @@ export const email = {
     "domain/email-rule-delay",
     "domain/email-rule-match",
     "page-type/email-message",
-    "page-type/email-rule",
     "page-type/gmail-mailbox",
   ],
 } as const satisfies Domain

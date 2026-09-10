@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.types.ts"
+import type { EmailRuleCode } from "../../codes/email-rule-code.page-type.types.ts"
 
 export const alansOutboundMail = {
   id: "01a06860-54a1-7d94-a4d0-eab66bcd5920",

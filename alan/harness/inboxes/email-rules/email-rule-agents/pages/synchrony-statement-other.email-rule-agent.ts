@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../../../../../../persons/people/email/rules/agents/email-rule-agent.page-type.types.ts"
+import type { EmailRuleAgent } from "../../agents/email-rule-agent.page-type.types.ts"
 
 export const synchronyStatementOther = {
   id: "01a06863-fbe9-7891-911e-5469c95f75eb",

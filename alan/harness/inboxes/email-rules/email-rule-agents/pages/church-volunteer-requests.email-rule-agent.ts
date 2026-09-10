@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../../../../../../persons/people/email/rules/agents/email-rule-agent.page-type.types.ts"
+import type { EmailRuleAgent } from "../../agents/email-rule-agent.page-type.types.ts"
 
 export const churchVolunteerRequests = {
   id: "01a06863-fbe8-7b79-8976-f751b06848ea",

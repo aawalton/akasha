@@ -21,6 +21,7 @@ export const inbox = {
     "workstation-service/inbox-reading-service",
     "workstation-service/inbox-relay-service",
     "workstation-service/inbox-tracking-poll",
+    "page-type/email-rule",
   ],
   invariants: [
     {

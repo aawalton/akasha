@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../../../../../../persons/people/email/rules/agents/email-rule-agent.page-type.types.ts"
+import type { EmailRuleAgent } from "../../agents/email-rule-agent.page-type.types.ts"
 
 export const netflixOther = {
   id: "01a06863-fbe9-7e1b-b158-1123bd76c4c8",

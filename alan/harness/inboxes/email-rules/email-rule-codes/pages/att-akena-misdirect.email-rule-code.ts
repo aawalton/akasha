@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.types.ts"
+import type { EmailRuleCode } from "../../codes/email-rule-code.page-type.types.ts"
 
 export const attAkenaMisdirect = {
   id: "01a06860-54a2-71bc-bd5d-a31796f3c32e",

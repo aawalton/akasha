@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../persons/people/email/rules/codes/email-rule-code.page-type.types.ts"
+import type { EmailRuleCode } from "../../codes/email-rule-code.page-type.types.ts"
 
 export const synchronyCardPayment = {
   id: "01a06860-54a2-71f9-9c21-085bc65204cf",
