@@ -52,7 +52,7 @@ export const heldAddonNamesARosterAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "A name two folders manifest is reached at either of them.",
+      statement: "A name two folders manifest is reached at either folder.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +73,11 @@ export const heldAddonNamesARosterAddon = {
     },
     {
       invariantKind: "absence",
-      statement: "No folder is walked, and no path is spelled here.",
+      statement: "No folder is walked here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No path is spelled here.",
     },
   ],
   check: { maxCpuSeconds: 10 },

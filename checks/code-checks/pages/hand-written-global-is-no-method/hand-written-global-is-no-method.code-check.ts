@@ -14,7 +14,8 @@ export const handWrittenGlobalIsNoMethod = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A declaration is generated where its page states the command writing it again.",
+      statement:
+        "A declaration is generated where its page states the command writing that declaration again.",
     },
     {
       invariantKind: "departure",

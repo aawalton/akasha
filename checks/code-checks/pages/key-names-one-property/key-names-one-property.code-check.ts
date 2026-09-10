@@ -53,11 +53,15 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A unique kind goes from `page` to `page-type` to `page-property`, never back.",
+      statement: "A unique kind goes from `page` to `page-type` to `page-property`.",
     },
     {
       invariantKind: "departure",
-      statement: "A restatement letting a unique kind go altogether widens it.",
+      statement: "A unique kind never goes back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A restatement letting a unique kind go altogether widens that kind.",
     },
     {
       invariantKind: "departure",
