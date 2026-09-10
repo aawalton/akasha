@@ -10,27 +10,27 @@ const GOOGLE = { folder: "commands/pages/google", slug: "google" }
 const GIT = { folder: "commands/pages/git", slug: "git" }
 
 test("a page the command page type names sits in a folder directly in the pages folder", () => {
-  expect(reasonIn("commands/pages/audit/audit.command.ts", "audit", ROOT)).toBe(null)
+  expect(reasonIn("commands/pages/humming/humming.command.ts", "humming", ROOT)).toBe(null)
 })
 
 test("a page the page type names from inside another folder is refused", () => {
-  const said = reasonIn("commands/pages/git/audit/audit.command.ts", "audit", ROOT)
+  const said = reasonIn("commands/pages/git/humming/humming.command.ts", "humming", ROOT)
 
-  expect(said).toContain("commands/pages/audit")
+  expect(said).toContain("commands/pages/humming")
 })
 
 test("a page sits directly inside the folder of the page above it", () => {
-  const at = "commands/pages/google/calendar/events/google-calendar-events.namespace.ts"
+  const at = "commands/pages/google/calendar/matching/google-calendar-matching.namespace.ts"
 
-  expect(reasonIn(at, "google-calendar-events", CALENDAR)).toBe(null)
+  expect(reasonIn(at, "google-calendar-matching", CALENDAR)).toBe(null)
 })
 
 test("a folder named for the whole slug rather than what the slug adds is refused", () => {
   const at =
-    "commands/pages/google/calendar/google-calendar-events/google-calendar-events.namespace.ts"
-  const said = reasonIn(at, "google-calendar-events", CALENDAR)
+    "commands/pages/google/calendar/google-calendar-matching/google-calendar-matching.namespace.ts"
+  const said = reasonIn(at, "google-calendar-matching", CALENDAR)
 
-  expect(said).toContain("commands/pages/google/calendar/events")
+  expect(said).toContain("commands/pages/google/calendar/matching")
 })
 
 test("a slug opening with anything but the slug above it is refused for the slug", () => {
