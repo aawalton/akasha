@@ -1,4 +1,4 @@
-import type { TemperCompanionJewelrySlot } from "../temper-companion-jewelry-slot.page-type.ts"
+import type { TemperCompanionJewelrySlot } from "../temper-companion-jewelry-slot.page-type.types.ts"
 
 export const necklace = {
   id: "01a05fcd-ea6a-7416-b4e8-ed813a6519db",

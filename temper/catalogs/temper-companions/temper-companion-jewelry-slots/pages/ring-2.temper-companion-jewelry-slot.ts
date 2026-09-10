@@ -1,4 +1,4 @@
-import type { TemperCompanionJewelrySlot } from "../temper-companion-jewelry-slot.page-type.ts"
+import type { TemperCompanionJewelrySlot } from "../temper-companion-jewelry-slot.page-type.types.ts"
 
 export const ring2 = {
   id: "01a05fcd-ea6a-72a1-a726-0c764ac290d7",

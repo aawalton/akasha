@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { SlotCategory } from "../temper-companion-things/properties/slot-category.text-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-
-export type TemperCompanionJewelrySlot = TemperCompanionThing & {
-  slotCategory: SlotCategory
-}
 
 export const temperCompanionJewelrySlot = {
   id: "01a05fcd-aecf-75d4-9252-0fa9f6ad750b",
@@ -20,4 +14,5 @@ export const temperCompanionJewelrySlot = {
     { pageProperty: "number-property/equip-type", required: true, many: false },
     { pageProperty: "text-property/slot-category", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
