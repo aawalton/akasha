@@ -1,4 +1,4 @@
-import type { RuntimeError } from "../runtime-error.page-type.ts"
+import type { RuntimeError } from "../runtime-error.page-type.types.ts"
 
 export const alanwaltonA4421ab52edff552 = {
   id: "01a078c1-d4d9-7c22-a577-f4451d053d64",

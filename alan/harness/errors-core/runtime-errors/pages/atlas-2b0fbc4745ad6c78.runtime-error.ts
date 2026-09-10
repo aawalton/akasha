@@ -1,4 +1,4 @@
-import type { RuntimeError } from "../runtime-error.page-type.ts"
+import type { RuntimeError } from "../runtime-error.page-type.types.ts"
 
 export const atlas2b0fbc4745ad6c78 = {
   id: "01a0791b-3001-7b90-a019-125d62abf10d",
