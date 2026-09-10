@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-
-export type TemperCompanionEquipmentQuality = TemperCompanionThing
 
 export const temperCompanionEquipmentQuality = {
   id: "01a05fcd-aed0-75bf-9fe4-d95291c165fb",
@@ -16,4 +13,5 @@ export const temperCompanionEquipmentQuality = {
     { pageProperty: "boolean-property/available", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
