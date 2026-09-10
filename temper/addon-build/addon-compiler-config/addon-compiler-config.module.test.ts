@@ -51,7 +51,7 @@ test("the written settings name the entry, the bundle and the repository root", 
       canonicalName: "TemperTableFunctions",
       entryPath: "/repo/temper/temper-lib-table-functions/e/e.module.code.ts",
       reachedDirs: [],
-      declaringDirs: ["/repo/temper/temper-eso-types", "/repo/temper/temper-addon-library-types"],
+      declaringDirs: ["/repo/temper/eso-types", "/repo/temper/temper-addon-library-types"],
     })
   )
   expect(body).toMatchObject({
@@ -69,7 +69,7 @@ test("the written settings name the entry, the bundle and the repository root", 
     include: [
       "/repo/temper/temper-lib-table-functions/**/*.module.code.ts",
       "/repo/temper/temper-lib-table-functions/**/*.d.ts",
-      "/repo/temper/temper-eso-types/**/*.type-declaration.d.ts",
+      "/repo/temper/eso-types/**/*.type-declaration.d.ts",
       "/repo/temper/temper-addon-library-types/**/*.type-declaration.d.ts",
     ],
   })
@@ -143,7 +143,7 @@ test("the written settings reach every declaration a package the addon reaches h
       canonicalName: "TemperCollections",
       entryPath: "/repo/temper/temper-collections-addon/e/e.module.code.ts",
       reachedDirs: ["/repo/temper/temper-lorebooks"],
-      declaringDirs: ["/repo/temper/temper-eso-types"],
+      declaringDirs: ["/repo/temper/eso-types"],
     })
   )
   expect(body).toMatchObject({
@@ -151,7 +151,7 @@ test("the written settings reach every declaration a package the addon reaches h
       "/repo/temper/temper-collections-addon/**/*.module.code.ts",
       "/repo/temper/temper-collections-addon/**/*.d.ts",
       "/repo/temper/temper-lorebooks/**/*.d.ts",
-      "/repo/temper/temper-eso-types/**/*.type-declaration.d.ts",
+      "/repo/temper/eso-types/**/*.type-declaration.d.ts",
     ],
   })
 })
