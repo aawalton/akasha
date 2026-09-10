@@ -1,4 +1,4 @@
-import { isMedium } from "@akasha/pages-core/media-formats"
+import { isMedium } from "@akasha/pages/core/media-formats"
 import { mediaTokenSecret, mintMediaToken } from "@akasha/pages-ui/media/media-token"
 import { MEDIA_VARIANT_PATTERN, mediaPageExists } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"

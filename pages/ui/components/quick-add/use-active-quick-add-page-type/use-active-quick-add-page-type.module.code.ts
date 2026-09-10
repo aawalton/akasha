@@ -1,9 +1,9 @@
 "use client"
 
-import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
-import { parseQuickAddConfig, type QuickAddConfig } from "@akasha/pages-core/schema/quick-add"
-import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
+import { parseQuickAddConfig, type QuickAddConfig } from "@akasha/pages/core/schema/quick-add"
+import { resolveDefinitionOptions } from "@akasha/pages/core/schema/resolve-select-options"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"

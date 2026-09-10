@@ -1,5 +1,5 @@
+import type { Page } from "@akasha/pages/core/page-types"
 import { askingFor } from "@akasha/pages/service/calling"
-import type { Page } from "@akasha/pages-core/page-types"
 import { z } from "zod"
 import { fileRelationDeclarations } from "../file-property-defs/file-property-defs.module.code.ts"
 import { type FileReadDeps, fileBackedPageTypes } from "../file-read/file-read.module.code.ts"

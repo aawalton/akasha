@@ -3,7 +3,7 @@
 import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
 import { Heading } from "@akasha/design-primitives/heading"
 import { SubView } from "@akasha/design-primitives/sub-view"
-import { GROUP_GRANULARITIES, type GroupGranularity } from "@akasha/pages-core/schema/view-data"
+import { GROUP_GRANULARITIES, type GroupGranularity } from "@akasha/pages/core/schema/view-data"
 import { AddSortButton } from "akasha/design/patterns/add-sort-button/add-sort-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
 import type { GroupOption } from "akasha/design/patterns/group-button/group-button.module.code.tsx"

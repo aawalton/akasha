@@ -1,20 +1,20 @@
 "use client"
 
-import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
-import type { GroupGranularity, ViewConfig, ViewSort } from "@akasha/pages-core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { generateGroupOptions } from "@akasha/pages-core/view/apply-grouping"
-import type { GroupOption, GroupSortOption } from "@akasha/pages-core/view/apply-grouping-shared"
+import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
+import type { GroupGranularity, ViewConfig, ViewSort } from "@akasha/pages/core/schema/view-data"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
+import { generateGroupOptions } from "@akasha/pages/core/view/apply-grouping"
+import type { GroupOption, GroupSortOption } from "@akasha/pages/core/view/apply-grouping-shared"
 import {
   generateGroupSortOptions,
   getDefaultGroupSorts,
-} from "@akasha/pages-core/view/apply-grouping-sort"
-import { applyView } from "@akasha/pages-core/view/apply-view"
+} from "@akasha/pages/core/view/apply-grouping-sort"
+import { applyView } from "@akasha/pages/core/view/apply-view"
 import {
   generateFilterDimensions,
   type PageFilterDimension,
-} from "@akasha/pages-core/view/generate-filter-dimensions"
-import { generateSortOptions, type SortOption } from "@akasha/pages-core/view/generate-sort-options"
+} from "@akasha/pages/core/view/generate-filter-dimensions"
+import { generateSortOptions, type SortOption } from "@akasha/pages/core/view/generate-sort-options"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import { useCallback, useMemo, useRef } from "react"

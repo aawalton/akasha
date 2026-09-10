@@ -1,7 +1,7 @@
 "use client"
 
-import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { pageDayKey } from "@akasha/pages-core/view/calendar-date-to-value"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
+import { pageDayKey } from "@akasha/pages/core/view/calendar-date-to-value"
 import {
   type CalendarCellRect,
   computeCalendarDropDay,

@@ -17,7 +17,6 @@
     "@akasha/alanwalton-web": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/design-system": "workspace:*",
-    "@akasha/pages-core": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages": "workspace:*",

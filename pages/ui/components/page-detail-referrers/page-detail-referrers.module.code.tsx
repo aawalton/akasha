@@ -1,8 +1,8 @@
 "use client"
 
+import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
 import { buildPageHref } from "@akasha/pages/url/page-href"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import { ToggleSection } from "@akasha/pages-ui/components/page-detail-sections"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { type Referrer, useReferrers } from "@akasha/pages-ui/supabase/use-referrers"

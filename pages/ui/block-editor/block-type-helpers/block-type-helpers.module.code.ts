@@ -3,9 +3,9 @@ import {
   markerFor,
   nextNumberedMarker,
   stripLeadingMarker,
-} from "@akasha/pages-core/property-types/block-markers"
-import type { Block } from "@akasha/pages-core/property-types/rich-document"
-import { textOf, type V1BlockType } from "@akasha/pages-core/property-types/rich-document-ops"
+} from "@akasha/pages/core/property-types/block-markers"
+import type { Block } from "@akasha/pages/core/property-types/rich-document"
+import { textOf, type V1BlockType } from "@akasha/pages/core/property-types/rich-document-ops"
 
 export function continuationType(type: string): V1BlockType {
   switch (type) {

@@ -3,8 +3,8 @@ import type {
   ViewDataJSON,
   ViewLayout,
   VisibilityChange,
-} from "@akasha/pages-core/schema/view-data"
-import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
+} from "@akasha/pages/core/schema/view-data"
+import type { GalleryCardSize } from "@akasha/pages/core/view/gallery"
 import { reorderVisibleProperties } from "@akasha/pages-ui/components/page-table-column-dnd-helpers"
 import { useCallback } from "react"
 

@@ -1,5 +1,5 @@
-import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { getPageGroupDefinition } from "@akasha/pages-core/view/apply-grouping"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
+import { getPageGroupDefinition } from "@akasha/pages/core/view/apply-grouping"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 
 export interface CardGroupSection {

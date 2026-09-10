@@ -1,8 +1,8 @@
 "use client"
 
+import { resolveDisplayKind } from "@akasha/pages/core/schema/detail-config"
+import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { resolveDisplayKind } from "@akasha/pages-core/schema/detail-config"
-import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import {
   PAGE_TYPE_SLUG,
   selectDetailBody,

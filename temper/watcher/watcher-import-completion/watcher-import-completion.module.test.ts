@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { asPage } from "@akasha/pages-core/page-types"
+import { asPage } from "@akasha/pages/core/page-types"
 import type {
   ReadFiles,
   ReadPages,

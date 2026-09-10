@@ -1,4 +1,4 @@
-import type { Page, PageWhere } from "@akasha/pages-core/page-types"
+import type { Page, PageWhere } from "@akasha/pages/core/page-types"
 import type { JsonPatch, PageSelect } from "../types/types.module.code.ts"
 
 export type PatchPropertyDefinitionArgs = {

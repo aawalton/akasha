@@ -1,6 +1,6 @@
-import type { GroupGranularity } from "@akasha/pages-core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { getPageGroupDefinition as coreGetPageGroupDefinition } from "@akasha/pages-core/view/apply-grouping"
+import type { GroupGranularity } from "@akasha/pages/core/schema/view-data"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
+import { getPageGroupDefinition as coreGetPageGroupDefinition } from "@akasha/pages/core/view/apply-grouping"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import type { PageResolverValue } from "@akasha/pages-ui/contexts/page-resolver-context"
 

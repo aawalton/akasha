@@ -1,6 +1,6 @@
 "use client"
 
-import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
+import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
 import { deriveShellEmptyState } from "@akasha/pages-ui/components/page-system-shell-helpers"
 import type { ViewTabItem } from "@akasha/pages-ui/components/view-tab-context-menu"
 import { ViewTabs } from "@akasha/pages-ui/components/view-tabs"

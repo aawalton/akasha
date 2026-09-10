@@ -1,6 +1,6 @@
 "use client"
 
-import { type GalleryCardSize, galleryCardMinWidth } from "@akasha/pages-core/view/gallery"
+import { type GalleryCardSize, galleryCardMinWidth } from "@akasha/pages/core/view/gallery"
 import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
 import {
   DndContext,

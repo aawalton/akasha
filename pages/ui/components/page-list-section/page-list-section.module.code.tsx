@@ -1,8 +1,8 @@
 "use client"
 
-import type { ViewLayout } from "@akasha/pages-core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
-import { DEFAULT_GALLERY_CARD_SIZE, type GalleryCardSize } from "@akasha/pages-core/view/gallery"
+import type { ViewLayout } from "@akasha/pages/core/schema/view-data"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
+import { DEFAULT_GALLERY_CARD_SIZE, type GalleryCardSize } from "@akasha/pages/core/view/gallery"
 import { buildTableColumns } from "@akasha/pages-ui/components/card-property-columns"
 import type { PageTableColumn } from "@akasha/pages-ui/components/page-table-shared"
 import { withColumnWidths } from "@akasha/pages-ui/components/page-table-widths"

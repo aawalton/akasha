@@ -1,9 +1,9 @@
 "use client"
 
-import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
-import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
-import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
+import { resolveDefinitionOptions } from "@akasha/pages/core/schema/resolve-select-options"
+import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { shouldShowCountBadge } from "@akasha/pages-ui/components/nav-count-badge-decider"
 import { useAllPages, useViewsForNavItem } from "@akasha/pages-ui/supabase/hooks"
 import { usePageViewQuery } from "@akasha/pages-ui/supabase/hooks-view-query"

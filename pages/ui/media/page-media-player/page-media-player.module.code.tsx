@@ -1,4 +1,4 @@
-import type { Medium } from "@akasha/pages-core/media-formats"
+import type { Medium } from "@akasha/pages/core/media-formats"
 import { KOKORO_STREAM_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { usePlayingSession } from "@akasha/pages-ui/media/playing-session-context"
 import { readPersistedSession } from "@akasha/pages-ui/media/playing-session-storage"

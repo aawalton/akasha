@@ -1,5 +1,5 @@
+import type { Page } from "@akasha/pages/core/page-types"
 import type { DeletePageArgs } from "@akasha/pages-access/delete"
-import type { Page } from "@akasha/pages-core/page-types"
 import { runOptimisticMutation } from "@akasha/pages-ui/supabase/mutations/apply-prediction"
 import { extractTargetIds } from "@akasha/pages-ui/supabase/mutations/extract-target-ids"
 import type { PagesMutationPlan } from "@akasha/pages-ui-store/optimistic/plan"

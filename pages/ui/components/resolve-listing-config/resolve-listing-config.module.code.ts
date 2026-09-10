@@ -1,8 +1,8 @@
 import {
   type ListingConfig,
   listingConfigToViewData,
-} from "@akasha/pages-core/schema/listing-config"
-import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
+} from "@akasha/pages/core/schema/listing-config"
+import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
 
 export function resolveListingViewData(
   listingConfig: ListingConfig | undefined,

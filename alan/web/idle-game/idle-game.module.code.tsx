@@ -1,5 +1,5 @@
 import "../idle-look/idle-look.stylesheet.styles.css"
-import type { FrameConfig } from "@akasha/pages-core/schema/detail-config"
+import type { FrameConfig } from "@akasha/pages/core/schema/detail-config"
 import { DisplayFrame } from "@akasha/pages-ui/frame/display-frame"
 import { FrameViewPropertiesMenu } from "@akasha/pages-ui/frame/frame-view-properties-menu"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"

@@ -2,17 +2,17 @@
 
 import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import { formatAbsoluteInstant } from "@akasha/pages-core/property-types/instant"
-import type { PropertyValue } from "@akasha/pages-core/property-types/types"
-import { resolveBadgeVariant } from "@akasha/pages-core/resolve-badge-variant"
-import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
-import { parseConfig } from "@akasha/pages-core/schema/pages"
+import { formatAbsoluteInstant } from "@akasha/pages/core/property-types/instant"
+import type { PropertyValue } from "@akasha/pages/core/property-types/types"
+import { resolveBadgeVariant } from "@akasha/pages/core/resolve-badge-variant"
+import type { BadgeVariant } from "@akasha/pages/core/schema/color-rule-variant"
+import { parseConfig } from "@akasha/pages/core/schema/pages"
 import {
   type InstantConfig,
   type InstantFormat,
   instantConfigSchema,
-} from "@akasha/pages-core/schema/property-config-schemas"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+} from "@akasha/pages/core/schema/property-config-schemas"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useState } from "react"

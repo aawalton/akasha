@@ -1,4 +1,4 @@
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 
 export const IDLE_PERSONA_CARD_PAGE_TYPE_SLUG = "idle-persona-card"
 

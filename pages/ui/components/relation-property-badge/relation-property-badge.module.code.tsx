@@ -1,9 +1,9 @@
 "use client"
 
-import type { PropertyValue } from "@akasha/pages-core/property-types/types"
-import { parseConfig } from "@akasha/pages-core/schema/pages"
-import { relationConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+import type { PropertyValue } from "@akasha/pages/core/property-types/types"
+import { parseConfig } from "@akasha/pages/core/schema/pages"
+import { relationConfigSchema } from "@akasha/pages/core/schema/property-config-schemas"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import {
   getRelationId,

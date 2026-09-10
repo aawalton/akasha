@@ -2,7 +2,7 @@
 
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import type { FrameConfig } from "@akasha/pages-core/schema/detail-config"
+import type { FrameConfig } from "@akasha/pages/core/schema/detail-config"
 import { useChromeToggle } from "@akasha/pages-ui/components/use-chrome-toggle"
 import { frameFollowMode, frameSupportsFocusMode } from "@akasha/pages-ui/frame/frame-config"
 import { FrameSafeAreaMasks } from "@akasha/pages-ui/frame/frame-safe-area-masks"

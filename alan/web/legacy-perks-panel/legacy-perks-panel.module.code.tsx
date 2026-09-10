@@ -1,7 +1,7 @@
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
+import { formatShortNumber as fmt } from "@akasha/pages/core/property-types/number"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 import { deriveLegacyPerksView } from "../idle-display/idle-display.module.code.ts"
 import { ErrorMessage } from "../idle-error-message/idle-error-message.module.code.tsx"

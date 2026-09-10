@@ -5,13 +5,13 @@ import { FilterableList, FilterableListItem } from "@akasha/design-primitives/fi
 import { Heading } from "@akasha/design-primitives/heading"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import {
   buildMonthGrid,
   CALENDAR_WEEKDAY_LABELS,
   monthKeyOf,
   shiftMonth,
-} from "@akasha/pages-core/view/calendar-grid"
+} from "@akasha/pages/core/view/calendar-grid"
 import { usePageCalendarState } from "@akasha/pages-ui/components/use-page-calendar-state"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { DndContext, DragOverlay, useDraggable } from "@dnd-kit/core"

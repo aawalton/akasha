@@ -1,6 +1,6 @@
 "use client"
 
-import type { ViewConfig, ViewFilter } from "@akasha/pages-core/schema/view-data"
+import type { ViewConfig, ViewFilter } from "@akasha/pages/core/schema/view-data"
 import { PagesFilterBar } from "@akasha/pages-ui/components/page-filter-bar"
 import type { PageSystemTabContentProps } from "@akasha/pages-ui/components/page-system-tab-content-props"
 import { CreatePageButton } from "@akasha/pages-ui/components/page-system-view-helpers"

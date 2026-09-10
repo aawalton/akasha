@@ -27,7 +27,6 @@
     "./upsert": "./upsert/upsert.module.code.ts"
   },
   "dependencies": {
-    "@akasha/pages-core": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/utils": "workspace:*",
     "zod": "^4.3.6"

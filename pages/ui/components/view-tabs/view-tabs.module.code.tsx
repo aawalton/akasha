@@ -6,7 +6,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@akasha/design-primitives/dropdown-menu"
-import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
+import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
 import { CreateViewPopover } from "@akasha/pages-ui/components/create-view-popover"
 import {
   VIEW_FALLBACK_ICON_NAME,

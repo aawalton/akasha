@@ -3,13 +3,13 @@
 import { Button } from "@akasha/design-primitives/button"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import type { ViewSort } from "@akasha/pages-core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { PageResolver } from "@akasha/pages-core/view/apply-grouping-shared"
+import type { ViewSort } from "@akasha/pages/core/schema/view-data"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
+import type { PageResolver } from "@akasha/pages/core/view/apply-grouping-shared"
 import {
   getDefaultGroupSorts,
   sortGroupedResults,
-} from "@akasha/pages-core/view/apply-grouping-sort"
+} from "@akasha/pages/core/view/apply-grouping-sort"
 import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
 import { PageTimeline } from "@akasha/pages-ui/components/page-timeline"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"

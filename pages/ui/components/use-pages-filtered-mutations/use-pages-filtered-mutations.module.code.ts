@@ -1,10 +1,10 @@
 "use client"
 
+import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
 import { buildPageHref } from "@akasha/pages/url/page-href"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { createPage } from "@akasha/pages-access/create"
 import { deletePage } from "@akasha/pages-access/delete"
-import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
 import type { PagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"

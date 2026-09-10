@@ -9,9 +9,9 @@ import {
   TableHeader,
   TableRow,
 } from "@akasha/design-primitives/table"
-import { type CompletionShape, readsAsDone } from "@akasha/pages-core/task-lifecycle"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
-import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
+import { type CompletionShape, readsAsDone } from "@akasha/pages/core/task-lifecycle"
+import type { PageDataJSON, PropertyDefinition } from "@akasha/pages/core/types"
+import { expandDateMentions } from "@akasha/pages/core/view/expand-date-mentions"
 import { orderTableColumns } from "@akasha/pages-ui/components/card-property-columns"
 import { PageActionsMenu } from "@akasha/pages-ui/components/page-actions-menu"
 import { PageTableColGroup } from "@akasha/pages-ui/components/page-table-colgroup"

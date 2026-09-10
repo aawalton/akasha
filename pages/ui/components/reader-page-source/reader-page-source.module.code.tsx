@@ -1,7 +1,7 @@
 "use client"
 
+import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { getLocalPositionReader } from "@akasha/pages-ui/components/local-position-port"
 import { PageDetailHeaderMenu } from "@akasha/pages-ui/components/page-detail-header-menu"
 import { useAllPages } from "@akasha/pages-ui/supabase/hooks"

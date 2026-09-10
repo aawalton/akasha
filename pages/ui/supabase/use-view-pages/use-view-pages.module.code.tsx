@@ -1,8 +1,8 @@
 "use client"
 
+import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { GetPagesForViewArgs, GetPagesForViewResult } from "@akasha/pages-access/get-for-view"
-import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { useViewQuery } from "@akasha/pages-ui/cache/use-view-query"
 import type { ShapeDescriptor } from "@akasha/pages-ui-store/collection/shape-descriptor"
 

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
+import { asPage, type Page, type PageWhere } from "@akasha/pages/core/page-types"
 import {
   narrowFor,
   ROLLED,

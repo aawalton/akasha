@@ -1,4 +1,4 @@
-import { DECLARED_EFFECTS_VERB_ID } from "@akasha/pages-core/schema/action-button-config"
+import { DECLARED_EFFECTS_VERB_ID } from "@akasha/pages/core/schema/action-button-config"
 import {
   type ActionVerbContext,
   type ActionVerbHandler,

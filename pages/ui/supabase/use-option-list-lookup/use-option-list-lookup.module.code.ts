@@ -4,9 +4,9 @@ import {
   type OptionListLookup,
   parseSelectOptionArray,
   resolveDefinitionOptions,
-} from "@akasha/pages-core/schema/resolve-select-options"
-import type { SelectOption } from "@akasha/pages-core/schema/select-option-create"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+} from "@akasha/pages/core/schema/resolve-select-options"
+import type { SelectOption } from "@akasha/pages/core/schema/select-option-create"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useMemo } from "react"
 

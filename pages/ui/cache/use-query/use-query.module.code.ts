@@ -1,7 +1,7 @@
 "use client"
 
+import type { Page } from "@akasha/pages/core/page-types"
 import { flattenRow } from "@akasha/pages-access/routing-core"
-import type { Page } from "@akasha/pages-core/page-types"
 import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
 import {
   createRegularPipeline,

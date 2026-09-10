@@ -1,11 +1,11 @@
 "use client"
 
-import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
 import {
   type CompletionShape,
   completionValues,
   uncompletionValues,
-} from "@akasha/pages-core/task-lifecycle"
+} from "@akasha/pages/core/task-lifecycle"
+import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useCallback, useMemo } from "react"
 

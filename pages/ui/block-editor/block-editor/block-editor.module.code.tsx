@@ -1,12 +1,12 @@
 "use client"
 
 import { useDebouncedCallback } from "@akasha/design-primitives/use-debounced-callback"
-import type { Block, RichDocument } from "@akasha/pages-core/property-types/rich-document"
+import type { Block, RichDocument } from "@akasha/pages/core/property-types/rich-document"
 import {
   applyEditorOp,
   type EditorOp,
   normalizeRichDocument,
-} from "@akasha/pages-core/property-types/rich-document-ops"
+} from "@akasha/pages/core/property-types/rich-document-ops"
 import { BlockAccessoryBar } from "@akasha/pages-ui/block-editor/block-accessory-bar"
 import { BlockTree } from "@akasha/pages-ui/block-editor/block-tree"
 import { collectToggleIds } from "@akasha/pages-ui/block-editor/block-type-helpers"

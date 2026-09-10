@@ -1,4 +1,4 @@
-import { asPage, type Page } from "@akasha/pages-core/page-types"
+import { asPage, type Page } from "@akasha/pages/core/page-types"
 import { JsonSchema } from "@akasha/utils/narrow/json-schema"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { z } from "zod"

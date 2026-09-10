@@ -1,7 +1,7 @@
 "use client"
 
+import type { PageCondition, PageWhere } from "@akasha/pages/core/page-types"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
-import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"
 import { useQuery } from "@akasha/pages-ui/cache/use-query"
 import {
   type PageWithProperties,

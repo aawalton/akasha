@@ -1,9 +1,9 @@
 "use client"
 
+import type { PageWhere } from "@akasha/pages/core/page-types"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { flattenRow } from "@akasha/pages-access/routing-core"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
-import type { PageWhere } from "@akasha/pages-core/page-types"
 import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
 import {
   collectRelatedIds,

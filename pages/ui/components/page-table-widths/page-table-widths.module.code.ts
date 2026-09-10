@@ -1,17 +1,17 @@
 import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
-import { formatAbsoluteInstant, instantToMillis } from "@akasha/pages-core/property-types/instant"
-import { formatPropertyNumber, toNumber } from "@akasha/pages-core/property-types/number"
-import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
-import { parseConfig } from "@akasha/pages-core/schema/pages"
+import { formatAbsoluteInstant, instantToMillis } from "@akasha/pages/core/property-types/instant"
+import { formatPropertyNumber, toNumber } from "@akasha/pages/core/property-types/number"
+import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
+import { parseConfig } from "@akasha/pages/core/schema/pages"
 import {
   type InstantConfig,
   instantConfigSchema,
   multiSelectConfigSchema,
   numberConfigSchema,
   selectConfigSchema,
-} from "@akasha/pages-core/schema/property-config-schemas"
-import type { PropertyDefinition, PropertyType } from "@akasha/pages-core/types"
-import { formatSmartDate } from "@akasha/pages-core/view/format-smart-date"
+} from "@akasha/pages/core/schema/property-config-schemas"
+import type { PropertyDefinition, PropertyType } from "@akasha/pages/core/types"
+import { formatSmartDate } from "@akasha/pages/core/view/format-smart-date"
 import {
   type PageTableColumn,
   TITLE_COLUMN_ID,

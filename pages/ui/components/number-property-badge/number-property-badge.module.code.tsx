@@ -1,14 +1,14 @@
 "use client"
 
-import { formatPropertyNumber, toNumber } from "@akasha/pages-core/property-types/number"
-import { resolveBadgeVariant } from "@akasha/pages-core/resolve-badge-variant"
-import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
-import { parseConfig } from "@akasha/pages-core/schema/pages"
+import { formatPropertyNumber, toNumber } from "@akasha/pages/core/property-types/number"
+import { resolveBadgeVariant } from "@akasha/pages/core/resolve-badge-variant"
+import type { BadgeVariant } from "@akasha/pages/core/schema/color-rule-variant"
+import { parseConfig } from "@akasha/pages/core/schema/pages"
 import {
   type NumberConfig,
   numberConfigSchema,
-} from "@akasha/pages-core/schema/property-config-schemas"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+} from "@akasha/pages/core/schema/property-config-schemas"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"

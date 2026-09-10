@@ -2,8 +2,8 @@ import type {
   GroupGranularity,
   ViewLayout,
   VisibilityChange,
-} from "@akasha/pages-core/schema/view-data"
-import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
+} from "@akasha/pages/core/schema/view-data"
+import type { GalleryCardSize } from "@akasha/pages/core/view/gallery"
 import type { GroupOption } from "akasha/design/patterns/group-button/group-button.module.code.tsx"
 import type {
   SortEntry,

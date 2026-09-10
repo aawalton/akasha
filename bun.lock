@@ -12,7 +12,6 @@
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
         "@akasha/seat-system": "workspace:*",
@@ -89,7 +88,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -141,7 +139,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
@@ -203,7 +200,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -377,19 +373,11 @@
         "@akasha/code": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/utils": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "pages/access": {
       "name": "@akasha/pages-access",
-      "dependencies": {
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "pages/core": {
-      "name": "@akasha/pages-core",
       "dependencies": {
         "@akasha/pages": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -409,7 +397,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@dnd-kit/core": ">=6",
@@ -437,7 +424,6 @@
       "dependencies": {
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@tanstack/db": "^0.6.14",
         "zod": "^4.3.6",
@@ -454,7 +440,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "isbot": "^5.1.36",
@@ -718,7 +703,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
@@ -754,7 +738,7 @@
       "name": "@akasha/utils",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/pages-core": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -800,8 +784,6 @@
     "@akasha/pages": ["@akasha/pages@workspace:pages"],
 
     "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/access"],
-
-    "@akasha/pages-core": ["@akasha/pages-core@workspace:pages/core"],
 
     "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages/ui"],
 

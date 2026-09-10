@@ -1,4 +1,4 @@
-import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
+import { formatShortNumber as fmt } from "@akasha/pages/core/property-types/number"
 import {
   gainedStars,
   sumOwnedRanks,

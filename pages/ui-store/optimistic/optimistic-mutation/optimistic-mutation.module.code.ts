@@ -1,4 +1,4 @@
-import { applyJsonPatch } from "@akasha/pages-core/json-patch/apply"
+import { applyJsonPatch } from "@akasha/pages/core/json-patch/apply"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { Json } from "@akasha/utils/narrow/json-value"

@@ -1,4 +1,4 @@
-import { MEDIA_FORMATS } from "@akasha/pages-core/media-formats"
+import { MEDIA_FORMATS } from "@akasha/pages/core/media-formats"
 import { STORED_READ_ALOUD_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import {

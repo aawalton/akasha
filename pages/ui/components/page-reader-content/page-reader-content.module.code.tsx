@@ -1,9 +1,9 @@
 "use client"
 
 import { cn } from "@akasha/design-primitives/cn"
+import { bodyPropertyIsContentTier } from "@akasha/pages/core/schema/content-tier"
+import { expandDateMentions } from "@akasha/pages/core/view/expand-date-mentions"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { bodyPropertyIsContentTier } from "@akasha/pages-core/schema/content-tier"
-import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 import {
   decideReadRestore,

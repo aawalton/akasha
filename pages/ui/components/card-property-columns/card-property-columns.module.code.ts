@@ -1,4 +1,4 @@
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import {
   type PageTableColumn,
   TITLE_COLUMN_ID,

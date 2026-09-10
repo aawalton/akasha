@@ -2,9 +2,9 @@
 
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import type { FilterOperator } from "@akasha/pages-core/property-types/types"
-import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
-import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
+import type { FilterOperator } from "@akasha/pages/core/property-types/types"
+import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
+import type { PageFilterDimension } from "@akasha/pages/core/view/generate-filter-dimensions"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { DateBadge } from "akasha/design/badges/date-badge/date-badge.module.code.tsx"
 import { InputBadge } from "akasha/design/badges/input-badge/input-badge.module.code.tsx"

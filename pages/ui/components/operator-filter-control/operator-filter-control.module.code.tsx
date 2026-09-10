@@ -3,10 +3,10 @@
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useDebouncedCallback } from "@akasha/design-primitives/use-debounced-callback"
-import type { FilterOperator } from "@akasha/pages-core/property-types/types"
-import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
-import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
-import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
+import type { FilterOperator } from "@akasha/pages/core/property-types/types"
+import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
+import type { ViewFilter } from "@akasha/pages/core/schema/view-data"
+import type { PageFilterDimension } from "@akasha/pages/core/view/generate-filter-dimensions"
 import {
   BetweenDateValueInput,
   BetweenInstantValueInput,

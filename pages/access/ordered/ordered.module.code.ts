@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages-core/page-types"
-import type { SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
+import type { Page } from "@akasha/pages/core/page-types"
+import type { SequenceConfig } from "@akasha/pages/core/schema/sequence-config"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { streamPages } from "../iterate/iterate.module.code.ts"
 import { getSequenceConfig } from "../page-type-config/page-type-config.module.code.ts"

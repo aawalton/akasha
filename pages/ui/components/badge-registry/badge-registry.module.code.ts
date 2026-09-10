@@ -1,4 +1,4 @@
-import type { PropertyType } from "@akasha/pages-core/types"
+import type { PropertyType } from "@akasha/pages/core/types"
 import { ActionButtonPropertyBadge } from "@akasha/pages-ui/components/action-button-property-badge"
 import { AggregatePropertyBadge } from "@akasha/pages-ui/components/aggregate-property-badge"
 import { BooleanPropertyBadge } from "@akasha/pages-ui/components/boolean-property-badge"

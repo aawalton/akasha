@@ -5,7 +5,7 @@ import {
   DEFAULT_GROUP_PAGE_SIZE,
   DEFAULT_ITEM_PAGE_SIZE,
   DEFAULT_PAGE_SIZE,
-} from "@akasha/pages-core/schema/view-data"
+} from "@akasha/pages/core/schema/view-data"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
 

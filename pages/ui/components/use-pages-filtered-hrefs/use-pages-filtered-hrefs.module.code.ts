@@ -1,8 +1,8 @@
 "use client"
 
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { buildPageHref } from "@akasha/pages/url/page-href"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import {
   buildRelationBackLinkHref,

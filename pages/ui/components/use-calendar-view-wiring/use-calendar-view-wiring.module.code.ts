@@ -1,10 +1,10 @@
-import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+import type { ViewConfig } from "@akasha/pages/core/schema/view-data"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import {
   calendarDayToPropertyValue,
   isCalendarDraggablePropertyType,
   isCalendarKeyablePropertyType,
-} from "@akasha/pages-core/view/calendar-date-to-value"
+} from "@akasha/pages/core/view/calendar-date-to-value"
 import { useCallback, useMemo } from "react"
 
 interface UseCalendarViewWiringArgs {

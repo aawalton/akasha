@@ -1,4 +1,4 @@
-import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
+import { asPage, type Page, type PageWhere } from "@akasha/pages/core/page-types"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { z } from "zod"
 import { createFilePage, upsertFilePage } from "../file-write/file-write.module.code.ts"

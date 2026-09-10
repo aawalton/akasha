@@ -1,9 +1,9 @@
 "use client"
 
+import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { buildPageHref } from "@akasha/pages/url/page-href"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { buildTableColumns } from "@akasha/pages-ui/components/card-property-columns"
 import { pageRowToPageDataJSON, toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
 import { ToggleSection } from "@akasha/pages-ui/components/page-detail-sections"

@@ -1,10 +1,10 @@
 "use client"
 
+import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
+import { completionShapeOf } from "@akasha/pages/core/task-lifecycle"
+import type { PageDataJSON, PropertyDefinition } from "@akasha/pages/core/types"
+import { type GalleryCardSize, resolveGalleryCoverUrl } from "@akasha/pages/core/view/gallery"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
-import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
-import { type GalleryCardSize, resolveGalleryCoverUrl } from "@akasha/pages-core/view/gallery"
 import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import {

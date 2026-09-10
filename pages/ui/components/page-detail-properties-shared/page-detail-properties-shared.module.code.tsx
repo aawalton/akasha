@@ -1,8 +1,8 @@
 "use client"
 
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
-import type { BadgeVariant } from "@akasha/pages-core/schema/color-rule-variant"
-import { formatSmartDate } from "@akasha/pages-core/view/format-smart-date"
+import type { BadgeVariant } from "@akasha/pages/core/schema/color-rule-variant"
+import { formatSmartDate } from "@akasha/pages/core/view/format-smart-date"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { Calendar } from "akasha/design/forms/calendar/calendar.module.code.tsx"
 import { useState } from "react"

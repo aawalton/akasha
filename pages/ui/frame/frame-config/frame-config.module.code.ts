@@ -1,4 +1,4 @@
-import type { FrameConfig } from "@akasha/pages-core/schema/detail-config"
+import type { FrameConfig } from "@akasha/pages/core/schema/detail-config"
 
 export type FrameLoadScroll = NonNullable<NonNullable<FrameConfig["autoScroll"]>["loadScroll"]>
 

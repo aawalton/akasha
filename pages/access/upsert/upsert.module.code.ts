@@ -1,4 +1,4 @@
-import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
+import { asPage, type Page, type PageWhere } from "@akasha/pages/core/page-types"
 import { isJson } from "@akasha/utils/narrow/is-json"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { Json } from "@akasha/utils/narrow/json-value"

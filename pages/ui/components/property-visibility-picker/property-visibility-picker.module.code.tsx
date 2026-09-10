@@ -3,7 +3,7 @@
 import { FilterTextField } from "@akasha/design-primitives/filterable-list"
 import { Heading } from "@akasha/design-primitives/heading"
 import { SubView } from "@akasha/design-primitives/sub-view"
-import type { PropertyVisibilityMode, VisibilityChange } from "@akasha/pages-core/schema/view-data"
+import type { PropertyVisibilityMode, VisibilityChange } from "@akasha/pages/core/schema/view-data"
 import {
   applySectionDrop,
   computePickerDropZone,

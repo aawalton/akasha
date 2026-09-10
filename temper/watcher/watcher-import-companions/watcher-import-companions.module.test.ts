@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { asPage } from "@akasha/pages-core/page-types"
+import { asPage } from "@akasha/pages/core/page-types"
 import { asRecord } from "@akasha/utils/narrow/as-record"
 import { createNewCompanion } from "akasha/temper/companions-core/companion-factory/companion-factory.module.code.ts"
 import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"

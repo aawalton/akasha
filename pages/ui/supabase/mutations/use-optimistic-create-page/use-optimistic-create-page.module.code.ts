@@ -1,5 +1,5 @@
+import type { Page } from "@akasha/pages/core/page-types"
 import type { CreatePageArgs } from "@akasha/pages-access/create"
-import type { Page } from "@akasha/pages-core/page-types"
 import { runOptimisticMutation } from "@akasha/pages-ui/supabase/mutations/apply-prediction"
 import { buildPredictedRow } from "@akasha/pages-ui/supabase/mutations/build-predicted-row"
 import { resolvePageTypeId } from "@akasha/pages-ui/supabase/mutations/collection-lookup"

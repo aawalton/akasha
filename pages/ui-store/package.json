@@ -28,7 +28,6 @@
   "dependencies": {
     "@akasha/pages": "workspace:*",
     "@akasha/pages-access": "workspace:*",
-    "@akasha/pages-core": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@tanstack/db": "^0.6.14",
     "zod": "^4.3.6"

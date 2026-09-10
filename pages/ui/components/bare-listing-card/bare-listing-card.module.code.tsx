@@ -1,9 +1,9 @@
 "use client"
 
+import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
+import { completionShapeOf } from "@akasha/pages/core/task-lifecycle"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
-import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import type { ReactElement } from "react"

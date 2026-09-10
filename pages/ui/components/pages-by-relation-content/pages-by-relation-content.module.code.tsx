@@ -1,9 +1,9 @@
 "use client"
 
+import type { ViewConfig } from "@akasha/pages/core/schema/view-data"
+import { completionShapeOf } from "@akasha/pages/core/task-lifecycle"
 import { buildPageListingHref } from "@akasha/pages/url/page-listing-href"
 import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
-import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
 import { viewConfigToListingParams } from "@akasha/pages-ui/components/synthetic-config"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"

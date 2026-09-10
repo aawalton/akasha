@@ -1,7 +1,7 @@
 "use client"
 
-import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
-import { applySearch } from "@akasha/pages-core/view/apply-search"
+import type { ViewFilter } from "@akasha/pages/core/schema/view-data"
+import { applySearch } from "@akasha/pages/core/view/apply-search"
 import {
   buildTableColumns,
   isCardEligibleProperty,

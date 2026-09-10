@@ -1,7 +1,7 @@
 "use client"
 
 import { Button } from "@akasha/design-primitives/button"
-import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
+import { formatShortNumber as fmt } from "@akasha/pages/core/property-types/number"
 import {
   gainedStars,
   sumOwnedRanks,

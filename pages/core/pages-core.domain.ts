@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const pagesCore = {
   id: "01a05b92-a9c7-7180-bdd4-8e13e47841e5",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-core",
   definition: "what a page's values mean before any store or screen",
-  manifest: "json",
+
   parts: [
     "domain/pages-core-property-types",
     "domain/pages-core-schema",
@@ -48,4 +48,4 @@ export const pagesCore = {
       statement: "The icon index is written by a command no page here names.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

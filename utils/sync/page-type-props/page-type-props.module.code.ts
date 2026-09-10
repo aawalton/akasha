@@ -1,4 +1,4 @@
-import type { StorageTier } from "@akasha/pages-core/types"
+import type { StorageTier } from "@akasha/pages/core/types"
 import type { Json } from "@akasha/utils/narrow/json-value"
 
 export interface RelationTarget {

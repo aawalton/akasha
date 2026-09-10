@@ -1,12 +1,12 @@
-import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
+import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
 import type {
   ViewConfig,
   ViewFilter,
   ViewLayout,
   VisibilityChange,
-} from "@akasha/pages-core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
-import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
+} from "@akasha/pages/core/schema/view-data"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
+import type { GalleryCardSize } from "@akasha/pages/core/view/gallery"
 import type { ReorderCardsHandler } from "@akasha/pages-ui/components/use-reorder-view-wiring"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import type { PageTypeOption } from "@akasha/pages-ui/components/view-settings-options"

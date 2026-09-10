@@ -1,9 +1,9 @@
 "use client"
 
-import type { PropertyValue } from "@akasha/pages-core/property-types/types"
-import { resolveBadgeVariant } from "@akasha/pages-core/resolve-badge-variant"
-import { parseConfig } from "@akasha/pages-core/schema/pages"
-import { textConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
+import type { PropertyValue } from "@akasha/pages/core/property-types/types"
+import { resolveBadgeVariant } from "@akasha/pages/core/resolve-badge-variant"
+import { parseConfig } from "@akasha/pages/core/schema/pages"
+import { textConfigSchema } from "@akasha/pages/core/schema/property-config-schemas"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { InputBadge } from "akasha/design/badges/input-badge/input-badge.module.code.tsx"

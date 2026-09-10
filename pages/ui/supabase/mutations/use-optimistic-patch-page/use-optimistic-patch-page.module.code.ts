@@ -1,5 +1,5 @@
+import type { Page } from "@akasha/pages/core/page-types"
 import type { PatchPageArgs } from "@akasha/pages-access/patch"
-import type { Page } from "@akasha/pages-core/page-types"
 import type { InteractionToken } from "@akasha/pages-ui/perf/page-card-perf"
 import { runOptimisticMutation } from "@akasha/pages-ui/supabase/mutations/apply-prediction"
 import { buildOverlay, buildPatchPlan } from "@akasha/pages-ui/supabase/mutations/build-patch-plan"

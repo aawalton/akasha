@@ -1,7 +1,7 @@
 "use client"
 
-import { actionButtonConfigSchema } from "@akasha/pages-core/schema/action-button-config"
-import { parseConfig } from "@akasha/pages-core/schema/pages"
+import { actionButtonConfigSchema } from "@akasha/pages/core/schema/action-button-config"
+import { parseConfig } from "@akasha/pages/core/schema/pages"
 import {
   getActionVerb,
   getActionVerbPresentation,

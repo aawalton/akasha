@@ -10,9 +10,9 @@ import {
   DialogTitle,
 } from "@akasha/design-primitives/dialog"
 import { Spinner } from "@akasha/design-primitives/spinner"
-import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
-import type { QuickAddConfig } from "@akasha/pages-core/schema/quick-add"
-import type { PropertyDefinition } from "@akasha/pages-core/types"
+import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
+import type { QuickAddConfig } from "@akasha/pages/core/schema/quick-add"
+import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useState } from "react"
 import { QuickAddForm } from "../quick-add-form/quick-add-form.module.code.tsx"

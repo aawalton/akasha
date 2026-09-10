@@ -1,7 +1,7 @@
 "use client"
 
+import { expandDateMentions } from "@akasha/pages/core/view/expand-date-mentions"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { BlockEditor } from "@akasha/pages-ui/block-editor/block-editor"
 import { MultiRelationPropertyBadge } from "@akasha/pages-ui/components/multi-relation-property-badge"
 import { PageDetailHeaderMenu } from "@akasha/pages-ui/components/page-detail-header-menu"

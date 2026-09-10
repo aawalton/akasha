@@ -7,8 +7,8 @@ import {
   DATE_SENTINEL_OPTIONS,
   RELATIVE_DIRECTION_OPTIONS,
   RELATIVE_UNIT_OPTIONS,
-} from "@akasha/pages-core/property-types/date-sentinels"
-import type { ReadonlyJSONValue } from "@akasha/pages-core/schema/pages"
+} from "@akasha/pages/core/property-types/date-sentinels"
+import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
 import {
   betweenDateToJson,
   betweenInstantToJson,
