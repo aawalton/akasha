@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { StandardAgentEnglishProperty } from "../../standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
 
-export type Constraints = string
+export type Constraints = List<string>
 
 export const constraints = {
   id: "01a058a3-b01f-7000-8216-401fe8124486",

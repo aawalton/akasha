@@ -11,7 +11,7 @@ export type Initiative = Page & {
   persona: InitiativePersona
   parent?: InitiativeParent
   intents?: Intents
-  constraints?: readonly Constraints[]
+  constraints?: Constraints
 }
 
 export const initiative = {
