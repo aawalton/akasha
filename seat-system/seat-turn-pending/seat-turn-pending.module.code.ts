@@ -13,10 +13,6 @@ export const TURN_PENDING_COMPONENTS = [
 
 export type TurnPendingComponent = (typeof TURN_PENDING_COMPONENTS)[number]
 
-// WHAT IS KEPT OF A COMPONENT IS THE BOOLEAN. There was a stamp beside it once, and it never left
-// this process: the write strips a `{ value, at }` down to the value, and akasha declares no field
-// to land the stamp in. What came back was the sidecar's own mtime put back on, which says when the
-// file was last written rather than when the component changed.
 export interface PendingRecord {
   readonly value: boolean
 }
