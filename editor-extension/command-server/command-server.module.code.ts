@@ -5,7 +5,7 @@ import {
   LEASE_MS,
   leaseAsked,
   PROTOCOL,
-} from "akasha/editor-extension/commands-served/commands-served.module.code.ts"
+} from "akasha/editor-extension/harness-wire/harness-wire.module.code.ts"
 import { sayAnswer } from "../../commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "../../commands/modules/calling/calling.module.code.ts"
 import { duringOneCall } from "../../commands/modules/during-call/during-call.module.code.ts"

@@ -3,7 +3,7 @@ import { mkdirSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import { colorIn, WORKING_PAGE } from "@akasha/seat-system/seat-turn-color/testing"
-import { LEASE_ENV } from "akasha/editor-extension/commands-served/commands-served.module.code.ts"
+import { LEASE_ENV } from "akasha/editor-extension/harness-wire/harness-wire.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import {
   askServed,
