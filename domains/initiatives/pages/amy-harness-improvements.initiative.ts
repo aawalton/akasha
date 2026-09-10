@@ -18,11 +18,7 @@ export const amyHarnessImprovements = {
       workingMemory:
         "Her pod ran a September 2 checkout querying the store with `groupSlugs` and reading `row.scaleSlug`, both since renamed; the store 400s and the route turns any refusal into 503. Categorize survived by looking up on `slug`. Both sites are deployed, and a restart no longer blanks a tile, since a group with no relayed reading now reads the readout's own row. Left: whether her three tiles draw on her phone.",
     },
-    {
-      statement: "Alan and Jenny have one widget between them for Alan's multiplier.",
-      workingMemory:
-        "Alan settled the tile: label Cost, reading the multiplier of the block he is in, green at zero, black above one, and between them yellow where the surplus is blue and red where the surplus is green. `module/cost-color` holds that rule with a test, and `computed-property-module/cost-multiplier` holds the ladder. Left to build: the readout, a reading service, two routes, two widget pages, and the tiles in both iOS extensions.",
-    },
+
     {
       statement: "Alan's phone drains its health samples into akasha every day.",
       workingMemory:

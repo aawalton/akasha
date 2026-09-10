@@ -115,6 +115,10 @@ export const alanHarness = {
     },
     {
       invariantKind: "departure",
+      statement: "Alan and Jenny have one widget between them for Alan's multiplier.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Alan's code editor status line shows Claude usage and the three readout groups.",
     },
     {
