@@ -335,10 +335,13 @@ export function servingFrom(at: CommandServerAt): Serving {
   return { ask, dispose }
 }
 
+function parseLine(said: unknown): Record<string, unknown> | null {
+  return said === null || typeof said !== "object" ? null : (said as Record<string, unknown>)
+}
+
 function readLine(line: string): Record<string, unknown> | null {
   try {
-    const said: unknown = JSON.parse(line)
-    return said === null || typeof said !== "object" ? null : (said as Record<string, unknown>)
+    return parseLine(JSON.parse(line))
   } catch {
     return null
   }
