@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { MonarchRecord } from "../records/monarch-record.page-type.types.ts"
-import type { TagColour } from "./properties/tag-colour.text-property.ts"
-import type { TagPlace } from "./properties/tag-place.number-property.ts"
-
-export type MonarchTag = MonarchRecord & {
-  tagColour: TagColour
-  tagPlace: TagPlace
-}
 
 export const monarchTag = {
   id: "01a0680a-1a00-700f-a758-9b2c6e3f110f",
@@ -31,4 +23,5 @@ export const monarchTag = {
       statement: "Nothing here creates a tag.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

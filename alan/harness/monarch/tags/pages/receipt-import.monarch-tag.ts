@@ -1,4 +1,4 @@
-import type { MonarchTag } from "../monarch-tag.page-type.ts"
+import type { MonarchTag } from "../monarch-tag.page-type.types.ts"
 
 export const receiptImport = {
   id: "01a06559-5ea9-700a-8a3d-3d393687b258",
