@@ -1,4 +1,4 @@
-import type { SubagentKind } from "../../subagent-kind.page-type.ts"
+import type { SubagentKind } from "../../subagent-kind.page-type.types.ts"
 
 export const explore = {
   id: "01a06861-f664-7abd-b503-d89b310876ae",

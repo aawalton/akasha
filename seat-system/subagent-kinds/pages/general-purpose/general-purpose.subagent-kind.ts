@@ -1,4 +1,4 @@
-import type { SubagentKind } from "../../subagent-kind.page-type.ts"
+import type { SubagentKind } from "../../subagent-kind.page-type.types.ts"
 
 export const generalPurpose = {
   id: "01a06861-f664-72f6-990b-9e3e67ca9b90",

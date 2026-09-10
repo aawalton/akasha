@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Model } from "../seats/properties/model.text-property.ts"
-import type { DispatchedAs } from "./properties/dispatched-as.text-property.ts"
-import type { SubagentPrompt } from "./properties/subagent-prompt.file-property.ts"
-
-export type SubagentKind = Domain & {
-  dispatchedAs: DispatchedAs
-  subagentPrompt: SubagentPrompt
-  model?: Model
-}
 
 export const subagentKind = {
   id: "01a06838-7a9d-7394-97ff-d069ea588410",
@@ -56,4 +46,5 @@ export const subagentKind = {
       statement: "A subagent's dispatched-as reaches a kind page rather than being text.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
