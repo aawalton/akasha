@@ -15,8 +15,8 @@ function normalize(s: string): string {
 }
 
 export function createRisingEdgeDetector(marker: string): RisingEdgeDetector {
-  const SLACK = 256
-  const keep = marker.length + SLACK
+  const slack = 256
+  const keep = marker.length + slack
   const decoder = new TextDecoder()
   const wanted = normalize(marker)
   let tail = ""
