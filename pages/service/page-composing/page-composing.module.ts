@@ -70,7 +70,7 @@ export const pageComposing = {
     {
       invariantKind: "departure",
       statement:
-        "A page whose type declares a property held in a file takes a folder of its own there.",
+        "A page whose type declares a property held beside the page takes a folder of its own.",
     },
     {
       invariantKind: "departure",

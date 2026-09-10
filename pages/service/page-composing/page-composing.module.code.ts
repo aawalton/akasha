@@ -111,7 +111,7 @@ const BYTES = new TextEncoder()
 
 export function besideItsPage(root: string, carried: readonly Carried[]): boolean {
   const filed = filePropertiesAt(root)
-  return carried.some((one) => filed.get(one.declaredBy)?.has(one.propertySlug) === true)
+  return carried.some((one) => filed.get(one.declaredBy)?.get(one.propertySlug) === null)
 }
 
 export function folderFor(plural: string, pageTypeSlug: string, slug: string): string {
