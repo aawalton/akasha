@@ -1,18 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Attempt } from "./properties/attempt.number-property.ts"
-import type { Derivation } from "./properties/derivation.file-property.ts"
-import type { ProofStatus } from "./properties/proof-status.select-property.ts"
-import type { Proves } from "./properties/proves.relation-property.ts"
-
-export type Proof = Page & {
-  title: Title
-  proves: Proves
-  proofStatus: ProofStatus
-  attempt: Attempt
-  derivation?: Derivation
-}
 
 export const proof = {
   id: "01a0657f-5da8-7d50-9da8-5ad4177c9541",
@@ -53,4 +39,5 @@ export const proof = {
       statement: "A derivation justifies every line the derivation numbers.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

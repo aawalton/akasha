@@ -1,4 +1,4 @@
-import type { Proof } from "../../proof.page-type.ts"
+import type { Proof } from "../../proof.page-type.types.ts"
 
 export const reflexivityAttempt1 = {
   id: "019f0f5a-12ab-7117-b622-1c1e718c6017",
