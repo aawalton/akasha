@@ -66,9 +66,13 @@ export function passingIn(shadow: Shadow): Passing {
   if (design === undefined) {
     throw new Error(`the index files no \`${DOMAIN}/${PALETTE}\`, so the palette's home is unknown`)
   }
+  const own = shadow.index.listedAt(CODE_CHECK, OWN)[0]
+  if (own === undefined) {
+    throw new Error(`the index files no \`${CODE_CHECK}/${OWN}\`, so this check's home is unknown`)
+  }
   return {
     palette: `${dirname(design.path)}/`,
-    home: `${dirname(codeAt(shadow, CODE_CHECK, OWN))}/`,
+    home: `${dirname(own.path)}/`,
     granted: new Map(
       GRANTS.map((one) => [
         codeAt(shadow, one.pageTypeSlug, one.slug),

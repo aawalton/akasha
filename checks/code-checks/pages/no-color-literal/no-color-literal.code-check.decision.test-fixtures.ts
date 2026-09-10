@@ -77,7 +77,7 @@ export function rooted(
   founded(root)
   for (const kind of ["domain", "module", "code-check"]) typed(root, kind, "page")
   paged(root, "domain", "design", DESIGN_AT, DESIGN_ID, null)
-  paged(root, "code-check", "no-color-literal", CHECK_AT, CHECK_ID, "ts")
+  paged(root, "code-check", "no-color-literal", CHECK_AT, CHECK_ID, null)
   paged(root, "module", "location-map", MAP_AT, MAP_ID, "tsx")
   for (const [path, body] of Object.entries(files)) writing(root, path, body)
   return root
