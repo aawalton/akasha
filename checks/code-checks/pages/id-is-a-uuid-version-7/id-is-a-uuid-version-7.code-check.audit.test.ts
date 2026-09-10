@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { pathFiled } from "@akasha/indexes/testing"
+import { ran } from "@akasha/utils/run/running"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { idIsAUuidVersion7 } from "./id-is-a-uuid-version-7.code-check.audit.code.ts"
 
@@ -15,7 +15,13 @@ const HELPER = "akasha/one/helper.ts"
 
 const NOTES = "akasha/one/notes.md"
 
-const UNFILED = "akasha/one/unfiled.ts"
+const GONE = "akasha/one/gone.ts"
+
+function ranIn(root: string, asked: readonly string[]): undefined {
+  const done = ran(["git", "-C", root, ...asked])
+  if (done.code !== 0) throw new Error(`the tree at ${root} refused git — ${done.err.trim()}`)
+  return undefined
+}
 
 function written(root: string, at: string, body: string): undefined {
   mkdirSync(join(root, at.slice(0, at.lastIndexOf("/"))), { recursive: true })
@@ -24,10 +30,8 @@ function written(root: string, at: string, body: string): undefined {
 
 function rootWith(bodies: Readonly<Record<string, string>>): string {
   const root = scratch.rootFor("akasha-id-audit-")
-  for (const [at, body] of Object.entries(bodies)) {
-    written(root, at, body)
-    pathFiled(root, at, [{ path: at, id: "01a04b5e-39e5-7730-9318-c34e7807c200" }])
-  }
+  for (const [at, body] of Object.entries(bodies)) written(root, at, body)
+  ranIn(root, ["init", "-q"])
   return root
 }
 
@@ -35,7 +39,7 @@ function page(id: string): string {
   return `export const held = {\n  id: "${id}",\n} as const satisfies Check\n`
 }
 
-test("an audit reads every path the index files rather than a change", () => {
+test("an audit reads every text the tree holds rather than a change", () => {
   const said = idIsAUuidVersion7(rootWith({ [HELD]: page("held-1") }))
   expect(said.map((one) => one.path)).toEqual([HELD])
   expect(said[0]?.reason).toContain("is not a uuid")
@@ -56,8 +60,11 @@ test("an audit passes over a file that is no TypeScript, as the check does", () 
   expect(idIsAUuidVersion7(rootWith({ [NOTES]: page("held-1") }))).toEqual([])
 })
 
-test("an audit judges no file the index does not file", () => {
+test("a path the tree names and the disk no longer holds reads as nothing", () => {
   const root = rootWith({ [HELD]: page("01a04b5e-39e5-7730-9318-c34e7807c200") })
-  written(root, UNFILED, page("held-1"))
+  written(root, GONE, page("held-1"))
+  ranIn(root, ["add", "-A"])
+  rmSync(join(root, GONE))
+
   expect(idIsAUuidVersion7(root)).toEqual([])
 })
