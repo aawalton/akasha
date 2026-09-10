@@ -9,11 +9,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "Every test file is held to its ceiling by a refusal rather than by a kill.",
-      workingMemory:
-        "code-tests hands the spawn a cpuCeiling, so the watcher kills the run at the cap and the number reported is the cap rather than the cost: two files costing 7.1 and 15.0 both said 5.1, already filed as a finding. Checks now run to the end and refuse after, which reports what the run truly cost. Tests take that road too, and the measure flag goes with it, having existed only to get a number no kill had truncated.",
-    },
-    {
       statement: "A change appends lines to a file rather than handing that file over whole.",
       workingMemory:
         "Every mechanical change is whole-body: add-file-of-any-kind and the rest hand over the whole content of a path. A log is append-only, recordCost serialising one line and appending it. Carrying today's 40292 rows into the split logs meant handing over 14.3MB of bodies for what are every one of them appends, and it landed, so what is wanted is the cost rather than the reach. Alan has this as a new type in the change union.",
