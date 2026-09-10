@@ -9,14 +9,9 @@ export const dallaDeployCleanup = {
   persona: "dalla",
   intents: [
     {
-      statement: "Every workstation service has deployed through `akasha deploy`.",
-      workingMemory:
-        "A workstation service page is found by the page-type index rather than by folder, and half of them sit beside the code they run. `akasha deploy` is the only road to one as of cd0e554, writing its systemd units through `module/service-putting-up`. `akasha infrastructure service` keeps start, stop, restart and a `sweep` that takes a unit no page accounts for away and writes none. A dry run over every one on 2026-09-10 refused none. Left: running it for real.\n",
-    },
-    {
       statement: "Every cluster service has deployed through `akasha deploy`.",
       workingMemory:
-        "52 cluster service pages. A dry run over every one on 2026-09-10: 28 already as their page describes, 12 differ and would apply cleanly, 11 refuse because a checksum or an image is a value nothing filled in, and registry refuses at `kubectl diff` on its Service. So the road is open and the eleven are blocked on values rather than on the deploy. `the-akasha-deploy-path-places-no-secret` is the finding on file for that.\n",
+        "52 cluster service pages. Run on 2026-09-10: 36 now run exactly as their pages describe, 5 are web apps whose deploy would build and roll them out, and 11 refuse because a checksum or an image is a value nothing filled in, which is the finding `the-akasha-deploy-path-places-no-secret`. Applying git-transport's page found two faults, both mended: a hook stub written through a stale symlink, and `kubectl diff` asked in `default` rather than in the workload's namespace.\n",
     },
     {
       statement: "Every ios app has deployed through `akasha deploy`.",

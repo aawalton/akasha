@@ -167,6 +167,10 @@ export const workstationService = {
       invariantKind: "gap",
       statement: "Every workstation service runs under systemd.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A workstation service reaches systemd through `akasha deploy` alone.",
+    },
   ],
   types: "ts",
 } as const satisfies PageType
