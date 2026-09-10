@@ -81,14 +81,14 @@ describe("assessGlobalKill", () => {
 })
 
 describe("assessRecoveryWindow", () => {
-  const WINDOW_MS = 60_000
+  const windowMs = 60_000
 
   test("resets the window the moment the leg reads clear", () => {
     const out = assessRecoveryWindow({
       globalTripped: false,
       nowMs: 1000,
       lastGlobalKillAtMs: 500,
-      recoveryWindowMs: WINDOW_MS,
+      recoveryWindowMs: windowMs,
     })
     expect(out).toMatchObject({ execute: false, recovered: true })
   })
@@ -98,7 +98,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: 1000,
       lastGlobalKillAtMs: null,
-      recoveryWindowMs: WINDOW_MS,
+      recoveryWindowMs: windowMs,
     })
     expect(out.execute).toBe(true)
   })
@@ -108,7 +108,7 @@ describe("assessRecoveryWindow", () => {
       globalTripped: true,
       nowMs: 1000,
       lastGlobalKillAtMs: 0,
-      recoveryWindowMs: WINDOW_MS,
+      recoveryWindowMs: windowMs,
     })
     expect(out.execute).toBe(false)
     expect(out.reason).toContain("recovery window")
@@ -117,9 +117,9 @@ describe("assessRecoveryWindow", () => {
   test("escalates once the window has elapsed", () => {
     const out = assessRecoveryWindow({
       globalTripped: true,
-      nowMs: WINDOW_MS + 1,
+      nowMs: windowMs + 1,
       lastGlobalKillAtMs: 0,
-      recoveryWindowMs: WINDOW_MS,
+      recoveryWindowMs: windowMs,
     })
     expect(out.execute).toBe(true)
     expect(out.recovered).toBe(false)
