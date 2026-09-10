@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic06AssyriaAndTheNeoBabylonianEmpire = {
   id: "01a065a7-0857-7011-82a2-ee0d4a1d132f",

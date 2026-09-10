@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic08DrawingPaintingPrintmakingPhotography = {
   id: "01a065a7-0856-700a-80a6-39730a85d332",

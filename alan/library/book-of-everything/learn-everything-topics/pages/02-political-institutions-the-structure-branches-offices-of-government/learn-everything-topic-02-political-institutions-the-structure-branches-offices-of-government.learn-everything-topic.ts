@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic02PoliticalInstitutionsTheStructureBranchesOfficesOfGovernment = {
   id: "01a065a7-0855-702b-b11f-bbe704b78d11",

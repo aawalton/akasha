@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic04HumanPopulationsUrbanAndRuralCommunities = {
   id: "01a065a7-0855-7021-8a99-406d1f3a82df",

@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic02ExperienceAndCriticismOfArtTheNonaestheticContextOfArt = {
   id: "01a065a7-0856-7000-859d-753f35227dc8",

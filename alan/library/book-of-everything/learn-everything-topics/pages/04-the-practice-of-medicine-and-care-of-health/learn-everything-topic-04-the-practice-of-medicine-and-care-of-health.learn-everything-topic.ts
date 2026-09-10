@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic04ThePracticeOfMedicineAndCareOfHealth = {
   id: "01a065a7-0855-700e-a385-e5c157f6219d",

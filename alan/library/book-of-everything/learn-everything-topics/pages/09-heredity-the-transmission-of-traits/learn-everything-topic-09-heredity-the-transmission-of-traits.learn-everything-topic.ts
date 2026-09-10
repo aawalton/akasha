@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic09HeredityTheTransmissionOfTraits = {
   id: "01a065a7-0854-7015-bd7c-ee1b0497ec74",

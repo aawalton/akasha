@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic02MetabolismBioenergeticsAndBiosynthesis = {
   id: "01a065a7-0854-700a-b459-de61d8ebd82f",

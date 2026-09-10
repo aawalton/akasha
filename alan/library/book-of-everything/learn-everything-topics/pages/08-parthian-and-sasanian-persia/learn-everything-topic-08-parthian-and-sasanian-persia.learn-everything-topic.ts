@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic08ParthianAndSasanianPersia = {
   id: "01a065a7-0857-7013-9b93-78d8609b8372",

@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic01EarthSPropertiesStructureComposition = {
   id: "01a065a7-084d-7011-8121-ddbb581c63de",

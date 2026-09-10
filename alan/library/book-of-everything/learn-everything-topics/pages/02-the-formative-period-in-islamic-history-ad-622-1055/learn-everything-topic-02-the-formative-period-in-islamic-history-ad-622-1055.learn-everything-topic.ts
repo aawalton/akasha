@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic02TheFormativePeriodInIslamicHistoryAd6221055 = {
   id: "01a065a7-0857-7018-8dc9-0813265264ef",

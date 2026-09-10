@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic05TheAegeanMinoanAndMycenaean = {
   id: "01a065a7-0857-7010-9e1e-807bd7a4319d",

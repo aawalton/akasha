@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic01CellularBasisOfFormAndFunction = {
   id: "01a065a7-0854-700d-898f-c261e3f955c5",

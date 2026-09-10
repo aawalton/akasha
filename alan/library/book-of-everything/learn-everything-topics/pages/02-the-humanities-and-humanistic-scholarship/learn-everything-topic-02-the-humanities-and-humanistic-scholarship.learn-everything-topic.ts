@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic02TheHumanitiesAndHumanisticScholarship = {
   id: "01a065a7-085b-7017-a8e4-10ac6faaa11d",

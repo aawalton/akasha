@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic03ErasAndPeriodsOfGeologicTime = {
   id: "01a065a7-0854-7002-b768-4e9585a9db62",

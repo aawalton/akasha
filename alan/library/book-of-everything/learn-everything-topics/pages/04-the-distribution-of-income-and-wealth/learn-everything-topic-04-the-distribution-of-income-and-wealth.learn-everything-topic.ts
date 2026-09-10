@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic04TheDistributionOfIncomeAndWealth = {
   id: "01a065a7-0855-7026-a234-1839c2b97dbc",

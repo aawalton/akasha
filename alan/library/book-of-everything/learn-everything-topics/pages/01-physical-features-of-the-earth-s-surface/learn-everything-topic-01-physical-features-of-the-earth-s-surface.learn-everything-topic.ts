@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic01PhysicalFeaturesOfTheEarthSSurface = {
   id: "01a065a7-084d-701b-a9fd-e0225a6f4a6c",

@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic09OtherReligionsAndReligiousMovementsInTheModernWorld = {
   id: "01a065a7-0857-7008-9ba0-63a27a400c9e",

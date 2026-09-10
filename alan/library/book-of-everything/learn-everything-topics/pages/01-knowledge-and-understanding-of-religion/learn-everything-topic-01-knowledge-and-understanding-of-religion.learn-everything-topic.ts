@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic01KnowledgeAndUnderstandingOfReligion = {
   id: "01a065a7-0856-702e-a527-80cdee85f466",

@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic01PhilosophiesAndSystemsOfLawThePracticeOfLaw = {
   id: "01a065a7-0855-702f-8e92-68601db6edb1",

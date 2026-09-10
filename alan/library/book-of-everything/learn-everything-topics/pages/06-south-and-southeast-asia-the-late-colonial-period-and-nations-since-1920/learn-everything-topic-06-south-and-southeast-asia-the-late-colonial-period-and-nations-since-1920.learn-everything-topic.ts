@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic06SouthAndSoutheastAsiaTheLateColonialPeriodAndNationsSince1920 = {
   id: "01a065a7-085a-701e-ab88-cc26b0fccb8b",

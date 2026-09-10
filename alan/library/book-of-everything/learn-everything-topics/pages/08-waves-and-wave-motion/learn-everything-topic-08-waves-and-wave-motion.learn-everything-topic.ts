@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic08WavesAndWaveMotion = {
   id: "01a065a7-084d-700b-a0f0-42b0ad8b79ca",

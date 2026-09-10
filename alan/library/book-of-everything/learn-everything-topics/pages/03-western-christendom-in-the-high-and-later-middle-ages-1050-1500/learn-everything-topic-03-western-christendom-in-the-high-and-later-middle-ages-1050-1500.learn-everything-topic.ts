@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic03WesternChristendomInTheHighAndLaterMiddleAges10501500 = {
   id: "01a065a7-0857-7019-9542-77d8f28ace6e",

@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic05TechnologyOfIndustrialProductionProcesses = {
   id: "01a065a7-0856-7022-8585-f4bc90eb5e18",

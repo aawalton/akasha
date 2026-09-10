@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic01ChemicalElementsPeriodicVariationInTheirProperties = {
   id: "01a065a7-084d-7004-92a8-7f3e26156a0b",

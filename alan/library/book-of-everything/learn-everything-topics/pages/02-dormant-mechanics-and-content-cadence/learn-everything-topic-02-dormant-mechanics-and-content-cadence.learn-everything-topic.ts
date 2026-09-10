@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic02DormantMechanicsAndContentCadence = {
   id: "01a065a7-0856-7012-9beb-f4a11d58d4b8",

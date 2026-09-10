@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic05IndigenousReligionsOfEastAsiaReligionsOfChinaKoreaAndJapan = {
   id: "01a065a7-0857-7004-a7e6-ebcc7bef1a00",

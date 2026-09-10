@@ -1,4 +1,4 @@
-import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.ts"
+import type { LearnEverythingTopic } from "../../learn-everything-topic.page-type.types.ts"
 
 export const learnEverythingTopic02FeaturesProducedByGeomorphicProcesses = {
   id: "01a065a7-084d-701c-aeb6-feee2b5a6b64",
