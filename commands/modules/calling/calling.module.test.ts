@@ -11,7 +11,6 @@ import {
   COMMAND_TYPE,
   namespacesIn,
   OUTSIDE,
-  REPAIR_AT,
   rootWith,
   SAYS_KIND,
   sweep,
@@ -247,16 +246,23 @@ test("`index` with no index at all is refused rather than found by its path", as
   expect(said.refusals[0]).toContain("was looked for and not read")
 })
 
-test("a name looked for where no index is answers as unread and says how to build one", async () => {
+test("a name looked for where no index is answers as unread and builds the index again", async () => {
   const root = rootWith([{ slug: "held", body: ANSWERS }])
   rmSync(join(root, ".git"), { recursive: true })
   const said = await calling(["held"], { ...OUTSIDE, root })
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("was looked for and not read")
   expect(said.refusals[0]).not.toContain("is no command akasha carries")
-  expect(said.refusals[0]).toContain("bun -e ")
-  expect(said.refusals[0]).toContain(join(root, REPAIR_AT))
   expect(said.refusals[0]).not.toContain("is found without the index")
+  expect(said.refusals[0]).not.toContain("bun -e ")
+})
+
+test("a repair the scratch root refuses is said with the reason the repair gave", async () => {
+  const root = rootWith([{ slug: "held", body: ANSWERS }])
+  rmSync(join(root, ".git"), { recursive: true })
+  const said = await calling(["held"], { ...OUTSIDE, root })
+  expect(said.refusals[0]).toContain("The index could not be built again")
+  expect(said.refusals[0]).toContain("so there is no index to build")
 })
 
 test("the commands there are come from the index", () => {

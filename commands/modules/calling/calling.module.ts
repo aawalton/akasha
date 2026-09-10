@@ -46,8 +46,11 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A call reaching no index is told the run that builds an index without reading an index.",
+      statement: "The index is built again where no command is found through the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The code that repairs the index is imported rather than named by a path.",
     },
     {
       invariantKind: "departure",

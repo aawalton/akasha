@@ -10,6 +10,7 @@ import {
   typeSlugById,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
+import { indexRefresh } from "../../pages/index/refresh/index-refresh.command.code.ts"
 import type { HelpNotes } from "../../properties/help-notes.text-property.ts"
 import type { Taking } from "../../properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
@@ -87,8 +88,6 @@ const TS = "ts"
 const COMMAND = "command"
 
 export const ROOTED = "index refresh"
-
-const REPAIR_AT = "commands/pages/index/refresh/index-refresh.command.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -233,31 +232,31 @@ function refusing(said: string): Answer {
   return { report: [], refusals: [said], code: 1 }
 }
 
-export function rebuiltBy(root: string): string {
-  return (
-    `bun -e 'const a = (await import("${join(root, REPAIR_AT)}"))` +
-    `.indexRefresh([], { root: "${root}" }); ` +
-    `console.log([...a.report, ...a.refusals].join("\\n"))'`
-  )
+function repairedIn(root: string, outside: Outside): string {
+  const answer = indexRefresh([], { ...outside, root })
+  if (answer.code !== 0) {
+    return `The index could not be built again — ${answer.refusals.join("; ")}`
+  }
+  return `The index was built again — ${answer.report.join("; ")}. Say the call again.`
 }
 
-export function unreadIn(root: string, calledAs: string): string | null {
+export function unreadIn(root: string, outside: Outside): string | null {
   const at = indexNamed()
-  const said =
-    `Every command is found through the index, \`${calledAs} ${ROOTED}\` among them, ` +
-    `so none is found without one. This builds the index again without reading it:\n  ` +
-    `${rebuiltBy(root)}`
+  const saying = (opened: string): string =>
+    `${opened} Every command is found through the index, ` +
+    `\`${outside.calledAs} ${ROOTED}\` among them, so none is found without one. ` +
+    `${repairedIn(root, outside)}`
   if (!indexThere(root)) {
-    return `No index is at \`${at}\`, so no command was read. ${said}`
+    return saying(`No index is at \`${at}\`, so no command was read.`)
   }
   if (commandSlugIn(root) === null) {
-    return (
+    return saying(
       `No page the index at \`${at}\` names carries the id \`${COMMAND_TYPE}\`, ` +
-      `so nothing says which pages are commands. ${said}`
+        `so nothing says which pages are commands.`
     )
   }
   if (commandsIn(root).length === 0) {
-    return `The index at \`${at}\` carries no command, so none was read. ${said}`
+    return saying(`The index at \`${at}\` carries no command, so none was read.`)
   }
   return null
 }
@@ -316,7 +315,7 @@ async function answeredBy(
 
 function helping(root: string, outside: Outside): Answer {
   const every = commandsIn(root)
-  const unread = unreadIn(root, outside.calledAs)
+  const unread = unreadIn(root, outside)
   const report: string[] = []
   if (every.length > 0) {
     report.push(`${outside.calledAs} carries these commands:`, "")
@@ -372,7 +371,7 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   if (named === HELP || named === HELP_SHORT) return helping(root, outside)
   const carried = (saying: (unread: string | null) => string): Answer => {
     const every = commandsIn(root)
-    const unread = unreadIn(root, outside.calledAs)
+    const unread = unreadIn(root, outside)
     const held = [saying(unread)]
     if (unread !== null) held.push(unread)
     if (every.length > 0) {

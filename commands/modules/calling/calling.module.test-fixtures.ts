@@ -21,7 +21,7 @@ export const COMMAND = "command"
 
 export const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 
-export const REPAIR_AT = "commands/pages/index/refresh/index-refresh.command.code.ts"
+const REPAIR_AT = "commands/pages/index/refresh/index-refresh.command.code.ts"
 
 const BOOTSTRAP_AT = "commands/pages/index/refresh/index-refresh.command.ts"
 
