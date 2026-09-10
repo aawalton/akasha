@@ -1,4 +1,4 @@
-import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.ts"
+import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.types.ts"
 
 export const minorResolve = {
   id: "01a05fc5-f6c1-7362-a766-edcf4c1b8a3c",

@@ -1,4 +1,4 @@
-import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.ts"
+import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.types.ts"
 
 export const minorEvasion = {
   id: "01a05fc5-f6be-742f-a474-8811a1c739b1",

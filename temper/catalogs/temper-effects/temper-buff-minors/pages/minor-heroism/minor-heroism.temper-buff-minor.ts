@@ -1,4 +1,4 @@
-import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.ts"
+import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.types.ts"
 
 export const minorHeroism = {
   id: "01a05fc5-f6bf-71b4-b0dd-0dbdd3005761",

@@ -1,4 +1,4 @@
-import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.ts"
+import type { TemperBuffMinor } from "../../temper-buff-minor.page-type.types.ts"
 
 export const minorProphecy = {
   id: "01a05fc5-f6c0-7d96-bd0c-e9137eda44b3",
