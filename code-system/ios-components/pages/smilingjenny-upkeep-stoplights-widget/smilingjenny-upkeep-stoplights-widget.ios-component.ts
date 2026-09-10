@@ -34,7 +34,11 @@ export const smilingjennyUpkeepStoplightsWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "A tap on this tile opens nothing, Jenny's app holding no page for the upkeep.",
+      statement: "A tap on this tile opens nothing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Jenny's app holds no page for the upkeep.",
     },
   ],
 } as const satisfies IosComponent
