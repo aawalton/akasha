@@ -20,6 +20,7 @@ export const index = {
     "page-type/index",
     "module/index-entries",
     "module/indexing",
+    "module/index-settling",
     "module/fixture-world",
     "module/index-reading",
     "module/index-surface",

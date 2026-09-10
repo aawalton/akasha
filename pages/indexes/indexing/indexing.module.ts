@@ -16,24 +16,7 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A settle answers the reading the change leaves beside the entries the change files.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One rule writes a filing into an index wherever that index stands.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Identity is settled for every page in a write before any relation is.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The value of every page in a write is settled before any relation is.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A relation naming a page of a page type the write has reaches that page type.",
+      statement: "One rule writes a filing into an index wherever that index sits.",
     },
     {
       invariantKind: "departure",
@@ -46,29 +29,17 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
-      statement: "A body a file property has is never loaded.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A property whose file has a fixed name claims no file named for a slug and a page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A body that will not load is reported only for a page.",
-    },
-    {
-      invariantKind: "departure",
       statement:
-        "A rebuild stands the index the rebuild writes before the rebuild reads the index.",
+        "A rebuild sets up the index the rebuild writes before the rebuild reads the index.",
     },
     {
       invariantKind: "departure",
       statement: "A rebuild sweeps the paths belonging to no index before filing an entry.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A settle reads an index that stands nowhere yet as an index filing nothing.",
     },
     {
       invariantKind: "departure",
@@ -82,61 +53,6 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement: "A world carrying pages and declaring no property unique is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Which properties have a `unique` is read from the schema as the change leaves the schema.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A change turning a property's `unique` on or off files that property for every standing page.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A change turning which files a page type has files every page already of that page type.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A change taking a page type's slug away withdraws every page already of that page type.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The paths a change withdraws are read against the files the page types had before the change.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The entries a change withdraws are read against the world standing before the change.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The entries a change files are read against the world the change leaves.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name the withdrawal cannot resolve is reported rather than passed over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An edge is withdrawn against where its specifier landed before the change.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The import filing covers importers the change does not carry.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A page the index cannot read is reported rather than answered as empty.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An importer reread is read as the change leaves that importer rather than off the disk.",
     },
   ],
 } as const satisfies Module
