@@ -14,7 +14,7 @@ export const smilingjennyWidgetFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "A feed names the moment its tile changes on its own, or names no moment.",
+      statement: "A feed names the moment its tile changes on its own or names no moment.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const smilingjennyWidgetFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "The second entry is the payload already in hand, held against a later date.",
+      statement: "The second entry is the payload already in hand held against a later date.",
     },
     {
       invariantKind: "absence",
