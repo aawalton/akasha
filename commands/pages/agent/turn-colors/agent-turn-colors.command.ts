@@ -81,12 +81,19 @@ export const agentTurnColors = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The reader of a state's color is handed in, so a test drives it without a checkout.",
+      statement: "The reader of a state's color is handed in.",
     },
     {
       invariantKind: "departure",
-      statement: "Neither road takes the root the call carries, so one call reads one checkout.",
+      statement: "A test drives that reader without a checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Neither road takes the root the call carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One call reads one checkout.",
     },
   ],
 } as const satisfies Command
