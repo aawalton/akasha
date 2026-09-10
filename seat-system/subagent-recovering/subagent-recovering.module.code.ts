@@ -4,7 +4,7 @@ import {
   droppedAll,
   linesIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { exclusively } from "akasha/file-system/exclusive/exclusive.module.code.ts"
+import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { partedIn, uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   refusalsAt,

@@ -10,7 +10,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { holderProcessRuns } from "akasha/file-system/lock-holder-runs/lock-holder-runs.module.code.ts"
+import { holderProcessRuns } from "akasha/files/lock-holder-runs/lock-holder-runs.module.code.ts"
 import { git } from "akasha/git/capping/git-capping.module.code.ts"
 import { remoteOf } from "akasha/git/pushing/git-pushing.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"

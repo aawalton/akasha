@@ -6,12 +6,5 @@ export const fileSystem = {
   type: "domain",
   slug: "file-system",
   definition: "where akasha keeps what git does not track, and how processes take turns over it",
-  parts: [
-    "module/answer-keeping",
-    "module/answer-mark",
-    "module/data-place",
-    "module/exclusive",
-    "module/lock-holder",
-    "module/lock-holder-runs",
-  ],
+  parts: [],
 } as const satisfies Domain

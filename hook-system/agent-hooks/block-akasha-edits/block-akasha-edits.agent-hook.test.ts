@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { dataAt } from "akasha/file-system/data-place/data-place.module.code.ts"
+import { dataAt } from "akasha/files/data-place/data-place.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"

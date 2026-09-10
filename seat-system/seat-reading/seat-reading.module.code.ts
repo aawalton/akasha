@@ -1,4 +1,4 @@
-import { alive, type Holder } from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
+import { alive, type Holder } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import {
   everyOfType,
   listedById,

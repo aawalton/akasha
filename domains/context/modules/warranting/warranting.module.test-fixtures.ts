@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { dataAt } from "akasha/file-system/data-place/data-place.module.code.ts"
+import { dataAt } from "akasha/files/data-place/data-place.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import {
   idFiled,

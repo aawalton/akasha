@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { dataIn } from "akasha/file-system/data-place/data-place.module.code.ts"
+import { dataIn } from "akasha/files/data-place/data-place.module.code.ts"
 import { NO_CODE, ran as running, type Said } from "akasha/utils/run/running/running.module.code.ts"
 import { secretAt } from "../file-name/page-file-name.module.code.ts"
 

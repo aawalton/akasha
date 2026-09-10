@@ -7,7 +7,15 @@ export const file = {
   slug: "file",
   definition: "a file in the `akasha` folder",
   pluralSlug: "files",
-  parts: ["domain/folder-path"],
+  parts: [
+    "domain/folder-path",
+    "module/answer-keeping",
+    "module/answer-mark",
+    "module/data-place",
+    "module/exclusive",
+    "module/lock-holder",
+    "module/lock-holder-runs",
+  ],
   invariants: [
     {
       invariantKind: "departure",

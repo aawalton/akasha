@@ -5,7 +5,7 @@ import {
   holderOf,
   markIn,
   startedAt,
-} from "akasha/file-system/lock-holder/lock-holder.module.code.ts"
+} from "akasha/files/lock-holder/lock-holder.module.code.ts"
 
 export const LOCK_AT = ".git/akasha-landing.lock"
 

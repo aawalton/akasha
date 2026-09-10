@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { dataAt, dataIn } from "akasha/file-system/data-place/data-place.module.code.ts"
+import { dataAt, dataIn } from "akasha/files/data-place/data-place.module.code.ts"
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"

@@ -2,7 +2,7 @@ import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { decodeUtf8 } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
-import { exclusively } from "akasha/file-system/exclusive/exclusive.module.code.ts"
+import { exclusively } from "akasha/files/exclusive/exclusive.module.code.ts"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import {
   uncommittedPartAt,
