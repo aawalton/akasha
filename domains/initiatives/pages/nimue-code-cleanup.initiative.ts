@@ -11,7 +11,7 @@ export const nimueCodeCleanup = {
     {
       statement: "No code spells a path as a string literal.",
       workingMemory:
-        "1114 literals over 389 TypeScript files name a repository path. 473 sit in tests and fixtures, which `check-reaches-a-path-through-the-index` already passes over, and 454 more are citations in finding and initiative prose, leaving about 170 in code that runs. The commonest is the folder a page type's pages sit in, spelled by `days/pages`, `seats/pages`, `initiatives/pages` and seven more. `text/` and `type/` are folders too, so `text/html` reads as a path to a matcher going by spelling.",
+        "`check-reaches-a-path-through-the-index` refuses a literal naming a path the index has a file at, over every page code file whose last section is `code`. 8 refusals are left, from 45. The check runs at change, so a file holding a refusal is refused when next touched. The check does not judge a literal naming a folder, which waits on the index answering a folder. `harness-call.module.code.ts:19` cannot be mended: `extension-host-reaches-no-bun-code` refuses the lookup that would mend it.\n",
     },
     {
       statement: "A change moving a folder repoints the manifest naming that folder.",
