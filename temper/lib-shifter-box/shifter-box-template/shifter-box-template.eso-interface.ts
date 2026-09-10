@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const shifterBoxTemplate = {
   id: "01a06187-364c-7851-b7ad-0cc5cdf2a05e",

@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const skillPointFinderLayout = {
   id: "01a062e8-bed7-7011-a36b-31903e5d6972",

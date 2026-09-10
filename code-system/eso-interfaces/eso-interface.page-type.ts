@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { LoadedAs } from "./properties/loaded-as.text-property.ts"
-import type { Markup } from "./properties/markup.file-property.ts"
-
-export type EsoInterface = Domain & {
-  markup: Markup
-  loadedAs: LoadedAs
-}
 
 export const esoInterface = {
   id: "01a06036-9b76-7bf2-b21b-2f45a8b14ac4",
@@ -47,4 +39,5 @@ export const esoInterface = {
       statement: "The name the manifest loads a document by is stated on the document's page.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

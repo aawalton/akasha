@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const combatTemplatesLayout = {
   id: "01a0617f-5852-72f4-9d5e-4c118e7492c2",

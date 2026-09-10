@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const craftStoreRuneLayout = {
   id: "01a061c7-e8c2-730b-b59e-12d4f326110c",

@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const mediaFontstringsShared = {
   id: "01a06069-f8c3-797e-8648-09bc838750c0",

@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const libSetsSearchUiKeyboardXml = {
   id: "01a0618f-abe2-7405-91c2-b42e5a39c3f0",

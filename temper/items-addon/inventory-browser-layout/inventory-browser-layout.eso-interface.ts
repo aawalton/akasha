@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const inventoryBrowserLayout = {
   id: "01a06258-b536-7f91-93ad-578be9d86a82",

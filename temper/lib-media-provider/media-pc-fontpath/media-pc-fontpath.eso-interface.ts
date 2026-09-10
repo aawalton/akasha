@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const mediaPcFontpath = {
   id: "01a06069-f8c6-7fd8-9857-ec0ca14a3e1b",

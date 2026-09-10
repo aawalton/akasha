@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const libSetsSearchUiSharedXml = {
   id: "01a0618f-abe1-7489-996e-bbc414aca800",

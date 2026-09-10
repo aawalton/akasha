@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const libSetsCopyTextDialog = {
   id: "01a0618f-abe0-7d9e-a3bc-aae56b1019a6",

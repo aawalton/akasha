@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const craftStoreFonts = {
   id: "01a061c7-e8c0-7c94-9c43-2face07e8a6c",

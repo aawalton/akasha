@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const histoireGuildHistoryCacheControls = {
   id: "01a06197-4c94-772c-a853-2cb06202820a",

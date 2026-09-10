@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const potionMakerLayout = {
   id: "01a061c7-e8c5-7273-a0fd-ab5d2006c145",

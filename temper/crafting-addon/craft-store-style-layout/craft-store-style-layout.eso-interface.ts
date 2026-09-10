@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const craftStoreStyleLayout = {
   id: "01a061c7-e8c3-74e6-b11d-43519918ae62",

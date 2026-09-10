@@ -1,4 +1,4 @@
-import type { EsoInterface } from "../../../code-system/eso-interfaces/eso-interface.page-type.ts"
+import type { EsoInterface } from "../../../code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const fcocsVirtuals = {
   id: "01a06115-1abe-74cb-ab20-23f7d08ea7af",

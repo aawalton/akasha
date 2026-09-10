@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const lorebooksReportLayout = {
   id: "01a0624c-a660-70e7-ac40-0ff60904655d",

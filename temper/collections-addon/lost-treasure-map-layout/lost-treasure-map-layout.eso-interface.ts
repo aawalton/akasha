@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const lostTreasureMapLayout = {
   id: "01a0624c-a660-7e1e-90ff-1cb6ff118829",

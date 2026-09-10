@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code/eso-interface"
+import type { EsoInterface } from "akasha/code-system/eso-interfaces/eso-interface.page-type.types.ts"
 
 export const mediaPcBackupfontRu = {
   id: "01a06069-f8c6-7ccd-b0fc-60b97479efa5",
