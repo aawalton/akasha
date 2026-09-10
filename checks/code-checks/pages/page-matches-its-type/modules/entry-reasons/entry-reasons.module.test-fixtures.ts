@@ -7,7 +7,7 @@ import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { rootOf } from "../../../../../../commands/modules/rooting/rooting.module.code.ts"
 import { entryReasonsIn, groupedFor, type Shaping } from "./entry-reasons.module.code.ts"
 
-const ALLOWS: Formatting = () => (): boolean => true
+const allows: Formatting = () => (): boolean => true
 
 const REPO = rootOf(import.meta.path)
 
@@ -56,7 +56,7 @@ export function shapingFor(): Shaping {
     fields: new Map([["answer", ANSWER]]),
     slug: "cases",
     pageFor: () => null,
-    formatting: ALLOWS,
+    formatting: allows,
   }
 }
 
@@ -70,7 +70,7 @@ function judged(beside: (at: string) => string | null): readonly string[] {
     shadow,
     RESTATEMENT,
     beside,
-    ALLOWS
+    allows
   )
 }
 
