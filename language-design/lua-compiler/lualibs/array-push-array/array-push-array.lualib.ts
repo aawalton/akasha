@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const arrayPushArray = {
   id: "01a081ed-ab46-7b7c-bd8b-9c0fba21f848",

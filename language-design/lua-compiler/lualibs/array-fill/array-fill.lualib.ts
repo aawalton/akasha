@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const arrayFill = {
   id: "01a081e7-49c9-79ba-9141-c8f21ad2bc43",

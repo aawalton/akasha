@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const arrayToSpliced = {
   id: "01a081ed-ab46-76bb-afbb-558dddf8a9ef",

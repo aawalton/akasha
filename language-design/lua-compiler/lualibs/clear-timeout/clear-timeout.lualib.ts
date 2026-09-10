@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const clearTimeout = {
   id: "01a081d0-6ee0-7c98-98ce-5974b65ef70b",

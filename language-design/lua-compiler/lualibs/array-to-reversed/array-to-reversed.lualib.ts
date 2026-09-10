@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const arrayToReversed = {
   id: "01a081ed-ab46-7ec8-aeaf-6eb0c7270e84",

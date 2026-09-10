@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const wellKnownSymbols = {
   id: "01a081db-2ced-7614-92db-92bfeaaf71f8",

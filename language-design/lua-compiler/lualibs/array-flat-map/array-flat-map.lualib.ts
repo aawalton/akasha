@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const arrayFlatMap = {
   id: "01a081e7-49c9-7e9c-914a-335e8a957083",

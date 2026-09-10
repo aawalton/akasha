@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const stringTrimEnd = {
   id: "01a081ed-ab46-7c64-80b0-7dbaa3e6a3ad",

@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const objectGroupBy = {
   id: "01a081f7-142d-7459-b18f-c91dd4ff0bad",

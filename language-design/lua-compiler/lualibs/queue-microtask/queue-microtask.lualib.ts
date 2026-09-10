@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const queueMicrotask = {
   id: "01a081d1-2285-75ce-b055-c42140dc668d",

@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const objectAssign = {
   id: "01a081f7-142d-7cab-93ed-0e2ad7aa0f74",

@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const arrayToSorted = {
   id: "01a081ed-ab46-7684-93d9-9681ec02b9e9",

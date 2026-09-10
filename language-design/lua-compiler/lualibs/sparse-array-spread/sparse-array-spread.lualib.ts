@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const sparseArraySpread = {
   id: "01a08202-0fa9-7d98-8154-8cf67a486f1c",

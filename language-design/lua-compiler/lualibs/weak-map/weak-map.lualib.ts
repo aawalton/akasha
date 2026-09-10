@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const weakMap = {
   id: "01a08202-0fa9-7dae-887e-8517eee988cc",

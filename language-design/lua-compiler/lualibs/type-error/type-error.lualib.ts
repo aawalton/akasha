@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const typeError = {
   id: "01a081c1-248a-7ace-a8b5-cf9b46fad562",

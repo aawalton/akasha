@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Code } from "../modules/properties/code.code-file-property.ts"
-import type { CompiledLua } from "./properties/compiled-lua.code-file-property.ts"
-import type { LuaExport } from "./properties/lua-export.text-property.ts"
-import type { LuaFeature } from "./properties/lua-feature.text-property.ts"
-import type { Lua50Code } from "./properties/lua50-code.code-file-property.ts"
-
-export type Lualib = Domain & {
-  code: Code
-  lua50Code?: Lua50Code
-  compiledLua?: CompiledLua
-  luaExport: LuaExport
-  luaFeature?: LuaFeature
-}
 
 export const lualib = {
   id: "01a0816a-91f6-79d0-8293-0fb65177f129",
@@ -73,4 +59,5 @@ export const lualib = {
       statement: "A page stating no Lua 5.0 code is compiled from its code for every build.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

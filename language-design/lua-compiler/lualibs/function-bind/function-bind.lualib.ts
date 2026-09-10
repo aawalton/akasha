@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const functionBind = {
   id: "01a081f7-142d-77df-a909-6f5bff7f4aea",

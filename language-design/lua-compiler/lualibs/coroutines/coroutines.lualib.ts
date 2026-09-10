@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const coroutines = {
   id: "01a081c8-1548-7757-b00e-bb9c24454be6",

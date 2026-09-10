@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const arrayConcat = {
   id: "01a081de-4bc1-7a16-9d86-9ac50836fbc3",

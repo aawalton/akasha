@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const symbol = {
   id: "01a081da-fded-7aea-81c2-ae80a9f08265",

@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const stringCharAt = {
   id: "01a081ed-ab46-7754-a8f3-22f0685ead07",

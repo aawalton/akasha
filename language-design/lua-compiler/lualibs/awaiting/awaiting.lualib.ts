@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const awaiting = {
   id: "01a081c8-3b7c-70de-af0f-be32ed7a811e",

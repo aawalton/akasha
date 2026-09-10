@@ -1,4 +1,4 @@
-import type { Lualib } from "@akasha/code/lualib"
+import type { Lualib } from "akasha/code-system/lualibs/lualib.page-type.types.ts"
 
 export const setTimeout = {
   id: "01a081d0-3e45-749c-b407-d15c7e134ff9",
