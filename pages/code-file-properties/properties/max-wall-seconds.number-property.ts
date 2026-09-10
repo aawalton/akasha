@@ -1,4 +1,4 @@
-import type { NumberProperty } from "../../number-properties/number-property.page-type.ts"
+import type { NumberProperty } from "../../number-properties/number-property.page-type.types.ts"
 
 export type MaxWallSeconds = number
 

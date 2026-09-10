@@ -1,5 +1,5 @@
-import type { NumberProperty } from "@akasha/pages/number-property"
 import type { List } from "@akasha/pages/page-property"
+import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
 export type EquipmentLoads = List<number>
 
