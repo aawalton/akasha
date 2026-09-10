@@ -1,4 +1,4 @@
-import { compiled } from "@akasha/code/code-typing"
+import { compiled } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"

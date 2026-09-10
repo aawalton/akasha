@@ -1,5 +1,5 @@
-import { parsedAs } from "@akasha/code/code-source"
-import { landingOf } from "@akasha/code/code-specifier"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { landingOf } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"

@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
+import { decodeUtf8 } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
 import {
   AKASHA,
   addressableNamed,

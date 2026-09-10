@@ -1,4 +1,4 @@
-import { leadingBytes } from "@akasha/code/utf8-body"
+import { leadingBytes } from "akasha/code-system/utf8-body/utf8-body.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

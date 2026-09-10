@@ -1,5 +1,10 @@
 import { basename, dirname, extname, join, relative } from "node:path"
-import { landingOf, placedIn, specifierFor, spelledIn } from "@akasha/code/code-specifier"
+import {
+  landingOf,
+  placedIn,
+  specifierFor,
+  spelledIn,
+} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import {
   notText,
   refusing,

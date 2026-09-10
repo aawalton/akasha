@@ -1,5 +1,5 @@
 import { basename, dirname, join, relative } from "node:path"
-import type { Ran, Spent } from "@akasha/code/code-tests"
+import type { Ran, Spent } from "akasha/code-system/code-tests/code-tests.module.code.ts"
 import {
   alreadyRunning,
   CEILING,
@@ -8,9 +8,13 @@ import {
   ranOver,
   spentOver,
   testsBesideOf,
-} from "@akasha/code/code-tests"
-import { calledIn } from "@akasha/code/package-manifest"
-import type { Bodies, Body, Link } from "@akasha/code/test-overlay"
+} from "akasha/code-system/code-tests/code-tests.module.code.ts"
+import { calledIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
+import type {
+  Bodies,
+  Body,
+  Link,
+} from "akasha/code-system/test-overlay/test-overlay.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { bodiesFrom } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"

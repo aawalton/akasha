@@ -1,6 +1,9 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { type Plan, planFor } from "@akasha/code/app-building"
+import {
+  type Plan,
+  planFor,
+} from "akasha/code-system/ios-apps/app-building/app-building.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran as running } from "akasha/utils/run/running/running.module.code.ts"
 import { z } from "zod"

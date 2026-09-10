@@ -1,4 +1,4 @@
-import { parsedAs } from "@akasha/code/code-source"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   listedFiled,

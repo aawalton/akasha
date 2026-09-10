@@ -1,6 +1,10 @@
-import { placedIn } from "@akasha/code/code-specifier"
-import { typed } from "@akasha/code/code-typing"
-import { calledIn, DEPENDING, objectIn } from "@akasha/code/package-manifest"
+import { placedIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import {
+  calledIn,
+  DEPENDING,
+  objectIn,
+} from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 import {

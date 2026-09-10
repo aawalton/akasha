@@ -1,6 +1,6 @@
 import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { RUNNING } from "@akasha/code/code-tests"
+import { RUNNING } from "akasha/code-system/code-tests/code-tests.module.code.ts"
 import {
   noPathsFiled,
   pathFiled,

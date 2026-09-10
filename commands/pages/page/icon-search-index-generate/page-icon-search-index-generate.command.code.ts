@@ -1,6 +1,11 @@
 import { existsSync, mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { addingFile, changingFile, landingAt, removingAt } from "@akasha/code/name-series"
+import {
+  addingFile,
+  changingFile,
+  landingAt,
+  removingAt,
+} from "akasha/code-system/name-series/name-series.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import {
   AGGREGATE,

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "@akasha/code/code-source"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
 import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noScrubBashEnvUndoes, saidIn } from "./no-scrub-bash-env-undoes.syntax-rule.code.ts"

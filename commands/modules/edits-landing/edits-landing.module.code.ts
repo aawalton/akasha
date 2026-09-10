@@ -1,6 +1,6 @@
-import { textIn } from "@akasha/code/body-text"
-import { formattedBodies } from "@akasha/code/code-format"
 import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { textIn } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { formattedBodies } from "akasha/code-system/code-format/code-format.module.code.ts"
 import {
   type BodyOf,
   NOT_TEXT,

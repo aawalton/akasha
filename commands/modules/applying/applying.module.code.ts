@@ -1,6 +1,6 @@
-import { MEASURING } from "@akasha/code/code-tests"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { MEASURING } from "akasha/code-system/code-tests/code-tests.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt as textIn, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"

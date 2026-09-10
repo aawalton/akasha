@@ -1,8 +1,8 @@
 import { existsSync, readdirSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { textIn, textOf } from "@akasha/code/body-text"
-import { parsedAs } from "@akasha/code/code-source"
-import { specifiersIn } from "@akasha/code/code-specifier"
+import { textIn, textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { specifiersIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import {
   compiled,
   directoriesIn,
@@ -12,10 +12,10 @@ import {
   placingOver,
   readingOf,
   servedOf,
-} from "@akasha/code/code-typing"
-import { lua50Config } from "@akasha/code/lua-runtime-library/lua50-config"
-import { universalConfig } from "@akasha/code/lua-runtime-library/universal-config"
-import { reachesIn } from "@akasha/code/package-manifest"
+} from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import { lua50Config } from "akasha/code-system/lua-runtime-libraries/properties/lua50-config.file-property.ts"
+import { universalConfig } from "akasha/code-system/lua-runtime-libraries/properties/universal-config.file-property.ts"
+import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { reachingInto } from "akasha/graph/asking/graph-asking.module.code.ts"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"

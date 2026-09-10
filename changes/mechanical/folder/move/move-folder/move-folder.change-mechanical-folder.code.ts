@@ -1,5 +1,5 @@
 import { dirname, join, relative } from "node:path"
-import { reachesIn } from "@akasha/code/package-manifest"
+import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"

@@ -1,4 +1,4 @@
-import { reachesIn } from "@akasha/code/package-manifest"
+import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import type { Manifest } from "../package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 

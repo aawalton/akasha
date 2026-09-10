@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { parsedAs } from "@akasha/code/code-source"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { noneOfTypeFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { SourceFile } from "typescript"

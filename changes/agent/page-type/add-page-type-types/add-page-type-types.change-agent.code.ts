@@ -1,4 +1,4 @@
-import { parsedAs } from "@akasha/code/code-source"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import { typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { slugsIn, textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"

@@ -1,6 +1,9 @@
 import { dirname, extname, join } from "node:path"
-import { landingOf, placedIn } from "@akasha/code/code-specifier"
-import { objectIn } from "@akasha/code/package-manifest"
+import {
+  landingOf,
+  placedIn,
+} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { objectIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import {
   holdsAfter,
   textAfter,

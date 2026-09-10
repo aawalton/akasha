@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "@akasha/code/code-source"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
 import type { Splice } from "../answer/change-answer.module.types.ts"
 import { listIn, literalIn } from "../page-literal/page-literal.module.code.ts"
 import { without, withProperty, withValue } from "./literal-splicing.module.code.ts"

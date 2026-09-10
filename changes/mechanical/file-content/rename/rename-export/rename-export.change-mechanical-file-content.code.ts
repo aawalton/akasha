@@ -4,8 +4,13 @@ import {
   exportsNamed,
   reachedFrom,
   referencesOf,
-} from "@akasha/code/code-naming"
-import { type Placing, placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
+} from "akasha/code-system/code-naming/code-naming.module.code.ts"
+import {
+  type Placing,
+  placingOver,
+  readingOf,
+  typingOver,
+} from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import {
   pathsIn,
   refusing,

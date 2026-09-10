@@ -1,4 +1,4 @@
-import type { Found, Linted } from "@akasha/code/code-lint"
+import type { Found, Linted } from "akasha/code-system/code-lint/code-lint.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 

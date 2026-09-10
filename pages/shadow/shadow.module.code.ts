@@ -1,5 +1,5 @@
-import { textOf } from "@akasha/code/body-text"
-import { digestOf } from "@akasha/code/carried-file"
+import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import { digestOf } from "akasha/code-system/carried-file/carried-file.module.code.ts"
 import {
   type Answering,
   answeringOver,

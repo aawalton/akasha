@@ -1,5 +1,8 @@
 import { dirname } from "node:path"
-import { calledIn, dependsIn } from "@akasha/code/package-manifest"
+import {
+  calledIn,
+  dependsIn,
+} from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import { partedIn } from "../../../../../pages/file-name/page-file-name.module.code.ts"
 import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"

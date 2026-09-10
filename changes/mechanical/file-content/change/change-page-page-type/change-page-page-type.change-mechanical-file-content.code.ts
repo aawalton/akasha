@@ -1,5 +1,5 @@
 import { dirname } from "node:path"
-import { specifierFor } from "@akasha/code/code-specifier"
+import { specifierFor } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { typedAs } from "../../../../../pages/export-name/page-export-name.module.code.ts"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"

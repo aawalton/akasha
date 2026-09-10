@@ -1,5 +1,5 @@
 import { basename } from "node:path"
-import type { Naming } from "@akasha/code/code-specifier"
+import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { type Held, heldIn, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Answering } from "akasha/pages/indexes/answering/index-answering.module.code.ts"

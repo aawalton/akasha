@@ -1,7 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import type { Naming } from "@akasha/code/code-specifier"
-import { reachesIn, reachingOver } from "@akasha/code/package-manifest"
+import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import {
+  reachesIn,
+  reachingOver,
+} from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { type FilePropertiesBy, fileKeysAt } from "../entries/index-entries.module.code.ts"
 import { pathsOf, under } from "../path-claiming/path-claiming.module.code.ts"

@@ -317,7 +317,6 @@
     ]
   },
   "dependencies": {
-    "@akasha/code": "workspace:*"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"

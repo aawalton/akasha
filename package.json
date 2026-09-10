@@ -26,7 +26,6 @@
     "rrule": "^2.8.1",
     "yaml": "^2.8.1",
     "zod": "^4.3.6",
-    "@akasha/code": "workspace:*",
     "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.576.0",
     "react": "^18 || ^19",
@@ -87,7 +86,8 @@
     "@fontsource-variable/geist": "5.2.9",
     "@fontsource-variable/geist-mono": "5.2.8",
     "tailwindcss": "^4.0",
-    "@tanstack/db": "^0.6.14"
+    "@tanstack/db": "^0.6.14",
+    "vite": "^8.0.3"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"

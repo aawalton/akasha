@@ -1,6 +1,12 @@
 import { dirname, join } from "node:path"
-import { landingOf, specifiersIn } from "@akasha/code/code-specifier"
-import { calledIn, objectIn } from "@akasha/code/package-manifest"
+import {
+  landingOf,
+  specifiersIn,
+} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import {
+  calledIn,
+  objectIn,
+} from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { pageOf, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"

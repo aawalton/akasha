@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "./workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../domains/domain.page-type.types.ts"
 
 export const codeSystem = {
   id: "01a04a26-9105-7002-aa57-d2c5a03907ce",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "code-system",
   definition: "the code a machine runs",
-  manifest: "json",
+
   parts: [
     "domain/audit-ast-unused",
     "page-type/component",
@@ -111,4 +111,4 @@ export const codeSystem = {
       ],
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

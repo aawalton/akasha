@@ -1,4 +1,7 @@
-import { landingOf, specifiersIn } from "@akasha/code/code-specifier"
+import {
+  landingOf,
+  specifiersIn,
+} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   type Body,

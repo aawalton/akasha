@@ -1,4 +1,4 @@
-import { exported, literalOf } from "@akasha/code/code-source"
+import { exported, literalOf } from "akasha/code-system/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
 export function keyOf(held: ts.PropertyAssignment): string | null {

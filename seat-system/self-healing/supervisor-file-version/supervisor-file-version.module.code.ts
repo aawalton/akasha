@@ -1,8 +1,11 @@
 import { readFileSync } from "node:fs"
 import { dirname, join, normalize } from "node:path"
-import type { Naming } from "@akasha/code/code-specifier"
-import { reachesIn, reachingOver } from "@akasha/code/package-manifest"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
+import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import {
+  reachesIn,
+  reachingOver,
+} from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { AGENT_SETTINGS_PATH } from "akasha/seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 
 const SPECIFIER = /from\s+"([^"]*)"/g

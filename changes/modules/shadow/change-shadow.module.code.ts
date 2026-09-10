@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, relative } from "node:path"
-import { formattedBody } from "@akasha/code/code-format"
+import { formattedBody } from "akasha/code-system/code-format/code-format.module.code.ts"
 import { trackedUnder } from "akasha/git/pathspec/git-pathspec.module.code.ts"
 import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {

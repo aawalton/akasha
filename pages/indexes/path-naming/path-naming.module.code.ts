@@ -1,5 +1,5 @@
 import { basename } from "node:path"
-import { typed } from "@akasha/code/code-typing"
+import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import type { Listed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   everyPath,

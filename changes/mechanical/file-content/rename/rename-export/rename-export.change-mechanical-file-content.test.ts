@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { NOWHERE } from "@akasha/code/code-typing"
+import { NOWHERE } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import {
   bodyOf,
   HELD_CODE,

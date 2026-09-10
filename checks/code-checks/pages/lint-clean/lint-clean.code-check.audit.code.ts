@@ -1,4 +1,4 @@
-import { lintedOver } from "@akasha/code/code-lint"
+import { lintedOver } from "akasha/code-system/code-lint/code-lint.module.code.ts"
 import { everythingIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {

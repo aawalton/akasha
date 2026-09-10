@@ -12,7 +12,6 @@
     "./tunnel-route-discovery": "./tunnel-route-discovery/tunnel-route-discovery.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code": "workspace:*",
     "yaml": "^2.8.0"
   }
 }

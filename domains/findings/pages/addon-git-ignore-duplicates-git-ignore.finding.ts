@@ -5,7 +5,7 @@ export const addonGitIgnoreDuplicatesGitIgnore = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "addon-git-ignore-duplicates-git-ignore",
-  domain: "workspace-package/code-system",
+  domain: "domain/code-system",
   claim:
     "Two `file-property` pages, `addon-git-ignore` and `git-ignore`, carry the same `propertySlug`, the same `definition` and the same `fileName`. Nothing tells the pages apart but their own slugs and their folders. `eso-addon` reaches for the first and `ios-app` for the second, and both resolve to a `.gitignore` beside the page. The duplicate wants deleting, and the surviving property wants a home outside `ios-app`, where any page type can reach it.",
   evidence:

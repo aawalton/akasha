@@ -1,4 +1,4 @@
-import { compiled } from "@akasha/code/code-typing"
+import { compiled } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import { everythingIn, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { clashesIn, judgedOf } from "./global-declared-once.code-check.decision.code.ts"

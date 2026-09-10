@@ -1,6 +1,9 @@
 import { dirname, join, relative } from "node:path"
-import { typed } from "@akasha/code/code-typing"
-import { calledIn, objectIn } from "@akasha/code/package-manifest"
+import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
+import {
+  calledIn,
+  objectIn,
+} from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 import {

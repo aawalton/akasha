@@ -1,4 +1,4 @@
-import { speltIn } from "@akasha/code/code-rule"
+import { speltIn } from "akasha/code-system/code-rule/code-rule.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"

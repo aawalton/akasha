@@ -1,6 +1,6 @@
 import { dirname } from "node:path"
-import { spelledIn } from "@akasha/code/code-specifier"
-import { typed } from "@akasha/code/code-typing"
+import { spelledIn } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
+import { typed } from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import {
   carriedIn,
   takingIn,

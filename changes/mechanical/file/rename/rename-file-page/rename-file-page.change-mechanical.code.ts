@@ -1,6 +1,6 @@
 import { basename, dirname, extname, join, relative } from "node:path"
-import { parsedAs } from "@akasha/code/code-source"
-import { reachesIn } from "@akasha/code/package-manifest"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { reachesIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { namedAs, slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import {
   besideAt,

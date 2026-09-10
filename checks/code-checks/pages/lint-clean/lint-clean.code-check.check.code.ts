@@ -1,4 +1,4 @@
-import { lintedOver } from "@akasha/code/code-lint"
+import { lintedOver } from "akasha/code-system/code-lint/code-lint.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { mirroredOf } from "../../../modules/change-mirror/change-mirror.module.code.ts"
 import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"

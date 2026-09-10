@@ -1,6 +1,9 @@
 import { dirname } from "node:path"
-import { parsedAs } from "@akasha/code/code-source"
-import { landingOf, specifierFor } from "@akasha/code/code-specifier"
+import { parsedAs } from "akasha/code-system/code-source/code-source.module.code.ts"
+import {
+  landingOf,
+  specifierFor,
+} from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import { reachingOf } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
 import ts from "typescript"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"

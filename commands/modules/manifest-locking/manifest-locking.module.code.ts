@@ -10,7 +10,7 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import { textIn, textOf } from "@akasha/code/body-text"
+import { textIn, textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type {

@@ -1,5 +1,5 @@
-import { textOf } from "@akasha/code/body-text"
-import type { Naming } from "@akasha/code/code-specifier"
+import { textOf } from "akasha/code-system/body-text/body-text.module.code.ts"
+import type { Naming } from "akasha/code-system/code-specifier/code-specifier.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { edgesIn } from "akasha/pages/indexes/import/index-import.index.code.ts"
 import {

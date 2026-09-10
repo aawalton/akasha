@@ -1,5 +1,5 @@
 import { dirname } from "node:path"
-import { calledIn } from "@akasha/code/package-manifest"
+import { calledIn } from "akasha/code-system/package-manifest/package-manifest.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"

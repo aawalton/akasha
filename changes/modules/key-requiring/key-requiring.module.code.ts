@@ -1,4 +1,8 @@
-import { placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
+import {
+  placingOver,
+  readingOf,
+  typingOver,
+} from "akasha/code-system/code-typing/code-typing.module.code.ts"
 import ts from "typescript"
 import { pathsIn } from "../answer/change-answer.module.code.ts"
 import { literalIn } from "../page-literal/page-literal.module.code.ts"
