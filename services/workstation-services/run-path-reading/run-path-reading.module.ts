@@ -26,7 +26,7 @@ export const runPathReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A word opening with a slash, a tilde or a percent names the workstation.",
+      statement: "A word opening with a slash or a tilde or a percent names the workstation.",
     },
     {
       invariantKind: "departure",

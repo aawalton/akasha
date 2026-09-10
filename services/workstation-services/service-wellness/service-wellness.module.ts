@@ -18,11 +18,15 @@ export const serviceWellness = {
     },
     {
       invariantKind: "departure",
-      statement: "A verdict is a reading, and no better than the moment of the look that left it.",
+      statement: "A verdict is a reading.",
     },
     {
       invariantKind: "departure",
-      statement: "One look leaves one moment, on the page of the service that did the looking.",
+      statement: "A verdict is no better than the moment of the look that left it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One look leaves one moment on the page of the service that did the looking.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +44,7 @@ export const serviceWellness = {
     },
     {
       invariantKind: "departure",
-      statement: "A value cleared away differs from what a look found, so the next look writes it.",
+      statement: "A value cleared away differs from what a look found.",
     },
     {
       invariantKind: "departure",
@@ -48,8 +52,7 @@ export const serviceWellness = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The moment is written after every verdict, so a moment says the whole look landed.",
+      statement: "The moment is written after every verdict.",
     },
     {
       invariantKind: "departure",
