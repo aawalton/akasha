@@ -15,7 +15,7 @@ export const uuidVersion7 = {
     },
     {
       invariantKind: "departure",
-      statement: "A uuid is judged version 7 by every part of it rather than by one digit.",
+      statement: "A uuid is judged version 7 by every part of that uuid rather than by one digit.",
     },
     {
       invariantKind: "departure",

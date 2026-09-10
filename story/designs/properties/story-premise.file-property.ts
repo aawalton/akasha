@@ -16,7 +16,7 @@ export const storyPremise = {
     },
     {
       invariantKind: "departure",
-      statement: "A premise is written in the shape the story it opens is told in.",
+      statement: "A premise is written in the shape the story that premise opens is told in.",
     },
   ],
 } as const satisfies FileProperty

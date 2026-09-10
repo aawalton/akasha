@@ -108,7 +108,7 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page goes up through the change that works out the kind of path it is handed.",
+      statement: "A page goes up through the change that works out the kind of the path handed in.",
     },
     {
       invariantKind: "departure",
