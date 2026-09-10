@@ -2,6 +2,8 @@ import { afterAll, expect, test } from "bun:test"
 import { type Formatting, matchingIn } from "@akasha/pages/name-format/format-reaching"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import type { Value } from "@akasha/pages/page-value"
+import { shadowAt } from "@akasha/pages/shadow"
+import { rootOf } from "../../../../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   besideCarried,
   FORMAT,
@@ -36,6 +38,39 @@ function over(value: Value, pageTypeSlug: string): readonly string[] {
     new Set<string>()
   )
 }
+
+const ALLOWS: Formatting = () => (): boolean => true
+
+const HERE = shadowAt(rootOf(import.meta.path))
+
+const GROUP: Carried = {
+  pagePropertySlug: "check",
+  pageTypeSlug: "module-property-group",
+  propertySlug: "check",
+  key: "check",
+  unique: null,
+  declaredBy: "code-check",
+  required: false,
+  many: false,
+  maxCount: null,
+  maxLength: null,
+  uncommitted: false,
+  secret: false,
+}
+
+function grouped(held: Value): readonly string[] {
+  return reasonsIn(held, [GROUP], HERE, "page-type/code-check", ALLOWS, new Set<string>())
+}
+
+test("a group a page states is judged against the members that group declares", () => {
+  expect(grouped({ check: { maxCpuSeconds: 20 } })).toEqual([])
+  expect(grouped({ check: { maxCpuSecons: 20 } })).toEqual([
+    "states `check maxCpuSecons`, which `check` does not declare",
+  ])
+  expect(grouped({ check: { code: "ts" } })).toEqual([
+    "states `check code`, which `check` does not declare",
+  ])
+})
 
 test("the chain is walked and the nearest declaration binds", () => {
   const declared = declaredIn("check")
