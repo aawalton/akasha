@@ -10,7 +10,8 @@ export const sampleSelecting = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading is read off the rows kept beside the day page it was filed under.",
+      statement:
+        "A reading is read off the rows kept beside the day page the reading was filed under.",
     },
     {
       invariantKind: "departure",
