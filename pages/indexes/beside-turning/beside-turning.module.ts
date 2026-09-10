@@ -44,6 +44,28 @@ export const besideTurning = {
       statement: "A stranded page is answered so the change withdraws what that page was filed by.",
     },
     {
+      invariantKind: "departure",
+      statement: "A property is turned for relations where that property's key or target differs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property a change adds or takes away is turned for relations.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which page types declare a property is read from the declarations rather than from an edge.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type is answered for a property every page type above that page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The declarers are read from the world before the change and the world after it.",
+    },
+    {
       invariantKind: "absence",
       statement: "A page the change has is not answered here.",
     },

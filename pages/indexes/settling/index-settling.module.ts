@@ -7,6 +7,7 @@ export const indexSettling = {
   slug: "index-settling",
   definition: "the entries a change files and the reading that change leaves",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -81,6 +82,15 @@ export const indexSettling = {
     {
       invariantKind: "departure",
       statement: "The import filing covers importers the change does not carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The relation filing covers pages the change does not carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change turning a property's key or target refiles the pages of that property's declaring types.",
     },
     {
       invariantKind: "gap",

@@ -7,8 +7,11 @@ import {
 import { loadedFrom, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
   pagesElsewhere,
+  pagesOfTypes,
   pagesStranded,
   pagesTurned,
+  relationsTurned,
+  typesDeclaring,
 } from "../beside-turning/beside-turning.module.code.ts"
 import { declaredOf } from "../declaring/index-declaring.index.code.ts"
 import {
@@ -19,6 +22,7 @@ import {
   folderPropertiesOver,
   type Identifier,
   pageTypesIn,
+  schemaAt,
   uncommittedFiledOver,
   uniquePropertiesAt,
 } from "../entries/index-entries.module.code.ts"
@@ -183,8 +187,10 @@ export function settlingOver(
     return one === undefined ? pageOf(path) : one.now
   }
   const before = held.flatMap((one) => (one.was === null ? [] : [one.was]))
-  const wasIdentifying = identifyingFrom(sourceAmong(before, sourceIn(reading, wasPageOf)))
-  const nowIdentifying = identifyingFrom(sourceAmong(left, sourceIn(overSchema, pageOf)))
+  const wasSource = sourceAmong(before, sourceIn(reading, wasPageOf))
+  const nowSource = sourceAmong(left, sourceIn(overSchema, pageOf))
+  const wasIdentifying = identifyingFrom(wasSource)
+  const nowIdentifying = identifyingFrom(nowSource)
   const carriedAt = new Set(carried.keys())
   const elsewhere = pagesElsewhere(reading, turned, carriedAt, pageOf)
   const stranded = pagesStranded(reading, before, left, carriedAt)
@@ -252,12 +258,24 @@ export function settlingOver(
   ])
   const wasKnown = knownIn(reading, wasPageOf)
   const known = knownIn(stepped, nowPageOf)
-  const was = held.map((one) =>
-    one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, wasKnown, repo)
+  const turnedRelations = relationsTurned(schemaAt(reading), schemaAt(overSchema))
+  const relating = pagesOfTypes(
+    reading,
+    typesDeclaring(reading, [wasSource, nowSource], turnedRelations),
+    carriedAt
   )
-  const now = held.map((one) =>
-    one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known, repo)
-  )
+  const was = [
+    ...held.map((one) =>
+      one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, wasKnown, repo)
+    ),
+    ...relating.map((one) => relationIn(one.value, one.path, wasKnown, repo)),
+  ]
+  const now = [
+    ...held.map((one) =>
+      one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known, repo)
+    ),
+    ...relating.map((one) => relationIn(one.value, one.path, known, repo)),
+  ]
   const relation = filingOf(
     reading,
     was.flatMap((one) => one.entries),
