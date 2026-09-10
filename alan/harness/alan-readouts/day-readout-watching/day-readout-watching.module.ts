@@ -97,8 +97,8 @@ export const dayReadoutWatching = {
       statement: "A day folder that was not there when the watch opened is followed once it is.",
     },
     {
-      invariantKind: "constraint",
-      statement: "The timers taking these readings run whatever the watch does.",
+      invariantKind: "absence",
+      statement: "No timer takes these readings, this watch being the only taker of them.",
     },
     {
       invariantKind: "departure",

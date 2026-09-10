@@ -50,7 +50,7 @@ export const dayReadoutWatchService = {
     },
     {
       invariantKind: "constraint",
-      statement: "The timers taking and carrying these readings run whatever this service does.",
+      statement: "The timers carrying these readings run whatever this service does.",
     },
   ],
 } as const satisfies WorkstationService

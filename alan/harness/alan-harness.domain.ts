@@ -126,8 +126,7 @@ export const alanHarness = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The reading is taken by a workstation timer rather than by a pod serving a route.",
+      statement: "The reading is taken on Alan's workstation rather than by a pod serving a route.",
     },
   ],
   directives: [
