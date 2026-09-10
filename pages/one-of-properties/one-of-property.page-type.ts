@@ -1,10 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { Members } from "./properties/members.relation-property.ts"
-
-export type OneOfProperty = PageProperty & {
-  members: Members
-}
 
 export const oneOfProperty = {
   id: "01a062b2-e0ca-7409-b87f-b8122ca96d56",
@@ -49,4 +43,5 @@ export const oneOfProperty = {
       statement: "A property with a member that admits every value refuses nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { OneOfProperty } from "@akasha/pages/one-of-property"
+import type { OneOfProperty } from "akasha/pages/one-of-properties/one-of-property.page-type.types.ts"
 import type { PublishedAt } from "./published-at.instant-property.ts"
 import type { PublishedDay } from "./published-day.calendar-date-property.ts"
 
