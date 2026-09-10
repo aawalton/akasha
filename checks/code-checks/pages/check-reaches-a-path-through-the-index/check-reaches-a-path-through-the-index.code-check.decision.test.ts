@@ -9,8 +9,8 @@ import {
 
 const HELD = [
   "design/colors/pages/yellow.color.ts",
-  "utils/run/running/running.module.code.ts",
-  "pages/name-formats/modules/name-matching/name-matching.module.code.ts",
+  "utils/hum/humming/humming.module.code.ts",
+  "pages/hum-formats/modules/hum-matching/hum-matching.module.code.ts",
 ]
 
 const AT = "checks/code-checks/pages/a/a.code-check.code.ts"
@@ -38,11 +38,11 @@ test("a name taking what another name holds carries the path along", () => {
 })
 
 test("a folder is listed with or without the separator closing it", () => {
-  expect(only('readdirSync("utils/run/running/")\n')).toHaveLength(1)
+  expect(only('readdirSync("utils/hum/humming/")\n')).toHaveLength(1)
 })
 
 test("a literal the index knows a path ending with is refused", () => {
-  expect(only('readdirSync("name-matching/name-matching.module.code.ts")\n')).toHaveLength(1)
+  expect(only('readdirSync("hum-matching/hum-matching.module.code.ts")\n')).toHaveLength(1)
 })
 
 test("a listing awaited lists like one that is not", () => {
@@ -74,7 +74,7 @@ test("a listing of a path the index knows nothing at is let through", () => {
 })
 
 test("a tail that does not begin at a separator is no path", () => {
-  expect(only('readdirSync("matching/name-matching.module.code.ts")\n')).toEqual([])
+  expect(only('readdirSync("matching/hum-matching.module.code.ts")\n')).toEqual([])
 })
 
 test("a name holding no separator is no path", () => {
@@ -82,7 +82,7 @@ test("a name holding no separator is no path", () => {
 })
 
 test("a specifier is left to the checks that judge a specifier", () => {
-  expect(only('import { a } from "utils/run/running/running.module.code.ts"\n')).toEqual([])
+  expect(only('import { a } from "utils/hum/humming/humming.module.code.ts"\n')).toEqual([])
 })
 
 test("a template holding a value is no plain string, so nothing is seen", () => {
@@ -90,7 +90,7 @@ test("a template holding a value is no plain string, so nothing is seen", () => 
 })
 
 test("one listing is refused once however many arguments carry a path", () => {
-  const other = 'const OTHER = "utils/run/running"\n'
+  const other = 'const OTHER = "utils/hum/humming"\n'
   expect(only(`${NAMED}${other}readdirSync(AT, OTHER)\n`)).toHaveLength(1)
 })
 
@@ -123,7 +123,7 @@ test("a name carries over the whole file rather than within one scope", () => {
 })
 
 test("a long literal is shortened where the refusal names that literal", () => {
-  const long = `${"pages/name-formats/modules/name-matching/name-matching.module.code.ts"} is here`
+  const long = `${"pages/hum-formats/modules/hum-matching/hum-matching.module.code.ts"} is here`
   const said = reasonsIn(askingOver([...HELD, long]), AT, `readdirSync("${long}")\n`)
   expect(said).toHaveLength(1)
 })
@@ -133,7 +133,7 @@ test("a literal naming a path the index has a page at is refused", () => {
 })
 
 test("a literal naming a page is refused wherever that literal sits", () => {
-  expect(only('writeFileSync("utils/run/running/running.module.code.ts", body)\n')).toHaveLength(1)
+  expect(only('writeFileSync("utils/hum/humming/humming.module.code.ts", body)\n')).toHaveLength(1)
 })
 
 test("a literal naming a folder above a page is let through", () => {
@@ -161,8 +161,11 @@ test("the code of a page whose type the index knows is judged", () => {
   expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.code.ts")).toBe(true)
 })
 
-test("a file beside a page that is no code file is not judged", () => {
-  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.test.ts")).toBe(false)
+test("the test of a page whose type the index knows is judged", () => {
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.test.ts")).toBe(true)
+})
+
+test("a page's own file states no section, so that file is not judged", () => {
   expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.ts")).toBe(false)
 })
 
@@ -172,9 +175,20 @@ test("the code of a property group a page carries is judged", () => {
   expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.audit.code.ts")).toBe(true)
 })
 
-test("a file whose last section is no code is not judged", () => {
+test("the test of a property group a page carries is judged", () => {
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.decision.test.ts")).toBe(true)
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.check.test.ts")).toBe(true)
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.audit.test.ts")).toBe(true)
+})
+
+test("a test's fixtures are no reach, so a fixtures file is not judged", () => {
+  const beside = "checks/code-checks/pages/a/a.code-check.decision.test-fixtures.ts"
+  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.test-fixtures.ts")).toBe(false)
+  expect(judgedBy(TYPES)(beside)).toBe(false)
+})
+
+test("a file whose last section is no code and no test is not judged", () => {
   const logs = "checks/code-checks/pages/a/a.code-check.check.logs.uncommitted.jsonl"
-  expect(judgedBy(TYPES)("checks/code-checks/pages/a/a.code-check.decision.test.ts")).toBe(false)
   expect(judgedBy(TYPES)(logs)).toBe(false)
 })
 

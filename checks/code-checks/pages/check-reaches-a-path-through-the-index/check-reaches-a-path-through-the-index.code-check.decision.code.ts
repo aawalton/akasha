@@ -4,6 +4,8 @@ import ts from "typescript"
 
 const CODE = "code"
 
+const TEST = "test"
+
 const PARTED_BY = "/"
 
 const MOST = 60
@@ -178,6 +180,7 @@ export function judgedBy(types: ReadonlySet<string>): (path: string) => boolean 
   return (path) => {
     const said = partedIn(path)
     if (said === null || !types.has(said.pageType)) return false
-    return said.sections[said.sections.length - 1] === CODE
+    const last = said.sections[said.sections.length - 1]
+    return last === CODE || last === TEST
   }
 }

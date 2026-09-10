@@ -5,7 +5,8 @@ export const checkReachesAPathThroughTheIndex = {
   pageTypeSlug: "code-check",
   type: "code-check",
   slug: "check-reaches-a-path-through-the-index",
-  definition: "the check refusing a page's code that spells or lists a path the index answers for",
+  definition:
+    "the check refusing a page's code or test that spells or lists a path the index answers for",
   runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
@@ -111,11 +112,15 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a page's code is judged.",
+      statement: "Only a page's code and a page's test are judged.",
     },
     {
       invariantKind: "departure",
       statement: "A page's code is every file of that page whose last section is `code`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's test is every file of that page whose last section is `test`.",
     },
     {
       invariantKind: "departure",
