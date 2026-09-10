@@ -1,4 +1,4 @@
-import type { FolderShape } from "../folder-shape.page-type.ts"
+import type { FolderShape } from "../folder-shape.page-type.types.ts"
 
 export const scriptsOnly = {
   id: "01a063e4-5f38-7000-a16b-d956278882ec",

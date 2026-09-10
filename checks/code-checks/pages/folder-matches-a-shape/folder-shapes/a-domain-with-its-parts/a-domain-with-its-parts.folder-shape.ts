@@ -1,4 +1,4 @@
-import type { FolderShape } from "../folder-shape.page-type.ts"
+import type { FolderShape } from "../folder-shape.page-type.types.ts"
 
 export const aDomainWithItsParts = {
   id: "01a0626e-045b-72ad-a6c9-9d13fba7fbda",

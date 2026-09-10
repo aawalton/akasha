@@ -1,4 +1,4 @@
-import type { FolderShape } from "../folder-shape.page-type.ts"
+import type { FolderShape } from "../folder-shape.page-type.types.ts"
 
 export const pagesOfOneType = {
   id: "01a04e33-f281-74c8-b82a-e4d314424e1d",

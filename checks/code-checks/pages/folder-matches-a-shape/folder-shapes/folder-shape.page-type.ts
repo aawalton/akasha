@@ -1,13 +1,5 @@
-import type { Module } from "@akasha/code/module"
-import type { Test } from "@akasha/code/module/test"
 import type { Held } from "@akasha/pages/page-file-name"
 import type { PageType } from "@akasha/pages/page-type"
-import type { FolderShapeEnabled } from "./properties/folder-shape-enabled.boolean-property.ts"
-
-export type FolderShape = Module & {
-  test: Test
-  enabled: FolderShapeEnabled
-}
 
 export type Declaring = {
   readonly slug: string
@@ -266,4 +258,5 @@ export const folderShape = {
       statement: "A page is declared a part by its page type and slug together.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
