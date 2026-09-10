@@ -17,11 +17,12 @@ export const cost = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The cost is the multiplier the open block's safety and difficulty price it at.",
+      statement:
+        "The cost is the multiplier the open block's safety and difficulty price the block at.",
     },
     {
       invariantKind: "departure",
-      statement: "A cost of one is the most Alan can pay all day without draining.",
+      statement: "A cost of one multiplier is the most Alan can pay all day without draining.",
     },
     {
       invariantKind: "departure",
