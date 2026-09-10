@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { shadowAt } from "@akasha/pages/shadow"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { change, proposing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { identifierMatchesItsPlace } from "./identifier-matches-its-place.code-check.code.ts"
+import { identifierMatchesItsPlace } from "./identifier-matches-its-place.code-check.check.code.ts"
 import {
   placed,
   scratch,
