@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const heavyBagThrust = {
   id: "019ebc77-7552-74bb-86f7-6a9db5c11924",

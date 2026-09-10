@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const shoulderPressWithBands = {
   id: "019ebc78-60f0-7098-af12-1c8ce388e20c",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneLeggedCableKickback = {
   id: "019ebc77-b8da-7537-b9a3-c276f58d88dd",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const snatchShrug = {
   id: "019ebc78-7c05-7ff3-a7f8-1bb30f499fc6",

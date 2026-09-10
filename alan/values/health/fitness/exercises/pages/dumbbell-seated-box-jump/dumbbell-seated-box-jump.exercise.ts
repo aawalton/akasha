@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dumbbellSeatedBoxJump = {
   id: "019ebc77-12c0-75e9-833a-d04bc7a9799d",

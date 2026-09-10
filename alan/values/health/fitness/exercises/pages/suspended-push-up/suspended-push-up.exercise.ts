@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const suspendedPushUp = {
   id: "019ebc78-a7ca-7bb9-beb1-a49254e0d660",

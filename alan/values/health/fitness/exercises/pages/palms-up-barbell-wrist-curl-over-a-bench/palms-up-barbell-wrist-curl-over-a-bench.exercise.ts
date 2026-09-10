@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const palmsUpBarbellWristCurlOverABench = {
   id: "019ebc77-befc-702a-80f6-a5aef7900636",

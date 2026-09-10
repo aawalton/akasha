@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const hurdleHops = {
   id: "019ebc77-7738-702c-904e-df7c715205b8",

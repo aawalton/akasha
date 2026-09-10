@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const middleBackShrug = {
   id: "019ebc77-9bae-777c-ac41-d35977a3712d",

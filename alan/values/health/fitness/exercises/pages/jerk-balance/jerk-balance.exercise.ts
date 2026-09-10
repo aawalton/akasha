@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const jerkBalance = {
   id: "019ebc77-8253-74bd-af14-5da2c5147561",

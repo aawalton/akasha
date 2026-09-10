@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cableRearDeltFly = {
   id: "019ebc76-ba30-72d3-9cd5-923692803610",

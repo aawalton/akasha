@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const chestPushMultipleResponse = {
   id: "019ebc76-cec0-7259-b0fe-06fbdc7ad658",

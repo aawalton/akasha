@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const adductor = {
   id: "019ebc75-7b1f-7c79-bd5e-9b5a9919ce97",

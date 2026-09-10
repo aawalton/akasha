@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const londonBridges = {
   id: "019ebc77-90e7-7d3e-83ff-79af13b7d351",

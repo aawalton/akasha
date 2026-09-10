@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const benchPressWithBands = {
   id: "019ebc76-9f66-797f-b2b8-e5a8d0b0d474",

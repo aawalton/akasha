@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lateralRaiseWithBands = {
   id: "019ebc77-8be8-7f8a-b5b3-da23a519ee5f",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const trapBarDeadlift = {
   id: "019ebc78-ab38-7cb6-a784-3f5bf34aa51b",

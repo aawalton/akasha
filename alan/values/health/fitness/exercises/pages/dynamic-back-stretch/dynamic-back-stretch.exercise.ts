@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dynamicBackStretch = {
   id: "019ebc77-2c20-7abe-b2f3-15a770471670",

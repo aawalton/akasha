@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const strideJumpCrossover = {
   id: "019ebc78-a565-7423-b10c-f812221c569b",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const stairmaster = {
   id: "019ebc78-80fa-709e-9f2a-8fa2cd479d76",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const splitJerk = {
   id: "019ebc78-7e80-7a14-972e-ef170de78750",

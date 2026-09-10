@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seatedFrontDeltoid = {
   id: "019ebc78-5819-7479-934f-2d770e1e26e0",

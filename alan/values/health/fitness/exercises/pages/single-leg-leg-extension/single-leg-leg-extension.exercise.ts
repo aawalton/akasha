@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleLegLegExtension = {
   id: "019ebc78-66aa-73dc-8b9c-f35d4d21e8e2",

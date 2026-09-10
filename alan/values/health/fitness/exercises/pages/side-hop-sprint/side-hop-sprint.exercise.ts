@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sideHopSprint = {
   id: "019ebc78-622f-79be-91d6-0e89e9db6431",

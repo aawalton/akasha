@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleArmPushUp = {
   id: "019ebc78-6561-7e78-936f-5d6996b30a26",

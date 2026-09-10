@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const crossBodyHammerCurl = {
   id: "019ebc76-dfa4-78f3-96e5-6dd3dc701147",

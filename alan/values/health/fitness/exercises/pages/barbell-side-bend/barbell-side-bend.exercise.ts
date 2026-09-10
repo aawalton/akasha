@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const barbellSideBend = {
   id: "019ebc76-9af9-7fda-a4cd-1a0b72345165",

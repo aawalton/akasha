@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const ropeStraightArmPulldown = {
   id: "019ebc77-d29f-7588-a73d-6f5c5afeff9f",

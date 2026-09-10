@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneArmInclineLateralRaise = {
   id: "019ebc77-b40c-79f5-9311-2d19171fd49b",

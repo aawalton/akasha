@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dumbbellLyingOneArmRearLateralRaise = {
   id: "019ebc77-0f83-7ec6-9240-781090da71c6",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const reversePlateCurls = {
   id: "019ebc77-cf23-754e-a7d0-7066d36fe68b",

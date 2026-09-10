@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const torsoRotation = {
   id: "019ebc78-aac7-7795-aa3c-e0c14970a013",

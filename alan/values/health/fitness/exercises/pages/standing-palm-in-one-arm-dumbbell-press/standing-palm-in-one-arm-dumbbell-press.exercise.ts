@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingPalmInOneArmDumbbellPress = {
   id: "019ebc78-a013-7514-b6bc-6dda13ddbeda",

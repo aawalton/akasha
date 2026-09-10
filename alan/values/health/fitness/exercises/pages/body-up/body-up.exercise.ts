@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bodyUp = {
   id: "019ebc76-a7b9-7b03-b28e-b464761efc72",

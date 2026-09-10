@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneArmFloorPress = {
   id: "019ebc77-ba0f-7dd5-aff4-9c9b8e60c2d1",

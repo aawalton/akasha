@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const shotgunRow = {
   id: "019ebc78-6062-7947-8c77-bf2f8d9eb893",

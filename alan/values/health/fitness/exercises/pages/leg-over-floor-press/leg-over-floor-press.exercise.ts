@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const legOverFloorPress = {
   id: "019ebc77-8c6e-7da7-ba4c-d024d2b1e4d5",

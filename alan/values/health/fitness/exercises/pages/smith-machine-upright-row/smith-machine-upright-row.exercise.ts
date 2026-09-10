@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const smithMachineUprightRow = {
   id: "019ebc78-6f74-7a54-8d41-966b7b46a0e0",

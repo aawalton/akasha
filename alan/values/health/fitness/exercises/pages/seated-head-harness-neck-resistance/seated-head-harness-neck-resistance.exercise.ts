@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seatedHeadHarnessNeckResistance = {
   id: "019ebc78-5c6e-7311-9159-c6b162efc5e9",

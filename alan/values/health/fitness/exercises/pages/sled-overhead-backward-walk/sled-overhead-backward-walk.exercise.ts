@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sledOverheadBackwardWalk = {
   id: "019ebc78-6996-7024-81fa-072609c95555",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingOneArmCableCurl = {
   id: "019ebc78-9f17-7c1c-aad9-bd4e889e823a",

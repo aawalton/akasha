@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const smithInclineShoulderRaise = {
   id: "019ebc78-6b23-7488-adbe-b33f9b21d68f",

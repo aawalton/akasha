@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const reverseGripTricepsPushdown = {
   id: "019ebc77-ce72-763c-9d6e-348a1ad3dc5d",

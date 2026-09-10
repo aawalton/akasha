@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const crucifix = {
   id: "019ebc76-e055-758a-b797-9f2722991458",

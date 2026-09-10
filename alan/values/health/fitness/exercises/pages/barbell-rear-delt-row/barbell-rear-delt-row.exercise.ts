@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const barbellRearDeltRow = {
   id: "019ebc76-96ea-7bfd-9d06-a92caf1ab978",

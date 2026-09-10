@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const elevatedBackLunge = {
   id: "019ebc77-2e8d-7595-b9eb-887f5df5ec39",

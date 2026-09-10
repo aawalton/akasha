@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const wideGripStandingBarbellCurl = {
   id: "019ebc78-b91a-7b98-b9bc-5afa3eed5b4f",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const spiderCurl = {
   id: "019ebc78-7dba-7cf3-b1f6-98707de696c8",

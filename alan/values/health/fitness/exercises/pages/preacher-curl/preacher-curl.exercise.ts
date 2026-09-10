@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const preacherCurl = {
   id: "019ebc77-c4d4-7e74-b5d5-76cd69e7c7e6",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const snatchFromBlocks = {
   id: "019ebc78-7c41-767c-9fd6-1ecece20feab",

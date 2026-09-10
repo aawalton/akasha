@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cleanAndPress = {
   id: "019ebc76-db15-7809-9014-65dac2ae934e",

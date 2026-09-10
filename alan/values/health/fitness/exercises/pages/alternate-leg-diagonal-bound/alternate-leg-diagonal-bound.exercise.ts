@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const alternateLegDiagonalBound = {
   id: "019ebc75-c0af-7281-9a4f-3d963c58b313",

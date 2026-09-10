@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const leverageShrug = {
   id: "019ebc77-8fbb-7815-9efd-6e9d23ee9a8d",

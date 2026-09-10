@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lateralConeHops = {
   id: "019ebc77-8bae-7314-a5e4-08fd7cefcc24",

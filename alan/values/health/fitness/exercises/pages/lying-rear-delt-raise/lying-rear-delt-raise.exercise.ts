@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lyingRearDeltRaise = {
   id: "019ebc77-98c4-7442-bf76-bf9df0d9583e",

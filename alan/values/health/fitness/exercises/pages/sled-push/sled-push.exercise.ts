@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sledPush = {
   id: "019ebc78-6a14-7646-be38-e679a54bf3c0",

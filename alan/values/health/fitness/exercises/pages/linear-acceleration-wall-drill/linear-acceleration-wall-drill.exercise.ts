@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const linearAccelerationWallDrill = {
   id: "019ebc77-9034-7271-adf7-fd9e45947402",

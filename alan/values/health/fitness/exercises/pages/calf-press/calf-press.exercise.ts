@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const calfPress = {
   id: "019ebc76-c57f-7fe0-b317-19b69480cbb7",

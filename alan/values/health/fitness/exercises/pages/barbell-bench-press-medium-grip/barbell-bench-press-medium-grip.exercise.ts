@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const barbellBenchPressMediumGrip = {
   id: "019ebc76-2122-7de4-a22f-e23bc3236b5c",

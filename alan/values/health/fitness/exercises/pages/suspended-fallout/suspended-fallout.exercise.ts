@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const suspendedFallout = {
   id: "019ebc78-a782-78d7-acff-ab3f703fefd1",

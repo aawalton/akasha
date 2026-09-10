@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingOlympicPlateHandSqueeze = {
   id: "019ebc78-8b54-7b68-8006-c1f7f7be0912",

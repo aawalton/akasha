@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seatedFloorHamstringStretch = {
   id: "019ebc78-57cb-7b40-8846-9cb9d097df93",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const supineTwoArmOverheadThrow = {
   id: "019ebc78-a73c-7b74-9abf-99cc04f60e1e",

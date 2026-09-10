@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleLegButtKick = {
   id: "019ebc78-6766-7d3e-83fd-c816b01cc1b1",

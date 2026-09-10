@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const rocketJump = {
   id: "019ebc77-d0a3-7684-af83-7ea14ca532f5",

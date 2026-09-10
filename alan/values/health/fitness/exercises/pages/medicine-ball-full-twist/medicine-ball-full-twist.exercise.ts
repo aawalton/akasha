@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const medicineBallFullTwist = {
   id: "019ebc77-9b33-7498-9046-1bd22bcad06e",

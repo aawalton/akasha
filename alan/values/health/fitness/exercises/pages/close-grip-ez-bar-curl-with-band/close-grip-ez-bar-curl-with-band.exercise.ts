@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const closeGripEzBarCurlWithBand = {
   id: "019ebc76-dcbe-7a99-b009-c10fd3376fc6",

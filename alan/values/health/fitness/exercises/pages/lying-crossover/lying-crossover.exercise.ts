@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lyingCrossover = {
   id: "019ebc77-95fe-7984-b78a-6775604d5b18",

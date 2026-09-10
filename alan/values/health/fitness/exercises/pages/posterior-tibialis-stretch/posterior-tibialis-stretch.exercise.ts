@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const posteriorTibialisStretch = {
   id: "019ebc77-c2e3-7244-8d6c-fa5f0d428a3c",

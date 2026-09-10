@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const leverageChestPress = {
   id: "019ebc77-8df6-7f53-9883-8fe0c67d2329",

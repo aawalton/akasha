@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lyingBentLegGroin = {
   id: "019ebc77-92f6-7aa6-b6b9-e3b1d7dfa05a",

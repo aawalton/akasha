@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const smithMachineLegPress = {
   id: "019ebc78-6dba-7640-9607-932111c2a0a9",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lyingTBarRow = {
   id: "019ebc77-993d-74ef-a184-3a6278959c64",

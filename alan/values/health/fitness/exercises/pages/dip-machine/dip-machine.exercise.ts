@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dipMachine = {
   id: "019ebc76-f157-75ca-97d7-74f1cedccad7",

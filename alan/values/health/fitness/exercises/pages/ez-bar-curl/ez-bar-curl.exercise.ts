@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const ezBarCurl = {
   id: "019ebc77-2cd5-775c-b093-12babc33556b",

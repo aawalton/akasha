@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const goodMorningOffPins = {
   id: "019ebc77-49fd-75af-8727-b63cd664d539",

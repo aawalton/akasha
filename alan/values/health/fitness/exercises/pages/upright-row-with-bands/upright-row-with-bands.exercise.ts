@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const uprightRowWithBands = {
   id: "019ebc78-b307-752f-9dee-dd96f506a706",

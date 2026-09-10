@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sideLyingFloorStretch = {
   id: "019ebc78-61b1-7154-acdb-8106fbce0cb8",

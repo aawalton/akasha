@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const pushUpWide = {
   id: "019ebc77-c6bc-7398-b577-e28ae564c146",

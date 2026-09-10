@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const iliotibialTractSmr = {
   id: "019ebc77-7875-7cd0-abf5-1d795e89eb68",

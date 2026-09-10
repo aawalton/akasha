@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const landmineLinearJammer = {
   id: "019ebc77-8af1-7b36-a4f5-381924cd88b5",

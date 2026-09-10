@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const powerSnatch = {
   id: "019ebc77-c417-74f7-9d18-090a1c04050e",

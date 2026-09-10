@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneHalfLocust = {
   id: "019ebc77-bb11-78b3-929e-1c6473370f45",

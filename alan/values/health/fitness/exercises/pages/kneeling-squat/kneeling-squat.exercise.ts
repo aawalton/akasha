@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const kneelingSquat = {
   id: "019ebc77-8a76-7801-910b-e46db627b1f9",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const onYourSideQuadStretch = {
   id: "019ebc77-b306-72b1-826b-e5f00ee0084c",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const antiGravityPress = {
   id: "019ebc76-18ea-7a75-844e-3d84c4aba077",

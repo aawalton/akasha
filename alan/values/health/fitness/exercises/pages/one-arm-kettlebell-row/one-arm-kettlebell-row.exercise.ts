@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneArmKettlebellRow = {
   id: "019ebc77-b60b-7a9c-be01-b91e542d37bc",

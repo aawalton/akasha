@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const declineEzBarTricepsExtension = {
   id: "019ebc76-efa6-78fb-b2ae-5f52b1f5083c",

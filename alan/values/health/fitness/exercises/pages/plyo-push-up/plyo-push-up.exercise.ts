@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const plyoPushUp = {
   id: "019ebc77-c2a1-7d55-9ec1-a94a10cd6fd5",

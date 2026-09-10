@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const spiderCrawl = {
   id: "019ebc78-7d7c-7526-9fe4-aaaaf74fa4a4",

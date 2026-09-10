@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const smithMachineReverseCalfRaises = {
   id: "019ebc78-6eb9-7540-8d31-6e67b3513b0a",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const catStretch = {
   id: "019ebc76-cc22-77f2-90b2-b738b7b66ced",

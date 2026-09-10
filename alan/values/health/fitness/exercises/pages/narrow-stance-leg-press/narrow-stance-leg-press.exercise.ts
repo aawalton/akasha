@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const narrowStanceLegPress = {
   id: "019ebc77-b0db-714e-8502-1a2613cb36ee",

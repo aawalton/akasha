@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const rickshawDeadlift = {
   id: "019ebc77-d01e-7ffa-badf-560c050a35a0",

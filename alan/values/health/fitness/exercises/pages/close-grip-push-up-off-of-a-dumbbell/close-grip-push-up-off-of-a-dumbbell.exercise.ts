@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const closeGripPushUpOffOfADumbbell = {
   id: "019ebc76-ddc4-7dd8-9043-ba390cd96955",

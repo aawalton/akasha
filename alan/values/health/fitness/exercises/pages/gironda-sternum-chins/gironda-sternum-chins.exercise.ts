@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const girondaSternumChins = {
   id: "019ebc77-4490-775f-8a33-6fe9790cb577",

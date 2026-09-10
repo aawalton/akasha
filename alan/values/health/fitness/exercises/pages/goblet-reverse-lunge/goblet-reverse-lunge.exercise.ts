@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const gobletReverseLunge = {
   id: "019ee5f7-b4e3-7f64-bd62-3015a2f149bb",

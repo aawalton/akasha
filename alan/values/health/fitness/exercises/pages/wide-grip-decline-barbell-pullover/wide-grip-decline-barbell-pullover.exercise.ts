@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const wideGripDeclineBarbellPullover = {
   id: "019ebc78-b81f-76f9-ae91-3aa914d94ed6",

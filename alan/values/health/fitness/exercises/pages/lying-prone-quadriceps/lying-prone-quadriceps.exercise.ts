@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lyingProneQuadriceps = {
   id: "019ebc77-9874-7e2c-9413-7a2fefe66bfe",

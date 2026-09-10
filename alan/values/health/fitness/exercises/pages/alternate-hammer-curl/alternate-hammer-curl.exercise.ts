@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const alternateHammerCurl = {
   id: "019ebc75-bfe8-79be-8424-03a4c89b7274",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seatedCableRows = {
   id: "019ebc78-54ea-7e41-83bc-c7579ad6c143",

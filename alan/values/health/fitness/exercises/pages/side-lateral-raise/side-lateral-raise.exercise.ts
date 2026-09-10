@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sideLateralRaise = {
   id: "019ebc78-62a7-78bb-b731-145b9717e3ff",

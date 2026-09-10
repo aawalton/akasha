@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const adductorGroin = {
   id: "019ebc75-be4a-7425-ab43-560d434553bf",

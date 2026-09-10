@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const crunchLegsOnExerciseBall = {
   id: "019ebc76-e0ca-7daf-8e97-3d5e5c5e0aa8",

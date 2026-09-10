@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const latissimusDorsiSmr = {
   id: "019ebc77-8c2e-7161-af7b-216717da419d",

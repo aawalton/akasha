@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const monsterWalk = {
   id: "019ebc77-9c5e-7151-af24-431f72460c43",

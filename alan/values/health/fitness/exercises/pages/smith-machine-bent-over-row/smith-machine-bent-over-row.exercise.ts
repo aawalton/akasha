@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const smithMachineBentOverRow = {
   id: "019ebc78-6bdc-7841-b99f-8a8ec8e730f0",

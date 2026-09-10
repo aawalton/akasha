@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const rhomboidsSmr = {
   id: "019ebc77-cf9e-74b9-84ea-fc53ab5317ba",

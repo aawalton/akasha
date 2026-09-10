@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const depthJumpLeap = {
   id: "019ebc76-f121-77fe-b170-9c19e5e6a146",

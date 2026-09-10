@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const kneelingCableCrunchWithAlternatingObliqueTwists = {
   id: "019ebc77-8865-7c0e-98d3-f8d90bd38807",

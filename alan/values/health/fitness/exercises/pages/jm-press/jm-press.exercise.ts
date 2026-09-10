@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const jmPress = {
   id: "019ebc77-815c-72ea-8c22-b247c30c6abd",

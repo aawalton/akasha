@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const internalRotationWithBand = {
   id: "019ebc77-7f25-782a-9007-489893e8639a",

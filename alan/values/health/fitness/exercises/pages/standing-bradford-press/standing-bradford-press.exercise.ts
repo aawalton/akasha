@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingBradfordPress = {
   id: "019ebc78-82f8-79bc-903b-8b74f33478d8",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleConeSprintDrill = {
   id: "019ebc78-65a3-701d-95d0-a518a196332e",

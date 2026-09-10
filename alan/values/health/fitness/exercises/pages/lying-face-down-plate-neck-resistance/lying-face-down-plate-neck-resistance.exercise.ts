@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lyingFaceDownPlateNeckResistance = {
   id: "019ebc77-9675-7fb4-b659-8504bf30c620",

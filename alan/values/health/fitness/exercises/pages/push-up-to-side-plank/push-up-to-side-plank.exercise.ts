@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const pushUpToSidePlank = {
   id: "019ebc77-c830-7b32-ab03-d80d48fb2449",

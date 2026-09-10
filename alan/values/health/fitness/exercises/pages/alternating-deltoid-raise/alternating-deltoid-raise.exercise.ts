@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const alternatingDeltoidRaise = {
   id: "019ebc75-c12d-73ff-9a37-0f360286ec6f",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const kneelingCableTricepsExtension = {
   id: "019ebc77-88a8-7eda-9ae5-c74a96a1c198",

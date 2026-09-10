@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const rearLegRaises = {
   id: "019ebc77-ca94-73e7-a4d3-696eb539d06c",

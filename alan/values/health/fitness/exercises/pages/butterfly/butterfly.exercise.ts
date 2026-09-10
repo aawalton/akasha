@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const butterfly = {
   id: "019ebc76-b682-7a5a-a9a7-655eb97e3d52",

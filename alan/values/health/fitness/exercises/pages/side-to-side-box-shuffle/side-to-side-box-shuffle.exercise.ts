@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sideToSideBoxShuffle = {
   id: "019ebc78-649b-7cf7-a64b-d1f10290ea33",

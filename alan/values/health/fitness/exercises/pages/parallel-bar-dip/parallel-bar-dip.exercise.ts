@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const parallelBarDip = {
   id: "019ebc77-bf7b-75c5-a963-23bf8cbee5f8",

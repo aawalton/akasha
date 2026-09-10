@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const rackPulls = {
   id: "019ebc77-ca58-7dc5-baab-3866e71ef61b",

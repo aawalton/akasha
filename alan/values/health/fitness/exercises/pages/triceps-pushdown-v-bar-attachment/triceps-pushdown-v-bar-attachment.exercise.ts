@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const tricepsPushdownVBarAttachment = {
   id: "019ebc78-acca-7ad0-95da-b9cd413a9f3f",

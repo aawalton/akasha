@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lookingAtCeiling = {
   id: "019ebc77-9122-7066-846b-1c30137e538b",

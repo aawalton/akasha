@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const concentrationCurls = {
   id: "019ebc76-df2c-7fd9-8d6a-e7ee95ec252b",

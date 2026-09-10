@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const spellCaster = {
   id: "019ebc78-7d41-7444-b592-6c41302334f0",

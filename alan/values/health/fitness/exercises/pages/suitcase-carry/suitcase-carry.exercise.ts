@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const suitcaseCarry = {
   id: "019f9756-d498-791c-a5e1-963d689c2503",

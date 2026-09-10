@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const tricepDumbbellKickback = {
   id: "019ebc78-ab79-7e19-9592-027d0182b5e7",

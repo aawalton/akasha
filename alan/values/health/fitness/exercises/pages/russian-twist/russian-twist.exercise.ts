@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const russianTwist = {
   id: "019ebc77-d3f6-7ddb-90c5-ba5ad7c781d7",

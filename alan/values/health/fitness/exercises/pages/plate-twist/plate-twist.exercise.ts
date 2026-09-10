@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const plateTwist = {
   id: "019ebc77-c1a8-7b2d-942b-9a7128f8641e",

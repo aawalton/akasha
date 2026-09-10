@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const vBarPullup = {
   id: "019ebc78-b3dc-7a1d-bd26-de190a0a5a0e",

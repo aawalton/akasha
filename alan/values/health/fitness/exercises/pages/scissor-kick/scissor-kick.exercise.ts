@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const scissorKick = {
   id: "019ebc77-d4b2-7965-ac19-9efa692a29ea",

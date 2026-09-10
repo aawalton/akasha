@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const buttLiftBridge = {
   id: "019ebc76-b644-7637-bade-cbfe46552834",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const chainHandleExtension = {
   id: "019ebc76-ccab-7227-aad3-771c4e12c211",

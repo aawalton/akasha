@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sumoDeadliftWithChains = {
   id: "019ebc78-a629-7869-b099-fe6b022641ed",

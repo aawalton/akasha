@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const hyperextensionsWithNoHyperextensionBench = {
   id: "019ebc77-7800-7f16-bd62-14262998e3b3",

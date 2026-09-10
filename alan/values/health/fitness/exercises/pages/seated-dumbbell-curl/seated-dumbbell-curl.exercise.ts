@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seatedDumbbellCurl = {
   id: "019ebc78-564c-79c5-a9a5-92e3c7bb9dbe",

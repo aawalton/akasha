@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seatedBandHamstringCurl = {
   id: "019ebc77-d5fa-738b-87d9-acfaed9a1bf7",

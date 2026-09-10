@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const tireFlip = {
   id: "019ebc78-aa50-7399-9e6e-4ff4e504087f",

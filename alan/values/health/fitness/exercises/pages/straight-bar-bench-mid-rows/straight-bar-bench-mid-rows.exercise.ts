@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const straightBarBenchMidRows = {
   id: "019ebc78-a4e5-7807-a5f3-8ee48f72494f",

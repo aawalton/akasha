@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dragCurl = {
   id: "019ebc77-014a-76ea-bec1-0b3e256ef574",

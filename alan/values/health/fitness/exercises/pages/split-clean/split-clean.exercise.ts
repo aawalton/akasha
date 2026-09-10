@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const splitClean = {
   id: "019ebc78-7e3c-78c7-9fbd-81b6beb5da82",

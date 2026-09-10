@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bodyweightFlyes = {
   id: "019ebc76-a83c-775d-96d4-bc39e40eed40",

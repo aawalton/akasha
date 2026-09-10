@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const pinPresses = {
   id: "019ebc77-c0aa-7c71-9f04-68f82e4d210f",

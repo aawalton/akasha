@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const weightedPullUps = {
   id: "019ebc78-b6b6-7450-9a1a-c5df51b59ad9",

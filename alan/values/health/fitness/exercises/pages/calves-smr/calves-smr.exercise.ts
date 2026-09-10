@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const calvesSmr = {
   id: "019ebc76-cb28-72e8-8c83-6fa9c85581fa",

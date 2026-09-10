@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const barbellDeadlift = {
   id: "019ebc76-21f5-7a4d-966d-7b84d8abf48a",

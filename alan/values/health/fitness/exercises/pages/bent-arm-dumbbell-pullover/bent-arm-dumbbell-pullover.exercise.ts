@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bentArmDumbbellPullover = {
   id: "019ebc76-a1b2-7ade-8ad4-11d370aa6f7c",

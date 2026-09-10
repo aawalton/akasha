@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const declineReverseCrunch = {
   id: "019ebc76-f062-7360-9601-aea2f20144d1",

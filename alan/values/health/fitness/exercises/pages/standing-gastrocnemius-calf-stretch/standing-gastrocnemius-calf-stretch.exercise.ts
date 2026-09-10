@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingGastrocnemiusCalfStretch = {
   id: "019ebc78-8843-7365-b7ab-d64bfad32786",

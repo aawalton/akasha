@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bandPullApart = {
   id: "019ebc76-2022-7521-b369-5fd271f78b00",

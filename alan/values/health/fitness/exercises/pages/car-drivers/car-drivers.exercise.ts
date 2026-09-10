@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const carDrivers = {
   id: "019ebc76-cba5-767e-bfc0-ec796f707414",

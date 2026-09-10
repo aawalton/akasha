@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const closeGripFrontLatPulldown = {
   id: "019ebc76-dd88-788c-919f-61a5eb9deff1",

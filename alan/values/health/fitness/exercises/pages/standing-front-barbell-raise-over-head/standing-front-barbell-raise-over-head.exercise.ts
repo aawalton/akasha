@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingFrontBarbellRaiseOverHead = {
   id: "019ebc78-863a-7b98-b181-c13aa4396869",

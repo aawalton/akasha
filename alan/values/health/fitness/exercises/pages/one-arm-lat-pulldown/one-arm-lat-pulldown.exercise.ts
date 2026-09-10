@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneArmLatPulldown = {
   id: "019ebc77-ba4a-7cba-b991-db80c4e612f6",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dipsTricepsVersion = {
   id: "019ebc76-f1cb-7388-ade7-e0ed2d4cf3b1",

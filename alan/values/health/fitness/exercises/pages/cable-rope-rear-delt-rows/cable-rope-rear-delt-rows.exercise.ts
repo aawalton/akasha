@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cableRopeRearDeltRows = {
   id: "019ebc76-c388-7290-85f3-a873c7d66708",

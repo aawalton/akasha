@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const frontCableRaise = {
   id: "019ebc77-419a-7ae9-a564-41f4b57c1d1b",

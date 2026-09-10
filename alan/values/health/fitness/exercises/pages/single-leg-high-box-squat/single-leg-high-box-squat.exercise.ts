@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleLegHighBoxSquat = {
   id: "019ebc78-65e5-7732-8d1c-9e603d8e7455",

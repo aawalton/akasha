@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bodyweightMidRow = {
   id: "019ebc76-a87e-75d8-858e-e70c86ba1961",

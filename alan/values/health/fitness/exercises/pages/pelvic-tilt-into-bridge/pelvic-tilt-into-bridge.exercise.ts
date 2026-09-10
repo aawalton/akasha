@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const pelvicTiltIntoBridge = {
   id: "019ebc77-bfb9-760a-a9b1-3a400de9eef0",

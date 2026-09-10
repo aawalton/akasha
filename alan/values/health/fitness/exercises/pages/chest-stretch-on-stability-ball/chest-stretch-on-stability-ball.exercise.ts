@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const chestStretchOnStabilityBall = {
   id: "019ebc76-cf8e-75d8-8553-0081bbb698b2",

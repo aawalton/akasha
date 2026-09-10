@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bentOverOneArmLongBarRow = {
   id: "019ebc76-a305-7c2d-83cc-d48ff5eb8208",

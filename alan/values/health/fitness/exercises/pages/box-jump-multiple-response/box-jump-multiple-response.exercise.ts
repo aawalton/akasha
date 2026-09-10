@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const boxJumpMultipleResponse = {
   id: "019ebc76-aa06-7b8c-acc8-2e2f824d8d28",

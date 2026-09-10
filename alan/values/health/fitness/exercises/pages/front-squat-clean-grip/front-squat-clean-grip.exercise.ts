@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const frontSquatCleanGrip = {
   id: "019ebc77-438e-70d5-bbaf-716747519a7d",

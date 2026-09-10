@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const inclinePushUp = {
   id: "019ebc77-7b7a-7566-8e12-b85ae36c6dd0",

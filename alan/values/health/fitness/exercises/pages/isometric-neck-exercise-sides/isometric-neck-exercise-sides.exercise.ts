@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const isometricNeckExerciseSides = {
   id: "019ebc77-80de-7299-aab1-59b0f80feb6b",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingLateralStretch = {
   id: "019ebc78-89de-739c-977f-8556ff996b76",

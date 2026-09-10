@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const hugKneesToChest = {
   id: "019ebc77-76ff-7491-b195-1306694016e0",

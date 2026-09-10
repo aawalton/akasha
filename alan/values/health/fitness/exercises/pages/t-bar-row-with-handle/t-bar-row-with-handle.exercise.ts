@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const tBarRowWithHandle = {
   id: "019ebc78-a90e-7844-863f-0a09917d3f22",

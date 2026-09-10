@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const downwardFacingBalance = {
   id: "019ebc77-010a-7ba0-9ce5-209f536bd2b6",

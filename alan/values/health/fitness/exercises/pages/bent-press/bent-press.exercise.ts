@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bentPress = {
   id: "019ebc76-a6b1-71b9-94d3-69754ccd1f54",

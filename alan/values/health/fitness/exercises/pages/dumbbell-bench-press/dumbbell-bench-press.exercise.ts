@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dumbbellBenchPress = {
   id: "019ebc77-0737-774d-9f2b-76389a81f742",

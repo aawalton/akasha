@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seatedOneArmCablePulleyRows = {
   id: "019ebc78-5dee-7fa2-873a-b80282940ffb",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const intermediateHipFlexorAndQuadStretch = {
   id: "019ebc77-7ee6-7704-94fb-536a10aab2bd",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const clockPushUp = {
   id: "019ebc76-db8e-7d59-ba86-5d75af66f9d5",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleLegPushOff = {
   id: "019ebc78-67e2-791d-b4d0-c5b934e202c8",

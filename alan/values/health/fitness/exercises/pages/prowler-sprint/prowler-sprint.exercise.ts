@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const prowlerSprint = {
   id: "019ebc77-c5c5-7f83-a4e4-4de91f5d10c1",

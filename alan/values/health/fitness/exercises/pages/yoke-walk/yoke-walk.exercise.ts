@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const yokeWalk = {
   id: "019ebc78-c33a-7272-98f6-5780fef3d98c",

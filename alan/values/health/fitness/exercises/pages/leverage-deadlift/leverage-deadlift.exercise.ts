@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const leverageDeadlift = {
   id: "019ebc77-8e33-7d7f-9303-fbfaf827c5e7",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const inclineDumbbellBenchWithPalmsFacingIn = {
   id: "019ebc77-79d8-72ea-b61a-867abc55c8c5",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const beatSaber1Song = {
   id: "019f0077-1ac6-75b0-9aac-45f4c44ea436",

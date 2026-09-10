@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const tuckCrunch = {
   id: "019ebc78-ad50-719f-89bb-72aabcc1d002",

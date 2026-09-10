@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const tatePress = {
   id: "019ebc78-a950-79ee-93f2-54f59222234f",

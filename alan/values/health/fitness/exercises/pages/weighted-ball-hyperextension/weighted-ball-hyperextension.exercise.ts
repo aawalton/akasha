@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const weightedBallHyperextension = {
   id: "019ebc78-b50f-78a4-b525-12cc716845bc",

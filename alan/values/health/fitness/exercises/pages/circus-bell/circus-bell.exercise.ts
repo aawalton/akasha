@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const circusBell = {
   id: "019ebc76-d995-7e8b-be5b-dc4ccf57e5f1",

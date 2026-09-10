@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const speedBandOverheadTriceps = {
   id: "019ebc78-7c7d-79c2-a74d-e413e8f97c8a",

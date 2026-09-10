@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneArmAgainstWall = {
   id: "019ebc77-b91a-7e5e-8787-3c6be75e8dc9",

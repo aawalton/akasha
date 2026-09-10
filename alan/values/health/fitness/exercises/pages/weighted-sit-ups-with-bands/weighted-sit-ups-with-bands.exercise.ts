@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const weightedSitUpsWithBands = {
   id: "019ebc78-b72d-78df-ba8d-d07315fedfa4",

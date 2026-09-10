@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const neckPress = {
   id: "019ebc77-b1cf-7d0c-8a6a-c39dcdfb9aa5",

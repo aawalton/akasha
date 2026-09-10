@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const weightedBallSideBend = {
   id: "019ebc78-b554-78f4-9eaa-9e06d5fd7b66",

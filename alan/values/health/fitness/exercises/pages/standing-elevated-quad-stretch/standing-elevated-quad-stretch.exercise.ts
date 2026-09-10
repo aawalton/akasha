@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingElevatedQuadStretch = {
   id: "019ebc78-85fa-7d97-87e4-8e744428dcaa",

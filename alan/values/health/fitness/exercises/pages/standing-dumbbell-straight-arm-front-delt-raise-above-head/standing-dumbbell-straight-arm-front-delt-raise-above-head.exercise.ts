@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingDumbbellStraightArmFrontDeltRaiseAboveHead = {
   id: "019ebc78-853e-707c-98c9-a0ea6f569553",

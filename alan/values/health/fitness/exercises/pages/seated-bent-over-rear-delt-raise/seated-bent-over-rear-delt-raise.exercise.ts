@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seatedBentOverRearDeltRaise = {
   id: "019ebc78-542c-7ead-b270-6c048e08e9e2",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cableHipAdduction = {
   id: "019ebc76-b7f5-7cd2-8de5-5038052070d3",

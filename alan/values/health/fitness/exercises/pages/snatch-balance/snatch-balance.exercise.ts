@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const snatchBalance = {
   id: "019ebc78-7b54-7202-bd5a-a0a5cd338678",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bosuBallCableCrunchWithSideBends = {
   id: "019ebc76-a943-7c0a-8233-2b2c022ed80c",

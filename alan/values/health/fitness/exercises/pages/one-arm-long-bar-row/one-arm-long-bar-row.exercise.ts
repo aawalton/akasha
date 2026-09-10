@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneArmLongBarRow = {
   id: "019ebc77-b750-7a5b-9c45-f2999379a0e7",

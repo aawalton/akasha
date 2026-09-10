@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const linear3PartStartTechnique = {
   id: "019ebc77-8ff8-7061-91c4-290929b4422e",

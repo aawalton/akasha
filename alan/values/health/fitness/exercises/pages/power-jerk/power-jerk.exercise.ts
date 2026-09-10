@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const powerJerk = {
   id: "019ebc77-c39d-7705-9ea5-3edea1f92b3d",

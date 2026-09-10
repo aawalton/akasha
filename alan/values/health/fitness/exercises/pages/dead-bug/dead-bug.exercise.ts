@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const deadBug = {
   id: "019ebc76-e1d6-73a8-b3bb-9a966e08033c",

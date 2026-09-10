@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const obliqueCrunchesOnTheFloor = {
   id: "019ebc77-b247-7f8f-9987-2166bc66f0ed",

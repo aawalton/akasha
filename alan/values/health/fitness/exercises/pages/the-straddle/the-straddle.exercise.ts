@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const theStraddle = {
   id: "019ebc78-a993-7f1f-8a93-0f2e6334d215",

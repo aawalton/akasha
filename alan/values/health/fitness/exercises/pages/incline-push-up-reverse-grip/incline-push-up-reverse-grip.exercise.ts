@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const inclinePushUpReverseGrip = {
   id: "019ebc77-7e31-7cfb-ac78-b19e08fa09b5",

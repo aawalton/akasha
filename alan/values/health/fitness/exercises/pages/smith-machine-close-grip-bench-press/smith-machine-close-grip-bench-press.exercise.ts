@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const smithMachineCloseGripBenchPress = {
   id: "019ebc78-6c67-72eb-bee1-56bb4f1294e0",

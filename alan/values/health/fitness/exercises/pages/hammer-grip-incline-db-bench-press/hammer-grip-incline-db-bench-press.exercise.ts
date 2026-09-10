@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const hammerGripInclineDbBenchPress = {
   id: "019ebc77-4b66-7fa5-81fb-327e41f9aa37",

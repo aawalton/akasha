@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const boxSkip = {
   id: "019ebc76-aa43-739f-b313-f47f6598659f",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dipsChestVersion = {
   id: "019ebc76-f18d-76ac-ac9b-ce21a257c945",

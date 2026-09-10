@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const isometricWipers = {
   id: "019ebc77-811b-7f5a-bfa1-e770cf3f0c21",

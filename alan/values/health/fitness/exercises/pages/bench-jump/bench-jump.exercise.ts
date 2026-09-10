@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const benchJump = {
   id: "019ebc76-9ed2-7b84-a5bc-1e232e113ed6",

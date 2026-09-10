@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const facePull = {
   id: "019ebc77-3801-72b9-bb28-48bb13993894",

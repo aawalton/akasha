@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const closeGripEzBarPress = {
   id: "019ebc76-dcfb-7a7a-a149-e31873094282",

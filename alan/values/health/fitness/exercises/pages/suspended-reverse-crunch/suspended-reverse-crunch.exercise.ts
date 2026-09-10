@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const suspendedReverseCrunch = {
   id: "019ebc78-a80b-7e08-bb4c-e2b4e72bc3de",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dynamicChestStretch = {
   id: "019ebc77-2c74-7e34-a229-fa89068d277f",

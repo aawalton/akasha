@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seeSawPressAlternatingSidePress = {
   id: "019ebc78-6002-7275-b4b0-ebc9d1293f52",

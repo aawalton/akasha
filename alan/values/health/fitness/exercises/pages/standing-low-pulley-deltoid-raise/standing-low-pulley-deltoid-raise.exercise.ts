@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingLowPulleyDeltoidRaise = {
   id: "019ebc78-8a97-7aff-ac87-bc25be1a8037",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bodyweightWalkingLunge = {
   id: "019ebc76-a903-7b23-ac74-4f8a49faed92",

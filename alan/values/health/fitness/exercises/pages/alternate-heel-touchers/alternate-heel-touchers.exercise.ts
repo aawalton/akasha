@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const alternateHeelTouchers = {
   id: "019ebc75-c02d-79bb-9f26-660f3eaeb8c4",

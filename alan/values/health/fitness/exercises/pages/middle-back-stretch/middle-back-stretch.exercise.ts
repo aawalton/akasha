@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const middleBackStretch = {
   id: "019ebc77-9be7-7e95-96aa-cfa5ef8de7a6",

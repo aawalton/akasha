@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const neckSmr = {
   id: "019ebc77-b190-7f7d-9051-ff904827e9f0",

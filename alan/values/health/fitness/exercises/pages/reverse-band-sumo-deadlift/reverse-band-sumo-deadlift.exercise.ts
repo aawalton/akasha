@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const reverseBandSumoDeadlift = {
   id: "019ebc77-cc63-79f7-b4e7-9a17815e8c60",

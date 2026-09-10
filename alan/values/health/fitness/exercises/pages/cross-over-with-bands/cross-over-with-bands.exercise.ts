@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const crossOverWithBands = {
   id: "019ebc76-dfe1-7b53-a336-d42ce450f40b",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const allFoursQuadStretch = {
   id: "019ebc75-bfa2-75e7-a561-c446de107afc",

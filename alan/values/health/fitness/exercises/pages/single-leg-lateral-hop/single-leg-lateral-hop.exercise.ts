@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleLegLateralHop = {
   id: "019ebc78-6668-7eba-a769-b4206322dc3a",

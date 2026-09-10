@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingSoleusAndAchillesStretch = {
   id: "019ebc78-a160-7641-bbc7-d74d722df1f3",

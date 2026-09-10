@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const physioballHipBridge = {
   id: "019ebc77-c06e-72b2-ba12-cf7810020637",

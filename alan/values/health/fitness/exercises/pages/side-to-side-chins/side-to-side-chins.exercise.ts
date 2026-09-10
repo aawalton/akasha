@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sideToSideChins = {
   id: "019ebc78-641a-7ac7-8b12-56be86615061",

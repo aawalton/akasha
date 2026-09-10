@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const frontBoxJump = {
   id: "019ebc77-4155-7452-b8de-48636d92b0ab",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const declineBarbellBenchPress = {
   id: "019ebc76-e291-7044-8cf6-31dcebd64822",

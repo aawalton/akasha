@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const stomachVacuum = {
   id: "019ebc78-a421-71d7-8465-7a7c722ad8cd",

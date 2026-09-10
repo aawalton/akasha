@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bandAssistedPullUp = {
   id: "019ebc76-1f1f-7021-b702-050a2d138709",

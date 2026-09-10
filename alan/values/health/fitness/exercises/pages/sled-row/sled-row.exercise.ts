@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sledRow = {
   id: "019ebc78-6aa4-7ecd-badc-4bf64899b9a0",

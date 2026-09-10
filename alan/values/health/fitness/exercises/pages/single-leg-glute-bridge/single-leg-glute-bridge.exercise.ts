@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleLegGluteBridge = {
   id: "019ebc78-67a4-79ea-92f2-e9de4ac56d75",

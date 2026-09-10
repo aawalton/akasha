@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sandbagLoad = {
   id: "019ebc77-d436-7720-b0b8-1b64ae6e5096",

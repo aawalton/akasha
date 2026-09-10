@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const calfRaiseOnADumbbell = {
   id: "019ebc76-ca3d-7383-a469-a00e4ee8ac26",

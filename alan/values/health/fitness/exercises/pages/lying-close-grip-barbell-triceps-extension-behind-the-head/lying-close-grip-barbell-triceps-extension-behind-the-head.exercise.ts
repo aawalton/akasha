@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lyingCloseGripBarbellTricepsExtensionBehindTheHead = {
   id: "019ebc77-93e7-7a5f-b722-79830a8b57b8",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleLegHopProgression = {
   id: "019ebc78-6623-772a-8563-782289d4363a",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const chestPushWithRunRelease = {
   id: "019ebc76-cf3f-7dcd-815f-6baf344a6550",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const flatBenchCableFlyes = {
   id: "019ebc77-397f-74ce-9f7e-e0c2c5d9dda4",

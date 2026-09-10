@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const wallSit = {
   id: "019efbfe-eadb-7eee-9280-975810ea4813",

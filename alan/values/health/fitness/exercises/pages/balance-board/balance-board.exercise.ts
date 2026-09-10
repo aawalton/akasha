@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const balanceBoard = {
   id: "019ebc76-1e34-721d-aa2a-2bf8f86cd240",

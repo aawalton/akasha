@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const underhandCablePulldowns = {
   id: "019ebc78-aee3-7d9c-ba50-850bc3c9e0d9",

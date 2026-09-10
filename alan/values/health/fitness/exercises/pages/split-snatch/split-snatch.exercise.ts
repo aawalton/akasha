@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const splitSnatch = {
   id: "019ebc78-7efc-7a42-a2bb-86de506add51",

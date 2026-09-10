@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const hangingLegRaise = {
   id: "019ebc77-56aa-791f-bf06-3746864cb3d9",

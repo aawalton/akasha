@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dropPush = {
   id: "019ebc77-018b-7919-ba80-3e515b25bc21",

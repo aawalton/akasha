@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const flatBenchLyingLegRaise = {
   id: "019ebc77-3b0d-7435-b56f-79305a4f017c",

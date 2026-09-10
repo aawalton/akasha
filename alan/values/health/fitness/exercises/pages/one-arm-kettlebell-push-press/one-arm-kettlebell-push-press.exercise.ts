@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneArmKettlebellPushPress = {
   id: "019ebc77-b5ca-753f-b1a8-e2ddb312e38e",

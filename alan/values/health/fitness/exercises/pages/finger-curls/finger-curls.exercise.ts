@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const fingerCurls = {
   id: "019ebc77-3940-7331-9e9c-fa631e2c6126",

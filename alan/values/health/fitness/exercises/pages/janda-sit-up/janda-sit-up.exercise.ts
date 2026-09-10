@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const jandaSitUp = {
   id: "019ebc77-81da-7ad0-8df6-5c12da675a13",

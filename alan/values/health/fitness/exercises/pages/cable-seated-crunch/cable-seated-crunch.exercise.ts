@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cableSeatedCrunch = {
   id: "019ebc76-c403-74f7-a075-1f76f1288bfb",

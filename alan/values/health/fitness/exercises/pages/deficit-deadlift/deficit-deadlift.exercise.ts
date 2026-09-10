@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const deficitDeadlift = {
   id: "019ebc76-f0de-7e33-affa-5a41cca16ea6",

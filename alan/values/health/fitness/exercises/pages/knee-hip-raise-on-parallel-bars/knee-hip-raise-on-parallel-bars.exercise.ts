@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const kneeHipRaiseOnParallelBars = {
   id: "019ebc77-87b4-764f-9b06-babfe11f195e",

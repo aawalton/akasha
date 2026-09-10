@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneArmSideLaterals = {
   id: "019ebc77-b89c-7a99-8566-82107200bdce",

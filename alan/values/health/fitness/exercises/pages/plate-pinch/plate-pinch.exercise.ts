@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const platePinch = {
   id: "019ebc77-c16b-7ebd-a407-daa7e13aadf1",

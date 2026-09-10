@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lyingCloseGripBarCurlOnHighPulley = {
   id: "019ebc77-93a9-76f0-8e72-2472dead1251",

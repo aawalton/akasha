@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const gluteKickback = {
   id: "019ebc77-450e-7a97-935b-9d93c3729f53",

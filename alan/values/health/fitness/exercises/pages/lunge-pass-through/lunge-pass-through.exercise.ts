@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lungePassThrough = {
   id: "019ebc77-9283-758c-a0a4-9e37beafe69b",

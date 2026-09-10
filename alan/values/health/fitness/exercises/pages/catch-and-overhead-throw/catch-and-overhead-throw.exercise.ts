@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const catchAndOverheadThrow = {
   id: "019ebc76-cc6c-7c6e-8ad2-3e3e7b812c05",

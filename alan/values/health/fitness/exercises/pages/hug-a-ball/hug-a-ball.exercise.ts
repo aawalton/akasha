@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const hugABall = {
   id: "019ebc77-76c3-74a4-ad4b-d956ff625132",

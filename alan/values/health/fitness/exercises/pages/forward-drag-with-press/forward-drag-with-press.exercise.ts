@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const forwardDragWithPress = {
   id: "019ebc77-3f71-7716-8a63-c7acf8124e97",

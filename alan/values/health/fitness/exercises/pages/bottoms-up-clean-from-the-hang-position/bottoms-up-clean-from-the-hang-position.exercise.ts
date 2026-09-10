@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bottomsUpCleanFromTheHangPosition = {
   id: "019ebc76-a980-791f-8633-0b4631445f41",

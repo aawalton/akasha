@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cubanPress = {
   id: "019ebc76-e154-7c9d-90cf-5b35e5beca46",

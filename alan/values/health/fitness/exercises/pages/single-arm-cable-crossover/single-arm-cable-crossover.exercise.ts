@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const singleArmCableCrossover = {
   id: "019ebc78-64dc-7140-93c6-c4bb909a63df",

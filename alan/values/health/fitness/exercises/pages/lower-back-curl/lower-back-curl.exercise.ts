@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lowerBackCurl = {
   id: "019ebc77-9244-7425-969b-edbe745160a4",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const oneArmHighPulleyCableSideBends = {
   id: "019ebc77-b3d1-71d0-b392-fac7f0f0c297",

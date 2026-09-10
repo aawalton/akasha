@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const overheadLat = {
   id: "019ebc77-bcbc-7bbf-97cf-a61f9c0deb58",

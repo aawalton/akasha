@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const reverseBandBenchPress = {
   id: "019ebc77-cb51-7105-a134-6b9e009e1108",

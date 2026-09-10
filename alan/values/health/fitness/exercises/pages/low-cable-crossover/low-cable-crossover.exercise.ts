@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lowCableCrossover = {
   id: "019ebc77-915b-7032-8f6b-ebd68a0c697c",

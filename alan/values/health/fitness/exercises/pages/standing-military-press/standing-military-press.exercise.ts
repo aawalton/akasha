@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingMilitaryPress = {
   id: "019ebc78-8b14-7a5d-98f0-0cbf66c2dbd3",

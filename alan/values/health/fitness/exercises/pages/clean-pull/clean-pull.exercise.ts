@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cleanPull = {
   id: "019ebc76-da54-7b25-8912-ba00d8892672",

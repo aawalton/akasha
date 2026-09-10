@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const ezBarSkullcrusher = {
   id: "019ebc77-2d2d-70d4-9355-6a5c66bdc131",

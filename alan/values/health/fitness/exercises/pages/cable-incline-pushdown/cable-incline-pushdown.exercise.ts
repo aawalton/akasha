@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cableInclinePushdown = {
   id: "019ebc76-b835-7a6d-a016-38b922a8333f",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const seatedLegTucks = {
   id: "019ebc78-5cf0-7155-8e24-a67a412156ac",

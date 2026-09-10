@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const leverageIsoRow = {
   id: "019ebc77-8f3c-73ff-8ebf-091317d3872d",

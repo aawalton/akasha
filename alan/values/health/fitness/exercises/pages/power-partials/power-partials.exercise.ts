@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const powerPartials = {
   id: "019ebc77-c3da-76fd-bd2f-561a46c8bcb9",

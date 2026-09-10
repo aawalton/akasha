@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const ringDips = {
   id: "019ebc77-d063-7458-be62-6abfe6165cd1",

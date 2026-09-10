@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const inclineDumbbellFlyesWithATwist = {
   id: "019ebc77-7a83-72c0-8c82-71ecbab90cc1",

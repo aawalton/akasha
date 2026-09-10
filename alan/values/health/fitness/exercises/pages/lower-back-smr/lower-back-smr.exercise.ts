@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lowerBackSmr = {
   id: "019ebc77-9209-7d4a-b9ed-39d0c21bcb1a",

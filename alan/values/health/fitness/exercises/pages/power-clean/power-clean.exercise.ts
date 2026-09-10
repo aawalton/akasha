@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const powerClean = {
   id: "019ebc77-c31e-7f80-a447-bff2038a19de",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const crossoverReverseLunge = {
   id: "019ebc76-e01b-7b0b-a2e0-30eb935d4bec",

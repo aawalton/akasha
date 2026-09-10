@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const flatBenchLegPullIn = {
   id: "019ebc77-39c6-738a-91f3-c4d4b124c185",

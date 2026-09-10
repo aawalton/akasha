@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const floorPressWithChains = {
   id: "019ebc77-3e91-7f43-a0cc-8f041488b758",

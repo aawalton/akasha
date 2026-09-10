@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const otisUp = {
   id: "019ebc77-bc42-7f2c-9e8a-4ab3400e5f9d",

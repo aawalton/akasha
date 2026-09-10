@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const worldsGreatestStretch = {
   id: "019ebc78-c200-7120-8d31-bb685b629d65",

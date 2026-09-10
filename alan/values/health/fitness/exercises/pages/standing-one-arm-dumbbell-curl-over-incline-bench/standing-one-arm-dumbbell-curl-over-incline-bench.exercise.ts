@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingOneArmDumbbellCurlOverInclineBench = {
   id: "019ebc78-9f57-7de7-a0a7-38bef4731f03",

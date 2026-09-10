@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const childsPose = {
   id: "019ebc76-cfd1-74f5-a9a5-e1b33c9bcbe3",

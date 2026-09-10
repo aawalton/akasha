@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lateralBound = {
   id: "019ebc77-8b35-7ee0-ba15-915197a9d185",

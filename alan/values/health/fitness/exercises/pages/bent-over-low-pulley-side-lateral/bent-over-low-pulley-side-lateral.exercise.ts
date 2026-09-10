@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bentOverLowPulleySideLateral = {
   id: "019ebc76-a2c6-79ff-9357-daed96562c88",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const medicineBallChestPass = {
   id: "019ebc77-9af6-7f9d-abab-6c4236c642ec",

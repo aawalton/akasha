@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const logLift = {
   id: "019ebc77-90ae-782b-beeb-4d84fbee124d",

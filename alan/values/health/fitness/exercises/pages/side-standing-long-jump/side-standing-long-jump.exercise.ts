@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sideStandingLongJump = {
   id: "019ebc78-63e0-7199-9d27-3cd5c98f72e1",

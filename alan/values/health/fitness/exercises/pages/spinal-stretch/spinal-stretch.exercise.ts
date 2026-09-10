@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const spinalStretch = {
   id: "019ebc78-7dfd-7d29-89ce-991eaa26f499",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const ironCross = {
   id: "019ebc77-7fe4-715e-aae0-67832c2cc80f",

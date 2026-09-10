@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cableInternalRotation = {
   id: "019ebc76-b8b8-7504-a28d-8357beea76b8",

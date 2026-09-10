@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const alternatingHangClean = {
   id: "019ebc75-c1b1-7714-8260-81f8e756fc6c",

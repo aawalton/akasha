@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cableSeatedLateralRaise = {
   id: "019ebc76-c440-7184-a78b-34901b6ede23",

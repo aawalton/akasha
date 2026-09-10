@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const hyperextensionsBackExtensions = {
   id: "019ebc77-77c7-7504-833a-5d82cd7b1228",

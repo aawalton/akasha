@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const handGripper = {
   id: "019f0aaa-3b82-7774-a784-cd4a99eb9bf2",

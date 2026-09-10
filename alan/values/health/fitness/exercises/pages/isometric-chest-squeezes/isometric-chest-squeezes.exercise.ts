@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const isometricChestSqueezes = {
   id: "019ebc77-805b-764d-8a6f-11fdb4ea6dcd",

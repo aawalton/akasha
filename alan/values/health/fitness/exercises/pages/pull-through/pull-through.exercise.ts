@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const pullThrough = {
   id: "019ebc77-c60c-7b77-a18a-f5ef70fd26f0",

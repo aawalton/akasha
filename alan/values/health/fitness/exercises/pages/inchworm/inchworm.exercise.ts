@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const inchworm = {
   id: "019ebc77-78ae-76b9-af0d-4628a559d2b3",

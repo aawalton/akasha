@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const mixedGripChin = {
   id: "019ebc77-9c23-7f89-b3bf-d10f6747c858",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const returnPushFromStance = {
   id: "019ebc77-cb10-7824-8208-6a207d1779c6",

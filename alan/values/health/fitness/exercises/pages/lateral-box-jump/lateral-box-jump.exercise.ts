@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lateralBoxJump = {
   id: "019ebc77-8b71-79fa-a742-5d52735f68bd",

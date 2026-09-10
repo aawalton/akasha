@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const verticalSwing = {
   id: "019ebc78-b41e-75cc-9d4e-e1075d358857",

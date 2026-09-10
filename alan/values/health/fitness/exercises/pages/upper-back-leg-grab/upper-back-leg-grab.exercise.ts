@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const upperBackLegGrab = {
   id: "019ebc78-af23-7eaa-84c5-5644a1990bfd",

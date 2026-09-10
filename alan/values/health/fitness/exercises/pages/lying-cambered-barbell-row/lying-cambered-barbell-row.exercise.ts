@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const lyingCamberedBarbellRow = {
   id: "019ebc77-936d-7729-9a42-7f7cc7d1a792",

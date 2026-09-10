@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const reverseCableCurl = {
   id: "019ebc77-cd34-7d01-8ac8-9f31d5db525e",

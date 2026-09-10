@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const reverseMachineFlyes = {
   id: "019ebc77-ceea-7f52-afcb-be584aad9e6b",

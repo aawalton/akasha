@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const pullups = {
   id: "019ebc77-c67d-7051-9a04-64385a8854a5",

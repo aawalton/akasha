@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const reverseBandPowerSquat = {
   id: "019ebc77-cc21-7335-8204-38908625f6ad",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const bandSkullCrusher = {
   id: "019ebc76-205e-7533-bd06-be2a5b436c2a",

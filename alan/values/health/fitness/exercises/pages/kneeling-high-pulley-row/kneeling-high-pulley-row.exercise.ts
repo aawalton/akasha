@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const kneelingHighPulleyRow = {
   id: "019ebc77-8985-7eb4-8d21-a7093a4fc0e3",

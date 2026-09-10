@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const smithSingleLegSplitSquat = {
   id: "019ebc78-73cc-7bf6-8ff4-cdf0a0521a93",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const brachialisSmr = {
   id: "019ebc76-b04d-7a6e-b9c6-40df32c9af0a",

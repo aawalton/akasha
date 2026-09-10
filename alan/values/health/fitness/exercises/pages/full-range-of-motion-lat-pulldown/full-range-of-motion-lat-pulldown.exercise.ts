@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const fullRangeOfMotionLatPulldown = {
   id: "019ebc77-4450-7d9c-955f-f9dd55e6fca9",

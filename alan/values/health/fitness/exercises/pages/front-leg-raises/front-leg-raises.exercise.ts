@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const frontLegRaises = {
   id: "019ebc77-42b9-7b26-a3a1-312160bce02c",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const pallofPress = {
   id: "019ebc77-be02-7142-b499-9e40f3f304dd",

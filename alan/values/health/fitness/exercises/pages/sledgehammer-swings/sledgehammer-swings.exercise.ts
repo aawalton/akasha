@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const sledgehammerSwings = {
   id: "019ebc78-6ae2-7d09-8b36-e88bc6934b67",

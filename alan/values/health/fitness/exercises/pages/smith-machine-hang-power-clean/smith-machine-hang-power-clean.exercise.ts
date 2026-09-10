@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const smithMachineHangPowerClean = {
   id: "019ebc78-6cee-7f11-86cb-83a10d9cfb3a",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const cableJudoFlip = {
   id: "019ebc76-b936-7db7-bea5-c1c3ab06bcc5",

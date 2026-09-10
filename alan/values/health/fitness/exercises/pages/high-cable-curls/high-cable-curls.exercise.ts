@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const highCableCurls = {
   id: "019ebc77-7596-72de-809b-c11871cf9126",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const frogSitUps = {
   id: "019ebc77-4082-748d-8a2a-f6e87863e6f5",

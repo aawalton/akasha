@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const hipLiftWithBand = {
   id: "019ebc77-7686-7945-9f68-3dbf683c8002",

@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const dumbbellBenchPressWithNeutralGrip = {
   id: "019ebc77-0777-799e-ab1e-33efb76ac2b6",

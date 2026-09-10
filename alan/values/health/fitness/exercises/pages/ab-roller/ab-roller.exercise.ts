@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const abRoller = {
   id: "019ebc75-7ad7-7001-acf4-cedee6d5d265",

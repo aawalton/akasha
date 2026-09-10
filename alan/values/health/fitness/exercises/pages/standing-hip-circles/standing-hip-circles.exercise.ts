@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const standingHipCircles = {
   id: "019ebc78-8913-706a-a32d-5432ff11282a",

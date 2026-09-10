@@ -1,4 +1,4 @@
-import type { Exercise } from "../../exercise.page-type.ts"
+import type { Exercise } from "../../exercise.page-type.types.ts"
 
 export const pushupsCloseAndWideHandPositions = {
   id: "019ebc77-c8b3-7f30-a799-c8c093f6849c",
