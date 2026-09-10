@@ -158,6 +158,28 @@ test("an ignored name a constant carries is followed", () => {
   ).toEqual([])
 })
 
+test("a root a body only hashes into a name under the home directory is no destination", () => {
+  expect(
+    only(
+      'import { renameSync, writeFileSync } from "node:fs"\n' +
+        'import { homedir } from "node:os"\n' +
+        'import { join } from "node:path"\n' +
+        "function stateDir(): string {\n" +
+        '  return join(homedir(), ".local", "state", "held")\n' +
+        "}\n" +
+        "function fileFor(root: string): string {\n" +
+        "  return join(stateDir(), hashOf(root))\n" +
+        "}\n" +
+        "export function one(given: { root: string }): void {\n" +
+        "  const path = fileFor(given.root)\n" +
+        "  const staging = `${path}.staging`\n" +
+        '  writeFileSync(staging, "")\n' +
+        "  renameSync(staging, path)\n" +
+        "}\n"
+    )
+  ).toEqual([])
+})
+
 test("a TypeScript file written outside the checkout is let through", () => {
   expect(
     only(

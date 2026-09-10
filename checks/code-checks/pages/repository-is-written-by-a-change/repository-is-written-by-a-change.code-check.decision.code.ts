@@ -20,6 +20,8 @@ const CODE = "code"
 
 const FS = new Set(["fs", "fs/promises", "node:fs", "node:fs/promises"])
 
+const AWAY = new Set(["os", "node:os"])
+
 const BUN_WRITE = "Bun.write"
 
 const BUN = "Bun"
@@ -91,6 +93,7 @@ type Taken = {
   readonly writes: ReadonlyMap<string, readonly number[]>
   readonly spaces: ReadonlySet<string>
   readonly rooted: ReadonlySet<string>
+  readonly away: ReadonlySet<string>
 }
 
 function slugOf(specifier: string): string {
@@ -118,6 +121,7 @@ function takenIn(source: ts.SourceFile): Taken {
   const writes = new Map<string, readonly number[]>()
   const spaces = new Set<string>()
   const rooted = new Set<string>()
+  const away = new Set<string>()
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
     const clause = one.importClause
@@ -125,6 +129,9 @@ function takenIn(source: ts.SourceFile): Taken {
     const specifier = one.moduleSpecifier.text
     if (ROOT_MODULES.has(slugOf(specifier))) {
       for (const named of namedOf(clause)) rooted.add(named)
+    }
+    if (AWAY.has(specifier)) {
+      for (const named of namedOf(clause)) away.add(named)
     }
     if (!FS.has(specifier)) continue
     if (clause.name !== undefined) spaces.add(clause.name.text)
@@ -135,7 +142,7 @@ function takenIn(source: ts.SourceFile): Taken {
       if (at !== undefined) writes.set(element.name.text, at)
     }
   }
-  return { writes, spaces, rooted }
+  return { writes, spaces, rooted, away }
 }
 
 function heldIn(node: ts.Node, held: (one: ts.Node) => boolean): boolean {
@@ -197,6 +204,18 @@ function statedIn(source: ts.SourceFile): readonly Stated[] {
   return found
 }
 
+function answeringIn(source: ts.SourceFile): readonly Stated[] {
+  const found: Stated[] = []
+  const walk = (node: ts.Node): undefined => {
+    if (ts.isFunctionDeclaration(node) && node.name !== undefined && node.body !== undefined) {
+      found.push({ name: node.name.text, names: namesIn(node.body), node: node.body })
+    }
+    ts.forEachChild(node, walk)
+  }
+  ts.forEachChild(source, walk)
+  return found
+}
+
 function spreadOver(
   stated: readonly Stated[],
   seeded: ReadonlySet<string>,
@@ -247,6 +266,10 @@ function calledAs(node: ts.CallExpression, taken: Taken): readonly number[] | nu
   return WRITES.get(named) ?? null
 }
 
+function noNode(): boolean {
+  return false
+}
+
 function pointsRoot(node: ts.Node): boolean {
   return ts.isPropertyAccessExpression(node) && node.name.text === ROOT
 }
@@ -260,10 +283,12 @@ export function reasonsOver(at: string, text: string, aside: readonly string[]):
   const rooted = spreadOver(stated, taken.rooted, pointsRoot)
   const asideNamed = asideBy(aside)
   const named = spreadOver(stated, new Set<string>(), asideNamed)
+  const away = spreadOver([...stated, ...answeringIn(source)], taken.away, noNode)
   const isRooted = (one: ts.Node): boolean =>
     pointsRoot(one) || (ts.isIdentifier(one) && rooted.has(one.text))
   const isAside = (one: ts.Node): boolean =>
     asideNamed(one) || (ts.isIdentifier(one) && named.has(one.text))
+  const isAway = (one: ts.Node): boolean => ts.isIdentifier(one) && away.has(one.text)
   const said: string[] = []
   const walk = (node: ts.Node): undefined => {
     if (ts.isCallExpression(node)) {
@@ -271,6 +296,7 @@ export function reasonsOver(at: string, text: string, aside: readonly string[]):
         const given = node.arguments[which]
         if (given === undefined) continue
         if (!heldIn(given, isRooted) || heldIn(given, isAside)) continue
+        if (heldIn(given, isAway)) continue
         said.push(`line ${lineOf(source, node)} writes under the checkout root, ${SAID}`)
       }
     }

@@ -81,6 +81,22 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
+      statement: "A name `node:os` answers is away from the checkout, as is a name built from it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What a function answers with is read as what every name in that function is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A destination holding a name that is away is let through though it is rooted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That is how a root read as data rather than as a prefix writes nothing here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The refusal names the line the write sits on.",
     },
     {
