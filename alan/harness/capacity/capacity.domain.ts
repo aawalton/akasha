@@ -9,7 +9,6 @@ export const capacity = {
   parts: [
     "module/capacity-reading",
     "readout/upkeep-capacity",
-    "workstation-service/capacity-reading-service",
     "workstation-service/capacity-relay-service",
   ],
   invariants: [
