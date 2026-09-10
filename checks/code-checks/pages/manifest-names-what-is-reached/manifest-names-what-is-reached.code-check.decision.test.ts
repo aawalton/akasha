@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Change } from "@akasha/pages/change"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   creditedIn,
   declaringIn,

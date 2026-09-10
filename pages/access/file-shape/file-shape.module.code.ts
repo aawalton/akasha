@@ -1,6 +1,6 @@
-import type { Asked, Query } from "@akasha/pages/service/asking"
-import { askingFor } from "@akasha/pages/service/calling"
 import { textAt } from "@akasha/utils/narrow/text-at"
+import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import {
   filePropertyDefinitions,
   PAGE_TYPE,

@@ -1,6 +1,6 @@
-import type { Change } from "@akasha/pages/change"
-import type { Shadow } from "@akasha/pages/shadow"
 import { ran } from "@akasha/utils/run/running"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { mirroredOf } from "../../../modules/change-mirror/change-mirror.module.code.ts"
 import { everyFileOf } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"

@@ -1,4 +1,4 @@
-import type { Work } from "@akasha/pages/computed-property"
+import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { WorkedDay } from "../day.page-type.worked.ts"
 
 const AN_HOUR = 3600000

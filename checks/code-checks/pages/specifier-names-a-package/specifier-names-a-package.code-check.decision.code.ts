@@ -1,7 +1,7 @@
 import { specifiersIn } from "@akasha/code/code-specifier"
 import { calledIn } from "@akasha/code/package-manifest"
-import type { Change } from "@akasha/pages/change"
-import type { Shadow } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   bodyOf,
   overEachFile,

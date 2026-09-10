@@ -1,7 +1,7 @@
 import { readFile } from "node:fs/promises"
 import { dirname } from "node:path"
 import { fileURLToPath } from "node:url"
-import { uncommittedBesideAt } from "@akasha/pages/page-file-name"
+import { uncommittedBesideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import * as ort from "onnxruntime-node"
 import {
   decodeTree,

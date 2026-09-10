@@ -1,6 +1,6 @@
 import { everyOfType } from "@akasha/indexes"
-import { partedIn } from "@akasha/pages/page-file-name"
-import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { subagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.ts"
 import { editsWaiting } from "../edits-keeping/edits-keeping.module.code.ts"
 

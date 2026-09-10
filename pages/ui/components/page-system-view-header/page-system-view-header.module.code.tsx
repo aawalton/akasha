@@ -1,6 +1,5 @@
 "use client"
 
-import type { ViewConfig, ViewFilter } from "@akasha/pages/core/schema/view-data"
 import { PagesFilterBar } from "@akasha/pages-ui/components/page-filter-bar"
 import type { PageSystemTabContentProps } from "@akasha/pages-ui/components/page-system-tab-content-props"
 import { CreatePageButton } from "@akasha/pages-ui/components/page-system-view-helpers"
@@ -12,6 +11,10 @@ import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-hea
 import { SearchButton } from "akasha/design/patterns/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/patterns/sort-button/sort-button.module.code.tsx"
+import type {
+  ViewConfig,
+  ViewFilter,
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 
 export interface PageSystemViewHeaderProps

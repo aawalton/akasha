@@ -1,4 +1,4 @@
-import type { Work } from "@akasha/pages/computed-property"
+import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { WorkedSetLog } from "../set-log.page-type.worked.ts"
 
 const LIFTER = "person/alan"

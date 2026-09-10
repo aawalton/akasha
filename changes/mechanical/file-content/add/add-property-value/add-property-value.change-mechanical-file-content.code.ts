@@ -1,5 +1,5 @@
 import { parsedAs } from "@akasha/code/code-source"
-import { exportedAs } from "@akasha/pages/page-export-name"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
 import { refusing, spliced, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/answer/change-answer.module.types.ts"

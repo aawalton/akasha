@@ -1,9 +1,13 @@
 import { statSync } from "node:fs"
 import { join } from "node:path"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { everyOfType, listedById } from "@akasha/pages/index-reading"
-import { uncommittedAt } from "@akasha/pages/page-file-name"
-import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { everyOfType, listedById } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { onceInCall } from "../../commands/modules/during-call/during-call.module.code.ts"
 import { seatAbove } from "../subagent-naming/subagent-naming.module.code.ts"
 

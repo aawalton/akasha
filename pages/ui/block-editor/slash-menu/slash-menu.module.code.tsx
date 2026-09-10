@@ -1,6 +1,5 @@
 "use client"
 
-import type { HeadingLevel, V1BlockType } from "@akasha/pages/core/property-types/rich-document-ops"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   Command,
@@ -14,6 +13,10 @@ import {
   PopoverAnchor,
   PopoverContent,
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
+import type {
+  HeadingLevel,
+  V1BlockType,
+} from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
 import {
   CheckSquare,
   ChevronRight,

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "@akasha/pages/shadow"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bodiesIn, bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import {
   exemptIn,

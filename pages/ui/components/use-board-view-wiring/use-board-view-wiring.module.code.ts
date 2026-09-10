@@ -1,8 +1,8 @@
-import type { PropertyDefinition } from "@akasha/pages/core/types"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import {
   groupKeyToPropertyValue,
   isBoardDraggableGroupType,
-} from "@akasha/pages/core/view/group-key-to-value"
+} from "akasha/pages/core/view/group-key-to-value/group-key-to-value.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 interface UseBoardViewWiringArgs {

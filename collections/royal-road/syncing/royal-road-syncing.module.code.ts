@@ -1,8 +1,3 @@
-import { akashaRoot } from "@akasha/pages/checkout-roots"
-import { besideAt } from "@akasha/pages/page-file-name"
-import type { Value } from "@akasha/pages/page-value"
-import { asking, type Row } from "@akasha/pages/service/asking"
-import { composedFor } from "@akasha/pages/service/composing"
 import {
   type Asking,
   runMechanicalChange,
@@ -14,6 +9,11 @@ import {
   parseFictionPage,
   royalRoadUrl,
 } from "akasha/collections/royal-road/pages/royal-road-pages.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { asking, type Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const ROOT = akashaRoot()
 const STORY_PAGE_TYPE = "story-read"

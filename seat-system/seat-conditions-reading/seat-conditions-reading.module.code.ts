@@ -1,5 +1,9 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { asking } from "@akasha/pages/service/asking"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 const NONE = "none"
 

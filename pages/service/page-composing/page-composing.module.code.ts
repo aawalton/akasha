@@ -2,14 +2,18 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { listedAt } from "@akasha/indexes"
 import { ENTRY_PROPERTY, filePropertiesAt } from "@akasha/indexes/entries"
-import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
-import { STEM_CEILING } from "@akasha/pages/naming/named-for/page-stem"
-import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages/page-body"
-import { partsOver } from "@akasha/pages/page-entry-writing"
-import { besideAt } from "@akasha/pages/page-file-name"
-import { partsOf } from "@akasha/pages/page-file-parts"
-import { type Carried, propertiesFrom, sourceIn } from "@akasha/pages/page-type-properties"
-import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
+import { bodyOf, importedFrom, unnamedIn } from "akasha/pages/body/page-body.module.code.ts"
+import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
+import { partsOver } from "akasha/pages/entry-writing/page-entry-writing.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { STEM_CEILING } from "akasha/pages/naming/named-for/page-stem/page-stem.module.code.ts"
+import {
+  type Carried,
+  propertiesFrom,
+  sourceIn,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

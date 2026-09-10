@@ -1,4 +1,4 @@
-import type { Work } from "@akasha/pages/computed-property"
+import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 
 type Totalled = { readonly pointsTotal?: number }
 

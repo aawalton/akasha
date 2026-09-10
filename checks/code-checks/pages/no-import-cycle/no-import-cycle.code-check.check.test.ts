@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { importFiled } from "@akasha/indexes/testing"
-import { shadowAsked } from "@akasha/pages/shadow"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { noImportCycle } from "./no-import-cycle.code-check.check.code.ts"
 import {

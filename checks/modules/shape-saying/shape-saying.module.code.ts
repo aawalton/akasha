@@ -1,5 +1,5 @@
 import { relative } from "node:path"
-import type { Held } from "@akasha/pages/page-file-name"
+import type { Held } from "akasha/pages/file-name/page-file-name.module.code.ts"
 
 export function saidInside(
   folder: string,

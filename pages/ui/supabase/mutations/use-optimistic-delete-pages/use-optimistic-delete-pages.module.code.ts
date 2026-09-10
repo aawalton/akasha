@@ -1,8 +1,8 @@
-import type { DeletePageArgs } from "@akasha/pages/access/delete"
-import type { Page } from "@akasha/pages/core/page-types"
-import type { PagesMutationPlan } from "@akasha/pages/ui-store/optimistic/plan"
 import { runOptimisticMutation } from "@akasha/pages-ui/supabase/mutations/apply-prediction"
 import { extractTargetIds } from "@akasha/pages-ui/supabase/mutations/extract-target-ids"
+import type { DeletePageArgs } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PagesMutationPlan } from "akasha/pages/ui-store/optimistic/plan/plan.module.code.ts"
 
 export function useOptimisticDeletePages(
   mutate: (args: DeletePageArgs) => Promise<readonly Page[]>

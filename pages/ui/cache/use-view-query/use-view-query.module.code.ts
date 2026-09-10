@@ -1,9 +1,5 @@
 "use client"
 
-import { flattenRow } from "@akasha/pages/access/routing-core"
-import type { Page } from "@akasha/pages/core/page-types"
-import { createViewPipeline, type ViewResult } from "@akasha/pages/ui-store/query/view-pipeline"
-import type { UseViewQueryOptions } from "@akasha/pages/ui-store/sql/options"
 import {
   useAcquireFilteredStream,
   useAcquireSlug,
@@ -12,6 +8,13 @@ import {
 } from "@akasha/pages-ui/cache/tanstack-live"
 import { useCoreDefinitionsReady } from "@akasha/pages-ui/cache/use-core-definitions-ready"
 import { noOp } from "@akasha/utils/narrow/no-op"
+import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import {
+  createViewPipeline,
+  type ViewResult,
+} from "akasha/pages/ui-store/query/view-pipeline/view-pipeline.module.code.ts"
+import type { UseViewQueryOptions } from "akasha/pages/ui-store/sql/options/options.module.code.ts"
 import { useMemo } from "react"
 
 export type UseViewQueryResult = {

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { checkoutHere } from "@akasha/pages/checkout-roots"
+import { checkoutHere } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { everyService } from "../service-reading/service-reading.module.code.ts"
 import { pathsIn, type Stray, straysIn } from "./run-path-reading.module.code.ts"
 

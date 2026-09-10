@@ -1,7 +1,7 @@
-import type { Medium } from "@akasha/pages/core/media-formats"
 import { KOKORO_STREAM_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { usePlayingSession } from "@akasha/pages-ui/media/playing-session-context"
 import { readPersistedSession } from "@akasha/pages-ui/media/playing-session-storage"
+import type { Medium } from "akasha/pages/core/media-formats/media-formats.module.code.ts"
 import { useEffect, useLayoutEffect, useRef } from "react"
 import { useLocation, useSearchParams } from "react-router"
 import { z } from "zod"

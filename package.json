@@ -33,7 +33,6 @@
     "lucide-react": "^0.576.0",
     "react": "^18 || ^19",
     "@radix-ui/react-slot": "*",
-    "@akasha/pages": "workspace:*",
     "@akasha/rules-engine": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "react-dom": "^18 || ^19",
@@ -91,7 +90,8 @@
     "@radix-ui/react-toggle-group": "*",
     "@fontsource-variable/geist": "5.2.9",
     "@fontsource-variable/geist-mono": "5.2.8",
-    "tailwindcss": "^4.0"
+    "tailwindcss": "^4.0",
+    "@tanstack/db": "^0.6.14"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"

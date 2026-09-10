@@ -1,8 +1,8 @@
-import { getOrderedNeighbors } from "@akasha/pages/access/ordered"
-import type { Page } from "@akasha/pages/core/page-types"
-import { buildPageHref } from "@akasha/pages/url/page-href"
-import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
+import { getOrderedNeighbors } from "akasha/pages/access/ordered/ordered.module.code.ts"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 
 export async function resolveReaderNeighbors(args: {
   page: Page

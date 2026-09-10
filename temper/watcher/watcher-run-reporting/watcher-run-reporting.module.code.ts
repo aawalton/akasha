@@ -1,6 +1,6 @@
-import { getPage } from "@akasha/pages/access/get"
-import { patchPageById } from "@akasha/pages/access/patch"
 import { isRecord } from "@akasha/utils/narrow/is-record"
+import { getPage } from "akasha/pages/access/get/get.module.code.ts"
+import { patchPageById } from "akasha/pages/access/patch/patch.module.code.ts"
 import { logError } from "../watcher-logging/watcher-logging.module.code.ts"
 import {
   mergeOperations,

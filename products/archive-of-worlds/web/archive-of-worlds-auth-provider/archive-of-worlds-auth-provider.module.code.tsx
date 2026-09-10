@@ -1,11 +1,14 @@
 "use client"
 
-import { reportPagesStoreStall } from "@akasha/pages/ui-store/report-stall"
-import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages/ui-store/singleton"
-import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { useAppVersionCheck } from "@akasha/pages-ui/app-version/use-app-version-check"
 import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
+import { reportPagesStoreStall } from "akasha/pages/ui-store/report-stall/report-stall.module.code.ts"
+import {
+  configurePagesStoreAuth,
+  getPagesStore,
+} from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 import { z } from "zod"
 

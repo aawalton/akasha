@@ -1,15 +1,15 @@
 import { namesIn } from "@akasha/indexes/reaching"
-import { slugIn } from "@akasha/pages/page-address"
-import { partedIn as nameParted } from "@akasha/pages/page-file-name"
+import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
+import { partedIn as nameParted } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   declarationsFrom,
   identityOf,
   propertiesFrom,
   type Source,
   sourceAmong,
-} from "@akasha/pages/page-type-properties"
-import { slugsIn, textAt, type Value } from "@akasha/pages/page-value"
-import type { Shadow } from "@akasha/pages/shadow"
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import type { Carried } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 

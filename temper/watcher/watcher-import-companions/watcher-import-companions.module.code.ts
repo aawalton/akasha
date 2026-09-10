@@ -1,5 +1,5 @@
-import { upsertPage } from "@akasha/pages/access/upsert"
 import { asRecord } from "@akasha/utils/narrow/as-record"
+import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
 import {
   decodeCompanion,
   encodeCompanion,

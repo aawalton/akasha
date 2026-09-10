@@ -1,6 +1,10 @@
-import { readFiles, readPages, writeFiles } from "@akasha/pages/query"
-import type { Row } from "@akasha/pages/service/asking"
-import { askingFor } from "@akasha/pages/service/calling"
+import {
+  readFiles,
+  readPages,
+  writeFiles,
+} from "akasha/pages/query/store-writing/store-writing.module.code.ts"
+import type { Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,

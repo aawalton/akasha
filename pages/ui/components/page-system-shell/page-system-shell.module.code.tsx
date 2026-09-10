@@ -1,6 +1,5 @@
 "use client"
 
-import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
 import { deriveShellEmptyState } from "@akasha/pages-ui/components/page-system-shell-helpers"
 import type { ViewTabItem } from "@akasha/pages-ui/components/view-tab-context-menu"
 import { ViewTabs } from "@akasha/pages-ui/components/view-tabs"
@@ -14,6 +13,7 @@ import {
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 

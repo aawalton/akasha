@@ -2,9 +2,13 @@ import { readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { everyOfType } from "@akasha/indexes"
 import { fileKeysAt } from "@akasha/indexes/entries"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { besideOf } from "@akasha/pages/page-beside"
 import { fileStemOf } from "akasha/file-page-identity/file-page/file-page.module.code.ts"
+import { besideOf } from "akasha/pages/beside/page-beside.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { landRemovals } from "akasha/seat-system/gated-landing/gated-landing.module.code.ts"
 import { dropReadings } from "../../../commands/modules/reading/reading.module.code.ts"
 

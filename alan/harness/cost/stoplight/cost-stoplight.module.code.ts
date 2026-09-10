@@ -1,4 +1,4 @@
-import { askingFor } from "@akasha/pages/service/calling"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/readouts/credential/readout-credential.module.code.ts"
 import {
   HABIT,

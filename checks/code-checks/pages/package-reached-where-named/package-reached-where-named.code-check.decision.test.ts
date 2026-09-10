@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { matchingIn } from "@akasha/pages/name-format/format-reaching"
-import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
-import { shadowAt } from "@akasha/pages/shadow"
+import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
+import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   holdingIn,

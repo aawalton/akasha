@@ -1,9 +1,5 @@
 "use client"
 
-import type { FilterOperator } from "@akasha/pages/core/property-types/types"
-import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
-import type { ViewFilter } from "@akasha/pages/core/schema/view-data"
-import type { PageFilterDimension } from "@akasha/pages/core/view/generate-filter-dimensions"
 import {
   BetweenDateValueInput,
   BetweenInstantValueInput,
@@ -37,6 +33,10 @@ import {
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useDebouncedCallback } from "akasha/design/primitives/use-debounced-callback/use-debounced-callback.module.code.ts"
+import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { PageFilterDimension } from "akasha/pages/core/view/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
 

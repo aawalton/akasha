@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { asPage } from "@akasha/pages/core/page-types"
+import { asPage } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   planSaleImport,

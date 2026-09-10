@@ -1,8 +1,12 @@
 import { valuesOfType } from "@akasha/indexes"
-import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
-import { textAt } from "@akasha/pages/page-value"
 import { ran } from "@akasha/utils/run/running"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  mergeUncommitted,
+  removeUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const TOOK = "change-mechanical-file/remove-file"
 

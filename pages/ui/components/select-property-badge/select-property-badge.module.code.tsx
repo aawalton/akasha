@@ -1,12 +1,5 @@
 "use client"
 
-import type { PropertyValue } from "@akasha/pages/core/property-types/types"
-import { resolveBadgeVariant } from "@akasha/pages/core/resolve-badge-variant"
-import type { BadgeVariant } from "@akasha/pages/core/schema/color-rule-variant"
-import { parseConfig } from "@akasha/pages/core/schema/pages"
-import { selectConfigSchema } from "@akasha/pages/core/schema/property-config-schemas"
-import type { SelectOption } from "@akasha/pages/core/schema/select-option-create"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
@@ -17,6 +10,13 @@ import {
   DropdownMenuTrigger,
 } from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { selectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import type { SelectOption } from "akasha/pages/core/schema/select-option-create/select-option-create.module.code.ts"
 
 function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
   return parseConfig(selectConfigSchema, definition.config, { options: [] }).options

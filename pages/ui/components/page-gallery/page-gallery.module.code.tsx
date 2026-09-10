@@ -1,9 +1,12 @@
 "use client"
 
-import { type GalleryCardSize, galleryCardMinWidth } from "@akasha/pages/core/view/gallery"
 import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
 import { PanelDefaultOpenProvider } from "akasha/design/layout/panel-default-open-context/panel-default-open-context.module.code.tsx"
 import { useLoadMore } from "akasha/design/layout/use-load-more/use-load-more.module.code.ts"
+import {
+  type GalleryCardSize,
+  galleryCardMinWidth,
+} from "akasha/pages/core/view/gallery/gallery.module.code.ts"
 import type { ReactNode } from "react"
 
 interface PageGalleryProps<T> {

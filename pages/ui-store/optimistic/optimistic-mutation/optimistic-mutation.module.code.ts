@@ -1,8 +1,8 @@
-import { applyJsonPatch } from "@akasha/pages/core/json-patch/apply"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { type Collection, createOptimisticAction, type WritableDeep } from "@tanstack/db"
+import { applyJsonPatch } from "akasha/pages/core/json-patch/apply/apply.module.code.ts"
 import type { PageRow } from "../../collection/page-row/page-row.module.code.ts"
 import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
 import {

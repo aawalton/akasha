@@ -1,5 +1,9 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import type { Roots } from "@akasha/pages/markdown-page-at"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
 import {
   pathsUnder,

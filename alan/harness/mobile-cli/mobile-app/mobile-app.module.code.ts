@@ -1,7 +1,17 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { everyOfType } from "@akasha/pages/index-reading"
-import { slugAt, textAt, textsAt, type Value, valueAt } from "@akasha/pages/page-value"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { everyOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  slugAt,
+  textAt,
+  textsAt,
+  type Value,
+  valueAt,
+} from "akasha/pages/value/page-value.module.code.ts"
 
 export interface MobileApp {
   readonly slug: string

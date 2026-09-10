@@ -1,11 +1,11 @@
 import { existsSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import { everyOfType } from "@akasha/indexes"
-import { akashaRoot } from "@akasha/pages/checkout-roots"
-import { besideAt } from "@akasha/pages/page-file-name"
-import { uncommittedIn } from "@akasha/pages/page-uncommitted"
-import { textAt, valueAt } from "@akasha/pages/page-value"
 import { NO_CODE, ran, type Said } from "@akasha/utils/run/running"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   orderedWallpaperSlugs,
   type WallpaperRow,

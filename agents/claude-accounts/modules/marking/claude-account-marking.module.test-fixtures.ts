@@ -4,9 +4,9 @@ import { readingIn } from "@akasha/indexes"
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Child, Reading } from "@akasha/indexes/shape"
 import { listedFiled, pageFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import type { Carried } from "@akasha/pages/page-type-properties"
-import { uncommittedIn } from "@akasha/pages/page-uncommitted"
-import { valueAt } from "@akasha/pages/page-value"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   type Fields,

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { NAMING_NONE } from "@akasha/code/code-specifier"
-import type { Change } from "@akasha/pages/change"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   edgesOf,
   foldersJudgedBy,

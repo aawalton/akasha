@@ -1,4 +1,4 @@
-import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type {
   MonarchAccount,
   MonarchCategory,

@@ -1,8 +1,8 @@
 import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { codeRoot } from "@akasha/pages/code-root"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { chatterNamesModule } from "../../../../../../temper/commands/eso-chatter-names/eso-chatter-names.module.code.ts"
 import {
   saidFor,

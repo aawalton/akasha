@@ -1,8 +1,5 @@
 "use client"
 
-import { bodyPropertyIsContentTier } from "@akasha/pages/core/schema/content-tier"
-import { expandDateMentions } from "@akasha/pages/core/view/expand-date-mentions"
-import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 import {
   decideReadRestore,
@@ -40,6 +37,9 @@ import {
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { bodyPropertyIsContentTier } from "akasha/pages/core/schema/content-tier/content-tier.module.code.ts"
+import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { type ReactNode, useCallback, useMemo, useRef } from "react"
 
 const READER_VIRTUALIZE_THRESHOLD = 24_000

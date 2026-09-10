@@ -1,7 +1,11 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { partAt } from "@akasha/pages/page-file-parts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { partAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import type { MinedRestorePotion } from "../potion-restore-metrics/potion-restore-metrics.module.code.ts"
 
 const MINE_PAGES: readonly string[] = [

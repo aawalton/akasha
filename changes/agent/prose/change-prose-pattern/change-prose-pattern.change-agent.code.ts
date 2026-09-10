@@ -1,4 +1,3 @@
-import { textAt, type Value } from "@akasha/pages/page-value"
 import {
   type ProseAt,
   proseFrom,
@@ -12,6 +11,7 @@ import {
   restatedIn,
 } from "akasha/domains/standard-agent-english/prose-restating/prose-restating.module.code.ts"
 import type { Pattern } from "akasha/domains/standard-agent-english/prose-rewrite/prose-rewrite.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {

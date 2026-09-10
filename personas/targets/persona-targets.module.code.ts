@@ -1,4 +1,8 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { CommsRule } from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
 import { personasStanding } from "../reading/persona-reading.module.code.ts"
 

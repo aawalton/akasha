@@ -1,8 +1,8 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { valuesOfType } from "@akasha/indexes"
-import { partedIn } from "@akasha/pages/page-file-name"
-import { textAt, valueAt } from "@akasha/pages/page-value"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { SUBAGENT_MARK } from "../../commands/modules/reading/reading.module.code.ts"
 import {

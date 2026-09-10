@@ -1,5 +1,5 @@
 import { extname } from "node:path"
-import { namedUnder, pageNamed } from "@akasha/pages/page-file-name"
+import { namedUnder, pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { World } from "../shadow/change-shadow.module.code.ts"
 
 const PAGE_TYPE = "page-type"

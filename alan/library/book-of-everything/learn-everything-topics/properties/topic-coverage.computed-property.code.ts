@@ -1,4 +1,4 @@
-import type { Reach, Work } from "@akasha/pages/computed-property"
+import type { Reach, Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { WorkedLearnEverythingTopic } from "../learn-everything-topic.page-type.worked.ts"
 
 const UNDER = "topic-part-of"

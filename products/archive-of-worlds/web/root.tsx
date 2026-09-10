@@ -1,4 +1,3 @@
-import { setStoreDiagnosticsSink } from "@akasha/pages/ui-store/diagnostics"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
@@ -9,6 +8,7 @@ import {
 import { CommandPalette } from "akasha/design/primitives/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
 import {

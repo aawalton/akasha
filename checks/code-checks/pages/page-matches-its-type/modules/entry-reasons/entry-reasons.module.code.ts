@@ -1,9 +1,13 @@
-import type { Formatting } from "@akasha/pages/name-format/format-reaching"
-import { entriedAmong, entriesIn, type Rows } from "@akasha/pages/page-entries"
-import { partsOf } from "@akasha/pages/page-file-parts"
-import type { Carried } from "@akasha/pages/page-type-properties"
-import { numberAt, textAt, type Value } from "@akasha/pages/page-value"
-import type { Shadow } from "@akasha/pages/shadow"
+import {
+  entriedAmong,
+  entriesIn,
+  type Rows,
+} from "akasha/pages/entries/page-entries.module.code.ts"
+import { partsOf } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { numberAt, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const FORMAT = "nameFormat"
 

@@ -1,5 +1,5 @@
 import { readingIn } from "@akasha/indexes"
-import { valueAt } from "@akasha/pages/page-value"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   markedIn,
   subscriptionMarks,

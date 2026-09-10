@@ -1,10 +1,10 @@
-import type { PageWhere } from "@akasha/pages/core/page-types"
+import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import {
   filledBy,
   type HeldAt,
   holesIn,
   unfilledIn,
-} from "@akasha/pages/naming/named-for/name-rule"
+} from "akasha/pages/naming/named-for/name-rule/name-rule.module.code.ts"
 import { camelizeKey, SETTLED_BY_ROW } from "../file-rows/file-rows.module.code.ts"
 import { FileWriteError } from "../file-write-error/file-write-error.module.code.ts"
 import type { Value } from "../types/types.module.code.ts"

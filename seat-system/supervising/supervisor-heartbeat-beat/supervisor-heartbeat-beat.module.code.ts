@@ -1,5 +1,5 @@
-import { resolveRoots } from "@akasha/pages/checkout-roots"
 import { ran } from "@akasha/utils/run/running"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import { keepBeside } from "../../seat-beside/seat-beside.module.code.ts"

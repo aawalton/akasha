@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../domains/domain.page-type.types.ts"
 
 export const page = {
   id: "01a04a26-9105-7000-ab9a-ee74f7657636",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "page",
   definition: "how we keep track of things",
-  manifest: "json",
+
   parts: [
     "module/entry-ceiling",
     "module/markdown-document",
@@ -110,4 +110,4 @@ export const page = {
       statement: "A page is a file whose name has a page type.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -1,11 +1,11 @@
 "use client"
 
-import { deletePage } from "@akasha/pages/access/delete"
-import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { PageActionsMenu } from "@akasha/pages-ui/components/page-actions-menu"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
+import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 
 interface PageDetailHeaderMenuProps {
   pageTypeSlug: PageTypeSlug

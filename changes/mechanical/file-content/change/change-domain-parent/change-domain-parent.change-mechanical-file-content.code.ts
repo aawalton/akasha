@@ -1,5 +1,5 @@
 import { filedById, namesIn, reaches, type Shaped } from "@akasha/indexes/reaching"
-import type { Value } from "@akasha/pages/page-value"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { heldIn, readFor } from "../../../../modules/page-knowing/page-knowing.module.code.ts"

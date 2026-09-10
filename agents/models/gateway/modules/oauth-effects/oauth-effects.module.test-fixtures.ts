@@ -1,7 +1,7 @@
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { listedFiled, pageFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { scratchWorld } from "../../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
 import type { Doors, UsageRead } from "./oauth-effects.module.code.ts"

@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { FoldersBy } from "@akasha/indexes/entries"
-import { type Held, heldIn } from "@akasha/pages/page-file-name"
-import type { Value } from "@akasha/pages/page-value"
+import { type Held, heldIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
   holdingOver,
   namesFiling,

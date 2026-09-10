@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { dirname, resolve } from "node:path"
-import { codeRoot } from "@akasha/pages/code-root"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 
 function temperFile(rel: string): string {
   return resolve(codeRoot(), "temper", rel)

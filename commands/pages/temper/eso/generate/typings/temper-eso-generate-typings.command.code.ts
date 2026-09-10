@@ -1,11 +1,11 @@
 import { realpathSync } from "node:fs"
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { codeRoot } from "@akasha/pages/code-root"
 import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,

@@ -1,5 +1,4 @@
 import "../idle-look/idle-look.stylesheet.styles.css"
-import type { FrameConfig } from "@akasha/pages/core/schema/detail-config"
 import { DisplayFrame } from "@akasha/pages-ui/frame/display-frame"
 import { FrameViewPropertiesMenu } from "@akasha/pages-ui/frame/frame-view-properties-menu"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
@@ -10,6 +9,7 @@ import {
   TabsList,
   TabsTrigger,
 } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import type { FrameConfig } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
 import { useEffect, useState, useSyncExternalStore } from "react"
 import { z } from "zod"
 import { ActiveBoosts } from "../active-boosts/active-boosts.module.code.tsx"

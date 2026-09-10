@@ -1,9 +1,13 @@
 import { existsSync } from "node:fs"
-import { AKASHA, akashaRoot } from "@akasha/pages/checkout-roots"
-import { valuesOfType } from "@akasha/pages/index-reading"
-import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
-import { textAt } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages/service/composing"
+import { AKASHA, akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import {
+  mergeUncommitted,
+  removeUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   landBodies,
   landRemovals,

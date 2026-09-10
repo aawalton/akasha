@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages/page-property"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
+import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { BuffId } from "../../things/properties/buff-id.text-property.ts"
 import type { EffectType } from "../../things/properties/effect-type.text-property.ts"
 import type { EffectValue } from "../../things/properties/effect-value.number-property.ts"

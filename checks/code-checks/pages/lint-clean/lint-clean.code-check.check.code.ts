@@ -1,5 +1,5 @@
 import { lintedOver } from "@akasha/code/code-lint"
-import type { Change } from "@akasha/pages/change"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { mirroredOf } from "../../../modules/change-mirror/change-mirror.module.code.ts"
 import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
 import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"

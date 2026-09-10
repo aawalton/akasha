@@ -1,4 +1,4 @@
-import { slugIn } from "@akasha/pages/page-address"
+import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import { pageTextOf, pageValuesOf } from "../seat-page-values/seat-page-values.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"
 

@@ -1,5 +1,5 @@
 import { valuesOfType } from "@akasha/indexes"
-import { asking } from "@akasha/pages/service/asking"
+import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 const TOPIC = "learn-everything-topic"
 

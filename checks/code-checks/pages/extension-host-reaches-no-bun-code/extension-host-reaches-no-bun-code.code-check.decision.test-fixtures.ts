@@ -1,6 +1,6 @@
 import { nothingFiled } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages/change"
 import { ran } from "@akasha/utils/run/running"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"

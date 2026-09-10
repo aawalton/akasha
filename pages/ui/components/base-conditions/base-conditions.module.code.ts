@@ -1,8 +1,11 @@
-import type { PageCondition, PageWhere } from "@akasha/pages/core/page-types"
-import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
-import type { ViewFilter } from "@akasha/pages/core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type {
+  PageCondition,
+  PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 
 export function buildBaseConditions(args: {
   baseFilters: readonly ViewFilter[]

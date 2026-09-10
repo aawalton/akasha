@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "@akasha/pages/shadow"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { noSpacingLiteral } from "./no-spacing-literal.code-check.check.code.ts"
 import { HELD_AT, rooted, scratch } from "./no-spacing-literal.code-check.decision.test-fixtures.ts"

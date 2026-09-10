@@ -1,5 +1,5 @@
-import type { Query } from "@akasha/pages/service/asking"
-import { askingFor } from "@akasha/pages/service/calling"
+import type { Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { stilled } from "akasha/readouts/group-serving/readout-group-serving.module.code.ts"
 import { stated } from "akasha/readouts/none-left/readout-none-left.module.code.ts"
 import { sleepIn } from "akasha/readouts/pages/upkeep-sleep/upkeep-sleep.readout.code.ts"

@@ -1,20 +1,23 @@
-import { isPromotedKey, PROMOTED_COLUMN } from "@akasha/pages/access/routing-core"
 import {
-  type AggregateConfig,
-  type AggregateFunction,
-  computeAggregate,
-} from "@akasha/pages/core/property-types/aggregate"
-import {
-  computeRollup,
-  type PageTypePropertiesMap,
-  parseRollupConfig,
-} from "@akasha/pages/core/property-types/rollup"
+  isPromotedKey,
+  PROMOTED_COLUMN,
+} from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import {
   asPageDataJSON,
   type PageDataJSON,
   type PropertyDefinition,
-} from "@akasha/pages/core/types"
-import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import {
+  type AggregateConfig,
+  type AggregateFunction,
+  computeAggregate,
+} from "akasha/pages/core/property-types/aggregate/aggregate.module.code.ts"
+import {
+  computeRollup,
+  type PageTypePropertiesMap,
+  parseRollupConfig,
+} from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   asPageRecord,
   attributesOf,

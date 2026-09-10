@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
-import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { statedIn } from "@akasha/utils/process/proc-reading"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import { seatPathForName, supervisorAlive } from "../seat-reading/seat-reading.module.code.ts"
 
 const UUID_HEX = 32

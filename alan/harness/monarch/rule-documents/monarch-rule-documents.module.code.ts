@@ -1,5 +1,5 @@
 import { valuesByPath } from "@akasha/indexes"
-import type { Value } from "@akasha/pages/page-value"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { AKASHA } from "../files/monarch-files.module.code.ts"
 import { ruleFromMatches, statedMatches } from "../rule-clauses/monarch-rule-clauses.module.code.ts"
 import { categoryTitles } from "../rule-pages/monarch-rule-pages.module.code.ts"

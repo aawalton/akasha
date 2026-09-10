@@ -1,6 +1,9 @@
-import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import { type GalleryCardSize, resolveGalleryCardSize } from "@akasha/pages/core/view/gallery"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import {
+  type GalleryCardSize,
+  resolveGalleryCardSize,
+} from "akasha/pages/core/view/gallery/gallery.module.code.ts"
 import { useMemo } from "react"
 
 export interface GalleryViewProps {

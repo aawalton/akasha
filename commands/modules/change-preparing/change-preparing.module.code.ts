@@ -1,6 +1,6 @@
 import { textIn } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
-import type { Change } from "@akasha/pages/change"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type {
   Adding,
   FileChange,

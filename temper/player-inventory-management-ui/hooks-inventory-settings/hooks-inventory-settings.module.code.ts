@@ -1,9 +1,5 @@
 "use client"
 
-import { deletePages } from "@akasha/pages/access/delete"
-import { NEVER_MATCH_VALUE } from "@akasha/pages/access/sentinels"
-import { upsertPage, upsertPages } from "@akasha/pages/access/upsert"
-import { askComposed } from "@akasha/pages/query/store-spelled-asking"
 import { useOptimisticDeletePages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-pages"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { useOptimisticUpsertPages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-pages"
@@ -13,6 +9,10 @@ import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { listenerSet } from "akasha/design/primitives/listener-set/listener-set.module.code.ts"
 import { useSingleFlight } from "akasha/design/primitives/use-single-flight/use-single-flight.module.code.ts"
+import { deletePages } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import { upsertPage, upsertPages } from "akasha/pages/access/upsert/upsert.module.code.ts"
+import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,

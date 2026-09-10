@@ -2,14 +2,22 @@ import { chmodSync, existsSync } from "node:fs"
 import { join } from "node:path"
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
-import { secretAt, uncommittedAt } from "@akasha/pages/page-file-name"
-import { type Composed, cipherFor, secretsIn, unfit } from "@akasha/pages/page-secret"
-import { mergeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
-import type { Value } from "@akasha/pages/page-value"
 import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { secretAt, uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  type Composed,
+  cipherFor,
+  secretsIn,
+  unfit,
+} from "akasha/pages/secret/page-secret.module.code.ts"
+import {
+  mergeUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { Applied } from "../../../../commands/modules/applying/applying.module.code.ts"
 import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Refused } from "../../../../commands/modules/landing/landing.module.code.ts"

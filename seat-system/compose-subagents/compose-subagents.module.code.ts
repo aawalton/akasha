@@ -1,6 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "../../pages/file-name/page-file-name.module.code.ts"
 import { everyOfType, type Listed } from "../../pages/indexes/reading/index-reading.module.code.ts"
 import { textAt, type Value, valueAt } from "../../pages/value/page-value.module.code.ts"

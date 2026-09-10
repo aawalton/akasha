@@ -1,5 +1,8 @@
-import type { PageCondition, PageWhere } from "@akasha/pages/core/page-types"
-import type { Test } from "@akasha/pages/service/asking"
+import type {
+  PageCondition,
+  PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Test } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 
 function textOf(value: unknown): string | null {
   if (typeof value === "string") return value

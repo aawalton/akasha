@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
+import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import { keepReading, readingAged, readingKept, readingOn } from "./readout-reading.module.code.ts"
 

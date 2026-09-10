@@ -4,7 +4,7 @@ import { join } from "node:path"
 import type { Ran } from "@akasha/code/code-tests"
 import { RUNNING } from "@akasha/code/code-tests"
 import { repoAt } from "@akasha/indexes/testing"
-import { shadowAsked, shadowAt } from "@akasha/pages/shadow"
+import { shadowAsked, shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { typingUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import {

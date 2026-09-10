@@ -1,4 +1,4 @@
-import { shadowAt } from "@akasha/pages/shadow"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { everythingIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { refusalsOver } from "./relation-resolves.code-check.decision.code.ts"

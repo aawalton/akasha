@@ -9,7 +9,7 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
-import type { Value } from "@akasha/pages/page-value"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { fileItself, ITSELF } from "./file-itself.context-warrant.code.ts"

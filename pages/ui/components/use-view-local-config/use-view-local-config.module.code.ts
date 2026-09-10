@@ -1,11 +1,14 @@
 "use client"
 
-import type { ViewConfig, ViewFilter } from "@akasha/pages/core/schema/view-data"
+import type {
+  ViewConfig,
+  ViewFilter,
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import {
   DEFAULT_GROUP_PAGE_SIZE,
   DEFAULT_ITEM_PAGE_SIZE,
   DEFAULT_PAGE_SIZE,
-} from "@akasha/pages/core/schema/view-data"
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { useCallback, useMemo, useState } from "react"
 
 export interface ViewLocalConfigDefaults {

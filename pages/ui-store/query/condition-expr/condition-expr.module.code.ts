@@ -1,4 +1,3 @@
-import { isPromotedKey, PROMOTED_COLUMN } from "@akasha/pages/access/routing-core"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import {
   eq,
@@ -14,6 +13,10 @@ import {
   not,
   or,
 } from "@tanstack/db"
+import {
+  isPromotedKey,
+  PROMOTED_COLUMN,
+} from "akasha/pages/access/routing-core/routing-core.module.code.ts"
 import type { PageConditionLike } from "../../sql/options/options.module.code.ts"
 
 export type BoolExpr = IR.BasicExpression<boolean>

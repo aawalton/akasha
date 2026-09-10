@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Carried } from "@akasha/pages/page-type-properties"
-import type { Value } from "@akasha/pages/page-value"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {

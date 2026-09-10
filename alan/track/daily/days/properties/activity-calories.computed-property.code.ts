@@ -1,4 +1,4 @@
-import type { Work } from "@akasha/pages/computed-property"
+import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { Day } from "../day.page-type.types.ts"
 import type { StrengthCalories } from "./strength-calories.computed-property.ts"
 

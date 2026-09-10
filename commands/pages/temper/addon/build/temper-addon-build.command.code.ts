@@ -3,7 +3,7 @@ import { join, resolve } from "node:path"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"
 import { saidBy as messageOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
-import { codeRoot } from "@akasha/pages/code-root"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   compilerConfigPathFor,
   TSCONFIG_NAME,

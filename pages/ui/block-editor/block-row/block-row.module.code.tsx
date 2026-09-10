@@ -1,12 +1,15 @@
 "use client"
 
-import { isTodoChecked } from "@akasha/pages/core/property-types/block-markers"
-import type { ShorthandTransform } from "@akasha/pages/core/property-types/markdown-shorthand"
-import type { Block } from "@akasha/pages/core/property-types/rich-document"
-import type { HeadingLevel, V1BlockType } from "@akasha/pages/core/property-types/rich-document-ops"
 import { useCoarsePointer } from "@akasha/pages-ui/block-editor/use-coarse-pointer"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Textarea } from "akasha/design/primitives/textarea/textarea.module.code.tsx"
+import { isTodoChecked } from "akasha/pages/core/property-types/block-markers/block-markers.module.code.ts"
+import type { ShorthandTransform } from "akasha/pages/core/property-types/markdown-shorthand/markdown-shorthand.module.code.ts"
+import type { Block } from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
+import type {
+  HeadingLevel,
+  V1BlockType,
+} from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
 import { useTextareaInput } from "../use-textarea-input/use-textarea-input.module.code.ts"
 
 const BASE_TEXTAREA =

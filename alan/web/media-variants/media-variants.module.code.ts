@@ -1,8 +1,3 @@
-import { getPage } from "@akasha/pages/access/get"
-import { MEDIA_FORMATS } from "@akasha/pages/core/media-formats"
-import type { Page } from "@akasha/pages/core/page-types"
-import type { Asked, Query } from "@akasha/pages/service/asking"
-import { askingFor } from "@akasha/pages/service/calling"
 import { getAvailableRenditions, pickDefaultVariant } from "@akasha/pages-ui/media/media-renditions"
 import {
   KOKORO_STREAM_LABEL,
@@ -14,6 +9,11 @@ import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
+import { getPage } from "akasha/pages/access/get/get.module.code.ts"
+import { MEDIA_FORMATS } from "akasha/pages/core/media-formats/media-formats.module.code.ts"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { resolveReadAloudSentenceMarks } from "../read-aloud-marks/read-aloud-marks.module.code.ts"
 
 const READING_STORY_SLUG = "reading-story"

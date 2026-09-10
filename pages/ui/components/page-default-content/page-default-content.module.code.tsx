@@ -1,7 +1,5 @@
 "use client"
 
-import { expandDateMentions } from "@akasha/pages/core/view/expand-date-mentions"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { BlockEditor } from "@akasha/pages-ui/block-editor/block-editor"
 import { MultiRelationPropertyBadge } from "@akasha/pages-ui/components/multi-relation-property-badge"
 import { PageDetailHeaderMenu } from "@akasha/pages-ui/components/page-detail-header-menu"
@@ -25,6 +23,11 @@ import {
   EmptyTitle,
 } from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { IconPicker } from "akasha/design/patterns/icon-picker/icon-picker.module.code.tsx"
+import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import {
+  type PageTypeSlug,
+  toPageTypeSlug,
+} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { PageCover } from "../page-cover/page-cover.module.code.tsx"
 import { PageDetailProperties } from "../page-detail-properties/page-detail-properties.module.code.tsx"
 import { PageDetailReferrers } from "../page-detail-referrers/page-detail-referrers.module.code.tsx"

@@ -1,10 +1,5 @@
 "use client"
 
-import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
-import { completionShapeOf } from "@akasha/pages/core/task-lifecycle"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages/core/types"
-import { type GalleryCardSize, resolveGalleryCoverUrl } from "@akasha/pages/core/view/gallery"
-import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import {
@@ -14,6 +9,17 @@ import {
 } from "@akasha/pages-ui/components/view-tab-content-href"
 import { getCoverClickHandler } from "@akasha/pages-ui/cover-click/cover-click-registry"
 import { getCoverMask } from "@akasha/pages-ui/cover-click/cover-mask-registry"
+import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
+import type {
+  PageDataJSON,
+  PropertyDefinition,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import {
+  type GalleryCardSize,
+  resolveGalleryCoverUrl,
+} from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { PageCard } from "../page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "../page-card-notes/page-card-notes.module.code.tsx"
 

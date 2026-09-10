@@ -1,6 +1,6 @@
 import { join, resolve } from "node:path"
-import { codeRoot } from "@akasha/pages/code-root"
 import { ran } from "@akasha/utils/run/running"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { compilerConfigPathFor } from "akasha/temper/addon-build/addon-compiler-config/addon-compiler-config.module.code.ts"
 import {
   type AddonInfo,

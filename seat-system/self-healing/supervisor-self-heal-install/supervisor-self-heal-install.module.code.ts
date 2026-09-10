@@ -1,4 +1,4 @@
-import { ownRepoRoot } from "@akasha/pages/checkout-roots"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { SCRATCH_AT } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { REPO_ROOT } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 

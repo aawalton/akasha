@@ -1,4 +1,3 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { credentialFileWritten } from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
 import { REFRESH_BUFFER_MS } from "akasha/agents/claude-accounts/modules/oauth/claude-account-oauth.module.code.ts"
 import { everyAccountSlugIn } from "akasha/agents/claude-accounts/modules/reading/claude-account-reading.module.code.ts"
@@ -11,6 +10,11 @@ import type {
   CredentialPick,
   OAuthCredential,
 } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 export interface AccountResolutionDeps {

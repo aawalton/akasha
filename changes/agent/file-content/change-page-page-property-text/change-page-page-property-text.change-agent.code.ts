@@ -1,4 +1,4 @@
-import { slugAt } from "@akasha/pages/page-value"
+import { slugAt } from "akasha/pages/value/page-value.module.code.ts"
 import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"

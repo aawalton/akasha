@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { ownRepoRoot } from "@akasha/pages/checkout-roots"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 const REPO_RELATIVE_CA = "infrastructure/cluster/provisioning/cluster-ca/ca.crt"
 

@@ -1,4 +1,8 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { handlerDerives } from "../../seat-answering/seat-answering.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "../../seat-modes/seat-modes.module.code.ts"
 import { resumeSeat as putTheSeatBack } from "../../seat-resume/seat-resume.module.code.ts"

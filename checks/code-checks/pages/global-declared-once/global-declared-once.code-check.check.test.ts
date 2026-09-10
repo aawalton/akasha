@@ -7,8 +7,8 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages/change"
-import { type Shadow, shadowFor } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { type Shadow, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   change,

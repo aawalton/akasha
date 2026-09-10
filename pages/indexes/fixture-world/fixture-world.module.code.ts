@@ -1,8 +1,8 @@
 import { cpSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { id as idPage } from "@akasha/pages/page/id"
-import { slug as slugPage } from "@akasha/pages/page/slug"
-import { exportedAs } from "@akasha/pages/page-export-name"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
+import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import {
   keptAt,

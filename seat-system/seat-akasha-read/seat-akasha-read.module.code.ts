@@ -1,4 +1,4 @@
-import { type Value, valueAt } from "@akasha/pages/page-value"
+import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   akashaBesideOf,
   akashaRoot,

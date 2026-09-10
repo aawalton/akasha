@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "@akasha/pages/change"
-import { shadowAsked, shadowFor } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change, landing } from "../../../modules/scratch/check-scratch.module.code.ts"

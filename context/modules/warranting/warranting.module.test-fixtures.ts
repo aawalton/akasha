@@ -7,8 +7,8 @@ import {
   relationFiled,
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
-import { exportedAs } from "@akasha/pages/page-export-name"
 import { dataAt } from "akasha/file-system/data-place/data-place.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { mintedId } from "akasha/testing-system/minting/minting.module.code.ts"
 import { recordRead, SUBAGENT_MARK } from "../../../commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"

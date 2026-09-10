@@ -1,12 +1,15 @@
 "use client"
 
-import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
-import { buildPageHref } from "@akasha/pages/url/page-href"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { ToggleSection } from "@akasha/pages-ui/components/page-detail-sections"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { type Referrer, useReferrers } from "@akasha/pages-ui/supabase/use-referrers"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import {
+  type PageTypeSlug,
+  toPageTypeSlug,
+} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 
 function referrerTitle(r: Referrer): string {
   const title = r.page.properties?.title

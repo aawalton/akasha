@@ -1,6 +1,6 @@
-import { valuesOfType } from "@akasha/pages/index-reading"
-import { uncommittedIn } from "@akasha/pages/page-uncommitted"
-import { textAt } from "@akasha/pages/page-value"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 import { type Counted, countedIn } from "../day-messages/day-messages.module.code.ts"
 
 const PERSONA_MESSAGES = "personaMessages"

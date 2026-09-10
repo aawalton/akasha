@@ -1,8 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import type { Asked, Query } from "@akasha/pages/service/asking"
-import type { Writing } from "@akasha/pages/service/calling"
-import type { Read, Asked as Sought } from "@akasha/pages/service/reading"
-import type { Wrote } from "@akasha/pages/service/writing"
+import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import type { Writing } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import type {
+  Read,
+  Asked as Sought,
+} from "akasha/pages/service/page-reading/page-reading.module.code.ts"
+import type { Wrote } from "akasha/pages/service/page-writing/page-writing.module.code.ts"
 import {
   createFilePage,
   type FileWriteDeps,

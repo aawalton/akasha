@@ -1,6 +1,6 @@
 import { join } from "node:path"
-import { exportedAs } from "@akasha/pages/page-export-name"
-import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { slugAt, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
   typeSlugsIn,
   typesAmong,

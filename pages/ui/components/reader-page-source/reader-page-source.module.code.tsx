@@ -1,13 +1,13 @@
 "use client"
 
-import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
-import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { getLocalPositionReader } from "@akasha/pages-ui/components/local-position-port"
 import { PageDetailHeaderMenu } from "@akasha/pages-ui/components/page-detail-header-menu"
 import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { createContext, type ReactNode, useContext, useEffect, useState } from "react"
 
 function useDefaultReaderLocalPosition(pageId: string): {

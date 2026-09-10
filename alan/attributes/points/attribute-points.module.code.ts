@@ -1,5 +1,8 @@
-import { listedAt } from "@akasha/pages/index-reading"
-import { mergeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import {
+  mergeUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 
 const POINTS_BEFORE_TODAY = "pointsBeforeToday"
 

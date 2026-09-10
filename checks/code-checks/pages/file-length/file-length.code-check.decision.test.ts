@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
-import { shadowAt } from "@akasha/pages/shadow"
+import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   CEILING,
   exemptIn,

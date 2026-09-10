@@ -1,7 +1,5 @@
 "use client"
 
-import type { ViewFilter } from "@akasha/pages/core/schema/view-data"
-import { applySearch } from "@akasha/pages/core/view/apply-search"
 import {
   buildTableColumns,
   isCardEligibleProperty,
@@ -13,6 +11,8 @@ import { usePageView } from "@akasha/pages-ui/components/view-engine/use-page-vi
 import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { useCollapsedGroups } from "akasha/design/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
+import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { applySearch } from "akasha/pages/core/view/apply-search/apply-search.module.code.ts"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { PageSystemViewBody } from "../page-system-view-body/page-system-view-body.module.code.tsx"
 import { PageSystemViewHeader } from "../page-system-view-header/page-system-view-header.module.code.tsx"

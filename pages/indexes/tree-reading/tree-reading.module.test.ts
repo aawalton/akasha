@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { QUARANTINE_ROOT, VENDOR_ROOT } from "@akasha/pages/checkout-roots"
+import {
+  QUARANTINE_ROOT,
+  VENDOR_ROOT,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { pagesUnder, walkedUnder } from "./tree-reading.module.code.ts"
 

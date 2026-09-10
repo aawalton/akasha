@@ -1,4 +1,4 @@
-import { partedIn } from "@akasha/pages/page-file-name"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"

@@ -1,5 +1,5 @@
-import { getPage } from "@akasha/pages/access/get"
-import { collectPages } from "@akasha/pages/access/iterate"
+import { getPage } from "akasha/pages/access/get/get.module.code.ts"
+import { collectPages } from "akasha/pages/access/iterate/iterate.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,

@@ -1,4 +1,9 @@
-import { readFiles, type readPages, removeFiles, writeFiles } from "@akasha/pages/query"
+import {
+  readFiles,
+  type readPages,
+  removeFiles,
+  writeFiles,
+} from "akasha/pages/query/store-writing/store-writing.module.code.ts"
 
 export const PAGE_LANDING_WRITER = "temper watcher <watcher@alanwalton.com>"
 

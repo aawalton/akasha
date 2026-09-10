@@ -1,8 +1,12 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
 import { summarizePool } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
 import { pacingIn } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   type AskDecide,
   askLimitResume,

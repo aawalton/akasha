@@ -3,13 +3,13 @@ import { typed } from "@akasha/code/code-typing"
 import { calledIn, objectIn } from "@akasha/code/package-manifest"
 import { manifestsIn } from "@akasha/indexes/package-reaching"
 import { importingOf } from "@akasha/indexes/path-naming"
-import { matchingIn } from "@akasha/pages/name-format/format-reaching"
-import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
-import type { Matching } from "@akasha/pages/name-format/name-matching"
 import {
   namingIn,
   refusalOf,
 } from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
+import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
+import type { Matching } from "akasha/pages/name-formats/modules/name-matching/name-matching.module.code.ts"
+import { lowerKebabCase } from "akasha/pages/name-formats/pages/lower-kebab-case/lower-kebab-case.name-format.ts"
 import ts from "typescript"
 import {
   missing,

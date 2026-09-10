@@ -1,4 +1,3 @@
-import { formatShortNumber as fmt } from "@akasha/pages/core/property-types/number"
 import {
   gainedStars,
   sumOwnedRanks,
@@ -31,6 +30,7 @@ import {
 import { collectionBonus } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
 import { teamSynergy } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
+import { formatShortNumber as fmt } from "akasha/pages/core/property-types/number/number.module.code.ts"
 
 type IndicatorChip = {
   readonly key: string

@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages/page-property"
 import type { SelectProperty } from "akasha/pages/select-properties/select-property.page-type.types.ts"
+import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export const secondaryMuscles = {
   id: "01a0657e-2bc0-7f8d-b285-520734083a31",

@@ -1,5 +1,5 @@
-import { pageNamed } from "@akasha/pages/page-file-name"
-import { slugOf, textAt } from "@akasha/pages/page-value"
+import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { slugOf, textAt } from "akasha/pages/value/page-value.module.code.ts"
 import { unreadable, writtenIn } from "../../../modules/guarding/change-guarding.module.code.ts"
 import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 

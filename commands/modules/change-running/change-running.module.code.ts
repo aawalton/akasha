@@ -1,8 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
-import { partedIn } from "@akasha/pages/page-file-name"
-import { textAt, type Value } from "@akasha/pages/page-value"
 import {
   bodyIn,
   foldedIn,
@@ -15,6 +13,8 @@ import {
   runAt,
 } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import { changingOf, owedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { pathsOf, replayed } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type {
   FileChange,

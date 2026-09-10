@@ -1,5 +1,5 @@
 import type { Found, Linted } from "@akasha/code/code-lint"
-import type { Change } from "@akasha/pages/change"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 export const CONFIG = "biome.json"

@@ -1,7 +1,5 @@
 "use client"
 
-import type { BadgeVariant } from "@akasha/pages/core/schema/color-rule-variant"
-import { formatSmartDate } from "@akasha/pages/core/view/format-smart-date"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { Calendar } from "akasha/design/forms/calendar/calendar.module.code.tsx"
 import {
@@ -9,6 +7,8 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
+import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
 import { useState } from "react"
 
 const DATE_REGEX = /^\d{4}-\d{2}-\d{2}$/

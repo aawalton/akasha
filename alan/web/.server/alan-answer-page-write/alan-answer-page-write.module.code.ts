@@ -1,5 +1,10 @@
-import { readPageWrite, runPageWrite, TAKES, writesAs } from "@akasha/pages/access/answer-write"
 import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import {
+  readPageWrite,
+  runPageWrite,
+  TAKES,
+  writesAs,
+} from "akasha/pages/access/answer-write/answer-write.module.code.ts"
 
 writesAs("alanwalton-web")
 

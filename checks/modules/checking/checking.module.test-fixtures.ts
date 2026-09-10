@@ -9,9 +9,9 @@ import {
   valueAlsoFiled,
   valueTakenFrom,
 } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages/change"
-import { exportedAs } from "@akasha/pages/page-export-name"
-import { type Shadow, shadowAsked } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"

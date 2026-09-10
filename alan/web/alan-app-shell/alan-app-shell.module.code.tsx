@@ -1,6 +1,3 @@
-import { createPage } from "@akasha/pages/access/create"
-import { NEVER_MATCH_SLUG } from "@akasha/pages/access/sentinels"
-import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
 import { CreatePageDialog } from "@akasha/pages-ui/components/create-page-dialog"
 import { useActiveQuickAddPageType } from "@akasha/pages-ui/components/quick-add/use-active-quick-add-page-type"
 import { SortableNavs } from "@akasha/pages-ui/components/sortable-navs"
@@ -22,6 +19,9 @@ import {
   LayoutRouterProvider,
 } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { useSidebarState } from "akasha/design/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
+import { createPage } from "akasha/pages/access/create/create.module.code.ts"
+import { NEVER_MATCH_SLUG } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { LogIn, LogOut } from "lucide-react"
 import { type ReactNode, useCallback, useEffect, useMemo, useState } from "react"
 import { Link, useLocation, useNavigate, useSearchParams } from "react-router"

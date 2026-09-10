@@ -1,8 +1,8 @@
 import { dirname } from "node:path"
 import { type Placed, spelledIn } from "@akasha/code/code-specifier"
 import { indexNamed } from "@akasha/indexes"
-import { pageNamed } from "@akasha/pages/page-file-name"
-import type { Shadow } from "@akasha/pages/shadow"
+import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   type Body,
   overEachText,

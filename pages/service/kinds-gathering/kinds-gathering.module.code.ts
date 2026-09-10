@@ -8,27 +8,30 @@ import {
   type Valued,
   valuesOfType,
 } from "@akasha/indexes"
-import { type TextOf, workIn } from "@akasha/pages/calculation-loading"
+import {
+  type TextOf,
+  workIn,
+} from "akasha/pages/calculation-loading/calculation-loading.module.code.ts"
 import {
   type Computed,
   computingOver,
   type Named as Reached,
   type Source as Reaching,
   type Subject,
-} from "@akasha/pages/page-computing"
-import { entriedValue } from "@akasha/pages/page-entries"
-import { filedValue } from "@akasha/pages/page-file-body"
-import { partedIn } from "@akasha/pages/page-file-name"
-import { kindsUnder } from "@akasha/pages/page-type-descent"
+} from "akasha/pages/computing/page-computing.module.code.ts"
+import { entriedValue } from "akasha/pages/entries/page-entries.module.code.ts"
+import { filedValue } from "akasha/pages/file-body/page-file-body.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   type Carried,
   propertiesFrom,
   type Source,
   sourceAmong,
   sourceIn,
-} from "@akasha/pages/page-type-properties"
-import { wholeValue } from "@akasha/pages/page-uncommitted"
-import { textAt, type Value } from "@akasha/pages/page-value"
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

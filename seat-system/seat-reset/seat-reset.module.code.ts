@@ -1,8 +1,12 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   killSeatSession,
   launchSeatUnderTmux,

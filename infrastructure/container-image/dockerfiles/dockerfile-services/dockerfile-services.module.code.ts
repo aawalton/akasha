@@ -1,4 +1,4 @@
-import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { alanwaltonCalendarSync } from "../built-images/alanwalton-calendar-sync/alanwalton-calendar-sync.built-image.ts"
 import { authProxy } from "../built-images/auth-proxy/auth-proxy.built-image.ts"
 import { buildkit } from "../built-images/buildkit/buildkit.built-image.ts"

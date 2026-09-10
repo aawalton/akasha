@@ -1,5 +1,5 @@
-import type { ComposedQuery } from "@akasha/pages/query/answer-schema"
-import { askComposed } from "@akasha/pages/query/store-spelled-asking"
+import type { ComposedQuery } from "akasha/pages/query/store-questioning/store-questioning.module.code.ts"
+import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { z } from "zod"
 import {
   LITRPG_RATINGS,

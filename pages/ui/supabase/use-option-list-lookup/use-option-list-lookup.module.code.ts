@@ -1,13 +1,13 @@
 "use client"
 
+import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import {
   type OptionListLookup,
   parseSelectOptionArray,
   resolveDefinitionOptions,
-} from "@akasha/pages/core/schema/resolve-select-options"
-import type { SelectOption } from "@akasha/pages/core/schema/select-option-create"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
+} from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
+import type { SelectOption } from "akasha/pages/core/schema/select-option-create/select-option-create.module.code.ts"
 import { useMemo } from "react"
 
 const OPTION_LIST_PAGE_TYPE_SLUG = "option-list"

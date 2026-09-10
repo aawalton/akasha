@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAt } from "@akasha/pages/shadow"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { indexesAt } from "./no-index-path-spelled.code-check.decision.code.ts"
 import {
   AT,

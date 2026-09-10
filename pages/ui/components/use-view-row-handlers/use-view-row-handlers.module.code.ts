@@ -1,10 +1,3 @@
-import { createPage } from "@akasha/pages/access/create"
-import { deletePage } from "@akasha/pages/access/delete"
-import { patchPropertyDefinitionById } from "@akasha/pages/access/property-definition"
-import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages/core/types"
-import { buildPageHref } from "@akasha/pages/url/page-href"
-import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { createOptionOnDefinition } from "@akasha/pages-ui/components/create-option"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useHostCreateSelectOption } from "@akasha/pages-ui/option-create-context"
@@ -13,6 +6,16 @@ import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticPatchPropertyDefinition } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-property-definition"
 import type { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import { createPage } from "akasha/pages/access/create/create.module.code.ts"
+import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import { patchPropertyDefinitionById } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
+import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
+import type {
+  PageDataJSON,
+  PropertyDefinition,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 
 interface UseViewRowHandlersArgs {

@@ -1,4 +1,4 @@
-import type { List } from "@akasha/pages/page-property"
+import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { StandardAgentEnglishProperty } from "../../standard-agent-english/properties/standard-agent-english-property.page-type.types.ts"
 
 export type Constraints = List<string>

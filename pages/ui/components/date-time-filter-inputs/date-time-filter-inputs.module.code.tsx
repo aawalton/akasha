@@ -1,12 +1,6 @@
 "use client"
 
 import {
-  DATE_SENTINEL_OPTIONS,
-  RELATIVE_DIRECTION_OPTIONS,
-  RELATIVE_UNIT_OPTIONS,
-} from "@akasha/pages/core/property-types/date-sentinels"
-import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
-import {
   betweenDateToJson,
   betweenInstantToJson,
   parseBetweenDateValue,
@@ -26,6 +20,12 @@ import {
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import {
+  DATE_SENTINEL_OPTIONS,
+  RELATIVE_DIRECTION_OPTIONS,
+  RELATIVE_UNIT_OPTIONS,
+} from "akasha/pages/core/property-types/date-sentinels/date-sentinels.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"
 import { useEffect, useState } from "react"
 

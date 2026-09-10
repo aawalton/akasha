@@ -1,5 +1,5 @@
 import { basename, dirname } from "node:path"
-import { addressIn, namedAs } from "@akasha/pages/page-address"
+import { addressIn, namedAs } from "akasha/pages/address/page-address.module.code.ts"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 

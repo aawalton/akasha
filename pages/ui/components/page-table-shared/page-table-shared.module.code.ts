@@ -1,4 +1,4 @@
-import type { PropertyDefinition } from "@akasha/pages/core/types"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 
 export const TITLE_COLUMN_ID = "__title__"
 

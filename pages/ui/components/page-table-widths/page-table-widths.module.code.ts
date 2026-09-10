@@ -1,16 +1,3 @@
-import { formatAbsoluteInstant, instantToMillis } from "@akasha/pages/core/property-types/instant"
-import { formatPropertyNumber, toNumber } from "@akasha/pages/core/property-types/number"
-import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
-import { parseConfig } from "@akasha/pages/core/schema/pages"
-import {
-  type InstantConfig,
-  instantConfigSchema,
-  multiSelectConfigSchema,
-  numberConfigSchema,
-  selectConfigSchema,
-} from "@akasha/pages/core/schema/property-config-schemas"
-import type { PropertyDefinition, PropertyType } from "@akasha/pages/core/types"
-import { formatSmartDate } from "@akasha/pages/core/view/format-smart-date"
 import {
   type PageTableColumn,
   TITLE_COLUMN_ID,
@@ -19,6 +6,28 @@ import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { formatTime12h } from "akasha/design/forms/format-time/format-time.module.code.ts"
 import { formatRelativeTime } from "akasha/design/primitives/format-relative-time/format-relative-time.module.code.ts"
+import type {
+  PropertyDefinition,
+  PropertyType,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import {
+  formatAbsoluteInstant,
+  instantToMillis,
+} from "akasha/pages/core/property-types/instant/instant.module.code.ts"
+import {
+  formatPropertyNumber,
+  toNumber,
+} from "akasha/pages/core/property-types/number/number.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import {
+  type InstantConfig,
+  instantConfigSchema,
+  multiSelectConfigSchema,
+  numberConfigSchema,
+  selectConfigSchema,
+} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import { formatSmartDate } from "akasha/pages/core/view/format-smart-date/format-smart-date.module.code.ts"
 
 const TIME_REGEX = /^([01]\d|2[0-3]):[0-5]\d$/
 

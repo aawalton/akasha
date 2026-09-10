@@ -3,7 +3,7 @@ import { readingIn } from "@akasha/indexes"
 import { type Answering, answeringOver, type PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import { readingLaidOver } from "@akasha/indexes/testing"
-import { valueAt } from "@akasha/pages/page-value"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
 import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"
 import {

@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import type { Fetcher, Sleeper } from "@akasha/pages/service/calling"
+import type {
+  Fetcher,
+  Sleeper,
+} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import {
   DEVICE_SECRET_HEADER,
   generateDeviceSecret,

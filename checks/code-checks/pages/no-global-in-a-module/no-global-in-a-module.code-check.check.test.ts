@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "@akasha/pages/shadow"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { noGlobalInAModule } from "./no-global-in-a-module.code-check.check.code.ts"

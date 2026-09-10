@@ -1,7 +1,6 @@
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
 import "./look/temper-web-look.stylesheet.styles.css"
 import "./temper-declared-effects/temper-declared-effects.module.code.ts"
-import { setStoreDiagnosticsSink } from "@akasha/pages/ui-store/diagnostics"
 import {
   type PagesUILinkProps,
   PagesUILinkProvider,
@@ -34,6 +33,7 @@ import { CommandPalette } from "akasha/design/primitives/command-palette/command
 import { ShortcutSheet } from "akasha/design/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { Toaster } from "akasha/design/primitives/sonner/sonner.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect, useMemo } from "react"
 import {

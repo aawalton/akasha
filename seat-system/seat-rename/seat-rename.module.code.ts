@@ -1,4 +1,4 @@
-import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   composeSeatName,
   FLEET,

@@ -1,9 +1,5 @@
 "use client"
 
-import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
-import { resolveDefinitionOptions } from "@akasha/pages/core/schema/resolve-select-options"
-import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { shouldShowCountBadge } from "@akasha/pages-ui/components/nav-count-badge-decider"
 import { useAllPages, useViewsForNavItem } from "@akasha/pages-ui/supabase/hooks"
 import { usePageViewQuery } from "@akasha/pages-ui/supabase/hooks-view-query"
@@ -11,6 +7,10 @@ import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-l
 import { usePageTypeDirectory } from "@akasha/pages-ui/supabase/use-page-type-directory"
 import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"

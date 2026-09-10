@@ -7,8 +7,8 @@ import {
   sectionHeld,
   slugsWhere,
 } from "@akasha/indexes/property-carrying"
-import type { Value } from "@akasha/pages/page-value"
-import type { Shadow } from "@akasha/pages/shadow"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 const NUL = 0

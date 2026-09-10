@@ -1,4 +1,4 @@
-import type { Rung } from "@akasha/pages/rank-property"
+import type { Rung } from "akasha/pages/rank-properties/rank-property.page-type.ts"
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
 export type Singability = Rung

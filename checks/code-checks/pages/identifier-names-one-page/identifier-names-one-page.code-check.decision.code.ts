@@ -1,6 +1,6 @@
 import type { Listed } from "@akasha/indexes"
 import { filedIn, keyFor } from "@akasha/indexes/identity"
-import type { Identifying } from "@akasha/pages/page-type-properties"
+import type { Identifying } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import type { Carried } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 

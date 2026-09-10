@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { readingIn } from "@akasha/indexes"
 import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import { valueAt } from "@akasha/pages/page-value"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { kindsUnder, listedAbove } from "./page-type-descent.module.code.ts"
 

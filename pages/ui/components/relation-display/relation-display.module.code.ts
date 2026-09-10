@@ -1,5 +1,8 @@
-import { colorRuleVariantToBadgeVariant } from "@akasha/pages/core/resolve-badge-variant"
-import type { BadgeVariant, ColorRuleVariant } from "@akasha/pages/core/schema/color-rule-variant"
+import { colorRuleVariantToBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import type {
+  BadgeVariant,
+  ColorRuleVariant,
+} from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
 
 export type RelationValue = string | { id: string; title: string }
 

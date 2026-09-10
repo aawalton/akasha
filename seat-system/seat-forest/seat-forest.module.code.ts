@@ -1,4 +1,4 @@
-import { resolveRoots } from "@akasha/pages/checkout-roots"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { FLEET } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {
   akashaHolderProcessOf,

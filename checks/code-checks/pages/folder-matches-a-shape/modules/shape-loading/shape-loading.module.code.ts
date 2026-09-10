@@ -1,8 +1,8 @@
 import { createRequire } from "node:module"
 import { basename, join } from "node:path"
-import { exportedAs } from "@akasha/pages/page-export-name"
-import { besideAt, partedIn } from "@akasha/pages/page-file-name"
-import type { Shadow } from "@akasha/pages/shadow"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judging, Standing } from "../../folder-shapes/folder-shape.page-type.ts"
 
 const SHAPE = "folder-shape"

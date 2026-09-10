@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { uncommittedAt } from "@akasha/pages/page-file-name"
-import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { uncommittedAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import type { Health } from "../service-health/service-health.module.code.ts"
 import { keepVerdicts, LOOKED_AT, looked, WELL } from "./service-wellness.module.code.ts"
 

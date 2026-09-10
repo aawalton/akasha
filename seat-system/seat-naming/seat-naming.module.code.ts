@@ -1,4 +1,4 @@
-import { slugOf } from "@akasha/pages/page-value"
+import { slugOf } from "akasha/pages/value/page-value.module.code.ts"
 import { seat } from "../seats/seat.page-type.ts"
 
 export const JOINER = "-"

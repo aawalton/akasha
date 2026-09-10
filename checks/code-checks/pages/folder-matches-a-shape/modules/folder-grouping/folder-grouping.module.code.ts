@@ -1,5 +1,5 @@
 import type { Answering } from "@akasha/indexes/answering"
-import type { Change } from "@akasha/pages/change"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 
 export function folderOf(path: string): string {
   const cut = path.lastIndexOf("/")

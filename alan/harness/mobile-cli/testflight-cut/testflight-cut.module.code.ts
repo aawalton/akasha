@@ -1,8 +1,8 @@
-import { codeRoot } from "@akasha/pages/code-root"
 import {
   InputError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { ALTOOL_MARKERS, testflightFailureError } from "../altool/altool.module.code.ts"
 import {
   createAscJwtSource,

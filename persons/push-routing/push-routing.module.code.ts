@@ -1,4 +1,4 @@
-import { safeInternalPath } from "@akasha/pages/url/safe-target"
+import { safeInternalPath } from "akasha/pages/url/safe-target/safe-target.module.code.ts"
 import { z } from "zod"
 
 const pushRoutePayloadSchema = z.object({ path: z.string() }).passthrough()

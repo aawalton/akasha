@@ -1,4 +1,8 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { fail } from "../command-failing/command-failing.module.code.ts"
 import { type Principal, principals } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {

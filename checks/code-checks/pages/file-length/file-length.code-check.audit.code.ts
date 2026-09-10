@@ -1,6 +1,6 @@
 import { lstatSync } from "node:fs"
 import { join } from "node:path"
-import { shadowAt } from "@akasha/pages/shadow"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { everythingIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { exemptIn, reasonsIn } from "./file-length.code-check.decision.code.ts"

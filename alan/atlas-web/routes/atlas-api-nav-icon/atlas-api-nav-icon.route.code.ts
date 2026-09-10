@@ -1,6 +1,6 @@
-import { getPageByIdSuffix } from "@akasha/pages/access/get"
-import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
+import { getPageByIdSuffix } from "akasha/pages/access/get/get.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { buildNavIconSvg } from "../../atlas-nav-icon-svg/atlas-nav-icon-svg.module.code.ts"
 
 const NAV_SLUG = toPageTypeSlug("nav")

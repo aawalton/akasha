@@ -1,14 +1,5 @@
 "use client"
 
-import { patchPropertyDefinitionById } from "@akasha/pages/access/property-definition"
-import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
-import { computeAggregatesForPage } from "@akasha/pages/core/property-types/aggregate"
-import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
-import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
-import { resolveDefinitionOptions } from "@akasha/pages/core/schema/resolve-select-options"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import { buildPageHref } from "@akasha/pages/url/page-href"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { createOptionOnDefinition } from "@akasha/pages-ui/components/create-option"
 import {
   toAggregateInputs,
@@ -27,6 +18,18 @@ import { useOptimisticPatchPropertyDefinition } from "@akasha/pages-ui/supabase/
 import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
+import { patchPropertyDefinitionById } from "akasha/pages/access/property-definition/property-definition.module.code.ts"
+import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { computeAggregatesForPage } from "akasha/pages/core/property-types/aggregate/aggregate.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import {
+  type PageTypeSlug,
+  toPageTypeSlug,
+} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 export function usePageDefaultContent({

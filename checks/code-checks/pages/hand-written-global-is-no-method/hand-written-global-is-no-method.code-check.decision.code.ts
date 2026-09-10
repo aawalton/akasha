@@ -1,7 +1,7 @@
 import { lineOf, parsedAs } from "@akasha/code/code-source"
-import { besideAt } from "@akasha/pages/page-file-name"
-import type { Value } from "@akasha/pages/page-value"
-import type { Shadow } from "@akasha/pages/shadow"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import ts from "typescript"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 

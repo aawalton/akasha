@@ -1,6 +1,10 @@
-import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
-import { identifyingFrom, sourceAmong, sourceIn } from "@akasha/pages/page-type-properties"
-import { loadedFrom, type Value } from "@akasha/pages/page-value"
+import { pageNamed, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  identifyingFrom,
+  sourceAmong,
+  sourceIn,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { loadedFrom, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
   pagesElsewhere,
   pagesStranded,

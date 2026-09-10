@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Carried } from "@akasha/pages/page-type-properties"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { runChange as dropKey } from "../../../mechanical/file-content/remove/remove-page-property/remove-page-property.change-mechanical-file-content.code.ts"
 import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {

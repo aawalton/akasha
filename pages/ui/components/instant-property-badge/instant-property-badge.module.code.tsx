@@ -1,16 +1,5 @@
 "use client"
 
-import { formatAbsoluteInstant } from "@akasha/pages/core/property-types/instant"
-import type { PropertyValue } from "@akasha/pages/core/property-types/types"
-import { resolveBadgeVariant } from "@akasha/pages/core/resolve-badge-variant"
-import type { BadgeVariant } from "@akasha/pages/core/schema/color-rule-variant"
-import { parseConfig } from "@akasha/pages/core/schema/pages"
-import {
-  type InstantConfig,
-  type InstantFormat,
-  instantConfigSchema,
-} from "@akasha/pages/core/schema/property-config-schemas"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { formatRelativeTime } from "akasha/design/primitives/format-relative-time/format-relative-time.module.code.ts"
@@ -19,6 +8,17 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { formatAbsoluteInstant } from "akasha/pages/core/property-types/instant/instant.module.code.ts"
+import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import {
+  type InstantConfig,
+  type InstantFormat,
+  instantConfigSchema,
+} from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
 import { useState } from "react"
 
 function getInstantFormat(definition: PropertyDefinition): InstantFormat {

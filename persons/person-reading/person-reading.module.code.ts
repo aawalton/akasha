@@ -1,5 +1,9 @@
-import { everyOfType, type Listed, listedAt } from "@akasha/pages/index-reading"
-import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
+import {
+  everyOfType,
+  type Listed,
+  listedAt,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const PAGE_TYPE = "person"
 

@@ -1,7 +1,5 @@
 "use client"
 
-import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
-import { resolveIconName, searchIcons } from "@akasha/pages/core/icon"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
 import {
@@ -10,6 +8,8 @@ import {
   PopoverTrigger,
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
+import { resolveIconName, searchIcons } from "akasha/pages/core/icon/icon.module.code.ts"
 import { ChevronLeft, ChevronRight, Search } from "lucide-react"
 import { useCallback, useMemo, useState } from "react"
 import { Icon } from "../lucide-icon/lucide-icon.module.code.tsx"

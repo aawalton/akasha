@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAsked } from "@akasha/pages/shadow"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import { typecheck } from "./typecheck.code-check.check.code.ts"
 import {
   change,

@@ -1,4 +1,4 @@
-import { STEM_CEILING } from "@akasha/pages/naming/named-for/page-stem"
+import { STEM_CEILING } from "akasha/pages/naming/named-for/page-stem/page-stem.module.code.ts"
 
 const FALLBACK_NAME = "untitled"
 

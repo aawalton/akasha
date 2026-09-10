@@ -1,4 +1,4 @@
-import { slugIn } from "@akasha/pages/page-address"
+import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
 import {
   type Asked,
   type ComposedQuery,

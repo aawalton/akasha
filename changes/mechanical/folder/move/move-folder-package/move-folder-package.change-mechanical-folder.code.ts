@@ -1,5 +1,5 @@
 import { basename, dirname, join, relative } from "node:path"
-import { textAt } from "@akasha/pages/page-value"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 import { partedIn } from "../../../../../pages/file-name/page-file-name.module.code.ts"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"

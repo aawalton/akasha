@@ -1,4 +1,4 @@
-import { NEVER_MATCH_SLUG } from "@akasha/pages/access/sentinels"
+import { NEVER_MATCH_SLUG } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import {
   type ShapeDescriptor,
   slugShapeDescriptor,

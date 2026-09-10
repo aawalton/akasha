@@ -1,4 +1,4 @@
-import { partedIn } from "@akasha/pages/page-file-name"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { takingIn, unreadable } from "../../../modules/guarding/change-guarding.module.code.ts"
 import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 

@@ -1,5 +1,5 @@
 import { landingOf, specifiersIn } from "@akasha/code/code-specifier"
-import type { Change } from "@akasha/pages/change"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import {
   type Body,
   overEachFile,

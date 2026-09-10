@@ -5,7 +5,7 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
-import type { Value } from "@akasha/pages/page-value"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 
 export const scratch = scratchWorld()

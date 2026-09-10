@@ -1,6 +1,9 @@
-import { captureError, type ErrorCapturePayload } from "@akasha/pages/access/capture-error"
 import { computeFingerprint } from "akasha/alan/harness/errors-core/error-fingerprint/error-fingerprint.module.code.ts"
 import { ErrorReportSchema } from "akasha/alan/harness/errors-core/error-report/error-report.module.code.ts"
+import {
+  captureError,
+  type ErrorCapturePayload,
+} from "akasha/pages/access/capture-error/capture-error.module.code.ts"
 
 export async function action({ request }: { request: Request }): Promise<Response> {
   if (request.method !== "POST") {

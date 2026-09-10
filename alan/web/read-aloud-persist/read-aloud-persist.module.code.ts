@@ -1,10 +1,10 @@
-import { MEDIA_FORMATS } from "@akasha/pages/core/media-formats"
 import { STORED_READ_ALOUD_VARIANT } from "@akasha/pages-ui/media/media-src"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import {
   type ObjectStore,
   seaweedFSObjectStoreFromEnv,
 } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
+import { MEDIA_FORMATS } from "akasha/pages/core/media-formats/media-formats.module.code.ts"
 
 export function readAloudKey(pageId: string, opts?: { readonly fromSentence?: number }): string {
   const n = opts?.fromSentence

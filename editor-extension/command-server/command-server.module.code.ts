@@ -40,8 +40,8 @@ const CODE = "code"
 const TS = "ts"
 
 async function codeFileIn(root: string, slug: string): Promise<string | null> {
-  const { listedAt } = await import("@akasha/pages/index-reading")
-  const { besideAt } = await import("@akasha/pages/page-file-name")
+  const { listedAt } = await import("akasha/pages/indexes/reading/index-reading.module.code.ts")
+  const { besideAt } = await import("akasha/pages/file-name/page-file-name.module.code.ts")
   for (const pageTypeSlug of [MODULE_TYPE, COMMAND_TYPE]) {
     const found = listedAt(root, pageTypeSlug, slug)
     const one = found.length === 1 ? found[0] : undefined
@@ -193,7 +193,7 @@ async function serve(ask: Ask): Promise<undefined> {
       `this server's lease of ${LEASE}ms is up, so it answers nothing more`
     )
   }
-  const { akashaRoot } = await import("@akasha/pages/checkout-roots")
+  const { akashaRoot } = await import("akasha/pages/checkout-roots/checkout-roots.module.code.ts")
   const root = akashaRoot()
   let found: Loaded | string
   try {

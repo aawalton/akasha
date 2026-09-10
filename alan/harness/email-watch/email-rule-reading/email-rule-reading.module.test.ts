@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { rulesOf } from "./email-rule-reading.module.code.ts"
 
 const ROOT = akashaRoot()

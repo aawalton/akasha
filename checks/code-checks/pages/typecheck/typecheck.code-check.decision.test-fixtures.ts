@@ -9,9 +9,9 @@ import {
   pathFiled,
   schemaFiled,
 } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages/change"
 import { ran } from "@akasha/utils/run/running"
 import { importEdge } from "akasha/graph/edges/pages/import-edge.graph-edge.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { put, there } from "akasha/testing-system/putting/putting.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 

@@ -1,16 +1,19 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
+import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import {
   AKASHA,
   addressableNamed,
   isAddressable,
   locate,
   resolveRoots,
-} from "@akasha/pages/checkout-roots"
-import type { Repo as Addressable, Repo } from "@akasha/pages/markdown-document"
-import type { Roots } from "@akasha/pages/markdown-page-at"
-import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import type {
+  Repo as Addressable,
+  Repo,
+} from "akasha/pages/markdown-document/markdown-document.module.code.ts"
+import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import { fail } from "../command-failing/command-failing.module.code.ts"
 
 const STANDALONE = [

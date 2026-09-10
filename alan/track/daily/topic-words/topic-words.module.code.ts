@@ -1,6 +1,10 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import type { Roots } from "@akasha/pages/markdown-page-at"
 import { runGit } from "akasha/git/answering/git-answering.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import { openedDayOf, openedWindowOn } from "../day-opening/day-opening.module.code.ts"
 import {
   type WriteOutcome,

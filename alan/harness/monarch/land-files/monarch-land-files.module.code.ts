@@ -1,9 +1,9 @@
 import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import { typeSlugOf } from "@akasha/indexes"
-import { AKASHA as AKASHA_REPO } from "@akasha/pages/checkout-roots"
-import { exportedAs } from "@akasha/pages/page-export-name"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { AKASHA as AKASHA_REPO } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { MonarchTransaction } from "../client/monarch-client.module.code.ts"
 import type { PageFile, TransactionLine } from "../files/monarch-files.module.code.ts"
 import {

@@ -1,6 +1,5 @@
 "use client"
 
-import { getContentPersistence } from "@akasha/pages/ui-store/singleton"
 import {
   POSITION_WRITE_EVENT,
   parsePositionWriteDetail,
@@ -17,6 +16,7 @@ import {
   writeChapterPosition,
 } from "akasha/alan/library/reading/offline-reading/offline-reading.module.code.ts"
 import { loadStoryCatalog } from "akasha/alan/library/reading/story-catalog/story-catalog.module.code.ts"
+import { getContentPersistence } from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 import { useEffect, useRef } from "react"
 import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 import {

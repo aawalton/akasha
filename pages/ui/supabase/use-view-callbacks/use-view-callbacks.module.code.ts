@@ -1,19 +1,5 @@
 "use client"
 
-import { type CreatePageArgs, createPage } from "@akasha/pages/access/create"
-import { type DeletePageArgs, deletePage } from "@akasha/pages/access/delete"
-import { type PatchPageArgs, patchPage } from "@akasha/pages/access/patch"
-import type { Page } from "@akasha/pages/core/page-types"
-import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
-import {
-  createView as createViewReducer,
-  deleteView as deleteViewReducer,
-  duplicateView as duplicateViewReducer,
-  renameView as renameViewReducer,
-  reorderViews as reorderViewsReducer,
-  updateViewConfig as updateViewConfigReducer,
-} from "@akasha/pages/core/view-state/reducers"
-import type { ViewEffect, ViewRow } from "@akasha/pages/core/view-state/types"
 import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
@@ -23,6 +9,26 @@ import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-prop
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { isJson } from "@akasha/utils/narrow/is-json"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import { type CreatePageArgs, createPage } from "akasha/pages/access/create/create.module.code.ts"
+import {
+  type DeletePageArgs,
+  deletePage,
+} from "akasha/pages/access/deleting/deleting.module.code.ts"
+import { type PatchPageArgs, patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import {
+  createView as createViewReducer,
+  deleteView as deleteViewReducer,
+  duplicateView as duplicateViewReducer,
+  renameView as renameViewReducer,
+  reorderViews as reorderViewsReducer,
+  updateViewConfig as updateViewConfigReducer,
+} from "akasha/pages/core/view-state/reducers/reducers.module.code.ts"
+import type {
+  ViewEffect,
+  ViewRow,
+} from "akasha/pages/core/view-state/view-state-change/view-state-change.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 const VIEW_PAGE_TYPE_SLUG = "view"

@@ -1,9 +1,9 @@
-import { akashaRoot } from "@akasha/pages/checkout-roots"
-import { besideAt } from "@akasha/pages/page-file-name"
-import type { Value } from "@akasha/pages/page-value"
-import { asking } from "@akasha/pages/service/asking"
-import { composedFor } from "@akasha/pages/service/composing"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { composedFor } from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { chapterWords as countChapterWords } from "akasha/story/engine/core/chapter-words/chapter-words.module.code.ts"
 import {
   CHAPTER_PAGE_TYPE,

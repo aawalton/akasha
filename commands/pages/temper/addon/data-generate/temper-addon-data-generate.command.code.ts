@@ -1,5 +1,5 @@
 import { realpathSync } from "node:fs"
-import { codeRoot } from "@akasha/pages/code-root"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import { valuesOf } from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"

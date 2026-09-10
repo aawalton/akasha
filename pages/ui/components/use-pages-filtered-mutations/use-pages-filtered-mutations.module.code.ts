@@ -1,16 +1,16 @@
 "use client"
 
-import { createPage } from "@akasha/pages/access/create"
-import { deletePage } from "@akasha/pages/access/delete"
-import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
-import { buildPageHref } from "@akasha/pages/url/page-href"
-import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import type { PagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import { createPage } from "akasha/pages/access/create/create.module.code.ts"
+import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 
 export interface PagesFilteredMutations {

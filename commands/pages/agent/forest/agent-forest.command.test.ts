@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { SubagentPage } from "akasha/seat-system/agent-page-reading/agent-page-reading.module.code.ts"
 import type { ForestRow } from "akasha/seat-system/seat-forest/seat-forest.module.code.ts"
 import {

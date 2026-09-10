@@ -1,9 +1,12 @@
-import { getPages } from "@akasha/pages/access/get"
-import { collectPages } from "@akasha/pages/access/iterate"
-import { patchPageById } from "@akasha/pages/access/patch"
-import type { Page } from "@akasha/pages/core/page-types"
-import { completionShapeOf, readsAsDone } from "@akasha/pages/core/task-lifecycle"
 import { stringAt } from "@akasha/utils/narrow/string-at"
+import { getPages } from "akasha/pages/access/get/get.module.code.ts"
+import { collectPages } from "akasha/pages/access/iterate/iterate.module.code.ts"
+import { patchPageById } from "akasha/pages/access/patch/patch.module.code.ts"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import {
+  completionShapeOf,
+  readsAsDone,
+} from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player-completion/completion-override/completion-override.module.code.ts"
 import type { ParsedCompletionOverrideRow } from "akasha/temper/player-completion/completion-override-row/completion-override-row.module.code.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player-completion/completion-override-row/completion-override-row.module.code.ts"

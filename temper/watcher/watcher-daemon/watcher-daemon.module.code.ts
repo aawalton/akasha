@@ -1,8 +1,8 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { pidAliveOrAssumeDead } from "@akasha/utils/process/pid-signal"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { z } from "zod"
 import { watcherConfigDir, watcherLogDir } from "../watcher-paths/watcher-paths.module.code.ts"
 

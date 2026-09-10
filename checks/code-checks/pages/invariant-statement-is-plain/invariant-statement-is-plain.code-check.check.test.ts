@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { shadowAt } from "@akasha/pages/shadow"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { bodiesAt } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
 import { reasonsIn, reasonsShaped } from "./invariant-statement-is-plain.code-check.check.code.ts"

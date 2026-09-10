@@ -1,6 +1,6 @@
-import type { Page, PageCondition } from "@akasha/pages/core/page-types"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { JsonSchema } from "@akasha/utils/narrow/json-schema"
+import type { Page, PageCondition } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { z } from "zod"
 import {
   type CreatePageIfAbsentResult,

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Value } from "@akasha/pages/page-value"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
   type Asking,
   appsIn,

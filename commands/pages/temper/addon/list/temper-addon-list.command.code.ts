@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { codeRoot } from "@akasha/pages/code-root"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   type AddonInfo,
   listAllAddons,

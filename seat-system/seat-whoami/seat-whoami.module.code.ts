@@ -1,5 +1,5 @@
-import { resolveRoots } from "@akasha/pages/checkout-roots"
-import { slugIn } from "@akasha/pages/page-address"
+import { slugIn } from "akasha/pages/address/page-address.module.code.ts"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { attributesOf, recordedModeOf } from "../seat-attributes/seat-attributes.module.code.ts"
 import {
   frontmatterFromHistory,

@@ -1,7 +1,7 @@
-import { camelizeKey } from "@akasha/pages/access/file-rows"
-import { slugOf } from "@akasha/pages/page-value"
-import { asking } from "@akasha/pages/service/asking"
 import { dataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { camelizeKey } from "akasha/pages/access/file-rows/file-rows.module.code.ts"
+import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { slugOf } from "akasha/pages/value/page-value.module.code.ts"
 
 const ENTRY_PROPERTY = "page-property-entry"
 

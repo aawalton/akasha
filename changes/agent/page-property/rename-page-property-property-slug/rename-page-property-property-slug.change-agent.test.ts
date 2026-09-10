@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Value } from "@akasha/pages/page-value"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Reaching, World } from "../../../modules/shadow/change-shadow.module.code.ts"
 import { worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"

@@ -1,24 +1,27 @@
 "use client"
 
-import { getPages } from "@akasha/pages/access/get"
-import {
-  extractRelationContainment,
-  getPagesByRelation,
-} from "@akasha/pages/access/get-by-relation"
-import { collectPages } from "@akasha/pages/access/iterate"
-import type { PageOrder, PageSelect } from "@akasha/pages/access/types"
-import type { Page, PageWhere } from "@akasha/pages/core/page-types"
-import {
-  type ListingConfig,
-  listingIncludesDescendants,
-} from "@akasha/pages/core/schema/listing-config"
-import { resolveDescendantPageTypeIds } from "@akasha/pages/core/schema/page-type-inheritance"
-import type { ViewSort } from "@akasha/pages/core/schema/view-data"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import {
   type PageWithProperties,
   toPageWithProperties,
 } from "@akasha/pages-ui/supabase/page-with-properties"
+import { getPages } from "akasha/pages/access/get/get.module.code.ts"
+import {
+  extractRelationContainment,
+  getPagesByRelation,
+} from "akasha/pages/access/get-by-relation/get-by-relation.module.code.ts"
+import { collectPages } from "akasha/pages/access/iterate/iterate.module.code.ts"
+import type { PageOrder, PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type { Page, PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import {
+  type ListingConfig,
+  listingIncludesDescendants,
+} from "akasha/pages/core/schema/listing-config/listing-config.module.code.ts"
+import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/page-type-inheritance/page-type-inheritance.module.code.ts"
+import type { ViewSort } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import {
+  type PageTypeSlug,
+  toPageTypeSlug,
+} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 interface DescendantPagesResult {

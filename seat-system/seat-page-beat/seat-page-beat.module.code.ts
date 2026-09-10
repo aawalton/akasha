@@ -1,4 +1,4 @@
-import { resolveRoots } from "@akasha/pages/checkout-roots"
+import { resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
 import { fail } from "../command-failing/command-failing.module.code.ts"
 import {

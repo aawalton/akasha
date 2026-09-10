@@ -1,4 +1,4 @@
-import { secretsIn } from "@akasha/pages/page-secret"
+import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import {
   aiming,
   caught,

@@ -1,8 +1,12 @@
-import { asPage, type Page, type PageWhere } from "@akasha/pages/core/page-types"
-import type { Asked, Query } from "@akasha/pages/service/asking"
-import { askingFor } from "@akasha/pages/service/calling"
 import { isJson } from "@akasha/utils/narrow/is-json"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import {
+  asPage,
+  type Page,
+  type PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { Asked, Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { type CursorPayload, decodeCursor, encodeCursor } from "../cursor/cursor.module.code.ts"
 import {
   askableNarrows,

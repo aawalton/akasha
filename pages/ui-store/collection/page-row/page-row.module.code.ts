@@ -1,4 +1,4 @@
-import type { RawPageRow } from "@akasha/pages/access/page-row"
+import type { RawPageRow } from "akasha/pages/access/raw-page-row/raw-page-row.module.code.ts"
 
 export type PageRow = RawPageRow
 

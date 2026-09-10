@@ -1,6 +1,6 @@
 import { skimmedAs } from "@akasha/code/code-source"
 import { landingOf } from "@akasha/code/code-specifier"
-import type { Change } from "@akasha/pages/change"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import ts from "typescript"
 import { textIn, textNamed } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"

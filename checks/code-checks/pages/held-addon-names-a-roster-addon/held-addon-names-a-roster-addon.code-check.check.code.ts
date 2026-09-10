@@ -1,7 +1,7 @@
 import { dirname } from "node:path"
-import type { Change } from "@akasha/pages/change"
-import { partedIn } from "@akasha/pages/page-file-name"
-import type { Shadow } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   input,
   textIn,

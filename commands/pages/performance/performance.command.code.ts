@@ -1,6 +1,6 @@
 import { join } from "node:path"
-import { listedAt, slugsOfType } from "@akasha/pages/index-reading"
-import { besideAt } from "@akasha/pages/page-file-name"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt, slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
 import { quoted } from "../../modules/seat-act-calling/seat-act-calling.module.code.ts"

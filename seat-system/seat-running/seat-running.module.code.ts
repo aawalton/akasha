@@ -1,4 +1,9 @@
-import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import {
+  AKASHA,
+  akashaRoot,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { seatId } from "akasha/seat-system/read-record/read-record.module.code.ts"
 import {
   handlerDerives,

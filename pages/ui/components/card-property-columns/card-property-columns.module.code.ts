@@ -1,8 +1,8 @@
-import type { PropertyDefinition } from "@akasha/pages/core/types"
 import {
   type PageTableColumn,
   TITLE_COLUMN_ID,
 } from "@akasha/pages-ui/components/page-table-shared"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 
 export const RESERVED_PROPERTY_IDS = ["title", "icon", "cover", "content", "id", "userId"] as const
 

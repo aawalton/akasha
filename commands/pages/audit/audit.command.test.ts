@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import type { Change } from "@akasha/pages/change"
 import type { Gathered, Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
 import type { Given } from "../../modules/calling/calling.module.code.ts"
 import {
   ANSWER_CEILING,

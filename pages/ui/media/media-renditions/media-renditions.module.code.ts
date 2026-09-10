@@ -1,6 +1,9 @@
-import { MEDIA_FORMATS, type Medium } from "@akasha/pages/core/media-formats"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import type { ObjectStore } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
+import {
+  MEDIA_FORMATS,
+  type Medium,
+} from "akasha/pages/core/media-formats/media-formats.module.code.ts"
 
 export type AvailableRenditionsArgs = {
   pageId: string

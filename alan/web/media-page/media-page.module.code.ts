@@ -1,8 +1,8 @@
-import { getPage } from "@akasha/pages/access/get"
-import { getMediaPageTypeSlugs } from "@akasha/pages/access/page-type-config"
-import type { PageSelect } from "@akasha/pages/access/types"
-import type { Page } from "@akasha/pages/core/page-types"
-import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
+import { getPage } from "akasha/pages/access/get/get.module.code.ts"
+import { getMediaPageTypeSlugs } from "akasha/pages/access/page-type-config/page-type-config.module.code.ts"
+import type { PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 
 export type MediaPage = {
   readonly page: Page

@@ -1,5 +1,5 @@
-import type { Query } from "@akasha/pages/service/asking"
-import { askingFor, filingFor } from "@akasha/pages/service/calling"
+import type { Query } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import { askingFor, filingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import {
   orderedWallpaperSlugs,
   type WallpaperRow,

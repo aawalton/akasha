@@ -1,9 +1,13 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
 import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { launchSeatUnderTmux } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import {
   handlerDerives,

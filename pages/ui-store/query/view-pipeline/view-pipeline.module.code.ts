@@ -1,8 +1,11 @@
-import type { PageWhere } from "@akasha/pages/core/page-types"
-import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages/core/types"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import { type Collection, createLiveQueryCollection } from "@tanstack/db"
+import type {
+  PageDataJSON,
+  PropertyDefinition,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import {
   asPageRecord,
   asPageRowList,

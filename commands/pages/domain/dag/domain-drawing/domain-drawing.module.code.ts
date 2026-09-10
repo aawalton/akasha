@@ -1,7 +1,7 @@
 import { readingIn, valuesOfType } from "@akasha/indexes"
-import { kindsUnder } from "@akasha/pages/page-type-descent"
-import { valueAt } from "@akasha/pages/page-value"
-import { textAt, type Value } from "@akasha/pages/page-value-reading"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 

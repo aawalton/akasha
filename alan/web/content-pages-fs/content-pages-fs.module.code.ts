@@ -1,5 +1,5 @@
-import type { Page } from "@akasha/pages/core/page-types"
-import type { ContentPagePersistencePort } from "@akasha/pages/ui-store/collection/content-persistence"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { ContentPagePersistencePort } from "akasha/pages/ui-store/collection/content-persistence/content-persistence.module.code.ts"
 import { z } from "zod"
 import { getFilesystem } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 import {

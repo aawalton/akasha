@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { type Identifying, identifyingFrom, sourceOver } from "@akasha/pages/page-type-properties"
-import type { Value } from "@akasha/pages/page-value"
+import {
+  type Identifying,
+  identifyingFrom,
+  sourceOver,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { Identifier } from "../entries/index-entries.module.code.ts"
 import { A, B, C } from "../entries/index-entries.module.test-fixtures.ts"
 import { filedIn, identityIn } from "./index-identity.index.code.ts"

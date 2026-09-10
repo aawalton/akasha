@@ -1,9 +1,5 @@
 "use client"
 
-import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import { buildPageHref } from "@akasha/pages/url/page-href"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { buildTableColumns } from "@akasha/pages-ui/components/card-property-columns"
 import { pageRowToPageDataJSON, toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
 import { ToggleSection } from "@akasha/pages-ui/components/page-detail-sections"
@@ -13,6 +9,13 @@ import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { type Subpage, useSubpages } from "@akasha/pages-ui/supabase/use-subpages"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import {
+  type PageTypeSlug,
+  toPageTypeSlug,
+} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 import { PageTable, PageTableRowCells } from "../page-table/page-table.module.code.tsx"
 

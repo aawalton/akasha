@@ -1,5 +1,5 @@
-import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
-import type { QuickAddConfig } from "@akasha/pages/core/schema/quick-add"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { QuickAddConfig } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
 
 function toJSONValue(v: unknown): ReadonlyJSONValue {
   if (v === null || v === undefined) return null

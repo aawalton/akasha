@@ -1,8 +1,5 @@
 "use client"
 
-import { type CompletionShape, readsAsDone } from "@akasha/pages/core/task-lifecycle"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages/core/types"
-import { expandDateMentions } from "@akasha/pages/core/view/expand-date-mentions"
 import { orderTableColumns } from "@akasha/pages-ui/components/card-property-columns"
 import { PageActionsMenu } from "@akasha/pages-ui/components/page-actions-menu"
 import { PageTableColGroup } from "@akasha/pages-ui/components/page-table-colgroup"
@@ -25,6 +22,15 @@ import {
   TableHeader,
   TableRow,
 } from "akasha/design/primitives/table/table.module.code.tsx"
+import type {
+  PageDataJSON,
+  PropertyDefinition,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import {
+  type CompletionShape,
+  readsAsDone,
+} from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { CheckCircle2, Circle } from "lucide-react"
 import type { ReactNode } from "react"
 import { ReorderableColumnTable } from "../page-table-header/page-table-header.module.code.tsx"

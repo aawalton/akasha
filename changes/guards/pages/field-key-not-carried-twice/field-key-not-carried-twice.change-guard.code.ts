@@ -1,5 +1,5 @@
-import { namedUnder, pageNamed } from "@akasha/pages/page-file-name"
-import { identityOf } from "@akasha/pages/page-type-properties"
+import { namedUnder, pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { identityOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { unreadable, writtenIn } from "../../../modules/guarding/change-guarding.module.code.ts"
 import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 

@@ -1,4 +1,4 @@
-import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 import {
   armedAt,

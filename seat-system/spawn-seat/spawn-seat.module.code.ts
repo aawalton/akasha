@@ -1,4 +1,3 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { ruleText } from "@akasha/rules-engine/instructions-rule"
 import { enforceSpawnAdmission } from "@akasha/utils/system/memory-guard"
 import {
@@ -6,6 +5,11 @@ import {
   inputError,
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { FLEET, personaDefaultsOf } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import {
   type LaunchSeatResult,

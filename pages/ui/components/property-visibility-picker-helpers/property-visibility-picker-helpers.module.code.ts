@@ -1,4 +1,4 @@
-import type { PropertyVisibilityMode } from "@akasha/pages/core/schema/view-data"
+import type { PropertyVisibilityMode } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 
 export interface PropertyVisibilityOption {
   id: string

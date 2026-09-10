@@ -1,4 +1,7 @@
-import { mergeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
+import {
+  mergeUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import type { Health } from "../service-health/service-health.module.code.ts"
 
 export const WELL = "well"

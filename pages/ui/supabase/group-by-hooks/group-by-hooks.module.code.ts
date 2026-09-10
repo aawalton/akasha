@@ -1,13 +1,5 @@
 "use client"
 
-import type { PageOrder } from "@akasha/pages/access/types"
-import type { Page, PageCondition, PageWhere } from "@akasha/pages/core/page-types"
-import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
-import type { GroupGranularity, ViewFilter } from "@akasha/pages/core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import { GROUP_NONE_KEY } from "@akasha/pages/core/view/apply-grouping-shared"
-import { pageDayKey } from "@akasha/pages/core/view/calendar-date-to-value"
-import { applyGranularityBucket } from "@akasha/pages/core/view/group-granularity"
 import {
   adjustTotalForClientFilters,
   applyClientViewFilters,
@@ -18,6 +10,21 @@ import {
 } from "@akasha/pages-ui/supabase/page-with-properties"
 import { type UsePagesSupabaseOptions, usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
+import type { PageOrder } from "akasha/pages/access/types/types.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type {
+  Page,
+  PageCondition,
+  PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
+import type {
+  GroupGranularity,
+  ViewFilter,
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { GROUP_NONE_KEY } from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
+import { pageDayKey } from "akasha/pages/core/view/calendar-date-to-value/calendar-date-to-value.module.code.ts"
+import { applyGranularityBucket } from "akasha/pages/core/view/group-granularity/group-granularity.module.code.ts"
 import { useMemo } from "react"
 
 interface GroupByArgs {

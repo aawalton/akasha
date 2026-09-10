@@ -1,4 +1,7 @@
-import { mergeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
+import {
+  mergeUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 
 const POINTS_BEFORE_TODAY = "pointsBeforeToday"
 

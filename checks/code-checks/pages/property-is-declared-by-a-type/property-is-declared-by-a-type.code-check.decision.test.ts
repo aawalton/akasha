@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { pageFiled } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages/change"
-import { namedUnder } from "@akasha/pages/page-file-name"
-import { shadowAt, shadowFor } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { namedUnder } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { shadowAt, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   claiming,

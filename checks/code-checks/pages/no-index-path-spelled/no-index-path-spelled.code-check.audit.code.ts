@@ -1,4 +1,4 @@
-import { shadowAt } from "@akasha/pages/shadow"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   overEveryText,
   pageTypesFor,

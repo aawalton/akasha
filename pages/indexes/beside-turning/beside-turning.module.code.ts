@@ -1,4 +1,4 @@
-import { textAt, type Value } from "@akasha/pages/page-value"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { FilePropertiesBy } from "../entries/index-entries.module.code.ts"
 import type { SidecarsBy } from "../path-claiming/path-claiming.module.code.ts"
 import { everyPath, type Valued, valuesOfType } from "../reading/index-reading.module.code.ts"

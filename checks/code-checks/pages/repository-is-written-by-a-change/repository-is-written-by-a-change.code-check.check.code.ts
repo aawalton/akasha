@@ -1,4 +1,4 @@
-import type { Shadow } from "@akasha/pages/shadow"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   judgingEach,
   type Selector,

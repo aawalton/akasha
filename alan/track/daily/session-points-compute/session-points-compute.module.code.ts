@@ -1,4 +1,4 @@
-import type { Roots } from "@akasha/pages/markdown-page-at"
+import type { Roots } from "akasha/pages/markdown-page-at/markdown-page-at.module.code.ts"
 import { z } from "zod"
 import type { ReadonlyJSONValue } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { openedDayOf, openedWindowOn } from "../day-opening/day-opening.module.code.ts"

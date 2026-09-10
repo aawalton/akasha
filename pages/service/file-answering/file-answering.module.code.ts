@@ -1,8 +1,8 @@
 import { listedAt } from "@akasha/indexes"
 import { FILE_PROPERTY } from "@akasha/indexes/entries"
-import { bytesAt } from "@akasha/pages/page-file-body"
-import { valueAt } from "@akasha/pages/page-value"
-import { textAt } from "@akasha/pages/page-value-reading"
+import { bytesAt } from "akasha/pages/file-body/page-file-body.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { carriedFor } from "../kinds-gathering/kinds-gathering.module.code.ts"
 
 export type Named = {

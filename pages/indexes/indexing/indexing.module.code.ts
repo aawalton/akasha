@@ -1,8 +1,11 @@
 import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "@akasha/code/code-typing"
-import { identifyingFrom, sourceOver } from "@akasha/pages/page-type-properties"
-import { type Value, valueAt } from "@akasha/pages/page-value"
+import {
+  identifyingFrom,
+  sourceOver,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { DECLARING_UNDER, declaredOf } from "../declaring/index-declaring.index.code.ts"
 import {
   fileKeysIn,

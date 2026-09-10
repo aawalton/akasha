@@ -11,7 +11,7 @@ import {
   schemaFiled,
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
-import type { Value } from "@akasha/pages/page-value"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { type BodyOf, refusing, replayed, stating } from "../answer/change-answer.module.code.ts"
 import type { Answer } from "../answer/change-answer.module.types.ts"

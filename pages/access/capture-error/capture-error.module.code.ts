@@ -1,6 +1,11 @@
-import type { Value } from "@akasha/pages/page-value"
-import type { Row } from "@akasha/pages/service/asking"
-import { askingFor, type Fetcher, type Sleeper, writingFor } from "@akasha/pages/service/calling"
+import type { Row } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
+import {
+  askingFor,
+  type Fetcher,
+  type Sleeper,
+  writingFor,
+} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 
 export type ErrorCapturePayload = {
   fingerprint: string

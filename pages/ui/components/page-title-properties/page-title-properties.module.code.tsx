@@ -1,9 +1,12 @@
 "use client"
 
-import { propertyTypeRendersWhenEmpty } from "@akasha/pages/core/property-types/registry"
-import type { PageDataJSON, PropertyDefinition } from "@akasha/pages/core/types"
 import { selectVisibleCardProperties } from "@akasha/pages-ui/components/card-property-columns"
 import { isEmptyValue, PropertyBadge } from "@akasha/pages-ui/components/property-badge"
+import type {
+  PageDataJSON,
+  PropertyDefinition,
+} from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { propertyTypeRendersWhenEmpty } from "akasha/pages/core/property-types/registry/registry.module.code.ts"
 import { useMemo } from "react"
 
 interface PageTitlePropertiesProps {

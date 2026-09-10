@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { textAt, type Value, valueAt, valueIn } from "@akasha/pages/page-value"
+import { textAt, type Value, valueAt, valueIn } from "akasha/pages/value/page-value.module.code.ts"
 import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import {
   type Stopped,

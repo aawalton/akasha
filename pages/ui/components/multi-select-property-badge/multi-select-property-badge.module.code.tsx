@@ -1,16 +1,16 @@
 "use client"
 
-import type { PropertyValue } from "@akasha/pages/core/property-types/types"
-import { resolveBadgeVariant } from "@akasha/pages/core/resolve-badge-variant"
-import { parseConfig } from "@akasha/pages/core/schema/pages"
-import { multiSelectConfigSchema } from "@akasha/pages/core/schema/property-config-schemas"
-import type { SelectOption } from "@akasha/pages/core/schema/select-option-create"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { MultiSelectPopover } from "@akasha/pages-ui/components/multi-select-popover"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import { requireGet } from "@akasha/utils/narrow/require-get"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { resolveBadgeVariant } from "akasha/pages/core/resolve-badge-variant/resolve-badge-variant.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { multiSelectConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
+import type { SelectOption } from "akasha/pages/core/schema/select-option-create/select-option-create.module.code.ts"
 
 function getOptions(definition: PropertyDefinition): readonly SelectOption[] {
   return parseConfig(multiSelectConfigSchema, definition.config, { options: [] }).options

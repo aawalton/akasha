@@ -1,8 +1,8 @@
 "use client"
 
-import { buildViewPropertiesHref } from "@akasha/pages/url/page-display-mode"
 import { PageActionsMenu } from "@akasha/pages-ui/components/page-actions-menu"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { buildViewPropertiesHref } from "akasha/pages/url/page-display-mode/page-display-mode.module.code.ts"
 import type { ReactNode } from "react"
 
 export function ViewPageFrame({

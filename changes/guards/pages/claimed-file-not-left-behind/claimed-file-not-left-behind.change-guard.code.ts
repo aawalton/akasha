@@ -1,4 +1,4 @@
-import { pageNamed } from "@akasha/pages/page-file-name"
+import { pageNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   carriedIn,
   holdsAfter,

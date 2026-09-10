@@ -1,8 +1,5 @@
 "use client"
 
-import type { FilterOperator } from "@akasha/pages/core/property-types/types"
-import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
-import type { PageFilterDimension } from "@akasha/pages/core/view/generate-filter-dimensions"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { DateBadge } from "akasha/design/badges/date-badge/date-badge.module.code.tsx"
 import { InputBadge } from "akasha/design/badges/input-badge/input-badge.module.code.tsx"
@@ -13,6 +10,9 @@ import {
   PopoverTrigger,
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { PageFilterDimension } from "akasha/pages/core/view/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
 

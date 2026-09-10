@@ -1,7 +1,7 @@
-import type { Formatting } from "@akasha/pages/name-format/format-reaching"
-import type { Carried } from "@akasha/pages/page-type-properties"
-import { numberAt, type Value } from "@akasha/pages/page-value"
-import type { Shadow } from "@akasha/pages/shadow"
+import type { Formatting } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { numberAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { refusalText } from "../../../../../modules/refusal-text/refusal-text.module.code.ts"
 import {
   fieldsFor,

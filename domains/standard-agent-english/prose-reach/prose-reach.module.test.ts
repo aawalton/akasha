@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { carriedFrom, sourceOver } from "@akasha/pages/page-type-properties"
-import { textAt, type Value } from "@akasha/pages/page-value"
+import {
+  carriedFrom,
+  sourceOver,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import { proseFrom, type Reach } from "./prose-reach.module.code.ts"
 
 const PROSE = "standard-agent-english-property"

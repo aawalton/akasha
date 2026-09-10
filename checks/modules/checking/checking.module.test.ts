@@ -3,7 +3,7 @@ import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { idTakenFrom, indexTakenFrom } from "@akasha/indexes/testing"
-import { shadowAsked } from "@akasha/pages/shadow"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   checkPagesIn,
   checksAt,

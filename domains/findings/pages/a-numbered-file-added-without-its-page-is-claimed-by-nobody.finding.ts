@@ -5,7 +5,7 @@ export const aNumberedFileAddedWithoutItsPageIsClaimedByNobody = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-numbered-file-added-without-its-page-is-claimed-by-nobody",
-  domain: "workspace-package/page",
+  domain: "domain/page",
   claim:
     "A page's claim on its numbered files is worked out again only for a page the change itself carries. A numbered file added beside a page the change leaves alone is therefore claimed by nobody and refused. A property's files can only grow in a change that rewrites the page as well, and in that same case `page-matches-its-type` judges no row either.",
   evidence:

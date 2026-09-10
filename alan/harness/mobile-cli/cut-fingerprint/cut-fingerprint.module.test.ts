@@ -1,8 +1,12 @@
 import { describe, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { loadedFrom } from "@akasha/pages/page-value"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { loadedFrom } from "akasha/pages/value/page-value.module.code.ts"
 import {
   type CutFingerprint,
   compareCutStatus,

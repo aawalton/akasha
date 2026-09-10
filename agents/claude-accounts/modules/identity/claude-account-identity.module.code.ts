@@ -1,6 +1,6 @@
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
-import { removeUncommitted } from "@akasha/pages/page-uncommitted"
+import { removeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import {
   DOORS as PUSH_DOORS,
   type Doors as PushDoors,

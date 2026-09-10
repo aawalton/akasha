@@ -1,7 +1,7 @@
 import { NAMING_NONE, type Naming } from "@akasha/code/code-specifier"
 import { edgesIn } from "@akasha/indexes/import"
-import type { Change } from "@akasha/pages/change"
-import type { Shadow } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   bodyOf,
   FILES,

@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { asPage, type Page, type PageWhere } from "@akasha/pages/core/page-types"
+import {
+  asPage,
+  type Page,
+  type PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
 import {
   narrowFor,
   ROLLED,

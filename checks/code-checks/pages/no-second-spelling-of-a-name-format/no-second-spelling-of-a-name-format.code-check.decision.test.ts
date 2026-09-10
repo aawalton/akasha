@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "@akasha/pages/shadow"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   everyShapeIn,
   reasonsIn,

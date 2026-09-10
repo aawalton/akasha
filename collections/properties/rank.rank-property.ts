@@ -1,4 +1,4 @@
-import type { RankProperty } from "@akasha/pages/rank-property"
+import type { RankProperty } from "akasha/pages/rank-properties/rank-property.page-type.ts"
 
 export const rank = {
   id: "01a063de-2c60-7010-9c60-ca9b5e2b2eca",

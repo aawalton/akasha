@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowAsked } from "@akasha/pages/shadow"
+import { shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import { extensionHostReachesNoBunCode } from "./extension-host-reaches-no-bun-code.code-check.check.code.ts"
 import {
   bodied,

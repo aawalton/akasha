@@ -1,6 +1,6 @@
-import { asPage, type Page } from "@akasha/pages/core/page-types"
-import type { ComposedQuery } from "@akasha/pages/query/answer-schema"
-import { askComposed } from "@akasha/pages/query/store-spelled-asking"
+import { asPage, type Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { ComposedQuery } from "akasha/pages/query/store-questioning/store-questioning.module.code.ts"
+import { askComposed } from "akasha/pages/query/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { z } from "zod"
 
 const READ_STORY_TYPES = ["story-read-royal-road", "story-read-wandering-inn"] as const

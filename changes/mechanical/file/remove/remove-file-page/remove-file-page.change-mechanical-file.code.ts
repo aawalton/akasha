@@ -1,6 +1,6 @@
 import { extname } from "node:path"
 import type { Named } from "@akasha/indexes"
-import { partedIn } from "@akasha/pages/page-file-name"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import {
   gathered,
   refusing,

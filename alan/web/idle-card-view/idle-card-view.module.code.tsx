@@ -1,8 +1,5 @@
 "use client"
 
-import type { GalleryCardSize } from "@akasha/pages/core/view/gallery"
-import { resolveGalleryCardSize } from "@akasha/pages/core/view/gallery"
-import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { PageCardRenderer } from "@akasha/pages-ui/components/page-card-renderer"
 import { PageSystemTabContent } from "@akasha/pages-ui/components/page-system-view"
 import { useReorderViewWiring } from "@akasha/pages-ui/components/use-reorder-view-wiring"
@@ -12,6 +9,9 @@ import {
   maxAffordableTrainCount,
 } from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
 import { displayedResource } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
+import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import { resolveGalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useState, useSyncExternalStore } from "react"
 import { bucketPageRowsByGroup } from "../idle-card-grouping/idle-card-grouping.module.code.ts"
 import {

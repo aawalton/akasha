@@ -1,4 +1,4 @@
-import { heldIn } from "@akasha/pages/page-file-name"
+import { heldIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import type { Standing } from "./folder-shapes/folder-shape.page-type.ts"
 import {
   folderOf,

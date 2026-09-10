@@ -1,12 +1,15 @@
 import { valuesOfType } from "@akasha/indexes"
-import { besideAt } from "@akasha/pages/page-file-name"
-import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
-import { type Value, valueAt } from "@akasha/pages/page-value"
-import { textIn } from "@akasha/pages/page-value-reading"
-import { composedFor, type Put } from "@akasha/pages/service/composing"
 import { todayYYYYMMDD } from "@akasha/utils/sync/today"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  composedFor,
+  type Put,
+} from "akasha/pages/service/page-composing/page-composing.module.code.ts"
+import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { textIn } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { searchLyrics } from "../../../../alan/music/catalog/lrclib-client/lrclib-client.module.code.ts"
 import {
   lyricsFieldsOf,

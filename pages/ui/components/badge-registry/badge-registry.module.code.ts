@@ -1,4 +1,3 @@
-import type { PropertyType } from "@akasha/pages/core/types"
 import { ActionButtonPropertyBadge } from "@akasha/pages-ui/components/action-button-property-badge"
 import { AggregatePropertyBadge } from "@akasha/pages-ui/components/aggregate-property-badge"
 import { BooleanPropertyBadge } from "@akasha/pages-ui/components/boolean-property-badge"
@@ -21,6 +20,7 @@ import { RrulePropertyBadge } from "@akasha/pages-ui/components/rrule-property-b
 import { SelectPropertyBadge } from "@akasha/pages-ui/components/select-property-badge"
 import { TextPropertyBadge } from "@akasha/pages-ui/components/text-property-badge"
 import { UrlPropertyBadge } from "@akasha/pages-ui/components/url-property-badge"
+import type { PropertyType } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { ComponentType } from "react"
 
 export const PROPERTY_BADGE_REGISTRY: Record<PropertyType, ComponentType<PropertyBadgeProps>> = {

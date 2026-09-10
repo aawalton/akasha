@@ -1,13 +1,13 @@
 "use client"
 
-import { getPages } from "@akasha/pages/access/get"
-import type { PageWhere } from "@akasha/pages/core/page-types"
-import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
 import {
   type PageWithProperties,
   toPageWithProperties,
 } from "@akasha/pages-ui/supabase/page-with-properties"
 import { isRecord } from "@akasha/utils/narrow/is-record"
+import { getPages } from "akasha/pages/access/get/get.module.code.ts"
+import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PageTypePropertiesMap } from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 export interface Referrer {

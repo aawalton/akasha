@@ -1,7 +1,7 @@
-import type { MediaConfig } from "@akasha/pages/core/schema/media-config"
-import type { SequenceConfig } from "@akasha/pages/core/schema/sequence-config"
-import type { StorageTier } from "@akasha/pages/core/types"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import type { StorageTier } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { MediaConfig } from "akasha/pages/core/schema/media-config/media-config.module.code.ts"
+import type { SequenceConfig } from "akasha/pages/core/schema/sequence-config/sequence-config.module.code.ts"
 import {
   fileMediaConfig,
   fileMediaPageTypeSlugs,

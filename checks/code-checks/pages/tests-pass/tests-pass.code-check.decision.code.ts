@@ -12,9 +12,9 @@ import {
 import { calledIn } from "@akasha/code/package-manifest"
 import type { Bodies, Body, Link } from "@akasha/code/test-overlay"
 import { bodiesFrom } from "@akasha/indexes/rebuilding"
-import type { Change } from "@akasha/pages/change"
-import type { Shadow } from "@akasha/pages/shadow"
 import { endingOf } from "@akasha/utils/run/running"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import { textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 

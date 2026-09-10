@@ -1,9 +1,9 @@
 import { textOf } from "@akasha/code/body-text"
-import type { Change } from "@akasha/pages/change"
-import { besideAt, partedIn } from "@akasha/pages/page-file-name"
-import { textAt } from "@akasha/pages/page-value"
-import type { Shadow } from "@akasha/pages/shadow"
-import { shadowFor } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 import type {
   Adding,
   Replacing,

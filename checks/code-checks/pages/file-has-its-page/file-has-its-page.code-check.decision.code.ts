@@ -1,4 +1,4 @@
-import type { Shadow } from "@akasha/pages/shadow"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 
 export const UNCLAIMED =
   "no page claims this file — a move repoints nothing to it and its page's deletion leaves it behind"

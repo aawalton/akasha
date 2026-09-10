@@ -4,12 +4,6 @@ import { createNativeFsContentPersistence } from "@akasha/alanwalton-web/content
 import { readLocalPosition } from "@akasha/alanwalton-web/offline-text"
 import { createNativeFsPagesPersistence } from "@akasha/alanwalton-web/pages-persistence-fs"
 import { StatusBarSync } from "@akasha/alanwalton-web/status-bar-sync"
-import { setStoreDiagnosticsSink } from "@akasha/pages/ui-store/diagnostics"
-import {
-  configureContentPersistence,
-  configurePagesPersistence,
-  configurePagesStoreFetch,
-} from "@akasha/pages/ui-store/singleton"
 import { PagesUICapabilityHosts } from "@akasha/pages-ui/capabilities/capability-hosts"
 import { configureLocalPositionReader } from "@akasha/pages-ui/components/local-position-port"
 import literataLatinWoff2 from "@fontsource-variable/literata/files/literata-latin-wght-normal.woff2?url"
@@ -25,6 +19,12 @@ import { PageLayoutSkeleton } from "akasha/design/layout/page-layout/page-layout
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import {
+  configureContentPersistence,
+  configurePagesPersistence,
+  configurePagesStoreFetch,
+} from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 import { type ReactNode, useEffect } from "react"
 import {
   isRouteErrorResponse,

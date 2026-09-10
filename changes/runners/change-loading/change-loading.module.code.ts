@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { besideAt } from "@akasha/pages/page-file-name"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { refusing } from "../../modules/answer/change-answer.module.code.ts"
 import type { Answer, Said } from "../../modules/answer/change-answer.module.types.ts"
 import { guardedBy } from "../../modules/guarding/change-guarding.module.code.ts"

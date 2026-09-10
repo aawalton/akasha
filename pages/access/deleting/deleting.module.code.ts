@@ -1,4 +1,8 @@
-import { asPage, type Page, type PageWhere } from "@akasha/pages/core/page-types"
+import {
+  asPage,
+  type Page,
+  type PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { removeFilePages } from "../file-write/file-write.module.code.ts"
 import { rejectDefinitionTier, requireFileBacked } from "../guards/guards.module.code.ts"
 import { asPageList, overServer, writesOverServer } from "../over-server/over-server.module.code.ts"

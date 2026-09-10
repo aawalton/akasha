@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { reading } from "@akasha/pages/page-value/testing"
+import { reading } from "akasha/pages/value/page-value.module.test-fixtures.ts"
 import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"

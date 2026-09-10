@@ -2,10 +2,10 @@ import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { everyOfType, typeSlugOf } from "@akasha/indexes"
-import type { Change } from "@akasha/pages/change"
-import { exportedAs } from "@akasha/pages/page-export-name"
-import { besideAt, partedIn } from "@akasha/pages/page-file-name"
-import { type Shadow, shadowAsked } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { type Shadow, shadowAsked } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   framesOf,
   saidBy,

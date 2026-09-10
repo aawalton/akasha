@@ -1,4 +1,8 @@
-import { bare, matches, weigh } from "@akasha/pages/service/where-testing"
+import {
+  bare,
+  matches,
+  weigh,
+} from "akasha/pages/service/where-testing/where-testing.module.code.ts"
 import {
   ASK_CEILING_MS,
   type Fetcher,

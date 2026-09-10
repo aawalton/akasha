@@ -1,4 +1,8 @@
-import { askingFor, type Fetcher, type Sleeper } from "@akasha/pages/service/calling"
+import {
+  askingFor,
+  type Fetcher,
+  type Sleeper,
+} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { ACCOUNT_KEY } from "./person-enrolment.module.code.ts"
 
 const LIVE_ORIGIN = "http://127.0.0.1:8787"

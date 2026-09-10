@@ -1,8 +1,5 @@
 "use client"
 
-import { resolveDisplayKind } from "@akasha/pages/core/schema/detail-config"
-import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
-import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import {
   PAGE_TYPE_SLUG,
   selectDetailBody,
@@ -16,6 +13,9 @@ import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { resolveDisplayKind } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import type { ReactNode } from "react"
 import { PageCollectionContent } from "../page-collection-content/page-collection-content.module.code.tsx"
 import { PageDefaultContent } from "../page-default-content/page-default-content.module.code.tsx"

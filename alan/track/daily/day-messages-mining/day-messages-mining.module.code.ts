@@ -1,8 +1,8 @@
 import { type Dirent, readdirSync, readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import { getEsoDayStrAt } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { personasStanding } from "akasha/personas/reading/persona-reading.module.code.ts"
 import { type Counted, dayPageAt } from "../day-messages/day-messages.module.code.ts"
 

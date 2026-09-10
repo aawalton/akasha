@@ -1,14 +1,5 @@
 "use client"
 
-import { NEVER_MATCH_SLUG, NEVER_MATCH_VALUE } from "@akasha/pages/access/sentinels"
-import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
-import { resolveDefinitionOptions } from "@akasha/pages/core/schema/resolve-select-options"
-import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
-import { type LockedFacet, mergeLockedFacets } from "@akasha/pages/core/schema/view-data-locked"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import { deriveViewTargetSlugs } from "@akasha/pages/ui-store/query/view-target-slugs"
-import { buildPageHref } from "@akasha/pages/url/page-href"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { buildServerGroupedSections } from "@akasha/pages-ui/components/build-server-grouped-sections"
 import { toPageDataRecord } from "@akasha/pages-ui/components/page-data-json"
 import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
@@ -27,6 +18,24 @@ import { usePageViewQuery } from "@akasha/pages-ui/supabase/hooks-view-query"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
 import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
+import {
+  NEVER_MATCH_SLUG,
+  NEVER_MATCH_VALUE,
+} from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
+import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import {
+  type LockedFacet,
+  mergeLockedFacets,
+} from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
+import { deriveViewTargetSlugs } from "akasha/pages/ui-store/query/view-target-slugs/view-target-slugs.module.code.ts"
+import { buildPageHref } from "akasha/pages/url/page-href/page-href.module.code.ts"
+import {
+  type PageTypeSlug,
+  toPageTypeSlug,
+} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback, useMemo } from "react"
 
 export interface ViewTabContentData {

@@ -1,9 +1,5 @@
 "use client"
 
-import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import { expandDateMentions } from "@akasha/pages/core/view/expand-date-mentions"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { DegradingImage } from "@akasha/pages-ui/components/degrading-image"
 import { toPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 import { PageDetailHeaderMenu } from "@akasha/pages-ui/components/page-detail-header-menu"
@@ -24,6 +20,13 @@ import { buttonVariants } from "akasha/design/primitives/button/button.module.co
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { expandDateMentions } from "akasha/pages/core/view/expand-date-mentions/expand-date-mentions.module.code.ts"
+import {
+  type PageTypeSlug,
+  toPageTypeSlug,
+} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { PagesFilteredContent } from "../pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 
 const PAGE_TYPE_SLUG = "page-type"

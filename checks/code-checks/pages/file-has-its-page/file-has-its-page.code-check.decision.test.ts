@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { noPathsFiled } from "@akasha/indexes/testing"
-import { shadowAt } from "@akasha/pages/shadow"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { claiming } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {

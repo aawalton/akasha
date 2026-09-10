@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Value } from "@akasha/pages/page-value"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { NOTHING_OVER, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
 import { knownOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { removePropertyValue, runChange } from "./remove-property-value.change-agent.code.ts"

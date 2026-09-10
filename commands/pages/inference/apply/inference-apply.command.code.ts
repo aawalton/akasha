@@ -1,5 +1,5 @@
-import { codeRoot } from "@akasha/pages/code-root"
 import { reconcile } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   keyedLines,
   wasRefused,

@@ -1,6 +1,6 @@
-import type { PersistedPagesSnapshot } from "@akasha/pages/ui-store/collection/persistence"
-import { PageRowSchema } from "@akasha/pages/ui-store/realtime/payload-translator"
-import { ShapeResumeStateSchema } from "@akasha/pages/ui-store/realtime/shape-meta"
+import type { PersistedPagesSnapshot } from "akasha/pages/ui-store/collection/persistence/persistence.module.code.ts"
+import { PageRowSchema } from "akasha/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts"
+import { ShapeResumeStateSchema } from "akasha/pages/ui-store/realtime/shape-meta/shape-meta.module.code.ts"
 import { z } from "zod"
 
 export const PersistedPagesSnapshotSchema = z

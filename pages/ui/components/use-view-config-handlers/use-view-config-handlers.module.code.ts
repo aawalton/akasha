@@ -1,11 +1,11 @@
+import { reorderVisibleProperties } from "@akasha/pages-ui/components/page-table-column-dnd-helpers"
 import type {
   ViewConfig,
   ViewDataJSON,
   ViewLayout,
   VisibilityChange,
-} from "@akasha/pages/core/schema/view-data"
-import type { GalleryCardSize } from "@akasha/pages/core/view/gallery"
-import { reorderVisibleProperties } from "@akasha/pages-ui/components/page-table-column-dnd-helpers"
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { GalleryCardSize } from "akasha/pages/core/view/gallery/gallery.module.code.ts"
 import { useCallback } from "react"
 
 interface UseViewConfigHandlersArgs {

@@ -1,9 +1,5 @@
 "use client"
 
-import type { PropertyValue } from "@akasha/pages/core/property-types/types"
-import { parseConfig } from "@akasha/pages/core/schema/pages"
-import { multiRelationConfigSchema } from "@akasha/pages/core/schema/property-config-schemas"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
 import {
   getRelationId,
@@ -17,6 +13,10 @@ import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { LinkBadge } from "akasha/design/badges/link-badge/link-badge.module.code.tsx"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { parseConfig } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import { multiRelationConfigSchema } from "akasha/pages/core/schema/property-config-schemas/property-config-schemas.module.code.ts"
 
 function colClassFor(align: "start" | "end"): string {
   return align === "start" ? "flex flex-col items-start gap-1" : "flex flex-col items-end gap-1"

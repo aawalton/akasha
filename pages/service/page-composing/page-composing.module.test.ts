@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
-import type { Carried } from "@akasha/pages/page-type-properties"
+import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import {
   besideItsPage,
   endingRefused,

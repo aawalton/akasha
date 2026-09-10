@@ -1,5 +1,5 @@
-import { ID_SUFFIX_LENGTH } from "@akasha/pages/url/page-href"
 import { type Collection, createLiveQueryCollection } from "@tanstack/db"
+import { ID_SUFFIX_LENGTH } from "akasha/pages/url/page-href/page-href.module.code.ts"
 import { asPageRowList, type PageRow } from "../../collection/page-row/page-row.module.code.ts"
 import { slugScopeExpr } from "../regular-pipeline/regular-pipeline.module.code.ts"
 

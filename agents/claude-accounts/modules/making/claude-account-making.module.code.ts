@@ -1,9 +1,9 @@
 import type { Reading } from "@akasha/indexes/shape"
-import { exportedAs } from "@akasha/pages/page-export-name"
 import {
   type Asking,
   runMechanicalChange,
 } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import type { Applied } from "../../../../commands/modules/applying/applying.module.code.ts"
 import type { Refused } from "../../../../commands/modules/landing/landing.module.code.ts"
 import { accountPathIn, everyAccountIn } from "../reading/claude-account-reading.module.code.ts"

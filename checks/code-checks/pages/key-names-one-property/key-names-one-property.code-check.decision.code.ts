@@ -1,6 +1,9 @@
-import { type Carried as Declared, identityOf } from "@akasha/pages/page-type-properties"
-import { textAt } from "@akasha/pages/page-value"
-import type { Shadow } from "@akasha/pages/shadow"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import {
+  type Carried as Declared,
+  identityOf,
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import type { Carried } from "../relation-resolves/relation-resolves.code-check.decision.code.ts"
 

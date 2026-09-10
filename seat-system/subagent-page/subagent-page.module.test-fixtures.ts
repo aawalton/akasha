@@ -6,7 +6,7 @@ import {
   valueAlsoFiled,
   valueTakenFrom,
 } from "@akasha/indexes/testing"
-import { valueAt } from "@akasha/pages/page-value"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { declaringUnder } from "akasha/testing-system/declaring/declaring.module.code.ts"
 import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "../../git/running/git-running.module.code.ts"

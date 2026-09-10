@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { exportedAs } from "@akasha/pages/page-export-name"
-import type { Fetcher } from "@akasha/pages/service/calling"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import type { Fetcher } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import {
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,

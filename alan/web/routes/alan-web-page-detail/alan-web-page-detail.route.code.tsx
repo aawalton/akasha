@@ -1,8 +1,11 @@
-import { DISPLAY_PARAM, parseDisplayMode } from "@akasha/pages/url/page-display-mode"
-import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { PageDetailContent } from "@akasha/pages-ui/components/page-detail-content"
 import { ViewPageContent } from "@akasha/pages-ui/components/view-page-content"
 import { ViewPageFrame } from "@akasha/pages-ui/components/view-page-frame"
+import {
+  DISPLAY_PARAM,
+  parseDisplayMode,
+} from "akasha/pages/url/page-display-mode/page-display-mode.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { lazy, Suspense } from "react"
 import {
   type MetaDescriptor,

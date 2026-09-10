@@ -1,4 +1,4 @@
-import type { Work } from "@akasha/pages/computed-property"
+import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
 import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
 
 const CEILING = 100

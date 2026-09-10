@@ -1,10 +1,5 @@
 "use client"
 
-import { parseListingConfig } from "@akasha/pages/core/schema/listing-config"
-import { isLocked, isPageTypeLocked, type ViewDataJSON } from "@akasha/pages/core/schema/view-data"
-import type { LockedFacet } from "@akasha/pages/core/schema/view-data-locked"
-import { completionShapeOf } from "@akasha/pages/core/task-lifecycle"
-import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { pageRowToPageDataJSON } from "@akasha/pages-ui/components/page-data-json"
 import { useReorderViewWiring } from "@akasha/pages-ui/components/use-reorder-view-wiring"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
@@ -19,6 +14,15 @@ import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-pro
 import { useCompletePageOptimistic } from "@akasha/pages-ui/supabase/use-complete-page-optimistic"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { parseListingConfig } from "akasha/pages/core/schema/listing-config/listing-config.module.code.ts"
+import {
+  isLocked,
+  isPageTypeLocked,
+  type ViewDataJSON,
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { LockedFacet } from "akasha/pages/core/schema/view-data-locked/view-data-locked.module.code.ts"
+import { completionShapeOf } from "akasha/pages/core/task-lifecycle/task-lifecycle.module.code.ts"
+import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { PageCardRenderer } from "../page-card-renderer/page-card-renderer.module.code.tsx"
 import { PageSystemTabContent } from "../page-system-view/page-system-view.module.code.tsx"
 import { PageTableRowCells } from "../page-table/page-table.module.code.tsx"

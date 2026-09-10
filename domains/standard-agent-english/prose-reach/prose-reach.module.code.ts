@@ -1,5 +1,4 @@
-import { readingIn, valuesOfType } from "@akasha/pages/index-reading"
-import { kindsUnder } from "@akasha/pages/page-type-descent"
+import { readingIn, valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   type Carried,
   carriedFrom,
@@ -7,8 +6,9 @@ import {
   propertiesIfNamed,
   type Source,
   sourceIn,
-} from "@akasha/pages/page-type-properties"
-import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
+} from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import { textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 
 const PROSE = "standard-agent-english-property"
 

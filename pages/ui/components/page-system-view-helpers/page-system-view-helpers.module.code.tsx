@@ -1,12 +1,5 @@
 "use client"
 
-import type { ViewSort } from "@akasha/pages/core/schema/view-data"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import type { PageResolver } from "@akasha/pages/core/view/apply-grouping-shared"
-import {
-  getDefaultGroupSorts,
-  sortGroupedResults,
-} from "@akasha/pages/core/view/apply-grouping-sort"
 import type { ServerGroupedSection } from "@akasha/pages-ui/components/page-system-tab-content-props"
 import { PageTimeline } from "@akasha/pages-ui/components/page-timeline"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
@@ -19,6 +12,13 @@ import {
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import type { ViewSort } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import type { PageResolver } from "akasha/pages/core/view/apply-grouping-shared/apply-grouping-shared.module.code.ts"
+import {
+  getDefaultGroupSorts,
+  sortGroupedResults,
+} from "akasha/pages/core/view/apply-grouping-sort/apply-grouping-sort.module.code.ts"
 import { Plus } from "lucide-react"
 import type { ReactNode } from "react"
 

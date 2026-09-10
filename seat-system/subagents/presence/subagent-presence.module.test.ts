@@ -2,8 +2,11 @@ import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { listedFiled, pageFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import { keepUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  keepUncommitted,
+  uncommittedIn,
+} from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import {
   blobIdOf,
   readingIn,

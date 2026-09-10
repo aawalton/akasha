@@ -1,12 +1,15 @@
 "use client"
 
-import { parsePageTypeData } from "@akasha/pages/core/schema/pages"
-import { parseQuickAddConfig, type QuickAddConfig } from "@akasha/pages/core/schema/quick-add"
-import { resolveDefinitionOptions } from "@akasha/pages/core/schema/resolve-select-options"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-lookup"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { parsePageTypeData } from "akasha/pages/core/schema/pages/pages.module.code.ts"
+import {
+  parseQuickAddConfig,
+  type QuickAddConfig,
+} from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"
+import { resolveDefinitionOptions } from "akasha/pages/core/schema/resolve-select-options/resolve-select-options.module.code.ts"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"

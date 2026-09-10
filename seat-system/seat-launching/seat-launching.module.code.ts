@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { PTY_PROXY_REL, SUPERVISOR_REL } from "../seat-entry-paths/seat-entry-paths.module.code.ts"
 import { sessionHeld } from "../seat-stopping/seat-stopping.module.code.ts"
 

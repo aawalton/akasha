@@ -1,11 +1,11 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { listedAt } from "@akasha/indexes"
-import { exportedAs } from "@akasha/pages/page-export-name"
-import { partedIn } from "@akasha/pages/page-file-name"
-import { slugFor } from "@akasha/pages/page-property-key"
-import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
-import { valueAt } from "@akasha/pages/page-value"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { propertiesIfNamedOf } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
+import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   blobAt,
   type Knowing,

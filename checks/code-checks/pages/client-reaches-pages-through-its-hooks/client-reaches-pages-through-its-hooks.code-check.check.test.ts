@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { listedFiled, pathFiled } from "@akasha/indexes/testing"
-import { shadowAt } from "@akasha/pages/shadow"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import {
   change,
   scratch,

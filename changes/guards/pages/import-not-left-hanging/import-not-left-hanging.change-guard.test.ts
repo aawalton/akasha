@@ -9,7 +9,7 @@ import {
   scratch,
 } from "@akasha/indexes/indexing/testing"
 import { schemaFiled } from "@akasha/indexes/testing"
-import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
+import { NOT_WORKED_OUT } from "akasha/pages/shadow/shadow.module.code.ts"
 import { stating } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { guardedBy, NOT_READ } from "../../../modules/guarding/change-guarding.module.code.ts"

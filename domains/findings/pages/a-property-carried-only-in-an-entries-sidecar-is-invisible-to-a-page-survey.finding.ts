@@ -5,7 +5,7 @@ export const aPropertyCarriedOnlyInAnEntriesSidecarIsInvisibleToAPageSurvey = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-property-carried-only-in-an-entries-sidecar-is-invisible-to-a-page-survey",
-  domain: "workspace-package/page",
+  domain: "domain/page",
   claim:
     "A survey of page bodies cannot see a property carried in an entries sidecar, so a rename can be checked against every page in the tree, come back clean, and still leave the old key on every line beside those pages. An entry's fields are declared on the page-property-entry page rather than on the page type whose pages the entries sit beside, so the property and the data carrying it are named in two places, and the sidecar is judged only when a landing next touches the page it sits beside.",
   evidence:

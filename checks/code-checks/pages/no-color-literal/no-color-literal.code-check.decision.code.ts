@@ -1,8 +1,8 @@
 import { dirname } from "node:path"
-import { besideAt } from "@akasha/pages/page-file-name"
-import { textAt } from "@akasha/pages/page-value"
-import type { Shadow } from "@akasha/pages/shadow"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   type Body,
   overEachBody,

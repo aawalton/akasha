@@ -1,6 +1,6 @@
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
-import { secretsIn } from "@akasha/pages/page-secret"
+import { secretsIn } from "akasha/pages/secret/page-secret.module.code.ts"
 import { credentialOf } from "../../../models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import {
   DOORS as PUSH_DOORS,

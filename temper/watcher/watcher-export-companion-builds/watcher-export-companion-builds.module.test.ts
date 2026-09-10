@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Page } from "@akasha/pages/core/page-types"
-import { asPage } from "@akasha/pages/core/page-types"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { asPage } from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type {
   SignedInAnswer,
   SignedInReader,

@@ -1,7 +1,7 @@
 import { dirname } from "node:path"
 import { calledIn } from "@akasha/code/package-manifest"
-import { besideAt } from "@akasha/pages/page-file-name"
-import { textAt, type Value } from "@akasha/pages/page-value"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 export const HELD = "held-addon"

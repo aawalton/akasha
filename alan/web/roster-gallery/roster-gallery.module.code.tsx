@@ -1,4 +1,3 @@
-import { formatShortNumber as fmt } from "@akasha/pages/core/property-types/number"
 import { DegradingImage } from "@akasha/pages-ui/components/degrading-image"
 import { BASE_IMAGE_ID } from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
@@ -10,6 +9,7 @@ import {
 } from "akasha/design/primitives/dialog/dialog.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { formatShortNumber as fmt } from "akasha/pages/core/property-types/number/number.module.code.ts"
 import { useEffect, useSyncExternalStore } from "react"
 import {
   ensureCatalogLoaded,

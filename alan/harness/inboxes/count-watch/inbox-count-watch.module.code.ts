@@ -1,8 +1,12 @@
 import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { indexValue } from "@akasha/indexes/value/page"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
 import {
   NO_SECRET_TO_CARRY_ON,

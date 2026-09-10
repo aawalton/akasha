@@ -1,7 +1,7 @@
 import { basename, dirname } from "node:path"
-import { partedIn, sectionedIn } from "@akasha/pages/page-file-name"
-import { kindsUnder } from "@akasha/pages/page-type-descent"
-import type { Value } from "@akasha/pages/page-value"
+import { partedIn, sectionedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { kindsUnder } from "akasha/pages/types/descent/page-type-descent.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
   everyOfType,
   idsNaming,

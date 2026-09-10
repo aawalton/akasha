@@ -8,8 +8,8 @@ import {
   typed,
   typingOver,
 } from "@akasha/code/code-typing"
-import { exportedAs } from "@akasha/pages/page-export-name"
-import { partedIn } from "@akasha/pages/page-file-name"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import ts from "typescript"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {

@@ -1,8 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { valuesByPath } from "@akasha/indexes"
-import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
-import { numberAt, textIn, textsAt, type Value } from "@akasha/pages/page-value-reading"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   mountainWallAt,
@@ -11,6 +9,13 @@ import {
 } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
 import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
+import {
+  numberAt,
+  textIn,
+  textsAt,
+  type Value,
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   type ActivityDifficulty,
   difficultyForTitle,

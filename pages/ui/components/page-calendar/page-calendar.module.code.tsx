@@ -1,12 +1,5 @@
 "use client"
 
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import {
-  buildMonthGrid,
-  CALENDAR_WEEKDAY_LABELS,
-  monthKeyOf,
-  shiftMonth,
-} from "@akasha/pages/core/view/calendar-grid"
 import { usePageCalendarState } from "@akasha/pages-ui/components/use-page-calendar-state"
 import type { PageRow } from "@akasha/pages-ui/components/view-engine/view-row"
 import { DndContext, DragOverlay, useDraggable } from "@dnd-kit/core"
@@ -24,6 +17,13 @@ import {
   PopoverTrigger,
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import {
+  buildMonthGrid,
+  CALENDAR_WEEKDAY_LABELS,
+  monthKeyOf,
+  shiftMonth,
+} from "akasha/pages/core/view/calendar-grid/calendar-grid.module.code.ts"
 import { Calendar as CalendarIcon, ChevronLeft, ChevronRight } from "lucide-react"
 import {
   type KeyboardEvent as ReactKeyboardEvent,

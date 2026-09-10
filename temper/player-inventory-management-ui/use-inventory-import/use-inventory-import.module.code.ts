@@ -1,13 +1,13 @@
 "use client"
 
-import { createPage } from "@akasha/pages/access/create"
-import { deletePage } from "@akasha/pages/access/delete"
-import { NEVER_MATCH_VALUE } from "@akasha/pages/access/sentinels"
-import { upsertPage } from "@akasha/pages/access/upsert"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
+import { createPage } from "akasha/pages/access/create/create.module.code.ts"
+import { deletePage } from "akasha/pages/access/deleting/deleting.module.code.ts"
+import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"
 import { computeInventoryTotalValue } from "akasha/temper/items-core/inventory-value/inventory-value.module.code.ts"
 import {

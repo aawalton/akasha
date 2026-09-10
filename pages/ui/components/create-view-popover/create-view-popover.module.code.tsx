@@ -1,7 +1,5 @@
 "use client"
 
-import type { ViewDataJSON } from "@akasha/pages/core/schema/view-data"
-import { defaultViewData, stripLockedFacet } from "@akasha/pages/core/schema/view-data"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
 import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
@@ -10,6 +8,11 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "akasha/design/primitives/popover/popover.module.code.tsx"
+import type { ViewDataJSON } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import {
+  defaultViewData,
+  stripLockedFacet,
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { Plus } from "lucide-react"
 import { useEffect, useRef, useState } from "react"
 

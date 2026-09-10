@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import type { Change } from "@akasha/pages/change"
-import { shadowFor } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { declaring, landing, pathFor } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { keyNamesOneProperty } from "./key-names-one-property.code-check.check.code.ts"

@@ -1,6 +1,6 @@
 import { namesIn } from "@akasha/indexes/reaching"
-import { textAt, type Value } from "@akasha/pages/page-value"
-import type { Shadow } from "@akasha/pages/shadow"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 export const ADDRESS = "email-address-property"

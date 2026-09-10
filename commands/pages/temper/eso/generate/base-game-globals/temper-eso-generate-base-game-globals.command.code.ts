@@ -2,7 +2,7 @@ import { readFileSync, realpathSync, statSync } from "node:fs"
 import { resolve } from "node:path"
 import type { SeriesSpec } from "@akasha/code/name-series"
 import { byteLength, renderSeries, stageSeries } from "@akasha/code/name-series"
-import { codeRoot } from "@akasha/pages/code-root"
+import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,

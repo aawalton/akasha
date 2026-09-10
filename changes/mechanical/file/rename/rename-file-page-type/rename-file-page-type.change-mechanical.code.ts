@@ -1,5 +1,5 @@
 import { extname } from "node:path"
-import { besideAt, partedIn } from "@akasha/pages/page-file-name"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { typedAs } from "../../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"

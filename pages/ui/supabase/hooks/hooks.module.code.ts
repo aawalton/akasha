@@ -1,13 +1,5 @@
 "use client"
 
-import { flattenRow } from "@akasha/pages/access/routing-core"
-import { NEVER_MATCH_VALUE } from "@akasha/pages/access/sentinels"
-import type { PageWhere } from "@akasha/pages/core/page-types"
-import {
-  createIdSuffixPipeline,
-  type IdSuffixResult,
-} from "@akasha/pages/ui-store/query/id-suffix-pipeline"
-import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
 import {
   collectRelatedIds,
@@ -21,6 +13,14 @@ import {
 import { getRelatedPagesByIdCoalesced } from "@akasha/pages-ui/supabase/related-pages-coalesce"
 import { type UsePagesSupabaseOptions, usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { isRecord } from "@akasha/utils/narrow/is-record"
+import { flattenRow } from "akasha/pages/access/routing-core/routing-core.module.code.ts"
+import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import type { PageWhere } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import {
+  createIdSuffixPipeline,
+  type IdSuffixResult,
+} from "akasha/pages/ui-store/query/id-suffix-pipeline/id-suffix-pipeline.module.code.ts"
+import type { PageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 export function usePageByIdSuffix({

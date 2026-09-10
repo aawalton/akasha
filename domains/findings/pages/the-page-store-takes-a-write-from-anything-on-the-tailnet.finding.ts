@@ -5,7 +5,7 @@ export const thePageStoreTakesAWriteFromAnythingOnTheTailnet = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-page-store-takes-a-write-from-anything-on-the-tailnet",
-  domain: "workspace-package/page",
+  domain: "domain/page",
   claim:
     "The page store's `/write` route asks a caller for nothing, so anything reaching it over the tailnet can write any file under `akasha` and land a git commit, and the `writer` it names is taken as the author of that commit without being checked. The house network no longer reaches it, so what is open to this is Alan's own devices and whatever the cluster lets through the tailnet egress. The bind was fixed tonight and asking for a credential was not.",
   evidence:

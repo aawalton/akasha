@@ -1,12 +1,12 @@
 "use client"
 
-import { patchPage } from "@akasha/pages/access/patch"
-import { NEVER_MATCH_VALUE } from "@akasha/pages/access/sentinels"
-import { upsertPage } from "@akasha/pages/access/upsert"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
+import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
+import { upsertPage } from "akasha/pages/access/upsert/upsert.module.code.ts"
 import type { ProfileMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { useCallback, useMemo } from "react"
 

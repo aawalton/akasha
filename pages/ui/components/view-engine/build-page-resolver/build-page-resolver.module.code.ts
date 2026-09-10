@@ -1,9 +1,9 @@
-import { colorRuleVariantSchema } from "@akasha/pages/core/schema/color-rule-variant"
 import type {
   PageResolverEntry,
   PageResolverValue,
 } from "@akasha/pages-ui/contexts/page-resolver-context"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
+import { colorRuleVariantSchema } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
 
 export function buildPageResolver(
   pageSets: readonly (readonly PageWithProperties[])[],

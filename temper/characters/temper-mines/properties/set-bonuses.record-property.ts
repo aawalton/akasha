@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages/page-property"
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
+import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 import type { Description } from "../../../../pages/properties/description.text-property.ts"
 import type { IsPerfected } from "./is-perfected.boolean-property.ts"
 import type { NumRequired } from "./num-required.number-property.ts"

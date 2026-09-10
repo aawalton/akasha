@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import type { Computed, Reach } from "@akasha/pages/page-computing"
-import { computingOver } from "@akasha/pages/page-computing"
+import type { Computed, Reach } from "akasha/pages/computing/page-computing.module.code.ts"
+import { computingOver } from "akasha/pages/computing/page-computing.module.code.ts"
 import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
 import { work } from "./effective-five-hour-usage.computed-property.code.ts"
 import { work as sevenDay } from "./effective-seven-day-usage.computed-property.code.ts"

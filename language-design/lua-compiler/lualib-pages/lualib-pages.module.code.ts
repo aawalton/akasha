@@ -1,6 +1,6 @@
 import { existsSync, realpathSync } from "node:fs"
 import { basename, join, resolve } from "node:path"
-import { textAt, valueAt } from "@akasha/pages/page-value"
+import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 
 const PAGE = ".lualib.ts"

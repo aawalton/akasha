@@ -11,9 +11,9 @@ import {
   rebuiltApart,
   rebuiltIn,
 } from "@akasha/indexes/testing"
-import { id as idPage } from "@akasha/pages/page/id"
-import { slug as slugPage } from "@akasha/pages/page/slug"
-import { textProperty } from "@akasha/pages/text-property"
+import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
+import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
+import { textProperty } from "akasha/pages/text-properties/text-property.page-type.ts"
 import { said as git } from "../../../git/running/git-running.module.code.ts"
 import type { Given } from "../../modules/calling/calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../modules/cli/cli.module.code.ts"

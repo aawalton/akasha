@@ -1,7 +1,10 @@
-import type { PageCondition, PageWhere } from "@akasha/pages/core/page-types"
-import { isBlocksValueEmpty } from "@akasha/pages/core/property-types/rich-document"
-import type { PropertyValue } from "@akasha/pages/core/property-types/types"
-import { pageHasNonEmptyContentKey } from "@akasha/pages/core/schema/content-tier"
+import type {
+  PageCondition,
+  PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
+import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
+import { isBlocksValueEmpty } from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
+import { pageHasNonEmptyContentKey } from "akasha/pages/core/schema/content-tier/content-tier.module.code.ts"
 import { asRecord } from "../../collection/page-row/page-row.module.code.ts"
 
 function asPropertyValue(v: unknown): PropertyValue {

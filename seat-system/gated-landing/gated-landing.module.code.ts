@@ -1,6 +1,6 @@
-import { resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { resolveRoots, rootFor } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 export type GatedRepo = "akasha"
 

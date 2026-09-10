@@ -1,5 +1,5 @@
-import { RosterUnreachable } from "@akasha/pages/access/file-read"
 import type { Collection } from "@tanstack/db"
+import { RosterUnreachable } from "akasha/pages/access/file-read/file-read.module.code.ts"
 import { emitStoreDiagnostic } from "../../diagnostics/diagnostics.module.code.ts"
 import {
   computeProactiveRefreshDelayMs,

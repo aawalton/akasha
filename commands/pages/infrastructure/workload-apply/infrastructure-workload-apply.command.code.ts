@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { textAt, valueAt } from "@akasha/pages/page-value"
+import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   CLUSTER_SERVICE_SUFFIX,
   codeBeside,

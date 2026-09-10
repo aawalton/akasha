@@ -1,4 +1,4 @@
-import type { Page } from "@akasha/pages/core/page-types"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
 
 export interface ContentPagePersistencePort {
   loadPages: (ids: readonly string[]) => Promise<readonly Page[]>

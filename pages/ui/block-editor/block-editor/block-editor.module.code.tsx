@@ -1,11 +1,5 @@
 "use client"
 
-import type { Block, RichDocument } from "@akasha/pages/core/property-types/rich-document"
-import {
-  applyEditorOp,
-  type EditorOp,
-  normalizeRichDocument,
-} from "@akasha/pages/core/property-types/rich-document-ops"
 import { BlockAccessoryBar } from "@akasha/pages-ui/block-editor/block-accessory-bar"
 import { BlockTree } from "@akasha/pages-ui/block-editor/block-tree"
 import { collectToggleIds } from "@akasha/pages-ui/block-editor/block-type-helpers"
@@ -19,6 +13,15 @@ import { useBlockSelection } from "@akasha/pages-ui/block-editor/use-block-selec
 import { useCoarsePointer } from "@akasha/pages-ui/block-editor/use-coarse-pointer"
 import { useKeyboardInset } from "@akasha/pages-ui/block-editor/use-keyboard-inset"
 import { useDebouncedCallback } from "akasha/design/primitives/use-debounced-callback/use-debounced-callback.module.code.ts"
+import type {
+  Block,
+  RichDocument,
+} from "akasha/pages/core/property-types/rich-document/rich-document.module.code.ts"
+import {
+  applyEditorOp,
+  type EditorOp,
+  normalizeRichDocument,
+} from "akasha/pages/core/property-types/rich-document-ops/rich-document-ops.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 import { BlockRow } from "../block-row/block-row.module.code.tsx"
 

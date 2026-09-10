@@ -2,12 +2,12 @@ import { join } from "node:path"
 import { textOf } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Schema } from "@akasha/indexes/shape"
-import type { Change } from "@akasha/pages/change"
-import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
-import { besideAt, partedIn } from "@akasha/pages/page-file-name"
-import type { Shadow } from "@akasha/pages/shadow"
-import { shadowFor } from "@akasha/pages/shadow"
 import { textOnDisk } from "@akasha/utils/fs/text-on-disk"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type {
   Adding,
   Replacing,

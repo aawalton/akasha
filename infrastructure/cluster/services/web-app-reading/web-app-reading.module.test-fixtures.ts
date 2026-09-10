@@ -1,7 +1,7 @@
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { exportedAs } from "@akasha/pages/page-export-name"
 import { said } from "@akasha/utils/run/running"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 
 const HOLD = "/var/tmp"
 const PREFIX = "akasha-web-app-"

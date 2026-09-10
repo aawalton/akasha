@@ -1,13 +1,13 @@
 "use client"
 
-import { resolveComputedProperty } from "@akasha/pages/core/property-types/resolve-computed-type"
+import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
+import { EmptyBadge } from "akasha/design/badges/empty-badge/empty-badge.module.code.tsx"
+import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
+import { resolveComputedProperty } from "akasha/pages/core/property-types/resolve-computed-type/resolve-computed-type.module.code.ts"
 import {
   type PageTypePropertiesMap,
   parseRollupConfig,
-} from "@akasha/pages/core/property-types/rollup"
-import type { PropertyDefinition } from "@akasha/pages/core/types"
-import type { PropertyBadgeProps } from "@akasha/pages-ui/components/property-badge"
-import { EmptyBadge } from "akasha/design/badges/empty-badge/empty-badge.module.code.tsx"
+} from "akasha/pages/core/property-types/rollup/rollup.module.code.ts"
 import type * as React from "react"
 
 export function ComputedPropertyBadge(props: PropertyBadgeProps) {

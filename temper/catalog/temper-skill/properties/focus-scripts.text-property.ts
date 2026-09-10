@@ -1,5 +1,5 @@
-import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
 
 export type FocusScript = string
 export type FocusScripts = List<FocusScript>

@@ -1,6 +1,4 @@
 import { readingIn } from "@akasha/indexes"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { valueAt } from "@akasha/pages/page-value"
 import {
   DOORS,
   fileRefreshedFrom,
@@ -11,6 +9,12 @@ import {
   DOORS as EFFECT_DOORS,
   markedOn,
 } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "../../oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   type SupervisorOAuthProxyHandle,

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Value } from "@akasha/pages/page-value"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { runChange as addRecord } from "../../../mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {

@@ -1,5 +1,5 @@
 import { lineOf, parsedAs } from "@akasha/code/code-source"
-import { partedIn } from "@akasha/pages/page-file-name"
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import ts from "typescript"
 
 const CODE = "code"

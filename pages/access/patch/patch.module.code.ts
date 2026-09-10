@@ -1,5 +1,9 @@
-import { asPage, type Page, type PageWhere } from "@akasha/pages/core/page-types"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import {
+  asPage,
+  type Page,
+  type PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
 import { patchFilePages, refuseJsonPatch } from "../file-write/file-write.module.code.ts"
 import {
   enforcePipelineScope,

@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { ownRepoRoot } from "@akasha/pages/checkout-roots"
+import { ownRepoRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { logWriter } from "akasha/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts"
 import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
 import {

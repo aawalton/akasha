@@ -2,12 +2,16 @@ import { existsSync, mkdirSync } from "node:fs"
 import { appendFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
 import { typeSlugOf } from "@akasha/indexes"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
-import { exportedAs } from "@akasha/pages/page-export-name"
-import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
 import { sizeOnDisk } from "@akasha/utils/fs/file-size"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

@@ -1,5 +1,8 @@
-import type { PageOrder, PageSelect } from "@akasha/pages/access/types"
-import type { PageCondition, PageWhere } from "@akasha/pages/core/page-types"
+import type { PageOrder, PageSelect } from "akasha/pages/access/types/types.module.code.ts"
+import type {
+  PageCondition,
+  PageWhere,
+} from "akasha/pages/core/page-types/page-types.module.code.ts"
 import type { ShapeDescriptor } from "../../collection/shape-descriptor/shape-descriptor.module.code.ts"
 
 export type UsePagesOptions = {

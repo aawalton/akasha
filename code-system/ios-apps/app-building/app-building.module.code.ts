@@ -1,7 +1,7 @@
 import { dirname } from "node:path"
 import { indexThere, listedAt } from "@akasha/indexes"
-import { besideAt } from "@akasha/pages/page-file-name"
-import { slugOf, textAt, type Value, valueAt } from "@akasha/pages/page-value"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { slugOf, textAt, type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { quoted } from "akasha/shell/quoting/quoting.module.code.ts"
 
 export const SHARED_PATHS: readonly string[] = [

@@ -2,10 +2,10 @@ import { dirname, relative } from "node:path"
 import { textOf } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
 import { everyOfType } from "@akasha/indexes"
-import type { Change } from "@akasha/pages/change"
-import { besideAt, partedIn } from "@akasha/pages/page-file-name"
-import type { Shadow } from "@akasha/pages/shadow"
-import { shadowFor } from "@akasha/pages/shadow"
+import type { Change } from "akasha/pages/change/change.module.code.ts"
+import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
+import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
 import type {
   Adding,
   Replacing,

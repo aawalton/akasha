@@ -1,7 +1,5 @@
 "use client"
 
-import { createPage } from "@akasha/pages/access/create"
-import { patchPage } from "@akasha/pages/access/patch"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
@@ -22,6 +20,8 @@ import { ScrollArea } from "akasha/design/primitives/scroll-area/scroll-area.mod
 import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { createPage } from "akasha/pages/access/create/create.module.code.ts"
+import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { useCallback, useEffect, useState } from "react"
 import { toast } from "sonner"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"

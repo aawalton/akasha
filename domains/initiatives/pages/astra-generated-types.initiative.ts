@@ -5,7 +5,7 @@ export const astraGeneratedTypes = {
   pageTypeSlug: "initiative",
   type: "initiative",
   slug: "astra-generated-types",
-  domain: "workspace-package/page",
+  domain: "domain/page",
   persona: "astra",
   constraints: [
     "A type moving out of a page's file is followed by every importer rather than by an alias.",

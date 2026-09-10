@@ -1,10 +1,14 @@
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
   fiveHourSpent,
   type Reading,
   readingsIn,
   sevenDaySpent,
 } from "akasha/agents/claude-accounts/modules/measuring/claude-account-measuring.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 
 export interface Mean {
   readonly value: number | null

@@ -1,6 +1,6 @@
 import { textOf } from "@akasha/code/body-text"
 import { listedAt } from "@akasha/indexes"
-import { secretNamed, uncommittedNamed } from "@akasha/pages/page-file-name"
+import { secretNamed, uncommittedNamed } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { baseOf, changeOf } from "../../../commands/modules/landing/landing.module.code.ts"
 
 export type Named = {

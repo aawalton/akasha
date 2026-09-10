@@ -1,6 +1,6 @@
 import { everyPath } from "@akasha/indexes"
-import { namedUnder } from "@akasha/pages/page-file-name"
-import { shadowAt } from "@akasha/pages/shadow"
+import { namedUnder } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { shadowAt } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   DOMAIN,

@@ -1,6 +1,9 @@
-import type { Page } from "@akasha/pages/core/page-types"
-import { resolveDescendantPageTypeIds } from "@akasha/pages/core/schema/page-type-inheritance"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
+import type { Page } from "akasha/pages/core/page-types/page-types.module.code.ts"
+import { resolveDescendantPageTypeIds } from "akasha/pages/core/schema/page-type-inheritance/page-type-inheritance.module.code.ts"
+import {
+  type PageTypeSlug,
+  toPageTypeSlug,
+} from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
 import { validateTemperTitlePrefix } from "../domain-title-prefix/domain-title-prefix.module.code.ts"
 import { isFileBacked } from "../file-read/file-read.module.code.ts"
 import {

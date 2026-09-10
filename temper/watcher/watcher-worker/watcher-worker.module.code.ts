@@ -1,4 +1,4 @@
-import { akashaRoot } from "@akasha/pages/checkout-roots"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { dispatch } from "../watcher-dispatch/watcher-dispatch.module.code.ts"
 import {
   type DispatchAnswer,

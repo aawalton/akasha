@@ -1,3 +1,4 @@
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import type {
   GroupGranularity,
   ViewConfig,
@@ -5,9 +6,8 @@ import type {
   ViewFilter,
   ViewGroupSort,
   ViewSort,
-} from "@akasha/pages/core/schema/view-data"
-import { GROUP_GRANULARITIES } from "@akasha/pages/core/schema/view-data"
-import { isRecord } from "@akasha/utils/narrow/is-record"
+} from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
+import { GROUP_GRANULARITIES } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"
 import { z } from "zod"
 
 const Q_MAX_LEN = 200

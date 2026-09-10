@@ -1,7 +1,7 @@
 import { readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { id as idPage } from "@akasha/pages/page/id"
-import { valueAt } from "@akasha/pages/page-value"
+import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   aProperty,
   aType,

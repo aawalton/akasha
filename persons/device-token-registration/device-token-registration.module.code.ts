@@ -4,7 +4,7 @@ import {
   readingFor,
   type Sleeper,
   writingFor,
-} from "@akasha/pages/service/calling"
+} from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { personSlugForAccount } from "../person-enrolment/person-enrolment.module.code.ts"
 
 export const DEVICE_TOKEN_PAGE_TYPE_SLUG = "device-token"
