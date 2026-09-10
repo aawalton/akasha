@@ -21,7 +21,7 @@ export const nimueCodeCleanup = {
     {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
-        "`move-folder` at `code-system` to `code` refuses at `app-building.module.test.ts`, which spells `code-system/ios-apps/pages/alanwalton`. The guard reads only TypeScript bodies the move writes, so seven files naming `code-system` outside TypeScript stay invisible: the agent settings JSON, `provisioning-bash-env`, `temper/watcher/image/Containerfile` and three ios shell scripts. Each wants repointing inside the move.\n",
+        "`move-folder` at `code-system` to `code` refuses at `app-building.module.test.ts`, which spells `code-system/ios-apps/pages/alanwalton`. The guard reads only TypeScript bodies the move writes, so a file naming `code-system` outside TypeScript stays invisible: `biome.json`, the agent settings JSON, `temper/watcher/image/Containerfile` and three ios shell scripts. A landing adds more, `biome.json` having gained one today.\n",
     },
     {
       statement: "The code folder tree passes the folder-matches-a-shape check.",
