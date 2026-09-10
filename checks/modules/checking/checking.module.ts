@@ -90,6 +90,22 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A run handed a root runs each check's audit over that root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check with no audit beside it is run over the change even there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run handed no root runs every check over the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run over a subset of the files is a run over a change rather than an audit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check stating no input runs for every change.",
     },
     {

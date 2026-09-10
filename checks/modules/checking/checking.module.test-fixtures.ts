@@ -63,6 +63,7 @@ export function rootWith(
     readonly runsOn: readonly string[]
     readonly raw?: string
     readonly body: string
+    readonly audit?: string
   }[],
   filedUnder: PageType = CHECK_PAGE_TYPE
 ): string {
@@ -86,6 +87,9 @@ export function rootWith(
         `}\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
+    if (one.audit !== undefined) {
+      writeFileSync(join(root, `${at.slice(0, -".ts".length)}.audit.code.ts`), one.audit)
+    }
     minted = minted + 1
     const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
     const held = [{ path: at, id }]
@@ -106,6 +110,11 @@ export const REFUSES_ALL =
   "}\n"
 
 export const ADMITS_ALL = `export function admitsAll() {\n  return []\n}\n`
+
+export const AUDITS = "audits-root"
+
+export const AUDITS_ROOT =
+  "export function auditsRoot(root) {\n" + '  return [{ path: "held", reason: root }]\n' + "}\n"
 
 export const THROWS = `export function throws() {\n  throw new Error("could not look")\n}\n`
 

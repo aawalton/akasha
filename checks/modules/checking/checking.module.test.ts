@@ -8,6 +8,8 @@ import { checkPagesIn, checksAt, checksFor, checksIn, judgingBy } from "./checki
 import {
   ADMITS,
   ADMITS_ALL,
+  AUDITS,
+  AUDITS_ROOT,
   BOTH_CHECKS,
   CHECK_TYPE,
   checkAt,
@@ -210,6 +212,24 @@ test("checks standing but none at a phase leaves that phase empty rather than re
   const every = checksIn(root)
   expect(every.map((one) => one.slug)).toEqual(["admits-all"])
   expect(judgingBy(checksAt(every, "patch"), "patch").named).toEqual([])
+})
+
+test("a check handed a root is run at audit by the audit beside it rather than over the change", async () => {
+  const root = rootWith([{ slug: AUDITS, runsOn: ["audit"], body: ADMITS_ALL, audit: AUDITS_ROOT }])
+  writeFileSync(join(root, ONE_TS), "one")
+  const gate = judgingBy(checksAt(checksIn(root), "audit"), "audit", root)
+  const said = await gate.over(overIn(root, [ONE_TS]))
+  expect(said.map((one) => one.reason)).toEqual([root])
+})
+
+test("a check handed no root is run over the change though an audit sits beside it", async () => {
+  const root = rootWith([
+    { slug: AUDITS, runsOn: ["audit"], body: REFUSES_ALL, audit: AUDITS_ROOT },
+  ])
+  writeFileSync(join(root, ONE_TS), "one")
+  const gate = judgingBy(checksAt(checksIn(root), "audit"), "audit")
+  const said = await gate.over(overIn(root, [ONE_TS]))
+  expect(said.map((one) => one.reason)).toEqual(["refused"])
 })
 
 test("one shadow is cast over the change and handed to every check that runs", async () => {

@@ -242,7 +242,20 @@ function threw(one: Gathered, thrown: unknown): Judged {
   }
 }
 
-export function judgingBy(every: readonly Gathered[], phase: Phase): Judging {
+type Ran = readonly Judged[] | Promise<readonly Judged[]>
+
+function auditingOver(one: Gathered, wholly: string | null): (() => Ran) | null {
+  if (wholly === null) return null
+  const audit = one.audit ?? null
+  if (audit === null) return null
+  return () => audit(wholly)
+}
+
+export function judgingBy(
+  every: readonly Gathered[],
+  phase: Phase,
+  wholly: string | null = null
+): Judging {
   return {
     named: every.map((one) => one.slug),
     checksFor: (change) => checksFor(every, change, shadowAsked(change)).map((one) => one.slug),
@@ -258,8 +271,9 @@ export function judgingBy(every: readonly Gathered[], phase: Phase): Judging {
       for (const one of checksFor(left, change, shadow)) {
         const before = opening()
         const found: Judged[] = []
+        const audit = auditingOver(one, wholly)
         try {
-          found.push(...(await one.run(change, shadow)))
+          found.push(...(await (audit === null ? one.run(change, shadow) : audit())))
         } catch (thrown) {
           found.push(threw(one, thrown))
         }
@@ -276,5 +290,5 @@ export function judgingBy(every: readonly Gathered[], phase: Phase): Judging {
 }
 
 export function auditingIn(root: string): Judging {
-  return judgingBy(checksAt(checksIn(root), "audit"), "audit")
+  return judgingBy(checksAt(checksIn(root), "audit"), "audit", root)
 }
