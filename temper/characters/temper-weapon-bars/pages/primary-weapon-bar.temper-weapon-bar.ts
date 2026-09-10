@@ -1,4 +1,4 @@
-import type { TemperWeaponBar } from "../temper-weapon-bar.page-type.ts"
+import type { TemperWeaponBar } from "../temper-weapon-bar.page-type.types.ts"
 
 export const primaryWeaponBar = {
   id: "019e4cb2-3aba-748f-9e13-2583ba1d0f3b",
