@@ -75,8 +75,11 @@ export const check = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Such a page is judged when that page is next changed, or where the check is asked for by name.",
+      statement: "Such a page is judged when that page is next changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a page is judged where the check is asked for by name.",
     },
     {
       invariantKind: "upkeep",
