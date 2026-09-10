@@ -39,7 +39,7 @@ export const costMultiplier = {
     },
     {
       invariantKind: "absence",
-      statement: "This readout names no scale, because its color is read with the surplus.",
+      statement: "This readout names no scale.",
     },
     {
       invariantKind: "absence",
