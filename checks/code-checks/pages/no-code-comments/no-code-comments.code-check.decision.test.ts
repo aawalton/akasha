@@ -1,0 +1,166 @@
+import { expect, test } from "bun:test"
+import {
+  commentsIn,
+  reasonsIn,
+  styleCommentsIn,
+} from "./no-code-comments.code-check.decision.code.ts"
+import { AT, dressed, given, ROOT } from "./no-code-comments.code-check.decision.test-fixtures.ts"
+
+test("a file carrying no comment is let through", () => {
+  expect(reasonsIn(given('export const one = "held"\n'))).toEqual([])
+})
+
+test("a line of prose is refused, and names the line it sits on", () => {
+  const body = ["export const one = 1", "// this holds the count", "export const two = 2"].join(
+    "\n"
+  )
+  const said = reasonsIn(given(`${body}\n`))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 2")
+  expect(said[0]).toContain("prose")
+})
+
+test("a block of prose is refused once rather than once a line", () => {
+  const said = reasonsIn(given("/*\n * one\n * two\n */\nexport const one = 1\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 1")
+})
+
+test("a declared form is let through", () => {
+  const body = [
+    "// @ts-expect-error the call is wrong on purpose",
+    "// biome-ignore lint/style/noVar: held",
+    '/// <reference types="bun" />',
+    "// @deprecated use the other one",
+    "export const one = 1",
+  ].join("\n")
+  expect(reasonsIn(given(`${body}\n`))).toEqual([])
+})
+
+test("a form another language parses represents nothing in a TypeScript folder", () => {
+  const body = ["// shellcheck disable=SC2086", "// @noSelfInFile", "export const one = 1"].join(
+    "\n"
+  )
+  expect(reasonsIn(given(`${body}\n`))).toHaveLength(2)
+})
+
+test("a directive nothing declares is told apart from prose", () => {
+  const body = "// eslint-disable-next-line no-console\nexport const one = 1\n"
+  const said = reasonsIn(given(body))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("a directive nothing declares")
+})
+
+test("text shaped like a comment inside a string literal is not a comment", () => {
+  const body = [
+    'export const one = "// not a comment"',
+    "export const two = `/* nor this */`",
+    "export const three = '#! nor this'",
+  ].join("\n")
+  expect(reasonsIn(given(`${body}\n`))).toEqual([])
+})
+
+test("text shaped like a comment inside a regex is not a comment", () => {
+  const body = ["export const one = /^\\/\\/ held/", "export const two = /[/*]held/"].join("\n")
+  expect(reasonsIn(given(`${body}\n`))).toEqual([])
+})
+
+test("a comment trailing code on the same line is found", () => {
+  const said = reasonsIn(given("export const one = 1 // the count\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 1")
+})
+
+test("a comment after the last statement is found", () => {
+  const said = reasonsIn(given("export const one = 1\n// nothing follows this\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 2")
+})
+
+test("a shebang on the first line is trivia rather than a comment", () => {
+  const body = "#!/usr/bin/env bun\nexport const one = 1\n"
+  expect(commentsIn(AT, body)).toEqual([])
+  expect(reasonsIn(given(body))).toEqual([])
+})
+
+test("a form is let through only where it is alone, never buried in prose", () => {
+  const body =
+    "/*\n * @deprecated use the other one\n * and this line is prose\n */\nexport const one = 1\n"
+  expect(reasonsIn(given(body))).toHaveLength(1)
+})
+
+test("a block comment holding one declared form on its own is let through", () => {
+  expect(reasonsIn(given("/** @deprecated use the other one */\nexport const one = 1\n"))).toEqual(
+    []
+  )
+})
+
+test("every comment a file carries is reported, one reason each", () => {
+  const body = ["// one", "export const held = 1", "// two", "export const kept = 2"].join("\n")
+  expect(reasonsIn(given(`${body}\n`))).toHaveLength(2)
+})
+
+test("a file that is not TypeScript is passed over", () => {
+  const held = {
+    root: ROOT,
+    path: "akasha/notes.md",
+    bytes: new TextEncoder().encode("// prose\n"),
+  }
+  expect(reasonsIn(held)).toEqual([])
+})
+
+test("a body that is not text refuses rather than being passed over", () => {
+  const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
+  expect(() => reasonsIn(held)).toThrow("akasha/raw.ts")
+  expect(() => reasonsIn(held)).toThrow("not valid UTF-8")
+})
+
+test("a stylesheet carrying no comment is let through", () => {
+  expect(reasonsIn(dressed(".held {\n  color: red;\n}\n"))).toEqual([])
+})
+
+test("prose in a stylesheet is refused, and names the line it sits on", () => {
+  const body = [".held {", "  /* this holds the color */", "  color: red;", "}"].join("\n")
+  const said = reasonsIn(dressed(`${body}\n`))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 2")
+  expect(said[0]).toContain("prose")
+})
+
+test("a block of prose in a stylesheet is refused once rather than once a line", () => {
+  const said = reasonsIn(dressed("/*\n one\n two\n*/\n.held {\n  color: red;\n}\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 1")
+})
+
+test("a comment after a stylesheet rule names the line it sits on", () => {
+  const said = reasonsIn(dressed(".held {\n  color: red;\n}\n/* nothing follows */\n"))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("line 4")
+})
+
+test("text shaped like a comment inside a stylesheet string is not a comment", () => {
+  const body = [".held::after {", '  content: "/* not a comment */";', "}"].join("\n")
+  expect(reasonsIn(dressed(`${body}\n`))).toEqual([])
+})
+
+test("a quote escaped inside a stylesheet string leaves the string open", () => {
+  const body = [".held::after {", '  content: "a \\" /* not a comment */ b";', "}"].join("\n")
+  expect(styleCommentsIn(`${body}\n`)).toEqual([])
+})
+
+test("a stylesheet comment never closed is read to the end of the body", () => {
+  const said = styleCommentsIn(".held {\n  color: red;\n}\n/* opened and left open\n")
+  expect(said).toHaveLength(1)
+  expect(said[0]?.line).toBe(4)
+})
+
+test("a suppression a stylesheet linter parses is let through", () => {
+  const body = ["/* biome-ignore lint/suspicious/noEmptyBlock: held */", ".held {", "}"].join("\n")
+  expect(reasonsIn(dressed(`${body}\n`))).toEqual([])
+})
+
+test("every comment a stylesheet carries is reported, one reason each", () => {
+  const body = ["/* one */", ".held {", "  color: red;", "}", "/* two */"].join("\n")
+  expect(reasonsIn(dressed(`${body}\n`))).toHaveLength(2)
+})

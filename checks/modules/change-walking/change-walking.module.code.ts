@@ -229,19 +229,34 @@ export function overEachFile(
   return said
 }
 
-export function overEveryText(
+function overEvery(
   root: string,
+  taken: (path: string) => boolean,
   judge: (path: string, text: string) => readonly string[]
 ): readonly Judged[] {
   const change = everythingIn(root)
   const said: Judged[] = []
   for (const path of change.changed) {
-    if (!textNamed(path)) continue
+    if (!taken(path)) continue
     const text = textIn(change, path)
     if (text === null) continue
     for (const reason of judge(path, text)) said.push({ path, reason })
   }
   return said
+}
+
+export function overEveryText(
+  root: string,
+  judge: (path: string, text: string) => readonly string[]
+): readonly Judged[] {
+  return overEvery(root, textNamed, judge)
+}
+
+export function overEveryBody(
+  root: string,
+  judge: (path: string, text: string) => readonly string[]
+): readonly Judged[] {
+  return overEvery(root, bodyNamed, judge)
 }
 
 export async function overEveryTextAsync(

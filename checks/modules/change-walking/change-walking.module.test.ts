@@ -16,6 +16,7 @@ import {
   onDisk,
   overEachFile,
   overEachText,
+  overEveryBody,
   overEveryText,
   overEveryTextAsync,
   PAGES,
@@ -295,6 +296,16 @@ test("a walk over every text reads each body in the tree and names the path a re
   expect(every).toContain(STRAY_AT)
   expect(every).not.toContain(KEPT_AT)
   expect(every).not.toContain(BUILT_AT)
+})
+
+test("a walk over every body reads a stylesheet as readily as a text, and no other file", () => {
+  const root = treeWorld()
+  const style = "akasha/checks-system/change-walking/held/held.module.styles.css"
+  writeFileSync(join(root, style), ".held {\n  color: red;\n}\n")
+  const every = overEveryBody(root, (path) => [path]).map((one) => one.path)
+  expect(every).toContain(CODE_AT)
+  expect(every).toContain(style)
+  expect(every).not.toContain(".gitignore")
 })
 
 test("a walk over every text awaits each judgement where the judge answers with a promise", async () => {
