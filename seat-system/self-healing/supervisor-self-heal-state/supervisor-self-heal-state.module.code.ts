@@ -152,29 +152,29 @@ export function teardownVersionSubscription(): undefined {
   }
 }
 
-export function _setKillSelfForTesting(fn: (signal: NodeJS.Signals) => boolean): undefined {
+export function setKillSelfForTesting(fn: (signal: NodeJS.Signals) => boolean): undefined {
   selfHealState.killSelf = fn
 }
 
-export function _setRunInstallForTesting(fn: SelfHealRunInstall): undefined {
+export function setRunInstallForTesting(fn: SelfHealRunInstall): undefined {
   selfHealState.runInstall = fn
 }
 
-export function _setScheduleReExecForTesting(
+export function setScheduleReExecForTesting(
   fn: (cb: () => void, delayMs: number) => void
 ): undefined {
   selfHealState.scheduleReExec = fn
 }
 
-export function _setRandomFloatForTesting(fn: () => number): undefined {
+export function setRandomFloatForTesting(fn: () => number): undefined {
   selfHealState.randomFloat = fn
 }
 
-export function _setArmReExecGateForTesting(fn: ArmReExecGate): undefined {
+export function setArmReExecGateForTesting(fn: ArmReExecGate): undefined {
   selfHealState.armReExecGate = fn
 }
 
-export function _setSelfHealRuleSourcesForTesting(sources: {
+export function setSelfHealRuleSourcesForTesting(sources: {
   selfHealJitterRule: SelfHealJitterRuleSource
   deferredRestartRule: DeferredRestartRuleSource
 }): undefined {
@@ -182,7 +182,7 @@ export function _setSelfHealRuleSourcesForTesting(sources: {
   selfHealState.deferredRestartRuleForSelfHeal = sources.deferredRestartRule
 }
 
-export function _resetSelfHealStateForTesting(): undefined {
+export function resetSelfHealStateForTesting(): undefined {
   selfHealState.pendingReExec = false
   selfHealState.reExecScheduled = false
   selfHealState.installInFlight = false
