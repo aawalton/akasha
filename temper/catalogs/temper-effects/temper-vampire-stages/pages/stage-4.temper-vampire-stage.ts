@@ -1,4 +1,4 @@
-import type { TemperVampireStage } from "../temper-vampire-stage.page-type.ts"
+import type { TemperVampireStage } from "../temper-vampire-stage.page-type.types.ts"
 
 export const stage4 = {
   id: "019e21f4-0ab2-7090-a9e3-d24e60e0a689",
