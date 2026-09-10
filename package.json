@@ -51,7 +51,6 @@
     "@akasha/design-system": "workspace:*",
     "react-dom": "^18 || ^19",
     "@akasha/cluster-manifests": "workspace:*",
-    "@akasha/talos": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/object-store": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",

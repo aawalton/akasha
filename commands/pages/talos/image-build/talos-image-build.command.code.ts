@@ -1,10 +1,19 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { buildSchematic } from "@akasha/talos/build-schematic"
-import { emitSchematicYaml } from "@akasha/talos/emit-yaml"
-import { installerIsoUrl, registerSchematic } from "@akasha/talos/factory"
-import { getClusterForNode, getNode } from "@akasha/talos/nodes"
-import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
+import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
+import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
+import {
+  installerIsoUrl,
+  registerSchematic,
+} from "akasha/infrastructure/cluster/provisioning/talos/factory/factory.module.code.ts"
+import {
+  getClusterForNode,
+  getNode,
+} from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
+import type {
+  ClusterIntent,
+  NodeIntent,
+} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 

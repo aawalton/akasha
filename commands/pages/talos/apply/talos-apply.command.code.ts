@@ -1,17 +1,30 @@
 import { existsSync } from "node:fs"
 import { chmod, copyFile, mkdir, mkdtemp, rm, writeFile } from "node:fs/promises"
 import { dirname, join } from "node:path"
-import { buildNodePatch } from "@akasha/talos/build-patch"
-import { buildSchematic } from "@akasha/talos/build-schematic"
-import { buildNodeVolumes } from "@akasha/talos/build-volumes"
-import { emitDocumentsYaml, emitPatchYaml, emitSchematicYaml } from "@akasha/talos/emit-yaml"
-import { registerSchematic } from "@akasha/talos/factory"
-import { getCluster, getNode } from "@akasha/talos/nodes"
-import { clusterSecretsSopsPath, clusterTalosconfigPath } from "@akasha/talos/paths"
-import { readRegistryCa } from "@akasha/talos/registry-ca"
-import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
-import { decryptToTmp } from "@akasha/talos/sops"
-import { runTalosctl } from "@akasha/talos/talosctl"
+import { buildNodePatch } from "akasha/infrastructure/cluster/provisioning/talos/build-patch/build-patch.module.code.ts"
+import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
+import { buildNodeVolumes } from "akasha/infrastructure/cluster/provisioning/talos/build-volumes/build-volumes.module.code.ts"
+import {
+  emitDocumentsYaml,
+  emitPatchYaml,
+  emitSchematicYaml,
+} from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
+import { registerSchematic } from "akasha/infrastructure/cluster/provisioning/talos/factory/factory.module.code.ts"
+import {
+  getCluster,
+  getNode,
+} from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
+import {
+  clusterSecretsSopsPath,
+  clusterTalosconfigPath,
+} from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
+import { readRegistryCa } from "akasha/infrastructure/cluster/provisioning/talos/registry-ca/registry-ca.module.code.ts"
+import type {
+  ClusterIntent,
+  NodeIntent,
+} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+import { decryptToTmp } from "akasha/infrastructure/cluster/provisioning/talos/sops/sops.module.code.ts"
+import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import { SCRATCH_AT } from "../../../modules/scratching/scratching.module.code.ts"

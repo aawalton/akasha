@@ -1,11 +1,20 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { buildNodePatch, PLACEHOLDER_SCHEMATIC_ID } from "@akasha/talos/build-patch"
-import { buildNodeVolumes } from "@akasha/talos/build-volumes"
-import { emitDocumentsYaml } from "@akasha/talos/emit-yaml"
-import { getClusterForNode, getNode } from "@akasha/talos/nodes"
-import { readRegistryCa } from "@akasha/talos/registry-ca"
-import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
+import {
+  buildNodePatch,
+  PLACEHOLDER_SCHEMATIC_ID,
+} from "akasha/infrastructure/cluster/provisioning/talos/build-patch/build-patch.module.code.ts"
+import { buildNodeVolumes } from "akasha/infrastructure/cluster/provisioning/talos/build-volumes/build-volumes.module.code.ts"
+import { emitDocumentsYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
+import {
+  getClusterForNode,
+  getNode,
+} from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
+import { readRegistryCa } from "akasha/infrastructure/cluster/provisioning/talos/registry-ca/registry-ca.module.code.ts"
+import type {
+  ClusterIntent,
+  NodeIntent,
+} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import { lines } from "../../../modules/yaml-lines/yaml-lines.module.code.ts"

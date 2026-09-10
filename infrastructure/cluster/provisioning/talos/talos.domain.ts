@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../../domains/domain.page-type.ts"
 
 export const talos = {
   id: "01a06813-7b0e-79e0-ae0d-60b8f8c4a138",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "talos",
   definition: "the Talos machine configuration a cluster's nodes are declared in",
-  manifest: "json",
   parts: [
     "module/build-patch",
     "module/build-schematic",
@@ -25,4 +24,4 @@ export const talos = {
     "module/wait-for-port",
     "module/talosctl",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

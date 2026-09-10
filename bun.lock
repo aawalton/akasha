@@ -29,7 +29,6 @@
         "@akasha/seat-system": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/talos": "workspace:*",
         "@akasha/testing-system": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
@@ -511,16 +510,6 @@
         "@akasha/seat-system": "workspace:*",
         "@akasha/utils": "workspace:*",
         "yaml": "^2.8.0",
-      },
-    },
-    "infrastructure/cluster/provisioning/talos": {
-      "name": "@akasha/talos",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "yaml": "^2.8.0",
-        "zod": "^4.3.6",
       },
     },
     "infrastructure/networks/auth-proxy": {
@@ -1132,8 +1121,6 @@
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:alan/harness/supabase-auth"],
 
     "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:alan/harness/supabase-rr"],
-
-    "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster/provisioning/talos"],
 
     "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
 

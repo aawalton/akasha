@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
-import { DEFAULT_CLUSTER_NAME } from "@akasha/talos/nodes"
-import { clusterTalosconfigPath } from "@akasha/talos/paths"
-import { runTalosctl } from "@akasha/talos/talosctl"
+import { DEFAULT_CLUSTER_NAME } from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
+import { clusterTalosconfigPath } from "akasha/infrastructure/cluster/provisioning/talos/paths/paths.module.code.ts"
+import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/talosctl/talosctl.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 

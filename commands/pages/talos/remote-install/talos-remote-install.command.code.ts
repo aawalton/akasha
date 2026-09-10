@@ -1,16 +1,22 @@
-import { buildSchematic } from "@akasha/talos/build-schematic"
-import { emitSchematicYaml } from "@akasha/talos/emit-yaml"
+import { buildSchematic } from "akasha/infrastructure/cluster/provisioning/talos/build-schematic/build-schematic.module.code.ts"
+import { emitSchematicYaml } from "akasha/infrastructure/cluster/provisioning/talos/emit-yaml/emit-yaml.module.code.ts"
 import {
   metalCmdlineUrl,
   metalInitramfsUrl,
   metalKernelUrl,
   metalRawXzUrl,
   registerSchematic,
-} from "@akasha/talos/factory"
-import { getClusterForNode, getNode } from "@akasha/talos/nodes"
-import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
-import { runSsh } from "@akasha/talos/ssh"
-import { waitForPort } from "@akasha/talos/wait-for-port"
+} from "akasha/infrastructure/cluster/provisioning/talos/factory/factory.module.code.ts"
+import {
+  getClusterForNode,
+  getNode,
+} from "akasha/infrastructure/cluster/provisioning/talos/nodes/nodes.module.code.ts"
+import type {
+  ClusterIntent,
+  NodeIntent,
+} from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+import { runSsh } from "akasha/infrastructure/cluster/provisioning/talos/ssh/ssh.module.code.ts"
+import { waitForPort } from "akasha/infrastructure/cluster/provisioning/talos/wait-for-port/wait-for-port.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
