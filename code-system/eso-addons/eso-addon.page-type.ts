@@ -16,7 +16,7 @@ export const esoAddon = {
     "relation-property/eso-interfaces",
     "relation-property/lua-modules",
   ],
-  extends: ["page-type/workspace-package"],
+  extends: ["page-type/domain"],
   properties: [
     { pageProperty: "file-property/addon-manifest", required: true, many: false },
     { pageProperty: "relation-property/bundle-entry", required: false, many: false },
