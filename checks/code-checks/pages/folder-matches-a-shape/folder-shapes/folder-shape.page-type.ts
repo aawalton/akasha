@@ -42,7 +42,6 @@ export const folderShape = {
     "folder-shape/sections-of-the-book-above",
     "folder-shape/sections-of-the-section-beside",
     "folder-shape/modules-only",
-    "folder-shape/one-page-with-its-properties",
     "folder-shape/a-page-with-its-parts",
     "folder-shape/a-domain-with-its-parts",
     "folder-shape/a-page-type-with-its-parts",
