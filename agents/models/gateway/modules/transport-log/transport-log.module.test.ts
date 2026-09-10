@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { existsSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { z } from "zod"
 import {
   buildShutdownFlushRegistry,
   buildStreamObserver,
@@ -22,6 +23,8 @@ const START_MS = 1_700_000_000_000
 const END_MS = START_MS + 2_500
 
 const ENCODER = new TextEncoder()
+
+const ROW = z.record(z.string(), z.unknown())
 
 const STATE: ObservedStreamState = {
   termination: "complete",
@@ -50,7 +53,7 @@ function pageAt(root: string): string {
 function rowsIn(root: string): readonly Record<string, unknown>[] {
   const found: Record<string, unknown>[] = []
   for (const line of readFileSync(join(root, ROWS), "utf8").split("\n")) {
-    if (line.length > 0) found.push(JSON.parse(line))
+    if (line.length > 0) found.push(ROW.parse(JSON.parse(line)))
   }
   return found
 }
