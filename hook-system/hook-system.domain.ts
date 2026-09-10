@@ -6,6 +6,7 @@ export const hookSystem = {
   type: "domain",
   slug: "hook-system",
   definition: "how a tool call is judged",
+  pluralSlug: "hooks",
   parts: [
     "page-type/agent-hook",
     "module/bun-calls",
