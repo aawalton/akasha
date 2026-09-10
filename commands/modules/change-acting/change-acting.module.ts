@@ -49,7 +49,11 @@ export const changeActing = {
     },
     {
       invariantKind: "departure",
-      statement: "A drop reaches the edits kept, and a take and a forget the edits handed over.",
+      statement: "A drop reaches the edits kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take and a forget reach the edits handed over.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +69,7 @@ export const changeActing = {
     },
     {
       invariantKind: "departure",
-      statement: "An act names each edit that went, because nothing puts one back.",
+      statement: "An act names each edit that went.",
     },
     {
       invariantKind: "departure",
