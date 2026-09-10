@@ -1,0 +1,13 @@
+import type { Finding } from "../finding.page-type.types.ts"
+
+export const moveCodeExportCarriesTheImportsADeclarationNamesAndNotTheSiblingsItNames = {
+  id: "01a08cbf-bb93-7c32-b7ca-04142ca15a28",
+  pageTypeSlug: "finding",
+  type: "finding",
+  slug: "move-code-export-carries-the-imports-a-declaration-names-and-not-the-siblings-it-names",
+  domain: "domain/change",
+  claim:
+    "`move-code-export` carries the imports a moved declaration names and says nothing about the declarations beside it in the body it left. A moved export reaching a sibling lands naming a symbol nothing declares, and the act reports the move as done. Separately, an export whose move would take a `type` member out of a mixed import is refused with `holds no such passage`, which names the source body rather than the import the act could not rewrite.",
+  evidence:
+    'Read 2026-09-10 while splitting `session-relationships` out of `commands/pages/track/session/check/session-rows/session-rows.module.code.ts`, on the act as of `d59695f5bbe`.\n\nWhat lands unnamed. `relationshipsFor` reaches `saidEachFor` and `RELATIONSHIP`, both exported and both staying behind; `carriedIn` reaches the exported type `Row`. Each moved with no refusal, and the landing body held `saidEachFor(argv, RELATIONSHIP)` and `row: Row` with no import naming any of the three. The act\'s own invariant covers only what the declaration imports: "The declaration is carried whole, with the imports that declaration names." A sibling is not an import, so nothing here is broken, but nothing catches it either, and the body reads as finished.\n\nThe refusal. `aliasesIn` is `export function aliasesIn(value: Value): readonly string[] { return textsAt(value, "relationshipAliases") ?? [] }`. `textsAt` and `Value` arrive in one statement, `import { numberAt, textIn, textsAt, type Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"`, and each is named by `aliasesIn` alone, so the move must take both out of the source. The act answered `holds no such passage, so nothing is changed`, four times over, before and after its callers had gone. `idsForTokens` moved in the same run and it takes `lowerUuid` out of an import of its own, so dropping a whole statement works; dropping a member from a mixed one, where one member is written `type`, does not.\n\nWhat this cost. Six of thirteen moves needed a `change-file` after them to write the imports the act had left out, and `aliasesIn` had to be lifted by hand on both sides. All thirteen were reported as landed.\n\nNot measured: I did not read the act\'s code, so I state what the act answered rather than where it decides.',
+} as const satisfies Finding
