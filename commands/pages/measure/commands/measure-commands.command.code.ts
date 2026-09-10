@@ -1,7 +1,7 @@
 import {
   linesOf,
   windowIn,
-} from "../../../../checks/modules/check-measuring/check-measuring.module.code.ts"
+} from "../../../../checks/modules/measuring/check-measuring.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { COMMAND, costsIn } from "./command-measuring/command-measuring.module.code.ts"
 

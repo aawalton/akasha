@@ -14,7 +14,7 @@ import {
   totalOf,
   underRan,
   withinOf,
-} from "../../../../../checks/modules/check-measuring/check-measuring.module.code.ts"
+} from "../../../../../checks/modules/measuring/check-measuring.module.code.ts"
 
 export const CHANGE = "change"
 

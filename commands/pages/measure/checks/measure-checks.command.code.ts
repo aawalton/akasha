@@ -2,7 +2,7 @@ import {
   chosenIn,
   costsIn,
   linesOf,
-} from "../../../../checks/modules/check-measuring/check-measuring.module.code.ts"
+} from "../../../../checks/modules/measuring/check-measuring.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 
 export function measureChecks(argv: readonly string[], given: Given): Answer {
