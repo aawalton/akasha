@@ -1,4 +1,4 @@
-import type { TemperJewelryType } from "../temper-jewelry-type.page-type.ts"
+import type { TemperJewelryType } from "../temper-jewelry-type.page-type.types.ts"
 
 export const necklace = {
   id: "019e46b4-42ab-7172-b0cb-06555bd2abb6",

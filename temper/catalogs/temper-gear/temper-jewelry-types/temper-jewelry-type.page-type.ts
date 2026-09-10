@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.types.ts"
-
-export type TemperJewelryType = TemperGearThing
 
 export const temperJewelryType = {
   id: "01a05fd1-d433-7778-b5e5-05081a435bde",
@@ -15,4 +12,5 @@ export const temperJewelryType = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/valid-slots", required: true, many: true, maxCount: null },
   ],
+  types: "ts",
 } as const satisfies PageType
