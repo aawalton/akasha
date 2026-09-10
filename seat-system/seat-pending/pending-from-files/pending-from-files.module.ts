@@ -7,11 +7,11 @@ export const pendingFromFiles = {
   slug: "pending-from-files",
   definition: "the file-backed pending components of every seat, read in one pass over the fleet",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "One reading of a seat's transcript answers the live-shell and live-subagent components.",
+      statement: "One reading of a seat's transcript answers the live-shell component.",
     },
     {
       invariantKind: "departure",
@@ -23,8 +23,21 @@ export const pendingFromFiles = {
       statement: "A live background command is a component apart from a live subagent.",
     },
     {
-      invariantKind: "absence",
-      statement: "No page under a seat is counted to find a live subagent.",
+      invariantKind: "departure",
+      statement: "A seat a subagent page names as its principal has a live subagent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat no subagent page names has no live subagent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "One read of the index answers the live-subagent component for every seat at once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating an agent id with no seat before the mark names no seat.",
     },
     {
       invariantKind: "absence",
