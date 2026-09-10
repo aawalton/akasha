@@ -1,3 +1,4 @@
+import { z } from "zod"
 import { ranAsCommandHook, SCOPE_FLAG, toldOf } from "../../hook-answer/hook-answer.module.code.ts"
 
 const HOOK = "block-combined-akasha-calls"
@@ -111,6 +112,13 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
+const CAPTURES = z.array(z.string().optional())
+
+function parseChangeOpening(opening: string): boolean | null {
+  const read = CAPTURES.safeParse(CHANGE.exec(opening))
+  return read.success ? read.data[2] !== undefined : null
+}
+
 function closedIn(lines: readonly string[], opened: boolean): boolean {
   const closings = lines.filter((line) => line === FENCE).length
   if (!opened) return closings === 0 && lines.length === 1
@@ -121,9 +129,8 @@ export function approvedForm(command: string): boolean {
   const text = command.trim()
   if (READ.test(text)) return true
   const lines = text.split("\n")
-  const opening = lines[0] ?? ""
-  const changing = CHANGE.exec(opening)
-  return changing !== null && closedIn(lines, changing[2] !== undefined)
+  const opened = parseChangeOpening(lines[0] ?? "")
+  return opened !== null && closedIn(lines, opened)
 }
 
 export function triggered(command: string): boolean {
