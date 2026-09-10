@@ -40,7 +40,6 @@ export const nimueCodeCleanup = {
     },
   ],
   constraints: [
-    "The change moving a package's folder is named `move-folder-package`, after the mode, the type and the subtype.",
     "The relative addresses reaching into the folder are repointed inside the move rather than by a landing before it.",
   ],
 } as const satisfies Initiative
