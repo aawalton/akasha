@@ -36,16 +36,10 @@ import {
 } from "../seat-resolve/seat-resolve.module.code.ts"
 import { statedNow } from "../seat-stated/seat-stated.module.code.ts"
 
-// WHAT A STATING CAME TO IS ANSWERED RATHER THAN PRINTED, AND A REFUSAL IS AN ANSWER RATHER THAN AN
-// EXIT. A supervisor states a seat's defaults while it is booting the session it holds open, so a
-// write refused here has to come back as words that caller can report on. Ending the process would
-// end the supervisor with it.
 export type SeatStated =
   | { readonly kind: "stated"; readonly report: string }
   | { readonly kind: "refused"; readonly said: string }
 
-// Each answer carries the exact bytes the command writes, so the shell over this function chooses a
-// stream and an exit code and composes nothing.
 function stated(lines: readonly string[]): SeatStated {
   return { kind: "stated", report: lines.join("\n") + "\n" }
 }
@@ -261,9 +255,6 @@ export async function run(args: Args): Promise<SeatStated> {
   ])
 }
 
-// THE ONE SHELL OVER THE STATING, so that the words a refusal answers and the words the command
-// prints cannot drift apart. The seat call is a shell over this, and this file's own entry point is
-// the same shell, which is why the help is read here rather than inside the function.
 export async function stateSeatFromArgv(argv: readonly string[]): Promise<void> {
   if (argv.includes("--help") || argv.includes("-h")) {
     process.stdout.write(SEAT_HELP)

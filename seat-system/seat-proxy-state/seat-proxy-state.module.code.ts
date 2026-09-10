@@ -17,13 +17,6 @@ export interface OAuthProxyState extends OAuthProxyStateToWrite {
   readonly supervisorPid?: number
 }
 
-// AKASHA ALONE. This laid the old sidecar over the top so that a null it held would beat whatever
-// akasha still carried, a proxy being cleared by writing null rather than by dropping the key.
-//
-// Akasha is written that null too, and `akashaObservedOf` leaves a null out rather than carrying it
-// through — so a cleared proxy arrives here as a key that is not there instead of a key that is
-// null. Every reader below already treats the two the same: an absent process key and a null one
-// both fail to parse, which is what says there is no proxy.
 function observedOf(agentId: string): Record<string, unknown> | null {
   return akashaObservedOf(agentId)
 }

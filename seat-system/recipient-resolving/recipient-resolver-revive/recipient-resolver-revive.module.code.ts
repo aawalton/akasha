@@ -43,9 +43,6 @@ export async function reviveSeat(
     })
   )
 
-  // NOTHING HERE CAN BE KILLED, SO A REVIVE THAT OUTRUNS THE TIMEOUT IS LEFT RATHER THAN ENDED. The
-  // seat was already launched before the verifying wait began, so letting go of the wait costs the
-  // tick nothing the next tick cannot pick up.
   let timer: ReturnType<typeof setTimeout> | undefined
   let settled: Came | typeof REVIVE_OUTRAN
   try {

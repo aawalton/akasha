@@ -2,7 +2,6 @@ import type { AgentActionEvent } from "@akasha/seat-system/supervisor-agent-acti
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { controlOf } from "../../seat-control/seat-control.module.code.ts"
 
-// The pages under akasha's supervisor-action page type, spelled as they are there.
 const ACTIONS: readonly AgentActionEvent["action"][] = ["restart", "restart-now", "swap-proxy"]
 
 function actionOf(value: unknown): AgentActionEvent["action"] | null {
