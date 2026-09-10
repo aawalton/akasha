@@ -13,7 +13,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/health-samples-access": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -139,13 +138,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/harness/health-samples-access": {
-      "name": "@akasha/health-samples-access",
-      "dependencies": {
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
-      },
-    },
     "alan/harness/rules-engine": {
       "name": "@akasha/rules-engine",
     },
@@ -181,7 +173,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/health-samples-access": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -621,7 +612,6 @@
     "persons": {
       "name": "@akasha/persons",
       "dependencies": {
-        "@akasha/health-samples-access": "workspace:*",
         "@akasha/pages-service": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
@@ -1015,8 +1005,6 @@
     "@akasha/errors-client": ["@akasha/errors-client@workspace:alan/harness/errors-client"],
 
     "@akasha/errors-core": ["@akasha/errors-core@workspace:alan/harness/errors-core"],
-
-    "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 

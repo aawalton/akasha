@@ -19,7 +19,6 @@
     "./person-reading": "./person-reading/person-reading.module.code.ts"
   },
   "dependencies": {
-    "@akasha/health-samples-access": "workspace:*",
     "@akasha/pages-service": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",

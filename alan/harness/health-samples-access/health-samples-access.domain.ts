@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const healthSamplesAccess = {
   id: "01a05bc7-9129-7000-a4ef-ca6a1a3463b1",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "health-samples-access",
   definition: "step and calorie readings kept on the ESO day each began in",
-  manifest: "json",
   parts: [
     "module/sample-shape",
     "module/sample-identity",
@@ -30,4 +29,4 @@ export const healthSamplesAccess = {
       statement: "A reading is read and written as a page akasha has.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

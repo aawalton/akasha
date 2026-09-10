@@ -1,5 +1,5 @@
-import { selectHealthSamples } from "@akasha/health-samples-access/sample-selecting"
-import type { HealthSampleRecord } from "@akasha/health-samples-access/sample-shape"
+import { selectHealthSamples } from "akasha/alan/harness/health-samples-access/sample-selecting/sample-selecting.module.code.ts"
+import type { HealthSampleRecord } from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
 import { spannedWindow } from "../opening-window/opening-window.module.code.ts"
 
 const DAYS_AT_ONCE = 4

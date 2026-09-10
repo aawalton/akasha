@@ -1,6 +1,6 @@
-import type { HealthSample } from "@akasha/health-samples-access/sample-shape"
-import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
 import { healthSamplesIngestSchema } from "@akasha/persons/health-samples-body"
+import type { HealthSample } from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
+import { upsertHealthSamples } from "akasha/alan/harness/health-samples-access/sample-upsert/sample-upsert.module.code.ts"
 import { resolveDeviceSecretContext } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
 import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 

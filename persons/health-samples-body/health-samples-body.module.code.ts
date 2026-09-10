@@ -1,4 +1,7 @@
-import { HEALTH_METRIC_UNIT, HEALTH_METRICS } from "@akasha/health-samples-access/sample-shape"
+import {
+  HEALTH_METRIC_UNIT,
+  HEALTH_METRICS,
+} from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
 import { z } from "zod"
 
 export const MAX_INGEST_SAMPLES = 1000

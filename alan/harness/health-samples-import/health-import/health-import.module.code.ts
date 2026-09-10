@@ -2,7 +2,7 @@ import {
   HEALTH_METRIC_UNIT,
   type HealthSample,
   type HealthMetric as StoredMetric,
-} from "@akasha/health-samples-access/sample-shape"
+} from "akasha/alan/harness/health-samples-access/sample-shape/sample-shape.module.code.ts"
 import type { HealthMetric, HealthRecord } from "../health-export/health-export.module.code.ts"
 
 export const IMPORT_METRICS: readonly HealthMetric[] = ["activeEnergy", "stepCount"]

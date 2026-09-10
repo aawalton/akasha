@@ -43,7 +43,6 @@
     "@akasha/pages-service": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-query": "workspace:*",
-    "@akasha/health-samples-access": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-system": "workspace:*",
