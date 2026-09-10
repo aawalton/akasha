@@ -68,37 +68,20 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "Each file in that judging is given the ceiling one file may spend.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file the kernel ended there is over the ceiling whatever that file spent.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The seconds answered for such a file are the seconds before the kernel ended it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file is bounded together with every process that file starts.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file spending its seconds in the commands it runs is bounded like any other.",
+      statement: "Each file in that judging runs to its own end rather than being ended part way.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A ceiling is judged against every process in the run rather than the ones the run reaped.",
+        "The seconds answered for a file are the seconds that file spent reaching its end.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The seconds a bounded run answers are the seconds that ceiling was judged against.",
+      statement: "A file's seconds are its own together with every process that file starts.",
     },
     {
-      invariantKind: "gap",
-      statement: "A machine bounding no run judges a file by the seconds that run answers.",
+      invariantKind: "departure",
+      statement: "A file over the ceiling is answered after the run rather than ended at it.",
     },
     {
       invariantKind: "departure",
@@ -107,14 +90,6 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement: "A caller naming no ceiling holds each file to the seconds one file may spend.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A caller may hold a file to no ceiling at all.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file held to no ceiling runs to its own end.",
     },
     {
       invariantKind: "departure",

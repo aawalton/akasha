@@ -12,7 +12,7 @@ export const MARKED =
 
 export const BURNS =
   'import { test } from "bun:test"\n' +
-  'test("one", () => { const until = Bun.nanoseconds() + 4e9\n' +
+  'test("one", () => { const until = Bun.nanoseconds() + 2e9\n' +
   "  while (Bun.nanoseconds() < until) {} })\n"
 
 export const SETS = "globalThis.held = true\n"

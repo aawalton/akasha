@@ -253,16 +253,10 @@ function rootsOver(over: Overlay): Readonly<Record<string, string>> {
   return held
 }
 
-function runsIn(
-  root: string,
-  argv: readonly string[],
-  ceiling: number | null,
-  over: Overlay | null
-): Said {
+function runsIn(root: string, argv: readonly string[], over: Overlay | null): Said {
   const env = over === null ? process.env : { ...process.env, ...over.env, ...rootsOver(over) }
-  const held = { cwd: root, env: { ...env, [RUNNING]: MARK } }
   const called = over === null ? [...argv] : [...over.under(argv)]
-  return ran(called, ceiling === null ? held : { ...held, cpuCeiling: ceiling })
+  return ran(called, { cwd: root, env: { ...env, [RUNNING]: MARK } })
 }
 
 function runsFor(root: string, named: readonly string[]): readonly Grouping[] {
@@ -274,7 +268,6 @@ export function spentIn(
   root: string,
   runs: readonly Grouping[],
   naming: readonly string[],
-  ceiling: number | null = CEILING,
   over: Overlay | null = null
 ): readonly Spent[] {
   const found: Spent[] = []
@@ -282,7 +275,7 @@ export function spentIn(
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const one of group.named) {
       const argv = [RUNNER, RUNS, ...preloading, ...naming, pathed(one)]
-      const done = runsIn(root, argv, ceiling, over)
+      const done = runsIn(root, argv, over)
       found.push({
         path: one,
         cpuSeconds: done.cpuSeconds,
@@ -301,8 +294,8 @@ export function slowIn(
   ceiling: number = CEILING,
   over: Overlay | null = null
 ): readonly Slowed[] {
-  return spentIn(root, runs, naming, ceiling, over)
-    .filter((one) => one.signal !== null || one.cpuSeconds > ceiling)
+  return spentIn(root, runs, naming, over)
+    .filter((one) => one.cpuSeconds > ceiling)
     .map((one) => ({ path: one.path, cpuSeconds: one.cpuSeconds }))
 }
 
@@ -317,7 +310,7 @@ export function spentOver(
 ): readonly Spent[] {
   const over = bodies === null ? null : mountedOver(root, bodies)
   try {
-    return spentIn(root, runsFor(root, named), [], null, over)
+    return spentIn(root, runsFor(root, named), [], over)
   } finally {
     over?.sweep()
   }
@@ -341,7 +334,7 @@ function ranUnder(
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const batch of batchedOf(group.named)) {
       const argv = [RUNNER, RUNS, ...preloading, ...naming, ...batch.map(pathed)]
-      const done = runsIn(root, argv, null, over)
+      const done = runsIn(root, argv, over)
       output += `${done.out}${done.err}`
       spent += done.cpuSeconds
       many += batch.length

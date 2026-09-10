@@ -212,12 +212,12 @@ check("a group past one batch is run as several, and the counts are the sum", ()
 })
 
 check(
-  "a file past the ceiling is ended there and answered by name",
+  "a file past the ceiling runs to its end and is answered with what that file spent",
   () => {
     const root = repo({ "one.test.ts": PASSES, "slow.test.ts": BURNS })
     const found = slowIn(root, groupedBy(root, ["akasha"]), [], 1)
     expect(found.map((one) => one.path)).toEqual(["akasha/slow.test.ts"])
-    expect(found[0]?.cpuSeconds).toBeLessThan(4)
+    expect(found[0]?.cpuSeconds).toBeGreaterThan(1.5)
   },
   30000
 )
