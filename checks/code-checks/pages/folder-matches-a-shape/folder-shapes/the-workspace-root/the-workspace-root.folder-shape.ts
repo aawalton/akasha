@@ -20,7 +20,11 @@ export const theWorkspaceRoot = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder has two pages, a workspace and the domain over the whole tree.",
+      statement: "The folder has two pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two pages are a workspace and the domain over the whole tree.",
     },
     {
       invariantKind: "departure",
