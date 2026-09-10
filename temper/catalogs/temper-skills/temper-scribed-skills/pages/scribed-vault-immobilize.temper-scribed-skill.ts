@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedVaultImmobilize = {
   id: "019e6471-15f0-760c-8c51-b83797d8cb4c",

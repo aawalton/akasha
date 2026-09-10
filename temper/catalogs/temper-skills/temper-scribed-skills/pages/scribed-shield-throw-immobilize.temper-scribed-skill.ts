@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedShieldThrowImmobilize = {
   id: "019e6471-15b4-78ce-8427-ae502fc45e63",

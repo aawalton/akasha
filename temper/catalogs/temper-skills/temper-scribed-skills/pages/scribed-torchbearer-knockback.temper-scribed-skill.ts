@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedTorchbearerKnockback = {
   id: "019e6471-15d2-723a-8f9d-d9a283ec54e4",

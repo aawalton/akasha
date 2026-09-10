@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedSoulBurstShockDamage = {
   id: "019e6471-15cc-7744-a5d0-5839f283cf0f",

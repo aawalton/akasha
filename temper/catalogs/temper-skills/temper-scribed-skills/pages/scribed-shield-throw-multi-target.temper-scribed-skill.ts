@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedShieldThrowMultiTarget = {
   id: "019e6471-15b7-751c-ae3d-4d690f7d56be",

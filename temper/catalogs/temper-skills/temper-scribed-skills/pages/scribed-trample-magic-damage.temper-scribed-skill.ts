@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedTrampleMagicDamage = {
   id: "019e6471-15d8-7c0e-902b-942f9adc9ad6",

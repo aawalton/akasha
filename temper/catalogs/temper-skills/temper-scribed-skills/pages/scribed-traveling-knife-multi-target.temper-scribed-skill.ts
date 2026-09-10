@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedTravelingKnifeMultiTarget = {
   id: "019e6471-15df-7596-9c06-02ab44ba7578",

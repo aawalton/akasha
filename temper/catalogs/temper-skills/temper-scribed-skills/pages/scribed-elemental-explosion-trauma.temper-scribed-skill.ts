@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedElementalExplosionTrauma = {
   id: "019e6471-15ac-73f1-aff3-6dae761ad6e7",

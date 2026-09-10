@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedBannerBearerMultiTarget = {
   id: "019e6471-159b-78eb-bd7b-bee179530341",

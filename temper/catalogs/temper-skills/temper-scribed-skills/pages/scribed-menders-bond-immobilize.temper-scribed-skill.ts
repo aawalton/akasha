@@ -1,4 +1,4 @@
-import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
+import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.types.ts"
 
 export const scribedMendersBondImmobilize = {
   id: "019e6471-15af-7e1c-b7dd-f17a36d726cf",
