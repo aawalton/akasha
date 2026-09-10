@@ -1,4 +1,4 @@
-import type { TemperInventoryChunk } from "../temper-inventory-chunk.page-type.ts"
+import type { TemperInventoryChunk } from "../temper-inventory-chunk.page-type.types.ts"
 
 export const at202608231516460 = {
   id: "01a02f39-6906-7000-9770-f2f87c2e3f71",

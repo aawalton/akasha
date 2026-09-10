@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperThing } from "../../things/temper-thing.page-type.types.ts"
-import type { ByteCount } from "./properties/byte-count.number-property.ts"
-import type { ChunkIndex } from "./properties/chunk-index.number-property.ts"
-import type { Inventory } from "./properties/inventory.relation-property.ts"
-
-export type TemperInventoryChunk = TemperThing & {
-  chunkIndex: ChunkIndex
-  inventory: Inventory
-  byteCount: ByteCount
-}
 
 export const temperInventoryChunk = {
   id: "01a05fcb-fd2f-718b-84ca-d9cdeb890706",
@@ -47,4 +37,5 @@ export const temperInventoryChunk = {
       statement: "The bytes a page here counts are in the reading's own data file.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
