@@ -61,7 +61,7 @@ export type EnsureDeps = {
   startRender: (pageId: string, segments: readonly string[]) => "started" | "unavailable"
 }
 
-const defaultDeps: EnsureDeps = {
+const DEFAULT_DEPS: EnsureDeps = {
   storedExists: storedReadAloudExists,
   startRender: (pageId, segments) => {
     const store = seaweedFSObjectStoreFromEnv()
@@ -74,7 +74,7 @@ const defaultDeps: EnsureDeps = {
 export async function ensureReadAloudRendition(
   pageId: string,
   segments: readonly string[],
-  deps: EnsureDeps = defaultDeps
+  deps: EnsureDeps = DEFAULT_DEPS
 ): Promise<EnsureStatus> {
   if (!claimRenderLock(pageId)) return "generating"
   try {
