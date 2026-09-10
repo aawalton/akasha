@@ -5,6 +5,7 @@ import {
   idOf,
   indexedRepo,
   pageOf,
+  put,
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
@@ -90,6 +91,22 @@ function rooted(body: string): string {
   return indexedRepo({ [ROOTED_PAGE]: ROOTED, [ROOTED_CODE]: body })
 }
 
+const HELD_SHELL = `${EMPTIED}/run.sh`
+
+const CARRIED_SHELL = "akasha/six/run.sh"
+
+const SHELL_CARRY = carriedOff([
+  [HELD_PAGE, CARRIED_PAGE],
+  [HELD_CODE, CARRIED_CODE],
+  [HELD_SHELL, CARRIED_SHELL],
+])
+
+function shelling(body: string): string {
+  const root = indexedRepo()
+  put(root, HELD_SHELL, body)
+  return root
+}
+
 test("a body the carry moves spelling that same folder is refused at the path it landed", () => {
   const root = indexedRepo({ [HELD_CODE]: `export const PAGES = "${PREFIX}"\n` })
 
@@ -136,4 +153,28 @@ test("a body the carry moves spelling a path under that root folder is refused",
   const root = rooted(`export const AT = "${ROOTED_CODE}"\n`)
 
   expect(judged(root, ROOTED_CARRY).refused ?? "").toContain(ROOTED_CODE)
+})
+
+test("a body the carry moves whose language is not read spelling that folder is refused", () => {
+  const root = shelling(`#!/usr/bin/env bash\nPAGES="${PREFIX}"\n`)
+
+  expect(judged(root, SHELL_CARRY).refused ?? "").toContain(CARRIED_SHELL)
+})
+
+test("a path such a body spells after a variable is read from the separator on", () => {
+  const root = shelling(`#!/usr/bin/env bash\nPAGES="$AKASHA_ROOT/${PREFIX}"\n`)
+
+  expect(judged(root, SHELL_CARRY).refused ?? "").toContain(PREFIX)
+})
+
+test("a longer name opening with that folder's name is no path naming that folder", () => {
+  const root = shelling(`#!/usr/bin/env bash\nPAGES="$AKASHA_ROOT/${EMPTIED}iric/pages"\n`)
+
+  expect(judged(root, SHELL_CARRY).refused).toBe(null)
+})
+
+test("a body whose language is not read the answer leaves alone is judged by nothing here", () => {
+  const root = shelling(`#!/usr/bin/env bash\nPAGES="${PREFIX}"\n`)
+
+  expect(judged(root, CARRY).refused).toBe(null)
 })

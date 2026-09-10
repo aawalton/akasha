@@ -69,5 +69,28 @@ export const folderNotLeftNamed = {
       invariantKind: "absence",
       statement: "Nothing here reads the working tree or the index on disk.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A body whose language is read is read as the strings that language spells.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body whose language is not read is read as the runs of path characters that body holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Such a run is read again from each separator in it, so a path spelled after a variable is read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One rule judges a string a parser found and a run this guard found.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A run that only looks like a path is read as one, and refuses where that run names the folder.",
+    },
   ],
 } as const satisfies ChangeGuard

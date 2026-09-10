@@ -13,6 +13,8 @@ const UNDER = "/"
 
 const HERE = "."
 
+const APART = /[^\w./-]+/
+
 function holdingIn(every: readonly string[]): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of every) {
@@ -50,19 +52,31 @@ function namedBy(said: string, folders: readonly string[]): string | null {
   return null
 }
 
+function tailsOf(run: string): readonly string[] {
+  const found = [run]
+  for (let at = run.indexOf(UNDER); at >= 0; at = run.indexOf(UNDER, at + 1)) {
+    found.push(run.slice(at + 1))
+  }
+  return found
+}
+
+function saidIn(path: string, text: string): readonly string[] {
+  if (typed(path)) return spelledIn(path, text).map((one) => one.text)
+  return text.split(APART).flatMap(tailsOf)
+}
+
 function spellingIn(path: string, text: string, folders: readonly string[]): string | null {
   if (!folders.some((one) => text.includes(one))) return null
-  for (const one of spelledIn(path, text)) {
-    const at = namedBy(one.text, folders)
+  for (const said of saidIn(path, text)) {
+    const at = namedBy(said, folders)
     if (at === null) continue
-    return `\`${path}\` spells \`${one.text}\`, and \`${at}\` holds nothing after`
+    return `\`${path}\` spells \`${said}\`, and \`${at}\` holds nothing after`
   }
   return null
 }
 
 function namingIn(given: Guarding, folders: readonly string[]): string | null {
   for (const [path, text] of writtenIn(given)) {
-    if (!typed(path)) continue
     const why = spellingIn(path, text, folders)
     if (why !== null) return why
   }
