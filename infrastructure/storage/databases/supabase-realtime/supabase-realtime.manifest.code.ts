@@ -4,9 +4,18 @@ import {
   colocationAffinityPreferred,
 } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
 
 const NAMESPACE = "supabase-realtime"
 const APP_LABEL = "realtime"
+const SECRETS_NAME = "realtime-secrets"
+const SECRETS_KEYS = [
+  "API_JWT_SECRET",
+  "DATABASE_URL",
+  "DB_ENC_KEY",
+  "METRICS_JWT_SECRET",
+  "SECRET_KEY_BASE",
+]
 
 const REALTIME_IMAGE = "supabase/realtime:v2.86.3"
 const ALPINE_IMAGE = "alpine:3.20.6"
@@ -176,7 +185,7 @@ function deploymentYaml(): string {
         metadata: {
           labels: RESOURCE_LABELS,
           annotations: {
-            "checksum/realtime-secrets": "bootstrap",
+            "checksum/realtime-secrets": secretChecksum(NAMESPACE, SECRETS_NAME, SECRETS_KEYS),
           },
         },
         spec: {
@@ -197,7 +206,7 @@ function deploymentYaml(): string {
                   name: "DATABASE_URL",
                   valueFrom: {
                     secretKeyRef: {
-                      name: "realtime-secrets",
+                      name: SECRETS_NAME,
                       key: "DATABASE_URL",
                     },
                   },
@@ -210,7 +219,7 @@ function deploymentYaml(): string {
                   name: "DB_ENC_KEY",
                   valueFrom: {
                     secretKeyRef: {
-                      name: "realtime-secrets",
+                      name: SECRETS_NAME,
                       key: "DB_ENC_KEY",
                     },
                   },
@@ -219,7 +228,7 @@ function deploymentYaml(): string {
                   name: "API_JWT_SECRET",
                   valueFrom: {
                     secretKeyRef: {
-                      name: "realtime-secrets",
+                      name: SECRETS_NAME,
                       key: "API_JWT_SECRET",
                     },
                   },
@@ -228,7 +237,7 @@ function deploymentYaml(): string {
                   name: "SECRET_KEY_BASE",
                   valueFrom: {
                     secretKeyRef: {
-                      name: "realtime-secrets",
+                      name: SECRETS_NAME,
                       key: "SECRET_KEY_BASE",
                     },
                   },
@@ -237,7 +246,7 @@ function deploymentYaml(): string {
                   name: "METRICS_JWT_SECRET",
                   valueFrom: {
                     secretKeyRef: {
-                      name: "realtime-secrets",
+                      name: SECRETS_NAME,
                       key: "METRICS_JWT_SECRET",
                     },
                   },
@@ -280,7 +289,7 @@ function deploymentYaml(): string {
                   name: "API_JWT_SECRET",
                   valueFrom: {
                     secretKeyRef: {
-                      name: "realtime-secrets",
+                      name: SECRETS_NAME,
                       key: "API_JWT_SECRET",
                     },
                   },
@@ -289,7 +298,7 @@ function deploymentYaml(): string {
                   name: "DATABASE_URL",
                   valueFrom: {
                     secretKeyRef: {
-                      name: "realtime-secrets",
+                      name: SECRETS_NAME,
                       key: "DATABASE_URL",
                     },
                   },
