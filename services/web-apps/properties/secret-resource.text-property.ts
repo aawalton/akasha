@@ -22,5 +22,9 @@ export const secretResource = {
       statement:
         "A web app's secret values are the values the secret pages place in this resource.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Two web apps may name one resource.",
+    },
   ],
 } as const satisfies TextProperty

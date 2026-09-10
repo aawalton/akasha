@@ -25,7 +25,10 @@ export const infrastructureDevServer = {
       said: "--seq <n>",
       takes: "the branch sequence number naming the worktree, the state file and the log",
     },
-    { said: "--app <name>", takes: "which app to act on, named as the app registry names it" },
+    {
+      said: "--app <name>",
+      takes: "which app to act on, named by the slug that app's web app page carries",
+    },
     {
       said: "--port <p>",
       takes: "the port to run on, replacing the one the base port and the seq work out",

@@ -2,6 +2,8 @@ import type { Dirent } from "node:fs"
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { numberAt, textAt } from "akasha/pages/value/page-value.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import {
   errnoCodeOf,
@@ -34,62 +36,65 @@ export interface DevServerApp {
   readonly name: string
   readonly packagePath: string
   readonly basePort: number
-  readonly extraDevArgs: readonly string[]
-  readonly devCommand: readonly string[]
   readonly secretResource: string
 }
 
-const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
-  alanwalton: {
-    name: "alanwalton",
-    packagePath: "alan/web",
-    basePort: 3000,
-    extraDevArgs: [],
-    devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
-    secretResource: "alanwalton-secrets",
-  },
-  audhdalan: {
-    name: "audhdalan",
-    packagePath: "products/audhdalan/web",
-    basePort: 3100,
-    extraDevArgs: [],
-    devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
-    secretResource: "audhdalan-secrets",
-  },
-  temper: {
-    name: "temper",
-    packagePath: "temper/temper-web",
-    basePort: 3300,
-    extraDevArgs: [],
-    devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
-    secretResource: "temper-secrets",
-  },
-  "archive-of-worlds": {
-    name: "archive-of-worlds",
-    packagePath: "products/archive-of-worlds/web",
-    basePort: 3500,
-    extraDevArgs: [],
-    devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
-    secretResource: "archive-of-worlds-secrets",
-  },
-  atlas: {
-    name: "atlas",
-    packagePath: "alan/atlas-web",
-    basePort: 3600,
-    extraDevArgs: [],
-    devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
-    secretResource: "alanwalton-secrets",
-  },
-})
+const WEB_APP = "web-app"
 
-export const APP_NAMES: readonly string[] = Object.freeze(Object.keys(APP_REGISTRY))
+const SLUG = "slug"
 
-export function lookupApp(name: string): DevServerApp {
-  const app = APP_REGISTRY[name]
-  if (!app) {
-    throw new InputError(`unknown app: ${name} (known: ${APP_NAMES.join(", ")})`)
+const SOURCE_DIRECTORY = "sourceDirectory"
+
+const BASE_PORT = "basePort"
+
+const SECRET_RESOURCE = "secretResource"
+
+type Stated = {
+  readonly packagePath: string | null
+  readonly basePort: number | null
+  readonly secretResource: string | null
+}
+
+function statedIn(root: string): ReadonlyMap<string, Stated> {
+  const found = new Map<string, Stated>()
+  for (const one of valuesOfType(root, WEB_APP)) {
+    const slug = textAt(one.value, SLUG)
+    if (slug === null) continue
+    found.set(slug, {
+      packagePath: textAt(one.value, SOURCE_DIRECTORY),
+      basePort: numberAt(one.value, BASE_PORT),
+      secretResource: textAt(one.value, SECRET_RESOURCE),
+    })
   }
-  return app
+  return found
+}
+
+export function appNamesIn(root: string): readonly string[] {
+  return [...statedIn(root).keys()].sort()
+}
+
+export function lookupApp(root: string, name: string): DevServerApp {
+  const stated = statedIn(root)
+  const said = stated.get(name)
+  if (said === undefined) {
+    const known = [...stated.keys()].sort().join(", ")
+    throw new InputError(`unknown app: ${name} (known: ${known})`)
+  }
+  if (said.packagePath === null) {
+    throw new InputError(`${name} states no source directory, so nothing says what a server runs`)
+  }
+  if (said.secretResource === null) {
+    throw new InputError(`${name} states no secret resource, so nothing says what its values are`)
+  }
+  if (said.basePort === null) {
+    throw new InputError(`${name} states no base port, so nothing says which port a server takes`)
+  }
+  return {
+    name,
+    packagePath: said.packagePath,
+    basePort: said.basePort,
+    secretResource: said.secretResource,
+  }
 }
 
 export function computePort({ basePort, seq }: { basePort: number; seq: number }): number {

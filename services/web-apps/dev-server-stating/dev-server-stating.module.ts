@@ -9,15 +9,15 @@ export const devServerStating = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An app the registry does not name is a caller's mistake.",
+      statement: "The apps are the web app pages the index names.",
     },
     {
       invariantKind: "departure",
-      statement: "An app names the cluster resource that app's secret values are placed in.",
+      statement: "An app no web app page is slugged for is a caller's mistake.",
     },
     {
       invariantKind: "departure",
-      statement: "Two apps may name one resource.",
+      statement: "A web app stating no base port has no dev server started for it.",
     },
     {
       invariantKind: "departure",
