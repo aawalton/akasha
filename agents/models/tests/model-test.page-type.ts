@@ -13,7 +13,7 @@ export const modelTest = {
     "page-type/model-test-outcome",
     "relation-property/case-page",
     "relation-property/model-family",
-    "text-property/case-answer",
+    "select-property/case-answer",
     "text-property/case-statement",
     "text-property/prompt",
   ],

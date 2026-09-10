@@ -11,7 +11,7 @@ export const cases = {
     { pageProperty: "relation-property/case-page", required: true, many: false },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
     { pageProperty: "text-property/case-statement", required: true, many: false },
-    { pageProperty: "text-property/case-answer", required: true, many: false },
+    { pageProperty: "select-property/case-answer", required: true, many: false },
   ],
   types: "ts",
 } as const satisfies PagePropertyEntry
