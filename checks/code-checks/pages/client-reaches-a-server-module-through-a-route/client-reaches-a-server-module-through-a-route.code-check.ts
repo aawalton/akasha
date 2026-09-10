@@ -7,8 +7,6 @@ export const clientReachesAServerModuleThroughARoute = {
   slug: "client-reaches-a-server-module-through-a-route",
   definition:
     "the check refusing a router app module the browser bundle holds that reaches a server module",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

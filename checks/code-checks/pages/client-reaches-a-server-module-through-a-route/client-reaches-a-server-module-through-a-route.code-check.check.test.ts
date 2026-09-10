@@ -9,7 +9,7 @@ import {
 import {
   askingIn,
   clientReachesAServerModuleThroughARoute,
-} from "./client-reaches-a-server-module-through-a-route.code-check.code.ts"
+} from "./client-reaches-a-server-module-through-a-route.code-check.check.code.ts"
 
 afterAll(scratch.sweep)
 
