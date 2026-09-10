@@ -1,4 +1,4 @@
-import type { MonarchAccount } from "../monarch-account.page-type.ts"
+import type { MonarchAccount } from "../monarch-account.page-type.types.ts"
 
 export const jenniferWaltonRothIraBrokerageAccount0417 = {
   id: "01a06559-5ea8-700f-9bde-0ebf0d9953a0",

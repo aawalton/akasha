@@ -1,4 +1,4 @@
-import type { MonarchHolding } from "../monarch-holding.page-type.ts"
+import type { MonarchHolding } from "../monarch-holding.page-type.types.ts"
 
 export const vtiax = {
   id: "01a06559-5ea9-700d-9674-0d8a9b954887",

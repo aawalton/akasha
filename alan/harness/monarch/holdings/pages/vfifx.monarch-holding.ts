@@ -1,4 +1,4 @@
-import type { MonarchHolding } from "../monarch-holding.page-type.ts"
+import type { MonarchHolding } from "../monarch-holding.page-type.types.ts"
 
 export const vfifx = {
   id: "01a06559-5ea9-700b-968f-62b276e5ab33",
