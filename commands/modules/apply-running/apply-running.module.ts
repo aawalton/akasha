@@ -48,6 +48,11 @@ export const applyRunning = {
       statement: "The edits are formatted after the edits are gathered rather than before.",
     },
     {
+      invariantKind: "gap",
+      statement:
+        "Nothing says a body the fold formatted was formatted, as the apply says only its own.",
+    },
+    {
       invariantKind: "departure",
       statement: "A gather reads the body an earlier edit left.",
     },
