@@ -12,7 +12,7 @@ export const theaChecksSystem = {
       statement:
         "Each check runs as its own spawned process, held to the ceilings its page states.",
       workingMemory:
-        "checks/modules/checking loads a check in process, code-check naming loadedBySlug module/checking, so nothing stops a check that never yields. utils/run/running spawns with cpuCeiling in seconds, held by a per-run cgroup and a 50ms watcher, and timeout in milliseconds for wall, and has no memory ceiling. code-file-property states max-cpu-seconds, max-wall-seconds and max-memory-mb; only test states one, maxCpuSeconds 5, which code-tests reads off the page.",
+        "checking requires a check in process by createRequire and awaits it with no deadline. loadedBy names module/checking but nothing reads it, checks being found by page type id. The boundary is shadow.index: 37 live methods over lazily memoised state, 123 call sites, answering the index as the change would leave it. check-cost already measures wall, cpu and peak bytes per check and refuses nothing. Only test states a ceiling, maxCpuSeconds 5.",
     },
     {
       statement: "Every check is cheap enough for audit.",
