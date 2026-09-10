@@ -16,7 +16,7 @@ export const dayPlace = {
     {
       invariantKind: "departure",
       statement:
-        "Every write of a day, and of a session beside a day, asks here where that day is kept.",
+        "Every write of a day or of a session beside a day asks here where that day is kept.",
     },
     {
       invariantKind: "departure",
@@ -67,11 +67,11 @@ export const dayPlace = {
     {
       invariantKind: "departure",
       statement:
-        "A stub over a module spreads that module's real exports before naming what it replaces.",
+        "A stub spreads a module's real exports before naming the exports that stub replaces.",
     },
     {
       invariantKind: "departure",
-      statement: "A markdown day folder that is gone is the same answer as one that is empty.",
+      statement: "A markdown day folder that is gone gives the same answer as an empty folder.",
     },
     {
       invariantKind: "departure",
