@@ -1,4 +1,4 @@
-import type { TemperDebuffMinor } from "../../temper-debuff-minor.page-type.ts"
+import type { TemperDebuffMinor } from "../../temper-debuff-minor.page-type.types.ts"
 
 export const minorBreach = {
   id: "01a05fc6-42c3-7812-aaf2-932690fda4df",

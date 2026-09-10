@@ -1,4 +1,4 @@
-import type { TemperDebuffMinor } from "../../temper-debuff-minor.page-type.ts"
+import type { TemperDebuffMinor } from "../../temper-debuff-minor.page-type.types.ts"
 
 export const minorUncertainty = {
   id: "01a05fc6-42c5-7c98-ae4c-e7753e521c32",

@@ -1,4 +1,4 @@
-import type { TemperDebuffMinor } from "../../temper-debuff-minor.page-type.ts"
+import type { TemperDebuffMinor } from "../../temper-debuff-minor.page-type.types.ts"
 
 export const minorEnervation = {
   id: "01a05fc6-42c4-76bc-bee9-88b621b2df71",

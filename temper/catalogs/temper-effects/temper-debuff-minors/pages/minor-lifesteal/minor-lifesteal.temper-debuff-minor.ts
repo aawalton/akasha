@@ -1,4 +1,4 @@
-import type { TemperDebuffMinor } from "../../temper-debuff-minor.page-type.ts"
+import type { TemperDebuffMinor } from "../../temper-debuff-minor.page-type.types.ts"
 
 export const minorLifesteal = {
   id: "01a05fc6-42c4-777f-a74f-98f58996b458",
