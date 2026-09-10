@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "A folder move leaves a specifier naming a package as it is, and the root `akasha` exports `./*`, so `akasha/...` specifiers carry the path and go stale. Typecheck judges only what a change reaches, so the break lands green and shows up elsewhere. Search relative, `@akasha/...` and `akasha/...` before a move. `move-pages` reads its folder against the repository root. `akasha audit` truncates at 28000 bytes and gives the true count only on its last line.\n",
+        "A folder move leaves a specifier naming a package as it is, and the root `akasha` exports `./*`, so `akasha/...` specifiers carry the path and go stale. The import index files no edge for them, so a move never sees them to repoint. Typecheck judges only what a change reaches, so the break lands green and shows up elsewhere. Search relative, `@akasha/...` and `akasha/...` before a move. `akasha audit` truncates at 28000 bytes and gives the true count only on its last line.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
