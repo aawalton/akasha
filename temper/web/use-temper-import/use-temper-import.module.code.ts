@@ -1,7 +1,7 @@
 "use client"
 
+import { askComposed } from "@akasha/pages/query/store-spelled-asking"
 import { upsertPage } from "@akasha/pages-access/upsert"
-import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { getCompanionIdByDefId } from "akasha/temper/companions-core/companions/companions.module.code.ts"

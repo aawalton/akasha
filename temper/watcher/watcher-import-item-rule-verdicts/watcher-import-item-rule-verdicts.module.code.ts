@@ -1,5 +1,5 @@
+import { askComposed } from "@akasha/pages/query/store-spelled-asking"
 import { upsertPage } from "@akasha/pages-access/upsert"
-import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { asRecord } from "@akasha/utils/narrow/as-record"
 import { isJson } from "@akasha/utils/narrow/is-json"
 import type { Json } from "@akasha/utils/narrow/json-value"

@@ -1,6 +1,6 @@
+import { askComposed } from "@akasha/pages/query/ask"
+import { askedAsSpelled } from "@akasha/pages/query/store-spelling"
 import { camelizeKey, kebabizeKey } from "@akasha/pages-access/file-rows"
-import { askComposed } from "@akasha/pages-query/ask"
-import { askedAsSpelled } from "@akasha/pages-query/store-spelling"
 import {
   asPage,
   type Json,

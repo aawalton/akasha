@@ -14,7 +14,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-query": "workspace:*",
         "@akasha/pages-service": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-components": "workspace:*",
@@ -450,12 +449,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "pages/query": {
-      "name": "@akasha/pages-query",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "pages/service": {
       "name": "@akasha/pages-service",
       "dependencies": {
@@ -819,9 +812,9 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-query": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
@@ -913,8 +906,6 @@
     "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/access"],
 
     "@akasha/pages-core": ["@akasha/pages-core@workspace:pages/core"],
-
-    "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/query"],
 
     "@akasha/pages-service": ["@akasha/pages-service@workspace:pages/service"],
 

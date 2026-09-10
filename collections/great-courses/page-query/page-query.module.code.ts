@@ -1,4 +1,4 @@
-import { askComposed } from "@akasha/pages-query/store-spelled-asking"
+import { askComposed } from "@akasha/pages/query/store-spelled-asking"
 
 const CEILING = 20_000
 

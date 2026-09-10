@@ -96,7 +96,14 @@
     "./text-property": "./text-properties/text-property.page-type.ts",
     "./url-property": "./url-properties/url-property.page-type.ts",
     "./naming/named-for/page-stem": "./naming/named-for/page-stem/page-stem.module.code.ts",
-    "./naming/named-for/name-rule": "./naming/named-for/name-rule/name-rule.module.code.ts"
+    "./naming/named-for/name-rule": "./naming/named-for/name-rule/name-rule.module.code.ts",
+    "./query": "./query/store-writing/store-writing.module.code.ts",
+    "./query/ask": "./query/store-page-asking/store-page-asking.module.code.ts",
+    "./query/answer-schema": "./query/store-questioning/store-questioning.module.code.ts",
+    "./query/fetcher": "./query/store-reaching/store-reaching.module.code.ts",
+    "./query/fetcher/testing": "./query/store-reaching/store-reaching.module.test-fixtures.ts",
+    "./query/store-spelled-asking": "./query/store-spelled-asking/store-spelled-asking.module.code.ts",
+    "./query/store-spelling": "./query/store-spelling/store-spelling.module.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",

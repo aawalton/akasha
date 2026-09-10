@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const pagesQuery = {
   id: "01a05aec-eaaa-785b-b175-87946b2c2eb7",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-query",
   definition: "the page store reached over HTTP",
-  manifest: "json",
+
   parts: [
     "module/store-page-asking",
     "module/store-questioning",
@@ -37,4 +37,4 @@ export const pagesQuery = {
       statement: "Nothing here opens a page's file.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -1,5 +1,5 @@
+import { readFiles, readPages } from "@akasha/pages/query"
 import { getPages } from "@akasha/pages-access/get"
-import { readFiles, readPages } from "@akasha/pages-query"
 import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 import { computeItemStock } from "akasha/temper/items-core/compute-item-stock/compute-item-stock.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"

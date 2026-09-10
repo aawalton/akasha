@@ -2,10 +2,10 @@
 
 import { listenerSet } from "@akasha/design-primitives/listener-set"
 import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
+import { askComposed } from "@akasha/pages/query/store-spelled-asking"
 import { deletePages } from "@akasha/pages-access/delete"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage, upsertPages } from "@akasha/pages-access/upsert"
-import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { useOptimisticDeletePages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-pages"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { useOptimisticUpsertPages } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-pages"

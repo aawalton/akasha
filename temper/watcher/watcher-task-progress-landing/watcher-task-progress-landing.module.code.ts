@@ -1,4 +1,4 @@
-import { readFiles, readPages, writeFiles } from "@akasha/pages-query"
+import { readFiles, readPages, writeFiles } from "@akasha/pages/query"
 import type { Row } from "@akasha/pages-service/asking"
 import { askingFor } from "@akasha/pages-service/calling"
 import type {
