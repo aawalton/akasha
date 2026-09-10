@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { isMissing } from "akasha/utils/fs/missing/missing.module.code.ts"
-import type { Answer, Kind } from "../calling/calling.module.code.ts"
+import type { Answer } from "../calling/calling.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 
@@ -64,11 +64,4 @@ export function puttingUpSaid(root: string, agentId: string | null): string {
       : `<the seat> ${agentId.slice(mark + SUBAGENT_MARK.length)}` +
         ` <the kind it was dispatched as> ${agentId.slice(0, mark)}`
   return `bun ${join(root, PRESENCE_AT)} ${root} ${PUTTING_UP} ${held}`
-}
-
-export const MECHANICAL: Kind = {
-  slug: "change-mechanical",
-  runsChecks: false,
-  writerOwesReading: false,
-  readersOweReading: false,
 }

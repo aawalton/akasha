@@ -3,7 +3,14 @@ import { join } from "node:path"
 import { idFiled, listedFiled, noneOfTypeFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import type { Surface } from "./calling.module.code.ts"
+import type { Kind, Surface } from "./calling.module.code.ts"
+
+export const MECHANICAL: Kind = {
+  slug: "change-mechanical",
+  runsChecks: false,
+  writerOwesReading: false,
+  readersOweReading: false,
+}
 
 export const COMMAND = "command"
 
