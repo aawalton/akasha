@@ -16,7 +16,7 @@ export const atlas = {
   macBuildLockDir: "$HOME/.appstoreconnect/deploy-testflight-atlas.lock",
   macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number-atlas",
   marketingVersion: "1.0",
-  nativeShellRepoPath: "akasha:native-shell/atlas",
+  nativeShellRepoPath: "akasha:code-system/ios-apps/pages/atlas",
   toolReached: [
     "@capacitor/cli",
     "@capacitor/core",
