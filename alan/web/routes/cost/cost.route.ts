@@ -28,7 +28,11 @@ export const cost = {
     },
     {
       invariantKind: "departure",
-      statement: "The cost names no scale, so the group serving every other route uses is not it.",
+      statement: "The cost names no scale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The group serving every other route uses is not the cost group.",
     },
     {
       invariantKind: "departure",
