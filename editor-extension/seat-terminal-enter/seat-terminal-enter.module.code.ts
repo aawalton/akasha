@@ -1,23 +1,21 @@
 import type * as vscode from "vscode"
 import { seatTerminals } from "../agent-tree-state/agent-tree-state.module.code.ts"
-import { runCommand } from "../harness-call/harness-call.module.code.ts"
+import { callHarness } from "../harness-call/harness-call.module.code.ts"
 
 export const FOCUS_KEY = "opsAgentTree.seatTerminalFocused"
 
 export const ENTER_COMMAND = "opsAgentTree.enterInSeatTerminal"
 
-const MESSAGED_COMMAND = "seat-messaged"
+const MESSAGED_MODULE = "seat-messaged"
+
+const MESSAGED_EXPORT = "seatMessaged"
 
 const SUBMIT = "\r"
 
 const MESSAGED_TIMEOUT_MS = 10_000
 
-const MAX_BUFFER = 64 * 1024
-
 const SET_CONTEXT = "setContext"
 
-// THE EDITOR IS HANDED IN RATHER THAN IMPORTED. A test runs outside the editor, where importing
-// `vscode` throws before a line of this is read, and the decision this file makes is worth proving.
 export type Editor = typeof import("vscode")
 
 export interface Held {
@@ -41,9 +39,6 @@ function held(): readonly Held[] {
   return seatTerminals as readonly Held[]
 }
 
-// THE KEY GOES THROUGH BEFORE THE MARK IS ASKED FOR. The editor holds the key while this runs, so a
-// mark waiting on a command server would hold Alan's own typing behind it, and a mark that throws
-// would swallow the keystroke rather than the mark.
 export async function enterPressed(
   editor: Editor,
   say: (text: string) => void
@@ -60,9 +55,8 @@ export async function enterPressed(
     return undefined
   }
   try {
-    await runCommand(MESSAGED_COMMAND, [name], {
+    await callHarness(MESSAGED_MODULE, MESSAGED_EXPORT, [name], {
       timeout: MESSAGED_TIMEOUT_MS,
-      maxBuffer: MAX_BUFFER,
     })
     say(`[enter] ${name} marked`)
   } catch (err) {
@@ -73,9 +67,6 @@ export async function enterPressed(
 
 let published: boolean | undefined
 
-// THE CONTEXT IS REPUBLISHED ON EVERY TERMINAL EVENT RATHER THAN ON A FOCUS CHANGE ALONE. The seats
-// are swept after this feature starts, so a context published once at the start says no terminal
-// holds a seat, and a window whose focus never leaves the terminal never corrects that.
 export async function publishFocus(
   editor: Editor,
   say: (text: string) => void

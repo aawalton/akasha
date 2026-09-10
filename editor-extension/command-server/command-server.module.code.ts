@@ -1,43 +1,55 @@
 import { writeSync } from "node:fs"
+import { join } from "node:path"
 import {
-  COMMANDS_SERVED,
   LEASE_ENV,
   LEASE_MS,
   leaseAsked,
   PROTOCOL,
 } from "akasha/editor-extension/commands-served/commands-served.module.code.ts"
 import { sayAnswer } from "../../commands/modules/answer-bytes/answer-bytes.module.code.ts"
+import type { Answer, Given } from "../../commands/modules/calling/calling.module.code.ts"
 import { duringOneCall } from "../../commands/modules/during-call/during-call.module.code.ts"
 
 const HERE = "editor-extension/command-server/command-server.module.code.ts"
 
-const HELP = `bun ${HERE} — answer commands over a pipe, so a caller pays bun's startup once
+const CHECKOUT = join(import.meta.dir, "..", "..")
+
+const HELP = `bun ${HERE} — answer calls over a pipe, so a caller pays bun's startup once
 
 Speaks newline-delimited JSON. Asks arrive on stdin and answers go out on **fd 3**, which the
 caller opens as a fourth pipe. What this server is for, what it will not do, and why it refuses
 to live are stated on the module page beside this file.
 
-  ask     {"id":1,"verb":"agent-turn-colors","args":["01a0…"]}
+  ask     {"id":1,"module":"agent-turn-colors","export":"agentTurnColors","args":["01a0…"]}
   answer  {"id":1,"ok":true,"code":0,"stdout":"…","stderr":"…","ageMs":12,"pid":9}
   refusal {"id":1,"ok":false,"refusal":"lease","saying":"…","ageMs":30001}
 
-The wire key is \`verb\`, which the client declares and this end reads, and it is the one word
-of the older protocol kept. The first line on fd 3 is {"hello":${PROTOCOL},"pid":…,"leaseMs":…}
-and nothing is asked before it. The lease is ${LEASE_MS}ms and \`${LEASE_ENV}\` names another.
-
-Commands: ${COMMANDS_SERVED.join(", ")}
+An ask names the page whose code holds the export, by that page's slug, and names the export
+beside it. The first line on fd 3 is {"hello":${PROTOCOL},"pid":…,"leaseMs":…} and nothing is
+asked before it. The lease is ${LEASE_MS}ms and \`${LEASE_ENV}\` names another.
 
   --help  This.
 `
 
-async function commandFile(command: string): Promise<string> {
-  try {
-    const { akashaRoot } = await import("@akasha/pages/checkout-roots")
-    const { commandFileIn } = await import("../../commands/modules/calling/calling.module.code.ts")
-    return commandFileIn(akashaRoot(), command) ?? command
-  } catch {
-    return command
+const MODULE_TYPE = "module"
+
+const COMMAND_TYPE = "command"
+
+const CODE = "code"
+
+const TS = "ts"
+
+async function codeFileIn(root: string, slug: string): Promise<string | null> {
+  const { listedAt } = await import("@akasha/pages/index-reading")
+  const { besideAt } = await import("@akasha/pages/page-file-name")
+  for (const pageTypeSlug of [MODULE_TYPE, COMMAND_TYPE]) {
+    const found = listedAt(root, pageTypeSlug, slug)
+    const one = found.length === 1 ? found[0] : undefined
+    if (one === undefined) continue
+    const beside = besideAt(one.path, CODE, TS)
+    if (beside !== null) return beside
   }
+  return null
 }
 
 function answerSaid(answer: {
@@ -50,92 +62,35 @@ function answerSaid(answer: {
   return answer.code
 }
 
-type Ran = (argv: readonly string[]) => number | Promise<number>
+type Ran = (argv: readonly string[], given: Given) => Answer | Promise<Answer>
 
-const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Ran }>>> = {
-  "agent-turn-colors": async () => {
-    const { agentTurnColors } = await import(
-      "../../commands/pages/agent-turn-colors/agent-turn-colors.command.code.ts"
-    )
-    const { akashaRoot } = await import("@akasha/pages/checkout-roots")
-    return {
-      main: (argv) => {
-        const at = akashaRoot()
-        return answerSaid(
-          agentTurnColors(argv, {
-            root: at,
-            calledAs: "akasha",
-            from: at,
-            writer: null,
-            agentId: null,
-          })
-        )
-      },
-    }
-  },
+interface Loaded {
+  readonly one: Ran
+  readonly at: string
 }
 
-const CALLED: ReadonlySet<string> = new Set([
-  "agent-forest",
-  "claude-account-usage",
-  "initiative-work-tree",
-  "seat-messaged",
-  "seat-transcripts",
-])
+const loaded = new Map<string, Loaded>()
 
-async function called(command: string, argv: readonly string[]): Promise<number> {
-  const { calling } = await import("../../commands/modules/calling/calling.module.code.ts")
-  const { akashaRoot } = await import("@akasha/pages/checkout-roots")
-  const root = akashaRoot()
-  const answer = await calling([command, ...argv], {
-    root,
-    calledAs: "akasha",
-    from: root,
-    writer: null,
-    agentId: null,
-  })
-  return answerSaid(answer)
+function asked(ask: Ask): string {
+  return `${ask.module}#${ask.exported}`
 }
 
-export function commandsAdrift(
-  loadable: readonly string[],
-  served: readonly string[]
-): readonly string[] {
-  const canLoad = new Set(loadable)
-  const isNamed = new Set(served)
-  return [
-    ...served
-      .filter((command) => !canLoad.has(command))
-      .map(
-        (command) =>
-          `${command} is named in COMMANDS_SERVED and is not in this server's LOAD table, so every ask for it would be refused as unserved`
-      ),
-    ...loadable
-      .filter((command) => !isNamed.has(command))
-      .map(
-        (command) =>
-          `${command} is in this server's LOAD table and is not named in COMMANDS_SERVED, so the caller would spawn a child for it and never ask`
-      ),
-  ]
-}
-
-export const COMMANDS_LOADABLE: readonly string[] = [...Object.keys(LOAD), ...CALLED].sort()
-
-const loaded = new Map<string, Ran>()
-
-async function ranFor(named: string): Promise<Ran | null> {
-  const held = loaded.get(named)
+async function ranFor(root: string, ask: Ask): Promise<Loaded | string> {
+  const key = asked(ask)
+  const held = loaded.get(key)
   if (held !== undefined) return held
-  if (CALLED.has(named)) {
-    const one: Ran = (argv) => called(named, argv)
-    loaded.set(named, one)
-    return one
+  const at = await codeFileIn(root, ask.module)
+  if (at === null) {
+    return `no module and no command carries the slug \`${ask.module}\`, so ${key} is answered by nothing`
   }
-  const load = LOAD[named]
-  if (load === undefined) return null
-  const one = (await load()).main
-  loaded.set(named, one)
-  return one
+  const mod = (await import(join(root, at))) as Record<string, unknown>
+  const one = mod[ask.exported]
+  if (typeof one !== "function") {
+    return `\`${at}\` exports no function named \`${ask.exported}\``
+  }
+  const made: Loaded = { one: one as Ran, at }
+  loaded.set(key, made)
+  return made
 }
 
 const PROTOCOL_FD = 3
@@ -150,7 +105,8 @@ const IDLE_OVER_LEASE = 2
 
 interface Ask {
   readonly id: number
-  readonly command: string
+  readonly module: string
+  readonly exported: string
   readonly args: readonly string[]
 }
 
@@ -192,8 +148,9 @@ interface Caught {
 }
 
 async function ran(
-  one: Ran,
-  ask: Ask
+  found: Loaded,
+  ask: Ask,
+  root: string
 ): Promise<{ readonly code: number; readonly failure: string | null } & Caught> {
   const out: string[] = []
   const err: string[] = []
@@ -209,14 +166,14 @@ async function ran(
       if (typeof then === "function") (then as () => void)()
       return true
     }) as typeof process.stdout.write
-  const at = await commandFile(ask.command)
+  const given: Given = { root, calledAs: "akasha", from: root, writer: null, agentId: null }
   process.stdout.write = caught(out)
   process.stderr.write = caught(err)
-  process.argv = [argvWas[0] ?? "bun", at, ...ask.args]
+  process.argv = [argvWas[0] ?? "bun", join(CHECKOUT, found.at), ...ask.args]
   let code = 1
   let failure: string | null = null
   try {
-    code = await duringOneCall(async () => one(ask.args))
+    code = await duringOneCall(async () => answerSaid(await found.one(ask.args, given)))
   } catch (thrown) {
     failure = thrown instanceof Error ? `${thrown.message}\n${thrown.stack ?? ""}` : String(thrown)
   } finally {
@@ -236,19 +193,21 @@ async function serve(ask: Ask): Promise<undefined> {
       `this server's lease of ${LEASE}ms is up, so it answers nothing more`
     )
   }
-  let one: Ran | null
+  const { akashaRoot } = await import("@akasha/pages/checkout-roots")
+  const root = akashaRoot()
+  let found: Loaded | string
   try {
-    one = await ranFor(ask.command)
+    found = await ranFor(CHECKOUT, ask)
   } catch (thrown) {
-    return refuse(ask, "unloadable", `${ask.command} could not be loaded: ${String(thrown)}`)
+    return refuse(ask, "unloadable", `${asked(ask)} could not be loaded: ${String(thrown)}`)
   }
-  if (one === null) {
-    return refuse(ask, "unserved", `${ask.command} is not a command this server answers`)
+  if (typeof found === "string") {
+    return refuse(ask, "unserved", found)
   }
   const askedAt = ageMs()
-  const answer = await ran(one, ask)
+  const answer = await ran(found, ask, root)
   if (answer.failure !== null) {
-    return refuse(ask, "threw", `${ask.command} threw: ${answer.failure}`)
+    return refuse(ask, "threw", `${asked(ask)} threw: ${answer.failure}`)
   }
   return say({
     id: ask.id,
@@ -311,7 +270,9 @@ async function pump(): Promise<undefined> {
   return undefined
 }
 
-export const WIRE_COMMAND_KEY = "verb"
+export const WIRE_MODULE_KEY = "module"
+
+export const WIRE_EXPORT_KEY = "export"
 
 export function askIn(line: string): Ask | null {
   let said: unknown
@@ -322,12 +283,15 @@ export function askIn(line: string): Ask | null {
   }
   if (said === null || typeof said !== "object") return null
   const held = said as Record<string, unknown>
-  const named = held[WIRE_COMMAND_KEY]
-  if (typeof held["id"] !== "number" || typeof named !== "string") return null
+  const slug = held[WIRE_MODULE_KEY]
+  const exported = held[WIRE_EXPORT_KEY]
+  if (typeof held["id"] !== "number") return null
+  if (typeof slug !== "string" || typeof exported !== "string") return null
   const args = held["args"]
   return {
     id: held["id"],
-    command: named,
+    module: slug,
+    exported,
     args: Array.isArray(args) ? args.filter((one): one is string => typeof one === "string") : [],
   }
 }
@@ -345,7 +309,9 @@ function listen(): undefined {
       if (line.trim() === "") continue
       const ask = askIn(line)
       if (ask === null) {
-        note(`an ask that is not a JSON object carrying an id and a name was thrown away`)
+        note(
+          `an ask that is not a JSON object carrying an id, a module and an export was thrown away`
+        )
         continue
       }
       WAITING.push(ask)
@@ -360,21 +326,12 @@ function listen(): undefined {
 }
 
 export function main(argv: readonly string[]): number {
-  const adrift = commandsAdrift(COMMANDS_LOADABLE, COMMANDS_SERVED)
-  if (adrift.length > 0) {
-    process.stderr.write(
-      `error: what this server can load and what COMMANDS_SERVED names have drifted apart, so it answers nothing:\n${adrift
-        .map((one) => `  ${one}\n`)
-        .join("")}`
-    )
-    return 1
-  }
   if (argv.includes("--help") || argv.includes("-h")) {
     process.stdout.write(HELP)
     return 0
   }
   try {
-    say({ hello: PROTOCOL, pid: process.pid, leaseMs: LEASE, commands: COMMANDS_SERVED })
+    say({ hello: PROTOCOL, pid: process.pid, leaseMs: LEASE })
   } catch (thrown) {
     process.stderr.write(
       `error: nothing is listening on fd ${PROTOCOL_FD}, and that is where every answer goes — spawn this with a fourth pipe (${String(thrown)})\n`

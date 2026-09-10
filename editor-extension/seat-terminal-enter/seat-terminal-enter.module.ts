@@ -34,6 +34,15 @@ export const seatTerminalEnter = {
       statement: "The context is republished whenever the focused terminal changes.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The context is republished on every terminal event rather than on a focus change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The editor is handed in rather than imported, so a test runs outside the editor.",
+    },
+    {
       invariantKind: "absence",
       statement: "No key other than the submit key is read here.",
     },

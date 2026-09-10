@@ -37,32 +37,27 @@ export const harnessCall = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "One held-open server answers every served command rather than one server per call.",
+      statement: "One held-open server answers every call rather than one server per call.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here spawns a child but the server.",
     },
     {
       invariantKind: "departure",
-      statement: "A command the server answers is never also spawned as a child.",
+      statement: "A call names the page whose code holds the export, and names the export.",
     },
     {
       invariantKind: "departure",
-      statement: "A command the server does not answer is spawned as the dispatcher on PATH.",
+      statement: "A page is named by its slug rather than by the path its code sits at.",
     },
     {
       invariantKind: "departure",
-      statement: "A command is named to the harness by its name rather than by its file.",
+      statement: "A slug no page carries is refused by the server rather than here.",
     },
     {
       invariantKind: "departure",
-      statement: "A command's own file exports an answering function and prints nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name no command has is refused by the dispatcher rather than here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A served command answering with a nonzero code is thrown as an error.",
+      statement: "A call answering with a nonzero code is thrown as an error.",
     },
     {
       invariantKind: "absence",

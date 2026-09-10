@@ -3,10 +3,7 @@ import { mkdirSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import { colorIn, WORKING_PAGE } from "@akasha/seat-system/seat-turn-color/testing"
-import {
-  COMMANDS_SERVED,
-  LEASE_ENV,
-} from "akasha/editor-extension/commands-served/commands-served.module.code.ts"
+import { LEASE_ENV } from "akasha/editor-extension/commands-served/commands-served.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import {
   askServed,
@@ -16,7 +13,7 @@ import {
   type Serving,
   servingFrom,
 } from "../command-server-client/command-server-client.module.code.ts"
-import { COMMANDS_LOADABLE, commandsAdrift } from "./command-server.module.code.ts"
+import { askIn } from "./command-server.module.code.ts"
 
 const BUN = join(homedir(), ".bun", "bin", "bun")
 
@@ -54,7 +51,12 @@ function clientAt(root: string, more: { readonly serverLeaseMs?: number } = {}):
 async function colorSaid(
   client: Serving
 ): Promise<{ readonly color: string; readonly pid: number }> {
-  const answer = await client.ask("agent-turn-colors", ["--state", "working"], ASK_MS)
+  const answer = await client.ask(
+    "agent-turn-colors",
+    "agentTurnColors",
+    ["--state", "working"],
+    ASK_MS
+  )
   const said = JSON.parse(answer.stdout) as { colors: Record<string, string> }
   return { color: said.colors["working"] ?? "", pid: answer.pid }
 }
@@ -68,23 +70,13 @@ afterEach(() => {
   scratch.sweep()
 })
 
-describe("what the server can load against what the caller is told it answers", () => {
-  test("the two lists agree", () => {
-    expect(commandsAdrift(COMMANDS_LOADABLE, COMMANDS_SERVED)).toEqual([])
-  })
-
-  test("a command named in COMMANDS_SERVED that this server cannot load is reported", () => {
-    const said = commandsAdrift(["work-tree"], ["work-tree", "domain-tree"])
-    expect(said).toHaveLength(1)
-    expect(said[0]).toContain("domain-tree")
-    expect(said[0]).toContain("refused as unserved")
-  })
-
-  test("a command this server can load that COMMANDS_SERVED does not name is reported", () => {
-    const said = commandsAdrift(["work-tree", "domain-tree"], ["work-tree"])
-    expect(said).toHaveLength(1)
-    expect(said[0]).toContain("domain-tree")
-    expect(said[0]).toContain("spawn a child for it and never ask")
+describe("the ask a caller writes", () => {
+  test("names a module and an export, and is nothing without either", () => {
+    expect(
+      askIn(JSON.stringify({ id: 1, module: "seat-reset", export: "seatReset", args: ["x"] }))
+    ).toEqual({ id: 1, module: "seat-reset", exported: "seatReset", args: ["x"] })
+    expect(askIn(JSON.stringify({ id: 1, module: "seat-reset", args: [] }))).toBeNull()
+    expect(askIn(JSON.stringify({ id: 1, export: "seatReset", args: [] }))).toBeNull()
   })
 })
 
@@ -111,7 +103,12 @@ describe("the command server where it cannot answer", () => {
     expect(first.color).toBe("chartreuse")
 
     process.kill(first.pid, "SIGKILL")
-    const asking = client.ask("agent-turn-colors", ["--state", "working"], ASK_MS)
+    const asking = client.ask(
+      "agent-turn-colors",
+      "agentTurnColors",
+      ["--state", "working"],
+      ASK_MS
+    )
 
     const thrown = await asking.then(
       (answer) => ({ refused: false, saying: JSON.stringify(answer) as unknown }),
@@ -130,10 +127,12 @@ describe("the command server where it cannot answer", () => {
 
     await rested(1_800)
 
-    const thrown = await client.ask("agent-turn-colors", ["--state", "working"], ASK_MS).then(
-      (answer) => ({ refused: false, saying: JSON.stringify(answer) as unknown }),
-      (err: unknown) => ({ refused: true, saying: err })
-    )
+    const thrown = await client
+      .ask("agent-turn-colors", "agentTurnColors", ["--state", "working"], ASK_MS)
+      .then(
+        (answer) => ({ refused: false, saying: JSON.stringify(answer) as unknown }),
+        (err: unknown) => ({ refused: true, saying: err })
+      )
     expect(thrown.refused).toBe(true)
     expect((thrown.saying as CommandServerRefusal).refusal).toBe(REFUSAL_LEASE)
   }, 60_000)
@@ -149,7 +148,13 @@ describe("the command server when its lease turns over under a caller", () => {
     colorIn(root, "vermilion")
     await rested(1_800)
 
-    const answer = await askServed(client, "agent-turn-colors", ["--state", "working"], ASK_MS)
+    const answer = await askServed(
+      client,
+      "agent-turn-colors",
+      "agentTurnColors",
+      ["--state", "working"],
+      ASK_MS
+    )
     const said = JSON.parse(answer.stdout) as { colors: Record<string, string> }
     expect(said.colors["working"]).toBe("vermilion")
     expect(answer.pid).not.toBe(first.pid)
@@ -160,10 +165,12 @@ describe("the command server when its lease turns over under a caller", () => {
     const client = clientAt(root)
     await colorSaid(client)
     client.dispose()
-    const thrown = await client.ask("agent-turn-colors", ["--state", "working"], ASK_MS).then(
-      () => null,
-      (err: unknown) => err
-    )
+    const thrown = await client
+      .ask("agent-turn-colors", "agentTurnColors", ["--state", "working"], ASK_MS)
+      .then(
+        () => null,
+        (err: unknown) => err
+      )
     expect(thrown).toBeInstanceOf(CommandServerRefusal)
   }, 60_000)
 })

@@ -58,7 +58,8 @@ function refusalOf(refusal: string, saying: string): CommandServerRefusal {
 
 export type Serving = {
   readonly ask: (
-    command: string,
+    module: string,
+    exported: string,
     args: readonly string[],
     timeoutMs: number
   ) => Promise<ServedAnswer>
@@ -72,7 +73,8 @@ export function servingFrom(at: CommandServerAt): Serving {
   let disposed = false
 
   async function ask(
-    command: string,
+    module: string,
+    exported: string,
     args: readonly string[],
     timeoutMs: number
   ): Promise<ServedAnswer> {
@@ -85,13 +87,15 @@ export function servingFrom(at: CommandServerAt): Serving {
         refuse(
           refusalOf(
             REFUSAL_HUNG,
-            `${command} was not answered within ${timeoutMs}ms, so the server was killed`
+            `${module}#${exported} was not answered within ${timeoutMs}ms, so the server was killed`
           )
         )
       }, timeoutMs)
       asking.waiting.set(id, { settle, refuse, timer })
       try {
-        asking.child.stdin?.write(`${JSON.stringify({ id, verb: command, args: [...args] })}\n`)
+        asking.child.stdin?.write(
+          `${JSON.stringify({ id, module, export: exported, args: [...args] })}\n`
+        )
       } catch (thrown) {
         clearTimeout(timer)
         asking.waiting.delete(id)
@@ -320,15 +324,16 @@ function readLine(line: string): Record<string, unknown> | null {
 
 export async function askServed(
   client: Serving,
-  command: string,
+  module: string,
+  exported: string,
   args: readonly string[],
   timeoutMs: number
 ): Promise<ServedAnswer> {
   try {
-    return await client.ask(command, args, timeoutMs)
+    return await client.ask(module, exported, args, timeoutMs)
   } catch (thrown) {
     if (thrown instanceof CommandServerRefusal && START_ANOTHER.has(thrown.refusal)) {
-      return client.ask(command, args, timeoutMs)
+      return client.ask(module, exported, args, timeoutMs)
     }
     throw thrown
   }

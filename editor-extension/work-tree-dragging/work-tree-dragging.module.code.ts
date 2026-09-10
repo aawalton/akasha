@@ -1,14 +1,14 @@
 import type * as vscode from "vscode"
-import { runCommand } from "../harness-call/harness-call.module.code.ts"
+import { callHarness } from "../harness-call/harness-call.module.code.ts"
 import { VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
 
 export const DRAG_MIME = `application/vnd.code.tree.${VIEW_ID.toLowerCase()}`
 
-const MOVE_COMMAND = "move-intent"
+const MOVE_MODULE = "initiative-move-intent"
+
+const MOVE_EXPORT = "initiativeMoveIntent"
 
 const MOVE_TIMEOUT_MS = 60_000
-
-const MAX_BUFFER = 256 * 1024
 
 const INTENT_MARK = "#"
 
@@ -139,10 +139,11 @@ export function createWorkDragging(
 ): vscode.TreeDragAndDropController<WorkTreeRow> {
   const dropped = async (order: Ordering): Promise<undefined> => {
     try {
-      const said = await runCommand(
-        MOVE_COMMAND,
+      const said = await callHarness(
+        MOVE_MODULE,
+        MOVE_EXPORT,
         [order.slug, String(order.from), String(order.to)],
-        { timeout: MOVE_TIMEOUT_MS, maxBuffer: MAX_BUFFER }
+        { timeout: MOVE_TIMEOUT_MS }
       )
       say(`[drop] ${said.trim()}`)
     } catch (thrown) {

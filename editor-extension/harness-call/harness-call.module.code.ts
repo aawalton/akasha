@@ -1,17 +1,12 @@
-import { execFile } from "node:child_process"
 import * as fs from "node:fs"
 import * as os from "node:os"
 import * as path from "node:path"
-import { promisify } from "node:util"
-import { isServed } from "akasha/editor-extension/commands-served/commands-served.module.code.ts"
 import { answerBytesSaid } from "../../commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import {
   askServed,
   type Serving,
   servingFrom,
 } from "../command-server-client/command-server-client.module.code.ts"
-
-const execFileP = promisify(execFile)
 
 export function akashaRoot(): string {
   const stated = process.env.AKASHA_ROOT
@@ -22,12 +17,6 @@ const SERVER_AT = "editor-extension/command-server/command-server.module.code.ts
 
 export function serverPath(): string {
   return path.join(akashaRoot(), SERVER_AT)
-}
-
-const DISPATCHER_AT = "commands/modules/cli/cli.module.code.ts"
-
-export function dispatcherPath(): string {
-  return path.join(akashaRoot(), DISPATCHER_AT)
 }
 
 const BUN_DIRECTORIES = [path.join(os.homedir(), ".bun", "bin")]
@@ -61,7 +50,6 @@ export function harnessEnvironment(): NodeJS.ProcessEnv {
 
 export interface HarnessCallOptions {
   readonly timeout: number
-  readonly maxBuffer: number
 }
 
 export class HarnessShortAnswerError extends Error {
@@ -83,20 +71,6 @@ function whole(what: string, stdout: string, stderr: string): string {
     )
   }
   return stdout
-}
-
-async function run(
-  what: string,
-  file: string,
-  args: readonly string[],
-  options: HarnessCallOptions
-): Promise<string> {
-  const { stdout, stderr } = await execFileP(file, [...args], {
-    env: harnessEnvironment(),
-    timeout: options.timeout,
-    maxBuffer: options.maxBuffer,
-  })
-  return whole(what, stdout, stderr)
 }
 
 const SERVER_START_TIMEOUT_MS = 15_000
@@ -129,22 +103,16 @@ export function disposeCommandServer(): undefined {
   return undefined
 }
 
-export async function runCommand(
-  command: string,
+export async function callHarness(
+  module: string,
+  exported: string,
   args: readonly string[],
   options: HarnessCallOptions
 ): Promise<string> {
-  if (isServed(command)) {
-    const answer = await askServed(servedClient(), command, args, options.timeout)
-    if (answer.code !== 0) {
-      throw new Error(`${command} exited ${answer.code}: ${answer.stderr.trim()}`)
-    }
-    return whole(command, answer.stdout, answer.stderr)
+  const what = `${module}#${exported}`
+  const answer = await askServed(servedClient(), module, exported, args, options.timeout)
+  if (answer.code !== 0) {
+    throw new Error(`${what} exited ${answer.code}: ${answer.stderr.trim()}`)
   }
-  return run(
-    command,
-    path.join(bunDirectory(), "bun"),
-    [dispatcherPath(), command, ...args],
-    options
-  )
+  return whole(what, answer.stdout, answer.stderr)
 }

@@ -55,11 +55,11 @@ export const commandServer = {
     },
     {
       invariantKind: "departure",
-      statement: "An ask names a command under the wire key `verb:`.",
+      statement: "An ask names a module under `module:` and an export under `export:`.",
     },
     {
       invariantKind: "constraint",
-      statement: "The client declares the wire key `verb:`.",
+      statement: "The client declares both wire keys.",
     },
     {
       invariantKind: "absence",
@@ -150,40 +150,36 @@ export const commandServer = {
       statement: "A command whose imports throw refuses only the asks for that command.",
     },
     {
-      invariantKind: "absence",
-      statement: "A command slow enough to make a panel wait behind the command is not served.",
+      invariantKind: "departure",
+      statement: "An export answers through stdout, and what it wrote there is the answer.",
     },
     {
       invariantKind: "departure",
-      statement: "A command is served once the command's answer goes wholly through stdout.",
+      statement: "An export takes the arguments and the call, and answers a report and a code.",
     },
     {
       invariantKind: "departure",
-      statement: "A command served is an akasha command.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A command is reached by loading the command's file or through `calling`.",
+      statement: "The file an export sits in is the code beside the page the ask names.",
     },
     {
       invariantKind: "constraint",
-      statement: "A command reached through `calling` wants an index.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A command reached by loading a file wants the file alone.",
+      statement: "That page is looked for among the modules and then among the commands.",
     },
     {
       invariantKind: "departure",
-      statement: "A run is given the path of the command's own file as `argv[1]`.",
+      statement: "The page is answered from the index rather than assembled from a name.",
     },
     {
       invariantKind: "departure",
-      statement: "That path is answered from the index rather than assembled from a name.",
+      statement: "The index read is the checkout this server's own file sits in.",
     },
     {
       invariantKind: "departure",
-      statement: "A command the index cannot answer for is given its own name as `argv[1]`.",
+      statement: "The repository a call works on is the one the environment names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run is given the path of the file the export sits in as `argv[1]`.",
     },
     {
       invariantKind: "departure",
@@ -195,36 +191,23 @@ export const commandServer = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "The commands served and the commands the caller is told are served are named in two files.",
+      statement: "The protocol the caller reads has no reach into `Bun`.",
     },
     {
       invariantKind: "constraint",
-      statement: "The names the caller reads have no reach into `Bun`.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "The editor's node host imports those names.",
+      statement: "The editor's node host imports it.",
     },
     {
       invariantKind: "departure",
-      statement: "The two lists are compared ahead of everything.",
+      statement: "A slug no page carries is refused as unserved.",
     },
     {
       invariantKind: "departure",
-      statement: "`--help` is answered after the two lists are compared.",
+      statement: "A page whose code holds no such export is refused as unserved.",
     },
     {
-      invariantKind: "departure",
-      statement: "A server finding the two lists apart answers nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name served and not loadable is refused as unserved.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A name loadable and not served is spawned as a child by every poll.",
+      invariantKind: "absence",
+      statement: "No caller of this server spawns a child of its own.",
     },
     {
       invariantKind: "constraint",

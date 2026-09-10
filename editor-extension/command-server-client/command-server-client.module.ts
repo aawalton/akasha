@@ -19,12 +19,11 @@ export const commandServerClient = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "An ask names its command under the key `verb:` rather than under a shorthand for `command`.",
+      statement: "An ask names a module under `module:` and an export under `export:`.",
     },
     {
       invariantKind: "constraint",
-      statement: "An ask with no `verb:` key is thrown away by the server without a refusal.",
+      statement: "An ask missing either key is thrown away by the server without a refusal.",
     },
     {
       invariantKind: "departure",

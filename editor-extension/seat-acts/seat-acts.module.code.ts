@@ -1,7 +1,7 @@
 import * as vscode from "vscode"
 import { output } from "../agent-tree-state/agent-tree-state.module.code.ts"
 import { seatTerminalOptions } from "../editor-group/editor-group.module.code.ts"
-import { runCommand } from "../harness-call/harness-call.module.code.ts"
+import { callHarness } from "../harness-call/harness-call.module.code.ts"
 import type { ToggleTarget } from "../invoked-seat/invoked-seat.module.code.ts"
 import { columnForSeat } from "../seat-showing/seat-showing.module.code.ts"
 import { readSeatLookup } from "../seat-terminals/seat-terminals.module.code.ts"
@@ -11,19 +11,28 @@ import {
   type SeatStep,
 } from "../seat-toggles/seat-toggles.module.code.ts"
 
-const SEAT_COMMAND = "seat"
-
 const SEAT_TIMEOUT_MS = 120_000
 
-const MAX_BUFFER = 1024 * 1024
+const RESUME_MODULE = "seat-resume"
+
+const RESUME_EXPORT = "seatResume"
+
+const RESET_MODULE = "seat-reset"
+
+const RESET_EXPORT = "seatReset"
+
+const STOP_MODULE = "seat-supervisor-stop"
+
+const STOP_EXPORT = "seatSupervisorStop"
 
 const inFlight = new Set<string>()
 
-async function runSeat(args: readonly string[]): Promise<undefined> {
-  await runCommand(SEAT_COMMAND, args, {
-    timeout: SEAT_TIMEOUT_MS,
-    maxBuffer: MAX_BUFFER,
-  })
+async function runSeat(
+  module: string,
+  exported: string,
+  args: readonly string[]
+): Promise<undefined> {
+  await callHarness(module, exported, args, { timeout: SEAT_TIMEOUT_MS })
   return undefined
 }
 
@@ -38,18 +47,18 @@ async function attachTerminal(seat: ToggleTarget, line: string): Promise<undefin
 
 async function resumeInteractive(seat: ToggleTarget): Promise<undefined> {
   const line = attachCommandLine(seat.name)
-  await runSeat(["resume", seat.name, "--start-mode", "interactive"])
+  await runSeat(RESUME_MODULE, RESUME_EXPORT, [seat.name, "--start-mode", "interactive"])
   return attachTerminal(seat, line)
 }
 
 async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefined> {
   switch (step.kind) {
     case "stop":
-      await runSeat(["supervisor", "stop", seat.name])
+      await runSeat(STOP_MODULE, STOP_EXPORT, [seat.name])
       return undefined
     case "revive": {
       const prompt = resumePrompt()
-      await runSeat(["resume", seat.name, "--prompt", prompt])
+      await runSeat(RESUME_MODULE, RESUME_EXPORT, [seat.name, "--prompt", prompt])
       return undefined
     }
     case "resume-interactive":
@@ -57,7 +66,7 @@ async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefine
     case "attach":
       return attachTerminal(seat, attachCommandLine(seat.name))
     case "reset":
-      await runSeat(["reset", seat.name])
+      await runSeat(RESET_MODULE, RESET_EXPORT, [seat.name])
       return undefined
     default: {
       const unreached: never = step
