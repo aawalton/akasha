@@ -81,24 +81,21 @@ export function classifyOAuthError(status: number, body: string): OAuthErrorClas
     return { terminal: false, code: "rate_limited", description: null }
   }
 
-  let payload: unknown
   try {
-    payload = JSON.parse(body)
+    const parsed = OAUTH_ERROR_ENVELOPE_SCHEMA.safeParse(JSON.parse(body))
+    if (!parsed.success) return { ...UNCLASSIFIED }
+
+    const code = parsed.data.error ?? null
+    const description = parsed.data.error_description ?? null
+    const terminal =
+      status >= CLIENT_ERROR_FLOOR &&
+      status < SERVER_ERROR_FLOOR &&
+      code !== null &&
+      TERMINAL_OAUTH_ERROR_CODES.has(code)
+    return { terminal, code, description }
   } catch {
     return { ...UNCLASSIFIED }
   }
-
-  const parsed = OAUTH_ERROR_ENVELOPE_SCHEMA.safeParse(payload)
-  if (!parsed.success) return { ...UNCLASSIFIED }
-
-  const code = parsed.data.error ?? null
-  const description = parsed.data.error_description ?? null
-  const terminal =
-    status >= CLIENT_ERROR_FLOOR &&
-    status < SERVER_ERROR_FLOOR &&
-    code !== null &&
-    TERMINAL_OAUTH_ERROR_CODES.has(code)
-  return { terminal, code, description }
 }
 
 export const DEFAULT_AT_LIMIT_BACKOFF_MS = 5_000
