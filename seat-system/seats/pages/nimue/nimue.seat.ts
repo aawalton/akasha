@@ -6,7 +6,7 @@ export const nimue = {
   type: "seat",
   slug: "nimue",
   persona: "nimue",
-  assignmentSlug: "domain/technology",
+  assignmentSlug: "initiative/nimue-code-cleanup",
   role: "definer",
   person: "alan",
   startMode: "interactive",
