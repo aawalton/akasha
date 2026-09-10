@@ -10,9 +10,6 @@ export type Answering = {
   readonly principal: string | null
 }
 
-// WHO A SEAT ANSWERS AS AND WHO IT ANSWERS TO ARE ONE RULE. Both halves are read from the tree, so
-// they are handed in rather than reached: what is worth testing here is the rule, and the rule is
-// the only part that does not need a checkout to exercise.
 export type Answerable = {
   readonly personIsPrincipal: (principal: string) => boolean
   readonly personaAnswersForSomebody: (persona: string) => boolean
@@ -32,8 +29,6 @@ export type HandlerDerived = {
   readonly principal: string | null
 }
 
-// A HANDLER TAKES BOTH HALVES FROM THE PERSON IT SERVES, so it never has to state them and never
-// states them inconsistently. Anything that is not a handler of a person derives nothing.
 export function handlerDerives(
   root: string,
   role: string | null,
@@ -45,10 +40,6 @@ export function handlerDerives(
   return { persona: identityHeardFrom(root, domain), principal: domain }
 }
 
-// THE TWO HALVES AGREE OR THE SEAT IS REFUSED. Answering as somebody and answering to a person are
-// the same fact said twice, so a seat holding one without the other says something about itself
-// that nothing else in the fleet will read the same way. Holding neither is allowed: that is every
-// seat working for the fleet rather than for a person.
 export function refusedAnswering(seat: Answering, among: Answerable): readonly string[] {
   const hers =
     seat.persona !== null && seat.persona !== "" && among.personaAnswersForSomebody(seat.persona)
