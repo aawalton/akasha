@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const invisibleContractsAudit = {
   id: "019db533-f382-711f-b7de-887c18c6729f",

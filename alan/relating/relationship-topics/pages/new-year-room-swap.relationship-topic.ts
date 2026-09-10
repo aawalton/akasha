@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const newYearRoomSwap = {
   id: "019db533-f382-72ea-93b1-08843586d660",

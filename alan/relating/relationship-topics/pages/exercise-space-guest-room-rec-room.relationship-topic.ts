@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const exerciseSpaceGuestRoomRecRoom = {
   id: "019db533-f382-714d-851d-c36ff1de4e52",

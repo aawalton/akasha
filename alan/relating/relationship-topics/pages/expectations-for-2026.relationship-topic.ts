@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const expectationsFor2026 = {
   id: "019db533-f382-738c-8f4b-d23c6a8712d1",

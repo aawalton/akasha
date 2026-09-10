@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const digitalRemodel = {
   id: "019db533-f382-74ac-9fa8-d1e622ff5e0e",

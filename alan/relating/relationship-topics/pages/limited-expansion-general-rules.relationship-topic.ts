@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const limitedExpansionGeneralRules = {
   id: "019db533-f382-71e0-9a71-4d6c9b7763f9",

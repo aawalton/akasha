@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const familyValuesCultureAndVision = {
   id: "019db533-f382-717c-9212-adf2f77f0ebe",

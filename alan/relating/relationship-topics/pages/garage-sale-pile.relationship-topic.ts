@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const garageSalePile = {
   id: "019db533-f382-73ec-af49-9279840dcbe7",

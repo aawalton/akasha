@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const medicationManagement = {
   id: "019db533-f382-71f6-a1a8-aac9c98d9c0c",

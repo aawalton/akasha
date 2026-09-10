@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const reduceLoadFromAlan = {
   id: "019db533-f382-72f5-8352-6a369f3ec35e",

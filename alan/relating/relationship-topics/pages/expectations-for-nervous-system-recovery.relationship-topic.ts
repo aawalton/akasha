@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const expectationsForNervousSystemRecovery = {
   id: "019db533-f382-7374-8035-cda0e7ed35d5",

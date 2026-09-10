@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { RelationshipTopicParent } from "./properties/relationship-topic-parent.relation-property.ts"
-import type { RelationshipTopicPeople } from "./properties/relationship-topic-people.relation-property.ts"
-import type { RelationshipTopicSensitivity } from "./properties/relationship-topic-sensitivity.select-property.ts"
-import type { RelationshipTopicStatus } from "./properties/relationship-topic-status.select-property.ts"
-
-export type RelationshipTopic = Page & {
-  title: Title
-  relationshipTopicParent?: RelationshipTopicParent
-  relationshipTopicPeople?: RelationshipTopicPeople
-  relationshipTopicSensitivity: RelationshipTopicSensitivity
-  relationshipTopicStatus: RelationshipTopicStatus
-}
 
 export const relationshipTopic = {
   id: "01a0658a-170f-73cd-a458-8f98d995452e",
@@ -62,4 +48,5 @@ export const relationshipTopic = {
       statement: "A person named here is a person the system reaches rather than a relationship.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

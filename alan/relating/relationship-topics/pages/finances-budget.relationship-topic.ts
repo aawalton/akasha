@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const financesBudget = {
   id: "019db533-f382-754a-8cf7-5eb82e5a556d",

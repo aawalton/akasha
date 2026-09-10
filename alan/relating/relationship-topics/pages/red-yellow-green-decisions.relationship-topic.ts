@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const redYellowGreenDecisions = {
   id: "019db533-f382-731c-8aff-a509ab7f1649",

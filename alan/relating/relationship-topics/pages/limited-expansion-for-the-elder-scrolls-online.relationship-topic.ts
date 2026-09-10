@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const limitedExpansionForTheElderScrollsOnline = {
   id: "019db533-f382-71d2-84b1-296ad47461bc",

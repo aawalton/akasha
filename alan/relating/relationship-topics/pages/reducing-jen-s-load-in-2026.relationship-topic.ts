@@ -1,4 +1,4 @@
-import type { RelationshipTopic } from "../relationship-topic.page-type.ts"
+import type { RelationshipTopic } from "../relationship-topic.page-type.types.ts"
 
 export const reducingJenSLoadIn2026 = {
   id: "019db533-f382-7164-bdaa-6b9d80a594d5",
