@@ -31,17 +31,33 @@ function refusingAt(seen: Reached[], address: string): Reaching {
   }
 }
 
-function worldFor(reaching: Reaching, kinds: readonly string[], paths: readonly string[]): World {
+function worldFor(
+  reaching: Reaching,
+  kinds: readonly string[],
+  paths: readonly string[],
+  stated: Record<string, string> = {}
+): World {
   return {
     ...worldOf({}),
     index: {
       kindsUnder: () => new Set(kinds),
       everyOfType: () => paths.map((path) => ({ path })),
-      pageByPath: () => ({ pageTypeSlug: KIND, slug: "mortal" }),
+      pageByPath: () => ({ pageTypeSlug: KIND, slug: "mortal", ...stated }),
     } as never,
     reaching,
   }
 }
+
+test("a page stating its type already is passed over rather than stated again", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPagePropertyTypes(worldFor(catching(seen), [KIND], [AT], { types: "ts" }), {
+    pageType: KIND,
+  })
+
+  expect(said.refused ?? "").toMatch(/states its type already/)
+  expect(seen).toEqual([])
+})
 
 test("every page of the page type gains the key and hands its type on, in that order", async () => {
   const seen: Reached[] = []

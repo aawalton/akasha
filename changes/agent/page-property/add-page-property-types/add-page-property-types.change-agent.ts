@@ -55,6 +55,10 @@ export const addPagePropertyTypes = {
       invariantKind: "departure",
       statement: "A folder named holds the change to the pages sitting under that folder.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page stating its type already is passed over rather than stating it twice.",
+    },
   ],
   changeKind: "change-checked",
 } as const satisfies ChangeAgent

@@ -48,8 +48,11 @@ export async function addPagePropertyTypes(
   let over: World = isLedger(world)
     ? world
     : ledgerAt(world.root, world.bodyOf, world.reaching, world.textOf)
+  let left = 0
   for (const one of listed) {
     const owner = pageIn(world, one.path)
+    if (owner !== null && owner[TYPES] !== undefined) continue
+    left += 1
     const slug = owner === null ? null : textAt(owner, SLUG)
     const to = besideAt(one.path, TYPES, HOLDS)
     if (slug === null || to === null)
@@ -75,6 +78,7 @@ export async function addPagePropertyTypes(
     over = moved.world
     answers.push(moved.said)
   }
+  if (left === 0) return refusing(`every \`${given.pageType}\` states its type already`)
   return gathered(answers)
 }
 
