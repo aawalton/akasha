@@ -17,11 +17,12 @@ export interface SshTarget {
   readonly keyPath: string
 }
 
-function sshArgs(target: SshTarget): readonly string[] {
+function sshArgs(target: SshTarget, sent: readonly string[]): readonly string[] {
   return [
     "-i",
     expandTilde(target.keyPath),
     ...sshConnectionOptions(),
+    ...sent.flatMap((name) => ["-o", `SendEnv=${name}`]),
     `${target.user}@${target.host}`,
   ]
 }
@@ -29,6 +30,7 @@ function sshArgs(target: SshTarget): readonly string[] {
 export interface RunSshOptions {
   readonly stream?: boolean
   readonly quiet?: boolean
+  readonly sendEnv?: Readonly<Record<string, string>>
 }
 
 export interface SshResult {
@@ -85,8 +87,10 @@ function sshExec(
 ): Promise<SshResult> {
   return new Promise<SshResult>((resolve, reject) => {
     const quiet = options.quiet === true
-    const child = spawn("ssh", [...sshArgs(target), remoteCommand], {
+    const sendEnv = options.sendEnv ?? {}
+    const child = spawn("ssh", [...sshArgs(target, Object.keys(sendEnv)), remoteCommand], {
       stdio: ["ignore", "pipe", quiet ? "pipe" : "inherit"],
+      env: { ...process.env, ...sendEnv },
     })
     let stdout = ""
     if (quiet && child.stderr) {

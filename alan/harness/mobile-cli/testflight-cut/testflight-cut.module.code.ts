@@ -18,6 +18,7 @@ import {
   recordCutFingerprint,
 } from "../cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
+  KEYCHAIN_PASSWORD_SSH_ENV,
   readNativeShellApsEnv,
   readNativeShellHealthkitEnv,
   readNativeShellKokoroTtsEnv,
@@ -201,7 +202,6 @@ export async function runTestflightCut(opts: {
     sync,
     buildNumber,
     ascFloor,
-    password,
     noUpload,
     nativeShellWidget: readNativeShellWidgetEnv(),
     nativeShellAps: readNativeShellApsEnv(),
@@ -214,6 +214,7 @@ export async function runTestflightCut(opts: {
   const { stdout: out, code } = await runSshResult(MACBOOK, script, {
     stream: watched,
     quiet: !watched,
+    sendEnv: { [KEYCHAIN_PASSWORD_SSH_ENV]: password },
   })
   if (!watched) say(out.endsWith("\n") ? out : `${out}\n`)
   const macTook = elapsedSince(macAt)

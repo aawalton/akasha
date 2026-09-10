@@ -13,6 +13,8 @@ export const ASC_KEY_PATH = "$HOME/.appstoreconnect/private_keys/AuthKey_Q5485KN
 
 export const KEYCHAIN_PASSWORD_ENV = "MACBOOK_KEYCHAIN_PASSWORD"
 
+export const KEYCHAIN_PASSWORD_SSH_ENV = "LC_MACBOOK_KEYCHAIN_PASSWORD"
+
 export const MAC_PATH_PREFIX = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
 
 export const MAC_ENSURE_BUN = [
@@ -93,11 +95,14 @@ export function readNativeShellKokoroTtsEnv(): string | undefined {
   return parsed.success ? parsed.data : undefined
 }
 
-export function buildKeychainUnlock(password: string): string {
-  const held = quoted(password)
+export function buildKeychainUnlock(): string {
   const keychain = "$HOME/Library/Keychains/login.keychain-db"
+  const sent = KEYCHAIN_PASSWORD_SSH_ENV
+  const missing = `${KEYCHAIN_PASSWORD_ENV} did not reach the mac over ssh, so the login keychain cannot be unlocked`
   return [
-    `KEYCHAIN_PW=${held}`,
+    `if [ -z "\${${sent}:-}" ]; then echo "ERROR: ${missing}" >&2; exit 1; fi`,
+    `KEYCHAIN_PW="$${sent}"`,
+    `unset ${sent}`,
     `security unlock-keychain -p "$KEYCHAIN_PW" ${keychain}`,
     `security set-key-partition-list -S apple-tool:,apple:,codesign: -s -k "$KEYCHAIN_PW" ${keychain} >/dev/null 2>&1`,
     "unset KEYCHAIN_PW",

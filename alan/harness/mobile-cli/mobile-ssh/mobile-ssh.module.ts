@@ -14,6 +14,10 @@ export const mobileSsh = {
     },
     {
       invariantKind: "departure",
+      statement: "A value the script must not carry is sent by name through the ssh environment.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The local temporary directory is removed whether or not the remote run threw.",
     },
     {

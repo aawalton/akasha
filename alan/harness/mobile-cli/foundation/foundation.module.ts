@@ -29,6 +29,22 @@ export const foundation = {
         "the macbook keychain password is read from the MACBOOK_KEYCHAIN_PASSWORD environment variable",
     },
     {
+      invariantKind: "departure",
+      statement: "The keychain password reaches the mac through the ssh environment.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No generated script carries the keychain password in its own text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The password is unset before any step of the build can inherit it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A password that did not arrive ends the run before the build lock is taken.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "the App Store Connect key id and issuer id here name one fixed Apple developer account",

@@ -17,7 +17,6 @@ function scriptFor(slug: string, sync: boolean): string {
     configuration: "Release",
     sync,
     ascFloor: 0,
-    password: "unused",
     cutCommit: "0".repeat(40),
   })
 }
@@ -95,7 +94,6 @@ describe("the mac build lock outliving the run that took it", () => {
         configuration: "Release",
         sync: true,
         ascFloor: 0,
-        password: "unused",
         cutCommit: "0".repeat(40),
         noUpload: true,
       })

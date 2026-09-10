@@ -33,7 +33,6 @@ export function buildTestflightDeployScript(opts: {
   readonly sync: boolean
   readonly buildNumber?: number
   readonly ascFloor: number
-  readonly password: string
   readonly noUpload?: boolean
   readonly nativeShellWidget?: string
   readonly nativeShellAps?: string
@@ -72,7 +71,7 @@ export function buildTestflightDeployScript(opts: {
 
   const sections: string[] = [
     SCRIPT_HEADER,
-    buildKeychainUnlock(opts.password),
+    buildKeychainUnlock(),
     buildLoginOnlyKeychainScope(),
     buildAcquireMacBuildLock(opts.app),
     buildOnCleanup(`rm -rf "${opts.app.macBuildLockDir}" 2>/dev/null || true`),

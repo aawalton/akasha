@@ -129,7 +129,6 @@ describe("the gate's place in the cut script", () => {
     configuration: "Release",
     sync: true,
     ascFloor: 0,
-    password: "pw",
     cutCommit: COMMIT,
   } as const
 

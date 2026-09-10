@@ -4,6 +4,7 @@ import {
   buildNativeSync,
   buildRunCheckout,
   CHECKOUT_ROOT,
+  KEYCHAIN_PASSWORD_SSH_ENV,
   readKeychainPassword,
   readNativeShellApsEnv,
   readNativeShellHealthkitEnv,
@@ -94,7 +95,7 @@ export function readIn(argv: readonly string[]): Reading<Read> {
   return { app, configuration, device, sync: !said.flags.has(NO_SYNC) }
 }
 
-export function scriptOf(read: Read, password: string): string {
+export function scriptOf(read: Read): string {
   const appPath = `${iosAppDir(read.app, CHECKOUT_ROOT)}/build/Build/Products/${read.configuration}-iphoneos/App.app`
   const xcodebuild = [
     "xcodebuild",
@@ -109,7 +110,7 @@ export function scriptOf(read: Read, password: string): string {
     "build",
   ].join(" ")
 
-  const sections: string[] = [SCRIPT_HEADER, buildKeychainUnlock(password), buildRunCheckout(MAIN)]
+  const sections: string[] = [SCRIPT_HEADER, buildKeychainUnlock(), buildRunCheckout(MAIN)]
   if (read.sync) {
     sections.push(
       buildNativeSync({
@@ -139,7 +140,9 @@ async function deployed(read: Read): Promise<Answer> {
   const report = [
     `building ${read.app.slug} at ${read.configuration} on ${MACBOOK.host} for phone ${read.device}`,
   ]
-  const out = await runSshCapture(MACBOOK, scriptOf(read, password))
+  const out = await runSshCapture(MACBOOK, scriptOf(read), {
+    sendEnv: { [KEYCHAIN_PASSWORD_SSH_ENV]: password },
+  })
   report.push(out.trimEnd())
   if (!out.includes(BUILT)) {
     return { report, refusals: [`xcodebuild did not report \`${BUILT}\``], code: OPERATIONAL }
