@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
 
 export const otherCurrencyBank = {
   id: "019e3104-2606-728c-af2a-44cdb3ecd36c",

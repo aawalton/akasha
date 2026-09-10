@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
 
 export const valuableNothing = {
   id: "019e3104-2611-7048-800c-d9e518987d2d",

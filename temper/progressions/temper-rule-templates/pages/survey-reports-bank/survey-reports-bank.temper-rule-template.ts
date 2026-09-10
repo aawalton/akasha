@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
 
 export const surveyReportsBank = {
   id: "019e3104-2618-72cb-bf08-c915663ebbae",

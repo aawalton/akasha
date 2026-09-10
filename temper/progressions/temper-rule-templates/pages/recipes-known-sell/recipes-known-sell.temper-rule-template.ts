@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
 
 export const recipesKnownSell = {
   id: "019e3104-2628-7b7f-bd11-f6d4ad45e189",

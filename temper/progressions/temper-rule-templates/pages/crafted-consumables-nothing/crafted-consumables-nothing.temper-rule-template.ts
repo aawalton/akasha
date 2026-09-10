@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
 
 export const craftedConsumablesNothing = {
   id: "019e3104-260c-727e-bb79-241dd40a8002",

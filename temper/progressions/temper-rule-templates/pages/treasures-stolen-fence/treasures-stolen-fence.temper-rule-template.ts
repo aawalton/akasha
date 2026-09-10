@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
 
 export const treasuresStolenFence = {
   id: "019e3104-2626-7e2a-8df5-d83385768ba5",

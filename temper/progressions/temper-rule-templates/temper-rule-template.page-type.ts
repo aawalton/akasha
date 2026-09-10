@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperRule } from "../temper-rules/temper-rule.page-type.types.ts"
-
-export type TemperRuleTemplate = TemperRule
 
 export const temperRuleTemplate = {
   id: "01a05fd0-3aa6-7646-b33d-56f120ee1438",
@@ -27,4 +24,5 @@ export const temperRuleTemplate = {
         "A template is offered to a reader rather than acted on where the template is off.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
 
 export const treasureMapsBank = {
   id: "019e3104-2618-7f6b-9442-fb9a11ef7939",

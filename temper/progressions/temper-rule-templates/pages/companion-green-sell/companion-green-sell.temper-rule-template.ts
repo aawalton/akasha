@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
 
 export const companionGreenSell = {
   id: "019e3104-2626-7136-8e6d-b66c7b5b20a6",

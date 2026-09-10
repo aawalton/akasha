@@ -1,4 +1,4 @@
-import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts"
+import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.types.ts"
 
 export const unlockStolen = {
   id: "019e3104-260f-720f-a4f3-f1fd9c5c717e",
