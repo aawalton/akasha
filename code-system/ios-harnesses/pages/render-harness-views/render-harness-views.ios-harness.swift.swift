@@ -60,7 +60,7 @@ func makeView(
     // THE GATE HOLDS ONLY THE TILES ALAN'S BUNDLE ALONE CARRIES.
     //
     // Their payload and their view live in components only his program names, so nothing compiles
-    // those two names into Jenny's harness. Every other tile here is built by both programs.
+    // those three names into Jenny's harness. Every other tile here is built by both programs.
     #if HARNESS_ALANWALTON
     case "ClaudeUsageWidget":
         let state = try feedState(ClaudeUsage.self, body: body, unreadable: unreadable, refused: refused)
@@ -70,6 +70,9 @@ func makeView(
     case "InboxStoplightsWidget":
         let state = try feedState(InboxStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(InboxHomeView(entry: FeedEntry(date: date, state: state)))
+    case "AttributeStoplightsWidget":
+        let state = try feedState(AttributeStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
+        return AnyView(AttributeHomeView(entry: FeedEntry(date: date, state: state)))
     #endif
     case "UpkeepStoplightsWidget":
         let state = try feedState(UpkeepStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)

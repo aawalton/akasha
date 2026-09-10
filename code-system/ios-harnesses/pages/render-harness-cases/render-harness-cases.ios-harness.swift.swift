@@ -97,6 +97,27 @@ func cases(now: Date) -> [RenderCase] {
         {"habit":"safety","tier":"yellow","reading":"2.5","nextTier":"green","progress":0.5,\
         "label":"Safety","figureOffScale":true}]}
         """
+    // THE SIX ATTRIBUTES ARE SPREAD ACROSS THE ONE SCALE THEY SHARE.
+    //
+    // `attribute-points` has rungs at black 0, red 0.25, yellow 0.5, green 1 and blue 2, and the
+    // group page orders the readouts STR, END, CON, WIS, INT, CHA. CHA is over the top rung and
+    // WIS is on the bottom one, so the feed sends each of those two no arc, and each draws its
+    // figure only because the attributes group says `figureOffScale`.
+    let attributes = """
+        {"stoplights":[\
+        {"attribute":"strength","label":"STR","tier":"green","reading":"1.4","nextTier":"blue",\
+        "progress":0.4,"figureOffScale":true},\
+        {"attribute":"endurance","label":"END","tier":"black","reading":"0.0","nextTier":"red",\
+        "progress":0.0238,"figureOffScale":true},\
+        {"attribute":"constitution","label":"CON","tier":"yellow","reading":"0.6",\
+        "nextTier":"green","progress":0.2,"figureOffScale":true},\
+        {"attribute":"wisdom","label":"WIS","tier":"black","reading":"0","nextTier":"red",\
+        "progress":0,"figureOffScale":true},\
+        {"attribute":"intelligence","label":"INT","tier":"red","reading":"0.3",\
+        "nextTier":"yellow","progress":0.2,"figureOffScale":true},\
+        {"attribute":"charisma","label":"CHA","tier":"blue","reading":"2.3",\
+        "figureOffScale":true}]}
+        """
     all.append(contentsOf: [
         RenderCase(
             name: "inbox-stoplights-small", widget: "InboxStoplightsWidget",
@@ -104,6 +125,9 @@ func cases(now: Date) -> [RenderCase] {
         RenderCase(
             name: "upkeep-stoplights-small", widget: "UpkeepStoplightsWidget",
             familySource: "systemSmall", body: upkeep),
+        RenderCase(
+            name: "attribute-stoplights-small", widget: "AttributeStoplightsWidget",
+            familySource: "systemSmall", body: attributes),
         RenderCase(
             name: "claude-usage-small", widget: "ClaudeUsageWidget",
             familySource: "systemSmall", body: claude(fiveHourBackAt: ms(47 * 60 + 30))),
@@ -126,7 +150,7 @@ func cases(now: Date) -> [RenderCase] {
                 familySource: "systemMedium", body: claude(fiveHourBackAt: rule.instant)))
     }
 
-    for group in ["InboxStoplightsWidget", "UpkeepStoplightsWidget"] {
+    for group in ["InboxStoplightsWidget", "UpkeepStoplightsWidget", "AttributeStoplightsWidget"] {
         all.append(
             RenderCase(
                 name: "\(slug(group))-small-never-read", widget: group,
@@ -136,6 +160,7 @@ func cases(now: Date) -> [RenderCase] {
     for tile in [
         (widget: "InboxStoplightsWidget", family: "systemSmall"),
         (widget: "UpkeepStoplightsWidget", family: "systemSmall"),
+        (widget: "AttributeStoplightsWidget", family: "systemSmall"),
         (widget: "ClaudeUsageWidget", family: "systemMedium"),
         (widget: "CategorizeWidget", family: "systemSmall"),
     ] {
