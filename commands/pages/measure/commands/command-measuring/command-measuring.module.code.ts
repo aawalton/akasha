@@ -73,6 +73,5 @@ export function costsIn(root: string, now: number, chosen: Chosen): Costs {
     checks: [...checks].sort(byCpu),
     total: totalOf(within),
     unread: reading.unread,
-    other: [],
   }
 }

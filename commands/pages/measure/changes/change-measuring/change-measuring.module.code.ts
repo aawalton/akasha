@@ -20,6 +20,8 @@ export const CHANGE = "change"
 
 export const APPLY = "apply"
 
+const ENTRIES = "entries"
+
 export const PAGES: readonly string[] = [
   "commands/pages/change-draft/change-draft.command.ts",
   "commands/pages/change-apply/change-apply.command.ts",
@@ -34,7 +36,7 @@ export function heldIn(root: string): Reading {
   const runs: Run[] = []
   const unread: string[] = []
   for (const page of PAGES) {
-    for (const at of partsIn(root, page)) {
+    for (const at of partsIn(root, page, ENTRIES)) {
       try {
         for (const one of runsIn(readFileSync(join(root, at), "utf8"))) runs.push(one)
       } catch {
@@ -57,6 +59,5 @@ export function costsIn(root: string, now: number, chosen: Chosen): Costs {
     checks: [...checks].sort(byCpu),
     total: totalOf(within),
     unread: reading.unread,
-    other: [],
   }
 }

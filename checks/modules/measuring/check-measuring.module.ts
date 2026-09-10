@@ -5,18 +5,31 @@ export const checkMeasuring = {
   pageTypeSlug: "module",
   type: "module",
   slug: "check-measuring",
-  definition: "the processor time and memory the check runs a caller chose took",
+  definition: "the processor time and memory the runs of one group of a check's logs took",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A check's runs are read from the entries beside that check's page.",
+      statement: "A check's runs are read from the logs of one group beside that check's page.",
     },
     {
       invariantKind: "departure",
-      statement: "Every numbered file of a check's entries is read rather than the first alone.",
+      statement:
+        "The check group has the runs of every phase but audit, and the audit group audit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The entries beside that page are read as well, and hold the history up to today.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entries row counts under the group the phase that row names belongs to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every numbered file of each is read rather than the first alone.",
     },
     {
       invariantKind: "departure",
@@ -104,11 +117,11 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "The patch runs are read where no phase was named.",
+      statement: "The check group is read where no group was named.",
     },
     {
       invariantKind: "departure",
-      statement: "The audit runs are read in their place where the audit flag was named.",
+      statement: "The audit group is read in its place where the audit flag was named.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +129,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A run of a phase that was not read counts nowhere in the table.",
+      statement: "A run of the group that was not read counts nowhere in the table.",
     },
     {
       invariantKind: "departure",
@@ -142,7 +155,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch run judges the paths a change has.",
+      statement: "A change run judges the paths that change has.",
     },
     {
       invariantKind: "departure",
@@ -210,11 +223,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A run naming a phase this does not read is counted beneath the table.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Entries that could not be read are named beneath the table.",
+      statement: "A file that could not be read is named beneath the table.",
     },
     {
       invariantKind: "departure",

@@ -17,14 +17,17 @@ import {
   withinOf,
 } from "./check-measuring.module.code.ts"
 import {
+  AUDIT_LOGS,
   agoOf,
   costsOf,
   DAY,
   DAY_BACK,
+  ENTRIES,
   HOUR,
   lineOf,
   NOW,
   ONE,
+  rowsBeside,
   rowsInto,
   spacedOnce,
   THREE,
@@ -119,20 +122,20 @@ test("a check holding no run the choice reached is not answered", () => {
     fresh: [{ phase: "patch", cpuSeconds: 1, ranAt: agoOf(HOUR) }],
     stale: [
       { phase: "patch", cpuSeconds: 9, ranAt: agoOf(DAY + 1) },
-      { phase: "audit", cpuSeconds: 9, ranAt: agoOf(30 * DAY) },
+      { phase: "worktree", cpuSeconds: 9, ranAt: agoOf(30 * DAY) },
     ],
   })
 
   expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual(["fresh"])
 })
 
-test("a call handing over no argument reads the last one run of the patch phase", () => {
-  expect(chosenIn([])).toEqual({ chosen: ONE_RUN, phase: "patch", refusals: [] })
+test("a call handing over no argument reads the last one run of the check group", () => {
+  expect(chosenIn([])).toEqual({ chosen: ONE_RUN, group: "check", refusals: [] })
 })
 
-test("the audit flag reads the audit runs in place of the patch runs", () => {
-  expect(chosenIn(["--audit"])).toEqual({ chosen: ONE_RUN, phase: "audit", refusals: [] })
-  expect(chosenIn(["--audit", "--last", "5"]).phase).toBe("audit")
+test("the audit flag reads the audit group in place of the check group", () => {
+  expect(chosenIn(["--audit"])).toEqual({ chosen: ONE_RUN, group: "audit", refusals: [] })
+  expect(chosenIn(["--audit", "--last", "5"]).group).toBe("audit")
   expect(chosenIn(["--last", "5", "--audit"]).chosen).toEqual({ by: "runs", runs: 5 })
 })
 
@@ -265,7 +268,6 @@ test("the total sits beneath the table with its memory drawn absent", () => {
     checks: [cost],
     total: { runs: 1, cpu: 2, paths: 1, refusals: 0 },
     unread: [],
-    other: [],
   })
 
   expect(spacedOnce(said[2])).toBe("")
@@ -278,8 +280,20 @@ test("how many runs a check holds is counted beside its averages", () => {
       { phase: "patch", cpuSeconds: 1 },
       { phase: "patch", cpuSeconds: 3 },
       { phase: "patch", cpuSeconds: 8 },
-      { phase: "audit", cpuSeconds: 8 },
-      { phase: "worktree", cpuSeconds: 9 },
+    ],
+  })
+  const cost = costsIn(root, NOW, DAY_BACK).checks[0]
+
+  expect(cost?.runs).toBe(3)
+  expect(cost?.cpu).toBe(4)
+})
+
+test("the check group counts a worktree run and a deploy run beside a patch run", () => {
+  const root = rootWith({
+    one: [
+      { phase: "patch", cpuSeconds: 1 },
+      { phase: "worktree", cpuSeconds: 3 },
+      { phase: "deploy", cpuSeconds: 8 },
     ],
   })
   const cost = costsIn(root, NOW, DAY_BACK).checks[0]
@@ -299,7 +313,7 @@ test("a check no run was judged at carries no average rather than an average of 
   expect(spacedOnce(said)).toBe("one 0 - - 0 0")
 })
 
-test("the table carries one set of columns for the phase read", () => {
+test("the table carries one set of columns for the group read", () => {
   const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 0 })))
   const said = linesOf(costsOf([cost]))
 
@@ -311,7 +325,7 @@ test("checks are ordered by what their runs took, and equal times by name", () =
   const root = rootWith({
     fast: [{ phase: "patch", cpuSeconds: 1 }],
     slow: [{ phase: "patch", cpuSeconds: 9 }],
-    "audit-only": [{ phase: "audit", cpuSeconds: 50 }],
+    "audit-only": [],
     "b-tie": [{ phase: "patch", cpuSeconds: 1 }],
     skewed: [
       { phase: "patch", cpuSeconds: 1 },
@@ -319,6 +333,7 @@ test("checks are ordered by what their runs took, and equal times by name", () =
       { phase: "patch", cpuSeconds: 10 },
     ],
   })
+  rowsBeside(root, { "audit-only": [{ phase: "audit", cpuSeconds: 50 }] }, AUDIT_LOGS)
 
   expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual([
     "slow",
@@ -328,53 +343,54 @@ test("checks are ordered by what their runs took, and equal times by name", () =
   ])
 })
 
-test("the patch runs are read by default and the audit runs where audit was named", () => {
-  const root = rootWith({
-    one: [
-      { phase: "patch", cpuSeconds: 2, peakAddedBytes: 2048 },
-      { phase: "audit", cpuSeconds: 8, peakAddedBytes: 1048576 },
-    ],
-  })
-  const patch = costsIn(root, NOW, DAY_BACK).checks[0]
+test("the check logs are read by default and the audit logs where audit was named", () => {
+  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 2, peakAddedBytes: 2048 }] })
+  rowsBeside(
+    root,
+    { one: [{ phase: "audit", cpuSeconds: 8, peakAddedBytes: 1048576 }] },
+    AUDIT_LOGS
+  )
+  const check = costsIn(root, NOW, DAY_BACK).checks[0]
   const audit = costsIn(root, NOW, DAY_BACK, "audit").checks[0]
 
-  expect(patch?.runs).toBe(1)
-  expect(patch?.cpu).toBe(2)
-  expect(patch?.mem).toBe(2048)
+  expect(check?.runs).toBe(1)
+  expect(check?.cpu).toBe(2)
+  expect(check?.mem).toBe(2048)
   expect(audit?.runs).toBe(1)
   expect(audit?.cpu).toBe(8)
   expect(audit?.mem).toBe(1048576)
 })
 
-test("a check holding no run of the phase read is not answered", () => {
-  const root = rootWith({
-    one: [{ phase: "patch", cpuSeconds: 2 }],
-    two: [{ phase: "audit", cpuSeconds: 8 }],
-  })
+test("a check holding no run of the group read is not answered", () => {
+  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 2 }], two: [] })
+  rowsBeside(root, { two: [{ phase: "audit", cpuSeconds: 8 }] }, AUDIT_LOGS)
 
   expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual(["one"])
   expect(costsIn(root, NOW, DAY_BACK, "audit").checks.map((one) => one.check)).toEqual(["two"])
 })
 
-test("a run naming a phase this does not read is counted beneath the table", () => {
-  const root = rootWith({
-    one: [
-      { phase: "patch", cpuSeconds: 1 },
-      { phase: "worktree", cpuSeconds: 3 },
-      { phase: "deploy", cpuSeconds: 4 },
-      { phase: "worktree", cpuSeconds: 5 },
-      { phase: "worktree", cpuSeconds: 5, ranAt: agoOf(30 * DAY) },
-    ],
-  })
-  const costs = costsIn(root, NOW, DAY_BACK)
+test("the entries beside a check are read too, each row under the group its phase names", () => {
+  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 2 }] })
+  rowsBeside(
+    root,
+    {
+      one: [
+        { phase: "patch", cpuSeconds: 4 },
+        { phase: "audit", cpuSeconds: 100 },
+      ],
+    },
+    ENTRIES
+  )
+  const check = costsIn(root, NOW, DAY_BACK).checks[0]
+  const audit = costsIn(root, NOW, DAY_BACK, "audit").checks[0]
 
-  expect(costs.checks[0]?.runs).toBe(1)
-  expect(costs.checks[0]?.cpu).toBe(1)
-  expect(costs.other).toEqual(["worktree: 2", "deploy: 1"])
-  expect(linesOf(costs)).toContain("these runs name a phase this does not read:")
+  expect(check?.runs).toBe(2)
+  expect(check?.cpu).toBe(3)
+  expect(audit?.runs).toBe(1)
+  expect(audit?.cpu).toBe(100)
 })
 
-test("every numbered file of a check's entries is read in order rather than the first alone", () => {
+test("every numbered file of a check's logs is read in order rather than the first alone", () => {
   const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 2, runId: ONE }] })
   rowsInto(root, { one: [{ phase: "patch", cpuSeconds: 4, runId: TWO }] }, 2)
   rowsInto(root, { one: [{ phase: "patch", cpuSeconds: 6, runId: THREE }] }, 3)
@@ -385,13 +401,13 @@ test("every numbered file of a check's entries is read in order rather than the 
   expect(cost?.cpu).toBe(4)
 })
 
-test("entries that could not be read are named beneath the table", () => {
+test("a file that could not be read is named beneath the table", () => {
   const root = unreadableInto(rootWith({ one: [{ phase: "patch", cpuSeconds: 1 }] }), "bad")
   const costs = costsIn(root, NOW, DAY_BACK)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["one"])
   expect(costs.unread).toEqual([
-    "checks/code-checks/pages/bad/bad.code-check.entries.uncommitted.jsonl",
+    "checks/code-checks/pages/bad/bad.code-check.check.logs.uncommitted.jsonl",
   ])
 })
 
@@ -415,6 +431,5 @@ test("a root holding no checks answers no check rather than throwing", () => {
     checks: [],
     total: { runs: 0, cpu: null, paths: 0, refusals: 0 },
     unread: [],
-    other: [],
   })
 })

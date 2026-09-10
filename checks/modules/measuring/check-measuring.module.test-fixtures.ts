@@ -2,7 +2,11 @@ import { nothingFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import type { CheckCost, Chosen, Costs } from "./check-measuring.module.code.ts"
 
-const ENTRIES = "entries"
+export const ENTRIES = "entries"
+
+export const LOGS = "check.logs"
+
+export const AUDIT_LOGS = "audit.logs"
 
 const CHECKED = "code-check"
 
@@ -49,8 +53,8 @@ export function lineOf(one: Record<string, unknown>): string {
   })
 }
 
-export function partAt(check: string, part: number): string {
-  const named = part === FIRST_PART ? ENTRIES : `${ENTRIES}.part${part}`
+export function partAt(check: string, part: number, under: string = LOGS): string {
+  const named = part === FIRST_PART ? under : `${under}.part${part}`
   return `${UNDER}/${check}/${check}.${CHECKED}.${named}.uncommitted.jsonl`
 }
 
@@ -68,12 +72,24 @@ function checkFiled(root: string, check: string, at: number): undefined {
 export function rowsInto(
   root: string,
   held: Record<string, readonly Record<string, unknown>[]>,
-  part = FIRST_PART
+  part = FIRST_PART,
+  under: string = LOGS
 ): string {
   nothingFiled(root)
   for (const [at, [check, rows]] of Object.entries(held).entries()) {
     if (part === FIRST_PART) checkFiled(root, check, at)
-    put(root, partAt(check, part), `${rows.map(lineOf).join("\n")}\n`)
+    put(root, partAt(check, part, under), `${rows.map(lineOf).join("\n")}\n`)
+  }
+  return root
+}
+
+export function rowsBeside(
+  root: string,
+  held: Record<string, readonly Record<string, unknown>[]>,
+  under: string
+): string {
+  for (const [check, rows] of Object.entries(held)) {
+    put(root, partAt(check, FIRST_PART, under), `${rows.map(lineOf).join("\n")}\n`)
   }
   return root
 }
@@ -85,7 +101,7 @@ export function unreadableInto(root: string, check: string): string {
 }
 
 export function costsOf(checks: readonly CheckCost[]): Costs {
-  return { checks, total: { runs: 0, cpu: null, paths: 0, refusals: 0 }, unread: [], other: [] }
+  return { checks, total: { runs: 0, cpu: null, paths: 0, refusals: 0 }, unread: [] }
 }
 
 export function spacedOnce(said: string | undefined): string {

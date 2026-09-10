@@ -8,6 +8,7 @@ import {
 import {
   agoOf,
   DAY,
+  ENTRIES,
   HOUR,
   NOW,
   spacedOnce,
@@ -62,7 +63,7 @@ test("every numbered file of a page's rows is read rather than the first alone",
   rowsInto(root, CHANGE_AT, [{ runId: TWO }], 2)
   rowsInto(root, CHANGE_AT, [{ runId: THREE }], 3)
 
-  expect(partsIn(root, `${CHANGE_AT}.ts`).length).toBe(3)
+  expect(partsIn(root, `${CHANGE_AT}.ts`, ENTRIES).length).toBe(3)
   expect(heldIn(root).runs.length).toBe(3)
 })
 
@@ -140,7 +141,6 @@ test("a row naming the change phase or the apply phase is read, and no other row
   rowsInto(root, CHANGE_AT, [{ runId: ONE, phase: "change", ran: "change-file" }])
   rowsInto(root, APPLY_AT, [{ runId: TWO, phase: "apply", ran: "apply" }])
 
-  expect(costsIn(root, NOW, DAY_BACK).other).toEqual([])
   expect(costsIn(root, NOW, DAY_BACK).total.runs).toBe(2)
 })
 

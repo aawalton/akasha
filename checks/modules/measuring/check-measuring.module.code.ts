@@ -9,9 +9,11 @@ const CHECKED = "code-check"
 
 const ENTRIES = "entries"
 
+const LOGS = "logs"
+
 const HELD = "jsonl"
 
-const PATCH = "patch"
+const CHECK = "check"
 
 const AUDIT = "audit"
 
@@ -37,13 +39,9 @@ const FORMS =
   `\`${LAST} <count>\` names runs, \`${LAST} <count>{m|h|d}\` names a period, ` +
   `and \`${AUDIT_FLAG}\` reads the audit runs`
 
-const CHECK = "check"
-
 const HEADED: readonly string[] = ["runs", "cpu", "mem", "paths", "refusals"]
 
 const UNREAD = "these were not read, and count no runs:"
-
-const OTHER = "these runs name a phase this does not read:"
 
 const KIB = 1024
 
@@ -76,9 +74,11 @@ export type Chosen =
   | { readonly by: "runs"; readonly runs: number }
   | { readonly by: "period"; readonly ms: number; readonly said: string }
 
+export type Group = typeof CHECK | typeof AUDIT
+
 export interface Chose {
   readonly chosen: Chosen | null
-  readonly phase: string
+  readonly group: Group
   readonly refusals: readonly string[]
 }
 
@@ -102,7 +102,6 @@ export interface Costs {
   readonly checks: readonly CheckCost[]
   readonly total: Total
   readonly unread: readonly string[]
-  readonly other: readonly string[]
 }
 
 export const ONE_RUN: Chosen = { by: "runs", runs: 1 }
@@ -140,7 +139,7 @@ function spanOf(unit: string): number | null {
 }
 
 function refusing(why: string): Chose {
-  return { chosen: null, phase: PATCH, refusals: [`${why}: ${FORMS}`] }
+  return { chosen: null, group: CHECK, refusals: [`${why}: ${FORMS}`] }
 }
 
 function periodIn(said: string): Chose {
@@ -151,11 +150,11 @@ function periodIn(said: string): Chose {
   }
   const ms = Number(found[1] ?? "0") * span
   if (ms === 0) return refusing(`\`${LAST} ${said}\` names a period of no length`)
-  return { chosen: { by: "period", ms, said }, phase: PATCH, refusals: [] }
+  return { chosen: { by: "period", ms, said }, group: CHECK, refusals: [] }
 }
 
 export function windowIn(argv: readonly string[]): Chose {
-  if (argv.length === 0) return { chosen: ONE_RUN, phase: PATCH, refusals: [] }
+  if (argv.length === 0) return { chosen: ONE_RUN, group: CHECK, refusals: [] }
   const first = argv[0] ?? ""
   if (first !== LAST) return refusing(`\`${first}\` is no argument this command takes`)
   if (argv.length === 1) return refusing(`\`${LAST}\` was handed nothing to read`)
@@ -165,22 +164,22 @@ export function windowIn(argv: readonly string[]): Chose {
   if (!COUNTED.test(said)) return periodIn(said)
   const runs = Number(said)
   if (runs === 0) return refusing(`\`${LAST} ${said}\` names no run`)
-  return { chosen: { by: "runs", runs }, phase: PATCH, refusals: [] }
+  return { chosen: { by: "runs", runs }, group: CHECK, refusals: [] }
 }
 
 export function chosenIn(argv: readonly string[]): Chose {
   const words: string[] = []
-  let phase = PATCH
+  let group: Group = CHECK
   for (const said of argv) {
     if (said !== AUDIT_FLAG) {
       words.push(said)
       continue
     }
-    if (phase === AUDIT) return refusing(`\`${AUDIT_FLAG}\` is said twice`)
-    phase = AUDIT
+    if (group === AUDIT) return refusing(`\`${AUDIT_FLAG}\` is said twice`)
+    group = AUDIT
   }
   const chose = windowIn(words)
-  return { chosen: chose.chosen, phase, refusals: chose.refusals }
+  return { chosen: chose.chosen, group, refusals: chose.refusals }
 }
 
 export function withinOf(runs: readonly Run[], now: number, ms: number): readonly Run[] {
@@ -265,56 +264,70 @@ export function byCpu(a: CheckCost, b: CheckCost): number {
   return b.cpu - a.cpu || a.check.localeCompare(b.check)
 }
 
-export function partsIn(root: string, page: string): readonly string[] {
+export function partsIn(root: string, page: string, under: string): readonly string[] {
   const there = (at: string): boolean => existsSync(join(root, at))
-  return uncommittedPartsOf(page, ENTRIES, HELD, there).filter(there)
+  return uncommittedPartsOf(page, under, HELD, there).filter(there)
 }
 
-export function heldIn(root: string): Reading {
-  const held: Held[] = []
+export function groupOf(phase: string): Group {
+  return phase === AUDIT ? AUDIT : CHECK
+}
+
+export function logsOf(group: Group): string {
+  return `${group}.${LOGS}`
+}
+
+interface Gathering {
+  readonly runs: readonly Run[]
+  readonly unread: readonly string[]
+  readonly read: boolean
+}
+
+function gatheredIn(root: string, page: string, group: Group): Gathering {
+  const runs: Run[] = []
   const unread: string[] = []
-  for (const page of everyOfType(root, CHECKED)) {
-    const named = partedIn(page.path)
-    if (named === null) continue
-    const runs: Run[] = []
-    let read = false
-    for (const at of partsIn(root, page.path)) {
+  let read = false
+  for (const under of [logsOf(group), ENTRIES]) {
+    for (const at of partsIn(root, page, under)) {
       try {
-        for (const one of runsIn(readFileSync(join(root, at), "utf8"))) runs.push(one)
+        for (const one of runsIn(readFileSync(join(root, at), "utf8"))) {
+          if (groupOf(one.phase) === group) runs.push(one)
+        }
         read = true
       } catch {
         unread.push(at)
       }
     }
-    if (read) held.push({ check: named.slug, runs })
+  }
+  return { runs, unread, read }
+}
+
+export function heldIn(root: string, group: Group = CHECK): Reading {
+  const held: Held[] = []
+  const unread: string[] = []
+  for (const page of everyOfType(root, CHECKED)) {
+    const named = partedIn(page.path)
+    if (named === null) continue
+    const found = gatheredIn(root, page.path, group)
+    unread.push(...found.unread)
+    if (found.read) held.push({ check: named.slug, runs: found.runs })
   }
   return { held, unread }
 }
 
-export function costsIn(root: string, now: number, chosen: Chosen, phase = PATCH): Costs {
-  const reading = heldIn(root)
+export function costsIn(root: string, now: number, chosen: Chosen, group: Group = CHECK): Costs {
+  const reading = heldIn(root, group)
   const every = reading.held.flatMap((one) => one.runs)
   const ids = rankedOf(latestOf(every), chosen.by === "runs" ? chosen.runs : 0)
   const checks: CheckCost[] = []
   const picked: Run[] = []
-  const other = new Map<string, number>()
   for (const one of reading.held) {
-    const within =
+    const runs =
       chosen.by === "period" ? withinOf(one.runs, now, chosen.ms) : runningOf(one.runs, ids)
-    for (const run of within) {
-      if (run.phase === PATCH || run.phase === AUDIT) continue
-      other.set(run.phase, (other.get(run.phase) ?? 0) + 1)
-    }
-    const runs = within.filter((run) => run.phase === phase)
     for (const run of runs) picked.push(run)
     if (runs.length > 0) checks.push(costOf(one.check, runs))
   }
-  return {
-    checks: [...checks].sort(byCpu),
-    total: totalOf(picked),
-    unread: reading.unread,
-    other: [...other].map(([named, count]) => `${named}: ${count}`),
-  }
+  return { checks: [...checks].sort(byCpu), total: totalOf(picked), unread: reading.unread }
 }
 
 export function bytesAs(count: number): string {
@@ -359,7 +372,6 @@ export function linesOf(costs: Costs, named: string = CHECK): readonly string[] 
     totalRowOf(costs.total),
   ]
   const said = [...columnsOf(rows)]
-  if (costs.other.length > 0) said.push("", OTHER, ...costs.other)
   if (costs.unread.length > 0) said.push("", UNREAD, ...costs.unread)
   return said
 }
