@@ -40,6 +40,10 @@ export const seatToggles = {
     },
     {
       invariantKind: "departure",
+      statement: "A seat row is offered only the menu items the manifest hangs on the agent view.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The revive prompt is read out of an answer rather than composed here.",
     },
     {

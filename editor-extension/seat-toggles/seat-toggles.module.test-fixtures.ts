@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs"
 import * as path from "node:path"
 import { z } from "zod"
+import { VIEW_ID } from "../agent-tree-ids/agent-tree-ids.module.code.ts"
 import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
 import { seatContextValue } from "./seat-toggles.module.code.ts"
 
@@ -30,11 +31,17 @@ export const rowItems = manifest.contributes.menus["view/item/context"]
 
 export const tabItems = manifest.contributes.menus["editor/title/context/replace"]
 
+const VIEW_RE = /view\s*==\s*([A-Za-z]+)/
+
 const VIEW_ITEM_RE = /viewItem\s*=~\s*\/(.+?)\/\s*$/
 
 export const CLAUSE_SCHEMA = z.tuple([z.string(), z.string()])
 
-export function matchesRow(when: string, contextValue: string): boolean {
+export function matchesRow(when: string, contextValue: string, view: string = VIEW_ID): boolean {
+  const named = VIEW_RE.exec(when)
+  if (named !== null && CLAUSE_SCHEMA.parse(named)[1] !== view) {
+    return false
+  }
   const found = VIEW_ITEM_RE.exec(when)
   if (found === null) {
     return true
