@@ -88,8 +88,7 @@ export const claudeAccountCredentialFile = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A file that cannot be read or parsed, or that names no expiry, reads as no expiry.",
+      statement: "A file that cannot be read or parsed or that names no expiry reads as no expiry.",
     },
     {
       invariantKind: "departure",
