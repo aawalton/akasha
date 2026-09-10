@@ -1,4 +1,4 @@
-import type { TemperCompanionArmorSlot } from "../temper-companion-armor-slot.page-type.ts"
+import type { TemperCompanionArmorSlot } from "../temper-companion-armor-slot.page-type.types.ts"
 
 export const head = {
   id: "01a05fcd-ea68-7959-b8e9-b586bdc6014b",

@@ -1,4 +1,4 @@
-import type { TemperCompanionArmorSlot } from "../temper-companion-armor-slot.page-type.ts"
+import type { TemperCompanionArmorSlot } from "../temper-companion-armor-slot.page-type.types.ts"
 
 export const waist = {
   id: "01a05fcd-ea69-7aa2-967d-f12579d56772",

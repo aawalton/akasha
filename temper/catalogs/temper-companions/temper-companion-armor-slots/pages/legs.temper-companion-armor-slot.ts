@@ -1,4 +1,4 @@
-import type { TemperCompanionArmorSlot } from "../temper-companion-armor-slot.page-type.ts"
+import type { TemperCompanionArmorSlot } from "../temper-companion-armor-slot.page-type.types.ts"
 
 export const legs = {
   id: "01a05fcd-ea69-77cf-b1b7-6f3984af0df0",
