@@ -18,15 +18,25 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
-      statement: "Either is looked for as a page type rather than under every page type.",
+      statement:
+        "The change machinery is looked for as a page type rather than under every page type.",
     },
     {
       invariantKind: "departure",
-      statement: "A page of another type carrying that slug is not taken for it.",
+      statement:
+        "The command page type is looked for as a page type rather than under every page type.",
     },
     {
       invariantKind: "departure",
-      statement: "Code inside either is passed over, a change being what writes there.",
+      statement: "A page of another type carrying that slug is not taken for that page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Code inside either page type is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change writes there.",
     },
     {
       invariantKind: "departure",
@@ -39,24 +49,29 @@ export const repositoryIsWrittenByAChange = {
     {
       invariantKind: "departure",
       statement:
-        "The argument judged is the one a write lands on rather than the one a write reads.",
+        "The argument judged is the argument a write lands on rather than the argument a write reads.",
     },
     {
       invariantKind: "departure",
-      statement: "A rename is judged on both its paths, since a rename empties the path it leaves.",
+      statement: "A rename is judged on both its paths.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rename empties the path that rename leaves.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The checkout root is read off a `root` field or taken from the module answering it.",
+        "The checkout root is read off a `root` field or taken from the module answering that root.",
     },
     {
       invariantKind: "departure",
-      statement: "A name built from a rooted name is rooted, whether declared or assigned later.",
+      statement: "A name built from a rooted name is rooted whether declared or assigned later.",
     },
     {
       invariantKind: "departure",
-      statement: "What the repository ignores is read from `.gitignore` rather than named here.",
+      statement:
+        "Whatever the repository ignores is read from `.gitignore` rather than named here.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +79,7 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
-      statement: "`.git` is ignored though no rule names it.",
+      statement: "`.git` is ignored though no rule names `.git`.",
     },
     {
       invariantKind: "departure",
@@ -72,7 +87,11 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a page's code is judged, so the tree a test sets up is no reach.",
+      statement: "Only a page's code is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tree a test sets up is no reach.",
     },
     {
       invariantKind: "departure",
@@ -81,23 +100,33 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "departure",
-      statement: "Making a directory writes no body, so `mkdir` is no write.",
+      statement: "Making a directory writes no body.",
     },
     {
       invariantKind: "departure",
-      statement: "A name `node:os` answers is away from the checkout, as is a name built from it.",
+      statement: "`mkdir` is no write.",
     },
     {
       invariantKind: "departure",
-      statement: "What a function answers with is read as what every name in that function is.",
+      statement: "A name `node:os` answers is away from the checkout.",
     },
     {
       invariantKind: "departure",
-      statement: "A destination holding a name that is away is let through though it is rooted.",
+      statement: "A name built from such a name is away from the checkout too.",
     },
     {
       invariantKind: "departure",
-      statement: "That is how a root read as data rather than as a prefix writes nothing here.",
+      statement:
+        "The value a function answers with is read as whatever every name in that function is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A destination holding a name that is away is let through though that destination is rooted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A root read as data rather than as a prefix writes nothing here.",
     },
     {
       invariantKind: "departure",
@@ -121,15 +150,24 @@ export const repositoryIsWrittenByAChange = {
     },
     {
       invariantKind: "gap",
-      statement: "A name that is away is away everywhere in its file, whatever it holds there.",
+      statement:
+        "A name that is away is away everywhere in its file whatever that name holds there.",
     },
     {
       invariantKind: "gap",
-      statement: "A rule un-ignoring a path is passed over, so that path is let through.",
+      statement: "A rule un-ignoring a path is passed over.",
     },
     {
       invariantKind: "gap",
-      statement: "A rule in a `.gitignore` below the root is not read, no check looking for files.",
+      statement: "That path is let through.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A rule in a `.gitignore` below the root is not read.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No check looks for files.",
     },
     {
       invariantKind: "gap",
