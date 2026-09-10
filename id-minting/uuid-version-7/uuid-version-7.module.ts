@@ -15,6 +15,10 @@ export const uuidVersion7 = {
     },
     {
       invariantKind: "departure",
+      statement: "A uuid is judged version 7 by every part of it rather than by one digit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The leading bytes have the millisecond the uuid was made.",
     },
     {

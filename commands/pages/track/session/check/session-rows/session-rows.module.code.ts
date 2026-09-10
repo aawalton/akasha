@@ -8,7 +8,10 @@ import {
   readMountainWallTime,
 } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
-import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import {
+  statesVersionSeven,
+  uuidVersion7,
+} from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import { lowerUuid } from "akasha/pages/name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import {
   numberAt,
@@ -80,8 +83,6 @@ const KEYS = [
   "owner",
   "breathingSets",
 ]
-
-const V7 = /^[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/
 
 const SAFETY_LOW = -2
 const SAFETY_HIGH = 5
@@ -207,7 +208,7 @@ export function idsForTokens(
     let id: string | null = null
     const said = token.toLowerCase()
     if (lowerUuid(said)) {
-      if (V7.test(said)) id = said
+      if (statesVersionSeven(said)) id = said
       else refusals.push(`${token} is no uuid version 7, so no relationship carries it`)
     } else {
       const found = byTitle.get(said) ?? []
@@ -379,7 +380,7 @@ export function faultsIn(rows: readonly Row[], held: Held): readonly string[] {
       if (key.includes("-")) said.push(`${named} carries ${key}, which is spelled in kebab`)
       else if (!KEYS.includes(key)) said.push(`${named} carries ${key}, which no declaration names`)
     }
-    if (typeof row.id !== "string" || !V7.test(row.id)) {
+    if (typeof row.id !== "string" || !statesVersionSeven(row.id)) {
       said.push(`${named} carries an id that is no uuid version 7`)
     } else if (seen.has(row.id)) said.push(`${named} carries an id another row of this day carries`)
     else seen.add(row.id)
