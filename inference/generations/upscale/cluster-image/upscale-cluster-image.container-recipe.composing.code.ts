@@ -1,0 +1,151 @@
+import { dirname, relative } from "node:path"
+import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
+import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+
+const RECIPE = "container-recipe"
+
+const OWN = "upscale-cluster-image"
+
+const SCRIPT = "shell-script"
+
+const SHELL = "shell"
+
+const RUNNER = "upscale-bench-runner"
+
+type Held = {
+  readonly path: string
+  readonly value: Value
+}
+
+function pageOf(given: string | Reading, pageTypeSlug: string, slug: string): Held {
+  const listed = listedAt(given, pageTypeSlug, slug)[0]
+  if (listed === undefined) {
+    throw new Error(
+      `no \`${pageTypeSlug}\` page carries the slug \`${slug}\`, so this recipe copies nothing`
+    )
+  }
+  const value = valuesByPath(given, pageTypeSlug).get(listed.path)
+  if (value === undefined) {
+    throw new Error(`\`${listed.path}\` is filed under \`${pageTypeSlug}\` and carries no value`)
+  }
+  return { path: listed.path, value }
+}
+
+function besideOf(page: Held, propertySlug: string): string {
+  const held = textAt(page.value, exportedAs(propertySlug))
+  if (held === null) {
+    throw new Error(`\`${page.path}\` states no \`${propertySlug}\`, so nothing sits beside it`)
+  }
+  const at = besideAt(page.path, propertySlug, held)
+  if (at === null) throw new Error(`\`${page.path}\` is no TypeScript file, and a page is one`)
+  return at
+}
+
+function copying(given: string | Reading, slug: string, into: string): string {
+  const context = dirname(dirname(pageOf(given, RECIPE, OWN).path))
+  const from = relative(context, besideOf(pageOf(given, SCRIPT, slug), SHELL))
+  return `COPY ${from} ${into}`
+}
+
+export function recipeIn(given: string | Reading): string {
+  const lines = [
+    "# cu121 / Ampere (sm_86) sibling of the workstation Containerfile — for the",
+    "# self-hosted cluster's idle RTX 3080 Ti (node-06, 12 GB, Ampere sm_86, driver",
+    "# 535.247.01 = CUDA 12.2 ceiling). Origin: #14565 (quantify workstation-5080 vs",
+    "# cluster-GPU placement for the SeedVR2 v2.5 upscale recipe).",
+    "#",
+    "# WHY A SEPARATE FILE (not a parameterization of ./Containerfile): the two builds",
+    "# diverge on base OS + CUDA + torch, not just ARG values. The workstation image is",
+    "# CUDA 12.8 / torch 2.9.1 cu128 on ubuntu24.04/python3.12 (Blackwell sm_120). This",
+    "# card's driver (535 = CUDA 12.2) cannot run a cu128 stack, so this image pins the",
+    "# EXACT base #14565 Gate-B-lite proved runs on node-06's driver 535 at sm_86:",
+    "# torch 2.5.1+cu121 (the cu121 wheel bundles sm_50..sm_90, so one image covers",
+    "# Ampere with no card-specific build). cu121 caps torch at 2.5.1 — newer torch",
+    "# moved off cu121 wheels. The -devel tag carries nvcc for any node that compiles.",
+    "#",
+    "# Build: via cluster BuildKit -> in-cluster registry (see the #14565 GPU Job IaC).",
+    "FROM pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel",
+    "",
+    "ENV DEBIAN_FRONTEND=noninteractive",
+    "# Ampere sm_86 is the target; keep 8.0/8.9 so any source-compiled custom CUDA",
+    "# extension covers the near Ampere/Ada arches too. torch's own kernels are",
+    "# prebuilt in the cu121 wheel and ignore this — it only affects nvcc compiles.",
+    'ENV TORCH_CUDA_ARCH_LIST="8.0 8.6 8.9"',
+    "",
+    "# The pytorch base is a conda env with torch 2.5.1+cu121 / torchvision 0.20.1 /",
+    "# torchaudio 2.5.1 PREINSTALLED. Never reinstall torch below — ComfyUI/node",
+    "# requirements list torch unpinned, so pip keeps the proven 2.5.1 build; node",
+    "# requirements still get their torch* pins stripped as a belt-and-braces guard.",
+    "RUN apt-get update && apt-get install --no-install-recommends -y \\",
+    "    git \\",
+    "    wget \\",
+    "    ffmpeg \\",
+    "    libgl1 \\",
+    "    libglib2.0-0 \\",
+    "    && apt-get clean \\",
+    "    && rm -rf /var/lib/apt/lists/*",
+    "",
+    "WORKDIR /app",
+    "",
+    "# Pinned revisions — the SAME refs the workstation image proves, so the recipe",
+    "# (weights, args, node behavior) is byte-for-byte the same code; only the torch/",
+    "# CUDA substrate differs. If ComfyUI HEAD needs torch >= 2.6 the import-smoke at",
+    "# the end of this file fails the build loudly (a real pivot to report, not a",
+    '# silent runtime break). SeedVR2 pinned past the v2.5.6 "natural look" patch.',
+    "ARG COMFYUI_REF=28a40fb2b2b30a6fcd45ff824cc6f1093e26ee90",
+    "ARG COMFYUI_GGUF_REF=6ea2651e7df66d7585f6ffee804b20e92fb38b8a",
+    "ARG SEEDVR2_REF=5a4bf428f3735cc72ac760d40f372f94dec28422",
+    "",
+    "RUN git clone https://github.com/comfyanonymous/ComfyUI.git && \\",
+    "    cd ComfyUI && \\",
+    '    git checkout "${COMFYUI_REF}"',
+    "",
+    "# Strip torch* pins from ComfyUI's own requirements too, so pip cannot pull a",
+    "# newer torch over the proven cu121 build (the cu121 sm_86 footgun mirror of the",
+    "# workstation image's cu128 sm_120 guard).",
+    "RUN sed -i -E '/^(torch|torchvision|torchaudio)([<>=!~ ]|$)/d' /app/ComfyUI/requirements.txt && \\",
+    "    pip install --no-cache-dir -r /app/ComfyUI/requirements.txt",
+    "",
+    "RUN cd /app/ComfyUI/custom_nodes && \\",
+    "    git clone https://github.com/city96/ComfyUI-GGUF.git && \\",
+    "    cd ComfyUI-GGUF && \\",
+    '    git checkout "${COMFYUI_GGUF_REF}" && \\',
+    "    ( [ -f requirements.txt ] && sed -i -E '/^(torch|torchvision|torchaudio)([<>=!~ ]|$)/d' requirements.txt || true ) && \\",
+    "    ( [ -f requirements.txt ] && pip install --no-cache-dir -r requirements.txt || true )",
+    "",
+    "RUN cd /app/ComfyUI/custom_nodes && \\",
+    "    git clone https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git && \\",
+    "    cd ComfyUI-SeedVR2_VideoUpscaler && \\",
+    '    git checkout "${SEEDVR2_REF}" && \\',
+    "    ( [ -f requirements.txt ] && sed -i -E '/^(torch|torchvision|torchaudio)([<>=!~ ]|$)/d' requirements.txt || true ) && \\",
+    "    ( [ -f requirements.txt ] && pip install --no-cache-dir -r requirements.txt || true )",
+    "",
+    "# Weight provision (huggingface_hub) + corpus staging (boto3 -> SeaweedFS S3) run",
+    "# INSIDE the Job; both clients live in the image. hf_transfer speeds any HF pull.",
+    'RUN pip install --no-cache-dir "huggingface_hub[hf_transfer]" boto3',
+    "",
+    "ENV HF_HUB_ENABLE_HF_TRANSFER=1",
+    "ENV PYTORCH_ALLOC_CONF=expandable_segments:True",
+    "",
+    "# Build-time smoke: prove torch 2.5.1+cu121 imports and is the exact proven build.",
+    "# THIS is the real cu121-vs-torch>=2.6 compat signal — if pip had pulled a torch",
+    "# the base couldn't carry, or ComfyUI's HEAD forced a newer wheel, it surfaces",
+    "# HERE as a failed layer, not an opaque runtime error.",
+    "#",
+    "# The full ComfyUI/recipe import is NOT smoked here: the GPU-less BuildKit builder",
+    '# cannot import comfy.model_management (it probes CUDA at import and raises "no',
+    '# NVIDIA driver..."), so that validation is deferred to RUNTIME in the GPU Job —',
+    "# where a genuine torch-API break shows up as the runner's VERDICT FAIL on the",
+    "# first real recipe invocation, on a card that actually has a driver.",
+    "RUN python -c \"import torch; v=torch.__version__; print('torch', v); assert v.startswith('2.5.1+cu121'), v\"",
+    "",
+    copying(given, RUNNER, "/runner/bench-runner.sh"),
+    "",
+    "WORKDIR /app/ComfyUI",
+    'CMD ["sleep", "infinity"]',
+  ]
+  return `${lines.join("\n")}\n`
+}

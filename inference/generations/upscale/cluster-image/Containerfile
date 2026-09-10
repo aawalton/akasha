@@ -88,7 +88,7 @@ ENV PYTORCH_ALLOC_CONF=expandable_segments:True
 # first real recipe invocation, on a card that actually has a driver.
 RUN python -c "import torch; v=torch.__version__; print('torch', v); assert v.startswith('2.5.1+cu121'), v"
 
-COPY k8s/bench-runner.sh /runner/bench-runner.sh
+COPY bench-runner/upscale-bench-runner.shell-script.shell.sh /runner/bench-runner.sh
 
 WORKDIR /app/ComfyUI
 CMD ["sleep", "infinity"]
