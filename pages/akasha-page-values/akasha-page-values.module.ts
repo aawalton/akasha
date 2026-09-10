@@ -46,5 +46,10 @@ export const akashaPageValues = {
       invariantKind: "departure",
       statement: "The rows beside a page are found.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "An akasha page and a markdown page are one population, read here by one reader rather than two.",
+    },
   ],
 } as const satisfies Module
