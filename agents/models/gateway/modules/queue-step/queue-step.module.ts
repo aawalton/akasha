@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const queueStep = {
   id: "01a0622e-02ab-7057-8be5-e820557f3f47",

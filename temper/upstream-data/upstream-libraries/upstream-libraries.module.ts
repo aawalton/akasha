@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const upstreamLibraries = {
   id: "01a06038-2cbf-7931-aedd-7a1b9a4637c4",

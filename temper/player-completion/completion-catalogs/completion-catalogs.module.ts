@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const completionCatalogs = {
   id: "01a0640a-3feb-7271-b1ef-b87cc58a603c",

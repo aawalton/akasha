@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const pointsSourceWriter = {
   id: "01a06972-b8bd-7000-b587-0cff541455bf",

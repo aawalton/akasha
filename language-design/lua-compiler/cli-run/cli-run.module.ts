@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const cliRun = {
   id: "01a06758-8e69-7000-9176-c0074cc6e7d9",

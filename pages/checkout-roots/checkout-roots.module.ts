@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const checkoutRoots = {
   id: "01a05cc6-2a1c-7f1e-96c9-e0e9c57ec04e",

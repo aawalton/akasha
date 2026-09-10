@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryEsoEvalEnv = {
   id: "01a06258-b52a-73ae-8e70-29b3bb5beb50",

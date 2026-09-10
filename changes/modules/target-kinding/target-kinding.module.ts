@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const targetKinding = {
   id: "01a08251-3c27-7aaa-b035-a2345ee394a0",

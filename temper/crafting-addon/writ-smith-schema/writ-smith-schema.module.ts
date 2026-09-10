@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const writSmithSchema = {
   id: "01a061c7-e8b4-73b3-972b-31cdf22fb36b",

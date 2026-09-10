@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const addonDataProof = {
   id: "01a0694d-0713-7912-ae1c-585ecc7d5c1f",

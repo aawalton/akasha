@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const watcherVersion = {
   id: "01a06370-eddf-7a1c-97ea-eec451828f6a",

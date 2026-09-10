@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const commandMeasuring = {
   id: "01a080de-5ff9-7631-b4e9-08d25ce2bf64",

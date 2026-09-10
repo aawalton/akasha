@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const libSetsBoolPair = {
   id: "01a0617b-4b74-7947-906e-dc19a68d36b8",

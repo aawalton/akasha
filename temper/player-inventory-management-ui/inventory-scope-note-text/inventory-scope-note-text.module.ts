@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const inventoryScopeNoteText = {
   id: "01a0636c-5d9b-798b-bb3f-1e3e2f0e002b",

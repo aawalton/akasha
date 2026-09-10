@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const changeGuarding = {
   id: "01a07744-1311-7679-acd5-cea149b8e44a",

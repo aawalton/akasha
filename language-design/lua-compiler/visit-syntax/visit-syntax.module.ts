@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const visitSyntax = {
   id: "01a06758-8eb1-7001-8606-56af49b80634",

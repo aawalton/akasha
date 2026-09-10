@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const blockEditor = {
   id: "01a06252-3448-7e12-8106-ef83c3f43579",

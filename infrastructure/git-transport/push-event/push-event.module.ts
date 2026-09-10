@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pushEvent = {
   id: "01a06816-2f11-7261-bb1b-dbb58f9c4476",

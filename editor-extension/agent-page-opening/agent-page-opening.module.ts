@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const agentPageOpening = {
   id: "01a0686b-bfe9-782e-86e6-c23e6ef21f33",

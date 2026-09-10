@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatActionCooldown = {
   id: "01a0617f-582d-75ae-a17a-7f5b0e13890c",

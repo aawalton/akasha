@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const completionCardTab = {
   id: "01a06103-0618-76fd-8539-d368cdcf6cae",

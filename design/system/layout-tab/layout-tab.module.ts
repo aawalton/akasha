@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const layoutTab = {
   id: "01a05c95-5649-7f87-9879-ae46a62b07b0",

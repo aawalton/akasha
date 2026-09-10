@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const temperAffixScript = {
   id: "01a0607b-153f-78ae-80b4-5abe1d40b1b9",

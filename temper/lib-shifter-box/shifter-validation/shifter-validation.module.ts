@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const shifterValidation = {
   id: "01a06187-3648-714f-848a-aea5555200c1",

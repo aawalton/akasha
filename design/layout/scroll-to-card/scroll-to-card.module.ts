@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const scrollToCard = {
   id: "01a05b82-8b9a-7940-a65c-fca512e8ba32",

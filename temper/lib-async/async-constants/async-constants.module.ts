@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const asyncConstants = {
   id: "01a0606a-1c54-7a06-8b76-419e5170ac50",

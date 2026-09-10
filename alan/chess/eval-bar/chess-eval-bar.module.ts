@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const chessEvalBar = {
   id: "01a05bb1-0c04-7b06-a709-8008028bbbf7",

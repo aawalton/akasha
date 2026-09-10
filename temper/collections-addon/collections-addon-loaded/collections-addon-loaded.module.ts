@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const collectionsAddonLoaded = {
   id: "01a0624c-a660-7bb7-a785-531905b18e57",

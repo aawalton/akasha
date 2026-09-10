@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const webAppReading = {
   id: "01a05af7-5996-7000-9cf8-b27923a0672b",

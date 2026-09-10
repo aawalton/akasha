@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersAntiquityLeadChecks = {
   id: "01a062ed-39a0-700a-b328-1ae517d89942",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const costColor = {
   id: "01a08b96-95c4-7a57-9ee3-efab04e522fc",

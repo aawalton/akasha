@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const personalityTone = {
   id: "01a05c95-5647-7ee8-8ba6-5f37126652f4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pushTapScript = {
   id: "01a05cee-e560-71d2-95a2-e4f789ace504",

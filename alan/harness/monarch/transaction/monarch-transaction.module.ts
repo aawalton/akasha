@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchTransaction = {
   id: "01a0685f-4ed9-79ad-a2e6-7f7ef50b5218",

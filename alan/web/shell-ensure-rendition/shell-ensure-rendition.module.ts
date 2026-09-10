@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const shellEnsureRendition = {
   id: "01a0655d-dab8-7dd0-9ace-1a3e64321ad4",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const completionCategoryTreeComposed = {
   id: "01a06408-dd2e-7659-95d6-455a9c29e7ff",

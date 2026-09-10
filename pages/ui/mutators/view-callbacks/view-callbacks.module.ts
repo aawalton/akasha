@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const viewCallbacks = {
   id: "01a05cac-2a50-7233-b502-27e89ff236f1",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useCompanionUpdate = {
   id: "01a0641f-8bf1-756d-89b2-98306db80d7d",

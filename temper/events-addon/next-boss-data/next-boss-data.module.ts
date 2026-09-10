@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const nextBossData = {
   id: "01a06157-8358-771d-9755-608609075ff5",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inputOtp = {
   id: "01a05b7e-679a-7fde-96e7-5d869caa8b5a",

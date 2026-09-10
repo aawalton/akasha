@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const ruleCardDeleteDialog = {
   id: "01a0636c-5d9b-78ef-b4d7-86e55d060044",

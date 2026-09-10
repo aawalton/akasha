@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const quickAddForm = {
   id: "01a06257-46f8-74d5-a002-4a639f7b09e2",

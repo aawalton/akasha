@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageActionsMenu = {
   id: "01a0610c-430d-756c-bdd4-2f5d5c128366",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const mediaGlobal = {
   id: "01a06069-f8c4-7dae-850f-fe59ef282b81",

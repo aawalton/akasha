@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const gitTreeHash = {
   id: "01a05cee-e560-7f54-b7d4-20862a654a8c",

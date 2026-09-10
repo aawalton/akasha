@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const indexSurface = {
   id: "01a04f55-919c-7d2a-ab3d-8e6aca34022b",

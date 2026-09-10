@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const plantsReading = {
   id: "01a069bc-1aa2-7813-a0df-1f5eed5e0196",

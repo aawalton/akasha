@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const itemTooltip = {
   id: "01a0636c-5d9b-72cf-8645-abd4e5160035",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const destinationsLangCollectiblesFx = {
   id: "01a06269-29f3-7d8b-898f-9f202843d3b3",

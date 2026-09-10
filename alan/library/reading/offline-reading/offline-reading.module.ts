@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const offlineReading = {
   id: "01a0657b-06ac-7293-a09b-01ff92f25730",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const refusing = {
   id: "01a08cba-d78e-707e-a8b3-0f8748457353",

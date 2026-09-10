@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const scrollableMenuUtilVisible = {
   id: "01a06275-c44a-7e89-9fe5-5c2fe3ca230b",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const shapeCore = {
   id: "01a06983-278f-76b7-8ed0-9afe9d90f7be",

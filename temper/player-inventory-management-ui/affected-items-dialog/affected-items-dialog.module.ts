@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const affectedItemsDialog = {
   id: "01a0636c-5d96-71d4-b6a9-8ec22f7e0003",

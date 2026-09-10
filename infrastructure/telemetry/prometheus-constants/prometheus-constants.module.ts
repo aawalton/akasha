@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const prometheusConstants = {
   id: "01a06810-1262-7c57-9e87-4396bceef1e8",

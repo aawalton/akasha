@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const dungeonsTab = {
   id: "01a06432-b190-7747-916a-01f0593a3621",

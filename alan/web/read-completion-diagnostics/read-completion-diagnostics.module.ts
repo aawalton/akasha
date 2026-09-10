@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const readCompletionDiagnostics = {
   id: "01a0655d-dab6-7807-8b66-1a99f4a9ba49",

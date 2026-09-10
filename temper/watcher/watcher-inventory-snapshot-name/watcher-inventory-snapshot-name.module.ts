@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const watcherInventorySnapshotName = {
   id: "01a0633f-8d1e-72bf-94b4-33c274b877c8",

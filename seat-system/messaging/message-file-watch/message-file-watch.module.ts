@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const messageFileWatch = {
   id: "01a06964-d998-7aac-b1db-05b91d24ad90",

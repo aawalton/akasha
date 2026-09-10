@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const accountTab = {
   id: "01a06432-b190-7ad2-a1e5-8107cb828e08",

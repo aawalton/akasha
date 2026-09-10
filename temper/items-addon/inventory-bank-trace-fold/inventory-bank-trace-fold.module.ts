@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryBankTraceFold = {
   id: "01a06258-b528-7c01-a1ff-06f7e3a14a57",

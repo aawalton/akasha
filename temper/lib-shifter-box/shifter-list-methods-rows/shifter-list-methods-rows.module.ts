@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const shifterListMethodsRows = {
   id: "01a06187-364a-7cd9-9370-81009acbb026",

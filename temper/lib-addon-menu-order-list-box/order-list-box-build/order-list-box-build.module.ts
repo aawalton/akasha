@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const orderListBoxBuild = {
   id: "01a06207-bded-733f-a70c-c2a4d78de1d0",

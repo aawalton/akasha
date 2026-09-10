@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageQueryReduce = {
   id: "01a06876-e5ea-7002-83a9-4885bf20bd04",

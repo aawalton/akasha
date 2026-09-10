@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const cnpgObjectStore = {
   id: "01a073ae-3c72-7fb3-bb72-0aa14b804175",

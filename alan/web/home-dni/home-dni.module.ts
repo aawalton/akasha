@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const homeDni = {
   id: "01a0655d-daa7-7945-ac04-32daf772c01c",

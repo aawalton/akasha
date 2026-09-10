@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const temperAppId = {
   id: "01a0640f-850f-7aec-8a0a-91beec68cf78",

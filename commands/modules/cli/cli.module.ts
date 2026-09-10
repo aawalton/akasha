@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const cli = {
   id: "01a04bdd-596d-7b27-bcc5-9acb2728eb0f",

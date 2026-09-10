@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useSentenceHighlight = {
   id: "01a06205-4f3c-7002-b82d-972a0180b440",

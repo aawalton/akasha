@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pushRegisterBody = {
   id: "01a05b54-a907-7932-8f8a-8aed5987a345",

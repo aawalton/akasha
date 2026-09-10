@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const readingChannel = {
   id: "01a0657e-795b-7000-9fd2-c341fb16005c",

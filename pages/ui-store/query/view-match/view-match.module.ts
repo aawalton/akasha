@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const viewMatch = {
   id: "01a05b69-4551-75ff-b040-d348271da6aa",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const addSortButton = {
   id: "01a05c69-c060-702e-980d-68bcf9c202a3",

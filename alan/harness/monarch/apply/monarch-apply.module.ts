@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchApply = {
   id: "01a06867-e5ed-7dbd-9dc1-7068e19aad4f",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatActionCast = {
   id: "01a0617f-582d-7fd2-919b-ee73a2adb7d5",

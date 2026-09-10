@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const emitYaml = {
   id: "01a06813-7b0f-7775-b901-70f0a06199e3",

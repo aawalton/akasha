@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const inventoryFilterBar = {
   id: "01a0636c-5d9a-79fc-a37c-848e4d600014",

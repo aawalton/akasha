@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const recurrenceShape = {
   id: "01a05c6f-c7c3-732d-8113-3c8b675fd74f",

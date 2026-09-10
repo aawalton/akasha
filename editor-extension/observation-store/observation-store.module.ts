@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const observationStore = {
   id: "01a0680d-8b48-7000-aaf0-e6ce2670d86b",

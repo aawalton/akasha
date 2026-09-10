@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const reconcilePlan = {
   id: "01a0685d-4b35-7009-a74b-6d64dd6c2f08",

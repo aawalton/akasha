@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorChildSpawn = {
   id: "01a0683e-3dbe-7010-8b9f-e1ca56441ef8",

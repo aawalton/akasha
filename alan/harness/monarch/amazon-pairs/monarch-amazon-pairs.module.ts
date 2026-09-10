@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchAmazonPairs = {
   id: "01a06866-06f1-75a5-8052-12c391088698",

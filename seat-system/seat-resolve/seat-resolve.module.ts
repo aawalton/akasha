@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const seatResolve = {
   id: "01a06949-b281-737a-9638-365e7ade018a",

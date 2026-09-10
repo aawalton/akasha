@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const applyRunning = {
   id: "01a081bf-3b4f-7261-8bf7-fae03d26357a",

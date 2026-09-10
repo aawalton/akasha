@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const devServerRecording = {
   id: "01a06583-0030-7005-bc8d-acc88730da21",

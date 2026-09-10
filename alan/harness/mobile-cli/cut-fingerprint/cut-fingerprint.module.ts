@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const cutFingerprint = {
   id: "01a05fab-665d-7f4c-bb6b-46467c1b1df8",

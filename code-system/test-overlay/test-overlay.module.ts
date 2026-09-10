@@ -1,4 +1,4 @@
-import type { Module } from "../modules/module.page-type.ts"
+import type { Module } from "../modules/module.page-type.types.ts"
 
 export const testOverlay = {
   id: "01a081dc-ed7c-73ff-9f22-31e2a97f4710",

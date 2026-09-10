@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const housingChatCapture = {
   id: "01a06128-d5c8-74ad-829d-e287530df9eb",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const deployableAddons = {
   id: "01a06060-ec3e-76a0-91e2-ff4014f8a701",

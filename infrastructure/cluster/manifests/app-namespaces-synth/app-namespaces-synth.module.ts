@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const appNamespacesSynth = {
   id: "01a06810-1262-75ee-aa84-9009c06798cf",

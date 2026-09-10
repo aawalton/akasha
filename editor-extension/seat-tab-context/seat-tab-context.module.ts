@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const seatTabContext = {
   id: "01a0686b-bfe9-74a9-988e-2d1c89ebe36f",

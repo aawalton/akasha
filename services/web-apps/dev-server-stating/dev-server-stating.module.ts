@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const devServerStating = {
   id: "01a06583-0030-7004-8711-a9cd6a8dbe3b",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const costReading = {
   id: "01a08b9c-abbc-7be3-b86c-29165739234a",

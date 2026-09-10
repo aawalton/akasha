@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const forward = {
   id: "01a062f9-d8f3-766c-9fde-c4ce5fec4856",

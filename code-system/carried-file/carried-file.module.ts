@@ -1,4 +1,4 @@
-import type { Module } from "../modules/module.page-type.ts"
+import type { Module } from "../modules/module.page-type.types.ts"
 
 export const carriedFile = {
   id: "01a0693a-5bbe-7eb7-8820-1fde5da86eb5",

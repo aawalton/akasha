@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const folderNaming = {
   id: "01a08862-ae61-7aba-8958-91c3c7732e22",

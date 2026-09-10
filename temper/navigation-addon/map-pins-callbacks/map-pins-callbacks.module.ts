@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const mapPinsCallbacks = {
   id: "01a06269-2957-7824-b674-6541b07ddf06",

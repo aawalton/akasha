@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const propertyVisibilityPicker = {
   id: "01a061ee-786e-700a-91b4-f86d40d1c4e2",

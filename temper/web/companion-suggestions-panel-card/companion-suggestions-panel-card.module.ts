@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionSuggestionsPanelCard = {
   id: "01a06421-2522-7599-826a-399a2ca51e7d",

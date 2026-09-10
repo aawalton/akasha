@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersCollectibles = {
   id: "01a062e9-b6fe-7017-96e3-ff77ee98731e",

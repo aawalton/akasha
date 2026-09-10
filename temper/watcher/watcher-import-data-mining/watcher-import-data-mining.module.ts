@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const watcherImportDataMining = {
   id: "01a06381-35cf-7607-b3eb-a46870064d9c",

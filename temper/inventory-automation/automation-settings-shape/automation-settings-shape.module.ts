@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const automationSettingsShape = {
   id: "01a06038-b7a4-79d6-aa24-39870ef827c8",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const transportDeployment = {
   id: "01a06816-2f11-7368-876c-6dd1f691b8bf",

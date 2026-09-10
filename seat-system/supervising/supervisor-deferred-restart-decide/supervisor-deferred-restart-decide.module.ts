@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorDeferredRestartDecide = {
   id: "01a0683e-3dbe-701b-b09a-df583a1df918",

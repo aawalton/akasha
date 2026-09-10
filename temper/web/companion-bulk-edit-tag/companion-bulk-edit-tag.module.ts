@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionBulkEditTag = {
   id: "01a0641f-8be8-74c5-8acd-8a57d6b1b1ea",

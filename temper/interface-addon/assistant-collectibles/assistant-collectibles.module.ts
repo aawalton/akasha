@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const assistantCollectibles = {
   id: "01a060e7-1beb-7c7c-8f92-e0f5d84c2110",

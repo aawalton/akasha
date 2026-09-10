@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const costStoplight = {
   id: "01a08baf-2d7b-7409-962f-a47157e07198",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const builtinConsole = {
   id: "01a06758-8eca-7001-a45d-f12af3293438",

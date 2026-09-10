@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const libSetsDropNameNamesEn = {
   id: "01a061d6-3e27-7dcf-aff1-caab31397e85",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const readoutRelay = {
   id: "01a05b53-8d89-70aa-a7f0-f32ee7eac52b",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const pageTreePanel = {
   id: "01a06867-dbcb-79af-8a3f-3679e67742a9",

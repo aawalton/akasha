@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const triggerSafeNode = {
   id: "01a05be9-d4c6-7f46-863b-e52ebf95e729",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatSavedVariables = {
   id: "01a0617f-584f-7785-9ec6-fb2619c4e668",

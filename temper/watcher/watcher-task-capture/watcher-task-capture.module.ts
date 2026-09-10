@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const watcherTaskCapture = {
   id: "01a076f7-553a-76cf-a7a6-6c6dd69f52a9",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const formatGold = {
   id: "01a05be9-d4c6-70ac-a5fe-56630b82dae2",

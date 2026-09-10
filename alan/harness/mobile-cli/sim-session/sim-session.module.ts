@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const simSession = {
   id: "01a05cee-e560-7fa8-b30a-1b0defa5f6c3",

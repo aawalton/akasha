@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageTypeDescent = {
   id: "01a04eca-11d6-7481-9151-c390edc031c2",

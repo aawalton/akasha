@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const failingAlone = {
   id: "01a0634a-8c28-756d-b32d-65b40d60fdc9",

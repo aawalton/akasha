@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const useShoppingOptimizer = {
   id: "01a063a1-8cc1-7012-9f3f-b87cc07d6482",

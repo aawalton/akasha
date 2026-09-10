@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const emailCommandHelp = {
   id: "01a065a1-0caf-7000-9d20-1632cb9401b2",

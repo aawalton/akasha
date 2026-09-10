@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionsFilterBar = {
   id: "01a0641f-8bef-7567-be70-80b3096ce27e",

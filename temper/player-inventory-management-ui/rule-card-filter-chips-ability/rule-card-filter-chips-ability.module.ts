@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const ruleCardFilterChipsAbility = {
   id: "01a0636c-5da1-7636-aa1b-e8a983c7004e",

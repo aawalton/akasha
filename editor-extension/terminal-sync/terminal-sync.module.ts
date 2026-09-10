@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const terminalSync = {
   id: "01a06811-01d3-7007-b8c1-0a170c1070e7",

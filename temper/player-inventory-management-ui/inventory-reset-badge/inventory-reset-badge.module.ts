@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const inventoryResetBadge = {
   id: "01a0636c-5d9b-778b-ad4c-ebc99c6f001d",

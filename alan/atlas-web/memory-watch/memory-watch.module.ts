@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const memoryWatch = {
   id: "01a06582-6b30-7eba-86d6-b6e95666f148",

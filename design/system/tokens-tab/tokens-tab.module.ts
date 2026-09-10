@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const tokensTab = {
   id: "01a05c95-5647-7322-9714-fb3027c0fb39",

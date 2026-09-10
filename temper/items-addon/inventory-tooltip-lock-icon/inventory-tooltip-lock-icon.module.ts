@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryTooltipLockIcon = {
   id: "01a06258-b534-7aea-a307-990d0bca391c",

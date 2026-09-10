@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const seatToggles = {
   id: "01a0686b-bfe9-7373-bdd9-fdc5b5f86ce5",

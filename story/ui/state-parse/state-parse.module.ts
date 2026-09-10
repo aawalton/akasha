@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const stateParse = {
   id: "01a0628e-a5db-74cc-b5e1-f6a649862d9c",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const catalogInvalidations = {
   id: "01a063ba-94e5-7e75-aef1-fd5d674e72a9",

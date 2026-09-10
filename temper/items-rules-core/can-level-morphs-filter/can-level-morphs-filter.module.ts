@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const canLevelMorphsFilter = {
   id: "01a06100-3be6-725c-a600-133642aa5e5b",

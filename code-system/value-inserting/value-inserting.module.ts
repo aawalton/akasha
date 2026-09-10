@@ -1,4 +1,4 @@
-import type { Module } from "../modules/module.page-type.ts"
+import type { Module } from "../modules/module.page-type.types.ts"
 
 export const valueInserting = {
   id: "01a07be9-0fe1-71dc-a802-443ecc56fe31",

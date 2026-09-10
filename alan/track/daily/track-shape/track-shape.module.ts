@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const trackShape = {
   id: "01a069d7-ba37-75fb-8dbd-6f5be522dda9",

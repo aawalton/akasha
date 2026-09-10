@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const alertSound = {
   id: "01a0628e-a5da-79f9-befc-8d2ab729acdd",

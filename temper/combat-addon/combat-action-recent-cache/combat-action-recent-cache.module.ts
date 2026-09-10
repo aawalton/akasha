@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatActionRecentCache = {
   id: "01a0617f-5834-7e2e-9de6-68cd342d5299",

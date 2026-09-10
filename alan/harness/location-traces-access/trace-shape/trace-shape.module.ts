@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const traceShape = {
   id: "01a05bc7-9129-700b-ba7b-804847cebb2b",

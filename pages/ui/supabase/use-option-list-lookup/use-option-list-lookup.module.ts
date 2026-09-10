@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useOptionListLookup = {
   id: "01a06205-4f3b-7005-8d85-5d5238e765b1",

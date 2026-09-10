@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const runRelaying = {
   id: "01a082e2-3a67-77bb-9aa8-5b6fa40f30c5",

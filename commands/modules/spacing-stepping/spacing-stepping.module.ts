@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const spacingStepping = {
   id: "01a08277-ba81-7b7f-97c0-84c028b4447a",

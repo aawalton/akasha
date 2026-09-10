@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useNextUnread = {
   id: "01a0655d-dab8-7d2b-aa6d-33da0ff5db81",

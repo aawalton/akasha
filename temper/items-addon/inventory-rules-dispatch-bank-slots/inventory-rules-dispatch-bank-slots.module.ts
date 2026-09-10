@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryRulesDispatchBankSlots = {
   id: "01a06258-b530-718c-b327-f3b5d5065cb4",

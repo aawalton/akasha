@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const k8sNamespace = {
   id: "01a07c68-0024-7e4f-88e0-70ee0ed9679b",

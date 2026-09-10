@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const harnessWire = {
   id: "01a08b9e-4c10-7c47-9cc1-698db3594c89",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const oauthHealthLines = {
   id: "01a069c1-1f42-7000-8bec-ad0f2db95abc",

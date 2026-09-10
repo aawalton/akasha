@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchReconcile = {
   id: "01a06865-ecc3-7dce-83d7-64dbed1ee5a2",

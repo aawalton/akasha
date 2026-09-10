@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const resolveComputedType = {
   id: "01a05b92-a9c7-7512-97a6-0038641ce4a3",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const surplusFallTicking = {
   id: "01a0697e-ded3-7147-92a2-3c8650eaf635",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const esoSandboxGlobals = {
   id: "01a06365-e827-7005-8d42-8950da32503e",

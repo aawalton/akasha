@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const smsOptIn = {
   id: "01a05b54-a903-7d92-ba67-13983ceac2c4",

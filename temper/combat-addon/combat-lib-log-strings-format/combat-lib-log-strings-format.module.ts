@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatLibLogStringsFormat = {
   id: "01a0617f-5849-7a45-99a8-60a3af297a3b",

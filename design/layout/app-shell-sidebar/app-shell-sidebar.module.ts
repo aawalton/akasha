@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const appShellSidebar = {
   id: "01a05b82-8b98-7341-a3de-18953237e37f",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorSelfHealState = {
   id: "01a06876-abda-7013-90bf-288dd9d45a60",

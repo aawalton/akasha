@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const inventoryLocationSummaryPanelCard = {
   id: "01a0636c-5d9b-70f8-b4b5-553bf30b0019",

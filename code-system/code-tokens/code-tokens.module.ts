@@ -1,4 +1,4 @@
-import type { Module } from "../modules/module.page-type.ts"
+import type { Module } from "../modules/module.page-type.types.ts"
 
 export const codeTokens = {
   id: "01a06558-3a63-729e-8295-2e17302585fe",

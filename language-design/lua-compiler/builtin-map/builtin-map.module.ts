@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const builtinMap = {
   id: "01a06758-8ecc-7001-8498-f9799716c92c",

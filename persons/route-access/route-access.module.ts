@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const routeAccess = {
   id: "01a05afe-7a0f-7405-b894-524372b09614",

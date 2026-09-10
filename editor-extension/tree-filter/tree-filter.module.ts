@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const treeFilter = {
   id: "01a064d3-f9f9-789e-ad63-cd6848c691b2",

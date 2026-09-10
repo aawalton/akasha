@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const shifterState = {
   id: "01a06187-3647-70fd-8841-585c506fbf77",

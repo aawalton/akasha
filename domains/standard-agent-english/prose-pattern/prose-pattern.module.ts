@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const prosePattern = {
   id: "01a08220-6498-71cb-af30-b73f6642f5fe",

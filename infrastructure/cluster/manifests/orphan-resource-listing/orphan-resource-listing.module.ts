@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const orphanResourceListing = {
   id: "01a0686c-fd2c-7004-911e-afd0ee7326f0",

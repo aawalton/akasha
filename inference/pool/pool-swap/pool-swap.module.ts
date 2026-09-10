@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const poolSwap = {
   id: "01a06815-9efd-700b-85d8-67266e792568",

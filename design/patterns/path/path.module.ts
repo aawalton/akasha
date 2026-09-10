@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const path = {
   id: "01a05c51-8285-728b-b90e-d0110328e046",

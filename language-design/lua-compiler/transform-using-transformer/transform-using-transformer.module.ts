@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const transformUsingTransformer = {
   id: "01a06758-8e73-7000-8e80-8c4d77de6b9c",

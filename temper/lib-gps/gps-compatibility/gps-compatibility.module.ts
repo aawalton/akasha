@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const gpsCompatibility = {
   id: "01a0614d-4761-75c9-89fb-cb8e08aac1a0",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const resizable = {
   id: "01a05be9-d4c4-73a7-a9ee-c8c4e2164c90",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pgbouncerExporterManifests = {
   id: "01a073ae-eadf-7519-a9a3-f4239f049022",

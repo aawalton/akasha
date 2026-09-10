@@ -1,4 +1,4 @@
-import type { Module } from "../modules/module.page-type.ts"
+import type { Module } from "../modules/module.page-type.types.ts"
 
 export const fileKind = {
   id: "01a06553-a9b6-77a7-a681-f8ecbf29a0b3",

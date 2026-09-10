@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const gatedLanding = {
   id: "01a068a4-60f0-7001-aebb-1a5a0fbc991d",

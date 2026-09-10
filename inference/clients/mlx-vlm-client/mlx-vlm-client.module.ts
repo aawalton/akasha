@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const mlxVlmClient = {
   id: "01a0682d-8ef5-7003-ab7a-241d38f5e4c6",

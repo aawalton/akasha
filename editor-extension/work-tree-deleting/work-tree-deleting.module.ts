@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const workTreeDeleting = {
   id: "01a08c50-69e1-76f0-a610-90ebd835ef29",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatUiPlotMath = {
   id: "01a0617f-5859-71b2-ac41-3180a46d6963",

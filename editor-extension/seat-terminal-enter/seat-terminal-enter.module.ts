@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const seatTerminalEnter = {
   id: "01a07810-d1a0-7a18-9605-db774e7b7fc2",

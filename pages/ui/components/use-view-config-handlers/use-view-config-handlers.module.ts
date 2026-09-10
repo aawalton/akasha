@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useViewConfigHandlers = {
   id: "01a05cba-9cbc-7530-9776-64407deb6bbc",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const k8sManifestNodeTargeting = {
   id: "01a06735-dd9c-7004-92b4-3bb95a7cb969",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageLandingJournal = {
   id: "01a0686e-6807-7006-92df-5547fb44ef9f",

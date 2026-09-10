@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageDetailContentHelpers = {
   id: "01a05cce-25ec-7aa2-b61a-7aa7a2d5bc0a",

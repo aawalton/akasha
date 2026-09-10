@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const hooksInventorySettings = {
   id: "01a0636c-5d97-7966-a4c8-930054ce000c",

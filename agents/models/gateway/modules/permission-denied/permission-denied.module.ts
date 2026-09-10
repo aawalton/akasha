@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const permissionDenied = {
   id: "01a0628c-26f7-7c6b-8758-0f0588e8ddf1",

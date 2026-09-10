@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatUiInfoBottom = {
   id: "01a0617f-5855-708d-a33b-1c0469d5b764",

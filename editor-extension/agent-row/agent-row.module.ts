@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const agentRow = {
   id: "01a0686b-bfe9-7005-a82e-21c216ec82ea",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const itemRow = {
   id: "01a05c69-c063-7566-8a9b-689790778f2f",

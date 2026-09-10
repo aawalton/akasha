@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const watcherImportItemRuleVerdicts = {
   id: "01a06381-35cf-75cc-986a-2d84d969ddd4",

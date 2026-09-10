@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const atlasAppId = {
   id: "01a06582-6b2f-7b72-94d2-b59147464737",

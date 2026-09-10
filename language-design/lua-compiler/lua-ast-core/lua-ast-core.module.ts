@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const luaAstCore = {
   id: "01a06758-8e3d-7000-8f27-17562319141f",

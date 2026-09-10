@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const filterableSelectDialog = {
   id: "01a06429-76ff-7cfe-921e-d7a3ba65678e",

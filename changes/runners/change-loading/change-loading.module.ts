@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const changeLoading = {
   id: "01a08161-d992-7ad5-b5f9-6397f53d2002",

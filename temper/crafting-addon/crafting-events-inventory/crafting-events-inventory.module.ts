@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const craftingEventsInventory = {
   id: "01a061c7-e877-7485-ab99-a082b1282463",

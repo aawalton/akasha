@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sourceGlobbing = {
   id: "01a08293-ce34-754b-8be5-2829fd5fb36e",

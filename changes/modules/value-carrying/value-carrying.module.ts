@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const valueCarrying = {
   id: "01a087bd-aa76-78f4-b3d4-1c9d3e6e3a8d",

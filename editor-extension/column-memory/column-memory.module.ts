@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const columnMemory = {
   id: "01a0686b-bfe9-77a5-a194-b6afcc2c2693",

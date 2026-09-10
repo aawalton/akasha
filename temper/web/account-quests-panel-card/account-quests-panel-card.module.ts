@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const accountQuestsPanelCard = {
   id: "01a06421-f74b-7ec3-8872-aa39e4d60007",

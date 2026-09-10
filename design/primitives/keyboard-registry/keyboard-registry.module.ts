@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const keyboardRegistry = {
   id: "01a05be9-d4c7-787e-a190-6647b46fad91",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageDetailProperties = {
   id: "01a06257-46ed-7cf6-b31e-9adb50ca83bc",

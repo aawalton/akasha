@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const payloadTranslator = {
   id: "01a05b69-4556-79e3-bbe6-95c694d630da",

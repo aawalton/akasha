@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const folderGrouping = {
   id: "01a076d1-2008-7e68-acfc-f5b939d07cc3",

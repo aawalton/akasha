@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const dayMessagesTotalling = {
   id: "01a082e7-25cd-7547-840c-7cd58dad9c8c",

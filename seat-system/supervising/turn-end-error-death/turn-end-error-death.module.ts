@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const turnEndErrorDeath = {
   id: "01a069bf-f8d9-7001-82c3-8f6d8aac0f8b",

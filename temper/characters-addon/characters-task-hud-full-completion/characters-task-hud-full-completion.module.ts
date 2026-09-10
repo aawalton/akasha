@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersTaskHudFullCompletion = {
   id: "01a062ee-f016-7068-9131-b41bedd44674",

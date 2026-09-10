@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const safetyReading = {
   id: "01a069bc-9375-7eee-b662-6f844c8880b6",

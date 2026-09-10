@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const inventoryCompanionRulesPanel = {
   id: "01a0636c-5d9a-73df-a4b8-d20e90b10012",

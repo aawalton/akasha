@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const inboxRun = {
   id: "01a06596-a92d-7000-8626-c02c9e56a331",

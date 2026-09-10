@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const shapeReading = {
   id: "01a05dba-d49f-70b7-a3a3-7eb1c069e14d",

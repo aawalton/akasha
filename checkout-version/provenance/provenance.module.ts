@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const provenance = {
   id: "01a05c9d-dcce-77cf-b404-ef5d630d82f9",

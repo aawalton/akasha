@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const useCompanions = {
   id: "01a06360-7480-7003-a85c-d8871a560ac7",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const duringCall = {
   id: "01a05cb3-7cca-7613-8b60-5d8a19e74370",

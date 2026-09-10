@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const dataEncodeDecoder = {
   id: "01a06061-969f-7339-89aa-da319bf80d6b",

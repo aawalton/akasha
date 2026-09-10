@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const chipList = {
   id: "01a05c51-8283-7d96-be73-5a897fb1bb76",

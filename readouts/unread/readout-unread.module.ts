@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const readoutUnread = {
   id: "01a0657f-4cdb-7000-ae3c-a06d78dc0854",

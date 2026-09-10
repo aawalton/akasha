@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const luaAstStatements = {
   id: "01a06758-8e46-7000-8782-c313997f6e44",

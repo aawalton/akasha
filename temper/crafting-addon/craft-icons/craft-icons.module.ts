@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const craftIcons = {
   id: "01a061c7-e850-769a-bd18-03beb3f8e620",

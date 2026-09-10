@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const claudeAccountCredentialPush = {
   id: "01a0637b-78bb-72fd-8486-f9d3a8ac23e5",

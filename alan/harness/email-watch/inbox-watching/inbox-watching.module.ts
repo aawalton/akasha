@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inboxWatching = {
   id: "01a0686a-7a57-789b-82d6-c6d715e27ae4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const temperTargetArmor = {
   id: "01a0607c-1794-712a-bbd3-1a18c8f69fab",

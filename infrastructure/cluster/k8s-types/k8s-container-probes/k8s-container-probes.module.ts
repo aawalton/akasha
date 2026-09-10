@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const k8sContainerProbes = {
   id: "01a06735-dd9c-7003-8196-7db53f7b76dd",

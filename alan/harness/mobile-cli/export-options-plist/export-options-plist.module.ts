@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const exportOptionsPlist = {
   id: "01a05cee-e560-75d1-bc5d-3afdaa86f77d",

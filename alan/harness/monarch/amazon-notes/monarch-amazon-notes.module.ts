@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchAmazonNotes = {
   id: "01a06867-fdff-7f9c-9aa9-9feb98cf40cb",

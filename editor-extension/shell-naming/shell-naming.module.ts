@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const shellNaming = {
   id: "01a072c8-44bf-7715-ac61-a04e16e5f422",

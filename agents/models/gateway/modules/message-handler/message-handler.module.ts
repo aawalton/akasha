@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const messageHandler = {
   id: "01a063af-ee63-7ae8-a74d-3b39fec64b65",

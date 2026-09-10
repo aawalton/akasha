@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const completionNextCharacter = {
   id: "01a0640c-1e9b-7780-ad52-95221a0c40d6",

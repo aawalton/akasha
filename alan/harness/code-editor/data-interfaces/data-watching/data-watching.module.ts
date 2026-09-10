@@ -1,4 +1,4 @@
-import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../../code-system/modules/module.page-type.types.ts"
 
 export const dataWatching = {
   id: "01a07266-d474-7296-bd8e-10c7667fe6b6",

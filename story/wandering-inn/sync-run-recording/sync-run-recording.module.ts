@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const syncRunRecording = {
   id: "01a0686c-fd2c-7002-a269-4f47fac2fd46",

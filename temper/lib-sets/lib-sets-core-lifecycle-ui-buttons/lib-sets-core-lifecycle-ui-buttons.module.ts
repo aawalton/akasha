@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const libSetsCoreLifecycleUiButtons = {
   id: "01a06231-8f1d-713c-8f02-82ee12f29b49",

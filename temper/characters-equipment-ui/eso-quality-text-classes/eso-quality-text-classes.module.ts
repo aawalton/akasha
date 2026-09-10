@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const esoQualityTextClasses = {
   id: "01a06333-1bcc-7c92-9074-8986a87d036f",

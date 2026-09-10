@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const multiSelectPopover = {
   id: "01a0617e-0d2d-7002-aa63-1fc20baf93e3",

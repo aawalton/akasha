@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const copAdmin = {
   id: "01a0685d-4b35-700b-a3ee-538f05dcbe5d",

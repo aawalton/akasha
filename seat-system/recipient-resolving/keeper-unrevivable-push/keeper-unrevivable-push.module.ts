@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const keeperUnrevivablePush = {
   id: "01a0657d-a75e-7007-be2c-6d3c6f633470",

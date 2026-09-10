@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersEventsBuild = {
   id: "01a0632d-cba3-7016-85c9-1835035387d2",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useChromeToggle = {
   id: "01a05cb4-fefc-78a8-a5c0-3bac22198227",

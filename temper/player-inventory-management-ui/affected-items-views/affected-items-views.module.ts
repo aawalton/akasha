@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const affectedItemsViews = {
   id: "01a0636c-5d96-799f-a4a3-b169e3670004",

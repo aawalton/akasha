@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const windowIdentity = {
   id: "01a064e4-627c-7ce5-80a9-ec7e71522da3",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const chatSavedData = {
   id: "01a06060-0d15-7829-a88a-51a1d1860e21",

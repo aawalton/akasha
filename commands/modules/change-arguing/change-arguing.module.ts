@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const changeArguing = {
   id: "01a08174-78c9-7fb4-91e3-ca3e56c1323c",

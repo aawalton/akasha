@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const destinationsGlobal = {
   id: "01a06269-2910-71ad-ac40-d5db67df6dad",

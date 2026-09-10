@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const waitForPort = {
   id: "01a06813-7b0f-7521-9492-72769e9aaf3c",

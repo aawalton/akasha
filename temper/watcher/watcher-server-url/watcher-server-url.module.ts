@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const watcherServerUrl = {
   id: "01a063c7-b010-7ea2-b91f-d479e832a8a3",

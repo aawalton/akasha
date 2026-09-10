@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageCard = {
   id: "01a06257-46e9-7c06-a8f0-6a18df5082fb",

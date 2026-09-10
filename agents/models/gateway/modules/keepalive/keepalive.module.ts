@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const keepalive = {
   id: "01a06227-7bc1-7404-94dc-9da2da8daa1c",

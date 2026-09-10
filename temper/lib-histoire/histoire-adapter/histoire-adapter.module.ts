@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const histoireAdapter = {
   id: "01a06197-4c8a-757b-b39f-8d5fe276be61",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const readoutNoneLeft = {
   id: "01a05b88-a4a3-76a2-abf1-db8351d2a5b7",

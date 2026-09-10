@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const poolConfigBuild = {
   id: "01a0685d-4b35-7006-9a61-f8b884dd2d47",

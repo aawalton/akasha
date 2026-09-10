@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const resourceList = {
   id: "01a06558-c2cc-7004-83e1-2eea1213cc29",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const addonMenuDialogs = {
   id: "01a06100-0000-7000-8000-000000000003",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const priceSourcesTtc = {
   id: "01a0615d-c21c-7c52-934f-292a22f1ed3a",

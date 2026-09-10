@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const seatResumeDriver = {
   id: "01a0686d-9d5e-7016-8168-21e6a3ddfd3a",

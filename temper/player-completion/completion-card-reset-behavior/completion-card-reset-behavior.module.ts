@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const completionCardResetBehavior = {
   id: "01a06108-2fed-70ac-9ab5-6923a6b5d6c1",

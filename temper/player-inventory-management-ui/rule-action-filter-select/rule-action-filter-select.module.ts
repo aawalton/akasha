@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const ruleActionFilterSelect = {
   id: "01a0636c-5d9b-78f5-a696-1e40eeec003b",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const resolveSelectOptions = {
   id: "01a05b92-a9c7-737c-b8ec-aeda234437f2",

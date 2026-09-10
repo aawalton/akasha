@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const chapter = {
   id: "01a06578-5721-7001-b6e6-cb205ab28c07",

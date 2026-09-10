@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const knowledgeCuratedMotifs = {
   id: "01a0622b-dc56-709a-8da0-de660a3730f7",

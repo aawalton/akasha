@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const playRow = {
   id: "01a063b0-cb34-7000-af1c-727892f4698a",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sentenceNarrationContext = {
   id: "01a06164-b506-7008-ae08-28e2e41d30c0",

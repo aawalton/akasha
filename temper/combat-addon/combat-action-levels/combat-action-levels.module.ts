@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatActionLevels = {
   id: "01a0617f-5832-7a0d-9d2e-6acfc9e224e0",

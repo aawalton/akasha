@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const fcoUi = {
   id: "01a06115-1ad8-7a5e-a9fb-cd52f4b41690",

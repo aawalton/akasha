@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchCategorize = {
   id: "01a06865-ecc3-728c-8068-f1a0461fa6d7",

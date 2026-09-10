@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const inventoryRuleFromPages = {
   id: "01a072ae-f698-75c0-bcb4-f2b491d93e68",

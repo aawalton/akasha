@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const seatPlanRunning = {
   id: "01a0686b-bfe9-72a1-aae1-064e9d606367",

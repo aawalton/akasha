@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const packageNaming = {
   id: "01a08236-274a-7266-ab52-6e34c361587e",

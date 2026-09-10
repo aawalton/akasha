@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const jsonPropertyBadge = {
   id: "01a0620f-82c5-7008-92f3-be05de1267a1",

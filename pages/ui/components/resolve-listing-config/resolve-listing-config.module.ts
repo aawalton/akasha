@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const resolveListingConfig = {
   id: "01a05c40-2194-75a5-b9ad-3641db5b45fc",

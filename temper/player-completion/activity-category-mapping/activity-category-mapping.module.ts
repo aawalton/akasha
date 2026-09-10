@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const activityCategoryMapping = {
   id: "01a0630d-a106-7da5-b99e-785c3f6f6bfe",

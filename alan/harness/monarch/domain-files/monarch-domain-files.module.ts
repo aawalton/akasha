@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchDomainFiles = {
   id: "01a06865-ecc3-7ebe-8112-4082e54070c4",

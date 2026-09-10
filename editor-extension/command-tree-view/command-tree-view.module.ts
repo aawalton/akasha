@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const commandTreeView = {
   id: "01a07c94-33b9-7ddc-97b7-5878bb0f8a07",

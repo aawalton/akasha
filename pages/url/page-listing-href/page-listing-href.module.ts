@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageListingHref = {
   id: "01a05c13-a261-7a82-8751-92a919b715ed",

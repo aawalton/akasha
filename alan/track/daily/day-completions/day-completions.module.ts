@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const dayCompletions = {
   id: "01a072fc-7da3-75a0-8778-f8e29a144fe0",

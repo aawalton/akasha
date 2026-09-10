@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sessionActing = {
   id: "01a07979-7dc5-790d-be68-e06fd961532b",

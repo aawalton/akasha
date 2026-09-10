@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const applyClientViewFilters = {
   id: "01a05cb4-fefa-7fa2-9ac2-3806f0556422",

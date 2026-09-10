@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const racialAndCraftSkillLines = {
   id: "01a0608a-c134-7a46-8ccf-242d3505a448",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const secretSaying = {
   id: "01a07667-e09b-7f6e-bc84-5a76ea3566f4",

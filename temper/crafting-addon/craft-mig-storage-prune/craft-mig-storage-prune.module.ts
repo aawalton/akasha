@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const craftMigStoragePrune = {
   id: "01a061c7-e85c-71a2-ac7b-864733adccf4",

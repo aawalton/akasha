@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const gitCapping = {
   id: "01a06893-5354-7000-a08b-3fa0ccdb05c0",

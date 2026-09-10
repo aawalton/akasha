@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const temperSourceCategory = {
   id: "01a0607c-1793-7498-b468-41e30e859a3f",

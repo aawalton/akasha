@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const craftRuneCrafting = {
   id: "01a061c7-e864-79ce-90ad-d23439f2df55",

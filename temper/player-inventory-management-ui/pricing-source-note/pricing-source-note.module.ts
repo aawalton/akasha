@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const pricingSourceNote = {
   id: "01a0636c-5d9b-7f84-8400-1cfae15e0039",

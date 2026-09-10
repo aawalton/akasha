@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const fileWrite = {
   id: "01a05bd6-c531-7a9e-9505-89164f47be5f",

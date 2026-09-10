@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchCredential = {
   id: "01a0685f-4ed9-74ca-87d5-38f3cedf684a",

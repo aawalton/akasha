@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sidebarNavGroup = {
   id: "01a05b82-8b99-7119-8719-2d2b7c200231",

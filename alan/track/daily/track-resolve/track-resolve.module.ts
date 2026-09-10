@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const trackResolve = {
   id: "01a069d3-579d-76b4-9f16-dad14c0aa30d",

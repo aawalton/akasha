@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const tradingSavedSearchBar = {
   id: "01a06160-2a5c-7023-b9e8-db3415a32e0a",

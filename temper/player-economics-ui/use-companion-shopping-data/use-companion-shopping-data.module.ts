@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const useCompanionShoppingData = {
   id: "01a063a1-8cc1-7010-8b74-d5f6fa0b08d5",

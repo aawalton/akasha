@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const errorsAddonHooks = {
   id: "01a060d8-091a-7436-a0ac-00c5553d0e0b",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const ruleCategoryFilterSelect = {
   id: "01a0636c-5da1-7e06-bb03-84a15644005c",

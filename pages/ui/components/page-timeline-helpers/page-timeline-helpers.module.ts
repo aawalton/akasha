@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageTimelineHelpers = {
   id: "01a05cce-25ec-700a-89fa-64c10561f7ba",

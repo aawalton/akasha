@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const fileAnswering = {
   id: "01a0784a-085f-7c1d-aec3-7e04a398f007",

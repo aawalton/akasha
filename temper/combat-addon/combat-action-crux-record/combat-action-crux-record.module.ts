@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatActionCruxRecord = {
   id: "01a0617f-582e-7365-a942-60fb41a14b76",

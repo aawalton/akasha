@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sortGroup = {
   id: "01a05c69-c064-72d7-ae25-1e5f03074c97",

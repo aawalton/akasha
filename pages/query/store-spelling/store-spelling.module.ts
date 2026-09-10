@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const storeSpelling = {
   id: "01a06369-1e85-764a-90a8-c72d834a1882",

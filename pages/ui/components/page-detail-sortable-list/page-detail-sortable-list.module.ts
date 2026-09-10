@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageDetailSortableList = {
   id: "01a0617e-0d2d-7008-a3eb-b327b28a824a",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const extensionEntry = {
   id: "01a0680b-7175-7003-911e-8a75aa9ad7d4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorProxyAdoptionDecide = {
   id: "01a06838-5a84-7004-bfa3-4f11134ef503",

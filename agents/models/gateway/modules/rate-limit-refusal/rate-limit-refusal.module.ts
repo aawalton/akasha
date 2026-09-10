@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const rateLimitRefusal = {
   id: "01a0643b-c943-7a1f-b0e1-0b4d0a926680",

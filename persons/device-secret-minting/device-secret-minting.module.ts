@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const deviceSecretMinting = {
   id: "01a05b54-a906-71e9-a3de-4d27766113e0",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const ruleNotesDialog = {
   id: "01a0636c-5da1-74a8-917d-0d9daa47005e",

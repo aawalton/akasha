@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const minimapTweaksPinManagers = {
   id: "01a06269-2994-7dda-9980-a3386357cec0",

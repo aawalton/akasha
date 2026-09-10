@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const frameViewPropertiesMenu = {
   id: "01a061ee-786e-7003-bc56-b09cfb045571",

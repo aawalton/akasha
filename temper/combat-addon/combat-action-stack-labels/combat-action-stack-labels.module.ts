@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatActionStackLabels = {
   id: "01a0617f-5836-7b06-81f1-994b477baf0c",

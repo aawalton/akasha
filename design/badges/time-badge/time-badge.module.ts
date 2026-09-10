@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const timeBadge = {
   id: "01a05b55-a539-7bb2-a6ac-6f589d10aca3",

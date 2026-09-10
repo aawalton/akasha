@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const questsTraceBuffer = {
   id: "01a0635f-391c-740a-af70-4aa092d380b2",

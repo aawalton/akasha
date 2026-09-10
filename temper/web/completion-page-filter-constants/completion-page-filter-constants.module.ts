@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const completionPageFilterConstants = {
   id: "01a06421-f74b-7781-8fbc-50d8d5c90026",

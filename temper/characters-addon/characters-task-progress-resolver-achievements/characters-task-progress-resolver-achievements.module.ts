@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersTaskProgressResolverAchievements = {
   id: "01a062ee-f074-706d-bd14-828ab2ea08f5",

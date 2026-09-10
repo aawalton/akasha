@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const treasureCasts = {
   id: "01a061d5-d0b3-779c-a12e-41bcbf143e5d",

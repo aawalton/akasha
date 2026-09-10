@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const characterActions = {
   id: "01a0642c-5b96-740b-bb8f-b1a8f348f53a",

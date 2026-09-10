@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useAudioSeekAndPlay = {
   id: "01a05cce-25ec-7e03-bba8-2d6892423275",

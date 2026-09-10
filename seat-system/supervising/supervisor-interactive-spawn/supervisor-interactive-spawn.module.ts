@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorInteractiveSpawn = {
   id: "01a06871-3115-7008-8fbf-3dbf3b640571",

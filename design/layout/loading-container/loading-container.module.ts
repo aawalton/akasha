@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const loadingContainer = {
   id: "01a05b82-8b98-7351-b078-dada61feacd9",

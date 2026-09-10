@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const authProxyConfig = {
   id: "01a06863-8e7c-7047-9da8-7b7f8e0ac120",

@@ -1,4 +1,4 @@
-import type { Module } from "../modules/module.page-type.ts"
+import type { Module } from "../modules/module.page-type.types.ts"
 
 export const packageManifest = {
   id: "01a05ae4-fc70-7000-89a5-77bf2b9786ae",

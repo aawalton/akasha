@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const flagArguing = {
   id: "01a08210-304b-74bd-95f9-7f1105af1da7",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const useInventoryRulesTabAffectedItems = {
   id: "01a0636c-5da1-73f0-9a3f-7723d2fa0066",

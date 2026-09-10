@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const stateLayers = {
   id: "01a05c95-5648-7e5b-b070-cd67d96289bb",

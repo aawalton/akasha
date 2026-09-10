@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const geminiImageClient = {
   id: "01a0682d-8ef5-7004-ae3d-4d4efd7dcff0",

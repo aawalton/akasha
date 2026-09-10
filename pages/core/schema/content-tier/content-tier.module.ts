@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const contentTier = {
   id: "01a05b92-a9c7-720e-9bdf-c21a8b4aa1b4",

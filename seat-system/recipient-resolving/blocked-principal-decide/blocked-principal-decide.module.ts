@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const blockedPrincipalDecide = {
   id: "01a0686d-9d5e-7019-8649-bafbe4a8eaa2",

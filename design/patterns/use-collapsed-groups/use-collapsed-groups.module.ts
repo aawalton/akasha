@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useCollapsedGroups = {
   id: "01a05c69-c065-7bf9-a4a2-46bcc372e20e",

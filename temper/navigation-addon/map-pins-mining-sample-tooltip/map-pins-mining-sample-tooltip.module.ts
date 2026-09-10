@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const mapPinsMiningSampleTooltip = {
   id: "01a06269-2ae1-7438-ae5d-0cfd8d246c51",

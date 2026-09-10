@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const classMappings = {
   id: "01a06340-4913-74f3-a491-8b1a1a81de29",

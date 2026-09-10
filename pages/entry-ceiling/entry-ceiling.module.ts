@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const entryCeiling = {
   id: "01a0680c-5278-7c36-a60c-23134f2fdb94",

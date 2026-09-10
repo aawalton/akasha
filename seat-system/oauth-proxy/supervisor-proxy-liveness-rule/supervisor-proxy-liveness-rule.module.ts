@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorProxyLivenessRule = {
   id: "01a0687b-aa85-7000-bfa7-d7df4d303aa0",

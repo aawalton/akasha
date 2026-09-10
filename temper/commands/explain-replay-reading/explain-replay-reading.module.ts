@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const explainReplayReading = {
   id: "01a06864-aa2b-7005-8de7-99cdead2fd47",

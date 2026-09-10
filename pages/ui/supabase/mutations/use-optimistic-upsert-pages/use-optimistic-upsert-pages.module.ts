@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useOptimisticUpsertPages = {
   id: "01a061cd-1a4e-7007-bdcd-9737ecb8ffd8",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const trackFormat = {
   id: "01a069d3-579d-7bf2-b2eb-94f6f4ff62ec",

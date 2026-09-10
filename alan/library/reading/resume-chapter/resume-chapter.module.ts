@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const resumeChapter = {
   id: "01a0657b-06a8-716a-87eb-27c655f48320",

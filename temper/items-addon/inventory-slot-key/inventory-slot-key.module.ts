@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventorySlotKey = {
   id: "01a06267-2a3a-74b2-b07d-ff1fc7dcfd64",

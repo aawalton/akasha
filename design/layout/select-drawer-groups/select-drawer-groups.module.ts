@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const selectDrawerGroups = {
   id: "01a05b82-8b9a-705c-ac33-89e3e10ce973",

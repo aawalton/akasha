@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersKeyedMerge = {
   id: "01a062ea-5f64-7fa1-aa0a-0b08766288df",

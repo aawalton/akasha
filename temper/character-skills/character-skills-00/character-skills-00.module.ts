@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const characterSkills00 = {
   id: "01a06182-7818-7e29-abd6-c2963db70f64",

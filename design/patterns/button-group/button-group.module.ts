@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const buttonGroup = {
   id: "01a05c51-8282-758e-b2e1-9b22c61c662f",

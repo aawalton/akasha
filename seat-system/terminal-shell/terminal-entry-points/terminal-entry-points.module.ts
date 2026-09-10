@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const terminalEntryPoints = {
   id: "01a0680a-fa30-7c2d-9713-6347088773b7",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const classCatalogCapture = {
   id: "01a0616b-f141-7efe-a7d2-34bffceb52dd",

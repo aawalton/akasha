@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const commandServerClient = {
   id: "01a064ea-f958-7000-98c8-4e49f2868f5f",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatLibDeath = {
   id: "01a0617f-5844-7b9e-bb3a-36bfa41e39fe",

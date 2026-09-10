@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const royalRoadPages = {
   id: "01a0657f-4492-7001-ad86-00f3e943bd74",

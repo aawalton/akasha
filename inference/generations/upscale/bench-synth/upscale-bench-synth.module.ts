@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const upscaleBenchSynth = {
   id: "01a06815-9efd-7033-94e5-a09ca99e9413",

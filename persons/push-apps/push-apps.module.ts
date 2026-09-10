@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pushApps = {
   id: "01a05c96-89f6-764e-b32f-d57a6a43bb6b",

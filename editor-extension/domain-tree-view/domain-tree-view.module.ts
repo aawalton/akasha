@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const domainTreeView = {
   id: "01a06867-dbcb-7f8b-95a7-e07e36cdffee",

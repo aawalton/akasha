@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const musicbrainzClient = {
   id: "01a06262-ff4c-7000-b193-5ca094701486",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const libSetsGenZoneIdsOfNewerApiVersion = {
   id: "01a061fc-cee8-7893-86a9-c6e36f1902df",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const kubepodsOomConstants = {
   id: "01a06810-1262-7537-a01a-c7a74da24d2a",

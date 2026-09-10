@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const fixtureWorld = {
   id: "01a088b6-9456-73ee-9f1f-a92536a61b7b",

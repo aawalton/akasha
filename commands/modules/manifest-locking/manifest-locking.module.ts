@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const manifestLocking = {
   id: "01a0628d-2f09-7f63-8d3a-27494e9ec287",

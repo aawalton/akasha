@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventorySkillMorphsProgress = {
   id: "01a06258-b534-770b-883e-3e050d93de9e",

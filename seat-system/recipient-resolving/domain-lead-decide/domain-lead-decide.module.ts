@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const domainLeadDecide = {
   id: "01a0686d-9d5e-701a-ba33-fdc3ba8ade91",

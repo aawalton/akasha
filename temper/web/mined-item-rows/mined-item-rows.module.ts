@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const minedItemRows = {
   id: "01a0640f-8510-7325-9208-0be4870d37e6",

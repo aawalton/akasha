@@ -1,18 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-import type { AllowsTmpPaths } from "akasha/pages/types/properties/allows-tmp-paths.boolean-property.ts"
-import type { Code } from "./properties/code.code-file-property.ts"
-import type { ModuleTypes } from "./properties/module-types.file-property.ts"
-import type { Test } from "./properties/test.code-file-property.ts"
-import type { TestFixtures } from "./properties/test-fixtures.code-file-property.ts"
-
-export type Module = Domain & {
-  code: Code
-  types?: ModuleTypes
-  test?: Test
-  testFixtures?: TestFixtures
-  allowsTmpPaths?: AllowsTmpPaths
-}
 
 export const module = {
   id: "01a04a20-6e04-7b99-81a0-0efe0ad0a02a",
@@ -66,4 +52,5 @@ export const module = {
         "A module composing the code a container runs says its paths are that container's.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

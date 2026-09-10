@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const visitArrayLength = {
   id: "01a06758-8e99-7000-860d-905b1d97e15b",

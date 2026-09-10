@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const readingShapes = {
   id: "01a0657b-06a7-7ae0-baf9-5cce272d89ba",

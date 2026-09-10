@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const persistMedia = {
   id: "01a0685d-4b35-7011-b5f2-eee71f6ba3fd",

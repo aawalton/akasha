@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const promtailManifests = {
   id: "01a06816-68b1-702f-9567-6866b7d0ae7a",

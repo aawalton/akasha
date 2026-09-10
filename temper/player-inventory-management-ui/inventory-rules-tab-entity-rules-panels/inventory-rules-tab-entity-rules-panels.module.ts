@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const inventoryRulesTabEntityRulesPanels = {
   id: "01a0636c-5d9b-7adf-9c01-d1e572e20027",

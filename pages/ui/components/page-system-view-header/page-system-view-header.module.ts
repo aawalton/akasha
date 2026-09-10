@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageSystemViewHeader = {
   id: "01a06205-4f3c-7005-9a2f-4988e3ec526a",

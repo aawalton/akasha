@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const characterTargetSelect = {
   id: "01a0636c-5d97-74d0-b867-42b23aa30006",

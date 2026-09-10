@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const dropdownMenu = {
   id: "01a05be9-d4c3-730b-986a-8b2c0def431e",

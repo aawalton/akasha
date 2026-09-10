@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const parseInlineTokens = {
   id: "01a05c40-2195-7ad7-95be-2a30f075352e",

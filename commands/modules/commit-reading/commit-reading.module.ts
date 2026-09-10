@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const commitReading = {
   id: "01a0523f-0e48-7c39-8708-125994cc3e59",

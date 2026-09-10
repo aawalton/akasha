@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const libSetsDebugDebugState = {
   id: "01a0623c-2df7-753c-824c-7675ce095ff4",

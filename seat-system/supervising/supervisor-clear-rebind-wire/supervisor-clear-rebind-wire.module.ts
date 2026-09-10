@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorClearRebindWire = {
   id: "01a0683e-3dbe-7013-ac46-7d54c415b88f",

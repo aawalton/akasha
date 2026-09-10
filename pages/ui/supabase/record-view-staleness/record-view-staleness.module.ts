@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const recordViewStaleness = {
   id: "01a05c7d-d06c-7985-bfc8-15ef610079f6",

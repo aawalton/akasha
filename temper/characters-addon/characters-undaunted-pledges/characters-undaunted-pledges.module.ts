@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersUndauntedPledges = {
   id: "01a062ed-398d-7009-a4a9-bb8458c10c02",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const subagentCore = {
   id: "01a064f0-734e-7c00-b4ef-b9db7fa30feb",

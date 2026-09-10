@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const composeSeatName = {
   id: "01a06949-b281-7447-ab77-9ecbb5f9f139",

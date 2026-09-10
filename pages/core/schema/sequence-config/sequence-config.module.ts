@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sequenceConfig = {
   id: "01a05b92-a9c7-78b1-a821-ff8393d6f06b",

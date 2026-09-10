@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const surfaceClass = {
   id: "01a05be9-d4c5-72dc-bb88-067631914b0d",

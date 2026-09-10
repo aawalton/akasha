@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const viewTargetSlugs = {
   id: "01a05b69-4553-7d6d-9198-7fe7231f98f8",

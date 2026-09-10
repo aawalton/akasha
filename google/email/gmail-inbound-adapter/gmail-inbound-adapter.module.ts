@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const gmailInboundAdapter = {
   id: "01a05c0e-3731-700e-afc0-458bb381fe6a",

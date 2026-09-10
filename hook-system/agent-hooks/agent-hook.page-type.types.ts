@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 import type { OverTools } from "./properties/over-tools.text-property.ts"
 import type { RunsAt } from "./properties/runs-at.text-property.ts"
 

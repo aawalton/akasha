@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const repoMeasuring = {
   id: "01a05a0e-6376-7000-a013-86be99eb36e0",

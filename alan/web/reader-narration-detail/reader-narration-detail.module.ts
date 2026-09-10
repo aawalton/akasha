@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const readerNarrationDetail = {
   id: "01a0655d-dab9-7e94-85cc-d8ee503c200b",

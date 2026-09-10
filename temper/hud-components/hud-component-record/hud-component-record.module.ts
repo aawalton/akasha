@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const hudComponentRecord = {
   id: "01a060a4-fa39-7073-a59e-f1228678be33",

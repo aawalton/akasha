@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const headscaleConfigmaps = {
   id: "01a073ae-918c-7c1a-9185-5b43e6dc6fb3",

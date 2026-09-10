@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const housingLibraryTab = {
   id: "01a06128-d5d0-76b8-ae19-d877e4ff3a33",

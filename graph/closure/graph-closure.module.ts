@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const graphClosure = {
   id: "01a06949-b281-77a7-a26f-52612d6b3af0",

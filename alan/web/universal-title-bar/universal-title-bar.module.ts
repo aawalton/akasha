@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const universalTitleBar = {
   id: "01a0655d-daba-741e-bfd8-5f9f906b20fd",

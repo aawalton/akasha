@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const displayFrame = {
   id: "01a061ee-786e-7002-8593-6e84c28689af",

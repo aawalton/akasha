@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const seaweedfsDeployments = {
   id: "01a06816-68b0-7032-92cb-02e742a97bc7",

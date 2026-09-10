@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const accountWideVars = {
   id: "01a060b5-5ba8-7a8b-9378-5bd025a7cb9d",

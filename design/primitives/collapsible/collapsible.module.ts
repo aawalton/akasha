@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const collapsible = {
   id: "01a05be9-d4c2-7243-b508-6d1cb3b57192",

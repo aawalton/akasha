@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const strategicPrism = {
   id: "01a05c95-5647-7001-ae17-8b75c4235bd7",

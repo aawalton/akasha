@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const sheetPanel = {
   id: "01a0629b-6851-766f-a3b3-76b010efa64a",

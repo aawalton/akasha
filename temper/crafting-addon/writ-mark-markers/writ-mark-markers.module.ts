@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const writMarkMarkers = {
   id: "01a061c7-e8a3-7d0b-825a-af08c755bdc2",

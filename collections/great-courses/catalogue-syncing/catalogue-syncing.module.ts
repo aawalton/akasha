@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const catalogueSyncing = {
   id: "01a0686a-7a57-7999-b904-b23c1ed07377",

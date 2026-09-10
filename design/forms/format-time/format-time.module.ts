@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const formatTime = {
   id: "01a05b7e-679a-7907-8c7e-fd0b3cf45314",

@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const ruleCardDestinationTierEligibility = {
   id: "01a0636c-5da1-7c94-bd1e-ec989a3c0047",

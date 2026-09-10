@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const remarkMentions = {
   id: "01a06164-b506-700f-8008-3dd198411176",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const overdueRolling = {
   id: "01a0795a-2cb4-7d47-b7d6-2b120f641fd4",

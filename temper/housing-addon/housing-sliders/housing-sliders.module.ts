@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const housingSliders = {
   id: "01a06128-d5d3-7266-b58c-be10d8a99596",

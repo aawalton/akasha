@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const agentTreeLookup = {
   id: "01a0686b-bfe9-784a-84aa-10a105843c4e",

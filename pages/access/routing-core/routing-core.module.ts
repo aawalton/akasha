@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const routingCore = {
   id: "01a05bd6-c535-767d-b8ac-7e540084e42d",

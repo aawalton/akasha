@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const libSetsCoreApiNav = {
   id: "01a061fc-ceed-790c-89ab-adf54c99f601",

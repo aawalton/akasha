@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const skillMorphTaskAutoComplete = {
   id: "01a062ff-2792-7aa7-a73d-f2524e5cea55",

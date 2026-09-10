@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const targetingBadges = {
   id: "01a06421-2523-7b65-804e-4591f14e557d",

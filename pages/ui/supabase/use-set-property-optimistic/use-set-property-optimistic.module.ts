@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useSetPropertyOptimistic = {
   id: "01a061df-fe7f-7002-af61-f503ba384122",

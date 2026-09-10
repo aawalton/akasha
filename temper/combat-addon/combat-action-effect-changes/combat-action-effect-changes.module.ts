@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatActionEffectChanges = {
   id: "01a0617f-5830-77f3-bf68-4e4de4fe60ef",

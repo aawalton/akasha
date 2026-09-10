@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryItemData = {
   id: "01a06258-b52d-7b46-8cda-3be08ef726d7",

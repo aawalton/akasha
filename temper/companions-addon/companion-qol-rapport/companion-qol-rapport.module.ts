@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionQolRapport = {
   id: "01a0611d-84c9-7d1c-bcd6-6f53dc233a78",

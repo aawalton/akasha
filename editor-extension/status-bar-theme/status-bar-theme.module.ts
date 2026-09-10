@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const statusBarTheme = {
   id: "01a064c8-9a9c-7a35-9db1-b8f1d3cbf839",

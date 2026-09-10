@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pageCarry = {
   id: "01a0686e-6807-7000-9245-b0c6335299c1",

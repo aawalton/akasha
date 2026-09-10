@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const relationPropertyBadge = {
   id: "01a0620f-82c5-7010-b139-902402a62bc1",

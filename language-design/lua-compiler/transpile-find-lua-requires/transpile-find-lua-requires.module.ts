@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const transpileFindLuaRequires = {
   id: "01a06758-8ed1-7001-903b-f57b5d79f469",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const buffOrDebuffExplanationDialog = {
   id: "01a0642c-5bb2-7415-9c78-954cf3005cf5",

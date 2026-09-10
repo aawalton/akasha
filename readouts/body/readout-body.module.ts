@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const readoutBody = {
   id: "01a05e63-1c18-7baa-a113-890ebfb04463",

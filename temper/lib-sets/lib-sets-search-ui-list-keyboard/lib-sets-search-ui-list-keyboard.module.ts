@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const libSetsSearchUiListKeyboard = {
   id: "01a0623e-53a0-7e39-b6fd-9b8f3654ae21",

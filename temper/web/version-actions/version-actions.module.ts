@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const versionActions = {
   id: "01a06589-8dc5-7000-8767-4f9e56617cf9",

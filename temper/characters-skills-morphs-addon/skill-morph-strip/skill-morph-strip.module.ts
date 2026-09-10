@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const skillMorphStrip = {
   id: "01a062ff-2792-7242-99d5-2b4bb82669b1",

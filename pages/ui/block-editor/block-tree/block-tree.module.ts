@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const blockTree = {
   id: "01a06164-b506-700e-903b-fbbe63e551e5",

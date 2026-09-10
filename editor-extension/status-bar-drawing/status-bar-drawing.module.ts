@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const statusBarDrawing = {
   id: "01a06816-69fa-7000-b090-e3d420f7dce0",

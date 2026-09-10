@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const housingUpstreamPort = {
   id: "01a0683b-e6a3-7d85-beb0-b2d13fdf25bb",

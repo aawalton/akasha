@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const slashCommanderProviders = {
   id: "01a06066-8402-7658-aac7-0ba6020e3995",

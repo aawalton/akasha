@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const jennyShell = {
   id: "01a06558-c2cc-700a-89e3-27c5e622acc4",

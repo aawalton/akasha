@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const editorGroup = {
   id: "01a064d3-f9f9-7a0f-bdd7-95ee76ccf31e",

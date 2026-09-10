@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const generateSortOptions = {
   id: "01a05b92-a9c7-7184-b2a4-f2e35540cf12",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const zonePublicApi = {
   id: "01a061e7-9336-72de-8b6e-4e0717e35ed6",

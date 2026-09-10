@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchShape = {
   id: "01a0685f-4ed8-7f56-8b0b-c5eb38474e06",

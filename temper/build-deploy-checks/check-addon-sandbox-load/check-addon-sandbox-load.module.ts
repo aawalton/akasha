@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const checkAddonSandboxLoad = {
   id: "01a06365-e827-7009-9a16-7217fe717a36",

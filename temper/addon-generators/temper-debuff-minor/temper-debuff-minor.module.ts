@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const temperDebuffMinor = {
   id: "01a0607b-e917-7e3c-a300-8f11b3583cc1",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const componentsSelectionPanels = {
   id: "01a05c95-5649-7ff5-9af7-7122a2e84174",

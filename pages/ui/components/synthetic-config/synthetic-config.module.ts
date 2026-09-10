@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const syntheticConfig = {
   id: "01a05cce-25ec-7ff8-bc53-96b43a0253f7",

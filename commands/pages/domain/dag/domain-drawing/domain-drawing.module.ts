@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const domainDrawing = {
   id: "01a07c03-68a7-7fca-91e7-b541e1efa8cb",

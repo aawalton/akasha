@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const dayPlace = {
   id: "01a069d3-579d-715a-9504-7309c60e2eba",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const craftingPublicApi = {
   id: "01a061c7-e878-7429-872c-b46e431b460d",

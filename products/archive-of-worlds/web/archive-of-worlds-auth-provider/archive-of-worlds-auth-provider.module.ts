@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const archiveOfWorldsAuthProvider = {
   id: "01a06582-2737-7f5c-8019-8dd5e784db92",

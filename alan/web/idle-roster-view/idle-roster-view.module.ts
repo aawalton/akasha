@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const idleRosterView = {
   id: "01a0655d-dac0-7cfe-803f-555661832078",

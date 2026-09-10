@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const setSelectDialog = {
   id: "01a0642d-9a17-737e-aba1-6edefa44c29f",

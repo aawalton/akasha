@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const chatMessageConstants = {
   id: "01a06060-0d15-7df5-abbc-1aabd8bc7f85",

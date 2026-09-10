@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const logViewer = {
   id: "01a05c51-8285-7c93-9aba-1438c222c58e",

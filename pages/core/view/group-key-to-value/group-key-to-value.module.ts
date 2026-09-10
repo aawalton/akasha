@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const groupKeyToValue = {
   id: "01a05b92-a9c7-7a47-aa34-4d08c086e6e6",

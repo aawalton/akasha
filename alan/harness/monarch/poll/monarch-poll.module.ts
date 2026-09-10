@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const monarchPoll = {
   id: "01a06868-1536-7a16-9123-ffbef5c8c5b5",

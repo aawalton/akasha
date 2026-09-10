@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useInlineCompletion = {
   id: "01a05c40-2196-76a5-86e6-fa407ef6bfdd",

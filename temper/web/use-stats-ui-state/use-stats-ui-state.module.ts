@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useStatsUiState = {
   id: "01a0642c-5bbb-7f02-98eb-edecdf3fd440",

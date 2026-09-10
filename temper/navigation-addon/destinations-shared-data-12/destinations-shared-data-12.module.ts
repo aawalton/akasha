@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const destinationsSharedData12 = {
   id: "01a06269-29ec-7c63-82ee-77d61ff4ec2c",

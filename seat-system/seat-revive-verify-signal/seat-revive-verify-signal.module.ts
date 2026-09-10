@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const seatReviveVerifySignal = {
   id: "01a0686d-9d5e-700e-98bf-06b7ad829d40",

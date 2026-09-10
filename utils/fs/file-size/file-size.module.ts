@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const fileSize = {
   id: "01a08182-0997-7171-8a4f-afaacaf31310",

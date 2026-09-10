@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const craftStorageCounts = {
   id: "01a061c7-e86f-7d5c-8fff-53331aab7d91",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const seatSupervisorClaim = {
   id: "01a0687e-533c-7000-b149-004c8b1c0b5f",

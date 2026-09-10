@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorRemoteControlEnv = {
   id: "01a06876-abda-700a-9970-c937e1deae9a",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const priceCache = {
   id: "01a0615d-c218-7c2e-8456-f4c21cdb9bd4",

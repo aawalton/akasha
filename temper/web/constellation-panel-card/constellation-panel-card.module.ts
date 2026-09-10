@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const constellationPanelCard = {
   id: "01a06432-b190-7c12-8d03-8887dc677b5c",

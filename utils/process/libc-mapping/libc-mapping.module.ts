@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const libcMapping = {
   id: "01a0829f-d499-7794-b738-28a44c010e2e",

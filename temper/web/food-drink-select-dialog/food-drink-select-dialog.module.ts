@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const foodDrinkSelectDialog = {
   id: "01a0642c-5b7b-7b1e-be93-023c56c07429",

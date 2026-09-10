@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const componentsFormControlsPanels = {
   id: "01a05c95-5648-7dc4-a51b-842b51771b02",

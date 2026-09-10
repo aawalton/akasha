@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersProgressFormat = {
   id: "01a062ea-5fda-7fa7-a7d2-1e8ae62a5e9c",

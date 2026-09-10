@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const scheduling = {
   id: "01a05c6f-c7c4-7bd2-ac26-fc8ae8b38e8b",

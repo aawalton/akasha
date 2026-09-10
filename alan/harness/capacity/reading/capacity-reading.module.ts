@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.types.ts"
 
 export const capacityReading = {
   id: "01a069ba-b018-7b6b-b9a6-18cd82bd54b3",

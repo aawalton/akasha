@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const operatorFilterControl = {
   id: "01a06205-4f3b-7006-beaf-dd6eb25b3f5d",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const memoryReaperTick = {
   id: "01a0686c-f06b-7008-9b99-4a53950c8d35",

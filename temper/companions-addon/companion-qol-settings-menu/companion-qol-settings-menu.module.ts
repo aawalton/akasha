@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionQolSettingsMenu = {
   id: "01a0611d-84cd-74e4-bf3d-f59f450727cb",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const workedTyping = {
   id: "01a07672-9764-7d20-8eb7-55cab242cfa3",

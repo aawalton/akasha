@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const memoryReaperGlobal = {
   id: "01a0686c-f06b-7002-9ec8-2c68f87e02a6",

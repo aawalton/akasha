@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const hookPayload = {
   id: "01a04f4d-f0ea-791d-8bb4-ce41b59e46b1",

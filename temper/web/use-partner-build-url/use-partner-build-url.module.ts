@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const usePartnerBuildUrl = {
   id: "01a0642c-5ba0-7e65-954a-519b5a74107a",

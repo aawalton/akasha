@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const headscaleConstants = {
   id: "01a06810-1262-756e-bd36-7698bb7b9ba1",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const mlxAudioServices = {
   id: "01a0685d-4b35-7003-8698-253abd8dbd8d",

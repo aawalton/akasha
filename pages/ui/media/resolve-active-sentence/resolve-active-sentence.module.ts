@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const resolveActiveSentence = {
   id: "01a05c27-31ee-769b-88af-7ebe059d06ca",

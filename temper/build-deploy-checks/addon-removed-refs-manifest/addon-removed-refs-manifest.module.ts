@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const addonRemovedRefsManifest = {
   id: "01a06365-e827-7003-af97-b8511950c909",

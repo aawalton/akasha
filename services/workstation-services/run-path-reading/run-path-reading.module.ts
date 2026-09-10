@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const runPathReading = {
   id: "01a088a6-acf3-740a-9bbc-9f25e543ec53",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const saveQueue = {
   id: "01a05c7d-d069-7d78-8ce2-8d3a31e1f8f3",

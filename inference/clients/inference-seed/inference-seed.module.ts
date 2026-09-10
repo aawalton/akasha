@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inferenceSeed = {
   id: "01a0682d-8ef5-7001-96f7-f3b6bb839422",

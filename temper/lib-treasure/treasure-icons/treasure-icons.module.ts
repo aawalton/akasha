@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const treasureIcons = {
   id: "01a061d5-d0b4-719c-ba34-e58d5ca2aa19",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const inventoryBrowserTypes = {
   id: "01a06258-b529-7e66-9b5d-4917d5969895",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const turnColorScheme = {
   id: "01a0680b-7175-7000-bad0-dd03b18ea236",

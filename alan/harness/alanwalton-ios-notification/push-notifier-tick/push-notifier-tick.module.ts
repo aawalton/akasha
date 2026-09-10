@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pushNotifierTick = {
   id: "01a069b6-bb6b-79e0-abb9-81217fe400a3",

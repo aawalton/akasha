@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const universalKeys = {
   id: "01a05bd6-c536-7bca-abc6-058f43a14fd9",

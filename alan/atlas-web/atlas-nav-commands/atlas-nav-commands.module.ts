@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const atlasNavCommands = {
   id: "01a06582-6b30-750a-8e04-cf9fe64ec001",

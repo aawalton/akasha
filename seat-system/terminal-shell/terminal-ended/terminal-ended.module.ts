@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const terminalEnded = {
   id: "01a0680a-fa30-7c8e-b940-a8c983ec63d0",

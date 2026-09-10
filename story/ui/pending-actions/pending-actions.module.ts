@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const pendingActions = {
   id: "01a0628e-a5db-7dbd-a01b-780cbb7ab557",

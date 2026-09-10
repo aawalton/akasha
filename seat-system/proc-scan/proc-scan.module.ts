@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const procScan = {
   id: "01a0695a-d2ea-7a46-91a8-5f8779a67282",

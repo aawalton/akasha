@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const traceInsert = {
   id: "01a05bc7-9129-700d-9b3a-ba23544a6e88",

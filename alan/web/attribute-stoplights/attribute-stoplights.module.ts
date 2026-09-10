@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const attributeStoplights = {
   id: "01a06858-8cfa-79e8-a5bc-b735b8f2f652",

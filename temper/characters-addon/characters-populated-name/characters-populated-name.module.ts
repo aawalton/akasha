@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersPopulatedName = {
   id: "01a062ea-5f76-7fa2-a4a3-a8b92e04561d",

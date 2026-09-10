@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const wsBridge = {
   id: "01a06863-8e7c-78f7-8506-2298935c6523",

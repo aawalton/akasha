@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorSelfIdentity = {
   id: "01a06876-abda-7015-b513-59a7d4a87a69",

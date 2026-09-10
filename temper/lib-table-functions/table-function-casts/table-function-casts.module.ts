@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const tableFunctionCasts = {
   id: "01a06052-2ca5-78e3-9cd6-62ac3cdd5bed",

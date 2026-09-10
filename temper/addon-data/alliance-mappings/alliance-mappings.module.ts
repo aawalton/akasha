@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const allianceMappings = {
   id: "01a06340-4913-7d46-84b2-5b85ff4b067e",

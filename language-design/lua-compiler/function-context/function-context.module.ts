@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const functionContext = {
   id: "01a06758-8e79-7000-aad4-c884cf44ba9f",

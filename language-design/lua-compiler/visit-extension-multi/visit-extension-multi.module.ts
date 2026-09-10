@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const visitExtensionMulti = {
   id: "01a06758-8eb9-7000-b05a-93e3b1d40162",

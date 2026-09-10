@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersProgressTally = {
   id: "01a062ee-eff1-7066-8ae2-e9910475597e",

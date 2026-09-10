@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const serviceBeating = {
   id: "01a08cb0-defb-7ab1-9512-d43812f8fe80",

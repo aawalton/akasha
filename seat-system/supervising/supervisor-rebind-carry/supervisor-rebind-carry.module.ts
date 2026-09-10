@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorRebindCarry = {
   id: "01a06876-abda-7003-aa46-8cb6a02b10c3",

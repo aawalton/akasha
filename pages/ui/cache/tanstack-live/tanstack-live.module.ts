@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const tanstackLive = {
   id: "01a05cba-9cbc-7f0a-9fe4-2beece336d54",

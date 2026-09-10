@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useCompanionSuggestions = {
   id: "01a0641f-8bec-7494-8de4-af5227c3f0e5",

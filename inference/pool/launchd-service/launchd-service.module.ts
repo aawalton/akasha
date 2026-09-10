@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const launchdService = {
   id: "01a06815-9efd-7008-be4f-6b32ac78657e",

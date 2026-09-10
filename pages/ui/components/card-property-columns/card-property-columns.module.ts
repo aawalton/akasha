@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const cardPropertyColumns = {
   id: "01a05cba-f39f-7024-bf3e-8f229f10e57d",

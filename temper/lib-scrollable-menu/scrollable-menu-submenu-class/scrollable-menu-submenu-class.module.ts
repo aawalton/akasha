@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const scrollableMenuSubmenuClass = {
   id: "01a06275-c449-78c6-b82b-ac1795e8c9dd",

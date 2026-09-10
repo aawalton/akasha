@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const folderClearing = {
   id: "01a05ece-94d1-7000-ab86-b582eaade3f1",

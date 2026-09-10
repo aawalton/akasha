@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const clusterFetch = {
   id: "01a068d4-d2aa-7902-bb36-12d037d7ac6b",

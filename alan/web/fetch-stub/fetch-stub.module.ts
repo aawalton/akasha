@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const fetchStub = {
   id: "01a0655d-daa7-793c-abd8-f849427181e2",

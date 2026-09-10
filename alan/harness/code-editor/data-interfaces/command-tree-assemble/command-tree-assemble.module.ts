@@ -1,4 +1,4 @@
-import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../../code-system/modules/module.page-type.types.ts"
 
 export const commandTreeAssemble = {
   id: "01a07c93-3aad-7d0a-87f2-3f002f5aad39",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const supervisorConsole = {
   id: "01a0683e-3dbe-7015-b25d-4d947ec851f0",

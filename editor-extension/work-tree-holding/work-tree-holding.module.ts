@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const workTreeHolding = {
   id: "01a08c6d-8191-7d5c-b5f6-f8cb8476d6e0",

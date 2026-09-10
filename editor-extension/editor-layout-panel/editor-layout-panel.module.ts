@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const editorLayoutPanel = {
   id: "01a06816-69fa-7002-9dd6-1f0b942d72c6",

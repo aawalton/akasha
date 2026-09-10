@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const writConstants = {
   id: "01a061c7-e894-71df-8996-91fede91819f",

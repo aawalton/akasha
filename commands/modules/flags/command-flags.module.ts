@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const commandFlags = {
   id: "01a07bb2-16af-7ede-bbeb-aa80a15e03e1",

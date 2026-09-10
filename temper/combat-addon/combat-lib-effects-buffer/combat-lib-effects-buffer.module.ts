@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const combatLibEffectsBuffer = {
   id: "01a0617f-5845-7db3-8f8a-2f2bdaef1201",

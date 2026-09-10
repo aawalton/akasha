@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const itemRuleCardActionHandlers = {
   id: "01a0636c-5d9b-7961-8c77-a60295dc0031",

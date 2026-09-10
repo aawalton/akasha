@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const metallbSynth = {
   id: "01a06810-1262-7696-970a-91682eb0719b",

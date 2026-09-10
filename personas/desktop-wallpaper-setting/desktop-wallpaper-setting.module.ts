@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const desktopWallpaperSetting = {
   id: "01a0786b-2a28-7d50-91e5-a54586893638",

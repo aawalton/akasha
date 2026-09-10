@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const knowledgeTypes = {
   id: "01a061fa-8000-7c0b-9c7c-caf0b9d49ffa",

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const newestWins = {
   id: "01a07350-1dd6-7dae-968b-4ba076e8b62b",

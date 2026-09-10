@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const scrollableMenuUtilHighlight = {
   id: "01a06275-c449-7422-aa38-f077e3516352",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const claudeLaunchArgs = {
   id: "01a0695a-d2ea-7745-a7c8-079b5840aab1",

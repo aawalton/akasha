@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const nextBossSavedVariables = {
   id: "01a06157-8358-7649-943c-84dc225013dc",

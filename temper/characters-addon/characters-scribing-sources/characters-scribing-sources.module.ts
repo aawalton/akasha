@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersScribingSources = {
   id: "01a062ed-39c9-700c-9df3-7f4288c3c504",

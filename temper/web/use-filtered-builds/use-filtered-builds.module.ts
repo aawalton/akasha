@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const useFilteredBuilds = {
   id: "01a06421-252a-7587-ab25-20eababed352",

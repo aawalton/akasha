@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const addressMapping = {
   id: "01a077d0-6448-771d-a561-565678d6c152",

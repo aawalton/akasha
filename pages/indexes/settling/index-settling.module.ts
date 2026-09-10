@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const indexSettling = {
   id: "01a08c06-6aac-7a7a-be73-529b101223b1",

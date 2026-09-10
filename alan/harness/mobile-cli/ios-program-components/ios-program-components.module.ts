@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const iosProgramComponents = {
   id: "01a05cee-e560-7f62-99a4-8df3cd92480b",

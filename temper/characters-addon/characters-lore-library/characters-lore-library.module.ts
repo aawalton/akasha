@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersLoreLibrary = {
   id: "01a062ea-6012-7faa-a949-0706f62358d2",

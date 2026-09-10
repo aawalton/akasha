@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const companionsDecoder = {
   id: "01a0611d-84d3-78d6-9380-f8a2bcde377b",

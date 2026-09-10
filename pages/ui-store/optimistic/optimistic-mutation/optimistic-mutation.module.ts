@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const optimisticMutation = {
   id: "01a05b69-454a-7b13-a861-a18e0f5f1b8c",

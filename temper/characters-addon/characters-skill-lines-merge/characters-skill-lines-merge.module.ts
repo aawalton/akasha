@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 
 export const charactersSkillLinesMerge = {
   id: "01a062ea-5f9e-7fa4-88a2-1d6ea8e73c1a",

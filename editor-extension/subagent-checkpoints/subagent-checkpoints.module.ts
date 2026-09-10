@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../code-system/modules/module.page-type.types.ts"
 
 export const subagentCheckpoints = {
   id: "01a0686b-bfe9-752c-8f69-90fe541e5755",

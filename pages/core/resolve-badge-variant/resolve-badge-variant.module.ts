@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code/module"
+import type { Module } from "akasha/code-system/modules/module.page-type.types.ts"
 
 export const resolveBadgeVariant = {
   id: "01a05b92-a9c7-7ace-8e56-c3d51e099727",
