@@ -32,16 +32,13 @@ import {
 
 const OBSERVED = [SESSION_KEY, TRANSCRIPT_KEY, ROTATED_KEY] as const
 
-export function backfillObserved(agent: string): void {
+export function backfillObserved(agent: string): undefined {
   for (const key of OBSERVED) backfillSeatRecord(agent, key, pageTextOf(agent, key))
 }
 
 export interface Stated {
   readonly agent: string
   readonly attributes: declarations.Attributes
-  // The assignment as the page addresses it, page type and slug both, where `attributes.domain`
-  // holds the slug alone. A slug two page types carry cannot say which of the two it was assigned
-  // under, so the writer keeps this rather than addressing the slug again.
   readonly assignment: string | null
   readonly flex: FlexRecord | null
   readonly mode: declarations.Mode
@@ -73,11 +70,6 @@ export function statedOf(agent: string): Stated {
   }
 }
 
-// WHAT A PAGE NEEDS IS WHAT AKASHA NEEDS, and akasha asks for three more than the old page did. This
-// tested the old page's three and answered that a seat would compose when it would not: the caller
-// took that as nothing to recover, went to write, and got `unstated` back with no way to act on it.
-// A seat short of a persona, a start mode or a registration is one to recover rather than one to
-// leave as it is.
 export function pageWouldCompose(stated: Stated): boolean {
   return (
     stated.attributes.persona !== undefined &&
@@ -107,15 +99,10 @@ export function mergeHeld(now: Stated, held: StatedFromHistory | null): Stated {
   return {
     ...now,
     attributes,
-    // What the page said before the stop took it away, which is where the address is read from once
-    // there is no page to read. What the seat says now wins, as it does for every other value here.
     assignment: now.assignment ?? held.assignment,
     principal: now.principal ?? (principal === null ? null : { value: principal }),
     onCall: now.onCall || held.onCall,
     initiative: now.initiative ?? (held.initiative === null ? null : { value: held.initiative }),
-    // What the seat says now wins, and history fills what is missing. A seat that still states its
-    // own mode is never told a older one, and a seat that states none takes what it last said
-    // rather than composing to nothing.
     recordedMode: now.recordedMode ?? (heldMode === null ? null : { value: heldMode }),
     mode: now.recordedMode === null && heldMode !== null ? heldMode : now.mode,
     registration: now.registration ?? (held.account === null ? null : { value: held.account }),

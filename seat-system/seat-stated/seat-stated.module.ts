@@ -18,7 +18,11 @@ export const seatStated = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat short of a persona or a role or an account is a seat to recover.",
+      statement: "A seat short of any value its page needs is a seat to recover.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat's assignment is kept as the page type and the slug both.",
     },
     {
       invariantKind: "departure",
