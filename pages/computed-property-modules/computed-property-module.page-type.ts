@@ -1,7 +1,4 @@
-import type { Module } from "@akasha/code/module"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type ComputedPropertyModule = Module
 
 export const computedPropertyModule = {
   id: "01a08202-ae3b-7dad-afcb-d0ad4adc1214",
@@ -34,4 +31,5 @@ export const computedPropertyModule = {
       statement: "Code that is no calculation imports this module as that code imports any module.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

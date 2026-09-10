@@ -1,4 +1,4 @@
-import type { ComputedPropertyModule } from "@akasha/pages/computed-property-module"
+import type { ComputedPropertyModule } from "akasha/pages/computed-property-modules/computed-property-module.page-type.types.ts"
 
 export const hoursBetween = {
   id: "01a0821f-8bbc-7772-a9fa-052b5f4ffb2b",
