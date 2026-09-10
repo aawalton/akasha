@@ -6,8 +6,6 @@ export const specifierNamesAPackage = {
   type: "code-check",
   slug: "specifier-names-a-package",
   definition: "the check refusing a specifier that reaches by a package name no manifest states",
-  code: "ts",
-  test: "ts",
   runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
