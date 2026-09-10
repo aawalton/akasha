@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type RuleLocked = boolean
-
 export const ruleLocked = {
   id: "01a07283-f293-7fc7-9ed8-4c01ff4038fd",
   pageTypeSlug: "boolean-property",
@@ -20,4 +18,5 @@ export const ruleLocked = {
         "Whether a rule is locked is stated rather than worked out from where that rule came.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

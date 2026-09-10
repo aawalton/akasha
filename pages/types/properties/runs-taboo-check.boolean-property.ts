@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type RunsTabooCheck = boolean
-
 export const runsTabooCheck = {
   id: "01a063ce-6216-7009-b70d-d16728945271",
   pageTypeSlug: "boolean-property",
@@ -27,4 +25,5 @@ export const runsTabooCheck = {
       statement: "A page type says false here where the words its pages carry are somebody else's.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

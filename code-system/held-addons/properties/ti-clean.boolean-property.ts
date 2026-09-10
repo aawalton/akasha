@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type TiClean = boolean
-
 export const tiClean = {
   id: "01a0819e-2a48-7266-ba95-cc9be07ddbd5",
   pageTypeSlug: "boolean-property",
@@ -24,4 +22,5 @@ export const tiClean = {
       statement: "An addon saying nothing here is backlog rather than a violation.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

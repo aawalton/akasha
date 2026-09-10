@@ -5,7 +5,7 @@ import type { Place } from "../harness/readouts/properties/place.number-property
 import type { QueryArgument } from "../harness/readouts/properties/query-argument.text-property.ts"
 import type { QueryKey } from "../harness/readouts/properties/query-key.text-property.ts"
 import type { QuerySlug } from "../harness/readouts/properties/query-slug.text-property.ts"
-import type { ReadoutEnabled } from "../harness/readouts/properties/readout-enabled.boolean-property.ts"
+import type { ReadoutEnabled } from "../harness/readouts/properties/readout-enabled.boolean-property.types.ts"
 import type { Scale } from "../harness/readouts/properties/scale.relation-property.ts"
 import type { Unit } from "../harness/readouts/properties/unit.text-property.ts"
 import type { ValueColor } from "./properties/value-color.relation-property.ts"

@@ -7,9 +7,9 @@ import type { UniqueProperty } from "../page-properties/properties/unique-proper
 import type { DefaultValue } from "./default-value.text-property.ts"
 import type { FixedValue } from "./fixed-value.text-property.ts"
 import type { PageProperty } from "./page-property.relation-property.ts"
-import type { Required } from "./required.boolean-property.ts"
-import type { Secret } from "./secret.boolean-property.ts"
-import type { Uncommitted } from "./uncommitted.boolean-property.ts"
+import type { Required } from "./required.boolean-property.types.ts"
+import type { Secret } from "./secret.boolean-property.types.ts"
+import type { Uncommitted } from "./uncommitted.boolean-property.types.ts"
 
 export type Declaration =
   | {

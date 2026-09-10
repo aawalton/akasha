@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type Allowed = boolean
-
 export const allowed = {
   id: "01a05da1-60fe-725b-a26f-fa08d2276782",
   pageTypeSlug: "boolean-property",
@@ -9,4 +7,5 @@ export const allowed = {
   slug: "allowed",
   propertySlug: "allowed",
   definition: "whether akasha writes in a sentence shape",
+  types: "ts",
 } as const satisfies BooleanProperty

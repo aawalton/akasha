@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type Temporary = boolean
-
 export const temporary = {
   id: "01a08be4-8304-781b-9ab3-9259cf4cdafd",
   pageTypeSlug: "boolean-property",
@@ -23,4 +21,5 @@ export const temporary = {
       statement: "Whoever writes it takes it away again.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

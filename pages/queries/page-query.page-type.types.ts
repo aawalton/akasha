@@ -1,7 +1,7 @@
 import type { Page } from "../page.page-type.types.ts"
 import type { AsksOfSlug } from "./properties/asks-of-slug.text-property.ts"
 import type { CountBy } from "./properties/count-by.text-property.ts"
-import type { Descending } from "./properties/descending.boolean-property.ts"
+import type { Descending } from "./properties/descending.boolean-property.types.ts"
 import type { Keys } from "./properties/keys.text-property.ts"
 import type { Limit } from "./properties/limit.number-property.ts"
 import type { Narrows } from "./properties/narrows.record-property.ts"

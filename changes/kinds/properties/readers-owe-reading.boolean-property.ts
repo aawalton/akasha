@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../../pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type ReadersOweReading = boolean
-
 export const readersOweReading = {
   id: "01a076e3-dd57-7ac5-97e1-dba882addf78",
   pageTypeSlug: "boolean-property",
@@ -9,4 +7,5 @@ export const readersOweReading = {
   slug: "readers-owe-reading",
   propertySlug: "readers-owe-reading",
   definition: "whether a change of this kind leaves every other agent owing the reading again",
+  types: "ts",
 } as const satisfies BooleanProperty

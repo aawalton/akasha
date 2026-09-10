@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type SpecializeLocked = boolean
-
 export const specializeLocked = {
   id: "01a06596-f0d5-7006-b7ce-ac38a3dd0a68",
   pageTypeSlug: "boolean-property",
@@ -9,4 +7,5 @@ export const specializeLocked = {
   slug: "specialize-locked",
   propertySlug: "specialize-locked",
   definition: "whether a card's specialisation has been settled and shut",
+  types: "ts",
 } as const satisfies BooleanProperty

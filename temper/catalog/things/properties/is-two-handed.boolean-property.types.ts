@@ -1,0 +1,1 @@
+export type IsTwoHanded = boolean

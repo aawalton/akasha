@@ -12,7 +12,7 @@ import type { HiddenPropertiesOrder } from "./properties/hidden-properties-order
 import type { ItemPageSize } from "./properties/item-page-size.number-property.ts"
 import type { Layout } from "./properties/layout.select-property.ts"
 import type { LiveRefreshMs } from "./properties/live-refresh-ms.number-property.ts"
-import type { LockedPageType } from "./properties/locked-page-type.boolean-property.ts"
+import type { LockedPageType } from "./properties/locked-page-type.boolean-property.types.ts"
 import type { Nav } from "./properties/nav.relation-property.ts"
 import type { PageSize } from "./properties/page-size.number-property.ts"
 import type { ReorderCommand } from "./properties/reorder-command.text-property.ts"

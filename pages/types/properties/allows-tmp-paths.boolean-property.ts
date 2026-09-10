@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type AllowsTmpPaths = boolean
-
 export const allowsTmpPaths = {
   id: "01a0722b-2eaf-7edc-9104-bd5677e7020d",
   pageTypeSlug: "boolean-property",
@@ -24,4 +22,5 @@ export const allowsTmpPaths = {
       statement: "A path inside a container is not a path on this workstation.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type Reconstructed = boolean
-
 export const reconstructed = {
   id: "01a06053-b380-74b0-b213-68bf36f9efb1",
   pageTypeSlug: "boolean-property",
@@ -9,4 +7,5 @@ export const reconstructed = {
   slug: "reconstructed",
   propertySlug: "reconstructed",
   definition: "whether an item was rebuilt from an antiquity lead",
+  types: "ts",
 } as const satisfies BooleanProperty

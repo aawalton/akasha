@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type ToDoAnchoredFromCompletion = boolean
-
 export const toDoAnchoredFromCompletion = {
   id: "01a065a1-49b7-7591-afc7-de41dfe5e026",
   pageTypeSlug: "boolean-property",
@@ -10,4 +8,5 @@ export const toDoAnchoredFromCompletion = {
   propertySlug: "to-do-anchored-from-completion",
   definition:
     "whether the next round is counted from when it was last done rather than from when it was last due",
+  types: "ts",
 } as const satisfies BooleanProperty

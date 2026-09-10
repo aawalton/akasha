@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type AfterChecks = boolean
-
 export const afterChecks = {
   id: "01a05031-3a74-7ba8-849b-751fec68738d",
   pageTypeSlug: "boolean-property",
@@ -28,4 +26,5 @@ export const afterChecks = {
       statement: "A value the index needs to file a page at all waits for nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

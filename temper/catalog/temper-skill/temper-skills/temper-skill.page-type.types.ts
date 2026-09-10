@@ -6,7 +6,7 @@ import type { SubcategoryId } from "../../things/properties/subcategory-id.text-
 import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
 import type { BaseName } from "../properties/base-name.text-property.ts"
 import type { EsoSkillId } from "../properties/eso-skill-id.number-property.ts"
-import type { IsMorph } from "../properties/is-morph.boolean-property.ts"
+import type { IsMorph } from "../properties/is-morph.boolean-property.types.ts"
 import type { LearnedLevel } from "../properties/learned-level.number-property.ts"
 import type { LineRankNeeded } from "../properties/line-rank-needed.number-property.ts"
 import type { MorphIndex } from "../properties/morph-index.number-property.ts"

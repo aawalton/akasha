@@ -15,7 +15,7 @@ import type { ConnectionActivityModelBasis } from "./properties/connection-activ
 import type { ConnectionActivityNovelty } from "./properties/connection-activity-novelty.number-property.ts"
 import type { ConnectionActivityPositivity } from "./properties/connection-activity-positivity.number-property.ts"
 import type { ConnectionActivityReality } from "./properties/connection-activity-reality.select-property.ts"
-import type { ConnectionActivityRepeatable } from "./properties/connection-activity-repeatable.boolean-property.ts"
+import type { ConnectionActivityRepeatable } from "./properties/connection-activity-repeatable.boolean-property.types.ts"
 import type { ConnectionActivitySafety } from "./properties/connection-activity-safety.select-property.ts"
 import type { ConnectionActivitySeq } from "./properties/connection-activity-seq.number-property.ts"
 import type { ConnectionActivityWeight } from "./properties/connection-activity-weight.number-property.ts"

@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type ConnectionActivityRepeatable = boolean
-
 export const connectionActivityRepeatable = {
   id: "01a0658e-c30e-7e5a-a8ac-ce8fb0ff0309",
   pageTypeSlug: "boolean-property",
@@ -9,4 +7,5 @@ export const connectionActivityRepeatable = {
   slug: "connection-activity-repeatable",
   propertySlug: "connection-activity-repeatable",
   definition: "whether it keeps paying when he does it again",
+  types: "ts",
 } as const satisfies BooleanProperty

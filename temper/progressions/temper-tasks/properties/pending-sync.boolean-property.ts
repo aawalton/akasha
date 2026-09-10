@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type PendingSync = boolean
-
 export const pendingSync = {
   id: "01a06d85-7b22-7be6-8897-ac848f243c69",
   pageTypeSlug: "boolean-property",
@@ -16,4 +14,5 @@ export const pendingSync = {
         "The watcher clears this property as soon as that watcher has written the task out.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

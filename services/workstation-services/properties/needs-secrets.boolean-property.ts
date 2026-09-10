@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type NeedsSecrets = boolean
-
 export const needsSecrets = {
   id: "01a05a3f-b42c-7a21-9e12-f4819b25195b",
   pageTypeSlug: "boolean-property",
@@ -20,4 +18,5 @@ export const needsSecrets = {
       statement: "A service stating nothing is handed no secret.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type Uncommitted = boolean
-
 export const uncommitted = {
   id: "01a04fc4-b988-7afd-89a2-9c87b0274410",
   pageTypeSlug: "boolean-property",
@@ -31,4 +29,5 @@ export const uncommitted = {
       statement: "An uncommitted value goes when its page goes.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

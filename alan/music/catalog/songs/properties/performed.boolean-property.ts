@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type Performed = boolean
-
 export const performed = {
   id: "01a06243-144b-7008-8401-2cea9948eac0",
   pageTypeSlug: "boolean-property",
@@ -15,4 +13,5 @@ export const performed = {
       statement: "Every song is performed by its own artist.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

@@ -8,7 +8,7 @@ import type { OfferText } from "./properties/offer-text.text-property.ts"
 import type { OfferType } from "./properties/offer-type.text-property.ts"
 import type { RedemptionCode } from "./properties/redemption-code.text-property.ts"
 import type { Section } from "./properties/section.text-property.ts"
-import type { StruckOut } from "./properties/struck-out.boolean-property.ts"
+import type { StruckOut } from "./properties/struck-out.boolean-property.types.ts"
 import type { UseLimit } from "./properties/use-limit.select-property.ts"
 import type { UsesUsed } from "./properties/uses-used.number-property.ts"
 

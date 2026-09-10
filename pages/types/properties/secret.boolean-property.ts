@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type Secret = boolean
-
 export const secret = {
   id: "01a0547c-6ae7-7000-897a-83b3e0d40bc4",
   pageTypeSlug: "boolean-property",
@@ -28,4 +26,5 @@ export const secret = {
       statement: "A secret value is withheld from a read that did not ask for that value.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

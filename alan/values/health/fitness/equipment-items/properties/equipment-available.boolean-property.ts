@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type EquipmentAvailable = boolean
-
 export const equipmentAvailable = {
   id: "01a06865-7f45-728c-9ab5-6435379d69d3",
   pageTypeSlug: "boolean-property",
@@ -19,4 +17,5 @@ export const equipmentAvailable = {
       statement: "A piece Alan means to buy is not available.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

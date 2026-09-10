@@ -1,7 +1,7 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { AccuracySeconds } from "./accuracy-seconds.number-property.ts"
 import type { After } from "./after.text-property.ts"
-import type { CatchUp } from "./catch-up.boolean-property.ts"
+import type { CatchUp } from "./catch-up.boolean-property.types.ts"
 import type { JitterSeconds } from "./jitter-seconds.number-property.ts"
 import type { PartOf } from "./part-of.text-property.ts"
 import type { Restart } from "./restart.select-property.ts"

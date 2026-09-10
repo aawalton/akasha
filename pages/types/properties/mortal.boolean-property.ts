@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type Mortal = boolean
-
 export const mortal = {
   id: "01a04db0-5818-7000-9db8-d72ace0c1877",
   pageTypeSlug: "boolean-property",
@@ -36,4 +34,5 @@ export const mortal = {
       statement: "Neither exemption waits on the other exemption.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

@@ -1,0 +1,1 @@
+export type SortDescending = boolean

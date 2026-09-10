@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type InboxTextsClearedToday = boolean
-
 export const inboxTextsClearedToday = {
   id: "01a05fd8-c30f-7777-9563-2a174aa367d5",
   pageTypeSlug: "boolean-property",
@@ -9,4 +7,5 @@ export const inboxTextsClearedToday = {
   slug: "inbox-texts-cleared-today",
   propertySlug: "inbox-texts-cleared-today",
   definition: "whether the texts reached empty on a day",
+  types: "ts",
 } as const satisfies BooleanProperty

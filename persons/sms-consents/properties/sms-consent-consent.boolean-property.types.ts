@@ -1,0 +1,1 @@
+export type SmsConsentConsent = boolean

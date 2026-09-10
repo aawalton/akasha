@@ -7,7 +7,7 @@ import type { MobilePinOrder } from "./properties/mobile-pin-order.number-proper
 import type { NavAppSlug } from "./properties/nav-app-slug.text-property.ts"
 import type { NavParent } from "./properties/nav-parent.relation-property.ts"
 import type { NavPlace } from "./properties/nav-place.number-property.ts"
-import type { ShowCountBadge } from "./properties/show-count-badge.boolean-property.ts"
+import type { ShowCountBadge } from "./properties/show-count-badge.boolean-property.types.ts"
 
 export type Nav = Page & {
   title: Title

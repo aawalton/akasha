@@ -13,7 +13,7 @@ import type { ImageEndUrl } from "./properties/image-end-url.url-property.ts"
 import type { ImageStartUrl } from "./properties/image-start-url.url-property.ts"
 import type { ImplementCount } from "./properties/implement-count.number-property.ts"
 import type { Instructions } from "./properties/instructions.file-property.ts"
-import type { IsBallistic } from "./properties/is-ballistic.boolean-property.ts"
+import type { IsBallistic } from "./properties/is-ballistic.boolean-property.types.ts"
 import type { Laterality } from "./properties/laterality.select-property.ts"
 import type { LoadFactor } from "./properties/load-factor.number-property.ts"
 import type { Mechanic } from "./properties/mechanic.select-property.ts"
@@ -25,7 +25,7 @@ import type { SecondaryMuscles } from "./properties/secondary-muscles.select-pro
 import type { SecondaryPattern } from "./properties/secondary-pattern.select-property.ts"
 import type { SfrScore } from "./properties/sfr-score.number-property.ts"
 import type { SkillCost } from "./properties/skill-cost.select-property.ts"
-import type { TrainsLengthenedRange } from "./properties/trains-lengthened-range.boolean-property.ts"
+import type { TrainsLengthenedRange } from "./properties/trains-lengthened-range.boolean-property.types.ts"
 
 export type Exercise = Page & {
   title: Title

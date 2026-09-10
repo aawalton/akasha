@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type ShowReadingProgress = boolean
-
 export const showReadingProgress = {
   id: "01a0683a-620a-7829-8dc1-e42dd3e951a8",
   pageTypeSlug: "boolean-property",
@@ -15,4 +13,5 @@ export const showReadingProgress = {
       statement: "How far through a page the reader has come is read off two named properties.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

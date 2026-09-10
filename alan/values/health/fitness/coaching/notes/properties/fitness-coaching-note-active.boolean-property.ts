@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type FitnessCoachingNoteActive = boolean
-
 export const fitnessCoachingNoteActive = {
   id: "01a0657a-fe00-736c-907b-2cb955431927",
   pageTypeSlug: "boolean-property",
@@ -9,4 +7,5 @@ export const fitnessCoachingNoteActive = {
   slug: "fitness-coaching-note-active",
   propertySlug: "active",
   definition: "whether the note still holds",
+  types: "ts",
 } as const satisfies BooleanProperty

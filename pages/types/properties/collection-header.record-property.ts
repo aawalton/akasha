@@ -1,7 +1,7 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
 import type { List } from "../page-properties/page-property.page-type.ts"
 import type { HeaderFields } from "./header-fields.text-property.ts"
-import type { HeaderShowCover } from "./header-show-cover.boolean-property.ts"
+import type { HeaderShowCover } from "./header-show-cover.boolean-property.types.ts"
 
 export type CollectionHeader = {
   showCover?: HeaderShowCover

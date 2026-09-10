@@ -14,7 +14,7 @@ import type { RelationshipMetAt } from "./properties/relationship-met-at.text-pr
 import type { RelationshipNotes } from "./properties/relationship-notes.file-property.ts"
 import type { RelationshipPhone } from "./properties/relationship-phone.phone-number-property.ts"
 import type { RelationshipRole } from "./properties/relationship-role.text-property.ts"
-import type { RelationshipSmsAllowed } from "./properties/relationship-sms-allowed.boolean-property.ts"
+import type { RelationshipSmsAllowed } from "./properties/relationship-sms-allowed.boolean-property.types.ts"
 import type { RelationshipSmsHandlerTarget } from "./properties/relationship-sms-handler-target.relation-property.ts"
 import type { RelationshipTopics } from "./properties/relationship-topics.relation-property.ts"
 

@@ -16,7 +16,7 @@ import type { ScheduledEndAt } from "./properties/scheduled-end-at.instant-prope
 import type { ScheduledStartAt } from "./properties/scheduled-start-at.instant-property.ts"
 import type { SourcePlaceId } from "./properties/source-place-id.text-property.ts"
 import type { SourceUrl } from "./properties/source-url.url-property.ts"
-import type { Visited } from "./properties/visited.boolean-property.ts"
+import type { Visited } from "./properties/visited.boolean-property.types.ts"
 
 export type Location = Page & {
   title: Title

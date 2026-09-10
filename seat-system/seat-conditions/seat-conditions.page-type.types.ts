@@ -1,7 +1,7 @@
 import type { Page } from "../../pages/page.page-type.types.ts"
 import type { AutoCompactWindow } from "./properties/auto-compact-window.number-property.ts"
 import type { EffortLevel } from "./properties/effort-level.text-property.ts"
-import type { ExtendedContextAvailable } from "./properties/extended-context-available.boolean-property.ts"
+import type { ExtendedContextAvailable } from "./properties/extended-context-available.boolean-property.types.ts"
 import type { FallbackModel } from "./properties/fallback-model.text-property.ts"
 import type { ResumeThresholdMinutes } from "./properties/resume-threshold-minutes.number-property.ts"
 import type { ResumeTokenThreshold } from "./properties/resume-token-threshold.number-property.ts"

@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type MarkReadOnEnd = boolean
-
 export const markReadOnEnd = {
   id: "01a0683a-620a-702a-911f-7f996e1b3876",
   pageTypeSlug: "boolean-property",
@@ -19,4 +17,5 @@ export const markReadOnEnd = {
       statement: "A page already recorded as read is left as that page stands.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

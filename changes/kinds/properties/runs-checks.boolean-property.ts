@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../../pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type RunsChecks = boolean
-
 export const runsChecks = {
   id: "01a05e19-7ffa-7929-bb78-9aadbdefcc15",
   pageTypeSlug: "boolean-property",
@@ -19,4 +17,5 @@ export const runsChecks = {
       statement: "A change kind whose changes are not expected to pass checks runs no check.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

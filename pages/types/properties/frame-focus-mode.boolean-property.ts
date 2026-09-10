@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type FrameFocusMode = boolean
-
 export const frameFocusMode = {
   id: "01a0683a-620a-7c50-9431-5e9e2efdc3e9",
   pageTypeSlug: "boolean-property",
@@ -15,4 +13,5 @@ export const frameFocusMode = {
       statement: "The parts put away come back the moment the reader asks for those parts.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

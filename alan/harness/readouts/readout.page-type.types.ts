@@ -16,7 +16,7 @@ import type { QueryArgument } from "./properties/query-argument.text-property.ts
 import type { QueryKey } from "./properties/query-key.text-property.ts"
 import type { QuerySlug } from "./properties/query-slug.text-property.ts"
 import type { ReadLiveFrom } from "./properties/read-live-from.relation-property.ts"
-import type { ReadoutEnabled } from "./properties/readout-enabled.boolean-property.ts"
+import type { ReadoutEnabled } from "./properties/readout-enabled.boolean-property.types.ts"
 import type { Scale } from "./properties/scale.relation-property.ts"
 import type { Unit } from "./properties/unit.text-property.ts"
 import type { WentSilentAt } from "./properties/went-silent-at.instant-property.ts"

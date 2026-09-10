@@ -19,7 +19,7 @@ import type { OpeningName } from "./properties/opening-name.text-property.ts"
 import type { Pgn } from "./properties/pgn.file-property.ts"
 import type { PlayerColor } from "./properties/player-color.select-property.ts"
 import type { Ply } from "./properties/ply.number-property.ts"
-import type { Rated } from "./properties/rated.boolean-property.ts"
+import type { Rated } from "./properties/rated.boolean-property.types.ts"
 import type { SourceGameId } from "./properties/source-game-id.text-property.ts"
 import type { TimeControl } from "./properties/time-control.text-property.ts"
 

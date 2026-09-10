@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type Enabled = boolean
-
 export const enabled = {
   id: "01a05a3f-b42c-74ff-9a06-c83e54d1ff04",
   pageTypeSlug: "boolean-property",
@@ -15,4 +13,5 @@ export const enabled = {
       statement: "A service stating false is installed and stopped rather than left uninstalled.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

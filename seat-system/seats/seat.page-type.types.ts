@@ -3,7 +3,7 @@ import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uui
 import type { ContextTokens } from "./properties/context-tokens.number-property.ts"
 import type { Mode } from "./properties/mode.text-property.ts"
 import type { Model } from "./properties/model.text-property.ts"
-import type { OnCall } from "./properties/on-call.boolean-property.ts"
+import type { OnCall } from "./properties/on-call.boolean-property.types.ts"
 import type { Person } from "./properties/person.relation-property.ts"
 import type { Proxy as SeatProxy } from "./properties/proxy.record-property.ts"
 import type { ReExecAsk } from "./properties/re-exec-ask.text-property.ts"

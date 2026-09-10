@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type HoldsBytes = boolean
-
 export const holdsBytes = {
   id: "01a0783e-bc03-787d-b886-e4476954adbe",
   pageTypeSlug: "boolean-property",
@@ -23,4 +21,5 @@ export const holdsBytes = {
       statement: "A property exempts every file that property has rather than one file named here.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

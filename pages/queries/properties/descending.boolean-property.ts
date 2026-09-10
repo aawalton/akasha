@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
-export type Descending = boolean
-
 export const descending = {
   id: "01a063ee-2a3b-7203-b639-871e40a95aca",
   pageTypeSlug: "boolean-property",
@@ -15,4 +13,5 @@ export const descending = {
       statement: "A query ordering by no key is unmoved by descending.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

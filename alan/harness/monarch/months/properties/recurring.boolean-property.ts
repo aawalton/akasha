@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type Recurring = boolean
-
 export const recurring = {
   id: "01a0680b-2b00-700e-9358-2b7d4a6e210f",
   pageTypeSlug: "boolean-property",
@@ -15,4 +13,5 @@ export const recurring = {
       statement: "An entry stating nothing here states the opposite.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

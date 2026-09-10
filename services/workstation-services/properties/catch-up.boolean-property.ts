@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type CatchUp = boolean
-
 export const catchUp = {
   id: "01a05a3f-b42f-7a04-a555-5691399a9e74",
   pageTypeSlug: "boolean-property",
@@ -15,4 +13,5 @@ export const catchUp = {
       statement: "A timer stating false lets a missed time go by.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

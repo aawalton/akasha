@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type ReadoutEnabled = boolean
-
 export const readoutEnabled = {
   id: "01a063bd-a526-7356-a7bd-00f589dcdc18",
   pageTypeSlug: "boolean-property",
@@ -27,4 +25,5 @@ export const readoutEnabled = {
       statement: "A service has a separate property of the same key.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

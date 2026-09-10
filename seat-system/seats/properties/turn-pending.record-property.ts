@@ -1,8 +1,8 @@
 import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
-import type { Compacting } from "./compacting.boolean-property.ts"
-import type { LiveShell } from "./live-shell.boolean-property.ts"
-import type { LiveSubagent } from "./live-subagent.boolean-property.ts"
-import type { SendInFlight } from "./send-in-flight.boolean-property.ts"
+import type { Compacting } from "./compacting.boolean-property.types.ts"
+import type { LiveShell } from "./live-shell.boolean-property.types.ts"
+import type { LiveSubagent } from "./live-subagent.boolean-property.types.ts"
+import type { SendInFlight } from "./send-in-flight.boolean-property.types.ts"
 
 export type TurnPending = {
   compacting: Compacting

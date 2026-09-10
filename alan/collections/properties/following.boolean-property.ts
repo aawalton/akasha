@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type Following = boolean
-
 export const following = {
   id: "01a063de-2c60-700a-b99a-430529589ec1",
   pageTypeSlug: "boolean-property",
@@ -15,4 +13,5 @@ export const following = {
       statement: "A collection a person follows is never finished while the collection grows.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

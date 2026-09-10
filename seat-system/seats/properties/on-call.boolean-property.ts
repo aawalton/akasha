@@ -1,7 +1,5 @@
 import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
-export type OnCall = boolean
-
 export const onCall = {
   id: "01a0539b-d9f2-7d0c-80d9-1eabbdc9ec3e",
   pageTypeSlug: "boolean-property",
@@ -23,4 +21,5 @@ export const onCall = {
       statement: "A seat whose role is on call starts on call.",
     },
   ],
+  types: "ts",
 } as const satisfies BooleanProperty

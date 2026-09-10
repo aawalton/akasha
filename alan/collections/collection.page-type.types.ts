@@ -7,7 +7,7 @@ import type { CollectionPublishedAt } from "./properties/collection-published-at
 import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
 import type { CollectionType } from "./properties/collection-type.relation-property.ts"
 import type { CollectionUnit } from "./properties/collection-unit.relation-property.ts"
-import type { Following } from "./properties/following.boolean-property.ts"
+import type { Following } from "./properties/following.boolean-property.types.ts"
 import type { OwnLength } from "./properties/own-length.number-property.ts"
 import type { OwnLengthInWords } from "./properties/own-length-in-words.computed-property.ts"
 import type { OwnProgress } from "./properties/own-progress.number-property.ts"
