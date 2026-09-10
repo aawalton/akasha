@@ -189,6 +189,18 @@ test("a reason spanning lines comes back on one, so one refusal is one line", as
   expect(said.refusals).toEqual(["akasha/one.ts — first second third"])
 })
 
+test("a refusal is kept whole, and the answer names the file and the call opening it", async () => {
+  const found = [{ path: "a.ts", reason: "one\ntwo" }]
+  const kept: string[] = []
+  const said = await judgedOver(saying(["one"], found), over(["a.ts"]), [], (whole) => {
+    kept.push(...whole)
+    return "at.txt"
+  })
+  expect(kept).toEqual(["a.ts — one\ntwo"])
+  expect(said.refusals[0]).toBe("a.ts — one two")
+  expect(said.refusals[1]).toContain("akasha read --file-path at.txt")
+})
+
 test("a judging that throws is refused as unjudged rather than answered clean", async () => {
   const judging: Judging = {
     named: ["one"],

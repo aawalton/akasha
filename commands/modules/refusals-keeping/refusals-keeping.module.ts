@@ -47,6 +47,18 @@ export const refusalsKeeping = {
     },
     {
       invariantKind: "departure",
+      statement: "One wording names that path and that call, wherever a pointer is said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller keeping refusals is handed back the path those refusals went to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that wrote no file hands back no path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "How many bytes one answer has is read from the module stating that count.",
     },
     {

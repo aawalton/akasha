@@ -1,6 +1,25 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { readFileSync } from "node:fs"
+import { join } from "node:path"
 import { ANSWER_CEILING } from "../../pages/read/long-body/long-body.module.code.ts"
-import { bodyOf, fits, pointedAt, refusalsAt } from "./refusals-keeping.module.code.ts"
+import { scratchWorld } from "../scratching/scratching.module.code.ts"
+import { writing } from "../scratching/scratching.module.test-fixtures.ts"
+import {
+  bodyOf,
+  fits,
+  pointedAt,
+  pointerFor,
+  refusalsAt,
+  refusalsPut,
+} from "./refusals-keeping.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+const PAGE = "one/amy.seat.ts"
+
+const AT = "one/amy.seat.refusals.uncommitted.txt"
 
 test("a seat's refusals are named beside that seat's page, outside the commit", () => {
   expect(refusalsAt("seat-system/seats/pages/amy.seat.ts")).toBe(
@@ -44,4 +63,33 @@ test("the pointer names the call opening that path", () => {
   expect(pointedAt("one/amy.seat.refusals.uncommitted.txt").join("\n")).toContain(
     "akasha read --file-path"
   )
+})
+
+test("one wording names the path and the call, wherever the pointer is said", () => {
+  expect(pointerFor(AT)).toContain(AT)
+  expect(pointerFor(AT)).toContain(`akasha read --file-path ${AT}`)
+  expect(pointedAt(AT)).toContain(pointerFor(AT))
+})
+
+test("refusals written whole hand back the path they were written at", () => {
+  const root = scratch.rootFor("akasha-refusals-keeping-")
+  writing(root, PAGE, "the page\n")
+  expect(refusalsPut(root, PAGE, ["one refused", "two refused"])).toBe(AT)
+  expect(readFileSync(join(root, AT), "utf8")).toBe("one refused\n\ntwo refused\n")
+})
+
+test("keeping no refusal takes the file away and hands back no path", () => {
+  const root = scratch.rootFor("akasha-refusals-keeping-")
+  writing(root, PAGE, "the page\n")
+  writing(root, AT, "what refused before\n")
+  expect(refusalsPut(root, PAGE, [])).toBeNull()
+  expect(() => readFileSync(join(root, AT), "utf8")).toThrow()
+})
+
+test("a path under no TypeScript name is written nowhere and names nothing", () => {
+  expect(refusalsPut("/elsewhere-nothing-reaches", "notes.md", ["one"])).toBeNull()
+})
+
+test("a file the machine could not write hands back no path", () => {
+  expect(refusalsPut("/elsewhere-nothing-reaches", PAGE, ["one"])).toBeNull()
 })

@@ -7,10 +7,15 @@ import {
   judgingBy,
 } from "akasha/checks/modules/checking/checking.module.code.ts"
 import type { Judged, Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
+import { agentPathOf } from "akasha/domains/context/modules/warranting/warranting.module.code.ts"
 import type { Change } from "akasha/pages/change/change.module.code.ts"
 import { counted } from "../../../utils/text/counted/counted.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
+import {
+  pointerFor,
+  refusalsPut,
+} from "../../modules/refusals-keeping/refusals-keeping.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 
@@ -43,6 +48,8 @@ export type Over = {
   readonly change: Change
   readonly refusals: readonly string[]
 }
+
+export type Keeping = (whole: readonly string[]) => string | null
 
 function heldFor(one: string, only: string[], paths: string[]): string[] | null {
   if (one === CHECK) return only
@@ -190,7 +197,8 @@ export function reasonSaid(reason: string, ceiling: number): string {
 export async function judgedOver(
   judging: Judging,
   change: Change,
-  also: readonly string[]
+  also: readonly string[],
+  keeping: Keeping | null = null
 ): Promise<Answer> {
   if (judging.named.length === 0) return { report: [], refusals: [NOTHING_RUNS], code: 3 }
   let takenBy: readonly string[]
@@ -207,7 +215,10 @@ export async function judgedOver(
   if (said.length === 0) {
     return { report: [`${over}, and none refused`, ...also], refusals: [], code: 0 }
   }
+  const whole = said.map((one) => `${one.path} — ${one.reason}`)
+  const at = keeping === null ? null : keeping(whole)
   const lines = said.map((one) => `${one.path} — ${reasonSaid(one.reason, REASON_CEILING)}`)
+  const kept = heldTo(lines, ANSWER_CEILING)
   const unrun = said.filter((one) => one.threw === true).length
   const could =
     unrun > 0
@@ -215,7 +226,7 @@ export async function judgedOver(
       : []
   return {
     report: [`${over}, and ${counted(said.length, "refusal")} in all`, ...could, ...also],
-    refusals: heldTo(lines, ANSWER_CEILING),
+    refusals: at === null ? kept : [...kept, pointerFor(at)],
     code: unrun > 0 ? 3 : 2,
   }
 }
@@ -246,5 +257,7 @@ export async function audit(argv: readonly string[], given: Given): Promise<Answ
     ...notYetJudgingIn(every, meant.only),
   ]
   const wholly = whollyFor(meant.paths, root)
-  return await judgedOver(judgingBy(narrowed.checks, "audit", wholly), over.change, also)
+  const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
+  const keeping: Keeping | null = page === null ? null : (whole) => refusalsPut(root, page, whole)
+  return await judgedOver(judgingBy(narrowed.checks, "audit", wholly), over.change, also, keeping)
 }

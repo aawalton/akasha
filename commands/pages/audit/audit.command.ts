@@ -23,7 +23,8 @@ export const audit = {
     "a folder named by --file-path means every file under that folder.",
     "a run where no named file is a check's input is refused rather than answered clean.",
     "a run narrowed by --file-path says nothing about the files that run did not judge.",
-    "it writes nothing, and holds nothing still while it runs.",
+    "it lands no change, and holds nothing still while it runs.",
+    "a refusal it found is written whole beside the calling agent's page, and the answer names that file and the call opening it, so a reason the answer shortened is read there in full.",
     "a bare run judges by the checks stating the audit phase, so a check that judges on no phase is left out, and the answer says how many were left out that way.",
     "--check narrows which checks run rather than which files they see, so the cost sits in which checks run.",
     "it runs under no ceiling on the clock, so a bare run takes as long as its checks take, and a check overrunning the processor seconds its own page states is refused.",
@@ -82,7 +83,23 @@ export const audit = {
     },
     {
       invariantKind: "departure",
-      statement: "An audit writes nothing.",
+      statement: "An audit lands no change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal an audit found is kept whole beside the calling agent's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answer names that file and the call opening it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit finding nothing writes nothing and names no file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit whose caller has no page keeps nothing and names no file.",
     },
     {
       invariantKind: "departure",

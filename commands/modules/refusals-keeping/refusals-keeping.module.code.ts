@@ -25,12 +25,12 @@ export function fits(refusals: readonly string[]): boolean {
   return BYTES.encode(bodyOf(refusals)).byteLength <= ANSWER_CEILING
 }
 
+export function pointerFor(at: string): string {
+  return `every refusal is written whole at ${at}, and \`akasha read --file-path ${at}\` opens it`
+}
+
 export function pointedAt(at: string): readonly string[] {
-  return [
-    PAST,
-    `every refusal is written whole at ${at}`,
-    `\`akasha read --file-path ${at}\` opens that file`,
-  ]
+  return [PAST, pointerFor(at)]
 }
 
 function put(at: string, body: string | null): boolean {
@@ -43,14 +43,23 @@ function put(at: string, body: string | null): boolean {
   }
 }
 
+export function refusalsPut(
+  root: string,
+  page: string,
+  refusals: readonly string[]
+): string | null {
+  const at = refusalsAt(page)
+  if (at === null) return null
+  const held = refusals.length === 0 ? null : bodyOf(refusals)
+  if (!put(join(root, at), held)) return null
+  return held === null ? null : at
+}
+
 export function refusalsKept(
   root: string,
   page: string,
   refusals: readonly string[]
 ): readonly string[] {
-  const at = refusalsAt(page)
-  if (at === null) return refusals
-  const held = refusals.length === 0 ? null : bodyOf(refusals)
-  if (!put(join(root, at), held)) return refusals
-  return held === null || fits(refusals) ? refusals : pointedAt(at)
+  const at = refusalsPut(root, page, refusals)
+  return at === null || fits(refusals) ? refusals : pointedAt(at)
 }
