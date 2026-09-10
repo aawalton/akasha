@@ -74,7 +74,7 @@ export function triggerProxySwap(): boolean {
   return true
 }
 
-export function _resetProxyVersionStateForTesting(): undefined {
+export function resetProxyVersionStateForTesting(): undefined {
   baseline = null
   respawnFn = null
   unsubProxyVersion = null
