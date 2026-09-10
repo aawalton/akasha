@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFile } from "../../change-mechanical-file.page-type.ts"
+import type { ChangeMechanicalFile } from "../../change-mechanical-file.page-type.types.ts"
 
 export const moveFile = {
   id: "01a07883-67ed-7849-b6e5-e499695cac46",
