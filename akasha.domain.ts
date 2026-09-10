@@ -10,7 +10,6 @@ export const akasha = {
     "domain/code-system",
     "domain/text",
     "domain/file",
-    "domain/file-system",
     "domain/git",
     "domain/shell",
     "domain/page",
