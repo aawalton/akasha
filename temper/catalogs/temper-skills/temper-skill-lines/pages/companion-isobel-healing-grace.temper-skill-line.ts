@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionIsobelHealingGrace = {
   id: "019e61dc-f209-7ef4-b710-f0b8b61c224a",

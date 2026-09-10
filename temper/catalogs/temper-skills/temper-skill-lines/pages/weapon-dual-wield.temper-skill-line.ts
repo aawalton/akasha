@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const weaponDualWield = {
   id: "019e61dc-f1c1-7452-bad3-e06e6d846c8b",

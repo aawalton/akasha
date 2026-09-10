@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionEmberLightningCaller = {
   id: "019e61dc-f202-7441-9b92-b2c3d7f500f8",

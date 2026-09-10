@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const wardenWintersEmbrace = {
   id: "019e61dc-f1b8-724b-a7c9-dc62d81bb641",

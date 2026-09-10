@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const racialDarkElfSkills = {
   id: "019e61dc-f1d9-76f9-8952-7b62665de0e6",

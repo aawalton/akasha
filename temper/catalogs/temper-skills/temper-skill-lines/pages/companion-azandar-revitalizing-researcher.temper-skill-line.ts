@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionAzandarRevitalizingResearcher = {
   id: "019e61dc-f214-7515-98f6-0428ca9efceb",

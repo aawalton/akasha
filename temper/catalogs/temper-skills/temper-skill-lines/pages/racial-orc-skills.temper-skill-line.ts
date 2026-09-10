@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const racialOrcSkills = {
   id: "019e61dc-f1de-72b3-9c1f-07c244937a76",

@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const worldSoulMagic = {
   id: "019e61dc-f1d1-785d-be2c-8b63937594ad",

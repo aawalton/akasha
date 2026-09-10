@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionSharedFightersGuild = {
   id: "019e61dc-f1f4-7914-8b72-5267ba7bd7ac",

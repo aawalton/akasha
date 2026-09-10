@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const worldExcavation = {
   id: "019e61dc-f1d6-7739-88fd-88fb74b09951",

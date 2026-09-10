@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const vengeanceArcanistSoldierOfApocrypha = {
   id: "019e6f53-86bf-707d-ae15-ca52860a1b5d",

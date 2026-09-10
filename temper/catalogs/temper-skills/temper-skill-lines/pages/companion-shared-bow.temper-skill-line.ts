@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionSharedBow = {
   id: "019e61dc-f1ed-7126-9cc6-5eb5cb1106b1",

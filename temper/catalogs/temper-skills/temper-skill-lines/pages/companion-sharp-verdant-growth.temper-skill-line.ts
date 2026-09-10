@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionSharpVerdantGrowth = {
   id: "019e61dc-f20f-729b-9b70-78a7e2a05bb8",

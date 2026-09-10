@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const guildPsijicOrder = {
   id: "019e61dc-f1cb-771d-991d-3314effff2d6",

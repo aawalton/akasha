@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const vengeanceArcanistHeraldOfTheTome = {
   id: "019e6f53-86c0-7105-982f-ebf4dc8b349b",

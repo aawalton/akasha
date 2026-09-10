@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const nightbladeSiphoning = {
   id: "019e61dc-f1b1-7661-bca6-7f22791364a9",

@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionTanlorinDraconicArmor = {
   id: "019e61dc-f218-7490-b7d5-8fb0cf3d2fcc",

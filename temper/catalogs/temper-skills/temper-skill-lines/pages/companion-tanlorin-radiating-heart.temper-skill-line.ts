@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionTanlorinRadiatingHeart = {
   id: "019e61dc-f217-709d-8e39-78857b2b4a13",

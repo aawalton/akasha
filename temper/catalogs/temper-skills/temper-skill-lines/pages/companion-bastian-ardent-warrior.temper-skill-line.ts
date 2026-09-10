@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionBastianArdentWarrior = {
   id: "019e61dc-f1f8-73d6-b103-dae1ac68511a",

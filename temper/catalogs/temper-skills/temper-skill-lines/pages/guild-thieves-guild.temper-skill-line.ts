@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const guildThievesGuild = {
   id: "019e61dc-f1cd-7652-854c-7b592d43c0d3",

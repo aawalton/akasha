@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionZerithWarriorsBanishment = {
   id: "019e61dc-f21c-70ab-a506-91513e4d0327",

@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const noSkillLine = {
   id: "019e61dc-f19f-759a-adff-9ead12469f07",

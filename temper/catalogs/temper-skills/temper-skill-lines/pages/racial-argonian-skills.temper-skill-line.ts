@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const racialArgonianSkills = {
   id: "019e61dc-f1d7-78ff-ad35-c4e5f5426091",

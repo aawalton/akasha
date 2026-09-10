@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const armorMediumArmor = {
   id: "019e61dc-f1c5-7f97-a2d1-5355e8b72c72",

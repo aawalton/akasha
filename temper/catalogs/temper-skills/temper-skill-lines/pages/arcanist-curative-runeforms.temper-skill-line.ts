@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const arcanistCurativeRuneforms = {
   id: "019e61dc-f1bb-7e14-8b92-b79675e26f76",

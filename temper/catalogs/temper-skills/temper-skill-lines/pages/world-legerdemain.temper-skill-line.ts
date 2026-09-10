@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const worldLegerdemain = {
   id: "019e61dc-f1d4-7909-9480-26e907fd4166",

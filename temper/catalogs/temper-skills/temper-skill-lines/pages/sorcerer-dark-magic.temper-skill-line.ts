@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const sorcererDarkMagic = {
   id: "019e61dc-f1ab-7caf-8c29-1210323134e6",

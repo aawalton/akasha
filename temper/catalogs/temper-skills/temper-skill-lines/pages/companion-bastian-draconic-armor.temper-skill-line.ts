@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionBastianDraconicArmor = {
   id: "019e61dc-f1f9-779e-a9d3-5b8e2c8a0636",

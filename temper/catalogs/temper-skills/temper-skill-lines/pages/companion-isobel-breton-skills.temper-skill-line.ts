@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionIsobelBretonSkills = {
   id: "019e61dc-f20b-7328-ae6d-cd4fb71e6e3c",

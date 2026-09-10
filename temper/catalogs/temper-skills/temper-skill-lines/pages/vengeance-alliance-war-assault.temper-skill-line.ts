@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const vengeanceAllianceWarAssault = {
   id: "019e6f53-86c7-7369-a880-a66b46dfd1a9",

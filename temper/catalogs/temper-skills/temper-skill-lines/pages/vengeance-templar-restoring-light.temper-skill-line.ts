@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const vengeanceTemplarRestoringLight = {
   id: "019e6f53-86b3-7a76-b404-cfa04ae16c4d",

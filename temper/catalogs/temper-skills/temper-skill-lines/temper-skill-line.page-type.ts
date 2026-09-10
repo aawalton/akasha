@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-import type { EsoSkillLineId } from "../properties/eso-skill-line-id.number-property.ts"
-import type { MaxRank } from "../properties/max-rank.number-property.ts"
-import type { SkillLineClass } from "../properties/skill-line-class.text-property.ts"
-
-export type TemperSkillLine = TemperCatalogThing & {
-  esoSkillLineId: EsoSkillLineId
-  maxRank: MaxRank
-  class?: SkillLineClass
-}
 
 export const temperSkillLine = {
   id: "01a05fca-cb8b-7189-8133-38b9f311342c",
@@ -31,4 +21,5 @@ export const temperSkillLine = {
     { pageProperty: "text-property/subcategory-id", required: true, many: false },
     { pageProperty: "text-property/skill-line-class", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

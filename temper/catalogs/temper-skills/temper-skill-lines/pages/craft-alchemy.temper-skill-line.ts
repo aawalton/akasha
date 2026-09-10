@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const craftAlchemy = {
   id: "019e61dc-f1e1-746b-ba08-80b9ddb31bcf",

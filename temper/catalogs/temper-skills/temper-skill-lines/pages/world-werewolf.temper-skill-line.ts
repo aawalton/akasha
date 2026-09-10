@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const worldWerewolf = {
   id: "019e61dc-f1d3-77f9-9922-91b2f42640eb",

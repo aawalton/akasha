@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionSharedRestorationStaff = {
   id: "019e61dc-f1ef-78ae-b4b2-f7f858f911e5",

@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const wardenGreenBalance = {
   id: "019e61dc-f1b7-710f-9e2c-b40dff0f1f64",

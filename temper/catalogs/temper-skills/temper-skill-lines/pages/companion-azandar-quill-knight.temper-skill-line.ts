@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionAzandarQuillKnight = {
   id: "019e61dc-f213-7063-8bdf-c73745af4d03",

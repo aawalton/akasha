@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const weaponRestorationStaff = {
   id: "019e61dc-f1c4-70d0-b7a5-75f591906775",

@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const vengeanceWeaponOneHandAndShield = {
   id: "019e6f53-86c2-711d-b324-b5ad3e22f37e",

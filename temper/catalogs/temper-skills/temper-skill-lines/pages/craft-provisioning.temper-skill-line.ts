@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const craftProvisioning = {
   id: "019e61dc-f1e6-7d79-809f-77cf5bd63d34",

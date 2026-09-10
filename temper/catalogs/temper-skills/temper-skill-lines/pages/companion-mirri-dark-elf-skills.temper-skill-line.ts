@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionMirriDarkElfSkills = {
   id: "019e61dc-f201-7063-bdbc-60da531ed701",

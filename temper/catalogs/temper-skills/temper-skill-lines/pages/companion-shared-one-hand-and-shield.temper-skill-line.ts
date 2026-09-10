@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionSharedOneHandAndShield = {
   id: "019e61dc-f1ea-79e7-84b8-b4156668687d",

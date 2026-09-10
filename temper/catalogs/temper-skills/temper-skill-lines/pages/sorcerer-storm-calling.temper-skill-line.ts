@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const sorcererStormCalling = {
   id: "019e61dc-f1ad-7d43-90cb-a41ab53ca380",

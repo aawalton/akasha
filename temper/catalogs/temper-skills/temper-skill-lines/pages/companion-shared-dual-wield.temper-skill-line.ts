@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionSharedDualWield = {
   id: "019e61dc-f1eb-7d6c-a9c0-a2d6e3ddf0bb",

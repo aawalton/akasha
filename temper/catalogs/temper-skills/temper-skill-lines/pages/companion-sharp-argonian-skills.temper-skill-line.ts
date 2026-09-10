@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const companionSharpArgonianSkills = {
   id: "019e61dc-f210-7747-8530-d77c127aa74a",

@@ -1,4 +1,4 @@
-import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "../temper-skill-line.page-type.types.ts"
 
 export const vengeanceDragonknightDraconicPower = {
   id: "019e6f53-86ab-7948-89a3-4d31957ed1cc",
