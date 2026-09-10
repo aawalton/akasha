@@ -55404,7 +55404,7 @@
     },
     "403": {
       "name": "Savage Werewolf",
-      "slotsUnlocked": 8,
+      "slotsUnlocked": 9,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55489,7 +55489,7 @@
         },
         "21": {
           "name": "Savage Werewolf's Lightning Staff",
-          "unlocked": false
+          "unlocked": true
         },
         "22": {
           "name": "Savage Werewolf's Shield",
@@ -55501,7 +55501,7 @@
     },
     "404": {
       "name": "Jailer's Tenacity",
-      "slotsUnlocked": 10,
+      "slotsUnlocked": 11,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55554,7 +55554,7 @@
         },
         "13": {
           "name": "Jailer's Sword",
-          "unlocked": false
+          "unlocked": true
         },
         "14": {
           "name": "Jailer's Battle Axe",
