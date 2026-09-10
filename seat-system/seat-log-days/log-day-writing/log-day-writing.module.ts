@@ -42,6 +42,10 @@ export const logDayWriting = {
     },
     {
       invariantKind: "departure",
+      statement: "A body written here reaches its page type from the folder that body sits in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type written here is reached by the id it keeps rather than by its slug.",
     },
     {
