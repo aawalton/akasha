@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const sources = {
   id: "01a08861-8fad-7611-ab85-593238d19e93",

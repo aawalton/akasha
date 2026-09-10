@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const safeFoods = {
   id: "01a06594-c67c-7016-a28f-a3a82cef38de",

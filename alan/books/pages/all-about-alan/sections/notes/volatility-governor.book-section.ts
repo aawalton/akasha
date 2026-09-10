@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const volatilityGovernor = {
   id: "01a06594-c686-7001-8c3a-414cf88a5472",

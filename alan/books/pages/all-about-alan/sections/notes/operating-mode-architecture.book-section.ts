@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const operatingModeArchitecture = {
   id: "01a06594-c67b-7011-910c-e8c5b7882274",

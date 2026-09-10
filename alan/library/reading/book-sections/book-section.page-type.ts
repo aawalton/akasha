@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../../../collections/collection.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { ChapterText } from "./properties/chapter-text.file-property.ts"
-import type { SectionOf } from "./properties/section-of.relation-property.ts"
-
-export type BookSection = Collection & {
-  title: Title
-  chapterText: ChapterText
-  sectionOf: SectionOf
-}
 
 export const bookSection = {
   id: "01a0658d-fe50-7001-976d-fd0d35660d1d",
@@ -55,4 +45,5 @@ export const bookSection = {
       statement: "A section opening its name with a number is slugged for its page type first.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const origin = {
   id: "01a06594-c67b-7015-b11f-0b6fe25435b7",

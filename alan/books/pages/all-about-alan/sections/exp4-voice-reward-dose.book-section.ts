@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const exp4VoiceRewardDose = {
   id: "01a08861-6e09-711f-94d8-2f2ee1dd41e5",

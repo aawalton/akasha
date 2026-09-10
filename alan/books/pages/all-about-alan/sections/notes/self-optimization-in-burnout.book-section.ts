@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const selfOptimizationInBurnout = {
   id: "01a06594-c683-7006-b78b-8a86b13fe56f",

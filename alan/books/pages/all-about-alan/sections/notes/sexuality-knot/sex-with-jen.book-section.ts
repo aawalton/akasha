@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const sexWithJen = {
   id: "01a06594-c683-7011-8e49-5f523380a909",

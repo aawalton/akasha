@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const identityAsTapestry = {
   id: "01a06594-c675-700b-bf23-fb9814c65660",

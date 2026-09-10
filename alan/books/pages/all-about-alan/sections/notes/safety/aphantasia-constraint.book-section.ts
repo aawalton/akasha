@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const aphantasiaConstraint = {
   id: "01a06594-c67e-7001-b9f9-775f31ca7746",

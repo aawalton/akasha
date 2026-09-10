@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const regulatedAnchorExposure = {
   id: "01a06594-c67c-700f-8cab-6c85e3a52b75",

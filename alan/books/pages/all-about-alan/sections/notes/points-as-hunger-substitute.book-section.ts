@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const pointsAsHungerSubstitute = {
   id: "01a06594-c67c-7003-8185-07e171dd7bc5",

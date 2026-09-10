@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const skinOnSkinPrevention = {
   id: "01a06594-c684-7002-b61f-274e2283a0b7",

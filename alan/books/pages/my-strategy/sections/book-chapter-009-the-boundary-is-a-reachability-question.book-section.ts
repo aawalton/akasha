@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const bookChapter009TheBoundaryIsAReachabilityQuestion = {
   id: "01a06594-c68f-7009-8732-5fcffc0f36f9",

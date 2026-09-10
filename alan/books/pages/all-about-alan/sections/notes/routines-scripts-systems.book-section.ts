@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const routinesScriptsSystems = {
   id: "01a06594-c67c-7014-9a0c-c8b32ca7256c",

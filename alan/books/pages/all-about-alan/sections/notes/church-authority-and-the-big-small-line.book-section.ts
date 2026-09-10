@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const churchAuthorityAndTheBigSmallLine = {
   id: "01a06594-c676-700a-8a7d-67301110c0e5",

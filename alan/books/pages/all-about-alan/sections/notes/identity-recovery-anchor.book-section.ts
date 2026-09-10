@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const identityRecoveryAnchor = {
   id: "01a06594-c67a-700c-a7d7-a68719ada239",

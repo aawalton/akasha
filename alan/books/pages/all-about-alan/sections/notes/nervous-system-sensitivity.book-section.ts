@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const nervousSystemSensitivity = {
   id: "01a06594-c67b-700d-bbf5-f150c9523c9b",

@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const painDrivenMotivation = {
   id: "01a06594-c67b-7012-b856-76b6b57a4aa5",

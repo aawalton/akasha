@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const bookChapter007Stability = {
   id: "01a06594-c68f-7007-9cd8-5c488565f63c",

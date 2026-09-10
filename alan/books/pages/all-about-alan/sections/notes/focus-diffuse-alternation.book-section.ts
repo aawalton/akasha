@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const focusDiffuseAlternation = {
   id: "01a06594-c679-700f-9a74-3acbf40957a9",

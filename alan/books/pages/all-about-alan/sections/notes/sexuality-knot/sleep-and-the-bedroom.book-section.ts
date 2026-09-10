@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const sleepAndTheBedroom = {
   id: "01a06594-c684-7000-a839-5ce2c6f7c4bc",

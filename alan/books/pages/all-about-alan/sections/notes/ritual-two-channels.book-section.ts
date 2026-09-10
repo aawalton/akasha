@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const ritualTwoChannels = {
   id: "01a06594-c67c-7012-b0db-3fa3126bc7d8",

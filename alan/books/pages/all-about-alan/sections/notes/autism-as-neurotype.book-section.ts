@@ -1,4 +1,4 @@
-import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.ts"
+import type { BookSection } from "../../../../../library/reading/book-sections/book-section.page-type.types.ts"
 
 export const autismAsNeurotype = {
   id: "01a06594-c675-7003-91cf-ffd9b4bb8cc6",
