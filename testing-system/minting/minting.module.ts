@@ -25,6 +25,10 @@ export const minting = {
     },
     {
       invariantKind: "departure",
+      statement: "The page type a minted check is of is filed under a path the minted root has.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A minted id is worked out from the slug the id is minted for.",
     },
     {
