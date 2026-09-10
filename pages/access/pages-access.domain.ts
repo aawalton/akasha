@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const pagesAccess = {
   id: "01a05bd6-c533-7016-89de-5e52ec2cde2a",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "pages-access",
   definition: "reading and writing pages, in the store and in the tree",
-  manifest: "json",
+
   parts: [
     "module/answer",
     "module/answer-write",
@@ -71,4 +71,4 @@ export const pagesAccess = {
       statement: "This package's work is largely proved by no test of its own.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

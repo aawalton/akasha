@@ -1,4 +1,4 @@
-import { camelizeKey } from "@akasha/pages-access/file-rows"
+import { camelizeKey } from "@akasha/pages/access/file-rows"
 import type { Page } from "../day-narrow-types/day-narrow-types.module.code.ts"
 
 const HELD_SEQ = 0

@@ -5,7 +5,7 @@ export const resolvingAMediaPageByIdRereadsEveryChapterFile = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "resolving-a-media-page-by-id-rereads-every-chapter-file",
-  domain: "workspace-package/pages-access",
+  domain: "domain/pages-access",
   claim:
     "Finding a page by its whole id costs seconds, because `askComposed` pushes no filter down and holds nothing between calls: every id lookup reads every file of the page type. The page index already answers the same question from one small file in about a millisecond, and nothing in pages-access reaches it.",
   evidence:

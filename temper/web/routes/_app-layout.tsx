@@ -1,4 +1,4 @@
-import { getPages } from "@akasha/pages-access/get"
+import { getPages } from "@akasha/pages/access/get"
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { data, Outlet } from "react-router"
 import { AuthProviderWrapper } from "../auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"

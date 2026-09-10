@@ -1,6 +1,6 @@
 "use client"
 
-import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
+import { NEVER_MATCH_VALUE } from "@akasha/pages/access/sentinels"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { assembleInventory } from "akasha/temper/items-core/assemble-inventory/assemble-inventory.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items-core/inventory-types/inventory-types.module.code.ts"

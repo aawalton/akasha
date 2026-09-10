@@ -1,4 +1,4 @@
-import { upsertPage } from "@akasha/pages-access/upsert"
+import { upsertPage } from "@akasha/pages/access/upsert"
 
 export const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"
 

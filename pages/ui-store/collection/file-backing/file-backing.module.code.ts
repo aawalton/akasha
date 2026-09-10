@@ -1,4 +1,4 @@
-import { RosterUnreachable } from "@akasha/pages-access/file-read"
+import { RosterUnreachable } from "@akasha/pages/access/file-read"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 
 export type PageTypeBacking = "file" | "unknown"

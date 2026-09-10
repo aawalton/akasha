@@ -1,5 +1,5 @@
 import { Toaster } from "@akasha/design-primitives/sonner"
-import { getPages } from "@akasha/pages-access/get"
+import { getPages } from "@akasha/pages/access/get"
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"

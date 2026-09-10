@@ -1,6 +1,6 @@
 "use client"
 
-import { type PatchPageArgs, patchPage } from "@akasha/pages-access/patch"
+import { type PatchPageArgs, patchPage } from "@akasha/pages/access/patch"
 import type { InteractionToken } from "@akasha/pages-ui/perf/page-card-perf"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { isJson } from "@akasha/utils/narrow/is-json"

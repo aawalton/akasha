@@ -1,9 +1,9 @@
 "use client"
 
-import { createPage } from "@akasha/pages-access/create"
-import { deletePage } from "@akasha/pages-access/delete"
-import { patchPage } from "@akasha/pages-access/patch"
-import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
+import { createPage } from "@akasha/pages/access/create"
+import { deletePage } from "@akasha/pages/access/delete"
+import { patchPage } from "@akasha/pages/access/patch"
+import { NEVER_MATCH_VALUE } from "@akasha/pages/access/sentinels"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"

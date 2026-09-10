@@ -1,8 +1,8 @@
 "use client"
 
-import { patchPage } from "@akasha/pages-access/patch"
-import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
-import { upsertPage } from "@akasha/pages-access/upsert"
+import { patchPage } from "@akasha/pages/access/patch"
+import { NEVER_MATCH_VALUE } from "@akasha/pages/access/sentinels"
+import { upsertPage } from "@akasha/pages/access/upsert"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"

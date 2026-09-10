@@ -1,6 +1,6 @@
+import { createPage } from "@akasha/pages/access/create"
+import { NEVER_MATCH_SLUG } from "@akasha/pages/access/sentinels"
 import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
-import { createPage } from "@akasha/pages-access/create"
-import { NEVER_MATCH_SLUG } from "@akasha/pages-access/sentinels"
 import { CreatePageDialog } from "@akasha/pages-ui/components/create-page-dialog"
 import { useActiveQuickAddPageType } from "@akasha/pages-ui/components/quick-add/use-active-quick-add-page-type"
 import { SortableNavs } from "@akasha/pages-ui/components/sortable-navs"

@@ -1,5 +1,6 @@
 "use client"
 
+import { patchPropertyDefinitionById } from "@akasha/pages/access/property-definition"
 import type { IconName } from "@akasha/pages/core/generated/icon-search-index"
 import { computeAggregatesForPage } from "@akasha/pages/core/property-types/aggregate"
 import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
@@ -8,7 +9,6 @@ import { resolveDefinitionOptions } from "@akasha/pages/core/schema/resolve-sele
 import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { buildPageHref } from "@akasha/pages/url/page-href"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { patchPropertyDefinitionById } from "@akasha/pages-access/property-definition"
 import { createOptionOnDefinition } from "@akasha/pages-ui/components/create-option"
 import {
   toAggregateInputs,

@@ -1,5 +1,6 @@
 "use client"
 
+import { patchPage } from "@akasha/pages/access/patch"
 import type { RichDocument } from "@akasha/pages/core/property-types/rich-document"
 import {
   applyEditorOp,
@@ -7,7 +8,6 @@ import {
   normalizeRichDocument,
 } from "@akasha/pages/core/property-types/rich-document-ops"
 import type { ReadonlyJSONValue } from "@akasha/pages/core/schema/pages"
-import { patchPage } from "@akasha/pages-access/patch"
 import { createSaveQueue, type SaveQueue } from "@akasha/pages-ui/block-editor/save-queue"
 import { isJson } from "@akasha/utils/narrow/is-json"
 import type { Json } from "@akasha/utils/narrow/json-value"

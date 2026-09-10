@@ -1,17 +1,17 @@
-import { buildPageHref, parsePageHrefParam } from "@akasha/pages/url/page-href"
-import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import {
   getPage,
   getPageByIdSuffix,
   getPageByIdSuffixAcrossTypes,
   getPages,
-} from "@akasha/pages-access/get"
-import { getDescendantPageTypeSlugs } from "@akasha/pages-access/page-type"
+} from "@akasha/pages/access/get"
+import { getDescendantPageTypeSlugs } from "@akasha/pages/access/page-type"
 import {
   getMediaConfig,
   getPropertyDefinitions,
   getSequenceConfig,
-} from "@akasha/pages-access/page-type-config"
+} from "@akasha/pages/access/page-type-config"
+import { buildPageHref, parsePageHrefParam } from "@akasha/pages/url/page-href"
+import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
 import { isRecord } from "@akasha/utils/narrow/is-record"

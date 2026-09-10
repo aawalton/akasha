@@ -1,9 +1,9 @@
 "use client"
 
+import { flattenRow } from "@akasha/pages/access/routing-core"
 import type { Page } from "@akasha/pages/core/page-types"
 import { createViewPipeline, type ViewResult } from "@akasha/pages/ui-store/query/view-pipeline"
 import type { UseViewQueryOptions } from "@akasha/pages/ui-store/sql/options"
-import { flattenRow } from "@akasha/pages-access/routing-core"
 import {
   useAcquireFilteredStream,
   useAcquireSlug,

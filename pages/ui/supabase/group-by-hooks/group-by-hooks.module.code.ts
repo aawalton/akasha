@@ -1,5 +1,6 @@
 "use client"
 
+import type { PageOrder } from "@akasha/pages/access/types"
 import type { Page, PageCondition, PageWhere } from "@akasha/pages/core/page-types"
 import type { PageTypePropertiesMap } from "@akasha/pages/core/property-types/rollup"
 import type { GroupGranularity, ViewFilter } from "@akasha/pages/core/schema/view-data"
@@ -7,7 +8,6 @@ import type { PropertyDefinition } from "@akasha/pages/core/types"
 import { GROUP_NONE_KEY } from "@akasha/pages/core/view/apply-grouping-shared"
 import { pageDayKey } from "@akasha/pages/core/view/calendar-date-to-value"
 import { applyGranularityBucket } from "@akasha/pages/core/view/group-granularity"
-import type { PageOrder } from "@akasha/pages-access/types"
 import {
   adjustTotalForClientFilters,
   applyClientViewFilters,

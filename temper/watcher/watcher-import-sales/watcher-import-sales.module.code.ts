@@ -1,4 +1,4 @@
-import { upsertPage } from "@akasha/pages-access/upsert"
+import { upsertPage } from "@akasha/pages/access/upsert"
 import { asRecord } from "@akasha/utils/narrow/as-record"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { identityOf } from "akasha/temper/addon-generators/identity-of-key/identity-of-key.module.code.ts"

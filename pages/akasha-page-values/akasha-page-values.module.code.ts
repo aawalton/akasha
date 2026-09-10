@@ -1,4 +1,4 @@
-import { kebabizeKey } from "@akasha/pages-access/file-rows"
+import { kebabizeKey } from "@akasha/pages/access/file-rows"
 import { carried, type Held, type Values } from "../carry/page-carry.module.code.ts"
 import { partedIn } from "../file-name/page-file-name.module.code.ts"
 import { wholeValue } from "../uncommitted/page-uncommitted.module.code.ts"

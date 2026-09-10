@@ -1,12 +1,12 @@
 "use client"
 
+import { flattenRow } from "@akasha/pages/access/routing-core"
 import type { Page } from "@akasha/pages/core/page-types"
 import {
   createRegularPipeline,
   type RegularResult,
 } from "@akasha/pages/ui-store/query/regular-pipeline"
 import type { UsePagesOptions } from "@akasha/pages/ui-store/sql/options"
-import { flattenRow } from "@akasha/pages-access/routing-core"
 import { useAcquireSlug, usePipelineLive } from "@akasha/pages-ui/cache/tanstack-live"
 import { noOp } from "@akasha/utils/narrow/no-op"
 import { useMemo } from "react"

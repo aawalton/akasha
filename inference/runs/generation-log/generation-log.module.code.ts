@@ -1,4 +1,4 @@
-import { kebabizeKey } from "@akasha/pages-access/file-rows"
+import { kebabizeKey } from "@akasha/pages/access/file-rows"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { optionalEnv } from "@akasha/utils/narrow/require-env"
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"

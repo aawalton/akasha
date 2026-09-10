@@ -1,6 +1,6 @@
+import { getPage } from "@akasha/pages/access/get"
+import { collectPages } from "@akasha/pages/access/iterate"
 import type { Page } from "@akasha/pages/core/page-types"
-import { getPage } from "@akasha/pages-access/get"
-import { collectPages } from "@akasha/pages-access/iterate"
 import {
   companions,
   getDefIdByCompanionId,

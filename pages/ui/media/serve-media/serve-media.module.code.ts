@@ -1,6 +1,6 @@
+import { getPage } from "@akasha/pages/access/get"
+import { getMediaPageTypeSlugs } from "@akasha/pages/access/page-type-config"
 import { isMedium, MEDIA_FORMATS } from "@akasha/pages/core/media-formats"
-import { getPage } from "@akasha/pages-access/get"
-import { getMediaPageTypeSlugs } from "@akasha/pages-access/page-type-config"
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
 import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
 import { mediaRenderObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"

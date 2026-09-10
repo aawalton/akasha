@@ -1,5 +1,5 @@
+import { getPageTypeByPluralSlug } from "@akasha/pages/access/page-type"
 import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { getPageTypeByPluralSlug } from "@akasha/pages-access/page-type"
 import { PagesFilteredContent } from "@akasha/pages-ui/components/pages-by-relation-content"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { Suspense } from "react"

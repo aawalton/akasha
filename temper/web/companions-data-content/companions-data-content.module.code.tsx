@@ -1,6 +1,6 @@
 "use client"
 
-import { patchPage } from "@akasha/pages-access/patch"
+import { patchPage } from "@akasha/pages/access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import { scrollToCard } from "akasha/design/layout/scroll-to-card/scroll-to-card.module.code.ts"

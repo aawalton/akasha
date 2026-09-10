@@ -1,4 +1,4 @@
-import { patchPage } from "@akasha/pages-access/patch"
+import { patchPage } from "@akasha/pages/access/patch"
 import { readAccountSummaries } from "akasha/temper/catalog-host/saved-variables-reader/saved-variables-reader.module.code.ts"
 import {
   CATALOG_DOMAIN_KEYS,

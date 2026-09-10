@@ -1,5 +1,5 @@
+import { getPageByIdSuffix } from "@akasha/pages/access/get"
 import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { getPageByIdSuffix } from "@akasha/pages-access/get"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { buildNavIconSvg } from "akasha/alan/harness/web-page-answers/nav-icon-svg/nav-icon-svg.module.code.ts"
 

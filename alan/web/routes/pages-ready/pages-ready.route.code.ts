@@ -1,4 +1,4 @@
-import { getPages } from "@akasha/pages-access/get"
+import { getPages } from "@akasha/pages/access/get"
 
 export const PROBE_PAGE_TYPE = "page-type"
 

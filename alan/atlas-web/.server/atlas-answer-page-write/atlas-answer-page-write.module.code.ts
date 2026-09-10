@@ -1,4 +1,4 @@
-import { readPageWrite, runPageWrite, TAKES, writesAs } from "@akasha/pages-access/answer-write"
+import { readPageWrite, runPageWrite, TAKES, writesAs } from "@akasha/pages/access/answer-write"
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 
 writesAs("atlas-web")

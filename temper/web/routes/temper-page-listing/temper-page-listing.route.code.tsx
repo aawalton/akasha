@@ -1,5 +1,5 @@
+import { getPageTypeByPluralSlug } from "@akasha/pages/access/page-type"
 import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { getPageTypeByPluralSlug } from "@akasha/pages-access/page-type"
 import { PagesFilteredContent } from "@akasha/pages-ui/components/pages-by-relation-content"
 import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"

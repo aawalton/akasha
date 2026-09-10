@@ -198,14 +198,35 @@
     "./ui-store/realtime/shape-meta": "./ui-store/realtime/shape-meta/shape-meta.module.code.ts",
     "./ui-store/report-stall": "./ui-store/report-stall/report-stall.module.code.ts",
     "./ui-store/singleton": "./ui-store/singleton/singleton.module.code.ts",
-    "./ui-store/sql/options": "./ui-store/sql/options/options.module.code.ts"
+    "./ui-store/sql/options": "./ui-store/sql/options/options.module.code.ts",
+    "./access/answer": "./access/answer/answer.module.code.ts",
+    "./access/answer-write": "./access/answer-write/answer-write.module.code.ts",
+    "./access/capture-error": "./access/capture-error/capture-error.module.code.ts",
+    "./access/create": "./access/create/create.module.code.ts",
+    "./access/delete": "./access/deleting/deleting.module.code.ts",
+    "./access/file-name": "./access/file-name/file-name.module.code.ts",
+    "./access/file-read": "./access/file-read/file-read.module.code.ts",
+    "./access/file-rows": "./access/file-rows/file-rows.module.code.ts",
+    "./access/get": "./access/get/get.module.code.ts",
+    "./access/get-by-relation": "./access/get-by-relation/get-by-relation.module.code.ts",
+    "./access/get-for-view": "./access/get-for-view/get-for-view.module.code.ts",
+    "./access/iterate": "./access/iterate/iterate.module.code.ts",
+    "./access/ordered": "./access/ordered/ordered.module.code.ts",
+    "./access/page-row": "./access/raw-page-row/raw-page-row.module.code.ts",
+    "./access/page-type": "./access/page-type/page-type.module.code.ts",
+    "./access/page-type-config": "./access/page-type-config/page-type-config.module.code.ts",
+    "./access/patch": "./access/patch/patch.module.code.ts",
+    "./access/property-definition": "./access/property-definition/property-definition.module.code.ts",
+    "./access/routing-core": "./access/routing-core/routing-core.module.code.ts",
+    "./access/sentinels": "./access/sentinels/sentinels.module.code.ts",
+    "./access/types": "./access/types/types.module.code.ts",
+    "./access/upsert": "./access/upsert/upsert.module.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "zod": "^4.3.6",
-    "@akasha/pages-access": "workspace:*",
     "@tanstack/db": "^0.6.14"
   }
 }

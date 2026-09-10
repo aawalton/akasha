@@ -1,6 +1,6 @@
+import { getPage } from "@akasha/pages/access/get"
+import { patchPage } from "@akasha/pages/access/patch"
 import type { PageWhere } from "@akasha/pages/core/page-types"
-import { getPage } from "@akasha/pages-access/get"
-import { patchPage } from "@akasha/pages-access/patch"
 
 const PAGE_TYPE = "readout-widget"
 

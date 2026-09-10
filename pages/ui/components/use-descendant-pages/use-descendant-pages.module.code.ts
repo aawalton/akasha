@@ -1,5 +1,12 @@
 "use client"
 
+import { getPages } from "@akasha/pages/access/get"
+import {
+  extractRelationContainment,
+  getPagesByRelation,
+} from "@akasha/pages/access/get-by-relation"
+import { collectPages } from "@akasha/pages/access/iterate"
+import type { PageOrder, PageSelect } from "@akasha/pages/access/types"
 import type { Page, PageWhere } from "@akasha/pages/core/page-types"
 import {
   type ListingConfig,
@@ -8,13 +15,6 @@ import {
 import { resolveDescendantPageTypeIds } from "@akasha/pages/core/schema/page-type-inheritance"
 import type { ViewSort } from "@akasha/pages/core/schema/view-data"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { getPages } from "@akasha/pages-access/get"
-import {
-  extractRelationContainment,
-  getPagesByRelation,
-} from "@akasha/pages-access/get-by-relation"
-import { collectPages } from "@akasha/pages-access/iterate"
-import type { PageOrder, PageSelect } from "@akasha/pages-access/types"
 import {
   type PageWithProperties,
   toPageWithProperties,

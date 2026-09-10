@@ -11,7 +11,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
         "@akasha/seat-system": "workspace:*",
@@ -87,7 +86,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@capacitor/core": "^8.4.1",
@@ -137,7 +135,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -369,17 +366,8 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@tanstack/db": "^0.6.14",
-        "zod": "^4.3.6",
-      },
-    },
-    "pages/access": {
-      "name": "@akasha/pages-access",
-      "dependencies": {
-        "@akasha/pages": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -395,7 +383,6 @@
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@dnd-kit/core": ">=6",
         "@dnd-kit/modifiers": ">=7",
@@ -424,7 +411,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
@@ -450,7 +436,7 @@
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
@@ -488,7 +474,7 @@
       "dependencies": {
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "isbot": "^5.1.36",
         "react": "19.2.0",
@@ -686,7 +672,6 @@
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -765,8 +750,6 @@
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 
     "@akasha/pages": ["@akasha/pages@workspace:pages"],
-
-    "@akasha/pages-access": ["@akasha/pages-access@workspace:pages/access"],
 
     "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages/ui"],
 

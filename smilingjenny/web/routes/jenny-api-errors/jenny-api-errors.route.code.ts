@@ -1,4 +1,4 @@
-import { captureError, type ErrorCapturePayload } from "@akasha/pages-access/capture-error"
+import { captureError, type ErrorCapturePayload } from "@akasha/pages/access/capture-error"
 import { computeFingerprint } from "akasha/alan/harness/errors-core/error-fingerprint/error-fingerprint.module.code.ts"
 import { ErrorReportSchema } from "akasha/alan/harness/errors-core/error-report/error-report.module.code.ts"
 

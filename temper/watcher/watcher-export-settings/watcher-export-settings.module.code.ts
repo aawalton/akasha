@@ -1,5 +1,5 @@
+import { getPage, getPages } from "@akasha/pages/access/get"
 import { readFiles, readPages } from "@akasha/pages/query"
-import { getPage, getPages } from "@akasha/pages-access/get"
 import { asRecord } from "@akasha/utils/narrow/as-record"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import type { AutomationSettings } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"

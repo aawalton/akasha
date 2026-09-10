@@ -1,7 +1,7 @@
 "use client"
 
 import { Card, CardContent } from "@akasha/design-primitives/card"
-import { patchPage } from "@akasha/pages-access/patch"
+import { patchPage } from "@akasha/pages/access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"

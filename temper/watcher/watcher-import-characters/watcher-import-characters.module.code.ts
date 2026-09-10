@@ -1,4 +1,4 @@
-import { upsertPage } from "@akasha/pages-access/upsert"
+import { upsertPage } from "@akasha/pages/access/upsert"
 import { asRecord } from "@akasha/utils/narrow/as-record"
 import {
   decodeBuild,

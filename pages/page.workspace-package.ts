@@ -62,7 +62,7 @@ export const page = {
     "domain/pages-query",
     "domain/pages-service",
     "domain/pages-core",
-    "workspace-package/pages-access",
+    "domain/pages-access",
     "domain/pages-ui-store",
     "domain/pages-url",
     "workspace-package/pages-ui",

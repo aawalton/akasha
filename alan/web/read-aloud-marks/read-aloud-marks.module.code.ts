@@ -1,5 +1,5 @@
-import { getPage } from "@akasha/pages-access/get"
-import { getMediaConfig } from "@akasha/pages-access/page-type-config"
+import { getPage } from "@akasha/pages/access/get"
+import { getMediaConfig } from "@akasha/pages/access/page-type-config"
 import {
   estimateChapterSentenceMarks,
   estimateChapterSentenceMarksFromN,

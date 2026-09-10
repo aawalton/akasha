@@ -243,7 +243,6 @@
   },
   "dependencies": {
     "@akasha/design-primitives": "workspace:*",
-    "@akasha/pages-access": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@types/mdast": "^4.0.4",

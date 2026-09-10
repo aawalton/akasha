@@ -38,7 +38,6 @@
     "@akasha/pages": "workspace:*",
     "@akasha/rules-engine": "workspace:*",
     "@akasha/indexes": "workspace:*",
-    "@akasha/pages-access": "workspace:*",
     "@akasha/design-system": "workspace:*",
     "react-dom": "^18 || ^19",
     "@akasha/cluster-manifests": "workspace:*",
