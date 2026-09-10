@@ -9,7 +9,7 @@ import type { SkillEffects } from "./properties/skill-effects.page-property-entr
 
 export type TemperCompanionSkill = TemperCompanionThing & {
   abilityId: AbilityId
-  validRoles?: readonly ValidRoles[]
+  validRoles?: ValidRoles
   tags?: readonly Tags[]
   alternateAbilityIds?: readonly AlternateAbilityIds[]
   skillEffects?: SkillEffects
