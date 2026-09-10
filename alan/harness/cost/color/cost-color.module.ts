@@ -15,19 +15,20 @@ export const costColor = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost above one is black whatever the surplus is.",
+      statement: "A cost above one multiplier is black whatever the surplus is.",
     },
     {
       invariantKind: "departure",
-      statement: "A cost of one or less is yellow where the surplus is blue.",
+      statement: "A cost no higher than one multiplier is yellow where the surplus is blue.",
     },
     {
       invariantKind: "departure",
-      statement: "A cost of one or less is red where the surplus is green.",
+      statement: "A cost no higher than one multiplier is red where the surplus is green.",
     },
     {
       invariantKind: "departure",
-      statement: "A cost of one or less is black where the surplus is beneath green.",
+      statement:
+        "A cost no higher than one multiplier is black where the surplus is beneath green.",
     },
     {
       invariantKind: "departure",
