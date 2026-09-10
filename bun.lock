@@ -206,7 +206,6 @@
         "@radix-ui/react-slider": "*",
         "@radix-ui/react-slot": "*",
         "@radix-ui/react-switch": "*",
-        "@radix-ui/react-tabs": "*",
         "@radix-ui/react-toggle": "*",
         "@radix-ui/react-toggle-group": "*",
         "@react-router/dev": "7.15.1",
