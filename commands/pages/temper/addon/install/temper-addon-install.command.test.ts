@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import { temperAddonInstall } from "./temper-addon-install.command.code.ts"
 
@@ -68,7 +69,7 @@ function fixtureFor(
 }
 
 function installed(at: Fixture, argv: readonly string[] = ["--addon", PROBE]) {
-  const before = process.env["ESO_LIVE_DIR"]
+  const before = optionalEnv("ESO_LIVE_DIR")
   process.env["ESO_LIVE_DIR"] = at.live
   try {
     return temperAddonInstall([...argv, "--code-root", at.root])
