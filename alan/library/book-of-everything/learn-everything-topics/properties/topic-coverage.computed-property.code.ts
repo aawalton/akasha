@@ -1,5 +1,5 @@
 import type { Reach, Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { WorkedLearnEverythingTopic } from "../learn-everything-topic.page-type.worked.ts"
+import type { LearnEverythingTopic } from "../learn-everything-topic.page-type.types.ts"
 
 const UNDER = "topic-part-of"
 
@@ -7,14 +7,14 @@ type Beneath = { readonly coverage?: number }
 
 type Rung = { readonly rank?: number }
 
-function rankOf(page: WorkedLearnEverythingTopic, reach: Reach): number {
+function rankOf(page: LearnEverythingTopic, reach: Reach): number {
   const said: unknown = page.masteryLevel
   if (typeof said !== "string") return 0
   const rank = reach.target<Rung>(said)?.rank
   return typeof rank === "number" && Number.isFinite(rank) ? rank : 0
 }
 
-export const work: Work<WorkedLearnEverythingTopic, number> = (page, reach) => {
+export const work: Work<LearnEverythingTopic, number> = (page, reach) => {
   const rank = rankOf(page, reach)
   const under = reach.naming<Beneath>(UNDER)
   if (under.length === 0) return rank

@@ -53,7 +53,6 @@ export const learnEverythingTopic = {
     { pageProperty: "file-property/bites", required: false, many: false },
     { pageProperty: "file-property/topic-evidence", required: false, many: false },
   ],
-  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",
