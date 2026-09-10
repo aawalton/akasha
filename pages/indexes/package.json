@@ -11,7 +11,7 @@
     "./import": "./import/index-import.index.code.ts",
     "./import/page": "./import/index-import.index.ts",
     "./indexing": "./indexing/indexing.module.code.ts",
-    "./indexing/testing": "./indexing/indexing.module.test-fixtures.ts",
+    "./indexing/testing": "./fixture-world/fixture-world.module.code.ts",
     "./package-reaching": "./package-reaching/package-reaching.module.code.ts",
     "./path-claiming": "./path-claiming/path-claiming.module.code.ts",
     "./path-naming": "./path-naming/path-naming.module.code.ts",

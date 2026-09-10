@@ -2,13 +2,19 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { everyFileUnder } from "@akasha/testing-system/walking"
+import {
+  aProperty,
+  aType,
+  bodyOf,
+  put,
+  scratch,
+  thePage,
+} from "../fixture-world/fixture-world.module.code.ts"
 import { indexingAt, rebuiltFrom } from "./indexing.module.code.ts"
 import {
   A,
-  aProperty,
   aSource,
   aTarget,
-  aType,
   aWorldDeclaringNothing,
   aWorldDeclaringNoUnique,
   aWrittenWorld,
@@ -17,7 +23,6 @@ import {
   BLAND_CODE,
   bare,
   blandWith,
-  bodyOf,
   C,
   D,
   edgeFile,
@@ -31,16 +36,13 @@ import {
   NOTE,
   namingAType,
   pathFile,
-  put,
   renamed,
   retyped,
   said,
   schemaFile,
-  scratch,
   settled,
   slugFile,
   TYPE_SLUG,
-  thePage,
   tookAway,
   uniqueKindRespelled,
   writingTo,
