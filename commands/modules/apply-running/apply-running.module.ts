@@ -145,9 +145,12 @@ export const applyRunning = {
       statement: "That refusal is the refusal every call running a change gives.",
     },
     {
+      invariantKind: "departure",
+      statement: "The writer owes a reading where any row a fold holds says the writer owes one.",
+    },
+    {
       invariantKind: "gap",
-      statement:
-        "The edits fold under one running rather than the running each change's page states.",
+      statement: "No row says whether the checks run, so a fold runs every check.",
     },
     {
       invariantKind: "departure",

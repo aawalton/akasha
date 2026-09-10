@@ -10,7 +10,13 @@ import { headOf, rebasedHeld } from "../drafting/drafting.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { writing as putting } from "../scratching/scratching.module.test-fixtures.ts"
-import { type Folded, folding, rebasedRows, undone } from "./apply-running.module.code.ts"
+import {
+  type Folded,
+  folding,
+  rebasedRows,
+  runningOver,
+  undone,
+} from "./apply-running.module.code.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 
@@ -226,6 +232,41 @@ test("two rows for one path the later did not follow refuse the apply and leave 
 
   expect("refusals" in said).toBe(true)
   expect("why" in editsIn(root, PAGE) ? [] : editsIn(root, PAGE)).not.toEqual({ rows: [] })
+})
+
+test("a fold whose every row says the writer owes no reading owes none", () => {
+  const rows: readonly FileChange[] = [{ kind: "remove", path: ONE, writerOwesReading: false }]
+
+  expect(runningOver(rows).writerOwesReading).toBe(false)
+})
+
+test("the writer owes a reading where any row a fold holds says the writer owes one", () => {
+  const rows: readonly FileChange[] = [
+    { kind: "remove", path: ONE, writerOwesReading: false },
+    { kind: "remove", path: TWO },
+  ]
+
+  expect(runningOver(rows).writerOwesReading).toBe(true)
+})
+
+test("the fold hands the landing the running its rows state", async () => {
+  const root = await repo()
+  const row: FileChange = {
+    kind: "replace",
+    path: ONE,
+    contentFrom: WAS,
+    contentTo: NOW,
+    writerOwesReading: false,
+  }
+  appendEdits(root, PAGE, [row])
+
+  const said = folding(root, PAGE)
+
+  expect("carried" in said ? said.carried?.running : null).toEqual({
+    checks: true,
+    writerOwesReading: false,
+    readersOweReading: true,
+  })
 })
 
 test("a path that is no page keeps no edits", async () => {

@@ -27,6 +27,10 @@ import { allowedAgain, MEASURED_ALLOWED } from "../stopping/command-stopping.mod
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 
+export function runningOver(rows: readonly FileChange[]): Running {
+  return { ...CHANGED, writerOwesReading: rows.some((one) => one.writerOwesReading !== false) }
+}
+
 const MEASURED_NAME = "akasha change apply"
 
 export type Unfold = { readonly went: readonly string[] }
@@ -68,7 +72,7 @@ export function folding(root: string, page: string): Folded {
       unfold: { went: linesIn(root, page) },
       carried: {
         held: bodies.held,
-        running: CHANGED,
+        running: runningOver(held),
         moves: bodies.moves,
         formatted: bodies.formatted,
       },
