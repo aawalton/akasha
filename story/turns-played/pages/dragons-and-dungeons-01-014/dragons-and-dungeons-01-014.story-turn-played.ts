@@ -1,4 +1,4 @@
-import type { StoryTurnPlayed } from "../../story-turn-played.page-type.ts"
+import type { StoryTurnPlayed } from "../../story-turn-played.page-type.types.ts"
 
 export const dragonsAndDungeons01014 = {
   id: "01a064bd-7cc9-76b9-8186-4dbcce7ade21",

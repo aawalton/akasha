@@ -1,4 +1,4 @@
-import type { StoryTurnPlayed } from "../../story-turn-played.page-type.ts"
+import type { StoryTurnPlayed } from "../../story-turn-played.page-type.types.ts"
 
 export const haremHotel00020 = {
   id: "01a064bd-7cca-7b09-bcc6-41bd0de5b7b3",

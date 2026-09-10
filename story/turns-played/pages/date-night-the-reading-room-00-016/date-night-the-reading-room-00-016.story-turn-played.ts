@@ -1,4 +1,4 @@
-import type { StoryTurnPlayed } from "../../story-turn-played.page-type.ts"
+import type { StoryTurnPlayed } from "../../story-turn-played.page-type.types.ts"
 
 export const dateNightTheReadingRoom00016 = {
   id: "01a064bd-7cc7-77d7-b01b-4345276d0219",

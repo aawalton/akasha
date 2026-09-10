@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../collections/collection.page-type.types.ts"
-import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
-import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-
-export type StoryTurnPlayed = Collection & {
-  ownLength?: OwnLength
-  prose: Prose
-}
 
 export const storyTurnPlayed = {
   id: "01a064bc-8477-7bac-98ec-152da07077ce",
@@ -36,4 +28,5 @@ export const storyTurnPlayed = {
       statement: "A turn's text is kept here alone rather than also in a game's rows.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

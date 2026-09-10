@@ -1,4 +1,4 @@
-import type { StoryTurnPlayed } from "../../story-turn-played.page-type.ts"
+import type { StoryTurnPlayed } from "../../story-turn-played.page-type.types.ts"
 
 export const theVioletHour00004 = {
   id: "01a064bd-7cd0-7714-8099-986dabccdd27",
