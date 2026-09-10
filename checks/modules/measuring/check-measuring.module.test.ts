@@ -2,7 +2,6 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   bytesAs,
-  chosenIn,
   costOf,
   costsIn,
   heldIn,
@@ -14,6 +13,7 @@ import {
   runsIn,
   secondsAs,
   totalOf,
+  windowIn,
   withinOf,
 } from "./check-measuring.module.code.ts"
 import {
@@ -129,50 +129,40 @@ test("a check holding no run the choice reached is not answered", () => {
   expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual(["fresh"])
 })
 
-test("a call handing over no argument reads the last one run of the check group", () => {
-  expect(chosenIn([])).toEqual({ chosen: ONE_RUN, group: "check", refusals: [] })
-})
-
-test("the audit flag reads the audit group in place of the check group", () => {
-  expect(chosenIn(["--audit"])).toEqual({ chosen: ONE_RUN, group: "audit", refusals: [] })
-  expect(chosenIn(["--audit", "--last", "5"]).group).toBe("audit")
-  expect(chosenIn(["--last", "5", "--audit"]).chosen).toEqual({ by: "runs", runs: 5 })
-})
-
-test("the audit flag said twice is refused", () => {
-  expect(chosenIn(["--audit", "--audit"]).chosen).toBe(null)
+test("a call handing over no argument reads the last one run", () => {
+  expect(windowIn([])).toEqual({ chosen: ONE_RUN, refusals: [] })
 })
 
 test("a count names how many of the newest runs are read", () => {
-  expect(chosenIn(["--last", "5"]).chosen).toEqual({ by: "runs", runs: 5 })
+  expect(windowIn(["--last", "5"]).chosen).toEqual({ by: "runs", runs: 5 })
 })
 
 test("a period is named in minutes or hours or days", () => {
-  expect(chosenIn(["--last", "30m"]).chosen).toEqual({ by: "period", ms: 1800000, said: "30m" })
-  expect(chosenIn(["--last", "2h"]).chosen).toEqual({ by: "period", ms: 7200000, said: "2h" })
-  expect(chosenIn(["--last", "7d"]).chosen).toEqual({ by: "period", ms: 604800000, said: "7d" })
+  expect(windowIn(["--last", "30m"]).chosen).toEqual({ by: "period", ms: 1800000, said: "30m" })
+  expect(windowIn(["--last", "2h"]).chosen).toEqual({ by: "period", ms: 7200000, said: "2h" })
+  expect(windowIn(["--last", "7d"]).chosen).toEqual({ by: "period", ms: 604800000, said: "7d" })
 })
 
 test("a count of no runs is refused", () => {
-  const chose = chosenIn(["--last", "0"])
+  const chose = windowIn(["--last", "0"])
 
   expect(chose.chosen).toBe(null)
   expect(chose.refusals[0]).toContain("`--last <count>`")
 })
 
 test("a flag nothing follows is refused", () => {
-  const chose = chosenIn(["--last"])
+  const chose = windowIn(["--last"])
 
   expect(chose.chosen).toBe(null)
   expect(chose.refusals[0]).toContain("`--last <count>{m|h|d}`")
 })
 
 test("an argument this command does not take is refused", () => {
-  expect(chosenIn(["--since"]).chosen).toBe(null)
-  expect(chosenIn(["yesterday"]).chosen).toBe(null)
-  expect(chosenIn(["--last", "5", "--last", "6"]).chosen).toBe(null)
-  expect(chosenIn(["--last", "3w"]).chosen).toBe(null)
-  expect(chosenIn(["--last", "0h"]).chosen).toBe(null)
+  expect(windowIn(["--since"]).chosen).toBe(null)
+  expect(windowIn(["yesterday"]).chosen).toBe(null)
+  expect(windowIn(["--last", "5", "--last", "6"]).chosen).toBe(null)
+  expect(windowIn(["--last", "3w"]).chosen).toBe(null)
+  expect(windowIn(["--last", "0h"]).chosen).toBe(null)
 })
 
 test("runs are ranked by the latest moment any record of that run carries", () => {

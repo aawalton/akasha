@@ -132,15 +132,11 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "The check group is read where no group was named.",
+      statement: "The check group is read where the caller hands over no group.",
     },
     {
       invariantKind: "departure",
-      statement: "The audit group is read in its place where the audit flag was named.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The audit flag said twice is refused.",
+      statement: "The group a caller hands over is read in its place.",
     },
     {
       invariantKind: "departure",

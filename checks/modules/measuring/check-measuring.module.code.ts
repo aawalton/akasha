@@ -23,8 +23,6 @@ const TOTAL = "total"
 
 const LAST = "--last"
 
-const AUDIT_FLAG = "--audit"
-
 const COUNTED = /^\d+$/
 
 const PERIODED = /^(\d+)([mhd])$/
@@ -35,9 +33,7 @@ const HOUR_MS = 3600000
 
 const DAY_MS = 86400000
 
-const FORMS =
-  `\`${LAST} <count>\` names runs, \`${LAST} <count>{m|h|d}\` names a period, ` +
-  `and \`${AUDIT_FLAG}\` reads the audit runs`
+const FORMS = `\`${LAST} <count>\` names runs and \`${LAST} <count>{m|h|d}\` names a period`
 
 const HEADED: readonly string[] = ["runs", "cpu", "mem", "paths", "refusals"]
 
@@ -78,7 +74,6 @@ export type Group = typeof CHECK | typeof AUDIT
 
 export interface Chose {
   readonly chosen: Chosen | null
-  readonly group: Group
   readonly refusals: readonly string[]
 }
 
@@ -142,7 +137,7 @@ function spanOf(unit: string): number | null {
 }
 
 function refusing(why: string): Chose {
-  return { chosen: null, group: CHECK, refusals: [`${why}: ${FORMS}`] }
+  return { chosen: null, refusals: [`${why}: ${FORMS}`] }
 }
 
 function periodIn(said: string): Chose {
@@ -153,11 +148,11 @@ function periodIn(said: string): Chose {
   }
   const ms = Number(found[1] ?? "0") * span
   if (ms === 0) return refusing(`\`${LAST} ${said}\` names a period of no length`)
-  return { chosen: { by: "period", ms, said }, group: CHECK, refusals: [] }
+  return { chosen: { by: "period", ms, said }, refusals: [] }
 }
 
 export function windowIn(argv: readonly string[]): Chose {
-  if (argv.length === 0) return { chosen: ONE_RUN, group: CHECK, refusals: [] }
+  if (argv.length === 0) return { chosen: ONE_RUN, refusals: [] }
   const first = argv[0] ?? ""
   if (first !== LAST) return refusing(`\`${first}\` is no argument this command takes`)
   if (argv.length === 1) return refusing(`\`${LAST}\` was handed nothing to read`)
@@ -167,22 +162,7 @@ export function windowIn(argv: readonly string[]): Chose {
   if (!COUNTED.test(said)) return periodIn(said)
   const runs = Number(said)
   if (runs === 0) return refusing(`\`${LAST} ${said}\` names no run`)
-  return { chosen: { by: "runs", runs }, group: CHECK, refusals: [] }
-}
-
-export function chosenIn(argv: readonly string[]): Chose {
-  const words: string[] = []
-  let group: Group = CHECK
-  for (const said of argv) {
-    if (said !== AUDIT_FLAG) {
-      words.push(said)
-      continue
-    }
-    if (group === AUDIT) return refusing(`\`${AUDIT_FLAG}\` is said twice`)
-    group = AUDIT
-  }
-  const chose = windowIn(words)
-  return { chosen: chose.chosen, group, refusals: chose.refusals }
+  return { chosen: { by: "runs", runs }, refusals: [] }
 }
 
 export function withinOf(runs: readonly Run[], now: number, ms: number): readonly Run[] {
