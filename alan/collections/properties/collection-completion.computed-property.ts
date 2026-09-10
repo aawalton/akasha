@@ -10,6 +10,7 @@ export const collectionCompletion = {
   propertySlug: "completion",
   definition: "a collection's progress as a stage rather than an amount",
   holds: "text",
+  values: ["completed", "in-progress", "not-started"],
   code: "ts",
   invariants: [
     {

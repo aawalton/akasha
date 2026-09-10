@@ -32,6 +32,20 @@ const SLUG_AT = "akasha/pages/properties/slug.text-property.ts"
 
 const CHOSEN = new Set(["rank-property", "select-property"])
 
+const COMPUTED = "computed-property"
+
+const HOLDS_AT = "holds"
+
+const VALUES = "values"
+
+const WORKED = new Map<string, string>([
+  ["boolean", "boolean"],
+  ["date", "string"],
+  ["instant", "string"],
+  ["number", "number"],
+  ["text", "string"],
+])
+
 const HELD = new Map<string, string>([
   ["boolean-property", "boolean"],
   ["build-folder-property", "true"],
@@ -74,18 +88,30 @@ export function manyIn(shadow: Shadow): ReadonlySet<string> {
   return found
 }
 
-export function writtenFor(kind: string, path: string, slug: string): Written | null {
-  const held = HELD.get(kind)
-  if (held !== undefined) return { held, imports: [] }
-  if (kind === RELATION) {
-    return { held: SLUG_HELD, imports: [`import type { ${SLUG_HELD} } from "${SLUG_AT}"`] }
-  }
-  if (!CHOSEN.has(kind)) return null
+function chosenIn(path: string, slug: string): Written {
   const named = exportedAs(slug)
   return {
     held: `(typeof ${named}.values)[number]`,
     imports: [`import type { ${named} } from "./${basename(path)}"`],
   }
+}
+
+export function writtenFor(
+  kind: string,
+  path: string,
+  slug: string,
+  value: Record<string, unknown>
+): Written | null {
+  const held = HELD.get(kind)
+  if (held !== undefined) return { held, imports: [] }
+  if (kind === RELATION) {
+    return { held: SLUG_HELD, imports: [`import type { ${SLUG_HELD} } from "${SLUG_AT}"`] }
+  }
+  if (CHOSEN.has(kind)) return chosenIn(path, slug)
+  if (kind !== COMPUTED) return null
+  if (Array.isArray(value[VALUES])) return chosenIn(path, slug)
+  const worked = WORKED.get(String(value[HOLDS_AT]))
+  return worked === undefined ? null : { held: worked, imports: [] }
 }
 
 function importedAt(line: string): string {
@@ -121,7 +147,7 @@ export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] 
       if (typeof slug !== "string") continue
       const at = typesAtOf(listed.path)
       if (at === null) continue
-      const held = writtenFor(kind, listed.path, slug)
+      const held = writtenFor(kind, listed.path, slug, value)
       if (held === null) continue
       written.push({
         kind: "add",

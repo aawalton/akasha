@@ -20,6 +20,7 @@ export const computedProperty = {
     { pageProperty: "select-property/holds", required: true, many: false },
     { pageProperty: "code-file-property/code", required: true, many: false },
     { pageProperty: "code-file-property/test", required: false, many: false },
+    { pageProperty: "text-property/select-values", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {
@@ -92,6 +93,14 @@ export const computedProperty = {
       invariantKind: "departure",
       statement:
         "A computed property's code is loaded by the engine working it rather than imported.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A calculation answering one of a set of values states that set as page data.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No computed property's type is a hand-written union.",
     },
   ],
   types: "ts",
