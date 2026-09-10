@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "../domain.page-type.ts"
-
-export type InvariantGroup = Domain
 
 export const invariantGroup = {
   id: "01a04e11-9f97-7f42-bb41-d519ae123a65",
@@ -19,4 +16,5 @@ export const invariantGroup = {
         "A group is read off the kinds that name the group rather than stored as a list of the kinds.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
