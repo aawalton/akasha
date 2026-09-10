@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
 
 export const doubleDate = {
   id: "019e931f-5cab-7238-b817-3a969f30ed66",

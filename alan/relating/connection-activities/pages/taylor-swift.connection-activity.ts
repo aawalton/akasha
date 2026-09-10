@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
 
 export const taylorSwift = {
   id: "019e931f-6388-78d2-b93f-f722013503c3",

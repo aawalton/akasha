@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
 
 export const phoneCallMaleFriend = {
   id: "019e935c-5eaf-741e-bf98-2cb95815d1e7",

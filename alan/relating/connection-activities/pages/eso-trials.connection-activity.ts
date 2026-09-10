@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
 
 export const esoTrials = {
   id: "019e931f-60c5-7219-ae7e-05ae92ac6467",

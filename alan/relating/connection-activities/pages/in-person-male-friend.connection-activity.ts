@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
 
 export const inPersonMaleFriend = {
   id: "019e9359-cd84-763c-ac69-9c3b0e04bb10",

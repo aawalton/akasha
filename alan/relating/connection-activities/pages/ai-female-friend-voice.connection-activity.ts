@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
 
 export const aiFemaleFriendVoice = {
   id: "019e9379-c481-7e8f-a778-6be4c44a1d10",

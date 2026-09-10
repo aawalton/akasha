@@ -1,4 +1,4 @@
-import type { ConnectionActivity } from "../connection-activity.page-type.ts"
+import type { ConnectionActivity } from "../connection-activity.page-type.types.ts"
 
 export const esoSolo = {
   id: "019e931f-67a6-7b5d-b46d-9edc5725a1f3",
