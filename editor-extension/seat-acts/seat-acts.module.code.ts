@@ -29,6 +29,8 @@ const STOP_MODULE = "seat-supervisor-stop"
 
 const STOP_EXPORT = "seatSupervisorStop"
 
+const STOP_FORCE = "--force"
+
 const inFlight = new Set<string>()
 
 async function runSeat(
@@ -58,7 +60,7 @@ async function resumeInteractive(seat: ToggleTarget): Promise<undefined> {
 async function performStep(seat: ToggleTarget, step: SeatStep): Promise<undefined> {
   switch (step.kind) {
     case "stop":
-      await runSeat(STOP_MODULE, STOP_EXPORT, [seat.name])
+      await runSeat(STOP_MODULE, STOP_EXPORT, [seat.name, STOP_FORCE])
       return undefined
     case "revive": {
       const said = await callHarness(NOTICES_MODULE, NOTICES_EXPORT, [], {

@@ -31,7 +31,11 @@ export const seatActs = {
     },
     {
       invariantKind: "departure",
-      statement: "A stop asks the seat's supervisor without forcing the supervisor.",
+      statement: "A stop ends the subagents working under the seat along with the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat Alan stops from a panel is stopped rather than refused for being busy.",
     },
     {
       invariantKind: "departure",
