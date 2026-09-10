@@ -90,6 +90,15 @@ test("an overload signature is refused beside the body it heads", () => {
   expect(noVoidReturn(parsed("function one(): void\nfunction one(): void {}\n"))).toHaveLength(2)
 })
 
+test("a method an ambient declaration carries is left", () => {
+  expect(noVoidReturn(parsed("declare class One {\n  two(): void\n}\n"))).toEqual([])
+})
+
+test("a function an ambient module declares is left", () => {
+  const text = 'declare module "one" {\n  export function two(): void\n}\n'
+  expect(noVoidReturn(parsed(text))).toEqual([])
+})
+
 test("a function nested inside a call is judged too", () => {
   expect(noVoidReturn(parsed("run(function (): void {})\n"))).toHaveLength(1)
 })

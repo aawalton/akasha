@@ -13,12 +13,23 @@ const WRITTEN_HERE: ReadonlySet<ts.SyntaxKind> = new Set([
   ts.SyntaxKind.GetAccessor,
 ])
 
+function declared(node: ts.Node): boolean {
+  if (!ts.canHaveModifiers(node)) return false
+  return (ts.getModifiers(node) ?? []).some((one) => one.kind === ts.SyntaxKind.DeclareKeyword)
+}
+
+function ambient(node: ts.Node): boolean {
+  if (ts.isSourceFile(node)) return node.isDeclarationFile
+  return declared(node) || ambient(node.parent)
+}
+
 export function noVoidReturn(standing: Given): readonly Refusal[] {
   const found: Refusal[] = []
   const visit = (node: ts.Node): undefined => {
     if (
       ts.isFunctionLike(node) &&
       WRITTEN_HERE.has(node.kind) &&
+      !ambient(node) &&
       node.type?.kind === ts.SyntaxKind.VoidKeyword
     ) {
       found.push({

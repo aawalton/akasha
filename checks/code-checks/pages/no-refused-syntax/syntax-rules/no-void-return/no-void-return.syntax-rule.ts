@@ -71,6 +71,14 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
+      statement: "An ambient declaration describes a function written elsewhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every declaration a declaration file carries is ambient.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A type describing a function written elsewhere is left.",
     },
     {
