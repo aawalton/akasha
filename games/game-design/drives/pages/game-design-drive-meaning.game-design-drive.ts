@@ -1,4 +1,4 @@
-import type { GameDesignDrive } from "../game-design-drive.page-type.ts"
+import type { GameDesignDrive } from "../game-design-drive.page-type.types.ts"
 
 export const gameDesignDriveMeaning = {
   id: "01a06756-f676-7b89-a565-678d2e6631a7",

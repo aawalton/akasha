@@ -1,10 +1,4 @@
-import type { Domain } from "../../../domains/domain.page-type.ts"
 import type { PageType } from "../../../pages/types/page-type.page-type.ts"
-import type { Octalysis } from "./properties/octalysis.record-property.ts"
-
-export type GameDesignDrive = Domain & {
-  octalysis: Octalysis
-}
 
 export const gameDesignDrive = {
   id: "01a06746-de46-7a10-980b-3134872d9f6b",
@@ -29,4 +23,5 @@ export const gameDesignDrive = {
     "text-property/octalysis-name",
   ],
   properties: [{ pageProperty: "record-property/octalysis", required: true, many: false }],
+  types: "ts",
 } as const satisfies PageType

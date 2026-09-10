@@ -1,4 +1,4 @@
-import type { GameDesignDrive } from "../game-design-drive.page-type.ts"
+import type { GameDesignDrive } from "../game-design-drive.page-type.types.ts"
 
 export const gameDesignDriveScarcity = {
   id: "01a06756-f717-781b-a67c-001849934e02",
