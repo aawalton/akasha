@@ -1,6 +1,10 @@
 import { mistaking } from "../../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import {
+  taggedFor,
+  taggingOf,
+} from "../check/session-relationships/session-relationships.module.code.ts"
+import {
   AT,
   DRY_RUN,
   faultsIn,
@@ -13,8 +17,6 @@ import {
   sayingFor,
   shownOf,
   TITLE,
-  taggedFor,
-  taggingOf,
 } from "../check/session-rows/session-rows.module.code.ts"
 import {
   landed,

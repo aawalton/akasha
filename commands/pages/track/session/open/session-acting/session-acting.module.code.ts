@@ -5,6 +5,11 @@ import type { Answer, Given } from "../../../../../modules/calling/calling.modul
 import { filing } from "../../../../../modules/mechanical-filing/mechanical-filing.module.code.ts"
 import { SCRATCH_AT } from "../../../../../modules/scratching/scratching.module.code.ts"
 import type { ActivityDifficulty } from "../../amend/session-leveling/session-leveling.module.code.ts"
+import type { RelationshipPage } from "../../check/session-relationships/session-relationships.module.code.ts"
+import {
+  relationshipsFor,
+  relationshipsIn,
+} from "../../check/session-relationships/session-relationships.module.code.ts"
 import {
   activitiesIn,
   BARE,
@@ -14,10 +19,7 @@ import {
   heldFor,
   linesOf,
   openIn,
-  type RelationshipPage,
   type Row,
-  relationshipsFor,
-  relationshipsIn,
   saidFor,
   VALUED,
 } from "../../check/session-rows/session-rows.module.code.ts"

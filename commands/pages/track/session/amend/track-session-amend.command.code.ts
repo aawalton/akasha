@@ -1,8 +1,11 @@
 import { mistaking } from "../../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import {
-  addressed,
   carriedIn,
+  taggedFor,
+} from "../check/session-relationships/session-relationships.module.code.ts"
+import {
+  addressed,
   DIFFICULTY,
   DRY_RUN,
   faultsIn,
@@ -10,7 +13,6 @@ import {
   saidFor,
   shownOf,
   TITLE,
-  taggedFor,
 } from "../check/session-rows/session-rows.module.code.ts"
 import {
   landed,

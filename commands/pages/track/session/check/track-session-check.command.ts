@@ -8,7 +8,7 @@ export const trackSessionCheck = {
   definition: "the command judging the rows a day carries",
   code: "ts",
   changeKind: "change-mechanical",
-  parts: ["module/session-rows"],
+  parts: ["module/session-rows", "module/session-relationships"],
   taking: [{ said: "--day <date>", takes: "which day to act on, written as that day's own date" }],
   helpNotes: [
     "a day is named at --day and nowhere else.",

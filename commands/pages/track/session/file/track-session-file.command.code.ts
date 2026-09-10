@@ -8,6 +8,10 @@ import {
   readSafety,
 } from "../amend/session-leveling/session-leveling.module.code.ts"
 import {
+  taggedFor,
+  taggingOf,
+} from "../check/session-relationships/session-relationships.module.code.ts"
+import {
   anchoredIn,
   DRY_RUN,
   FROM_FILE,
@@ -16,8 +20,6 @@ import {
   type Row,
   saidFor,
   shownOf,
-  taggedFor,
-  taggingOf,
 } from "../check/session-rows/session-rows.module.code.ts"
 import {
   landed,

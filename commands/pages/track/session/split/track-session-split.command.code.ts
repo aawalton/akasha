@@ -2,10 +2,14 @@ import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/moun
 import { mistaking } from "../../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import {
+  carriedIn,
+  taggedFor,
+  taggingOf,
+} from "../check/session-relationships/session-relationships.module.code.ts"
+import {
   AT,
   addressed,
   anchoredIn,
-  carriedIn,
   DRY_RUN,
   faultsIn,
   levelsFor,
@@ -14,8 +18,6 @@ import {
   saidFor,
   shownOf,
   TITLE,
-  taggedFor,
-  taggingOf,
 } from "../check/session-rows/session-rows.module.code.ts"
 import {
   landed,
