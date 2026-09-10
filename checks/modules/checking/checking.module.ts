@@ -195,6 +195,14 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "What a run cost is recorded under the logs of the group whose code ran.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check with no code beside it is recorded under `entries` as before.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path the change takes away is handed to every check.",
     },
     {

@@ -73,6 +73,14 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
+      statement: "The property a line is kept under is named by whoever records that line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming none is kept under `entries`, where every line was kept before.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A line is appended to the last numbered file rather than rewriting that file.",
     },
     {

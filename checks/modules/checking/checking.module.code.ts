@@ -49,6 +49,8 @@ const AUDIT_GROUP = "audit"
 
 const OVER_CEILING = "check-over-its-ceiling"
 
+const LOGS = "logs"
+
 const FRAMES_AT_MOST = 3
 
 const TAKES_EVERY_CHECK =
@@ -88,8 +90,17 @@ function ceilingIn(stated: Record<string, unknown>, group: string): number | nul
   return typeof held === "number" ? held : null
 }
 
+function groupOf(phase: Phase): string {
+  return phase === "audit" ? AUDIT_GROUP : CHECK_GROUP
+}
+
+function logsUnder(one: Gathered, phase: Phase): string | undefined {
+  const code = one.code ?? null
+  return code === null ? undefined : `${groupOf(phase)}.${LOGS}`
+}
+
 function ranOver(one: Gathered, phase: Phase, cost: Cost): Judged | null {
-  const ceiling = phase === "audit" ? one.auditCeiling : one.checkCeiling
+  const ceiling = groupOf(phase) === AUDIT_GROUP ? one.auditCeiling : one.checkCeiling
   if (ceiling === undefined || ceiling === null) return null
   const spent = Number((cost.cpuSeconds + cost.childCpuSeconds).toFixed(3))
   if (spent <= ceiling) return null
@@ -321,7 +332,7 @@ export function judgingBy(
           change.changed.length,
           found.length
         )
-        recordCost(one.root, one.page, cost)
+        recordCost(one.root, one.page, cost, logsUnder(one, phase))
         const over = ranOver(one, phase, cost)
         if (over !== null) found.push(over)
         said.push(...found)

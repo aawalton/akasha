@@ -183,22 +183,27 @@ export function lineFor(cost: Cost): string {
   return `${JSON.stringify(cost)}\n`
 }
 
-function partAt(page: string, part: number): string | null {
-  return uncommittedPartAt(page, ENTRIES, HELD, part)
+function partAt(page: string, under: string, part: number): string | null {
+  return uncommittedPartAt(page, under, HELD, part)
 }
 
-export function fillingAt(root: string, page: string, adding: number): string | null {
+export function fillingAt(
+  root: string,
+  page: string,
+  adding: number,
+  under: string = ENTRIES
+): string | null {
   let part = FIRST_PART
-  let found = partAt(page, part)
+  let found = partAt(page, under, part)
   if (found === null) return null
   for (;;) {
-    const next = partAt(page, part + 1)
+    const next = partAt(page, under, part + 1)
     if (next === null || !existsSync(join(root, next))) break
     part += 1
     found = next
   }
   if (sizeOnDisk(join(root, found)) + adding <= ENTRY_CEILING) return found
-  return partAt(page, part + 1) ?? found
+  return partAt(page, under, part + 1) ?? found
 }
 
 export function costRecorded(
@@ -219,9 +224,14 @@ export function costRecorded(
 
 const NAMES_NO_PAGE = "names no page, so what a run cost is recorded nowhere"
 
-export function recordCost(root: string, page: string, cost: Cost): string | null {
+export function recordCost(
+  root: string,
+  page: string,
+  cost: Cost,
+  under: string = ENTRIES
+): string | null {
   const line = lineFor(cost)
-  const at = fillingAt(root, page, Buffer.byteLength(line, "utf8"))
+  const at = fillingAt(root, page, Buffer.byteLength(line, "utf8"), under)
   if (at === null) return null
   try {
     appendFileSync(join(root, at), line)
