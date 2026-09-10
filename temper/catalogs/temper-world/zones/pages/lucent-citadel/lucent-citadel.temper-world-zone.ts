@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const lucentCitadel = {
   id: "01a06165-cbbe-7007-8669-f751d25bfe55",

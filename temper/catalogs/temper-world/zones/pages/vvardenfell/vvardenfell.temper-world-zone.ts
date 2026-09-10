@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const vvardenfell = {
   id: "01a06165-cbc0-7009-a345-c95f3c0a4e3c",

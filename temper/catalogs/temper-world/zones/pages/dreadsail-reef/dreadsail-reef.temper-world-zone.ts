@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const dreadsailReef = {
   id: "01a06165-cbbd-7002-903d-34d40d2d6a5a",

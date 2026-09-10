@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const wrothgar = {
   id: "01a06165-cbc0-700c-a29c-f6827b8f8e53",

@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const theDeadlands = {
   id: "01a06165-cbbf-700d-8f29-87043eed92f8",

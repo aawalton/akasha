@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const infiniteArchive = {
   id: "01a06165-cbbe-7004-87dc-e357e67c9604",

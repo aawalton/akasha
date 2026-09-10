@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const stonefalls = {
   id: "01a06165-cbbf-7008-a0df-a246f5ecc354",

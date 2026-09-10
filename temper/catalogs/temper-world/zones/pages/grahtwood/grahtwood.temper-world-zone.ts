@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const grahtwood = {
   id: "01a06165-cbbd-7007-a9f7-342d11bfcfee",

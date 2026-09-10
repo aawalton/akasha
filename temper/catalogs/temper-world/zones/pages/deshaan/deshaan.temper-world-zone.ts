@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const deshaan = {
   id: "01a06165-cbbd-7001-a04d-6fe41f75dac4",

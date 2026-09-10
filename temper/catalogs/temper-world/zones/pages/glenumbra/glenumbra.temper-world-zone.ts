@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const glenumbra = {
   id: "01a06165-cbbd-7005-b50a-e5c1ff7db3aa",

@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const rkindaleft = {
   id: "01a06165-cbbf-7000-b607-fd9687ad80e0",

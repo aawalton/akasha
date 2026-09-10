@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const blackreachGreymoorCaverns = {
   id: "01a06165-cbbc-7003-a53d-e84ee7199be5",

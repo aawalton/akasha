@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-import type { EsoZoneId } from "./properties/eso-zone-id.number-property.ts"
-import type { Pois } from "./properties/pois.page-property-entry.ts"
-import type { ZoneCompletionActivities } from "./properties/zone-completion-activities.page-property-entry.ts"
-import type { ZoneQuests } from "./properties/zone-quests.page-property-entry.ts"
-
-export type TemperWorldZone = TemperCatalogThing & {
-  esoZoneId?: EsoZoneId
-  zoneQuests?: ZoneQuests
-  pois?: Pois
-  zoneCompletionActivities?: ZoneCompletionActivities
-}
 
 export const temperWorldZone = {
   id: "01a06167-3f9b-700d-bf56-54687a9f3c3a",
@@ -57,4 +45,5 @@ export const temperWorldZone = {
         "A zone states an entry property only where the zone has rows under that property.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

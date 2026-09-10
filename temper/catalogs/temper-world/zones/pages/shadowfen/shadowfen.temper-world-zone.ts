@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const shadowfen = {
   id: "01a06165-cbbf-7004-847c-e4acf1aa1714",

@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const theWailingPrison = {
   id: "01a06165-cbc0-7007-a73e-fdc52f2cd6ef",

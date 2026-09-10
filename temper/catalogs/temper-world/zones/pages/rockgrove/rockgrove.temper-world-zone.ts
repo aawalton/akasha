@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const rockgrove = {
   id: "01a06165-cbbf-7001-8677-eb0a85f1f1d9",

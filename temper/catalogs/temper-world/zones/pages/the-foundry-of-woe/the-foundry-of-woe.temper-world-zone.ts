@@ -1,4 +1,4 @@
-import type { TemperWorldZone } from "../../temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "../../temper-world-zone.page-type.types.ts"
 
 export const theFoundryOfWoe = {
   id: "01a06165-cbc0-7000-bee0-db87a62f6cef",
