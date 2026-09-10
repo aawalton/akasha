@@ -8,7 +8,6 @@ export const workspacePackage = {
   definition: "a folder with a package.json file",
   pluralSlug: "workspace-packages",
   parts: [
-    "file-property/dockerfile-extensions",
     "file-property/manifest",
     "code-file-property/tunnel-routes",
     "text-property/tool-reached",
@@ -17,7 +16,6 @@ export const workspacePackage = {
   properties: [
     { pageProperty: "file-property/manifest", required: true, many: false },
     { pageProperty: "code-file-property/tunnel-routes", required: false, many: false },
-    { pageProperty: "file-property/dockerfile-extensions", required: false, many: false },
     { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
   invariants: [
