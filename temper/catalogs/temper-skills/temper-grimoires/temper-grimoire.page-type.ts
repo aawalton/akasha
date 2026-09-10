@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { AbilityIcon } from "../properties/ability-icon.text-property.ts"
-import type { AffixScripts } from "../properties/affix-scripts.page-property-entry.ts"
-import type { FocusScripts } from "../properties/focus-scripts.text-property.ts"
-import type { SignatureScripts } from "../properties/signature-scripts.page-property-entry.ts"
-import type { TemperScribingThing } from "../temper-scribing-things/temper-scribing-thing.page-type.types.ts"
-
-export type TemperGrimoire = TemperScribingThing & {
-  abilityIcon: AbilityIcon
-  focusScripts: FocusScripts
-  affixScripts: AffixScripts
-  signatureScripts: SignatureScripts
-}
 
 export const temperGrimoire = {
   id: "01a05fca-cb89-7d99-aa9d-e89e410a0f89",
@@ -36,4 +24,5 @@ export const temperGrimoire = {
     { pageProperty: "page-property-entry/affix-scripts", required: true, many: false },
     { pageProperty: "page-property-entry/signature-scripts", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
