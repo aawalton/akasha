@@ -1,4 +1,4 @@
-import { mkdirSync, renameSync, writeFileSync } from "node:fs"
+import { mkdirSync, readdirSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { indexValue } from "@akasha/indexes/value/page"
@@ -70,6 +70,20 @@ function within(folder: string, ...endings: readonly string[]): (at: string) => 
   return (at) => dirname(at) === folder && endings.some((ending) => at.endsWith(ending))
 }
 
+function underOne(folder: string, ...endings: readonly string[]): (at: string) => boolean {
+  return (at) => dirname(dirname(at)) === folder && endings.some((ending) => at.endsWith(ending))
+}
+
+function foldersIn(folder: string): readonly string[] {
+  try {
+    return readdirSync(folder, { withFileTypes: true })
+      .filter((one) => one.isDirectory())
+      .map((one) => join(folder, one.name))
+  } catch {
+    return []
+  }
+}
+
 function either(...tests: readonly ((at: string) => boolean)[]): (at: string) => boolean {
   return (at) => tests.some((test) => test(at))
 }
@@ -100,6 +114,7 @@ function terminalTabsLine(root: string): string | null {
 
 export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const seats = join(root, SEATS_AT)
+  const seatFolders = foldersIn(seats)
   const turnStates = join(root, TURN_STATES_AT)
   const subagents = join(root, SUBAGENTS_AT)
   const initiatives = join(root, INITIATIVES_AT)
@@ -110,9 +125,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "agent-tree",
       {
         cooldownMs: 1_000,
-        folders: [seats, turnStates, subagents],
+        folders: [seats, ...seatFolders, turnStates, subagents],
         holds: either(
-          within(seats, SIDECAR, ".seat.ts"),
+          underOne(seats, SIDECAR, ".seat.ts"),
           within(turnStates, ".seat-turn-state.ts"),
           within(subagents, ".subagent.ts")
         ),
@@ -137,9 +152,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "work-tree",
       {
         cooldownMs: 1_000,
-        folders: [seats, turnStates, initiatives],
+        folders: [seats, ...seatFolders, turnStates, initiatives],
         holds: either(
-          within(seats, SIDECAR, ".seat.ts"),
+          underOne(seats, SIDECAR, ".seat.ts"),
           within(turnStates, ".seat-turn-state.ts"),
           within(initiatives, ".initiative.ts")
         ),
@@ -189,9 +204,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "terminal-tabs",
       {
         cooldownMs: 1_000,
-        folders: [seats, turnStates, terminals],
+        folders: [seats, ...seatFolders, turnStates, terminals],
         holds: either(
-          within(seats, SIDECAR, ".seat.ts"),
+          underOne(seats, SIDECAR, ".seat.ts"),
           within(turnStates, ".seat-turn-state.ts"),
           within(terminals, MARK_TAIL)
         ),

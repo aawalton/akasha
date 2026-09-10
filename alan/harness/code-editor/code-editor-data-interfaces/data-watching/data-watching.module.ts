@@ -63,7 +63,7 @@ export const dataWatching = {
       statement: "The index is followed for those events rather than read at each event.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "A seat that appears while the service runs is read from then on.",
     },
     {
