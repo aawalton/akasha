@@ -7,9 +7,12 @@ export const containerRecipe = {
   slug: "container-recipe",
   definition: "the steps a container image is built from",
   pluralSlug: "container-recipes",
-  parts: ["file-property/recipe"],
+  parts: ["file-property/recipe", "module-property-group/composing"],
   extends: ["page-type/domain"],
-  properties: [{ pageProperty: "file-property/recipe", required: true, many: false }],
+  properties: [
+    { pageProperty: "file-property/recipe", required: true, many: false },
+    { pageProperty: "module-property-group/composing", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

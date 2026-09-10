@@ -20,12 +20,12 @@ WORKDIR /build
 # the bytes the crate's `icon` property carries to the name include_bytes! reads.
 COPY temper/watcher-tray/Cargo.toml ./Cargo.toml
 COPY temper/watcher-tray/build.rs ./build.rs
-COPY temper/watcher-tray/pages/watcher-tray-main/watcher-tray-main.rust-module.rust.rs ./src/main.rs
-COPY temper/watcher-tray/pages/watcher-tray-installer/watcher-tray-installer.rust-module.rust.rs ./src/installer.rs
-COPY temper/watcher-tray/pages/watcher-tray-logger/watcher-tray-logger.rust-module.rust.rs ./src/logger.rs
-COPY temper/watcher-tray/pages/watcher-tray-supervisor/watcher-tray-supervisor.rust-module.rust.rs ./src/supervisor.rs
-COPY temper/watcher-tray/pages/watcher-tray-tray/watcher-tray-tray.rust-module.rust.rs ./src/tray.rs
-COPY temper/watcher-tray/pages/watcher-tray-updater/watcher-tray-updater.rust-module.rust.rs ./src/updater.rs
+COPY temper/watcher-tray/main/watcher-tray-main.rust-module.rust.rs ./src/main.rs
+COPY temper/watcher-tray/installer/watcher-tray-installer.rust-module.rust.rs ./src/installer.rs
+COPY temper/watcher-tray/logger/watcher-tray-logger.rust-module.rust.rs ./src/logger.rs
+COPY temper/watcher-tray/supervisor/watcher-tray-supervisor.rust-module.rust.rs ./src/supervisor.rs
+COPY temper/watcher-tray/tray/watcher-tray-tray.rust-module.rust.rs ./src/tray.rs
+COPY temper/watcher-tray/updater/watcher-tray-updater.rust-module.rust.rs ./src/updater.rs
 COPY --from=icon-builder /out ./assets
 RUN mkdir -p .cargo && \
     echo '[target.x86_64-pc-windows-gnu]' > .cargo/config.toml && \
