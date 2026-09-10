@@ -9,10 +9,11 @@ import {
 import { sayAnswer } from "../../commands/modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "../../commands/modules/calling/calling.module.code.ts"
 import { duringOneCall } from "../../commands/modules/during-call/during-call.module.code.ts"
+import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
 
 const HERE = import.meta.path
 
-const CHECKOUT = join(import.meta.dir, "..", "..")
+const CHECKOUT = rootOf(HERE)
 
 const HELP = `bun ${HERE} — answer calls over a pipe, so a caller pays bun's startup once
 

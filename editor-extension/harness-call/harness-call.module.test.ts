@@ -2,9 +2,10 @@ import { describe, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import * as path from "node:path"
 import { WAITED_AT_MOST } from "../../commands/modules/holding/holding.module.code.ts"
+import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
 import { akashaRoot, LANDING_TIMEOUT_MS, serverPath } from "./harness-call.module.code.ts"
 
-const CHECKOUT = path.join(import.meta.dir, "..", "..")
+const CHECKOUT = rootOf(import.meta.path)
 
 function within(named: string): string {
   return path.relative(akashaRoot(), named)
