@@ -53,6 +53,10 @@ export const pageNamedAsStated = {
     },
     {
       invariantKind: "departure",
+      statement: "A file named for a group member is read against the keys that answer names.",
+    },
+    {
+      invariantKind: "departure",
       statement: "That question is asked of the index as the change leaves the index.",
     },
     {

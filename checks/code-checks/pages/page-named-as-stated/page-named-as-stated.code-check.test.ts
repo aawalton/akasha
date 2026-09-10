@@ -16,18 +16,11 @@ import {
 
 const ROOT = "/repo"
 
-const HELD: ReadonlyMap<string, string | null> = new Map([
-  ["code", null],
-  ["test", null],
-])
+const HELD: ReadonlySet<string> = new Set(["code", "test"])
 
 const given = bodiesIn(ROOT)
 
-function reasons(
-  at: string,
-  body: string,
-  held: ReadonlyMap<string, string | null> = HELD
-): readonly string[] {
+function reasons(at: string, body: string, held: ReadonlySet<string> = HELD): readonly string[] {
   return reasonsIn(given(at, body), held)
 }
 
@@ -122,13 +115,17 @@ test("a page property's test file is no page, so a fixture it holds is passed ov
 
 test("a property newly held in a file is passed over, the set being the index's and not a list here", () => {
   const body = page("ledges", "domain")
-  const held: ReadonlyMap<string, string | null> = new Map([
-    ["code", null],
-    ["test", null],
-    ["note", null],
-  ])
+  const held: ReadonlySet<string> = new Set(["code", "test", "note"])
   expect(reasons("akasha/ledger.module.note.ts", body, held)).toEqual([])
   expect(reasons("akasha/ledger.module.note.ts", body)).toHaveLength(2)
+})
+
+test("a file named for a group member is passed over where the index has that key", () => {
+  const body = page("ledges", "domain")
+  const at = "akasha/ledger.module.decision.test-fixtures.ts"
+  const held: ReadonlySet<string> = new Set(["code", "test", "decision.test-fixtures"])
+  expect(reasons(at, body, held)).toEqual([])
+  expect(reasons(at, body)).toHaveLength(2)
 })
 
 test("an index that cannot say which properties are held in a file refuses, rather than naming none", () => {

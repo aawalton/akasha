@@ -76,13 +76,10 @@ function extrasSaid(rest: readonly Stated[]): string {
   return rest.map((one) => `\`${one.pageTypeSlug}/${one.slug}\``).join(", ")
 }
 
-export function reasonsIn(
-  given: Body,
-  heldInAFile: ReadonlyMap<string, string | null>
-): readonly string[] {
+export function reasonsIn(given: Body, heldInAFile: ReadonlySet<string>): readonly string[] {
   const said = partedIn(given.path)
   if (said === null) return []
-  const beside = sectionedIn(said)
+  const beside = sectionedIn(said, heldInAFile)
   if (beside !== null && heldInAFile.has(beside.propertySlug)) return []
   const stem = said.slug
   const suffix = said.pageType
@@ -123,7 +120,7 @@ export function reasonsIn(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const heldInAFile = shadow.index.fileKeysAt()
+  const heldInAFile = new Set(shadow.index.fileKeysAt().keys())
   return overEachFile(change, (given) => reasonsIn(given, heldInAFile))
 }
 
