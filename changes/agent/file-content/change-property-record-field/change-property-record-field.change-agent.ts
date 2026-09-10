@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const changePropertyRecordField = {
   id: "01a081db-f317-7907-8d05-07fbaed64a3d",

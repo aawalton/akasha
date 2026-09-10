@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const movePropertyOnEveryPage = {
   id: "01a0836c-9d39-76b7-bd18-59bab3a21e92",

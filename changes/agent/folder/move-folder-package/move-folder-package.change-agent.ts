@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const moveFolderPackage = {
   id: "01a07c5e-055f-7000-a6d5-243a29d1858a",

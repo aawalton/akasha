@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const changeProsePattern = {
   id: "01a0824b-a376-7b9f-a01a-c3a1e81c3286",

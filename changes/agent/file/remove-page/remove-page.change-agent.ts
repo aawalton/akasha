@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const removePage = {
   id: "01a0776d-8d1e-7f93-a0e2-4c566d49f8fd",

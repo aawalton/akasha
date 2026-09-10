@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const changePagePageType = {
   id: "01a07883-67ee-73cd-8370-4730fab7c87c",

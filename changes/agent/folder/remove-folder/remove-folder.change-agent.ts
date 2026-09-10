@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const removeFolder = {
   id: "01a08281-d6e6-78ee-a0cc-ad533d8405ae",

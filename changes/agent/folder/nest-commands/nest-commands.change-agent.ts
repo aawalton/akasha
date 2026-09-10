@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const nestCommands = {
   id: "01a081b3-c5cb-70ec-b343-6e3500108eae",

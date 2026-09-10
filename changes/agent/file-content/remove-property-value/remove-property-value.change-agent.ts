@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const removePropertyValue = {
   id: "01a07944-9ee0-7f93-a8d0-b0e845bdd929",

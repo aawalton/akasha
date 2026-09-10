@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const changeFile = {
   id: "01a07813-6e3d-7d39-a28a-164766ab0fed",

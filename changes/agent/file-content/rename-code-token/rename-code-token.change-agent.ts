@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const renameCodeToken = {
   id: "01a07718-c9b6-7d80-aebd-b1155f08ab77",

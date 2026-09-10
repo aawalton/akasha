@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const renamePage = {
   id: "01a07718-c9b6-7e8c-bc13-5927529ac249",

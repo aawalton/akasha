@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const changeDomainParent = {
   id: "01a0795e-9c4f-7299-9238-117baca6b57e",

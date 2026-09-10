@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const removePackageManifest = {
   id: "01a08294-60d3-7068-afff-2fa2afcd468a",

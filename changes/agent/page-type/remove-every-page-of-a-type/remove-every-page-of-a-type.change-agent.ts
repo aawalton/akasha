@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const removeEveryPageOfAType = {
   id: "01a081bd-2930-7f0d-9324-5412a477c845",

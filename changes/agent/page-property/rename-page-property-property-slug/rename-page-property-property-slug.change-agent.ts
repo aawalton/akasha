@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const renamePagePropertyPropertySlug = {
   id: "01a0819e-9047-7f45-850f-d66e47cf03e4",

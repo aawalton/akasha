@@ -1,4 +1,4 @@
-import type { ChangeAgent } from "../../change-agent.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.types.ts"
 
 export const removePackageAlias = {
   id: "01a07c16-3e5f-7641-95c5-a6e485991ad1",

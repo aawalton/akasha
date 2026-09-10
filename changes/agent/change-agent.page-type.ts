@@ -1,7 +1,4 @@
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { Change } from "../change.page-type.types.ts"
-
-export type ChangeAgent = Change
 
 export const changeAgent = {
   id: "01a07e9a-630c-75a2-b4ec-5106861a8009",
@@ -33,4 +30,5 @@ export const changeAgent = {
       statement: "An agent change names no guard.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
