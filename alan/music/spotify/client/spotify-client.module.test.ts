@@ -6,8 +6,8 @@ import { fetchingIs, fetchingIsOverHttp } from "../fetching/spotify-fetching.mod
 import { writeToken } from "../token-store/spotify-token-store.module.code.ts"
 import {
   paginateOffset,
+  parseRateLimitMs,
   rateLimitMs,
-  resolveRateLimitMs,
   resolveUrl,
   retryAfterMs,
   spotifyGet,
@@ -71,19 +71,19 @@ afterEach(() => {
 })
 
 test("no gap named is a hundred milliseconds", () => {
-  expect(resolveRateLimitMs(undefined)).toBe(100)
+  expect(parseRateLimitMs(undefined)).toBe(100)
 })
 
 test("a gap that is no positive whole number is a hundred milliseconds", () => {
-  expect(resolveRateLimitMs("0")).toBe(100)
-  expect(resolveRateLimitMs("-5")).toBe(100)
-  expect(resolveRateLimitMs("1.5")).toBe(100)
-  expect(resolveRateLimitMs("soon")).toBe(100)
-  expect(resolveRateLimitMs("")).toBe(100)
+  expect(parseRateLimitMs("0")).toBe(100)
+  expect(parseRateLimitMs("-5")).toBe(100)
+  expect(parseRateLimitMs("1.5")).toBe(100)
+  expect(parseRateLimitMs("soon")).toBe(100)
+  expect(parseRateLimitMs("")).toBe(100)
 })
 
 test("a positive whole number is the gap", () => {
-  expect(resolveRateLimitMs("250")).toBe(250)
+  expect(parseRateLimitMs("250")).toBe(250)
 })
 
 test("the gap is read from the environment after this module was loaded", () => {

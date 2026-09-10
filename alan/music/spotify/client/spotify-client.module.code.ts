@@ -14,7 +14,7 @@ const MAX_AUTH_RETRIES = 1
 
 const MAX_RATE_LIMIT_RETRIES = 1
 
-export function resolveRateLimitMs(raw: string | undefined): number {
+export function parseRateLimitMs(raw: string | undefined): number {
   if (raw === undefined) return DEFAULT_RATE_LIMIT_MS
   const parsed = Number(raw)
   if (!Number.isInteger(parsed) || parsed <= 0) return DEFAULT_RATE_LIMIT_MS
@@ -22,7 +22,7 @@ export function resolveRateLimitMs(raw: string | undefined): number {
 }
 
 export function rateLimitMs(): number {
-  return resolveRateLimitMs(process.env.SPOTIFY_RATE_LIMIT_MS)
+  return parseRateLimitMs(process.env.SPOTIFY_RATE_LIMIT_MS)
 }
 
 export function retryAfterMs(header: string | null): number {
