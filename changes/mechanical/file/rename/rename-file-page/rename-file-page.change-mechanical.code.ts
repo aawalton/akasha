@@ -7,7 +7,12 @@ import {
   secretAt,
   uncommittedAt,
 } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import {
+  uncommittedPartAt,
+  uncommittedPartsOf,
+} from "akasha/pages/file-parts/page-file-parts.module.code.ts"
 import { manifestsIn } from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
+import type { Beside as Sidecar } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
 import type { Shaped } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { slugFor } from "akasha/pages/types/page-properties/key/page-property-key.module.code.ts"
 import ts from "typescript"
@@ -59,6 +64,8 @@ const PAGE_TYPE_SLUG = "pageTypeSlug"
 const PAGE_TYPE = "page-type"
 
 const PLURAL_SLUG = "pluralSlug"
+
+const FIRST = 1
 
 export type Asked = {
   readonly at: string
@@ -120,12 +127,24 @@ function besideIn(world: World, held: Held): readonly Beside[] {
   return found
 }
 
+function partedIn(world: World, at: string, slug: string, beside: Sidecar): readonly Beside[] {
+  if (!beside.uncommitted) return [(path) => besideAt(path, slug, beside.held)]
+  const there = (one: string): boolean => world.textOf(one) !== null
+  return uncommittedPartsOf(at, slug, beside.held, there).map(
+    (_one, index) => (path: string) => uncommittedPartAt(path, slug, beside.held, index + FIRST)
+  )
+}
+
 function reservedIn(world: World, held: Held, at: string): readonly Beside[] {
   const said = world.index.sidecarsAt().get(held.pageTypeSlug)
   if (said === undefined) return []
   const found: Beside[] = []
   if (said.secret) found.push(secretAt)
   if (said.uncommitted) found.push(uncommittedAt)
+  for (const [slug, beside] of said.besides) {
+    if (heldIn(world, held, slug) !== null) continue
+    found.push(...partedIn(world, at, slug, beside))
+  }
   return found.filter((named) => {
     const path = named(at)
     return path !== null && world.textOf(path) !== null
@@ -133,14 +152,16 @@ function reservedIn(world: World, held: Held, at: string): readonly Beside[] {
 }
 
 function movesOver(beside: readonly Beside[], at: string, to: string): readonly Move[] {
-  const found: Move[] = []
+  const found = new Map<string, Move>()
   for (const named of beside) {
     const from = named(at)
     const next = named(to)
-    if (from === null || next === null) continue
-    found.push({ from, to: next })
+    if (from === null || next === null || found.has(from)) continue
+    found.set(from, { from, to: next })
   }
-  return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
+  return [...found.values()].sort((one, two) =>
+    one.from < two.from ? -1 : one.from > two.from ? 1 : 0
+  )
 }
 
 function underIn(

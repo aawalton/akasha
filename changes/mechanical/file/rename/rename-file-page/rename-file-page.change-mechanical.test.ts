@@ -20,6 +20,11 @@ import {
 import { knownOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { addressOf, runChange } from "./rename-file-page.change-mechanical.code.ts"
 import {
+  KEPT_ENTRIES,
+  KEPT_LANDS,
+  KEPT_LANDS_ENTRIES,
+  KEPT_PAGE,
+  keptAt,
   movesOf,
   OWNED_CODE,
   OWNED_LANDS,
@@ -38,8 +43,13 @@ import {
   WARDED_SOPS,
   WAY_MANIFEST,
   WAY_PAGE,
+  WIDE_CODE,
+  WIDE_FIXTURES,
+  WIDE_PAGE,
+  WIDE_SESSIONS,
   wardedAt,
   wayAt,
+  wideAt,
   worldIn,
 } from "./rename-file-page.change-mechanical.test-fixtures.ts"
 
@@ -56,8 +66,6 @@ const OTHER_PAGE = "akasha/three/other-one.module.ts"
 const OTHER_SLUG = "other-one"
 
 const OTHER_CODE = "akasha/three/other-one.module.code.ts"
-
-const WIDE_PAGE = "akasha/four/wide.module.ts"
 
 const TYPED_SLUG = "typed-one"
 
@@ -235,45 +243,13 @@ test("a body that is no page spelling the page's address states the new address"
 })
 
 test("a beside file is carried whichever kind of property holds that file", async () => {
-  const root = indexedRepo({
-    "akasha/test-fixtures.file-property.ts": bodyOf({
-      id: idOf("d"),
-      pageTypeSlug: "file-property",
-      slug: "test-fixtures",
-      propertySlug: "test-fixtures",
-    }),
-    "akasha/page-property-entry.page-type.ts": bodyOf({
-      id: idOf("e"),
-      pageTypeSlug: "page-type",
-      slug: "page-property-entry",
-      extendsSlug: ["page-type/page-property"],
-      properties: [],
-    }),
-    "akasha/sessions.page-property-entry.ts": bodyOf({
-      id: idOf("0"),
-      pageTypeSlug: "page-property-entry",
-      slug: "sessions",
-      propertySlug: "sessions",
-    }),
-    [WIDE_PAGE]: pageOf({
-      id: idOf("f"),
-      pageTypeSlug: "module",
-      slug: "wide",
-      code: "ts",
-      testFixtures: "ts",
-      sessions: "jsonl",
-    }),
-    "akasha/four/wide.module.code.ts": "export const kept = 3\n",
-    "akasha/four/wide.module.test-fixtures.ts": "export const set = 4\n",
-    "akasha/four/wide.module.sessions.jsonl": "{}\n",
-  })
-  const said = await runChange(worldIn(root, textIn(root)), { at: WIDE_PAGE, to: CARRIED })
+  const said = await runChange(worldIn(wideAt, textIn(wideAt)), { at: WIDE_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [WIDE_PAGE, CARRIED_PAGE],
-    ["akasha/four/wide.module.code.ts", CARRIED_CODE],
-    ["akasha/four/wide.module.sessions.jsonl", "akasha/carried/carried.module.sessions.jsonl"],
-    ["akasha/four/wide.module.test-fixtures.ts", "akasha/carried/carried.module.test-fixtures.ts"],
+    [WIDE_CODE, CARRIED_CODE],
+    [WIDE_SESSIONS, "akasha/carried/carried.module.sessions.jsonl"],
+    [WIDE_FIXTURES, "akasha/carried/carried.module.test-fixtures.ts"],
   ])
 })
 
@@ -285,6 +261,16 @@ test("a page whose type holds a secret has the sops file beside it carried too",
     [WARDED_PAGE, WARDED_LANDS],
     [WARDED_CODE, WARDED_LANDS_CODE],
     [WARDED_SOPS, WARDED_LANDS_SOPS],
+  ])
+})
+
+test("a page carries the uncommitted file its type declares though the page states no key", async () => {
+  const world = worldIn(keptAt, textIn(keptAt))
+  const said = await runChange(world, { at: KEPT_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([
+    [KEPT_PAGE, KEPT_LANDS],
+    [KEPT_ENTRIES, KEPT_LANDS_ENTRIES],
   ])
 })
 

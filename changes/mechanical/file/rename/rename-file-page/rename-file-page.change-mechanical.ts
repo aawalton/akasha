@@ -142,6 +142,20 @@ export const renameFilePage = {
       invariantKind: "departure",
       statement: "A call wrongly saying so leaves the addresses left out as those addresses are.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file a page's type declares beside that page is moved though the page states no key for it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every part of such a file that is there is moved rather than the first alone.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "The files beside a page are read here through the same module the move of a page reads them through.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical
