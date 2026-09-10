@@ -6,7 +6,7 @@ export const temperQuestsAddon = {
   type: "eso-addon",
   slug: "temper-quests-addon",
   definition: "the addon answering a quest giver's dialogue in the player's place",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "quests-entry",
   parts: [

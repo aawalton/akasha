@@ -7,7 +7,7 @@ export const temperNavigationAddon = {
   slug: "temper-navigation-addon",
   definition:
     "the add-on that pins the world map and the compass and keeps a minimap on the screen",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "navigation-entry",

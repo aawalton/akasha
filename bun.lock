@@ -313,18 +313,6 @@
         "vite": "^8.0.3",
       },
     },
-    "temper/navigation-addon": {
-      "name": "@akasha/temper-navigation-addon",
-    },
-    "temper/quests-addon": {
-      "name": "@akasha/temper-quests-addon",
-    },
-    "temper/selector-addon": {
-      "name": "@akasha/temper-selector-addon",
-    },
-    "temper/trading-addon": {
-      "name": "@akasha/temper-trading-addon",
-    },
     "temper/web": {
       "name": "@akasha/temper-web",
       "version": "0.1.0",
@@ -382,14 +370,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
-
-    "@akasha/temper-navigation-addon": ["@akasha/temper-navigation-addon@workspace:temper/navigation-addon"],
-
-    "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/quests-addon"],
-
-    "@akasha/temper-selector-addon": ["@akasha/temper-selector-addon@workspace:temper/selector-addon"],
-
-    "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 
     "@akasha/temper-web": ["@akasha/temper-web@workspace:temper/web"],
 

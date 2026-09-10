@@ -6,7 +6,7 @@ export const temperTradingAddon = {
   type: "eso-addon",
   slug: "temper-trading-addon",
   definition: "the add-on a player browses guild store listings from and prices a sale by",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "trading-entry",
   bindings: "xml",

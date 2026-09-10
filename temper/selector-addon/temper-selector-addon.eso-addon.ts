@@ -6,7 +6,7 @@ export const temperSelectorAddon = {
   type: "eso-addon",
   slug: "temper-selector-addon",
   definition: "the add-on saving which add-ons are on as a pack the player switches between",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "selector-entry",
