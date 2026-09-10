@@ -6,6 +6,7 @@ export const archiveOfWorldsWebRoutes = {
   type: "app-routes",
   slug: "archive-of-worlds-web-routes",
   definition: "the routes archiveofworlds.app serves",
+  appLayout: "tsx",
   parts: [
     "route/archive-of-worlds-api-errors",
     "route/archive-of-worlds-api-health",

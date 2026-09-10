@@ -6,6 +6,7 @@ export const alanWebRoutes = {
   type: "app-routes",
   slug: "alan-web-routes",
   definition: "the routes alanwalton.com serves",
+  appLayout: "tsx",
   parts: [
     "route/about",
     "route/categorization",

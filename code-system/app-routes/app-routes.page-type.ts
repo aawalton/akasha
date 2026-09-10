@@ -7,7 +7,9 @@ export const appRoutes = {
   slug: "app-routes",
   definition: "the routes one router app serves",
   pluralSlug: "app-routes",
+  parts: ["code-file-property/app-layout"],
   extends: ["page-type/domain"],
+  properties: [{ pageProperty: "code-file-property/app-layout", required: false, many: false }],
   invariants: [
     {
       invariantKind: "departure",

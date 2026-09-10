@@ -6,6 +6,7 @@ export const alanWebCapacitorRoutes = {
   type: "app-routes",
   slug: "alan-web-capacitor-routes",
   definition: "the routes Alan's site serves inside the shell on his phone",
+  appLayout: "tsx",
   parts: [
     "route/alan-web-capacitor-home",
     "route/alan-web-capacitor-page-detail",

@@ -7,7 +7,6 @@ export const alanWebCapacitor = {
   slug: "alan-web-capacitor",
   definition: "the routes Alan's site serves inside the shell on his phone",
   manifest: "json",
-  appLayout: "tsx",
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

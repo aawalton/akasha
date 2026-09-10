@@ -8,7 +8,6 @@ export const temperWeb = {
   definition: "the routes Temper serves to a browser",
   manifest: "json",
   tunnelRoutes: "ts",
-  appLayout: "tsx",
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

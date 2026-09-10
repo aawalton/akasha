@@ -6,6 +6,7 @@ export const alanAtlasWebRoutes = {
   type: "app-routes",
   slug: "alan-atlas-web-routes",
   definition: "the routes Alan's map site serves",
+  appLayout: "tsx",
   parts: [
     "route/atlas-api-pages",
     "route/atlas-api-nav-icon",

@@ -1,6 +1,5 @@
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.types.ts"
 import type { AddonBundleImage } from "./properties/addon-bundle-image.code-file-property.ts"
-import type { AppLayout } from "./properties/app-layout.code-file-property.ts"
 import type { BundleDirectory } from "./properties/bundle-directory.build-folder-property.ts"
 import type { CompileConfig } from "./properties/compile-config.file-property.ts"
 import type { DeclarationDirectory } from "./properties/declaration-directory.build-folder-property.ts"
@@ -23,7 +22,6 @@ export type RouterApp = WorkspacePackage & {
   serverEntry: ServerEntry
   routerConfig: RouterConfig
   compileConfig?: CompileConfig
-  appLayout?: AppLayout
   viteConfig?: ViteConfig
   server?: Server
   addonBundleImage?: AddonBundleImage

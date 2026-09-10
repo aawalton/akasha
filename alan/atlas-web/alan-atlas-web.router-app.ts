@@ -8,7 +8,6 @@ export const alanAtlasWeb = {
   definition: "the routes Alan's map site serves to a browser",
   manifest: "json",
   tunnelRoutes: "ts",
-  appLayout: "tsx",
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

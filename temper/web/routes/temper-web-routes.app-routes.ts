@@ -6,6 +6,7 @@ export const temperWebRoutes = {
   type: "app-routes",
   slug: "temper-web-routes",
   definition: "the routes the Temper site serves",
+  appLayout: "tsx",
   parts: [
     "route/addon-bundle",
     "route/addon-bundle-version",

@@ -9,7 +9,6 @@ export const routerApp = {
   pluralSlug: "router-apps",
   parts: [
     "code-file-property/addon-bundle-image",
-    "code-file-property/app-layout",
     "file-property/compile-config",
     "file-property/placeholder-image",
     "code-file-property/root-route",
@@ -34,7 +33,6 @@ export const routerApp = {
     { pageProperty: "code-file-property/server-entry", required: true, many: false },
     { pageProperty: "code-file-property/router-config", required: true, many: false },
     { pageProperty: "file-property/compile-config", required: false, many: false },
-    { pageProperty: "code-file-property/app-layout", required: false, many: false },
     { pageProperty: "code-file-property/vite-config", required: false, many: false },
     { pageProperty: "code-file-property/server", required: false, many: false },
     { pageProperty: "code-file-property/addon-bundle-image", required: false, many: false },

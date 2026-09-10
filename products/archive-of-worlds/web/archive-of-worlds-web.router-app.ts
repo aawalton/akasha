@@ -8,7 +8,6 @@ export const archiveOfWorldsWeb = {
   definition: "the routes archiveofworlds.app serves to a browser",
   manifest: "json",
   tunnelRoutes: "ts",
-  appLayout: "tsx",
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",
