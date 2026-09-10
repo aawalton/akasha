@@ -6,7 +6,7 @@ import type { Variants } from "./properties/variants.text-property.ts"
 
 export type Term = Page & {
   spelling: Spelling
-  variants?: readonly Variants[]
+  variants?: Variants
   definition: Definition
 }
 
