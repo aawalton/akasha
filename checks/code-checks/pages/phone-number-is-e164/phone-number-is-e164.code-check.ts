@@ -6,8 +6,6 @@ export const phoneNumberIsE164 = {
   type: "code-check",
   slug: "phone-number-is-e164",
   definition: "the check refusing a phone number that is not written in E.164",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
