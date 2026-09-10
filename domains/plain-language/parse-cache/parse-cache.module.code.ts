@@ -1,7 +1,7 @@
-import { execFileSync } from "node:child_process"
 import { createHash } from "node:crypto"
 import { appendFileSync, mkdirSync, readFileSync } from "node:fs"
 import { isAbsolute, join, resolve } from "node:path"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import type { ParsedSentence } from "../dependency-graph/dependency-graph.module.code.ts"
 
 const OFF = "AKASHA_PARSE_CACHE_OFF"
@@ -44,11 +44,9 @@ export function keyFor(model: string, text: string): string {
 
 export function sharedGitDirAt(from: string): string | null {
   try {
-    const said = execFileSync("git", ["rev-parse", "--git-common-dir"], {
-      cwd: from,
-      encoding: "utf8",
-      stdio: ["ignore", "pipe", "ignore"],
-    }).trim()
+    const done = ran(["git", "rev-parse", "--git-common-dir"], { cwd: from })
+    if (done.code !== 0) return null
+    const said = done.out.trim()
     if (said === "") return null
     return isAbsolute(said) ? said : resolve(from, said)
   } catch {
@@ -82,9 +80,7 @@ export function makeParseCacheAt(model: string, at: string): ParseCache {
         if (typeof one.k === "string" && typeof one.t === "string" && Array.isArray(one.p)) {
           held.set(one.k, one)
         }
-      } catch {
-        // A line two appends tore in half is skipped, so the text is parsed again.
-      }
+      } catch {}
     }
     shards.set(name, held)
     return held
@@ -109,9 +105,7 @@ export function makeParseCacheAt(model: string, at: string): ParseCache {
       try {
         mkdirSync(at, { recursive: true })
         appendFileSync(join(at, `${shardNamed(key)}.jsonl`), `${JSON.stringify(one)}\n`)
-      } catch {
-        // A cache the disk refuses still answers for the life of the process.
-      }
+      } catch {}
     },
   }
 }
