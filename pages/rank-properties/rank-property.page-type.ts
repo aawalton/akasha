@@ -1,27 +1,4 @@
-import type { SelectProperty } from "../select-properties/select-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.types.ts"
-
-export type Rung =
-  | "F"
-  | "D-"
-  | "D"
-  | "D+"
-  | "C-"
-  | "C"
-  | "C+"
-  | "B-"
-  | "B"
-  | "B+"
-  | "A-"
-  | "A"
-  | "A+"
-  | "S-"
-  | "S"
-  | "S+"
-
-export type RankProperty = SelectProperty & {
-  values: readonly Rung[]
-}
 
 export const rankProperty = {
   id: "01a063de-2c60-7004-81e6-21e2564b7832",
@@ -44,5 +21,18 @@ export const rankProperty = {
       invariantKind: "departure",
       statement: "A rank property states the whole ladder as its values.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The ladder is the values a rank property states rather than a second list here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rung is read off a rank property's own file, where the values are.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing refuses a rank property whose values are not the ladder.",
+    },
   ],
+  types: "ts",
 } as const satisfies PageType

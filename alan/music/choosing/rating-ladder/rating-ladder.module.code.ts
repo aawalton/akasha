@@ -1,6 +1,6 @@
-import type { Rung } from "akasha/pages/rank-properties/rank-property.page-type.ts"
+import type { Rank } from "akasha/collections/properties/rank.rank-property.ts"
 
-export type MusicRating = Rung
+export type MusicRating = Rank
 
 export const MUSIC_RATINGS = [
   "F",
@@ -19,7 +19,7 @@ export const MUSIC_RATINGS = [
   "S-",
   "S",
   "S+",
-] as const satisfies readonly Rung[]
+] as const satisfies readonly Rank[]
 
 const LIKED_FROM: MusicRating = "B-"
 

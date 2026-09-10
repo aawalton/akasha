@@ -1,7 +1,7 @@
-import type { Rung } from "akasha/pages/rank-properties/rank-property.page-type.ts"
+import type { Rank } from "akasha/collections/properties/rank.rank-property.ts"
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Grade = Rung
+export type Grade = Rank
 
 export const grade = {
   id: "01a0655b-4a9b-7003-a822-f4a3ceda67b2",

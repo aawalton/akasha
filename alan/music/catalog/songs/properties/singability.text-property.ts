@@ -1,7 +1,7 @@
-import type { Rung } from "akasha/pages/rank-properties/rank-property.page-type.ts"
+import type { Rank } from "akasha/collections/properties/rank.rank-property.ts"
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type Singability = Rung
+export type Singability = Rank
 
 export const singability = {
   id: "01a06243-144b-700b-83e8-f1b91786511f",
