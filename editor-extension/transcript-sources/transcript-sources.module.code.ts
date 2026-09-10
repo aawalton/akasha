@@ -26,7 +26,7 @@ const HOLD_MS = 5_000
 
 let held: { readonly at: number; readonly seats: readonly SeatTranscript[] } | null = null
 
-function seatsIn(answered: unknown): readonly SeatTranscript[] {
+function parseSeats(answered: unknown): readonly SeatTranscript[] {
   if (
     answered === null ||
     typeof answered !== "object" ||
@@ -60,13 +60,15 @@ export async function readSeatTranscripts(): Promise<readonly SeatTranscript[]> 
   const stdout = await callHarness(TRANSCRIPTS_MODULE, TRANSCRIPTS_EXPORT, [], {
     timeout: CALL_TIMEOUT_MS,
   })
-  let answered: unknown
+  let seats: readonly SeatTranscript[]
   try {
-    answered = JSON.parse(stdout)
+    seats = parseSeats(JSON.parse(stdout))
   } catch (err) {
-    throw new Error(`seat-transcripts did not print JSON: ${String(err)}`)
+    if (err instanceof SyntaxError) {
+      throw new Error(`seat-transcripts did not print JSON: ${String(err)}`)
+    }
+    throw err
   }
-  const seats = seatsIn(answered)
   held = { at: now, seats }
   return seats
 }
