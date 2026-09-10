@@ -30,6 +30,7 @@ import {
   WEAPON_TYPE_BITS,
 } from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
 import { CHARACTER_BUILD_TYPE } from "akasha/temper/build-codec/build-codec-v48/build-codec-v48.module.code.ts"
+import { ESO_VERSION_52 } from "akasha/temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts"
 import {
   COMPANION_ARMOR_WEIGHT_BITS,
   COMPANION_ARMOR_WEIGHT_IDS,
@@ -44,10 +45,8 @@ import {
   companionTraitIds,
   companionWeaponTypeIds,
 } from "akasha/temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts"
-import {
-  COMPANION_BUILD_TYPE,
-  ESO_VERSION_48,
-} from "akasha/temper/companion-codec/companion-codec-v48/companion-codec-v48.module.code.ts"
+import { COMPANION_BUILD_TYPE } from "akasha/temper/companion-codec/companion-codec-v48/companion-codec-v48.module.code.ts"
+import { ESO_VERSION_49 } from "akasha/temper/companion-codec/companion-codec-v49/companion-codec-v49.module.code.ts"
 import {
   CHARACTER_CODEC_MINOR_VERSION,
   COMPANION_CODEC_MINOR_VERSION,
@@ -62,10 +61,13 @@ export function generateCodecConstants(): string {
  * Codec Constants (Generated)
  *
  * Binary codec constants that must match temper's codec implementations.
- * Source: engine/companions/codec/companion-build-codec-v48.ts
- *         engine/companions/codec/companion-build-codec-indices.ts
- *         engine/character/codec/build-codec-v48.ts
- *         engine/character/codec/build-codec-indices.ts
+ * Source: temper/companion-codec/companion-codec-v48/companion-codec-v48.module.code.ts
+ *         temper/companion-codec/companion-codec-v49/companion-codec-v49.module.code.ts
+ *         temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts
+ *         temper/build-codec/build-codec-v48/build-codec-v48.module.code.ts
+ *         temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts
+ *         temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts
+ *         temper/addon-data/codec-widths/codec-widths.module.code.ts
  *
  * DO NOT EDIT — regenerate with: akasha temper-addon-data-generate
  */
@@ -76,7 +78,7 @@ export function generateCodecConstants(): string {
 
 // Header constants
 export const COMPANION_BUILD_TYPE = ${COMPANION_BUILD_TYPE}
-export const ESO_VERSION = ${ESO_VERSION_48}
+export const ESO_VERSION = ${ESO_VERSION_49}
 export const CODEC_MINOR_VERSION = ${COMPANION_CODEC_MINOR_VERSION}
 
 // Bit widths (computed from data file lengths)
@@ -96,6 +98,7 @@ export const TARGET_HEALTH_BITS = ${TARGET_HEALTH_BITS}
 
 // Header constants
 export const CHARACTER_BUILD_TYPE = ${CHARACTER_BUILD_TYPE}
+export const CHARACTER_ESO_VERSION = ${ESO_VERSION_52}
 export const CHARACTER_CODEC_MINOR_VERSION = ${CHARACTER_CODEC_MINOR_VERSION}
 
 // Character bits

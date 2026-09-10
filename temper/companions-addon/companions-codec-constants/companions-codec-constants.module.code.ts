@@ -1,5 +1,5 @@
 export const COMPANION_BUILD_TYPE = 2
-export const ESO_VERSION = 48
+export const ESO_VERSION = 49
 export const CODEC_MINOR_VERSION = 8
 
 export const COMPANION_BITS = 4
@@ -13,6 +13,7 @@ export const TARGET_ARMOR_BITS = 1
 export const TARGET_HEALTH_BITS = 1
 
 export const CHARACTER_BUILD_TYPE = 1
+export const CHARACTER_ESO_VERSION = 52
 export const CHARACTER_CODEC_MINOR_VERSION = 7
 
 export const CHARACTER_CLASS_BITS = 3

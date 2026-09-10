@@ -19,6 +19,7 @@ import {
   CHARACTER_CP_PASSIVE_COUNT_BITS,
   CHARACTER_CURSE_BITS,
   CHARACTER_ESO_PLUS_BITS,
+  CHARACTER_ESO_VERSION,
   CHARACTER_FOCUS_SCRIPT_BITS,
   CHARACTER_FOOD_OR_DRINK_BITS,
   CHARACTER_GRIMOIRE_BITS,
@@ -42,7 +43,6 @@ import {
   CHARACTER_WEAPON_ENCHANT_BITS,
   CHARACTER_WEAPON_TRAIT_BITS,
   CHARACTER_WEAPON_TYPE_BITS,
-  ESO_VERSION,
 } from "../character-capture-codec-constants/character-capture-codec-constants.module.code.ts"
 import type {
   CharacterBuildData,
@@ -53,7 +53,7 @@ export function encodeCharacterBuild(build: CharacterBuildData): string {
   const writer = makeBitWriter()
 
   writeBits(writer, CHARACTER_BUILD_TYPE, 8)
-  writeBits(writer, ESO_VERSION, 8)
+  writeBits(writer, CHARACTER_ESO_VERSION, 8)
   writeBits(writer, CHARACTER_CODEC_MINOR_VERSION, 8)
 
   writeBits(writer, build.classIndex, CHARACTER_CLASS_BITS)
