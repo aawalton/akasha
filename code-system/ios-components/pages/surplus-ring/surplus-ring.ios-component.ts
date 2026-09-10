@@ -18,7 +18,8 @@ export const surplusRing = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading falls by its rate times the hours since the moment it was taken.",
+      statement:
+        "A reading falls by its rate times the hours from the moment that reading was taken.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +55,11 @@ export const surplusRing = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here says which rungs a scale has, the feed sending the ones it used.",
+      statement: "Nothing here says which rungs a scale has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The feed sends the rungs the feed used.",
     },
   ],
 } as const satisfies IosComponent
