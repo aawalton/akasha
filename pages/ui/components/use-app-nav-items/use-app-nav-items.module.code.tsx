@@ -47,9 +47,6 @@ export function useAppNavItems({
   primaryItems,
   initialRows,
 }: UseAppNavItemsArgs): PrimaryNavItemsResult {
-  // A NAV ITEM NAMES ITS APP BY SLUG. The `nav` page type declares `appSlug` and no key holding an
-  // app's id, and a question naming a key the page type does not declare is refused rather than
-  // answered empty, so narrowing by an id would leave the whole navigation unread.
   const navWhere = useMemo<PageWhere>(
     () => [{ key: "appSlug", eq: appSlug != null && appSlug !== "" ? appSlug : "" }],
     [appId, appSlug]
@@ -164,10 +161,6 @@ export function useAppNavItems({
       return aOrder - bOrder
     })
 
-    // A NAV ITEM NAMES ITS PARENT BY SLUG. `navParent` is a relation carrying the parent's slug,
-    // and every grouping below is by page id, so the slug is resolved against the items loaded
-    // here. A parent naming an item outside this app resolves to nothing and leaves its child at
-    // the top, which is where an item whose parent went unread belongs.
     const getEffectiveParentId = (page: (typeof sorted)[number]): string | null => {
       if (optimisticParents?.has(page.id)) {
         return optimisticParents.get(page.id) ?? null
