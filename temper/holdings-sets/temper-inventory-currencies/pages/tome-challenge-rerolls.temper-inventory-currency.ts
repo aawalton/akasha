@@ -1,4 +1,4 @@
-import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.ts"
+import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.types.ts"
 
 export const tomeChallengeRerolls = {
   id: "01a05fcf-26bc-70a1-afef-269244ec58c4",

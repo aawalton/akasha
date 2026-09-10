@@ -1,4 +1,4 @@
-import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.ts"
+import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.types.ts"
 
 export const gold = {
   id: "01a05fcf-26bb-757b-9699-47c68673d7b1",

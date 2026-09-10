@@ -1,4 +1,4 @@
-import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.ts"
+import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.types.ts"
 
 export const crownGems = {
   id: "01a05fcf-26ba-74ed-95cb-48aa8e2fc635",

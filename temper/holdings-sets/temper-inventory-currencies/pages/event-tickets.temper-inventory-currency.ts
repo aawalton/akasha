@@ -1,4 +1,4 @@
-import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.ts"
+import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.types.ts"
 
 export const eventTickets = {
   id: "01a05fcf-26bb-7b3e-a71e-beefe8bbc4b3",

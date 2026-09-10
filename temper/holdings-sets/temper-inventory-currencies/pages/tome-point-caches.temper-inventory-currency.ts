@@ -1,4 +1,4 @@
-import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.ts"
+import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.types.ts"
 
 export const tomePointCaches = {
   id: "01a05fcf-26bc-760d-83d4-e0173586a44c",

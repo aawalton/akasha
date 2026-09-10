@@ -1,4 +1,4 @@
-import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.ts"
+import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-type.types.ts"
 
 export const endeavorSeals = {
   id: "01a05fcf-26bb-77fb-a365-13a54dbe5b4d",

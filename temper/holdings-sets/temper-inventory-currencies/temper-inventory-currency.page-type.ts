@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperThing } from "../../things/temper-thing.page-type.types.ts"
-
-export type TemperInventoryCurrency = TemperThing
 
 export const temperInventoryCurrency = {
   id: "01a05fcb-fd2c-79e2-b426-908dcfb8bf4a",
@@ -15,4 +12,5 @@ export const temperInventoryCurrency = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
