@@ -1,7 +1,9 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { type Plan, planFor } from "@akasha/code/app-building"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran as running } from "akasha/utils/run/running/running.module.code.ts"
+import { z } from "zod"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { SCRATCH_AT } from "../../modules/scratching/scratching.module.code.ts"
 
@@ -26,6 +28,14 @@ const EXCLUDES = ["node_modules", "ios", "build", ".DS_Store"]
 const MAC_PATH = 'export PATH="/opt/homebrew/opt/node@22/bin:/opt/homebrew/bin:$PATH"'
 
 const DONE = /BUILD_SIM_OK[^\n]*udid=([0-9A-Fa-f-]{8,})/
+
+const REPORTED = z.tuple([z.string(), z.string()])
+
+function parseInstalledUdid(said: string): string | null {
+  const found = DONE.exec(said)
+  const read = REPORTED.safeParse(found)
+  return read.success ? read.data[1] : null
+}
 
 export type Read =
   | { readonly act: string; readonly app: string; readonly www: string | null }
@@ -74,8 +84,7 @@ function ran(command: readonly string[], named: Record<string, string> = {}): Ra
 }
 
 function hostIn(): string {
-  const named = process.env[HOST_ENV]
-  return named === undefined || named === "" ? DEFAULT_HOST : named
+  return optionalEnv(HOST_ENV) ?? DEFAULT_HOST
 }
 
 function delivered(root: string, plan: Plan, host: string): readonly string[] {
@@ -182,8 +191,8 @@ export function iosApp(argv: readonly string[], given: Given): Answer {
   }
   const done = built(scriptOf(given.root, plan, read.www, stamp), host)
   report.push(done.out.trimEnd())
-  const found = DONE.exec(done.out)
-  if (found === null) {
+  const udid = parseInstalledUdid(done.out)
+  if (udid === null) {
     return {
       report,
       refusals: [
@@ -192,6 +201,6 @@ export function iosApp(argv: readonly string[], given: Given): Answer {
       code: 3,
     }
   }
-  report.push(`installed ${plan.appSlug} to simulator ${found[1]}`)
+  report.push(`installed ${plan.appSlug} to simulator ${udid}`)
   return { report, refusals: [], code: 0 }
 }
