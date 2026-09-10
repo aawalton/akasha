@@ -59,7 +59,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A row appended states the edit as the change that answered it stated the edit.",
+      statement: "A row appended states the edit as the answering change stated the edit.",
     },
     {
       invariantKind: "departure",
@@ -125,7 +125,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The edits a subagent leaves stay in the file the subagent kept them in.",
+      statement: "The edits a subagent leaves stay in the file the subagent kept the edits in.",
     },
     {
       invariantKind: "departure",
@@ -133,7 +133,7 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "A page with a file of edits beside it has edits waiting.",
+      statement: "A page with a file of edits beside that page has edits waiting.",
     },
     {
       invariantKind: "departure",

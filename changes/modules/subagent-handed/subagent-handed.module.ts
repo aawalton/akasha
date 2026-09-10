@@ -12,7 +12,8 @@ export const subagentHanded = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A subagent hands its edits over by leaving them where the subagent kept them.",
+      statement:
+        "A subagent hands its edits over by leaving the edits where the subagent kept the edits.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +41,7 @@ export const subagentHanded = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads an edit or writes one.",
+      statement: "Nothing here reads an edit or writes an edit.",
     },
     {
       invariantKind: "departure",
