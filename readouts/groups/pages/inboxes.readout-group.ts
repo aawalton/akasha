@@ -7,6 +7,7 @@ export const inboxes = {
   slug: "inboxes",
   definition: "how far each of Alan's inboxes is from empty",
   sortOrder: "place",
+  figureOffScale: true,
   invariants: [
     {
       invariantKind: "departure",

@@ -29,10 +29,14 @@ func cases(now: Date) -> [RenderCase] {
     #if !HARNESS_ALANWALTON
     let jennyUpkeep = """
         {"stoplights":[\
-        {"habit":"safety","tier":"green","reading":"3.2","nextTier":"blue","progress":0.6,"label":"Safety"},\
-        {"habit":"surplus","tier":"yellow","reading":"-2.5","nextTier":"green","progress":0.375,"label":"Surplus"},\
-        {"habit":"capacity","tier":"blue","reading":"12.0","nextTier":null,"progress":null,"label":"Capacity"},\
-        {"habit":"sleep","tier":"red","reading":"6.4","nextTier":"yellow","progress":0.4,"label":"Sleep"}]}
+        {"habit":"safety","tier":"green","reading":"3.2","nextTier":"blue","progress":0.6,\
+        "label":"Safety","figureOffScale":true},\
+        {"habit":"surplus","tier":"yellow","reading":"-2.5","nextTier":"green","progress":0.375,\
+        "label":"Surplus","figureOffScale":true},\
+        {"habit":"capacity","tier":"blue","reading":"12.0","nextTier":null,"progress":null,\
+        "label":"Capacity","figureOffScale":true},\
+        {"habit":"sleep","tier":"red","reading":"6.4","nextTier":"yellow","progress":0.4,\
+        "label":"Sleep","figureOffScale":true}]}
         """
     all.append(contentsOf: [
         RenderCase(
@@ -71,18 +75,27 @@ func cases(now: Date) -> [RenderCase] {
 
     let inbox = """
         {"stoplights":[\
-        {"inbox":"email","tier":"black","reading":"3.0k","nextTier":null,"progress":null},\
-        {"inbox":"tasks","tier":"blue","reading":"0","nextTier":null,"progress":null},\
-        {"inbox":"temperTasks","tier":"red","reading":"23","nextTier":"yellow","progress":0.8444444444444444}]}
+        {"inbox":"email","tier":"black","reading":"3.0k","nextTier":null,"progress":null,\
+        "figureOffScale":true},\
+        {"inbox":"tasks","tier":"blue","reading":"0","nextTier":null,"progress":null,\
+        "figureOffScale":true},\
+        {"inbox":"temperTasks","tier":"red","reading":"23","nextTier":"yellow",\
+        "progress":0.8444444444444444,"figureOffScale":true}]}
         """
     let upkeep = """
         {"stoplights":[\
-        {"habit":"plants","tier":"green","reading":"180","nextTier":"blue","progress":0.125,"label":"Plants"},\
-        {"habit":"activity","tier":"black","reading":"0","nextTier":null,"progress":null,"label":"Activity"},\
-        {"habit":"sleep","tier":"red","reading":"6.4","nextTier":"yellow","progress":0.4,"label":"Sleep"},\
-        {"habit":"surplus","tier":"yellow","reading":"-2.5","nextTier":"green","progress":0.375,"label":"Surplus"},\
-        {"habit":"capacity","tier":"blue","reading":"12.0","nextTier":null,"progress":null,"label":"Capacity"},\
-        {"habit":"safety","tier":"yellow","reading":"2.5","nextTier":"green","progress":0.5,"label":"Safety"}]}
+        {"habit":"plants","tier":"green","reading":"180","nextTier":"blue","progress":0.125,\
+        "label":"Plants","figureOffScale":true},\
+        {"habit":"activity","tier":"black","reading":"0","nextTier":null,"progress":null,\
+        "label":"Activity","figureOffScale":true},\
+        {"habit":"sleep","tier":"red","reading":"6.4","nextTier":"yellow","progress":0.4,\
+        "label":"Sleep","figureOffScale":true},\
+        {"habit":"surplus","tier":"yellow","reading":"-2.5","nextTier":"green","progress":0.375,\
+        "label":"Surplus","figureOffScale":true},\
+        {"habit":"capacity","tier":"blue","reading":"12.0","nextTier":null,"progress":null,\
+        "label":"Capacity","figureOffScale":true},\
+        {"habit":"safety","tier":"yellow","reading":"2.5","nextTier":"green","progress":0.5,\
+        "label":"Safety","figureOffScale":true}]}
         """
     all.append(contentsOf: [
         RenderCase(

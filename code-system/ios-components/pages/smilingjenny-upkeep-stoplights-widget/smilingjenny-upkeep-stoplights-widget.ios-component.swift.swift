@@ -46,7 +46,8 @@ enum UpkeepStoplightsFeed: WidgetFeed {
                 reading: $0.reading,
                 nextTier: $0.nextTier,
                 progress: $0.progress,
-                label: $0.label
+                label: $0.label,
+                figureOffScale: true
             )
         }
     )

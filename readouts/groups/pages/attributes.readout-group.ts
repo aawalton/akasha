@@ -7,4 +7,5 @@ export const attributes = {
   slug: "attributes",
   definition: "the attributes Alan's daily upkeep habits earned on a day",
   sortOrder: "place",
+  figureOffScale: true,
 } as const satisfies ReadoutGroup
