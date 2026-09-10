@@ -11,6 +11,7 @@ const ALLOWED = new Set<string>([
   "changes",
   "checks",
   "commands",
+  "design",
   "graph",
   "infrastructure",
   "pages",
