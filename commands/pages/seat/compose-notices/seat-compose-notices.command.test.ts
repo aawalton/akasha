@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { notices, render } from "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   OUT,
@@ -25,7 +26,7 @@ function scratch(): string {
 
 function underRoot<T>(root: string, run: () => T): T {
   notices()
-  const held = process.env["AKASHA_ROOT"]
+  const held = optionalEnv("AKASHA_ROOT")
   process.env["AKASHA_ROOT"] = root
   try {
     return run()
