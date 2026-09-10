@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { landing, NO_BYTES } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { introducedPropertyIsAPart } from "./introduced-property-is-a-part.code-check.code.ts"
+import { introducedPropertyIsAPart } from "./introduced-property-is-a-part.code-check.check.code.ts"
 import {
   bytesOf,
   pathFor,
