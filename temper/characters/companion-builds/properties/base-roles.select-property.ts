@@ -1,3 +1,4 @@
+import type { List } from "@akasha/pages/page-property"
 import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const baseRoles = {
@@ -17,3 +18,5 @@ export const baseRoles = {
 } as const satisfies SelectProperty
 
 export type BaseRole = (typeof baseRoles.values)[number]
+
+export type BaseRoles = List<BaseRole>
