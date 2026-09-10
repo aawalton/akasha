@@ -7,6 +7,7 @@ import {
   rootsHere,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import type { Said } from "akasha/utils/run/running/running.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { test as testFile } from "../modules/properties/test.code-file-property.ts"
@@ -100,11 +101,11 @@ export type Grouping = {
 }
 
 export function alreadyRunning(): boolean {
-  return process.env[RUNNING] === MARK
+  return optionalEnv(RUNNING) === MARK
 }
 
 export function measuring(): boolean {
-  return process.env[MEASURING] === MARK
+  return optionalEnv(MEASURING) === MARK
 }
 
 export function testNamed(path: string): boolean {
