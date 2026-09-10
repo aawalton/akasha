@@ -1,14 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { EmailAddress } from "akasha/personas/properties/email-address.email-address-property.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { ProcessedMessages } from "./properties/processed-messages.page-property-entry.ts"
-
-export type GmailMailbox = Page & {
-  title: Title
-  email: EmailAddress
-  processedMessages?: ProcessedMessages
-}
 
 export const gmailMailbox = {
   id: "01a06828-59d3-7295-868d-d695a5d5efd8",
@@ -39,4 +29,5 @@ export const gmailMailbox = {
         "The address sits under the address a person sends and receives at rather than a key of its own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
