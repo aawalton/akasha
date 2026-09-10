@@ -15,6 +15,8 @@ import {
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import type { Given, Judging } from "./syntax-rules/syntax-rule.page-type.ts"
 
+const PACKAGE = "akasha/"
+
 const RULE = "syntax-rule"
 
 const CODE = "code"
@@ -35,8 +37,36 @@ export function carriedIn(change: Change | null, path: string): string | null {
   return textOf(change.after(path))
 }
 
-export function compiledFrom(root: string, at: string, text: string): Record<string, unknown> {
+function carryingIn(change: Change | null, specifier: string): string | null {
+  if (change === null || !specifier.startsWith(PACKAGE)) return null
+  return carriedIn(change, specifier.slice(PACKAGE.length))
+}
+
+function requiringIn(
+  root: string,
+  full: string,
+  change: Change | null,
+  seen: Map<string, Record<string, unknown>>
+): (specifier: string) => unknown {
+  const plain = createRequire(full)
+  const load = (specifier: string): unknown => {
+    const carried = carryingIn(change, specifier)
+    if (carried === null) return plain(specifier)
+    return compiledFrom(root, specifier.slice(PACKAGE.length), carried, change, seen)
+  }
+  return Object.assign(load, plain)
+}
+
+export function compiledFrom(
+  root: string,
+  at: string,
+  text: string,
+  change: Change | null = null,
+  seen: Map<string, Record<string, unknown>> = new Map()
+): Record<string, unknown> {
   const full = join(root, at)
+  const held = seen.get(full)
+  if (held !== undefined) return held
   const built = ts.transpileModule(text, {
     fileName: full,
     compilerOptions: {
@@ -46,6 +76,7 @@ export function compiledFrom(root: string, at: string, text: string): Record<str
     },
   }).outputText
   const holder: { exports: Record<string, unknown> } = { exports: {} }
+  seen.set(full, holder.exports)
   const run = new Function(
     "require",
     "module",
@@ -54,7 +85,7 @@ export function compiledFrom(root: string, at: string, text: string): Record<str
     "__dirname",
     built
   ) as Running
-  run(createRequire(full), holder, holder.exports, full, dirname(full))
+  run(requiringIn(root, full, change, seen), holder, holder.exports, full, dirname(full))
   return holder.exports
 }
 
@@ -86,7 +117,7 @@ export function rulesIn(
         )
       }
       try {
-        mod = compiledFrom(root, beside, carried)
+        mod = compiledFrom(root, beside, carried, change)
       } catch (thrown) {
         throw new Error(
           `${one.path} is a syntax rule, and the body this change carries at ${beside} could not be loaded — ${saidBy(thrown)}`

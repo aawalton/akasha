@@ -60,6 +60,11 @@ export const noRefusedSyntax = {
       invariantKind: "departure",
       statement: "A file whose bytes are not valid UTF-8 refuses the check rather than passing.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body the change carries reaches a module that change moves at the path it moves to.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
