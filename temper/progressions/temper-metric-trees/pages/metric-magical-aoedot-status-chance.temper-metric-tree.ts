@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricMagicalAoedotStatusChance = {
   id: "019e2fcd-59dd-7440-a4e3-481462e25974",

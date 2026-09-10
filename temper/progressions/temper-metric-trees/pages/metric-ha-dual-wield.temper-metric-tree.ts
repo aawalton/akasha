@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricHaDualWield = {
   id: "019e2fcd-59bc-782b-a1d2-6a6112fec9a0",

@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricLaTwoHand = {
   id: "019e2fcd-59a3-7acf-99cf-c2172b46ea13",

@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricHaWerewolf = {
   id: "019e2fcd-59c9-7a4f-8f8e-a538438a06d3",

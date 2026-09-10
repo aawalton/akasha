@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricResistanceEarth = {
   id: "019e2fcd-5a28-7d4f-9c43-18c610fad28c",

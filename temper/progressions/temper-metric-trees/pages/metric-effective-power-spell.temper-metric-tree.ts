@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricEffectivePowerSpell = {
   id: "019e2fcd-595e-7aeb-bb30-eba69d201501",

@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricLaShockStaff = {
   id: "019e2fcd-59a2-7a63-a0d3-9a7b7f4a89ae",

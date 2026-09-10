@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricLaShockSpellDamage = {
   id: "019e2fcd-5998-756e-89d8-cd88335826ee",

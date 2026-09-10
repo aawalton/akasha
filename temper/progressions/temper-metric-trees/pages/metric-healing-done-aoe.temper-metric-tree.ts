@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricHealingDoneAoe = {
   id: "019e2fcd-5a53-7891-9ccc-7a53880e196b",

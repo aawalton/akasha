@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricMovementSneakSpeed = {
   id: "019e2fcd-5a7b-713a-b0ef-e950bf15d3d8",

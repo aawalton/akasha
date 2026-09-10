@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricSneakRange = {
   id: "019e2fcd-5a89-7bd0-a36e-cb314c0bf936",

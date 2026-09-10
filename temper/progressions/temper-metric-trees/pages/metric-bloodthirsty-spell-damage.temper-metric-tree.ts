@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricBloodthirstySpellDamage = {
   id: "019e2fcd-59ec-7e2b-a73f-1c44fafcf76a",

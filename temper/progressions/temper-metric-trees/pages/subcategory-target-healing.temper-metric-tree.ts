@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const subcategoryTargetHealing = {
   id: "019e2fcd-5aab-7b0f-8e96-5f0fa8c1a369",

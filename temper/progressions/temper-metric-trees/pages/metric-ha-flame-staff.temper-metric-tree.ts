@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricHaFlameStaff = {
   id: "019e2fcd-59be-72ed-92b1-36a7bbdba537",

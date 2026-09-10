@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricExperienceGain = {
   id: "019e2fcd-5ab9-7dfd-b617-33ea833048ed",

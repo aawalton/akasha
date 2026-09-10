@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricTargetSpellDebuff = {
   id: "019e2fcd-5aa7-7eac-ba29-6bd1a5d9f00f",

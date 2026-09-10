@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricDefenseSpellAoeMitigation = {
   id: "019e2fcd-5a47-76f0-84fd-396ab05bc474",

@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricEffectiveHealthPhysical = {
   id: "019e2fcd-5a1a-7b1c-acfb-b2973d49c013",

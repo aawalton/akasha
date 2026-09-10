@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricTargetUltimateRestoration = {
   id: "019e2fcd-5a9c-7781-8d57-53ca25380482",

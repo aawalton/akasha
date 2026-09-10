@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricSynergyEffectiveness = {
   id: "019e2fcd-5ab8-79eb-aed9-82bb2ef5a050",

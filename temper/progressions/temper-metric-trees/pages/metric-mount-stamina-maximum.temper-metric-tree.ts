@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricMountStaminaMaximum = {
   id: "019e2fcd-5a81-71e7-8248-6feeaa06f5eb",

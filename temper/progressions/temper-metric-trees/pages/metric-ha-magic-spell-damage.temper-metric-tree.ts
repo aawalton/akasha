@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricHaMagicSpellDamage = {
   id: "019e2fcd-59b0-744e-b0c2-455da81dc4cb",

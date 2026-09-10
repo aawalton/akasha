@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricPlayerEffectiveLevel = {
   id: "019e2fcd-5ac4-706c-82e6-df145309463e",

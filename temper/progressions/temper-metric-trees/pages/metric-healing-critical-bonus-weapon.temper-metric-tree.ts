@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricHealingCriticalBonusWeapon = {
   id: "019e2fcd-5a66-73f0-8281-2878832a4779",

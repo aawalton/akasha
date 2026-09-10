@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricPotionCooldown = {
   id: "019e2fcd-5ab6-71c3-ae77-70a452f219df",

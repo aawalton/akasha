@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const subcategoryUltimate = {
   id: "019e2fcd-5a01-7cf0-aea9-a2eac4658b0d",

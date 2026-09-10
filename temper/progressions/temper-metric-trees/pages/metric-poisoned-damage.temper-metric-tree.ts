@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const metricPoisonedDamage = {
   id: "019e2fcd-59d7-795c-9656-9218565d6c18",

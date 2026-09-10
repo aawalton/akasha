@@ -1,4 +1,4 @@
-import type { TemperMetricTree } from "../temper-metric-tree.page-type.ts"
+import type { TemperMetricTree } from "../temper-metric-tree.page-type.types.ts"
 
 export const subcategoryCrowdControl = {
   id: "019e2fcd-5ac0-737f-b99b-917e2d941df3",
