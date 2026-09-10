@@ -9,6 +9,16 @@ struct HabitStoplight: Decodable, Hashable {
     let progress: Double?
     let label: String?
     var figureOffScale: Bool? = nil
+    var takenAt: String? = nil
+    var fallsPerHour: Double? = nil
+}
+
+extension HabitStoplight {
+    func figure(asOf now: Date) -> String? {
+        FallingReading.figure(
+            reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, now: now
+        )
+    }
 }
 
 struct SafetyLevelResponse: Decodable {

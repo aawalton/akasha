@@ -103,7 +103,7 @@ struct UpkeepHomeView: View {
             ForEach(stoplights, id: \.self) {
                 StoplightRing(
                     tier: $0.tier,
-                    reading: $0.reading,
+                    reading: $0.figure(asOf: entry.date),
                     nextTier: $0.nextTier,
                     progress: $0.progress,
                     label: $0.label ?? $0.habit,

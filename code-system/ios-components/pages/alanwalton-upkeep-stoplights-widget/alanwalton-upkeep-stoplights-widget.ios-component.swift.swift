@@ -9,6 +9,16 @@ struct UpkeepStoplight: Decodable, Hashable {
     let progress: Double?
     let label: String?
     var figureOffScale: Bool? = nil
+    var takenAt: String? = nil
+    var fallsPerHour: Double? = nil
+}
+
+extension UpkeepStoplight {
+    func figure(asOf now: Date) -> String? {
+        FallingReading.figure(
+            reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, now: now
+        )
+    }
 }
 
 struct UpkeepStoplightsResponse: Decodable {
@@ -90,7 +100,7 @@ struct UpkeepHomeView: View {
             ForEach(stoplights, id: \.habit) {
                 StoplightRing(
                     tier: $0.tier,
-                    reading: $0.reading,
+                    reading: $0.figure(asOf: entry.date),
                     nextTier: $0.nextTier,
                     progress: $0.progress,
                     label: $0.label ?? $0.habit,

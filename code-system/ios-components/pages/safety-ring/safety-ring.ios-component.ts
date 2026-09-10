@@ -33,5 +33,17 @@ export const safetyRing = {
       invariantKind: "departure",
       statement: "The arc says how far the next tier is.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The stoplight every ring is handed carries the moment taken and the fall rate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stoplight sent without either is decoded rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stoplight asked for its figure at a moment subtracts the clock in one place.",
+    },
   ],
 } as const satisfies IosComponent

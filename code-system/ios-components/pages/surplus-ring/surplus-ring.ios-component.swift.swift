@@ -1,5 +1,56 @@
+import Foundation
 import SwiftUI
 import WidgetKit
+
+// A READING THAT FALLS WITH THE CLOCK IS SUBTRACTED FROM WHERE IT IS DRAWN.
+//
+// The surplus is the night's sleep less what the day has spent, and the spend counts the
+// stretch running now, so it falls one cost-of-an-hour for every hour of clock while nothing
+// on disk changes. A tile drawing the figure the feed sent is right at the moment the reading
+// was taken and stale by minutes ever after. The feed sends that moment and the rate beside
+// the figure, and the subtraction happens here so every drawing is right when it is made.
+//
+// The figure is not held at zero. The surplus scale runs to black at minus twelve, so hours a
+// day has eaten out of the night are a reading rather than an overflow.
+enum FallingReading {
+    private static let withFraction: ISO8601DateFormatter = {
+        let read = ISO8601DateFormatter()
+        read.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+        return read
+    }()
+
+    private static let plain = ISO8601DateFormatter()
+
+    static func hoursSince(_ takenAt: String, _ now: Date) -> Double? {
+        let took = withFraction.date(from: takenAt) ?? plain.date(from: takenAt)
+        guard let took else { return nil }
+        let seconds = now.timeIntervalSince(took)
+        return seconds <= 0 ? 0 : seconds / 3600
+    }
+
+    // THE FIGURE IS SPELLED AS THE FEED SPELLS ONE, SO THE TWO NEVER READ DIFFERENTLY.
+    static func said(_ value: Double) -> String {
+        guard value.isFinite else { return String(value) }
+        if value == value.rounded(), abs(value) < 1e15 {
+            return String(Int(value == 0 ? 0 : value))
+        }
+        let places = abs(value) >= 10 ? 0 : 1
+        let scale = pow(10.0, Double(places))
+        let floored = (value * scale).rounded(.down) / scale
+        return String(format: "%.\(places)f", floored == 0 ? 0 : floored)
+    }
+
+    static func figure(
+        reading: String?, takenAt: String?, fallsPerHour: Double?, now: Date
+    ) -> String? {
+        guard let reading else { return nil }
+        guard let takenAt, let fallsPerHour, fallsPerHour != 0 else { return reading }
+        guard let value = Double(reading), let hours = hoursSince(takenAt, now) else {
+            return reading
+        }
+        return said(value - hours * fallsPerHour)
+    }
+}
 
 struct SurplusResponse: Decodable {
     let stoplights: [HabitStoplight]
