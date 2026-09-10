@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { NoticeText } from "./properties/notice-text.file-property.ts"
-import type { NoticeWarrant } from "./properties/notice-warrant.text-property.ts"
-
-export type Notice = Page & {
-  text: NoticeText
-  warrant: NoticeWarrant
-}
 
 export const notice = {
   id: "019ffe7f-d49d-7000-ba76-13378b883aa0",
@@ -60,4 +52,5 @@ export const notice = {
       statement: "The notices a seat is resumed with exist as pages under this type.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
