@@ -211,12 +211,6 @@ export function runningSubagents(state: SubagentState): readonly RunningSubagent
   return out.sort((a, b) => a.label.localeCompare(b.label) || a.key.localeCompare(b.key))
 }
 
-// AN ID ANSWERED HERE WAS SEEN LAUNCHED AND THEN SEEN TO STOP. An agent id
-// enters `agentByTool` from a launch receipt and from nowhere else, so a fold
-// that missed the launch has no id to answer with, and a fold that missed the
-// stop leaves the id running. Either miss costs an id rather than inventing
-// one, which is what lets a caller read this as evidence that a subagent is
-// done rather than as a guess that one is.
 export function endedSubagents(state: SubagentState): readonly string[] {
   const out: string[] = []
   for (const [agentId, toolUseId] of state.agentByTool) {
