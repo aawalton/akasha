@@ -8,7 +8,7 @@ import {
   askingIn,
   heldAddonNamesARosterAddon,
   touches,
-} from "./held-addon-names-a-roster-addon.code-check.code.ts"
+} from "./held-addon-names-a-roster-addon.code-check.check.code.ts"
 import { ADDON } from "./held-addon-names-a-roster-addon.code-check.decision.code.ts"
 
 const ADDON_PAGE = "akasha/lib-async.eso-addon.ts"

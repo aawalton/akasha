@@ -7,8 +7,6 @@ export const heldAddonNamesARosterAddon = {
   slug: "held-addon-names-a-roster-addon",
   definition:
     "the check refusing a `held-addon` page naming an addon the roster finds nowhere or elsewhere",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
