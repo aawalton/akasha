@@ -9,11 +9,6 @@ export const dallaDraftIntoAPatch = {
   persona: "dalla",
   intents: [
     {
-      statement: "The wide FileEdit type no longer exists.",
-      workingMemory:
-        "`FileChange` is the currency from the command line to the lock: `Asked.changes`, `Built.changes`, `changingOf`, `value-minting` and `type-generating.Generating` all take rows, and `file-arguing` refuses a body that is not text. Four places are left: `landing` declares `FileEdit` and splits rows back into bodies to write, `change-preparing.rowsOf` turns bodies into rows for `applying`, and `landing`'s test fixtures. Make `applying` build rows off the patch it folds and the type can go unexported.",
-    },
-    {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
       workingMemory:
         "`apply-running:25` hands `applying` a flat `{ checks: true, writerOwesReading: false, readersOweReading: true }`, and `applying:260` warrants only where `writerOwesReading` is true, so an apply runs the checks and no warrant. The data is there and thrown away: `edits-keeping:36-43` reads both fields off each change and keeps them on the row. What is left is for the apply to read the rows it folds rather than a constant. That refuses landings nothing refuses today, so Alan settles it first.\n",
