@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "Alan approved finishing the lualib migration over adding a shape: each `lualib/src` file becomes a `lualibs/<slug>/` page by `add-file` page, `add-file` code, `remove-file` source, plus one parts entry. Convert a whole import component per landing. A `@noSelfInFile` line lands as refused prose: spell `this: void` on every function instead, as the converted pages do. 31 of 47 done. Then repoint the two lualibs importing into src, and trim both tsconfigs.\n",
+        "The lualib migration is done: all 47 `lualib/src` files are `lualibs/<slug>/` pages, both tsconfigs are trimmed, and `src` is gone. 11 refusals are left: the repo root, `ast-unused-configs/pages`, `seat-log-days/pages`, `subagents/pages`, five under `temper`, and `pages/indexes/index-settling`. The three `pages` folders compose their paths flat in running code, so converting one means changing writers while the swarm runs.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
