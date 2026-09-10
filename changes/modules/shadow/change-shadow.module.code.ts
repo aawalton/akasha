@@ -68,12 +68,11 @@ export type World = {
 }
 
 export function facingIn(world: World): Facing {
-  const index = world.index
   return {
-    kindsUnder: (of) => index.kindsUnder(of),
-    everyOfType: (kind) => index.everyOfType(kind),
-    valueAt: (path) => index.pageByPath(path),
-    carryingOf: (named) => index.carryingOf(named),
+    kindsUnder: (of) => world.index.kindsUnder(of),
+    everyOfType: (kind) => world.index.everyOfType(kind),
+    valueAt: (path) => world.index.pageByPath(path),
+    carryingOf: (named) => world.index.carryingOf(named),
   }
 }
 

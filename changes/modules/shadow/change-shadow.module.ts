@@ -334,7 +334,11 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "Which bodies are generated is read from the world before the change rather than after.",
+        "Which bodies are generated is read through the face built before the change rather than after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A face reads the index when that face is asked rather than when it is built.",
     },
     {
       invariantKind: "departure",
