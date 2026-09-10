@@ -1,4 +1,4 @@
-import type { UniqueKind } from "../unique-kind.page-type.ts"
+import type { UniqueKind } from "../unique-kind.page-type.types.ts"
 
 export const pageProperty = {
   id: "01a0814f-68bb-7000-878e-605b3d7dec8b",
