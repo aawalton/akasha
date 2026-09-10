@@ -28,15 +28,16 @@ export const builtImage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An image's Dockerfile is written from what the image states rather than kept.",
+      statement:
+        "An image's Dockerfile is written from the image's stated values rather than kept.",
     },
     {
       invariantKind: "departure",
-      statement: "An image states the sort of Dockerfile written for it.",
+      statement: "An image states the sort of Dockerfile written for that image.",
     },
     {
       invariantKind: "departure",
-      statement: "An image adding to its Dockerfile has what it adds beside its own page.",
+      statement: "An image adding to its Dockerfile keeps the addition beside its own page.",
     },
     {
       invariantKind: "departure",
