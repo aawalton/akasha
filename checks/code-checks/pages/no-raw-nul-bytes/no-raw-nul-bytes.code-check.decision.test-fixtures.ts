@@ -6,7 +6,9 @@ import {
   valueAlsoFiled,
 } from "@akasha/indexes/testing"
 import type { Value } from "@akasha/pages/page-value"
+import { ran } from "@akasha/utils/run/running"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 
 export const scratch = scratchWorld()
 
@@ -14,9 +16,16 @@ export const CERTIFICATE = "ca.crt"
 
 export const ELSEWHERE = "node_modules/one/ca.crt"
 
+export const AWAY = "far/one/ca.crt"
+
 export const WALLPAPER = "far/away/one.certificate-authority.wallpaper.png"
 
 export const FOREIGN = "far/away/one.persona.wallpaper.png"
+
+export const NUL = String.fromCharCode(0)
+
+export const TWO_NULS =
+  "line 1 column 1 is the first of 2 raw NUL bytes, which hide the whole file from a search"
 
 const PROPERTY_AT = "akasha/authority-certificate.file-property.ts"
 
@@ -112,4 +121,12 @@ export function seeded(value: Value): string {
 
 export function letThrough(): string {
   return seeded({ fileName: CERTIFICATE, holdsBytes: true })
+}
+
+export function tracked(files: Readonly<Record<string, string>>): string {
+  const root = letThrough()
+  for (const [path, body] of Object.entries(files)) writing(root, path, body)
+  const done = ran(["git", "-C", root, "init", "-q"])
+  if (done.code !== 0) throw new Error(`no tree was made at ${root} — ${done.err.trim()}`)
+  return root
 }
