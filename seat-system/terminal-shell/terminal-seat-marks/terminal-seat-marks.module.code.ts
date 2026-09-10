@@ -60,6 +60,12 @@ export function startedAtOf(pid: number): string | null {
   return started === undefined || started === "" ? null : started
 }
 
+function parseMarkSeat(held: unknown): string | null {
+  if (held === null || typeof held !== "object") return null
+  const seat = (held as { seat?: unknown }).seat
+  return typeof seat === "string" && seat !== "" ? seat : null
+}
+
 export function markIn(name: string, body: string): SeatMark | null {
   if (!name.endsWith(MARK_TAIL)) return null
   const stem = name.slice(0, -MARK_TAIL.length)
@@ -68,15 +74,14 @@ export function markIn(name: string, body: string): SeatMark | null {
   const pid = Number(stem.slice(0, dash))
   const startedAt = stem.slice(dash + 1)
   if (!Number.isInteger(pid) || pid <= 0 || startedAt === "") return null
-  let said: unknown
+  let seat: string | null = null
   try {
-    said = JSON.parse(body)
+    const said: unknown = JSON.parse(body)
+    seat = parseMarkSeat(said)
   } catch {
     return null
   }
-  if (said === null || typeof said !== "object") return null
-  const seat = (said as { seat?: unknown }).seat
-  if (typeof seat !== "string" || seat === "") return null
+  if (seat === null) return null
   return { pid, startedAt, seat }
 }
 
