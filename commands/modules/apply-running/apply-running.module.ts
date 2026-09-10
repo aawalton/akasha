@@ -103,15 +103,11 @@ export const applyRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A row worked out from an older body is merged onto the commit at HEAD first.",
+      statement: "A row is replayed onto the commit at HEAD rather than onto the tree.",
     },
     {
       invariantKind: "departure",
-      statement: "That merge is the merge the apply itself makes.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A merge that clashes runs no check here and is refused by the apply.",
+      statement: "A row that will not replay there refuses the apply and runs no check.",
     },
     {
       invariantKind: "departure",

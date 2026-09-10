@@ -20,7 +20,7 @@ import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { waitingSaid } from "../change-acting/change-acting.module.code.ts"
 import { APPLY, CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
 import { noPageSaid } from "../change-running/change-running.module.code.ts"
-import { type Rebased, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
+import { headOf, type Running } from "../drafting/drafting.module.code.ts"
 import { bodiesFrom } from "../edits-landing/edits-landing.module.code.ts"
 import { inputIn, type Piping } from "../piping/piping.module.code.ts"
 import { allowedAgain, MEASURED_ALLOWED } from "../stopping/command-stopping.module.code.ts"
@@ -46,6 +46,7 @@ export type Folded =
 
 export function folding(root: string, page: string): Folded {
   let answer: Folded = { folded: [], dropped: [], unfold: null, carried: null }
+  const head = headOf(root)
   const written = writtenPathsIn(root)
   const again = (one: string): boolean => written.has(one)
   const kept = keptEdits(root, page, (had) => {
@@ -61,7 +62,7 @@ export function folding(root: string, page: string): Folded {
       answer = { refusals: [said.refused] }
       return had
     }
-    const bodies = bodiesFrom(root, said)
+    const bodies = bodiesFrom(root, head, said)
     if ("why" in bodies) {
       answer = { refusals: [bodies.why] }
       return had
@@ -80,18 +81,6 @@ export function folding(root: string, page: string): Folded {
     return had
   })
   return "why" in kept ? { refusals: [kept.why] } : answer
-}
-
-export function rebasedRows(
-  root: string,
-  base: string,
-  rows: readonly FileChange[]
-): Rebased | { readonly why: string } {
-  const said = foldedIn(rows)
-  if (said.refused !== null) return { why: said.refused }
-  const bodies = bodiesFrom(root, said)
-  if ("why" in bodies) return bodies
-  return rebasedHeld(root, base, bodies.held)
 }
 
 export function undone(root: string, page: string, unfold: Unfold, landed: boolean): string | null {

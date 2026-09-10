@@ -70,7 +70,7 @@ export async function runMechanicalChange(
       commit: null,
     }
   }
-  const held = bodiesFrom(root, said)
+  const held = bodiesFrom(root, baseOf(root), said)
   if ("why" in held) return { refusals: [held.why] }
   return await applied(
     root,

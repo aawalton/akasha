@@ -8,7 +8,8 @@ import type { Given as Arguments } from "../argument-reading/argument-reading.mo
 import { bypassedIn, glassSaid, mistaking, unloadableIn } from "../asking/asking.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { preparing, rowsOf } from "../change-preparing/change-preparing.module.code.ts"
-import { type Bodies, owedOf, type Running, rebasedHeld } from "../drafting/drafting.module.code.ts"
+import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+import { type Bodies, owedOf, type Running } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { landing, type Refused } from "../landing/landing.module.code.ts"
@@ -22,8 +23,6 @@ import { refusalsKept } from "../refusals-keeping/refusals-keeping.module.code.t
 const NOTHING_HELD = "no bodies were handed in, so nothing is there to apply"
 
 const KEPT_AS_IT_WAS = "nothing was applied — the edits are as the edits were"
-
-const CLASHED = "nothing was applied — a change carrying a conflict does not apply"
 
 const UNEXPORTABLE = "nothing was applied — a page whose slug names no export does not apply"
 
@@ -194,15 +193,20 @@ export type Applied = {
 
 export function warrantedAgain(
   root: string,
+  head: string,
   agentId: string,
-  held: Bodies,
-  moved: readonly string[]
+  held: Bodies
 ): readonly string[] {
   const again: string[] = []
-  for (const [path, one] of held) {
-    if (moved.includes(path) || one.was === null) continue
-    const oid = blobIdOf(one.was)
-    recordRead(root, agentId, { path, oid, seenAt: Date.now(), carriedOid: null })
+  for (const path of held.keys()) {
+    const now = bodyAt(root, head, path)
+    if (now === null) continue
+    recordRead(root, agentId, {
+      path,
+      oid: blobIdOf(now),
+      seenAt: Date.now(),
+      carriedOid: null,
+    })
     again.push(path)
   }
   return again.sort()
@@ -248,27 +252,17 @@ export async function applied(
   if (carried === null) return { refusals: [NOTHING_HELD] }
   const holding = carried
   const head = gitSaid(root, ["rev-parse", "HEAD"]).trim()
-  const said = rebasedHeld(root, head, holding.held)
-  if ("why" in said) return { refusals: [said.why, KEPT_AS_IT_WAS] }
-  if (said.clashed.length > 0) {
-    return {
-      refusals: [
-        ...said.clashed.map((one) => `${one} — the change carries a conflict here`),
-        CLASHED,
-      ],
-    }
-  }
   const running = holding.running
   const gate = running.checks ? judging : NO_GATE
   const moving = [...moves, ...(holding.moves ?? [])]
-  const stated = rowsOf(said.held)
+  const stated = rowsOf(holding.held)
   if ("why" in stated) return { refusals: [stated.why, KEPT_AS_IT_WAS] }
   const prepared = preparing(root, head, stated.rows, moving, holding.formatted)
   if ("refusals" in prepared) return { refusals: [...prepared.refusals, UNEXPORTABLE] }
   const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null)
-    warrantedAgain(root, agentId, said.held, said.moved)
-  const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
+    warrantedAgain(root, head, agentId, holding.held)
+  const asRead = agentId === null ? [] : asReadOf(root, agentId, holding.held)
   const done = await landing(
     root,
     prepared.changes,
@@ -281,7 +275,7 @@ export async function applied(
     prepared.over
   )
   if ("refusals" in done) return done
-  carryLanded(root, head, running, prepared.changes, [], owedOf(said.held))
+  carryLanded(root, head, running, prepared.changes, [], owedOf(holding.held))
   if (agentId !== null) recordedAsLanded(root, agentId, prepared.authored)
   const put = installingIn(root, prepared.changes)
   return {

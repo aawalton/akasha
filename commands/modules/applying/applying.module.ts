@@ -44,10 +44,6 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch is rebased onto the commit at HEAD before the patch is applied.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An apply stating no read is judged against the commit at HEAD.",
     },
     {
@@ -60,31 +56,11 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "The bodies the rebase leaves are what land.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A move the caller names is handed to the landing the apply makes.",
     },
     {
       invariantKind: "departure",
       statement: "A move the bodies handed in name is handed on beside the caller's moves.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A conflict refuses the apply and leaves the patch as the patch was.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A patch with a conflict does not apply.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body with the marks a merge left is a body with a conflict.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every path the patch has a conflict at is named in the refusal.",
     },
     {
       invariantKind: "departure",
@@ -143,19 +119,13 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the patch's base and HEAD hold alike was read when that path was drafted.",
+      statement:
+        "A reading is recorded again from the body at HEAD for every path the apply writes.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading for a path that did not move is recorded again from the body at HEAD.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path that moved under the patch has no reading recorded for that path.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The warrant refuses a path that moved until the agent reads the body that moved.",
+      statement:
+        "The change was replayed onto that body, so that body is what the writer worked on.",
     },
     {
       invariantKind: "departure",

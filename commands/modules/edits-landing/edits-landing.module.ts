@@ -11,8 +11,28 @@ export const editsLanding = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A body is worked out by replaying the answer rather than read off the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answer is replayed onto the commit at HEAD rather than onto the tree.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A body is worked out by replaying the answer onto the tree rather than read off the answer.",
+        "A path that commit holds nothing at is read off the tree, so an add is refused there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit that will not replay refuses, and nothing is merged onto anything.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names each path a rename moved since the change was drafted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path renamed twice is named by the path the last rename left that body at.",
     },
     {
       invariantKind: "departure",

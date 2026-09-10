@@ -3,7 +3,6 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { noImportersFiled } from "@akasha/indexes/testing"
 import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
-import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
 import type { Running } from "../drafting/drafting.module.code.ts"
 import { landing } from "../landing/landing.module.code.ts"
 import {
@@ -120,25 +119,13 @@ test("an apply the gate refused leaves the body as it was and records the readin
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
 })
 
-test("a change carrying a conflict does not apply", async () => {
-  const root = pagesRepo()
-  const marked = `${A}${CLASH_MARK}\nheld\n`
-  const said = await applied(root, AGENT, "applied", ADMITS, null, [], carrying(marked))
-  expect(said).toEqual({
-    refusals: [
-      `${PAGE} — the change carries a conflict here`,
-      "nothing was applied — a change carrying a conflict does not apply",
-    ],
-  })
-})
-
-test("a path the change moved under has no reading recorded", async () => {
+test("a path the change moved under is recorded as read from the body at HEAD", async () => {
   const root = pagesRepo()
   writeFileSync(join(root, PAGE), `// first\n${A}`)
   gitSaid(root, ["add", "--", PAGE])
   gitSaid(root, ["commit", "-q", "-m", "moved", "--", PAGE])
   await applied(root, AGENT, "applied", REFUSES, null, [], carrying(MORE))
-  expect(readingIn(root, AGENT, PAGE)).toBeNull()
+  expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
 })
 
 const UNEXPORTABLE_AT = "akasha/2026-08-20.domain.ts"

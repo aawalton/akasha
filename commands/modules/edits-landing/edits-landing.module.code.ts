@@ -1,21 +1,27 @@
-import { existsSync } from "node:fs"
-import { join } from "node:path"
 import { formattedBody } from "@akasha/code/code-format"
 import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
+  type BodyOf,
   NOT_TEXT,
   notText,
   pathsOf,
   replayed,
 } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type { Answer as Said } from "../../../changes/modules/answer/change-answer.module.types.ts"
-import { bytesOf } from "../../../changes/modules/shadow/change-shadow.module.code.ts"
+import { said as gitSaid } from "../../../git/running/git-running.module.code.ts"
+import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import type { Bodies, Body } from "../drafting/drafting.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 
 const BYTES = new TextEncoder()
 
+const FATAL = new TextDecoder("utf-8", { fatal: true })
+
 const NOT_TEXT_SAID = "is not text, so no body is worked out for it"
+
+const RENAMED = /^R\d+\t(.+)\t(.+)$/
+
+const FOLLOWED_AT_MOST = 32
 
 export function owingIn(said: Said): ReadonlyMap<string, boolean> {
   const owed = new Map<string, boolean>()
@@ -47,14 +53,70 @@ export function movesIn(said: Said): readonly FileMove[] {
   return moves
 }
 
-export function bodiesFrom(root: string, said: Said): Landing | { readonly why: string } {
+function overCommit(root: string, head: string): BodyOf {
+  const onDisk = bodyIn(root)
+  return (path) => {
+    const bytes = bodyAt(root, head, path)
+    if (bytes === null) return onDisk(path)
+    try {
+      return FATAL.decode(bytes)
+    } catch {
+      return NOT_TEXT
+    }
+  }
+}
+
+function wentTo(root: string, head: string, path: string): string | null {
+  const at = gitSaid(root, ["log", "--format=%H", "--diff-filter=D", "-1", head, "--", path]).trim()
+  if (at === "") return null
+  const said = gitSaid(root, ["diff-tree", "-r", "-M", "--no-commit-id", "--name-status", at])
+  for (const line of said.split("\n")) {
+    const found = RENAMED.exec(line)
+    if (found?.[1] === path) return found[2] ?? null
+  }
+  return null
+}
+
+export function renamedTo(root: string, head: string, path: string): string | null {
+  let at = path
+  for (let spun = 0; spun < FOLLOWED_AT_MOST; spun++) {
+    const next = wentTo(root, head, at)
+    if (next === null) break
+    at = next
+    if (bodyAt(root, head, at) !== null) break
+  }
+  return at === path ? null : at
+}
+
+function goneSaid(root: string, head: string, said: Said, over: BodyOf): readonly string[] {
+  const notes: string[] = []
+  const seen = new Set<string>()
+  for (const one of said.edits) {
+    for (const path of pathsOf(one)) {
+      if (seen.has(path)) continue
+      seen.add(path)
+      if (over(path) !== null) continue
+      const to = renamedTo(root, head, path)
+      if (to !== null) notes.push(`\`${path}\` was renamed to \`${to}\` since it was read`)
+    }
+  }
+  return notes
+}
+
+export function bodiesFrom(
+  root: string,
+  head: string,
+  said: Said
+): Landing | { readonly why: string } {
   const moves = movesIn(said)
   const moved = new Set(moves.flatMap((one) => [one.from, one.to]))
-  const reads = bodyIn(root)
+  const over = overCommit(root, head)
   const after = replayed(said, (path) =>
-    moved.has(path) ? (existsSync(join(root, path)) ? NOT_TEXT : null) : reads(path)
+    moved.has(path) ? (over(path) === null ? null : NOT_TEXT) : over(path)
   )
-  if ("refused" in after) return { why: after.refused }
+  if ("refused" in after) {
+    return { why: [after.refused, ...goneSaid(root, head, said, over)].join("\n") }
+  }
   const owed = owingIn(said)
   const held = new Map<string, Body>()
   const formatted = new Map<string, Uint8Array>()
@@ -65,7 +127,7 @@ export function bodiesFrom(root: string, said: Said): Landing | { readonly why: 
     if (done !== null) formatted.set(path, done.body)
     const owes = owed.get(path)
     held.set(path, {
-      was: bytesOf(reads(path)),
+      was: bodyAt(root, head, path),
       body: done === null ? null : done.body,
       ...(owes === undefined ? {} : { readersOweReading: owes }),
     })
