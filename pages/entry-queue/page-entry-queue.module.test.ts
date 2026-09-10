@@ -16,6 +16,8 @@ const FIRST = `${DIR}/held.model-test.cases.jsonl`
 
 const SECOND = `${DIR}/held.model-test.cases.part2.jsonl`
 
+const FIRST_OUTSIDE = `${DIR}/held.model-test.cases.uncommitted.jsonl`
+
 const SLUG = "cases"
 
 const HELD = "jsonl"
@@ -162,6 +164,18 @@ test("nothing waits on the disk while a value is handed over", async () => {
   expect(took).toBeLessThan(500)
   await queue.flushed()
   expect(readBack(root).length).toBe(5000)
+})
+
+test("a property held uncommitted reaches the files page-entry-landing names for that", async () => {
+  const root = rooted()
+  const made = queueAt(root, PAGE, SLUG, HELD, WIDE, true)
+  if ("refused" in made) throw new Error(made.refused)
+  made.queue.write({ at: 1 })
+  await made.queue.flushed()
+
+  expect(made.queue.at()).toBe(FIRST_OUTSIDE)
+  expect(readFileSync(join(root, FIRST_OUTSIDE), "utf8")).toBe('{"at":1}\n')
+  expect(existsSync(join(root, FIRST))).toBe(false)
 })
 
 test("a queue made over a file already holding values adds to that file", async () => {

@@ -29,9 +29,10 @@ export function queueAt(
   page: string,
   propertySlug: string,
   held: string,
-  ceiling: number
+  ceiling: number,
+  uncommitted = false
 ): Queued {
-  const opened = openedAt(root, page, propertySlug, held)
+  const opened = openedAt(root, page, propertySlug, held, uncommitted)
   if ("refused" in opened) return opened
   let filling: Filling = opened.filling
   let refused: string | null = null
