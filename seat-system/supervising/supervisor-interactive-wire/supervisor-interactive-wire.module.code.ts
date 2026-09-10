@@ -24,7 +24,7 @@ import type {
   InheritedProc,
 } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 import { triggerProxySwap } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
-import { liveIdleRule } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import { LIVE_IDLE_RULE } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import type { InteractiveSessionBoot } from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 
 export interface IterationWiring {
@@ -52,7 +52,7 @@ export async function wireIteration(args: {
 }): Promise<IterationWiring> {
   const { proc, agentIdHandle, proxy } = args
   const actionSubsystem = buildAgentActionSubsystem({
-    idleRule: liveIdleRule,
+    idleRule: LIVE_IDLE_RULE,
     deferredRestartRule: liveDeferredRestartRule,
     killProc: () => proc.kill("SIGTERM"),
     getClaudePid: () => proc.pid,

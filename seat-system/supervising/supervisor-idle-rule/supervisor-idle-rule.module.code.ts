@@ -87,7 +87,7 @@ export function askPastCliff(
   )
 }
 
-export const liveIdleRule: IdleRuleSource = {
+export const LIVE_IDLE_RULE: IdleRuleSource = {
   ignoredMcpCmdlines: (cmdlines) => askIgnoredMcpCmdlines(cmdlines),
   preservingRestart: (obs) => askPreservingRestart(obs),
   pastCliff: (obs) => askPastCliff(obs),

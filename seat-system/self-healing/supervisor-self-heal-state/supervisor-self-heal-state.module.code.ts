@@ -3,7 +3,7 @@ import { LOG } from "../../supervising/supervisor-config/supervisor-config.modul
 import { armDeferredRestart } from "../../supervising/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type { DeferredRestartRuleSource } from "../../supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { isProcessAlive } from "../../supervising/supervisor-exec/supervisor-exec.module.code.ts"
-import { liveIdleRule } from "../../supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import { LIVE_IDLE_RULE } from "../../supervising/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import {
   reExecAsked,
   takeReExecAsk,
@@ -48,7 +48,7 @@ const defaultArmReExecGate: ArmReExecGate = (opts) =>
     getProxyPort: SELF_HEAL_STATE.getProxyPortForSelfHeal,
     getAgentId: () => SELF_HEAL_STATE.currentAgentIdForSelfHeal,
     onIdle: opts.onIdle,
-    idleRule: liveIdleRule,
+    idleRule: LIVE_IDLE_RULE,
     deferredRestartRule: SELF_HEAL_STATE.deferredRestartRuleForSelfHeal,
     maxDeferMs: opts.maxDeferMs,
     log: (line) => console.log(`${LOG} Self-heal ${line}`),
