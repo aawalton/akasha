@@ -131,9 +131,7 @@ test("a file a lua runtime library's config names is compiled by that config rat
   const lua = "language-design/lua-compiler"
   expect(claimed(`${lua}/performance-global/performance-global.type-declaration.d.ts`)).toBe(true)
   expect(claimed(`${lua}/lualibs/whatever/whatever.lualib.code.ts`)).toBe(true)
-  expect(claimed("checks/code-checks/pages/typecheck/typecheck.code-check.check.code.ts")).toBe(
-    false
-  )
+  expect(claimed("humming/humming.hum.code.ts")).toBe(false)
 })
 
 test("a satisfies clause is narrowed where it stands, and the body keeps every line it had", () => {
