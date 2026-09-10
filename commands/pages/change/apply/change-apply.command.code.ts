@@ -6,7 +6,7 @@ import {
   applyWith,
 } from "../../../modules/apply-running/apply-running.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { CHANGE_APPLY_PAGE } from "../../../modules/change-costing/change-costing.module.code.ts"
+import { CHANGE_APPLY_SLUG } from "../../../modules/change-costing/change-costing.module.code.ts"
 import {
   type Chosen,
   changing,
@@ -27,7 +27,7 @@ export const CHOSEN: Chosen = {
   said: APPLIES,
   drafts: false,
   barred: ["draft"],
-  at: CHANGE_APPLY_PAGE,
+  slug: CHANGE_APPLY_SLUG,
 }
 
 export async function changeApply(argv: readonly string[], given: Given): Promise<Answer> {

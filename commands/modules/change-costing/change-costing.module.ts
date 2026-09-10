@@ -7,10 +7,19 @@ export const changeCosting = {
   slug: "change-costing",
   definition: "what one run of a change or an apply cost, appended beside that command's page",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A run's cost is appended beside the page of the command that ran.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where that command's page sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug the index answers nothing for refuses the run rather than recording it.",
     },
     {
       invariantKind: "departure",

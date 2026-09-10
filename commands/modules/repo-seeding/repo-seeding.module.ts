@@ -39,6 +39,11 @@ export const repoSeeding = {
       statement: "A write goes up the road a command takes from the arguments to the commit.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "The command a run's cost is recorded beside is filed in the index a seeded repository carries.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reaches the repository this repository is seeded from.",
     },

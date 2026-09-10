@@ -34,6 +34,7 @@ import {
 } from "../argument-reading/argument-reading.module.code.ts"
 import type { Answer } from "../calling/calling.module.code.ts"
 import { NO_PAGE, saidOf, waitingSaid } from "../change-acting/change-acting.module.code.ts"
+import { commandPageAt } from "../change-costing/change-costing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { unknownIn } from "../flags/command-flags.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
@@ -297,7 +298,7 @@ export type Chosen = {
   readonly said: string
   readonly drafts: boolean | null
   readonly barred: readonly string[]
-  readonly at: string
+  readonly slug: string
 }
 
 export function barredIn(given: Arguments, chosen: Chosen): readonly string[] {
@@ -349,7 +350,15 @@ export async function changing(
     paths = new Set(made.edits.flatMap(pathsOf)).size
     return made
   })
-  costRecorded(root, chosen.at, before, CHANGE, slug, paths, answered.refusals.length)
+  costRecorded(
+    root,
+    commandPageAt(root, chosen.slug),
+    before,
+    CHANGE,
+    slug,
+    paths,
+    answered.refusals.length
+  )
   if (answered.code !== 0) return answered
   if (drafts) {
     return { ...answered, report: [...answered.report, keptSaid(page, LANDS)] }

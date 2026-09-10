@@ -6,6 +6,7 @@ import type { Phase } from "akasha/checks/modules/checking/checking.module.code.
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { warrantsSeeded } from "akasha/context/modules/warranting/warranting.module.test-fixtures.ts"
 import {
+  listedFiled,
   noImportersFiled,
   pageFiled,
 } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
@@ -20,7 +21,7 @@ import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
 import { applyWith } from "../apply-running/apply-running.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
-import { CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
+import { CHANGE_APPLY_SLUG } from "../change-costing/change-costing.module.code.ts"
 import { appending, textIn } from "../change-running/change-running.module.code.ts"
 import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
 import { inputIn } from "../piping/piping.module.code.ts"
@@ -43,6 +44,12 @@ export const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
 
 export const SEAT_AT = "akasha/seat-system/seats/pages/tester.seat.ts"
 
+const COMMAND = "command"
+
+const APPLY_AT = "akasha/change-apply.command.ts"
+
+const APPLY_ID = "01a04a4a-0002-7000-8000-00000000000b"
+
 export const scratch = scratchWorld()
 
 export const git = gitIn
@@ -59,11 +66,12 @@ function builtAt(root: string, named: Readonly<Record<string, string>>): string 
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
-  put(root, CHANGE_APPLY_PAGE, "export const changeApply = {}\n")
+  put(root, APPLY_AT, "export const changeApply = {}\n")
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
   checking(root, "admits", ADMITS_CODE)
   warrantsSeeded(root)
   pageFiled(root, AGENT, SEAT_AT)
+  listedFiled(root, COMMAND, CHANGE_APPLY_SLUG, [{ path: APPLY_AT, id: APPLY_ID }])
   noImportersFiled(root)
   return root
 }

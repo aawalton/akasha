@@ -2,7 +2,7 @@ import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.modu
 import { loadedAt } from "akasha/changes/runners/change-loading/change-loading.module.code.ts"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import { CHANGE_DRAFT_PAGE } from "../../../modules/change-costing/change-costing.module.code.ts"
+import { CHANGE_DRAFT_SLUG } from "../../../modules/change-costing/change-costing.module.code.ts"
 import {
   type Chosen,
   changing,
@@ -19,7 +19,7 @@ export const CHOSEN: Chosen = {
   said: DRAFTS,
   drafts: true,
   barred: ["draft", "message", "measure"],
-  at: CHANGE_DRAFT_PAGE,
+  slug: CHANGE_DRAFT_SLUG,
 }
 
 async function nothing(): Promise<Answer> {

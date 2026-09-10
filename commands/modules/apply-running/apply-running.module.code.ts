@@ -17,7 +17,11 @@ import {
 } from "../argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { waitingSaid } from "../change-acting/change-acting.module.code.ts"
-import { APPLY, CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
+import {
+  APPLY,
+  CHANGE_APPLY_SLUG,
+  commandPageAt,
+} from "../change-costing/change-costing.module.code.ts"
 import { noPageSaid } from "../change-running/change-running.module.code.ts"
 import { headOf, type Running } from "../drafting/drafting.module.code.ts"
 import { landingFrom } from "../edits-landing/edits-landing.module.code.ts"
@@ -145,7 +149,8 @@ export async function applyWith(taken: Arguments, given: Given): Promise<Answer>
   const before = opening()
   const done = await ending(taken, given)
   const refusals = done.answer.refusals.length
-  costRecorded(given.root, CHANGE_APPLY_PAGE, before, APPLY, APPLY, done.paths, refusals)
+  const page = commandPageAt(given.root, CHANGE_APPLY_SLUG)
+  costRecorded(given.root, page, before, APPLY, APPLY, done.paths, refusals)
   return done.answer
 }
 

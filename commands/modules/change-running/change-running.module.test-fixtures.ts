@@ -40,15 +40,26 @@ const SPARE: Readonly<Record<string, string>> = {
   [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
 }
 
-const DRAFT_AT = "commands/pages/change/draft/change-draft.command.ts"
+const DRAFT_AT = "akasha/change-draft.command.ts"
+
+const DRAFT_SLUG = "change-draft"
+
+const COMMAND_TYPE_AT = "akasha/command.page-type.ts"
 
 const DRAFT_COMMAND: Readonly<Record<string, string>> = {
+  [COMMAND_TYPE_AT]: pageOf({
+    id: "01a04a4a-0003-7000-8000-000000000001",
+    pageTypeSlug: "page-type",
+    slug: "command",
+    definition: "a call an indexed repository carries",
+    extends: ["page-type/domain"],
+    properties: [],
+  }),
   [DRAFT_AT]: pageOf({
-    id: "01a04a4a-0001-7000-8000-00000000000a",
+    id: "01a04a4a-0003-7000-8000-000000000002",
     pageTypeSlug: "command",
-    slug: "change-draft",
+    slug: DRAFT_SLUG,
     definition: "the command a run records what that run cost beside",
-    code: "ts",
   }),
 }
 
@@ -56,7 +67,7 @@ export const CHOSEN: Chosen = {
   said: "change",
   drafts: null,
   barred: [],
-  at: DRAFT_AT,
+  slug: DRAFT_SLUG,
 }
 
 let given: Readonly<Record<string, string>> = {}
