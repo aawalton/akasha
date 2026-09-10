@@ -59,7 +59,7 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "An approved change opens one heredoc or none.",
+      statement: "An approved change opens one heredoc or no heredoc.",
     },
     {
       invariantKind: "departure",
