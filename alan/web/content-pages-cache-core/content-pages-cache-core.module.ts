@@ -7,7 +7,16 @@ export const contentPagesCacheCore = {
   slug: "content-pages-cache-core",
   definition: "the shape a held index of content pages is kept in",
   code: "ts",
+  test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A chapter is written through the offline writer and read back here in one test.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That test takes its keys from the writer rather than from a page built to fit.",
+    },
     {
       invariantKind: "constraint",
       statement:

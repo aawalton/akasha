@@ -83,12 +83,18 @@ async function findChapterById(
 
 const chapterProseRowSchema = z.object({ body: z.string().nullable().optional() }).passthrough()
 
-export async function loadChapterForOffline(chapterId: string): Promise<Page | null> {
-  const found = await findChapterById(chapterId, ["id", "title", "position", "ownLength", "body"])
-  if (found === null) return null
-  const parsed = chapterProseRowSchema.parse(found.values)
+export const OFFLINE_CHAPTER_KEYS = ["id", "title", "position", "ownLength", "body"] as const
+
+export function chapterPageForOffline(values: Values): Page | null {
+  const parsed = chapterProseRowSchema.parse(values)
   if (parsed.body == null || parsed.body === "") return null
-  return asPage({ ...found.values, text: parsed.body })
+  return asPage({ ...values, text: parsed.body })
+}
+
+export async function loadChapterForOffline(chapterId: string): Promise<Page | null> {
+  const found = await findChapterById(chapterId, OFFLINE_CHAPTER_KEYS)
+  if (found === null) return null
+  return chapterPageForOffline(found.values)
 }
 
 const NO_KEYED_WRITE = "the page store refuses every keyed write"

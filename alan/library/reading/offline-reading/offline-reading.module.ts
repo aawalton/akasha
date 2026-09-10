@@ -14,6 +14,11 @@ export const offlineReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The keys a chapter is asked for, and the page shaped from them, are exported apart from the fetch.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Both writers here land through a keyed patch.",
     },
     {
