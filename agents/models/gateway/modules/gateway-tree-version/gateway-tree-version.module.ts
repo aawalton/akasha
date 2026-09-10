@@ -31,7 +31,7 @@ export const gatewayTreeVersion = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier none of those three find is refused.",
+      statement: "A specifier that resolves nowhere is refused.",
     },
     {
       invariantKind: "absence",
