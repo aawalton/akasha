@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
+import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
 
 export const lifesteal = {
   id: "01a05fce-294a-75c2-8a78-abc3f5175db6",

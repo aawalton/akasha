@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
+import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
 
 export const intellectAndEndurance = {
   id: "01a05fce-2949-72ab-aa5f-f1124d51dc9a",

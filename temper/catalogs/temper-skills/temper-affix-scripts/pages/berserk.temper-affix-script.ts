@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
+import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
 
 export const berserk = {
   id: "01a05fce-2944-70a0-88d6-b7e0897de2ec",

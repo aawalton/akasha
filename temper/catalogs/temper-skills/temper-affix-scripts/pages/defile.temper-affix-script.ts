@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
+import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
 
 export const defile = {
   id: "01a05fce-2947-73bb-b69c-5303a41d4f51",

@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
+import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
 
 export const mangle = {
   id: "01a05fce-294b-73b2-b3d4-71a5eca2bfb3",

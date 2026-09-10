@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
+import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
 
 export const uncertainty = {
   id: "01a05fce-294c-7336-bb81-f490307d7fdd",

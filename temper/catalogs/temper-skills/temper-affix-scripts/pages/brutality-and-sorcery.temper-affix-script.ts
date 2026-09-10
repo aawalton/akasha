@@ -1,4 +1,4 @@
-import type { TemperAffixScript } from "../temper-affix-script.page-type.ts"
+import type { TemperAffixScript } from "../temper-affix-script.page-type.types.ts"
 
 export const brutalityAndSorcery = {
   id: "01a05fce-2946-7a6e-8edc-b2900cebae87",
