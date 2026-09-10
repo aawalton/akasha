@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Host } from "../hosts/host.page-type.ts"
-import type { TalosSecrets } from "./properties/talos-secrets.text-property.ts"
-
-export type Cluster = Host & {
-  talosSecrets?: TalosSecrets
-}
 
 export const cluster = {
   id: "01a06835-e289-7833-a83f-42355181b6da",
@@ -42,4 +36,5 @@ export const cluster = {
       statement: "Work stops on a machine the moment a person starts using that machine.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
