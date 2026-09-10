@@ -14,7 +14,8 @@ export const fallingChecks = {
     },
     {
       invariantKind: "departure",
-      statement: "A harness is handed the name, whether it held, and what it saw.",
+      statement:
+        "A harness is handed the name and whether the check held and the reading the check saw.",
     },
     {
       invariantKind: "departure",
@@ -30,15 +31,20 @@ export const fallingChecks = {
     },
     {
       invariantKind: "departure",
-      statement: "A harness keeps for itself the assertions on the stoplight struct it declares.",
+      statement:
+        "A harness keeps for itself the assertions on the stoplight struct that harness declares.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here counts a failure or names a passing one.",
+      statement: "Nothing here counts a failure or names a check that passed.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a clock, every moment being spelled out.",
+      statement: "Nothing here reads a clock.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Every moment is spelled out.",
     },
     {
       invariantKind: "absence",
