@@ -47,7 +47,7 @@ export type Answering = (argv: readonly string[], given: Given) => Answer | Prom
 
 export type Surface = {
   readonly taking: Taking
-  readonly helpNotes: readonly HelpNotes[]
+  readonly helpNotes: HelpNotes
 }
 
 export const HELP = "--help"
@@ -207,7 +207,7 @@ function surfaceOf(page: Record<string, unknown> | null): Surface | null {
   if (!Array.isArray(helpNotes)) return null
   return {
     taking: (Array.isArray(taking) ? taking : []) as Taking,
-    helpNotes: helpNotes as readonly HelpNotes[],
+    helpNotes: helpNotes as HelpNotes,
   }
 }
 

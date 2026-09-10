@@ -10,7 +10,7 @@ export type Command = Module & {
   changeKind: ChangeKind
   timeout?: Timeout
   taking?: Taking
-  helpNotes?: readonly HelpNotes[]
+  helpNotes?: HelpNotes
   entries?: Entries
 }
 
