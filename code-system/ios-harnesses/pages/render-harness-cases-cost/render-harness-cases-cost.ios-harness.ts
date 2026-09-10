@@ -22,7 +22,11 @@ export const renderHarnessCasesCost = {
     },
     {
       invariantKind: "departure",
-      statement: "The wide case is drawn to read five hours eighteen minutes left, the widest.",
+      statement: "The wide case is drawn to read five hours eighteen minutes left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That wait is the widest a caption draws.",
     },
     {
       invariantKind: "constraint",
@@ -30,7 +34,8 @@ export const renderHarnessCasesCost = {
     },
     {
       invariantKind: "departure",
-      statement: "A surplus already under a rung is drawn re-aimed at the rung under that, in red.",
+      statement:
+        "A surplus already under a rung is drawn in red re-aimed at the rung under that rung.",
     },
     {
       invariantKind: "departure",
@@ -42,8 +47,11 @@ export const renderHarnessCasesCost = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A surplus not falling still colors the cost, so that ring is red rather than yellow.",
+      statement: "A surplus not falling still colors the cost.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That ring is red rather than yellow.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +59,11 @@ export const renderHarnessCasesCost = {
     },
     {
       invariantKind: "departure",
-      statement: "A surplus is stated by the wait wanted, the figure being worked back from it.",
+      statement: "A surplus is stated by the wait wanted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The figure is worked back from that wait.",
     },
     {
       invariantKind: "departure",
@@ -63,11 +75,19 @@ export const renderHarnessCasesCost = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here judges an image, and a person reads what was drawn.",
+      statement: "Nothing here judges an image.",
     },
     {
       invariantKind: "gap",
-      statement: "No image was drawn where these were written, that machine having no simulator.",
+      statement: "A person reads the drawing.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "No image was drawn where these cases were written.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "That machine has no simulator.",
     },
   ],
 } as const satisfies IosHarness
