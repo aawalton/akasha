@@ -1,4 +1,4 @@
-import type { PageAddressKind } from "../page-address-kind.page-type.ts"
+import type { PageAddressKind } from "../page-address-kind.page-type.types.ts"
 
 export const inPageType = {
   id: "01a0731d-f93f-7a75-9681-507d854cc958",

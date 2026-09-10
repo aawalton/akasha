@@ -1,7 +1,4 @@
-import type { Module } from "@akasha/code/module"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type PageAddressKind = Module
 
 export const pageAddressKind = {
   id: "01a0731d-07e7-77ea-85a1-aac50ce5d3b2",
@@ -42,4 +39,5 @@ export const pageAddressKind = {
       statement: "Finding a page reads one file.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
