@@ -11,7 +11,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's app fills his password in from 1Password.",
       workingMemory:
-        'The form is already right: a real `<form>`, `type="password"`, `autoComplete="current-password"` (`auth-page-content.module.code.tsx:128-164`). Missing is the pairing iOS matches a credential on: the app entitlements declare no `com.apple.developer.associated-domains`, and no `apple-app-site-association` is served. The webview also runs under `capacitor://localhost`, no https origin. Past both, `alanwalton-keyboard-accessory-suppressor` nils `inputAccessoryView`, taking away the AutoFill bar.\n',
+        "The form is already right, so order matters. `alanwalton-keyboard-accessory-suppressor` nils `inputAccessoryView` by default, taking away the bar 1Password fills from, so nothing is offered at all: mend that first. Do not reach for an https origin — `capacitor://localhost` is named in 29 files, among them the auth-proxy manifest, the CORS module, the media and error routes, and the widget tap links. The entitlements declare no `com.apple.developer.associated-domains`.\n",
     },
     {
       statement: "Alan and Jenny have one widget between them for Alan's multiplier.",
