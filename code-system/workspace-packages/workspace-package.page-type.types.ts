@@ -4,7 +4,7 @@ import type { ToolReached } from "./properties/tool-reached.text-property.ts"
 import type { TunnelRoutes } from "./properties/tunnel-routes.code-file-property.ts"
 
 export type WorkspacePackage = Domain & {
-  manifest: Manifest
+  manifest?: Manifest
   tunnelRoutes?: TunnelRoutes
   toolReached?: ToolReached
 }

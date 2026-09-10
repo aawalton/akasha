@@ -14,7 +14,7 @@ export const workspacePackage = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pageProperty: "file-property/manifest", required: true, many: false },
+    { pageProperty: "file-property/manifest", required: false, many: false },
     { pageProperty: "code-file-property/tunnel-routes", required: false, many: false },
     { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
