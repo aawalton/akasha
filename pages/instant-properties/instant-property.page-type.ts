@@ -1,7 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type InstantProperty = PageProperty
 
 export const instantProperty = {
   id: "01a053de-99ba-762f-9c2f-ba77a8468f7a",
@@ -21,4 +18,5 @@ export const instantProperty = {
       statement: "An instant property's slug closes with `-at`.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

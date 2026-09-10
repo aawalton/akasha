@@ -1,4 +1,4 @@
-import type { InstantProperty } from "@akasha/pages/instant-property"
+import type { InstantProperty } from "akasha/pages/instant-properties/instant-property.page-type.types.ts"
 
 export type DeviceTokenLastSeenAt = string
 
