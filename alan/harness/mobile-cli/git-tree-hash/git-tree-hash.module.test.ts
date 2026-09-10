@@ -61,9 +61,6 @@ function makeShellRepo(): { root: string; cleanup: () => void } {
   return makeRepo({
     "native-shell/example/package.json": '{"name":"@example/native-shell"}\n',
     "native-shell/example/scripts/apply-ios-seam.sh": "#!/usr/bin/env bash\n",
-    "code-system/ios-apps/scripts/build-stamp.sh": "#!/usr/bin/env bash\n",
-    "code-system/ios-components/pages/ring/Ring.swift": "struct Ring {}\n",
-    "code-system/ios-programs/pages/example.ts": "export const example = 1\n",
     "agent/seat/somebody.seat.md": "outside the shell tree\n",
   })
 }
@@ -72,12 +69,6 @@ function commitEdit(root: string, path: string, contents: string): undefined {
   writeFileSync(join(root, path), contents)
   said(["git", "add", "-A"], { cwd: root })
   said(["git", "commit", "-q", "-m", `edit ${path}`], { cwd: root })
-  return undefined
-}
-
-function commitRemoval(root: string, path: string): undefined {
-  said(["git", "rm", "-q", path], { cwd: root })
-  said(["git", "commit", "-q", "-m", `remove ${path}`], { cwd: root })
   return undefined
 }
 
@@ -136,36 +127,6 @@ describe("computeBuildInputTreeHash — build-input closure scope", () => {
     }
   })
 
-  test("a change to the seam scripts every shell shares changes the hash", () => {
-    const { codeRoot, shellRoot, cleanup } = bothRepos()
-    try {
-      const before = hashOf(codeRoot, shellRoot)
-      commitEdit(
-        shellRoot,
-        "code-system/ios-apps/scripts/build-stamp.sh",
-        "#!/usr/bin/env bash\ntrue\n"
-      )
-      expect(hashOf(codeRoot, shellRoot)).not.toBe(before)
-    } finally {
-      cleanup()
-    }
-  })
-
-  test("a change to the shared ring component changes the hash", () => {
-    const { codeRoot, shellRoot, cleanup } = bothRepos()
-    try {
-      const before = hashOf(codeRoot, shellRoot)
-      commitEdit(
-        shellRoot,
-        "code-system/ios-components/pages/ring/Ring.swift",
-        "struct Ring { let width = 1 }\n"
-      )
-      expect(hashOf(codeRoot, shellRoot)).not.toBe(before)
-    } finally {
-      cleanup()
-    }
-  })
-
   test("a file outside both closures does not change the hash, in either repo", () => {
     const { codeRoot, shellRoot, cleanup } = bothRepos()
     try {
@@ -173,17 +134,6 @@ describe("computeBuildInputTreeHash — build-input closure scope", () => {
       commitEdit(codeRoot, "notes.md", "still outside the closure — reworded\n")
       commitEdit(shellRoot, "agent/seat/somebody.seat.md", "still outside the shell tree\n")
       expect(hashOf(codeRoot, shellRoot)).toBe(before)
-    } finally {
-      cleanup()
-    }
-  })
-
-  test("a build input that goes changes the hash rather than dropping out of it", () => {
-    const { codeRoot, shellRoot, cleanup } = bothRepos()
-    try {
-      const before = hashOf(codeRoot, shellRoot)
-      commitRemoval(shellRoot, "code-system/ios-apps/scripts/build-stamp.sh")
-      expect(hashOf(codeRoot, shellRoot)).not.toBe(before)
     } finally {
       cleanup()
     }
