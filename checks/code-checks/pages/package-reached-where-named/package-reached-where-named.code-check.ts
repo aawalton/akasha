@@ -10,7 +10,7 @@ export const packageReachedWhereNamed = {
   runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
