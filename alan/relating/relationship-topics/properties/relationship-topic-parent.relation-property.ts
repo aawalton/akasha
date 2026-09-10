@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type RelationshipTopicParent = Slug
 
 export const relationshipTopicParent = {
   id: "01a0658a-170f-7c05-8369-b3621821f19c",
@@ -11,4 +8,5 @@ export const relationshipTopicParent = {
   propertySlug: "relationship-topic-parent",
   definition: "the relationship topic this one sits inside",
   targetPageType: "page-type/relationship-topic",
+  types: "ts",
 } as const satisfies RelationProperty

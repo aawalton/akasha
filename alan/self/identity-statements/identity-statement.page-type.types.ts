@@ -6,12 +6,12 @@ import type { IdentityStatementLevel } from "./properties/identity-statement-lev
 import type { IdentityStatementRank } from "./properties/identity-statement-rank.select-property.types.ts"
 import type { IdentityStatementStatus } from "./properties/identity-statement-status.select-property.types.ts"
 import type { IdentityStatementTags } from "./properties/identity-statement-tags.text-property.ts"
-import type { IdentityStatementValue } from "./properties/identity-statement-value.relation-property.ts"
+import type { IdentityStatementValue } from "./properties/identity-statement-value.relation-property.types.ts"
 import type { NotionId } from "./properties/notion-id.text-property.ts"
-import type { ParentStatement } from "./properties/parent-statement.relation-property.ts"
-import type { ReplacedByStatements } from "./properties/replaced-by-statements.relation-property.ts"
-import type { ReplacesStatements } from "./properties/replaces-statements.relation-property.ts"
-import type { SubStatements } from "./properties/sub-statements.relation-property.ts"
+import type { ParentStatement } from "./properties/parent-statement.relation-property.types.ts"
+import type { ReplacedByStatements } from "./properties/replaced-by-statements.relation-property.types.ts"
+import type { ReplacesStatements } from "./properties/replaces-statements.relation-property.types.ts"
+import type { SubStatements } from "./properties/sub-statements.relation-property.types.ts"
 
 export type IdentityStatement = Page & {
   title: Title

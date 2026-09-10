@@ -1,6 +1,6 @@
 import type { Page } from "../../../../../pages/page.page-type.types.ts"
 import type { OpenQuestion } from "./properties/open-question.text-property.ts"
-import type { QuestionTopic } from "./properties/question-topic.relation-property.ts"
+import type { QuestionTopic } from "./properties/question-topic.relation-property.types.ts"
 
 export type AllAboutAlanQuestion = Page & {
   topic: QuestionTopic

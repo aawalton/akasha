@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type TopicMasteryLevel = Slug
 
 export const topicMasteryLevel = {
   id: "01a0784a-cdb7-7780-bc90-9d5f5a5cc720",
@@ -17,4 +14,5 @@ export const topicMasteryLevel = {
       statement: "A topic is scored at one rung.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

@@ -6,7 +6,7 @@ import type { GbwwPlanKey } from "./properties/gbww-plan-key.text-property.ts"
 import type { GbwwPlanYear } from "./properties/gbww-plan-year.number-property.types.ts"
 import type { GbwwReadingNumber } from "./properties/gbww-reading-number.number-property.types.ts"
 import type { GbwwSection } from "./properties/gbww-section.text-property.ts"
-import type { GbwwStory } from "./properties/gbww-story.relation-property.ts"
+import type { GbwwStory } from "./properties/gbww-story.relation-property.types.ts"
 import type { GbwwWork } from "./properties/gbww-work.text-property.ts"
 
 export type GbwwReading = Collection & {

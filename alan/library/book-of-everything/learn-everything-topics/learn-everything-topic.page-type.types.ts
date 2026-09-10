@@ -8,9 +8,9 @@ import type { TopicCalibrationRead } from "./properties/topic-calibration-read.t
 import type { TopicCapture } from "./properties/topic-capture.record-property.ts"
 import type { TopicCoverage } from "./properties/topic-coverage.computed-property.ts"
 import type { TopicEvidence } from "./properties/topic-evidence.file-property.ts"
-import type { TopicMasteryLevel } from "./properties/topic-mastery-level.relation-property.ts"
+import type { TopicMasteryLevel } from "./properties/topic-mastery-level.relation-property.types.ts"
 import type { TopicNode } from "./properties/topic-node.text-property.ts"
-import type { TopicPartOf } from "./properties/topic-part-of.relation-property.ts"
+import type { TopicPartOf } from "./properties/topic-part-of.relation-property.types.ts"
 import type { TopicScoredOn } from "./properties/topic-scored-on.calendar-date-property.types.ts"
 import type { TopicStatus } from "./properties/topic-status.select-property.types.ts"
 

@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type ColorFrom = Slug
 
 export const colorFrom = {
   id: "01a063bd-a526-7595-8a5b-3e28242bfe2b",
@@ -21,4 +18,5 @@ export const colorFrom = {
       statement: "The figure stays the reading this readout took.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

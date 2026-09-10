@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type Attribute = Slug
 
 export const attribute = {
   id: "01a081ef-0b0a-7889-962d-2e766b9aedee",
@@ -21,4 +18,5 @@ export const attribute = {
       statement: "A readout counting anything else names no attribute.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

@@ -1,8 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type TopicPartOf = List<Slug>
 
 export const topicPartOf = {
   id: "01a0659f-93da-700f-8f41-8714236db415",
@@ -22,4 +18,5 @@ export const topicPartOf = {
       statement: "The whole map sits under nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

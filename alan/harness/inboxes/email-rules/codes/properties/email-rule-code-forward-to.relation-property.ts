@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type EmailRuleCodeForwardTo = Slug
 
 export const emailRuleCodeForwardTo = {
   id: "01a06860-54a0-7c31-a1ec-4d13559b970a",
@@ -14,4 +11,5 @@ export const emailRuleCodeForwardTo = {
   invariants: [
     { invariantKind: "departure", statement: "Forwarding names a person rather than an address." },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type SectionOf = Slug
 
 export const sectionOf = {
   id: "01a08189-6150-743e-b860-1baeba37171d",
@@ -21,4 +18,5 @@ export const sectionOf = {
       statement: "A section's slug is unique among the sections naming the same collection here.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type Artist = Slug
 
 export const artist = {
   id: "01a06243-144b-7006-9730-d6fc5ce88a90",
@@ -11,4 +8,5 @@ export const artist = {
   propertySlug: "artist",
   definition: "the artist whose song it is",
   targetPageType: "page-type/artist",
+  types: "ts",
 } as const satisfies RelationProperty

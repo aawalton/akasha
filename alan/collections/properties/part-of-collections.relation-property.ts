@@ -1,8 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type PartOfCollections = List<Slug>
 
 export const partOfCollections = {
   id: "01a063de-2c60-700b-8db4-bed38f86b940",
@@ -18,4 +14,5 @@ export const partOfCollections = {
       statement: "The parts of a collection are the collections naming that collection here.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

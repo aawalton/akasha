@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type CarYear = Slug
 
 export const carYear = {
   id: "01a06827-645d-7785-a6e3-9c3c06e799fd",
@@ -11,4 +8,5 @@ export const carYear = {
   propertySlug: "car-year",
   definition: "the model year this trim is sold in",
   targetPageType: "page-type/car-year",
+  types: "ts",
 } as const satisfies RelationProperty

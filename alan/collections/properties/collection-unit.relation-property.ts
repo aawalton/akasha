@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type CollectionUnit = Slug
 
 export const collectionUnit = {
   id: "01a063de-2c60-7013-90a9-52d3c0a8908c",
@@ -11,4 +8,5 @@ export const collectionUnit = {
   propertySlug: "unit",
   definition: "what a collection's own lengths are counted in",
   targetPageType: "page-type/unit",
+  types: "ts",
 } as const satisfies RelationProperty

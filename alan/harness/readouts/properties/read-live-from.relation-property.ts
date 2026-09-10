@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type ReadLiveFrom = Slug
 
 export const readLiveFrom = {
   id: "01a06559-e74c-7e30-bbec-7604ae4f8dc5",
@@ -17,4 +14,5 @@ export const readLiveFrom = {
       statement: "A readout naming a service to read live from is answered by no query.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type ValueColor = Slug
 
 export const valueColor = {
   id: "01a06d7a-e9f7-7f1b-b0c4-15f3742e8352",
@@ -17,4 +14,5 @@ export const valueColor = {
       statement: "A value is drawn in this color whatever a reading against that value says.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

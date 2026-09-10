@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type RelationshipDepositValue = Slug
 
 export const relationshipDepositValue = {
   id: "01a0658d-16bc-7b66-83ce-cae8c84b28f2",
@@ -11,4 +8,5 @@ export const relationshipDepositValue = {
   propertySlug: "relationship-deposit-value",
   definition: "the value it served",
   targetPageType: "page-type/value",
+  types: "ts",
 } as const satisfies RelationProperty

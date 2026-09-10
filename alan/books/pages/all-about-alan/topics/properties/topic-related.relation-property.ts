@@ -1,8 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type TopicRelated = List<Slug>
 
 export const topicRelated = {
   id: "01a0655a-b2b5-710b-b693-bb9c1a6e2950",
@@ -22,4 +18,5 @@ export const topicRelated = {
       statement: "A topic already reached through a parent is named here as well.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

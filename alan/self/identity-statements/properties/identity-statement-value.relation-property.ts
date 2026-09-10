@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type IdentityStatementValue = Slug
 
 export const identityStatementValue = {
   id: "01a0658a-739f-7952-921f-4eb125f1399c",
@@ -11,4 +8,5 @@ export const identityStatementValue = {
   propertySlug: "identity-statement-value",
   definition: "the value the statement serves",
   targetPageType: "page-type/value",
+  types: "ts",
 } as const satisfies RelationProperty

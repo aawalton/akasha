@@ -15,8 +15,8 @@ import type { RelationshipNotes } from "./properties/relationship-notes.file-pro
 import type { RelationshipPhone } from "./properties/relationship-phone.phone-number-property.types.ts"
 import type { RelationshipRole } from "./properties/relationship-role.text-property.ts"
 import type { RelationshipSmsAllowed } from "./properties/relationship-sms-allowed.boolean-property.types.ts"
-import type { RelationshipSmsHandlerTarget } from "./properties/relationship-sms-handler-target.relation-property.ts"
-import type { RelationshipTopics } from "./properties/relationship-topics.relation-property.ts"
+import type { RelationshipSmsHandlerTarget } from "./properties/relationship-sms-handler-target.relation-property.types.ts"
+import type { RelationshipTopics } from "./properties/relationship-topics.relation-property.types.ts"
 
 export type Relationship = Page & {
   title: Title

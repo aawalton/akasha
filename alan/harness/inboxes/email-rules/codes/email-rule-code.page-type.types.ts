@@ -2,7 +2,7 @@ import type { EmailRule } from "../email-rule.page-type.types.ts"
 import type { EmailRuleCodeActions } from "./properties/email-rule-code-actions.select-property.types.ts"
 import type { EmailRuleCodeDelay } from "./properties/email-rule-code-delay.text-property.ts"
 import type { EmailRuleCodeFiling } from "./properties/email-rule-code-filing.select-property.types.ts"
-import type { EmailRuleCodeForwardTo } from "./properties/email-rule-code-forward-to.relation-property.ts"
+import type { EmailRuleCodeForwardTo } from "./properties/email-rule-code-forward-to.relation-property.types.ts"
 
 export type EmailRuleCode = EmailRule & {
   filing: EmailRuleCodeFiling

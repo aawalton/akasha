@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type ParentStatement = Slug
 
 export const parentStatement = {
   id: "01a0658a-739f-7ef0-8539-77171f82a139",
@@ -11,4 +8,5 @@ export const parentStatement = {
   propertySlug: "parent-statement",
   definition: "the statement this one sits under",
   targetPageType: "page-type/identity-statement",
+  types: "ts",
 } as const satisfies RelationProperty

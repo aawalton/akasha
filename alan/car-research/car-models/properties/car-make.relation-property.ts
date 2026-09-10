@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type CarMake = Slug
 
 export const carMake = {
   id: "01a0659a-4bc5-7b5d-a286-f3e3942ccd3b",
@@ -11,4 +8,5 @@ export const carMake = {
   propertySlug: "car-make",
   definition: "the make that builds this nameplate",
   targetPageType: "page-type/car-make",
+  types: "ts",
 } as const satisfies RelationProperty

@@ -1,7 +1,7 @@
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { CollectionExternal } from "../../../collections/externals/collection-external.page-type.types.ts"
 import type { ExternalId } from "../../../collections/externals/properties/external-id.text-property.ts"
-import type { Artist } from "./properties/artist.relation-property.ts"
+import type { Artist } from "./properties/artist.relation-property.types.ts"
 import type { Insights } from "./properties/insights.file-property.ts"
 import type { Lyrics } from "./properties/lyrics.file-property.ts"
 import type { LyricsSource } from "./properties/lyrics-source.text-property.ts"

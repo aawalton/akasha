@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type Day = Slug
 
 export const day = {
   id: "01a077c9-150b-7560-ba89-d3c1c8821d62",
@@ -21,4 +18,5 @@ export const day = {
       statement: "The day named is the day the set's own date spells.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

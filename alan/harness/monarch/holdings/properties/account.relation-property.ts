@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type Account = Slug
 
 export const account = {
   id: "01a0680a-1a00-7010-9e43-7f1d8a5b1110",
@@ -17,4 +14,5 @@ export const account = {
       statement: "A holding sits under exactly one account.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty
