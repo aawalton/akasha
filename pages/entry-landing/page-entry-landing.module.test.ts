@@ -9,7 +9,7 @@ import {
 } from "node:fs"
 import { join } from "node:path"
 import { entriesAt } from "../entries/page-entries.module.code.ts"
-import type { Value } from "../value/page-value.module.code.ts"
+import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 import {
   appendedAt,
   landedAt,

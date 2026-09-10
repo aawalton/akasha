@@ -1,6 +1,6 @@
 import { heldOnce, valuesOfType } from "../../indexes/reading/index-reading.module.code.ts"
 import type { Reading } from "../../indexes/shape/index-shape.module.code.ts"
-import { slugsIn, textAt, type Value } from "../../value/page-value.module.code.ts"
+import { slugsIn, textAt, type Value } from "../../value-reading/page-value-reading.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
