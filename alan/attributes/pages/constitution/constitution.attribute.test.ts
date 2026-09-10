@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
-import { answering, refusing } from "akasha/readouts/asking/readout-asking.module.test-fixtures.ts"
-import { ate } from "akasha/readouts/pages/upkeep-plants/upkeep-plants.readout.test-fixtures.ts"
+import {
+  answering,
+  refusing,
+} from "akasha/alan/harness/readouts/asking/readout-asking.module.test-fixtures.ts"
+import { ate } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.test-fixtures.ts"
 import {
   constitutionIn,
   fetchConstitutionPoints,

@@ -2,13 +2,13 @@ import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.cod
 import {
   capacityHoursOf,
   capacityIn,
-} from "akasha/readouts/pages/upkeep-capacity/upkeep-capacity.readout.code.ts"
-import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
+} from "akasha/alan/harness/readouts/pages/upkeep-capacity/upkeep-capacity.readout.code.ts"
+import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { dayValuesByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
-export const READOUT_PAGE = "readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts"
+export const READOUT_PAGE = "alan/harness/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts"
 
 const HEALTH_CAPACITY_HOURS = "health-capacity-hours"
 

@@ -1,5 +1,4 @@
-import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
-import { READOUT_CACHE_CONTROL } from "akasha/readouts/credential/readout-credential.module.code.ts"
+import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readouts/credential/readout-credential.module.code.ts"
 import {
   HABIT,
   inPlaceOrder,
@@ -9,13 +8,17 @@ import {
   stilled,
   stoplightOf,
   type Values,
-} from "akasha/readouts/group-serving/readout-group-serving.module.code.ts"
-import { stated } from "akasha/readouts/none-left/readout-none-left.module.code.ts"
+} from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
+import { stated } from "akasha/alan/harness/readouts/none-left/readout-none-left.module.code.ts"
 import {
   noReading,
   type RingAdmission,
-} from "akasha/readouts/serving/readout-serving.module.code.ts"
-import { BELOW_EVERY_RUNG, readingSaid } from "akasha/readouts/tier/readout-tier.module.code.ts"
+} from "akasha/alan/harness/readouts/serving/readout-serving.module.code.ts"
+import {
+  BELOW_EVERY_RUNG,
+  readingSaid,
+} from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
+import { askingFor } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
 import { costColorAt } from "../color/cost-color.module.code.ts"
 
 const READOUT = "readout"

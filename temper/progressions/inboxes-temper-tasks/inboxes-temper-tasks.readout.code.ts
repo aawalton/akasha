@@ -1,5 +1,8 @@
-import { type Asking, rowFor } from "akasha/readouts/asking/readout-asking.module.code.ts"
-import { statedAt } from "akasha/readouts/tier/readout-tier.module.code.ts"
+import {
+  type Asking,
+  rowFor,
+} from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
+import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
 
 const DAY = "daily-tracking"
 

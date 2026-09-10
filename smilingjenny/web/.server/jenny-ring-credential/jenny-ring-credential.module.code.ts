@@ -1,4 +1,4 @@
-import { refuseUncredentialedRingCaller as refuseUncredentialed } from "akasha/readouts/serving/readout-serving.module.code.ts"
+import { refuseUncredentialedRingCaller as refuseUncredentialed } from "akasha/alan/harness/readouts/serving/readout-serving.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const RING_CREDENTIAL_NAME = "SMILINGJENNY_RING_CREDENTIAL"

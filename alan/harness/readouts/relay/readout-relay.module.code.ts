@@ -2,7 +2,7 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { z } from "zod"
-import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
+import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { RELAY_SECRET_HEADER } from "../credential/readout-credential.module.code.ts"
 import { NOT_FALLING, type Reading, readingKept } from "../reading/readout-reading.module.code.ts"
 

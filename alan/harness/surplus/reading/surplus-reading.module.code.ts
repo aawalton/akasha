@@ -2,12 +2,12 @@ import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.cod
 import {
   fallsPerHourIn,
   surplusIn,
-} from "akasha/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
-import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
+} from "akasha/alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
+import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
-export const READOUT_PAGE = "readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
+export const READOUT_PAGE = "alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
 
 export const NOTHING_TO_TAKE =
   "no tracking day carries a surplus, so there is no reading to take. A tile showing no signal is " +

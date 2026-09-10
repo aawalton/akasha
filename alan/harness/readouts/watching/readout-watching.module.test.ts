@@ -18,9 +18,9 @@ const MADE_OF = `${FOLDER}/day-2026-09-10.day.uncommitted.ts`
 
 const BESIDE = `${FOLDER}/day-2026-09-10.day.health-samples.jsonl`
 
-const PAGE = "readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts"
+const PAGE = "alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts"
 
-const OTHER_PAGE = "readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
+const OTHER_PAGE = "alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
 
 const DAY = "day"
 

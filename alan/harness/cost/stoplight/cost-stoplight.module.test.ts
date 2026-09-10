@@ -1,7 +1,7 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
-import type { Stoplight } from "akasha/readouts/group-serving/readout-group-serving.module.code.ts"
-import { dropRelayed } from "akasha/readouts/relay/readout-relay.module.code.ts"
-import { relayedFor } from "akasha/readouts/relay/readout-relay.module.test-fixtures.ts"
+import type { Stoplight } from "akasha/alan/harness/readouts/group-serving/readout-group-serving.module.code.ts"
+import { dropRelayed } from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
+import { relayedFor } from "akasha/alan/harness/readouts/relay/readout-relay.module.test-fixtures.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { answerCostAdmittedBy, costStoplights } from "./cost-stoplight.module.code.ts"
 

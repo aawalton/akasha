@@ -3,7 +3,7 @@ import {
   dropRelayed,
   RELAY_PATH,
   relayReading,
-} from "akasha/readouts/relay/readout-relay.module.code.ts"
+} from "akasha/alan/harness/readouts/relay/readout-relay.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { action } from "../jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "./jenny-safety-level.route.code.ts"

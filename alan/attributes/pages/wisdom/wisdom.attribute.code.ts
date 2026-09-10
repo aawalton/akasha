@@ -1,4 +1,4 @@
-import { statedAt } from "akasha/readouts/tier/readout-tier.module.code.ts"
+import { statedAt } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
 
 const WISDOM_WORDS = "wisdom-words"
 

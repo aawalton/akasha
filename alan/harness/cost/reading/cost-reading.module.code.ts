@@ -1,9 +1,9 @@
-import { multiplierIn } from "akasha/readouts/pages/cost-multiplier/cost-multiplier.readout.code.ts"
-import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
+import { multiplierIn } from "akasha/alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.code.ts"
+import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { openSession } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
-export const READOUT_PAGE = "readouts/pages/cost-multiplier/cost-multiplier.readout.ts"
+export const READOUT_PAGE = "alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.ts"
 
 export const NOTHING_TO_TAKE =
   "no open block carries both a safety level and a difficulty level, so there is no cost to " +

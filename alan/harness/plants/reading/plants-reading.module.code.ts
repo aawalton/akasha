@@ -1,15 +1,15 @@
+import type { Asking } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
+import { fetchPlantGrams } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.code.ts"
+import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
-import type { Asking } from "akasha/readouts/asking/readout-asking.module.code.ts"
-import { fetchPlantGrams } from "akasha/readouts/pages/upkeep-plants/upkeep-plants.readout.code.ts"
-import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import {
   openedDayOf,
   openedDayWindow,
 } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 
-export const READOUT_PAGE = "readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
+export const READOUT_PAGE = "alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
 
 export function askingIn(root: string): Asking {
   return async (query) => {

@@ -3,7 +3,7 @@ import {
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import {
   keepReading,
   keepSilence,
@@ -15,9 +15,9 @@ import {
   wentSilentAtOn,
 } from "./readout-reading.module.code.ts"
 
-const PAGE = "readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
+const PAGE = "alan/harness/readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
 
-const OTHER = "readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
+const OTHER = "alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
 
 const TAKEN = "2026-08-31T12:00:00.000Z"
 

@@ -1,11 +1,11 @@
 import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
-import type { RingCounts } from "../../../../readouts/body/readout-body.module.code.ts"
-import { fetchRingCountsFromMonarch } from "../../../../readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
-import { keepReading } from "../../../../readouts/reading/readout-reading.module.code.ts"
 import { shape } from "../../../../utils/narrow/shape/shape.module.code.ts"
+import type { RingCounts } from "../../readouts/body/readout-body.module.code.ts"
+import { fetchRingCountsFromMonarch } from "../../readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
+import { keepReading } from "../../readouts/reading/readout-reading.module.code.ts"
 
 export const READOUT_PAGE =
-  "readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
+  "alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
 
 export const COOKIE_NAME = "MONARCH_COOKIE"
 

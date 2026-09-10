@@ -1,4 +1,4 @@
-import type { TierColor } from "akasha/readouts/tier/readout-tier.module.code.ts"
+import type { TierColor } from "akasha/alan/harness/readouts/tier/readout-tier.module.code.ts"
 
 const AFFORDABLE = 1
 

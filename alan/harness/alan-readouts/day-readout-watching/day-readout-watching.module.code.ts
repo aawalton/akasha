@@ -3,19 +3,19 @@ import {
   getEsoDayStr,
   getEsoDayWindow,
 } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
-import {
-  AKASHA,
-  resolveRoots,
-  rootFor,
-} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { keepSilence } from "akasha/readouts/reading/readout-reading.module.code.ts"
+import { keepSilence } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import {
   SETTLE_MS,
   type WatchedReadout,
   type Watching,
   type WatchLogger,
   watchReadings,
-} from "akasha/readouts/watching/readout-watching.module.code.ts"
+} from "akasha/alan/harness/readouts/watching/readout-watching.module.code.ts"
+import {
+  AKASHA,
+  resolveRoots,
+  rootFor,
+} from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
 import { keepBeat } from "akasha/services/workstation-services/service-beating/service-beating.module.code.ts"
 import { DAY_PAGE_TYPE } from "../../../track/daily/day-place/day-place.module.code.ts"

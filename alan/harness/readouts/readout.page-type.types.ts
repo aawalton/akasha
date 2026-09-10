@@ -1,4 +1,4 @@
-import type { Module } from "../code-system/modules/module.page-type.types.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.types.ts"
 import type { Attribute } from "./properties/attribute.relation-property.ts"
 import type { ColorFrom } from "./properties/color-from.relation-property.ts"
 import type { ColorSlug } from "./properties/color-slug.text-property.ts"
