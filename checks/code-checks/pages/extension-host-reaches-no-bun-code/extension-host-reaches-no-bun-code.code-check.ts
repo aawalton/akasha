@@ -6,7 +6,7 @@ export const extensionHostReachesNoBunCode = {
   type: "code-check",
   slug: "extension-host-reaches-no-bun-code",
   definition: "the check refusing bun code in the graph the editor's node host loads",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

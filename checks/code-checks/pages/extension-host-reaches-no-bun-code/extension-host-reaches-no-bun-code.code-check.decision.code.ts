@@ -19,6 +19,10 @@ const BUN = "bun:"
 
 const GLOBAL = "Bun"
 
+const DYNAMIC = "import("
+
+const STATED = "port"
+
 const SHOWN = 5
 
 const HOST = "the editor loads this graph into node, which holds no bun"
@@ -39,47 +43,50 @@ function erasedExport(one: ts.ExportDeclaration): boolean {
   return clause.elements.length > 0 && clause.elements.every((each) => each.isTypeOnly)
 }
 
-function specifierOf(node: ts.Node): string | null {
+function statedIn(node: ts.Statement): string | null {
   if (ts.isImportDeclaration(node)) {
     if (erasedImport(node.importClause) || !ts.isStringLiteral(node.moduleSpecifier)) return null
     return node.moduleSpecifier.text
   }
-  if (ts.isExportDeclaration(node)) {
-    const said = node.moduleSpecifier
-    if (said === undefined || !ts.isStringLiteral(said) || erasedExport(node)) return null
-    return said.text
-  }
-  if (!ts.isCallExpression(node) || node.expression.kind !== ts.SyntaxKind.ImportKeyword)
-    return null
-  const said = node.arguments[0]
-  return said !== undefined && ts.isStringLiteral(said) ? said.text : null
+  if (!ts.isExportDeclaration(node)) return null
+  const said = node.moduleSpecifier
+  if (said === undefined || !ts.isStringLiteral(said) || erasedExport(node)) return null
+  return said.text
 }
 
-export function loadedIn(at: string, text: string): readonly string[] {
-  const source = skimmedAs(at, text)
-  const found: string[] = []
-  const over = (node: ts.Node): undefined => {
-    const said = specifierOf(node)
-    if (said !== null) found.push(said)
-    ts.forEachChild(node, over)
-  }
-  ts.forEachChild(source, over)
-  return found
+export type Reached = {
+  readonly specifiers: readonly string[]
+  readonly global: boolean
 }
 
-export function readsGlobal(at: string, text: string): boolean {
+const NOTHING: Reached = { specifiers: [], global: false }
+
+export function reachedIn(at: string, text: string): Reached {
+  const asked = text.includes(GLOBAL)
+  const dynamic = text.includes(DYNAMIC)
+  if (!asked && !dynamic && !text.includes(STATED)) return NOTHING
   const source = skimmedAs(at, text)
-  let found = false
+  const specifiers: string[] = []
+  for (const one of source.statements) {
+    const said = statedIn(one)
+    if (said !== null) specifiers.push(said)
+  }
+  if (!asked && !dynamic) return { specifiers, global: false }
+  let global = false
   const over = (node: ts.Node): undefined => {
-    if (found) return
-    if (ts.isIdentifier(node) && node.text === GLOBAL) {
-      found = true
-      return
+    if (asked && !global && ts.isIdentifier(node) && node.text === GLOBAL) global = true
+    if (
+      dynamic &&
+      ts.isCallExpression(node) &&
+      node.expression.kind === ts.SyntaxKind.ImportKeyword
+    ) {
+      const said = node.arguments[0]
+      if (said !== undefined && ts.isStringLiteral(said)) specifiers.push(said.text)
     }
     ts.forEachChild(node, over)
   }
   ts.forEachChild(source, over)
-  return found
+  return { specifiers, global }
 }
 
 export function namingOver(change: Change, paths: readonly string[]): Naming {
@@ -140,13 +147,14 @@ export function refusalsOver(change: Change, paths: readonly string[]): readonly
     seen.add(here)
     const text = textIn(change, here)
     if (text === null) continue
-    if (readsGlobal(here, text)) {
+    const reached = reachedIn(here, text)
+    if (reached.global) {
       said.push({
         path: here,
         reason: reasonFor(`this reads the \`${GLOBAL}\` global`, here, from),
       })
     }
-    for (const one of loadedIn(here, text)) {
+    for (const one of reached.specifiers) {
       if (one.startsWith(BUN)) {
         said.push({ path: here, reason: reasonFor(`this names \`${one}\``, here, from) })
         continue
