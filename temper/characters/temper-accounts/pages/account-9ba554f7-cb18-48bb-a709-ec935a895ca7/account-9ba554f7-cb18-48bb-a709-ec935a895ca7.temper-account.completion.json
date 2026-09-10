@@ -55404,7 +55404,7 @@
     },
     "403": {
       "name": "Savage Werewolf",
-      "slotsUnlocked": 9,
+      "slotsUnlocked": 11,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55441,7 +55441,7 @@
         },
         "9": {
           "name": "Savage Werewolf's Ring",
-          "unlocked": false
+          "unlocked": true
         },
         "10": {
           "name": "Savage Werewolf's Dagger",
@@ -55481,7 +55481,7 @@
         },
         "19": {
           "name": "Savage Werewolf's Inferno Staff",
-          "unlocked": false
+          "unlocked": true
         },
         "20": {
           "name": "Savage Werewolf's Ice Staff",
@@ -55501,7 +55501,7 @@
     },
     "404": {
       "name": "Jailer's Tenacity",
-      "slotsUnlocked": 11,
+      "slotsUnlocked": 12,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55550,7 +55550,7 @@
         },
         "12": {
           "name": "Jailer's Mace",
-          "unlocked": false
+          "unlocked": true
         },
         "13": {
           "name": "Jailer's Sword",
