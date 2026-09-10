@@ -120,6 +120,14 @@ export const agentSubagentSweep = {
     },
     {
       invariantKind: "departure",
+      statement: "A page kept that way is marked as one whose subagent returned.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat is therefore not read as having a live subagent for a page held open.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The report names each page kept that way and says the edits are why.",
     },
   ],

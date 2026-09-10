@@ -6,6 +6,7 @@ import {
   createSubagentReader,
   type SubagentNode,
 } from "akasha/editor-extension/subagent-reading/subagent-reading.module.code.ts"
+import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
 import { akashaHolderProcessOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { parseSeatProcKey } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
@@ -25,6 +26,7 @@ import {
   subagentsDirOf,
 } from "akasha/seat-system/subagent-outliving/subagent-outliving.module.code.ts"
 import { transcriptOf } from "../../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
+import { subagentReturned } from "../../../../seat-system/subagents/properties/subagent-returned.boolean-property.ts"
 import { type Answer, answering, type Given } from "../../../modules/calling/calling.module.code.ts"
 import { dropReadings } from "../../../modules/reading/reading.module.code.ts"
 
@@ -212,6 +214,9 @@ export async function agentSubagentSweep(
   const census = censusOf(judged)
   const judgedStale = staleAmong(judged)
   const waiting = judgedStale.filter((one) => editsWaiting(root, one.page.path))
+  for (const one of waiting) {
+    mergeUncommitted(root, one.page.path, { [subagentReturned.propertySlug]: true })
+  }
   const stale = judgedStale.filter((one) => !waiting.includes(one))
   const kept = keptSaid(waiting)
   if (!read.removing) return answering([...census, ...kept, ...heldBack(stale.length)], [], 0)

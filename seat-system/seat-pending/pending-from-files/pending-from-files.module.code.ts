@@ -1,3 +1,4 @@
+import { handedOver } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import {
   everyRecipient,
@@ -28,17 +29,25 @@ export function sendersStandingBlocked(): ReadonlySet<string> {
   return found
 }
 
-export function seatsWithSubagentPage(pages: readonly SubagentPage[]): ReadonlySet<string> {
+export type Handed = (page: string) => boolean
+
+export function seatsWithSubagentPage(
+  pages: readonly SubagentPage[],
+  handed: Handed = () => false
+): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of pages) {
-    if (one.seatId !== "") found.add(one.seatId)
+    if (one.seatId === "") continue
+    if (handed(one.path)) continue
+    found.add(one.seatId)
   }
   return found
 }
 
 export function pendingFromFiles(): readonly SeatPending[] {
   const blocked = sendersStandingBlocked()
-  const hasChild = seatsWithSubagentPage(pagesIn(akashaRoot()))
+  const root = akashaRoot()
+  const hasChild = seatsWithSubagentPage(pagesIn(root), (page) => handedOver(root, page))
   return seatsPresent().map((one) => {
     const working = workingOf(one.id)
     return {
