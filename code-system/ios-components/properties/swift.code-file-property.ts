@@ -9,4 +9,10 @@ export const swift = {
   slug: "swift",
   propertySlug: "swift",
   definition: "the Swift a page is",
+  invariants: [
+    {
+      invariantKind: "gap",
+      statement: "A check judges the Swift a landing carries.",
+    },
+  ],
 } as const satisfies CodeFileProperty
