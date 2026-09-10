@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
+import { patchIn } from "akasha/agents/modules/patch-keeping/patch-keeping.module.code.ts"
 import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
 import { blobsIn } from "../patching/patching.module.code.ts"
 import {

@@ -73,16 +73,6 @@
         "vscode",
       ],
     },
-    "agents": {
-      "name": "@akasha/agents",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/seat-system": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "alan/atlas-web": {
       "name": "@akasha/alanwalton-atlas-web",
       "version": "0.1.0",
@@ -767,7 +757,6 @@
     "seat-system": {
       "name": "@akasha/seat-system",
       "dependencies": {
-        "@akasha/agents": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -1060,8 +1049,6 @@
   },
   "packages": {
     "@acemir/cssom": ["@acemir/cssom@0.9.31", "", {}, "sha512-ZnR3GSaH+/vJ0YlHau21FjfLYjMpYVIzTD8M8vIEQvIGxeOXyXdzCI140rrCY862p/C/BbzWsjc1dgnM9mkoTA=="],
-
-    "@akasha/agents": ["@akasha/agents@workspace:agents"],
 
     "@akasha/alanwalton-atlas-web": ["@akasha/alanwalton-atlas-web@workspace:alan/atlas-web"],
 

@@ -5,7 +5,7 @@ export const aSweptSubagentLeavesItsKeptEditsOnDiskWhereNothingReachesThem = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-swept-subagent-leaves-its-kept-edits-on-disk-where-nothing-reaches-them",
-  domain: "workspace-package/agent",
+  domain: "domain/agent",
   claim:
     "A sweep takes a subagent's page away and leaves the edits that subagent kept beside it. The seat is still told of them and can still take them, but that subagent can no longer reach them or add to them, and edits no seat takes gather with nothing to end them.",
   evidence:

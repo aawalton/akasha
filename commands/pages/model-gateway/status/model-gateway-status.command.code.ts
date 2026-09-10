@@ -1,5 +1,5 @@
-import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
-import type { LiveProxySeat } from "@akasha/agents/proxy-seats"
+import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import type { LiveProxySeat } from "akasha/agents/models/gateway/modules/proxy-seats/proxy-seats.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import { liveSeats } from "./live-gateway-seats/live-gateway-seats.module.code.ts"

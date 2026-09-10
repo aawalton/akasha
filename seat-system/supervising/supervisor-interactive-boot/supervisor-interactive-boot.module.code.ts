@@ -1,4 +1,3 @@
-import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
 import { claimSeatSupervision } from "@akasha/seat-system/seat-supervisor-claim"
 import { reconcileAgentBootFiles, resolveClaudeHandoff } from "@akasha/seat-system/supervisor-adopt"
 import { selectAccountAndWriteCredential } from "@akasha/seat-system/supervisor-agent"
@@ -18,6 +17,7 @@ import {
   setRestoreConsoleHandle,
 } from "@akasha/seat-system/supervisor-state"
 import { shape } from "@akasha/utils/narrow/shape"
+import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { installProxyVersionSubsystem } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildCredentialSubsystem } from "../../seat-credential/supervisor-credentials/supervisor-credentials.module.code.ts"
 import {

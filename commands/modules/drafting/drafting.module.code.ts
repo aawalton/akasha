@@ -1,7 +1,13 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
+import {
+  dropPatch,
+  keepPatch,
+  keptPatch,
+  patchAt,
+  patchIn,
+} from "akasha/agents/modules/patch-keeping/patch-keeping.module.code.ts"
 import {
   clashing,
   markedAway,

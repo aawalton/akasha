@@ -1,13 +1,16 @@
+import { readingIn } from "@akasha/indexes"
+import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { valueAt } from "@akasha/pages/page-value"
 import {
   DOORS,
   fileRefreshedFrom,
   fileWatched,
-} from "@akasha/agents/claude-account-credential-file"
-import { terminalHealthMarks } from "@akasha/agents/claude-account-health"
-import { DOORS as EFFECT_DOORS, markedOn } from "@akasha/agents/oauth-effects"
-import { readingIn } from "@akasha/indexes"
-import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { valueAt } from "@akasha/pages/page-value"
+} from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
+import { terminalHealthMarks } from "akasha/agents/claude-accounts/modules/health/claude-account-health.module.code.ts"
+import {
+  DOORS as EFFECT_DOORS,
+  markedOn,
+} from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { ProxyAdoptionRuleSource } from "../../oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
 import {
   type SupervisorOAuthProxyHandle,

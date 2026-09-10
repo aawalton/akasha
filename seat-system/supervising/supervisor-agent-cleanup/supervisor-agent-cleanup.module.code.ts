@@ -1,8 +1,11 @@
 import { existsSync, rmSync, unlinkSync } from "node:fs"
-import { DOORS, filePushedTo } from "@akasha/agents/claude-account-credential-file"
 import { readingIn } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { valueAt } from "@akasha/pages/page-value"
+import {
+  DOORS,
+  filePushedTo,
+} from "akasha/agents/claude-accounts/modules/credential-file/claude-account-credential-file.module.code.ts"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 import { processes } from "../supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "../supervisor-types/supervisor-types.module.code.ts"

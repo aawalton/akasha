@@ -1,6 +1,3 @@
-import { summarizePool } from "@akasha/agents/claude-account-selection"
-import { pacingIn } from "@akasha/agents/oauth-effects"
-import type { AccountState } from "@akasha/agents/oauth-types"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
   type AskDecide,
@@ -18,6 +15,9 @@ import {
   sendMessage,
 } from "@akasha/seat-system/supervisor-limit-resume-send"
 import { USER_ID } from "@akasha/supabase-auth/user-id"
+import { summarizePool } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+import { pacingIn } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
 
 const LIMIT_RESUME_INTERVAL_MS = 30_000

@@ -267,7 +267,6 @@
     "./argument-narrowing": "./argument-narrowing/argument-narrowing.module.code.ts"
   },
   "dependencies": {
-    "@akasha/agents": "workspace:*",
     "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/pages": "workspace:*",

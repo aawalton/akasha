@@ -1,5 +1,11 @@
-import { linesOf, readingsIn } from "@akasha/agents/claude-account-measuring"
-import { notesOf, refreshAll } from "@akasha/agents/claude-account-refreshing"
+import {
+  linesOf,
+  readingsIn,
+} from "akasha/agents/claude-accounts/modules/measuring/claude-account-measuring.module.code.ts"
+import {
+  notesOf,
+  refreshAll,
+} from "akasha/agents/claude-accounts/modules/refreshing/claude-account-refreshing.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 
 export async function measureClaudeAccountsUsage(

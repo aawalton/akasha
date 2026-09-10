@@ -1,8 +1,8 @@
-import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { guardTick } from "@akasha/seat-system/supervisor-guard-tick"
 import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
+import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import {
   type OAuthProxyState,
   readProxyState,

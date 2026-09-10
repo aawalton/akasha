@@ -1,10 +1,10 @@
 import { closeSync, mkdirSync, openSync } from "node:fs"
 import { join } from "node:path"
-import { modelGatewayEntrypoint } from "@akasha/agents/gateway-tree-version"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
 import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
 import { pidsListeningOn, portIsHeld } from "@akasha/utils/process/port-holding"
 import { readProcEnvVar } from "@akasha/utils/process/proc-environ"
+import { modelGatewayEntrypoint } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import {
   type OAuthProxyState,
   readProxyState,
