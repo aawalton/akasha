@@ -10,7 +10,7 @@ export const commandIsInTheRightFolder = {
   runsOnChange: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -51,7 +51,10 @@ export const commandIsInTheRightFolder = {
     },
     {
       invariantKind: "gap",
-      statement: "This check states its rule and judges nothing until its phases are turned on.",
+      statement: "This check judges at audit and does not yet judge a change as that change lands.",
     },
   ],
+  check: { maxCpuSeconds: 10 },
+  audit: { maxCpuSeconds: 15 },
+  experimental: true,
 } as const satisfies CodeCheck
