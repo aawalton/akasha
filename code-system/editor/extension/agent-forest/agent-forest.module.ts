@@ -1,0 +1,76 @@
+import type { Module } from "../../../modules/module.page-type.types.ts"
+
+export const agentForest = {
+  id: "01a0686b-bfe9-798c-9d61-ea31258cd97c",
+  pageTypeSlug: "module",
+  type: "module",
+  slug: "agent-forest",
+  definition: "the seats and the subagents under them hung into the tree the panel draws",
+  code: "ts",
+  test: "ts",
+  testFixtures: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A seat hangs under the seat that seat names as its parent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat answering to Alan is a root however that seat names its parent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat naming a parent no row answers to is a root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat naming itself as its parent is a root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat already on the descent is not hung beneath itself again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A branch with nothing running is dropped whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat naming no name is drawn under its id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat whose place no row states is headless.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Seats are ordered by name and the subagents follow those seats.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent is keyed by the seat that ran that subagent at whatever depth that subagent sits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent naming no id that subagent runs under names no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent is drawn as running and coloured for the working turn.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path is joined against the repository the answer named rather than a repository guessed here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat name and an id are parted by a byte neither name nor id can have.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here asks the harness anything.",
+    },
+  ],
+} as const satisfies Module

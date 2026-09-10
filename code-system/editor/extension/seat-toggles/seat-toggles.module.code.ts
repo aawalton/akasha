@@ -1,0 +1,53 @@
+import { z } from "zod"
+import { SEAT_ATTACH_FN } from "../../../../seat-system/terminal-shell/terminal-seat-marks/terminal-seat-marks.module.code.ts"
+import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
+
+export interface SeatToggleState {
+  readonly running: boolean
+  readonly place: SeatMode
+}
+
+export type SeatStep =
+  | { readonly kind: "stop" }
+  | { readonly kind: "revive" }
+  | { readonly kind: "resume-interactive" }
+  | { readonly kind: "attach" }
+  | { readonly kind: "reset" }
+
+export function planRunToggle(state: SeatToggleState): readonly SeatStep[] {
+  if (state.running) {
+    return [{ kind: "stop" }]
+  }
+  return state.place === "interactive" ? [{ kind: "resume-interactive" }] : [{ kind: "revive" }]
+}
+
+export function planReset(state: SeatToggleState): readonly SeatStep[] {
+  const reset: SeatStep = { kind: "reset" }
+  return state.place === "interactive" ? [reset, { kind: "attach" }] : [reset]
+}
+
+const EditorReviveZ = z.object({ "editor-revive": z.string().min(1) })
+
+export function resumePromptIn(said: string): string {
+  return EditorReviveZ.parse(JSON.parse(said))["editor-revive"]
+}
+
+const SEAT_NAME_RE = /^[a-z0-9][a-z0-9-]*$/
+
+const SEAT_NAME_REQUIREMENT =
+  "a seat name is lower-case letters, digits and hyphens, opening with a letter or a digit"
+
+export function seatNameAccepted(name: string): boolean {
+  return SEAT_NAME_RE.test(name)
+}
+
+export function attachCommandLine(name: string): string {
+  if (!seatNameAccepted(name)) {
+    throw new Error(`${JSON.stringify(name)} is not a seat name: ${SEAT_NAME_REQUIREMENT}`)
+  }
+  return `${SEAT_ATTACH_FN} "${name}"`
+}
+
+export function seatContextValue(live: boolean, place: SeatMode): string {
+  return `seat.${live ? "running" : "stopped"}.${place}`
+}

@@ -1,0 +1,28 @@
+import type { Module } from "../../../modules/module.page-type.types.ts"
+
+export const domainTreeIds = {
+  id: "01a064c8-9a9c-76e0-a025-5d952e3be0ea",
+  pageTypeSlug: "module",
+  type: "module",
+  slug: "domain-tree-ids",
+  definition: "the strings the editor knows the domain tree's view and refresh command by",
+  code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The names here are the names the extension manifest has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refresh command's name opens with the view's name.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here makes the view or the command these names reach.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here names a row of the domain tree.",
+    },
+  ],
+} as const satisfies Module

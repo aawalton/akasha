@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { SubagentNode } from "akasha/editor-extension/subagent-reading/subagent-reading.module.code.ts"
+import type { SubagentNode } from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import {
   rebuiltIn,
   valueAlsoFiled,

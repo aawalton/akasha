@@ -15,7 +15,7 @@ import { wholeValue } from "akasha/pages/uncommitted/page-uncommitted.module.cod
 import {
   readingOf,
   type UsageReading,
-} from "../../../../../editor-extension/status-bar-usage/status-bar-usage.module.code.ts"
+} from "../../../../../code-system/editor/extension/status-bar-usage/status-bar-usage.module.code.ts"
 import { glyphsOf, legendOf } from "../group-stoplights/group-stoplights.module.code.ts"
 
 const READOUT = "01a05446-e760-7cb2-848b-4fcfc7ed45d4"

@@ -5,7 +5,7 @@ import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-cha
 import {
   createSubagentReader,
   type SubagentNode,
-} from "akasha/editor-extension/subagent-reading/subagent-reading.module.code.ts"
+} from "akasha/code-system/editor/extension/subagent-reading/subagent-reading.module.code.ts"
 import { mergeUncommitted } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
 import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
 import { akashaHolderProcessOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"

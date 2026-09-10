@@ -1,5 +1,5 @@
+import { championTree } from "../../../../../code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
 import { domainRowsIn } from "../../../../../commands/pages/domain/tree/domain-tree.command.code.ts"
-import { championTree } from "../../../../../editor-extension/champions-tree/champions-tree.module.code.ts"
 import { partedIn } from "../../../../../pages/file-name/page-file-name.module.code.ts"
 import {
   readingIn,

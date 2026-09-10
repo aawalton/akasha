@@ -1,0 +1,86 @@
+import type { Module } from "../../../modules/module.page-type.types.ts"
+
+export const observationStore = {
+  id: "01a0680d-8b48-7000-aaf0-e6ce2670d86b",
+  pageTypeSlug: "module",
+  type: "module",
+  slug: "observation-store",
+  definition:
+    "each feature's last observation held for one window, and the settled write that lands it",
+  code: "ts",
+  testFixtures: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A recording that changes nothing is written nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write starts only once the recording has settled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A recording inside the settle restarts the settle rather than joining the write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Writes run in turn rather than at once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refused write leaves the last written state where that state was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "State that did not land is written again by the next write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The URL a write has names the page rather than a server.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing has ever listened on the origin the URL is built from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A store writes through the fetch its caller named and through no other road.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A store naming no fetch has its observations and writes nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A store that writes nowhere settles nothing and starts no timer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Disposing asks for the last write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Everything recorded inside the last settle lands before disposing returns.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The time on an observation is asked of the clock the caller named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One store is held for the extension and reached by name rather than passed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Recording before a store is set is dropped rather than refused.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here defers a commit.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No child process is started here.",
+    },
+  ],
+} as const satisfies Module

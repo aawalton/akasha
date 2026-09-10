@@ -6,4 +6,5 @@ export const editor = {
   type: "domain",
   slug: "editor",
   definition: "the editor Alan writes code in",
+  parts: ["domain/extension"],
 } as const satisfies Domain

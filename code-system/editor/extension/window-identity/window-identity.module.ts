@@ -1,0 +1,44 @@
+import type { Module } from "../../../modules/module.page-type.types.ts"
+
+export const windowIdentity = {
+  id: "01a064e4-627c-7ce5-80a9-ec7e71522da3",
+  pageTypeSlug: "module",
+  type: "module",
+  slug: "window-identity",
+  definition: "the pid and the start time a process is said by, read as one name",
+  code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A window is known by its pid together with the moment that process started.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A pid is used again by a new process once the process holding that pid ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The command name is skipped by seeking the last closing bracket in the status.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The start time is the twentieth field after the command name in the status.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field that is no finite number leaves the start time unread.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A status that cannot be read leaves the start time at zero.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here knows which pid the editor window is.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here knows the fields a window record holds.",
+    },
+  ],
+} as const satisfies Module

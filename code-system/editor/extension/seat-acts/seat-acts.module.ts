@@ -1,0 +1,61 @@
+import type { Module } from "../../../modules/module.page-type.types.ts"
+
+export const seatActs = {
+  id: "01a0686b-bfe9-770c-b16a-b99c4d15eec7",
+  pageTypeSlug: "module",
+  type: "module",
+  slug: "seat-acts",
+  definition: "the seat command and terminals a planned step is carried out as, one seat at a time",
+  code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A seat already being acted on ignores a second act rather than queueing that act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The steps of one plan run in the order the plan named those steps.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A step that fails ends the plan and leaves the steps after that step undone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A step that fails is said to Alan as well as written to the output.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A step names the seat to the command by the seat's name rather than by its id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop ends the subagents working under the seat along with the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat Alan stops from a panel is stopped rather than refused for being busy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A revive asks the harness for its prompt rather than composing that prompt here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resume into a terminal states the interactive mode before attaching.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The attach line is built before the resume.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A step of no known kind is refused.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here asks whether the act should happen.",
+    },
+  ],
+} as const satisfies Module

@@ -1,12 +1,12 @@
 import { resolve } from "node:path"
 import {
+  championTree,
+  type DomainRow,
+} from "akasha/code-system/editor/extension/champions-tree/champions-tree.module.code.ts"
+import {
   type DomainRow as Drawn,
   domainsDrawn,
 } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
-import {
-  championTree,
-  type DomainRow,
-} from "akasha/editor-extension/champions-tree/champions-tree.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { sayAnswer } from "../../../modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"

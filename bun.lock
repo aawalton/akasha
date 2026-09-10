@@ -185,6 +185,20 @@
         "vite": "^8.0.3",
       },
     },
+    "code-system/editor/extension/ops-extension": {
+      "name": "ops",
+      "version": "0.1.0",
+      "peerDependencies": {
+        "vscode": "^1.85.0",
+      },
+      "optionalPeers": [
+        "vscode",
+      ],
+    },
+    "code-system/editor/extension/vscode-typings": {
+      "name": "@types/vscode",
+      "version": "1.110.0",
+    },
     "code-system/ios-apps/pages/alanwalton": {
       "name": "@alanwalton/native-shell",
       "version": "0.0.1",
@@ -224,20 +238,6 @@
       "devDependencies": {
         "@capacitor/cli": "^8.4.1",
       },
-    },
-    "editor-extension/ops-extension": {
-      "name": "ops",
-      "version": "0.1.0",
-      "peerDependencies": {
-        "vscode": "^1.85.0",
-      },
-      "optionalPeers": [
-        "vscode",
-      ],
-    },
-    "editor-extension/vscode-typings": {
-      "name": "@types/vscode",
-      "version": "1.110.0",
     },
     "products/archive-of-worlds/web": {
       "name": "@akasha/archive-of-worlds-web",
@@ -930,7 +930,7 @@
 
     "@types/unist": ["@types/unist@3.0.3", "", {}, "sha512-ko/gIFJRv177XgZsZcBwnqJN5x/Gien8qNOn0D5bQU/zAzVf9Zt3BlcUiLqhV9y4ARk0GbT3tnUiPNgnTXzc/Q=="],
 
-    "@types/vscode": ["@types/vscode@workspace:editor-extension/vscode-typings"],
+    "@types/vscode": ["@types/vscode@workspace:code-system/editor/extension/vscode-typings"],
 
     "@types/whatwg-mimetype": ["@types/whatwg-mimetype@3.0.2", "", {}, "sha512-c2AKvDT8ToxLIOUlN51gTiHXflsfIFisS4pO7pDPoKouJCESkhZnEy623gwP9laCy5lnLDAw1vAzu2vM2YLOrA=="],
 
@@ -1562,7 +1562,7 @@
 
     "open": ["open@8.4.2", "", { "dependencies": { "define-lazy-prop": "^2.0.0", "is-docker": "^2.1.1", "is-wsl": "^2.2.0" } }, "sha512-7x81NCL719oNbsq/3mh+hVrAWmFuEYUqrq/Iw3kUzH8ReypT9QQ0BLoJS7/G9k6N81XjW4qHWtjWwe/9eLy1EQ=="],
 
-    "ops": ["ops@workspace:editor-extension/ops-extension"],
+    "ops": ["ops@workspace:code-system/editor/extension/ops-extension"],
 
     "p-map": ["p-map@7.0.7", "", {}, "sha512-VaWRu2i4FJNRtiRWCuuQRgfQ1B7a6+gMSrO+3j0EQi/k0ULfS9kosRxGoiqwzIjZTDI02tGfk5mXXltLg6QtfQ=="],
 
