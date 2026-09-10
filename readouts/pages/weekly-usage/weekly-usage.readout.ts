@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.ts"
+import type { Readout } from "../../readout.page-type.types.ts"
 
 export const weeklyUsage = {
   id: "01a063bd-a526-7a12-97a4-531aa40ead14",

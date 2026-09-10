@@ -1,4 +1,4 @@
-import type { Readout } from "../../../../readouts/readout.page-type.ts"
+import type { Readout } from "../../../../readouts/readout.page-type.types.ts"
 
 export const attributeConstitution = {
   id: "01a06838-9486-7039-a5b5-f3b864bb2160",

@@ -1,4 +1,4 @@
-import type { Readout } from "../../../../readouts/readout.page-type.ts"
+import type { Readout } from "../../../../readouts/readout.page-type.types.ts"
 
 export const attributeStrength = {
   id: "01a06838-9421-7f89-932a-569d681c18a4",

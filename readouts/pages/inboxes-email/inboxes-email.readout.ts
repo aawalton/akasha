@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.ts"
+import type { Readout } from "../../readout.page-type.types.ts"
 
 export const inboxesEmail = {
   id: "01a06230-b155-7d69-9e39-eb26b5607d9e",

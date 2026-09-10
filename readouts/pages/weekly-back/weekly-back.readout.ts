@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.ts"
+import type { Readout } from "../../readout.page-type.types.ts"
 
 export const weeklyBack = {
   id: "01a063bd-a526-795d-b845-b6fb54c9ef34",

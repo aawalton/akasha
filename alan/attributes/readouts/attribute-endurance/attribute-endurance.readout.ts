@@ -1,4 +1,4 @@
-import type { Readout } from "../../../../readouts/readout.page-type.ts"
+import type { Readout } from "../../../../readouts/readout.page-type.types.ts"
 
 export const attributeEndurance = {
   id: "01a06838-945f-7ac6-b3a4-411fa111e195",

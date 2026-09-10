@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.ts"
+import type { Readout } from "../../readout.page-type.types.ts"
 
 export const upkeepSleep = {
   id: "01a06220-ef8c-700d-ad60-4cf3f17ae1e3",

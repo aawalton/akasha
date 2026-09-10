@@ -1,4 +1,4 @@
-import type { Readout } from "../../../../readouts/readout.page-type.ts"
+import type { Readout } from "../../../../readouts/readout.page-type.types.ts"
 
 export const attributeCharisma = {
   id: "01a06838-950f-7f4c-9f40-60cc35fa63f5",

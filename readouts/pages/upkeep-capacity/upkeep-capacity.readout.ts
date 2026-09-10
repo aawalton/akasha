@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.ts"
+import type { Readout } from "../../readout.page-type.types.ts"
 
 export const upkeepCapacity = {
   id: "01a06230-614a-7c46-9fba-3be28e181ca4",

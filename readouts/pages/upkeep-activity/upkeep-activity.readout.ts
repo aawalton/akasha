@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.ts"
+import type { Readout } from "../../readout.page-type.types.ts"
 
 export const upkeepActivity = {
   id: "01a06222-9827-768e-aecd-7f7161a45e92",
