@@ -1,4 +1,4 @@
-import type { StoryPlayed } from "../../story-played.page-type.ts"
+import type { StoryPlayed } from "../../story-played.page-type.types.ts"
 
 export const dragonsAndDungeons = {
   id: "01a06425-4433-7ef5-b909-fc3115093731",

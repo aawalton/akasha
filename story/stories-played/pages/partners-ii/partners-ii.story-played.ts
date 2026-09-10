@@ -1,4 +1,4 @@
-import type { StoryPlayed } from "../../story-played.page-type.ts"
+import type { StoryPlayed } from "../../story-played.page-type.types.ts"
 
 export const partnersIi = {
   id: "01a06425-4433-7862-87db-a4cd6e6aa459",
