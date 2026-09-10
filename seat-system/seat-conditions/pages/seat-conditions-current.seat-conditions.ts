@@ -1,4 +1,4 @@
-import type { SeatConditions } from "../seat-conditions.page-type.ts"
+import type { SeatConditions } from "../seat-conditions.page-type.types.ts"
 
 export const seatConditionsCurrent = {
   id: "01a0157f-f2ec-7001-80d4-d83b4f922552",
