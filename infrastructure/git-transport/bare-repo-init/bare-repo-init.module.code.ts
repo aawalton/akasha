@@ -11,7 +11,7 @@ const AKASHA_BARE_REPO_PATH = transportRepo("akasha").bareRepoPath
 const HOOKS_AT = `${ORCHESTRATOR_CACHE_REPO_PATH}/infrastructure/git-transport/hooks`
 
 function hookAt(slug: string): string {
-  return `${HOOKS_AT}/${slug}/${slug}.shell-script.shell.sh`
+  return `${HOOKS_AT}/${slug}/${slug}.git-hook.shell.sh`
 }
 
 const APPEND_ONLY_HOOK = hookAt("pre-receive-main-append-only")

@@ -1,9 +1,9 @@
-import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
+import type { GitHook } from "../git-hook.page-type.types.ts"
 
 export const postReceiveMirror = {
   id: "01a06816-2f11-7d8b-bc04-3b874435b755",
-  pageTypeSlug: "shell-script",
-  type: "shell-script",
+  pageTypeSlug: "git-hook",
+  type: "git-hook",
   slug: "post-receive-mirror",
   definition: "the repository copied out to the destination the repository declares",
   shell: "sh",
@@ -62,4 +62,4 @@ export const postReceiveMirror = {
       statement: "The outcome of the run is left beside the repository for anything to read.",
     },
   ],
-} as const satisfies ShellScript
+} as const satisfies GitHook

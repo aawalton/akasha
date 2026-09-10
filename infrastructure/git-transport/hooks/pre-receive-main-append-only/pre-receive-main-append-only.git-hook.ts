@@ -1,9 +1,9 @@
-import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
+import type { GitHook } from "../git-hook.page-type.types.ts"
 
 export const preReceiveMainAppendOnly = {
   id: "01a06816-2f11-729c-b258-50cbded51bb9",
-  pageTypeSlug: "shell-script",
-  type: "shell-script",
+  pageTypeSlug: "git-hook",
+  type: "git-hook",
   slug: "pre-receive-main-append-only",
   definition: "a push to main refused unless main only goes forward",
   shell: "sh",
@@ -39,4 +39,4 @@ export const preReceiveMainAppendOnly = {
       statement: "No branch is named or numbered here.",
     },
   ],
-} as const satisfies ShellScript
+} as const satisfies GitHook

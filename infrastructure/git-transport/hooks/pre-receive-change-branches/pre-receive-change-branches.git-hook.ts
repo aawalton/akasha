@@ -1,9 +1,9 @@
-import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
+import type { GitHook } from "../git-hook.page-type.types.ts"
 
 export const preReceiveChangeBranches = {
   id: "01a06816-2f11-7f55-8c92-79bf5163f688",
-  pageTypeSlug: "shell-script",
-  type: "shell-script",
+  pageTypeSlug: "git-hook",
+  type: "git-hook",
   slug: "pre-receive-change-branches",
   definition: "a push refused unless it names a change branch or moves main onto one",
   shell: "sh",
@@ -46,4 +46,4 @@ export const preReceiveChangeBranches = {
       statement: "No push gets past this hook.",
     },
   ],
-} as const satisfies ShellScript
+} as const satisfies GitHook

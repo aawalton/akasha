@@ -18,9 +18,7 @@ export const gitTransport = {
     "module/transport-naming",
     "module/transport-deployment",
     "module/bare-repo-init",
-    "shell-script/pre-receive-change-branches",
-    "shell-script/pre-receive-main-append-only",
-    "shell-script/post-receive-mirror",
+    "page-type/git-hook",
   ],
   invariants: [
     {
