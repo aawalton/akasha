@@ -1,4 +1,4 @@
-import type { StoryDecision } from "../../story-decision.page-type.ts"
+import type { StoryDecision } from "../../story-decision.page-type.types.ts"
 
 export const towerOfNimueDecision1 = {
   id: "01a0657d-bb97-75c4-b3f7-848f7b2d62fb",

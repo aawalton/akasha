@@ -1,4 +1,4 @@
-import type { StoryDecision } from "../../story-decision.page-type.ts"
+import type { StoryDecision } from "../../story-decision.page-type.types.ts"
 
 export const decisionCh1FirstHarvest = {
   id: "01a0657d-bb96-70d2-8ff0-62287fefc2ec",
