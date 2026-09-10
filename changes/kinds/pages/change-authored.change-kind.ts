@@ -1,4 +1,4 @@
-import type { ChangeKind } from "../change-kind.page-type.ts"
+import type { ChangeKind } from "../change-kind.page-type.types.ts"
 
 export const changeAuthored = {
   id: "01a05df1-e262-7648-bbe1-061d37bd706d",

@@ -1,4 +1,4 @@
-import type { ChangeKind } from "../change-kind.page-type.ts"
+import type { ChangeKind } from "../change-kind.page-type.types.ts"
 
 export const changeRestated = {
   id: "01a07245-0dbf-7539-b0dc-ce6281aa96e8",

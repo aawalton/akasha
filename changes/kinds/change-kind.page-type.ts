@@ -1,14 +1,4 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { ReadersOweReading } from "./properties/readers-owe-reading.boolean-property.ts"
-import type { RunsChecks } from "./properties/runs-checks.boolean-property.ts"
-import type { WriterOwesReading } from "./properties/writer-owes-reading.boolean-property.ts"
-
-export type ChangeKind = Domain & {
-  runsChecks: RunsChecks
-  writerOwesReading: WriterOwesReading
-  readersOweReading: ReadersOweReading
-}
 
 export const changeKind = {
   id: "01a05e11-d3f8-72af-b104-6cdd1255b0eb",
@@ -52,4 +42,5 @@ export const changeKind = {
       statement: "No change kind stales its readers without owing its writer reading.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

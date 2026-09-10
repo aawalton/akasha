@@ -1,4 +1,4 @@
-import type { ChangeKind } from "../change-kind.page-type.ts"
+import type { ChangeKind } from "../change-kind.page-type.types.ts"
 
 export const changeMechanical = {
   id: "01a05df1-e262-72e3-8f24-d6e5e4ed122d",
