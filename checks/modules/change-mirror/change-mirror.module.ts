@@ -47,11 +47,11 @@ export const changeMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that would not be read names the path it was handed in for.",
+      statement: "A body that would not be read names the path that body was handed in for.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here runs a tool over what the mirror holds.",
+      statement: "Nothing here runs a tool over the bodies the mirror holds.",
     },
     {
       invariantKind: "absence",

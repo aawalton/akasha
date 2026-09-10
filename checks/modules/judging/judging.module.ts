@@ -14,11 +14,15 @@ export const judging = {
     },
     {
       invariantKind: "departure",
-      statement: "A check is handed a change and what that change reads through.",
+      statement: "A check is handed a change and the shadow that change reads through.",
     },
     {
       invariantKind: "departure",
-      statement: "An audit is handed the root alone, there being no change at audit.",
+      statement: "An audit is handed the root alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "There is no change at audit.",
     },
     {
       invariantKind: "departure",

@@ -102,7 +102,7 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "An audit reading each text in the tree reads it through this module.",
+      statement: "An audit reading each text in the tree reads that text through this module.",
     },
     {
       invariantKind: "gap",

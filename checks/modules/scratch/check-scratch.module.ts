@@ -85,7 +85,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement: "A schema line written here states every field the index writes, in that order.",
+      statement: "A schema line written here states every field the index writes in that order.",
     },
   ],
 } as const satisfies Module
