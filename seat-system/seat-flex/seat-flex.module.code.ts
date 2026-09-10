@@ -25,9 +25,12 @@ function nameOf(agent: string): string | null {
   return seatNameForAgent(seat)
 }
 
-export function flexInName(name: string): string | null {
-  const found = FLEX_IN_NAME.exec(name)
+function parseFlexCapture(found: RegExpExecArray | null): string | null {
   return found === null ? null : (found[1] as string)
+}
+
+export function flexInName(name: string): string | null {
+  return parseFlexCapture(FLEX_IN_NAME.exec(name))
 }
 
 export function flexOf(agent: string): FlexRecord | null {
