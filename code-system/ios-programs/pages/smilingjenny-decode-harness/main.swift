@@ -277,5 +277,46 @@ check(
     costCaption(costState(costPayload("green", "0.00"))) == "Cost",
     String(describing: costCaption(costState(costPayload("green", "0.00")))))
 
+func decodeUpkeep(_ json: String) -> UpkeepStoplightsResponse? {
+    try? JSONDecoder().decode(UpkeepStoplightsResponse.self, from: Data(json.utf8))
+}
+
+func upkeepBody(_ slugs: [String]) -> String {
+    let entries = slugs.map { #"{"habit":"\#($0)","tier":"green"}"# }.joined(separator: ",")
+    return #"{"stoplights":[\#(entries)]}"#
+}
+
+func upkeepCount(_ slugs: [String]) -> Int? {
+    decodeUpkeep(upkeepBody(slugs))?.stoplights.count
+}
+
+check(
+    "the four upkeep circles decode",
+    upkeepCount(["safety", "surplus", "capacity", "sleep"]) == 4,
+    "four entries")
+check(
+    "a fifth upkeep circle decodes",
+    upkeepCount(["safety", "surplus", "capacity", "sleep", "plants"]) == 5,
+    "five entries")
+check("an empty upkeep payload is rejected", upkeepCount([]) == nil, "no stoplights")
+
+let upkeepFigureless = #"""
+{"stoplights":[{"habit":"sleep","label":"Sleep","tier":"black","reading":"","readingHeld":"none"}]}
+"""#
+check(
+    "an upkeep circle with no figure decodes rather than being rejected",
+    decodeUpkeep(upkeepFigureless)?.stoplights.first?.reading == "",
+    "an empty figure beside readingHeld")
+
+check(
+    "an upkeep circle carrying a color the tile does not know is rejected",
+    decodeUpkeep(#"{"stoplights":[{"habit":"sleep","tier":"purple"}]}"#) == nil,
+    "an unknown tier")
+
+check(
+    "an upkeep circle keeps the label the feed sent",
+    decodeUpkeep(upkeepFigureless)?.stoplights.first?.label == "Sleep",
+    "the label off the readout's page")
+
 print(failures == 0 ? "\nOK — \(assertions) assertions passed" : "\n\(failures) of \(assertions) assertions failed")
 exit(failures == 0 ? 0 : 1)
