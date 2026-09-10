@@ -89,7 +89,7 @@ RUN cd /app/ComfyUI/custom_nodes && \
 RUN pip install --no-cache-dir --break-system-packages \
     insightface onnxruntime-gpu "huggingface_hub[hf_transfer]"
 
-COPY wan-frame-scoring/wan-frame-scoring.python-module.python.py /app/bin/score-frames.py
+COPY frame-scoring/wan-frame-scoring.python-module.python.py /app/bin/score-frames.py
 
 ENV HF_HUB_ENABLE_HF_TRANSFER=1
 ENV PYTORCH_ALLOC_CONF=expandable_segments:True
