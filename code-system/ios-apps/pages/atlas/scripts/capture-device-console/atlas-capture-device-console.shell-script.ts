@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const atlasCaptureDeviceConsole = {
   id: "01a0655d-9453-7d4f-b5d2-7cfd0498d545",

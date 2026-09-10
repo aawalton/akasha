@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const linkMaking = {
   id: "01a06864-40db-7667-b568-c45fb304dce3",

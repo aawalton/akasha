@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const alanwaltonDeviceSecret = {
   id: "01a0595b-ef57-7f8a-a2ee-3943a015a892",

@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../shell-script.page-type.ts"
+import type { ShellScript } from "../../shell-script.page-type.types.ts"
 
 export const reposEmptyDirPurge = {
   id: "01a06561-3c4d-7a18-b072-9e4c1d8f2a35",

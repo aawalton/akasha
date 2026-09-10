@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const ciApplyManifests = {
   id: "01a06865-abff-7012-a178-ceaa65d5a61f",

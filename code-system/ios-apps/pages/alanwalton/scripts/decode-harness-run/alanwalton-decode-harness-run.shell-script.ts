@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const alanwaltonDecodeHarnessRun = {
   id: "01a0595b-ef57-7240-a892-dca6f0f52fe8",

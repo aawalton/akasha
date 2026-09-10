@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const smilingjennyIosSeam = {
   id: "01a05938-8ab0-77c3-8aea-a6ba49e5ae23",

@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const esoRigEntrypoint = {
   id: "01a06866-58f8-7ecd-b4cb-5a4541c4ce02",

@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const ciCostSnapshot = {
   id: "01a06864-40db-77fc-84ff-f16044dcbbc9",

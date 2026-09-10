@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const upscaleDown = {
   id: "01a06815-9efd-7036-9b91-c9c8ee0cf677",

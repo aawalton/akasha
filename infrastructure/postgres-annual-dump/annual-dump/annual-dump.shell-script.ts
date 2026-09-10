@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const annualDump = {
   id: "01a06865-c012-7002-9b0e-5c1f7a2d3e02",

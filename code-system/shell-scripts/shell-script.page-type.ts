@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Shell } from "./properties/shell.code-file-property.ts"
-import type { Sourced } from "./properties/sourced.boolean-property.ts"
-
-export type ShellScript = Domain & {
-  shell: Shell
-  sourced: Sourced
-}
 
 export const shellScript = {
   id: "01a05849-1565-72f5-a51d-6ed25321a433",
@@ -51,4 +43,5 @@ export const shellScript = {
       statement: "A manifest names only a script that runs on its own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

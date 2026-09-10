@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const deployFunctions = {
   id: "01a06887-6590-7ef6-b6f5-49959a7c99f2",

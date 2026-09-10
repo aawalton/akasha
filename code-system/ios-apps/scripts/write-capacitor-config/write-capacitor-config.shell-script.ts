@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../../shell-scripts/shell-script.page-type.ts"
+import type { ShellScript } from "../../../shell-scripts/shell-script.page-type.types.ts"
 
 export const writeCapacitorConfig = {
   id: "01a05934-fe0e-7785-bb6a-bdfc081e0a63",

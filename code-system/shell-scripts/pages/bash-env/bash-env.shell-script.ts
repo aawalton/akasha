@@ -1,4 +1,4 @@
-import type { ShellScript } from "../../shell-script.page-type.ts"
+import type { ShellScript } from "../../shell-script.page-type.types.ts"
 
 export const bashEnv = {
   id: "01a06860-f3aa-7219-a6c2-9803ce5b7b07",

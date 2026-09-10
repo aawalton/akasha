@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const mlxVlmProvision = {
   id: "01a06815-9efd-7010-b17f-2205819c5b61",

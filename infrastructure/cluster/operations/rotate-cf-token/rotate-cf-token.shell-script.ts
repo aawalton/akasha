@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const rotateCfToken = {
   id: "01a06865-abff-7018-b47a-3e1d7622711e",

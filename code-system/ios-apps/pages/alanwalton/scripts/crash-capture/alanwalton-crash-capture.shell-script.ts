@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const alanwaltonCrashCapture = {
   id: "01a0595b-ef57-71b5-98f6-96f6a82ef908",

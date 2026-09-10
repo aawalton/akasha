@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const alanwaltonKokoroPluginDeclaration = {
   id: "01a0595b-ef5c-791f-894c-0e66937282b6",

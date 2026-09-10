@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const esoRigClusterPublish = {
   id: "01a06866-58f8-7b2d-a395-8fde2d4bc9ab",

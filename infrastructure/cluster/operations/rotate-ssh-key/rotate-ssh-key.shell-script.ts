@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code/shell-script"
+import type { ShellScript } from "akasha/code-system/shell-scripts/shell-script.page-type.types.ts"
 
 export const rotateSshKey = {
   id: "01a06865-abff-7019-a82b-2c7579bfe486",
