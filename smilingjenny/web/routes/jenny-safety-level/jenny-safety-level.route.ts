@@ -41,7 +41,7 @@ export const jennySafetyLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "A group with nothing carried in answers 503.",
+      statement: "Only a group no readout is left in answers 503.",
     },
     {
       invariantKind: "departure",
