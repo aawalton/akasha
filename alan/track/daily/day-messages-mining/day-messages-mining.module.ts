@@ -11,15 +11,18 @@ export const dayMessagesMining = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A message counted is one Alan typed or queued and nothing an agent sent.",
+      statement:
+        "A message counted is a message Alan typed or queued rather than a message an agent sent.",
     },
     {
       invariantKind: "departure",
-      statement: "A transcript belongs to the persona whose seat page a read answered it with.",
+      statement:
+        "A transcript belongs to the persona whose seat page a read answered that transcript with.",
     },
     {
       invariantKind: "departure",
-      statement: "A transcript answered no seat page is read off the persona it is told it is.",
+      statement:
+        "A transcript answered no seat page is read off the persona that transcript is told to be.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +30,7 @@ export const dayMessagesMining = {
     },
     {
       invariantKind: "departure",
-      statement: "The first name a transcript has is the name it is held by.",
+      statement: "The first name a transcript has is the name that transcript is held by.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +38,7 @@ export const dayMessagesMining = {
     },
     {
       invariantKind: "departure",
-      statement: "A transcript answering to none of the three is counted against nobody.",
+      statement: "A transcript answering to no name is counted against nobody.",
     },
     {
       invariantKind: "departure",
@@ -47,11 +50,12 @@ export const dayMessagesMining = {
     },
     {
       invariantKind: "departure",
-      statement: "A day's counts are replaced by what the transcripts say rather than added to.",
+      statement:
+        "A day's counts are replaced by the counts the transcripts say rather than added to.",
     },
     {
       invariantKind: "departure",
-      statement: "A day the transcripts say nothing about keeps the counts it already had.",
+      statement: "A day the transcripts say nothing about keeps the counts that day already had.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +67,7 @@ export const dayMessagesMining = {
     },
     {
       invariantKind: "gap",
-      statement: "A transcript no longer on this machine takes its messages away with it.",
+      statement: "A transcript no longer on this machine takes its messages out of the counts.",
     },
     {
       invariantKind: "absence",
