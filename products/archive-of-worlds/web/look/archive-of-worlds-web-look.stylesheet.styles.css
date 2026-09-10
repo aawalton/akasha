@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "@akasha/design-system/styles.css";
+@import "akasha/design/system/design-look/design-look.stylesheet.styles.css";
 
 @source "../../../../alan/harness/**/*.{ts,tsx}";
 @source "../../../../design/badges/**/*.{ts,tsx}";

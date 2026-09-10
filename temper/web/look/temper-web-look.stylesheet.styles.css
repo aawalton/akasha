@@ -1,6 +1,6 @@
 @import "katex/dist/katex.min.css";
 @import "tailwindcss";
-@import "@akasha/design-system/styles.css";
+@import "akasha/design/system/design-look/design-look.stylesheet.styles.css";
 @import "tw-animate-css";
 
 @source "../../../alan/harness/**/*.{ts,tsx}";
