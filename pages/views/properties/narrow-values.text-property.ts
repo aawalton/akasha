@@ -16,10 +16,6 @@ export const narrowValues = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value naming a parameter is the value that parameter is given.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A blank character of a value is weighed like every other character.",
     },
     {
