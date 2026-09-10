@@ -15,12 +15,15 @@ export const subagentHanded = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The edits a subagent left are the seat's to take once the subagent's page is gone.",
+      statement: "The edits a subagent left are the seat's once the subagent has returned.",
     },
     {
       invariantKind: "departure",
-      statement: "A subagent still with a page has handed nothing over.",
+      statement: "A subagent that has not returned has handed nothing over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent whose edits are gone has handed nothing over.",
     },
     {
       invariantKind: "departure",
@@ -28,15 +31,11 @@ export const subagentHanded = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the edits are not named by is passed over rather than read.",
+      statement: "The subagents are asked of the index rather than listed off a folder.",
     },
     {
       invariantKind: "departure",
-      statement: "The subagents are named in one order rather than the order the folder answers.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A folder that is not there answers no subagent.",
+      statement: "The subagents are named in one order rather than the order the index answers.",
     },
     {
       invariantKind: "absence",

@@ -118,6 +118,11 @@ function partsAt(root: string, page: string): readonly string[] {
   return uncommittedPartsOf(page, SLUG, HELD, (at) => existsSync(join(root, at)))
 }
 
+export function editsWaiting(root: string, page: string): boolean {
+  const at = editsAt(page)
+  return at !== null && existsSync(join(root, at))
+}
+
 function textOver(root: string, page: string): string | null {
   const held: string[] = []
   for (const at of partsAt(root, page)) {

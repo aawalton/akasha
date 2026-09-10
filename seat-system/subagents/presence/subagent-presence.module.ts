@@ -130,6 +130,18 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A page whose subagent left edits waiting says the subagent returned.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a page is left where it is rather than taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent that handed edits over is not among the pages under a seat.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The page a seat sits at is read from the index rather than composed from a name.",
     },
     {

@@ -133,6 +133,14 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
+      statement: "A page with a file of edits beside it has edits waiting.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether edits wait is answered from the first file rather than from the rows.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The rows are folded into one answer by the rule one answer is gathered by.",
     },
     {

@@ -9,12 +9,23 @@ export const subagent = {
   pluralSlug: "subagents",
   extends: ["page-type/agent"],
   mortal: true,
-  parts: ["module/subagent-presence", "relation-property/subagent-kind", "text-property/agent-id"],
+  parts: [
+    "boolean-property/subagent-returned",
+    "module/subagent-presence",
+    "relation-property/subagent-kind",
+    "text-property/agent-id",
+  ],
   properties: [
     { pageProperty: "relation-property/principal-seat-name", required: true, many: false },
     { pageProperty: "text-property/dispatched-as", required: false, many: false },
     { pageProperty: "relation-property/subagent-kind", required: false, many: false },
     { pageProperty: "text-property/agent-id", required: true, many: false },
+    {
+      pageProperty: "boolean-property/subagent-returned",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   invariants: [
     {
@@ -27,7 +38,15 @@ export const subagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's page goes when the subagent returns.",
+      statement: "A subagent's page goes when the subagent returns leaving no edits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent returning with edits waiting says so on its page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page saying so is there until the edits beside it are taken or dropped.",
     },
     {
       invariantKind: "gap",

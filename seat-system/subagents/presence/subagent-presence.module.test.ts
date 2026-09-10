@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { listedFiled, pageFiled } from "@akasha/indexes/testing"
+import { listedFiled, pageFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import { keepUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
+import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   blobIdOf,
   readingIn,
@@ -20,6 +22,7 @@ import {
   landingAgain,
   logPathOf,
   pathOf,
+  pathsUnder,
   seatNamedIn,
   slugOf,
   stampedAt,
@@ -60,6 +63,10 @@ import {
 } from "./subagent-presence.module.test-fixtures.ts"
 
 const LANDS: Landing = landingNaming([])
+
+const SUBAGENT = "subagent"
+
+const ROW = `${JSON.stringify({ kind: "remove", path: "one.md" })}\n`
 
 test("a stamp says the time to the millisecond, carrying the offset it was written at", () => {
   const when = new Date(1788600000123)
@@ -235,6 +242,37 @@ test("a page that is not there is taken away by doing nothing", async () => {
     expect(await took(root, "akasha", OWN)).toEqual(WENT)
     expect(gitIn(root, ["rev-parse", "HEAD"])).toBe(held)
   })
+})
+
+test("a page whose subagent left edits waiting stays and says the subagent returned", async () => {
+  await underSeat(async (root) => {
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", LANDS)).toEqual(WENT)
+    const at = pathOf(slugOf("akasha", OWN))
+    writing(root, editsAt(at) ?? "", ROW)
+    const named: string[] = []
+    expect(await took(root, "akasha", OWN, landingNaming(named))).toEqual(WENT)
+    expect(named).toEqual([])
+    expect(existsSync(join(root, at))).toBe(true)
+    expect(uncommittedIn(root, at)?.returned).toBe(true)
+  })
+})
+
+test("a subagent that handed edits over is not among the pages under a seat", () => {
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("subagent-presence-")
+    const at = pathOf(slugOf("akasha", OWN))
+    const other = pathOf(slugOf("akasha", "second"))
+    valueAlsoFiled(root, SUBAGENT, [
+      { path: at, value: { id: SEAT_ID, slug: slugOf("akasha", OWN) } },
+      { path: other, value: { id: ANOTHER, slug: slugOf("akasha", "second") } },
+    ])
+    writing(root, editsAt(at) ?? "", ROW)
+    keepUncommitted(root, at, { returned: true })
+    expect(pathsUnder(root, "akasha")).toEqual([other])
+  } finally {
+    world.sweep()
+  }
 })
 
 test("a page in history is taken up with its id and kind, and comes back with that id", async () => {

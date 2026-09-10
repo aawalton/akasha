@@ -3,8 +3,11 @@ import { dirname, join } from "node:path"
 import { everyOfType, listedAt, listedById } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { partedIn } from "@akasha/pages/page-file-name"
+import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
 import { valueAt } from "@akasha/pages/page-value"
 import { textAt } from "@akasha/utils/narrow/text-at"
+import { editsWaiting } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { handedOver } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
@@ -13,6 +16,7 @@ import {
   SUBAGENT_MARK,
 } from "../../../commands/modules/reading/reading.module.code.ts"
 import { subagentPageInHistory } from "../../subagent-page-history/subagent-page-history.module.code.ts"
+import { subagentReturned } from "../properties/subagent-returned.boolean-property.ts"
 
 export const SUBAGENTS_AT = "seat-system/subagents/pages"
 
@@ -39,6 +43,8 @@ const SUFFIX = ".subagent.ts"
 const ADD_PAGE = "change-mechanical/add-file-of-any-kind"
 
 const TAKE_PAGE = "change-mechanical-file/remove-file-page"
+
+const RETURNED = subagentReturned.propertySlug
 
 export type Landing = (
   root: string,
@@ -179,6 +185,10 @@ export async function took(
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   if (!existsSync(join(root, at))) return WENT
+  if (editsWaiting(root, at)) {
+    mergeUncommitted(root, at, { [RETURNED]: true })
+    return WENT
+  }
   const why = `${slug} is done, so its page goes; what it was is in this repository's history`
   const went = wentBy(await landing(root, [{ at: TAKE_PAGE, given: { at } }], why))
   if ("why" in went) return went
@@ -191,6 +201,7 @@ export function pathsUnder(root: string, seatName: string): readonly string[] {
   return everyOfType(root, SUBAGENT)
     .map((one) => one.path)
     .filter((one) => partedIn(one)?.slug.startsWith(mark) === true)
+    .filter((one) => !handedOver(root, one))
     .sort()
 }
 
