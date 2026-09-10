@@ -1,4 +1,4 @@
-import type { RustCrate } from "../../code-system/rust-crates/rust-crate.page-type.ts"
+import type { RustCrate } from "../../code-system/rust-crates/rust-crate.page-type.types.ts"
 
 export const watcherTray = {
   id: "01a06034-87f1-70ce-9bb8-126ea33109ad",

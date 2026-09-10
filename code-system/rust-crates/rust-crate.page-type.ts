@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { CargoBuildScript } from "./properties/cargo-build-script.code-file-property.ts"
-import type { CargoManifest } from "./properties/cargo-manifest.file-property.ts"
-import type { CrateIcon } from "./properties/crate-icon.file-property.ts"
-import type { RustModules } from "./properties/rust-modules.relation-property.ts"
-
-export type RustCrate = Domain & {
-  cargoManifest: CargoManifest
-  modules?: RustModules
-  cargoBuildScript?: CargoBuildScript
-  icon?: CrateIcon
-}
 
 export const rustCrate = {
   id: "01a0602d-6ad2-7a2e-8686-1b1cf565107a",
@@ -67,4 +55,5 @@ export const rustCrate = {
       statement: "A crate's icon is carried as text and written out by that same seam.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
