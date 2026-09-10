@@ -6,6 +6,8 @@ import {
   WORKING_PAGE,
 } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.test-fixtures.ts"
 import type { SeatTurnState } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
+import { z } from "zod"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   agentTurnColors,
@@ -17,6 +19,12 @@ import {
 } from "./agent-turn-colors.command.code.ts"
 
 const ROOT = "/nowhere"
+
+const ANSWERED = z.object({ colors: z.record(z.string(), z.string()) }).strict()
+
+function parseColorsAnswered(said: string): { readonly colors: Record<string, string> } {
+  return ANSWERED.parse(JSON.parse(said))
+}
 
 function givenIn(): Given {
   return {
@@ -91,7 +99,7 @@ test("a state whose page names no color is left out rather than answered an empt
 })
 
 test("what is said is one object carrying the colors and nothing else", () => {
-  const said = JSON.parse(colorsSaid({ working: "green" }))
+  const said = parseColorsAnswered(colorsSaid({ working: "green" }))
 
   expect(Object.keys(said)).toEqual(["colors"])
   expect(said.colors).toEqual({ working: "green" })
@@ -110,23 +118,27 @@ test("an id no seat ever held is left out rather than refused", () => {
 
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  expect(JSON.parse(said.report[0] ?? "")).toEqual({ colors: {} })
+  expect(parseColorsAnswered(said.report[0] ?? "")).toEqual({ colors: {} })
 })
 
 test("a color rewritten under this command is the color it next answers", () => {
   const root = rootWith("chartreuse")
-  const was = process.env["AKASHA_ROOT"]
+  const was = optionalEnv("AKASHA_ROOT")
   try {
     process.env["AKASHA_ROOT"] = root
     const first = agentTurnColors([STATE, "working"], givenIn())
 
     expect(first.refusals).toEqual([])
-    expect(JSON.parse(first.report[0] ?? "")).toEqual({ colors: { working: "chartreuse" } })
+    expect(parseColorsAnswered(first.report[0] ?? "")).toEqual({
+      colors: { working: "chartreuse" },
+    })
 
     colorIn(root, "vermilion")
     const second = agentTurnColors([STATE, "working"], givenIn())
 
-    expect(JSON.parse(second.report[0] ?? "")).toEqual({ colors: { working: "vermilion" } })
+    expect(parseColorsAnswered(second.report[0] ?? "")).toEqual({
+      colors: { working: "vermilion" },
+    })
   } finally {
     if (was === undefined) delete process.env["AKASHA_ROOT"]
     else process.env["AKASHA_ROOT"] = was
