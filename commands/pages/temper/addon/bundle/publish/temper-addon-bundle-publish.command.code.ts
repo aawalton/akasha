@@ -1,8 +1,10 @@
 import { createHash } from "node:crypto"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { join, resolve } from "node:path"
+import { dirname, join, resolve } from "node:path"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import { listedAt, valuesByPath } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import { textAt } from "akasha/pages/value/page-value.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import { valuesOf } from "../../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import type { Answer } from "../../../../../modules/calling/calling.module.code.ts"
@@ -42,7 +44,31 @@ const PULL_REGISTRY = "registry.registry.svc.cluster.local:5000"
 
 const DEFAULT_PUSH_REGISTRY = "192.168.68.87:30500"
 
-const TAG_FILE = "temper/web/deploy/addon-bundle-image.ts"
+const ROUTER_APP = "router-app"
+
+const APP_SLUG = "temper-web"
+
+const CODE_FILE_PROPERTY = "code-file-property"
+
+const IMAGE_SLUG = "addon-bundle-image"
+
+const FILE_NAME = "fileName"
+
+function tagFileIn(root: string): string {
+  const app = listedAt(root, ROUTER_APP, APP_SLUG)[0]
+  const property = listedAt(root, CODE_FILE_PROPERTY, IMAGE_SLUG)[0]
+  const value =
+    property === undefined
+      ? null
+      : (valuesByPath(root, CODE_FILE_PROPERTY).get(property.path) ?? null)
+  const named = value === null ? null : textAt(value, FILE_NAME)
+  if (app === undefined || named === null) {
+    throw new Error(
+      `no \`${ROUTER_APP}\` is slugged \`${APP_SLUG}\` carrying an \`${IMAGE_SLUG}\`, so the tag names nothing`
+    )
+  }
+  return join(dirname(app.path), named)
+}
 
 const SHA_PLACEHOLDER = "0".repeat(40)
 
@@ -142,7 +168,8 @@ export async function temperAddonBundlePublish(argv: readonly string[] = []): Pr
     const pushed = mustRun(["podman", "push", "--tls-verify=false", pushRef], `pushing ${pushRef}`)
     if (pushed !== null) return refused(pushed, FAILED)
 
-    const tagPath = join(root, TAG_FILE)
+    const tagFile = tagFileIn(root)
+    const tagPath = join(root, tagFile)
     const body = tagBody(contentHash)
     let held: string | null = null
     try {
@@ -151,7 +178,7 @@ export async function temperAddonBundlePublish(argv: readonly string[] = []): Pr
     if (held !== body) {
       const landed = await runMechanicalChange(
         root,
-        [{ at: PUT, given: { at: TAG_FILE, body } }],
+        [{ at: PUT, given: { at: tagFile, body } }],
         MESSAGE
       )
       if ("refusals" in landed) {

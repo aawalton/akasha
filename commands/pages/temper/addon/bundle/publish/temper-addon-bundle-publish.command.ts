@@ -44,6 +44,10 @@ export const temperAddonBundlePublish = {
     },
     {
       invariantKind: "departure",
+      statement: "Where the tag sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The tag lands as a mechanical change rather than written by this command.",
     },
     {
