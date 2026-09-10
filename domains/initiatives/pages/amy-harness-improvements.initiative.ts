@@ -11,7 +11,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's app fills his password in from 1Password.",
       workingMemory:
-        "Alan settled the origin and I settled the mechanism: a bundled entry redirecting to `https://alanwalton.com`, as atlas and smilingjenny boot, since `server.url` hangs on a cold offline start. All seven CORS allowlists already carry the origin, the persistence ports reach `alan/web`, and `sim-driver`'s origin is a departure. Left: whether a widget's `capacitor://localhost` deep link still opens the app, then `auth-mode` deleted, `browser-client` always cookie-ssr, and the config.",
+        "Alan settled the origin and I settled the mechanism: a bundled entry redirecting to `https://alanwalton.com`, as smilingjenny boots. Every CORS allowlist already carries the origin, and no deep link changes, since iOS hands a widget's URL to its own app whatever the scheme and the router keeps only the path. Left: whether Capacitor injects its bridge on a remote origin, which nothing here exercises and everything native needs, then `auth-mode` deleted and `browser-client` always cookie-ssr.",
     },
     {
       statement: "All of Jenny's widgets work.",
