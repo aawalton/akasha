@@ -28,7 +28,7 @@ export const inboxTrackingPolling = {
     {
       invariantKind: "departure",
       statement:
-        "The email count is kept on the opened day only where it is lower than the count already there.",
+        "The email count is kept on the opened day only where the new count is lower than the old count.",
     },
     {
       invariantKind: "departure",
