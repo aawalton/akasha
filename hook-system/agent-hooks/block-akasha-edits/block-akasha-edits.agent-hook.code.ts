@@ -115,7 +115,7 @@ function refusingPages(toolName: string, shown: string): string {
       "",
       lands,
       "",
-      "A passage ending mid-line opens `old HEREDOC-OLD no-newline`, because a heredoc adds one.",
+      "A passage drops the newline the heredoc adds, so a whole line goes by naming a line beside it.",
     ].join("\n")
   }
   return [

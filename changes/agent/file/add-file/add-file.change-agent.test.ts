@@ -29,6 +29,13 @@ test("the arguments naming a path and a body are answered as one edit", async ()
   expect(said.edits).toEqual([{ kind: "add", path: PLAIN, content: "alpha\n" }])
 })
 
+test("a body keeps the newline its fence left on the last line", async () => {
+  const said = await addFileCommand(worldOf({}), { at: PLAIN, body: "alpha\nbeta\n" })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([{ kind: "add", path: PLAIN, content: "alpha\nbeta\n" }])
+})
+
 test("arguments holding no path are refused by the name of the argument", async () => {
   const said = await addFileCommand(worldOf({}), { body: "alpha\n" })
 
