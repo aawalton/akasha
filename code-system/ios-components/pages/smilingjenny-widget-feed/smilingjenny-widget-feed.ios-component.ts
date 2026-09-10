@@ -40,5 +40,24 @@ export const smilingjennyWidgetFeed = {
       invariantKind: "departure",
       statement: "The refresh stays fifteen minutes out however near the named moment is.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A widget is granted fewer reloads a day than a refresh every fifteen minutes asks.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "A surplus falling thirty-two an hour reaches the rung four under it in seven minutes.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "Refreshing at each moment named would spend in one costly block a whole day of reloads.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A moment named carries no word on whether the server's reading changed.",
+    },
   ],
 } as const satisfies IosComponent

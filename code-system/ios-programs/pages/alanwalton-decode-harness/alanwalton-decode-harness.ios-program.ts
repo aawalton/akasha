@@ -8,6 +8,7 @@ export const alanwaltonDecodeHarness = {
   definition: "a program checking tiles decode the payloads they are handed",
   main: "swift",
   components: [
+    "ios-component/alanwalton-attribute-stoplights-widget",
     "ios-component/alanwalton-categorize-widget",
     "ios-component/alanwalton-cost-widget",
     "ios-component/alanwalton-claude-usage-payload",

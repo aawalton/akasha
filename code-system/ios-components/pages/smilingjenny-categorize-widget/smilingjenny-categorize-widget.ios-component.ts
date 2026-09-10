@@ -12,5 +12,13 @@ export const smilingjennyCategorizeWidget = {
       invariantKind: "departure",
       statement: "This file has the bundle Jenny's widget extension starts at.",
     },
+    {
+      invariantKind: "constraint",
+      statement: "Stating that start keeps this component out of the decode harness.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Jenny's categorize tile is compiled by a build to a device and by nothing else.",
+    },
   ],
 } as const satisfies IosComponent

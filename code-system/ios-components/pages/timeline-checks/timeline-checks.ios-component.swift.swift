@@ -31,12 +31,6 @@ enum TimelineChecks {
         }
     }
 
-    // `CostFeed` HERE IS THE APP'S OWN, WHICH IS WHY EACH HARNESS NAMES ITS COST WIDGET.
-    //
-    // Each app declares its own `CostFeed`, one to a target, so this file reaches whichever
-    // one it was compiled beside. Asking that feed rather than a stand-in is the only way
-    // the conformance a phone will run is the conformance a check ran. A harness that stops
-    // naming its cost widget stops building here, which is the reminder wanted.
     private static func costing(_ extra: String) -> CostResponse? {
         let sent = Data(
             #"{"stoplights":[{"habit":"cost","tier":"red","reading":"0.5","label":"Cost"\#(extra)}]}"#
@@ -44,6 +38,12 @@ enum TimelineChecks {
         return try? JSONDecoder().decode(CostResponse.self, from: sent)
     }
 
+    // `CostFeed` BELOW IS THE APP'S OWN, WHICH IS WHY EACH HARNESS NAMES ITS COST WIDGET.
+    //
+    // Each app declares its own `CostFeed`, one to a target, so this file reaches whichever
+    // one it was compiled beside. Asking that feed rather than a stand-in is the only way
+    // the conformance a phone will run is the conformance a check ran. A harness that stops
+    // naming its cost widget stops building here, which is the reminder wanted.
     static func run() -> [(String, Bool, String)] {
         let now = FallingChecks.tookAt
         let soon = now.addingTimeInterval(600)

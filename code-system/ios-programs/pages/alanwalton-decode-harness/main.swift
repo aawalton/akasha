@@ -184,8 +184,21 @@ check(
     inboxCount(["email", "tasks", "temperTasks"]) == 3,
     "three entries")
 
+func attributeCount(_ slugs: [String]) -> Int? {
+    decodedCount(AttributeStoplightsResponse.self, stoplightsBody("attribute", slugs)) {
+        $0.stoplights.count
+    }
+}
+
+check(
+    "the six attribute circles decode",
+    attributeCount(["strength", "endurance", "constitution", "wisdom", "intelligence", "charisma"])
+        == 6,
+    "six entries")
+
 check("an empty upkeep payload is rejected", upkeepCount([]) == nil, "no stoplights")
 check("an empty inbox payload is rejected", inboxCount([]) == nil, "no stoplights")
+check("an empty attribute payload is rejected", attributeCount([]) == nil, "no stoplights")
 
 check(
     "an entry naming the wrong key is rejected",

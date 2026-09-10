@@ -42,6 +42,11 @@ export const iosProgram = {
       statement: "A program's top level statements sit in the file named main.swift.",
     },
     {
+      invariantKind: "constraint",
+      statement:
+        "A program with top level statements compiles no component stating a start of its own.",
+    },
+    {
       invariantKind: "departure",
       statement: "Swift names no imports between the files of one program.",
     },
