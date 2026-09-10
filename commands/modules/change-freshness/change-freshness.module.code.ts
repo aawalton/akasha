@@ -1,11 +1,15 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitIn, told } from "../../../git/running/git-running.module.code.ts"
-import { sameBody as sameBytes } from "../body-merging/body-merging.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code.ts"
 
 const HERE = "."
+
+function sameBytes(one: Uint8Array | null, two: Uint8Array | null): boolean {
+  if (one === null || two === null) return one === two
+  return Buffer.from(one).equals(Buffer.from(two))
+}
 
 function pathsIn(said: string | null): readonly string[] | null {
   return said === null ? null : said.split("\0").filter((one) => one !== "")

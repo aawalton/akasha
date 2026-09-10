@@ -58,5 +58,9 @@ export const changeFreshness = {
       statement:
         "A path that changed between two commits and will not read is taken as having changed.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Two bodies are one body where the bytes are the bytes, and neither is no body.",
+    },
   ],
 } as const satisfies Module
