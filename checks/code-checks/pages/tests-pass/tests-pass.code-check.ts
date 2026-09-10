@@ -185,8 +185,20 @@ export const testsPass = {
       statement: "How much of a refusal one answer has is settled where the apply answers.",
     },
     {
-      invariantKind: "gap",
-      statement: "A failing run is reported against the first test file the run named.",
+      invariantKind: "departure",
+      statement: "A run that failed is reported against the first file its output blames.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A short run and a crashed run are reported that way too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names each file the output blames.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run whose output blames no file is reported against the first file named.",
     },
     {
       invariantKind: "departure",

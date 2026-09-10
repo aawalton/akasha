@@ -85,13 +85,34 @@ export function slowlyOf(ran: Ran): string {
   return `${given}, and ${counted(ran.slow.length)} went past that:\n${held}\n\n${MEND}`
 }
 
-export function reasonOf(ran: Ran, named: readonly string[]): string {
+const NAMES = ":"
+
+export function failedIn(output: string, named: readonly string[]): readonly string[] {
+  const held = new Set(named)
+  const seen = new Set<string>()
+  const found: string[] = []
+  for (const line of plain(output).split("\n")) {
+    const one = line.trimEnd()
+    if (!one.endsWith(NAMES)) continue
+    const at = one.slice(0, -NAMES.length)
+    if (!held.has(at) || seen.has(at)) continue
+    seen.add(at)
+    found.push(at)
+  }
+  return found
+}
+
+export function failinglyOf(ran: Ran, over: string, failing: readonly string[]): string {
+  const many = (ran.summary.passed ?? 0) + (ran.summary.failed ?? 0)
+  const said = `${ran.summary.failed} of ${many} tests failed, over ${over}:\n${saidOf(ran.output)}`
+  if (failing.length === 0) return said
+  return `${counted(failing.length)} failed:\n${failing.join("\n")}\n\n${said}`
+}
+
+export function reasonOf(ran: Ran, named: readonly string[], failing: readonly string[]): string {
   const over = `${counted(named.length)} standing beside what this change carries`
   if (ran.verdict === "slow") return slowlyOf(ran)
-  if (ran.verdict === "fail") {
-    const held = (ran.summary.passed ?? 0) + (ran.summary.failed ?? 0)
-    return `${ran.summary.failed} of ${held} tests failed, over ${over}:\n${saidOf(ran.output)}`
-  }
+  if (ran.verdict === "fail") return failinglyOf(ran, over, failing)
   if (ran.verdict === "short") {
     return (
       `${ran.summary.files} of the ${named.length} test files named ran, so the ones that did ` +
@@ -136,6 +157,14 @@ export function bodiesOf(change: Change, shadow: Shadow): Bodies {
   return held
 }
 
+export function refusedOf(ran: Ran, named: readonly string[], first: string): Judged {
+  const failing = failedIn(ran.output, named)
+  return {
+    path: ran.slow[0]?.path ?? failing[0] ?? first,
+    reason: reasonOf(ran, named, failing),
+  }
+}
+
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
   if (alreadyRunning()) return []
   const named = namedIn(change)
@@ -147,6 +176,5 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
   const found = ranOver(change.root, named, named.length, null, bodies)
   if (found.verdict === "pass") return []
   const said = { ...found, output: spelledIn(found.output, change.root) }
-  const at = said.slow[0]?.path ?? first
-  return [{ path: at, reason: reasonOf(said, named) }]
+  return [refusedOf(said, named, first)]
 }

@@ -14,20 +14,26 @@ import {
   proposing,
 } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
+  failedIn,
   linksIn,
   namedIn,
   reasonOf,
   refusalsOver,
+  refusedOf,
   saidOf,
   spentlyOf,
 } from "./tests-pass.code-check.decision.code.ts"
 import {
   BREAKS,
+  COUNTED_AT,
   FAILS,
   HOLDS,
   PASSES,
+  RAN_ONE_FAILED,
+  RAN_TWO_FAILED,
   READS,
   repo,
+  SORTED_AT,
   scratch,
   withoutGuard,
 } from "./tests-pass.code-check.decision.test-fixtures.ts"
@@ -49,7 +55,8 @@ test("a run over the ceiling is refused by naming each file over it", () => {
     ranAs("slow", { files: 1, failed: 0, passed: 9 }, "", [
       { path: "akasha/one.module.test.ts", cpuSeconds: 21.4 },
     ]),
-    ["akasha/one.module.test.ts"]
+    ["akasha/one.module.test.ts"],
+    []
   )
   expect(said).toContain("akasha/one.module.test.ts")
   expect(said).toContain("a test file is given 5 processor seconds")
@@ -81,16 +88,19 @@ test("a file over the ceiling is named beside the seconds that file spent", () =
     ranAs("slow", { files: 1, failed: 0, passed: 9 }, "", [
       { path: "akasha/one.module.test.ts", cpuSeconds: 5.83 },
     ]),
-    ["akasha/one.module.test.ts"]
+    ["akasha/one.module.test.ts"],
+    []
   )
   expect(said).toContain("akasha/one.module.test.ts spent 5.8 processor seconds")
   expect(said).toContain("a test file is given 5 processor seconds")
 })
 
 test("a run ended at the ceiling is not refused as the runner failing", () => {
-  const said = reasonOf(ranAs("slow", { files: null, failed: null, passed: null }, "", [], 5.24), [
-    "akasha/one.module.test.ts",
-  ])
+  const said = reasonOf(
+    ranAs("slow", { files: null, failed: null, passed: null }, "", [], 5.24),
+    ["akasha/one.module.test.ts"],
+    []
+  )
   expect(said).toContain("5.2 processor seconds")
   expect(said).toContain("put none of them past the ceiling")
   expect(said).not.toContain("the runner failing")
@@ -204,19 +214,19 @@ test("a run already inside a run judges nothing and lets the outer one answer", 
 })
 
 test("a run reaching fewer files than it named is refused as saying nothing about the rest", () => {
-  const said = reasonOf(ranAs("short", { files: 1, failed: 0, passed: 3 }), ["one", "two"])
+  const said = reasonOf(ranAs("short", { files: 1, failed: 0, passed: 3 }), ["one", "two"], [])
   expect(said).toContain("1 of the 2 test files named ran")
   expect(said).toContain("say nothing about the rest")
 })
 
 test("a run printing no summary is refused as the runner failing, not a test", () => {
-  const said = reasonOf(ranAs("crash", { files: null, failed: null, passed: null }), ["one"])
+  const said = reasonOf(ranAs("crash", { files: null, failed: null, passed: null }), ["one"], [])
   expect(said).toContain("nothing says the tests ran at all")
   expect(said).toContain("the runner failing, not a test")
 })
 
 test("one test file is counted in the singular", () => {
-  const said = reasonOf(ranAs("fail", { files: 1, failed: 1, passed: 2 }), ["one"])
+  const said = reasonOf(ranAs("fail", { files: 1, failed: 1, passed: 2 }), ["one"], [])
   expect(said).toContain("over 1 test file standing beside")
   expect(said).toContain("1 of 3 tests failed")
 })
@@ -268,6 +278,32 @@ test("a run under a change that moves a page type resolves that page type where 
   const said = withoutGuard(() => refusalsOver(moved, shadowAsked(moved)))
 
   expect(said).toEqual([])
+})
+
+test("a failing run is reported against the file whose tests failed", () => {
+  const named = [COUNTED_AT, SORTED_AT].sort()
+  expect(named[0]).toBe(SORTED_AT)
+  const ran = ranAs("fail", { files: 2, failed: 1, passed: 7 }, RAN_ONE_FAILED)
+  expect(refusedOf(ran, named, SORTED_AT).path).toBe(COUNTED_AT)
+})
+
+test("that refusal names each file the output blames", () => {
+  const named = [SORTED_AT, COUNTED_AT]
+  const ran = ranAs("fail", { files: 2, failed: 3, passed: 3 }, RAN_TWO_FAILED)
+  const said = refusedOf(ran, named, SORTED_AT)
+  expect(said.path).toBe(SORTED_AT)
+  expect(said.reason).toContain("2 test files failed")
+  expect(said.reason).toContain(SORTED_AT)
+  expect(said.reason).toContain(COUNTED_AT)
+})
+
+test("a run whose output blames no file is reported against the first test file named", () => {
+  const ran = ranAs("crash", { files: null, failed: null, passed: null })
+  expect(refusedOf(ran, ["one"], "one").path).toBe("one")
+})
+
+test("a file the output names that the run did not name is blamed by nothing", () => {
+  expect(failedIn(RAN_ONE_FAILED, [SORTED_AT])).toEqual([])
 })
 
 test("the reason names a file where it stands in the change, not in the world it ran in", () => {

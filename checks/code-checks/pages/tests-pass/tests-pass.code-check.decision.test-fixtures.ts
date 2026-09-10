@@ -50,6 +50,75 @@ export function tracked(files: Record<string, string>): string {
   return root
 }
 
+export const SORTED_AT = "utils/narrow/sorted-once/sorted-once.module.test.ts"
+
+export const COUNTED_AT = "utils/text/counted/counted.module.test.ts"
+
+export const RAN_ONE_FAILED = `bun test v1.3.14 (0d9b296a)
+...
+utils/text/counted/counted.module.test.ts:
+1 | import { expect, test } from "bun:test"
+2 | import { counted } from "./counted.module.code.ts"
+3 | 
+4 | test("a count of one is said with the singular", () => {
+5 |   expect(counted(1, "file")).toBe("1 fileish")
+                                 ^
+error: expect(received).toBe(expected)
+Expected: "1 fileish"
+Received: "1 file"
+      at <anonymous> (utils/text/counted/counted.module.test.ts:5:30)
+(fail) a count of one is said with the singular [0.12ms]
+....
+7 pass
+1 fail
+8 expect() calls
+Ran 8 tests across 2 files. [27.00ms]
+`
+
+export const RAN_TWO_FAILED = `bun test v1.3.14 (0d9b296a)
+utils/narrow/sorted-once/sorted-once.module.test.ts:
+# Unhandled error between tests
+-------------------------------
+1 | import { expect, test } from "bun:test"
+2 | import { sortedOnce } from "./sorted-once.module.code.ts"
+3 | 
+4 | if (sortedOnce.length > -1) throw new Error("this file will not load")
+                                          ^
+error: this file will not load
+      at utils/narrow/sorted-once/sorted-once.module.test.ts:4:39
+-------------------------------
+utils/text/counted/counted.module.test.ts:
+1 | import { expect, test } from "bun:test"
+2 | import { counted } from "./counted.module.code.ts"
+3 | 
+4 | test("a count of one is said with the singular", () => {
+5 |   expect(counted(1, "file")).toBe("1 fileish")
+                                 ^
+error: expect(received).toBe(expected)
+Expected: "1 fileish"
+Received: "1 file"
+      at <anonymous> (utils/text/counted/counted.module.test.ts:5:30)
+(fail) a count of one is said with the singular [0.10ms]
+4 | test("a count of one is said with the singular", () => {
+5 |   expect(counted(1, "file")).toBe("1 fileish")
+6 | })
+7 | 
+8 | test("every other count is said with the plural", () => {
+9 |   expect(counted(2, "file")).toBe("2 filesish")
+                                 ^
+error: expect(received).toBe(expected)
+Expected: "2 filesish"
+Received: "2 files"
+      at <anonymous> (utils/text/counted/counted.module.test.ts:9:30)
+(fail) every other count is said with the plural [0.03ms]
+...
+3 pass
+3 fail
+1 error
+5 expect() calls
+Ran 6 tests across 2 files. [26.00ms]
+`
+
 export function withoutGuard<T>(run: () => T): T {
   const held = process.env[RUNNING]
   delete process.env[RUNNING]
