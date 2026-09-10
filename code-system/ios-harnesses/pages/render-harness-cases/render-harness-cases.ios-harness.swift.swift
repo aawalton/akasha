@@ -26,6 +26,34 @@ func cases(now: Date) -> [RenderCase] {
 
     all.append(contentsOf: costCases(now: now))
 
+    #if !HARNESS_ALANWALTON
+    let jennyUpkeep = """
+        {"stoplights":[\
+        {"habit":"safety","tier":"green","reading":"3.2","nextTier":"blue","progress":0.6,"label":"Safety"},\
+        {"habit":"surplus","tier":"yellow","reading":"-2.5","nextTier":"green","progress":0.375,"label":"Surplus"},\
+        {"habit":"capacity","tier":"blue","reading":"12.0","nextTier":null,"progress":null,"label":"Capacity"},\
+        {"habit":"sleep","tier":"red","reading":"6.4","nextTier":"yellow","progress":0.4,"label":"Sleep"}]}
+        """
+    all.append(contentsOf: [
+        RenderCase(
+            name: "upkeep-stoplights-small", widget: "UpkeepStoplightsWidget",
+            familySource: "systemSmall", body: jennyUpkeep),
+        RenderCase(
+            name: "upkeep-stoplights-small-never-read", widget: "UpkeepStoplightsWidget",
+            familySource: "systemSmall", body: "", unreadable: true),
+    ])
+
+    for tile in [
+        "CategorizeWidget", "SafetyLevelWidget", "SurplusWidget", "CostWidget",
+        "UpkeepStoplightsWidget",
+    ] {
+        all.append(
+            RenderCase(
+                name: "\(slug(tile))-\(familySpec(source: "systemSmall")?.cli ?? "?")-refused",
+                widget: tile, familySource: "systemSmall", body: "", refused: true))
+    }
+    #endif
+
     #if HARNESS_ALANWALTON
     func ms(_ secondsFromNow: Double) -> String {
         String(Int((now.timeIntervalSince1970 + secondsFromNow) * 1000))

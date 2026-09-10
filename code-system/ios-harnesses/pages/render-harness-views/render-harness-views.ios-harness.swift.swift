@@ -16,14 +16,16 @@ enum Harness: Error {
     }
 }
 
+// A REFUSED FETCH IS A STATE EVERY APP'S FEED CARRIES.
+//
+// Both feeds answer `.refused` where the baked credential is missing or where the server says 401,
+// so a gate here would leave one app's refused tiles unrenderable and unlooked at.
 func feedState<Payload: Decodable>(
     _ type: Payload.Type, body: Data, unreadable: Bool, refused: Bool
 ) throws -> FeedState<Payload> {
-    #if HARNESS_ALANWALTON
     if refused {
         return .refused
     }
-    #endif
     if unreadable {
         if (try? JSONDecoder().decode(type, from: body)) != nil {
             throw Harness.failed(
@@ -55,6 +57,10 @@ func makeView(
     refused: Bool
 ) throws -> AnyView {
     switch widget {
+    // THE GATE HOLDS ONLY THE TILES ALAN'S BUNDLE ALONE CARRIES.
+    //
+    // Their payload and their view live in components only his program names, so nothing compiles
+    // those two names into Jenny's harness. Every other tile here is built by both programs.
     #if HARNESS_ALANWALTON
     case "ClaudeUsageWidget":
         let state = try feedState(ClaudeUsage.self, body: body, unreadable: unreadable, refused: refused)
@@ -64,10 +70,10 @@ func makeView(
     case "InboxStoplightsWidget":
         let state = try feedState(InboxStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(InboxHomeView(entry: FeedEntry(date: date, state: state)))
+    #endif
     case "UpkeepStoplightsWidget":
         let state = try feedState(UpkeepStoplightsResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(UpkeepHomeView(entry: FeedEntry(date: date, state: state)))
-    #endif
     case "SafetyLevelWidget":
         let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(SafetyLevelHomeView(entry: FeedEntry(date: date, state: state)))
