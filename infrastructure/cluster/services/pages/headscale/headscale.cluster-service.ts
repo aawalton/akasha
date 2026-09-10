@@ -20,4 +20,19 @@ export const headscale = {
     "secret/headscale-s3-creds-access-key",
     "secret/headscale-s3-creds-secret-key",
   ],
+  invariants: [
+    {
+      invariantKind: "gap",
+      statement: "A certificate renewal reaches the server serving that certificate.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The server reads its certificate once and serves that one until the server ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pod is rolled by the certificate's checksum changing where the manifest is applied again.",
+    },
+  ],
 } as const satisfies ClusterService
