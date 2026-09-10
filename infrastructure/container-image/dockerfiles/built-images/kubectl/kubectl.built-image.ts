@@ -7,6 +7,6 @@ export const kubectl = {
   slug: "kubectl",
   definition: "the image with kubectl",
   kind: "tool-image",
-  folder: "infrastructure/dockerfiles",
+  folder: "infrastructure/container-image/dockerfiles",
   extensions: "json",
 } as const satisfies BuiltImage

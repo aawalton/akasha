@@ -7,6 +7,6 @@ export const ci = {
   slug: "ci",
   definition: "the image a pipeline's own steps run in",
   kind: "tool-image",
-  folder: "infrastructure/dockerfiles",
+  folder: "infrastructure/container-image/dockerfiles",
   extensions: "json",
 } as const satisfies BuiltImage

@@ -1,12 +1,12 @@
 import type { BuiltImage } from "../built-image.page-type.ts"
 
-export const buildkit = {
-  id: "01a08196-17bb-728a-95ac-3294061e39dc",
+export const bunGit = {
+  id: "01a08195-9aac-7e4b-b655-f432049e6a48",
   pageTypeSlug: "built-image",
   type: "built-image",
-  slug: "buildkit",
-  definition: "the image container images are built by",
+  slug: "bun-git",
+  definition: "the image with bun beside git",
   kind: "tool-image",
-  folder: "infrastructure/dockerfiles",
+  folder: "infrastructure/container-image/dockerfiles",
   extensions: "json",
 } as const satisfies BuiltImage
