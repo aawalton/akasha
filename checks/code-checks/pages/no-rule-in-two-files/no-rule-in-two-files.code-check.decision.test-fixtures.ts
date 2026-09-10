@@ -90,6 +90,18 @@ export function bothArriving(root: string): Change {
   }
 }
 
+export const ONE_MARKDOWN = "akasha/b/one.md"
+
+export function unindexed(): Change {
+  const body = bytesOf("# one\n")
+  return {
+    root: scratch.rootFor("akasha-two-files-unindexed-"),
+    changed: [ONE_MARKDOWN],
+    after: (path: string): Uint8Array | null => (path === ONE_MARKDOWN ? body : null),
+    before: (): null => null,
+  }
+}
+
 export function tracked(files: Readonly<Record<string, string>>): string {
   const root = rooted()
   let held = 0

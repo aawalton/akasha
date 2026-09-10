@@ -1,6 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
-import { everySpeltIn, reasonsIn } from "./no-rule-in-two-files.code-check.decision.code.ts"
+import { shadowAsked, shadowFor } from "akasha/pages/shadow/shadow.module.code.ts"
+import {
+  everySpeltIn,
+  reasonsIn,
+  refusalsOver,
+} from "./no-rule-in-two-files.code-check.decision.code.ts"
 import {
   bothArriving,
   byRule,
@@ -10,6 +14,7 @@ import {
   rooted,
   scratch,
   TWO_CODE,
+  unindexed,
   WIDEN,
 } from "./no-rule-in-two-files.code-check.decision.test-fixtures.ts"
 
@@ -111,6 +116,13 @@ test("a rule spelled inline is not seen, because only a function is read", () =>
   const inline = `const camel = one.slug.replace(/-([a-z0-9])/g, (_, first: string) => first.toUpperCase())\n`
   const every = byRule([{ path: "two.module.code.ts", text: EXPORTED_AS }])
   expect(reasonsIn("one.ts", inline, every)).toEqual([])
+})
+
+test("a change with no code file is refused nothing though the index cannot be read", () => {
+  const change = unindexed()
+  const shadow = shadowAsked(change)
+  expect(() => shadow.index.everyPath()).toThrow("could not be answered")
+  expect(refusalsOver(change, shadow)).toEqual([])
 })
 
 test("the files a change brings are among those a rule is looked for in", () => {

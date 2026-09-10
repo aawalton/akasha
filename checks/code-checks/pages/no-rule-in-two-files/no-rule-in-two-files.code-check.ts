@@ -78,7 +78,11 @@ export const noRuleInTwoFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file the index names is read on each run whatever the change has.",
+      statement: "Every file the index names is read on each run whose change has a code file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change with no code file is refused nothing without the index being read.",
     },
     {
       invariantKind: "absence",

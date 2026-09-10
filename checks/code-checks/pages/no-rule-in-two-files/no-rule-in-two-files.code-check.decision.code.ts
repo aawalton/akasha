@@ -48,6 +48,7 @@ export function reasonsIn(
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+  if (!change.changed.some(textNamed)) return []
   const every = everySpeltIn(change, shadow)
   return overEachFile(change, (given) => {
     if (!textNamed(given.path)) return []
