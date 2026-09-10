@@ -98,5 +98,17 @@ export const harnessCall = {
       invariantKind: "absence",
       statement: "Noise reaching no listener is dropped.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Nothing the editor loads reads the index, because reading one needs bun.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "The folder the command server sits in is spelled here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The index answers where the command server's code sits.",
+    },
   ],
 } as const satisfies Module
