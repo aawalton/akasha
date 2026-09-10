@@ -1,8 +1,3 @@
-import { setStoreDiagnosticsSink } from "@akasha/pages/ui-store/diagnostics"
-import {
-  configureContentPersistence,
-  configurePagesPersistence,
-} from "@akasha/pages/ui-store/singleton"
 import { configureLocalPositionReader } from "@akasha/pages-ui/components/local-position-port"
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
@@ -15,6 +10,11 @@ import {
 import { CommandPalette } from "akasha/design/primitives/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
+import {
+  configureContentPersistence,
+  configurePagesPersistence,
+} from "akasha/pages/ui-store/singleton/singleton.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
 import {
