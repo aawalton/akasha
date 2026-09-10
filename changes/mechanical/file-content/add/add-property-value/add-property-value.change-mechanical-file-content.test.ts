@@ -163,6 +163,78 @@ test("a key that is no bare word is refused", () => {
   expect(said.refused).toBe("`part slugs` is no key a page spells")
 })
 
+test("a value under a property holding a boolean is written bare", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "worked",
+    value: "true",
+    single: true,
+    holds: "boolean",
+  })
+
+  expect(bodyOf(said, () => BODY)).toContain("worked: true,")
+})
+
+test("a value under a property holding a number is written bare", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "nextSeq",
+    value: "12",
+    single: true,
+    holds: "number",
+  })
+
+  expect(bodyOf(said, () => BODY)).toContain("nextSeq: 12,")
+})
+
+test("a value under any other property is written as JSON spells it", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "manifest",
+    value: "json",
+    single: true,
+  })
+
+  expect(bodyOf(said, () => BODY)).toContain(`manifest: "json",`)
+})
+
+test("a value that is no boolean is refused", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "worked",
+    value: "yes",
+    single: true,
+    holds: "boolean",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`yes` is no boolean, so nothing is put in")
+})
+
+test("a value that is no number is refused", () => {
+  const said = addPropertyValue(worldOf(BODY), {
+    at: AT,
+    key: "nextSeq",
+    value: "12px",
+    single: true,
+    holds: "number",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`12px` is no number, so nothing is put in")
+})
+
+test("a value is judged before the body is read", () => {
+  const said = addPropertyValue(worldOf(null), {
+    at: AT,
+    key: "worked",
+    value: "yes",
+    holds: "boolean",
+  })
+
+  expect(said.refused).toBe("`yes` is no boolean, so nothing is put in")
+})
+
 test("a key is judged before the body is read", () => {
   const said = addPropertyValue(worldOf(null), { at: AT, key: "part-slugs", value: "kept/three" })
 

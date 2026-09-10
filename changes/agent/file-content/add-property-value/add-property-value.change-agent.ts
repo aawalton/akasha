@@ -59,6 +59,14 @@ export const addPropertyValue = {
       invariantKind: "departure",
       statement: "A page whose type cannot be read has no key refused.",
     },
+    {
+      invariantKind: "departure",
+      statement: "What a property holds is read from the type the page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property holding a boolean or a number is handed on as holding it.",
+    },
   ],
   changeKind: "change-checked",
 } as const satisfies ChangeAgent

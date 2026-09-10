@@ -16,9 +16,26 @@ export type AddPropertyValueAsked = {
   readonly value: string
   readonly after?: string
   readonly single?: boolean
+  readonly holds?: string
 }
 
 const BARE = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+
+const BOOLEAN = "boolean"
+
+const NUMBER = "number"
+
+const TRUE = "true"
+
+const FALSE = "false"
+
+const NUMERAL = /^-?(?:0|[1-9][0-9]*)(?:\.[0-9]+)?$/
+
+export function spelledAs(value: string, holds: string | undefined): string | null {
+  if (holds === BOOLEAN) return value === TRUE || value === FALSE ? value : null
+  if (holds === NUMBER) return NUMERAL.test(value) ? value : null
+  return JSON.stringify(value)
+}
 
 function keyFaultIn(key: string): string | null {
   if (BARE.test(key)) return null
@@ -30,6 +47,10 @@ function keyFaultIn(key: string): string | null {
 export function addPropertyValue(world: World, given: AddPropertyValueAsked): Said {
   const fault = keyFaultIn(given.key)
   if (fault !== null) return refusing(fault)
+  const said = spelledAs(given.value, given.holds)
+  if (said === null) {
+    return refusing(`\`${given.value}\` is no ${given.holds}, so nothing is put in`)
+  }
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const source = parsedAs(given.at, text)
@@ -39,7 +60,6 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): Sa
     (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
   )
   if (one === undefined || !ts.isPropertyAssignment(one)) {
-    const said = JSON.stringify(given.value)
     const put = given.single === true ? `${given.key}: ${said}` : `${given.key}: [${said}]`
     return stating(spliced(given.at, text, withProperty(text, source, owner, put, given.after)))
   }
@@ -47,10 +67,13 @@ export function addPropertyValue(world: World, given: AddPropertyValueAsked): Sa
   if (!ts.isArrayLiteralExpression(holding)) {
     return refusing(`\`${given.key}\` holds one value, so \`${given.value}\` is a restatement`)
   }
-  if (holding.elements.some((each) => ts.isStringLiteral(each) && each.text === given.value)) {
+  const already = holding.elements.some((each) =>
+    ts.isStringLiteral(each) ? each.text === given.value : each.getText(source) === said
+  )
+  if (already) {
     return refusing(`\`${given.key}\` holds \`${given.value}\` already`)
   }
-  return stating(spliced(given.at, text, withValue(source, holding, given.value)))
+  return stating(spliced(given.at, text, withValue(source, holding, said)))
 }
 
 export function runChange(world: World, given: AddPropertyValueAsked): Said {

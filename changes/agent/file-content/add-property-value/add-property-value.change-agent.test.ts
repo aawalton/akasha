@@ -17,7 +17,13 @@ type Told = {
   readonly target: string | null
   readonly found: readonly { readonly path: string; readonly id: string }[]
   readonly page?: Value | null
-  readonly carried?: readonly { readonly key: string; readonly many: boolean }[] | null
+  readonly carried?:
+    | readonly {
+        readonly key: string
+        readonly many: boolean
+        readonly pageTypeSlug?: string
+      }[]
+    | null
 }
 
 function worldTold(told: Told): World {
@@ -37,6 +43,7 @@ function worldTold(told: Told): World {
       knownIn: () => known,
       pageByPath: () => ("page" in told ? told.page : PAGE),
       propertiesIfNamed: () => told.carried ?? null,
+      kindsUnder: (slug: string) => new Set<string>([slug]),
     } as never,
     textOf: () => null,
     bodyOf: () => null,
@@ -209,6 +216,53 @@ test("a key the page's type declares is handed on", async () => {
   )
 
   expect(reached).toBe(RUNS)
+})
+
+test("a key the page's type holds a boolean under is handed on as holding a boolean", async () => {
+  let handed: unknown = null
+  const world = worldTold({
+    slug: null,
+    target: null,
+    found: [],
+    carried: [{ key: "worked", many: false, pageTypeSlug: "boolean-property" }],
+  })
+
+  await runChange(
+    {
+      ...world,
+      reaching: (_world, _at, given) => {
+        handed = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { at: AT, key: "worked", value: "true" }
+  )
+
+  expect(handed).toEqual({ at: AT, key: "worked", value: "true", single: true, holds: "boolean" })
+})
+
+test("a key the page's type holds text under is handed on saying nothing of what it holds", async () => {
+  let handed: unknown = null
+  const world = worldTold({
+    slug: null,
+    target: null,
+    found: [],
+    carried: [{ key: "manifest", many: false, pageTypeSlug: "file-property" }],
+  })
+
+  await runChange(
+    {
+      ...world,
+      reaching: (_world, _at, given) => {
+        handed = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { at: AT, key: "manifest", value: "json" }
+  )
+
+  expect(handed).toEqual({ at: AT, key: "manifest", value: "json", single: true })
+  expect("holds" in (handed as object)).toBe(false)
 })
 
 test("a page whose type cannot be read has no key refused", async () => {

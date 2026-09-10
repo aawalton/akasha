@@ -3,6 +3,7 @@ import { missing, refusing } from "../../../modules/answer/change-answer.module.
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {
   declaresIn,
+  holdsIn,
   readFor,
   singleIn,
   targetsIn,
@@ -48,7 +49,9 @@ export async function addPropertyValue(
     }
   }
   const single = singleIn(world, read.value, given.key)
-  return (await reach(world, ADD_PROPERTY_VALUE, single ? { ...given, single } : given)).said
+  const holds = holdsIn(world, read.value, given.key)
+  const asked = single ? { ...given, single } : { ...given }
+  return (await reach(world, ADD_PROPERTY_VALUE, holds === null ? asked : { ...asked, holds })).said
 }
 
 export type Asked = Readonly<Record<string, string>>

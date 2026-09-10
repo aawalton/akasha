@@ -64,6 +64,26 @@ export function declaresIn(world: World, value: Value, key: string): boolean | n
   return carried.some((each) => each.key === key)
 }
 
+const BOOLEAN_PROPERTY = "boolean-property"
+
+const NUMBER_PROPERTY = "number-property"
+
+const BOOLEAN = "boolean"
+
+const NUMBER = "number"
+
+export function holdsIn(world: World, value: Value, key: string): string | null {
+  const stated = typeIn(value)
+  if (stated === null) return null
+  const carried = world.index.propertiesIfNamed(stated)
+  if (carried === null) return null
+  const one = carried.find((each) => each.key === key)
+  if (one === undefined) return null
+  if (world.index.kindsUnder(BOOLEAN_PROPERTY).has(one.pageTypeSlug)) return BOOLEAN
+  if (world.index.kindsUnder(NUMBER_PROPERTY).has(one.pageTypeSlug)) return NUMBER
+  return null
+}
+
 export function singleIn(world: World, value: Value, key: string): boolean {
   const stated = typeIn(value)
   if (stated === null) return false

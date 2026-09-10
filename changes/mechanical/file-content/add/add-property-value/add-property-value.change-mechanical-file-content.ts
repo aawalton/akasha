@@ -98,6 +98,22 @@ export const addPropertyValue = {
       invariantKind: "departure",
       statement: "A key the page gains is a list where the caller says nothing about the property.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A value the caller says is a boolean is written bare.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value the caller says is a number is written bare.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value the caller says nothing about is written as JSON spells it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value that is no such thing is refused before the body is read.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

@@ -14,9 +14,8 @@ function commaAfter(text: string, from: number, limit: number): number {
 export function withValue(
   source: ts.SourceFile,
   holding: ts.ArrayLiteralExpression,
-  value: string
+  put: string
 ): Splice {
-  const put = JSON.stringify(value)
   const last = holding.elements[holding.elements.length - 1]
   if (last === undefined) {
     const opened = holding.getStart(source) + 1

@@ -71,5 +71,9 @@ export const pageKnowing = {
       statement: "Whether a page's type declares a key is read from that type.",
     },
     { invariantKind: "departure", statement: "A type the index cannot read judges no key." },
+    {
+      invariantKind: "departure",
+      statement: "What a key holds is read from the page type the property descends from.",
+    },
   ],
 } as const satisfies Module

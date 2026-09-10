@@ -73,10 +73,10 @@ function splicedInto(text: string, one: Splice): string {
   return text.slice(0, one.from) + one.put + text.slice(one.to)
 }
 
-function valuePut(text: string, key: string, value: string): string {
+function valuePut(text: string, key: string, put: string): string {
   const source = parsedAs(AT, text)
   const list = listIn(source, key)
-  return list === null ? "" : splicedInto(text, withValue(source, list, value))
+  return list === null ? "" : splicedInto(text, withValue(source, list, put))
 }
 
 function propertyPut(text: string, put: string, after: string | undefined): string {
@@ -98,17 +98,17 @@ function propertyGone(text: string, at: number): string {
 }
 
 test("a value put into a list already holding values falls after the last of them", () => {
-  expect(valuePut(BODY, "partSlugs", "module/three")).toBe(
+  expect(valuePut(BODY, "partSlugs", '"module/three"')).toBe(
     BODY.replace('"module/two"]', '"module/two", "module/three"]')
   )
 })
 
 test("a value put into a list holding none falls just inside the bracket", () => {
-  expect(valuePut(EMPTY, "partSlugs", "module/one")).toContain('partSlugs: ["module/one"],')
+  expect(valuePut(EMPTY, "partSlugs", '"module/one"')).toContain('partSlugs: ["module/one"],')
 })
 
-test("a value is written as JSON spells it", () => {
-  expect(valuePut(BODY, "partSlugs", 'a "quoted" one')).toContain('"a \\"quoted\\" one"')
+test("a value is written as the caller spells it", () => {
+  expect(valuePut(BODY, "partSlugs", "true")).toContain('"module/two", true]')
 })
 
 test("an entry put into an object falls after the entry `after` names", () => {

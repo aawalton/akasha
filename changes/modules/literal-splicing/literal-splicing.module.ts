@@ -23,7 +23,7 @@ export const literalSplicing = {
     },
     {
       invariantKind: "departure",
-      statement: "A value is written as JSON spells it.",
+      statement: "A value is written as the caller spells it.",
     },
     {
       invariantKind: "departure",
