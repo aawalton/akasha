@@ -93,6 +93,10 @@ function namedIn(one: ts.ImportDeclaration): ts.NamedImports | null {
   return bound !== undefined && ts.isNamedImports(bound) ? bound : null
 }
 
+function namingOf(each: ts.ImportSpecifier): string {
+  return (each.propertyName ?? each.name).text
+}
+
 function textOfNode(text: string, one: ts.Node): string {
   return text.slice(one.getStart(one.getSourceFile()), one.getEnd())
 }
@@ -150,15 +154,15 @@ function bodyFor(carried: ReadonlyMap<string, Carried>, passage: string, given: 
   return lines.length === 0 ? held : `${lines.join(LINE)}${LINE}${LINE}${held}`
 }
 
-function withoutName(
+function withoutOne(
   text: string,
   one: ts.ImportDeclaration,
   bound: ts.NamedImports,
-  named: string
+  gone: ts.ImportSpecifier
 ): string {
   const source = one.getSourceFile()
   const kept = bound.elements
-    .filter((each) => each.name.text !== named)
+    .filter((each) => each !== gone)
     .map((each) => text.slice(each.getStart(source), each.getEnd()))
   const head = text.slice(one.getStart(source), bound.getStart(source))
   const tail = text.slice(bound.getEnd(), one.getEnd())
@@ -174,9 +178,11 @@ function droppedFor(
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
     const bound = namedIn(one)
-    if (bound === null || !bound.elements.some((each) => each.name.text === named)) continue
+    if (bound === null) continue
+    const gone = bound.elements.find((each) => each.name.text === named)
+    if (gone === undefined) continue
     if (bound.elements.length > 1) {
-      return { at, old: textOfNode(text, one), new: withoutName(text, one, bound, named) }
+      return { at, old: textOfNode(text, one), new: withoutOne(text, one, bound, gone) }
     }
     const ended = one.getEnd()
     const from = one.getStart(source)
@@ -237,10 +243,12 @@ function pointedAt(
     const head = text.slice(one.getStart(source), named.getStart(source))
     return `${head}${landing}${text.slice(named.getEnd(), one.getEnd())}`
   }
-  const each = bound.elements.find((held) => held.name.text === given.of)
-  const type = one.importClause?.isTypeOnly === true || each?.isTypeOnly === true
-  const line = `import ${type ? "type " : ""}{ ${given.of} } from ${landing}`
-  return `${withoutName(text, one, bound, given.of)}${LINE}${line}`
+  const each = bound.elements.find((held) => namingOf(held) === given.of)
+  if (each === undefined) return textOfNode(text, one)
+  const type = one.importClause?.isTypeOnly === true || each.isTypeOnly
+  const naming = each.propertyName === undefined ? given.of : `${given.of} as ${each.name.text}`
+  const line = `import ${type ? "type " : ""}{ ${naming} } from ${landing}`
+  return `${withoutOne(text, one, bound, each)}${LINE}${line}`
 }
 
 function rootedIn(naming: ReadonlyMap<string, string>): string | null {
@@ -278,7 +286,7 @@ function repointedAt(
     const bound = namedIn(one)
     const named = one.moduleSpecifier
     if (bound === null || !ts.isStringLiteral(named)) continue
-    if (!bound.elements.some((each) => each.name.text === given.of)) continue
+    if (!bound.elements.some((each) => namingOf(each) === given.of)) continue
     const landing = landingFor(at, named.text, given, naming)
     if (landing === null) continue
     return { at, old: textOfNode(text, one), new: pointedAt(text, one, bound, given, landing) }

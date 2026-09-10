@@ -410,3 +410,39 @@ test("a body naming that type by the workspace root's own path names where it la
   expect(said.refused).toBeNull()
   expect(puttingAt(said, FAR)).toEqual([`import type { Kept } from "tree/${TO}"`])
 })
+
+const ALIASING = `import type { Kept as Held } from "./one.held.ts"
+
+export type Wraps = {
+  readonly kept: Held
+}
+`
+
+test("a body naming that type under another name goes on naming it under that name", async () => {
+  const world = worldOf({ [FROM]: HELD, [USES]: ALIASING }, [USES])
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "Kept" })
+
+  expect(said.refused).toBeNull()
+  expect(puttingAt(said, USES)).toEqual([`import type { Kept as Held } from "./two.held.ts"`])
+})
+
+const ALIASING_TWO = `import type { Kept as Held, Other } from "./one.held.ts"
+
+export type Wraps = {
+  readonly kept: Held
+  readonly other: Other
+}
+`
+
+test("that other name is kept where the import naming it names something else too", async () => {
+  const world = worldOf({ [FROM]: HELD, [USES]: ALIASING_TWO }, [USES])
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "Kept" })
+
+  expect(said.refused).toBeNull()
+  expect(puttingAt(said, USES)).toEqual([
+    `import type { Other } from "./one.held.ts"\n` +
+      `import type { Kept as Held } from "./two.held.ts"`,
+  ])
+})

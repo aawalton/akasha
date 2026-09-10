@@ -79,6 +79,10 @@ export const moveCodeExport = {
       statement: "Every body importing that export names the path that export landed at.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body naming that export under another name goes on naming it under that name.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a body of its own.",
     },
