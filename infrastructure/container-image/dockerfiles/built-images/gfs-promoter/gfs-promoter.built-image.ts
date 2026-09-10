@@ -1,4 +1,4 @@
-import type { BuiltImage } from "../built-image.page-type.ts"
+import type { BuiltImage } from "../built-image.page-type.types.ts"
 
 export const gfsPromoter = {
   id: "01a08194-6715-7c46-9a2d-7b4740d6ca3d",

@@ -1,4 +1,4 @@
-import type { BuiltImage } from "../built-image.page-type.ts"
+import type { BuiltImage } from "../built-image.page-type.types.ts"
 
 export const ci = {
   id: "01a08195-0e78-7ea5-b0ec-f8b6ae4155c6",

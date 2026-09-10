@@ -1,4 +1,4 @@
-import type { BuiltImage } from "../built-image.page-type.ts"
+import type { BuiltImage } from "../built-image.page-type.types.ts"
 
 export const kubectl = {
   id: "01a08196-9015-7321-b20c-98d923881057",

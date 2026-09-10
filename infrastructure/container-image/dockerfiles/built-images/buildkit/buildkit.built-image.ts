@@ -1,4 +1,4 @@
-import type { BuiltImage } from "../built-image.page-type.ts"
+import type { BuiltImage } from "../built-image.page-type.types.ts"
 
 export const buildkit = {
   id: "01a08196-17bb-728a-95ac-3294061e39dc",

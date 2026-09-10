@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { ImageExtensions } from "./properties/image-extensions.file-property.ts"
-import type { ImageFolder } from "./properties/image-folder.text-property.ts"
-import type { ImageKind } from "./properties/image-kind.text-property.ts"
-
-export type BuiltImage = Domain & {
-  kind: ImageKind
-  folder: ImageFolder
-  extensions?: ImageExtensions
-}
 
 export const builtImage = {
   id: "01a08193-c20c-7525-aced-8d801a2e9cd6",
@@ -53,4 +43,5 @@ export const builtImage = {
       statement: "An image adding nothing states no extensions.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

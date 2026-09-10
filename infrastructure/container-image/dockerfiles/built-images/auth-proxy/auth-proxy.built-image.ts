@@ -1,4 +1,4 @@
-import type { BuiltImage } from "../built-image.page-type.ts"
+import type { BuiltImage } from "../built-image.page-type.types.ts"
 
 export const authProxy = {
   id: "01a08194-1a6e-744f-aa2e-fdb20aea0fe1",
