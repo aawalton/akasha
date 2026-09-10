@@ -1,5 +1,6 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
 
 export const NAMESPACE = "voice"
 const APP_NAME = "voice-infer"
@@ -11,6 +12,9 @@ const MANAGED_BY = "bootstrap"
 export const IMAGE = "registry.registry.svc.cluster.local:5000/cluster/voice-infer-cu121:serving"
 
 export const NODE = "node-02"
+
+const S3_CREDS_NAME = "voice-infer-s3-creds"
+const S3_CREDS_KEYS = ["access_key", "secret_key"]
 
 export const SERVICE_NAME = "voice-infer"
 export const PORT = 8080
@@ -48,7 +52,9 @@ function deploymentYaml(): string {
       template: {
         metadata: {
           labels: RESOURCE_LABELS,
-          annotations: { "checksum/s3-creds": "placeholder" },
+          annotations: {
+            "checksum/s3-creds": secretChecksum(NAMESPACE, S3_CREDS_NAME, S3_CREDS_KEYS),
+          },
         },
         spec: {
           nodeName: NODE,
@@ -70,11 +76,11 @@ function deploymentYaml(): string {
                 { name: "SEAWEEDFS_REGION", value: "us-east-1" },
                 {
                   name: "SEAWEEDFS_ACCESS_KEY",
-                  valueFrom: { secretKeyRef: { name: "voice-infer-s3-creds", key: "access_key" } },
+                  valueFrom: { secretKeyRef: { name: S3_CREDS_NAME, key: "access_key" } },
                 },
                 {
                   name: "SEAWEEDFS_SECRET_KEY",
-                  valueFrom: { secretKeyRef: { name: "voice-infer-s3-creds", key: "secret_key" } },
+                  valueFrom: { secretKeyRef: { name: S3_CREDS_NAME, key: "secret_key" } },
                 },
               ],
               resources: {
