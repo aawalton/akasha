@@ -70,7 +70,7 @@ export function passingIn(shadow: Shadow): Passing {
   }
   return {
     palette: `${dirname(design.path)}/`,
-    home: codeAt(shadow, CODE_CHECK, OWN),
+    home: `${dirname(codeAt(shadow, CODE_CHECK, OWN))}/`,
     granted: new Map(
       GRANTS.map((one) => [
         codeAt(shadow, one.pageTypeSlug, one.slug),
@@ -82,7 +82,7 @@ export function passingIn(shadow: Shadow): Passing {
 
 export function judgedAt(passing: Passing, path: string): boolean {
   if (path.startsWith(passing.palette)) return false
-  if (path === passing.home) return false
+  if (path.startsWith(passing.home)) return false
   const base = path.slice(path.lastIndexOf("/") + 1)
   if (base.includes(".test.") || base.includes(".generated.")) return false
   return !path.split("/").includes(GENERATED)

@@ -11,9 +11,11 @@ const ROOT = "/repo"
 
 const GRANTED_AT = "alan/atlas-web/location-map/location-map.module.code.tsx"
 
+const HOME = "checks/code-checks/pages/no-color-literal/"
+
 const PASSING: Passing = {
   palette: "design/",
-  home: "checks/code-checks/pages/no-color-literal/no-color-literal.code-check.code.ts",
+  home: HOME,
   granted: new Map([[GRANTED_AT, new Set(["#e6e4df"])]]),
 }
 
@@ -109,8 +111,9 @@ test("a test body and a generated body are judged by nothing", () => {
   expect(judgedAt("alan/web/held/held.generated.ts")).toBe(false)
 })
 
-test("the check's own code is judged by nothing, so its grants are no violation", () => {
-  expect(judgedAt(PASSING.home)).toBe(false)
+test("the check's own home is judged by nothing, so the grants it states are no violation", () => {
+  expect(judgedAt(`${HOME}no-color-literal.code-check.code.ts`)).toBe(false)
+  expect(judgedAt(`${HOME}no-color-literal.code-check.decision.code.ts`)).toBe(false)
 })
 
 test("a body that is neither code nor a stylesheet is passed over", () => {

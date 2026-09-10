@@ -23,6 +23,10 @@ export const noColorLiteral = {
     },
     {
       invariantKind: "departure",
+      statement: "This check's own home writes the grants out and is judged by nothing here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page states a value and dresses nothing, so no page file is judged.",
     },
     {
