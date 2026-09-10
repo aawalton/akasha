@@ -13,7 +13,6 @@ import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-prope
 import type { Sequence } from "./properties/sequence.record-property.ts"
 import type { TypeGenerator } from "./properties/type-generator.file-property.ts"
 import type { Types } from "./properties/types.file-property.ts"
-import type { Worked } from "./properties/worked.file-property.ts"
 
 export type PageType = Domain & {
   extends: ExtendsType
@@ -28,7 +27,6 @@ export type PageType = Domain & {
   allowsTmpPaths?: AllowsTmpPaths
   nextSeq?: NextSeq
   owner?: Owner
-  worked?: Worked
   typeGenerator?: TypeGenerator
   types?: Types
 }
