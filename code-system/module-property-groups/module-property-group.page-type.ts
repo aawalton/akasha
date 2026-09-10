@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { FilePropertyGroup } from "akasha/pages/file-property-groups/file-property-group.page-type.types.ts"
-
-export type ModulePropertyGroup = FilePropertyGroup
 
 export const modulePropertyGroup = {
   id: "01a087b6-ed4d-74ed-b30f-7c9dd49d73c0",
@@ -43,4 +40,5 @@ export const modulePropertyGroup = {
       statement: "A page carrying the group states nothing about these files at all.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

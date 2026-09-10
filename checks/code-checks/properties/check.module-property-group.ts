@@ -1,4 +1,4 @@
-import type { ModulePropertyGroup } from "@akasha/code/module-property-group"
+import type { ModulePropertyGroup } from "akasha/code-system/module-property-groups/module-property-group.page-type.types.ts"
 
 export const check = {
   id: "01a087bc-94bc-75f5-ba41-03165ee04f85",
