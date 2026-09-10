@@ -11,7 +11,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A seat's logs and socket are uncommitted properties beside that seat's page.",
       workingMemory:
-        "Most of these lines are beside a page already: `log-source` and `seat-log-day` file one page per source per seat per day, lines in a `.jsonl` beside it, 513 pages on disk. `.supervisors/<agent id>/*.log` is the fallback `pageSink` spills to when the page refuses or `seatNameForAgent` answers null, so it is a symptom of keying a day on the seat name. Only `oauth-proxy.stderr.log`, `subagent-presence.log` and `bootstrap-<pid>.log` have no page. The socket is gone to `/run/user/<uid>`.\n",
+        "Most of these lines are beside a page already: `log-source` and `seat-log-day` file one page per source per seat per day, lines in a `.jsonl` beside it. The socket and a supervisor's own files are gone to `/run/user/<uid>`, and nothing of a supervisor's is in the checkout. `oauth-proxy.stderr.log`, `subagent-presence.log` and `bootstrap-<pid>.log` still have no page, and are what the fallback spills when `seatNameForAgent` answers null.\n",
     },
     {
       statement: "Each piece the asking module holds sits in a module answering for one concern.",
