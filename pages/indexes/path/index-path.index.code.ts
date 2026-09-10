@@ -13,6 +13,8 @@ import {
   type SidecarsBy,
   under,
 } from "../path-claiming/path-claiming.module.code.ts"
+import { keepWhole } from "../rebuilding/rebuilding.module.code.ts"
+import { indexIn, readingAt } from "../surface/index-surface.module.code.ts"
 import { indexPath } from "./index-path.index.ts"
 
 const PATH = indexPath.name
@@ -38,6 +40,10 @@ function thereIn(repo: string, carried: ReadonlyMap<string, Bodied>, was: boolea
 
 export function pathAt(at: string): string {
   return at.slice(PATH.length + 1, -ENDING.length)
+}
+
+export function fileFor(at: string): string {
+  return join(PATH, `${at}${ENDING}`)
 }
 
 export function claimedIn(
@@ -69,10 +75,7 @@ export function pathIn(
 ): readonly Entry[] {
   const line = JSON.stringify({ path: under(repo, path), id: textAt(value, "id") })
   return claimedIn(value, path, repo, fileProperties, sidecars, withheld, there, folders).map(
-    (one) => ({
-      at: join(PATH, `${one}${ENDING}`),
-      line,
-    })
+    (one) => ({ at: fileFor(one), line })
   )
 }
 
@@ -95,4 +98,11 @@ export function claimingIn(
       thereIn(repo, carried, was),
       folders
     )
+}
+
+export function partFiled(repo: string, page: string, at: string): undefined {
+  const root = indexIn(repo)
+  const held = readingAt(root).lines(fileFor(under(repo, page)))
+  if (held.length === 0) return
+  keepWhole(join(root, fileFor(under(repo, at))), held, root)
 }

@@ -10,6 +10,7 @@ import {
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { exportedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { typeSlugOf } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
 
@@ -169,6 +170,7 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
         return
       }
       const size = Buffer.byteLength(text, "utf8") + 1
+      let opened = false
       if (bytes > 0 && bytes + size > ENTRY_CEILING) {
         const next = partAt(pagePath, part + 1)
         if (next === null) {
@@ -178,6 +180,7 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
         part += 1
         path = join(root, next)
         bytes = 0
+        opened = true
       }
       bytes += size
       const at = path
@@ -185,6 +188,7 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
         if (refused !== null) return
         try {
           await appendFile(at, `${text}\n`, "utf8")
+          if (opened) partFiled(root, pagePath, at)
         } catch (error) {
           refused = `no line reached ${at}: ${error instanceof Error ? error.message : String(error)}`
         }

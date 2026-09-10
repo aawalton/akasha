@@ -3,6 +3,7 @@ import { appendFileSync, existsSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ENTRY_CEILING } from "akasha/pages/entry-ceiling/entry-ceiling.module.code.ts"
 import { uncommittedPartAt } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
 import { textOnDisk } from "akasha/utils/fs/text-on-disk/text-on-disk.module.code.ts"
 import { spentRelaying } from "akasha/utils/run/run-relaying/run-relaying.module.code.ts"
@@ -188,12 +189,14 @@ function partAt(page: string, under: string, part: number): string | null {
   return uncommittedPartAt(page, under, HELD, part)
 }
 
+export type Filling = { readonly at: string; readonly opened: boolean }
+
 export function fillingAt(
   root: string,
   page: string,
   adding: number,
   under: string = ENTRIES
-): string | null {
+): Filling | null {
   let part = FIRST_PART
   let found = partAt(page, under, part)
   if (found === null) return null
@@ -203,8 +206,11 @@ export function fillingAt(
     part += 1
     found = next
   }
-  if (sizeOnDisk(join(root, found)) + adding <= ENTRY_CEILING) return found
-  return partAt(page, under, part + 1) ?? found
+  if (sizeOnDisk(join(root, found)) + adding <= ENTRY_CEILING) {
+    return { at: found, opened: false }
+  }
+  const next = partAt(page, under, part + 1)
+  return next === null ? { at: found, opened: false } : { at: next, opened: true }
 }
 
 export function costRecorded(
@@ -232,10 +238,12 @@ export function recordCost(
   under: string = ENTRIES
 ): string | null {
   const line = lineFor(cost)
-  const at = fillingAt(root, page, Buffer.byteLength(line, "utf8"), under)
-  if (at === null) return null
+  const filling = fillingAt(root, page, Buffer.byteLength(line, "utf8"), under)
+  if (filling === null) return null
+  const at = filling.at
   try {
     appendFileSync(join(root, at), line)
+    if (filling.opened) partFiled(root, page, at)
     return at
   } catch {
     if (!existsSync(join(root, page))) throw new Error(`\`${page}\` ${NAMES_NO_PAGE}`)

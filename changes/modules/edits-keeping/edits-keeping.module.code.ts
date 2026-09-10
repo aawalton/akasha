@@ -8,6 +8,7 @@ import {
   uncommittedPartAt,
   uncommittedPartsOf,
 } from "akasha/pages/file-parts/page-file-parts.module.code.ts"
+import { partFiled } from "akasha/pages/indexes/path/index-path.index.code.ts"
 import { sizeOnDisk } from "akasha/utils/fs/file-size/file-size.module.code.ts"
 import { type BodyOf, gathered, NOT_TEXT } from "../answer/change-answer.module.code.ts"
 import type { Answer, FileChange, Held, Reading } from "../answer/change-answer.module.types.ts"
@@ -144,7 +145,9 @@ export function editsIn(root: string, page: string): Kept {
   return editsAt(page) === null ? { why: NO_PAGE } : heldIn(root, page)
 }
 
-function fillingAt(root: string, page: string, adding: number): string | null {
+type Filling = { readonly at: string; readonly opened: boolean }
+
+function fillingAt(root: string, page: string, adding: number): Filling | null {
   let part = FIRST_PART
   let found = partAt(page, part)
   if (found === null) return null
@@ -155,16 +158,18 @@ function fillingAt(root: string, page: string, adding: number): string | null {
     found = next
   }
   const size = sizeOnDisk(join(root, found))
-  if (size === 0 || size + adding <= ENTRY_CEILING) return found
-  return partAt(page, part + 1) ?? found
+  if (size === 0 || size + adding <= ENTRY_CEILING) return { at: found, opened: false }
+  const next = partAt(page, part + 1)
+  return next === null ? { at: found, opened: false } : { at: next, opened: true }
 }
 
 function appended(root: string, page: string, text: string): undefined {
-  const at = fillingAt(root, page, Buffer.byteLength(text, "utf8"))
-  if (at === null) return
-  const full = join(root, at)
+  const filling = fillingAt(root, page, Buffer.byteLength(text, "utf8"))
+  if (filling === null) return
+  const full = join(root, filling.at)
   mkdirSync(dirname(full), { recursive: true })
   appendFileSync(full, text)
+  if (filling.opened) partFiled(root, page, filling.at)
 }
 
 function poured(root: string, page: string, lines: readonly string[]): undefined {

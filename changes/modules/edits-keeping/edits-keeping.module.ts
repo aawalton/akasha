@@ -75,6 +75,14 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
+      statement: "A file that roll opens is filed in the path index once the row reaches it.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A file taken away here is withdrawn from the path index.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row larger than the ceiling is alone in the file that row opens.",
     },
     {

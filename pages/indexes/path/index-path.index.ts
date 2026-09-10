@@ -85,6 +85,19 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A numbered file a writer opens beside a page is filed here as that writer opens it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That file is filed with the line the page's own file here carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page with no file here yet has nothing filed for such a file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "This tree is every page there is.",
     },
     {
