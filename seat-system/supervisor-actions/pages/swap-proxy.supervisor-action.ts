@@ -1,4 +1,4 @@
-import type { SupervisorAction } from "../supervisor-action.page-type.ts"
+import type { SupervisorAction } from "../supervisor-action.page-type.types.ts"
 
 export const swapProxy = {
   id: "01a05ede-80cc-7266-b628-6fc355977249",

@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-
-export type SupervisorAction = Domain
 
 export const supervisorAction = {
   id: "01a05ecf-9a12-7710-b385-fd3a09307d1d",
@@ -35,4 +32,5 @@ export const supervisorAction = {
       statement: "A supervisor is a page.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

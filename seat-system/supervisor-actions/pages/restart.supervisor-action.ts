@@ -1,4 +1,4 @@
-import type { SupervisorAction } from "../supervisor-action.page-type.ts"
+import type { SupervisorAction } from "../supervisor-action.page-type.types.ts"
 
 export const restart = {
   id: "01a05edb-0c01-7f85-8584-5aee4a6704cb",
