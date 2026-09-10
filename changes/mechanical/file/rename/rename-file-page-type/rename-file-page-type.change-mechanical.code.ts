@@ -1,4 +1,4 @@
-import { extname } from "node:path"
+import { dirname, extname } from "node:path"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { typedAs } from "../../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
@@ -149,6 +149,24 @@ async function pageAnew(
   return carried
 }
 
+function shifted(world: World, at: string, now: string): ((path: string) => string) | null {
+  const listed = world.index.listedAt(PAGE_TYPE, now)
+  const lands = listed.length === 1 ? listed[0]?.path : undefined
+  if (lands === undefined) return null
+  const from = dirname(at)
+  const to = dirname(lands)
+  if (from === to) return null
+  return (path) => (path.startsWith(`${from}/`) ? `${to}/${path.slice(from.length + 1)}` : path)
+}
+
+function rebasedIn(filed: readonly Filed[], move: (path: string) => string): readonly Filed[] {
+  return filed.map((one) => ({
+    at: move(one.at),
+    slug: one.slug,
+    claimed: one.claimed.map(move),
+  }))
+}
+
 function besideIn(world: World, now: string, section: string): string | null {
   const listed = world.index.listedAt(PAGE_TYPE, now)
   const at = listed.length === 1 ? listed[0]?.path : undefined
@@ -192,15 +210,17 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (typed.said.refused !== null) return typed.said
   let answers: readonly Answer[] = [typed.said]
   let seen = typed.world
-  if (read.filed.length > 0) {
+  const move = shifted(seen, given.at, given.to)
+  const filed = move === null ? read.filed : rebasedIn(read.filed, move)
+  if (filed.length > 0) {
     const restated = await heldOver(seen, answers, RENAME_PAGE_ADDRESSES, {
-      moved: addressesIn(read.filed, was, given.to),
+      moved: addressesIn(filed, was, given.to),
     })
     if ("refused" in restated) return refusing(restated.refused)
     answers = restated.answers
     seen = restated.world
   }
-  for (const one of read.filed) {
+  for (const one of filed) {
     const carried = await pageAnew(seen, answers, one, was, given.to)
     if ("refused" in carried) return refusing(carried.refused)
     answers = carried.answers
