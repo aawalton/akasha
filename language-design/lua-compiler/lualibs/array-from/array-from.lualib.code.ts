@@ -16,7 +16,7 @@ type ArrayLikeIterator = (
   this: void,
   arr: ArrayLike<unknown> | Iterable<unknown>
 ) => LuaIterable<LuaMultiReturn<[number, unknown]>>
-function ArrayLikeIterator(this: void, f: (arr: any) => StepSource): ArrayLikeIterator {
+function ArrayLikeIterator(this: void, f: (this: void, arr: any) => StepSource): ArrayLikeIterator {
   return f as ArrayLikeIterator
 }
 
