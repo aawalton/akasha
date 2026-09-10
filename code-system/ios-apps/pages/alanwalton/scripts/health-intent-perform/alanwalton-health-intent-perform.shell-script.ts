@@ -11,7 +11,11 @@ export const alanwaltonHealthIntentPerform = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The health store is asked for read access alone, the share set being empty.",
+      statement: "The health store is asked for read access alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The share set is empty.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +28,7 @@ export const alanwaltonHealthIntentPerform = {
     {
       invariantKind: "departure",
       statement:
-        "A reset reached only under a condition leaves the run querying the cursor it drops.",
+        "A reset reached only under a condition leaves the run querying the cursor that reset drops.",
     },
   ],
 } as const satisfies ShellScript
