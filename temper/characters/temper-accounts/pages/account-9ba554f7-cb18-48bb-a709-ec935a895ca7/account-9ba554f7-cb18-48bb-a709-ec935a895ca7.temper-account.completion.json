@@ -55501,7 +55501,7 @@
     },
     "404": {
       "name": "Jailer's Tenacity",
-      "slotsUnlocked": 12,
+      "slotsUnlocked": 13,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55590,7 +55590,7 @@
         },
         "22": {
           "name": "Jailer's Shield",
-          "unlocked": false
+          "unlocked": true
         }
       },
       "categoryName": "DLC Dungeons",
