@@ -21,34 +21,12 @@ export const luaRuntimeLibrary = {
     },
     {
       invariantKind: "departure",
-      statement: "The folders a source tree is laid out in choose which file a name reaches.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Two files of one name under two folders are one module to whatever imports that name.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A build's config overlays which of the two files that build reaches.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A file here has no page of its own.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A function compiled here takes a hidden receiver, no config here turning implicit self off.",
     },
     {
       invariantKind: "departure",
       statement: "A callback-typed property here declares its own this parameter.",
-    },
-    {
-      invariantKind: "constraint",
-      statement:
-        "Flattening this tree changes which file a name reaches without any name changing.",
     },
   ],
   types: "ts",
