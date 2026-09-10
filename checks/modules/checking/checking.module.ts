@@ -28,11 +28,12 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "A check saying it is experimental is gathered on no phase.",
+      statement: "A check whose page states `experimental` is gathered on no phase.",
     },
     {
       invariantKind: "departure",
-      statement: "The phases such a check states are where that check judges once it is not.",
+      statement:
+        "A check whose page states no `experimental` judges on the phases that page states.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +79,8 @@ export const checking = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A check without one is loaded from the code its module page names.",
+      statement:
+        "A check with no code file of its own is loaded from the code its module page names.",
     },
     {
       invariantKind: "departure",
@@ -86,15 +88,16 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "A check whose audit code file is there is gathered with that audit beside it.",
+      statement: "A check whose audit code file is there is gathered with that audit.",
     },
     {
       invariantKind: "departure",
-      statement: "A check without one is gathered with no audit rather than refused.",
+      statement: "A check with no audit code file is gathered with no audit rather than refused.",
     },
     {
       invariantKind: "departure",
-      statement: "An audit file answering to nothing that can be run refuses the whole run.",
+      statement:
+        "A check whose audit file answers to nothing that can be run is gathered as a check that refuses.",
     },
     {
       invariantKind: "departure",
@@ -102,7 +105,7 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "A check with no audit beside it is run over the change even there.",
+      statement: "A check with no audit is run over the change at audit.",
     },
     {
       invariantKind: "departure",
@@ -146,6 +149,22 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check that could not be gathered refuses rather than stopping the gather.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check that could not be gathered refuses on every phase.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The checks beside a check that could not be gathered are gathered and judge.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check that could not be gathered is marked as a check that could not run.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check that threw refuses the change the check could not judge.",
     },
     {
@@ -183,11 +202,12 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "The check runs to its end first, so the refusal says what the check truly cost.",
+      statement: "The check runs to its end before that refusal.",
     },
     {
       invariantKind: "departure",
-      statement: "The time counted is the check's own together with what the check spawns.",
+      statement:
+        "The time counted is the check's own processor time together with the time the check spawns.",
     },
     {
       invariantKind: "departure",
@@ -195,8 +215,7 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run over some of the files runs the check group's code, so that group holds it.",
+      statement: "A run narrowed to named files runs the check group's code.",
     },
     {
       invariantKind: "departure",
@@ -208,11 +227,11 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "What a run cost is recorded under the logs of the group whose code ran.",
+      statement: "A run's cost is recorded under the logs of the group whose code ran.",
     },
     {
       invariantKind: "departure",
-      statement: "A check with no code beside it is recorded under `entries` as before.",
+      statement: "A check with no code is recorded under `entries`.",
     },
     {
       invariantKind: "departure",
@@ -256,7 +275,8 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "A check page stating a phase with no code beside that page refuses the run.",
+      statement:
+        "A check page stating a phase with no code beside that page is gathered as a check that refuses.",
     },
   ],
 } as const satisfies Module
