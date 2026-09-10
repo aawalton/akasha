@@ -3,7 +3,7 @@ import { shadowFor } from "@akasha/pages/shadow"
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { landing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { requireImportExtension } from "./require-import-extension.code-check.code.ts"
+import { requireImportExtension } from "./require-import-extension.code-check.check.code.ts"
 import {
   AT,
   BARE,
