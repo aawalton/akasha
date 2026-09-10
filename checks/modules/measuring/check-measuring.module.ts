@@ -16,8 +16,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The check group has the runs of every phase but audit, and the audit group audit.",
+      statement: "A log row belongs to the group its file names whatever phase that row spells.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +24,23 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "An entries row counts under the group the phase that row names belongs to.",
+      statement: "An entries row names no group, so the phase that row spells places it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entries row spelling audit is the audit group's and every other row is not.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That placing is the best the entries admit rather than what the writer meant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row the logs already hold is not counted again from the entries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two rows are one row where the text of each is the same.",
     },
     {
       invariantKind: "departure",

@@ -369,25 +369,31 @@ test("a check holding no run of the group read is not answered", () => {
   expect(costsIn(root, NOW, DAY_BACK, "audit").checks.map((one) => one.check)).toEqual(["two"])
 })
 
-test("the entries beside a check are read too, each row under the group its phase names", () => {
-  const root = rootWith({ one: [{ phase: "change", cpuSeconds: 2 }] })
-  rowsBeside(
-    root,
-    {
-      one: [
-        { phase: "change", cpuSeconds: 4 },
-        { phase: "audit", cpuSeconds: 100 },
-      ],
-    },
-    ENTRIES
-  )
-  const check = costsIn(root, NOW, DAY_BACK).checks[0]
-  const audit = costsIn(root, NOW, DAY_BACK, "audit").checks[0]
+test("a log row belongs to the group its file names whatever phase that row spells", () => {
+  const root = rootWith({ one: [{ phase: "audit", cpuSeconds: 2 }] })
 
-  expect(check?.runs).toBe(2)
-  expect(check?.cpu).toBe(3)
-  expect(audit?.runs).toBe(1)
-  expect(audit?.cpu).toBe(100)
+  expect(costsIn(root, NOW, DAY_BACK).checks[0]?.cpu).toBe(2)
+  expect(costsIn(root, NOW, DAY_BACK, "audit").checks).toEqual([])
+})
+
+test("an entries row is placed by the phase it spells, the best that old data admits", () => {
+  const root = rootWith({ one: [{ phase: "change", cpuSeconds: 2 }] })
+  const rows = [
+    { phase: "patch", cpuSeconds: 4 },
+    { phase: "audit", cpuSeconds: 100 },
+  ]
+  rowsBeside(root, { one: rows }, ENTRIES)
+
+  expect(costsIn(root, NOW, DAY_BACK).checks[0]?.cpu).toBe(3)
+  expect(costsIn(root, NOW, DAY_BACK, "audit").checks[0]?.cpu).toBe(100)
+})
+
+test("a row the logs already hold is not counted again from the entries", () => {
+  const copied = { phase: "change", cpuSeconds: 2, runId: ONE }
+  const root = rootWith({ one: [copied] })
+  rowsBeside(root, { one: [copied, { phase: "change", cpuSeconds: 6, runId: TWO }] }, ENTRIES)
+
+  expect(costsIn(root, NOW, DAY_BACK).checks[0]?.runs).toBe(2)
 })
 
 test("every numbered file of a check's logs is read in order rather than the first alone", () => {

@@ -111,24 +111,27 @@ export function meanOf(found: readonly number[]): number | null {
   return found.reduce((total, one) => total + one, 0) / found.length
 }
 
-export function runsIn(body: string): readonly Run[] {
-  const found: Run[] = []
-  for (const line of body.split("\n")) {
-    if (line.trim() === "") continue
-    const one = JSON.parse(line) as Record<string, unknown>
-    const said = one["runId"]
-    found.push({
-      runId: typeof said === "string" && said !== "" ? said : null,
-      phase: String(one["phase"] ?? ""),
-      ran: String(one["ran"] ?? ""),
-      ranAt: Date.parse(String(one["ranAt"] ?? "")),
-      cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
-      mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
-      paths: Number(one["pathsChanged"] ?? 0),
-      refusals: Number(one["refusals"] ?? 0),
-    })
+export function rowsIn(body: string): readonly string[] {
+  return body.split("\n").filter((one) => one.trim() !== "")
+}
+
+export function runIn(row: string): Run {
+  const one = JSON.parse(row) as Record<string, unknown>
+  const said = one["runId"]
+  return {
+    runId: typeof said === "string" && said !== "" ? said : null,
+    phase: String(one["phase"] ?? ""),
+    ran: String(one["ran"] ?? ""),
+    ranAt: Date.parse(String(one["ranAt"] ?? "")),
+    cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
+    mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
+    paths: Number(one["pathsChanged"] ?? 0),
+    refusals: Number(one["refusals"] ?? 0),
   }
-  return found
+}
+
+export function runsIn(body: string): readonly Run[] {
+  return rowsIn(body).map(runIn)
 }
 
 function spanOf(unit: string): number | null {
@@ -283,23 +286,41 @@ interface Gathering {
   readonly read: boolean
 }
 
-function gatheredIn(root: string, page: string, group: Group): Gathering {
+function readInto(
+  root: string,
+  page: string,
+  under: string,
+  keeping: (one: Run) => boolean,
+  held: Set<string>
+): Gathering {
   const runs: Run[] = []
   const unread: string[] = []
   let read = false
-  for (const under of [logsOf(group), ENTRIES]) {
-    for (const at of partsIn(root, page, under)) {
-      try {
-        for (const one of runsIn(readFileSync(join(root, at), "utf8"))) {
-          if (groupOf(one.phase) === group) runs.push(one)
-        }
-        read = true
-      } catch {
-        unread.push(at)
+  for (const at of partsIn(root, page, under)) {
+    try {
+      const rows = rowsIn(readFileSync(join(root, at), "utf8")).filter((one) => !held.has(one))
+      const found = rows.map(runIn)
+      for (const one of rows) held.add(one)
+      for (const one of found) {
+        if (keeping(one)) runs.push(one)
       }
+      read = true
+    } catch {
+      unread.push(at)
     }
   }
   return { runs, unread, read }
+}
+
+function gatheredIn(root: string, page: string, group: Group): Gathering {
+  const held = new Set<string>()
+  const logs = readInto(root, page, logsOf(group), () => true, held)
+  const was = readInto(root, page, ENTRIES, (one) => groupOf(one.phase) === group, held)
+  return {
+    runs: [...logs.runs, ...was.runs],
+    unread: [...logs.unread, ...was.unread],
+    read: logs.read || was.read,
+  }
 }
 
 export function heldIn(root: string, group: Group = CHECK): Reading {
