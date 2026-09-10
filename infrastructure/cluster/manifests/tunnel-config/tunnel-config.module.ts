@@ -5,6 +5,6 @@ export const tunnelConfig = {
   pageTypeSlug: "module",
   type: "module",
   slug: "tunnel-config",
-  definition: "the cloudflared ConfigMap written from every tunnel route the checkout declares",
+  definition: "the cloudflared config written from every tunnel route the checkout declares",
   code: "ts",
 } as const satisfies Module

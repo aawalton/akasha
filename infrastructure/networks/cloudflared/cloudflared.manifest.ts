@@ -5,7 +5,8 @@ export const cloudflared = {
   pageTypeSlug: "manifest",
   type: "manifest",
   slug: "cloudflared",
-  definition: "the namespace and deployment with the tunnel traffic reaches the cluster over",
+  definition:
+    "the namespace, config and deployment with the tunnel traffic reaches the cluster over",
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest
