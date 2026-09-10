@@ -12,5 +12,10 @@ export const buildSha = {
       invariantKind: "departure",
       statement: "Anything that is not forty lower hexadecimal characters is read as absent.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The name the commit is read from is written out in full rather than reached by a key.",
+    },
   ],
 } as const satisfies Module

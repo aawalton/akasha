@@ -6,3 +6,7 @@ export function parseBuildSha(raw: string | null | undefined): string | null {
   if (typeof raw !== "string") return null
   return BUILD_SHA_PATTERN.test(raw) ? raw : null
 }
+
+export function builtFromSha(): string | null {
+  return parseBuildSha(process.env.NEXT_PUBLIC_BUILD_SHA)
+}
