@@ -62,7 +62,7 @@ export const importReachesAFile = {
     },
     {
       invariantKind: "departure",
-      statement: "What is left of the landing is looked for under each of the other roots.",
+      statement: "The rest of the landing is looked for under every other root.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +70,7 @@ export const importReachesAFile = {
     },
     {
       invariantKind: "departure",
-      statement: "The file that specifier names carries one.",
+      statement: "The file that specifier names carries an extension.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +82,7 @@ export const importReachesAFile = {
     },
     {
       invariantKind: "departure",
-      statement: "The probing here carries a landing under one of the other roots.",
+      statement: "The probing here carries a landing under another root.",
     },
     {
       invariantKind: "departure",

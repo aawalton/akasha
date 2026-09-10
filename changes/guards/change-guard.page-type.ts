@@ -76,7 +76,7 @@ export const changeGuard = {
     },
     {
       invariantKind: "departure",
-      statement: "A mechanical change naming no guard says why that change names none.",
+      statement: "A mechanical change naming no guard says why that change names no guard.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +84,7 @@ export const changeGuard = {
     },
     {
       invariantKind: "departure",
-      statement: "What no rung's guard can see is judged by a check at the landing.",
+      statement: "Whatever no rung's guard can see is judged by a check at the landing.",
     },
   ],
   types: "ts",

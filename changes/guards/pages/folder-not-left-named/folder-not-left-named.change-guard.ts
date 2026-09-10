@@ -21,7 +21,7 @@ export const folderNotLeftNamed = {
     {
       invariantKind: "departure",
       statement:
-        "The folder judged is the topmost one emptied above a path the answer carried away.",
+        "The folder judged is the topmost folder emptied above a path the answer carried away.",
     },
     {
       invariantKind: "departure",
@@ -39,11 +39,11 @@ export const folderNotLeftNamed = {
     {
       invariantKind: "departure",
       statement:
-        "A string is read as the body spells it rather than against the folder the body sits in.",
+        "A string is read as the body spells the string rather than against the folder the body sits in.",
     },
     {
       invariantKind: "departure",
-      statement: "A body the answer had is read at the path the answer left it.",
+      statement: "A body the answer had is read at the path the answer left that body.",
     },
     {
       invariantKind: "departure",
