@@ -138,7 +138,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
     {
       page: SURPLUS_PAGE,
       folders,
-      holds: dayRow,
+      holds: dayRowAndStretches,
       pageTypes: FROM_THE_DAY,
       to: BOTH_SITES,
       take: (now) => takeSurplus(root, now),

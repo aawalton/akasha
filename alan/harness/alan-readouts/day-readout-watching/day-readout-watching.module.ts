@@ -42,6 +42,10 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "The surplus is made from the stretches too, its fall rate turning as one opens.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The constitution counts food entries and moves with the food entry values.",
     },
     {
