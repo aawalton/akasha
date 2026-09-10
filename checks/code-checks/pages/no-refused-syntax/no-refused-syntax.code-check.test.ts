@@ -1,147 +1,34 @@
 import { afterAll, expect, test } from "bun:test"
-import { parsedAs } from "@akasha/code/code-source"
-import { listedFiled, noneOfTypeFiled, valueAlsoFiled } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages/change"
-import { type Shadow, shadowAt } from "@akasha/pages/shadow"
-import type { SourceFile } from "typescript"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
-import { type Rule, refusalsIn, rulesIn } from "./no-refused-syntax.code-check.code.ts"
-import { PROBE_AT } from "./no-refused-syntax.code-check.test-fixtures.ts"
-import type { Given } from "./syntax-rules/syntax-rule.page-type.ts"
-
-const RULE = "syntax-rule"
-
-const scratch = scratchWorld()
+import { shadowAt } from "@akasha/pages/shadow"
+import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { noRefusedSyntax } from "./no-refused-syntax.code-check.code.ts"
+import {
+  JUDGED_AT,
+  ruled,
+  scratch,
+  TEXT,
+} from "./no-refused-syntax.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
-const TEXT = "export const one = 1\n"
-
-const PROBE_SLUG = "probe"
-
-const PROBE_ID = "01a0596b-0000-7000-8000-000000000001"
-
-const PROBE_RULE_AT = "akasha/one/probe/probe.syntax-rule.ts"
-
-const PROBE_CODE_AT = "akasha/one/probe/probe.syntax-rule.code.ts"
-
-const CARRIED =
-  'export function probe() {\n  return [{ line: 1, reason: "the body the change carries" }]\n}\n'
-
-const BEFORE =
-  'export function probe() {\n  return [{ line: 9, reason: "the body that stood" }]\n}\n'
-
-function bytesOf(text: string | null): Uint8Array | null {
-  return text === null ? null : new TextEncoder().encode(text)
+function judged(root: string, changed: readonly string[]): readonly Judged[] {
+  const both = onDisk(root)
+  return noRefusedSyntax({ root, changed, before: both, after: both }, shadowAt(root))
 }
 
-function changing(root: string, before: string | null, after: string | null): Change {
-  return {
-    root,
-    changed: [PROBE_CODE_AT],
-    before: (path) => (path === PROBE_CODE_AT ? bytesOf(before) : null),
-    after: (path) => (path === PROBE_CODE_AT ? bytesOf(after) : null),
-  }
-}
-
-function ruleFiled(root: string): undefined {
-  listedFiled(root, RULE, PROBE_SLUG, [{ path: PROBE_RULE_AT, id: PROBE_ID }])
-  valueAlsoFiled(root, RULE, [
-    { path: PROBE_RULE_AT, value: { id: PROBE_ID, pageTypeSlug: RULE, slug: PROBE_SLUG } },
-  ])
-  return undefined
-}
-
-function nowhereOnDisk(root: string): Shadow {
-  const shadow = shadowAt(root)
-  return { ...shadow, codeAt: () => null }
-}
-
-function ruling(slug: string, line: number, reason: string): Rule {
-  return { slug, judge: () => [{ line, reason }] }
-}
-
-const QUIET: Rule = { slug: "quiet", judge: () => [] }
-
-test("a refusal carries the line, the reason, and the rule that gave it", () => {
-  const said = refusalsIn([ruling("loud", 7, "it is wrong")], PROBE_AT, TEXT)
-  expect(said).toEqual(["line 7: it is wrong — `loud`"])
+test("a text the change carries is judged by every rule the index names", () => {
+  const root = ruled("akasha-syntax-rule-check-")
+  writing(root, JUDGED_AT, TEXT)
+  const said = judged(root, [JUDGED_AT])
+  expect(said.map((one) => one.path)).toEqual([JUDGED_AT])
+  expect(said[0]?.reason).toContain("`probe`")
 })
 
-test("a rule refusing nothing refuses nothing", () => {
-  expect(refusalsIn([QUIET], PROBE_AT, TEXT)).toEqual([])
-})
-
-test("two rules refusing one file refuse it twice, and neither hides the other", () => {
-  const said = refusalsIn([ruling("one", 1, "first"), ruling("two", 2, "second")], PROBE_AT, TEXT)
-  expect(said).toHaveLength(2)
-  expect(said[0]).toContain("`one`")
-  expect(said[1]).toContain("`two`")
-})
-
-test("every rule is handed the very same parse, so a file is read the once", () => {
-  const seen: SourceFile[] = []
-  const watching = (slug: string): Rule => ({
-    slug,
-    judge: (standing: Given) => {
-      seen.push(standing.source)
-      return []
-    },
-  })
-  refusalsIn([watching("one"), watching("two"), watching("three")], PROBE_AT, TEXT)
-  expect(seen).toHaveLength(3)
-  expect(seen[0]).toBe(seen[1] as SourceFile)
-  expect(seen[1]).toBe(seen[2] as SourceFile)
-})
-
-test("a rule is handed the path of the file it judges", () => {
-  let held = ""
-  const watching: Rule = {
-    slug: "watching",
-    judge: (standing: Given) => {
-      held = standing.path
-      return []
-    },
-  }
-  refusalsIn([watching], PROBE_AT, TEXT)
-  expect(held).toBe(PROBE_AT)
-})
-
-test("what a rule is handed is a parse of the text it was given", () => {
-  const source = parsedAs(PROBE_AT, TEXT)
-  expect(source.fileName).toBe(PROBE_AT)
-  expect(source.statements).toHaveLength(1)
-})
-
-test("a root holding no syntax rule is refused, never answered clean", () => {
-  const root = scratch.rootFor("akasha-syntax-rule-")
-  noneOfTypeFiled(root, RULE)
-  expect(() => rulesIn(root, shadowAt(root))).toThrow(/no syntax rule stands/)
-})
-
-test("a rule this change introduces is judged by the body the change carries", () => {
-  const root = scratch.rootFor("akasha-syntax-rule-")
-  ruleFiled(root)
-  const rules = rulesIn(root, nowhereOnDisk(root), changing(root, null, CARRIED))
-  expect(rules).toHaveLength(1)
-  expect(rules[0]?.slug).toBe(PROBE_SLUG)
-  expect(refusalsIn(rules, PROBE_AT, TEXT)).toEqual([
-    "line 1: the body the change carries — `probe`",
-  ])
-})
-
-test("a change rewriting a rule's code is judged by the body the change carries", () => {
-  const root = scratch.rootFor("akasha-syntax-rule-")
-  ruleFiled(root)
-  const rules = rulesIn(root, nowhereOnDisk(root), changing(root, BEFORE, CARRIED))
-  expect(rules).toHaveLength(1)
-  expect(refusalsIn(rules, PROBE_AT, TEXT)).toEqual([
-    "line 1: the body the change carries — `probe`",
-  ])
-})
-
-test("a rule whose code no change carries and no disk holds is refused", () => {
-  const root = scratch.rootFor("akasha-syntax-rule-")
-  ruleFiled(root)
-  expect(() => rulesIn(root, nowhereOnDisk(root))).toThrow(/body no path on disk holds/)
+test("a path the change carries that is no text is not judged", () => {
+  const root = ruled("akasha-syntax-rule-check-")
+  const at = "akasha/one/notes.txt"
+  writing(root, at, TEXT)
+  expect(judged(root, [at])).toEqual([])
 })
