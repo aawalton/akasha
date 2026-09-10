@@ -15,7 +15,7 @@ export const folderMatchesAShape = {
   runsOnChange: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnAudit: true,
   invariants: [
     {
       invariantKind: "departure",
@@ -207,4 +207,5 @@ export const folderMatchesAShape = {
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
+  experimental: true,
 } as const satisfies CodeCheck
