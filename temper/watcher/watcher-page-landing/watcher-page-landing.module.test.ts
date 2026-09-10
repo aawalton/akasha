@@ -28,7 +28,7 @@ import {
   writingFor,
 } from "./watcher-page-landing.module.code.ts"
 
-const HOURS = "temper/temper-holdings/net-worth-hours/pages"
+const HOURS = "temper/holdings-sets/net-worth-hours/pages"
 
 const TASKS = "temper/progressions/temper-tasks/pages"
 
@@ -66,10 +66,10 @@ test("a page type import reaches two folders up for the page type file", () => {
 
 test("a page path and the jsonl path beside it are the paths the landings already wrote", () => {
   expect(pagePathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour")).toBe(
-    "temper/temper-holdings/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.ts"
+    "temper/holdings-sets/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.ts"
   )
   expect(rowsPathIn(HOURS, "hour-2026-04-29-14", "temper-net-worth-hour", "snapshots")).toBe(
-    "temper/temper-holdings/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.snapshots.jsonl"
+    "temper/holdings-sets/net-worth-hours/pages/hour-2026-04-29-14/hour-2026-04-29-14.temper-net-worth-hour.snapshots.jsonl"
   )
   expect(pagePathIn(TASKS, "hireling-mails", "temper-task")).toBe(
     "temper/progressions/temper-tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
