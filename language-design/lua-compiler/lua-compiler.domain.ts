@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const luaCompiler = {
   id: "01a06759-2aa6-7004-8e68-88c34898e172",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "lua-compiler",
   definition: "the compiler turning TypeScript into Lua",
-  manifest: "json",
+
   parts: [
     "lua-runtime-library/lualib",
     "lualib/array-at",
@@ -249,4 +249,4 @@ export const luaCompiler = {
     "type-declaration/typescript-internals",
     "page-type/lualib",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

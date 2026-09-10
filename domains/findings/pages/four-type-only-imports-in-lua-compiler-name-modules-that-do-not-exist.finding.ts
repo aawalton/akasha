@@ -5,7 +5,7 @@ export const fourTypeOnlyImportsInLuaCompilerNameModulesThatDoNotExist = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "four-type-only-imports-in-lua-compiler-name-modules-that-do-not-exist",
-  domain: "workspace-package/lua-compiler",
+  domain: "domain/lua-compiler",
   claim:
     "Four `import type` specifiers in `lua-compiler` reference `./Decorator` and `./GeneratorIterator` — modules that exist nowhere in the repository, past or present. Nothing complains because bun erases type-only imports at runtime and no typecheck runs over the package: it carries no `tsconfig.json` of its own. The types those imports name are silently `any` today, and a future typecheck over the package will fail on all four.",
   evidence:

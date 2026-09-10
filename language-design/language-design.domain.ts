@@ -6,7 +6,7 @@ export const languageDesign = {
   type: "domain",
   slug: "language-design",
   definition: "how a language is shaped",
-  parts: ["workspace-package/lua-compiler"],
+  parts: ["domain/lua-compiler"],
   invariants: [
     {
       invariantKind: "departure",
