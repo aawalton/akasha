@@ -4,6 +4,8 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 export const CONFIG = "biome.json"
 
+export const HERE: readonly string[] = ["."]
+
 const NAMES = "**/*."
 
 const SKIPPED = "!"

@@ -4,6 +4,7 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   CONFIG,
   carriedIn,
+  HERE,
   judgedOf,
   readsIn,
   skippedIn,
@@ -17,5 +18,5 @@ export function lintClean(root: string): readonly Judged[] {
   const carried = carriedIn(change, readsIn(said), skippedIn(said))
   const first = carried[0]
   if (first === undefined) return []
-  return judgedOf(lintedOver(root, carried), first, root, TREE)
+  return judgedOf(lintedOver(root, HERE), first, root, TREE)
 }

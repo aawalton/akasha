@@ -24,3 +24,9 @@ test("an audit lets through a tree the linter finds nothing in", () => {
 
   expect(lintClean(root)).toEqual([])
 })
+
+test("an audit judges a file under a folder no path names, the linter finding it itself", () => {
+  const root = tracked({ "akasha/deep/down/one.ts": UNUSED, "akasha/two.ts": CLEAN })
+
+  expect(lintClean(root).map((one) => one.path)).toEqual(["akasha/deep/down/one.ts"])
+})

@@ -39,6 +39,19 @@ export const lintClean = {
     },
     {
       invariantKind: "departure",
+      statement: "The tree is named the same way, so the linter finds the files under it itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming every path costs the linter more than finding those paths for itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file the tree ignores is left by the linter reading that ignore rather than here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The linter judges its own config there beside the files the change has.",
     },
     {
@@ -96,5 +109,5 @@ export const lintClean = {
     },
   ],
   check: { maxCpuSeconds: 10 },
-  audit: { maxCpuSeconds: 60 },
+  audit: { maxCpuSeconds: 180 },
 } as const satisfies CodeCheck

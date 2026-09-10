@@ -7,6 +7,7 @@ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   CONFIG,
   carriedIn,
+  HERE,
   judgedOf,
   readsIn,
   skippedIn,
@@ -15,8 +16,6 @@ import {
 const IGNORE = ".gitignore"
 
 const CONFIGURED: readonly string[] = [CONFIG, IGNORE]
-
-const HERE: readonly string[] = ["."]
 
 const LOOKED: Selector<Body> = {
   named: "the files the linter reads and the configuration naming them",
