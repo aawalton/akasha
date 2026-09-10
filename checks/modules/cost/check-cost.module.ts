@@ -34,6 +34,18 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
+      statement: "A run relayed to a server is no child, so the kernel counts none of it here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seconds such a run burned are read from the module that relayed it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two are added, each counting only the runs the other cannot see.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The high-water mark is forgotten before a run.",
     },
     {

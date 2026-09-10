@@ -5,6 +5,7 @@ import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
 import { sizeOnDisk } from "@akasha/utils/fs/file-size"
 import { textOnDisk } from "@akasha/utils/fs/text-on-disk"
+import { spentRelaying } from "@akasha/utils/run/run-relaying"
 
 const ENTRIES = "entries"
 
@@ -80,7 +81,7 @@ export function bytesIn(status: string, named: string): number {
 
 function childSeconds(): number {
   const stat = textOnDisk(STAT)
-  return stat === null ? 0 : childSecondsIn(stat)
+  return (stat === null ? 0 : childSecondsIn(stat)) + spentRelaying()
 }
 
 function marksNow(): { readonly peak: number; readonly resident: number } {

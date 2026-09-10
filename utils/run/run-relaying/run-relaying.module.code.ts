@@ -120,6 +120,12 @@ type Channel = {
 
 let channel: Channel | null = null
 
+let spent = 0
+
+export function spentRelaying(): number {
+  return spent
+}
+
 function started(): Channel {
   if (process.env[SERVING_MARKER] !== undefined) {
     throw new Error(`a process under ${SERVING_MARKER} starts no server of its own`)
@@ -173,6 +179,7 @@ export function relayed(argv: readonly string[], asked: Asked = {}): Held {
     return lostOn(raised)
   }
   const said = answered.head as Answer
+  spent += said.cpuSeconds
   if (said.threw !== null) throw new Error(said.threw)
   return {
     code: said.code,

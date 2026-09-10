@@ -6,6 +6,7 @@ import {
   piped,
   relayed,
   SERVING_MARKER,
+  spentRelaying,
   unframed,
   written,
 } from "./run-relaying.module.code.ts"
@@ -23,6 +24,15 @@ test("a run relayed to the server is answered with the code and the bytes it lef
 test("what a caller hands in reaches the process the server starts", () => {
   const done = relayed(["cat"], { stdin: new TextEncoder().encode("handed in") })
   expect(new TextDecoder().decode(done.out)).toBe("handed in")
+})
+
+test("what a relayed run burned is added to the seconds this module has spent elsewhere", () => {
+  const before = spentRelaying()
+  const done = relayed(["sh", "-c", "i=0; while [ $i -lt 400000 ]; do i=$((i+1)); done"])
+
+  expect(done.code).toBe(0)
+  expect(done.cpuSeconds).toBeGreaterThan(0)
+  expect(spentRelaying() - before).toBeCloseTo(done.cpuSeconds, 6)
 })
 
 test("a program on no path raises in the caller rather than being answered", () => {

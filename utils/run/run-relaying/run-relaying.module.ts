@@ -75,6 +75,26 @@ export const runRelaying = {
     },
     {
       invariantKind: "departure",
+      statement: "The seconds every relayed run burned are kept for this process to read back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relayed run burns those seconds in the server rather than in a reaped child.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whoever counts what a run spawned reads them here as well as from the kernel.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run the server threw on counts the seconds that run burned before throwing.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A lost channel adds nothing, having been told no seconds.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The output stream is bytes the whole way, and the error stream is text.",
     },
     {
