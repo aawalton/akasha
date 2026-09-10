@@ -28,7 +28,7 @@ export const monarchRuleDocuments = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule's body is what the index answers rather than the page file read again.",
+      statement: "A rule's body is the index's answer rather than the page file read again.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const monarchRuleDocuments = {
     {
       invariantKind: "departure",
       statement:
-        "A code rule naming no category catches the transaction and leaves it to a person.",
+        "A code rule naming no category catches the transaction and leaves that transaction to a person.",
     },
     {
       invariantKind: "departure",
