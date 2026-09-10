@@ -99,6 +99,10 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "A page names the file its type is written at where the page type states one.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A page states the page type the caller named under `pageTypeSlug` and under `type`.",
     },

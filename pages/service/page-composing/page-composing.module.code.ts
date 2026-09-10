@@ -25,6 +25,10 @@ const SLUG = "slug"
 
 const JSONL = "jsonl"
 
+const TYPES = "types"
+
+const HOLDS = "ts"
+
 export function bodyRefused(
   key: string,
   pageTypeSlug: string,
@@ -217,7 +221,9 @@ export function composedFor(root: string, named: Naming): Composed {
   }
   const listed = listedAt(root, named.pageTypeSlug, named.slug)
   const held = listed.length === 1 ? listed[0]?.path : undefined
-  const plural = textAt(valueAt(typeAt, root) ?? {}, PLURAL)
+  const typing = valueAt(typeAt, root) ?? {}
+  const plural = textAt(typing, PLURAL)
+  const typesAt = textAt(typing, TYPES) === HOLDS ? besideAt(typeAt, TYPES, HOLDS) : null
   if (held === undefined && plural === null) {
     return { refused: `\`${named.pageTypeSlug}\` states no ${PLURAL}, so a new page has no place` }
   }
@@ -280,7 +286,7 @@ export function composedFor(root: string, named: Naming): Composed {
   const content = bodyOf({
     pageTypeSlug: named.pageTypeSlug,
     slug: named.slug,
-    importFrom: importedFrom(at, typeAt),
+    importFrom: importedFrom(at, typesAt ?? typeAt),
     keys: carried.filter((one) => !one.uncommitted).map((one) => one.key),
     values: inside,
   })
