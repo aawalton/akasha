@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noIndexPathSpelled } from "./no-index-path-spelled.code-check.code.ts"
+import { noIndexPathSpelled } from "./no-index-path-spelled.code-check.check.code.ts"
 import {
   AT,
   HELD,
