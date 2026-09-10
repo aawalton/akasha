@@ -12,14 +12,6 @@ export const asking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Reaching a body tells a path nothing is at from a path that will not open.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body that will not open is answered with why that body would not.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The command putting a subagent's page up is filled in from the agent id as far as that id says.",
     },

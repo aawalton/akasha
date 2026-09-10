@@ -2,7 +2,7 @@ import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { warrantedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import { akashaSeatPathForCaller } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { bytesAt, textOf } from "../../modules/asking/asking.module.code.ts"
+import { bytesAt, textOf } from "../../modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { bodyRead, differenceOf } from "../../modules/differing/differing.module.code.ts"
 import {

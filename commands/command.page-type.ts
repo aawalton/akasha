@@ -90,6 +90,7 @@ export const command = {
     "module/piping",
     "module/command-filling",
     "module/asking",
+    "module/body-reaching",
     "module/applying",
     "module/landing",
     "module/during-call",

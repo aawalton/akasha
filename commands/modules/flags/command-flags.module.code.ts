@@ -1,4 +1,4 @@
-import { textAt } from "../asking/asking.module.code.ts"
+import { textAt } from "../body-reaching/body-reaching.module.code.ts"
 
 export const BREAK_GLASS = "--break-the-glass"
 
