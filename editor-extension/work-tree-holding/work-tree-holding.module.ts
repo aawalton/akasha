@@ -12,16 +12,19 @@ export const workTreeHolding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One initiative has one thing held for it at a time.",
+      statement: "One initiative has one hold at a time.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What is held for an initiative is the intents it is drawn with, or that it is drawn away.",
+      statement: "A hold for an initiative is the intents that initiative is drawn with.",
     },
     {
       invariantKind: "departure",
-      statement: "What is held names the intents held to be going as well as the intents left.",
+      statement: "A hold for an initiative is that the initiative is drawn away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hold names the intents held to be going as well as the intents left.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +32,7 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "departure",
-      statement: "The intents drawn are renumbered from one in the order held.",
+      statement: "The intents drawn are numbered again from `1` in the order held.",
     },
     {
       invariantKind: "departure",
@@ -101,7 +104,7 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent moved onto one the order does not hold holds nothing.",
+      statement: "An intent moved onto an intent the order does not hold holds nothing.",
     },
     {
       invariantKind: "departure",
@@ -109,7 +112,11 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "departure",
-      statement: "A hold the file agrees with, and a hold the file has left behind, are let go.",
+      statement: "A hold the file agrees with is let go.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hold the file has left behind is let go.",
     },
     {
       invariantKind: "departure",
@@ -117,11 +124,15 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "departure",
-      statement: "What is held counts the landings it is waiting on.",
+      statement: "A hold counts the landings that hold is waiting on.",
     },
     {
       invariantKind: "departure",
-      statement: "Making a hold counts one landing more, and a landing answering counts one less.",
+      statement: "Making a hold counts one landing more.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing answering counts one landing less.",
     },
     {
       invariantKind: "departure",
@@ -129,11 +140,11 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "departure",
-      statement: "A hold outlives no landing it was made for.",
+      statement: "A hold outlives no landing that hold was made for.",
     },
     {
       invariantKind: "departure",
-      statement: "A landing answering more often than a hold was made counts down to none.",
+      statement: "A landing answering more often than a hold was made counts down to `0`.",
     },
     {
       invariantKind: "departure",
