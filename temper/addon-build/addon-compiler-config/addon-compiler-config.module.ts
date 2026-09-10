@@ -70,7 +70,7 @@ export const addonCompilerConfig = {
     },
     {
       invariantKind: "absence",
-      statement: "No setting here rewrites an extension, because no JavaScript is written.",
+      statement: "No setting here rewrites an extension.",
     },
     {
       invariantKind: "departure",
