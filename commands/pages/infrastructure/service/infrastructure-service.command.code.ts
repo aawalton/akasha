@@ -2,10 +2,10 @@ import {
   homeAt,
   installing,
   ourInstalled,
-  ownedByService,
   planFor,
   systemctl,
 } from "akasha/services/workstation-services/service-installing/service-installing.module.code.ts"
+import { putUpService } from "akasha/services/workstation-services/service-putting-up/service-putting-up.module.code.ts"
 import {
   everyService,
   readFor,
@@ -60,7 +60,9 @@ function installed(argv: readonly string[], given: Given): Answer {
     return refused("this installs one service at a time, or every one with `--all`", INPUT)
   }
 
-  const read = slug === undefined ? everyService(given.root) : readFor(given.root, slug)
+  if (slug !== undefined) return putUpService(given.root, slug, dryRun)
+
+  const read = everyService(given.root)
   if ("refused" in read) return refused(read.refused, DATA)
 
   const home = homeAt()
@@ -68,8 +70,7 @@ function installed(argv: readonly string[], given: Given): Answer {
     return refused("no home directory is stated, so no unit has anywhere to sit", OPERATIONAL)
   }
 
-  const owned = slug === undefined ? ourInstalled(home) : ownedByService(ourInstalled(home), slug)
-  const plan = planFor(read.services, owned)
+  const plan = planFor(read.services, ourInstalled(home))
 
   const report: string[] = []
   for (const name of plan.write.keys()) report.push(`write\t${name}`)
