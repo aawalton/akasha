@@ -5,8 +5,15 @@ import { work } from "./effective-seven-day-usage.computed-property.code.ts"
 
 const REACH: Reach = { target: () => null, naming: () => [] }
 
+const BASE: WorkedClaudeAccount = {
+  id: "one",
+  slug: "aine",
+  email: "aine@alanwalton.com",
+  aliasIndex: 0,
+}
+
 function account(held: Record<string, unknown>): WorkedClaudeAccount {
-  return { slug: "aine", ...held } as unknown as WorkedClaudeAccount
+  return Object.assign({ ...BASE }, held)
 }
 
 test("a withdrawn subscription has spent the whole of the window", () => {

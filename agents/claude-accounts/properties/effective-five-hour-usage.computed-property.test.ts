@@ -7,8 +7,15 @@ import { work as sevenDay } from "./effective-seven-day-usage.computed-property.
 
 const REACH: Reach = { target: () => null, naming: () => [] }
 
+const BASE: WorkedClaudeAccount = {
+  id: "one",
+  slug: "aine",
+  email: "aine@alanwalton.com",
+  aliasIndex: 0,
+}
+
 function account(held: Record<string, unknown>): WorkedClaudeAccount {
-  return { slug: "aine", ...held } as unknown as WorkedClaudeAccount
+  return Object.assign({ ...BASE }, held)
 }
 
 test("an account that has spent its seven-day window has spent its five-hour window", () => {
@@ -30,10 +37,6 @@ test("a percent standing as text is read as the number that percent spells", () 
   expect(work(account(held), REACH)).toBe(42)
 })
 
-// The withdrawal is not tested in this calculation at all, so proving it reaches the five-hour
-// figure means running both calculations the way a reader runs them, over the lazy view
-// `computingOver` builds. A page carrying no five-hour figure worth 100 still answers 100 here,
-// and that is the whole of what reading the sibling buys.
 test("a withdrawn subscription reaches the five-hour figure through the seven-day one", () => {
   const computed: readonly Computed[] = [
     {
