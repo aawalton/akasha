@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const rulesEngine = {
   id: "01a0657b-9adc-7003-a1af-d02c5457d479",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "rules-engine",
   definition: "what every rule set runs on",
-  manifest: "json",
+
   parts: [
     "module/instructions-rule",
     "module/rule-conditions",
@@ -180,4 +180,4 @@ export const rulesEngine = {
       ],
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

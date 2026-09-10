@@ -1,6 +1,6 @@
 import { readdirSync } from "node:fs"
 import { createRequire } from "node:module"
-import type { Condition } from "@akasha/rules-engine/rule-conditions"
+import type { Condition } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
 import {
   type EmailRuleKind,
   ruleFileSuffix,

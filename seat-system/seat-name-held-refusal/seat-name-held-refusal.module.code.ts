@@ -1,4 +1,4 @@
-import { ruleText } from "@akasha/rules-engine/instructions-rule"
+import { ruleText } from "akasha/alan/harness/rules-engine/instructions-rule/instructions-rule.module.code.ts"
 import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
 import {
   DECLARATION_RELATIVE_PATH,

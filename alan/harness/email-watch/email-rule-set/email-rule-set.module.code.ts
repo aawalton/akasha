@@ -1,4 +1,7 @@
-import type { Field, RuleSet } from "@akasha/rules-engine/rule-conditions"
+import type {
+  Field,
+  RuleSet,
+} from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
 
 export const EMAIL_RULE_SET = "email-rule"
 

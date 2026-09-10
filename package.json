@@ -33,7 +33,6 @@
     "lucide-react": "^0.576.0",
     "react": "^18 || ^19",
     "@radix-ui/react-slot": "*",
-    "@akasha/rules-engine": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "react-dom": "^18 || ^19",
     "@akasha/cluster-manifests": "workspace:*",

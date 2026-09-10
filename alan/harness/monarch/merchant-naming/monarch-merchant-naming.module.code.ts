@@ -1,6 +1,9 @@
 import { readdirSync } from "node:fs"
 import { join } from "node:path"
-import { normalize, type VocabularyEntry } from "@akasha/rules-engine/rule-vocabulary"
+import {
+  normalize,
+  type VocabularyEntry,
+} from "akasha/alan/harness/rules-engine/rule-vocabulary/rule-vocabulary.module.code.ts"
 import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import { AKASHA, MERCHANT_FOLDER } from "../files/monarch-files.module.code.ts"
 import { descriptionOf, type Subject } from "../transaction/monarch-transaction.module.code.ts"

@@ -53,7 +53,7 @@ export const alanHarness = {
     "domain/status-bar-access",
     "domain/mobile-cli",
     "domain/icloud-photos",
-    "workspace-package/rules-engine",
+    "domain/rules-engine",
     "domain/alanwalton-ios-notification",
     "page-type/notification-feed",
     "domain/money",

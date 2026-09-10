@@ -1,10 +1,10 @@
-import { ruleText } from "@akasha/rules-engine/instructions-rule"
 import { enforceSpawnAdmission } from "@akasha/utils/system/memory-guard"
 import {
   dataError,
   inputError,
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { ruleText } from "akasha/alan/harness/rules-engine/instructions-rule/instructions-rule.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

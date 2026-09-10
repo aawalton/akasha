@@ -1,5 +1,8 @@
-import type { Condition } from "@akasha/rules-engine/rule-conditions"
-import { type Case, matches as matchesIn } from "@akasha/rules-engine/rule-partition"
+import type { Condition } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
+import {
+  type Case,
+  matches as matchesIn,
+} from "akasha/alan/harness/rules-engine/rule-partition/rule-partition.module.code.ts"
 import type { Message } from "akasha/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
 import type { Rule } from "../email-rule-reading/email-rule-reading.module.code.ts"
 import { emailRuleSet } from "../email-rule-set/email-rule-set.module.code.ts"
