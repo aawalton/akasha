@@ -170,3 +170,11 @@ check("a root holding no formatter answers every body handed in rather than noth
   expect(bodyOf(said, "akasha/held.ts")).toBe(LOOSE)
   expect(said.get("akasha/held.ts")?.changed).toBe(false)
 })
+
+check("the formatter's own config comes back formatted, though its kind is not one owned", () => {
+  const said = formattedBodies(rootWithTheFormatter(), new Map([[CONFIG, TEXT.encode(HELD)]]))
+  const body = bodyOf(said, CONFIG)
+  expect(said.get(CONFIG)?.changed).toBe(true)
+  expect(body.startsWith("{\n")).toBe(true)
+  expect(JSON.parse(body)).toEqual(JSON.parse(HELD))
+})

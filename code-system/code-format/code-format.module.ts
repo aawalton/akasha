@@ -124,6 +124,14 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
+      statement: "The formatter's own config is one of those bodies, whatever kind its name says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A config handed in is the config that run is made with.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The scratch root goes whether the run finished or threw.",
     },
     {

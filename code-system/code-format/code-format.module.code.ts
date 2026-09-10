@@ -10,7 +10,9 @@ const HOLD = "/var/tmp"
 
 const PREFIX = "akasha-format-"
 
-const CARRIED: readonly string[] = ["biome.json", ".gitignore"]
+const CONFIG = "biome.json"
+
+const CARRIED: readonly string[] = [CONFIG, ".gitignore"]
 
 const FORMATS: ReadonlySet<FileKind> = new Set<FileKind>(["ts", "tsx", "js", "jsx", "css"])
 
@@ -52,8 +54,10 @@ function takenOver(was: Uint8Array, said: Uint8Array): Formatted {
 }
 
 function formats(path: string): boolean {
+  if (!insideOf(path)) return false
+  if (path === CONFIG) return true
   const kind = classifyExtension(path)
-  return kind !== null && FORMATS.has(kind) && insideOf(path)
+  return kind !== null && FORMATS.has(kind)
 }
 
 export function formattedBody(root: string, path: string, body: Uint8Array): Formatted {
