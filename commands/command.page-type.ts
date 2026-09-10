@@ -9,7 +9,7 @@ export const command = {
   pluralSlug: "commands",
   parts: [
     "command/audit",
-    "command/icloud",
+    "namespace/icloud",
     "command/ios-app",
     "command/push",
     "command/read",

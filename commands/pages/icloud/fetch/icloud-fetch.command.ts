@@ -1,16 +1,15 @@
-import type { Command } from "../../command.page-type.types.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
-export const icloud = {
-  id: "01a06809-e6ee-767a-a4ca-40bb4b0c44c0",
+export const icloudFetch = {
+  id: "01a08cf8-d3c1-744e-a8e9-70301b272c28",
   pageTypeSlug: "command",
   type: "command",
-  slug: "icloud",
-  definition: "the command acting on the photos an iCloud shared album holds",
+  slug: "icloud-fetch",
+  definition: "the act writing every photo an iCloud shared album holds to disk",
   code: "ts",
   test: "ts",
-  changeKind: "change-mechanical",
+  changeKind: "change-none",
   taking: [
-    { said: "fetch", takes: "the act, which is to write every photo in an album to disk" },
     { said: "<share-url>", takes: "the album to fetch, said in place as its share URL" },
     { said: "--url <share-url>", takes: "the album to fetch, said as a flag rather than in place" },
     { said: "--out <dir>", takes: "the folder to write into, made where nothing is there" },
@@ -20,7 +19,7 @@ export const icloud = {
     },
   ],
   helpNotes: [
-    "the album is named in place after the act or as a flag, and naming it both ways over is refused.",
+    "the album is named in place or as a flag, and naming it both ways over is refused.",
     "the share link alone reaches the album, so no Apple account and no credential is asked for.",
     "the album is walked a page at a time until no photo is left, and every original resource is written as it is stored.",
     "two photos of one name land under names told apart rather than one written over the other.",
@@ -28,10 +27,6 @@ export const icloud = {
     "an album holding no photo is answered as the data rather than as an empty run.",
   ],
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "The first word is the act.",
-    },
     {
       invariantKind: "departure",
       statement: "An album named in place and as a flag is refused.",
@@ -56,7 +51,6 @@ export const icloud = {
       invariantKind: "departure",
       statement: "Two photos with one name land under names told apart.",
     },
-
     {
       invariantKind: "departure",
       statement: "A call naming no folder writes into the folder the call came from.",

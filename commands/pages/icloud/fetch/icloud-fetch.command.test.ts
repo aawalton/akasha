@@ -1,14 +1,14 @@
 import { expect, test } from "bun:test"
-import type { Given } from "../../modules/calling/calling.module.code.ts"
-import { refusingWith } from "../../modules/calling/calling.module.test-fixtures.ts"
-import { folderOf, icloud, readIn } from "./icloud.command.code.ts"
+import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import { refusingWith } from "../../../modules/calling/calling.module.test-fixtures.ts"
+import { folderOf, icloudFetch, readIn } from "./icloud-fetch.command.code.ts"
 
 const ALBUM = "https://share.icloud.com/photos/0ABCdef"
 
 function given(): Given {
   return {
     root: "/nowhere",
-    calledAs: "akasha icloud",
+    calledAs: "akasha icloud fetch",
     from: "/called/from",
     writer: null,
     agentId: null,
@@ -17,54 +17,50 @@ function given(): Given {
 
 const refusedBy = refusingWith(readIn)
 
-test("nothing said is refused, naming the act", async () => {
-  const said = await icloud([], given())
+test("nothing said is refused, saying an album is needed", async () => {
+  const said = await icloudFetch([], given())
+
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("fetch")
-})
-
-test("an act it does not carry is refused", () => {
-  expect(refusedBy(["push"])[0]).toContain("push")
-})
-
-test("a fetch naming no album is refused", () => {
-  expect(refusedBy(["fetch"])[0]).toContain("none was named")
+  expect(said.refusals[0]).toContain("none was named")
 })
 
 test("a flag it does not take is refused", () => {
-  expect(refusedBy(["fetch", ALBUM, "--since", "2026"])[0]).toContain("--since")
+  expect(refusedBy([ALBUM, "--since", "2026"])[0]).toContain("--since")
 })
 
 test("a flag with no value after it is refused", () => {
-  expect(refusedBy(["fetch", "--url"])[0]).toContain("takes a value")
+  expect(refusedBy(["--url"])[0]).toContain("takes a value")
 })
 
-test("the album is read from the word after the act", () => {
-  const read = readIn(["fetch", ALBUM])
+test("the album is read from the word said in place", () => {
+  const read = readIn([ALBUM])
+
   if ("refused" in read) throw new Error("this was refused")
   expect(read.said.get("--url")).toBe(ALBUM)
 })
 
 test("an album named in place and as a flag is refused", () => {
-  expect(refusedBy(["fetch", ALBUM, "--url", ALBUM])[0]).toContain("in place")
+  expect(refusedBy([ALBUM, "--url", ALBUM])[0]).toContain("in place")
 })
 
 test("a second album is refused", () => {
-  expect(refusedBy(["fetch", ALBUM, ALBUM])[0]).toContain("one album")
+  expect(refusedBy([ALBUM, ALBUM])[0]).toContain("one album")
 })
 
 test("the older spelling of the folder flag is read as the folder flag", () => {
-  const read = readIn(["fetch", ALBUM, "--output", "/pictures"])
+  const read = readIn([ALBUM, "--output", "/pictures"])
+
   if ("refused" in read) throw new Error("this was refused")
   expect(read.said.get("--out")).toBe("/pictures")
 })
 
 test("the folder flag said under both spellings is refused", () => {
-  expect(refusedBy(["fetch", ALBUM, "--out", "/a", "--output", "/b"])[0]).toContain("twice")
+  expect(refusedBy([ALBUM, "--out", "/a", "--output", "/b"])[0]).toContain("twice")
 })
 
 test("the json flag is alone and takes no value", () => {
-  const read = readIn(["fetch", ALBUM, "--json"])
+  const read = readIn([ALBUM, "--json"])
+
   if ("refused" in read) throw new Error("this was refused")
   expect(read.json).toBe(true)
 })

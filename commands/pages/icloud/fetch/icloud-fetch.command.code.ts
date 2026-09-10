@@ -14,11 +14,8 @@ import {
   parseShareToken,
   resolveOutputDir,
 } from "akasha/alan/harness/icloud-photos/album-pulling/album-pulling.module.code.ts"
-import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
-import { quoted } from "../../modules/seat-act-calling/seat-act-calling.module.code.ts"
-
-export const FETCH = "fetch"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 const URL_FLAG = "--url"
 
@@ -28,14 +25,12 @@ const OUTPUT = "--output"
 
 const JSON_FLAG = "--json"
 
-const ACTS = [FETCH]
-
 const VALUED = new Set([URL_FLAG, OUT, OUTPUT])
 
 const BARE = new Set([JSON_FLAG])
 
 export type Read =
-  | { readonly act: string; readonly said: ReadonlyMap<string, string>; readonly json: boolean }
+  | { readonly said: ReadonlyMap<string, string>; readonly json: boolean }
   | { readonly refused: readonly string[] }
 
 export function readIn(argv: readonly string[]): Read {
@@ -71,20 +66,10 @@ export function readIn(argv: readonly string[]): Read {
     }
     said.set(key, value)
   }
-  const act = words[0]
-  if (act === undefined) {
-    return { refused: [...refusals, `this names no act — it carries ${quoted(ACTS)}`] }
-  }
-  if (!ACTS.includes(act)) {
-    return {
-      refused: [...refusals, `\`${act}\` is no act this carries — it carries ${quoted(ACTS)}`],
-    }
-  }
-  const rest = words.slice(1)
-  const first = rest[0]
+  const first = words[0]
   if (first !== undefined) {
-    if (rest.length > 1) {
-      refusals.push(`\`${rest[1]}\` follows the album, and one call names one album`)
+    if (words.length > 1) {
+      refusals.push(`\`${words[1]}\` follows the album, and one call names one album`)
     } else if (said.has(URL_FLAG)) {
       refusals.push(`\`${first}\` names the album in place where \`${URL_FLAG}\` names it too`)
     } else {
@@ -92,10 +77,10 @@ export function readIn(argv: readonly string[]): Read {
     }
   }
   if (!said.has(URL_FLAG)) {
-    refusals.push(`\`${FETCH}\` takes the album to fetch, and none was named`)
+    refusals.push("this takes the album to fetch, and none was named")
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { act, said, json }
+  return { said, json }
 }
 
 export function folderOf(said: string | undefined, root: string, from: string): string {
@@ -181,7 +166,7 @@ async function fetching(
   }
 }
 
-export async function icloud(argv: readonly string[], given: Given): Promise<Answer> {
+export async function icloudFetch(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   try {
@@ -189,7 +174,7 @@ export async function icloud(argv: readonly string[], given: Given): Promise<Ans
   } catch (thrown) {
     return {
       report: [],
-      refusals: [`${given.calledAs} ${read.act} — ${whyOf(thrown)}`],
+      refusals: [`${given.calledAs} — ${whyOf(thrown)}`],
       code: exitCodeForThrowable(thrown),
     }
   }
