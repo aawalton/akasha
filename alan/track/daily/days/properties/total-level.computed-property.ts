@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type TotalLevel = number
-
 export const totalLevel = {
   id: "01a0721c-f58c-7290-8d4c-25779a5549a0",
   pageTypeSlug: "computed-property",
@@ -17,4 +15,5 @@ export const totalLevel = {
       statement: "A day missing any of the six levels reaches no rung.",
     },
   ],
+  types: "ts",
 } as const satisfies ComputedProperty

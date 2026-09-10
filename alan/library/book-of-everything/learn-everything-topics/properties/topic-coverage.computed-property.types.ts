@@ -1,0 +1,1 @@
+export type TopicCoverage = number

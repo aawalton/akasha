@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type TotalRemaining = number
-
 export const totalRemaining = {
   id: "01a07231-dd66-7218-ace3-d6ea466f60de",
   pageTypeSlug: "computed-property",
@@ -11,4 +9,5 @@ export const totalRemaining = {
   definition: "how much of the collection and everything it holds is left to work through",
   holds: "number",
   code: "ts",
+  types: "ts",
 } as const satisfies ComputedProperty

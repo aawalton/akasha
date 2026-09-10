@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type Stoplights = string
-
 export const stoplights = {
   id: "01a07224-bf20-74dd-b1bc-270ef3cf98c8",
   pageTypeSlug: "computed-property",
@@ -17,4 +15,5 @@ export const stoplights = {
       statement: "A day missing any of the six lights states no lights.",
     },
   ],
+  types: "ts",
 } as const satisfies ComputedProperty

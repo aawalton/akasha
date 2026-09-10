@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type PersonaRelationshipLevel = number
-
 export const personaRelationshipLevel = {
   id: "01a082dd-bbc6-70a8-b7c5-94c16ef56e98",
   pageTypeSlug: "computed-property",
@@ -54,4 +52,5 @@ export const personaRelationshipLevel = {
       statement: "Nothing here writes.",
     },
   ],
+  types: "ts",
 } as const satisfies ComputedProperty

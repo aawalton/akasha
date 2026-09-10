@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type EffectiveSevenDayUsage = number
-
 export const effectiveSevenDayUsage = {
   id: "01a07659-1796-79b2-9c53-f9a3eb5ed248",
   pageTypeSlug: "computed-property",
@@ -31,4 +29,5 @@ export const effectiveSevenDayUsage = {
       statement: "No code outside the effective seven-day usage works out the seven-day spend.",
     },
   ],
+  types: "ts",
 } as const satisfies ComputedProperty

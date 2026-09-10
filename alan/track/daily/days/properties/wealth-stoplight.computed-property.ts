@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type WealthStoplight = string
-
 export const wealthStoplight = {
   id: "01a0721c-cebf-70db-ae3f-c35938f2e542",
   pageTypeSlug: "computed-property",
@@ -11,4 +9,5 @@ export const wealthStoplight = {
   definition: "the rung the day's wealth reached, as one colored light",
   holds: "text",
   code: "ts",
+  types: "ts",
 } as const satisfies ComputedProperty

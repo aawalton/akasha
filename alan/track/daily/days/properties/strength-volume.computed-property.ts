@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type StrengthVolume = number
-
 export const strengthVolume = {
   id: "01a077d1-f967-7eef-a0ce-7139eaa1b54d",
   pageTypeSlug: "computed-property",
@@ -33,4 +31,5 @@ export const strengthVolume = {
       statement: "A day counts the sets naming that day rather than the sets dated alike.",
     },
   ],
+  types: "ts",
 } as const satisfies ComputedProperty

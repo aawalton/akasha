@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type FaithLevel = number
-
 export const faithLevel = {
   id: "01a07211-0e16-72be-89cf-abcacd834c99",
   pageTypeSlug: "computed-property",
@@ -11,4 +9,5 @@ export const faithLevel = {
   definition: "which of the four rungs the day's faith points reached",
   holds: "number",
   code: "ts",
+  types: "ts",
 } as const satisfies ComputedProperty

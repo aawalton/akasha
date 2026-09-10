@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type TotalProgressInWords = number
-
 export const totalProgressInWords = {
   id: "01a07231-dd66-7e56-b4da-5e16976f160f",
   pageTypeSlug: "computed-property",
@@ -11,4 +9,5 @@ export const totalProgressInWords = {
   definition: "how much of the collection and everything it holds has been worked through",
   holds: "number",
   code: "ts",
+  types: "ts",
 } as const satisfies ComputedProperty

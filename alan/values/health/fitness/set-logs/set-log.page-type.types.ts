@@ -12,7 +12,7 @@ import type { Rpe } from "./properties/rpe.number-property.types.ts"
 import type { SessionSlug } from "./properties/session-slug.text-property.ts"
 import type { SetLogDate } from "./properties/set-log-date.calendar-date-property.types.ts"
 import type { SetNumber } from "./properties/set-number.number-property.types.ts"
-import type { SetVolume } from "./properties/set-volume.computed-property.ts"
+import type { SetVolume } from "./properties/set-volume.computed-property.types.ts"
 import type { Weight } from "./properties/weight.number-property.types.ts"
 
 export type SetLog = Page & {

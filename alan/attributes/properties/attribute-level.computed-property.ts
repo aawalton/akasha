@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "../../../pages/computed-properties/computed-property.page-type.types.ts"
 
-export type AttributeLevel = number
-
 export const attributeLevel = {
   id: "01a081cc-5b79-71ea-9492-1757bb05214d",
   pageTypeSlug: "computed-property",
@@ -70,4 +68,5 @@ export const attributeLevel = {
       statement: "Nothing here writes.",
     },
   ],
+  types: "ts",
 } as const satisfies ComputedProperty

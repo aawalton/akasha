@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type SetVolume = number
-
 export const setVolume = {
   id: "01a077cb-d5b9-767f-8668-3cf04e5756fc",
   pageTypeSlug: "computed-property",
@@ -54,4 +52,5 @@ export const setVolume = {
       statement: "A field the set states nothing for counts as nought rather than refusing.",
     },
   ],
+  types: "ts",
 } as const satisfies ComputedProperty

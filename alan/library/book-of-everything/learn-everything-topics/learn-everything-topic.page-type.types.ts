@@ -6,7 +6,7 @@ import type { Misconceptions } from "./properties/misconceptions.file-property.t
 import type { TopicCalibration } from "./properties/topic-calibration.number-property.types.ts"
 import type { TopicCalibrationRead } from "./properties/topic-calibration-read.text-property.ts"
 import type { TopicCapture } from "./properties/topic-capture.record-property.ts"
-import type { TopicCoverage } from "./properties/topic-coverage.computed-property.ts"
+import type { TopicCoverage } from "./properties/topic-coverage.computed-property.types.ts"
 import type { TopicEvidence } from "./properties/topic-evidence.file-property.ts"
 import type { TopicMasteryLevel } from "./properties/topic-mastery-level.relation-property.types.ts"
 import type { TopicNode } from "./properties/topic-node.text-property.ts"

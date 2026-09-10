@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type WealthLevel = number
-
 export const wealthLevel = {
   id: "01a0720f-c6fc-740c-a8ac-1c3dbfad2809",
   pageTypeSlug: "computed-property",
@@ -11,4 +9,5 @@ export const wealthLevel = {
   definition: "which of the four rungs the day's wealth points reached",
   holds: "number",
   code: "ts",
+  types: "ts",
 } as const satisfies ComputedProperty

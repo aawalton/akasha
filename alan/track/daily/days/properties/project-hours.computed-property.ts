@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type ProjectHours = number
-
 export const projectHours = {
   id: "01a079c7-08a2-7126-a95c-29853fc8e604",
   pageTypeSlug: "computed-property",
@@ -25,4 +23,5 @@ export const projectHours = {
       statement: "A day with no stretches is no reading rather than a spend of nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies ComputedProperty

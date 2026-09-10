@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type FunStoplight = string
-
 export const funStoplight = {
   id: "01a0721c-cebf-7f14-b3e2-607836e60e86",
   pageTypeSlug: "computed-property",
@@ -11,4 +9,5 @@ export const funStoplight = {
   definition: "the rung the day's fun reached, as one colored light",
   holds: "text",
   code: "ts",
+  types: "ts",
 } as const satisfies ComputedProperty

@@ -1,7 +1,5 @@
 import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
-export type TopicCoverage = number
-
 export const topicCoverage = {
   id: "01a077f4-79d0-7bb7-8479-4ac07775d561",
   pageTypeSlug: "computed-property",
@@ -52,4 +50,5 @@ export const topicCoverage = {
       statement: "One half is the even split chosen rather than a weight these truths force.",
     },
   ],
+  types: "ts",
 } as const satisfies ComputedProperty
