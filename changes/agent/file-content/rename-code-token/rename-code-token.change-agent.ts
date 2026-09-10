@@ -13,7 +13,7 @@ export const renameCodeToken = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's own export is refused, since that name is the page's slug.",
+      statement: "A page's own export is refused.",
     },
     {
       invariantKind: "departure",

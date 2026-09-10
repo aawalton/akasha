@@ -20,7 +20,7 @@ export const changeFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A body keeps the newline its fence leaves, where a passage does not.",
+      statement: "A body keeps the newline its fence leaves.",
     },
     {
       invariantKind: "departure",

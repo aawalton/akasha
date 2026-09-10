@@ -12,7 +12,8 @@ export const moveCodeExport = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The path moved from, the path moved to and the name moved are three arguments.",
+      statement:
+        "The path moved from and the path moved to and the name moved are three arguments.",
     },
     {
       invariantKind: "departure",

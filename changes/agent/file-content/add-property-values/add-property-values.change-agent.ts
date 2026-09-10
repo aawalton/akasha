@@ -12,15 +12,15 @@ export const addPropertyValues = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each line names a page, a key, and the value put into that key.",
+      statement: "Each line names a page and a key and the value put into that key.",
     },
     {
       invariantKind: "departure",
-      statement: "The value is the rest of the line, so a value carrying a space is taken whole.",
+      statement: "The value is the rest of the line.",
     },
     {
       invariantKind: "departure",
-      statement: "A line that is not a path, a key and a value parted by spaces is refused.",
+      statement: "A line that is not a path and a key and a value parted by spaces is refused.",
     },
     {
       invariantKind: "departure",
