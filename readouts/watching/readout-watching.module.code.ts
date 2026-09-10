@@ -1,4 +1,10 @@
-import { followWithin } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
+import { join } from "node:path"
+import { indexNamed } from "@akasha/indexes"
+import { indexValue } from "@akasha/indexes/value/page"
+import {
+  followFolders,
+  followWithin,
+} from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
 import { saidBy } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { keepReading } from "../reading/readout-reading.module.code.ts"
 import {
@@ -17,6 +23,7 @@ export type WatchedReadout = {
   readonly page: string
   readonly folders: readonly string[]
   readonly holds: (at: string) => boolean
+  readonly movesWithIndex?: boolean
   readonly to: readonly string[]
   readonly take: (now: Date) => Promise<number | null>
 }
@@ -45,6 +52,7 @@ export type WatchSetup = {
 export type Taking = {
   readonly open: () => undefined
   readonly moved: (what: readonly string[]) => undefined
+  readonly indexMoved: () => undefined
   readonly settled: () => Promise<undefined>
 }
 
@@ -62,6 +70,10 @@ export function foldersOf(watched: readonly WatchedReadout[]): ReadonlySet<strin
 
 export function holdsAny(watched: readonly WatchedReadout[]): (at: string) => boolean {
   return (at) => watched.some((one) => one.holds(at))
+}
+
+export function valuesFollowedIn(root: string): string {
+  return join(root, indexNamed(), indexValue.name)
 }
 
 export function unfollowedSaid(at: string): string {
@@ -157,6 +169,10 @@ export function takingOf(setup: WatchSetup): Taking {
       for (const one of setup.watched) if (what.some(one.holds)) run(one)
       return undefined
     },
+    indexMoved: (): undefined => {
+      for (const one of setup.watched) if (one.movesWithIndex === true) run(one)
+      return undefined
+    },
     settled: async (): Promise<undefined> => {
       while (running.size > 0) await Promise.all([...running])
       return undefined
@@ -167,12 +183,27 @@ export function takingOf(setup: WatchSetup): Taking {
 export function watchReadings(setup: WatchSetup): Watching {
   const taking = takingOf(setup)
   taking.open()
+  const settleMs = setup.settleMs ?? SETTLE_MS
   const following = followWithin(
     foldersOf(setup.watched),
     holdsAny(setup.watched),
     taking.moved,
-    setup.settleMs ?? SETTLE_MS
+    settleMs
   )
-  for (const at of following.unfollowed) setup.said("ERROR", unfollowedSaid(at))
-  return { stop: following.stop, settled: taking.settled, unfollowed: following.unfollowed }
+  const indexed = followFolders(
+    new Set([valuesFollowedIn(setup.root)]),
+    taking.indexMoved,
+    settleMs
+  )
+  const unfollowed = [...following.unfollowed, ...indexed.unfollowed].sort()
+  for (const at of unfollowed) setup.said("ERROR", unfollowedSaid(at))
+  return {
+    stop: (): undefined => {
+      following.stop()
+      indexed.stop()
+      return undefined
+    },
+    settled: taking.settled,
+    unfollowed,
+  }
 }

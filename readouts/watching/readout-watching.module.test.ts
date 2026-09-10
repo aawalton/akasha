@@ -169,6 +169,71 @@ test("a carry that fails to one site does not stop the carry to another site", a
   expect(held.said).toContain("INFO upkeep-sleep=7")
 })
 
+test("a readout moving with the index is taken again when the index moves", async () => {
+  let takes = 0
+  const held = setupOf({
+    watched: [
+      {
+        ...watchedOf(() => {
+          takes += 1
+          return Promise.resolve(takes)
+        }),
+        movesWithIndex: true,
+      },
+    ],
+  })
+  held.taking.open()
+  await held.taking.settled()
+  held.taking.indexMoved()
+  await held.taking.settled()
+  expect(takes).toBe(2)
+  expect(held.written).toEqual([
+    [PAGE, 1],
+    [PAGE, 2],
+  ])
+})
+
+test("a readout that does not move with the index is left alone by an index event", async () => {
+  let takes = 0
+  const held = setupOf({
+    watched: [
+      watchedOf(() => {
+        takes += 1
+        return Promise.resolve(takes)
+      }),
+    ],
+  })
+  held.taking.open()
+  await held.taking.settled()
+  held.taking.indexMoved()
+  await held.taking.settled()
+  expect(takes).toBe(1)
+})
+
+test("an index event takes a readout no moved file would have taken", async () => {
+  let takes = 0
+  const held = setupOf({
+    watched: [
+      {
+        ...watchedOf(() => {
+          takes += 1
+          return Promise.resolve(takes)
+        }),
+        holds: () => false,
+        movesWithIndex: true,
+      },
+    ],
+  })
+  held.taking.open()
+  await held.taking.settled()
+  held.taking.moved([MADE_OF, BESIDE])
+  await held.taking.settled()
+  expect(takes).toBe(1)
+  held.taking.indexMoved()
+  await held.taking.settled()
+  expect(takes).toBe(2)
+})
+
 test("nothing is carried where no relay secret is stated", async () => {
   const held = setupOf({ watched: [watchedOf(() => Promise.resolve(7), [ALAN])] })
   held.taking.open()
