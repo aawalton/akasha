@@ -1,4 +1,4 @@
-import type { GraphNode } from "../graph-node.page-type.ts"
+import type { GraphNode } from "../graph-node.page-type.types.ts"
 
 export const file = {
   id: "01a04fee-4ee6-70a3-87ac-8663deaa44ba",

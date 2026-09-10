@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-
-export type GraphNode = Domain
 
 export const graphNode = {
   id: "01a04fe8-cebb-7a08-ad56-e698e175e03b",
@@ -22,4 +19,5 @@ export const graphNode = {
       statement: "A page is a node with a page type rather than a node of its own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
