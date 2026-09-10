@@ -25,8 +25,11 @@ const SLUG = "slug"
 
 const PAGE_TYPE = "page-type"
 
+const UNDER = "under"
+
 export type AddPagePropertyTypesAsked = {
   readonly pageType: string
+  readonly under?: string
 }
 
 export async function addPagePropertyTypes(
@@ -36,7 +39,10 @@ export async function addPagePropertyTypes(
   if (!world.index.kindsUnder(PAGE_PROPERTY).has(given.pageType)) {
     return refusing(`\`${given.pageType}\` names no page type a page property is`)
   }
-  const listed = world.index.everyOfType(given.pageType)
+  const under = given.under
+  const listed = world.index
+    .everyOfType(given.pageType)
+    .filter((one) => under === undefined || one.path.startsWith(under))
   if (listed.length === 0) return refusing(`no page is a \`${given.pageType}\``)
   const answers: Answer[] = []
   let over: World = isLedger(world)
@@ -77,5 +83,6 @@ export type Asked = Readonly<Record<string, string>>
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const pageType = given[PAGE_TYPE]
   if (pageType === undefined) return refusing(missing(PAGE_TYPE))
-  return await addPagePropertyTypes(world, { pageType })
+  const under = given[UNDER]
+  return await addPagePropertyTypes(world, under === undefined ? { pageType } : { pageType, under })
 }

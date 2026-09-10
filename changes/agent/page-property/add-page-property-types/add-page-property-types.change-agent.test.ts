@@ -123,6 +123,29 @@ test("every page is reached rather than the first alone", async () => {
   expect(seen).toHaveLength(4)
 })
 
+test("a folder named holds the change to the pages under that folder", async () => {
+  const seen: Reached[] = []
+
+  await addPagePropertyTypes(
+    worldFor(catching(seen), [KIND], [AT, "apart/ones/properties/kept.boolean-property.ts"]),
+    { pageType: KIND, under: "held/" }
+  )
+
+  expect(seen).toHaveLength(2)
+})
+
+test("a folder no page of that page type sits under is refused", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPagePropertyTypes(worldFor(catching(seen), [KIND], [AT]), {
+    pageType: KIND,
+    under: "apart/",
+  })
+
+  expect(said.refused ?? "").toMatch(/no page is a/)
+  expect(seen).toEqual([])
+})
+
 test("arguments holding no page type are refused by the name of the argument", async () => {
   const said = await runChange(worldFor(catching([]), [KIND], [AT]), {})
 
