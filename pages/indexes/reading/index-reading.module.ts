@@ -168,8 +168,7 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A caller naming a root is answered afresh, that root building a reading of its own each ask.",
+      statement: "A caller naming a root is answered afresh.",
     },
   ],
 } as const satisfies Module

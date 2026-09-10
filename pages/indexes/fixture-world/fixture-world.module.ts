@@ -14,7 +14,7 @@ export const fixtureWorld = {
     },
     {
       invariantKind: "departure",
-      statement: "Git packs nothing in that world on its own, so a copy reads what is there.",
+      statement: "Git packs nothing in that world on its own.",
     },
   ],
 } as const satisfies Module

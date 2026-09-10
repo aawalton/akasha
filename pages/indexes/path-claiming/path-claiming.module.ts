@@ -47,7 +47,7 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
-      statement: "A page states nothing for such a property, so its type is the only source.",
+      statement: "A page states nothing for such a property.",
     },
     {
       invariantKind: "departure",
