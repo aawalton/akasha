@@ -1,14 +1,24 @@
 import { AKASHA, akashaRoot, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { seatId } from "@akasha/seat-system/read-record"
-import { handlerDerives, personaIsHers, refuseAnswering } from "@akasha/seat-system/seat-answering"
-import { type Args, parseArgs } from "@akasha/seat-system/seat-args"
-import { attributeFor } from "@akasha/seat-system/seat-attribute"
-import { defaultLines } from "@akasha/seat-system/seat-defaults"
-import { SEAT_HELP } from "@akasha/seat-system/seat-help"
-import { nameStanding } from "@akasha/seat-system/seat-name-stands"
-import { nameableFrom, nameableStated } from "@akasha/seat-system/seat-nameable"
-import { writeSeatPage } from "@akasha/seat-system/seat-page-writing"
-import { composedNameOf, followName } from "@akasha/seat-system/seat-rename"
+import { seatId } from "akasha/seat-system/read-record/read-record.module.code.ts"
+import {
+  handlerDerives,
+  personaIsHers,
+  refuseAnswering,
+} from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
+import { type Args, parseArgs } from "akasha/seat-system/seat-args/seat-args.module.code.ts"
+import { attributeFor } from "akasha/seat-system/seat-attribute/seat-attribute.module.code.ts"
+import { defaultLines } from "akasha/seat-system/seat-defaults/seat-defaults.module.code.ts"
+import { SEAT_HELP } from "akasha/seat-system/seat-help/seat-help.module.code.ts"
+import { nameStanding } from "akasha/seat-system/seat-name-stands/seat-name-stands.module.code.ts"
+import {
+  nameableFrom,
+  nameableStated,
+} from "akasha/seat-system/seat-nameable/seat-nameable.module.code.ts"
+import { writeSeatPage } from "akasha/seat-system/seat-page-writing/seat-page-writing.module.code.ts"
+import {
+  composedNameOf,
+  followName,
+} from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
 import {
   composeSeatName,
   personPrincipals,

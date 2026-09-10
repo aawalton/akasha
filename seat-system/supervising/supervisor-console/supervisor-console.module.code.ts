@@ -8,7 +8,7 @@ import {
   unlinkSync,
 } from "node:fs"
 import { dirname } from "node:path"
-import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
+import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import {
   type LogWriter,
   logWriter,

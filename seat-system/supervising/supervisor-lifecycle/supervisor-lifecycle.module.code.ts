@@ -1,19 +1,19 @@
-import type { ChildExitRuleSource } from "@akasha/seat-system/supervisor-child-exit-rule"
-import { LOG } from "@akasha/seat-system/supervisor-config"
-import { takeSeatPage } from "@akasha/seat-system/supervisor-heartbeat-beat"
-import { shouldWriteTerminalStoppedStatus } from "@akasha/seat-system/supervisor-lifecycle-death-write"
+import { shape } from "@akasha/utils/narrow/shape"
+import type { ChildExitRuleSource } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { takeSeatPage } from "akasha/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import {
   killProcessesForShutdown,
   recordShutdownEvent,
-} from "@akasha/seat-system/supervisor-shutdown-procs"
+} from "akasha/seat-system/supervising/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"
 import {
   activeLifecycles,
   getObservedChildExit,
   isShuttingDown,
   processes,
   setShuttingDown,
-} from "@akasha/seat-system/supervisor-state"
-import { shape } from "@akasha/utils/narrow/shape"
+} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import { shouldWriteTerminalStoppedStatus } from "akasha/seat-system/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 import { teardownProxyVersionSubscription } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { attemptInPlaceReExec } from "../../self-healing/supervisor-reexec/supervisor-reexec.module.code.ts"
 import { resolveReExecArgv } from "../../self-healing/supervisor-self-heal/supervisor-self-heal.module.code.ts"

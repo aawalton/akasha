@@ -4,8 +4,8 @@ import { everyOfType } from "@akasha/indexes"
 import { fileKeysAt } from "@akasha/indexes/entries"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { besideOf } from "@akasha/pages/page-beside"
-import { landRemovals } from "@akasha/seat-system/gated-landing"
 import { fileStemOf } from "akasha/file-page-identity/file-page/file-page.module.code.ts"
+import { landRemovals } from "akasha/seat-system/gated-landing/gated-landing.module.code.ts"
 import { dropReadings } from "../../../commands/modules/reading/reading.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7

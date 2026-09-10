@@ -1,23 +1,23 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { USER_ID } from "@akasha/supabase-auth/user-id"
+import { summarizePool } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
+import { pacingIn } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   type AskDecide,
   askLimitResume,
   type LimitResumeVerdict,
-} from "@akasha/seat-system/supervisor-limit-resume-answer"
-import {
-  askSupervisorDecide,
-  classifyRateLimitDeath,
-} from "@akasha/seat-system/supervisor-limit-resume-effects"
+} from "akasha/seat-system/supervising/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"
 import {
   ANNOUNCE,
   hasRecentInboundMessage,
   SYSTEM_SOURCE,
   sendMessage,
-} from "@akasha/seat-system/supervisor-limit-resume-send"
-import { USER_ID } from "@akasha/supabase-auth/user-id"
-import { summarizePool } from "akasha/agents/claude-accounts/modules/selection/claude-account-selection.module.code.ts"
-import { pacingIn } from "akasha/agents/models/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { AccountState } from "akasha/agents/models/gateway/modules/oauth-types/oauth-types.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
+import {
+  askSupervisorDecide,
+  classifyRateLimitDeath,
+} from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
 
 const LIMIT_RESUME_INTERVAL_MS = 30_000

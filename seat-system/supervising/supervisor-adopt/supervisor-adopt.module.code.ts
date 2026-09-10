@@ -1,6 +1,6 @@
 import { existsSync, readFileSync, renameSync, writeFileSync } from "node:fs"
-import { resolveRemoteControlEnv } from "@akasha/seat-system/supervisor-remote-control-env"
-import type { InheritedProc } from "@akasha/seat-system/supervisor-types"
+import { resolveRemoteControlEnv } from "akasha/seat-system/supervising/supervisor-remote-control-env/supervisor-remote-control-env.module.code.ts"
+import type { InheritedProc } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 import {
   buildClaudeArgv,
   refuseMissingCwd,

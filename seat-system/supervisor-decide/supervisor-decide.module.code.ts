@@ -1,4 +1,8 @@
-import { readPayload, record, rejectUnknownFlags } from "@akasha/seat-system/payload"
+import {
+  readPayload,
+  record,
+  rejectUnknownFlags,
+} from "akasha/seat-system/payload/payload.module.code.ts"
 import {
   parseClaimedRedelivery,
   parseLimitResume,
@@ -7,24 +11,24 @@ import {
   parseRestartNotice,
   parseUncertainWait,
   parseWaitResume,
-} from "@akasha/seat-system/supervisor-decide-payload"
-import { RULE_DECISIONS } from "@akasha/seat-system/supervisor-decide-rules"
+} from "akasha/seat-system/supervising/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
+import { RULE_DECISIONS } from "akasha/seat-system/supervising/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
 import {
   decideLimitResume,
   LIMIT_RESUME_FLOOR_MS,
   type LimitResumeDecision,
-} from "@akasha/seat-system/supervisor-limit-resume-decide"
-import { decideRcDegradedBatch } from "@akasha/seat-system/supervisor-rc-degraded-decide"
-import { decideRemoteControlBatch } from "@akasha/seat-system/supervisor-remote-control-decide"
+} from "akasha/seat-system/supervising/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
+import { decideRcDegradedBatch } from "akasha/seat-system/supervising/supervisor-rc-degraded-decide/supervisor-rc-degraded-decide.module.code.ts"
+import { decideRemoteControlBatch } from "akasha/seat-system/supervising/supervisor-remote-control-decide/supervisor-remote-control-decide.module.code.ts"
 import {
   planRestartNotice,
   type ResumeNotices,
-} from "@akasha/seat-system/supervisor-restart-notice-decide"
-import { decideUncertainBlockBatch } from "@akasha/seat-system/supervisor-uncertain-wait-decide"
+} from "akasha/seat-system/supervising/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
+import { decideUncertainBlockBatch } from "akasha/seat-system/supervising/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
 import {
   decideWaitResume,
   type WaitResumeDecision,
-} from "@akasha/seat-system/supervisor-wait-resume-decide"
+} from "akasha/seat-system/supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
 import { fail } from "../command-failing/command-failing.module.code.ts"
 import { notices } from "../compose-notices/compose-notices.module.code.ts"
 import { decideClaimedRedelivery } from "../messaging/supervisor-claimed-redelivery-decide/supervisor-claimed-redelivery-decide.module.code.ts"

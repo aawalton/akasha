@@ -5,7 +5,7 @@ export const onlyTheTmuxLauncherSweepsSubagentPagesSoEveryOtherRestartRoadOrphan
   pageTypeSlug: "finding",
   type: "finding",
   slug: "only-the-tmux-launcher-sweeps-subagent-pages-so-every-other-restart-road-orphans-them",
-  domain: "workspace-package/seat-system",
+  domain: "domain/seat-system",
   claim:
     "A subagent's page is put up and taken down correctly by the `state-subagent` agent hook, which fires at SubagentStart and SubagentStop. What it cannot cover is a client that dies: SubagentStop never runs, and every page under that seat is orphaned. The sweep for that case exists — `tookUnder` in `subagent-presence` — but the only calls to it sit in `tools/lib/launch-seat-tmux.ts`, the outer human-facing road. The supervisor's own restart roads spawn a new client without it, so each seat death leaves its whole cohort standing and the pages accumulate without bound.",
   evidence:

@@ -1,5 +1,5 @@
-import { akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
-import { akashaSeatRecordOf } from "@akasha/seat-system/seat-akasha-read"
+import { akashaSeatsThatExist } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatRecordOf } from "akasha/seat-system/seat-akasha-read/seat-akasha-read.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 

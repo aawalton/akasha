@@ -14,7 +14,6 @@
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/seat-system": "workspace:*",
     "@akasha/utils": "workspace:*",
     "yaml": "^2.8.0"
   }

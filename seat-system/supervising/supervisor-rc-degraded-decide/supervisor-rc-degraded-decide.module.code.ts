@@ -4,8 +4,8 @@ import {
   type RcConfirmLatch,
   type RcDegradedAction,
   type RcSeatStreak,
-} from "@akasha/seat-system/supervisor-rc-degraded-state"
-import type { RcDegradedThresholds } from "@akasha/seat-system/supervisor-rc-degraded-thresholds"
+} from "akasha/seat-system/supervising/supervisor-rc-degraded-state/supervisor-rc-degraded-state.module.code.ts"
+import type { RcDegradedThresholds } from "akasha/seat-system/supervising/supervisor-rc-degraded-thresholds/supervisor-rc-degraded-thresholds.module.code.ts"
 
 export interface RcDegradedDecideInput {
   readonly edgeCount: number | null

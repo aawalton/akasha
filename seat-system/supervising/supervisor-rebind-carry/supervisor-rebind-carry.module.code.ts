@@ -1,4 +1,4 @@
-import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
+import type { StatedAgentSlots } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { attributesOf, recordedModeOf } from "../../seat-attributes/seat-attributes.module.code.ts"
 import { principalOf } from "../../seat-principal/seat-principal.module.code.ts"
 

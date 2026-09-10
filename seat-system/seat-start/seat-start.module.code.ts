@@ -1,36 +1,45 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
-import {
-  handlerDerives,
-  principalIsPerson,
-  refuseAnswering,
-} from "@akasha/seat-system/seat-answering"
-import { seatByName } from "@akasha/seat-system/seat-by-name"
-import { isValidSeatName, resolveOptionalSeatId } from "@akasha/seat-system/seat-handle"
-import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
-import {
-  isSeatMode,
-  SEAT_MODE_HEADLESS,
-  SEAT_MODE_INTERACTIVE,
-  SEAT_MODES,
-} from "@akasha/seat-system/seat-modes"
-import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
-import { refuseHeldName } from "@akasha/seat-system/seat-name-held-refusal"
-import { refuseParentless } from "@akasha/seat-system/seat-parentless-refusal"
-import { composedNameOf } from "@akasha/seat-system/seat-rename"
-import { compositionOf, decideSpawnName } from "@akasha/seat-system/seat-spawn-name-decide"
-import { HELP } from "@akasha/seat-system/seat-start-help"
-import { resolveStatedIdentity } from "@akasha/seat-system/seat-stated-identity"
-import { refuseStatedName } from "@akasha/seat-system/seat-stated-name-refusal"
-import { refuseStatedParent } from "@akasha/seat-system/seat-stated-parent-refusal"
-import { type StatedIdentity, spawnSeat } from "@akasha/seat-system/spawn-seat"
-import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
-import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
 import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
 import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { launchSeatUnderTmux } from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import {
+  handlerDerives,
+  principalIsPerson,
+  refuseAnswering,
+} from "akasha/seat-system/seat-answering/seat-answering.module.code.ts"
+import { seatByName } from "akasha/seat-system/seat-by-name/seat-by-name.module.code.ts"
+import {
+  isValidSeatName,
+  resolveOptionalSeatId,
+} from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
+import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+  SEAT_MODE_INTERACTIVE,
+  SEAT_MODES,
+} from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
+import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
+import { refuseHeldName } from "akasha/seat-system/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
+import { refuseParentless } from "akasha/seat-system/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
+import { composedNameOf } from "akasha/seat-system/seat-rename/seat-rename.module.code.ts"
+import {
+  compositionOf,
+  decideSpawnName,
+} from "akasha/seat-system/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
+import { HELP } from "akasha/seat-system/seat-start-help/seat-start-help.module.code.ts"
+import { resolveStatedIdentity } from "akasha/seat-system/seat-stated-identity/seat-stated-identity.module.code.ts"
+import { refuseStatedName } from "akasha/seat-system/seat-stated-name-refusal/seat-stated-name-refusal.module.code.ts"
+import { refuseStatedParent } from "akasha/seat-system/seat-stated-parent-refusal/seat-stated-parent-refusal.module.code.ts"
+import {
+  type StatedIdentity,
+  spawnSeat,
+} from "akasha/seat-system/spawn-seat/spawn-seat.module.code.ts"
+import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
+import type { StatedAgentSlots } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import {
   composeSeatName,

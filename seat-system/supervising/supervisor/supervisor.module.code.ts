@@ -1,11 +1,11 @@
-import { shutdown } from "@akasha/seat-system/supervisor-lifecycle"
+import { shutdown } from "akasha/seat-system/supervising/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import {
   getRestoreConsoleHandle,
   processes,
   setRestoreConsoleHandle,
   setShutdownSinkGetter,
-} from "@akasha/seat-system/supervisor-state"
-import { installSupervisorTerminalGuard } from "@akasha/seat-system/supervisor-terminal"
+} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import { installSupervisorTerminalGuard } from "akasha/seat-system/supervising/supervisor-terminal/supervisor-terminal.module.code.ts"
 import { parseArgs } from "../supervisor-args/supervisor-args.module.code.ts"
 import { liveChildExitRule } from "../supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import {

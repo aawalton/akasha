@@ -1,5 +1,5 @@
 import { resolveRoots } from "@akasha/pages/checkout-roots"
-import type { Outcome } from "@akasha/seat-system/gated-write"
+import type { Outcome } from "akasha/seat-system/gated-write/gated-write.module.code.ts"
 import { akashaSeatSlugOf } from "../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   removeAkashaSeatPage,

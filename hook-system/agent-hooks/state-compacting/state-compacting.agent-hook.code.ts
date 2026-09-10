@@ -1,4 +1,4 @@
-import { setPending } from "@akasha/seat-system/seat-turn-pending"
+import { setPending } from "akasha/seat-system/seat-turn-pending/seat-turn-pending.module.code.ts"
 import { seatIn } from "../../../commands/modules/reading/reading.module.code.ts"
 import { ASIDE, payloadIn, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"
 

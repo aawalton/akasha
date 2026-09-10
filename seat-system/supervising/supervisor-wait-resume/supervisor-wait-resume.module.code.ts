@@ -1,17 +1,20 @@
-import { askSupervisorDecide } from "@akasha/seat-system/supervisor-limit-resume-effects"
+import { USER_ID } from "@akasha/supabase-auth/user-id"
 import {
   ANNOUNCE,
   hasRecentInboundMessage,
   SYSTEM_SOURCE,
   sendMessage,
-} from "@akasha/seat-system/supervisor-limit-resume-send"
+} from "akasha/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import {
   type AskDecide,
   askWaitResume,
   type WaitResumeVerdict,
-} from "@akasha/seat-system/supervisor-wait-resume-answer"
-import { WAIT_MAX_MS, waitMs } from "@akasha/seat-system/supervisor-wait-resume-decide"
-import { USER_ID } from "@akasha/supabase-auth/user-id"
+} from "akasha/seat-system/supervising/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"
+import {
+  WAIT_MAX_MS,
+  waitMs,
+} from "akasha/seat-system/supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"
+import { askSupervisorDecide } from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
 import {
   CONNECTION_STATUS,

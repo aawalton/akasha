@@ -1,23 +1,32 @@
-import { claimSeatSupervision } from "@akasha/seat-system/seat-supervisor-claim"
-import { reconcileAgentBootFiles, resolveClaudeHandoff } from "@akasha/seat-system/supervisor-adopt"
-import { selectAccountAndWriteCredential } from "@akasha/seat-system/supervisor-agent"
-import { createAgent } from "@akasha/seat-system/supervisor-agent-create"
-import { configDirForAccount, LOG } from "@akasha/seat-system/supervisor-config"
-import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "@akasha/seat-system/supervisor-env"
-import { startPerAgentMonitors } from "@akasha/seat-system/supervisor-monitors-wire"
+import { shape } from "@akasha/utils/narrow/shape"
+import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { claimSeatSupervision } from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import {
+  reconcileAgentBootFiles,
+  resolveClaudeHandoff,
+} from "akasha/seat-system/supervising/supervisor-adopt/supervisor-adopt.module.code.ts"
+import { selectAccountAndWriteCredential } from "akasha/seat-system/supervising/supervisor-agent/supervisor-agent.module.code.ts"
+import { createAgent } from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+import {
+  configDirForAccount,
+  LOG,
+} from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import {
+  AGENT_LAUNCH_OPENED,
+  AGENT_LAUNCH_SPAWNED,
+} from "akasha/seat-system/supervising/supervisor-env/supervisor-env.module.code.ts"
+import { startPerAgentMonitors } from "akasha/seat-system/supervising/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
 import {
   AGENT_MODE_HEADLESS,
   AGENT_MODE_INTERACTIVE,
   stateSeatDefaults,
-} from "@akasha/seat-system/supervisor-seat-defaults"
-import { createAgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
+} from "akasha/seat-system/supervising/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
+import { createAgentIdHandle } from "akasha/seat-system/supervising/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import {
   setInheritedClaude,
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
-} from "@akasha/seat-system/supervisor-state"
-import { shape } from "@akasha/utils/narrow/shape"
-import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 import { installProxyVersionSubsystem } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { buildCredentialSubsystem } from "../../seat-credential/supervisor-credentials/supervisor-credentials.module.code.ts"
 import {

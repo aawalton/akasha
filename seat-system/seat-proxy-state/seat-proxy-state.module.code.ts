@@ -2,7 +2,7 @@ import {
   formatSeatProcKey,
   parseSeatProcKey,
   readProcStartTicks,
-} from "@akasha/seat-system/seat-proc-key"
+} from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import { akashaObservedOf } from "../seat-akasha-read/seat-akasha-read.module.code.ts"
 import { keepBeside } from "../seat-beside/seat-beside.module.code.ts"
 import { seatNameForAgent } from "../seat-presence-read/seat-presence-read.module.code.ts"

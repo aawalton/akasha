@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../domains/domain.page-type.types.ts"
 
 export const seatSystem = {
   id: "01a04f23-d2da-7b20-a543-142de383ac28",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "seat-system",
   definition: "a place an agent works from, and what stands there while it does",
-  manifest: "json",
+
   parts: [
     "module/kill-target-plan",
     "module/window-duration",
@@ -283,4 +283,4 @@ export const seatSystem = {
       statement: "A seat at work keeps working while its page moves.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

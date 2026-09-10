@@ -1,6 +1,9 @@
-import { type CarriedAgentName, carriedForSeat } from "@akasha/seat-system/supervisor-rebind-carry"
-import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
-import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
+import {
+  type CarriedAgentName,
+  carriedForSeat,
+} from "akasha/seat-system/supervising/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
+import type { ClearRebindDeps } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 import type { RowAgentLaunch } from "../supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 import {

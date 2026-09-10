@@ -1,5 +1,5 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import type { CommsRule } from "@akasha/seat-system/seat-wake-rules"
+import type { CommsRule } from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
 import { personasStanding } from "../reading/persona-reading.module.code.ts"
 
 export interface PersonaTarget {

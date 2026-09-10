@@ -1,4 +1,7 @@
-import { getInheritedClaude, processes } from "@akasha/seat-system/supervisor-state"
+import {
+  getInheritedClaude,
+  processes,
+} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 import {
   configDirForAccount,
   LOG,

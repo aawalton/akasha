@@ -4,8 +4,8 @@ import { join } from "node:path"
 import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
-import { slugOf } from "@akasha/seat-system/subagent-presence"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { slugOf } from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import {
   blobIdOf,
   partly,

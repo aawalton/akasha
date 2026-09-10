@@ -1,11 +1,14 @@
+import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
 import {
   describeAckTimeout,
   setRequestedAction,
   waitForActionCleared,
-} from "@akasha/seat-system/seat-action"
-import { planSeatResolution, resolveSeatTarget } from "@akasha/seat-system/seat-handle"
-import { readProxyState } from "@akasha/seat-system/seat-proxy-state"
-import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
+} from "akasha/seat-system/seat-action/seat-action.module.code.ts"
+import {
+  planSeatResolution,
+  resolveSeatTarget,
+} from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
+import { readProxyState } from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"

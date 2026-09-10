@@ -1,23 +1,29 @@
-import { claimSeatSupervision } from "@akasha/seat-system/seat-supervisor-claim"
-import { createAgent } from "@akasha/seat-system/supervisor-agent-create"
-import type { SeatResume } from "@akasha/seat-system/supervisor-args"
-import { liveChildExitRule } from "@akasha/seat-system/supervisor-child-exit-rule"
-import { spawnOrAdoptChild } from "@akasha/seat-system/supervisor-child-spawn"
-import { LOG } from "@akasha/seat-system/supervisor-config"
-import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
+import { USER_ID } from "@akasha/supabase-auth/user-id"
+import { claimSeatSupervision } from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import { createAgent } from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
+import { liveChildExitRule } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { spawnOrAdoptChild } from "akasha/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
 import {
   ANNOUNCE,
   sendMessage,
   USER_SOURCE,
-} from "@akasha/seat-system/supervisor-limit-resume-send"
-import type { ClearRebindHooks } from "@akasha/seat-system/supervisor-rebind"
-import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
-import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
-import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
-import { sessionProjectDir } from "@akasha/seat-system/supervisor-session-project-dir"
-import { processes, setRestoreConsoleHandle } from "@akasha/seat-system/supervisor-state"
-import type { AgentProcess, InheritedProc } from "@akasha/seat-system/supervisor-types"
-import { USER_ID } from "@akasha/supabase-auth/user-id"
+} from "akasha/seat-system/supervising/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
+import type { ClearRebindHooks } from "akasha/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts"
+import type { CarriedAgentName } from "akasha/seat-system/supervising/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
+import type { ClearRebindDeps } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import type { AgentIdHandle } from "akasha/seat-system/supervising/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import { sessionProjectDir } from "akasha/seat-system/supervising/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
+import {
+  processes,
+  setRestoreConsoleHandle,
+} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import type {
+  AgentProcess,
+  InheritedProc,
+} from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 import { readOwnTranscriptTail } from "../../agent-io-probe/agent-io-probe.module.code.ts"
 import { reconcileClaimedRedelivery } from "../../messaging/supervisor-claimed-reconcile/supervisor-claimed-reconcile.module.code.ts"
 import {

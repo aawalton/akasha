@@ -3,7 +3,7 @@ import {
   isClaudeChildCmdline,
   type ProcLivenessEntry,
   UUID_RE,
-} from "@akasha/seat-system/seat-proc-liveness"
+} from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
 
 export function newestProcStartMsByAgent(
   entries: readonly ProcLivenessEntry[]

@@ -1,4 +1,4 @@
-import { getInheritedClaude } from "@akasha/seat-system/supervisor-state"
+import { getInheritedClaude } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
 import { LOG } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 import { armDeferredRestart } from "../../supervising/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type { DeferredRestartRuleSource } from "../../supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"

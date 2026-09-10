@@ -1,7 +1,7 @@
 import {
   classifyTranscriptDelivery,
   type TranscriptOutcome,
-} from "@akasha/seat-system/channel-delivery"
+} from "akasha/seat-system/channel-delivery/channel-delivery.module.code.ts"
 import {
   type ClaimedRedeliveryDecision,
   decideClaimedRedelivery,

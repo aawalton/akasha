@@ -1,5 +1,5 @@
 import { resolveRoots } from "@akasha/pages/checkout-roots"
-import type { CommsInput } from "@akasha/seat-system/seat-wake-rules"
+import type { CommsInput } from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
 import { agentPresence } from "../../seat-presence-read/seat-presence-read.module.code.ts"
 import { LOG } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
 import {

@@ -1,9 +1,12 @@
-import { LOG } from "@akasha/seat-system/supervisor-config"
-import { buildHeartbeatMonitor } from "@akasha/seat-system/supervisor-heartbeat"
-import { pollAgentAction } from "@akasha/seat-system/supervisor-poll-agent-action"
-import { getAgentActionHandler, getOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
-import { startWaitResumeMonitor } from "@akasha/seat-system/supervisor-wait-resume"
 import { computeModelGatewayTreeVersion } from "akasha/agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { buildHeartbeatMonitor } from "akasha/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
+import { pollAgentAction } from "akasha/seat-system/supervising/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
+import {
+  getAgentActionHandler,
+  getOAuthProxyHandle,
+} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import { startWaitResumeMonitor } from "akasha/seat-system/supervising/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
 import { startProxyLivenessMonitor } from "../../oauth-proxy/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
 import type { ProxyLivenessRuleSource } from "../../oauth-proxy/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
 import { handleProxyVersionUpdate } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"

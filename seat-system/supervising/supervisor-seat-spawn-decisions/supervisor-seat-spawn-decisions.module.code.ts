@@ -1,15 +1,15 @@
-import {
-  askSupervisorDecide,
-  SUPERVISOR_DECIDE_COMMAND,
-} from "@akasha/seat-system/supervisor-limit-resume-effects"
+import { shape } from "@akasha/utils/narrow/shape"
 import {
   REMOTE_CONTROL_DECISION,
   RemoteControlVerdictShape,
   readRemoteControlQuestion,
   remoteControlFallback,
   seatLabel,
-} from "@akasha/seat-system/supervisor-remote-control-default"
-import { shape } from "@akasha/utils/narrow/shape"
+} from "akasha/seat-system/supervising/supervisor-remote-control-default/supervisor-remote-control-default.module.code.ts"
+import {
+  askSupervisorDecide,
+  SUPERVISOR_DECIDE_COMMAND,
+} from "akasha/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
 const SeatSpawnAnswerShape = shape.object({

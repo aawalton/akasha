@@ -1,16 +1,23 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { killSeatSession, launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
-import { resolveSeatTargetCli } from "@akasha/seat-system/seat-handle"
-import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
-import { isSeatMode, SEAT_MODE_HEADLESS, SEAT_MODES } from "@akasha/seat-system/seat-modes"
-import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
-import { HELP } from "@akasha/seat-system/seat-reset-help"
-import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
-import { A_RESET, stopSeat } from "@akasha/seat-system/stop-seat"
 import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import {
+  killSeatSession,
+  launchSeatUnderTmux,
+} from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import { resolveSeatTargetCli } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
+import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+  SEAT_MODES,
+} from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
+import { mintNamedAgent } from "akasha/seat-system/seat-name-bind/seat-name-bind.module.code.ts"
+import { HELP } from "akasha/seat-system/seat-reset-help/seat-reset-help.module.code.ts"
+import { stateSpawnedSeat } from "akasha/seat-system/state-spawned-seat/state-spawned-seat.module.code.ts"
+import { A_RESET, stopSeat } from "akasha/seat-system/stop-seat/stop-seat.module.code.ts"
 import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import { composeSeatName } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "../seat-flex/seat-flex.module.code.ts"

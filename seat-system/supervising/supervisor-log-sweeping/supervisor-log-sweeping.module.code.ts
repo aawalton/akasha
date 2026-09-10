@@ -1,5 +1,5 @@
 import { readdirSync, rmSync, statSync } from "node:fs"
-import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
+import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { akashaSeatsThatExist } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import { keepDaysFrom } from "../../seat-log-days/log-day-sweeping/log-day-sweeping.module.code.ts"
 

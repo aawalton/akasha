@@ -1,36 +1,3 @@
-import { readTranscriptMtimeMs } from "@akasha/seat-system/agent-io-probe"
-import {
-  holdSeatPaneOpen,
-  killSeatSession,
-  launchSeatUnderTmux,
-  respawnSeatUnderTmux,
-} from "@akasha/seat-system/launch-seat-tmux"
-import { resumeSeat as relaunchStoppedSeat } from "@akasha/seat-system/resume-seat"
-import { liveResumeVerifySleep, resumeAndVerify } from "@akasha/seat-system/resume-verify"
-import {
-  describeAckTimeout,
-  setRequestedAction,
-  waitForActionCleared,
-} from "@akasha/seat-system/seat-action"
-import { seatRecord } from "@akasha/seat-system/seat-facts"
-import { resolveSeatTargetFromFlagOrEnv } from "@akasha/seat-system/seat-handle"
-import { DEFAULT_ACCOUNT } from "@akasha/seat-system/seat-launching"
-import {
-  isSeatMode,
-  SEAT_MODE_HEADLESS,
-  SEAT_MODE_INTERACTIVE,
-  SEAT_MODES,
-} from "@akasha/seat-system/seat-modes"
-import { sweepSupersededAgentTrees } from "@akasha/seat-system/seat-recovery"
-import { HELP } from "@akasha/seat-system/seat-resume-help"
-import type { ReviveIoVerdict } from "@akasha/seat-system/seat-revive-io-verify-decide"
-import { decideSubagentGuard } from "@akasha/seat-system/subagent-guard"
-import { standingSubagentsOf } from "@akasha/seat-system/subagent-page"
-import {
-  resolveTakeoverTarget,
-  type TakenSeat,
-  takeoverSeat,
-} from "@akasha/seat-system/takeover-seat"
 import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
 import { shape } from "@akasha/utils/narrow/shape"
 import {
@@ -39,6 +6,42 @@ import {
   inputError,
   operationalError,
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { readTranscriptMtimeMs } from "akasha/seat-system/agent-io-probe/agent-io-probe.module.code.ts"
+import {
+  holdSeatPaneOpen,
+  killSeatSession,
+  launchSeatUnderTmux,
+  respawnSeatUnderTmux,
+} from "akasha/seat-system/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import { resumeSeat as relaunchStoppedSeat } from "akasha/seat-system/resume-seat/resume-seat.module.code.ts"
+import {
+  liveResumeVerifySleep,
+  resumeAndVerify,
+} from "akasha/seat-system/resume-verify/resume-verify.module.code.ts"
+import {
+  describeAckTimeout,
+  setRequestedAction,
+  waitForActionCleared,
+} from "akasha/seat-system/seat-action/seat-action.module.code.ts"
+import { seatRecord } from "akasha/seat-system/seat-facts/seat-facts.module.code.ts"
+import { resolveSeatTargetFromFlagOrEnv } from "akasha/seat-system/seat-handle/seat-handle.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/seat-system/seat-launching/seat-launching.module.code.ts"
+import {
+  isSeatMode,
+  SEAT_MODE_HEADLESS,
+  SEAT_MODE_INTERACTIVE,
+  SEAT_MODES,
+} from "akasha/seat-system/seat-modes/seat-modes.module.code.ts"
+import { sweepSupersededAgentTrees } from "akasha/seat-system/seat-recovery/seat-recovery.module.code.ts"
+import { HELP } from "akasha/seat-system/seat-resume-help/seat-resume-help.module.code.ts"
+import type { ReviveIoVerdict } from "akasha/seat-system/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
+import { decideSubagentGuard } from "akasha/seat-system/subagent-guard/subagent-guard.module.code.ts"
+import { standingSubagentsOf } from "akasha/seat-system/subagent-page/subagent-page.module.code.ts"
+import {
+  resolveTakeoverTarget,
+  type TakenSeat,
+  takeoverSeat,
+} from "akasha/seat-system/takeover-seat/takeover-seat.module.code.ts"
 import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
 

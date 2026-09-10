@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { notices, render } from "@akasha/seat-system/compose-notices"
+import { notices, render } from "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   OUT,

@@ -1,4 +1,4 @@
-import { writeMessage } from "@akasha/seat-system/message-file"
+import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 import { sweepOrphanedResources } from "../orphan-resource-audit/orphan-resource-audit.module.code.ts"
 import {
   decideSweepSignal,

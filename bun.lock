@@ -13,7 +13,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
-        "@akasha/seat-system": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@dnd-kit/core": ">=6",
@@ -342,7 +341,6 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/seat-system": "workspace:*",
         "@akasha/utils": "workspace:*",
         "yaml": "^2.8.0",
       },
@@ -454,18 +452,6 @@
         "@types/react-dom": "^19",
         "typescript": "^5.8.3",
         "vite": "^8.0.3",
-      },
-    },
-    "seat-system": {
-      "name": "@akasha/seat-system",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/supabase-auth": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "@modelcontextprotocol/sdk": "^1.30.0",
-        "yaml": "^2.8.1",
-        "zod": "^4.3.6",
       },
     },
     "smilingjenny/web": {
@@ -754,8 +740,6 @@
     "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages/ui"],
 
     "@akasha/rules-engine": ["@akasha/rules-engine@workspace:alan/harness/rules-engine"],
-
-    "@akasha/seat-system": ["@akasha/seat-system@workspace:seat-system"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
 

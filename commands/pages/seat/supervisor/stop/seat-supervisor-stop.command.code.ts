@@ -1,8 +1,11 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { textAt, type Value, valueAt, valueIn } from "@akasha/pages/page-value"
-import { seatPathForName } from "@akasha/seat-system/seat-reading"
-import { type Stopped, stopping } from "@akasha/seat-system/seat-stopping"
+import { seatPathForName } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
+import {
+  type Stopped,
+  stopping,
+} from "akasha/seat-system/seat-stopping/seat-stopping.module.code.ts"
 import { told } from "../../../../../git/running/git-running.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"

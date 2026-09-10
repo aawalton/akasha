@@ -2,8 +2,11 @@ import { afterEach, describe, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
-import { colorIn, WORKING_PAGE } from "@akasha/seat-system/seat-turn-color/testing"
 import { LEASE_ENV } from "akasha/editor-extension/harness-wire/harness-wire.module.code.ts"
+import {
+  colorIn,
+  WORKING_PAGE,
+} from "akasha/seat-system/seat-turn-color/seat-turn-color.module.test-fixtures.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import {
   askServed,

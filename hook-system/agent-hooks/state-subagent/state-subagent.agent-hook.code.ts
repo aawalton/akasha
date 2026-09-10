@@ -1,4 +1,8 @@
-import { puttingUp, seatNamedIn, takingDown } from "@akasha/seat-system/subagent-presence"
+import {
+  puttingUp,
+  seatNamedIn,
+  takingDown,
+} from "akasha/seat-system/subagents/presence/subagent-presence.module.code.ts"
 import { seatIn } from "../../../commands/modules/reading/reading.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { ASIDE, payloadIn, SCOPE_FLAG } from "../../hook-answer/hook-answer.module.code.ts"

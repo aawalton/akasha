@@ -1,14 +1,14 @@
 import {
-  recipientResolverConfigBanner,
-  resolveRecipientResolverConfig,
-} from "@akasha/seat-system/recipient-resolver-config"
-import { defaultRecipientResolverDeps } from "@akasha/seat-system/recipient-resolver-deps"
-import { assembleRecipientResolverSpecs } from "@akasha/seat-system/recipient-resolver-registry"
-import { runRecipientResolverTick } from "@akasha/seat-system/recipient-resolver-tick"
-import {
   listPersonaSlugs,
   listPersonaWakeSources,
 } from "akasha/personas/targets/persona-targets.module.code.ts"
+import {
+  recipientResolverConfigBanner,
+  resolveRecipientResolverConfig,
+} from "akasha/seat-system/recipient-resolving/recipient-resolver-config/recipient-resolver-config.module.code.ts"
+import { defaultRecipientResolverDeps } from "akasha/seat-system/recipient-resolving/recipient-resolver-deps/recipient-resolver-deps.module.code.ts"
+import { assembleRecipientResolverSpecs } from "akasha/seat-system/recipient-resolving/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"
+import { runRecipientResolverTick } from "akasha/seat-system/recipient-resolving/recipient-resolver-tick/recipient-resolver-tick.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,

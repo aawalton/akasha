@@ -46,7 +46,9 @@ export async function seatResume(argv: readonly string[], given: Given): Promise
   if (!("name" in named)) return named
   const carried = carriedIn(given.calledAs, [PROMPT, START_MODE], argv.slice(1))
   if (!("carried" in carried)) return carried
-  const { default: resuming } = await import("@akasha/seat-system/seat-resume")
+  const { default: resuming } = await import(
+    "akasha/seat-system/seat-resume/seat-resume.module.code.ts"
+  )
   return await ran(async () => {
     await resuming([TARGET, named.name, ...carried.carried])
   })

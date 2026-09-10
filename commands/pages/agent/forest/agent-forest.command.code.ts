@@ -3,14 +3,17 @@ import {
   type SubagentPage,
   seatPageAt,
   subagentPagesStanding,
-} from "@akasha/seat-system/agent-page-reading"
-import { type ForestRow, readSeatForest } from "@akasha/seat-system/seat-forest"
-import { colorOfState } from "@akasha/seat-system/seat-turn-color"
+} from "akasha/seat-system/agent-page-reading/agent-page-reading.module.code.ts"
+import {
+  type ForestRow,
+  readSeatForest,
+} from "akasha/seat-system/seat-forest/seat-forest.module.code.ts"
+import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 import {
   type SeatTurnReading,
   type SeatTurnState,
   seatTurnStateOf,
-} from "@akasha/seat-system/seat-turn-state"
+} from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import { readIn } from "./no-word-reading/no-word-reading.module.code.ts"

@@ -3,7 +3,7 @@ import { join } from "node:path"
 import { valuesOfType } from "@akasha/indexes"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, valueAt } from "@akasha/pages/page-value"
-import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
+import { supervisorsRootDir } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { SUBAGENT_MARK } from "../../commands/modules/reading/reading.module.code.ts"
 import {
   actingAgentPidsFromProc,

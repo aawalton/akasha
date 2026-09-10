@@ -1,4 +1,4 @@
-import { LOG } from "@akasha/seat-system/supervisor-config"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import { agentHolderProcess } from "../../seat-presence-read/seat-presence-read.module.code.ts"
 import {
   formatSeatProcKey,

@@ -6,8 +6,6 @@ import {
   renameSync,
   writeFileSync,
 } from "node:fs"
-import { planDisableReconcile } from "@akasha/seat-system/mcp-disable-reconcile"
-import { getMcpServerRegistry, playwrightStorageStatePath } from "@akasha/seat-system/mcp-registry"
 import { shape } from "@akasha/utils/narrow/shape"
 import {
   type AuthSession,
@@ -15,6 +13,11 @@ import {
   classifyPlaywrightStorageState,
   RefreshedTokensSchema,
 } from "akasha/browser/test-harness/storage-state-reading/storage-state-reading.module.code.ts"
+import { planDisableReconcile } from "akasha/seat-system/supervising/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
+import {
+  getMcpServerRegistry,
+  playwrightStorageStatePath,
+} from "akasha/seat-system/supervising/mcp-registry/mcp-registry.module.code.ts"
 import {
   computeMcpConfigContent,
   type McpServerConfig,

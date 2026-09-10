@@ -1,19 +1,26 @@
-import { arr, bool, maybe, num, obj, str } from "@akasha/seat-system/argument-narrowing"
+import {
+  arr,
+  bool,
+  maybe,
+  num,
+  obj,
+  str,
+} from "akasha/seat-system/argument-narrowing/argument-narrowing.module.code.ts"
 import {
   isIdleForPreservingRestart,
   isIdleForPreservingRestartPastCliff,
   isIgnoredMcpChildCmdline,
   preservingRestartBusyReason,
-} from "@akasha/seat-system/supervisor-idle-decide"
+} from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   decidePreCliffRestart,
   type PreCliffObservation,
-} from "@akasha/seat-system/supervisor-precliff-restart-decide"
+} from "akasha/seat-system/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
 import {
   decideProxyAdoption,
   type ProxyAdoptionInput,
-} from "@akasha/seat-system/supervisor-proxy-adoption-decide"
-import { decideProxyLiveness } from "@akasha/seat-system/supervisor-proxy-liveness-decide"
+} from "akasha/seat-system/supervisor-proxy-adoption-decide/supervisor-proxy-adoption-decide.module.code.ts"
+import { decideProxyLiveness } from "akasha/seat-system/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 import { fail } from "../../command-failing/command-failing.module.code.ts"
 import {
   computeReExecJitterMs,

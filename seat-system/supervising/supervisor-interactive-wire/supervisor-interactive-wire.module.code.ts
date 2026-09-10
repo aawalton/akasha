@@ -1,25 +1,28 @@
-import { buildAgentActionSubsystem } from "@akasha/seat-system/supervisor-agent-action"
+import { buildAgentActionSubsystem } from "akasha/seat-system/supervising/supervisor-agent-action/supervisor-agent-action.module.code.ts"
 import {
   clearRequestedAction,
   consumeThenProxySwap,
-} from "@akasha/seat-system/supervisor-agent-action-clear"
-import type { PendingAgentAction } from "@akasha/seat-system/supervisor-agent-action-types"
-import { liveChildExitRule } from "@akasha/seat-system/supervisor-child-exit-rule"
-import { wireSessionRotatedWatcher } from "@akasha/seat-system/supervisor-clear-rebind-wire"
-import { LOG } from "@akasha/seat-system/supervisor-config"
-import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-console"
-import { liveDeferredRestartRule } from "@akasha/seat-system/supervisor-deferred-restart-rule"
-import { startPreCliffRestartMonitor } from "@akasha/seat-system/supervisor-precliff-restart"
-import { askPreCliffRestart } from "@akasha/seat-system/supervisor-precliff-restart-rule"
-import type { ClearRebindHooks } from "@akasha/seat-system/supervisor-rebind"
-import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
-import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
+} from "akasha/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
+import type { PendingAgentAction } from "akasha/seat-system/supervising/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
+import { liveChildExitRule } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { wireSessionRotatedWatcher } from "akasha/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
+import { liveDeferredRestartRule } from "akasha/seat-system/supervising/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { startPreCliffRestartMonitor } from "akasha/seat-system/supervising/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
+import { askPreCliffRestart } from "akasha/seat-system/supervising/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
+import type { ClearRebindHooks } from "akasha/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts"
+import type { ClearRebindDeps } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import type { AgentIdHandle } from "akasha/seat-system/supervising/supervisor-self-identity/supervisor-self-identity.module.code.ts"
 import {
   isShuttingDown,
   setAgentActionHandler,
   setObservedChildExit,
-} from "@akasha/seat-system/supervisor-state"
-import type { AgentProcess, InheritedProc } from "@akasha/seat-system/supervisor-types"
+} from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import type {
+  AgentProcess,
+  InheritedProc,
+} from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 import { triggerProxySwap } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { liveIdleRule } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import type { InteractiveSessionBoot } from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"

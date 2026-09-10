@@ -1,6 +1,9 @@
-import { colorsOf } from "@akasha/seat-system/agent-turn-drawn"
-import { colorOfState } from "@akasha/seat-system/seat-turn-color"
-import { SEAT_TURN_STATES, type SeatTurnState } from "@akasha/seat-system/seat-turn-state"
+import { colorsOf } from "akasha/seat-system/agent-turn-drawn/agent-turn-drawn.module.code.ts"
+import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
+import {
+  SEAT_TURN_STATES,
+  type SeatTurnState,
+} from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
 

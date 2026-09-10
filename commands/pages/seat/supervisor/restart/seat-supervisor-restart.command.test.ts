@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { holderIn, nameOf } from "@akasha/seat-system/seat-reading"
+import { holderIn, nameOf } from "akasha/seat-system/seat-reading/seat-reading.module.code.ts"
 import type { Given } from "../../../../modules/calling/calling.module.code.ts"
 import { seatSupervisorRestart } from "./seat-supervisor-restart.command.code.ts"
 

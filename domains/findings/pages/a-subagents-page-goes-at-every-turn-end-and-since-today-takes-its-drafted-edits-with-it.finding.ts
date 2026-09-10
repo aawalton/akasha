@@ -5,7 +5,7 @@ export const aSubagentsPageGoesAtEveryTurnEndAndSinceTodayTakesItsDraftedEditsWi
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-subagents-page-goes-at-every-turn-end-and-since-today-takes-its-drafted-edits-with-it",
-  domain: "workspace-package/seat-system",
+  domain: "domain/seat-system",
   claim:
     "The `state-subagent` hook takes a subagent's page down at SubagentStop and reads nothing about whether that subagent has finished: `took` tests only that the page file is there, then lands a commit saying `<slug> is done`. Turn-end is not done — one lane cycled put-up and `is done` 29 times in 25 minutes. Since `3643bc5da5c` at 16:03 today the take-down goes through `remove-file-page`, which claims the `edits` and `refusals` sidecars `agent` declares uncommitted and removes them with the page. So a lane swept between turns now loses the edits it drafted and has not landed. That commit made the sidecars go on purpose, to close a leak; nothing in it judges whether the subagent is still alive, and `took` has never judged that. `akasha agent subagent sweep` refuses to remove a page it judges WORKING or UNDETERMINED; this road makes no such judgement.",
   evidence:

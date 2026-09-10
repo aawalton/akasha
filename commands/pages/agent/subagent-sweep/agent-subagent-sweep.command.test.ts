@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { pagesIn } from "@akasha/seat-system/subagent-census"
+import { pagesIn } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
 import { entry } from "../../../../seat-system/seat-proc-liveness/seat-proc-liveness.module.test-fixtures.ts"
 import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
 import {

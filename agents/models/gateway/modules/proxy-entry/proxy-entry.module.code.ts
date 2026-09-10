@@ -1,15 +1,18 @@
 import { join } from "node:path"
 import { ownRepoRoot } from "@akasha/pages/checkout-roots"
-import { logWriter } from "@akasha/seat-system/log-day-writing"
-import { seatNameForAgent } from "@akasha/seat-system/seat-presence-read"
-import { clearProxyState, writeProxyStateQuietly } from "@akasha/seat-system/seat-proxy-state"
+import { logWriter } from "akasha/seat-system/seat-log-days/log-day-writing/log-day-writing.module.code.ts"
+import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
+import {
+  clearProxyState,
+  writeProxyStateQuietly,
+} from "akasha/seat-system/seat-proxy-state/seat-proxy-state.module.code.ts"
 import {
   fileSink,
   LOG_MAX_BYTES,
   pageSink,
   redirectConsoleToSink,
-} from "@akasha/seat-system/supervisor-console"
-import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
+} from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
+import { supervisorSocketPath } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { type ProcessDoors, runGatewayProcess } from "../proxy-process/proxy-process.module.code.ts"
 import { SURFACE, startOAuthProxy } from "../proxy-serving/proxy-serving.module.code.ts"
 import { transportLogFlushed } from "../transport-log/transport-log.module.code.ts"

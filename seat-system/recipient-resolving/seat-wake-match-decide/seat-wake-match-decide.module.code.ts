@@ -1,4 +1,8 @@
-import { type CommsInput, type CommsRule, ruleMatches } from "@akasha/seat-system/seat-wake-rules"
+import {
+  type CommsInput,
+  type CommsRule,
+  ruleMatches,
+} from "akasha/seat-system/recipient-resolving/seat-wake-rules/seat-wake-rules.module.code.ts"
 
 export type WakeMatchDecision =
   | { readonly kind: "revive"; readonly reason: string }

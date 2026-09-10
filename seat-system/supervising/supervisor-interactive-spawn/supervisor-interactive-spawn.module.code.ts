@@ -7,24 +7,24 @@ import {
   resolveSubagentSpawnDepth,
   resolveToolTimeout,
   resolveWorkerModel,
-} from "@akasha/seat-system/supervisor-account-config"
-import type { spawnClaudeChild } from "@akasha/seat-system/supervisor-adopt"
-import { processCleanup } from "@akasha/seat-system/supervisor-agent-cleanup"
-import type { SeatResume } from "@akasha/seat-system/supervisor-args"
-import { materializeBootPrompt } from "@akasha/seat-system/supervisor-boot-prompt"
-import { stage } from "@akasha/seat-system/supervisor-boot-stage"
-import { LOG } from "@akasha/seat-system/supervisor-config"
-import { armForceExitTimer } from "@akasha/seat-system/supervisor-lifecycle"
-import { resolveMcpConfig } from "@akasha/seat-system/supervisor-mcp"
-import type { CarriedAgentName } from "@akasha/seat-system/supervisor-rebind-carry"
-import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
+} from "akasha/seat-system/supervising/supervisor-account-config/supervisor-account-config.module.code.ts"
+import type { spawnClaudeChild } from "akasha/seat-system/supervising/supervisor-adopt/supervisor-adopt.module.code.ts"
+import { processCleanup } from "akasha/seat-system/supervising/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
+import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
+import { materializeBootPrompt } from "akasha/seat-system/supervising/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
+import { stage } from "akasha/seat-system/supervising/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
+import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
+import { armForceExitTimer } from "akasha/seat-system/supervising/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
+import { resolveMcpConfig } from "akasha/seat-system/supervising/supervisor-mcp/supervisor-mcp.module.code.ts"
+import type { CarriedAgentName } from "akasha/seat-system/supervising/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
+import type { ClearRebindDeps } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import {
   disallowedToolsForLaunch,
   resolveSubagentDefinitions,
-} from "@akasha/seat-system/supervisor-spawn-agents"
-import { materializeSpawnSettings } from "@akasha/seat-system/supervisor-spawn-settings"
-import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
-import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
+} from "akasha/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.code.ts"
+import { materializeSpawnSettings } from "akasha/seat-system/supervising/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+import { setOAuthProxyHandle } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 import { buildInteractiveCLIArgs } from "../../claude-launch-args/claude-launch-args.module.code.ts"
 import { isPendingReExec } from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type {

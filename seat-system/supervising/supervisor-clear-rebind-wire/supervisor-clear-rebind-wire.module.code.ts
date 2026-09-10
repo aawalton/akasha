@@ -1,10 +1,13 @@
-import { claimSeatSupervision } from "@akasha/seat-system/seat-supervisor-claim"
-import { type ClearRebindHooks, performClearRebind } from "@akasha/seat-system/supervisor-rebind"
-import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
-import { watchSeatRotation } from "@akasha/seat-system/supervisor-rotation-watch"
-import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
-import { setRestoreConsoleHandle } from "@akasha/seat-system/supervisor-state"
-import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
+import { claimSeatSupervision } from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import {
+  type ClearRebindHooks,
+  performClearRebind,
+} from "akasha/seat-system/supervising/supervisor-rebind/supervisor-rebind.module.code.ts"
+import type { ClearRebindDeps } from "akasha/seat-system/supervising/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
+import { watchSeatRotation } from "akasha/seat-system/supervising/supervisor-rotation-watch/supervisor-rotation-watch.module.code.ts"
+import type { AgentIdHandle } from "akasha/seat-system/supervising/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import { setRestoreConsoleHandle } from "akasha/seat-system/supervising/supervisor-state/supervisor-state.module.code.ts"
+import type { AgentProcess } from "akasha/seat-system/supervising/supervisor-types/supervisor-types.module.code.ts"
 import { rotatedOf } from "../../seat-rotated-session/seat-rotated-session.module.code.ts"
 import {
   setCurrentAgentIdForSelfHeal,

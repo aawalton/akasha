@@ -1,9 +1,16 @@
-import { bool, maybe, num, obj, oneOf, str } from "@akasha/seat-system/argument-narrowing"
-import type { IdleObservation } from "@akasha/seat-system/supervisor-idle-decide"
+import {
+  bool,
+  maybe,
+  num,
+  obj,
+  oneOf,
+  str,
+} from "akasha/seat-system/argument-narrowing/argument-narrowing.module.code.ts"
+import type { IdleObservation } from "akasha/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   INITIAL_PROXY_LIVENESS_STATE,
   type ProxyLivenessState,
-} from "@akasha/seat-system/supervisor-proxy-liveness-decide"
+} from "akasha/seat-system/supervisor-proxy-liveness-decide/supervisor-proxy-liveness-decide.module.code.ts"
 import type {
   ChildExitClassification,
   ChildExitObservation,

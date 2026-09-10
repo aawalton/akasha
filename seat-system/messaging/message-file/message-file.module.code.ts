@@ -4,7 +4,10 @@ import { valuesOfType } from "@akasha/pages/index-reading"
 import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { textAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages/service/composing"
-import { landBodies, landRemovals } from "@akasha/seat-system/gated-landing"
+import {
+  landBodies,
+  landRemovals,
+} from "akasha/seat-system/gated-landing/gated-landing.module.code.ts"
 import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 const PAGE_TYPE = "message"

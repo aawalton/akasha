@@ -1,6 +1,6 @@
 import { writeFileSync } from "node:fs"
 import { isAbsolute, resolve } from "node:path"
-import { notices } from "@akasha/seat-system/compose-notices"
+import { notices } from "akasha/seat-system/compose-notices/compose-notices.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 

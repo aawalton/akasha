@@ -1,6 +1,6 @@
 import { join } from "node:path"
-import type { SubagentPage } from "@akasha/seat-system/agent-page-reading"
-import { colorOfState } from "@akasha/seat-system/seat-turn-color"
+import type { SubagentPage } from "akasha/seat-system/agent-page-reading/agent-page-reading.module.code.ts"
+import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
 import {
   type ForestSeat,
   forestOver,

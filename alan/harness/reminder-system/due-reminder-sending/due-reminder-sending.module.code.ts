@@ -1,5 +1,5 @@
 import { akashaRoot } from "@akasha/pages/checkout-roots"
-import { writeMessage } from "@akasha/seat-system/message-file"
+import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 import {
   armedAt,
   armFor,

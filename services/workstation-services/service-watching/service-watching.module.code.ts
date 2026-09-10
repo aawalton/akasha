@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { writeMessage } from "@akasha/seat-system/message-file"
 import { domainsDrawn } from "akasha/domains/modules/rows/domain-rows.module.code.ts"
+import { writeMessage } from "akasha/seat-system/messaging/message-file/message-file.module.code.ts"
 import {
   championing,
   deciding,

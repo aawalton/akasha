@@ -2,9 +2,12 @@ import { mkdirSync, readdirSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { indexValue } from "@akasha/indexes/value/page"
-import { akashaRoot, akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
-import { colorOfState } from "@akasha/seat-system/seat-turn-color"
-import { seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
+import {
+  akashaRoot,
+  akashaSeatsThatExist,
+} from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { colorOfState } from "akasha/seat-system/seat-turn-color/seat-turn-color.module.code.ts"
+import { seatTurnStateOf } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
 import {
   followFolders,
   followWithin,
