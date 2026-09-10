@@ -13,13 +13,13 @@ export const awenPageFoldersByIndex = {
       statement:
         "Code reaching the pages of a type asks the index for them rather than spelling their folder.",
       workingMemory:
-        "A page type has no one folder: `readout` pages sit under `readouts/pages`, `alan/attributes/readouts` and `temper/temper-progress/readouts`, so a folder literal finds thirteen of twenty. `everyOfType` answers by page type slug and finds all twenty. Fifteen files are converted, the fifteenth being `data-watching`. What is left spells a folder to write a page into, to watch a page arrive in, to ship as a directory, or to find what outlives a page, and the index answers none of those.\n",
+        "`valuesOfType` and `everyOfType` answer by page type slug from one index read. Six sites listed a page folder to read its pages. `monarch-files` and `monarch-merchant-naming` are converted and run true: 56 categories, 32 accounts, 2 tags, 3 holdings, 1 direction, 50 merchants, and every merchant names itself from its own pattern. Four are left, and each has a folder that is a runtime value rather than a literal. No site anywhere spells a folder to write a page into.\n",
     },
     {
       statement:
         "No page's code lists a folder off disk where the index answers the pages in that folder.",
       workingMemory:
-        "The check judges where a literal reaches rather than what it spells, over every page's code. It refuses six listings. Two seek sidecars the index does not carry. `subagent-handed` seeks edit files whose page is gone, which the index can never answer. `message-file` lists because the index names four messages a composed flat path cannot reach. The bootstrap in `checkout-roots` waits on Alan, needing the checkout before an index is readable.\n",
+        "`check-reaches-a-path-through-the-index` refuses zero listings and never refused six. Its audit counts run 37, 22, 8, 7, every one a `spells` refusal, which is nimue's intent on the same check page. Its two absences, plus an undeclared third where a literal handed to a parameter is not carried, hide all six real sites. Folding constants cannot reach a folder parameterised by person or discovered by a prior scan. The tell each site shares is the page-type suffix it filters names on.\n",
     },
   ],
 } as const satisfies Initiative
