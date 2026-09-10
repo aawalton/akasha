@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "4 refusals are left: the repo root, `ast-unused-configs/pages`, `seat-log-days/pages`, `subagents/pages`. The three `pages` folders fail one invariant — `pages-of-the-type-above` allows no file beside a page file, and each holds sidecars — and Alan's ruling on that is per-page folders. The two under `seat-system` have their flat paths composed by running code. `move-folder` cost 0.11 s a file until `facingIn` went lazy; 1841 files now draft in under 3 s.\n",
+        "3 refusals: the repo root, `seat-log-days/pages` and `subagents/pages`. Both `seat-system` folders are refused only for the flat pages left in them; a sidecar no page claims is not in the index, so no shape sees it. `log-day-writing` and `subagent-presence` compose `<slug>/<slug>` now and take up a page already flat, so each folder clears as its mortal pages age out. A subagent's writer is spawned per call and has the new path; a log day's writer runs in the supervisor and waits on a restart.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
