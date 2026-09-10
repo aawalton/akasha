@@ -14,12 +14,19 @@ export const tokenValues = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The surfaces are soot and charcoal and graphite and slate and ash, in that order.",
+      statement: "The surfaces run soot then charcoal then graphite then slate then ash.",
     },
     {
       invariantKind: "departure",
-      statement: "Primary is chalk, secondary is silver, and tertiary is stone.",
+      statement: "Primary is chalk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Secondary is silver.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Tertiary is stone.",
     },
     {
       invariantKind: "departure",
