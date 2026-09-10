@@ -6,8 +6,6 @@ export const testsPass = {
   type: "code-check",
   slug: "tests-pass",
   definition: "the check refusing a change whose tests do not pass",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,

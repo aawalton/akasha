@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { shadowAt } from "@akasha/pages/shadow"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { testsPass } from "./tests-pass.code-check.code.ts"
+import { testsPass } from "./tests-pass.code-check.check.code.ts"
 import {
   FAILS,
   PASSES,
