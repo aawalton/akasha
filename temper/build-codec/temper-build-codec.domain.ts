@@ -41,5 +41,9 @@ export const temperBuildCodec = {
       invariantKind: "departure",
       statement: "The writer and the reader of one update take the bits in the one order.",
     },
+    {
+      invariantKind: "upkeep",
+      statement: "Every update a character or companion codec reads is round-tripped by a test.",
+    },
   ],
 } as const satisfies Domain
