@@ -6,8 +6,6 @@ export const fileHasItsPage = {
   type: "code-check",
   slug: "file-has-its-page",
   definition: "the check refusing a file in the akasha folder that no page claims",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
