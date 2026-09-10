@@ -29,7 +29,7 @@ export const changePreparing = {
     {
       invariantKind: "departure",
       statement:
-        "The edits run as the caller asked, then the formatting, then what a generator wrote.",
+        "The edits run as the caller asked and then the formatting and then the bodies a generator wrote.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +89,7 @@ export const changePreparing = {
     {
       invariantKind: "departure",
       statement:
-        "The worked type, the address map and the spacing steps are worked out over one change.",
+        "The worked type and the address map and the spacing steps are worked out over one change.",
     },
     {
       invariantKind: "departure",
@@ -101,7 +101,11 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement: "A body spelling no text makes no row, and the caller is told which body.",
+      statement: "A body spelling no text makes no row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The caller is told which body.",
     },
     {
       invariantKind: "departure",
@@ -134,8 +138,11 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "That change is answered alongside the edits, so the gate is judged over that same change.",
+      statement: "That change is answered alongside the edits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The gate is judged over that same change.",
     },
     {
       invariantKind: "departure",
@@ -153,7 +160,7 @@ export const changePreparing = {
     {
       invariantKind: "departure",
       statement:
-        "Every road that lands is held to that refusal, including a change kind running no check.",
+        "Every road that lands is held to that refusal including a change kind running no check.",
     },
     {
       invariantKind: "absence",
