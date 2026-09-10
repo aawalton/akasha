@@ -1,5 +1,5 @@
 import type { Page } from "../../pages/page.page-type.types.ts"
-import type { AddonKind } from "./properties/addon-kind.text-property.ts"
+import type { AddonKind } from "./properties/addon-kind.select-property.ts"
 import type { AddonName } from "./properties/addon-name.text-property.ts"
 import type { Adjacents } from "./properties/adjacents.relation-property.types.ts"
 import type { EsoAddon } from "./properties/eso-addon.relation-property.types.ts"

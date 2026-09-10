@@ -1,16 +1,15 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { SelectProperty } from "../../../pages/select-properties/select-property.page-type.types.ts"
 
 export type AddonKind = "library" | "native" | "ported"
 
 export const addonKind = {
   id: "01a0819d-3406-7d80-bea3-6be9825ecdca",
-  pageTypeSlug: "text-property",
-  type: "text-property",
+  pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "addon-kind",
   propertySlug: "addon-kind",
   definition: "where an addon's source came from",
-  maxLength: 100,
-  nameFormat: "name-format/lower-kebab-case",
+  values: ["library", "native", "ported"],
   invariants: [
     {
       invariantKind: "departure",
@@ -25,4 +24,4 @@ export const addonKind = {
       statement: "A library addon is a framework other addons load.",
     },
   ],
-} as const satisfies TextProperty
+} as const satisfies SelectProperty
