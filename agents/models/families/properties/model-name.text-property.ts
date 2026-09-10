@@ -14,7 +14,7 @@ export const modelName = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The name is the model provider's own rather than one akasha coins.",
+      statement: "The name is the model provider's own rather than a name akasha coins.",
     },
     {
       invariantKind: "departure",
