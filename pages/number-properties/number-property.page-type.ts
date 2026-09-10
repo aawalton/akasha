@@ -3,7 +3,7 @@ import type { Max } from "../types/page-properties/properties/max.number-propert
 import type { PageType } from "../types/page-type.page-type.ts"
 
 export type NumberProperty = PageProperty & {
-  max: Max | null
+  max: Max
 }
 
 export const numberProperty = {

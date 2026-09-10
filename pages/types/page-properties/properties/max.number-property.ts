@@ -1,6 +1,6 @@
 import type { NumberProperty } from "../../../number-properties/number-property.page-type.ts"
 
-export type Max = number
+export type Max = number | null
 
 export const max = {
   id: "01a049b9-856c-7599-ab4a-e644848ad626",
