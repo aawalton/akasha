@@ -13,7 +13,7 @@ export const headscale = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The server reads its certificate once, as the server starts.",
+      statement: "The server reads its certificate once as the server starts.",
     },
     {
       invariantKind: "departure",
@@ -22,8 +22,11 @@ export const headscale = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The pod template carries the hash of the certificate secret, so a renewal rolls the pod.",
+      statement: "The pod template carries the hash of the certificate secret.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A renewal rolls the pod.",
     },
   ],
 } as const satisfies Manifest
