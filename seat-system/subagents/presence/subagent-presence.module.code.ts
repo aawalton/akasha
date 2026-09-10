@@ -65,7 +65,12 @@ export function agentIdOf(seatId: string, own: string): string {
 }
 
 export function pathOf(slug: string): string {
-  return `${SUBAGENTS_AT}/${slug}${SUFFIX}`
+  return `${SUBAGENTS_AT}/${slug}/${slug}${SUFFIX}`
+}
+
+export function pathIn(root: string, slug: string): string {
+  const flat = `${SUBAGENTS_AT}/${slug}${SUFFIX}`
+  return existsSync(join(root, flat)) ? flat : pathOf(slug)
 }
 
 export function logPathOf(seatId: string, baseDir?: string): string {
@@ -140,7 +145,7 @@ export async function wrote(
   landing: Landing = runMechanicalChange
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
-  const at = pathOf(slug)
+  const at = pathIn(root, slug)
   if (existsSync(join(root, at))) return WENT
   const agentId = agentIdOf(seatId, own)
   const had = subagentPageInHistory(root, at, agentId)
@@ -183,7 +188,7 @@ export async function took(
   landing: Landing = runMechanicalChange
 ): Promise<Went> {
   const slug = slugOf(seatName, own)
-  const at = pathOf(slug)
+  const at = pathIn(root, slug)
   if (!existsSync(join(root, at))) return WENT
   if (editsWaiting(root, at)) {
     mergeUncommitted(root, at, { [RETURNED]: true })

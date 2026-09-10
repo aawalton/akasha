@@ -24,6 +24,7 @@ import {
   LOG_AT,
   landingAgain,
   logPathOf,
+  pathIn,
   pathOf,
   pathsUnder,
   seatNamedIn,
@@ -99,8 +100,22 @@ test("an agent id keeps a mark a slug would collapse", () => {
   expect(slugOf("akasha", `first--second`)).toBe("akasha-first-second")
 })
 
-test("a page sits under the subagents folder named for its slug", () => {
-  expect(pathOf("akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc.subagent.ts")
+test("a page sits in a folder of its own named for its slug", () => {
+  expect(pathOf("akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc/akasha-abc.subagent.ts")
+})
+
+test("a slug whose page is already flat keeps that page", () => {
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("subagent-presence-")
+    writing(root, "seat-system/subagents/pages/akasha-abc.subagent.ts", "")
+    expect(pathIn(root, "akasha-abc")).toBe("seat-system/subagents/pages/akasha-abc.subagent.ts")
+    expect(pathIn(root, "akasha-xyz")).toBe(
+      "seat-system/subagents/pages/akasha-xyz/akasha-xyz.subagent.ts"
+    )
+  } finally {
+    world.sweep()
+  }
 })
 
 test("a log sits in the seat's own folder named for this module", () => {

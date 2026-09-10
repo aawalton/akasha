@@ -126,6 +126,15 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
+      statement: "A page sits in a folder of its own, named for the subagent, with its files.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "A subagent whose page is already flat keeps that page rather than taking a second.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page that is not there is taken away by doing nothing.",
     },
     {

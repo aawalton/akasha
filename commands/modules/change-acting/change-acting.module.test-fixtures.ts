@@ -3,8 +3,10 @@ import {
   appendEdits,
   editsIn,
 } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { handedPageOf } from "akasha/changes/modules/subagent-handed/subagent-handed.module.code.ts"
-import { handedFrom } from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
+import {
+  handedFrom,
+  pageOf,
+} from "akasha/changes/modules/subagent-handed/subagent-handed.module.test-fixtures.ts"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type { FileChange } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { mistaking } from "../asking/asking.module.code.ts"
@@ -94,7 +96,7 @@ export function keptIn(root: string): readonly string[] {
 }
 
 export function handedIn(root: string): readonly string[] {
-  return rowsIn(root, handedPageOf(SUB)).flatMap(pathsOf).sort()
+  return rowsIn(root, pageOf(SUB)).flatMap(pathsOf).sort()
 }
 
 export function handing(root: string, under: string, rows: readonly FileChange[]): undefined {

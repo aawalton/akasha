@@ -26,8 +26,17 @@ function handed(root: string, slug: string): undefined {
   handedFrom(root, slug, [ROW])
 }
 
-test("a subagent's page is under the subagents folder named for its slug", () => {
-  expect(handedPageOf("tester-abc")).toBe("seat-system/subagents/pages/tester-abc.subagent.ts")
+test("a subagent's page is the path the index files that subagent at", () => {
+  const root = rootFor()
+  handed(root, "tester-abc")
+
+  expect(handedPageOf(root, "tester-abc")).toBe(
+    "seat-system/subagents/pages/tester-abc/tester-abc.subagent.ts"
+  )
+})
+
+test("a subagent the index files no page for is at no page", () => {
+  expect(handedPageOf(rootFor(), "tester-abc")).toBe(null)
 })
 
 test("the edits a subagent left are the seat's once the subagent has returned", () => {

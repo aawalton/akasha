@@ -4,16 +4,15 @@ import { uncommittedIn } from "akasha/pages/uncommitted/page-uncommitted.module.
 import { subagentReturned } from "akasha/seat-system/subagents/properties/subagent-returned.boolean-property.ts"
 import { editsWaiting } from "../edits-keeping/edits-keeping.module.code.ts"
 
-const UNDER = "seat-system/subagents/pages"
-
-const SUFFIX = ".subagent.ts"
-
 const SUBAGENT = "subagent"
 
 const RETURNED = subagentReturned.propertySlug
 
-export function handedPageOf(under: string): string {
-  return `${UNDER}/${under}${SUFFIX}`
+export function handedPageOf(root: string, under: string): string | null {
+  for (const one of everyOfType(root, SUBAGENT)) {
+    if (slugIn(one.path) === under) return one.path
+  }
+  return null
 }
 
 function slugIn(page: string): string | null {

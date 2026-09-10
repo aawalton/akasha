@@ -188,16 +188,20 @@ export function waitingSaid(root: string, page: string): readonly string[] {
 }
 
 function heldFor(root: string, page: string, under: string): string | null {
-  return handedUnder(root, page).includes(under) ? handedPageOf(under) : null
+  return handedUnder(root, page).includes(under) ? handedPageOf(root, under) : null
+}
+
+function countedIn(root: string, under: string): number {
+  const at = handedPageOf(root, under)
+  if (at === null) return 0
+  const held = editsIn(root, at)
+  return "why" in held ? 0 : held.rows.length
 }
 
 function handedSaid(root: string, page: string): readonly string[] {
   const under = handedUnder(root, page)
   if (under.length === 0) return []
-  const said = under.map((one) => {
-    const held = editsIn(root, handedPageOf(one))
-    return `${one} handed ${String("why" in held ? 0 : held.rows.length)} edit(s) over`
-  })
+  const said = under.map((one) => `${one} handed ${String(countedIn(root, one))} edit(s) over`)
   return [...said, HANDED_LANDS]
 }
 

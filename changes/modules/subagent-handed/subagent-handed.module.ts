@@ -43,8 +43,13 @@ export const subagentHanded = {
       statement: "Nothing here reads an edit or writes one.",
     },
     {
-      invariantKind: "gap",
-      statement: "The folder a subagent's page sits in is spelled here as well as by the seats.",
+      invariantKind: "departure",
+      statement:
+        "The page a subagent sits at is read from the index rather than composed from a name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent the index files no page for is at no page.",
     },
   ],
 } as const satisfies Module
