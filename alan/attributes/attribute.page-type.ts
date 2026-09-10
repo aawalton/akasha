@@ -77,7 +77,7 @@ export const attribute = {
     },
     {
       invariantKind: "departure",
-      statement: "What earns an attribute its points is the code beside that attribute's page.",
+      statement: "The code beside an attribute's page earns that attribute its points.",
     },
     {
       invariantKind: "departure",
