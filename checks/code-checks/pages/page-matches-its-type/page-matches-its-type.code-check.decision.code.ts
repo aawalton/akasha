@@ -4,7 +4,7 @@ import { waitingProperties } from "akasha/pages/indexes/generated-properties/gen
 import { matchingIn } from "akasha/pages/name-formats/modules/format-reaching/format-reaching.module.code.ts"
 import type { Shadow } from "akasha/pages/shadow/shadow.module.code.ts"
 import type { Carried } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
-import { loadedFrom, textAt } from "akasha/pages/value/page-value.module.code.ts"
+import { loadedFrom, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import { bodyOf, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -26,23 +26,37 @@ export function unloadable(why: string | null): string {
   return `is named as a page and its body would not load, so what it carries could not be judged — ${why}`
 }
 
+function pagesHeldOver(shadow: Shadow): Shadow {
+  const held = new Map<string, Value | null>()
+  const pageAt = (pageTypeSlug: string, slug: string): Value | null => {
+    const at = `${pageTypeSlug}/${slug}`
+    const found = held.get(at)
+    if (found !== undefined) return found
+    const made = shadow.index.pageAt(pageTypeSlug, slug)
+    held.set(at, made)
+    return made
+  }
+  return { ...shadow, index: { ...shadow.index, pageAt } }
+}
+
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const pageTypes = shadow.index.pageTypesIn()
+  const over = pagesHeldOver(shadow)
+  const pageTypes = over.index.pageTypesIn()
   let generated: ReadonlySet<string> | null = null
   const generatedNow = (): ReadonlySet<string> => {
     if (generated !== null) return generated
-    generated = waitingProperties(shadow)
+    generated = waitingProperties(over)
     return generated
   }
   const held = new Map<string, readonly Carried[]>()
   const carriedBy = (pageTypeSlug: string): readonly Carried[] => {
     const found = held.get(pageTypeSlug)
     if (found !== undefined) return found
-    const said = shadow.index.propertiesIfNamed(pageTypeSlug) ?? []
+    const said = over.index.propertiesIfNamed(pageTypeSlug) ?? []
     held.set(pageTypeSlug, said)
     return said
   }
-  const formatting = matchingIn(change.root, shadow.index, shadow.codeAt)
+  const formatting = matchingIn(change.root, over.index, over.codeAt)
   const judged: Judged[] = []
   for (const path of change.changed) {
     if (!pageNamed(path, pageTypes)) continue
@@ -64,11 +78,11 @@ export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] 
     if (declared.length === 0) continue
     const named = `${PAGE_TYPE}/${pageTypeSlug}`
     const excused = change.before(path) !== null ? NOTHING : generatedNow()
-    for (const reason of reasonsIn(value, declared, shadow, named, formatting, excused)) {
+    for (const reason of reasonsIn(value, declared, over, named, formatting, excused)) {
       judged.push({ path, reason })
     }
     const beside = (at: string): string | null => textIn(change, at)
-    for (const reason of entryReasonsIn(value, declared, shadow, path, beside, formatting)) {
+    for (const reason of entryReasonsIn(value, declared, over, path, beside, formatting)) {
       judged.push({ path, reason })
     }
   }
