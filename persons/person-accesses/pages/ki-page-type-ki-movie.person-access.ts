@@ -1,4 +1,4 @@
-import type { PersonAccess } from "../person-access.page-type.ts"
+import type { PersonAccess } from "../person-access.page-type.types.ts"
 
 export const kiPageTypeKiMovie = {
   id: "01a05433-f104-769b-a1be-2612f5f674a0",

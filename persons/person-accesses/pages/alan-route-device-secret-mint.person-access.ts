@@ -1,4 +1,4 @@
-import type { PersonAccess } from "../person-access.page-type.ts"
+import type { PersonAccess } from "../person-access.page-type.types.ts"
 
 export const alanRouteDeviceSecretMint = {
   id: "01a05433-f102-7358-8728-dde431b63a93",

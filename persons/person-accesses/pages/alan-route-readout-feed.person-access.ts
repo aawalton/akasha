@@ -1,4 +1,4 @@
-import type { PersonAccess } from "../person-access.page-type.ts"
+import type { PersonAccess } from "../person-access.page-type.types.ts"
 
 export const alanRouteReadoutFeed = {
   id: "01a05433-f102-758b-be15-975c2ed57114",

@@ -1,4 +1,4 @@
-import type { PersonAccess } from "../person-access.page-type.ts"
+import type { PersonAccess } from "../person-access.page-type.types.ts"
 
 export const kiPageTypeKiShow = {
   id: "01a05433-f105-759f-a560-e569a07c586c",

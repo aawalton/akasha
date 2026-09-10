@@ -1,4 +1,4 @@
-import type { PersonAccess } from "../person-access.page-type.ts"
+import type { PersonAccess } from "../person-access.page-type.types.ts"
 
 export const alanPageTypeAll = {
   id: "01a05433-f101-7950-b30b-bf9ea60da403",

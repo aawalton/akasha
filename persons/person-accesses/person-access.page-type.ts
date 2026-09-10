@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { PersonAccessKind } from "./properties/person-access-kind.relation-property.ts"
-import type { PersonAccessPerson } from "./properties/person-access-person.relation-property.ts"
-import type { PersonAccessServes } from "./properties/person-access-serves.text-property.ts"
-import type { PersonAccessTarget } from "./properties/person-access-target.text-property.ts"
-
-export type PersonAccess = Page & {
-  person: PersonAccessPerson
-  accessKind: PersonAccessKind
-  target: PersonAccessTarget
-  serves?: PersonAccessServes
-}
 
 export const personAccess = {
   id: "01a0541e-d4d1-7bc6-9050-6d8cc130723f",
@@ -36,4 +24,5 @@ export const personAccess = {
     { pageProperty: "text-property/person-access-target", required: true, many: false },
     { pageProperty: "text-property/person-access-serves", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

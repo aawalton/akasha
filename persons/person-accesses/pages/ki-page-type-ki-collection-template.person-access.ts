@@ -1,4 +1,4 @@
-import type { PersonAccess } from "../person-access.page-type.ts"
+import type { PersonAccess } from "../person-access.page-type.types.ts"
 
 export const kiPageTypeKiCollectionTemplate = {
   id: "01a05433-f104-7af1-9306-c61c5767839a",
