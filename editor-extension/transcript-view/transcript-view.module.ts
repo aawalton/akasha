@@ -83,6 +83,11 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A watcher whose folder went is closed, and the next read watches that folder again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Closing a panel closes every watcher that panel registered.",
     },
     {

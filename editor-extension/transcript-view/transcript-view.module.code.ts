@@ -1,4 +1,4 @@
-import { type FSWatcher, watch } from "node:fs"
+import { existsSync, type FSWatcher, watch } from "node:fs"
 import { basename, dirname, join } from "node:path"
 import * as vscode from "vscode"
 import { newestWins } from "../newest-wins/newest-wins.module.code.ts"
@@ -84,8 +84,7 @@ export function openTranscriptPanel(
     return (await seatTranscriptOf(target.agentId))?.transcriptPath ?? null
   }
 
-  const watching = new Set<string>()
-  const watchers: FSWatcher[] = []
+  const watching = new Map<string, FSWatcher>()
 
   const rotationIn = (name: string | null): undefined => {
     const held = state.transcriptPath
@@ -111,8 +110,18 @@ export function openTranscriptPanel(
       return undefined
     }
     watcher.unref()
-    watching.add(folder)
-    watchers.push(watcher)
+    watching.set(folder, watcher)
+    return undefined
+  }
+
+  const dropGone = (): undefined => {
+    for (const [folder, watcher] of watching) {
+      if (existsSync(folder)) {
+        continue
+      }
+      watcher.close()
+      watching.delete(folder)
+    }
     return undefined
   }
 
@@ -134,6 +143,7 @@ export function openTranscriptPanel(
       void panel.webview.postMessage({ kind: "reset" })
     }
 
+    dropGone()
     watchFolder(dirname(transcriptPath), true)
     watchFolder(join(transcriptPath.replace(/\.jsonl$/, ""), "subagents"), false)
 
@@ -188,10 +198,9 @@ export function openTranscriptPanel(
   void tick()
   panel.onDidDispose(
     () => {
-      for (const watcher of watchers) {
+      for (const watcher of watching.values()) {
         watcher.close()
       }
-      watchers.length = 0
       watching.clear()
     },
     null,
