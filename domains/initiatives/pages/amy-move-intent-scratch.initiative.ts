@@ -9,9 +9,6 @@ export const amyMoveIntentScratch = {
   persona: "amy",
   intents: [
     {
-      statement: "This scratch intent is third.",
-    },
-    {
       statement: "This scratch intent is first.",
     },
     {
