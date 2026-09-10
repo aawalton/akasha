@@ -1,4 +1,5 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
+import { saveWorkstationSecret } from "akasha/infrastructure/secrets/workstation-secrets/workstation-secrets.module.code.ts"
 import { parseOauthCallbackUrl } from "../oauth-callback/oauth-callback.module.code.ts"
 
 const AUTH_URL = "https://accounts.google.com/o/oauth2/v2/auth"
@@ -29,7 +30,7 @@ function consentUrl(request: ConsentRequest, redirectUri: string): string {
   return `${AUTH_URL}?${query.toString()}`
 }
 
-async function refreshTokenLine(
+async function refreshTokenSaved(
   request: ConsentRequest,
   redirectUri: string,
   code: string
@@ -52,7 +53,8 @@ async function refreshTokenLine(
     throw new OperationalError(
       "token exchange succeeded but returned no refresh token — revoke the app's access and re-run with prompt=consent"
     )
-  return `export ${request.tokenVar}=${refreshToken}`
+  const at = saveWorkstationSecret(request.tokenVar, refreshToken)
+  return `${request.tokenVar} is written into ${at}, and every shell started from here reads it`
 }
 
 async function exchangeFromCallbackUrl(
@@ -60,7 +62,7 @@ async function exchangeFromCallbackUrl(
   rawUrl: string
 ): Promise<readonly string[]> {
   const { redirectUri, code } = parseOauthCallbackUrl(rawUrl)
-  return [await refreshTokenLine(request, redirectUri, code)]
+  return [await refreshTokenSaved(request, redirectUri, code)]
 }
 
 async function consentViaLoopback(request: ConsentRequest): Promise<readonly string[]> {
@@ -97,7 +99,7 @@ async function consentViaLoopback(request: ConsentRequest): Promise<readonly str
     )
 
     const code = await codePromise
-    return [await refreshTokenLine(request, redirectUri, code)]
+    return [await refreshTokenSaved(request, redirectUri, code)]
   } finally {
     server.stop()
   }

@@ -17,7 +17,7 @@ export const googleAuthLogin = {
   ],
   helpNotes: [
     "one consent covers the calendar, drive and mail scopes together, and one token comes of it.",
-    "the minted refresh token is written to stdout by the consent round trip rather than answered here.",
+    "the minted refresh token is written into `~/.secrets.env`, which every shell started from here reads.",
     "the token is read from `GOOGLE_OAUTH_REFRESH_TOKEN`, which stands ahead of the older token each product had.",
   ],
   invariants: [
@@ -30,8 +30,12 @@ export const googleAuthLogin = {
       statement: "One token is minted, and calendar, drive and mail all read that token.",
     },
     {
+      invariantKind: "departure",
+      statement: "The token minted is saved rather than left for whoever ran this to save.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here writes the token anywhere.",
+      statement: "The token's value reaches neither the report nor a log.",
     },
   ],
 } as const satisfies Command

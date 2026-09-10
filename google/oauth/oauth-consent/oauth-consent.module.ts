@@ -10,7 +10,15 @@ export const oauthConsent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A minted refresh token is answered as a shell export line and held nowhere.",
+      statement: "A minted refresh token is written into the workstation's secrets file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A minted refresh token is answered to no caller.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is answered is the name written and the file written into.",
     },
     {
       invariantKind: "departure",

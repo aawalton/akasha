@@ -7,6 +7,7 @@ export const secret = {
   slug: "secret",
   definition: "a value kept from everything that does not need it",
   pluralSlug: "secrets",
+  parts: ["module/workstation-secrets"],
   invariants: [
     {
       invariantKind: "departure",
@@ -34,12 +35,20 @@ export const secret = {
     },
     {
       invariantKind: "departure",
-      statement: "No decrypted secret is written to a file.",
+      statement: "No decrypted secret is written into the repository.",
     },
     {
       invariantKind: "departure",
       statement:
         "A secret on a workstation is read from `~/.secrets.env` rather than from the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A secret minted on a workstation is written into that same file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No command answers a secret's value, minted or read.",
     },
   ],
 } as const satisfies Domain

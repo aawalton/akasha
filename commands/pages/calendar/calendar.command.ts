@@ -80,7 +80,7 @@ export const calendar = {
     "an update changes the fields the call names and leaves every other field as it is.",
     "an rsvp writes the whole guest list back with Alan's response alone turned.",
     "an event an act answered with is reported as JSON.",
-    "the minted refresh token is written to stdout by the consent round trip rather than answered here.",
+    "the minted refresh token is written into `~/.secrets.env`, which every shell started from here reads.",
   ],
   invariants: [
     {
