@@ -63,7 +63,7 @@ export const running = {
     {
       invariantKind: "departure",
       statement:
-        "A process given no ceiling is answered the seconds it and the children it reaped spent.",
+        "A process given no ceiling is answered the seconds that process and its reaped children spent.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +80,8 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "A process the kernel reported no usage for is answered as having spent none.",
+      statement:
+        "A process the kernel reported no usage for is answered as having spent no seconds.",
     },
     {
       invariantKind: "departure",
@@ -100,7 +101,7 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "A ceiling bounds a process and everything that process starts, together.",
+      statement: "A ceiling bounds a process together with everything that process starts.",
     },
     {
       invariantKind: "departure",
@@ -108,11 +109,12 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "That group is made under the nearest ancestor group this one may write in.",
+      statement: "That group is made under the nearest ancestor group this run may write in.",
     },
     {
       invariantKind: "departure",
-      statement: "An ancestor group is written in only where processor time is delegated to it.",
+      statement:
+        "An ancestor group is written in only where processor time is delegated to that group.",
     },
     {
       invariantKind: "departure",
@@ -125,16 +127,19 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "The group is taken away once the run is over, whatever the run said.",
+      statement: "The group is taken away once the run is over whatever the run said.",
     },
     {
       invariantKind: "departure",
-      statement: "A ceiling raises no limit, so a run inside a run states a ceiling of its own.",
+      statement: "A ceiling raises no limit.",
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A machine delegating no processor time bounds no run, and that run is not refused.",
+      statement: "A machine delegating no processor time bounds no run.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A run on a machine delegating no processor time is not refused.",
     },
     {
       invariantKind: "gap",
@@ -142,7 +147,7 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "A ceiling therefore raises no limit, and a process inside one states its own.",
+      statement: "A run inside a run states a ceiling of its own.",
     },
     {
       invariantKind: "departure",
@@ -151,15 +156,15 @@ export const running = {
     {
       invariantKind: "departure",
       statement:
-        "A run is relayed only where a run made here is measured to cost more than a run should.",
+        "A run is relayed only where a run made here is measured to cost more seconds than a run should.",
     },
     {
       invariantKind: "departure",
-      statement: "The first run made here is the one measured.",
+      statement: "The first run made here is the run measured.",
     },
     {
       invariantKind: "departure",
-      statement: "A run under a ceiling is never the one measured.",
+      statement: "A run under a ceiling is never the run measured.",
     },
     {
       invariantKind: "departure",
@@ -168,11 +173,11 @@ export const running = {
     {
       invariantKind: "departure",
       statement:
-        "A relayed run goes to a server outliving the run but not the process that started it.",
+        "A relayed run goes to a server outliving the run but not the process that started the server.",
     },
     {
       invariantKind: "absence",
-      statement: "No process started here is meant to outlive the process that started it.",
+      statement: "No process started here is meant to outlive its starter.",
     },
   ],
 } as const satisfies Module
