@@ -28,7 +28,7 @@ export const measurePersonas = {
     },
     {
       invariantKind: "departure",
-      statement: "A line says a persona's name before her level, and her level before her total.",
+      statement: "A line says a persona's name before her level and her level before her total.",
     },
     {
       invariantKind: "departure",
