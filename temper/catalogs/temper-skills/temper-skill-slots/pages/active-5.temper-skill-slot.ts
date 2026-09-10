@@ -1,4 +1,4 @@
-import type { TemperSkillSlot } from "../temper-skill-slot.page-type.ts"
+import type { TemperSkillSlot } from "../temper-skill-slot.page-type.types.ts"
 
 export const active5 = {
   id: "019e3102-565c-78f9-b1fb-0158bbd177b6",

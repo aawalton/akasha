@@ -1,4 +1,4 @@
-import type { TemperSkillSlot } from "../temper-skill-slot.page-type.ts"
+import type { TemperSkillSlot } from "../temper-skill-slot.page-type.types.ts"
 
 export const ultimate = {
   id: "019e3102-565e-716c-83ef-2c3977d0fd73",
