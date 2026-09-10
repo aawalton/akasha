@@ -10,5 +10,5 @@ export const day20260911 = {
   version: "3.0",
   wisdomWords: 0,
   intelligenceTopics: 0,
-  lowestEmailInboxCount: 3,
+  lowestEmailInboxCount: 1,
 } as const satisfies Day
