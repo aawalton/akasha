@@ -83,6 +83,11 @@ export function pagesIn(root: string): readonly SubagentPage[] {
   return pages
 }
 
+function parseTakenPair(found: RegExpExecArray | null): string | null {
+  if (found === null) return null
+  return `${found[1] ?? ""} ${found[2] ?? ""}`
+}
+
 export function takenDownIn(baseDir: string = supervisorsRootDir()): ReadonlySet<string> {
   const held = new Set<string>()
   let names: readonly string[]
@@ -99,8 +104,8 @@ export function takenDownIn(baseDir: string = supervisorsRootDir()): ReadonlySet
       continue
     }
     for (const line of text.split("\n")) {
-      const read = TAKEN.exec(line)
-      if (read !== undefined && read !== null) held.add(`${read[1] ?? ""} ${read[2] ?? ""}`)
+      const taken = parseTakenPair(TAKEN.exec(line))
+      if (taken !== null) held.add(taken)
     }
   }
   return held
