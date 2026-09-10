@@ -13,7 +13,8 @@ export const clientReachesPagesThroughItsHooks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A browser file is one whose opening statements have the `use client` directive.",
+      statement:
+        "A browser file is a file whose opening statements have the `use client` directive.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +31,7 @@ export const clientReachesPagesThroughItsHooks = {
     {
       invariantKind: "departure",
       statement:
-        "A side whose manifest calls it nothing is reached only by a path into its folder.",
+        "A side whose manifest calls that side nothing is reached only by a path into its folder.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +43,8 @@ export const clientReachesPagesThroughItsHooks = {
     },
     {
       invariantKind: "departure",
-      statement: "That call is let through where a call to a hooks package value encloses it.",
+      statement:
+        "That call is let through where a call to a hooks package value encloses that call.",
     },
     {
       invariantKind: "departure",
@@ -54,11 +56,13 @@ export const clientReachesPagesThroughItsHooks = {
     },
     {
       invariantKind: "departure",
-      statement: "A subscription is refused though a hooks package call encloses it.",
+      statement:
+        "A subscription is refused though a hooks package call encloses that subscription.",
     },
     {
       invariantKind: "departure",
-      statement: "The hooks package and the store package beside it are not judged by this rule.",
+      statement:
+        "The hooks package and the store package beside the hooks package are not judged by this rule.",
     },
     {
       invariantKind: "departure",
