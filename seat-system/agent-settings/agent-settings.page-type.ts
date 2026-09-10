@@ -51,10 +51,6 @@ export const agentSettings = {
       statement:
         "Which command launched a seat does not change the path writing that configuration.",
     },
-    {
-      invariantKind: "gap",
-      statement: "Nothing inside akasha reads these documents yet.",
-    },
   ],
   types: "ts",
 } as const satisfies PageType
