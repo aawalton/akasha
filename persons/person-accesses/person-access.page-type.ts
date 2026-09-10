@@ -1,12 +1,12 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { PersonAccessKind } from "./properties/person-access-kind.relation-property.ts"
-import type { PersonSlug } from "./properties/person-access-person.relation-property.ts"
+import type { PersonAccessPerson } from "./properties/person-access-person.relation-property.ts"
 import type { Serves } from "./properties/person-access-serves.text-property.ts"
 import type { Target } from "./properties/person-access-target.text-property.ts"
 
 export type PersonAccess = Page & {
-  person: PersonSlug
+  person: PersonAccessPerson
   accessKind: PersonAccessKind
   target: Target
   serves?: Serves
