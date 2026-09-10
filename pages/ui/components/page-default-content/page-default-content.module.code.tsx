@@ -56,7 +56,6 @@ export function PageDefaultContent({
     handleTitleChange,
     handlePropertyChange,
     handlePageNavigate,
-    handleReorderProperties,
     handleCreateOption,
     propertyListDefs,
     richDocumentDefs,
@@ -111,7 +110,6 @@ export function PageDefaultContent({
                   pageTypeSlug={targetSlug ?? undefined}
                   onPropertyChange={handlePropertyChange}
                   onPageNavigate={handlePageNavigate}
-                  onReorderDefinitions={handleReorderProperties}
                   onCreateOption={handleCreateOption}
                 />
               </ToggleSection>

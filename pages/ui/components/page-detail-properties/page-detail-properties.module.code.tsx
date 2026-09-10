@@ -8,7 +8,6 @@ import type {
 } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import { useMemo } from "react"
-import { SortablePropertyList } from "../page-detail-sortable-list/page-detail-sortable-list.module.code.tsx"
 
 interface PageDetailPropertiesProps {
   definitions?: readonly PropertyDefinition[]
@@ -18,7 +17,6 @@ interface PageDetailPropertiesProps {
   onPropertyChange?: (propertyId: string, value: unknown) => void
   onPageNavigate?: (pageId: string) => void
   onCreateOption?: (propertyId: string, label: string) => void
-  onReorderDefinitions?: (orderedIds: readonly string[]) => void
 }
 
 export function PageDetailProperties({
@@ -29,7 +27,6 @@ export function PageDetailProperties({
   onPropertyChange,
   onPageNavigate,
   onCreateOption,
-  onReorderDefinitions,
 }: PageDetailPropertiesProps) {
   const bodyDefs = useMemo(() => {
     const reservedExclusions: readonly string[] = RESERVED_PROPERTY_IDS
@@ -57,37 +54,6 @@ export function PageDetailProperties({
         onPropertyChange={wrappedOnPropertyChange}
         onPageNavigate={onPageNavigate}
         onCreateOption={onCreateOption}
-      />
-    )
-  }
-
-  const PropertyRow = (def: PropertyDefinition) => (
-    <div
-      className={
-        def.type === "multi-relation"
-          ? "flex min-w-0 flex-1 items-start justify-between"
-          : "flex min-w-0 flex-1 items-center justify-between"
-      }
-    >
-      <span className="min-w-28 shrink-0 text-secondary text-sm">{def.title}</span>
-      <div
-        className={
-          def.type === "multi-relation"
-            ? "flex flex-col items-end gap-1"
-            : "flex flex-wrap justify-end gap-1"
-        }
-      >
-        {RenderBadge(def)}
-      </div>
-    </div>
-  )
-
-  if (onReorderDefinitions && data) {
-    return (
-      <SortablePropertyList
-        bodyDefs={bodyDefs}
-        onReorderDefinitions={onReorderDefinitions}
-        propertyRow={PropertyRow}
       />
     )
   }

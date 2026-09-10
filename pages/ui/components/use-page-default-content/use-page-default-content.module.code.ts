@@ -162,37 +162,6 @@ export function usePageDefaultContent({
     typeof pageType?.properties?.icon === "string" ? pageType.properties.icon : null
   const displayIconName = ownIconName ?? pageTypeIconName ?? null
 
-  const handleReorderProperties = useCallback(
-    (orderedIds: readonly string[]) => {
-      if (!pageType) return
-      const idSet = new Set(orderedIds)
-      const slots: number[] = []
-      for (const [i, def] of allDefinitions.entries()) {
-        if (idSet.has(def.id)) slots.push(i)
-      }
-      const orderedDefs = orderedIds
-        .map((oid) => allDefinitions.find((d) => d.id === oid))
-        .filter((d): d is PropertyDefinition => d != null)
-      const result = [...allDefinitions]
-      const pairCount = Math.min(slots.length, orderedDefs.length)
-      for (const [i, slot] of slots.slice(0, pairCount).entries()) {
-        const def = orderedDefs[i]
-        if (def === undefined) continue
-        result[slot] = def
-      }
-      void Promise.all(
-        result.map((def, i) => {
-          if (def.pageId == null) return null
-          return patchDefinition({
-            where: [{ key: "id", eq: def.pageId }],
-            set: { defaultOrder: i },
-          })
-        })
-      )
-    },
-    [pageType, allDefinitions, patchDefinition]
-  )
-
   const handleCreateOption = useCallback(
     (propertyId: string, label: string) => {
       if (targetSlug == null) return
@@ -254,7 +223,6 @@ export function usePageDefaultContent({
     handleTitleChange,
     handlePropertyChange,
     handlePageNavigate,
-    handleReorderProperties,
     handleCreateOption,
     propertyListDefs,
     richDocumentDefs,

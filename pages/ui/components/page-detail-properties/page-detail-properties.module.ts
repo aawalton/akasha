@@ -13,5 +13,6 @@ export const pageDetailProperties = {
       invariantKind: "departure",
       statement: "The order a page type declares its properties in is not read here.",
     },
+    { invariantKind: "absence", statement: "No row here is dragged into an order of its own." },
   ],
 } as const satisfies Module
