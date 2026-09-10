@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../../provisioned-file.page-type.types.ts"
 
 export const swapUsedLimit = {
   id: "01a06862-af5d-791d-ad26-0e28a693258e",

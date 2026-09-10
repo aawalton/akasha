@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../../provisioned-file.page-type.types.ts"
 
 export const btw5UdevRule = {
   id: "01a06862-af5d-7bcd-9d81-fbddcbe6dd2d",

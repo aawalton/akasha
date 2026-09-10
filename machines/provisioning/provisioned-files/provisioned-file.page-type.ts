@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Content } from "./properties/content.file-property.ts"
-import type { InstallPath } from "./properties/install-path.text-property.ts"
-import type { OnlyOn } from "./properties/only-on.select-property.ts"
-import type { PlacedBy } from "./properties/placed-by.select-property.ts"
-import type { ReloadWith } from "./properties/reload-with.text-property.ts"
-
-export type ProvisionedFile = Domain & {
-  content: Content
-  placedBy: PlacedBy
-  onlyOn: OnlyOn
-  installPath?: InstallPath
-  reloadWith?: ReloadWith
-}
 
 export const provisionedFile = {
   id: "01a06861-49aa-70de-9ba6-733c82989f81",
@@ -85,4 +71,5 @@ export const provisionedFile = {
       statement: "A page only says where a file goes.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../../provisioned-file.page-type.types.ts"
 
 export const reposEditorSettings = {
   id: "01a06862-af5d-708d-a19c-4050c0370e70",

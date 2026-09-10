@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../../provisioned-file.page-type.types.ts"
 
 export const workstationBrewfile = {
   id: "01a06862-af5d-7d71-b50b-b6dcf25bb24a",

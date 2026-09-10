@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../../provisioned-file.page-type.types.ts"
 
 export const tmuxConfig = {
   id: "01a06862-af5c-7088-9dca-24a266c87466",

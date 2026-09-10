@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../../provisioned-file.page-type.types.ts"
 
 export const gitConfig = {
   id: "01a06862-af5c-7957-b120-09572c2c7b4c",
