@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { nameFormatJudgesByOneShape } from "./name-format-judges-by-one-shape.code-check.code.ts"
+import { nameFormatJudgesByOneShape } from "./name-format-judges-by-one-shape.code-check.check.code.ts"
 import {
   AT,
   IMPORTING,
