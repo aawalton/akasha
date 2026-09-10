@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const columbine = {
   id: "019e21f7-3b0f-7979-8b5f-b4e6365d7863",

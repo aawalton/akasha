@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const dragonsBile = {
   id: "019e21f7-3b14-71cb-989c-b634ad936d67",

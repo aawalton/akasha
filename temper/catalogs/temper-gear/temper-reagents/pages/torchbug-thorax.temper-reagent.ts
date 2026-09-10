@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const torchbugThorax = {
   id: "019e21f7-3b25-7f75-9526-81ac31e17f01",

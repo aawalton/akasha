@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const stinkhorn = {
   id: "019e21f7-3b25-713e-bb1a-86b2b005caf4",

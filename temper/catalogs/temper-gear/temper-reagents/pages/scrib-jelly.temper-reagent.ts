@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const scribJelly = {
   id: "019e21f7-3b23-76fd-9ebe-76673440b3b9",

@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const spiderEgg = {
   id: "019e21f7-3b24-73f5-9872-99b465b90f46",

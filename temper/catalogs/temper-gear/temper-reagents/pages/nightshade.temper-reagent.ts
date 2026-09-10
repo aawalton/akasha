@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const nightshade = {
   id: "019e21f7-3b20-7fa2-9748-abb3c5b67fee",

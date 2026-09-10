@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const crimsonNirnroot = {
   id: "019e21f7-3b12-7958-836d-1cf8db4411cb",

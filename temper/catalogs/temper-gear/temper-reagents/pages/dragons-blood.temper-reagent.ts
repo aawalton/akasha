@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const dragonsBlood = {
   id: "019e21f7-3b15-7981-bc74-ec954096ea0c",

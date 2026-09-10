@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const mountainFlower = {
   id: "019e21f7-3b1e-73f9-ad0a-84d5d456442b",

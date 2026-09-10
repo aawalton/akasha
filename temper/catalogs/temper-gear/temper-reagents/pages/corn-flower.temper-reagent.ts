@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const cornFlower = {
   id: "019e21f7-3b11-7146-8395-93dcf667836c",

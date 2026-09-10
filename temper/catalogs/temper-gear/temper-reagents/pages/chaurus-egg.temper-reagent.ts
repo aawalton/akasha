@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const chaurusEgg = {
   id: "019e21f7-3b0c-7757-bdb2-01abe41fb21a",

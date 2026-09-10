@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const dragonRheum = {
   id: "019e21f7-3b16-7b50-8048-57cdd4919874",

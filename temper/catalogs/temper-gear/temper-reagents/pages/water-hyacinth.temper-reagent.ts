@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const waterHyacinth = {
   id: "019e21f7-3b28-76bb-9ffb-f5bf7132e5b8",

@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const blessedThistle = {
   id: "019e21f7-3b03-7823-9739-32504de7ebed",

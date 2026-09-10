@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const namirasRot = {
   id: "019e21f7-3b20-729b-ae00-34c60476efd2",

@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const wormwood = {
   id: "019e21f7-3b2a-714b-be75-0e5d4a48cf12",

@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-import type { AlchemyEffects } from "../properties/alchemy-effects.text-property.ts"
-
-export type TemperReagent = TemperCatalogThing & {
-  alchemyEffects: AlchemyEffects
-}
 
 export const temperReagent = {
   id: "01a05fd1-d440-7e50-9ee1-512f735a1900",
@@ -26,4 +20,5 @@ export const temperReagent = {
       maxCount: null,
     },
   ],
+  types: "ts",
 } as const satisfies PageType

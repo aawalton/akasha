@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const blueEntoloma = {
   id: "019e21f7-3b05-7e64-bbca-b537ab77410a",

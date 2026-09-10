@@ -1,4 +1,4 @@
-import type { TemperReagent } from "../temper-reagent.page-type.ts"
+import type { TemperReagent } from "../temper-reagent.page-type.types.ts"
 
 export const beetleScuttle = {
   id: "019e21f7-3b00-7bbc-965f-18425a744647",
