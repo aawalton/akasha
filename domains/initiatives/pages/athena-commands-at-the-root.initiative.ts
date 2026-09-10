@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const athenaCommandsAtTheRoot = {
   id: "01a06d11-9fb0-74b6-9028-01e427fb002d",

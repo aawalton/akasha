@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const dallaDraftIntoAPatch = {
   id: "01a05f32-3256-7b26-94ec-82af5035c9bb",

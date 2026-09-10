@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const emberRepairTemperTasks = {
   id: "01a06cac-aa56-7519-8281-5622fa42a987",

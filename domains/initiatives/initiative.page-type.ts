@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { PageDomain } from "../properties/page-domain.relation-property.ts"
-import type { Constraints } from "./properties/constraints.standard-agent-english-property.ts"
-import type { InitiativeParent } from "./properties/initiative-parent.relation-property.ts"
-import type { InitiativePersona } from "./properties/initiative-persona.relation-property.ts"
-import type { Intents } from "./properties/intents.record-property.ts"
-
-export type Initiative = Page & {
-  domain: PageDomain
-  persona: InitiativePersona
-  parent?: InitiativeParent
-  intents?: Intents
-  constraints?: Constraints
-}
 
 export const initiative = {
   id: "01a04e58-5735-72b4-b945-56366461c776",
@@ -89,4 +75,5 @@ export const initiative = {
       statement: "An initiative is read from this definition rather than from the old system's.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

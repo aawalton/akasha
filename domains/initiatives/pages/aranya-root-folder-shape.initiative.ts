@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const aranyaRootFolderShape = {
   id: "01a08257-6635-725b-b328-6665c66c0e46",

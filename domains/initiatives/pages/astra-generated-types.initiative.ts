@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const astraGeneratedTypes = {
   id: "01a0873d-ec5d-73ba-a85f-16911e976158",

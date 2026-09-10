@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const awenPageFoldersByIndex = {
   id: "01a0823b-74ce-744f-a860-1dc482cbd1c9",

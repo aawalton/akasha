@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const theaChecksSystem = {
   id: "01a04e69-e40a-7287-a2e2-2c49c76c0dee",

@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const amyHarnessImprovements = {
   id: "01a087b7-34b5-7bf9-bc45-4b2eb623b673",

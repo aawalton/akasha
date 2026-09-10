@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const aelwynStrengthTraining = {
   id: "01a07cf1-f428-7e0b-b26f-c7c657f361ba",

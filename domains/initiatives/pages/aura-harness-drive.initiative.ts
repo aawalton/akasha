@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const auraHarnessDrive = {
   id: "01a0675d-9d5f-79ba-aefb-404d5c9502eb",

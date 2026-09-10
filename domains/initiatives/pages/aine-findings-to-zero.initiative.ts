@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const aineFindingsToZero = {
   id: "01a0884c-4471-76ab-86aa-bb94691c846a",

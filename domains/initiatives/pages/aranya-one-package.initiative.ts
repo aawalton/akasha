@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const aranyaOnePackage = {
   id: "01a0876f-87da-77c3-9e65-8d261c7cbf2d",

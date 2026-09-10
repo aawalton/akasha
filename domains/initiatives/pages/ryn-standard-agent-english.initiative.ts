@@ -1,4 +1,4 @@
-import type { Initiative } from "../initiative.page-type.ts"
+import type { Initiative } from "../initiative.page-type.types.ts"
 
 export const rynStandardAgentEnglish = {
   id: "01a07c11-5ffa-730d-b999-14bed1d3267f",
