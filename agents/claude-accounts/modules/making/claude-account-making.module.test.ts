@@ -18,7 +18,7 @@ const UNREAD: Reading = {
   },
 }
 
-const UNCALLED: Landing = () => {
+const uncalled: Landing = () => {
   throw new Error("the landing was called")
 }
 
@@ -27,7 +27,7 @@ async function refusedFor(given: {
   readonly email: string
   readonly aliasIndex: number
 }): Promise<string> {
-  const made = await madeIn(ROOT, { ...given, id: ID }, UNCALLED, UNREAD)
+  const made = await madeIn(ROOT, { ...given, id: ID }, uncalled, UNREAD)
   expect(made.kind).toBe("refused")
   return made.kind === "refused" ? made.why : ""
 }
@@ -137,16 +137,16 @@ describe("madeIn", () => {
   })
 
   test("a refusal names the account it was asked about", async () => {
-    const made = await madeIn(ROOT, { slug: "c1", email: "nope", aliasIndex: 1 }, UNCALLED, UNREAD)
+    const made = await madeIn(ROOT, { slug: "c1", email: "nope", aliasIndex: 1 }, uncalled, UNREAD)
     expect(made.slug).toBe("c1")
   })
 
   test("nothing here throws", async () => {
     await expect(
-      madeIn(ROOT, { slug: "C1", email: "nope", aliasIndex: 0 }, UNCALLED, UNREAD)
+      madeIn(ROOT, { slug: "C1", email: "nope", aliasIndex: 0 }, uncalled, UNREAD)
     ).resolves.toBeDefined()
     await expect(
-      madeIn(ROOT, { slug: "c1", email: "a@b.co", aliasIndex: 1 }, UNCALLED, UNREAD)
+      madeIn(ROOT, { slug: "c1", email: "a@b.co", aliasIndex: 1 }, uncalled, UNREAD)
     ).resolves.toBeDefined()
   })
 })
