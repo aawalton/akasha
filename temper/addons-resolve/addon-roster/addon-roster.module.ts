@@ -13,11 +13,16 @@ export const addonRoster = {
     },
     {
       invariantKind: "departure",
-      statement: "An addon elsewhere is found by walking the workspaces the root manifest names.",
+      statement: "An addon elsewhere is found by asking the index for every `eso-addon` page.",
     },
     {
       invariantKind: "departure",
       statement: "A folder with no addon manifest of either spelling is no addon.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "Whether a folder is a package says nothing about whether that folder is an addon.",
     },
     {
       invariantKind: "departure",

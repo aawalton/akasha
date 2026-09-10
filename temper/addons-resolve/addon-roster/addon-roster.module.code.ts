@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
-import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
+import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { addonManifestSchema } from "../addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "../addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
@@ -12,6 +12,8 @@ import {
 const DEFAULT_REPO_ROOT = resolve(import.meta.dir, "..", "..", "..")
 
 export const ADDONS_REL_ROOT = "temper/addons"
+
+const ESO_ADDON = "eso-addon"
 
 export type AddonInfo = {
   readonly dir: string
@@ -45,7 +47,8 @@ function readAddonJson(dir: string): { name?: string } | null {
 
 export function listExternalAddonRelDirs(repoRoot: string): readonly string[] {
   const found: string[] = []
-  for (const rel of listWorkspaceDirs(repoRoot)) {
+  for (const one of valuesOfType(repoRoot, ESO_ADDON)) {
+    const rel = dirname(one.path)
     if (rel === ADDONS_REL_ROOT || rel.startsWith(`${ADDONS_REL_ROOT}/`)) continue
     if (readAddonJson(join(repoRoot, rel)) === null) continue
     found.push(rel)

@@ -19,11 +19,11 @@ export const temperAddonsResolve = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An addon is a workspace package with an addon manifest.",
+      statement: "An addon is a folder with an `eso-addon` page and an addon manifest.",
     },
     {
       invariantKind: "departure",
-      statement: "An addon is found by walking the workspaces the root manifest declares.",
+      statement: "An addon is found by asking the index for every `eso-addon` page.",
     },
     {
       invariantKind: "departure",
