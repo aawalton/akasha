@@ -11,7 +11,8 @@ export const repoSeeding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seeded repository holds a commit, a check, the warrants and an agent's record.",
+      statement:
+        "A seeded repository holds a commit and a check and the warrants and an agent's record.",
     },
     {
       invariantKind: "departure",
@@ -27,11 +28,15 @@ export const repoSeeding = {
     },
     {
       invariantKind: "departure",
-      statement: "A body seeded is recorded as read, so a change writing over it is warranted.",
+      statement: "A body seeded is recorded as read.",
     },
     {
       invariantKind: "departure",
-      statement: "A write goes up the road a command takes, from the arguments to the commit.",
+      statement: "A change writing over a seeded body is warranted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write goes up the road a command takes from the arguments to the commit.",
     },
     {
       invariantKind: "absence",
