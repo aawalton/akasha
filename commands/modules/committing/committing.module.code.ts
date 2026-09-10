@@ -263,7 +263,7 @@ export function committed(
     "-m",
     message,
   ]).trim()
-  indexOnto(root, put, modes)
   gitIn(root, ["update-ref", refOf(root), made, head])
+  indexOnto(root, put, modes)
   return made
 }

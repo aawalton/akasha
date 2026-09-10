@@ -52,7 +52,19 @@ export const committing = {
     },
     {
       invariantKind: "departure",
-      statement: "The git index is written before the branch moves.",
+      statement: "The git index is written after the branch moves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change the branch refuses leaves the git index as it was.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A throw after the branch moves leaves the git index behind the branch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index behind the branch is put right by the next change over those paths.",
     },
     {
       invariantKind: "departure",
