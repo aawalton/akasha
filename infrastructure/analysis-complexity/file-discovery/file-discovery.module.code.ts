@@ -1,5 +1,5 @@
-import { execFileSync } from "node:child_process"
 import { resolve } from "node:path"
+import { ran } from "akasha/utils/run/running/running.module.code.ts"
 
 const SCAN_SKIP_DIRS = new Set([
   "node_modules",
@@ -12,11 +12,9 @@ const SCAN_SKIP_DIRS = new Set([
 
 export function resolveRepoRoot(cwd: string): string | undefined {
   try {
-    const out = execFileSync("git", ["-C", cwd, "rev-parse", "--show-toplevel"], {
-      encoding: "utf-8",
-      stdio: ["ignore", "pipe", "ignore"],
-    })
-    const trimmed = out.trim()
+    const done = ran(["git", "-C", cwd, "rev-parse", "--show-toplevel"])
+    if (done.code !== 0) return undefined
+    const trimmed = done.out.trim()
     return trimmed.length > 0 ? trimmed : undefined
   } catch {
     return undefined
@@ -26,26 +24,21 @@ export function resolveRepoRoot(cwd: string): string | undefined {
 export function listWorkspaceTypeScriptFiles(repoRoot: string): readonly string[] {
   let raw: string
   try {
-    raw = execFileSync(
+    const done = ran([
       "git",
-      [
-        "-C",
-        repoRoot,
-        "ls-files",
-        "--cached",
-        "--others",
-        "--exclude-standard",
-        "-z",
-        "--",
-        "*.ts",
-        "*.tsx",
-      ],
-      {
-        encoding: "utf-8",
-        maxBuffer: 256 * 1024 * 1024,
-        stdio: ["ignore", "pipe", "ignore"],
-      }
-    )
+      "-C",
+      repoRoot,
+      "ls-files",
+      "--cached",
+      "--others",
+      "--exclude-standard",
+      "-z",
+      "--",
+      "*.ts",
+      "*.tsx",
+    ])
+    if (done.code !== 0) return []
+    raw = done.out
   } catch {
     return []
   }
