@@ -10,7 +10,7 @@ import {
 import { join } from "node:path"
 import { entriesAt } from "../entries/page-entries.module.code.ts"
 import type { Value } from "../value/page-value.module.code.ts"
-import { appendedAt, landedAt, openedAt } from "./page-entry-landing.module.code.ts"
+import { appendedAt, landedAt, openedAt, rolledInto } from "./page-entry-landing.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 
@@ -21,6 +21,10 @@ const PAGE = `${DIR}/held.model-test.ts`
 const FIRST = `${DIR}/held.model-test.cases.jsonl`
 
 const SECOND = `${DIR}/held.model-test.cases.part2.jsonl`
+
+const FIRST_OUTSIDE = `${DIR}/held.model-test.cases.uncommitted.jsonl`
+
+const SECOND_OUTSIDE = `${DIR}/held.model-test.cases.part2.uncommitted.jsonl`
 
 const SLUG = "cases"
 
@@ -167,6 +171,28 @@ test("no id is minted and no value is judged against a shape", () => {
   landed(root, [odd], WIDE)
 
   expect(readBack(root)).toEqual([odd])
+})
+
+test("a property held uncommitted opens and rolls into files whose names say so", () => {
+  const root = rooted()
+  const opened = openedAt(root, PAGE, SLUG, HELD, true)
+  if ("refused" in opened) throw new Error(opened.refused)
+  const full = { ...opened.filling, filled: NARROW }
+  const rolled = rolledInto(PAGE, SLUG, HELD, full, NARROW, NARROW)
+
+  expect(opened.filling.path).toBe(FIRST_OUTSIDE)
+  expect("refused" in rolled ? rolled.refused : rolled.filling.path).toBe(SECOND_OUTSIDE)
+})
+
+test("a property the page type does not hold uncommitted is named as it always was", () => {
+  const root = rooted()
+  const opened = openedAt(root, PAGE, SLUG, HELD)
+  if ("refused" in opened) throw new Error(opened.refused)
+  const full = { ...opened.filling, filled: NARROW }
+  const rolled = rolledInto(PAGE, SLUG, HELD, full, NARROW, NARROW)
+
+  expect(opened.filling.path).toBe(FIRST)
+  expect("refused" in rolled ? rolled.refused : rolled.filling.path).toBe(SECOND)
 })
 
 test("nothing beside the page but that property's files is made", () => {
