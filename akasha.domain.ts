@@ -35,7 +35,6 @@ export const akasha = {
     "domain/id-minting",
     "domain/temper",
     "domain/story",
-    "domain/google",
     "domain/places",
     "domain/image-generation",
     "domain/infrastructure",

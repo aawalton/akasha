@@ -35,5 +35,6 @@ export const alan = {
     "page-type/value",
     "page-type/collection",
     "domain/all-about-alan",
+    "domain/google",
   ],
 } as const satisfies Domain
