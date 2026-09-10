@@ -31,7 +31,7 @@ import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 import { outsideRoot, writesOutside } from "../said-pathing/said-pathing.module.code.ts"
 
-export type FileEdit = {
+type Bodied = {
   readonly path: string
   readonly body: Uint8Array | null
 }
@@ -68,7 +68,7 @@ const NOTHING_OUTSIDE = "nothing landed — name every path against the reposito
 
 const BYTES = new TextEncoder()
 
-function bodiedOf(one: Adding | Replacing | Removing): FileEdit {
+function bodiedOf(one: Adding | Replacing | Removing): Bodied {
   if (one.kind === "remove") return { path: one.path, body: null }
   return {
     path: one.path,
@@ -77,12 +77,12 @@ function bodiedOf(one: Adding | Replacing | Removing): FileEdit {
 }
 
 type Split = {
-  readonly edits: readonly FileEdit[]
+  readonly edits: readonly Bodied[]
   readonly moves: readonly FileMove[]
 }
 
 function splitIn(changes: readonly FileChange[]): Split {
-  const edits: FileEdit[] = []
+  const edits: Bodied[] = []
   const moves: FileMove[] = []
   for (const one of changes) {
     if (one.kind === "move") moves.push({ from: one.pathFrom, to: one.pathTo })
@@ -142,7 +142,7 @@ async function judged(judging: Judging, change: Change): Promise<readonly Judged
 
 function wroteOnto(
   root: string,
-  changed: readonly FileEdit[]
+  changed: readonly Bodied[]
 ): {
   readonly wrote: readonly string[]
   readonly took: readonly string[]
@@ -168,9 +168,9 @@ function wroteOnto(
 }
 
 function bodiesOf(
-  putting: readonly FileEdit[],
+  putting: readonly Bodied[],
   moving: readonly FileMove[],
-  onto: readonly FileEdit[],
+  onto: readonly Bodied[],
   before: ReadonlyMap<string, Uint8Array | null>
 ): ReadonlyMap<string, Uint8Array> {
   const held = new Map<string, Uint8Array>()
@@ -185,10 +185,10 @@ function bodiesOf(
 
 function heldBack(
   root: string,
-  changed: readonly FileEdit[]
+  changed: readonly Bodied[]
 ): {
-  readonly committing: readonly FileEdit[]
-  readonly uncommitted: readonly FileEdit[]
+  readonly committing: readonly Bodied[]
+  readonly uncommitted: readonly Bodied[]
 } {
   const ignored = gitIgnoring(
     root,
@@ -224,7 +224,7 @@ function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>):
 
 function reindexed(
   root: string,
-  changed: readonly FileEdit[],
+  changed: readonly Bodied[],
   moves: readonly FileMove[],
   before: ReadonlyMap<string, Uint8Array | null>,
   keeping: Keeping
@@ -245,7 +245,7 @@ function reindexed(
   held.settle()
 }
 
-function unstaged(root: string, changed: readonly FileEdit[]): undefined {
+function unstaged(root: string, changed: readonly Bodied[]): undefined {
   whileIndexFrees(() =>
     gitIn(root, ["reset", "-q", "HEAD", "--", ...changed.map((one) => one.path)])
   )
@@ -253,7 +253,7 @@ function unstaged(root: string, changed: readonly FileEdit[]): undefined {
 
 function indexed(
   root: string,
-  changed: readonly FileEdit[],
+  changed: readonly Bodied[],
   moves: readonly FileMove[],
   before: ReadonlyMap<string, Uint8Array | null>,
   keeping: Keeping
