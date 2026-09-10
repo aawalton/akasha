@@ -7,6 +7,7 @@ import {
   fieldsFor,
   fieldsOf,
   formatOf,
+  groupedFor,
   offFormat,
   overLength,
   type Shaping,
@@ -105,8 +106,9 @@ export function reasonsIn(
       if (off !== null) said.push(off)
     }
     const fields = fieldsFor(page, shadow, slug)
-    if (fields.size === 0) continue
-    const shaping: Shaping = { fields, slug, pageFor, formatting }
+    const shaped = fields.size > 0 ? fields : groupedFor(one, held, shadow)
+    if (shaped.size === 0) continue
+    const shaping: Shaping = { fields: shaped, slug, pageFor, formatting }
     for (const entry of listed ? entriesAt(value, key) : [held]) {
       if (typeof entry !== "object" || entry === null) continue
       said.push(...fieldsOf(entry as Value, shaping, NOTHING))

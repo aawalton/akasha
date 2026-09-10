@@ -144,6 +144,10 @@ export const pageMatchesItsType = {
       statement: "Which properties a generator fills is read from the module owning that answer.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page stating a group has that group's members judged as the group declares.",
+    },
+    {
       invariantKind: "absence",
       statement: "A value's own sort is not judged here.",
     },

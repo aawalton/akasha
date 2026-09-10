@@ -21,6 +21,18 @@ export const entryReasons = {
     },
     {
       invariantKind: "departure",
+      statement: "The fields of a group are the members that group's page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A member the group holds in a file is no field of the group.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value that is no plain object has no field.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A numbered entry file beside the page is judged as the first file is judged.",
     },
     {

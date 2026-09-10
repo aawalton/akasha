@@ -64,6 +64,25 @@ export function fieldsFor(page: Value, shadow: Shadow, slug: string): ReadonlyMa
   return found
 }
 
+const NO_FIELDS: ReadonlyMap<string, Carried> = new Map()
+
+export function groupedFor(
+  one: Carried,
+  held: unknown,
+  shadow: Shadow
+): ReadonlyMap<string, Carried> {
+  if (typeof held !== "object" || held === null || Array.isArray(held)) return NO_FIELDS
+  const members = shadow.index.membersIfNamed(one.pageTypeSlug)
+  if (members === null) return NO_FIELDS
+  const filed = shadow.index.fileKeysAt()
+  const found = new Map<string, Carried>()
+  for (const each of members) {
+    if (filed.has(each.propertySlug)) continue
+    found.set(each.key, each)
+  }
+  return found
+}
+
 export function fieldsOf(
   entry: Value,
   shaping: Shaping,

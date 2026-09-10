@@ -317,6 +317,14 @@ export function propertiesIfNamedOf(
   return propertiesIfNamed(pageTypeSlug, sourceIn(given, pageOf))
 }
 
+export function membersIfNamedOf(
+  pageTypeSlug: string,
+  given: string | Reading,
+  pageOf: (path: string) => Value | null
+): readonly Carried[] | null {
+  return membersIfNamed(pageTypeSlug, sourceIn(given, pageOf))
+}
+
 function schemaAmong(schemas: ReadonlyMap<string, Schema>, said: string): Schema | null {
   const address = addressIn(said)
   if (address.kind === "qualified") {

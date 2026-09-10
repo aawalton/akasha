@@ -47,5 +47,9 @@ export const pageReasons = {
       invariantKind: "departure",
       statement: "A name format is asked for only where a property states one.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A value whose property declares no field is judged against that group's members.",
+    },
   ],
 } as const satisfies Module

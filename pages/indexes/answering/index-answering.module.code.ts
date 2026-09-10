@@ -3,6 +3,7 @@ import {
   type Carried,
   carriedIn,
   declarationsOf,
+  membersIfNamedOf,
   pageAt,
   propertiesIfNamedOf,
   propertiesOf,
@@ -93,6 +94,7 @@ export type Answering = {
   readonly manifestsBeside: (
     fileProperties: ReadonlyMap<string, string | null>
   ) => readonly string[]
+  readonly membersIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
   readonly namersOf: (id: string, indexName?: string) => readonly Named[]
   readonly pageAt: (pageTypeSlug: string, slug: string) => Value | null
   readonly pageByPath: (path: string) => Value | null
@@ -144,6 +146,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     listedWithin: (pageTypeSlug, scopePropertySlug, scopeValue, propertySlug, said) =>
       listedWithin(reading, pageTypeSlug, scopePropertySlug, scopeValue, propertySlug, said),
     manifestsBeside: (fileProperties) => manifestsBeside(reading, fileProperties),
+    membersIfNamed: (pageTypeSlug) => membersIfNamedOf(pageTypeSlug, reading, pageOf),
     namersOf: (id, indexName) => namersOf(reading, id, indexName),
     pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),
     pageByPath: (path) => pageOf(path),

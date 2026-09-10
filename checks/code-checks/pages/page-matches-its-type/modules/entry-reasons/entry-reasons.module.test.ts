@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { fieldsOf } from "./entry-reasons.module.code.ts"
 import {
   entriesJudged,
+  groupFieldsFor,
   ID_LESS,
   NO_ID,
   partsJudged,
@@ -15,6 +16,16 @@ test("an entry beside the page is judged against the fields its shape declares",
   expect(fieldsOf({ id: "one", nope: 1 }, shapingFor(), OWN)).toEqual([
     "states `cases nope`, which `cases` does not declare",
   ])
+})
+
+test("a group's fields are the members its page type declares, less those held in files", () => {
+  expect(groupFieldsFor({ maxCpuSeconds: 10 })).toEqual([
+    "maxCpuSeconds",
+    "maxMemoryMb",
+    "maxWallSeconds",
+  ])
+  expect(groupFieldsFor("ts")).toEqual([])
+  expect(groupFieldsFor([{ maxCpuSeconds: 10 }])).toEqual([])
 })
 
 test("the cases beside the restatement test are read and judged", () => {

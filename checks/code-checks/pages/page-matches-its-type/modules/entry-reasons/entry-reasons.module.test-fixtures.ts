@@ -5,7 +5,7 @@ import type { Carried } from "@akasha/pages/page-type-properties"
 import { valueAt } from "@akasha/pages/page-value"
 import { shadowAt } from "@akasha/pages/shadow"
 import { rootOf } from "../../../../../../commands/modules/rooting/rooting.module.code.ts"
-import { entryReasonsIn, type Shaping } from "./entry-reasons.module.code.ts"
+import { entryReasonsIn, groupedFor, type Shaping } from "./entry-reasons.module.code.ts"
 
 const ALLOWS: Formatting = () => (): boolean => true
 
@@ -30,6 +30,25 @@ const ANSWER: Carried = {
   maxLength: null,
   uncommitted: false,
   secret: false,
+}
+
+const GROUP: Carried = {
+  pagePropertySlug: "check",
+  pageTypeSlug: "module-property-group",
+  propertySlug: "check",
+  key: "check",
+  unique: null,
+  declaredBy: "code-check",
+  required: false,
+  many: false,
+  maxCount: null,
+  maxLength: null,
+  uncommitted: false,
+  secret: false,
+}
+
+export function groupFieldsFor(held: unknown): readonly string[] {
+  return [...groupedFor(GROUP, held, shadowAt(REPO)).keys()].sort()
 }
 
 export function shapingFor(): Shaping {
