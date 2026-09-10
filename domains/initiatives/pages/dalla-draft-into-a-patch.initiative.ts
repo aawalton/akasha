@@ -11,7 +11,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Nothing here calls a change a patch.",
       workingMemory:
-        "`runsOnPatch`, a required boolean on `code-check.page-type`, is stated by every `.code-check.ts` page; sixty-five files name it. Prose still says patch on eight lines of `applying.module.ts`, eight of `landing.module.ts`, three invariants on `change-guard.page-type`, one on `agent.page-type` and five of this initiative's constraints. Nothing under any of them is a patch: a change is edits until the apply replays them onto HEAD.\n",
+        "`patchRuns`, a required number on `model-check.page-type`, is the last key naming the phase, and `model-running` reads it into `onChange`. The act renaming a property slug refuses it, as `ModelCheck` is declared in the generated `model-check.page-type.types.ts` rather than in the page type's own file, where the act looks. Everything else says change.\n",
     },
     {
       statement: "A seat's logs and socket are uncommitted properties beside that seat's page.",
