@@ -1,4 +1,4 @@
-import type { TemperAccount } from "../../temper-account.page-type.ts"
+import type { TemperAccount } from "../../temper-account.page-type.types.ts"
 
 export const account1077116b0ac54cceAc936f3ac63569d9 = {
   id: "01a05fda-934f-7a7c-875c-fe6db43e52d5",
