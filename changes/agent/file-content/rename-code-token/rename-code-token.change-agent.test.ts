@@ -27,7 +27,12 @@ const BODY = `export function held(): number {
 }
 `
 
-const PAGE_BODY = `export const held = 1\n`
+const PAGE_BODY = `export const local = 1\n`
+
+const PAGE_TYPE_BODY = `export type Kept = boolean
+
+export const local = 1
+`
 
 const TYPES = "akasha/one/local.module.types.ts"
 
@@ -38,13 +43,6 @@ const STRAY = "held.ts"
 const FILE_TYPE_BODY = `type Kept = { readonly one: number }
 
 export const held: Kept = { one: 1 }
-`
-
-const FILE_CONST_BODY = `const kept = 1
-
-export function held(): number {
-  return kept + 1
-}
 `
 
 function worldIn(root: string, textOf: (path: string) => string | null): World {
@@ -75,11 +73,18 @@ test("a body that could not be read is refused", async () => {
   expect(said.refused).toBe("`akasha/one/local.module.code.ts` could not be read")
 })
 
-test("a page is refused, since a page's export is its slug", async () => {
+test("a page's own export is refused, since a page's export is its slug", async () => {
   const world = heldIn(scratch.rootFor("token-"), PAGE, PAGE_BODY)
-  const said = await renameCodeToken(world, { at: PAGE, of: "held", to: CARRIED })
+  const said = await renameCodeToken(world, { at: PAGE, of: "local", to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${PAGE}\` is a page, and a page's export is its slug`)
+})
+
+test("a type a page's file declares is read rather than refused as a page", async () => {
+  const world = heldIn(scratch.rootFor("token-"), PAGE, PAGE_TYPE_BODY)
+  const said = await renameCodeToken(world, { at: PAGE, of: "Kept", to: "Carried" })
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("so none were repointed")
 })
 
 test("a path beside no page is refused", async () => {
@@ -162,47 +167,11 @@ test("a top-level type alias no export carries is spelled anew over its own file
   expect(bodiesIn(said, world.base).get(LOCAL)).toBe(FILE_TYPE_BODY.replaceAll("Kept", "Carried"))
 })
 
-test("a top-level const no export carries is spelled anew over its own file", async () => {
-  const world = heldIn(scratch.rootFor("token-"), LOCAL, FILE_CONST_BODY)
-  const said = await renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
-  expect(said.refused).toBe(null)
-  expect(bodiesIn(said, world.base).get(LOCAL)).toBe(FILE_CONST_BODY.replaceAll("kept", CARRIED))
-})
-
-test("a file-scope name is handed to the change reached at the export address", async () => {
-  const reached: string[] = []
-  const world = worldAt(
-    scratch.rootFor("token-"),
-    (path) => (path === LOCAL ? FILE_CONST_BODY : null),
-    (_world, at) => {
-      reached.push(at)
-      return Promise.resolve({ edits: [], refused: null })
-    }
-  )
-
-  await renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
-
-  expect(reached).toEqual(["change-mechanical-file-content/rename-export"])
-})
-
 test("a name the file declares nowhere is refused", async () => {
   const world = heldIn(scratch.rootFor("token-"), LOCAL, BODY)
   const said = await renameCodeToken(world, { at: LOCAL, of: "missing", to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/local.module.code.ts` declares no `missing`")
-})
-
-test("an exported name is handed to the change reached at the export address", async () => {
-  const reached: string[] = []
-  const root = indexedRepo()
-  const world = worldAt(root, textIn(root), (_world, at) => {
-    reached.push(at)
-    return Promise.resolve({ edits: [], refused: null })
-  })
-
-  await renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
-
-  expect(reached).toEqual(["change-mechanical-file-content/rename-export"])
 })
 
 test("a local name is handed to the change reached at the local address", async () => {

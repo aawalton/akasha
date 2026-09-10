@@ -8,6 +8,7 @@ import {
   typed,
   typingOver,
 } from "@akasha/code/code-typing"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import { partedIn } from "@akasha/pages/page-file-name"
 import ts from "typescript"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
@@ -111,7 +112,7 @@ function pickedIn(
 function whyNot(given: RenameCodeTokenAsked): string | null {
   const said = partedIn(given.at)
   if (said === null) return `\`${given.at}\` sits beside no page`
-  if (said.sections.length === 0) {
+  if (said.sections.length === 0 && given.of === exportedAs(said.slug)) {
     return `\`${given.at}\` is a page, and a page's export is its slug`
   }
   if (!NAMED.test(given.of)) return `\`${given.of}\` is no name a body carries`

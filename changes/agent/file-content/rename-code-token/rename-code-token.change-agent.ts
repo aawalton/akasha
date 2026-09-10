@@ -10,4 +10,14 @@ export const renameCodeToken = {
   code: "ts",
   test: "ts",
   changeKind: "change-checked",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A page's own export is refused, since that name is the page's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type a page's file declares beside that export is renamed here.",
+    },
+  ],
 } as const satisfies ChangeAgent
