@@ -1,7 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
-
-export type AppRoutes = Domain & {}
 
 export const appRoutes = {
   id: "01a08bde-996d-7a1b-9c3e-1dba85f9060d",
@@ -25,4 +22,5 @@ export const appRoutes = {
       statement: "A router app names the page here as a part rather than naming each route.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
