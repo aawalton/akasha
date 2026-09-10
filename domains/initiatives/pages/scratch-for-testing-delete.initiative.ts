@@ -9,11 +9,6 @@ export const scratchForTestingDelete = {
   persona: "amy",
   intents: [
     {
-      statement: "Alan deletes this intent and the one below it remains.",
-      workingMemory:
-        "This initiative is scratch, made for Alan to try the Work Panel's new right click menu on. Deleting this intent should leave the second one and the initiative itself as they are.",
-    },
-    {
       statement: "Alan deletes this whole scratch initiative and its page goes.",
       workingMemory:
         "The second of two, here so that deleting the first shows a sibling remaining. Deleting the initiative takes the page and both intents at once, behind a modal the intent delete does not ask for.",
