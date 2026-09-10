@@ -89,6 +89,14 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "departure",
+      statement: "The intent an order moves is named by its statement rather than by its place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The place that intent leaves is read off the order held.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every hold is settled over the rows in the order the holds were made.",
     },
     {

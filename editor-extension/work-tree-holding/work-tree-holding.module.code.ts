@@ -74,11 +74,13 @@ function withoutOf(held: Holding | undefined): readonly string[] {
 export function heldMoved(
   held: Holding | undefined,
   labels: readonly string[] | null,
-  from: number,
+  statement: string,
   to: number
 ): Holding | null {
-  if (held?.kind === "nothing") return null
-  const moved = movedLabels(labels, from, to)
+  if (held?.kind === "nothing" || labels === null) return null
+  const from = labels.indexOf(statement)
+  if (from === -1) return null
+  const moved = movedLabels(labels, from + 1, to)
   if (moved === null) return null
   return { kind: "intents", labels: moved, without: withoutOf(held) }
 }

@@ -11,12 +11,14 @@ export const initiativeMoveIntent = {
   changeKind: "change-mechanical",
   taking: [
     { said: "<initiative>", takes: "the initiative whose intents are being ordered" },
-    { said: "<from>", takes: "the place the intent sits at now" },
+    { said: "<statement>", takes: "the statement the intent being moved states" },
     { said: "<to>", takes: "the place the intent is to sit at" },
   ],
   helpNotes: [
+    "an intent is named by its statement, which is the label the work tree draws it under.",
+    "the place the intent leaves is read off the page as the change lands rather than named here.",
     "a place is counted from one, as the work tree keys an intent.",
-    "the places count the intents the page states rather than the intents the panel drew.",
+    "the place counts the intents the page states rather than the intents the panel drew.",
     "the order the page states is the order the panel draws, so this run orders the panel.",
     "a run lands one commit and runs no check.",
     "an initiative is named by the slug it declares rather than by the name of its file.",
@@ -25,6 +27,14 @@ export const initiativeMoveIntent = {
     {
       invariantKind: "departure",
       statement: "An initiative is named by the slug the initiative declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent is named by the statement that intent states rather than by its place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The place the intent leaves is read off the page as the change lands.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +50,16 @@ export const initiativeMoveIntent = {
     },
     {
       invariantKind: "departure",
+      statement: "A statement of no text is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word that is no place counted from one is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A statement no intent of that initiative states is refused by the change rather than here.",
     },
     {
       invariantKind: "departure",

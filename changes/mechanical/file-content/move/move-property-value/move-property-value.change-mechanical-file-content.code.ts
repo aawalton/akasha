@@ -2,15 +2,18 @@ import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import { refusing, spliced, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/answer/change-answer.module.types.ts"
-import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
+import {
+  keyOf,
+  literalIn,
+  matchingIn,
+} from "../../../../modules/page-literal/page-literal.module.code.ts"
 import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 export type Given = {
   readonly at: string
   readonly key: string
-  readonly from: number
   readonly to: number
-}
+} & ({ readonly from: number } | { readonly where: string; readonly is: string })
 
 type Framed = {
   readonly lead: string
@@ -31,6 +34,23 @@ export function placesOf(count: number, from: number, to: number): readonly numb
 function placeSaid(key: string, count: number, place: number): string | null {
   if (Number.isInteger(place) && place >= 1 && place <= count) return null
   return `\`${key}\` holds ${count} values, and place ${place} is none of them`
+}
+
+type Sought = { readonly place: number } | { readonly refused: string }
+
+export function soughtIn(holding: ts.ArrayLiteralExpression, given: Given): Sought {
+  if ("from" in given) return { place: given.from }
+  const found = matchingIn(holding, given.where, given.is)
+  const at = found[0]
+  if (at === undefined) {
+    return { refused: `no record under \`${given.key}\` states that text under \`${given.where}\`` }
+  }
+  if (found.length > 1) {
+    return {
+      refused: `${found.length} records under \`${given.key}\` state that text under \`${given.where}\`, and one change works one`,
+    }
+  }
+  return { place: at + 1 }
 }
 
 function framedIn(
@@ -82,11 +102,13 @@ export function movedValue(path: string, text: string, given: Given): Said {
     return refusing(`\`${given.key}\` holds one value, so that value has nowhere to go`)
   }
   const count = holding.elements.length
-  const away = placeSaid(given.key, count, given.from)
+  const sought = soughtIn(holding, given)
+  if ("refused" in sought) return refusing(sought.refused)
+  const away = placeSaid(given.key, count, sought.place)
   if (away !== null) return refusing(away)
   const onto = placeSaid(given.key, count, given.to)
   if (onto !== null) return refusing(onto)
-  if (given.from === given.to) {
+  if (sought.place === given.to) {
     return refusing(`place ${given.to} of \`${given.key}\` is where that value sits already`)
   }
   const framed = framedIn(text, source, holding)
@@ -95,7 +117,7 @@ export function movedValue(path: string, text: string, given: Given): Said {
     spliced(path, text, {
       from: holding.getStart(source) + 1,
       to: holding.getEnd() - 1,
-      put: laidOut(framed, placesOf(count, given.from, given.to)),
+      put: laidOut(framed, placesOf(count, sought.place, given.to)),
     })
   )
 }

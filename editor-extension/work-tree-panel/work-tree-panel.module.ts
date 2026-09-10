@@ -129,7 +129,7 @@ export const workTreePanel = {
         "A row deleted while another deletion is settling names the intent that row is drawn as.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement:
         "A row dragged while a deletion is settling names the intent that row is drawn as.",
     },

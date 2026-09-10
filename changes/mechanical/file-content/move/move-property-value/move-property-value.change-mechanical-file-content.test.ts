@@ -128,6 +128,53 @@ test("a body exporting no object is refused", () => {
   expect(said.refused).toBe(`\`${AT}\` exports no object`)
 })
 
+function statedOn(where: string, is: string, to: number): Said {
+  return movedValue(AT, BODY, { at: AT, key: "invariants", where, is, to })
+}
+
+test("a record named by a field is carried to the place named", () => {
+  const said = statedOn("statement", "the third", 1)
+
+  expect(statementsIn(bodyOf(said, (path) => (path === AT ? BODY : null)))).toEqual([
+    "the third",
+    "the first",
+    "the second",
+  ])
+})
+
+test("a record named by a field is found in the body rather than counted outside it", () => {
+  const said = statedOn("statement", "the first", 3)
+
+  expect(statementsIn(bodyOf(said, (path) => (path === AT ? BODY : null)))).toEqual([
+    "the second",
+    "the third",
+    "the first",
+  ])
+})
+
+test("text no record states under that field is refused", () => {
+  const said = statedOn("statement", "the fourth", 1)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("no record under `invariants` states that text under `statement`")
+})
+
+test("text more than one record states under that field is refused", () => {
+  const said = statedOn("invariantKind", "gap", 1)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "2 records under `invariants` state that text under `invariantKind`, and one change works one"
+  )
+})
+
+test("a record named by a field already at the place named is refused", () => {
+  const said = statedOn("statement", "the first", 1)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("place 1 of `invariants` is where that value sits already")
+})
+
 test("the places are worked out with the value taken out first", () => {
   expect(placesOf(4, 1, 4)).toEqual([1, 2, 3, 0])
   expect(placesOf(4, 4, 1)).toEqual([3, 0, 1, 2])

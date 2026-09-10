@@ -21,7 +21,7 @@ export type Keyed = {
 
 export type Ordering = {
   readonly slug: string
-  readonly from: number
+  readonly statement: string
   readonly to: number
 }
 
@@ -40,11 +40,12 @@ export function orderingOf(
   onto: WorkTreeRow | undefined
 ): Ordering | null {
   if (dragged.length !== 1) return null
-  const one = keyedAs(dragged[0])
+  const row = dragged[0]
+  const one = keyedAs(row)
   const other = keyedAs(onto)
-  if (one === null || other === null) return null
+  if (row === undefined || one === null || other === null || row.label === "") return null
   if (one.slug !== other.slug || one.place === other.place) return null
-  return { slug: one.slug, from: one.place, to: other.place }
+  return { slug: one.slug, statement: row.label, to: other.place }
 }
 
 export type Handing = {
@@ -91,7 +92,7 @@ export function draggedIn(held: unknown): readonly WorkTreeRow[] {
 }
 
 export function failureSaid(order: Ordering, why: string): string {
-  return `${order.slug}: the intent at place ${order.from} did not move to place ${order.to}. ${why}`
+  return `${order.slug}: the intent \`${order.statement}\` did not move to place ${order.to}. ${why}`
 }
 
 export function handFailureSaid(handing: Handing, why: string): string {
@@ -129,7 +130,7 @@ export function createWorkDragging(
       const said = await call(
         MOVE_MODULE,
         MOVE_EXPORT,
-        [order.slug, String(order.from), String(order.to)],
+        [order.slug, order.statement, String(order.to)],
         { timeout: LANDING_TIMEOUT_MS }
       )
       say(`[drop] ${said.trim()}`)

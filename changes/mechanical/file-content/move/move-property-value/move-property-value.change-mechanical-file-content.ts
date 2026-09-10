@@ -38,6 +38,22 @@ export const movePropertyValue = {
     },
     {
       invariantKind: "departure",
+      statement: "The value moved is named by its place or by the text one of its fields states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value named by a field is found in the body this change is reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Text no record states under that field is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Text more than one record states under that field is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A key the page states nothing under is refused.",
     },
     {

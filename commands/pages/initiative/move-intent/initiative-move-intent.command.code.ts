@@ -8,11 +8,17 @@ const CARRIES = "change-mechanical-file-content/move-property-value"
 
 const INTENTS = "intents"
 
-const TAKES = "this takes three words: an initiative, the place moved from and the place moved to"
+const STATEMENT = "statement"
+
+const TAKES =
+  "this takes three words: an initiative, the statement the intent states and the place that intent is to sit at"
+
+const NO_STATEMENT =
+  "the statement said is empty, and an intent is named by the statement it states"
 
 export type Asked = {
   readonly slug: string
-  readonly from: number
+  readonly statement: string
   readonly to: number
 }
 
@@ -30,19 +36,18 @@ function noPlace(said: string): string {
 
 export function readIn(argv: readonly string[]): Read {
   const slug = argv[0]
-  const from = argv[1]
+  const statement = argv[1]
   const to = argv[2]
-  if (slug === undefined || from === undefined || to === undefined || argv.length !== 3) {
+  if (slug === undefined || statement === undefined || to === undefined || argv.length !== 3) {
     return { refused: [`${TAKES}, and ${argv.length} arrived`] }
   }
-  const away = placeOf(from)
   const onto = placeOf(to)
   const refusals = [
-    ...(away === null ? [noPlace(from)] : []),
+    ...(statement.trim() === "" ? [NO_STATEMENT] : []),
     ...(onto === null ? [noPlace(to)] : []),
   ]
-  if (away === null || onto === null) return { refused: refusals }
-  return { slug, from: away, to: onto }
+  if (statement.trim() === "" || onto === null) return { refused: refusals }
+  return { slug, statement, to: onto }
 }
 
 export function noInitiative(slug: string): string {
@@ -50,18 +55,23 @@ export function noInitiative(slug: string): string {
 }
 
 export function messageFor(asked: Asked): string {
-  return `move ${asked.slug} intent ${asked.from} to place ${asked.to}`
+  return `move the intent \`${asked.statement}\` of ${asked.slug} to place ${asked.to}`
 }
 
 export function saidFor(asked: Asked, commit: string | null): readonly string[] {
-  const moved = `${asked.slug}: the intent at place ${asked.from} is now at place ${asked.to}`
+  const moved = `${asked.slug}: the intent \`${asked.statement}\` is now at place ${asked.to}`
   return commit === null ? [moved] : [moved, commit]
 }
 
 async function carried(root: string, at: string, asked: Asked, given: Given): Promise<Answer> {
   const landed = await runMechanicalChange(
     root,
-    [{ at: CARRIES, given: { at, key: INTENTS, from: asked.from, to: asked.to } }],
+    [
+      {
+        at: CARRIES,
+        given: { at, key: INTENTS, where: STATEMENT, is: asked.statement, to: asked.to },
+      },
+    ],
     messageFor(asked),
     given.agentId,
     { writer: given.writer }

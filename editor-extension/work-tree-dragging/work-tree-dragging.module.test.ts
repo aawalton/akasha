@@ -54,7 +54,30 @@ test("a key carrying no place answers none", () => {
 })
 
 test("an intent dropped onto another intent of its initiative is a move", () => {
-  expect(orderingOf([FIRST], SECOND)).toEqual({ slug: "held", from: 1, to: 2 })
+  expect(orderingOf([FIRST], SECOND)).toEqual({ slug: "held", statement: "held#1", to: 2 })
+})
+
+test("a move names the intent by the statement its row is drawn under", () => {
+  expect(orderingOf([CARRIED], SECOND)).toEqual({
+    slug: "held",
+    statement: "A thing is so.",
+    to: 2,
+  })
+})
+
+test("a row drawn under no label is no move", () => {
+  expect(orderingOf([labelled("intent", "held#1", "")], SECOND)).toBe(null)
+})
+
+test("a drag made while a deletion is settling names the intent that row is drawn as", () => {
+  const shownFirst = labelled("intent", "held#1", "second")
+  const shownSecond = labelled("intent", "held#2", "third")
+
+  expect(orderingOf([shownSecond], shownFirst)).toEqual({
+    slug: "held",
+    statement: "third",
+    to: 1,
+  })
 })
 
 test("an intent dropped onto an intent of another initiative is no move", () => {
@@ -91,9 +114,9 @@ test("what the drag carried is read as rows only where it is a list", () => {
   expect(draggedIn("held#1")).toEqual([])
 })
 
-test("a move that failed is said with the initiative, both places and the reason", () => {
-  expect(failureSaid({ slug: "held", from: 1, to: 2 }, "it broke")).toBe(
-    "held: the intent at place 1 did not move to place 2. it broke"
+test("a move that failed is said with the initiative, the statement, the place and the reason", () => {
+  expect(failureSaid({ slug: "held", statement: "A thing is so.", to: 2 }, "it broke")).toBe(
+    "held: the intent `A thing is so.` did not move to place 2. it broke"
   )
 })
 
@@ -156,7 +179,7 @@ test("a drop over no row hands nothing", () => {
 test("a drop within one initiative is read as a move rather than a hand", () => {
   expect(droppedAs([CARRIED], SECOND)).toEqual({
     kind: "move",
-    order: { slug: "held", from: 1, to: 2 },
+    order: { slug: "held", statement: "A thing is so.", to: 2 },
   })
 })
 

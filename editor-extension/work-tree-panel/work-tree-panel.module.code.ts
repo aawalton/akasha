@@ -126,7 +126,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     const held = heldMoved(
       holding.get(order.slug),
       intentLabelsIn(drawn, order.slug),
-      order.from,
+      order.statement,
       order.to
     )
     if (held === null) return undefined
