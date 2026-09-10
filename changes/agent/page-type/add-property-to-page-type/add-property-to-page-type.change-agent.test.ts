@@ -20,12 +20,15 @@ const VALUE = "change-mechanical-file-content/add-property-value"
 
 const OUTSIDE_AT = "elsewhere/web-directory.build-folder-property.ts"
 
+const TYPES = "ts"
+
 type Reached = { readonly at: string; readonly given: Record<string, unknown> }
 
 type Holding = {
   readonly path?: string
   readonly listed?: boolean
   readonly owner?: boolean
+  readonly typed?: boolean
 }
 
 function catching(seen: Reached[]): Reaching {
@@ -43,7 +46,8 @@ function worldFor(seen: Reached[], holding: Holding = {}): World {
       listedAt: () => (holding.listed === false ? [] : [{ path, id: path }]),
       pageByPath: (one: string) => {
         if (one !== OWNER_AT) return null
-        return holding.owner === false ? null : { slug: "ios-app" }
+        if (holding.owner === false) return null
+        return holding.typed === true ? { slug: "ios-app", types: TYPES } : { slug: "ios-app" }
       },
     } as never,
     reaching: catching(seen),
@@ -109,6 +113,15 @@ test("the type a page type has is left to the generator that writes it", async (
   const seen: Reached[] = []
   await answering(seen)
   expect(seen.some((one) => one.at.endsWith("type-member"))).toBe(false)
+})
+
+test("a page type stating its type in a file of its own is no exception", async () => {
+  const seen: Reached[] = []
+
+  const said = await answering(seen, {}, { typed: true })
+
+  expect(said.refused).toBe(null)
+  expect(seen.map((one) => one.at)).toEqual([RECORD, VALUE])
 })
 
 test("a property sitting outside the page type's folder is declared the same way", async () => {

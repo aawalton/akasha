@@ -62,6 +62,10 @@ export const addPropertyToPageType = {
     },
     {
       invariantKind: "departure",
+      statement: "A page type stating its type in a file of its own is no exception.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A slug naming no page property is refused before any body is worked out.",
     },
     {
