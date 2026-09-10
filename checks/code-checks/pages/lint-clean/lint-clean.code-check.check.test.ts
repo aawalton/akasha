@@ -5,7 +5,7 @@ import type { Change } from "@akasha/pages/change"
 import { shadowAsked } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change, proposing } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { lintClean } from "./lint-clean.code-check.code.ts"
+import { lintClean } from "./lint-clean.code-check.check.code.ts"
 import {
   CLEAN,
   RULE,

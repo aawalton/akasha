@@ -6,8 +6,6 @@ export const lintClean = {
   type: "code-check",
   slug: "lint-clean",
   definition: "the check refusing a change the linter finds fault in",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
