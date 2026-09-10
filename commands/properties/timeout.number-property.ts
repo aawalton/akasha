@@ -1,6 +1,6 @@
 import type { NumberProperty } from "akasha/pages/number-properties/number-property.page-type.types.ts"
 
-export type Timeout = number
+export type Timeout = number | null
 
 export const timeout = {
   id: "01a0820f-feb2-79e4-8435-06a161f3c6ab",
@@ -14,6 +14,10 @@ export const timeout = {
     {
       invariantKind: "departure",
       statement: "A command stating no seconds here is allowed the seconds the wrapper names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command stating null here runs under no ceiling.",
     },
     {
       invariantKind: "departure",
