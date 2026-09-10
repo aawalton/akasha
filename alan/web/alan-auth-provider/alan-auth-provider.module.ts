@@ -11,7 +11,7 @@ export const alanAuthProvider = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A session ending clears the account every component below this one reads.",
+      statement: "A session ending clears the account every component below this provider reads.",
     },
     {
       invariantKind: "departure",

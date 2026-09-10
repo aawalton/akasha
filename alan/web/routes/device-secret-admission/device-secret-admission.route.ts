@@ -11,7 +11,7 @@ export const deviceSecretAdmission = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This is the one route a phone asks whether the secret it has is still good.",
+      statement: "A phone asks this route alone whether the secret that phone has is still good.",
     },
     {
       invariantKind: "departure",

@@ -22,7 +22,7 @@ export const pagesReady = {
     { invariantKind: "departure", statement: "A read answering no page is red rather than green." },
     {
       invariantKind: "departure",
-      statement: "An empty answer is the shape a broken read makes when it is not raising.",
+      statement: "An empty answer is the shape a broken read makes when the read is not raising.",
     },
     {
       invariantKind: "departure",

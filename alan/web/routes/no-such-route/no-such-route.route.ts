@@ -29,11 +29,12 @@ export const noSuchRoute = {
     },
     {
       invariantKind: "constraint",
-      statement: "The router ranks a route rather than taking it in the order the table names.",
+      statement:
+        "The router ranks a route rather than taking that route in the order the table names.",
     },
     {
       invariantKind: "departure",
-      statement: "This route beats the page catch-all and loses to every declared api route.",
+      statement: "This route beats the page catch-all route and loses to every declared api route.",
     },
     {
       invariantKind: "absence",

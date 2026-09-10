@@ -10,7 +10,7 @@ export const appLayoutLoading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The layout loads the nav items rather than the shell fetching them first.",
+      statement: "The layout loads the nav items rather than the shell fetching those items first.",
     },
     {
       invariantKind: "departure",

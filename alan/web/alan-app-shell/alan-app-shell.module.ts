@@ -18,7 +18,7 @@ export const alanAppShell = {
     },
     {
       invariantKind: "departure",
-      statement: "Signing out clears the session wherever the auth mode keeps it.",
+      statement: "Signing out clears the session wherever the auth mode keeps the session.",
     },
     {
       invariantKind: "departure",

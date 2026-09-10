@@ -11,7 +11,7 @@ export const deviceSecretContext = {
     {
       invariantKind: "departure",
       statement:
-        "A secret refused and a store that did not answer are two outcomes rather than one.",
+        "A secret refused and a store that did not answer are two outcomes rather than one outcome.",
     },
     {
       invariantKind: "departure",

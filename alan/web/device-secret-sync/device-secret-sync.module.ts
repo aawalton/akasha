@@ -17,7 +17,7 @@ export const deviceSecretSync = {
     {
       invariantKind: "constraint",
       statement:
-        "An item in the app's default domain satisfies the probe while the extension is refused it.",
+        "An item in the app's default domain satisfies the probe while the extension is refused that item.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +54,7 @@ export const deviceSecretSync = {
       invariantKind: "departure",
       statement: "A clear that fails stops the recovery and writes no mark.",
     },
-    { invariantKind: "constraint", statement: "The native store deletes before it adds." },
+    { invariantKind: "constraint", statement: "The native store deletes before the store adds." },
     {
       invariantKind: "departure",
       statement: "A secret the admission route refuses is let go of on the next launch.",
@@ -62,16 +62,16 @@ export const deviceSecretSync = {
     {
       invariantKind: "departure",
       statement:
-        "A secret the server no longer accepts looks the same as a good one from the keychain.",
+        "A secret the server no longer accepts looks the same as a good secret from the keychain.",
     },
     {
       invariantKind: "departure",
-      statement: "This is the only caller of the native keychain clear.",
+      statement: "This module is the only caller of the native keychain clear.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A null identity after a render that had one is the only edge the clear is reached on.",
+        "A null identity after a render that had an identity is the only edge the clear is reached on.",
     },
     {
       invariantKind: "constraint",
