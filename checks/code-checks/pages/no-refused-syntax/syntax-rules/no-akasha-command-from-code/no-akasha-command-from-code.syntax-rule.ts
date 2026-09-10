@@ -15,7 +15,11 @@ export const noAkashaCommandFromCode = {
     },
     {
       invariantKind: "absence",
-      statement: "No path a launching call names is read, so no folder is spelled here.",
+      statement: "No path a launching call names is read.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No folder is spelled here.",
     },
     {
       invariantKind: "departure",

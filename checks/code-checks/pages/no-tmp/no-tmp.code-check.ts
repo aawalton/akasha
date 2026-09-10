@@ -34,7 +34,11 @@ export const noTmp = {
     },
     {
       invariantKind: "departure",
-      statement: "A page says the same of its own paths, and what the page says is read first.",
+      statement: "A page says the same of its own paths.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whatever the page says is read first.",
     },
     {
       invariantKind: "departure",

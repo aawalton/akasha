@@ -19,7 +19,7 @@ export const noNeverSettlingThrow = {
     },
     {
       invariantKind: "departure",
-      statement: "An executor naming a parameter it never reads can never settle.",
+      statement: "An executor naming a parameter that executor never reads can never settle.",
     },
     {
       invariantKind: "departure",
