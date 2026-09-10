@@ -51,7 +51,7 @@ export const syncRunRecording = {
     },
     {
       invariantKind: "departure",
-      statement: "A run states the id that run keeps, because the landing this reaches mints none.",
+      statement: "A run states the id that run keeps.",
     },
   ],
 } as const satisfies Module
