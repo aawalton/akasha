@@ -9,7 +9,7 @@ import type { ErrorLastSeenAt } from "./properties/error-last-seen-at.instant-pr
 import type { ErrorMessage } from "./properties/error-message.text-property.ts"
 import type { ErrorReleaseSha } from "./properties/error-release-sha.text-property.ts"
 import type { ErrorUrl } from "./properties/error-url.text-property.ts"
-import type { UserAgent } from "./properties/error-user-agent.text-property.ts"
+import type { ErrorUserAgent } from "./properties/error-user-agent.text-property.ts"
 
 export type RuntimeError = Page & {
   fingerprint: ErrorFingerprint
@@ -17,7 +17,7 @@ export type RuntimeError = Page & {
   kind: ErrorKind
   message: ErrorMessage
   url?: ErrorUrl
-  userAgent: UserAgent
+  userAgent: ErrorUserAgent
   releaseSha?: ErrorReleaseSha
   firstSeenAt: ErrorFirstSeenAt
   lastSeenAt?: ErrorLastSeenAt

@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type UserAgent = string
+export type ErrorUserAgent = string
 
 export const errorUserAgent = {
   id: "01a05f3f-e3e0-7e41-90e7-af904c25308e",
