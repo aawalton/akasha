@@ -9,7 +9,8 @@ import { settlingOver } from "akasha/pages/indexes/settling/index-settling.modul
 import type { Filing, Reading } from "akasha/pages/indexes/shape/index-shape.module.code.ts"
 import type { Change } from "../change/change.module.code.ts"
 import { partedIn } from "../file-name/page-file-name.module.code.ts"
-import { type Value, valueAt, valueIn } from "../value/page-value.module.code.ts"
+import { valueAt, valueIn } from "../value/page-value.module.code.ts"
+import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 
 export type Shadow = {
   readonly index: Answering

@@ -3,8 +3,9 @@ import {
   dropUncommitted,
   mergeUncommitted,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
-import { numberAt, textsAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import { valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
+import { numberAt, textsAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { answering } from "../page-serving/page-serving.module.code.ts"
 import { writerFor } from "../page-writing/page-writing.module.code.ts"
 
