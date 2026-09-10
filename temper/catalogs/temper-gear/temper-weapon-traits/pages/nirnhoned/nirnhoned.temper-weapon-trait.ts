@@ -1,4 +1,4 @@
-import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.ts"
+import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.types.ts"
 
 export const nirnhoned = {
   id: "019e5b8b-e547-7d4a-8306-4568b26afcec",

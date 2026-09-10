@@ -1,4 +1,4 @@
-import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.ts"
+import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.types.ts"
 
 export const decisive = {
   id: "019e5b8b-e540-7c05-bac0-3b47430a460f",

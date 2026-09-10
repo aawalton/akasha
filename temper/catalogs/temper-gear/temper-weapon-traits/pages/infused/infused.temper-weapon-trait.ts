@@ -1,4 +1,4 @@
-import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.ts"
+import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.types.ts"
 
 export const infused = {
   id: "019e5b8b-e545-787d-9a0a-68e27557df53",

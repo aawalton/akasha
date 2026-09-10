@@ -1,4 +1,4 @@
-import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.ts"
+import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.types.ts"
 
 export const powered = {
   id: "019e5b8b-e549-7d10-841e-e3e8cfe05a8d",
