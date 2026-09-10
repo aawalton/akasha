@@ -33,6 +33,8 @@ const CODE = new Set([".ts", ".tsx"])
 
 const WORKED = "worked"
 
+const TYPES = "types"
+
 const HOLDS = "ts"
 
 const WORKED_NAME = "Worked"
@@ -116,9 +118,10 @@ async function carriedOver(held: Carried, moved: ReadonlyMap<string, string>): P
   return carried
 }
 
-function keyAt(world: World, at: string, was: string): string {
-  if (world.textOf(at)?.includes(`${PAGE_TYPE_KEY}: "${was}"`) === true) return PAGE_TYPE_KEY
-  return PAGE_TYPE_SLUG
+function keysAt(world: World, at: string, was: string): readonly string[] {
+  const text = world.textOf(at) ?? ""
+  const held = [PAGE_TYPE_KEY, PAGE_TYPE_SLUG].filter((key) => text.includes(`${key}: "${was}"`))
+  return held.length === 0 ? [PAGE_TYPE_SLUG] : held
 }
 
 async function pageAnew(
@@ -134,38 +137,42 @@ async function pageAnew(
   if (lands === undefined) return { refused: `\`${one.at}\` names no file the page type carries` }
   const held = await carriedOver({ answers, world }, moved)
   if ("refused" in held) return held
-  const key = keyAt(held.world, lands, was)
-  return await heldOver(held.world, held.answers, CHANGE_FILE_CONTENT, {
-    at: lands,
-    old: `${key}: "${was}"`,
-    new: `${key}: "${now}"`,
-  })
+  let carried: Carried = held
+  for (const key of keysAt(held.world, lands, was)) {
+    if ("refused" in carried) return carried
+    carried = await heldOver(carried.world, carried.answers, CHANGE_FILE_CONTENT, {
+      at: lands,
+      old: `${key}: "${was}"`,
+      new: `${key}: "${now}"`,
+    })
+  }
+  return carried
 }
 
-function workedIn(world: World, now: string): string | null {
+function besideIn(world: World, now: string, section: string): string | null {
   const listed = world.index.listedAt(PAGE_TYPE, now)
   const at = listed.length === 1 ? listed[0]?.path : undefined
   if (at === undefined) return null
-  const beside = besideAt(at, WORKED, HOLDS)
+  const beside = besideAt(at, section, HOLDS)
   if (beside === null || world.textOf(beside) === null) return null
   return beside
 }
 
-async function workedAnew(
+async function renamedAnew(
   world: World,
   answers: readonly Answer[],
-  was: string,
-  now: string
+  at: string | null,
+  of: string,
+  to: string
 ): Promise<Carried> {
-  const at = workedIn(world, now)
   if (at === null) return { answers, world }
   const reading = importingOf(world.index, new Map([[at, at]]))
   if ("unread" in reading) return { refused: reading.unread }
   return await heldOver(world, answers, RENAME_EXPORT, {
     at,
     over: [at, ...reading.importers],
-    of: `${WORKED_NAME}${typedAs(was)}`,
-    to: `${WORKED_NAME}${typedAs(now)}`,
+    of,
+    to,
   })
 }
 
@@ -199,7 +206,21 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     answers = carried.answers
     seen = carried.world
   }
-  const worked = await workedAnew(seen, answers, was, given.to)
+  const worked = await renamedAnew(
+    seen,
+    answers,
+    besideIn(seen, given.to, WORKED),
+    `${WORKED_NAME}${typedAs(was)}`,
+    `${WORKED_NAME}${typedAs(given.to)}`
+  )
   if ("refused" in worked) return refusing(worked.refused)
-  return gathered(worked.answers)
+  const named = await renamedAnew(
+    worked.world,
+    worked.answers,
+    besideIn(worked.world, given.to, TYPES),
+    typedAs(was),
+    typedAs(given.to)
+  )
+  if ("refused" in named) return refusing(named.refused)
+  return gathered(named.answers)
 }

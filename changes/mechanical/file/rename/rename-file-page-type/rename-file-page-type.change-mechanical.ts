@@ -77,6 +77,14 @@ export const renameFilePageType = {
       invariantKind: "departure",
       statement: "A body importing that worked type imports the type the new slug names.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A page naming its page type under both keys has both keys restated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body importing the type a page type's types file exports imports the new name.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical
