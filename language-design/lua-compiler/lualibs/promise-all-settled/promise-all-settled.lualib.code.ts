@@ -1,4 +1,4 @@
-import { __TS__Promise } from "./Promise"
+import { __TS__Promise } from "../promise/promise.lualib.code.ts"
 
 type Resolved<T> = T extends PromiseLike<infer U> ? U : T
 

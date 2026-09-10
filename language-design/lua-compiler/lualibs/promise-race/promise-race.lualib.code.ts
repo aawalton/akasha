@@ -1,4 +1,4 @@
-import { __TS__Promise } from "./Promise"
+import { __TS__Promise } from "../promise/promise.lualib.code.ts"
 
 export function __TS__PromiseRace<T>(
   this: void,

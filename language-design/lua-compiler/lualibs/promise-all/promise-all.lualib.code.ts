@@ -1,4 +1,4 @@
-import { __TS__Promise } from "./Promise"
+import { __TS__Promise } from "../promise/promise.lualib.code.ts"
 
 function asT<T>(this: void, value: T | PromiseLike<T>): T {
   return value as T
