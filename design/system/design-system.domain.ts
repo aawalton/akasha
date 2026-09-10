@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const designSystem = {
   id: "01a05c95-564a-7ba2-ab36-d818c559b389",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "design-system",
   definition: "the look every product wears and the gallery showing what it is made of",
-  manifest: "json",
+
   parts: [
     "module/borders",
     "module/brand-heart",
@@ -66,4 +66,4 @@ export const designSystem = {
       statement: "The space inside a component is written on the component.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

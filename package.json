@@ -36,7 +36,6 @@
     "@akasha/pages": "workspace:*",
     "@akasha/rules-engine": "workspace:*",
     "@akasha/indexes": "workspace:*",
-    "@akasha/design-system": "workspace:*",
     "react-dom": "^18 || ^19",
     "@akasha/cluster-manifests": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
@@ -89,7 +88,10 @@
     "@radix-ui/react-slider": "*",
     "@radix-ui/react-switch": "*",
     "@radix-ui/react-toggle": "*",
-    "@radix-ui/react-toggle-group": "*"
+    "@radix-ui/react-toggle-group": "*",
+    "@fontsource-variable/geist": "5.2.9",
+    "@fontsource-variable/geist-mono": "5.2.8",
+    "tailwindcss": "^4.0"
   },
   "peerDependencies": {
     "vscode": "^1.85.0"

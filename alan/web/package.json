@@ -40,7 +40,6 @@
     "./use-next-unread": "./use-next-unread/use-next-unread.module.code.ts"
   },
   "dependencies": {
-    "@akasha/design-system": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",

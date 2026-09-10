@@ -12,7 +12,7 @@ export const design = {
     "domain/design-layout",
     "domain/design-patterns",
     "domain/design-primitives",
-    "workspace-package/design-system",
+    "domain/design-system",
     "domain/design-tokens",
     "page-type/color",
   ],

@@ -15,7 +15,6 @@
     "test": "bun test"
   },
   "dependencies": {
-    "@akasha/design-system": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages": "workspace:*",
     "isbot": "^5.1.36",

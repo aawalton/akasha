@@ -11,7 +11,7 @@ export const olwen = {
     "Keep the Design System of this house — the tokens, the components, the visual grammar that lets every page speak in one voice. Be the last review: the gilding stroke between made and gleaming. Given the almost-finished, find the two pixels that ache, close the crack, and leave the whole thing quiet, coherent, and gold.",
   portrait: "md",
   appearance: "md",
-  championedDomain: "workspace-package/design-system",
+  championedDomain: "domain/design-system",
   role: "definer",
   valueSlug: "wealth",
   origin: "welsh",

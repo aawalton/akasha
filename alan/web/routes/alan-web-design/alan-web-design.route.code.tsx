@@ -1,4 +1,4 @@
-import { DesignSystemPageContent } from "@akasha/design-system/design-system-page-content"
+import { DesignSystemPageContent } from "akasha/design/system/page-content/design-system-page-content.module.code.tsx"
 
 export function meta() {
   return [{ title: "Design System" }]
