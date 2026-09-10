@@ -130,7 +130,7 @@ test("a file a lua runtime library's config names is compiled by that config rat
   const claimed = claimedIn(held, shadowAsked(held).index)
   const lua = "language-design/lua-compiler"
   expect(claimed(`${lua}/performance-global/performance-global.type-declaration.d.ts`)).toBe(true)
-  expect(claimed(`${lua}/lualib/src/whatever.ts`)).toBe(true)
+  expect(claimed(`${lua}/lualibs/whatever/whatever.lualib.code.ts`)).toBe(true)
   expect(claimed("checks/code-checks/pages/typecheck/typecheck.code-check.check.code.ts")).toBe(
     false
   )
