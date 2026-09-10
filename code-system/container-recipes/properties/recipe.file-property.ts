@@ -10,4 +10,5 @@ export const recipe = {
   propertySlug: "recipe",
   definition: "the steps an image is built by",
   fileName: "Containerfile",
+  generated: true,
 } as const satisfies FileProperty
