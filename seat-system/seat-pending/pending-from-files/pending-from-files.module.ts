@@ -36,7 +36,11 @@ export const pendingFromFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "That subagent has returned, so what waits beside it is work rather than a child.",
+      statement: "A subagent whose page names no seat has returned.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Work waiting beside a returned subagent is work rather than a child.",
     },
     {
       invariantKind: "departure",
