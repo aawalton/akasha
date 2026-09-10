@@ -1,4 +1,4 @@
-import { __TS__CountVarargs } from "./CountVarargs"
+import { __TS__CountVarargs } from "../count-varargs/count-varargs.lualib.code.ts"
 
 function as__TS__SparseArray<T>(items: T[]): __TS__SparseArray<T> {
   return items as __TS__SparseArray<T>

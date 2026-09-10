@@ -1,4 +1,4 @@
-import { __TS__Unpack } from "../../lualib/src/5.0/Unpack.ts"
+import { __TS__Unpack } from "../unpack/unpack.lualib.lua50-code.ts"
 
 export function __TS__SparseArraySpread<T>(
   this: void,

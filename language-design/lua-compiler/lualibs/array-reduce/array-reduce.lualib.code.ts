@@ -1,4 +1,4 @@
-import { __TS__CountVarargs } from "./CountVarargs"
+import { __TS__CountVarargs } from "../count-varargs/count-varargs.lualib.code.ts"
 
 export function __TS__ArrayReduce<TElement>(
   this: TElement[],

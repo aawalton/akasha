@@ -1,4 +1,4 @@
-import { __TS__CountVarargs } from "./CountVarargs"
+import { __TS__CountVarargs } from "../count-varargs/count-varargs.lualib.code.ts"
 
 type LuaTableView<T> = LuaTable<number, T | undefined>
 function LuaTableView<T>(arr: unknown): LuaTableView<T> {
