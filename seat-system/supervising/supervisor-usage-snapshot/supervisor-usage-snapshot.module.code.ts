@@ -5,7 +5,7 @@ import { accountStateIn } from "@akasha/agents/claude-account-reading"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 
-export function writePacingSnapshot(account: string, configDir: string): void {
+export function writePacingSnapshot(account: string, configDir: string): undefined {
   try {
     const root = rootFor(resolveRoots(), AKASHA)
     const state = accountStateIn(root, account)
