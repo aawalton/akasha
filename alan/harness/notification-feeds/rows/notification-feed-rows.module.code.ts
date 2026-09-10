@@ -10,6 +10,8 @@ const NOTIFICATIONS = "notifications"
 
 const HELD = "jsonl"
 
+const OUTSIDE_THE_COMMIT = true
+
 const NOTIFICATIONS_AT_ONCE = 50
 
 export interface NotifyInput {
@@ -45,7 +47,7 @@ function textIn(values: Readonly<Record<string, unknown>>, key: string): string 
 }
 
 function rowsFor(page: string): readonly Readonly<Record<string, unknown>>[] {
-  const read = entriesAt(akashaRoot(), page, NOTIFICATIONS, HELD)
+  const read = entriesAt(akashaRoot(), page, NOTIFICATIONS, HELD, OUTSIDE_THE_COMMIT)
   if ("refused" in read) throw new Error(`the feed at \`${page}\` went unread: ${read.refused}`)
   return read.entries as readonly Readonly<Record<string, unknown>>[]
 }
@@ -70,7 +72,7 @@ export async function writeNotification(
       `writeNotification: no notification feed names the person \`${personSlug}\`, so this push reaches nobody`
     )
   }
-  const made = queueAt(akashaRoot(), page, NOTIFICATIONS, HELD, ENTRY_CEILING)
+  const made = queueAt(akashaRoot(), page, NOTIFICATIONS, HELD, ENTRY_CEILING, OUTSIDE_THE_COMMIT)
   if ("refused" in made) return { ok: false, why: made.refused }
   made.queue.write({
     id,

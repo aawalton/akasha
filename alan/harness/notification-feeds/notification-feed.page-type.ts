@@ -21,7 +21,12 @@ export const notificationFeed = {
   ],
   properties: [
     { pageProperty: "relation-property/person", required: true, many: false },
-    { pageProperty: "page-property-entry/notifications", required: true, many: false },
+    {
+      pageProperty: "page-property-entry/notifications",
+      required: true,
+      many: false,
+      uncommitted: true,
+    },
   ],
   invariants: [
     {
