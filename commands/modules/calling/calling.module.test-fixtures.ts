@@ -21,9 +21,9 @@ export const COMMAND = "command"
 
 export const COMMAND_TYPE = "01a04bdd-596d-7b81-9204-1a882f474a5f"
 
-export const REPAIR_AT = "commands/pages/index/index.command.code.ts"
+export const REPAIR_AT = "commands/pages/index/refresh/index-refresh.command.code.ts"
 
-const BOOTSTRAP_AT = "commands/pages/index/index.command.ts"
+const BOOTSTRAP_AT = "commands/pages/index/refresh/index-refresh.command.ts"
 
 export const ANSWERS = `export function held(argv, given) {
   return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }
@@ -140,10 +140,10 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
 export function bootstrapped(root: string): undefined {
   const at = join(root, BOOTSTRAP_AT)
   mkdirSync(join(at, ".."), { recursive: true })
-  writeFileSync(at, 'export const index = { slug: "index" }\n')
+  writeFileSync(at, 'export const indexRefresh = { slug: "index-refresh" }\n')
   writeFileSync(
     join(root, REPAIR_AT),
-    "export function index(argv, given) {\n" +
+    "export function indexRefresh(argv, given) {\n" +
       '  return { report: [argv.join(" "), given.calledAs], refusals: [], code: 0 }\n' +
       "}\n"
   )

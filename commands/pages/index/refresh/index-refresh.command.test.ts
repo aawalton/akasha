@@ -14,22 +14,22 @@ import {
 import { id as idPage } from "akasha/pages/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/pages/properties/slug.text-property.ts"
 import { textProperty } from "akasha/pages/text-properties/text-property.page-type.ts"
-import { said as git } from "../../../git/running/git-running.module.code.ts"
-import type { Given } from "../../modules/calling/calling.module.code.ts"
-import { DATA, INPUT, OK, OPERATIONAL } from "../../modules/cli/cli.module.code.ts"
-import { scratchWorld } from "../../modules/scratching/scratching.module.code.ts"
-import { classed, index, readIn } from "./index.command.code.ts"
-import { index as indexCommand } from "./index.command.ts"
+import { said as git } from "../../../../git/running/git-running.module.code.ts"
+import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import { DATA, INPUT, OK, OPERATIONAL } from "../../../modules/cli/cli.module.code.ts"
+import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
+import { classed, indexRefresh, readIn } from "./index-refresh.command.code.ts"
+import { indexRefresh as indexCommand } from "./index-refresh.command.ts"
 
 const TREE = "."
 
-const CODE_AT = "commands/pages/index/index.command.code.ts"
+const CODE_AT = "commands/pages/index/refresh/index-refresh.command.code.ts"
 
-const PAGE_AT = "commands/pages/index/index.command.ts"
+const PAGE_AT = "commands/pages/index/refresh/index-refresh.command.ts"
 
 const LOCK_AT = ".git/akasha-landing.lock"
 
-const REAL = join(import.meta.dir, "index.command.code.ts")
+const REAL = join(import.meta.dir, "index-refresh.command.code.ts")
 
 const TYPE_ID = "01a04de1-2000-7000-8000-000000000001"
 
@@ -86,7 +86,7 @@ const PAGES: Readonly<Record<string, string>> = {
   "a.domain.ts": bodyOf({ id: A_ID, pageTypeSlug: "domain", slug: "a" }),
   "a.module.code.ts": 'import { held } from "./a.domain.ts"\nexport const one = held\n',
   [PAGE_AT]: bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "index-command" }),
-  [CODE_AT]: `export { index } from ${JSON.stringify(REAL)}\n`,
+  [CODE_AT]: `export { indexRefresh } from ${JSON.stringify(REAL)}\n`,
 }
 
 function repoAt(): string {
@@ -113,50 +113,44 @@ function seeded(root: string): undefined {
 }
 
 function givenAt(root: string): Given {
-  return { root, calledAs: "akasha index", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha index refresh", from: root, writer: null, agentId: null }
 }
 
 function said(answer: { readonly report: readonly string[] }): string {
   return answer.report.join("\n")
 }
 
-test("an act nobody named is refused with the acts there are", () => {
-  const held = readIn([])
-  expect("refused" in held).toBe(true)
-  expect("refused" in held ? held.refused[0] : "").toContain("refresh")
+test("the word the namespace already carries is no word this takes", () => {
+  const held = readIn(["refresh"])
+  expect("refused" in held ? held.refused[0] : "").toContain("`refresh` is no word this takes")
 })
 
-test("an act this does not carry is refused", () => {
+test("a word this takes none of is refused", () => {
   const held = readIn(["verify"])
-  expect("refused" in held ? held.refused[0] : "").toContain("`verify` is no act this carries")
+  expect("refused" in held ? held.refused[0] : "").toContain("`verify` is no word this takes")
 })
 
 test("a flag belonging to a command that writes is refused rather than ignored", () => {
   for (const one of ["--message", "--message-file", "--break-the-glass"]) {
-    const held = readIn([one, "held", "refresh"])
+    const held = readIn([one, "held"])
     expect("refused" in held ? held.refused[0] : "").toContain(one)
   }
 })
 
 test("a flag this does not take is refused", () => {
-  const held = readIn(["refresh", "--force"])
+  const held = readIn(["--force"])
   expect("refused" in held ? held.refused[0] : "").toContain("`--force` is no flag this takes")
 })
 
-test("a second act is refused rather than chosen between", () => {
-  const held = readIn(["refresh", "verify"])
-  expect("refused" in held ? held.refused[0] : "").toContain("one call names one act")
-})
-
-test("`refresh` is read, and the flags with it", () => {
-  expect(readIn(["refresh", "--dry-run"])).toEqual({ act: "refresh", dryRun: true })
-  expect(readIn(["refresh"])).toEqual({ act: "refresh", dryRun: false })
+test("the flags are read, and a call naming none is read too", () => {
+  expect(readIn(["--dry-run"])).toEqual({ dryRun: true })
+  expect(readIn([])).toEqual({ dryRun: false })
 })
 
 test("an index that is not there is built, and it is the index a clean rebuild builds", () => {
   const root = repoAt()
   const wanted = wantedFor(root)
-  const answer = index(["refresh"], givenAt(root))
+  const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(everythingFiled(root)).toEqual(wanted)
   expect(said(answer)).toContain(`${indexNamed()} was repaired in place`)
@@ -164,7 +158,7 @@ test("an index that is not there is built, and it is the index a clean rebuild b
 
 test("the commit the index was built over is named in the report", () => {
   const root = repoAt()
-  const answer = index(["refresh"], givenAt(root))
+  const answer = indexRefresh([], givenAt(root))
   expect(said(answer)).toContain(git(root, ["rev-parse", "HEAD"]).trim())
 })
 
@@ -175,7 +169,7 @@ test("a damaged index is put back to what a clean rebuild builds", () => {
   listedTakenFrom(root, "domain", "a")
   listedUnreadableFiled(root, "domain", "gone")
   importUnreadableFiled(root, "a.domain.ts")
-  const answer = index(["refresh"], givenAt(root))
+  const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(everythingFiled(root)).toEqual(wanted)
   expect(said(answer)).toContain("the index differed from what the pages say")
@@ -184,7 +178,7 @@ test("a damaged index is put back to what a clean rebuild builds", () => {
 test("an index already saying what the pages say is reported as differing in nothing", () => {
   const root = repoAt()
   seeded(root)
-  const answer = index(["refresh"], givenAt(root))
+  const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(said(answer)).toContain("nothing in the index differed from what the pages say")
 })
@@ -194,7 +188,7 @@ test("a worktree differing from HEAD is built over rather than refused", () => {
   seeded(root)
   const body = bodyOf({ id: WORKTREE_ID, pageTypeSlug: "domain", slug: "b" })
   writeFileSync(join(root, "b.domain.ts"), body)
-  const answer = index(["refresh"], givenAt(root))
+  const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(listedFiledIn(root, "domain", "b")).toBe(true)
 })
@@ -204,7 +198,7 @@ test("`--dry-run` puts nothing in place", () => {
   seeded(root)
   listedTakenFrom(root, "domain", "a")
   const was = everythingFiled(root)
-  const answer = index(["refresh", "--dry-run"], givenAt(root))
+  const answer = indexRefresh(["--dry-run"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(said(answer)).toContain("nothing was put in place — --dry-run")
   expect(said(answer)).toContain("the index differed from what the pages say")
@@ -213,7 +207,7 @@ test("`--dry-run` puts nothing in place", () => {
 
 test("a refresh leaves the landing lock behind it", () => {
   const root = repoAt()
-  expect(index(["refresh"], givenAt(root)).code).toBe(OK)
+  expect(indexRefresh([], givenAt(root)).code).toBe(OK)
   expect(existsSync(join(root, LOCK_AT))).toBe(false)
 })
 
@@ -221,13 +215,13 @@ test("a lock nothing alive holds is taken over rather than waited on", () => {
   const root = repoAt()
   mkdirSync(join(root, ".git"), { recursive: true })
   writeFileSync(join(root, LOCK_AT), "999999999 0")
-  expect(index(["refresh"], givenAt(root)).code).toBe(OK)
+  expect(indexRefresh([], givenAt(root)).code).toBe(OK)
 })
 
 test("a root holding no akasha domain page is refused, and the index remains as it is", () => {
   const root = scratch.rootFor("akasha-refresh-")
   git(root, ["init", "--quiet"])
-  const answer = index(["refresh"], givenAt(root))
+  const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(DATA)
   expect(answer.refusals[0]).toContain("akasha.domain.ts")
   expect(indexThere(root)).toBe(false)
@@ -236,22 +230,22 @@ test("a root holding no akasha domain page is refused, and the index remains as 
 test("a root git does not hold is refused as the command's trouble, not the caller's", () => {
   const root = scratch.rootFor("akasha-refresh-")
   writeFileSync(join(root, "akasha.domain.ts"), PAGES["akasha.domain.ts"] ?? "")
-  const answer = index(["refresh"], givenAt(root))
+  const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OPERATIONAL)
   expect(answer.refusals[0]).toContain("no commit could be read")
   expect(answer.refusals[answer.refusals.length - 1]).toContain("the index stands as it did")
 })
 
-test("a bad act is the caller's trouble", () => {
+test("a word this takes none of is the caller's trouble", () => {
   const root = repoAt()
-  expect(index(["verify"], givenAt(root)).code).toBe(INPUT)
+  expect(indexRefresh(["verify"], givenAt(root)).code).toBe(INPUT)
 })
 
 test("the files the index differed in are named rather than only counted", () => {
   const root = repoAt()
   seeded(root)
   listedUnreadableFiled(root, "domain", "gone")
-  const answer = index(["refresh", "--dry-run"], givenAt(root))
+  const answer = indexRefresh(["--dry-run"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(said(answer)).toContain("taken away — ")
   expect(said(answer)).toContain(".jsonl")
@@ -265,7 +259,7 @@ test("the report counts the indexes a difference falls under beside the files it
   const root = repoAt()
   seeded(root)
   listedUnreadableFiled(root, "domain", "gone")
-  const answer = index(["refresh", "--dry-run"], givenAt(root))
+  const answer = indexRefresh(["--dry-run"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(said(answer)).toMatch(/taken away — \S+ \d+ — /)
 })
@@ -275,14 +269,14 @@ test("a dry run names a path belonging to no index and leaves that path alone", 
   seeded(root)
   const stray = join(root, indexNamed(), "athena-stray.jsonl")
   writeFileSync(stray, "{}\n")
-  const answer = index(["refresh", "--dry-run"], givenAt(root))
+  const answer = indexRefresh(["--dry-run"], givenAt(root))
   expect(answer.code).toBe(OK)
   expect(said(answer)).toContain("belonging to no index would be taken away")
   expect(said(answer)).toContain("athena-stray.jsonl")
   expect(existsSync(stray)).toBe(true)
 })
 
-test("every act and flag the surface shows is one this takes", () => {
+test("every flag the page shows is one this takes", () => {
   for (const one of indexCommand.taking) {
     const held = readIn([one.said.split(" ")[0] ?? ""])
     expect("refused" in held ? held.refused.join(" ") : "").not.toContain("this takes")

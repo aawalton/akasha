@@ -1,30 +1,17 @@
-import type { Command } from "../../command.page-type.types.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
-export const index = {
+export const indexRefresh = {
   id: "01a04de1-13fa-7331-979e-d443758eefad",
   pageTypeSlug: "command",
   type: "command",
-  slug: "index",
+  slug: "index-refresh",
   definition: "the index repaired against the pages of the repository as it is",
   code: "ts",
   test: "ts",
   changeKind: "change-none",
-  taking: [
-    {
-      said: "refresh",
-      takes: "build the index over the repository as it stands and put it in place",
-    },
-    { said: "--dry-run", takes: "say what the repair would change and write nothing" },
-  ],
-  helpNotes: [
-    "refresh is the act it carries, and one call names one act.",
-    "a refresh makes no commit, so it takes no message and runs no check.",
-  ],
+  taking: [{ said: "--dry-run", takes: "say what the repair would change and write nothing" }],
+  helpNotes: ["a refresh makes no commit, so it takes no message and runs no check."],
   invariants: [
-    {
-      invariantKind: "departure",
-      statement: "`refresh` is the only act there is.",
-    },
     {
       invariantKind: "departure",
       statement: "The index is built over the repository as the repository stands.",

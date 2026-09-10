@@ -3,18 +3,13 @@ import { join, resolve } from "node:path"
 import { rebuiltWhole } from "akasha/pages/indexes/indexing/indexing.module.code.ts"
 import { indexNamed } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import type { Drift } from "akasha/pages/indexes/rebuilding/rebuilding.module.code.ts"
-import { told as gitTold } from "../../../git/running/git-running.module.code.ts"
-import { counted } from "../../modules/asking/asking.module.code.ts"
-import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
-import { holding } from "../../modules/holding/holding.module.code.ts"
-import { namesDrawn } from "../infrastructure/service/name-drawing/name-drawing.module.code.ts"
-
-export const REFRESH = "refresh"
+import { told as gitTold } from "../../../../git/running/git-running.module.code.ts"
+import { counted } from "../../../modules/asking/asking.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
+import { holding } from "../../../modules/holding/holding.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
-
-const ACTS = [REFRESH]
 
 const DOMAIN_AT = "akasha.domain.ts"
 
@@ -30,17 +25,10 @@ const COMMITTING = new Map<string, string>([
   ["--break-the-glass", "says why no check runs, and a refresh runs none"],
 ])
 
-export type Read =
-  | { readonly act: string; readonly dryRun: boolean }
-  | { readonly refused: readonly string[] }
-
-function acts(): string {
-  return namesDrawn(ACTS)
-}
+export type Read = { readonly dryRun: boolean } | { readonly refused: readonly string[] }
 
 export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
-  let act: string | null = null
   let dryRun = false
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at]
@@ -59,20 +47,10 @@ export function readIn(argv: readonly string[]): Read {
       refusals.push(`\`${one}\` is no flag this takes — it takes \`${DRY_RUN}\``)
       continue
     }
-    if (act !== null) {
-      refusals.push(`\`${one}\` follows the act \`${act}\`, and one call names one act`)
-      continue
-    }
-    act = one
-  }
-  if (act === null) {
-    return { refused: [...refusals, `this names no act — it carries ${acts()}`] }
-  }
-  if (!ACTS.includes(act)) {
-    refusals.push(`\`${act}\` is no act this carries — it carries ${acts()}`)
+    refusals.push(`\`${one}\` is no word this takes — it takes \`${DRY_RUN}\``)
   }
   if (refusals.length > 0) return { refused: refusals }
-  return { act, dryRun }
+  return { dryRun }
 }
 
 export function named(paths: readonly string[]): string {
@@ -153,7 +131,7 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
   }
 }
 
-export function index(argv: readonly string[], given: Given): Answer {
+export function indexRefresh(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   const root = resolve(given.root)

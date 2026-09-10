@@ -86,9 +86,9 @@ const TS = "ts"
 
 const COMMAND = "command"
 
-export const ROOTED = "index"
+export const ROOTED = "index refresh"
 
-const REPAIR_AT = "commands/pages/index/index.command.code.ts"
+const REPAIR_AT = "commands/pages/index/refresh/index-refresh.command.code.ts"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -236,7 +236,7 @@ function refusing(said: string): Answer {
 export function rebuiltBy(root: string): string {
   return (
     `bun -e 'const a = (await import("${join(root, REPAIR_AT)}"))` +
-    `.index(["refresh"], { root: "${root}" }); ` +
+    `.indexRefresh([], { root: "${root}" }); ` +
     `console.log([...a.report, ...a.refusals].join("\\n"))'`
   )
 }
