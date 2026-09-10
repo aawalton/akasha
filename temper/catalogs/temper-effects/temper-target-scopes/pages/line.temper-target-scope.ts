@@ -1,4 +1,4 @@
-import type { TemperTargetScope } from "../temper-target-scope.page-type.ts"
+import type { TemperTargetScope } from "../temper-target-scope.page-type.types.ts"
 
 export const line = {
   id: "019e5a4f-78f2-7814-afe5-77d727109d8e",

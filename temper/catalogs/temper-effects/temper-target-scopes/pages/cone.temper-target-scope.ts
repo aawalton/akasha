@@ -1,4 +1,4 @@
-import type { TemperTargetScope } from "../temper-target-scope.page-type.ts"
+import type { TemperTargetScope } from "../temper-target-scope.page-type.types.ts"
 
 export const cone = {
   id: "019e5a4f-78eb-7d16-a27e-7e368002f93f",
