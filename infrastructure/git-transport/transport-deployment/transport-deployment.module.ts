@@ -32,5 +32,9 @@ export const transportDeployment = {
       invariantKind: "departure",
       statement: "The server runs the code out of the source cache the sidecar keeps current.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Where that code sits in the cache is asked of the index rather than spelled.",
+    },
   ],
 } as const satisfies Module

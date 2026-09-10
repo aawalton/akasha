@@ -14,6 +14,9 @@ import {
   GIT_TRANSPORT_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { INIT_BARE_REPO_SCRIPT } from "../bare-repo-init/bare-repo-init.module.code.ts"
 import {
   APP_NAME,
@@ -26,6 +29,23 @@ const GIT_ACCESS_TOKEN_REF = {
   secretName: "git-transport-secrets",
   secretKey: "GIT_ACCESS_TOKEN",
 } as const
+
+const MODULE = "module"
+
+const SERVING = "transport-serving"
+
+const CODE = "code"
+
+const TS = "ts"
+
+function servingAt(): string {
+  const page = listedAt(akashaRoot(), MODULE, SERVING)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${SERVING}\`, so the workload would serve none`)
+  }
+  return at
+}
 
 export function deploymentYaml(): string {
   const sourceCacheMounts = orchestratorCacheVolumeMounts()
@@ -97,11 +117,7 @@ export function deploymentYaml(): string {
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
               workingDir: ORCHESTRATOR_CACHE_REPO_PATH,
-              command: [
-                "bun",
-                "--watch",
-                "infrastructure/git-transport/transport-serving/transport-serving.module.code.ts",
-              ],
+              command: ["bun", "--watch", servingAt()],
               ports: [
                 {
                   name: "http",
