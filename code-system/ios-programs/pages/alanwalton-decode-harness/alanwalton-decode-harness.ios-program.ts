@@ -1,4 +1,4 @@
-import type { IosProgram } from "../../ios-program.page-type.ts"
+import type { IosProgram } from "../../ios-program.page-type.types.ts"
 
 export const alanwaltonDecodeHarness = {
   id: "01a0590a-0b37-799f-8e3f-cb30189db988",

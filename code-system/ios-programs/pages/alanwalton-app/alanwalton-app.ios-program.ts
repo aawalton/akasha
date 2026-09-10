@@ -1,4 +1,4 @@
-import type { IosProgram } from "../../ios-program.page-type.ts"
+import type { IosProgram } from "../../ios-program.page-type.types.ts"
 
 export const alanwaltonApp = {
   id: "01a05907-081b-7809-90b1-4d000b138209",

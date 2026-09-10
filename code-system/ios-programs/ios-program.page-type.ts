@@ -1,22 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { BundleId } from "../ios-apps/properties/bundle-id.text-property.ts"
-import type { Components } from "./properties/components.relation-property.ts"
-import type { Entitlements } from "./properties/entitlements.file-property.ts"
-import type { InfoPlist } from "./properties/info-plist.file-property.ts"
-import type { Main } from "./properties/main.code-file-property.ts"
-import type { ProfileName } from "./properties/profile-name.text-property.ts"
-import type { TargetName } from "./properties/target-name.text-property.ts"
-
-export type IosProgram = Domain & {
-  bundleId?: BundleId
-  components?: Components
-  profileName?: ProfileName
-  targetName?: TargetName
-  main?: Main
-  infoPlist?: InfoPlist
-  entitlements?: Entitlements
-}
 
 export const iosProgram = {
   id: "01a05901-26b3-7d1b-aec6-3b467f5f5b8d",
@@ -88,4 +70,5 @@ export const iosProgram = {
       statement: "A program shipped apart from the app that has that program states its own name.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

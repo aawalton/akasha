@@ -1,4 +1,4 @@
-import type { IosProgram } from "../../ios-program.page-type.ts"
+import type { IosProgram } from "../../ios-program.page-type.types.ts"
 
 export const smilingjennyDecodeHarness = {
   id: "01a0590a-0b38-7a31-a332-3212460d77ba",
