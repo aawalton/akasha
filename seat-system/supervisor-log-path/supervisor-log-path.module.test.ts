@@ -3,6 +3,7 @@ import {
   agentRuntimeDir,
   runtimeRootDir,
   supervisorSocketPath,
+  supervisorsRootDir,
 } from "./supervisor-log-path.module.code.ts"
 
 const AGENT = "01a07eb0-c517-7000-9ee4-cfc39576ac24"
@@ -17,6 +18,15 @@ test("the proxy socket is named for its agent under the base named", () => {
 
 test("the socket a caller names no base for is in the runtime directory", () => {
   expect(supervisorSocketPath(AGENT)).toBe(`${runtimeRootDir()}/akasha-${AGENT}.sock`)
+})
+
+test("every supervisor's files are under the runtime directory rather than under the checkout", () => {
+  expect(supervisorsRootDir()).toBe(`${runtimeRootDir()}/akasha`)
+  expect(supervisorsRootDir()).not.toContain("/.supervisors")
+})
+
+test("a supervisor's own folder is a folder of that root named for the agent", () => {
+  expect(`${supervisorsRootDir()}/${AGENT}`.startsWith(`${supervisorsRootDir()}/`)).toBe(true)
 })
 
 test("a runtime folder is one agent's own rather than shared with every other", () => {
