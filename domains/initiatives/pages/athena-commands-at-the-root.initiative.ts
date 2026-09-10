@@ -11,7 +11,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "A command Alan has not approved at the root sits inside its namespace's folder.",
       workingMemory:
-        "Alan ruled on 2026-09-10 that a command sits at the root only where he approves it by name. He approved `audit` and `read`; `check` is no command. Moved since: agent-turn-colors under agent, `index refresh`, `measure complexity`, `google drive fetch`, `google calendar events`, `icloud fetch`, `ios-app build`. Left, both approved: performance to `measure performance`, push and restore to a new `git` namespace.\n",
+        "Alan ruled on 2026-09-10 that a command sits at the root only where he approves it by name, and `commands/command.page-type.ts` now carries that as an invariant. He approved `audit` and `read`. Moved since: agent-turn-colors, `index refresh`, `measure complexity`, `measure performance`, `google drive fetch`, `google calendar events`, `icloud fetch`, `ios-app build`, `git push`, `git restore`. Left: `deploy`, moved to the root by another lane in 501dac080fa, unruled.\n",
     },
     {
       statement:
