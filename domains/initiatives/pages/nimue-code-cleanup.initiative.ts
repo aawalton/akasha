@@ -9,6 +9,11 @@ export const nimueCodeCleanup = {
   persona: "nimue",
   intents: [
     {
+      statement: "No code spells a path as a string literal.",
+      workingMemory:
+        "1114 literals over 389 TypeScript files name a repository path. 473 sit in tests and fixtures, which `check-reaches-a-path-through-the-index` already passes over, and 454 more are citations in finding and initiative prose, leaving about 170 in code that runs. The commonest is the folder a page type's pages sit in, spelled by `days/pages`, `seats/pages`, `initiatives/pages` and seven more. `text/` and `type/` are folders too, so `text/html` reads as a path to a matcher going by spelling.",
+    },
+    {
       statement: "A change moving a folder repoints the manifest naming that folder.",
       workingMemory:
         "`move-folder` reaches `move-file` and `change-imports` and nothing else, so a package's `exports` still names the old path after a move. A draft moving `code-system/utf8-body` refuses, because `alan/track/track-landing` reaches it through `@akasha/code/utf8-body`, which still points at the old folder. `change-manifest-ways` already rewrites a manifest's ways from a moved-path map, and nothing reaches it. The move to `code` escapes this, every way there being spelled against the package root.",
@@ -32,11 +37,6 @@ export const nimueCodeCleanup = {
       statement: "The check asking which page claims a file reads the build folder property.",
       workingMemory:
         "`file-has-its-page` reads a hardcoded `node_modules` today, and reading the property instead retires that constant and covers every build folder at once. `folder-matches-a-shape` has the same gap: it refuses the two ios app folders over their `www`, which is declared a build folder already. Both checks want the property rather than one.",
-    },
-    {
-      statement: "No code spells a path as a string literal.",
-      workingMemory:
-        "1114 literals over 389 TypeScript files name a repository path. 473 sit in tests and fixtures, which `check-reaches-a-path-through-the-index` already passes over, and 454 more are citations in finding and initiative prose, leaving about 170 in code that runs. The commonest is the folder a page type's pages sit in, spelled by `days/pages`, `seats/pages`, `initiatives/pages` and seven more. `text/` and `type/` are folders too, so `text/html` reads as a path to a matcher going by spelling.",
     },
   ],
   constraints: [
