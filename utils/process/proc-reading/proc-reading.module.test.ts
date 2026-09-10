@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { environValue, procEntries, statedIn } from "./proc-reading.module.code.ts"
 
 test("an environment variable is read off the block by its own name", () => {
@@ -36,7 +37,7 @@ test("this very process is among those carrying PATH", () => {
   expect(read.opened).toBe(true)
   const mine = read.entries.find((one) => one.pid === process.pid)
   expect(mine).toBeDefined()
-  expect(mine?.named["PATH"]).toBe(process.env["PATH"] ?? "")
+  expect(mine?.named["PATH"]).toBe(optionalEnv("PATH") ?? "")
 })
 
 test("a name no process carries leaves the reading empty", () => {
