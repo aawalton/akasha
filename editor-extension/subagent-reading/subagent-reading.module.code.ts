@@ -94,12 +94,6 @@ export function createSubagentReader(): SubagentReader {
     return cursor.state
   }
 
-  // AN AGENT ALREADY READ ON THIS PATH IS NOT READ AGAIN ON IT. A resumed agent nothing the fold
-  // holds is filed under the resumed id as a row of its own, and that id can name an agent already
-  // above the row — which is what a lane resuming the agent that ran it leaves behind. Reading that
-  // agent's transcript again lists every lane a second time, under one of themselves, so the panel
-  // drew a subtree of its own ancestor. The depth limit cut that off rather than preventing it, and
-  // what it cut off was still drawn: 19 of 67 rows were one of the other 48 over again.
   const descend = async (
     running: readonly RunningSubagent[],
     subagentsDir: string,
@@ -160,10 +154,6 @@ export function createSubagentReader(): SubagentReader {
       const subagentsDir = path.join(transcriptPath.replace(/\.jsonl$/, ""), "subagents")
       return descend(runningSubagents(state), subagentsDir, 1, new Set())
     },
-    // THE SEAT'S OWN FOLD AND NO DESCENT. A child transcript is opened to draw
-    // the tree under a running subagent, and a subagent that ended has no tree
-    // left to draw, so the ids answered here are the ones the seat's own
-    // transcript saw start and finish.
     endedForSeat: async (agentId: string, transcriptPath: string) =>
       endedSubagents(await advance(agentId, transcriptPath)),
     dropUntouched: async () => {
