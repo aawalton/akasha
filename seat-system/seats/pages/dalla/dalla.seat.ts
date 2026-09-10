@@ -1,10 +1,10 @@
 import type { Seat } from "../../seat.page-type.types.ts"
 
-export const dalla = {
+export const dalla/dalla = {
   id: "01a07eb0-c517-7000-9ee4-cfc39576ac24",
   pageTypeSlug: "seat",
   type: "seat",
-  slug: "dalla",
+  slug: "dalla/dalla",
   persona: "dalla",
   assignmentSlug: "initiative/dalla-draft-into-a-patch",
   role: "definer",
