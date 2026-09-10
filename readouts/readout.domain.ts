@@ -31,6 +31,7 @@ export const readout = {
     "domain/readout-color",
     "domain/readout-figure",
     "domain/stoplight",
+    "module/readout-watching",
   ],
   invariants: [
     {
