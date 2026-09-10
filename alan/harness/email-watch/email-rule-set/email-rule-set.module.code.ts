@@ -2,6 +2,7 @@ import type {
   Field,
   RuleSet,
 } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
+import { z } from "zod"
 
 export const EMAIL_RULE_SET = "email-rule"
 
@@ -52,9 +53,19 @@ export interface RuleLocation {
   readonly slug: string
 }
 
+const RULE_PATH_GROUPS = z.object({
+  holder: z.string(),
+  kind: z.string(),
+  slug: z.string(),
+})
+
+function parseRuleLocation(matched: RegExpExecArray | null): RuleLocation | null {
+  if (matched === null) return null
+  const said = RULE_PATH_GROUPS.safeParse(matched.groups ?? {})
+  if (!said.success) return null
+  return { person: said.data.holder, kind: said.data.kind, slug: said.data.slug }
+}
+
 export function ruleLocation(relPath: string): RuleLocation | null {
-  const found = EMAIL_RULE_PATH.exec(relPath)
-  if (found === null) return null
-  const groups: Record<string, string | undefined> = found.groups ?? {}
-  return { person: groups.holder ?? "", kind: groups.kind ?? "", slug: groups.slug ?? "" }
+  return parseRuleLocation(EMAIL_RULE_PATH.exec(relPath))
 }
