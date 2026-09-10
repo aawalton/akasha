@@ -9,12 +9,15 @@ export const supervisorMcp = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A dynamic import reaches the browser storage-state export, so a tree holding no playwright boots.",
+      statement: "A dynamic import reaches the browser storage-state export.",
     },
     {
       invariantKind: "departure",
-      statement: "A supervisor boots when the browser MCP cannot be seeded, without offering it.",
+      statement: "A tree holding no playwright boots.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A supervisor whose browser MCP cannot be seeded boots without offering that MCP.",
     },
   ],
 } as const satisfies Module
