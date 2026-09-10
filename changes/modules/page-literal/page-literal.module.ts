@@ -67,7 +67,7 @@ export const pageLiteral = {
     },
     {
       invariantKind: "departure",
-      statement: "A record is matched by the text one named field of that record states.",
+      statement: "A record is matched by the text a named field of that record states.",
     },
   ],
 } as const satisfies Module

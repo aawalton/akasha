@@ -16,7 +16,7 @@ export const runsChecks = {
     },
     {
       invariantKind: "departure",
-      statement: "A change kind whose changes are not expected to pass checks runs none.",
+      statement: "A change kind whose changes are not expected to pass checks runs no check.",
     },
   ],
 } as const satisfies BooleanProperty

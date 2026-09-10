@@ -27,11 +27,12 @@ export const changeRunner = {
     {
       invariantKind: "departure",
       statement:
-        "A runner reaches the changes of the page type that runner names and of the page types under it.",
+        "A runner reaches the changes of that runner's page type and of the page types under that type.",
     },
     {
       invariantKind: "departure",
-      statement: "The map beside a runner has the addresses that runner reaches and no other.",
+      statement:
+        "The map beside a runner has the addresses that runner reaches and no other address.",
     },
     {
       invariantKind: "departure",

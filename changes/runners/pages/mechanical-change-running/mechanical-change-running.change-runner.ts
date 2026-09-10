@@ -13,7 +13,8 @@ export const mechanicalChangeRunning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A program names the changes it wants run rather than composing the edits itself.",
+      statement:
+        "A program names the changes that program wants run rather than composing the edits itself.",
     },
     {
       invariantKind: "departure",
@@ -29,15 +30,16 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "The changes named are run in the order the caller named them.",
+      statement: "The changes named are run in the order the caller named those changes.",
     },
     {
       invariantKind: "departure",
-      statement: "Each change reads the world as every change before it had already landed.",
+      statement:
+        "Each change reads the world as every change before that change had already landed.",
     },
     {
       invariantKind: "departure",
-      statement: "The edits every change answered land together as one commit.",
+      statement: "The edits every change answered land together as a single commit.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +79,7 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "An agent id is carried only where the caller has one.",
+      statement: "An agent id is carried only where the caller has an agent id.",
     },
     {
       invariantKind: "departure",
@@ -89,7 +91,7 @@ export const mechanicalChangeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller naming neither reads the tree as the commit at HEAD leaves it.",
+      statement: "A caller naming neither reads the tree as the commit at HEAD leaves the tree.",
     },
     {
       invariantKind: "absence",

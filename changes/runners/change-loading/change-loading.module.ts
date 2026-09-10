@@ -44,11 +44,11 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "The guards a change runs are the guards that change names and no other.",
+      statement: "The guards a change runs are the guards that change names and no other guard.",
     },
     {
       invariantKind: "departure",
-      statement: "A change naming no guard runs none.",
+      statement: "A change naming no guard runs no guard.",
     },
     {
       invariantKind: "departure",
