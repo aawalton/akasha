@@ -1,4 +1,4 @@
-import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.types.ts"
 
 export const seaweedfsS3Gateway = {
   id: "01a0737e-4ab7-770b-9a76-2fa23955be63",

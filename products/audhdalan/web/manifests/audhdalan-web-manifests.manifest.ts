@@ -1,4 +1,4 @@
-import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.types.ts"
 
 export const audhdalanWebManifests = {
   id: "01a07388-768e-7f43-89ee-b66e2a21d046",

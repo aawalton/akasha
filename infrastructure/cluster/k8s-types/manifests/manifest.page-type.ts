@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { GeneratedDirectory } from "./properties/generated-directory.build-folder-property.ts"
-import type { ManifestCode } from "./properties/manifest-code.code-file-property.ts"
-
-export type Manifest = Domain & {
-  code: ManifestCode
-  generatedDirectory?: GeneratedDirectory
-}
 
 export const manifest = {
   id: "01a06da1-b337-78b9-8ad3-556e6b67058e",
@@ -40,4 +32,5 @@ export const manifest = {
       statement: "A container told to run start runs in a package stating a start script.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

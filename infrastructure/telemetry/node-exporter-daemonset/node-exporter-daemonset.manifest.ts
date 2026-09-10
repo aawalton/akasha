@@ -1,4 +1,4 @@
-import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.types.ts"
 
 export const nodeExporterDaemonset = {
   id: "01a07390-ce05-777e-ac13-7b3f78051162",
