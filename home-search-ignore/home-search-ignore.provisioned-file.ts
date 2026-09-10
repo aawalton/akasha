@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../machines/provisioning/provisioned-files/provisioned-file.page-type.ts"
 
 export const homeSearchIgnore = {
   id: "01a06862-af5c-7cc1-a138-ffebf6bf1cfe",

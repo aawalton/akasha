@@ -39,7 +39,7 @@ fi
 
 echo "==> Updating Homebrew and installing Brewfile.macos formulae + casks..."
 brew update
-brew bundle --file "$FILES/macbook-brewfile.provisioned-file.content.conf"
+brew bundle --file "$FILES/macbook-brewfile/macbook-brewfile.provisioned-file.content.conf"
 
 echo "==> Symlinking libpq client binaries into ~/.local/bin..."
 mkdir -p "$HOME/.local/bin"

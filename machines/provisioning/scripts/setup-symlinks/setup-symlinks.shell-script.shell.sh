@@ -19,13 +19,13 @@ SCRIPTS="$AKASHA_ROOT/machines/provisioning/scripts"
 . "$SCRIPTS/link-making/link-making.shell-script.shell.sh"
 
 echo "Setting up dotfile symlinks..."
-link "$FILES/bashrc.provisioned-file.content.sh"   "$HOME/.bashrc"
-link "$FILES/profile.provisioned-file.content.sh"  "$HOME/.profile"
-link "$FILES/tmux-config.provisioned-file.content.conf"       "$HOME/.tmux.conf"
-link "$FILES/git-config.provisioned-file.content.conf"        "$HOME/.gitconfig"
-link "$FILES/home-search-ignore.provisioned-file.content.conf" "$HOME/.ignore"
-link "$FILES/git-global-ignore.provisioned-file.content.conf"  "$HOME/.config/git/ignore"
-link "$FILES/repos-editor-settings.provisioned-file.content.json" "$REPOS/.vscode/settings.json"
+link "$FILES/bashrc/bashrc.provisioned-file.content.sh"   "$HOME/.bashrc"
+link "$FILES/profile/profile.provisioned-file.content.sh"  "$HOME/.profile"
+link "$FILES/tmux-config/tmux-config.provisioned-file.content.conf"       "$HOME/.tmux.conf"
+link "$FILES/git-config/git-config.provisioned-file.content.conf"        "$HOME/.gitconfig"
+link "$FILES/home-search-ignore/home-search-ignore.provisioned-file.content.conf" "$HOME/.ignore"
+link "$FILES/git-global-ignore/git-global-ignore.provisioned-file.content.conf"  "$HOME/.config/git/ignore"
+link "$FILES/repos-editor-settings/repos-editor-settings.provisioned-file.content.json" "$REPOS/.vscode/settings.json"
 
 echo "Setting up the launchers on PATH..."
 link "$SCRIPTS/akasha-launcher/akasha-launcher.shell-script.shell.sh" "$HOME/.local/bin/akasha"
@@ -35,16 +35,16 @@ link "$SCRIPTS/ci-cost-snapshot/ci-cost-snapshot.shell-script.shell.sh" "$HOME/.
 if [ "$(uname)" != "Darwin" ]; then
   link "$SCRIPTS/wallpaper-black/wallpaper-black.shell-script.shell.sh" "$HOME/.local/bin/wallpaper-black"
   link "$AKASHA_ROOT/machines/provisioning/btw5/btw5.python-module.python.py" "$HOME/.local/bin/btw5"
-  link "$FILES/container-short-names.provisioned-file.content.conf" "$HOME/.config/containers/registries.conf.d/00-short-name-permissive.conf"
-  link "$FILES/container-insecure-registries.provisioned-file.content.conf" "$HOME/.config/containers/registries.conf.d/01-insecure-cluster-registry.conf"
-  link "$FILES/wallpaper-black-launcher.provisioned-file.content.conf" "$HOME/.local/share/applications/wallpaper-black.desktop"
+  link "$FILES/container-short-names/container-short-names.provisioned-file.content.conf" "$HOME/.config/containers/registries.conf.d/00-short-name-permissive.conf"
+  link "$FILES/container-insecure-registries/container-insecure-registries.provisioned-file.content.conf" "$HOME/.config/containers/registries.conf.d/01-insecure-cluster-registry.conf"
+  link "$FILES/wallpaper-black-launcher/wallpaper-black-launcher.provisioned-file.content.conf" "$HOME/.local/share/applications/wallpaper-black.desktop"
 fi
 
 if [ "$(uname)" = "Darwin" ]; then
   echo "Skipping /etc/sysctl.d symlink (Linux-only; macOS detected)."
 else
   echo "Setting up system config symlinks (sudo required)..."
-  ETC_SYSCTL_SRC="$FILES/claude-keepalive-sysctl.provisioned-file.content.conf"
+  ETC_SYSCTL_SRC="$FILES/claude-keepalive-sysctl/claude-keepalive-sysctl.provisioned-file.content.conf"
   ETC_SYSCTL_DST="/etc/sysctl.d/99-claude-keepalive.conf"
   if [ -L "$ETC_SYSCTL_DST" ] && [ "$(readlink "$ETC_SYSCTL_DST")" = "$ETC_SYSCTL_SRC" ]; then
     echo "  $ETC_SYSCTL_DST already linked"
@@ -62,7 +62,7 @@ else
 fi
 
 if [ "$(uname)" != "Darwin" ]; then
-  ETC_UDEV_SRC="$FILES/btw5-udev-rule.provisioned-file.content.conf"
+  ETC_UDEV_SRC="$FILES/btw5-udev-rule/btw5-udev-rule.provisioned-file.content.conf"
   ETC_UDEV_DST="/etc/udev/rules.d/70-btw5.rules"
   if [ -L "$ETC_UDEV_DST" ] && [ "$(readlink "$ETC_UDEV_DST")" = "$ETC_UDEV_SRC" ]; then
     echo "  $ETC_UDEV_DST already linked"
@@ -81,7 +81,7 @@ if [ "$(uname)" != "Darwin" ]; then
 fi
 
 if [ "$(uname)" != "Darwin" ]; then
-  ETC_OOMD_SRC="$FILES/swap-used-limit.provisioned-file.content.conf"
+  ETC_OOMD_SRC="$FILES/swap-used-limit/swap-used-limit.provisioned-file.content.conf"
   ETC_OOMD_DST="/etc/systemd/oomd.conf.d/99-swap-used-limit.conf"
   if [ -f "$ETC_OOMD_DST" ] && [ ! -L "$ETC_OOMD_DST" ] && cmp -s "$ETC_OOMD_SRC" "$ETC_OOMD_DST"; then
     echo "  $ETC_OOMD_DST already current"
@@ -96,7 +96,7 @@ if [ "$(uname)" != "Darwin" ]; then
 fi
 
 if [ "$(uname)" != "Darwin" ]; then
-  ETC_SWAPUNIT_SRC="$FILES/swapfile-unit.provisioned-file.content.conf"
+  ETC_SWAPUNIT_SRC="$FILES/swapfile-unit/swapfile-unit.provisioned-file.content.conf"
   ETC_SWAPUNIT_DST="/etc/systemd/system/var-swap-swapfile.swap"
   if [ -f "$ETC_SWAPUNIT_DST" ] && [ ! -L "$ETC_SWAPUNIT_DST" ] && cmp -s "$ETC_SWAPUNIT_SRC" "$ETC_SWAPUNIT_DST"; then
     echo "  $ETC_SWAPUNIT_DST already current"

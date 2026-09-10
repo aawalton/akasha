@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../machines/provisioning/provisioned-files/provisioned-file.page-type.ts"
 
 export const swapfileUnit = {
   id: "01a06862-af5d-7c99-ad36-2ecd155d6c75",

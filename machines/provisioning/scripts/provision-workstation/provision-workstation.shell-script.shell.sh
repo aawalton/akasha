@@ -37,7 +37,7 @@ fi
 
 echo "==> Updating Homebrew and installing Brewfile formulae..."
 brew update
-brew bundle --file "$FILES/workstation-brewfile.provisioned-file.content.conf"
+brew bundle --file "$FILES/workstation-brewfile/workstation-brewfile.provisioned-file.content.conf"
 
 echo "==> Symlinking libpq client binaries into ~/.local/bin..."
 mkdir -p "$HOME/.local/bin"

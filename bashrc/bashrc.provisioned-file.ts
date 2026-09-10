@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../machines/provisioning/provisioned-files/provisioned-file.page-type.ts"
 
 export const bashrc = {
   id: "01a06862-af5c-7212-901d-4472fc61079c",

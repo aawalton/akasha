@@ -1,4 +1,4 @@
-import type { ProvisionedFile } from "../provisioned-file.page-type.ts"
+import type { ProvisionedFile } from "../machines/provisioning/provisioned-files/provisioned-file.page-type.ts"
 
 export const gitGlobalIgnore = {
   id: "01a06862-af5c-7db9-86b1-d4785579006f",
