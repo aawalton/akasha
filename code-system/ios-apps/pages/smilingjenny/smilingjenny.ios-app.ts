@@ -1,4 +1,4 @@
-import type { IosApp } from "@akasha/code/ios-app"
+import type { IosApp } from "akasha/code-system/ios-apps/ios-app.page-type.types.ts"
 
 export const smilingjenny = {
   id: "01a05821-5723-7a0b-86e8-e855fe49385b",
