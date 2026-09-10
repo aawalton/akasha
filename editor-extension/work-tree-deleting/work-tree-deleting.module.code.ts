@@ -1,5 +1,5 @@
 import { callHarness, LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
-import { keyedAs } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
+import { keyedAs, movedUnderfoot } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
 
 const INTENT_MODULE = "initiative-delete-intent"
 
@@ -10,6 +10,12 @@ const INITIATIVE_MODULE = "initiative-delete"
 const INITIATIVE_EXPORT = "initiativeDelete"
 
 const CONFIRM = "Delete"
+
+const MOVED_UNDERFOOT = "that moved while you were deleting it — nothing was deleted"
+
+export function shownSaid(why: string, thrown: string): string {
+  return movedUnderfoot(thrown) ? MOVED_UNDERFOOT : why
+}
 
 export type Calling = (
   module: string,
@@ -94,7 +100,7 @@ export function deletingInitiative(
       watch.stayed(slug)
       const why = initiativeFailureSaid(slug, String(thrown))
       say(`[delete initiative] ${why}`)
-      void editor.window.showErrorMessage(`Work: ${why}`)
+      void editor.window.showErrorMessage(`Work: ${shownSaid(why, String(thrown))}`)
     }
     return undefined
   }
@@ -120,7 +126,7 @@ export function deletingIntent(
       watch.stayed(one.slug)
       const why = intentFailureSaid(one, String(thrown))
       say(`[delete intent] ${why}`)
-      void editor.window.showErrorMessage(`Work: ${why}`)
+      void editor.window.showErrorMessage(`Work: ${shownSaid(why, String(thrown))}`)
     }
     return undefined
   }

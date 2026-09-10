@@ -6,6 +6,8 @@ import { blobIdOf, type Reading, sameBody } from "../reading/reading.module.code
 
 const HERE = "."
 
+export const PUT_BACK = "so writing it would put back what moved in between"
+
 function sameBytes(one: Uint8Array | null, two: Uint8Array | null): boolean {
   if (one === null || two === null) return one === two
   return Buffer.from(one).equals(Buffer.from(two))
@@ -75,7 +77,7 @@ export function unfresh(
     return [
       ...moved.map(
         (one) =>
-          `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, so writing it would put back what moved in between`
+          `${one} — read against \`${named}\`, and what is at \`${base}\` is not what was read, ${PUT_BACK}`
       ),
       tail,
     ]
@@ -83,10 +85,7 @@ export function unfresh(
   const stirred = movedOnDisk(root, base, asRead)
   if (stirred.length === 0) return null
   return [
-    ...stirred.map(
-      (one) =>
-        `${one} — what is on disk is not the body you read, so writing it would put back what moved in between`
-    ),
+    ...stirred.map((one) => `${one} — what is on disk is not the body you read, ${PUT_BACK}`),
     tail,
   ]
 }

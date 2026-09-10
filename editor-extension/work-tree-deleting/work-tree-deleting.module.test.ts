@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { PUT_BACK } from "../../commands/modules/change-freshness/change-freshness.module.code.ts"
 import { LANDING_TIMEOUT_MS } from "../harness-call/harness-call.module.code.ts"
 import {
   deletingInitiative,
@@ -323,4 +324,37 @@ test("Alan answers the modal before the panel is told the initiative is going", 
 
 test("a failure is said in words naming the initiative", () => {
   expect(initiativeFailureSaid("held", "why")).toBe("held: the initiative did not go. why")
+})
+
+const REFUSED = `akasha/a.domain.ts — what is on disk is not the body you read, ${PUT_BACK}`
+
+test("a deletion refused because the row moved is said to Alan as one sentence", async () => {
+  const shown: string[] = []
+  const lines: string[] = []
+  await deletingIntent(
+    editorSaying(shown),
+    (line) => {
+      lines.push(line)
+      return undefined
+    },
+    watching(),
+    callingWith(new Error(REFUSED), [])
+  )(INTENT)
+
+  expect(shown).toEqual(["Work: that moved while you were deleting it — nothing was deleted"])
+  expect(lines).toEqual([
+    `[delete intent] held: the intent \`A thing is so.\` did not go. Error: ${REFUSED}`,
+  ])
+})
+
+test("an initiative refused the same way is said to Alan the same way", async () => {
+  const shown: string[] = []
+  await deletingInitiative(
+    editorSaying(shown, [], "Delete"),
+    () => undefined,
+    watching(),
+    callingWith(new Error(REFUSED), [])
+  )(INITIATIVE)
+
+  expect(shown).toEqual(["Work: that moved while you were deleting it — nothing was deleted"])
 })

@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { PUT_BACK } from "../../commands/modules/change-freshness/change-freshness.module.code.ts"
 import {
   DRAG_MIME,
   draggedIn,
@@ -8,7 +9,9 @@ import {
   handingOf,
   initiativeOf,
   keyedAs,
+  movedUnderfoot,
   orderingOf,
+  shownSaid,
 } from "./work-tree-dragging.module.code.ts"
 
 function rowOf(kind: WorkTreeRow["kind"], key: string): WorkTreeRow {
@@ -214,4 +217,25 @@ test("a hand that failed is said with both initiatives, the statement and the re
   expect(
     handFailureSaid({ from: "held", statement: "A thing is so.", to: "other" }, "it broke")
   ).toBe("held: the intent `A thing is so.` did not reach other. it broke")
+})
+
+const ORDER = { slug: "held", statement: "A thing is so.", onto: "So is this." }
+
+const REFUSED = `akasha/a.domain.ts — what is on disk is not the body you read, ${PUT_BACK}
+nothing was written — read them again against what is there now`
+
+test("a refusal is read as a body that moved by the words the freshness rules close it with", () => {
+  expect(movedUnderfoot(REFUSED)).toBe(true)
+  expect(movedUnderfoot("Error: the page would not open")).toBe(false)
+})
+
+test("a drop refused because the body moved is said to Alan as one sentence", () => {
+  expect(shownSaid(failureSaid(ORDER, REFUSED), REFUSED)).toBe(
+    "that moved while you were dragging — nothing was changed"
+  )
+})
+
+test("every other refusal reaches Alan in the words that refusal was made in", () => {
+  const why = failureSaid(ORDER, "Error: it broke")
+  expect(shownSaid(why, "Error: it broke")).toBe(why)
 })

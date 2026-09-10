@@ -111,5 +111,18 @@ export const workTreeDeleting = {
       invariantKind: "absence",
       statement: "Nothing here draws a row.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal saying a body moved between the read and the write is said to Alan as one sentence.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal is known by the module knowing a drop's refusal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other refusal reaches Alan in the words that refusal was made in.",
+    },
   ],
 } as const satisfies Module

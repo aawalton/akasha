@@ -133,5 +133,22 @@ export const workTreeDragging = {
       invariantKind: "departure",
       statement: "A row drawn under no label is moved nowhere and handed nowhere.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal saying a body moved between the read and the write is said to Alan as one sentence.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal is known by the words the freshness rules close it with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other refusal reaches Alan in the words that refusal was made in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The channel is written the whole refusal whichever words Alan is shown.",
+    },
   ],
 } as const satisfies Module

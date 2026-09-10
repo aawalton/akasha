@@ -15,7 +15,13 @@ import {
 } from "../landing/landing.module.test-fixtures.ts"
 import { blobIdOf, type Reading } from "../reading/reading.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { commitNamed, movedOnDisk, reachedSince, unfresh } from "./change-freshness.module.code.ts"
+import {
+  commitNamed,
+  movedOnDisk,
+  PUT_BACK,
+  reachedSince,
+  unfresh,
+} from "./change-freshness.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -224,6 +230,7 @@ test("a body on disk that is not the body read is answered as moved, with the ta
   writeFileSync(join(root, AT), "moved")
   const said = unfresh(root, null, headOf(root), [AT], [held], "tail")
   expect(said?.[0]).toContain(MOVED)
+  expect(said?.[0] ?? "").toEndWith(PUT_BACK)
   expect(said?.at(-1)).toBe("tail")
 })
 

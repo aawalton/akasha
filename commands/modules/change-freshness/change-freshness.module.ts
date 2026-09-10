@@ -62,5 +62,10 @@ export const changeFreshness = {
       invariantKind: "departure",
       statement: "Two bodies are one body where the bytes are the bytes, and neither is no body.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal over a body that moved closes in the same words whichever way that body moved.",
+    },
   ],
 } as const satisfies Module

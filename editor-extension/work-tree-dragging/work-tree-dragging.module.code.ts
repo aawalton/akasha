@@ -14,6 +14,10 @@ const HAND_EXPORT = "initiativeHandIntent"
 
 const INTENT_MARK = "#"
 
+const PUT_BACK = "so writing it would put back what moved in between"
+
+const MOVED_UNDERFOOT = "that moved while you were dragging — nothing was changed"
+
 export type Keyed = {
   readonly slug: string
   readonly place: number
@@ -100,6 +104,14 @@ export function handFailureSaid(handing: Handing, why: string): string {
   return `${handing.from}: the intent \`${handing.statement}\` did not reach ${handing.to}. ${why}`
 }
 
+export function movedUnderfoot(thrown: string): boolean {
+  return thrown.includes(PUT_BACK)
+}
+
+export function shownSaid(why: string, thrown: string): string {
+  return movedUnderfoot(thrown) ? MOVED_UNDERFOOT : why
+}
+
 export interface WorkDropWatch {
   readonly moving: (order: Ordering) => undefined
   readonly handing: (one: Handing) => undefined
@@ -138,7 +150,7 @@ export function createWorkDragging(
       watch.refused(order.slug)
       const why = failureSaid(order, String(thrown))
       say(`[drop] ${why}`)
-      void editor.window.showErrorMessage(`Work: ${why}`)
+      void editor.window.showErrorMessage(`Work: ${shownSaid(why, String(thrown))}`)
     }
     return undefined
   }
@@ -157,7 +169,7 @@ export function createWorkDragging(
       watch.refused(handing.from)
       const why = handFailureSaid(handing, String(thrown))
       say(`[drop] ${why}`)
-      void editor.window.showErrorMessage(`Work: ${why}`)
+      void editor.window.showErrorMessage(`Work: ${shownSaid(why, String(thrown))}`)
     }
     return undefined
   }
