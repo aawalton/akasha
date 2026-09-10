@@ -18,7 +18,7 @@ import type { NativeShellRepoPath } from "./properties/native-shell-repo-path.te
 import type { Programs } from "./properties/programs.relation-property.ts"
 import type { SpaSourcePath } from "./properties/spa-source-path.text-property.ts"
 import type { StageScript } from "./properties/stage-script.relation-property.ts"
-import type { WebDirectory } from "./properties/web-directory.build-folder-property.ts"
+import type { WebDirectory } from "./properties/web-directory.build-folder-property.types.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
 import type { WebEnvPath } from "./properties/web-env-path.text-property.ts"
 import type { WidgetBundleId } from "./properties/widget-bundle-id.text-property.ts"

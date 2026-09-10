@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type SnapshotLocations = "jsonl"
-
 export const snapshotLocations = {
   id: "01a0675a-f185-70ca-b3c9-47a893495e70",
   pageTypeSlug: "page-property-entry",
@@ -25,4 +23,5 @@ export const snapshotLocations = {
         "When a holder was last read is the holder's own moment rather than the reading's.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

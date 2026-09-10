@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Conditions = "jsonl"
-
 export const conditions = {
   id: "01a05fd0-3aa4-739a-82b0-6e5a2647ad05",
   pageTypeSlug: "page-property-entry",
@@ -31,4 +29,5 @@ export const conditions = {
       statement: "A field naming a comparison has the key of a temper comparison op.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

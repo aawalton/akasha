@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Stacks = "jsonl"
-
 export const stacks = {
   id: "01a06053-b382-7f4e-90f1-013329a77547",
   pageTypeSlug: "page-property-entry",
@@ -68,4 +66,5 @@ export const stacks = {
       statement: "A price field is absent where the price source priced nothing.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

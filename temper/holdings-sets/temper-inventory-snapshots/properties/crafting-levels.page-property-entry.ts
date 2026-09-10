@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type CraftingLevels = "jsonl"
-
 export const craftingLevels = {
   id: "01a0675a-f185-75b8-8e9b-97a031246492",
   pageTypeSlug: "page-property-entry",
@@ -24,4 +22,5 @@ export const craftingLevels = {
       statement: "A craft a character has not opened still has a line.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

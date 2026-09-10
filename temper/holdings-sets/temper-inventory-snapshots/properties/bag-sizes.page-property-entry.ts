@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type BagSizes = "jsonl"
-
 export const bagSizes = {
   id: "01a0675a-f185-72e7-ad66-35247edba53b",
   pageTypeSlug: "page-property-entry",
@@ -24,4 +22,5 @@ export const bagSizes = {
       statement: "A holder with no bag of a kind has no line for that kind.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

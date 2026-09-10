@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type ZoneCompletionActivities = "jsonl"
-
 export const zoneCompletionActivities = {
   id: "01a06167-3f9b-700c-82b9-015808eb9637",
   pageTypeSlug: "page-property-entry",
@@ -22,4 +20,5 @@ export const zoneCompletionActivities = {
       statement: "An activity here has the label of the completion type the activity falls under.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

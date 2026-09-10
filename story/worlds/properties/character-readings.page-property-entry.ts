@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type CharacterReadings = "jsonl"
-
 export const characterReadings = {
   id: "01a063ce-6216-7001-b3f6-26b45c0bef56",
   pageTypeSlug: "page-property-entry",
@@ -21,4 +19,5 @@ export const characterReadings = {
       statement: "A reading names its character only where the reading's kind is `character`.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type OpenCooldowns = "jsonl"
-
 export const openCooldowns = {
   id: "01a0675a-f185-721b-a712-f182fa1ba39b",
   pageTypeSlug: "page-property-entry",
@@ -24,4 +22,5 @@ export const openCooldowns = {
         "A cooldown names when that cooldown comes round again rather than how long is left.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

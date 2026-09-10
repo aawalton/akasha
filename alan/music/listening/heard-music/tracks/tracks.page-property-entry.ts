@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Tracks = "jsonl"
-
 export const tracks = {
   id: "01a06240-340f-700b-b409-ccc0e5bff5e6",
   pageTypeSlug: "page-property-entry",
@@ -39,4 +37,5 @@ export const tracks = {
       statement: "A heard track is written the first time the track is heard.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

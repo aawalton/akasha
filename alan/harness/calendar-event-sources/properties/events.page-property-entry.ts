@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Events = "jsonl"
-
 export const events = {
   id: "01a06868-aec4-7f27-ae51-0a56d9b397f6",
   pageTypeSlug: "page-property-entry",
@@ -84,4 +82,5 @@ export const events = {
       statement: "An entry is slugged by the id the source gives the event.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

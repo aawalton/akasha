@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type AffixScripts = "jsonl"
-
 export const affixScripts = {
   id: "01a05fca-cb80-7359-bca5-e38d0406dff4",
   pageTypeSlug: "page-property-entry",
@@ -14,4 +12,5 @@ export const affixScripts = {
     { pageProperty: "text-property/class-id", required: false, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

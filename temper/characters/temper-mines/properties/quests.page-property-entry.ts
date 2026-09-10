@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Quests = "jsonl"
-
 export const quests = {
   id: "01a05fcd-f553-7ed3-91d3-7f2ba2527f00",
   pageTypeSlug: "page-property-entry",
@@ -18,4 +16,5 @@ export const quests = {
     { pageProperty: "number-property/zone-id", required: true, many: false },
     { pageProperty: "text-property/zone-name", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Sessions = "jsonl"
-
 export type SessionRow = {
   readonly id?: string
   readonly title?: string
@@ -80,4 +78,5 @@ export const sessions = {
       statement: "A row is spelled as the file spells the row.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

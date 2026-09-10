@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Cases = "jsonl"
-
 export const cases = {
   id: "01a053eb-6b25-7c2a-a50f-f804c41457e3",
   pageTypeSlug: "page-property-entry",
@@ -15,4 +13,5 @@ export const cases = {
     { pageProperty: "text-property/case-statement", required: true, many: false },
     { pageProperty: "text-property/case-answer", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

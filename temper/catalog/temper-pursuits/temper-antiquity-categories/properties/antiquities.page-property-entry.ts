@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Antiquities = "jsonl"
-
 export const antiquities = {
   id: "01a06166-503b-7004-a13a-ad8c499bf773",
   pageTypeSlug: "page-property-entry",
@@ -21,4 +19,5 @@ export const antiquities = {
       statement: "An antiquity here is an antiquity a player digs up and reads lore from.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

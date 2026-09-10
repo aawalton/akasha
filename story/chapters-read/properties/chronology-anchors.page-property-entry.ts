@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type ChronologyAnchors = "jsonl"
-
 export const chronologyAnchors = {
   id: "01a0685e-ef8a-71e6-87f4-7f7e2c65e093",
   pageTypeSlug: "page-property-entry",
@@ -40,4 +38,5 @@ export const chronologyAnchors = {
       statement: "Every chapter a world's chronology rests on has its anchors here.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

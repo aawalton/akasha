@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type CastConditions = "jsonl"
-
 export const castConditions = {
   id: "01a06197-3a25-77c0-86b3-5e7cc53ae0c5",
   pageTypeSlug: "page-property-entry",
@@ -41,4 +39,5 @@ export const castConditions = {
       statement: "A skill tested by nothing states no test rather than an empty list.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type QualityValues = "jsonl"
-
 export const qualityValues = {
   id: "01a05fb0-3cee-76c4-aa3f-972874e23447",
   pageTypeSlug: "page-property-entry",
@@ -14,4 +12,5 @@ export const qualityValues = {
     { pageProperty: "number-property/quality-value", required: true, many: false },
     { pageProperty: "text-property/metric-id", required: false, many: false },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

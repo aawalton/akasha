@@ -8,7 +8,7 @@ import type { DueTime } from "./properties/due-time.calendar-time-property.types
 import type { EffectiveCharacter } from "./properties/effective-character.text-property.ts"
 import type { LastCompletedAt } from "./properties/last-completed-at.instant-property.types.ts"
 import type { PendingSync } from "./properties/pending-sync.boolean-property.types.ts"
-import type { Progress } from "./properties/progress.page-property-entry.ts"
+import type { Progress } from "./properties/progress.page-property-entry.types.ts"
 import type { ProgressCurrent } from "./properties/progress-current.number-property.ts"
 import type { ProgressTotal } from "./properties/progress-total.number-property.ts"
 

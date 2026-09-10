@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Recipes = "jsonl"
-
 export const recipes = {
   id: "01a0626e-c112-752c-87ea-5aac4c49e0ee",
   pageTypeSlug: "page-property-entry",
@@ -23,4 +21,5 @@ export const recipes = {
       statement: "The recipes of one list are kept in the order the game hands the recipes over.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

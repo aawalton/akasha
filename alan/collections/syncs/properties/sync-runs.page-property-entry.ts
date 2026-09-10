@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type SyncRuns = "jsonl"
-
 export const syncRuns = {
   id: "01a06861-f664-70f9-9c72-89cac17bf56b",
   pageTypeSlug: "page-property-entry",
@@ -35,4 +33,5 @@ export const syncRuns = {
       statement: "A run reporting no counts failed before reaching anything to count.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

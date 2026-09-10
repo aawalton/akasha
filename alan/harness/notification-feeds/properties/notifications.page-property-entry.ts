@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Notifications = "jsonl"
-
 export const notifications = {
   id: "019f4a1f-0ecc-7d45-8f43-7b424b5f0477",
   pageTypeSlug: "page-property-entry",
@@ -49,4 +47,5 @@ export const notifications = {
       statement: "Every notification deep-links to itself.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

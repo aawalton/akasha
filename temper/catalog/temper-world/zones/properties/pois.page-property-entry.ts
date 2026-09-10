@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Pois = "jsonl"
-
 export const pois = {
   id: "01a06167-3f9b-700b-ab48-cb7aa724cc9c",
   pageTypeSlug: "page-property-entry",
@@ -21,4 +19,5 @@ export const pois = {
       statement: "A place here has the label of the kind of point of interest the place is.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

@@ -9,7 +9,7 @@ import type { CalendarSourceKind } from "./properties/calendar-source-kind.text-
 import type { CalendarSourceProviderClient } from "./properties/calendar-source-provider-client.text-property.ts"
 import type { CalendarSourceSyncStatus } from "./properties/calendar-source-sync-status.text-property.ts"
 import type { CalendarSourceTimezone } from "./properties/calendar-source-timezone.text-property.ts"
-import type { Events } from "./properties/events.page-property-entry.ts"
+import type { Events } from "./properties/events.page-property-entry.types.ts"
 
 export type CalendarEventSource = Page & {
   title: Title

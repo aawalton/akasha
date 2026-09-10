@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type PlacedFurnishings = "jsonl"
-
 export const placedFurnishings = {
   id: "01a0675a-f185-72b3-a56a-b5708ff6924e",
   pageTypeSlug: "page-property-entry",
@@ -37,4 +35,5 @@ export const placedFurnishings = {
       statement: "A furnishing is reached by an item link or by a collectible link.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

@@ -1,7 +1,5 @@
 import type { BuildFolderProperty } from "akasha/pages/build-folder-properties/build-folder-property.page-type.types.ts"
 
-export type BundleDirectory = true
-
 export const bundleDirectory = {
   id: "01a081f2-0426-731b-890a-130c17caa4ac",
   pageTypeSlug: "build-folder-property",
@@ -10,4 +8,5 @@ export const bundleDirectory = {
   propertySlug: "bundle-directory",
   definition: "the client and server bundles a build makes for an app",
   folderName: "build",
+  types: "ts",
 } as const satisfies BuildFolderProperty

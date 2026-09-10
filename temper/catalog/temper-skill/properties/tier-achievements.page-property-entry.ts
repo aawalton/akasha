@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type TierAchievements = "jsonl"
-
 export const tierAchievements = {
   id: "01a05fca-cb88-781e-b113-6703da6a0689",
   pageTypeSlug: "page-property-entry",
@@ -13,4 +11,5 @@ export const tierAchievements = {
     { pageProperty: "text-property/achievement-name", required: true, many: false },
     { pageProperty: "number-property/achievement-id", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type MechanicReadings = "jsonl"
-
 export const mechanicReadings = {
   id: "01a063ce-6216-7002-a04b-18f373a5a1d3",
   pageTypeSlug: "page-property-entry",
@@ -21,4 +19,5 @@ export const mechanicReadings = {
       statement: "A reading names its mechanic unless the reading's kind is `none` or `unsure`.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

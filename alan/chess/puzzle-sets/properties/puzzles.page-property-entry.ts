@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Puzzles = "jsonl"
-
 export const puzzles = {
   id: "01a06582-bd62-7cb1-8ecf-f95e81141aa9",
   pageTypeSlug: "page-property-entry",
@@ -43,4 +41,5 @@ export const puzzles = {
       statement: "A row is keyed on the id its source gives the puzzle.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Progress = "jsonl"
-
 export const progress = {
   id: "01a05fd3-435e-7d0d-8c81-036d195632f1",
   pageTypeSlug: "page-property-entry",
@@ -26,4 +24,5 @@ export const progress = {
       statement: "A line names a character by name rather than by a relation to that character.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

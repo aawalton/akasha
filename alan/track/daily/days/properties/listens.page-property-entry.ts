@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Listens = "jsonl"
-
 export const listens = {
   id: "01a06240-340f-7001-ad7b-818302ce884a",
   pageTypeSlug: "page-property-entry",
@@ -39,4 +37,5 @@ export const listens = {
       statement: "A listen names no persona.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

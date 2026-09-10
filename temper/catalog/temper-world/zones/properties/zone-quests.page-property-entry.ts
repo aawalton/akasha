@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type ZoneQuests = "jsonl"
-
 export const zoneQuests = {
   id: "01a06167-3f9b-700a-9b12-ff06441e9392",
   pageTypeSlug: "page-property-entry",
@@ -19,4 +17,5 @@ export const zoneQuests = {
       statement: "A quest here is a quest the game counts against the zone that quest is given in.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

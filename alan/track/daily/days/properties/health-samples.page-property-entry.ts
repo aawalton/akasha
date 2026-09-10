@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type HealthSamples = "jsonl"
-
 export const healthSamples = {
   id: "01a060fb-0410-765e-a968-4c9a3477760a",
   pageTypeSlug: "page-property-entry",
@@ -26,4 +24,5 @@ export const healthSamples = {
     { pageProperty: "text-property/source-name", required: true, many: false },
     { pageProperty: "instant-property/arrived-at", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

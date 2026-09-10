@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Bonuses = "jsonl"
-
 export const bonuses = {
   id: "01a05fd1-d437-730d-b6e2-e46b2bc06210",
   pageTypeSlug: "page-property-entry",
@@ -20,4 +18,5 @@ export const bonuses = {
       maxCount: null,
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

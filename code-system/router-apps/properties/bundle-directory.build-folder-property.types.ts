@@ -1,0 +1,1 @@
+export type BundleDirectory = true

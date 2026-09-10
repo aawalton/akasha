@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Effects = "jsonl"
-
 export const effects = {
   id: "01a05fb0-3ceb-742c-998f-6122c9954a30",
   pageTypeSlug: "page-property-entry",
@@ -45,4 +43,5 @@ export const effects = {
       statement: "Which further fields an effect states is settled by the effect type.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

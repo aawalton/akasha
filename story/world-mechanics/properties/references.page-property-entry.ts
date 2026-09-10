@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type References = "jsonl"
-
 export const references = {
   id: "01a06558-a991-78a4-abf8-48597f34d759",
   pageTypeSlug: "page-property-entry",
@@ -48,4 +46,5 @@ export const references = {
         "A quote is carried so a reading can be checked against the text that quote came from.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

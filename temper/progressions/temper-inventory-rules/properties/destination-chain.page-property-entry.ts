@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type DestinationChain = "jsonl"
-
 export const destinationChain = {
   id: "01a07283-f299-71ac-b104-933518a6706d",
   pageTypeSlug: "page-property-entry",
@@ -32,4 +30,5 @@ export const destinationChain = {
       statement: "A rule stating a chain states where the chain ends.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

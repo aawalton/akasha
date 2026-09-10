@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Cards = "jsonl"
-
 export const cards = {
   id: "01a06153-0ea9-7007-944b-5acfb4c2daa1",
   pageTypeSlug: "page-property-entry",
@@ -20,4 +18,5 @@ export const cards = {
       statement: "A card here is a card a patron lets a player upgrade.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

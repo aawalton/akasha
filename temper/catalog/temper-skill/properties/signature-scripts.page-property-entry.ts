@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type SignatureScripts = "jsonl"
-
 export const signatureScripts = {
   id: "01a05fca-cb86-72c5-aca4-0aea9d43b601",
   pageTypeSlug: "page-property-entry",
@@ -14,4 +12,5 @@ export const signatureScripts = {
     { pageProperty: "text-property/class-id", required: false, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

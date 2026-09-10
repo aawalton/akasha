@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type ProcessedMessages = "jsonl"
-
 export const processedMessages = {
   id: "01a06862-a0bc-72d6-b90f-dad9388f4920",
   pageTypeSlug: "page-property-entry",
@@ -43,4 +41,5 @@ export const processedMessages = {
       statement: "An entry is slugged by the id Gmail gives the message.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

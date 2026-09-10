@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Achievements = "jsonl"
-
 export const achievements = {
   id: "01a06168-7245-7004-8aa0-eba39e83a4e6",
   pageTypeSlug: "page-property-entry",
@@ -26,4 +24,5 @@ export const achievements = {
       statement: "The lines run in ascending order of the achievement id.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type CadwellStops = "jsonl"
-
 export const cadwellStops = {
   id: "01a0616b-2cde-7000-91a1-a666b77645cd",
   pageTypeSlug: "page-property-entry",
@@ -21,4 +19,5 @@ export const cadwellStops = {
       statement: "A stop here is one point of interest Cadwell sends a player to.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

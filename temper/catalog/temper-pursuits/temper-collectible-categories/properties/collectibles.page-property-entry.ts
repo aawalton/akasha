@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Collectibles = "jsonl"
-
 export const collectibles = {
   id: "01a06165-ae0e-7002-9050-a3edc1766aec",
   pageTypeSlug: "page-property-entry",
@@ -19,4 +17,5 @@ export const collectibles = {
       statement: "A collectible here is filed by the game under the category with the file.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

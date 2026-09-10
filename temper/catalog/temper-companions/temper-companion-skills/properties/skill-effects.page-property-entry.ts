@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type SkillEffects = "jsonl"
-
 export const skillEffects = {
   id: "01a06197-3a24-7e28-90dd-a1debfd59c2a",
   pageTypeSlug: "page-property-entry",
@@ -68,4 +66,5 @@ export const skillEffects = {
       statement: "A skill with no effect states no effect rather than an empty list.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry

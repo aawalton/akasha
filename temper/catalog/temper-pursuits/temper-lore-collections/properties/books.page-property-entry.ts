@@ -1,7 +1,5 @@
 import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
-export type Books = "jsonl"
-
 export const books = {
   id: "01a06343-f9f7-7004-8521-33a45a47b9b8",
   pageTypeSlug: "page-property-entry",
@@ -19,4 +17,5 @@ export const books = {
       statement: "A book here is a book a player finds in the world and reads into a collection.",
     },
   ],
+  types: "ts",
 } as const satisfies PagePropertyEntry
