@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Words } from "./properties/words.number-property.ts"
-
-export type Unit = Domain & {
-  words: Words
-}
 
 export const unit = {
   id: "01a063de-2c60-7014-9620-56bbc19efcd1",
@@ -33,4 +27,5 @@ export const unit = {
       statement: "Words are the unit every other unit is weighed against.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

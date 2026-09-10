@@ -1,4 +1,4 @@
-import type { Unit } from "../unit.page-type.ts"
+import type { Unit } from "../unit.page-type.types.ts"
 
 export const moments = {
   id: "01a063de-2c60-7018-a15a-54588a807789",

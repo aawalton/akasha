@@ -1,4 +1,4 @@
-import type { Unit } from "../unit.page-type.ts"
+import type { Unit } from "../unit.page-type.types.ts"
 
 export const seconds = {
   id: "01a063de-2c60-7019-8d47-ef61c6043e5d",
