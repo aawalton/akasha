@@ -57,6 +57,9 @@ func makeView(
     case "SafetyLevelWidget":
         let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(SafetyLevelHomeView(entry: FeedEntry(date: date, state: state)))
+    case "CostWidget":
+        let state = try feedState(CostResponse.self, body: body, unreadable: unreadable, refused: refused)
+        return AnyView(CostHomeView(entry: FeedEntry(date: date, state: state)))
     case "SurplusWidget":
         let state = try feedState(SurplusResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(SurplusHomeView(entry: FeedEntry(date: date, state: state)))

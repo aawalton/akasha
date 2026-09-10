@@ -24,6 +24,8 @@ func cases(now: Date) -> [RenderCase] {
 
     all.append(contentsOf: surplusCases())
 
+    all.append(contentsOf: costCases(now: now))
+
     #if HARNESS_ALANWALTON
     func ms(_ secondsFromNow: Double) -> String {
         String(Int((now.timeIntervalSince1970 + secondsFromNow) * 1000))

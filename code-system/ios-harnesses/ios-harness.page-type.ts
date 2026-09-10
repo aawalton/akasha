@@ -11,6 +11,7 @@ export const iosHarness = {
     "ios-harness/render-harness",
     "ios-harness/render-harness-cases",
     "ios-harness/render-harness-cases-categorize",
+    "ios-harness/render-harness-cases-cost",
     "ios-harness/render-harness-cases-safety",
     "ios-harness/render-harness-cases-surplus",
     "ios-harness/render-harness-cases-wide",
