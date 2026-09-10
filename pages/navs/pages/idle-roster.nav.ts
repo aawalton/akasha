@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const idleRoster = {
   id: "01a06577-2613-7010-961a-a4695ecfafb6",

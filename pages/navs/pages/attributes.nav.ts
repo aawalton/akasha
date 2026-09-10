@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const attributes = {
   id: "01a07cd4-f5ec-72f5-b9ca-eae6970234ac",

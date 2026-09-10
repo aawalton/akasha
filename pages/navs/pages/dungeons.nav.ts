@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const dungeons = {
   id: "01a06577-2613-700a-8329-0104551d506c",

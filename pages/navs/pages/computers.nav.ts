@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const computers = {
   id: "01a06577-2613-7007-8711-7018adf1b8fc",

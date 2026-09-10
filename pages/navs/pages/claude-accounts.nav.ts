@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const claudeAccounts = {
   id: "01a06577-2613-7006-abdc-a01dd93b211a",

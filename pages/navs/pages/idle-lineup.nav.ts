@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const idleLineup = {
   id: "01a06577-2613-700f-8b82-8ec2f3e086b1",

@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const books = {
   id: "01a06577-2613-7005-99b8-cfd9e21ea68b",

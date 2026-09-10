@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const temperDungeons = {
   id: "01a06577-2613-701a-80e7-801c65170eab",

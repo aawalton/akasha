@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const series = {
   id: "01a06577-2613-7016-8650-9456c1a6f4b1",

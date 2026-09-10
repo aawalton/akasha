@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const animeAndShows = {
   id: "01a06577-2613-7002-b948-ecff78394ae7",

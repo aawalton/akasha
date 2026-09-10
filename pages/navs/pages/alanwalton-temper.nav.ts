@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const alanwaltonTemper = {
   id: "01a06577-2613-7001-9001-af5438b95e78",

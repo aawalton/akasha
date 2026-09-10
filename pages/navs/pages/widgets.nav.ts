@@ -1,4 +1,4 @@
-import type { Nav } from "../nav.page-type.ts"
+import type { Nav } from "../nav.page-type.types.ts"
 
 export const widgets = {
   id: "01a07c99-c735-71ae-b46f-2147776a5224",
