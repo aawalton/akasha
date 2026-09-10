@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-
-export type FilePurpose = Domain
 
 export const filePurpose = {
   id: "01a06837-0535-7469-ab8e-6bda76b453a7",
@@ -32,4 +29,5 @@ export const filePurpose = {
       statement: "The ending a purpose claims has no property here yet.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
