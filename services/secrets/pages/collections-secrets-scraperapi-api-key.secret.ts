@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsScraperapiApiKey = {
   id: "01a076b7-80c3-7f10-98df-e609509e1646",

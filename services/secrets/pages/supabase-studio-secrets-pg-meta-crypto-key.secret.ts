@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const supabaseStudioSecretsPgMetaCryptoKey = {
   id: "01a06832-cf2d-7c5c-b559-60f87900de9e",

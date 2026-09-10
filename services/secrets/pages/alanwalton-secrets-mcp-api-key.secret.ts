@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const alanwaltonSecretsMcpApiKey = {
   id: "01a076b8-c99e-7131-9583-f1eb92ab5dbb",

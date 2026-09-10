@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const audhdalanSecretsSubscriberOwnerUserId = {
   id: "01a076d8-38bf-7585-85dd-0e544826604d",

@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const subnetRouterAuth = {
   id: "01a06832-cf2d-739c-b805-44e0c58b4757",

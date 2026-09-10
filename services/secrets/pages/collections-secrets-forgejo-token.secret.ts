@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsForgejoToken = {
   id: "01a07697-fc01-7feb-ab00-5fb0dc615c2f",

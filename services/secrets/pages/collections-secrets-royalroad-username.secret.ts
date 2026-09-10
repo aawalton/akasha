@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsRoyalroadUsername = {
   id: "01a076b7-6ea7-7e32-98df-26d00edeeaf2",

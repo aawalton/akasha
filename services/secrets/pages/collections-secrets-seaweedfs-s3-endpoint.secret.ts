@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsSeaweedfsS3Endpoint = {
   id: "01a076b7-a4ae-75e1-abb3-9bace8258839",

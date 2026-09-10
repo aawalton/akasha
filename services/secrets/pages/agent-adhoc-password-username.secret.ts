@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const agentAdhocPasswordUsername = {
   id: "01a0769b-04cc-7e66-80ae-9a01f1ecb672",

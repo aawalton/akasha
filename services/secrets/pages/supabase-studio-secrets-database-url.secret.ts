@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const supabaseStudioSecretsDatabaseUrl = {
   id: "01a06832-cf2d-708e-bb93-5dc6d58ee786",

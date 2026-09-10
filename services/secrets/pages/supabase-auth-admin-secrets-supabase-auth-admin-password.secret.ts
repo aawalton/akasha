@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const supabaseAuthAdminSecretsSupabaseAuthAdminPassword = {
   id: "01a07697-c5f2-7a37-b06c-e4346fc595fa",

@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const alanwaltonSecretsAdminUserId = {
   id: "01a076d8-38b5-71d5-b817-b94f7e9aec4e",

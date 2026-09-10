@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsSpotifyRedirectUri = {
   id: "01a076b7-ed55-7661-9473-ff266ff29d00",

@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const cloudflareApiToken = {
   id: "01a06832-cf2d-7b77-944a-9a5e2b62edfe",

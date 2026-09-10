@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsPostgrestDbUrl = {
   id: "01a076b7-47e0-7c5e-b785-a3d9bdd0aabf",

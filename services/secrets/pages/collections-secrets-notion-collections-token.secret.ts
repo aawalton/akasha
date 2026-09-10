@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsNotionCollectionsToken = {
   id: "01a076b6-ba57-717f-bd7c-674f40b84628",

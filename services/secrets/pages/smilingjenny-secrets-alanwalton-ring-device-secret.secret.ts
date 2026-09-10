@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const smilingjennySecretsAlanwaltonRingDeviceSecret = {
   id: "01a076d8-38bf-7f57-8efc-a545a986068a",

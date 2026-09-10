@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsNextPublicSupabaseAnonKey = {
   id: "01a076b6-a686-738e-b5d6-c8b2e80ecb84",

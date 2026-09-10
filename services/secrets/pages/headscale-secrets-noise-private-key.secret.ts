@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const headscaleSecretsNoisePrivateKey = {
   id: "01a0768b-3fff-70ae-a658-b2b7d2145f87",

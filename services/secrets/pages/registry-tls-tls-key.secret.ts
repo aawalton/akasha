@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const registryTlsTlsKey = {
   id: "01a07697-d73c-7497-a3fd-a6662c7795a5",

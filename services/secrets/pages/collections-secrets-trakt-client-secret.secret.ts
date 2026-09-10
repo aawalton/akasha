@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsTraktClientSecret = {
   id: "01a076b8-124d-76ce-a0f0-999991d61492",

@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Placements } from "./properties/placements.record-property.ts"
-import type { SecretValue } from "./properties/secret-value.text-property.ts"
-
-export type Secret = Page & {
-  placements: Placements
-  value?: SecretValue
-}
 
 export const secret = {
   id: "01a0684a-7d55-7000-bf3d-deee6d805174",
@@ -57,4 +49,5 @@ export const secret = {
       statement: "Something inside akasha places these secrets on the cluster.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

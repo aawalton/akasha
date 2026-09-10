@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const realtimeSecretsSecretKeyBase = {
   id: "01a07699-bf5d-7bed-b050-0703e319d6c1",

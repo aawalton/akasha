@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const lokiS3CredsSecretKey = {
   id: "01a082fc-5366-7a29-8063-3ba10a8dd4c2",

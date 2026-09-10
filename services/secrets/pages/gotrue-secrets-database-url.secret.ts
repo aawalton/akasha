@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const gotrueSecretsDatabaseUrl = {
   id: "01a06832-cf2d-79d5-b7ce-25b4cd7ba81a",

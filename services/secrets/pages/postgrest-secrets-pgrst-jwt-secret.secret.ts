@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const postgrestSecretsPgrstJwtSecret = {
   id: "01a07697-6c3e-787b-b79b-e36bb2224985",

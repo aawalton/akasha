@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsWebhookUsername = {
   id: "01a076b8-60fb-700b-bf69-142fb3ce0222",

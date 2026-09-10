@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsPort = {
   id: "01a076b6-cc30-7f50-a192-1a2a0a2dd04e",

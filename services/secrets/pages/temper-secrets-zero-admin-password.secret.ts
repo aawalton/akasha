@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const temperSecretsZeroAdminPassword = {
   id: "01a076d8-38c1-77b4-b8b9-b9e804daa955",

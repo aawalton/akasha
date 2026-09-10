@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const authenticatorSecretsAuthenticatorPassword = {
   id: "01a07697-2e61-7209-95df-bca3fd6efb4d",

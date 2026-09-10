@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const headscaleSecretsOidcClientSecret = {
   id: "01a0768b-1a0b-793a-a6a3-3c5abb756f0c",

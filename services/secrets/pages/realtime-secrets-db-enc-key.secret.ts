@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const realtimeSecretsDbEncKey = {
   id: "01a07699-6219-7063-a25d-8050d0f6f272",

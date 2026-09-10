@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const etcdSnapshotTalosconfigConfig = {
   id: "01a07697-b12a-7d8d-b188-f5498e5dfc67",

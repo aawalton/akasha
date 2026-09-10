@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const realtimeSecretsApiJwtSecret = {
   id: "01a07699-9fc1-7678-b91d-ef6a1a22b047",

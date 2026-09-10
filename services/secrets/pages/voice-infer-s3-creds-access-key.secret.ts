@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const voiceInferS3CredsAccessKey = {
   id: "01a082fc-2552-7648-9291-73dcd61de6f3",

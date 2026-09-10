@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const collectionsSecretsSupabaseServiceRoleKey = {
   id: "01a076b8-deab-718f-82c2-1ca92e06fdf7",

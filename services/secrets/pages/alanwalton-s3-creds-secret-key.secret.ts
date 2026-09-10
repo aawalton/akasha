@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const alanwaltonS3CredsSecretKey = {
   id: "01a082fc-1720-73cf-85b1-3148e0d48540",

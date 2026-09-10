@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const pgbouncerTlsTlsKey = {
   id: "01a0768e-dcfa-76ec-8099-20de33c43eab",

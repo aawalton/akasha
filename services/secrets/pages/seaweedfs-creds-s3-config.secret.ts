@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const seaweedfsCredsS3Config = {
   id: "01a06832-cf2d-745b-b397-adb52c0acad7",

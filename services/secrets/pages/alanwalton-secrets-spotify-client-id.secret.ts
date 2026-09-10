@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const alanwaltonSecretsSpotifyClientId = {
   id: "01a076d8-38be-7fa5-9c43-d8a2a1adff0e",

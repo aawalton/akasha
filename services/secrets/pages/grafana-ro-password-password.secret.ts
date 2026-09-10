@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const grafanaRoPasswordPassword = {
   id: "01a0769a-a7e7-7c45-adb1-ad104f4a8ca0",

@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const gotrueSecretsGotrueJwtKeys = {
   id: "01a06832-cf2d-7c7c-807f-6fd88b879cc4",

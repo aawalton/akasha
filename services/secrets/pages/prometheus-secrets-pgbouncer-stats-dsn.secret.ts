@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const prometheusSecretsPgbouncerStatsDsn = {
   id: "01a07698-5ad5-75dd-8ad6-61c0372a4e3b",

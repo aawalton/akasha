@@ -1,4 +1,4 @@
-import type { Secret } from "../secret.page-type.ts"
+import type { Secret } from "../secret.page-type.types.ts"
 
 export const gitTransportSecretsGitAccessToken = {
   id: "01a06832-cf2d-7c2b-a782-eb5f6fc1dc27",
