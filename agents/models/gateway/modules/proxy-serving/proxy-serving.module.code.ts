@@ -120,8 +120,8 @@ function listeningOf(server: Server<undefined>): Listening {
 
 export function listenedOn(spec: ListenSpec): Listening {
   const answered = spec.answered
-  const fetch = (req: Request, server: Server<undefined>): Promise<Response> =>
-    answered(req, listeningOf(server))
+  const fetch = (req: Request, serving: Server<undefined>): Promise<Response> =>
+    answered(req, listeningOf(serving))
   const server =
     "unix" in spec ? Bun.serve({ unix: spec.unix, fetch }) : Bun.serve({ port: spec.port, fetch })
   return listeningOf(server)
@@ -252,8 +252,8 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
     threw: doors.threw,
   })
 
-  async function messaged(req: Request, listening: Listening): Promise<Response> {
-    listening.timeout(req, NO_TIMEOUT)
+  async function messaged(req: Request, served: Listening): Promise<Response> {
+    served.timeout(req, NO_TIMEOUT)
     inFlight.begin()
     const ended = buildEndInFlightOnce(inFlight.end)
     const slot: ObserverSlot = { current: null, endInFlight: ended }
@@ -299,7 +299,7 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
   }
 
   function answering(remoteControl: boolean): Answering {
-    return async function answered(req, listening) {
+    return async function answered(req, served) {
       const url = new URL(req.url)
       doors.said(requestLine(logPrefix, req, url.pathname))
       if (req.method === "HEAD" && url.pathname === ROOT_PATH) {
@@ -315,7 +315,7 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
         return Response.json({ rcConnections: rcConn.getCount() })
       }
       if (req.method === "POST" && MESSAGES_PATHS.has(url.pathname)) {
-        return messaged(req, listening)
+        return messaged(req, served)
       }
       return relayed(req, remoteControl)
     }
