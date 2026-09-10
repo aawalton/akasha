@@ -122,10 +122,12 @@ export function keysFor(
     if (filed === null) continue
     const listed = shadow.index.listedAt(filed.pageTypeSlug, filed.slug)[0]
     if (listed === undefined) continue
+    const held = shadow.pageOf(listed.path)
+    const beside = held?.[SECTION] === HOLDS ? typesAtOf(listed.path) : null
     found.push({
       key: exportedAs(filed.propertySlug),
       typeName: typedAs(filed.slug),
-      at: listed.path,
+      at: beside ?? listed.path,
       optional: stated[REQUIRED] !== true || stated[SECRET] === true || stated[FIXED] !== undefined,
     })
   }

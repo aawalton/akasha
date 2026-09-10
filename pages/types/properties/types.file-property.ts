@@ -37,5 +37,10 @@ export const types = {
       statement:
         "A type whose name shadows a global is named here by the page type's name joined to it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key naming a property whose type is written beside that property is taken from that file.",
+    },
   ],
 } as const satisfies FileProperty
