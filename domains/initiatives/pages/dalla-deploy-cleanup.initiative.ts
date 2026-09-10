@@ -8,7 +8,6 @@ export const dallaDeployCleanup = {
   domain: "namespace/infrastructure",
   persona: "dalla",
   intents: [
-    { statement: "Every cluster service has deployed through `akasha infrastructure deploy`." },
     {
       statement: "No competing akasha build or deploy command exists.",
       workingMemory:
@@ -23,6 +22,11 @@ export const dallaDeployCleanup = {
       statement: "Every workstation service has deployed through `akasha infrastructure deploy`.",
       workingMemory:
         "52 workstation service pages, 28 under `services/workstation-services/pages/` and 24 filed beside the code they run, found by the page-type index rather than by folder. One road reaches them: `infrastructure-service install`, which writes systemd user units under `~/.local/state` and links them where systemd reads them. 37 are scheduled and take a timer beside the unit, and 15 run long. That command's page carries the gap that a service akasha carries is reached from the cluster.\n",
+    },
+    {
+      statement: "Every cluster service has deployed through `akasha infrastructure deploy`.",
+      workingMemory:
+        "52 cluster service pages, each naming a manifest whose code beside it emits the yaml. `infrastructure-workload-apply` reaches all 52. `infrastructure-deploy` reaches the five a web app names and adds a source build inside the pod, and both run the same `workload-deploying`. 16 `.generated.yaml` are on disk, so most have never been applied from this checkout. 11 vendored workloads are reached by neither road.",
     },
   ],
   constraints: [
