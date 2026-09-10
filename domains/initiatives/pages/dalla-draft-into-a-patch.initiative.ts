@@ -9,6 +9,11 @@ export const dallaDraftIntoAPatch = {
   persona: "dalla",
   intents: [
     {
+      statement: "No code here works out a unified diff.",
+      workingMemory:
+        "`commands/modules/patching` writes and reads a unified diff; `agents/modules/patch-keeping` keeps one at `<page>.patch.diff`. Only `commands/modules/drafting` calls either. Ten of drafting's exports — `droppedPatch`, `putBack`, `heldIn`, `rebasedOnto`, `wouldHold`, `runningIn`, `drafted`, `tookIn`, `resolved`, `droppedAt` — reach nothing outside those two. Live code takes four types plus `rebasedHeld`, `owedOf`, `runningOf` and `headOf`.\n",
+    },
+    {
       statement: "A seat's logs and socket are uncommitted properties beside that seat's page.",
       workingMemory:
         "`.supervisors/<seat id>/` holds `oauth-proxy.log`, `oauth-proxy.sock`, `oauth-proxy.stderr.log`, `subagent-presence.log` and `supervisor.log`. `supervisor-log-path:4` names the folder, and `supervisor-console`, `supervisor-log-sweeping`, `subagent-census` and `subagent-presence` reach it. The seat page type already holds uncommitted properties, and `page-entry-landing` already names and writes their files.\n",
