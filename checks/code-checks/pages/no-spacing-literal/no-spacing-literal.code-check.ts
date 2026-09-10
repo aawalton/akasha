@@ -7,7 +7,7 @@ export const noSpacingLiteral = {
   slug: "no-spacing-literal",
   definition:
     "the check refusing a gap or padding written out rather than taken from a spacing step",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

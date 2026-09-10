@@ -6,7 +6,7 @@ export const nameFormatJudgesByOneShape = {
   type: "code-check",
   slug: "name-format-judges-by-one-shape",
   definition: "the check refusing a name format not judging by one shape its own code hands over",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

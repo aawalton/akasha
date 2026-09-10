@@ -6,7 +6,7 @@ export const noSecondSpellingOfANameFormat = {
   type: "code-check",
   slug: "no-second-spelling-of-a-name-format",
   definition: "the check refusing a regex spelling the shape a name format states",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

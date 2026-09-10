@@ -6,7 +6,7 @@ export const noTmp = {
   type: "code-check",
   slug: "no-tmp",
   definition: "the check refusing a reach for /tmp, where no scratch of ours sits",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

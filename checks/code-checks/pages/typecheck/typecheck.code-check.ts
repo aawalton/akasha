@@ -6,7 +6,7 @@ export const typecheck = {
   type: "code-check",
   slug: "typecheck",
   definition: "the check refusing TypeScript that does not compile",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

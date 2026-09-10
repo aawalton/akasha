@@ -6,7 +6,7 @@ export const propertyIsDeclaredByAType = {
   type: "code-check",
   slug: "property-is-declared-by-a-type",
   definition: "the check refusing a page property that no page type declares",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

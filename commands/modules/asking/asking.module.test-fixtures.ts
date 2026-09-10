@@ -99,7 +99,7 @@ export function checking(
   root: string,
   slug: string,
   body: string,
-  phase: Phase = "patch"
+  phase: Phase = "change"
 ): undefined {
   minting(root, slug, mintedId(slug), MINTED, body, phase)
 }
@@ -157,7 +157,7 @@ export async function applied(
 }
 
 const NO_AGENT_PAGE =
-  "a patch is kept beside the page of the agent drafting it, and this call names no such page"
+  "the edits are kept beside the page of the agent drafting them, and this call names no such page"
 
 function rowsOver(root: string, changes: readonly FileChange[]): readonly FileChange[] {
   const held = textIn(root)

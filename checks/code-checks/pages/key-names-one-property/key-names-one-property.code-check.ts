@@ -6,7 +6,7 @@ export const keyNamesOneProperty = {
   type: "code-check",
   slug: "key-names-one-property",
   definition: "the check with each of a declarer's keys to one property, narrowed where restated",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

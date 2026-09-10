@@ -11,7 +11,7 @@ export type CodeCheck = Domain & {
   decision?: ModulePropertyGroupCeilings
   check?: ModulePropertyGroupCeilings
   audit?: ModulePropertyGroupCeilings
-  runsOnPatch: RunsOnChange
+  runsOnChange: RunsOnChange
   runsOnWorktree: RunsOnWorktree
   runsOnDeploy: RunsOnDeploy
   runsOnAudit: RunsOnAudit

@@ -6,7 +6,7 @@ export const noClass = {
   type: "code-check",
   slug: "no-class",
   definition: "the check refusing a class that is neither an error type nor a React error boundary",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

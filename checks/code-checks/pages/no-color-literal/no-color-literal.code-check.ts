@@ -6,7 +6,7 @@ export const noColorLiteral = {
   type: "code-check",
   slug: "no-color-literal",
   definition: "the check refusing a color written out rather than taken from a design token",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

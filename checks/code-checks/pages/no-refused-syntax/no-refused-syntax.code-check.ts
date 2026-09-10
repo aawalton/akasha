@@ -7,7 +7,7 @@ export const noRefusedSyntax = {
   slug: "no-refused-syntax",
   definition: "the check refusing a source file with a pattern a syntax rule names",
   parts: ["page-type/syntax-rule"],
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

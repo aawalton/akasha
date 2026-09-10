@@ -10,7 +10,7 @@ const CHECKING_IN = "akasha/checks/modules/checking/checking.module.code.ts"
 
 const INDEXING_IN = "@akasha/indexes/indexing"
 
-const PATCH = "patch"
+const CHANGE = "change"
 
 const loadFrom = createRequire(import.meta.url)
 
@@ -81,7 +81,7 @@ export function indexingLoaded(): Keeping {
 export function gateBuilt(root: string): Built {
   try {
     const held = checkingLoaded()
-    return { gate: held.judgingBy(held.checksAt(held.checksIn(root), PATCH), PATCH) }
+    return { gate: held.judgingBy(held.checksAt(held.checksIn(root), CHANGE), CHANGE) }
   } catch (thrown) {
     return { broken: whyOf(thrown) }
   }

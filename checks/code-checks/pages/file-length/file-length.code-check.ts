@@ -6,7 +6,7 @@ export const fileLength = {
   type: "code-check",
   slug: "file-length",
   definition: "the check refusing a file whose body is over the byte ceiling its kind is held to",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

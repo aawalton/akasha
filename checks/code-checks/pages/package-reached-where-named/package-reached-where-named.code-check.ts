@@ -7,7 +7,7 @@ export const packageReachedWhereNamed = {
   slug: "package-reached-where-named",
   definition:
     "the check holding a package to the name its manifest states and the ways in it names",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

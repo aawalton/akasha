@@ -66,7 +66,7 @@ export const check = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch runs a check for a change to the input the check runs on.",
+      statement: "A change runs a check for a change to the input the check runs on.",
     },
     {
       invariantKind: "departure",
@@ -84,11 +84,11 @@ export const check = {
     },
     {
       invariantKind: "upkeep",
-      statement: "Every check is cheap enough to run at patch.",
+      statement: "Every check is cheap enough to run at change.",
     },
     {
       invariantKind: "upkeep",
-      statement: "Every check runs at patch unless Alan has that check off.",
+      statement: "Every check runs at change unless Alan has that check off.",
     },
     {
       invariantKind: "departure",

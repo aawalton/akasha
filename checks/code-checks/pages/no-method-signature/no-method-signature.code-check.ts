@@ -6,7 +6,7 @@ export const noMethodSignature = {
   type: "code-check",
   slug: "no-method-signature",
   definition: "the check refusing a method signature in an interface or a type literal",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

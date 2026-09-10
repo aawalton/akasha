@@ -78,13 +78,13 @@ test("a check is found by the id its page type carries, whatever slug that page 
 
 test("a check is run once over the whole change, and never over the rest of the tree", async () => {
   const root = rootHolding(REFUSES_CHECK, [ONE_TS, TWO_TS])
-  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [ONE_TS]))
+  const said = await judgingBy(checksIn(root), "change").over(overIn(root, [ONE_TS]))
   expect(said.map((one) => one.path)).toEqual([ONE_TS])
 })
 
 test("a check that threw refuses the change it could not judge, and the refusal names its page", async () => {
   const root = rootHolding(THROWS_CHECK, [ONE_TS])
-  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [ONE_TS]))
+  const said = await judgingBy(checksIn(root), "change").over(overIn(root, [ONE_TS]))
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe("akasha/checks-system/code-check/throws/throws.code-check.ts")
   expect(said[0]?.reason).toContain("could not look")
@@ -95,7 +95,7 @@ test("a check that threw refuses the change it could not judge, and the refusal 
 
 test("a fault raised beneath a check names the file and line it was thrown at, and what called there", async () => {
   const root = rootHolding(THROWS_UNDER_CHECK, [ONE_TS])
-  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [ONE_TS]))
+  const said = await judgingBy(checksIn(root), "change").over(overIn(root, [ONE_TS]))
   const why = said[0]?.reason ?? ""
   expect(why).toContain("could not be made")
   expect(why).toMatch(
@@ -106,7 +106,7 @@ test("a fault raised beneath a check names the file and line it was thrown at, a
 
 test("a path the change takes away is handed to every check, and can be refused", async () => {
   const root = rootHolding(TAKING_CHECK, [STAYS_TS])
-  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [GONE_TS, STAYS_TS]))
+  const said = await judgingBy(checksIn(root), "change").over(overIn(root, [GONE_TS, STAYS_TS]))
   expect(said.map((one) => one.path)).toEqual([GONE_TS])
   expect(said[0]?.reason).toContain("may not be taken away")
 })
@@ -114,14 +114,14 @@ test("a path the change takes away is handed to every check, and can be refused"
 test("a phase takes only the checks that state it", () => {
   const root = rootWith(PHASE_CHECKS)
   const every = checksIn(root)
-  expect(checksAt(every, "patch").map((one) => one.slug)).toEqual(["admits-all"])
+  expect(checksAt(every, "change").map((one) => one.slug)).toEqual(["admits-all"])
   expect(checksAt(every, "deploy").map((one) => one.slug)).toEqual(["refuses-all"])
   expect(checksAt(every, "worktree")).toEqual([])
 })
 
 test("the check a change takes away no longer refuses the change taking it", async () => {
   const root = rootWith(BOTH_CHECKS)
-  const gate = judgingBy(checksIn(root), "patch")
+  const gate = judgingBy(checksIn(root), "change")
   const change = taking(root, [checkAt(REFUSES), checkCodeAt(REFUSES)])
   expect(gate.named).toEqual([ADMITS, REFUSES])
   expect(gate.checksFor(change)).toEqual([ADMITS])
@@ -131,7 +131,7 @@ test("the check a change takes away no longer refuses the change taking it", asy
 test("a check the change leaves still judges the change taking its neighbour away", async () => {
   const root = rootWith(BOTH_CHECKS)
   const gone = [checkAt(ADMITS), checkCodeAt(ADMITS)]
-  const gate = judgingBy(checksIn(root), "patch")
+  const gate = judgingBy(checksIn(root), "change")
   expect(gate.checksFor(taking(root, gone))).toEqual([REFUSES])
   expect((await gate.over(taking(root, gone))).map((one) => one.path)).toEqual(gone)
 })
@@ -139,13 +139,13 @@ test("a check the change leaves still judges the change taking its neighbour awa
 test("a check whose code alone the change takes away does not run", () => {
   const root = rootWith(BOTH_CHECKS)
   expect(
-    judgingBy(checksIn(root), "patch").checksFor(taking(root, [checkCodeAt(REFUSES)]))
+    judgingBy(checksIn(root), "change").checksFor(taking(root, [checkCodeAt(REFUSES)]))
   ).toEqual([ADMITS])
 })
 
 test("a check whose page alone the change takes away does not run", () => {
   const root = rootWith(BOTH_CHECKS)
-  expect(judgingBy(checksIn(root), "patch").checksFor(taking(root, [checkAt(REFUSES)]))).toEqual([
+  expect(judgingBy(checksIn(root), "change").checksFor(taking(root, [checkAt(REFUSES)]))).toEqual([
     ADMITS,
   ])
 })
@@ -153,7 +153,7 @@ test("a check whose page alone the change takes away does not run", () => {
 test("a change taking away every check is refused rather than judged clean", async () => {
   const root = rootWith(ADMITS_CHECK)
   const gone = [checkAt(ADMITS), checkCodeAt(ADMITS)]
-  const said = await judgingBy(checksIn(root), "patch").over(taking(root, gone))
+  const said = await judgingBy(checksIn(root), "change").over(taking(root, gone))
   expect(said.map((one) => one.path)).toEqual([checkAt(ADMITS)])
   expect(said[0]?.reason).toContain("takes away every check")
 })
@@ -208,7 +208,7 @@ test("checks standing but none at a phase leaves that phase empty rather than re
   const root = rootWith(SLEEPING_CHECK)
   const every = checksIn(root)
   expect(every.map((one) => one.slug)).toEqual(["admits-all"])
-  expect(judgingBy(checksAt(every, "patch"), "patch").named).toEqual([])
+  expect(judgingBy(checksAt(every, "change"), "change").named).toEqual([])
 })
 
 test("a check handed a root is run at audit by the audit beside it rather than over the change", async () => {
@@ -227,13 +227,13 @@ test("a check handed no root is run over the change though an audit sits beside 
 
 test("one shadow is cast over the change and handed to every check that runs", async () => {
   const root = rootHolding(SHADOW_CHECK, [ONE_TS])
-  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [ONE_TS]))
+  const said = await judgingBy(checksIn(root), "change").over(overIn(root, [ONE_TS]))
   expect(said).toEqual([])
 })
 
 test("a check no changed path is input to does not run", async () => {
   const root = rootHolding(TWO_CHECKS, [ONE_MD])
-  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [ONE_MD]))
+  const said = await judgingBy(checksIn(root), "change").over(overIn(root, [ONE_MD]))
   expect(said.map((one) => one.reason)).toEqual(["refused"])
   expect(said.map((one) => one.reason)).not.toContain("ts woke")
 })
@@ -262,41 +262,40 @@ test("a check whose input could not be answered runs, its neighbour taken as it 
     "input-throws",
     "input-ts",
   ])
-  expect((await judgingBy(every, "patch").over(overMd)).map((one) => one.reason)).toEqual([
+  expect((await judgingBy(every, "change").over(overMd)).map((one) => one.reason)).toEqual([
     "woke anyway",
   ])
 })
 
 test("a check a changed path is input to runs, and judges every path in the change", async () => {
   const root = rootHolding(TWO_CHECKS, [TWO_TS])
-  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [TWO_TS]))
+  const said = await judgingBy(checksIn(root), "change").over(overIn(root, [TWO_TS]))
   expect(said.map((one) => one.reason).sort()).toEqual(["refused", "ts woke"])
 })
 
 test("a check bounded to the pages sleeps through a change touching a file beside a page alone", async () => {
   const root = pagedRoot()
   const change = overIn(root, [HELD_CODE_AT])
-  expect(judgingBy(checksIn(root), "patch").checksFor(change)).toEqual(["refuses-all"])
-  expect((await judgingBy(checksIn(root), "patch").over(change)).map((one) => one.reason)).toEqual([
-    "refused",
-  ])
+  expect(judgingBy(checksIn(root), "change").checksFor(change)).toEqual(["refuses-all"])
+  const said = await judgingBy(checksIn(root), "change").over(change)
+  expect(said.map((one) => one.reason)).toEqual(["refused"])
 })
 
 test("a page is input to a check bounded to the pages, its input having asked the index", async () => {
   const root = pagedRoot()
   const change = overIn(root, [HELD_PAGE_AT])
-  expect(judgingBy(checksIn(root), "patch").checksFor(change)).toEqual([
+  expect(judgingBy(checksIn(root), "change").checksFor(change)).toEqual([
     "input-pages",
     "refuses-all",
   ])
   expect(
-    (await judgingBy(checksIn(root), "patch").over(change)).map((one) => one.reason).sort()
+    (await judgingBy(checksIn(root), "change").over(change)).map((one) => one.reason).sort()
   ).toEqual(["a page woke", "refused"])
 })
 
 test("`checksFor` names the checks that ran and `named` names every check the gate holds", async () => {
   const root = rootHolding(TWO_CHECKS, [ONE_MD, TWO_TS])
-  const gate = judgingBy(checksIn(root), "patch")
+  const gate = judgingBy(checksIn(root), "change")
   const overMd = overIn(root, [ONE_MD])
   const overBoth = overIn(root, [ONE_MD, TWO_TS])
   expect(gate.named).toEqual(["input-ts", "refuses-all"])
@@ -307,33 +306,33 @@ test("`checksFor` names the checks that ran and `named` names every check the ga
 
 test("a check over its ceiling refuses, and the refusal names the check's own page", async () => {
   const root = rootHolding(BURNS_CHECK, [ONE_TS])
-  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [ONE_TS]))
+  const said = await judgingBy(checksIn(root), "change").over(overIn(root, [ONE_TS]))
   expect(said.map((one) => one.path)).toEqual([checkAt(BURNS)])
   expect(said[0]?.reason).toContain("over the 0 its page states, so what it judged does not land")
 })
 
 test("a check at its ceiling refuses nothing, and one over it names its own page", () => {
   const one = { ...GATHERED, checkCeiling: 1 }
-  expect(ranOver(one, "patch", costing(0.6, 0.4))).toBe(null)
-  const said = ranOver(one, "patch", costing(1.2, 0))
+  expect(ranOver(one, "change", costing(0.6, 0.4))).toBe(null)
+  const said = ranOver(one, "change", costing(1.2, 0))
   expect(said?.path).toBe(checkAt(BURNS))
   expect(said?.reason).toContain("spent 1.2 processor seconds judging this change, over the 1")
 })
 
 test("the time counted is the check's own together with what the check spawns", () => {
   const one = { ...GATHERED, checkCeiling: 1 }
-  expect(ranOver(one, "patch", costing(0.9, 0.05))).toBe(null)
-  expect(ranOver(one, "patch", costing(0.05, 1.5))?.reason).toContain("spent 1.55 processor")
+  expect(ranOver(one, "change", costing(0.9, 0.05))).toBe(null)
+  expect(ranOver(one, "change", costing(0.05, 1.5))?.reason).toContain("spent 1.55 processor")
 })
 
 test("a group stating no ceiling refuses nothing however long its check runs", () => {
-  expect(ranOver(GATHERED, "patch", costing(600, 600))).toBe(null)
-  expect(ranOver({ ...GATHERED, checkCeiling: null }, "patch", costing(600, 600))).toBe(null)
+  expect(ranOver(GATHERED, "change", costing(600, 600))).toBe(null)
+  expect(ranOver({ ...GATHERED, checkCeiling: null }, "change", costing(600, 600))).toBe(null)
 })
 
 test("the phase run decides which group states the ceiling", () => {
   const one = { ...GATHERED, checkCeiling: 9, auditCeiling: 1 }
-  expect(ranOver(one, "patch", costing(2, 0))).toBe(null)
+  expect(ranOver(one, "change", costing(2, 0))).toBe(null)
   expect(ranOver(one, "worktree", costing(2, 0))).toBe(null)
   expect(ranOver(one, "deploy", costing(2, 0))).toBe(null)
   expect(ranOver(one, "audit", costing(2, 0))?.reason).toContain("over the 1 its page states")

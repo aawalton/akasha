@@ -39,7 +39,7 @@ function valueFor(
   slug: string,
   id: string,
   definition: string,
-  phase: Phase = "patch"
+  phase: Phase = "change"
 ): Readonly<Record<string, unknown>> {
   return {
     id,
@@ -47,7 +47,7 @@ function valueFor(
     slug,
     definition,
     code: "ts",
-    runsOnPatch: phase === "patch",
+    runsOnChange: phase === "change",
     runsOnWorktree: phase === "worktree",
     runsOnDeploy: phase === "deploy",
     runsOnAudit: phase === "audit",
@@ -58,7 +58,7 @@ export function pageFor(
   slug: string,
   id: string,
   definition: string,
-  phase: Phase = "patch"
+  phase: Phase = "change"
 ): string {
   const said = Object.entries(valueFor(slug, id, definition, phase))
     .map(([key, one]) => `  ${key}: ${JSON.stringify(one)},`)
@@ -72,7 +72,7 @@ export function minting(
   id: string,
   definition: string,
   code: string,
-  phase: Phase = "patch"
+  phase: Phase = "change"
 ): undefined {
   const at = `akasha/${slug}.${CHECK}.ts`
   mkdirSync(join(root, "akasha"), { recursive: true })

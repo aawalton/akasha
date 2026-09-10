@@ -38,7 +38,7 @@ export type Held = {
 export type Judgement = {
   readonly slug: string
   readonly page: string
-  readonly onPatch: number
+  readonly onChange: number
   readonly onAudit: number
   readonly run: Running
 }
@@ -221,9 +221,9 @@ export function modelChecksIn(root: string): readonly Judgement[] {
     if (stated === null) throw new Error(`${path} is a model check, and answers to no value`)
     const named = slugsIn(stated, "modelTests")
     if (named === null) throw new Error(`${path} is a model check, and names no test`)
-    const onPatch = countIn(stated, "patchRuns")
+    const onChange = countIn(stated, "patchRuns")
     const onAudit = countIn(stated, "auditRuns")
-    if (onPatch < 0 || onAudit < 0) {
+    if (onChange < 0 || onAudit < 0) {
       throw new Error(`${path} is a model check, and states no count of runs a runner can honour`)
     }
     let held: readonly Held[]
@@ -235,9 +235,9 @@ export function modelChecksIn(root: string): readonly Judgement[] {
     found.push({
       slug,
       page: path,
-      onPatch,
+      onChange,
       onAudit,
-      run: runningFor(root, slug, held, onPatch > 0 ? onPatch : onAudit),
+      run: runningFor(root, slug, held, onChange > 0 ? onChange : onAudit),
     })
   }
   return found

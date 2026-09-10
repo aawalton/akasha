@@ -16,7 +16,7 @@ import type { AnyAuditing, AnyRunning, Judged, Judging } from "../judging/judgin
 import { modelChecksIn } from "../model-running/model-running.module.code.ts"
 import { refusalText } from "../refusal-text/refusal-text.module.code.ts"
 
-export type Phase = "patch" | "worktree" | "deploy" | "audit"
+export type Phase = "change" | "worktree" | "deploy" | "audit"
 
 export type Gathered = {
   readonly slug: string
@@ -67,7 +67,7 @@ export function checkPagesIn(root: string): readonly string[] {
 }
 
 const STATED: readonly (readonly [Phase, string])[] = [
-  ["patch", "runsOnPatch"],
+  ["change", "runsOnChange"],
   ["worktree", "runsOnWorktree"],
   ["deploy", "runsOnDeploy"],
   ["audit", "runsOnAudit"],
@@ -207,7 +207,7 @@ export function checksIn(root: string): readonly Gathered[] {
   }
   for (const one of modelChecksIn(root)) {
     const runsOn: Phase[] = []
-    if (one.onPatch > 0) runsOn.push("patch")
+    if (one.onChange > 0) runsOn.push("change")
     if (one.onAudit > 0) runsOn.push("audit")
     found.push({
       slug: one.slug,

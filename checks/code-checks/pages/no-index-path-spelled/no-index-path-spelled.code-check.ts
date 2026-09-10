@@ -7,7 +7,7 @@ export const noIndexPathSpelled = {
   slug: "no-index-path-spelled",
   definition:
     "the check refusing code outside the indexes folder that spells a path into the index",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

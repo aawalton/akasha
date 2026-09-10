@@ -103,7 +103,7 @@ export function rootWith(named: readonly Named[], filedUnder: PageType = CHECK_P
         `  slug: "${one.slug}",\n` +
         `  code: "ts",\n` +
         (one.raw ??
-          `  runsOnPatch: ${one.runsOn.includes("patch")},\n` +
+          `  runsOnChange: ${one.runsOn.includes("change")},\n` +
             `  runsOnWorktree: ${one.runsOn.includes("worktree")},\n` +
             `  runsOnDeploy: ${one.runsOn.includes("deploy")},\n` +
             `  runsOnAudit: ${one.runsOn.includes("audit")},\n`) +
@@ -196,8 +196,8 @@ const INPUT_THROWS =
   "}\n"
 
 export const TWO_CHECKS = [
-  { slug: "input-ts", runsOn: ["patch"], body: INPUT_TS },
-  { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
+  { slug: "input-ts", runsOn: ["change"], body: INPUT_TS },
+  { slug: "refuses-all", runsOn: ["change"], body: REFUSES_ALL },
 ]
 
 export const ADMITS = "admits-all"
@@ -205,34 +205,34 @@ export const ADMITS = "admits-all"
 export const REFUSES = "refuses-all"
 
 export const BOTH_CHECKS = [
-  { slug: ADMITS, runsOn: ["patch"], body: ADMITS_ALL },
-  { slug: REFUSES, runsOn: ["patch"], body: REFUSES_ALL },
+  { slug: ADMITS, runsOn: ["change"], body: ADMITS_ALL },
+  { slug: REFUSES, runsOn: ["change"], body: REFUSES_ALL },
 ]
 
-export const ADMITS_CHECK = [{ slug: ADMITS, runsOn: ["patch"], body: ADMITS_ALL }]
+export const ADMITS_CHECK = [{ slug: ADMITS, runsOn: ["change"], body: ADMITS_ALL }]
 
 export const SLEEPING_CHECK = [{ slug: ADMITS, runsOn: [], body: ADMITS_ALL }]
 
 export const NO_PHASE_CHECK = [{ slug: ADMITS, runsOn: [], raw: "", body: ADMITS_ALL }]
 
 export const UNLOADABLE_CHECK = [
-  { slug: ADMITS, runsOn: ["patch"], body: "export function admitsAll( {\n" },
+  { slug: ADMITS, runsOn: ["change"], body: "export function admitsAll( {\n" },
 ]
 
-export const REFUSES_CHECK = [{ slug: REFUSES, runsOn: ["patch"], body: REFUSES_ALL }]
+export const REFUSES_CHECK = [{ slug: REFUSES, runsOn: ["change"], body: REFUSES_ALL }]
 
 export const PHASE_CHECKS = [
-  { slug: ADMITS, runsOn: ["patch"], body: ADMITS_ALL },
+  { slug: ADMITS, runsOn: ["change"], body: ADMITS_ALL },
   { slug: REFUSES, runsOn: ["deploy"], body: REFUSES_ALL },
 ]
 
-export const THROWS_CHECK = [{ slug: "throws", runsOn: ["patch"], body: THROWS }]
+export const THROWS_CHECK = [{ slug: "throws", runsOn: ["change"], body: THROWS }]
 
-export const THROWS_UNDER_CHECK = [{ slug: "throws-under", runsOn: ["patch"], body: THROWS_UNDER }]
+export const THROWS_UNDER_CHECK = [{ slug: "throws-under", runsOn: ["change"], body: THROWS_UNDER }]
 
-export const TAKING_CHECK = [{ slug: "refuses-taking", runsOn: ["patch"], body: REFUSES_TAKING }]
+export const TAKING_CHECK = [{ slug: "refuses-taking", runsOn: ["change"], body: REFUSES_TAKING }]
 
-export const SHADOW_CHECK = [{ slug: "names-shadow", runsOn: ["patch"], body: NAMES_SHADOW }]
+export const SHADOW_CHECK = [{ slug: "names-shadow", runsOn: ["change"], body: NAMES_SHADOW }]
 
 export const AUDITS_CHECK = [
   { slug: AUDITS, runsOn: ["audit"], body: ADMITS_ALL, audit: AUDITS_ROOT },
@@ -255,13 +255,13 @@ const BURNS_CPU =
   "  }\n" +
   "}\n"
 
-export const BURNS_CHECK = [{ slug: BURNS, runsOn: ["patch"], body: BURNS_CPU, checkCeiling: 0 }]
+export const BURNS_CHECK = [{ slug: BURNS, runsOn: ["change"], body: BURNS_CPU, checkCeiling: 0 }]
 
 export const GATHERED: Gathered = {
   slug: BURNS,
   page: checkAt(BURNS),
   root: ROOT,
-  runsOn: ["patch"],
+  runsOn: ["change"],
   isInput: null,
   run: () => [],
 }
@@ -270,7 +270,7 @@ export function costing(own: number, child: number): Cost {
   return {
     runId: "one",
     ranAt: "",
-    phase: "patch",
+    phase: "change",
     ran: BURNS,
     wallMs: 0,
     cpuSeconds: own,
@@ -335,13 +335,13 @@ export function checksTakenFrom(root: string, slug: string): undefined {
 }
 
 export const INPUT_THROWS_CHECKS = [
-  { slug: "input-throws", runsOn: ["patch"], body: INPUT_THROWS },
-  { slug: "input-ts", runsOn: ["patch"], body: INPUT_TS },
+  { slug: "input-throws", runsOn: ["change"], body: INPUT_THROWS },
+  { slug: "input-ts", runsOn: ["change"], body: INPUT_TS },
 ]
 
 const PAGE_CHECKS = [
-  { slug: "input-pages", runsOn: ["patch"], body: INPUT_PAGES },
-  { slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL },
+  { slug: "input-pages", runsOn: ["change"], body: INPUT_PAGES },
+  { slug: "refuses-all", runsOn: ["change"], body: REFUSES_ALL },
 ]
 
 export function pagedRoot(): string {

@@ -6,7 +6,7 @@ export const checkReachesAPathThroughTheIndex = {
   type: "code-check",
   slug: "check-reaches-a-path-through-the-index",
   definition: "the check refusing a page's code that lists a path the index answers for",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

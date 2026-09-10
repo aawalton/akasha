@@ -61,7 +61,7 @@ export const modelRunning = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A check counting runs for both phases spends its patch count at audit.",
+      statement: "A check counting runs for both phases spends its change count at audit.",
     },
     {
       invariantKind: "stopgap",

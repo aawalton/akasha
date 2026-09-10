@@ -7,7 +7,7 @@ export const instantPropertySlugClosesWithAt = {
   slug: "instant-property-slug-closes-with-at",
   definition:
     "the check refusing a page standing under `instant-property` whose slug does not close with `-at`",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

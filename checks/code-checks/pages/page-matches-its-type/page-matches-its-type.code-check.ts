@@ -7,7 +7,7 @@ export const pageMatchesItsType = {
   slug: "page-matches-its-type",
   definition: "the check refusing a page that does not carry what its page type declares",
   parts: ["module/entry-reasons"],
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

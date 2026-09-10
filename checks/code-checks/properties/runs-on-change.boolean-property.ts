@@ -7,6 +7,6 @@ export const runsOnChange = {
   pageTypeSlug: "boolean-property",
   type: "boolean-property",
   slug: "runs-on-change",
-  propertySlug: "runs-on-patch",
+  propertySlug: "runs-on-change",
   definition: "whether a check judges a set of changes at change",
 } as const satisfies BooleanProperty

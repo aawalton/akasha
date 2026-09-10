@@ -6,7 +6,7 @@ export const typesFileRunsNothing = {
   type: "code-check",
   slug: "types-file-runs-nothing",
   definition: "the check refusing anything but a declaration in a module's types file",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

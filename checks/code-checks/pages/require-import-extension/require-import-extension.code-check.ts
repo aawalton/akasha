@@ -7,7 +7,7 @@ export const requireImportExtension = {
   slug: "require-import-extension",
   definition:
     "the check refusing a relative specifier written without the extension of the file it names",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

@@ -6,7 +6,7 @@ export const repositoryIsWrittenByAChange = {
   type: "code-check",
   slug: "repository-is-written-by-a-change",
   definition: "the check refusing code outside the changes that writes into the repository",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

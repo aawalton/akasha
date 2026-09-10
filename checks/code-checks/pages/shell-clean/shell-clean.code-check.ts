@@ -6,7 +6,7 @@ export const shellClean = {
   type: "code-check",
   slug: "shell-clean",
   definition: "the check refusing a change shellcheck finds fault in",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,

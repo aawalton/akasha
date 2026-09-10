@@ -172,7 +172,7 @@ test("a judging that throws is refused as unjudged rather than answered clean", 
 
 test("naming no check runs every check that runs at audit", () => {
   const atAudit = gathered(["one"], ["audit"])
-  const every = [...atAudit, ...gathered(["two"], ["patch"])]
+  const every = [...atAudit, ...gathered(["two"], ["change"])]
   const said = narrowedTo(every, atAudit, [])
   expect(said.refusals).toEqual([])
   expect(said.checks.map((one) => one.slug)).toEqual(["one"])
@@ -180,13 +180,13 @@ test("naming no check runs every check that runs at audit", () => {
 
 test("naming no check leaves a check that runs at no audit out", () => {
   const atAudit = gathered(["one"], ["audit"])
-  const every = [...atAudit, ...gathered(["two"], ["patch"])]
+  const every = [...atAudit, ...gathered(["two"], ["change"])]
   expect(narrowedTo(every, atAudit, []).checks.map((one) => one.slug)).not.toContain("two")
 })
 
 test("naming a check that runs at no audit runs that check", () => {
   const atAudit = gathered(["one"], ["audit"])
-  const every = [...atAudit, ...gathered(["two"], ["patch"])]
+  const every = [...atAudit, ...gathered(["two"], ["change"])]
   const said = narrowedTo(every, atAudit, ["two"])
   expect(said.refusals).toEqual([])
   expect(said.checks.map((one) => one.slug)).toEqual(["two"])
@@ -264,7 +264,7 @@ test("a run over every check that runs at audit leaves none of them out", () => 
 
 test("a run of a check that runs at no audit leaves every audit check out", () => {
   const atAudit = gathered(["one", "two"], ["audit"])
-  expect(leftOutOf(atAudit, gathered(["three"], ["patch"]))).toBe(2)
+  expect(leftOutOf(atAudit, gathered(["three"], ["change"]))).toBe(2)
 })
 
 test("a flag naming no check is refused", () => {

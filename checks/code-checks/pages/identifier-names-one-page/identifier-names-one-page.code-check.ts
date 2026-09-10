@@ -6,7 +6,7 @@ export const identifierNamesOnePage = {
   type: "code-check",
   slug: "identifier-names-one-page",
   definition: "the check refusing a page with an identifier another page already has",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: true,
   runsOnDeploy: true,
   runsOnAudit: false,

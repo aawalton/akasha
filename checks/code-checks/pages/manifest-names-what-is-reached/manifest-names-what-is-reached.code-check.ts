@@ -7,7 +7,7 @@ export const manifestNamesWhatIsReached = {
   slug: "manifest-names-what-is-reached",
   definition:
     "the check judging a package's dependencies and the packages its own code reaches to be one set",
-  runsOnPatch: true,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
