@@ -55,7 +55,7 @@ export const noUnparsedBoundaryRead = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule landing under `no-refused-syntax` judges every file at patch at once.",
+      statement: "A rule landing under `no-refused-syntax` judges every file at change at once.",
     },
     {
       invariantKind: "departure",

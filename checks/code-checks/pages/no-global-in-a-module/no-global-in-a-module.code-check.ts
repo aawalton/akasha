@@ -57,7 +57,7 @@ export const noGlobalInAModule = {
     },
     {
       invariantKind: "stopgap",
-      statement: "Patch is the only phase Alan approved.",
+      statement: "The change phase is the only phase Alan approved.",
     },
     {
       invariantKind: "stopgap",

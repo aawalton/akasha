@@ -6,5 +6,5 @@ export const check = {
   type: "module-property-group",
   slug: "check",
   propertySlug: "check",
-  definition: "what judges the change a patch carries",
+  definition: "what judges the change a landing carries",
 } as const satisfies ModulePropertyGroup

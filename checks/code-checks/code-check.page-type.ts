@@ -149,20 +149,20 @@ export const codeCheck = {
     },
     {
       invariantKind: "departure",
-      statement: "Patch judges only the paths a change has.",
+      statement: "The change phase judges only the paths a change has.",
     },
     {
       invariantKind: "departure",
-      statement: "Patch turns on before the tree's violation count reaches zero.",
+      statement: "A check runs at change before the tree's violation count reaches zero.",
     },
     {
       invariantKind: "departure",
-      statement: "Patch has the count from rising while the rest stay fixed.",
+      statement: "Running at change has the count from rising while the rest stay fixed.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Patch on means a file still with a violation is refused the next time that file is touched.",
+        "A file still with a violation is refused at change the next time that file is touched.",
     },
     {
       invariantKind: "departure",
