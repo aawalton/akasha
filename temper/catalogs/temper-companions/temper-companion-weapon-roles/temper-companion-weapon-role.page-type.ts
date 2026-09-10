@@ -6,7 +6,7 @@ import type { TemperCompanionThing } from "../temper-companion-things/temper-com
 
 export type TemperCompanionWeaponRole = TemperCompanionThing & {
   weaponSkillLineId: WeaponSkillLineId
-  validMainHandWeaponTypes?: readonly ValidMainHandWeaponTypes[]
+  validMainHandWeaponTypes?: ValidMainHandWeaponTypes
   validOffHandWeaponTypes?: readonly ValidOffHandWeaponTypes[]
 }
 
