@@ -1,4 +1,4 @@
-import type { TemperZone } from "../temper-zone.page-type.ts"
+import type { TemperZone } from "../temper-zone.page-type.types.ts"
 
 export const westernSkyrim = {
   id: "019e17d9-496f-7f5e-bc44-3a45a709fb0b",

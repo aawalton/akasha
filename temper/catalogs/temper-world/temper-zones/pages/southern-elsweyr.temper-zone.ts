@@ -1,4 +1,4 @@
-import type { TemperZone } from "../temper-zone.page-type.ts"
+import type { TemperZone } from "../temper-zone.page-type.types.ts"
 
 export const southernElsweyr = {
   id: "019e17d9-4ce8-70c4-bee3-81da69497303",

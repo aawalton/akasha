@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-import type { DropsScripts } from "../properties/drops-scripts.boolean-property.ts"
-import type { IsDlc } from "../properties/is-dlc.boolean-property.ts"
-
-export type TemperZone = TemperCatalogThing & {
-  dropsScripts: DropsScripts
-  isDlc: IsDlc
-}
 
 export const temperZone = {
   id: "01a05fc4-7a95-7cb3-941e-d82e9f423411",
@@ -21,4 +13,5 @@ export const temperZone = {
     { pageProperty: "boolean-property/drops-scripts", required: true, many: false },
     { pageProperty: "boolean-property/is-dlc", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

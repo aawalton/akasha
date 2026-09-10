@@ -1,4 +1,4 @@
-import type { TemperZone } from "../temper-zone.page-type.ts"
+import type { TemperZone } from "../temper-zone.page-type.types.ts"
 
 export const theReach = {
   id: "019e17d9-4a9e-73cb-8561-4b9709485250",

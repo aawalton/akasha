@@ -1,4 +1,4 @@
-import type { TemperZone } from "../temper-zone.page-type.ts"
+import type { TemperZone } from "../temper-zone.page-type.types.ts"
 
 export const grahtwood = {
   id: "019e17d9-3dd1-7c1c-b121-d149da80cb09",

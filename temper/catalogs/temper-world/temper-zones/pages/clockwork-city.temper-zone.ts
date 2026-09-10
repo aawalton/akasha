@@ -1,4 +1,4 @@
-import type { TemperZone } from "../temper-zone.page-type.ts"
+import type { TemperZone } from "../temper-zone.page-type.types.ts"
 
 export const clockworkCity = {
   id: "019e17d9-5406-772c-a151-5f3be8f22316",

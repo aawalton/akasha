@@ -1,4 +1,4 @@
-import type { TemperZone } from "../temper-zone.page-type.ts"
+import type { TemperZone } from "../temper-zone.page-type.types.ts"
 
 export const cyrodiil = {
   id: "019e17d9-3f19-74b1-b9a5-aa1f431430a1",
