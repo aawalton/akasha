@@ -48,7 +48,7 @@ export const workTreeDeleting = {
     },
     {
       invariantKind: "departure",
-      statement: "Alan is asked to confirm before an initiative goes, in a modal he answers.",
+      statement: "Alan is asked to confirm in a modal before an initiative goes.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +60,7 @@ export const workTreeDeleting = {
     },
     {
       invariantKind: "departure",
-      statement: "A deletion waits the ceiling the harness names rather than one named here.",
+      statement: "A deletion waits the ceiling the harness names rather than a ceiling named here.",
     },
     {
       invariantKind: "departure",
@@ -68,15 +68,15 @@ export const workTreeDeleting = {
     },
     {
       invariantKind: "departure",
-      statement: "The editor is handed in rather than imported, so a test runs outside the editor.",
+      statement: "The editor is handed in rather than imported.",
     },
     {
       invariantKind: "departure",
-      statement: "The harness call is handed in rather than imported, for that same reason.",
+      statement: "The harness call is handed in rather than imported.",
     },
     {
       invariantKind: "departure",
-      statement: "The panel is told a row is going before the command that deletes it is called.",
+      statement: "The panel is told a row is going before the command deleting that row is called.",
     },
     {
       invariantKind: "departure",
@@ -88,15 +88,15 @@ export const workTreeDeleting = {
     },
     {
       invariantKind: "departure",
-      statement: "The panel is told the deletion answered where the command landed it.",
+      statement: "The panel is told the deletion answered where the command landed the deletion.",
     },
     {
       invariantKind: "departure",
-      statement: "A row the command deleted is told to the panel once and no more.",
+      statement: "A row the command deleted is told to the panel once rather than twice.",
     },
     {
       invariantKind: "departure",
-      statement: "The panel is told rather than drawn to, so a test runs outside the editor.",
+      statement: "The panel is told rather than drawn to.",
     },
     {
       invariantKind: "absence",
