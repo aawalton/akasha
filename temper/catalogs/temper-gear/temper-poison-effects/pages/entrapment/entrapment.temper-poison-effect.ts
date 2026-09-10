@@ -1,4 +1,4 @@
-import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
+import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.types.ts"
 
 export const entrapment = {
   id: "019e21f7-0f73-7ef7-a770-a4c141f2939e",

@@ -1,4 +1,4 @@
-import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
+import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.types.ts"
 
 export const fracture = {
   id: "019e21f7-0f68-75f6-9e3d-fc3dc0eeaa27",

@@ -1,4 +1,4 @@
-import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
+import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.types.ts"
 
 export const uncertainty = {
   id: "019e21f7-0f6f-7ad0-85d3-ac6bbe655d81",

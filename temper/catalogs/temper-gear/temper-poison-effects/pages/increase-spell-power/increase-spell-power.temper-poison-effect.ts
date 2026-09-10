@@ -1,4 +1,4 @@
-import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.ts"
+import type { TemperPoisonEffect } from "../../temper-poison-effect.page-type.types.ts"
 
 export const increaseSpellPower = {
   id: "019e21f7-0f6a-707f-a5ba-ef91f94d2cac",
