@@ -2,7 +2,6 @@ import type { SyncResult } from "../sync-result/sync-result.module.code.ts"
 import type { CalendarSource } from "../sync-source/sync-source.module.code.ts"
 
 export const SOURCE_SLUG = "calendar-event-source"
-export const SOURCES_QUERY = "calendar-event-sources-all"
 
 export type SourceRow = {
   readonly values: Readonly<Record<string, unknown>>
@@ -42,11 +41,9 @@ export function targetsIn(
   return wanted
 }
 
-const NO_SAVED_QUERY =
-  "a saved query is answered by the page engine that has been removed. ask `@akasha/pages-service/calling` for every `calendar-event-source` page and hand its rows to `targetsIn`"
+const NO_SOURCE_READING =
+  "nothing here reads the sources yet. ask `@akasha/pages-service/calling` for every `calendar-event-source` page and hand its rows to `targetsIn`"
 
 export async function syncAll(_options: SyncAllOptions = {}): Promise<SyncResult> {
-  throw new Error(
-    `calendar sync could not read its sources: \`${SOURCES_QUERY}\` went unasked — ${NO_SAVED_QUERY}`
-  )
+  throw new Error(`calendar sync could not read its sources — ${NO_SOURCE_READING}`)
 }
