@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { REFUSES_CODE } from "akasha/testing-system/minting/minting.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
-import { landingAsked } from "./asking.module.code.ts"
+import { landingAsked, MECHANICAL, NO_CHECKS, wroteAndTook } from "./asking.module.code.ts"
 import {
   applied,
   asking,
@@ -12,6 +12,7 @@ import {
   checking,
   commitIn,
   givenIn,
+  heldIn,
   landedFrom,
   PROPOSED,
   REFUSES_TAKING,
@@ -115,6 +116,30 @@ test("breaking the glass runs no check and says so in the commit", async () => {
   expect(said.code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
   expect(commitIn(root, said)).toContain("Checks-bypassed: the checks are themselves broken")
+})
+
+test("a change kind running no check runs none and writes nothing into the commit", async () => {
+  const root = repoWith()
+  checking(root, "refuses", REFUSES_CODE)
+  const said = await landingAsked(
+    { ...givenIn(root), agentId: null, changeKind: MECHANICAL },
+    asking({ saying: wroteAndTook })
+  )
+  expect(said.code).toBe(0)
+  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(PROPOSED)
+  expect(said.report).toContain(`a \`change-mechanical\` change ${NO_CHECKS}`)
+  expect(commitIn(root, said)).not.toContain("Checks-bypassed")
+})
+
+test("a landing that is no draft lands no patch kept beside an agent's page", async () => {
+  const root = repoWith()
+  expect(seeded(root)).toBe(true)
+  const said = await landingAsked(
+    { ...givenIn(root), agentId: null, changeKind: MECHANICAL },
+    asking({ saying: wroteAndTook })
+  )
+  expect(said.code).toBe(0)
+  expect(heldIn(root, "akasha/one.ts")).toBe("committed\n")
 })
 
 test("a body that lands is recorded as read, so writing over it again is not refused", async () => {
