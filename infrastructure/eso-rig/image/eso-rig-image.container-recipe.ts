@@ -1,4 +1,4 @@
-import type { ContainerRecipe } from "@akasha/code/container-recipe"
+import type { ContainerRecipe } from "akasha/code-system/container-recipes/container-recipe.page-type.types.ts"
 
 export const esoRigImage = {
   id: "01a06866-58f8-7e1d-aa92-5be1e93a86f2",

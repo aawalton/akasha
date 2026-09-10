@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Recipe } from "./properties/recipe.file-property.ts"
-
-export type ContainerRecipe = Domain & {
-  recipe: Recipe
-}
 
 export const containerRecipe = {
   id: "01a06815-9efd-7003-8c8e-4c03b44672b2",
@@ -42,4 +36,5 @@ export const containerRecipe = {
       statement: "A recipe says nothing about where its image is pushed.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

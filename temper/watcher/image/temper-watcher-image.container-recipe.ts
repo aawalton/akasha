@@ -1,4 +1,4 @@
-import type { ContainerRecipe } from "@akasha/code/container-recipe"
+import type { ContainerRecipe } from "akasha/code-system/container-recipes/container-recipe.page-type.types.ts"
 
 export const temperWatcherImage = {
   id: "01a0685d-ab5d-72a9-b18a-46c3a7cd02ff",
