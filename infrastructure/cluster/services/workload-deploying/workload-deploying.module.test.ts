@@ -9,6 +9,7 @@ import {
   type Manifest,
   namedIn,
   opensTheNamespace,
+  placedIn,
   planFor,
   rolloutOf,
   unfilledIn,
@@ -113,6 +114,13 @@ test("a manifest opening no namespace is applied into the workload's own", () =>
     "-f",
     "-",
   ])
+})
+
+test("what is asked whether a manifest matches is placed where the apply places it", () => {
+  const plan = { workload: WEB, synthPath: SYNTH_AT, manifests: [manifest({})] }
+  expect(placedIn(plan, manifest({}))).toEqual(["-n", "one"])
+  const opening = manifest({ kind: "Namespace", resourceName: "one", namespace: null })
+  expect(placedIn(plan, opening)).toEqual([])
 })
 
 test("a workload carrying a pod template is waited on", () => {

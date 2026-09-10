@@ -55,5 +55,10 @@ export const workloadDeploying = {
       invariantKind: "absence",
       statement: "Nothing here builds the app a pod serves.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Asking whether a manifest already matches reaches the namespace the apply reaches.",
+    },
   ],
 } as const satisfies Module

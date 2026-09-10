@@ -130,7 +130,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
 
   let differs = false
   for (const manifest of plan.manifests) {
-    const applied = appliedOf(manifest)
+    const applied = appliedOf(plan, manifest)
     if ("why" in applied) return { report, refusals: [applied.why], code: OPERATIONAL }
     report.push(`manifest\t${manifest.path}\t${applied.stands ? "stands" : "differs"}`)
     if (!applied.stands) differs = true

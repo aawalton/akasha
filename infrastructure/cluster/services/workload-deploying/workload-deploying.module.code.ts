@@ -168,8 +168,12 @@ export function unfilledOf(plan: Plan): readonly string[] {
 
 export type Matched = { readonly stands: boolean } | { readonly why: string }
 
-export function appliedOf(manifest: Manifest): Matched {
-  const ran = runKubectlOn(["diff", "-f", "-"], manifest.yaml)
+export function placedIn(plan: Plan, manifest: Manifest): readonly string[] {
+  return opensTheNamespace(manifest, plan.workload) ? [] : ["-n", plan.workload.namespace]
+}
+
+export function appliedOf(plan: Plan, manifest: Manifest): Matched {
+  const ran = runKubectlOn(["diff", ...placedIn(plan, manifest), "-f", "-"], manifest.yaml)
   if (ran.code === 0) return { stands: true }
   if (ran.code === 1) return { stands: false }
   return { why: `kubectl diff for ${manifest.path} exited ${ran.code}: ${ran.stderr.trim()}` }
@@ -214,8 +218,7 @@ export function writeManifests(root: string, plan: Plan): readonly string[] {
 }
 
 export function applyOf(plan: Plan, manifest: Manifest): readonly string[] {
-  const placed = opensTheNamespace(manifest, plan.workload) ? [] : ["-n", plan.workload.namespace]
-  return ["apply", "--server-side", "--force-conflicts", ...placed, "-f", "-"]
+  return ["apply", "--server-side", "--force-conflicts", ...placedIn(plan, manifest), "-f", "-"]
 }
 
 export function rolloutOf(plan: Plan): readonly string[] | null {

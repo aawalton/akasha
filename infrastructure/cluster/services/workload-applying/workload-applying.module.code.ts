@@ -127,7 +127,7 @@ export async function appliedWorkload(
 
   let differs = false
   for (const manifest of plan.manifests) {
-    const applied = appliedOf(manifest)
+    const applied = appliedOf(plan, manifest)
     if ("why" in applied) return { report, refusals: [applied.why], code: OPERATIONAL }
     report.push(`manifest\t${manifest.path}\t${applied.stands ? "matches" : "differs"}`)
     if (!applied.stands) differs = true
