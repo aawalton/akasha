@@ -1,0 +1,70 @@
+import { existsSync, mkdirSync, readlinkSync, renameSync, symlinkSync } from "node:fs"
+import { dirname, join } from "node:path"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+
+const MODULE = "module"
+
+const DISPATCH = "hook-dispatch"
+
+const CODE = "code"
+
+const TS = "ts"
+
+const HOME = "HOME"
+
+const UNDER = [".local", "state", "akasha", "hooks"]
+
+export function linksAt(): string {
+  const home = process.env[HOME]
+  if (home === undefined || home === "") {
+    throw new Error(`\`${HOME}\` names no folder, so where a hook is registered through is unknown`)
+  }
+  return join(home, ...UNDER)
+}
+
+export function linkFor(event: string): string {
+  return join(linksAt(), event)
+}
+
+export function dispatchAt(root: string): string {
+  const listed = listedAt(root, MODULE, DISPATCH)
+  const page = listed.length === 1 ? listed[0]?.path : undefined
+  if (page === undefined) {
+    throw new Error(
+      `the index answers no one page for \`${MODULE}/${DISPATCH}\`, and every hook is reached ` +
+        "through the code that page sits beside"
+    )
+  }
+  const beside = besideAt(page, CODE, TS)
+  if (beside === null) {
+    throw new Error(`\`${page}\` is the page for \`${MODULE}/${DISPATCH}\` and sits beside no code`)
+  }
+  const at = join(root, beside)
+  if (!existsSync(at)) {
+    throw new Error(`\`${MODULE}/${DISPATCH}\` names \`${beside}\`, and nothing is there to run`)
+  }
+  return at
+}
+
+export function linkedTo(at: string, event: string): undefined {
+  const link = linkFor(event)
+  let held: string | null
+  try {
+    held = readlinkSync(link)
+  } catch {
+    held = null
+  }
+  if (held === at) return undefined
+  mkdirSync(dirname(link), { recursive: true })
+  const tmp = `${link}.tmp-${process.pid}`
+  symlinkSync(at, tmp)
+  renameSync(tmp, link)
+  return undefined
+}
+
+export function linksMade(root: string, events: readonly string[]): undefined {
+  const at = dispatchAt(root)
+  for (const event of events) linkedTo(at, event)
+  return undefined
+}

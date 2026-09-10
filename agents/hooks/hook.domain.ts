@@ -18,6 +18,8 @@ export const hook = {
     "module/path-showing",
     "module/settling",
     "module/shell-calls",
+    "module/hook-dispatch",
+    "module/hook-links",
   ],
   invariants: [
     {
