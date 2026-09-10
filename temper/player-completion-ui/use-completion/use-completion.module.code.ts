@@ -8,6 +8,7 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { useMemo } from "react"
 
 const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"
@@ -73,10 +74,6 @@ function parseStringArray(value: unknown): readonly string[] {
   return value.filter((v): v is string => typeof v === "string")
 }
 
-function isObject(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
-
 function asCharacterCompletion(value: unknown): CharacterCompletion {
   return value as CharacterCompletion
 }
@@ -90,15 +87,15 @@ function asAccountCompletion(value: unknown): AccountCompletion {
 }
 
 function parseCharacterCompletion(value: unknown): CharacterCompletion | null {
-  return isObject(value) ? asCharacterCompletion(value) : null
+  return isRecord(value) ? asCharacterCompletion(value) : null
 }
 
 function parseCompanionCompletion(value: unknown): CompanionCompletion | null {
-  return isObject(value) ? asCompanionCompletion(value) : null
+  return isRecord(value) ? asCompanionCompletion(value) : null
 }
 
 function parseAccountCompletion(value: unknown): AccountCompletion | null {
-  return isObject(value) ? asAccountCompletion(value) : null
+  return isRecord(value) ? asAccountCompletion(value) : null
 }
 
 function mapCharacterRow(row: Record<string, unknown>): CompletionCharacterRow {

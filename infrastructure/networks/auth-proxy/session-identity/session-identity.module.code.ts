@@ -1,4 +1,5 @@
 import { createPublicKey, verify as cryptoVerify } from "node:crypto"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
 import { CONFIG } from "../config/auth-proxy-config.module.code.ts"
 import { parseSupabaseCookieMatch } from "../cookie-match-core/cookie-match-core.module.code.ts"
@@ -27,10 +28,6 @@ function extractSupabaseCookieValue(cookieHeader: string): string | null {
   if (chunks.length === 0) return null
   chunks.sort((a, b) => a.idx - b.idx)
   return chunks.map((c) => c.value).join("")
-}
-
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
 }
 
 const SessionCookieSchema = z.unknown()

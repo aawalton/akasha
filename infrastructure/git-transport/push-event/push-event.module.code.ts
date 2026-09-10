@@ -1,3 +1,5 @@
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
+
 interface HookPayload {
   ref: string
   before: string
@@ -6,10 +8,6 @@ interface HookPayload {
 }
 
 const NULL_SHA = "0000000000000000000000000000000000000000"
-
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
 
 function isHookPayload(value: unknown): value is HookPayload {
   return (

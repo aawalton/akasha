@@ -4,6 +4,7 @@ import { homedir } from "node:os"
 import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { valuesOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { numberAt, textAt } from "akasha/pages/value/page-value.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import {
   errnoCodeOf,
@@ -123,10 +124,6 @@ export function logFilePath(seq: number, app: string): string {
 
 export function ensureDevServerDirs(seq: number): undefined {
   mkdirSync(devServerLogDir(seq), { recursive: true })
-}
-
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
 }
 
 export function parseState(raw: string): DevServerState {

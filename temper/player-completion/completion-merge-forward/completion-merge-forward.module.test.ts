@@ -4,6 +4,7 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/completion/completion-progress/completion-progress.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import fc from "fast-check"
 import {
   deepForward,
@@ -52,10 +53,6 @@ function makeMorph(over: {
   }
 }
 
-function isPlainObject(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
-
 function dominatesForward(merged: unknown, base: unknown): boolean {
   if (base === undefined) return true
   if (typeof base === "number") {
@@ -69,8 +66,8 @@ function dominatesForward(merged: unknown, base: unknown): boolean {
     const present = new Set<unknown>(merged)
     return base.every((entry) => present.has(entry))
   }
-  if (isPlainObject(base)) {
-    if (!isPlainObject(merged)) return false
+  if (isRecord(base)) {
+    if (!isRecord(merged)) return false
     return Object.keys(base).every((key) => dominatesForward(merged[key], base[key]))
   }
   return true

@@ -1,3 +1,4 @@
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
 
 export interface RunningSubagent {
@@ -26,16 +27,12 @@ const STOPPED_BY_USER = /\bAgent ([A-Za-z0-9]+) was stopped by the user\b/
 
 type Json = Record<string, unknown>
 
-export function isJsonObject(value: unknown): value is Json {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
-}
-
 const NOTIFICATION_BLOCKS = z.array(z.string())
 
 const ID_MATCH = z.array(z.string()).min(2)
 
 function asObject(value: unknown): Json | null {
-  return isJsonObject(value) ? value : null
+  return isRecord(value) ? value : null
 }
 
 function asArray(value: unknown): readonly unknown[] {

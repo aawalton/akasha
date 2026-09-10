@@ -1,4 +1,5 @@
 import * as path from "node:path"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
 import {
   anchorEnding,
@@ -10,14 +11,13 @@ import {
   applyRecord,
   emptySubagentState,
   endedSubagents,
-  isJsonObject,
   type RunningSubagent,
   runningSubagents,
   type SubagentState,
 } from "../subagent-core/subagent-core.module.code.ts"
 import { emptyTail, foldTail, type Tail } from "../tail-fold/tail-fold.module.code.ts"
 
-const TRANSCRIPT_RECORD = z.custom<Record<string, unknown>>(isJsonObject)
+const TRANSCRIPT_RECORD = z.custom<Record<string, unknown>>(isRecord)
 
 export interface SubagentNode {
   readonly key: string

@@ -1,4 +1,5 @@
 import type { ComfyGraph } from "akasha/inference/comfy/graph/comfy-graph.module.code.ts"
+import { isRecord } from "akasha/utils/narrow/is-record/is-record.module.code.ts"
 import { z } from "zod"
 
 const UploadSchema = z.looseObject({
@@ -70,10 +71,6 @@ export function decidePollStep(entry: HistoryEntry | undefined): PollDecision {
   if (image !== undefined) return { kind: "image", image }
   const terminal = entry.status?.completed === true || entry.status?.status_str === "success"
   return terminal ? { kind: "recover" } : { kind: "pending" }
-}
-
-function isRecord(value: unknown): value is Record<string, unknown> {
-  return typeof value === "object" && value !== null && !Array.isArray(value)
 }
 
 function canonicalize(value: unknown): string {
