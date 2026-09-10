@@ -1,4 +1,4 @@
-import { getBrowserClient } from "@akasha/supabase-rr/browser-client"
+import { getBrowserClient } from "akasha/alan/harness/supabase-rr/browser-client/browser-client.module.code.ts"
 import { API_ORIGIN } from "../api-origin/api-origin.module.code.ts"
 import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 

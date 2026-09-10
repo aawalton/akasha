@@ -1,4 +1,4 @@
-import { refreshSession } from "@akasha/supabase-rr/session-refresh"
+import { refreshSession } from "akasha/alan/harness/supabase-rr/session-refresh/session-refresh.module.code.ts"
 import { redirect } from "react-router"
 
 export async function action({ request }: { request: Request }) {

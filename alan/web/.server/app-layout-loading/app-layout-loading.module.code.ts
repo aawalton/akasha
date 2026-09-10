@@ -1,5 +1,5 @@
 import { getPages } from "@akasha/pages-access/get"
-import { getUser } from "@akasha/supabase-rr/auth-server"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 import { ALANWALTON_APP_SLUG } from "../../alan-app-id/alan-app-id.module.code.ts"
 

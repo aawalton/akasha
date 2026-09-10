@@ -1,5 +1,5 @@
 import { answerPages as answerFrom, pagesDeps } from "@akasha/pages-access/answer"
-import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
+import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import {
   capacitorCorsHeaders,
   corsAnswered,

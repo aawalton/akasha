@@ -6,7 +6,7 @@ import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-res
 import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"
 import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages-ui-store/singleton"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
+import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { type ReactNode, useEffect, useRef, useState } from "react"
 import { z } from "zod"
 import { useTemperPagesResolver } from "../temper-pages-resolver/temper-pages-resolver.module.code.ts"

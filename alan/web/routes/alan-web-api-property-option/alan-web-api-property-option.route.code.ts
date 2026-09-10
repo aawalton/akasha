@@ -1,4 +1,4 @@
-import { getUser } from "@akasha/supabase-rr/auth-server"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { z } from "zod"
 import { unheld } from "../../pages-unheld/pages-unheld.module.code.ts"
 

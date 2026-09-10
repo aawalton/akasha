@@ -1,6 +1,6 @@
 "use client"
 
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
+import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { useEffect } from "react"
 import { getApp } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 import { wireNativeAuthRefresh } from "../native-auth-refresh/native-auth-refresh.module.code.ts"

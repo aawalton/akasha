@@ -1,7 +1,7 @@
 import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { getPageTypeByPluralSlug } from "@akasha/pages-access/page-type"
 import { PagesFilteredContent } from "@akasha/pages-ui/components/pages-by-relation-content"
-import { createServerClient } from "@akasha/supabase-rr/server-client"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { Suspense } from "react"
 import { data } from "react-router"
 import type { Route } from "./+types/archive-of-worlds-page-listing.route.code"

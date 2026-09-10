@@ -4,7 +4,7 @@ import { getPageByIdSuffix, getPageByIdSuffixAcrossTypes } from "@akasha/pages-a
 import { getDescendantPageTypeSlugs } from "@akasha/pages-access/page-type"
 import { PageDetailContent } from "@akasha/pages-ui/components/page-detail-content"
 import { ViewPageContent } from "@akasha/pages-ui/components/view-page-content"
-import { createServerClient } from "@akasha/supabase-rr/server-client"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { data } from "react-router"
 
 const NAV_SLUG = "nav"

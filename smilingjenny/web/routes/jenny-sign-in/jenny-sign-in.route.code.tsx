@@ -1,4 +1,4 @@
-import { signInWithPassword } from "@akasha/supabase-rr/auth-client"
+import { signInWithPassword } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
 import { AuthPageContent } from "akasha/design/patterns/auth-page-content/auth-page-content.module.code.tsx"
 
 export default function SignIn() {

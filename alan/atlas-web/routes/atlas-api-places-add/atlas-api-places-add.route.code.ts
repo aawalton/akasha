@@ -1,8 +1,8 @@
 import { buildPageHref, slugStem } from "@akasha/pages/url/page-href"
 import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { createPage } from "@akasha/pages-access/create"
-import { getUser } from "@akasha/supabase-rr/auth-server"
-import { createServerClient } from "@akasha/supabase-rr/server-client"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { placeCandidateSchema } from "../../place-candidate/place-candidate.module.code.ts"
 
 const LOCATION_PAGE_TYPE_SLUG = "location"

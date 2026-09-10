@@ -2,10 +2,13 @@ import { CommandPalette } from "@akasha/design-primitives/command-palette"
 import { ShortcutSheet } from "@akasha/design-primitives/shortcut-sheet"
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
 import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
-import { type AuthRouteConfig, authGuard } from "@akasha/supabase-rr/auth-guard"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
+import {
+  type AuthRouteConfig,
+  authGuard,
+} from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
 import {

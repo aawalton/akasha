@@ -49,7 +49,7 @@ export const alanHarness = {
     "domain/errors-core",
     "domain/supabase-client",
     "domain/errors-client",
-    "workspace-package/supabase-rr",
+    "domain/supabase-rr",
     "domain/status-bar-access",
     "domain/mobile-cli",
     "domain/icloud-photos",

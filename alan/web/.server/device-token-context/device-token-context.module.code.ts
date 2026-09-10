@@ -1,5 +1,9 @@
-import { getUser, getUserFromBearerToken, parseBearerToken } from "@akasha/supabase-rr/auth-server"
-import { createServerClient } from "@akasha/supabase-rr/server-client"
+import {
+  getUser,
+  getUserFromBearerToken,
+  parseBearerToken,
+} from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 
 export type DeviceTokenContext =
   | { authenticated: true; userId: string; headers: Headers }

@@ -1,6 +1,6 @@
 import { getPage, getPages } from "@akasha/pages-access/get"
-import { getUser } from "@akasha/supabase-rr/auth-server"
-import { createServerClient } from "@akasha/supabase-rr/server-client"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { PageLayoutSkeleton } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { Suspense } from "react"

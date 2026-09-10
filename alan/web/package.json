@@ -49,7 +49,6 @@
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
-    "@akasha/supabase-rr": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",
     "@fontsource-variable/literata": "^5.2.5",

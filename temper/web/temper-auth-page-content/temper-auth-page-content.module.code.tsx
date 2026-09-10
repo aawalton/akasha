@@ -2,7 +2,10 @@
 
 import { safeInternalPath } from "@akasha/pages/url/safe-target"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { signInWithPassword, signUpWithPassword } from "@akasha/supabase-rr/auth-client"
+import {
+  signInWithPassword,
+  signUpWithPassword,
+} from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
 import {
   type AuthMode,
   type AuthSubmitPayload,

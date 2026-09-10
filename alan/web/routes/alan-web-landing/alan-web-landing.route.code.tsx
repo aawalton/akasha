@@ -1,5 +1,5 @@
 import { Heading } from "@akasha/design-primitives/heading"
-import { getUser } from "@akasha/supabase-rr/auth-server"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { Link, redirect } from "react-router"

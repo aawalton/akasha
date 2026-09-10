@@ -1,5 +1,5 @@
 import { collectPages } from "@akasha/pages-access/iterate"
-import { createServerClient } from "@akasha/supabase-rr/server-client"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { data } from "react-router"
 import { z } from "zod"

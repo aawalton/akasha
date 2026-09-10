@@ -13,7 +13,7 @@ import {
 import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { signOut } from "@akasha/supabase-rr/auth-client"
+import { signOut } from "akasha/alan/harness/supabase-rr/auth-client/auth-client.module.code.ts"
 import { AppShell as SharedAppShell } from "akasha/design/layout/app-shell/app-shell.module.code.tsx"
 import type { AppNavConfig } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
 import {

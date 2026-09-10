@@ -1,5 +1,5 @@
 import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
-import { getUser } from "@akasha/supabase-rr/auth-server"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { PageLayoutSkeleton } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { Suspense } from "react"

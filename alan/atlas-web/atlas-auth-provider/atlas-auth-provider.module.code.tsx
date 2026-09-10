@@ -5,7 +5,7 @@ import { useAppVersionCheck } from "@akasha/pages-ui/app-version/use-app-version
 import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"
 import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages-ui-store/singleton"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
+import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { useEffect, useRef, useState } from "react"
 import { z } from "zod"
 

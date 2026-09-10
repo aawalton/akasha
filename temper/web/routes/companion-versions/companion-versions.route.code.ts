@@ -1,6 +1,6 @@
 import { getPages } from "@akasha/pages-access/get"
-import { getUser } from "@akasha/supabase-rr/auth-server"
-import { createServerClient } from "@akasha/supabase-rr/server-client"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { createServerClient } from "akasha/alan/harness/supabase-rr/server-client/server-client.module.code.ts"
 import { buildId as toBuildId } from "../../../formula-framework/branded-id/branded-id.module.code.ts"
 import type { Route } from "./+types/companion-versions.route.code"
 

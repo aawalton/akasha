@@ -1,5 +1,5 @@
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
-import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
+import { resolveRequestUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import {
   ensureReadAloudRendition,
   resolveChapterKokoroSegments,

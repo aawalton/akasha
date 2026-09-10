@@ -1,4 +1,4 @@
-import { getUser } from "@akasha/supabase-rr/auth-server"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { z } from "zod"
 import { searchPlaces } from "../../.server/geoapify-search/geoapify-search.module.code.ts"
 

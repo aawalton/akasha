@@ -8,7 +8,7 @@ import { resolveShellHlsSrc, resolveShellMediaSrc } from "@akasha/alanwalton-web
 import { Toaster } from "@akasha/design-primitives/sonner"
 import { PlayingSessionProvider } from "@akasha/pages-ui/media/playing-session-context"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
+import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { type ReactNode, useMemo } from "react"
 import { Outlet } from "react-router"
 

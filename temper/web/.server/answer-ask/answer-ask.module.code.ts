@@ -1,5 +1,5 @@
 import { postingTo } from "@akasha/pages/query/fetcher"
-import { getUser } from "@akasha/supabase-rr/auth-server"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 
 const SIGNED_IN_ONLY = "this route answers a signed-in reader only"
 

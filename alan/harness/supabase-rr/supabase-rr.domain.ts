@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../../domains/domain.page-type.types.ts"
 
 export const supabaseRr = {
   id: "01a05c97-8af3-7dbb-b6b0-4fd120a787a9",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "supabase-rr",
   definition: "Supabase reached from a React Router app, on the server and in the browser",
-  manifest: "json",
+
   parts: [
     "module/auth-mode",
     "module/cookie-options",
@@ -37,4 +37,4 @@ export const supabaseRr = {
       statement: "A request has the client and the session the request worked out.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

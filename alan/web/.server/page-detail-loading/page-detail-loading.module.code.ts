@@ -14,11 +14,11 @@ import {
 } from "@akasha/pages-access/page-type-config"
 import type { ReaderNeighborLink } from "@akasha/pages-ui/components/reader-chrome"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
+import { isRecord } from "@akasha/utils/narrow/is-record"
 import {
   getRequestServerClient,
   resolveRequestSession,
-} from "@akasha/supabase-rr/request-session-cache"
-import { isRecord } from "@akasha/utils/narrow/is-record"
+} from "akasha/alan/harness/supabase-rr/request-session-cache/request-session-cache.module.code.ts"
 import {
   type SentenceMark,
   sentenceMarkSchema,

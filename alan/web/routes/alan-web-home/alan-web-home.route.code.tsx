@@ -1,6 +1,6 @@
 import { ViewPageContent } from "@akasha/pages-ui/components/view-page-content"
-import { getUser } from "@akasha/supabase-rr/auth-server"
-import { getRequestServerClient } from "@akasha/supabase-rr/request-session-cache"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
+import { getRequestServerClient } from "akasha/alan/harness/supabase-rr/request-session-cache/request-session-cache.module.code.ts"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { data } from "react-router"
 import { readHomeNavItemParam } from "../../.server/home-dni-param/home-dni-param.module.code.ts"

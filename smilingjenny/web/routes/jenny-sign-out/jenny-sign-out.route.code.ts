@@ -1,4 +1,4 @@
-import { refreshSession } from "@akasha/supabase-rr/session-refresh"
+import { refreshSession } from "akasha/alan/harness/supabase-rr/session-refresh/session-refresh.module.code.ts"
 import { redirect } from "react-router"
 import { SIGN_IN_PATH } from "../../.server/jenny-session/jenny-session.module.code.ts"
 

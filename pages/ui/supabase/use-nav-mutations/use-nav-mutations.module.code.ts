@@ -6,7 +6,7 @@ import { patchPage } from "@akasha/pages-access/patch"
 import { DEFAULT_ICON_NAME } from "@akasha/pages-core/icon"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
-import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
+import { useSupabase } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import { useCallback } from "react"
 
 const NAV_SLUG = "nav"

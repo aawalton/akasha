@@ -1,5 +1,5 @@
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
-import { getUser } from "@akasha/supabase-rr/auth-server"
+import { getUser } from "akasha/alan/harness/supabase-rr/auth-server/auth-server.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"
 import {
   resolveServableImage,

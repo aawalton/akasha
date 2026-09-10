@@ -12,11 +12,14 @@ import {
   PagesUIRouterProvider,
 } from "@akasha/pages-ui/navigation-context"
 import { setStoreDiagnosticsSink } from "@akasha/pages-ui-store/diagnostics"
-import { type AuthRouteConfig, authGuard } from "@akasha/supabase-rr/auth-guard"
-import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
+import {
+  type AuthRouteConfig,
+  authGuard,
+} from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
+import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
 import {
   type LayoutLinkProps,
   LayoutLinkProvider,
