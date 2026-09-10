@@ -4,8 +4,8 @@ import {
   SEAT_TURN_STATES,
   type SeatTurnState,
 } from "akasha/seat-system/seat-turn-state/seat-turn-state.module.code.ts"
-import type { Answer, Given } from "../../modules/calling/calling.module.code.ts"
-import { whyOf } from "../../modules/fault-saying/fault-saying.module.code.ts"
+import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
+import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 
 export const STATE = "--state"
 

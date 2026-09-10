@@ -8,7 +8,6 @@ export const command = {
   definition: "a module reached by name from the command line",
   pluralSlug: "commands",
   parts: [
-    "command/agent-turn-colors",
     "command/audit",
     "command/calendar",
     "command/complexity",
