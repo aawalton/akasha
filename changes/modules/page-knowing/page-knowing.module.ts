@@ -66,5 +66,10 @@ export const pageKnowing = {
       invariantKind: "absence",
       statement: "Nothing here decides whether a page may be acted on.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Whether a page's type declares a key is read from that type.",
+    },
+    { invariantKind: "departure", statement: "A type the index cannot read judges no key." },
   ],
 } as const satisfies Module

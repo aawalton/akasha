@@ -17,7 +17,7 @@ type Told = {
   readonly target: string | null
   readonly found: readonly { readonly path: string; readonly id: string }[]
   readonly page?: Value | null
-  readonly carried?: readonly { readonly key: string; readonly many: boolean }[]
+  readonly carried?: readonly { readonly key: string; readonly many: boolean }[] | null
 }
 
 function worldTold(told: Told): World {
@@ -36,7 +36,7 @@ function worldTold(told: Told): World {
     index: {
       knownIn: () => known,
       pageByPath: () => ("page" in told ? told.page : PAGE),
-      propertiesIfNamed: () => told.carried ?? [],
+      propertiesIfNamed: () => told.carried ?? null,
     } as never,
     textOf: () => null,
     bodyOf: () => null,
@@ -172,4 +172,59 @@ test("an argument this change was handed no value for is refused by the key", as
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`key` names what this change is handed/)
+})
+
+test("a key the page's type declares no property for is refused", async () => {
+  const world = worldTold({
+    slug: null,
+    target: null,
+    found: [],
+    carried: [{ key: "manifest", many: false }],
+  })
+
+  const said = await addPropertyValue(world, { at: AT, key: "aids", value: "one" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/`aids` is no property `domain` declares/)
+})
+
+test("a key the page's type declares is handed on", async () => {
+  let reached = ""
+  const world = worldTold({
+    slug: null,
+    target: null,
+    found: [],
+    carried: [{ key: "partSlugs", many: true }],
+  })
+
+  await addPropertyValue(
+    {
+      ...world,
+      reaching: (_world, at) => {
+        reached = at
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    ASKED
+  )
+
+  expect(reached).toBe(RUNS)
+})
+
+test("a page whose type cannot be read has no key refused", async () => {
+  let reached = ""
+  const world = worldTold({ slug: null, target: null, found: [], carried: null })
+
+  await addPropertyValue(
+    {
+      ...world,
+      reaching: (_world, at) => {
+        reached = at
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { at: AT, key: "aids", value: "one" }
+  )
+
+  expect(reached).toBe(RUNS)
 })

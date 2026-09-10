@@ -52,7 +52,12 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A key the type names under no property is handed on as carrying many values.",
+      statement: "A key the page's type declares no property for is refused.",
+    },
+    { invariantKind: "departure", statement: "A key is judged before any page is reached." },
+    {
+      invariantKind: "departure",
+      statement: "A page whose type cannot be read has no key refused.",
     },
   ],
   changeKind: "change-checked",

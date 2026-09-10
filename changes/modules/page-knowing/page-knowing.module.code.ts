@@ -51,10 +51,23 @@ export function readFor(world: World, at: string): Read {
   return { known: held.known, value }
 }
 
-export function singleIn(world: World, value: Value, key: string): boolean {
+export function typeIn(value: Value): string | null {
   const stated = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  return stated === null ? null : slugOf(stated)
+}
+
+export function declaresIn(world: World, value: Value, key: string): boolean | null {
+  const stated = typeIn(value)
+  if (stated === null) return null
+  const carried = world.index.propertiesIfNamed(stated)
+  if (carried === null) return null
+  return carried.some((each) => each.key === key)
+}
+
+export function singleIn(world: World, value: Value, key: string): boolean {
+  const stated = typeIn(value)
   if (stated === null) return false
-  const carried = world.index.propertiesIfNamed(slugOf(stated))
+  const carried = world.index.propertiesIfNamed(stated)
   if (carried === null) return false
   const one = carried.find((each) => each.key === key)
   return one !== undefined && !one.many
