@@ -42,9 +42,8 @@ import {
   getWeaponTraitId,
   getWeaponTypeId,
 } from "../build-codec-indices/build-codec-indices.module.code.ts"
-import { ESO_VERSION_48 } from "../build-codec-v48/build-codec-v48.module.code.ts"
 import { ESO_VERSION_52, encodeV52 } from "../build-codec-v52/build-codec-v52.module.code.ts"
-import { decodeBuild, encodeBuild } from "./build-codec.module.code.ts"
+import { decodeBuild, ESO_VERSION_48, encodeBuild } from "./build-codec.module.code.ts"
 
 const CHARACTER_BUILD_TYPE = 1
 

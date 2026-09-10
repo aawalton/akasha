@@ -10,10 +10,6 @@ export const temperBuildCodec = {
   parts: [
     "module/build-codec",
     "module/build-codec-indices",
-    "module/build-codec-v48",
-    "module/build-codec-v48-champion-points",
-    "module/build-codec-v48-equipment",
-    "module/build-codec-v48-skills",
     "module/build-codec-v52",
     "module/build-codec-v52-champion-points",
     "module/build-codec-v52-equipment",

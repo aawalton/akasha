@@ -29,8 +29,10 @@ import {
   WEAPON_TRAIT_BITS,
   WEAPON_TYPE_BITS,
 } from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
-import { CHARACTER_BUILD_TYPE } from "akasha/temper/build-codec/build-codec-v48/build-codec-v48.module.code.ts"
-import { ESO_VERSION_52 } from "akasha/temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts"
+import {
+  CHARACTER_BUILD_TYPE,
+  ESO_VERSION_52,
+} from "akasha/temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts"
 import {
   COMPANION_ARMOR_WEIGHT_BITS,
   COMPANION_ARMOR_WEIGHT_IDS,
@@ -64,7 +66,6 @@ export function generateCodecConstants(): string {
  * Source: temper/companion-codec/companion-codec-v48/companion-codec-v48.module.code.ts
  *         temper/companion-codec/companion-codec-v49/companion-codec-v49.module.code.ts
  *         temper/companion-codec/companion-codec-indices/companion-codec-indices.module.code.ts
- *         temper/build-codec/build-codec-v48/build-codec-v48.module.code.ts
  *         temper/build-codec/build-codec-v52/build-codec-v52.module.code.ts
  *         temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts
  *         temper/addon-data/codec-widths/codec-widths.module.code.ts

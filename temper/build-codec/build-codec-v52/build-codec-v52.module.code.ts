@@ -78,7 +78,7 @@ import {
   encodeSkills,
 } from "../build-codec-v52-skills/build-codec-v52-skills.module.code.ts"
 
-const CHARACTER_BUILD_TYPE = 0x01
+export const CHARACTER_BUILD_TYPE = 0x01
 
 export const ESO_VERSION_52 = 52
 const CODEC_MINOR_VERSION = 7

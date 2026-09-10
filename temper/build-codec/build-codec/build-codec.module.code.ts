@@ -7,14 +7,12 @@ import type { BuildHash } from "../../formula-framework/branded-id/branded-id.mo
 import { buildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   CHARACTER_BUILD_TYPE,
-  decodeV48,
-  ESO_VERSION_48,
-} from "../build-codec-v48/build-codec-v48.module.code.ts"
-import {
   decodeV52,
   ESO_VERSION_52,
   encodeV52,
 } from "../build-codec-v52/build-codec-v52.module.code.ts"
+
+export const ESO_VERSION_48 = 48
 
 export function encodeBuild(build: CharacterState): BuildHash {
   const bytes = encodeV52(build)
@@ -38,8 +36,6 @@ export function decodeBuild(encoded: BuildHash): CharacterState | null {
   let build: CharacterState | null
   switch (version) {
     case ESO_VERSION_48:
-      build = decodeV48(bytes)
-      break
     case ESO_VERSION_52:
       build = decodeV52(bytes)
       break
