@@ -1,7 +1,6 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { TERMINAL_PAGES_DIR } from "../terminal-ended/terminal-ended.module.code.ts"
-import { ROOT } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
 
 export const SEAT_ATTACH_FN = "__editor_terminal_seat_attach"
 
@@ -15,11 +14,11 @@ export type SeatMark = {
   readonly seat: string
 }
 
-export function seatAttachFnLines(): readonly string[] {
+export function seatAttachFnLines(rootLocal: string): readonly string[] {
   return [
     `${SEAT_ATTACH_FN}() {`,
     '  local _seat="$1"',
-    `  local _root="${ROOT}"`,
+    `  ${rootLocal}`,
     `  local _dir="$_root/${TERMINAL_PAGES_DIR}"`,
     '  local _at="" _stat _rest _start',
     '  if mkdir -p "$_dir" 2>/dev/null; then',

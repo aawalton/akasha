@@ -13,8 +13,20 @@ export const seatEntryPaths = {
       statement: "A path here is written from the checkout rather than from the file reading it.",
     },
     {
+      invariantKind: "departure",
+      statement: "Where each entry sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug the index answers nothing for refuses the answer rather than guessing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The checkout asked is the one given, or the one this code is checked out in.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here reads the disk or runs a process.",
+      statement: "Nothing here runs a process.",
     },
     {
       invariantKind: "absence",

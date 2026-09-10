@@ -6,7 +6,10 @@ import {
   terminalEndedFnLines,
   terminalEndedTrapLines,
 } from "../terminal-ended/terminal-ended.module.code.ts"
-import { AKASHA } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
+import {
+  akashaCommand,
+  ROOT_LOCAL,
+} from "../terminal-entry-points/terminal-entry-points.module.code.ts"
 import {
   implName,
   launcher,
@@ -26,7 +29,11 @@ export type AliasEntry = {
 }
 
 function claudeUsageFn(): string {
-  return [`${implName("cu")}() {`, `  ${AKASHA} measure claude-accounts usage "$@"`, "}"].join("\n")
+  return [
+    `${implName("cu")}() {`,
+    `  ${akashaCommand()} measure claude-accounts usage "$@"`,
+    "}",
+  ].join("\n")
 }
 
 function aliases(): string {
@@ -82,7 +89,7 @@ function functions(accounts: readonly AliasEntry[]): string {
     seatLiveFnLines().join("\n"),
     "",
     "# attaching to a seat, leaving that seat beside the terminal's own page while attached",
-    seatAttachFnLines().join("\n"),
+    seatAttachFnLines(ROOT_LOCAL).join("\n"),
     "",
     "# the shared tmux launch step every seat comes up under",
     tmuxLaunchFnLines().join("\n"),
@@ -97,7 +104,7 @@ function functions(accounts: readonly AliasEntry[]): string {
   blocks.push(
     "",
     "# how an editor terminal's shell ended, left beside that terminal's own page",
-    terminalEndedFnLines().join("\n"),
+    terminalEndedFnLines(ROOT_LOCAL).join("\n"),
     "",
     terminalEndedTrapLines().join("\n")
   )

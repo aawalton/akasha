@@ -10,6 +10,8 @@ import {
 
 const SEATS = new Set(["amy", "aranya"])
 
+const ROOT_LOCAL = 'local _root="/repos/akasha"'
+
 function startedIn(started: Readonly<Record<number, string>>): (pid: number) => string | null {
   return (pid) => started[pid] ?? null
 }
@@ -74,19 +76,19 @@ describe("the name a mark is written under", () => {
 
 describe("the shell that attaches", () => {
   it("writes its mark before attaching and clears it after", () => {
-    const said = seatAttachFnLines().join("\n")
+    const said = seatAttachFnLines(ROOT_LOCAL).join("\n")
     expect(said).toContain(`${SEAT_ATTACH_FN}() {`)
     expect(said.indexOf(MARK_TAIL)).toBeLessThan(said.indexOf("tmux attach-session"))
     expect(said.indexOf("tmux attach-session")).toBeLessThan(said.indexOf('rm -f "$_at"'))
   })
 
   it("hands back what the attach handed it", () => {
-    const said = seatAttachFnLines().join("\n")
+    const said = seatAttachFnLines(ROOT_LOCAL).join("\n")
     expect(said).toContain("local _rc=$?")
     expect(said).toContain("return $_rc")
   })
 
   it("parses", async () => {
-    expect(await parses(seatAttachFnLines().join("\n"))).toBe(0)
+    expect(await parses(seatAttachFnLines(ROOT_LOCAL).join("\n"))).toBe(0)
   })
 })

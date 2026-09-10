@@ -13,12 +13,12 @@ import {
   personDocumentStandsShell,
 } from "../document-present/document-present.module.code.ts"
 import {
-  AKASHA,
-  PROXY,
+  akashaCommand,
+  proxy,
   ROOT_LOCAL,
-  SEAT_RESUME,
   SEAT_START_DIR,
-  SUPERVISOR,
+  seatResume,
+  supervisor,
 } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
 import { implName } from "../terminal-reload/terminal-reload.module.code.ts"
 import { SEAT_ATTACH_FN } from "../terminal-seat-marks/terminal-seat-marks.module.code.ts"
@@ -67,7 +67,7 @@ export function tmuxLaunchFnLines(): readonly string[] {
     `    echo "${SEAT_START_DIR} is not there, so this seat has nowhere to start." >&2`,
     "    return 1",
     "  fi",
-    `  local _cmd=(${supervisorEntryShell(PROXY, SUPERVISOR)}${INTERACTIVE_MODE_FLAGS})`,
+    `  local _cmd=(${supervisorEntryShell(proxy(), supervisor())}${INTERACTIVE_MODE_FLAGS})`,
     '  _cmd+=("$@")',
     "  if ! command -v tmux >/dev/null 2>&1; then",
     '    echo "tmux is not installed, and a seat is a tmux session, so this one has nowhere to start." >&2',
@@ -178,7 +178,7 @@ export function seatNewFn(name: string): string {
     `  local _${name}_stop_flags=() _${name}_stop_err _${name}_stop_rc=0`,
     `  [ "$_${name}_force" = 1 ] && _${name}_stop_flags+=(--force)`,
     `  _${name}_stop_err="/var/tmp/akasha-${name}-stop-$$.err"`,
-    `  ${AKASHA} seat supervisor stop "$_${name}_seat" "\${_${name}_stop_flags[@]}" ` +
+    `  ${akashaCommand()} seat supervisor stop "$_${name}_seat" "\${_${name}_stop_flags[@]}" ` +
       `>/dev/null 2>"$_${name}_stop_err"`,
     `  _${name}_stop_rc=$?`,
     `  if [ "$_${name}_stop_rc" != 0 ] && [ "$_${name}_stop_rc" != 2 ]; then`,
@@ -203,7 +203,7 @@ export function seatNewFn(name: string): string {
     `  [ -n "$_${name}_typed_role" ] && _${name}_stated+=(--role "$_${name}_typed_role")`,
     `  [ -n "$_${name}_typed_domain" ] && ` +
       `_${name}_stated+=(--domain "$_${name}_typed_domain")`,
-    `  full_aid=$(${AKASHA} seat start "\${_${name}_stated[@]}") || {`,
+    `  full_aid=$(${akashaCommand()} seat start "\${_${name}_stated[@]}") || {`,
     `    echo "${name}: '$_${name}_seat' was not bound, so nothing was launched." >&2`,
     "    return 1",
     "  }",
@@ -239,7 +239,7 @@ export function seatResumeFn(name: string): string {
     ...payloadEscapeLines(name),
     "  local full_aid full_sid",
     "  IFS=$'\\t' read -r full_aid full_sid < <(" +
-      `bun run ${SEAT_RESUME} "$name" --start-mode interactive --no-launch)`,
+      `bun run ${seatResume()} "$name" --start-mode interactive --no-launch)`,
     '  if [ -z "$full_sid" ]; then',
     `    if [ "$(${tmuxServerCountShell()})" -gt 1 ]; then`,
     `      echo "${name}: more than one tmux server is running and this socket reaches only one ` +

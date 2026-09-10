@@ -6,7 +6,9 @@ import {
   terminalEndedTrapLines,
 } from "./terminal-ended.module.code.ts"
 
-const said = terminalEndedFnLines().join("\n")
+const ROOT_LOCAL = 'local _root="/repos/akasha"'
+
+const said = terminalEndedFnLines(ROOT_LOCAL).join("\n")
 
 const trapped = terminalEndedTrapLines().join("\n")
 

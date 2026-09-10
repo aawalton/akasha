@@ -1,17 +1,17 @@
 import { describe, expect, test } from "bun:test"
 import {
-  PTY_PROXY_REL,
-  SEAT_RESUME_REL,
-  SUPERVISOR_REL,
+  ptyProxyRel,
+  seatResumeRel,
+  supervisorRel,
 } from "../../seat-entry-paths/seat-entry-paths.module.code.ts"
 import {
-  AKASHA,
-  PROXY,
+  akashaCommand,
+  proxy,
   ROOT,
   ROOT_LOCAL,
-  SEAT_RESUME,
   SEAT_START_DIR,
-  SUPERVISOR,
+  seatResume,
+  supervisor,
 } from "./terminal-entry-points.module.code.ts"
 
 describe("the checkout", () => {
@@ -25,12 +25,12 @@ describe("the checkout", () => {
 })
 
 describe("what a seat comes up under", () => {
-  test("is spelled from the supervisor path seat-entry-paths holds", () => {
-    expect(SUPERVISOR).toBe(`"$_root/${SUPERVISOR_REL}"`)
+  test("is spelled from the supervisor path seat-entry-paths answers", () => {
+    expect(supervisor()).toBe(`"$_root/${supervisorRel()}"`)
   })
 
-  test("is spelled from the pty proxy path seat-entry-paths holds", () => {
-    expect(PROXY).toBe(`"$_root/${PTY_PROXY_REL}"`)
+  test("is spelled from the pty proxy path seat-entry-paths answers", () => {
+    expect(proxy()).toBe(`"$_root/${ptyProxyRel()}"`)
   })
 
   test("begins in the folder holding the checkouts rather than in the checkout", () => {
@@ -40,12 +40,12 @@ describe("what a seat comes up under", () => {
 
 describe("the commands a terminal reaches", () => {
   test("name akasha through the one file on the path", () => {
-    expect(AKASHA).toBe(
+    expect(akashaCommand()).toBe(
       '"${AKASHA_ROOT:-$HOME/repos/akasha}/machines/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.shell.sh"'
     )
   })
 
   test("name the resume module a terminal runs to put a seat back on its session", () => {
-    expect(SEAT_RESUME).toBe(`"$_root/${SEAT_RESUME_REL}"`)
+    expect(seatResume()).toBe(`"$_root/${seatResumeRel()}"`)
   })
 })

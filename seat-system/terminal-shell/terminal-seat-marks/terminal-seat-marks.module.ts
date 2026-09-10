@@ -50,6 +50,10 @@ export const terminalSeatMarks = {
       statement: "A seat named by a mark that is no seat name is no seat.",
     },
     {
+      invariantKind: "departure",
+      statement: "The line naming the checkout comes from the caller rather than from here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here asks tmux which client sits on which session.",
     },

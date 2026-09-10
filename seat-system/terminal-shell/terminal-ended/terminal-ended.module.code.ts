@@ -1,14 +1,12 @@
-import { ROOT } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
-
 export const ENDED_FN = "__editor_terminal_ended"
 
 export const TERMINAL_PAGES_DIR = "alan/harness/code-editor/terminals/pages"
 
-export function terminalEndedFnLines(): readonly string[] {
+export function terminalEndedFnLines(rootLocal: string): readonly string[] {
   return [
     `${ENDED_FN}() {`,
     "  local _status=${1:-$?}",
-    `  local _root="${ROOT}"`,
+    `  ${rootLocal}`,
     `  local _dir="$_root/${TERMINAL_PAGES_DIR}"`,
     '  mkdir -p "$_dir" 2>/dev/null || return 0',
     '  local _stat _rest _start _signal=""',

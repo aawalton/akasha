@@ -1,5 +1,36 @@
-export const PTY_PROXY_REL = "seat-system/pty-proxy/pty-proxy.module.code.ts"
+import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { besideAt } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 
-export const SUPERVISOR_REL = "seat-system/run-supervisor/run-supervisor.module.code.ts"
+const MODULE = "module"
 
-export const SEAT_RESUME_REL = "seat-system/seat-resume/seat-resume.module.code.ts"
+const CODE = "code"
+
+const TS = "ts"
+
+const PTY_PROXY = "pty-proxy"
+
+const SUPERVISOR = "run-supervisor"
+
+const SEAT_RESUME = "seat-resume"
+
+function entryOf(root: string, slug: string): string {
+  const page = listedAt(root, MODULE, slug)[0]
+  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
+  if (at === null) {
+    throw new Error(`no \`${MODULE}\` is slugged \`${slug}\`, so no seat would come up`)
+  }
+  return at
+}
+
+export function ptyProxyRel(root: string = akashaRoot()): string {
+  return entryOf(root, PTY_PROXY)
+}
+
+export function supervisorRel(root: string = akashaRoot()): string {
+  return entryOf(root, SUPERVISOR)
+}
+
+export function seatResumeRel(root: string = akashaRoot()): string {
+  return entryOf(root, SEAT_RESUME)
+}

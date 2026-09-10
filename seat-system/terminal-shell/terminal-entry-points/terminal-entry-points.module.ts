@@ -28,7 +28,7 @@ export const terminalEntryPoints = {
     {
       invariantKind: "departure",
       statement:
-        "The supervisor and the pty proxy are spelled from the paths seat-entry-paths holds.",
+        "The supervisor and the pty proxy are spelled from the paths seat-entry-paths answers.",
     },
     {
       invariantKind: "departure",
@@ -40,8 +40,12 @@ export const terminalEntryPoints = {
         "The akasha command is spelled here as the path a terminal reaches a command through.",
     },
     {
+      invariantKind: "departure",
+      statement: "Where the launcher that command runs sits is asked of the index.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here reads the disk or runs a process.",
+      statement: "Nothing here runs a process.",
     },
   ],
 } as const satisfies Module

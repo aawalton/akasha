@@ -55,5 +55,9 @@ export const terminalEnded = {
       invariantKind: "departure",
       statement: "A folder not there yet is made rather than the record being dropped.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The line naming the checkout is handed in rather than spelled here.",
+    },
   ],
 } as const satisfies Module

@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
 import { akashaRoot } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { PTY_PROXY_REL, SUPERVISOR_REL } from "../seat-entry-paths/seat-entry-paths.module.code.ts"
+import { ptyProxyRel, supervisorRel } from "../seat-entry-paths/seat-entry-paths.module.code.ts"
 import { sessionHeld } from "../seat-stopping/seat-stopping.module.code.ts"
 
 export const TMUX_HISTORY_LIMIT = "50000"
@@ -118,11 +118,11 @@ export function supervisorEntryArgv(root: string): readonly string[] {
     ...secretsSourcedArgv(),
     "bun",
     "run",
-    `${root}/${PTY_PROXY_REL}`,
+    `${root}/${ptyProxyRel()}`,
     "--",
     "bun",
     "run",
-    `${root}/${SUPERVISOR_REL}`,
+    `${root}/${supervisorRel()}`,
   ]
 }
 

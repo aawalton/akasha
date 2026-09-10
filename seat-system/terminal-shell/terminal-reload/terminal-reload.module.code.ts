@@ -1,4 +1,4 @@
-import { AKASHA } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
+import { akashaCommand } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
 
 export const RELOAD_FN = "_akasha_reload"
 
@@ -15,7 +15,7 @@ export function launcher(name: string, impl: string): string {
 export function reloadFnLines(): readonly string[] {
   return [
     `${RELOAD_FN}() {`,
-    `  local _akasha_cli=${AKASHA} _akasha_text _akasha_why=""`,
+    `  local _akasha_cli=${akashaCommand()} _akasha_text _akasha_why=""`,
     '  if [ ! -x "$_akasha_cli" ]; then',
     '    _akasha_why="nothing to run at $_akasha_cli"',
     `  elif ! _akasha_text=$("$_akasha_cli" ${COMPOSING}); then`,
