@@ -1,11 +1,3 @@
-import { dirname } from "node:path"
-import { importedFrom } from "akasha/pages/body/page-body.module.code.ts"
-import { exportedAs, typedAs } from "akasha/pages/export-name/page-export-name.module.code.ts"
-import {
-  manifestsIn,
-  reachingOf,
-} from "akasha/pages/indexes/package-reaching/package-reaching.module.code.ts"
-import { textAt } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
@@ -20,17 +12,9 @@ const ADD_RECORD = "change-mechanical-file-content/add-property-record"
 
 const ADD_VALUE = "change-mechanical-file-content/add-property-value"
 
-const ADD_MEMBER = "change-mechanical-file-content/add-type-member"
-
 const PROPERTIES = "properties"
 
 const PARTS = "parts"
-
-const PROPERTY_SLUG = "property-slug"
-
-const SLUG = "slug"
-
-const OUTSIDE = ".."
 
 const AT = "at"
 
@@ -60,18 +44,6 @@ export function addressed(property: string): readonly [string, string] | null {
   return [property.slice(0, cut), property.slice(cut + 1)]
 }
 
-export function reachedBy(world: World, path: string): string | null {
-  const naming = reachingOf(
-    manifestsIn(world.index.everyPath(), world.index.fileKeysAt()),
-    world.textOf
-  )
-  const found: string[] = []
-  for (const [specifier, at] of naming) {
-    if (at === path) found.push(specifier)
-  }
-  return found.sort()[0] ?? null
-}
-
 export function recordFor(given: AddPropertyToPageTypeAsked): string {
   const held = [
     `pageProperty: ${JSON.stringify(given.property)}`,
@@ -90,21 +62,8 @@ export async function addPropertyToPageType(
   if (named === null) return refusing(`\`${given.property}\` names no page property`)
   const listed = world.index.listedAt(named[0], named[1])[0]
   if (listed === undefined) return refusing(`\`${given.property}\` names no page property`)
-  const held = pageIn(world, listed.path)
-  if (held === null) return refusing(`\`${listed.path}\` names no page property`)
-  const key = textAt(held, exportedAs(PROPERTY_SLUG))
-  if (key === null) return refusing(`\`${given.property}\` states no property slug`)
   const owner = pageIn(world, given.at)
   if (owner === null) return refusing(`\`${given.at}\` names no page type`)
-  const owning = textAt(owner, SLUG)
-  if (owning === null) return refusing(`\`${given.at}\` states no slug`)
-  const beside = importedFrom(given.at, listed.path)
-  const from = beside.startsWith(OUTSIDE) ? reachedBy(world, listed.path) : beside
-  if (from === null) {
-    return refusing(
-      `\`${listed.path}\` sits outside \`${dirname(given.at)}\` and no package names it, so no import is spelled`
-    )
-  }
   const answers: Answer[] = []
   let over: World = isLedger(world)
     ? world
@@ -123,18 +82,7 @@ export async function addPropertyToPageType(
     value: given.property,
   })
   if (part.said.refused !== null) return part.said
-  over = part.world
   answers.push(part.said)
-  const member = await reach(over, ADD_MEMBER, {
-    at: given.at,
-    type: typedAs(owning),
-    key: exportedAs(key),
-    held: typedAs(named[1]),
-    from,
-    optional: !given.required,
-  })
-  if (member.said.refused !== null) return member.said
-  answers.push(member.said)
   return gathered(answers)
 }
 

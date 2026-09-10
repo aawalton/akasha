@@ -14,7 +14,7 @@ export const addPropertyToPageType = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property is declared in the page type's data and in its type in one answer.",
+      statement: "A property is declared in the page type's data.",
     },
     {
       invariantKind: "departure",
@@ -46,36 +46,19 @@ export const addPropertyToPageType = {
     },
     {
       invariantKind: "departure",
-      statement: "The key the member has is the key the property answers to.",
+      statement: "A property sitting outside the page type's folder is declared the same way.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here writes the type a page type has.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here spells an import.",
     },
     {
       invariantKind: "departure",
-      statement: "The type the member names is the type the property's page exports.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A member is written optional where the declaration is not required.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A property whose page sits beside the page type is reached by a relative path.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A property sitting outside that folder is reached by the name a package gives it.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That name is read from the manifests the index names rather than from the disk.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The first name in order is spelled where a file is named more than once.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A property outside that folder no package names is refused.",
+      statement: "The generator writes that type again from the page type this leaves.",
     },
     {
       invariantKind: "departure",
