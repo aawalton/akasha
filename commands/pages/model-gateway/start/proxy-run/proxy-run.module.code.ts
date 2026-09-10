@@ -1,7 +1,10 @@
 import { closeSync, mkdirSync, openSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { join } from "node:path"
 import { seatNameForAgent } from "akasha/seat-system/seat-presence-read/seat-presence-read.module.code.ts"
-import { supervisorSocketPath } from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
+import {
+  agentRuntimeDir,
+  supervisorSocketPath,
+} from "akasha/seat-system/supervisor-log-path/supervisor-log-path.module.code.ts"
 import { modelGatewayEntrypoint } from "../../../../../agents/models/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { readFirstLineAsPort } from "../../../../../seat-system/oauth-proxy/supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"
 
@@ -41,6 +44,7 @@ export type RunSeams = {
     budgetMs: number
   ) => Promise<number>
   readonly socketFor: (agentId: string) => string
+  readonly logDirFor: (agentId: string) => string
 }
 
 export type Started = {
@@ -91,7 +95,7 @@ export async function startedOn(asked: Asked, seams: RunSeams): Promise<Started 
     )
   }
   const socketPath = seams.socketFor(asked.agentId)
-  const logDir = asked.logDir ?? dirname(socketPath)
+  const logDir = asked.logDir ?? seams.logDirFor(asked.agentId)
   seams.madeDir(logDir)
   const entry = modelGatewayEntrypoint()
   const proc = seams.spawned(entry, envFor(asked, logDir), join(logDir, STDERR_LOG))
@@ -141,4 +145,5 @@ export const RUN_SEAMS: RunSeams = {
   },
   ported: (out, budgetMs) => readFirstLineAsPort(out, budgetMs),
   socketFor: (agentId) => supervisorSocketPath(agentId),
+  logDirFor: (agentId) => agentRuntimeDir(agentId),
 }

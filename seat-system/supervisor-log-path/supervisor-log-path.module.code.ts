@@ -14,3 +14,7 @@ export function runtimeRootDir(): string {
 export function supervisorSocketPath(agentId: string, baseDir?: string): string {
   return join(baseDir ?? runtimeRootDir(), `akasha-${agentId}.sock`)
 }
+
+export function agentRuntimeDir(agentId: string, baseDir?: string): string {
+  return join(baseDir ?? runtimeRootDir(), `akasha-${agentId}`)
+}

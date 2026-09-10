@@ -39,6 +39,14 @@ export const proxyRun = {
       statement: "The console and the errors are written under the log directory named.",
     },
     {
+      invariantKind: "departure",
+      statement: "A run naming no directory writes them under a folder of that agent's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That folder is not the folder a socket is named in, which every agent shares.",
+    },
+    {
       invariantKind: "absence",
       statement: "No gateway is started under an agent id a seat answers to.",
     },

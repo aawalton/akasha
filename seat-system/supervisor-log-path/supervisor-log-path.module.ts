@@ -35,6 +35,14 @@ export const supervisorLogPath = {
     },
     {
       invariantKind: "departure",
+      statement: "A file too big to name a socket has a runtime folder of that agent's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No such folder is the directory the sockets themselves sit in.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The runtime directory is worked out from the user rather than read from the environment.",
     },

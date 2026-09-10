@@ -39,7 +39,8 @@ function seamsWith(seat: string | null, port: number | Error, kept: { value: boo
       if (port instanceof Error) throw port
       return port
     },
-    socketFor: (agentId) => `/var/tmp/supervisors/${agentId}/oauth-proxy.sock`,
+    socketFor: (agentId) => `/var/tmp/run/akasha-${agentId}.sock`,
+    logDirFor: (agentId) => `/var/tmp/run/akasha-${agentId}`,
   }
 }
 
@@ -108,11 +109,18 @@ test("a gateway that printed no port is refused rather than reported", async () 
   expect(String(said)).toContain("printed no port")
 })
 
-test("the log directory defaults to the one the socket is in", async () => {
+test("the log directory defaults to a folder of that agent's own", async () => {
   const kept = { value: false }
   const said = await startedOn(ASKED, seamsWith(null, 51236, kept))
   if (typeof said === "string") return
-  expect(said.logDir).toBe(`/var/tmp/supervisors/${ASKED.agentId}`)
+  expect(said.logDir).toBe(`/var/tmp/run/akasha-${ASKED.agentId}`)
+})
+
+test("the folder the logs go in is no folder the sockets are named in", async () => {
+  const kept = { value: false }
+  const said = await startedOn(ASKED, seamsWith(null, 51238, kept))
+  if (typeof said === "string") return
+  expect(said.socketPath.startsWith(`${said.logDir}/`)).toBe(false)
 })
 
 test("the report says the entry, the process, the port and the socket", async () => {
