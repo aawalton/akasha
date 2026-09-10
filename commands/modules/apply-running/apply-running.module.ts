@@ -49,8 +49,7 @@ export const applyRunning = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "Nothing says a body the fold formatted was formatted, as the apply says only its own.",
+      statement: "Nothing says a body the fold formatted was formatted.",
     },
     {
       invariantKind: "departure",
@@ -95,7 +94,7 @@ export const applyRunning = {
     },
     {
       invariantKind: "absence",
-      statement: "No warrant runs here, as a change is warranted where that change is made.",
+      statement: "No warrant runs here.",
     },
     {
       invariantKind: "departure",
@@ -151,7 +150,11 @@ export const applyRunning = {
     },
     {
       invariantKind: "gap",
-      statement: "No row says whether the checks run, so a fold runs every check.",
+      statement: "No row says whether the checks run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fold runs every check.",
     },
     {
       invariantKind: "departure",
