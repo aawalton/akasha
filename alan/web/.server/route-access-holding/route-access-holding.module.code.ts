@@ -1,7 +1,5 @@
 import { routeAccessForAccount } from "@akasha/persons/route-access"
 
-export { ROUTE_TARGETS } from "@akasha/persons/route-access"
-
 export async function holdsRouteAccess(accountUserId: string, target: string): Promise<boolean> {
   const decision = await routeAccessForAccount(accountUserId, target)
   if (!decision.permitted) {

@@ -1,12 +1,10 @@
+import { ROUTE_TARGETS } from "@akasha/persons/route-access"
 import { buildReadoutRefusal } from "akasha/readouts/credential/readout-credential.module.code.ts"
 import {
   type DeviceSecretContext,
   resolveDeviceSecretContext,
 } from "../device-secret-context/device-secret-context.module.code.ts"
-import {
-  holdsRouteAccess,
-  ROUTE_TARGETS,
-} from "../route-access-holding/route-access-holding.module.code.ts"
+import { holdsRouteAccess } from "../route-access-holding/route-access-holding.module.code.ts"
 
 export type DeviceSecretResolver = (request: Request) => Promise<DeviceSecretContext>
 
