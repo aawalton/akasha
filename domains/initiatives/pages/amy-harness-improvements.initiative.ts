@@ -11,7 +11,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Alan's app fills his password in from 1Password.",
       workingMemory:
-        "Alan settled the origin: the app moves to `https://alanwalton.com` by `server.url` in `alanwalton.ios-app.capacitor-config.json`, which no grep for capacitor finds. Three files break: `auth-mode` flips localStorage auth to cookie auth and abandons the session, `browser-client` feeds it, `sim-driver` builds the sim URL. 24 more are allowlists and `.widgetURL` literals to add the origin to. Whether the suppressor touches AutoFill is unverified; the move settles it at no cost.",
+        "Alan settled the origin and I settled the mechanism: a bundled entry redirecting to `https://alanwalton.com`, as atlas and smilingjenny boot, since `server.url` hangs on a cold offline start. All seven CORS allowlists already carry the origin, the persistence ports reach `alan/web`, and `sim-driver`'s origin is a departure. Left: whether a widget's `capacitor://localhost` deep link still opens the app, then `auth-mode` deleted, `browser-client` always cookie-ssr, and the config.",
     },
     {
       statement: "All of Jenny's widgets work.",
