@@ -6,7 +6,7 @@ export const temperLibGps = {
   type: "eso-addon",
   slug: "temper-lib-gps",
   definition: "one map's coordinates carried onto Tamriel's and onto the world's",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "gps-main",
   parts: [

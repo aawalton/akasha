@@ -313,15 +313,6 @@
         "vite": "^8.0.3",
       },
     },
-    "temper/lib-extended-journal": {
-      "name": "@akasha/temper-lib-extended-journal",
-    },
-    "temper/lib-gps": {
-      "name": "@akasha/temper-lib-gps",
-    },
-    "temper/lib-histoire": {
-      "name": "@akasha/temper-lib-histoire",
-    },
     "temper/lib-main-menu": {
       "name": "@akasha/temper-lib-main-menu",
     },
@@ -436,12 +427,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
-
-    "@akasha/temper-lib-extended-journal": ["@akasha/temper-lib-extended-journal@workspace:temper/lib-extended-journal"],
-
-    "@akasha/temper-lib-gps": ["@akasha/temper-lib-gps@workspace:temper/lib-gps"],
-
-    "@akasha/temper-lib-histoire": ["@akasha/temper-lib-histoire@workspace:temper/lib-histoire"],
 
     "@akasha/temper-lib-main-menu": ["@akasha/temper-lib-main-menu@workspace:temper/lib-main-menu"],
 

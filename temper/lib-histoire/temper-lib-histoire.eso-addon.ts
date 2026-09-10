@@ -6,7 +6,7 @@ export const temperLibHistoire = {
   type: "eso-addon",
   slug: "temper-lib-histoire",
   definition: "the guild history the game drops kept for other add-ons to read",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "histoire-main",
   parts: [

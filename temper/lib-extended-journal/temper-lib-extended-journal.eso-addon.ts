@@ -6,7 +6,7 @@ export const temperLibExtendedJournal = {
   type: "eso-addon",
   slug: "temper-lib-extended-journal",
   definition: "a window other add-ons hang a tab in, built like the game's own journal",
-  manifest: "json",
+
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "journal-main",
