@@ -89305,7 +89305,7 @@
             "rank": 4
           },
           "abilityIndex": 5,
-          "currentMorph": 0
+          "currentMorph": 1
         }
       },
       "nextRankXP": 107441
@@ -89941,7 +89941,7 @@
             "rank": 4
           },
           "abilityIndex": 5,
-          "currentMorph": 2
+          "currentMorph": 1
         },
         "33386": {
           "morph1": {
@@ -91303,7 +91303,7 @@
             "rank": 4
           },
           "abilityIndex": 3,
-          "currentMorph": 2
+          "currentMorph": 0
         },
         "185817": {
           "morph1": {
@@ -91321,7 +91321,7 @@
             "rank": 4
           },
           "abilityIndex": 4,
-          "currentMorph": 1
+          "currentMorph": 0
         },
         "185836": {
           "morph1": {
@@ -91357,7 +91357,7 @@
             "rank": 4
           },
           "abilityIndex": 5,
-          "currentMorph": 1
+          "currentMorph": 0
         },
         "189791": {
           "morph1": {
@@ -91375,7 +91375,7 @@
             "rank": 4
           },
           "abilityIndex": 1,
-          "currentMorph": 1
+          "currentMorph": 0
         }
       },
       "nextRankXP": 107441
