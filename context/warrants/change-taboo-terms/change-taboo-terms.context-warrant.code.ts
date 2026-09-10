@@ -143,9 +143,6 @@ function textOf(body: Uint8Array | null): string {
   return body === null ? "" : TEXT.decode(body)
 }
 
-// A PICTURE IS NOT PROSE. Decoding a file of bytes as text hands this gate megabytes of noise, and a
-// term's pattern then finds whatever byte run happens to spell it, so which pictures are refused is
-// luck rather than wording. The property's own page says whether the files that property holds are bytes.
 export function holdingBytes(root: string, path: string): boolean {
   const said = partedIn(path)
   if (said === null) return false

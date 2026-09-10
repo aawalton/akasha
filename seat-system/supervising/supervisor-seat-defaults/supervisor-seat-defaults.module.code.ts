@@ -11,8 +11,6 @@ export const AGENT_MODE_INTERACTIVE: SeatMode = "interactive"
 
 export const AGENT_MODE_HEADLESS: SeatMode = "headless"
 
-// THE DEFAULTS A SEAT IS GIVEN ARE STATED AS VALUES. A supervisor holds the agent id and the mode
-// already, so nothing writes them out as a payload for a second process to read back in.
 export function defaultStating(agentId: string, mode: SeatMode): Args {
   return {
     set: {},

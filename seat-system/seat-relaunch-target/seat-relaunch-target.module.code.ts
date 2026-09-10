@@ -39,9 +39,6 @@ function fromHistory(agentId: string): RelaunchTarget | null {
 export async function resolveRelaunchTarget(
   agentId: string
 ): Promise<{ readonly target: RelaunchTarget } | { readonly error: string }> {
-  // The page, then the history — the same order everywhere else reads in. A relaunch stands a
-  // seat back up from what this answers, so a seat read as stating nothing is relaunched
-  // without the account it signs in as.
   const seat = pageValuesOf(agentId)
   if (seat === null) {
     const remembered = fromHistory(agentId)
@@ -52,8 +49,7 @@ export async function resolveRelaunchTarget(
     target: {
       name: textAt(seat, TITLE),
       account: textAt(seat, ACCOUNT_KEY),
-      // Presence is one answer for a seat standing and a seat gone alike, so it is asked for by
-      // id rather than read off whichever page happened to be found.
+
       presence: agentPresence(agentId),
       sessionId: sessionOf(agentId)?.value ?? null,
     },

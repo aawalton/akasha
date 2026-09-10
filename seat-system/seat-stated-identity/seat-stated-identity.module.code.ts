@@ -12,7 +12,6 @@ export interface StatedIdentity {
   readonly role?: string
 }
 
-/** The slots a seat named, or null where it named none to check. */
 export function resolveCall(stated: StatedIdentity): Partial<Record<Declaration, string>> | null {
   const held = stated as Readonly<Record<string, unknown>>
   const slots: Partial<Record<Declaration, string>> = {}
@@ -24,7 +23,6 @@ export function resolveCall(stated: StatedIdentity): Partial<Record<Declaration,
   return slots
 }
 
-/** The refusal what a seat named earns, or null where it checks out or names nothing. */
 export function resolveStatedIdentity(stated: StatedIdentity): Promise<string | null> {
   const slots = resolveCall(stated)
   if (slots === null) return Promise.resolve(null)

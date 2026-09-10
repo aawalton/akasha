@@ -37,9 +37,6 @@ function refuse(message: string, code: number): never {
   process.exit(code)
 }
 
-// What an importer asks for: the document a seat spawns on, with the hooks akasha declares
-// merged in. It throws rather than answering with nothing, so a caller is the one that decides
-// what nothing means for it.
 export function agentSettings(): Record<string, unknown> {
   const path = SETTINGS_AT
 

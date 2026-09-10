@@ -17,6 +17,10 @@ export const supervisorSeatDefaults = {
     },
     {
       invariantKind: "departure",
+      statement: "The defaults a seat is given are handed over as values rather than as a payload.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A seat already with every default is left alone.",
     },
   ],
