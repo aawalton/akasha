@@ -1,4 +1,4 @@
-import type { MasteryLevel } from "../mastery-level.page-type.ts"
+import type { MasteryLevel } from "../mastery-level.page-type.types.ts"
 
 export const expert = {
   id: "01a0784a-cdb9-786f-883a-2ead5cdc4454",

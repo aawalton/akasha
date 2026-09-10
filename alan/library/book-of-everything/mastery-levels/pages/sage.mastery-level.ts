@@ -1,4 +1,4 @@
-import type { MasteryLevel } from "../mastery-level.page-type.ts"
+import type { MasteryLevel } from "../mastery-level.page-type.types.ts"
 
 export const sage = {
   id: "01a0784a-cdb9-7d58-b895-18ea1f2c798a",

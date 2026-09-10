@@ -1,4 +1,4 @@
-import type { MasteryLevel } from "../mastery-level.page-type.ts"
+import type { MasteryLevel } from "../mastery-level.page-type.types.ts"
 
 export const student = {
   id: "01a0784a-cdba-7ea0-ab7d-b3c46eb1c211",

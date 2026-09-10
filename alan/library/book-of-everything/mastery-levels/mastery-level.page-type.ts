@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { MasteryBehaviour } from "./properties/mastery-behaviour.text-property.ts"
-import type { MasteryRank } from "./properties/mastery-rank.number-property.ts"
-
-export type MasteryLevel = Domain & {
-  rank: MasteryRank
-  behaviour: MasteryBehaviour
-}
 
 export const masteryLevel = {
   id: "01a0784a-cdb9-75af-be55-75cc37d93123",
@@ -52,4 +44,5 @@ export const masteryLevel = {
         "A topic Alan derives from the core Alan has scores whether or not Alan studied that topic.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

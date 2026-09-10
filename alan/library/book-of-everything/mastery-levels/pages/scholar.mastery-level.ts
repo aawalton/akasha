@@ -1,4 +1,4 @@
-import type { MasteryLevel } from "../mastery-level.page-type.ts"
+import type { MasteryLevel } from "../mastery-level.page-type.types.ts"
 
 export const scholar = {
   id: "01a0784a-cdb9-7a08-987d-f49f5a6368b3",
