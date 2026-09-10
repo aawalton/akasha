@@ -59,11 +59,11 @@ export const changeDraft = {
     },
     {
       invariantKind: "departure",
-      statement: "The key `draft` is refused, as the word naming this command says it.",
+      statement: "The key `draft` is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "The key `measure` is refused, as a draft lands nothing to measure.",
+      statement: "The key `measure` is refused.",
     },
     {
       invariantKind: "departure",
@@ -99,8 +99,11 @@ export const changeDraft = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A draft's answer names every page written, and no redirect carries that answer to a file.",
+      statement: "A draft's answer names every page written.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No redirect carries that answer to a file.",
     },
   ],
 } as const satisfies Command
