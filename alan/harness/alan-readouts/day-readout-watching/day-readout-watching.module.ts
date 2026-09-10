@@ -30,11 +30,19 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "The day row is in the commit, so the index is what says that row has moved.",
+      statement: "The day row is in the commit.",
     },
     {
       invariantKind: "departure",
-      statement: "A stretch is beside its day rather than in the commit, so its file is enough.",
+      statement: "The index says the day row has moved.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stretch is beside its day rather than in the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The stretches file says a stretch has moved.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +50,11 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "The surplus is made from the stretches too, its fall rate turning as one opens.",
+      statement: "The surplus is made from the stretches too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The surplus fall rate turns as a stretch opens.",
     },
     {
       invariantKind: "departure",
