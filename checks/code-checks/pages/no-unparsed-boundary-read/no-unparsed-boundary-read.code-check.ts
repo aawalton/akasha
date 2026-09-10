@@ -6,8 +6,6 @@ export const noUnparsedBoundaryRead = {
   type: "code-check",
   slug: "no-unparsed-boundary-read",
   definition: "the check refusing a read across a boundary that no parse follows",
-  code: "ts",
-  test: "ts",
   runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,

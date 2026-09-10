@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noUnparsedBoundaryRead } from "./no-unparsed-boundary-read.code-check.code.ts"
+import { noUnparsedBoundaryRead } from "./no-unparsed-boundary-read.code-check.check.code.ts"
 import {
   AT,
   READ_AND_USED,
