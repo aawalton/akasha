@@ -15,7 +15,7 @@ const PROGRESS_PATH =
   "temper/progressions/temper-tasks/pages/held-task/held-task.temper-task.progress.jsonl"
 
 const BODY =
-  'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n} as const satisfies TemperTask\n'
+  'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n} as const satisfies TemperTask\n'
 
 type Body = { readonly path: string; readonly content: string | null }
 
@@ -76,19 +76,19 @@ test("a task names its page and the progress lines beside it", () => {
 
 test("a key the body already carries is restated in place", () => {
   expect(taskBodyWith(BODY, { dueDate: "2026-03-12" })).toBe(
-    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-12",\n} as const satisfies TemperTask\n'
+    'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-12",\n} as const satisfies TemperTask\n'
   )
 })
 
 test("a key the body carries nowhere is added on the line before the closing", () => {
   expect(taskBodyWith(BODY, { completedAt: "2026-03-05T13:57:43.192Z" })).toBe(
-    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n  completedAt: "2026-03-05T13:57:43.192Z",\n} as const satisfies TemperTask\n'
+    'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n  completedAt: "2026-03-05T13:57:43.192Z",\n} as const satisfies TemperTask\n'
   )
 })
 
 test("a key told null is taken off the body", () => {
   expect(taskBodyWith(BODY, { dueDate: null })).toBe(
-    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n} as const satisfies TemperTask\n'
+    'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n} as const satisfies TemperTask\n'
   )
 })
 
@@ -101,7 +101,7 @@ test("several keys are taken off, restated, and added in the order they were giv
       paused: true,
     })
   ).toBe(
-    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  completedAt: "2026-03-05T13:57:43.192Z",\n  streak: 4,\n  paused: true,\n} as const satisfies TemperTask\n'
+    'import type { TemperTask } from "../../temper-task.page-type.types.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  completedAt: "2026-03-05T13:57:43.192Z",\n  streak: 4,\n  paused: true,\n} as const satisfies TemperTask\n'
   )
 })
 

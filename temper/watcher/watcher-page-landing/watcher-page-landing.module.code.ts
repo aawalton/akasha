@@ -139,7 +139,7 @@ export function typeNameFor(pageTypeSlug: string): string {
 }
 
 export function pageTypeImportFor(pageTypeSlug: string): string {
-  return `../../${pageTypeSlug}.page-type.ts`
+  return `../../${pageTypeSlug}.page-type.types.ts`
 }
 
 export function closingFor(pageTypeSlug: string): string {

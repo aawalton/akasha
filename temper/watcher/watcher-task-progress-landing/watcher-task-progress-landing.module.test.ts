@@ -8,7 +8,7 @@ const PAGE_PATH =
 const ROWS_PATH =
   "temper/progressions/temper-tasks/pages/crafting-writs/crafting-writs.temper-task.progress.jsonl"
 
-const PAGE = `import type { TemperTask } from "../../temper-task.page-type.ts"
+const PAGE = `import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const craftingWrits = {
   id: "019db533-f381-761a-affb-ba493b613e2e",

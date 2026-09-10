@@ -157,7 +157,7 @@ test("an hour takes another account's reading at the same instant", () => {
 test("an hour page is the body that landed for that hour", () => {
   expect(netWorthHourBody(FIRST_AT, "01a06009-4775-7004-82c8-ee74889a2ada")).toBe(
     [
-      'import type { TemperNetWorthHour } from "../../temper-net-worth-hour.page-type.ts"',
+      'import type { TemperNetWorthHour } from "../../temper-net-worth-hour.page-type.types.ts"',
       "",
       "export const hour2026042914 = {",
       '  id: "01a06009-4775-7004-82c8-ee74889a2ada",',
