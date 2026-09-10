@@ -16,7 +16,7 @@ import type { Types } from "./properties/types.file-property.ts"
 import type { Worked } from "./properties/worked.file-property.ts"
 
 export type PageType = Domain & {
-  extends: readonly ExtendsType[]
+  extends: ExtendsType
   properties?: Properties
   mortal?: Mortal
   pluralSlug: PluralSlug
