@@ -8,4 +8,5 @@ export const alanwaltonCalendarSync = {
   definition: "the image the calendar sync runs in",
   kind: "bun-service",
   folder: "alan/harness/calendar-sync",
+  extensions: "json",
 } as const satisfies BuiltImage
