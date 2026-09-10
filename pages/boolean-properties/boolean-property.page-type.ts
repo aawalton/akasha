@@ -1,7 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type BooleanProperty = PageProperty
 
 export const booleanProperty = {
   id: "01a04dff-9d7d-7fd5-9836-5f16e5cc63d0",
@@ -11,4 +8,5 @@ export const booleanProperty = {
   definition: "a page property holding true or false",
   pluralSlug: "boolean-properties",
   extends: ["page-type/page-property"],
+  types: "ts",
 } as const satisfies PageType

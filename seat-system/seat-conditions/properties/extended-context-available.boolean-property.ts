@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "@akasha/pages/boolean-property"
+import type { BooleanProperty } from "akasha/pages/boolean-properties/boolean-property.page-type.types.ts"
 
 export type ExtendedContextAvailable = boolean
 

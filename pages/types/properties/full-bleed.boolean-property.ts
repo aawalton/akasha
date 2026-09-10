@@ -1,4 +1,4 @@
-import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.ts"
+import type { BooleanProperty } from "../../boolean-properties/boolean-property.page-type.types.ts"
 
 export type FullBleed = boolean
 
