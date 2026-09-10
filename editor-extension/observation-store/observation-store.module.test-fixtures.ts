@@ -1,6 +1,15 @@
+import { z } from "zod"
 import type { Observation } from "../seat-observations/seat-observations.module.code.ts"
 import type { Fetcher } from "./observation-store.module.code.ts"
 import { createObservationStore, type ObservationStore } from "./observation-store.module.code.ts"
+
+const sentBody = z.object({
+  writer: z.string(),
+  values: z.object({
+    features: z.record(z.string(), z.custom<Observation>()),
+    "observed-at": z.string(),
+  }),
+})
 
 export interface Sent {
   readonly url: string
@@ -24,10 +33,7 @@ export function service(): {
   return {
     sent,
     fetcher: async (url, init) => {
-      const body = JSON.parse(String(init.body)) as {
-        writer: string
-        values: { features: Record<string, Observation>; "observed-at": string }
-      }
+      const body = sentBody.parse(JSON.parse(String(init.body)))
       sent.push({
         url,
         writer: body.writer,
