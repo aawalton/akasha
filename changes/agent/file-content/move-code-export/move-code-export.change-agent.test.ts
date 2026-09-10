@@ -57,7 +57,11 @@ const RUNS: Reaching = (world, at, given) => {
 function worldOf(held: Readonly<Record<string, string>>, importers: readonly string[] = []): World {
   return {
     root: "/nowhere",
-    index: { importersOf: () => importers } as never,
+    index: {
+      importersOf: () => importers,
+      fileKeysAt: () => new Map(),
+      manifestsBeside: () => [],
+    } as never,
     textOf: (path) => held[path] ?? null,
     bodyOf: (path) => held[path] ?? null,
     under: () => [],
