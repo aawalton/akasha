@@ -1,6 +1,7 @@
 import { readdirSync } from "node:fs"
 import { createRequire } from "node:module"
 import type { Condition } from "akasha/alan/harness/rules-engine/rule-conditions/rule-conditions.module.code.ts"
+import { z } from "zod"
 import {
   type EmailRuleKind,
   ruleFileSuffix,
@@ -44,14 +45,23 @@ const SPELLINGS: Readonly<Record<string, Spelling>> = {
 
 const DELAY = /^([0-9]+)([mh])$/
 
+const DELAY_CAPTURES = z.tuple([z.string(), z.string(), z.string()])
+
+function parseDelay(matched: RegExpExecArray | null): number | null {
+  if (matched === null) return null
+  const said = DELAY_CAPTURES.safeParse([...matched])
+  if (!said.success) return null
+  return Number(said.data[1]) * (said.data[2] === "h" ? 60 : 1)
+}
+
 function delayOf(stated: unknown, relPath: string): number {
   if (stated === undefined || stated === null) return 0
-  const found = typeof stated === "string" ? DELAY.exec(stated) : null
-  if (found === null)
+  const minutes = typeof stated === "string" ? parseDelay(DELAY.exec(stated)) : null
+  if (minutes === null)
     throw new Error(
       `\`${relPath}\` states the delay \`${String(stated)}\`, which is no count of minutes or hours`
     )
-  return Number(found[1]) * (found[2] === "h" ? 60 : 1)
+  return minutes
 }
 
 export function pageOf(at: string): Record<string, unknown> {
