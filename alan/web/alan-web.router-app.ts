@@ -158,6 +158,7 @@ export const alanWeb = {
     "route/about",
     "route/categorization",
     "route/claude-usage",
+    "route/cost",
     "route/device-secret-admission",
     "route/habit-stoplights",
     "route/inbox-stoplights",

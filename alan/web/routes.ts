@@ -30,6 +30,7 @@ export default [
   ),
   route("api/errors", "routes/alan-web-api-errors/alan-web-api-errors.route.code.ts"),
   route("api/claude-usage", "routes/claude-usage/claude-usage.route.code.ts"),
+  route("api/cost", "routes/cost/cost.route.code.ts"),
   route("api/inbox-stoplights", "routes/inbox-stoplights/inbox-stoplights.route.code.ts"),
   route("api/habit-stoplights", "routes/habit-stoplights/habit-stoplights.route.code.ts"),
   route("api/attribute-stoplights", "attribute-stoplights/attribute-stoplights.module.code.ts"),
