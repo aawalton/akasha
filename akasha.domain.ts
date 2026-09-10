@@ -34,7 +34,7 @@ export const akasha = {
     "domain/temper",
     "domain/story",
     "domain/places",
-    "domain/image-generation",
+    "domain/image",
     "domain/infrastructure",
     "domain/inference",
     "domain/mathematics",

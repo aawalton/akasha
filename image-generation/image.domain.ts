@@ -1,10 +1,10 @@
 import type { Domain } from "../domains/domain.page-type.types.ts"
 
-export const imageGeneration = {
+export const image = {
   id: "01a06553-a9b6-7281-9f32-c3201ea4a802",
   pageTypeSlug: "domain",
   type: "domain",
-  slug: "image-generation",
+  slug: "image",
   definition: "making an image from text or from another image",
   parts: ["domain/z-image-turbo"],
   invariants: [
