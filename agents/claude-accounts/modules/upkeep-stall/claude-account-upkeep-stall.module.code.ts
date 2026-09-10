@@ -15,12 +15,8 @@ const MS_AN_HOUR = 60 * 60 * 1000
 
 const HOUR_DECIMALS = 1
 
-// The upkeep renews a token once its remaining life is under the margin, and passes on a period
-// whose first pass may be deferred by one further period. Two periods is therefore the longest a
-// pass can legitimately be late.
 const PERIODS_A_PASS_MAY_BE_LATE = 2
 
-// A missed pass with a whole further pass of slack on top.
 const PERIODS_OF_USAGE_SLACK = 3
 
 export const EXPIRY_FLOOR_MS =
@@ -177,9 +173,6 @@ export function readingsIn(root: string): readonly AccountReading[] {
   return everyAccountIn(root).map((one) => {
     try {
       const beside = accountBesideIn(root, one.slug)
-      // A page with nothing beside it is a failure to look rather than an account upkeep has
-      // never reached: `accountBesideIn` answers an empty record both where the file is absent
-      // and where it would not parse, and the two are not told apart here.
       if (beside === null || Object.keys(beside).length === 0) {
         return { slug: one.slug, beside: null, why: NOTHING_BESIDE }
       }

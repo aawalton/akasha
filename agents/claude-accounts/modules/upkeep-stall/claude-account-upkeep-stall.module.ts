@@ -26,6 +26,14 @@ export const claudeAccountUpkeepStall = {
     },
     {
       invariantKind: "departure",
+      statement: "An upkeep run is legitimately late by at most two of the upkeep's periods.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A usage reading is allowed one further period of slack past a missed run.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The worst fault found is the verdict answered.",
     },
     {
