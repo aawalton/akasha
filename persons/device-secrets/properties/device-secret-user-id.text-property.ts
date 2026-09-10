@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type UserId = string
+export type DeviceSecretUserId = string
 
 export const deviceSecretUserId = {
   id: "01a05b39-f50c-7103-abe2-bf3c03f7aab4",

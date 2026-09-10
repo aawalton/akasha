@@ -3,10 +3,10 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { DeviceSecretDeviceId } from "./properties/device-secret-device-id.text-property.ts"
 import type { DeviceSecretHash } from "./properties/device-secret-hash.text-property.ts"
 import type { DeviceSecretRevokedAt } from "./properties/device-secret-revoked-at.instant-property.ts"
-import type { UserId } from "./properties/device-secret-user-id.text-property.ts"
+import type { DeviceSecretUserId } from "./properties/device-secret-user-id.text-property.ts"
 
 export type DeviceSecret = Page & {
-  userId: UserId
+  userId: DeviceSecretUserId
   deviceId: DeviceSecretDeviceId
   secretHash: DeviceSecretHash
   revokedAt?: DeviceSecretRevokedAt
