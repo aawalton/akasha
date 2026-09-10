@@ -1,4 +1,4 @@
-import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { chmodSync, lstatSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { said as gitIn } from "../../../../git/running/git-running.module.code.ts"
 import { type Answer, answering, type Given } from "../../../modules/calling/calling.module.code.ts"
@@ -12,6 +12,10 @@ const HEAD = "HEAD"
 const BLOB = "blob"
 
 const STAGED = "0"
+
+const GONE = "0"
+
+const NO_OID = "0".repeat(40)
 
 const MODES = new Map<string, number>([
   ["100644", 0o644],
@@ -35,6 +39,11 @@ export type Held = {
   readonly was: Uint8Array | null
   readonly diskHolds: boolean
   readonly indexHolds: boolean
+}
+
+export type Cleared = {
+  readonly path: string
+  readonly entry: Entry
 }
 
 export type Read = { readonly named: readonly string[] } | { readonly refused: string }
@@ -107,11 +116,35 @@ function bytesOnDisk(at: string): Uint8Array | null {
   }
 }
 
+function anythingOnDisk(at: string): boolean {
+  try {
+    lstatSync(at)
+    return true
+  } catch {
+    return false
+  }
+}
+
 export function unheld(path: string): string {
   return (
     `HEAD holds no ${path}, so \`akasha git restore\` has nothing to put back there — a path HEAD ` +
     "does not hold is often work another agent has not landed, so this refuses rather than " +
     "deleting it"
+  )
+}
+
+export function unlanded(path: string): string {
+  return (
+    `HEAD holds no ${path}, the git index holds it, and the working tree holds it too — that is ` +
+    "work another agent staged and has not landed, so `akasha git restore` refuses rather than " +
+    "deleting it"
+  )
+}
+
+export function unclearable(path: string, entry: Entry): string {
+  return (
+    `HEAD holds no ${path} and the git index holds it with mode ${entry.mode}, and \`akasha git ` +
+    "restore` clears a git index entry for a file with mode 100644 or 100755 alone"
   )
 }
 
@@ -147,7 +180,16 @@ function heldFor(root: string, path: string, entry: Entry, indexed?: Entry): Hel
   }
 }
 
-type Judged = { readonly held: readonly Held[] } | { readonly refusals: readonly string[] }
+function residueFor(root: string, path: string, indexed: Entry | undefined): Cleared | string {
+  if (indexed === undefined) return unheld(path)
+  if (anythingOnDisk(join(root, path))) return unlanded(path)
+  if (!MODES.has(indexed.mode)) return unclearable(path, indexed)
+  return { path, entry: indexed }
+}
+
+type Judged =
+  | { readonly held: readonly Held[]; readonly cleared: readonly Cleared[] }
+  | { readonly refusals: readonly string[] }
 
 export function judgedIn(root: string, paths: readonly string[]): Judged {
   let head: ReadonlyMap<string, Entry>
@@ -164,18 +206,21 @@ export function judgedIn(root: string, paths: readonly string[]): Judged {
     }
   }
   const held: Held[] = []
+  const cleared: Cleared[] = []
   const refusals: string[] = []
   for (const path of paths) {
     const entry = head.get(path)
     if (entry === undefined) {
-      refusals.push(unheld(path))
+      const residue = residueFor(root, path, indexed.get(path))
+      if (typeof residue === "string") refusals.push(residue)
+      else cleared.push(residue)
       continue
     }
     const one = heldFor(root, path, entry, indexed.get(path))
     if (typeof one === "string") refusals.push(one)
     else held.push(one)
   }
-  return refusals.length > 0 ? { refusals } : { held }
+  return refusals.length > 0 ? { refusals } : { held, cleared }
 }
 
 type Wanted = { readonly paths: readonly string[] } | { readonly refusals: readonly string[] }
@@ -207,9 +252,16 @@ function putBack(root: string, one: Held): undefined {
   chmodSync(at, MODES.get(one.entry.mode) ?? 0o644)
 }
 
-function staged(root: string, going: readonly Held[]): undefined {
-  if (going.length === 0) return
-  const lines = going.map((one) => `${one.entry.mode} ${one.entry.oid} ${STAGED}\t${one.path}`)
+function indexWritten(
+  root: string,
+  going: readonly Held[],
+  cleared: readonly Cleared[]
+): undefined {
+  const lines = [
+    ...going.map((one) => `${one.entry.mode} ${one.entry.oid} ${STAGED}\t${one.path}`),
+    ...cleared.map((one) => `${GONE} ${NO_OID}\t${one.path}`),
+  ]
+  if (lines.length === 0) return
   gitIn(root, ["update-index", "--index-info"], {
     stdin: new TextEncoder().encode(`${lines.join("\n")}\n`),
   })
@@ -228,11 +280,19 @@ function goingSaid(one: Held): string {
   return `  ${one.path} — ${diskSaid(one)}, and ${index}`
 }
 
+function clearedSaid(one: Cleared): string {
+  return `  ${one.path} — nothing is on disk, HEAD holds no body, and the git index holds a body`
+}
+
 function counted(many: number): string {
   return many === 1 ? "1 path" : `${many} paths`
 }
 
-export function reportOf(going: readonly Held[], left: readonly Held[]): readonly string[] {
+export function reportOf(
+  going: readonly Held[],
+  left: readonly Held[],
+  cleared: readonly Cleared[]
+): readonly string[] {
   const report: string[] = []
   if (going.length > 0) {
     report.push(
@@ -242,8 +302,21 @@ export function reportOf(going: readonly Held[], left: readonly Held[]): readonl
       ""
     )
   }
+  if (cleared.length > 0) {
+    report.push(
+      `akasha git restore is clearing a git index entry at ${counted(cleared.length)}, and the ` +
+        "entry is all that goes — no commit held that body and no file on disk holds it:",
+      ...cleared.map(clearedSaid),
+      ""
+    )
+  }
   for (const one of going) {
     report.push(`${one.path} is the body HEAD holds again, on disk and in the git index`)
+  }
+  for (const one of cleared) {
+    report.push(
+      `${one.path} is out of the git index, and HEAD and the working tree hold nothing there`
+    )
   }
   for (const one of left) {
     report.push(`${one.path} is already the body HEAD holds, so akasha git restore left it alone`)
@@ -275,7 +348,7 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
       putBack(root, one)
       done.push(one)
     }
-    staged(root, going)
+    indexWritten(root, going, judged.cleared)
   } catch (why) {
     return answering(
       done.map((one) => `${one.path} is the body HEAD holds again on disk`),
@@ -286,5 +359,5 @@ export function gitRestore(argv: readonly string[], given: Given): Answer {
       1
     )
   }
-  return answering(reportOf(going, left), [], 0)
+  return answering(reportOf(going, left, judged.cleared), [], 0)
 }

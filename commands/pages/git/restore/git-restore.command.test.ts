@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, readFileSync, statSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, rmSync, statSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { said as gitIn } from "../../../../git/running/git-running.module.code.ts"
@@ -10,6 +10,8 @@ import { gitRestore } from "./git-restore.command.code.ts"
 const ONE = "akasha/one.ts"
 
 const TWO = "akasha/two.ts"
+
+const RESIDUE = "akasha/residue.ts"
 
 const HELD = "committed\n"
 
@@ -51,6 +53,13 @@ function headOid(root: string, path: string): string {
 
 function drifted(root: string, path: string, body: string = DRIFT): undefined {
   writeFileSync(join(root, path), body)
+}
+
+function indexOnly(root: string, body: string = DRIFT): string {
+  const at = put(root, RESIDUE, body)
+  gitIn(root, ["add", "--", RESIDUE])
+  rmSync(at)
+  return at
 }
 
 test("a drifted file is the body HEAD holds again, on disk and in the git index", () => {
@@ -97,6 +106,69 @@ test("a path HEAD does not hold is refused, and is left as it is", () => {
   expect(said.refusals.join("\n")).toContain("refuses rather than deleting it")
   expect(existsSync(at)).toBe(true)
   expect(readFileSync(at, "utf8")).toBe("another agent is working on this\n")
+})
+
+test("a git index entry HEAD and the working tree both lack is cleared", () => {
+  const root = repoWith()
+  const at = indexOnly(root)
+  expect(stagedOid(root, RESIDUE)).not.toBe("")
+  const said = gitRestore(["--file-path", RESIDUE], givenIn(root))
+  expect(said.code).toBe(0)
+  expect(stagedOid(root, RESIDUE)).toBe("")
+  expect(existsSync(at)).toBe(false)
+  expect(gitIn(root, ["status", "--porcelain", "--", RESIDUE])).toBe("")
+  expect(said.report.join("\n")).toContain("is clearing a git index entry at 1 path")
+  expect(said.report.join("\n")).toContain(`${RESIDUE} is out of the git index`)
+  expect(said.report.join("\n")).not.toContain("is discarding uncommitted work")
+})
+
+test("a path the git index holds and the working tree holds too is refused, and both are left", () => {
+  const root = repoWith()
+  const body = "another agent staged this and has not landed it\n"
+  const at = put(root, RESIDUE, body)
+  gitIn(root, ["add", "--", RESIDUE])
+  const was = stagedOid(root, RESIDUE)
+  const said = gitRestore(["--file-path", RESIDUE], givenIn(root))
+  expect(said.code).toBe(1)
+  expect(said.refusals.join("\n")).toContain("work another agent staged and has not landed")
+  expect(existsSync(at)).toBe(true)
+  expect(readFileSync(at, "utf8")).toBe(body)
+  expect(stagedOid(root, RESIDUE)).toBe(was)
+})
+
+test("a git index entry that is no file is refused rather than cleared", () => {
+  const root = repoWith()
+  symlinkSync("one.ts", join(root, RESIDUE))
+  gitIn(root, ["add", "--", RESIDUE])
+  rmSync(join(root, RESIDUE))
+  const said = gitRestore(["--file-path", RESIDUE], givenIn(root))
+  expect(said.code).toBe(1)
+  expect(said.refusals.join("\n")).toContain("with mode 120000")
+  expect(stagedOid(root, RESIDUE)).not.toBe("")
+})
+
+test("one path refused leaves a git index entry the same call would have cleared", () => {
+  const root = repoWith()
+  indexOnly(root)
+  const was = stagedOid(root, RESIDUE)
+  const said = gitRestore(["--file-path", RESIDUE, "--file-path", "akasha/gone.ts"], givenIn(root))
+  expect(said.code).toBe(1)
+  expect(stagedOid(root, RESIDUE)).toBe(was)
+})
+
+test("a git index entry cleared and a body put back go in one call", () => {
+  const root = repoWith()
+  drifted(root, ONE)
+  indexOnly(root)
+  const said = gitRestore(["--file-path", ONE, "--file-path", RESIDUE], givenIn(root))
+  expect(said.code).toBe(0)
+  expect(onDisk(root, ONE)).toBe(HELD)
+  expect(stagedOid(root, ONE)).toBe(headOid(root, ONE))
+  expect(stagedOid(root, RESIDUE)).toBe("")
+  const report = said.report.join("\n")
+  expect(report.indexOf("is clearing a git index entry")).toBeLessThan(
+    report.indexOf("is the body HEAD holds again")
+  )
 })
 
 test("a path already holding HEAD's body is left alone and said so", () => {

@@ -5,18 +5,17 @@ export const gitRestore = {
   pageTypeSlug: "command",
   type: "command",
   slug: "git-restore",
-  definition: "named paths put back as HEAD has them, in the working tree and in the git index",
+  definition: "named paths put back to what HEAD says, in the working tree and in the git index",
   code: "ts",
   test: "ts",
   changeKind: "change-none",
-  taking: [
-    { said: "--file-path <path>", takes: "a path HEAD holds, to put back as HEAD holds it" },
-  ],
+  taking: [{ said: "--file-path <path>", takes: "a path to put back to what HEAD says of it" }],
   helpNotes: [
     "--file-path repeats, so several paths go back in one call.",
     "nothing else names a path: there is no --all, no folder, and no whole-tree sweep.",
     "the worktree is shared with other agents, so a restore is narrow by construction.",
-    "a path HEAD does not hold is refused rather than deleted.",
+    "a path HEAD does not hold, that the working tree holds, is refused rather than deleted.",
+    "a path HEAD and the working tree both lack, that the git index alone holds, loses that entry.",
     "a path already holding HEAD's body is said so and left alone.",
     "the answer says what uncommitted work went before it says what was put back.",
     "one path refused refuses the whole call, and nothing is written.",
@@ -49,11 +48,23 @@ export const gitRestore = {
     },
     {
       invariantKind: "departure",
-      statement: "A path HEAD has no file at is refused.",
+      statement: "A path HEAD has no file at and the git index has no entry for is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path HEAD has no file at and the working tree holds a file at is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path only the git index holds, as a file, has that git index entry cleared.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path only the git index holds as anything but a file is refused.",
     },
     {
       invariantKind: "absence",
-      statement: "A path this command is named is never deleted.",
+      statement: "A file this command is named is never deleted from the working tree.",
     },
     {
       invariantKind: "departure",
@@ -83,6 +94,14 @@ export const gitRestore = {
     {
       invariantKind: "departure",
       statement: "A path whose git index alone has another body is put back too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A git index entry cleared is said as its own case rather than as a restore.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No working tree file is written where a git index entry alone is cleared.",
     },
     {
       invariantKind: "departure",
