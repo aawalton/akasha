@@ -71,6 +71,11 @@ export const deployWebPuttingUp = {
       statement: "The pod a build is reported in is the pod serving once every rollout is done.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "What a pod serves and what a build made are reported under labels sharing no prefix.",
+    },
+    {
       invariantKind: "absence",
       statement: "The pod a build ran in is named by nothing the report carries.",
     },

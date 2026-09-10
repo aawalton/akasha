@@ -109,7 +109,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
     )
   } else {
     const from = held === null ? "no pod says" : held.builtFrom === "" ? "nothing" : held.builtFrom
-    report.push(`build\t${target.packagePath}\tfrom ${from}`)
+    report.push(`serving\t${target.packagePath}\tfrom ${from}`)
   }
 
   let resolved: Resolved = { env: [], hidden: [], missing: [] }
