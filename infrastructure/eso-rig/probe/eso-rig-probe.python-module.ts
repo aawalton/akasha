@@ -1,4 +1,4 @@
-import type { PythonModule } from "@akasha/code/python-module"
+import type { PythonModule } from "akasha/code-system/python-modules/python-module.page-type.types.ts"
 
 export const esoRigProbe = {
   id: "01a06866-58f8-770f-b723-c2388b0115da",

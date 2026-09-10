@@ -1,4 +1,4 @@
-import type { PythonModule } from "@akasha/code/python-module"
+import type { PythonModule } from "akasha/code-system/python-modules/python-module.page-type.types.ts"
 
 export const voiceObjectStore = {
   id: "01a06815-9efd-7018-9a5e-de26f9d0fc53",

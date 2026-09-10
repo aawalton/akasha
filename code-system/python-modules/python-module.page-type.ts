@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { BytecodeDirectory } from "./properties/bytecode-directory.build-folder-property.ts"
-import type { Python } from "./properties/python.code-file-property.ts"
-
-export type PythonModule = Domain & {
-  python: Python
-  bytecodeDirectory?: BytecodeDirectory
-}
 
 export const pythonModule = {
   id: "01a06815-9efd-7001-8696-539b1123a2c0",
@@ -45,4 +37,5 @@ export const pythonModule = {
       statement: "Nothing in akasha imports a Python module.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
