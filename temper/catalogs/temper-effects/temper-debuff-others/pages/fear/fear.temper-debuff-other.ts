@@ -1,4 +1,4 @@
-import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.ts"
+import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.types.ts"
 
 export const fear = {
   id: "01a05fc6-42c8-72c5-af3c-e4d6d6faa057",

@@ -1,4 +1,4 @@
-import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.ts"
+import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.types.ts"
 
 export const concussed = {
   id: "01a05fc6-42c7-73da-830f-9717c9e35d8f",

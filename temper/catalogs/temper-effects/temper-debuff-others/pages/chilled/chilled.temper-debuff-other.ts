@@ -1,4 +1,4 @@
-import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.ts"
+import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.types.ts"
 
 export const chilled = {
   id: "01a05fc6-42c6-745f-bbf7-30d7a512a5aa",

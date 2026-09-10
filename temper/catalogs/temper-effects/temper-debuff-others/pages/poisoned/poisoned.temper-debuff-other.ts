@@ -1,4 +1,4 @@
-import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.ts"
+import type { TemperDebuffOther } from "../../temper-debuff-other.page-type.types.ts"
 
 export const poisoned = {
   id: "01a05fc6-42c9-7738-b664-0a5ebbb61a72",
