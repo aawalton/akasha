@@ -1,4 +1,4 @@
-import type { Game } from "../../game.page-type.ts"
+import type { Game } from "../../game.page-type.types.ts"
 
 export const theVioletHour = {
   id: "01a0673f-a3d8-7000-910a-f80b20ecd496",

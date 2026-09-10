@@ -1,4 +1,4 @@
-import type { Game } from "../../game.page-type.ts"
+import type { Game } from "../../game.page-type.types.ts"
 
 export const dateNightFreePlay = {
   id: "01a0673f-a3d5-7000-9c88-f3f6c8a46bf3",
