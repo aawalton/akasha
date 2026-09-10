@@ -1,10 +1,14 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { configChecksum } from "akasha/infrastructure/cluster/k8s-types/config-checksum/config-checksum.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
 
 const NAMESPACE = "grafana"
+const SECRETS_NAME = "grafana-secrets"
+const SECRETS_KEYS = ["GRAFANA_ADMIN_PASSWORD", "GRAFANA_DB_RO_PASSWORD"]
 const APP_NAME = "grafana"
 const INSTANCE_NAME = "grafana"
 const COMPONENT = "visualization"
@@ -80,6 +84,22 @@ const DASHBOARDS_PROVIDER_YAML = [
   "",
 ].join("\n")
 
+const DATASOURCES_DATA = {
+  "datasources.yaml": DATASOURCES_YAML,
+  "dashboards.yaml": DASHBOARDS_PROVIDER_YAML,
+} as const
+
+function dashboardsData(): Record<string, string> {
+  const data: Record<string, string> = {}
+  for (const slug of DASHBOARD_SLUGS) {
+    data[`${slug}.json`] = readFileSync(
+      join(import.meta.dir, "..", "dashboards", "pages", slug, `${slug}.dashboard.layout.json`),
+      "utf8"
+    )
+  }
+  return data
+}
+
 function datasourcesConfigmapYaml(): string {
   return synthOne(NAMESPACE, "datasources-configmap", {
     apiVersion: "v1",
@@ -89,21 +109,11 @@ function datasourcesConfigmapYaml(): string {
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
-    data: {
-      "datasources.yaml": DATASOURCES_YAML,
-      "dashboards.yaml": DASHBOARDS_PROVIDER_YAML,
-    },
+    data: DATASOURCES_DATA,
   })
 }
 
-function dashboardsConfigmapYaml(): string {
-  const data: Record<string, string> = {}
-  for (const slug of DASHBOARD_SLUGS) {
-    data[`${slug}.json`] = readFileSync(
-      join(import.meta.dir, "..", "dashboards", "pages", slug, `${slug}.dashboard.layout.json`),
-      "utf8"
-    )
-  }
+function dashboardsConfigmapYaml(data: Readonly<Record<string, string>>): string {
   return synthOne(NAMESPACE, "dashboards-configmap", {
     apiVersion: "v1",
     kind: "ConfigMap",
@@ -116,7 +126,7 @@ function dashboardsConfigmapYaml(): string {
   })
 }
 
-function deploymentYaml(): string {
+function deploymentYaml(dashboards: Readonly<Record<string, string>>): string {
   return synthOne(NAMESPACE, "deployment", {
     apiVersion: "apps/v1",
     kind: "Deployment",
@@ -132,8 +142,8 @@ function deploymentYaml(): string {
       template: {
         metadata: {
           annotations: {
-            "checksum/config": "placeholder",
-            "checksum/grafana-secrets": "placeholder",
+            "checksum/config": configChecksum({ ...DATASOURCES_DATA, ...dashboards }),
+            "checksum/grafana-secrets": secretChecksum(NAMESPACE, SECRETS_NAME, SECRETS_KEYS),
           },
           labels: RESOURCE_LABELS,
         },
@@ -164,7 +174,7 @@ function deploymentYaml(): string {
                   name: "GF_SECURITY_ADMIN_PASSWORD",
                   valueFrom: {
                     secretKeyRef: {
-                      name: "grafana-secrets",
+                      name: SECRETS_NAME,
                       key: "GRAFANA_ADMIN_PASSWORD",
                     },
                   },
@@ -185,7 +195,7 @@ function deploymentYaml(): string {
                   name: "GRAFANA_DB_RO_PASSWORD",
                   valueFrom: {
                     secretKeyRef: {
-                      name: "grafana-secrets",
+                      name: SECRETS_NAME,
                       key: "GRAFANA_DB_RO_PASSWORD",
                     },
                   },
@@ -292,11 +302,12 @@ function serviceYaml(): string {
 }
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
+  const dashboards = dashboardsData()
   return [
     { name: "namespace", yaml: namespaceYaml(NAMESPACE, NAMESPACE_LABELS) },
     { name: "datasources-configmap", yaml: datasourcesConfigmapYaml() },
-    { name: "dashboards-configmap", yaml: dashboardsConfigmapYaml() },
-    { name: "deployment", yaml: deploymentYaml() },
+    { name: "dashboards-configmap", yaml: dashboardsConfigmapYaml(dashboards) },
+    { name: "deployment", yaml: deploymentYaml(dashboards) },
     { name: "service", yaml: serviceYaml() },
   ]
 }
