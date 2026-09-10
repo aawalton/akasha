@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { EmailRule } from "../email-rule.page-type.types.ts"
-import type { EmailRuleJudgement } from "./properties/email-rule-judgement.text-property.ts"
-
-export type EmailRuleAgent = EmailRule & {
-  judgement: EmailRuleJudgement
-}
 
 export const emailRuleAgent = {
   id: "01a06828-59d3-7dd3-b9b9-fa6dda8d02d4",
@@ -36,4 +30,5 @@ export const emailRuleAgent = {
         "A case an agent comes to understand becomes a code rule and stops reaching an agent rule.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

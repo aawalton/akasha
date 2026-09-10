@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../../../../../../persons/people/email/rules/agents/email-rule-agent.page-type.ts"
+import type { EmailRuleAgent } from "../../../../../../persons/people/email/rules/agents/email-rule-agent.page-type.types.ts"
 
 export const dmarcSenderOther = {
   id: "01a06863-fbe8-7e8f-b007-0de759a54215",
