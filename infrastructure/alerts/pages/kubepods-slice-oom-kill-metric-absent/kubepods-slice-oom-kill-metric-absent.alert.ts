@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const kubepodsSliceOomKillMetricAbsent = {
   id: "01a06755-62fa-72b8-b8f2-d882da3e6c54",

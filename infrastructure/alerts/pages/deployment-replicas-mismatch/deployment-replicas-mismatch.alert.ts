@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const deploymentReplicasMismatch = {
   id: "01a06755-62f9-7d75-afac-24b03a961811",

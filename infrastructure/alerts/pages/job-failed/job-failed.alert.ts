@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const jobFailed = {
   id: "01a06755-62fa-72bc-bd95-dd17149f5f38",

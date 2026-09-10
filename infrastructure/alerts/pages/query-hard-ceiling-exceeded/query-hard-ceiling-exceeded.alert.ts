@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const queryHardCeilingExceeded = {
   id: "01a06755-62fb-7bbd-8803-3570c74b3247",

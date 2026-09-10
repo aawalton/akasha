@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const k3sApiserverWatchCacheReinitializing = {
   id: "01a06755-62fa-7cad-916c-cccd22a19c37",

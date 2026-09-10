@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const postgresReplicationLag = {
   id: "01a06755-62fb-73a2-a2fb-eea6379bcf60",

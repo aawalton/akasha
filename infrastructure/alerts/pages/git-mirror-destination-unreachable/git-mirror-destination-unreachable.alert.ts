@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const gitMirrorDestinationUnreachable = {
   id: "01a06755-62f9-7bf4-9544-04ea427cae2a",

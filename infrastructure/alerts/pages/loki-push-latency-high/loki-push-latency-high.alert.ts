@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const lokiPushLatencyHigh = {
   id: "01a06755-62fa-7ae7-bdf6-d55591a04cae",

@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const postgresBackupMetricAbsent = {
   id: "01a06755-62fa-76d4-be89-1a7b1e7ba042",

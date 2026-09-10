@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const gitMirrorProbeUnauthenticated = {
   id: "01a06755-62f9-72b6-a674-1f6b0f2c2099",

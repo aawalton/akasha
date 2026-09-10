@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const containerMemoryNearLimit = {
   id: "01a06755-62f9-7e03-bd69-9caced3fcadb",

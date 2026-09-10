@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const servedTlsCertStale = {
   id: "01a087cb-1b19-7002-b28a-25d4ab8d634e",

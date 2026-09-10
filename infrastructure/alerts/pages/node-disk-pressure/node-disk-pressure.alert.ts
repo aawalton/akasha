@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const nodeDiskPressure = {
   id: "01a06755-62fa-77f4-b722-505724308e48",

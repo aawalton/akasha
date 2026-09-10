@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const postgresStorageGrowthAnomaly = {
   id: "01a06755-62fb-7e54-93df-01d88f7d9d33",

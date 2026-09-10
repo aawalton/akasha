@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const k3sApiserverTerminatedWatchers = {
   id: "01a06755-62fa-71d1-8a3b-76e01294ba19",

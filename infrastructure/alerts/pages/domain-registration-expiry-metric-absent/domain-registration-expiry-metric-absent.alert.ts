@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const domainRegistrationExpiryMetricAbsent = {
   id: "01a06755-62f9-728b-a173-bc576a971329",

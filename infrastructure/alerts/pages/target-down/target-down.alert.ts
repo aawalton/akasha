@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const targetDown = {
   id: "01a06755-62fb-7224-9bc4-151ce311e259",

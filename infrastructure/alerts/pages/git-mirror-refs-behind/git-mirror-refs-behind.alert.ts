@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const gitMirrorRefsBehind = {
   id: "01a06755-62f9-7f02-9ed3-856e536f328e",

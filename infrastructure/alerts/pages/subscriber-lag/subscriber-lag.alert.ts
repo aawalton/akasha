@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const subscriberLag = {
   id: "01a06755-62fb-7e20-b27c-e1110a2c8e90",

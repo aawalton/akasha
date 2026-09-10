@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const queryPerfEvaluatorAbsent = {
   id: "01a06755-62fb-79ff-b164-b3d423227783",

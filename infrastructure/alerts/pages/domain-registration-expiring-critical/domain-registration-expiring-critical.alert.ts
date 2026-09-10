@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const domainRegistrationExpiringCritical = {
   id: "01a06755-62f9-74d6-83b8-852ac0c74cc7",

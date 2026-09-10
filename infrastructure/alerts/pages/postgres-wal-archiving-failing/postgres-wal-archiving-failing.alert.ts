@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const postgresWalArchivingFailing = {
   id: "01a06755-62fb-73ec-a1ab-c77b37446884",

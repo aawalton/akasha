@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const postgresBaseBackupStaleCritical = {
   id: "01a06755-62fa-7c46-8ae6-10e64dbf4ae3",

@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const nodeNotReady = {
   id: "01a06755-62fa-7984-a4b9-20c29a73e619",

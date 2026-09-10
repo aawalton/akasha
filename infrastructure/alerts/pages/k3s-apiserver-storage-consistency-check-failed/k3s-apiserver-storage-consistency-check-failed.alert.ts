@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const k3sApiserverStorageConsistencyCheckFailed = {
   id: "01a06755-62fa-7444-94b8-b66420795c5f",

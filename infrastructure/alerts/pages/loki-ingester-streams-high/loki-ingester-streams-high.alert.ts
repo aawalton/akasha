@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const lokiIngesterStreamsHigh = {
   id: "01a06755-62fa-714e-a2d1-da3d32e6cde9",

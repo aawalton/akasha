@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const seaweedfsStorageRunwayShort = {
   id: "01a06755-62fb-7e3c-a529-a6ff20c108b4",

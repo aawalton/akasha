@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const filesystemPredictedFull = {
   id: "01a06755-62f9-71ce-a1f7-7afd52da1193",

@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const nodeCpuPressureMetricAbsent = {
   id: "01a06755-62fa-7401-aa72-ada88b0eea14",

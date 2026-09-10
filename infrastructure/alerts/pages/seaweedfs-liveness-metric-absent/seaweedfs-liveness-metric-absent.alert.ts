@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const seaweedfsLivenessMetricAbsent = {
   id: "01a06755-62fb-79e5-8109-3cf37e9b47a9",

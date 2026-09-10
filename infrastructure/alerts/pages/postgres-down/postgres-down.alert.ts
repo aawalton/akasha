@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const postgresDown = {
   id: "01a06755-62fb-7183-ac82-e937b1aa44d7",

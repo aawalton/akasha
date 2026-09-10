@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const containerOomKilled = {
   id: "01a06755-62f9-7fe2-97ef-3a5b58a994c5",

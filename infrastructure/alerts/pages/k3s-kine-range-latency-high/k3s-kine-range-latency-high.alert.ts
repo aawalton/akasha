@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const k3sKineRangeLatencyHigh = {
   id: "01a06755-62fa-79b1-985f-1a93d19f552e",

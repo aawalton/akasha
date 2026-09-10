@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const certManagerCertExpiryMetricAbsent = {
   id: "01a06755-62f9-7946-98ea-7e85adabc2f5",

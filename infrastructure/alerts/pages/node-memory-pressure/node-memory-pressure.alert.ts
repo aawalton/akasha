@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const nodeMemoryPressure = {
   id: "01a06755-62fa-7f4c-83be-c05377088293",

@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const backupStale = {
   id: "01a06755-62f8-76a9-9ddd-9e1212a02a26",

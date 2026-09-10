@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const k3sApiserverListRequestErrors = {
   id: "01a06755-62fa-76b6-9995-9ef65d52174e",

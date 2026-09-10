@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const nodeCpuPressureHigh = {
   id: "01a06755-62fa-701d-b94b-ae150b97de31",

@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const gitMirrorMetricAbsent = {
   id: "01a06755-62f9-7398-aa41-cb26528ba164",

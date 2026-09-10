@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const seaweedfsVolumeServerDown = {
   id: "01a06755-62fb-7538-95b6-8c6185b09935",

@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const seaweedfsVolumeHeartbeatStalled = {
   id: "01a06755-62fb-7283-91e9-456e08ff1935",

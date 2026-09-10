@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const claudeAccountLoginNeeded = {
   id: "01a06755-62f9-7b9d-8e6a-3f512739d02d",

@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const lokiRequestErrorRateHigh = {
   id: "01a06755-62fa-7253-9300-43463c53ede3",

@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const statefulSetReplicasMismatch = {
   id: "01a06755-62fb-7f40-941a-70c89ba8b600",

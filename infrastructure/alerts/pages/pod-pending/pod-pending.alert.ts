@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const podPending = {
   id: "01a06755-62fa-7081-8013-cdfa3b7c5c5b",

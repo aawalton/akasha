@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const macbookInferenceProbeStale = {
   id: "01a06755-62fa-7222-9915-b6b5a1364ae3",

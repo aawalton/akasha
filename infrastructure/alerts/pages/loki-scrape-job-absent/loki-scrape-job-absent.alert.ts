@@ -1,4 +1,4 @@
-import type { Alert } from "../../alert.page-type.ts"
+import type { Alert } from "../../alert.page-type.types.ts"
 
 export const lokiScrapeJobAbsent = {
   id: "01a06755-62fa-70b8-8b67-12316c66ad5c",
