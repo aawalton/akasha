@@ -13,7 +13,7 @@ export type EquipmentItem = Page & {
   category: EquipmentCategory
   configuration: EquipmentConfiguration
   available: EquipmentAvailable
-  loads?: readonly EquipmentLoads[]
+  loads?: EquipmentLoads
   notes?: EquipmentNotes
   sortOrder?: EquipmentSortOrder
 }

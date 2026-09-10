@@ -1,6 +1,7 @@
 import type { NumberProperty } from "@akasha/pages/number-property"
+import type { List } from "@akasha/pages/page-property"
 
-export type EquipmentLoads = number
+export type EquipmentLoads = List<number>
 
 export const equipmentLoads = {
   id: "01a06865-7f45-7d1f-b0db-1e4af78cdf9c",
