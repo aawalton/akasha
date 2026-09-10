@@ -3,6 +3,7 @@ import { homedir } from "node:os"
 import { join } from "node:path"
 import { parseSessionLine } from "akasha/seat-system/session-jsonl/session-jsonl.module.code.ts"
 import type { TokenUsage } from "akasha/seat-system/session-jsonl-schema/session-jsonl-schema.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 const PER_MILLION = 1000000
 
@@ -101,8 +102,7 @@ export function storeIn(base: string): string {
 }
 
 export function storeHere(): string {
-  const said = process.env.CLAUDE_CONFIG_DIR
-  return storeIn(said === undefined || said === "" ? join(homedir(), ".claude") : said)
+  return storeIn(optionalEnv("CLAUDE_CONFIG_DIR") ?? join(homedir(), ".claude"))
 }
 
 export function sinceOf(now: number, days: number): number {
