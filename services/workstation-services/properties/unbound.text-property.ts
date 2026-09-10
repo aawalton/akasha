@@ -15,11 +15,12 @@ export const unbound = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A service publishes here each host name it states and could not bind.",
+      statement: "A service publishes here each host name the service states and could not bind.",
     },
     {
       invariantKind: "departure",
-      statement: "A service listening on every host name it states publishes nothing here.",
+      statement:
+        "A service listening on every host name the service states publishes nothing here.",
     },
     {
       invariantKind: "departure",

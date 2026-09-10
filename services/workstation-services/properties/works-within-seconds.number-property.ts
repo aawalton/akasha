@@ -17,7 +17,7 @@ export const worksWithinSeconds = {
     },
     {
       invariantKind: "departure",
-      statement: "A service stating this and having landed no round at all is broken.",
+      statement: "A service stating a window and having landed no round at all is broken.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,8 @@ export const worksWithinSeconds = {
     },
     {
       invariantKind: "departure",
-      statement: "A service states this only where the service writes when its work landed.",
+      statement:
+        "A service states a window only where the service writes when a round of work landed.",
     },
   ],
 } as const satisfies NumberProperty
