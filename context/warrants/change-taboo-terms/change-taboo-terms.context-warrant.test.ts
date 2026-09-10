@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { join } from "node:path"
+import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import type { Changing, Known } from "../../modules/warranting/warranting.module.code.ts"
 import {
   addedIn,
@@ -14,7 +14,7 @@ import {
 
 const STAND = "(?<![a-z])(stands?|standing|stood)(?![a-z])"
 
-const ROOT = join(import.meta.dir, "..", "..", "..")
+const ROOT = rootOf(import.meta.path)
 
 const A_PICTURE_AT = "personas/amy/amy.persona.mobile-wallpaper.png"
 
