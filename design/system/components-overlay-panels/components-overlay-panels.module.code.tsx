@@ -1,6 +1,5 @@
 "use client"
 
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import {
@@ -42,6 +41,12 @@ import {
   TableValue,
 } from "@akasha/design-primitives/table"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import {
+  Tabs,
+  TabsContent,
+  TabsList,
+  TabsTrigger,
+} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 
 export function ComponentsOverlayPanels() {
   return (

@@ -1,6 +1,5 @@
 "use client"
 
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import {
   Select,
   SelectContent,
@@ -8,6 +7,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
+import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
 import {
   type TargetArmorId,
   targetArmor,

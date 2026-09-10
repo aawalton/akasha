@@ -1,11 +1,11 @@
 "use client"
 
-import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
-import { FilterButton } from "@akasha/design-patterns/filter-button"
-import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
 import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filter-dimensions"
 import { OperatorFilterControl } from "@akasha/pages-ui-components/operator-filter-control"
+import { AddFilterButton } from "akasha/design/patterns/add-filter-button/add-filter-button.module.code.tsx"
+import { FilterButton } from "akasha/design/patterns/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
 import { useState } from "react"
 
 interface PagesFilterBarProps {

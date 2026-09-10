@@ -1,6 +1,5 @@
 "use client"
 
-import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { actionButtonConfigSchema } from "@akasha/pages-core/schema/action-button-config"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import {
@@ -14,6 +13,7 @@ import {
   useBadgeLayoutContext,
 } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { type MouseEvent, useEffect } from "react"
 
 export function ActionButtonPropertyBadge({

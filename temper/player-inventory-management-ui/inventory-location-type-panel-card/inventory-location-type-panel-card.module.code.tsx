@@ -1,6 +1,6 @@
 "use client"
 
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { classifyItem } from "akasha/temper/items-core/classify-item/classify-item.module.code.ts"
 import {
   ESO_BAG_BACKPACK,

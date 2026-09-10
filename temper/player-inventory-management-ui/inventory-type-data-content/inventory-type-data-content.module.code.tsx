@@ -1,14 +1,5 @@
 "use client"
 
-import {
-  Empty,
-  EmptyContent,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { Button } from "@akasha/design-primitives/button"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
@@ -16,6 +7,15 @@ import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-hea
 import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { scrollToCard } from "akasha/design/layout/scroll-to-card/scroll-to-card.module.code.ts"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { computeCurrencyGoldTotal } from "akasha/temper/items-core/inventory-currencies/inventory-currencies.module.code.ts"
 import {
   filterInventoryTypeGroups,

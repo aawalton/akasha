@@ -1,6 +1,6 @@
-import { StatRow } from "@akasha/design-patterns/stat-row"
 import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { StatRow } from "akasha/design/patterns/stat-row/stat-row.module.code.tsx"
 import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionMetricGroup } from "akasha/temper/companions-core/companion-metric-tree/companion-metric-tree.module.code.ts"
 import {

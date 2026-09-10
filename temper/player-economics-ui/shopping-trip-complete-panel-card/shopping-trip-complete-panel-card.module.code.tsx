@@ -1,5 +1,7 @@
 "use client"
 
+import { Button } from "@akasha/design-primitives/button"
+import { Card, CardContent } from "@akasha/design-primitives/card"
 import {
   Empty,
   EmptyContent,
@@ -7,9 +9,7 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "@akasha/design-patterns/empty"
-import { Button } from "@akasha/design-primitives/button"
-import { Card, CardContent } from "@akasha/design-primitives/card"
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { PackageCheck } from "lucide-react"
 import { formatGold } from "../companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 

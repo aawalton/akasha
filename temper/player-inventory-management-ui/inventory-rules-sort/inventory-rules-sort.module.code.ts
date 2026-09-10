@@ -1,5 +1,5 @@
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import type {
   CategoryRule,
   ItemRule,

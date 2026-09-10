@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const designPatterns = {
   id: "01a05c51-8287-7dba-82e4-64786876e805",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "design-patterns",
   definition: "the recurring pieces a list, a card and a toolbar are built from",
-  manifest: "json",
+
   parts: [
     "module/add-filter-button",
     "module/add-sort-button",
@@ -47,4 +47,4 @@ export const designPatterns = {
     "module/use-scroll-restoration",
     "module/use-set-toggle",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

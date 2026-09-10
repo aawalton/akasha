@@ -1,14 +1,14 @@
 "use client"
 
-import { ItemRow } from "@akasha/design-patterns/item-row"
-import { buildNodePath } from "@akasha/design-patterns/path"
-import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { formatGold } from "@akasha/design-primitives/format-gold"
 import { Text } from "@akasha/design-primitives/text-body"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
+import { buildNodePath } from "akasha/design/patterns/path/path.module.code.ts"
+import { useSetToggle } from "akasha/design/patterns/use-set-toggle/use-set-toggle.module.code.ts"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   ActionGroup,

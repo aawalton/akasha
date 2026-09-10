@@ -1,6 +1,5 @@
 "use client"
 
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Input } from "@akasha/design-primitives/input"
 import {
   Select,
@@ -11,6 +10,7 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
 import { toCharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { useEffect, useState } from "react"
 import { useCharacterMetadata } from "../use-character/use-character.module.code.ts"

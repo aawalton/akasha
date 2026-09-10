@@ -1,6 +1,6 @@
-import { AuthPageContent } from "@akasha/design-patterns/auth-page-content"
 import { safeRedirectTarget } from "@akasha/pages-url/safe-target"
 import { signInWithPassword } from "@akasha/supabase-rr/auth-client"
+import { AuthPageContent } from "akasha/design/patterns/auth-page-content/auth-page-content.module.code.tsx"
 import { useSearchParams } from "react-router"
 
 export function meta() {

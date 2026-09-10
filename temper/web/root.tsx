@@ -1,14 +1,6 @@
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
 import "./look/temper-web-look.stylesheet.styles.css"
 import "./temper-declared-effects/temper-declared-effects.module.code.ts"
-import {
-  Empty,
-  EmptyContent,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
 import { Button } from "@akasha/design-primitives/button"
 import { CommandPalette } from "@akasha/design-primitives/command-palette"
 import { ShortcutSheet } from "@akasha/design-primitives/shortcut-sheet"
@@ -31,6 +23,14 @@ import {
   type LayoutRouter,
   LayoutRouterProvider,
 } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect, useMemo } from "react"
 import {

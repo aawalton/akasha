@@ -1,14 +1,6 @@
 "use client"
 
 import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
-import { ItemRow } from "@akasha/design-patterns/item-row"
-import {
   AlertDialog,
   AlertDialogAction,
   AlertDialogCancel,
@@ -26,6 +18,14 @@ import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-hea
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
+import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
 import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import {
   needToShoppingItem,

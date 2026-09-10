@@ -1,4 +1,4 @@
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import {
   COMPANION_CARDS,
   type CompanionSummaryData,

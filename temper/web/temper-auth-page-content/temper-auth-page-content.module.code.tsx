@@ -1,13 +1,13 @@
 "use client"
 
+import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { safeInternalPath } from "@akasha/pages-url/safe-target"
+import { signInWithPassword, signUpWithPassword } from "@akasha/supabase-rr/auth-client"
 import {
   type AuthMode,
   type AuthSubmitPayload,
   AuthPageContent as DSAuthPageContent,
-} from "@akasha/design-patterns/auth-page-content"
-import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { safeInternalPath } from "@akasha/pages-url/safe-target"
-import { signInWithPassword, signUpWithPassword } from "@akasha/supabase-rr/auth-client"
+} from "akasha/design/patterns/auth-page-content/auth-page-content.module.code.tsx"
 import type { ReactNode } from "react"
 import { useState } from "react"
 import { clearLastPath, getLastPath } from "../path-tracker/path-tracker.module.code.ts"

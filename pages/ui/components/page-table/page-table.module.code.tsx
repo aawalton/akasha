@@ -1,6 +1,5 @@
 "use client"
 
-import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { cn } from "@akasha/design-primitives/cn"
 import {
   Table,
@@ -25,6 +24,7 @@ import { PropertyBadge } from "@akasha/pages-ui-components/property-badge"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
 import { useLoadMore } from "akasha/design/layout/use-load-more/use-load-more.module.code.ts"
+import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
 import type { ReactNode } from "react"
 import { ReorderableColumnTable } from "../page-table-header/page-table-header.module.code.tsx"

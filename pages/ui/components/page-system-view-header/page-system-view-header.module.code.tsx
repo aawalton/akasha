@@ -1,8 +1,5 @@
 "use client"
 
-import { SearchButton } from "@akasha/design-patterns/search-button"
-import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
-import { SortButton } from "@akasha/design-patterns/sort-button"
 import type { ViewConfig, ViewFilter } from "@akasha/pages-core/schema/view-data"
 import { PagesFilterBar } from "@akasha/pages-ui-components/page-filter-bar"
 import type { PageSystemTabContentProps } from "@akasha/pages-ui-components/page-system-tab-content-props"
@@ -12,6 +9,9 @@ import type { UsePageViewResult } from "@akasha/pages-ui-components/view-engine/
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { SearchButton } from "akasha/design/patterns/search-button/search-button.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
+import { SortButton } from "akasha/design/patterns/sort-button/sort-button.module.code.tsx"
 import type { Dispatch, SetStateAction } from "react"
 
 export interface PageSystemViewHeaderProps

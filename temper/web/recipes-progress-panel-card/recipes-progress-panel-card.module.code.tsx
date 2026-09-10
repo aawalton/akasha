@@ -1,6 +1,6 @@
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { requireGet } from "@akasha/utils/narrow/require-get"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type {

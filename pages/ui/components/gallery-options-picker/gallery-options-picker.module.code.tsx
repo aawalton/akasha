@@ -1,9 +1,9 @@
 "use client"
 
-import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
 import { SubView } from "@akasha/design-primitives/sub-view"
 import { GALLERY_CARD_SIZES, type GalleryCardSize } from "@akasha/pages-core/view/gallery"
+import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
 
 interface GalleryOptionsPickerProps {
   coverSource?: string

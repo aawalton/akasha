@@ -1,11 +1,11 @@
 "use client"
 
-import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
-import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import { Button } from "@akasha/design-primitives/button"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { useFilterPersistence } from "akasha/design/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { ChevronLeft, Swords } from "lucide-react"
 import { DungeonsTab } from "../dungeons-tab/dungeons-tab.module.code.tsx"
 

@@ -10,7 +10,7 @@ export const design = {
     "domain/design-badges",
     "domain/design-forms",
     "domain/design-layout",
-    "workspace-package/design-patterns",
+    "domain/design-patterns",
     "workspace-package/design-primitives",
     "workspace-package/design-system",
     "domain/design-tokens",

@@ -1,4 +1,4 @@
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import type { AccountAntiquityLoreProgress } from "akasha/temper/player-completion/completion-ui-types/completion-ui-types.module.code.ts"

@@ -1,11 +1,14 @@
-import type { GroupOption } from "@akasha/design-patterns/group-button"
-import type { SortEntry, SortOption } from "@akasha/design-patterns/sort-types"
 import type {
   GroupGranularity,
   ViewLayout,
   VisibilityChange,
 } from "@akasha/pages-core/schema/view-data"
 import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
+import type { GroupOption } from "akasha/design/patterns/group-button/group-button.module.code.tsx"
+import type {
+  SortEntry,
+  SortOption,
+} from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 
 export interface PageTypeOption {
   id: string

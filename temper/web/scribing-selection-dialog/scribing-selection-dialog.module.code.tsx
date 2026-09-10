@@ -1,4 +1,3 @@
-import { ItemCard } from "@akasha/design-patterns/item-card"
 import { Button } from "@akasha/design-primitives/button"
 import { Command, CommandInput, CommandList } from "@akasha/design-primitives/command"
 import {
@@ -8,6 +7,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@akasha/design-primitives/dialog"
+import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
 import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillName } from "akasha/temper/character-skills/scribed-skills/scribed-skills.module.code.ts"
 import {

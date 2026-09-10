@@ -1,4 +1,4 @@
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import type { AccountQuestUnionProgress } from "akasha/temper/player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import type { CompanionCardId } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import {

@@ -1,7 +1,5 @@
 "use client"
 
-import { Icon } from "@akasha/design-patterns/lucide-icon"
-import { TabsList, TabsTrigger } from "@akasha/design-patterns/tabs"
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -28,6 +26,8 @@ import {
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
 import { horizontalListSortingStrategy, SortableContext, useSortable } from "@dnd-kit/sortable"
 import { CSS } from "@dnd-kit/utilities"
+import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
+import { TabsList, TabsTrigger } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { Ellipsis } from "lucide-react"
 import { type CSSProperties, useCallback, useEffect, useRef, useState } from "react"
 

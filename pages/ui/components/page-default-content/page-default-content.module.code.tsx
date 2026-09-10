@@ -1,7 +1,5 @@
 "use client"
 
-import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
-import { IconPicker } from "@akasha/design-patterns/icon-picker"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { BlockEditor } from "@akasha/pages-ui/block-editor/block-editor"
 import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
@@ -20,6 +18,13 @@ import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inl
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { PAGE_TITLE_CLASSES } from "akasha/design/layout/page-layout-data/page-layout-data.module.code.ts"
 import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
+import { IconPicker } from "akasha/design/patterns/icon-picker/icon-picker.module.code.tsx"
 import { PageCover } from "../page-cover/page-cover.module.code.tsx"
 import { PageDetailProperties } from "../page-detail-properties/page-detail-properties.module.code.tsx"
 import { PageDetailReferrers } from "../page-detail-referrers/page-detail-referrers.module.code.tsx"

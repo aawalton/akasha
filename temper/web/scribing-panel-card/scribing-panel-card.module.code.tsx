@@ -1,6 +1,6 @@
-import { ItemCard } from "@akasha/design-patterns/item-card"
 import { Button } from "@akasha/design-primitives/button"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
 import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillName } from "akasha/temper/character-skills/scribed-skills/scribed-skills.module.code.ts"
 import { grimoires } from "akasha/temper/character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"

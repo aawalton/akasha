@@ -1,12 +1,12 @@
 "use client"
 
-import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { propertyTypeRendersWhenEmpty } from "@akasha/pages-core/property-types/registry"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import type { PageDataJSON, PropertyDefinition, PropertyType } from "@akasha/pages-core/types"
 import { PROPERTY_BADGE_REGISTRY } from "@akasha/pages-ui-components/badge-registry"
 import { BadgeLayoutProvider } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { EmptyBadge } from "akasha/design/badges/empty-badge/empty-badge.module.code.tsx"
+import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import type { ComponentType } from "react"
 
 export type PropertyBadgeContext = "card" | "detail" | "title"

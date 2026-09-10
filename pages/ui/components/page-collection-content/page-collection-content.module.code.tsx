@@ -1,7 +1,5 @@
 "use client"
 
-import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
-import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { buttonVariants } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
@@ -19,6 +17,13 @@ import { PageDetailHeaderMenu } from "@akasha/pages-ui-components/page-detail-he
 import { PropertyBadge } from "@akasha/pages-ui-components/property-badge"
 import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
+import { Icon } from "akasha/design/patterns/lucide-icon/lucide-icon.module.code.tsx"
 import { PagesFilteredContent } from "../pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 
 const PAGE_TYPE_SLUG = "page-type"

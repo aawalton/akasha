@@ -1,6 +1,5 @@
 "use client"
 
-import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import { Button } from "@akasha/design-primitives/button"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
@@ -14,6 +13,12 @@ import {
 import type { ServerGroupedSection } from "@akasha/pages-ui-components/page-system-tab-content-props"
 import { PageTimeline } from "@akasha/pages-ui-components/page-timeline"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { Plus } from "lucide-react"
 import type { ReactNode } from "react"
 

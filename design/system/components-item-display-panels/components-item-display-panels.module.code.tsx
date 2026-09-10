@@ -1,9 +1,5 @@
 "use client"
 
-import { Chip } from "@akasha/design-patterns/chip"
-import { ChipList } from "@akasha/design-patterns/chip-list"
-import { ItemCard } from "@akasha/design-patterns/item-card"
-import { ItemRow } from "@akasha/design-patterns/item-row"
 import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
@@ -11,6 +7,10 @@ import { ScrollArea, ScrollBar } from "@akasha/design-primitives/scroll-area"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { Chip } from "akasha/design/patterns/chip/chip.module.code.tsx"
+import { ChipList } from "akasha/design/patterns/chip-list/chip-list.module.code.tsx"
+import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
+import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsItemDisplayPanels() {

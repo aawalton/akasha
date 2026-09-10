@@ -1,13 +1,5 @@
 "use client"
 
-import {
-  Empty,
-  EmptyContent,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
 import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import { Heading } from "@akasha/design-primitives/heading"
@@ -22,6 +14,14 @@ import {
   TableRow,
 } from "@akasha/design-primitives/table"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { AlertCircle, FolderOpen, Search } from "lucide-react"
 import { PatternsUxLayoutPanels } from "../patterns-ux-layout-panels/patterns-ux-layout-panels.module.code.tsx"
 

@@ -1,6 +1,5 @@
 "use client"
 
-import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import { cn } from "@akasha/design-primitives/cn"
 import { bodyPropertyIsContentTier } from "@akasha/pages-core/schema/content-tier"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
@@ -35,6 +34,12 @@ import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { type ReactNode, useCallback, useMemo, useRef } from "react"
 
 const READER_VIRTUALIZE_THRESHOLD = 24_000

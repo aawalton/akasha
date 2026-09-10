@@ -1,15 +1,5 @@
 "use client"
 
-import {
-  Empty,
-  EmptyContent,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { TabsContent } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
@@ -19,6 +9,16 @@ import {
 } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { PaginatedCardGrid } from "akasha/design/layout/paginated-card-grid/paginated-card-grid.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
+import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { FolderOpen, Search } from "lucide-react"
 import { type ReactNode, useCallback, useMemo } from "react"

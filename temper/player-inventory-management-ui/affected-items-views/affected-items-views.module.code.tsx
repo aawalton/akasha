@@ -1,15 +1,20 @@
 "use client"
 
-import { ItemRow } from "@akasha/design-patterns/item-row"
-import { buildNodePath } from "@akasha/design-patterns/path"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@akasha/design-patterns/tabs"
-import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { cn } from "@akasha/design-primitives/cn"
 import { formatGold } from "@akasha/design-primitives/format-gold"
 import { ScrollArea } from "@akasha/design-primitives/scroll-area"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
+import { ItemRow } from "akasha/design/patterns/item-row/item-row.module.code.tsx"
+import { buildNodePath } from "akasha/design/patterns/path/path.module.code.ts"
+import {
+  Tabs,
+  TabsContent,
+  TabsList,
+  TabsTrigger,
+} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { useSetToggle } from "akasha/design/patterns/use-set-toggle/use-set-toggle.module.code.ts"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   InventoryLeafNode,

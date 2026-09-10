@@ -1,12 +1,17 @@
 "use client"
 
-import { QueryErrorBoundary } from "@akasha/design-patterns/query-error-boundary"
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@akasha/design-patterns/tabs"
-import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { QueryErrorBoundary } from "akasha/design/patterns/query-error-boundary/query-error-boundary.module.code.tsx"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsContent,
+  TabsList,
+} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { useFilterPersistence } from "akasha/design/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { LayoutList, MapPin, Scale } from "lucide-react"
 import { Suspense } from "react"
 import {

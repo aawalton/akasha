@@ -1,6 +1,5 @@
 "use client"
 
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import {
   Select,
   SelectContent,
@@ -11,6 +10,7 @@ import {
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Switch } from "@akasha/design-primitives/switch-control"
+import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
 import {
   type AllianceId,
   alliances,

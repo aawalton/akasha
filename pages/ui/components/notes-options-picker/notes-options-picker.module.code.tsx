@@ -1,8 +1,8 @@
 "use client"
 
-import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
 import { SubView } from "@akasha/design-primitives/sub-view"
+import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
 
 interface NotesOptionsPickerProps {
   notesProperty?: string

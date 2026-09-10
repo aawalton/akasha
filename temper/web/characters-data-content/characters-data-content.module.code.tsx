@@ -1,14 +1,5 @@
 "use client"
 
-import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { useScrollRestoration } from "@akasha/design-patterns/use-scroll-restoration"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
@@ -18,6 +9,15 @@ import {
   PageTabHeader,
   PageTabTitleBadges,
 } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
+import { useScrollRestoration } from "akasha/design/patterns/use-scroll-restoration/use-scroll-restoration.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { applyCharacterMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import {

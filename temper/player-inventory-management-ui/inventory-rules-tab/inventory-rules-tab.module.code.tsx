@@ -1,10 +1,10 @@
 "use client"
 
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/alert"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { classifyAllInventoryItems } from "akasha/temper/items-rules-matcher/inventory-item-classifier/inventory-item-classifier.module.code.ts"

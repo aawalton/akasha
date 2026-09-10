@@ -1,5 +1,11 @@
 "use client"
 
+import { CardDescription } from "@akasha/design-primitives/card"
+import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { Text } from "@akasha/design-primitives/text-body"
+import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import {
   Empty,
   EmptyContent,
@@ -7,13 +13,7 @@ import {
   EmptyHeader,
   EmptyMedia,
   EmptyTitle,
-} from "@akasha/design-patterns/empty"
-import { CardDescription } from "@akasha/design-primitives/card"
-import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { Text } from "@akasha/design-primitives/text-body"
-import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
-import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"

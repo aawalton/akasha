@@ -1,19 +1,24 @@
 "use client"
 
-import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
-import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsContent,
+  TabsList,
+} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { ChevronLeft, FlaskConical, TriangleAlert } from "lucide-react"
 import { COMPANION_ENGINE_METHODOLOGY_PANELS } from "../companion-engine-methodology/companion-engine-methodology.module.code.tsx"
 import { KNOWN_ISSUES_METHODOLOGY_PANELS } from "../known-issues-methodology/known-issues-methodology.module.code.tsx"

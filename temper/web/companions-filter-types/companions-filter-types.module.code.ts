@@ -1,5 +1,5 @@
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { companionBaseRoles } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionEquipmentQualityId,

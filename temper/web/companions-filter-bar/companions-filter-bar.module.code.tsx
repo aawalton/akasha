@@ -1,17 +1,20 @@
 "use client"
 
-import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
-import { FilterButton } from "@akasha/design-patterns/filter-button"
-import { FilterGroup } from "@akasha/design-patterns/filter-group"
-import { SearchButton } from "@akasha/design-patterns/search-button"
-import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
-import { SortButton } from "@akasha/design-patterns/sort-button"
-import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { AddFilterButton } from "akasha/design/patterns/add-filter-button/add-filter-button.module.code.tsx"
+import { FilterButton } from "akasha/design/patterns/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
+import { SearchButton } from "akasha/design/patterns/search-button/search-button.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
+import { SortButton } from "akasha/design/patterns/sort-button/sort-button.module.code.tsx"
+import type {
+  SortDirection,
+  SortOption,
+} from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { companions } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { useEffect, useState } from "react"
 import { targetArmor } from "../../character-sources/target-armors/target-armors.module.code.ts"

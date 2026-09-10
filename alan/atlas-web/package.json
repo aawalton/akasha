@@ -15,7 +15,6 @@
     "test": "bun test"
   },
   "dependencies": {
-    "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",

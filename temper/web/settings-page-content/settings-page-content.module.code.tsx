@@ -1,10 +1,10 @@
 "use client"
 
-import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
-import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
 import type { SupabaseUser } from "@akasha/supabase-auth/supabase-user"
 import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
+import { useFilterPersistence } from "akasha/design/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Bell, Package, Sliders, User as UserIcon } from "lucide-react"
 import { AccountTab } from "../account-tab/account-tab.module.code.tsx"
 import { AutomationTab } from "../automation-tab/automation-tab.module.code.tsx"

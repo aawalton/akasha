@@ -1,6 +1,5 @@
 "use client"
 
-import { ItemCard } from "@akasha/design-patterns/item-card"
 import { cn } from "@akasha/design-primitives/cn"
 import {
   Collapsible,
@@ -30,6 +29,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
 import { formatEffects } from "akasha/temper/characters-stats/format-effects/format-effects.module.code.ts"
 import { Check, ChevronDown, ChevronRight, X } from "lucide-react"
 import type * as React from "react"

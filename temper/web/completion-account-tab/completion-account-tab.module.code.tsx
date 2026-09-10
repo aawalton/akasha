@@ -1,20 +1,5 @@
 "use client"
 
-import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
-import {
-  Empty,
-  EmptyContent,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
-import { FilterButton } from "@akasha/design-patterns/filter-button"
-import { FilterGroup } from "@akasha/design-patterns/filter-group"
-import { SearchButton } from "@akasha/design-patterns/search-button"
-import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
-import { SortButton } from "@akasha/design-patterns/sort-button"
-import { TabsContent } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import {
@@ -24,6 +9,21 @@ import {
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import { AddFilterButton } from "akasha/design/patterns/add-filter-button/add-filter-button.module.code.tsx"
+import {
+  Empty,
+  EmptyContent,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
+import { FilterButton } from "akasha/design/patterns/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
+import { SearchButton } from "akasha/design/patterns/search-button/search-button.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
+import { SortButton } from "akasha/design/patterns/sort-button/sort-button.module.code.tsx"
+import { TabsContent } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { Globe } from "lucide-react"

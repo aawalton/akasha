@@ -1,14 +1,17 @@
 "use client"
 
-import { AddSortButton } from "@akasha/design-patterns/add-sort-button"
-import { FilterGroup } from "@akasha/design-patterns/filter-group"
-import type { GroupOption } from "@akasha/design-patterns/group-button"
-import { SortableSortList } from "@akasha/design-patterns/sort-group"
-import type { SortEntry, SortOption } from "@akasha/design-patterns/sort-types"
 import { FilterableList, FilterableListItem } from "@akasha/design-primitives/filterable-list"
 import { Heading } from "@akasha/design-primitives/heading"
 import { SubView } from "@akasha/design-primitives/sub-view"
 import { GROUP_GRANULARITIES, type GroupGranularity } from "@akasha/pages-core/schema/view-data"
+import { AddSortButton } from "akasha/design/patterns/add-sort-button/add-sort-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
+import type { GroupOption } from "akasha/design/patterns/group-button/group-button.module.code.tsx"
+import { SortableSortList } from "akasha/design/patterns/sort-group/sort-group.module.code.tsx"
+import type {
+  SortEntry,
+  SortOption,
+} from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import { X } from "lucide-react"
 
 const GRANULARITY_LABELS: Record<GroupGranularity, string> = {

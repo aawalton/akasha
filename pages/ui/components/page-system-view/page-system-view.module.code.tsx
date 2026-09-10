@@ -1,6 +1,5 @@
 "use client"
 
-import { useCollapsedGroups } from "@akasha/design-patterns/use-collapsed-groups"
 import type { ViewFilter } from "@akasha/pages-core/schema/view-data"
 import { applySearch } from "@akasha/pages-core/view/apply-search"
 import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
@@ -13,6 +12,7 @@ import { sortServerGrouped } from "@akasha/pages-ui-components/page-system-view-
 import { withColumnWidths } from "@akasha/pages-ui-components/page-table-widths"
 import { usePageView } from "@akasha/pages-ui-components/view-engine/use-page-view"
 import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { useCollapsedGroups } from "akasha/design/patterns/use-collapsed-groups/use-collapsed-groups.module.code.ts"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { PageSystemViewBody } from "../page-system-view-body/page-system-view-body.module.code.tsx"
 import { PageSystemViewHeader } from "../page-system-view-header/page-system-view-header.module.code.tsx"

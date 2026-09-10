@@ -1,6 +1,5 @@
 "use client"
 
-import { StatRow } from "@akasha/design-patterns/stat-row"
 import {
   Dialog,
   DialogBody,
@@ -17,6 +16,7 @@ import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-ba
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { StatRow } from "akasha/design/patterns/stat-row/stat-row.module.code.tsx"
 import { useState } from "react"
 
 interface NarrowedEntry {

@@ -1,6 +1,5 @@
 "use client"
 
-import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@akasha/design-patterns/tabs"
 import { cn } from "@akasha/design-primitives/cn"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { COLUMN_WIDTH } from "akasha/design/layout/layout-data/layout-data.module.code.ts"
@@ -10,6 +9,12 @@ import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/
 import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { editorPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { useColumnCount } from "akasha/design/layout/use-column-count/use-column-count.module.code.tsx"
+import {
+  PageTabsTrigger,
+  Tabs,
+  TabsContent,
+  TabsList,
+} from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"

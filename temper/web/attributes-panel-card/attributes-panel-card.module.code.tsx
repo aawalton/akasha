@@ -1,11 +1,11 @@
 "use client"
 
-import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { Input } from "@akasha/design-primitives/input"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { capitalize } from "@akasha/utils/narrow/capitalize"
+import { InputPanelCard } from "akasha/design/patterns/input-panel-card/input-panel-card.module.code.tsx"
 import { Maximize2 } from "lucide-react"
 
 type AttributeKey = "magicka" | "health" | "stamina"

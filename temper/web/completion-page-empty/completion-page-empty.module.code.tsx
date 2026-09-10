@@ -1,16 +1,16 @@
-import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import {
   PageLayout,
   PageTitle,
   PageTitleBadges,
 } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
 import { Globe } from "lucide-react"
 
 export function CompletionPageEmpty() {

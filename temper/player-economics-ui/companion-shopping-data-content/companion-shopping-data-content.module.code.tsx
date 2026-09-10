@@ -1,16 +1,5 @@
 "use client"
 
-import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
-import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "@akasha/design-patterns/empty"
-import { FilterButton } from "@akasha/design-patterns/filter-button"
-import { FilterGroup } from "@akasha/design-patterns/filter-group"
-import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import {
   BadgeToggleGroup,
@@ -19,6 +8,17 @@ import {
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { AddFilterButton } from "akasha/design/patterns/add-filter-button/add-filter-button.module.code.tsx"
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+} from "akasha/design/patterns/empty/empty.module.code.tsx"
+import { FilterButton } from "akasha/design/patterns/filter-button/filter-button.module.code.tsx"
+import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
+import { SearchSortFilterRow } from "akasha/design/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,

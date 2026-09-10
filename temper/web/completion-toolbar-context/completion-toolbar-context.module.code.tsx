@@ -1,7 +1,10 @@
 "use client"
 
-import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
 import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type {
+  SortDirection,
+  SortOption,
+} from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
 import type {
   CompletionFilter,
   CompletionSortMode,

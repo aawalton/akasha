@@ -1,7 +1,5 @@
 "use client"
 
-import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
@@ -15,6 +13,8 @@ import {
 } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { scrollToCard } from "akasha/design/layout/scroll-to-card/scroll-to-card.module.code.ts"
 import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
+import type { SortDirection } from "akasha/design/patterns/sort-types/sort-types.module.code.ts"
+import { PageTabsTrigger, Tabs, TabsList } from "akasha/design/patterns/tabs/tabs.module.code.tsx"
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,

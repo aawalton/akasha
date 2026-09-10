@@ -1,6 +1,5 @@
 "use client"
 
-import { Kbd, KbdGroup } from "@akasha/design-patterns/kbd"
 import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/alert"
 import { Avatar, AvatarFallback, AvatarImage } from "@akasha/design-primitives/avatar"
 import {
@@ -15,6 +14,7 @@ import { Heading } from "@akasha/design-primitives/heading"
 import { Separator } from "@akasha/design-primitives/separator"
 import { Text } from "@akasha/design-primitives/text-body"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { Kbd, KbdGroup } from "akasha/design/patterns/kbd/kbd.module.code.tsx"
 
 const TEXT_VARIANTS = ["description", "hint", "caption", "prose"] as const
 
