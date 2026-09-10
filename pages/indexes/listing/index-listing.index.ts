@@ -1,4 +1,4 @@
-import type { Index } from "../index.page-type.ts"
+import type { Index } from "../index.page-type.types.ts"
 
 export const indexListing = {
   id: "01a08138-9650-7969-9bcb-c2ac45799256",

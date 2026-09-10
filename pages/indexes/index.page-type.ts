@@ -1,12 +1,4 @@
-import type { Module } from "@akasha/code/module"
-import type { Test } from "@akasha/code/module/test"
 import type { PageType } from "@akasha/pages/page-type"
-import type { IndexName } from "./properties/index-name.text-property.ts"
-
-export type Index = Module & {
-  test: Test
-  name: IndexName
-}
 
 export const index = {
   id: "01a04ef3-160f-7849-949b-629de4915d07",
@@ -55,4 +47,5 @@ export const index = {
       statement: "A rebuild repairs an index rather than being how that index is kept current.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
