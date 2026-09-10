@@ -1,4 +1,5 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import type { MonarchTransaction } from "../client/monarch-client.module.code.ts"
 import type { FetchDay } from "../notes-write/monarch-notes-write.module.code.ts"
 import {
@@ -7,7 +8,9 @@ import {
   setTransactionTags,
 } from "../notes-write/monarch-notes-write.module.code.ts"
 
-export const SNAPSHOT_PATH = `${process.env.HOME ?? "/home/walton"}/monarch-notes-snapshot-18168.json`
+const HOME = shape.string().default("/home/walton").parse(process.env.HOME)
+
+export const SNAPSHOT_PATH = `${HOME}/monarch-notes-snapshot-18168.json`
 
 export interface SnapshotRow {
   readonly monarchId: string
@@ -31,7 +34,7 @@ export function heldSnapshot(): readonly SnapshotRow[] {
   return JSON.parse(readFileSync(SNAPSHOT_PATH, "utf8")) as SnapshotRow[]
 }
 
-export function takeSnapshot(population: readonly MonarchTransaction[]): void {
+export function takeSnapshot(population: readonly MonarchTransaction[]): undefined {
   if (!existsSync(SNAPSHOT_PATH)) {
     writeFileSync(SNAPSHOT_PATH, JSON.stringify(population.map(snapshotRow), null, 1))
     console.log(`snapshot: ${population.length} transaction(s) written to ${SNAPSHOT_PATH}`)
