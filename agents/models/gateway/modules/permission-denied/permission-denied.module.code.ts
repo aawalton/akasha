@@ -11,16 +11,14 @@ export function classifyPermissionDenied(
   body: string
 ): PermissionDeniedClassification {
   if (status !== PERMISSION_DENIED_STATUS) return { matched: false }
-  let payload: unknown
   try {
-    payload = JSON.parse(body)
+    const parsed = ANTHROPIC_ERROR_ENVELOPE_SCHEMA.safeParse(JSON.parse(body))
+    if (!parsed.success) return { matched: false }
+    if (parsed.data.error.type !== PERMISSION_ERROR_TYPE) return { matched: false }
+    return { matched: true, reason: parsed.data.error.message ?? PERMISSION_ERROR_TYPE }
   } catch {
     return { matched: false }
   }
-  const parsed = ANTHROPIC_ERROR_ENVELOPE_SCHEMA.safeParse(payload)
-  if (!parsed.success) return { matched: false }
-  if (parsed.data.error.type !== PERMISSION_ERROR_TYPE) return { matched: false }
-  return { matched: true, reason: parsed.data.error.message ?? PERMISSION_ERROR_TYPE }
 }
 
 export function isPermissionDenied(status: number, body: string): boolean {
