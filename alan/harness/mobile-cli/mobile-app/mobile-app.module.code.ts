@@ -148,6 +148,30 @@ export function resolveApp(slug?: string): MobileApp {
   return app
 }
 
+const SHELL_SCRIPT_PART_PREFIX = "shell-script/"
+
+export const RING_CREDENTIAL_SCRIPT_SUFFIX = "-ring-credential"
+
+export function ringCredentialScriptFor(app: MobileApp): string | null {
+  const value = valueAt(app.pagePath, akashaRoot())
+  if (value === null) {
+    throw new InputError(`${app.pagePath} declares no page value`)
+  }
+  const named = (textsAt(value, "parts") ?? []).find(
+    (one) => one.startsWith(SHELL_SCRIPT_PART_PREFIX) && one.endsWith(RING_CREDENTIAL_SCRIPT_SUFFIX)
+  )
+  if (named === undefined) return null
+  const wanted = named.slice(SHELL_SCRIPT_PART_PREFIX.length)
+  const found = scriptPaths()[wanted]
+  if (found === undefined) {
+    throw new InputError(
+      `${app.pagePath} names \`${wanted}\` among its parts, and no shell script in akasha ` +
+        `carries that slug`
+    )
+  }
+  return inAkasha(found)
+}
+
 export const CODE_REPO = "code"
 
 export interface RepoPath {

@@ -5,7 +5,7 @@ import {
   componentSwiftFor,
   widgetTargetNameFor,
 } from "../ios-program-components/ios-program-components.module.code.ts"
-import type { MobileApp } from "../mobile-app/mobile-app.module.code.ts"
+import { type MobileApp, ringCredentialScriptFor } from "../mobile-app/mobile-app.module.code.ts"
 
 export const ASC_KEY_ID = "Q5485KN54Y"
 export const ASC_ISSUER_ID = "69a6de75-758d-47e3-e053-5b8c7c11a4d1"
@@ -85,9 +85,20 @@ export function readNativeShellHealthkitEnv(): string | undefined {
   return parsed.success ? parsed.data : undefined
 }
 
-export function readNativeShellRingCredentialEnv(): string | undefined {
-  const parsed = z.string().min(1).safeParse(process.env.NATIVE_SHELL_RING_CREDENTIAL)
-  return parsed.success ? parsed.data : undefined
+export const RING_CREDENTIAL_ENV = "NATIVE_SHELL_RING_CREDENTIAL"
+
+export function readRingCredentialFor(app: MobileApp): string | undefined {
+  const script = ringCredentialScriptFor(app)
+  if (script === null) return undefined
+  const parsed = z.string().min(1).safeParse(process.env[RING_CREDENTIAL_ENV])
+  if (!parsed.success) {
+    throw new InputError(
+      `${RING_CREDENTIAL_ENV} not set — add it to ~/.secrets.env (${app.slug} bakes it into ` +
+        `its widget sources through ${script}, and a build made without it reaches TestFlight ` +
+        `with every tile reading as refused, showing a lock and "Update app" and never a count)`
+    )
+  }
+  return parsed.data
 }
 
 export function readNativeShellKokoroTtsEnv(): string | undefined {

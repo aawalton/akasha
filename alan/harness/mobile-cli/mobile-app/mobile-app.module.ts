@@ -37,5 +37,13 @@ export const mobileApp = {
       invariantKind: "departure",
       statement: "The web-env-path a page states is kept as its slash-separated segments.",
     },
+    {
+      invariantKind: "departure",
+      statement: "Whether an app bakes a ring credential is read from the scripts its page names.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No app slug is written here to say which app bakes a ring credential.",
+    },
   ],
 } as const satisfies Module

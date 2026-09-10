@@ -22,8 +22,8 @@ import {
   readNativeShellApsEnv,
   readNativeShellHealthkitEnv,
   readNativeShellKokoroTtsEnv,
-  readNativeShellRingCredentialEnv,
   readNativeShellWidgetEnv,
+  readRingCredentialFor,
 } from "../foundation/foundation.module.code.ts"
 import {
   commitAt,
@@ -206,7 +206,7 @@ export async function runTestflightCut(opts: {
     nativeShellWidget: readNativeShellWidgetEnv(),
     nativeShellAps: readNativeShellApsEnv(),
     nativeShellHealthkit: readNativeShellHealthkitEnv(),
-    nativeShellRingCredential: readNativeShellRingCredentialEnv(),
+    nativeShellRingCredential: readRingCredentialFor(app),
     nativeShellKokoroTts: readNativeShellKokoroTtsEnv(),
     cutCommit,
   })

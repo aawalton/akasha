@@ -46,6 +46,23 @@ export const foundation = {
     },
     {
       invariantKind: "constraint",
+      statement: "A ring credential is read from the NATIVE_SHELL_RING_CREDENTIAL variable.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "An app whose page names no ring-credential script is asked for no credential.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A ring credential an app bakes and nothing holds ends the run before a number is spent.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing forwards a ring credential to a build whose app bakes none.",
+    },
+    {
+      invariantKind: "constraint",
       statement:
         "the App Store Connect key id and issuer id here name one fixed Apple developer account",
     },

@@ -35,6 +35,15 @@ export const deployIosShipping = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A ring credential the app bakes and nothing holds refuses the call before any push.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names the variable missing and the tiles a build would have had.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A commit origin does not carry is pushed there before anything is built.",
     },
     {

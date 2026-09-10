@@ -1,4 +1,7 @@
-import { readKeychainPassword } from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
+import {
+  readKeychainPassword,
+  readRingCredentialFor,
+} from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
 import { resolveRepoRoot } from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
 import {
   acquireLocalCutLock,
@@ -95,6 +98,11 @@ export async function shipIosApp(
     app = resolveApp(slug)
   } catch (err) {
     return { report, refusals: [saidBy(err)], code: DATA }
+  }
+  try {
+    readRingCredentialFor(app)
+  } catch (err) {
+    return { report, refusals: [saidBy(err)], code: OPERATIONAL }
   }
   let roots: readonly string[]
   try {
