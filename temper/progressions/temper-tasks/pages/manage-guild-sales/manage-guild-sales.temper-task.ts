@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const manageGuildSales = {
   id: "019db533-f381-758e-8b24-0a120b8857e8",

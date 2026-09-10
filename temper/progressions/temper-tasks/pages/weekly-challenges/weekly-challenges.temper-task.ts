@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const weeklyChallenges = {
   id: "019f9420-7fe5-7a60-8791-99f0d72cd040",

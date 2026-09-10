@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const skillMorphs = {
   id: "019db533-f381-756b-b84a-3e607b6d82ee",

@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const dungeonSets = {
   id: "019eacc6-8d4e-706d-9bd1-72dd156de32a",

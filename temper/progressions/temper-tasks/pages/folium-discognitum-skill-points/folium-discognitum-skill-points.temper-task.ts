@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const foliumDiscognitumSkillPoints = {
   id: "019e8de6-ad2f-7cb0-90aa-4e45f07aec54",

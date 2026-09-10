@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const darkBrotherhoodSkillLine = {
   id: "019db533-f381-75f7-aafa-ced3b56c5229",

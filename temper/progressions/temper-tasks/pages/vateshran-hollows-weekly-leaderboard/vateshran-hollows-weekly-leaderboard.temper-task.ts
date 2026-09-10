@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const vateshranHollowsWeeklyLeaderboard = {
   id: "019db533-f381-7537-ae93-c60ca6656758",

@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const cadwellSAlmanac = {
   id: "019db533-f381-7609-8205-f9904634be23",

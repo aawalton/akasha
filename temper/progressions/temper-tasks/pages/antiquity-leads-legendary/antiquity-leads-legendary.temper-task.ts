@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const antiquityLeadsLegendary = {
   id: "019db533-f381-7525-a49a-ec655c3426c7",

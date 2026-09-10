@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const goldenPursuitsStraightToTheCrate = {
   id: "019fc2a9-cc9f-77d1-8d92-3d4c8bf09b6c",

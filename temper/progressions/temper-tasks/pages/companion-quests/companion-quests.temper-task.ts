@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const companionQuests = {
   id: "019e0394-18d8-7034-bda0-e7cc372eb80d",

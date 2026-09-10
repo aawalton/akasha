@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const shalidorSLibrary = {
   id: "019e6a7d-5015-7d30-9bd6-ce0f15540ea0",

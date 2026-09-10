@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const hirelingMails = {
   id: "019db533-f381-75d4-901d-3a5d3de946dd",

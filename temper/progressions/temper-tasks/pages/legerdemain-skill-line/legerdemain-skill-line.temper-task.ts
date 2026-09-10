@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const legerdemainSkillLine = {
   id: "019db533-f381-75a0-8217-44d59f3c01b9",

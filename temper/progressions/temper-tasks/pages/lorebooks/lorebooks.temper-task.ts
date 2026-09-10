@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const lorebooks = {
   id: "019e2215-efc0-78bd-8676-b89e52598dd4",

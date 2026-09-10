@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const thievesGuildSkillLine = {
   id: "019db533-f381-7548-8695-31e6f53f865d",

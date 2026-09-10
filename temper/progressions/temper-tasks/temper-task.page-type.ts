@@ -1,26 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.types.ts"
-import type { CharacterSortOrder } from "./properties/character-sort-order.number-property.ts"
-import type { CompletedAt } from "./properties/completed-at.instant-property.ts"
-import type { DueTime } from "./properties/due-time.calendar-time-property.ts"
-import type { EffectiveCharacter } from "./properties/effective-character.text-property.ts"
-import type { LastCompletedAt } from "./properties/last-completed-at.instant-property.ts"
-import type { PendingSync } from "./properties/pending-sync.boolean-property.ts"
-import type { Progress } from "./properties/progress.page-property-entry.ts"
-import type { ProgressCurrent } from "./properties/progress-current.number-property.ts"
-import type { ProgressTotal } from "./properties/progress-total.number-property.ts"
-
-export type TemperTask = TemperProgressThing & {
-  characterSortOrder?: CharacterSortOrder
-  completedAt?: CompletedAt
-  dueTime?: DueTime
-  effectiveCharacter?: EffectiveCharacter
-  lastCompletedAt?: LastCompletedAt
-  pendingSync?: PendingSync
-  progress?: Progress
-  progressTotal?: ProgressTotal
-  progressCurrent?: ProgressCurrent
-}
 
 export const temperTask = {
   id: "01a05fd3-435f-7ddd-a951-70e6e3d31e07",
@@ -80,4 +58,5 @@ export const temperTask = {
         "A task of `next_character` scope falls to the character the task names as effective.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

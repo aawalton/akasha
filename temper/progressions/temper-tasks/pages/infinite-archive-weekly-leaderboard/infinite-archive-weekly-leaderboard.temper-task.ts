@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const infiniteArchiveWeeklyLeaderboard = {
   id: "019db533-f381-75b1-ae47-75a551046ec2",

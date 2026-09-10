@@ -1,4 +1,4 @@
-import type { TemperTask } from "../../temper-task.page-type.ts"
+import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
 export const craftingWrits = {
   id: "019db533-f381-761a-affb-ba493b613e2e",
