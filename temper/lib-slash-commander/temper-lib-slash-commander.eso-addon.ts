@@ -6,7 +6,7 @@ export const temperLibSlashCommander = {
   type: "eso-addon",
   slug: "temper-lib-slash-commander",
   definition: "a slash command another addon registers, and the chat completion offering it",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "slash-commander-entry",
   parts: [

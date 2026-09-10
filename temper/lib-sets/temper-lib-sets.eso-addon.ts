@@ -6,7 +6,7 @@ export const temperLibSets = {
   type: "eso-addon",
   slug: "temper-lib-sets",
   definition: "an addon library naming every gear set in the game and saying where each one drops",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "lib-sets-main",
   parts: [

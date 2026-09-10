@@ -6,7 +6,7 @@ export const temperLibShifterBox = {
   type: "eso-addon",
   slug: "temper-lib-shifter-box",
   definition: "two side-by-side lists an addon shifts entries between",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "shifter-main",
   parts: [
