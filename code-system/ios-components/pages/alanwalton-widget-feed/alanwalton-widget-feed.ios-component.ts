@@ -27,11 +27,12 @@ export const alanwaltonWidgetFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "A feed names the moment its tile changes on its own, or names no moment.",
+      statement: "A feed names the moment its tile changes on its own or names no moment.",
     },
     {
       invariantKind: "departure",
-      statement: "A feed naming no moment is given the one entry and the one refresh it had.",
+      statement:
+        "A feed naming no moment is given the one entry and the one refresh that feed had.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +40,7 @@ export const alanwaltonWidgetFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "The second entry is the payload already in hand, held against a later date.",
+      statement: "The second entry is the payload already in hand held against a later date.",
     },
     {
       invariantKind: "absence",
@@ -61,7 +62,7 @@ export const alanwaltonWidgetFeed = {
     {
       invariantKind: "constraint",
       statement:
-        "A surplus falling thirty-two an hour reaches the rung four under it in seven minutes.",
+        "A surplus falling thirty-two an hour reaches the rung four under that surplus in seven minutes.",
     },
     {
       invariantKind: "constraint",
