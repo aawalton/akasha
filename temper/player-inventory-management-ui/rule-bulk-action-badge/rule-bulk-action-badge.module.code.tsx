@@ -1,7 +1,7 @@
 "use client"
 
-import type { badgeVariants } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import type { badgeVariants } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import {
   AlertDialog,
   AlertDialogAction,

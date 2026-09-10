@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { ItemCard } from "akasha/design/patterns/item-card/item-card.module.code.tsx"
 import { HorizontalScrollFade } from "akasha/design/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"

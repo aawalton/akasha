@@ -1,4 +1,4 @@
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import type { Targeting } from "../../skill-kinds/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import { targetScopes } from "../../skill-kinds/target-scopes/target-scopes.module.code.ts"
 import { targetTypes } from "../../skill-kinds/target-types/target-types.module.code.ts"

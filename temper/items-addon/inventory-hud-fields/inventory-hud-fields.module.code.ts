@@ -1,6 +1,9 @@
 import "../../addon-library-types/temper-hud-global/temper-hud-global.type-declaration.d.ts"
 
-import { GREEN, RED } from "akasha/design/tokens/semantic-color/semantic-color.module.code.ts"
+import {
+  GREEN,
+  RED,
+} from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
 import { recordNetWorthScanMs } from "../inventory-bank-trace/inventory-bank-trace.module.code.ts"
 import { getInventoryConfig } from "../inventory-config/inventory-config.module.code.ts"
 import { computeLiveNetWorth } from "../inventory-live-net-worth/inventory-live-net-worth.module.code.ts"

@@ -1,6 +1,6 @@
 "use client"
 
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { SearchButton } from "akasha/design/patterns/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"

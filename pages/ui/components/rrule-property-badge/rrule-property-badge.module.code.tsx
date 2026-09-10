@@ -4,7 +4,7 @@ import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.cod
 import { labelRrule } from "akasha/alan/harness/recurrence/labeling/labeling.module.code.ts"
 import { parseRecurringText } from "akasha/alan/harness/recurrence/parsing/parsing.module.code.ts"
 import { getOccurrenceAtOrAfter } from "akasha/alan/harness/recurrence/scheduling/scheduling.module.code.ts"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
 import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
 import {

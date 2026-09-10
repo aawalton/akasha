@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/interfaces/badges/number-badge/number-badge.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import {
   formatPropertyNumber,

@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { useBadgeLayoutContext } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuContent,

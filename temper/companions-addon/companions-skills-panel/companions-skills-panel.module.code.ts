@@ -15,7 +15,7 @@ import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
   TEXT_TERTIARY,
-} from "akasha/design/tokens/text-color/text-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
 import {
   type CompanionBuildData,

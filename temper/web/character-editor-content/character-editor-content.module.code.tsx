@@ -1,6 +1,6 @@
 "use client"
 
-import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { BadgeToggleGroup } from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { COLUMN_WIDTH } from "akasha/design/layout/layout-data/layout-data.module.code.ts"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"

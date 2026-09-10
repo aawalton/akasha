@@ -1,6 +1,9 @@
 "use client"
 
-import { Badge, type badgeVariants } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  Badge,
+  type badgeVariants,
+} from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import {
   Select,
   SelectContent,

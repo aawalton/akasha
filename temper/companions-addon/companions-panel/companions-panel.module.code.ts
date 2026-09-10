@@ -15,7 +15,7 @@ import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.
 import {
   TEXT_PRIMARY,
   TEXT_SECONDARY,
-} from "akasha/design/tokens/text-color/text-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import {
   createCompanionDropdown,
   DROPDOWN_BOTTOM_MARGIN,

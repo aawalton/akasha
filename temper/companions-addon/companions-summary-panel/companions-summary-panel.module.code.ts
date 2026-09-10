@@ -17,7 +17,7 @@ import "akasha/temper/eso-types/lua-language-extensions/lua-language-extensions.
 import {
   TEXT_PRIMARY,
   TEXT_TERTIARY,
-} from "akasha/design/tokens/text-color/text-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import { ALL_COMPANION_IDS } from "../companions-id-map/companions-id-map.module.code.ts"
 import { getCleanCompanionName } from "../companions-selector/companions-selector.module.code.ts"
 export const SUMMARY_ROW_HEIGHT = 28

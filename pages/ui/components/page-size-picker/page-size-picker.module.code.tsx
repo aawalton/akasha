@@ -1,6 +1,6 @@
 "use client"
 
-import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/interfaces/badges/number-badge/number-badge.module.code.tsx"
 import { FilterGroup } from "akasha/design/patterns/filter-group/filter-group.module.code.tsx"
 import { SubView } from "akasha/design/primitives/sub-view/sub-view.module.code.tsx"
 import {

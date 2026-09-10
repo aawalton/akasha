@@ -1,6 +1,5 @@
 "use client"
 
-import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"
 import {
   InputGroup,
@@ -16,6 +15,7 @@ import {
   InputOTPSeparator,
   InputOTPSlot,
 } from "akasha/design/forms/input-otp/input-otp.module.code.tsx"
+import { NumberBadge } from "akasha/design/interfaces/badges/number-badge/number-badge.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
 import { Mail, Search, Tag } from "lucide-react"

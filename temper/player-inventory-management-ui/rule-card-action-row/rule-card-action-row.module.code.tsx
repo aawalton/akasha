@@ -1,13 +1,13 @@
 "use client"
 
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { EditableNumber } from "akasha/design/forms/editable-number/editable-number.module.code.tsx"
 import {
   InputGroup,
   InputGroupAddon,
   InputGroupInput,
 } from "akasha/design/forms/input-group/input-group.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/interfaces/badges/button-badge/button-badge.module.code.tsx"
 import {
   Select,
   SelectContent,

@@ -1,10 +1,10 @@
 "use client"
 
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
-} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+} from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import {
   Popover,
   PopoverContent,

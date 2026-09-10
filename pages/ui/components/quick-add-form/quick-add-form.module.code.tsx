@@ -1,7 +1,7 @@
 "use client"
 
-import { Badge, BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { BadgeLayoutProvider } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import { Badge, BadgeRow } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
+import { BadgeLayoutProvider } from "akasha/design/interfaces/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
 import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
 import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"

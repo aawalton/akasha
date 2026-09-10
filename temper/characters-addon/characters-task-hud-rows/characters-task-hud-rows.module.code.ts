@@ -2,8 +2,8 @@ import {
   GREEN,
   PURPLE,
   YELLOW,
-} from "akasha/design/tokens/semantic-color/semantic-color.module.code.ts"
-import { TEXT_SECONDARY } from "akasha/design/tokens/text-color/text-color.module.code.ts"
+} from "akasha/design/interfaces/tokens/semantic-color/semantic-color.module.code.ts"
+import { TEXT_SECONDARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import type { TaskData } from "akasha/temper/player-completion-state/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { ActiveQuest } from "../characters-active-quests/characters-active-quests.module.code.ts"
 import {

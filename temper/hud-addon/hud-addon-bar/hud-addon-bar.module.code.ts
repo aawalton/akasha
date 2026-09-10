@@ -2,7 +2,7 @@ import "akasha/temper/eso-types/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso-types/eso-ui/eso-ui.type-declaration.d.ts"
 
-import { TEXT_SECONDARY } from "akasha/design/tokens/text-color/text-color.module.code.ts"
+import { TEXT_SECONDARY } from "akasha/design/interfaces/tokens/text-color/text-color.module.code.ts"
 import { createFieldRegistry } from "../hud-addon-field-registry/hud-addon-field-registry.module.code.ts"
 import type { HudField } from "../hud-addon-types/hud-addon-types.module.code.ts"
 

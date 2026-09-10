@@ -1,10 +1,6 @@
 "use client"
 
 import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import {
   MultiSelect,
   type MultiSelectItem,
 } from "akasha/design/forms/multi-select/multi-select.module.code.tsx"
@@ -12,6 +8,10 @@ import {
   SearchMultiSelect,
   type SearchMultiSelectItem,
 } from "akasha/design/forms/search-multi-select/search-multi-select.module.code.tsx"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { SearchButton } from "akasha/design/patterns/search-button/search-button.module.code.tsx"
 import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
