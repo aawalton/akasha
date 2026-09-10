@@ -17,13 +17,7 @@ export const alanWebCapacitor = {
   routeTypesDirectory: true,
   declarationDirectory: true,
   bundleDirectory: true,
-  parts: [
-    "route/alan-web-capacitor-home",
-    "stylesheet/alan-web-capacitor-look",
-    "route/alan-web-capacitor-page-detail",
-    "route/alan-web-capacitor-page-listing",
-    "route/alan-web-capacitor-sign-in",
-  ],
+  parts: ["stylesheet/alan-web-capacitor-look", "app-routes/alan-web-capacitor-routes"],
   invariants: [
     {
       invariantKind: "departure",

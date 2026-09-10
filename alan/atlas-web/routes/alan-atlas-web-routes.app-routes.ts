@@ -1,0 +1,31 @@
+import type { AppRoutes } from "../../../code-system/app-routes/app-routes.page-type.types.ts"
+
+export const alanAtlasWebRoutes = {
+  id: "01a08be5-61c3-741a-823e-0a08582a9f40",
+  pageTypeSlug: "app-routes",
+  type: "app-routes",
+  slug: "alan-atlas-web-routes",
+  definition: "the routes Alan's map site serves",
+  parts: [
+    "route/atlas-api-pages",
+    "route/atlas-api-nav-icon",
+    "route/atlas-api-health",
+    "route/atlas-api-live-version",
+    "route/atlas-api-errors",
+    "route/atlas-api-page-types",
+    "route/atlas-api-page-write",
+    "route/atlas-sign-out",
+    "route/atlas-sign-up",
+    "route/atlas-sign-in",
+    "route/atlas-home",
+    "route/atlas-api-places-search",
+    "route/atlas-basemap-na-eu",
+    "route/atlas-api-places-add",
+    "route/atlas-api-locations-ingest",
+    "route/atlas-page-listing",
+    "route/atlas-map",
+    "route/atlas-page-detail",
+    "route/atlas-trip",
+    "route/atlas-search",
+  ],
+} as const satisfies AppRoutes
