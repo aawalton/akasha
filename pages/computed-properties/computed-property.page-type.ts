@@ -1,12 +1,4 @@
-import type { Module } from "@akasha/code/module"
-import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { Holds } from "./properties/holds.select-property.ts"
-
-export type ComputedProperty = Module &
-  PageProperty & {
-    holds: Holds
-  }
 
 export type Reach = {
   target: <Held>(slug: string) => Held | null
@@ -93,4 +85,5 @@ export const computedProperty = {
       statement: "No calculation is written as an expression the system parses.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

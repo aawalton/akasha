@@ -1,4 +1,4 @@
-import type { ComputedProperty } from "../../../pages/computed-properties/computed-property.page-type.ts"
+import type { ComputedProperty } from "../../../pages/computed-properties/computed-property.page-type.types.ts"
 
 export type AttributeLevel = number
 

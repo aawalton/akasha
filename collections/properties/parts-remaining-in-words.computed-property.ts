@@ -1,4 +1,4 @@
-import type { ComputedProperty } from "@akasha/pages/computed-property"
+import type { ComputedProperty } from "akasha/pages/computed-properties/computed-property.page-type.types.ts"
 
 export type PartsRemainingInWords = number
 
