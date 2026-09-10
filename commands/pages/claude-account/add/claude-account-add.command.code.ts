@@ -76,7 +76,7 @@ export function pageTextFor(
   pageTypeSlug: string
 ): string {
   return [
-    `import type { ClaudeAccount } from "../../claude-account.page-type.ts"`,
+    `import type { ClaudeAccount } from "../../claude-account.page-type.types.ts"`,
     ``,
     `export const ${exportedAs(account)} = {`,
     `  id: "${id}",`,

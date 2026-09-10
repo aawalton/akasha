@@ -36,7 +36,7 @@ describe("accountPageText", () => {
   test("an account states its id, its page type, its slug, its address and its alias slot", () => {
     expect(
       accountPageText({ slug: "c-seven", email: "seven@example.com", aliasIndex: 7, id: ID })
-    ).toBe(`import type { ClaudeAccount } from "../claude-account.page-type.ts"
+    ).toBe(`import type { ClaudeAccount } from "../claude-account.page-type.types.ts"
 
 export const cSeven = {
   id: "01a06400-0000-7000-8000-000000000000",
