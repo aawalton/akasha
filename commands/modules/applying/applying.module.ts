@@ -76,7 +76,11 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A measuring apply the gate cleared is refused, so a measure lands nothing.",
+      statement: "A measuring apply the gate cleared is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measure lands nothing.",
     },
     {
       invariantKind: "departure",
@@ -124,8 +128,11 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The change was replayed onto that body, so that body is what the writer worked on.",
+      statement: "The change was replayed onto that body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That body is the body the writer worked on.",
     },
     {
       invariantKind: "departure",
@@ -149,7 +156,7 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A body a row appended to is recorded as read by nobody, as no row has that body.",
+      statement: "A body a row appended to is recorded as read by nobody.",
     },
     {
       invariantKind: "departure",
