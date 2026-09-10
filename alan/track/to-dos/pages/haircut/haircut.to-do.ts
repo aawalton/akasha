@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const haircut = {
   id: "019db533-f381-76c9-b024-858f4cbd828c",

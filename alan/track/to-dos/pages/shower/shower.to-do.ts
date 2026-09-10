@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const shower = {
   id: "019db533-f381-770f-82fe-2cde8c153ec6",

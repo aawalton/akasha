@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const rememberJenIsFasting = {
   id: "019db533-f381-7d79-bdb7-cffbef47d403",

@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const trimFingernails = {
   id: "019db533-f381-7a47-8724-3eee911fd0d8",

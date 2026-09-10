@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const brushFloss = {
   id: "019db533-f381-76ec-81cf-35ca7e59aec8",

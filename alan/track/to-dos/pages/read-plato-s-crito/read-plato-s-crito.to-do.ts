@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const readPlatoSCrito = {
   id: "019f06e6-a2c4-72af-acbd-bcebe6856503",

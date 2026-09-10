@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const move11250FromVanguardToCitibank = {
   id: "019db533-f381-76db-896e-96a8c0a1d4e9",

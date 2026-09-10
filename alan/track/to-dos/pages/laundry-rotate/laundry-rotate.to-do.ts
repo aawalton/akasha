@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const laundryRotate = {
   id: "019db533-f381-7ac2-93d3-45cbf41b34dd",

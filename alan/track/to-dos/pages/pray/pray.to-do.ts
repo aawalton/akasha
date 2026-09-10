@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const pray = {
   id: "019db533-f381-783b-bd75-0f470dbc9337",

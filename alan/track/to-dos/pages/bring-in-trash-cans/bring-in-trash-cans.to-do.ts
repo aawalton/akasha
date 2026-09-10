@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const bringInTrashCans = {
   id: "019db533-f381-7757-b165-7eec39fd6a8f",

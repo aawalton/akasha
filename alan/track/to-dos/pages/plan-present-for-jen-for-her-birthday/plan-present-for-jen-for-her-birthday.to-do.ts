@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const planPresentForJenForHerBirthday = {
   id: "019db533-f381-7d5a-b7d0-a6fb1956d3c2",

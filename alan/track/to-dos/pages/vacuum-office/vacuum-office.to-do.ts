@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const vacuumOffice = {
   id: "019db533-f381-7b94-9ac8-0903766e6917",

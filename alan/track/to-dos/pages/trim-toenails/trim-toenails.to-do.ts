@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const trimToenails = {
   id: "019db533-f381-7a8d-9269-95dadd19784e",

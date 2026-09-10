@@ -1,4 +1,4 @@
-import type { ToDo } from "../../to-do.page-type.ts"
+import type { ToDo } from "../../to-do.page-type.types.ts"
 
 export const verifyInsurancePaymentsCameThroughOnCitiAndEmptyUccuChecking = {
   id: "019db533-f381-7d66-bb3d-ea4078fc9725",
