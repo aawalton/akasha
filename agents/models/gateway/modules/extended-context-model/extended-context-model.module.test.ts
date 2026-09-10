@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { z } from "zod"
 import {
   asksExtendedContext,
   baseSiblingOf,
@@ -6,6 +7,8 @@ import {
   marksExtendedContext,
   rewrittenToBaseSibling,
 } from "./extended-context-model.module.code.ts"
+
+const REWRITTEN_BODY = z.record(z.string(), z.unknown())
 
 function bodyOf(value: unknown): ArrayBuffer {
   const bytes = new TextEncoder().encode(JSON.stringify(value))
@@ -22,9 +25,7 @@ function bytesOf(text: string): ArrayBuffer {
 }
 
 function readBack(buffer: ArrayBuffer): Record<string, unknown> {
-  const parsed: unknown = JSON.parse(new TextDecoder().decode(buffer))
-  if (parsed === null || typeof parsed !== "object") throw new Error("the rewrite was no object")
-  return parsed as Record<string, unknown>
+  return REWRITTEN_BODY.parse(JSON.parse(new TextDecoder().decode(buffer)))
 }
 
 test("the marker is the four characters `[1m]`", () => {
