@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "The audit runs to the end under no ceiling on the clock, and a check that will not load refuses from itself rather than aborting the gather. no-rule-in-two-files is 810, the LCCC collapse having taken 95; no copy is tolerated, and the next cluster is four web apps repeating their shells, auth providers and routes. file-has-its-page is 45. tests-pass names 22 failing test files, of which one is real: failedIn reads a bun header as a failure where it means only that the file printed.",
+        "The audit answers 884 over 52 checks, of which no-rule-in-two-files is 815 and file-has-its-page 46. Five more checks state the audit phase and sit out for being experimental, holding 1573 between them, and the answer says nothing about leaving them out. tests-pass is 7, every one a temper addon command, now that failedIn blames a file only where a failure prints under it rather than wherever the file prints at all.",
     },
     {
       statement: "Every runtime helper the Lua compiler has is a page.",
