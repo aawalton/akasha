@@ -28,7 +28,11 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A day opens in the evening before it, so its rows may have begun the day before.",
+      statement: "A day opens in the evening before that day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day's rows may have begun the day before.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +40,11 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A time naming its own day keeps that day, and `--day` does not move it.",
+      statement: "A time naming its own day keeps that day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`--day` does not move a time naming its own day.",
     },
     {
       invariantKind: "departure",
