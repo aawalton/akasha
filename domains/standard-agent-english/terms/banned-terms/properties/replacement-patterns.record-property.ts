@@ -1,11 +1,11 @@
 import type { List } from "@akasha/pages/page-property"
 import type { RecordProperty } from "@akasha/pages/record-property"
 import type { FromPattern } from "./from-pattern.text-property.ts"
-import type { Frame } from "./prose-frame.relation-property.ts"
+import type { ProseFrame } from "./prose-frame.relation-property.ts"
 import type { ToPattern } from "./to-pattern.text-property.ts"
 
 export type ReplacementPattern = {
-  frame: Frame
+  frame: ProseFrame
   fromPattern: FromPattern
   toPattern: ToPattern
 }

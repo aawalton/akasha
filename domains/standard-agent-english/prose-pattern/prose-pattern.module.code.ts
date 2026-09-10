@@ -10,13 +10,13 @@ import {
   lower,
   subtree,
 } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
-import type { Frame } from "../terms/banned-terms/properties/prose-frame.relation-property.ts"
+import type { ProseFrame } from "../terms/banned-terms/properties/prose-frame.relation-property.ts"
 
 export type Found = {
   readonly at: number
   readonly start: number
   readonly end: number
-  readonly frame: Frame
+  readonly frame: ProseFrame
 }
 
 const VERB = "VERB"
@@ -303,7 +303,7 @@ function joined(sentence: DepSentence, token: DepToken): boolean {
   return token.deprel === CONJUNCT || hasChild(sentence, token.id, CONJUNCT)
 }
 
-function participleOf(sentence: DepSentence, token: DepToken): Frame | null {
+function participleOf(sentence: DepSentence, token: DepToken): ProseFrame | null {
   if (token.id === FIRST) return null
   if (token.deprel === CLAUSAL_SUBJECT) return null
   if (token.deprel === CLAUSE_OF_ITS_OWN) return null
@@ -357,7 +357,7 @@ function leftAlone(sentence: DepSentence, token: DepToken): boolean {
   return sentOn(sentence, token)
 }
 
-function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
+function frameOf(sentence: DepSentence, token: DepToken): ProseFrame | null {
   if (!acting(sentence, token)) return null
   if (leftAlone(sentence, token)) return null
   if (hasChild(sentence, token.id, PASSIVE)) {

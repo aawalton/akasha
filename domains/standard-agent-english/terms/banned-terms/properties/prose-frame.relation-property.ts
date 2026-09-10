@@ -1,6 +1,6 @@
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type Frame = "object" | "fronted" | "participle" | "placed"
+export type ProseFrame = "object" | "fronted" | "participle" | "placed"
 
 export const proseFrame = {
   id: "01a08243-41cd-7873-9af3-308bc9152b5d",

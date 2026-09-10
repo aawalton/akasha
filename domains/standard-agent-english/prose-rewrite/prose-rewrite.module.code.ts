@@ -1,5 +1,5 @@
 import type { Found } from "../prose-pattern/prose-pattern.module.code.ts"
-import type { Frame } from "../terms/banned-terms/properties/prose-frame.relation-property.ts"
+import type { ProseFrame } from "../terms/banned-terms/properties/prose-frame.relation-property.ts"
 
 const SLOT = /^\[[a-z]+\]$/
 
@@ -8,7 +8,7 @@ const WORD = /[A-Za-z']+/g
 const SPACE = /\s+/
 
 export type Pattern = {
-  readonly frame: Frame
+  readonly frame: ProseFrame
   readonly fromPattern: string
   readonly toPattern: string
 }
