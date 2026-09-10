@@ -25,7 +25,7 @@ export interface ProcessCleanupDeps {
   pushTimeoutMs: number
 }
 
-const defaultProcessCleanupDeps: ProcessCleanupDeps = {
+const DEFAULT_PROCESS_CLEANUP_DEPS: ProcessCleanupDeps = {
   pushCredentialFileToPage: async (account: string, configDir: string, logPrefix?: string) => {
     const root = rootFor(resolveRoots(), AKASHA)
     await filePushedTo({
@@ -63,9 +63,9 @@ async function pushCredentialBounded(
 
 export async function processCleanup(
   proc: AgentProcess,
-  deps: ProcessCleanupDeps = defaultProcessCleanupDeps
+  deps: ProcessCleanupDeps = DEFAULT_PROCESS_CLEANUP_DEPS
 ): Promise<void> {
-  const { process_id } = proc
+  const { process_id: processId } = proc
 
   if (proc.heartbeatTimer) clearInterval(proc.heartbeatTimer)
   if (proc.credentialRefreshTimer) clearInterval(proc.credentialRefreshTimer)
@@ -84,11 +84,9 @@ export async function processCleanup(
   if (proc.configDir != null && existsSync(proc.configDir)) {
     try {
       rmSync(proc.configDir, { recursive: true, force: true })
-      console.log(
-        `${LOG} [proc:${process_id}] Cleaned up per-process config dir: ${proc.configDir}`
-      )
+      console.log(`${LOG} [proc:${processId}] Cleaned up per-process config dir: ${proc.configDir}`)
     } catch (err) {
-      console.error(`${LOG} [proc:${process_id}] Failed to clean up config dir:`, err)
+      console.error(`${LOG} [proc:${processId}] Failed to clean up config dir:`, err)
     }
   }
 
@@ -104,15 +102,15 @@ export async function processCleanup(
         deps.pushTimeoutMs,
         () =>
           console.error(
-            `${LOG} [proc:${process_id}] Credential push-back timed out after ${deps.pushTimeoutMs}ms — proceeding to exit`
+            `${LOG} [proc:${processId}] Credential push-back timed out after ${deps.pushTimeoutMs}ms — proceeding to exit`
           )
       )
     } catch (err) {
-      console.error(`${LOG} [proc:${process_id}] Failed to push credentials back:`, err)
+      console.error(`${LOG} [proc:${processId}] Failed to push credentials back:`, err)
     }
   }
 
-  processes.delete(process_id)
+  processes.delete(processId)
 
-  console.log(`${LOG} [proc:${process_id}] Agent finished, process freed`)
+  console.log(`${LOG} [proc:${processId}] Agent finished, process freed`)
 }
