@@ -1,10 +1,18 @@
 import { join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
-import { listedFiled, rebuiltIn, valueAlsoFiled } from "@akasha/indexes/testing"
+import {
+  listedFiled,
+  listedTakenFrom,
+  rebuiltIn,
+  valueAlsoFiled,
+  valueTakenFrom,
+} from "@akasha/indexes/testing"
 import { valueAt } from "@akasha/pages/page-value"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as outOf } from "../../utils/run/running/running.module.code.ts"
+import { slugOf, took, type Went } from "../subagents/presence/subagent-presence.module.code.ts"
+import { landingNaming } from "../subagents/presence/subagent-presence.module.test-fixtures.ts"
 import { standingSubagentsOf } from "./subagent-page.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
@@ -61,6 +69,14 @@ export function filedNow(root: string, at: string, slug: string, id: string): un
   if (value === null) return
   listedFiled(root, "subagent", slug, [{ path: at, id }])
   valueAlsoFiled(root, "subagent", [{ path: at, value }])
+}
+
+export async function tookAway(root: string, seatName: string, own: string): Promise<Went> {
+  const went = await took(root, seatName, own, landingNaming([]))
+  const slug = slugOf(seatName, own)
+  listedTakenFrom(root, "subagent", slug)
+  valueTakenFrom(root, "subagent", slug)
+  return went
 }
 
 export function committed(root: string, why: string): undefined {

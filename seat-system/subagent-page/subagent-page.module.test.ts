@@ -6,7 +6,6 @@ import {
   bodyOf,
   pathOf,
   slugOf,
-  took,
 } from "../subagents/presence/subagent-presence.module.code.ts"
 import {
   committed,
@@ -18,6 +17,7 @@ import {
   SEAT_ID,
   seated,
   seeing,
+  tookAway,
 } from "./subagent-page.module.test-fixtures.ts"
 
 function heldInHistory(root: string, kind: string): undefined {
@@ -74,7 +74,7 @@ test("the page taken down at a stop is read as no subagent at work", async () =>
     const root = seated(world.rootFor("subagent-page-"))
     heldNow(root, "Explore", HELD_ID)
     committed(root, "the page was there")
-    expect(await took(root, "akasha", OWN)).toEqual({ went: true })
+    expect(await tookAway(root, "akasha", OWN)).toEqual({ went: true })
     expect(seeing(root, SEAT_ID)).toEqual([])
   } finally {
     world.sweep()
