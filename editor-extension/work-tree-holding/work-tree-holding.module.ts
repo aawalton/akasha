@@ -57,7 +57,15 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file with other intents than those held either way is gone rather than stale.",
+      statement: "A file that lost one of two intents held to be going is stale rather than gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file missing an intent held to be staying is gone rather than stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file holding an intent held neither way is gone rather than stale.",
     },
     {
       invariantKind: "departure",
@@ -78,6 +86,18 @@ export const workTreeHolding = {
     {
       invariantKind: "departure",
       statement: "An intent no order holds is held to be going by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every hold is settled over the rows in the order the holds were made.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A hold the file agrees with, and a hold the file has left behind, are let go.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stale hold is settled over the rows and kept.",
     },
     {
       invariantKind: "departure",

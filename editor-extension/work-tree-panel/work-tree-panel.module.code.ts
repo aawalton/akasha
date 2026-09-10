@@ -18,13 +18,12 @@ import {
   type Ordering,
 } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
 import {
-  agreementOf,
-  drawnAs,
   HOLDING_NOTHING,
   type Holding,
   heldMoved,
   heldWithout,
   intentLabelsIn,
+  settledOver,
 } from "../work-tree-holding/work-tree-holding.module.code.ts"
 import {
   DELETE_INITIATIVE_COMMAND,
@@ -53,6 +52,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   const holding = new Map<string, Holding>()
   let drawn: readonly WorkTreeRow[] = []
+  let filed: readonly WorkTreeRow[] = []
 
   const tree = createWorkTree(akashaRoot())
   const view = vscode.window.createTreeView<WorkTreeRow>(VIEW_ID, {
@@ -77,21 +77,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   let total = 0
 
-  const settled = (roots: readonly WorkTreeRow[]): readonly WorkTreeRow[] => {
-    let rows = roots
-    for (const [slug, held] of [...holding]) {
-      if (agreementOf(intentLabelsIn(rows, slug), held) === "stale") {
-        rows = drawnAs(rows, slug, held)
-        continue
-      }
-      holding.delete(slug)
-    }
-    return rows
-  }
-
   const draw = (held: WorkTreeState, trigger: string): undefined => {
     try {
-      const roots = settled(held.roots)
+      filed = held.roots
+      const roots = settledOver(held.roots, holding)
       tree.replace(roots)
       drawn = roots
       const rows = countRows(roots)
@@ -141,19 +130,19 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     )
     if (held === null) return undefined
     holding.set(order.slug, held)
-    return draw({ roots: drawn }, "drop")
+    return draw({ roots: filed }, "drop")
   }
 
   const holdWithout = (one: IntentGone): undefined => {
     const held = heldWithout(holding.get(one.slug), intentLabelsIn(drawn, one.slug), one.statement)
     if (held === null) return undefined
     holding.set(one.slug, held)
-    return draw({ roots: drawn }, "delete")
+    return draw({ roots: filed }, "delete")
   }
 
   const holdGone = (slug: string): undefined => {
     holding.set(slug, HOLDING_NOTHING)
-    return draw({ roots: drawn }, "delete")
+    return draw({ roots: filed }, "delete")
   }
 
   const letGo = (slug: string): undefined => {

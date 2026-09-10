@@ -8,6 +8,7 @@ import {
   heldWithout,
   intentLabelsIn,
   movedLabels,
+  settledOver,
 } from "./work-tree-holding.module.code.ts"
 
 function rowOf(kind: WorkTreeRow["kind"], key: string, label: string): WorkTreeRow {
@@ -144,6 +145,103 @@ test("a move made while an intent is held to be going keeps that intent going", 
     labels: ["c", "a"],
     without: ["b"],
   })
+})
+
+function fileOf(labels: readonly string[]): readonly WorkTreeRow[] {
+  return [
+    {
+      ...rowOf("initiative", "held", "held"),
+      children: labels.map((label, at) => rowOf("intent", `held#${String(at + 1)}`, label)),
+    },
+    rowOf("initiative", "other", "other"),
+  ]
+}
+
+function deleting(
+  holds: Map<string, Holding>,
+  shown: readonly WorkTreeRow[],
+  statement: string
+): undefined {
+  const left = heldWithout(holds.get("held"), intentLabelsIn(shown, "held"), statement)
+  if (left !== null) holds.set("held", left)
+  return undefined
+}
+
+test("two intents deleted one after the other are both left out at once", () => {
+  const holds = new Map<string, Holding>()
+  const file = fileOf(["first", "second", "third"])
+
+  let shown = settledOver(file, holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["first", "second", "third"])
+
+  deleting(holds, shown, "first")
+  shown = settledOver(file, holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["second", "third"])
+
+  deleting(holds, shown, "third")
+  shown = settledOver(file, holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["second"])
+})
+
+test("the first of two deletions landing leaves the second still held", () => {
+  const holds = new Map<string, Holding>()
+  let shown = settledOver(fileOf(["first", "second", "third"]), holds)
+  deleting(holds, shown, "first")
+  shown = settledOver(fileOf(["first", "second", "third"]), holds)
+  deleting(holds, shown, "third")
+
+  shown = settledOver(fileOf(["second", "third"]), holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["second"])
+  expect(holds.has("held")).toBe(true)
+
+  shown = settledOver(fileOf(["second"]), holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["second"])
+  expect(holds.has("held")).toBe(false)
+})
+
+test("an intent deleted while a drop is settling leaves both held", () => {
+  const holds = new Map<string, Holding>()
+  const file = fileOf(["first", "second", "third"])
+
+  const moved = heldMoved(holds.get("held"), intentLabelsIn(file, "held"), 3, 1)
+  if (moved !== null) holds.set("held", moved)
+  let shown = settledOver(file, holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["third", "first", "second"])
+
+  deleting(holds, shown, "first")
+  shown = settledOver(file, holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["third", "second"])
+
+  shown = settledOver(fileOf(["third", "first", "second"]), holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["third", "second"])
+
+  shown = settledOver(fileOf(["third", "second"]), holds)
+  expect(intentLabelsIn(shown, "held")).toEqual(["third", "second"])
+  expect(holds.has("held")).toBe(false)
+})
+
+test("a deletion held for one initiative leaves every other initiative alone", () => {
+  const holds = new Map<string, Holding>([["held", HOLDING_NOTHING]])
+  const shown = settledOver(fileOf(["first"]), holds)
+  expect(shown.map((row) => row.key)).toEqual(["other"])
+  expect(holds.has("held")).toBe(true)
+})
+
+test("an initiative held to be gone is let go once the file has it gone", () => {
+  const holds = new Map<string, Holding>([["held", HOLDING_NOTHING]])
+  const shown = settledOver([rowOf("initiative", "other", "other")], holds)
+  expect(shown.map((row) => row.key)).toEqual(["other"])
+  expect(holds.has("held")).toBe(false)
+})
+
+test("a file gaining an intent while one is held to be going lets the hold go", () => {
+  const holds = new Map<string, Holding>()
+  const shown = settledOver(fileOf(["first", "second"]), holds)
+  deleting(holds, shown, "first")
+
+  const later = settledOver(fileOf(["first", "second", "fourth"]), holds)
+  expect(intentLabelsIn(later, "held")).toEqual(["first", "second", "fourth"])
+  expect(holds.has("held")).toBe(false)
 })
 
 test("a move made with nothing held names no intent going", () => {

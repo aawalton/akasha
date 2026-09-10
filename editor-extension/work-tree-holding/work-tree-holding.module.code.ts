@@ -44,20 +44,27 @@ export function movedLabels(
   return rest
 }
 
-function sameLabels(one: readonly string[], other: readonly string[]): boolean {
-  if (one.length !== other.length) return false
-  const sorted = [...one].sort()
-  const beside = [...other].sort()
-  return sorted.every((label, at) => label === beside[at])
+function within(one: readonly string[], other: readonly string[]): boolean {
+  const rest = [...other]
+  for (const label of one) {
+    const at = rest.indexOf(label)
+    if (at === -1) return false
+    rest.splice(at, 1)
+  }
+  return true
 }
 
 export function agreementOf(there: readonly string[] | null, held: Holding): Agreement {
   if (held.kind === "nothing") return there === null ? "agrees" : "stale"
   if (there === null) return "gone"
-  if (sameLabels(there, held.labels)) {
-    return there.every((label, at) => label === held.labels[at]) ? "agrees" : "stale"
+  if (
+    there.length === held.labels.length &&
+    there.every((label, at) => label === held.labels[at])
+  ) {
+    return "agrees"
   }
-  return sameLabels(there, [...held.labels, ...held.without]) ? "stale" : "gone"
+  if (!within(held.labels, there)) return "gone"
+  return within(there, [...held.labels, ...held.without]) ? "stale" : "gone"
 }
 
 function withoutOf(held: Holding | undefined): readonly string[] {
@@ -132,4 +139,19 @@ export function drawnAs(
 ): readonly WorkTreeRow[] {
   if (held.kind === "nothing") return withoutInitiative(roots, slug)
   return reorderedTo(roots, slug, held.labels)
+}
+
+export function settledOver(
+  roots: readonly WorkTreeRow[],
+  holding: Map<string, Holding>
+): readonly WorkTreeRow[] {
+  let rows = roots
+  for (const [slug, held] of [...holding]) {
+    if (agreementOf(intentLabelsIn(rows, slug), held) === "stale") {
+      rows = drawnAs(rows, slug, held)
+      continue
+    }
+    holding.delete(slug)
+  }
+  return rows
 }
