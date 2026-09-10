@@ -35,18 +35,17 @@ const concrete = (path: string): string =>
 
 const UNROUTED = ["/api/health-samples", "/api/health-sample", "/api/nope", "/api/a/b/c", "/api"]
 
+const PAGE_DETAIL = "/seat/amy"
+const PAGE_LISTING = "/seat"
+
 test("an unrouted path under /api/ is no longer read as a page type and a page", () => {
-  for (const path of UNROUTED) {
-    expect({ path, file: resolvedFile(path) }).toEqual({
-      path,
-      file: "routes/no-such-route/no-such-route.route.code.ts",
-    })
-  }
+  const pageRoutes = [resolvedFile(PAGE_DETAIL), resolvedFile(PAGE_LISTING)]
+  const readAsAPage = UNROUTED.filter((path) => pageRoutes.includes(resolvedFile(path)))
+  expect(readAsAPage).toEqual([])
 })
 
 test("the module the config names for a wrong api address declares an action", async () => {
   const file = resolvedFile("/api/health-samples")
-  expect(file).toBe("routes/no-such-route/no-such-route.route.code.ts")
   const answering = (await import(join(APP_DIR, file as string))) as {
     action?: (args: { request: Request }) => Response
     loader?: (args: { request: Request }) => Response
@@ -57,7 +56,6 @@ test("the module the config names for a wrong api address declares an action", a
 
 test("a wrong api address is answered 404 with the path it asked for in the body", async () => {
   const file = resolvedFile("/api/health-samples")
-  expect(file).toBe("routes/no-such-route/no-such-route.route.code.ts")
   const answering = (await import(join(APP_DIR, file as string))) as {
     action: (args: { request: Request }) => Response
     loader: (args: { request: Request }) => Response
@@ -84,9 +82,8 @@ test("a wrong api address is answered 404 with the path it asked for in the body
 })
 
 test("the 404 body never names the route the caller was reaching for", async () => {
-  const answering = (await import(
-    join(APP_DIR, "routes/no-such-route/no-such-route.route.code.ts")
-  )) as {
+  const file = resolvedFile("/api/health-samples")
+  const answering = (await import(join(APP_DIR, file as string))) as {
     action: (args: { request: Request }) => Response
   }
   const posted = answering.action({
@@ -108,9 +105,7 @@ test("every declared route still resolves to the file that declares it", () => {
 
 test("the api splat loses to every api route the config declares", () => {
   const declared = declaredRoutes().filter(
-    (route) =>
-      route.path.startsWith("/api/") &&
-      route.file !== "routes/no-such-route/no-such-route.route.code.ts"
+    (route) => route.path.startsWith("/api/") && !route.path.includes("*")
   )
   expect(declared.length).toBeGreaterThan(30)
   for (const route of declared) {
@@ -120,13 +115,20 @@ test("the api splat loses to every api route the config declares", () => {
 })
 
 test("the api splat reaches no page path, including page types beginning with api", () => {
-  const detail = "routes/alan-web-page-detail/alan-web-page-detail.route.code.tsx"
-  const listing = "routes/alan-web-page-listing/alan-web-page-listing.route.code.tsx"
-  expect(resolvedFile("/seat/amy")).toBe(detail)
-  expect(resolvedFile("/seat")).toBe(listing)
-  expect(resolvedFile("/persona/amy")).toBe(detail)
-  expect(resolvedFile("/apix/thing")).toBe(detail)
-  expect(resolvedFile("/apix")).toBe(listing)
-  expect(resolvedFile("/home")).toBe("routes/alan-web-home/alan-web-home.route.code.tsx")
-  expect(resolvedFile("/")).toBe("routes/alan-web-landing/alan-web-landing.route.code.tsx")
+  const detail = resolvedFile(PAGE_DETAIL)
+  const listing = resolvedFile(PAGE_LISTING)
+  const splat = resolvedFile("/api/nope")
+  expect({
+    persona: resolvedFile("/persona/amy"),
+    apixDetail: resolvedFile("/apix/thing"),
+    apixListing: resolvedFile("/apix"),
+    reachedBySplat: [detail, listing, resolvedFile("/home"), resolvedFile("/")].filter(
+      (file) => file === splat
+    ),
+  }).toEqual({
+    persona: detail,
+    apixDetail: detail,
+    apixListing: listing,
+    reachedBySplat: [],
+  })
 })

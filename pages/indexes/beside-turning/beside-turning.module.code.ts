@@ -1,3 +1,4 @@
+import { partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
 import { textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
   identityOf,
@@ -11,8 +12,14 @@ import {
 } from "../../types/gathering/page-type-gathering.module.code.ts"
 import type { FilePropertiesBy } from "../entries/index-entries.module.code.ts"
 import type { SidecarsBy } from "../path-claiming/path-claiming.module.code.ts"
-import { everyPath, type Valued, valuesOfType } from "../reading/index-reading.module.code.ts"
-import type { Reading, Schema } from "../shape/index-shape.module.code.ts"
+import {
+  everyPath,
+  namersOf,
+  type Valued,
+  valuesByPath,
+  valuesOfType,
+} from "../reading/index-reading.module.code.ts"
+import type { Filing, Reading, Schema } from "../shape/index-shape.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -150,6 +157,48 @@ export function relationsTurned(
       before.propertySlug !== after.propertySlug ||
       before.targetPageTypeSlug !== after.targetPageTypeSlug
     if (turned) found.add(named)
+  }
+  return found
+}
+
+function idsIn(lines: readonly string[]): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const line of lines) {
+    const said = JSON.parse(line) as { readonly id?: unknown }
+    if (typeof said.id === "string") found.add(said.id)
+  }
+  return found
+}
+
+export function idsUnnamed(reading: Reading, identity: readonly Filing[]): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of identity) {
+    const held = reading.lines(one.at)
+    if (held.length === 0) continue
+    const after = idsIn(one.lines)
+    for (const id of idsIn(held)) {
+      if (!after.has(id)) found.add(id)
+    }
+  }
+  return found
+}
+
+export function pagesNaming(
+  reading: Reading,
+  gone: ReadonlySet<string>,
+  carried: ReadonlySet<string>
+): readonly Valued[] {
+  const found: Valued[] = []
+  const seen = new Set<string>()
+  for (const id of gone) {
+    for (const one of namersOf(reading, id)) {
+      if (carried.has(one.path) || seen.has(one.path)) continue
+      seen.add(one.path)
+      const said = partedIn(one.path)
+      if (said === null) continue
+      const value = valuesByPath(reading, said.pageType).get(one.path)
+      if (value !== undefined) found.push({ path: one.path, value })
+    }
   }
   return found
 }

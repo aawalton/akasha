@@ -6,7 +6,9 @@ import {
 } from "akasha/pages/types/declared-properties/declared-properties.module.code.ts"
 import { loadedFrom, type Value } from "akasha/pages/value/page-value.module.code.ts"
 import {
+  idsUnnamed,
   pagesElsewhere,
+  pagesNaming,
   pagesOfTypes,
   pagesStranded,
   pagesTurned,
@@ -264,17 +266,20 @@ export function settlingOver(
     typesDeclaring(reading, [wasSource, nowSource], turnedRelations),
     carriedAt
   )
+  const rebound = pagesNaming(reading, idsUnnamed(reading, identity), carriedAt)
+  const already = new Set(relating.map((one) => one.path))
+  const refiling = [...relating, ...rebound.filter((one) => !already.has(one.path))]
   const was = [
     ...held.map((one) =>
       one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, wasKnown, repo)
     ),
-    ...relating.map((one) => relationIn(one.value, one.path, wasKnown, repo)),
+    ...refiling.map((one) => relationIn(one.value, one.path, wasKnown, repo)),
   ]
   const now = [
     ...held.map((one) =>
       one.now === null ? NOTHING_FILED : relationIn(one.now, one.path, known, repo)
     ),
-    ...relating.map((one) => relationIn(one.value, one.path, known, repo)),
+    ...refiling.map((one) => relationIn(one.value, one.path, known, repo)),
   ]
   const relation = filingOf(
     reading,
