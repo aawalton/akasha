@@ -6,17 +6,17 @@ import {
 } from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interfaces/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { InputPanelCard } from "akasha/design/interfaces/patterns/input-panel-card/input-panel-card.module.code.tsx"
-import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
-import { Switch } from "akasha/design/primitives/switch-control/switch-control.module.code.tsx"
+} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
 import type {
   InventoryLoggingLevel,
   InventoryPerfTracingLevel,

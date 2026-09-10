@@ -6,7 +6,7 @@ import {
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import { Plus } from "lucide-react"
 import { Fragment } from "react"
 import { RuleCardFilterChip } from "../rule-card-filter-chip/rule-card-filter-chip.module.code.tsx"

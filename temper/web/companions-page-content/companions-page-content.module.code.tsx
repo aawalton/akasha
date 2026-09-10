@@ -14,7 +14,7 @@ import {
   TabsList,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
 import { useFilterPersistence } from "akasha/design/interfaces/patterns/use-filter-persistence/use-filter-persistence.module.code.ts"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"

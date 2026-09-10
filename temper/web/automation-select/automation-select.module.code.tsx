@@ -6,9 +6,9 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { resolveToggle } from "akasha/temper/build-support/automation-settings/automation-settings.module.code.ts"
 
 type AutomationToggleValue = "on" | "off" | "account-default"

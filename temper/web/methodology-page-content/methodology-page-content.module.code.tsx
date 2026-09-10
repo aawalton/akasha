@@ -20,7 +20,7 @@ import {
   TabsContent,
   TabsList,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { ChevronLeft, FlaskConical, TriangleAlert } from "lucide-react"
 import { COMPANION_ENGINE_METHODOLOGY_PANELS } from "../companion-engine-methodology/companion-engine-methodology.module.code.tsx"

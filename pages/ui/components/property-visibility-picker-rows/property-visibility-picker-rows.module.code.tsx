@@ -2,7 +2,7 @@
 
 import type { SyntheticListenerMap } from "@dnd-kit/core/dist/hooks/utilities"
 import { useSortable } from "@dnd-kit/sortable"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import type { PropertyVisibilityOption } from "akasha/pages/ui/components/property-visibility-picker-helpers/property-visibility-picker-helpers.module.code.ts"
 import { GripVertical } from "lucide-react"
 import type { CSSProperties, HTMLAttributes } from "react"

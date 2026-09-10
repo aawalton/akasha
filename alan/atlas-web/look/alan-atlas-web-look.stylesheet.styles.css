@@ -3,5 +3,4 @@
 
 @source "../../harness/**/*.{ts,tsx}";
 @source "../../../design/interfaces/**/*.{ts,tsx}";
-@source "../../../design/primitives/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";

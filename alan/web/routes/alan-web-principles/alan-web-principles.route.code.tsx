@@ -11,7 +11,7 @@ import {
   TabsContent,
   TabsList,
 } from "akasha/design/interfaces/patterns/tabs/tabs.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { List } from "lucide-react"
 
 export function meta() {

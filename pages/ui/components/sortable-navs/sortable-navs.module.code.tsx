@@ -14,13 +14,13 @@ import { SortableContext, useSortable } from "@dnd-kit/sortable"
 import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-types.module.code.ts"
 import { SidebarNavGroup } from "akasha/design/interfaces/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { useSidebarState } from "akasha/design/interfaces/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
   type DropZoneInfo,
   findDropZone,

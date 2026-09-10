@@ -9,8 +9,8 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { FolderOpen, Search } from "lucide-react"
 import { useCallback, useMemo } from "react"

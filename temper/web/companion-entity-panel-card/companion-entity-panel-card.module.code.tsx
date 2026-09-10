@@ -5,8 +5,8 @@ import {
 } from "akasha/design/interfaces/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { NumberBadge } from "akasha/design/interfaces/badges/number-badge/number-badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import {

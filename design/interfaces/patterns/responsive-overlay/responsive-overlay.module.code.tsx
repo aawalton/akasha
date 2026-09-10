@@ -4,13 +4,13 @@ import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import {
   Sheet,
   SheetContent,
   SheetTrigger,
-} from "akasha/design/primitives/sheet/sheet.module.code.tsx"
-import { useIsMobile } from "akasha/design/primitives/use-mobile/use-mobile.module.code.tsx"
+} from "akasha/design/interfaces/primitives/sheet/sheet.module.code.tsx"
+import { useIsMobile } from "akasha/design/interfaces/primitives/use-mobile/use-mobile.module.code.tsx"
 import type * as React from "react"
 
 export interface ResponsiveOverlayProps {

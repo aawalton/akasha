@@ -7,7 +7,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { BOP_TRADEABLE_OPTIONS } from "akasha/temper/items-rules-core/bop-tradeable-filter/bop-tradeable-filter.module.code.ts"
 import { BOUND_OPTIONS } from "akasha/temper/items-rules-core/bound-filter/bound-filter.module.code.ts"
 import { CRAFTED_OPTIONS } from "akasha/temper/items-rules-core/crafted-filter/crafted-filter.module.code.ts"

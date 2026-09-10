@@ -7,7 +7,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { getRaceSourceById } from "akasha/temper/character-build/race-source/race-source.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { useState } from "react"

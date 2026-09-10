@@ -1,6 +1,6 @@
 import { PageTitle } from "akasha/design/interfaces/layout/page-layout/page-layout.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { SmsOptInForm } from "akasha/persons/sms-opt-in/sms-opt-in.module.code.tsx"
 
 export function meta() {

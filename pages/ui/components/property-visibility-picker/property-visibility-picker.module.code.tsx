@@ -11,9 +11,9 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext } from "@dnd-kit/sortable"
-import { FilterTextField } from "akasha/design/primitives/filterable-list/filterable-list.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
-import { SubView } from "akasha/design/primitives/sub-view/sub-view.module.code.tsx"
+import { FilterTextField } from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { SubView } from "akasha/design/interfaces/primitives/sub-view/sub-view.module.code.tsx"
 import type {
   PropertyVisibilityMode,
   VisibilityChange,

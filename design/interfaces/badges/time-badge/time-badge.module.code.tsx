@@ -3,12 +3,12 @@
 import { parseDateExpression } from "akasha/design/interfaces/forms/date-parser/date-parser.module.code.ts"
 import { formatTime12h } from "akasha/design/interfaces/forms/format-time/format-time.module.code.ts"
 import { normalizeBareNumericTime } from "akasha/design/interfaces/forms/normalize-bare-numeric-time/normalize-bare-numeric-time.module.code.ts"
-import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import { useEffect, useRef, useState } from "react"
 import { Badge, type BadgeVariant } from "../badge/badge.module.code.tsx"
 import { useBadgeLayoutContext } from "../badge-layout-context/badge-layout-context.module.code.tsx"

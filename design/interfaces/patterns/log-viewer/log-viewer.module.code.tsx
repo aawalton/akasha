@@ -1,8 +1,8 @@
 "use client"
 
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { ScrollArea } from "akasha/design/primitives/scroll-area/scroll-area.module.code.tsx"
-import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { ScrollArea } from "akasha/design/interfaces/primitives/scroll-area/scroll-area.module.code.tsx"
+import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
 import Convert from "ansi-to-html"
 import { useEffect, useMemo, useRef, useState } from "react"
 

@@ -6,11 +6,11 @@ import {
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
-import { formatGold } from "akasha/design/primitives/format-gold/format-gold.module.code.ts"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
-import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { formatGold } from "akasha/design/interfaces/primitives/format-gold/format-gold.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 
 export interface ValueExplanationData {
   itemName: string

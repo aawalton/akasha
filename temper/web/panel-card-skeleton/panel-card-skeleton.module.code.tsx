@@ -7,9 +7,9 @@ import {
   CardContent,
   CardHeader,
   CardTitle,
-} from "akasha/design/primitives/card/card.module.code.tsx"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { Skeleton } from "akasha/design/primitives/skeleton/skeleton.module.code.tsx"
+} from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
 import { ChevronDown } from "lucide-react"
 
 interface PanelCardSkeletonProps {

@@ -5,9 +5,9 @@ import {
   type AuthRouteConfig,
   authGuard,
 } from "akasha/alan/harness/supabase-rr/auth-guard/auth-guard.module.code.ts"
-import { CommandPalette } from "akasha/design/primitives/command-palette/command-palette.module.code.tsx"
-import { ShortcutSheet } from "akasha/design/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
-import { SurfaceProvider } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { CommandPalette } from "akasha/design/interfaces/primitives/command-palette/command-palette.module.code.tsx"
+import { ShortcutSheet } from "akasha/design/interfaces/primitives/shortcut-sheet/shortcut-sheet.module.code.tsx"
+import { SurfaceProvider } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"

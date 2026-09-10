@@ -1,9 +1,9 @@
 "use client"
 
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
-import { Separator } from "akasha/design/primitives/separator/separator.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { Label } from "akasha/design/interfaces/primitives/label/label.module.code.tsx"
+import { Separator } from "akasha/design/interfaces/primitives/separator/separator.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { cva, type VariantProps } from "class-variance-authority"
 
 function FieldSet({ className, ...props }: React.ComponentProps<"fieldset">) {

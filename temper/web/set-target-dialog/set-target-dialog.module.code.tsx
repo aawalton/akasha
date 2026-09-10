@@ -7,7 +7,7 @@ import {
   DialogDescription,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
 import { AlertTriangle } from "lucide-react"
 
 export interface SetTargetEntity {

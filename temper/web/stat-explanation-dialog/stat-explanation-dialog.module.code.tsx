@@ -1,16 +1,16 @@
 "use client"
 
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
-import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { metricToDisplayFormula } from "akasha/temper/characters-stats/metric-display-formula/metric-display-formula.module.code.ts"
 import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
 import { getMetricDisplayName } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"

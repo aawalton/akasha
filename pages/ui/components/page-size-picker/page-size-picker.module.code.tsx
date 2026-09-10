@@ -2,7 +2,7 @@
 
 import { NumberBadge } from "akasha/design/interfaces/badges/number-badge/number-badge.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/filter-group/filter-group.module.code.tsx"
-import { SubView } from "akasha/design/primitives/sub-view/sub-view.module.code.tsx"
+import { SubView } from "akasha/design/interfaces/primitives/sub-view/sub-view.module.code.tsx"
 import {
   DEFAULT_GROUP_PAGE_SIZE,
   DEFAULT_ITEM_PAGE_SIZE,

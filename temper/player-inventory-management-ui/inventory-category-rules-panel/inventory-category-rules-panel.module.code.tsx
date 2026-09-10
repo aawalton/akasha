@@ -8,8 +8,8 @@ import {
   EmptyHeader,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { CardTitleBadges } from "akasha/design/primitives/card/card.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { Plus } from "lucide-react"

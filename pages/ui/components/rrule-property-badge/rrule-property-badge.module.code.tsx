@@ -5,13 +5,13 @@ import { labelRrule } from "akasha/alan/harness/recurrence/labeling/labeling.mod
 import { parseRecurringText } from "akasha/alan/harness/recurrence/parsing/parsing.module.code.ts"
 import { getOccurrenceAtOrAfter } from "akasha/alan/harness/recurrence/scheduling/scheduling.module.code.ts"
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/pages/ui/components/property-badge/property-badge.module.code.tsx"

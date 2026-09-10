@@ -2,8 +2,8 @@ import type { AppNavItem } from "akasha/design/interfaces/layout/nav-types/nav-t
 import type {
   KeyBinding,
   KeyLayer,
-} from "akasha/design/primitives/keyboard-registry/keyboard-registry.module.code.ts"
-import { PALETTE_ONLY } from "akasha/design/primitives/keyboard-registry/keyboard-registry.module.code.ts"
+} from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
+import { PALETTE_ONLY } from "akasha/design/interfaces/primitives/keyboard-registry/keyboard-registry.module.code.ts"
 
 export function navItemsToCommandBindings(
   entries: readonly AppNavItem[],

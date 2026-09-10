@@ -1,13 +1,13 @@
 "use client"
 
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { PanelLeftClose, PanelLeftOpen } from "lucide-react"
 import { isNavItemActive } from "../nav-active/nav-active.module.code.ts"
 import type { AppNavConfig, AppNavItem } from "../nav-types/nav-types.module.code.ts"

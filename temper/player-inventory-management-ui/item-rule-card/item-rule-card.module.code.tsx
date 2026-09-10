@@ -11,15 +11,15 @@ import {
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
-import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
+} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import {
   goalIdToValue,
   goalValueToId,

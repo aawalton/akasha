@@ -1,8 +1,8 @@
 "use client"
 
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { Skeleton } from "akasha/design/primitives/skeleton/skeleton.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import * as React from "react"
 import { useAppShellOptional } from "../app-shell-context/app-shell-context.module.code.tsx"
 import {

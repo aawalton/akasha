@@ -10,9 +10,9 @@ import {
   CardContent,
   CardHeader,
   CardTitle,
-} from "akasha/design/primitives/card/card.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { Shield, Swords } from "lucide-react"
 import { StatsToolbar } from "../stats-toolbar/stats-toolbar.module.code.tsx"
 

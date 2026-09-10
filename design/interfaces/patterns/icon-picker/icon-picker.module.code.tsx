@@ -1,13 +1,13 @@
 "use client"
 
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import type { IconName } from "akasha/pages/core/generated/icon-search-index/icon-search-index.module.code.ts"
 import { resolveIconName, searchIcons } from "akasha/pages/core/icon/icon.module.code.ts"
 import { ChevronLeft, ChevronRight, Search } from "lucide-react"

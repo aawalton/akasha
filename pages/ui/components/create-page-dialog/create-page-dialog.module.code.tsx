@@ -1,6 +1,6 @@
 "use client"
 
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   Dialog,
   DialogBody,
@@ -8,8 +8,8 @@ import {
   DialogFooter,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
-import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/pages/core/schema/quick-add/quick-add.module.code.ts"

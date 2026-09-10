@@ -1,6 +1,6 @@
 "use client"
 
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 
 export interface InlineEditableNumberProps {

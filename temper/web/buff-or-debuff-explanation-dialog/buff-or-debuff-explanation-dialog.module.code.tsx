@@ -1,16 +1,16 @@
 "use client"
 
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { explainBuff } from "akasha/temper/characters-stats/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"
 import type { BuffOrDebuffSource } from "../../formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"

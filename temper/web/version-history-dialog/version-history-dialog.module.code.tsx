@@ -1,21 +1,21 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
-import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
-import { ScrollArea } from "akasha/design/primitives/scroll-area/scroll-area.module.code.tsx"
-import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
+import { ScrollArea } from "akasha/design/interfaces/primitives/scroll-area/scroll-area.module.code.tsx"
+import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { createPage } from "akasha/pages/access/create/create.module.code.ts"
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { useOptimisticCreatePage } from "akasha/pages/ui/supabase/mutations/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"

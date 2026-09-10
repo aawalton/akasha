@@ -6,14 +6,14 @@ import { Chip } from "akasha/design/interfaces/patterns/chip/chip.module.code.ts
 import { ChipList } from "akasha/design/interfaces/patterns/chip-list/chip-list.module.code.tsx"
 import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
 import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { HorizontalScrollFade } from "akasha/design/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
 import {
   ScrollArea,
   ScrollBar,
-} from "akasha/design/primitives/scroll-area/scroll-area.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interfaces/primitives/scroll-area/scroll-area.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 
 export function ComponentsItemDisplayPanels() {

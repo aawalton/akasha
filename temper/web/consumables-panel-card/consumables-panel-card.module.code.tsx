@@ -2,12 +2,12 @@
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { InputPanelCard } from "akasha/design/interfaces/patterns/input-panel-card/input-panel-card.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import {
   type PotionId,
   potions,

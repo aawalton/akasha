@@ -18,7 +18,6 @@
 @source "../../chess/**/*.{ts,tsx}";
 @source "../../harness/**/*.{ts,tsx}";
 @source "../../../design/interfaces/**/*.{ts,tsx}";
-@source "../../../design/primitives/**/*.{ts,tsx}";
 @source "../../../design/system/**/*.{ts,tsx}";
 @source "../../../pages/ui/**/*.{ts,tsx}";
 @source "../../../persons/sms-opt-in/**/*.{ts,tsx}";

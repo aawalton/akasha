@@ -1,7 +1,7 @@
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { deriveIndicatorChips } from "../idle-display/idle-display.module.code.ts"
 
 export function ActiveBoosts({ state }: { state: GameState }) {

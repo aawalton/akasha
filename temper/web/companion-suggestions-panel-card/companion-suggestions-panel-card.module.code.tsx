@@ -2,7 +2,7 @@
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import type { CompanionSuggestion } from "akasha/temper/companions-core/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"
 import {
   useCompanion,

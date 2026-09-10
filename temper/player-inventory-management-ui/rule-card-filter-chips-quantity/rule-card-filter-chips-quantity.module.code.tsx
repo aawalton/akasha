@@ -8,7 +8,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { ALL_STOCKED_OPTIONS } from "akasha/temper/items-rules-core/all-stocked-filter/all-stocked-filter.module.code.ts"
 import { KEEP_QUANTITY_OPTIONS } from "akasha/temper/items-rules-core/keep-quantity-filter/keep-quantity-filter.module.code.ts"
 import { STOCK_THRESHOLD_OPTIONS } from "akasha/temper/items-rules-core/stock-threshold-filter/stock-threshold-filter.module.code.ts"

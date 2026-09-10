@@ -8,7 +8,7 @@ import {
   EmptyHeader,
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
-import { CardTitleBadges } from "akasha/design/primitives/card/card.module.code.tsx"
+import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import type { ControlledRule } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"

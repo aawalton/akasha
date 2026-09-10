@@ -1,17 +1,17 @@
 import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   Command,
   CommandInput,
   CommandList,
-} from "akasha/design/primitives/command/command.module.code.tsx"
+} from "akasha/design/interfaces/primitives/command/command.module.code.tsx"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogHeader,
   DialogTitle,
-} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
 import type { ScribedSkill } from "akasha/temper/character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillName } from "akasha/temper/character-skills/scribed-skills/scribed-skills.module.code.ts"
 import {

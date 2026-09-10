@@ -6,7 +6,7 @@ import { buildNativeTtsAdapter } from "@akasha/alanwalton-web/kokoro-tts-adapter
 import { resolveShellEnsureRendition } from "@akasha/alanwalton-web/shell-ensure-rendition"
 import { resolveShellHlsSrc, resolveShellMediaSrc } from "@akasha/alanwalton-web/shell-media-src"
 import { SupabaseProvider } from "akasha/alan/harness/supabase-rr/supabase-provider/supabase-provider.module.code.tsx"
-import { Toaster } from "akasha/design/primitives/sonner/sonner.module.code.tsx"
+import { Toaster } from "akasha/design/interfaces/primitives/sonner/sonner.module.code.tsx"
 import { PlayingSessionProvider } from "akasha/pages/ui/media/playing-session-context/playing-session-context.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { type ReactNode, useMemo } from "react"

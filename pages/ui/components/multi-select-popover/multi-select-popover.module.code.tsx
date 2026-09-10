@@ -1,12 +1,12 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import type { BadgeVariant } from "akasha/pages/core/schema/color-rule-variant/color-rule-variant.module.code.ts"
 import type { SelectOption } from "akasha/pages/core/schema/select-option-create/select-option-create.module.code.ts"
 import { Plus, X } from "lucide-react"

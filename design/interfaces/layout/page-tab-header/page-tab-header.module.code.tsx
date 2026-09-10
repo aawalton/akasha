@@ -1,4 +1,4 @@
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 
 export function PageTabTitleBadges({ className, ...props }: React.ComponentProps<"div">) {
   return (

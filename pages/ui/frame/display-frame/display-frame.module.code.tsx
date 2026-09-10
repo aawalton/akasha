@@ -1,7 +1,7 @@
 "use client"
 
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import type { FrameConfig } from "akasha/pages/core/schema/detail-config/detail-config.module.code.ts"
 import { useChromeToggle } from "akasha/pages/ui/components/use-chrome-toggle/use-chrome-toggle.module.code.ts"
 import {

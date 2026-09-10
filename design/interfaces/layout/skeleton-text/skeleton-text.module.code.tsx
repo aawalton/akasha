@@ -1,5 +1,5 @@
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { Skeleton } from "akasha/design/primitives/skeleton/skeleton.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
 import { cva, type VariantProps } from "class-variance-authority"
 
 const skeletonTextVariants = cva("flex flex-col", {

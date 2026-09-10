@@ -9,9 +9,9 @@ import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useDebouncedCallback } from "akasha/design/primitives/use-debounced-callback/use-debounced-callback.module.code.ts"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useDebouncedCallback } from "akasha/design/interfaces/primitives/use-debounced-callback/use-debounced-callback.module.code.ts"
 import type { FilterOperator } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/pages/core/schema/pages/pages.module.code.ts"
 import type { ViewFilter } from "akasha/pages/core/schema/view-data/view-data.module.code.ts"

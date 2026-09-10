@@ -1,6 +1,6 @@
 "use client"
 
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
   buildTimelineLayout,
   rowsToTimelineInputs,

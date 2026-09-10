@@ -1,7 +1,7 @@
 "use client"
 
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   formatCompact,
   formatFull,
@@ -14,7 +14,7 @@ import {
   TableRow,
   TableTotalCell,
   TableValue,
-} from "akasha/design/primitives/table/table.module.code.tsx"
+} from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
 import { PagesUILink as Link } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import {

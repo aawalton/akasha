@@ -22,14 +22,14 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "akasha/design/primitives/alert-dialog/alert-dialog.module.code.tsx"
+} from "akasha/design/interfaces/primitives/alert-dialog/alert-dialog.module.code.tsx"
 import {
   Card,
   CardContent,
   CardTitleBadges,
-} from "akasha/design/primitives/card/card.module.code.tsx"
-import { Progress } from "akasha/design/primitives/progress-bar/progress-bar.module.code.tsx"
-import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
+} from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { Progress } from "akasha/design/interfaces/primitives/progress-bar/progress-bar.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import {
   needToShoppingItem,

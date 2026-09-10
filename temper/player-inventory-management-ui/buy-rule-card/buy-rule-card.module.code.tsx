@@ -14,17 +14,17 @@ import {
   AlertDialogFooter,
   AlertDialogHeader,
   AlertDialogTitle,
-} from "akasha/design/primitives/alert-dialog/alert-dialog.module.code.tsx"
+} from "akasha/design/interfaces/primitives/alert-dialog/alert-dialog.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
-import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import type { BuyRule } from "akasha/temper/items-rules-core/buy-rule-types/buy-rule-types.module.code.ts"
 import { EllipsisVertical, Info, ShoppingCart } from "lucide-react"
 import { memo, useEffect, useState } from "react"

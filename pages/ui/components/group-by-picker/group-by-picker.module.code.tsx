@@ -11,9 +11,9 @@ import type {
 import {
   FilterableList,
   FilterableListItem,
-} from "akasha/design/primitives/filterable-list/filterable-list.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
-import { SubView } from "akasha/design/primitives/sub-view/sub-view.module.code.tsx"
+} from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { SubView } from "akasha/design/interfaces/primitives/sub-view/sub-view.module.code.tsx"
 import {
   GROUP_GRANULARITIES,
   type GroupGranularity,

@@ -6,12 +6,12 @@ import {
   Alert,
   AlertDescription,
   AlertTitle,
-} from "akasha/design/primitives/alert/alert.module.code.tsx"
+} from "akasha/design/interfaces/primitives/alert/alert.module.code.tsx"
 import {
   Avatar,
   AvatarFallback,
   AvatarImage,
-} from "akasha/design/primitives/avatar/avatar.module.code.tsx"
+} from "akasha/design/interfaces/primitives/avatar/avatar.module.code.tsx"
 import {
   Breadcrumb,
   BreadcrumbItem,
@@ -19,10 +19,10 @@ import {
   BreadcrumbList,
   BreadcrumbPage,
   BreadcrumbSeparator,
-} from "akasha/design/primitives/breadcrumb/breadcrumb.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
-import { Separator } from "akasha/design/primitives/separator/separator.module.code.tsx"
-import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
+} from "akasha/design/interfaces/primitives/breadcrumb/breadcrumb.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { Separator } from "akasha/design/interfaces/primitives/separator/separator.module.code.tsx"
+import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 
 const TEXT_VARIANTS = ["description", "hint", "caption", "prose"] as const
 

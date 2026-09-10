@@ -1,8 +1,8 @@
 "use client"
 
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import {
   ArrowDown,
   ArrowUp,

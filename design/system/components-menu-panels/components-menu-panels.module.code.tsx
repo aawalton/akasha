@@ -11,9 +11,9 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
   AlertDialogTrigger,
-} from "akasha/design/primitives/alert-dialog/alert-dialog.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+} from "akasha/design/interfaces/primitives/alert-dialog/alert-dialog.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   ContextMenu,
   ContextMenuCheckboxItem,
@@ -25,7 +25,7 @@ import {
   ContextMenuSeparator,
   ContextMenuShortcut,
   ContextMenuTrigger,
-} from "akasha/design/primitives/context-menu/context-menu.module.code.tsx"
+} from "akasha/design/interfaces/primitives/context-menu/context-menu.module.code.tsx"
 import {
   Drawer,
   DrawerClose,
@@ -35,7 +35,7 @@ import {
   DrawerHeader,
   DrawerTitle,
   DrawerTrigger,
-} from "akasha/design/primitives/drawer/drawer.module.code.tsx"
+} from "akasha/design/interfaces/primitives/drawer/drawer.module.code.tsx"
 import {
   DropdownMenu,
   DropdownMenuCheckboxItem,
@@ -51,14 +51,14 @@ import {
   DropdownMenuSubContent,
   DropdownMenuSubTrigger,
   DropdownMenuTrigger,
-} from "akasha/design/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dropdown-menu/dropdown-menu.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import {
   HoverCard,
   HoverCardContent,
   HoverCardTrigger,
-} from "akasha/design/primitives/hover-card/hover-card.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interfaces/primitives/hover-card/hover-card.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
 
 export function ComponentsMenuPanels() {

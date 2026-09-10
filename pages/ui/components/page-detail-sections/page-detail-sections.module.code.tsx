@@ -4,7 +4,7 @@ import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "akasha/design/primitives/collapsible/collapsible.module.code.tsx"
+} from "akasha/design/interfaces/primitives/collapsible/collapsible.module.code.tsx"
 import { MarkdownRenderer } from "akasha/pages/ui/markdown/markdown-renderer/markdown-renderer.module.code.tsx"
 import type { ReactNode } from "react"
 

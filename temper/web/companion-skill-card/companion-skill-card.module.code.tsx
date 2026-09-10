@@ -1,9 +1,9 @@
 "use client"
 
 import { BadgeRow } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import { sortEffectsByCategory } from "akasha/temper/companions-core/companion-effect-category/companion-effect-category.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import { extractSkillTiming } from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"

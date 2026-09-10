@@ -1,6 +1,6 @@
 "use client"
 
-import { useSingleFlight } from "akasha/design/primitives/use-single-flight/use-single-flight.module.code.ts"
+import { useSingleFlight } from "akasha/design/interfaces/primitives/use-single-flight/use-single-flight.module.code.ts"
 import { useEffect, useRef } from "react"
 
 interface UseBuildSyncOptions<TBuild, TAction, TMeta> {

@@ -1,12 +1,12 @@
 "use client"
 
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   Sheet,
   SheetContent,
   SheetDescription,
   SheetTitle,
-} from "akasha/design/primitives/sheet/sheet.module.code.tsx"
+} from "akasha/design/interfaces/primitives/sheet/sheet.module.code.tsx"
 import { Menu } from "lucide-react"
 import { type ReactNode, useState } from "react"
 

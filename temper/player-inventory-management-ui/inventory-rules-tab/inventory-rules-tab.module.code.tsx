@@ -7,7 +7,7 @@ import {
   Alert,
   AlertDescription,
   AlertTitle,
-} from "akasha/design/primitives/alert/alert.module.code.tsx"
+} from "akasha/design/interfaces/primitives/alert/alert.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items-rules-core/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"

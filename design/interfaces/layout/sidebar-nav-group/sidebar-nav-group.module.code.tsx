@@ -1,7 +1,7 @@
 "use client"
 
 import * as CollapsiblePrimitive from "@radix-ui/react-collapsible"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import { ChevronRightIcon } from "lucide-react"
 import type * as React from "react"
 

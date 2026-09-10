@@ -5,9 +5,9 @@ import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card
 import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.module.code.tsx"
 import { buildNodePath } from "akasha/design/interfaces/patterns/path/path.module.code.ts"
 import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
-import { CardTitleBadges } from "akasha/design/primitives/card/card.module.code.tsx"
-import { formatGold } from "akasha/design/primitives/format-gold/format-gold.module.code.ts"
-import { Text } from "akasha/design/primitives/text-body/text-body.module.code.tsx"
+import { CardTitleBadges } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { formatGold } from "akasha/design/interfaces/primitives/format-gold/format-gold.module.code.ts"
+import { Text } from "akasha/design/interfaces/primitives/text-body/text-body.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   ActionGroup,

@@ -2,8 +2,8 @@
 
 import { LoadMoreButton } from "akasha/design/interfaces/layout/load-more-button/load-more-button.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsListGridPanels() {

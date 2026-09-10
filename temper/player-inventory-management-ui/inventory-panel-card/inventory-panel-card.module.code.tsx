@@ -5,7 +5,7 @@ import { ItemRow } from "akasha/design/interfaces/patterns/item-row/item-row.mod
 import { buildNodePath } from "akasha/design/interfaces/patterns/path/path.module.code.ts"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { useSetToggle } from "akasha/design/interfaces/patterns/use-set-toggle/use-set-toggle.module.code.ts"
-import { formatGold } from "akasha/design/primitives/format-gold/format-gold.module.code.ts"
+import { formatGold } from "akasha/design/interfaces/primitives/format-gold/format-gold.module.code.ts"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   InventoryLeafNode,

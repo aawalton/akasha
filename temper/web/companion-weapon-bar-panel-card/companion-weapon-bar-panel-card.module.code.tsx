@@ -3,14 +3,14 @@
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
 import { ItemCard } from "akasha/design/interfaces/patterns/item-card/item-card.module.code.tsx"
-import { HorizontalScrollFade } from "akasha/design/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
+import { HorizontalScrollFade } from "akasha/design/interfaces/primitives/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import { getCompanionWeaponIcon } from "akasha/temper/companions-core/companion-equipment-icons/companion-equipment-icons.module.code.ts"

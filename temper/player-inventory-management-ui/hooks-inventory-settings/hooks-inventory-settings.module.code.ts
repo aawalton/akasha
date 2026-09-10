@@ -1,7 +1,7 @@
 "use client"
 
-import { listenerSet } from "akasha/design/primitives/listener-set/listener-set.module.code.ts"
-import { useSingleFlight } from "akasha/design/primitives/use-single-flight/use-single-flight.module.code.ts"
+import { listenerSet } from "akasha/design/interfaces/primitives/listener-set/listener-set.module.code.ts"
+import { useSingleFlight } from "akasha/design/interfaces/primitives/use-single-flight/use-single-flight.module.code.ts"
 import { deletePages } from "akasha/pages/access/deleting/deleting.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/pages/access/sentinels/sentinels.module.code.ts"
 import { upsertPage, upsertPages } from "akasha/pages/access/upsert/upsert.module.code.ts"

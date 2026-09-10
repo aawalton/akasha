@@ -1,7 +1,7 @@
 "use client"
 
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
 import { usePagesUIRouter } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { extractCompanionMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"

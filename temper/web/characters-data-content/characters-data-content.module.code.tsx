@@ -15,7 +15,7 @@ import {
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import type { SortDirection } from "akasha/design/interfaces/patterns/sort-types/sort-types.module.code.ts"
 import { useScrollRestoration } from "akasha/design/interfaces/patterns/use-scroll-restoration/use-scroll-restoration.module.code.ts"
-import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
+import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import { patchPage } from "akasha/pages/access/patch/patch.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/pages/ui/supabase/mutations/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"

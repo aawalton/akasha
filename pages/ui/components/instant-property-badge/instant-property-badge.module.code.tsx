@@ -1,12 +1,12 @@
 "use client"
 
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { formatRelativeTime } from "akasha/design/primitives/format-relative-time/format-relative-time.module.code.ts"
+import { formatRelativeTime } from "akasha/design/interfaces/primitives/format-relative-time/format-relative-time.module.code.ts"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import { formatAbsoluteInstant } from "akasha/pages/core/property-types/instant/instant.module.code.ts"
 import type { PropertyValue } from "akasha/pages/core/property-types/property-type-ops/property-type-ops.module.code.ts"

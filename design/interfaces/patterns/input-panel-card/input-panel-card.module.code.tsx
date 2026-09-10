@@ -4,13 +4,13 @@ import {
   PanelCard,
   type PanelCardProps,
 } from "akasha/design/interfaces/layout/panel-card/panel-card.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { Label } from "akasha/design/primitives/label/label.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Label } from "akasha/design/interfaces/primitives/label/label.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import { Info } from "lucide-react"
 import type * as React from "react"
 

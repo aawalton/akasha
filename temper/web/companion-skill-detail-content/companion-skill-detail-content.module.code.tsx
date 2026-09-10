@@ -2,8 +2,8 @@
 
 import { BadgeRow } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
 import { COLUMN_WIDTH } from "akasha/design/interfaces/layout/layout-data/layout-data.module.code.ts"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { sortEffectsByCategory } from "akasha/temper/companions-core/companion-effect-category/companion-effect-category.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import { extractSkillTiming } from "akasha/temper/companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"

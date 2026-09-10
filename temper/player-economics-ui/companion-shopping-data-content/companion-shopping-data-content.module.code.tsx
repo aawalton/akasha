@@ -18,7 +18,7 @@ import {
 import { FilterButton } from "akasha/design/interfaces/patterns/filter-button/filter-button.module.code.tsx"
 import { FilterGroup } from "akasha/design/interfaces/patterns/filter-group/filter-group.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interfaces/patterns/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
-import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
+import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,

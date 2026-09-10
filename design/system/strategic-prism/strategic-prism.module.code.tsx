@@ -8,7 +8,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from "akasha/design/primitives/table/table.module.code.tsx"
+} from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
 
 export function StrategicPrismPanel() {
   return (

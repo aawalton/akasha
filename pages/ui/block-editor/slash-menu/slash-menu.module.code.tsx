@@ -6,12 +6,12 @@ import {
   CommandInput,
   CommandItem,
   CommandList,
-} from "akasha/design/primitives/command/command.module.code.tsx"
+} from "akasha/design/interfaces/primitives/command/command.module.code.tsx"
 import {
   Popover,
   PopoverAnchor,
   PopoverContent,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
 import type {
   HeadingLevel,
   V1BlockType,

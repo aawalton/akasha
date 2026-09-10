@@ -3,18 +3,18 @@
 import { DndContext, DragOverlay, useDraggable } from "@dnd-kit/core"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { Badge } from "akasha/design/interfaces/badges/badge/badge.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
 import {
   FilterableList,
   FilterableListItem,
-} from "akasha/design/primitives/filterable-list/filterable-list.module.code.tsx"
-import { Heading } from "akasha/design/primitives/heading/heading.module.code.tsx"
+} from "akasha/design/interfaces/primitives/filterable-list/filterable-list.module.code.tsx"
+import { Heading } from "akasha/design/interfaces/primitives/heading/heading.module.code.tsx"
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "akasha/design/primitives/popover/popover.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
+} from "akasha/design/interfaces/primitives/popover/popover.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
 import type { PropertyDefinition } from "akasha/pages/core/page-data/page-data.module.code.ts"
 import {
   buildMonthGrid,

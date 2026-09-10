@@ -1,15 +1,15 @@
 "use client"
 
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
 import {
   Dialog,
   DialogBody,
   DialogContent,
   DialogTitle,
   DialogTrigger,
-} from "akasha/design/primitives/dialog/dialog.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { TableHead } from "akasha/design/primitives/table/table.module.code.tsx"
+} from "akasha/design/interfaces/primitives/dialog/dialog.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { TableHead } from "akasha/design/interfaces/primitives/table/table.module.code.tsx"
 import type { SkillSlotData } from "akasha/temper/companions-core/companion-rotation-slot/companion-rotation-slot.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { Plus } from "lucide-react"

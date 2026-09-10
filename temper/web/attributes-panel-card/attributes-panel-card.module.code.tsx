@@ -1,10 +1,10 @@
 "use client"
 
 import { InputPanelCard } from "akasha/design/interfaces/patterns/input-panel-card/input-panel-card.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { Input } from "akasha/design/primitives/input/input.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Input } from "akasha/design/interfaces/primitives/input/input.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { capitalize } from "akasha/utils/text/capitalize/capitalize.module.code.ts"
 import { Maximize2 } from "lucide-react"
 

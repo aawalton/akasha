@@ -10,8 +10,8 @@ import {
   EmptyTitle,
 } from "akasha/design/interfaces/patterns/empty/empty.module.code.tsx"
 import { InputPanelCard } from "akasha/design/interfaces/patterns/input-panel-card/input-panel-card.module.code.tsx"
-import { Skeleton } from "akasha/design/primitives/skeleton/skeleton.module.code.tsx"
-import { Switch } from "akasha/design/primitives/switch-control/switch-control.module.code.tsx"
+import { Skeleton } from "akasha/design/interfaces/primitives/skeleton/skeleton.module.code.tsx"
+import { Switch } from "akasha/design/interfaces/primitives/switch-control/switch-control.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { extractGuildBankKeys } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"

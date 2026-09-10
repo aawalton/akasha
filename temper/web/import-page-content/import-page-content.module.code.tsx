@@ -9,13 +9,13 @@ import {
   Alert,
   AlertDescription,
   AlertTitle,
-} from "akasha/design/primitives/alert/alert.module.code.tsx"
-import { Button } from "akasha/design/primitives/button/button.module.code.tsx"
-import { Card, CardContent } from "akasha/design/primitives/card/card.module.code.tsx"
-import { cn } from "akasha/design/primitives/cn/cn.module.code.ts"
-import { Spinner } from "akasha/design/primitives/spinner/spinner.module.code.tsx"
-import { surfaceClass } from "akasha/design/primitives/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/primitives/surface-provider/surface-provider.module.code.tsx"
+} from "akasha/design/interfaces/primitives/alert/alert.module.code.tsx"
+import { Button } from "akasha/design/interfaces/primitives/button/button.module.code.tsx"
+import { Card, CardContent } from "akasha/design/interfaces/primitives/card/card.module.code.tsx"
+import { cn } from "akasha/design/interfaces/primitives/cn/cn.module.code.ts"
+import { Spinner } from "akasha/design/interfaces/primitives/spinner/spinner.module.code.tsx"
+import { surfaceClass } from "akasha/design/interfaces/primitives/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interfaces/primitives/surface-provider/surface-provider.module.code.tsx"
 import { useUserId } from "akasha/pages/ui/use-user-id/use-user-id.module.code.tsx"
 import { useInventoryImport } from "akasha/temper/player-inventory-management-ui/use-inventory-import/use-inventory-import.module.code.ts"
 import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"

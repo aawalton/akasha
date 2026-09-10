@@ -1,6 +1,6 @@
 "use client"
 
-import { CommandItem } from "akasha/design/primitives/command/command.module.code.tsx"
+import { CommandItem } from "akasha/design/interfaces/primitives/command/command.module.code.tsx"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { isCompanionSkillAvailable } from "akasha/temper/companions-core/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"
 import type { CompanionSkillSlotId } from "akasha/temper/companions-core/companion-skill-slots/companion-skill-slots.module.code.ts"

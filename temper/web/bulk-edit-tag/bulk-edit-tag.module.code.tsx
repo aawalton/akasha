@@ -10,7 +10,7 @@ import {
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "akasha/design/primitives/select-control/select-control.module.code.tsx"
+} from "akasha/design/interfaces/primitives/select-control/select-control.module.code.tsx"
 import type { VariantProps } from "class-variance-authority"
 
 type BadgeVariant = VariantProps<typeof badgeVariants>["variant"]
