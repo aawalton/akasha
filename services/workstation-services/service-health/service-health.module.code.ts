@@ -16,12 +16,14 @@ export type UnitState = {
 export type Watched = {
   readonly slug: string
   readonly unit: string
+  readonly pagePath: string
   readonly scheduled: boolean
 }
 
 export type Health = {
   readonly slug: string
   readonly unit: string
+  readonly pagePath: string
   readonly broken: string | null
 }
 
@@ -32,6 +34,7 @@ export function watchedIn(services: readonly Service[]): readonly Watched[] {
     found.push({
       slug: one.service.slug,
       unit: `${one.service.slug}${SERVICE_SUFFIX}`,
+      pagePath: one.pagePath,
       scheduled: isScheduled(one),
     })
   }
@@ -70,6 +73,7 @@ export function healthIn(
   return watched.map((one) => ({
     slug: one.slug,
     unit: one.unit,
+    pagePath: one.pagePath,
     broken: brokenIn(one, states.get(one.unit)),
   }))
 }

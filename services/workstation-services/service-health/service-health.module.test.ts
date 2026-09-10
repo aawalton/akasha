@@ -18,12 +18,20 @@ const BASE = {
   enabled: true,
 } as const satisfies WorkstationService
 
+const PAGE = "akasha/a.workstation-service.ts"
+
 function pageOf(more: Partial<WorkstationService>) {
-  return { service: { ...BASE, ...more }, pagePath: "akasha/a.workstation-service.ts" }
+  return { service: { ...BASE, ...more }, pagePath: PAGE }
 }
 
-const RUNNING: Watched = { slug: "held-service", unit: "held-service.service", scheduled: false }
-const TIMED: Watched = { slug: "held-service", unit: "held-service.service", scheduled: true }
+const RUNNING: Watched = {
+  slug: "held-service",
+  unit: "held-service.service",
+  pagePath: PAGE,
+  scheduled: false,
+}
+
+const TIMED: Watched = { ...RUNNING, scheduled: true }
 
 const SHOWN =
   "Id=a.service\nActiveState=active\nResult=success\n\nId=b.service\nActiveState=failed\nResult=exit-code"
@@ -71,6 +79,11 @@ test("a service stating a schedule is watched as a scheduled one", () => {
   const watched = watchedIn([pageOf({ systemd: { schedule: "daily" } })])
   expect(watched[0]?.scheduled).toBe(true)
   expect(watched[0]?.unit).toBe("held-service.service")
+})
+
+test("the page a service is stated on is carried with that service's health", () => {
+  expect(watchedIn([pageOf({})])[0]?.pagePath).toBe(PAGE)
+  expect(healthIn(watchedIn([pageOf({})]), statesIn(""))[0]?.pagePath).toBe(PAGE)
 })
 
 test("the health of every unit watched is answered together", () => {

@@ -45,6 +45,10 @@ export const serviceHealth = {
       statement: "systemd is asked about every unit at once rather than about one at a time.",
     },
     {
+      invariantKind: "departure",
+      statement: "The page a service is stated on is carried with that service's health.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes a unit or sends a message.",
     },

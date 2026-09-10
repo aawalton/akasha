@@ -42,6 +42,15 @@ export const serviceWatching = {
       statement: "Services that could not be read end the run rather than reading as well.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every service this run looked at is left carrying what the look found.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A verdict is left before any telling, so a run that cannot tell still leaves one.",
+    },
+    {
       invariantKind: "gap",
       statement: "Something tells Alan when this run is the run that is broken.",
     },

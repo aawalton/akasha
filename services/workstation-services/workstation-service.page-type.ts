@@ -16,12 +16,15 @@ export const workstationService = {
     "module/service-reaching",
     "module/service-reading",
     "module/service-watching",
+    "module/service-wellness",
     "module/service-wrapping",
     "module/tick-sleeping",
     "module/unit-writing",
     "boolean-property/catch-up",
     "boolean-property/enabled",
     "boolean-property/needs-secrets",
+    "boolean-property/well",
+    "instant-property/looked-at",
     "number-property/accuracy-seconds",
     "number-property/jitter-seconds",
     "number-property/port",
@@ -50,6 +53,18 @@ export const workstationService = {
     { pageProperty: "boolean-property/needs-secrets", required: false, many: false },
     { pageProperty: "number-property/port", required: false, many: false },
     { pageProperty: "text-property/binds", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "boolean-property/well",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "instant-property/looked-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   invariants: [
     {
@@ -75,6 +90,14 @@ export const workstationService = {
     {
       invariantKind: "departure",
       statement: "A workstation service is started and stopped from its page alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What the last look at a service's health found is carried outside the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That verdict is a reading, and the moment it was taken is carried with it.",
     },
     {
       invariantKind: "gap",

@@ -9,7 +9,8 @@ import {
   type Telling,
   told,
 } from "../service-alerting/service-alerting.module.code.ts"
-import { healthFor } from "../service-health/service-health.module.code.ts"
+import { type Health, healthFor } from "../service-health/service-health.module.code.ts"
+import { keepVerdicts } from "../service-wellness/service-wellness.module.code.ts"
 
 const LEDGER = ".local/state/workstation-services/service-outages.json"
 const FALLBACK = "alan"
@@ -17,6 +18,8 @@ const SENDER = "service-watching"
 const SAID = "service-watching:"
 
 export type Sent = (to: string, body: string) => Promise<string | null>
+
+export type Kept = (root: string, health: readonly Health[], at: string) => undefined
 
 export type Ticked = {
   readonly told: readonly string[]
@@ -79,12 +82,15 @@ export async function ticking(given: {
   readonly home: string
   readonly now: string
   readonly send?: Sent
+  readonly keep?: Kept
 }): Promise<Ticked> {
   const send = given.send ?? sending
+  const keep = given.keep ?? keepVerdicts
   const health = healthFor(given.root)
   if (typeof health === "string") {
     throw new Error(`${SAID} the services could not be read, so nothing is judged: ${health}`)
   }
+  keep(given.root, health, given.now)
   const champion = championing(domainsDrawn(given.root))
   const decided = deciding({
     health,

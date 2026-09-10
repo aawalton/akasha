@@ -13,10 +13,11 @@ import {
 const BROKE: Health = {
   slug: "held-service",
   unit: "held-service.service",
+  pagePath: "akasha/a.workstation-service.ts",
   broken: "held-service.service failed, and systemd says `exit-code`",
 }
 
-const WELL: Health = { slug: "held-service", unit: "held-service.service", broken: null }
+const WELL: Health = { ...BROKE, broken: null }
 
 const AT = "2026-09-08T00:00:00.000Z"
 
