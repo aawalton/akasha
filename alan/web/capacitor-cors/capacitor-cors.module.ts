@@ -15,11 +15,12 @@ export const capacitorCors = {
     },
     {
       invariantKind: "departure",
-      statement: "The native shell's origin is the https origin of the site it serves.",
+      statement: "The native shell's origin is the https origin of the site the shell serves.",
     },
     {
       invariantKind: "stopgap",
-      statement: "The custom scheme an installed build still sends is admitted beside it.",
+      statement:
+        "The custom scheme an installed build still sends is admitted beside the https origin.",
     },
     {
       invariantKind: "departure",
