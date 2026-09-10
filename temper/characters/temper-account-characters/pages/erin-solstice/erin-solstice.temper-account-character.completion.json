@@ -1,11 +1,11 @@
 {
-  "buildHash": "ATAHNIDAAIBhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAF4AAhqABNgQwANlMWzoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAApkx4EEmhDJZwRMYIIYwo2o82PCxWtczDEJPBJGkQA83M2tQ0818llAu",
+  "buildHash": "ATAHNMTAAIBhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAF4AAhqABNgQwANlMWzoAAgjlUgFAGWpToAIAEaCACEKgJJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRBQdoFZDg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4Apkx4EEmhDJZwRMYIIYwo2o82PCxWtczDEJPBJGkQA83M2tQ0818llAu",
   "gender": 1,
   "level": 50,
   "classId": 1,
   "allianceId": 1,
   "raceId": 10,
-  "curseState": "no-curse",
+  "curseState": "vampire",
   "className": "Dragonknight",
   "classIcon": "/esoui/art/icons/class/class_dragonknight.dds",
   "companionRapport": {
@@ -17004,7 +17004,7 @@
     "groupDungeonTotal": 54,
     "tutorial": 0,
     "skyshardPoints": 193,
-    "unassigned": 182,
+    "unassigned": 174,
     "zoneQuestTotal": 164,
     "publicDungeons": {
       "EP4": 1,
@@ -26405,8 +26405,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-10"
+    "date": "2026-09-10",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
