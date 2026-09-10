@@ -1,4 +1,4 @@
-import type { TemperResearchLine } from "../../temper-research-line.page-type.ts"
+import type { TemperResearchLine } from "../../temper-research-line.page-type.types.ts"
 
 export const woodworkingBow = {
   id: "01a0616b-2ce1-7009-9575-d080f5c1fa56",

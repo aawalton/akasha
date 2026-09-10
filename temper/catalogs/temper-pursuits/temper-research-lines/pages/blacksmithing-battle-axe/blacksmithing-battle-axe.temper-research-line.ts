@@ -1,4 +1,4 @@
-import type { TemperResearchLine } from "../../temper-research-line.page-type.ts"
+import type { TemperResearchLine } from "../../temper-research-line.page-type.types.ts"
 
 export const blacksmithingBattleAxe = {
   id: "01a0616b-2ce0-7003-aea6-f930a51dff09",

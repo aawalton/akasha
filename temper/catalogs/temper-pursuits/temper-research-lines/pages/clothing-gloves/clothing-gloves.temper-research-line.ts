@@ -1,4 +1,4 @@
-import type { TemperResearchLine } from "../../temper-research-line.page-type.ts"
+import type { TemperResearchLine } from "../../temper-research-line.page-type.types.ts"
 
 export const clothingGloves = {
   id: "01a0616b-2ce0-7011-a9db-437f60ed8e50",

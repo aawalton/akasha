@@ -1,4 +1,4 @@
-import type { TemperResearchLine } from "../../temper-research-line.page-type.ts"
+import type { TemperResearchLine } from "../../temper-research-line.page-type.types.ts"
 
 export const clothingSash = {
   id: "01a0616b-2ce1-7000-ab6f-1785dc306baa",
