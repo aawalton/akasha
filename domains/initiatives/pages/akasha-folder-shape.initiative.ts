@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "374 folders were refused at the start of this intent and 97 are now: 49 hold many pages, 24 hold no page, 17 have an undeclared subfolder, 5 hold a child that is no domain, 2 are misnamed; 58 sit under `alan`. The answer to the first is dissolving the grouping folder rather than a new shape: `watching/seasons/pages` holds 702 flat files and is clean. Gather refusals with `grep ' — this folder matches no folder shape'` over `2>&1`; a pattern needing a slash drops every top-level folder.\n",
+        "`akasha audit` truncates at 28000 bytes and gives the true count only on its last line, so a `grep -c` over its output counts what fit rather than what is. `--file-path` narrows what is judged but still reports folders outside the named tree. Refusals come in two wordings: `matches no folder shape`, and `opens with X, what the page above it is named`. A folder holding one page is named for that page with the opening it shares with the page above taken off.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
