@@ -39,7 +39,10 @@ export const propertyPagesOnly = {
       invariantKind: "absence",
       statement: "The folder above says which page these pages are properties of.",
     },
-    { invariantKind: "departure", statement: "A property page carries no file of its own." },
+    {
+      invariantKind: "departure",
+      statement: "A file beside a property page is a file that property page states.",
+    },
     {
       invariantKind: "departure",
       statement: "A file that is neither a page nor a file beside a page is refused.",

@@ -20,6 +20,16 @@ const folder = folderFrom({
   extending: (pageTypeSlug, wanted) => wanted === "page-property" && EXTENDING.has(pageTypeSlug),
 })
 
+const TYPE_BESIDE = `${FOLDER}/parts.relation-property.types.ts`
+
+const carrying = folderFrom({
+  folder: FOLDER,
+  pageTypes: PAGE_TYPES,
+  fileProperties: new Set<string>(["code", "test", "types"]),
+  extending: (pageTypeSlug, wanted) => wanted === "page-property" && EXTENDING.has(pageTypeSlug),
+  parts: (page) => [page.path, TYPE_BESIDE],
+})
+
 test("a folder holding no file at all takes the shape", () => {
   expect(propertyPagesOnly(folder([]))).toEqual([])
 })
@@ -42,9 +52,17 @@ test("a page whose type does not extend page-property is refused, and the reason
   expect(said[0]).toContain("held.module.ts")
 })
 
-test("a file beside a page is refused, because a property page carries no file", () => {
+test("a property page's own generated type beside it takes the shape", () => {
+  const said = propertyPagesOnly(
+    carrying(["parts.relation-property.ts", "parts.relation-property.types.ts"])
+  )
+  expect(said).toEqual([])
+})
+
+test("a file no page in the folder states is refused, and the reason names it", () => {
   const said = propertyPagesOnly(folder(["held.module.ts", "held.module.code.ts"]))
-  expect(said.some((each) => each.includes("sit beside a page"))).toBe(true)
+  expect(said.some((each) => each.includes("states no such file"))).toBe(true)
+  expect(said.some((each) => each.includes("held.module.code.ts"))).toBe(true)
 })
 
 test("a file that is neither a page nor sits beside one is refused", () => {

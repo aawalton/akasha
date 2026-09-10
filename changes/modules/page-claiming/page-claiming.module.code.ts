@@ -1,5 +1,5 @@
 import { claimsOf } from "akasha/pages/indexes/path-claiming/path-claiming.module.code.ts"
-import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import type { Value } from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import type { World } from "../shadow/change-shadow.module.code.ts"
 
 export function claimedIn(world: World, at: string, value: Value): readonly string[] {
