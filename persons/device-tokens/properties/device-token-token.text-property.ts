@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type Token = string
+export type DeviceTokenToken = string
 
 export const deviceTokenToken = {
   id: "01a05dc7-77da-7b07-affa-4c60ae0382fc",
