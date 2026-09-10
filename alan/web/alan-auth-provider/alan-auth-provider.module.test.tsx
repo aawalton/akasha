@@ -43,15 +43,15 @@ mock.module("@akasha/pages-ui/app-version/use-app-version-check", () => ({
   ...appVersionCheck,
   useAppVersionCheck: () => undefined,
 }))
-mock.module("@akasha/pages-ui-store/diagnostics", () => ({
+mock.module("akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts", () => ({
   emitStoreDiagnostic: () => undefined,
   setStoreDiagnosticsSink: () => undefined,
 }))
-mock.module("@akasha/pages-ui-store/report-stall", () => ({
+mock.module("akasha/pages/ui-store/report-stall/report-stall.module.code.ts", () => ({
   reportPagesStoreStall: () => Promise.resolve(),
 }))
-const pagesStoreSingleton = await import("@akasha/pages-ui-store/singleton")
-mock.module("@akasha/pages-ui-store/singleton", () => ({
+const pagesStoreSingleton = await import("akasha/pages/ui-store/singleton/singleton.module.code.ts")
+mock.module("akasha/pages/ui-store/singleton/singleton.module.code.ts", () => ({
   ...pagesStoreSingleton,
   configurePagesStoreAuth: () => Promise.resolve(),
   getPagesStore: () =>
