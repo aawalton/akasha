@@ -22,6 +22,7 @@ export const agentSubagentSweep = {
     "no page's age is read: a page written long ago under a process still running says nothing.",
     "the report names, for each page, its seat, its agent id, what answers for it, and why.",
     "a removal is landed by this command rather than drafted, as the put-up that wrote the page was.",
+    "a page a subagent left edits waiting beside is kept though it was judged stale, because nothing reaches those edits once the page goes.",
   ],
   invariants: [
     {
@@ -98,6 +99,14 @@ export const agentSubagentSweep = {
       invariantKind: "departure",
       statement:
         "A landing that refused leaves the census reported and the pages where the pages are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a subagent left edits waiting beside is kept however it was judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report names each page kept that way and says the edits are why.",
     },
   ],
 } as const satisfies Command

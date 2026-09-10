@@ -1,5 +1,6 @@
 import { existsSync, mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { SubagentNode } from "akasha/editor-extension/subagent-reading/subagent-reading.module.code.ts"
 import {
@@ -90,6 +91,14 @@ export function paged(root: string, seatName: string, own: string, agentId: stri
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", `${slug} is there`])
   valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
+  return at
+}
+
+export function editsBeside(root: string, page: string): string {
+  const at = editsAt(page)
+  if (at === null) throw new Error(`${page} keeps no edits`)
+  const row = { kind: "add", path: `${TREE}/kept.ts`, content: "export const kept = 1\n" }
+  writing(root, at, `${JSON.stringify(row)}\n`)
   return at
 }
 

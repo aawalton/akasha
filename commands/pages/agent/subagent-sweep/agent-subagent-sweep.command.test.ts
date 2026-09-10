@@ -12,6 +12,7 @@ import {
   AGAIN,
   agentIdOf,
   CHILD,
+  editsBeside,
   givenIn,
   halfReading,
   landings,
@@ -354,6 +355,49 @@ test("a page the transcript says ended is named to the landing on a run told to 
   )
   expect(said.code).toBe(0)
   expect(held.asked()).toEqual([[{ at: TAKE, given: { at } }]])
+  world.sweep()
+})
+
+test("a stale page a subagent left edits beside is kept and the report says why", async () => {
+  const { root, base, at } = worldWith()
+  editsBeside(root, at)
+  const held = landings()
+  const said = await agentSubagentSweep(
+    ["--remove"],
+    givenIn(root),
+    ALIVE,
+    base,
+    saying([], [OWN]),
+    held.landing
+  )
+  expect(said.code).toBe(0)
+  expect(held.asked()).toEqual([])
+  expect(there(root, at)).toBe(true)
+  expect(said.report.join("\n")).toContain("a subagent left edits waiting beside each")
+  expect(said.report.join("\n")).toContain(`akasha-${OWN}`)
+  expect(said.report.join("\n")).toContain("every page judged STALE keeps edits, so nothing went")
+  world.sweep()
+})
+
+test("only the stale pages nothing left edits beside are named to the landing", async () => {
+  const root = seated(world.rootFor("subagent-sweep-"))
+  const base = world.rootFor("subagent-sweep-logs-")
+  const kept = paged(root, "thea", OWN, agentIdOf(OTHER_ID, OWN))
+  const gone = paged(root, "thea", AGAIN, agentIdOf(OTHER_ID, AGAIN))
+  editsBeside(root, kept)
+  const held = landings()
+  const said = await agentSubagentSweep(
+    ["--remove"],
+    givenIn(root),
+    ALIVE,
+    base,
+    saying([]),
+    held.landing
+  )
+  expect(said.code).toBe(0)
+  expect(held.asked()).toEqual([[{ at: TAKE, given: { at: gone } }]])
+  expect(there(root, kept)).toBe(true)
+  expect(said.report.join("\n")).toContain("1 page(s) the census judged STALE are kept")
   world.sweep()
 })
 
