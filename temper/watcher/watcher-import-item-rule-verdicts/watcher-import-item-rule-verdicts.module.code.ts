@@ -119,7 +119,11 @@ async function settingsBlobOf(userId: string): Promise<Record<string, unknown> |
         `beside the player page, so what is already set went unread`
     )
   }
-  return asRecord(JSON.parse(held)) ?? {}
+  return parseSettingsBlob(JSON.parse(held))
+}
+
+function parseSettingsBlob(held: unknown): Record<string, unknown> {
+  return asRecord(held) ?? {}
 }
 
 export function temperPlayerSettingsStore(): VerdictSettingsStore {
