@@ -1,4 +1,4 @@
-import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
+import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.types.ts"
 
 export const expeditionIntellectProtectionMagickaRestore = {
   id: "019e21f6-406d-7fb4-aaca-8547f12a16b8",

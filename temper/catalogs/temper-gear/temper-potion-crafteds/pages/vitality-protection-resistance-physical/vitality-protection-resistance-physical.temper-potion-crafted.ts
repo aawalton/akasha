@@ -1,4 +1,4 @@
-import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.ts"
+import type { TemperPotionCrafted } from "../../temper-potion-crafted.page-type.types.ts"
 
 export const vitalityProtectionResistancePhysical = {
   id: "019e21f6-4045-7f82-bf12-19cb6068b0b6",

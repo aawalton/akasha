@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Recipes } from "../properties/recipes.record-property.ts"
-import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.types.ts"
-
-export type TemperPotionCrafted = TemperGearThing & {
-  reagents: Recipes
-}
 
 export const temperPotionCrafted = {
   id: "01a05fd1-d434-76cd-b1db-563c237e6de6",
@@ -23,4 +17,5 @@ export const temperPotionCrafted = {
     { pageProperty: "number-property/potion-seconds", required: true, many: false },
     { pageProperty: "record-property/recipes", required: true, many: true, maxCount: null },
   ],
+  types: "ts",
 } as const satisfies PageType
