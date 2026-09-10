@@ -1,4 +1,4 @@
-import type { FandomCollection } from "../fandom-collection.page-type.ts"
+import type { FandomCollection } from "../fandom-collection.page-type.types.ts"
 
 export const scienceFictionFandoms = {
   id: "01a06808-5f7f-7003-93c0-833cfcfd5eb0",
