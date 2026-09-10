@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check has a decision, a check and an audit, each its own module of files.",
       workingMemory:
-        "code-check holds nine member files from its type alone, no page saying so; heldIn reads .audit.code.ts as a property. judging states Auditing, taking the root alone. 45 of 55 are migrated, in slug order through relation-resolves, one a landing. An audit is overEveryText, overEveryBody, overEveryNamed, or refusalsOver(everythingIn(root), shadowAt(root)). A change to a check is judged by that check as landed, so a mend the split needs lands first. Slimming a check code file repoints its importers.",
+        "code-check holds nine member files from its type alone, no page saying so; heldIn reads .audit.code.ts as a property. judging states Auditing and AuditingAsync, each taking the root alone. All 55 checks are split, one a landing. An audit is overEveryText, overEveryBody, overEveryNamed, or refusalsOver(everythingIn(root), shadowAt(root)). Left: the callers, then code, test and test-fixtures come off code-check, then extends. Four checks still carry a .code-check.test-fixtures.ts.",
     },
     {
       statement:
