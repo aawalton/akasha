@@ -43,11 +43,11 @@ export const modulePropertyGroup = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page carrying one of these has code and a test under that group's slug.",
+      statement: "A page carrying such a group has code and a test under that group's slug.",
     },
     {
       invariantKind: "departure",
-      statement: "What sets that test up is a third file the page may have.",
+      statement: "The file setting that test up is a third file the page may have.",
     },
     {
       invariantKind: "departure",
@@ -59,15 +59,19 @@ export const modulePropertyGroup = {
     },
     {
       invariantKind: "departure",
-      statement: "A group with no ceiling stated holds its run to none.",
+      statement: "A group with no ceiling stated holds its run to no ceiling.",
     },
     {
       invariantKind: "departure",
-      statement: "What each run of a group's code cost is recorded beside that group alone.",
+      statement: "The cost of each run of a group's code is recorded beside that group alone.",
     },
     {
       invariantKind: "departure",
-      statement: "The three files are TypeScript, and no page carrying the group says otherwise.",
+      statement: "The three files are TypeScript.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No page carrying the group says otherwise.",
     },
     {
       invariantKind: "departure",
