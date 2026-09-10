@@ -44,6 +44,14 @@ export const importNotLeftHanging = {
     },
     {
       invariantKind: "departure",
+      statement: "An importer whose body a generator owns holds nothing back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing writes that body again from what the change leaves.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An index a guard cannot read refuses the answer.",
     },
     {

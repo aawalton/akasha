@@ -1,4 +1,8 @@
 import {
+  type Facing,
+  generatedIn,
+} from "akasha/pages/indexes/property-carrying/property-carrying.module.code.ts"
+import {
   carriedIn,
   holdsAfter,
   judgingOver,
@@ -6,10 +10,22 @@ import {
 } from "../../../modules/guarding/change-guarding.module.code.ts"
 import type { Guard, Guarding } from "../../../modules/guarding/change-guarding.module.types.ts"
 
+function facingFor(given: Guarding): Facing {
+  const index = given.shadow.index
+  return {
+    kindsUnder: (of) => index.kindsUnder(of),
+    everyOfType: (kind) => index.everyOfType(kind),
+    valueAt: (path) => index.pageByPath(path),
+    carryingOf: (named) => index.carryingOf(named),
+  }
+}
+
 function hangingIn(given: Guarding, gone: readonly string[]): string | null {
+  const facing = facingFor(given)
   for (const path of gone) {
     for (const importer of given.shadow.index.importersOf(path)) {
       if (!holdsAfter(given, importer)) continue
+      if (generatedIn(facing, importer)) continue
       return `\`${importer}\` imports \`${path}\`, and \`${path}\` holds no body after`
     }
   }
