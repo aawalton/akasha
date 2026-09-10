@@ -53,7 +53,7 @@ test("the line named is the line the call is on", () => {
 
 test("the reason names what to do instead", () => {
   const said = noRunOutsideTheRunner(parsed("Bun.spawnSync(argv)\n"))
-  expect(said[0]?.reason).toContain("@akasha/utils-run/running")
+  expect(said[0]?.reason).toContain("@akasha/utils/run/running")
 })
 
 test("a regular expression's own exec is permitted", () => {

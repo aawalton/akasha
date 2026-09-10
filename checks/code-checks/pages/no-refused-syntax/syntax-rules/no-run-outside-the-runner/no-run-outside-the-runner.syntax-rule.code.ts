@@ -18,7 +18,7 @@ const CAPTURES: ReadonlySet<string> = new Set([
   "execFileSync",
 ])
 
-const INSTEAD = "reach for `ran` or `said` or `bytes` or `shown` from `@akasha/utils-run/running`"
+const INSTEAD = "reach for `ran` or `said` or `bytes` or `shown` from `@akasha/utils/run/running`"
 
 type Bound = {
   readonly named: ReadonlySet<string>
