@@ -1,4 +1,4 @@
-import type { GraphAttribute } from "../graph-attribute.page-type.ts"
+import type { GraphAttribute } from "../graph-attribute.page-type.types.ts"
 
 export type Known = "index" | "declaration"
 
