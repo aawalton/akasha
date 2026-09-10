@@ -20,7 +20,7 @@ export const aranyaOnePackage = {
     {
       statement: "A cluster service deploys naming no package but the root.",
       workingMemory:
-        "`dockerfile-bun-service.module.code.ts` copies the root manifest, `bun.lock` and every member manifest, runs one `bun install --production --frozen-lockfile`, then copies the whole `node_modules`. `collectExecutedDeps` picks which source folders to copy by walking the package dependency graph, so it is the one tool that reads these manifests; the import index already answers what it asks.",
+        "`dockerfile-bun-service` copies `bun.lock`, `tsconfig.base.json`, the root manifest and every member manifest, runs one `bun install --production --frozen-lockfile`, then copies each `depDirs` folder and `${appDir}`. `appDir` is the `folder` the built-image page states, not anything a manifest says. `depDirs` is `collectExecutedDeps`, which reads only `@akasha/` specifiers, and every service now spells its reaches `akasha/...`, so an image carries its own folder alone.\n",
     },
     {
       statement: "A native app deploys naming no package but the root.",
@@ -34,7 +34,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "65 manifests, 6 workspace-package pages. Folded: `pages`, `rules-engine`, `supabase-auth`, `utils`, `indexes`, `code-system`, `pages-ui` — `change-file` off `manifest`, `change-page-page-type` to `domain`, `remove-package-manifest`. A fold makes every specifier into it longer, so a file near the byte ceiling crosses it and refuses the whole landing; split that file first. Four wait on the deploy intents. Two cannot fold: `vscode-typings` and `ops-extension`, whose manifests are the mechanism.\n",
+        "Each fold is `change-file` off `manifest`, `change-page-page-type` to `domain`, `remove-package-manifest`. Folded: pages, rules-engine, supabase-auth, utils, indexes, code-system, pages-ui, calendar-sync, auth-proxy, backup-retention. A fold lengthens every specifier into it, so a file near the byte ceiling crosses it and refuses that landing; split it first. 62 manifests are left: 48 eso-addon, 5 router-app, 3 ios-app, 2 config, cluster-manifests, vscode-typings and ops-extension.\n",
     },
     {
       statement: "One change replaces every relative path in a folder with an absolute path.",
