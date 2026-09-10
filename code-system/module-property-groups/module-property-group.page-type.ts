@@ -14,6 +14,7 @@ export const modulePropertyGroup = {
   definition: "a file property group held in a module's code, test and test fixtures",
   pluralSlug: "module-property-groups",
   parts: [
+    "file-property/logs",
     "number-property/group-max-cpu-seconds",
     "number-property/group-max-memory-mb",
     "number-property/group-max-wall-seconds",
@@ -28,6 +29,7 @@ export const modulePropertyGroup = {
       many: false,
       fixed: "ts",
     },
+    { pageProperty: "file-property/logs", required: false, many: false, uncommitted: true },
     { pageProperty: "number-property/group-max-cpu-seconds", required: false, many: false },
     { pageProperty: "number-property/group-max-wall-seconds", required: false, many: false },
     { pageProperty: "number-property/group-max-memory-mb", required: false, many: false },
@@ -52,6 +54,10 @@ export const modulePropertyGroup = {
     {
       invariantKind: "departure",
       statement: "A group with no ceiling stated holds its run to none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What each run of a group's code cost is recorded beside that group alone.",
     },
     {
       invariantKind: "departure",
