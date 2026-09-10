@@ -1,4 +1,4 @@
-import type { TemperArmorEnchant } from "../../temper-armor-enchant.page-type.ts"
+import type { TemperArmorEnchant } from "../../temper-armor-enchant.page-type.types.ts"
 
 export const noEnchant = {
   id: "01a05fd4-d96b-7b53-81ee-e3e4ad27fd5a",

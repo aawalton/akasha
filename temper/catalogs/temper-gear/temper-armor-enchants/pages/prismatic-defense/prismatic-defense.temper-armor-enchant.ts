@@ -1,4 +1,4 @@
-import type { TemperArmorEnchant } from "../../temper-armor-enchant.page-type.ts"
+import type { TemperArmorEnchant } from "../../temper-armor-enchant.page-type.types.ts"
 
 export const prismaticDefense = {
   id: "01a05fd4-d96c-761c-984c-cf81a1aac8c6",

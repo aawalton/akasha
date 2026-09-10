@@ -1,4 +1,4 @@
-import type { TemperArmorEnchant } from "../../temper-armor-enchant.page-type.ts"
+import type { TemperArmorEnchant } from "../../temper-armor-enchant.page-type.types.ts"
 
 export const magicka = {
   id: "01a05fd4-d96b-7fb6-8535-b1728715ed14",

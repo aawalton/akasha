@@ -1,4 +1,4 @@
-import type { TemperArmorEnchant } from "../../temper-armor-enchant.page-type.ts"
+import type { TemperArmorEnchant } from "../../temper-armor-enchant.page-type.types.ts"
 
 export const health = {
   id: "01a05fd4-d96a-7f26-be77-be4206893578",
