@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "Piped, `akasha audit` gives every line; only the answer to a terminal truncates. A folder move leaves an `akasha/...` specifier as it is, and typecheck judges only what a change reaches, so a break lands green and shows up elsewhere. A page whose slug is unique within a scope is addressed `<page type>/<scope>/<slug>`. 46 folders match no shape: 20 group pages under no page of their own, 11 are those folders' parents, 11 hold many pages of one type.\n",
+        "33 folders refuse. Code composing a repo path from fragments is invisible to typecheck, so a folder move lands green and breaks at runtime: find every seam by grepping the folder name rather than by compiling. A daemon holds its paths from import, so a move needs `akasha seat supervisor restart --all` after; until then old code rewrites the old path, and a page filed twice under one id refuses every repair. A property given a default is claimed from its type rather than its page.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
