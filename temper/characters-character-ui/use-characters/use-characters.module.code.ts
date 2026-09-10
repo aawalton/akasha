@@ -11,7 +11,7 @@ import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import type { CharacterBuildMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
-import type { CharacterVisibility } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
+import type { CharacterVisibility } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { useMemo } from "react"
 import {
   type RoleId,

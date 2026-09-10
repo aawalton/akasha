@@ -9,6 +9,7 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import {
   convertIconPathToUrl,
   getEquipmentIcon,
@@ -33,7 +34,6 @@ import {
 } from "akasha/temper/equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import type { SetId as SetsAllId } from "akasha/temper/equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/equipment/set-template/set-template.module.code.ts"
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { useMemo, useState } from "react"
 import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
 import {

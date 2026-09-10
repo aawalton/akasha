@@ -1,5 +1,6 @@
 "use client"
 
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/characters-stats/build-state-adapter/build-state-adapter.module.code.ts"
 import {
   compareMetricValuesUnfiltered,
@@ -11,7 +12,6 @@ import {
 } from "akasha/temper/characters-stats/diff-effect-sources/diff-effect-sources.module.code.ts"
 import { calculateBuildStatsByBar } from "akasha/temper/characters-stats/metric-calculator/metric-calculator.module.code.ts"
 import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
 import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"

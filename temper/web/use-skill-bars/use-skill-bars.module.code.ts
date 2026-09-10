@@ -1,9 +1,9 @@
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { areConflictingMorphs } from "akasha/temper/skill-morphs/morph-conflict/morph-conflict.module.code.ts"
 import {
   type CategoryData,
   organizeSkills,
 } from "akasha/temper/skill-morphs/skill-organization/skill-organization.module.code.ts"
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type {
   Skill,
   SkillId,

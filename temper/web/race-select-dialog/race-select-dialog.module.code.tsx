@@ -1,12 +1,12 @@
 "use client"
 
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   ALL_RACE_SOURCES,
   NO_RACE_SOURCE,
   type RaceSource,
   sortedRaces,
-} from "akasha/temper/temper-character-build/race-source/race-source.module.code.ts"
+} from "akasha/temper/character-build/race-source/race-source.module.code.ts"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import { useMemo } from "react"
 import { getRaceIconUrl } from "../../races/race-icon-url/race-icon-url.module.code.ts"
 import type { RaceId } from "../../races/races/races.module.code.ts"

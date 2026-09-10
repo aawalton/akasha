@@ -5,9 +5,9 @@ import {
   encodeBuild,
 } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import type { ChampionPointId } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/saved-variables/lua-parser/lua-parser.module.code.ts"
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   type SkillLineId,

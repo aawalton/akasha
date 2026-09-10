@@ -1,4 +1,4 @@
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type { Skill } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import type { AffixScriptId } from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"

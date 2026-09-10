@@ -8,6 +8,7 @@ import {
   applyCharacterMetadata,
   extractCharacterMetadata,
 } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import {
   useCharacterLifecycle,
   useCharacterList,
@@ -15,7 +16,6 @@ import {
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { useMemo, useState, useTransition } from "react"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"

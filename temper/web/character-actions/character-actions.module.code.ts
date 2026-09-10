@@ -1,4 +1,4 @@
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
+import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
