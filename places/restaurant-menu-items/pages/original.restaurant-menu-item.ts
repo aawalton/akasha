@@ -1,4 +1,4 @@
-import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.ts"
+import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.types.ts"
 
 export const original = {
   id: "01a06808-b765-7014-ac39-d0e8197d576e",

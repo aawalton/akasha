@@ -1,4 +1,4 @@
-import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.ts"
+import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.types.ts"
 
 export const toastedMarshmallowSMoresGalore = {
   id: "01a06808-b765-701c-943d-49faddaaa260",

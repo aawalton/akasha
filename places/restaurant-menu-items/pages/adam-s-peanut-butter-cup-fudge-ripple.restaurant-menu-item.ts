@@ -1,4 +1,4 @@
-import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.ts"
+import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.types.ts"
 
 export const adamSPeanutButterCupFudgeRipple = {
   id: "01a06808-b764-7000-8b38-c733e241aa14",

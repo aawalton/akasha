@@ -1,4 +1,4 @@
-import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.ts"
+import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.types.ts"
 
 export const coconutCreamPieCheesecake = {
   id: "01a06808-b765-7006-9a50-fcce090d43a9",

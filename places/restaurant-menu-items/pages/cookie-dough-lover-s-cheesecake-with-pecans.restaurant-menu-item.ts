@@ -1,4 +1,4 @@
-import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.ts"
+import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.types.ts"
 
 export const cookieDoughLoverSCheesecakeWithPecans = {
   id: "01a06808-b765-7007-9d55-d65c4e99f8bd",
