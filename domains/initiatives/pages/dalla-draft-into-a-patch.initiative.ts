@@ -17,12 +17,12 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "`subagent-presence` lands through `runMechanicalChange` on every road now, naming the change adding a file of any kind and the change taking a page away, so `landedMechanically` at `commands/modules/mechanical-landing` has no caller but its own test, which proves the `MECHANICAL` change kind rather than the function. Two roads are left: `notification-feed-rows:73` appends a tracked jsonl through `page-entry-queue:47`, and `restore.command:207` writes bodies and the git index.\n",
+        "`subagent-presence` lands through `runMechanicalChange` on every road now, so `landedMechanically` at `commands/modules/mechanical-landing` has no caller but its own test, which proves the `MECHANICAL` change kind rather than the function. `restore.command:206` writes HEAD's own body back to the disk and the git index, landing no change, so it is outside this intent as read. What is left is `notification-feed-rows:73`, appending through `page-entry-queue:47` straight onto a jsonl git tracks.\n",
     },
     {
       statement: "Every change is a patch before it is applied.",
       workingMemory:
-        "Every landing road works a patch out first and reaches `applied`: `apply-running` for `change-apply`, and `runMechanicalChange` for every other program, which `subagent-presence` now takes on every road of its own. Two roads write tracked files with neither patch nor landing: `notification-feed-rows:73` appends through `page-entry-queue:47`, and `restore.command:207` writes bodies and the git index.\n",
+        "Every landing road works a patch out first and reaches `applied`: `apply-running` for `change-apply`, and `runMechanicalChange` for every other program, which `subagent-presence` now takes on every road of its own. One road writes a file git tracks with neither patch nor landing: `notification-feed-rows:73` appends through `page-entry-queue:47`. `restore.command:206` writes HEAD's own body back, landing no change.\n",
     },
   ],
   constraints: [
