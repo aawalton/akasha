@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { bodiesAt } from "akasha/testing-system/bodying/bodying.module.code.ts"
-import { reasonsIn } from "./id-is-a-uuid-version-7.code-check.code.ts"
+import { reasonsIn } from "./id-is-a-uuid-version-7.code-check.check.code.ts"
 
 const ROOT = "/repo"
 

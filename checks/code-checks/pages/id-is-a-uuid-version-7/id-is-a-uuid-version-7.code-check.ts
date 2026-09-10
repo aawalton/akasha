@@ -7,8 +7,6 @@ export const idIsAUuidVersion7 = {
   slug: "id-is-a-uuid-version-7",
   definition:
     "the check refusing a page whose stated id is not a uuid version 7 written in lower uuid",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
