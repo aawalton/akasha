@@ -6,6 +6,7 @@ export const image = {
   type: "domain",
   slug: "image",
   definition: "making an image from text or from another image",
+  pluralSlug: "images",
   parts: ["domain/z-image-turbo"],
   invariants: [
     {
