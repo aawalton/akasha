@@ -2,7 +2,10 @@ import { lineOf, parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import { overEachText } from "../../../modules/change-walking/change-walking.module.code.ts"
 
+const DECLARED = ".d.ts"
+
 export function foundIn(at: string, text: string): readonly string[] {
+  if (at.endsWith(DECLARED)) return []
   const source = parsedAs(at, text)
   const found: string[] = []
   const held = (node: ts.Node): undefined => {

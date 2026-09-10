@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { reasonsIn } from "./no-method-signature.code-check.decision.code.ts"
-import { AT, given, ROOT } from "./no-method-signature.code-check.decision.test-fixtures.ts"
+import { AT, given, ROOT, SIGNED } from "./no-method-signature.code-check.decision.test-fixtures.ts"
 
 test("a property holding a function type is let through", () => {
   const body = "type Whole = {\n  readonly at: (path: string) => string | null\n}\n"
@@ -59,6 +59,11 @@ test("an optional method signature is a method signature", () => {
 test("a method signature in a type literal that is a parameter type is judged", () => {
   const body = "export function one(two: { a(): void }): void {\n  two.a()\n}\n"
   expect(reasonsIn(given(AT, body))).toHaveLength(1)
+})
+
+test("a declaration file is passed over, however many method signatures that file writes", () => {
+  expect(reasonsIn(given("akasha/held.d.ts", SIGNED))).toEqual([])
+  expect(reasonsIn(given(AT, SIGNED))).toHaveLength(1)
 })
 
 test("a file that is not TypeScript is passed over, and a body that is not text refuses", () => {

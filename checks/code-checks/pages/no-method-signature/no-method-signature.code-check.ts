@@ -31,6 +31,15 @@ export const noMethodSignature = {
       invariantKind: "departure",
       statement: "The method form is refused and the function-type property is not.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A file named `.d.ts` is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A declaration file names a shape another language or another writer already named.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
