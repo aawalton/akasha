@@ -12,13 +12,13 @@ const MONTH_TYPE = "monarch-month"
 
 const MONARCH = "alan/harness/monarch"
 
-export const MONTHS_FOLDER = `${MONARCH}/monarch-months/pages`
-export const HOLDING_FOLDER = `${MONARCH}/monarch-holdings/pages`
-export const CATEGORY_FOLDER = `${MONARCH}/monarch-categories/pages`
-export const ACCOUNT_FOLDER = `${MONARCH}/monarch-accounts/pages`
-export const TAG_FOLDER = `${MONARCH}/monarch-tags/pages`
-export const DIRECTION_FOLDER = `${MONARCH}/monarch-directions/pages`
-export const MERCHANT_FOLDER = `${MONARCH}/monarch-merchants/pages`
+export const MONTHS_FOLDER = `${MONARCH}/months/pages`
+export const HOLDING_FOLDER = `${MONARCH}/holdings/pages`
+export const CATEGORY_FOLDER = `${MONARCH}/categories/pages`
+export const ACCOUNT_FOLDER = `${MONARCH}/accounts/pages`
+export const TAG_FOLDER = `${MONARCH}/tags/pages`
+export const DIRECTION_FOLDER = `${MONARCH}/directions/pages`
+export const MERCHANT_FOLDER = `${MONARCH}/merchants/pages`
 
 export type TransactionLine = {
   readonly id: string
