@@ -18,6 +18,8 @@ export const agentSubagentSweep = {
     "STALE is a take-down the seat's log says was refused, a seat no process at all carries the id of, or the seat's transcript naming the subagent as one it saw start and finish.",
     "a transcript reads an agent id off a launch receipt, so a compacted one has no id to end and no id to run, and it leaves every judgement as it was.",
     "the absence of a running subagent is never read as an end, because that is what a truncated transcript looks like too.",
+    "a subagent whose last record came before the start of the client its seat runs now is STALE, since a client runs no subagent already open.",
+    "that is how a subagent killed with its client is read, because no end reaches a transcript whose client died before writing it.",
     "UNDETERMINED is everything else, because a subagent waiting on the model runs no process of its own.",
     "no page's age is read: a page written long ago under a process still running says nothing.",
     "the report names, for each page, its seat, its agent id, what answers for it, and why.",
@@ -86,6 +88,18 @@ export const agentSubagentSweep = {
     {
       invariantKind: "departure",
       statement: "A seat's running reading and its ended reading are each their own try.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each seat's client is read for the subagents that client started after.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat stating no client leaves its subagents judged on the other evidence.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That reading is a try of its own like the two beside it.",
     },
     {
       invariantKind: "departure",

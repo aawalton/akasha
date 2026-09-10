@@ -7,6 +7,8 @@ import {
   type SubagentNode,
 } from "akasha/editor-extension/subagent-reading/subagent-reading.module.code.ts"
 import { scanProcEntries } from "akasha/seat-system/proc-scan/proc-scan.module.code.ts"
+import { akashaHolderProcessOf } from "akasha/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { parseSeatProcKey } from "akasha/seat-system/seat-proc-key/seat-proc-key.module.code.ts"
 import type { ProcLivenessEntry } from "akasha/seat-system/seat-proc-liveness/seat-proc-liveness.module.code.ts"
 import {
   censusOf,
@@ -17,6 +19,11 @@ import {
   seenIn,
   staleAmong,
 } from "akasha/seat-system/subagent-census/subagent-census.module.code.ts"
+import {
+  clientStartedAt,
+  outlivedAmong,
+  subagentsDirOf,
+} from "akasha/seat-system/subagent-outliving/subagent-outliving.module.code.ts"
 import { transcriptOf } from "../../../../seat-system/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { type Answer, answering, type Given } from "../../../modules/calling/calling.module.code.ts"
 import { dropReadings } from "../../../modules/reading/reading.module.code.ts"
@@ -47,9 +54,18 @@ export type TranscriptPathOf = (seatId: string) => string | null
 export interface OwnIds {
   readonly running: ReadonlySet<string>
   readonly ended: ReadonlySet<string>
+  readonly outlived: ReadonlySet<string>
 }
 
-export const NO_OWN_IDS: OwnIds = { running: new Set(), ended: new Set() }
+export const NO_OWN_IDS: OwnIds = { running: new Set(), ended: new Set(), outlived: new Set() }
+
+export type HolderPidOf = (seatId: string) => number | null
+
+export function holderPidOf(seatId: string): number | null {
+  const held = akashaHolderProcessOf(seatId)
+  if (held === null) return null
+  return parseSeatProcKey(held)?.pid ?? null
+}
 
 export type RunningSaid = (pages: readonly SubagentPage[]) => Promise<OwnIds>
 
@@ -80,10 +96,13 @@ function ownIdsInto(held: Set<string>, nodes: readonly SubagentNode[]): undefine
 export async function runningOwnIn(
   pages: readonly SubagentPage[],
   reading: SeatTranscripts,
-  pathOf: TranscriptPathOf
+  pathOf: TranscriptPathOf,
+  pidOf: HolderPidOf = holderPidOf,
+  startedAt: (pid: number) => number | null = clientStartedAt
 ): Promise<OwnIds> {
   const running = new Set<string>()
   const ended = new Set<string>()
+  const outlived = new Set<string>()
   const seats = [...new Set(pages.map((one) => one.seatId))].filter((one) => one !== "").sort()
   for (const seat of seats) {
     let named: string | null
@@ -101,9 +120,18 @@ export async function runningOwnIn(
         if (one !== "") ended.add(one)
       }
     } catch {}
+    try {
+      const pid = pidOf(seat)
+      if (pid !== null) {
+        const owns = pages.filter((one) => one.seatId === seat).map((one) => one.own)
+        for (const one of outlivedAmong(owns, subagentsDirOf(named), startedAt(pid))) {
+          outlived.add(one)
+        }
+      }
+    } catch {}
   }
   for (const one of running) ended.delete(one)
-  return { running, ended }
+  return { running, ended, outlived }
 }
 
 async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
@@ -180,7 +208,7 @@ export async function agentSubagentSweep(
   } catch {
     own = NO_OWN_IDS
   }
-  const judged = judgedOver(pages, seenIn(entries, baseDir, own.running, own.ended))
+  const judged = judgedOver(pages, seenIn(entries, baseDir, own.running, own.ended, own.outlived))
   const census = censusOf(judged)
   const judgedStale = staleAmong(judged)
   const waiting = judgedStale.filter((one) => editsWaiting(root, one.page.path))

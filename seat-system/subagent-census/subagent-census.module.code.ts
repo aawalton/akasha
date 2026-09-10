@@ -44,6 +44,7 @@ export interface Seen {
   readonly takenDown: ReadonlySet<string>
   readonly runningOwn: ReadonlySet<string>
   readonly endedOwn: ReadonlySet<string>
+  readonly outlivedOwn: ReadonlySet<string>
 }
 
 export interface Judged {
@@ -120,7 +121,8 @@ export function seenIn(
   entries: readonly ProcLivenessEntry[],
   baseDir?: string,
   runningOwn: ReadonlySet<string> = new Set(),
-  endedOwn: ReadonlySet<string> = new Set()
+  endedOwn: ReadonlySet<string> = new Set(),
+  outlivedOwn: ReadonlySet<string> = new Set()
 ): Seen {
   return {
     seatPids: pidsByAgentId(entries),
@@ -128,6 +130,7 @@ export function seenIn(
     takenDown: takenDownIn(baseDir),
     runningOwn,
     endedOwn,
+    outlivedOwn,
   }
 }
 
@@ -135,6 +138,14 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
   const pids = seen.actingPids.get(page.agentId) ?? []
   if (pids.length > 0) {
     return { page, verdict: WORKING, pids, why: "a live process acts under this agent id" }
+  }
+  if (page.own !== "" && seen.outlivedOwn.has(page.own)) {
+    return {
+      page,
+      verdict: STALE,
+      pids,
+      why: "its last record came before the start of the client its seat runs now, and a client runs no subagent already open",
+    }
   }
   if (page.own !== "" && seen.runningOwn.has(page.own)) {
     return {

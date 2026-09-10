@@ -165,8 +165,17 @@ export function halfReading(ended: Readonly<Record<string, readonly string[]>>):
   }
 }
 
-export function saying(own: readonly string[], ended: readonly string[] = []): RunningSaid {
-  return () => Promise.resolve({ running: new Set(own), ended: new Set(ended) })
+export function saying(
+  own: readonly string[],
+  ended: readonly string[] = [],
+  outlived: readonly string[] = []
+): RunningSaid {
+  return () =>
+    Promise.resolve({
+      running: new Set(own),
+      ended: new Set(ended),
+      outlived: new Set(outlived),
+    })
 }
 
 export const THROWS: RunningSaid = () => Promise.reject(new Error("no transcript would open"))

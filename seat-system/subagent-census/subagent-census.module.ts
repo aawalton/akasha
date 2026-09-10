@@ -43,7 +43,21 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "Life read in a transcript is weighed before every rule that could reach stale.",
+      statement:
+        "Life read in a transcript is weighed before every stale rule but the client's own start.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subagent whose last record came before the start of the client its seat runs now reads as stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That start is weighed after a live process and before what a transcript says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript cannot report an end its client died before writing.",
     },
     {
       invariantKind: "absence",
