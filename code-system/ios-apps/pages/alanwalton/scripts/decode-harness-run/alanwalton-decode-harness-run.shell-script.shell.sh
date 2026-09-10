@@ -32,6 +32,23 @@ while IFS= read -r component; do
   SOURCES+=("$COMPONENTS_DIR/$component")
 done <<< "$NAMED"
 
+# The seam writes DeviceSecretPins.swift beside the widget sources on every
+# build, from values the ios-app page carries, and never commits it. This
+# harness runs no seam, so a component reading those pins has nothing to compile
+# against. It decodes the bodies it is handed and queries no keychain, so a
+# placeholder saying what it is replaces the generated one.
+if grep -lq DeviceSecretPins "${SOURCES[@]}" 2>/dev/null; then
+  cat > "$BUILD_DIR/DeviceSecretPins.swift" <<'SWIFT_PINS'
+// Written by the decode harness. Nothing reads these: the harness decodes the
+// bodies it is handed rather than reading a keychain.
+enum DeviceSecretPins {
+    static let service = "decode-harness-placeholder"
+    static let accessGroup = "decode-harness-placeholder"
+}
+SWIFT_PINS
+  SOURCES+=("$BUILD_DIR/DeviceSecretPins.swift")
+fi
+
 DEVICE="$(xcrun simctl list devices booted | sed -n 's/.*(\([0-9A-Fa-f-]\{36\}\)) (Booted).*/\1/p' | head -1)"
 if [[ -z "$DEVICE" ]]; then
   echo "ERROR: no booted simulator. Boot one (\`xcrun simctl boot <udid>\`) and retry." >&2
