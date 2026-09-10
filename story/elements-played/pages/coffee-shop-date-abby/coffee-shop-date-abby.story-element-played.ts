@@ -1,4 +1,4 @@
-import type { StoryElementPlayed } from "../../story-element-played.page-type.ts"
+import type { StoryElementPlayed } from "../../story-element-played.page-type.types.ts"
 
 export const coffeeShopDateAbby = {
   id: "01a0682a-d9b4-7600-943f-b81d4fb06b1f",
