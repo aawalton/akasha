@@ -15,15 +15,16 @@ import {
 } from "akasha/testing-system/minting/minting.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import { folding } from "../apply-running/apply-running.module.code.ts"
-import { applying as applyingPatch } from "../applying/applying.module.code.ts"
+import { applyWith } from "../apply-running/apply-running.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
+import { CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
+import { appending, textIn } from "../change-running/change-running.module.code.ts"
 import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
 import { inputIn } from "../piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { type Asked, landingAsked, wroteAndTook } from "./asking.module.code.ts"
+import { type Asked, mistaking } from "./asking.module.code.ts"
 
 export const ADMITS_AT = "akasha/admits.code-check*"
 
@@ -55,6 +56,7 @@ function builtAt(root: string, named: Readonly<Record<string, string>>): string 
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])
+  put(root, CHANGE_APPLY_PAGE, "export const changeApply = {}\n")
   put(root, ".git/info/exclude", `${ADMITS_AT}\n`)
   checking(root, "admits", ADMITS_CODE)
   warrantsSeeded(root)
@@ -150,29 +152,31 @@ export async function applied(
   given: Given = givenIn(root)
 ): Promise<Answer> {
   if (said.code !== 0) return said
-  const page = given.agentId === null ? null : agentPathOf(root, given.agentId)
-  if (page === null) return said
-  const held = folding(root, page)
-  if ("refusals" in held) return { report: [], refusals: held.refusals, code: 3 }
-  const then = await applyingPatch(given, page, applyingIn(argv), held.carried)
+  const then = await applyWith(applyingIn(argv), given)
   return { report: [...said.report, ...then.report], refusals: then.refusals, code: then.code }
 }
 
-export async function landedFrom(
-  argv: readonly string[],
-  given: Given,
-  draft = true
-): Promise<Answer> {
+const NO_AGENT_PAGE =
+  "a patch is kept beside the page of the agent drafting it, and this call names no such page"
+
+function rowsOver(root: string, changes: readonly FileChange[]): readonly FileChange[] {
+  const held = textIn(root)
+  return changes.map((one): FileChange => {
+    if (one.kind !== "add") return one
+    const was = held(one.path)
+    if (was === null || was === "") return one
+    return { kind: "replace", path: one.path, contentFrom: was, contentTo: one.content }
+  })
+}
+
+export async function landedFrom(argv: readonly string[], given: Given): Promise<Answer> {
   const built = builtIn(argv, given, inputIn)
   if ("code" in built) return built
-  return await landingAsked(
-    given,
-    asking({
-      changes: built.changes,
-      message: built.message,
-      saying: (landed) => wroteAndTook(landed),
-      draft,
-    })
+  const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+  if (page === null) return mistaking([NO_AGENT_PAGE])
+  const edits = rowsOver(given.root, built.changes)
+  return await appending(given.root, page, given.agentId, true, () =>
+    Promise.resolve({ edits, refused: null })
   )
 }
 

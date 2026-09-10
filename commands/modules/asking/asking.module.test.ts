@@ -59,11 +59,10 @@ test("checks that will not load refuse the change, and nothing reaches the disk"
   const was = headOf(root)
   const said = await wrote(root, ["--message", "held"])
   expect(said.code).toBe(3)
-  expect(said.refusals.join("\n")).toContain("the checks could not be loaded from")
+  expect(said.refusals.join("\n")).toContain("the checks would not load")
   expect(said.refusals.join("\n")).toContain(
     `${UNLOADABLE_AT} is a check's code, and would not load`
   )
-  expect(said.refusals.join("\n")).toContain("nothing was judged and nothing was written")
   expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
   expect(headOf(root)).toBe(was)
 })
