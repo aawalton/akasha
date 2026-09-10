@@ -26,7 +26,11 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing path holding a body declaring no such export is refused.",
+      statement: "A landing path holding a body takes the declaration at the end of that body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import that body already names from another path is refused.",
     },
     {
       invariantKind: "departure",

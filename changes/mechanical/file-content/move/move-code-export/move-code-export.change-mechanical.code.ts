@@ -33,6 +33,7 @@ type Plan = {
   readonly taken: Passage
   readonly body: string
   readonly adding: boolean
+  readonly onto: Passage | null
   readonly after: readonly Passage[]
 }
 
@@ -292,13 +293,45 @@ function repointedIn(world: World, given: Asked): { readonly found: readonly Pas
   return { found }
 }
 
+function openedIn(landed: string, source: ts.SourceFile, lines: readonly string[]): string {
+  if (lines.length === 0) return landed
+  const anchor = anchorIn(landed, source)
+  if (anchor === null) return `${lines.join(LINE)}${LINE}${LINE}${landed}`
+  return landed.replace(anchor, `${anchor}${LINE}${lines.join(LINE)}`)
+}
+
+function ontoFor(
+  given: Asked,
+  landed: string,
+  carried: ReadonlyMap<string, Carried>,
+  passage: string
+): Passage | Refused {
+  const source = parsedAs(given.to, landed)
+  const held = importsIn(source)
+  const lines: string[] = []
+  for (const [name, one] of carried) {
+    const spelled = spelledFor(given, one.from)
+    const there = held.get(name)
+    if (there === undefined) {
+      lines.push(lineFor(name, spelled, one.type))
+      continue
+    }
+    if (there.from !== spelled) {
+      return { refused: `\`${given.to}\` already names \`${name}\` from \`${there.from}\`` }
+    }
+  }
+  const opened = openedIn(landed, source, lines)
+  const trimmed = passage.replace(/^\n+/, "").trimEnd()
+  return { at: given.to, old: landed, new: `${opened.trimEnd()}${LINE}${LINE}${trimmed}${LINE}` }
+}
+
 function planFor(
   given: Asked,
   text: string,
   declared: Held,
   repointed: readonly Passage[],
-  adding: boolean
-): Plan {
+  landing: { readonly adding: boolean; readonly onto: string | null }
+): Plan | Refused {
   const passage = text.slice(declared.getFullStart(), declared.getEnd())
   const left = text.slice(0, declared.getFullStart()) + text.slice(declared.getEnd())
   const carried = carriedIn(declared)
@@ -306,10 +339,13 @@ function planFor(
   const gone = droppedIn(left, source, given.from, carried)
   const rest = leftBy(left, gone)
   const back = backIn(rest, parsedAs(given.from, rest), given, typed(declared))
+  const onto = landing.onto === null ? null : ontoFor(given, landing.onto, carried, passage)
+  if (onto !== null && "refused" in onto) return onto
   return {
     taken: { at: given.from, old: passage, new: "" },
     body: bodyFor(carried, passage, given),
-    adding,
+    adding: landing.adding,
+    onto,
     after: [...gone, ...(back === null ? [] : [back]), ...repointed],
   }
 }
@@ -324,9 +360,6 @@ function planned(world: World, given: Asked): Plan | Refused {
   const text = world.textOf(given.from)
   if (text === null) return { refused: `\`${given.from}\` could not be read` }
   const landed = world.textOf(given.to)
-  if (landed !== null && !exportedIn(given.to, landed, given.of)) {
-    return { refused: `\`${given.to}\` is a body declaring no export named \`${given.of}\`` }
-  }
   const declared = declaredIn(parsedAs(given.from, text), given.of)
   if (declared === null) {
     return { refused: `\`${given.from}\` declares nothing named \`${given.of}\`` }
@@ -334,7 +367,9 @@ function planned(world: World, given: Asked): Plan | Refused {
   if (!exported(declared)) return { refused: `\`${given.of}\` is declared under no export` }
   const repointed = repointedIn(world, given)
   if ("refused" in repointed) return repointed
-  return planFor(given, text, declared, repointed.found, landed === null)
+  const there = landed !== null && exportedIn(given.to, landed, given.of)
+  const landing = { adding: landed === null, onto: there ? null : landed }
+  return planFor(given, text, declared, repointed.found, landing)
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
@@ -349,6 +384,11 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     if (added.said.refused !== null) return added.said
     edits.push(...added.said.edits)
     seen = added.world
+  } else if (made.onto !== null) {
+    const put = await reach(seen, CHANGE_FILE_CONTENT, made.onto)
+    if (put.said.refused !== null) return put.said
+    edits.push(...put.said.edits)
+    seen = put.world
   }
   for (const one of made.after) {
     const said = await reach(seen, CHANGE_FILE_CONTENT, one)
