@@ -30,7 +30,7 @@ export const surplusReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A surplus is the sleep hours a day has less the spend hours that day has.",
+      statement: "A surplus is a day's sleep hours less that day's spend hours.",
     },
     {
       invariantKind: "departure",
