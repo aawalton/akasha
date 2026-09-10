@@ -17,6 +17,9 @@ export const modulePropertyGroup = {
       many: false,
       fixed: "ts",
     },
+    { pageProperty: "number-property/max-cpu-seconds", required: false, many: false },
+    { pageProperty: "number-property/max-wall-seconds", required: false, many: false },
+    { pageProperty: "number-property/max-memory-mb", required: false, many: false },
   ],
   invariants: [
     {
