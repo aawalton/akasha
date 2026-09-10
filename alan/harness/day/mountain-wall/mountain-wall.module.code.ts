@@ -1,3 +1,4 @@
+import { z } from "zod"
 import { pad2 } from "../string/day-string.module.code.ts"
 import { denverOffsetMs } from "../us-zone-offset/us-zone-offset.module.code.ts"
 
@@ -202,38 +203,65 @@ export function namesNoDay(said: string): boolean {
   return BARE_TIME.test(said.trim())
 }
 
+const BARE_TIME_CAPTURES = z.tuple([z.string(), z.string(), z.string()])
+
+const WALL_DATETIME_CAPTURES = z.tuple([
+  z.string(),
+  z.string(),
+  z.string(),
+  z.string(),
+  z.string(),
+  z.string(),
+  z.string().optional(),
+])
+
+function parseBareTime(
+  matched: RegExpExecArray | null
+): { readonly hour: number; readonly minute: number } | null {
+  if (matched === null) return null
+  const held = BARE_TIME_CAPTURES.safeParse([...matched])
+  if (!held.success) return null
+  return { hour: Number(held.data[1]), minute: Number(held.data[2]) }
+}
+
+function parseWallDateTime(matched: RegExpExecArray | null): MountainWall | null {
+  if (matched === null) return null
+  const held = WALL_DATETIME_CAPTURES.safeParse([...matched])
+  if (!held.success) return null
+  return {
+    year: Number(held.data[1]),
+    month: Number(held.data[2]),
+    day: Number(held.data[3]),
+    hour: Number(held.data[4]),
+    minute: Number(held.data[5]),
+    second: held.data[6] === undefined ? 0 : Number(held.data[6]),
+  }
+}
+
 export function readMountainWallTime(said: string, now: Date): MountainWallReading {
   const trimmed = said.trim()
-  const bare = BARE_TIME.exec(trimmed)
+  const bare = parseBareTime(BARE_TIME.exec(trimmed))
   if (bare !== null) {
-    const hour = Number(bare[1])
-    const minute = Number(bare[2])
-    if (hour > LAST_HOUR || minute > LAST_MINUTE) {
+    if (bare.hour > LAST_HOUR || bare.minute > LAST_MINUTE) {
       return refused(
         "range",
         `"${said}" is no time on a clock — an hour runs 0 to ${LAST_HOUR} and a minute 0 to ${LAST_MINUTE}`
       )
     }
-    return readBareTime(hour, minute, now)
+    return readBareTime(bare.hour, bare.minute, now)
   }
-  const dated = WALL_DATETIME.exec(trimmed)
+  const dated = parseWallDateTime(WALL_DATETIME.exec(trimmed))
   if (dated !== null) {
-    const year = Number(dated[1])
-    const month = Number(dated[2])
-    const day = Number(dated[3])
-    const hour = Number(dated[4])
-    const minute = Number(dated[5])
-    const second = dated[6] === undefined ? 0 : Number(dated[6])
-    if (!isRealDay(year, month, day)) {
+    if (!isRealDay(dated.year, dated.month, dated.day)) {
       return refused("no-such-day", `"${said}" is no day on a calendar`)
     }
-    if (hour > LAST_HOUR || minute > LAST_MINUTE || second > LAST_SECOND) {
+    if (dated.hour > LAST_HOUR || dated.minute > LAST_MINUTE || dated.second > LAST_SECOND) {
       return refused(
         "range",
         `"${said}" is no time on a clock — an hour runs 0 to ${LAST_HOUR} and a minute 0 to ${LAST_MINUTE}`
       )
     }
-    return readDatedWallTime({ year, month, day, hour, minute, second })
+    return readDatedWallTime(dated)
   }
   if (ZONED.test(trimmed)) {
     const at = new Date(trimmed)
