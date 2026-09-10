@@ -9,6 +9,7 @@ export const timeout = {
   slug: "timeout",
   propertySlug: "timeout",
   definition: "how many seconds a command may run before the call is stopped",
+  nullable: true,
   max: null,
   invariants: [
     {

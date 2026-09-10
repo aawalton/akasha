@@ -10,6 +10,7 @@ export const nameFormat = {
   slug: "name-format",
   propertySlug: "name-format",
   definition: "the format a text value is written in",
+  nullable: true,
   targetPageType: "page-type/name-format",
   invariants: [
     {
