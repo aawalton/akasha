@@ -14,7 +14,7 @@ export async function getExtendedContextAvailable(): Promise<boolean> {
   return readSeatConditions().extendedContextAvailable
 }
 
-const defaultWorkerModelDeps: WorkerModelDeps = {
+const DEFAULT_WORKER_MODEL_DEPS: WorkerModelDeps = {
   getWorkerModel: async () => readSeatConditions().model,
   getExtendedContextAvailable,
 }
@@ -24,7 +24,7 @@ function isUsableModel(value: string | null): value is string {
 }
 
 export async function resolveWorkerModel(
-  deps: WorkerModelDeps = defaultWorkerModelDeps
+  deps: WorkerModelDeps = DEFAULT_WORKER_MODEL_DEPS
 ): Promise<string> {
   const extendedAvailable = await deps.getExtendedContextAvailable()
   const raw = await deps.getWorkerModel()
@@ -44,12 +44,12 @@ export type AutoCompactWindowDeps = {
   getAutoCompactWindow: () => Promise<string | null>
 }
 
-const defaultAutoCompactWindowDeps: AutoCompactWindowDeps = {
+const DEFAULT_AUTO_COMPACT_WINDOW_DEPS: AutoCompactWindowDeps = {
   getAutoCompactWindow: async () => readSeatConditions().autoCompactWindow,
 }
 
 export async function resolveAutoCompactWindow(
-  deps: AutoCompactWindowDeps = defaultAutoCompactWindowDeps
+  deps: AutoCompactWindowDeps = DEFAULT_AUTO_COMPACT_WINDOW_DEPS
 ): Promise<string | null> {
   try {
     return await deps.getAutoCompactWindow()
@@ -63,12 +63,12 @@ export type AgentEffortLevelDeps = {
   getEffortLevel: () => Promise<string | null>
 }
 
-const defaultAgentEffortLevelDeps: AgentEffortLevelDeps = {
+const DEFAULT_AGENT_EFFORT_LEVEL_DEPS: AgentEffortLevelDeps = {
   getEffortLevel: async () => readSeatConditions().effortLevel,
 }
 
 export async function resolveAgentEffortLevel(
-  deps: AgentEffortLevelDeps = defaultAgentEffortLevelDeps
+  deps: AgentEffortLevelDeps = DEFAULT_AGENT_EFFORT_LEVEL_DEPS
 ): Promise<string | null> {
   try {
     return await deps.getEffortLevel()
@@ -83,13 +83,13 @@ export type SubagentModelDeps = {
   getExtendedContextAvailable: () => Promise<boolean>
 }
 
-const defaultSubagentModelDeps: SubagentModelDeps = {
+const DEFAULT_SUBAGENT_MODEL_DEPS: SubagentModelDeps = {
   getSubagentModel: async () => readSeatConditions().subagentModel,
   getExtendedContextAvailable,
 }
 
 export async function resolveSubagentModel(
-  deps: SubagentModelDeps = defaultSubagentModelDeps
+  deps: SubagentModelDeps = DEFAULT_SUBAGENT_MODEL_DEPS
 ): Promise<string | null> {
   try {
     const raw = await deps.getSubagentModel()
@@ -112,13 +112,13 @@ export type FallbackModelDeps = {
   getExtendedContextAvailable: () => Promise<boolean>
 }
 
-const defaultFallbackModelDeps: FallbackModelDeps = {
+const DEFAULT_FALLBACK_MODEL_DEPS: FallbackModelDeps = {
   getFallbackModel: async () => readSeatConditions().fallbackModel,
   getExtendedContextAvailable,
 }
 
 export async function resolveFallbackModel(
-  deps: FallbackModelDeps = defaultFallbackModelDeps
+  deps: FallbackModelDeps = DEFAULT_FALLBACK_MODEL_DEPS
 ): Promise<string | null> {
   try {
     const raw = await deps.getFallbackModel()
@@ -140,12 +140,12 @@ export type SubagentSpawnDepthDeps = {
   getSubagentSpawnDepth: () => Promise<string | null>
 }
 
-const defaultSubagentSpawnDepthDeps: SubagentSpawnDepthDeps = {
+const DEFAULT_SUBAGENT_SPAWN_DEPTH_DEPS: SubagentSpawnDepthDeps = {
   getSubagentSpawnDepth: async () => readSeatConditions().subagentSpawnDepth,
 }
 
 export async function resolveSubagentSpawnDepth(
-  deps: SubagentSpawnDepthDeps = defaultSubagentSpawnDepthDeps
+  deps: SubagentSpawnDepthDeps = DEFAULT_SUBAGENT_SPAWN_DEPTH_DEPS
 ): Promise<string> {
   const raw = await deps.getSubagentSpawnDepth()
   if (raw === null) {
@@ -158,12 +158,12 @@ export type ToolTimeoutDeps = {
   getToolTimeout: () => Promise<string | null>
 }
 
-const defaultToolTimeoutDeps: ToolTimeoutDeps = {
+const DEFAULT_TOOL_TIMEOUT_DEPS: ToolTimeoutDeps = {
   getToolTimeout: async () => readSeatConditions().toolTimeout,
 }
 
 export async function resolveToolTimeout(
-  deps: ToolTimeoutDeps = defaultToolTimeoutDeps
+  deps: ToolTimeoutDeps = DEFAULT_TOOL_TIMEOUT_DEPS
 ): Promise<string> {
   const raw = await deps.getToolTimeout()
   if (raw === null) {
@@ -177,7 +177,7 @@ export type ResumeThresholdDeps = {
   getResumeTokenThreshold: () => Promise<string | null>
 }
 
-const defaultResumeThresholdDeps: ResumeThresholdDeps = {
+const DEFAULT_RESUME_THRESHOLD_DEPS: ResumeThresholdDeps = {
   getResumeThresholdMinutes: async () => readSeatConditions().resumeThresholdMinutes,
   getResumeTokenThreshold: async () => readSeatConditions().resumeTokenThreshold,
 }
@@ -188,7 +188,7 @@ export interface ResumeThresholds {
 }
 
 export async function resolveResumeThresholds(
-  deps: ResumeThresholdDeps = defaultResumeThresholdDeps
+  deps: ResumeThresholdDeps = DEFAULT_RESUME_THRESHOLD_DEPS
 ): Promise<ResumeThresholds> {
   const [minutes, tokens] = await Promise.all([
     deps.getResumeThresholdMinutes(),
