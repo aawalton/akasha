@@ -1,4 +1,5 @@
 import { existsSync } from "node:fs"
+import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { WatcherConfig } from "../watcher-config/watcher-config.module.code.ts"
 import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
 import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
@@ -134,10 +135,6 @@ export interface DispatchHandlerArgs {
   readonly seams?: DispatchHandlerSeams
 }
 
-function messageOf(err: unknown): string {
-  return err instanceof Error ? err.message : String(err)
-}
-
 export function makeDispatchHandler(args: DispatchHandlerArgs): () => void {
   const seams = args.seams ?? {}
   const now = seams.now ?? Date.now
@@ -225,7 +222,7 @@ export function makeDispatchHandler(args: DispatchHandlerArgs): () => void {
       fileState.lastWriteBackContentHash = hashContent(answer.writeBack)
       note(`${name} file updated with server write-back`)
     } catch (err) {
-      noteFailure(`${name} error: ${messageOf(err)}`)
+      noteFailure(`${name} error: ${saidBy(err)}`)
     } finally {
       fileState.running = false
     }

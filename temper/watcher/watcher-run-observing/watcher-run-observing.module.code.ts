@@ -1,5 +1,6 @@
 import { existsSync, statSync } from "node:fs"
 import { dirname } from "node:path"
+import { saidBy } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
 import type {
   SyncOperation,
@@ -33,10 +34,6 @@ export interface Observed<T> {
   readonly value: T | null
 }
 
-function errorMessage(err: unknown): string {
-  return err instanceof Error ? err.message : String(err)
-}
-
 export function statMtimeMs(path: string): number | null {
   try {
     return statSync(path).mtimeMs
@@ -55,7 +52,7 @@ export async function observe<T>(
     return { operation: { ...target, state: "synced", ranAt }, value }
   } catch (err) {
     return {
-      operation: { ...target, state: "upload_failed", ranAt, detail: errorMessage(err) },
+      operation: { ...target, state: "upload_failed", ranAt, detail: saidBy(err) },
       value: null,
     }
   }
