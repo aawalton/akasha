@@ -1,18 +1,18 @@
-import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { valuesOfType } from "@akasha/pages/index-reading"
+import { bodyAt } from "@akasha/pages/page-file-body"
+import { partedIn } from "@akasha/pages/page-file-name"
 import { fail } from "../command-failing/command-failing.module.code.ts"
 
-export const NOTICES = "seat-system/notices/pages"
+const PAGE_TYPE = "notice"
 
-const TAIL = ".notice.text.md"
+const TEXT = "text"
 
 const HELP = `compose-notices — render what a seat is told when it is put back to work
 
-Every notice page under \`${NOTICES}\`, as a JSON object of notice slug to composed text.
-Callers ask for them by slug, so a page renamed there is a notice one of them no longer
-finds. Nothing says so before a fleet meets it: the check that did,
-\`tools/audits/resume-notices.ts\`, went with the rest of that orphaned folder and has no
-successor yet.
+Every notice page the index files, as a JSON object of notice slug to composed text.
+Callers ask for them by slug, so a page renamed is a notice one of them no longer finds.
 
 Wrapping is the author's convenience and not part of the text: the lines of a paragraph
 are joined with a space, and a blank line between paragraphs survives as one.
@@ -57,23 +57,24 @@ export function render(body: string): string {
     .join("\n\n")
 }
 
-export function noticesUnder(folder: string): Readonly<Record<string, string>> {
+export function noticesIn(root: string): Readonly<Record<string, string>> {
   const rendered: Record<string, string> = {}
-  for (const name of readdirSync(folder).sort()) {
-    if (!name.endsWith(TAIL)) continue
-    rendered[name.slice(0, -TAIL.length)] = render(readFileSync(`${folder}/${name}`, "utf8"))
+  for (const one of valuesOfType(root, PAGE_TYPE)) {
+    const named = partedIn(one.path)
+    const held = one.value[TEXT]
+    if (named === null || typeof held !== "string") continue
+    const read = bodyAt(root, one.path, TEXT, held)
+    if ("refused" in read) throw new Error(read.refused)
+    rendered[named.slug] = render(read.body)
   }
   return rendered
 }
 
 export function notices(): Readonly<Record<string, string>> {
-  const folder = `${rootFor(resolveRoots(), AKASHA)}/${NOTICES}`
-  if (!existsSync(folder)) {
-    throw new Error(`${folder} is not there, so there is no notice to render`)
-  }
-  const found = noticesUnder(folder)
+  const root = rootFor(resolveRoots(), AKASHA)
+  const found = noticesIn(root)
   if (Object.keys(found).length === 0) {
-    throw new Error(`${folder} holds no notice page, so there is no notice to render`)
+    throw new Error(`${root} files no notice page, so there is no notice to render`)
   }
   return found
 }

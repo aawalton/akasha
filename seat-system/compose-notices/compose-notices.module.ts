@@ -35,11 +35,15 @@ export const composeNotices = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder that is not there is refused rather than answered empty.",
+      statement: "A notice page is reached by the index rather than by listing one folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder with no notice is refused rather than answered empty.",
+      statement: "A notice's words are read from the file beside that notice's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A checkout the index files no notice for is refused rather than answered empty.",
     },
     {
       invariantKind: "gap",

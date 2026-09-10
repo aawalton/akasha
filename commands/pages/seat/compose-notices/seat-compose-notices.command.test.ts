@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { NOTICES, notices, noticesUnder, render } from "@akasha/seat-system/compose-notices"
+import { notices, render } from "@akasha/seat-system/compose-notices"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import {
   OUT,
@@ -61,38 +61,16 @@ test("a page holding nothing renders as an empty text", () => {
   expect(render("\n\n  \n")).toBe("")
 })
 
-test("a notice is keyed by its file name with the tail taken off", () => {
-  const folder = scratch()
-  try {
-    writeFileSync(join(folder, "alpha.notice.text.md"), "one\ntwo\n")
-    writeFileSync(join(folder, "beta.notice.text.md"), "")
-    writeFileSync(join(folder, "README.md"), "not a notice\n")
-
-    expect(noticesUnder(folder)).toEqual({ alpha: "one two", beta: "" })
-  } finally {
-    rmSync(folder, { recursive: true, force: true })
-  }
+test("a notice is keyed by its slug", () => {
+  expect(Object.keys(notices())).toContain("editor-revive")
 })
 
-test("a folder that is not there is refused rather than answered as no notice", () => {
+test("a checkout the index answers nothing for is refused rather than answered as no notice", () => {
   const folder = scratch()
   try {
     const said = underRoot(folder, () => saidBy(notices))
 
     expect(said).toContain("is not there")
-    expect(said).toContain(NOTICES)
-  } finally {
-    rmSync(folder, { recursive: true, force: true })
-  }
-})
-
-test("a folder holding no notice page is refused the same way", () => {
-  const folder = scratch()
-  try {
-    mkdirSync(join(folder, NOTICES), { recursive: true })
-    const said = underRoot(folder, () => saidBy(notices))
-
-    expect(said).toContain("holds no notice page")
   } finally {
     rmSync(folder, { recursive: true, force: true })
   }
