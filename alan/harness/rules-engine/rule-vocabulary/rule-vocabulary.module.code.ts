@@ -1,3 +1,5 @@
+import { z } from "zod"
+
 export const UNRECOGNIZED = "unrecognized"
 
 export interface VocabularyEntry {
@@ -9,6 +11,14 @@ const ENTRY = /^-\s+\*\*(.+?)\*\*\s*$/
 const PATTERN = /^\s+-\s+`(.+)`\s*$/
 const HEADING = /^#\s/
 
+const ONE_CAPTURE = z.tuple([z.string(), z.string()])
+
+function parseOnlyCapture(found: RegExpExecArray | null): string | null {
+  if (found === null) return null
+  const said = ONE_CAPTURE.safeParse([...found])
+  return said.success ? said.data[1] : null
+}
+
 export function parseVocabulary(body: string): readonly VocabularyEntry[] {
   const lines = body.replace(/\r\n/g, "\n").split("\n")
   const start = lines.findIndex((line) => line.trim() === "# Vocabulary")
@@ -17,14 +27,13 @@ export function parseVocabulary(body: string): readonly VocabularyEntry[] {
   for (const line of lines.slice(start + 1)) {
     if (HEADING.test(line)) break
     if (line.trim() === "") continue
-    const asEntry = ENTRY.exec(line)
+    const asEntry = parseOnlyCapture(ENTRY.exec(line))
     if (asEntry !== null) {
-      entries.push({ value: (asEntry[1] ?? "").toLowerCase(), patterns: [] })
+      entries.push({ value: asEntry.toLowerCase(), patterns: [] })
       continue
     }
-    const asPattern = PATTERN.exec(line)
-    if (asPattern !== null)
-      entries[entries.length - 1]?.patterns.push((asPattern[1] ?? "").toLowerCase())
+    const asPattern = parseOnlyCapture(PATTERN.exec(line))
+    if (asPattern !== null) entries[entries.length - 1]?.patterns.push(asPattern.toLowerCase())
   }
   return entries
 }
