@@ -14,7 +14,8 @@ export const timelineChecks = {
     },
     {
       invariantKind: "departure",
-      statement: "A harness is handed the name, whether it held, and what it saw.",
+      statement:
+        "A harness is handed the name and whether the check held and the reading the check saw.",
     },
     {
       invariantKind: "departure",
@@ -26,8 +27,7 @@ export const timelineChecks = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "The provider's own timeline is compiled here and never run, its context being WidgetKit's to make.",
+      statement: "The provider's own timeline is compiled here and never run.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,11 @@ export const timelineChecks = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a clock, every moment being spelled out.",
+      statement: "Nothing here reads a clock.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Every moment is spelled out.",
     },
     {
       invariantKind: "absence",
