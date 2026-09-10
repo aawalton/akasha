@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
 
-export type RelationshipAliases = string
+export type RelationshipAliases = List<string>
 
 export const relationshipAliases = {
   id: "01a06594-c6e2-7efb-89d9-2041bf2f81e1",

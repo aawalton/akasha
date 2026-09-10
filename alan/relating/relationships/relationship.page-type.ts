@@ -22,7 +22,7 @@ import type { RelationshipTopics } from "./properties/relationship-topics.relati
 export type Relationship = Page & {
   title: Title
   relationshipAccountUserId?: RelationshipAccountUserId
-  relationshipAliases?: readonly RelationshipAliases[]
+  relationshipAliases?: RelationshipAliases
   relationshipCommitment?: RelationshipCommitment
   relationshipCompany?: RelationshipCompany
   relationshipConnection?: RelationshipConnection
@@ -36,7 +36,7 @@ export type Relationship = Page & {
   relationshipRole?: RelationshipRole
   relationshipSmsAllowed?: RelationshipSmsAllowed
   relationshipSmsHandlerTarget?: RelationshipSmsHandlerTarget
-  relationshipTopics?: readonly RelationshipTopics[]
+  relationshipTopics?: RelationshipTopics
   relationshipNotes?: RelationshipNotes
 }
 

@@ -1,7 +1,8 @@
 import type { Slug } from "@akasha/pages/page/slug"
+import type { List } from "@akasha/pages/page-property"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
 
-export type RelationshipTopics = Slug
+export type RelationshipTopics = List<Slug>
 
 export const relationshipTopics = {
   id: "01a06594-c6e2-763a-bd70-ce2e63227768",
