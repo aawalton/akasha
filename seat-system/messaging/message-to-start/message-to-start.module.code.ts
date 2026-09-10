@@ -21,8 +21,6 @@ type Ended<T> =
   | { readonly kind: "failed"; readonly why: string }
   | { readonly kind: "outran" }
 
-// NOTHING HERE CAN BE KILLED, SO WHAT OUTRUNS ITS PATIENCE IS LEFT RATHER THAN ENDED. The work goes
-// on in this process; what the patience bounds is how long a delivery waits on it before refusing.
 async function inTime<T>(work: () => Promise<T>): Promise<Ended<T>> {
   let timer: ReturnType<typeof setTimeout> | undefined
   const settled = work().then(

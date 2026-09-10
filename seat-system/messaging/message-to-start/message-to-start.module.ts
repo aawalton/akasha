@@ -36,6 +36,11 @@ export const messageToStart = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The patience bounds how long a delivery waits rather than how long the work runs.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The reach is refused.",
     },
     {

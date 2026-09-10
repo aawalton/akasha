@@ -47,18 +47,6 @@ export interface SeatStanding {
   readonly live: boolean
 }
 
-// THE MODE A ROW SHOWS IS THE MODE THE SEAT IS RUNNING IN. This column said `start-mode` for as
-// long as it has existed, under a heading that reads as the present tense, and the two are not the
-// same fact: the start mode is what a seat was asked for once and never revisited, while the
-// running mode is what its supervisor is holding now. A seat resumed the other way went on showing
-// the mode it no longer ran in, and four of them sat outside Remote Control for days with nothing
-// on any row to say so.
-//
-// A SEAT WITH NO SUPERVISOR TO OBSERVE FALLS BACK TO WHAT IT STATED. Every held seat has a
-// supervisor writing this on every beat, so a row with nothing observed is a row for a seat that is
-// gone, has yet to be held, or is held by a supervisor execed before this was written down; for
-// those the mode it was started in is the only thing anything knows, and it is what this column has
-// shown all along.
 function runningModeOf(seat: SeatStanding): string | null {
   const id = textAt(seat.frontmatter, ID_KEY)
   return id === null ? null : akashaRunningModeOf(id)

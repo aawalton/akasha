@@ -59,7 +59,7 @@ export function watchMessagesTo(
     }
   }
 
-  const wake = (): void => {
+  const wake = (): undefined => {
     setTimeout(() => void sweep(), SETTLE_MS)
   }
 
@@ -74,7 +74,7 @@ export function watchMessagesTo(
   void sweep()
 
   return {
-    stop: (): void => {
+    stop: (): undefined => {
       clearInterval(backstop)
       watcher?.close()
     },
