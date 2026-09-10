@@ -22,7 +22,7 @@ export type Keyed = {
 export type Ordering = {
   readonly slug: string
   readonly statement: string
-  readonly to: number
+  readonly onto: string
 }
 
 export function keyedAs(row: WorkTreeRow | undefined): Keyed | null {
@@ -43,9 +43,10 @@ export function orderingOf(
   const row = dragged[0]
   const one = keyedAs(row)
   const other = keyedAs(onto)
-  if (row === undefined || one === null || other === null || row.label === "") return null
-  if (one.slug !== other.slug || one.place === other.place) return null
-  return { slug: one.slug, statement: row.label, to: other.place }
+  if (row === undefined || onto === undefined || one === null || other === null) return null
+  if (row.label === "" || onto.label === "") return null
+  if (one.slug !== other.slug || row.label === onto.label) return null
+  return { slug: one.slug, statement: row.label, onto: onto.label }
 }
 
 export type Handing = {
@@ -92,7 +93,7 @@ export function draggedIn(held: unknown): readonly WorkTreeRow[] {
 }
 
 export function failureSaid(order: Ordering, why: string): string {
-  return `${order.slug}: the intent \`${order.statement}\` did not move to place ${order.to}. ${why}`
+  return `${order.slug}: the intent \`${order.statement}\` did not move onto \`${order.onto}\`. ${why}`
 }
 
 export function handFailureSaid(handing: Handing, why: string): string {
@@ -128,12 +129,9 @@ export function createWorkDragging(
 ): vscode.TreeDragAndDropController<WorkTreeRow> {
   const dropped = async (order: Ordering): Promise<undefined> => {
     try {
-      const said = await call(
-        MOVE_MODULE,
-        MOVE_EXPORT,
-        [order.slug, order.statement, String(order.to)],
-        { timeout: LANDING_TIMEOUT_MS }
-      )
+      const said = await call(MOVE_MODULE, MOVE_EXPORT, [order.slug, order.statement, order.onto], {
+        timeout: LANDING_TIMEOUT_MS,
+      })
       watch.answered(order.slug)
       say(`[drop] ${said.trim()}`)
     } catch (thrown) {

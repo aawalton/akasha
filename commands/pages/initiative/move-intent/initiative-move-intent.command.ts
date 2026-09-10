@@ -5,20 +5,22 @@ export const initiativeMoveIntent = {
   pageTypeSlug: "command",
   type: "command",
   slug: "initiative-move-intent",
-  definition: "the command carrying one intent to another place in the initiative with it",
+  definition:
+    "the command carrying one intent onto the place another intent of its initiative holds",
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",
   taking: [
     { said: "<initiative>", takes: "the initiative whose intents are being ordered" },
     { said: "<statement>", takes: "the statement the intent being moved states" },
-    { said: "<to>", takes: "the place the intent is to sit at" },
+    { said: "<onto>", takes: "the statement the intent it is moved onto states" },
   ],
   helpNotes: [
     "an intent is named by its statement, which is the label the work tree draws it under.",
-    "the place the intent leaves is read off the page as the change lands rather than named here.",
-    "a place is counted from one, as the work tree keys an intent.",
-    "the place counts the intents the page states rather than the intents the panel drew.",
+    "both intents are found in the page as the change lands, so no place is named here.",
+    "the intent moved takes the place the intent moved onto holds.",
+    "moving onto an intent above it puts it before that intent, and below it, after.",
+    "the last place is reached by moving onto the last intent from above it.",
     "the order the page states is the order the panel draws, so this run orders the panel.",
     "a run lands one commit and runs no check.",
     "an initiative is named by the slug it declares rather than by the name of its file.",
@@ -34,11 +36,23 @@ export const initiativeMoveIntent = {
     },
     {
       invariantKind: "departure",
-      statement: "The place the intent leaves is read off the page as the change lands.",
+      statement: "The place the intent is moved onto is named by the intent already holding it.",
     },
     {
       invariantKind: "departure",
-      statement: "A place is counted from one.",
+      statement: "Both places are read off the page as the change lands rather than named here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The intent moved takes the place the intent moved onto holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent moved onto one above it sits before that intent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent moved onto one below it sits after that intent.",
     },
     {
       invariantKind: "departure",
@@ -50,11 +64,11 @@ export const initiativeMoveIntent = {
     },
     {
       invariantKind: "departure",
-      statement: "A statement of no text is refused.",
+      statement: "A statement of no text is refused, whichever intent it names.",
     },
     {
       invariantKind: "departure",
-      statement: "A word that is no place counted from one is refused.",
+      statement: "An intent moved onto itself is refused.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +78,7 @@ export const initiativeMoveIntent = {
     {
       invariantKind: "departure",
       statement:
-        "A place the page's intents do not reach is refused by the change rather than here.",
+        "An intent moved onto one the page no longer states is refused rather than placed.",
     },
     {
       invariantKind: "departure",

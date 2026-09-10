@@ -9,11 +9,11 @@ import {
 } from "../../../../modules/page-literal/page-literal.module.code.ts"
 import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
-export type Given = {
-  readonly at: string
-  readonly key: string
-  readonly to: number
-} & ({ readonly from: number } | { readonly where: string; readonly is: string })
+export type Given = { readonly at: string; readonly key: string } & (
+  | { readonly from: number; readonly to: number }
+  | { readonly where: string; readonly is: string; readonly to: number }
+  | { readonly where: string; readonly is: string; readonly onto: string }
+)
 
 type Framed = {
   readonly lead: string
@@ -38,19 +38,33 @@ function placeSaid(key: string, count: number, place: number): string | null {
 
 type Sought = { readonly place: number } | { readonly refused: string }
 
-export function soughtIn(holding: ts.ArrayLiteralExpression, given: Given): Sought {
-  if ("from" in given) return { place: given.from }
-  const found = matchingIn(holding, given.where, given.is)
+function matchedIn(
+  holding: ts.ArrayLiteralExpression,
+  key: string,
+  where: string,
+  is: string
+): Sought {
+  const found = matchingIn(holding, where, is)
   const at = found[0]
   if (at === undefined) {
-    return { refused: `no record under \`${given.key}\` states that text under \`${given.where}\`` }
+    return { refused: `no record under \`${key}\` states that text under \`${where}\`` }
   }
   if (found.length > 1) {
     return {
-      refused: `${found.length} records under \`${given.key}\` state that text under \`${given.where}\`, and one change works one`,
+      refused: `${found.length} records under \`${key}\` state that text under \`${where}\`, and one change works one`,
     }
   }
   return { place: at + 1 }
+}
+
+export function soughtIn(holding: ts.ArrayLiteralExpression, given: Given): Sought {
+  if ("from" in given) return { place: given.from }
+  return matchedIn(holding, given.key, given.where, given.is)
+}
+
+export function ontoIn(holding: ts.ArrayLiteralExpression, given: Given): Sought {
+  if (!("onto" in given)) return { place: given.to }
+  return matchedIn(holding, given.key, given.where, given.onto)
 }
 
 function framedIn(
@@ -104,12 +118,14 @@ export function movedValue(path: string, text: string, given: Given): Said {
   const count = holding.elements.length
   const sought = soughtIn(holding, given)
   if ("refused" in sought) return refusing(sought.refused)
+  const landing = ontoIn(holding, given)
+  if ("refused" in landing) return refusing(landing.refused)
   const away = placeSaid(given.key, count, sought.place)
   if (away !== null) return refusing(away)
-  const onto = placeSaid(given.key, count, given.to)
+  const onto = placeSaid(given.key, count, landing.place)
   if (onto !== null) return refusing(onto)
-  if (sought.place === given.to) {
-    return refusing(`place ${given.to} of \`${given.key}\` is where that value sits already`)
+  if (sought.place === landing.place) {
+    return refusing(`place ${landing.place} of \`${given.key}\` is where that value sits already`)
   }
   const framed = framedIn(text, source, holding)
   if (framed === null) return refusing(`\`${given.key}\` holds no value to carry`)
@@ -117,7 +133,7 @@ export function movedValue(path: string, text: string, given: Given): Said {
     spliced(path, text, {
       from: holding.getStart(source) + 1,
       to: holding.getEnd() - 1,
-      put: laidOut(framed, placesOf(count, sought.place, given.to)),
+      put: laidOut(framed, placesOf(count, sought.place, landing.place)),
     })
   )
 }

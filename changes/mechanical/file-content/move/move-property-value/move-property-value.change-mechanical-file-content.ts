@@ -46,6 +46,26 @@ export const movePropertyValue = {
     },
     {
       invariantKind: "departure",
+      statement: "The place moved to is named by a place or by the value already holding it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value moved onto another takes the place that other value holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value moved onto one above it sits before that value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value moved onto one below it sits after that value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move onto a value the body no longer holds is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Text no record states under that field is refused.",
     },
     {

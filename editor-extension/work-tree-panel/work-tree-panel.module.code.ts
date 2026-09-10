@@ -129,7 +129,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       holding.get(order.slug),
       intentLabelsIn(drawn, order.slug),
       order.statement,
-      order.to
+      order.onto
     )
     if (held === null) return undefined
     holding.set(order.slug, held)

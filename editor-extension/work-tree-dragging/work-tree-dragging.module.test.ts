@@ -54,29 +54,38 @@ test("a key carrying no place answers none", () => {
 })
 
 test("an intent dropped onto another intent of its initiative is a move", () => {
-  expect(orderingOf([FIRST], SECOND)).toEqual({ slug: "held", statement: "held#1", to: 2 })
-})
-
-test("a move names the intent by the statement its row is drawn under", () => {
-  expect(orderingOf([CARRIED], SECOND)).toEqual({
+  expect(orderingOf([FIRST], SECOND)).toEqual({
     slug: "held",
-    statement: "A thing is so.",
-    to: 2,
+    statement: "held#1",
+    onto: "held#2",
   })
 })
 
-test("a row drawn under no label is no move", () => {
-  expect(orderingOf([labelled("intent", "held#1", "")], SECOND)).toBe(null)
+test("a move names both intents by the statements their rows are drawn under", () => {
+  expect(orderingOf([CARRIED], SECOND)).toEqual({
+    slug: "held",
+    statement: "A thing is so.",
+    onto: "held#2",
+  })
 })
 
-test("a drag made while a deletion is settling names the intent that row is drawn as", () => {
+test("a row drawn under no label is no move, at either end", () => {
+  expect(orderingOf([labelled("intent", "held#1", "")], SECOND)).toBe(null)
+  expect(orderingOf([CARRIED], labelled("intent", "held#2", ""))).toBe(null)
+})
+
+test("an intent dropped onto a row drawn under its own statement is no move", () => {
+  expect(orderingOf([CARRIED], labelled("intent", "held#3", "A thing is so."))).toBe(null)
+})
+
+test("a drag made while a deletion is settling names the intents those rows are drawn as", () => {
   const shownFirst = labelled("intent", "held#1", "second")
   const shownSecond = labelled("intent", "held#2", "third")
 
   expect(orderingOf([shownSecond], shownFirst)).toEqual({
     slug: "held",
     statement: "third",
-    to: 1,
+    onto: "second",
   })
 })
 
@@ -114,10 +123,10 @@ test("what the drag carried is read as rows only where it is a list", () => {
   expect(draggedIn("held#1")).toEqual([])
 })
 
-test("a move that failed is said with the initiative, the statement, the place and the reason", () => {
-  expect(failureSaid({ slug: "held", statement: "A thing is so.", to: 2 }, "it broke")).toBe(
-    "held: the intent `A thing is so.` did not move to place 2. it broke"
-  )
+test("a move that failed is said with the initiative, both statements and the reason", () => {
+  expect(
+    failureSaid({ slug: "held", statement: "A thing is so.", onto: "So is this." }, "it broke")
+  ).toBe("held: the intent `A thing is so.` did not move onto `So is this.`. it broke")
 })
 
 test("an initiative's own row answers that initiative", () => {
@@ -179,7 +188,7 @@ test("a drop over no row hands nothing", () => {
 test("a drop within one initiative is read as a move rather than a hand", () => {
   expect(droppedAs([CARRIED], SECOND)).toEqual({
     kind: "move",
-    order: { slug: "held", statement: "A thing is so.", to: 2 },
+    order: { slug: "held", statement: "A thing is so.", onto: "held#2" },
   })
 })
 

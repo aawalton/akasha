@@ -88,12 +88,13 @@ export function heldMoved(
   held: Holding | undefined,
   labels: readonly string[] | null,
   statement: string,
-  to: number
+  onto: string
 ): Holding | null {
   if (held?.kind === "nothing" || labels === null) return null
   const from = labels.indexOf(statement)
-  if (from === -1) return null
-  const moved = movedLabels(labels, from + 1, to)
+  const to = labels.indexOf(onto)
+  if (from === -1 || to === -1 || from === to) return null
+  const moved = movedLabels(labels, from + 1, to + 1)
   if (moved === null) return null
   return {
     kind: "intents",

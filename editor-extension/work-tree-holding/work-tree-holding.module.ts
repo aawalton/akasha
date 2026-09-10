@@ -97,6 +97,14 @@ export const workTreeHolding = {
     },
     {
       invariantKind: "departure",
+      statement: "The place an order moves an intent onto is named by the intent already there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent moved onto one the order does not hold holds nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every hold is settled over the rows in the order the holds were made.",
     },
     {

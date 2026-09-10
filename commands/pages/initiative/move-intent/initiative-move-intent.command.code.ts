@@ -11,43 +11,38 @@ const INTENTS = "intents"
 const STATEMENT = "statement"
 
 const TAKES =
-  "this takes three words: an initiative, the statement the intent states and the place that intent is to sit at"
+  "this takes three words: an initiative, the statement the intent states and the statement the intent it is moved onto states"
 
 const NO_STATEMENT =
   "the statement said is empty, and an intent is named by the statement it states"
 
+const NO_ONTO =
+  "the intent moved onto is said as nothing, and an intent is named by the statement it states"
+
+const SAME = "an intent moved onto itself moves nowhere"
+
 export type Asked = {
   readonly slug: string
   readonly statement: string
-  readonly to: number
+  readonly onto: string
 }
 
 export type Read = Asked | { readonly refused: readonly string[] }
 
-function placeOf(said: string): number | null {
-  if (!/^[0-9]+$/.test(said)) return null
-  const held = Number(said)
-  return held >= 1 ? held : null
-}
-
-function noPlace(said: string): string {
-  return `\`${said}\` is no place, a place being a whole number counted from one`
-}
-
 export function readIn(argv: readonly string[]): Read {
   const slug = argv[0]
   const statement = argv[1]
-  const to = argv[2]
-  if (slug === undefined || statement === undefined || to === undefined || argv.length !== 3) {
+  const onto = argv[2]
+  if (slug === undefined || statement === undefined || onto === undefined || argv.length !== 3) {
     return { refused: [`${TAKES}, and ${argv.length} arrived`] }
   }
-  const onto = placeOf(to)
   const refusals = [
     ...(statement.trim() === "" ? [NO_STATEMENT] : []),
-    ...(onto === null ? [noPlace(to)] : []),
+    ...(onto.trim() === "" ? [NO_ONTO] : []),
   ]
-  if (statement.trim() === "" || onto === null) return { refused: refusals }
-  return { slug, statement, to: onto }
+  if (refusals.length > 0) return { refused: refusals }
+  if (statement === onto) return { refused: [SAME] }
+  return { slug, statement, onto }
 }
 
 export function noInitiative(slug: string): string {
@@ -55,11 +50,11 @@ export function noInitiative(slug: string): string {
 }
 
 export function messageFor(asked: Asked): string {
-  return `move the intent \`${asked.statement}\` of ${asked.slug} to place ${asked.to}`
+  return `move the intent \`${asked.statement}\` of ${asked.slug} onto \`${asked.onto}\``
 }
 
 export function saidFor(asked: Asked, commit: string | null): readonly string[] {
-  const moved = `${asked.slug}: the intent \`${asked.statement}\` is now at place ${asked.to}`
+  const moved = `${asked.slug}: the intent \`${asked.statement}\` now sits where \`${asked.onto}\` did`
   return commit === null ? [moved] : [moved, commit]
 }
 
@@ -69,7 +64,7 @@ async function carried(root: string, at: string, asked: Asked, given: Given): Pr
     [
       {
         at: CARRIES,
-        given: { at, key: INTENTS, where: STATEMENT, is: asked.statement, to: asked.to },
+        given: { at, key: INTENTS, where: STATEMENT, is: asked.statement, onto: asked.onto },
       },
     ],
     messageFor(asked),
