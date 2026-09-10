@@ -84,7 +84,6 @@ export const command = {
     "module/value-minting",
     "module/drafting",
     "module/gate-building",
-    "module/mechanical-landing",
     "module/path-moving",
     "module/edits-landing",
     "module/seat-act-calling",

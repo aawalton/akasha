@@ -19,7 +19,6 @@ import { folding } from "../apply-running/apply-running.module.code.ts"
 import { applying as applyingPatch } from "../applying/applying.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
-import { landedMechanically } from "../mechanical-landing/mechanical-landing.module.code.ts"
 import { inputIn } from "../piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
@@ -236,15 +235,10 @@ export function blocked(root: string): Asked {
 
 export const THREE_AT = "akasha/three.ts"
 
-const THREE: readonly FileChange[] = [{ kind: "add", path: THREE_AT, content: PROPOSED }]
-
 export const holds = (root: string, path: string): boolean => existsSync(join(root, path))
 
 export const applying = async (root: string): Promise<Answer> =>
   await applied(root, { report: [], refusals: [], code: 0 }, ["--message", "held"])
-
-export const mechanically = async (root: string): Promise<number> =>
-  (await landedMechanically(root, "akasha change apply", THREE, "held")).code
 
 export const PROGRAM: readonly FileChange[] = [{ kind: "add", path: TWO_AT, content: PROPOSED }]
 
