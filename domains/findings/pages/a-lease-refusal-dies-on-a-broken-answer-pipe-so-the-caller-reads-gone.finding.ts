@@ -5,7 +5,7 @@ export const aLeaseRefusalDiesOnABrokenAnswerPipeSoTheCallerReadsGone = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-lease-refusal-dies-on-a-broken-answer-pipe-so-the-caller-reads-gone",
-  domain: "domain/editor-extension",
+  domain: "domain/extension",
   claim:
     "The command server writes its lease refusal to fd 3 with `writeSync`, and that write can throw EPIPE. When it does, the refusal never reaches the caller, the server dies of an unhandled rejection, and the client refuses the ask with `gone` rather than `lease`. The test `a server past its lease refuses rather than answering from the runtime it has held` fails exactly that way, and only in a run of many test files; alone it passes. Because an apply runs the tests beside what it carries, this refuses landings with nothing to do with the editor extension, and it is the one thing now blocking the seat-system package fold. Why the caller's read end is already gone 22ms before the caller sees that pipe end is not established.",
   evidence:

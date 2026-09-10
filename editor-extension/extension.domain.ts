@@ -1,10 +1,10 @@
 import type { Domain } from "../domains/domain.page-type.types.ts"
 
-export const editorExtension = {
+export const extension = {
   id: "01a063f4-6690-7556-b094-e83b2ecfe46d",
   pageTypeSlug: "domain",
   type: "domain",
-  slug: "editor-extension",
+  slug: "extension",
   definition: "what the editor draws of the system it sits in",
   parts: [
     "module/champions-tree",
