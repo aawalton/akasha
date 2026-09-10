@@ -1,4 +1,4 @@
-import type { TemperMine } from "../../temper-mine.page-type.ts"
+import type { TemperMine } from "../../temper-mine.page-type.types.ts"
 
 export const eso = {
   id: "01a01d1a-a9eb-7000-aece-4fc7f8d2be92",

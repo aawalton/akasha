@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
-import type { Items } from "./properties/items.page-property-entry.ts"
-import type { Quests } from "./properties/quests.page-property-entry.ts"
-
-export type TemperMine = TemperCharacterThing & {
-  items?: Items
-  quests?: Quests
-}
 
 export const temperMine = {
   id: "01a05fcd-f557-7231-b2a4-ecded061b740",
@@ -74,4 +66,5 @@ export const temperMine = {
       statement: "A sweep's rows run past the byte ceiling one file has.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
