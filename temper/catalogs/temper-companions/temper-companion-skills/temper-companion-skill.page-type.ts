@@ -11,7 +11,7 @@ export type TemperCompanionSkill = TemperCompanionThing & {
   abilityId: AbilityId
   validRoles?: ValidRoles
   tags?: Tags
-  alternateAbilityIds?: readonly AlternateAbilityIds[]
+  alternateAbilityIds?: AlternateAbilityIds
   skillEffects?: SkillEffects
   castConditions?: CastConditions
 }
