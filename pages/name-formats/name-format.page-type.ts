@@ -1,7 +1,4 @@
-import type { Module } from "@akasha/code/module"
 import type { PageType } from "../types/page-type.page-type.ts"
-
-export type NameFormat = Module
 
 export const nameFormat = {
   id: "01a04eaf-67bf-7b05-9aef-8137a7c25513",
@@ -70,4 +67,5 @@ export const nameFormat = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType
