@@ -15,6 +15,14 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
+      statement: "Where a readout's page sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout the index names no page for is refused rather than answered.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A reading never reaches the commit.",
     },
     {

@@ -1,5 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  listedFiled,
+  nothingFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import {
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
@@ -10,6 +14,7 @@ import {
   readingAged,
   readingKept,
   readingOn,
+  readoutPage,
   WENT_SILENT_AT,
   wentSilentAtKept,
   wentSilentAtOn,
@@ -19,6 +24,12 @@ const PAGE = "alan/harness/readouts/pages/upkeep-safety/upkeep-safety.readout.ts
 
 const OTHER = "alan/harness/readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
 
+const READOUT = "readout"
+
+const SAFETY_SLUG = "upkeep-safety"
+
+const SAFETY_ID = "01a057f9-873e-7390-9635-32012c10d150"
+
 const TAKEN = "2026-08-31T12:00:00.000Z"
 
 const LATER = "2026-08-31T12:05:00.000Z"
@@ -26,6 +37,21 @@ const LATER = "2026-08-31T12:05:00.000Z"
 const scratch = scratchWorld()
 
 afterAll(() => scratch.sweep())
+
+test("where a readout's page sits is asked of the index", () => {
+  const root = scratch.rootFor("readout-page-")
+  nothingFiled(root)
+  listedFiled(root, READOUT, SAFETY_SLUG, [{ path: PAGE, id: SAFETY_ID }])
+
+  expect(readoutPage(root, SAFETY_SLUG)).toBe(PAGE)
+})
+
+test("a readout the index names no page for is refused rather than answered", () => {
+  const root = scratch.rootFor("readout-page-")
+  nothingFiled(root)
+
+  expect(() => readoutPage(root, SAFETY_SLUG)).toThrow()
+})
 
 test("a readout with nothing beside it has taken no reading", () => {
   expect(readingKept(scratch.rootFor("readout-reading-"), PAGE)).toBeNull()

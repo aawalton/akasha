@@ -1,8 +1,21 @@
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import {
   dropUncommitted,
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/pages/uncommitted/page-uncommitted.module.code.ts"
+
+const READOUT = "readout"
+
+export function readoutPage(root: string, slug: string): string {
+  const listed = listedAt(root, READOUT, slug)[0]
+  if (listed === undefined) {
+    throw new Error(
+      `no \`${READOUT}\` is slugged \`${slug}\`, so a reading taken for it would be kept nowhere`
+    )
+  }
+  return listed.path
+}
 
 export const WENT_SILENT_AT = "wentSilentAt"
 
