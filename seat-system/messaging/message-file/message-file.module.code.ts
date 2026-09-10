@@ -1,7 +1,8 @@
-import { existsSync, readdirSync } from "node:fs"
+import { existsSync } from "node:fs"
 import { AKASHA, akashaRoot } from "@akasha/pages/checkout-roots"
+import { valuesOfType } from "@akasha/pages/index-reading"
 import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
-import { valueAt } from "@akasha/pages/page-value"
+import { textAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-service/composing"
 import { landBodies, landRemovals } from "@akasha/seat-system/gated-landing"
 import { akashaSeatIdForName } from "../../seat-akasha-beside/seat-akasha-beside.module.code.ts"
@@ -138,32 +139,19 @@ function msOf(said: unknown): number | null {
 
 function pageMessages(): readonly Message[] {
   const root = akashaRoot()
-  let names: readonly string[]
-  try {
-    names = readdirSync(`${root}/${PAGES_AT}`)
-  } catch {
-    return []
-  }
   const held: Message[] = []
-  for (const name of names) {
-    if (!name.endsWith(PAGE_EXT)) continue
-    const relPath = `${PAGES_AT}/${name}`
-    let value: ReturnType<typeof valueAt>
-    try {
-      value = valueAt(relPath, root)
-    } catch {
-      continue
-    }
-    if (value === null || value === undefined) continue
-    const stated = value["warrant"]
+  for (const one of valuesOfType(root, PAGE_TYPE)) {
+    if (!one.path.startsWith(`${PAGES_AT}/`)) continue
+    const slug = textAt(one.value, "slug")
+    if (slug === null) continue
     held.push({
-      id: name.slice(0, -PAGE_EXT.length),
-      to: typeof value["to"] === "string" ? value["to"] : "",
-      from: typeof value["from"] === "string" ? value["from"] : "",
-      warrant: stated === "blocked" ? "blocked" : "announce",
-      body: typeof value["body"] === "string" ? value["body"] : "",
-      claimedAtMs: msOf(uncommittedIn(root, relPath)?.[CLAIMED_AT_KEY]),
-      relPath,
+      id: slug,
+      to: textAt(one.value, "to") ?? "",
+      from: textAt(one.value, "from") ?? "",
+      warrant: one.value["warrant"] === "blocked" ? "blocked" : "announce",
+      body: textAt(one.value, "body") ?? "",
+      claimedAtMs: msOf(uncommittedIn(root, one.path)?.[CLAIMED_AT_KEY]),
+      relPath: one.path,
     })
   }
   return held

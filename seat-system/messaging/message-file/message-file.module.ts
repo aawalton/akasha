@@ -41,8 +41,12 @@ export const messageFile = {
       statement: "A message is claimed and taken by a path composed from that message's id.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
       statement: "A message is reached by the index rather than by listing one folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message page the index files outside the one folder read here is left out.",
     },
     {
       invariantKind: "departure",
