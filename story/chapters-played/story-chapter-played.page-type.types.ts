@@ -2,7 +2,7 @@ import type { Collection } from "../../alan/collections/collection.page-type.typ
 import type { OwnLength } from "../../alan/collections/properties/own-length.number-property.types.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { PlayedChapterStory } from "./properties/played-chapter-story.relation-property.ts"
+import type { PlayedChapterStory } from "./properties/played-chapter-story.relation-property.types.ts"
 
 export type StoryChapterPlayed = Collection & {
   title: Title

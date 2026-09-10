@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type MessageTo = Slug
 
 export const messageTo = {
   id: "01a06818-107b-7000-9af9-d98a9e34ceed",
@@ -21,4 +18,5 @@ export const messageTo = {
       statement: "A recipient is one name rather than a path.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

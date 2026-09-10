@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type SubagentKind = Slug
 
 export const subagentKind = {
   id: "01a06d81-1aaf-767b-a25d-951b643a1247",
@@ -11,4 +8,5 @@ export const subagentKind = {
   propertySlug: "subagent-kind",
   definition: "the kind a subagent was dispatched as",
   targetPageType: "page-type/subagent-kind",
+  types: "ts",
 } as const satisfies RelationProperty

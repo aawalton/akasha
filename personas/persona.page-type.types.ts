@@ -3,7 +3,7 @@ import type { PointsToday } from "../alan/attributes/properties/points-today.num
 import type { PointsTotal } from "../alan/attributes/properties/points-total.number-property.types.ts"
 import type { Domain } from "../domains/domain.page-type.types.ts"
 import type { Phone } from "../persons/people/properties/phone.phone-number-property.types.ts"
-import type { Role } from "../seat-system/seats/properties/role.relation-property.ts"
+import type { Role } from "../seat-system/seats/properties/role.relation-property.types.ts"
 import type { Appearance } from "./properties/appearance.file-property.ts"
 import type { ChampionedDomain } from "./properties/championed-domain.relation-property.types.ts"
 import type { DesktopWallpaper } from "./properties/desktop-wallpaper.file-property.ts"

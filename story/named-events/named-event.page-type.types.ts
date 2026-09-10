@@ -1,7 +1,7 @@
 import type { Seq } from "../../alan/track/daily/days/properties/seq.number-property.types.ts"
 import type { Page } from "../../pages/page.page-type.types.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { World } from "../stories-played/properties/world.relation-property.ts"
+import type { World } from "../stories-played/properties/world.relation-property.types.ts"
 import type { EventAliases } from "./properties/event-aliases.text-property.ts"
 import type { EventFirstChapter } from "./properties/event-first-chapter.number-property.types.ts"
 import type { EventLastChapter } from "./properties/event-last-chapter.number-property.types.ts"

@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type TurnStateColor = Slug
 
 export const turnStateColor = {
   id: "01a06d7a-e9f9-7644-9ee4-9ddcf6b723ba",
@@ -17,4 +14,5 @@ export const turnStateColor = {
       statement: "This color draws the seat rather than the turn state's own page.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

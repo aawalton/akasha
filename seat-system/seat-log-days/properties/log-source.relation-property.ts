@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type LogSource = Slug
 
 export const logSource = {
   id: "01a0657c-cb14-750f-8488-9fcedbe02a80",
@@ -11,4 +8,5 @@ export const logSource = {
   propertySlug: "source",
   definition: "the stream a day of lines was written by",
   targetPageType: "page-type/log-source",
+  types: "ts",
 } as const satisfies RelationProperty

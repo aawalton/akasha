@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type PlayedStory = Slug
 
 export const playedStory = {
   id: "01a06828-cb98-7a8f-a4fb-4b2676ab5c61",
@@ -11,4 +8,5 @@ export const playedStory = {
   propertySlug: "played-story",
   definition: "the story nobody wrote that something is part of",
   targetPageType: "page-type/story-played",
+  types: "ts",
 } as const satisfies RelationProperty

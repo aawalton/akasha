@@ -5,7 +5,7 @@ import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
 import type { ChronologyAnchors } from "./properties/chronology-anchors.page-property-entry.types.ts"
 import type { MarkedReadAt } from "./properties/marked-read-at.instant-property.types.ts"
-import type { ReadChapterStory } from "./properties/read-chapter-story.relation-property.ts"
+import type { ReadChapterStory } from "./properties/read-chapter-story.relation-property.types.ts"
 import type { RemovedAt } from "./properties/removed-at.instant-property.types.ts"
 
 export type StoryChapterRead = CollectionExternal & {

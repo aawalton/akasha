@@ -1,5 +1,5 @@
 import type { Domain } from "../../domains/domain.page-type.types.ts"
-import type { TurnStateColor } from "./properties/turn-state-color.relation-property.ts"
+import type { TurnStateColor } from "./properties/turn-state-color.relation-property.types.ts"
 
 export type SeatTurnState = Domain & {
   color: TurnStateColor
