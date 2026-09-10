@@ -1,10 +1,4 @@
-import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { AfterChecks } from "./properties/after-checks.boolean-property.ts"
-
-export type GeneratorKind = Domain & {
-  afterChecks: AfterChecks
-}
 
 export const generatorKind = {
   id: "01a04f17-5b78-7c66-9145-7a386e55406e",
@@ -26,4 +20,5 @@ export const generatorKind = {
       statement: "A generator waiting for the checks works out a value no check sees.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

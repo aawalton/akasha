@@ -1,4 +1,4 @@
-import type { GeneratorKind } from "../generator-kind.page-type.ts"
+import type { GeneratorKind } from "../generator-kind.page-type.types.ts"
 
 export const uuidV7 = {
   id: "01a04f17-5b79-72fc-9efd-63b5f8057882",
