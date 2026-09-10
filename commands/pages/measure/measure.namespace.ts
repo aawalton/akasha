@@ -10,6 +10,7 @@ export const measure = {
     "command/measure-repo",
     "command/measure-pages",
     "command/measure-checks",
+    "command/measure-audit",
     "command/measure-changes",
     "command/measure-commands",
     "namespace/measure-claude-accounts",
