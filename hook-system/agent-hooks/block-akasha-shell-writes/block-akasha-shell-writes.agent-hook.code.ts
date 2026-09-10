@@ -262,7 +262,7 @@ function road(shown: string): readonly string[] {
     "",
     `  akasha read --file-path ${shown}`,
     "  akasha change apply",
-    `  akasha restore --file-path ${shown}`,
+    `  akasha git restore --file-path ${shown}`,
     "",
     "A body reaches a change piped in rather than on the command line:",
     "",

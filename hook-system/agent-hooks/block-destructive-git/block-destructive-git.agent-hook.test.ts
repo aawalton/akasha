@@ -38,9 +38,9 @@ test("a refusal says what the call would destroy", () => {
   expect(refusalIn("git stash")).toContain("takes every uncommitted change")
 })
 
-test("a refusal over a body names `akasha restore` with its flag filled in", () => {
+test("a refusal over a body names `akasha git restore` with its flag filled in", () => {
   const said = refusalIn("git checkout -- akasha/one.ts") ?? ""
-  expect(said).toContain("akasha restore --file-path <path>")
+  expect(said).toContain("akasha git restore --file-path <path>")
   expect(said).toContain("commits nothing, and runs no check")
   expect(said).toContain("A path HEAD does not hold is refused rather than deleted.")
 })
@@ -52,7 +52,7 @@ test("a refusal over a body names no route this repository refuses", () => {
   expect(said).not.toContain("akasha write")
 })
 
-test("each plumbing act writing the tree or the index is refused, and names akasha restore", () => {
+test("each plumbing act writing the tree or the index is refused, and names the route", () => {
   for (const command of [
     "git update-index --cacheinfo 100644,abc123,akasha/one.ts",
     "git checkout-index -a -f",
@@ -60,7 +60,7 @@ test("each plumbing act writing the tree or the index is refused, and names akas
   ]) {
     const said = refusalIn(command) ?? ""
     expect(said).toContain("block-destructive-git refused this call.")
-    expect(said).toContain("akasha restore --file-path <path>")
+    expect(said).toContain("akasha git restore --file-path <path>")
   }
 })
 
@@ -130,8 +130,8 @@ test("a plain push is refused, in every spelling", () => {
 
 test("a push refusal names the route that is not refused", () => {
   const said = refusalIn("git push origin main") ?? ""
-  expect(said).toContain("`akasha push` is the route that is not")
-  expect(said).toContain("akasha push --dry-run")
+  expect(said).toContain("`akasha git push` is the route that is not")
+  expect(said).toContain("akasha git push --dry-run")
   expect(said).toContain("it forces nothing")
 })
 
@@ -139,7 +139,7 @@ test("a plain push is refused for being a raw push rather than for forcing", () 
   const plain = refusalIn("git push origin main")
   expect(plain).not.toBeNull()
   expect(plain).not.toContain("overwrites commits on a branch")
-  expect(refusalIn("git push --force origin main")).not.toContain("akasha push")
+  expect(refusalIn("git push --force origin main")).not.toContain("akasha git push")
 })
 
 test("gp is out of this hook's reach, whatever it refuses about push", () => {
@@ -252,14 +252,14 @@ test("the scope says what it does not reach", () => {
 test("the scope names the three plumbing acts, and where `git apply` is refused", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("update-index checkout-index read-tree")
-  expect(said).toContain("`akasha restore` answers")
+  expect(said).toContain("`akasha git restore` answers")
   expect(said).toContain("`git apply -R` is refused there rather than here")
 })
 
 test("the scope says every push is refused, what answers instead, and what it misses", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("EVERY `push` IS REFUSED, NOT ONLY A FORCED ONE")
-  expect(said).toContain("`akasha push` answers in its place")
+  expect(said).toContain("`akasha git push` answers in its place")
   expect(said).toContain("WHAT THE PUSH REFUSAL DOES NOT REACH")
   expect(said).toContain("`gp`")
   expect(said).toContain("handOffPush")

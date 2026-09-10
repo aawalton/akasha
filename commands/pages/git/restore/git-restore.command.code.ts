@@ -1,11 +1,11 @@
 import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import { type Answer, answering, type Given } from "../../modules/calling/calling.module.code.ts"
-import { bodyAt } from "../../modules/commit-reading/commit-reading.module.code.ts"
-import { saidBy } from "../../modules/fault-saying/fault-saying.module.code.ts"
-import { FILE_PATH } from "../../modules/flags/command-flags.module.code.ts"
-import { offRepo, pathAt } from "../../modules/said-pathing/said-pathing.module.code.ts"
+import { said as gitIn } from "../../../../git/running/git-running.module.code.ts"
+import { type Answer, answering, type Given } from "../../../modules/calling/calling.module.code.ts"
+import { bodyAt } from "../../../modules/commit-reading/commit-reading.module.code.ts"
+import { saidBy } from "../../../modules/fault-saying/fault-saying.module.code.ts"
+import { FILE_PATH } from "../../../modules/flags/command-flags.module.code.ts"
+import { offRepo, pathAt } from "../../../modules/said-pathing/said-pathing.module.code.ts"
 
 const HEAD = "HEAD"
 
@@ -109,7 +109,7 @@ function bytesOnDisk(at: string): Uint8Array | null {
 
 export function unheld(path: string): string {
   return (
-    `HEAD holds no ${path}, so \`akasha restore\` has nothing to put back there — a path HEAD ` +
+    `HEAD holds no ${path}, so \`akasha git restore\` has nothing to put back there — a path HEAD ` +
     "does not hold is often work another agent has not landed, so this refuses rather than " +
     "deleting it"
   )
@@ -117,14 +117,14 @@ export function unheld(path: string): string {
 
 export function notAFile(path: string, entry: Entry): string {
   return (
-    `HEAD holds ${path} as a ${entry.kind} rather than a file, and \`akasha restore\` puts back ` +
+    `HEAD holds ${path} as a ${entry.kind} rather than a file, and \`akasha git restore\` puts back ` +
     "one file at a time — name the files under it"
   )
 }
 
 export function wrongMode(path: string, entry: Entry): string {
   return (
-    `HEAD holds ${path} with mode ${entry.mode}, and \`akasha restore\` puts back a file with ` +
+    `HEAD holds ${path} with mode ${entry.mode}, and \`akasha git restore\` puts back a file with ` +
     "mode 100644 or 100755 alone"
   )
 }
@@ -134,7 +134,7 @@ function heldFor(root: string, path: string, entry: Entry, indexed?: Entry): Hel
   if (!MODES.has(entry.mode)) return wrongMode(path, entry)
   const body = bodyAt(root, HEAD, path)
   if (body === null) {
-    return `HEAD names ${path} and holds no body for it, so \`akasha restore\` put nothing back`
+    return `HEAD names ${path} and holds no body for it, so \`akasha git restore\` put nothing back`
   }
   const was = bytesOnDisk(join(root, path))
   return {
@@ -158,7 +158,7 @@ export function judgedIn(root: string, paths: readonly string[]): Judged {
   } catch (why) {
     return {
       refusals: [
-        "git could not say what HEAD and the git index hold, so `akasha restore` put nothing " +
+        "git could not say what HEAD and the git index hold, so `akasha git restore` put nothing " +
           `back — ${saidBy(why)}`,
       ],
     }
@@ -236,7 +236,7 @@ export function reportOf(going: readonly Held[], left: readonly Held[]): readonl
   const report: string[] = []
   if (going.length > 0) {
     report.push(
-      `akasha restore is discarding uncommitted work at ${counted(going.length)}, and nothing ` +
+      `akasha git restore is discarding uncommitted work at ${counted(going.length)}, and nothing ` +
         "holds that work after this:",
       ...going.map(goingSaid),
       ""
@@ -246,11 +246,11 @@ export function reportOf(going: readonly Held[], left: readonly Held[]): readonl
     report.push(`${one.path} is the body HEAD holds again, on disk and in the git index`)
   }
   for (const one of left) {
-    report.push(`${one.path} is already the body HEAD holds, so akasha restore left it alone`)
+    report.push(`${one.path} is already the body HEAD holds, so akasha git restore left it alone`)
   }
   report.push(
     "",
-    "akasha restore committed nothing and ran no check — HEAD's body passed the checks when " +
+    "akasha git restore committed nothing and ran no check — HEAD's body passed the checks when " +
       "HEAD's body landed."
   )
   return report
@@ -280,7 +280,7 @@ export function restore(argv: readonly string[], given: Given): Answer {
     return answering(
       done.map((one) => `${one.path} is the body HEAD holds again on disk`),
       [
-        "akasha restore stopped part way, so the git index may still hold another body — " +
+        "akasha git restore stopped part way, so the git index may still hold another body — " +
           `${saidBy(why)}`,
       ],
       1

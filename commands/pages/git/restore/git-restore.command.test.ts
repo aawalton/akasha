@@ -2,10 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
-import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
-import type { Given } from "../../modules/calling/calling.module.code.ts"
-import { scratchWorld } from "../../modules/scratching/scratching.module.code.ts"
-import { restore } from "./restore.command.code.ts"
+import { said as gitIn } from "../../../../git/running/git-running.module.code.ts"
+import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
+import { restore } from "./git-restore.command.code.ts"
 
 const ONE = "akasha/one.ts"
 
@@ -33,7 +33,7 @@ function repoWith(named: Readonly<Record<string, string>> = { [ONE]: HELD, [TWO]
 }
 
 function givenIn(root: string): Given {
-  return { root, calledAs: "akasha restore", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha git restore", from: root, writer: null, agentId: null }
 }
 
 function onDisk(root: string, path: string): string {
@@ -104,7 +104,7 @@ test("a path already holding HEAD's body is left alone and said so", () => {
   const said = restore(["--file-path", ONE], givenIn(root))
   expect(said.code).toBe(0)
   expect(said.report.join("\n")).toContain(
-    `${ONE} is already the body HEAD holds, so akasha restore left it alone`
+    `${ONE} is already the body HEAD holds, so akasha git restore left it alone`
   )
   expect(said.report.join("\n")).not.toContain("is discarding uncommitted work")
 })
@@ -113,7 +113,7 @@ test("what goes is said before what was put back", () => {
   const root = repoWith()
   drifted(root, ONE)
   const said = restore(["--file-path", ONE], givenIn(root)).report.join("\n")
-  expect(said).toContain("akasha restore is discarding uncommitted work at 1 path")
+  expect(said).toContain("akasha git restore is discarding uncommitted work at 1 path")
   expect(said).toContain(
     `the working tree holds ${DRIFT.length} bytes where HEAD holds ${HELD.length}`
   )

@@ -1,10 +1,10 @@
-import type { Command } from "../../command.page-type.types.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
-export const restore = {
+export const gitRestore = {
   id: "01a07267-f795-738d-90c6-a5e16e277228",
   pageTypeSlug: "command",
   type: "command",
-  slug: "restore",
+  slug: "git-restore",
   definition: "named paths put back as HEAD has them, in the working tree and in the git index",
   code: "ts",
   test: "ts",

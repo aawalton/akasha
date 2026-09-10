@@ -55,8 +55,8 @@ describe("the set", () => {
   })
 
   test("pushes through the one command that pushes rather than through git", () => {
-    expect(said).toContain("alias gp='akasha push'")
-    expect(said).not.toContain("git push")
+    expect(said).toContain("alias gp='akasha git push'")
+    expect(said).not.toContain("='git push")
   })
 
   test("carries the seat launch step and the editor terminal trap", () => {

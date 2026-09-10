@@ -1,10 +1,10 @@
-import type { Command } from "../../command.page-type.types.ts"
+import type { Command } from "../../../command.page-type.types.ts"
 
-export const push = {
+export const gitPush = {
   id: "01a06cce-9280-7c22-afc1-5cfcba8a5ac4",
   pageTypeSlug: "command",
   type: "command",
-  slug: "push",
+  slug: "git-push",
   definition: "the command with this checkout's commits to the remote its branch tracks",
   code: "ts",
   test: "ts",
@@ -12,7 +12,7 @@ export const push = {
   taking: [{ said: "--dry-run", takes: "say how many commits would be carried, and carry none" }],
   helpNotes: [
     "a push carries the branch this checkout is on, so it names no branch and no remote.",
-    "`git push` is refused for an agent, and this command is the route that is not refused.",
+    "git's own push is refused for an agent, and this command is the route that is not refused.",
     "a remote that has moved ahead refuses the push, and the refusal is reported rather than forced through.",
   ],
   invariants: [

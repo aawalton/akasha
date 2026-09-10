@@ -2,9 +2,9 @@ import { afterAll, test as check, expect } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
-import type { Given } from "../../modules/calling/calling.module.code.ts"
-import { scratchWorld } from "../../modules/scratching/scratching.module.code.ts"
-import { push } from "./push.command.code.ts"
+import type { Given } from "../../../modules/calling/calling.module.code.ts"
+import { scratchWorld } from "../../../modules/scratching/scratching.module.code.ts"
+import { push } from "./git-push.command.code.ts"
 
 const scratch = scratchWorld()
 
@@ -38,7 +38,7 @@ function remoted(root: string): string {
 }
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha push", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha git push", from: root, writer: null, agentId: null }
 }
 
 check("an argument naming what is carried is refused, and nothing is carried", () => {

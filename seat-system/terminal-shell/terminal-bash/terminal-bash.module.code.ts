@@ -46,7 +46,7 @@ function aliases(): string {
     "alias gc='git commit -m'",
     `alias gca='git add . && git commit -m'`,
     `alias gcc='git add . && git commit -m "checkpoint"'`,
-    "alias gp='akasha push'",
+    "alias gp='akasha git push'",
     "alias gl='git pull'",
     "alias gg='git log'",
     "alias gcb='git checkout -b'",

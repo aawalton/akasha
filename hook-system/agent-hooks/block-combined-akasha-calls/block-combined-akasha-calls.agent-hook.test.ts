@@ -87,7 +87,7 @@ test("an apply chained onward is refused", () => {
 })
 
 test("an akasha command this hook does not name is let through, however it is written", () => {
-  expect(refusalIn("akasha restore --file-path a.ts | head -3")).toBe(null)
+  expect(refusalIn("akasha git restore --file-path a.ts | head -3")).toBe(null)
 })
 
 test("a command naming none of them is let through", () => {

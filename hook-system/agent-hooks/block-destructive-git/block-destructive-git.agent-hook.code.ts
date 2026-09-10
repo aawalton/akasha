@@ -17,7 +17,7 @@ const NONE = [
 
 const PUT_BACK = [
   "To put one file back the way HEAD has it:",
-  "  akasha restore --file-path <path>",
+  "  akasha git restore --file-path <path>",
   "`--file-path` repeats, and nothing else names a path: no --all, no folder, no whole tree.",
   "It writes the working tree and the git index, commits nothing, and runs no check.",
   "A path HEAD does not hold is refused rather than deleted.",
@@ -126,10 +126,10 @@ const AMENDED = [
 const FORCED = ["`git push --force` overwrites commits on a branch other agents push to.", ...NONE]
 
 const PUSHED = [
-  "`git push` is refused for an agent in every form, and `akasha push` is the route that is not.",
+  "`git push` is refused for an agent in every form. `akasha git push` is the route that is not.",
   "It carries the branch this checkout is on to the remote that branch tracks, it forces nothing",
   "in any form, and where the remote has moved ahead it refuses rather than overwriting.",
-  "Say `akasha push`, or `akasha push --dry-run` to read how many commits would be carried",
+  "Say `akasha git push`, or `akasha git push --dry-run` to read how many commits would be carried",
   "without reaching the remote at all.",
   "Reach for no other route from here: another remote, another branch, a refspec, or",
   "`git push --dry-run` — every one of them is this same act and every one is refused here.",
@@ -143,13 +143,13 @@ const DELETED = [
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses eleven git acts, and two flagged forms of two more.`,
   "  stash reset rebase checkout restore clean rm",
-  "  update-index checkout-index read-tree — the three plumbing acts `akasha restore` answers",
-  "  push, in every form — `akasha push` is the route that is not refused",
+  "  update-index checkout-index read-tree — three plumbing acts `akasha git restore` answers",
+  "  push, in every form — `akasha git push` is the route that is not refused",
   "  commit --amend",
   "  push --force / -f / --force-with-lease / --force-if-includes",
   "  branch -D / branch --delete --force",
   "",
-  "EVERY `push` IS REFUSED, NOT ONLY A FORCED ONE, and `akasha push` answers in its place.",
+  "EVERY `push` IS REFUSED, NOT ONLY A FORCED ONE, and `akasha git push` answers in its place.",
   "The widening was added on 2026-09-03 for the akasha migration, after two pushes carried",
   "5,848 commits of migration work to origin. The migration is done and its constraint went",
   "with it, so the refusal holds now for a reason of its own: a push is worth making on one",
