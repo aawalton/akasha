@@ -48,6 +48,14 @@ export const storePageAsking = {
       statement: "A live ask names a page address this repository does not move.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A live ask answers slower than a test's own ceiling where the machine is loaded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every live ask here waits longer than a test asking the store nothing.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here has an answer for a later question.",
     },

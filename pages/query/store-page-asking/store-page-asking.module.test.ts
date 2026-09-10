@@ -12,6 +12,8 @@ import {
 
 const LIVE_ORIGIN = "http://127.0.0.1:8787"
 
+const WAITED = 30_000
+
 function answering(each: readonly (readonly Record<string, unknown>[])[]): Fetcher {
   let round = 0
   return async () => {
@@ -115,47 +117,63 @@ test("a page type the store does not hold has no shape", async () => {
   expect(asked.why).toContain("no page type")
 })
 
-test("the store standing on this workstation answers one whole page", async () => {
-  const asked = await underOrigin(() => askPage("page-type", "finding"))
-  expect(asked.outcome).toBe("found")
-  if (asked.outcome !== "found") return
-  expect(asked.page.values.pluralSlug).toBe("findings")
-  expect(asked.page.values.definition).toBeString()
-})
+test(
+  "the store standing on this workstation answers one whole page",
+  async () => {
+    const asked = await underOrigin(() => askPage("page-type", "finding"))
+    expect(asked.outcome).toBe("found")
+    if (asked.outcome !== "found") return
+    expect(asked.page.values.pluralSlug).toBe("findings")
+    expect(asked.page.values.definition).toBeString()
+  },
+  WAITED
+)
 
-test("the store standing on this workstation answers its roster", async () => {
-  const asked = await underOrigin(() => askPageTypes())
-  expect(asked.ok).toBe(true)
-  if (!asked.ok) return
-  const slugs = asked.types.map((one) => one.slug)
-  expect(slugs).toContain("finding")
-  expect(slugs).toContain("page-type")
-  for (const one of asked.types) expect(one.repo).toBeNull()
-})
+test(
+  "the store standing on this workstation answers its roster",
+  async () => {
+    const asked = await underOrigin(() => askPageTypes())
+    expect(asked.ok).toBe(true)
+    if (!asked.ok) return
+    const slugs = asked.types.map((one) => one.slug)
+    expect(slugs).toContain("finding")
+    expect(slugs).toContain("page-type")
+    for (const one of asked.types) expect(one.repo).toBeNull()
+  },
+  WAITED
+)
 
-test("the store standing on this workstation answers a page type's shape", async () => {
-  const asked = await underOrigin(() => askShape("finding"))
-  expect(asked.ok).toBe(true)
-  if (!asked.ok) return
-  const claim = asked.shape.declarations.find((one) => one.key === "claim")
-  expect(claim).toBeDefined()
-  expect(claim?.type).toBe("text-property")
-  expect(claim?.mayBeGone).toBe(false)
-  const domain = asked.shape.declarations.find((one) => one.key === "domain")
-  expect(domain?.type).toBe("relation-property")
-  expect(domain?.targetSlug).toBe("page-type/domain")
-})
+test(
+  "the store standing on this workstation answers a page type's shape",
+  async () => {
+    const asked = await underOrigin(() => askShape("finding"))
+    expect(asked.ok).toBe(true)
+    if (!asked.ok) return
+    const claim = asked.shape.declarations.find((one) => one.key === "claim")
+    expect(claim).toBeDefined()
+    expect(claim?.type).toBe("text-property")
+    expect(claim?.mayBeGone).toBe(false)
+    const domain = asked.shape.declarations.find((one) => one.key === "domain")
+    expect(domain?.type).toBe("relation-property")
+    expect(domain?.targetSlug).toBe("page-type/domain")
+  },
+  WAITED
+)
 
-test("the store standing on this workstation answers what names a domain", async () => {
-  const asked = await underOrigin(() =>
-    askNaming({
-      key: "domain",
-      name: "domain/all-about-alan",
-      pageTypes: ["finding"],
-    })
-  )
-  expect(asked.ok).toBe(true)
-  if (!asked.ok) return
-  expect(asked.naming.length).toBe(1)
-  expect(asked.naming[0]?.rows.length).toBeGreaterThan(0)
-})
+test(
+  "the store standing on this workstation answers what names a domain",
+  async () => {
+    const asked = await underOrigin(() =>
+      askNaming({
+        key: "domain",
+        name: "domain/all-about-alan",
+        pageTypes: ["finding"],
+      })
+    )
+    expect(asked.ok).toBe(true)
+    if (!asked.ok) return
+    expect(asked.naming.length).toBe(1)
+    expect(asked.naming[0]?.rows.length).toBeGreaterThan(0)
+  },
+  WAITED
+)
