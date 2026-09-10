@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const theGobletSquatBurnoutWasNeverLegLimited20260624 = {
   id: "01a08177-c3a8-71b6-8f71-4c744031a5c1",

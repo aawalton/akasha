@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const legsArentStrengthLimitedAtHomeLoads = {
   id: "019f01e1-ba1c-75c3-bf47-6063b5c223f4",

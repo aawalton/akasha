@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const bilateralHingesAreLowBackLimited = {
   id: "019f01e1-bade-7bc2-9eca-331981f48361",

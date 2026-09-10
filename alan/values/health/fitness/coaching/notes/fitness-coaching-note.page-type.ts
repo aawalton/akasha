@@ -1,22 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../../../../../pages/properties/title.text-property.ts"
-import type { FitnessCoachingNoteActive } from "./properties/fitness-coaching-note-active.boolean-property.ts"
-import type { FitnessCoachingNoteDate } from "./properties/fitness-coaching-note-date.calendar-date-property.ts"
-import type { FitnessCoachingNoteKind } from "./properties/fitness-coaching-note-kind.select-property.ts"
-import type { FitnessCoachingNoteSortOrder } from "./properties/fitness-coaching-note-sort-order.number-property.ts"
-import type { FocusTags } from "./properties/focus-tags.select-property.ts"
-import type { Says } from "./properties/says.file-property.ts"
-
-export type FitnessCoachingNote = Page & {
-  title: Title
-  active: FitnessCoachingNoteActive
-  focusTags: FocusTags
-  kind: FitnessCoachingNoteKind
-  date?: FitnessCoachingNoteDate
-  sortOrder?: FitnessCoachingNoteSortOrder
-  says?: Says
-}
 
 export const fitnessCoachingNote = {
   id: "01a08181-f205-7092-900f-58e2075a7529",
@@ -62,4 +44,5 @@ export const fitnessCoachingNote = {
         "A note's words are in a file of their own rather than in a value beside that note.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

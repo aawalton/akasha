@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const movementSnacksBetweenTurns20260624 = {
   id: "01a08178-25ab-758a-95b2-5950c914308d",

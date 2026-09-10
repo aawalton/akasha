@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const rowRepPrAndTheBenchBracedPivot20260626 = {
   id: "01a08174-d64e-7bec-bcb3-d6aa7dd2da51",

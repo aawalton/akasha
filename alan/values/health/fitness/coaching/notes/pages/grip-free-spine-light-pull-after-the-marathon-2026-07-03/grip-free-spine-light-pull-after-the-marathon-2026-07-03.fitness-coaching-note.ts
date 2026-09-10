@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const gripFreeSpineLightPullAfterTheMarathon20260703 = {
   id: "01a08175-36fa-7fff-ad41-3ca09ef634be",

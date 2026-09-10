@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const airQualityIsAHardMedicalGate = {
   id: "019f01e1-b79a-7960-8157-e7ef3d0f8f89",

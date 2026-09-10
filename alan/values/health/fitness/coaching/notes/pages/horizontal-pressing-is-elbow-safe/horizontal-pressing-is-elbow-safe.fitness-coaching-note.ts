@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const horizontalPressingIsElbowSafe = {
   id: "019f01e1-b56f-78a5-af0d-71d5ce0a888f",

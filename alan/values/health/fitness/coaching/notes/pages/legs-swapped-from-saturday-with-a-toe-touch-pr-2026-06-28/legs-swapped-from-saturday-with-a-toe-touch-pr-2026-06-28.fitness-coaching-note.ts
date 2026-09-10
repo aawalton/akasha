@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const legsSwappedFromSaturdayWithAToeTouchPr20260628 = {
   id: "01a08176-d420-7992-ad14-6a13a7a49eda",

@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const postWorkoutProteinDrinkCreatine = {
   id: "019f01e1-bc79-7d4c-b0c8-2814987edd4a",

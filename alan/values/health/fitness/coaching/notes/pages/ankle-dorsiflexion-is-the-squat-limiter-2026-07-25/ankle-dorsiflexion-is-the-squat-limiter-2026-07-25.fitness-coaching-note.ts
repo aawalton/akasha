@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const ankleDorsiflexionIsTheSquatLimiter20260725 = {
   id: "01a08176-6a83-74cd-992e-94936d42aed4",

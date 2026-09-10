@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const overheadMobility50NoForcedLockout = {
   id: "019f01e1-b43d-7dad-9e6d-e637aca78499",

@@ -1,4 +1,4 @@
-import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.types.ts"
 
 export const coachingNote30LbDbCeilingActivelyOutRepping = {
   id: "019f01e1-b635-7618-abdf-932f7fbd9235",
