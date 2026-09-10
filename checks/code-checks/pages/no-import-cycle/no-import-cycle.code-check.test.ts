@@ -1,215 +1,40 @@
 import { afterAll, expect, test } from "bun:test"
-import { importFiled, nothingFiled } from "@akasha/indexes/testing"
-import type { Change } from "@akasha/pages/change"
+import { importFiled } from "@akasha/indexes/testing"
 import { shadowAsked } from "@akasha/pages/shadow"
-import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { noImportCycle } from "./no-import-cycle.code-check.code.ts"
 import {
-  cyclesIn,
-  noImportCycle,
-  reachedIn,
-  reachingIn,
-} from "./no-import-cycle.code-check.code.ts"
-
-const scratch = scratchWorld()
+  AT,
+  bodied,
+  OUTSIDE,
+  rooted,
+  scratch,
+  TWO_AT,
+} from "./no-import-cycle.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
-function rooted(): string {
-  const root = scratch.rootFor("akasha-cycle-")
-  nothingFiled(root)
-  return root
-}
+const READS_TWO = 'import { two } from "./two.ts"\n\nexport const one = two\n'
 
-const ROOT = rooted()
+const READS_ONE = 'import { one } from "./one.ts"\n\nexport const two = one\n'
 
-const AT = "akasha/one.ts"
+const READS_ONE_OUT = 'import { one } from "./one.ts"\n\nexport const out = one\n'
 
-const OUTSIDE = "akasha/outside.ts"
-
-const encoder = new TextEncoder()
-
-function change(bodies: Readonly<Record<string, string>>): Change {
-  const at = (path: string): Uint8Array | null => {
-    const said = bodies[path]
-    return said === undefined ? null : encoder.encode(said)
-  }
-  return { root: ROOT, changed: Object.keys(bodies).toSorted(), after: at, before: at }
-}
-
-function refused(bodies: Readonly<Record<string, string>>): readonly Judged[] {
-  const held = change(bodies)
+function judged(root: string, bodies: Readonly<Record<string, string>>): readonly Judged[] {
+  const held = bodied(root, bodies)
   return noImportCycle(held, shadowAsked(held))
 }
 
-function pathsRefused(bodies: Readonly<Record<string, string>>): readonly string[] {
-  return refused(bodies).map((one) => one.path)
-}
-
-test("two files that import each other by value are both refused", () => {
-  const said = refused({
-    "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
-    "akasha/two.ts": 'import { one } from "./one.ts"\n\nexport const two = one\n',
-  })
-  expect(said.map((each) => each.path)).toEqual(["akasha/one.ts", "akasha/two.ts"])
-  expect(said[0]?.reason).toContain("`akasha/two.ts`")
-  expect(said[1]?.reason).toContain("`akasha/one.ts`")
+test("a cycle among the paths the change carries is refused through the check", () => {
+  const said = judged(rooted(), { [AT]: READS_TWO, [TWO_AT]: READS_ONE })
+  expect(said.map((one) => one.path)).toEqual([AT, TWO_AT])
 })
 
-test("a cycle closed only by `import type` is let through", () => {
-  expect(
-    pathsRefused({
-      "akasha/one.ts": 'import type { Two } from "./two.ts"\n\nexport type One = Two\n',
-      "akasha/two.ts": 'import type { One } from "./one.ts"\n\nexport type Two = One\n',
-    })
-  ).toEqual([])
-})
-
-test("a cycle closed by a list whose every name is `type` is let through", () => {
-  expect(
-    pathsRefused({
-      "akasha/one.ts": 'import { type Two } from "./two.ts"\n\nexport type One = Two\n',
-      "akasha/two.ts": 'import { type One } from "./one.ts"\n\nexport type Two = One\n',
-    })
-  ).toEqual([])
-})
-
-test("one value among the names makes the edge count, and the cycle is refused", () => {
-  expect(
-    pathsRefused({
-      "akasha/one.ts": 'import { type Two, two } from "./two.ts"\n\nexport const one = two\n',
-      "akasha/two.ts": 'import { one } from "./one.ts"\n\nexport const two = one\n',
-    })
-  ).toEqual(["akasha/one.ts", "akasha/two.ts"])
-})
-
-test("an import binding no name is an edge, because it still makes the module run", () => {
-  expect(
-    pathsRefused({
-      "akasha/one.ts": 'import "./two.ts"\n\nexport const one = 1\n',
-      "akasha/two.ts": 'import { one } from "./one.ts"\n\nexport const two = one\n',
-    })
-  ).toEqual(["akasha/one.ts", "akasha/two.ts"])
-})
-
-test("a type-only `export from` is no edge, and a value `export from` is", () => {
-  expect(
-    pathsRefused({
-      "akasha/one.ts": 'export type { Two } from "./two.ts"\n',
-      "akasha/two.ts": 'import type { One } from "./one.ts"\n\nexport type Two = One\n',
-    })
-  ).toEqual([])
-  expect(
-    pathsRefused({
-      "akasha/one.ts": 'export { two } from "./two.ts"\n',
-      "akasha/two.ts": 'import { one } from "./one.ts"\n\nexport const two = one\n',
-    })
-  ).toEqual(["akasha/one.ts", "akasha/two.ts"])
-})
-
-test("a file that imports itself is refused, and says so plainly", () => {
-  const said = refused({ "akasha/one.ts": 'import { a } from "./one.ts"\n' })
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("imports itself")
-})
-
-test("a chain that never comes back around is let through", () => {
-  expect(
-    pathsRefused({
-      "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
-      "akasha/two.ts": 'import { three } from "./three.ts"\n\nexport const two = three\n',
-      "akasha/three.ts": "export const three = 3\n",
-    })
-  ).toEqual([])
-})
-
-test("a cycle of three names the two others it reaches", () => {
-  const said = refused({
-    "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
-    "akasha/two.ts": 'import { three } from "./three.ts"\n\nexport const two = three\n',
-    "akasha/three.ts": 'import { one } from "./one.ts"\n\nexport const three = one\n',
-  })
-  expect(said).toHaveLength(3)
-  expect(said[0]?.reason).toContain("`akasha/three.ts`")
-  expect(said[0]?.reason).toContain("`akasha/two.ts`")
-})
-
-test("an import written inside a string represents nothing", () => {
-  const body = "const said = 'import { one } from \"./one.ts\"'\n\nexport const two = said\n"
-  expect(
-    pathsRefused({
-      "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
-      "akasha/two.ts": body,
-    })
-  ).toEqual([])
-})
-
-test("a deferred `import()` is not counted", () => {
-  expect(
-    pathsRefused({
-      "akasha/one.ts": 'import { two } from "./two.ts"\n\nexport const one = two\n',
-      "akasha/two.ts": 'export const two = () => import("./one.ts")\n',
-    })
-  ).toEqual([])
-})
-
-test("a file outside the change is read where an importer reaches that file", () => {
+test("a file outside the change is read where an importer the index files reaches it", () => {
   const root = rooted()
   importFiled(root, AT, [{ path: OUTSIDE }])
-  const held = {
-    ...change({
-      [AT]: "export const one = 1\n",
-      [OUTSIDE]: 'import { one } from "./one.ts"\n\nexport const out = one\n',
-    }),
-    root,
-    changed: [AT],
-  }
-  const reaching = reachingIn(held, shadowAsked(held).index.importersOf)
-  expect([...reaching.keys()]).toEqual([AT, OUTSIDE])
-  expect(reaching.get(OUTSIDE)).toEqual([AT])
-})
-
-test("a specifier landing on no file the folder holds closes nothing", () => {
-  expect(reachingIn(change({ [AT]: 'import { a } from "./gone.ts"\n' })).get(AT)).toEqual([])
-})
-
-test("a package specifier naming no path of its own is passed over", () => {
-  expect(reachedIn(AT, 'import ts from "typescript"\n')).toEqual(["typescript"])
-})
-
-test("a file that is not TypeScript is no part of the graph", () => {
-  expect([...reachingIn(change({ "akasha/notes.txt": "" })).keys()]).toEqual([])
-})
-
-test("a body that is not text refuses rather than reaching nothing", () => {
-  const at = (): Uint8Array => new Uint8Array([0xff, 0xfe, 0x00])
-  const held = { root: ROOT, changed: ["akasha/raw.ts"], after: at, before: at }
-  expect(() => reachingIn(held)).toThrow("akasha/raw.ts")
-  expect(() => reachingIn(held)).toThrow("not valid UTF-8")
-})
-
-test("two separate cycles are both found", () => {
-  const held = cyclesIn(
-    new Map([
-      ["a", ["b"]],
-      ["b", ["a"]],
-      ["c", ["d"]],
-      ["d", ["c"]],
-      ["e", []],
-    ])
-  )
-  expect(held).toHaveLength(2)
-  expect(held.map((one) => one.length)).toEqual([2, 2])
-})
-
-test("a graph with no cycle answers none", () => {
-  expect(
-    cyclesIn(
-      new Map([
-        ["a", ["b", "c"]],
-        ["b", ["c"]],
-        ["c", []],
-      ])
-    )
-  ).toEqual([])
+  const reads = 'import { out } from "./outside.ts"\n'
+  const held = bodied(root, { [AT]: reads, [OUTSIDE]: READS_ONE_OUT })
+  const said = noImportCycle({ ...held, changed: [AT] }, shadowAsked(held))
+  expect(said.map((one) => one.path)).toEqual([AT, OUTSIDE])
 })
