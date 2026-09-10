@@ -1,4 +1,4 @@
-import type { AstUnusedConfig } from "@akasha/code/ast-unused-config"
+import type { AstUnusedConfig } from "akasha/code-system/audit-ast-unused/ast-unused-configs/ast-unused-config.page-type.types.ts"
 
 export const everyWorkspace = {
   id: "01a08198-ecd4-76f3-b8f9-80999a4e0554",

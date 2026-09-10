@@ -1,4 +1,4 @@
-import type { AstUnusedConfig } from "@akasha/code/ast-unused-config"
+import type { AstUnusedConfig } from "akasha/code-system/audit-ast-unused/ast-unused-configs/ast-unused-config.page-type.types.ts"
 
 export const alanwalton = {
   id: "01a0819c-b40f-7c99-8328-b9b66e9bdba5",
