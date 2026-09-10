@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "The root refuses 11 files and 33 folders; the shape names the thirteen Alan approved, nothing wider. He takes them one at a time, and `browser` and the editor extension landed under `code-system`. A move pays the debt in every body it rewrites, so land that debt first and draft the move after: the extension cost a checkout found by counting folders up, seven bodies typed `void`, and a page path spelled where the index answers. Renaming `code-system` to `code` is nimue's.\n",
+        "The root refuses 11 files and 31 folders; the shape names the thirteen Alan approved, nothing wider. He takes them one at a time, and file, file-system, file-page-identity, all-about-alan, editor-extension and games have all been placed. A move pays the debt in every body it rewrites, so land that debt first and draft the move after. Renaming `code-system` to `code` is nimue's.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
