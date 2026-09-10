@@ -10,4 +10,11 @@ export const rootRoute = {
   propertySlug: "root-route",
   definition: "the route every other route renders inside",
   fileName: "root.tsx",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether the root route shows a stack is read from `import.meta.env`, not from `process.env`.",
+    },
+  ],
 } as const satisfies CodeFileProperty

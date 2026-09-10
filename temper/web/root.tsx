@@ -34,7 +34,6 @@ import {
   PagesUIRouterProvider,
 } from "akasha/pages/ui/navigation-context/navigation-context.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/pages/ui-store/diagnostics/diagnostics.module.code.ts"
-import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect, useMemo } from "react"
 import {
@@ -63,8 +62,6 @@ const AUTH_CONFIG: AuthRouteConfig = {
   rootRedirects: { authenticated: "/home" },
   signInOnInvalidSession: true,
 }
-
-const SHOWING_STACK = optionalEnv("NODE_ENV") !== "production"
 
 export const links: LinksFunction = () => [
   {
@@ -191,7 +188,7 @@ export function ErrorBoundary({ error }: { error: unknown }) {
         : error.statusText !== ""
           ? error.statusText
           : details
-  } else if (SHOWING_STACK && error instanceof Error) {
+  } else if (import.meta.env.DEV === true && error instanceof Error) {
     details = error.message
     stack = error.stack
   }
