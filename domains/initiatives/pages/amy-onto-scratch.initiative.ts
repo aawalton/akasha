@@ -15,9 +15,6 @@ export const amyOntoScratch = {
       statement: "Scratch B.",
     },
     {
-      statement: "Scratch C.",
-    },
-    {
       statement: "Scratch A.",
     },
   ],
