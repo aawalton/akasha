@@ -11,16 +11,16 @@ export const alanwaltonHealthIntentAnchoredDrain = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The empty-page branch of the drain leaves the anchor where it was.",
+      statement: "The empty-page branch of the drain leaves the anchor where the anchor was.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An anchor advanced over an empty page puts every sample behind it out of reach for good.",
+        "An anchor advanced over an empty page puts every sample behind that anchor out of reach for good.",
     },
     {
       invariantKind: "departure",
-      statement: "A failed upload leaves the anchor where it was.",
+      statement: "A failed upload leaves the anchor where the anchor was.",
     },
     {
       invariantKind: "departure",
@@ -28,17 +28,17 @@ export const alanwaltonHealthIntentAnchoredDrain = {
     },
     {
       invariantKind: "departure",
-      statement: "The seed window bounds a read only where there is no anchor to bound it.",
+      statement: "The seed window bounds a read only where there is no anchor to bound that read.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A date window beside an anchor drops what a run after a long outage would recover.",
+        "A date window beside an anchor drops the samples a run after a long outage would recover.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A metric that sent nothing routes into the backstop before the run reports on it.",
+        "A metric that sent nothing routes into the backstop before the run reports on that metric.",
     },
     {
       invariantKind: "departure",
