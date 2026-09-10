@@ -26,7 +26,8 @@ export const scaleChecks = {
     },
     {
       invariantKind: "departure",
-      statement: "A harness is handed the name, whether it held, and what it saw.",
+      statement:
+        "A harness is handed the name and whether the check held and the reading the check saw.",
     },
     {
       invariantKind: "gap",
@@ -34,7 +35,7 @@ export const scaleChecks = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a clock, a feed or a store.",
+      statement: "Nothing here reads a clock or a feed or a store.",
     },
     {
       invariantKind: "absence",
