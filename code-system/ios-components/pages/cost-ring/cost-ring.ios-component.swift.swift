@@ -43,6 +43,17 @@ enum CostCountdown {
         guard let coloredWith = cost.coloredWith else { return cost.tier }
         return shown(cost.tier, coloredWith.tier(asOf: now))
     }
+
+    // THE MOMENT THIS TILE STOPS BEING RIGHT, WHICH IS THE MOMENT THE FEED ASKS TO BE SHOWN.
+    //
+    // It is the same instant the caption counts down to, and that is not a coincidence: the
+    // caption reaches zero exactly when the color moves and the countdown has to re-aim at
+    // the rung below. Both feeds hand this to their timeline, which puts a second entry
+    // there so the tile is worked out again at that instant rather than up to a refresh
+    // later.
+    static func turning(_ payload: CostResponse, _ now: Date) -> Date? {
+        reaching(payload.cost?.coloredWith, now)
+    }
 }
 
 struct CostResponse: Decodable {

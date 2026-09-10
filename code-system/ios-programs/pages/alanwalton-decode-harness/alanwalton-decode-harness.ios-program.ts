@@ -28,6 +28,7 @@ export const alanwaltonDecodeHarness = {
     "ios-component/spacing",
     "ios-component/surplus-ring",
     "ios-component/tier",
+    "ios-component/timeline-checks",
     "ios-component/cost-ring",
   ],
   invariants: [

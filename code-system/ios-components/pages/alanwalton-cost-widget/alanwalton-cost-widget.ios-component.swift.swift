@@ -4,6 +4,10 @@ import WidgetKit
 enum CostFeed: WidgetFeed {
     static let endpoint = URL(string: "https://alanwalton.com/api/cost")!
 
+    static func turns(_ payload: CostResponse, after now: Date) -> Date? {
+        CostCountdown.turning(payload, now)
+    }
+
     static let previewPayload = CostResponse(
         stoplights: [
             HabitStoplight(

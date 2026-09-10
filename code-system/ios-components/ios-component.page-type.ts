@@ -39,6 +39,7 @@ export const iosComponent = {
     "ios-component/spacing",
     "ios-component/surplus-ring",
     "ios-component/tier",
+    "ios-component/timeline-checks",
     "code-file-property/swift",
   ],
   extends: ["page-type/domain"],

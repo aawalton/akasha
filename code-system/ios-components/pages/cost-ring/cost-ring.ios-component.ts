@@ -59,9 +59,12 @@ export const costRing = {
       statement: "A cost drawn green or black is left as the server drew it.",
     },
     {
-      invariantKind: "constraint",
-      statement:
-        "A tile is drawn once a timeline, so a rung crossed between draws is aimed at until the next.",
+      invariantKind: "departure",
+      statement: "The moment the wait runs out is the moment the color moves and the aim changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That moment is handed to the feed, which draws the tile again there.",
     },
     {
       invariantKind: "absence",

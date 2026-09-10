@@ -17,6 +17,13 @@ protocol WidgetFeed {
     associatedtype Payload: Decodable
     static var endpoint: URL { get }
     static var previewPayload: Payload { get }
+
+    // A FEED WHOSE TILE CHANGES ON ITS OWN SAYS WHEN, AND EVERY OTHER FEED SAYS NOTHING.
+    static func turns(_ payload: Payload, after now: Date) -> Date?
+}
+
+extension WidgetFeed {
+    static func turns(_ payload: Payload, after now: Date) -> Date? { nil }
 }
 
 enum RingCredential {
@@ -107,6 +114,40 @@ enum FeedResolution {
     }
 }
 
+// A TILE THAT WILL CHANGE ON ITS OWN IS SHOWN A SECOND TIME AT THE MOMENT IT CHANGES.
+//
+// The cost tile counts down to the moment the surplus reaches the rung beneath it. That is
+// the moment its color moves and its countdown has to re-aim, and nothing on the phone runs
+// a tile's body between timeline entries. `Text(_:style: .relative)` ticks its own text, but
+// the date handed to it was settled when the body last ran, so a timeline holding one entry
+// shows the change up to fifteen minutes late and counts upward until it catches up.
+//
+// The second entry is the same payload at a later date. It fetches nothing and it is not a
+// refresh. It is there so the arithmetic every ring already does against `entry.date` is
+// done again at the instant the answer changes: the figure will have fallen further and the
+// tier may have moved, which is the whole point of the entry rather than a cost of it.
+//
+// The refresh moment stays fifteen minutes out even when the turn is nearer. A refresh asks
+// the server whether the reading changed, and a rung reached says nothing about that, since
+// the moment it is reached was worked out from the reading already in hand. Aiming the
+// refresh there would spend the reload budget the fifteen-minute cadence already
+// oversubscribes on an answer this entry gives for nothing, and a fast rate reaches rungs
+// minutes apart, so it would spend several in a row and leave none for the rest of the day.
+// `dates` is handed no refresh moment at all, so there is nothing in it to confuse the two.
+enum FeedTimeline {
+    static func dates(now: Date, turning: Date?) -> [Date] {
+        guard let turning, turning > now else { return [now] }
+        return [now, turning]
+    }
+
+    static func turning<Feed: WidgetFeed>(
+        _ feed: Feed.Type, _ state: FeedState<Feed.Payload>, _ now: Date
+    ) -> Date? {
+        guard case .loaded(let payload) = state else { return nil }
+        return Feed.turns(payload, after: now)
+    }
+}
+
 struct FeedProvider<Feed: WidgetFeed>: TimelineProvider {
     typealias Entry = FeedEntry<Feed.Payload>
 
@@ -125,10 +166,13 @@ struct FeedProvider<Feed: WidgetFeed>: TimelineProvider {
     func getTimeline(in context: TimelineProviderContext, completion: @escaping (Timeline<Entry>) -> Void) {
         Task {
             let now = Date()
-            let entry = Entry(date: now, state: await currentState())
+            let state = await currentState()
             let next = Calendar.current.date(byAdding: .minute, value: 15, to: now)
                 ?? now.addingTimeInterval(900)
-            completion(Timeline(entries: [entry], policy: .after(next)))
+            let dates = FeedTimeline.dates(
+                now: now, turning: FeedTimeline.turning(Feed.self, state, now))
+            let entries = dates.map { Entry(date: $0, state: state) }
+            completion(Timeline(entries: entries, policy: .after(next)))
         }
     }
 
