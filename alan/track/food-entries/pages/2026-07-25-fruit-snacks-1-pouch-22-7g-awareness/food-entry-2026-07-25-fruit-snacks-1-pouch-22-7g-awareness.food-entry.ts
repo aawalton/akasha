@@ -1,4 +1,4 @@
-import type { FoodEntry } from "../../food-entry.page-type.ts"
+import type { FoodEntry } from "../../food-entry.page-type.types.ts"
 
 export const foodEntry20260725FruitSnacks1Pouch227gAwareness = {
   id: "01a065a3-6e92-7686-971d-f13fdf0ac630",

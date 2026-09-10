@@ -1,4 +1,4 @@
-import type { FoodEntry } from "../../food-entry.page-type.ts"
+import type { FoodEntry } from "../../food-entry.page-type.types.ts"
 
 export const foodEntry20260908OrganicSweetPotatoSticks1Pack80g = {
   id: "01a08243-c5ad-7000-bf44-5ee10a1cd9b9",
