@@ -13,7 +13,28 @@ import ts from "typescript"
 import { textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-export const MANIFEST = "editor-extension/ops-extension/package.json"
+const PACKAGE = "workspace-package"
+
+const EXTENSION = "ops-extension"
+
+const MANIFEST_PROPERTY = "manifest"
+
+export type Indexing = {
+  readonly listedAt: (pageTypeSlug: string, slug: string) => readonly { readonly path: string }[]
+  readonly fileKeysAt: () => ReadonlyMap<string, string | null>
+}
+
+export function manifestIn(index: Indexing): string {
+  const page = index.listedAt(PACKAGE, EXTENSION)[0]
+  const named = index.fileKeysAt().get(MANIFEST_PROPERTY) ?? null
+  if (page === undefined || named === null) {
+    throw new Error(
+      `no \`${PACKAGE}\` is slugged \`${EXTENSION}\` carrying a \`${MANIFEST_PROPERTY}\`, ` +
+        "so what the host loads is unknown"
+    )
+  }
+  return normalize(join(dirname(page.path), named))
+}
 
 const NAMED = "package.json"
 
@@ -108,8 +129,8 @@ export function namingOver(change: Change, paths: readonly string[]): Naming {
   return reachingOver(found)
 }
 
-export function entryIn(change: Change): string | null {
-  const text = textIn(change, MANIFEST)
+export function entryIn(change: Change, manifest: string): string | null {
+  const text = textIn(change, manifest)
   if (text === null) return null
   let read: unknown
   try {
@@ -120,7 +141,7 @@ export function entryIn(change: Change): string | null {
   if (read === null || typeof read !== "object") return null
   const main = (read as Record<string, unknown>)[MAIN]
   if (typeof main !== "string") return null
-  return normalize(join(dirname(MANIFEST), main))
+  return normalize(join(dirname(manifest), main))
 }
 
 function reasonFor(why: string, at: string, from: ReadonlyMap<string, string>): string {
@@ -137,10 +158,14 @@ function reasonFor(why: string, at: string, from: ReadonlyMap<string, string>): 
   return `${why}, and the host reaches it from ${through} — ${HOST}`
 }
 
-export function refusalsOver(change: Change, paths: readonly string[]): readonly Judged[] {
-  const entry = entryIn(change)
+export function refusalsOver(
+  change: Change,
+  paths: readonly string[],
+  manifest: string
+): readonly Judged[] {
+  const entry = entryIn(change, manifest)
   if (entry === null) {
-    return [{ path: MANIFEST, reason: `this names no entry, so what the host loads is unknown` }]
+    return [{ path: manifest, reason: `this names no entry, so what the host loads is unknown` }]
   }
   const naming = namingOver(change, paths)
   const from = new Map<string, string>()

@@ -13,6 +13,10 @@ export const extensionHostReachesNoBunCode = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "Where the extension's manifest sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The graph is read from the entry the extension's manifest names.",
     },
     {

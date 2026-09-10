@@ -36,6 +36,10 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
+      statement: "A selector over texts is told the index the change leaves as well as the path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check judging a path the change takes away walks the change itself.",
     },
     {

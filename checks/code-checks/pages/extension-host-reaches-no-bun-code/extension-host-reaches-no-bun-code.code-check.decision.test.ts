@@ -5,6 +5,7 @@ import {
   ENTRY,
   FAR,
   hosted,
+  MANIFEST,
   NEXT,
   NOTICED,
   PACKAGED,
@@ -75,12 +76,12 @@ test("the entry itself is judged, holding nothing it was reached from", () => {
 
 test("a manifest naming no entry is refused rather than passed", () => {
   const held = change({ [ENTRY]: 'import "bun:ffi"\n' })
-  expect(refusalsOver(held, held.changed).map((one) => one.reason)).toEqual([
+  expect(refusalsOver(held, held.changed, MANIFEST).map((one) => one.reason)).toEqual([
     "this names no entry, so what the host loads is unknown",
   ])
 })
 
 test("a specifier landing on nothing is passed over", () => {
   const reads = 'import { gone } from "./gone.module.code.ts"\n'
-  expect(refusalsOver(hosted({ [ENTRY]: reads }), [])).toEqual([])
+  expect(refusalsOver(hosted({ [ENTRY]: reads }), [], MANIFEST)).toEqual([])
 })

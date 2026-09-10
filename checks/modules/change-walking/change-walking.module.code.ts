@@ -100,14 +100,14 @@ export function bodyNamed(path: string): boolean {
   return textNamed(path) || styleNamed(path)
 }
 
-export function textsBy(named: string, taken: (path: string) => boolean): Selector<Text> {
+export function textsBy(named: string, taken: Input): Selector<Text> {
   return {
     named,
-    isInput: (path) => taken(path),
-    from: (change) => {
+    isInput: (path, shadow) => taken(path, shadow),
+    from: (change, shadow) => {
       const found: Text[] = []
       for (const given of bodiesIn(change)) {
-        if (!taken(given.path)) continue
+        if (!taken(given.path, shadow)) continue
         found.push({ root: given.root, path: given.path, text: bodyOf(given) })
       }
       return found
