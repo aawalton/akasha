@@ -1,6 +1,6 @@
 import type { BooleanProperty } from "@akasha/pages/boolean-property"
 
-export type Enabled = boolean
+export type ReadoutEnabled = boolean
 
 export const readoutEnabled = {
   id: "01a063bd-a526-7356-a7bd-00f589dcdc18",

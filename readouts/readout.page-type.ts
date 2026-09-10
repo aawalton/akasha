@@ -16,7 +16,7 @@ import type { QueryArgument } from "./properties/query-argument.text-property.ts
 import type { QueryKey } from "./properties/query-key.text-property.ts"
 import type { QuerySlug } from "./properties/query-slug.text-property.ts"
 import type { ReadLiveFrom } from "./properties/read-live-from.relation-property.ts"
-import type { Enabled } from "./properties/readout-enabled.boolean-property.ts"
+import type { ReadoutEnabled } from "./properties/readout-enabled.boolean-property.ts"
 import type { Scale } from "./properties/scale.relation-property.ts"
 import type { Unit } from "./properties/unit.text-property.ts"
 import type { WireKey } from "./properties/wire-key.text-property.ts"
@@ -39,7 +39,7 @@ export type Readout = Module & {
   queryKey?: QueryKey
   queryArgument?: QueryArgument
   readLiveFrom?: ReadLiveFrom
-  enabled?: Enabled
+  enabled?: ReadoutEnabled
   lastValue?: LastValue
   lastValueAt?: LastValueAt
 }
