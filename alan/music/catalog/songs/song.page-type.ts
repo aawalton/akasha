@@ -18,7 +18,7 @@ export const song = {
     "text-property/lyrics-source",
     "rank-property/singability",
     "select-property/song-type",
-    "text-property/written",
+    "select-property/written",
   ],
   properties: [
     { pageProperty: "text-property/external-id", required: true, many: false },
@@ -27,7 +27,7 @@ export const song = {
     { pageProperty: "select-property/song-type", required: true, many: false },
     { pageProperty: "boolean-property/performed", required: true, many: false },
     { pageProperty: "text-property/lyrics-source", required: false, many: false },
-    { pageProperty: "text-property/written", required: false, many: false },
+    { pageProperty: "select-property/written", required: false, many: false },
     { pageProperty: "rank-property/singability", required: false, many: false },
     { pageProperty: "file-property/lyrics", required: false, many: false },
     { pageProperty: "file-property/synced-lyrics", required: false, many: false },

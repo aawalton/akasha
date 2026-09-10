@@ -10,7 +10,7 @@ import type { PersonalConnections } from "./properties/personal-connections.file
 import type { Singability } from "./properties/singability.rank-property.ts"
 import type { SongType } from "./properties/song-type.select-property.ts"
 import type { SyncedLyrics } from "./properties/synced-lyrics.file-property.ts"
-import type { Written } from "./properties/written.text-property.ts"
+import type { Written } from "./properties/written.select-property.ts"
 
 export type Song = CollectionExternal & {
   externalId: ExternalId
