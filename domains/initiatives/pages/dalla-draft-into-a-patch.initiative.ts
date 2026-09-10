@@ -9,11 +9,6 @@ export const dallaDraftIntoAPatch = {
   persona: "dalla",
   intents: [
     {
-      statement: "A seat's logs and socket are uncommitted properties beside that seat's page.",
-      workingMemory:
-        "Most of these lines are beside a page already: `log-source` and `seat-log-day` file one page per source per seat per day, lines in a `.jsonl` beside it. The socket and a supervisor's own files are gone to `/run/user/<uid>`, and nothing of a supervisor's is in the checkout. `oauth-proxy.stderr.log`, `subagent-presence.log` and `bootstrap-<pid>.log` still have no page, and are what the fallback spills when `seatNameForAgent` answers null.\n",
-    },
-    {
       statement: "Each piece the asking module holds sits in a module answering for one concern.",
       workingMemory:
         "`asking.module.code.ts` holds six concerns: `mistaking` and `troubling` word a refusal, and nearly every command reaches them; `bytesAt`, `textOf` and `textAt` read a body off disk; `BREAK_GLASS` names a flag `command-flags` carries the rest of; `glassSaid`, `bypassedIn`, `unloadableIn` and `counted` word commit trailers; `puttingUpSaid` spells the command putting a subagent's page up; `MECHANICAL` is a change kind. The module page states this as a gap already.\n",
