@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "Greenness per check is measured now, read off the log each audit run writes: 41 of 56 are green over the whole tree and 15 refuse, 3824 refusals in all. Six hold 96% of them: invariant-statement-is-plain 1069, no-rule-in-two-files 1036, identifier-matches-its-place 473, no-unparsed-boundary-read 462, no-code-comments 327, no-method-signature 298. The other nine are a tail from 67 down to 1, so take the tail first.",
+        "2614 refusals remain. 40 of the 53 checks that ran are green. A bare audit no longer finishes. The run is killed at the 300 second ceiling the audit command states, so tests-pass, typecheck and types-file-runs-nothing go unrun and no answer is printed. Two checks hold 53%: no-rule-in-two-files 1046, identifier-matches-its-place 340. A check refusing what no file can change is mended in the check rather than in the files. 414 such refusals are left. Take the worst files first.",
     },
     {
       statement: "Every route file is claimed by a page.",
