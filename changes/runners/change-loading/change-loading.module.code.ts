@@ -1,6 +1,5 @@
 import { join } from "node:path"
 import { besideAt } from "@akasha/pages/page-file-name"
-import { generatedFileNotWritten } from "../../guards/pages/generated-file-not-written/generated-file-not-written.change-guard.code.ts"
 import { refusing } from "../../modules/answer/change-answer.module.code.ts"
 import type { Answer, Said } from "../../modules/answer/change-answer.module.types.ts"
 import { guardedBy } from "../../modules/guarding/change-guarding.module.code.ts"
@@ -100,8 +99,6 @@ export async function loadedAt(world: World, at: string): Promise<Loaded | strin
   return loaded
 }
 
-const ALWAYS: readonly Guard[] = [generatedFileNotWritten]
-
 const REACHED = new WeakMap<World, Guard[]>()
 
 function reachedBy(world: World, guards: readonly Guard[]): undefined {
@@ -128,7 +125,7 @@ export async function ranBy(
   const before = worldBefore(world)
   const said = await loaded.run(world, given)
   if (said.refused !== null) return said
-  return guardedBy(world, said, guardsOver(world, [...loaded.guards, ...ALWAYS]), before)
+  return guardedBy(world, said, guardsOver(world, loaded.guards), before)
 }
 
 export function targetIn(given: unknown): string | null {

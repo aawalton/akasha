@@ -6,7 +6,6 @@ import type { Running } from "../../../../commands/modules/drafting/drafting.mod
 import { landingFrom } from "../../../../commands/modules/edits-landing/edits-landing.module.code.ts"
 import { NO_GATE } from "../../../../commands/modules/gate-building/gate-building.module.code.ts"
 import { baseOf, type Refused } from "../../../../commands/modules/landing/landing.module.code.ts"
-import { generatedFileNotWritten } from "../../../guards/pages/generated-file-not-written/generated-file-not-written.change-guard.code.ts"
 import { gathered } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { bodyIn } from "../../../modules/edits-keeping/edits-keeping.module.code.ts"
@@ -42,7 +41,7 @@ export async function foldedOver(world: World, asked: readonly Asking[]): Promis
   }
   const said = gathered(answers)
   if (said.refused !== null) return said
-  return guardedBy(seen, said, guardsOver(world, [generatedFileNotWritten]), before)
+  return guardedBy(seen, said, guardsOver(world, []), before)
 }
 
 export type Writing = {
