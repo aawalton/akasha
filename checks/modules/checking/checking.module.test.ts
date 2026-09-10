@@ -29,30 +29,27 @@ import {
   checkCodeAt,
   checksTakenFrom,
   costing,
+  EXPERIMENTAL_CHECKS,
   GATHERED,
   GONE_TS,
   HELD_CODE_AT,
   HELD_PAGE_AT,
   INPUT_THROWS_CHECKS,
+  judgedAsleep,
   NO_PHASE_CHECK,
   ONE_MD,
   ONE_TS,
-  over,
   overIn,
   PHASE_CHECKS,
   pagedRoot,
   REFUSES,
   REFUSES_CHECK,
-  ROOT,
   rootHolding,
   rootWith,
-  SAMPLED,
   SHADOW_CHECK,
   SLEEPING_CHECK,
-  type Sleeping,
   STAYS_TS,
   scratch,
-  sleepingAt,
   TAKING_CHECK,
   THROWS_CHECK,
   THROWS_UNDER_CHECK,
@@ -121,6 +118,14 @@ test("a phase takes only the checks that state it", () => {
   expect(checksAt(every, "change").map((one) => one.slug)).toEqual(["admits-all"])
   expect(checksAt(every, "deploy").map((one) => one.slug)).toEqual(["refuses-all"])
   expect(checksAt(every, "worktree")).toEqual([])
+})
+
+test("a check saying it is experimental is left out of every phase its page states", () => {
+  const root = rootWith(EXPERIMENTAL_CHECKS)
+  const every = checksIn(root)
+  expect(every.map((one) => one.runsOn)).toEqual([[], ["change"]])
+  expect(checksAt(every, "change").map((one) => one.slug)).toEqual([REFUSES])
+  expect(checksAt(every, "audit")).toEqual([])
 })
 
 test("the check a change takes away no longer refuses the change taking it", async () => {
@@ -351,19 +356,9 @@ test("a run over some of the files is held by the check group though its phase i
 test(
   "a check that judges refuses nothing in a change its own input turns away whole",
   async () => {
-    const asked = shadowAsked(over(SAMPLED))
-    const taken: string[] = []
-    const held = new Map<string, Sleeping>()
-    for (const one of checksIn(ROOT)) {
-      const takes = one.isInput
-      if (takes === null || one.runsOn.length === 0) continue
-      const asleep = SAMPLED.filter((path) => !takes(path, asked))
-      if (asleep.length === 0) continue
-      taken.push(one.slug)
-      const sleeping = sleepingAt(held, asleep)
-      expect([one.slug, await one.run(sleeping.change, sleeping.shadow)]).toEqual([one.slug, []])
-    }
-    expect(taken.length).toBeGreaterThan(0)
+    const said = await judgedAsleep()
+    expect(said.length).toBeGreaterThan(0)
+    expect(said.filter((one) => one[1].length > 0)).toEqual([])
   },
   WHOLE_TREE_CHECKS_TAKE
 )

@@ -28,6 +28,14 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check saying it is experimental is gathered on no phase.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The phases such a check states are where that check judges once it is not.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Finding the checks costs nothing the pages grow.",
     },
     {

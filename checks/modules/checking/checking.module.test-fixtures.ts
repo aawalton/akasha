@@ -16,7 +16,8 @@ import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 import type { Cost } from "../cost/check-cost.module.code.ts"
-import type { Gathered } from "./checking.module.code.ts"
+import type { Judged } from "../judging/judging.module.code.ts"
+import { checksIn, type Gathered } from "./checking.module.code.ts"
 
 export const CHECK = "code-check"
 
@@ -74,6 +75,7 @@ const CHECK_PAGE_TYPE: PageType = {
 export type Named = {
   readonly slug: string
   readonly runsOn: readonly string[]
+  readonly experimental?: boolean
   readonly raw?: string
   readonly body: string
   readonly audit?: string
@@ -107,6 +109,7 @@ export function rootWith(named: readonly Named[], filedUnder: PageType = CHECK_P
             `  runsOnWorktree: ${one.runsOn.includes("worktree")},\n` +
             `  runsOnDeploy: ${one.runsOn.includes("deploy")},\n` +
             `  runsOnAudit: ${one.runsOn.includes("audit")},\n`) +
+        (one.experimental === undefined ? "" : `  experimental: ${one.experimental},\n`) +
         ceilingsOf(one) +
         `}\n`
     )
@@ -226,6 +229,11 @@ export const PHASE_CHECKS = [
   { slug: REFUSES, runsOn: ["deploy"], body: REFUSES_ALL },
 ]
 
+export const EXPERIMENTAL_CHECKS = [
+  { slug: ADMITS, runsOn: ["change", "audit"], experimental: true, body: ADMITS_ALL },
+  { slug: REFUSES, runsOn: ["change"], body: REFUSES_ALL },
+]
+
 export const THROWS_CHECK = [{ slug: "throws", runsOn: ["change"], body: THROWS }]
 
 export const THROWS_UNDER_CHECK = [{ slug: "throws-under", runsOn: ["change"], body: THROWS_UNDER }]
@@ -325,12 +333,12 @@ export function over(changed: readonly string[]): Change {
   return overIn(ROOT, changed)
 }
 
-export type Sleeping = {
+type Sleeping = {
   readonly change: Change
   readonly shadow: Shadow
 }
 
-export function sleepingAt(held: Map<string, Sleeping>, asleep: readonly string[]): Sleeping {
+function sleepingAt(held: Map<string, Sleeping>, asleep: readonly string[]): Sleeping {
   const key = asleep.join(" ")
   const done = held.get(key)
   if (done !== undefined) return done
@@ -338,6 +346,23 @@ export function sleepingAt(held: Map<string, Sleeping>, asleep: readonly string[
   const made = { change, shadow: shadowAsked(change) }
   held.set(key, made)
   return made
+}
+
+export type Asleep = readonly (readonly [string, readonly Judged[]])[]
+
+export async function judgedAsleep(): Promise<Asleep> {
+  const asked = shadowAsked(over(SAMPLED))
+  const held = new Map<string, Sleeping>()
+  const said: (readonly [string, readonly Judged[]])[] = []
+  for (const one of checksIn(ROOT)) {
+    const takes = one.isInput
+    if (takes === null || one.runsOn.length === 0) continue
+    const asleep = SAMPLED.filter((path) => !takes(path, asked))
+    if (asleep.length === 0) continue
+    const sleeping = sleepingAt(held, asleep)
+    said.push([one.slug, await one.run(sleeping.change, sleeping.shadow)])
+  }
+  return said
 }
 
 export function checksTakenFrom(root: string, slug: string): undefined {

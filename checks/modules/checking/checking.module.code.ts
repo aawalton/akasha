@@ -73,6 +73,8 @@ const STATED: readonly (readonly [Phase, string])[] = [
   ["audit", "runsOnAudit"],
 ]
 
+const EXPERIMENTAL = "experimental"
+
 function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
   const held: Phase[] = []
   for (const [phase, named] of STATED) {
@@ -80,7 +82,7 @@ function runsOnIn(value: Record<string, unknown>): readonly Phase[] | null {
     if (typeof said !== "boolean") return null
     if (said) held.push(phase)
   }
-  return held
+  return value[EXPERIMENTAL] === true ? [] : held
 }
 
 function ceilingIn(stated: Record<string, unknown>, group: string): number | null {
