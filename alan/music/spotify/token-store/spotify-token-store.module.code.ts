@@ -1,6 +1,7 @@
 import { z } from "zod"
 import {
   cachePathOf,
+  parseCacheOverride,
   readCacheFile,
   removeCacheFile,
   writeCacheFile,
@@ -22,7 +23,8 @@ export const SpotifyTokenSchema = z
 export type SpotifyToken = z.infer<typeof SpotifyTokenSchema>
 
 export function getTokenFilePath(baseDir?: string): string {
-  return cachePathOf(FILE_NAME, process.env.SPOTIFY_TOKEN_FILE, baseDir)
+  const override = parseCacheOverride(process.env.SPOTIFY_TOKEN_FILE)
+  return cachePathOf(FILE_NAME, override, baseDir)
 }
 
 export function writeToken(token: SpotifyToken, baseDir?: string): undefined {

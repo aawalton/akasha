@@ -5,6 +5,7 @@ import { z } from "zod"
 import {
   cachePathOf,
   defaultBaseDir,
+  parseCacheOverride,
   readCacheFile,
   removeCacheFile,
   writeCacheFile,
@@ -34,7 +35,12 @@ test("an override names the whole path", () => {
 })
 
 test("an empty override is no override", () => {
-  expect(cachePathOf("token.json", "", "/base")).toBe("/base/token.json")
+  expect(cachePathOf("token.json", parseCacheOverride(""), "/base")).toBe("/base/token.json")
+})
+
+test("an override that is there names the whole path", () => {
+  expect(parseCacheOverride("/somewhere/else.json")).toBe("/somewhere/else.json")
+  expect(parseCacheOverride(undefined)).toBe(undefined)
 })
 
 test("a file written is read back whole", () => {

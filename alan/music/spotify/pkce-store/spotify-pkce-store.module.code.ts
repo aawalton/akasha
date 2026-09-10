@@ -1,6 +1,7 @@
 import { z } from "zod"
 import {
   cachePathOf,
+  parseCacheOverride,
   readCacheFile,
   removeCacheFile,
   writeCacheFile,
@@ -20,7 +21,8 @@ export const PkceHandoffSchema = z
 export type PkceHandoff = z.infer<typeof PkceHandoffSchema>
 
 export function getPkceFilePath(baseDir?: string): string {
-  return cachePathOf(FILE_NAME, process.env.SPOTIFY_PKCE_FILE, baseDir)
+  const override = parseCacheOverride(process.env.SPOTIFY_PKCE_FILE)
+  return cachePathOf(FILE_NAME, override, baseDir)
 }
 
 export function writePkce(handoff: PkceHandoff, baseDir?: string): undefined {

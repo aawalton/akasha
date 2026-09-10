@@ -15,12 +15,17 @@ export function defaultBaseDir(): string {
   return join(homedir(), ".cache", CACHE_FOLDER)
 }
 
+export function parseCacheOverride(raw: string | undefined): string | undefined {
+  if (raw === undefined || raw.length === 0) return undefined
+  return raw
+}
+
 export function cachePathOf(
   fileName: string,
   override: string | undefined,
   baseDir?: string
 ): string {
-  if (override !== undefined && override.length > 0) return override
+  if (override !== undefined) return override
   return join(baseDir ?? defaultBaseDir(), fileName)
 }
 
