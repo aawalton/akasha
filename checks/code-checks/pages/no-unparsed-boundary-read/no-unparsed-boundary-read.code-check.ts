@@ -14,7 +14,7 @@ export const noUnparsedBoundaryRead = {
     {
       invariantKind: "departure",
       statement:
-        "A read across a boundary is refused where no approved parse follows it in the same block.",
+        "A read across a boundary is refused where no approved parse follows that read in the same block.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +60,7 @@ export const noUnparsedBoundaryRead = {
     {
       invariantKind: "departure",
       statement:
-        "Folding this into `no-refused-syntax` takes every site repaired and this page taken away.",
+        "Folding this check into `no-refused-syntax` takes every site repaired and this page taken away.",
     },
 
     {
