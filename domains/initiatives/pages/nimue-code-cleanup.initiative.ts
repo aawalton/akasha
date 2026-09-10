@@ -11,7 +11,7 @@ export const nimueCodeCleanup = {
     {
       statement: "No code spells a path as a string literal.",
       workingMemory:
-        "`check-reaches-a-path-through-the-index` refuses a literal naming a path the index has a file at, over every page code file whose last section is `code`. 8 refusals are left, from 45. The check runs at change, so a file holding a refusal is refused when next touched. The check does not judge a literal naming a folder, which waits on the index answering a folder. `harness-call.module.code.ts:19` cannot be mended: `extension-host-reaches-no-bun-code` refuses the lookup that would mend it.\n",
+        "`check-reaches-a-path-through-the-index` answers no refusal over 123376 files, and that zero is the check's reach rather than the tree's state: the check's page states only a page's code is judged. 33 test files spell `code-system/`. The check is being widened to reach a page's test files, leaving fixtures out. `app-building.module.test.ts:81` pins a path the test found, which `test.domain.ts` already refuses.\n",
     },
     {
       statement: "A change moving a folder repoints the manifest naming that folder.",
@@ -41,7 +41,7 @@ export const nimueCodeCleanup = {
     {
       statement: "Every container recipe is written by a generator rather than by hand.",
       workingMemory:
-        "Nine Containerfiles hold twenty `COPY` lines naming a repository path, ten of those in `temper/watcher/image`. No check judges a Containerfile, and `folder-not-left-named` reads only TypeScript, so a folder move leaves each recipe stale in silence. `container-recipe` is gaining a module-property-group whose code writes the recipe. `recipe.file-property.ts` gains `generated` last, that flag reaching all nine recipes at once.",
+        "All nine recipes carry the `composing` module-property-group and a byte-for-byte test, and `recipe.file-property.ts` states `generated` (`dce4762646c`). Four recipes were stale: temper's six COPY paths, wan, eso-rig's two, and upscale's cluster image. Nothing runs a group's code yet, so a hand edit to a Containerfile is dropped in silence until dalla's deploy tooling reaches these groups.\n",
     },
   ],
   constraints: [
