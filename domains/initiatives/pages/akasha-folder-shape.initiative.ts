@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "33 folders refuse. Code composing a repo path from fragments is invisible to typecheck, so a folder move lands green and breaks at runtime: find every seam by grepping the folder name rather than by compiling. A daemon holds its paths from import, so a move needs `akasha seat supervisor restart --all` after; until then old code rewrites the old path, and a page filed twice under one id refuses every repair. A property given a default is claimed from its type rather than its page.\n",
+        "22 folders refuse; `--check` takes `--file-path` to narrow one run. A refusal line is truncated, so a shape tried late is never read. `move-folder` refuses while any body spells the old path: repoint every string constant first, in the same change. Touching a file arms the no-code-comments ratchet, so a rename can drag a wide prose deletion in with it. `move-pages` takes `moved`, one `page folder` to a line. A page with a file beside it needs a folder of its own.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
