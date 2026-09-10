@@ -4,7 +4,7 @@ import type { EnchantmentMultiplier } from "../properties/enchantment-multiplier
 import type { EsoWeaponType } from "../properties/eso-weapon-type.text-property.ts"
 import type { ValidSlots } from "../properties/valid-slots.text-property.ts"
 import type { WeaponTypePower } from "../properties/weapon-type-power.number-property.ts"
-import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.types.ts"
+import type { TemperGearThing } from "../things/temper-gear-thing.page-type.types.ts"
 
 export type TemperWeaponType = TemperGearThing & {
   key: Key
