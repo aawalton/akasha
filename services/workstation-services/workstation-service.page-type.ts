@@ -105,11 +105,15 @@ export const workstationService = {
     },
     {
       invariantKind: "departure",
-      statement: "A verdict is written only where it changed, so a verdict has no freshness.",
+      statement: "A verdict is written only where the verdict changed.",
     },
     {
       invariantKind: "departure",
-      statement: "The moment of a look is carried once, by the service that does the looking.",
+      statement: "A verdict has no freshness.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The moment of a look is carried once by the service that does the looking.",
     },
     {
       invariantKind: "departure",
