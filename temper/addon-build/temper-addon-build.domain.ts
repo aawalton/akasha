@@ -38,16 +38,12 @@ export const temperAddonBuild = {
         "An addon whose source is in akasha is transpiled from where akasha has the source.",
     },
     {
-      invariantKind: "gap",
-      statement: "The transpiler is a checkout beside akasha rather than a package inside akasha.",
-    },
-    {
       invariantKind: "constraint",
       statement: "A build runs on the workstation with the transpiler rather than in the cluster.",
     },
     {
       invariantKind: "gap",
-      statement: "No landing runs the addon typecheck.",
+      statement: "A landing runs the addon typecheck.",
     },
     {
       invariantKind: "gap",
