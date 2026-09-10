@@ -61,7 +61,11 @@ export const readoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A value moving both ways is taken twice, and the later take is the one kept.",
+      statement: "A value moving both ways is taken twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The later take is the one kept.",
     },
     {
       invariantKind: "departure",

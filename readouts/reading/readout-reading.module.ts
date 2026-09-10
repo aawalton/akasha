@@ -35,8 +35,11 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A take naming a rate writes that rate, and a take naming none leaves it as it is.",
+      statement: "A take naming a rate writes that rate.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take naming no rate leaves the rate as it is.",
     },
     {
       invariantKind: "departure",
