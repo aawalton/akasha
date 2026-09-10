@@ -1,3 +1,3 @@
-import type { Term } from "../term.page-type.ts"
+import type { Term } from "../term.page-type.types.ts"
 
 export type AllowedTerm = Term & {}
