@@ -1,4 +1,4 @@
-import type { AgentHook } from "../agent-hook.page-type.ts"
+import type { AgentHook } from "../agent-hook.page-type.types.ts"
 
 export const blockTypecheck = {
   id: "01a058d6-293d-7bd0-8774-23b6112680f6",

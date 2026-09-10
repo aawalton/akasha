@@ -1,4 +1,4 @@
-import type { AgentHook } from "../agent-hook.page-type.ts"
+import type { AgentHook } from "../agent-hook.page-type.types.ts"
 
 export const blockBiome = {
   id: "01a04edf-d739-7000-8634-f401edc3f875",

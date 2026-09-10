@@ -1,4 +1,4 @@
-import type { AgentHook } from "../agent-hook.page-type.ts"
+import type { AgentHook } from "../agent-hook.page-type.types.ts"
 
 export const blockAkashaEdits = {
   id: "01a04e17-0958-7be5-9b50-5a856c02c5a6",

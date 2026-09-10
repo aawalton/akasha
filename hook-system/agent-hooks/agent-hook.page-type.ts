@@ -1,12 +1,4 @@
-import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
-import type { OverTools } from "./properties/over-tools.text-property.ts"
-import type { RunsAt } from "./properties/runs-at.text-property.ts"
-
-export type AgentHook = Module & {
-  runsAt: RunsAt
-  overTools?: OverTools
-}
 
 export const agentHook = {
   id: "01a04e0a-f8fa-7fb8-a730-0e27c83701be",
@@ -117,4 +109,5 @@ export const agentHook = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType

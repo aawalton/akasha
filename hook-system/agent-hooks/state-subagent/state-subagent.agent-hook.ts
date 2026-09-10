@@ -1,4 +1,4 @@
-import type { AgentHook } from "../agent-hook.page-type.ts"
+import type { AgentHook } from "../agent-hook.page-type.types.ts"
 
 export const stateSubagent = {
   id: "01a0598f-18de-7467-a5af-de60b85fefd7",

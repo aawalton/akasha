@@ -1,4 +1,4 @@
-import type { AgentHook } from "../agent-hook.page-type.ts"
+import type { AgentHook } from "../agent-hook.page-type.types.ts"
 
 export const blockDestructiveGit = {
   id: "01a04e16-d380-7002-bd31-c3ca7eb9bdc8",

@@ -1,4 +1,4 @@
-import type { AgentHook } from "../agent-hook.page-type.ts"
+import type { AgentHook } from "../agent-hook.page-type.types.ts"
 
 export const clearReadsOnContextReplaced = {
   id: "01a04fa8-2878-7000-ab4d-25b94a3d14f6",

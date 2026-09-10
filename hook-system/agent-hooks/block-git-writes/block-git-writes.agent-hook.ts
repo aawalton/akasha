@@ -1,4 +1,4 @@
-import type { AgentHook } from "../agent-hook.page-type.ts"
+import type { AgentHook } from "../agent-hook.page-type.types.ts"
 
 export const blockGitWrites = {
   id: "01a04e16-d380-7003-9da6-e715140d0718",
