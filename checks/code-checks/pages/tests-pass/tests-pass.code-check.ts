@@ -185,7 +185,17 @@ export const testsPass = {
       statement:
         "That refusal says deleting a test nothing needs is the best way to make a file cheaper.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "No total holds a run, each test file being held to the ceiling its property states.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A total would fall only by having fewer tests rather than by any test being faster.",
+    },
   ],
-  check: { maxCpuSeconds: 300 },
-  audit: { maxCpuSeconds: 60 },
+  check: {},
+  audit: {},
 } as const satisfies CodeCheck
