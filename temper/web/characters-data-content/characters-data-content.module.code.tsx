@@ -21,7 +21,7 @@ import {
   useAllCharacterList,
   useCharacterLifecycle,
 } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
-import { useCompletionCharactersByUser } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
+import { useCompletionCharactersByUser } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"

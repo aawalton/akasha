@@ -12,11 +12,11 @@ import {
   useCompanionLifecycle,
   useCompanionList,
 } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { getBaseRoleName } from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
-import { useCompletionCompanions } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useMemo, useState, useTransition } from "react"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import type { SetTargetEntity } from "../set-target-dialog/set-target-dialog.module.code.tsx"

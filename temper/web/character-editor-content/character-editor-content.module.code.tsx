@@ -19,8 +19,8 @@ import {
   useCharacterLifecycle,
   useCharacterList,
 } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
+import { useCompletionCharacters } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
-import { useCompletionCharacters } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 import { buildId as toBuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"

@@ -17,9 +17,9 @@ import {
   useCompanionLifecycle,
   useCompanionList,
 } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
+import { useCompletionCompanions } from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
-import { useCompletionCompanions } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"

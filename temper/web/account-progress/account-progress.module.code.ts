@@ -1,3 +1,7 @@
+import type {
+  useAccountCompletion,
+  useCompletionCharacters,
+} from "akasha/temper/player-completion-ui/use-completion/use-completion.module.code.ts"
 import type { SubclassingSkillMorphProgressResult } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/skill-morphs/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 import type {
@@ -38,10 +42,6 @@ import type {
   AccountLoreProgress,
   AccountTributeProgress,
 } from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
-import type {
-  useAccountCompletion,
-  useCompletionCharacters,
-} from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useMemo } from "react"
 import type { CharacterProgressData } from "../character-progress/character-progress.module.code.ts"
 import type { CompletionCatalogs } from "../use-completion-catalogs/use-completion-catalogs.module.code.ts"

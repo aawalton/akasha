@@ -5,7 +5,7 @@ import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-gro
 import type {
   CompletionFilter,
   CompletionSortMode,
-} from "akasha/temper/temper-player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
+} from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 import { createContext, useContext } from "react"
 
 export interface CompletionToolbarContextValue {
