@@ -47,11 +47,14 @@ function stated(value: string | null): string | null {
   return value === "" ? null : value
 }
 
-export function flexInName(name: string): string | null {
-  const found = FLEX_HELD.exec(name)
+function parseFlexCapture(found: RegExpExecArray | null): string | null {
   if (found === null) return null
   const held = found[1]
   return held === undefined ? null : held
+}
+
+export function flexInName(name: string): string | null {
+  return parseFlexCapture(FLEX_HELD.exec(name))
 }
 
 function segments(nameable: NameableSeat, naming: SeatNaming): readonly (string | null)[] {
