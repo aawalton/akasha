@@ -1,6 +1,6 @@
-import type { ExternalId } from "../../../collections/externals/properties/external-id.text-property.ts"
 import type { Page } from "../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
+import type { ExternalId } from "../../collections/externals/properties/external-id.text-property.ts"
 import type { PlayedAt } from "../../track/daily/days/properties/played-at.instant-property.ts"
 import type { ChessBlack } from "./properties/chess-black.text-property.ts"
 import type { ChessCollection } from "./properties/chess-collection.text-property.ts"

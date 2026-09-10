@@ -1,5 +1,5 @@
-import type { Collection } from "../../collections/collection.page-type.types.ts"
-import type { ExternalId } from "../../collections/externals/properties/external-id.text-property.ts"
+import type { Collection } from "../../alan/collections/collection.page-type.types.ts"
+import type { ExternalId } from "../../alan/collections/externals/properties/external-id.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Config } from "./properties/config.file-property.ts"
 import type { ControlledEntityKind } from "./properties/controlled-entity-kind.select-property.ts"
