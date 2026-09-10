@@ -1,4 +1,4 @@
-import type { Collection } from "./collection.page-type.ts"
+import type { Collection } from "./collection.page-type.types.ts"
 import type { CollectionCompletion } from "./properties/collection-completion.computed-property.ts"
 import type { OwnLengthInWords } from "./properties/own-length-in-words.computed-property.ts"
 import type { OwnProgressInWords } from "./properties/own-progress-in-words.computed-property.ts"

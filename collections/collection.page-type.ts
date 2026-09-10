@@ -1,40 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
-import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"
-import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
-import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
-import type { CollectionType } from "./properties/collection-type.relation-property.ts"
-import type { CollectionUnit } from "./properties/collection-unit.relation-property.ts"
-import type { Following } from "./properties/following.boolean-property.ts"
-import type { OwnLength } from "./properties/own-length.number-property.ts"
-import type { OwnProgress } from "./properties/own-progress.number-property.ts"
-import type { PartOfCollections } from "./properties/part-of-collections.relation-property.ts"
-import type { PartsLengthInWords } from "./properties/parts-length-in-words.number-property.ts"
-import type { PartsProgressInWords } from "./properties/parts-progress-in-words.number-property.ts"
-import type { Position } from "./properties/position.number-property.ts"
-import type { Rank } from "./properties/rank.rank-property.ts"
-import type { Status } from "./properties/status.select-property.ts"
-import type { UnitWords } from "./properties/unit-words.number-property.ts"
-
-export type Collection = Page & {
-  author?: CollectionAuthor
-  completedAt?: CollectionCompletedAt
-  following?: Following
-  ownLength?: OwnLength
-  ownProgress?: OwnProgress
-  partOfCollections?: PartOfCollections
-  partsLengthInWords?: PartsLengthInWords
-  partsProgressInWords?: PartsProgressInWords
-  position?: Position
-  publishedAt?: CollectionPublishedAt
-  rank?: Rank
-  status?: Status
-  tags?: CollectionTags
-  unit?: CollectionUnit
-  unitWords?: UnitWords
-  collectionType?: CollectionType
-}
 
 export const collection = {
   id: "01a063de-2c60-7006-8395-50a12e499f8e",
@@ -185,4 +149,5 @@ export const collection = {
       statement: "A collection's own progress never runs past that collection's own length.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
