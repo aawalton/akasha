@@ -99,7 +99,7 @@ function logsUnder(one: Gathered, phase: Phase): string | undefined {
   return code === null ? undefined : `${groupOf(phase)}.${LOGS}`
 }
 
-function ranOver(one: Gathered, phase: Phase, cost: Cost): Judged | null {
+export function ranOver(one: Gathered, phase: Phase, cost: Cost): Judged | null {
   const ceiling = groupOf(phase) === AUDIT_GROUP ? one.auditCeiling : one.checkCeiling
   if (ceiling === undefined || ceiling === null) return null
   const spent = Number((cost.cpuSeconds + cost.childCpuSeconds).toFixed(3))

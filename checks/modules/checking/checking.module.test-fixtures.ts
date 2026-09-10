@@ -15,6 +15,8 @@ import { type Shadow, shadowAsked } from "@akasha/pages/shadow"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
+import type { Cost } from "../cost/check-cost.module.code.ts"
+import type { Gathered } from "./checking.module.code.ts"
 
 export const CHECK = "code-check"
 
@@ -75,6 +77,16 @@ export type Named = {
   readonly raw?: string
   readonly body: string
   readonly audit?: string
+  readonly checkCeiling?: number
+  readonly auditCeiling?: number
+}
+
+function ceilingsOf(one: Named): string {
+  const check =
+    one.checkCeiling === undefined ? "" : `  check: { maxCpuSeconds: ${one.checkCeiling} },\n`
+  const audit =
+    one.auditCeiling === undefined ? "" : `  audit: { maxCpuSeconds: ${one.auditCeiling} },\n`
+  return check + audit
 }
 
 export function rootWith(named: readonly Named[], filedUnder: PageType = CHECK_PAGE_TYPE): string {
@@ -95,6 +107,7 @@ export function rootWith(named: readonly Named[], filedUnder: PageType = CHECK_P
             `  runsOnWorktree: ${one.runsOn.includes("worktree")},\n` +
             `  runsOnDeploy: ${one.runsOn.includes("deploy")},\n` +
             `  runsOnAudit: ${one.runsOn.includes("audit")},\n`) +
+        ceilingsOf(one) +
         `}\n`
     )
     writeFileSync(join(root, `${at.slice(0, -".ts".length)}.code.ts`), one.body)
@@ -228,6 +241,51 @@ export const AUDITS_CHECK = [
 export const AUDITS_REFUSING = [
   { slug: AUDITS, runsOn: ["audit"], body: REFUSES_ALL, audit: AUDITS_ROOT },
 ]
+
+export const BURNS = "burns-cpu"
+
+const A_TICK = 20_000
+
+const BURNS_CPU =
+  "export function burnsCpu() {\n" +
+  "  const opened = process.cpuUsage()\n" +
+  "  for (;;) {\n" +
+  "    const spent = process.cpuUsage(opened)\n" +
+  `    if (spent.user + spent.system > ${A_TICK}) return []\n` +
+  "  }\n" +
+  "}\n"
+
+export const BURNS_CHECK = [{ slug: BURNS, runsOn: ["patch"], body: BURNS_CPU, checkCeiling: 0 }]
+
+export const GATHERED: Gathered = {
+  slug: BURNS,
+  page: checkAt(BURNS),
+  root: ROOT,
+  runsOn: ["patch"],
+  isInput: null,
+  run: () => [],
+}
+
+export function costing(own: number, child: number): Cost {
+  return {
+    runId: "one",
+    ranAt: "",
+    phase: "patch",
+    ran: BURNS,
+    wallMs: 0,
+    cpuSeconds: own,
+    childCpuSeconds: child,
+    peakBytes: 0,
+    residentBeforeBytes: 0,
+    peakAddedBytes: 0,
+    peakMeasured: true,
+    readCalls: 0,
+    writeCalls: 0,
+    readBytes: 0,
+    pathsChanged: 1,
+    refusals: 0,
+  }
+}
 
 export function checkAt(slug: string): string {
   return `akasha/checks-system/code-check/${slug}/${slug}.${CHECK}.ts`

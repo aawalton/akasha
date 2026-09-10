@@ -4,17 +4,28 @@ import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { idTakenFrom, indexTakenFrom } from "@akasha/indexes/testing"
 import { shadowAsked } from "@akasha/pages/shadow"
-import { checkPagesIn, checksAt, checksFor, checksIn, judgingBy } from "./checking.module.code.ts"
+import {
+  checkPagesIn,
+  checksAt,
+  checksFor,
+  checksIn,
+  judgingBy,
+  ranOver,
+} from "./checking.module.code.ts"
 import {
   ADMITS,
   ADMITS_CHECK,
   AUDITS_CHECK,
   AUDITS_REFUSING,
   BOTH_CHECKS,
+  BURNS,
+  BURNS_CHECK,
   CHECK_TYPE,
   checkAt,
   checkCodeAt,
   checksTakenFrom,
+  costing,
+  GATHERED,
   GONE_TS,
   HELD_CODE_AT,
   HELD_PAGE_AT,
@@ -292,6 +303,40 @@ test("`checksFor` names the checks that ran and `named` names every check the ga
   expect(gate.checksFor(overMd)).toEqual(["refuses-all"])
   expect(gate.checksFor(overBoth)).toEqual(["input-ts", "refuses-all"])
   expect((await gate.over(overMd)).map((one) => one.reason)).toEqual(["refused"])
+})
+
+test("a check over its ceiling refuses, and the refusal names the check's own page", async () => {
+  const root = rootHolding(BURNS_CHECK, [ONE_TS])
+  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [ONE_TS]))
+  expect(said.map((one) => one.path)).toEqual([checkAt(BURNS)])
+  expect(said[0]?.reason).toContain("over the 0 its page states, so what it judged does not land")
+})
+
+test("a check at its ceiling refuses nothing, and one over it names its own page", () => {
+  const one = { ...GATHERED, checkCeiling: 1 }
+  expect(ranOver(one, "patch", costing(0.6, 0.4))).toBe(null)
+  const said = ranOver(one, "patch", costing(1.2, 0))
+  expect(said?.path).toBe(checkAt(BURNS))
+  expect(said?.reason).toContain("spent 1.2 processor seconds judging this change, over the 1")
+})
+
+test("the time counted is the check's own together with what the check spawns", () => {
+  const one = { ...GATHERED, checkCeiling: 1 }
+  expect(ranOver(one, "patch", costing(0.9, 0.05))).toBe(null)
+  expect(ranOver(one, "patch", costing(0.05, 1.5))?.reason).toContain("spent 1.55 processor")
+})
+
+test("a group stating no ceiling refuses nothing however long its check runs", () => {
+  expect(ranOver(GATHERED, "patch", costing(600, 600))).toBe(null)
+  expect(ranOver({ ...GATHERED, checkCeiling: null }, "patch", costing(600, 600))).toBe(null)
+})
+
+test("the phase run decides which group states the ceiling", () => {
+  const one = { ...GATHERED, checkCeiling: 9, auditCeiling: 1 }
+  expect(ranOver(one, "patch", costing(2, 0))).toBe(null)
+  expect(ranOver(one, "worktree", costing(2, 0))).toBe(null)
+  expect(ranOver(one, "deploy", costing(2, 0))).toBe(null)
+  expect(ranOver(one, "audit", costing(2, 0))?.reason).toContain("over the 1 its page states")
 })
 
 test(
