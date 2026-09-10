@@ -1,4 +1,4 @@
-import type { SetLog } from "../set-log.page-type.ts"
+import type { SetLog } from "../set-log.page-type.types.ts"
 
 export const wednesdayLegs2026062485078a04WallSitSet1 = {
   id: "019efbfe-ec81-7d14-86ea-087c66a676d7",

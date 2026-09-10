@@ -1,4 +1,4 @@
-import type { SetLog } from "../set-log.page-type.ts"
+import type { SetLog } from "../set-log.page-type.types.ts"
 
 export const fridayPull2026070350a5aaeaBodyweightReverseLungeSet2 = {
   id: "019f2940-4328-710f-bf3e-9e2167f184f7",
