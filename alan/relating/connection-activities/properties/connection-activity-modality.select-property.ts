@@ -1,3 +1,4 @@
+import type { List } from "@akasha/pages/page-property"
 import type { SelectProperty } from "@akasha/pages/select-property"
 
 export const connectionActivityModality = {
@@ -10,4 +11,4 @@ export const connectionActivityModality = {
   values: ["audio", "digital-presence", "image", "presence", "text"],
 } as const satisfies SelectProperty
 
-export type ConnectionActivityModality = (typeof connectionActivityModality.values)[number]
+export type ConnectionActivityModality = List<(typeof connectionActivityModality.values)[number]>

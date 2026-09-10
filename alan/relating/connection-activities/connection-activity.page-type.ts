@@ -34,7 +34,7 @@ export type ConnectionActivity = Page & {
   connectionActivityIntensity: ConnectionActivityIntensity
   connectionActivityKindness: ConnectionActivityKindness
   connectionActivityMaturity: ConnectionActivityMaturity
-  connectionActivityModality: readonly ConnectionActivityModality[]
+  connectionActivityModality: ConnectionActivityModality
   connectionActivityModelBasis: ConnectionActivityModelBasis
   connectionActivityNovelty: ConnectionActivityNovelty
   connectionActivityPositivity: ConnectionActivityPositivity
