@@ -1,5 +1,3 @@
-import type { Code } from "@akasha/code/module/code"
-import type { Test } from "@akasha/code/module/test"
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { Entries } from "./properties/entries.file-property.ts"
@@ -9,8 +7,6 @@ import type { RunsOnPatch } from "./properties/runs-on-patch.boolean-property.ts
 import type { RunsOnWorktree } from "./properties/runs-on-worktree.boolean-property.ts"
 
 export type CodeCheck = Domain & {
-  code?: Code
-  test?: Test
   runsOnPatch: RunsOnPatch
   runsOnWorktree: RunsOnWorktree
   runsOnDeploy: RunsOnDeploy
@@ -94,8 +90,6 @@ export const codeCheck = {
   extends: ["page-type/domain"],
   loadedBy: "module/checking",
   properties: [
-    { pageProperty: "code-file-property/code", required: false, many: false },
-    { pageProperty: "code-file-property/test", required: false, many: false },
     { pageProperty: "module-property-group/decision", required: false, many: false },
     { pageProperty: "module-property-group/check", required: false, many: false },
     { pageProperty: "module-property-group/audit", required: false, many: false },
