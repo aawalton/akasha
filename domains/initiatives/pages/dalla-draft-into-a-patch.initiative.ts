@@ -7,13 +7,7 @@ export const dallaDraftIntoAPatch = {
   slug: "dalla-draft-into-a-patch",
   domain: "page-type/change",
   persona: "dalla",
-  intents: [
-    {
-      statement: "Each piece the asking module holds sits in a module answering for one concern.",
-      workingMemory:
-        "`asking.module.code.ts` holds six concerns: `mistaking` and `troubling` word a refusal, and nearly every command reaches them; `bytesAt`, `textOf` and `textAt` read a body off disk; `BREAK_GLASS` names a flag `command-flags` carries the rest of; `glassSaid`, `bypassedIn`, `unloadableIn` and `counted` word commit trailers; `puttingUpSaid` spells the command putting a subagent's page up; `MECHANICAL` is a change kind. The module page states this as a gap already.\n",
-    },
-  ],
+  intents: [],
   constraints: [
     "A read hands back the body at HEAD rather than the body the kept edits would leave.",
     "A warrant refuses a draft as it refuses a landing.",
