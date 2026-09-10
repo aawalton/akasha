@@ -1,9 +1,8 @@
 import { dataError, inputError } from "@akasha/errors-core/exit-code"
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { type Seated, seatRoster, seatsStanding } from "../seat-roster/seat-roster.module.code.ts"
 
 const UUID_HEX_LEN = 32
-
-const FULL_UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
 
 const HEX_ONLY_RE = /^[0-9a-f]+$/
 
@@ -33,7 +32,7 @@ export function isValidSeatName(candidate: string): boolean {
 }
 
 export function planSeatResolution(input: string): SeatHandle {
-  if (FULL_UUID_RE.test(input)) return { kind: "uuid", uuid: input.toLowerCase() }
+  if (lowerUuid(input.toLowerCase())) return { kind: "uuid", uuid: input.toLowerCase() }
   const clean = input.replace(/-/g, "").toLowerCase()
   if (clean.length > 0 && clean.length <= UUID_HEX_LEN && HEX_ONLY_RE.test(clean)) {
     return { kind: "prefix", prefix: clean }
@@ -130,7 +129,7 @@ export async function resolveSeatId(flagValue: string | undefined): Promise<stri
   if (candidate === undefined) {
     throw inputError("[ops] seat not named — pass --agent-id <uuid> or set the AGENT_ID env var")
   }
-  if (!FULL_UUID_RE.test(candidate)) {
+  if (!lowerUuid(candidate.toLowerCase())) {
     throw inputError(`[ops] invalid agent id (expected UUID): ${candidate}`)
   }
   return candidate
@@ -139,7 +138,7 @@ export async function resolveSeatId(flagValue: string | undefined): Promise<stri
 export async function resolveOptionalSeatId(flagValue: string | undefined): Promise<string | null> {
   const candidate = flagValue ?? fromEnv()
   if (candidate === undefined) return null
-  if (!FULL_UUID_RE.test(candidate)) {
+  if (!lowerUuid(candidate.toLowerCase())) {
     throw inputError(`[ops] invalid agent id (expected UUID): ${candidate}`)
   }
   return candidate
