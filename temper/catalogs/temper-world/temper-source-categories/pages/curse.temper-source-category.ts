@@ -1,4 +1,4 @@
-import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
+import type { TemperSourceCategory } from "../temper-source-category.page-type.types.ts"
 
 export const curse = {
   id: "019e3104-cc11-7b97-9c92-0a57b4258713",

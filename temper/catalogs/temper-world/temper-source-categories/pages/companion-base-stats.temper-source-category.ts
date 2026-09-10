@@ -1,4 +1,4 @@
-import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
+import type { TemperSourceCategory } from "../temper-source-category.page-type.types.ts"
 
 export const companionBaseStats = {
   id: "019e3104-cc12-7eb4-b431-8a8a818bc34b",

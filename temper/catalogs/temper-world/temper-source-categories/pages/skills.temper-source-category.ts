@@ -1,4 +1,4 @@
-import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
+import type { TemperSourceCategory } from "../temper-source-category.page-type.types.ts"
 
 export const skills = {
   id: "019e3104-cc0b-78bd-ab6e-341ad9f44cab",

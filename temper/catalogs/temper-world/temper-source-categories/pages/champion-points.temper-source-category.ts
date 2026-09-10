@@ -1,4 +1,4 @@
-import type { TemperSourceCategory } from "../temper-source-category.page-type.ts"
+import type { TemperSourceCategory } from "../temper-source-category.page-type.types.ts"
 
 export const championPoints = {
   id: "019e3104-cc0a-75f2-8476-93e86393e6a8",
