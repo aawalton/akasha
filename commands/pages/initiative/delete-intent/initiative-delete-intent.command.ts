@@ -50,7 +50,7 @@ export const initiativeDeleteIntent = {
     {
       invariantKind: "departure",
       statement:
-        "A statement more than one of those intents states is refused by the change rather than here.",
+        "A statement more than one intent states is refused by the change rather than here.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +70,7 @@ export const initiativeDeleteIntent = {
     },
     {
       invariantKind: "absence",
-      statement: "No check runs over what a run lands.",
+      statement: "No check runs over the change a run lands.",
     },
   ],
 } as const satisfies Command
