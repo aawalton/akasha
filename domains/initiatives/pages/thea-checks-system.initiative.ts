@@ -19,6 +19,11 @@ export const theaChecksSystem = {
         "code-tests hands the spawn a cpuCeiling, so the watcher kills the run at the cap and the number reported is the cap rather than the cost: two files costing 7.1 and 15.0 both said 5.1, already filed as a finding. Checks now run to the end and refuse after, which reports what the run truly cost. Tests take that road too, and the measure flag goes with it, having existed only to get a number no kill had truncated.",
     },
     {
+      statement: "A change appends lines to a file rather than handing that file over whole.",
+      workingMemory:
+        "Every mechanical change is whole-body: add-file-of-any-kind, add-file-code, add-file-page and the rest hand over the whole content of a path. A log is append-only, recordCost serialising one line and appending it, reading the file only for its size to know when to roll to the next part. Carrying 40292 rows of it through the change system means handing over 14.3MB of bodies for what are every one of them appends. Alan has this as a new type in the change union.",
+    },
+    {
       statement: "Every check is cheap enough for audit.",
       workingMemory:
         "Split off the patch sequence, which ends at turning a check on at patch. The cost over the whole repository is judged here. runsOnAudit is false on every check by Alan's call, an audit being asked for one check at a time. file-has-its-page over the whole tree read 120804 paths, 4.15s wall and 1.74GB peak added, but that count is the change's size rather than the check's own. file-length reads it in 1.9s but peaks 2.8GB. It cannot reach audit until no tracked file is unclaimed.",
