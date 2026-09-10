@@ -103,6 +103,38 @@ test("a specifier the naming does not name lands nowhere", () => {
   expect(landingOf(AT, "node:path", naming)).toBeNull()
 })
 
+test("a specifier matching a way in spelt with a star lands where that star says", () => {
+  const naming = new Map([["akasha/*", "*"]])
+  expect(landingOf(AT, "akasha/pages/page.page-type.types.ts", naming)).toBe(
+    "pages/page.page-type.types.ts"
+  )
+  expect(landingOf(AT, "akasha/one.ts", naming)).toBe("one.ts")
+})
+
+test("a way in spelt with a star carries the star's part onto that way in's target", () => {
+  const naming = new Map([["@akasha/indexes/*", "akasha/indexes/*"]])
+  expect(landingOf(AT, "@akasha/indexes/a/b/one.ts", naming)).toBe("akasha/indexes/a/b/one.ts")
+})
+
+test("a way in with no star names one specifier and nothing beneath that specifier", () => {
+  const naming = new Map([["@akasha/indexes", "akasha/pages-system/indexes/one.ts"]])
+  expect(landingOf(AT, "@akasha/indexes", naming)).toBe("akasha/pages-system/indexes/one.ts")
+  expect(landingOf(AT, "@akasha/indexes/shape", naming)).toBeNull()
+})
+
+test("a way in the naming names exactly is answered before any star is tried", () => {
+  const naming = new Map([
+    ["akasha/*", "*"],
+    ["akasha/one.ts", "elsewhere/two.ts"],
+  ])
+  expect(landingOf(AT, "akasha/one.ts", naming)).toBe("elsewhere/two.ts")
+})
+
+test("a way in spelt with a star whose target has no star lands nowhere", () => {
+  const naming = new Map([["akasha/*", "one.ts"]])
+  expect(landingOf(AT, "akasha/two.ts", naming)).toBeNull()
+})
+
 test("a relative specifier lands under the file holding it whatever the naming says", () => {
   const naming = new Map([["./two.ts", "akasha/elsewhere.ts"]])
   expect(landingOf("akasha/a/b/one.ts", "./two.ts", naming)).toBe("akasha/a/b/two.ts")

@@ -93,7 +93,7 @@ export const codeSpecifier = {
     {
       invariantKind: "absence",
       statement:
-        "A caller answering a specifier spelt from the root keeps that rule where the rule belongs.",
+        "No package is named here, so a specifier spelt from the root is answered by the naming alone.",
     },
     {
       invariantKind: "absence",
@@ -107,6 +107,33 @@ export const codeSpecifier = {
     {
       invariantKind: "departure",
       statement: "The source is parsed without parent links.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A way in whose key closes with a star names every specifier opening with the part before it.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The star is whatever the specifier has past that part, however many parts that is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Such a specifier lands where that key's target says, with the star's part carried onto it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in the naming names exactly is answered before any star is tried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in with no star names one specifier and nothing beneath that specifier.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A way in whose target closes with no star names no landing.",
     },
   ],
 } as const satisfies Module
