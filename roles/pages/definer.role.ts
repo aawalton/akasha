@@ -1,4 +1,4 @@
-import type { Role } from "../role.page-type.ts"
+import type { Role } from "../role.page-type.types.ts"
 
 export const definer = {
   id: "01a053c5-8d29-7025-8439-5c119ee2f12d",

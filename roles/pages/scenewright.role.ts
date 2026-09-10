@@ -1,4 +1,4 @@
-import type { Role } from "../role.page-type.ts"
+import type { Role } from "../role.page-type.types.ts"
 
 export const scenewright = {
   id: "01a053c5-8d2d-70a4-8ed2-c8c6f6cc611c",

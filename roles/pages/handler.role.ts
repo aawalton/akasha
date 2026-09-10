@@ -1,4 +1,4 @@
-import type { Role } from "../role.page-type.ts"
+import type { Role } from "../role.page-type.types.ts"
 
 export const handler = {
   id: "01a053c5-8d2a-7e24-96b7-b979c198e039",

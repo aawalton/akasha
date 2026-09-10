@@ -1,4 +1,4 @@
-import type { Role } from "../role.page-type.ts"
+import type { Role } from "../role.page-type.types.ts"
 
 export const companion = {
   id: "01a053c5-8d28-7a64-b583-0a00416d523b",

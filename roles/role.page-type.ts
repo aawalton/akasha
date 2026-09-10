@@ -1,10 +1,4 @@
-import type { Domain } from "../domains/domain.page-type.ts"
 import type { PageType } from "../pages/types/page-type.page-type.ts"
-import type { OnCall } from "../seat-system/seats/properties/on-call.boolean-property.ts"
-
-export type Role = Domain & {
-  onCall: OnCall
-}
 
 export const role = {
   id: "01a053b2-2c20-7e34-9306-65f44016381a",
@@ -107,4 +101,5 @@ export const role = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { Role } from "../role.page-type.ts"
+import type { Role } from "../role.page-type.types.ts"
 
 export const gameMaster = {
   id: "01a053c5-8d2a-7358-a19d-f3a1c5da0f75",
