@@ -34,7 +34,6 @@ export const alanWeb = {
     "module/alan-app-id",
     "module/alan-app-shell",
     "module/alan-auth-provider",
-    "module/alan-nav-icon-svg",
     "module/alan-nav-items",
     "module/alan-reader-neighbors",
     "module/alan-supabase-service-client",
