@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const paramountPlus = {
   id: "01a0655b-fcdc-7025-af2c-fe962d4f7c13",

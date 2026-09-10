@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const costco = {
   id: "01a0655b-fcdc-700e-8204-a1d269634adb",

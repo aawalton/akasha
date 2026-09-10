@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const venmo = {
   id: "01a0655b-fcdc-7030-98f5-ce9756495e03",

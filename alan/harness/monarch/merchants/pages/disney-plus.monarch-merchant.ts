@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const disneyPlus = {
   id: "01a0655b-fcdc-7012-806d-1cafeb8affc4",

@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const cardPayment = {
   id: "01a0655b-fcdc-7008-ab46-f56457fe75ef",

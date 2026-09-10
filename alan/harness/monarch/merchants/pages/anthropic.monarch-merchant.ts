@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const anthropic = {
   id: "01a0655b-fcdc-7004-98db-6c883de19ab8",

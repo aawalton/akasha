@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const ecoshield = {
   id: "01a0655b-fcdc-7013-8fef-20ca2f7a4461",

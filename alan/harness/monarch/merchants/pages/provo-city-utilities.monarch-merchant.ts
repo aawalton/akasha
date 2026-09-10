@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const provoCityUtilities = {
   id: "01a0655b-fcdc-7026-a08f-f62cf0eea71c",

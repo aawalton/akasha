@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const maverik = {
   id: "01a0655b-fcdc-701e-a3e1-58f95520ba8c",

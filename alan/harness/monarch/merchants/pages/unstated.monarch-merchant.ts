@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const unstated = {
   id: "01a0655b-fcdc-702e-9cdd-62d56a56585f",

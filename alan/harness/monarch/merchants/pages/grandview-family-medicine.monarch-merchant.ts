@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const grandviewFamilyMedicine = {
   id: "01a0655b-fcdc-7018-98c5-c8fbe4b2b0cf",

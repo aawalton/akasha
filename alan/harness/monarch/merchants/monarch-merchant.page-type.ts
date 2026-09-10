@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { MerchantPatterns } from "./properties/merchant-patterns.text-property.ts"
-
-export type MonarchMerchant = Page & {
-  title: Title
-  merchantPatterns: MerchantPatterns
-}
 
 export const monarchMerchant = {
   id: "01a0680c-3c00-700b-a937-4d1f6c8b310c",
@@ -53,4 +45,5 @@ export const monarchMerchant = {
       ],
     },
   ],
+  types: "ts",
 } as const satisfies PageType

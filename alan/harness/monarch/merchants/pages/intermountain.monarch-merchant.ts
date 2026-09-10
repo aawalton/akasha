@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const intermountain = {
   id: "01a0655b-fcdc-701a-86b0-bfa493dd0239",

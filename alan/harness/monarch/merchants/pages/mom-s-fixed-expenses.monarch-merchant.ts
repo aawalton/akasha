@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const momSFixedExpenses = {
   id: "01a0655b-fcdc-7020-aca7-2959e69f11ab",

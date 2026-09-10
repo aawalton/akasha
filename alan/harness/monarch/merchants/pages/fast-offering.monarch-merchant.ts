@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const fastOffering = {
   id: "01a0655b-fcdc-7015-ab15-1c285844c462",

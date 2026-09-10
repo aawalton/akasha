@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const questarGas = {
   id: "01a0655b-fcdc-7027-8d88-6f6a8e3f1f62",

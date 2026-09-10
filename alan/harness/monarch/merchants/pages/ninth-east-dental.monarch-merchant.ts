@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const ninthEastDental = {
   id: "01a0655b-fcdc-7023-b4c4-15dcfab2ed86",

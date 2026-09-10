@@ -1,4 +1,4 @@
-import type { MonarchMerchant } from "../monarch-merchant.page-type.ts"
+import type { MonarchMerchant } from "../monarch-merchant.page-type.types.ts"
 
 export const walmart = {
   id: "01a0655b-fcdc-7031-8b1e-fd182883ca8c",
