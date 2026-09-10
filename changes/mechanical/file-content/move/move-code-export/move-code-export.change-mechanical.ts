@@ -1,4 +1,4 @@
-import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
+import type { ChangeMechanical } from "../../../change-mechanical.page-type.types.ts"
 
 export const moveCodeExport = {
   id: "01a08799-4f75-7fb6-bcf9-3392494a57da",

@@ -1,4 +1,4 @@
-import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
+import type { ChangeMechanical } from "../../../change-mechanical.page-type.types.ts"
 
 export const renameFilePages = {
   id: "01a08335-76fe-7381-bcda-07d2b9c0f3d3",

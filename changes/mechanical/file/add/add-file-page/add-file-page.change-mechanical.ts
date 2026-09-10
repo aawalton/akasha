@@ -1,4 +1,4 @@
-import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
+import type { ChangeMechanical } from "../../../change-mechanical.page-type.types.ts"
 
 export const addFilePage = {
   id: "01a07976-d290-7a2a-b91c-bc7a0bc36dca",

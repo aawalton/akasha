@@ -1,6 +1,6 @@
 import type { PageType } from "../../../pages/types/page-type.page-type.ts"
 import type { ChangeTargetSubtype } from "../../properties/change-target-subtype.relation-property.ts"
-import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
+import type { ChangeMechanical } from "../change-mechanical.page-type.types.ts"
 
 export type ChangeMechanicalFolder = ChangeMechanical & {
   changeTargetType: "change-target-type/folder"

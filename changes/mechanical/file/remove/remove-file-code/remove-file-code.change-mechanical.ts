@@ -1,4 +1,4 @@
-import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
+import type { ChangeMechanical } from "../../../change-mechanical.page-type.types.ts"
 
 export const removeFileCode = {
   id: "01a07987-afc1-73bf-8a8e-9ba1cc6c5248",

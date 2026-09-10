@@ -1,5 +1,5 @@
 import type { PageType } from "../../../pages/types/page-type.page-type.ts"
-import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
+import type { ChangeMechanical } from "../change-mechanical.page-type.types.ts"
 
 export type ChangeMechanicalFileContent = ChangeMechanical & {
   changeTargetType: "change-target-type/file-content"

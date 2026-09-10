@@ -1,10 +1,4 @@
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { Change } from "../change.page-type.types.ts"
-import type { Guards } from "./properties/guards.relation-property.ts"
-
-export type ChangeMechanical = Change & {
-  guards?: Guards
-}
 
 export const changeMechanical = {
   id: "01a078e8-e0c0-7001-9d36-808d02d6c285",
@@ -50,4 +44,5 @@ export const changeMechanical = {
       statement: "An agent change reaches each of those three by composing the rungs beneath.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
