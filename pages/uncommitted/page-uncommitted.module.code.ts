@@ -17,7 +17,8 @@ import {
 } from "akasha/files/lock-holder/lock-holder.module.code.ts"
 import { exportedAs } from "../export-name/page-export-name.module.code.ts"
 import { partedIn, uncommittedAt } from "../file-name/page-file-name.module.code.ts"
-import { loadedFrom, type Value } from "../value/page-value.module.code.ts"
+import { loadedFrom } from "../value/page-value.module.code.ts"
+import type { Value } from "../value-reading/page-value-reading.module.code.ts"
 
 const HOLDS = "uncommitted"
 
