@@ -1,4 +1,4 @@
-import type { Seat } from "../seat.page-type.types.ts"
+import type { Seat } from "../../seat.page-type.types.ts"
 
 export const olwen = {
   id: "01a0878b-639b-7000-bb6a-dd3340827c67",

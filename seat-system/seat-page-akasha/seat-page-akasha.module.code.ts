@@ -11,7 +11,7 @@ const DIR = "seat-system/seats/pages"
 const SUFFIX = ".seat.ts"
 
 export function akashaSeatRelPath(seatName: string): string {
-  return `${DIR}/${seatName}${SUFFIX}`
+  return `${DIR}/${seatName}/${seatName}${SUFFIX}`
 }
 
 export function akashaSeatsDirIn(root: string): string {

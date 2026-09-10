@@ -75,24 +75,28 @@ export function akashaSeatPathForCaller(agentId: string): string | null {
 
 const SEAT_SUFFIX = ".seat.ts"
 
+function fileNameOf(page: string): string {
+  return page.slice(page.lastIndexOf("/") + 1)
+}
+
 export function akashaSeatSlugOf(agentId: string): string | null {
   const page = akashaSeatPathForAgent(agentId)
   if (page === null) return null
-  const name = page.slice(SEAT_DIR.length)
+  const name = fileNameOf(page)
   return name.endsWith(SEAT_SUFFIX) ? name.slice(0, -SEAT_SUFFIX.length) : null
 }
 
 export function akashaSeatsThatExist(): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const [id, path] of seatsThatExistInAkasha()) {
-    const name = path.slice(SEAT_DIR.length)
+    const name = fileNameOf(path)
     if (name.endsWith(SEAT_SUFFIX)) found.set(id, name.slice(0, -SEAT_SUFFIX.length))
   }
   return found
 }
 
 export function akashaSeatIdForName(name: string): string | null {
-  const at = `${SEAT_DIR}${name}${SEAT_SUFFIX}`
+  const at = `${SEAT_DIR}${name}/${name}${SEAT_SUFFIX}`
   for (const [id, path] of seatsThatExistInAkasha()) if (path === at) return id
   return null
 }

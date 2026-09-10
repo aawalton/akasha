@@ -1,4 +1,4 @@
-import type { Seat } from "../seat.page-type.types.ts"
+import type { Seat } from "../../seat.page-type.types.ts"
 
 export const nimue = {
   id: "01a081bf-5e17-7000-9dd9-4e001f01ce37",

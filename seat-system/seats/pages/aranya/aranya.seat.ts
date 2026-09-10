@@ -1,4 +1,4 @@
-import type { Seat } from "../seat.page-type.types.ts"
+import type { Seat } from "../../seat.page-type.types.ts"
 
 export const aranya = {
   id: "01a06cf3-4196-7000-b027-4bdf82d518a6",

@@ -35,12 +35,12 @@ export function seatRoot(): string {
 }
 
 export function nameOf(page: string): string {
-  const bare = page.startsWith(SEAT_DIR) ? page.slice(SEAT_DIR.length) : page
+  const bare = page.slice(page.lastIndexOf("/") + 1)
   return bare.endsWith(SEAT_TAIL) ? bare.slice(0, -SEAT_TAIL.length) : bare
 }
 
 export function seatPathForName(name: string): string {
-  return `${SEAT_DIR}${name}${SEAT_TAIL}`
+  return `${SEAT_DIR}${name}/${name}${SEAT_TAIL}`
 }
 
 export function holderIn(told: unknown): Holder | null {
