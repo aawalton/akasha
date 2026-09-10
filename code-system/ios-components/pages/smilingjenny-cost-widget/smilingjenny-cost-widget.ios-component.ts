@@ -22,6 +22,14 @@ export const smilingjennyCostWidget = {
     },
     {
       invariantKind: "departure",
+      statement: "The caption counts down to the rung the surplus is about to fall past.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which moment that is comes off the feed rather than being worked out here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A refused fetch tells Jenny to update the app rather than showing no signal.",
     },
     {

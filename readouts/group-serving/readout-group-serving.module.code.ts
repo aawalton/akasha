@@ -1,5 +1,6 @@
 import { askingFor } from "@akasha/pages/service/calling"
 import { READOUT_CACHE_CONTROL } from "../credential/readout-credential.module.code.ts"
+import { fallsPastAt } from "../falling-past/readout-falling-past.module.code.ts"
 import { stated } from "../none-left/readout-none-left.module.code.ts"
 import {
   type HeldReading,
@@ -41,6 +42,7 @@ export type Stoplight = {
   readonly figureOffScale?: boolean
   readonly takenAt?: string
   readonly fallsPerHour?: number
+  readonly fallsPastAt?: string
 }
 
 export type Values = Readonly<Record<string, unknown>>
@@ -64,10 +66,16 @@ function wireKeyed(wireKeyName: string, wireKey: string): Pick<Stoplight, "habit
 }
 
 export function fallingWith(
-  reading: Extract<HeldReading, { held: "fresh" }>
-): Pick<Stoplight, "takenAt" | "fallsPerHour"> {
+  reading: Extract<HeldReading, { held: "fresh" }>,
+  rungs: readonly Rung[]
+): Pick<Stoplight, "takenAt" | "fallsPerHour" | "fallsPastAt"> {
   if (reading.fallsPerHour === 0) return {}
-  return { takenAt: reading.at, fallsPerHour: reading.fallsPerHour }
+  const past = fallsPastAt(reading.value, reading.fallsPerHour, reading.at, rungs)
+  return {
+    takenAt: reading.at,
+    fallsPerHour: reading.fallsPerHour,
+    ...(past === null ? {} : { fallsPastAt: past }),
+  }
 }
 
 async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
@@ -115,7 +123,7 @@ export function stoplightWith(
     reading: readingSaid(reading.value),
     ...(reached.nextTier === null ? {} : { nextTier: reached.nextTier }),
     ...(reached.progress === null ? {} : { progress: reached.progress }),
-    ...fallingWith(reading),
+    ...fallingWith(reading, rungs),
   }
 }
 

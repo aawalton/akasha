@@ -1,5 +1,23 @@
+import Foundation
 import SwiftUI
 import WidgetKit
+
+// THE WAIT SHRINKS ONE SECOND PER SECOND, SO THE FEED SENDS AN INSTANT RATHER THAN A WAIT.
+//
+// The surplus falls at a steady rate while a block runs, so it reaches the rung under it at
+// `takenAt + (surplus - rung) / rate`. That moment holds no `now` in it: whatever the rate
+// is, the wait left at any clock reading is the moment less the clock, which loses exactly
+// one second for every second that passes. The phone therefore does no arithmetic with the
+// rate at all, and a rate of thirty-two is counted down as truly as a rate of one.
+//
+// A cost of nothing, a surplus that is not falling, and a surplus already under the lowest
+// rung all reach the phone carrying no instant, and the caption stays the readout's label.
+enum CostCountdown {
+    static func reaching(_ fallsPastAt: String?, _ now: Date) -> Date? {
+        guard let at = FallingReading.instant(fallsPastAt) else { return nil }
+        return at > now ? at : nil
+    }
+}
 
 struct CostResponse: Decodable {
     let stoplights: [HabitStoplight]

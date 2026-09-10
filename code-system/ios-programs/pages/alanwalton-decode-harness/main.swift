@@ -270,92 +270,29 @@ check(
     costCaption(costState(costPayload("green", "0.00"))) == "Cost",
     String(describing: costCaption(costState(costPayload("green", "0.00")))))
 
-let TOOK_AT = "2026-09-10T16:00:00.000Z"
-
-let fallInstant: ISO8601DateFormatter = {
-    let read = ISO8601DateFormatter()
-    read.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
-    return read
-}()
-
-let tookAt = fallInstant.date(from: TOOK_AT) ?? Date()
-
-let FALLS = #","takenAt":"\#(TOOK_AT)","fallsPerHour":1"#
-
-let RESTS = #","takenAt":"\#(TOOK_AT)","fallsPerHour":0"#
-
-func fallingBody(_ figure: String, _ extra: String) -> String {
-    #"{"stoplights":[{"habit":"surplus","tier":"green","label":"Surplus","reading":"\#(figure)"\#(extra)}]}"#
-}
-
-func fallingSurplus(_ extra: String, _ figure: String = "9.5") -> HabitStoplight? {
-    decodeSurplus(Data(fallingBody(figure, extra).utf8))?.surplus
-}
-
 func fallingUpkeep(_ extra: String) -> UpkeepStoplight? {
-    let body = Data(fallingBody("9.5", extra).utf8)
+    let body = Data(FallingChecks.body("9.5", extra).utf8)
     return (try? JSONDecoder().decode(UpkeepStoplightsResponse.self, from: body))?.stoplights.first
 }
 
-func drawnAfter(_ minutes: Double, _ extra: String, _ figure: String = "9.5") -> String? {
-    fallingSurplus(extra, figure)?.figure(asOf: tookAt.addingTimeInterval(minutes * 60))
-}
+for (name, held, saw) in FallingChecks.run() { check(name, held, saw) }
 
 check(
-    "a stoplight saying it falls with the clock decodes with its moment and its rate",
-    fallingSurplus(FALLS)?.takenAt == TOOK_AT && fallingSurplus(FALLS)?.fallsPerHour == 1
-        && fallingUpkeep(FALLS)?.fallsPerHour == 1,
-    String(describing: fallingSurplus(FALLS)))
+    "an upkeep circle saying it falls with the clock decodes with its rate",
+    fallingUpkeep(FallingChecks.FALLS)?.fallsPerHour == 1,
+    "the rate the feed sent")
 check(
-    "a stoplight saying it falls at nothing an hour decodes",
-    fallingSurplus(RESTS)?.fallsPerHour == 0 && fallingUpkeep(RESTS)?.fallsPerHour == 0,
+    "an upkeep circle saying it falls at nothing an hour decodes",
+    fallingUpkeep(FallingChecks.RESTS)?.fallsPerHour == 0,
     "a rate of nothing")
 check(
-    "a stoplight saying nothing of falling decodes carrying neither",
-    fallingSurplus("")?.takenAt == nil && fallingSurplus("")?.fallsPerHour == nil
-        && fallingUpkeep("")?.fallsPerHour == nil,
+    "an upkeep circle saying nothing of falling decodes carrying neither",
+    fallingUpkeep("") != nil && fallingUpkeep("")?.fallsPerHour == nil,
     "neither key sent")
-
-let fallSpellings: [(String, String?, String)] = [
-    ("a falling reading at the moment taken is the figure sent", drawnAfter(0, FALLS), "9.5"),
-    ("half an hour on has half an hour off it", drawnAfter(30, FALLS), "9"),
-    ("an hour on has an hour off it", drawnAfter(60, FALLS), "8.5"),
-    ("a reading falling at nothing an hour is drawn as sent", drawnAfter(60, RESTS), "9.5"),
-    ("a reading saying nothing of falling is drawn as sent", drawnAfter(60, ""), "9.5"),
-    ("a falling reading is drawn below zero rather than held there", drawnAfter(180, FALLS, "0.5"), "-2.5"),
-    ("a moment later than now takes nothing off the reading", drawnAfter(-60, FALLS), "9.5"),
-    (
-        "a reading falling twice as fast falls twice as far",
-        FallingReading.figure(
-            reading: "9.5", takenAt: TOOK_AT, fallsPerHour: 2,
-            now: tookAt.addingTimeInterval(1800)),
-        "8.5"
-    ),
-    (
-        "a moment that is no instant leaves the reading as sent",
-        FallingReading.figure(reading: "9.5", takenAt: "never", fallsPerHour: 1, now: tookAt),
-        "9.5"
-    ),
-    (
-        "an empty figure is left empty rather than read as a number",
-        FallingReading.figure(
-            reading: "", takenAt: TOOK_AT, fallsPerHour: 1,
-            now: tookAt.addingTimeInterval(3600)),
-        ""
-    ),
-]
-for (name, drew, want) in fallSpellings {
-    check(name, drew == want, "got \(String(describing: drew)), want \(want)")
-}
-
 check(
-    "a stoplight carrying no figure is left carrying none",
-    FallingReading.figure(reading: nil, takenAt: TOOK_AT, fallsPerHour: 1, now: tookAt) == nil,
-    "no figure at all")
-check(
-    "an instant with no fractional seconds is read too",
-    FallingReading.hoursSince("2026-09-10T16:00:00Z", tookAt.addingTimeInterval(3600)) == 1,
-    "a plain instant")
+    "an upkeep circle carrying the instant decodes rather than being refused",
+    fallingUpkeep(FallingChecks.SENT) != nil,
+    "a key the upkeep tile reads nothing from")
 
 print(failures == 0 ? "\nOK — \(assertions) assertions passed" : "\n\(failures) of \(assertions) assertions failed")
 exit(failures == 0 ? 0 : 1)

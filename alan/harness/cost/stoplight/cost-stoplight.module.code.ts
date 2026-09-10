@@ -15,11 +15,7 @@ import {
   noReading,
   type RingAdmission,
 } from "akasha/readouts/serving/readout-serving.module.code.ts"
-import {
-  BELOW_EVERY_RUNG,
-  readingSaid,
-  type TierColor,
-} from "akasha/readouts/tier/readout-tier.module.code.ts"
+import { BELOW_EVERY_RUNG, readingSaid } from "akasha/readouts/tier/readout-tier.module.code.ts"
 import { costColorAt } from "../color/cost-color.module.code.ts"
 
 const READOUT = "readout"
@@ -30,9 +26,9 @@ export const SURPLUS_READOUT = "upkeep-surplus"
 
 const NO_FIGURE = ""
 
-export async function surplusTierNow(
+export async function surplusNow(
   readingHeld: ReadingHeld = relayedReading
-): Promise<TierColor | null> {
+): Promise<Stoplight | null> {
   const asked = await askingFor({
     pageTypeSlug: READOUT,
     where: { slug: { is: SURPLUS_READOUT } },
@@ -42,13 +38,21 @@ export async function surplusTierNow(
   const [row] = asked.rows
   if (row === undefined) return null
 
-  const reached = await stoplightOf(row, HABIT, readingHeld)
-  return reached === null ? null : reached.tier
+  return await stoplightOf(row, HABIT, readingHeld)
+}
+
+export function countingDown(
+  cost: number,
+  surplus: Stoplight | null
+): Pick<Stoplight, "fallsPastAt"> {
+  if (!(cost > 0)) return {}
+  const past = surplus?.fallsPastAt
+  return past === undefined ? {} : { fallsPastAt: past }
 }
 
 export function costStoplightWith(
   row: Values,
-  surplus: TierColor | null,
+  surplus: Stoplight | null,
   readingHeld: ReadingHeld = relayedReading
 ): Stoplight | null {
   const label = stated(row.label)
@@ -69,8 +73,9 @@ export function costStoplightWith(
   return {
     habit: wireKey,
     label,
-    tier: costColorAt(reading.value, surplus),
+    tier: costColorAt(reading.value, surplus?.tier ?? null),
     reading: readingSaid(reading.value),
+    ...countingDown(reading.value, surplus),
   }
 }
 
@@ -83,7 +88,7 @@ export async function costStoplights(
   })
   if ("refused" in asked) return []
 
-  const surplus = await surplusTierNow(readingHeld)
+  const surplus = await surplusNow(readingHeld)
 
   const stoplights: Stoplight[] = []
   for (const row of inPlaceOrder(asked.rows)) {

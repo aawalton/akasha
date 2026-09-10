@@ -246,6 +246,53 @@ test("nothing between here and the tile is allowed to keep an answer", async () 
   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
 })
 
+function fellPast(took: Date, hours: number): string {
+  return new Date(took.getTime() + hours * 3_600_000).toISOString()
+}
+
+function falling(cost: number, hours: number, rate: number): Date {
+  const took = new Date()
+  relayedFor(COST, cost, took)
+  relayedFor(SURPLUS, hours, took, rate)
+  return took
+}
+
+test("a cost above nothing carries the instant the surplus reaches the rung under it", async () => {
+  const took = falling(0.5, 9, 1)
+  expect((await oneDrawn())?.fallsPastAt).toBe(fellPast(took, 5))
+})
+
+test("the wait is divided by the rate the surplus falls at rather than by the cost", async () => {
+  const took = falling(0.5, 9, 2)
+  expect((await oneDrawn())?.fallsPastAt).toBe(fellPast(took, 2.5))
+})
+
+test("a cost of nothing carries no instant", async () => {
+  falling(0, 9, 1)
+  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
+})
+
+test("a surplus falling at nothing an hour leaves the cost carrying no instant", async () => {
+  falling(0.5, 9, 0)
+  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
+})
+
+test("a surplus at the lowest rung leaves the cost carrying no instant", async () => {
+  falling(0.5, -12, 1)
+  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
+})
+
+test("a cost carried with no surplus beside it carries no instant", async () => {
+  relayedFor(COST, 0.5)
+  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
+})
+
+test("a surplus older than the window leaves the cost carrying no instant", async () => {
+  relayedFor(COST, 0.5)
+  relayedFor(SURPLUS, 9, agedOut(), 1)
+  expect((await oneDrawn())?.fallsPastAt).toBeUndefined()
+})
+
 test("a caller wanting the colors without a route asks for them on their own", async () => {
   costing(0.5, 5)
   const held = await costStoplights()

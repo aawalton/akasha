@@ -20,5 +20,13 @@ export const alanwaltonCostWidget = {
       invariantKind: "departure",
       statement: "A cost carries no tier above and no fraction climbed, so no arc is drawn.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The caption counts down to the rung the surplus is about to fall past.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which moment that is comes off the feed rather than being worked out here.",
+    },
   ],
 } as const satisfies IosComponent

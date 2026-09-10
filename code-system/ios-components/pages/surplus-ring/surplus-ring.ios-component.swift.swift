@@ -21,8 +21,14 @@ enum FallingReading {
 
     private static let plain = ISO8601DateFormatter()
 
+    // EVERY INSTANT THE FEED SENDS IS READ HERE, SO NO TILE READS ONE ITS OWN WAY.
+    static func instant(_ said: String?) -> Date? {
+        guard let said else { return nil }
+        return withFraction.date(from: said) ?? plain.date(from: said)
+    }
+
     static func hoursSince(_ takenAt: String, _ now: Date) -> Double? {
-        let took = withFraction.date(from: takenAt) ?? plain.date(from: takenAt)
+        let took = instant(takenAt)
         guard let took else { return nil }
         let seconds = now.timeIntervalSince(took)
         return seconds <= 0 ? 0 : seconds / 3600
@@ -88,6 +94,9 @@ struct SurplusRing: View {
     let nextTier: Tier?
     let progress: Double?
 
+    // A TILE HANDING IN A MOMENT HAS ITS CAPTION COUNT DOWN TO THAT MOMENT INSTEAD.
+    var until: Date? = nil
+
     private var arc: (tier: Tier, progress: Double)? {
         guard let nextTier, let progress, progress > 0 else { return nil }
         return (nextTier, progress)
@@ -104,7 +113,8 @@ struct SurplusRing: View {
                 spacing: SPACING_2,
                 text: caption,
                 font: .system(size: 13, weight: .medium),
-                style: AnyShapeStyle(Color(.secondaryLabel))
+                style: AnyShapeStyle(Color(.secondaryLabel)),
+                until: until
             ),
             glow: RingGlow(
                 color: tier == .blue ? Color(.systemBlue).opacity(0.40) : .clear,

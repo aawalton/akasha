@@ -18,6 +18,7 @@ export const readout = {
     "module/readout-group-serving",
     "module/readout-serving",
     "module/readout-credential",
+    "module/readout-falling-past",
     "module/readout-none-left",
     "module/readout-reading",
     "module/readout-relay",

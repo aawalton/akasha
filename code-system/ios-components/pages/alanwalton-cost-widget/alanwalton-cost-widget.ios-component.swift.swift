@@ -41,7 +41,8 @@ struct CostHomeView: View {
             reading: cost?.reading,
             caption: costCaption(entry.state),
             nextTier: cost?.nextTier,
-            progress: cost?.progress
+            progress: cost?.progress,
+            until: CostCountdown.reaching(cost?.fallsPastAt, entry.date)
         )
     }
 }

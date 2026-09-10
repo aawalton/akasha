@@ -160,6 +160,18 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
+      statement: "A falling stoplight carries the instant it reaches the rung under it as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which instant that is comes from the falling-past module rather than from here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A falling reading with no rung under it carries no instant.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The tier and the fraction climbed are read at the moment the reading was taken.",
     },
     {

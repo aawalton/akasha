@@ -11,6 +11,7 @@ struct HabitStoplight: Decodable, Hashable {
     var figureOffScale: Bool? = nil
     var takenAt: String? = nil
     var fallsPerHour: Double? = nil
+    var fallsPastAt: String? = nil
 }
 
 extension HabitStoplight {

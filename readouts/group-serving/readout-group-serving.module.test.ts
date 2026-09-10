@@ -405,6 +405,7 @@ test("a stoplight whose reading falls with the clock carries the moment and the 
   const [one] = await stoplights()
   expect(one?.takenAt).toBe(took.toISOString())
   expect(one?.fallsPerHour).toBe(2)
+  expect(one?.fallsPastAt).toBe(new Date(took.getTime() + 900_000).toISOString())
 })
 
 test("a stoplight whose reading falls at nothing an hour carries neither", async () => {

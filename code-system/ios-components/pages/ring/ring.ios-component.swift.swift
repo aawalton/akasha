@@ -24,6 +24,13 @@ struct RingCaption {
     let text: String?
     let font: Font
     let style: AnyShapeStyle
+
+    // A CAPTION COUNTING DOWN NAMES THE MOMENT IT COUNTS TO RATHER THAN THE WAIT LEFT.
+    //
+    // A tile is drawn once and left up until its timeline brings another, so a wait spelled
+    // into text would sit frozen at whatever it read when it was drawn. SwiftUI redraws a
+    // `Text` given a date on its own, so the moment is what is handed in.
+    var until: Date? = nil
 }
 
 struct RingGlow {
@@ -104,21 +111,28 @@ struct Ring<Figure: View>: View {
         captioned
     }
 
+    // A RING WITH NOTHING LEFT KEEPS ITS OWN WORDS RATHER THAN COUNTING.
     @ViewBuilder private var captioned: some View {
         if let caption {
             VStack(spacing: caption.spacing) {
                 figured
-                if let text = labelled(caption) {
-                    Text(text)
-                        .font(caption.font)
-                        .foregroundStyle(caption.style)
-                        .lineLimit(1)
-                        .minimumScaleFactor(0.6)
+                if let until = caption.until, noneLeft == nil {
+                    worded(Text(until, style: .relative) + Text(" Left"), caption)
+                } else if let text = labelled(caption) {
+                    worded(Text(text), caption)
                 }
             }
         } else {
             figured
         }
+    }
+
+    private func worded(_ words: Text, _ caption: RingCaption) -> some View {
+        words
+            .font(caption.font)
+            .foregroundStyle(caption.style)
+            .lineLimit(1)
+            .minimumScaleFactor(0.6)
     }
 
     private func labelled(_ caption: RingCaption) -> String? {

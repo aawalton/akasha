@@ -73,6 +73,33 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
+      statement: "A cost above nothing carries the instant the surplus reaches the rung under it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The instant carried is the surplus stoplight's own rather than one worked here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cost of nothing carries no instant, an hour of it costing Alan nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The wait is divided by the rate the surplus falls at rather than by the cost itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A cost above nothing means a surplus falling, the block priced being one it sums.",
+    },
+    {
+      invariantKind: "constraint",
+      statement:
+        "An instant sent before a block opened is wrong until the surplus is served again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "No stoplight carries a tier above or a fraction climbed, there being no scale.",
     },
     {
