@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { relayed } from "../run-relaying/run-relaying.module.code.ts"
 import { NO_CODE } from "../running/running.module.code.ts"
 
@@ -20,14 +21,14 @@ test("a process the server starts runs where the caller says", () => {
 
 test("an environment stated replaces the environment the server was given", () => {
   const done = relayed(["printenv", "AKASHA_RELAY_PROBE"], {
-    env: { PATH: process.env.PATH, AKASHA_RELAY_PROBE: "here" },
+    env: { PATH: optionalEnv("PATH"), AKASHA_RELAY_PROBE: "here" },
   })
   expect(new TextDecoder().decode(done.out)).toBe("here\n")
 })
 
 test("an entry stated as undefined means the name is unset rather than dropped", () => {
   const done = relayed(["sh", "-c", "printenv AKASHA_RELAY_PROBE; printf gone=$?"], {
-    env: { PATH: process.env.PATH, AKASHA_RELAY_PROBE: undefined },
+    env: { PATH: optionalEnv("PATH"), AKASHA_RELAY_PROBE: undefined },
   })
   expect(new TextDecoder().decode(done.out)).toBe("gone=1")
 })
