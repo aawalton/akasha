@@ -98,6 +98,7 @@ export const lualib = {
     "lualib/string-trim-end",
     "lualib/string-trim-start",
     "lualib/type-of",
+    "lualib/using",
     "lualib/weak-map",
     "lualib/weak-set",
   ],
