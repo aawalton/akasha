@@ -40,6 +40,14 @@ export const renamePageAddress = {
       invariantKind: "absence",
       statement: "A slug naming the page without its page type is left as that slug is.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An address naming a scope between the page type and the slug is one address.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address naming no scope leaves a body spelling a scoped address alone.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

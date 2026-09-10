@@ -154,3 +154,34 @@ test("the address a page already carries is refused", () => {
 
   expect(said.refused).toContain("already carries")
 })
+
+const SCOPED_WAS = ["held-kind", "held-scope", "held-one"].join("/")
+
+const SCOPED_NOW = ["held-kind", "held-scope", "held-other"].join("/")
+
+const SCOPED_AT = "akasha/held/three/held-three.held-kind.ts"
+
+const SCOPED_BODY = `export const heldThree = {
+  partOfCollections: ["${SCOPED_WAS}"],
+}
+`
+
+test("an address naming a scope between the page type and the slug is restated", () => {
+  const world = worldOf({ [SCOPED_AT]: SCOPED_BODY })
+  const said = renamePageAddress(world, { was: SCOPED_WAS, now: SCOPED_NOW })
+
+  expect(bodyOf(said, world, SCOPED_AT)).toContain(`["${SCOPED_NOW}"]`)
+})
+
+test("an address naming no scope leaves a body spelling a scoped address alone", () => {
+  const said = renamePageAddress(worldOf({ [SCOPED_AT]: SCOPED_BODY }), { was: WAS, now: NOW })
+
+  expect(said.refused).toBe(null)
+  expect(said.edits).toHaveLength(0)
+})
+
+test("a name with more parts than a page type, a scope and a slug is refused", () => {
+  const said = renamePageAddress(worldOf({}), { was: `${SCOPED_WAS}/held-more`, now: SCOPED_NOW })
+
+  expect(said.refused).toContain("is no address")
+})

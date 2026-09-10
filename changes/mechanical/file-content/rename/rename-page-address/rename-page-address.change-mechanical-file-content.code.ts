@@ -14,9 +14,11 @@ import type { World } from "../../../../modules/shadow/change-shadow.module.code
 
 const TYPED = /\.tsx?$/
 
-const ADDRESS = /^[a-z][a-z0-9]*(-[a-z0-9]+)*\/[a-z][a-z0-9]*(-[a-z0-9]+)*$/
+const ADDRESS =
+  /^[a-z][a-z0-9]*(-[a-z0-9]+)*\/[a-z][a-z0-9]*(-[a-z0-9]+)*(\/[a-z][a-z0-9]*(-[a-z0-9]+)*)?$/
 
-const NO_ADDRESS = "is no address, an address being a page type and a slug parted by `/`"
+const NO_ADDRESS =
+  "is no address, an address being a page type and a slug parted by `/`, with the scope between them where a page type scopes its slug"
 
 export type RenamePageAddressAsked = {
   readonly was: string
