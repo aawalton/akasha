@@ -24,12 +24,16 @@ const CASES: Entried = {
   key: "cases",
   propertySlug: "cases",
   pageTypeSlug: "page-property-entry",
+  uncommitted: false,
 }
+
+const OUTSIDE: Entried = { ...CASES, uncommitted: true }
 
 const PROMPT: Entried = {
   key: "prompt",
   propertySlug: "prompt",
   pageTypeSlug: "text-property",
+  uncommitted: false,
 }
 
 function rooted(name: string, bodies: Readonly<Record<string, string>>): string {
@@ -138,6 +142,28 @@ test("reading stops at the first numbered file that is not there", () => {
   })
 
   expect(entriesAt(root, PAGE, "cases", "jsonl")).toEqual({ entries: [{ at: 1 }] })
+})
+
+test("a property held uncommitted is read from the files whose names say so", () => {
+  const root = rooted("akasha-entries-outside-", {
+    [PAGE]: "",
+    "akasha/one/held.model-test.cases.uncommitted.jsonl": '{"at":1}\n',
+    "akasha/one/held.model-test.cases.part2.uncommitted.jsonl": '{"at":2}\n',
+    "akasha/one/held.model-test.cases.jsonl": '{"at":9}\n',
+  })
+
+  expect(entriesAt(root, PAGE, "cases", "jsonl", true)).toEqual({
+    entries: [{ at: 1 }, { at: 2 }],
+  })
+  expect(entriedValue(root, PAGE, { cases: "jsonl" }, [OUTSIDE])).toEqual({
+    cases: [{ at: 1 }, { at: 2 }],
+  })
+})
+
+test("a property held uncommitted whose first file is not there holds no value", () => {
+  const root = rooted("akasha-entries-outside-gone-", { [PAGE]: "" })
+
+  expect(entriesAt(root, PAGE, "cases", "jsonl", true)).toEqual({ entries: [] })
 })
 
 test("a numbered file that will not read refuses the whole property", () => {

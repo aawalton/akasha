@@ -50,7 +50,16 @@ export const pageEntries = {
     },
     {
       invariantKind: "departure",
-      statement: "The first file of a property is refused where no file is there.",
+      statement:
+        "The first file of a property not held uncommitted is refused where no file is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property held uncommitted is read from the files whose names say so.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property held uncommitted whose first file is not there holds no value.",
     },
     {
       invariantKind: "departure",

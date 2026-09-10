@@ -1,8 +1,8 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { ENTRY_PROPERTY } from "@akasha/indexes/entries"
-import { besideAt } from "../file-name/page-file-name.module.code.ts"
-import { partsOf } from "../file-parts/page-file-parts.module.code.ts"
+import { besideAt, uncommittedBesideAt } from "../file-name/page-file-name.module.code.ts"
+import { partsOf, uncommittedPartsOf } from "../file-parts/page-file-parts.module.code.ts"
 import type { Value } from "../value/page-value.module.code.ts"
 
 const UNKNOWN = "so what the page carries there is unknown rather than nothing"
@@ -11,6 +11,7 @@ export type Entried = {
   readonly key: string
   readonly propertySlug: string
   readonly pageTypeSlug: string
+  readonly uncommitted: boolean
 }
 
 export type Rows = { readonly entries: readonly Value[] } | { readonly refused: string }
@@ -48,14 +49,27 @@ function filed(root: string, at: string): boolean {
   return found?.isFile() === true
 }
 
-export function entriesAt(root: string, page: string, propertySlug: string, held: string): Rows {
-  const first = besideAt(page, propertySlug, held)
+export function entriesAt(
+  root: string,
+  page: string,
+  propertySlug: string,
+  held: string,
+  uncommitted = false
+): Rows {
+  const first = uncommitted
+    ? uncommittedBesideAt(page, propertySlug, held)
+    : besideAt(page, propertySlug, held)
   if (first === null) return { refused: `'${page}' is no page file, ${UNKNOWN}` }
-  if (!filed(root, first)) {
+  const there = (one: string): boolean => filed(root, one)
+  if (!there(first)) {
+    if (uncommitted) return { entries: [] }
     return { refused: `'${first}' is named by the page beside it and no file is there, ${UNKNOWN}` }
   }
   const found: Value[] = []
-  for (const at of partsOf(page, propertySlug, held, (one) => filed(root, one))) {
+  const parts = uncommitted
+    ? uncommittedPartsOf(page, propertySlug, held, there)
+    : partsOf(page, propertySlug, held, there)
+  for (const at of parts) {
     const read = entriesIn(at, readFileSync(join(root, at), "utf8"))
     if ("refused" in read) return read
     found.push(...read.entries)
@@ -74,7 +88,7 @@ export function entriedValue(
   for (const one of entriedAmong(declared)) {
     const said = value[one.key]
     if (typeof said !== "string") continue
-    const read = entriesAt(root, page, one.propertySlug, said)
+    const read = entriesAt(root, page, one.propertySlug, said, one.uncommitted)
     if ("refused" in read) throw new Error(read.refused)
     held[one.key] = read.entries
     turned = true
