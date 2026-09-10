@@ -6,7 +6,7 @@ export const temperLibCharacterKnowledge = {
   type: "eso-addon",
   slug: "temper-lib-character-knowledge",
   definition: "what every character on every account knows how to make",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "knowledge-main",
   parts: [

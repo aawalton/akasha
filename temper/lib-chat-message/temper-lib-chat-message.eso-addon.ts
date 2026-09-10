@@ -6,7 +6,7 @@ export const temperLibChatMessage = {
   type: "eso-addon",
   slug: "temper-lib-chat-message",
   definition: "an addon library printing tagged chat messages and restoring chat across sessions",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "chat-message-main",
   parts: [

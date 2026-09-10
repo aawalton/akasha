@@ -6,7 +6,7 @@ export const temperLibAsync = {
   type: "eso-addon",
   slug: "temper-lib-async",
   definition: "a shared scheduler running other addons' work a slice at a time across frames",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "async-main",
   parts: [

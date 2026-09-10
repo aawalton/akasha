@@ -314,15 +314,6 @@
         "vite": "^8.0.3",
       },
     },
-    "temper/lib-async": {
-      "name": "@akasha/temper-lib-async",
-    },
-    "temper/lib-character-knowledge": {
-      "name": "@akasha/temper-lib-character-knowledge",
-    },
-    "temper/lib-chat-message": {
-      "name": "@akasha/temper-lib-chat-message",
-    },
     "temper/lib-custom-menu": {
       "name": "@akasha/temper-lib-custom-menu",
     },
@@ -455,12 +446,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
-
-    "@akasha/temper-lib-async": ["@akasha/temper-lib-async@workspace:temper/lib-async"],
-
-    "@akasha/temper-lib-character-knowledge": ["@akasha/temper-lib-character-knowledge@workspace:temper/lib-character-knowledge"],
-
-    "@akasha/temper-lib-chat-message": ["@akasha/temper-lib-chat-message@workspace:temper/lib-chat-message"],
 
     "@akasha/temper-lib-custom-menu": ["@akasha/temper-lib-custom-menu@workspace:temper/lib-custom-menu"],
 
