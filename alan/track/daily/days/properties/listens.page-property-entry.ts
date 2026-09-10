@@ -1,4 +1,4 @@
-import type { PagePropertyEntry } from "@akasha/pages/page-property-entry"
+import type { PagePropertyEntry } from "akasha/pages/property-entries/page-property-entry.page-type.types.ts"
 
 export type Listens = "jsonl"
 

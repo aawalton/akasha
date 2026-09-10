@@ -1,12 +1,4 @@
-import type { PageProperty } from "../types/page-properties/page-property.page-type.types.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { Properties } from "../types/properties/properties.record-property.ts"
-import type { RenderedAs } from "./properties/rendered-as.text-property.ts"
-
-export type PagePropertyEntry = PageProperty & {
-  properties: Properties
-  renderedAs?: RenderedAs
-}
 
 export const pagePropertyEntry = {
   id: "01a05f80-3969-7000-8ccd-6284909fc036",
@@ -60,4 +52,5 @@ export const pagePropertyEntry = {
       statement: "An entry's id is a uuid version 7 as a page's id is.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
