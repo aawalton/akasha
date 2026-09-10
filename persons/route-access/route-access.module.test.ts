@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/pages/service/page-calling/page-calling.module.code.ts"
+import { asObjectRecord } from "akasha/utils/narrow/as-object-record/as-object-record.module.code.ts"
 import {
   accountStatedBy,
   noNap,
@@ -16,9 +17,15 @@ import {
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
 
+function parseAsked(held: unknown): { readonly pageTypeSlug: string } {
+  const slug = asObjectRecord(held)?.["pageTypeSlug"]
+  if (typeof slug !== "string") throw new Error("the body a fetch was handed names no page type")
+  return { pageTypeSlug: slug }
+}
+
 function answeringByType(byType: Record<string, readonly Record<string, unknown>[]>): Fetcher {
   return async (_url, init) => {
-    const body = JSON.parse(String(init.body)) as { pageTypeSlug: string }
+    const body = parseAsked(JSON.parse(String(init.body)))
     const rows = byType[body.pageTypeSlug] ?? []
     return new Response(JSON.stringify({ rows }), {
       headers: { "content-type": "application/json" },
@@ -97,7 +104,7 @@ test("an account read to a person takes that person's grants", async () => {
 
 test("access pages that went unread open nothing", async () => {
   const fetcher: Fetcher = async (_url, init) => {
-    const body = JSON.parse(String(init.body)) as { pageTypeSlug: string }
+    const body = parseAsked(JSON.parse(String(init.body)))
     if (body.pageTypeSlug === "person") {
       return new Response(JSON.stringify({ rows: [{ slug: "jenny" }] }), {
         headers: { "content-type": "application/json" },
