@@ -37,19 +37,27 @@ export const readoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout says whether it moves with the index rather than naming a file there.",
+      statement: "A readout names the page types it reads a value in the commit from.",
     },
     {
       invariantKind: "departure",
-      statement: "An index event takes every readout moving with the index rather than some.",
+      statement: "A readout naming no page type reads nothing in the commit and moves with none.",
     },
     {
       invariantKind: "departure",
-      statement: "The index is followed for those events rather than read at each event.",
+      statement: "The file a page type's values are in is followed rather than the whole index.",
     },
     {
       invariantKind: "departure",
-      statement: "The folder the index is followed at is asked of the index rather than spelled.",
+      statement: "That file moving is answered by the readouts naming that page type and no other.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value file is followed rather than read at each event.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where the values of a page type are is asked of the index rather than spelled.",
     },
     {
       invariantKind: "departure",

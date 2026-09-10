@@ -23,6 +23,7 @@
     "./shape": "./shape/index-shape.module.code.ts",
     "./testing": "./reading/index-reading.module.test-fixtures.ts",
     "./tree-reading": "./tree-reading/tree-reading.module.code.ts",
+    "./value": "./value/index-value.index.code.ts",
     "./value/page": "./value/index-value.index.ts"
   },
   "dependencies": {

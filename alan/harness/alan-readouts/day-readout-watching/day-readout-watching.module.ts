@@ -26,7 +26,7 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout read off the day row moves with the index as well as with those files.",
+      statement: "A readout read off the day row moves with the day values too.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,15 @@ export const dayReadoutWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "The constitution counts food entry pages, so it moves with the index.",
+      statement: "The safety and the cost read the open block alone and move with no values.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The constitution counts food entries and moves with the food entry values.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "The food entry page type is spelled here rather than asked of its reader.",
     },
     {
       invariantKind: "departure",

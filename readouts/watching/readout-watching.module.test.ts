@@ -4,6 +4,8 @@ import {
   foldersOf,
   holdsAny,
   takingOf,
+  valueFileOf,
+  valuesOf,
   type WatchedReadout,
   type WatchSetup,
 } from "./readout-watching.module.code.ts"
@@ -17,6 +19,12 @@ const MADE_OF = `${FOLDER}/day-2026-09-10.day.uncommitted.ts`
 const BESIDE = `${FOLDER}/day-2026-09-10.day.health-samples.jsonl`
 
 const PAGE = "readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts"
+
+const OTHER_PAGE = "readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"
+
+const DAY = "day"
+
+const FOOD = "food-entry"
 
 const ALAN = "https://alanwalton.com"
 
@@ -169,7 +177,17 @@ test("a carry that fails to one site does not stop the carry to another site", a
   expect(held.said).toContain("INFO upkeep-sleep=7")
 })
 
-test("a readout moving with the index is taken again when the index moves", async () => {
+test("the value files followed are the ones the readouts read a page type from", () => {
+  const one = { ...watchedOf(() => Promise.resolve(1)), pageTypes: [DAY] }
+  const two = { ...watchedOf(() => Promise.resolve(2)), page: OTHER_PAGE, pageTypes: [FOOD] }
+  const three = watchedOf(() => Promise.resolve(3))
+  expect([...valuesOf(ROOT, [one, two, three])].sort()).toEqual(
+    [valueFileOf(ROOT, DAY), valueFileOf(ROOT, FOOD)].sort()
+  )
+  expect(valuesOf(ROOT, [three]).size).toBe(0)
+})
+
+test("a readout is taken again when the values of a page type it reads move", async () => {
   let takes = 0
   const held = setupOf({
     watched: [
@@ -178,13 +196,13 @@ test("a readout moving with the index is taken again when the index moves", asyn
           takes += 1
           return Promise.resolve(takes)
         }),
-        movesWithIndex: true,
+        pageTypes: [DAY],
       },
     ],
   })
   held.taking.open()
   await held.taking.settled()
-  held.taking.indexMoved()
+  held.taking.indexMoved([valueFileOf(ROOT, DAY)])
   await held.taking.settled()
   expect(takes).toBe(2)
   expect(held.written).toEqual([
@@ -193,7 +211,27 @@ test("a readout moving with the index is taken again when the index moves", asyn
   ])
 })
 
-test("a readout that does not move with the index is left alone by an index event", async () => {
+test("another page type's values moving takes nothing", async () => {
+  let takes = 0
+  const held = setupOf({
+    watched: [
+      {
+        ...watchedOf(() => {
+          takes += 1
+          return Promise.resolve(takes)
+        }),
+        pageTypes: [DAY],
+      },
+    ],
+  })
+  held.taking.open()
+  await held.taking.settled()
+  held.taking.indexMoved([valueFileOf(ROOT, "subagent")])
+  await held.taking.settled()
+  expect(takes).toBe(1)
+})
+
+test("a readout reading no page type is left alone by any value moving", async () => {
   let takes = 0
   const held = setupOf({
     watched: [
@@ -205,12 +243,12 @@ test("a readout that does not move with the index is left alone by an index even
   })
   held.taking.open()
   await held.taking.settled()
-  held.taking.indexMoved()
+  held.taking.indexMoved([valueFileOf(ROOT, DAY), valueFileOf(ROOT, FOOD)])
   await held.taking.settled()
   expect(takes).toBe(1)
 })
 
-test("an index event takes a readout no moved file would have taken", async () => {
+test("a value moving takes a readout no moved file would have taken", async () => {
   let takes = 0
   const held = setupOf({
     watched: [
@@ -220,7 +258,7 @@ test("an index event takes a readout no moved file would have taken", async () =
           return Promise.resolve(takes)
         }),
         holds: () => false,
-        movesWithIndex: true,
+        pageTypes: [FOOD],
       },
     ],
   })
@@ -229,7 +267,7 @@ test("an index event takes a readout no moved file would have taken", async () =
   held.taking.moved([MADE_OF, BESIDE])
   await held.taking.settled()
   expect(takes).toBe(1)
-  held.taking.indexMoved()
+  held.taking.indexMoved([valueFileOf(ROOT, FOOD)])
   await held.taking.settled()
   expect(takes).toBe(2)
 })

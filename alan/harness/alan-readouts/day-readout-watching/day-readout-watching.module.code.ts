@@ -12,6 +12,7 @@ import {
   watchReadings,
 } from "akasha/readouts/watching/readout-watching.module.code.ts"
 import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
+import { DAY_PAGE_TYPE } from "../../../track/daily/day-place/day-place.module.code.ts"
 import {
   CHARISMA_PAGE,
   CONSTITUTION_PAGE,
@@ -59,6 +60,12 @@ export const ROLL_NO_SOONER_MS = 60_000
 const BOTH_SITES: readonly string[] = [ALAN_SITE, JENNY_SITE]
 
 const HIS_SITE: readonly string[] = [ALAN_SITE]
+
+export const FOOD_ENTRY_PAGE_TYPE = "food-entry"
+
+const FROM_THE_DAY: readonly string[] = [DAY_PAGE_TYPE]
+
+const FROM_THE_FOOD: readonly string[] = [FOOD_ENTRY_PAGE_TYPE]
 
 export type DayFiles = {
   readonly folder: string
@@ -132,7 +139,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: SURPLUS_PAGE,
       folders,
       holds: dayRow,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_DAY,
       to: BOTH_SITES,
       take: (now) => takeSurplus(root, now),
     },
@@ -140,7 +147,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: SLEEP_PAGE,
       folders,
       holds: dayRow,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_DAY,
       to: BOTH_SITES,
       take: (now) => takeSleep(root, now),
     },
@@ -148,7 +155,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: CAPACITY_PAGE,
       folders,
       holds: dayRowAndStretches,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_DAY,
       to: BOTH_SITES,
       take: (now) => takeCapacity(root, now),
     },
@@ -156,7 +163,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: tasks,
       folders,
       holds: dayRow,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_DAY,
       to: HIS_SITE,
       take: async (now) => (await inboxes(now)).kept[tasks] ?? null,
     },
@@ -164,7 +171,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: STRENGTH_PAGE,
       folders,
       holds: dayRow,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_DAY,
       to: HIS_SITE,
       take: attributeAt(STRENGTH_PAGE),
     },
@@ -172,7 +179,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: ENDURANCE_PAGE,
       folders,
       holds: dayRow,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_DAY,
       to: HIS_SITE,
       take: attributeAt(ENDURANCE_PAGE),
     },
@@ -180,7 +187,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: WISDOM_PAGE,
       folders,
       holds: dayRow,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_DAY,
       to: HIS_SITE,
       take: attributeAt(WISDOM_PAGE),
     },
@@ -188,7 +195,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: INTELLIGENCE_PAGE,
       folders,
       holds: dayRow,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_DAY,
       to: HIS_SITE,
       take: attributeAt(INTELLIGENCE_PAGE),
     },
@@ -196,7 +203,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: CHARISMA_PAGE,
       folders,
       holds: dayRowAndStretches,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_DAY,
       to: HIS_SITE,
       take: attributeAt(CHARISMA_PAGE),
     },
@@ -204,7 +211,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       page: CONSTITUTION_PAGE,
       folders,
       holds: dayRow,
-      movesWithIndex: true,
+      pageTypes: FROM_THE_FOOD,
       to: HIS_SITE,
       take: attributeAt(CONSTITUTION_PAGE),
     },
