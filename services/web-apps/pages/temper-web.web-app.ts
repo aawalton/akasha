@@ -8,6 +8,8 @@ export const temperWeb = {
   definition: "the parts of Temper that run in a browser",
   sourceDirectory: "temper/temper-web",
   buildCommand: "bun run build",
+  basePort: 3300,
+  secretResource: "temper-secrets",
   clusterServices: ["temper-web"],
   hostnames: ["tempereso.com", "www.tempereso.com"],
 } as const satisfies WebApp

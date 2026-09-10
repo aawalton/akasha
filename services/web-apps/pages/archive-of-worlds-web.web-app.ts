@@ -8,6 +8,8 @@ export const archiveOfWorldsWeb = {
   definition: "the site published original stories are read on",
   sourceDirectory: "products/archive-of-worlds/web",
   buildCommand: "bun run build",
+  basePort: 3500,
+  secretResource: "archive-of-worlds-secrets",
   clusterServices: ["archive-of-worlds-web"],
   hostnames: ["archiveofworlds.app"],
 } as const satisfies WebApp

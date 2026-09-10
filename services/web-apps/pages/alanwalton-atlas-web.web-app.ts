@@ -8,6 +8,8 @@ export const alanwaltonAtlasWeb = {
   definition: "the website drawing Alan's map and taking in the locations his phone sends",
   sourceDirectory: "alan/atlas-web",
   buildCommand: "bun run build",
+  basePort: 3600,
+  secretResource: "alanwalton-secrets",
   clusterServices: ["alanwalton-atlas"],
   hostnames: ["atlas.alanwalton.com"],
 } as const satisfies WebApp

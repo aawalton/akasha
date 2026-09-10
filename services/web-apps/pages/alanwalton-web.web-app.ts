@@ -8,6 +8,8 @@ export const alanwaltonWeb = {
   definition: "Alan's command center on the web",
   sourceDirectory: "alan/web",
   buildCommand: "bun run build",
+  basePort: 3000,
+  secretResource: "alanwalton-secrets",
   clusterServices: ["alanwalton-web"],
   hostnames: [
     "alanwalton.com",

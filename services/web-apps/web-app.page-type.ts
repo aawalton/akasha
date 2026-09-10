@@ -14,9 +14,11 @@ export const webApp = {
     "module/dev-server-recording",
     "module/dev-server-stating",
     "module/dev-server-worktree",
+    "number-property/base-port",
     "relation-property/cluster-services",
     "text-property/build-command",
     "text-property/hostnames",
+    "text-property/secret-resource",
     "text-property/source-directory",
     "web-app/alanwalton-atlas-web",
     "web-app/alanwalton-web",
@@ -35,6 +37,8 @@ export const webApp = {
       maxCount: 20,
     },
     { pageProperty: "text-property/hostnames", required: false, many: true, maxCount: 20 },
+    { pageProperty: "text-property/secret-resource", required: true, many: false },
+    { pageProperty: "number-property/base-port", required: false, many: false },
   ],
   invariants: [
     {

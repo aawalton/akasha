@@ -8,6 +8,7 @@ export const smilingjennyWeb = {
   definition: "Jenny's command center on the web",
   sourceDirectory: "smilingjenny/web",
   buildCommand: "bun run build",
+  secretResource: "smilingjenny-secrets",
   clusterServices: ["smilingjenny-web"],
   hostnames: ["smilingjenny.me"],
 } as const satisfies WebApp
