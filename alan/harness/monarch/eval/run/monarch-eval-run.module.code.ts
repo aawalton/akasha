@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { readHistory } from "../../history/monarch-history.module.code.ts"
 import { loadCategoryRules } from "../../rule-documents/monarch-rule-documents.module.code.ts"
 import { categoryTitles, readFlags } from "../../rule-pages/monarch-rule-pages.module.code.ts"
@@ -81,7 +82,7 @@ if (import.meta.main) {
     throw new Error("--per-stratum takes a count")
   const again = flags.has("again")
   const said = flags.get("out")?.[0]
-  const home = process.env.HOME
+  const home = shape.string().optional().parse(process.env.HOME)
   if (said === undefined && (home === undefined || home === "")) {
     throw new Error(
       "$HOME is unset and --out names no path, so nothing says where the run file stands. A " +
