@@ -1,4 +1,4 @@
-import { slugsIn } from "akasha/pages/value/page-value.module.code.ts"
+import { slugOf } from "akasha/pages/value/page-value.module.code.ts"
 
 export interface QueryRow {
   readonly at: string
@@ -121,9 +121,9 @@ export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
     const at = atOf(row)
     const held = types.get(slug)
     const above = held?.extendsSlugs ?? []
-    const named = slugsIn(row.values["extends-slug"]).filter(
-      (one) => one !== NO_PARENT && !above.includes(one)
-    )
+    const said = textOf(row, "extends-slug")
+    const parent = said === null || said === NO_PARENT ? null : slugOf(said)
+    const named = parent === null || above.includes(parent) ? [] : [parent]
     types.set(slug, { slug, at: held?.at ?? at, extendsSlugs: [...above, ...named] })
   }
 
