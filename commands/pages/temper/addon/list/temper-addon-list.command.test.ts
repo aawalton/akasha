@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { valueAlsoFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { manifestFor } from "../../../../../temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
 import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import { temperAddonList } from "./temper-addon-list.command.code.ts"
@@ -11,7 +12,9 @@ afterAll(scratch.sweep)
 
 const FLAT = "TemperFlat"
 const NESTED = "TemperNested"
-const NESTED_DIR = "akasha/temper/temper-nested-addon"
+const NESTED_LEAF = "temper-nested-addon"
+const NESTED_DIR = `akasha/temper/${NESTED_LEAF}`
+const NESTED_PAGE = `${NESTED_DIR}/${NESTED_LEAF}.eso-addon.ts`
 
 function fixtureFor(): string {
   const root = scratch.rootFor("temper-list-root-")
@@ -29,8 +32,9 @@ function fixtureFor(): string {
   writeFileSync(join(nested, "addon.json"), manifestFor(NESTED))
   writeFileSync(
     join(nested, "package.json"),
-    JSON.stringify({ name: "@akasha/temper-nested-addon", dependencies: {} })
+    JSON.stringify({ name: `@akasha/${NESTED_LEAF}`, dependencies: {} })
   )
+  valueAlsoFiled(root, "eso-addon", [{ path: NESTED_PAGE, value: { slug: NESTED_LEAF } }])
   return root
 }
 

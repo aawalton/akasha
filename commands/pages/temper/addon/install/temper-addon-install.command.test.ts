@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { nothingFiled } from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import { temperAddonInstall } from "./temper-addon-install.command.code.ts"
@@ -36,6 +37,7 @@ function fixtureFor(
   const root = scratch.rootFor("temper-install-root-")
   const live = scratch.rootFor("temper-install-live-")
   writeFileSync(join(root, "package.json"), JSON.stringify({ name: "scratch", workspaces: [] }))
+  nothingFiled(root)
 
   const probeDir = join(root, "temper/addons", PROBE)
   mkdirSync(probeDir, { recursive: true })

@@ -2,6 +2,10 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { codeRoot } from "akasha/pages/code-root/code-root.module.code.ts"
+import {
+  nothingFiled,
+  valueAlsoFiled,
+} from "akasha/pages/indexes/reading/index-reading.module.test-fixtures.ts"
 import { manifestFor } from "../../../../../temper/commands/addon-fixture-manifest/addon-fixture-manifest.module.test-fixtures.ts"
 import { scratchWorld } from "../../../../modules/scratching/scratching.module.code.ts"
 import { temperAddonTypecheck } from "./temper-addon-typecheck.command.code.ts"
@@ -37,6 +41,7 @@ function rootFor(): string {
   )
   writeFileSync(join(root, "tsconfig.base.json"), JSON.stringify(BASE_SETTINGS, null, 2))
   symlinkSync(join(codeRoot(), "node_modules"), join(root, "node_modules"))
+  nothingFiled(root)
   return root
 }
 
@@ -48,7 +53,11 @@ type Held = {
 }
 
 function addonIn(root: string, name: string, held: Held): string {
-  const dir = join(root, "akasha/temper", held.folder)
+  const at = `akasha/temper/${held.folder}`
+  const dir = join(root, at)
+  valueAlsoFiled(root, "eso-addon", [
+    { path: `${at}/${held.folder}.eso-addon.ts`, value: { slug: held.folder } },
+  ])
   mkdirSync(dir, { recursive: true })
   writeFileSync(join(dir, "addon.json"), manifestFor(name))
   writeFileSync(
