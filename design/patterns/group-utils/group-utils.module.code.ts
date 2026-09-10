@@ -54,9 +54,9 @@ export function groupItems<T>(
     return 0
   })
 
-  return entries.map(([key, items]) => ({
+  return entries.map(([key, held]) => ({
     key,
     label: definition.getLabel(key),
-    items,
+    items: held,
   }))
 }

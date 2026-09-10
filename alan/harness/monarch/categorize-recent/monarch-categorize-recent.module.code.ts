@@ -42,7 +42,7 @@ export async function categorizeRecent(options: {
   let legs = 0
 
   for (const row of rows) {
-    const matched = rules.filter((rule) => clausesMatch(rule, row))
+    const matched = rules.filter((one) => clausesMatch(one, row))
     if (matched.length > 1) {
       contested.push(
         `${row.monarchId}  ${describe(row)}  — ${matched.map((one) => one.name).join(", ")}`
