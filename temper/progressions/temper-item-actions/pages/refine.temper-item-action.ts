@@ -1,4 +1,4 @@
-import type { TemperItemAction } from "../temper-item-action.page-type.ts"
+import type { TemperItemAction } from "../temper-item-action.page-type.types.ts"
 
 export const refine = {
   id: "01a071f0-4c86-72f2-9d33-e4fd765cf675",

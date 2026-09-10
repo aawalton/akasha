@@ -1,4 +1,4 @@
-import type { TemperItemAction } from "../temper-item-action.page-type.ts"
+import type { TemperItemAction } from "../temper-item-action.page-type.types.ts"
 
 export const deconstruct = {
   id: "01a071f0-4c83-71e2-94a3-f462adf5820c",

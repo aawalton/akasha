@@ -1,4 +1,4 @@
-import type { TemperItemAction } from "../temper-item-action.page-type.ts"
+import type { TemperItemAction } from "../temper-item-action.page-type.types.ts"
 
 export const list = {
   id: "01a071f0-4c85-705f-8d7c-29387f5b39ab",

@@ -1,4 +1,4 @@
-import type { TemperItemAction } from "../temper-item-action.page-type.ts"
+import type { TemperItemAction } from "../temper-item-action.page-type.types.ts"
 
 export const stock = {
   id: "01a071f0-4c86-735a-92fe-07fa9541b270",

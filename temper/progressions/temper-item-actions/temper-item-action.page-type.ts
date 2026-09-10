@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.types.ts"
-
-export type TemperItemAction = TemperProgressThing
 
 export const temperItemAction = {
   id: "01a071e1-92d5-7458-b0c0-499ac75aeb8b",
@@ -22,4 +19,5 @@ export const temperItemAction = {
       statement: "The title is the action a reader is shown.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

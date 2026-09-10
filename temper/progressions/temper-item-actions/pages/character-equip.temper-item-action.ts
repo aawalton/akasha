@@ -1,4 +1,4 @@
-import type { TemperItemAction } from "../temper-item-action.page-type.ts"
+import type { TemperItemAction } from "../temper-item-action.page-type.types.ts"
 
 export const characterEquip = {
   id: "01a071f0-4c82-73e1-9946-1dc48e9b2d78",

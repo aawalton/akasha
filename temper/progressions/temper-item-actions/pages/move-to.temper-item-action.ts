@@ -1,4 +1,4 @@
-import type { TemperItemAction } from "../temper-item-action.page-type.ts"
+import type { TemperItemAction } from "../temper-item-action.page-type.types.ts"
 
 export const moveTo = {
   id: "01a071f0-4c85-7772-9c83-1d70b2f35077",

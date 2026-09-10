@@ -1,4 +1,4 @@
-import type { TemperItemAction } from "../temper-item-action.page-type.ts"
+import type { TemperItemAction } from "../temper-item-action.page-type.types.ts"
 
 export const unlock = {
   id: "01a071f0-4c87-70b7-b714-09c3e0d7e0b9",

@@ -1,4 +1,4 @@
-import type { TemperItemAction } from "../temper-item-action.page-type.ts"
+import type { TemperItemAction } from "../temper-item-action.page-type.types.ts"
 
 export const sell = {
   id: "01a071f0-4c86-7bcb-99d3-fe4cbcfa326b",
