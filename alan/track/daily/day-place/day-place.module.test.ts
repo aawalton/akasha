@@ -51,12 +51,17 @@ const {
   sessionRowAt,
 } = await import("./day-place.module.code.ts")
 
+function parseDayName(found: RegExpExecArray | null): string | null {
+  const said = found?.[1]
+  return typeof said === "string" ? said : null
+}
+
 function daysOnDisk(): readonly string[] {
   if (!existsSync(CORPUS)) return []
   const found: string[] = []
   for (const name of readdirSync(CORPUS)) {
-    const day = DAY_PAGE.exec(name)
-    if (day !== null) found.push(day[1] as string)
+    const day = parseDayName(DAY_PAGE.exec(name))
+    if (day !== null) found.push(day)
   }
   return found.sort()
 }
