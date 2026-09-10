@@ -7,7 +7,7 @@ export const commandIsInTheRightFolder = {
   slug: "command-is-in-the-right-folder",
   definition:
     "the check refusing a command or a namespace whose folder is not the one its parts name",
-  runsOnChange: false,
+  runsOnChange: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: true,
@@ -49,12 +49,7 @@ export const commandIsInTheRightFolder = {
       invariantKind: "absence",
       statement: "No page type is named here beyond the two this tree is built from.",
     },
-    {
-      invariantKind: "gap",
-      statement: "This check judges at audit and does not yet judge a change as that change lands.",
-    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
-  experimental: true,
 } as const satisfies CodeCheck
