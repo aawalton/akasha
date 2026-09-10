@@ -38,6 +38,11 @@ export const nimueCodeCleanup = {
       workingMemory:
         "`file-has-its-page` reads a hardcoded `node_modules` today, and reading the property instead retires that constant and covers every build folder at once. `folder-matches-a-shape` has the same gap: it refuses the two ios app folders over their `www`, which is declared a build folder already. Both checks want the property rather than one.",
     },
+    {
+      statement: "Every container recipe is written by a generator rather than by hand.",
+      workingMemory:
+        "Nine Containerfiles hold twenty `COPY` lines naming a repository path, ten of those in `temper/watcher/image`. No check judges a Containerfile, and `folder-not-left-named` reads only TypeScript, so a folder move leaves each recipe stale in silence. `container-recipe` is gaining a module-property-group whose code writes the recipe. `recipe.file-property.ts` gains `generated` last, that flag reaching all nine recipes at once.",
+    },
   ],
   constraints: [
     "The relative addresses reaching into the folder are repointed inside the move rather than by a landing before it.",
