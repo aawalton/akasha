@@ -11,7 +11,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is held to the ceilings its page states.",
       workingMemory:
-        "module-property-group declares three scoped ceilings whose keys stay short, so a check page states check.maxCpuSeconds; instant-property-slug-closes-with-at states 10 and nothing reads it. membersIfNamed answers a group's members, which declarationsIfNamed hides for the group's own page. Left: page-matches-its-type judging the nested value, then checking refusing a run over its ceiling and sending the author to Alan for the speed or the ceiling.",
+        "module-property-group declares three scoped ceilings and a logs member, so a check page states check.maxCpuSeconds and its runs are recorded under check.logs. All 56 checks are held: 10 seconds at a change but typecheck 60 and page-matches-its-type 20, and 60 at audit. checking runs the check to the end, then refuses the landing and sends the author to Alan. Left: page-matches-its-type judging the nested value, and the reader keying the ceiling by phase rather than by which code ran.",
     },
     {
       statement: "Every test file is held to its ceiling by a refusal rather than by a kill.",
@@ -21,7 +21,7 @@ export const theaChecksSystem = {
     {
       statement: "A change appends lines to a file rather than handing that file over whole.",
       workingMemory:
-        "Every mechanical change is whole-body: add-file-of-any-kind, add-file-code, add-file-page and the rest hand over the whole content of a path. A log is append-only, recordCost serialising one line and appending it, reading the file only for its size to know when to roll to the next part. Carrying 40292 rows of it through the change system means handing over 14.3MB of bodies for what are every one of them appends. Alan has this as a new type in the change union.",
+        "Every mechanical change is whole-body: add-file-of-any-kind and the rest hand over the whole content of a path. A log is append-only, recordCost serialising one line and appending it. Carrying today's 40292 rows into the split logs meant handing over 14.3MB of bodies for what are every one of them appends, and it landed, so what is wanted is the cost rather than the reach. Alan has this as a new type in the change union.",
     },
     {
       statement: "Every check is cheap enough for audit.",
