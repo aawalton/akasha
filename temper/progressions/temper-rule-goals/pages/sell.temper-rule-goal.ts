@@ -1,4 +1,4 @@
-import type { TemperRuleGoal } from "../temper-rule-goal.page-type.ts"
+import type { TemperRuleGoal } from "../temper-rule-goal.page-type.types.ts"
 
 export const sell = {
   id: "01a071f5-ae75-7ad7-ab17-ab56df88bf7f",

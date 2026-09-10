@@ -1,4 +1,4 @@
-import type { TemperRuleGoal } from "../temper-rule-goal.page-type.ts"
+import type { TemperRuleGoal } from "../temper-rule-goal.page-type.types.ts"
 
 export const unlock = {
   id: "01a071f5-ae75-7e5f-8fb9-75c8e06177a1",

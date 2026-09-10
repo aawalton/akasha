@@ -1,4 +1,4 @@
-import type { TemperRuleGoal } from "../temper-rule-goal.page-type.ts"
+import type { TemperRuleGoal } from "../temper-rule-goal.page-type.types.ts"
 
 export const task = {
   id: "01a071f5-ae75-7ee4-9234-c3d53aae453c",

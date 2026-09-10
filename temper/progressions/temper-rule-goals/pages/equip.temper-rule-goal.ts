@@ -1,4 +1,4 @@
-import type { TemperRuleGoal } from "../temper-rule-goal.page-type.ts"
+import type { TemperRuleGoal } from "../temper-rule-goal.page-type.types.ts"
 
 export const equip = {
   id: "01a071f5-ae74-70f2-a6cf-061afdb8c173",

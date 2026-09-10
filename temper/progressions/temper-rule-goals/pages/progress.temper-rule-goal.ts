@@ -1,4 +1,4 @@
-import type { TemperRuleGoal } from "../temper-rule-goal.page-type.ts"
+import type { TemperRuleGoal } from "../temper-rule-goal.page-type.types.ts"
 
 export const progress = {
   id: "01a071f5-ae75-7a04-aef7-9d156b84f6c2",

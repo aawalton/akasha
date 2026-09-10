@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.types.ts"
-
-export type TemperRuleGoal = TemperProgressThing
 
 export const temperRuleGoal = {
   id: "01a071f5-62e6-7b98-ab84-2e3e9f91b5e3",
@@ -29,4 +26,5 @@ export const temperRuleGoal = {
       statement: "A rule wanting the item for nothing states no goal.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
