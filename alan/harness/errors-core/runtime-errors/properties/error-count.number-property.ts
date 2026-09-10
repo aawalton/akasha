@@ -1,6 +1,6 @@
 import type { NumberProperty } from "@akasha/pages/number-property"
 
-export type Count = number
+export type ErrorCount = number
 
 export const errorCount = {
   id: "01a05f3f-e3e0-79b8-92d7-8141ecd449e9",
