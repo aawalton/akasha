@@ -56,7 +56,6 @@ export const alanHarness = {
     "page-type/notification-feed",
     "domain/money",
     "page-type/calendar-event",
-    "page-type/calendar-event-source",
     "module/overdue-rolling",
     "workstation-service/overdue-rolling",
     "module/persona-points-rebuilding",
