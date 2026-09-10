@@ -2,7 +2,6 @@ import type { Page } from "../../../../pages/page.page-type.types.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { Bodyweight } from "../../../../persons/people/properties/bodyweight.number-property.ts"
 import type { ActiveCalories } from "./properties/active-calories.number-property.ts"
-import type { ActivityCalories } from "./properties/activity-calories.computed-property.ts"
 import type { BreathingPoints } from "./properties/breathing-points.number-property.ts"
 import type { CardioPoints } from "./properties/cardio-points.number-property.ts"
 import type { CompletedTasks } from "./properties/completed-tasks.page-property-entry.ts"
@@ -97,7 +96,6 @@ export type Day = Page & {
   sessions?: Sessions
   completedTasks?: CompletedTasks
   personaMessages?: PersonaMessages
-  activityCalories?: ActivityCalories
   strengthCalories?: StrengthCalories
   strengthVolume?: StrengthVolume
   faithLevel?: FaithLevel
