@@ -17,8 +17,25 @@ export const supervisorLogPath = {
       statement: "A supervisor's own folder is named for the id of its agent.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A path the kernel binds a socket at is at most 107 bytes.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The user's runtime directory is emptied when that user logs out.",
+    },
+    {
       invariantKind: "departure",
-      statement: "The socket the OAuth proxy is reached on stands in that folder.",
+      statement: "The socket the OAuth proxy is reached on is in the user's runtime directory.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That socket is named for its agent rather than held in a folder of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The runtime directory is worked out from the user rather than read from the environment.",
     },
     {
       invariantKind: "departure",

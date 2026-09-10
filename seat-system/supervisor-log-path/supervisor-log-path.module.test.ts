@@ -1,12 +1,31 @@
 import { expect, test } from "bun:test"
-import { supervisorSocketPath } from "./supervisor-log-path.module.code.ts"
+import { runtimeRootDir, supervisorSocketPath } from "./supervisor-log-path.module.code.ts"
 
-test("the proxy socket stands in the agent's own folder under the base named", () => {
-  expect(supervisorSocketPath("agent-7", "/var/tmp/base")).toBe(
-    "/var/tmp/base/agent-7/oauth-proxy.sock"
-  )
+const AGENT = "01a07eb0-c517-7000-9ee4-cfc39576ac24"
+
+const CEILING = 107
+
+const ELSEWHERE = "/somewhere/else"
+
+test("the proxy socket is named for its agent under the base named", () => {
+  expect(supervisorSocketPath("agent-7", "/var/tmp/base")).toBe("/var/tmp/base/akasha-agent-7.sock")
 })
 
-test("the socket is always named oauth-proxy.sock", () => {
-  expect(supervisorSocketPath("a", "/b").endsWith("/oauth-proxy.sock")).toBe(true)
+test("the socket a caller names no base for is in the runtime directory", () => {
+  expect(supervisorSocketPath(AGENT)).toBe(`${runtimeRootDir()}/akasha-${AGENT}.sock`)
+})
+
+test("the whole path is short enough for the kernel to bind", () => {
+  expect(supervisorSocketPath(AGENT).length).toBeLessThanOrEqual(CEILING)
+})
+
+test("the runtime directory is worked out from the user rather than read from the environment", () => {
+  const was = process.env.XDG_RUNTIME_DIR
+  process.env.XDG_RUNTIME_DIR = ELSEWHERE
+  try {
+    expect(supervisorSocketPath(AGENT).startsWith(ELSEWHERE)).toBe(false)
+  } finally {
+    if (was === undefined) delete process.env.XDG_RUNTIME_DIR
+    else process.env.XDG_RUNTIME_DIR = was
+  }
 })
