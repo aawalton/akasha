@@ -6,6 +6,7 @@ import {
   valuesOfType,
 } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { slugAt, slugsIn, textAt, type Value } from "akasha/pages/value/page-value.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { sayAnswer } from "../../../modules/answer-bytes/answer-bytes.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { AUTHOR } from "../../../modules/committing/committing.module.code.ts"
@@ -256,13 +257,13 @@ export function pageTree(argv: readonly string[], given: Given): Answer {
 }
 
 if (import.meta.main) {
-  const stated = process.env["AKASHA_ROOT"]
-  const said = process.env["AKASHA_WRITER"]
+  const stated = optionalEnv("AKASHA_ROOT")
+  const said = optionalEnv("AKASHA_WRITER")
   const answer = pageTree(process.argv.slice(2), {
-    root: stated === undefined || stated === "" ? rootOf(import.meta.path) : resolve(stated),
+    root: stated === undefined ? rootOf(import.meta.path) : resolve(stated),
     calledAs: "akasha page-tree",
     from: process.cwd(),
-    writer: said === undefined || said === "" ? AUTHOR : said,
+    writer: said ?? AUTHOR,
     agentId: writerIn(process.env),
   })
   if (answer.report.length > 0) sayAnswer(answer.report.map((one) => `${one}\n`).join(""))
