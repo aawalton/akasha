@@ -1,6 +1,6 @@
 import type { Domain } from "../../../../domains/domain.page-type.types.ts"
 import type { FigureOffScale } from "./properties/figure-off-scale.boolean-property.types.ts"
-import type { SortOrder } from "./properties/sort-order.text-property.ts"
+import type { SortOrder } from "./properties/sort-order.select-property.ts"
 
 export type ReadoutGroup = Domain & {
   sortOrder?: SortOrder

@@ -1,16 +1,15 @@
-import type { TextProperty } from "akasha/pages/text-properties/text-property.page-type.types.ts"
+import type { SelectProperty } from "../../../../../pages/select-properties/select-property.page-type.types.ts"
 
 export type SortOrder = "label" | "place"
 
 export const sortOrder = {
   id: "01a063bd-a526-7474-a7c9-3980d10c48b3",
-  pageTypeSlug: "text-property",
-  type: "text-property",
+  pageTypeSlug: "select-property",
+  type: "select-property",
   slug: "sort-order",
   propertySlug: "sort-order",
   definition: "whether a group draws its readings in label order or in place order",
-  maxLength: 100,
-  nameFormat: "name-format/lower-kebab-case",
+  values: ["label", "place"],
   invariants: [
     {
       invariantKind: "departure",
@@ -21,4 +20,4 @@ export const sortOrder = {
       statement: "Two readings sharing one place draw in label order between the two.",
     },
   ],
-} as const satisfies TextProperty
+} as const satisfies SelectProperty

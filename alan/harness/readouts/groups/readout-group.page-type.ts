@@ -18,12 +18,12 @@ export const readoutGroup = {
     "readout-group/surplus",
     "readout-group/upkeep",
     "readout-group/values",
-    "text-property/sort-order",
+    "select-property/sort-order",
   ],
   extends: ["page-type/domain"],
   properties: [
     {
-      pageProperty: "text-property/sort-order",
+      pageProperty: "select-property/sort-order",
       required: false,
       many: false,
       default: "label",
