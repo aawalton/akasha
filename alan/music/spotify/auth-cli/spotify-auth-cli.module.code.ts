@@ -13,7 +13,7 @@ import { SPOTIFY_SCOPE_STRING, SPOTIFY_SCOPES } from "../scopes/spotify-scopes.m
 
 const AUTHORIZE_URL = "https://accounts.spotify.com/authorize"
 
-const HERE = "alan/music/spotify/auth-cli/spotify-auth-cli.module.code.ts"
+const HERE = import.meta.path
 
 export type PkcePair = { readonly verifier: string; readonly challenge: string }
 

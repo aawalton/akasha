@@ -41,5 +41,9 @@ export const spotifyAuthCli = {
       invariantKind: "departure",
       statement: "A run naming no step runs the first step.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The call each step names is the file running rather than a path spelled here.",
+    },
   ],
 } as const satisfies Module

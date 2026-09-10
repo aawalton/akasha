@@ -180,8 +180,7 @@ function stringIdAssertionFor(file: string, distRoot: string | null): StringIdAs
   return ids.length === 0 ? null : { displayName: addonName, consumedIds: ids }
 }
 
-const CHECK_SCRIPT =
-  "temper/build-deploy-checks/check-addon-sandbox-load/check-addon-sandbox-load.module.code.ts"
+const CHECK_SCRIPT = import.meta.path
 
 export interface AddonSandboxLoadOptions {
   readonly singleFile: string | null

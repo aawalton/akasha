@@ -25,5 +25,9 @@ export const checkAddonSandboxLoad = {
       invariantKind: "constraint",
       statement: "A failing run names the build command and the call that runs one bundle alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "That call is the file running rather than a path spelled here.",
+    },
   ],
 } as const satisfies Module
