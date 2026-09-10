@@ -1,6 +1,6 @@
 import type { InstantProperty } from "@akasha/pages/instant-property"
 
-export type LastSeenAt = string
+export type DeviceTokenLastSeenAt = string
 
 export const deviceTokenLastSeenAt = {
   id: "01a05dc7-77dc-73b5-90f0-3a2845a662e6",
