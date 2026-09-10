@@ -4,6 +4,5 @@ export function pct(fraction: number): number {
 
 export function signedPct(syn: number): { text: string; negative: boolean } {
   const negative = syn < 0
-  const pct = Math.round(Math.abs(syn) * 100)
-  return { text: `${negative ? "−" : "+"}${pct}%`, negative }
+  return { text: `${negative ? "−" : "+"}${pct(Math.abs(syn))}%`, negative }
 }

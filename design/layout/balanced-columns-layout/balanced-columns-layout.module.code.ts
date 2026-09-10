@@ -8,7 +8,7 @@ function getAt<T>(arr: readonly T[], i: number): T {
   return v
 }
 function setAt<T>(
-  arr: { [i: number]: T; readonly length: number },
+  arr: { [at: number]: T; readonly length: number },
   i: number,
   value: T
 ): undefined {
