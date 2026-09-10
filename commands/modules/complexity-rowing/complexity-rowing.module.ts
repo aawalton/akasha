@@ -11,7 +11,11 @@ export const complexityRowing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A flag a command does not take is refused, naming the flags that command takes.",
+      statement: "A flag a command does not take is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal names the flags that command takes.",
     },
     {
       invariantKind: "departure",
