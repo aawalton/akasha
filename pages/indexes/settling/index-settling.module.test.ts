@@ -35,9 +35,11 @@ const RENAMED: Named = [
   },
 ]
 
-const CARRIER = aType("4", "widget", ["domain"], ["part-slugs"])
+const mortally = ([at, value]: Named): Named => [at, { ...value, mortal: true }]
 
-const CARRIER_AGAIN = aType("4", "widget", ["domain"], ["piece-slugs"])
+const CARRIER = mortally(aType("4", "widget", ["domain"], ["part-slugs"]))
+
+const CARRIER_AGAIN = mortally(aType("4", "widget", ["domain"], ["piece-slugs"]))
 
 const TARGET_PAGE: Named = ["b.domain.ts", { id: TARGET_ID, pageTypeSlug: "domain", slug: "b" }]
 
@@ -80,6 +82,27 @@ test("a rebuild from the pages agrees with the index a turned relation name left
   rebuiltFrom(tree, rebuilt, tree)
 
   expect(existsSync(edgeAt(root, "piece-slugs"))).toBe(true)
+  expect(existsSync(edgeAt(root, "part-slugs"))).toBe(false)
+  expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
+})
+
+test("a rebuild agrees with the index a page taken from under a name left", () => {
+  const tree = heldAt()
+  const root = heldAt()
+  const first = indexingAt(root, tree)
+  wrote(first, tree, [...IDENTIFIERS, NAMING, CARRIER, TARGET_PAGE, SOURCE_PAGE])
+  expect(first.settle()).toEqual([])
+  expect(existsSync(edgeAt(root, "part-slugs"))).toBe(true)
+
+  const second = indexingAt(root, tree)
+  const gone = join(tree, TARGET_PAGE[0])
+  second.took(gone, readFileSync(gone, "utf8"))
+  rmSync(gone)
+  expect(second.settle()).toEqual([])
+
+  const rebuilt = heldAt()
+  rebuiltFrom(tree, rebuilt, tree)
+
   expect(existsSync(edgeAt(root, "part-slugs"))).toBe(false)
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
 })

@@ -7,19 +7,19 @@ import {
   rosterIn,
 } from "./held-addon-names-a-roster-addon.code-check.decision.code.ts"
 
-const ADDON_PAGE = "temper/temper-lib-async/temper-lib-async.eso-addon.ts"
+const ADDON_PAGE = "temper/temper-hum-async/temper-hum-async.eso-addon.ts"
 
-const MANIFEST_AT = "temper/temper-lib-async/temper-lib-async.eso-addon.addon-manifest.json"
+const MANIFEST_AT = "temper/temper-hum-async/temper-hum-async.eso-addon.addon-manifest.json"
 
-const ELSEWHERE_PAGE = "temper/temper-lib-late/temper-lib-late.eso-addon.ts"
+const ELSEWHERE_PAGE = "temper/temper-hum-late/temper-hum-late.eso-addon.ts"
 
-const ELSEWHERE_AT = "temper/temper-lib-late/temper-lib-late.eso-addon.addon-manifest.json"
+const ELSEWHERE_AT = "temper/temper-hum-late/temper-hum-late.eso-addon.addon-manifest.json"
 
-const HELD_PAGE = "code-system/held-addons/pages/lib-async.held-addon.ts"
+const HELD_PAGE = "code-system/held-addons/pages/hum-async.held-addon.ts"
 
-const ADDON_VALUE: Value = { slug: "temper-lib-async", addonManifest: "json" }
+const ADDON_VALUE: Value = { slug: "temper-hum-async", addonManifest: "json" }
 
-const HELD_VALUE: Value = { addonName: "LibAsync", esoAddon: "temper-lib-async" }
+const HELD_VALUE: Value = { addonName: "HumAsync", esoAddon: "temper-hum-async" }
 
 function asking(
   paths: Readonly<Record<string, readonly string[]>>,
@@ -41,17 +41,17 @@ const PAGES = { "eso-addon": [ADDON_PAGE], "held-addon": [HELD_PAGE] }
 
 const VALUES = { [ADDON_PAGE]: ADDON_VALUE, [HELD_PAGE]: HELD_VALUE }
 
-const TEXTS = { [MANIFEST_AT]: '{ "name": "LibAsync" }' }
+const TEXTS = { [MANIFEST_AT]: '{ "name": "HumAsync" }' }
 
-const WHERE = { "eso-addon/temper-lib-async": "temper/temper-lib-async" }
+const WHERE = { "eso-addon/temper-hum-async": "temper/temper-hum-async" }
 
 test("the roster is the name each addon manifest states, at the folder its page sits in", () => {
   const said = rosterIn(asking(ADDONS, VALUES, TEXTS))
-  expect([...said]).toEqual([["LibAsync", ["temper/temper-lib-async"]]])
+  expect([...said]).toEqual([["HumAsync", ["temper/temper-hum-async"]]])
 })
 
 test("an addon page stating no manifest is no addon in the roster", () => {
-  const values = { [ADDON_PAGE]: { slug: "temper-lib-async" } }
+  const values = { [ADDON_PAGE]: { slug: "temper-hum-async" } }
   expect(rosterIn(asking(ADDONS, values, TEXTS)).size).toBe(0)
 })
 
@@ -67,21 +67,21 @@ test("two folders manifesting one name are both reached under that name", () => 
   const paths = { "eso-addon": [ADDON_PAGE, ELSEWHERE_PAGE] }
   const values = {
     [ADDON_PAGE]: ADDON_VALUE,
-    [ELSEWHERE_PAGE]: { slug: "temper-lib-late", addonManifest: "json" },
+    [ELSEWHERE_PAGE]: { slug: "temper-hum-late", addonManifest: "json" },
   }
   const texts = {
-    [MANIFEST_AT]: '{ "name": "LibAsync" }',
-    [ELSEWHERE_AT]: '{ "name": "LibAsync" }',
+    [MANIFEST_AT]: '{ "name": "HumAsync" }',
+    [ELSEWHERE_AT]: '{ "name": "HumAsync" }',
   }
-  expect(rosterIn(asking(paths, values, texts)).get("LibAsync")).toEqual([
-    "temper/temper-lib-async",
-    "temper/temper-lib-late",
+  expect(rosterIn(asking(paths, values, texts)).get("HumAsync")).toEqual([
+    "temper/temper-hum-async",
+    "temper/temper-hum-late",
   ])
 })
 
 test("a held addon page is read for the name it states and the folder its addon page sits in", () => {
   expect(heldIn(asking(PAGES, VALUES, TEXTS, WHERE))).toEqual([
-    { path: HELD_PAGE, named: "LibAsync", folder: "temper/temper-lib-async" },
+    { path: HELD_PAGE, named: "HumAsync", folder: "temper/temper-hum-async" },
   ])
 })
 
@@ -92,21 +92,21 @@ test("a page whose addon page sits where that addon is manifested is let through
 test("a page naming an addon no manifest calls is refused as stale", () => {
   const values = {
     [ADDON_PAGE]: ADDON_VALUE,
-    [HELD_PAGE]: { addonName: "LibGone", esoAddon: "temper-lib-async" },
+    [HELD_PAGE]: { addonName: "HumGone", esoAddon: "temper-hum-async" },
   }
   const said = refusalsOver(asking(PAGES, values, TEXTS, WHERE))
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(HELD_PAGE)
-  expect(said[0]?.reason).toContain("`LibGone`")
+  expect(said[0]?.reason).toContain("`HumGone`")
   expect(said[0]?.reason).toContain("stale")
 })
 
 test("a page whose addon page sits elsewhere is refused, and the reason names both folders", () => {
-  const where = { "eso-addon/temper-lib-async": "temper/temper-lib-late" }
+  const where = { "eso-addon/temper-hum-async": "temper/temper-hum-late" }
   const said = refusalsOver(asking(PAGES, VALUES, TEXTS, where))
   expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("temper/temper-lib-async")
-  expect(said[0]?.reason).toContain("temper/temper-lib-late")
+  expect(said[0]?.reason).toContain("temper/temper-hum-async")
+  expect(said[0]?.reason).toContain("temper/temper-hum-late")
   expect(said[0]?.reason).toContain("repoint")
 })
 
