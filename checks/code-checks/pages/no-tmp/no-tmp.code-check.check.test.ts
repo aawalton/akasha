@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { shadowAt } from "@akasha/pages/shadow"
 import { change } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { noTmp } from "./no-tmp.code-check.code.ts"
+import { noTmp } from "./no-tmp.code-check.check.code.ts"
 import { CODE_AT, rooted, SPELLING, scratch } from "./no-tmp.code-check.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
