@@ -12,8 +12,6 @@ export const folderMatchesAShape = {
     "module/shape-loading",
     "page-type/folder-shape",
   ],
-  code: "ts",
-  test: "ts",
   runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,

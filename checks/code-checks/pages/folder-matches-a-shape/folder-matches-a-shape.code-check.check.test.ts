@@ -5,7 +5,7 @@ import {
   edgesOf,
   foldersJudgedBy,
   foldersTouchedBy,
-} from "./folder-matches-a-shape.code-check.code.ts"
+} from "./folder-matches-a-shape.code-check.check.code.ts"
 import {
   grouping,
   HELD_IN_TESTS,
