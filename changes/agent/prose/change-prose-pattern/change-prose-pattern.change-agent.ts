@@ -18,7 +18,11 @@ export const changeProsePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A count says how many passages are restated, and no count restates every one.",
+      statement: "A count says how many passages are restated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming no count restates every passage.",
     },
     {
       invariantKind: "departure",
@@ -34,16 +38,15 @@ export const changeProsePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A prose value stating many strings is left alone, because no act reaches one.",
+      statement: "A prose value stating many strings is left alone.",
     },
     {
       invariantKind: "departure",
-      statement: "One passage refused refuses the whole, so a batch lands together or not at all.",
+      statement: "One passage refused refuses the whole.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The act reached names `relation-reaches-a-page`, so every relation on a page written is judged.",
+      statement: "The act reached names `relation-reaches-a-page`.",
     },
     {
       invariantKind: "departure",
@@ -51,12 +54,11 @@ export const changeProsePattern = {
     },
     {
       invariantKind: "constraint",
-      statement: "The parser reads a model no commit has, so this runs only where that model is.",
+      statement: "This runs only where the model the parser reads is.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A program composes each restatement, so the checks judge it and no agent reads it.",
+      statement: "A program composes each restatement.",
     },
   ],
   changeKind: "change-checked",
