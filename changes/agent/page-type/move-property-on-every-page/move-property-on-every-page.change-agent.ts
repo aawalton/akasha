@@ -15,7 +15,7 @@ export const movePropertyOnEveryPage = {
     {
       invariantKind: "departure",
       statement:
-        "The pages written are the pages of that page type and of every page type beneath it.",
+        "The pages written are the pages of that page type and of every page type beneath that type.",
     },
     {
       invariantKind: "departure",
@@ -40,15 +40,18 @@ export const movePropertyOnEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A list of one becomes one value where the key written to has one value.",
+      statement:
+        "A list holding one value becomes that value where the key written to has one value.",
     },
     {
       invariantKind: "departure",
-      statement: "A list of more than one is refused where the key written to has one value.",
+      statement:
+        "A list holding more than one value is refused where the key written to has one value.",
     },
     {
       invariantKind: "departure",
-      statement: "The value is handed on as the body spells it rather than as text to quote.",
+      statement:
+        "The value is handed on as the body spells that value rather than as text to quote.",
     },
     {
       invariantKind: "departure",
@@ -76,17 +79,16 @@ export const movePropertyOnEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "Each page is reached over the edits the pages before it left.",
+      statement: "Each page is reached over the edits the pages before that page left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Putting the key in and taking the key out are left to two mechanical changes.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Putting the key in and taking the key out are left to the mechanical changes doing each.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Each change this one composes is reached through the runner rather than by an import.",
+        "Each change composed here is reached through the runner rather than by an import.",
     },
     {
       invariantKind: "absence",
