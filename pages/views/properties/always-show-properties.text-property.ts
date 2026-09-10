@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type AlwaysShowProperties = string
+export type AlwaysShowProperties = List<string>
 
 export const alwaysShowProperties = {
   id: "01a0680d-4d00-700b-9a37-5b1d8c6e410c",

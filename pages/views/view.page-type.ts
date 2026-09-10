@@ -36,7 +36,7 @@ export type View = Page & {
   groupSorts?: GroupSorts
   groupGranularity?: GroupGranularity
   visibleProperties?: VisibleProperties
-  alwaysShowProperties?: readonly AlwaysShowProperties[]
+  alwaysShowProperties?: AlwaysShowProperties
   hiddenPropertiesOrder?: readonly HiddenPropertiesOrder[]
   pageSize?: PageSize
   itemPageSize?: ItemPageSize
