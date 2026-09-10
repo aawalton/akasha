@@ -1,4 +1,4 @@
-import type { TemperBuffMajor } from "../../temper-buff-major.page-type.ts"
+import type { TemperBuffMajor } from "../../temper-buff-major.page-type.types.ts"
 
 export const majorExpedition = {
   id: "01a05fc5-f6b8-76fe-a2ed-ed6749cdb7e9",

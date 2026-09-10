@@ -1,4 +1,4 @@
-import type { TemperBuffMajor } from "../../temper-buff-major.page-type.ts"
+import type { TemperBuffMajor } from "../../temper-buff-major.page-type.types.ts"
 
 export const majorBrutality = {
   id: "01a05fc5-f6b7-7907-9866-c2bbf35cbe5e",

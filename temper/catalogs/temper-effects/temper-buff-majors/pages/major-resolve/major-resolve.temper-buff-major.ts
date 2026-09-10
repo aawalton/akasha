@@ -1,4 +1,4 @@
-import type { TemperBuffMajor } from "../../temper-buff-major.page-type.ts"
+import type { TemperBuffMajor } from "../../temper-buff-major.page-type.types.ts"
 
 export const majorResolve = {
   id: "01a05fc5-f6bb-7409-b176-5e556a71e08e",
