@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.ts"
+import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.types.ts"
 
 export const lightningStaff = {
   id: "01a05fcd-ea6e-7b52-b906-d4451b8632b4",

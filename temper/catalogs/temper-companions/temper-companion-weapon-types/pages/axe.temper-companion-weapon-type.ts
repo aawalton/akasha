@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.ts"
+import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.types.ts"
 
 export const axe = {
   id: "01a05fcd-ea6c-7898-9204-eb806c0ad500",

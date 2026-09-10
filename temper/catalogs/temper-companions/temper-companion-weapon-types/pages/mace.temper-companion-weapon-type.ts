@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.ts"
+import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.types.ts"
 
 export const mace = {
   id: "01a05fcd-ea6f-7af9-aef3-cfa538c9966d",

@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.ts"
+import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.types.ts"
 
 export const noType = {
   id: "01a05fcd-ea6f-73bf-b668-ede30ae3533e",

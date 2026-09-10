@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.ts"
+import type { TemperCompanionWeaponType } from "../temper-companion-weapon-type.page-type.types.ts"
 
 export const shield = {
   id: "01a05fcd-ea70-706d-82b2-f64fc815bb91",

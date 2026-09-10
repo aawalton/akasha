@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { IsOffHandOnly } from "../temper-companion-things/properties/is-off-hand-only.boolean-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-
-export type TemperCompanionWeaponType = TemperCompanionThing & {
-  isOffHandOnly: IsOffHandOnly
-}
 
 export const temperCompanionWeaponType = {
   id: "01a05fcd-aed1-71b0-8b8c-2b74e9a2d662",
@@ -21,4 +15,5 @@ export const temperCompanionWeaponType = {
     { pageProperty: "boolean-property/is-off-hand-only", required: true, many: false },
     { pageProperty: "boolean-property/is-two-handed", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
