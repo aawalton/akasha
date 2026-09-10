@@ -20,7 +20,7 @@ export type ClearRebindHooks = {
   startSessionWatch: (agentId: string, sessionId: string, projDir: string) => () => void
 }
 
-function reportNoSuccessor(oldAgentId: string): void {
+function reportNoSuccessor(oldAgentId: string): undefined {
   console.error(
     `${LOG} /clear rebind: no successor for ${oldAgentId} — its seat page was taken when it was ` +
       `stopped, so no page is there for this seat until \`akasha seat resume\` brings it back`
