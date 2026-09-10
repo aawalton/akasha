@@ -31,21 +31,25 @@ export const addonCompilerConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "The written settings reach every declaration a package the addon reaches holds.",
+      statement:
+        "The written settings reach every declaration an addon this addon depends on holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The addons an addon depends on are the ones the game's own manifest names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An addon depended on is found by the name that addon's own manifest states.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A package the addon reaches is found through the link the workspace install left.",
+        "The addons an addon depends on are walked through to the end rather than a single level deep.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The packages an addon reaches are walked through to the end rather than a single level deep.",
-    },
-    {
-      invariantKind: "constraint",
-      statement: "A dependency the workspace install left no link for refuses the call.",
+      statement: "A dependency no addon in the checkout carries is left out of the compile.",
     },
     {
       invariantKind: "departure",

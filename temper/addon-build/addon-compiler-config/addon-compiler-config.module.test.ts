@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import {
@@ -8,7 +8,7 @@ import {
   compilerConfigPathFor,
   declaringDirs,
   esoAddonPagePathIn,
-  reachedPackageDirs,
+  reachedAddonDirs,
 } from "./addon-compiler-config.module.code.ts"
 
 const SCRATCH = scratchWorld()
@@ -109,33 +109,37 @@ test("an addon page naming a bundle entry the folder does not hold refuses the c
   )
 })
 
-function addonReaching(dependencyName: string): { root: string; dir: string; held: string } {
+function addonReaching(
+  dependedOn: string,
+  heldName: string
+): { root: string; dir: string; held: string } {
   const root = SCRATCH.rootFor("temper-addon-reach-")
-  const dir = join(root, "akasha/temper/temper-collections-addon")
-  const held = join(root, "akasha/temper/temper-lorebooks")
+  const dir = join(root, "temper/temper-collections-addon")
+  const held = join(root, "temper/temper-lorebooks")
   mkdirSync(dir, { recursive: true })
   mkdirSync(held, { recursive: true })
-  mkdirSync(join(root, "node_modules/@akasha"), { recursive: true })
   writeFileSync(
-    join(dir, "package.json"),
-    JSON.stringify({ dependencies: { [dependencyName]: "workspace:*", typescript: "^5.8.3" } })
+    join(dir, "temper-collections-addon.eso-addon.addon-manifest.json"),
+    JSON.stringify({ name: "TemperCollections", dependsOn: [`${dependedOn}>=3`] })
   )
-  writeFileSync(join(held, "package.json"), JSON.stringify({ name: dependencyName }))
+  writeFileSync(
+    join(held, "temper-lorebooks.eso-addon.addon-manifest.json"),
+    JSON.stringify({ name: heldName })
+  )
   return { root, dir, held }
 }
 
-test("the packages an addon reaches are found through the links the workspace install left", () => {
-  const { root, dir, held } = addonReaching("@akasha/temper-lorebooks")
-  symlinkSync(held, join(root, "node_modules/@akasha/temper-lorebooks"))
-  expect(reachedPackageDirs(root, dir)).toEqual([held])
+test("an addon depended on is found by the name that addon's own manifest states", () => {
+  const { root, dir, held } = addonReaching("TemperLorebooks", "TemperLorebooks")
+  expect(reachedAddonDirs(root, dir)).toEqual([held])
 })
 
-test("a package the addon reaches that the install left no link for refuses the call", () => {
-  const { root, dir } = addonReaching("@akasha/temper-lorebooks")
-  expect(() => reachedPackageDirs(root, dir)).toThrow("@akasha/temper-lorebooks")
+test("a dependency no addon in the checkout carries is left out of the compile", () => {
+  const { root, dir } = addonReaching("MasterMerchant", "TemperLorebooks")
+  expect(reachedAddonDirs(root, dir)).toEqual([])
 })
 
-test("the written settings reach every declaration a package the addon reaches holds", () => {
+test("the written settings reach every declaration an addon this addon depends on holds", () => {
   const body: unknown = JSON.parse(
     compilerConfigBody({
       repoRoot: "/repo",

@@ -1,12 +1,6 @@
-import {
-  existsSync,
-  mkdirSync,
-  readdirSync,
-  readFileSync,
-  realpathSync,
-  writeFileSync,
-} from "node:fs"
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 
 export const TSCONFIG_NAME = "tsconfig.json"
 
@@ -30,43 +24,66 @@ const DECLARATION_SUFFIX = ".type-declaration.d.ts"
 
 const TEMPER_UNDER = "temper"
 
-const WORKSPACE_MARK = "workspace:"
-
-const AKASHA_SCOPE = "@akasha/"
-
 const LINKED_UNDER = "node_modules"
 
-const MANIFEST_NAME = "package.json"
+const VERSION_MARK = /[<>=!]/
 
-function workspaceDependenciesIn(manifestPath: string): readonly string[] {
-  if (!existsSync(manifestPath)) return []
-  const said = JSON.parse(readFileSync(manifestPath, "utf-8")) as {
-    dependencies?: Record<string, string>
-  }
-  const held = said.dependencies ?? {}
-  return Object.keys(held).filter(
-    (name) => name.startsWith(AKASHA_SCOPE) && held[name]?.startsWith(WORKSPACE_MARK) === true
-  )
+type AddonManifest = {
+  readonly name?: string
+  readonly dependsOn?: readonly string[]
+  readonly optionalDependsOn?: readonly string[]
 }
 
-export function reachedPackageDirs(repoRoot: string, addonDir: string): readonly string[] {
+function addonManifestIn(dir: string): AddonManifest | null {
+  const path = addonManifestPathIn(dir)
+  if (path === null) return null
+  try {
+    return JSON.parse(readFileSync(path, "utf-8")) as AddonManifest
+  } catch {
+    return null
+  }
+}
+
+function dependedOnIn(dir: string): readonly string[] {
+  const said = addonManifestIn(dir)
+  if (said === null) return []
+  const named = [...(said.dependsOn ?? []), ...(said.optionalDependsOn ?? [])]
+  return named.map((one) => (one.split(VERSION_MARK)[0] ?? "").trim()).filter((one) => one !== "")
+}
+
+const addonDirsHeld = new Map<string, ReadonlyMap<string, string>>()
+
+function addonDirsByName(repoRoot: string): ReadonlyMap<string, string> {
+  const held = addonDirsHeld.get(repoRoot)
+  if (held !== undefined) return held
+  const found = new Map<string, string>()
+  const under = join(repoRoot, TEMPER_UNDER)
+  if (existsSync(under)) {
+    for (const one of readdirSync(under, { withFileTypes: true })) {
+      if (!one.isDirectory() || one.name.startsWith(".")) continue
+      const dir = join(under, one.name)
+      const named = addonManifestIn(dir)?.name
+      if (named !== undefined) found.set(named, dir)
+    }
+  }
+  addonDirsHeld.set(repoRoot, found)
+  return found
+}
+
+export function reachedAddonDirs(repoRoot: string, addonDir: string): readonly string[] {
+  const byName = addonDirsByName(repoRoot)
   const found = new Set<string>()
   const asked = new Set<string>()
-  const owed = [...workspaceDependenciesIn(join(addonDir, MANIFEST_NAME))]
+  const owed = [...dependedOnIn(addonDir)]
   for (;;) {
     const name = owed.pop()
     if (name === undefined) break
     if (asked.has(name)) continue
     asked.add(name)
-    const linked = join(repoRoot, LINKED_UNDER, name)
-    if (!existsSync(linked)) {
-      throw new Error(
-        `reachedPackageDirs: ${addonDir} reaches "${name}", and ${linked} is not there, so every declaration that package holds would be left out of the compile`
-      )
-    }
-    const dir = realpathSync(linked)
+    const dir = byName.get(name)
+    if (dir === undefined || dir === addonDir) continue
     found.add(dir)
-    owed.push(...workspaceDependenciesIn(join(dir, MANIFEST_NAME)))
+    owed.push(...dependedOnIn(dir))
   }
   return [...found].sort()
 }
@@ -224,7 +241,7 @@ export async function compilerConfigPathFor(
   const heldAt = join(repoRoot, ADDONS_REL_ROOT, HELD_AT)
   mkdirSync(heldAt, { recursive: true })
   const path = join(heldAt, `${canonicalName}.${TSCONFIG_NAME}`)
-  const reachedDirs = reachedPackageDirs(repoRoot, addonDir)
+  const reachedDirs = reachedAddonDirs(repoRoot, addonDir)
   writeFileSync(
     path,
     compilerConfigBody({
