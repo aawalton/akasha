@@ -19,7 +19,8 @@ export const trackLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A body goes up through the change that works out the kind of path it is handed.",
+      statement:
+        "A body goes up through the change that works out the kind of path the change is handed.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +28,7 @@ export const trackLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "Every page landed here arrives with an id, whichever tracked tree it goes under.",
+      statement: "Every page landed here arrives with an id.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +48,11 @@ export const trackLanding = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here appends, as Alan's tracking composes a whole body every time.",
+      statement: "Nothing here appends.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Alan's tracking composes a whole body every time.",
     },
     {
       invariantKind: "absence",
