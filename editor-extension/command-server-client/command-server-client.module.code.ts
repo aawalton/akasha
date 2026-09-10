@@ -11,7 +11,7 @@ export const REFUSAL_START = "start"
 
 export const REFUSAL_DISPOSED = "disposed"
 
-const START_ANOTHER: ReadonlySet<string> = new Set([REFUSAL_LEASE, REFUSAL_GONE])
+const START_ANOTHER: ReadonlySet<string> = new Set([REFUSAL_LEASE, REFUSAL_GONE, REFUSAL_START])
 
 const VOICE_KEPT = 4_000
 

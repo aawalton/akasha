@@ -54,7 +54,8 @@ function clientAt(root: string, more: { readonly serverLeaseMs?: number } = {}):
 async function colorSaid(
   client: Serving
 ): Promise<{ readonly color: string; readonly pid: number }> {
-  const answer = await client.ask(
+  const answer = await askServed(
+    client,
     "agent-turn-colors",
     "agentTurnColors",
     ["--state", "working"],

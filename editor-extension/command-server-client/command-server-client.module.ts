@@ -36,8 +36,15 @@ export const commandServerClient = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An ask refused for a lease or for a gone server is asked once more on a fresh server.",
+      statement: "An ask a server ran nothing for is asked once more on a fresh server.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lease, a gone server and a server that never started are the three of those.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Asking again would run twice what a server had already run.",
     },
     {
       invariantKind: "departure",
