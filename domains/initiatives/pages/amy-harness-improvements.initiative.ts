@@ -27,7 +27,7 @@ export const amyHarnessImprovements = {
     {
       statement: "Every stoplight takes its reading on a watch rather than on a timer.",
       workingMemory:
-        "Twelve readouts take a reading on a `*:0/5` timer and relay it on `*:2/5`. Two watches already run: `inbox-count-watch` follows the index and re-takes the task counts, and `data-watching` recomputes each code editor picture from the folders that picture declares it reads. The second is the general mechanism and the one to reach for. Left: whether each reading has a source in the checkout to watch, since Monarch, Claude usage and the health samples arrive from outside it.",
+        "Alan wants the reading timers gone rather than kept under the watch. Eight readouts move and seven of them read one folder, `days/pages/<today>/`. Plants reads the food entries, monarch keeps its timer since it asks the Monarch API live, and the three Claude countdowns take no reading at all. The blocker is `STALE_AFTER_MS`: with no beat a tile goes dark at minute 46, so being current has to become whether the watcher is well rather than whether a reading is recent.",
     },
   ],
 } as const satisfies Initiative
