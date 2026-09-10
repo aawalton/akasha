@@ -21,7 +21,7 @@ export async function loader({ request }: { request: Request }) {
   return null
 }
 
-const pages = [
+const PAGES = [
   { to: "/about", label: "About" },
   { to: "/services", label: "Services" },
   { to: "/contact", label: "Contact" },
@@ -57,7 +57,7 @@ export default function LandingRoute() {
 
         <PanelCard id="more" title="More information">
           <ul className="space-y-1 text-sm">
-            {pages.map((page) => (
+            {PAGES.map((page) => (
               <li key={page.to}>
                 <Link to={page.to} className="text-accent underline">
                   {page.label}
