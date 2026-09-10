@@ -15,7 +15,11 @@ export const alanWebCapacitorPageListing = {
     },
     {
       invariantKind: "departure",
-      statement: "The segment in the url is matched against a plural slug, then against a slug.",
+      statement: "The segment in the url is matched against a plural slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A segment matching no plural slug is matched against a slug.",
     },
   ],
 } as const satisfies Route
