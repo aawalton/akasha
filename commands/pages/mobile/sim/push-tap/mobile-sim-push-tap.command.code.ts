@@ -1,3 +1,4 @@
+import { optionalEnv } from "@akasha/utils/narrow/require-env"
 import {
   createSession,
   deleteSession,
@@ -5,19 +6,24 @@ import {
   getContexts,
   setContext,
   tapCoordinates,
-} from "@akasha/mobile-cli/appium-client"
-import { MACBOOK } from "@akasha/mobile-cli/macbook-target"
-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
-import { runSshCapture } from "@akasha/mobile-cli/mobile-ssh"
-import { buildApnsPayload, buildPushTapScript } from "@akasha/mobile-cli/push-tap-script"
-import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
+} from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-target.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { runSshCapture } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
+import {
+  buildApnsPayload,
+  buildPushTapScript,
+} from "akasha/alan/harness/mobile-cli/push-tap-script/push-tap-script.module.code.ts"
+import {
+  ensureAppium,
+  resolveAndBootSim,
+} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
 import {
   buildBannerTapCapabilities,
   loadSessionState,
   resolveWdaLocalPort,
   WDA_LOCAL_PORT_ENV,
-} from "@akasha/mobile-cli/sim-session"
-import { optionalEnv } from "@akasha/utils/narrow/require-env"
+} from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import { z } from "zod"
 import {
   APP_SAID,

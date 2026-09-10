@@ -1,4 +1,7 @@
-import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
+import {
+  ensureAppium,
+  resolveAndBootSim,
+} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
 import {
   keyedLines,
   type Reading,

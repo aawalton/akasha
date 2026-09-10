@@ -3,7 +3,7 @@ import {
   clickElement,
   elementSendKeys,
   findElement,
-} from "@akasha/mobile-cli/appium-client"
+} from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import {
   driving,
   type Reading,

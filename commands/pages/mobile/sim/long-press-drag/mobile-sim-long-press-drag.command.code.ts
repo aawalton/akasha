@@ -1,4 +1,4 @@
-import { longPressDrag } from "@akasha/mobile-cli/appium-client"
+import { longPressDrag } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import {
   countOf,
   driving,

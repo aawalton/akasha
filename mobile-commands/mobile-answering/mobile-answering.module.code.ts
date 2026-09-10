@@ -1,7 +1,10 @@
-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
-import { resolveApp } from "@akasha/mobile-cli/mobile-app"
-import { attachWebview, requireDrivingState } from "@akasha/mobile-cli/sim-driver"
-import type { SimSessionState } from "@akasha/mobile-cli/sim-session"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { resolveApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import {
+  attachWebview,
+  requireDrivingState,
+} from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
+import type { SimSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import { whyOf } from "../../commands/modules/fault-saying/fault-saying.module.code.ts"
 
 export const APP_SAID = "--app"

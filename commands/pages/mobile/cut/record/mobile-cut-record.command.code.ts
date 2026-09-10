@@ -1,5 +1,8 @@
-import type { CutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
-import { readLatestCutFingerprint, recordCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
+import type { CutFingerprint } from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
+import {
+  readLatestCutFingerprint,
+  recordCutFingerprint,
+} from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
   APP_SAID,
   appIn,

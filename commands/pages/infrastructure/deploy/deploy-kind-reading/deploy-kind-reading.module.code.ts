@@ -1,5 +1,5 @@
 import { basename } from "node:path"
-import { mobileApps } from "@akasha/mobile-cli/mobile-app"
+import { mobileApps } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   namedAmong,
   pagesUnder,

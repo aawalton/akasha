@@ -1,5 +1,9 @@
-import { createAscJwtSource, fetchLatestBuild, resolveAppId } from "@akasha/mobile-cli/asc-client"
-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
+import {
+  createAscJwtSource,
+  fetchLatestBuild,
+  resolveAppId,
+} from "akasha/alan/harness/mobile-cli/asc-client/asc-client.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   classifyProcessingState,
   describeProcessingFailure,
@@ -7,7 +11,7 @@ import {
   POLL_TIMEOUT_MS,
   pollBuildUntilTerminal,
   processingFailureFor,
-} from "@akasha/mobile-cli/testflight-poll"
+} from "akasha/alan/harness/mobile-cli/testflight-poll/testflight-poll.module.code.ts"
 import {
   APP_SAID,
   appIn,

@@ -1,6 +1,9 @@
-import { getContexts } from "@akasha/mobile-cli/appium-client"
-import { appiumIsUp } from "@akasha/mobile-cli/sim-macbook"
-import { loadSessionState, SIM_SESSION_PATH } from "@akasha/mobile-cli/sim-session"
+import { getContexts } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import { appiumIsUp } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+import {
+  loadSessionState,
+  SIM_SESSION_PATH,
+} from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
   keyedLines,
   type Reading,

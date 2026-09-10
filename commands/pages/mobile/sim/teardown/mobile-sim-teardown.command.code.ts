@@ -1,6 +1,9 @@
-import { deleteSession } from "@akasha/mobile-cli/appium-client"
-import { stopAppium } from "@akasha/mobile-cli/sim-macbook"
-import { clearSessionState, loadSessionState } from "@akasha/mobile-cli/sim-session"
+import { deleteSession } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
+import { stopAppium } from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+import {
+  clearSessionState,
+  loadSessionState,
+} from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
   type Reading,
   wordsIn,

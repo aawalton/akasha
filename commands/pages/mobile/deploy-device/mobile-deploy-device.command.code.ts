@@ -8,11 +8,14 @@ import {
   readNativeShellApsEnv,
   readNativeShellHealthkitEnv,
   SCRIPT_HEADER,
-} from "@akasha/mobile-cli/foundation"
-import { MACBOOK } from "@akasha/mobile-cli/macbook-target"
-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
-import { iosAppDir, nativeShellDir } from "@akasha/mobile-cli/mobile-app"
-import { runSshCapture } from "@akasha/mobile-cli/mobile-ssh"
+} from "akasha/alan/harness/mobile-cli/foundation/foundation.module.code.ts"
+import { MACBOOK } from "akasha/alan/harness/mobile-cli/macbook-target/macbook-target.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import {
+  iosAppDir,
+  nativeShellDir,
+} from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { runSshCapture } from "akasha/alan/harness/mobile-cli/mobile-ssh/mobile-ssh.module.code.ts"
 import {
   APP_SAID,
   appIn,

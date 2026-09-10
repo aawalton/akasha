@@ -1,4 +1,4 @@
-import { executeScript } from "@akasha/mobile-cli/appium-client"
+import { executeScript } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import {
   bareWordAs,
   driving,

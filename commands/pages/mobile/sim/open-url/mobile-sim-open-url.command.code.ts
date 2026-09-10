@@ -1,7 +1,10 @@
-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
-import { openSession } from "@akasha/mobile-cli/sim-driver"
-import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
-import { loadSessionState } from "@akasha/mobile-cli/sim-session"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { openSession } from "akasha/alan/harness/mobile-cli/sim-driver/sim-driver.module.code.ts"
+import {
+  ensureAppium,
+  resolveAndBootSim,
+} from "akasha/alan/harness/mobile-cli/sim-macbook/sim-macbook.module.code.ts"
+import { loadSessionState } from "akasha/alan/harness/mobile-cli/sim-session/sim-session.module.code.ts"
 import {
   APP_SAID,
   appIn,

@@ -16,7 +16,6 @@
         "@akasha/git": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/mobile-cli": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -167,18 +166,6 @@
     },
     "alan/harness/location-traces-access": {
       "name": "@akasha/location-traces-access",
-    },
-    "alan/harness/mobile-cli": {
-      "name": "@akasha/mobile-cli",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/git": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/supabase-auth": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
     },
     "alan/harness/rules-engine": {
       "name": "@akasha/rules-engine",
@@ -1087,8 +1074,6 @@
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:alan/harness/location-traces-access"],
 
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
-
-    "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:alan/harness/mobile-cli"],
 
     "@akasha/object-store": ["@akasha/object-store@workspace:infrastructure/storage/object-store"],
 

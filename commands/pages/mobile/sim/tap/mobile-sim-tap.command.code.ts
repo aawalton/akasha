@@ -1,4 +1,8 @@
-import { clickElement, findElement, tapCoordinates } from "@akasha/mobile-cli/appium-client"
+import {
+  clickElement,
+  findElement,
+  tapCoordinates,
+} from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import {
   countOf,
   driving,

@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const mobileCli = {
   id: "01a05cee-e560-7302-ad38-fd2e2a149eed",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "mobile-cli",
   definition: "the iOS work this workstation drives on a mac it reaches over ssh",
-  manifest: "json",
   parts: [
     "page-type/mobile-cut",
     "module/mobile-app",
@@ -74,4 +73,4 @@ export const mobileCli = {
       statement: "Nothing outside an app's page states a value that page has.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

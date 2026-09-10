@@ -1,6 +1,6 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { screenshot } from "@akasha/mobile-cli/appium-client"
+import { screenshot } from "akasha/alan/harness/mobile-cli/appium-client/appium-client.module.code.ts"
 import {
   driving,
   type Reading,

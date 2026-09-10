@@ -1,16 +1,19 @@
-import { buildInputSources } from "@akasha/mobile-cli/build-input-sources"
-import type { CurrentTreeState } from "@akasha/mobile-cli/cut-fingerprint"
-import { compareCutStatus, readLatestCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
+import { codeRoot } from "@akasha/pages/code-root"
+import { buildInputSources } from "akasha/alan/harness/mobile-cli/build-input-sources/build-input-sources.module.code.ts"
+import type { CurrentTreeState } from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
+import {
+  compareCutStatus,
+  readLatestCutFingerprint,
+} from "akasha/alan/harness/mobile-cli/cut-fingerprint/cut-fingerprint.module.code.ts"
 import {
   computeBuildInputTreeHash,
   countCommitsBetween,
   fetchOrigin,
   resolveRef,
   resolveRepoRoot,
-} from "@akasha/mobile-cli/git-tree-hash"
-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
-import { shellRepoRoot } from "@akasha/mobile-cli/mobile-app"
-import { codeRoot } from "@akasha/pages/code-root"
+} from "akasha/alan/harness/mobile-cli/git-tree-hash/git-tree-hash.module.code.ts"
+import type { MobileApp } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
+import { shellRepoRoot } from "akasha/alan/harness/mobile-cli/mobile-app/mobile-app.module.code.ts"
 import {
   APP_SAID,
   appIn,
