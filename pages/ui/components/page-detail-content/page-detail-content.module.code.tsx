@@ -1,5 +1,6 @@
 "use client"
 
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { resolveDisplayKind } from "@akasha/pages-core/schema/detail-config"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
@@ -11,7 +12,6 @@ import {
   selectDetailBody,
 } from "@akasha/pages-ui-components/page-detail-content-helpers"
 import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"

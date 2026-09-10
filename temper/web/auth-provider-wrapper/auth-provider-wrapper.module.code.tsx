@@ -1,11 +1,11 @@
 "use client"
 
 import { SurfaceProvider } from "@akasha/design-primitives/surface-provider"
+import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
 import { UserIdContext } from "@akasha/pages-ui/use-user-id"
 import { reportPagesStoreStall } from "@akasha/pages-ui-store/report-stall"
 import { configurePagesStoreAuth, getPagesStore } from "@akasha/pages-ui-store/singleton"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useSupabase } from "@akasha/supabase-rr/supabase-provider"
 import { type ReactNode, useEffect, useRef, useState } from "react"
 import { z } from "zod"

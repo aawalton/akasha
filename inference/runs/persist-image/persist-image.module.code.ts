@@ -1,5 +1,5 @@
 import { OperationalError } from "@akasha/errors-core/exit-code"
-import { coverUrl } from "@akasha/pages-url/cover-url"
+import { coverUrl } from "@akasha/pages/url/cover-url"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { imageObjectKey } from "akasha/infrastructure/storage/object-store/key/object-store-key.module.code.ts"
 import { seaweedFSObjectStoreFromEnv } from "akasha/infrastructure/storage/object-store/seaweedfs-store/seaweedfs-store.module.code.ts"

@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import { buildPageHrefParam } from "@akasha/pages-url/page-href"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
+import { buildPageHrefParam } from "@akasha/pages/url/page-href"
+import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import {
   composeStorySession,
   PUBLISHED_TURN_STATUSES,

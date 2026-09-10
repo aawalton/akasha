@@ -1,11 +1,11 @@
 "use client"
 
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { recordPageView } from "@akasha/pages-access/patch"
 import {
   shouldRecordView,
   VIEW_RECORD_STALENESS_MS,
 } from "@akasha/pages-ui/supabase/record-view-staleness"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useEffect, useRef } from "react"
 
 export function useRecordPageView(args: {

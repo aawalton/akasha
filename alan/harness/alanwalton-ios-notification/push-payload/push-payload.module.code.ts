@@ -1,5 +1,5 @@
-import { buildPageHref } from "@akasha/pages-url/page-href"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
+import { buildPageHref } from "@akasha/pages/url/page-href"
+import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { SMILINGJENNY_PUSH_APP } from "@akasha/persons/push-apps"
 import {
   type Feed,

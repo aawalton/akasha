@@ -1,5 +1,7 @@
 "use client"
 
+import { buildPageHref } from "@akasha/pages/url/page-href"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { patchPropertyDefinitionById } from "@akasha/pages-access/property-definition"
 import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
 import { computeAggregatesForPage } from "@akasha/pages-core/property-types/aggregate"
@@ -25,8 +27,6 @@ import {
   extractPageTypeId,
   PAGE_TYPE_SLUG,
 } from "@akasha/pages-ui-components/page-detail-content-helpers"
-import { buildPageHref } from "@akasha/pages-url/page-href"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback, useMemo } from "react"
 
 export function usePageDefaultContent({

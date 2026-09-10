@@ -1,5 +1,6 @@
 "use client"
 
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { BlockEditor } from "@akasha/pages-ui/block-editor/block-editor"
 import { MarkdownRenderer } from "@akasha/pages-ui/markdown/markdown-renderer"
@@ -11,7 +12,6 @@ import {
   JsonSectionRenderer,
   ToggleSection,
 } from "@akasha/pages-ui-components/page-detail-sections"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import { BadgeLayoutProvider } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"

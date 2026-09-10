@@ -1,5 +1,7 @@
 "use client"
 
+import { buildPageHref } from "@akasha/pages/url/page-href"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { NEVER_MATCH_SLUG, NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
@@ -25,8 +27,6 @@ import {
 } from "@akasha/pages-ui-components/view-tab-content-href"
 import { selectViewQueryResult } from "@akasha/pages-ui-components/view-tab-content-results"
 import { deriveViewTargetSlugs } from "@akasha/pages-ui-store/query/view-target-slugs"
-import { buildPageHref } from "@akasha/pages-url/page-href"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback, useMemo } from "react"
 
 export interface ViewTabContentData {

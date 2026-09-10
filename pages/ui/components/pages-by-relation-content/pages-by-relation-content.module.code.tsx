@@ -1,5 +1,7 @@
 "use client"
 
+import { buildPageListingHref } from "@akasha/pages/url/page-listing-href"
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import type { ViewConfig } from "@akasha/pages-core/schema/view-data"
 import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
@@ -8,8 +10,6 @@ import { useCompletePageOptimistic } from "@akasha/pages-ui/supabase/use-complet
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { viewConfigToListingParams } from "@akasha/pages-ui-components/synthetic-config"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
-import { buildPageListingHref } from "@akasha/pages-url/page-listing-href"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback } from "react"
 import { RenderBareListingCard } from "../bare-listing-card/bare-listing-card.module.code.tsx"
 import { PageSystemShell } from "../page-system-shell/page-system-shell.module.code.tsx"

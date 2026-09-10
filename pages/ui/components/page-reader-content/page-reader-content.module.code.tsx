@@ -1,6 +1,7 @@
 "use client"
 
 import { cn } from "@akasha/design-primitives/cn"
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { bodyPropertyIsContentTier } from "@akasha/pages-core/schema/content-tier"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { DisplayFrame } from "@akasha/pages-ui/frame/display-frame"
@@ -30,7 +31,6 @@ import { useReadEndOnScroll } from "@akasha/pages-ui-components/use-read-end-on-
 import { useReaderProgressWriter } from "@akasha/pages-ui-components/use-reader-progress-writer"
 import { useRestoreReadPosition } from "@akasha/pages-ui-components/use-restore-read-position"
 import { useSentenceHighlight } from "@akasha/pages-ui-components/use-sentence-highlight"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
 import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"

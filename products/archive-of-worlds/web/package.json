@@ -23,7 +23,7 @@
     "@akasha/pages-ui": "workspace:*",
     "@akasha/pages-ui-components": "workspace:*",
     "@akasha/pages-ui-store": "workspace:*",
-    "@akasha/pages-url": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "isbot": "^5.1.36",
     "lucide-react": "^0.576.0",

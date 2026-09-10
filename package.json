@@ -11,7 +11,6 @@
   "dependencies": {
     "akasha": "link:.",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/pages-url": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@googleapis/calendar": "^15.0.0",

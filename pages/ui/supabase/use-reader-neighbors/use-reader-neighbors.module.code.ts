@@ -1,11 +1,11 @@
 "use client"
 
+import { buildPageHref } from "@akasha/pages/url/page-href"
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { getPages } from "@akasha/pages-access/get"
 import { getOrderedNeighbors } from "@akasha/pages-access/ordered"
 import type { Page } from "@akasha/pages-core/page-types"
 import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
-import { buildPageHref } from "@akasha/pages-url/page-href"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useEffect, useRef, useState } from "react"
 
 interface ReaderNeighbors {

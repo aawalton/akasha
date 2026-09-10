@@ -1,11 +1,11 @@
 "use client"
 
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { patchPage } from "@akasha/pages-access/patch"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { useAllPages } from "@akasha/pages-ui/supabase/hooks"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useCallback } from "react"
 import { isNativeShell } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
 import { enqueueChapterCompletion } from "../offline-text/offline-text.module.code.ts"

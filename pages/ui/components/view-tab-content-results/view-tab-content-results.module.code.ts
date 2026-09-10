@@ -1,5 +1,5 @@
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 
 type FlatViewResult = {
   pages: readonly PageWithProperties[]

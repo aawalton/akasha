@@ -1,5 +1,6 @@
 "use client"
 
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
@@ -23,7 +24,6 @@ import { useEffectiveListing } from "@akasha/pages-ui-components/use-effective-l
 import { useViewRowAggregates } from "@akasha/pages-ui-components/view-engine/use-view-row-aggregates"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
 import { buildPageTypeSlugMaps } from "@akasha/pages-ui-components/view-tab-content-href"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"

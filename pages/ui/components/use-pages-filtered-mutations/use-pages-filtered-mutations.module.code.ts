@@ -1,5 +1,7 @@
 "use client"
 
+import { buildPageHref } from "@akasha/pages/url/page-href"
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { createPage } from "@akasha/pages-access/create"
 import { deletePage } from "@akasha/pages-access/delete"
 import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
@@ -8,8 +10,6 @@ import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import type { PageWithProperties } from "@akasha/pages-ui/supabase/page-with-properties"
 import { useSetPropertyOptimistic } from "@akasha/pages-ui/supabase/use-set-property-optimistic"
-import { buildPageHref } from "@akasha/pages-url/page-href"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { useCallback } from "react"
 

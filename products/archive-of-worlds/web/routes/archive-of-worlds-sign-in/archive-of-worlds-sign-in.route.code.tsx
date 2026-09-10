@@ -1,4 +1,4 @@
-import { safeRedirectTarget } from "@akasha/pages-url/safe-target"
+import { safeRedirectTarget } from "@akasha/pages/url/safe-target"
 import { signInWithPassword } from "@akasha/supabase-rr/auth-client"
 import { AuthPageContent } from "akasha/design/patterns/auth-page-content/auth-page-content.module.code.tsx"
 import { useNavigate, useSearchParams } from "react-router"

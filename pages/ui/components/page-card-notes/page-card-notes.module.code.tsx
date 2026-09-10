@@ -3,11 +3,11 @@
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { BlockEditor } from "@akasha/pages-ui/block-editor/block-editor"
 import { usePage } from "@akasha/pages-ui/supabase/use-page"
 import { MarkdownPropertyBadge } from "@akasha/pages-ui-components/markdown-property-badge"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 
 interface PageCardNotesProps {
   pageId: string

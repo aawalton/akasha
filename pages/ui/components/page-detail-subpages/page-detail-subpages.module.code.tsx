@@ -1,5 +1,7 @@
 "use client"
 
+import { buildPageHref } from "@akasha/pages/url/page-href"
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import type { PageTypePropertiesMap } from "@akasha/pages-core/property-types/rollup"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import { SupabasePageResolverProvider } from "@akasha/pages-ui/supabase/page-resolver-provider"
@@ -11,8 +13,6 @@ import { ToggleSection } from "@akasha/pages-ui-components/page-detail-sections"
 import { TITLE_COLUMN_ID } from "@akasha/pages-ui-components/page-table-shared"
 import { withColumnWidths } from "@akasha/pages-ui-components/page-table-widths"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
-import { buildPageHref } from "@akasha/pages-url/page-href"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useMemo } from "react"
 import { PageTable, PageTableRowCells } from "../page-table/page-table.module.code.tsx"
 

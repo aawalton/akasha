@@ -29,7 +29,6 @@
   "dependencies": {
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/pages-url": "workspace:*",
     "@akasha/pages-service": "workspace:*",
     "@akasha/utils": "workspace:*",
     "zod": "^4.3.6"

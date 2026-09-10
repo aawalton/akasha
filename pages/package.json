@@ -103,7 +103,13 @@
     "./query/fetcher": "./query/store-reaching/store-reaching.module.code.ts",
     "./query/fetcher/testing": "./query/store-reaching/store-reaching.module.test-fixtures.ts",
     "./query/store-spelled-asking": "./query/store-spelled-asking/store-spelled-asking.module.code.ts",
-    "./query/store-spelling": "./query/store-spelling/store-spelling.module.code.ts"
+    "./query/store-spelling": "./query/store-spelling/store-spelling.module.code.ts",
+    "./url/cover-url": "./url/cover-url/cover-url.module.code.ts",
+    "./url/page-display-mode": "./url/page-display-mode/page-display-mode.module.code.ts",
+    "./url/page-href": "./url/page-href/page-href.module.code.ts",
+    "./url/page-listing-href": "./url/page-listing-href/page-listing-href.module.code.ts",
+    "./url/page-type-slug": "./url/page-type-slug/page-type-slug.module.code.ts",
+    "./url/safe-target": "./url/safe-target/safe-target.module.code.ts"
   },
   "dependencies": {
     "@akasha/code": "workspace:*",

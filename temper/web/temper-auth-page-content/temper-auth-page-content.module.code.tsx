@@ -1,7 +1,7 @@
 "use client"
 
+import { safeInternalPath } from "@akasha/pages/url/safe-target"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { safeInternalPath } from "@akasha/pages-url/safe-target"
 import { signInWithPassword, signUpWithPassword } from "@akasha/supabase-rr/auth-client"
 import {
   type AuthMode,

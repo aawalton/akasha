@@ -1,4 +1,4 @@
-import { safeInternalPath } from "@akasha/pages-url/safe-target"
+import { safeInternalPath } from "@akasha/pages/url/safe-target"
 import { redirect } from "react-router"
 import { isEffectivelyAuthenticated } from "../effective-auth/effective-auth.module.code.ts"
 import { hasSessionCookie } from "../session-cookie/session-cookie.module.code.ts"

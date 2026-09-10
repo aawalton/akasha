@@ -1,5 +1,5 @@
-import { buildPageHref } from "@akasha/pages-url/page-href"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
+import { buildPageHref } from "@akasha/pages/url/page-href"
+import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { selectNextChapter } from "akasha/alan/library/reading/chapter-choosing/chapter-choosing.module.code.ts"
 import { loadStoryCatalog } from "akasha/alan/library/reading/story-catalog/story-catalog.module.code.ts"
 

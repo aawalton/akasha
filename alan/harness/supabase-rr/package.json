@@ -14,7 +14,7 @@
     "./supabase-provider": "./supabase-provider/supabase-provider.module.code.tsx"
   },
   "dependencies": {
-    "@akasha/pages-url": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@supabase/ssr": "^0.10.2",
     "@supabase/supabase-js": "^2.104.0",

@@ -1,5 +1,6 @@
 "use client"
 
+import type { PageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import type { IconName } from "@akasha/pages-core/generated/icon-search-index"
 import { completionShapeOf } from "@akasha/pages-core/task-lifecycle"
 import type { PageDataJSON, PropertyDefinition } from "@akasha/pages-core/types"
@@ -13,7 +14,6 @@ import {
   buildRowHref,
   readRelationConfig,
 } from "@akasha/pages-ui-components/view-tab-content-href"
-import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PageCard } from "../page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "../page-card-notes/page-card-notes.module.code.tsx"
 

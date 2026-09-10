@@ -1,5 +1,6 @@
 "use client"
 
+import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { getPages } from "@akasha/pages-access/get"
 import {
   extractRelationContainment,
@@ -18,7 +19,6 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "@akasha/pages-ui/supabase/page-with-properties"
-import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { useEffect, useMemo, useRef, useState } from "react"
 
 interface DescendantPagesResult {

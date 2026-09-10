@@ -1,5 +1,5 @@
-import { buildPageHrefParam } from "@akasha/pages-url/page-href"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
+import { buildPageHrefParam } from "@akasha/pages/url/page-href"
+import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import {
   type Beat,
   BeatSchema,

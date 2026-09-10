@@ -3,10 +3,10 @@
 import { ALANWALTON_APP_SLUG } from "@akasha/alanwalton-web/alan-app-id"
 import { HOME_NAV_SLUG } from "@akasha/alanwalton-web/home-dni"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { buildPageHrefParam } from "@akasha/pages/url/page-href"
+import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
-import { buildPageHrefParam } from "@akasha/pages-url/page-href"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import {
   PageLayout,

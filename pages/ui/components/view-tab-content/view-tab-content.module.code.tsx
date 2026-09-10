@@ -1,5 +1,6 @@
 "use client"
 
+import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { parseListingConfig } from "@akasha/pages-core/schema/listing-config"
 import { isLocked, isPageTypeLocked, type ViewDataJSON } from "@akasha/pages-core/schema/view-data"
 import type { LockedFacet } from "@akasha/pages-core/schema/view-data-locked"
@@ -18,7 +19,6 @@ import {
   buildRowHref,
   readRelationConfig,
 } from "@akasha/pages-ui-components/view-tab-content-href"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { PageCardRenderer } from "../page-card-renderer/page-card-renderer.module.code.tsx"
 import { PageSystemTabContent } from "../page-system-view/page-system-view.module.code.tsx"
 import { PageTableRowCells } from "../page-table/page-table.module.code.tsx"

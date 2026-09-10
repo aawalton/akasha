@@ -1,5 +1,5 @@
+import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
 import { getPageByIdSuffix } from "@akasha/pages-access/get"
-import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { buildNavIconSvg } from "../../atlas-nav-icon-svg/atlas-nav-icon-svg.module.code.ts"
 
