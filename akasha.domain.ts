@@ -42,7 +42,6 @@ export const akasha = {
     "domain/checkout-version",
     "domain/temper",
     "domain/story",
-    "domain/browser",
     "domain/google",
     "page-type/collection",
     "domain/places",

@@ -60,6 +60,7 @@ export const codeSystem = {
     "module/value-inserting",
     "module/test-overlay",
     "page-type/performance",
+    "domain/browser",
   ],
   invariants: [
     {
