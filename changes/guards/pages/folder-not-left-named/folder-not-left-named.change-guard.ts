@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const folderNotLeftNamed = {
   id: "01a08238-9081-766f-acab-30c5d8f612ee",

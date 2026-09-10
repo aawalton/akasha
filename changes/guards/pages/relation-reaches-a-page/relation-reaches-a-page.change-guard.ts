@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const relationReachesAPage = {
   id: "01a07976-d28f-7fac-9491-0467366b86b4",

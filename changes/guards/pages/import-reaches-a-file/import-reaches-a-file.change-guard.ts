@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const importReachesAFile = {
   id: "01a07969-9122-7db9-ad3c-de58ab103a06",

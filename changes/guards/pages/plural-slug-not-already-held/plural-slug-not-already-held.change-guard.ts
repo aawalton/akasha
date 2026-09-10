@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const pluralSlugNotAlreadyHeld = {
   id: "01a07984-8ee9-7d24-bca8-2d2d1b16ae97",

@@ -1,10 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { ChangeTargetType } from "../properties/change-target-type.relation-property.ts"
-
-export type ChangeGuard = Module & {
-  changeTargetType: ChangeTargetType
-}
 
 export const changeGuard = {
   id: "01a07744-1310-721d-8751-4a3757cf2d90",
@@ -94,4 +88,5 @@ export const changeGuard = {
       statement: "What no rung's guard can see is judged by a check at the landing.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const importNotLeftHanging = {
   id: "01a07750-f2bd-7d2d-8ad4-0ebf57b8dd1f",

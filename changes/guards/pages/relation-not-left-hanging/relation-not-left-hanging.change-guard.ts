@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const relationNotLeftHanging = {
   id: "01a07750-f2bc-7b43-a336-b879db98da45",

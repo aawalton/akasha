@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const claimedFileNotLeftBehind = {
   id: "01a07988-b667-79dc-8556-31aaf0e2c112",

@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const fieldKeyNotCarriedTwice = {
   id: "01a07984-2e7f-7d7a-aee0-2708d063ae88",

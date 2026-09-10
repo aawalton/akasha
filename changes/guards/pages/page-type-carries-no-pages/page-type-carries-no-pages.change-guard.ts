@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const pageTypeCarriesNoPages = {
   id: "01a0798b-75e5-74cb-96a6-d72e53dc5424",

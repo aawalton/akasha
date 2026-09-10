@@ -1,4 +1,4 @@
-import type { ChangeGuard } from "../../change-guard.page-type.ts"
+import type { ChangeGuard } from "../../change-guard.page-type.types.ts"
 
 export const generatedFileNotWritten = {
   id: "01a087ae-be91-76cb-aee3-043c099c6ea2",
