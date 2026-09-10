@@ -16,7 +16,7 @@ export const nimueCodeCleanup = {
     {
       statement: "A change moving a folder repoints the manifest naming that folder.",
       workingMemory:
-        "`move-folder` reaches `move-file` and `change-imports` and nothing else, so a package's `exports` still names the old path after a move. A draft moving `code-system/utf8-body` refuses, because `alan/track/track-landing` reaches it through `@akasha/code/utf8-body`, which still points at the old folder. `change-manifest-ways` already rewrites a manifest's ways from a moved-path map, and nothing reaches it. The move to `code` escapes this, every way there being spelled against the package root.",
+        "`move-folder` reaches `change-manifest-ways` at `move-folder.change-mechanical-folder.code.ts:116`, and `move-file-code` reaches the same change at line 55, so the wiring an earlier reading called missing is there and is tested. What is unverified is a live folder move leaving every manifest current, and verifying that takes drafting a move.\n",
     },
     {
       statement: "All code-system files are in the code/ folder.",

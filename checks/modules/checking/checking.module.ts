@@ -249,5 +249,14 @@ export const checking = {
       invariantKind: "gap",
       statement: "A check whose code the change alters runs as the change leaves that code.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A check page with no code beside that page and no phase stated is gathered as no check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check page stating a phase with no code beside that page refuses the run.",
+    },
   ],
 } as const satisfies Module

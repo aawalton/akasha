@@ -145,7 +145,8 @@ function runningIn<T>(at: string, slug: string, beside: string): T | null {
 export function codeOf(root: string, page: string): string | null {
   const held = besideAt(page, CHECK_CODE, TS)
   if (held !== null && existsSync(join(root, held))) return held
-  return besideAt(page, CODE, TS)
+  const found = besideAt(page, CODE, TS)
+  return found !== null && existsSync(join(root, found)) ? found : null
 }
 
 export function auditCodeOf(root: string, page: string): string | null {
@@ -184,7 +185,8 @@ export function checksIn(root: string): readonly Gathered[] {
     }
     const beside = codeOf(root, path)
     if (beside === null) {
-      throw new Error(`${path} is a check page, and no code file can sit beside a name like it`)
+      if (runsOn.length === 0) continue
+      throw new Error(`${path} is a check page stating a phase, and no code sits beside that page`)
     }
     const run = runningIn<AnyRunning>(join(root, beside), slug, beside)
     if (run === null) {

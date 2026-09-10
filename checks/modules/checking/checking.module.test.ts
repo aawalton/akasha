@@ -167,11 +167,11 @@ test("a change taking away every check is refused rather than judged clean", asy
   expect(said[0]?.reason).toContain("takes away every check")
 })
 
-test("a check page whose code is not there stops the whole run", () => {
+test("a check page stating a phase whose code is not there stops the whole run", () => {
   const root = rootWith(ADMITS_CHECK)
   rmSync(join(root, checkCodeAt(ADMITS)))
   expect(() => checksIn(root)).toThrow(
-    "admits-all.code-check.code.ts is a check's code, and would not load"
+    "admits-all.code-check.ts is a check page stating a phase, and no code sits beside that page"
   )
 })
 
