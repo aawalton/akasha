@@ -2,7 +2,7 @@ import { USER_ID } from "akasha/alan/harness/supabase-auth/user-id/user-id.modul
 import { claimSeatSupervision } from "akasha/seat-system/supervising/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import { createAgent } from "akasha/seat-system/supervising/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import type { SeatResume } from "akasha/seat-system/supervising/supervisor-args/supervisor-args.module.code.ts"
-import { liveChildExitRule } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { spawnOrAdoptChild } from "akasha/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
@@ -136,7 +136,7 @@ export async function acquireIterationChild(args: {
   const { proc, adoptedThisIter } = spawnOrAdoptChild({
     adoptOnce: args.adoptOnce,
     spawnOpts,
-    childExitRule: liveChildExitRule,
+    childExitRule: LIVE_CHILD_EXIT_RULE,
   })
   args.setAdoptOnce(null)
   if (proc === null) return { proc: null, adoptedThisIter, iterMcpPath }

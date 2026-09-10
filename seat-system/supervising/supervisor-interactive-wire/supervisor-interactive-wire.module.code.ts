@@ -4,7 +4,7 @@ import {
   consumeThenProxySwap,
 } from "akasha/seat-system/supervising/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import type { PendingAgentAction } from "akasha/seat-system/supervising/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
-import { liveChildExitRule } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { LIVE_CHILD_EXIT_RULE } from "akasha/seat-system/supervising/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { wireSessionRotatedWatcher } from "akasha/seat-system/supervising/supervisor-clear-rebind-wire/supervisor-clear-rebind-wire.module.code.ts"
 import { LOG } from "akasha/seat-system/supervising/supervisor-config/supervisor-config.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/seat-system/supervising/supervisor-console/supervisor-console.module.code.ts"
@@ -125,7 +125,7 @@ export async function settleIterationExit(
   wiring.deferredRestart.cancel = null
   wiring.preCliffMonitor?.stop()
 
-  const { value: observedExit, notice: observedExitNotice } = await liveChildExitRule.classify({
+  const { value: observedExit, notice: observedExitNotice } = await LIVE_CHILD_EXIT_RULE.classify({
     status: proc.exitStatus(),
     supervisorKilled: wiring.actionSubsystem.wasSupervisorKill(),
     shuttingDown: isShuttingDown(),

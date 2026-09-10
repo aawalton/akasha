@@ -135,7 +135,7 @@ export function askShutdownWrite(
   )
 }
 
-export const liveChildExitRule: ChildExitRuleSource = {
+export const LIVE_CHILD_EXIT_RULE: ChildExitRuleSource = {
   decodeWaitStatus: (raw) => askDecodeWaitStatus(raw),
   collapse: (status) => askCollapse(status),
   classify: (obs) => askClassify(obs),
