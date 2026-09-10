@@ -184,25 +184,32 @@ function answerOf(record: { type?: unknown; message?: unknown; content?: unknown
   }
 }
 
+interface TranscriptRecord {
+  readonly type?: unknown
+  readonly message?: unknown
+  readonly content?: unknown
+  readonly toolUseResult?: unknown
+}
+
+function parseTranscriptRecord(held: unknown): TranscriptRecord | null {
+  if (held === null || typeof held !== "object") return null
+  return held as TranscriptRecord
+}
+
 export function scanRecords(text: string, was: TurnWorking): TurnScan {
   const shells = new Set(was.openShells ?? [])
   const agents = new Set(was.openAgents ?? [])
   let answer: Answer | null = null
   for (const line of text.split("\n")) {
     if (line.trim() === "") continue
-    let said: unknown
+    let record: TranscriptRecord | null = null
     try {
-      said = JSON.parse(line)
+      const said: unknown = JSON.parse(line)
+      record = parseTranscriptRecord(said)
     } catch {
       continue
     }
-    if (said === null || typeof said !== "object") continue
-    const record = said as {
-      type?: unknown
-      message?: unknown
-      content?: unknown
-      toolUseResult?: unknown
-    }
+    if (record === null) continue
     const began = taskStartedIn(record.toolUseResult)
     if (began !== null) {
       if (began.kind === SHELL_TASK) shells.add(began.id)
