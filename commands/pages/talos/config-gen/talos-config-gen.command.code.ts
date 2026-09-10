@@ -15,6 +15,7 @@ import type {
   ClusterIntent,
   NodeIntent,
 } from "akasha/infrastructure/cluster/provisioning/talos/schema/schema.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
 import { lines } from "../../../modules/yaml-lines/yaml-lines.module.code.ts"
@@ -84,8 +85,7 @@ export function readIn(argv: readonly string[]): Read {
 }
 
 export function schematicSaid(): string {
-  const said = process.env[SCHEMATIC_ENV]
-  return said === undefined || said === "" ? PLACEHOLDER_SCHEMATIC_ID : said
+  return optionalEnv(SCHEMATIC_ENV) ?? PLACEHOLDER_SCHEMATIC_ID
 }
 
 async function writing(read: Named, given: Given): Promise<Answer> {
