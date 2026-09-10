@@ -1,4 +1,4 @@
-import type { TemperWeaponType } from "../temper-weapon-type.page-type.ts"
+import type { TemperWeaponType } from "../temper-weapon-type.page-type.types.ts"
 
 export const bow = {
   id: "019e46b6-4093-7b67-baf3-46ba92124202",

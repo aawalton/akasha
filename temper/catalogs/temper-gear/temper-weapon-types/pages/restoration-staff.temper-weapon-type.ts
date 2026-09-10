@@ -1,4 +1,4 @@
-import type { TemperWeaponType } from "../temper-weapon-type.page-type.ts"
+import type { TemperWeaponType } from "../temper-weapon-type.page-type.types.ts"
 
 export const restorationStaff = {
   id: "019e46b6-4098-7f3e-a6ab-4975269d4956",

@@ -1,4 +1,4 @@
-import type { TemperWeaponType } from "../temper-weapon-type.page-type.ts"
+import type { TemperWeaponType } from "../temper-weapon-type.page-type.types.ts"
 
 export const greatsword = {
   id: "019e46b6-408f-7101-8c11-f30ff5b7d117",

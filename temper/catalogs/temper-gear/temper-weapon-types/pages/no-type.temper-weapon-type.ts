@@ -1,4 +1,4 @@
-import type { TemperWeaponType } from "../temper-weapon-type.page-type.ts"
+import type { TemperWeaponType } from "../temper-weapon-type.page-type.types.ts"
 
 export const noType = {
   id: "019e46b6-407f-7bfa-a955-49524e837b1b",
