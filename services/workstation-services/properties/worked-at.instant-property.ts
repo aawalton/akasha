@@ -12,27 +12,28 @@ export const workedAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The service doing the work writes this.",
+      statement: "The service doing the work writes the moment.",
     },
     {
       invariantKind: "departure",
-      statement: "Nothing else writes this.",
+      statement: "Nothing else writes the moment.",
     },
     {
       invariantKind: "departure",
-      statement: "This moves only where a round of that work finished.",
+      statement: "The moment moves only where a round of that work finished.",
     },
     {
       invariantKind: "departure",
-      statement: "A service dying part way through a round leaves this where it was.",
+      statement: "A service dying part way through a round leaves the moment unmoved.",
     },
     {
       invariantKind: "departure",
-      statement: "This says work landed rather than saying a process is alive.",
+      statement: "The moment says work landed rather than saying a process is alive.",
     },
     {
       invariantKind: "departure",
-      statement: "A service started over and over without finishing a round never moves this.",
+      statement:
+        "A service started over and over without finishing a round never moves the moment.",
     },
   ],
 } as const satisfies InstantProperty
