@@ -5,7 +5,6 @@ const REFUSAL =
   "the attributes rather than typed beside them, and a name that disagrees with them would be " +
   `two claims about one seat. ${ROUTE}`
 
-/** The refusal a stated name earns, or null where the call states none. */
 export function refuseStatedName(args: readonly string[]): string | null {
   const first = args[0]
   if (first === undefined || first === "" || first.startsWith("-")) return null

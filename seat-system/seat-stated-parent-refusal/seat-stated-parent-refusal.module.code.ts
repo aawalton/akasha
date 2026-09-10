@@ -7,7 +7,6 @@ const REFUSAL =
   "hand-back it has no context for. Work for a different parent by setting AGENT_ID in the " +
   "environment of the call."
 
-/** The refusal a stated parent earns, or null where the call states none. */
 export function refuseStatedParent(args: readonly string[]): string | null {
   const stated = args.some((one) => one === STATED_PARENT || one.startsWith(`${STATED_PARENT}=`))
   return stated ? REFUSAL : null

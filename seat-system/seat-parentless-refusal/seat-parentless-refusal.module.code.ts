@@ -5,7 +5,6 @@ const REFUSAL =
   "reaches it. The agent starting it is read from `AGENT_ID` in its environment. A " +
   "seat answering to a person needs none, that person having opened it."
 
-/** The refusal a parentless fleet seat earns, or null where it is owed none. */
 export function refuseParentless(parent: string | null, forTheFleet: boolean): string | null {
   if (!forTheFleet) return null
   if (parent !== null && parent !== "") return null
