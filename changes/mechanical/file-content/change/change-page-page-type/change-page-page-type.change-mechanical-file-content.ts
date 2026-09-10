@@ -39,6 +39,11 @@ export const changePagePageType = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The import reaches the type file beside that page type where that page type has one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body stating the page type named already is refused.",
     },
     {

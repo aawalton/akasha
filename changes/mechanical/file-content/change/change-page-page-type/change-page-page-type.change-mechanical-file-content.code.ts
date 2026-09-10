@@ -12,6 +12,15 @@ const TYPE_KEY = "pageTypeSlug"
 
 const STATED = /^ {2}(type|pageTypeSlug): "([^"]*)",$/gm
 
+const CODE_ENDING = ".ts"
+
+const TYPES_ENDING = ".types.ts"
+
+export function typesBeside(to: string): string | null {
+  if (!to.endsWith(CODE_ENDING) || to.endsWith(TYPES_ENDING)) return null
+  return `${to.slice(0, -CODE_ENDING.length)}${TYPES_ENDING}`
+}
+
 export type Asked = {
   readonly at: string
   readonly to: string
@@ -66,7 +75,9 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
       `\`${given.at}\` imports no type named \`${name}\`, so no page type is restated`
     )
   }
-  const spelled = specifierFor(dirname(given.at), given.to)
+  const beside = typesBeside(given.to)
+  const declaring = beside !== null && world.bodyOf(beside) !== null ? beside : given.to
+  const spelled = specifierFor(dirname(given.at), declaring)
   const imported = `import type { ${typedAs(type.slug)} } from ${JSON.stringify(spelled)}`
   const carried: Answer[] = []
   let over = world

@@ -25,7 +25,7 @@ function worldOf(text: string | null, worked: Worked[]): World {
     root: "/nowhere",
     index: {} as World["index"],
     textOf: () => text,
-    bodyOf: () => "",
+    bodyOf: (at) => (at.endsWith(".types.ts") ? null : ""),
     under: () => [],
     base: () => null,
     over: NOTHING_OVER,
@@ -86,6 +86,19 @@ test("the import naming that type is restated to reach the page type named", asy
     at: AT,
     old: IMPORTED,
     new: `import type { TwoThing } from "../two/two-thing.page-type.ts"`,
+  })
+})
+
+test("the import reaches the type file beside the page type where that page type has one", async () => {
+  const worked: Worked[] = []
+  const world: World = { ...worldOf(BODY, worked), bodyOf: () => "" }
+
+  await runChange(world, { at: AT, to: TO })
+
+  expect(worked[0]?.given).toEqual({
+    at: AT,
+    old: IMPORTED,
+    new: `import type { TwoThing } from "../two/two-thing.page-type.types.ts"`,
   })
 })
 
