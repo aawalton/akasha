@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
-import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noSopsOnDevStdin, spelledIn } from "./no-sops-on-dev-stdin.syntax-rule.code.ts"
 
 test("a file calling nothing is refused nothing", () => {

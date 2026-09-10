@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noNeverSettlingThrow } from "./no-never-settling-throw.syntax-rule.code.ts"
 
 test("a file throwing nothing is refused nothing", () => {

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { parsedAs } from "@akasha/code/code-source"
-import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noRunOutsideTheRunner } from "./no-run-outside-the-runner.syntax-rule.code.ts"
 
 const TAKEN = 'import { execFileSync } from "node:child_process"\n'

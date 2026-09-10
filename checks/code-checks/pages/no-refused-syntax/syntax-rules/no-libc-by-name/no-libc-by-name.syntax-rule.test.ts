@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { isFamily, noLibcByName } from "./no-libc-by-name.syntax-rule.code.ts"
 
 test("a file opening nothing is refused nothing", () => {

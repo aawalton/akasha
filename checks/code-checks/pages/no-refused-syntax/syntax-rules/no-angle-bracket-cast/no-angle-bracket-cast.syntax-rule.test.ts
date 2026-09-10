@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noAngleBracketCast } from "./no-angle-bracket-cast.syntax-rule.code.ts"
 
 test("a file asserting nothing is refused nothing", () => {

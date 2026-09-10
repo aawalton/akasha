@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { parsedAs } from "@akasha/code/code-source"
-import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noBodyReadBesideAnIndex } from "./no-body-read-beside-an-index.syntax-rule.code.ts"
 
 const ANSWERING = 'import type { Answering } from "@akasha/indexes/answering"\n'

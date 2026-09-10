@@ -9,6 +9,7 @@ import {
   CARRIED,
   changing,
   nowhereOnDisk,
+  PROBE_AT,
   PROBE_SLUG,
   QUIET,
   RULE,
@@ -17,7 +18,6 @@ import {
   scratch,
   TEXT,
 } from "./no-refused-syntax.code-check.decision.test-fixtures.ts"
-import { PROBE_AT } from "./no-refused-syntax.code-check.test-fixtures.ts"
 import type { Given } from "./syntax-rules/syntax-rule.page-type.ts"
 
 afterAll(scratch.sweep)

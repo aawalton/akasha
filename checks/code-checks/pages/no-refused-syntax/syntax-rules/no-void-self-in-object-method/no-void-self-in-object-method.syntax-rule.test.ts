@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noVoidSelfInObjectMethod } from "./no-void-self-in-object-method.syntax-rule.code.ts"
 
 test("a file holding no object literal is refused nothing", () => {

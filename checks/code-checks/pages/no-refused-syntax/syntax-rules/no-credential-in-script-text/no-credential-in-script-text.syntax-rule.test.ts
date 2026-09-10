@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import {
   credentialNamedIn,
   noCredentialInScriptText,

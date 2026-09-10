@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noAkashaCommandFromCode } from "./no-akasha-command-from-code.syntax-rule.code.ts"
 
 test("a file launching nothing is refused nothing", () => {

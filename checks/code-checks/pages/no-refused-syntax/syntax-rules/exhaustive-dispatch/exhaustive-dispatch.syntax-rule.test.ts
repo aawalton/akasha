@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { parsedAs } from "@akasha/code/code-source"
-import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { ends, exhaustiveDispatch } from "./exhaustive-dispatch.syntax-rule.code.ts"
 
 function switching(body: string): string {

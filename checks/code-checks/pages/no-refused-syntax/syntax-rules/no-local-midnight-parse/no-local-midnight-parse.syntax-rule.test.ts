@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import ts from "typescript"
-import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { midnightPinned, noLocalMidnightParse } from "./no-local-midnight-parse.syntax-rule.code.ts"
 
 function first(text: string): ts.Expression {

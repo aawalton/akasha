@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
+import { parsed } from "../../no-refused-syntax.code-check.decision.test-fixtures.ts"
 import { noVoidReturn } from "./no-void-return.syntax-rule.code.ts"
 
 test("a file returning nothing that way is refused nothing", () => {
