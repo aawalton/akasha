@@ -1,4 +1,4 @@
-import type { GeneratorIterator } from "./GeneratorIterator"
+import type { GeneratorIterator } from "../generator/generator.lualib.code.ts"
 
 type ReadonlyArr<T> = readonly T[]
 function asReadonlyArr<T>(value: unknown): ReadonlyArr<T> {

@@ -1,5 +1,4 @@
-/** @noSelfInFile */
-import { __TS__Iterator } from "./Iterator"
+import { __TS__Iterator } from "../iterator/iterator.lualib.code.ts"
 
 function arrayLikeStep(
   this: ArrayLike<unknown>,
@@ -17,7 +16,7 @@ type ArrayLikeIterator = (
   this: void,
   arr: ArrayLike<unknown> | Iterable<unknown>
 ) => LuaIterable<LuaMultiReturn<[number, unknown]>>
-function ArrayLikeIterator(f: (arr: any) => StepSource): ArrayLikeIterator {
+function ArrayLikeIterator(this: void, f: (arr: any) => StepSource): ArrayLikeIterator {
   return f as ArrayLikeIterator
 }
 

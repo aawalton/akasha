@@ -1,6 +1,11 @@
-import { __TS__CountVarargs } from "./CountVarargs"
-import type { GeneratorIterator } from "./GeneratorIterator"
-import { __TS__Unpack } from "./Unpack"
+import { __TS__CountVarargs } from "../count-varargs/count-varargs.lualib.code.ts"
+import { __TS__Unpack } from "../unpack/unpack.lualib.code.ts"
+
+export interface GeneratorIterator {
+  ____coroutine: LuaThread
+  [Symbol.iterator]: (this: GeneratorIterator) => GeneratorIterator
+  next: (this: GeneratorIterator, ...args: any[]) => { value?: any; done: boolean }
+}
 
 function generatorIterator(this: GeneratorIterator) {
   return this
