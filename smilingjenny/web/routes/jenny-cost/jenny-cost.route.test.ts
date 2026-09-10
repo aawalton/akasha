@@ -202,12 +202,12 @@ test("the reading is a string, which is what the widget decodes", async () => {
   expect(typeof (await drawn())[0]?.reading).toBe("string")
 })
 
-test("a cost past forty-five minutes shows an empty ring rather than what it held", async () => {
+test("a cost taken long ago keeps what it holds on the ring", async () => {
   await carried(COST, 0.5, new Date(Date.now() - 46 * 60_000))
   await carried(SURPLUS, 5)
   const [one] = await drawn()
-  expect(one?.readingHeld).toBe("stale")
-  expect(one?.reading).toBe("")
+  expect(one?.readingHeld).toBeUndefined()
+  expect(one?.reading).toBe("0.5")
 })
 
 test("a machine that starts again holds no reading, and says so rather than losing the ring", async () => {

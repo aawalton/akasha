@@ -67,7 +67,7 @@ export function watchedFoldersIn(root: string): readonly string[] {
   return [...found].sort()
 }
 
-function stoplightsByGroup(root: string, now: Date): ReadonlyMap<string, readonly Stoplight[]> {
+function stoplightsByGroup(root: string): ReadonlyMap<string, readonly Stoplight[]> {
   const rungsBy = new Map<string, readonly Rung[]>()
   for (const one of heldOfType(root, READOUT_SCALE)) {
     const slug = textIn(one.values, "slug")
@@ -89,7 +89,7 @@ function stoplightsByGroup(root: string, now: Date): ReadonlyMap<string, readonl
       if (stilled(row)) continue
       const scaleSlug = textIn(row, "scale")
       const rungs = scaleSlug === null ? [] : (rungsBy.get(scaleSlug) ?? [])
-      const one = stoplightWith(row, rungs, HABIT, (values) => readingHeldOn(values, now))
+      const one = stoplightWith(row, rungs, HABIT, readingHeldOn)
       if (one !== null) found.push(figureOffScale ? { ...one, figureOffScale } : one)
     }
     held.set(groupSlug, found)
@@ -115,8 +115,8 @@ function usageNow(): UsageReading | null {
   }
 }
 
-export function statusBarLine(root: string, now: Date = new Date()): string {
-  const held = stoplightsByGroup(root, now)
+export function statusBarLine(root: string): string {
+  const held = stoplightsByGroup(root)
   return JSON.stringify({
     usage: usageNow(),
     inbox: sectionOf(held, INBOX_GROUP),

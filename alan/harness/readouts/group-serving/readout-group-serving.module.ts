@@ -70,10 +70,6 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The scale is asked for only where a fresh reading is read against that scale.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A caller handing in nothing has the relay's reading read first and the row's reading second.",
     },
@@ -92,15 +88,6 @@ export const readoutGroupServing = {
     {
       invariantKind: "departure",
       statement: "A readout with no reading is answered as a stoplight carrying no figure.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A reading older than the window is answered as a stoplight carrying no figure.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A stoplight with no figure names whether no reading was taken or the reading was too old.",
     },
     {
       invariantKind: "departure",
@@ -278,8 +265,11 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reading is answered as too old where neither the relay nor the row holds a fresh reading.",
+      statement: "The scale is asked for only where a fresh reading is read against that scale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stoplight with no figure says no reading was taken.",
     },
   ],
 } as const satisfies Module

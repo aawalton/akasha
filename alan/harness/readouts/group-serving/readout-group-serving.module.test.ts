@@ -82,20 +82,16 @@ test("a readout carrying no reading is answered as a stoplight carrying no figur
   expect(one?.readingHeld).toBe("none")
 })
 
-test("a reading older than the window is answered as a stoplight carrying no figure", async () => {
+test("a reading taken long ago is answered as a stoplight carrying its figure", async () => {
   const one = await oneDrawn(3, agedOut())
   expect(one?.label).toBe("Safety")
   expect(one?.habit).toBe("safety")
-  expect(one?.readingHeld).toBe("stale")
+  expect(one?.reading).toBe("3")
+  expect(one?.readingHeld).toBeUndefined()
 })
 
-test("a stoplight carrying no figure names whether no reading was taken or the reading was too old", async () => {
-  const never = (await stoplights())[0]?.readingHeld
-  relayedFor(READOUT, 3, agedOut())
-  const tooOld = (await stoplights())[0]?.readingHeld
-  expect(never).toBe("none")
-  expect(tooOld).toBe("stale")
-  expect(never).not.toBe(tooOld)
+test("a stoplight carrying no figure says no reading was taken", async () => {
+  expect((await stoplights())[0]?.readingHeld).toBe("none")
 })
 
 test("a reading of zero is a reading rather than an absence", async () => {
@@ -125,10 +121,6 @@ test("a stoplight carrying no figure carries no tier above and no fraction climb
   const [never] = await stoplights()
   expect(never?.nextTier).toBeUndefined()
   expect(never?.progress).toBeUndefined()
-
-  const tooOld = await oneDrawn(3, agedOut())
-  expect(tooOld?.nextTier).toBeUndefined()
-  expect(tooOld?.progress).toBeUndefined()
 })
 
 test("a stoplight carrying a reading says nothing of how that reading is held", async () => {
@@ -285,19 +277,11 @@ test("a reading on neither the relay nor the row is answered as never taken", as
   expect(one?.readingHeld).toBe("none")
 })
 
-test("a reading on the row older than the window is answered as too old", async () => {
+test("a reading on the row taken long ago is answered as the figure it holds", async () => {
   ANSWERED.readouts = rowReading(2.5, agedOut())
   const [one] = await stoplights()
-  expect(one?.reading).toBe("")
-  expect(one?.tier).toBe("black")
-  expect(one?.readingHeld).toBe("stale")
-})
-
-test("a reading too old on the relay gives way to a fresh reading on the row", async () => {
-  ANSWERED.readouts = rowReading(2.5)
-  relayedFor(READOUT, 3, agedOut())
-  const [one] = await stoplights()
   expect(one?.reading).toBe("2.5")
+  expect(one?.tier).toBe("yellow")
   expect(one?.readingHeld).toBeUndefined()
 })
 
@@ -410,7 +394,8 @@ test("a stoplight whose reading falls at nothing an hour carries neither", async
 })
 
 test("a stoplight carrying no figure carries no moment and no rate", async () => {
-  const one = await oneDrawn(2.5, agedOut(), 2)
+  const [one] = await stoplights()
+  expect(one?.reading).toBe("")
   expect(one?.takenAt).toBeUndefined()
   expect(one?.fallsPerHour).toBeUndefined()
 })

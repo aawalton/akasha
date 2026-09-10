@@ -26,9 +26,9 @@ function saidOf(groupSlug: string, unread: readonly UnreadLight[], drawn: number
   return (
     `\`${groupSlug}\` draws ${drawn} lights and ${unread.length} of them carry no reading — ` +
     `${named}. The count is right and the readings are not, which no count can see. A reading is ` +
-    "kept beside its readout page and is written by that readout's own workstation service, so a " +
-    "light that is `stale` or `none` is a service to look at rather than a page: ask " +
-    "`systemctl --user status <name>-reading-service` before reading any page."
+    "kept beside its readout page and is written by the watch that takes it, so a light carrying " +
+    "no reading is a watch to look at rather than a page: ask " +
+    "`systemctl --user status day-readout-watch-service` before reading any page."
   )
 }
 

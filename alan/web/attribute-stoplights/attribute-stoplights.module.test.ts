@@ -313,13 +313,13 @@ test("a figure is floored to one decimal place at most", async () => {
   expect((await tile.ringFor("wisdom"))?.reading).toBe("0.1")
 })
 
-test("a reading past forty-five minutes shows an empty ring rather than the figure it held", async () => {
+test("a reading taken long ago keeps the figure it holds on the ring", async () => {
   carryAll(new Date(Date.now() - 46 * 60_000))
   const some = await tile.drawn()
   expect(some.length).toBe(6)
   for (const one of some) {
-    expect(one.readingHeld).toBe("stale")
-    expect(one.reading).toBe("")
+    expect(one.readingHeld).toBeUndefined()
+    expect(one.reading).not.toBe("")
   }
 })
 

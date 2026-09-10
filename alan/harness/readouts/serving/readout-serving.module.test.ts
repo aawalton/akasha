@@ -148,13 +148,8 @@ test("a readout page naming no wire key is answered as none", async () => {
   expect((await ring(CREDENTIAL)).status).toBe(503)
 })
 
-test("a reading past forty-five minutes is no reading", async () => {
+test("a reading long past the moment it was taken is still the reading answered", async () => {
   relayedFor(READOUT, 99, new Date(Date.now() - 46 * 60_000))
-  expect((await ring(CREDENTIAL)).status).toBe(503)
-})
-
-test("a reading inside forty-five minutes is still a reading", async () => {
-  relayedFor(READOUT, 99, new Date(Date.now() - 44 * 60_000))
   expect((await ring(CREDENTIAL)).status).toBe(200)
 })
 
@@ -191,14 +186,10 @@ test("a reading on neither the relay nor the row is no reading", async () => {
   expect(await answered.json()).toEqual({ ok: false, error: "No reading." })
 })
 
-test("a reading on the row past forty-five minutes is no reading", async () => {
+test("a reading on the row is answered however long ago it was taken", async () => {
   ANSWERED.rows = [rowCarrying(7, new Date(Date.now() - 46 * 60_000))]
-  expect((await ring(CREDENTIAL)).status).toBe(503)
-})
-
-test("a reading on the row inside forty-five minutes is still a reading", async () => {
-  ANSWERED.rows = [rowCarrying(7, new Date(Date.now() - 44 * 60_000))]
   expect((await ring(CREDENTIAL)).status).toBe(200)
+  expect(await countAnswered()).toBe(7)
 })
 
 test("a reading of nothing on the row is answered as a count rather than as none", async () => {
@@ -207,52 +198,28 @@ test("a reading of nothing on the row is answered as a count rather than as none
   expect(await countAnswered()).toBe(0)
 })
 
-test("a reading too old on the relay gives way to a fresh reading on the row", async () => {
-  ANSWERED.rows = [rowCarrying(7)]
-  relayedFor(READOUT, 41, new Date(Date.now() - 46 * 60_000))
-  expect(await countAnswered()).toBe(7)
-})
-
-test("the moment a reading is judged against is handed in rather than read here", () => {
+test("the reading relayed is answered however long ago that reading was taken", () => {
   holdRelayed({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: 0 })
-  expect(relayedFresh(READOUT, new Date("2026-08-31T12:44:00.000Z"))).toBe(19)
-  expect(relayedFresh(READOUT, new Date("2026-08-31T12:46:00.000Z"))).toBeNull()
+  expect(relayedFresh(READOUT)).toBe(19)
 })
 
 test("a reading carried on a readout's own row is read as a reading", () => {
-  const held = readingHeldOn(
-    { lastValue: 19, lastValueAt: TAKEN },
-    new Date("2026-08-31T12:44:00.000Z")
-  )
+  const held = readingHeldOn({ lastValue: 19, lastValueAt: TAKEN })
   expect(held).toEqual({ held: "fresh", value: 19, at: TAKEN, fallsPerHour: 0 })
 })
 
 test("a reading held fresh carries the moment it was taken and how fast it falls", () => {
-  const held = readingHeldOn(
-    { lastValue: 19, lastValueAt: TAKEN, lastValueFallsPerHour: 2 },
-    new Date("2026-08-31T12:44:00.000Z")
-  )
+  const held = readingHeldOn({ lastValue: 19, lastValueAt: TAKEN, lastValueFallsPerHour: 2 })
   expect(held).toEqual({ held: "fresh", value: 19, at: TAKEN, fallsPerHour: 2 })
 })
 
-test("a reading carried on a row is aged by the window a relayed reading is aged by", () => {
-  const values = { lastValue: 19, lastValueAt: TAKEN }
-  expect(readingHeldOn(values, new Date("2026-08-31T12:44:00.000Z")).held).toBe("fresh")
-  expect(readingHeldOn(values, new Date("2026-08-31T12:46:00.000Z")).held).toBe("stale")
-})
-
-test("a row carrying no reading is told from a row whose reading is too old", () => {
-  expect(readingHeldOn({ slug: READOUT }, new Date(TAKEN)).held).toBe("none")
-  expect(
-    readingHeldOn({ lastValue: 19, lastValueAt: TAKEN }, new Date("2026-08-31T13:00:00.000Z")).held
-  ).toBe("stale")
+test("a row carrying no reading is told from a row carrying one", () => {
+  expect(readingHeldOn({ slug: READOUT }).held).toBe("none")
+  expect(readingHeldOn({ lastValue: 19, lastValueAt: TAKEN }).held).toBe("fresh")
 })
 
 test("a reading of nothing carried on a row is a reading rather than an absence", () => {
-  const held = readingHeldOn(
-    { lastValue: 0, lastValueAt: TAKEN },
-    new Date("2026-08-31T12:01:00.000Z")
-  )
+  const held = readingHeldOn({ lastValue: 0, lastValueAt: TAKEN })
   expect(held).toEqual({ held: "fresh", value: 0, at: TAKEN, fallsPerHour: 0 })
 })
 

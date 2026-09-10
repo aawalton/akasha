@@ -11,7 +11,6 @@ import { scratchWorld } from "../../../../commands/modules/scratching/scratching
 import {
   keepReading,
   keepSilence,
-  readingAged,
   readingKept,
   readingOn,
   readoutPage,
@@ -104,15 +103,6 @@ test("a reading carrying only one of its halves is refused rather than read as n
   const root = scratch.rootFor("readout-reading-")
   mergeUncommitted(root, PAGE, { lastValue: 19 })
   expect(() => readingKept(root, PAGE)).toThrow()
-})
-
-test("how long ago a reading was taken is measured from the moment it carries", () => {
-  const kept = { value: 19, at: TAKEN, fallsPerHour: 0 }
-  expect(readingAged(kept, new Date("2026-08-31T12:01:00.000Z"))).toBe(60000)
-})
-
-test("a moment that cannot be read refuses rather than answering an age", () => {
-  expect(() => readingAged({ value: 19, at: "never", fallsPerHour: 0 }, new Date(TAKEN))).toThrow()
 })
 
 test("a reading is read back off the values a page carries", () => {

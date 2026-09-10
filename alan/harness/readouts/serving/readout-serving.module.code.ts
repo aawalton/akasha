@@ -5,12 +5,7 @@ import {
   refuseWithoutSecret,
 } from "../credential/readout-credential.module.code.ts"
 import { noneLeftIn, stated } from "../none-left/readout-none-left.module.code.ts"
-import {
-  type Reading,
-  readingAged,
-  readingOn,
-  STALE_AFTER_MS,
-} from "../reading/readout-reading.module.code.ts"
+import { type Reading, readingOn } from "../reading/readout-reading.module.code.ts"
 import { relayedHeld } from "../relay/readout-relay.module.code.ts"
 import { readScale } from "../scale-reading/readout-scale-reading.module.code.ts"
 
@@ -27,7 +22,6 @@ export type HeldReading =
       readonly at: string
       readonly fallsPerHour: number
     }
-  | { readonly held: "stale" }
   | { readonly held: "none" }
 
 export function refuseUncredentialedRingCaller(
@@ -37,25 +31,21 @@ export function refuseUncredentialedRingCaller(
   return refuseWithoutSecret(request, RING_CREDENTIAL_HEADER, credential)
 }
 
-function heldWithin(kept: Reading | null, now: Date): HeldReading {
+function heldOf(kept: Reading | null): HeldReading {
   if (kept === null) return { held: "none" }
-  if (readingAged(kept, now) >= STALE_AFTER_MS) return { held: "stale" }
   return { held: "fresh", value: kept.value, at: kept.at, fallsPerHour: kept.fallsPerHour }
 }
 
-export function readingHeldFor(readoutSlug: string, now: Date = new Date()): HeldReading {
-  return heldWithin(relayedHeld(readoutSlug), now)
+export function readingHeldFor(readoutSlug: string): HeldReading {
+  return heldOf(relayedHeld(readoutSlug))
 }
 
-export function readingHeldOn(
-  values: Readonly<Record<string, unknown>>,
-  now: Date = new Date()
-): HeldReading {
-  return heldWithin(readingOn(values), now)
+export function readingHeldOn(values: Readonly<Record<string, unknown>>): HeldReading {
+  return heldOf(readingOn(values))
 }
 
-export function relayedFresh(readoutSlug: string, now: Date = new Date()): number | null {
-  const reading = readingHeldFor(readoutSlug, now)
+export function relayedFresh(readoutSlug: string): number | null {
+  const reading = readingHeldFor(readoutSlug)
   return reading.held === "fresh" ? reading.value : null
 }
 

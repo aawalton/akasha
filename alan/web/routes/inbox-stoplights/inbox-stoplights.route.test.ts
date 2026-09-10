@@ -269,13 +269,13 @@ test("a count is written as the number the relay carried rather than rounded off
   expect((await tile.ringFor("tasks"))?.reading).toBe("4.4")
 })
 
-test("a reading past forty-five minutes shows an empty ring rather than the count it held", async () => {
+test("a reading taken long ago keeps the count it holds on the ring", async () => {
   await carryAll(new Date(Date.now() - 46 * 60_000))
   const some = await tile.drawn()
   expect(some.length).toBe(3)
   for (const one of some) {
-    expect(one.readingHeld).toBe("stale")
-    expect(one.reading).toBe("")
+    expect(one.readingHeld).toBeUndefined()
+    expect(one.reading).not.toBe("")
   }
 })
 

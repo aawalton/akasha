@@ -13,13 +13,13 @@ test("a light carrying a figure is read, whatever color the light came out", () 
 
 test("three lights of the right count carrying no reading are each named", () => {
   const unread = unreadIn([
-    light("Email", "", "stale"),
-    light("Tasks", "", "stale"),
+    light("Email", "", "none"),
+    light("Tasks", "", "none"),
     light("Temper tasks", "", "none"),
   ])
   expect(unread).toEqual([
-    { label: "Email", held: "stale" },
-    { label: "Tasks", held: "stale" },
+    { label: "Email", held: "none" },
+    { label: "Tasks", held: "none" },
     { label: "Temper tasks", held: "none" },
   ])
 })

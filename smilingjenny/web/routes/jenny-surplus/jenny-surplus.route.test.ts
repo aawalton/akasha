@@ -212,11 +212,11 @@ test("a reading arriving replaces the one held before it", async () => {
   expect((await drawn())[0]?.reading).toBe("2")
 })
 
-test("a reading past forty-five minutes shows an empty ring rather than what it held", async () => {
+test("a reading taken long ago keeps what it holds on the ring", async () => {
   await carryNow(1, new Date(Date.now() - 46 * 60_000))
   const [one] = await drawn()
-  expect(one?.readingHeld).toBe("stale")
-  expect(one?.reading).toBe("")
+  expect(one?.readingHeld).toBeUndefined()
+  expect(one?.reading).toBe("1")
 })
 
 test("a machine that starts again holds no reading, and says so rather than losing the ring", async () => {
@@ -227,12 +227,12 @@ test("a machine that starts again holds no reading, and says so rather than losi
   expect(one?.reading).toBe("")
 })
 
-test("a reading never taken and one gone stale are told apart on the wire", async () => {
+test("a reading never taken and one taken long ago are told apart on the wire", async () => {
   const never = (await drawn())[0]?.readingHeld
   await carryNow(1, new Date(Date.now() - 46 * 60_000))
-  const stale = (await drawn())[0]?.readingHeld
+  const held = (await drawn())[0]?.readingHeld
   expect(never).toBe("none")
-  expect(stale).toBe("stale")
+  expect(held).toBeUndefined()
 })
 
 test("a surplus added up out of hours is floored to one decimal place", async () => {

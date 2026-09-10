@@ -161,11 +161,11 @@ test("the reading is a string, which is what the widget decodes", async () => {
   expect(typeof (await tile.drawn())[0]?.reading).toBe("string")
 })
 
-test("a reading past forty-five minutes shows an empty ring rather than the surplus it held", async () => {
+test("a reading taken long ago keeps the surplus it holds on the ring", async () => {
   await carryNow(1, new Date(Date.now() - 46 * 60_000))
   const [one] = await tile.drawn()
-  expect(one?.readingHeld).toBe("stale")
-  expect(one?.reading).toBe("")
+  expect(one?.readingHeld).toBeUndefined()
+  expect(one?.reading).toBe("1")
 })
 
 test("a surplus of zero and a surplus never carried are told apart on the wire", async () => {

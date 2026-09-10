@@ -44,11 +44,6 @@ export const safetyLevel = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`readingHeld` names whether nothing was ever carried or the reading carried went stale.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An empty figure keeps a level nobody has off the ring.",
     },
     {
@@ -62,6 +57,10 @@ export const safetyLevel = {
     {
       invariantKind: "departure",
       statement: "The shipped widget fails its whole decode on a tier outside its six colors.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`readingHeld` says nothing was ever carried.",
     },
   ],
 } as const satisfies Route

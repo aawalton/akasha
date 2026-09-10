@@ -59,15 +59,6 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The age a reading may reach and still be shown is stated here alone.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The age a reading may reach and still be shown is read wherever a reading is shown.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A readout with nothing beside that readout has taken no reading.",
     },
     {

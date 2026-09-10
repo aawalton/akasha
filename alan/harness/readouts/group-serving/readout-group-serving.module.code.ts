@@ -29,7 +29,7 @@ export const HABIT = "habit"
 
 const NO_FIGURE = ""
 
-export type ReadingUnheld = "none" | "stale"
+export type ReadingUnheld = "none"
 
 export type Stoplight = {
   readonly habit?: string
@@ -53,9 +53,7 @@ export type ReadingHeld = (row: Values) => HeldReading
 export function relayedReading(row: Values): HeldReading {
   const relayed = readingHeldFor(stated(row.slug) ?? "")
   if (relayed.held === "fresh") return relayed
-  const carried = readingHeldOn(row)
-  if (carried.held === "fresh") return carried
-  return relayed.held === "none" ? carried : relayed
+  return readingHeldOn(row)
 }
 
 export function inPlaceOrder(rows: readonly Values[]): readonly Values[] {

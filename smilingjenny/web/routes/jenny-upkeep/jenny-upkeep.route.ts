@@ -53,11 +53,6 @@ export const jennyUpkeep = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`readingHeld` names whether no reading was ever taken or the reading taken went stale.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Only a group no readout is left in answers 503.",
     },
     {
@@ -72,6 +67,10 @@ export const jennyUpkeep = {
     {
       invariantKind: "departure",
       statement: "The readings this route's tests read are fixtures rather than Alan's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`readingHeld` says no reading was ever taken.",
     },
   ],
 } as const satisfies Route

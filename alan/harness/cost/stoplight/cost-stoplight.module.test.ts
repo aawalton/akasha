@@ -142,10 +142,10 @@ test("a surplus nothing carried colors the cost as a black surplus colors it", a
   expect((await oneDrawn())?.tier).toBe("black")
 })
 
-test("a surplus older than the window colors the cost as a black surplus colors it", async () => {
+test("a surplus taken long ago colors the cost as a surplus taken now colors it", async () => {
   relayedFor(COST, 0.5)
   relayedFor(SURPLUS, 5, agedOut())
-  expect((await oneDrawn())?.tier).toBe("black")
+  expect((await oneDrawn())?.tier).toBe("yellow")
 })
 
 test("a cost nothing carried is answered as a stoplight carrying no figure", async () => {
@@ -156,13 +156,12 @@ test("a cost nothing carried is answered as a stoplight carrying no figure", asy
   expect(one?.readingHeld).toBe("none")
 })
 
-test("a cost older than the window is answered as a stoplight carrying no figure", async () => {
+test("a cost taken long ago is answered as a stoplight carrying its figure", async () => {
   relayedFor(COST, 0.5, agedOut())
   relayedFor(SURPLUS, 5)
   const one = await oneDrawn()
-  expect(one?.tier).toBe("black")
-  expect(one?.reading).toBe("")
-  expect(one?.readingHeld).toBe("stale")
+  expect(one?.reading).toBe("0.5")
+  expect(one?.readingHeld).toBeUndefined()
 })
 
 test("a cost of zero and a cost never carried are told apart on the wire", async () => {
@@ -293,10 +292,10 @@ test("a cost carried with no surplus beside it carries none", async () => {
   expect((await oneDrawn())?.coloredWith).toBeUndefined()
 })
 
-test("a surplus older than the window is not carried, there being no figure to read on", async () => {
+test("a surplus taken long ago is carried, the figure on it being read all the same", async () => {
   relayedFor(COST, 0.5)
   relayedFor(SURPLUS, 9, agedOut(), 1)
-  expect((await oneDrawn())?.coloredWith).toBeUndefined()
+  expect((await oneDrawn())?.coloredWith?.reading).toBe("9")
 })
 
 test("a caller wanting the colors without a route asks for them on their own", async () => {

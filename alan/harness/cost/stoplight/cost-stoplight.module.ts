@@ -61,20 +61,7 @@ export const costStoplight = {
     },
     {
       invariantKind: "departure",
-      statement: "A cost older than the window is answered as a stoplight carrying no figure.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A stoplight with no figure names whether no reading was taken or the reading was too old.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The color of a stoplight with no figure is the color below every rung.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A surplus missing or too old colors the cost as a black surplus colors it.",
     },
     {
       invariantKind: "departure",
@@ -89,10 +76,6 @@ export const costStoplight = {
     {
       invariantKind: "departure",
       statement: "A cost of nothing carries no surplus.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A surplus missing or too old is not carried.",
     },
     {
       invariantKind: "departure",
@@ -142,6 +125,14 @@ export const costStoplight = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads a person or a device.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A surplus nothing carried colors the cost as a black surplus colors it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A surplus nothing carried is not carried.",
     },
   ],
 } as const satisfies Module

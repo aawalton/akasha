@@ -263,11 +263,11 @@ test("the reading is a string, which is what the widget decodes", async () => {
   for (const one of await drawn()) expect(typeof one.reading).toBe("string")
 })
 
-test("a reading past forty-five minutes shows an empty ring rather than what it held", async () => {
+test("a reading taken long ago keeps what it holds on the ring", async () => {
   await carryNow(new Date(Date.now() - 46 * 60_000))
   for (const one of await drawn()) {
-    expect(one.readingHeld).toBe("stale")
-    expect(one.reading).toBe("")
+    expect(one.readingHeld).toBeUndefined()
+    expect(one.reading).not.toBe("")
   }
 })
 

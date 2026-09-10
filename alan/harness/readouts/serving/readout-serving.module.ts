@@ -36,31 +36,12 @@ export const readoutServing = {
     {
       invariantKind: "departure",
       statement:
-        "A reading older than the window is answered as no reading rather than as a count.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A reading never taken and a reading too old are told apart rather than both read as no reading.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
         "A reading relayed here and a reading carried on a readout's own row are both read.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A reading carried on a row is aged by the window a relayed reading is aged by.",
     },
     {
       invariantKind: "departure",
       statement:
         "A reading held fresh carries the moment it was taken and how fast it falls with the clock.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The route for a single readout answers no reading for a reading too old or never taken.",
     },
     {
       invariantKind: "departure",
@@ -127,7 +108,20 @@ export const readoutServing = {
         "A machine that starts again draws its tiles from the readout rows rather than blank.",
     },
     {
-      invariantKind: "gap",
+      invariantKind: "departure",
+      statement: "The route for a single readout answers no reading for a reading never taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading is answered however old that reading is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Whether a reading is current is whether its taker is well rather than how old it is.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A workstation that stops taking readings leaves every tile drawn rather than blank.",
     },

@@ -25,8 +25,6 @@ const LAST_VALUE_AT = "lastValueAt"
 
 const LAST_VALUE_FALLS_PER_HOUR = "lastValueFallsPerHour"
 
-export const STALE_AFTER_MS = 45 * 60_000
-
 export const NOT_FALLING = 0
 
 export type Reading = {
@@ -106,14 +104,4 @@ export function keepSilence(
     wrote.push(page)
   }
   return wrote
-}
-
-export function readingAged(kept: Reading, now: Date): number {
-  const took = Date.parse(kept.at)
-  if (Number.isNaN(took)) {
-    throw new Error(
-      `'${kept.at}' is no moment, so how long ago the reading was taken cannot be worked out`
-    )
-  }
-  return now.getTime() - took
 }
