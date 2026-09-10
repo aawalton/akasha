@@ -18,11 +18,16 @@ export const changePagePageType = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file a page keeps beside that page states the new page type in its name.",
+      statement:
+        "Every file beside a page whose name carries the old page type states the new one instead.",
     },
     {
       invariantKind: "departure",
-      statement: "A file stating no page type in its name is refused rather than left behind.",
+      statement: "A file whose name a property fixes is left where that file is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name a property fixes is chosen outside akasha and carries no page type.",
     },
     {
       invariantKind: "departure",

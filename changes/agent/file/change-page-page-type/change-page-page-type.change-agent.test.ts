@@ -3,6 +3,7 @@ import {
   bodyOf,
   idOf,
   indexedRepo,
+  pageOf,
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
@@ -34,6 +35,12 @@ const ONE_CODE = "akasha/kept/one.kept.code.ts"
 
 const ONE_CODE_MOVED = "akasha/kept/one.spare.code.ts"
 
+const ROUTES_TYPE = "akasha/routes.file-property.ts"
+
+const ROUTES_AT = "akasha/kept/routes.ts"
+
+const ROUTES_BODY = `export const routes = []\n`
+
 const ONE_CODE_BODY = `import { one } from "./one.kept.ts"
 
 export const held = one.slug
@@ -46,6 +53,7 @@ export const one = {
   pageTypeSlug: "kept",
   slug: "one",
   code: "ts",
+  routes: "ts",
   definition: "a page stated as another page type",
 } as const satisfies Kept
 `
@@ -57,7 +65,10 @@ function typeBody(slug: string, at: string): string {
     slug,
     pluralSlug: `${slug}s`,
     extendsSlug: ["page-type/page"],
-    properties: [{ pagePropertySlug: "file-property/code", required: false, many: false }],
+    properties: [
+      { pagePropertySlug: "file-property/code", required: false, many: false },
+      { pagePropertySlug: "file-property/routes", required: false, many: false },
+    ],
   })
 }
 
@@ -65,8 +76,16 @@ function repoIn(): string {
   return indexedRepo({
     [KEPT_TYPE]: typeBody("kept", "e"),
     [SPARE_TYPE]: typeBody("spare", "f"),
+    [ROUTES_TYPE]: pageOf({
+      id: idOf("g"),
+      pageTypeSlug: "file-property",
+      slug: "routes",
+      propertySlug: "routes",
+      fileName: "routes.ts",
+    }),
     [ONE_PAGE]: ONE_BODY,
     [ONE_CODE]: ONE_CODE_BODY,
+    [ROUTES_AT]: ROUTES_BODY,
   })
 }
 
@@ -118,6 +137,13 @@ test("a moved body naming another moved path is repointed in the same answer", a
 
   expect(said.refused).toBeNull()
   expect(bodiesIn(said, world.base).get(ONE_CODE_MOVED) ?? "").toContain(`from "./one.spare.ts"`)
+})
+
+test("a file whose name a property fixes is left where that file is", async () => {
+  const said = await changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).not.toContain(ROUTES_AT)
 })
 
 test("the page type a page already is refuses rather than carrying the page", async () => {

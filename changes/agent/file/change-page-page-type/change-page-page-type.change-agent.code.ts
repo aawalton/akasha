@@ -32,7 +32,7 @@ function renamedInto(
   const said = new Map<string, string>()
   for (const one of beside) {
     const held = one.replace(`.${was}.`, `.${now}.`)
-    if (held === one) return `\`${one}\` states no \`${was}\` in its name, so the page type stands`
+    if (held === one) continue
     if (world.bodyOf(held) !== null) return `\`${held}\` is a body already`
     said.set(one, held)
   }

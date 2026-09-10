@@ -6,7 +6,7 @@ export const clusterManifests = {
   type: "workspace-package",
   slug: "cluster-manifests",
   definition: "the Kubernetes manifests each part of the cluster is applied as",
-  manifest: "json",
+
   tunnelRoutes: "ts",
   parts: [
     "module/app-namespaces-synth",
