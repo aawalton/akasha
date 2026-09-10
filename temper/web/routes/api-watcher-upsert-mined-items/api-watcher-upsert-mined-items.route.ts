@@ -15,7 +15,11 @@ export const apiWatcherUpsertMinedItems = {
     },
     {
       invariantKind: "constraint",
-      statement: "A row sits inside a page's body, and the store writes a path and a whole body.",
+      statement: "A row sits inside a page's body.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The store writes a path and a whole body.",
     },
     {
       invariantKind: "departure",
