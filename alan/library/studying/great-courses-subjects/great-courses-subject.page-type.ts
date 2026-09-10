@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-
-export type GreatCoursesSubject = CollectionExternal & {
-  title: Title
-}
 
 export const greatCoursesSubject = {
   id: "01a06574-0291-7003-8e30-de8222ab3a07",
@@ -29,4 +23,5 @@ export const greatCoursesSubject = {
       statement: "Every subject sits under the shelf the subjects are sorted on.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,4 +1,4 @@
-import type { GreatCoursesSubject } from "../great-courses-subject.page-type.ts"
+import type { GreatCoursesSubject } from "../great-courses-subject.page-type.types.ts"
 
 export const literatureGreatCourses = {
   id: "019db533-f3a0-78fa-85c4-2718c7e1f879",
