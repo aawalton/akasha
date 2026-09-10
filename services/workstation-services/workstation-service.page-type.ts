@@ -111,7 +111,8 @@ export const workstationService = {
     },
     {
       invariantKind: "departure",
-      statement: "What the last look at a service's health found is carried outside the commit.",
+      statement:
+        "The finding of the last look at a service's health is carried outside the commit.",
     },
     {
       invariantKind: "departure",
@@ -137,11 +138,11 @@ export const workstationService = {
     {
       invariantKind: "departure",
       statement:
-        "A service publishes beside its page every host name it states and could not bind.",
+        "A service publishes beside its page every host name the service states and could not bind.",
     },
     {
       invariantKind: "departure",
-      statement: "A service publishing a host name it could not bind is broken.",
+      statement: "A service publishing a host name the service could not bind is broken.",
     },
     {
       invariantKind: "departure",
@@ -150,7 +151,7 @@ export const workstationService = {
     },
     {
       invariantKind: "departure",
-      statement: "A service says on its page how long it may go without a round landing.",
+      statement: "A service says on its page how long the service may go without a round landing.",
     },
     {
       invariantKind: "departure",
