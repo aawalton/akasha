@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { ListMembers } from "./properties/list-members.record-property.ts"
-
-export type List = Domain & {
-  members: ListMembers
-}
 
 export const list = {
   id: "01a06838-7a9d-7597-b7a6-0f752f753e26",
@@ -45,4 +39,5 @@ export const list = {
       statement: "A member wanting a paragraph is a page of its own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
