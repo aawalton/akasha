@@ -13,7 +13,7 @@ export function cursorPath(): string {
 
 export function parseErrorCursor(raw: string): ReadonlyMap<string, number> {
   try {
-    const read = CURSOR_SHAPE.safeParse(JSON.parse(raw) as unknown)
+    const read = CURSOR_SHAPE.safeParse(JSON.parse(raw))
     return read.success ? new Map(Object.entries(read.data)) : new Map()
   } catch {
     return new Map()
