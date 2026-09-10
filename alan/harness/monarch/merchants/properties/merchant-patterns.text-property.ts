@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type MerchantPatterns = string
+export type MerchantPatterns = List<string>
 
 export const merchantPatterns = {
   id: "01a0680c-3c00-700a-8e26-5b3d7f4a310b",

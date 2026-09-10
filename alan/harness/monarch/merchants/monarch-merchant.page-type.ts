@@ -5,7 +5,7 @@ import type { MerchantPatterns } from "./properties/merchant-patterns.text-prope
 
 export type MonarchMerchant = Page & {
   title: Title
-  merchantPatterns: readonly MerchantPatterns[]
+  merchantPatterns: MerchantPatterns
 }
 
 export const monarchMerchant = {
