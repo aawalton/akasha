@@ -1,4 +1,4 @@
-import type { TemperEsoPlayerEquipmentConstant } from "../temper-eso-player-equipment-constant.page-type.ts"
+import type { TemperEsoPlayerEquipmentConstant } from "../temper-eso-player-equipment-constant.page-type.types.ts"
 
 export const armorTypeMedium = {
   id: "01a05fd7-41be-7672-9a75-7d7f70c43e72",

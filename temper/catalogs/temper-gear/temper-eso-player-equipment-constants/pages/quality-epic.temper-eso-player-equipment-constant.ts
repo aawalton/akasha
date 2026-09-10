@@ -1,4 +1,4 @@
-import type { TemperEsoPlayerEquipmentConstant } from "../temper-eso-player-equipment-constant.page-type.ts"
+import type { TemperEsoPlayerEquipmentConstant } from "../temper-eso-player-equipment-constant.page-type.types.ts"
 
 export const qualityEpic = {
   id: "01a05fd7-41c0-7501-be05-778a13e823d7",

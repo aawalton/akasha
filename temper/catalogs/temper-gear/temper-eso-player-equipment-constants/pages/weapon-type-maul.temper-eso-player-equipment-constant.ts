@@ -1,4 +1,4 @@
-import type { TemperEsoPlayerEquipmentConstant } from "../temper-eso-player-equipment-constant.page-type.ts"
+import type { TemperEsoPlayerEquipmentConstant } from "../temper-eso-player-equipment-constant.page-type.types.ts"
 
 export const weaponTypeMaul = {
   id: "01a05fd7-41c5-77f8-86b0-de015aad27a1",
