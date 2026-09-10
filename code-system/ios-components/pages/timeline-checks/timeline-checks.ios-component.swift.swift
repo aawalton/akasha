@@ -31,30 +31,12 @@ enum TimelineChecks {
         }
     }
 
-    // THE COST FEED'S CONFORMANCE WRITTEN OUT AGAIN, BECAUSE NO HARNESS COMPILES A WIDGET.
+    // `CostFeed` HERE IS THE APP'S OWN, WHICH IS WHY EACH HARNESS NAMES ITS COST WIDGET.
     //
-    // Neither decode harness names a cost widget among its components, so the real
-    // `CostFeed` and its one-line `turns` are compiled by the app alone. The same two lines
-    // stand here so a change to the requirement's shape is caught before a build is asked
-    // for. If the real one ever says anything but `CostCountdown.turning`, this stops
-    // standing for it and both belong in one place instead.
-    enum CostFeedShape: WidgetFeed {
-        static let endpoint = URL(string: "https://example.invalid/cost")!
-
-        static let previewPayload = CostResponse(
-            stoplights: [
-                HabitStoplight(
-                    habit: nil, tier: .yellow, reading: "0.50", nextTier: nil, progress: nil,
-                    label: "Cost"
-                )
-            ]
-        )
-
-        static func turns(_ payload: CostResponse, after now: Date) -> Date? {
-            CostCountdown.turning(payload, now)
-        }
-    }
-
+    // Each app declares its own `CostFeed`, one to a target, so this file reaches whichever
+    // one it was compiled beside. Asking that feed rather than a stand-in is the only way
+    // the conformance a phone will run is the conformance a check ran. A harness that stops
+    // naming its cost widget stops building here, which is the reminder wanted.
     private static func costing(_ extra: String) -> CostResponse? {
         let sent = Data(
             #"{"stoplights":[{"habit":"cost","tier":"red","reading":"0.5","label":"Cost"\#(extra)}]}"#
@@ -133,17 +115,24 @@ enum TimelineChecks {
                 "two entries"
             ),
             (
-                "a cost feed asked through the protocol answers the moment the cost names",
-                colored.flatMap { FeedTimeline.turning(CostFeedShape.self, .loaded($0), now) }
+                "the app's own cost feed answers the moment the cost names",
+                colored.flatMap { FeedTimeline.turning(CostFeed.self, .loaded($0), now) }
                     == reached,
                 String(
                     describing: colored.flatMap {
-                        FeedTimeline.turning(CostFeedShape.self, .loaded($0), now)
+                        FeedTimeline.turning(CostFeed.self, .loaded($0), now)
                     })
             ),
             (
-                "a cost feed that has never loaded answers no moment",
-                FeedTimeline.turning(CostFeedShape.self, .neverLoaded, now) == nil, "no payload"
+                "the app's own cost feed answers no moment before it has loaded",
+                FeedTimeline.turning(CostFeed.self, .neverLoaded, now) == nil, "no payload"
+            ),
+            (
+                "the timeline the app's own cost feed asks for stands two entries",
+                colored.flatMap {
+                    FeedTimeline.turning(CostFeed.self, .loaded($0), now)
+                }.map { FeedTimeline.dates(now: now, turning: $0) } == [now, reached],
+                "two entries"
             ),
             (
                 "the entry at that moment re-aims at the rung under the one just reached",

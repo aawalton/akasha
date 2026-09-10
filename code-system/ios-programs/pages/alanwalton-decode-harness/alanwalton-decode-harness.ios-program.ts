@@ -9,6 +9,7 @@ export const alanwaltonDecodeHarness = {
   main: "swift",
   components: [
     "ios-component/alanwalton-categorize-widget",
+    "ios-component/alanwalton-cost-widget",
     "ios-component/alanwalton-claude-usage-payload",
     "ios-component/alanwalton-claude-usage-view",
     "ios-component/alanwalton-device-secret-reader",

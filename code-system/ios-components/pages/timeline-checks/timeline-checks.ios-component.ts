@@ -31,12 +31,11 @@ export const timelineChecks = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The cost feed's own conformance stands here again, no harness compiling a widget.",
+      statement: "The cost feed asked is the app's own rather than one written again here.",
     },
     {
-      invariantKind: "gap",
-      statement: "Nothing catches that copy and the real conformance saying different things.",
+      invariantKind: "constraint",
+      statement: "A harness that names no cost widget has no cost feed for these to reach.",
     },
     {
       invariantKind: "absence",
