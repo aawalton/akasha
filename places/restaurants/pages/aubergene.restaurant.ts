@@ -1,4 +1,4 @@
-import type { Restaurant } from "../restaurant.page-type.ts"
+import type { Restaurant } from "../restaurant.page-type.types.ts"
 
 export const aubergene = {
   id: "01a06808-a2ec-7001-bbba-7c14b16d57e4",

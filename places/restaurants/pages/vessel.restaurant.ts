@@ -1,4 +1,4 @@
-import type { Restaurant } from "../restaurant.page-type.ts"
+import type { Restaurant } from "../restaurant.page-type.types.ts"
 
 export const vessel = {
   id: "01a06808-a2ed-7000-8600-f292d1571c62",

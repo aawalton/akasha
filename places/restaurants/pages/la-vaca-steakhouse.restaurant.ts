@@ -1,4 +1,4 @@
-import type { Restaurant } from "../restaurant.page-type.ts"
+import type { Restaurant } from "../restaurant.page-type.types.ts"
 
 export const laVacaSteakhouse = {
   id: "01a06808-a2ec-7003-b91a-bb824ab58acf",

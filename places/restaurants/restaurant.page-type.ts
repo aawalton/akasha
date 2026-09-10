@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../collections/collection.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-
-export type Restaurant = Collection & {
-  title: Title
-}
 
 export const restaurant = {
   id: "01a06807-be66-700b-be52-bd042c86fc17",
@@ -15,4 +9,5 @@ export const restaurant = {
   pluralSlug: "restaurants",
   extends: ["page-type/collection"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  types: "ts",
 } as const satisfies PageType

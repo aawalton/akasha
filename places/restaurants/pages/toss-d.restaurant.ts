@@ -1,4 +1,4 @@
-import type { Restaurant } from "../restaurant.page-type.ts"
+import type { Restaurant } from "../restaurant.page-type.types.ts"
 
 export const tossD = {
   id: "01a06808-a2ec-7005-8920-e1eef9c76115",
