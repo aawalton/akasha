@@ -10,5 +10,6 @@ export const initiative = {
     "command/initiative-move-intent",
     "command/initiative-work-tree",
     "command/initiative-delete-intent",
+    "command/initiative-delete",
   ],
 } as const satisfies Namespace

@@ -7,7 +7,10 @@ import {
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
 import { describedAs } from "../tree-description/tree-description.module.code.ts"
-import { deletingIntent } from "../work-tree-deleting/work-tree-deleting.module.code.ts"
+import {
+  deletingInitiative,
+  deletingIntent,
+} from "../work-tree-deleting/work-tree-deleting.module.code.ts"
 import {
   agreementOf,
   createWorkDragging,
@@ -17,6 +20,7 @@ import {
   reorderedTo,
 } from "../work-tree-dragging/work-tree-dragging.module.code.ts"
 import {
+  DELETE_INITIATIVE_COMMAND,
   DELETE_INTENT_COMMAND,
   REFRESH_COMMAND,
   VIEW_ID,
@@ -133,6 +137,11 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return refresh("refused")
   }
 
+  const said = (line: string): undefined => {
+    output.appendLine(line)
+    return undefined
+  }
+
   const reading = followState<WorkTreeState>(akashaRoot(), SLUG, (held) => draw(held, "work"))
 
   context.subscriptions.push(
@@ -148,10 +157,10 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     vscode.window.registerFileDecorationProvider(createWorkDecorationProvider()),
     vscode.commands.registerCommand(REFRESH_COMMAND, () => refresh("manual")),
     vscode.commands.registerCommand(DELETE_INTENT_COMMAND, (row?: WorkTreeRow) =>
-      deletingIntent(vscode, (line) => {
-        output.appendLine(line)
-        return undefined
-      })(row)
+      deletingIntent(vscode, said)(row)
+    ),
+    vscode.commands.registerCommand(DELETE_INITIATIVE_COMMAND, (row?: WorkTreeRow) =>
+      deletingInitiative(vscode, said)(row)
     )
   )
   return undefined

@@ -66,6 +66,10 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
+      statement: "A row deleted is drawn away by the file the service writes rather than at once.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file the service has not written leaves the rows drawn as they are.",
     },
     {

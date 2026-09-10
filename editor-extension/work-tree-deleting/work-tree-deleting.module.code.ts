@@ -7,6 +7,14 @@ const INTENT_EXPORT = "initiativeDeleteIntent"
 
 const INTENT_TIMEOUT_MS = 60_000
 
+const INITIATIVE_MODULE = "initiative-delete"
+
+const INITIATIVE_EXPORT = "initiativeDelete"
+
+const INITIATIVE_TIMEOUT_MS = 120_000
+
+const CONFIRM = "Delete"
+
 export type Calling = (
   module: string,
   exported: string,
@@ -17,6 +25,11 @@ export type Calling = (
 export type Editor = {
   readonly window: {
     readonly showErrorMessage: (said: string) => unknown
+    readonly showWarningMessage: (
+      said: string,
+      options: { readonly modal: true; readonly detail: string },
+      confirm: string
+    ) => PromiseLike<string | undefined>
   }
 }
 
@@ -33,6 +46,51 @@ export function intentGoneOf(row: WorkTreeRow | undefined): IntentGone | null {
 
 export function intentFailureSaid(one: IntentGone, why: string): string {
   return `${one.slug}: the intent \`${one.statement}\` did not go. ${why}`
+}
+
+export function initiativeGoneOf(row: WorkTreeRow | undefined): string | null {
+  if (row === undefined || row.kind !== "initiative" || row.key === "") return null
+  return row.key
+}
+
+export function initiativeAskedSaid(slug: string): string {
+  return `Delete the initiative ${slug}?`
+}
+
+export function initiativeDetailSaid(slug: string): string {
+  return `${slug} goes with every intent it holds. A seat assigned to it keeps that assignment.`
+}
+
+export function initiativeFailureSaid(slug: string, why: string): string {
+  return `${slug}: the initiative did not go. ${why}`
+}
+
+export function deletingInitiative(
+  editor: Editor,
+  say: (line: string) => undefined,
+  call: Calling = callHarness
+): (row?: WorkTreeRow) => Promise<undefined> {
+  return async (row?: WorkTreeRow) => {
+    const slug = initiativeGoneOf(row)
+    if (slug === null) return undefined
+    const chosen = await editor.window.showWarningMessage(
+      initiativeAskedSaid(slug),
+      { modal: true, detail: initiativeDetailSaid(slug) },
+      CONFIRM
+    )
+    if (chosen !== CONFIRM) return undefined
+    try {
+      const said = await call(INITIATIVE_MODULE, INITIATIVE_EXPORT, [slug], {
+        timeout: INITIATIVE_TIMEOUT_MS,
+      })
+      say(`[delete initiative] ${said.trim()}`)
+    } catch (thrown) {
+      const why = initiativeFailureSaid(slug, String(thrown))
+      say(`[delete initiative] ${why}`)
+      void editor.window.showErrorMessage(`Work: ${why}`)
+    }
+    return undefined
+  }
 }
 
 export function deletingIntent(

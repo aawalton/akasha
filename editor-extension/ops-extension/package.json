@@ -151,6 +151,11 @@
         "command": "opsWorkTree.deleteIntent",
         "category": "Ops Work",
         "title": "Delete"
+      },
+      {
+        "command": "opsWorkTree.deleteInitiative",
+        "category": "Ops Work",
+        "title": "Delete"
       }
     ],
     "keybindings": [
@@ -217,6 +222,11 @@
         {
           "command": "opsWorkTree.deleteIntent",
           "when": "view == opsWorkTree && viewItem == intent",
+          "group": "7_modification@1"
+        },
+        {
+          "command": "opsWorkTree.deleteInitiative",
+          "when": "view == opsWorkTree && viewItem == initiative",
           "group": "7_modification@1"
         }
       ],

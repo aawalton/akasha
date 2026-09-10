@@ -36,6 +36,34 @@ export const workTreeDeleting = {
     },
     {
       invariantKind: "departure",
+      statement: "An initiative is named to the command by the slug its row is keyed by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row that is no initiative deletes no initiative.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Deleting an initiative is made by the command taking an initiative away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Alan is asked to confirm before an initiative goes, in a modal he answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The modal says the intents go with the initiative and a seat's assignment stays.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An answer other than the confirming word deletes nothing and says nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An initiative is given longer to go than an intent.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A deletion that failed is said to Alan once and written to the panel's channel.",
     },
     {
@@ -54,6 +82,7 @@ export const workTreeDeleting = {
       invariantKind: "absence",
       statement: "Alan is not asked to confirm before an intent goes.",
     },
+
     {
       invariantKind: "absence",
       statement: "Nothing here writes the initiative's page.",

@@ -1,7 +1,12 @@
 import { expect, test } from "bun:test"
 import {
+  deletingInitiative,
   deletingIntent,
   type Editor,
+  initiativeAskedSaid,
+  initiativeDetailSaid,
+  initiativeFailureSaid,
+  initiativeGoneOf,
   intentFailureSaid,
   intentGoneOf,
 } from "./work-tree-deleting.module.code.ts"
@@ -27,12 +32,22 @@ function callingWith(answer: string | Error, kept: Said[]) {
   }
 }
 
-function editorSaying(shown: string[]): Editor {
+type Asked = { said: string; detail: string; confirm: string }
+
+function editorSaying(shown: string[], asked: Asked[] = [], chosen?: string): Editor {
   return {
     window: {
       showErrorMessage: (said: string) => {
         shown.push(said)
         return undefined
+      },
+      showWarningMessage: (
+        said: string,
+        options: { readonly modal: true; readonly detail: string },
+        confirm: string
+      ) => {
+        asked.push({ said, detail: options.detail, confirm })
+        return Promise.resolve(chosen)
       },
     },
   }
@@ -112,4 +127,107 @@ test("a failure is said in words naming the initiative and the statement", () =>
   expect(intentFailureSaid({ slug: "held", statement: "A thing is so." }, "why")).toBe(
     "held: the intent `A thing is so.` did not go. why"
   )
+})
+
+const INITIATIVE = rowOf("initiative", "held", "held")
+
+test("an initiative row answers the slug it is keyed by", () => {
+  expect(initiativeGoneOf(INITIATIVE)).toBe("held")
+})
+
+test("an intent row answers no initiative", () => {
+  expect(initiativeGoneOf(INTENT)).toBe(null)
+})
+
+test("no row answers no initiative", () => {
+  expect(initiativeGoneOf(undefined)).toBe(null)
+})
+
+test("the modal names the initiative and what goes with it", () => {
+  expect(initiativeAskedSaid("held")).toBe("Delete the initiative held?")
+  expect(initiativeDetailSaid("held")).toBe(
+    "held goes with every intent it holds. A seat assigned to it keeps that assignment."
+  )
+})
+
+test("an initiative goes once Alan answers the modal with the confirming word", async () => {
+  const kept: Said[] = []
+  const asked: Asked[] = []
+  const lines: string[] = []
+  await deletingInitiative(
+    editorSaying([], asked, "Delete"),
+    (line) => {
+      lines.push(line)
+      return undefined
+    },
+    callingWith("held is gone", kept)
+  )(INITIATIVE)
+
+  expect(asked).toEqual([
+    {
+      said: "Delete the initiative held?",
+      detail: "held goes with every intent it holds. A seat assigned to it keeps that assignment.",
+      confirm: "Delete",
+    },
+  ])
+  expect(kept).toEqual([
+    {
+      module: "initiative-delete",
+      exported: "initiativeDelete",
+      args: ["held"],
+      timeout: 120_000,
+    },
+  ])
+  expect(lines).toEqual(["[delete initiative] held is gone"])
+})
+
+test("an initiative Alan does not confirm stays, and nothing is said", async () => {
+  const kept: Said[] = []
+  const lines: string[] = []
+  await deletingInitiative(
+    editorSaying([], [], undefined),
+    (line) => {
+      lines.push(line)
+      return undefined
+    },
+    callingWith("held is gone", kept)
+  )(INITIATIVE)
+
+  expect(kept).toEqual([])
+  expect(lines).toEqual([])
+})
+
+test("an intent row is asked nothing and deletes no initiative", async () => {
+  const kept: Said[] = []
+  const asked: Asked[] = []
+  await deletingInitiative(
+    editorSaying([], asked, "Delete"),
+    () => undefined,
+    callingWith("", kept)
+  )(INTENT)
+
+  expect(asked).toEqual([])
+  expect(kept).toEqual([])
+})
+
+test("an initiative that did not go is said to Alan once and written to the channel", async () => {
+  const shown: string[] = []
+  const lines: string[] = []
+  await deletingInitiative(
+    editorSaying(shown, [], "Delete"),
+    (line) => {
+      lines.push(line)
+      return undefined
+    },
+    callingWith(new Error("a page still names it"), [])
+  )(INITIATIVE)
+
+  expect(shown).toEqual(["Work: held: the initiative did not go. Error: a page still names it"])
+  expect(lines).toEqual([
+    "[delete initiative] held: the initiative did not go. Error: a page still names it",
+  ])
+})
+
+test("a failure is said in words naming the initiative", () => {
+  expect(initiativeFailureSaid("held", "why")).toBe("held: the initiative did not go. why")
 })
