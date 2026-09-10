@@ -6,11 +6,5 @@ export const agent = {
   type: "domain",
   slug: "agent",
   definition: "an agent and what puts its work to a model",
-  parts: [
-    "domain/claude-code",
-    "domain/model",
-    "module/patch-keeping",
-    "page-type/agent",
-    "page-type/claude-account",
-  ],
+  parts: ["domain/claude-code", "domain/model", "page-type/agent", "page-type/claude-account"],
 } as const satisfies Domain
