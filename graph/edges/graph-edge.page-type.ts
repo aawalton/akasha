@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Attributes } from "./properties/attributes.relation-property.ts"
-import type { Index } from "./properties/index.relation-property.ts"
-
-export type GraphEdge = Domain & {
-  index?: Index
-  attributes?: Attributes
-}
 
 export const graphEdge = {
   id: "01a04fe8-cebd-71d5-a040-d50b202e6eb1",
@@ -54,4 +46,5 @@ export const graphEdge = {
       statement: "An attribute names no edge.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

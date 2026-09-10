@@ -1,4 +1,4 @@
-import type { GraphEdge } from "../graph-edge.page-type.ts"
+import type { GraphEdge } from "../graph-edge.page-type.types.ts"
 
 export const relation = {
   id: "01a04fee-4ee9-7de5-b31d-cfefd76154f2",
