@@ -1,7 +1,11 @@
-import { bankAccrual, normalizeGameState, withLatches } from "@akasha/idle-system/accrual"
-import { applyDerivedMechanics } from "@akasha/idle-system/deriving"
-import { applyDraw } from "@akasha/idle-system/draw"
-import { parseIdleSave } from "@akasha/idle-system/save"
+import {
+  bankAccrual,
+  normalizeGameState,
+  withLatches,
+} from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
+import { applyDerivedMechanics } from "akasha/alan/harness/idle-system/idle-deriving/idle-deriving.module.code.ts"
+import { applyDraw } from "akasha/alan/harness/idle-system/idle-draw/idle-draw.module.code.ts"
+import { parseIdleSave } from "akasha/alan/harness/idle-system/idle-save/idle-save.module.code.ts"
 import { resolveDrawContext } from "../../.server/gacha-draw-context/gacha-draw-context.module.code.ts"
 import { reprojectUserCardsSafely } from "../../.server/idle-card-projecting/idle-card-projecting.module.code.ts"
 import { resolveIdleSaveContext } from "../../.server/idle-save-context/idle-save-context.module.code.ts"

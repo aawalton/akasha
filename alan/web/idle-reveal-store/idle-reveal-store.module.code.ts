@@ -1,4 +1,4 @@
-import type { DrawReveal } from "@akasha/idle-system/draw"
+import type { DrawReveal } from "akasha/alan/harness/idle-system/idle-draw/idle-draw.module.code.ts"
 
 let current: DrawReveal | null = null
 const listeners = new Set<() => void>()

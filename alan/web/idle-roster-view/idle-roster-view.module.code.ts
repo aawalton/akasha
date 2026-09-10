@@ -1,8 +1,14 @@
-import { cumulativeTrainCost, trainCost } from "@akasha/idle-system/accrual"
-import { BASE_IMAGE_ID, TRAIN_BULK_COUNT } from "@akasha/idle-system/constants"
-import { nextStarThreshold } from "@akasha/idle-system/gacha-state"
-import { effectiveRate } from "@akasha/idle-system/rate"
-import type { GameState } from "@akasha/idle-system/state"
+import {
+  cumulativeTrainCost,
+  trainCost,
+} from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
+import {
+  BASE_IMAGE_ID,
+  TRAIN_BULK_COUNT,
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import { nextStarThreshold } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
+import { effectiveRate } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 import type { Catalog } from "../idle-catalog/idle-catalog.module.code.ts"
 
 export type GirlCardVM = {

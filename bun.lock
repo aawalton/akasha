@@ -158,12 +158,6 @@
         "@akasha/pages-service": "workspace:*",
       },
     },
-    "alan/harness/idle-system": {
-      "name": "@akasha/idle-system",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "alan/harness/location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
@@ -1066,8 +1060,6 @@
     "@akasha/git": ["@akasha/git@workspace:git"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
-
-    "@akasha/idle-system": ["@akasha/idle-system@workspace:alan/harness/idle-system"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 

@@ -1,4 +1,8 @@
-import { gainedStars, sumOwnedRanks } from "@akasha/idle-system/accrual"
+import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
+import {
+  gainedStars,
+  sumOwnedRanks,
+} from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
 import {
   APO_DIVISOR,
   ASCEND_MIN,
@@ -7,7 +11,7 @@ import {
   PERK_DEFS,
   PRESTIGE_UNLOCK,
   STAR_VALUE,
-} from "@akasha/idle-system/constants"
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
 import {
   affinityBonus,
   apotheosisBonus,
@@ -23,11 +27,10 @@ import {
   perkBonus,
   resonanceBonus,
   seatTiers,
-} from "@akasha/idle-system/dormancy"
-import { collectionBonus } from "@akasha/idle-system/gacha-state"
-import { teamSynergy } from "@akasha/idle-system/rate"
-import type { GameState } from "@akasha/idle-system/state"
-import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
+} from "akasha/alan/harness/idle-system/idle-dormancy/idle-dormancy.module.code.ts"
+import { collectionBonus } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
+import { teamSynergy } from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 
 type IndicatorChip = {
   readonly key: string

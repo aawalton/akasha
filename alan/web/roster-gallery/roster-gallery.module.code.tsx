@@ -2,9 +2,9 @@ import { cn } from "@akasha/design-primitives/cn"
 import { Dialog, DialogBody, DialogContent, DialogTitle } from "@akasha/design-primitives/dialog"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { BASE_IMAGE_ID } from "@akasha/idle-system/constants"
 import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
 import { DegradingImage } from "@akasha/pages-ui-components/degrading-image"
+import { BASE_IMAGE_ID } from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
 import { useEffect, useSyncExternalStore } from "react"
 import {
   ensureCatalogLoaded,

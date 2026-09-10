@@ -1,5 +1,8 @@
-import { bankAccrual, withLatches } from "@akasha/idle-system/accrual"
-import type { GameState } from "@akasha/idle-system/state"
+import {
+  bankAccrual,
+  withLatches,
+} from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 import {
   type ActionIntent,
   type ActionResult,

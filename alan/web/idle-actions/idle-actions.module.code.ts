@@ -1,3 +1,4 @@
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   cumulativeTrainCost,
   gainedStars,
@@ -5,7 +6,7 @@ import {
   maxTeam,
   sumOwnedRanks,
   trainCost,
-} from "@akasha/idle-system/accrual"
+} from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
 import {
   AFFINITY_SEATS,
   APO_DIVISOR,
@@ -16,11 +17,16 @@ import {
   MASTERY_RANK_REQ,
   PERK_DEFS,
   TRAIN_BULK_COUNT,
-} from "@akasha/idle-system/constants"
-import { eternityAvailable, legacyPointsAvailable } from "@akasha/idle-system/dormancy"
-import { isUnlocked } from "@akasha/idle-system/gacha-state"
-import type { GachaState, GameState } from "@akasha/idle-system/state"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import {
+  eternityAvailable,
+  legacyPointsAvailable,
+} from "akasha/alan/harness/idle-system/idle-dormancy/idle-dormancy.module.code.ts"
+import { isUnlocked } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
+import type {
+  GachaState,
+  GameState,
+} from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 import { z } from "zod"
 
 export const actionIntentSchema = z.discriminatedUnion("type", [

@@ -1,12 +1,18 @@
 "use client"
 
 import { Button } from "@akasha/design-primitives/button"
-import { gainedStars, sumOwnedRanks } from "@akasha/idle-system/accrual"
-import { ASCEND_MIN } from "@akasha/idle-system/constants"
-import { drawCost } from "@akasha/idle-system/gacha-state"
-import { displayedResource, totalRate } from "@akasha/idle-system/rate"
-import type { GameState } from "@akasha/idle-system/state"
 import { formatShortNumber as fmt } from "@akasha/pages-core/property-types/number"
+import {
+  gainedStars,
+  sumOwnedRanks,
+} from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
+import { ASCEND_MIN } from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import { drawCost } from "akasha/alan/harness/idle-system/idle-gacha-state/idle-gacha-state.module.code.ts"
+import {
+  displayedResource,
+  totalRate,
+} from "akasha/alan/harness/idle-system/idle-rate/idle-rate.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 import { Heart, Sparkles } from "lucide-react"
 import { useState } from "react"
 import { deriveAscensionView } from "../idle-display/idle-display.module.code.ts"

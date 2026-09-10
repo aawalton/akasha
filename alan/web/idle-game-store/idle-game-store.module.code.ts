@@ -1,6 +1,10 @@
-import { bankAccrual, normalizeGameState, withLatches } from "@akasha/idle-system/accrual"
-import { parseIdleSave } from "@akasha/idle-system/save"
-import type { GameState } from "@akasha/idle-system/state"
+import {
+  bankAccrual,
+  normalizeGameState,
+  withLatches,
+} from "akasha/alan/harness/idle-system/idle-accrual/idle-accrual.module.code.ts"
+import { parseIdleSave } from "akasha/alan/harness/idle-system/idle-save/idle-save.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
 import { type ActionIntent, actionKey } from "../idle-actions/idle-actions.module.code.ts"
 import { commitIntent } from "../idle-apply/idle-apply.module.code.ts"

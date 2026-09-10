@@ -4,8 +4,8 @@ import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import type { DrawReveal } from "@akasha/idle-system/draw"
 import { DegradingImage } from "@akasha/pages-ui-components/degrading-image"
+import type { DrawReveal } from "akasha/alan/harness/idle-system/idle-draw/idle-draw.module.code.ts"
 import { useSyncExternalStore } from "react"
 import {
   clearReveal,

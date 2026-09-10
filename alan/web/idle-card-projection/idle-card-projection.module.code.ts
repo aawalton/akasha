@@ -1,5 +1,8 @@
-import { AFFINITY_SEATS, MASTERY_RANK_REQ } from "@akasha/idle-system/constants"
-import type { GameState } from "@akasha/idle-system/state"
+import {
+  AFFINITY_SEATS,
+  MASTERY_RANK_REQ,
+} from "akasha/alan/harness/idle-system/idle-constants/idle-constants.module.code.ts"
+import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 import {
   IDLE_LOCK_STATE_LOCKED,
   IDLE_LOCK_STATE_UNLOCKED,

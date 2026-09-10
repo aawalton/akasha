@@ -1,5 +1,5 @@
-import type { GameState } from "@akasha/idle-system/state"
 import { captureError } from "@akasha/pages-access/capture-error"
+import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
 import { IDLE_PERSONA_CARD_PAGE_TYPE_SLUG } from "../../idle-card-page-type/idle-card-page-type.module.code.ts"
 import type { PersonaInfo } from "../../idle-card-projection/idle-card-projection.module.code.ts"
 import type { Catalog } from "../../idle-catalog/idle-catalog.module.code.ts"
