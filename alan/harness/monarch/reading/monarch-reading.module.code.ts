@@ -2,10 +2,9 @@ import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.m
 import { shape } from "../../../../utils/narrow/shape/shape.module.code.ts"
 import type { RingCounts } from "../../readouts/body/readout-body.module.code.ts"
 import { fetchRingCountsFromMonarch } from "../../readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
-import { keepReading } from "../../readouts/reading/readout-reading.module.code.ts"
+import { keepReading, readoutPage } from "../../readouts/reading/readout-reading.module.code.ts"
 
-export const READOUT_PAGE =
-  "alan/harness/readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
+export const READOUT_SLUG = "monarch-unreviewed-transactions"
 
 export const COOKIE_NAME = "MONARCH_COOKIE"
 
@@ -22,7 +21,7 @@ export async function takeReading(
   take: CountsTaken = fetchRingCountsFromMonarch
 ): Promise<number> {
   const counts = await take(cookie, now)
-  keepReading(root, READOUT_PAGE, counts.unreviewed, now)
+  keepReading(root, readoutPage(root, READOUT_SLUG), counts.unreviewed, now)
   return counts.unreviewed
 }
 
@@ -40,7 +39,9 @@ if (import.meta.main) {
   const root = shape.string().default(process.cwd()).parse(process.env.AKASHA_ROOT)
   try {
     const unreviewed = await takeReading(root, cookie)
-    process.stdout.write(`${unreviewed} unreviewed, kept beside ${READOUT_PAGE}\n`)
+    process.stdout.write(
+      `${unreviewed} unreviewed, kept beside ${readoutPage(root, READOUT_SLUG)}\n`
+    )
   } catch (thrown) {
     process.stderr.write(`${saidBy(thrown)}\n`)
     process.exit(1)

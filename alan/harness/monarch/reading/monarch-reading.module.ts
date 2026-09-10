@@ -52,8 +52,8 @@ export const monarchReading = {
         "The root read is the root the environment states or the folder the call was made in.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The readout's path is spelled here rather than asked of the index.",
+      invariantKind: "departure",
+      statement: "Where the readout's page sits is asked of the index rather than spelled.",
     },
     {
       invariantKind: "absence",
