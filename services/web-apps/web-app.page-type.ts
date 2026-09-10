@@ -9,7 +9,7 @@ export type WebApp = Domain & {
   sourceDirectory: SourceDirectory
   buildCommand: BuildCommand
   clusterServices: ClusterServices
-  hostnames?: readonly Hostnames[]
+  hostnames?: Hostnames
 }
 
 export const webApp = {
