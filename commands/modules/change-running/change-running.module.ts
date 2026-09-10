@@ -131,8 +131,11 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "That command is filled in from the agent id as far as that id says, and left open past it.",
+      statement: "That command is filled in from the agent id as far as that id says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That command is left open past the point the id reaches.",
     },
     {
       invariantKind: "departure",
@@ -164,7 +167,11 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "A path a folder sits at holds no body, so a change reads that path as empty.",
+      statement: "A path a folder sits at holds no body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change reads that path as empty.",
     },
     {
       invariantKind: "departure",
