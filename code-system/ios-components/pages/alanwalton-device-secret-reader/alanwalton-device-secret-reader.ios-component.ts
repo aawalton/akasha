@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const alanwaltonDeviceSecretReader = {
   id: "01a05835-69d8-7c13-a335-3861228c1176",

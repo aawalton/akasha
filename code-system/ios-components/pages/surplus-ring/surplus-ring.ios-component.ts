@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const surplusRing = {
   id: "01a05482-22de-75cc-8874-6771b33a0f8a",

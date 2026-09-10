@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const smilingjennyWidgetFeed = {
   id: "01a05835-69dc-778f-bb4b-dd897c3cb3e7",

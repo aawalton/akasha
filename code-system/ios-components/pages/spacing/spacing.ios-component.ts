@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const spacing = {
   id: "01a05821-5723-78b9-b75a-3fe58bb53935",

@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const alanwaltonClaudeUsageView = {
   id: "01a05835-69d9-7bdc-8a4e-5c99b08be34b",

@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const alanwaltonCategorizeWidget = {
   id: "01a05835-69d9-77c4-bf49-77828e523232",

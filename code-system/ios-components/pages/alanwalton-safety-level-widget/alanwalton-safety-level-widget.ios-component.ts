@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const alanwaltonSafetyLevelWidget = {
   id: "01a05835-69db-7e74-b591-0c24aef309f2",

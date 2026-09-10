@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const safetyRing = {
   id: "01a05482-22dd-7359-88a2-113df882eb88",

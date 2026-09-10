@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const alanwaltonRefusedView = {
   id: "01a05835-69dc-7549-9bd0-f60662e9fff3",

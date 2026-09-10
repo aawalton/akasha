@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Swift } from "./properties/swift.code-file-property.ts"
-
-export type IosComponent = Domain & {
-  swift: Swift
-}
 
 export const iosComponent = {
   id: "01a05472-ab84-78cc-8758-9f95622d1b04",
@@ -62,4 +56,5 @@ export const iosComponent = {
         "A shell's seam copies the components an app names into the extension the seam builds.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

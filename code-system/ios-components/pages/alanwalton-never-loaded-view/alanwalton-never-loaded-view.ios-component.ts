@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const alanwaltonNeverLoadedView = {
   id: "01a05835-69dc-7b51-9b09-3eb24c827ced",

@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const categorizeRing = {
   id: "01a05482-22db-796e-b0e4-76ec3c1bb83e",

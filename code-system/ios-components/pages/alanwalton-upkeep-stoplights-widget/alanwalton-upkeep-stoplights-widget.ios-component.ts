@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const alanwaltonUpkeepStoplightsWidget = {
   id: "01a05835-69db-745d-899f-73916911abe5",

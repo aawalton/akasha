@@ -1,4 +1,4 @@
-import type { IosComponent } from "../../ios-component.page-type.ts"
+import type { IosComponent } from "../../ios-component.page-type.types.ts"
 
 export const tier = {
   id: "01a05482-22df-7a91-9e4d-ba72f93c5851",
