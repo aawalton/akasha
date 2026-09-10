@@ -17,7 +17,7 @@ import {
   put,
   typed,
 } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { identifierNamesOnePage } from "./identifier-names-one-page.code-check.code.ts"
+import { identifierNamesOnePage } from "./identifier-names-one-page.code-check.check.code.ts"
 
 const TEXT = "text-property"
 
