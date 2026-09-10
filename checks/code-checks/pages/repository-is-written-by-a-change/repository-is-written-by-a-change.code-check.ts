@@ -7,8 +7,6 @@ export const repositoryIsWrittenByAChange = {
   slug: "repository-is-written-by-a-change",
   definition:
     "the check refusing code outside the changes that writes TypeScript into the repository",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
