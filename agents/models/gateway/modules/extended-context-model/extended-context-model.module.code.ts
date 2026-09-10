@@ -7,14 +7,12 @@ const MODEL_BODY = z.looseObject({ model: z.string().optional() })
 type ModelBody = z.infer<typeof MODEL_BODY>
 
 function bodyRead(bodyBuffer: ArrayBuffer): ModelBody | null {
-  let held: unknown
   try {
-    held = JSON.parse(new TextDecoder().decode(bodyBuffer))
+    const parsed = MODEL_BODY.safeParse(JSON.parse(new TextDecoder().decode(bodyBuffer)))
+    return parsed.success ? parsed.data : null
   } catch {
     return null
   }
-  const parsed = MODEL_BODY.safeParse(held)
-  return parsed.success ? parsed.data : null
 }
 
 function encoded(text: string): ArrayBuffer {
