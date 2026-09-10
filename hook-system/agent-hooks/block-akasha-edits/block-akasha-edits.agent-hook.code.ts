@@ -3,6 +3,7 @@ import { dataAt, dataIn } from "akasha/file-system/data-place/data-place.module.
 import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
 import { stringAt } from "akasha/utils/narrow/string-at/string-at.module.code.ts"
 import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
+import { parseHookPayload } from "../../hook-answer/hook-answer.module.code.ts"
 import { shownIn } from "../../path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 
@@ -68,14 +69,13 @@ export function guardedIn(root: string): Guarded {
 }
 
 export function askedIn(raw: string): Asked | null {
-  let payload: unknown
+  let held: Record<string, unknown> | null
   try {
-    payload = JSON.parse(raw)
+    held = parseHookPayload(raw)
   } catch {
     return null
   }
-  const held = asRecord(payload)
-  if (held === undefined) return null
+  if (held === null) return null
   const input = asRecord(held["tool_input"]) ?? {}
   const named = stringAt(input, "file_path") ?? ""
   return {
