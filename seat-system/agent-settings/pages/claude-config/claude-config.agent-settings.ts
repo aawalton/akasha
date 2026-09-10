@@ -1,4 +1,4 @@
-import type { AgentSettings } from "../../agent-settings.page-type.ts"
+import type { AgentSettings } from "../../agent-settings.page-type.types.ts"
 
 export const claudeConfig = {
   id: "01a0657b-ad40-7afc-9f98-df4a0505555b",

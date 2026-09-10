@@ -1,4 +1,4 @@
-import type { AgentSettings } from "../../agent-settings.page-type.ts"
+import type { AgentSettings } from "../../agent-settings.page-type.types.ts"
 
 export const agents = {
   id: "01a0657b-ad40-75af-a0a6-bb09331fb95c",

@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { HarnessSettings } from "./properties/harness-settings.file-property.ts"
-
-export type AgentSettings = Domain & {
-  harnessSettings: HarnessSettings
-}
 
 export const agentSettings = {
   id: "01a0657b-ad3f-7ce8-99f8-04da79375570",
@@ -62,4 +56,5 @@ export const agentSettings = {
       statement: "Nothing inside akasha reads these documents yet.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

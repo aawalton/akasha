@@ -1,4 +1,4 @@
-import type { AgentSettings } from "../../agent-settings.page-type.ts"
+import type { AgentSettings } from "../../agent-settings.page-type.types.ts"
 
 export const remoteControl = {
   id: "01a0657b-ad40-7fe7-b386-20d7f0224102",

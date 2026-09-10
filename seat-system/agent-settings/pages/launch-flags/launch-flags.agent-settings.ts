@@ -1,4 +1,4 @@
-import type { AgentSettings } from "../../agent-settings.page-type.ts"
+import type { AgentSettings } from "../../agent-settings.page-type.types.ts"
 
 export const launchFlags = {
   id: "01a0657b-ad40-7216-8ef6-8986aaba140c",

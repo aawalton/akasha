@@ -1,4 +1,4 @@
-import type { AgentSettings } from "../../agent-settings.page-type.ts"
+import type { AgentSettings } from "../../agent-settings.page-type.types.ts"
 
 export const toolAccess = {
   id: "01a0657b-ad40-7a30-a01e-7d2c05b081b3",
