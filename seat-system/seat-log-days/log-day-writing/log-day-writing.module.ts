@@ -30,6 +30,18 @@ export const logDayWriting = {
     },
     {
       invariantKind: "departure",
+      statement: "A day's page sits in a folder of its own, named for that day, with its lines.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "A day whose page is already flat keeps that page rather than taking a second.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The parts of a day's lines are named beside the page that day's appender opened.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type written here is reached by the id it keeps rather than by its slug.",
     },
     {

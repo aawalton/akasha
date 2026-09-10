@@ -63,7 +63,12 @@ export function sourcePathOf(source: string): string {
 }
 
 export function dayPathOf(slug: string): string {
-  return `${DAYS_AT}/${slug}.seat-log-day.ts`
+  return `${DAYS_AT}/${slug}/${slug}.seat-log-day.ts`
+}
+
+function dayPathIn(root: string, slug: string): string {
+  const flat = `${DAYS_AT}/${slug}.seat-log-day.ts`
+  return existsSync(join(root, flat)) ? flat : dayPathOf(slug)
 }
 
 export function sourceBodyOf(root: string, source: string): string {
@@ -126,7 +131,7 @@ function lastPartOf(root: string, pagePath: string): { path: string; part: numbe
 
 function appenderFor(root: string, source: string, seatName: string, date: string): Appender {
   const slug = dayNameOf(source, seatName, date)
-  const pagePath = dayPathOf(slug)
+  const pagePath = dayPathIn(root, slug)
   const held = lastPartOf(root, pagePath)
   mkdirSync(dirname(held.path), { recursive: true })
   let path = held.path
@@ -165,7 +170,7 @@ function appenderFor(root: string, source: string, seatName: string, date: strin
       }
       const size = Buffer.byteLength(text, "utf8") + 1
       if (bytes > 0 && bytes + size > ENTRY_CEILING) {
-        const next = partAt(dayPathOf(dayNameOf(source, seatName, date)), part + 1)
+        const next = partAt(pagePath, part + 1)
         if (next === null) {
           refused = `no part beyond ${String(part)} could be named beside ${pagePath}`
           return
