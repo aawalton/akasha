@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type BuildScript = Slug
 
 export const buildScript = {
   id: "01a059b5-9616-700c-8d3b-e1a440b57051",
@@ -21,4 +18,5 @@ export const buildScript = {
       statement: "Which script builds an app is read from its page rather than walked to.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

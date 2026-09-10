@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type BundleEntry = Slug
 
 export const bundleEntry = {
   id: "01a060e4-5184-70a7-91ff-37d5b94a8d86",
@@ -11,4 +8,5 @@ export const bundleEntry = {
   propertySlug: "bundle-entry",
   definition: "the module the transpiler starts an addon's one Lua file from",
   targetPageType: "page-type/module",
+  types: "ts",
 } as const satisfies RelationProperty

@@ -1,8 +1,4 @@
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-import type { Slug } from "../../../pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "../../../pages/relation-properties/relation-property.page-type.types.ts"
-
-export type Guards = List<Slug>
 
 export const guards = {
   id: "01a07744-1311-7388-8533-715d6c538707",
@@ -22,4 +18,5 @@ export const guards = {
       statement: "A change composed of other changes inherits the guards the changes reached name.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

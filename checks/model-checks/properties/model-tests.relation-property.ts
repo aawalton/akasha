@@ -1,8 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type ModelTests = List<Slug>
 
 export const modelTests = {
   id: "01a05911-aa17-7af6-9941-6715a1205f25",
@@ -18,4 +14,5 @@ export const modelTests = {
       statement: "One check has the tests that judge one thing from different sides.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

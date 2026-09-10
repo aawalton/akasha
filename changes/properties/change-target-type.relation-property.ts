@@ -1,7 +1,4 @@
-import type { Slug } from "../../pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "../../pages/relation-properties/relation-property.page-type.types.ts"
-
-export type ChangeTargetType = Slug
 
 export const changeTargetType = {
   id: "01a07c70-2049-7248-8790-afaa12ca852e",
@@ -11,4 +8,5 @@ export const changeTargetType = {
   propertySlug: "change-target-type",
   definition: "the change target type a page names",
   targetPageType: "page-type/change-target-type",
+  types: "ts",
 } as const satisfies RelationProperty

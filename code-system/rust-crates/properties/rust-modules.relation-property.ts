@@ -1,8 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type RustModules = List<Slug>
 
 export const rustModules = {
   id: "01a0602d-6ad1-75bd-afd3-a951482bc17a",
@@ -12,4 +8,5 @@ export const rustModules = {
   propertySlug: "modules",
   definition: "the modules a crate compiles",
   targetPageType: "page-type/rust-module",
+  types: "ts",
 } as const satisfies RelationProperty

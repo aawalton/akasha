@@ -1,7 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-
-export type EsoAddon = Slug
 
 export const esoAddon = {
   id: "01a0819d-6872-7b9e-8c67-c011834d8ab8",
@@ -21,4 +18,5 @@ export const esoAddon = {
       statement: "A tree move has the package path without an edit here.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty

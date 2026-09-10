@@ -1,8 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Programs = List<Slug>
 
 export const programs = {
   id: "01a0775f-5cca-7000-ad4b-c0a1dcdf54c6",
@@ -12,4 +8,5 @@ export const programs = {
   propertySlug: "programs",
   definition: "the programs an app builds",
   targetPageType: "page-type/ios-program",
+  types: "ts",
 } as const satisfies RelationProperty

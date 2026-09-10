@@ -1,8 +1,4 @@
-import type { Slug } from "akasha/pages/properties/slug.text-property.ts"
 import type { RelationProperty } from "akasha/pages/relation-properties/relation-property.page-type.types.ts"
-import type { List } from "akasha/pages/types/page-properties/page-property.page-type.ts"
-
-export type Adjacents = List<Slug>
 
 export const adjacents = {
   id: "01a0819d-cca3-7df9-8049-79ddfe74c1e3",
@@ -22,4 +18,5 @@ export const adjacents = {
       statement: "An addon naming no adjacent here has had no bite reach past that addon.",
     },
   ],
+  types: "ts",
 } as const satisfies RelationProperty
