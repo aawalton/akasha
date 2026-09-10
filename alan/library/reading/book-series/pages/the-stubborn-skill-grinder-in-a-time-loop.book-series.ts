@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const theStubbornSkillGrinderInATimeLoop = {
   id: "019db533-f38b-763f-a901-cdad22e897ed",

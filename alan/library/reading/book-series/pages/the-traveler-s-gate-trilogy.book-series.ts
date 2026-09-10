@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const theTravelerSGateTrilogy = {
   id: "019db533-f39b-74d0-b323-2873189b7d8e",

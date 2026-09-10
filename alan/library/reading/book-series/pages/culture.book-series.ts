@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const culture = {
   id: "019db533-f39b-7558-925b-19295854ad8d",

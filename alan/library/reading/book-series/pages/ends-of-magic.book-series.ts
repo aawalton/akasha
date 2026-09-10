@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const endsOfMagic = {
   id: "019db533-f38b-784c-b6c1-352ee7a84bfa",

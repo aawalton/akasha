@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const milesVorsokigan = {
   id: "019db533-f39b-75b0-bc4d-ff5e26ace8ed",

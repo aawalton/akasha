@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const destinyCycleForgeOfDestiny = {
   id: "019db533-f38b-7837-b7a5-fc17f0e3c13b",

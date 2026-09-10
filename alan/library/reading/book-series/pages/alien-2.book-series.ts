@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const alien2 = {
   id: "019db533-f39b-74f8-b79e-b39edbbda933",

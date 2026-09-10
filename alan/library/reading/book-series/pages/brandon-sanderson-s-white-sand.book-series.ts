@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const brandonSandersonSWhiteSand = {
   id: "019db533-f39d-7357-a970-46df301f861f",

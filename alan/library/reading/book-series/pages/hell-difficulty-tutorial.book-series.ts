@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const hellDifficultyTutorial = {
   id: "019db533-f38b-7823-8b86-6df940f1b4d3",

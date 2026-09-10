@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const theConnectedSystem = {
   id: "019db533-f38b-768f-b451-06c450038e39",

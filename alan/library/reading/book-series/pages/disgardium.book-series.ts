@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const disgardium = {
   id: "019db533-f38b-785c-82a6-63773961ab08",

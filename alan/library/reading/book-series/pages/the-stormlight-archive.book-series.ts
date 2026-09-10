@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const theStormlightArchive = {
   id: "019db533-f39d-7377-86a9-ac429a2df0d3",

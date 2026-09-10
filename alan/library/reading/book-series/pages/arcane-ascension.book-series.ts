@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const arcaneAscension = {
   id: "019db533-f38a-743e-8a6a-f644c03de2d8",

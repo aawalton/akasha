@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const systemUniverse = {
   id: "019db533-f38b-76a9-8934-c7d179c6f7b3",

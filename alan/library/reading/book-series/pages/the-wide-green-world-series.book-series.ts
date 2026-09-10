@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const theWideGreenWorldSeries = {
   id: "019db533-f39b-745f-81d5-ba2ec3c82bcc",

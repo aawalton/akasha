@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const salvos = {
   id: "019db533-f38b-7968-93db-d0847b76290c",

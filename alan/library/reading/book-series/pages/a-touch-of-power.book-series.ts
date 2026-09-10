@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const aTouchOfPower = {
   id: "019db533-f38b-7953-8d0b-c76aabbd4fa6",

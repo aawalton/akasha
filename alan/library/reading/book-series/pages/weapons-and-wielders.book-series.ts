@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const weaponsAndWielders = {
   id: "019db533-f38a-7446-b978-1c200bccce47",

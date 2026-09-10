@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const somniaOnline = {
   id: "019db533-f38b-76f2-bc00-16c96ba019ea",

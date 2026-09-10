@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const rwbyTheOfficialManga = {
   id: "019db533-f38b-71e5-82f0-e5e81fd936de",

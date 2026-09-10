@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const warGod = {
   id: "019db533-f39b-741d-a6c8-63043b6aa7f9",

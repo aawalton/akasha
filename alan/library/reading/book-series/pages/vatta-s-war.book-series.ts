@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const vattaSWar = {
   id: "019db533-f39b-740c-b1a9-9cedde66a51d",

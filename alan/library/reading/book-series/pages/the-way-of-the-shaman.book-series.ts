@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const theWayOfTheShaman = {
   id: "019db533-f38b-762e-85ad-acdfea72e12e",

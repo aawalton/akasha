@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const theLegendaryFool = {
   id: "019db533-f38b-766a-b7e7-3f3fada242ae",

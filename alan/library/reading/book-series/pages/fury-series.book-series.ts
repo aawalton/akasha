@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const furySeries = {
   id: "019db533-f39b-7518-a153-ba3dfb50f654",

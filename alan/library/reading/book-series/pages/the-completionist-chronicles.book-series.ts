@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const theCompletionistChronicles = {
   id: "019db533-f38b-7698-85c2-d9a4c89f6c73",

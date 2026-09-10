@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const marchUpcountry = {
   id: "019db533-f39b-7588-b24c-d30411d34311",

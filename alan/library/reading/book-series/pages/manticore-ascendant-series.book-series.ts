@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const manticoreAscendantSeries = {
   id: "019db533-f39b-7500-afaf-3bc624c54c24",

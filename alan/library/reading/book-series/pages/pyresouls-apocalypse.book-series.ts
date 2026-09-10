@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const pyresoulsApocalypse = {
   id: "019db533-f38b-77a3-8af8-fdba43f52dac",

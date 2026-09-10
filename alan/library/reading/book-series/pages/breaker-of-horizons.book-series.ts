@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const breakerOfHorizons = {
   id: "019db533-f38b-78b0-8a0e-52b26285a6d0",

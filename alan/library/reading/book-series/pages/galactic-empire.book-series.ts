@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const galacticEmpire = {
   id: "019db533-f39b-75a8-a0d5-4e840f3e3ed9",

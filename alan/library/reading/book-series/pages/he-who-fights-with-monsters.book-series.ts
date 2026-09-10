@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const heWhoFightsWithMonsters = {
   id: "019db533-f38b-781a-af2a-188b9c782033",

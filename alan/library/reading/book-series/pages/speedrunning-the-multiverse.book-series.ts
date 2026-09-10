@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const speedrunningTheMultiverse = {
   id: "019db533-f38b-76d3-95bb-df31eeadc1f2",

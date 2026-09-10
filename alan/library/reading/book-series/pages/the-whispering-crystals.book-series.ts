@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const theWhisperingCrystals = {
   id: "019db533-f38b-7615-9a2f-8c5d1411cd0c",

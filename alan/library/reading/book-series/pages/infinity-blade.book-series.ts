@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const infinityBlade = {
   id: "019db533-f39d-74b4-b6e3-0a6a17687940",

@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const rebornAsADemonicTree = {
   id: "019db533-f38b-77b6-b950-be06c174dfa1",

@@ -1,4 +1,4 @@
-import type { BookSeries } from "../book-series.page-type.ts"
+import type { BookSeries } from "../book-series.page-type.types.ts"
 
 export const sagewood = {
   id: "019db533-f38b-7796-b2de-2a9ff46b3a3b",
