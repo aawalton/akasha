@@ -12,11 +12,15 @@ export const lookedAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One service does the looking, and that service alone states this.",
+      statement: "One service does the looking.",
     },
     {
       invariantKind: "departure",
-      statement: "This moves on every look, whether or not any verdict changed.",
+      statement: "That service alone states this.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This moves on every look whether or not any verdict changed.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +29,11 @@ export const lookedAt = {
     },
     {
       invariantKind: "departure",
-      statement: "This is written after every verdict, so this says the whole look landed.",
+      statement: "This is written after every verdict.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This says the whole look landed.",
     },
   ],
 } as const satisfies InstantProperty

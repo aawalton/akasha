@@ -24,7 +24,11 @@ export const well = {
     },
     {
       invariantKind: "departure",
-      statement: "This carries no moment, so how long ago it was written says nothing.",
+      statement: "This carries no moment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How long ago this was written says nothing.",
     },
     {
       invariantKind: "departure",

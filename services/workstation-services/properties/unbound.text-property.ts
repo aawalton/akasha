@@ -27,8 +27,11 @@ export const unbound = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A host name here is a reading, and no better than the last start of that service.",
+      statement: "A host name here is a reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host name here is no better than the last start of that service.",
     },
   ],
 } as const satisfies TextProperty
