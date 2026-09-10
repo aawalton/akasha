@@ -26,7 +26,7 @@ export interface AccountResolutionDeps {
   log: string
 }
 
-const defaultAccountResolutionDeps: AccountResolutionDeps = {
+const DEFAULT_ACCOUNT_RESOLUTION_DEPS: AccountResolutionDeps = {
   getCredentialByAccount: async (account: string, logPrefix?: string) => {
     const root = rootFor(resolveRoots(), AKASHA)
     return credentialByAccountIn(root, EFFECT_DOORS, account, logPrefix ?? LOG)
@@ -48,7 +48,7 @@ const DEFAULT_REGISTRATION_ACCOUNT = "aawalton"
 
 export async function selectAccountAndWriteCredential(
   requestedAccount: string | undefined,
-  deps: AccountResolutionDeps = defaultAccountResolutionDeps,
+  deps: AccountResolutionDeps = DEFAULT_ACCOUNT_RESOLUTION_DEPS,
   interactive = false
 ): Promise<string> {
   const pinned =
