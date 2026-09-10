@@ -66,4 +66,22 @@ export const alanWebRoutes = {
     "route/alan-web-api-device-secret-mint",
     "route/alan-web-api-sms-opt-in",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The download is offered wherever a page has an audio variant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shell itself is what withholds the download in a browser.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A media address handed to the native shell is absolute.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A browser is handed the relative address it resolves itself.",
+    },
+  ],
 } as const satisfies AppRoutes

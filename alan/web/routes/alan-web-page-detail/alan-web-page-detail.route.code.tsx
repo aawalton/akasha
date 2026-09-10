@@ -6,13 +6,14 @@ import {
   parseDisplayMode,
 } from "akasha/pages/url/page-display-mode/page-display-mode.module.code.ts"
 import { toPageTypeSlug } from "akasha/pages/url/page-type-slug/page-type-slug.module.code.ts"
-import { lazy, Suspense } from "react"
+import { lazy, type ReactElement, Suspense } from "react"
 import {
   type MetaDescriptor,
   type ShouldRevalidateFunctionArgs,
   useSearchParams,
 } from "react-router"
 import { loader as pageDetailLoader } from "../../.server/page-detail-loading/page-detail-loading.module.code.ts"
+import { OfflineDownloadButton } from "../../offline-download-button/offline-download-button.module.code.tsx"
 import { PageDetailErrorBoundary } from "../../page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
 import { ReaderNarrationDetail } from "../../reader-narration-detail/reader-narration-detail.module.code.tsx"
 
@@ -77,6 +78,26 @@ export function shouldRevalidate(args: ShouldRevalidateFunctionArgs): boolean {
 export const loader = pageDetailLoader
 export const ErrorBoundary = PageDetailErrorBoundary
 
+export function audioActionsFor(page: {
+  id: string
+  audioVariants?: readonly { id: string; label: string }[] | null
+  chapterTitle: string | null
+  chapterNumber: number | null
+  storyTitle: string | null
+}): ReactElement | undefined {
+  const variants = page.audioVariants ?? []
+  if (variants.length === 0) return undefined
+  return (
+    <OfflineDownloadButton
+      pageId={page.id}
+      chapterTitle={page.chapterTitle ?? ""}
+      chapterNumber={page.chapterNumber}
+      storyTitle={page.storyTitle}
+      variants={variants}
+    />
+  )
+}
+
 export default function PageDetailRoute({ loaderData }: { loaderData: PageDetailLoaderData }) {
   const [searchParams] = useSearchParams()
   const displayMode = parseDisplayMode(searchParams.get(DISPLAY_PARAM))
@@ -136,6 +157,7 @@ export default function PageDetailRoute({ loaderData }: { loaderData: PageDetail
       audioNextHref={loaderData.audioNextHref ?? undefined}
       audioDefaultVariant={loaderData.audioDefaultVariant ?? undefined}
       sentenceMarks={loaderData.audioSentenceMarks ?? undefined}
+      audioActions={audioActionsFor(loaderData)}
       readerPrev={loaderData.readerPrev ?? undefined}
       readerNext={loaderData.readerNext ?? undefined}
       storyHref={loaderData.storyHref ?? undefined}

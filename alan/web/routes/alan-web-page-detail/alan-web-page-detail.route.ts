@@ -34,4 +34,5 @@ export const alanWebPageDetail = {
       statement: "A change to the speed or the variant asked for does not load the page again.",
     },
   ],
+  test: "tsx",
 } as const satisfies Route
