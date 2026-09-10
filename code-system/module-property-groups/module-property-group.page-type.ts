@@ -1,4 +1,10 @@
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
+import type { ModulePropertyGroup } from "./module-property-group.page-type.types.ts"
+
+export type ModulePropertyGroupCeilings = Pick<
+  ModulePropertyGroup,
+  "maxCpuSeconds" | "maxWallSeconds" | "maxMemoryMb"
+>
 
 export const modulePropertyGroup = {
   id: "01a087b6-ed4d-74ed-b30f-7c9dd49d73c0",

@@ -1,4 +1,4 @@
-import type { ModulePropertyGroup } from "akasha/code-system/module-property-groups/module-property-group.page-type.types.ts"
+import type { ModulePropertyGroupCeilings } from "akasha/code-system/module-property-groups/module-property-group.page-type.ts"
 import type { Domain } from "akasha/domains/domain.page-type.types.ts"
 import type { PageType } from "akasha/pages/types/page-type.page-type.types.ts"
 import type { Entries } from "./properties/entries.file-property.ts"
@@ -8,9 +8,9 @@ import type { RunsOnPatch } from "./properties/runs-on-patch.boolean-property.ts
 import type { RunsOnWorktree } from "./properties/runs-on-worktree.boolean-property.ts"
 
 export type CodeCheck = Domain & {
-  decision?: ModulePropertyGroup
-  check?: ModulePropertyGroup
-  audit?: ModulePropertyGroup
+  decision?: ModulePropertyGroupCeilings
+  check?: ModulePropertyGroupCeilings
+  audit?: ModulePropertyGroupCeilings
   runsOnPatch: RunsOnPatch
   runsOnWorktree: RunsOnWorktree
   runsOnDeploy: RunsOnDeploy
