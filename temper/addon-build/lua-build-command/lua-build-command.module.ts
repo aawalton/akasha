@@ -29,7 +29,7 @@ export const luaBuildCommand = {
     },
     {
       invariantKind: "departure",
-      statement: "Each of them is reached by the id its page carries.",
+      statement: "The compiler's program and each plugin are found by the id each page carries.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,8 @@ export const luaBuildCommand = {
     },
     {
       invariantKind: "departure",
-      statement: "A place under that folder is what the checkout a caller names is joined to.",
+      statement:
+        "The checkout a caller names is joined to a place under the compiler's own folder.",
     },
   ],
 } as const satisfies Module
