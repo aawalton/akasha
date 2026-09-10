@@ -2,7 +2,7 @@ import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import { FILES, input, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { manifestsIn } from "../package-reached-where-named/package-reached-where-named.code-check.code.ts"
+import { manifestsIn } from "../package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 import { type Asking, refusalsOver } from "./manifest-lands-on-a-file.code-check.decision.code.ts"
 
 export function askingIn(change: Change): Asking {

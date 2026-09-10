@@ -18,7 +18,7 @@ import {
   manifestNamed,
   manifestsIn,
   packagePagesIn,
-} from "../package-reached-where-named/package-reached-where-named.code-check.code.ts"
+} from "../package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 
 const AT = "@"
 

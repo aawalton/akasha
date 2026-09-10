@@ -9,7 +9,7 @@ import type { Matching } from "@akasha/pages/name-format/name-matching"
 import {
   namingIn,
   refusalOf,
-} from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.code.ts"
+} from "akasha/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 import ts from "typescript"
 import {
   missing,

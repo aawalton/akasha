@@ -11,7 +11,7 @@ import {
   textNamed,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
-import { manifestsIn } from "../package-reached-where-named/package-reached-where-named.code-check.code.ts"
+import { manifestsIn } from "../package-reached-where-named/package-reached-where-named.code-check.decision.code.ts"
 
 const PARTED_BY = "/"
 
