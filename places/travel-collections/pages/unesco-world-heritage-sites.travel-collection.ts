@@ -1,4 +1,4 @@
-import type { TravelCollection } from "../travel-collection.page-type.ts"
+import type { TravelCollection } from "../travel-collection.page-type.types.ts"
 
 export const unescoWorldHeritageSites = {
   id: "01a06808-caa5-7004-8cf5-318dad8c2d54",

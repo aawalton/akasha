@@ -1,4 +1,4 @@
-import type { TravelCollection } from "../travel-collection.page-type.ts"
+import type { TravelCollection } from "../travel-collection.page-type.types.ts"
 
 export const utahCounties = {
   id: "01a06808-caa5-7006-b6fc-2b25ff9a71ce",

@@ -1,4 +1,4 @@
-import type { TravelCollection } from "../travel-collection.page-type.ts"
+import type { TravelCollection } from "../travel-collection.page-type.types.ts"
 
 export const piratesOfTheCaribbean = {
   id: "01a06808-caa5-7001-82e9-fd16e052f9fb",

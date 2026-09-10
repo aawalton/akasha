@@ -1,4 +1,4 @@
-import type { TravelCollection } from "../travel-collection.page-type.ts"
+import type { TravelCollection } from "../travel-collection.page-type.types.ts"
 
 export const countries = {
   id: "01a06808-caa4-7001-9399-2dfd25f2f4af",
