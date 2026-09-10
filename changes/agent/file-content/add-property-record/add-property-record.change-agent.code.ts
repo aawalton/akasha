@@ -1,6 +1,6 @@
 import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+import { afterIn, readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_PROPERTY_RECORD = "change-mechanical-file-content/add-property-record"
@@ -26,7 +26,9 @@ export async function addPropertyRecord(
 ): Promise<Answer> {
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no record is put in`)
-  return (await reach(world, ADD_PROPERTY_RECORD, given)).said
+  const placed = given.after ?? afterIn(world, read.value, given.key)
+  const asked = placed === null ? given : { ...given, after: placed }
+  return (await reach(world, ADD_PROPERTY_RECORD, asked)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

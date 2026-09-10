@@ -199,11 +199,16 @@ export function worldOf(held: Readonly<Record<string, string>>): World {
   }
 }
 
-export function worldFor(page: Value, body: string, reaching: Reaching): World {
+export function worldFor(
+  page: Value,
+  body: string,
+  reaching: Reaching,
+  valued: ReadonlyMap<string, Value> = new Map<string, Value>()
+): World {
   const known = knownOf({ admitting: (one) => [one] })
   return {
     root: "/nowhere",
-    index: { knownIn: () => known, pageByPath: () => page } as never,
+    index: { knownIn: () => known, pageByPath: () => page, valuesByPath: () => valued } as never,
     textOf: () => body,
     bodyOf: () => body,
     under: () => [],

@@ -88,7 +88,7 @@ test("the record is handed to the change reached at the address that change name
   expect(reached).toEqual([ADDRESS])
 })
 
-test("`after` is left out where the caller states no `after`", async () => {
+test("`after` is left out where the pages of this page's type write the key nowhere", async () => {
   let handed: unknown = null
   const seeing: World = {
     ...worldTold(),
@@ -101,6 +101,34 @@ test("`after` is left out where the caller states no `after`", async () => {
   await runChange(seeing, { at: AT, key: "invariants", record: RECORD })
 
   expect(handed).toEqual({ at: AT, key: "invariants", record: RECORD })
+})
+
+const SIBLINGS = new Map<string, Value>([
+  [
+    "changes/modules/other/other.module.ts",
+    {
+      id: "01a072c8-f35d-7ffc-afc3-75b72460b060",
+      pageTypeSlug: "module",
+      slug: "other",
+      directives: [],
+      code: "ts",
+    },
+  ],
+])
+
+test("the key the pages of this page's type write it after is handed on", async () => {
+  let handed: unknown = null
+  const seeing: World = {
+    ...worldFor(PAGE, BODY, RUNS, SIBLINGS),
+    reaching: (_world, _at, given) => {
+      handed = given
+      return Promise.resolve(NOTHING_OVER)
+    },
+  }
+
+  await runChange(seeing, { at: AT, key: "directives", record: RECORD })
+
+  expect(handed).toEqual({ at: AT, key: "directives", record: RECORD, after: "slug" })
 })
 
 test("`after` is handed on where the caller states `after`", async () => {

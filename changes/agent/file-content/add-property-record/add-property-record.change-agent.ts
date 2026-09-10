@@ -24,7 +24,8 @@ export const addPropertyRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "`after` is left out where the caller states no `after`.",
+      statement:
+        "Where the caller states no `after`, the key the page's own type puts this one after is handed on.",
     },
     {
       invariantKind: "departure",
@@ -37,6 +38,10 @@ export const addPropertyRecord = {
     {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`after` is left out where the pages of this page's type write the key nowhere.",
     },
   ],
   changeKind: "change-checked",
