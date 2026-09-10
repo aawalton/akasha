@@ -1,6 +1,6 @@
 import type { InstantProperty } from "@akasha/pages/instant-property"
 
-export type ScheduledStart = string
+export type ScheduledStartAt = string
 
 export const scheduledStartAt = {
   id: "01a06583-acfb-73ae-b66c-ba755708a687",
