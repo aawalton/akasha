@@ -18,7 +18,8 @@ export const talosSecrets = {
     },
     {
       invariantKind: "departure",
-      statement: "The bundle is written by the command generating it rather than by an author.",
+      statement:
+        "The bundle is written by the command generating that bundle rather than by an author.",
     },
     {
       invariantKind: "departure",

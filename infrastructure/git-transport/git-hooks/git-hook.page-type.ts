@@ -20,7 +20,7 @@ export const gitHook = {
     },
     {
       invariantKind: "departure",
-      statement: "The rest of that slug says what the hook does.",
+      statement: "The rest of that slug says which act the hook does.",
     },
     {
       invariantKind: "departure",
