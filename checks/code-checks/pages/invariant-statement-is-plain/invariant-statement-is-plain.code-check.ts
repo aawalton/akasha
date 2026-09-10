@@ -6,8 +6,6 @@ export const invariantStatementIsPlain = {
   type: "code-check",
   slug: "invariant-statement-is-plain",
   definition: "the check refusing an invariant that is not written in plain language",
-  code: "ts",
-  test: "ts",
   runsOnPatch: false,
   runsOnWorktree: false,
   runsOnDeploy: false,
