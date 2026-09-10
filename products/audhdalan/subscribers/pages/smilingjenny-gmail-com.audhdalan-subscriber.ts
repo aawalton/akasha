@@ -1,4 +1,4 @@
-import type { AudhdalanSubscriber } from "../audhdalan-subscriber.page-type.ts"
+import type { AudhdalanSubscriber } from "../audhdalan-subscriber.page-type.types.ts"
 
 export const smilingjennyGmailCom = {
   id: "019e2760-e694-760b-8412-f015c4a530cb",

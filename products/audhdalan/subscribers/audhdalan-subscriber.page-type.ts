@@ -1,10 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { SubscriberEmail } from "./properties/subscriber-email.email-address-property.ts"
-
-export type AudhdalanSubscriber = Page & {
-  email: SubscriberEmail
-}
 
 export const audhdalanSubscriber = {
   id: "019e2701-19cb-71d9-a820-bddf28cec176",
@@ -32,4 +26,5 @@ export const audhdalanSubscriber = {
       statement: "A subscriber arrives from the subscribe form audhdalan.com serves.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
