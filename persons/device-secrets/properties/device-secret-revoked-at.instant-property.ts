@@ -1,6 +1,6 @@
 import type { InstantProperty } from "@akasha/pages/instant-property"
 
-export type RevokedAt = string
+export type DeviceSecretRevokedAt = string
 
 export const deviceSecretRevokedAt = {
   id: "01a05b39-f50c-73d4-bf1e-b7d036cba922",
