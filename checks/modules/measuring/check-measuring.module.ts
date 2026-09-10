@@ -20,11 +20,19 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "The entries beside that page are read as well, and hold the history up to today.",
+      statement: "The entries beside that page are read as well.",
     },
     {
       invariantKind: "departure",
-      statement: "An entries row names no group, so the phase that row spells places it.",
+      statement: "The entries hold the history up to today.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entries row names no group.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The phase that row spells places the row.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +40,8 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "That placing is the best the entries admit rather than what the writer meant.",
+      statement:
+        "That placing is the best the entries admit rather than the placing the writer meant.",
     },
     {
       invariantKind: "departure",
@@ -40,11 +49,12 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "Two rows are one row where the text of each is the same.",
+      statement: "Two rows are one row where the two texts are the same.",
     },
     {
       invariantKind: "departure",
-      statement: "Every numbered file of each is read rather than the first alone.",
+      statement:
+        "Every numbered file of the logs and the entries is read rather than the first alone.",
     },
     {
       invariantKind: "departure",
