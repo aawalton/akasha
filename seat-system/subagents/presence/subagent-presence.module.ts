@@ -126,7 +126,15 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page sits in a folder of its own, named for the subagent, with its files.",
+      statement: "A page sits in a folder of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's folder is named for the subagent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's files sit in the page's folder.",
     },
     {
       invariantKind: "stopgap",
@@ -181,7 +189,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing refused because the tree moved under it is asked for again.",
+      statement: "A landing refused for a tree that moved under the landing is asked for again.",
     },
     {
       invariantKind: "departure",
