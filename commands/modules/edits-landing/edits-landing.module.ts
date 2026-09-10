@@ -19,16 +19,23 @@ export const editsLanding = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path that commit holds nothing at is read off the tree, so an add is refused there.",
+      statement: "A path that commit holds nothing at is read off the tree.",
     },
     {
       invariantKind: "departure",
-      statement: "An edit that will not replay refuses, and nothing is merged onto anything.",
+      statement: "An add is refused there.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names each path a rename moved since the change was drafted.",
+      statement: "An edit that will not replay refuses.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is merged onto anything.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names each path a rename moved after the change was drafted.",
     },
     {
       invariantKind: "departure",
