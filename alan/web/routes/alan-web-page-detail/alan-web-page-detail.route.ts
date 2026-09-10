@@ -15,7 +15,15 @@ export const alanWebPageDetail = {
     },
     {
       invariantKind: "departure",
-      statement: "An idle game, a chess game and a chess review each have a drawing of their own.",
+      statement: "An idle game has a drawing of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chess game has a drawing of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A chess review has a drawing of its own.",
     },
     {
       invariantKind: "departure",
