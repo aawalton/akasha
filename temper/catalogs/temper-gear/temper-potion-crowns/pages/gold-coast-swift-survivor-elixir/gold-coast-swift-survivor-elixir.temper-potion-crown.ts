@@ -1,4 +1,4 @@
-import type { TemperPotionCrown } from "../../temper-potion-crown.page-type.ts"
+import type { TemperPotionCrown } from "../../temper-potion-crown.page-type.types.ts"
 
 export const goldCoastSwiftSurvivorElixir = {
   id: "019e21f5-753d-725c-8f3f-3f7153cf80d8",
