@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { seatPathForName } from "../seat-reading/seat-reading.module.code.ts"
 import {
   addressFor,
   assignedKinds,
@@ -169,7 +170,7 @@ test("every kind an assignment is looked for under is named once", () => {
 
 const STOPPED = "athena"
 
-const PAGE_AT = `seat-system/seats/pages/${STOPPED}.seat.ts`
+const PAGE_AT = seatPathForName(STOPPED)
 
 const PAGE_BODY = "export const athena = {} as const\n"
 

@@ -107,6 +107,10 @@ export const seatStating = {
       statement: "The landing a page goes through is handed in.",
     },
     {
+      invariantKind: "departure",
+      statement: "Where a seat's page sits is read from the one rule rather than spelled again.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here runs the akasha command as a process.",
     },
