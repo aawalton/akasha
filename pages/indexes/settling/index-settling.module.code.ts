@@ -178,6 +178,10 @@ export function settlingOver(
     const one = carried.get(under(repo, path))
     return one === undefined ? pageOf(path) : one.was
   }
+  const nowPageOf = (path: string): Value | null => {
+    const one = carried.get(under(repo, path))
+    return one === undefined ? pageOf(path) : one.now
+  }
   const before = held.flatMap((one) => (one.was === null ? [] : [one.was]))
   const wasIdentifying = identifyingFrom(sourceAmong(before, sourceIn(reading, wasPageOf)))
   const nowIdentifying = identifyingFrom(sourceAmong(left, sourceIn(overSchema, pageOf)))
@@ -247,7 +251,7 @@ export function settlingOver(
     ...valued,
   ])
   const wasKnown = knownIn(reading, wasPageOf)
-  const known = knownIn(stepped, pageOf)
+  const known = knownIn(stepped, nowPageOf)
   const was = held.map((one) =>
     one.was === null ? NOTHING_FILED : relationIn(one.was, one.path, wasKnown, repo)
   )

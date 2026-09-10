@@ -91,5 +91,10 @@ export const indexSettling = {
       statement:
         "An importer reread is read as the change leaves that importer rather than off the disk.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The page a name reaches is read as the change leaves that page rather than off the disk.",
+    },
   ],
 } as const satisfies Module
