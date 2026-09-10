@@ -29,15 +29,24 @@ export const extensionHostReachesNoBunCode = {
     },
     {
       invariantKind: "departure",
-      statement: "A type-only import is erased before the editor loads, so nothing follows one.",
+      statement: "A type-only import is erased before the editor loads.",
     },
     {
       invariantKind: "departure",
-      statement: "A file reached only by a type-only import is no part of what the host loads.",
+      statement: "Nothing follows a type-only import.",
     },
     {
       invariantKind: "departure",
-      statement: "A dynamic import is followed, the host loading what that import names.",
+      statement:
+        "A file reached only by a type-only import is no part of the graph the host loads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dynamic import is followed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The host loads whatever a dynamic import names.",
     },
     {
       invariantKind: "departure",
@@ -53,15 +62,23 @@ export const extensionHostReachesNoBunCode = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges what the bun server the host starts reaches.",
+      statement: "Nothing here judges whatever the bun server the host starts reaches.",
     },
     {
       invariantKind: "departure",
-      statement: "That server is named as a path rather than imported, so no graph reaches it.",
+      statement: "That server is named as a path rather than imported.",
     },
     {
       invariantKind: "departure",
-      statement: "Pure data crosses into the host freely, reaching no bun of its own.",
+      statement: "No graph reaches that server.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Pure data crosses into the host freely.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Pure data reaches no bun of its own.",
     },
   ],
   check: { maxCpuSeconds: 10 },
