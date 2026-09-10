@@ -91,6 +91,7 @@ export const command = {
     "module/command-filling",
     "module/asking",
     "module/body-reaching",
+    "module/refusing",
     "module/applying",
     "module/landing",
     "module/during-call",
