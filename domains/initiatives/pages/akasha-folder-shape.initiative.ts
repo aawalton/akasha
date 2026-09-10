@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "3 refusals. The root refuses 11 files and 42 folders: the shape names the eleven folders Alan approved, and nothing wider is approved. Reading that list off `akasha.domain.ts` parts was mine and is reverted, since any agent widens parts. The other two are `pages` folders of flat mortal pages, `seat-log-days` (253) and `subagents` (1). A flat log day carries a `lines` file, so each needs its own folder; the writer folds that now, and the sweeper keeps 7 days, so they die by 2026-09-17.\n",
+        "The root refuses 11 files and 42 folders; the shape names the eleven Alan approved, nothing wider. He takes them one at a time: `browser` landed at `code-system/browser`. Renaming that page to `code` was mine and left 13 refusals there, and the folder move refuses on 24 path literals in 12 bodies; that rename is `nimue-code-cleanup`'s and she is live on it. The other two refusals are flat `pages` folders, `seat-log-days` and `subagents`, which the sweeper empties by 2026-09-17.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
