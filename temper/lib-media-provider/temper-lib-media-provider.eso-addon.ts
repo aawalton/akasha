@@ -6,7 +6,7 @@ export const temperLibMediaProvider = {
   type: "eso-addon",
   slug: "temper-lib-media-provider",
   definition: "the fonts, textures and sounds addons share with each other",
-  manifest: "json",
+
   addonManifest: "json",
   siblingManifest: "json",
   bundleEntry: "media-main",

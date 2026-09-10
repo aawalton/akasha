@@ -6,7 +6,7 @@ export const temperLibNotification = {
   type: "eso-addon",
   slug: "temper-lib-notification",
   definition: "the rows an addon adds to the game's notifications panel",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "notification-entry",
   parts: [

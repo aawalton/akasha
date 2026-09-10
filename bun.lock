@@ -313,15 +313,6 @@
         "vite": "^8.0.3",
       },
     },
-    "temper/lib-map-pins": {
-      "name": "@akasha/temper-lib-map-pins",
-    },
-    "temper/lib-media-provider": {
-      "name": "@akasha/temper-lib-media-provider",
-    },
-    "temper/lib-notification": {
-      "name": "@akasha/temper-lib-notification",
-    },
     "temper/lib-price": {
       "name": "@akasha/temper-lib-price",
     },
@@ -418,12 +409,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
-
-    "@akasha/temper-lib-map-pins": ["@akasha/temper-lib-map-pins@workspace:temper/lib-map-pins"],
-
-    "@akasha/temper-lib-media-provider": ["@akasha/temper-lib-media-provider@workspace:temper/lib-media-provider"],
-
-    "@akasha/temper-lib-notification": ["@akasha/temper-lib-notification@workspace:temper/lib-notification"],
 
     "@akasha/temper-lib-price": ["@akasha/temper-lib-price@workspace:temper/lib-price"],
 

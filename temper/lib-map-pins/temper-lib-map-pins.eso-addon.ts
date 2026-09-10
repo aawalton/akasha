@@ -6,7 +6,7 @@ export const temperLibMapPins = {
   type: "eso-addon",
   slug: "temper-lib-map-pins",
   definition: "an addon library adding custom pins and their filter checkboxes to the world map",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "map-pins-main",
   parts: [
