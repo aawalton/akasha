@@ -41,7 +41,6 @@ export const setLog = {
     { pageProperty: "number-property/weight", required: false, many: false },
     { pageProperty: "computed-property/set-volume", required: false, many: false },
   ],
-  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",

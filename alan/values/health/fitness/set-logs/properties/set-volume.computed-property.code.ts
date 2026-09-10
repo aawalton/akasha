@@ -1,5 +1,5 @@
 import type { Work } from "akasha/pages/computed-properties/computed-property.page-type.ts"
-import type { WorkedSetLog } from "../set-log.page-type.worked.ts"
+import type { SetLog } from "../set-log.page-type.types.ts"
 
 const LIFTER = "person/alan"
 
@@ -9,7 +9,7 @@ type Loaded = { readonly loadFactor?: number; readonly implementCount?: number }
 
 type Weighed = { readonly bodyweight?: number }
 
-export const work: Work<WorkedSetLog, number> = (page, reach) => {
+export const work: Work<SetLog, number> = (page, reach) => {
   if (page.isWarmup === true) return 0
   if (page.activityType !== undefined) return 0
   const slug = page.exercise
