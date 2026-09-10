@@ -3,6 +3,7 @@ import {
   deviceTokensFor,
   dropDeviceToken,
 } from "akasha/persons/device-token-registration/device-token-registration.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 
 export const ON_THE_WORKSTATION = "http://127.0.0.1:8787"
 
@@ -12,8 +13,8 @@ export interface DeviceToken {
 }
 
 function originNamed(): boolean {
-  const said = process.env.PAGES_SERVICE_ORIGIN ?? process.env.PAGE_STORE_ORIGIN
-  return said !== undefined && said !== ""
+  const said = optionalEnv("PAGES_SERVICE_ORIGIN") ?? optionalEnv("PAGE_STORE_ORIGIN")
+  return said !== undefined
 }
 
 export const onTheWorkstation: Fetcher = (url, init) => {
