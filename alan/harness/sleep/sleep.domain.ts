@@ -9,7 +9,6 @@ export const sleep = {
   parts: [
     "module/sleep-reading",
     "readout/upkeep-sleep",
-    "workstation-service/sleep-reading-service",
     "workstation-service/sleep-relay-service",
   ],
   invariants: [
