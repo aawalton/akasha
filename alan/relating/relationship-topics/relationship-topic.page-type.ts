@@ -9,7 +9,7 @@ import type { RelationshipTopicStatus } from "./properties/relationship-topic-st
 export type RelationshipTopic = Page & {
   title: Title
   relationshipTopicParent?: RelationshipTopicParent
-  relationshipTopicPeople?: readonly RelationshipTopicPeople[]
+  relationshipTopicPeople?: RelationshipTopicPeople
   relationshipTopicSensitivity: RelationshipTopicSensitivity
   relationshipTopicStatus: RelationshipTopicStatus
 }
