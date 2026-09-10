@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const fireTheSameMoveHoldNotDoingAskToTheRemainingSomed = {
   id: "019f73bc-6740-7d86-9f21-71973e8b14da",

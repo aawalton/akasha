@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const yourDatabaseFailedOverYesterdayAt1644AndTheNewPri = {
   id: "019f9942-77ab-74bd-b010-70c2bdd8b8b3",

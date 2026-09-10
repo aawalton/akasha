@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldAFolderDomainRankAPrincipleItsParentAlreadyR = {
   id: "019fbacb-85fb-7f94-a4bc-f21d755fce38",

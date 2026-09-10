@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const bunOpsAgentListNowPrintsTheAddressableHandleProject = {
   id: "019fa7d6-a218-7436-9be2-29ad97ad8d07",

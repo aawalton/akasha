@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const dsAnchorHuntWithHr2SBlackGoldDecoPaintLockedWhic = {
   id: "019f69ee-fb20-78b9-bb99-da2fc554ea54",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const revivingOrphanProjectIntakeAsMyStandingFunctionAine = {
   id: "019f9510-1bf3-786e-938d-612a51bf4f6c",

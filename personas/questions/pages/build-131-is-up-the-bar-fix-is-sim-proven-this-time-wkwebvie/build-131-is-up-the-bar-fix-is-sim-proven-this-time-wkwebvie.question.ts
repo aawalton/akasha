@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build131IsUpTheBarFixIsSimProvenThisTimeWkwebvie = {
   id: "019f6bd5-389f-7245-b5a7-476e62103b3d",

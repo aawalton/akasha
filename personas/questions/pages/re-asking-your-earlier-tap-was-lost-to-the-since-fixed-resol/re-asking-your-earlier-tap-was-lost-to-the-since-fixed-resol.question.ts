@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const reAskingYourEarlierTapWasLostToTheSinceFixedResol = {
   id: "019f69f0-e6a3-7403-b171-49a3e5495332",

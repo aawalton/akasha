@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const fundTheNanoBananaHeadToHead5OnAGeminiApiKey = {
   id: "019f6b68-7177-783d-9e88-350b01e824d0",

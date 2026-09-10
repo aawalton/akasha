@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doesEditingTheTier1GlobalPrinciplesClaudeClaudeMdS = {
   id: "019f9b34-45a7-7874-81f4-f1cfd10f5fad",

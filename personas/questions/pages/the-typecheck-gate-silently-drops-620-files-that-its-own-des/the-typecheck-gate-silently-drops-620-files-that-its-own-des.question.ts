@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theTypecheckGateSilentlyDrops620FilesThatItsOwnDes = {
   id: "01a047da-9b79-7000-bcb4-1d20f018869e",

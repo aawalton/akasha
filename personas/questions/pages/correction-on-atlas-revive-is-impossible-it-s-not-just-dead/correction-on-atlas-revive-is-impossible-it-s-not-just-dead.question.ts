@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const correctionOnAtlasReviveIsImpossibleItSNotJustDead = {
   id: "019f9620-dc4a-7d33-a470-f9682cdd368d",

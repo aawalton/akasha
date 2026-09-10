@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const frameworkScope15797WhatSInItsRemitJustStrengthExer = {
   id: "019f948e-0102-78a8-81ef-d60742aef7ab",

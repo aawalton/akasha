@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const onceYouHavePlacedThePipelineHealthTileDoTheTwoRow = {
   id: "019fe8c1-e7a8-7208-8556-57d407ef4617",

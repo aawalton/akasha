@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doYouWantYourEmailTriageToKeepWakingAmyOrBecomeS = {
   id: "019f9ac1-521c-725c-8d43-a63d8c5d8030",

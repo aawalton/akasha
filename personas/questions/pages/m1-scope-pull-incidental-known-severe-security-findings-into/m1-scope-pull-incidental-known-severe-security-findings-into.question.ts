@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const m1ScopePullIncidentalKnownSevereSecurityFindingsInto = {
   id: "019f95fb-889a-7261-ac38-9599f17c8dae",

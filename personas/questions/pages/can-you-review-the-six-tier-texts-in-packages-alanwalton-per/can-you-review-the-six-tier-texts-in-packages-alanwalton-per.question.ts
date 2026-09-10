@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const canYouReviewTheSixTierTextsInPackagesAlanwaltonPer = {
   id: "019f4eda-9d59-7e6b-be2c-6f468486d331",

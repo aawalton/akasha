@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldIVerifyThePrimarySourcesOnThePromotionEndDat = {
   id: "019f5bb5-0c3a-7704-a331-04212a505805",

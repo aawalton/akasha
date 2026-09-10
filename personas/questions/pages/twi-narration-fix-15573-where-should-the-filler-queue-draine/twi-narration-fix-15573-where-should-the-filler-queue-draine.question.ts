@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const twiNarrationFix15573WhereShouldTheFillerQueueDraine = {
   id: "019f6991-0ab1-77f6-8b93-c7f73a5a7369",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const fleetGitCiDeployIsDownUntilNode03IsPhysicallyPowe = {
   id: "019f9648-d106-7ba7-8db8-85bd4e9fabd8",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const yourIphoneIsTheLastStepOnTwoRowsCanYouUpdateToT = {
   id: "019f9965-2052-7349-be07-6948ccd0cae9",

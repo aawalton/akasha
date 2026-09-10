@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const alannotesIntake11Of13RoyalRoadViewCheckWhatSTheC = {
   id: "019f6990-482c-752a-8a1c-c37dd522c88f",

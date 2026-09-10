@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const lockScreenQuickAnswers15523IosConstraintsForceAScop = {
   id: "019f6e5c-6b85-7301-a3c5-9148dc6509b3",

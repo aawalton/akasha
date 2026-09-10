@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theSecondSortFixIsDeployedOnYourTodayUpNextTemper = {
   id: "019f9439-3457-73aa-b7ec-eea7a2d1f40a",

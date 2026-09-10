@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const craftingCleanup14325TheFoldedAddonsStillAnswerTheir = {
   id: "019f7113-d390-7905-a492-2766bd1d0af4",

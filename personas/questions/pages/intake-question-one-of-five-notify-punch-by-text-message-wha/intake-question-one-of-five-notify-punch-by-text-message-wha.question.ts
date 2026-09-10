@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const intakeQuestionOneOfFiveNotifyPunchByTextMessageWha = {
   id: "019f6923-fca9-72ab-9e55-bec8aca9c731",

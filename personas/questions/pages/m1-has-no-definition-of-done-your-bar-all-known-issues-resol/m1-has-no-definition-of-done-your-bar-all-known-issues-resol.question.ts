@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const m1HasNoDefinitionOfDoneYourBarAllKnownIssuesResol = {
   id: "019f9851-c832-7d68-875e-227c16d8057b",

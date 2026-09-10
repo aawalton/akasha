@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const row16320VerificationDidThisNotificationArriveReadableWit = {
   id: "019fa4f5-4594-71f4-aec1-3cba0430c3dc",

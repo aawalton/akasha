@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const bothPlatoReRunsAreReadyInZadiSVoiceApologyAndCri = {
   id: "019f79ec-a64a-7ef2-abb3-1b6498548b1b",

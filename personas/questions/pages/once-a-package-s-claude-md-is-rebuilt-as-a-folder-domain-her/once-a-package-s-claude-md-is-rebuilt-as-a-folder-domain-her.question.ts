@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const onceAPackageSClaudeMdIsRebuiltAsAFolderDomainHer = {
   id: "019fba83-f773-73c7-b205-693aaa752978",

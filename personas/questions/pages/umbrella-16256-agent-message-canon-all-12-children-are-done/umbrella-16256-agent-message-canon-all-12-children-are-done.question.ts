@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const umbrella16256AgentMessageCanonAll12ChildrenAreDone = {
   id: "019f9c70-3cfd-7f93-8fb3-e8bd09f8df44",

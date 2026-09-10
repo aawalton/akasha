@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const testflightBuild139OnDeviceChapterAudioIsReadyDoesN = {
   id: "019f74f1-c11d-7913-8c0f-d97f5ea9f6f7",

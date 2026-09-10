@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const row15769AwenReaderDisplayframeIsDeployedAndLiveOnAlanw = {
   id: "019f8bb0-27a3-7078-b2a6-fa24c53b241f",

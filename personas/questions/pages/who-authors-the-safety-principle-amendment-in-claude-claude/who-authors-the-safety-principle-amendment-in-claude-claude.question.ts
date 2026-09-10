@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whoAuthorsTheSafetyPrincipleAmendmentInClaudeClaude = {
   id: "019f9ab0-1796-7a2a-910c-1f8f1725bab7",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const amySValueRelationPointsAtHealthButHerOwnEarningnar = {
   id: "019f9a0e-a2cc-7acc-ad9c-b673d8b074e3",

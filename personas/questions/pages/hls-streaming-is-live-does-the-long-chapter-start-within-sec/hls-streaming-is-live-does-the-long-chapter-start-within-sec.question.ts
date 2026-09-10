@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const hlsStreamingIsLiveDoesTheLongChapterStartWithinSec = {
   id: "019f764c-4209-746d-985c-7bcb45fefdcc",

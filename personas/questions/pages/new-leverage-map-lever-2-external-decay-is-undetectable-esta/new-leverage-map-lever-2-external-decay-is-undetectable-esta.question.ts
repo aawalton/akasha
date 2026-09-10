@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const newLeverageMapLever2ExternalDecayIsUndetectableEsta = {
   id: "019f974c-bfdb-79e1-8bee-7655eeef4c91",

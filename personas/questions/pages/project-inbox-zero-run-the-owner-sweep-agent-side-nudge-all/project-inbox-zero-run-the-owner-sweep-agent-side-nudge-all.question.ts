@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const projectInboxZeroRunTheOwnerSweepAgentSideNudgeAll = {
   id: "019f6e4b-89f2-7352-855f-9c4895ed791f",

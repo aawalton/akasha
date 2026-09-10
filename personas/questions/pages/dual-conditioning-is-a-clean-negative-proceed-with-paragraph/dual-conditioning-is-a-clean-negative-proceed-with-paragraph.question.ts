@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const dualConditioningIsACleanNegativeProceedWithParagraph = {
   id: "019f7c33-5366-794a-a387-8a05df83715e",

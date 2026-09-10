@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const fleetWideClusterWedgeNeedYourCallOnOneReversibleCo = {
   id: "019f9509-b55a-73ac-a507-167c5423cde3",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build136DoAllFourWidgetTapsLandOnTheirViewsValues = {
   id: "019f6fd8-b2d0-7bdd-9864-21a83d738266",

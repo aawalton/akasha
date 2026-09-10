@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const yourStandingRulingsEightClustersUnderDirtySkillsAgen = {
   id: "019fbb5f-ea6f-7b19-a00c-0d9b1d1514c9",

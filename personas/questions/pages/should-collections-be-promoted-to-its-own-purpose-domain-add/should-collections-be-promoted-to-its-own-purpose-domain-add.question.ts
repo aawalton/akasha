@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldCollectionsBePromotedToItsOwnPurposeDomainAdd = {
   id: "019f4ca3-3d3a-75e7-ae34-fe6791459943",

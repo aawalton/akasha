@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldTheV1SeedLiteralIncludeHistoryFullAsADefault = {
   id: "019f4c6e-1a37-7cfb-a590-9c7c46fd9dbe",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const forSortedCardViewsHowShouldCardsFillColumnsRightNo = {
   id: "019f9632-f509-7934-9e96-ae35d70a0ee0",

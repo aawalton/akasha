@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doctrineCallOn15296NoUnGroundTruthableSignalDrives = {
   id: "019f6e4e-c9c9-7748-92c3-6c0140657829",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const sweepRunningAgentSide6Of10SeatsClosedMeanwhilePull = {
   id: "019f6e50-46ac-7478-a0fa-d41a2afcc420",

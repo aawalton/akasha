@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whatTaskOrIssueBroughtYouToCheckInWithMe = {
   id: "019f4d6f-e1e9-7ee6-b402-d2c9805b50b3",

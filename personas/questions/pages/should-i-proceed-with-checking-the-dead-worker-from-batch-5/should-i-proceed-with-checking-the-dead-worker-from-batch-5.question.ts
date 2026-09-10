@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldIProceedWithCheckingTheDeadWorkerFromBatch5 = {
   id: "019f5bb1-2513-7164-b984-ff2d6f3bbf35",

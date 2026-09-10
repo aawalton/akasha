@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldDefinePrincipleOrRuleSDefineProjectExitAccept = {
   id: "019fce42-9c3f-778d-9428-fef0ba726c8c",

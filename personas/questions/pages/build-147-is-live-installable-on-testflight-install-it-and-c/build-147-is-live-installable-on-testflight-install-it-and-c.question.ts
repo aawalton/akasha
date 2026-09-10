@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build147IsLiveInstallableOnTestflightInstallItAndC = {
   id: "019f94e4-68bf-7f8a-9de3-42eb5889fd40",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const ciCapacityNode0632CoresHasSatAtZeroCiWorkAllNig = {
   id: "019f9ad7-0248-7f0d-a09a-dc3e406729fe",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const temperStructurallyCannotWorkForConsoleNoSavedvariable = {
   id: "019f9841-8d44-7220-b9b8-f08643b5a5bf",

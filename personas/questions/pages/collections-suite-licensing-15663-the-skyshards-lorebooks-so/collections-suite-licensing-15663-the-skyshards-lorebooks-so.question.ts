@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const collectionsSuiteLicensing15663TheSkyshardsLorebooksSo = {
   id: "019f71e2-fbf1-75eb-bb32-e59daf2cd5ee",

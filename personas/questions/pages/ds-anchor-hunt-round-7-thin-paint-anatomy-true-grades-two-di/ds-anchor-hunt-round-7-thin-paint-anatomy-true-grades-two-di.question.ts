@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const dsAnchorHuntRound7ThinPaintAnatomyTrueGradesTwoDi = {
   id: "019f69b3-95ad-71fa-81f3-6eae12810036",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const alannotesIntakeItems68SecurityClusterDoSecurityAudi = {
   id: "019f6957-8483-7488-988a-8e8b01ffb6a7",

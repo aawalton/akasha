@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const warmTapTestKeepTheAppOpenInTheForegroundThenTapT = {
   id: "019f68be-5259-74a3-9432-ca6e6ed53f24",

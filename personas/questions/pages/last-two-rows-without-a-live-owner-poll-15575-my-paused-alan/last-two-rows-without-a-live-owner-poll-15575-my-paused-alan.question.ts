@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const lastTwoRowsWithoutALiveOwnerPoll15575MyPausedAlan = {
   id: "019f73bd-4e74-77a6-b8eb-ad033ccfae90",

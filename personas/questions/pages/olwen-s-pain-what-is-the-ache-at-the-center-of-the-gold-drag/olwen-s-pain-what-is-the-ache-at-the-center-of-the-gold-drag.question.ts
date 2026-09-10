@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const olwenSPainWhatIsTheAcheAtTheCenterOfTheGoldDrag = {
   id: "019f6e3c-7804-79dd-9784-3fc427c31a9f",

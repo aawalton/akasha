@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const onDemandChapterAudioIsLiveOnWebHowDoesTheGenerati = {
   id: "019f746f-598a-745e-8ae7-5083db3c36b3",

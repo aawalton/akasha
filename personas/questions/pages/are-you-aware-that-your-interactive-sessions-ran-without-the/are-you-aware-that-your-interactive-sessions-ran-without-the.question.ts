@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const areYouAwareThatYourInteractiveSessionsRanWithoutThe = {
   id: "019f67ca-d9b8-74e7-9a20-76a0606a45f7",

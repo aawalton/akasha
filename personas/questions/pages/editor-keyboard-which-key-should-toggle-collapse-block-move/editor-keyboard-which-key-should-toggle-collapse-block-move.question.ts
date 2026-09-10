@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const editorKeyboardWhichKeyShouldToggleCollapseBlockMove = {
   id: "019f9538-9924-77fa-ad31-2fd8c4830080",

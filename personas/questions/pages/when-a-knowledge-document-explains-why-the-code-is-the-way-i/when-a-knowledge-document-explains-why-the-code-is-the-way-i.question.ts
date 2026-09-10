@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whenAKnowledgeDocumentExplainsWhyTheCodeIsTheWayI = {
   id: "019fbaa2-2633-7592-952d-18039e7476a1",

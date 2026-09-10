@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theThreePanelsNowHaveTheAlwaysVisibleFilterBarYou = {
   id: "01a0068c-b803-7982-9c91-9ba14276442c",

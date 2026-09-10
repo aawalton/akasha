@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldThe15000ByteTokenCeilingApplyToQuestionsMdA = {
   id: "019fbafa-8933-7240-bef4-efce69912299",

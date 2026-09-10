@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const answerOrRefuseCurrentlySitsOnDomainPagesSystemWhich = {
   id: "01a047db-c58b-7000-859c-365c44b71732",

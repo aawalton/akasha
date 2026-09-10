@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const audioSync15770DoesOneSentencePerPassNarrationHoldU = {
   id: "019f8b9c-3ed4-7ebf-b82e-b87c01cc6110",

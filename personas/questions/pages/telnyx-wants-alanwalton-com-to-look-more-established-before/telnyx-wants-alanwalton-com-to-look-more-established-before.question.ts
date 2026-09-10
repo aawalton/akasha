@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const telnyxWantsAlanwaltonComToLookMoreEstablishedBefore = {
   id: "019f7069-7ff4-7f40-89ad-5cb50d23b1c0",

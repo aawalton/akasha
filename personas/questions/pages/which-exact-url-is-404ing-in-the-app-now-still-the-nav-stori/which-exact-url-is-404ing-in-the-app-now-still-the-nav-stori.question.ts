@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whichExactUrlIs404ingInTheAppNowStillTheNavStori = {
   id: "019f6f05-703a-7807-b563-b7ed3d9cdd81",

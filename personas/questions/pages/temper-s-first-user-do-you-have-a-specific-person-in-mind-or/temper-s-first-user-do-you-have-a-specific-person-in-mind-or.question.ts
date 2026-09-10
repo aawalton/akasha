@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const temperSFirstUserDoYouHaveASpecificPersonInMindOr = {
   id: "019f95e6-89fe-7743-accd-4518b23a5691",

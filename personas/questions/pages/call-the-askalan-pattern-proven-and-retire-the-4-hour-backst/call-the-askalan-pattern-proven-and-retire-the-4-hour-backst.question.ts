@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const callTheAskalanPatternProvenAndRetireThe4HourBackst = {
   id: "019f6c43-b369-7ea4-af73-1fbbe7af7d09",

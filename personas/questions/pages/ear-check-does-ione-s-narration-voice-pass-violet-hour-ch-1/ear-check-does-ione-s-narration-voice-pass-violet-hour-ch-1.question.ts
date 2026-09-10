@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const earCheckDoesIoneSNarrationVoicePassVioletHourCh1 = {
   id: "019f6d64-0b30-7229-856b-19d1faedf38c",

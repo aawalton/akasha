@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build141IsReadyDoesTheVoiceModelDownloadNowSurvive = {
   id: "019f767f-51a0-76aa-afe0-03e9cb1e3826",

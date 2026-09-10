@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const completionCleanup14317TheFoldedSkillPointFinderStill = {
   id: "019f7140-ac8f-7807-8e08-39cd04305e39",

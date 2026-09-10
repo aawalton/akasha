@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const forTheNewPublicContactPageOnAlanwaltonComEmailToll = {
   id: "019f7087-cede-7697-948b-d122ba7ad37a",

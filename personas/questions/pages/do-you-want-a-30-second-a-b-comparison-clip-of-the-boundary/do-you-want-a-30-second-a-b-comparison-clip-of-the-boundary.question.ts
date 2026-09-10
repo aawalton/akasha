@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doYouWantA30SecondABComparisonClipOfTheBoundary = {
   id: "019f4cdc-80ff-730c-b302-24e8d087b2b2",

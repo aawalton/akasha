@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const quickCorroborationTapDoesAranyaShowConnectedInYourA = {
   id: "019f6fb2-9833-7a7c-ade7-5f2851c0e72a",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const deepLinkReTestAfterTappingThisDoYouSeeOurConversa = {
   id: "019f68b0-fc45-7625-947b-14b5a7fc896a",

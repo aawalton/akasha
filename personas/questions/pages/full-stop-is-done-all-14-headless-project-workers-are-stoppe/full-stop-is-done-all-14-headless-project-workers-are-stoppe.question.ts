@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const fullStopIsDoneAll14HeadlessProjectWorkersAreStoppe = {
   id: "019f9a30-3cb7-7d94-9536-7f50119c9371",

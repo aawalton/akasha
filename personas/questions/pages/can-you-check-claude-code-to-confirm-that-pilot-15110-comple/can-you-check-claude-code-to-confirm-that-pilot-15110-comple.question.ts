@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const canYouCheckClaudeCodeToConfirmThatPilot15110Comple = {
   id: "019f4c9b-9fd9-71c6-90e8-2879cef064ae",

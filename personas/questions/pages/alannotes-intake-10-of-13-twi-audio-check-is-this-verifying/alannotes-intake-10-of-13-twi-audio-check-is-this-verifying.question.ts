@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const alannotesIntake10Of13TwiAudioCheckIsThisVerifying = {
   id: "019f6987-963a-7d61-979d-388f0a511d2f",

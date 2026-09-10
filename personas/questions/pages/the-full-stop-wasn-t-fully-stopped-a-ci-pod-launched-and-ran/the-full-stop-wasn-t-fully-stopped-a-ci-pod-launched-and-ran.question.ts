@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theFullStopWasnTFullyStoppedACiPodLaunchedAndRan = {
   id: "019f9ab0-c871-7ae0-a90a-49136683e8ac",

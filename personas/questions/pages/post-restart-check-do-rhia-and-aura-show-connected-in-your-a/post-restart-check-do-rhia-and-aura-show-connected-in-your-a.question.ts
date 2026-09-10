@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const postRestartCheckDoRhiaAndAuraShowConnectedInYourA = {
   id: "019f6e40-a792-7468-8c8f-0ac328634a4a",

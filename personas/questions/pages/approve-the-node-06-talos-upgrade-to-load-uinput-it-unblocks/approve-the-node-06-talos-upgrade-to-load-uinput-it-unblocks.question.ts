@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const approveTheNode06TalosUpgradeToLoadUinputItUnblocks = {
   id: "019f975b-ade2-7185-ac1a-aa3cb8995ac1",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build130IsUpThePanStickIsFixedThePanEventNeverF = {
   id: "019f6b2d-fb06-74fb-9187-fbc9c9b15bd8",

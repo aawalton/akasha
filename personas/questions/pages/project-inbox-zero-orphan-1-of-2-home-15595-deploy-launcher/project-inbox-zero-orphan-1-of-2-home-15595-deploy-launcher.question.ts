@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const projectInboxZeroOrphan1Of2Home15595DeployLauncher = {
   id: "019f6e45-6dad-7103-a03d-db9be4666762",

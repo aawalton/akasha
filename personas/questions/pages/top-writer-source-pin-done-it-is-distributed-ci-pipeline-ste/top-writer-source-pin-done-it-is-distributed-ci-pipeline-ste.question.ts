@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const topWriterSourcePinDoneItIsDistributedCiPipelineSte = {
   id: "019f9592-6f13-7975-8af3-e81af96c5ed8",

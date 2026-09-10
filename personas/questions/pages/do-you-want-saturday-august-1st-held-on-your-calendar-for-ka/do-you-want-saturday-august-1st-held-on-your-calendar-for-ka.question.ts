@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doYouWantSaturdayAugust1stHeldOnYourCalendarForKa = {
   id: "019f99dc-dd12-7413-858f-cf6ba23ab3cf",

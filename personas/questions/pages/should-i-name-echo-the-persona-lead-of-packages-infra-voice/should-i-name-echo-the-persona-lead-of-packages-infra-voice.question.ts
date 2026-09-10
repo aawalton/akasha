@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldINameEchoThePersonaLeadOfPackagesInfraVoice = {
   id: "019f8b61-c553-7189-90ac-e7f211381939",

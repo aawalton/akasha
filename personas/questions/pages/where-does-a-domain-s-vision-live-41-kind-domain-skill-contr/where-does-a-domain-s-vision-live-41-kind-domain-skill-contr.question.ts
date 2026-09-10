@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whereDoesADomainSVisionLive41KindDomainSkillContr = {
   id: "019fbbe5-a9ab-749d-85dd-01b267ae6e33",

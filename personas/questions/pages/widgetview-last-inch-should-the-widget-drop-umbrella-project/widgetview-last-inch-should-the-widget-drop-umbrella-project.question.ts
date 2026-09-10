@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const widgetviewLastInchShouldTheWidgetDropUmbrellaProject = {
   id: "019f7216-ff1d-7804-ae9e-6a2151ac9140",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldIDisableTheAutonomousHeartbeatTimerWhileIdleA = {
   id: "019f52db-6bb8-7296-95b4-94561c8bac2d",

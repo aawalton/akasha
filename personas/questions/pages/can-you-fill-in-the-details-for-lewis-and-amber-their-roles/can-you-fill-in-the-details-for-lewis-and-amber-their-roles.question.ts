@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const canYouFillInTheDetailsForLewisAndAmberTheirRoles = {
   id: "019f4cac-4185-7972-b335-8fa6fb4ff9ac",

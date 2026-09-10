@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const lastIntakeItemRealLifeDndCharacterSheetWhatSTheSu = {
   id: "019f6983-c1da-72d3-92a1-f6d010a31f1f",

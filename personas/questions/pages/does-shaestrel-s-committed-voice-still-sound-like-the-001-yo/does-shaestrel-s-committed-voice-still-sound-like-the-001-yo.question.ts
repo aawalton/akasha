@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doesShaestrelSCommittedVoiceStillSoundLikeThe001Yo = {
   id: "019f95f6-7094-7d0c-8236-4d6811c79a95",

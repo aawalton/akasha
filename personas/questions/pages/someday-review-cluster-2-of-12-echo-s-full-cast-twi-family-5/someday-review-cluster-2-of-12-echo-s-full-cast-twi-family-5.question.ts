@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const somedayReviewCluster2Of12EchoSFullCastTwiFamily5 = {
   id: "019f73ae-4e1c-7560-8e3c-f27124c3e320",

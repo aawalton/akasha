@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whenOneTimeoutWrapsAnotherDoesYour2xExpectedCaseRu = {
   id: "019f9b64-1324-7fbd-8b33-fac12d483ba8",

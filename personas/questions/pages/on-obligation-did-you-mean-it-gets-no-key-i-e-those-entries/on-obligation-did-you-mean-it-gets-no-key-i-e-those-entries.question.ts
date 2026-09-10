@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const onObligationDidYouMeanItGetsNoKeyIEThoseEntries = {
   id: "019fc388-bd26-7d9c-9592-aa4d3d796d82",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const fullLoopVerificationOfTheAskalanSystemAllFourBuild = {
   id: "019f6824-4488-74bb-83ad-11a110788932",

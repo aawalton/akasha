@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const atlasThePersonaThatOwnsTheAtlasAppAlanwaltonAtlasW = {
   id: "019f9617-45c7-7528-a9a0-25489cc4e2db",

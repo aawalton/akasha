@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const canYouPhysicallyPowerCycleNode03WhenYouGetAMoment = {
   id: "019f9646-e4e9-71ee-ba1f-234d436e82c0",

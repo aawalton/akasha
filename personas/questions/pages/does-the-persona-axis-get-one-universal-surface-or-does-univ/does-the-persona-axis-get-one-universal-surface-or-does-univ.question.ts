@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doesThePersonaAxisGetOneUniversalSurfaceOrDoesUniv = {
   id: "019fade7-95c0-7855-ade8-c2b91640d219",

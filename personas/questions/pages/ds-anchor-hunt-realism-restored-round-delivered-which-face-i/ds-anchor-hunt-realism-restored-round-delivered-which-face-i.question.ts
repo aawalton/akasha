@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const dsAnchorHuntRealismRestoredRoundDeliveredWhichFaceI = {
   id: "019f6a06-8f0a-7549-bc47-6dc641afdf3a",

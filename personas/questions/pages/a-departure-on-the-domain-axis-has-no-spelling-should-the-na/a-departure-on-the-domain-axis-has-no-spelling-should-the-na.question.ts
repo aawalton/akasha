@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const aDepartureOnTheDomainAxisHasNoSpellingShouldTheNa = {
   id: "019fc7a0-6ca3-7a04-a72f-24c893b2308b",

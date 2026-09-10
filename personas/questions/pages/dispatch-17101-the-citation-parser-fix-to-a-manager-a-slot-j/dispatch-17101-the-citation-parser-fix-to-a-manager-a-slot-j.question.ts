@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const dispatch17101TheCitationParserFixToAManagerASlotJ = {
   id: "019faac2-e3f1-7de0-b646-5d3b09703354",

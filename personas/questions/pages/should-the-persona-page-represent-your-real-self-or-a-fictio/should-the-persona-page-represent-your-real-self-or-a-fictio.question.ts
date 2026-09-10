@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldThePersonaPageRepresentYourRealSelfOrAFictio = {
   id: "019f517b-8a1d-7d54-a957-dbb2826b4210",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build128IsUpItCarriesThe30SecondKeyboardMeasuremen = {
   id: "019f6ad4-cbd1-73b2-8622-11aaab895cba",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build137OnHomeSFavoritesRecentlyViewedDoRowTapsNa = {
   id: "019f7033-893d-7180-9cf5-d6be7b86cd04",

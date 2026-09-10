@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const deepLinkTestTapThisNotificationDoesItLandYouOnMy = {
   id: "019f68ab-96d2-7c41-9115-e9d509ec4088",

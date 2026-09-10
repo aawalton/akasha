@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const on15770SentenceLevelAudioSyncOneForkIsYoursTheOn = {
   id: "019f8b44-7dd2-7721-b327-8831a0f59cb2",

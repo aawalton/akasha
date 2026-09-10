@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const craftingCleanup14325WithTheLegacySlashCommandsRetire = {
   id: "019f71df-f864-74db-8aae-3dfecb5ff024",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whenAnAgentSendsYouSomethingDoesItActuallyReachYou = {
   id: "019faba4-0b50-7b2b-b634-06e015c274ec",

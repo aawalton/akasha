@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const oneResidualHumanActionFromTheRcBootDarkInvestigatio = {
   id: "019f70f9-8638-764c-9acc-c04e0a788486",

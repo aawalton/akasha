@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const locationTracesPhase1IsLiveTheLastGateIsYourHands = {
   id: "019f69eb-0e25-71da-82e9-2c167b6ff91c",

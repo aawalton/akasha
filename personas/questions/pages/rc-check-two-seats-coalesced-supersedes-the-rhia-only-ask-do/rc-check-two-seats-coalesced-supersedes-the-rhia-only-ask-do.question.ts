@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const rcCheckTwoSeatsCoalescedSupersedesTheRhiaOnlyAskDo = {
   id: "019f6e1e-d57a-7b24-b645-fba303cfdac5",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const node03HungAfterTheRebootTalosctlSDefaultKexecBoot = {
   id: "019f9643-d5fc-7024-9e53-f17b540519c6",

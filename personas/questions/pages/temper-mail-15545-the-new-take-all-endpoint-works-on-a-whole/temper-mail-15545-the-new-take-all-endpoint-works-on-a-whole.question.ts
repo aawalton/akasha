@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const temperMail15545TheNewTakeAllEndpointWorksOnAWhole = {
   id: "019f710c-fbb2-7f2e-9700-453701a78177",

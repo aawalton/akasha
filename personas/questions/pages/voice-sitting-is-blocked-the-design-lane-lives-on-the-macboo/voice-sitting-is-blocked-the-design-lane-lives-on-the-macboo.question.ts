@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const voiceSittingIsBlockedTheDesignLaneLivesOnTheMacboo = {
   id: "019f6e6b-094b-7a70-99fd-eb606c76e687",

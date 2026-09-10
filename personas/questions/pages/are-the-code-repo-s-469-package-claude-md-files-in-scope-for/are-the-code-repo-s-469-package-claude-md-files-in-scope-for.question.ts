@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const areTheCodeRepoS469PackageClaudeMdFilesInScopeFor = {
   id: "019fba71-0a40-7ea3-9339-51b7f56d83a3",

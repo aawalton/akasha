@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build140IsReadyDoesNativeChapterAudioNowColdStart = {
   id: "019f762c-0637-741b-9b19-45d9658bea7c",

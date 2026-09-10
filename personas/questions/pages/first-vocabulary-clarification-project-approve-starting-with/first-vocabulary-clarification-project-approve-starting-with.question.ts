@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const firstVocabularyClarificationProjectApproveStartingWith = {
   id: "019f73d2-6c5f-7abd-8f6d-9998c3190794",

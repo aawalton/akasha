@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const row15793OnDeviceCheckBelowTheContextYouShouldSeeTwoR = {
   id: "019f95f9-0b0b-759f-a402-aaa2991e731b",

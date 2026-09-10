@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const pg184WalsenderBusySpinUpstreamReport15222ThePinIs = {
   id: "019f73c2-0511-7692-b258-7510750f1ada",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const didTwoNotificationsFromMeLandOnYourPhoneAround120 = {
   id: "019fa8de-adc7-7e7a-a003-3c7dc16bf49b",

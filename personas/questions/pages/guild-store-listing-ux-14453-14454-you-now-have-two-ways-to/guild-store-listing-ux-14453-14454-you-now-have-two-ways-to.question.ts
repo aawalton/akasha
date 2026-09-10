@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const guildStoreListingUx1445314454YouNowHaveTwoWaysTo = {
   id: "019f71e0-d7f9-7f54-b7ed-00287b5530d6",

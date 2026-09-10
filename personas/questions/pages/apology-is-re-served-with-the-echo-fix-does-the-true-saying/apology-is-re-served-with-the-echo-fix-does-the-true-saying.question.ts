@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const apologyIsReServedWithTheEchoFixDoesTheTrueSaying = {
   id: "019f7b21-dd61-7d7d-b042-d3f975ff2d23",

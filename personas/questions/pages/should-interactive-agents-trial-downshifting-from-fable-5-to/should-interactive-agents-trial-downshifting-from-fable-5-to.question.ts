@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldInteractiveAgentsTrialDownshiftingFromFable5To = {
   id: "019f95c9-8ce2-7318-865b-f66561ef8d17",

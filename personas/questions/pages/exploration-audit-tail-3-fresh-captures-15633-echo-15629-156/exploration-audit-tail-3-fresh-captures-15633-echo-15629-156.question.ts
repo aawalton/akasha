@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const explorationAuditTail3FreshCaptures15633Echo15629156 = {
   id: "019f6f19-025c-7b1e-88ee-373a67ede6c9",

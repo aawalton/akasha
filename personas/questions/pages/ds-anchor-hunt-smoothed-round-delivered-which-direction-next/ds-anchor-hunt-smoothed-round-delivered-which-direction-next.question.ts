@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const dsAnchorHuntSmoothedRoundDeliveredWhichDirectionNext = {
   id: "019f6a3f-85b2-7b4a-94b3-9254d226147a",

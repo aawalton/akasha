@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const for16104DatabaseWaitEventObservabilityTakeTheCheapS = {
   id: "019f9b3b-d295-7317-b4d2-749899c2ffdd",

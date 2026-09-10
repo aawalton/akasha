@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const node03SRebootForTheUinputApply15805HasADocumented = {
   id: "019f94e9-d135-7b84-9989-2c1471b60115",

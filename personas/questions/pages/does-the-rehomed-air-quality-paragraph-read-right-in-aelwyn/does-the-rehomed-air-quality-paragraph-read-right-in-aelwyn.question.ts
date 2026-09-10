@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doesTheRehomedAirQualityParagraphReadRightInAelwyn = {
   id: "019faa77-a663-740c-8812-19d37c15ae5b",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build123IsOnTestflightInstallItThenVerifyTheNative = {
   id: "019f6951-5fed-70ca-82f2-2ad80fe55d1c",

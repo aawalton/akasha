@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const libasyncHasNoLicenceGrantAnywhereUpstreamNoLicenseF = {
   id: "019f992e-8d6c-7ac7-ab75-138bade9a1b7",

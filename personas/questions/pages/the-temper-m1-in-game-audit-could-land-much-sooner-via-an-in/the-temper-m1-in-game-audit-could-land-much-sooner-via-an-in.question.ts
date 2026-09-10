@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theTemperM1InGameAuditCouldLandMuchSoonerViaAnIn = {
   id: "019f9609-cc0b-7843-8d96-155b5d7ca5cb",

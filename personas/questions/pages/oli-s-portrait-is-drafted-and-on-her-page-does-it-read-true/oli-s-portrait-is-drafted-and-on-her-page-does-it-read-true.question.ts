@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const oliSPortraitIsDraftedAndOnHerPageDoesItReadTrue = {
   id: "019f6e46-e37e-7932-84af-d871d604eeaf",

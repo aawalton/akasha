@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const row16905PreDeployVerificationNoAnswerNeededThisResolves2 = {
   id: "019fa89b-2517-786f-a70c-4a49cc21cd52",

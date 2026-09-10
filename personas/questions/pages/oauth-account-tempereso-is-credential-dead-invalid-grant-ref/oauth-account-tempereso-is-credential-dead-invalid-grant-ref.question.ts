@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const oauthAccountTemperesoIsCredentialDeadInvalidGrantRef = {
   id: "019f813a-caab-74aa-8e11-95e1de095f5c",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theReaderAudioNarrationIsLiveOpenChapter93ThePyre = {
   id: "019f9428-d541-7c57-9bc6-e12cd5230429",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const row16957LandedAndNeedsTwoEyeballChecksOnlyYouCanMake = {
   id: "019fa9ec-6327-7953-b1ba-28bf91864f55",

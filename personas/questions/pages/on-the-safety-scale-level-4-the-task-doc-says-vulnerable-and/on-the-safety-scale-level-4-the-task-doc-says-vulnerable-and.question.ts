@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const onTheSafetyScaleLevel4TheTaskDocSaysVulnerableAnd = {
   id: "019fbbd7-7649-7d3d-b227-7165fb439cfe",

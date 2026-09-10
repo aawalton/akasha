@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const olwenSVoiceWhichCandidateIsHer = {
   id: "019f6edc-9bde-72ab-ba2a-e7bde53244bd",

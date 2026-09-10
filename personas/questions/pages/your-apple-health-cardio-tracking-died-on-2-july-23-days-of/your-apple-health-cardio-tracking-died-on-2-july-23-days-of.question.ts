@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const yourAppleHealthCardioTrackingDiedOn2July23DaysOf = {
   id: "019f989f-4213-79a0-8c33-095b21beb43b",

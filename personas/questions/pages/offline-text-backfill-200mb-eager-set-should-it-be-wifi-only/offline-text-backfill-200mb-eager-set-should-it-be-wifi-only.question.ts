@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const offlineTextBackfill200mbEagerSetShouldItBeWifiOnly = {
   id: "019f7654-6f58-7b2d-b075-1e064b034e8e",

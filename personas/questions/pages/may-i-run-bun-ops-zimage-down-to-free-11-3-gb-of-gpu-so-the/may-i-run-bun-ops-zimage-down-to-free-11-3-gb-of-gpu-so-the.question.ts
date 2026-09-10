@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const mayIRunBunOpsZimageDownToFree113GbOfGpuSoThe = {
   id: "019f98e8-1af4-7ce1-9298-159bff220895",

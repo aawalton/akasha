@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const forTheExerciseSelectionFramework15797HowMuchShouldI = {
   id: "019f9488-9b1c-7c8e-86f6-a57d2be4ac22",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theAwenJumpToLatestDownArrowIsFixedDoesItNowFeel = {
   id: "019f93ec-402d-7931-be4a-947dc722b7fc",

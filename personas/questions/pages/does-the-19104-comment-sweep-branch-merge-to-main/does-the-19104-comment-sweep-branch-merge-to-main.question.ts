@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doesThe19104CommentSweepBranchMergeToMain = {
   id: "01a00105-5fa7-7f62-b035-330ab840b022",

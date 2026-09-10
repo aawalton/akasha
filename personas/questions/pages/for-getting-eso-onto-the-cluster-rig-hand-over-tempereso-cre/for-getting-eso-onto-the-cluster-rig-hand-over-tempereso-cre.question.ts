@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const forGettingEsoOntoTheClusterRigHandOverTemperesoCre = {
   id: "019f99b2-9b4c-795f-8f79-9f1bdeac856d",

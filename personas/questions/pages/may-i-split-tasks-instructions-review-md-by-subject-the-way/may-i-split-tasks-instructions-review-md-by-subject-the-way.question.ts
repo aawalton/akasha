@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const mayISplitTasksInstructionsReviewMdBySubjectTheWay = {
   id: "019fbacb-36af-7251-859d-f7ad43953b8e",

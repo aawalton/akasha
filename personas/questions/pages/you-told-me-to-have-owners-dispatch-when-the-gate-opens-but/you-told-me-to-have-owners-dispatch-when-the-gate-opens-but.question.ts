@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const youToldMeToHaveOwnersDispatchWhenTheGateOpensBut = {
   id: "019f9b89-26a7-7c3e-8b22-204cae9b064b",

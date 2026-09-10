@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const forTheNewAppearanceStylePersonaWhatSHerFantasyPill = {
   id: "019f9509-5d46-7927-84ab-d1c80e3b339b",

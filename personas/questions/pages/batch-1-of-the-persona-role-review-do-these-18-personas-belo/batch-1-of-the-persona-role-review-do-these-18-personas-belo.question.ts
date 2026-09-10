@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const batch1OfThePersonaRoleReviewDoThese18PersonasBelo = {
   id: "019f9f88-a16e-7195-91fb-ace291c4ac6b",

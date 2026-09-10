@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const temperSPlanTabHasNeverShownAnythingForAnyoneEvery = {
   id: "019f9944-98d9-717f-9279-062cbff42125",

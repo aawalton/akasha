@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const didYouStopTheFirstTestflightCutBackgroundTaskEarlie = {
   id: "019f6957-566b-7ddb-beac-e28dd9897b29",

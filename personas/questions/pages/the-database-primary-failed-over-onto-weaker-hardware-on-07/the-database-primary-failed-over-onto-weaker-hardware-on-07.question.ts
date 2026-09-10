@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theDatabasePrimaryFailedOverOntoWeakerHardwareOn07 = {
   id: "019f994c-db37-736d-a7da-671cb046d83e",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const thisIntakeSeatIsNowPinnedHeadlessAndTheStopHookRe = {
   id: "019fc37c-8643-7c1a-9127-39d78ac9a20e",

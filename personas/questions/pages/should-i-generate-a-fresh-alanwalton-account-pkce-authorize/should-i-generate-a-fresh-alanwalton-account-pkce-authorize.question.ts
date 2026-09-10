@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldIGenerateAFreshAlanwaltonAccountPkceAuthorize = {
   id: "019f82b5-e0b4-7bb8-8ef5-055215e3f99e",

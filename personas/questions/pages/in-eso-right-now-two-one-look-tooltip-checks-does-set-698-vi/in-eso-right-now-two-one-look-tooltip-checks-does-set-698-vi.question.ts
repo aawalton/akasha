@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const inEsoRightNowTwoOneLookTooltipChecksDoesSet698Vi = {
   id: "019f995f-8f4b-7cf2-b36d-5dd7f7df0d4b",

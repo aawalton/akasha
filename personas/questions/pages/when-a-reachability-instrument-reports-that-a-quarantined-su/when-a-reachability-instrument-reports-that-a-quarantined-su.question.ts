@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whenAReachabilityInstrumentReportsThatAQuarantinedSu = {
   id: "019fba70-e8b1-72bf-9505-12489fc90f93",

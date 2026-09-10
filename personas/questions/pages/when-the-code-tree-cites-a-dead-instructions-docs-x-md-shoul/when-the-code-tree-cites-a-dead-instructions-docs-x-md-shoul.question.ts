@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whenTheCodeTreeCitesADeadInstructionsDocsXMdShoul = {
   id: "019fbb34-9acb-7271-a883-af3d788b3cf4",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const alannotesIntake9Of13IoneIoneSleepAudioForwardToHe = {
   id: "019f6984-dc21-777e-83af-cf667e25b20a",

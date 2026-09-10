@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const thisSeatHasAgentHeadless1WhileYouAreTalkingToMeI = {
   id: "019fa581-b119-7ecf-8d1e-a1e8d3c9a59f",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theMergeQueueHasLandedNothingFor78MinutesNineConse = {
   id: "019f9afb-f987-7926-a6e3-39d33806d55a",

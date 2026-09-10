@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const forTheNewQuestionsInboxStoplight15781WhichCountcolor = {
   id: "019f93e1-e1c2-73be-aaa8-c5d21fce21f9",

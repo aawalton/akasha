@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theTowerShouldLethalContestedNonCombatChecksLikeYou = {
   id: "019f740e-1131-7006-9eb8-a30d0f978f95",

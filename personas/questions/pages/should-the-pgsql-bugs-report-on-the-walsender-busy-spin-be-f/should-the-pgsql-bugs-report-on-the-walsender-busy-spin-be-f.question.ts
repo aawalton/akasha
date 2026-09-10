@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldThePgsqlBugsReportOnTheWalsenderBusySpinBeF = {
   id: "019f5116-cadb-774d-a6e5-183e76400970",

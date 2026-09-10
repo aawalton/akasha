@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const hourlyInboxZeroCheckWhichShapeTheBareHourlyTickIs = {
   id: "019f70c2-2272-71bb-aa4d-fc6fd19fc6f9",

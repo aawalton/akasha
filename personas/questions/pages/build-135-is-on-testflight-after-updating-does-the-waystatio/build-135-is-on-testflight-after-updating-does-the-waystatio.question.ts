@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build135IsOnTestflightAfterUpdatingDoesTheWaystatio = {
   id: "019f6f9e-44fa-7b14-a2ab-b03058d349ee",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build127IsOnTestflightTheBlockActionsBarFixIsInH = {
   id: "019f6a99-6ba9-7ad7-b1eb-8b8e5bfe0f7a",

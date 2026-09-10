@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const intakeFirstQuestionYourNoteNativeAppsWhatWereYouRe = {
   id: "019f692d-fd94-774c-86a2-ef316ef8d673",

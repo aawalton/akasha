@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const dsAnchorHuntRound5PaintedFantasyArmorGradesForThe = {
   id: "019f69a1-924f-7a74-8714-adaf985af316",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const projectInboxZeroOrphan2Of2Home15608ComfyClient5M = {
   id: "019f6e48-12ed-714e-bf07-464f3cdc1309",

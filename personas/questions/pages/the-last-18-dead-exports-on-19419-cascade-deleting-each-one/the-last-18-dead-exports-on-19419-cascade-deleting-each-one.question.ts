@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const theLast18DeadExportsOn19419CascadeDeletingEachOne = {
   id: "01a017f4-4f14-79ac-adc3-d082e1843c77",

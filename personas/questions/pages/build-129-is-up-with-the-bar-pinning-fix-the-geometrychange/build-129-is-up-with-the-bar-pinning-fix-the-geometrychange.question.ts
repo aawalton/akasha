@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build129IsUpWithTheBarPinningFixTheGeometrychange = {
   id: "019f6b00-8b39-7f52-8eb1-b069e5d20074",

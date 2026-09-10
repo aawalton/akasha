@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shouldARebuiltSurfaceRecordWhatItWasRebuiltFromAR = {
   id: "019fbaba-0062-76ca-ba4a-a8d2a52bfcdf",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const intakeOnYourAlannotesCapturesAreItems48StickHeader = {
   id: "019f6929-496a-707b-a219-c16b4168098a",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const questsDomain14331DoesFunctionalQuestsGetItsOwnAddon = {
   id: "019f711d-503d-7610-a4d2-65918f20cca2",

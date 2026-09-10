@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const routingCategory1Of5ObligationShouldARoleSTaskList = {
   id: "019fc383-7526-7b00-8100-6317b6ceea52",

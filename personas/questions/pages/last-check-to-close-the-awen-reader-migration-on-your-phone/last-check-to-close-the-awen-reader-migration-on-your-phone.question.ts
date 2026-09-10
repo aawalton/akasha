@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const lastCheckToCloseTheAwenReaderMigrationOnYourPhone = {
   id: "019f93f6-b506-7c17-a00c-dc0989936d40",

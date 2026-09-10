@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whichValueAxisDoesOlwenServe = {
   id: "019f6e57-e719-7a4a-8734-0fb7bb114e4b",

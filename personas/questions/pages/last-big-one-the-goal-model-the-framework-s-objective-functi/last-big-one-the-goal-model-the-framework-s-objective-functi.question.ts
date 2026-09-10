@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const lastBigOneTheGoalModelTheFrameworkSObjectiveFuncti = {
   id: "019f9494-e685-79f7-9b9b-3c80dc71aaaf",

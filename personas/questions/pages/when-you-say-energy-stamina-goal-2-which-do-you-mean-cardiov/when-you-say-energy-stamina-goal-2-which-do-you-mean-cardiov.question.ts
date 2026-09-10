@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whenYouSayEnergyStaminaGoal2WhichDoYouMeanCardiov = {
   id: "019f948f-6510-7a92-bcf4-8ec791256b63",

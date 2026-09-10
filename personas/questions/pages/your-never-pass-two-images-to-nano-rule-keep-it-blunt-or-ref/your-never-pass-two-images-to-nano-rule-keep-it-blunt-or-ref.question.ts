@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const yourNeverPassTwoImagesToNanoRuleKeepItBluntOrRef = {
   id: "019f993b-9cb5-7abe-9362-80b09f846baa",

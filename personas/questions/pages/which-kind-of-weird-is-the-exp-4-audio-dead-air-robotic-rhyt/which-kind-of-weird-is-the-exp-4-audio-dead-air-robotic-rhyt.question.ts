@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const whichKindOfWeirdIsTheExp4AudioDeadAirRoboticRhyt = {
   id: "019f76cc-25dd-7994-96a3-8d26e7a97de2",

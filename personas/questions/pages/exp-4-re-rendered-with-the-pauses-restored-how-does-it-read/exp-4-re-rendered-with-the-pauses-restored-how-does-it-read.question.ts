@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const exp4ReRenderedWithThePausesRestoredHowDoesItRead = {
   id: "019f76b7-99c1-7606-9218-9a181a072900",

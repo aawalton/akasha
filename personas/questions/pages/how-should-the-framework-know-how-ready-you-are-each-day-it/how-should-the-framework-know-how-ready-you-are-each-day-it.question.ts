@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const howShouldTheFrameworkKnowHowReadyYouAreEachDayIt = {
   id: "019f9490-b8b2-73a3-8879-2c709b8fe895",

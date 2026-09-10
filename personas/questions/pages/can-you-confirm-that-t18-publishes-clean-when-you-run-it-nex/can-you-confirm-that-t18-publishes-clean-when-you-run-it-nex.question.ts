@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const canYouConfirmThatT18PublishesCleanWhenYouRunItNex = {
   id: "019f4de4-0eeb-763a-8f68-20a43c60601b",

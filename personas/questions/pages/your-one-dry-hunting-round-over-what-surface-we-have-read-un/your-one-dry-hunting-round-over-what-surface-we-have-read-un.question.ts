@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const yourOneDryHuntingRoundOverWhatSurfaceWeHaveReadUn = {
   id: "019f98b1-713b-73dd-a5ae-284ba245be76",

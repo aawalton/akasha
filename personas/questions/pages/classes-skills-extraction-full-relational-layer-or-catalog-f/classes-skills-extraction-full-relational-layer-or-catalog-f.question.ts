@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const classesSkillsExtractionFullRelationalLayerOrCatalogF = {
   id: "019f6951-8d5c-78a5-ac0a-03d49b666637",

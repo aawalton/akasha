@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doYouEverLaunchClaudeByHandWithTheWorkingDirectory = {
   id: "019fc29c-5084-7870-a6fc-cea1277433b7",

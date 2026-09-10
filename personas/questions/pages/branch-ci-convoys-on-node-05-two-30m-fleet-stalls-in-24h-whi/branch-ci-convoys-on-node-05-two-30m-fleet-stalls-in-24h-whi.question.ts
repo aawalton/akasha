@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const branchCiConvoysOnNode05Two30mFleetStallsIn24hWhi = {
   id: "019f6e92-0990-763b-9e00-b782ed3993df",

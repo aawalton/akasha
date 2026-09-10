@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const rcCheckAgainDoesEchoShowConnectedOrDisconnectedInY = {
   id: "019f7566-b6c2-7ad4-b7b2-42b76de50599",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const yourRulingSaysThirdPartyLibrariesShouldnTBeHostedO = {
   id: "019f993b-035f-7a61-9446-7651bf6a1390",

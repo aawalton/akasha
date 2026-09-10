@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const canYouRunAnAppleHealthExportAndAirdropTheZipToTh = {
   id: "019fdd5f-f211-718f-8fe3-4a681dda4a81",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const techTreeCurrencyRenameWhichNameForTheAscensionCurre = {
   id: "019f6982-06db-7144-8894-14b9d8d3bfff",

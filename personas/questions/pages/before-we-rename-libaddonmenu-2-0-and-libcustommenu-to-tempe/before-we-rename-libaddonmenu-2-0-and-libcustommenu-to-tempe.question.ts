@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const beforeWeRenameLibaddonmenu20AndLibcustommenuToTempe = {
   id: "019f999c-5316-73bc-a560-256c5f3681ee",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const commissionTheStreamPersistHybridForLiveStreamedChapt = {
   id: "019f74a5-3310-7324-bc22-8f3fa36a6201",

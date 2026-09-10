@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const alannotesIntake5Of8AuraForwardAll8ItemsToHerFor = {
   id: "019f6922-6a6b-7f5c-ad51-1680c7052192",

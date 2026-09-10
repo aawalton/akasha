@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const couldYouAuthorizeTheAlanwaltonLoginAndSendMeBackTh = {
   id: "01a00a7e-456f-75a9-bef4-7983f614d099",

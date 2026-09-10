@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const iosWidgetDoesEachValueSPersonaNameRenderCorrectlyU = {
   id: "019f94cc-c228-777b-a7a5-26d2c2c268a4",

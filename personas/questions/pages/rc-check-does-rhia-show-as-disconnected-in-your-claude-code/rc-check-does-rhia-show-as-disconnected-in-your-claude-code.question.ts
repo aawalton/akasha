@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const rcCheckDoesRhiaShowAsDisconnectedInYourClaudeCode = {
   id: "019f6e0d-a1de-7b6f-b789-4b611854e4e1",

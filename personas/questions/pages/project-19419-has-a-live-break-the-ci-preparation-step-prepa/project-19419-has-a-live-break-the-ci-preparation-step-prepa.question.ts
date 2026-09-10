@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const project19419HasALiveBreakTheCiPreparationStepPrepa = {
   id: "01a017fc-c557-7f8c-9d77-25d5c7c68492",

@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const ratifyTheWorkerVocabularySectionForTheAgentTaxonomy = {
   id: "019f73e5-348d-715b-899f-5a3faa697d1c",

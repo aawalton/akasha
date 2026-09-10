@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const build126IsOnTestflightFrameFixesGapFixesToCheckPl = {
   id: "019f6a75-4823-774f-9261-0d8d847fbe1e",

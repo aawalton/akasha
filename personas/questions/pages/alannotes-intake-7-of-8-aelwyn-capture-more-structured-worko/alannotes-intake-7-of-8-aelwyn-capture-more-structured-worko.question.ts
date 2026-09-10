@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const alannotesIntake7Of8AelwynCaptureMoreStructuredWorko = {
   id: "019f692a-30dd-783a-8cf7-c58c36d14058",

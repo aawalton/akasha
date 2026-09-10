@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const doesApprovalsBelongOnTheGlobalInstructionSurfaceRath = {
   id: "019fb427-61e6-7fab-a9a2-8b8a5236d94f",

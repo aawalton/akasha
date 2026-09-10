@@ -1,4 +1,4 @@
-import type { Question } from "../../question.page-type.ts"
+import type { Question } from "../../question.page-type.types.ts"
 
 export const shaestrelSRegisterDialWhereDoYouWantHerRhiaSCanon = {
   id: "019f9543-b9ee-7b3d-a1c9-9968aa2f49c3",
