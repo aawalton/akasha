@@ -1,5 +1,12 @@
 import { describe, expect, test } from "bun:test"
+import { z } from "zod"
 import { buildTelnyxSendRequest, parseTelnyxSendResponse } from "./telnyx-send.module.code.ts"
+
+const SENT_BODY = z.strictObject({
+  from: z.string(),
+  to: z.string(),
+  text: z.string(),
+})
 
 const ARGS = {
   apiKey: "test-key-not-a-secret",
@@ -27,7 +34,7 @@ describe("buildTelnyxSendRequest", () => {
   })
 
   test("carries sender and recipient and text in the body", () => {
-    expect(JSON.parse(buildTelnyxSendRequest(ARGS).body)).toEqual({
+    expect(SENT_BODY.parse(JSON.parse(buildTelnyxSendRequest(ARGS).body))).toEqual({
       from: "+18885550000",
       to: "+18015551234",
       text: "hello",
