@@ -1,4 +1,4 @@
-import type { CharacterBuild } from "../../character-build.page-type.ts"
+import type { CharacterBuild } from "../../character-build.page-type.types.ts"
 
 export const newBuild6 = {
   id: "01a06862-a02e-7fe2-9f00-5e0d839fb8ef",

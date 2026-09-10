@@ -1,4 +1,4 @@
-import type { CharacterBuild } from "../../character-build.page-type.ts"
+import type { CharacterBuild } from "../../character-build.page-type.types.ts"
 
 export const sweepTestChar = {
   id: "01a06862-a02d-760d-a3ce-ad864244e292",
