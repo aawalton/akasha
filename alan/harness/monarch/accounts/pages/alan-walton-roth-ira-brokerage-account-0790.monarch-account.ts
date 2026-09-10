@@ -1,4 +1,4 @@
-import type { MonarchAccount } from "../monarch-account.page-type.types.ts"
+import type { MonarchAccount } from "../monarch-account.page-type.ts"
 
 export const alanWaltonRothIraBrokerageAccount0790 = {
   id: "01a06559-5ea8-7003-9b14-f1b990294ed7",
@@ -9,7 +9,7 @@ export const alanWaltonRothIraBrokerageAccount0790 = {
   definition: "money the family has, sitting in a Roth IRA account",
   monarchId: "231274616693070766",
   accountDisplayName: "Alan Walton - Roth IRA Brokerage Account - ****0790 (...0790)",
-  currentBalance: 24495.5,
+  currentBalance: 24264.2,
   accountType: "brokerage",
   asset: true,
   accountActive: true,
