@@ -6,7 +6,7 @@ export const temperLibScrollableMenu = {
   type: "eso-addon",
   slug: "temper-lib-scrollable-menu",
   definition: "an addon library giving a combobox a scrollable menu with nested submenus",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "scrollable-menu-main",
   interfaces: ["scrollable-menu-controls"],

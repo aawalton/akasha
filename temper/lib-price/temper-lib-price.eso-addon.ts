@@ -6,7 +6,7 @@ export const temperLibPrice = {
   type: "eso-addon",
   slug: "temper-lib-price",
   definition: "what an item is worth, gathered from every trading add-on the player has",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "price-main",
   parts: [

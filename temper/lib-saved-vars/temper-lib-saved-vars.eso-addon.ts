@@ -6,7 +6,7 @@ export const temperLibSavedVars = {
   type: "eso-addon",
   slug: "temper-lib-saved-vars",
   definition: "one addon's settings kept per character, per account or per server",
-  manifest: "json",
+
   addonManifest: "json",
   bundleEntry: "saved-vars-main",
   parts: [
