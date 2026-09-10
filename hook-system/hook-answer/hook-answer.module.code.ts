@@ -1,6 +1,13 @@
 import { resolve, sep } from "node:path"
-import { asRecord } from "akasha/utils/narrow/as-record/as-record.module.code.ts"
+import { z } from "zod"
 import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
+
+const PAYLOAD_SHAPE = z.looseObject({})
+
+export function parseHookPayload(raw: string): Record<string, unknown> | null {
+  const read = PAYLOAD_SHAPE.safeParse(JSON.parse(raw))
+  return read.success ? read.data : null
+}
 
 export const SCOPE_FLAG = "--scope"
 
@@ -45,7 +52,7 @@ export function commandIn(raw: string, key: string, hook: string): Read {
   if (raw.trim() === "") return { command: "" }
   let payload: unknown
   try {
-    payload = JSON.parse(raw)
+    payload = parseHookPayload(raw)
   } catch {
     return { answer: unreadable(hook, "the hook payload would not parse") }
   }
@@ -64,7 +71,7 @@ export function refusing(reason: string): Answer {
 
 export function payloadIn(raw: string): Record<string, unknown> | null {
   try {
-    return asRecord(JSON.parse(raw)) ?? null
+    return parseHookPayload(raw)
   } catch {
     return null
   }
@@ -96,8 +103,8 @@ export function said(answer: Answer): number {
 
 export function fromIn(raw: string): string {
   try {
-    const payload: unknown = JSON.parse(raw)
-    const held = (payload as Record<string, unknown> | null)?.["cwd"]
+    const payload = parseHookPayload(raw)
+    const held = payload?.["cwd"]
     return typeof held === "string" ? held : ""
   } catch {
     return ""
