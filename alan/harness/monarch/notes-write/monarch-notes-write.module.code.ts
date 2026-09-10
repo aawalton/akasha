@@ -21,7 +21,7 @@ export type FetchDay = (window: {
   readonly endDate: string
 }) => Promise<readonly MonarchTransaction[]>
 
-function refused(payload: Record<string, unknown>, what: string): void {
+function refused(payload: Record<string, unknown>, what: string): undefined {
   if (payload.errors != null) {
     throw new Error(`Monarch refused ${what}: ${JSON.stringify(payload.errors)}`)
   }

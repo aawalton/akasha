@@ -51,7 +51,7 @@ function rowLine(row: HistoryRow): string {
   )
 }
 
-function listRows(rows: readonly HistoryRow[], limit: number, out: string[]): void {
+function listRows(rows: readonly HistoryRow[], limit: number, out: string[]): undefined {
   out.push(
     `    ${pad("date", 10)}  ${padLeft("amount", 10)}  ${pad("merchant", 30)}  ` +
       `${pad("standing", 20)}  statement`
@@ -60,7 +60,7 @@ function listRows(rows: readonly HistoryRow[], limit: number, out: string[]): vo
   if (rows.length > limit) out.push(`    … and ${rows.length - limit} more`)
 }
 
-function reserveBlock(rows: readonly HistoryRow[], limit: number, out: string[]): void {
+function reserveBlock(rows: readonly HistoryRow[], limit: number, out: string[]): undefined {
   out.push("")
   out.push("  the category standing on what it caught")
   for (const [name, count] of tally(
@@ -98,7 +98,7 @@ function categorizeBlock(
   titles: ReadonlyMap<string, string>,
   limit: number,
   out: string[]
-): void {
+): undefined {
   const from = trustedFrom()
   const blank = rows.filter((row) => !answered(row.currentCategory))
   const answers = rows.filter((row) => answered(row.currentCategory))
@@ -141,7 +141,7 @@ function ambiguousBlock(
   rowsById: ReadonlyMap<string, HistoryRow>,
   limit: number,
   out: string[]
-): void {
+): undefined {
   out.push("")
   out.push(
     `  AMBIGUOUS — ${entries.length}. Nothing fires on these and nothing is guessed between the ` +

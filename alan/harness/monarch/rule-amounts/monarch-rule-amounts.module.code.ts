@@ -13,7 +13,7 @@ export function amountClauseMatches(clause: AmountClause, amount: number): boole
   return clause.amountIs.some((named) => cents(named) === at)
 }
 
-export function checkedAmountClause(name: string, clause: AmountClause): void {
+export function checkedAmountClause(name: string, clause: AmountClause): undefined {
   for (const amount of clause.amountIs) {
     if (!Number.isFinite(amount)) {
       throw new Error(`rule "${name}" names amount ${amount}, which is not a number of dollars`)

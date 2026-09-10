@@ -19,7 +19,7 @@ export interface NewTransaction {
   readonly notes?: string
 }
 
-function refused(payload: Record<string, unknown>, what: string): void {
+function refused(payload: Record<string, unknown>, what: string): undefined {
   if (payload.errors != null) {
     throw new Error(`Monarch refused ${what}: ${JSON.stringify(payload.errors)}`)
   }

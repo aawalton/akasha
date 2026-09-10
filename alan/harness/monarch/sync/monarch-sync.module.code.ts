@@ -40,7 +40,7 @@ function distinctTags(txns: readonly MonarchTransaction[]): readonly MonarchTag[
   return [...seen.values()]
 }
 
-function say(phase: string, tally: SyncTally): void {
+function say(phase: string, tally: SyncTally): undefined {
   console.log(`  ${phase}: ${tally.landed} landed, ${tally.failed} failed`)
 }
 
