@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const headscale = {
   id: "01a06812-2380-7204-bb6c-c05c012bbf72",

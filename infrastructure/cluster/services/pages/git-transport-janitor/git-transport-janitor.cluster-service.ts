@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const gitTransportJanitor = {
   id: "01a07c78-6dec-7595-bde9-99656b98280f",

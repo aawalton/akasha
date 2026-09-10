@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const seaweedfsS3Gateway = {
   id: "01a06816-68b2-74df-a01e-80d84ed05948",

@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const loki = {
   id: "01a06816-68b2-782a-9997-af90e9fdae8a",

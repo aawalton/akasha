@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const pageStore = {
   id: "01a05aba-55cb-7696-8110-a428e8ffd3f2",

@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const cloudflared = {
   id: "01a06812-2380-7f97-866f-639c805cd645",

@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const ddnsHeadscale = {
   id: "01a06812-2380-7daf-80c0-b50676a5feef",

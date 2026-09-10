@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const calendarSync = {
   id: "01a04503-33d3-781e-98bd-31c189157dc2",

@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const gitTransport = {
   id: "01a06816-2f11-7fe0-b5a2-6c9518d6f0c3",

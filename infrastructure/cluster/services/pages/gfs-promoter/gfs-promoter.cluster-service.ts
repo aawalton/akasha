@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const gfsPromoter = {
   id: "01a06863-74e0-71ff-9c5e-43490fca32e3",

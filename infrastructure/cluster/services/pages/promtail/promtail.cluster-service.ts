@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const promtail = {
   id: "01a06816-68b2-76ca-9850-ba1ff8ecee13",

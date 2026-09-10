@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const postgrest = {
   id: "01a06812-2380-7ab2-8db6-0870f27286e6",

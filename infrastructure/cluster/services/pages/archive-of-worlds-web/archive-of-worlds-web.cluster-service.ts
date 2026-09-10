@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const archiveOfWorldsWeb = {
   id: "01a05b26-f8b6-7d0c-8371-3abedb498e0f",

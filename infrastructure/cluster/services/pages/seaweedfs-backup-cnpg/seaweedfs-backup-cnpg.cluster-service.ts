@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const seaweedfsBackupCnpg = {
   id: "01a06816-68b2-7eef-b522-058dbe5af91b",

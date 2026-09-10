@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const authProxy = {
   id: "01a06863-8e7c-7a70-a620-0a4edd125d51",

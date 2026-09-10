@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const prometheus = {
   id: "01a06812-2380-7ad2-b1c3-165a11cded21",

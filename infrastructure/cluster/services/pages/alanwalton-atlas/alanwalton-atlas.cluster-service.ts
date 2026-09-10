@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const alanwaltonAtlas = {
   id: "01a05b26-f8b6-718d-afa7-a3c62e0a1196",

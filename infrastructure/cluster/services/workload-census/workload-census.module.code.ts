@@ -1,4 +1,4 @@
-import type { ClusterService } from "../cluster-service.page-type.ts"
+import type { ClusterService } from "../cluster-service.page-type.types.ts"
 import type { Workload } from "../web-app-reading/web-app-reading.module.code.ts"
 import { runKubectl } from "../workload-deploying/workload-deploying.module.code.ts"
 

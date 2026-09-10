@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const seaweedfsVolume = {
   id: "01a06816-68b1-7d63-9c32-76a6915a2d9d",

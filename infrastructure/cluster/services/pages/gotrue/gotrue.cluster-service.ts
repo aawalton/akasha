@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const gotrue = {
   id: "01a06812-2380-7106-9c4f-27bad81011ae",

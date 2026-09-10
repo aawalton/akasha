@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const smilingjennyWeb = {
   id: "01a05b26-f8b6-70f1-b1ef-8cafc8f8b6e6",

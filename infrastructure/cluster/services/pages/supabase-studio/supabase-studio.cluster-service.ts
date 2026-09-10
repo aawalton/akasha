@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const supabaseStudio = {
   id: "01a06812-2381-7a04-b2a9-03ddb9048a47",

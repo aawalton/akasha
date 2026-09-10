@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const registryGc = {
   id: "01a06812-2380-70a7-a24a-bcc1429b9b1b",

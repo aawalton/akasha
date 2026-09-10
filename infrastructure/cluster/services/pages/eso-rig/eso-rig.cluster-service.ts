@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const esoRig = {
   id: "01a06866-58f8-774b-9824-ef1ea3f4ea3d",

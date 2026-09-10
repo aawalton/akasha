@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const nvidiaDevicePlugin = {
   id: "01a06812-2380-7ce6-b001-50deac244107",

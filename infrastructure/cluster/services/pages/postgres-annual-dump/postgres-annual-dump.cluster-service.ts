@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const postgresAnnualDump = {
   id: "01a06865-c012-7a1d-b102-3faf8416b98f",

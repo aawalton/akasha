@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const audhdalanWeb = {
   id: "01a05b26-f8b6-702c-863b-08d754492dee",

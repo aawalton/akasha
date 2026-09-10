@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const nodeExporterDaemonset = {
   id: "01a06812-2380-745d-b472-9c01fc3c6797",

@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const buildkit = {
   id: "01a06812-237f-7cab-9c28-f1508f8046fb",

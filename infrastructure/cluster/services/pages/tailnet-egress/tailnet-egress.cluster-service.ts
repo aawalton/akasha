@@ -1,4 +1,4 @@
-import type { ClusterService } from "../../cluster-service.page-type.ts"
+import type { ClusterService } from "../../cluster-service.page-type.types.ts"
 
 export const tailnetEgress = {
   id: "01a06812-2381-7f3f-ab43-4484649e98c0",
