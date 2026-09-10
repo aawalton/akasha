@@ -43,6 +43,10 @@ export const pageEntryWriting = {
     },
     {
       invariantKind: "departure",
+      statement: "A line handed over already formed is divided as handed rather than made again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "One value running past the ceiling alone is refused rather than divided.",
     },
     {

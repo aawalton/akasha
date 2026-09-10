@@ -5,8 +5,10 @@ import {
   lineFor,
   type Part,
   partsOver,
+  partsOverLines,
   textOver,
   textsOver,
+  textsOverLines,
 } from "./page-entry-writing.module.code.ts"
 
 const PAGE = "akasha/one/held.model-test.ts"
@@ -101,4 +103,29 @@ test("a value carrying a nested record is read back as it was written", () => {
   const back = entriesIn("held.jsonl", textOver([value]))
 
   expect("entries" in back && back.entries).toEqual([value])
+})
+
+test("a line handed over already formed is divided as handed rather than made again", () => {
+  const said = '{"at":1.0,"held":1e5,"text":"\\u00e9"}\n'
+  const made = textsOverLines([said], WIDE)
+
+  expect("texts" in made && made.texts).toEqual([said])
+  expect(lineFor(JSON.parse(said) as Value)).toBe('{"at":1,"held":100000,"text":"é"}\n')
+})
+
+test("lines over the ceiling are divided and every byte handed over is kept", () => {
+  const lines = ['{"at":1}\n', '{"at":2}\n', '{"at":3}\n']
+  const made = textsOverLines(lines, 18)
+
+  expect("texts" in made && made.texts).toEqual(['{"at":1}\n{"at":2}\n', '{"at":3}\n'])
+  expect("texts" in made && made.texts.join("")).toBe(lines.join(""))
+})
+
+test("the files of a property held uncommitted are named in that same order", () => {
+  const made = partsOverLines(PAGE, "cases", "jsonl", ['{"at":1}\n', '{"at":2}\n'], 10, true)
+
+  expect("parts" in made && made.parts.map((one) => one.path)).toEqual([
+    "akasha/one/held.model-test.cases.uncommitted.jsonl",
+    "akasha/one/held.model-test.cases.part2.uncommitted.jsonl",
+  ])
 })

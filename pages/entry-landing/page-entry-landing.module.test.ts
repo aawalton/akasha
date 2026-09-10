@@ -10,7 +10,13 @@ import {
 import { join } from "node:path"
 import { entriesAt } from "../entries/page-entries.module.code.ts"
 import type { Value } from "../value/page-value.module.code.ts"
-import { appendedAt, landedAt, openedAt, rolledInto } from "./page-entry-landing.module.code.ts"
+import {
+  appendedAt,
+  landedAt,
+  landedLinesAt,
+  openedAt,
+  rolledInto,
+} from "./page-entry-landing.module.code.ts"
 
 const SCRATCH_AT = "/var/tmp"
 
@@ -21,6 +27,8 @@ const PAGE = `${DIR}/held.model-test.ts`
 const FIRST = `${DIR}/held.model-test.cases.jsonl`
 
 const SECOND = `${DIR}/held.model-test.cases.part2.jsonl`
+
+const THIRD = `${DIR}/held.model-test.cases.part3.jsonl`
 
 const FIRST_OUTSIDE = `${DIR}/held.model-test.cases.uncommitted.jsonl`
 
@@ -193,6 +201,40 @@ test("a property the page type does not hold uncommitted is named as it always w
 
   expect(opened.filling.path).toBe(FIRST)
   expect("refused" in rolled ? rolled.refused : rolled.filling.path).toBe(SECOND)
+})
+
+test("a file already past the ceiling is divided again by a landing, losing no byte", () => {
+  const root = rooted()
+  const lines = [0, 1, 2, 3, 4, 5].map((one) => `{"at":${one}}\n`)
+  writeFileSync(join(root, FIRST), lines.join(""))
+  const made = landedLinesAt(root, PAGE, SLUG, HELD, lines, NARROW)
+  if ("refused" in made) throw new Error(made.refused)
+  const there = [FIRST, SECOND, THIRD].filter((one) => existsSync(join(root, one)))
+  const texts = there.map((one) => readFileSync(join(root, one), "utf8"))
+
+  expect(there).toEqual([FIRST, SECOND, THIRD])
+  expect(texts.join("")).toBe(lines.join(""))
+  for (const one of texts) {
+    expect(new TextEncoder().encode(one).length).toBeLessThanOrEqual(NARROW)
+  }
+})
+
+test("a landing divides a line handed over already formed rather than making it again", () => {
+  const root = rooted()
+  const said = '{"at":1.0,"held":1e5}\n'
+  const made = landedLinesAt(root, PAGE, SLUG, HELD, [said], WIDE)
+  if ("refused" in made) throw new Error(made.refused)
+
+  expect(readFileSync(join(root, FIRST), "utf8")).toBe(said)
+})
+
+test("appending leaves a file already past the ceiling past it", () => {
+  const root = rooted()
+  const over = "x".repeat(NARROW * 2)
+  writeFileSync(join(root, FIRST), over)
+
+  expect(appended(root, [{ at: 1 }], NARROW)).toEqual([SECOND])
+  expect(readFileSync(join(root, FIRST), "utf8")).toBe(over)
 })
 
 test("nothing beside the page but that property's files is made", () => {

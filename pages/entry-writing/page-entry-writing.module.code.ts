@@ -1,5 +1,5 @@
 import { FIRST_PART } from "../file-name/page-file-name.module.code.ts"
-import { partAt } from "../file-parts/page-file-parts.module.code.ts"
+import { partAt, uncommittedPartAt } from "../file-parts/page-file-parts.module.code.ts"
 import type { Value } from "../value/page-value.module.code.ts"
 
 const NEWLINE = "\n"
@@ -23,13 +23,16 @@ export function textOver(values: Iterable<Value>): string {
   return held
 }
 
-export function textsOver(values: Iterable<Value>, ceiling: number): Texts {
+export function* linesOver(values: Iterable<Value>): Iterable<string> {
+  for (const one of values) yield lineFor(one)
+}
+
+export function textsOverLines(lines: Iterable<string>, ceiling: number): Texts {
   const coder = new TextEncoder()
   const texts: string[] = []
   let held = ""
   let filled = 0
-  for (const one of values) {
-    const line = lineFor(one)
+  for (const line of lines) {
     const size = coder.encode(line).length
     if (size > ceiling) {
       return {
@@ -48,18 +51,26 @@ export function textsOver(values: Iterable<Value>, ceiling: number): Texts {
   return { texts }
 }
 
-export function partsOver(
+export function textsOver(values: Iterable<Value>, ceiling: number): Texts {
+  return textsOverLines(linesOver(values), ceiling)
+}
+
+export function partsOverLines(
   page: string,
   propertySlug: string,
   held: string,
-  values: Iterable<Value>,
-  ceiling: number
+  lines: Iterable<string>,
+  ceiling: number,
+  uncommitted = false
 ): Parts {
-  const made = textsOver(values, ceiling)
+  const made = textsOverLines(lines, ceiling)
   if ("refused" in made) return made
   const parts: Part[] = []
   for (let index = 0; index < made.texts.length; index += 1) {
-    const at = partAt(page, propertySlug, held, FIRST_PART + index)
+    const part = FIRST_PART + index
+    const at = uncommitted
+      ? uncommittedPartAt(page, propertySlug, held, part)
+      : partAt(page, propertySlug, held, part)
     if (at === null) {
       return {
         refused: `'${page}' is no page file, so the files its \`${propertySlug}\` lands in have no name`,
@@ -68,4 +79,15 @@ export function partsOver(
     parts.push({ path: at, text: made.texts[index] ?? "" })
   }
   return { parts }
+}
+
+export function partsOver(
+  page: string,
+  propertySlug: string,
+  held: string,
+  values: Iterable<Value>,
+  ceiling: number,
+  uncommitted = false
+): Parts {
+  return partsOverLines(page, propertySlug, held, linesOver(values), ceiling, uncommitted)
 }

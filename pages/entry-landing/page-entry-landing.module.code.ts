@@ -1,7 +1,11 @@
 import { Buffer } from "node:buffer"
 import { appendFileSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { lineFor, partsOver } from "../entry-writing/page-entry-writing.module.code.ts"
+import {
+  lineFor,
+  linesOver,
+  partsOverLines,
+} from "../entry-writing/page-entry-writing.module.code.ts"
 import { FIRST_PART } from "../file-name/page-file-name.module.code.ts"
 import {
   partAt,
@@ -123,11 +127,14 @@ function pastAt(
   page: string,
   propertySlug: string,
   held: string,
-  from: number
+  from: number,
+  uncommitted = false
 ): readonly string[] {
   const found: string[] = []
   for (let part = from; ; part += 1) {
-    const at = partAt(page, propertySlug, held, part)
+    const at = uncommitted
+      ? uncommittedPartAt(page, propertySlug, held, part)
+      : partAt(page, propertySlug, held, part)
     if (at === null) break
     if (!filed(join(root, at))) break
     found.push(at)
@@ -135,16 +142,17 @@ function pastAt(
   return found
 }
 
-export function landedAt(
+export function landedLinesAt(
   root: string,
   page: string,
   propertySlug: string,
   held: string,
-  values: Iterable<Value>,
-  ceiling: number
+  lines: Iterable<string>,
+  ceiling: number,
+  uncommitted = false
 ): Landed {
   if (!filed(join(root, page))) return { refused: `'${page}' ${NO_PAGE}` }
-  const made = partsOver(page, propertySlug, held, values, ceiling)
+  const made = partsOverLines(page, propertySlug, held, lines, ceiling, uncommitted)
   if ("refused" in made) return made
   const paths: string[] = []
   for (const part of made.parts) {
@@ -153,9 +161,22 @@ export function landedAt(
     writeFileSync(at, part.text)
     paths.push(part.path)
   }
-  for (const gone of pastAt(root, page, propertySlug, held, FIRST_PART + made.parts.length)) {
+  const from = FIRST_PART + made.parts.length
+  for (const gone of pastAt(root, page, propertySlug, held, from, uncommitted)) {
     rmSync(join(root, gone), { force: true })
     paths.push(gone)
   }
   return { paths }
+}
+
+export function landedAt(
+  root: string,
+  page: string,
+  propertySlug: string,
+  held: string,
+  values: Iterable<Value>,
+  ceiling: number,
+  uncommitted = false
+): Landed {
+  return landedLinesAt(root, page, propertySlug, held, linesOver(values), ceiling, uncommitted)
 }

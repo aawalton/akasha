@@ -48,6 +48,15 @@ export const pageEntryLanding = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A file already past the ceiling stays past it under an append and is divided only by a landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line handed over already formed is written as handed rather than made again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file's fill is read from that file's size rather than from that file's text.",
     },
     {
