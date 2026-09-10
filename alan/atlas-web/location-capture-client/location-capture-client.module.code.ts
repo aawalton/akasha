@@ -165,7 +165,7 @@ export async function startLocationCapture(): Promise<void> {
   started = true
   try {
     state = await loadState()
-    const { BackgroundGeolocation } = await import("@capgo/background-geolocation")
+    const geolocation = (await import("@capgo/background-geolocation")).BackgroundGeolocation
 
     if (typeof document !== "undefined") {
       document.addEventListener("visibilitychange", () => {
@@ -175,7 +175,7 @@ export async function startLocationCapture(): Promise<void> {
 
     void flush()
 
-    await BackgroundGeolocation.start(
+    await geolocation.start(
       {
         backgroundTitle: "Atlas is recording your route",
         backgroundMessage: "Location is used to build your travel map. Tap to open Atlas.",
@@ -185,7 +185,7 @@ export async function startLocationCapture(): Promise<void> {
       },
       (location, error) => {
         if (error) {
-          if (error.code === "NOT_AUTHORIZED") void BackgroundGeolocation.openSettings()
+          if (error.code === "NOT_AUTHORIZED") void geolocation.openSettings()
           return
         }
         if (location) void handleLocation(location)
