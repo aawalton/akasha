@@ -5,6 +5,7 @@ import type {
 } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { expandTilde } from "akasha/utils/fs/expand-tilde/expand-tilde.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { suggestClosest } from "../../../temper/build-deploy-checks/suggest-closest/suggest-closest.module.code.ts"
 import type { CommandHelp, HelpFlag } from "../declaring/command-declaring.module.code.ts"
 import {
@@ -259,7 +260,7 @@ export function parseArgs(help: CommandHelp, argv: readonly string[]): ParsedArg
 
   const envValues = new Map<string, string>()
   for (const ev of envDefs) {
-    const raw = process.env[ev.name]
+    const raw = optionalEnv(ev.name)
     const resolved = raw !== undefined ? raw : ev.default
     if (resolved !== undefined) {
       envValues.set(ev.name, ev.path === true ? expandTilde(resolved) : resolved)
