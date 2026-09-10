@@ -8,7 +8,7 @@ import type { ErrorKind } from "./properties/error-kind.text-property.ts"
 import type { ErrorLastSeenAt } from "./properties/error-last-seen-at.instant-property.ts"
 import type { ErrorMessage } from "./properties/error-message.text-property.ts"
 import type { ErrorReleaseSha } from "./properties/error-release-sha.text-property.ts"
-import type { Url } from "./properties/error-url.text-property.ts"
+import type { ErrorUrl } from "./properties/error-url.text-property.ts"
 import type { UserAgent } from "./properties/error-user-agent.text-property.ts"
 
 export type RuntimeError = Page & {
@@ -16,7 +16,7 @@ export type RuntimeError = Page & {
   app: ErrorApp
   kind: ErrorKind
   message: ErrorMessage
-  url?: Url
+  url?: ErrorUrl
   userAgent: UserAgent
   releaseSha?: ErrorReleaseSha
   firstSeenAt: ErrorFirstSeenAt
