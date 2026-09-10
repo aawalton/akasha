@@ -1,3 +1,4 @@
+import type { TunnelRoutes } from "../code-system/workspace-packages/properties/tunnel-routes.code-file-property.ts"
 import type { Page } from "../pages/page.page-type.types.ts"
 import type { Definition } from "./properties/definition.standard-agent-english-property.ts"
 import type { Directives } from "./properties/directives.record-property.ts"
@@ -13,4 +14,5 @@ export type Domain = Page & {
   directives?: Directives
   expands?: Expands
   parts?: Parts
+  tunnelRoutes?: TunnelRoutes
 }

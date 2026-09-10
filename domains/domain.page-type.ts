@@ -17,6 +17,7 @@ export const domain = {
     "text-property/plural-slug",
     "standard-agent-english-property/warrant",
     "relation-property/parts",
+    "code-file-property/tunnel-routes",
   ],
   pageTypeSlug: "page-type",
   type: "page-type",
@@ -31,6 +32,7 @@ export const domain = {
     { pageProperty: "record-property/directives", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/expands", required: false, many: false },
     { pageProperty: "relation-property/parts", required: false, many: true, maxCount: null },
+    { pageProperty: "code-file-property/tunnel-routes", required: false, many: false },
   ],
   invariants: [
     {

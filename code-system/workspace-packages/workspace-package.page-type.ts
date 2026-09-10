@@ -7,15 +7,10 @@ export const workspacePackage = {
   slug: "workspace-package",
   definition: "a folder with a package.json file",
   pluralSlug: "workspace-packages",
-  parts: [
-    "file-property/manifest",
-    "code-file-property/tunnel-routes",
-    "text-property/tool-reached",
-  ],
+  parts: ["file-property/manifest", "text-property/tool-reached"],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "file-property/manifest", required: false, many: false },
-    { pageProperty: "code-file-property/tunnel-routes", required: false, many: false },
     { pageProperty: "text-property/tool-reached", required: false, many: true, maxCount: null },
   ],
   invariants: [
