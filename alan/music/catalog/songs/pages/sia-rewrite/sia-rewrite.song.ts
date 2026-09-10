@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaRewrite = {
   id: "019ea4cb-9746-77f8-ad48-e92a63256b79",

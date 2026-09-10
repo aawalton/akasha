@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const billieEilishBornBlue = {
   id: "019ea4aa-5b7e-757c-9549-2bee3c6165b9",

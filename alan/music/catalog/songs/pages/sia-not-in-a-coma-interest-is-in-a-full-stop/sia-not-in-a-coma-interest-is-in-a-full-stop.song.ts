@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaNotInAComaInterestIsInAFullStop = {
   id: "019ea4ca-4697-79ed-9865-e805da5940e4",

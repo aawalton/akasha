@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaFootprints = {
   id: "019ea4c7-0192-7183-ab6e-bb273432c307",

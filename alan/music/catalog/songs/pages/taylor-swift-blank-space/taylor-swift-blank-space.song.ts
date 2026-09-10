@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftBlankSpace = {
   id: "019ea416-0298-7727-96de-056ed3e397b8",

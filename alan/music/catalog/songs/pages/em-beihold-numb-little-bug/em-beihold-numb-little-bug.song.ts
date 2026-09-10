@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const emBeiholdNumbLittleBug = {
   id: "019ea4df-c0b3-782b-9cdc-d2e19529d545",

@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const jessicaBaioHeLovesMeHeLovesMeNotStripped = {
   id: "019ea4f7-b9d2-77bd-b1df-55bcff8e0e07",

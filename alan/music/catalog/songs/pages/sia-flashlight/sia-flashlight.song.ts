@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaFlashlight = {
   id: "019ea4c8-17d2-7137-8f91-c668bb38334f",

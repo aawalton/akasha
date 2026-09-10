@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftPermanentMarker = {
   id: "019ea416-39e0-7229-b085-74d0790eee81",

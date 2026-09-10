@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaSpeedDialNo2 = {
   id: "019ea4cb-8255-7587-a5f3-094394a1d057",

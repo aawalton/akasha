@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const emBeiholdEggInTheBackseat = {
   id: "019ea4df-1a7a-7cb8-927d-6149d99a808e",

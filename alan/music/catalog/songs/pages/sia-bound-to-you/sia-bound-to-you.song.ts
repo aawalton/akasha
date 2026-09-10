@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaBoundToYou = {
   id: "019ea4c3-a508-7765-a256-27a5e97c3ae3",

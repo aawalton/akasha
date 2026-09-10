@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaBlankPage = {
   id: "019ea4c5-0d53-7b72-b946-87b3380f3b96",

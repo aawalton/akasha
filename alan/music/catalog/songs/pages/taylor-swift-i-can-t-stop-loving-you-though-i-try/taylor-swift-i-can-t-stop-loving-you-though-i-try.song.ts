@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftICanTStopLovingYouThoughITry = {
   id: "019ea416-185a-7361-908f-8b3ef0e3a85b",

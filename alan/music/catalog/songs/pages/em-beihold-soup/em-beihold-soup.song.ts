@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const emBeiholdSoup = {
   id: "019ea4df-c90b-799e-afa4-989200b96705",

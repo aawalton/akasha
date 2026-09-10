@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftAllTooWellJakeSVersion = {
   id: "019ea416-0426-7245-81b5-555d83e7a831",

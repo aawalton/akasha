@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const billieEilishCopycat = {
   id: "019ea4a8-df45-70b2-a966-191e360afa98",

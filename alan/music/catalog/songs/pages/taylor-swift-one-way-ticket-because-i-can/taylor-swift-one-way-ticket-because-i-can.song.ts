@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftOneWayTicketBecauseICan = {
   id: "019ea416-304d-7a6b-b3b8-2989cc393d69",

@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const emBeiholdSpiderman = {
   id: "019ea4df-10eb-7e94-a868-cadcc4da063e",

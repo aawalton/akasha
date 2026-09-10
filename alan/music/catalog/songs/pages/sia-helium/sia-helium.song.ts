@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaHelium = {
   id: "019ea4c7-95fd-7fa7-9065-45c7f2d1cafd",

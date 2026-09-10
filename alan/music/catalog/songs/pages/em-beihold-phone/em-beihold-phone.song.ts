@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const emBeiholdPhone = {
   id: "019ea4df-b610-7582-911b-1f59dc75c5d1",

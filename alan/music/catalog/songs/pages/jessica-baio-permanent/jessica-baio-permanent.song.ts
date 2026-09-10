@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const jessicaBaioPermanent = {
   id: "019ea4f8-72f7-7126-8336-3b84431a2453",

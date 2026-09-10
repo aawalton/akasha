@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftSafeSound = {
   id: "019ea416-35c9-76aa-9dfc-56f943ccfb37",

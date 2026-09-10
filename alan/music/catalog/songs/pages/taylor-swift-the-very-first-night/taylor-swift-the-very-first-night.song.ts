@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftTheVeryFirstNight = {
   id: "019ea416-48b8-7915-9ef5-da87f3a00489",

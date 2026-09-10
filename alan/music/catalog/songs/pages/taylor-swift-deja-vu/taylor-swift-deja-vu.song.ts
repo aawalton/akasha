@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftDejaVu = {
   id: "019ea416-0df8-7fff-9bab-7a9f00f10697",

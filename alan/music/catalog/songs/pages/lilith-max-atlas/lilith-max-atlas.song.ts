@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const lilithMaxAtlas = {
   id: "019ea4f5-4ae7-7ed7-a1fe-60d0197aa178",

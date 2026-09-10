@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const auroraHarpSealPup = {
   id: "019ea4a5-b53f-752a-a1d8-f5727f2b3fde",

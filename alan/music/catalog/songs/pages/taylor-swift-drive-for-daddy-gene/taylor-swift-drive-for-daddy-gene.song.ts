@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftDriveForDaddyGene = {
   id: "019ea416-0d27-7fa0-8497-967103106f3b",

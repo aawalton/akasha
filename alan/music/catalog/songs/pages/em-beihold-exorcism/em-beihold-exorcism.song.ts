@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const emBeiholdExorcism = {
   id: "019ea4df-9541-7911-977d-6e0cad05815c",

@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftLoml = {
   id: "019ea416-1d7a-744a-ad2f-2ee484405436",

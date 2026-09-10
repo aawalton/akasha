@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftTmz = {
   id: "019ea416-46f5-7364-8a0a-779efe80a784",

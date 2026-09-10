@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftWhenLoveAndHateCollide = {
   id: "019ea416-43b9-7750-8af4-af43a01a11f9",

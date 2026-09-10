@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const imagineDragonsIntermission6IntroToFriction = {
   id: "019ea498-13d2-7836-8727-8a0efb798be1",

@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftMissAmericanaTheHeartbreakPrince = {
   id: "019ea416-3284-7cd7-886e-e16e91e0d981",

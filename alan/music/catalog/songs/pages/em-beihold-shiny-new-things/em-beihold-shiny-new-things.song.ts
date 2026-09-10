@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const emBeiholdShinyNewThings = {
   id: "019ea4de-f411-73db-926c-aa66772cd863",

@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftCrazier = {
   id: "019ea416-1268-765e-99df-516f7f908fe0",

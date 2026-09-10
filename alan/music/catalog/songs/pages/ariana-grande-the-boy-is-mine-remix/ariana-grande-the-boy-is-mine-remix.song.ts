@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const arianaGrandeTheBoyIsMineRemix = {
   id: "019ea4e7-f19a-7ef2-8df1-1afa9cd212b3",

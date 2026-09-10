@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const imagineDragonsOutroCredits = {
   id: "019ea497-e80b-778d-afda-b8b5ebbc109b",

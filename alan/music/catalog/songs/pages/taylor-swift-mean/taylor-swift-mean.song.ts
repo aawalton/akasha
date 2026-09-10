@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftMean = {
   id: "019ea416-24ed-7c0b-b4a2-59a914b49300",

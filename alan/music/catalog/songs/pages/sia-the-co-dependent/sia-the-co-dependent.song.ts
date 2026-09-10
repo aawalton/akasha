@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaTheCoDependent = {
   id: "019ea4cc-f24b-7d7b-a1cb-11d2ca570fe8",

@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const auroraRunningWithTheWolvesWolfwalkersVersion = {
   id: "019ea4a7-07aa-7ca1-9320-0c76b23155e0",

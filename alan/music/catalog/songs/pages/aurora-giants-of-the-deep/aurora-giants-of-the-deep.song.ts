@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const auroraGiantsOfTheDeep = {
   id: "019ea4a6-8a4a-754c-b005-981abdac237e",

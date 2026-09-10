@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftMirrorball = {
   id: "019ea416-3d24-7b71-8f41-cd23dba27f16",

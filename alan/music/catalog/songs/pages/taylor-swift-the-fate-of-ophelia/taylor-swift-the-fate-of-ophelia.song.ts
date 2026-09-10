@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftTheFateOfOphelia = {
   id: "019ea416-2da5-7dd3-b9ac-dc60676e5d68",

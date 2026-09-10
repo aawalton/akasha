@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftAllOfTheGirlsYouLovedBefore = {
   id: "019ea416-03eb-7d00-9f5f-e10a64b78e60",

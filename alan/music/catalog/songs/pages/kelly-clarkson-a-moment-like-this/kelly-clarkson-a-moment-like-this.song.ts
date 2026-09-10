@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const kellyClarksonAMomentLikeThis = {
   id: "019ea4ad-1289-7e54-9880-93288d8bf355",

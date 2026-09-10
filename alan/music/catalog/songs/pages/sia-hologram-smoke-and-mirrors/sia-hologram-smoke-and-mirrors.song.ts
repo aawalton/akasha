@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaHologramSmokeAndMirrors = {
   id: "019ea4c9-d8bc-74a5-b0e4-46fe3f1998bd",

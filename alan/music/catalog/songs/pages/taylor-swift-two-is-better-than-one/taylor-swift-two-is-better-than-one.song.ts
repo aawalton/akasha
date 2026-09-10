@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftTwoIsBetterThanOne = {
   id: "019ea416-4505-790f-a1c7-8bf115744da6",

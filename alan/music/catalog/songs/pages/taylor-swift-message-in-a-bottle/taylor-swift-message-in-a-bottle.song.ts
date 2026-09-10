@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftMessageInABottle = {
   id: "019ea416-1ab8-7193-adee-760f43754a0f",

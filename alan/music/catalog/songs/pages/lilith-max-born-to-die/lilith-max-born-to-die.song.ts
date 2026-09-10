@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const lilithMaxBornToDie = {
   id: "019ea4f5-9576-7ef8-b454-c164b1d7188d",

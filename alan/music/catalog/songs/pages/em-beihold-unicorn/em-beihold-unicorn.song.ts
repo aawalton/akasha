@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const emBeiholdUnicorn = {
   id: "019ea4df-a2ce-7ef3-b3cc-4067a69d1e35",

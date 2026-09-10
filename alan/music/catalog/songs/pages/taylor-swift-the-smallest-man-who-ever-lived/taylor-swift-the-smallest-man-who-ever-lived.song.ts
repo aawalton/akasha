@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftTheSmallestManWhoEverLived = {
   id: "019ea416-38e7-798f-9762-bc4df8219861",

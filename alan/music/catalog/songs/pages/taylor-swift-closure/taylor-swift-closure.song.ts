@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftClosure = {
   id: "019ea416-129c-73af-88c6-b9cde0bcb2ec",

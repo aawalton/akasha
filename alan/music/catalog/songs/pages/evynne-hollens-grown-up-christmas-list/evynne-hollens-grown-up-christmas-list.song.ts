@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const evynneHollensGrownUpChristmasList = {
   id: "019ea4af-76ea-7964-b5b3-e0fbdc4d5cd8",

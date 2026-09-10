@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaIfTheEarthIsSpinning = {
   id: "019ea4c8-5438-7316-9cbf-66302c8dd0b3",

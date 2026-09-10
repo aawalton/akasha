@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftInvisibleString = {
   id: "019ea416-2c96-701c-ae56-f9e5ea559010",

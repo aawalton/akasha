@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftNewYearSDay = {
   id: "019ea416-37b9-7acb-a052-1fdfeef99cb9",

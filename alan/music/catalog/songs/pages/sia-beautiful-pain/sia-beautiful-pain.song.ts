@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaBeautifulPain = {
   id: "019ea4c6-036b-71a2-9c82-bd7c462ef169",

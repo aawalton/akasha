@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftBiggerThanTheWholeSky = {
   id: "019ea416-049d-7128-84ec-d9ac056475be",

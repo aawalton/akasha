@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftOpalite = {
   id: "019ea416-3f9b-7a30-9e96-f40b6ec05f9a",

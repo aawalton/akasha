@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaExperteaseReadySetGo = {
   id: "019ea4c2-98b1-72b0-9d41-07a17d06cf4c",

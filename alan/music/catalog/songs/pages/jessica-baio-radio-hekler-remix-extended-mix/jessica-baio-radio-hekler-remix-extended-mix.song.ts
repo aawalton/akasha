@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const jessicaBaioRadioHeklerRemixExtendedMix = {
   id: "019ea4f8-9bde-729f-b21f-947cd8220898",

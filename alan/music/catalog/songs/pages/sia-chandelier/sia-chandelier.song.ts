@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const siaChandelier = {
   id: "019ea4c4-f9e0-7306-8c74-4dd8eca30736",

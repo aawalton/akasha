@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftMastermind = {
   id: "019ea416-2526-7682-b105-33902152c3f5",

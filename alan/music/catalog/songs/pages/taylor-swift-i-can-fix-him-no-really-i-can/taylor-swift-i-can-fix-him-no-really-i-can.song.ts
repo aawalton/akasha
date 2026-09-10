@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftICanFixHimNoReallyICan = {
   id: "019ea416-2c60-7966-a896-e67907f279ce",

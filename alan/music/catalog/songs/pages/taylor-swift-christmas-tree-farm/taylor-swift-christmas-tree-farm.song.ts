@@ -1,4 +1,4 @@
-import type { Song } from "../../song.page-type.ts"
+import type { Song } from "../../song.page-type.types.ts"
 
 export const taylorSwiftChristmasTreeFarm = {
   id: "019ea416-06ff-7fa5-9393-e4b94c5d23ca",
