@@ -1,6 +1,7 @@
 import { readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { everyOfType } from "@akasha/indexes"
+import { fileKeysAt } from "@akasha/indexes/entries"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { besideOf } from "@akasha/pages/page-beside"
 import { landRemovals } from "@akasha/seat-system/gated-landing"
@@ -62,7 +63,8 @@ export function daysIn(root: string): DaysRead {
 }
 
 function removeLines(root: string, relPath: string): undefined {
-  for (const one of besideOf(root, relPath)) rmSync(join(root, one), { force: true })
+  const keys = new Set(fileKeysAt(root).keys())
+  for (const one of besideOf(root, relPath, keys)) rmSync(join(root, one), { force: true })
 }
 
 async function removePages(

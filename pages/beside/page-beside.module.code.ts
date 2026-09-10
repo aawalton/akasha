@@ -4,7 +4,11 @@ import { besideNamed } from "../file-name/page-file-name.module.code.ts"
 
 const TS = ".ts"
 
-export function besideOf(root: string, path: string): readonly string[] {
+export function besideOf(
+  root: string,
+  path: string,
+  known?: ReadonlySet<string>
+): readonly string[] {
   if (!path.endsWith(TS)) return []
   const stem = basename(path).slice(0, -TS.length)
   const dir = dirname(path)
@@ -13,17 +17,21 @@ export function besideOf(root: string, path: string): readonly string[] {
   const found: string[] = []
   for (const name of readdirSync(full)) {
     if (!name.startsWith(`${stem}.`)) continue
-    if (!besideNamed(name.slice(stem.length + 1))) continue
+    if (!besideNamed(name.slice(stem.length + 1), known)) continue
     found.push(join(dir, name))
   }
   return found.sort()
 }
 
-export function besideAll(root: string, paths: readonly string[]): readonly string[] {
+export function besideAll(
+  root: string,
+  paths: readonly string[],
+  known?: ReadonlySet<string>
+): readonly string[] {
   const named = new Set(paths)
   const found = new Set<string>()
   for (const one of paths) {
-    for (const held of besideOf(root, one)) {
+    for (const held of besideOf(root, one, known)) {
       if (!named.has(held)) found.add(held)
     }
   }

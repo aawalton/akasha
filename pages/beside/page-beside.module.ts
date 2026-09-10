@@ -62,6 +62,10 @@ export const pageBeside = {
     },
     {
       invariantKind: "departure",
+      statement: "A section list of two is read only where the key set handed in has that key.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file no page claims cannot exist.",
     },
     {

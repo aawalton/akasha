@@ -27,6 +27,8 @@ function rootWith(paths: readonly string[]): string {
 
 const PAGE = "akasha/one/held.module.ts"
 
+const MEMBER_KEYS: ReadonlySet<string> = new Set(["decision.code"])
+
 test("the code and the test beside a page are answered", () => {
   const root = rootWith([PAGE, "akasha/one/held.module.code.ts", "akasha/one/held.module.test.ts"])
   expect(besideOf(root, PAGE)).toEqual([
@@ -72,6 +74,16 @@ test("a file carrying more than one part past the page's name is not beside it",
   expect(besideOf(root, PAGE)).toEqual(["akasha/one/held.module.code.ts"])
 })
 
+test("a group member's file is not beside a page where no key set is handed in", () => {
+  const root = rootWith([PAGE, "akasha/one/held.module.decision.code.ts"])
+  expect(besideOf(root, PAGE)).toEqual([])
+})
+
+test("a group member's file is beside a page where the key set handed in has its key", () => {
+  const root = rootWith([PAGE, "akasha/one/held.module.decision.code.ts"])
+  expect(besideOf(root, PAGE, MEMBER_KEYS)).toEqual(["akasha/one/held.module.decision.code.ts"])
+})
+
 test("what sits beside several paths is answered once, sorted, and holds none of them", () => {
   const root = rootWith([
     PAGE,
@@ -88,6 +100,19 @@ test("what sits beside several paths is answered once, sorted, and holds none of
 test("a path named among the set is never answered as sitting beside another", () => {
   const root = rootWith([PAGE, "akasha/one/held.module.code.ts"])
   expect(besideAll(root, [PAGE, "akasha/one/held.module.code.ts"])).toEqual([])
+})
+
+test("the key set handed in for several paths reaches each page's group members", () => {
+  const root = rootWith([
+    PAGE,
+    "akasha/one/held.module.decision.code.ts",
+    "akasha/one/other.module.ts",
+    "akasha/one/other.module.decision.code.ts",
+  ])
+  expect(besideAll(root, [PAGE, "akasha/one/other.module.ts"], MEMBER_KEYS)).toEqual([
+    "akasha/one/held.module.decision.code.ts",
+    "akasha/one/other.module.decision.code.ts",
+  ])
 })
 
 test("a path that is no TypeScript file answers nothing", () => {

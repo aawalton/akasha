@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
+import { fileKeysAt } from "@akasha/indexes/entries"
 import { besideAll } from "@akasha/pages/page-beside"
 import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
@@ -129,8 +130,9 @@ export function besideTaken(
   seen: Set<string>
 ): readonly FileChange[] {
   if (base === null) return []
+  const root = resolve(given.root)
   const changes: FileChange[] = []
-  for (const one of besideAll(resolve(given.root), taken)) {
+  for (const one of besideAll(root, taken, new Set(fileKeysAt(root).keys()))) {
     if (seen.has(one)) continue
     seen.add(one)
     changes.push({ kind: "remove", path: one })
