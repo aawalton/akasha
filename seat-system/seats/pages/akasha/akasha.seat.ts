@@ -1,10 +1,10 @@
 import type { Seat } from "../../seat.page-type.types.ts"
 
-export const akasha = {
+export const akasha/akasha = {
   id: "01a07c15-3e52-7000-ad7b-1c746247704d",
   pageTypeSlug: "seat",
   type: "seat",
-  slug: "akasha",
+  slug: "akasha/akasha",
   persona: "akasha",
   assignmentSlug: "initiative/akasha-folder-shape",
   role: "definer",
