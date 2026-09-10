@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { ReagentNames } from "./reagent-names.text-property.ts"
 
 export type Recipe = {

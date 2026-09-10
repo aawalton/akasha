@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
+import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
 import type { LoadScroll } from "./load-scroll.text-property.ts"
 
 export type FrameAutoScroll = {

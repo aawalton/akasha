@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { ConditionKind } from "./condition-kind.text-property.ts"
 import type { ConditionWeaponType } from "./condition-weapon-type.text-property.ts"
 import type { EnemyTypes } from "./enemy-types.text-property.ts"

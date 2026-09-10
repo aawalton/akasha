@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
+import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
 import type { List } from "../page-properties/page-property.page-type.ts"
 import type { MaxCount } from "../page-properties/properties/max-count.number-property.ts"
 import type { MaxLength } from "../page-properties/properties/max-length.number-property.ts"

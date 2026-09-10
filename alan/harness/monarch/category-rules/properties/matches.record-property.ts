@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { MatchComparison } from "./match-comparison.select-property.ts"
 import type { MatchKey } from "./match-key.select-property.ts"
 import type { MatchValues } from "./match-values.text-property.ts"

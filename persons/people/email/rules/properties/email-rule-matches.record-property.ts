@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { EmailRuleMatchComparison } from "./email-rule-match-comparison.select-property.ts"
 import type { EmailRuleMatchField } from "./email-rule-match-field.select-property.ts"
 import type { EmailRuleMatchValues } from "./email-rule-match-values.text-property.ts"

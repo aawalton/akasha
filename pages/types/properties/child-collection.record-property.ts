@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
+import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
 import type { ChildRelation } from "./child-relation.text-property.ts"
 import type { ChildType } from "./child-type.relation-property.ts"
 

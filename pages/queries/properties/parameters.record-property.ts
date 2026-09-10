@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
+import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
 import type { List } from "../../types/page-properties/page-property.page-type.ts"
 import type { ParameterName } from "./parameter-name.text-property.ts"
 import type { ParameterType } from "./parameter-type.text-property.ts"

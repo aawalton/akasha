@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { Coefficient } from "../../../../characters/skill-activations/properties/coefficient.number-property.ts"
 import type { MetricId } from "../../../../temper-catalog/things/properties/metric-id.text-property.ts"
 import type { CoefficientType } from "./coefficient-type.text-property.ts"

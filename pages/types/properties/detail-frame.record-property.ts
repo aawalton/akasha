@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
+import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
 import type { FrameAutoScroll } from "./frame-auto-scroll.record-property.ts"
 import type { FrameEdgeToEdge } from "./frame-edge-to-edge.boolean-property.ts"
 import type { FrameFocusMode } from "./frame-focus-mode.boolean-property.ts"

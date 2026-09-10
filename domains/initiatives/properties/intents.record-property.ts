@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { IntentStatement } from "./intent-statement.standard-agent-english-property.ts"
 import type { WorkingMemory } from "./working-memory.text-property.ts"
 

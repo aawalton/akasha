@@ -1,4 +1,4 @@
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { AccuracySeconds } from "./accuracy-seconds.number-property.ts"
 import type { After } from "./after.text-property.ts"
 import type { CatchUp } from "./catch-up.boolean-property.ts"

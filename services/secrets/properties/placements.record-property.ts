@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { ResourceName } from "../../../infrastructure/cluster/services/properties/resource-name.text-property.ts"
 import type { ResourceKey } from "./resource-key.text-property.ts"
 

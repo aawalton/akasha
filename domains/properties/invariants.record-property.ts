@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { InvariantKind } from "./invariant-kind.relation-property.ts"
 import type { InvariantStatement } from "./invariant-statement.standard-agent-english-property.ts"
 

@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { RecordProperty } from "@akasha/pages/record-property"
+import type { RecordProperty } from "akasha/pages/record-properties/record-property.page-type.types.ts"
 import type { FromPattern } from "./from-pattern.text-property.ts"
 import type { ProseFrame } from "./prose-frame.relation-property.ts"
 import type { ToPattern } from "./to-pattern.text-property.ts"

@@ -1,4 +1,4 @@
-import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
+import type { RecordProperty } from "../../record-properties/record-property.page-type.types.ts"
 import type { BodyPropertyId } from "./body-property-id.text-property.ts"
 import type { ChildCollection } from "./child-collection.record-property.ts"
 import type { CollectionHeader } from "./collection-header.record-property.ts"
