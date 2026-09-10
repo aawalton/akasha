@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { statesVersionSeven } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import {
   listedFiled,
   schemaFiled,
@@ -33,8 +34,6 @@ const WIDGET_AT = "akasha/one.widget.ts"
 const HELD_ID = "01a0503f-14ea-74e4-9759-fe1f54a03d0d"
 
 const TYPE_ID = "01a0503f-14ea-74e4-9759-fe1f54a03d0e"
-
-const SHAPE = /^[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/
 
 const BODY =
   'import type { Thing } from "./thing.page-type.ts"\n\n' +
@@ -184,7 +183,7 @@ test("a path taken away takes no value", () => {
 test("an entry arriving without an id is given one, and the id goes in first", () => {
   const held: Record<string, unknown> = JSON.parse(identified('{"page": "one"}') ?? "{}")
   expect(Object.keys(held)).toEqual(["id", "page"])
-  expect(String(held["id"])).toMatch(SHAPE)
+  expect(statesVersionSeven(String(held["id"]))).toBe(true)
 })
 
 test("an entry already carrying an id is left alone", () => {
