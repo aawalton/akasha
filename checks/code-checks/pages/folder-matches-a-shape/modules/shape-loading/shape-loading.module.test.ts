@@ -7,7 +7,7 @@ function standingAt(folder: string): Standing {
   return folderFrom({ folder, pageTypes: new Set<string>() })([])
 }
 
-const TAKING: Shape = { slug: "modules-only", judge: () => [], holds: "modules" }
+const TAKING: Shape = { slug: "modules-only", judge: () => [], holds: ["modules", ".server"] }
 
 const ANY: Shape = { slug: "the-workspace-root", judge: () => [], holds: null }
 
@@ -15,10 +15,14 @@ test("a shape is handed a folder of the name that shape publishes", () => {
   expect(judgedBy(TAKING, standingAt("akasha/foo/modules"))).toEqual([])
 })
 
+test("a shape is handed a folder of any other name that shape publishes", () => {
+  expect(judgedBy(TAKING, standingAt("akasha/foo/.server"))).toEqual([])
+})
+
 test("a folder of another name is declined with a reason rather than matched", () => {
   const said = judgedBy(TAKING, standingAt("akasha/foo/other"))
   expect(said).toHaveLength(1)
-  expect(said[0]).toBe("it is named `other` rather than `modules`")
+  expect(said[0]).toBe("it is named `other` rather than `modules` or `.server`")
 })
 
 test("a shape publishing no name is handed every folder", () => {
@@ -26,5 +30,5 @@ test("a shape publishing no name is handed every folder", () => {
 })
 
 test("the names held are the names the shapes publish", () => {
-  expect([...namesHeldBy([TAKING, ANY])]).toEqual(["modules"])
+  expect([...namesHeldBy([TAKING, ANY])]).toEqual(["modules", ".server"])
 })

@@ -5,14 +5,22 @@ export const modulesOnly = {
   pageTypeSlug: "folder-shape",
   type: "folder-shape",
   slug: "modules-only",
-  definition: "the shape of a folder named modules with the module folders the page above declares",
+  definition: "the shape of a folder with the module folders the page above it declares",
   code: "ts",
   test: "ts",
   enabled: true,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder is named `modules`.",
+      statement: "The folder is named `modules`, or `.server` for what a server alone runs.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "React Router runs a file under `.server` on the server and never in a browser.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No page claims that name, a slug being lower kebab case.",
     },
     {
       invariantKind: "departure",

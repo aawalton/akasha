@@ -2,7 +2,7 @@ import { dirname } from "node:path"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
-export const HOLDS = "modules"
+export const HOLDS = ["modules", ".server"]
 
 const MODULE = "module"
 

@@ -1,7 +1,7 @@
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
-export const HOLDS = "workstation-services"
+export const HOLDS = ["workstation-services"]
 
 const SERVICE = "workstation-service"
 

@@ -1,7 +1,7 @@
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
-export const HOLDS = "scripts"
+export const HOLDS = ["scripts"]
 
 const SHELL_SCRIPT = "shell-script"
 

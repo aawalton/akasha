@@ -20,13 +20,23 @@ const loadFrom = createRequire(import.meta.url)
 export type Shape = {
   readonly slug: string
   readonly judge: Judging
-  readonly holds: string | null
+  readonly holds: readonly string[] | null
+}
+
+function namesIn(takes: unknown): readonly string[] | null {
+  if (!Array.isArray(takes)) return null
+  const found = takes.filter((one): one is string => typeof one === "string")
+  return found.length === takes.length && found.length > 0 ? found : null
+}
+
+function saidAs(names: readonly string[]): string {
+  return names.map((one) => `\`${one}\``).join(" or ")
 }
 
 export function namesHeldBy(shapes: readonly Shape[]): ReadonlySet<string> {
   const found = new Set<string>()
   for (const one of shapes) {
-    if (one.holds !== null) found.add(one.holds)
+    for (const name of one.holds ?? []) found.add(name)
   }
   return found
 }
@@ -34,8 +44,8 @@ export function namesHeldBy(shapes: readonly Shape[]): ReadonlySet<string> {
 export function judgedBy(shape: Shape, standing: Standing): readonly string[] {
   if (shape.holds === null) return shape.judge(standing)
   const named = basename(standing.folder)
-  if (named === shape.holds) return shape.judge(standing)
-  return [`it is named \`${named}\` rather than \`${shape.holds}\``]
+  if (shape.holds.includes(named)) return shape.judge(standing)
+  return [`it is named \`${named}\` rather than ${saidAs(shape.holds)}`]
 }
 
 export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
@@ -83,12 +93,7 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
         `${one.path} is a folder shape, and ${beside} answers to nothing that can judge`
       )
     }
-    const takes = mod[HOLDS]
-    found.push({
-      slug,
-      judge: named as Judging,
-      holds: typeof takes === "string" ? takes : null,
-    })
+    found.push({ slug, judge: named as Judging, holds: namesIn(mod[HOLDS]) })
   }
   if (found.length === 0) {
     throw new Error(
