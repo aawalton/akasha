@@ -1,6 +1,7 @@
+import type { List } from "@akasha/pages/page-property"
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type ValidTraitIds = string
+export type ValidTraitIds = List<string>
 
 export const validTraitIds = {
   id: "01a05fce-1853-7aad-97fd-8d8e8e51af86",
