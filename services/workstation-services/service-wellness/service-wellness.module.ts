@@ -22,7 +22,7 @@ export const serviceWellness = {
     },
     {
       invariantKind: "departure",
-      statement: "A verdict is no better than the moment of the look that left it.",
+      statement: "A verdict is no better than the moment of the look that left that verdict.",
     },
     {
       invariantKind: "departure",
@@ -35,16 +35,16 @@ export const serviceWellness = {
     {
       invariantKind: "departure",
       statement:
-        "A verdict is written only where what the look found differs from what is already there.",
+        "A verdict is written only where the look's finding differs from the verdict published.",
     },
     {
       invariantKind: "departure",
       statement:
-        "What is already there is read from the value published rather than from a ledger.",
+        "The verdict already there is read from the value published rather than from a ledger.",
     },
     {
       invariantKind: "departure",
-      statement: "A value cleared away differs from what a look found.",
+      statement: "A value cleared away differs from a look's finding.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,8 @@ export const serviceWellness = {
     },
     {
       invariantKind: "departure",
-      statement: "A look finding its own page nowhere leaves no moment rather than leaving one.",
+      statement:
+        "A look finding its own page nowhere leaves no moment rather than leaving a moment.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +66,7 @@ export const serviceWellness = {
     },
     {
       invariantKind: "departure",
-      statement: "A verdict replaces the verdict before it.",
+      statement: "A verdict replaces the verdict written before.",
     },
     {
       invariantKind: "departure",
