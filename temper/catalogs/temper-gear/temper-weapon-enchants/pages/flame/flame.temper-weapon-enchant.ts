@@ -1,4 +1,4 @@
-import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.ts"
+import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.types.ts"
 
 export const flame = {
   id: "019e5c0d-dcf6-70c2-b137-99c98be7f05f",

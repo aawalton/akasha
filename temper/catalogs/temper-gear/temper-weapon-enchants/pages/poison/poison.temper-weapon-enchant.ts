@@ -1,4 +1,4 @@
-import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.ts"
+import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.types.ts"
 
 export const poison = {
   id: "019e5c0d-dcfa-742b-a5f4-8fc092950d0c",

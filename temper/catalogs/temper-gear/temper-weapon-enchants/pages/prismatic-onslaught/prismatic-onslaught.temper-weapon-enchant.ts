@@ -1,4 +1,4 @@
-import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.ts"
+import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.types.ts"
 
 export const prismaticOnslaught = {
   id: "019e5c0d-dcfe-794e-92b0-c1c3a698dafd",

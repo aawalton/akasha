@@ -1,4 +1,4 @@
-import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.ts"
+import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.types.ts"
 
 export const absorbHealth = {
   id: "019e5c0d-dceb-74ca-8a7f-64f3f44ddae1",
