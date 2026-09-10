@@ -69,7 +69,8 @@ export const check = {
     },
     {
       invariantKind: "departure",
-      statement: "A change to the input a check runs with is caught at audit.",
+      statement:
+        "A change to the input a check runs with is caught only where that check is asked for by name.",
     },
     {
       invariantKind: "upkeep",
