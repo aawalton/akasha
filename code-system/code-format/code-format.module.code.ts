@@ -1,8 +1,16 @@
-import { join } from "node:path"
+import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { bytes } from "@akasha/utils/run/running"
 import { classifyExtension, type FileKind } from "../file-kind/file-kind.module.code.ts"
+import { insideOf } from "../test-overlay/test-overlay.module.code.ts"
 
 const BIOME_AT = "node_modules/.bin/biome"
+
+const HOLD = "/var/tmp"
+
+const PREFIX = "akasha-format-"
+
+const CARRIED: readonly string[] = ["biome.json", ".gitignore"]
 
 const FORMATS: ReadonlySet<FileKind> = new Set<FileKind>(["ts", "tsx", "js", "jsx", "css"])
 
@@ -36,6 +44,18 @@ function keepsItsMarks(was: Uint8Array, now: Uint8Array): boolean {
   return marksOf(was) === marksOf(now)
 }
 
+function takenOver(was: Uint8Array, said: Uint8Array): Formatted {
+  const held: Formatted = { body: was, changed: false }
+  if (said.byteLength === 0 || sameAs(said, was)) return held
+  if (!keepsItsMarks(was, said)) return held
+  return { body: said, changed: true }
+}
+
+function formats(path: string): boolean {
+  const kind = classifyExtension(path)
+  return kind !== null && FORMATS.has(kind) && insideOf(path)
+}
+
 export function formattedBody(root: string, path: string, body: Uint8Array): Formatted {
   const held: Formatted = { body, changed: false }
   const kind = classifyExtension(path)
@@ -46,11 +66,51 @@ export function formattedBody(root: string, path: string, body: Uint8Array): For
       stdin: body,
     })
     if (done.code !== 0) return held
-    const said = done.out
-    if (said.byteLength === 0 || sameAs(said, body)) return held
-    if (!keepsItsMarks(body, said)) return held
-    return { body: said, changed: true }
+    return takenOver(body, done.out)
   } catch {
     return held
   }
+}
+
+function bodyOr(at: string): Uint8Array | null {
+  try {
+    return readFileSync(at)
+  } catch {
+    return null
+  }
+}
+
+export function formattedBodies(
+  root: string,
+  bodies: ReadonlyMap<string, Uint8Array>
+): ReadonlyMap<string, Formatted> {
+  const done = new Map<string, Formatted>()
+  const taking: (readonly [string, Uint8Array])[] = []
+  for (const [path, body] of bodies) {
+    if (formats(path)) taking.push([path, body])
+    else done.set(path, { body, changed: false })
+  }
+  if (taking.length === 0) return done
+  const held = mkdtempSync(join(HOLD, PREFIX))
+  try {
+    for (const one of CARRIED) {
+      const carried = bodyOr(join(root, one))
+      if (carried !== null) writeFileSync(join(held, one), carried)
+    }
+    for (const [path, body] of taking) {
+      const at = join(held, path)
+      mkdirSync(dirname(at), { recursive: true })
+      writeFileSync(at, body)
+    }
+    bytes([join(root, BIOME_AT), CHECKS, REWRITES, held], { cwd: held })
+    for (const [path, body] of taking) {
+      const back = bodyOr(join(held, path))
+      done.set(path, back === null ? { body, changed: false } : takenOver(body, back))
+    }
+  } catch {
+    for (const [path, body] of taking) done.set(path, { body, changed: false })
+  } finally {
+    rmSync(held, { recursive: true, force: true })
+  }
+  return done
 }

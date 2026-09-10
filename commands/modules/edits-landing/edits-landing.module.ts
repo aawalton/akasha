@@ -40,6 +40,10 @@ export const editsLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "Every body a landing takes is formatted in one run rather than one at a time.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which paths the formatter has already left are handed on beside the rows.",
     },
     {

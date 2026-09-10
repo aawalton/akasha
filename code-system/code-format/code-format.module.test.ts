@@ -3,7 +3,7 @@ import { symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../commands/modules/scratching/scratching.module.code.ts"
-import { formattedBody } from "./code-format.module.code.ts"
+import { type Formatted, formattedBodies, formattedBody } from "./code-format.module.code.ts"
 
 const REPO_AT = rootOf(import.meta.dir)
 
@@ -103,4 +103,70 @@ check("the formatter is reached inside the root it is run for, not wherever this
   const said = formattedBody(root, "akasha/held.ts", TEXT.encode(LOOSE))
   expect(said.changed).toBe(true)
   expect(root.startsWith("/var/tmp/")).toBe(true)
+})
+
+function bodyOf(said: ReadonlyMap<string, Formatted>, path: string): string {
+  return SAID.decode(said.get(path)?.body ?? new Uint8Array())
+}
+
+check("many bodies come back formatted from one run, each at the path it was handed in at", () => {
+  const said = formattedBodies(
+    rootWithTheFormatter(),
+    new Map([
+      ["akasha/one.ts", TEXT.encode(LOOSE)],
+      ["deep/under/two.ts", TEXT.encode(LOOSE)],
+      ["akasha/three.ts", TEXT.encode(TIDY)],
+    ])
+  )
+  expect(bodyOf(said, "akasha/one.ts")).toBe(TIDY)
+  expect(said.get("akasha/one.ts")?.changed).toBe(true)
+  expect(bodyOf(said, "deep/under/two.ts")).toBe(TIDY)
+  expect(said.get("deep/under/two.ts")?.changed).toBe(true)
+  expect(bodyOf(said, "akasha/three.ts")).toBe(TIDY)
+  expect(said.get("akasha/three.ts")?.changed).toBe(false)
+})
+
+check("a body of a kind the formatter does not own comes back untouched beside one it does", () => {
+  const said = formattedBodies(
+    rootWithTheFormatter(),
+    new Map([
+      ["akasha/held.md", TEXT.encode(NOTES)],
+      ["akasha/held.ts", TEXT.encode(LOOSE)],
+    ])
+  )
+  expect(bodyOf(said, "akasha/held.md")).toBe(NOTES)
+  expect(said.get("akasha/held.md")?.changed).toBe(false)
+  expect(bodyOf(said, "akasha/held.ts")).toBe(TIDY)
+})
+
+check("a body that will not parse is never blanked, and its neighbour is formatted", () => {
+  const said = formattedBodies(
+    rootWithTheFormatter(),
+    new Map([
+      ["akasha/bad.ts", TEXT.encode(BROKEN)],
+      ["akasha/good.ts", TEXT.encode(LOOSE)],
+    ])
+  )
+  const bad = bodyOf(said, "akasha/bad.ts")
+  expect(bad.length).toBeGreaterThan(0)
+  expect(bad).toContain("export const held = (")
+  expect(bodyOf(said, "akasha/good.ts")).toBe(TIDY)
+})
+
+check("a path reaching outside the root is answered as the body handed in", () => {
+  const said = formattedBodies(
+    rootWithTheFormatter(),
+    new Map([["../outside.ts", TEXT.encode(LOOSE)]])
+  )
+  expect(bodyOf(said, "../outside.ts")).toBe(LOOSE)
+  expect(said.get("../outside.ts")?.changed).toBe(false)
+})
+
+check("a root holding no formatter answers every body handed in rather than nothing", () => {
+  const said = formattedBodies(
+    scratch.rootFor("code-format-bare-"),
+    new Map([["akasha/held.ts", TEXT.encode(LOOSE)]])
+  )
+  expect(bodyOf(said, "akasha/held.ts")).toBe(LOOSE)
+  expect(said.get("akasha/held.ts")?.changed).toBe(false)
 })

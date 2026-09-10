@@ -90,6 +90,51 @@ export const codeFormat = {
       statement: "Whether a body moved is answered beside that body.",
     },
     {
+      invariantKind: "departure",
+      statement: "Many bodies are formatted in one run of the formatter.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those bodies are written into a scratch root outside the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body sits in that root at the path the body has in the repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The config and the ignore file the root holds are carried into that scratch root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is judged by the bytes read back rather than by what the run exited with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that does not come back is answered as the body handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the formatter read only part of comes back as far as the formatter got.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run over many rewrites a body no run over one would touch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scratch root goes whether the run finished or threw.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path reaching outside the repository is formatted by no run over many.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A scratch root sits under `/var/tmp` rather than `/tmp`.",
+    },
+    {
       invariantKind: "absence",
       statement: "No refusal is spelt here.",
     },
@@ -123,7 +168,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "absence",
-      statement: "A caller hands in a path and a body.",
+      statement: "A caller hands in bodies by path and nothing about where they are formatted.",
     },
   ],
 } as const satisfies Module

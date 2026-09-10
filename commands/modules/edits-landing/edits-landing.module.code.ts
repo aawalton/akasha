@@ -1,5 +1,5 @@
 import { textIn } from "@akasha/code/body-text"
-import { formattedBody } from "@akasha/code/code-format"
+import { formattedBodies } from "@akasha/code/code-format"
 import { bodyIn } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   type BodyOf,
@@ -122,7 +122,7 @@ export function landingFrom(
     return { why: [after.refused, ...goneSaid(root, head, said, over)].join("\n") }
   }
   const rows: FileChange[] = []
-  const formatted = new Set<string>()
+  const taking = new Map<string, Uint8Array>()
   for (const [path, body] of after) {
     if (moved.has(path)) continue
     if (notText(body)) return { why: `\`${path}\` ${NOT_TEXT_SAID}` }
@@ -130,9 +130,16 @@ export function landingFrom(
       rows.push({ kind: "remove", path })
       continue
     }
-    const done = formattedBody(root, path, BYTES.encode(body))
-    formatted.add(path)
-    rows.push({ kind: "add", path, content: textIn(done.body) })
+    taking.set(path, BYTES.encode(body))
+    rows.push({ kind: "add", path, content: body })
   }
-  return { rows, moves, formatted, owed: owingIn(said) }
+  const done = formattedBodies(root, taking)
+  const filled = rows.map((one) => {
+    if (one.kind !== "add") return one
+    const made = done.get(one.path)
+    return made === undefined
+      ? one
+      : { kind: "add" as const, path: one.path, content: textIn(made.body) }
+  })
+  return { rows: filled, moves, formatted: new Set(taking.keys()), owed: owingIn(said) }
 }
