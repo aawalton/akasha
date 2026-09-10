@@ -1,5 +1,5 @@
 import { readFile } from "node:fs/promises"
-import { DataError } from "@akasha/errors-core/exit-code"
+import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items-core/inventory-parser/inventory-parser.module.code.ts"

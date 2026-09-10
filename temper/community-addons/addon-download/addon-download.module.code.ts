@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { cp, mkdtemp, readdir, rm, writeFile } from "node:fs/promises"
 import { join } from "node:path"
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import extract from "extract-zip"
 import { SCRATCH_AT } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import type { FileDetails } from "../esoui-catalog/esoui-catalog.module.code.ts"

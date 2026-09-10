@@ -1,6 +1,6 @@
 import { mkdtemp, readdir, readFile, rm } from "node:fs/promises"
 import { join } from "node:path"
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   buildFrameExtractArgs,
   buildVideoQaRequest,

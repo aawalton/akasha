@@ -1,6 +1,6 @@
 import { existsSync, readdirSync } from "node:fs"
 import { join, relative } from "node:path"
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   buildGuiSessionProbeScript,
   decideGuiSession,

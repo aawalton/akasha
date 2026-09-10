@@ -1,4 +1,4 @@
-import { operationalError } from "@akasha/errors-core/exit-code"
+import { operationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   type PollAndPersistSummary,
   pollAndPersist,

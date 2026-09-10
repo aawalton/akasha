@@ -2,7 +2,7 @@ import { alanwaltonDecodeHarness } from "@akasha/code/ios-program/alanwalton-dec
 import { alanwaltonWidget } from "@akasha/code/ios-program/alanwalton-widget"
 import { smilingjennyDecodeHarness } from "@akasha/code/ios-program/smilingjenny-decode-harness"
 import { smilingjennyWidget } from "@akasha/code/ios-program/smilingjenny-widget"
-import { InputError } from "@akasha/errors-core/exit-code"
+import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 
 const PROGRAM_PAGES = [
   alanwaltonDecodeHarness,

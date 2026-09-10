@@ -1,4 +1,4 @@
-import { inputError } from "@akasha/errors-core/exit-code"
+import { inputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 
 export async function readStdinOrFile(path: string): Promise<string> {
   if (path === "-") return await readStdin()

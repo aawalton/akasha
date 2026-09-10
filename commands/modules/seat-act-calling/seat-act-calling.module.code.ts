@@ -1,4 +1,4 @@
-import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
+import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { Answer } from "../calling/calling.module.code.ts"
 import { refused } from "../calling/calling.module.code.ts"
 

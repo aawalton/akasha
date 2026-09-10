@@ -1,5 +1,8 @@
 import { mkdir } from "node:fs/promises"
-import { InputError, OperationalError } from "@akasha/errors-core/exit-code"
+import {
+  InputError,
+  OperationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { downloadAndInstall } from "../addon-download/addon-download.module.code.ts"
 import { findCatalogEntryByName } from "../addon-update-plan/addon-update-plan.module.code.ts"
 import { fetchCatalog, fetchFileDetails } from "../esoui-catalog/esoui-catalog.module.code.ts"

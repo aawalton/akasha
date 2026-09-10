@@ -1,4 +1,4 @@
-import { InputError } from "@akasha/errors-core/exit-code"
+import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { CalendarClient } from "../calendar-client/calendar-client.module.code.ts"
 import { OWNER_CALENDAR_ID } from "../calendar-credentials/calendar-credentials.module.code.ts"
 import {

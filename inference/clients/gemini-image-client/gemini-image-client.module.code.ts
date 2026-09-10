@@ -1,7 +1,10 @@
 import { spawn } from "node:child_process"
 import { readFile } from "node:fs/promises"
 import { extname } from "node:path"
-import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
+import {
+  DataError,
+  OperationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 
 const GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta"

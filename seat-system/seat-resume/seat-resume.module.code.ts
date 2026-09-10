@@ -1,9 +1,3 @@
-import {
-  dataError,
-  exitCodeForThrowable,
-  inputError,
-  operationalError,
-} from "@akasha/errors-core/exit-code"
 import { readTranscriptMtimeMs } from "@akasha/seat-system/agent-io-probe"
 import {
   holdSeatPaneOpen,
@@ -39,6 +33,12 @@ import {
 } from "@akasha/seat-system/takeover-seat"
 import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
 import { shape } from "@akasha/utils/narrow/shape"
+import {
+  dataError,
+  exitCodeForThrowable,
+  inputError,
+  operationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
 

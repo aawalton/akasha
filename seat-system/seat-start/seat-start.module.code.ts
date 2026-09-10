@@ -1,4 +1,3 @@
-import { dataError, inputError } from "@akasha/errors-core/exit-code"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
 import {
@@ -28,6 +27,10 @@ import { type StatedIdentity, spawnSeat } from "@akasha/seat-system/spawn-seat"
 import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
 import type { StatedAgentSlots } from "@akasha/seat-system/supervisor-rebind-deps"
 import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
+import {
+  dataError,
+  inputError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import {
   composeSeatName,

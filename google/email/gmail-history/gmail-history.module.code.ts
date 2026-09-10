@@ -1,4 +1,4 @@
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { z } from "zod"
 import type { GmailClient } from "../gmail-client/gmail-client.module.code.ts"
 import {

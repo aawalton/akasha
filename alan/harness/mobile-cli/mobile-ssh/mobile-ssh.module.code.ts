@@ -1,8 +1,8 @@
 import { spawn } from "node:child_process"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { OperationalError } from "@akasha/errors-core/exit-code"
 import { expandTilde } from "@akasha/utils/fs/expand-tilde"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   MOBILE_SCRATCH_AT,
   remoteRunScriptCommand,

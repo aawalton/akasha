@@ -1,5 +1,8 @@
 import { mkdir } from "node:fs/promises"
-import { exitCodeForThrowable, OperationalError } from "@akasha/errors-core/exit-code"
+import {
+  exitCodeForThrowable,
+  OperationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { PhotoAsset } from "akasha/alan/harness/icloud-photos/album-pulling/album-pulling.module.code.ts"
 import {
   buildQueryRequest,

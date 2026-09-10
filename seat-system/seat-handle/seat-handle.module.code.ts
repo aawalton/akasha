@@ -1,5 +1,8 @@
-import { dataError, inputError } from "@akasha/errors-core/exit-code"
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
+import {
+  dataError,
+  inputError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { type Seated, seatRoster, seatsStanding } from "../seat-roster/seat-roster.module.code.ts"
 
 const UUID_HEX_LEN = 32

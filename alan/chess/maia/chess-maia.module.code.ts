@@ -1,7 +1,7 @@
 import { existsSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 import { lc0Available, resolveLc0Path, runEngine } from "../engine/chess-engine.module.code.ts"
 import { isBestMoveLine, parseSearch } from "../uci/chess-uci.module.code.ts"

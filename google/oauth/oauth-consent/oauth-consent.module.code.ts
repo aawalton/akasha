@@ -1,4 +1,4 @@
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { parseOauthCallbackUrl } from "../oauth-callback/oauth-callback.module.code.ts"
 
 const AUTH_URL = "https://accounts.google.com/o/oauth2/v2/auth"

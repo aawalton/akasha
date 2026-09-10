@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 import { ASC_ISSUER_ID, ASC_KEY_ID } from "../foundation/foundation.module.code.ts"
 

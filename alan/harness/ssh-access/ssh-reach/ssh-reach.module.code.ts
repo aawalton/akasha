@@ -1,7 +1,7 @@
 import { spawn } from "node:child_process"
 import { createInterface } from "node:readline"
-import { OperationalError } from "@akasha/errors-core/exit-code"
 import { expandTilde } from "@akasha/utils/fs/expand-tilde"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { SshTarget } from "../ssh-target/ssh-target.module.code.ts"
 
 function sshArgs(target: SshTarget): readonly string[] {

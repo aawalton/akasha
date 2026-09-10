@@ -63,7 +63,6 @@
   },
   "dependencies": {
     "@akasha/code": "workspace:*",
-    "@akasha/errors-core": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "zod": "^4.3.6"
   }

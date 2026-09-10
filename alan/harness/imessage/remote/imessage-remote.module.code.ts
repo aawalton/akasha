@@ -1,4 +1,4 @@
-import { DataError } from "@akasha/errors-core/exit-code"
+import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import {
   buildChatDbScript,

@@ -1,5 +1,5 @@
-import { InputError } from "@akasha/errors-core/exit-code"
 import { shape } from "@akasha/utils/narrow/shape"
+import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 
 const DURATION_MULTIPLIERS = {
   s: 1_000,

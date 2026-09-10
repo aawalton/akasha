@@ -1,4 +1,4 @@
-import { InputError } from "@akasha/errors-core/exit-code"
+import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { FlagValueShape, HelpFlag } from "../declaring/command-declaring.module.code.ts"
 
 export const PROSE_ROUTE_SUFFIX = "-file"

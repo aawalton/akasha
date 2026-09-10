@@ -1,4 +1,4 @@
-import type { ErrorReport } from "@akasha/errors-core/error-report"
+import type { ErrorReport } from "akasha/alan/harness/errors-core/error-report/error-report.module.code.ts"
 
 export type ReportErrorInput = Omit<ErrorReport, "url" | "userAgent">
 

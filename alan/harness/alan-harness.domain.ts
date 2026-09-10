@@ -46,7 +46,7 @@ export const alanHarness = {
     "domain/reminder-system",
     "workspace-package/supabase-auth",
     "domain/supabase-server",
-    "workspace-package/errors-core",
+    "domain/errors-core",
     "domain/supabase-client",
     "domain/errors-client",
     "workspace-package/supabase-rr",

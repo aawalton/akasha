@@ -1,6 +1,6 @@
 "use client"
 
-import { normalizeThrowable } from "@akasha/errors-core/throwable-normalizing"
+import { normalizeThrowable } from "akasha/alan/harness/errors-core/throwable-normalizing/throwable-normalizing.module.code.ts"
 import { useEffect, useRef } from "react"
 import { reportError } from "../error-reporting/error-reporting.module.code.ts"
 import type { ErrorApp } from "../global-error-capture/global-error-capture.module.code.ts"

@@ -1,7 +1,7 @@
-import { InputError } from "@akasha/errors-core/exit-code"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { everyOfType } from "@akasha/pages/index-reading"
 import { slugAt, textAt, textsAt, type Value, valueAt } from "@akasha/pages/page-value"
+import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 
 export interface MobileApp {
   readonly slug: string

@@ -1,7 +1,7 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
-import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
 import { errnoCodeOf } from "@akasha/utils/process/pid-signal"
 import { enforceMemoryGuard } from "@akasha/utils/system/memory-guard"
+import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   readEnvLocal,
   resolveEnvLocalPath,

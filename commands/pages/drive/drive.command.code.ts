@@ -1,6 +1,6 @@
 import { mkdir } from "node:fs/promises"
 import { basename, isAbsolute, join, resolve } from "node:path"
-import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
+import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { DRIVE_SCOPES } from "akasha/google/drive/drive-credentials/drive-credentials.module.code.ts"
 import { readGoogleOauthAppCredentials } from "akasha/google/oauth/oauth-app-credentials/oauth-app-credentials.module.code.ts"
 import { googleOauthConsent } from "akasha/google/oauth/oauth-consent/oauth-consent.module.code.ts"

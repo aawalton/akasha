@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { DataError } from "@akasha/errors-core/exit-code"
+import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { loadParityAddonTraceFromContent } from "./inventory-parity-trace.module.code.ts"
 
 function savedVariables(accounts: string): string {

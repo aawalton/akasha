@@ -1,4 +1,7 @@
-import { dataError, operationalError } from "@akasha/errors-core/exit-code"
+import {
+  dataError,
+  operationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   type LaunchSeatOpts,
   type LaunchSeatResult,

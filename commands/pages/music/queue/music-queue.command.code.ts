@@ -1,4 +1,7 @@
-import { InputError, isCliError } from "@akasha/errors-core/exit-code"
+import {
+  InputError,
+  isCliError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { ResolvedTrack } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import {
   resolveDeviceId,

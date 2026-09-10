@@ -18,7 +18,6 @@
     "@akasha/code": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/design-system": "workspace:*",
-    "@akasha/errors-core": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages": "workspace:*",

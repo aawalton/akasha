@@ -1,4 +1,4 @@
-import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
+import { exitCodeForThrowable } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { CALENDAR_OAUTH_SCOPE } from "akasha/google/calendar/calendar-credentials/calendar-credentials.module.code.ts"
 import type {
   EventInput,

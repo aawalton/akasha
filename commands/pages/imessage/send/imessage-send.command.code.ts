@@ -1,6 +1,6 @@
 import { readFileSync, statSync } from "node:fs"
 import { basename, resolve } from "node:path"
-import { InputError } from "@akasha/errors-core/exit-code"
+import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
 import {
   JSON_SAID,

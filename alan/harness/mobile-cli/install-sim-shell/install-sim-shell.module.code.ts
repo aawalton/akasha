@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { InputError } from "@akasha/errors-core/exit-code"
 import { codeRoot } from "@akasha/pages/code-root"
+import { InputError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { resolveRepoRoot } from "../git-tree-hash/git-tree-hash.module.code.ts"
 import { MACBOOK } from "../macbook-target/macbook-target.module.code.ts"
 import {

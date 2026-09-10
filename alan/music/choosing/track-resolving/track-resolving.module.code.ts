@@ -1,5 +1,8 @@
-import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
 import { requireMatchPositional } from "@akasha/utils/narrow/require-match-positional"
+import {
+  DataError,
+  OperationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   getDevices,
   getPlaybackState,

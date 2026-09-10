@@ -1,5 +1,5 @@
 import { access, writeFile } from "node:fs/promises"
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { buildCopFetchInit } from "akasha/inference/clients/cop-fetch/cop-fetch.module.code.ts"
 import {
   ensureOutputDir,

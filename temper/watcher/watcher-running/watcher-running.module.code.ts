@@ -1,6 +1,6 @@
 import { mkdirSync, openSync } from "node:fs"
 import { dirname } from "node:path"
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import {
   clearState,
   isPidAlive,

@@ -1,4 +1,4 @@
-import { OperationalError } from "@akasha/errors-core/exit-code"
+import { OperationalError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 import { getHost } from "../inference-hosts/inference-hosts.module.code.ts"
 import { TRAFFIC_COP_SERVICE_NAME } from "../inference-naming/inference-naming.module.code.ts"

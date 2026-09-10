@@ -1,4 +1,4 @@
-import { DataError } from "@akasha/errors-core/exit-code"
+import { DataError } from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items-rules-core/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { RULE_CONSTANT_KEYS } from "akasha/temper/items-rules-core/rule-constants/rule-constants.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/saved-variables/account-wide/account-wide.module.code.ts"

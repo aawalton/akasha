@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
+import {
+  DataError,
+  OperationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import type {
   ResolvableTrack,
   ResolvedTrack,

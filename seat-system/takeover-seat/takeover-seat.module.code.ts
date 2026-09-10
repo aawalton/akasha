@@ -1,5 +1,8 @@
-import { dataError, operationalError } from "@akasha/errors-core/exit-code"
 import { ending } from "@akasha/utils/process/process-ending"
+import {
+  dataError,
+  operationalError,
+} from "akasha/alan/harness/errors-core/exit-code/exit-code.module.code.ts"
 import { decideKillTarget } from "../kill-target-plan/kill-target-plan.module.code.ts"
 import { scanProcEntries } from "../proc-scan/proc-scan.module.code.ts"
 import { seatRecord } from "../seat-facts/seat-facts.module.code.ts"
