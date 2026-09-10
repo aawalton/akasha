@@ -4,6 +4,8 @@ import {
   workloadClassMemberSelector,
 } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
+import { authProxy as authProxyImage } from "akasha/infrastructure/container-image/dockerfiles/built-images/auth-proxy/auth-proxy.built-image.ts"
+import { refOf } from "akasha/infrastructure/container-image/image-ref/image-ref.module.code.ts"
 
 const NAMESPACE = "auth-proxy"
 const APP_NAME = "auth-proxy"
@@ -161,7 +163,7 @@ function deploymentYaml(): string {
           containers: [
             {
               name: APP_NAME,
-              image: "MUST_BE_SET_BY_DEPLOY",
+              image: refOf(authProxyImage),
               imagePullPolicy: "Always",
               ports: [
                 {

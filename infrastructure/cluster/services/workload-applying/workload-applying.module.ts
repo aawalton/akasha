@@ -54,11 +54,15 @@ export const workloadApplying = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here builds the source a workload runs.",
+      statement: "Nothing here reads the command line.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here reads the command line.",
+      invariantKind: "departure",
+      statement: "An image the registry lacks is built before the manifests naming it are applied.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dry run says which image would be built and builds none.",
     },
   ],
 } as const satisfies Module

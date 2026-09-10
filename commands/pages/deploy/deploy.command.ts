@@ -33,7 +33,8 @@ export const deploy = {
     "one call names one thing, and a second name is refused rather than chosen between.",
     "which kind of thing a slug names is read from the pages carrying that slug, and a slug both a web app and an ios app carry is refused rather than chosen between.",
     "a slug a web app and a cluster service both carry names the web app, because putting up that web app puts up the cluster service it names.",
-    "a cluster service no web app names is put up here too, its manifests applied and nothing built, since it runs the image its page names.",
+    "a cluster service no web app names is put up here too, its manifests applied and its image built where the registry does not hold it.",
+    "an image is tagged with the hash of what it was built from, so a checkout that changed nothing names the image already there and builds nothing.",
     "a workstation service is put up here as its systemd units, written where akasha owns them and linked where systemd reads them.",
     "one call reaches one workstation service's own units, and the units of a service the pages no longer account for are swept by `akasha infrastructure service sweep`.",
     "an ios app is named by the `app-slug` its page states, which is its short name rather than the page's own slug.",
@@ -78,10 +79,6 @@ export const deploy = {
     },
     {
       invariantKind: "departure",
-      statement: "A cluster service is put up with nothing built.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A workstation service is put up with nothing built.",
     },
     {
@@ -120,6 +117,11 @@ export const deploy = {
     {
       invariantKind: "departure",
       statement: "A deploy told to be measured runs under no ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A cluster service is put up with the image it runs built where the registry lacks it.",
     },
   ],
 } as const satisfies Command

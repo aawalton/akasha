@@ -3,7 +3,7 @@ import { homedir } from "node:os"
 import { join } from "node:path"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import type { BuiltImage } from "../dockerfiles/built-images/built-image.page-type.types.ts"
-import { ROOT } from "../dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
+import { IMAGES, ROOT } from "../dockerfiles/dockerfile-services/dockerfile-services.module.code.ts"
 import { driftedIn, inputsFor } from "../image-inputs/image-inputs.module.code.ts"
 import { CACHE_TAG, REGISTRY, refFor, repositoryOf } from "../image-ref/image-ref.module.code.ts"
 
@@ -76,15 +76,18 @@ export function buildArgv(at: string, repository: string, ref: string): readonly
 }
 
 export interface Published {
+  readonly slug: string
   readonly ref: string
+  readonly held: boolean
   readonly built: boolean
 }
 
-export async function publish(image: BuiltImage): Promise<Published> {
+export async function publish(image: BuiltImage, dryRun: boolean): Promise<Published> {
   const repository = repositoryOf(image)
   const inputs = inputsFor(image.slug)
   const ref = refFor(repository, inputs.hash)
-  if (await heldInRegistry(repository, inputs.hash)) return { ref, built: false }
+  const held = await heldInRegistry(repository, inputs.hash)
+  if (held || dryRun) return { slug: image.slug, ref, held, built: false }
   const drifted = driftedIn(inputs.copied)
   if (drifted.length > 0) {
     throw new Error(
@@ -96,5 +99,24 @@ export async function publish(image: BuiltImage): Promise<Published> {
   if (done.code !== 0) {
     throw new Error(`building ${ref} exited ${done.code}: ${done.err.trim()}`)
   }
-  return { ref, built: true }
+  return { slug: image.slug, ref, held: false, built: true }
+}
+
+export function pushedImages(): readonly BuiltImage[] {
+  return IMAGES.filter((one) => one.repository !== undefined)
+}
+
+export function claimedIn(yamls: readonly string[]): readonly BuiltImage[] {
+  return pushedImages().filter((one) =>
+    yamls.some((yaml) => yaml.includes(`${REGISTRY}/${repositoryOf(one)}:`))
+  )
+}
+
+export async function publishedFor(
+  yamls: readonly string[],
+  dryRun: boolean
+): Promise<readonly Published[]> {
+  const done: Published[] = []
+  for (const image of claimedIn(yamls)) done.push(await publish(image, dryRun))
+  return done
 }

@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
-import { buildArgv } from "./image-publishing.module.code.ts"
+import { REGISTRY } from "../image-ref/image-ref.module.code.ts"
+import { buildArgv, claimedIn, pushedImages } from "./image-publishing.module.code.ts"
 
 const ARGV = buildArgv("/where/it/was/written", "infra/auth-proxy", "reg/infra/auth-proxy:abc")
 
@@ -20,4 +21,17 @@ test("the cache is kept beside the image rather than under a tag a pull would ta
   const cached = ARGV.filter((one) => one.includes("buildcache"))
   expect(cached).toHaveLength(2)
   for (const one of cached) expect(one).toContain("infra/auth-proxy:buildcache")
+})
+
+test("an image stating no repository is pushed by nothing", () => {
+  expect(pushedImages().map((one) => one.slug)).toEqual(["auth-proxy"])
+})
+
+test("a manifest naming an image in the registry claims that image", () => {
+  const yaml = `      image: ${REGISTRY}/infra/auth-proxy:abcdef012345\n`
+  expect(claimedIn([yaml]).map((one) => one.slug)).toEqual(["auth-proxy"])
+})
+
+test("a manifest naming no image of ours claims nothing", () => {
+  expect(claimedIn(["      image: alpine:3.20\n"])).toHaveLength(0)
 })

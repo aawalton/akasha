@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { publishedFor } from "akasha/infrastructure/container-image/image-publishing/image-publishing.module.code.ts"
 import { textAt, valueAt } from "akasha/pages/value/page-value.module.code.ts"
 import {
   CLUSTER_SERVICE_SUFFIX,
@@ -123,6 +124,19 @@ export async function appliedWorkload(
       ),
       code: DATA,
     }
+  }
+
+  try {
+    for (const one of await publishedFor(
+      plan.manifests.map((manifest) => manifest.yaml),
+      dryRun
+    )) {
+      const how = one.held ? "in the registry" : one.built ? "built and pushed" : "would be built"
+      report.push(`image\t${one.ref}\t${how}`)
+    }
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    return { report, refusals: [why], code: OPERATIONAL }
   }
 
   let differs = false
