@@ -5,6 +5,6 @@ export const dockerfileExtensions = {
   pageTypeSlug: "module",
   type: "module",
   slug: "dockerfile-extensions",
-  definition: "the per-service overrides a deploy folder states for its generated Dockerfile",
+  definition: "what an image adds to the Dockerfile written for it, read off the file beside it",
   code: "ts",
 } as const satisfies Module

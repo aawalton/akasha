@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { existsSync, writeFileSync } from "node:fs"
+import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
 import { assertNever } from "akasha/utils/narrow/assert-never/assert-never.module.code.ts"
@@ -82,13 +82,10 @@ if (targetService != null) {
 }
 
 for (const [name, config] of servicesToGenerate) {
-  const extPath =
+  const ext: DockerfileExtensions =
     config.extensionFile === undefined
-      ? join(ROOT, config.dir, "deploy", "dockerfile-extensions.json")
-      : join(ROOT, config.extensionFile)
-  const ext: DockerfileExtensions = existsSync(extPath)
-    ? parseDockerfileExtensions(readJson(extPath))
-    : {}
+      ? {}
+      : parseDockerfileExtensions(readJson(join(ROOT, config.extensionFile)))
 
   const generated = generateDockerfile(name, config, nameMap, ext, allWorkspaceDirs)
   const outPath = getOutputPath(ROOT, config, ext)

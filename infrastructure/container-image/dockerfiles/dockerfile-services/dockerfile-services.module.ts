@@ -13,9 +13,5 @@ export const dockerfileServices = {
       invariantKind: "departure",
       statement: "An image's extensions file is named from the root rather than from its folder.",
     },
-    {
-      invariantKind: "departure",
-      statement: "An image stating no extensions takes the file its own deploy folder holds.",
-    },
   ],
 } as const satisfies Module
