@@ -7,4 +7,15 @@ export const writeDailyPoints = {
   slug: "write-daily-points",
   definition: "one recomputed reading, landed on the day it is a reading of",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading the day already carries is answered unchanged rather than landed again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading answered unchanged is an outcome rather than a reading that failed.",
+    },
+  ],
 } as const satisfies Module

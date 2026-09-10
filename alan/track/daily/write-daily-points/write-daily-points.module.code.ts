@@ -1,7 +1,8 @@
+import type { Page } from "../day-narrow-types/day-narrow-types.module.code.ts"
 import { DAILY_TRACKING, landDayPage } from "../day-place/day-place.module.code.ts"
 import { dayByDate } from "../day-reading/day-reading.module.code.ts"
 
-export type WriteOutcome = "patched" | "created"
+export type WriteOutcome = "patched" | "created" | "unchanged"
 
 export const POINTS_WRITER = "daily-tracking-points"
 
@@ -16,6 +17,12 @@ const DAY_KEY_OF: Readonly<Record<string, string>> = {
   breathingPoints: "breathing-points",
   wisdomWords: "wisdom-words",
   intelligenceTopics: "intelligence-topics",
+}
+
+export function alreadyCarried(held: Page | null, field: string, value: number): boolean {
+  if (held === null) return false
+  const carried = held[field]
+  return typeof carried === "number" && carried === value
 }
 
 export async function writeDailyReading(
@@ -40,6 +47,7 @@ export async function writeDailyReading(
 
   const held = await dayByDate(dayStr)
   const created = held === null || held.id === ""
+  if (!created && alreadyCarried(held, field, value)) return "unchanged"
   const identity = created
     ? {
         id: Bun.randomUUIDv7(),
