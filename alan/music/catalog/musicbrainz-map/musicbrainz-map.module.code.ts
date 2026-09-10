@@ -5,7 +5,7 @@ import type {
   MbRecording,
   MbWork,
 } from "../musicbrainz-schema/musicbrainz-schema.module.code.ts"
-import type { SongType } from "../songs/properties/song-type.text-property.ts"
+import type { SongType } from "../songs/properties/song-type.select-property.ts"
 import type { Written } from "../songs/properties/written.text-property.ts"
 import type { Song } from "../songs/song.page-type.types.ts"
 
