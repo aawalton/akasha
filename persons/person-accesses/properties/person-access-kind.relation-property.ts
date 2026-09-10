@@ -1,6 +1,6 @@
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type AccessKind = "database-row" | "domain" | "page-type" | "route"
+export type PersonAccessKind = "database-row" | "domain" | "page-type" | "route"
 
 export const personAccessKind = {
   id: "01a0542e-017c-7d0a-bbee-cf9bbe611884",
