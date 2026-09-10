@@ -37,7 +37,7 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "A refusal is read here whether the change said the refusal or the replay found it.",
+        "A refusal is read here whether the change said the refusal or the replay found the refusal.",
     },
     {
       invariantKind: "departure",
@@ -218,7 +218,7 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "An answer stating no edit beyond what a ledger has is cast as the shadow that ledger answers.",
+        "An answer adding no edit to the edits a ledger has is cast as the shadow that ledger answers.",
     },
     {
       invariantKind: "departure",
@@ -269,7 +269,8 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "An edit is added once by which edit it is rather than by the path it names.",
+      statement:
+        "An edit is added once by which edit the edit is rather than by the path the edit names.",
     },
     {
       invariantKind: "departure",
@@ -285,7 +286,10 @@ export const changeShadow = {
       statement:
         "A folder the index files as a page's own is left out of the paths a folder answers.",
     },
-    { invariantKind: "departure", statement: "Every file that folder has is left out with it." },
+    {
+      invariantKind: "departure",
+      statement: "Every file that folder has is left out with the folder.",
+    },
     {
       invariantKind: "departure",
       statement:
@@ -318,7 +322,7 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
-        "Facing a world as the index reads its properties is one act here rather than one per change.",
+        "Facing a world as the index reads its properties is one act here rather than one act per change.",
     },
     {
       invariantKind: "departure",
@@ -327,7 +331,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "Withholding is what a reach does rather than what each change asks for.",
+      statement: "Withholding is done by a reach rather than asked for by each change.",
     },
     {
       invariantKind: "departure",
@@ -341,7 +345,8 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A face reads the index when that face is asked rather than when it is built.",
+      statement:
+        "A face reads the index when that face is asked rather than when that face is built.",
     },
     {
       invariantKind: "departure",
@@ -349,19 +354,19 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach whose answer could turn what is generated builds that face again.",
+      statement: "A reach whose answer could turn the generated bodies builds that face again.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer stating anything but a replace could turn it.",
+      statement: "An answer stating anything but a replace could turn the generated bodies.",
     },
     {
       invariantKind: "departure",
-      statement: "A replace on a page type or on a page property could turn it.",
+      statement: "A replace on a page type or on a page property could turn the generated bodies.",
     },
     {
       invariantKind: "departure",
-      statement: "A replace naming a page's own page type could turn it.",
+      statement: "A replace naming a page's own page type could turn the generated bodies.",
     },
     {
       invariantKind: "departure",
