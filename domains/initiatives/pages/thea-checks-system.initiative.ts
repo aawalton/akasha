@@ -9,11 +9,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "Every check is cheap enough for audit.",
-      workingMemory:
-        "All 56 run over the whole tree and none throws. Counting what a check spawns was broken: bytes() relays a run to a server rather than spawning it, so the kernel cutime childCpuSeconds reads saw none of it and every check recorded 0. Mended at the relay in 7b9218d0. With it counted, 54 sit under the 60s ceiling, worst page-matches-its-type 48.8s, and two go over: lint-clean 278s and tests-pass 105s, nearly all of each in what it spawns. Those two are Alan to settle.",
-    },
-    {
       statement: "Every check is green.",
       workingMemory:
         "Was the last of the steps taken over each check, split off because a check goes on at patch before the tree reaches zero and so is on while still refusing. Nothing measures greenness per check yet. file-has-its-page is the worked case: 629 files claimed by no page, none refused today because patch judges only what a change has. instant-property-slug-closes-with-at is on and green. Touching a file no page claims is refused, so a rename cannot reach one: atlas-web has 21 routes and no pages.",
