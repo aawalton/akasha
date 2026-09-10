@@ -1,4 +1,7 @@
 import { textOf } from "@akasha/code/body-text"
+import type { Naming } from "@akasha/code/code-specifier"
+import { edgesIn } from "@akasha/indexes/import"
+import { manifestsAmong, reachingOf } from "@akasha/indexes/package-reaching"
 import type { Change } from "@akasha/pages/change"
 import type { Replacing } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { said as gitIn } from "../../../git/running/git-running.module.code.ts"
@@ -7,16 +10,15 @@ const MANIFEST = "package.json"
 
 const STYLES_ENDING = ".stylesheet.styles.css"
 
+const TS_ENDING = ".ts"
+
 const TSX_ENDING = ".tsx"
+
+const VITE_ENDING = "/vite.config.ts"
 
 const TAIL = "/**/*.{ts,tsx}"
 
-const DEPENDS_KINDS = [
-  "dependencies",
-  "devDependencies",
-  "peerDependencies",
-  "optionalDependencies",
-]
+const DEPTH = 2
 
 const ENTRY_IMPORT =
   /@import\s+(?:url\s*\(\s*)?["']?tailwindcss["']?\s*\)?\s*(?:layer\s*\([^)]*\)\s*)?;/
@@ -27,12 +29,6 @@ const GLOB_LINE = /^@source\s+(?!inline\b)/
 
 const IMPORT_LINE = /^@(?:charset|import)\b/
 
-export type Reached = {
-  readonly name: string
-  readonly at: string
-  readonly depends: readonly string[]
-}
-
 export type Globbed = {
   readonly edits: readonly Replacing[]
   readonly said: readonly string[]
@@ -40,75 +36,56 @@ export type Globbed = {
 
 const NOTHING_GLOBBED: Globbed = { edits: [], said: [] }
 
-function listedIn(change: Change, ending: string, spec: string): readonly string[] {
-  const held = new Set<string>()
-  for (const path of gitIn(change.root, ["ls-files", "-z", "--", spec]).split("\0")) {
-    if (path.endsWith(ending)) held.add(path)
-  }
+function everyIn(change: Change): readonly string[] {
+  const held = new Set(gitIn(change.root, ["ls-files", "-z"]).split("\0"))
+  held.delete("")
   for (const path of change.changed) {
-    if (!path.endsWith(ending)) continue
     if (change.after(path) === null) held.delete(path)
     else held.add(path)
   }
   return [...held].sort()
 }
 
-function dependsIn(manifest: Record<string, unknown>): readonly string[] {
-  const named: string[] = []
-  for (const kind of DEPENDS_KINDS) {
-    const found = manifest[kind]
-    if (typeof found !== "object" || found === null) continue
-    for (const one of Object.keys(found)) named.push(one)
-  }
-  return named
+export function folderOf(path: string): string {
+  const at = path.lastIndexOf("/")
+  return at === -1 ? "" : path.slice(0, at)
 }
 
-export function reachedIn(change: Change): readonly Reached[] {
-  const read: Reached[] = []
-  for (const path of listedIn(change, MANIFEST, `*/${MANIFEST}`)) {
-    const body = textOf(change.after(path))
+function typedName(path: string): boolean {
+  return path.endsWith(TS_ENDING) || path.endsWith(TSX_ENDING)
+}
+
+export function appFor(at: string, roots: ReadonlySet<string>): string | null {
+  for (let folder = folderOf(at); ; folder = folderOf(folder)) {
+    if (roots.has(folder)) return folder
+    if (folder === "") return null
+  }
+}
+
+export function rolledTo(path: string): string {
+  const folder = folderOf(path)
+  const parts = folder.split("/")
+  return parts.length <= DEPTH ? folder : parts.slice(0, DEPTH).join("/")
+}
+
+export function reachedFrom(
+  seeds: readonly string[],
+  bodyAt: (path: string) => string | null,
+  naming: Naming,
+  known: ReadonlySet<string>
+): ReadonlySet<string> {
+  const found = new Set<string>(seeds)
+  const waiting = [...seeds]
+  for (let one = waiting.pop(); one !== undefined; one = waiting.pop()) {
+    const body = bodyAt(one)
     if (body === null) continue
-    let held: unknown
-    try {
-      held = JSON.parse(body)
-    } catch {
-      continue
+    for (const there of edgesIn(body, one, naming)) {
+      if (found.has(there) || !known.has(there)) continue
+      found.add(there)
+      if (typedName(there)) waiting.push(there)
     }
-    if (typeof held !== "object" || held === null) continue
-    const manifest = Object.fromEntries(Object.entries(held))
-    const name = manifest.name
-    if (typeof name !== "string") continue
-    read.push({ name, at: path.slice(0, -(MANIFEST.length + 1)), depends: dependsIn(manifest) })
   }
-  const named = new Set(read.map((one) => one.name))
-  return read.map((one) => ({
-    name: one.name,
-    at: one.at,
-    depends: [...new Set(one.depends.filter((two) => named.has(two)))],
-  }))
-}
-
-export function ownerOf(path: string, packages: readonly Reached[]): Reached | null {
-  let held: Reached | null = null
-  for (const one of packages) {
-    if (path !== one.at && !path.startsWith(`${one.at}/`)) continue
-    if (held === null || one.at.length > held.at.length) held = one
-  }
-  return held
-}
-
-export function reachedFrom(packages: readonly Reached[], from: string): readonly string[] {
-  const byName = new Map(packages.map((one) => [one.name, one]))
-  const found = new Set<string>()
-  const waiting = [...(byName.get(from)?.depends ?? [])]
-  for (let one = waiting.shift(); one !== undefined; one = waiting.shift()) {
-    if (one === from || found.has(one)) continue
-    const held = byName.get(one)
-    if (held === undefined) continue
-    found.add(one)
-    waiting.push(...held.depends)
-  }
-  return [...found]
+  return found
 }
 
 export function spelledFrom(from: string, to: string): string {
@@ -120,24 +97,18 @@ export function spelledFrom(from: string, to: string): string {
   return parts.length === 0 ? "." : parts.join("/")
 }
 
-export function blockFor(
-  at: string,
-  packages: readonly Reached[],
-  drawing: ReadonlySet<string>
-): string {
-  const owner = ownerOf(at, packages)
-  if (owner === null) return ""
-  const byName = new Map(packages.map((one) => [one.name, one]))
-  const folders: string[] = []
-  for (const name of reachedFrom(packages, owner.name)) {
-    if (!drawing.has(name)) continue
-    const held = byName.get(name)
-    if (held === undefined) continue
-    folders.push(held.at)
+export function blockFor(at: string, app: string, reached: ReadonlySet<string>): string {
+  const folders = new Set<string>()
+  for (const one of reached) {
+    if (!one.endsWith(TSX_ENDING)) continue
+    if (one.startsWith(`${app}/`)) continue
+    const folder = rolledTo(one)
+    if (folder !== "") folders.add(folder)
   }
-  const kept = folders.filter((one) => !folders.some((two) => one.startsWith(`${two}/`)))
-  const from = at.slice(0, at.lastIndexOf("/"))
-  return [...new Set(kept)]
+  const held = [...folders]
+  const kept = held.filter((one) => !held.some((two) => one.startsWith(`${two}/`)))
+  const from = folderOf(at)
+  return kept
     .sort()
     .map((one) => `@source "${spelledFrom(from, one)}${TAIL}";`)
     .join("\n")
@@ -170,23 +141,34 @@ export function isEntry(css: string): boolean {
 }
 
 export function globbedOver(change: Change): Globbed {
-  const packages = reachedIn(change)
-  const drawing = new Set<string>()
-  for (const path of listedIn(change, TSX_ENDING, `*${TSX_ENDING}`)) {
-    const owner = ownerOf(path, packages)
-    if (owner !== null) drawing.add(owner.name)
+  const every = everyIn(change)
+  const known = new Set(every)
+  const read = new Map<string, string | null>()
+  const bodyAt = (path: string): string | null => {
+    const held = read.get(path)
+    if (held !== undefined) return held
+    const body = textOf(change.after(path))
+    read.set(path, body)
+    return body
   }
+  const roots = new Set(
+    every.filter((one) => one.endsWith(VITE_ENDING)).map((one) => folderOf(one))
+  )
+  const naming = reachingOf(manifestsAmong(every, MANIFEST), bodyAt)
   const edits: Replacing[] = []
   const said: string[] = []
-  for (const at of listedIn(change, STYLES_ENDING, `*${STYLES_ENDING}`)) {
+  for (const at of every.filter((one) => one.endsWith(STYLES_ENDING))) {
     const css = textOf(change.after(at))
     if (css === null || !isEntry(css)) continue
-    const block = blockFor(at, packages, drawing)
+    const app = appFor(at, roots)
+    if (app === null) continue
+    const seeds = every.filter((one) => typedName(one) && one.startsWith(`${app}/`))
+    const block = blockFor(at, app, reachedFrom(seeds, bodyAt, naming, known))
     const body = bodyWith(css, block)
     if (body === css) continue
     const many = block === "" ? 0 : block.split("\n").length
     edits.push({ kind: "replace", path: at, contentFrom: css, contentTo: body })
-    said.push(`\`${at}\` was written again with the ${many} source glob(s) its packages warrant`)
+    said.push(`\`${at}\` was written again with the ${many} source glob(s) its imports reach`)
   }
   return { edits, said }
 }
@@ -195,8 +177,7 @@ function couldTurn(change: Change): boolean {
   for (const path of change.changed) {
     if (path === MANIFEST || path.endsWith(`/${MANIFEST}`)) return true
     if (path.endsWith(STYLES_ENDING)) return true
-    if (!path.endsWith(TSX_ENDING)) continue
-    if (change.before(path) === null || change.after(path) === null) return true
+    if (typedName(path)) return true
   }
   return false
 }

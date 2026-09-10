@@ -6,7 +6,7 @@ export const sourceGlobbing = {
   type: "module",
   slug: "source-globbing",
   definition:
-    "the trees a Tailwind entry stylesheet reads utilities from, worked out from its packages",
+    "the trees a Tailwind entry stylesheet reads utilities from, worked out from what its app imports",
   code: "ts",
   test: "ts",
   invariants: [
@@ -21,16 +21,31 @@ export const sourceGlobbing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A glob names a package the stylesheet's own package reaches through the manifests.",
+      statement: "An app is the folder a vite config sits in above the stylesheet.",
     },
     {
       invariantKind: "departure",
-      statement: "A package the globs name is one whose tree has a file a browser draws from.",
+      statement: "The files an app reaches are followed from every file in the app's own tree.",
     },
     {
       invariantKind: "departure",
-      statement: "A package under another the globs already name is left out.",
+      statement: "A file is reached through the imports rather than through the manifests.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A glob names where a file the app reaches that a browser draws from sits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A glob names a folder two below the root rather than the file's own folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The app's own tree is named by no glob, because the build already reads it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder under another the globs already name is left out.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +63,7 @@ export const sourceGlobbing = {
     {
       invariantKind: "departure",
       statement:
-        "The globs are worked out again only where the change could turn what the globs have.",
+        "The globs are worked out again only where the change carries code, a manifest or a stylesheet.",
     },
     {
       invariantKind: "departure",

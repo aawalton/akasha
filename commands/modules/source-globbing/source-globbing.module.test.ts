@@ -1,25 +1,30 @@
 import { expect, test } from "bun:test"
 import {
+  appFor,
   blockFor,
   bodyWith,
   isEntry,
-  ownerOf,
-  type Reached,
   reachedFrom,
+  rolledTo,
   spelledFrom,
 } from "./source-globbing.module.code.ts"
 
-const PACKAGES: readonly Reached[] = [
-  { name: "@a/app", at: "one/app", depends: ["@a/look", "@a/quiet"] },
-  { name: "@a/look", at: "design/look", depends: ["@a/deep"] },
-  { name: "@a/deep", at: "design/look/deep", depends: [] },
-  { name: "@a/quiet", at: "quiet", depends: [] },
-  { name: "@a/far", at: "far", depends: [] },
-]
-
-const DRAWING = new Set(["@a/look", "@a/deep", "@a/far"])
-
 const ENTRY = "one/app/app-look/app-look.stylesheet.styles.css"
+
+const ROOTS = new Set(["one/app", "far/other"])
+
+const BODIES: Record<string, string> = {
+  "one/app/root.tsx": 'import { look } from "../../design/look/look.module.code.tsx"\n',
+  "design/look/look.module.code.tsx": 'import { deep } from "./deep/deep.tsx"\n',
+  "design/look/deep/deep.tsx": 'import { gone } from "../../../nowhere/gone.tsx"\n',
+  "quiet/quiet.ts": "",
+}
+
+const KNOWN = new Set(Object.keys(BODIES))
+
+const NAMING = new Map<string, string>()
+
+const bodyAt = (path: string): string | null => BODIES[path] ?? null
 
 test("a stylesheet whose rules import Tailwind is an entry and one that does not is not", () => {
   expect(isEntry('@import "tailwindcss";\n')).toBe(true)
@@ -30,18 +35,33 @@ test("a comment naming Tailwind makes no entry", () => {
   expect(isEntry('/* @import "tailwindcss"; */\n')).toBe(false)
 })
 
-test("the package owning a path is the one whose folder reaches furthest into it", () => {
-  expect(ownerOf("design/look/deep/one.tsx", PACKAGES)?.name).toBe("@a/deep")
-  expect(ownerOf("design/look/one.tsx", PACKAGES)?.name).toBe("@a/look")
-  expect(ownerOf("nowhere/one.tsx", PACKAGES)).toBe(null)
+test("the app a stylesheet belongs to is the nearest folder above it a vite config sits in", () => {
+  expect(appFor(ENTRY, ROOTS)).toBe("one/app")
+  expect(appFor("quiet/quiet.ts", ROOTS)).toBe(null)
 })
 
-test("the packages reached are the closure rather than the manifest's own line", () => {
-  expect([...reachedFrom(PACKAGES, "@a/app")].sort()).toEqual(["@a/deep", "@a/look", "@a/quiet"])
+test("a folder a glob names is rolled up to two folders below the root", () => {
+  expect(rolledTo("design/look/deep/deep.tsx")).toBe("design/look")
+  expect(rolledTo("quiet/quiet.ts")).toBe("quiet")
 })
 
-test("a package no browser draws from and a package outside the closure name no glob", () => {
-  expect(blockFor(ENTRY, PACKAGES, DRAWING)).toBe('@source "../../../design/look/**/*.{ts,tsx}";')
+test("what an app reaches is followed through its imports rather than through the manifests", () => {
+  const found = reachedFrom(["one/app/root.tsx"], bodyAt, NAMING, KNOWN)
+  expect([...found].sort()).toEqual([
+    "design/look/deep/deep.tsx",
+    "design/look/look.module.code.tsx",
+    "one/app/root.tsx",
+  ])
+})
+
+test("a name landing on no file in the repository is reached by nothing", () => {
+  const found = reachedFrom(["design/look/deep/deep.tsx"], bodyAt, NAMING, KNOWN)
+  expect(found.has("nowhere/gone.tsx")).toBe(false)
+})
+
+test("a glob names where a reached tsx sits, and the app's own tree names none", () => {
+  const found = reachedFrom(["one/app/root.tsx"], bodyAt, NAMING, KNOWN)
+  expect(blockFor(ENTRY, "one/app", found)).toBe('@source "../../../design/look/**/*.{ts,tsx}";')
 })
 
 test("a glob is spelled against the folder the stylesheet sits in", () => {
