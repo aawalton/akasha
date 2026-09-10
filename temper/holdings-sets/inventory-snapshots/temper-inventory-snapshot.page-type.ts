@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperHoldingsThing } from "../temper-holdings-things/temper-holdings-thing.page-type.types.ts"
+import type { TemperHoldingsThing } from "../things/temper-holdings-thing.page-type.types.ts"
 import type { BagSizes } from "./properties/bag-sizes.page-property-entry.ts"
 import type { ChunkCount } from "./properties/chunk-count.number-property.ts"
 import type { CraftingLevels } from "./properties/crafting-levels.page-property-entry.ts"
