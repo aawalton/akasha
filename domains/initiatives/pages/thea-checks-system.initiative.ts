@@ -9,10 +9,9 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement:
-        "Each check runs as its own spawned process, held to the ceilings its page states.",
+      statement: "Every check is held to the ceilings its page states.",
       workingMemory:
-        "checking requires a check in process by createRequire and awaits it with no deadline. loadedBy names module/checking but nothing reads it, checks being found by page type id. The boundary is shadow.index: 37 live methods over lazily memoised state, 123 call sites, answering the index as the change would leave it. check-cost already measures wall, cpu and peak bytes per check and refuses nothing. Only test states a ceiling, maxCpuSeconds 5.",
+        "check-cost measures wall, cpu, child cpu, peak bytes and peak added bytes for every check, and its own page says nothing there refuses a run for its cost. That refusal is the work. Only test states a ceiling, maxCpuSeconds 5; maxWallSeconds and maxMemoryMb have no producer and no consumer. Alan has ruled out a spawn per check, so a check that never yields is out of reach: nothing in akasha bounds one, and a cost is known only once the run returns.",
     },
     {
       statement: "Every check is cheap enough for audit.",
