@@ -1,6 +1,6 @@
-import { stockfishAvailable } from "@akasha/chess-core/chess-engine"
-import { evaluate } from "@akasha/chess-core/chess-position"
-import { parseFen } from "@akasha/chess-core/chess-uci"
+import { stockfishAvailable } from "akasha/alan/chess/engine/chess-engine.module.code.ts"
+import { evaluate } from "akasha/alan/chess/position/chess-position.module.code.ts"
+import { parseFen } from "akasha/alan/chess/uci/chess-uci.module.code.ts"
 import { z } from "zod"
 
 const requestSchema = z.object({ fen: z.string().min(1) })

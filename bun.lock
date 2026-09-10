@@ -22,6 +22,7 @@
         "@akasha/pages-query": "workspace:*",
         "@akasha/pages-service": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
+        "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
         "@akasha/seat-system": "workspace:*",
@@ -39,6 +40,8 @@
         "@vscode/ripgrep": "^1.18.0",
         "akasha": "link:.",
         "cdk8s": "^2.70.60",
+        "chess.js": "^1.4.0",
+        "chessground": "^9.2.1",
         "class-variance-authority": "^0.7.1",
         "extract-zip": "^2.0.1",
         "fflate": "0.8.3",
@@ -115,20 +118,6 @@
         "vite": "^8.0.3",
       },
     },
-    "alan/chess": {
-      "name": "@akasha/chess-core",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/pages-ui-components": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "chess.js": "^1.4.0",
-        "chessground": "^9.2.1",
-        "zod": "^4.3.6",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
-    },
     "alan/harness/calendar-sync": {
       "name": "@akasha/calendar-sync",
       "dependencies": {
@@ -185,7 +174,6 @@
     "alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
-        "@akasha/chess-core": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
@@ -262,7 +250,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/alanwalton-web": "workspace:*",
-        "@akasha/chess-core": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -1010,8 +997,6 @@
     "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/storage/backups/retention"],
 
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:alan/harness/calendar-sync"],
-
-    "@akasha/chess-core": ["@akasha/chess-core@workspace:alan/chess"],
 
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 

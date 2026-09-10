@@ -17,7 +17,7 @@ type PageDetailLoaderData = Awaited<ReturnType<typeof pageDetailLoader>>["data"]
 
 const IdleGame = lazy(() => import("../../idle-game/idle-game.module.code.tsx"))
 
-const ChessBoard = lazy(() => import("@akasha/chess-core/chess-board"))
+const ChessBoard = lazy(() => import("akasha/alan/chess/board/chess-board.module.code.tsx"))
 
 export function buildPageDetailMeta(
   loaderData: { title: string | null; faviconIdSuffix: string | null } | undefined

@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const chess = {
   id: "01a05be1-cb07-74d3-b8ca-8a6e71097f9b",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "chess",
   definition: "a chess engine spoken to as a program, and a game played out through it",
-  manifest: "json",
   parts: [
     "module/chess-engine",
     "module/chess-uci",
@@ -27,4 +26,4 @@ export const chess = {
     "page-type/chess-puzzle-set",
     "page-type/chess-review-session",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

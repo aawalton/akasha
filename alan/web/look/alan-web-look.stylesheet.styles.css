@@ -15,7 +15,6 @@
   --font-read: "Literata Variable", "Literata Fallback", "Iowan Old Style", Georgia, Cambria, serif;
 }
 
-@source "../../chess/**/*.{ts,tsx}";
 @source "../../harness/errors-client/**/*.{ts,tsx}";
 @source "../../harness/supabase-rr/**/*.{ts,tsx}";
 @source "../../../design/forms/**/*.{ts,tsx}";

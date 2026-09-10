@@ -29,7 +29,7 @@ export const alan = {
     "router-app/alan-atlas-web",
     "router-app/alan-web",
     "router-app/alan-web-capacitor",
-    "workspace-package/chess",
+    "domain/chess",
     "domain/eso",
     "domain/medicine",
     "page-type/value",

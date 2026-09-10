@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "@akasha/alanwalton-web": "workspace:*",
-    "@akasha/chess-core": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
