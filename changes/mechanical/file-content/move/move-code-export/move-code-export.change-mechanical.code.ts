@@ -38,21 +38,49 @@ type Plan = {
 
 type Refused = { readonly refused: string }
 
-function aliasIn(source: ts.SourceFile, of: string): ts.TypeAliasDeclaration | null {
+type Held =
+  | ts.TypeAliasDeclaration
+  | ts.InterfaceDeclaration
+  | ts.FunctionDeclaration
+  | ts.VariableStatement
+
+function declaresOne(one: ts.VariableStatement, of: string): boolean {
+  return one.declarationList.declarations.some(
+    (each) => ts.isIdentifier(each.name) && each.name.text === of
+  )
+}
+
+function declaredIn(source: ts.SourceFile, of: string): Held | null {
   for (const one of source.statements) {
     if (ts.isTypeAliasDeclaration(one) && one.name.text === of) return one
+    if (ts.isInterfaceDeclaration(one) && one.name.text === of) return one
+    if (ts.isFunctionDeclaration(one) && one.name?.text === of) return one
+    if (ts.isVariableStatement(one) && declaresOne(one, of)) return one
   }
   return null
 }
 
-function exported(declared: ts.TypeAliasDeclaration): boolean {
+function exported(declared: Held): boolean {
   return (declared.modifiers ?? []).some((one) => one.kind === ts.SyntaxKind.ExportKeyword)
+}
+
+function typed(declared: Held): boolean {
+  return ts.isTypeAliasDeclaration(declared) || ts.isInterfaceDeclaration(declared)
+}
+
+function spelt(one: ts.Identifier): boolean {
+  const up = one.parent
+  if (ts.isImportSpecifier(up) || ts.isImportClause(up) || ts.isNamespaceImport(up)) return true
+  if (ts.isPropertyAccessExpression(up) && up.name === one) return true
+  if (ts.isPropertyAssignment(up) && up.name === one) return true
+  return ts.isPropertySignature(up) && up.name === one
 }
 
 function namesIn(held: ts.Node): readonly string[] {
   const found: string[] = []
   const walked = (one: ts.Node): undefined => {
     if (ts.isTypeReferenceNode(one) && ts.isIdentifier(one.typeName)) found.push(one.typeName.text)
+    if (ts.isIdentifier(one) && !spelt(one)) found.push(one.text)
     return ts.forEachChild(one, walked)
   }
   walked(held)
@@ -68,32 +96,44 @@ function textOfNode(text: string, one: ts.Node): string {
   return text.slice(one.getStart(one.getSourceFile()), one.getEnd())
 }
 
-function importsIn(source: ts.SourceFile): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
+type Carried = {
+  readonly from: string
+  readonly type: boolean
+}
+
+function importsIn(source: ts.SourceFile): ReadonlyMap<string, Carried> {
+  const found = new Map<string, Carried>()
   for (const one of source.statements) {
     if (!ts.isImportDeclaration(one)) continue
     const bound = namedIn(one)
     const named = one.moduleSpecifier
     if (bound === null || !ts.isStringLiteral(named)) continue
-    for (const each of bound.elements) found.set(each.name.text, named.text)
+    const whole = one.importClause?.isTypeOnly === true
+    for (const each of bound.elements) {
+      found.set(each.name.text, { from: named.text, type: whole || each.isTypeOnly })
+    }
   }
   return found
 }
 
-function carriedIn(declared: ts.TypeAliasDeclaration): ReadonlyMap<string, string> {
+function carriedIn(declared: Held): ReadonlyMap<string, Carried> {
   const held = importsIn(declared.getSourceFile())
-  const found = new Map<string, string>()
-  for (const name of namesIn(declared.type)) {
+  const found = new Map<string, Carried>()
+  for (const name of namesIn(declared)) {
     const named = held.get(name)
     if (named !== undefined) found.set(name, named)
   }
   return found
 }
 
-function bodyFor(carried: ReadonlyMap<string, string>, passage: string): string {
+function lineFor(name: string, spelled: string, type: boolean): string {
+  return `import ${type ? "type " : ""}{ ${name} } from ${JSON.stringify(spelled)}`
+}
+
+function bodyFor(carried: ReadonlyMap<string, Carried>, passage: string): string {
   const lines = [...carried]
-    .sort((one, two) => one[1].localeCompare(two[1]))
-    .map(([name, named]) => `import type { ${name} } from ${JSON.stringify(named)}`)
+    .sort((one, two) => one[1].from.localeCompare(two[1].from))
+    .map(([name, named]) => lineFor(name, named.from, named.type))
   const held = `${passage.replace(/^\n+/, "").trimEnd()}${LINE}`
   return lines.length === 0 ? held : `${lines.join(LINE)}${LINE}${LINE}${held}`
 }
@@ -137,7 +177,7 @@ function droppedIn(
   text: string,
   source: ts.SourceFile,
   at: string,
-  carried: ReadonlyMap<string, string>
+  carried: ReadonlyMap<string, Carried>
 ): readonly Passage[] {
   const still = new Set(namesIn(source))
   const found: Passage[] = []
@@ -164,10 +204,9 @@ function leftBy(text: string, gone: readonly Passage[]): string {
   return held
 }
 
-function backIn(text: string, source: ts.SourceFile, given: Asked): Passage | null {
+function backIn(text: string, source: ts.SourceFile, given: Asked, type: boolean): Passage | null {
   if (!namesIn(source).includes(given.of)) return null
-  const spelled = specifierFor(dirname(given.from), given.to)
-  const line = `import type { ${given.of} } from ${JSON.stringify(spelled)}`
+  const line = lineFor(given.of, specifierFor(dirname(given.from), given.to), type)
   const anchor = anchorIn(text, source)
   if (anchor === null) return { at: given.from, old: text, new: `${line}${LINE}${LINE}${text}` }
   return { at: given.from, old: anchor, new: `${anchor}${LINE}${line}` }
@@ -186,7 +225,9 @@ function pointedAt(
     const head = text.slice(one.getStart(source), named.getStart(source))
     return `${head}${landing}${text.slice(named.getEnd(), one.getEnd())}`
   }
-  const line = `import type { ${given.of} } from ${landing}`
+  const each = bound.elements.find((held) => held.name.text === given.of)
+  const type = one.importClause?.isTypeOnly === true || each?.isTypeOnly === true
+  const line = `import ${type ? "type " : ""}{ ${given.of} } from ${landing}`
   return `${withoutName(text, one, bound, given.of)}${LINE}${line}`
 }
 
@@ -248,7 +289,7 @@ function repointedIn(world: World, given: Asked): { readonly found: readonly Pas
 function planFor(
   given: Asked,
   text: string,
-  declared: ts.TypeAliasDeclaration,
+  declared: Held,
   repointed: readonly Passage[],
   adding: boolean
 ): Plan {
@@ -258,7 +299,7 @@ function planFor(
   const source = parsedAs(given.from, left)
   const gone = droppedIn(left, source, given.from, carried)
   const rest = leftBy(left, gone)
-  const back = backIn(rest, parsedAs(given.from, rest), given)
+  const back = backIn(rest, parsedAs(given.from, rest), given, typed(declared))
   return {
     taken: { at: given.from, old: passage, new: "" },
     body: bodyFor(carried, passage),
@@ -268,7 +309,7 @@ function planFor(
 }
 
 function exportedIn(at: string, text: string, of: string): boolean {
-  const declared = aliasIn(parsedAs(at, text), of)
+  const declared = declaredIn(parsedAs(at, text), of)
   return declared !== null && exported(declared)
 }
 
@@ -278,11 +319,11 @@ function planned(world: World, given: Asked): Plan | Refused {
   if (text === null) return { refused: `\`${given.from}\` could not be read` }
   const landed = world.textOf(given.to)
   if (landed !== null && !exportedIn(given.to, landed, given.of)) {
-    return { refused: `\`${given.to}\` is a body declaring no exported type named \`${given.of}\`` }
+    return { refused: `\`${given.to}\` is a body declaring no export named \`${given.of}\`` }
   }
-  const declared = aliasIn(parsedAs(given.from, text), given.of)
+  const declared = declaredIn(parsedAs(given.from, text), given.of)
   if (declared === null) {
-    return { refused: `\`${given.from}\` declares no type named \`${given.of}\`` }
+    return { refused: `\`${given.from}\` declares nothing named \`${given.of}\`` }
   }
   if (!exported(declared)) return { refused: `\`${given.of}\` is declared under no export` }
   const repointed = repointedIn(world, given)

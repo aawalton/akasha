@@ -219,7 +219,7 @@ test("a landing path holding a body declaring no such type is refused", async ()
   const said = await runChange(world, { from: FROM, to: TO, of: "Kept" })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${TO}\` is a body declaring no exported type named \`Kept\``)
+  expect(said.refused).toBe(`\`${TO}\` is a body declaring no export named \`Kept\``)
 })
 
 test("a landing path already declaring that type is left as it is", async () => {
@@ -233,11 +233,67 @@ test("a landing path already declaring that type is left as it is", async () => 
   expect(puttingAt(said, USES)).toEqual([`import type { Kept } from "./two.held.ts"`])
 })
 
-test("a body declaring no such type is refused", async () => {
+test("a body declaring nothing of that name is refused", async () => {
   const said = await runChange(worldOf({ [FROM]: HELD }), { from: FROM, to: TO, of: "Missing" })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${FROM}\` declares no type named \`Missing\``)
+  expect(said.refused).toBe(`\`${FROM}\` declares nothing named \`Missing\``)
+})
+
+const VALUED = `import { join } from "node:path"
+
+export const AT = join("a", "b")
+
+export type Other = {
+  readonly name: string
+}
+`
+
+const VALUE_USING = `import { AT } from "./one.held.ts"
+
+export const held = AT
+`
+
+const VALUE_LANDED = `import { join } from "node:path"
+
+export const AT = join("a", "b")
+`
+
+test("an exported value moves with the import its body names", async () => {
+  const world = worldOf({ [FROM]: VALUED, [USES]: VALUE_USING }, [USES])
+
+  const said = await runChange(world, { from: FROM, to: TO, of: "AT" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, TO)).toBe(VALUE_LANDED)
+  expect(puttingAt(said, USES)).toEqual([`import { AT } from "./two.held.ts"`])
+})
+
+test("an import the body left behind no longer names goes with an exported value", async () => {
+  const said = await runChange(worldOf({ [FROM]: VALUED }), { from: FROM, to: TO, of: "AT" })
+
+  expect(takenAt(said, FROM)).toContain(`import { join } from "node:path"\n`)
+})
+
+const FUNCTIONED = `import { join } from "node:path"
+
+export function at(one: string): string {
+  return join(one, "b")
+}
+`
+
+const FUNCTION_LANDED = `import { join } from "node:path"
+
+export function at(one: string): string {
+  return join(one, "b")
+}
+`
+
+test("an exported function moves whole", async () => {
+  const said = await runChange(worldOf({ [FROM]: FUNCTIONED }), { from: FROM, to: TO, of: "at" })
+
+  expect(said.refused).toBeNull()
+  expect(addedAt(said, TO)).toBe(FUNCTION_LANDED)
 })
 
 const NAMED_USING = `import type { Kept } from "@held/one/one"

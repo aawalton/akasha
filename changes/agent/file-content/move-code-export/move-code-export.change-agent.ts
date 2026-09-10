@@ -6,13 +6,13 @@ export const moveCodeExport = {
   type: "change-agent",
   slug: "move-code-export",
   changeMode: "change-mode-move",
-  definition: "one exported type moved to a sibling body, judged by the checks a landing runs",
+  definition: "one export moved to another code body, judged by the checks a landing runs",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The path moved from, the path moved to and the type named are three arguments.",
+      statement: "The path moved from, the path moved to and the name moved are three arguments.",
     },
     {
       invariantKind: "departure",

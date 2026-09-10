@@ -7,8 +7,7 @@ export const moveCodeExport = {
   slug: "move-code-export",
   changeMode: "change-mode-move",
   changeTargetType: "change-target-type/file-content",
-  definition:
-    "one exported type moved from one code body to another, with every importer repointed",
+  definition: "one export moved from one code body to another, with every importer repointed",
   code: "ts",
   test: "ts",
   guards: ["change-guard/import-not-left-hanging"],
@@ -23,11 +22,11 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing path already declaring that exported type is left as it is.",
+      statement: "A landing path already declaring that export is left as it is.",
     },
     {
       invariantKind: "departure",
-      statement: "A landing path holding a body declaring no such exported type is refused.",
+      statement: "A landing path holding a body declaring no such export is refused.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +35,15 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A body declaring no exported type of that name is refused.",
+      statement: "A body declaring nothing exported of that name is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type, an interface, a function and a value are each moved the same way.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An import written here names a type only where the thing it names is a type.",
     },
     {
       invariantKind: "departure",
@@ -49,11 +56,11 @@ export const moveCodeExport = {
     {
       invariantKind: "departure",
       statement:
-        "The import naming the type where it landed is worked out over the body those departures leave.",
+        "The import naming it where it landed is worked out over the body those departures leave.",
     },
     {
       invariantKind: "departure",
-      statement: "Every body importing that type names the path that type landed at.",
+      statement: "Every body importing that export names the path that export landed at.",
     },
     {
       invariantKind: "absence",
@@ -61,7 +68,7 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A body naming that type through a package names it from the workspace root.",
+      statement: "A body naming that export through a package names it from the workspace root.",
     },
   ],
   changeKind: "change-mechanical",
