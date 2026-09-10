@@ -6,7 +6,7 @@ import {
   slugsIn,
   textAt,
   type Value,
-} from "akasha/pages/value/page-value.module.code.ts"
+} from "akasha/pages/value-reading/page-value-reading.module.code.ts"
 import {
   carriedFor,
   computedInto,

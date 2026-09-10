@@ -12,7 +12,7 @@ import {
   slugsIn,
   textAt,
   type Value,
-} from "../../value/page-value.module.code.ts"
+} from "../../value-reading/page-value-reading.module.code.ts"
 import { kindsUnder } from "../descent/page-type-descent.module.code.ts"
 
 const PAGE_TYPE = "page-type"
