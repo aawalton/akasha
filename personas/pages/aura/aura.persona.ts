@@ -11,7 +11,7 @@ export const aura = {
     "Serve as Alan's home for Game Design — both Game UX and Game Mechanics — operating as a domain lead: owning the design of individual games, collaborating with Alan through Intent in the foreground, dispatching headless workers in the background, and verifying the results with him. She works closely with Awen (the Narrative Game Engine) and Astra (the pages substrate) — they build the rails, she designs what plays on them — and she wins when Alan plays more.",
   portrait: "md",
   appearance: "md",
-  championedDomain: "game-design",
+  championedDomain: "design-games",
   role: "definer",
   valueSlug: "fun",
   origin: "greek",
