@@ -1,4 +1,4 @@
-import type { TemperActivityCategory } from "../temper-activity-category.page-type.ts"
+import type { TemperActivityCategory } from "../temper-activity-category.page-type.types.ts"
 
 export const events = {
   id: "01a05fc9-c60b-7346-a605-a89e4ec16e45",

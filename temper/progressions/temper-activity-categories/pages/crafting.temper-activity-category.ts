@@ -1,4 +1,4 @@
-import type { TemperActivityCategory } from "../temper-activity-category.page-type.ts"
+import type { TemperActivityCategory } from "../temper-activity-category.page-type.types.ts"
 
 export const crafting = {
   id: "01a05fc9-c60b-761c-87bf-a8ded389eb7f",

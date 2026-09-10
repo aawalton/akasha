@@ -1,4 +1,4 @@
-import type { TemperActivityCategory } from "../temper-activity-category.page-type.ts"
+import type { TemperActivityCategory } from "../temper-activity-category.page-type.types.ts"
 
 export const characters = {
   id: "01a05fc9-c60a-7816-bf12-ae0b7a8d6514",

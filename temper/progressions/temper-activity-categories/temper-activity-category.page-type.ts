@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.types.ts"
-import type { BadgeVariant } from "./properties/badge-variant.text-property.ts"
-
-export type TemperActivityCategory = TemperProgressThing & {
-  badgeVariant: BadgeVariant
-}
 
 export const temperActivityCategory = {
   id: "01a05fc9-9a01-773d-b715-ed0cbfa91604",
@@ -19,4 +13,5 @@ export const temperActivityCategory = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/badge-variant", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
