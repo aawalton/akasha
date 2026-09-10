@@ -49,7 +49,7 @@ export const upkeepSurplus = {
     },
     {
       invariantKind: "departure",
-      statement: "How fast it falls is what an hour of each running stretch costs, added up.",
+      statement: "How fast it falls is the sum of what an hour of each running stretch costs.",
     },
     {
       invariantKind: "departure",
