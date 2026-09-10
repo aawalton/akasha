@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "../../domain.page-type.ts"
-
-export type ProseFrame = Domain
 
 export const proseFrame = {
   id: "01a08241-f81d-7e21-8584-c7cc1ab6cf98",
@@ -31,4 +28,5 @@ export const proseFrame = {
       statement: "A word no frame here names is no construction Standard Agent English rewrites.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

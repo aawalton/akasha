@@ -1,4 +1,4 @@
-import type { ProseFrame } from "../prose-frame.page-type.ts"
+import type { ProseFrame } from "../prose-frame.page-type.types.ts"
 
 export const fronted = {
   id: "01a08242-1756-73e5-b7a0-e8ca5202fb53",

@@ -1,4 +1,4 @@
-import type { ProseFrame } from "../prose-frame.page-type.ts"
+import type { ProseFrame } from "../prose-frame.page-type.types.ts"
 
 export const placed = {
   id: "01a08242-374d-70b3-b354-bbf9ff8dd631",
