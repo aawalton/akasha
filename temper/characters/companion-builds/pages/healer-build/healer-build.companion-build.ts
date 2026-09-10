@@ -1,4 +1,4 @@
-import type { CompanionBuild } from "../../companion-build.page-type.ts"
+import type { CompanionBuild } from "../../companion-build.page-type.types.ts"
 
 export const healerBuild = {
   id: "01a06862-a02e-71c5-8609-ba751a8c445b",

@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { BuildCorrelationId } from "../character-builds/properties/build-correlation-id.text-property.ts"
-import type { BuildTargetCount } from "../character-builds/properties/build-target-count.number-property.ts"
-import type { BuildVisibility } from "../character-builds/properties/build-visibility.select-property.ts"
-import type { BuildHash } from "../temper-build-versions/properties/build-hash.text-property.ts"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
-import type { BaseRoles } from "./properties/base-roles.select-property.ts"
-
-export type CompanionBuild = TemperCharacterThing & {
-  buildHash: BuildHash
-  visibility: BuildVisibility
-  correlationId?: BuildCorrelationId
-  targetCount?: BuildTargetCount
-  baseRoles?: BaseRoles
-}
 
 export const companionBuild = {
   id: "01a06835-fae8-7a27-90c7-c499c3e046cc",
@@ -57,4 +43,5 @@ export const companionBuild = {
       statement: "A build's name is its title rather than a second field saying the same.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

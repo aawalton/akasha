@@ -1,4 +1,4 @@
-import type { CompanionBuild } from "../../companion-build.page-type.ts"
+import type { CompanionBuild } from "../../companion-build.page-type.types.ts"
 
 export const tankBuild = {
   id: "019f9609-8e9d-7910-ab89-d90c22ef3ba8",

@@ -1,4 +1,4 @@
-import type { CompanionBuild } from "../../companion-build.page-type.ts"
+import type { CompanionBuild } from "../../companion-build.page-type.types.ts"
 
 export const sweepTestComp = {
   id: "01a06862-a02e-708e-b1e4-b792a623c517",

@@ -1,4 +1,4 @@
-import type { CompanionBuild } from "../../companion-build.page-type.ts"
+import type { CompanionBuild } from "../../companion-build.page-type.types.ts"
 
 export const comp15882BuildCopy = {
   id: "01a06862-a02e-7ed3-b879-658317455017",
