@@ -25,7 +25,7 @@ export const generated = {
     },
     {
       invariantKind: "departure",
-      statement: "The page states this rather than the declaration file's own first lines.",
+      statement: "The page states the command rather than the declaration file's own first lines.",
     },
     {
       invariantKind: "departure",

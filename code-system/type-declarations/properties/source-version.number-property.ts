@@ -14,7 +14,7 @@ export const sourceVersion = {
     {
       invariantKind: "departure",
       statement:
-        "The version is read from the source rather than chosen by whoever runs the command.",
+        "The version is read from the source rather than chosen by the person running the command.",
     },
     {
       invariantKind: "departure",

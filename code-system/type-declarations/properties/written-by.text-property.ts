@@ -14,7 +14,7 @@ export const writtenBy = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The command is spelled as a reader would say it on a command line.",
+      statement: "The command is spelled as a reader would say the command on a command line.",
     },
   ],
 } as const satisfies TextProperty
