@@ -16,12 +16,12 @@ export const dallaDeployCleanup = {
     {
       statement: "Every ios app has deployed through `akasha deploy`.",
       workingMemory:
-        "Three ios apps: alanwalton, smilingjenny, atlas. Three roads reach a phone. `akasha deploy <slug>` cuts to TestFlight off the mac. `ios-app` builds there too, reaching the mac by `AKASHA_MAC_HOST` defaulting to the alias `macbook`, where the harness hardcodes `walton@100.64.0.2`. `mobile-deploy-device` builds and installs to a plugged-in phone, and its page states the commit built is `origin/main` rather than the one this checkout is at, so it cannot install what you are on.\n",
+        "Three ios apps. `akasha deploy <slug> --ref HEAD --no-upload` archived, exported and had Apple validate alanwalton (build 211) and smilingjenny (build 25) on 2026-09-10, so the road is proven for both. atlas will not archive: its page named a native shell no checkout has, now mended, and it states no `webDirectory` and no `programs`, so nothing stages `public`, `config.xml` and `capacitor.config.json` into its Xcode project. Left: the upload for the two, and whether atlas is meant to ship.\n",
     },
     {
       statement: "No competing akasha build or deploy command exists.",
       workingMemory:
-        "`infrastructure-workload-apply` is deleted and `infrastructure service install` with it, both roads folded into the deploy. Left for a phone: `ios-app` and `mobile-deploy-device`, which build on the mac by two engines sharing no code and pick a commit three different ways. Left for an image: three shell scripts running buildctl by hand, and 7 built-image pages a dead generator writes for `cluster/bun-git` and `cluster/ci`, the two the cluster pulls.\n",
+        "`infrastructure-workload-apply` is deleted and `infrastructure service install` with it, both folded into the deploy. Left for a phone: `akasha ios-app build`, which installs on a simulator, and `akasha mobile deploy device`, which installs to a phone plugged into the mac off `origin/main` rather than off what this checkout is at. Two engines sharing no code with the deploy's. Left for an image: three shell scripts running buildctl by hand, and 7 built-image pages a dead generator writes.\n",
     },
   ],
   constraints: [
