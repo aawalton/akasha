@@ -1,5 +1,5 @@
+import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
 import { asLua1Based, asNumber, asString } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { LCCC } from "../knowledge-lccc/knowledge-lccc.module.code.ts"
 import type { ScribingType } from "../knowledge-shape/knowledge-shape.module.code.ts"
 import { INTERNAL } from "../knowledge-state/knowledge-state.module.code.ts"
 

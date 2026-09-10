@@ -40,11 +40,6 @@ export function asNumberArray(value: unknown): NumberArray {
   return value as NumberArray
 }
 
-type StringArray = string[]
-export function asStringArray(value: unknown): StringArray {
-  return value as StringArray
-}
-
 type Callback = (this: void, ...args: unknown[]) => void
 export function asCallback(value: unknown): Callback {
   return value as Callback

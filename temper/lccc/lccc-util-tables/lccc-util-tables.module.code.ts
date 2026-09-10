@@ -25,11 +25,13 @@ export function getSortedKeys(
 }
 
 export function countTable(this: void, tbl: Record<string | number, unknown>): number {
-  const held: Array<string | number> = []
-  for (const [key] of pairs(tbl)) {
-    held.push(key)
+  let count = 0
+  for (const [, value] of pairs(tbl)) {
+    if (value !== undefined) {
+      count = count + 1
+    }
   }
-  return held.length
+  return count
 }
 
 export function processNumericTable(

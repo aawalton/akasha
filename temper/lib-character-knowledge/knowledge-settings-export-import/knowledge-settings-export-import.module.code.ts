@@ -1,5 +1,5 @@
+import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
 import { asRecord, asString } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { LCCC } from "../knowledge-lccc/knowledge-lccc.module.code.ts"
 import type { ExportEntry, ExportEntryMeta } from "../knowledge-ldei/knowledge-ldei.module.code.ts"
 import { LDEI } from "../knowledge-ldei/knowledge-ldei.module.code.ts"
 import { INTERNAL, PUBLIC } from "../knowledge-state/knowledge-state.module.code.ts"

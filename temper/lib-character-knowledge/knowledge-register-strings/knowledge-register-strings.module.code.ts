@@ -1,4 +1,4 @@
-import { LCCC } from "../knowledge-lccc/knowledge-lccc.module.code.ts"
+import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
 import { STRINGS_DEFAULT } from "../knowledge-strings-default/knowledge-strings-default.module.code.ts"
 import { STRINGS_ES } from "../knowledge-strings-es/knowledge-strings-es.module.code.ts"
 import { STRINGS_FR } from "../knowledge-strings-fr/knowledge-strings-fr.module.code.ts"

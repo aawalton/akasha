@@ -1,5 +1,5 @@
+import { LCCC } from "akasha/temper/lccc/lccc/lccc.module.code.ts"
 import { asNumber } from "../knowledge-casts/knowledge-casts.module.code.ts"
-import { LCCC } from "../knowledge-lccc/knowledge-lccc.module.code.ts"
 import {
   asCraftNode,
   getReverseLookup,

@@ -1,6 +1,6 @@
 import "../knowledge-public-api/knowledge-public-api.module.code.ts"
 
-import "../knowledge-lccc/knowledge-lccc.module.code.ts"
+import "akasha/temper/lccc/lccc/lccc.module.code.ts"
 
 import "../knowledge-ldei/knowledge-ldei.module.code.ts"
 

@@ -12,11 +12,11 @@ const SERVER_NAME_MAP: Record<string, string> = {
   "PS4live-eu": "EU",
 }
 
-const rawWorldName = GetWorldName()
-const serverName: string = SERVER_NAME_MAP[rawWorldName] ?? rawWorldName
+const RAW_WORLD_NAME = GetWorldName()
+const SERVER_NAME: string = SERVER_NAME_MAP[RAW_WORLD_NAME] ?? RAW_WORLD_NAME
 
 export function getServerName(this: void): string {
-  return serverName
+  return SERVER_NAME
 }
 
 const LOADSCREEN = { count: 0 }
@@ -34,23 +34,23 @@ export function runAfterInitialLoadscreen(
   )
 }
 
-const zoneEventName = string.format("%s%d_ZoneChange", NAME, VERSION)
+const ZONE_EVENT_NAME = string.format("%s%d_ZoneChange", NAME, VERSION)
 const ZONE_CALLBACKS: Record<
   string,
   ((this: void, currentZoneId: number, previousZoneId: number) => void) | undefined
 > = {}
-const ZONE_WATCH = { registered: false }
-let currentZoneId: number | undefined
-let currentDifficulty: number | undefined
+const ZONE_STATE: { registered: boolean; zoneId?: number; difficulty?: number } = {
+  registered: false,
+}
 
 function onZonePlayerActivated(this: void): undefined {
-  const previousZoneId = currentZoneId
+  const previousZoneId = ZONE_STATE.zoneId
   const nextZoneId = getZoneId()
   const nextDifficulty = GetCurrentZoneDungeonDifficulty()
 
-  if (currentZoneId !== nextZoneId || currentDifficulty !== nextDifficulty) {
-    currentZoneId = nextZoneId
-    currentDifficulty = nextDifficulty
+  if (ZONE_STATE.zoneId !== nextZoneId || ZONE_STATE.difficulty !== nextDifficulty) {
+    ZONE_STATE.zoneId = nextZoneId
+    ZONE_STATE.difficulty = nextDifficulty
     for (const [, callback] of pairs(ZONE_CALLBACKS)) {
       if (callback !== undefined) {
         callback(nextZoneId, previousZoneId ?? 0)
@@ -66,9 +66,9 @@ export function monitorZoneChanges(
 ): undefined {
   ZONE_CALLBACKS[id] = callback
   const [firstZoneKey] = next(ZONE_CALLBACKS)
-  if (!ZONE_WATCH.registered && firstZoneKey !== undefined) {
-    ZONE_WATCH.registered = true
-    EVENT_MANAGER.RegisterForEvent(zoneEventName, EVENT_PLAYER_ACTIVATED, onZonePlayerActivated)
+  if (!ZONE_STATE.registered && firstZoneKey !== undefined) {
+    ZONE_STATE.registered = true
+    EVENT_MANAGER.RegisterForEvent(ZONE_EVENT_NAME, EVENT_PLAYER_ACTIVATED, onZonePlayerActivated)
   }
 }
 
@@ -264,7 +264,7 @@ export function formatVersion(this: void, version: unknown): string {
 }
 
 const LINK_CALLBACKS: Record<string, ((this: void, ...args: unknown[]) => void) | undefined> = {}
-const LINK_WATCH = { registered: false }
+const LINK_STATE = { registered: false }
 
 function linkClicked(
   this: void,
@@ -289,8 +289,8 @@ export function registerLinkHandler(
 ): undefined {
   LINK_CALLBACKS[tag] = callback
   const [firstLinkKey] = next(LINK_CALLBACKS)
-  if (!LINK_WATCH.registered && firstLinkKey !== undefined) {
-    LINK_WATCH.registered = true
+  if (!LINK_STATE.registered && firstLinkKey !== undefined) {
+    LINK_STATE.registered = true
     LINK_HANDLER.RegisterCallback(LINK_HANDLER.LINK_MOUSE_UP_EVENT, linkClicked)
     LINK_HANDLER.RegisterCallback(LINK_HANDLER.LINK_CLICKED_EVENT, linkClicked)
   }
