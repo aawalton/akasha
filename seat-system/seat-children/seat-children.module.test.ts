@@ -13,31 +13,31 @@ const UNDER: Readonly<Record<string, string | null>> = {
 
 const principalOf = (id: string): string | null => UNDER[id] ?? null
 
-const among = [seated("child-one"), seated("child-two"), seated("orphan"), seated("child-of-other")]
+const AMONG = [seated("child-one"), seated("child-two"), seated("orphan"), seated("child-of-other")]
 
 test("a seat's children are the seats whose principal is that seat", () => {
-  expect(childrenAmong("parent", among, principalOf).map((one) => one.id)).toEqual([
+  expect(childrenAmong("parent", AMONG, principalOf).map((one) => one.id)).toEqual([
     "child-one",
     "child-two",
   ])
 })
 
 test("a seat standing under nobody is nobody's child", () => {
-  expect(childrenAmong("orphan", among, principalOf)).toEqual([])
+  expect(childrenAmong("orphan", AMONG, principalOf)).toEqual([])
 })
 
 test("a child of another seat is not a child of this one", () => {
-  expect(childrenAmong("another-parent", among, principalOf).map((one) => one.id)).toEqual([
+  expect(childrenAmong("another-parent", AMONG, principalOf).map((one) => one.id)).toEqual([
     "child-of-other",
   ])
 })
 
 test("a seat nothing stands under has no children rather than all of them", () => {
-  expect(childrenAmong("nobody-at-all", among, principalOf)).toEqual([])
+  expect(childrenAmong("nobody-at-all", AMONG, principalOf)).toEqual([])
 })
 
 test("no seat named reads as no children, and never as every seat", () => {
-  expect(childrenAmong("", among, principalOf)).toEqual([])
+  expect(childrenAmong("", AMONG, principalOf)).toEqual([])
 })
 
 test("an empty roster has no children in it", () => {
