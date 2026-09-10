@@ -18,7 +18,7 @@ export const basePort = {
     },
     {
       invariantKind: "departure",
-      statement: "The hundred ports from this one belong to the web app stating this port.",
+      statement: "A hundred ports from the base port belong to the web app stating the base port.",
     },
   ],
 } as const satisfies NumberProperty
