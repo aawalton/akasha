@@ -65,7 +65,7 @@ export const change = {
     {
       invariantKind: "departure",
       statement:
-        "A change's slug names the mode, then the thing acted on, then the part of that thing.",
+        "A change's slug names the mode then the thing acted on then the part of that thing.",
     },
     {
       invariantKind: "departure",

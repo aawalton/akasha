@@ -51,7 +51,7 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A type, an interface, a function and a value are each moved the same way.",
+      statement: "Every kind of exported declaration is moved the same way.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +59,7 @@ export const moveCodeExport = {
     },
     {
       invariantKind: "departure",
-      statement: "The declaration is carried whole, with the imports that declaration names.",
+      statement: "The declaration is carried whole with the imports that declaration names.",
     },
     {
       invariantKind: "departure",

@@ -102,13 +102,11 @@ export const movePropertyValue = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Every character written here is taken from the body already there, so no value arrives.",
+      statement: "Every character written here is taken from the body already there.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "No page is taken away here, so a guard reading what an answer takes away reads nothing.",
+      statement: "No page is taken away here.",
     },
   ],
   changeKind: "change-mechanical",

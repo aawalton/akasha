@@ -37,7 +37,7 @@ export const changeMechanical = {
     },
     {
       invariantKind: "absence",
-      statement: "No mechanical change acts on a page type, a page property or prose.",
+      statement: "No mechanical change acts on a page type or on a page property or on prose.",
     },
     {
       invariantKind: "departure",

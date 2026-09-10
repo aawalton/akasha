@@ -24,8 +24,7 @@ export const changePagePageProperty = {
     },
     {
       "invariantKind": "departure",
-      "statement":
-        "A newline ending the value asked for is dropped, because a page states a value rather than a body.",
+      "statement": "A newline ending the value asked for is dropped.",
     },
   ],
   changeKind: "change-mechanical",

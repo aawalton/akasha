@@ -51,13 +51,11 @@ export const changePagePagePropertyRelation = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No name reaching nothing survives here, so a guard on what a name reaches finds none.",
+      statement: "No name reaching nothing survives here.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "No page is taken away here, so a guard reading what an answer takes away reads nothing.",
+      statement: "No page is taken away here.",
     },
   ],
   changeKind: "change-mechanical",
