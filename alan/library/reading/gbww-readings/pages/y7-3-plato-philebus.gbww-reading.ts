@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y73PlatoPhilebus = {
   id: "019f0c09-be76-7338-b77b-61c537398ef0",

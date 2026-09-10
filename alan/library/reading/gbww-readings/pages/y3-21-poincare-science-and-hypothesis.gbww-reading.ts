@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y321PoincareScienceAndHypothesis = {
   id: "019f0c09-bd48-77c9-906a-9637a950a980",

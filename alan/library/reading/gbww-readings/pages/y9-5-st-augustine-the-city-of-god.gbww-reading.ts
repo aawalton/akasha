@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y95StAugustineTheCityOfGod = {
   id: "019f0c09-bfeb-781a-9001-47327424f9f7",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y114RousseauTheSocialContract = {
   id: "019f0c09-bc16-75c9-aa3a-76fd72206301",

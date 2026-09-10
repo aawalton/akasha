@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y812RousseauADiscourseOnPoliticalEconomy = {
   id: "019f0c09-bf9e-72ff-9c62-3db412495f65",

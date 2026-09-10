@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y56VirgilTheAeneid = {
   id: "019f0c09-bdbd-7250-84fb-106f1b274a1c",

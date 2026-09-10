@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y49GalileoTwoNewSciences = {
   id: "019f0c09-bd6f-717f-916c-f6e5647f63bf",

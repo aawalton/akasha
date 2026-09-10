@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y814BoswellTheLifeOfSamuelJohnson = {
   id: "019f0c09-bfad-70bc-87bc-b90bfe51d726",

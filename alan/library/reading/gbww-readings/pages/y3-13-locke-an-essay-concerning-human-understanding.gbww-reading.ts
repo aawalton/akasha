@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y313LockeAnEssayConcerningHumanUnderstanding = {
   id: "019f0c09-bd27-7195-9ff9-b54dc4bdcb9b",

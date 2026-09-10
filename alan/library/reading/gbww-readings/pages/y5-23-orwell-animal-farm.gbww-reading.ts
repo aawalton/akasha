@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y523OrwellAnimalFarm = {
   id: "019f0c09-be09-7186-8974-4bd8d079cc8e",

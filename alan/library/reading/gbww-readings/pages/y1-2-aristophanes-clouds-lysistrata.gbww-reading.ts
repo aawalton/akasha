@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y12AristophanesCloudsLysistrata = {
   id: "019f0c09-ba14-77b3-93e5-82190db55cab",

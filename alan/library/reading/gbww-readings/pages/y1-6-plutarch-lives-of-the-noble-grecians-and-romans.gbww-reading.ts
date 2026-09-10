@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y16PlutarchLivesOfTheNobleGreciansAndRomans = {
   id: "019f0c09-bae4-7c2c-b29a-d416238a4470",

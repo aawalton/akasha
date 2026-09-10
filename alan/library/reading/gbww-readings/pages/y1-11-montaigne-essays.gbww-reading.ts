@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y111MontaigneEssays = {
   id: "019f0c09-bbaf-7381-a0d9-476713b4b481",

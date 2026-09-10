@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y711ShakespeareJuliusCaesarAntonyAndCleopatraCoriolanus = {
   id: "019f0c09-be99-7d9e-aafc-d7fc43a29f2b",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y84AristotleRhetoric = {
   id: "019f0c09-bed7-7d19-ba5b-f20311c0a0d3",

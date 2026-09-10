@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y312MiltonParadiseLost = {
   id: "019f0c09-bd22-7f1f-a8e4-6c9ee537323c",

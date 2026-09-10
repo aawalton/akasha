@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y913HegelThePhilosophyOfRight = {
   id: "019f0c09-c08b-78f3-91f1-4dc1ce498c5f",

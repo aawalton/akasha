@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y613PascalTheProvincialLetters = {
   id: "019f0c09-be45-7d5d-8490-b11e0993c14f",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y88BaconTheAdvancementOfLearning = {
   id: "019f0c09-bee9-7a55-a42d-d1621636de62",

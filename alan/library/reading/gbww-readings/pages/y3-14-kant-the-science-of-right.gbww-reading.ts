@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y314KantTheScienceOfRight = {
   id: "019f0c09-bd2b-74a0-9bff-397d237bf88f",

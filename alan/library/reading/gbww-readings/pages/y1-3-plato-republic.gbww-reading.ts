@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y13PlatoRepublic = {
   id: "019f0c09-ba22-7939-bbe3-f537141c4aee",

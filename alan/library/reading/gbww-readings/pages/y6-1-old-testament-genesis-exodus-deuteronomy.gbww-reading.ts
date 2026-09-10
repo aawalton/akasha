@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y61OldTestamentGenesisExodusDeuteronomy = {
   id: "019f0c09-be0d-769d-a339-1a80a954ff55",

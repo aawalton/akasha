@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y85StAugustineOnChristianDoctrine = {
   id: "019f0c09-bedc-737e-8232-d53ac46bf748",

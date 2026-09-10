@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y720ProustSwannInLove = {
   id: "019f0c09-bec2-712d-8584-9d630fa3ee53",

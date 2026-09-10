@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y41EuripidesMedeaHippolytusTheTrojanWomenTheBacchantes = {
   id: "019f0c09-bd4c-7a40-8fa8-af2631af6897",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y216RousseauADiscourseOnTheOriginOfInequality = {
   id: "019f0c09-bcd5-7042-9e14-e039a41fdb87",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y217KantFundamentalPrinciplesOfTheMetaphysicOfMorals = {
   id: "019f0c09-bcd9-75f9-812d-c0223f3b9ce4",

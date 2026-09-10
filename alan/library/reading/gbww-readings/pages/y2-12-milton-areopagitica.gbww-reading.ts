@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y212MiltonAreopagitica = {
   id: "019f0c09-bcc3-72b8-8683-0896e650493c",

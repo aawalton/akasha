@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y22AeschylusAgamemnonChoephoroeEumenides = {
   id: "019f0c09-bc94-7a5b-a7b9-0fe91bb96f51",

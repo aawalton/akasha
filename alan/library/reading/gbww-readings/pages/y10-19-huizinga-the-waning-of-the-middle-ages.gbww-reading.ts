@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y1019HuizingaTheWaningOfTheMiddleAges = {
   id: "019f0c09-c307-7929-96f5-521721bbdfd2",

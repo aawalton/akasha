@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y23SophoclesOedipusTheKingAntigone = {
   id: "019f0c09-bc99-7356-ad8c-40fc120a74c7",

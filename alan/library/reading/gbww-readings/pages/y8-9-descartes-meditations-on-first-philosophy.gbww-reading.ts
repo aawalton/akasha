@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y89DescartesMeditationsOnFirstPhilosophy = {
   id: "019f0c09-beee-78f5-91b9-b6e203526a48",

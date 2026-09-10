@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y101SophoclesAjaxElectra = {
   id: "019f0c09-c0d1-70e9-8ff5-cac6f4dc4091",

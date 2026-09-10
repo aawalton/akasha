@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y32HerodotusTheHistory = {
   id: "019f0c09-bcf4-7608-8d61-491d25d0728f",

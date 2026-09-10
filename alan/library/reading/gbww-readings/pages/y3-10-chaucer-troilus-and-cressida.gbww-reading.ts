@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y310ChaucerTroilusAndCressida = {
   id: "019f0c09-bd1a-799d-badc-dad63af91aab",

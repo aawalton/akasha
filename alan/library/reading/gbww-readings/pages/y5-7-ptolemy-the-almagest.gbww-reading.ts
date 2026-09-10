@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y57PtolemyTheAlmagest = {
   id: "019f0c09-bdc1-78b4-981c-3eb9c661149c",

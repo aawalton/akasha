@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y721BrechtMotherCourageAndHerChildren = {
   id: "019f0c09-bec6-76a1-b4ec-2ca36eafad5d",

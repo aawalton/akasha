@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y68StThomasAquinasSummaTheologica = {
   id: "019f0c09-be2f-7c88-b0af-7029a7403a87",

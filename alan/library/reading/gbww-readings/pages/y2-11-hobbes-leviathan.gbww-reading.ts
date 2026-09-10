@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y211HobbesLeviathan = {
   id: "019f0c09-bcbe-79a0-bc35-4d4d4b6d9094",

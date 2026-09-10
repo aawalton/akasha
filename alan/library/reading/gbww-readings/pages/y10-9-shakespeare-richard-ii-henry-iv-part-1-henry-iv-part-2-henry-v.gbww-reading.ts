@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y109ShakespeareRichardIiHenryIvPart1HenryIvPart2HenryV = {
   id: "019f0c09-c1db-7bff-9fc7-1fee588cf56c",

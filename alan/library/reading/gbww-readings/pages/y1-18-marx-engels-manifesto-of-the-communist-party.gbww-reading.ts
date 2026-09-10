@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y118MarxEngelsManifestoOfTheCommunistParty = {
   id: "019f0c09-bc7c-7b3c-9b27-e38adf348396",

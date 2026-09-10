@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y112ShakespeareHamlet = {
   id: "019f0c09-bbb8-787f-baa1-cd579e07b525",

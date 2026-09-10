@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y25PlatoMeno = {
   id: "019f0c09-bca2-729d-a168-b8452a2c1f58",

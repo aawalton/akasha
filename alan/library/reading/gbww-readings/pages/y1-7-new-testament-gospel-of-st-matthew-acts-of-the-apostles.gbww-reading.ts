@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y17NewTestamentGospelOfStMatthewActsOfTheApostles = {
   id: "019f0c09-bb3f-781f-8ba2-64af92e2510f",

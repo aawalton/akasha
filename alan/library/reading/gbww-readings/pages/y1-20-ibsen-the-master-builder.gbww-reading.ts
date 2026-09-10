@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y120IbsenTheMasterBuilder = {
   id: "019f0c09-bc87-706d-8543-ac8de6cd193c",

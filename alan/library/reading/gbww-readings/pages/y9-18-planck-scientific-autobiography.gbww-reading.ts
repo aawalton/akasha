@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y918PlanckScientificAutobiography = {
   id: "019f0c09-c0ac-7d42-92c2-cfa40bd840ee",

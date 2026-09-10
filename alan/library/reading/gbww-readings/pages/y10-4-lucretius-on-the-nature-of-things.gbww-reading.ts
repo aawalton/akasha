@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y104LucretiusOnTheNatureOfThings = {
   id: "019f0c09-c136-7407-a43f-bd08452313cd",

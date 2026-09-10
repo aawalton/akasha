@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y921HemingwayTheShortHappyLifeOfFrancisMacomber = {
   id: "019f0c09-c0c2-78ed-b409-87cb587d1cd6",

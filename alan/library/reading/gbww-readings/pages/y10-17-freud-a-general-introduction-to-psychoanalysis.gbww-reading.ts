@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y1017FreudAGeneralIntroductionToPsychoanalysis = {
   id: "019f0c09-c2b1-7648-807e-cad3de2c619a",

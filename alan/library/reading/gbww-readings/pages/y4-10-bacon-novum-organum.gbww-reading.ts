@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y410BaconNovumOrganum = {
   id: "019f0c09-bd75-789b-a6b1-5ca42149da23",

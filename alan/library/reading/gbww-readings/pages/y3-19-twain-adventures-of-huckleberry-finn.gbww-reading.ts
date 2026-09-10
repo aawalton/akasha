@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y319TwainAdventuresOfHuckleberryFinn = {
   id: "019f0c09-bd40-72fe-9bea-3acfb70c702a",

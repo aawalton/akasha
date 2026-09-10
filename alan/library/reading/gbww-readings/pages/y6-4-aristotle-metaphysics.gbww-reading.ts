@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y64AristotleMetaphysics = {
   id: "019f0c09-be1c-771b-a5c1-74eb37cf6d39",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y512DanteTheDivineComedy = {
   id: "019f0c09-bdd6-7cc0-b072-d52f2196ee3f",

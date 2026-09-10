@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y911MontesquieuTheSpiritOfLaws = {
   id: "019f0c09-c081-748d-89ef-3d5a42ce4278",

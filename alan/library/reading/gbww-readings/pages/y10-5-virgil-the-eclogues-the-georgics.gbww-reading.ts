@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y105VirgilTheEcloguesTheGeorgics = {
   id: "019f0c09-c141-7935-891f-b109deca0026",

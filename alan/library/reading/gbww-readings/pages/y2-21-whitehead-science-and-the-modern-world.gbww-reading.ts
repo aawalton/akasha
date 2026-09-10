@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y221WhiteheadScienceAndTheModernWorld = {
   id: "019f0c09-bceb-7a38-8db8-0d613449f972",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y27AristotleEthics = {
   id: "019f0c09-bcaa-7ed3-b280-268c2f80dd3e",

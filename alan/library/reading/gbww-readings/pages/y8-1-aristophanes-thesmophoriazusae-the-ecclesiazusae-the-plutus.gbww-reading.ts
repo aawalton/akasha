@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y81AristophanesThesmophoriazusaeTheEcclesiazusaeThePlutus = {
   id: "019f0c09-beca-7c26-88a9-436d120f4cbd",

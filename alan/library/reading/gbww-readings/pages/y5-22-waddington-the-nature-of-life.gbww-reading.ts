@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y522WaddingtonTheNatureOfLife = {
   id: "019f0c09-be04-7c0a-b617-f5cf81cadaea",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y610ShakespeareTheComedyOfErrorsTheTamingOfTheShrewAsYou = {
   id: "019f0c09-be38-7384-ae45-19a0f837d8b7",

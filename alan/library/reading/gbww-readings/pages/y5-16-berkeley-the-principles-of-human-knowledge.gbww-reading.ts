@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y516BerkeleyThePrinciplesOfHumanKnowledge = {
   id: "019f0c09-bdeb-71da-b10c-896048a036e5",

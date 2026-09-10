@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y619KierkegaardFearAndTrembling = {
   id: "019f0c09-be5f-7bea-9100-3d098a5ff707",

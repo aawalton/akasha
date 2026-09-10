@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y213PascalPensees = {
   id: "019f0c09-bcc7-7b5d-8761-b4c79df4e1f6",

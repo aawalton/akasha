@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y810SpinozaEthics = {
   id: "019f0c09-bef3-701a-a9a3-37e196943b04",

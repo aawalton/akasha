@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y514CervantesDonQuixote = {
   id: "019f0c09-bde2-7c70-b297-c0322116dd3b",

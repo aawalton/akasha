@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y219VoltaireCandide = {
   id: "019f0c09-bce2-77a1-90f7-c30a92c868c9",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y919VeblenTheTheoryOfTheLeisureClass = {
   id: "019f0c09-c0b4-7124-b6bc-c9a698a4473e",

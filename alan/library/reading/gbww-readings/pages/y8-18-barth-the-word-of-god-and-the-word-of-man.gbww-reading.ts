@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y818BarthTheWordOfGodAndTheWordOfMan = {
   id: "019f0c09-bfc4-7ce0-adca-53190183dcf0",

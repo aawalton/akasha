@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y518DarwinTheOriginOfSpecies = {
   id: "019f0c09-bdf3-7b0c-9125-eb0059f776b6",

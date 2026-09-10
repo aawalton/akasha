@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y54HippocratesTheOathOnAncientMedicineOnAirsWatersAndPlace = {
   id: "019f0c09-bdb4-75d5-9821-88cbdcffc2f5",

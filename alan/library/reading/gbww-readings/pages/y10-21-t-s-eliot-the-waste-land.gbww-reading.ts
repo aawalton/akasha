@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y1021TSEliotTheWasteLand = {
   id: "019f0c09-c31e-7b80-aa61-4ba538eb5e6a",

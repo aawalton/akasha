@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y215SwiftGulliverSTravels = {
   id: "019f0c09-bcd0-79b1-adc6-2db17a241b21",

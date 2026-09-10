@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y521DeweyExperienceAndEducation = {
   id: "019f0c09-be00-78c8-9bea-ee56ea6ea046",

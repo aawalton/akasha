@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y37EuclidElements = {
   id: "019f0c09-bd0d-7d2c-bffc-d1e075fdfcdf",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y910PascalTheGreatExperimentConcerningTheEquilibriumOfFluids = {
   id: "019f0c09-c07c-73e0-b042-55fc1aeb3f78",

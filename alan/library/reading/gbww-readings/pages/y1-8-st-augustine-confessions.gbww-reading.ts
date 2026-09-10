@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y18StAugustineConfessions = {
   id: "019f0c09-bb4c-7a7b-89a1-713ab63b3446",

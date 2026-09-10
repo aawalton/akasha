@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y53AristotleOnTheSoul = {
   id: "019f0c09-bdb0-7352-97b7-9edfcda082d3",

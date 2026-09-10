@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y916MoliereTartuffe = {
   id: "019f0c09-c09e-7504-a66d-4c113feac9b7",

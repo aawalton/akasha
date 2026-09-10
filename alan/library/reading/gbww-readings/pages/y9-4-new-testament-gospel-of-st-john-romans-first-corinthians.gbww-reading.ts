@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y94NewTestamentGospelOfStJohnRomansFirstCorinthians = {
   id: "019f0c09-bfe5-7d29-a57d-5aa155004208",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y31AeschylusPrometheusBound = {
   id: "019f0c09-bcef-7ffc-aa1d-b170c3ac8071",

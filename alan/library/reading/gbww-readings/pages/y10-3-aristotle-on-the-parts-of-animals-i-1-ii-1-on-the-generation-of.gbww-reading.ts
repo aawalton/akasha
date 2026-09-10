@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y103AristotleOnThePartsOfAnimalsI1Ii1OnTheGenerationOf = {
   id: "019f0c09-c11e-7180-8da4-4827436dbe36",

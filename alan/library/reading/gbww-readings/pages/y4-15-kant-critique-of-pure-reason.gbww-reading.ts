@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y415KantCritiqueOfPureReason = {
   id: "019f0c09-bd8a-78b1-81c7-49b65b03c1a4",

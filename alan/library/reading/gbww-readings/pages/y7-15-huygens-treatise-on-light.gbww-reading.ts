@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y715HuygensTreatiseOnLight = {
   id: "019f0c09-beab-7feb-9124-cdb3f0dd5c5c",

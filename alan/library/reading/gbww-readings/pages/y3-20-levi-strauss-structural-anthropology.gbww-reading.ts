@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y320LeviStraussStructuralAnthropology = {
   id: "019f0c09-bd44-754c-8c1f-ffce8d93f293",

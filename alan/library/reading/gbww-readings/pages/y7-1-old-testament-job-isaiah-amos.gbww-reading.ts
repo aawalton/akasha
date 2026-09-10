@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y71OldTestamentJobIsaiahAmos = {
   id: "019f0c09-be6d-71d0-bbb3-1304dd1f8097",

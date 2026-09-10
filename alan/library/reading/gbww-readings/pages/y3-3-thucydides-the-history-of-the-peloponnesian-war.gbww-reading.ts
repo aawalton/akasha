@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y33ThucydidesTheHistoryOfThePeloponnesianWar = {
   id: "019f0c09-bcf8-7a41-b660-fd7ea2889919",

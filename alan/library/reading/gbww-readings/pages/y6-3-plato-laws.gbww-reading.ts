@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y63PlatoLaws = {
   id: "019f0c09-be16-72b5-bb9a-491eff8ac389",

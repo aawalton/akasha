@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y113LockeConcerningCivilGovernment = {
   id: "019f0c09-bc0a-7b2b-98d8-4c089b31c54a",

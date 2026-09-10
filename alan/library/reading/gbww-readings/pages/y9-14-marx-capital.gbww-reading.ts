@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y914MarxCapital = {
   id: "019f0c09-c090-7bce-b926-452986055bc1",

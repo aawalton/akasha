@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y920JoyceAPortraitOfTheArtistAsAYoungMan = {
   id: "019f0c09-c0bb-74c3-a172-367146ff3641",

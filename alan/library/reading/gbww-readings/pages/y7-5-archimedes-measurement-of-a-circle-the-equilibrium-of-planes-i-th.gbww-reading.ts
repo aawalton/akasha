@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y75ArchimedesMeasurementOfACircleTheEquilibriumOfPlanesITh = {
   id: "019f0c09-be7f-7291-9e7d-56ed75f30e38",

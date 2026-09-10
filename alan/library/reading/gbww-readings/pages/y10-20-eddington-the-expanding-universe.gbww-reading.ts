@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y1020EddingtonTheExpandingUniverse = {
   id: "019f0c09-c315-7556-bf1b-6b6f8417e19a",

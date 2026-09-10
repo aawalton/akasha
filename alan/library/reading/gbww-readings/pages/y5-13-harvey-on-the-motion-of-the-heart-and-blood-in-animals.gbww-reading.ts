@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y513HarveyOnTheMotionOfTheHeartAndBloodInAnimals = {
   id: "019f0c09-bddc-7c37-803a-eeeee9f9bdfd",

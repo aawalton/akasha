@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y510PlotinusTheSixthEnnead = {
   id: "019f0c09-bdce-76c9-9eac-19242e71e9f0",

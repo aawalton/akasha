@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y419CalvinInstitutesOfTheChristianReligion = {
   id: "019f0c09-bd9b-7431-84c0-d9f9debf84ef",

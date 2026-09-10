@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y59KeplerEpitomeOfCopernicanAstronomy = {
   id: "019f0c09-bdca-72e7-97aa-93171d5be4e5",

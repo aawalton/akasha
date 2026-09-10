@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y820HardyAMathematicianSApology = {
   id: "019f0c09-bfce-71c2-aed0-48c178be643b",

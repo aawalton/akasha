@@ -1,24 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../../../collections/collection.page-type.types.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { GbwwEditionMarker } from "./properties/gbww-edition-marker.select-property.ts"
-import type { GbwwPlanKey } from "./properties/gbww-plan-key.text-property.ts"
-import type { GbwwPlanYear } from "./properties/gbww-plan-year.number-property.ts"
-import type { GbwwReadingNumber } from "./properties/gbww-reading-number.number-property.ts"
-import type { GbwwSection } from "./properties/gbww-section.text-property.ts"
-import type { GbwwStory } from "./properties/gbww-story.relation-property.ts"
-import type { GbwwWork } from "./properties/gbww-work.text-property.ts"
-
-export type GbwwReading = Collection & {
-  title: Title
-  work: GbwwWork
-  section: GbwwSection
-  planKey: GbwwPlanKey
-  planYear: GbwwPlanYear
-  readingNumber: GbwwReadingNumber
-  editionMarker: GbwwEditionMarker
-  story?: GbwwStory
-}
 
 export const gbwwReading = {
   id: "01a0659f-93da-7019-b3d4-198e7acfbd4c",
@@ -66,4 +46,5 @@ export const gbwwReading = {
       statement: "A reading is no record of a day Alan read.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

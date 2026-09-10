@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y72PlatoSymposium = {
   id: "019f0c09-be71-7be9-9e26-fdd53bc142e9",

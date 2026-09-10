@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y912FaradayExperimentalResearchesInElectricitySeriesIIiASpe = {
   id: "019f0c09-c086-781e-b812-a4767aba01fc",

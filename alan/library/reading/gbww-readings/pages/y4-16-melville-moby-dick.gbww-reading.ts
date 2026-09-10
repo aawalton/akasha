@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y416MelvilleMobyDick = {
   id: "019f0c09-bd8e-7bbe-94f4-89c2dc6b3619",

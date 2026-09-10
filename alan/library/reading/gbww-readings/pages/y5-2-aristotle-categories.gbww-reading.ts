@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y52AristotleCategories = {
   id: "019f0c09-bdac-70cb-af67-a125bfc60fd1",

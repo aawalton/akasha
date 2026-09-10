@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y117AdamSmithTheWealthOfNations = {
   id: "019f0c09-bc72-7aa1-bde3-5e622c00485f",

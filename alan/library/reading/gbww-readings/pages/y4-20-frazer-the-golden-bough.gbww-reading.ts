@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y420FrazerTheGoldenBough = {
   id: "019f0c09-bd9f-7779-93b4-1356389a1340",

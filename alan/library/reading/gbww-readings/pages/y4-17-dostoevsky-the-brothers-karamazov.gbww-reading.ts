@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y417DostoevskyTheBrothersKaramazov = {
   id: "019f0c09-bd92-7e48-a1f6-0143e31c008a",

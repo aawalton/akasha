@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y615GibbonTheDeclineAndFallOfTheRomanEmpire = {
   id: "019f0c09-be4e-786d-909d-bd0ca3a8b902",

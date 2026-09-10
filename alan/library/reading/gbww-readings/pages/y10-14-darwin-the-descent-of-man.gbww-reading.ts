@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y1014DarwinTheDescentOfMan = {
   id: "019f0c09-c259-7158-9e2e-6a3c8fb0e974",

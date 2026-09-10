@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y110RabelaisGargantuaAndPantagruel = {
   id: "019f0c09-bba1-7330-a7bc-b1cfff1a7858",

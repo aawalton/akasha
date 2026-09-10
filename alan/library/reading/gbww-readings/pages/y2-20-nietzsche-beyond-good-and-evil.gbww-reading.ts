@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y220NietzscheBeyondGoodAndEvil = {
   id: "019f0c09-bce7-7376-99ae-4fb2e95e6cf8",

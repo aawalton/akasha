@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y520WilliamJamesThePrinciplesOfPsychology = {
   id: "019f0c09-bdfc-7580-a9b5-62aaf6ebc49a",

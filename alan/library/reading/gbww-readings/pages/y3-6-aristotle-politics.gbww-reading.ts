@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y36AristotlePolitics = {
   id: "019f0c09-bd07-7322-9373-3e70b8b5bb78",

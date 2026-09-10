@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y316LavoisierElementsOfChemistry = {
   id: "019f0c09-bd33-798b-8b45-c2c891be747d",

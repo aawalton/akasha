@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y19MachiavelliThePrince = {
   id: "019f0c09-bb53-706f-80d3-33dbe7102987",

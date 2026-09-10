@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y821KafkaTheMetamorphosis = {
   id: "019f0c09-bfd2-7bb9-926d-219a2867b1e2",

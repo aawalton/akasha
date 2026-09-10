@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y35AristotleOnInterpretation = {
   id: "019f0c09-bd02-76c1-97ce-5aeb9dc5ee0d",

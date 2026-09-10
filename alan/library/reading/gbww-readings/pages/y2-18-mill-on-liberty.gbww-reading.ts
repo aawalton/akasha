@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y218MillOnLiberty = {
   id: "019f0c09-bcdd-7c0a-a1a9-ad92141e987f",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y210MarcusAureliusMeditations = {
   id: "019f0c09-bcba-72b9-bc94-de28dc029f34",

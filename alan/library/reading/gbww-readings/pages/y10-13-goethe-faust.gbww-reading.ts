@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y1013GoetheFaust = {
   id: "019f0c09-c24f-7e8f-aeab-e60a36900b80",

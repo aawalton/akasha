@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y318FreudTheOriginAndDevelopmentOfPsychoanalysis = {
   id: "019f0c09-bd3c-7061-b436-a349698b0fe0",

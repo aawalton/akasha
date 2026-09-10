@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y102PlatoTimaeus = {
   id: "019f0c09-c0dc-76cc-816e-eead1a8a2848",

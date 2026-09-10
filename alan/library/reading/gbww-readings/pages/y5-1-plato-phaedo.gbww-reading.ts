@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y51PlatoPhaedo = {
   id: "019f0c09-bda7-7e28-b7c1-b10fea4888fb",

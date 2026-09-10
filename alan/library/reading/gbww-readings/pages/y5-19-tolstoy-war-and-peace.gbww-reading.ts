@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y519TolstoyWarAndPeace = {
   id: "019f0c09-bdf8-7013-9412-bee36ffa3f5a",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y412NewtonMathematicalPrinciplesOfNaturalPhilosophy = {
   id: "019f0c09-bd7e-7009-9056-e5ddac0bf8ec",

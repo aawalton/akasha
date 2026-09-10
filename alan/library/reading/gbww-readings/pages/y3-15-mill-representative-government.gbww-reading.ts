@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y315MillRepresentativeGovernment = {
   id: "019f0c09-bd2f-7705-8d0b-d136190e06fd",

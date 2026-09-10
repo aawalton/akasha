@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y11PlatoApologyCrito = {
   id: "019f0c09-b9c8-7a16-98eb-6764988b54d7",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y116AmericanFoundersDeclarationOfIndependenceConstitutionOfTh = {
   id: "019f0c09-bc60-71aa-b291-b4326bc8f114",

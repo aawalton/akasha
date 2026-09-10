@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y98DescartesRulesForTheDirectionOfTheMind = {
   id: "019f0c09-c06f-7b4d-babe-b3194ac0dac8",

@@ -1,4 +1,4 @@
-import type { GbwwReading } from "../gbww-reading.page-type.ts"
+import type { GbwwReading } from "../gbww-reading.page-type.types.ts"
 
 export const y119TocquevilleDemocracyInAmerica = {
   id: "019f0c09-bc82-74d8-be31-2411f2ca30d3",
