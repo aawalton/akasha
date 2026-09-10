@@ -1,4 +1,4 @@
-import type { ReadoutGroup } from "../readout-group.page-type.ts"
+import type { ReadoutGroup } from "../readout-group.page-type.types.ts"
 
 export const claudeUsage = {
   id: "01a063bd-a526-78fb-9e89-7128b2bdd640",

@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { FigureOffScale } from "./properties/figure-off-scale.boolean-property.ts"
-import type { SortOrder } from "./properties/sort-order.text-property.ts"
-
-export type ReadoutGroup = Domain & {
-  sortOrder?: SortOrder
-  figureOffScale?: FigureOffScale
-}
 
 export const readoutGroup = {
   id: "01a05446-e75e-7657-acda-566edc2b182e",
@@ -44,4 +36,5 @@ export const readoutGroup = {
         "The words a group is drawn under are its definition rather than a label of its own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

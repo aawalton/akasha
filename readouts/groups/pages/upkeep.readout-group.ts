@@ -1,4 +1,4 @@
-import type { ReadoutGroup } from "../readout-group.page-type.ts"
+import type { ReadoutGroup } from "../readout-group.page-type.types.ts"
 
 export const upkeep = {
   id: "01a061f8-78c4-77eb-b16d-6b8c123a7f0a",

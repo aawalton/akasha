@@ -1,4 +1,4 @@
-import type { ReadoutGroup } from "../readout-group.page-type.ts"
+import type { ReadoutGroup } from "../readout-group.page-type.types.ts"
 
 export const categorization = {
   id: "01a05455-7631-7e29-b225-b04ee2ae4890",

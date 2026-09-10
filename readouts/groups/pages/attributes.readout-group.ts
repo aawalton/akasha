@@ -1,4 +1,4 @@
-import type { ReadoutGroup } from "../readout-group.page-type.ts"
+import type { ReadoutGroup } from "../readout-group.page-type.types.ts"
 
 export const attributes = {
   id: "01a06838-93eb-7a05-b58a-95b892c0febf",

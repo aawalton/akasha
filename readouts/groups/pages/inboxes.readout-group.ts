@@ -1,4 +1,4 @@
-import type { ReadoutGroup } from "../readout-group.page-type.ts"
+import type { ReadoutGroup } from "../readout-group.page-type.types.ts"
 
 export const inboxes = {
   id: "01a06230-b155-7b8c-9044-28e5319d83e7",

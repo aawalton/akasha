@@ -1,4 +1,4 @@
-import type { ReadoutGroup } from "../readout-group.page-type.ts"
+import type { ReadoutGroup } from "../readout-group.page-type.types.ts"
 
 export const surplus = {
   id: "01a05fc3-145a-74b9-bd54-23090ceb85d8",
