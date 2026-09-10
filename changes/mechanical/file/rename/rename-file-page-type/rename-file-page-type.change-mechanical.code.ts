@@ -1,5 +1,6 @@
 import { dirname, extname } from "node:path"
 import { besideAt, partedIn } from "akasha/pages/file-name/page-file-name.module.code.ts"
+import { saidBy } from "../../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import { typedAs } from "../../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
@@ -57,10 +58,6 @@ type Carried =
   | { readonly answers: readonly Answer[]; readonly world: World }
   | { readonly refused: string }
 
-function why(cause: unknown): string {
-  return cause instanceof Error ? cause.message : String(cause)
-}
-
 function readIn(world: World, was: string): Read {
   const found: Filed[] = []
   try {
@@ -71,7 +68,7 @@ function readIn(world: World, was: string): Read {
     }
     return { filed: found }
   } catch (cause) {
-    return { refused: why(cause) }
+    return { refused: saidBy(cause) }
   }
 }
 
