@@ -190,6 +190,7 @@ export function servingFrom(at: CommandServerAt): Serving {
           clearTimeout(timer)
           refuse(refusalOf(REFUSAL_START, `it exited before saying hello (code ${String(code)})`))
         }
+        setImmediate(() => lose(fresh, went))
       })
 
       let held = ""

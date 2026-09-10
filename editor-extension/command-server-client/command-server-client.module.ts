@@ -60,7 +60,7 @@ export const commandServerClient = {
     },
     {
       invariantKind: "departure",
-      statement: "The pipe ending is what refuses an ask a gone server left waiting.",
+      statement: "A server's exit refuses what waits, because the answer pipe may never end.",
     },
   ],
 } as const satisfies Module
