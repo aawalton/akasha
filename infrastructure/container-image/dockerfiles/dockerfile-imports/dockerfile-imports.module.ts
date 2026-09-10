@@ -14,20 +14,19 @@ export const dockerfileImports = {
     },
     {
       invariantKind: "departure",
-      statement: "The folder holding a reached file is what the image carries.",
+      statement: "The image carries the folder holding a reached file.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A folder under another folder answered is left out, since the wider one holds it.",
+      statement: "A folder under another folder answered is left out.",
     },
     {
       invariantKind: "departure",
-      statement: "The service's own folder is left out, being copied on its own.",
+      statement: "The service's own folder is left out.",
     },
     {
       invariantKind: "constraint",
-      statement: "A reach that lands on no file refuses, rather than being left out in silence.",
+      statement: "A reach that lands on no file refuses.",
     },
   ],
 } as const satisfies Module
