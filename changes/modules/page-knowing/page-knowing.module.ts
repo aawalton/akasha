@@ -75,5 +75,20 @@ export const pageKnowing = {
       invariantKind: "departure",
       statement: "The value a key holds is read from the page type the property descends from.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The key a new key falls after is read from the pages of the page's own type.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A key falls after the last key more of those pages write before it than after it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key none of those pages write falls after nothing.",
+    },
+    { invariantKind: "departure", statement: "A key the page already writes falls after nothing." },
+    { invariantKind: "departure", statement: "No more than sixty-four of those pages are read." },
   ],
 } as const satisfies Module

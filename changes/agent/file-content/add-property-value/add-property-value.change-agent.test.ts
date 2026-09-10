@@ -24,6 +24,7 @@ type Told = {
         readonly pageTypeSlug?: string
       }[]
     | null
+  readonly siblings?: readonly Value[]
 }
 
 function worldTold(told: Told): World {
@@ -44,6 +45,8 @@ function worldTold(told: Told): World {
       pageByPath: () => ("page" in told ? told.page : PAGE),
       propertiesIfNamed: () => told.carried ?? null,
       kindsUnder: (slug: string) => new Set<string>([slug]),
+      valuesByPath: () =>
+        new Map<string, Value>((told.siblings ?? []).map((one, at) => [`${at}.domain.ts`, one])),
     } as never,
     textOf: () => null,
     bodyOf: () => null,
@@ -263,6 +266,56 @@ test("a key the page's type holds text under is handed on saying nothing of what
 
   expect(handed).toEqual({ at: AT, key: "manifest", value: "json", single: true })
   expect("holds" in (handed as object)).toBe(false)
+})
+
+test("the key the pages of this page's type write it after is handed on", async () => {
+  let handed: unknown = null
+  const world = worldTold({
+    slug: null,
+    target: null,
+    found: [],
+    carried: [{ key: "manifest", many: false }],
+    siblings: [
+      { id: "one", pageTypeSlug: "domain", slug: "one", manifest: "json", definition: "one" },
+    ],
+  })
+
+  await runChange(
+    {
+      ...world,
+      reaching: (_world, _at, given) => {
+        handed = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { at: AT, key: "manifest", value: "json" }
+  )
+
+  expect(handed).toEqual({ at: AT, key: "manifest", value: "json", single: true, after: "slug" })
+})
+
+test("a key the pages of this page's type write nowhere is handed on with no `after`", async () => {
+  let handed: unknown = null
+  const world = worldTold({
+    slug: null,
+    target: null,
+    found: [],
+    carried: [{ key: "manifest", many: false }],
+    siblings: [{ id: "one", pageTypeSlug: "domain", slug: "one", definition: "one" }],
+  })
+
+  await runChange(
+    {
+      ...world,
+      reaching: (_world, _at, given) => {
+        handed = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { at: AT, key: "manifest", value: "json" }
+  )
+
+  expect("after" in (handed as object)).toBe(false)
 })
 
 test("a page whose type cannot be read has no key refused", async () => {

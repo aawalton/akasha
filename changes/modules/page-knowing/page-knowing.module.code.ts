@@ -64,6 +64,33 @@ export function declaresIn(world: World, value: Value, key: string): boolean | n
   return carried.some((each) => each.key === key)
 }
 
+const SIBLINGS = 64
+
+export function afterIn(world: World, value: Value, key: string): string | null {
+  const stated = typeIn(value)
+  if (stated === null || Object.hasOwn(value, key)) return null
+  const before = new Map<string, number>()
+  const behind = new Map<string, number>()
+  let seen = 0
+  for (const other of world.index.valuesByPath(stated).values()) {
+    if (seen >= SIBLINGS) break
+    const keys = Object.keys(other)
+    const at = keys.indexOf(key)
+    if (at < 0) continue
+    seen += 1
+    for (const [held, one] of keys.entries()) {
+      if (held === at) continue
+      const counted = held < at ? before : behind
+      counted.set(one, (counted.get(one) ?? 0) + 1)
+    }
+  }
+  let last: string | null = null
+  for (const one of Object.keys(value)) {
+    if ((before.get(one) ?? 0) > (behind.get(one) ?? 0)) last = one
+  }
+  return last
+}
+
 const BOOLEAN_PROPERTY = "boolean-property"
 
 const NUMBER_PROPERTY = "number-property"

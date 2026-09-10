@@ -36,7 +36,8 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "`after` is left out where the caller states no `after`.",
+      statement:
+        "Where the caller states no `after`, the key the page's own type puts this one after is handed on.",
     },
     {
       invariantKind: "departure",
@@ -66,6 +67,10 @@ export const addPropertyValue = {
     {
       invariantKind: "departure",
       statement: "A property holding a boolean or a number is handed on as holding it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`after` is left out where the pages of this page's type write the key nowhere.",
     },
   ],
   changeKind: "change-checked",

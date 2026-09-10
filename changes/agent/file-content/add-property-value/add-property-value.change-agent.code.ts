@@ -2,6 +2,7 @@ import { reaches } from "akasha/pages/indexes/reaching/reaching.module.code.ts"
 import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {
+  afterIn,
   declaresIn,
   holdsIn,
   readFor,
@@ -50,8 +51,11 @@ export async function addPropertyValue(
   }
   const single = singleIn(world, read.value, given.key)
   const holds = holdsIn(world, read.value, given.key)
-  const asked = single ? { ...given, single } : { ...given }
-  return (await reach(world, ADD_PROPERTY_VALUE, holds === null ? asked : { ...asked, holds })).said
+  const placed = given.after ?? afterIn(world, read.value, given.key)
+  const told = single ? { ...given, single } : { ...given }
+  const spelled = holds === null ? told : { ...told, holds }
+  const asked = placed === null ? spelled : { ...spelled, after: placed }
+  return (await reach(world, ADD_PROPERTY_VALUE, asked)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

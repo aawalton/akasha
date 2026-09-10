@@ -7,8 +7,16 @@ import {
   scratch,
   textIn,
 } from "akasha/pages/indexes/fixture-world/fixture-world.module.code.ts"
-import { type World, worldAt } from "../shadow/change-shadow.module.code.ts"
-import { namersIn, pageIn, readFor, singleIn, targetsIn } from "./page-knowing.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
+import { NOTHING_OVER, type World, worldAt } from "../shadow/change-shadow.module.code.ts"
+import {
+  afterIn,
+  namersIn,
+  pageIn,
+  readFor,
+  singleIn,
+  targetsIn,
+} from "./page-knowing.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -88,4 +96,62 @@ test("a key the page's type names under no property holds many values", () => {
   if ("refused" in read) throw new Error(read.refused)
 
   expect(singleIn(world, read.value, "namedByNoProperty")).toBe(false)
+})
+
+function routes(count: number, keys: readonly string[]): readonly Value[] {
+  const made: Value[] = []
+  for (let at = 0; at < count; at += 1) {
+    const one: Record<string, unknown> = { pageTypeSlug: "route", type: "route" }
+    for (const key of keys) one[key] = `${key}-${at}`
+    made.push(one)
+  }
+  return made
+}
+
+function worldOver(said: readonly Value[]): World {
+  const held = new Map<string, Value>(said.map((one, at) => [`${at}.route.ts`, one]))
+  return {
+    root: "/nowhere",
+    index: { valuesByPath: () => held } as never,
+    textOf: () => null,
+    bodyOf: () => null,
+    under: () => [],
+    base: () => null,
+    over: NOTHING_OVER,
+  }
+}
+
+const ROUTE = routes(1, ["slug", "code", "urlPath"])[0] as Value
+
+test("a key falls after the key the pages of its own type put it after", () => {
+  const world = worldOver(routes(1, ["slug", "code", "test", "urlPath"]))
+
+  expect(afterIn(world, ROUTE, "test")).toBe("code")
+})
+
+test("a key none of those pages write falls after nothing", () => {
+  const world = worldOver(routes(1, ["slug", "code", "test", "urlPath"]))
+
+  expect(afterIn(world, ROUTE, "invariants")).toBeNull()
+})
+
+test("a key the page already writes falls after nothing", () => {
+  const world = worldOver(routes(1, ["slug", "code", "test", "urlPath"]))
+
+  expect(afterIn(world, ROUTE, "code")).toBeNull()
+})
+
+test("a page saying no page type falls after nothing", () => {
+  const world = worldOver(routes(1, ["slug", "code", "test", "urlPath"]))
+
+  expect(afterIn(world, { slug: "one" }, "test")).toBeNull()
+})
+
+test("the first sixty-four pages writing the key settle where it falls", () => {
+  const world = worldOver([
+    ...routes(64, ["slug", "code", "urlPath", "test"]),
+    ...routes(64, ["slug", "code", "test", "urlPath"]),
+  ])
+
+  expect(afterIn(world, ROUTE, "test")).toBe("urlPath")
 })
