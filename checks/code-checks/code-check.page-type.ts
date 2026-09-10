@@ -1,14 +1,16 @@
-import type { Module } from "@akasha/code/module"
+import type { Code } from "@akasha/code/module/code"
 import type { Test } from "@akasha/code/module/test"
 import type { PageType } from "@akasha/pages/page-type"
+import type { Domain } from "akasha/domains/domain.page-type.ts"
 import type { Entries } from "./properties/entries.file-property.ts"
 import type { RunsOnAudit } from "./properties/runs-on-audit.boolean-property.ts"
 import type { RunsOnDeploy } from "./properties/runs-on-deploy.boolean-property.ts"
 import type { RunsOnPatch } from "./properties/runs-on-patch.boolean-property.ts"
 import type { RunsOnWorktree } from "./properties/runs-on-worktree.boolean-property.ts"
 
-export type CodeCheck = Module & {
-  test: Test
+export type CodeCheck = Domain & {
+  code?: Code
+  test?: Test
   runsOnPatch: RunsOnPatch
   runsOnWorktree: RunsOnWorktree
   runsOnDeploy: RunsOnDeploy
@@ -89,10 +91,11 @@ export const codeCheck = {
     "code-check/repository-is-written-by-a-change",
     "code-check/specifier-names-a-package",
   ],
-  extends: ["page-type/module"],
+  extends: ["page-type/domain"],
   loadedBy: "module/checking",
   properties: [
-    { pageProperty: "code-file-property/test", required: true, many: false },
+    { pageProperty: "code-file-property/code", required: false, many: false },
+    { pageProperty: "code-file-property/test", required: false, many: false },
     { pageProperty: "module-property-group/decision", required: false, many: false },
     { pageProperty: "module-property-group/check", required: false, many: false },
     { pageProperty: "module-property-group/audit", required: false, many: false },

@@ -37,6 +37,7 @@
     "./module": "./modules/module.page-type.ts",
     "./module-property-group": "./module-property-groups/module-property-group.page-type.ts",
     "./name-series": "./name-series/name-series.module.code.ts",
+    "./module/code": "./modules/properties/code.code-file-property.ts",
     "./module/test": "./modules/properties/test.code-file-property.ts",
     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
     "./performance": "./performances/performance.page-type.ts",
