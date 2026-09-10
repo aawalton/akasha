@@ -1,5 +1,6 @@
 #!/usr/bin/env bun
 
+import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 import { amazonMovements } from "../amazon-lines/monarch-amazon-lines.module.code.ts"
 import type { Movement } from "../amazon-match/monarch-amazon-match.module.code.ts"
 import {
@@ -30,7 +31,7 @@ import { liveTransaction, mayWriteNotes } from "../notes-write/monarch-notes-wri
 
 const GMAIL_QUERY = 'from:return@amazon.com subject:"refund issued"'
 
-const HOME = process.env.HOME ?? "/home/walton"
+const HOME = shape.string().default("/home/walton").parse(process.env.HOME)
 const BODY_CACHE = `${HOME}/.cache/monarch-amazon-refunds`
 
 export async function refundEmails(): Promise<readonly EmailMessage[]> {
