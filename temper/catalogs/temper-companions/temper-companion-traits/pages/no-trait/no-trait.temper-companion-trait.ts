@@ -1,4 +1,4 @@
-import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.ts"
+import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.types.ts"
 
 export const noTrait = {
   id: "01a05fce-c4af-7e0f-a759-fb9703c69017",

@@ -1,4 +1,4 @@
-import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.ts"
+import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.types.ts"
 
 export const bolstered = {
   id: "01a05fce-c4af-7566-b544-fc48ca193628",

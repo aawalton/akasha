@@ -1,4 +1,4 @@
-import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.ts"
+import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.types.ts"
 
 export const vigorous = {
   id: "01a05fce-c4b1-7ee6-a23d-dede085d0557",

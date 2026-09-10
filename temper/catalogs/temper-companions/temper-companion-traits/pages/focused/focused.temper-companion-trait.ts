@@ -1,4 +1,4 @@
-import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.ts"
+import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.types.ts"
 
 export const focused = {
   id: "01a05fce-c4af-7d13-ad7c-a7e9b1934c38",

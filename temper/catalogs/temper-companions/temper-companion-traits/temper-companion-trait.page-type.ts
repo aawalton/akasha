@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { MetricId } from "../../../temper-catalog/things/properties/metric-id.text-property.ts"
-import type { IsReduction } from "../temper-companion-things/properties/is-reduction.boolean-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-import type { TraitEffectType } from "./properties/trait-effect-type.text-property.ts"
-
-export type TemperCompanionTrait = TemperCompanionThing & {
-  isReduction: IsReduction
-  metricId?: MetricId
-  effectType?: TraitEffectType
-}
 
 export const temperCompanionTrait = {
   id: "01a05fce-1854-7c89-a767-43b54ae4cefa",
@@ -29,4 +19,5 @@ export const temperCompanionTrait = {
     { pageProperty: "text-property/trait-effect-type", required: false, many: false },
     { pageProperty: "boolean-property/is-reduction", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType

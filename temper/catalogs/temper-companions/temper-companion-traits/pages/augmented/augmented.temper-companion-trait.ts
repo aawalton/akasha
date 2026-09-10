@@ -1,4 +1,4 @@
-import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.ts"
+import type { TemperCompanionTrait } from "../../temper-companion-trait.page-type.types.ts"
 
 export const augmented = {
   id: "01a05fce-c4ae-71a9-94bd-92eaf44306b0",
