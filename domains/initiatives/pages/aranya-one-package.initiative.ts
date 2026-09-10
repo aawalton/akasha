@@ -34,7 +34,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "Three `ios-app` folders are packages today only because one route delivers them apart from the root: `app-building` rsyncs the app folder and three shared paths to `$HOME/.akasha-ios-build` carrying no root manifest, and `build-sim` runs `npm install` there against six registry-pinned `@capacitor/*` deps. The native-app intent above retires that route. 113 files no page claims are absent from the index, so a fold neither sees nor respells their reaches; 19 packages are named from them.",
+        "Folded: `pages`, `rules-engine`, `supabase-auth`, `utils`. Recipe: `change-file` taking `manifest` off the page, `change-page-page-type` to `domain`, `remove-package-manifest`. The lockfile and the root `workspace:*` entry follow. `vscode-typings` cannot fold: `@types/vscode` is how the typecheck resolves. `dockerfile-extensions` and `tunnel-routes` hold four more. `indexes` needs `no-index-path-spelled` mended, two string reaches the act cannot see respelled, and two files split.\n",
     },
     {
       statement: "One change replaces every relative path in a folder with an absolute path.",
