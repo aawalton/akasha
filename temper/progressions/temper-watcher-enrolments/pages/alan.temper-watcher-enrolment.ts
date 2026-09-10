@@ -1,4 +1,4 @@
-import type { TemperWatcherEnrolment } from "../temper-watcher-enrolment.page-type.types.ts"
+import type { TemperWatcherEnrolment } from "../temper-watcher-enrolment.page-type.ts"
 
 export const alan = {
   id: "01a05fd3-698d-785b-8c2d-028d78baca65",
