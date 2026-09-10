@@ -18,6 +18,9 @@
     "TemperTableFunctions",
     "TemperHud"
   ],
+  "optionalDependsOn": [
+    "TemperCompanions"
+  ],
   "additionalLuaFiles": [
     "TemperCharactersConfig.lua"
   ],
