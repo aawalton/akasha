@@ -3,13 +3,12 @@ import {
   lineOf,
   parsedAs,
 } from "akasha/code-system/code-source/code-source.module.code.ts"
+import { statesVersionSeven } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import ts from "typescript"
 
 const ID = "id"
 
 const ANY_UUID = /^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$/
-
-const UUID_VERSION_7 = /^[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/
 
 const VARIANT = new Set(["8", "9", "a", "b"])
 
@@ -62,7 +61,7 @@ export function statedIn(path: string, text: string): readonly Stated[] {
 }
 
 function reasonFor(one: Stated): string | null {
-  if (UUID_VERSION_7.test(one.value)) return null
+  if (statesVersionSeven(one.value)) return null
   const states = `line ${one.line} states id "${one.value}", which`
   if (!ANY_UUID.test(one.value)) return `${states} is not a uuid`
   const lower = one.value.toLowerCase()
