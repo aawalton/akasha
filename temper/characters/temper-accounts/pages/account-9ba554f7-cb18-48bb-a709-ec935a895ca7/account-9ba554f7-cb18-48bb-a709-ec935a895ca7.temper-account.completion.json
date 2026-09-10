@@ -55404,7 +55404,7 @@
     },
     "403": {
       "name": "Savage Werewolf",
-      "slotsUnlocked": 6,
+      "slotsUnlocked": 8,
       "subcategoryName": "Moon Hunter Keep",
       "pieces": {
         "1": {
@@ -55417,7 +55417,7 @@
         },
         "3": {
           "name": "Savage Werewolf's Jack",
-          "unlocked": false
+          "unlocked": true
         },
         "4": {
           "name": "Savage Werewolf's Bracers",
@@ -55437,7 +55437,7 @@
         },
         "8": {
           "name": "Savage Werewolf's Necklace",
-          "unlocked": false
+          "unlocked": true
         },
         "9": {
           "name": "Savage Werewolf's Ring",
