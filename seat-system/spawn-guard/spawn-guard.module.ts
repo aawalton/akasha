@@ -6,4 +6,10 @@ export const spawnGuard = {
   slug: "spawn-guard",
   definition: "whether a name may be spawned into, by whether anything has it and can be seen",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A refusal names this module by its slug rather than by its path.",
+    },
+  ],
 } as const satisfies Module

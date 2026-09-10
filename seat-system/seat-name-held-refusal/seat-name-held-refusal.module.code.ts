@@ -1,9 +1,6 @@
 import { ruleText } from "akasha/alan/harness/rules-engine/instructions-rule/instructions-rule.module.code.ts"
 import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
-import {
-  DECLARATION_RELATIVE_PATH,
-  decideSpawnGuard,
-} from "../spawn-guard/spawn-guard.module.code.ts"
+import { DECLARING_MODULE, decideSpawnGuard } from "../spawn-guard/spawn-guard.module.code.ts"
 
 export interface NameHolder {
   readonly id: string
@@ -15,7 +12,7 @@ export function refuseHeldName(holder: NameHolder | null): string | null {
   if (guard.kind !== "reject") return null
   return ruleText(guard.reason, "reason", {
     command: "seat start",
-    where: DECLARATION_RELATIVE_PATH,
+    where: DECLARING_MODULE,
     call: "decideSpawnGuard",
   })
 }

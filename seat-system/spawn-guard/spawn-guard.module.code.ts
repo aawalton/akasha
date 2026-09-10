@@ -1,6 +1,6 @@
 import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
 
-export const DECLARATION_RELATIVE_PATH = "seat-system/spawn-guard/spawn-guard.module.code.ts"
+export const DECLARING_MODULE = "spawn-guard"
 
 export const SPAWN_REJECT_BASES = ["holder-live", "holder-uncertain"] as const
 
