@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const theDungeonOfOneThousandDeaths0015TheCull = {
   id: "01a064b4-9ec8-75aa-b3b3-a7858f89b1c4",

@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const theIdleEpoch0007Exponential = {
   id: "01a064b4-9ec8-7c9b-98b5-e14117fa27eb",

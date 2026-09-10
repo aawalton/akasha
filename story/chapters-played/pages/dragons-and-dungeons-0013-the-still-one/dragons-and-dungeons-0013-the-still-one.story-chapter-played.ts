@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const dragonsAndDungeons0013TheStillOne = {
   id: "01a064b4-9ec8-7fe6-93cf-58d763f68cad",

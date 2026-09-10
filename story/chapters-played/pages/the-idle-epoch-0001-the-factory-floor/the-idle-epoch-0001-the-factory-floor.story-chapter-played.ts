@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const theIdleEpoch0001TheFactoryFloor = {
   id: "01a064b4-9ec8-7e5b-8c0f-95e703b4f05b",

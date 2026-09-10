@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const dragonsAndDungeons0011TheLeashAndTheStair = {
   id: "01a064b4-9ec8-7850-be21-08cc055d2f78",

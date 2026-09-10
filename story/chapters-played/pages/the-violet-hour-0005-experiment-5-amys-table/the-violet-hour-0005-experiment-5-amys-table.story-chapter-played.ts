@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const theVioletHour0005Experiment5AmysTable = {
   id: "01a064b4-9ec8-7934-9a62-18397380609b",

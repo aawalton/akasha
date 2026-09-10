@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const theIdleEpoch0010WhoDeservesToSurvive = {
   id: "01a064b4-9ec8-7e97-a09a-d265802a1203",

@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const towerAndTheStar0007TheWrongKindOfFast = {
   id: "01a064b4-9ec8-7109-a622-3b3cd9ca4562",

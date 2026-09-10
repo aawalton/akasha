@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const dragonsAndDungeons0012TheWardenOfTheWell = {
   id: "01a064b4-9ec8-7532-9c9f-f3ea833620e4",

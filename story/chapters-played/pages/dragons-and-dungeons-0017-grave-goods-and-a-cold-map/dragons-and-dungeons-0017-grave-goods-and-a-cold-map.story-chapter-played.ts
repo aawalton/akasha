@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const dragonsAndDungeons0017GraveGoodsAndAColdMap = {
   id: "01a064b4-9ec8-7454-afe2-e9dc635cfe5f",

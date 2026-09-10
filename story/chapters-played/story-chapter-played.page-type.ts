@@ -1,16 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Collection } from "../../collections/collection.page-type.types.ts"
-import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { PlayedChapterStory } from "./properties/played-chapter-story.relation-property.ts"
-
-export type StoryChapterPlayed = Collection & {
-  title: Title
-  story: PlayedChapterStory
-  ownLength: OwnLength
-  prose: Prose
-}
 
 export const storyChapterPlayed = {
   id: "01a064b4-46c9-7489-9817-d9dae65e7936",
@@ -42,4 +30,5 @@ export const storyChapterPlayed = {
       statement: "A chapter is part of the one story the chapter was played in.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

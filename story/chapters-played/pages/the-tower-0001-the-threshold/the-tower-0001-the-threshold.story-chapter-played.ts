@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const theTower0001TheThreshold = {
   id: "01a064b4-9ec8-7c0c-bc63-3530aef4e3e4",

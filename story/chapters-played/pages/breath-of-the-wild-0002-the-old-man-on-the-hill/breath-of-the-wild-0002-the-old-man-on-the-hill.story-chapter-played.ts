@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const breathOfTheWild0002TheOldManOnTheHill = {
   id: "01a064b4-9ec8-7905-8460-f8a703c85ac5",

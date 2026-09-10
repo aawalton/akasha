@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const thePlacesSheCarries0005WhatThePoolHeld = {
   id: "01a064b4-9ec8-7472-8f5d-230b029a19e0",

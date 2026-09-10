@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const breathOfTheWild0003FourWallsOfLight = {
   id: "01a064b4-9ec8-7d2a-b8c0-2cdd50069f4a",

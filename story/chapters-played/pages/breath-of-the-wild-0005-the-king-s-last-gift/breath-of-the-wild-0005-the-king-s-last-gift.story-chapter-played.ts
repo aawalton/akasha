@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const breathOfTheWild0005TheKingSLastGift = {
   id: "01a064b4-9ec8-7864-8434-774f6b603c27",

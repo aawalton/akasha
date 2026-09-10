@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const thePlacesSheCarries0007WhatTheNumbersSaid = {
   id: "01a064b4-9ec8-77bc-a7e5-5b52ded104f1",

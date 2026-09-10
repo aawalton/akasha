@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const dragonsAndDungeons0014TheSonInTheIron = {
   id: "01a064b4-9ec8-78e0-a5d6-e449ab4a4a00",

@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const towerAndTheStar0016RelationalGrowthPattern = {
   id: "01a064b4-9ec8-7a36-ab2e-02f7a235041d",

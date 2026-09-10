@@ -1,4 +1,4 @@
-import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts"
+import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.types.ts"
 
 export const towerAndTheStar0012ClassSelectionAndWhatComesAfter = {
   id: "01a064b4-9ec8-7524-b56d-974c0fb5ed35",
