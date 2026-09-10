@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "3 refusals: the repo root, `seat-log-days/pages` and `subagents/pages`. Both `seat-system` folders are refused only for the flat pages left in them; a sidecar no page claims is not in the index, so no shape sees it. `log-day-writing` and `subagent-presence` compose `<slug>/<slug>` now and take up a page already flat, so each folder clears as its mortal pages age out. A subagent's writer is spawned per call and has the new path; a log day's writer runs in the supervisor and waits on a restart.\n",
+        "2 refusals left, both `pages` folders of flat mortal pages: `seat-log-days` (253) and `subagents` (1). A flat log day carries a `lines` file beside it, so each needs a folder of its own; the writer composes that now, proved by nimue's two folders written today. The sweeper keeps seven days, so the flat ones die by 2026-09-17, and moving them first churns 253 folders that go with them. The repo root cleared once `pairedIn` learned to read a workspace beside a domain.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
