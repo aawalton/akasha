@@ -1,4 +1,4 @@
-import { revokeDeviceSecretSchema } from "@akasha/persons/device-secret-body"
+import { revokeDeviceSecretSchema } from "akasha/persons/device-secret-body/device-secret-body.module.code.ts"
 import { revokeDeviceSecret } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
 import { resolveDeviceTokenContext } from "../../.server/device-token-context/device-token-context.module.code.ts"
 import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"

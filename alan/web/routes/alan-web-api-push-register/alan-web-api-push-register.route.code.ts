@@ -1,6 +1,6 @@
-import { registerDeviceToken } from "@akasha/persons/device-token"
-import { ALANWALTON_PUSH_APP } from "@akasha/persons/push-apps"
-import { registerDeviceTokenSchema } from "@akasha/persons/push-register-body"
+import { registerDeviceToken } from "akasha/persons/device-token-registration/device-token-registration.module.code.ts"
+import { ALANWALTON_PUSH_APP } from "akasha/persons/push-apps/push-apps.module.code.ts"
+import { registerDeviceTokenSchema } from "akasha/persons/push-register-body/push-register-body.module.code.ts"
 import { resolveDeviceTokenContext } from "../../.server/device-token-context/device-token-context.module.code.ts"
 import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 

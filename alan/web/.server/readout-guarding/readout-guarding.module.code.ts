@@ -1,4 +1,4 @@
-import { ROUTE_TARGETS } from "@akasha/persons/route-access"
+import { ROUTE_TARGETS } from "akasha/persons/route-access/route-access.module.code.ts"
 import { buildReadoutRefusal } from "akasha/readouts/credential/readout-credential.module.code.ts"
 import {
   type DeviceSecretContext,

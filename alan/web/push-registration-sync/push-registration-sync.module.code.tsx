@@ -1,9 +1,9 @@
 "use client"
 
 import { UserIdContext } from "@akasha/pages-ui/use-user-id"
-import { decidePermissionAction } from "@akasha/persons/push-permission"
-import { registerDeviceTokenSchema } from "@akasha/persons/push-register-body"
-import { decidePushRoute } from "@akasha/persons/push-routing"
+import { decidePermissionAction } from "akasha/persons/push-permission/push-permission.module.code.ts"
+import { registerDeviceTokenSchema } from "akasha/persons/push-register-body/push-register-body.module.code.ts"
+import { decidePushRoute } from "akasha/persons/push-routing/push-routing.module.code.ts"
 import { useContext, useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
 import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"

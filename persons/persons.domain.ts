@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../domains/domain.page-type.types.ts"
 
 export const persons = {
   id: "01a053e0-6cf6-7ff5-b070-19e936336f59",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "persons",
   definition: "a human this system reaches, and what serving them takes",
-  manifest: "json",
+
   parts: [
     "page-type/access-kind",
     "page-type/authority-kind",
@@ -32,4 +32,4 @@ export const persons = {
     "module/sms-consent",
     "module/sms-opt-in",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

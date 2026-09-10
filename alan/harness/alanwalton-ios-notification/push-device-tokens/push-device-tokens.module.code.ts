@@ -1,5 +1,8 @@
 import type { Fetcher } from "@akasha/pages-service/calling"
-import { deviceTokensFor, dropDeviceToken } from "@akasha/persons/device-token"
+import {
+  deviceTokensFor,
+  dropDeviceToken,
+} from "akasha/persons/device-token-registration/device-token-registration.module.code.ts"
 
 export const ON_THE_WORKSTATION = "http://127.0.0.1:8787"
 

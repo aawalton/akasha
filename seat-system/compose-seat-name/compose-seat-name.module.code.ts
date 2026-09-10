@@ -1,5 +1,8 @@
-import { answeredByOf, peopleStanding } from "@akasha/persons/person-reading"
 import { personaAt } from "akasha/personas/reading/persona-reading.module.code.ts"
+import {
+  answeredByOf,
+  peopleStanding,
+} from "akasha/persons/person-reading/person-reading.module.code.ts"
 import { personaIsDefault } from "../seat-resolve/seat-resolve.module.code.ts"
 
 export const JOINER = "-"

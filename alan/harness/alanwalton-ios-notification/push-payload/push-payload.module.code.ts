@@ -1,6 +1,6 @@
 import { buildPageHref } from "@akasha/pages/url/page-href"
 import { toPageTypeSlug } from "@akasha/pages/url/page-type-slug"
-import { SMILINGJENNY_PUSH_APP } from "@akasha/persons/push-apps"
+import { SMILINGJENNY_PUSH_APP } from "akasha/persons/push-apps/push-apps.module.code.ts"
 import {
   type Feed,
   NOTIFICATION_FEED_PAGE_TYPE_SLUG,

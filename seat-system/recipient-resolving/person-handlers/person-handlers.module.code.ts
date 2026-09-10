@@ -1,5 +1,5 @@
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { peopleStanding } from "@akasha/persons/person-reading"
+import { peopleStanding } from "akasha/persons/person-reading/person-reading.module.code.ts"
 
 export interface PersonHandlerTarget {
   readonly persona: string

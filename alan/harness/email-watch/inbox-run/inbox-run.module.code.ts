@@ -1,10 +1,10 @@
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
-import { personOr } from "@akasha/persons/person-reading"
 import { forwardOf } from "akasha/google/email/forwarded-message/forwarded-message.module.code.ts"
 import type {
   Mailbox,
   Message,
 } from "akasha/google/email/gmail-mailbox/gmail-mailbox.module.code.ts"
+import { personOr } from "akasha/persons/person-reading/person-reading.module.code.ts"
 import { decide } from "../email-rule-deciding/email-rule-deciding.module.code.ts"
 import type { Rule } from "../email-rule-reading/email-rule-reading.module.code.ts"
 import { rulesOf } from "../email-rule-reading/email-rule-reading.module.code.ts"

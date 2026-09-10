@@ -1,5 +1,5 @@
-import { mintDeviceSecretSchema } from "@akasha/persons/device-secret-body"
-import { ROUTE_TARGETS } from "@akasha/persons/route-access"
+import { mintDeviceSecretSchema } from "akasha/persons/device-secret-body/device-secret-body.module.code.ts"
+import { ROUTE_TARGETS } from "akasha/persons/route-access/route-access.module.code.ts"
 import { mintDeviceSecret } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
 import { resolveDeviceTokenContext } from "../../.server/device-token-context/device-token-context.module.code.ts"
 import { holdsRouteAccess } from "../../.server/route-access-holding/route-access-holding.module.code.ts"

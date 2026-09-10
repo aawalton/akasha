@@ -1,4 +1,4 @@
-import { routeAccessForAccount } from "@akasha/persons/route-access"
+import { routeAccessForAccount } from "akasha/persons/route-access/route-access.module.code.ts"
 
 export async function holdsRouteAccess(accountUserId: string, target: string): Promise<boolean> {
   const decision = await routeAccessForAccount(accountUserId, target)
