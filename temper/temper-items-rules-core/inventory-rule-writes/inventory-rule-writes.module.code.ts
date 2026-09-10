@@ -22,11 +22,15 @@ export interface RuleWrites {
   readonly deletes: readonly string[]
 }
 
+function fieldsOf(row: Row | HeldRule["page"]): ReadonlyMap<string, unknown> {
+  return new Map(Object.entries(row))
+}
+
 export function sameRow(one: Row, two: Row | undefined): boolean {
   if (two === undefined) return false
-  const held = two as unknown as Record<string, unknown>
-  for (const [key, value] of Object.entries(one as unknown as Record<string, unknown>)) {
-    if (held[key] !== value) return false
+  const held = fieldsOf(two)
+  for (const [key, value] of fieldsOf(one)) {
+    if (held.get(key) !== value) return false
   }
   return true
 }
@@ -46,7 +50,7 @@ export function valuesFor(wanted: HeldRule, was: HeldRule | undefined): Record<s
 }
 
 export function alreadySo(was: HeldRule, values: Record<string, unknown>): boolean {
-  const page = was.page as unknown as Record<string, unknown>
+  const page = fieldsOf(was.page)
   for (const [key, value] of Object.entries(values)) {
     if (key === CONDITIONS) {
       if (!sameRows(value as readonly ConditionEntry[], was.conditions ?? [])) return false
@@ -56,7 +60,7 @@ export function alreadySo(was: HeldRule, values: Record<string, unknown>): boole
       if (!sameRows(value as readonly ChainEntry[], was.chain ?? [])) return false
       continue
     }
-    if (page[key] !== value) return false
+    if (page.get(key) !== value) return false
   }
   return true
 }

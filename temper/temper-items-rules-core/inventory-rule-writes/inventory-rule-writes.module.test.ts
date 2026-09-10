@@ -86,7 +86,7 @@ test("rows the page already carries are no change", () => {
 
 test("the id a landed row carries is no difference", () => {
   const landed = { id: "01a072b6-0546-7d78-8e19-d3cb86901c69", ...A_ROW }
-  expect(sameRows([A_ROW], [landed as unknown as typeof A_ROW])).toBe(true)
+  expect(sameRows([A_ROW], [landed])).toBe(true)
 })
 
 test("a row the page does not carry is a difference", () => {
