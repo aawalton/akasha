@@ -37,6 +37,28 @@ function refuse(message: string, code: number): never {
   process.exit(code)
 }
 
+function parseSettingsDocument(held: unknown, path: string): Record<string, unknown> {
+  if (typeof held === "object" && held !== null && !Array.isArray(held)) {
+    return held as Record<string, unknown>
+  }
+  throw new Error(
+    `the agent settings document at ${path} holds ${Array.isArray(held) ? "an array" : typeof held} ` +
+      "at the top level, where every reader of it walks an object of keys."
+  )
+}
+
+function settingsDocument(raw: string, path: string): Record<string, unknown> {
+  try {
+    const parsed: unknown = JSON.parse(raw)
+    return parseSettingsDocument(parsed, path)
+  } catch (cause) {
+    throw new Error(
+      `the agent settings document at ${path} is not a readable JSON object, so nothing is ` +
+        `answered about what the fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`
+    )
+  }
+}
+
 export function agentSettings(): Record<string, unknown> {
   const path = SETTINGS_AT
 
@@ -50,24 +72,7 @@ export function agentSettings(): Record<string, unknown> {
     )
   }
 
-  let parsed: unknown
-  try {
-    parsed = JSON.parse(raw)
-  } catch (cause) {
-    throw new Error(
-      `the agent settings document at ${path} is not readable JSON, so nothing is answered ` +
-        `about what the fleet loads: ${cause instanceof Error ? cause.message : String(cause)}`
-    )
-  }
-
-  if (typeof parsed !== "object" || parsed === null || Array.isArray(parsed)) {
-    throw new Error(
-      `the agent settings document at ${path} holds ${Array.isArray(parsed) ? "an array" : typeof parsed} ` +
-        "at the top level, where every reader of it walks an object of keys."
-    )
-  }
-
-  const document = parsed as Record<string, unknown>
+  const document = settingsDocument(raw, path)
   const root = ownRepoRoot()
   let derived: Record<string, HookRegistration[]>
   try {
