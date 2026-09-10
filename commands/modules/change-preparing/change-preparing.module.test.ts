@@ -5,6 +5,9 @@ import type { FileChange } from "akasha/changes/modules/answer/change-answer.mod
 import { bytesOf } from "akasha/testing-system/bodying/bodying.module.code.ts"
 import { put } from "akasha/testing-system/putting/putting.module.code.ts"
 import { applied } from "../applying/applying.module.code.ts"
+import type { Running } from "../drafting/drafting.module.code.ts"
+import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
+import { baseOf } from "../landing/landing.module.code.ts"
 import {
   AGENT,
   checking,
@@ -15,10 +18,7 @@ import {
   scratch,
   wrote,
   wroteWith,
-} from "../asking/asking.module.test-fixtures.ts"
-import type { Running } from "../drafting/drafting.module.code.ts"
-import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
-import { baseOf } from "../landing/landing.module.code.ts"
+} from "../repo-seeding/repo-seeding.module.code.ts"
 import { preparing } from "./change-preparing.module.code.ts"
 import {
   BROKEN,

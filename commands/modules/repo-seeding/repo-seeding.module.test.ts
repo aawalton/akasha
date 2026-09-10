@@ -20,7 +20,7 @@ import {
   UNLOADABLE_AT,
   wrote,
   wroteWith,
-} from "./asking.module.test-fixtures.ts"
+} from "./repo-seeding.module.code.ts"
 
 afterAll(scratch.sweep)
 

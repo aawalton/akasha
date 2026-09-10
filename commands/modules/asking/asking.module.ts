@@ -7,20 +7,14 @@ export const asking = {
   slug: "asking",
   definition: "the pieces a command asks for a change with",
   code: "ts",
-  test: "ts",
-  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A count of one is said with the singular and every other count with the plural.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here lands a change, as every road that lands reaches a change page.",
-    },
-    {
       invariantKind: "gap",
-      statement: "These pieces answer to more than one concern, so this is more than one module.",
+      statement: "The one piece left here belongs under no domain this module names.",
     },
   ],
 } as const satisfies Module

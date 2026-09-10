@@ -72,7 +72,7 @@ function templateFor(named: Readonly<Record<string, string>>): string {
   const key = JSON.stringify(named)
   const held = templates.get(key)
   if (held !== undefined && existsSync(held)) return held
-  const at = builtAt(scratch.rootFor("akasha-asking-template-"), named)
+  const at = builtAt(scratch.rootFor("akasha-repo-seeding-template-"), named)
   templates.set(key, at)
   return at
 }
@@ -85,7 +85,7 @@ export function repoAt(root: string, named: Readonly<Record<string, string>>): s
 export function repoWith(
   named: Readonly<Record<string, string>> = { "akasha/one.ts": "committed\n" }
 ): string {
-  return repoAt(scratch.rootFor("akasha-asking-"), named)
+  return repoAt(scratch.rootFor("akasha-repo-seeding-"), named)
 }
 
 function checksBroken(root: string): undefined {

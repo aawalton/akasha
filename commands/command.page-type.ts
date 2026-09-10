@@ -91,6 +91,7 @@ export const command = {
     "module/asking",
     "module/body-reaching",
     "module/refusing",
+    "module/repo-seeding",
     "module/applying",
     "module/landing",
     "module/during-call",
