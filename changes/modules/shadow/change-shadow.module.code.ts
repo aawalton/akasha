@@ -1,6 +1,8 @@
 import { existsSync } from "node:fs"
 import { join, relative } from "node:path"
+import { formattedBody } from "@akasha/code/code-format"
 import { trackedUnder } from "@akasha/git/git-pathspec"
+import { type Facing, generatedIn } from "@akasha/indexes/property-carrying"
 import type { Change } from "../../../pages/change/change.module.code.ts"
 import type { Answering } from "../../../pages/indexes/answering/index-answering.module.code.ts"
 import type { Reading } from "../../../pages/indexes/shape/index-shape.module.code.ts"
@@ -39,6 +41,8 @@ import type {
 
 const BYTES = new TextEncoder()
 
+const TEXT = new TextDecoder()
+
 const OUTSIDE = ".."
 
 export type Reaching = (world: World, at: string, given: unknown) => Promise<Answer>
@@ -54,6 +58,15 @@ export type World = {
   readonly base: BodyOf
   readonly over: Answer
   readonly reaching?: Reaching
+}
+
+export function facingIn(world: World): Facing {
+  return {
+    kindsUnder: (of) => world.index.kindsUnder(of),
+    everyOfType: (kind) => world.index.everyOfType(kind),
+    valueAt: (path) => world.index.pageByPath(path),
+    carryingOf: (named) => world.index.carryingOf(named),
+  }
 }
 
 function treeUnder(root: string, folder: string, index: Answering): readonly string[] {
@@ -113,14 +126,50 @@ export type Reached = {
   readonly world: World
 }
 
+export function carrying(world: World, said: Answer): World {
+  return isLedger(world) ? addedTo(world, said) : worldOver(world, said)
+}
+
 export async function reach(world: World, at: Reaches, given: unknown): Promise<Reached> {
   const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
   if (said.refused !== null) return { said, world }
   try {
-    return { said, world: isLedger(world) ? addedTo(world, said) : worldOver(world, said) }
+    return { said, world: carrying(world, said) }
   } catch (cause) {
     return { said: refusing(cause instanceof Error ? cause.message : String(cause)), world }
   }
+}
+
+function tidied(world: World, path: string): World {
+  const was = world.textOf(path)
+  if (was === null) return world
+  const now = TEXT.decode(formattedBody(world.root, path, BYTES.encode(was)).body)
+  if (now === was) return world
+  const said: Answer = {
+    edits: [{ kind: "replace", path, contentFrom: was, contentTo: now }],
+    refused: null,
+  }
+  return carrying(world, said)
+}
+
+export async function seeding(
+  world: World,
+  facing: Facing,
+  at: Reaches,
+  given: unknown
+): Promise<Reached> {
+  const answer = await reach(world, at, given)
+  if (answer.said.refused !== null) return answer
+  const held: FileChange[] = []
+  const sown: string[] = []
+  for (const one of answer.said.edits) {
+    if (one.kind === "replace" && generatedIn(facing, one.path)) sown.push(one.path)
+    else held.push(one)
+  }
+  if (sown.length === 0) return answer
+  let seen = answer.world
+  for (const path of sown) seen = tidied(seen, path)
+  return { said: { edits: held, refused: null }, world: seen }
 }
 
 export function bytesOf(body: Held | null): Uint8Array | null {

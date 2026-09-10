@@ -2,6 +2,9 @@ import { createRequire } from "node:module"
 import { join } from "node:path"
 import { textOf } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
+import { importersIn, readingIn } from "@akasha/indexes"
+import { type Facing, facingOn, generatedIn } from "@akasha/indexes/property-carrying"
+import type { Reading } from "@akasha/indexes/shape"
 import type { Change } from "@akasha/pages/change"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -119,7 +122,24 @@ export function typedOver(
   return { edits, said }
 }
 
+function generatedReader(facing: Facing, reading: Reading, path: string): boolean {
+  for (const one of importersIn(reading, path)) {
+    if (generatedIn(facing, one)) return true
+  }
+  return false
+}
+
+function readByGenerated(root: string, gone: readonly string[]): boolean {
+  const reading = readingIn(root)
+  const facing = facingOn(reading)
+  for (const path of gone) {
+    if (generatedReader(facing, reading, path)) return true
+  }
+  return false
+}
+
 export function couldTurn(change: Change): boolean {
+  const gone: string[] = []
   for (const path of change.changed) {
     const said = partedIn(path)
     if (said === null || said.held !== HOLDS) continue
@@ -127,8 +147,9 @@ export function couldTurn(change: Change): boolean {
     if (said.sections.includes(TYPES)) return true
     if (said.sections.length > 0) continue
     if (said.pageType === PAGE_TYPE) return true
+    if (change.after(path) === null && change.before(path) !== null) gone.push(path)
   }
-  return false
+  return gone.length > 0 && readByGenerated(change.root, gone)
 }
 
 export function typesFor(change: Change): Typed {

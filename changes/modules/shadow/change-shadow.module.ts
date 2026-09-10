@@ -307,5 +307,30 @@ export const changeShadow = {
       invariantKind: "departure",
       statement: "A repository git will not answer for answers nothing rather than no file.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "Carrying a world onto an answer is one act, and a reach is one caller of that act.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Facing a world as the index reads its properties is one act here rather than one per change.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A generated body a change repoints is carried onto the world and withheld from the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body carried onto the world rather than answered is formatted as an authored body is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which bodies are generated is read from the world before the change rather than after.",
+    },
   ],
 } as const satisfies Module

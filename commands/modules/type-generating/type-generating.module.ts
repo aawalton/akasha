@@ -81,5 +81,20 @@ export const typeGenerating = {
       invariantKind: "absence",
       statement: "Nothing here writes a file.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path the change leaves no body at, that a generated body imports, could turn a type.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which bodies import that path is read from the index before the change rather than the shadow.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "That reading is taken only where the names of the changed paths answered nothing.",
+    },
   ],
 } as const satisfies Module

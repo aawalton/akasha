@@ -121,5 +121,10 @@ export const propertyCarrying = {
       invariantKind: "absence",
       statement: "Whether a page states the value is not answered here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A face over a reading is answered on its own, so a caller asking of many paths builds it once.",
+    },
   ],
 } as const satisfies Module

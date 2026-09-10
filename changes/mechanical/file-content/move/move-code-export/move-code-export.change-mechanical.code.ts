@@ -1,11 +1,15 @@
 import { basename, dirname } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
 import { reachingOf } from "@akasha/indexes/package-reaching"
-import { type Facing, generatedIn } from "@akasha/indexes/property-carrying"
+import { generatedIn } from "@akasha/indexes/property-carrying"
 import ts from "typescript"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import {
+  facingIn,
+  reach,
+  type World,
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_FILE_CODE = "change-mechanical/add-file-code"
 
@@ -233,15 +237,6 @@ function repointedAt(
     return { at, old: textOfNode(text, one), new: pointedAt(text, one, bound, given, landing) }
   }
   return null
-}
-
-function facingIn(world: World): Facing {
-  return {
-    kindsUnder: (of) => world.index.kindsUnder(of),
-    everyOfType: (kind) => world.index.everyOfType(kind),
-    valueAt: (path) => world.index.pageByPath(path),
-    carryingOf: (named) => world.index.carryingOf(named),
-  }
 }
 
 function repointedIn(world: World, given: Asked): { readonly found: readonly Passage[] } | Refused {

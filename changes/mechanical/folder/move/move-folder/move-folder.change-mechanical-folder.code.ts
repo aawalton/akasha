@@ -4,7 +4,12 @@ import { manifestsIn } from "@akasha/indexes/package-reaching"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import {
+  facingIn,
+  reach,
+  seeding,
+  type World,
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 
@@ -88,13 +93,14 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if ("unread" in reading) return refusing(reading.unread)
   const carried = Object.fromEntries(moved)
   const manifests = manifestsIn(world.index.everyPath(), world.index.fileKeysAt())
+  const facing = facingIn(world)
   const edits: FileChange[] = []
   let seen = world
   for (const [one, next] of moved) {
-    const carrying = await reach(seen, MOVE_FILE, { from: one, to: next })
-    if (carrying.said.refused !== null) return carrying.said
-    edits.push(...carrying.said.edits)
-    seen = carrying.world
+    const going = await reach(seen, MOVE_FILE, { from: one, to: next })
+    if (going.said.refused !== null) return going.said
+    edits.push(...going.said.edits)
+    seen = going.world
     const answer = await reach(seen, CHANGE_IMPORTS, { was: one, now: next, moved: carried })
     if (answer.said.refused !== null) return answer.said
     edits.push(...answer.said.edits)
@@ -105,7 +111,8 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     if (seen.textOf(path) === null) {
       return refusing(`\`${path}\` names a path that moved and could not be read`)
     }
-    const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved: carried })
+    const asked = { was: path, now: path, moved: carried }
+    const answer = await seeding(seen, facing, CHANGE_IMPORTS, asked)
     if (answer.said.refused !== null) return answer.said
     edits.push(...answer.said.edits)
     seen = answer.world

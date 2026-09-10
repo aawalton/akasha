@@ -66,6 +66,21 @@ export const moveFileCode = {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A generated body importing the file is seeded onto the world rather than answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Such a body is written by the thing that generates it, so the answer names it nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body seeded is formatted as an authored body is, so the shadow holds the landing's bytes.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical

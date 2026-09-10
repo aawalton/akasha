@@ -4,7 +4,12 @@ import { manifestsIn } from "@akasha/indexes/package-reaching"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import {
+  facingIn,
+  reach,
+  seeding,
+  type World,
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
 
@@ -30,20 +35,21 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const moved = { [given.from]: given.to }
   const reading = importingOf(world.index, new Map(Object.entries(moved)))
   if ("unread" in reading) return refusing(reading.unread)
-  const carrying = await reach(world, MOVE_FILE, { from: given.from, to: given.to })
-  if (carrying.said.refused !== null) return carrying.said
-  const carried = await reach(carrying.world, CHANGE_IMPORTS, {
+  const facing = facingIn(world)
+  const going = await reach(world, MOVE_FILE, { from: given.from, to: given.to })
+  if (going.said.refused !== null) return going.said
+  const carried = await reach(going.world, CHANGE_IMPORTS, {
     was: given.from,
     now: given.to,
     moved,
   })
   if (carried.said.refused !== null) return carried.said
-  const edits: FileChange[] = [...carrying.said.edits, ...carried.said.edits]
+  const edits: FileChange[] = [...going.said.edits, ...carried.said.edits]
   let seen = carried.world
   for (const path of reading.importers) {
     const held = seen.textOf(path)
     if (held === null) return refusing(`\`${path}\` names what moved and could not be read`)
-    const said = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved })
+    const said = await seeding(seen, facing, CHANGE_IMPORTS, { was: path, now: path, moved })
     if (said.said.refused !== null) return said.said
     edits.push(...said.said.edits)
     seen = said.world

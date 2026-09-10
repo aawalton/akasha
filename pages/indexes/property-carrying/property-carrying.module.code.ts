@@ -166,12 +166,13 @@ function kindedIn(given: string | Reading): Kinded {
   }
 }
 
+export function facingOn(given: string | Reading): Facing {
+  return { ...kindedIn(given), carryingOf: (named) => carryingOf(given, named) }
+}
+
 export function generatedAt(given: string | Reading, path: string): boolean {
   try {
-    const kinded = kindedIn(given)
-    const carrying = (named: string): Carried => carryingOf(given, named)
-    if (sectionHeld(path, slugsWhere(kinded, generates, carrying))) return true
-    return heldBeside(path, namingUnder(kinded), generates, carrying)
+    return generatedIn(facingOn(given), path)
   } catch {
     return false
   }

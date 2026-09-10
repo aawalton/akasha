@@ -137,6 +137,21 @@ export const moveFolder = {
       statement:
         "The imports, the pages' files and the folders emptied are judged by the guards here.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A generated body outside the folder is seeded onto the world rather than answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Such a body is written by the thing that generates it, so the answer names it nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A body seeded is formatted as an authored body is, so the shadow holds the landing's bytes.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFolder
