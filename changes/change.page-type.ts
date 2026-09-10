@@ -34,9 +34,11 @@ export const change = {
     "module/target-narrowing",
     "module/key-requiring",
     "module/value-carrying",
+    "boolean-property/temporary",
   ],
   properties: [
     { pageProperty: "relation-property/change-kind", required: true, many: false },
+    { pageProperty: "boolean-property/temporary", required: false, many: false, default: "false" },
     { pageProperty: "relation-property/change-mode", required: true, many: false },
     {
       pageProperty: "relation-property/change-target-type",
