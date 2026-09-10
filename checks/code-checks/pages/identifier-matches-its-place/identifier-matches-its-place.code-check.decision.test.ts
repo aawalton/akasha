@@ -15,6 +15,8 @@ const PAGE_AT = "akasha/held-over.module.ts"
 
 const BESIDE_AT = "akasha/held-over.module.code.ts"
 
+const HELD_AT = "akasha/held-over.module.uncommitted.ts"
+
 test("a type in upper camel case and a function in lower camel case are let through", () => {
   const body = "export type PageEdge = { one: string }\nexport function pageEdgeIn() {}\n"
   expect(refusedIn(AT, body, PLACES)).toEqual([])
@@ -171,8 +173,17 @@ test("a page's own value is passed over, and a name beside it is not", () => {
   expect(said[0]).toContain("the constant `other`")
 })
 
-test("a property file's stem makes no identifier, so nothing there is passed over", () => {
-  const said = refusedIn(BESIDE_AT, 'const heldOver = "one"\n', PLACES)
+test("a page's own value is passed over though the file's name carries a section", () => {
+  const body =
+    'export const heldOverModuleUncommitted = { slug: "held-over" } as const\nconst other = "one"\n'
+  const said = refusedIn(HELD_AT, body, PLACES)
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("the constant `other`")
+})
+
+test("a name in a property file is judged unless the file's own stem makes that name", () => {
+  const body = 'const heldOver = "one"\nconst heldOverModuleCode = "two"\n'
+  const said = refusedIn(BESIDE_AT, body, PLACES)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("the constant `heldOver`")
 })

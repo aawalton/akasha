@@ -178,8 +178,9 @@ function openedAsATag(scope: ts.Node, text: string): boolean {
 
 export function pageValueIn(at: string): string | null {
   const said = partedIn(at)
-  if (said === null || said.sections.length > 0) return null
-  return exportedAs(said.slug)
+  if (said === null) return null
+  if (said.sections.length === 0) return exportedAs(said.slug)
+  return exportedAs([said.slug, said.pageType, ...said.sections].join("-"))
 }
 
 export function constantsIn(source: ts.SourceFile, at: string): readonly ts.Identifier[] {

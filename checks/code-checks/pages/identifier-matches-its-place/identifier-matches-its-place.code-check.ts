@@ -117,7 +117,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "In a property file the stem has a dot and makes no identifier.",
+      statement: "A stem carrying a section makes a name from the stem's parts joined by `-`.",
     },
     {
       invariantKind: "absence",
@@ -126,6 +126,11 @@ export const identifierMatchesItsPlace = {
     {
       invariantKind: "absence",
       statement: "A page file's own value is not judged here.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A page file's own value is passed over whether or not the file's name carries a section.",
     },
     {
       invariantKind: "absence",
