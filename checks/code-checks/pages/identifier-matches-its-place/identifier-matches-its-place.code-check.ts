@@ -26,12 +26,15 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "A name a declaration file states is passed over.",
+      statement: "A name a declaration states is passed over.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A declaration file names a thing another language or another writer already named.",
+      statement: "A declaration names a thing another language or another writer already named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every name a declaration file states is a declaration.",
     },
     {
       invariantKind: "absence",
