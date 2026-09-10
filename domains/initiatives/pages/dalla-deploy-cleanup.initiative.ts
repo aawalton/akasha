@@ -8,7 +8,6 @@ export const dallaDeployCleanup = {
   domain: "namespace/infrastructure",
   persona: "dalla",
   intents: [
-    { statement: "Every workstation service has deployed through `akasha infrastructure deploy`." },
     { statement: "Every cluster service has deployed through `akasha infrastructure deploy`." },
     {
       statement: "No competing akasha build or deploy command exists.",
@@ -19,6 +18,11 @@ export const dallaDeployCleanup = {
       statement: "Every ios app has deployed through `akasha infrastructure deploy`.",
       workingMemory:
         "Three ios apps: alanwalton, smilingjenny, atlas. Three roads reach a phone. `infrastructure deploy <slug>` cuts to TestFlight off the mac. `ios-app` builds there too, reaching the mac by `AKASHA_MAC_HOST` defaulting to the alias `macbook`, where the harness hardcodes `walton@100.64.0.2`. `mobile-deploy-device` builds and installs to a plugged-in phone, and its page states the commit built is `origin/main` rather than the one this checkout is at, so it cannot install what you are on.\n",
+    },
+    {
+      statement: "Every workstation service has deployed through `akasha infrastructure deploy`.",
+      workingMemory:
+        "52 workstation service pages, 28 under `services/workstation-services/pages/` and 24 filed beside the code they run, found by the page-type index rather than by folder. One road reaches them: `infrastructure-service install`, which writes systemd user units under `~/.local/state` and links them where systemd reads them. 37 are scheduled and take a timer beside the unit, and 15 run long. That command's page carries the gap that a service akasha carries is reached from the cluster.\n",
     },
   ],
   constraints: [
