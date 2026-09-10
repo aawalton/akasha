@@ -16,7 +16,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "A folder move leaves a specifier naming a package as it is, and the root `akasha` exports `./*`, so `akasha/...` specifiers carry the path. The import index does file an edge for them: `reachesIn` files `akasha/*` and `starredIn` rewrites the rest. `change-imports` was what missed them, and it now follows the root spelling. Typecheck judges only what a change reaches, so a break like that lands green and shows up elsewhere. `akasha audit` gives the true count only on its last line.\n",
+        "`akasha audit` gives the true count only on its last line. A folder move leaves an `akasha/...` specifier as it is, and typecheck judges only what a change reaches, so a break lands green and shows up elsewhere. A page whose slug is unique within a scope is addressed `<page type>/<scope>/<slug>`, and `namedAs` is the one place an address is composed. 64 folders match no shape, ten of them `.server`.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
