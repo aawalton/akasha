@@ -1,6 +1,6 @@
 import type { TextProperty } from "@akasha/pages/text-property"
 
-export type Target = string
+export type PersonAuthorityTarget = string
 
 export const personAuthorityTarget = {
   id: "01a05430-c0f0-78db-bb0e-ea07c84713f0",
