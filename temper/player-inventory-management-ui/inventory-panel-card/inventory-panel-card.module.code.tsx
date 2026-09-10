@@ -1,11 +1,11 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
 import { buildNodePath } from "@akasha/design-patterns/path"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { formatGold } from "@akasha/design-primitives/format-gold"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/characters-equipment-ui/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import type {
   InventoryLeafNode,

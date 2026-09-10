@@ -1,6 +1,6 @@
-import { PageTitle } from "@akasha/design-layout/page-layout"
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Heading } from "@akasha/design-primitives/heading"
+import { PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 
 export function meta() {
   return [

@@ -9,7 +9,7 @@ export const design = {
   parts: [
     "domain/design-badges",
     "domain/design-forms",
-    "workspace-package/design-layout",
+    "domain/design-layout",
     "workspace-package/design-patterns",
     "workspace-package/design-primitives",
     "workspace-package/design-system",

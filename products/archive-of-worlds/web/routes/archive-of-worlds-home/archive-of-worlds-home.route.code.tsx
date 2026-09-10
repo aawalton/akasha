@@ -1,4 +1,4 @@
-import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
+import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 
 export function meta() {
   return [{ title: "Archive of Worlds" }]

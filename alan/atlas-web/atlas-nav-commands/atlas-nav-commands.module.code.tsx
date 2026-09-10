@@ -1,8 +1,8 @@
 "use client"
 
-import type { AppNavItem } from "@akasha/design-layout/nav-types"
 import { PALETTE_ONLY } from "@akasha/design-primitives/keyboard-registry"
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
+import type { AppNavItem } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
 import { useNavigate } from "react-router"
 import { primaryNavItems } from "../atlas-nav-items/atlas-nav-items.module.code.ts"
 

@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { cn } from "@akasha/design-primitives/cn"
 import { Input } from "@akasha/design-primitives/input"
@@ -14,6 +13,7 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { Textarea } from "@akasha/design-primitives/textarea"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsInputPanels() {

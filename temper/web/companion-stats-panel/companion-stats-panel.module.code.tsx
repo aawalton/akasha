@@ -1,9 +1,9 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Text } from "@akasha/design-primitives/text-body"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import type { CompanionMetricId } from "akasha/temper/companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   type CompanionMetricGroup,

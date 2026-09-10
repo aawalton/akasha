@@ -1,4 +1,3 @@
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardTitle } from "@akasha/design-primitives/card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
@@ -9,6 +8,7 @@ import {
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import {

@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import {
   getArmorSkillLineIds,
   getWeaponSkillLineIdsForBar,

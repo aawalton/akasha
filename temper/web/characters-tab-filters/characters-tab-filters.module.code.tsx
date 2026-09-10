@@ -1,6 +1,5 @@
 "use client"
 
-import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
 import { FilterButton } from "@akasha/design-patterns/filter-button"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
@@ -12,6 +11,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import type { CompletionSortMode } from "akasha/temper/player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 import { useState } from "react"
 

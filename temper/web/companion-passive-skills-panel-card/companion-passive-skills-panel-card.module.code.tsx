@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { companionArmorSlots } from "akasha/temper/companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import {

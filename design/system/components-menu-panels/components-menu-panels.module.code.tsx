@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -55,6 +54,7 @@ import {
 import { Heading } from "@akasha/design-primitives/heading"
 import { HoverCard, HoverCardContent, HoverCardTrigger } from "@akasha/design-primitives/hover-card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsMenuPanels() {

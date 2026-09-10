@@ -1,8 +1,8 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import type { CompanionSuggestion } from "akasha/temper/companions-core/companion-suggestion-generator/companion-suggestion-generator.module.code.ts"
 import {
   useCompanion,

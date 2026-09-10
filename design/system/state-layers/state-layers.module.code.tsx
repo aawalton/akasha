@@ -1,7 +1,7 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 
 export function StateLayersPanel() {
   return (

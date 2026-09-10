@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { cn } from "@akasha/design-primitives/cn"
 import {
   Table,
@@ -12,6 +11,7 @@ import {
   TableRow,
   TableTotalCell,
 } from "@akasha/design-primitives/table"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import { getBaseRoleName } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {

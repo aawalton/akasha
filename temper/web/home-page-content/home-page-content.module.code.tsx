@@ -1,10 +1,5 @@
 "use client"
 
-import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
-import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { PanelCard } from "@akasha/design-layout/panel-card"
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import {
   Empty,
   EmptyContent,
@@ -17,6 +12,11 @@ import { QueryErrorBoundary } from "@akasha/design-patterns/query-error-boundary
 import { Button } from "@akasha/design-primitives/button"
 import { PagesUILink as Link, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import {
   applyCharacterMetadata,

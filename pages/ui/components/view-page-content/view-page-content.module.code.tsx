@@ -1,7 +1,5 @@
 "use client"
 
-import { PageTitleBadges } from "@akasha/design-layout/page-layout"
-import { useLayoutSearchParams } from "@akasha/design-layout/router-context"
 import { TabsContent } from "@akasha/design-patterns/tabs"
 import { parseNavConfig } from "@akasha/pages-core/schema/nav-config"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
@@ -22,6 +20,8 @@ import type { PageTypeOption } from "@akasha/pages-ui-components/view-settings-o
 import type { ViewTabItem } from "@akasha/pages-ui-components/view-tab-context-menu"
 import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
+import { PageTitleBadges } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { useLayoutSearchParams } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { ArrowLeft } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
 import { EditableTitle } from "../editable-title/editable-title.module.code.tsx"

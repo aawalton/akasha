@@ -1,8 +1,5 @@
 "use client"
 
-import { PageTabHeader, PageTabTitleBadges } from "@akasha/design-layout/page-tab-header"
-import { PaginatedCardGrid } from "@akasha/design-layout/paginated-card-grid"
-import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import {
   Empty,
   EmptyContent,
@@ -16,6 +13,12 @@ import { TabsContent } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  PageTabHeader,
+  PageTabTitleBadges,
+} from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PaginatedCardGrid } from "akasha/design/layout/paginated-card-grid/paginated-card-grid.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { getCompanionName } from "akasha/temper/companions-core/companions/companions.module.code.ts"
 import { FolderOpen, Search } from "lucide-react"
 import { type ReactNode, useCallback, useMemo } from "react"

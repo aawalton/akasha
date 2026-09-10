@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { BuildDescriptionPanelCard } from "../build-description-panel-card/build-description-panel-card.module.code.tsx"
 import { CompanionInfoPanelCard } from "../companion-info-panel-card/companion-info-panel-card.module.code.tsx"

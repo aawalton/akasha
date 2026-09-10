@@ -1,4 +1,3 @@
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import {
   CardContent,
   CardDescription,
@@ -9,6 +8,7 @@ import {
 import { Text } from "@akasha/design-primitives/text-body"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import type { CharacterState } from "akasha/temper/character-build/build-types/build-types.module.code.ts"
 import type { RoleId } from "../../character-sources/character-roles/character-roles.module.code.ts"

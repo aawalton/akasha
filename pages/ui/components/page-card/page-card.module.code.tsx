@@ -1,6 +1,5 @@
 "use client"
 
-import { PANEL_CARD_WIDTH_CLASSES } from "@akasha/design-layout/panel-card-data"
 import { IconPicker } from "@akasha/design-patterns/icon-picker"
 import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { Card, CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
@@ -15,6 +14,7 @@ import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions
 import type { GalleryCardSize } from "@akasha/pages-core/view/gallery"
 import { PagesUILink } from "@akasha/pages-ui/navigation-context"
 import { PageActionsMenu } from "@akasha/pages-ui-components/page-actions-menu"
+import { PANEL_CARD_WIDTH_CLASSES } from "akasha/design/layout/panel-card-data/panel-card-data.module.code.ts"
 import { CheckCircle2, Circle } from "lucide-react"
 import type * as React from "react"
 import { type ReactNode, useMemo } from "react"

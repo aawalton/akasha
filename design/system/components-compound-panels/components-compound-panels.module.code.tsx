@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import {
   Carousel,
   CarouselContent,
@@ -36,6 +35,7 @@ import {
   FieldSeparator,
   FieldSet,
 } from "akasha/design/forms/field/field.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import {
   Calculator,
   Calendar as CalendarIcon,

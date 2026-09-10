@@ -1,8 +1,8 @@
 "use client"
 
-import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Text } from "@akasha/design-primitives/text-body"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import type { ReactNode } from "react"
 import {
   DEFAULT_PRICING_PLATFORM,

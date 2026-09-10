@@ -1,6 +1,5 @@
 "use client"
 
-import { LayoutLink } from "@akasha/design-layout/router-context"
 import {
   Select,
   SelectContent,
@@ -11,6 +10,7 @@ import {
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import type { ControlledRule } from "akasha/temper/items-rules-core/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import {
   goalIdToValue,

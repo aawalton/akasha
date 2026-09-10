@@ -1,10 +1,10 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
-import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { scrollToCard } from "akasha/design/layout/scroll-to-card/scroll-to-card.module.code.ts"
 import { companionTraits } from "akasha/temper/companions-core/companion-traits/companion-traits.module.code.ts"
 import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/shopping/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"
 import type { PurchaseRecommendation } from "akasha/temper/shopping/ttc-shopping-types/ttc-shopping-types.module.code.ts"

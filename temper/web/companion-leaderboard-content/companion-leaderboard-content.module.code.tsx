@@ -1,7 +1,10 @@
 "use client"
 
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { collapseCard, scrollToCard } from "@akasha/design-layout/scroll-to-card"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import {
+  collapseCard,
+  scrollToCard,
+} from "akasha/design/layout/scroll-to-card/scroll-to-card.module.code.ts"
 import {
   type Build,
   type ComboRankingsMap,

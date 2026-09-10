@@ -1,11 +1,11 @@
 "use client"
 
-import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
-import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { QueryErrorBoundary } from "@akasha/design-patterns/query-error-boundary"
 import { PageTabsTrigger, Tabs, TabsContent, TabsList } from "@akasha/design-patterns/tabs"
 import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persistence"
+import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,

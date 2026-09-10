@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Chip } from "@akasha/design-patterns/chip"
 import { ChipList } from "@akasha/design-patterns/chip-list"
 import { ItemCard } from "@akasha/design-patterns/item-card"
@@ -11,6 +10,7 @@ import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scrol
 import { ScrollArea, ScrollBar } from "@akasha/design-primitives/scroll-area"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsItemDisplayPanels() {

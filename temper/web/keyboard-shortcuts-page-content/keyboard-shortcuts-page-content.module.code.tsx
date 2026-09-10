@@ -1,9 +1,9 @@
 "use client"
 
-import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Button } from "@akasha/design-primitives/button"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
+import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { ChevronLeft } from "lucide-react"
 import { useEffect, useState } from "react"
 import { SHORTCUT_GROUPS } from "../keyboard-shortcuts-data/keyboard-shortcuts-data.module.code.ts"

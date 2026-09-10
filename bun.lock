@@ -7,7 +7,6 @@
       "dependencies": {
         "@akasha/cluster-manifests": "workspace:*",
         "@akasha/code": "workspace:*",
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
@@ -32,8 +31,10 @@
         "@googleapis/gmail": "^17.0.0",
         "@happy-dom/global-registrator": "^20.8.3",
         "@modelcontextprotocol/sdk": "^1.30.0",
+        "@radix-ui/react-collapsible": "*",
         "@radix-ui/react-slot": "*",
         "@supabase/supabase-js": "^2.104.0",
+        "@tanstack/react-virtual": "^3.14.10",
         "@testing-library/react": "^16.3.2",
         "@vscode/ripgrep": "^1.18.0",
         "akasha": "link:.",
@@ -80,7 +81,6 @@
       "name": "@akasha/alanwalton-atlas-web",
       "version": "0.1.0",
       "dependencies": {
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
@@ -159,7 +159,6 @@
     "alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
@@ -232,7 +231,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/alanwalton-web": "workspace:*",
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
@@ -308,24 +306,9 @@
         "@capacitor/cli": "^8.4.1",
       },
     },
-    "design/layout": {
-      "name": "@akasha/design-layout",
-      "dependencies": {
-        "@akasha/design-primitives": "workspace:*",
-        "@tanstack/react-virtual": "^3.14.10",
-        "class-variance-authority": "^0.7.1",
-        "lucide-react": "^0.576.0",
-      },
-      "peerDependencies": {
-        "@radix-ui/react-collapsible": "*",
-        "react": "^18 || ^19",
-        "react-dom": "^18 || ^19",
-      },
-    },
     "design/patterns": {
       "name": "@akasha/design-patterns",
       "dependencies": {
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "ansi-to-html": "^0.7.2",
@@ -387,7 +370,6 @@
       "name": "@akasha/design-system",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@fontsource-variable/geist": "5.2.9",
@@ -555,7 +537,6 @@
     "pages/ui/components": {
       "name": "@akasha/pages-ui-components",
       "dependencies": {
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -595,7 +576,6 @@
       "name": "@akasha/archive-of-worlds-web",
       "version": "0.1.0",
       "dependencies": {
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
@@ -629,7 +609,6 @@
       "name": "@akasha/audhdalan-web",
       "version": "0.1.0",
       "dependencies": {
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-core": "workspace:*",
@@ -871,7 +850,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
@@ -954,8 +932,6 @@
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster/manifests"],
 
     "@akasha/code": ["@akasha/code@workspace:code-system"],
-
-    "@akasha/design-layout": ["@akasha/design-layout@workspace:design/layout"],
 
     "@akasha/design-patterns": ["@akasha/design-patterns@workspace:design/patterns"],
 

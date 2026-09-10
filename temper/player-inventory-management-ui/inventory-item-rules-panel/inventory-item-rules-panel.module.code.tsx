@@ -1,9 +1,9 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import { Button } from "@akasha/design-primitives/button"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import type { MinedItemSearchResult } from "akasha/temper/items-core/item-tooltip-types/item-tooltip-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items-rules-core/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { Plus } from "lucide-react"

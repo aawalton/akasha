@@ -1,7 +1,5 @@
 "use client"
 
-import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
 import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
@@ -9,6 +7,8 @@ import type { ViewCallbacks } from "@akasha/pages-ui/mutators/view-callbacks"
 import { deriveShellEmptyState } from "@akasha/pages-ui-components/page-system-shell-helpers"
 import type { ViewTabItem } from "@akasha/pages-ui-components/view-tab-context-menu"
 import { ViewTabs } from "@akasha/pages-ui-components/view-tabs"
+import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 

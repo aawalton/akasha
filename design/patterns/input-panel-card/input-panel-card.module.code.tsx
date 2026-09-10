@@ -1,9 +1,12 @@
 "use client"
 
-import { PanelCard, type PanelCardProps } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { Label } from "@akasha/design-primitives/label"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
+import {
+  PanelCard,
+  type PanelCardProps,
+} from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { Info } from "lucide-react"
 import type * as React from "react"
 

@@ -1,11 +1,11 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { cn } from "@akasha/design-primitives/cn"
 import { Spinner } from "@akasha/design-primitives/spinner"
 import { Text } from "@akasha/design-primitives/text-body"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { encodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { characterUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"

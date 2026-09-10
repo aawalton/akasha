@@ -1,9 +1,5 @@
 "use client"
 
-import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
-import { PanelCard } from "@akasha/design-layout/panel-card"
-import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import {
   Empty,
   EmptyDescription,
@@ -26,6 +22,10 @@ import { Card, CardContent, CardTitleBadges } from "@akasha/design-primitives/ca
 import { Progress } from "@akasha/design-primitives/progress-bar"
 import { Text } from "@akasha/design-primitives/text-body"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import {
   needToShoppingItem,

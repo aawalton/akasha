@@ -1,5 +1,5 @@
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import type { GameState } from "akasha/alan/harness/idle-system/idle-state/idle-state.module.code.ts"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { ApotheosisPanel } from "../apotheosis-panel/apotheosis-panel.module.code.tsx"
 import {
   deriveApotheosisView,

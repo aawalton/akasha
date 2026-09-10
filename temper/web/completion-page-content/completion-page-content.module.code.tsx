@@ -1,13 +1,5 @@
 "use client"
 
-import {
-  PageLayout,
-  PageLayoutSkeleton,
-  PageTitle,
-  PageTitleBadges,
-} from "@akasha/design-layout/page-layout"
-import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
-import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { PageTabsTrigger, Tabs, TabsList } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
@@ -15,6 +7,14 @@ import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import {
+  PageLayout,
+  PageLayoutSkeleton,
+  PageTitle,
+  PageTitleBadges,
+} from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { scrollToCard } from "akasha/design/layout/scroll-to-card/scroll-to-card.module.code.ts"
+import { tabbedPageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,

@@ -1,8 +1,8 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import { Button } from "@akasha/design-primitives/button"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import type { ChampionPointId } from "akasha/temper/champion-points/champion-point-source/champion-point-source.module.code.ts"
 import {
   getCPSkillDescription,

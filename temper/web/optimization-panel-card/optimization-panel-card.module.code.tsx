@@ -1,5 +1,5 @@
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { StatRow } from "@akasha/design-patterns/stat-row"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
 import type { StatsRecord } from "../stats-types/stats-types.module.code.ts"
 

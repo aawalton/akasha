@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -15,6 +14,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { useCharacter } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { useState } from "react"
 import { toast } from "sonner"

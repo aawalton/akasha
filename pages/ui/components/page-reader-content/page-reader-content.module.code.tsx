@@ -1,7 +1,5 @@
 "use client"
 
-import { PageLayout } from "@akasha/design-layout/page-layout"
-import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import { cn } from "@akasha/design-primitives/cn"
 import { bodyPropertyIsContentTier } from "@akasha/pages-core/schema/content-tier"
@@ -35,6 +33,8 @@ import { useRestoreReadPosition } from "@akasha/pages-ui-components/use-restore-
 import { useSentenceHighlight } from "@akasha/pages-ui-components/use-sentence-highlight"
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
+import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { type ReactNode, useCallback, useMemo, useRef } from "react"
 
 const READER_VIRTUALIZE_THRESHOLD = 24_000

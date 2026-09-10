@@ -1,8 +1,5 @@
 "use client"
 
-import type { AppNavItem } from "@akasha/design-layout/nav-types"
-import { SidebarNavGroup } from "@akasha/design-layout/sidebar-nav-group"
-import { useSidebarState } from "@akasha/design-layout/use-sidebar-state"
 import { cn } from "@akasha/design-primitives/cn"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
@@ -19,6 +16,9 @@ import {
 } from "@dnd-kit/core"
 import { restrictToVerticalAxis } from "@dnd-kit/modifiers"
 import { SortableContext, useSortable } from "@dnd-kit/sortable"
+import type { AppNavItem } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
+import { SidebarNavGroup } from "akasha/design/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
+import { useSidebarState } from "akasha/design/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 function SortableNavItem({

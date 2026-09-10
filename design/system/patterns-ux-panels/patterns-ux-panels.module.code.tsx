@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import {
   Empty,
   EmptyContent,
@@ -22,6 +21,7 @@ import {
   TableHeader,
   TableRow,
 } from "@akasha/design-primitives/table"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { AlertCircle, FolderOpen, Search } from "lucide-react"
 import { PatternsUxLayoutPanels } from "../patterns-ux-layout-panels/patterns-ux-layout-panels.module.code.tsx"
 

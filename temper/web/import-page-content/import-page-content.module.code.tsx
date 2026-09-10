@@ -1,7 +1,5 @@
 "use client"
 
-import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { LayoutLink } from "@akasha/design-layout/router-context"
 import { Alert, AlertDescription, AlertTitle } from "@akasha/design-primitives/alert"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
@@ -10,6 +8,8 @@ import { Spinner } from "@akasha/design-primitives/spinner"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { useInventoryImport } from "akasha/temper/player-inventory-management-ui/use-inventory-import/use-inventory-import.module.code.ts"
 import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
 import {

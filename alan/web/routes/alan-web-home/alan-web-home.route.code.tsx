@@ -1,7 +1,7 @@
-import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
 import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { getRequestServerClient } from "@akasha/supabase-rr/request-session-cache"
+import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
 import { data } from "react-router"
 import { readHomeNavItemParam } from "../../.server/home-dni-param/home-dni-param.module.code.ts"
 

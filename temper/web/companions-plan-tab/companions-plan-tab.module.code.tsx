@@ -1,9 +1,5 @@
 "use client"
 
-import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
-import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { LayoutLink } from "@akasha/design-layout/router-context"
 import {
   Empty,
   EmptyContent,
@@ -15,6 +11,10 @@ import {
 import { TabsContent } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
+import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import type { CompanionBaseRoleId } from "akasha/temper/companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import type { ComboRankingsMap } from "akasha/temper/companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/companions-core/companions/companions.module.code.ts"

@@ -1,6 +1,5 @@
 "use client"
 
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Input } from "@akasha/design-primitives/input"
 import {
@@ -17,6 +16,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import type {
   InventoryLoggingLevel,
   InventoryPerfTracingLevel,

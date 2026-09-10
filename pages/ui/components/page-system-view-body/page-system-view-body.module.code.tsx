@@ -1,8 +1,5 @@
 "use client"
 
-import { createGenericLayout } from "@akasha/design-layout/column-layout"
-import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
-import { ResponsiveColumnsSkeleton } from "@akasha/design-layout/responsive-columns-skeleton"
 import { CollapsibleGroupSection } from "@akasha/design-patterns/collapsible-group-section"
 import type { useCollapsedGroups } from "@akasha/design-patterns/use-collapsed-groups"
 import type {
@@ -15,6 +12,9 @@ import {
 } from "@akasha/pages-ui-components/page-system-view-helpers"
 import type { withColumnWidths } from "@akasha/pages-ui-components/page-table-widths"
 import type { PageRow } from "@akasha/pages-ui-components/view-engine/view-row"
+import { createGenericLayout } from "akasha/design/layout/column-layout/column-layout.module.code.ts"
+import { LoadMoreButton } from "akasha/design/layout/load-more-button/load-more-button.module.code.tsx"
+import { ResponsiveColumnsSkeleton } from "akasha/design/layout/responsive-columns-skeleton/responsive-columns-skeleton.module.code.tsx"
 import type { Dispatch, SetStateAction } from "react"
 import { PageBoard } from "../page-board/page-board.module.code.tsx"
 import { PageCalendar } from "../page-calendar/page-calendar.module.code.tsx"

@@ -132,7 +132,6 @@
     "react": "^18 || ^19"
   },
   "dependencies": {
-    "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/pages-access": "workspace:*",

@@ -2,12 +2,6 @@ import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-no
 import "./look/temper-web-look.stylesheet.styles.css"
 import "./temper-declared-effects/temper-declared-effects.module.code.ts"
 import {
-  type LayoutLinkProps,
-  LayoutLinkProvider,
-  type LayoutRouter,
-  LayoutRouterProvider,
-} from "@akasha/design-layout/router-context"
-import {
   Empty,
   EmptyContent,
   EmptyDescription,
@@ -31,6 +25,12 @@ import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/use-report-render-error/use-report-render-error.module.code.ts"
+import {
+  type LayoutLinkProps,
+  LayoutLinkProvider,
+  type LayoutRouter,
+  LayoutRouterProvider,
+} from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect, useMemo } from "react"
 import {

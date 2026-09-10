@@ -1,9 +1,9 @@
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 
 function InlineCode({ children }: { children: React.ReactNode }) {
   const surface = useSurface()

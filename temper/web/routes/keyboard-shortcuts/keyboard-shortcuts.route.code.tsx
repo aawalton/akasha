@@ -1,5 +1,5 @@
-import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
-import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
+import { PageLayoutSkeleton } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { Suspense } from "react"
 import { KeyboardShortcutsPageContent } from "../../keyboard-shortcuts-page-content/keyboard-shortcuts-page-content.module.code.tsx"
 

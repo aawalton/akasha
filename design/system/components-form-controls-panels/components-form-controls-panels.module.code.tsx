@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Checkbox } from "@akasha/design-primitives/checkbox"
 import { Label } from "@akasha/design-primitives/label"
 import { Progress } from "@akasha/design-primitives/progress-bar"
@@ -9,6 +8,7 @@ import { Slider } from "@akasha/design-primitives/slider"
 import { Switch } from "@akasha/design-primitives/switch-control"
 import { Toggle } from "@akasha/design-primitives/toggle"
 import { ToggleGroup, ToggleGroupItem } from "@akasha/design-primitives/toggle-group"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { useState } from "react"
 
 export function ComponentsFormControlsPanels() {

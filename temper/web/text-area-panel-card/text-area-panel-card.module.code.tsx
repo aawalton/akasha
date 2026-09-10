@@ -1,8 +1,11 @@
 "use client"
 
-import { PanelCard, type PanelCardProps } from "@akasha/design-layout/panel-card"
 import { cn } from "@akasha/design-primitives/cn"
 import { Textarea } from "@akasha/design-primitives/textarea"
+import {
+  PanelCard,
+  type PanelCardProps,
+} from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { type ChangeEvent, useEffect, useState } from "react"
 
 interface TextAreaPanelCardProps extends Pick<PanelCardProps, "id" | "collapsible" | "className"> {

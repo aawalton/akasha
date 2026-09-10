@@ -1,7 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
-import { SidebarNavGroup } from "@akasha/design-layout/sidebar-nav-group"
 import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import { Input } from "@akasha/design-primitives/input"
@@ -31,6 +29,8 @@ import {
   FormLabel,
   FormMessage,
 } from "akasha/design/forms/form/form.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { SidebarNavGroup } from "akasha/design/layout/sidebar-nav-group/sidebar-nav-group.module.code.tsx"
 import { useState } from "react"
 import { useForm } from "react-hook-form"
 import { toast } from "sonner"

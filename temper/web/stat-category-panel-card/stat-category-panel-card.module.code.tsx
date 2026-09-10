@@ -1,4 +1,4 @@
-import { PanelCard } from "@akasha/design-layout/panel-card"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import {
   type CategoryNode,
   isMetricNode,

@@ -1,8 +1,5 @@
 "use client"
 
-import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
-import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
-import { LayoutLink } from "@akasha/design-layout/router-context"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
 import {
   Empty,
@@ -24,6 +21,9 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelToggleProvider } from "akasha/design/layout/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
+import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import type { ActivityCategoryId } from "akasha/temper/player-completion/activity-categories/activity-categories.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { Globe } from "lucide-react"

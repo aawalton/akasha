@@ -1,6 +1,6 @@
 "use client"
 
-import { useLayoutPathname } from "@akasha/design-layout/router-context"
+import { useLayoutPathname } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { useCallback, useDeferredValue, useEffect, useRef, useState } from "react"
 import { z } from "zod"
 import {

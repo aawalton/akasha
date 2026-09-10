@@ -1,6 +1,5 @@
 "use client"
 
-import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
 import { FilterButton } from "@akasha/design-patterns/filter-button"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
@@ -8,6 +7,7 @@ import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
 import { useMemo, useState } from "react"
 import type {
   ActiveStatusFilter,

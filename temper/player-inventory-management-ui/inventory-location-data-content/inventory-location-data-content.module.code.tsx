@@ -1,8 +1,5 @@
 "use client"
 
-import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
-import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
-import { LayoutLink } from "@akasha/design-layout/router-context"
 import {
   Empty,
   EmptyContent,
@@ -14,6 +11,9 @@ import {
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { Button } from "@akasha/design-primitives/button"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
+import { ListContentSkeleton } from "akasha/design/layout/list-content-skeleton/list-content-skeleton.module.code.tsx"
+import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { lookupCurrencyConversionRates } from "akasha/temper/trading-pricing/currency-price-lookup/currency-price-lookup.module.code.ts"

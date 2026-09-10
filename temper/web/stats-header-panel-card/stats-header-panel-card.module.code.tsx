@@ -1,10 +1,10 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Tabs, TabsList, TabsTrigger } from "@akasha/design-patterns/tabs"
 import { CardContent, CardHeader, CardTitle } from "@akasha/design-primitives/card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { Shield, Swords } from "lucide-react"
 import { StatsToolbar } from "../stats-toolbar/stats-toolbar.module.code.tsx"
 

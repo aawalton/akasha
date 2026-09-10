@@ -1,11 +1,5 @@
 "use client"
 
-import { COLUMN_WIDTH } from "@akasha/design-layout/layout-data"
-import { getPageWidth } from "@akasha/design-layout/page-layout-data"
-import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
-import { PanelCard } from "@akasha/design-layout/panel-card"
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { useColumnCount } from "@akasha/design-layout/use-column-count"
 import { TabsContent } from "@akasha/design-patterns/tabs"
 import { cn } from "@akasha/design-primitives/cn"
 import { Heading } from "@akasha/design-primitives/heading"
@@ -18,6 +12,12 @@ import {
   TableHeader,
   TableRow,
 } from "@akasha/design-primitives/table"
+import { COLUMN_WIDTH } from "akasha/design/layout/layout-data/layout-data.module.code.ts"
+import { getPageWidth } from "akasha/design/layout/page-layout-data/page-layout-data.module.code.ts"
+import { PageTabHeader } from "akasha/design/layout/page-tab-header/page-tab-header.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { useColumnCount } from "akasha/design/layout/use-column-count/use-column-count.module.code.tsx"
 
 export function LayoutTabContent() {
   const columnCount = useColumnCount()

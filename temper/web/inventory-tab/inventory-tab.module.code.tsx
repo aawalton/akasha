@@ -1,7 +1,5 @@
 "use client"
 
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import { LayoutLink } from "@akasha/design-layout/router-context"
 import {
   Empty,
   EmptyDescription,
@@ -14,6 +12,8 @@ import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { Switch } from "@akasha/design-primitives/switch-control"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
+import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { extractGuildBankKeys } from "akasha/temper/items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { useInventory } from "akasha/temper/player-inventory-management-ui/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"

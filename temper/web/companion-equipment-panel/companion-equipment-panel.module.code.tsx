@@ -1,6 +1,6 @@
 "use client"
 
-import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
+import { ResponsiveColumns } from "akasha/design/layout/responsive-columns/responsive-columns.module.code.tsx"
 import { CompanionArmorPanelCard } from "../companion-armor-panel-card/companion-armor-panel-card.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "../companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 import { CompanionJewelryPanelCard } from "../companion-jewelry-panel-card/companion-jewelry-panel-card.module.code.tsx"

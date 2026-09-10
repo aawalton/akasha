@@ -1,7 +1,7 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 
 export function TypographyPanel() {
   return (

@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { cn } from "@akasha/design-primitives/cn"
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
@@ -12,6 +11,7 @@ import {
   TableHeader,
   TableRow,
 } from "@akasha/design-primitives/table"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 
 export function PatternsUxLayoutPanels() {
   return (

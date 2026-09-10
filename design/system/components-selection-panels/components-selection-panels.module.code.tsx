@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { SearchButton } from "@akasha/design-patterns/search-button"
 import { Heading } from "@akasha/design-primitives/heading"
 import {
@@ -15,6 +14,7 @@ import {
   SearchMultiSelect,
   type SearchMultiSelectItem,
 } from "akasha/design/forms/search-multi-select/search-multi-select.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { useState } from "react"
 
 const FIRST_MULTI_SELECT_ITEM: MultiSelectItem = { value: "warrior", label: "Warrior" }

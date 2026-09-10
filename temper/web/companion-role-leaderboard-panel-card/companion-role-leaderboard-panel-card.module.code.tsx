@@ -1,6 +1,5 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { cn } from "@akasha/design-primitives/cn"
 import {
   formatCompact,
@@ -16,6 +15,7 @@ import {
   TableValue,
 } from "@akasha/design-primitives/table"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { companionUrl } from "akasha/temper/build-support/build-url/build-url.module.code.ts"
 import {
   displayRolesToLabel,

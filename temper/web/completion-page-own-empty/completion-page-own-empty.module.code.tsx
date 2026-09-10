@@ -1,7 +1,5 @@
 "use client"
 
-import { PageLayout, PageTitle } from "@akasha/design-layout/page-layout"
-import { LayoutLink } from "@akasha/design-layout/router-context"
 import {
   Empty,
   EmptyContent,
@@ -12,6 +10,8 @@ import {
 } from "@akasha/design-patterns/empty"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
+import { PageLayout, PageTitle } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { LayoutLink } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import { FolderOpen } from "lucide-react"
 
 export function CompletionPageOwnEmpty() {

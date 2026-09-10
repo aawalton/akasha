@@ -1,11 +1,11 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
 import { buildNodePath } from "@akasha/design-patterns/path"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { StatRow } from "@akasha/design-patterns/stat-row"
 import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,

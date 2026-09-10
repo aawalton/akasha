@@ -1,6 +1,5 @@
 "use client"
 
-import type { AppNavItem } from "@akasha/design-layout/nav-types"
 import { IconPicker } from "@akasha/design-patterns/icon-picker"
 import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { triggerSafeNode } from "@akasha/design-primitives/trigger-safe-node"
@@ -13,6 +12,7 @@ import { parseShowCountBadge } from "@akasha/pages-ui-components/nav-count-badge
 import { NavItemActions } from "@akasha/pages-ui-components/nav-item-actions"
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
+import type { AppNavItem } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
 import { Plus } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { z } from "zod"

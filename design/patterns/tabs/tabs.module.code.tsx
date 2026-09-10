@@ -1,11 +1,11 @@
 "use client"
 
-import { useLayoutRouter } from "@akasha/design-layout/router-context"
 import { cn } from "@akasha/design-primitives/cn"
 import { DropdownMenu, DropdownMenuTrigger } from "@akasha/design-primitives/dropdown-menu"
 import { clampSurfaceLevel, surfaceClass } from "@akasha/design-primitives/surface-class"
 import { SurfaceProvider, useSurface } from "@akasha/design-primitives/surface-provider"
 import * as TabsPrimitive from "@radix-ui/react-tabs"
+import { useLayoutRouter } from "akasha/design/layout/router-context/router-context.module.code.tsx"
 import type * as React from "react"
 import { useCallback, useEffect, useRef, useState } from "react"
 import { z } from "zod"

@@ -1,6 +1,6 @@
 "use client"
 
-import { PanelCard } from "@akasha/design-layout/panel-card"
+import { PanelCard } from "akasha/design/layout/panel-card/panel-card.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import {
   bulkUpdateJewelryEnchant,

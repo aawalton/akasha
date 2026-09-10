@@ -1,7 +1,5 @@
 "use client"
 
-import { PageLayout } from "@akasha/design-layout/page-layout"
-import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { resolveDisplayKind } from "@akasha/pages-core/schema/detail-config"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
@@ -16,6 +14,8 @@ import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chro
 import type { PageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { SentenceMark } from "akasha/alan/harness/voice-core/mark-schema/mark-schema.module.code.ts"
+import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import type { ReactNode } from "react"
 import { PageCollectionContent } from "../page-collection-content/page-collection-content.module.code.tsx"
 import { PageDefaultContent } from "../page-default-content/page-default-content.module.code.tsx"

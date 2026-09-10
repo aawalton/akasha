@@ -1,14 +1,14 @@
-import { AppShell as SharedAppShell } from "@akasha/design-layout/app-shell"
-import type { AppNavConfig } from "@akasha/design-layout/nav-types"
+import { PagesUILinkProvider, PagesUIRouterProvider } from "@akasha/pages-ui/navigation-context"
+import { SortableNavs } from "@akasha/pages-ui-components/sortable-navs"
+import { useAppNavItems } from "@akasha/pages-ui-components/use-app-nav-items"
+import { AppShell as SharedAppShell } from "akasha/design/layout/app-shell/app-shell.module.code.tsx"
+import type { AppNavConfig } from "akasha/design/layout/nav-types/nav-types.module.code.ts"
 import {
   LayoutLinkProvider,
   type LayoutRouter,
   LayoutRouterProvider,
-} from "@akasha/design-layout/router-context"
-import { useSidebarState } from "@akasha/design-layout/use-sidebar-state"
-import { PagesUILinkProvider, PagesUIRouterProvider } from "@akasha/pages-ui/navigation-context"
-import { SortableNavs } from "@akasha/pages-ui-components/sortable-navs"
-import { useAppNavItems } from "@akasha/pages-ui-components/use-app-nav-items"
+} from "akasha/design/layout/router-context/router-context.module.code.tsx"
+import { useSidebarState } from "akasha/design/layout/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { LogIn, LogOut } from "lucide-react"
 import { type ReactNode, useMemo } from "react"
 import { Link, useLocation, useNavigate, useSearchParams } from "react-router"

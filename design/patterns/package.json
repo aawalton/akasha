@@ -43,7 +43,6 @@
     "./use-set-toggle": "./use-set-toggle/use-set-toggle.module.code.ts"
   },
   "dependencies": {
-    "@akasha/design-layout": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "ansi-to-html": "^0.7.2",

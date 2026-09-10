@@ -1,12 +1,12 @@
-import type { WorkspacePackage } from "akasha/code-system/workspace-packages/workspace-package.page-type.types.ts"
+import type { Domain } from "../../domains/domain.page-type.types.ts"
 
 export const designLayout = {
   id: "01a05b82-8b9b-7e30-9148-8941b6ccd5ff",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "design-layout",
   definition: "the frame, columns and panels a browser draws a page's content in",
-  manifest: "json",
+
   parts: [
     "module/app-shell",
     "module/app-shell-bottom-nav",
@@ -47,4 +47,4 @@ export const designLayout = {
     "module/use-stable-scroll",
     "module/virtual-card-grid",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

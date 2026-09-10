@@ -1,8 +1,5 @@
 "use client"
 
-import { PageLayout } from "@akasha/design-layout/page-layout"
-import { PAGE_TITLE_CLASSES } from "@akasha/design-layout/page-layout-data"
-import { simplePageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import { IconPicker } from "@akasha/design-patterns/icon-picker"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
@@ -20,6 +17,9 @@ import { type PageTypeSlug, toPageTypeSlug } from "@akasha/pages-url/page-type-s
 import { isRecord } from "@akasha/utils/narrow/is-record"
 import { BadgeLayoutProvider } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
 import { InlineEditableText } from "akasha/design/forms/inline-editable-text/inline-editable-text.module.code.tsx"
+import { PageLayout } from "akasha/design/layout/page-layout/page-layout.module.code.tsx"
+import { PAGE_TITLE_CLASSES } from "akasha/design/layout/page-layout-data/page-layout-data.module.code.ts"
+import { simplePageSkeleton } from "akasha/design/layout/skeleton-presets/skeleton-presets.module.code.ts"
 import { PageCover } from "../page-cover/page-cover.module.code.tsx"
 import { PageDetailProperties } from "../page-detail-properties/page-detail-properties.module.code.tsx"
 import { PageDetailReferrers } from "../page-detail-referrers/page-detail-referrers.module.code.tsx"
