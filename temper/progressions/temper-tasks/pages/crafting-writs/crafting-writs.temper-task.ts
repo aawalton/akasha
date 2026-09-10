@@ -16,6 +16,6 @@ export const craftingWrits = {
   rruleRule: "FREQ=DAILY",
   rruleAnchorFromCompletion: false,
   progressTotal: 140,
-  progressCurrent: 35,
+  progressCurrent: 42,
   progress: "jsonl",
 } as const satisfies TemperTask
