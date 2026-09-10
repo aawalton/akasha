@@ -5,7 +5,7 @@
   "exports": {
     "./git-answering": "./git-answering/git-answering.module.code.ts",
     "./git-capping": "./git-capping/git-capping.module.code.ts",
-    "./git-running": "./running/git-running.module.code.ts",
+    "./git-running": "./git-running/git-running.module.code.ts",
     "./porcelain-status": "./porcelain-status/porcelain-status.module.code.ts",
     "./porcelain-status-reading": "./porcelain-status-reading/porcelain-status-reading.module.code.ts",
     "./tree-sha": "./tree-sha/tree-sha.module.code.ts",

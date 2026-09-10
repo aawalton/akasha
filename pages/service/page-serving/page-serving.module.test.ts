@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { said as gitIn } from "@akasha/git/git-running"
 import { scratchWorld } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
 import type { Asked, Wrote } from "../page-writing/page-writing.module.code.ts"
 import {
   ASK_AT,

@@ -1,9 +1,9 @@
 import { existsSync, readFileSync, realpathSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { fileURLToPath } from "node:url"
-import { told } from "@akasha/git/git-running"
 import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@akasha/git/porcelain-status"
 import { z } from "zod"
+import { told } from "../../git/git-running/git-running.module.code.ts"
 
 export type CheckoutProvenance =
   | {

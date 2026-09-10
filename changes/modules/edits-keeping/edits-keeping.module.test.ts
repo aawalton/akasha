@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { said as gitIn } from "@akasha/git/git-running"
 import { scratch } from "@akasha/indexes/indexing/testing"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
 import { pathsOf } from "../answer/change-answer.module.code.ts"
 import type { FileChange } from "../answer/change-answer.module.types.ts"
 import {

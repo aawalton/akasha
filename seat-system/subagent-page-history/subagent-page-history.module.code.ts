@@ -1,5 +1,5 @@
-import { told } from "@akasha/git/git-running"
 import { loadedFrom } from "@akasha/pages/page-value"
+import { told } from "../../git/git-running/git-running.module.code.ts"
 
 const AGENT_ID = "agentId"
 

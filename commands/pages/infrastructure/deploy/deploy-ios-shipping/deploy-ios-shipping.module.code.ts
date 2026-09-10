@@ -1,11 +1,11 @@
 import { pushBranch } from "@akasha/git/git-pushing"
-import { said } from "@akasha/git/git-running"
 import { readKeychainPassword } from "@akasha/mobile-cli/foundation"
 import { resolveRepoRoot } from "@akasha/mobile-cli/git-tree-hash"
 import { acquireLocalCutLock, releaseLocalCutLock } from "@akasha/mobile-cli/local-cut-lock"
 import { type MobileApp, resolveApp, shellRepoRoot } from "@akasha/mobile-cli/mobile-app"
 import { runTestflightCut } from "@akasha/mobile-cli/testflight-cut"
 import { codeRoot } from "@akasha/pages/code-root"
+import { said } from "../../../../../git/git-running/git-running.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { saidBy } from "../../../../modules/fault-saying/fault-saying.module.code.ts"
 

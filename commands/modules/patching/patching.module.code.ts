@@ -1,8 +1,12 @@
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
-import { argvFor, said as gitSaid, told as gitTold } from "@akasha/git/git-running"
 import { bytes as ranBytes, said as ranSaid } from "@akasha/utils/run/running"
+import {
+  argvFor,
+  said as gitSaid,
+  told as gitTold,
+} from "../../../git/git-running/git-running.module.code.ts"
 import { bodyRead } from "../differing/differing.module.code.ts"
 import { SCRATCH_AT } from "../scratching/scratching.module.code.ts"
 

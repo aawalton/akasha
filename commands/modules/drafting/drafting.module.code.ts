@@ -1,6 +1,5 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { said as gitSaid } from "@akasha/git/git-running"
 import {
   dropPatch,
   keepPatch,
@@ -8,6 +7,7 @@ import {
   patchAt,
   patchIn,
 } from "akasha/agents/modules/patch-keeping/patch-keeping.module.code.ts"
+import { said as gitSaid } from "../../../git/git-running/git-running.module.code.ts"
 import {
   clashing,
   markedAway,

@@ -1,6 +1,6 @@
 import { lstatSync } from "node:fs"
 import { join } from "node:path"
-import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
+import { said as gitIn, told as gitTold } from "../../../git/git-running/git-running.module.code.ts"
 
 export const AUTHOR = "Akasha <akasha@alanwalton.com>"
 

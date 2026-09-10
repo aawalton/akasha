@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { said as git } from "@akasha/git/git-running"
 import { listedFiled, pageFiled } from "@akasha/indexes/testing"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { said as git } from "../../../../git/git-running/git-running.module.code.ts"
 import { founded, put, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.code-check.audit.code.ts"
 

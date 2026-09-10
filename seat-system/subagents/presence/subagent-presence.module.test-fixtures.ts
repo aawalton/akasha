@@ -1,6 +1,5 @@
 import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
-import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import {
@@ -8,6 +7,7 @@ import {
   scratchWorld,
 } from "../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
 import { bodyOf, type Landing, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
 
 const LANDED = { base: "", landed: [], formatted: [], said: [], wrong: [], commit: null }

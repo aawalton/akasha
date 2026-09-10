@@ -9,7 +9,6 @@ import {
   writeFileSync,
 } from "node:fs"
 import { join } from "node:path"
-import { said as git } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
 import type {
   Adding,
@@ -17,6 +16,7 @@ import type {
   Removing,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
+import { said as git } from "../../../git/git-running/git-running.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {

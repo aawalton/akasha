@@ -1,6 +1,5 @@
 import { cpSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { said as git } from "@akasha/git/git-running"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import { exportedAs } from "@akasha/pages/page-export-name"
@@ -9,6 +8,7 @@ import {
   keptAt,
   scratchWorld,
 } from "../../../commands/modules/scratching/scratching.module.code.ts"
+import { said as git } from "../../../git/git-running/git-running.module.code.ts"
 import { rebuiltWhole } from "../indexing/indexing.module.code.ts"
 
 export type Held = Record<string, unknown>

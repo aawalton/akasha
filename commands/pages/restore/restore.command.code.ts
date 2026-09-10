@@ -1,6 +1,6 @@
 import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { said as gitIn } from "@akasha/git/git-running"
+import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
 import { type Answer, answering, type Given } from "../../modules/calling/calling.module.code.ts"
 import { bodyAt } from "../../modules/commit-reading/commit-reading.module.code.ts"
 import { saidBy } from "../../modules/fault-saying/fault-saying.module.code.ts"

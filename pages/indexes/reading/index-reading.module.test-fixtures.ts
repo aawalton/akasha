@@ -8,11 +8,11 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { said as git } from "@akasha/git/git-running"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { admitting } from "@akasha/testing-system/minting"
 import { HELD } from "@akasha/testing-system/page-holding"
 import { everyFileUnder } from "@akasha/testing-system/walking"
+import { said as git } from "../../../git/git-running/git-running.module.code.ts"
 import { DECLARING_AT } from "../declaring/index-declaring.index.code.ts"
 import type { Entry } from "../entries/index-entries.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"

@@ -11,7 +11,6 @@ import {
 } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { textIn, textOf } from "@akasha/code/body-text"
-import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
 import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type {
@@ -21,6 +20,7 @@ import type {
   Removing,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
+import { argvFor } from "../../../git/git-running/git-running.module.code.ts"
 
 const MANIFEST = "package.json"
 

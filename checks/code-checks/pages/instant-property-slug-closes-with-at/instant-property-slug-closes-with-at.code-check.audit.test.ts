@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync } from "node:fs"
 import { join } from "node:path"
-import { said as git } from "@akasha/git/git-running"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
+import { said as git } from "../../../../git/git-running/git-running.module.code.ts"
 import { founded, put, typed } from "../../../modules/scratch/check-scratch.module.code.ts"
 import { instantPropertySlugClosesWithAt } from "./instant-property-slug-closes-with-at.code-check.audit.code.ts"
 

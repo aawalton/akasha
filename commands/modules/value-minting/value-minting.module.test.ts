@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
 import type {
   Adding,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
+import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import {
   earlyIn,

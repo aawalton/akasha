@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { said as git } from "@akasha/git/git-running"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { said as git } from "../../../../git/git-running/git-running.module.code.ts"
 import { identifierMatchesItsPlace } from "./identifier-matches-its-place.code-check.audit.code.ts"
 import {
   placed,

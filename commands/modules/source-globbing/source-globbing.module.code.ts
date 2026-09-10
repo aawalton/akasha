@@ -1,7 +1,7 @@
 import { textOf } from "@akasha/code/body-text"
-import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
 import type { Replacing } from "../../../changes/modules/answer/change-answer.module.types.ts"
+import { said as gitIn } from "../../../git/git-running/git-running.module.code.ts"
 
 const MANIFEST = "package.json"
 

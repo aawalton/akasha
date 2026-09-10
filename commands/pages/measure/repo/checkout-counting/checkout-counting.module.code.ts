@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { said as gitSaid } from "@akasha/git/git-running"
+import { said as gitSaid } from "../../../../../git/git-running/git-running.module.code.ts"
 
 const PARTED_BY = "\0"
 

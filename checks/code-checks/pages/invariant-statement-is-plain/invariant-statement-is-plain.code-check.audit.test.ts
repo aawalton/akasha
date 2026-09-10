@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { said as git } from "@akasha/git/git-running"
 import { noPathsFiled } from "@akasha/indexes/testing"
 import { scratchWorld } from "../../../../commands/modules/scratching/scratching.module.code.ts"
 import { writing } from "../../../../commands/modules/scratching/scratching.module.test-fixtures.ts"
+import { said as git } from "../../../../git/git-running/git-running.module.code.ts"
 import { invariantStatementIsPlain } from "./invariant-statement-is-plain.code-check.audit.code.ts"
 
 const AT = "akasha/held.check.ts"
