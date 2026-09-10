@@ -102,6 +102,27 @@ test("an apply lands the bodies handed in, names and records them, and moves a p
   expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
 })
 
+test("an apply appending puts its content after the body the path holds on disk", async () => {
+  const root = await indexed()
+  const rows: readonly FileChange[] = [{ kind: "append", path: PAGE, content: "// drafted\n" }]
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], { rows, running: OWES })
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+
+  expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
+})
+
+test("two appends onto one path in one apply leave the content of both", async () => {
+  const root = await indexed()
+  const rows: readonly FileChange[] = [
+    { kind: "append", path: PAGE, content: "// drafted\n" },
+    { kind: "append", path: PAGE, content: "// again\n" },
+  ]
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], { rows, running: OWES })
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+
+  expect(readFileSync(join(root, PAGE), "utf8")).toBe(`${MORE}// again\n`)
+})
+
 test("an apply handed no bodies is nothing to apply", async () => {
   const said = await applied("/nowhere", AGENT, "applied", ADMITS, null, [], null)
   expect("refusals" in said).toBe(true)

@@ -98,6 +98,15 @@ test("a replace comes back stating the passage each side", () => {
   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
 })
 
+test("an append comes back stating the path and the content that path is to end with", () => {
+  const root = rootFor()
+  const row = { kind: "append", path: ONE, content: "a\n" } as const
+
+  appendEdits(root, PAGE, [row])
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+})
+
 test("a remove comes back stating the path alone", () => {
   const root = rootFor()
 
