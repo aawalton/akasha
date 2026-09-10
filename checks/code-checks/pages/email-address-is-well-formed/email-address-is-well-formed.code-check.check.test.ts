@@ -12,7 +12,7 @@ import {
   put,
   typed,
 } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { emailAddressIsWellFormed } from "./email-address-is-well-formed.code-check.code.ts"
+import { emailAddressIsWellFormed } from "./email-address-is-well-formed.code-check.check.code.ts"
 
 const ADDRESS = "email-address-property"
 
