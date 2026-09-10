@@ -284,6 +284,20 @@ test("an address naming no page is refused for that rather than for exporting no
   )
 })
 
+const HERE = "change-loading.module.ts"
+
+test("an address whose code exports no run is refused for the export", async () => {
+  const world = {
+    ...worldOf(),
+    root: import.meta.dir,
+    index: { listedAt: () => [{ path: HERE }] } as never,
+  }
+
+  expect(await loadedAt(world, ADDRESS)).toBe(
+    `\`${ADDRESS}\` reaches no change exporting \`runChange\``
+  )
+})
+
 test("a call handing in no path has no path judged", () => {
   const world = judging("change-target-subtype/file-page-type")
 
