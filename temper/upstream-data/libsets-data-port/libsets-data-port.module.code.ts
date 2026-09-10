@@ -1,6 +1,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join, resolve } from "node:path"
 import { makeSandboxedLuaVm } from "akasha/temper/lua-runner/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { resolveVerifiedUpstream } from "../libsets-upstream-fetch/libsets-upstream-fetch.module.code.ts"
 import { LIBSETS_UPSTREAM } from "../libsets-upstream-pin/libsets-upstream-pin.module.code.ts"
 
@@ -196,7 +197,7 @@ export const PORT_TARGETS: readonly PortTarget[] = [
 export function generatedDir(argv: readonly string[]): string {
   const at = argv.indexOf(OUT_DIR_FLAG)
   const named = at === -1 ? undefined : argv[at + 1]
-  const dir = named ?? process.env[OUT_DIR_ENV]
+  const dir = named ?? optionalEnv(OUT_DIR_ENV)
   if (dir === undefined || dir === "") {
     throw new Error(
       `name the folder the ported set data lands in with \`${OUT_DIR_FLAG} <path>\`, ` +

@@ -5,6 +5,7 @@ import { numberAt, textAt } from "akasha/pages/value/page-value.module.code.ts"
 import type { AddonManifest } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { ran } from "akasha/utils/run/running/running.module.code.ts"
 import {
   compilerConfigPathFor,
@@ -204,11 +205,8 @@ export async function metadataHeader(
 }
 
 export function buildIdFor(cwd: string): string {
-  const fromCi = process.env[SAID_BY_CI]
-  const raw =
-    fromCi !== undefined && fromCi.length > 0
-      ? fromCi
-      : ran(["git", "rev-parse", "HEAD"], { cwd }).out.trim()
+  const fromCi = optionalEnv(SAID_BY_CI)
+  const raw = fromCi ?? ran(["git", "rev-parse", "HEAD"], { cwd }).out.trim()
   const hex = raw.toLowerCase().replace(NOT_HEX, "")
   return hex.length >= SHORT_SHA ? hex.slice(0, SHORT_SHA) : UNKNOWN_SHA
 }
