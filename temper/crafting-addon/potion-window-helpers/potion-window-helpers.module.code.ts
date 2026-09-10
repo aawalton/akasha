@@ -26,7 +26,7 @@ export function loadSolventSelection(this: void): undefined {
   }
 }
 
-export function useTopLevelWindow(this: void): undefined {
+export function showTopLevelWindow(this: void): undefined {
   TemperPotionsOutput.title = PotMaker.modeBarLabel
   TemperPotions.title = PotMaker.modeBarLabel
 
@@ -44,7 +44,7 @@ export function useTopLevelWindow(this: void): undefined {
   PotMaker.loading.SetParent(TemperPotionsTopLevel)
 }
 
-export function useStationMenu(this: void, parent: Control): undefined {
+export function showStationMenu(this: void, parent: Control): undefined {
   TemperPotionsOutput.title = asLabelControl(PotMaker.LAS)
   TemperPotions.title = asLabelControl(PotMaker.LAS)
 
@@ -65,9 +65,9 @@ export function showStationOrTopLevel(this: void): undefined {
   PotMaker.createControls()
   if (!IsInGamepadPreferredMode() && PotMaker.atAlchemyStation) {
     const contentWindow = poison ? PotMaker.contentWindowPoison : PotMaker.contentWindowPotion
-    useStationMenu(contentWindow)
+    showStationMenu(contentWindow)
   } else {
-    useTopLevelWindow()
+    showTopLevelWindow()
   }
   if (!poison) {
     let isChecked = true
