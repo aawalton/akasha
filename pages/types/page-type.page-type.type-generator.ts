@@ -22,6 +22,8 @@ const PROPERTY_AT = "pageProperty"
 
 const REQUIRED = "required"
 
+const SECRET = "secret"
+
 export type Taken = {
   readonly typeName: string
   readonly at: string
@@ -101,7 +103,7 @@ export function keysFor(
       key: exportedAs(filed.propertySlug),
       typeName: typedAs(filed.slug),
       at: listed.path,
-      optional: stated[REQUIRED] !== true,
+      optional: stated[REQUIRED] !== true || stated[SECRET] === true,
     })
   }
   return found

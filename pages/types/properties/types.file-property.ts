@@ -24,5 +24,9 @@ export const types = {
       invariantKind: "departure",
       statement: "A page type states its type here rather than in the page type's own file.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A key held as a secret is written as optional, since no page's file has it.",
+    },
   ],
 } as const satisfies FileProperty
