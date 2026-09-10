@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const furnCraftingStations = {
   id: "01a05fcf-f7ee-7d0e-9b4b-c934d6aa527b",

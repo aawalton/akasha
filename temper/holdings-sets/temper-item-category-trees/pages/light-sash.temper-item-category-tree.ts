@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const lightSash = {
   id: "01a05fcf-f828-7f32-939a-b44f2f120f46",

@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const foodUnique = {
   id: "01a05fcf-f7e4-70d9-8dc6-b6c9ea581097",

@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const furnEnchantedLights = {
   id: "01a05fcf-f7f5-7f53-b6a9-51c9b64e414a",

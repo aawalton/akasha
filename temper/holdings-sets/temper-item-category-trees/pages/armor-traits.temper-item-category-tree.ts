@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const armorTraits = {
   id: "01a05fcf-f7bb-7740-8241-b0a3cf634a6e",

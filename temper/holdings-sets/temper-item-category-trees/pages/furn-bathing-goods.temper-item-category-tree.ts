@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const furnBathingGoods = {
   id: "01a05fcf-f7e7-7b57-b31e-77a51cdcf429",

@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const furnStonesPebbles = {
   id: "01a05fcf-f810-7e3a-9a7c-b24967a85ab7",

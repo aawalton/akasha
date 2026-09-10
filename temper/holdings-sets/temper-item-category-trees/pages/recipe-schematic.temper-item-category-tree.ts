@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const recipeSchematic = {
   id: "01a05fcf-f837-76fc-9ba3-beb5c18d1042",

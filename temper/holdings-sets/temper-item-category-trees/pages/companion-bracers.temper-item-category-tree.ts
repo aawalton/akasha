@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const companionBracers = {
   id: "01a05fcf-f7c5-71e1-a859-5b2bfd1f8e59",

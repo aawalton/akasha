@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const potencyRunestones = {
   id: "01a05fcf-f831-709f-93b8-f0dbdee3f85c",

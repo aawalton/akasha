@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const siegeLancer = {
   id: "01a05fcf-f83d-75ff-a6a1-a5ad0101e10f",

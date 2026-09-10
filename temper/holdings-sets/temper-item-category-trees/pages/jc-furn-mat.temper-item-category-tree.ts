@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const jcFurnMat = {
   id: "01a05fcf-f823-7a33-b37c-92b8fc0497fe",

@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const trophyDungeonBuffs = {
   id: "01a05fcf-f846-75b8-b1ae-c376746f9830",

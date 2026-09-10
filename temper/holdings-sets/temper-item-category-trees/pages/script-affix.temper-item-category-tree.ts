@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const scriptAffix = {
   id: "01a05fcf-f83a-7f9c-be37-dc470ef45ed6",

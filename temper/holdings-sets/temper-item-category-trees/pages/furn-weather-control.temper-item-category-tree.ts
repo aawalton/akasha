@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const furnWeatherControl = {
   id: "01a05fcf-f81b-7d9a-b703-70e664d2cc9b",

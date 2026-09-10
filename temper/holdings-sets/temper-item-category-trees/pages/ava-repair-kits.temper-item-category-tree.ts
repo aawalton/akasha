@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const avaRepairKits = {
   id: "01a05fcf-f7bd-7ff3-be59-f310374cffdf",

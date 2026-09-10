@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const wwRefined = {
   id: "01a05fcf-f84a-7c45-9cd7-5dfaf4b23a42",

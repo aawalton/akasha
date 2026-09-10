@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const lightRobe = {
   id: "01a05fcf-f828-7972-90e0-1f2bdb3e09c9",

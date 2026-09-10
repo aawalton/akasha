@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const trophyKeys = {
   id: "01a05fcf-f847-74a7-8f47-afa52b06bc3d",

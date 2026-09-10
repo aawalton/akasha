@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const oneHanded = {
   id: "01a05fcf-f82f-71a1-b0cb-ea1fce60aa17",

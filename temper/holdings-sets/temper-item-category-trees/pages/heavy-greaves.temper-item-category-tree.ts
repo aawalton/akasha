@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const heavyGreaves = {
   id: "01a05fcf-f820-7ad7-b05c-e65043a8f7fe",

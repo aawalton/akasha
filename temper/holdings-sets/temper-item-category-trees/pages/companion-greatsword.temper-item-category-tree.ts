@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const companionGreatsword = {
   id: "01a05fcf-f7c8-7ddf-b5e4-6891d30e7f49",

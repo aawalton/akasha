@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const allianceWar = {
   id: "01a05fcf-f7bb-7c0f-80c6-5d3ef1d912ad",

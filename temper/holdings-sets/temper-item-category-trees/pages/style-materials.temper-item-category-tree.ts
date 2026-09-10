@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const styleMaterials = {
   id: "01a05fcf-f83f-71ef-afdd-bb599f0266c1",

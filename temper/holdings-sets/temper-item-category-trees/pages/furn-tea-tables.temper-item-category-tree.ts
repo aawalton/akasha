@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const furnTeaTables = {
   id: "01a05fcf-f813-7df6-9e8e-e2fe3ae3c7ae",

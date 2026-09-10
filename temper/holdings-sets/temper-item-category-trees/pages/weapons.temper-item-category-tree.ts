@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const weapons = {
   id: "01a05fcf-f849-76fb-8ffc-2e1ca5ddb70b",

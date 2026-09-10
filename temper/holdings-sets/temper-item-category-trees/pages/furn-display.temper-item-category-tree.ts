@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const furnDisplay = {
   id: "01a05fcf-f7f2-7b28-ba0f-f9893c95e6cd",

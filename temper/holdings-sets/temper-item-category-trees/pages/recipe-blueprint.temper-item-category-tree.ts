@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const recipeBlueprint = {
   id: "01a05fcf-f835-78bf-ad9f-9dd7ed1b2e24",

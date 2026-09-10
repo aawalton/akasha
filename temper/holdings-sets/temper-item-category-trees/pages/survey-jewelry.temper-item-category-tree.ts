@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const surveyJewelry = {
   id: "01a05fcf-f842-7cf8-a4ab-9ea63ce9ca83",

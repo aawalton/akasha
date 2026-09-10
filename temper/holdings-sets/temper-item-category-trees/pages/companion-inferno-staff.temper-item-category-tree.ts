@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const companionInfernoStaff = {
   id: "01a05fcf-f7cb-7bdf-a904-8d9d893dad7f",

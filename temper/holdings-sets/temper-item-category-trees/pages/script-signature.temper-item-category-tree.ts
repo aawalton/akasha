@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const scriptSignature = {
   id: "01a05fcf-f83a-74c5-9622-96ed9eb6f078",

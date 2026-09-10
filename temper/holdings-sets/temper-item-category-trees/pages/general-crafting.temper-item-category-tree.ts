@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const generalCrafting = {
   id: "01a05fcf-f81d-7f83-89ae-9aeaf63f8386",

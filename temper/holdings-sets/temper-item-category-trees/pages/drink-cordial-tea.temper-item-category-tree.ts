@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const drinkCordialTea = {
   id: "01a05fcf-f7da-7e83-89cb-402b5512cd2a",

@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const crownItems = {
   id: "01a05fcf-f7d6-74f6-9e3a-9ac60d6e3d94",

@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const motifBooks = {
   id: "01a05fcf-f82e-7fc7-b7b5-59b8d47eaed9",

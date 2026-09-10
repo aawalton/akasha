@@ -1,4 +1,4 @@
-import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.ts"
+import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-type.types.ts"
 
 export const currencyAlliancePoints = {
   id: "01a05fcf-f7d6-7e80-b8de-eb4ede0bf0d4",
