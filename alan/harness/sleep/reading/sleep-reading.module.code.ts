@@ -1,10 +1,13 @@
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import { sleepIn } from "akasha/alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.code.ts"
-import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import {
+  keepReading,
+  readoutPage,
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
-export const READOUT_PAGE = "alan/harness/readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts"
+export const READOUT_SLUG = "upkeep-sleep"
 
 export const NOTHING_TO_TAKE =
   "no tracking day carries a sleep, so there is no reading to take. A tile showing no signal is " +
@@ -21,7 +24,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
   if (row === undefined) return null
   const hours = sleepIn(row.values)
   if (hours === null) return null
-  keepReading(root, READOUT_PAGE, hours, now)
+  keepReading(root, readoutPage(root, READOUT_SLUG), hours, now)
   return hours
 }
 
@@ -33,7 +36,7 @@ if (import.meta.main) {
       process.stderr.write(`${NOTHING_TO_TAKE}\n`)
       process.exit(2)
     }
-    process.stdout.write(`a sleep was taken and kept beside ${READOUT_PAGE}\n`)
+    process.stdout.write(`a sleep was taken and kept beside ${readoutPage(root, READOUT_SLUG)}\n`)
   } catch (thrown) {
     process.stderr.write(`${thrown instanceof Error ? thrown.message : String(thrown)}\n`)
     process.exit(1)

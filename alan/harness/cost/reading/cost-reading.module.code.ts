@@ -1,9 +1,12 @@
 import { multiplierIn } from "akasha/alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.code.ts"
-import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import {
+  keepReading,
+  readoutPage,
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { openSession } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
-export const READOUT_PAGE = "alan/harness/readouts/pages/cost-multiplier/cost-multiplier.readout.ts"
+export const READOUT_SLUG = "cost-multiplier"
 
 export const NOTHING_TO_TAKE =
   "no open block carries both a safety level and a difficulty level, so there is no cost to " +
@@ -18,7 +21,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
     difficultyLevel: session["difficultyLevel"],
   })
   if (multiplier === null) return null
-  keepReading(root, READOUT_PAGE, multiplier, now)
+  keepReading(root, readoutPage(root, READOUT_SLUG), multiplier, now)
   return multiplier
 }
 
@@ -30,7 +33,7 @@ if (import.meta.main) {
       process.stderr.write(`${NOTHING_TO_TAKE}\n`)
       process.exit(2)
     }
-    process.stdout.write(`a cost was taken and kept beside ${READOUT_PAGE}\n`)
+    process.stdout.write(`a cost was taken and kept beside ${readoutPage(root, READOUT_SLUG)}\n`)
   } catch (thrown) {
     process.stderr.write(`${thrown instanceof Error ? thrown.message : String(thrown)}\n`)
     process.exit(1)

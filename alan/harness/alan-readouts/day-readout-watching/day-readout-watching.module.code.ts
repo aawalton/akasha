@@ -3,7 +3,10 @@ import {
   getEsoDayStr,
   getEsoDayWindow,
 } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
-import { keepSilence } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import {
+  keepSilence,
+  readoutPage,
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import {
   SETTLE_MS,
   type WatchedReadout,
@@ -16,6 +19,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
+import { listedAt } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
 import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
 import { keepBeat } from "akasha/services/workstation-services/service-beating/service-beating.module.code.ts"
 import { DAY_PAGE_TYPE } from "../../../track/daily/day-place/day-place.module.code.ts"
@@ -29,11 +33,11 @@ import {
   WISDOM_PAGE,
 } from "../../attributes/reading/attributes-reading.module.code.ts"
 import {
-  READOUT_PAGE as CAPACITY_PAGE,
+  READOUT_SLUG as CAPACITY_SLUG,
   takeReading as takeCapacity,
 } from "../../capacity/reading/capacity-reading.module.code.ts"
 import {
-  READOUT_PAGE as COST_PAGE,
+  READOUT_SLUG as COST_SLUG,
   takeReading as takeCost,
 } from "../../cost/reading/cost-reading.module.code.ts"
 import {
@@ -41,19 +45,19 @@ import {
   tasksPage,
 } from "../../inboxes/reading/inbox-reading.module.code.ts"
 import {
-  READOUT_PAGE as PLANTS_PAGE,
+  READOUT_SLUG as PLANTS_SLUG,
   takeReading as takePlants,
 } from "../../plants/reading/plants-reading.module.code.ts"
 import {
-  READOUT_PAGE as SAFETY_PAGE,
+  READOUT_SLUG as SAFETY_SLUG,
   takeReading as takeSafety,
 } from "../../safety/reading/safety-reading.module.code.ts"
 import {
-  READOUT_PAGE as SLEEP_PAGE,
+  READOUT_SLUG as SLEEP_SLUG,
   takeReading as takeSleep,
 } from "../../sleep/reading/sleep-reading.module.code.ts"
 import {
-  READOUT_PAGE as SURPLUS_PAGE,
+  READOUT_SLUG as SURPLUS_SLUG,
   takeReading as takeSurplus,
 } from "../../surplus/reading/surplus-reading.module.code.ts"
 
@@ -69,8 +73,19 @@ export const ROLL_NO_SOONER_MS = 60_000
 
 export const BEAT_MS = 5 * 60_000
 
-export const WATCH_PAGE =
-  "alan/harness/alan-readouts/day-readout-watch-service/day-readout-watch-service.workstation-service.ts"
+const WATCH_SERVICE = "workstation-service"
+
+export const WATCH_SLUG = "day-readout-watch-service"
+
+export function watchPage(root: string): string {
+  const listed = listedAt(root, WATCH_SERVICE, WATCH_SLUG)[0]
+  if (listed === undefined) {
+    throw new Error(
+      `no \`${WATCH_SERVICE}\` is slugged \`${WATCH_SLUG}\`, so a beat would be kept nowhere`
+    )
+  }
+  return listed.path
+}
 
 const BOTH_SITES: readonly string[] = [ALAN_SITE, JENNY_SITE]
 
@@ -135,23 +150,24 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
   const dayRow = madeOf(files.row, files.open)
   const dayRowAndStretches = madeOf(files.row, files.open, files.stretches)
   const tasks = tasksPage(root)
+  const pageAt = (slug: string): string => readoutPage(root, slug)
   return [
     {
-      page: SAFETY_PAGE,
+      page: pageAt(SAFETY_SLUG),
       folders,
       holds: openBlock,
       to: BOTH_SITES,
       take: (now) => takeSafety(root, now),
     },
     {
-      page: COST_PAGE,
+      page: pageAt(COST_SLUG),
       folders,
       holds: openBlock,
       to: BOTH_SITES,
       take: (now) => takeCost(root, now),
     },
     {
-      page: SURPLUS_PAGE,
+      page: pageAt(SURPLUS_SLUG),
       folders,
       holds: dayRowAndStretches,
       pageTypes: FROM_THE_DAY,
@@ -159,7 +175,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       take: (now) => takeSurplus(root, now),
     },
     {
-      page: SLEEP_PAGE,
+      page: pageAt(SLEEP_SLUG),
       folders,
       holds: dayRow,
       pageTypes: FROM_THE_DAY,
@@ -167,7 +183,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       take: (now) => takeSleep(root, now),
     },
     {
-      page: CAPACITY_PAGE,
+      page: pageAt(CAPACITY_SLUG),
       folders,
       holds: dayRowAndStretches,
       pageTypes: FROM_THE_DAY,
@@ -175,7 +191,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
       take: (now) => takeCapacity(root, now),
     },
     {
-      page: PLANTS_PAGE,
+      page: pageAt(PLANTS_SLUG),
       folders,
       holds: dayRow,
       pageTypes: FROM_THE_FOOD,
@@ -256,7 +272,7 @@ export function watchDayReadings(
       silent,
       at
     )
-    keepBeat(root, WATCH_PAGE, at)
+    keepBeat(root, watchPage(root), at)
     return undefined
   }
 

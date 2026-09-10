@@ -37,8 +37,8 @@ export const costReading = {
       statement: "A run of this file takes a reading.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "The readout's path is spelled here rather than asked of the index.",
+      invariantKind: "departure",
+      statement: "Where the readout's page sits is asked of the index rather than spelled.",
     },
     {
       invariantKind: "absence",

@@ -1,9 +1,12 @@
 import { levelIn } from "akasha/alan/harness/readouts/pages/upkeep-safety/upkeep-safety.readout.code.ts"
-import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import {
+  keepReading,
+  readoutPage,
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
 import { openSession } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
-export const READOUT_PAGE = "alan/harness/readouts/pages/upkeep-safety/upkeep-safety.readout.ts"
+export const READOUT_SLUG = "upkeep-safety"
 
 export const NOTHING_TO_TAKE =
   "no open block carries a safety level, so there is no reading to take. A tile showing no signal " +
@@ -14,7 +17,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
   if (session === null) return null
   const level = levelIn({ "safety-level": session["safetyLevel"] })
   if (level === null) return null
-  keepReading(root, READOUT_PAGE, level, now)
+  keepReading(root, readoutPage(root, READOUT_SLUG), level, now)
   return level
 }
 
@@ -26,7 +29,9 @@ if (import.meta.main) {
       process.stderr.write(`${NOTHING_TO_TAKE}\n`)
       process.exit(2)
     }
-    process.stdout.write(`a safety level was taken and kept beside ${READOUT_PAGE}\n`)
+    process.stdout.write(
+      `a safety level was taken and kept beside ${readoutPage(root, READOUT_SLUG)}\n`
+    )
   } catch (thrown) {
     process.stderr.write(`${thrown instanceof Error ? thrown.message : String(thrown)}\n`)
     process.exit(1)

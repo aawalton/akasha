@@ -1,6 +1,9 @@
 import type { Asking } from "akasha/alan/harness/readouts/asking/readout-asking.module.code.ts"
 import { fetchPlantGrams } from "akasha/alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.code.ts"
-import { keepReading } from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
+import {
+  keepReading,
+  readoutPage,
+} from "akasha/alan/harness/readouts/reading/readout-reading.module.code.ts"
 import { AKASHA, resolveRoots } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
 import { asking } from "akasha/pages/service/page-asking/page-asking.module.code.ts"
 import { optionalEnv } from "akasha/utils/narrow/require-env/require-env.module.code.ts"
@@ -9,7 +12,7 @@ import {
   openedDayWindow,
 } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 
-export const READOUT_PAGE = "alan/harness/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
+export const READOUT_SLUG = "upkeep-plants"
 
 export function askingIn(root: string): Asking {
   return async (query) => {
@@ -24,7 +27,7 @@ export async function takeReading(root: string, now: Date = new Date()): Promise
   const window = openedDayWindow(here, openedDayOf(here, now))
   const checkout = here[AKASHA] ?? root
   const grams = await fetchPlantGrams(askingIn(checkout), window.from, window.to)
-  keepReading(root, READOUT_PAGE, grams, now)
+  keepReading(root, readoutPage(root, READOUT_SLUG), grams, now)
   return grams
 }
 
@@ -32,7 +35,9 @@ if (import.meta.main) {
   const root = optionalEnv("AKASHA_ROOT") ?? process.cwd()
   try {
     await takeReading(root)
-    process.stdout.write(`plant grams were counted and kept beside ${READOUT_PAGE}\n`)
+    process.stdout.write(
+      `plant grams were counted and kept beside ${readoutPage(root, READOUT_SLUG)}\n`
+    )
   } catch (thrown) {
     process.stderr.write(`${thrown instanceof Error ? thrown.message : String(thrown)}\n`)
     process.exit(1)

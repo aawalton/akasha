@@ -101,6 +101,10 @@ export const dayReadoutWatching = {
       statement: "The timers taking these readings run whatever the watch does.",
     },
     {
+      invariantKind: "departure",
+      statement: "Where every page named here sits is asked of the index rather than spelled.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here works out a reading.",
     },
