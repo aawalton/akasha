@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const moltin = {
   id: "01a06580-2495-7d79-b7c0-20f2e550805e",

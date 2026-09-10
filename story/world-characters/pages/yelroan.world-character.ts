@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const yelroan = {
   id: "01a06580-2495-7302-ab80-d08ce5cf8470",

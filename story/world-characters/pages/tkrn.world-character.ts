@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const tkrn = {
   id: "01a06580-2495-7ca0-a021-aa66911c1a42",

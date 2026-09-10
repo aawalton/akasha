@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const levil = {
   id: "01a06580-2494-7e73-930c-ab5a8006ead2",

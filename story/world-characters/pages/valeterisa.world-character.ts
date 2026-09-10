@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const valeterisa = {
   id: "01a06580-2495-760b-8c88-7ed4d37e1fd8",

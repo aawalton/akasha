@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const xitegen = {
   id: "01a06580-2495-749b-b9da-a91436213dbc",

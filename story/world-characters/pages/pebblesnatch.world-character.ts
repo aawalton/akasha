@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const pebblesnatch = {
   id: "01a06580-2495-74f1-8c85-ff0bab414851",

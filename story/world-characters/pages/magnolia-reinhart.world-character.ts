@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const magnoliaReinhart = {
   id: "01a06580-2494-7d79-bc34-79f022266af0",

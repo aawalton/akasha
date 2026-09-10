@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const pisces = {
   id: "01a06580-2495-755b-839a-22cd62d57e6a",

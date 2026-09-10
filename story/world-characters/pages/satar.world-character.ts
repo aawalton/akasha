@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const satar = {
   id: "01a06580-2495-7036-95a2-fadb68f43e24",

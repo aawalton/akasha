@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const ragsChieftain = {
   id: "01a06580-2495-743b-8f6d-ca2a50e6047c",

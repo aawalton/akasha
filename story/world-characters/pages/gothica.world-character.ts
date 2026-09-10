@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const gothica = {
   id: "01a06580-2494-7690-a8b5-0c37549f50ed",

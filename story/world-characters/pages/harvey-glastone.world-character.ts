@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const harveyGlastone = {
   id: "01a06580-2494-7e5b-8a58-a65199e4ad85",

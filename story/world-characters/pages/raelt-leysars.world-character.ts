@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const raeltLeysars = {
   id: "01a06580-2495-7662-9759-276a2ab14800",

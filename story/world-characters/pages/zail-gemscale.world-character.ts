@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const zailGemscale = {
   id: "01a06580-2495-72c4-90d0-82c39c88cce7",

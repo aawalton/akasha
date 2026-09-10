@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const montressaDuValeross = {
   id: "01a06580-2495-75d1-97af-17066cf8f5e6",

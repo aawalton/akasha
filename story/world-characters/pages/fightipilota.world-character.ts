@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const fightipilota = {
   id: "01a06580-2494-72f5-9726-4cc56b85fe71",

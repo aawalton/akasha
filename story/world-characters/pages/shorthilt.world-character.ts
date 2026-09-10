@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const shorthilt = {
   id: "01a06580-2495-7b54-9943-3b42d83bd61a",

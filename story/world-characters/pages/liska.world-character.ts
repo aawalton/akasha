@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const liska = {
   id: "01a06580-2494-76e5-b9ca-0757b2955c15",

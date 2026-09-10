@@ -1,20 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Page } from "akasha/pages/page.page-type.types.ts"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { World } from "../stories-played/properties/world.relation-property.ts"
-import type { EventCount } from "./properties/event-count.number-property.ts"
-import type { FirstChapter } from "./properties/first-chapter.number-property.ts"
-import type { LastChapter } from "./properties/last-chapter.number-property.ts"
-import type { MaxLevel } from "./properties/max-level.number-property.ts"
-
-export type WorldCharacter = Page & {
-  title: Title
-  world?: World
-  maxLevel?: MaxLevel
-  eventCount?: EventCount
-  firstChapter?: FirstChapter
-  lastChapter?: LastChapter
-}
 
 export const worldCharacter = {
   id: "01a0657a-9ccd-7153-9c9f-c9454abc1a22",
@@ -62,4 +46,5 @@ export const worldCharacter = {
       statement: "Every level a story gives a character is beside that character.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

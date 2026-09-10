@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const femithain = {
   id: "01a06580-2494-7d8d-84b5-519a4cb109df",

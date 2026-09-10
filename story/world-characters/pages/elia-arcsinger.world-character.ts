@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const eliaArcsinger = {
   id: "01a06580-2494-7f7a-a218-4ade25153bf0",

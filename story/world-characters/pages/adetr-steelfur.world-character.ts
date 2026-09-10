@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const adetrSteelfur = {
   id: "01a06580-2493-7357-886c-a15d44dc3bb4",

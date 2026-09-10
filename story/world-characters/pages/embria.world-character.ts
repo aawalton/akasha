@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const embria = {
   id: "01a06580-2494-74e8-8287-c3a1fe9ed588",

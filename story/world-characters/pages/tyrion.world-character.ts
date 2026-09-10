@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const tyrion = {
   id: "01a06580-2495-7bbd-ab01-957ce84b8c7f",

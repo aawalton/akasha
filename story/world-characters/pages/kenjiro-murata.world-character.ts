@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const kenjiroMurata = {
   id: "01a06580-2494-7bb1-863a-db7fe501fe34",

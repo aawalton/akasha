@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const numbtongue = {
   id: "01a06580-2495-73d1-baa0-997a8b62411f",

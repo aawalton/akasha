@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const ylawesByres = {
   id: "01a06580-2495-7300-b2f5-f272e911ffd9",

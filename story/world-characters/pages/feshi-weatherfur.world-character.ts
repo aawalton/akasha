@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const feshiWeatherfur = {
   id: "01a06580-2494-7ef2-8d7d-c94826114f07",

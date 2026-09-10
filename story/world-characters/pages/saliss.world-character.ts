@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const saliss = {
   id: "01a06580-2495-7632-8ca4-54ddccefbfc2",

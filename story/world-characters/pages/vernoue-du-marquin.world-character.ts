@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const vernoueDuMarquin = {
   id: "01a06580-2495-7893-8762-183f54660b22",

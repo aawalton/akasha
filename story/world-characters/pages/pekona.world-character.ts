@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const pekona = {
   id: "01a06580-2495-76a0-9240-9c1e564bd530",

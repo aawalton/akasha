@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const jecaina = {
   id: "01a06580-2494-70b5-ba9c-d071203e5e01",

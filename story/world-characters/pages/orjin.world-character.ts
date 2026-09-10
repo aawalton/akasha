@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const orjin = {
   id: "01a06580-2495-762b-8ec7-13ac83d2f761",

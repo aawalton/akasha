@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const treyAtwood = {
   id: "01a06580-2495-7f83-87b5-ff73ca63153c",

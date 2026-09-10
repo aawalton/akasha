@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const seraphelDuMarquin = {
   id: "01a06580-2495-7c47-a4b3-4fbc016c5cd9",

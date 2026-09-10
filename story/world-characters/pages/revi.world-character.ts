@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const revi = {
   id: "01a06580-2495-79e8-b64e-0409f29d5174",

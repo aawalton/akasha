@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const nailrenFletchsing = {
   id: "01a06580-2495-70a5-b00c-928a3514de10",

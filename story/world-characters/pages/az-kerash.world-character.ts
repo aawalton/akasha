@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const azKerash = {
   id: "01a06580-2494-7b32-95c9-6744876a1f76",

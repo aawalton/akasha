@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const rhaldon = {
   id: "01a06580-2495-708e-9dd0-ef2db53b50a5",

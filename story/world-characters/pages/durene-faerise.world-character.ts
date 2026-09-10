@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const dureneFaerise = {
   id: "01a06580-2494-7ac1-929a-68dcb51fec94",

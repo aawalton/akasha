@@ -1,4 +1,4 @@
-import type { WorldCharacter } from "../world-character.page-type.ts"
+import type { WorldCharacter } from "../world-character.page-type.types.ts"
 
 export const ksmvr = {
   id: "01a06580-2494-7d42-8eb4-3482b0b04728",
