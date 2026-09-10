@@ -1,4 +1,4 @@
-import type { TemperRace } from "../temper-race.page-type.ts"
+import type { TemperRace } from "../temper-race.page-type.types.ts"
 
 export const orc = {
   id: "019e2fc3-a996-7284-8ef0-00982dfebbca",

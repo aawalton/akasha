@@ -1,4 +1,4 @@
-import type { TemperRace } from "../temper-race.page-type.ts"
+import type { TemperRace } from "../temper-race.page-type.types.ts"
 
 export const bosmer = {
   id: "019e2fc3-a98b-73ef-a453-74c4ef0028da",

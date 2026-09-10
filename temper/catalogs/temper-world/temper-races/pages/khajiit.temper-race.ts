@@ -1,4 +1,4 @@
-import type { TemperRace } from "../temper-race.page-type.ts"
+import type { TemperRace } from "../temper-race.page-type.types.ts"
 
 export const khajiit = {
   id: "019e2fc3-a993-70dc-8b1e-55803c6a65a8",

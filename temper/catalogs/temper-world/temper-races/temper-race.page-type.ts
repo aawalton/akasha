@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-import type { AltName } from "../properties/alt-name.text-property.ts"
-import type { EsoRaceId } from "../properties/eso-race-id.number-property.ts"
-
-export type TemperRace = TemperCatalogThing & {
-  altName?: AltName
-  esoRaceId: EsoRaceId
-}
 
 export const temperRace = {
   id: "01a05fc4-7a95-7a17-b702-bdb4627956d0",
@@ -22,4 +14,5 @@ export const temperRace = {
     { pageProperty: "text-property/alt-name", required: false, many: false },
     { pageProperty: "number-property/eso-race-id", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
