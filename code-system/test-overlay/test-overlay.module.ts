@@ -11,7 +11,8 @@ export const testOverlay = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run under this reads the checkout with the change's bodies over it.",
+      statement:
+        "A run under the overlay reads the checkout with the change's bodies over the checkout.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +36,7 @@ export const testOverlay = {
     },
     {
       invariantKind: "departure",
-      statement: "A link is read against the folder that link sits in, as any symlink is.",
+      statement: "A link is read against the folder that link sits in as any symlink is.",
     },
     {
       invariantKind: "absence",
@@ -43,20 +44,19 @@ export const testOverlay = {
     },
     {
       invariantKind: "departure",
-      statement: "A run under this begins in the mounted tree rather than in the checkout.",
+      statement: "A run under the overlay begins in the mounted tree rather than in the checkout.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What resolves a name reads the mounted tree, so a way in the change brings is found.",
+      statement: "Name resolution reads the mounted tree.",
     },
     {
       invariantKind: "departure",
-      statement: "The mount is made inside a user namespace, so no privilege is asked for.",
+      statement: "The mount is made inside a user namespace.",
     },
     {
       invariantKind: "departure",
-      statement: "The mount goes when the run that made it ends.",
+      statement: "The mount goes when the run that made the mount ends.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +68,8 @@ export const testOverlay = {
     },
     {
       invariantKind: "constraint",
-      statement: "The folder overlay work goes in is made unreadable by the kernel that made it.",
+      statement:
+        "The folder overlay work goes in is made unreadable by the kernel that made the folder.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +85,7 @@ export const testOverlay = {
     },
     {
       invariantKind: "departure",
-      statement: "The run inside is root in that namespace, so no file mode refuses it.",
+      statement: "The run inside is root in that namespace.",
     },
   ],
 } as const satisfies Module
