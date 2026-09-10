@@ -2,6 +2,7 @@ import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.m
 import type { RingCounts } from "../../../../readouts/body/readout-body.module.code.ts"
 import { fetchRingCountsFromMonarch } from "../../../../readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts"
 import { keepReading } from "../../../../readouts/reading/readout-reading.module.code.ts"
+import { shape } from "../../../../utils/narrow/shape/shape.module.code.ts"
 
 export const READOUT_PAGE =
   "readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
@@ -36,7 +37,7 @@ if (import.meta.main) {
     process.stderr.write(`${COOKIE_ABSENT}\n`)
     process.exit(2)
   }
-  const root = process.env.AKASHA_ROOT ?? process.cwd()
+  const root = shape.string().default(process.cwd()).parse(process.env.AKASHA_ROOT)
   try {
     const unreviewed = await takeReading(root, cookie)
     process.stdout.write(`${unreviewed} unreviewed, kept beside ${READOUT_PAGE}\n`)
