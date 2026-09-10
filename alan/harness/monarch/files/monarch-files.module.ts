@@ -10,16 +10,12 @@ export const monarchFiles = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every Monarch page family sits under one folder inside akasha.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The checkout is read directly.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The months are the index's answer for their page type rather than a folder listed.",
+        "A page family is the index's answer for its page type rather than a folder listed.",
     },
     {
       invariantKind: "departure",

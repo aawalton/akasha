@@ -1,12 +1,15 @@
-import { readdir, readFile } from "node:fs/promises"
+import { readFile } from "node:fs/promises"
 import { join } from "node:path"
 import {
   AKASHA as AKASHA_REPO,
   resolveRoots,
   rootFor,
 } from "akasha/pages/checkout-roots/checkout-roots.module.code.ts"
-import { slugsOfType } from "akasha/pages/indexes/reading/index-reading.module.code.ts"
-import { type Value, valueAt } from "akasha/pages/value/page-value.module.code.ts"
+import {
+  slugsOfType,
+  valuesOfType,
+} from "akasha/pages/indexes/reading/index-reading.module.code.ts"
+import type { Value } from "akasha/pages/value/page-value.module.code.ts"
 import { shape } from "akasha/utils/narrow/shape/shape.module.code.ts"
 
 const roots = resolveRoots()
@@ -88,22 +91,14 @@ export interface PageFile {
   readonly value: Value
 }
 
-function pageNamesIn(names: readonly string[], type: string): readonly string[] {
-  return names.filter((name) => name.endsWith(`.${type}.ts`)).sort()
-}
-
-async function pagesIn(root: string, folder: string, type: string): Promise<readonly PageFile[]> {
-  const names = pageNamesIn(await readdir(join(root, folder)), type)
+function pagesOfType(type: string): readonly PageFile[] {
   const found: PageFile[] = []
-  for (const name of names) {
-    const path = `${folder}/${name}`
-    const value = valueAt(path, root)
-    if (value === null) throw new Error(`${path}: no page value, so nothing names this page`)
-    const slug = value.slug
+  for (const one of valuesOfType(AKASHA, type)) {
+    const slug = one.value.slug
     if (typeof slug !== "string")
-      throw new Error(`${path}: no \`slug\`, so nothing names this page`)
-    const title = typeof value.title === "string" ? value.title : slug
-    found.push({ slug, title, root, path, value })
+      throw new Error(`${one.path}: no \`slug\`, so nothing names this page`)
+    const title = typeof one.value.title === "string" ? one.value.title : slug
+    found.push({ slug, title, root: AKASHA, path: one.path, value: one.value })
   }
   return found
 }
@@ -116,27 +111,27 @@ export function keyOf(page: PageFile, name: string): string | null {
 }
 
 export async function categoryPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, CATEGORY_FOLDER, "monarch-category")
+  return pagesOfType("monarch-category")
 }
 
 export async function accountPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, ACCOUNT_FOLDER, "monarch-account")
+  return pagesOfType("monarch-account")
 }
 
 export async function tagPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, TAG_FOLDER, "monarch-tag")
+  return pagesOfType("monarch-tag")
 }
 
 export async function holdingPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, HOLDING_FOLDER, "monarch-holding")
+  return pagesOfType("monarch-holding")
 }
 
 export async function directionPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, DIRECTION_FOLDER, "monarch-direction")
+  return pagesOfType("monarch-direction")
 }
 
 export async function merchantPages(): Promise<readonly PageFile[]> {
-  return pagesIn(AKASHA, MERCHANT_FOLDER, "monarch-merchant")
+  return pagesOfType("monarch-merchant")
 }
 
 export function monthOf(date: string): string {
