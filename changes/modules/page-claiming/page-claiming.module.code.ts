@@ -9,6 +9,7 @@ export function claimedIn(world: World, at: string, value: Value): readonly stri
     world.root,
     world.index.filePropertiesAt(),
     world.index.sidecarsAt(),
+    world.index.uncommittedFiledAt(),
     (one) => world.bodyOf(one) !== null
   )
   const held = [...new Set(claimed)].filter((one) => one !== at && world.bodyOf(one) !== null)

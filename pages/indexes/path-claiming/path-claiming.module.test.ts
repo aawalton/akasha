@@ -4,6 +4,7 @@ import {
   claimingBeside,
   filedAs,
   HELD_PAGE,
+  withholding,
 } from "../entries/index-entries.module.test-fixtures.ts"
 import { claimsOf, pathsOf, sidecarsIn } from "./path-claiming.module.code.ts"
 
@@ -156,6 +157,37 @@ test("a page whose type declares an uncommitted value claims the values file bes
   expect(claimingBeside({ uncommitted: true }, filedAs("held-type", {}))).toEqual([
     HELD_PAGE,
     VALUES,
+  ])
+})
+
+const NOTED = { id: A, pageTypeSlug: "held-type", slug: "a", notes: "jsonl" }
+
+const NOTES = filedAs("held-type", { notes: null })
+
+const NOTES_OUTSIDE = "deep/a.held-type.notes.uncommitted.jsonl"
+
+const NOTES_PART2 = "deep/a.held-type.notes.part2.uncommitted.jsonl"
+
+test("a property the page states is claimed under its uncommitted name where its type holds it so", () => {
+  const there = new Set([NOTES_PART2])
+
+  expect(
+    claimsOf(
+      NOTED,
+      `/repo/${HELD_PAGE}`,
+      "/repo",
+      NOTES,
+      sidecarsIn([]),
+      withholding("notes"),
+      (at) => there.has(at)
+    )
+  ).toEqual([HELD_PAGE, NOTES_OUTSIDE, NOTES_PART2])
+})
+
+test("that same property is claimed under its plain name where its type holds it in the commit", () => {
+  expect(claimsOf(NOTED, `/repo/${HELD_PAGE}`, "/repo", NOTES, sidecarsIn([]))).toEqual([
+    HELD_PAGE,
+    "deep/a.held-type.notes.jsonl",
   ])
 })
 

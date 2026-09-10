@@ -1,7 +1,7 @@
 import { basename } from "node:path"
 import type { Naming } from "@akasha/code/code-specifier"
 import type { Answering } from "@akasha/indexes/answering"
-import type { FilePropertiesBy, FoldersBy } from "@akasha/indexes/entries"
+import type { FilePropertiesBy, FoldersBy, UncommittedBy } from "@akasha/indexes/entries"
 import { reachingOf } from "@akasha/indexes/package-reaching"
 import { claimsOf, type IsThere, type SidecarsBy } from "@akasha/indexes/path-claiming"
 import type { Known } from "@akasha/indexes/reaching"
@@ -233,13 +233,14 @@ export function partsOver(
   root: string,
   stated: FilePropertiesBy,
   sidecars: SidecarsBy,
+  withheld: UncommittedBy,
   folders: FoldersBy,
   there: IsThere
 ): (page: Held) => readonly string[] {
   return (page) => {
     const value = index.pageByPath(page.path)
     if (value === null) return [page.path]
-    return claimsOf(value, page.path, root, stated, sidecars, there, folders)
+    return claimsOf(value, page.path, root, stated, sidecars, withheld, there, folders)
   }
 }
 
@@ -295,6 +296,7 @@ export function judgingOver(given: Reading): Judging {
     given.root,
     index.filePropertiesAt(),
     index.sidecarsAt(),
+    index.uncommittedFiledAt(),
     index.folderPropertiesAt(),
     (at) => grouped.at(folderOf(at)).includes(at)
   )

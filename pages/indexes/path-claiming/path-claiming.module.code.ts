@@ -68,7 +68,10 @@ export function filesClaimedIn(
       found.push({ at: join(dirname(own), fileName), uncommitted })
       continue
     }
-    for (const at of partsOf(own, propertySlug, held, there)) found.push({ at, uncommitted })
+    const parts = uncommitted
+      ? uncommittedPartsOf(own, propertySlug, held, there)
+      : partsOf(own, propertySlug, held, there)
+    for (const at of parts) found.push({ at, uncommitted })
   }
   return found
 }
@@ -250,13 +253,12 @@ export function claimsOf(
   repo: string,
   fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
+  withheld: UncommittedBy = NONE_WITHHELD,
   there: IsThere = () => false,
   folders: FoldersBy = NO_FOLDERS
 ): readonly string[] {
-  const found = [
-    ...pathsOf(value, path, repo, fileProperties, there),
-    ...foldersClaimedIn(value, path, repo, folders),
-  ]
+  const claimed = filesClaimedIn(value, path, repo, fileProperties, withheld, there)
+  const found = [...claimed.map((one) => one.at), ...foldersClaimedIn(value, path, repo, folders)]
   const own = under(repo, path)
   const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug") ?? ""
   const carried = fileProperties.get(pageTypeSlug)

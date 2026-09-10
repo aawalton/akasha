@@ -25,6 +25,8 @@ import {
   folderPropertiesOver,
   type Identifier,
   pageTypesIn,
+  uncommittedFiledIn,
+  uncommittedFiledOver,
   uniquePropertiesAt,
   uniquePropertiesIn,
 } from "../entries/index-entries.module.code.ts"
@@ -161,7 +163,13 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
   const identity = held.flatMap((one) => identityIn(one.value, one.path, repo, identifying))
   const drift = [reconcile(join(root, IDENTITY), identity, root, put)]
   const sidecars = sidecarsIn(values)
-  const claim = claimingIn(repo, filedBy, sidecars, undefined, folderPropertiesIn(values))
+  const claim = claimingIn(
+    repo,
+    filedBy,
+    sidecars,
+    uncommittedFiledIn(values),
+    folderPropertiesIn(values)
+  )
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
   drift.push(reconcile(join(root, PATH), paths, root, put))
   drift.push(reconcile(join(root, LISTED_UNDER), listedOf(paths), root, put))
@@ -327,10 +335,18 @@ export function settlingOver(
     repo,
     wasBesides.fileProperties,
     wasBesides.sidecars,
-    carried,
-    folderPropertiesOver(reading, [])
+    uncommittedFiledOver(reading, []),
+    folderPropertiesOver(reading, []),
+    carried
   )
-  const claim = claimingIn(repo, filedBy, sidecars, carried, folderPropertiesOver(reading, left))
+  const claim = claimingIn(
+    repo,
+    filedBy,
+    sidecars,
+    uncommittedFiledOver(reading, left),
+    folderPropertiesOver(reading, left),
+    carried
+  )
   const beside = pagesTurned(reading, wasBesides, { fileProperties: filedBy, sidecars }, carriedAt)
   const wasPaths = [
     ...held.flatMap((one) => (one.was === null ? [] : wasClaim(one.was, one.path, true))),

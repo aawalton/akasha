@@ -79,6 +79,11 @@ export const pathClaiming = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A property the page states is claimed under its uncommitted name where its type holds it so.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A property whose file is named outright is claimed once rather than twice.",
     },
     {

@@ -7,7 +7,7 @@ import { scratchWorld } from "../../../commands/modules/scratching/scratching.mo
 import { DECLARING_AT } from "../declaring/index-declaring.index.code.ts"
 import { claimsOf, type IsThere, sidecarsIn } from "../path-claiming/path-claiming.module.code.ts"
 import type { Shaped } from "../reaching/reaching.module.code.ts"
-import type { FilePropertiesBy } from "./index-entries.module.code.ts"
+import type { FilePropertiesBy, UncommittedBy } from "./index-entries.module.code.ts"
 
 export const A = "01a04b79-0000-7000-8000-00000000000a"
 export const B = "01a04b79-0000-7000-8000-00000000000b"
@@ -201,16 +201,23 @@ export function manifest(slug: string, fileName: string): Value {
 
 export const HELD_PAGE = "deep/a.held-type.ts"
 
+const NOTHING_WITHHELD: UncommittedBy = new Map()
+
 export function claimingBeside(
   said: Record<string, unknown>,
   filed: FilePropertiesBy,
-  there?: IsThere
+  there?: IsThere,
+  withheld: UncommittedBy = NOTHING_WITHHELD
 ): readonly string[] {
   const types: readonly Value[] = [
     { id: "1", pageTypeSlug: "page-type", slug: "held-type", properties: [said] },
   ]
   const value: Value = { id: A, pageTypeSlug: "held-type", slug: "a" }
-  return claimsOf(value, `/repo/${HELD_PAGE}`, "/repo", filed, sidecarsIn(types), there)
+  return claimsOf(value, `/repo/${HELD_PAGE}`, "/repo", filed, sidecarsIn(types), withheld, there)
+}
+
+export function withholding(propertySlug: string): UncommittedBy {
+  return new Map([["held-type", new Set([propertySlug])]])
 }
 
 export const SHARED_NAME: readonly Value[] = [

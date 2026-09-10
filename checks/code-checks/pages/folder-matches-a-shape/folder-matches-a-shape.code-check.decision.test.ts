@@ -45,7 +45,15 @@ function paging(value: Value): Paged {
 }
 
 function claimed(value: Value): readonly string[] {
-  const parts = partsOver(paging(value), ROOT, new Map(), new Map(), FOLDER_PROPERTIES, () => false)
+  const parts = partsOver(
+    paging(value),
+    ROOT,
+    new Map(),
+    new Map(),
+    new Map(),
+    FOLDER_PROPERTIES,
+    () => false
+  )
   return parts(heldIn(MANIFEST_AT, MANIFEST_TYPES, new Set<string>()))
 }
 

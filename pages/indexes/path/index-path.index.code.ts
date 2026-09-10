@@ -1,7 +1,12 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { textAt, type Value } from "@akasha/pages/page-value"
-import type { Entry, FilePropertiesBy, FoldersBy } from "../entries/index-entries.module.code.ts"
+import type {
+  Entry,
+  FilePropertiesBy,
+  FoldersBy,
+  UncommittedBy,
+} from "../entries/index-entries.module.code.ts"
 import {
   claimsOf,
   type IsThere,
@@ -41,6 +46,7 @@ export function claimedIn(
   repo: string,
   fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
+  withheld?: UncommittedBy,
   there?: IsThere,
   folders?: FoldersBy
 ): readonly string[] {
@@ -48,7 +54,7 @@ export function claimedIn(
   const slug = textAt(value, "slug")
   const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
   if (id === null || slug === null || pageTypeSlug === null) return []
-  return claimsOf(value, path, repo, fileProperties, sidecars, there, folders)
+  return claimsOf(value, path, repo, fileProperties, sidecars, withheld, there, folders)
 }
 
 export function pathIn(
@@ -57,23 +63,36 @@ export function pathIn(
   repo: string,
   fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
+  withheld?: UncommittedBy,
   there?: IsThere,
   folders?: FoldersBy
 ): readonly Entry[] {
   const line = JSON.stringify({ path: under(repo, path), id: textAt(value, "id") })
-  return claimedIn(value, path, repo, fileProperties, sidecars, there, folders).map((one) => ({
-    at: join(PATH, `${one}${ENDING}`),
-    line,
-  }))
+  return claimedIn(value, path, repo, fileProperties, sidecars, withheld, there, folders).map(
+    (one) => ({
+      at: join(PATH, `${one}${ENDING}`),
+      line,
+    })
+  )
 }
 
 export function claimingIn(
   repo: string,
   fileProperties: FilePropertiesBy,
   sidecars: SidecarsBy,
-  carried: ReadonlyMap<string, Bodied> = NOTHING,
-  folders?: FoldersBy
+  withheld?: UncommittedBy,
+  folders?: FoldersBy,
+  carried: ReadonlyMap<string, Bodied> = NOTHING
 ): Claiming {
   return (value, path, was) =>
-    pathIn(value, path, repo, fileProperties, sidecars, thereIn(repo, carried, was), folders)
+    pathIn(
+      value,
+      path,
+      repo,
+      fileProperties,
+      sidecars,
+      withheld,
+      thereIn(repo, carried, was),
+      folders
+    )
 }
