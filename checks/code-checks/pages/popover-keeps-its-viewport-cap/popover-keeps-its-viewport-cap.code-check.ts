@@ -7,8 +7,6 @@ export const popoverKeepsItsViewportCap = {
   slug: "popover-keeps-its-viewport-cap",
   definition:
     "the check refusing a popover whose class or prop undoes the viewport cap its wrapper sets",
-  code: "ts",
-  test: "ts",
   runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
