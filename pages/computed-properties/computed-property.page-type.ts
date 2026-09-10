@@ -14,9 +14,13 @@ export const computedProperty = {
   slug: "computed-property",
   definition: "a page property a function works out from the page",
   pluralSlug: "computed-properties",
-  extends: ["page-type/module", "page-type/page-property"],
+  extends: ["page-type/page-property"],
   parts: ["select-property/holds"],
-  properties: [{ pageProperty: "select-property/holds", required: true, many: false }],
+  properties: [
+    { pageProperty: "select-property/holds", required: true, many: false },
+    { pageProperty: "code-file-property/code", required: true, many: false },
+    { pageProperty: "code-file-property/test", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -83,6 +87,11 @@ export const computedProperty = {
     {
       invariantKind: "absence",
       statement: "No calculation is written as an expression the system parses.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A computed property's code is loaded by the engine working it rather than imported.",
     },
   ],
   types: "ts",
