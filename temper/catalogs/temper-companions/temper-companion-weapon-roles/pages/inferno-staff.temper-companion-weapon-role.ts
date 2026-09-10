@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponRole } from "../temper-companion-weapon-role.page-type.ts"
+import type { TemperCompanionWeaponRole } from "../temper-companion-weapon-role.page-type.types.ts"
 
 export const infernoStaff = {
   id: "01a05fcd-ea71-79ef-b6e3-e8e7c17c5a23",

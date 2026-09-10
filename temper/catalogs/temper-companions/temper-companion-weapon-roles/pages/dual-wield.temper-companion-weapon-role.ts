@@ -1,4 +1,4 @@
-import type { TemperCompanionWeaponRole } from "../temper-companion-weapon-role.page-type.ts"
+import type { TemperCompanionWeaponRole } from "../temper-companion-weapon-role.page-type.types.ts"
 
 export const dualWield = {
   id: "01a05fcd-ea70-79c4-aaa6-56e61e68b51a",

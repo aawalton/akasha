@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { ValidMainHandWeaponTypes } from "../temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts"
-import type { ValidOffHandWeaponTypes } from "../temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts"
-import type { WeaponSkillLineId } from "../temper-companion-things/properties/weapon-skill-line-id.text-property.ts"
-import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.types.ts"
-
-export type TemperCompanionWeaponRole = TemperCompanionThing & {
-  weaponSkillLineId: WeaponSkillLineId
-  validMainHandWeaponTypes?: ValidMainHandWeaponTypes
-  validOffHandWeaponTypes?: ValidOffHandWeaponTypes
-}
 
 export const temperCompanionWeaponRole = {
   id: "01a05fcd-aed1-7e12-be73-72bd7b05ba15",
@@ -39,4 +29,5 @@ export const temperCompanionWeaponRole = {
       maxCount: null,
     },
   ],
+  types: "ts",
 } as const satisfies PageType
