@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { WorldMechanic } from "../world-mechanic.page-type.types.ts"
-
-export type WorldRecipe = WorldMechanic
 
 export const worldRecipe = {
   id: "01a06558-a991-7d40-b27c-78cd6a90c073",
@@ -12,4 +9,5 @@ export const worldRecipe = {
   pluralSlug: "world-recipes",
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
+  types: "ts",
 } as const satisfies PageType
