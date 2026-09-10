@@ -135,6 +135,10 @@ export const command = {
     },
     {
       invariantKind: "departure",
+      statement: "A command under no namespace is one Alan approved at the root by name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A command that refuses or throws changes nothing.",
     },
     {

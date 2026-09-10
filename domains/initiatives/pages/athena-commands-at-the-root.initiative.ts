@@ -9,15 +9,15 @@ export const athenaCommandsAtTheRoot = {
   persona: "athena",
   intents: [
     {
-      statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
+      statement: "A command Alan has not approved at the root sits inside its namespace's folder.",
       workingMemory:
-        "213 of 225 commands nest under a namespace folder that names them, no mismatch at any depth; 47 namespaces, 22 top and 25 nested. The 12 at the root are agent-turn-colors, audit, calendar, complexity, drive, icloud, index, ios-app, performance, push, read, restore, named as parts by `commands/command.page-type.ts`. Alan ruled on 2026-09-10 that each takes a namespace rather than an exception. No check holds this: `folder-matches-a-shape` admits any page the type above declares a part.\n",
+        "Alan ruled on 2026-09-10 that a command sits at the root only where he approves it by name. He approved `audit` and `read`; `check` is no command. Moved since: agent-turn-colors under agent, `index refresh`, `measure complexity`, `google drive fetch`, `google calendar events`, `icloud fetch`, `ios-app build`. Left, both approved: performance to `measure performance`, push and restore to a new `git` namespace.\n",
     },
     {
       statement:
         "Every command sits in one folder at the root, named by the namespace it is under.",
       workingMemory:
-        "All 225 command and 47 namespace slugs are exactly their folder path under `commands/pages/` hyphen-joined, and equal their filename stem. The parts close both ways, no orphan and no dangling part. No domain or package names a command any more, where 187 such entries sat over 19 pages. Nothing mechanical holds it: `page-named-as-stated` judges the stem alone, and no check re-derives a slug from its path. The exception is written for a namespace under no namespace, and for no command.\n",
+        "All 233 command and 56 namespace slugs are exactly their folder path under `commands/pages/` hyphen-joined, and equal their filename stem. The parts close both ways, no orphan and no dangling part. No domain or package names a command any more, where 187 such entries sat over 19 pages. Nothing mechanical holds it: `page-named-as-stated` judges the stem alone, and no check re-derives a slug from its path. The exception covers a top namespace and a root command Alan approved.\n",
     },
     {
       statement: "A seat has the commands its domain and role need, without being handed them.",
@@ -44,7 +44,7 @@ export const athenaCommandsAtTheRoot = {
     "A new check needs Alan's. Changing a check that is there needs no approval.",
     "The glass is not broken without Alan saying so, and the reason is written in the commit.",
     "A deletion needs no approval. A directive needs Alan's.",
-    "A command's parent is its namespace, and a namespace's is the command page type.",
+    "A command's parent is its namespace unless Alan approved it at the root, and a namespace's is the command page type.",
     "Command and namespace slugs are fully qualified, with no new scope to be unique within.",
     "Packages dissolve, and the root tsconfig covers the commands folder.",
     "The pipeline concept is ablated. `workflow-language` and `workflow-templates` stay.",
