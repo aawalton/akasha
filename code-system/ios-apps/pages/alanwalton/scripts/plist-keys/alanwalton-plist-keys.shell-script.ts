@@ -26,7 +26,7 @@ export const alanwaltonPlistKeys = {
     {
       invariantKind: "departure",
       statement:
-        "Deleting the key to narrow what is asked for burns a release rather than tightening one.",
+        "Deleting the key to narrow the request burns a release rather than tightening a release.",
     },
   ],
 } as const satisfies ShellScript
