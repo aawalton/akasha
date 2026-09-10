@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { requireAt } from "akasha/utils/narrow/require-at/require-at.module.code.ts"
+import { z } from "zod"
 import { sampleIdentity } from "../sample-identity/sample-identity.module.code.ts"
 import type { HealthSample } from "../sample-shape/sample-shape.module.code.ts"
 import {
@@ -30,6 +32,12 @@ function heldOf(sample: HealthSample): readonly (readonly [string, HealthSample]
 
 const HELD = heldOf(sampleOf(11))
 
+const ROW = z.record(z.string(), z.unknown())
+
+function parseRow(lines: readonly string[], at: number): Record<string, unknown> {
+  return ROW.parse(JSON.parse(requireAt(lines, at)))
+}
+
 test("a reading nothing has filed is added, and the file is touched", () => {
   const merged = mergedInto([], HELD, ARRIVED, AT)
   expect(merged.touched).toBe(true)
@@ -39,7 +47,7 @@ test("a reading nothing has filed is added, and the file is touched", () => {
 
 test("a row is written with the keys a row beside an akasha page carries", () => {
   const merged = mergedInto([], HELD, ARRIVED, AT)
-  const row = JSON.parse(merged.lines[0] as string) as Record<string, unknown>
+  const row = parseRow(merged.lines, 0)
   expect(Object.keys(row).sort()).toEqual([
     "arrivedAt",
     "endedAt",
@@ -66,12 +74,12 @@ test("a reading already filed at that value touches nothing", () => {
 
 test("a reading whose value moved keeps the id and the seq it was filed under", () => {
   const first = mergedInto([], HELD, ARRIVED, AT)
-  const was = JSON.parse(first.lines[0] as string) as Record<string, unknown>
+  const was = parseRow(first.lines, 0)
   const moved = mergedInto(first.lines, heldOf(sampleOf(12)), ARRIVED, AT)
   expect(moved.touched).toBe(true)
   expect(moved.tally).toEqual({ inserted: 0, unchanged: 0, valueChanged: 1 })
   expect(moved.lines).toHaveLength(1)
-  const now = JSON.parse(moved.lines[0] as string) as Record<string, unknown>
+  const now = parseRow(moved.lines, 0)
   expect(now["id"]).toBe(was["id"])
   expect(now["seq"]).toBe(was["seq"])
   expect(now["value"]).toBe(12)
@@ -81,7 +89,7 @@ test("a second reading takes the seq after the highest already filed", () => {
   const first = mergedInto([], HELD, ARRIVED, AT)
   const other: HealthSample = { ...sampleOf(20), startedAt: "2026-01-01T09:00:00.000Z" }
   const both = mergedInto(first.lines, heldOf(other), ARRIVED, AT)
-  const now = JSON.parse(both.lines[1] as string) as Record<string, unknown>
+  const now = parseRow(both.lines, 1)
   expect(now["seq"]).toBe(2)
 })
 
