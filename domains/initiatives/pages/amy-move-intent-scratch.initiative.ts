@@ -9,11 +9,11 @@ export const amyMoveIntentScratch = {
   persona: "amy",
   intents: [
     {
-      statement: "This scratch intent is first.",
-    },
-    {
       statement: "This scratch intent is second.",
       workingMemory: "The move keeps this memory with the intent stating it.",
+    },
+    {
+      statement: "This scratch intent is first.",
     },
   ],
 } as const satisfies Initiative
