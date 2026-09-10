@@ -1,4 +1,4 @@
-import type { TemperDungeon } from "../temper-dungeon.page-type.ts"
+import type { TemperDungeon } from "../temper-dungeon.page-type.types.ts"
 
 export const op = {
   id: "01a05fc5-742a-70ed-aca8-da24309b1b9b",

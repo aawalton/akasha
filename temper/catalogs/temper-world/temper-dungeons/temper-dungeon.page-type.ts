@@ -1,14 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
-import type { QuestGiver } from "../properties/quest-giver.relation-property.ts"
-import type { RotationPosition } from "../properties/rotation-position.number-property.ts"
-import type { SoloDifficulty } from "../properties/solo-difficulty.text-property.ts"
-
-export type TemperDungeon = TemperCatalogThing & {
-  questGiver: QuestGiver
-  rotationPosition: RotationPosition
-  soloDifficulty: SoloDifficulty
-}
 
 export const temperDungeon = {
   id: "01a05fc4-7a8e-73b2-936f-9e3b86b17549",
@@ -29,4 +19,5 @@ export const temperDungeon = {
     { pageProperty: "number-property/rotation-position", required: true, many: false },
     { pageProperty: "text-property/solo-difficulty", required: true, many: false },
   ],
+  types: "ts",
 } as const satisfies PageType
