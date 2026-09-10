@@ -57,7 +57,11 @@ export const temperEsoGenerateTypings = {
     },
     {
       invariantKind: "departure",
-      statement: "The landing formats each body, so nothing here runs a formatter.",
+      statement: "The landing formats each body.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here runs a formatter.",
     },
     {
       invariantKind: "departure",
